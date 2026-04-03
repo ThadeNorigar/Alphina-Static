@@ -84,7 +84,7 @@ Die Nachbarin, Madame Herault, begegnet mir im Treppenhaus. Sie trägt einen Kor
 
 "Bonjour, Madame."
 
-Ich nicke. Sie weicht meinem Blick aus. Sie tut das immer — ein schnelles Zur-Seite-Schauen, als hätte sie etwas Heißes berührt. Ich weiß warum. Nicht weil ich unfreundlich bin, obwohl ich das auch bin. Sondern weil etwas an mir Menschen das Gefühl gibt, gelesen zu werden. Geöffnet, durchblättert, zurückgestellt. Wie ein Buch das man nicht darum gebeten hat.
+Ich nicke. Sie weicht meinem Blick aus. Sie tut das immer — ein schnelles Zur-Seite-Schauen, als hätte sie etwas Heißes berührt. Ich weiß warum. Etwas an mir gibt Menschen das Gefühl, gelesen zu werden. Geöffnet, durchblättert, zurückgestellt. Wie ein Buch das man nicht darum gebeten hat.
 
 Madame Herault nennt mich "la sorcière du quatrième." Die Hexe im Vierten. Das hat mir die Concierge erzählt, eine alte Frau mit Katzenhaaren am Mantel, die es für einen Witz hielt. Es ist kein Witz. Es ist die genaueste Beschreibung die je jemand von mir gegeben hat, und Madame Herault weiß es nicht einmal.
 
@@ -102,8 +102,7 @@ Dieser hier wächst auf dem einundfünfzigsten Breitengrad. In einem botanischen
 
 Ich lese den Namen und mein Körper reagiert bevor mein Kopf begreift.
 
-Es ist kein Gedanke. Es ist ein Pochen — tief, im Unterleib, warm und schwer, wie der Moment wenn jemand einen Namen flüstert den man nicht erwartet hat, und der Körper antwortet bevor der Verstand entscheidet ob man es zulässt oder wegsperrt. Meine Fingerspitzen kribbeln. Die Tasse Tee neben mir — kalt, vergessen — vibriert. Nicht sichtbar. Nicht messbar. Aber ich spüre es, in den Knochen meiner Finger, wie das Summen einer Stimmgabel die jemand angeschlagen hat.
-
+Es ist kein Gedanke. Meine Fingerspitzen kribbeln. Die Tasse Tee neben mir — kalt, vergessen — vibriert. Nicht sichtbar. Nicht messbar. Aber ich spüre es, in den Knochen meiner Finger, wie das Summen einer Stimmgabel die jemand angeschlagen hat.
 Vael.
 
 Ich kenne den Namen nicht. Ich war nie an der Grauküste, kenne niemanden dort, habe keinen Grund an einem Ort zu sein der nach Nebel und nassem Stein klingt. Und trotzdem — ein Gefühl wie Wiedererkennung, als hätte ein Teil von mir dort bereits gewartet, bevor ich wusste dass der Ort existiert. Als hätte jemand meinen Namen gerufen, von weit her, durch Wasser, verzerrt aber unverkennbar.
@@ -116,15 +115,9 @@ Ich lege den Brief hin. Die Pflanzen im Raum — alle neunundvierzig, die Farne,
 
 Es gibt Momente, in denen ich mich frage, was passieren würde, wenn ich aufhöre zu kontrollieren. Wenn ich die Tür öffne, hinter der ich alles verschlossen halte — die Pflanzen, das Pochen, die Fähigkeit oder die Störung oder was immer es ist, das Pflanzen dazu bringt, sich nach mir zu richten wie Kompasse nach Norden. Was dann rauskäme. Ob es schön wäre oder schrecklich. Ob ich es überleben würde.
 
-Drei Menschen haben versucht, diese Tür zu öffnen. Ein Historiker, der fünf Monate blieb und dessen Geduld ich aufgebraucht habe wie Brennholz. Eine Malerin, sechs Wochen, deren Wildheit ich erstickt habe, indem ich ruhiger wurde je lauter sie schrie. Ein Arzt, drei Monate, praktisch und direkt, der irgendwann sagte: "Ich habe das Gefühl, gegen eine Wand zu reden. Nur dass die Wand Tee serviert."
+Oder — und das ist der Gedanke, der mich nachts wachhält, bei zweiundneunzig Schlägen die Minute — vielleicht ist hinter der Mauer, nach der Laris gefragt hat, kein leerer Raum. Vielleicht ist er so voll, dass die Tür sich von innen biegt. Und die Kontrolle ist kein Schloss, sondern ein Damm.
 
-Alle drei haben denselben Satz gesagt, am Ende, mit verschiedenen Stimmen und derselben Wahrheit: *Du lässt mich nicht rein.*
-
-Vielleicht haben sie recht. Vielleicht ist hinter der Tür nichts. Ein leerer Raum, staubig und kalt, und die Kontrolle schützt nicht etwas Wertvolles, sondern verbirgt die Abwesenheit von etwas, das hätte da sein sollen.
-
-Oder — und das ist der Gedanke, der mich nachts wachhält, bei zweiundneunzig Schlägen die Minute — vielleicht ist der Raum nicht leer. Vielleicht ist er so voll, dass die Tür sich von innen biegt. Und die Kontrolle ist kein Schloss, sondern ein Damm.
-
-Ich hole den Koffer vom Schrank. Leder, abgewetzt, der Griff repariert mit einem Draht den ich vor Jahren in Porto — nein. In Solha. Es gibt keine Stadt namens Porto. Es gibt Solha, am Binnenmeer, wo ich einmal drei Tage war um einen Garten zu begutachten, und die Sonne dort war so hell dass ich Kopfschmerzen bekam. Velde ist das Gegenteil von Solha. Und Vael — Vael klingt wie das Gegenteil von allem.
+Ich hole den Koffer vom Schrank. Leder, abgewetzt, der Griff repariert mit einem Draht den ich in Solha gefunden habe, am Binnenmeer, wo die Sonne so hell war dass ich drei Tage lang Kopfschmerzen hatte. Velde ist das Gegenteil von Solha. Und Vael — Vael klingt wie das Gegenteil von allem.
 
 Ich packe. Nicht viel. Gutachten, Werkzeug, Lupe, Notizbuch, drei Hemden, ein Kleid das ich nie trage und trotzdem mitnehme, jedes Mal. Die Pflanzen — wer gießt die Pflanzen?
 
