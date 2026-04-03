@@ -55,7 +55,7 @@ er kannte, ohne ihn je gesehen zu haben: jemand, der mehr weiss
 als er zeigt.
 
 Er legte das Negativ auf die Arbeitfläche. Nahm die Pinzette. 
-Hielt sie ueber das Bild.
+Hielt sie über das Bild.
 
 Seine Hand zitterte nicht. Sorels Hände zitterten nie. Das war das 
 Problem — nicht die Hände, sondern die Tatsache, dass alles in ihm 
@@ -70,7 +70,7 @@ Er schaute zurück.
 
 **Sorels Stimme:** Lang, fließend, meditativ. Seine Absätze sind die längsten. Er denkt in Bildern — buchstäblich. Jede Wahrnehmung wird visuell kodiert. Er beschreibt Emotionen als Lichtverhältnisse: "Es wurde dunkler in ihm" ist keine Metapher, es ist wie er fühlt.
 
-**Vespers Stimme:** Kurz. Abgehackt. Präzise wie ein Uhrwerk. Seine Absätze sind die kürzesten. Er denkt in Zuegen — Aktion, Reaktion, Konsequenz. Drei Schritte voraus, immer. Sein innerer Monolog ist ein Schachspiel gegen sich selbst.
+**Vespers Stimme:** Kurz. Abgehackt. Präzise wie ein Uhrwerk. Seine Absätze sind die kürzesten. Er denkt in Zügen — Aktion, Reaktion, Konsequenz. Drei Schritte voraus, immer. Sein innerer Monolog ist ein Schachspiel gegen sich selbst.
 
 ```
 Die Uhr war perfekt.
@@ -170,7 +170,7 @@ King wiederholt Sätze, Bilder, Motive. "Die Uhr verliert vier Minuten und dreiu
 
 ### Aufbau einer Schlüsselszene (8-20 Seiten):
 
-Wie oben, aber: Der Gedankenstrom wird zum Strudel. Die Figur verliert die Kontrolle über ihre eigenen Gedanken. Der Ausloeser ist nicht ein Moment, sondern ein Prozess — die Szene eskaliert in Schichten. Am Ende steht nicht eine Veränderung, sondern eine Unumkehrbarkeit.
+Wie oben, aber: Der Gedankenstrom wird zum Strudel. Die Figur verliert die Kontrolle über ihre eigenen Gedanken. Der Auslöser ist nicht ein Moment, sondern ein Prozess — die Szene eskaliert in Schichten. Am Ende steht nicht eine Veränderung, sondern eine Unumkehrbarkeit.
 
 ---
 
@@ -194,7 +194,7 @@ Ich wählte die vierte.
 "Der Farn."
 
 "Asplenium scolopendrium. Er wächst hier auf dem einundfünfzigsten 
-Breitengrad, was nicht moeglich ist."
+Breitengrad, was nicht möglich ist."
 
 "Und dafür fährst du von Brüssel nach Vael."
 
@@ -219,42 +219,42 @@ Wir beschreiben nicht, was zwei Körper tun. Wir beschreiben, was ein Bewusstsei
 
 Alphina dominiert — aber der Text zeigt die Innenseite der Dominanz. Es ist keine Macht-Fantasie. Es ist eine Frau, die kontrolliert weil sie sich fürchtet, und die spürt, dass die Kontrolle sie gleichzeitig schützt und zerstört.
 
-Sorel submittiert nicht — er laesst sie. Das ist ein Unterschied. Er hat kein Beduerfnis sich zu unterwerfen. Er hat das Beduerfnis, jemandem zu vertrauen, der stark genug ist, seine Dunkelheit auszuhalten. Wenn Alphina die Fuehrung uebernimmt, ist das fuer ihn keine Unterwerfung. Es ist Erleichterung.
+Sorel submittiert nicht — er lässt sie. Das ist ein Unterschied. Er hat kein Bedürfnis sich zu unterwerfen. Er hat das Bedürfnis, jemandem zu vertrauen, der stark genug ist, seine Dunkelheit auszuhalten. Wenn Alphina die Führung übernimmt, ist das für ihn keine Unterwerfung. Es ist Erleichterung.
 
-Die Verschiebung — und das ist der Kern — kommt, wenn Alphina die Kontrolle VERLIERT. Nicht an Sorel. An sich selbst. An ihre eigene Reaktion auf ihn. An den Moment, in dem ihr Koerper schneller ist als ihr Kopf. In dem Pflanzen im Raum wachsen, weil ihre Emotionen ueberkochen. In dem sie merkt: Sie kontrolliert alles — ausser das, was sie fuer ihn empfindet.
+Die Verschiebung — und das ist der Kern — kommt, wenn Alphina die Kontrolle VERLIERT. Nicht an Sorel. An sich selbst. An ihre eigene Reaktion auf ihn. An den Moment, in dem ihr Körper schneller ist als ihr Kopf. In dem Pflanzen im Raum wachsen, weil ihre Emotionen überkochen. In dem sie merkt: Sie kontrolliert alles — außer das, was sie für ihn empfindet.
 
-DAS ist Dark Romance. Nicht Handschellen und Befehle. Sondern eine Frau, die entdeckt, dass ihre groesste Staerke ihre groesste Verwundbarkeit ist.
+DAS ist Dark Romance. Nicht Handschellen und Befehle. Sondern eine Frau, die entdeckt, dass ihre größte Stärke ihre größte Verwundbarkeit ist.
 
 ### Explizitheit
 
 **Explizit, aber nie pornografisch.** Der Unterschied: Pornografie beschreibt Mechanik. Erotik beschreibt Erleben. Wir beschreiben Erleben.
 
-Jede intime Szene hat eine emotionale Funktion im Plot. Sex ist nie "nur Sex." Es ist der Moment, in dem die Magie am staerksten blitzt (Regel 6), in dem Alphinas Kontrolle bricht, in dem Sorel zum ersten Mal seit seiner Schwester etwas fuehlt, das staerker ist als Trauer.
+Jede intime Szene hat eine emotionale Funktion im Plot. Sex ist nie "nur Sex." Es ist der Moment, in dem die Magie am stärksten blitzt (Regel 6), in dem Alphinas Kontrolle bricht, in dem Sorel zum ersten Mal seit seiner Schwester etwas fühlt, das stärker ist als Trauer.
 
-Frequenz: Drei grosse Szenen im ganzen Buch. Nicht mehr. Dazwischen: Spannung, Beinahe-Beruehrungen, Blicke die laenger dauern als sie sollten, Alphinas Ich-Perspektive die zerlegt, was ein Blick von Sorel in ihr ausloest. Die Vorfreude ist staerker als der Akt.
+Frequenz: Drei große Szenen im ganzen Buch. Nicht mehr. Dazwischen: Spannung, Beinahe-Berührungen, Blicke die länger dauern als sie sollten, Alphinas Ich-Perspektive die zerlegt, was ein Blick von Sorel in ihr auslöst. Die Vorfreude ist stärker als der Akt.
 
 ---
 
 ## Magie auf der Seite
 
-**Nie ankuendigen.** Magie passiert mitten in einem normalen Satz.
+**Nie ankündigen.** Magie passiert mitten in einem normalen Satz.
 
 **Falsch:**
-"Ploetzlich geschah etwas Seltsames. Die Pflanze begann sich zu bewegen."
+"Plötzlich geschah etwas Seltsames. Die Pflanze begann sich zu bewegen."
 
 **Richtig:**
 "Ich stellte die Teetasse ab und der Farn auf dem Fensterbrett drehte seinen Wedel nach mir, wie ein Hund der den Kopf hebt wenn sein Mensch den Raum betritt. Ich trank meinen Tee. Der Farn drehte sich weiter. Ich beschloss, das nicht zu bemerken."
 
-Magie ist kein Event. Magie ist ein Detail, das nicht stimmt. Der Ton einer Szene aendert sich nicht, wenn etwas Uebernatuerliches passiert. Es passiert einfach, mitten im Alltag, mitten im Satz, und die Figur reagiert so, wie Menschen auf Dinge reagieren, die nicht sein koennen: Sie ignorieren es. Bis sie es nicht mehr koennen.
+Magie ist kein Event. Magie ist ein Detail, das nicht stimmt. Der Ton einer Szene ändert sich nicht, wenn etwas Übernatürliches passiert. Es passiert einfach, mitten im Alltag, mitten im Satz, und die Figur reagiert so, wie Menschen auf Dinge reagieren, die nicht sein können: Sie ignorieren es. Bis sie es nicht mehr können.
 
 ---
 
 ## Kapitelstruktur
 
-- **Kapitel:** Nummeriert, kein Titel. Nur der Name der POV-Figur als Ueberschrift.
-- **Laenge:** 12-25 Seiten. Keine Mini-Kapitel. Der Leser soll einsinken, nicht springen.
-- **Cliffhanger:** Sparsam. Nicht jedes Kapitel endet mit einem Knall. Die staerksten Kapitelenden sind leise — ein Satz, der alles verschiebt, ohne laut zu sein.
-- **1623-Interludien:** Alle 80-100 Seiten. Kurz (5-8 Seiten). Dritte Person, Praeteritum, keine benannte POV — der Erzaehler ist das Manuskript selbst. Altmodischer Ton, aber nicht parodistisch. Als wuerde jemand sich muehe geben, die Wahrheit aufzuschreiben, bevor er sie vergisst.
+- **Kapitel:** Nummeriert, kein Titel. Nur der Name der POV-Figur als Überschrift.
+- **Länge:** 12-25 Seiten. Keine Mini-Kapitel. Der Leser soll einsinken, nicht springen.
+- **Cliffhanger:** Sparsam. Nicht jedes Kapitel endet mit einem Knall. Die stärksten Kapitelenden sind leise — ein Satz, der alles verschiebt, ohne laut zu sein.
+- **1623-Interludien:** Alle 80-100 Seiten. Kurz (5-8 Seiten). Dritte Person, Präteritum, keine benannte POV — der Erzähler ist das Manuskript selbst. Altmodischer Ton, aber nicht parodistisch. Als würde jemand sich Mühe geben, die Wahrheit aufzuschreiben, bevor er sie vergisst.
 
 ---
 
@@ -262,9 +262,9 @@ Magie ist kein Event. Magie ist ein Detail, das nicht stimmt. Der Ton einer Szen
 
 Was wir nie tun:
 
-- **"Sie wusste nicht, dass..."** — Wenn die POV-Figur es nicht weiss, schreiben wir es nicht. Keine auktoriale Information.
-- **Erklaerende Rueckblenden.** Kein "Drei Jahre zuvor hatte Alphina..." als Info-Dump. Rueckblenden sind Szenen, nicht Zusammenfassungen.
-- **Emotionen benennen.** "Sie war traurig" existiert nicht. "Ihre Haende lagen auf dem Tisch wie Dinge, die jemandem anderem gehoerten" existiert.
-- **Schoenreden.** Wenn eine Figur etwas Haessliches denkt, steht es da. Alphina hat Kontroll-Fantasien. Sorel hat Todessehnsucht. Vesper hat Verachtung. Maren hat Bindungsangst. Wir beschoenigen nichts.
-- **Magie erklaeren.** Kein Mentor, kein altes Buch das alles verraet, kein Moment in dem jemand sagt "Es funktioniert so:..." Esther Voss hat das Manuskript. Das Manuskript ist beschaedigt. Die Luecken sind der Punkt.
-- **Cliffhanger-Betrug.** Wenn ein Kapitel mit Gefahr endet, beginnt das naechste nicht mit der Aufloesung. Es beginnt mit einer anderen Figur. Die Aufloesung kommt — aber spaeter, und anders als erwartet.
+- **"Sie wusste nicht, dass..."** — Wenn die POV-Figur es nicht weiß, schreiben wir es nicht. Keine auktoriale Information.
+- **Erklärende Rückblenden.** Kein "Drei Jahre zuvor hatte Alphina..." als Info-Dump. Rückblenden sind Szenen, nicht Zusammenfassungen.
+- **Emotionen benennen.** "Sie war traurig" existiert nicht. "Ihre Hände lagen auf dem Tisch wie Dinge, die jemandem anderem gehörten" existiert.
+- **Schönreden.** Wenn eine Figur etwas Hässliches denkt, steht es da. Alphina hat Kontroll-Fantasien. Sorel hat Todessehnsucht. Vesper hat Verachtung. Maren hat Bindungsangst. Wir beschönigen nichts.
+- **Magie erklären.** Kein Mentor, kein altes Buch das alles verrät, kein Moment in dem jemand sagt "Es funktioniert so:..." Esther Voss hat das Manuskript. Das Manuskript ist beschädigt. Die Lücken sind der Punkt.
+- **Cliffhanger-Betrug.** Wenn ein Kapitel mit Gefahr endet, beginnt das nächste nicht mit der Auflösung. Es beginnt mit einer anderen Figur. Die Auflösung kommt — aber später, und anders als erwartet.
