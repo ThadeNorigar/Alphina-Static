@@ -1,0 +1,16 @@
+/* Maren — fluid, coastal, shifting blue-green */
+:root {
+  --cream: #f4f5f2;
+  --warm: #e0e4dc;
+  --ink: #2a2d28;
+  --muted: #6b7268;
+  --accent: #5a7e6c;
+  --accent-faint: rgba(90, 126, 108, 0.1);
+  --accent-mid: rgba(90, 126, 108, 0.15);
+  --sage: #4a6858;
+  --deep: #1a1e1b;
+  --deep-text: #e0e4dc;
+  --smoke: #828a7e;
+  --header-gradient-end: #dbe2d8;
+  --portrait-bg: linear-gradient(135deg, #e0e4dc 0%, #d2dace 50%, #f4f5f2 100%);
+}
