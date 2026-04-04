@@ -34,8 +34,52 @@ Für jede Szene:
 
 1. Alle Szenen in `buch/kapitel/XX-FIGUR.md` zusammensetzen
 2. `wc -w` Gesamtkapitel (Ziel: 3.500-5.000)
-3. Systematischer Logik-Check über das ganze Kapitel
-4. Final Council auf Gesamtkapitel
+
+## Phase 3.5: Automatische Prüfung
+
+Starte einen Agent (Sonnet) der das Gesamtkapitel prüft UND Fixes direkt einarbeitet.
+
+**Input für den Agent:**
+- Das Gesamtkapitel (`buch/kapitel/XX-FIGUR.md`)
+- Die Weltbibel (`buch/00-welt.md`)
+- Die Stilregeln (`buch/02-stilregeln-v2.md`)
+- Das vorherige fertige Kapitel (für Konsistenz)
+
+**Agent-Prompt (alle Checks in einem Durchlauf):**
+
+```
+Du bist der Lektor von "Die Schwelle". Lies das Kapitel, die Weltbibel, die Stilregeln und das vorherige Kapitel. Führe ALLE folgenden Checks durch und arbeite Fixes DIREKT in die Datei ein.
+
+HARTE CHECKS (mit Grep zählen, dann fixen):
+1. "nicht X — sondern Y" Konstruktionen: Max 2x pro Kapitel. Überzählige umschreiben.
+2. "wie etwas das..." Vergleiche: Max 4x pro Kapitel. Überzählige umschreiben.
+3. Wort/Phrase die >7x vorkommt: Variieren oder streichen.
+4. Ortsnamen und Himmelsrichtungen: Gegen Weltbibel prüfen. Fixes einarbeiten.
+5. Technologie: Frühes 19. Jhd. Kein Strom, keine Motoren. Anachronismen fixen.
+
+WEICHE CHECKS (LLM-Urteil, dann fixen):
+6. Erklärende Nachsätze ("weil...", "nicht weil... sondern weil..."): Streichen wenn der Leser es ohne versteht.
+7. Emotionen benannt statt gezeigt ("Er war traurig"): Durch Körperreaktion ersetzen.
+8. Zusammenfassende Sätze die wiederholen was gerade passiert ist: Streichen.
+9. Figurenwissen: Weiß die Figur etwas das sie nicht wissen kann? Fixen.
+10. Magie angekündigt ("Plötzlich geschah etwas Seltsames"): Mitten in den Alltag einbauen.
+
+NACH ALLEN FIXES:
+- wc -w auf die Datei
+- Erstelle einen Prüfbericht als Antwort:
+
+## Prüfbericht Kapitel XX
+- Fixes: N eingearbeitet
+- Wörter: vorher → nachher
+- Verbleibende Findings (falls etwas nicht auto-fixbar):
+| # | Typ | Stelle | Problem |
+```
+
+**Nach dem Agent:** Prüfbericht lesen. Wenn verbleibende Findings → manuell entscheiden. Dann weiter.
+
+## Phase 3.6: Final Council
+
+Final Council auf das geprüfte Gesamtkapitel.
 
 ## Phase 4: Deploy
 
