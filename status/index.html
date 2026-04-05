@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Die Schwelle — Kapitel-Status</title>
+  <link rel="stylesheet" href="../styles.css">
+  <style>
+    :root {
+      --cream: #f5f0e8; --ink: #1e1c19; --muted: #6b6259;
+      --accent: #6b3a3a; --deep: #0f0e0c; --smoke: #8a8279;
+      --paper: #f8f4ee; --paper-edge: #e8e0d4;
+    }
+    body { background: var(--deep); display: flex; justify-content: center; padding: 2rem 1rem; }
+    nav { display: none; }
+    .wrap { width: 100%; max-width: 900px; }
+
+    .page-title {
+      text-align: center; padding: 1rem 0 0.5rem;
+      font-family: 'Cormorant Garamond', serif; font-size: 0.7rem;
+      letter-spacing: 0.4em; text-transform: uppercase; color: var(--smoke);
+    }
+
+    .stats {
+      text-align: center; padding: 0.5rem 0 2rem;
+      font-family: 'Cormorant Garamond', serif; font-size: 0.85rem;
+      color: var(--smoke); letter-spacing: 0.05em;
+    }
+    .stats strong { color: var(--paper-edge); }
+
+    .legend {
+      display: flex; gap: 0.8rem; justify-content: center; flex-wrap: wrap;
+      padding-bottom: 1.5rem;
+    }
+    .legend-item {
+      display: flex; align-items: center; gap: 0.3rem;
+      font-family: 'Inter', sans-serif; font-size: 0.65rem;
+      color: var(--smoke); letter-spacing: 0.02em;
+    }
+    .legend-dot { width: 8px; height: 8px; border-radius: 50%; }
+
+    .akt-group {
+      background: var(--paper); border-radius: 2px 6px 6px 2px;
+      box-shadow: 0 0 0 1px var(--paper-edge), 0 8px 24px rgba(0,0,0,0.25);
+      margin-bottom: 1.5rem; overflow: hidden; position: relative;
+    }
+    .akt-group::before {
+      content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 3px;
+      background: linear-gradient(180deg, var(--paper-edge) 0%, #c8bfb0 50%, var(--paper-edge) 100%);
+    }
+    .akt-head {
+      padding: 1.2rem 1.5rem 0.8rem;
+      font-family: 'Cormorant Garamond', serif; font-size: 0.7rem;
+      letter-spacing: 0.3em; text-transform: uppercase; color: var(--smoke);
+      border-bottom: 1px solid rgba(107,58,58,0.06);
+    }
+
+    .ch-row {
+      display: grid; grid-template-columns: 50px 1fr 90px 70px;
+      align-items: center; padding: 0.5rem 1.5rem;
+      border-bottom: 1px solid rgba(107,58,58,0.03);
+      font-family: 'Cormorant Garamond', serif; font-size: 0.9rem;
+      color: var(--ink); transition: background 0.2s;
+    }
+    .ch-row:hover { background: rgba(107,58,58,0.02); }
+    .ch-row:last-child { border-bottom: none; }
+    .ch-row.interlude { font-style: italic; color: var(--muted); }
+
+    .ch-num { font-size: 0.8rem; color: var(--smoke); font-weight: 600; }
+    .ch-title { font-size: 0.9rem; }
+    .ch-status {
+      display: flex; align-items: center; gap: 0.4rem;
+      font-size: 0.7rem; letter-spacing: 0.05em; text-transform: uppercase;
+    }
+    .ch-words { font-size: 0.75rem; color: var(--smoke); text-align: right; }
+
+    .dot { width: 7px; height: 7px; border-radius: 50%; flex-shrink: 0; }
+
+    .s-idee .dot, .s-idee { color: #666; }
+    .s-idee .dot { background: #666; }
+    .s-szenenplan .dot, .s-szenenplan { color: #8B7355; }
+    .s-szenenplan .dot { background: #8B7355; }
+    .s-entwurf .dot, .s-entwurf { color: #B8860B; }
+    .s-entwurf .dot { background: #B8860B; }
+    .s-council .dot, .s-council { color: #CD853F; }
+    .s-council .dot { background: #CD853F; }
+    .s-logik-check .dot, .s-logik-check { color: #6B8E23; }
+    .s-logik-check .dot { background: #6B8E23; }
+    .s-lektorat .dot, .s-lektorat { color: #4682B4; }
+    .s-lektorat .dot { background: #4682B4; }
+    .s-final .dot, .s-final { color: #2E8B57; }
+    .s-final .dot { background: #2E8B57; }
+
+    .progress-bar {
+      width: 100%; height: 4px; background: rgba(107,58,58,0.08);
+      border-radius: 2px; margin: 0.3rem 0; overflow: hidden;
+    }
+    .progress-fill { height: 100%; border-radius: 2px; transition: width 0.5s; }
+
+    @media (max-width: 600px) {
+      .ch-row { grid-template-columns: 40px 1fr 70px; font-size: 0.8rem; }
+      .ch-words { display: none; }
+      .ch-status { font-size: 0.6rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="grain"></div>
+  <div class="wrap">
+    <div class="page-title">Die Schwelle — Kapitel-Status</div>
+    <div class="stats" id="stats"></div>
+
+    <div class="legend">
+      <div class="legend-item"><div class="legend-dot" style="background:#666"></div> Idee</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#8B7355"></div> Szenenplan</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#B8860B"></div> Entwurf</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#CD853F"></div> Council</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#6B8E23"></div> Logik-Check</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#4682B4"></div> Lektorat</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#2E8B57"></div> Final</div>
+    </div>
+
+    <div id="board"></div>
+  </div>
+
+  <script>
+    fetch('/buch/status.json')
+      .then(r => r.json())
+      .then(data => {
+        const board = document.getElementById('board');
+        const chapters = data.buch1;
+        const keys = Object.keys(chapters);
+
+        // Stats
+        const total = keys.length;
+        const finalCount = keys.filter(k => chapters[k].status === 'final').length;
+        const draftCount = keys.filter(k => ['entwurf','council','logik-check','lektorat'].includes(chapters[k].status)).length;
+        const totalWords = keys.reduce((s, k) => s + (chapters[k].woerter || 0), 0);
+        document.getElementById('stats').innerHTML =
+          `<strong>${finalCount}</strong> / ${total} final · <strong>${draftCount}</strong> in Arbeit · <strong>${totalWords.toLocaleString('de-DE')}</strong> Wörter`;
+
+        // Progress bar
+        const pct = Math.round((finalCount / total) * 100);
+        const bar = document.createElement('div');
+        bar.className = 'progress-bar';
+        bar.innerHTML = `<div class="progress-fill" style="width:${pct}%;background:#2E8B57"></div>`;
+        document.getElementById('stats').appendChild(bar);
+
+        // Group by Akt
+        const akts = [
+          { name: 'Akt I — Anker', from: '01', to: '11', interl: ['I1','I2'] },
+          { name: 'Akt II — Zusammenfinden', from: '12', to: '22', interl: ['I3','I4','I5'] },
+          { name: 'Akt III — Eskalation', from: '23', to: '32', interl: ['I6','I7'] },
+          { name: 'Akt IV — Die Schwelle', from: '33', to: '40', interl: ['I8','I9'] }
+        ];
+
+        // Build ordered key list per akt (matching the kapitelplan order)
+        const aktKeyOrder = [
+          ['01','02','03','04','I1','05','06','07','08','I2','09','10','11'],
+          ['12','13','14','15','I3','16','17','18','I4','19','20','21','22','I5'],
+          ['23','24','25','26','I6','27','28','29','30','I7','31','32'],
+          ['33','34','35','36','I8','37','38','I9','39','40']
+        ];
+
+        akts.forEach((akt, ai) => {
+          const group = document.createElement('div');
+          group.className = 'akt-group';
+
+          const head = document.createElement('div');
+          head.className = 'akt-head';
+          head.textContent = akt.name;
+          group.appendChild(head);
+
+          aktKeyOrder[ai].forEach(key => {
+            const ch = chapters[key];
+            if (!ch) return;
+            const isInterlude = key.startsWith('I');
+            const row = document.createElement('div');
+            row.className = 'ch-row' + (isInterlude ? ' interlude' : '');
+            row.innerHTML = `
+              <div class="ch-num">${isInterlude ? key : 'Kap ' + key}</div>
+              <div class="ch-title">${ch.titel}</div>
+              <div class="ch-status s-${ch.status}"><div class="dot"></div> ${ch.status}</div>
+              <div class="ch-words">${ch.woerter ? ch.woerter.toLocaleString('de-DE') + ' W' : '—'}</div>
+            `;
+            group.appendChild(row);
+          });
+
+          board.appendChild(group);
+        });
+      });
+  </script>
+</body>
+</html>
