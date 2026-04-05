@@ -107,7 +107,7 @@ Eine Welt mit eigener Sonne, eigenem Himmel, zwei Monden. Berge, Meere, Wälder,
 
 Die Zivilisation ist alt. Städte aus Material das aussieht wie Stein und sich anfühlt wie Holz und warm ist. Türme die nicht gebaut sondern gewachsen sind. Straßen die sich verändern. Brücken über Flüsse die bergauf fließen.
 
-Die Bewohner: Menschen. Größer als Thalassier, feingliedriger. Helle Haut, dunkle Haare — schwarz, tiefbraun, selten rötlich. Die Augen: ungewöhnliche Farben. Purpur, Weinrot, tiefes Violett, manchmal Schwarz ohne sichtbare Iris. Keine Aliens — Menschen, die anders aussehen. Wie jemand aus einem Land das man nie besucht hat. Sie sprechen eine Sprache die klingt wie altes Thalassisch, verdreht, als hätte jemand dieselbe Sprache 10.000 Jahre in eine andere Richtung entwickelt. Wortfetzen sind verständlich.
+Die Bewohner: Menschen. Größer als Thalassier, feingliedriger. Helle Haut, dunkle Haare — schwarz, tiefbraun, selten rötlich. Die Augen: dunkle Farben. Purpur, Weinrot, tiefes Violett, Schwarz, Dunkelgrün, Dunkelblau, Braun. Immer dunkel — keine hellen Augen in Moragh. Keine Aliens — Menschen, die anders aussehen. Wie jemand aus einem Land das man nie besucht hat. Sie sprechen eine Sprache die klingt wie altes Thalassisch, verdreht, als hätte jemand dieselbe Sprache 10.000 Jahre in eine andere Richtung entwickelt. Wortfetzen sind verständlich.
 
 ### Magie in Moragh
 
