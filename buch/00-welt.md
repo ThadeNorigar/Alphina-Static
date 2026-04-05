@@ -89,13 +89,13 @@ Zwei Pfeiler aus schwarzem Basalt, ein Bogen, Zeichen die niemand in Thalassien 
 
 Das Tor wird von der Moragh-Seite kontrolliert. Es kann geöffnet und geschlossen werden — durch Magie, durch einen Beschwörer der mächtig genug ist. Wenn es offen ist, kann man durchgehen. In beide Richtungen.
 
-Die Zeit läuft unterschiedlich. **1 Moragh-Jahr = 400 Thalassien-Jahre.** Das Verhältnis ist stabil. Elke ging vor ~200 Thalassien-Jahren durch = vor ~6 Moragh-Monaten. Die gesamte Trilogie auf Moragh-Seite dauert ~1 Jahr.
+Die Zeit läuft unterschiedlich. **1 Moragh-Jahr = 400 Thalassien-Jahre.** Das Verhältnis ist stabil. Elke ging vor ~200 Thalassien-Jahren durch = vor ~6 Moragh-Monaten. Die gesamte Trilogie (*Der Riss / Das Auge / Die Naht*) auf Moragh-Seite dauert ~1 Jahr.
 
 ### Warum es Resonanz-Begabte anzieht
 
 Das offene Tor strahlt aus. Magie-Lecks, die in Thalassien wie Anomalien wirken — und die Menschen mit Resonanz anziehen. Resonanz ist ein Sinn, den die meisten Thalassier nicht haben. Die wenigen, die ihn haben, spüren das offene Tor wie einen Magneten.
 
-**Keine orchestrierten Köder.** Das Tor zieht an — subtil, über Monate. Alphinas Pflanzen zeigen nach Norden. Sorel findet zufällig eine Glasplatte aus Vael. Vesper hört von einer unmöglichen Uhr. Maren erbt eine Werft. Jeder kommt aus eigenem Antrieb, gezogen von etwas das sie nicht benennen können. Der Antagonist hat das Tor geöffnet und das Manuskript platziert — aber die Vier hat er nicht gerufen. Das Tor hat sie gerufen.
+**Keine orchestrierten Köder.** Das Tor zieht an — subtil, über Monate. Alphinas Pflanzen zeigen nach Norden. Sorel findet zufällig eine Glasplatte aus Vael. Vesper hört in einem Gasthaus von einer Uhr die falsch geht. Maren erbt eine Werft. Jeder kommt aus eigenem Antrieb, gezogen von etwas das sie nicht benennen können. Der Antagonist hat das Tor geöffnet und das Manuskript platziert — aber die Vier hat er nicht gerufen. Das Tor hat sie gerufen.
 
 ---
 
@@ -318,7 +318,7 @@ Bildhauerin. Aus dem Süden, Binnenmeerküste. Tochter eines Steinmetzmeisters, 
 
 Elke ging durch das Tor. Die anderen drei (Johann, Lene, Kaspar) hatten Angst und blieben. Elke nicht. Sie ging durch und lebt seitdem in Moragh. 400 Thalassien-Jahre, aber nur Wochen/Monate in Moragh-Zeit. Sie spricht die Sprache. Kennt die Welt. Hat einen Garten in dem Pflanzen aus beiden Welten wachsen — gewachsen aus dem Stein den sie geformt hat.
 
-**In Buch 2:** Elke wird die Führerin der Drei. Sie kennt Moragh. Sie kennt die Sprache. Sie misstraut beiden Seiten — dem Antagonisten UND den Städten.
+**In Buch 2:** Elke wird die Führerin der Vier (Alphina, Vesper, Maren, Runa). Sie kennt Moragh. Sie kennt die Sprache. Sie misstraut beiden Seiten — dem Antagonisten UND den Städten.
 
 ---
 
@@ -372,7 +372,21 @@ Alphina trauert um Sorel. Ihre Macht wächst — unkontrolliert, erschreckend. R
 
 Die Maschinisten entdecken Runas Feuer-Resonanz. Wollen sie. Runa muss wählen.
 
-**Die Frage von Buch 2:** Was passiert mit Menschen die unbegrenzte Macht haben — in einer Welt in der Macht einen Preis hat? Und: Ist die Resonanz wirklich kostenlos? Oder zahlt Moragh den Preis?
+**Die Frage von Buch 2:** Was passiert mit Menschen die unbegrenzte Macht haben — in einer Welt in der Macht einen Preis hat? Moragh zerfällt nicht wegen der Thalassier — es zerfällt wegen des Krieges, wegen Übernutzung durch die eigenen Fraktionen. Die Ungerechtigkeit der kostenlosen Resonanz IST der Konflikt. Kein versteckter Preis.
+
+---
+
+## Buch 3 — Die Naht (Übersicht)
+
+Zeitsprung: ~2220 Thalassien-Jahre seit dem Durchgang. In Moragh: ~5,5 Jahre. Thalassien hat sich weiterentwickelt — Industrialisierung, erste Wissenschaftler die das Tor theoretisch verstehen. Das Tor öffnet sich erneut.
+
+Wiedervereinigung der Welten. Thalassien-Wissenschaftler kommen nach Moragh, erkennen die "Sonne" als Schwarzes Loch. Moragh-Menschen verstehen nicht warum das verstörend ist.
+
+Alphina, Vesper, Maren, Runa — gealtert in Moragh-Zeit, aber nicht in Thalassien-Zeit. Ihre Welt existiert nicht mehr wie sie sie kannten. Vael ist eine Großstadt. Die Grauküste industrialisiert.
+
+**Alphina stirbt.** Die Umstände sind Teil der Geschichte von Buch 3. Die Pflanzen um sie herum wachsen ein letztes Mal. Dann Stille.
+
+Die Naht zwischen den Welten bleibt offen. Nicht als Tor — als Grenze die beide Seiten akzeptieren.
 
 ---
 
