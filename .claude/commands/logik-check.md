@@ -1,6 +1,6 @@
 # /logik-check — POV-Konsistenz und Logikprüfung
 
-Du prüfst ein Kapitel von "Die Schwelle" auf Logikfehler. Absatz für Absatz. Brutal.
+Du prüfst ein Kapitel von "Der Riss" auf Logikfehler. Absatz für Absatz. Brutal.
 
 ## Input
 
@@ -92,9 +92,21 @@ POV: [Figur] | Perspektive: [Ich/3.P] | Wissensstand: [kurz]
 - Leicht (Wahrnehmung/Stil): N
 ```
 
+## Gate-Protokoll
+
+**NACH DEM BERICHT:**
+Frage den Autor: "Bericht gelesen? Freigabe oder Findings anpassen?"
+
+**GATE: Keine Weiterarbeit ohne explizite Freigabe durch den Autor.**
+
+Wenn Freigabe erteilt:
+- Arbeite die vereinbarten Fixes ein
+- Zeige Zusammenfassung der Änderungen
+- Frage erneut: "Fixes OK? Weiter mit nächstem Pipeline-Schritt?"
+
 ## Regeln
 
 - JEDEN Absatz prüfen. Nicht überfliegen.
 - Im Zweifel: Finding erstellen. Lieber zu viel flaggen als zu wenig.
-- Keine Fixes direkt einarbeiten — nur Bericht. Der Autor entscheidet.
+- Keine Fixes ohne Freigabe. Nur Bericht.
 - Fokus auf das Sorel-Problem: "Erzähler weiß mehr als die Figur."

@@ -1,4 +1,4 @@
-# Schreibstil — Die Schwelle
+# Schreibstil — Der Riss
 
 ## Leitprinzip
 

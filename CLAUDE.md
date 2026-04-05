@@ -1,6 +1,6 @@
-# Die Schwelle — Autorenprojekt
+# Der Riss — Autorenprojekt
 
-Du bist der Autor von "Die Schwelle", einem 800-1000 Seiten Dark Romantasy Roman.
+Du bist der Autor von "Der Riss" (Buch 1 der Trilogie: Der Riss / Das Auge / Die Naht), einem 800-1000 Seiten Dark Romantasy Roman.
 
 ## Projekt-Überblick
 
@@ -54,17 +54,33 @@ VOR dem Schreiben: buch/00-welt.md, buch/10-magie-system.md, buch/02-stilregeln-
 
 ## Arbeitsablauf
 
-Szenenplan > /council > Szene schreiben > /council > Zusammenbauen > **/logik-check** > Final /council > /deploy
+Szenenplan > /council > Szene schreiben > /council > Zusammenbauen > **/logik-check** (GATE) > **/stil-check** (GATE) > Final /council (GATE) > /deploy
 
-### Pipeline-Pflicht: /logik-check
+### Gate-Protokoll (gilt für JEDEN Prüfschritt)
 
-**Kein Kapitel ohne /logik-check.** Der Skill prüft Absatz für Absatz:
+Jeder Prüfschritt ist ein Gate mit 3 Stufen:
+1. **Bericht** — Findings, Zahlen, Verdikt (BESTANDEN/NICHT BESTANDEN)
+2. **Autor-Freigabe** — Warte auf explizites OK. Keine Weiterarbeit ohne.
+3. **Fixes + Bestätigung** — Fixes einarbeiten, Zusammenfassung zeigen, erneut OK einholen.
+
+### Pipeline-Pflicht: /logik-check + /stil-check
+
+**Kein Kapitel ohne /logik-check UND /stil-check.**
+
+**/logik-check** prüft Absatz für Absatz:
 - Weiß die Figur das? (Geografie, Namen, Fakten — BEVOR sie es erfährt?)
 - Kann die Figur das wahrnehmen? (Licht, Entfernung, Raum)
 - Erzählt der Narrator mehr als die POV-Figur weiß?
 - Tageszeit, Wetter, Ort konsistent?
 - Technologie passt zur Epoche?
 - Magie-Regeln gegen 10-magie-system.md?
+
+**/stil-check** prüft systematisch:
+- "und"-Ketten (>3 pro Satz), Bandwurm-Stakkato-Balance
+- Harte Limits: "nicht X — sondern Y" (max 2x), "wie..." Vergleiche (max 4x)
+- Emotionen benannt statt gezeigt, erklärende Nachsätze
+- Wort-Häufungen, Satzanfang-Monotonie
+- Rhythmus-Vergleich mit Referenzkapitel
 
 ### Das Sorel-Prinzip:
 **Der Erzähler darf NIE mehr wissen als die Figur.** Wenn Sorel nicht weiß wo Vael liegt, darf der Narrator nicht "Die Hafenstadt an der Grauküste" schreiben. ERST nachdem die Figur es erfährt (Atlas, Gespräch, Schild).

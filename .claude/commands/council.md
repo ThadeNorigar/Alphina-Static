@@ -1,6 +1,6 @@
 # /council — Fiction Council Review
 
-Reviewe ein Kapitel oder eine Szene von "Die Schwelle" mit 3 spezialisierten Agenten.
+Reviewe ein Kapitel oder eine Szene von "Der Riss" mit 3 spezialisierten Agenten.
 
 ## Input
 
@@ -31,5 +31,15 @@ Argument: Pfad zur Datei (z.B. `buch/kapitel/02-szene1.md`)
 ## Output
 
 VERDIKT: Bereit? Ja/Nein + konkrete Fixes.
+
+## Gate-Protokoll
+
+**NACH DEM VERDIKT:**
+Zeige dem Autor:
+1. Zusammenfassung der Findings (max 5 Zeilen)
+2. Verdikt (BESTANDEN / NICHT BESTANDEN)
+3. Frage: "Freigabe für nächsten Pipeline-Schritt, oder Findings anpassen?"
+
+**GATE: Keine Weiterarbeit ohne explizite Freigabe durch den Autor.**
 
 $ARGUMENTS

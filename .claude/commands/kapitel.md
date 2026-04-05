@@ -1,6 +1,6 @@
 # /kapitel — Nächstes Kapitel schreiben
 
-Du schreibst das nächste Kapitel von "Die Schwelle".
+Du schreibst das nächste Kapitel von "Der Riss".
 
 ## Phase 0: Kontext laden
 
@@ -45,61 +45,36 @@ Für jede Szene, einzeln, der Reihe nach:
    - Referenzen zu früheren Kapiteln?
    - Technologie? (frühes 19. Jhd, kein Strom)
 
-## Phase 3.5: Logik-Check (PFLICHT)
+## Phase 3.5: Logik-Check (GATE 1)
 
-**ZUERST:** `/logik-check buch/kapitel/XX-FIGUR.md` ausführen. Dieser Skill prüft Absatz für Absatz:
-- Weiß die Figur das? (Geografie, Namen, Fakten)
-- Kann die Figur das wahrnehmen? (Licht, Entfernung, Raum)
-- Erzählt der Narrator mehr als die Figur weiß?
-- Timeline-Konsistenz (Tageszeit, Wetter, Zeitsprünge)
-- Technologie-Anachronismen
-- Magie-Regeln gegen `10-magie-system.md`
+`/logik-check buch/kapitel/XX-FIGUR.md`
 
-**GATE: Keine Phase 4 ohne bestandenen Logik-Check. Alle Findings fixen.**
+→ Bericht + Zusammenfassung + Verdikt
+→ **Warte auf Freigabe durch Autor**
+→ Fixes einarbeiten
+→ **Warte auf Bestätigung der Fixes**
 
-**DANN:** Stil-Agent starten (Sonnet) der die Stilregeln prüft UND Fixes einarbeitet.
+**GATE: Keine Phase 3.6 ohne explizite Autor-Freigabe.**
 
-**Input für den Agent:**
-- Das Gesamtkapitel (`buch/kapitel/XX-FIGUR.md`)
-- Die Weltbibel (`buch/00-welt.md`)
-- Die Stilregeln (`buch/02-stilregeln-v2.md`)
-- Das vorherige fertige Kapitel (für Konsistenz)
+## Phase 3.6: Stil-Check (GATE 2)
 
-**Agent-Prompt (alle Checks in einem Durchlauf):**
+`/stil-check buch/kapitel/XX-FIGUR.md`
 
-```
-Du bist der Lektor von "Die Schwelle". Lies das Kapitel, die Weltbibel, die Stilregeln und das vorherige Kapitel. Führe ALLE folgenden Checks durch und arbeite Fixes DIREKT in die Datei ein.
+→ Bericht + Zusammenfassung + Verdikt
+→ **Warte auf Freigabe durch Autor**
+→ Fixes einarbeiten
+→ **Warte auf Bestätigung der Fixes**
 
-HARTE CHECKS (mit Grep zählen, dann fixen):
-1. "nicht X — sondern Y" Konstruktionen: Max 2x pro Kapitel. Überzählige umschreiben.
-2. "wie etwas das..." Vergleiche: Max 4x pro Kapitel. Überzählige umschreiben.
-3. Wort/Phrase die >7x vorkommt: Variieren oder streichen.
-4. Ortsnamen und Himmelsrichtungen: Gegen Weltbibel prüfen. Fixes einarbeiten.
-5. Technologie: Frühes 19. Jhd. Kein Strom, keine Motoren. Anachronismen fixen.
+**GATE: Keine Phase 3.7 ohne explizite Autor-Freigabe.**
 
-WEICHE CHECKS (LLM-Urteil, dann fixen):
-6. Erklärende Nachsätze ("weil...", "nicht weil... sondern weil..."): Streichen wenn der Leser es ohne versteht.
-7. Emotionen benannt statt gezeigt ("Er war traurig"): Durch Körperreaktion ersetzen.
-8. Zusammenfassende Sätze die wiederholen was gerade passiert ist: Streichen.
-9. Figurenwissen: Weiß die Figur etwas das sie nicht wissen kann? Fixen.
-10. Magie angekündigt ("Plötzlich geschah etwas Seltsames"): Mitten in den Alltag einbauen.
+## Phase 3.7: Final Council (GATE 3)
 
-NACH ALLEN FIXES:
-- wc -w auf die Datei
-- Erstelle einen Prüfbericht als Antwort:
+`/council buch/kapitel/XX-FIGUR.md`
 
-## Prüfbericht Kapitel XX
-- Fixes: N eingearbeitet
-- Wörter: vorher → nachher
-- Verbleibende Findings (falls etwas nicht auto-fixbar):
-| # | Typ | Stelle | Problem |
-```
+→ 3-Agenten-Review + Verdikt
+→ **Warte auf Freigabe durch Autor**
 
-**Nach dem Agent:** Prüfbericht lesen. Wenn verbleibende Findings → manuell entscheiden. Dann weiter.
-
-## Phase 3.6: Final Council
-
-Final Council auf das geprüfte Gesamtkapitel.
+**GATE: Keine Phase 4 ohne explizite Autor-Freigabe.**
 
 ## Phase 4: Deploy
 

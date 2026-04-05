@@ -15,9 +15,10 @@ Verwalte den Status der Kapitel in `buch/status.json`.
 2. **szenenplan** — Szenen-Definition geschrieben (buch/szenen/XX-NN.md)
 3. **entwurf** — Erster Text geschrieben (buch/kapitel/XX-*.md)
 4. **council** — Council-Review durchlaufen
-5. **logik-check** — /logik-check bestanden
-6. **lektorat** — Stilistisch überarbeitet
-7. **final** — Fertig
+5. **logik-check** — /logik-check bestanden (GATE: Autor-Freigabe)
+6. **stil-check** — /stil-check bestanden (GATE: Autor-Freigabe)
+7. **final-council** — Final /council bestanden (GATE: Autor-Freigabe)
+8. **final** — Fertig
 
 ## Was der Skill tut
 
@@ -31,6 +32,7 @@ Verwalte den Status der Kapitel in `buch/status.json`.
 
 - Status darf nur VORWÄRTS gehen (idee → szenenplan → entwurf → ...) oder auf "idee" zurückgesetzt werden
 - Bei "final": Wortanzahl ist Pflicht (zähle mit `wc -w` wenn nicht angegeben)
-- Warnung wenn ein Kapitel auf "final" gesetzt wird ohne dass /logik-check gelaufen ist
+- Warnung wenn ein Kapitel auf "final" gesetzt wird ohne dass /logik-check UND /stil-check gelaufen sind
+- Warnung wenn ein Gate-Status übersprungen wird (z.B. direkt von council auf final)
 
 $ARGUMENTS
