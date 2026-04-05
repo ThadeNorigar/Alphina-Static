@@ -45,9 +45,19 @@ Für jede Szene, einzeln, der Reihe nach:
    - Referenzen zu früheren Kapiteln?
    - Technologie? (frühes 19. Jhd, kein Strom)
 
-## Phase 3.5: Automatische Prüfung
+## Phase 3.5: Logik-Check (PFLICHT)
 
-Starte einen Agent (Sonnet) der das Gesamtkapitel prüft UND Fixes direkt einarbeitet.
+**ZUERST:** `/logik-check buch/kapitel/XX-FIGUR.md` ausführen. Dieser Skill prüft Absatz für Absatz:
+- Weiß die Figur das? (Geografie, Namen, Fakten)
+- Kann die Figur das wahrnehmen? (Licht, Entfernung, Raum)
+- Erzählt der Narrator mehr als die Figur weiß?
+- Timeline-Konsistenz (Tageszeit, Wetter, Zeitsprünge)
+- Technologie-Anachronismen
+- Magie-Regeln gegen `10-magie-system.md`
+
+**GATE: Keine Phase 4 ohne bestandenen Logik-Check. Alle Findings fixen.**
+
+**DANN:** Stil-Agent starten (Sonnet) der die Stilregeln prüft UND Fixes einarbeitet.
 
 **Input für den Agent:**
 - Das Gesamtkapitel (`buch/kapitel/XX-FIGUR.md`)

@@ -39,20 +39,35 @@ Du bist der Autor von "Die Schwelle", einem 800-1000 Seiten Dark Romantasy Roman
 
 ## Dokumentation
 
-- buch/00-welt.md — Weltbibel
+- buch/00-welt.md — Weltbibel (Welt, Figuren, Fraktionen, Nebencharaktere)
 - buch/01-stil.md — Schreibstil
 - buch/02-stilregeln-v2.md — Stilregeln v2
-- buch/02-akt1.md — Akt I Kapitelplan
+- buch/10-magie-system.md — Magie-Progression, Kombinations-Matrix, Harte Regeln
+- buch/11-nyr.md — Nyr (Maschinisten-Pilotin)
+- buch/13-talven.md — Talven (Verräter)
+- buch/02-akt1.md bis 05-akt4.md — Buch 1 Aktpläne
+- buch/06-buch2-akt1.md bis 09-buch2-akt4.md — Buch 2 Aktpläne
+- buch/14-buch3-akt1.md bis 17-buch3-akt4.md — Buch 3 Aktpläne
 - buch/kapitel/01-alphina.md — Kapitel 1 FINAL (Referenzton)
 
-VOR dem Schreiben: buch/00-welt.md, buch/02-stilregeln-v2.md und buch/kapitel/01-alphina.md lesen.
+VOR dem Schreiben: buch/00-welt.md, buch/10-magie-system.md, buch/02-stilregeln-v2.md und buch/kapitel/01-alphina.md lesen.
 
 ## Arbeitsablauf
 
-Szenenplan > /council > Szene schreiben > /council > Zusammenbauen > Logik-Check > Final /council > /deploy
+Szenenplan > /council > Szene schreiben > /council > Zusammenbauen > **/logik-check** > Final /council > /deploy
 
-### Logik-Checkliste:
-- Tageszeit? Wetter? Ort? Wissen der Figur? Puls? Referenzen? Technologie?
+### Pipeline-Pflicht: /logik-check
+
+**Kein Kapitel ohne /logik-check.** Der Skill prüft Absatz für Absatz:
+- Weiß die Figur das? (Geografie, Namen, Fakten — BEVOR sie es erfährt?)
+- Kann die Figur das wahrnehmen? (Licht, Entfernung, Raum)
+- Erzählt der Narrator mehr als die POV-Figur weiß?
+- Tageszeit, Wetter, Ort konsistent?
+- Technologie passt zur Epoche?
+- Magie-Regeln gegen 10-magie-system.md?
+
+### Das Sorel-Prinzip:
+**Der Erzähler darf NIE mehr wissen als die Figur.** Wenn Sorel nicht weiß wo Vael liegt, darf der Narrator nicht "Die Hafenstadt an der Grauküste" schreiben. ERST nachdem die Figur es erfährt (Atlas, Gespräch, Schild).
 
 ## Website
 
