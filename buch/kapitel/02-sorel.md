@@ -16,7 +16,7 @@ Alte Glasplatten, Kollodium-Nassplatten, Daguerreotypien, Lichtdrucke auf Papier
 
 Sorel hatte eine Gewohnheit. Bei jedem Bild, jeder Platte, jedem Druck — er prüfte den Hintergrund. Zweimal. Einmal für das Motiv, einmal für das, was dahinter lag. Die meisten Hintergründe waren leer. Mauern, Straßen, Nebel. Manchmal eine offene Tür, manchmal ein Tier, manchmal ein verschwommener Passant den der Fotograf nicht bemerkt hatte. Sorel bemerkte sie alle. Er prüfte jeden Hintergrund, weil er einmal nicht geprüft hatte, und das was er dabei übersehen hatte, ihn nie ganz losgelassen hatte.
 
-Das Auktionslos war vor drei Tagen eingetroffen. Nachlass eines Sammlers an der Grauküste, einer Stadt namens Vael, von der Sorel nichts wusste außer dem, was der Katalog sagte: Hafenstadt, Purpurstein, Nebel. Dreizehn Nassplatten in einem Holzkasten, die Schlitze mit Filz ausgekleidet, die Platten nummeriert in einer sorgfältigen, kleinen Schrift. Der Filz roch nach altem Holz und nach etwas Salzigem, als hätte der Kasten Jahre in der Nähe des Meeres gestanden.
+Das Auktionslos war vor drei Tagen eingetroffen. Nachlass eines Sammlers, Grauküste — mehr sagte der Katalog nicht. Dreizehn Nassplatten in einem Holzkasten, die Schlitze mit Filz ausgekleidet, die Platten nummeriert in einer sorgfältigen, kleinen Schrift. Auf dem Kastendeckel, in derselben Schrift: *Vael, 1783–1791.* Sorel kannte den Namen nicht. Der Filz roch nach altem Holz und nach etwas Salzigem, als hätte der Kasten Jahre in der Nähe des Meeres gestanden.
 
 Platten eins bis sechs waren Routine. Hafenszenen, Marktplätze, ein Porträt einer Frau mit geschlossenen Augen — entweder schlafend oder tot, die Belichtungszeit ließ beides zu. Sorel prüfte die Hintergründe. Zweimal. Mauern. Nebel. Masten. Nichts.
 
@@ -108,13 +108,19 @@ Sorel legte die Platte hin. Stand auf. Sein Rücken knackte. Seine Knie waren st
 
 Er saß auf dem Stuhl neben dem Regal und trank kalten Tee und dachte.
 
+Vael. Er wusste den Namen, und den Namen wusste er von der Tinte auf der Rückseite, und von der Beschriftung auf dem Holzkasten. Mehr nicht. Er stellte die Tasse ab und ging zum Regal, dem unteren, wo die Auktionskataloge lagen, Jahrgänge, gestapelt, und unter den Katalogen, eingeklemmt zwischen Holz und Wand, der Schifffahrtsatlas. Gelb, eselsohrig, der Einband gerissen. Er benutzte ihn seit Jahren — wenn ein Los aus Thessa kam oder aus Solha oder von der Grauküste, schlug er nach, um zu wissen wie weit die Kiste reisen musste und was es ihn kostete.
+
+Er schlug die Küstenkarten auf. Die Grauküste: eine Linie aus Buchten und Klippen, nördlich, weit nördlich von Nachtholm. Sein Finger fuhr an der Küste entlang, Name für Name — Hafenstädte, Fischerdörfer, Leuchtfeuer. Dort. Vael. Ein Punkt auf einer Halbinsel, kaum beschriftet, Graues Meer auf drei Seiten. Der Atlas sagte nichts über Purpurstein oder Nebel. Nur: Hafen, Reede, Ankergrund bei Westwind. Er maß die Entfernung mit dem Daumen. Vierhundert Kilometer, vielleicht mehr. Fähre bis Harst, dann Kutsche die Grauküste entlang. Drei Tage. Vier, wenn die Straßen schlecht waren. Im November waren die Straßen immer schlecht.
+
+Er klappte den Atlas zu und legte ihn zurück.
+
 Doppelgänger. Die einfachste Erklärung. Er wusste dass sie nicht stimmte — die Lupe hatte keine Abweichung gezeigt, keinen Leberfleck, keine Falte, nichts das anders war. Aber er dachte den Gedanken trotzdem, weil Denken besser war als das was darunter lag.
 
 Emulsionsfehler. Möglich. Kollodium war launisch. Manchmal erschienen Formen die nicht im Motiv waren — Schlieren, Flecken, einmal ein Gesicht, rund und konturlos, das sich als Luftblase erwies. Aber Luftblasen hatten keine Nasen. Luftblasen trugen keine Kleidung.
 
 Er trank den Rest des Tees. Kalt, bitter, mit einem metallischen Nachgeschmack. Die Schluchtstadt summte leise um ihn herum — das Tropfen von Wasser, der Wind drei Stockwerke über ihm, das Knarren der Holzhäuser die sich nachts bewegten, unmerklich.
 
-Zwei Platten. Dreizehn Jahre. Dieselbe Stadt. Dasselbe Gesicht. Sein Gesicht. In einer Stadt namens Vael, die am Grauen Meer lag, vierhundert Kilometer nördlich, und in der ein Gebäude stand, das Lichthaus hieß, und in der sein Gesicht auf Glasplatten erschien, auf Platten die älter waren als er, und Sorel saß in seinem Keller und trank kalten Tee und sein Verstand sagte: bleib. Sein Verstand sagte: bleib.
+Zwei Platten. Dreizehn Jahre. Dieselbe Stadt. Dasselbe Gesicht. Sein Gesicht. Vael. Ein Punkt auf dem Atlas. Vierhundert Kilometer nördlich, eine Halbinsel im Grauen Meer, ein Gebäude das Lichthaus hieß, und sein Gesicht auf Glasplatten die älter waren als er. Sorel saß in seinem Keller und sein Verstand sagte: bleib. Sein Verstand sagte: bleib.
 
 Sorel stellte die Tasse ab. Löschte das Rotlicht.
 
@@ -136,7 +142,7 @@ Die zerbrochene Platte in der Schublade. Er öffnete sie nochmal. Nahm die zwei 
 
 Er packte den Rest. Wenig. Zwei Hemden, eine Hose, Rasiermesser, Seife. Die Werkzeugrolle — Pinzetten, ein kleines Messer, Chemikalien in versiegelten Flaschen. Alles passte in eine Ledertasche, die er seit Jahren nicht benutzt hatte und die nach dem Leder roch, trocken und alt, und nach dem Staub des Regals auf dem sie gestanden hatte.
 
-Morgen würde er die Fähre nach Norden nehmen. Er wusste es, in den Knochen, in der Stille zwischen zwei Atemzügen, in dem Teil von ihm der dreizehn Jahre lang gewartet hatte. Die Fähre ging um sechs. Von dort eine Kutsche, die Grauküste entlang, drei Tage vielleicht, vier.
+Morgen würde er die Fähre nehmen. Nach Harst, dann die Kutsche die Grauküste entlang, wie der Atlas es zeigte. Drei Tage, vier. Er wusste es, in den Knochen, in der Stille zwischen zwei Atemzügen, in dem Teil von ihm der dreizehn Jahre lang gewartet hatte.
 
 Sorel löschte die Gaslampe. Stand in der Dunkelheit und zog sich aus. Hemd über den Kopf, die Luft kalt auf der Brust. Hose, Socken, barfuß auf dem Basalt der die Wärme saugte. Die Kleider auf den Stuhl, gefaltet, die Routine seiner Hände die auch im Dunkeln wussten wohin alles gehörte. Dann das Bett, schmal, die Decke rau, der Geruch von Fixiersalz und Schlaf.
 

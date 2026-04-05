@@ -20,13 +20,15 @@ Sorel legte die Platte hin. Stand auf. Sein Rücken knackte. Seine Knie waren st
 
 Er saß auf dem Stuhl neben dem Regal und trank kalten Tee und dachte.
 
+Vael. Er stellte die Tasse ab und ging zum unteren Regal, wo die Auktionskataloge lagen, und unter den Katalogen, eingeklemmt zwischen Holz und Wand, der Schifffahrtsatlas. Gelb, eselsohrig. Er schlug die Küstenkarten auf. Finger an der Grauküste entlang. Vael: ein Punkt auf einer Halbinsel, kaum beschriftet. Vierhundert Kilometer. Fähre bis Harst, Kutsche die Küste entlang. Drei Tage, vier. Er klappte den Atlas zu.
+
 Doppelgänger. Die einfachste Erklärung. Er wusste dass sie nicht stimmte — die Lupe hatte keine Abweichung gezeigt, keinen Leberfleck, keine Falte, nichts das anders war. Aber er dachte den Gedanken trotzdem, weil Denken besser war als das was darunter lag.
 
 Emulsionsfehler. Möglich. Kollodium war launisch. Manchmal erschienen Formen die nicht im Motiv waren — Schlieren, Flecken, einmal ein Gesicht, rund und konturlos, das sich als Luftblase erwies. Aber Luftblasen hatten keine Nasen. Luftblasen trugen keine Kleidung.
 
 Er trank den Rest des Tees. Kalt, bitter, mit einem metallischen Nachgeschmack. Die Schluchtstadt summte leise um ihn herum — das Tropfen von Wasser, der Wind drei Stockwerke über ihm, das Knarren der Holzhäuser die sich nachts bewegten, unmerklich.
 
-Zwei Platten. Dreizehn Jahre. Dieselbe Stadt. Dasselbe Gesicht. Sein Gesicht. In einer Stadt namens Vael, die am Grauen Meer lag, vierhundert Kilometer nördlich, und in der ein Gebäude stand, das Lichthaus hieß, und in der sein Gesicht auf Glasplatten erschien, auf Platten die älter waren als er, und Sorel saß in seinem Keller und trank kalten Tee und sein Verstand sagte: bleib. Sein Verstand sagte: bleib.
+Zwei Platten. Dreizehn Jahre. Dieselbe Stadt. Dasselbe Gesicht. Sein Gesicht. Vael. Der Punkt auf dem Atlas. Vierhundert Kilometer nördlich, eine Halbinsel im Grauen Meer, ein Gebäude das Lichthaus hieß, und in der sein Gesicht auf Glasplatten erschien, auf Platten die älter waren als er, und Sorel saß in seinem Keller und trank kalten Tee und sein Verstand sagte: bleib. Sein Verstand sagte: bleib.
 
 Sorel stellte die Tasse ab. Löschte das Rotlicht.
 
@@ -46,7 +48,7 @@ Die zerbrochene Platte in der Schublade. Er öffnete sie nochmal. Nahm die zwei 
 
 Er packte den Rest. Wenig. Zwei Hemden, eine Hose, Rasiermesser, Seife. Die Werkzeugrolle — Pinzetten, ein kleines Messer, Chemikalien in versiegelten Flaschen. Alles passte in eine Ledertasche, die er seit Jahren nicht benutzt hatte und die nach dem Leder roch, trocken und alt, und nach dem Staub des Regals auf dem sie gestanden hatte.
 
-Morgen würde er die Fähre nach Norden nehmen. Er wusste es, in den Knochen, in der Stille zwischen zwei Atemzügen, in dem Teil von ihm der dreizehn Jahre lang gewartet hatte. Die Fähre ging um sechs. Von dort eine Kutsche, die Grauküste entlang, drei Tage vielleicht, vier.
+Morgen würde er die Fähre nehmen. Nach Harst, dann die Kutsche die Grauküste entlang. Er wusste es, in den Knochen, in der Stille zwischen zwei Atemzügen, in dem Teil von ihm der dreizehn Jahre lang gewartet hatte.
 
 Sorel löschte die Gaslampe. Stand in der Dunkelheit und zog sich aus. Hemd über den Kopf, die Luft kalt auf der Brust. Hose, Socken, barfuß auf dem Basalt der die Wärme saugte. Er legte die Kleider auf den Stuhl, gefaltet, die Routine seiner Hände die auch im Dunkeln wussten wohin alles gehörte. Dann das Bett, schmal, die Decke rau, der Geruch von Fixiersalz und Schlaf.
 
