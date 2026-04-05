@@ -102,7 +102,7 @@ Drei Wörter. Ein Ort, ein Gebäude, ein Raum. So beschriftete man Platten — O
 
 Vael.
 
-Die Stadt auf den Platten. Die Hafenstadt an der Grauküste, von der er nichts wusste, und jetzt wusste er etwas: dass er dort stand, auf einer Glasplatte, in einer Stadt die er nie betreten hatte, in Kleidern die er nie getragen hatte, und dass jemand das aufgeschrieben hatte, vor Jahrzehnten, in einer Tinte die jetzt braun war.
+Ein Name. Drei Buchstaben, eine Silbe. Er wusste nichts darüber — nur dass jemand ihn auf eine Glasplatte geschrieben hatte, neben "Lichthaus" und "Keller", und dass auf derselben Platte sein Gesicht war, in einer Stadt die er nie betreten hatte, in Kleidern die er nie getragen hatte. Ein Name, eine Tinte die braun war, und ein Gesicht das seines war.
 
 Sorel legte die Platte hin. Stand auf. Sein Rücken knackte. Seine Knie waren steif und die Kälte des Basaltbodens kroch durch seine Fußsohlen, und er ging die drei Schritte zum Regal, wo der Tee stand, die Kanne, kalt seit Stunden, und goss sich eine Tasse ein. Der Tee schmeckte nach nichts. Er trank ihn trotzdem, weil seine Hände etwas halten mussten.
 
