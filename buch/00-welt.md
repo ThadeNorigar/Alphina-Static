@@ -65,7 +65,7 @@ Wenn das Tor sich öffnet, werden die Lecks stärker. Nebel dreimal die Woche. D
 
 ### Orte
 
-**Der Botanische Garten** — Gefunden, nicht angelegt, von Elke van der Holt vor 400 Jahren. Die Grenze zu Moragh ist hier am dünnsten. Nachts bewegen sich Pflanzen.
+**Der Botanische Garten** — Elke van der Holt hat vor 400 Jahren den Klippenrand bearbeitet — Bildhauerin, ihr Werkstück war der Purpurstein. Wo sie den Fels öffnete, wuchsen Pflanzen aus dem Stein. Spätere Generationen nannten es "Garten." Die Grenze zu Moragh ist hier am dünnsten. Nachts bewegen sich Pflanzen.
 
 **Das Tidemoor-Haus** — Herrenhaus am Grauwe-Ufer. Standuhr die 4:33 pro Tag verliert. Mechanisch perfekt.
 
@@ -257,11 +257,11 @@ Ruhig. Höflich. Müde. Er begrüßt sie beim Namen. Dann greift er an — ohne 
 
 ## Elke van der Holt — vor 400 Jahren
 
-Botanikerin. Aus dem Süden, Binnenmeerküste. Kam nach Vael als das Tor das letzte Mal offen war — vor 400 Thalassien-Jahren, vor Wochen/Monaten in Moragh-Zeit.
+Bildhauerin. Aus dem Süden, Binnenmeerküste. Tochter eines Steinmetzmeisters, Gesellin, reist allein. Kam nach Vael als das Tor das letzte Mal offen war — vor 400 Thalassien-Jahren, vor Wochen/Monaten in Moragh-Zeit. Kam wegen des Purpursteins — ein Gestein das es nirgendwo sonst gibt.
 
-**Resonanz: Erde/Stein.** Nicht Pflanzen — den Boden. Spürt was unter der Oberfläche liegt. Tunnel, Wasser, Hohlräume, Adern im Gestein. In Moragh: Stein formen, Fels brechen, Beben spüren.
+**Resonanz: Erde/Stein.** Spürt was unter der Oberfläche liegt. Tunnel, Wasser, Hohlräume, Adern im Gestein. Hält es für Handwerks-Instinkt — sie "hört" den Stein, seine Maserung, seine Schwächen. In Moragh: Stein formen ohne Werkzeug. Hand auf Basalt, und der Basalt gibt nach.
 
-Elke ging durch das Tor. Die anderen drei (Johann, Lene, Kaspar) hatten Angst und blieben. Elke nicht. Sie ging durch und lebt seitdem in Moragh. 400 Thalassien-Jahre, aber nur Wochen/Monate in Moragh-Zeit. Sie spricht die Sprache. Kennt die Welt. Hat einen Garten in dem Pflanzen aus beiden Welten wachsen.
+Elke ging durch das Tor. Die anderen drei (Johann, Lene, Kaspar) hatten Angst und blieben. Elke nicht. Sie ging durch und lebt seitdem in Moragh. 400 Thalassien-Jahre, aber nur Wochen/Monate in Moragh-Zeit. Sie spricht die Sprache. Kennt die Welt. Hat einen Garten in dem Pflanzen aus beiden Welten wachsen — gewachsen aus dem Stein den sie geformt hat.
 
 **In Buch 2:** Elke wird die Führerin der Drei. Sie kennt Moragh. Sie kennt die Sprache. Sie misstraut beiden Seiten — dem Antagonisten UND den Städten.
 
@@ -270,7 +270,7 @@ Elke ging durch das Tor. Die anderen drei (Johann, Lene, Kaspar) hatten Angst un
 ## Zeitgeschichte — 1623
 
 Vier Menschen kamen nach Vael:
-- **Elke van der Holt** — Botanikerin. Resonanz: Erde. Ging durch das Tor.
+- **Elke van der Holt** — Bildhauerin. Resonanz: Erde/Stein. Ging durch das Tor.
 - **Johann Breke** — Uhrmacher. Vespers Pendant.
 - **Lene Brandt** — Schiffbauerin. Marens Pendant.
 - **Kaspar Holm** — Maler. Sorels Pendant.
@@ -281,7 +281,7 @@ Das Tor war offen. Der Antagonist hatte es geöffnet, zum ersten Mal. Er suchte 
 
 | # | ca. Seite | Inhalt |
 |---|-----------|--------|
-| 1 | 80 | Elkes Ankunft in Vael. Der Ort wo Pflanzen wachsen. |
+| 1 | 80 | Elkes Ankunft in Vael. Der Purpurstein. |
 | 2 | 170 | Johann und Elke. Erste Begegnung. Er repariert ihre Uhr. |
 | 3 | 260 | Lene findet die Tunnel. Geht hinein. Sieht das Tor. |
 | 4 | 350 | Kaspar malt Elke. Das Bild zeigt etwas das er nicht gemalt hat. |

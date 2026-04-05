@@ -3,7 +3,7 @@
 ## Perspektive & Stimme
 - **Erzähler:** Das Manuskript selbst. Dritte Person, Präteritum.
 - **Ton:** Altmodisch, sorgfältig, als würde jemand die Wahrheit aufschreiben bevor er sie vergisst. Nicht parodistisch. Nicht archaisierend. Einfach: langsamer, bedächtiger, formeller als die modernen Kapitel.
-- **Figur:** Elke van der Holt, Botanikerin. Alphinas Pendant.
+- **Figur:** Elke van der Holt, Bildhauerin. Resonanz: Erde/Stein.
 - **Zeit:** Vor 400 Jahren. 1623 (das Jahr des großen Feuers).
 - **Ort:** Vael, Grauküste. Ankunft.
 
@@ -15,9 +15,9 @@
 
 **Beats:**
 1. Elke kommt in Vael an. Per Kutsche, von Süden. Die Stadt im Nebel — Purpurstein, die Grauwe, der Vaeler Atem. Sie kennt den Nebel nicht. Er kennt sie.
-2. Sie ist Botanikerin. Reist allein. Hat von einer Pflanze gehört, die an der Grauküste wächst, wo sie nicht wachsen sollte. Dieselbe Geschichte wie Alphinas Brief — 400 Jahre früher.
+2. Sie ist Bildhauerin. Gesellin, Tochter eines Steinmetzmeisters. Reist allein. Hat von einem Stein gehört, der an der Grauküste vorkommt und nirgendwo sonst — Purpurstein.
 3. Die Stadt. Älter als jetzt, kleiner, aber der Stein derselbe. Die Gaslampen gibt es noch nicht — Fackeln, Kerzen, Öllampen. Die Tunnel unter der Stadt — Gerüchte, die niemand ernst nimmt.
-4. Sie steigt in einem Gasthof ab. Der Wirt schaut sie an. Eine Frau, allein, mit einem Koffer voller Instrumente. "Forscherin?", fragt er. "Botanikerin", sagt sie. Er nickt, als hätte er das erwartet.
+4. Sie steigt in einem Gasthof ab. Der Wirt schaut sie an. Eine Frau, allein, mit einem Koffer voller Werkzeug. "Forscherin?", fragt er. "Bildhauerin", sagt sie. Er nickt, als hätte er das erwartet.
 
 ---
 
