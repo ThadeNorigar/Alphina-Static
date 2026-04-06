@@ -137,9 +137,77 @@ Projekt-Root/
 
 VOR dem Schreiben immer lesen: `00-welt.md`, `10-magie-system.md`, `02-stilregeln-v2.md` und `kapitel/01-alphina.md` (Referenzton).
 
-## Arbeitsablauf
+## Pipelines
 
-Szenenplan > /council > Szene schreiben > /council > Zusammenbauen > **/logik-check** (GATE) > **/stil-check** (GATE) > Final /council (GATE) > /deploy
+Vier Pipelines für vier Arbeitsebenen. Jede hat eigene Gates und eigene Artefakte.
+
+### 1. Stil-Pipeline (Ebene 2)
+
+Definiert WIE geschrieben wird. Läuft einmal zu Projektbeginn, dann bei Bedarf (neuer POV, Tonkorrektur).
+
+```
+Referenztexte sammeln → Stimme definieren → Probekapitel schreiben →
+/council (GATE) → Stilregeln ableiten → /stil-check kalibrieren →
+Referenzkapitel finalisieren
+```
+
+**Artefakte:**
+- `buch/01-stil.md` — POV-Architektur, Stimmen, Tonbeispiele ("so soll es klingen")
+- `buch/02-stilregeln-v2.md` — Messbare Limits, Rhythmus, Satzlängen ("das prüft /stil-check")
+- `buch/kapitel/01-alphina.md` — Referenzkapitel ("so klingt es wenn es fertig ist")
+- `CLAUDE.md` Kernregeln — Harte Verbote, Sorel-Prinzip (unverrückbare Leitplanken)
+
+**Wann neu durchlaufen:** Wenn ein neuer POV dazukommt (z.B. Runa in Buch 2), wenn der Ton sich nach /council-Feedback verschiebt, oder wenn ein neues Projekt beginnt.
+
+### 2. Story-Pipeline (Ebene 1 + 4)
+
+Definiert WAS passiert und WARUM. Änderungen hier kaskadieren in alles darunter.
+
+```
+Prämisse → Figuren + Welt → Regelsysteme → Gesamtbogen →
+/council (GATE) → Weltbibel schreiben → Storyline schreiben →
+Kaskade prüfen (alle Ebenen darunter invalidiert?)
+```
+
+**Artefakte:**
+- `buch/00-welt.md` — Weltbibel (Source of Truth)
+- `buch/00-storyline.md` — Gesamtbogen über alle Bücher
+- `buch/10-magie-system.md` — Regelsysteme
+- `buch/1{N}-{charakter}.md` — Charakter-Dossiers
+
+**Kaskaden-Pflicht:** Nach jeder Story-Änderung abwärts durcharbeiten: Aktpläne → Status → Szenen → Kapitel. Nichts überspringen.
+
+### 3. Aktplan-Pipeline (Ebene 5 + 6)
+
+Definiert WAS IN WELCHEM KAPITEL passiert. Leitet sich aus der Storyline ab.
+
+```
+Storyline-Abschnitt lesen → Kapitel aufteilen → POV zuweisen →
+Interludien platzieren → Tschechow-Waffen setzen →
+/council (GATE) → Aktplan schreiben → status.json updaten
+```
+
+**Artefakte:**
+- `buch/{NN}-akt{A}.md` — Aktplan mit Kapitel-Breakdown
+- `buch/status.json` — Kapitelregister (speist Website)
+
+**Prüfpunkte:** POV-Balance (45% Alphina, je ~18% Rest), Tschechow-Vollständigkeit (jedes Detail muss feuern), Interludium-Echos zu Hauptkapiteln.
+
+### 4. Kapitel-Pipeline (Ebene 7–10)
+
+Definiert WIE EINE SZENE KLINGT. Die einzige Pipeline mit harten Gates.
+
+```
+Szenenplan → /council (GATE) → Szene schreiben → /council (GATE) →
+Zusammenbauen → /logik-check (GATE) → /stil-check (GATE) →
+Final /council (GATE) → /deploy
+```
+
+**Artefakte:**
+- `buch/szenen/{KK}-{SS}.md` — Szenenplan
+- `buch/kapitel/{KK}-entwurf.md` — Entwurf
+- `buch/kapitel/{KK}-szene{S}.md` — Szenen-Drafts
+- `buch/kapitel/{KK}-{name}.md` — Finales Kapitel
 
 ### Gate-Protokoll (gilt für JEDEN Prüfschritt)
 
@@ -148,11 +216,9 @@ Jeder Prüfschritt ist ein Gate mit 3 Stufen:
 2. **Autor-Freigabe** — Warte auf explizites OK. Keine Weiterarbeit ohne.
 3. **Fixes + Bestätigung** — Fixes einarbeiten, Zusammenfassung zeigen, erneut OK einholen.
 
-### Pipeline-Pflicht: /logik-check + /stil-check
+### /logik-check (Kapitel-Pipeline, GATE)
 
-**Kein Kapitel ohne /logik-check UND /stil-check.**
-
-**/logik-check** prüft Absatz für Absatz:
+Prüft Absatz für Absatz:
 - Weiß die Figur das? (Geografie, Namen, Fakten — BEVOR sie es erfährt?)
 - Kann die Figur das wahrnehmen? (Licht, Entfernung, Raum)
 - Erzählt der Narrator mehr als die POV-Figur weiß?
@@ -160,14 +226,17 @@ Jeder Prüfschritt ist ein Gate mit 3 Stufen:
 - Technologie passt zur Epoche?
 - Magie-Regeln gegen 10-magie-system.md?
 
-**/stil-check** prüft systematisch:
+### /stil-check (Kapitel-Pipeline, GATE)
+
+Prüft systematisch:
 - "und"-Ketten (>3 pro Satz), Bandwurm-Stakkato-Balance
 - Harte Limits: "nicht X — sondern Y" (max 2x), "wie..." Vergleiche (max 4x)
 - Emotionen benannt statt gezeigt, erklärende Nachsätze
 - Wort-Häufungen, Satzanfang-Monotonie
 - Rhythmus-Vergleich mit Referenzkapitel
 
-### Das Sorel-Prinzip:
+### Das Sorel-Prinzip
+
 **Der Erzähler darf NIE mehr wissen als die Figur.** Wenn Sorel nicht weiß wo Vael liegt, darf der Narrator nicht "Die Hafenstadt an der Grauküste" schreiben. ERST nachdem die Figur es erfährt (Atlas, Gespräch, Schild).
 
 ## Website
