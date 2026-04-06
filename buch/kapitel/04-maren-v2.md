@@ -72,7 +72,9 @@ Maren schaute auf.
 
 "Ist in den Garten gegangen. Den oben, am Klippenrand." Thies sprach zum Hobel, nicht zu ihr. "Ein-, zweimal die Woche. Nach Mitternacht. Ich hab ihn gesehen, vom Fenster aus, wenn ich nicht schlafen konnte." Pause. "Hat nie gesagt warum. Ich hab nie gefragt."
 
-Stille im Schuppen. Das Knarren des Dachgebälks im Wind. Maren wartete. Thies sagte nichts mehr, und sein Schweigen war nicht das Schweigen eines Mannes, der etwas verbarg. Es war das Schweigen eines Mannes, der nicht mehr wusste als er gesagt hatte und dem das reichte.
+Stille im Schuppen. Das Knarren des Dachgebälks im Wind. Maren spürte etwas in ihren Handflächen, ein Kribbeln, das vom Holz kam oder von dem Wort — Garten, am Klippenrand, nach Mitternacht. Sie schloss die Hände. Das Kribbeln blieb.
+
+Thies sagte nichts mehr, und sein Schweigen war nicht das Schweigen eines Mannes, der etwas verbarg. Es war das Schweigen eines Mannes, der nicht mehr wusste als er gesagt hatte und dem das reichte.
 
 "Und sonst?", fragte Maren. "War er —" Sie suchte das Wort. Normal, wollte sie sagen, aber das Wort passte nicht auf einen Mann, der fünf Jahre lang einer Fremden über Holz geschrieben hatte und dann gestorben war und ihr alles hinterlassen hatte.
 
@@ -124,7 +126,7 @@ Es waren die Gezeiten. Es mussten die Gezeiten sein.
 
 Maren drehte sich um. Ging den Steg zurück, schneller als sie gekommen war. Die Planken nass, die Nägel lose, der Wind im Rücken. Sie drehte sich nicht um. Hinter ihr das Meer, das gegen den Steg schlug, gleichmäßig, hart, normal. Als wäre nichts gewesen.
 
-Am Ende des Stegs blieb sie stehen. Ihre Hände zitterten. Sie steckte sie in die Jackentaschen und ballte sie zu Fäusten und das Zittern hörte auf, oder wurde kleiner, ging von den Händen in den Brustkorb, wo es blieb, ein Flattern hinter den Rippen, das nicht aufhören wollte. In ihrer rechten Tasche lag Orin' Bleistift, den sie vom Boden der Werft aufgehoben hatte, kurz, die Spitze abgebrochen. Ihre Finger schlossen sich darum.
+Am Ende des Stegs blieb sie stehen. Sie steckte die Hände in die Jackentaschen und ballte die Fäuste, die Nägel in die Handflächen, und der Druck half, gab dem Körper etwas das er halten konnte. In ihrer rechten Tasche lag Orin' Bleistift, den sie vom Boden der Werft aufgehoben hatte, kurz, die Spitze abgebrochen. Ihre Finger schlossen sich darum. Das Holz war warm von ihrer Haut.
 
 Maren stand am Ende des Stegs und hinter ihr lag das Meer und vor ihr lag Vael, im Nebel, und irgendwo in dieser Stadt war ein Garten, am Klippenrand, zu dem ein toter Mann nachts gegangen war. Und das Wasser hatte auf sie reagiert.
 
@@ -136,7 +138,7 @@ Sie ging.
 ---
 
 
-Der Gasthof hieß "Zum Anker", und der Name stand in verblichenen Buchstaben über der Tür, und der Wirt hatte ein Gesicht das aussah als hätte er alles schon gehört und nichts davon für erzählenswert befunden. Er gab ihr einen Schlüssel, einen Krug Wasser und die Nummer des Zimmers, und fragte nicht wie lange sie blieb. Maren antwortete nicht.
+Der Gasthof hieß "Zum Anker." Der Wirt gab ihr einen Schlüssel und fragte nicht wie lange sie blieb.
 
 Das Zimmer war klein. Kerze auf dem Tisch, ein Bett, ein Stuhl, ein Fenster das auf den Marktplatz ging, und vor dem Fenster der Nebel, der jetzt, am Abend, dichter war als am Morgen, als hätte die Stadt die Luft angezogen und hielte sie fest. Die Wände rochen nach Kalk und nach dem Rauch des Kamins im Erdgeschoss, der durch die Decke sickerte, und die Dielen knarrten unter ihren Stiefeln, jede einzelne an einer anderen Stelle, und Maren ging den Raum ab, einmal, zweimal, die Hände an den Wänden, die Finger auf dem rauen Putz. Gewohnheit. In Solha hatte sie die Zimmer abgegangen. In Thessa. Auf dem Frachtschiff die Kabine, drei Schritte in jede Richtung. Den Raum kennenlernen, bevor der Raum sie kennenlernte.
 
@@ -152,17 +154,19 @@ Maren drückte den Gedanken weg. Die Gezeiten. Der Wind. Es gab eine Erklärung 
 
 Das Wasser war kalt. Sie hätte warmes nachlaufen lassen sollen. Es gab einen Kessel im Erdgeschoss, sie hätte die Magd rufen können, aber dazu hätte sie aufstehen müssen, sich abtrocknen, anziehen, die Treppe hinunter, und der Aufwand war zu groß für den Ertrag und so blieb sie sitzen, die Knie angezogen, die Arme darum, und dachte: Ich müsste warmes Wasser nachlaufen lassen.
 
+An ihrer Wade zuckte etwas. Ein Strom, kaum spürbar, der vorher nicht da gewesen war.
+
 Das Wasser wurde still.
 
 Nicht stiller als es war — es war schon still gewesen, Wannenwasser, kein Wind, kein Strom. Aber jetzt war es anders still. Die Oberfläche, die eben noch leicht gezittert hatte, vom Atem, von der Bewegung des Brustkorbs, vom Pulsschlag in den Adern: reglos. Glatt. Gestrichen und gehalten.
 
 Maren hielt den Atem an.
 
-Unter der Oberfläche bewegte sich etwas. Nicht sichtbar — spürbar. An ihren Beinen, an der Haut. Ein Strom, der sich formte. Das Wasser begann zu kreisen. Nicht das ganze Wasser — ein Teil davon, um ihre Beine, um ihre Knie, ein Strudel, so langsam dass man ihn fast nicht sah, nur spürte, ein Ziehen an der Haut, sanft, gleichmäßig, und das Wasser, das an ihren Beinen entlangstrich, war wärmer. Nicht heiß. Nicht plötzlich. Wärmer, mit jeder Umdrehung, als erzeugte die Bewegung selbst die Wärme, als riebe das Wasser an ihrer Haut und an sich selbst und an den Wänden der Wanne und die Reibung wurde Wärme und die Kälte ging, langsam, stetig, und Maren saß da und das Wasser kreiste und sie hatte sich nicht bewegt.
+Unter der Oberfläche bewegte sich etwas. Nicht sichtbar ��� spürbar. An ihren Beinen, an der Haut. Ein Strom, der sich formte, um ihre Knie, um ihre Schienbeine, ein Ziehen, so leise dass man es fast nicht sah, nur spürte, sanft, gleichmäßig, und das Wasser, das an ihren Beinen entlangstrich, war wärmer. Nicht heiß. Nicht plötzlich. Wärmer, mit jeder Umdrehung, als erzeugte die Bewegung selbst die Wärme, als riebe das Wasser an ihrer Haut und an sich selbst und an den Wänden der Wanne und die Reibung wurde Wärme und die Kälte ging, langsam, stetig, und Maren saß da und das Wasser kreiste und sie hatte sich nicht bewegt.
 
 Sie hatte sich nicht bewegt.
 
-Maren griff an den Wannenrand. Das Metall war kalt unter ihren Fingern, die Kante scharf. Das Wasser kreiste weiter, gleichmäßig, geduldig, als hätte es alle Zeit der Welt. Sie hob die rechte Hand und zog sie durch das Wasser, quer zum Strudel. Der Strudel folgte. Veränderte die Richtung, sofort, als hätte ihre Hand ihn gelenkt, als wäre das Wasser ein Tier das auf ihre Bewegung reagierte. Sie riss die Hand raus. Wasser tropfte von ihren Fingern, auf den Rand, auf den Boden. Der Strudel lief weiter. Drei Umdrehungen. Vier. Dann langsamer. Langsamer. Hörte auf.
+Maren griff an den Wannenrand. Das Metall war kalt unter ihren Fingern, die Kante scharf. Das Wasser zog weiter, gleichmäßig, ohne zu stocken. Sie hob die rechte Hand und zog sie durch das Wasser, quer zum Strudel. Der Strudel folgte. Veränderte die Richtung, sofort, als hätte ihre Hand ihn gelenkt, als wäre das Wasser ein Tier das auf ihre Bewegung reagierte. Sie riss die Hand raus. Wasser tropfte von ihren Fingern, auf den Rand, auf den Boden. Der Strudel lief weiter. Drei Umdrehungen. Vier. Dann langsamer. Langsamer. Hörte auf.
 
 Stille.
 
@@ -181,5 +185,7 @@ Aber es war nicht nichts gewesen. Am Steg hatte sie sich belügen können. Gezei
 Draußen, fern, das Meer. Der Nebel auf dem Marktplatz. Irgendwo in dieser Stadt eine Uhr, die schlug, ein einzelner Ton, der durch die Mauern drang und verklang. Dann Stille. Dann das Meer.
 
 Maren saß auf dem Bett, im Laken, die Füße auf dem nassen Boden, und dachte an Orin, der nachts in den Garten gegangen war und nie gesagt hatte warum. An das Boot, das drei Viertel fertig war und wartete. An die Briefe, einundsechzig Stück, die in ihrem Seesack lagen und die nach Tinte rochen und nach der Sorgfalt eines Mannes, den sie nie getroffen hatte und nie treffen würde. An den Satz im dritten Brief, dem langen: *Das Holz gibt nach, wenn man ihm Zeit lässt.*
+
+In der Jackentasche, die über dem Stuhl hing, Orins Bleistift. Kurz, die Spitze abgebrochen. Sie stand nicht auf um ihn zu holen. Aber sie wusste, dass er da war.
 
 Tag eins.
