@@ -1,194 +1,401 @@
-# Buch 3 — Akt IV — Die Naht (Seite 600–900, ~75.000 Wörter, 10 Kapitel + 2 Interludien)
+# Buch 3 — Akt IV — Die Naht (Seite 675-900, ~56.000 Wörter, 10 Kapitel + 2 Interludien + Epilog)
 
 ## Struktur
 
-Bau der Naht-Maschine. Jede Figur trägt etwas bei — Moragh-Magie, Thalassien-Technik, Wissen, Opfer. Talven kalibriert als Büßer. Iven ist das Interface. Nyr schützt. Vesper sieht die Zeitlinien und kann nicht wegschauen. Maren hält den Wasserweg offen. Runa druckt und baut und hält zusammen. Alphinas Opfer speist die Regeneration der drei zerstörten Reservoir-Quellen. Stirbt. Jeder Wald den sie je wachsen ließ stirbt mit ihr. Die Welten bleiben zwei — aber die geheilten Quellen + thalassische Technologie verändern alles. Magie hat jetzt überall einen Preis, auch für Thalassier in Moragh. Kein kostenloses Geschenk mehr.
+Der Angriff auf das Portal. Jede Figur trägt bei. Iven stört die Ley-Linien. Nyr bricht durch. Vesper navigiert. Varen webt. Talven kalibriert. Alphina zerstört die Riss-Quelle. Das Portal schließt sich. Permanent. Thalassien verliert alle Magie. Die Thar verlieren den Tech-Zugang. Maren ist gestrandet. Für immer. Alphina wählt Moragh. Für immer. Kein Opfer — eine Wahl. Alphina lebt. Varen lebt.
 
-**Stil:** Yarros auf Maximum. Massive Magie, physische Konsequenzen, Kampfszenen, Verlust. Aber auch: Stille Momente. Die Hand auf dem Stein. Der letzte Farn. Der Geschmack von Moragh-Tee.
-
-## Kapitelplan
-
-### Kap. 71 — Maren (S. 600–620, ~5.000 Wörter)
-*Der Bau beginnt.*
-
-Am stillen Punkt des Flusses. Der Ort wo Maren zum ersten Mal den Riss geöffnet hat — drei Sekunden Vael, der Geruch von Salz und Teer. Jetzt: eine Baustelle. Moragh-Steinmetze formen Fundamente. Thalassien-Ingenieure installieren Generatoren. Kabel neben Kristallen. Schaltkreise neben Runen.
-
-Maren im Wasser. Hält den Kanal offen — weiter als je zuvor, stabil, ein Strom der in beide Richtungen fließt. Thalassien-Wasser nach Moragh, Moragh-Wasser nach Thalassien. Austausch statt Raub. Es kostet sie nichts. Moragh zahlt. Aber jetzt: Thalassien zahlt auch. Die Ingenieure messen — Energieverlust auf der Thalassien-Seite. Minimal. Aber messbar. Die Welten beginnen sich auszugleichen.
-
-Iven neben dem Hauptgenerator. Hand auf Metall. Der Generator HEULT. Leistung verdreifacht. Die Ingenieurin reißt den Notschalter — "Er überlastet!" Iven nimmt die Hand weg. Normal. "Tut mir leid," sagt er. Er meint es. Sein Körper: Nasenbluten. Klein, schnell vorbei. Moragh-geboren. Er zahlt.
-
-### Kap. 72 — Talven (S. 620–638, ~4.500 Wörter)
-*Der Büßer.*
-
-Talven an der Maschine. Blind — beide Augen milchig, er sieht Licht und Schatten und Farben die keine sind. Seine Hände: permanent zitternd, aber er hat gelernt damit zu arbeiten. Die Ingenieure brauchen jemanden der Resonanz-Flüsse versteht — nicht theoretisch wie Vesper, sondern physisch. Jemand der Resonanz gefühlt hat, natürliche und geerntete, in seinem eigenen Körper.
-
-Talven legt die Hände auf die Kanäle der Maschine. Fühlt: der Resonanz-Fluss, warm, grün — Alphinas Signatur. Kalt, salzig — Marens. Heiß, metallisch — Runas. Und darunter: Moragh selbst, müde, erschöpft, aber da.
-
-Er kalibriert. Korrigiert den Fluss. Dreht an Ventilen die keine Ventile sind — Resonanz-Schleusen, geformt aus dem Muster das Varen hinterlassen hat. Weber-Muster. Fäden statt Ketten.
-
-Er arbeitet schweigend. Niemand dankt ihm. Er erwartet es nicht.
-
-### Kap. 73 — Vesper (S. 638–656, ~4.500 Wörter)
-*Die letzte Zeitlinie.*
-
-Vesper in der Maschine — nicht physisch, temporal. Er legt die Hände auf die Struktur und sieht: die Zeitlinien konvergieren. Dutzende werden eine. Die Maschine funktioniert — in jeder Linie die er sehen kann. Die drei Quellen werden geheilt.
-
-Aber: Alphina. In jeder Zeitlinie wo die Maschine funktioniert — dieselbe Konsequenz. Der Katalysator wird verbraucht. Die Resonanz fließt in die Naht und die Quelle versiegt.
-
-Vesper sucht die Linie in der Alphina überlebt. Drückt tiefer, sieht weiter, bis seine Augen bluten — nicht Moragh-Preis, sondern Erschöpfung. Die Linie existiert nicht.
-
-Er geht zu Maren. Sagt es ihr. Marens Gesicht — kein Wasser explodiert. Kein Aufschrei. Nur ein langsames Schließen der Augen. "Weiß sie es?" Vesper: "Sie hat es vor mir gewusst."
-
-### Kap. 74 — Runa (S. 656–676, ~5.000 Wörter)
-*Die Presse. Der Abschied.*
-
-Runa an der Presse. Druckt — zum letzten Mal vor der Aktivierung. Nicht Daten, nicht Zahlen. Eine Seite, ein Text, in Alphinas Handschrift die Runa nachgesetzt hat — Buchstabe für Buchstabe in Blei gegossen.
-
-"Die Schwelle." Alphinas Worte. Ihre Geschichte, ihre Sicht, ihr Ich und Präsens. Runa setzt es in Schrift und Moragh-Tinte und drückt es auf Papier aus zwei Welten.
-
-Alphina kommt in die Werkstatt. Sieht die Druckbögen. Sieht ihre Worte in Blei. Sieht Runa — Hände schwarz von Tinte, warm wie immer, das Lachen das zu laut ist für den Raum.
-
-"Du druckst mich." Runa: "Jemand muss." Stille. Runa nimmt Elkes Brief von der Wand. Liest vor: "Liebe die nur nimmt ist keine Liebe."
-
-Alphina küsst sie. Langsam. Kein Wald bricht aus. Kein Farn wächst. Die Welt ist still. Wie beim ersten Mal.
-
-### Interludium XV (~S. 684, ~2.000 Wörter)
-*Sorels Platten. Im Museum, 2250.*
-
-Thalassien-Seite. Das Stadtmuseum Vael. Ein Raum mit Glasplatten — Sorels Nachlass, restauriert, katalogisiert. Hafenbilder, Nachtaufnahmen, das Lichthaus. Und ein Bild: eine Frau mit Farnen. Alphina. Sorels erste Vael-Platte.
-
-Ein Sensor am Rahmen beginnt zu piepen. Die Glasplatte vibriert — fein, kaum wahrnehmbar. Der Museumswächter ruft das Institut an. Die Wissenschaftlerin kommt, misst, starrt. "Das ist Resonanz," sagt sie. "In einer Glasplatte. Von 1820."
-
-Sorel hat Alphina fotografiert. Die Platte hat ihre Resonanz bewahrt. Vierhundert Jahre. Wie eine Nachricht in einer Flasche, geschickt durch die Zeit.
-
-### Kap. 75 — Alphina (S. 688–718, ~7.500 Wörter)
-*Die Naht.*
-
-Der Tag. Morgens, Nebel, zwei Monde am Himmel. Alphina am Fluss, an der Maschine. Alle sind da.
-
-Maren im Wasser. Hält den Kanal offen. Ihr Gesicht — konzentriert, ruhig, das Gesicht einer Frau die seit vierhundert Jahren unterwegs ist und jetzt, zum ersten Mal, ankommt.
-
-Iven am Generator. Hände auf Metall. Der Generator heult. Sein Nasenbluten: konstant jetzt. Ein Tuch am Kragen. Er lächelt trotzdem — siebzehn und der Generator singt für ihn.
-
-Nyr in ihrer Bestie. Zehn Meter, Moragh-Stahl wie Knochen, extern gespeist. Sie schützt die Maschine — Binder-Reste, Gilden-Zweifler, alle die Angst haben vor dem was kommt. Die Bestie summt. Nyr darin: schmerzfrei. Zum ersten Mal die volle Kraft ohne den Preis.
-
-Talven an den Kanälen. Blind, zitternd, die Hände auf den Schleusen. Er fühlt den Fluss. Korrigiert. Flüstert Richtungen an die Maschine — nicht Befehle, Bitten. Weber-Muster. Fäden statt Ketten.
-
-Vesper sieht die Zeitlinien. Alle konvergiert. Eine Zukunft. Eine Welt.
-
-Runa steht neben der Presse. Die Druckbögen in einer Kiste. Alphinas Worte, gesetzt in Blei, gedruckt auf Papier aus zwei Welten. Bereit.
-
-Alphina tritt an die Maschine. Legt die Hände auf das Zentrum — dort wo Moragh-Kristall und Thalassien-Stahl sich treffen. Fühlt: die drei toten Quellen. Leer, kalt, seit Varens Experiment. Und darunter: das Netzwerk das die Thar gebaut haben, die Leylines die alles verbinden. Die Bombe die Varen entdeckt hat.
-
-Sie drückt. Nicht wie im Garten — dort hat sie gegeben und genommen. Hier gibt sie nur. Alles. Ihre Resonanz fließt in die toten Quellen — warm, grün, endlos. Der Jump-Start. Die Maschine summt. Der Generator heult. Der Kanal weitet sich.
-
-Die Wälder sterben. Jeder Wald den sie je wachsen ließ — der Schlaf-Hain, Elkes Garten, die Farne in der Gilden-Stadt, die Ranken die gebundene Wesen gehalten haben. Alles welkt. Gleichzeitig. Wie ein Ausatmen.
-
-In Thalassien, 2250: der botanische Garten. Die Farne die seit vierhundert Jahren wachsen — fallen um. Sensoren schlagen Alarm. Die Wissenschaftlerin im Museum sieht die Glasplatte — Sorels Bild von Alphina — aufhören zu vibrieren. Still.
-
-### Kap. 76 — Runa (S. 718–734, ~4.000 Wörter)
-*Der letzte Druck.*
-
-Runa sieht Alphina. Sieht sie schrumpfen, sieht die Farbe aus ihrem Gesicht weichen, sieht die Hände die auf dem Metall liegen und die nicht mehr zittern weil sie sich nicht mehr bewegen.
-
-Sie greift nicht ein. Sie weiß. Alphina hat es ihr gesagt, nachts, im Garten, nach dem Kuss: "Bei Sorel hat die Welt geblüht. Bei dir ist sie still. Die Stille ist besser. Die Stille ist ehrlich."
-
-Runa steht und sieht zu und ihre Hände sind warm und die Presse neben ihr ist kalt und die Druckbögen in der Kiste sind das einzige das bleibt.
-
-### Kap. 77 — Maren (S. 734–752, ~4.500 Wörter)
-*Die Quellen leben.*
-
-Maren im Wasser. Der Kanal — nicht mehr schmal, nicht mehr fragil. WEIT. Die Resonanz fließt durch die geheilten Quellen, durch das Netzwerk, pulsiert. Die Welten bleiben zwei — aber die Verbindung ist offen, dauerhaft, ein Strom der in beide Richtungen fließt.
-
-An den Ufern: Veränderungen. In Moragh — die toten Quellen erwachen. Reservoire füllen sich, langsam, stetig. In Thalassien — Magie. Eine Frau in Vael berührt eine Pflanze und die Pflanze dreht sich. Ein Kind hebt einen Stein ohne ihn zu berühren. Schwindelgefühl. Nasenbluten. Magie kostet jetzt. Überall. Für alle. Auch für Thalassier die nach Moragh kommen.
-
-Maren steht im Fluss, Wasser bis zur Brust, und fühlt: beide Welten. Getrennt. Verbunden. Die Grauwe und den Moragh-Fluss und den stillen Punkt der nicht mehr still ist weil die Quellen wieder atmen.
-
-### Kap. 78 — Vesper (S. 752–768, ~4.000 Wörter)
-*Die letzte Zeitlinie.*
-
-Vesper sieht eine Zukunft. Eine. Die Spirale löst sich auf — lineare Zeit, die Quellen geheilt. Keine Schichten mehr, keine Überlappungen. Die Uhren laufen richtig. 4:33 — die Anomalie, Varens Frequenz, die Schwingung der Naht — verschwindet. Null Abweichung.
-
-Er nimmt die Hände von den Büchern. Zum letzten Mal. Die Bücher sind Bücher — Tinte auf Papier, keine Magie mehr in den Seiten. Die Bibliothek: ein Archiv. Die Zeit: eine Linie. Vesper — der Mann der Muster sieht — sieht zum ersten Mal eine Zukunft ohne Muster. Ohne Spiralen. Ohne Vorhersage.
-
-Es ist beängstigend. Es ist eine Erleichterung.
-
-### Interludium XVI (~S. 776, ~2.000 Wörter)
-*Alphina stirbt.*
-
-Alphinas letzte Momente. Ich-Perspektive. Präsens. Wie immer.
-
-Ich fühle die Quellen. Sie erwachen. Unter meinen Händen — Stahl und Kristall und etwas das älter ist als die Trennung der Welten. Warm. Wie Erde nach Regen.
-
-Meine Hände werden leichter. Meine Arme. Mein Körper. Wie Wurzeln die loslassen.
-
-Die Wälder sterben. Ich fühle jeden Baum. Jedes Blatt. Jede Ranke. Sie fallen, und mit ihnen fällt etwas in mir das ich nicht benennen kann und das sich anfühlt wie die Antwort auf eine Frage die ich nie gestellt habe.
-
-Runa. Neben mir. Warm. Ihre Hand auf meiner Schulter. Ich sehe sie nicht — meine Augen sind zu. Ich fühle sie. Wärme. Nicht Feuer-Resonanz. Körperwärme. Menschlich. Einfach.
-
-Bei Sorel hat die Welt geblüht. Bei Runa ist sie still. Die Stille war immer ehrlicher.
-
-Ich gebe. Alles. Die Quellen erwachen. Die Welten bleiben zwei. Aber sie atmen wieder. Es kostet mich alles.
-
-Es hat sich gelohnt.
-
-### Kap. 79 — Runa + Alphina (S. 780–800, ~5.000 Wörter)
-*Der Moment.*
-
-Runa hält Alphinas Hand. Alphinas Resonanz — das Letzte — fließt in die Maschine. Grün. Warm. Endlos. Dann: nicht mehr endlos. Dann: nichts.
-
-Alphina stirbt. Leise. Im Stehen. Ihre Hände auf der Maschine, ihr Gesicht — jünger, wie Elkes. Die Pflanzen die um sie gewachsen sind, ihr ganzes Leben lang, in jeder Welt — fallen. Welken. Werden Erde.
-
-Runa lässt nicht los. Hält die Hand die kälter wird. Ihre eigene Hand: warm. Immer warm. Der Kontrast ist unerträglich.
-
-Neben ihr: Talven. Blind. Zitternd. Er hat die Resonanz-Kanäle gehalten bis zum Schluss. Jetzt steht er da und weint und sieht nichts und fühlt alles. Die Maschine: still. Die Quellen: geheilt. Die Welten: zwei. Aber verbunden.
-
-### Kap. 80 — Alle (S. 800–900, ~25.000 Wörter)
-*Danach.*
-
-Vier Abschnitte, vier Enden. Keines vollständig geschlossen.
-
-**Maren** (S. 800–830): In Vael. Alt, grau, die Haare weiß. Nicht vierhundert Jahre alt — sie hat gelebt, Moragh-Zeit und Thalassien-Zeit, aber ihr Körper hat seinen eigenen Rhythmus gefunden. Sie steht am Hafen. Metallschiffe. Glasfassaden. Die Grauwe schmeckt nach Salz und nach etwas Neuem — Magie, die jetzt überall ist, die jetzt überall kostet. Vesper neben ihr. Grau, still, die Uhren an seinem Handgelenk laufen richtig. 4:33 ist Null.
-
-"Bereust du es?" fragt Maren. Vesper: "Welchen Teil?" Maren: "Die Thar. Nyr. Dass du uns verkauft hast." Vesper, lange Stille: "Jeden Tag. Und ich würde es wieder tun." Maren schlägt ihm nicht ins Gesicht. Diesmal nicht. Sie nimmt seine Hand. Das Wasser an ihren Füßen ist warm. Nicht Moragh-warm, nicht Thalassien-kalt. Etwas dazwischen.
-
-**Vesper** (S. 830–850): Im Schwellenforschungsinstitut — jetzt das Institut für Resonanz-Physik. Monitore, Daten, Muster. Aber andere Muster. Keine Spiralen mehr — lineare Projektionen, berechenbare Physik, Magie als messbare Kraft. Vesper berät. Nicht als Seher — als Analytiker. Die Zeitlinien sind weg. Die Muster sind einfacher.
-
-Nyr kommt. Breit, ruhig, die Narben an den Unterarmen verblasst. Ihre Bestie steht in einem Museum neben Sorels Glasplatten. "Die Pilotin und der Fotograf," steht auf dem Schild. Nyr lacht. Presst Vesper an die Wand. Luft wird dünn — Magie, die jetzt KOSTET. Nasenbluten, Schwindel. "Lass das," sagt Vesper. Nyr: "Nein."
-
-**Runa** (S. 850–878): In der Werkstatt. Die Presse — die thalassische Presse in Moragh-Metall — steht in einer Halle. Runa baut. Nicht eine Presse — eine Hybrid-Maschine. Thalassien-Elektronik, Moragh-Resonanz, zusammen. Die erste Druckmaschine die mit Magie UND Strom funktioniert. Allein. Alphina ist tot.
-
-Die Druckbögen in der Kiste: Alphinas Worte. "Die Schwelle." Runa hat sie nicht veröffentlicht. Noch nicht. Hält sie in der Kiste, unter der Presse, neben Elkes Brief. "Liebe die nur nimmt ist keine Liebe." Runa druckt andere Dinge — Zeitungen, Karten, Anleitungen für die neue Welt. Die Hybrid-Presse summt. Warm. Wie Runas Hände.
-
-Eines Tages wird sie die Kiste öffnen. Nicht heute.
-
-**Talven** (S. 878–890): In der Gilden-Stadt — jetzt nur noch "die Stadt," keine Fraktionen mehr. Talven unterrichtet. Nicht Magie — Warnung. Er sitzt vor jungen Lehrlingen, blind, Hände zitternd, und erzählt: "Ich habe einem Wald das Leben gestohlen und es für gerecht gehalten." Die Lehrlinge hören zu. Einer fragt: "Würden Sie es wieder tun?" Talven, lange Stille: "Nein. Aber ich verstehe warum ich es getan habe. Und das ist schlimmer."
-
-Er lebt im Garten. Elkes Garten. Der Stein dort: nicht leer. Nicht voll. Leise. Wie ein alter Freund der wieder anfängt zu sprechen. Talven fühlt es — nicht mit den Augen, die sehen nichts. Mit den Händen, die zittern, die sich erinnern.
-
-**Epilog** (S. 890–900): Vael. Botanischer Garten. Ein Kind berührt einen Farn. Der Farn dreht sich. Das Kind lacht. Die Mutter: "Hör auf damit." Das Kind: "Er mag mich." Der Farn dreht sich zurück wenn das Kind wegschaut.
-
-Das Kind hat Schwindelgefühl. Kurz, leicht. Die Welt kostet jetzt. Für alle. Magie ist nicht kostenlos. Magie ist nicht unfair. Magie IST.
-
-Unter dem Garten, tief im Purpurstein: ein Pochen. Langsam. Regelmäßig. Wie ein Herzschlag. Die geheilten Quellen. Wie damals.
-
-Die Welten sind zwei. Die Schwelle atmet.
+**Ton:** Yarros auf Maximum. Massive Magie, physische Konsequenzen, Kampfszenen. Aber auch: die stillen Momente. Die Hand auf dem Stein. Der letzte Farn. Der Geschmack von Moragh-Tee. Und danach: Frieden. Nicht lauter Frieden. Stiller. Ehrlicher. Dornen und Gärten und reparierende Quellen.
 
 ---
 
-## Tschechow'sche Waffen — Finale Buch 3
+## Kapitelplan
+
+### Kap. 71 — Vesper (S. 675-697, ~5.500 Wörter)
+*Annäherung. Die Thar-Festung.*
+
+Durch feindliches Gebiet. Die Ankunftsstadt am Portal — eine Festung jetzt. Mauern aus Moragh-Stahl, verstärkt mit Thalassien-Verbundwerkstoffen. Autonome Bestien patrouillieren — sechs, acht, zehn, Vesper zählt und rechnet. Schwarm-Schemen in der Luft wie glitzernder Regen. Die Ley-Linien-Glasfaser pulsiert unter dem Boden — das Nervensystem des Imperiums.
+
+Vesper navigiert. Ohne Temporal-KI. Sein Muster-Sinn allein. Er sieht die Patrouillenmuster — nicht 3-5 Minuten voraus wie mit der KI, sondern 30-40 Sekunden. Menschlich. Genug. Knapper.
+
+"Links," flüstert er. "Jetzt." Nyr dreht Kessler. Die autonome Bestie patrouilliert vorbei. Zehn Meter Abstand. Kessler dampft nicht — Nyr hat den Dampf gedrosselt. Disziplin.
+
+"Das Sensor-Netzwerk hat eine Lücke," sagt Vesper. "Nord-Ost. Sieben Sekunden. Iven — jetzt."
+
+Iven hockt hinter Kessler. Hände auf einem tragbaren Generator. Drückt. Der Generator heult — leise, nach innen, Resonanz statt Lärm. Die Ley-Linien-Glasfaser unter dem Boden: flackert. Die Schwarm-Schemen stottern. Die autonomen Bestien verlangsamen — eine Sekunde, zwei. Dann: Neustart. Aber die Sekunden reichen.
+
+Ivens Nase: Blut. Ein dünner Faden. Moragh-geboren. Er zahlt. Wischt es ab. Weiter.
+
+**Tschechow:** Iven bezahlt mit Blut. — Feuert: Kap 75. Iven hält die Störung länger. Bezahlt mehr. Überlebt.
+
+---
+
+### Kap. 72 — Nyr (S. 697-717, ~5.000 Wörter)
+*Durchbruch. Kessler rammt.*
+
+Phase 2. Die Mauer.
+
+Nyr in Kessler. Vierzig Tonnen Moragh-Stahl. Dampf aus den Nüstern. Rote Augen — IHRE roten Augen, nicht die der KI. Sie spürt Kessler wie einen eigenen Körper. Wie immer. Wie es sein soll.
+
+"Nyr," sagt Vesper über Ivens improvisiertes Kommunikationsgerät. "Nordost-Mauer, dreizehn Grad. Jetzt."
+
+Kessler beschleunigt. Nyr kanalisiert Druck — die Luft vor Kessler komprimiert sich, eine Ramm-Welle. Der Boden bebt. Die Mauer: Moragh-Stahl, verstärkt. Kessler trifft.
+
+KRACHEN. Die Mauer hält. Kessler prallt zurück. Nyrs Nase: Blut. Moragh-geboren. Sie zahlt.
+
+"Nochmal," sagt Nyr.
+
+Kessler rammt. Die Mauer knirscht. Ein Riss. Nicht genug.
+
+"NOCHMAL."
+
+Dritter Ramm. Die Mauer bricht. Kessler stampft durch — Trümmer, Staub, Alarm. Autonome Bestien konvergieren. Drei. Fünf. Kessler gegen fünf.
+
+Nyr lacht. Presst Luft. Kessler dreht sich — Ramm gegen Ramm, Metall auf Metall. Die autonomen Bestien: koordiniert, effizient, ohne Fehler. Kessler: wild, brutal, eine Pilotin die FÜHLT statt rechnet.
+
+Varen hinter ihr — Schemen weben sich um die autonomen Bestien. Fäden um Gelenke. Nicht Zerstörung — Verwirrung. Die Bestien stolpern. Sekunden. Genug für Kessler.
+
+Nyr rammt eine autonome Bestie um. Die zweite. Die dritte greift von hinten an — Vesper ruft: "Drei Uhr!" Nyr dreht. Kessler schleudert die Bestie gegen die Mauer.
+
+Durchbruch. Der Weg zum Portal ist offen.
+
+**Tschechow:** Kessler gegen autonome Bestien. Pilotin gegen KI. — Die Pilotin gewinnt.
+
+---
+
+### Kap. 73 — Alphina (S. 717-737, ~5.000 Wörter)
+*Schwarm-Schemen. Der Wald.*
+
+Durch die Bresche. Auf dem Weg zum Portal. Schwarm-Schemen — Tausende Mikro-Wesen, koordiniert, tödlich. Sie fließen über Mauern, durch Ritzen, durch Luft. Die KI sucht Feinde.
+
+Alphina hebt die Hände. Wurzeln explodieren aus dem Boden. Nicht Farne — Dornen. Dick, schnell, undurchdringlich. Ein Wald wächst in Minuten. Zwischen ihnen und den Schwarm-Schemen. Die Dornen fangen die Mikro-Wesen — nicht zerdrücken, einschließen. Harz. Klebrig, dick, pflanzlich. Die Schemen bleiben hängen. Zappeln. Verkleben.
+
+Es kostet Alphina nichts. Nicht mal schnellerer Puls. Der Boden unter dem Wald: in zehn Minuten fünf Prozent Reservoir verloren. Moragh zahlt.
+
+"Weiter," sagt Alphina. Die Dornen bilden einen Korridor — geschützt, dicht, pulsierend. Dahinter: die Schwarm-Schemen, blockiert. Darüber: Drohnen. Quellen-Siphon-Drohnen die scannen und —
+
+Iven stört die Frequenz. Die Drohnen taumeln. Fallen. Sein Nasenbluten: stärker jetzt. Sein Gesicht: blass. "Nicht aufhören," sagt Vesper neben ihm. Iven: "Tu ich nicht."
+
+Vor ihnen: das Portal. Die Riss-Quelle darunter. Alphina fühlt sie — warm, pulsierend, lebendig. Die Quelle die Magie nach Thalassien sickern lässt. Die Quelle die den Riss speist. Die Quelle die alles begonnen hat.
+
+**Tschechow:** Der Dornen-Korridor. — Feuert: Epilog. Dornen. Alphinas Markenzeichen.
+
+---
+
+### Kap. 74 — Varen (S. 737-755, ~4.500 Wörter)
+*Der Weber an der Front.*
+
+Varen webt. Schemen — Fäden, nicht Ketten. Seine Methode, seine Erlösung, sein Unterschied zu den Bindern. Die Schemen weben sich um die Thar-Verteidigung: blenden Sensoren, verwirren KI-Systeme, leiten Biotech-Schemen in Sackgassen.
+
+Er bezahlt. Moragh-geboren. Sein Nasenbluten: stark. Sein Körper: erschöpft nach zwanzig Minuten. Aber er webt weiter. Drei Quellen zerstört, drei repariert, und jetzt deckt er die Frau die die letzte Zerstörung durchführt.
+
+Ein Thar-Beschwörer stellt sich ihm. Kampf — Varens Schemen gegen gebundene Wesen. Fäden gegen Ketten. Varen ist besser. Hat mehr Erfahrung. Hat mehr Schuld. Die Schuld macht ihn nicht stärker — sie macht ihn präziser. Er hat nichts mehr zu verlieren als das was er gerade repariert hat.
+
+Alphina passiert ihn. Auf dem Weg zur Quelle. Ihre Blicke treffen sich — eine Sekunde. Keine Worte. Alles gesagt.
+
+Varen webt einen Schutzschirm um sie. Fäden, dicht, leuchtend. Der letzte Schutz den er geben kann. Es kostet ihn: Erschöpfung, Zittern, der Rand der Bewusstlosigkeit. Aber er steht.
+
+**Tschechow:** Varen webt Fäden, nicht Ketten. — Symmetrie zu Buch 1 (Sorels Tod, Varens Ketten). Jetzt: Schutz statt Angriff.
+
+---
+
+### Kap. 75 — Iven + Talven (S. 755-775, ~5.000 Wörter)
+*Das Interface. Die Kalibrierung.*
+
+Iven am Generator. An der Riss-Quelle. Die Ley-Linien-Glasfaser des gesamten Thar-Netzwerks konvergiert hier — am Portal, am Knotenpunkt. Iven muss die GESAMTE Frequenz stören. Nicht einen Abschnitt — alles.
+
+Er legt beide Hände auf den Generator. Drückt. Elektrizitäts-Resonanz, volle Kraft. Der Generator heult. Nicht verdoppelt — verzehnfacht. Die Ley-Linien-Glasfaser im gesamten Netzwerk flackert. Auf dem Kontinent: autonome Bestien stottern. Schwarm-Schemen kollabieren. Quellen-Siphon-Drohnen fallen. Das Nervensystem des Imperiums hat einen Anfall.
+
+Iven bezahlt. Nasenbluten: beide Nasenlöcher. Zittern: unkontrolliert. Sein Gesicht: grau. Siebzehn Jahre alt und er sieht aus wie dreißig. Moragh-geboren. Der Körper schreibt die Rechnung.
+
+"Nicht aufhören," sagt er. Zu sich selbst. "Nicht aufhören nicht aufhören nicht —"
+
+Talven neben der Quelle. Blind. Hände auf dem Stein. Er fühlt die Riss-Quelle — warm, mächtig, uralt. Älter als der Krieg, älter als Varen, älter als die Flucht der Thalassier vor 80.000 Jahren. Diese Quelle hat IMMER den Riss gespeist.
+
+Er kalibriert. Fühlt die Frequenz — den Punkt wo die Überladung kippt. Alphina muss GENAU diesen Punkt treffen. Zu wenig: die Quelle überlebt. Zu viel: die Explosion destabilisiert die vier reparierten Quellen.
+
+"Hier," sagt Talven. Seine zitternden Hände auf einer Stelle im Stein. "Hier ist der Kern. Hier muss sie drücken."
+
+Blind. Präzise. Genug.
+
+**Tschechow:** Iven grau, dreißig statt siebzehn. — Feuert: Ende. Iven überlebt. Erholt sich. Moragh-Preis heilt sich durch Ruhe.
+
+---
+
+### Kap. 76 — Alphina (S. 775-805, ~7.500 Wörter)
+*Die Riss-Quelle. Die Wahl.*
+
+**DAS FINALE IST KEIN KAMPF. ES IST EINE ENTSCHEIDUNG.**
+
+Alphina an der Riss-Quelle. Allein — die anderen halten die Verteidigung, stören die Systeme, kalibrieren den Punkt. Aber an der Quelle ist sie allein. Wie beim ersten Mal.
+
+Sie kniet. Hände auf den Stein. Fühlt die Quelle — warm, pulsierend, mächtig. Die älteste Quelle die sie je berührt hat. Hier hat alles angefangen. Hier sickert Magie nach Thalassien. Hier drehen sich die Farne. Hier hat Vael sein heißes Wasser, seine Schemen, seinen Nebel.
+
+Sie fühlt ihre eigene Resonanz-Signatur im Stein. Schwach, alt — von ihrem ersten Durchgang, Buch 1. Sie ist DURCH diese Quelle gekommen. Die Quelle kennt sie.
+
+"Ich habe das schon einmal getan," sagt Alphina. Zu niemandem. Zu sich selbst. Zu Moragh.
+
+Beim ersten Mal: eine Quelle zerstört. Absichtlich. Für den Bund. Wurzeln tief in die Erde. Die Quelle überladen. Stille. Die Quelle tot. Kinder schrien.
+
+Jetzt: dieselbe Handlung. Wurzeln in die Erde. Die Quelle überladen. Stille. Die Quelle tot. Kein Zurück.
+
+**Was es kostet:**
+
+Thalassien verliert alle Magie. In Vael, 2250: die Farne im Botanischen Garten stehen still. Die Sensoren am Steinkreis: Null. Das Schwellenforschungsinstitut: sinnlos. Marens Lebenswerk: sinnlos. Maren selbst: gestrandet. Für immer. Kein Portal mehr. Keine Resonanz. Keine Verbindung.
+
+Alphina wählt Moragh. Für immer. Kein Zurück. Kein Vael. Keine Grauwe. Kein Purpurstein. Kein Salz in der Luft. Sie wählt Varen und Dornen und reparierende Quellen und eine Welt die sich langsam erholt.
+
+Die Thar verlieren den Tech-Zugang. Die autonomen Bestien: Ersatzteile laufen aus. Die KI: keine Updates. Die Schwarm-Schemen: die Biotech-Versionen überleben, aber stagnieren. Kein Imperium. Kein Nervensystem. Nur eine Fraktion in einem Krieg der enden wird weil die Waffen stumpf werden.
+
+Alphina drückt. Wurzeln in die Erde. Tief. Durch Stein, durch Schichten, bis zum Quellen-Kern. Talvens Stelle — blind markiert, präzise. Dort.
+
+Sie fühlt die Quelle. Warm. Lebendig. Uralt.
+
+Sie drückt. Überlädt. Wie beim ersten Mal. Genau wie beim ersten Mal. Die Erde bebt. Die Quelle schreit — nicht hörbar, spürbar. In den Knochen. Im Stein. In allem.
+
+In Thalassien: die Farne fallen um. Alle. Gleichzeitig. Im Botanischen Garten: Sensoren schlagen Alarm. Die Glasplatte — Sorels Bild von Alphina — hört auf zu vibrieren. Still. Die Bodentemperatur: normal. Zum ersten Mal seit Jahrhunderten.
+
+In Moragh: die Riss-Quelle stirbt. Der Riss heilt. Permanent. Wie eine Wunde die endlich schließt.
+
+Es kostet Alphina nichts. Keinen schnelleren Puls. Keine Müdigkeit. Kein Nasenbluten. Nichts. Moragh zahlt: der Boden um die Quelle herum verdorrt. Aber die vier reparierten Quellen — Talvens Kalibrierung hält. Sie pochen weiter. Stabil. Fragil, aber stabil.
+
+Alphina steht auf. Ihre Hände: Erde, Stein, Wurzelreste. Der Riss ist zu. Das Portal ist geschlossen. Für immer.
+
+Sie hat eine Quelle zerstört. Zum zweiten Mal. Beim ersten Mal war es falsch. Diesmal ist es richtig. Dieselbe Handlung. Anderer Mensch.
+
+**Alphina lebt. Die Wahl ist getroffen. Kein Opfer. Ein Entschluss.**
+
+**Tschechow:** Die Symmetrie schließt sich. Drei Quellen-Zerstörungen: Varen (Unfall/Krieg), Alphina B2 (absichtlich/Schuld), Alphina B3 (absichtlich/Frieden).
+
+---
+
+### Interludium XV (~S. 810, ~2.500 Wörter)
+*Maren. Stille.*
+
+Thalassien. Vael. Das Schwellenforschungsinstitut.
+
+Maren vor den Monitoren. Die Sensorik am Steinkreis: Null. Kein Signal. Keine Anomalie. Keine Bodentemperatur-Abweichung. Nichts.
+
+Die Farne im Botanischen Garten: still. Nicht verdorrt — still. Sie stehen. Grün. Gesund. Aber sie drehen sich nicht. Nicht zu ihr. Nicht zu irgendjemandem. Normale Pflanzen. Zum ersten Mal seit Jahrhunderten.
+
+Maren geht in den Garten. Berührt einen Farn. Nichts. Kein Drehen. Kein Schwindelgefühl. Keine Resonanz. Die vestigiale Magie: weg. In ihr, in allen, in ganz Thalassien.
+
+Sie setzt sich auf eine Bank neben dem Steinkreis. Der Stein: kalt. Normaler Stein. Die Inschriften die Generationen von Forschern studiert haben: Muster auf Stein. Nicht mehr.
+
+"Alphina," sagt Maren. Nicht als Ruf. Als Feststellung. "Du hast es getan."
+
+Das Meer riecht nach Salz. Nur nach Salz. Nicht nach Moragh. Nicht nach Magie. Nicht nach der anderen Seite.
+
+Marens Lebenswerk: auf dem Bildschirm, in den Akten, auf dem Gebäude. Ihr Name steht dort. "Schwellenforschungsinstitut — Gegründet auf Initiative von M. van Dahl." Ein Institut für etwas das nicht mehr existiert.
+
+Maren weint nicht. Sie sitzt auf der Bank und sieht die Grauwe und das Salz und die Farne die sich nicht drehen und denkt: ich habe dreihundert Jahre an etwas gearbeitet das eine Frau in drei Minuten beendet hat. Und sie hatte Recht.
+
+**Tschechow:** Maren allein. Das Meer riecht nur nach Salz. — Das ist das Ende.
+
+---
+
+### Kap. 77 — Varen + Alphina (S. 816-834, ~4.500 Wörter)
+*Nach der Zerstörung. Die Thar.*
+
+Das Portal ist geschlossen. Die Thar-Festung: im Chaos. Die Ley-Linien-Glasfaser: tot (die Riss-Quelle hat sie gespeist). Die autonomen Bestien: abgeschaltet. Die Schwarm-Schemen: die KI-koordinierten kollabiert, die Biotech-Versionen irren orientierungslos. Die Quellen-Siphon-Drohnen: am Boden.
+
+Die Thar-Kommandantin steht in den Trümmern ihrer Festung. Kein Imperium mehr. Nur eine Fraktion mit stumpfen Waffen.
+
+Varen vor ihr. "Es ist vorbei," sagt er. "Das Portal bleibt geschlossen. Die Technologie-Quelle ist versiegt. Eure Bestien brauchen Ersatzteile die nicht kommen. Eure KI braucht Updates die nicht kommen. Eure Schemen brauchen —"
+
+Die Kommandantin: "Wir haben genug für Jahre."
+
+Varen: "Jahre. Nicht Generationen. Und der Krieg kostet. Jede Bestie die fällt — kein Ersatz. Jeder Helm der bricht — kein Ersatz."
+
+Stille.
+
+"Verhandelt," sagt Alphina. "Oder verarmt."
+
+Die reparierten Quellen pochen. Vier Herzschläge. Die Thar spüren es — die Quellen die für sie tot waren, die ihr Imperium nicht speisen konnten, leben wieder. Quellen die ALLE versorgen. Nicht nur die Thar. Nicht nur den Bund. Alle.
+
+"Es gibt genug," sagt Varen. "Wenn niemand mehr zerstört."
+
+**Tschechow:** "Es gibt genug." — Feuert: Epilog. Die Quellen pochen. Moragh erholt sich.
+
+---
+
+### Kap. 78 — Vesper + Nyr (S. 834-852, ~4.500 Wörter)
+*Frei.*
+
+Vesper und Nyr nach dem Kampf. Kessler dampft — Beulen, Kratzer, ein Bein das nicht mehr richtig funktioniert. Nyr steigt aus. Erschöpft — Moragh-Preis. Nasenbluten, Muskelkrämpfe, Hunger. Aber: sie hat pilotiert. SELBST. Keine KI. Kein Algorithmus.
+
+Vesper neben ihr. Sein Muster-Sinn: still. Keine Temporal-KI, keine Spiralen, keine Zeitlinien. Nur die Gegenwart. Eine Zukunft. Eine Linie. Es ist beängstigend. Es ist eine Erleichterung.
+
+"Bereust du es?" fragt Nyr.
+
+"Die Thar?" Vesper. "Jeden Tag."
+
+"Und?"
+
+"Und ich würde es nicht wieder tun." Pause. "Keine Seite. Keine Rechnung. Keine Logik die rechtfertigt dass Menschen an Maschinen geschnallt werden."
+
+Nyr presst ihn an die Mauer. Kesslers warmes Metall im Rücken. Luft wird dünn — nicht KI-kontrolliert, nicht Helm-unterstützt. NYR. Ihr Druck. Ihr Körper. Moragh-Preis: Kopfschmerzen danach. Es war noch nie so gut.
+
+Kessler brummt. Beschädigt, aber lebendig. Nyrs Bestie. Piloten-Bestie. Kein Ersatz.
+
+"Was machen wir jetzt?" fragt Vesper.
+
+Nyr: "Keine Ahnung. Zum ersten Mal."
+
+Vesper lächelt. "Keine Muster?"
+
+"Keine Muster."
+
+**Tschechow:** Kessler beschädigt aber lebendig. — Feuert: Epilog. Vesper + Nyr. Frei.
+
+---
+
+### Kap. 79 — Talven (S. 852-868, ~4.000 Wörter)
+*Der Büßer.*
+
+Talven nach dem Kampf. Blind. Zitternd. Aber: die Kalibrierung hat gehalten. Die vier reparierten Quellen pochen. Stabil. Er hat den Punkt getroffen. Blind, mit zitternden Händen, auf den Millimeter genau.
+
+Er sitzt am Boden. In den Trümmern der Thar-Festung. Hört die Quellen — nicht mit Ohren. Mit den Händen auf dem Stein. Vier Herzschläge. Regelmäßig. Langsam. Lebendig.
+
+"Es hat funktioniert," sagt jemand. Iven. Neben ihm. Ebenfalls am Boden. Nasenbluten gestoppt, aber das Gesicht noch grau. "Die Quellen. Deine Kalibrierung."
+
+Talven: "Ja."
+
+Stille.
+
+Iven: "Deine Augen. Werden die —"
+
+"Nein." Talven. Ruhig. "Das ist der Preis. Permanent. Geerntete Resonanz ist keine normale Magie. Sie kommt nicht zurück."
+
+Iven: "Und?"
+
+Talven legt die Hände auf den Boden. Fühlt die Quellen pochen. "Und ich habe mehr gesehen als die meisten mit offenen Augen."
+
+Er steht auf. Blind. Zitternd. Aufrecht. Geht zurück. Nach Elkes Garten. Der Grashalm im toten Hain — er weiß nicht ob er gewachsen ist. Er fühlt ihn. Mit den Fingerspitzen. Frisch. Grün. Ein Anfang.
+
+**Tschechow:** Der Grashalm. — Feuert: Epilog. Neues wächst. Langsam. Ohne Talven. Ohne Alphina. Von allein.
+
+---
+
+### Kap. 80 — Alphina + Varen (S. 868-888, ~5.000 Wörter)
+*Der Garten.*
+
+Tage später. Elkes Garten. Alphina und Varen. Die Kämpfe klingen ab — die Thar verhandeln, der Bund verhandelt, alle verhandeln. Ohne Technologie-Nachschub stumpfen die Waffen. Ohne Quellen-Zerstörung heilen die Wunden. Langsam. Aber sie heilen.
+
+Alphina im Garten. Elkes Pflanzen: die Thalassien-Farne brauchen weniger Wasser. Alphina hat es Varen gesagt. Er hat zugehört. Gießt vorsichtig. Zu vorsichtig — die Farne bekommen zu wenig. Alphina korrigiert. Seine Hand auf der Gießkanne, ihre Hand die seinen Arm führt.
+
+"Die Farne brauchen weniger Wasser," sagt Alphina.
+
+Varen: "Du hast es schon gesagt."
+
+"Elke hat es gesagt."
+
+Stille. Der Garten. Die Pflanzen aus zwei Welten. Die Steine die Elke geformt hat — Bank, Wege, Regenschale. Die Dornen die Alphina pflanzt — neben den Farnen, neben den Ranken. Dornen und Farne und Stein.
+
+Varen setzt sich auf die Bank. Alphina neben ihm. Seine Hand auf ihrem Rücken. Nicht halten — führen. Oder nicht mehr. Nur da.
+
+"Kein Zurück," sagt Alphina.
+
+Varen: "Nein."
+
+"Kein Vael. Keine Grauwe. Kein Salz."
+
+"Moragh hat andere Salze."
+
+"Die Akkretionsscheibe ist kein Sonnenuntergang."
+
+"Nein," sagt Varen. "Sie ist besser."
+
+Alphina lächelt. Nicht breit — ein Zucken um den Mund. Dornen wachsen um die Bank. Langsam, kontrolliert, eine Gewohnheit. Der Boden unter dem Garten: ein zartes Pochen. Die nächste Quelle, die reparierte, die wieder lebt. Der Herzschlag von Moragh.
+
+"Elke hatte Recht," sagt Alphina. "Es war gut. Das alles."
+
+Sein Blick. Purpurne Augen. Graue Schläfen. Er sagt nichts. Er fragt nichts. Er blickt.
+
+Sein Blick der nicht fragt.
+
+**Tschechow:** Alles. Alles feuert. Der Garten, die Dornen, der Blick, die Quellen, die Bank. Alles.
+
+---
+
+### Epilog (S. 888-900, ~3.000 Wörter)
+
+**Drei Bilder. Drei Welten. Drei Enden.**
+
+---
+
+**I. Vael.**
+
+Botanischer Garten. Ein Kind berührt einen Farn. Der Farn bewegt sich nicht. Normaler Farn. Normaler Stein. Normale Welt.
+
+"Mama, der Farn macht nichts."
+
+"Farne machen nichts, Schatz."
+
+Das Kind zuckt die Achseln. Rennt weiter.
+
+Am Steinkreis: ein Schild. "Historische Stätte. Schwellenforschungsinstitut, gegr. auf Initiative von M. van Dahl. Anomalien dokumentiert 1820-2251. Status: inaktiv." Kein Sensor mehr. Keine Messung. Keine Anomalie.
+
+Maren sitzt auf einer Bank im Garten. Alt. Weiß. Allein. Studentinnen gehen vorbei und nicken respektvoll. "Professorin van Dahl." Maren nickt zurück. Sieht die Grauwe. Das Salz. Die Farne die sich nicht drehen.
+
+Unter dem Garten: Stille. Zum ersten Mal seit Jahrhunderten. Die Riss-Quelle ist tot. Der Purpurstein: kalter Stein. Kein Pochen. Keine Magie. Nichts.
+
+---
+
+**II. Die Stadt.**
+
+Keine Gilden-Stadt mehr. Keine Thar-Festung. Keine Bund-Garnison. Die Stadt. Talven unterrichtet. Nicht Magie — Warnung.
+
+Er sitzt vor jungen Lehrlingen. Blind. Hände zitternd. Dreiundzwanzig. Sieht aus wie dreiunddreißig. Wird nie wieder jünger aussehen.
+
+"Ich habe einem Wald das Leben gestohlen und es für gerecht gehalten," sagt er. "Die Resonanz, die ich verteilt habe, hat die Welt mehr gekostet als der Krieg."
+
+Die Lehrlinge hören zu. Einer fragt: "Würden Sie es wieder tun?"
+
+Talven, lange Stille: "Nein. Aber ich verstehe warum ich es getan habe." Pause. "Und das ist schlimmer."
+
+Er lebt in Elkes Garten. Hilft Alphina. Gießt die Pflanzen — kann sie nicht sehen, aber fühlen. Die Thalassien-Farne: weniger Wasser. Die Moragh-Ranken: mehr Sonne. Er hat gelernt.
+
+Im toten Hain: kein Hain mehr. Kein toter Staub mehr. Gras. Junge Pflanzen. Von allein gewachsen. Ohne Talven. Ohne Alphina. Moragh heilt sich selbst.
+
+---
+
+**III. Moragh.**
+
+Elkes Garten. Abend. Die Akkretionsscheibe gibt ein warmes Licht — nicht golden wie ein Sonnenuntergang, eher kupfern, weicher.
+
+Alphina bei Varen. Auf der Bank die Elke geformt hat. Dornen an ihrer Hand — sie hat einen neuen Strauch gepflanzt, neben Elkes Regenschale. Die Dornen sind kleiner als die in der Schlacht. Filigraner. Garten-Dornen. Nicht Waffen-Dornen.
+
+Varen neben ihr. Ein Buch in der Hand. 1423er Thalassisch. Er liest vor — leise, in der Sprache die er von Elke gelernt hat, die Alphina jetzt versteht. Jedes Wort.
+
+Sein Blick. Über das Buch hinweg. Purpurne Augen. Graue Schläfen. Ein Blick der nicht fragt. Der nichts will. Der einfach sieht.
+
+Alphina sieht zurück. Ihre Hände: Erde unter den Nägeln. Dornen an den Fingern. Kein Preis.
+
+Irgendwo auf dem Plateau, hinter dem Meer das niemand überqueren kann: die reparierten Quellen pochen. Langsam. Regelmäßig. Wie ein Herz das wieder schlägt.
+
+Die Welten sind zwei. Der Riss ist geschlossen. Die Naht hält.
+
+---
+
+## Tschechow-Tabelle — Finale Buch 3
 
 | Detail aus Buch 1/2/3 | Feuert im Finale |
 |------------------------|------------------|
-| Alphinas Farne in Kap 1, Buch 1 | Kap 75/I16 — Jeder Farn stirbt. Im botanischen Garten, 2250: die Farne fallen um |
-| Sorels Glasplatte (Buch 1) | I15 — Vibriert. Resonanz bewahrt in Glas. Vierhundert Jahre |
-| 4:33 (Buch 1, Vespers Uhr) | Kap 78 — Verschwindet. Null Abweichung. Die Quellen sind geheilt |
-| "Bei Runa ist die Welt still" (Buch 2) | I16 — Alphinas letzte Gedanken. Die Stille war ehrlicher |
-| Marens Salz an der Grauwe (Buch 2) | Kap 80 — Das Wasser schmeckt nach Salz und nach etwas Neuem |
-| Runas Messing-Type (Buch 1) | Kap 80 — Die Hybrid-Presse. Alphinas Worte in einer Kiste unter der Presse |
-| Elkes weicher Stein (Buch 2) | Kap 80 — Der Stein spricht wieder. Leise. Talven fühlt es |
-| Talvens Hunger (Buch 2, Akt II) | Kap 80 — "Ich verstehe warum ich es getan habe. Und das ist schlimmer" |
-| Thar-Bestie (Nyr) | Kap 80 — Im Museum. Keine Piloten nötig. Nyr lacht |
-| Das Pochen unter Vael (Buch 1) | Epilog — Immer noch da. Die Schwelle atmet |
-| Ivens Generator-Berührung (Buch 3 Akt I) | Kap 75 — Iven speist die Naht-Maschine. Quellen-Regeneration. Nasenbluten. Moragh-geboren. Er zahlt |
-| "Liebe die nur nimmt ist keine Liebe" | Kap 80 — Elkes Brief. Unter Runas Presse. Ungedruckt. Noch |
+| Alphinas Farne in Kap 1, Buch 1 | Epilog I — Die Farne bewegen sich NICHT. Kalter Stein. Keine Magie |
+| Sorels Glasplatte (Buch 1) | Kap 76 — In Thalassien stehen die Farne still. Die Platte vibriert nicht mehr |
+| 4:33 (Buch 1, Vespers Uhr) | Kap 76 — Die Riss-Quelle ist tot. Die Anomalie verschwindet |
+| "Bei Runa ist die Welt still" (Buch 2) | Variiert — Runa offen, die Stille bleibt |
+| Marens Salz an der Grauwe (Buch 2) | Epilog I/I15 — Das Meer riecht nur nach Salz |
+| Elkes Garten (Buch 3) | Epilog III — Alphina + Varen in Elkes Garten. Dornen |
+| Talvens Hunger (Buch 2, Akt II) | Epilog II — "Und das ist schlimmer" |
+| Thar-Bestie Kessler (Nyr) | Kap 78 — Beschädigt aber lebendig. Nyrs Bestie |
+| Das Pochen unter Vael (Buch 1) | Epilog I — Stille. Zum ersten Mal seit Jahrhunderten |
+| Ivens Generator-Berührung | Kap 71/75 — Iven stört das Imperium. Bezahlt mit Blut |
+| Dornen statt Farne (Buch 2/3) | Epilog III — Garten-Dornen. Filigraner. Nicht Waffen |
+| Varens Wort "geh" (Buch 1, 2, 3) | Epilog III — Alphina versteht jedes Wort |
+| "Der Unterschied bin ich" | Kap 76 — Dieselbe Handlung. Anderer Mensch |
+| Quellen-Symmetrie: Varen/Alphina B2/Alphina B3 | Kap 76 — Unfall/Schuld/Frieden |
+| Grashalm im toten Hain | Epilog II — Der Hain wächst nach. Von allein |
+| Runas Presse vs. Schmiede | Offen — Runa entscheidet. Die Leserin entscheidet |
+| "Es gibt genug" | Epilog III — Die Quellen pochen. Moragh erholt sich |
+| Maren am Ufer, allein | Epilog I — Immer noch allein. Immer noch am Ufer |
