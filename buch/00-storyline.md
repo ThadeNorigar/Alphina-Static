@@ -4,15 +4,31 @@
 
 Zwei Welten. Ein Tor.
 
-**Thalassien** — ohne Magie. Frühes 19. Jahrhundert (Buch 1). Durch Zeitdilatation (1 Moragh-Jahr = 400 Thalassien-Jahre) entwickelt sich Thalassien rasant weiter: ~1910 in Buch 2, ~2200+ in Buch 3.
+**Thalassien** — ohne Magie. Frühes 19. Jahrhundert (Buch 1). Durch Zeitdilatation (1 Moragh-Jahr = 400 Thalassien-Jahre) entwickelt sich Thalassien rasant weiter: ~1910 in Buch 2, ~2100+ in Buch 3.
 
 **Moragh** — mit Magie. Eigene Zivilisation, eigene Physik (0.7g, Akkretionsscheibe statt Sonne, zwei Monde). Magie kostet den Körper wie Sport — Müdigkeit, Hunger, Muskelkater. Bei Übergebrauch: Nasenbluten, Erschöpfung. Chronisch: Altern, Tod.
 
-**Reservoire** = natürliche Energiequellen in der Erde. Wie Geothermie. Einfach da. Menschen erholen sich schneller in ihrer Nähe, Magie ist stärker. Städte siedeln um Reservoire herum wie Städte an Flüssen. Reservoire können durch Überladung zerstört werden — unwiederbringlich.
+**Reservoire** = natürliche Energiequellen in der Erde. Wie Geothermie. Einfach da. Menschen erholen sich schneller in ihrer Nähe, Magie ist stärker. Städte siedeln um Reservoire herum wie Städte an Flüssen. Reservoire können durch Überladung zerstört werden — unwiederbringlich. Städte deren Quelle stirbt verdorren: keine Magie, keine Heilung, kein Alltag.
 
-**Kernungerechtigkeit:** Thalassier (Nachkommen von Moragh-Flüchtlingen, 80.000 Jahre Evolution) haben vestigiale Resonanz. In Moragh wird diese zur Naturgewalt — und sie kostet NICHTS. Kein Preis. Kein Nasenbluten. Kein Hunger. Nichts. Moragh-Geborene bezahlen mit dem Körper. Das ist nicht fair. Es muss nicht fair sein.
+**Kernungerechtigkeit:** Thalassier (Nachkommen von Moragh-Flüchtlingen, 80.000 Jahre Evolution) haben vestigiale Resonanz. In Moragh wird diese zur Naturgewalt — und sie kostet NICHTS. Kein Preis. Moragh-Geborene bezahlen mit dem Körper. Das ist nicht fair. Es muss nicht fair sein.
 
-**Varen** hat vor dem Krieg drei Reservoir-Quellen durch ein Überladungs-Experiment zerstört. Die Städte auf diesen Quellen verdorrten. Der Kampf um die verbleibenden Quellen hat den Krieg ausgelöst. Niemand weiß dass Varen schuld ist. Er braucht thalassische Resonanz als externen Anstoß, um die toten Quellen zu regenerieren. Deswegen hat er das Tor geöffnet und die Vier nach Vael gelockt.
+---
+
+## Der Krieg — und wer ihn wirklich führt
+
+**Varen** hat vor dem Krieg drei Reservoir-Quellen durch ein Überladungs-Experiment zerstört. Die Städte auf diesen Quellen verdorrten. Der Kampf um die verbleibenden Quellen hat den Krieg ausgelöst. Niemand weiß dass Varen schuld ist.
+
+**Der Bund von Orath** (die Gilden-Städte) hat Varens Forschung gestohlen oder rekonstruiert. Sie verstehen das Prinzip der Quellen-Überladung. Und sie NUTZEN es — als Waffe. Nicht offiziell, nicht alle Städte im Bund. Aber die einflussreichsten Kriegstreiber planen die systematische Zerstörung der Quellen ihrer Feinde. Wer die Quellen des Gegners zerstört, gewinnt den Krieg. Permanent.
+
+**Der Bund sieht gut aus.** Demokratie, Wahlrecht, Gilden, Tradition. Die "zivilisierte" Seite. Alphina kommt dort an und denkt: hier sind die Guten. Die Fassade bröckelt langsam. Nicht alle im Bund wissen es. Aber hinter der freundlichen Ältesten: Leute die Alphinas Resonanz nutzen wollen um feindliche Quellen zu zerstören.
+
+**Varens wahres Motiv:** Er hat das Tor geöffnet und die Vier nach Vael gelockt weil thalassische Resonanz die EINZIGE Energie ist die von außerhalb des Quellensystems kommt. Nur sie kann:
+- Zerstörte Quellen wieder anstarten (wie ein Herzschrittmacher — azyklische Resonanz startet den unterbrochenen Magie-Zyklus neu)
+- Quellen gegen Überladungs-Angriffe stabilisieren
+
+Varen weiß: Wenn er die Thalassier nicht holt, wird der Bund Quelle für Quelle zerstören. Der Krieg endet nicht mit einem Sieger — er endet mit einer toten Welt. Aber er kann das nicht erklären ohne zuzugeben, dass ER die Quellen-Zerstörung entdeckt hat. Dass SEINE Forschung jetzt als Waffe benutzt wird. Also handelt er allein, wird zum Ausgestoßenen, und seine Motive bleiben dunkel.
+
+**Warum er lange als Antagonist gesehen wird:** Er hat Sorel sterben lassen. Er hat die Vier gelockt. Er spricht düsteres altes Thalassisch. Er kettet Alphina an. Für die Leser und für die Figuren ist er DAS BÖSE — bis Alphina in der Gefangenschaft die Wahrheit erfährt. Erst dann dreht sich die Perspektive.
 
 ---
 
@@ -29,101 +45,84 @@ Zwei Welten. Ein Tor.
 ## Figuren
 
 ### Alphina — Protagonistin
-Botanikerin aus Velde. Kontrollfreak. Dominant — nicht performativ, sondern durch die Art wie sie den Raum betritt. Drei Beziehungen beendet, alle mit: "Du lässt mich nicht rein." Pflanzen reagieren auf sie. Resonanz: Pflanzen.
+Botanikerin aus Velde. Kontrollfreak. Dominant — nicht performativ, sondern durch die Art wie sie den Raum betritt. Drei Beziehungen beendet, alle mit: "Du lässt mich nicht rein." Pflanzen reagieren auf sie. Resonanz: Pflanzen. Wird in Buch 2 zur Täterin — zerstört absichtlich eine Reservoir-Quelle im Kampf für den Bund.
 
 ### Sorel — Der Erste
-Fotograf aus Nachtholm. Kellerwohnung, Dunkelkammer. Mit 19 sein eigenes Gesicht auf einer alten Glasplatte gefunden. Dreizehn Jahre Suche. Der Einzige bei dem Alphinas Kontrolle nicht greift — er steigt nicht in ihr Spiel ein. Er wartet. Und diese Souveränität ist das Einzige, gegen das sie nichts ausrichten kann. Stirbt in Buch 1. Resonanz: Bilder/Licht.
+Fotograf aus Nachtholm. Kellerwohnung, Dunkelkammer. Mit 19 sein eigenes Gesicht auf einer alten Glasplatte gefunden. Dreizehn Jahre Suche. Der Einzige bei dem Alphinas Kontrolle nicht greift. Er wartet. Stirbt in Buch 1. Resonanz: Bilder/Licht.
 
 ### Vesper — Der Analytiker
-Uhrmacher aus Karst. Ehemaliges Schach-Wunderkind. Spricht in kurzen Sätzen. Denkt in Zügen. Bleibt in Moragh. Geht mit Nyr zu den Thar. Resonanz: Muster/Zeit.
+Uhrmacher aus Karst. Ehemaliges Schach-Wunderkind. Spricht in kurzen Sätzen. Denkt in Zügen. Will sich nicht instrumentalisieren lassen. Wählt die Thar weil Nyr ihn überzeugt — nicht manipuliert. Sieht ihre Fehler, akzeptiert sie. "Jedes System hat Fehler. Die Thar benennen ihre." Resonanz: Muster/Zeit.
 
 ### Maren — Die Brücke
-Meeresbiologin. Keine feste Adresse. Alles passt in einen Seesack. Fließt. Bleibt nie. Kehrt nach 3 Moragh-Monaten durch den Wasserweg nach Thalassien zurück (~1910). Gründet eine Forschungsgesellschaft. Allein. Resonanz: Wasser.
+Meeresbiologin. Keine feste Adresse. Fließt. Bleibt nie. Kehrt nach 3 Moragh-Monaten durch den Wasserweg nach Thalassien zurück (~1910). Gründet eine Forschungsgesellschaft. Allein. Resonanz: Wasser.
 
 ### Runa Kvist — Die Warme
-Druckerin in Vael. Heißes Metall, Bleilettern, Schmelztiegel. Direkt, lacht zu laut. Hände immer warm. Hilft Alphina ab Ankunft in Vael. Freundschaft-Plus mit Alphina — sehr hitzig, keine Beziehung. Bleibt bei der Gruppe. Resonanz: Feuer/Hitze (schwach, unerkannt in Thalassien).
+Druckerin in Vael. Direkt, lacht zu laut. Hände immer warm. Freundschaft-Plus mit Alphina — sehr hitzig, keine Beziehung. Bleibt beim Bund. Erlebt mit wie Alphina auf dem Schlachtfeld von Varen gefangen wird. Kämpft um sie zu befreien, tötet Dutzende. Plant Alphinas Befreiung — weiß nicht dass Alphina die Seite wechselt. Resonanz: Feuer/Hitze.
 
 ### Varen — Das Dunkle
-Moragh-Forscher. Aus allen Fraktionen ausgestoßen. Groß, muskulös, graue Schläfen, purpurne Augen. Spricht 1423er Thalassisch (von Elke gelernt) — "Fuhre" statt "Kutsche", ausgestorbene Höflichkeitsformen. Obsessiv, nie entschuldigend, nie nett. Besitzergreifend. Hat 3 Reservoir-Quellen zerstört und den Krieg ausgelöst. Will Wiedergutmachung — nennt es nie so. Sagt: "Es war nötig." POV ab Interludium 3 in Buch 1, durchgehend in Buch 2-3.
+Moragh-Forscher. Aus allen Fraktionen ausgestoßen. Groß, muskulös, graue Schläfen, purpurne Augen. Spricht 1423er Thalassisch. Obsessiv, nie entschuldigend, nie nett. Hat 3 Reservoir-Quellen zerstört und den Krieg ausgelöst. Sieht den Bund seine Forschung als Waffe nutzen. Sein wahres Motiv: die Thalassier SCHÜTZEN die Quellen, sie reparieren sie nicht nur. Er braucht sie um den Bund aufzuhalten. Das entpuppt sich erst spät. POV ab Interludium 3 in Buch 1, durchgehend B2-B3.
 
 ### Elke van der Holt — Die Alte
-Bildhauerin. Kam 1423 (Thalassien-Zeit) durch das Portal nach Moragh. Für sie: Wochen. Für Thalassien: 400 Jahre. Spricht 1423er Thalassisch wie Varen. Resonanz: Erde/Stein. Stirbt in Buch 3 (Alter, nicht Magie-Preis).
+Bildhauerin. Kam 1423 durch das Portal. Spricht 1423er Thalassisch wie Varen. Resonanz: Erde/Stein. Stirbt in Buch 3 (Alter).
 
-### Vesper + Nyr
-Nyr: Thar-Pilotin. Dreißig. Druck-Resonanz. Pilotiert Magitech-Bestie "Kessler" (40-Tonnen-Ramm). Presst Vesper an die Wand mit Luft-Druck. Blaue Flecken von Luft, nicht von Fingern. Vesper geht mit ihr zu den Thar.
+### Nyr — Die Pilotin
+Thar-Pilotin. Dreißig. Druck-Resonanz. Pilotiert Magitech-Bestie "Kessler" (40-Tonnen-Ramm). Überzeugt Vesper, dass die Thar das bessere System sind. Verlässt die Thar in Buch 3 als sie die Resonanz-Käfig-Pläne entdeckt. Vesper folgt ihr.
 
 ### Talven — Der Verräter
-Moragh-geboren. Dreiundzwanzig. Gilden-Lehrling, mittleres Reservoir. Charming, hilfsbereit, lacht zu groß. Sieht Alphinas kostenlose Macht und will sie. Lernt von Varen Resonanz zu ERNTEN — aus dem was die Thalassier hinterlassen. Fremde Resonanz = Abstoßungsreaktion (milchige Augen, Haarverlust, Zittern). Verteilt geerntete Resonanz an Moragh-Bewohner. Wird zum Helden. Körper zerfällt.
+Moragh-geboren. Dreiundzwanzig. Gilden-Lehrling, mittleres Reservoir. Charming, hilfsbereit. Lernt von Varen Resonanz zu ERNTEN. Fremde Resonanz = Abstoßungsreaktion (milchige Augen, Haarverlust, Zittern). Verteilt geerntete Resonanz. Wird zum Helden. Körper zerfällt.
 
 ---
 
 ## BUCH 1 — DER RISS
 
 ### Setting
-Vael, Hafenstadt an der Grauküste. Frühes 19. Jahrhundert. Gaslampen, Kutschen, Purpurstein, Dampfschiffe. Unter der Stadt: ein Tor zwischen den Welten.
+Vael, Hafenstadt an der Grauküste. ~1820. Gaslampen, Kutschen, Purpurstein, Dampfschiffe.
 
 ### Plot
 
-**Varens Falle:** Varen schickt Schemen (beschworene Diener) durch das lecke Tor nach Vael. Schattenhafte Wesen mit leuchtenden Augen im Botanischen Garten. Heißes Wasser aus Leitungen. Kaminfeuer das ohne Brennstoff brennt. Ein Boot das sich nachts selbst weiterbaut. Eine Fußnote in einer Fachzeitschrift die Alphina nach Vael lockt. Eine Glasplatte mit Sorels Gesicht, platziert in einer Auktion. Ein reisender Uhrmacher (= Moragh-Einwanderer) der Vesper von der Standuhr erzählt. Alles orchestriert. Alles eine Falle. Varen braucht vier Resonanzen um das Tor von Thalassien-Seite öffnen zu lassen — er KANN es nicht von Moragh aus.
+**Varens Falle:** Varen schickt Schemen durch das lecke Tor nach Vael. Schattenhafte Wesen mit leuchtenden Augen. Heißes Wasser aus Leitungen. Kaminfeuer das ohne Brennstoff brennt. Ein Boot das sich nachts selbst baut. Eine Fußnote die Alphina lockt. Eine Glasplatte mit Sorels Gesicht. Ein reisender Uhrmacher (= Moragh-Einwanderer) der Vesper lockt. Alles orchestriert. Alles eine Falle.
 
 **Akt I — Anker (Frühling)**
-Die Vier kommen einzeln nach Vael. Richten sich ein. Kennen sich nicht. Die Schemen-Phänomene eskalieren: Schatten-Tiere mit leuchtenden Augen verfolgen Alphina persönlich. Wasser fließt rückwärts. Pflanzen wachsen wo sie nicht sollten.
-
-Runa hilft Alphina ab der Ankunft — Papier, Orientierung, Kontakt. Druckt Flugblätter über die seltsamen Phänomene. Hintergrund-Freundin.
-
-Der reisende Uhrmacher spricht mit seltsam altem Akzent, lässt Brotkrumen fallen über die Standuhr in Vael. Wird nicht aufgelöst.
+Die Vier kommen einzeln nach Vael. Richten sich ein. Schemen verfolgen Alphina persönlich ab Tag 1. Runa hilft Alphina ab Ankunft — Hintergrund-Freundin. Der reisende Uhrmacher lässt Brotkrumen fallen.
 
 **Akt II — Zusammenfinden (Sommer)**
-Die Vier begegnen sich erst im Sommer. Gemeinsame Orte, geteilte Wahrnehmungen.
+Die Vier begegnen sich.
 
-- **Alphina + Sorel:** Vom Blick im Garten → Steg → Dunkelkammer. Er hält ihre Handgelenke. Wartet. Sie gibt nach — zum ersten Mal. Kontrollverlust durch VERTRAUEN. Farne wachsen durch Kellerwände, durch Putz, durch Dielen. Magie als Erotik.
-- **Vesper + Maren:** Uhrengeschäft. Physische Chemie, sofort. Von Schultern → Armen → erste Nacht (roh, wortlos). Dom/Sub kristallisiert sich: er hält Handgelenke, wartet. "Bleibst du?" Sie bleibt. Uhren laufen im Takt ihres Atems.
-- **Alphina + Runa:** Freundschaft vertieft sich. Alphina bemerkt Runas warme Hände. Runa druckt, fragt, beobachtet.
-- **Alphina registriert Vesper** — eine Nacht, Hand auf Hand, Strom. Sie zieht zurück. Bei Vesper KANN sie. Bei Sorel kann sie nicht.
+- **Alphina + Sorel:** Dunkelkammer-Sex. Er hält ihre Handgelenke, wartet. Kontrollverlust durch VERTRAUEN. Farne wachsen durch Kellerwände.
+- **Vesper + Maren:** Physische Chemie → Dom/Sub. "Bleibst du?" Sie bleibt. Uhren im Takt ihres Atems.
+- **Alphina + Runa:** Freundschaft vertieft sich. Warme Hände.
 
-Das Manuskript: Jara findet es im Archiv. 400 Jahre alt, teilweise gefälscht (von Varen überschrieben). Ritual-Anleitung mit Daemon-Fingerabdrücken. Ein Moragh-Sprachbuch, ebenfalls von Schemen platziert.
+Das Manuskript im Archiv. Ritual-Anleitung. Moragh-Sprachbuch. Von Schemen platziert.
 
 **Akt III — Eskalation (Herbst)**
-Schemen werden aggressiv. Ein gebundenes Wesen tötet auf dem Marktplatz. Die Grauwe steht. Nebel wochenlang.
-
-- **Alphina + Sorel:** Bruch (sie durchsucht seine Sachen) → Versöhnung im Steinkreis (schmerzhafter als der Streit)
-- **Vesper + Maren:** BDSM vertieft sich. Uhren stehen still, laufen im Takt ihres Atems.
-- **Alphina + Runa:** Freundschaft-Plus beginnt. Hitzig, körperlich, keine Beziehung. Alphina registriert: bei Runa ist die Welt still. Keine Farne. Nur Wärme.
-- Vesper und Maren erkennen: 4:33 und Gezeiten = dasselbe Muster.
-- Das Ritual braucht vier Resonanzen. Einweg. Wer durchgeht, kommt nicht zurück.
+Schemen eskalieren. Alphina+Sorel: Bruch → Versöhnung. Vesper+Maren: BDSM vertieft sich. Alphina+Runa: FWB beginnt (hitzig, keine Beziehung). 4:33 und Gezeiten = dasselbe Muster. Ritual braucht vier Resonanzen. Einweg.
 
 **Interludium 3 — ERSTER VAREN-POV**
-Varen in Moragh. Am Portal-Gegenstück. Er spürt die vier Resonanzen auf der anderen Seite — näher, stärker, fast da. Seine Schemen berichten. Er wartet. Bereitet sich vor. Sein Quartier: Karten, Ley-Linien-Diagramme, die 3 toten Quellen rot markiert. Seine Hände — kräftig, gepflegt. Seine Augen — purpur, wach, besessen. "Sie kommen." Kein Triumph. Notwendigkeit.
+Varen in Moragh. Spürt die Resonanzen näherkommen. Sein Quartier: Karten, die 3 toten Quellen rot markiert. "Sie kommen." Kein Triumph. Notwendigkeit. (Was die Leserin noch nicht weiß: er sieht auf einer zweiten Karte die Truppenbewegungen des Bundes — sie zielen auf weitere Quellen.)
 
 **Akt IV — Das Tor**
-Ritual im Steinkreis. Vier Resonanzen. Portal öffnet sich (4:33). Runa schlüpft in letzter Sekunde durch. Fünf in Moragh.
+Portal öffnet sich (4:33). Runa schlüpft durch. Fünf in Moragh.
 
-**VAREN.** Tritt aus dem Schatten. 1423er Thalassisch. Alphina missversteht — glaubt erst er kommt aus Elkes Zeit/Region. Er ist besitzergreifend, forschend. Legt die Hand an Alphinas Kinn. Dreht ihren Kopf. Schaut in ihre Augen. Riecht an ihrem Haar. Nicht sexuell gemeint (er will STUDIEREN), aber es FÜHLT sich so an.
+**VAREN.** 1423er Thalassisch. Hand an Alphinas Kinn. Besitzergreifend, forschend.
 
-**SOREL STIRBT.** Stellt sich zwischen Varen und Alphina. "Nimm die Hand weg." Greift an. Varens Abwehr ist übermäßig — Bindungsmagie trifft Sorel, reißt seine Resonanz heraus. Licht explodiert, hundert Bilder gleichzeitig. Sorel liegt am Boden, sterbend.
+**SOREL STIRBT.** Stellt sich dazwischen. Greift Varen an. Varens Abwehr übermäßig. Sorel sterbend am Boden. Varen KÖNNTE ihn retten — tut es NICHT. Dann: deckt Sorels Augen zu. Flüstert ein Wort in Moragh-Sprache. Fast zärtlich. DAS verfolgt Alphina.
 
-Varen KÖNNTE ihn retten. Hat die Fähigkeit. Tut es NICHT. "Er stand im Weg."
+Alphinas Explosion. Vegetation, Dornen. Verletzt die eigenen Leute. Varen zieht sich zurück.
 
-Dann — ein Detail. Varen beugt sich zu Sorel. Deckt seine Augen zu. Flüstert ein Wort in Moragh-Sprache. Fast zärtlich. Unerklärlich. DAS verfolgt Alphina.
-
-**Alphinas Explosion:** Vegetation, Dornen, Dschungel. Verletzt die eigenen Leute (Maren, Vesper, Runa — Schnitte, Prellungen, Dornen). Varen zieht sich taktisch zurück.
-
-**Elke findet die Gruppe.** 400 Jahre altes Thalassisch. Sie wusste nicht dass jemand kommen würde. Überrascht, erschüttert.
+Elke findet die Gruppe. Überrascht, erschüttert.
 
 **Ende Buch 1:** Fünf Thalassier (vier lebend) in Moragh. Sorel tot. Varen irgendwo da draußen. Alphina: Trauer + Hass + Rachewunsch.
 
-**Epilog:** Vael ohne die Fünf. Halvard schreibt seinen Bericht. Finn schweigt. Das Boot wartet, drei Viertel fertig.
-
-### Beziehungskarte Ende Buch 1
+**Epilog:** Vael ohne die Fünf. Halvards Bericht. Boot wartet.
 
 ```
-Alphina ──── ✝️ Sorel (tot)
-   │
-   ├── Runa (FWB, hitzig, da)
-   │
-   └── ═══ HASS ═══ VAREN (Feind. Hat Sorel sterben lassen.)
+Beziehungskarte Ende Buch 1:
 
-Vesper ═══ Maren (Dom/Sub, zusammen)
+Alphina ──── ✝️ Sorel (tot)
+   ├── Runa (FWB, da)
+   └── ═══ HASS ═══ VAREN (Feind)
+
+Vesper ═══ Maren
 
 Alle bei Elke in Moragh.
 ```
@@ -133,108 +132,122 @@ Alle bei Elke in Moragh.
 ## BUCH 2 — DAS AUGE
 
 ### Setting
-Moragh. Zwei Monde, Akkretionsscheibe-Sonne, sattere Farben, dickere Luft. Gilden-Städte, Thar-Werke, Krieg zwischen Fraktionen.
+Moragh. Krieg zwischen Bund von Orath (Gilden), Konglomerat der Thar, Velmar.
 
 ### Alphinas Bogen
-HASS → Rache-Obsession → Schlachtfeld-Gefangenschaft → Feindschaft → Erklärungen → sie fängt an zu glauben → dreht sich nicht weg → lässt sich auf ihn ein → Verständnis ohne Vergebung.
+HASS → Bund als "gute Seite" → Rache-Waffe für den Bund → ZERSTÖRT EINE QUELLE → Varen fängt sie → Ketten → Wahrheit über den Bund → Spiegelung (sie = Täterin wie er) → lässt sich auf ihn ein → wechselt die Seite.
 
 ### Akt I — Fremde Welt
 
-Die Fünf bei Elke. Alphina: Schlaf-Haine (unbewusste Trauer wächst im Schlaf — Farne, Moos, ganze Haine über Nacht). Will RACHE an Varen. Er ist das Böse. Sie plant, ihn zu finden und zu töten.
+Die Fünf beim Bund (Gilden-Stadt). Alphina: Schlaf-Haine, Trauer als Vegetation. Will RACHE an Varen. Der Bund empfängt sie freundlich — Schutz, Status, Hoffnung. "Resonanz-Begabte. Aus Thalassien." Kostenlose Magie = Waffe im Krieg.
 
-Vesper kartografiert Moragh. Sieht Muster überall — 4:33 in den Mondzyklen, Fibonacci in den Flüssen. Maren spürt das geschlossene Portal durch das Wasser. Runa entdeckt ihre Feuer-Resonanz (Zinn schmilzt in ihrer Hand, Metall wird formbar).
+Alphina WILL kämpfen. Nicht nur für den Bund — gegen Varen. Der Bund gibt ihr was sie will: einen Feind, ein Ziel, eine Richtung für ihren Hass.
 
-Elke führt die Fünf in eine Gilden-Stadt. Größere Menschen, dunkle Augen, Türme die gewachsen sind. Die Gilden-Älteste empfängt sie — sofort interessiert. "Resonanz-Begabte. Aus Thalassien." Nicht Gier — Hoffnung. In einer Welt im Krieg ist kostenlose Magie eine Waffe.
+**Talven eingeführt:** Hilfsbereit, charming. HUNGER wenn Alphina wächst.
 
-**Talven eingeführt:** Lehrling, übersetzt, hilft, kocht Frühstück. Alle mögen ihn. Aber wenn Alphina einen Hain im Schlaf wachsen lässt — HUNGER im Gesicht. Nicht Ehrfurcht. Neid.
-
-**Varen-POV:** Er beobachtet aus der Ferne. Seine Schemen berichten. Er wartet. Forscht. Die 3 toten Quellen auf seinen Karten. Er braucht Alphinas Resonanz — nicht sie selbst, ihre KRAFT. Aber er kann sich und ihr nicht sagen wo die Grenze liegt.
+**Varen-POV:** Beobachtet. Seine Schemen berichten: der Bund trainiert Alphinas Resonanz als Waffe. Er sieht was kommen wird. Kann es nicht verhindern ohne sich zu offenbaren.
 
 ### Akt II — Fraktionen und Feuer
 
-**Politische Landschaft entfaltet sich:**
-- Gilden (Orath): Tradition, Beschwörung, wollen die Resonanz-Begabten als Waffen
-- Thar: Magitech-Industrie, Bestien-Piloten, wollen die Resonanz-Begabten an Maschinen
-- Velmar: Gebundene Schemen, Kastensystem, Rufer-Priester
-- Varen: Ausgestoßen aus allen, forscht mit Handvoll Deserteuren
+**Der Bund nutzt Alphina.** Erst subtil: Verteidigung, Schutzwälle aus Pflanzen, Barrikaden. Dann offensiver: Wurzeln die feindliche Stellungen durchbrechen. Alphina spürt die Macht. Es fühlt sich RICHTIG an — endlich etwas tun statt trauern. Der Bund ermutigt sie.
 
-**Alphina + Runa:** Freundschaft-Plus intensiviert sich. Nacht auf dem Dach, zwei Monde. Hitzig, körperlich, kein romantisches Versprechen. Runas Hände auf ihrer Haut — warm, immer warm. Kein Wald bricht aus. Keine Farne. Stille. "Bei Sorel hat die Welt geblüht. Bei Runa ist sie still." Runa hat eigene Obsessionen — die Druckerei, die Moragh-Schriftzeichen die sie in ihre Lettern gießt, die Maschinen der Thar die sie faszinieren.
+Erste Risse: Alphina bemerkt Dinge, schiebt sie weg. Ein Kommandant der zu genau weiß wo feindliche Quellen liegen. Ein Gespräch das abbricht wenn sie den Raum betritt. Eine Karte die schnell eingerollt wird.
 
-**Vesper trifft Nyr.** Die Thar schicken Nyr als Emissärin. Bestie Kessler, 40 Tonnen. "Du bist der der Muster sieht." Keine Frage. Vesper ist fasziniert — ihre Effizienz, ihre Ordnung, ihre Disziplin. Er geht mit ihr zu den Thar. Nicht Gefangennahme — Wahl.
+**Alphina + Runa:** FWB intensiviert sich. Nacht auf dem Dach, zwei Monde. Hitzig, körperlich, kein Versprechen. "Bei Sorel hat die Welt geblüht. Bei Runa ist sie still." Runa hat eigene Obsessionen — Druckerei, Moragh-Schriftzeichen, die Maschinen. Sie fragt nicht nach Beziehung. Alphina auch nicht.
 
-**Vesper + Nyr:** Sie presst ihn an die Metallwand. Luft wird dünn — Druck-Magie. Er greift nach ihren Handgelenken (Reflex — Maren). Beat. Stille. Er erkennt was er getan hat. Sie presst seine Hände über seinen Kopf. Mit Druck, nicht Händen. Blaue Flecken von Luft. Danach: Druckstellen in der Form von nichts.
+**Vesper trifft Nyr.** Emissärin der Thar, Bestie Kessler. "Du bist der der Muster sieht." Vesper will sich nicht instrumentalisieren lassen:
+- Alphina = Rache-Obsession (will Varen vernichten wegen Sorel)
+- Runa = folgt Alphina
+- Der Bund = will Vespers Muster-Sinn als taktische Waffe
 
-**Maren:** Spürt durch das Wasser einen Weg zwischen den Welten — nicht das Portal, die Ströme selbst. Experimentiert am stillen Punkt des Flusses. Der Wasserweg.
+Vesper sieht das. Nyr überzeugt ihn: die Thar haben Ordnung, Struktur, eine Kommandokette. Er sieht ihre Fehler (Piloten-Verschleiß, Maschinen-Kult) und akzeptiert sie. "Jedes System hat Fehler. Die Thar benennen ihre." Er geht mit Nyr zu den Thar. Wahl, nicht Entführung.
 
-**Talven geht nachts zu Varen.** Lernt Resonanz-Ernte. Haare auf dem Kissen. Milchiger Fleck im Auge.
+**Vesper + Nyr:** Sie presst ihn an die Metallwand. Luft wird dünn. Er greift nach ihren Handgelenken (Reflex — Maren). Beat. Stille. Er erkennt was er getan hat. Sie presst seine Hände über seinen Kopf mit Druck, nicht Händen. Blaue Flecken von Luft.
 
-**Alphinas Hass-Eskalation:** Nicht Plateau — Stufen.
-1. Hass (er ist das Böse)
-2. Rache-Aktion die scheitert (sie sucht ihn, findet nur Spuren)
-3. Zweifel (Elke erzählt von der Zeit vor dem Krieg — Varen war ein Forscher, kein Krieger)
-4. Faszination wider Willen (die Schemen die er schickt sind nicht feindlich — sie BEOBACHTEN)
-5. Sie beginnt Fragen zu stellen statt Antworten zu fordern
+**Maren öffnet den Wasserweg.** 3 Moragh-Monate nach Ankunft. Geht zurück nach Thalassien. ~1910. Fahrzeuge, Radio. Alle tot seit Generationen. Gründet die **Schwellenforschungsgesellschaft.** Allein. Die Brücke.
 
-**Varen-POV:** Sein Warten. Seine Forschung. Die toten Quellen. Er weiß dass Alphina ihn hasst. Es ist ihm nicht egal — aber es ist nicht das Wichtigste. Das Wichtigste ist die Verbindung. Die Quellen. Die Schuld die er nie so nennt.
+**Talven geht nachts zu Varen.** Lernt Resonanz-Ernte. Haare, milchiges Auge.
 
-### Akt III — Gefangenschaft (2/3-Mark)
+**Alphinas Hass-Eskalation:** Stufen.
+1. Hass (Varen = das Böse)
+2. Der Bund gibt ihr Kampf-Aufträge — sie nimmt an
+3. Ihre Resonanz wird stärker, offensiver — Wälder als Waffen
+4. Sie hört auf Fragen zu stellen. Der Hass fühlt sich produktiv an.
+5. Der Bund lenkt sie auf ein neues Ziel: eine feindliche Siedlung
 
-**Schlachtfeld.** Binder greifen eine Gilden-Siedlung an. Gebundene Schemen, Chaos, Feuer. Die Gruppe kämpft — Alphina mit Pflanzen (Ranken, Dornen, Wurzeln), Runa mit Hitze, Maren mit Wasser.
+### Akt III — Das Schlachtfeld (2/3-Mark)
 
-**Varen erscheint.** Nicht als Angreifer — als dritte Partei. Seine Schemen trennen Alphina von der Gruppe. Systematisch, präzise. Runa SIEHT es — sieht wie Alphina abgeschnitten wird, wie die Schemen sich um sie schließen. Kann nichts tun. Schreit.
+**Der Bund greift eine Thar-Siedlung an.** Alphina kämpft an vorderster Front. Ihre Resonanz: Wurzeln die in die Erde treiben, Wälder als Barrikaden. Runa neben ihr, Hände glühend, Metall als Waffen.
 
-**Alphina ist Varens Gefangene.**
+**Der Bund-Kommandant zeigt Alphina das Ziel:** Eine kleinere Reservoir-Quelle außerhalb der Siedlung. "Zerstör sie. Dann können sie sich nicht mehr erholen."
 
-Sein Quartier: Bücher, Karten, Ley-Linien-Diagramme. Die 3 toten Quellen rot markiert. Er spricht 1423er Thalassisch — alt, fremd, intim in seiner Fremdheit. Nicht grausam. Schlimmer: INTERESSIERT. Er studiert sie. Misst ihre Resonanz. Stellt Fragen.
+**Alphina zerstört die Quelle. ABSICHTLICH.** Sie treibt Wurzeln tief in die Erde. Tiefer als je zuvor. Spürt die Quelle — warm, pulsierend, lebendig. Drückt. Überlädt. Das Pochen wird schneller, erratisch, dann — Stille. Die Quelle ist tot.
 
-**Hass.** Alphina: "Du hast ihn sterben lassen." Varen: "Er hat mich angegriffen. Ich habe mich verteidigt." Alphina: "Du KONNTEST ihn retten." Varen, lange Stille: "Ja." Keine Entschuldigung. Nie.
+Die Erde bebt. Bäume über der Quelle verdorren in Sekunden. Ein Schmied in der Siedlung bricht zusammen — sein Reservoir leer, von einer Sekunde auf die nächste. Kinder schreien.
 
-**Erklärungen.** Tage vergehen. Wochen. Er zeigt ihr seine Karten. Die 3 toten Quellen. Erzählt — nicht alles, aber genug. Sein Experiment. Die Überladung. Die Kettenreaktion. Drei Städte die verdorrten. Der Krieg der daraus folgte. "Niemand weiß es. Nur du. Jetzt." Warum er die Vier gelockt hat: thalassische Resonanz als externer Anstoß für die toten Quellen. Ohne sie: die Quellen bleiben tot. Die Städte bleiben Staub.
+Alphina spürt: Macht. Und etwas das sich anfühlt wie die Stille nach Sorels Tod. Sie schiebt es weg.
 
-**Sie fängt an zu glauben.** Nicht sofort. Nicht alles. Aber die Karten stimmen. Die Daten stimmen. Vesper hätte dasselbe gesehen. Und Varens Gesicht wenn er über die Quellen spricht — das ist keine Lüge. Das ist Obsession. Er hat etwas Katastrophales getan und verbrennt daran. Ohne es Schuld zu nennen.
+**Nächstes Ziel: die große Quelle der Siedlung.** Alphina setzt an —
 
-**Betrayal arousal.** Ihr Körper reagiert auf ihn. Nicht weil er sie zwingt — weil er da ist, mächtig, besessen, und sie in einem Raum voller Karten und Schuld eingesperrt hat und ihr die Wahrheit erzählt die sonst niemand kennt. Intimität durch Geständnis. Übelkeit + Hitze gleichzeitig. Das Begehren fühlt sich FALSCH an. Sie begehrt den Mann der Sorel hat sterben lassen.
+**VAREN.** Schemen trennen sie von der Gruppe. Bindungsmagie. Sie fällt. Ketten.
 
-**Sie dreht sich nicht weg.** Nicht weil sie nicht kann — weil sie anfängt zu glauben. Weil die Wahrheit die er ihr zeigt größer ist als ihr Hass. Sie lässt sich auf ihn ein. Nicht Passivität — ein Öffnen. Sie gibt ihr Selbstbild als Sorels Trauernde auf. Das ist der Preis.
+**Runa SIEHT es.** Kämpft, tötet Dutzende Feinde um zu Alphina zu kommen. Wird zurückgeschlagen. Zieht sich mit dem Bund zurück. Plant Alphinas Befreiung.
 
-**Sex mit Varen.** Dunkel. Anders als alles vorher. Bei Sorel: Kontrollverlust durch Vertrauen. Farne wachsen. Bei Runa: Stille, Wärme, keine Magie. Bei Varen: Kontrollverlust weil die Wahrheit die er ihr gezeigt hat ihre Verteidigung demontiert hat. Andere Geschwindigkeit — langsamer, schwerer. Andere Berührung — nicht Hände/Handgelenke wie Sorel. Rücken, Nacken, Wirbelsäule. Nicht halten — führen. Andere Körper-Grammatik. Andere Stille danach. Dornen wachsen statt Farne.
+### Gefangenschaft bei Varen
 
-**Varen-POV:** Er hat sie. Was er gewollt hat. Und es ist nicht genug. Es ist nie genug. Die Quellen sind immer noch tot.
+**Erst Ketten.** Varen nimmt an sie ist Bund-Waffe. Eine Soldatin die Quellen zerstört. Gefährlich.
 
-### Akt IV — Trennung und Aufbruch
+**Alphina in seinem Quartier:** Bücher, Karten, Ley-Linien-Diagramme. Die 3 toten Quellen rot markiert — und eine VIERTE. Neu. Frisch. Rot. Von IHR. Gerade eben.
 
-**Alphina bleibt bei Varen. Vorerst.** Nicht als Gefangene — als jemand der sich entschieden hat zu bleiben. Arbeitet mit ihm an der Quellen-Forschung. Ihre Resonanz als Testfeld. Sie versteht ihn. Vergibt nicht. Aber hasst nicht mehr.
+**Die Wahrheit kommt in Stufen:**
 
-**Parallel:**
+1. **Gesprächsfetzen.** Varens Leute reden über die zerstörte Quelle. "Vierhundert Menschen ohne Magie. Die Kinder. Die Heiler." Alphina hört zu.
 
-**Maren öffnet den Wasserweg.** Drei Sekunden Thalassien — Salz, Teer, nasser Backstein. Dann breiter, stabiler. Maren trifft eine Entscheidung: sie geht ZURÜCK. Durch den Wasserweg. Nach Thalassien. 3 Moragh-Monate sind vergangen — auf der anderen Seite sind es ~90 Jahre. ~1910. Fahrzeuge ohne Pferde. Radio. Eine Welt die sich verändert hat. Maren steht am Ufer der Grauwe und erkennt nichts wieder. Alle die sie kannte: tot seit Generationen. Die Werft: ein Denkmal. Das Boot: in einem Schuppen, drei Viertel fertig, konserviert. Sorels Platten in einer Privatsammlung. Halvards Bericht in einer Universitätsbibliothek — als Kuriosität, nicht als Wissenschaft.
+2. **Die Karten.** Vier tote Quellen. Drei von Varen (alt). Eine von Alphina (frisch).
 
-Maren gründet die **Schwellenforschungsgesellschaft.** Allein. Mit ihrem Wissen, ihrem Wasserweg, ihrem Namen der in keinem Register steht. Sie ist die Brücke. Die einzige Person die zwischen den Welten gehen kann.
+3. **Abgefangene Bund-Kommunikation.** Pläne für weitere Quellen-Zerstörung. Systematisch. Nicht Verteidigung — Auslöschung. Nicht jede Stadt im Bund. Aber die Kriegstreiber wollen den Gegner komplett vernichten. Quellen töten = Städte töten.
 
-**Vesper geht zu den Thar.** Mit Nyr. Nicht als Gefangener — als Analytiker. Er sieht in den Thar was die Gilden nicht haben: Effizienz, Ordnung, eine Kommandokette die funktioniert. Vesper gibt der Thar Daten über die Gilden. Kalkulation. "Ich habe gerechnet."
+4. **Varens Geständnis.** "Ich habe drei Quellen zerstört. Ein Experiment. Ein Unfall. Dann hat der Bund meine Forschung genommen und eine Waffe daraus gemacht. Ich habe das Tor geöffnet weil eure Resonanz das Einzige ist was Quellen reparieren UND schützen kann. Die Einzige Energie die von außerhalb des Systems kommt."
 
-**Runa bleibt in der Gilden-Stadt.** Druckt. Baut ihre Moragh-Presse. Stellt unbequeme Fragen. Wartet auf Alphina. Weiß nicht wo sie ist — nur dass Varen sie genommen hat.
+5. **Die Spiegelung.** Varen: drei Quellen, Unfall. Alphina: eine Quelle, ABSICHTLICH. Wer ist schlimmer?
 
-**Talven** verteilt heimlich geerntete Resonanz. Wird zum lokalen Helden. Milchige Augen hinter dunkler Brille.
+**Der Bund hat Alphina benutzt — aber sie hat JA gesagt.** Nicht durch Zwang. Durch Überzeugung. Durch ihren Hass. Der Bund hat ihren Rachewunsch kanalisiert. Sie war keine Marionette. Sie war eine wütende Frau die endlich etwas zerstören konnte.
 
-**Ende Buch 2:** Alphina bei Varen (nicht als Gefangene — als Partnerin in der Forschung, als Geliebte die nicht verzeiht). Maren in Thalassien (~1910, allein, Forschungsgesellschaft). Vesper bei den Thar mit Nyr. Runa in der Gilden-Stadt. Alle getrennt.
+**Sie fängt an Varen zu glauben.** Nicht weil er charmant ist. Weil sie dieselbe Schuld trägt. Weil seine Karten stimmen. Weil die abgefangenen Nachrichten echt sind. Und weil sie in seinen Augen sieht was sie in ihren eigenen spürt: den Moment nach der Zerstörung, die Stille, das Pochen das aufhört.
 
-### Beziehungskarte Ende Buch 2
+**Sie dreht sich nicht weg.** Lässt sich auf ihn ein. Nicht Passivität — ein Öffnen. Das Selbstbild das sie aufgibt ist nicht "Sorels Trauernde." Es ist "die Gute." Sie IST nicht die Gute. Sie hat eine Quelle getötet. Vierhundert Menschen.
+
+**Sex mit Varen.** Gewachsen aus geteilter Schuld, aus Gesprächen in seiner alten Sprache, aus seinen Händen die ANDERS berühren — Rücken, Nacken, Wirbelsäule, nicht Handgelenke. Nicht halten — führen. Andere Körper-Grammatik. Dornen wachsen statt Farne. Zwei Täter die sich erkennen.
+
+### Akt IV — Neue Fronten
+
+**Alphina schließt sich Varen an.** Nicht als Gefangene. Als Verbündete. Sie versteht sein Motiv: die Quellen reparieren UND den Bund davon abhalten weitere zu zerstören. Sie vergibt ihm Sorel nicht. Aber sie steht auf seiner Seite.
+
+**Runa beim Bund.** Plant Alphinas Befreiung. Weiß NICHT dass Alphina die Seite gewechselt hat. Für Runa ist Varen immer noch der Feind. Tragisch — sie arbeitet mit den Leuten zusammen die Alphina als Waffe benutzt haben.
+
+**Vesper bei den Thar mit Nyr.** Sieht die Fehler, akzeptiert sie. Kämpft an Nyrs Seite. Will Struktur, Ordnung, keine Instrumentalisierung.
+
+**Maren in Thalassien (~1910).** Schwellenforschungsgesellschaft wächst. Sie ist allein. Die Brücke.
+
+**Talven** verteilt geerntete Resonanz. Moragh-Held. Milchige Augen, dunkle Brille.
 
 ```
+Beziehungskarte Ende Buch 2:
+
 MORAGH:                              THALASSIEN (~1910):
 
 Alphina ═══ Varen                    Maren (allein)
-(zusammen, nicht vergeben)           Schwellenforschungsgesellschaft
-                                     Sucht einen Weg das Tor zu öffnen
-Runa (allein, Gilden-Stadt)
-druckt, wartet, wütend
+(zusammen, Schuld-Spiegelung,       Schwellenforschungsgesellschaft
+ Verbündete, nicht vergeben)
+
+Runa (beim Bund, allein)
+plant Befreiung, weiß nicht
+dass Alphina gewechselt hat
 
 Vesper ═══ Nyr (bei den Thar)
-(er rechnet, sie kämpft)
+kämpft, akzeptiert Fehler
 
 Talven (Gilden-Stadt, Held, zerfällt)
-
 Elke (alt, Garten)
 ```
 
@@ -243,150 +256,124 @@ Elke (alt, Garten)
 ## BUCH 3 — DIE NAHT
 
 ### Setting
-Moragh: Monate vergangen seit Buch 2. Der Krieg geht weiter. Alphina bei Varen.
-Thalassien: Je nach Moragh-Zeitpunkt ~1920–2200+. Marens Forschungsgesellschaft wächst über Generationen. Technologie entwickelt sich rasant.
+Moragh: Monate vergangen. Alphina bei Varen. Der Krieg geht weiter — jetzt weiß Alphina auf welcher Seite sie steht.
+Thalassien: ~2020–2100+. Marens Forschungsgesellschaft ist zum Institut gewachsen.
 
-### Der Kernkonflikt: Technologie vs. Magie
+### Der Kernkonflikt: Drei Fronten
 
-Die Zeitdilatation macht Thalassien zur Bedrohung. Maren pendelt durch den Wasserweg — jedes Mal wenn sie zurückkehrt, ist Thalassien weiter. Zuerst: Radio, Automobile (~1920). Dann: Computer, Raketen (~1960). Dann: Internet, Gentechnik (~2000). Dann: KI, Drohnen, Biotech, Fusion (~2100+).
+**Front 1: Quellen reparieren.** Varen und Alphina arbeiten daran die 3 (jetzt 4) toten Quellen zu reparieren. Alphinas Resonanz als Herzschrittmacher — azyklische Energie die den unterbrochenen Magie-Zyklus neu startet.
 
-Für Moragh vergehen Monate. Für Thalassien Jahrhunderte. Marens Forschungsgesellschaft wird zum **Schwellenforschungsinstitut** — eine staatlich finanzierte Organisation. Halvards Bericht ist das Gründungsdokument. "Die Vier von Vael" ist erst Legende, dann Forschungsgegenstand, dann bewiesene Tatsache.
+**Front 2: Den Bund aufhalten.** Der Bund plant weitere Quellen-Zerstörung. Mit dem Wissen aus Varens Forschung und OHNE Alphina als Waffe (sie ist weg) suchen sie nach anderen Methoden. Vielleicht Thalassien-Technik.
 
-**Die Spiegelung:** In Buch 1 erschien Moragh mächtig, bedrohlich — Schemen, Magie, Varen. In Buch 3 ist Thalassien die Bedrohung — Drohnen über Gilden-Städten, KI die Magie-Muster analysiert, Konzerne die Reservoir-Quellen als Energieressourcen sehen. Für Moragh-Bewohner ist Thalassien-Technik GENAUSO UNHEIMLICH wie Magie für Thalassier war.
+**Front 3: Technologie vs. Magie.** Maren bringt Thalassien-Tech nach Moragh. Für Moragh-Bewohner: GENAUSO UNHEIMLICH wie Magie für Thalassier war. Drohnen über Gilden-Städten. KI die Magie quantifiziert. Konzerne die Reservoir-Quellen als Energieressource sehen. Die Spiegelung von Buch 1.
 
-### Wer will was (Menschen, nicht Welten)
+### Wer will was
 
-**In Moragh:**
-- **Gilden:** Wollen das Tor schließen. Thalassien-Technik bedroht ihre Machtstruktur. Drohnen sind Waffen die kein Reservoir brauchen.
-- **Thar:** Gespalten. Manche wollen Thalassien-Technik — Maschinen ohne Reservoir-Kosten, Bestien extern gespeist. Andere sehen: wenn Technik Magie ersetzt, sind Piloten wie Nyr überflüssig.
-- **Varen:** Will die 3 zerstörten Quellen reparieren. Braucht Alphinas Resonanz als externen Anstoß. Was danach mit dem Tor passiert ist ihm egal. Obsession.
-- **Talven:** Will Gleichheit. Verteilt geerntete Resonanz. Held. Körper zerfällt.
+**Varen + Alphina:** Quellen reparieren. Den Bund aufhalten. Zusammen.
 
-**In Thalassien:**
-- **Schwellenforschungsinstitut** (Marens Erbe): Will Kontakt, Forschung, Zugang. Wissenschaftler wollen DURCH.
-- **Konzerne/Regierungen:** Wittern Ressourcen. Reservoir-Quellen = Energiequellen. Ökonomisches Interesse.
-- **Einzelne Menschen:** Wollen rüber. Neugier, Flucht, Abenteuer.
+**Runa (beim Bund):** Will Alphina befreien. Weiß nicht dass Alphina gewechselt hat. Muss die Wahrheit über den Bund selbst entdecken.
 
-**Buch-3-Antagonist = ein Mensch, nicht ein System.** Jemand aus Thalassien der die Ressourcen will. Ein Konzern-Vertreter oder ein Wissenschaftler mit eigener Agenda. Der FACE des Technologie-Kolonialismus.
+**Vesper + Nyr (bei den Thar):** Verlassen die Thar als sie die Resonanz-Käfig-Pläne entdecken. Schließen sich Varen und Alphina an. Vesper bringt Thar-Wissen, Nyr bringt ihre Bestie.
 
-### Akt I — Rückkehr
+**Maren:** Bringt Thalassien-Tech. Aber jemand aus Thalassien (ein Industrieller, ein Wissenschaftler mit Agenda) will die Quellen nicht heilen sondern ANZAPFEN — kontrollierte Ausbeutung unter Thalassien-Kontrolle. Kolonisierung.
 
-Maren kehrt durch den Wasserweg zurück nach Moragh — mit einem Forscherteam. Nicht Generatoren und Container. Drohnen. KI-Systeme. Scanner die Magie quantifizieren. Biotech-Medizin. Sci-Fi-Technik.
+**Talven:** Verteilt Resonanz, wird Held, zerfällt. Konfrontation mit Alphina: "Du wächst einen Hain im Schlaf und es kostet dich NICHTS. Ich bezahle mit AUGEN." Hört auf zu ernten nach Elkes Tod.
 
-Moragh-Bewohner sind ENTSETZT. Die Gilden-Älteste starrt die Drohne an wie Alphina den ersten Schem angestarrt hat. Dieselbe Angst, gespiegelt.
+**Der Bund:** Will weitere Quellen zerstören. Nutzt jetzt Thalassien-Technik statt Alphina. Arbeitet mit dem Thalassien-Industriellen zusammen — taktische Allianz.
 
-Alphina ist bei Varen. Sie arbeitet mit ihm an der Quellen-Reparatur. Ihre Resonanz als Testfeld — Pflanzen auf totem Boden, Wurzeln die in die toten Quellen reichen. Langsam. Erste Ergebnisse.
+### Akt I — Drei Seiten
 
-**Talven** verteilt Resonanz an Hunderte. Marktplatz. Applaus. Held. Beide Augen milchig, dunkle Brille.
+Alphina bei Varen. Arbeitet an Quellen-Reparatur. Ihre Resonanz als Testfeld — Wurzeln in tote Erde, azyklischer Impuls, das Pochen das langsam wiederkehrt.
 
-**Iven:** Moragh-geboren, 17, Elektrizitäts-Resonanz. Berührt Thalassien-Technik und sie REAGIERT. Generator-Leistung verdoppelt. Laptop-Bildschirm flackert. Interface zwischen Magie und Technik.
+Nyr+Vesper verlassen die Thar. Finden Varen+Alphina. Zusammen.
 
-### Akt II — Kulturkampf
+Maren kommt mit Forscherteam aus Thalassien. Drohnen, Scanner, KI. Moragh-Bewohner entsetzt.
 
-Thalassien-Technik in Moragh eskaliert. Drohnen kartieren Reservoir-Quellen. KI analysiert Magie-Muster — quantifiziert, was für Moragh-Bewohner Handwerk und Kunst ist. Konzern-Vertreter reden von "Effizienzoptimierung." Klingt wie Kaels Sprache bei den Thar — industrielle Logik, angewandt auf eine fremde Kultur.
+Talven verteilt Resonanz. Held. Körper zerfällt.
 
-Die Gilden wollen das Tor schließen. Die Thar sind gespalten — Nyr sieht Bestien die extern gespeist werden (kein Piloten-Verschleiß mehr), aber auch ihre Rolle die verschwindet. Vesper rechnet: wenn Thalassien Zugang zu den Quellen bekommt, ist Moragh in einer Generation wirtschaftlich abhängig.
+**Iven:** Moragh-geboren, 17, Elektrizitäts-Resonanz. Berührt Thalassien-Tech und sie REAGIERT.
 
-**Talven-Enthüllung:** Vesper erkennt das Muster — jemand erntet Resonanz. Talven. Konfrontation mit Alphina: "Das schlimmste ist dass du es dir LEISTEN KANNST, wütend zu sein. Du wächst einen Hain im Schlaf und es kostet dich NICHTS. Ich bezahle mit AUGEN für ein Zehntel davon."
+### Akt II — Wahrheiten
 
-Alphina hat keine Antwort. Weil er Recht hat.
+**Runa entdeckt die Wahrheit über den Bund.** Nicht durch Alphina — durch eigene Recherche. Sie druckt, sie fragt, sie findet Dokumente. Die Quellen-Zerstörungspläne. Die Rolle die Alphina gespielt hat. Die Quelle die Alphina getötet hat.
 
-**Runa druckt:** "Wer zahlt für kostenlose Magie?" — Vespers Daten, Talvens Geschichte, die Kosten der Resonanz-Ernte. Auf Moragh-Papier, in drei Sprachen. Information als Waffe.
+Runa muss entscheiden: beim Bund bleiben (der sie belogen hat) oder zu Alphina gehen (die eine Quelle zerstört hat und jetzt beim Feind ist).
 
-### Akt III — Quellen und Verlust
+**Talven-Enthüllung.** Vesper erkennt die Ernte. "Jahrzehnte verloren" — die geerntete Resonanz zerfällt und kostet doppelt. Konfrontation.
 
-**Elke stirbt.** Alt, erschöpft. Nicht durch Reservoir-Schwund — einfach ALT. Der Stein unter ihrem Garten antwortet langsamer weil SIE langsamer wird. Sie stirbt leise, im Garten, auf dem Stein. Runa hält ihre linke Hand.
+**Elke stirbt.** Alt. Leise, im Garten. Der Stein wird leiser weil SIE leiser wird.
 
-**Talven:** Am Grab. Hört auf zu ernten. Gibt Resonanz zurück. Kostet ihn: beide Augen fast blind, permanent zitternde Hände. Ein Grashalm im toten Hain. Einer.
+**Varen repariert die erste Quelle.** Alphinas Resonanz als Herzschrittmacher. Das Pochen kehrt zurück. Varen steht daneben — zum ersten Mal etwas das nicht Obsession ist.
 
-**Varen repariert die erste Quelle.** Mit Alphinas Hilfe. Ihre Resonanz als externer Anstoß — Pflanzen-Wurzeln die in die tote Quelle reichen, Energie die fließt ohne dass es Alphina etwas kostet. Die Quelle erwacht. Langsam. Ein Pochen. Das erste seit Jahren. Varen steht daneben und sein Gesicht — zum ersten Mal etwas das nicht Obsession ist. Etwas das er nicht benennen kann.
+### Akt III — Eskalation
 
-**Nyr wechselt die Seite.** Sieht den Thar-Plan: Resonanz-Begabte permanent an Maschinen anschließen. "Das sind MENSCHEN. Menschen an Maschinen. Permanent." Sie nimmt ihre Bestie und geht. Vesper geht mit ihr — nicht wegen der Rechnung, sondern wegen ihr.
+**Nyr+Vesper schließen sich Varen+Alphina an.** Vier Thalassier + ein Moragh-Forscher gegen den Bund UND gegen den Thalassien-Industriellen.
 
-**Der Thalassien-Antagonist** drängt: mehr Zugang, mehr Daten, mehr Quellen. Seine Drohnen über der Gilden-Stadt. Seine Scanner an den Reservoiren. Er sieht Energiequellen, nicht Kultur.
+Der Bund und der Thalassien-Industrielle arbeiten zusammen: Thalassien-Tech + Bund-Wissen über Quellen-Überladung = die ultimative Waffe. Drohnen die Quellen scannen, Algorithmen die Schwachstellen berechnen, ferngesteuerte Überladung.
+
+**Runa wechselt die Seite.** Verlässt den Bund. Kommt zu Alphina. Konfrontation: "Du hast eine Quelle getötet." Alphina: "Ja." Keine Ausrede. Runa: Stille. Dann: "Was machen wir jetzt?"
 
 ### Akt IV — Die Wahl
 
-**Varen webt.** Die zweite und dritte Quelle. Alphinas Resonanz als Anstoß, Varens Wissen als Architektur. Fäden statt Ketten — er verbindet die Quellen RICHTIG, diesmal. Er hat aus der Katastrophe gelernt. Es kostet ihn: Erschöpfung, Schweiß, Tage der Erholung. Es kostet Alphina: NICHTS. Das ist immer noch unfair. Das wird immer unfair sein.
+**Quellen-Reparatur unter Bedrohung.** Varen webt die zweite und dritte Quelle. Alphina als Herzschrittmacher. Nyr schützt sie (Bestie Kessler). Vesper rechnet. Runa druckt die Wahrheit über den Bund — an ALLE Fraktionen.
 
-Die drei Quellen erwachen. Die Städte die auf ihnen standen — tot seit Jahren — haben wieder ein Fundament. Menschen können zurückkehren. Der Krieg verliert seinen Grund. Nicht sofort — aber die Logik kippt.
+Der Bund versucht die Reparatur zu sabotieren — reparierte Quellen kann man nicht als Waffe nutzen. Der Thalassien-Industrielle will sie anzapfen, nicht heilen.
 
-**Die Tor-Frage:** Die Gilden wollen es schließen. Der Thalassien-Antagonist will es weit offen. Maren steht dazwischen — sie IST die Brücke, der Wasserweg. Wenn sie ihn schließt, ist Moragh sicher aber isoliert. Wenn sie ihn offen lässt, kommt die Technik, kommen die Konzerne, kommt die Zukunft.
+**Die drei Quellen erwachen.** Die Städte die verdorrten haben wieder ein Fundament. Der Krieg verliert seinen Grund — die Quellen-Knappheit die ihn ausgelöst hat löst sich auf. Nicht sofort. Aber die Logik kippt.
 
-Keine einfache Antwort. MENSCHEN entscheiden. Diplomatie, Politik, Verhandlung. Nicht ein Ritual, nicht ein Opfer.
+**Die Tor-Frage:** Durch die Quellen-Reparatur verändert sich das Resonanz-Differential zwischen den Welten. Das Tor wird instabil. Maren steht dazwischen — Wasserweg. Menschen entscheiden ob er offen bleibt oder nicht. Politik, Diplomatie, keine Magie.
 
-**Alphina wählt.** Varen. Moragh. Nicht weil Runa schlecht ist — weil Alphina sich in der Dunkelheit erkannt hat. Bei Sorel hat die Welt geblüht. Bei Runa war sie still. Bei Varen wachsen Dornen — und das ist ehrlicher als Blüten und Stille.
+**Alphina wählt Varen. Wählt Moragh.**
 
-Keine Selbstaufgabe. Keine Resonanz-Opferung. Eine Frau die wählt wo sie lebt und mit wem.
+Nicht weil Runa schlecht ist. Weil Alphina sich in der Dunkelheit erkannt hat. Bei Sorel hat die Welt geblüht. Bei Runa war sie still. Bei Varen wachsen Dornen — und das ist ehrlicher als Blüten und Stille.
 
-### Beziehungskarte Ende Buch 3
+Ihr Preis: Sie hat eine Quelle getötet. Vierhundert Menschen ohne Magie. Das trägt sie. Immer. Und: Maren auf der anderen Seite des Tors — wenn es sich schließt, keine Umarmung mehr möglich.
 
-```
-MORAGH:                              THALASSIEN (~2200+):
+### Enden
 
-Alphina ═══ Varen                    Maren (alt?, Brücke)
-(zusammen, Quellen repariert,        Schwellenforschungsinstitut
- seine Hand auf ihrem Rücken)        Der Wasserweg ist offen/verhandelt
+**Alphina + Varen:** Moragh. Elkes Garten. Pflanzen aus zwei Welten. Seine Hand auf ihrem Rücken. Sein altes Thalassisch in ihrem Ohr. Ein Dorn an ihrer Hand. Sein Blick der nicht fragt.
 
-Runa (Hybrid-Presse,                 
- Magie + Technik, allein,
- Alphinas Worte in einer Kiste)
+**Vesper + Nyr:** Bei den Thar (die sich reformieren nach der Wahrheit über den Bund). Er sieht Muster, sie kämpft. Schuldig, leiser, aber zusammen.
 
-Vesper ═══ Nyr (bei den Thar → ?)
-(er sieht Muster, sie kämpft)
+**Runa:** Hybrid-Presse. Magie + Technik. Druckt in beide Welten. Alphinas Worte in einer Kiste — noch nicht geöffnet. Allein. Aber mit einer Maschine und einer Mission.
 
-Talven (blind, lehrt, büßt)
+**Maren:** Thalassien. Alt. Schwellenforschungsinstitut. Das Meer riecht nach Salz. Die Brücke, auch wenn das Tor sich verengt.
 
-Iven (Interface Magie/Technik)
-```
+**Talven:** Blind. Lehrt. "Ich verstehe warum ich es getan habe. Und das ist schlimmer." Lebt in Elkes Garten. Der Stein spricht wieder — leise.
 
 ### Epilog
 
-**Vael.** Botanischer Garten. Ein Kind berührt einen Farn. Der Farn dreht sich. Das Kind lacht. Die Mutter: "Hör auf damit." Das Kind: "Er mag mich." Schwindelgefühl — kurz, leicht. Magie kostet jetzt. Für alle. Überall.
+Vael. Botanischer Garten. Ein Kind berührt einen Farn. Der Farn dreht sich. Schwindelgefühl — kurz. Die Quellen pochen.
 
-Unter dem Garten, tief im Purpurstein: ein Pochen. Langsam. Regelmäßig. Die geheilten Quellen. Wie damals.
-
-**Moragh.** Elkes Garten — jetzt Varens und Alphinas. Pflanzen aus zwei Welten. Varen neben ihr. Seine Hand auf ihrem Rücken — nicht warm wie Runas Hände, nicht kalt. Etwas dazwischen. Sein altes Thalassisch in ihrem Ohr, das sie jetzt versteht. Jedes Wort.
-
-Ein Dorn an ihrer Hand. Sein Blick der nicht fragt.
+Moragh. Alphina bei Varen. Dornen an ihrer Hand. Sein Blick. Sie versteht jetzt jedes Wort.
 
 ---
 
-## Sex-Karte (Gesamtübersicht)
+## Beziehungs-Karte (Gesamtübersicht)
 
 ```
-BUCH 1                    BUCH 2                         BUCH 3
+BUCH 1                      BUCH 2                        BUCH 3
 
-Alphina ─🔥─ Sorel        Alphina ─🔥─ Runa (Akt I-II)   Alphina ═══ Varen
-(Dunkelkammer,            (FWB, hitzig,                   (zusammen,
- Kontrollverlust           keine Magie,                    Dornen wachsen)
- durch Vertrauen,          still, warm,
- Farne wachsen)            keine Beziehung)
+Alphina ═🔥═ Sorel (†)      Alphina ~🔥~ Runa (FWB)       Alphina ═══ Varen
+(Vertrauen, Farne)           (hitzig, keine Beziehung)     (Dornen, zusammen)
+                             Alphina → Bund-Waffe
+                             Alphina ZERSTÖRT Quelle
+                             Alphina ═🔥═ Varen
+                             (Schuld-Spiegelung, Dornen)
 
-                           Alphina ─🔥─ Varen (Akt III-IV)
-                           (Gefangenschaft → Glaube,
-                            Dornen statt Farne,
-                            Rücken/Nacken nicht Hände,
-                            anders, schwerer, langsamer)
-
-Vesper ─🔥─ Maren          Vesper ─🔥─ Nyr (Akt II+)
-(rohe Chemie,              (Luft wird dünn,
- Dom/Sub,                   Druck-Magie,
- "Bleibst du?")             blaue Flecken von Luft)
+Vesper ═🔥═ Maren            Vesper ═🔥═ Nyr               Vesper ═══ Nyr
+(Dom/Sub, Uhren)             (Luft-Druck, Thar)            (bei den Thar)
+                             Maren → THALASSIEN (~1910)     Maren (alt, allein)
 ```
 
 ## Alphinas emotionaler Bogen
 
 ```
-SOREL              RUNA               VAREN
-"Bei ihm verliere  "Bei ihr ist       "Bei ihm wachsen
- ich die Kontrolle  die Welt still.    Dornen. Und das
- weil ich           Keine Farne.       ist ehrlicher als
- VERTRAUE."         Nur Wärme.         Blüten und Stille."
-                    Kein Versprechen."
-
-Kontrollverlust     Stille             Öffnung
-durch Vertrauen     durch Freundschaft  durch Glauben
-→ er stirbt         → sie bleibt       → sie wählt ihn
-                      (Freundin)
+SOREL              RUNA               BUND                VAREN
+"Kontrollverlust   "Stille.           "Ich zerstöre       "Er hat auch
+ durch Vertrauen.   Wärme.             eine Quelle.        zerstört.
+ Farne wachsen."    Kein Versprechen." Absichtlich.        Wir sind gleich.
+                                       Vierhundert         Dornen wachsen."
+→ er stirbt        → sie bleibt        Menschen."
+                     (Freundin)        → sie wird Täterin  → sie wählt ihn
 ```
