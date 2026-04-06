@@ -129,7 +129,7 @@
       .then(r => r.json())
       .then(data => {
         const board = document.getElementById('board');
-        const chapters = data.buch1;
+        const chapters = data.buch1.kapitel;
         const keys = Object.keys(chapters);
 
         // Stats
@@ -147,32 +147,20 @@
         bar.innerHTML = `<div class="progress-fill" style="width:${pct}%;background:#2E8B57"></div>`;
         document.getElementById('stats').appendChild(bar);
 
-        // Group by Akt
-        const akts = [
-          { name: 'Akt I — Anker', from: '01', to: '11', interl: ['I1','I2'] },
-          { name: 'Akt II — Zusammenfinden', from: '12', to: '22', interl: ['I3','I4','I5'] },
-          { name: 'Akt III — Eskalation', from: '23', to: '32', interl: ['I6','I7'] },
-          { name: 'Akt IV — Das Tor', from: '33', to: '40', interl: ['I8','I9'] }
-        ];
-
-        // Build ordered key list per akt (matching the kapitelplan order)
-        const aktKeyOrder = [
-          ['01','02','03','04','I1','05','06','07','08','I2','09','10','11'],
-          ['12','13','14','15','I3','16','17','18','I4','19','20','21','22','I5'],
-          ['23','24','25','26','I6','27','28','29','30','I7','31','32'],
-          ['33','34','35','36','I8','37','38','I9','39','40']
-        ];
+        // Use akte structure from JSON
+        const akts = data.buch1.akte;
 
         akts.forEach((akt, ai) => {
+          const aktName = akt.name + ' — ' + akt.titel;
           const group = document.createElement('div');
           group.className = 'akt-group';
 
           const head = document.createElement('div');
           head.className = 'akt-head';
-          head.textContent = akt.name;
+          head.textContent = aktName;
           group.appendChild(head);
 
-          aktKeyOrder[ai].forEach(key => {
+          akt.kapitel.forEach(key => {
             const ch = chapters[key];
             if (!ch) return;
             const isInterlude = key.startsWith('I');

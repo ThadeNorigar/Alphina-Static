@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="robots" content="noindex, nofollow">
-  <title>Der Riss — Trilogie</title>
+  <title>Der Riss — Trilogie-Navigator</title>
   <link rel="stylesheet" href="../styles.css">
   <style>
     :root {
@@ -12,122 +12,360 @@
       --accent: #6b3a3a; --deep: #0f0e0c; --smoke: #8a8279;
       --paper: #f8f4ee; --paper-edge: #e8e0d4;
     }
-    body { background: var(--deep); display: flex; justify-content: center; padding: 2rem 1rem; }
+    body {
+      background: var(--deep); display: flex; justify-content: center;
+      padding: 2rem 1rem; min-height: 100vh;
+    }
     nav { display: none; }
-    .book-wrap { width: 100%; max-width: 720px; }
+    .wrap { width: 100%; max-width: 800px; }
+
+    .page-title {
+      text-align: center; padding: 1rem 0 0.5rem;
+      font-family: 'Cormorant Garamond', serif; font-size: 0.7rem;
+      letter-spacing: 0.4em; text-transform: uppercase; color: var(--smoke);
+    }
+    .page-subtitle {
+      text-align: center; padding: 0 0 1.5rem;
+      font-family: 'Cormorant Garamond', serif; font-size: 0.85rem;
+      color: var(--smoke); letter-spacing: 0.05em;
+    }
+    .page-subtitle strong { color: var(--paper-edge); }
+
+    /* Legend */
+    .legend {
+      display: flex; gap: 0.8rem; justify-content: center; flex-wrap: wrap;
+      padding-bottom: 1.5rem;
+    }
+    .legend-item {
+      display: flex; align-items: center; gap: 0.3rem;
+      font-family: 'Inter', sans-serif; font-size: 0.65rem;
+      color: var(--smoke); letter-spacing: 0.02em;
+    }
+    .legend-dot { width: 8px; height: 8px; border-radius: 50%; }
+
+    /* Book card */
     .book-card {
       background: var(--paper);
       border-radius: 2px 6px 6px 2px;
       box-shadow: 0 0 0 1px var(--paper-edge), 0 12px 40px rgba(0,0,0,0.3);
-      margin-bottom: 2rem; overflow: hidden; position: relative;
+      margin-bottom: 1.5rem; overflow: hidden; position: relative;
     }
     .book-card::before {
       content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 3px;
       background: linear-gradient(180deg, var(--paper-edge) 0%, #c8bfb0 50%, var(--paper-edge) 100%);
     }
-    .card-header {
-      padding: 2.5rem 3rem 1.5rem; border-bottom: 1px solid rgba(107,58,58,0.06);
+
+    /* Buch-Header (klickbar) */
+    .buch-toggle {
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 1.5rem 2rem; cursor: pointer; user-select: none;
+      border-bottom: 1px solid rgba(107,58,58,0.06);
+      transition: background 0.2s;
     }
-    .card-header .num {
-      font-family: 'Cormorant Garamond', serif; font-size: 0.7rem;
+    .buch-toggle:hover { background: rgba(107,58,58,0.02); }
+    .buch-left { display: flex; flex-direction: column; gap: 0.2rem; }
+    .buch-num {
+      font-family: 'Cormorant Garamond', serif; font-size: 0.65rem;
       letter-spacing: 0.35em; text-transform: uppercase; color: var(--smoke);
     }
-    .card-header h2 {
-      font-family: 'Cormorant Garamond', serif; font-size: 1.8rem;
-      font-weight: 400; letter-spacing: 0.08em; color: var(--ink); margin-top: 0.5rem;
+    .buch-titel {
+      font-family: 'Cormorant Garamond', serif; font-size: 1.5rem;
+      font-weight: 400; letter-spacing: 0.08em; color: var(--ink);
     }
-    .card-header .sub {
-      font-family: 'Cormorant Garamond', serif; font-size: 0.95rem;
-      color: var(--muted); font-style: italic; margin-top: 0.3rem;
-    }
-    .card-body { padding: 1.5rem 3rem 1.5rem 3.5rem; }
-    .card-body p {
-      font-family: 'Cormorant Garamond', serif; font-size: 1.05rem;
-      line-height: 1.85; color: var(--ink); margin-bottom: 0.7rem;
-    }
-    .card-body p em { font-style: italic; }
-    .card-footer {
-      padding: 1rem 3rem 1.5rem; border-top: 1px solid rgba(107,58,58,0.06);
-      text-align: right;
-    }
-    .card-footer a {
+    .buch-sub {
       font-family: 'Cormorant Garamond', serif; font-size: 0.85rem;
-      letter-spacing: 0.12em; text-transform: uppercase; text-decoration: none;
-      color: var(--smoke); transition: color 0.3s; padding: 0.5rem 0;
+      color: var(--muted); font-style: italic;
     }
-    .card-footer a:hover { color: var(--ink); }
-    .page-title {
-      text-align: center; padding: 1rem 0 2rem;
-      font-family: 'Cormorant Garamond', serif; font-size: 0.7rem;
-      letter-spacing: 0.4em; text-transform: uppercase; color: var(--smoke);
+    .buch-right { display: flex; align-items: center; gap: 1rem; }
+    .buch-stats {
+      font-family: 'Inter', sans-serif; font-size: 0.65rem;
+      color: var(--smoke); text-align: right; line-height: 1.6;
     }
+    .buch-arrow {
+      font-size: 1.2rem; color: var(--smoke); transition: transform 0.3s;
+    }
+    .buch-toggle.open .buch-arrow { transform: rotate(90deg); }
+
+    /* Progress mini-bar im Buch-Header */
+    .buch-progress {
+      width: 80px; height: 3px; background: rgba(107,58,58,0.1);
+      border-radius: 2px; overflow: hidden;
+    }
+    .buch-progress-fill { height: 100%; border-radius: 2px; background: #2E8B57; }
+
+    /* Buch-Inhalt */
+    .buch-body {
+      max-height: 0; overflow: hidden;
+      transition: max-height 0.4s ease;
+    }
+    .buch-body.open { max-height: 10000px; }
+
+    /* Akt-Header (klickbar) */
+    .akt-toggle {
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 0.8rem 2rem 0.8rem 2.5rem; cursor: pointer; user-select: none;
+      border-bottom: 1px solid rgba(107,58,58,0.06);
+      transition: background 0.2s;
+    }
+    .akt-toggle:hover { background: rgba(107,58,58,0.02); }
+    .akt-left { display: flex; align-items: baseline; gap: 0.6rem; }
+    .akt-num {
+      font-family: 'Cormorant Garamond', serif; font-size: 0.65rem;
+      letter-spacing: 0.3em; text-transform: uppercase; color: var(--smoke);
+    }
+    .akt-titel {
+      font-family: 'Cormorant Garamond', serif; font-size: 1.1rem;
+      font-weight: 400; color: var(--ink);
+    }
+    .akt-right { display: flex; align-items: center; gap: 0.8rem; }
+    .akt-dots { display: flex; gap: 3px; align-items: center; }
+    .akt-dots .mini-dot {
+      width: 5px; height: 5px; border-radius: 50%;
+    }
+    .akt-arrow {
+      font-size: 0.9rem; color: var(--smoke); transition: transform 0.3s;
+    }
+    .akt-toggle.open .akt-arrow { transform: rotate(90deg); }
+
+    /* Akt-Inhalt */
+    .akt-body {
+      max-height: 0; overflow: hidden;
+      transition: max-height 0.35s ease;
+    }
+    .akt-body.open { max-height: 5000px; }
+
+    /* Kapitel-Zeile */
+    .ch-row {
+      display: grid; grid-template-columns: 50px 1fr auto auto;
+      align-items: center; padding: 0.45rem 2rem 0.45rem 3.5rem; gap: 0.5rem;
+      border-bottom: 1px solid rgba(107,58,58,0.03);
+      font-family: 'Cormorant Garamond', serif;
+      transition: background 0.2s;
+    }
+    .ch-row:hover { background: rgba(107,58,58,0.02); }
+    .ch-row:last-child { border-bottom: none; }
+    .ch-row.interlude { font-style: italic; }
+    .ch-row.interlude .ch-num,
+    .ch-row.interlude .ch-title { color: var(--muted); }
+
+    .ch-num { font-size: 0.75rem; color: var(--smoke); font-weight: 600; }
+    .ch-title { font-size: 0.88rem; color: var(--ink); }
+    .ch-pov {
+      font-family: 'Inter', sans-serif; font-size: 0.6rem;
+      color: var(--smoke); letter-spacing: 0.03em;
+      background: rgba(107,58,58,0.04); padding: 0.15rem 0.4rem;
+      border-radius: 2px; white-space: nowrap;
+    }
+    .ch-status {
+      display: flex; align-items: center; gap: 0.35rem;
+      font-family: 'Inter', sans-serif; font-size: 0.6rem;
+      letter-spacing: 0.05em; text-transform: uppercase;
+      white-space: nowrap;
+    }
+    .ch-words {
+      font-family: 'Inter', sans-serif; font-size: 0.6rem;
+      color: var(--smoke); white-space: nowrap;
+    }
+
+    .dot { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; }
+
+    /* Status-Farben */
+    .s-idee        { color: #666; }
+    .s-idee .dot   { background: #666; }
+    .s-szenenplan        { color: #8B7355; }
+    .s-szenenplan .dot   { background: #8B7355; }
+    .s-entwurf        { color: #B8860B; }
+    .s-entwurf .dot   { background: #B8860B; }
+    .s-council        { color: #CD853F; }
+    .s-council .dot   { background: #CD853F; }
+    .s-logik-check        { color: #6B8E23; }
+    .s-logik-check .dot   { background: #6B8E23; }
+    .s-lektorat        { color: #4682B4; }
+    .s-lektorat .dot   { background: #4682B4; }
+    .s-final        { color: #2E8B57; }
+    .s-final .dot   { background: #2E8B57; }
+
+    /* Link zur Detail-Seite */
+    .detail-link {
+      display: inline-block; margin: 0.3rem 2rem 1rem 2.5rem;
+      font-family: 'Cormorant Garamond', serif; font-size: 0.8rem;
+      letter-spacing: 0.1em; text-decoration: none;
+      color: var(--smoke); transition: color 0.3s;
+    }
+    .detail-link:hover { color: var(--ink); }
+
     @media (max-width: 600px) {
-      .card-header, .card-body, .card-footer { padding-left: 1.5rem; padding-right: 1.5rem; }
-      .card-body { padding-left: 2rem; }
+      .buch-toggle { padding: 1.2rem 1.2rem; }
+      .akt-toggle { padding-left: 1.5rem; padding-right: 1.2rem; }
+      .ch-row {
+        grid-template-columns: 40px 1fr auto;
+        padding-left: 2rem; padding-right: 1.2rem;
+      }
+      .ch-pov { display: none; }
+      .ch-words { display: none; }
+      .buch-stats { display: none; }
     }
   </style>
 </head>
 <body>
   <div class="grain"></div>
-  <div class="book-wrap">
+  <div class="wrap">
     <div class="page-title">Der Riss — Trilogie</div>
+    <div class="page-subtitle" id="global-stats"></div>
 
-    <div class="book-card">
-      <div class="card-header">
-        <div class="num">Buch I</div>
-        <h2>Der Riss</h2>
-        <div class="sub">Thalassien · Vael · Das Tor</div>
-      </div>
-      <div class="card-body">
-        <p>Vier Fremde kommen nach Vael, eine Hafenstadt an der Grauküste, wo der Nebel nach Stein riecht und die Grauwe manchmal rückwärts fließt. Keiner weiß, dass er gelockt wurde. Varen — ein Moragh-Forscher auf der anderen Seite des Tors — hat Schemen durch die lecke Schwelle geschickt: Schatten mit leuchtenden Augen im Botanischen Garten, ein Boot das sich nachts selbst weiterbaut, eine Fußnote in einer Fachzeitschrift, eine Glasplatte mit dem falschen Gesicht in einer Auktion. Ein reisender Uhrmacher mit seltsam altem Akzent erzählt von einer Standuhr die 4:33 pro Tag verliert. Alles orchestriert. Alles eine Falle. Varen braucht vier Resonanzen um das Tor von Thalassien-Seite öffnen zu lassen — er kann es nicht von Moragh aus.</p>
-        <p>Sie wissen nichts voneinander. Aber im Botanischen Garten steht ein Steinkreis aus Purpurstein — schon immer da, niemand weiß woher. Die Pflanzen wachsen um den Kreis herum, nie hinein. Magie sickert durch die Schwelle. Alphina und Sorel finden zueinander — Kontrolle gegen Souveränität, Farne wachsen durch Kellerwände. Vesper und Maren: erst Chemie, dann eine Affäre, dann etwas das tiefer geht. Runa Kvist, Druckerin mit immer warmen Händen, hilft Alphina von Anfang an — Papier, Orientierung, unbequeme Fragen.</p>
-        <p>Ein Manuskript im Archiv — teilweise echt, teilweise von Varen überschrieben. Ritual-Anweisungen mit Daemon-Fingerabdrücken. Sie übersetzen die Anleitung: ein Ritual im Steinkreis, vier Resonanzen gleichzeitig. Einweg-Portal. 4 Minuten 33 Sekunden offen.</p>
-        <p>Sie treten in den Kreis. Runa schlüpft in den letzten Sekunden mit hinein. Das Portal schließt sich. Varen tritt aus dem Schatten. 1423er Thalassisch — alt, fremd, intim. Legt die Hand an Alphinas Kinn. Sorel stellt sich dazwischen. Varens Abwehr trifft ihn mit voller Kraft. Sorel stirbt. Varen KÖNNTE ihn retten — tut es nicht. Beugt sich zu ihm, deckt seine Augen zu, flüstert ein Wort. Alphina explodiert — Wurzeln, Dornen, ein Dschungel der aus dem Stein bricht. Auf Sorels Körper: kleine weiße Blumen. Varen zieht sich zurück.</p>
-        <p>Fünf Menschen in einer fremden Welt. Zwei Monde. Eine Sonne die ein dunkles Auge ist. Sie finden eine Stadt. Ein alter Mann führt sie zu einem Garten. Elke van der Holt — Bildhauerin, 1423 durch das Portal gegangen, 400 Thalassien-Jahre auf der anderen Seite. Thalassisch, nach Monaten zum ersten Mal laut: "Woher—" Sie wusste nicht dass jemand kommen würde.</p>
-        <p><em>Epilog: Vael ohne die Fünf. Das Portal ist zu — Sorel tot, drei Resonanzen übrig, die Mathematik ist endgültig. Halvard vor seinem Bericht den niemand glaubt. Das Boot, drei Viertel fertig, wartet. Die Grauwe fließt vorwärts. Die Farne stehen still.</em></p>
-      </div>
-      <div class="card-footer">
-        <a href="buch1.html">Kapitel &rarr;</a>
-      </div>
+    <div class="legend">
+      <div class="legend-item"><div class="legend-dot" style="background:#666"></div> Idee</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#8B7355"></div> Szenenplan</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#B8860B"></div> Entwurf</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#CD853F"></div> Council</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#6B8E23"></div> Logik-Check</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#4682B4"></div> Lektorat</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#2E8B57"></div> Final</div>
     </div>
 
-    <div class="book-card">
-      <div class="card-header">
-        <div class="num">Buch II</div>
-        <h2>Das Auge</h2>
-        <div class="sub">Moragh · Die Fraktionen · Die Wahl</div>
-      </div>
-      <div class="card-body">
-        <p>Elkes Garten. Sorel ist tot. Alphina hasst Varen — will Rache, plant ihn zu finden und zu töten. Die anderen lernen eine Welt kennen, die seit vier Jahren im Krieg liegt. Reservoire — natürliche Energiequellen in der Erde, Kraftwerke der Städte. Varen hat drei davon durch ein Überladungs-Experiment zerstört und damit den Krieg ausgelöst. Niemand weiß es. Drei Fraktionen kämpfen um die verbleibenden Quellen: die Gilden verteidigen mit Beschwörungs-Ritualen, die Binder greifen mit gebundenen Dämonen an, die Thar rücken mit Magitech-Bestien vor.</p>
-        <p>Die Thalassier bezahlen für ihre Magie nichts. Kein Nasenbluten. Kein Hunger. Jeder Moragh-Mensch bezahlt mit seinem Körper. Alle drei Fraktionen wollen sie — die Gilden als Waffen, die Thar als Energiequelle. Alphina und Runa: Friends-with-Benefits, hitzig, körperlich, kein Versprechen. Runas Hände immer warm, kein Wald bricht aus. Stille statt Farne. Vesper geht mit Nyr zu den Thar — ihre Effizienz überzeugt ihn. Maren spürt Wasser das zwischen den Welten fließt.</p>
-        <p>Talven, junger Gilden-Lehrling, wird ihr Freund. Kocht Frühstück, übersetzt, hilft. Aber nachts kniet er in Alphinas Schlaf-Hain und erntet ihre Resonanz. Von Varen gelernt. Sein Auge wird milchig. Bei Zweidrittel des Buchs: Schlachtfeld. Binder greifen an. Varen erscheint als dritte Partei. Seine Schemen trennen Alphina systematisch von der Gruppe. Runa sieht es — kann nichts tun. Schreit.</p>
-        <p>Alphina ist Varens Gefangene. Sein Quartier: Bücher, Karten, drei tote Quellen rot markiert. Er spricht 1423er Thalassisch. Nicht grausam — interessiert. Er erzählt: sein Experiment, die Überladung, die Kettenreaktion. Drei Städte die verdorrten. Alphina fängt an zu glauben. Dreht sich nicht weg. Lässt sich auf ihn ein — Kontrollverlust durch Geständnis. Sex mit Varen: dunkel, anders. Rücken, Nacken, Wirbelsäule statt Handgelenke. Dornen wachsen statt Farne.</p>
-        <p>Maren öffnet den Wasserweg. Kehrt nach Thalassien zurück. Drei Moragh-Monate sind ~90 Jahre. ~1910. Fahrzeuge, Radio. Alle tot seit Generationen. Gründet die Schwellenforschungsgesellschaft. Allein. Runa bleibt in der Gilden-Stadt, druckt, wartet, wütend.</p>
-        <p><em>Buch 2 endet mit Trennung: Alphina bei Varen, nicht als Gefangene — als jemand der geblieben ist. Maren in Thalassien. Vesper bei den Thar mit Nyr. Runa allein. Alle getrennt.</em></p>
-      </div>
-      <div class="card-footer">
-        <a href="buch2.html">Kapitel &rarr;</a>
-      </div>
-    </div>
-
-    <div class="book-card">
-      <div class="card-header">
-        <div class="num">Buch III</div>
-        <h2>Die Naht</h2>
-        <div class="sub">Zwei Welten · Technologie vs. Magie · Wiedervereinigung</div>
-      </div>
-      <div class="card-body">
-        <p>Maren pendelt durch den Wasserweg — jedes Mal wenn sie zurückkehrt, ist Thalassien weiter. Radio, Automobile. Computer, Raketen. Internet, KI, Drohnen. Die Schwellenforschungsgesellschaft wird zum staatlich finanzierten Institut. Die Spiegelung zu Buch 1: dort erschien Moragh mächtig, bedrohlich — Schemen, Magie, Varen. Jetzt ist Thalassien die Bedrohung. Drohnen über Gilden-Städten. KI die Magie-Muster analysiert. Konzerne die Reservoir-Quellen als Energieressourcen sehen. Für Moragh-Bewohner ist Thalassien-Technik genauso unheimlich wie Magie für Thalassier war.</p>
-        <p>Alphina arbeitet mit Varen an der Quellen-Reparatur. Ihre Resonanz als externer Anstoß — Pflanzen-Wurzeln die in die toten Quellen reichen. Varen webt: Fäden statt Ketten, diesmal richtig verbunden, ohne Überladung. Es kostet ihn Erschöpfung, Schweiß, Tage der Erholung. Es kostet Alphina nichts. Das ist immer noch unfair. Die drei zerstörten Quellen erwachen. Die Städte die auf ihnen standen haben wieder ein Fundament. Der Krieg verliert seinen Grund.</p>
-        <p>Talven verteilt geerntete Resonanz an Hunderte — Held. Aber die Ernte ist eine Abstoßungsreaktion. Elke stirbt — alt, erschöpft, nicht durch Magie. Talven sieht was er angerichtet hat. Gibt alles zurück. Halb blind, zitternde Hände. Nyr findet den Thar-Plan: Resonanz-Begabte permanent an Maschinen anschließen. Sie nimmt ihre Bestie und geht. Vesper geht mit ihr.</p>
-        <p>Die Tor-Frage: Die Gilden wollen es schließen. Der Thalassien-Antagonist will es weit offen. Maren steht dazwischen — sie ist die Brücke. Keine einfache Antwort. Menschen entscheiden. Diplomatie, Politik, Verhandlung. Nicht ein Ritual, nicht ein Opfer.</p>
-        <p>Alphina wählt. Varen. Moragh. Nicht weil Runa schlecht ist — weil Alphina sich in der Dunkelheit erkannt hat. Bei Sorel hat die Welt geblüht. Bei Runa war sie still. Bei Varen wachsen Dornen — und das ist ehrlicher als Blüten und Stille. Keine Selbstaufgabe. Eine Frau die wählt wo sie lebt und mit wem.</p>
-        <p><em>Epilog: Vael, botanischer Garten. Ein Kind berührt einen Farn. Der Farn dreht sich. Schwindelgefühl — kurz. Magie kostet jetzt. Für alle. In Moragh: Elkes Garten, jetzt Varens und Alphinas. Seine Hand auf ihrem Rücken. Sein altes Thalassisch in ihrem Ohr. Ein Dorn an ihrer Hand. Sein Blick der nicht fragt.</em></p>
-      </div>
-      <div class="card-footer">
-        <a href="buch3.html">Kapitel &rarr;</a>
-      </div>
-    </div>
+    <div id="nav-tree"></div>
   </div>
+
+  <script>
+    const statusColors = {
+      'idee': '#666', 'szenenplan': '#8B7355', 'entwurf': '#B8860B',
+      'council': '#CD853F', 'logik-check': '#6B8E23', 'lektorat': '#4682B4',
+      'final': '#2E8B57'
+    };
+
+    const buchDetailLinks = { buch1: 'buch1.html', buch2: 'buch2.html', buch3: 'buch3.html' };
+    const buchLabels = { buch1: 'Buch I', buch2: 'Buch II', buch3: 'Buch III' };
+
+    fetch('/buch/status.json')
+      .then(r => r.json())
+      .then(data => {
+        const tree = document.getElementById('nav-tree');
+        let totalChapters = 0, totalFinal = 0, totalWords = 0;
+
+        ['buch1', 'buch2', 'buch3'].forEach((buchKey, bi) => {
+          const buch = data[buchKey];
+          const kapitel = buch.kapitel;
+          const keys = Object.keys(kapitel);
+          const buchTotal = keys.length;
+          const buchFinal = keys.filter(k => kapitel[k].status === 'final').length;
+          const buchWords = keys.reduce((s, k) => s + (kapitel[k].woerter || 0), 0);
+          const buchPct = buchTotal ? Math.round((buchFinal / buchTotal) * 100) : 0;
+
+          totalChapters += buchTotal;
+          totalFinal += buchFinal;
+          totalWords += buchWords;
+
+          // Book card
+          const card = document.createElement('div');
+          card.className = 'book-card';
+
+          // Book toggle
+          const buchToggle = document.createElement('div');
+          buchToggle.className = 'buch-toggle';
+          buchToggle.innerHTML = `
+            <div class="buch-left">
+              <div class="buch-num">${buchLabels[buchKey]}</div>
+              <div class="buch-titel">${buch.meta.titel}</div>
+              <div class="buch-sub">${buch.meta.untertitel}</div>
+            </div>
+            <div class="buch-right">
+              <div class="buch-stats">
+                ${buchFinal} / ${buchTotal} final<br>
+                ${buchWords ? buchWords.toLocaleString('de-DE') + ' W' : ''}
+                <div class="buch-progress"><div class="buch-progress-fill" style="width:${buchPct}%"></div></div>
+              </div>
+              <div class="buch-arrow">&#x203A;</div>
+            </div>
+          `;
+          card.appendChild(buchToggle);
+
+          // Book body
+          const buchBody = document.createElement('div');
+          buchBody.className = 'buch-body';
+
+          buch.akte.forEach((akt, ai) => {
+            // Akt toggle
+            const aktToggle = document.createElement('div');
+            aktToggle.className = 'akt-toggle';
+
+            // Mini-dots for act chapters
+            const dotsHtml = akt.kapitel.map(k => {
+              const ch = kapitel[k];
+              if (!ch) return '';
+              const col = statusColors[ch.status] || '#666';
+              return `<div class="mini-dot" style="background:${col}"></div>`;
+            }).join('');
+
+            aktToggle.innerHTML = `
+              <div class="akt-left">
+                <div class="akt-num">${akt.name}</div>
+                <div class="akt-titel">${akt.titel}</div>
+              </div>
+              <div class="akt-right">
+                <div class="akt-dots">${dotsHtml}</div>
+                <div class="akt-arrow">&#x203A;</div>
+              </div>
+            `;
+
+            buchBody.appendChild(aktToggle);
+
+            // Akt body
+            const aktBody = document.createElement('div');
+            aktBody.className = 'akt-body';
+
+            akt.kapitel.forEach(key => {
+              const ch = kapitel[key];
+              if (!ch) return;
+              const isInterlude = key.startsWith('I') || key === 'EP';
+              const row = document.createElement('div');
+              row.className = 'ch-row' + (isInterlude ? ' interlude' : '');
+
+              const label = key === 'EP' ? 'EP' : (isInterlude ? key : 'Kap ' + key);
+              const wordsHtml = ch.woerter
+                ? `<div class="ch-words">${ch.woerter.toLocaleString('de-DE')} W</div>`
+                : '';
+
+              row.innerHTML = `
+                <div class="ch-num">${label}</div>
+                <div class="ch-title">${ch.titel}</div>
+                <div class="ch-status s-${ch.status}"><div class="dot"></div> ${ch.status}</div>
+                ${wordsHtml}
+              `;
+              aktBody.appendChild(row);
+            });
+
+            buchBody.appendChild(aktBody);
+
+            // Toggle akt
+            aktToggle.addEventListener('click', () => {
+              aktToggle.classList.toggle('open');
+              aktBody.classList.toggle('open');
+            });
+          });
+
+          // Detail link
+          if (buchDetailLinks[buchKey]) {
+            const link = document.createElement('a');
+            link.className = 'detail-link';
+            link.href = buchDetailLinks[buchKey];
+            link.innerHTML = 'Kapitel-Details &rarr;';
+            buchBody.appendChild(link);
+          }
+
+          card.appendChild(buchBody);
+          tree.appendChild(card);
+
+          // Toggle buch
+          buchToggle.addEventListener('click', () => {
+            buchToggle.classList.toggle('open');
+            buchBody.classList.toggle('open');
+          });
+        });
+
+        // Global stats
+        document.getElementById('global-stats').innerHTML =
+          `<strong>${totalFinal}</strong> / ${totalChapters} final &middot; <strong>${totalWords.toLocaleString('de-DE')}</strong> Worter gesamt`;
+      });
+  </script>
 </body>
 </html>
