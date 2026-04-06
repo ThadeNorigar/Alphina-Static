@@ -2,11 +2,11 @@
 
 Der dritte Tag riecht nach Salz.
 
-Die ersten beiden rochen nach Pferd, nach Leder, nach dem Staub der Landstraße, der sich in alles setzt — in die Nähte des Koffers, in die Falten des Hemds, unter die Nägel. Der Kutscher hat zweimal angehalten, einmal an einer Poststation aus grauem Stein, wo ein Mann mit Schürze Brot verkaufte, das nach Kümmel roch und zu hart war und das ich trotzdem ganz aß, weil der Magen sich nicht dafür interessiert, ob Brot gut ist, nur dafür, ob es da ist. Und einmal am Straßenrand, weil eines der Pferde ein Eisen verloren hatte und der Kutscher zwanzig Minuten brauchte, auf den Knien, die Zange in der Hand, der Schweiß auf der Stirn. Ich saß in der Kutsche und wartete. Der Hammer auf das Eisen. Der Huf auf die Erde. Dazwischen die Stille der Landschaft, die nicht still war, weil Landschaften nie still sind — es sind die Menschen die still werden, wenn niemand da ist der sie hört.
+Die ersten beiden rochen nach Pferd, nach Leder, nach dem Staub der Landstraße, der sich in alles setzt — in die Nähte des Koffers, in die Falten des Hemds, unter die Nägel. Der Kutscher hat zweimal angehalten, einmal an einer Poststation aus grauem Stein, wo ein Mann mit Schürze Brot verkaufte, das nach Kümmel roch, zu hart war — das ich trotzdem ganz aß, weil der Magen sich nicht dafür interessiert, ob Brot gut ist, nur dafür, ob es da ist. Einmal am Straßenrand, weil eines der Pferde ein Eisen verloren hatte, der Kutscher zwanzig Minuten brauchte, auf den Knien, die Zange in der Hand, der Schweiß auf der Stirn. Ich saß in der Kutsche, wartete. Der Hammer auf das Eisen. Der Huf auf die Erde. Dazwischen die Stille der Landschaft, die nicht still war, weil Landschaften nie still sind — es sind die Menschen die still werden, wenn niemand da ist der sie hört.
 
 An der Poststation stand ein Farn in einer Mauerspalte.
 
-Asplenium trichomanes. Brauner Streifenfarn. Nordgrenze: neunundvierzigster Breitengrad, Kalkuntergrund, halbschattige Lagen. Die Poststation liegt auf dem fünfzigsten. Ich habe die Koordinaten im Notizbuch nachgeschlagen, obwohl ich sie kenne, weil Nachschlagen Sorgfalt ist und Sorgfalt Abstand. Der Farn war klein, drei Wedel, und er stand da in seiner Spalte und tat nichts Besonderes.
+Asplenium trichomanes. Brauner Streifenfarn. Nordgrenze: neunundvierzigster Breitengrad, Kalkuntergrund, halbschattige Lagen. Die Poststation liegt auf dem fünfzigsten. Ich habe die Koordinaten im Notizbuch nachgeschlagen, obwohl ich sie kenne, weil Nachschlagen Sorgfalt ist, Sorgfalt Abstand. Der Farn war klein, drei Wedel, er stand da in seiner Spalte, tat nichts Besonderes.
 
 Bis die Kutsche anfuhr.
 
@@ -16,19 +16,19 @@ Ich habe ins Notizbuch geschrieben: *Asplenium trichomanes, Poststation Hügelsu
 
 Phototropismus. Das Wort beruhigt. Griechisch, messbar, erklärbar. So lange es einen Namen hat, ist es kein Problem.
 
-Jetzt, am dritten Tag, riecht die Luft nach Salz. Die Hügel sind zu Felsen geworden, dunkel, fast schwarz, ein Gestein das ich nicht kenne. Zwischen den Felsen wächst Moos, satt, grüner als es im April sein sollte, als hätte jemand den Frühling übersprungen. Die Luft ist dichter geworden, über Stunden, unmerklich, als liefe man in ein Zimmer dessen Tür lange geschlossen war. Feuchter. Schwerer. Der Wind kommt von Nordwest, trägt den Geruch des Meeres, unter dem Salz liegt etwas anderes — süßlich, dicht, ein Geruch den ich einzuordnen versuche. Nicht Moos, nicht Tang, nicht Verwesung, nicht die Mineralien die Gestein abgibt wenn Regen es wäscht. Etwas darunter. Etwas das ich nicht benennen kann, was allein seltsam genug ist, weil ich Gerüche benennen kann, weil das mein Beruf ist, weil ich dreißig Jahre lang Pflanzen an ihrem Geruch erkannt habe bevor ich sie gesehen habe.
+Jetzt, am dritten Tag, riecht die Luft nach Salz. Die Hügel sind zu Felsen geworden, dunkel, fast schwarz, ein Gestein das ich nicht kenne. Zwischen den Felsen wächst Moos, satt, grüner als es im April sein sollte, als hätte jemand den Frühling übersprungen. Die Luft ist dichter geworden, über Stunden, unmerklich, als liefe man in ein Zimmer dessen Tür lange geschlossen war. Feuchter. Schwerer. Der Wind kommt von Nordwest, trägt den Geruch des Meeres; unter dem Salz liegt etwas anderes — süßlich, dicht, ein Geruch den ich einzuordnen versuche. Nicht Moos, nicht Tang, nicht Verwesung, nicht die Mineralien die Gestein abgibt wenn Regen es wäscht. Etwas darunter. Etwas das ich nicht benennen kann, was allein seltsam genug ist, weil ich Gerüche benennen kann, weil das mein Beruf ist, weil ich dreißig Jahre lang Pflanzen an ihrem Geruch erkannt habe bevor ich sie gesehen habe.
 
-Puls achtundsiebzig. Ich zähle ihn, wie ich ihn immer zähle, zwei Finger am Handgelenk, fünfzehn Sekunden, mal vier. Ruhig. Normal. Drei Tage Kutsche und mein Rücken schmerzt und mein rechtes Knie ist steif und meine Finger riechen nach Tinte und Leder und dem Brot von gestern, und ich bin ruhig. Es gibt keinen Grund, nicht ruhig zu sein.
+Mein Herz schlägt ruhig. Drei Tage Kutsche, mein Rücken schmerzt, mein rechtes Knie ist steif, meine Finger riechen nach Tinte, nach Leder, nach dem Brot von gestern — ich bin ruhig. Es gibt keinen Grund, nicht ruhig zu sein.
 
 Die Pflanzen am Straßenrand zeigen nach Norden.
 
-Nicht alle. Nicht immer. Aber genug. Gräser, die sich neigen, obwohl der Wind aus Nordwest kommt und sie nach Südost drücken sollte. Farne in Felsspalten, die ihre Wedel in die Richtung strecken, in die die Kutsche fährt. Ein Moos auf einem Felsen, das auf der Nordseite dichter wächst als auf der Südseite, obwohl die Sonne — soweit es in diesem Nebel Sonne gibt — im Süden steht.
+Nicht alle. Nicht immer. Aber genug. Gräser, die sich neigen, obwohl der Wind aus Nordwest kommt, sie nach Südost drücken sollte. Farne in Felsspalten, die ihre Wedel in die Richtung strecken, in die die Kutsche fährt. Ein Moos auf einem Felsen, das auf der Nordseite dichter wächst als auf der Südseite, obwohl die Sonne — soweit es in diesem Nebel Sonne gibt — im Süden steht.
 
-Jede Pflanze einzeln: erklärbar. Windschutz, Lichtbrechung, Bodenneigung. Zufall. Ich habe das Wort dreimal ins Notizbuch geschrieben, und jedes Mal wurde die Schrift kleiner.
+Jede Pflanze einzeln: erklärbar. Windschutz, Lichtbrechung, Bodenneigung. Zufall. Ich habe das Wort dreimal ins Notizbuch geschrieben, jedes Mal wurde die Schrift kleiner.
 
 Hundert Pflanzen über drei Tage, die alle in dieselbe Richtung zeigen.
 
-Puls sechsundachtzig. Der Nebel wird dichter. Die Kutsche rumpelt über Kopfsteinpflaster, härter als die Landstraße, regelmäßiger. Stein auf Stein. Durch das Fenster: Häuser, dunkel, Giebel aus schwarzem Gestein. Die Gassen eng, der Dunst darin dicht genug zum Greifen. Gaslampen brennen am Nachmittag, gelb und trüb, ihr Licht schafft es nicht bis zum Boden.
+Das Herz hämmert in meiner Brust. Der Nebel wird dichter. Die Kutsche rumpelt über Kopfsteinpflaster, härter als die Landstraße, regelmäßiger. Stein auf Stein. Durch das Fenster: Häuser, dunkel, Giebel aus schwarzem Gestein. Die Gassen eng, der Dunst darin dicht genug zum Greifen. Gaslampen brennen am Nachmittag, gelb, trüb, ihr Licht schafft es nicht bis zum Boden.
 
 Vael.
 
@@ -36,7 +36,7 @@ Der Kutscher ruft etwas, das ich nicht verstehe, breiter Küstendialekt. Die Kut
 
 Da ist die Stadt. Die Stadt ist aus dem Stein, der keine Farbe hat die ich kenne, nicht schwarz, nicht grau, nicht violett, sondern etwas dazwischen, etwas das die Augen nicht halten können, das sich verschiebt wenn man es festhält. Dunkler im Schatten. Heller im Laternenlicht. Überall nass, weil die feuchte Luft sich auf alles legt, auf den Stein, auf das Pflaster, auf die Fensterscheiben. Der Stein glänzt, als atme er.
 
-Das Stadttor. Purpurstein, drei Meter hoch, die Fugen breit und feucht. Meine Hand liegt auf dem Kutschrahmen, und als die Kutsche durch das Tor fährt, langsam, die Räder knirschen auf nassem Stein, streife ich mit den Fingerspitzen die Mauer. Beiläufig. Eine Geste die nichts bedeutet.
+Das Stadttor. Purpurstein, drei Meter hoch, die Fugen breit, feucht. Meine Hand liegt auf dem Kutschrahmen; als die Kutsche durch das Tor fährt, langsam, die Räder knirschen auf nassem Stein, streife ich mit den Fingerspitzen die Mauer. Beiläufig. Eine Geste die nichts bedeutet.
 
 Der Stein ist warm.
 
@@ -44,57 +44,81 @@ Nicht sonnenwarm, nicht vom Nachmittagslicht gewärmt, das es nicht gibt, weil d
 
 Dann sehe ich die Farne.
 
-Im Mauerwerk, in den Spalten zwischen den Steinen, in den Fugen wo der Mörtel bröckelt. Asplenium scolopendrium. Hirschzungenfarn. Sieben Stück. Sieben, und ich zähle sie zweimal, weil sieben zu viel ist und gleichzeitig zu genau. Am einundfünfzigsten Breitengrad. Die Art, über die der Brief geschrieben hat, der auf meinem Schreibtisch in Velde lag, der Brief ohne Absender, der mich hergebracht hat. Hier. Im Stein einer Stadt, die ich vor einer Woche nicht kannte.
+Im Mauerwerk, in den Spalten zwischen den Steinen, in den Fugen wo der Mörtel bröckelt. Asplenium scolopendrium. Hirschzungenfarn. Sieben Stück. Sieben, ich zähle sie zweimal, weil sieben zu viel ist, gleichzeitig zu genau. Am einundfünfzigsten Breitengrad. Die Art, über die der Brief geschrieben hat, der auf meinem Schreibtisch in Velde lag, der Brief ohne Absender, der mich hergebracht hat. Hier. Im Stein einer Stadt, die ich vor einer Woche nicht kannte.
 
-Sieben Wedel. Grün, satt, die Blattspreiten glänzend im Nebel. Und während ich schaue — während die Kutsche durch das Tor fährt, langsam, und mein Gesicht am Fenster und meine Augen auf den Farnen — dreht sich der erste. Der unterste. Sein Wedel schwenkt, langsam, als liefe er durch Wasser, und richtet sich auf mich aus. Dann der zweite. Dann der dritte. Eine Welle, die durch die Mauer läuft, von unten nach oben, sieben Farne, sieben Wedel, und jeder einzelne dreht sich nach mir, nicht ruckartig wie der Farn in Velde, sondern langsam, gemessen, als hätten sie alle Zeit der Welt, als wüssten sie dass ich nicht wegrennen kann.
+Sieben Wedel. Grün, satt, die Blattspreiten glänzend im Nebel. Während ich schaue — während die Kutsche durch das Tor fährt, langsam, mein Gesicht am Fenster, meine Augen auf den Farnen — dreht sich der erste. Der unterste. Sein Wedel schwenkt, langsam, als liefe er durch Wasser, richtet sich auf mich aus. Dann der zweite. Dann der dritte. Eine Welle, die durch die Mauer läuft, von unten nach oben, sieben Farne, sieben Wedel, jeder einzelne dreht sich nach mir, nicht ruckartig wie der Farn in Velde, sondern langsam, gemessen, als hätten sie alle Zeit der Welt, als wüssten sie dass ich nicht wegrennen kann.
 
-Puls achtundneunzig. Meine Hände sind feucht. Mein Mund ist trocken. Ich greife an den Kutschrahmen, das Holz glatt unter meinen feuchten Fingern. Halte mich fest. Die Kutsche fährt weiter, die Farne bleiben im Tor, sieben Wedel, alle nach Süden gerichtet, dorthin wo ich war, als hätten sie mich markiert. Ich drehe mich nicht um.
+Meine Hände sind feucht. Mein Mund ist trocken. Ich greife an den Kutschrahmen, das Holz glatt unter meinen feuchten Fingern. Halte mich fest. Die Kutsche fährt weiter, die Farne bleiben im Tor, sieben Wedel, alle nach Süden gerichtet, dorthin wo ich war, als hätten sie mich markiert. Ich drehe mich nicht um.
 
 Ich drehe mich nicht um, weil Umdrehen bedeuten würde, dass ich es ernst nehme.
-
-Die feuchte Luft schließt sich hinter der Kutsche. Die Gassen werden enger. Ich lege meine Hände auf das Notizbuch, das auf meinem Schoß liegt. Meine Finger hinterlassen feuchte Abdrücke auf dem Leder. Ich drücke die Handflächen auf die Seiten, das Papier rau unter meiner Haut, der Druck hilft, gibt dem Körper etwas das er halten kann.
-
-Das Gasthaus heißt "Zum Anker." Der Kutscher zeigt mit dem Kinn die Hafengasse runter, ein einziges Wort — "Da" — und die Kutsche hält. Ich steige aus. Der Nebel legt sich auf mein Gesicht, feucht und kalt und nah. Die Luft schmeckt nach Salz, nach dem Geruch den ich nicht benennen kann, süßlich, dicht. Er ist stärker hier, am Hafen, wo ein Fluss ins Meer mündet — trübes Wasser das sich mit dem Salzwasser mischt, langsam, schwer, in eine Richtung die ich noch nicht kenne.
-
-Durch die Gassenlücke: das Graue Meer. Grau, wirklich grau, ein Grau das Tiefe hat, das nach unten geht, Schicht für Schicht, und das Licht dringt nicht hindurch. Alles in dieser Stadt scheint aus einem einzigen Farbton zu bestehen und aus einem Geruch, den ich nicht kenne, und aus Farnen, die mich kennen.
-
-Puls neunzig. Sinkt. Ich habe einen Koffer und eine Adresse und ein Notizbuch mit drei Tagen Zufall darin, und ich gehe die Hafengasse runter, auf nassem Kopfsteinpflaster, und die Feuchtigkeit liegt auf meinen Schultern, riecht nach Salz und nach etwas Süßem. Die Gaslampen brennen, und irgendwo hinter mir, im Stadttor, stehen sieben Farne, die wissen wo ich bin.
 
 
 ---
 
 
-Die Druckerei liegt in der Oberstadt, drei Gassen vom Marktplatz, eine Treppe hoch die in das Pflaster gehauen ist, fünfundvierzig Stufen aus Purpurstein, jede einzelne ausgetreten in der Mitte, die Kanten abgerundet von Jahrhunderten Schuhe. Der Stein unter meinen Sohlen ist warm. Wie am Stadttor. Wie die Erde in Velde. Ich registriere es und gehe weiter.
+Das Gasthaus heißt "Zum Anker." Der Kutscher zeigt mit dem Kinn die Hafengasse runter, ein einziges Wort — "Da" — die Kutsche hält. Ich steige aus. Der Nebel legt sich auf mein Gesicht, feucht, kalt, nah. Die Luft schmeckt nach Salz, nach dem Geruch den ich nicht benennen kann, süßlich, dicht. Er ist stärker hier, am Hafen, wo ein Fluss ins Meer mündet — trübes Wasser das sich mit dem Salzwasser mischt, langsam, schwer, in eine Richtung die ich noch nicht kenne.
 
-Das Notizbuch ist fast voll. Neun Jahre, die letzten Seiten dünn beschrieben, die Tinte blass, weil ich am Ende Platz gespart habe, die Buchstaben kleiner und enger, als wollten die Seiten nicht aufhören. Ich brauche Papier. In Velde hätte ich zu Thelen & Sohn gegangen, in den Laden der nach Schleiföl riecht und nach dem Atem eines alten Mannes, der sagt, gute Linsen brauchen Zeit. Hier bin ich im Gasthaus gefragt. Der Wirt, ein Mann mit einem Kinn das aussah als hätte jemand es aus dem Purpurstein geschlagen, hat gesagt: "Kvist. Oberstadt."
+Durch die Gassenlücke: das Graue Meer. Grau, wirklich grau, ein Grau das Tiefe hat, das nach unten geht, Schicht für Schicht; das Licht dringt nicht hindurch. Alles in dieser Stadt scheint aus einem einzigen Farbton zu bestehen, aus einem Geruch, den ich nicht kenne, aus Farnen, die mich kennen.
+
+Der "Anker" ist schmal, eingekeilt zwischen zwei höheren Häusern, das Schild über der Tür verrostet, die Buchstaben kaum lesbar im Nebel. Drinnen: niedriger Balken, dunkles Holz, der Geruch von Bier, das in den Boden gesickert ist. Eine Theke, abgewetzt. Dahinter ein Mann, der so aussieht als gehöre er zum Inventar — breit, grau, ein Kinn das aussieht als hätte jemand es aus dem Purpurstein geschlagen, kantig, gerade, ohne Rundungen.
+
+"Zimmer?"
+
+"Bitte."
+
+Er greift unter die Theke. Ein Schlüssel, Messing, anlaufend. Schiebt ihn über das Holz. "Zweiter Stock. Linke Tür. Frühstück gibt's nicht."
+
+"Wie lange?"
+
+Er meint die Bezahlung. Ich merke es am Blick — nicht neugierig, nur geschäftsmäßig.
+
+"Ich weiß nicht."
+
+Er nickt, als wäre das eine brauchbare Antwort. "Wochenpreis. Im Voraus." Er nennt die Summe. Ich lege die Münzen auf die Theke.
+
+Sein Blick geht zu meinem Koffer, zu den Tintenflecken an meinen Fingern, zu dem Notizbuch das unter meinem Arm klemmt. Er sagt nichts.
+
+"Gibt es hier eine Druckerei?", frage ich. Das Notizbuch ist fast voll. Neun Jahre, die letzten Seiten dünn beschrieben, die Tinte blass, weil ich am Ende Platz gespart habe, die Buchstaben kleiner, enger, als wollten die Seiten nicht aufhören. Ich brauche Papier.
+
+"Kvist. Oberstadt." Er wischt über die Theke, eine Geste die das Gespräch beendet. "Marktplatz hoch, dann links."
+
+Das Zimmer ist klein genug um es mit drei Schritten zu kennen. Bett, Stuhl, Tisch, Waschkrug. Kamin an der Wand, gemauert aus Purpurstein, das Innere geschwärzt von Jahren, die Asche ausgekehrt aber nicht gründlich — am Rand ein Rest, grau, fein, der Staub von hundert Feuern. Ich stelle den Koffer ab, lege das Notizbuch auf den Tisch. Die Luft riecht nach Kalk, nach altem Holz, nach dem Rauch des Kamins im Erdgeschoss, der durch die Decke sickert.
+
+Das Fenster geht auf die Hafengasse. Durch das Glas: Nebel, nasses Pflaster, die Gaslampe an der Ecke. Irgendwo hinter mir, im Stadttor, stehen sieben Farne.
+
+Papier. Kvist. Oberstadt.
+
+
+---
+
+
+Die Druckerei liegt drei Gassen vom Marktplatz, eine Treppe hoch die in das Pflaster gehauen ist, Stufen aus Purpurstein, jede einzelne ausgetreten in der Mitte, die Kanten abgerundet von Jahrhunderten Schuhe. Der Stein unter meinen Sohlen ist warm. Wie am Stadttor. Wie die Erde in Velde. Ich registriere es, gehe weiter.
 
 Die Tür der Druckerei steht offen.
 
-Der Geruch trifft mich bevor ich den Raum sehe. Heißes Blei — ein Geruch der auf der Zunge liegt, metallisch, scharf. Darunter Druckerschwärze, ölig, schwarz, ich kann die Farbe riechen. Darunter Papier, trocken, staubig, Stapel davon an den Wänden, auf Regalen, auf dem Boden. Wärme. Nicht die Wärme des Nebels, nicht die Wärme des Steins unter meinen Füßen. Ofenwärme. Schmelztiegelwärme. Die Luft im Raum ist zehn Grad wärmer als die Gasse draußen, und mein Körper reagiert sofort — Schultern senken sich, der Kiefer, den ich seit dem Stadttor zusammengebissen habe ohne es zu merken, löst sich. Puls vierundachtzig.
+Der Geruch trifft mich bevor ich den Raum sehe. Heißes Blei — ein Geruch der auf der Zunge liegt, metallisch, scharf. Darunter Druckerschwärze, ölig, schwarz, ich kann die Farbe riechen. Darunter Papier, trocken, staubig, Stapel davon an den Wänden, auf Regalen, auf dem Boden. Wärme. Nicht die Wärme des Nebels, nicht die Wärme des Steins unter meinen Füßen. Ofenwärme. Schmelztiegelwärme. Die Luft im Raum ist wärmer als die Gasse draußen — mein Körper reagiert sofort, Schultern senken sich, der Kiefer, den ich seit dem Stadttor zusammengebissen habe ohne es zu merken, löst sich.
 
-Die Druckerpresse steht in der Mitte des Raums, ein Ungetüm aus Holz, Eisen, Schwungrädern, Hebeln, eine Walze die glänzt von Schwärze. Daneben der Setzkasten — Fächer aus Holz, hunderte, jedes gefüllt mit Bleilettern. Das Klicken von Metall auf Metall, ein Geräusch das nicht aufhört, weil jemand am Setzkasten steht, Buchstaben sortiert, schnell, die Finger in den Fächern. Klick Klick Klick. Der Rhythmus ist gleichmäßig, hypnotisch, hat nichts mit dem Rest der Stadt zu tun.
+Die Druckerpresse steht in der Mitte des Raums, ein Ungetüm aus Holz, Eisen, Schwungrädern, Hebeln, eine Walze die glänzt von Schwärze. Daneben der Setzkasten — Fächer aus Holz, hunderte, jedes gefüllt mit Bleilettern. Das Klicken von Metall auf Metall, ein Geräusch das nicht aufhört, weil jemand am Setzkasten steht, Buchstaben sortiert, schnell, die Finger in den Fächern. Klick Klick Klick.
 
-Die Frau am Setzkasten dreht sich um.
-
-Druckerschwärze an den Unterarmen, an der Schürze, ein Fleck auf der Wange. Nicht groß, nicht klein. Ein Gesicht das nicht wartet — ein Gesicht das schon redet bevor der Mund aufmacht, Augenbrauen die Fragen stellen, Falten an den Mundwinkeln die von Lachen kommen, nicht von Sorge.
+Die Frau am Setzkasten dreht sich um. Klein — einen halben Kopf kleiner als ich, aber der Raum um sie herum fühlt sich voll an, als nehme sie mehr Platz ein als ihr Körper braucht. Runde Schultern unter der Schürze, runde Hüften, Druckerschwärze an den Unterarmen, ein Fleck auf der Wange. Ein Gesicht das nicht wartet — Augenbrauen die Fragen stellen, Falten an den Mundwinkeln die von Lachen kommen, nicht von Sorge.
 
 "Papier oder Druck?"
 
-Ihre Stimme füllt den Raum. Laut. Zu laut für Vael, wo alle flüstern und die Mäntel schließen und die Köpfe senken. Ein Wort, zwei Optionen, keine Höflichkeitsformel davor.
+Ihre Stimme füllt den Raum. Laut. Zu laut für Vael, wo alle flüstern, die Mäntel schließen, die Köpfe senken.
 
 "Papier", sage ich. "Unliniert. Zum Schreiben."
 
-"Dickeres oder dünneres?"
+"Dickeres oder dünneres?" Sie wischt sich die Hände an der Schürze ab, eine schnelle Geste, die nichts sauberer macht, den Stoff über den Hüften strafft.
 
 "Dünn. Aber fest genug für Tinte, nicht nur Bleistift."
 
-Sie nickt, als hätte ich die richtige Antwort gegeben. Greift hinter sich, ohne hinzuschauen, in ein Regal, und zieht einen Stapel hervor, helles Papier, und reißt ein Blatt ab und hält es gegen die Kerze auf dem Tresen.
+Sie nickt, als hätte ich die richtige Antwort gegeben. Greift hinter sich, ohne hinzuschauen, in ein Regal, zieht einen Stapel hervor, helles Papier. Reißt ein Blatt ab, hält es gegen die Kerze auf dem Tresen. Die Kerze brennt ruhig, die Flamme aufrecht, reglos — nicht das Flackern das Kerzen tun wenn jemand sich bewegt.
 
-"Leinen-Baumwolle. Von der Mühle südlich der Grauwe." Sie dreht das Blatt. Schaut meine Hände an, kurz, den Blick einer Handwerkerin die Werkzeug erkennt. "Stahlfeder?"
+"Hadernpapier. Leinen, mit Baumwolle gemischt. Von der Mühle südlich der Grauwe." Sie dreht das Blatt zwischen den Fingern, kleine Hände, aber geschickt, die Bewegungen einer Frau die den ganzen Tag Bleilettern sortiert. Schaut meine Hände an, kurz, den Blick einer Handwerkerin die Werkzeug erkennt. "Stahlfeder?"
 
 "Ja."
 
-"Dann nicht das hier." Sie legt das Blatt zurück und greift in ein anderes Fach. Etwas dickeres Papier, cremeweiß. Hält es mir hin. "Fühlen Sie."
+"Dann nicht das hier." Sie legt das Blatt zurück, greift in ein anderes Fach. Etwas dickeres Papier, cremeweiß. Hält es mir hin. "Fühlen Sie."
 
 Ich nehme das Blatt. Rau unter meinen Fingerspitzen, eine leichte Körnung, die Oberfläche ungleichmäßig — handgeschöpft, nicht maschinell. Das Papier hat ein Gewicht das über seine Dicke hinausgeht, etwas Festes, etwas das sich anfühlt als würde es halten was man daraufschreibt.
 
@@ -108,31 +132,31 @@ Ich antworte bevor ich entscheide ob ich will.
 
 "Velde."
 
-"Tidelände." Sie zählt die Blätter ab, fünf, zehn, fünfzehn, die Finger schnell. "Kenne ich vom Papier. Feuchtes Klima, die Tinte trocknet schlecht. Deshalb wollen Sie dickeres." Zwanzig, fünfundzwanzig. "Was machen Sie hier oben?"
+"Tidelände." Sie zählt die Blätter ab, fünf, zehn, fünfzehn, die Finger schnell. Ihr Haar ist dunkel, kurz geschnitten, fällt ihr in die Stirn wenn sie den Kopf senkt, sie pustet es weg, ohne die Hände zu heben — die Hände zählen weiter. "Kenne ich vom Papier. Feuchtes Klima, die Tinte trocknet schlecht. Deshalb wollen Sie dickeres." Zwanzig, fünfundzwanzig. "Was machen Sie hier oben?"
 
 "Botanik. Es gibt einen Farn, der hier nicht wachsen sollte."
 
-Ihre Hände stoppen für eine Sekunde. Sie schaut mich an, die Augenbrauen hoch.
+Ihre Hände stoppen für eine Sekunde. Sie schaut mich an, die Augenbrauen hoch. Dunkle Augen, wach, ein Blick der nicht ruht, sondern springt — von meinem Gesicht zu meinen Händen, zu meinem Mantel, zurück.
 
 "Wegen einer Pflanze."
 
 "Ja."
 
-"Na, da sind Sie in der richtigen Stadt." Sie zählt weiter. Dreißig, fünfunddreißig. "Hier wächst alles mögliche was nicht soll. Der Efeu an der Marktkirche hat im Januar geblüht. Im Januar." Vierzig, fünfundvierzig. "Und im Garten oben, am Klippenrand — waren Sie schon im Garten?"
+"Na, da sind Sie in der richtigen Stadt." Sie zählt weiter. Dreißig, fünfunddreißig. "Hier wächst alles mögliche was nicht soll. Der Efeu an der Marktkirche hat im Januar geblüht. Im Januar." Vierzig, fünfundvierzig. Die Kerze auf dem Tresen — ich bemerke es jetzt erst, beiläufig, als Randbeobachtung — brennt immer noch ohne zu flackern. Die Flamme steht aufrecht, bewegungslos, als wäre die Luft im Raum still. Aber die Luft ist nicht still. Runa bewegt sich, redet, die Tür steht offen. "Im Garten oben, am Klippenrand — waren Sie schon im Garten?"
 
 "Nein."
 
-"Gehen Sie hin. Da stehen Farne die so hoch sind wie ich." Fünfzig, fünfundfünfzig. "Henrik sagt, das sei normal, aber Henrik sagt alles sei normal, Henrik würde auch sagen, Schnee im August sei normal wenn er damit seine Beete erklären kann." Sechzig. Sie klopft den Stapel auf den Tresen und schiebt ihn zu mir. "Sechzig Blatt. Drei Schilling."
+"Gehen Sie hin. Da stehen Farne die so hoch sind wie ich." Fünfzig, fünfundfünfzig. "Henrik sagt, das sei normal, aber Henrik sagt alles sei normal, Henrik würde auch sagen, Schnee im August sei normal wenn er damit seine Beete erklären kann." Sechzig. Sie klopft den Stapel auf den Tresen, schiebt ihn zu mir. "Sechzig Blatt. Drei Schilling."
 
-Ich lege die Münzen auf den Tresen. Sie nimmt sie, und dabei berühren sich unsere Finger.
+Ich lege die Münzen auf den Tresen. Sie nimmt sie — dabei berühren sich unsere Finger.
 
 Ihre Hand ist heiß.
 
-Nicht warm. Nicht die Wärme von jemandem der am Schmelztiegel gearbeitet hat, nicht die Restwärme von Blei. Heißer. Eine Hitze die aus der Haut kommt, nicht von der Oberfläche. Meine Finger zucken zurück, Reflex, unwillkürlich, bevor mein Kopf entscheidet. Ein Ruck in der Hand, drei Zentimeter, und ich stehe da mit den Münzen halb losgelassen und meinen Fingern in der Luft.
+Nicht warm. Nicht die Wärme von jemandem der am Schmelztiegel gearbeitet hat, nicht die Restwärme von Blei. Heißer. Eine Hitze die aus der Haut kommt, nicht von der Oberfläche. Meine Finger zucken zurück, Reflex, unwillkürlich, bevor mein Kopf entscheidet. Ein Ruck in der Hand, drei Zentimeter — ich stehe da mit den Münzen halb losgelassen, meinen Fingern in der Luft.
 
 Sie nimmt die Münzen.
 
-"Runa", sagt sie. "Runa Kvist."
+"Runa", sagt sie. "Runa Kvist." Ein Lächeln, breit, offen — ein Lächeln das mehr Platz braucht als ihr Gesicht hat, das die Augen zusammendrückt, die Wangen nach oben schiebt, das ganze Gesicht verändert.
 
 "Alphina."
 
@@ -144,25 +168,23 @@ Sie nimmt die Münzen.
 
 "Ich bin heute angekommen."
 
-"Dann." Sie bindet den Faden um das Paket und knotet ihn, ein Knoten, fest, sie beißt den Faden ab. "Sievert, Hafengasse. Bäcker. Gleich neben dem Anker, falls Sie da untergekommen sind. Backt auch abends, was hier sonst keiner tut." Sie schiebt mir das Paket über den Tresen. "Post am Marktplatz, aber nur bis vier, und der Beamte macht um halb vier schon Pause, also rechnen Sie mit drei. Und gehen Sie nachts nicht die Untere Grauwe runter."
+"Dann." Sie bindet den Faden um das Paket, knotet ihn, fest, beißt den Faden ab. "Sievert, Hafengasse. Bäcker. Gleich neben dem Anker, falls Sie da untergekommen sind. Backt auch abends, was hier sonst keiner tut." Sie schiebt mir das Paket über den Tresen. "Post am Marktplatz, aber nur bis vier, der Beamte macht um halb vier schon Pause, also rechnen Sie mit drei. Gehen Sie nachts nicht die Untere Grauwe runter."
 
 "Warum nicht?"
 
-"Ratten. Groß wie Katzen. Sitzen auf der Straße und schauen einen an."
+"Ratten. Groß wie Katzen. Sitzen auf der Straße, schauen einen an."
 
 Sie sagt es beiläufig, als erzähle sie vom Wetter. Aber ihre Stimme hat den Ton gewechselt, kaum merklich, ein halber Schritt tiefer. Ich frage nicht. Noch nicht.
 
-"Danke", sage ich. Nehme das Paket. Das Papier ist warm, durch das Packpapier hindurch, und ich weiß nicht ob es vom Raum kommt oder von ihren Händen.
+"Danke", sage ich. Nehme das Paket. Das Papier ist warm, durch das Packpapier hindurch — ich weiß nicht ob es vom Raum kommt oder von ihren Händen.
 
 "Kommen Sie wieder, wenn das Papier alle ist", sagt Runa. Sie hat sich schon umgedreht, zurück zum Setzkasten, die Finger in den Fächern, Klick Klick Klick. "Oder wenn Sie den Garten gesehen haben. Dann reden wir nochmal über Dinge die nicht wachsen sollten."
 
 Die Tür fällt hinter mir zu.
 
-Die Gasse. Der Nebel. Die Kälte, die sofort zurückkommt, auf die Wangen, in den Nacken, durch den Stoff der Jacke. In meiner rechten Hand das Paket, warm. In meiner linken Hand: ein Kribbeln, an den Fingerspitzen, dort wo Runas Haut meine berührt hat. Das Kribbeln wandert, langsam, vom Zeigefinger in die Handfläche, wie damals auf der Treppe in Velde, bei der Efeutute. Ich mache eine Faust. Öffne sie. Schließe sie. Es geht nicht weg.
+Die Gasse. Der Nebel. Die Kälte, die sofort zurückkommt, auf die Wangen, in den Nacken, durch den Stoff der Jacke. In meiner rechten Hand das Paket, warm. In meiner linken Hand: ein Kribbeln, an den Fingerspitzen, dort wo Runas Haut meine berührt hat. Das Kribbeln wandert, langsam, vom Zeigefinger in die Handfläche — dasselbe Kribbeln wie damals auf der Treppe in Velde, bei der Efeutute. Ich mache eine Faust. Öffne sie. Schließe sie. Es geht nicht weg.
 
-Puls vierundachtzig. Der Körper hat es registriert. Der Kopf noch nicht. Der Kopf ist damit beschäftigt, die Münzen zu zählen die fehlen, und den Namen des Bäckers zu behalten, und den Klang einer Stimme zu vergessen, die zu laut war für eine Stadt die flüstert.
-
-Im Notizbuch, später, im Gasthaus: *Druckerei Kvist. Runa Kvist, Druckerin. Papier: Leinen-Baumwolle, handgeschöpft. Gute Qualität.* Dann ein Abstand, eine leere Zeile, in der die Feder zögert. Dann: *Hände ungewöhnlich warm.*
+Im Notizbuch, abends, im Gasthaus: *Druckerei Kvist. Runa Kvist, Druckerin. Papier: Hadern, Leinen-Baumwolle, handgeschöpft. Gute Qualität.* Dann ein Abstand, eine leere Zeile, in der die Feder zögert. Dann: *Hände ungewöhnlich warm. Kerzenflamme auffällig ruhig in ihrer Nähe.*
 
 Ich streiche den letzten Satz nicht durch. Aber ich schreibe auch nicht mehr dazu.
 
@@ -170,114 +192,98 @@ Ich streiche den letzten Satz nicht durch. Aber ich schreibe auch nicht mehr daz
 ---
 
 
-Das Zimmer im "Anker" ist klein genug um es mit drei Schritten zu kennen.
-
-Bett, Stuhl, Tisch, Waschkrug. Kamin an der Wand, gemauert aus Purpurstein, das Innere geschwärzt von Jahren, die Asche ausgekehrt aber nicht gründlich — am Rand ein Rest, grau und fein, der Staub von hundert Feuern. Kerze auf dem Tisch, Talg, ein Geruch den ich kenne — nach Abend, nach Gasthäusern, nach den Jahren in denen ich von einem Ort zum nächsten gezogen bin, bevor Velde mich aufgenommen hat. Der Geruch ist vertraut genug um den Körper zu beruhigen.
-
-Ich lege das Papier auf den Tisch. Runas Papier, sechzig Blatt, das Packpapier noch darum. Daneben das Notizbuch. Neun Jahre. Die letzten leeren Seiten. Ich schlage es auf, die Feder kratzt über das Papier, das Kratzen ist der Klang meines Lebens, gleichmäßig, rau, sicher.
-
-*Vael. Ankunft. Asplenium scolopendrium am Stadttor, sieben Exemplare, 51°N. Heliotrope Reaktion bei Passage — alle sieben, sequentiell, Latenz ~2 Sekunden pro Wedel. Kein erkennbarer Stimulus.* Ich halte inne. *Kein erkennbarer Stimulus* ist eine Lüge, weil die Erklärung die bleibt nicht ins Notizbuch gehört. Noch nicht. Stattdessen: *Purpurstein durchgängig warm bei Berührung. Bewölkt, kein direktes Sonnenlicht. Ursache unklar.*
-
-Ich schreibe und die Feder kratzt und die Tinte trocknet auf dem Papier und die Welt ordnet sich in Sätze, die Anfang und Ende haben.
-
-Puls zweiundachtzig.
+Ich schlafe nicht.
 
 Das Bett ist schmal. Das Laken riecht nach Lauge, nach der Kälte die in Stoff kriecht, wenn er zu lange in einem Schrank lag den niemand öffnet. Ich liege auf der linken Seite, der einzigen Seite, der Körper sucht die Mulde die es nicht gibt, weil dieses Bett mich nicht kennt. Durch die Wand: das Meer. Nicht laut — ein Summen, ein Atem, der nicht aufhört, der die Mauern durchdringt, sich in den Knochen des Hauses festsetzt. Der Nebel drückt gegen das Fenster, dünne Tropfen sammeln sich am Glas, laufen herunter, langsam, das Geräusch der Tropfen kleiner als Stille.
 
-Ich denke an die neunundvierzig Pflanzen. An Madame Herault, die den Gießplan hat, zwei Seiten, sortiert nach Topf. Die Monstera braucht wenig. Der Nestfarn braucht viel. Die Orchidee braucht nichts außer Licht und Vergessen. Ich denke an den Farn, dem ich "Langsamer" gesagt habe, und an die Farne am Stadttor, die sich gedreht haben, langsam, als hätten sie gehorcht, als hätte das Wort vierhundert Kilometer getragen.
+Ich denke an die neunundvierzig Pflanzen. An Madame Herault, die den Gießplan hat, zwei Seiten, sortiert nach Topf. Die Monstera braucht wenig. Der Nestfarn braucht viel. Die Orchidee braucht nichts außer Licht, Vergessen. Ich denke an den Farn, dem ich "Langsamer" gesagt habe — an die Farne am Stadttor, die sich gedreht haben, langsam, als hätten sie gehorcht, als hätte das Wort vierhundert Kilometer getragen.
 
-Puls sechsundsiebzig. Schlaf.
+Ich liege wach. Die Feder liegt auf dem Tisch, neben dem Notizbuch, neben Runas Papier. Ich könnte aufstehen, schreiben. Die Welt in Sätze ordnen, die Anfang haben, Ende. Aber mein Körper will nicht aufstehen. Mein Körper liegt da, in einem fremden Bett, in einer Stadt die nach etwas riecht das ich nicht benennen kann, in der die Farne sich nach mir drehen.
 
+Irgendwann — spät, keine Ahnung wie spät, die Kerze ist heruntergebrannt, der Talg kalt, weiß — höre ich ein Geräusch. Am Fenster. Leise, kaum da. Ein Kratzen, als striche etwas über das Holz der Läden. Einmal. Stille. Ich warte. Nichts.
 
----
+Ich stehe auf. Die Dielen unter meinen Füßen, kalt. Drei Schritte zum Fenster. Ich öffne die Läden.
 
-
-Ich bin wach.
-
-Der Übergang vom Schlaf zum Wachen hat keine Grenze, keinen Moment in dem die Augen aufgehen, keinen Ruck. Ich bin einfach wach, von einer Sekunde auf die nächste, und mein Körper weiß bevor mein Kopf weiß, dass etwas nicht stimmt.
-
-Die Luft. Der Raum, der nach Kalk roch, nach dem Kamin, nach dem alten Holz des Bettes — riecht nach nichts. Die Luft ist leer. Gereinigt. Als hätte jemand den Raum ausgeatmet und neu gefüllt, mit etwas das keine Farbe hat und keinen Namen und keinen Geruch.
-
-Und Licht. Orange. Am Kamin.
-
-Ich setze mich auf. Die Dielen unter meinen Füßen, kalt. Drei Schritte zum Kamin.
-
-Der Kamin brennt.
-
-Ich habe ihn nicht angezündet. Ich habe kein Streichholz benutzt, kein Zunder, kein Papier. Die Scheite liegen im Rost, drei Stück, Birkenholz, die weiße Rinde — auf ihnen brennt ein Feuer. Flammen, orange, gelb, züngeln, tanzen, werfen Schatten an die Wand. Mein Schatten, groß, verzerrt, eine Frau im Nachthemd die vor einem Kamin steht.
-
-Aber es riecht nicht.
-
-Kein Holz. Kein Rauch. Kein Ruß. Die Luft über dem Feuer ist warm — ich halte die Hand darüber, eine Handbreit, und die Wärme ist da, real, drückt gegen meine Handfläche. Aber unter dem Feuer —
-
-Ich strecke die Hand aus. Meine Finger berühren das Scheit.
-
-Kalt. Das Holz ist kalt. Trocken. Die Rinde glatt unter meinen Fingerspitzen, die Birke, die weiße Haut die sich schält, und die Flammen lecken über meine Hand und ich ziehe sie nicht zurück. Weil die Flammen nicht brennen. Die Hitze kommt von oben. Von der Luft über dem Holz. Nicht vom Holz selbst. Das Feuer liegt auf den Scheiten wie Wasser auf Glas liegt. Ohne einzudringen. Ohne zu verbrennen. Ohne zu riechen.
-
-Meine Hand zittert.
-
-Ich ziehe sie zurück. Schaue auf meine Finger. Nichts. Kein Ruß. Keine Asche. Keine Brandspuren. Meine Haut ist warm, die Fingerspitzen kribbeln — dasselbe Kribbeln wie bei Runas Händen, nachmittags, in der Druckerei, und der Gedanke ist da und ich kann ihn nicht stoppen und ich schiebe ihn weg.
-
-Puls hundertacht.
-
-Zehn Minuten. Ich stehe im Nachthemd vor dem Kamin und das Feuer brennt auf kaltem Holz und ich stehe da. Die Kerze auf dem Tisch ist aus, seit Stunden, der Talg kalt und weiß. Nur das Kaminfeuer. Orange. Geruchlos.
-
-Ich gehe in die Hocke. Mein Gesicht nah an den Scheiten. Die Flammen tanzen und hinter ihnen ist die Rückwand des Kamins, geschwärzter Purpurstein, und die Flammen werfen kein Licht auf den Stein, als wäre der Stein schwärzer als das Feuer hell ist, als schlucke er das Licht, und unter meinen Knien ist der Boden warm.
-
-Dann geht das Feuer aus.
-
-Nicht langsam. Nicht Glut, nicht Erlöschen, nicht das Zusammensinken von Scheiten die zu Asche werden. Weg. Als hätte jemand eine Hand darübergelegt. Dunkelheit, sofort, vollständig. Mein Schatten an der Wand: weg. Mein Atem in der Dunkelheit, laut.
-
-Stille.
-
-Ich lege die Hand auf die Scheite. Kalt. Trocken. Kein Ruß. Keine Asche. Die Rinde unversehrt, die weiße Birke, glatt und heil, als hätte nie ein Feuer darauf gebrannt. Meine Finger tasten über das Holz, jedes Scheit, jeden Zentimeter. Nichts. Kein Zeichen. Kein Beweis.
-
-Ich stehe auf. Der Boden unter meinen Füßen, kalt. Drei Schritte zum Tisch. Die Kerze, der Talg, das Streichholz. Ich zünde die Kerze an. Die Flamme ist gelb. Sie riecht nach Talg, und der Geruch ist da, real, richtig. Meine Hände zittern. Der Schatten an der Wand zittert mit.
-
-
----
-
-
-Ich habe nicht mehr geschlafen. Drei Seiten, auf dem Papier von Runa, mit der Stahlfeder, Eisengallustinte. Die Temperaturen. Die Zeiten. Die Abwesenheit von Geruch. Die Abwesenheit von Ruß. Die Dauer. Sachlich. Jedes Detail. Das Notizbuch lag daneben, neun Jahre darin, und die neuen Seiten lagen auf dem Tisch, Runas Papier, und die Tinte war dunkel auf dem hellen Grund, und ich habe geschrieben bis die Hand ruhig war.
-
-Puls zweiundneunzig. Runter von hundertacht. Die Feder kratzt gleichmäßig, Linie für Linie.
-
-Dann ein Geräusch. Am Fenster. Leise, kaum da — ein Kratzen, als striche etwas über das Holz der Läden. Einmal. Stille. Ich warte. Nichts.
-
-Ich öffne die Läden.
-
-Grau. Nebel. Die Hafengasse, nass, Kopfsteinpflaster. Die Gaslampe an der Ecke brennt noch, gelb und trüb. Leer.
+Grau. Nebel. Die Hafengasse, nass, Kopfsteinpflaster. Die Gaslampe an der Ecke brennt noch, gelb, trüb. Leer.
 
 Nicht leer.
 
-Auf dem Pflaster, drei Stockwerke unter mir. Etwas. Schattenhaft. Katzengroß, aber die Proportionen stimmen nicht — Kopf zu groß für den Körper, Beine zu lang, zu dünn, als hätte jemand eine Katze gezeichnet, die Maße falsch gelesen. Es steht da. Reglos. Und seine Augen leuchten. Nach oben. Zu mir. Schwarz und leuchtend, als brenne etwas hinter dem Schwarz, ein Glimmen das keine Farbe hat, und in dem Glimmen keine Iris, kein Weiß. Zwei Punkte in einem Gesicht das kein Gesicht ist.
+Auf dem Pflaster, drei Stockwerke unter mir — etwas. Schattenhaft. Katzengroß, aber die Proportionen stimmen nicht. Kopf zu groß für den Körper. Beine zu lang, zu dünn. Es bewegt sich — elegant, fließend, als hätte jemand Rauch beigebracht zu gehen. Es schlüpft am Rand der Gaslampe vorbei, der Lichtkegel streift es, ich sehe Konturen, die Oberfläche seines Körpers raucht, dunkelgrau, fein, als bestünde es aus Haar das sich auflöst, aus Nebel der eine Form hält die er nicht halten sollte. Dann ist es im Schatten. Weg.
 
-Puls hundertzwölf.
+Ich stehe am Fenster. Meine Finger am Rahmen, die Knöchel weiß.
 
-Meine Hände am Fensterrahmen. Das Holz unter meinen Fingern. Die Kälte der Morgenluft auf meinem Gesicht. Der Nebel. Die Gasse. Das Tier, das kein Tier ist, das mich anschaut mit Augen die nicht funktionieren wie Augen funktionieren.
+*Gehen Sie nachts nicht die Untere Grauwe runter. Ratten. Groß wie Katzen.*
+
+Ich ziehe mich an. Jacke, Stiefel, die Schnallen mit Fingern die nicht ruhig sein wollen. Die Treppe hinunter, die Stufen knarren, die Haustür — der Riegel ist nicht vorgelegt, das Schloss klemmt, der Nebel drückt von außen dagegen als ich öffne.
+
+Die Hafengasse. Kalt. Der Nebel dichter als am Nachmittag, tiefer, er reicht mir bis zur Brust, meine Beine verschwinden darin. Die Gaslampe an der Ecke, gelb, ein Kreis aus trübem Licht der drei Meter weit reicht. Darüber hinaus: nichts. Grau auf Grau.
+
+Ich gehe.
+
+Ich weiß nicht warum. Ich weiß, dass ich nicht gehen sollte, dass Runa gesagt hat — aber meine Beine tragen mich die Gasse entlang, am Kopfsteinpflaster vorbei, das nass glänzt im Laternenschein, vorbei an geschlossenen Türen, dunklen Fenstern. Meine Schritte hallen. Sonst nichts.
+
+Dann, zwanzig Meter vor mir — Bewegung. Im Nebel. Tief, am Boden, ein Schatten der sich löst, der gleitet, nicht geht. Elegant. Lautlos. Der Körper ist dunkelgrauer Rauch, die Oberfläche raucht, faserig, als bestünde das Ding aus etwas das sich ständig auflöst, ständig neu formt. Es bewegt sich von mir weg, die Gasse entlang, geschmeidig, eine Kurve die kein Tier macht das ich kenne.
+
+Ich bleibe stehen. Es bleibt stehen.
+
+Ich atme. Es — ich weiß nicht ob es atmet. Es steht da, im Nebel, zehn Meter vor mir, der Rücken zu mir, wenn es einen Rücken hat. Die rauchige Oberfläche kräuselt sich, feine Härchen die im nicht vorhandenen Wind wehen.
+
+Dann dreht es den Kopf. Nicht den Körper — nur den Kopf, weiter als ein Gelenk erlauben sollte. Die Augen. Schwarz, leuchtend, als brenne etwas hinter dem Schwarz. Zwei Punkte in einem Gesicht das kein Gesicht ist. Es schaut mich an.
 
 Ich blinzle.
 
-Weg.
+Weg. Die Gasse leer. Nebel, Pflaster, Stille.
 
-Nicht weggelaufen. Nicht in den Nebel. Nicht um die Ecke. Weg. Die Gasse ist leer. Nasses Pflaster. Die Gaslampe. Der Nebel, der am Boden liegt und sich nicht bewegt.
+Mein Atem geht schneller. Ich drehe mich um — die Gasse hinter mir, dunkel, die Gaslampe am anderen Ende, weit — drehe mich zurück.
 
-Mein Puls — ich höre auf zu zählen.
+An der Hauswand. Drei Meter über dem Boden. Etwas sitzt an der Mauer, die Beine — wenn es Beine sind — gegen den Stein gedrückt, der Körper flach wie ein Schatten der an der Wand klebt. Dieselbe rauchende Oberfläche, dieselben Proportionen, zu groß der Kopf, zu lang die Glieder. Es sitzt an der Wand als wäre die Wand der Boden, als gäbe es keine Schwerkraft, als hätte niemand ihm gesagt dass Mauern senkrecht sind.
 
-Das ist neu. Ich zähle immer. Seit Jahren zähle ich, zwei Finger am Handgelenk, fünfzehn Sekunden, mal vier. Die Zahl ist der Anker. Die Zahl sagt mir, wo ich stehe und wie weit die Mauer noch hält und ob der Riss größer geworden ist. Und jetzt höre ich auf, weil die Zahl, die kommen würde, eine Zahl wäre die ich nicht ins Notizbuch schreiben will.
+Die Augen. Nach unten. Auf mich.
 
-Ich schließe das Fenster. Gehe zum Kamin. Lege die Hand auf die Scheite.
+Es kippt den Kopf. Zur Seite. Neugierig. Das Geräusch das dabei entsteht — ein leises, kehliges Trillern, fragend, fast zärtlich — jagt mir das Blut in den Hals.
 
-Kalt. Trocken. Normal. Birkenholz mit weißer Rinde und keinem Beweis.
+Dann ist es weg. Nicht gesprungen, nicht gefallen. Die Mauer ist leer. Nasser Stein. Nichts.
 
-Gehe zum Tisch. Das Notizbuch, drei Seiten voll, sachlich, präzise. Und auf der vierten Seite, auf dem ersten Blatt von Runas Papier, schreibe ich einen Satz, den ich nicht geplant habe.
+Ich drehe mich. Die Gasse in beide Richtungen, Nebel, Dunkelheit. Ich gehe schneller. Zurück zum Anker, zurück zur Lampe an der Ecke — der Nebel wird dichter, ich kann meine eigenen Füße kaum sehen, das Kopfsteinpflaster unter meinen Sohlen nass, rutschig —
 
-*Die Erde in Velde war warm. Der Stein in Vael ist warm. Die Farne am Stadttor kannten mich.*
+Leuchtende Augen.
 
-Darunter setzt die Feder auf. Die Tinte fließt in das Papier, ein kleiner Fleck, rund und dunkel, der größer wird, weil die Feder stillsteht und die Tinte sich ausbreitet und ich den nächsten Satz nicht schreibe.
+Vor mir. Bodenhöhe. Sie kommen näher, langsam, aus dem Nebel, zwei schwarze Punkte die glimmen, der Körper dahinter grauer Rauch, die Oberfläche faserig, rauchend, die Beine bewegen sich lautlos auf dem nassen Stein.
 
-Weil der nächste Satz der Satz wäre, der alles ändert. Und den schreibe ich nicht auf. Noch nicht.
+Hinter dem ersten — ein zweites. Kleiner. Dieselben Augen. Derselbe Rauch.
 
-Draußen, in der Hafengasse, brennt die Gaslampe. Der Nebel liegt auf dem Pflaster. Das Meer rauscht, fern und gleichmäßig. Irgendwo in dieser Stadt stehen sieben Farne in einem Stadttor, die wissen wo ich bin. Und auf der Gasse, wo eben noch etwas stand das mich angeschaut hat mit Augen die keine Augen waren, liegt nichts als nasser Stein.
+Auf dem Fenstersims neben mir — ein drittes. Ich habe es nicht kommen sehen. Es sitzt da, einen Meter von meinem Gesicht, den Kopf geneigt, die Augen auf meiner Höhe. Das Trillern. Leise, fragend, als wolle es etwas von mir das es nicht benennen kann.
+
+Sie schleichen auf mich zu. Alle drei. Langsam. Nicht bedrohlich — neugierig, tastend, als prüften sie wie nah sie kommen können. Die Haare auf meinen Unterarmen stehen. Mein Atem —
+
+Eine Tür geht auf. Links, drei Häuser weiter. Lichtschein schlägt auf die Gasse, gelb, warm, der Schatten eines Mannes fällt aufs Pflaster, breite Schultern, er tritt auf die Straße, hustet, spuckt, zieht die Tür hinter sich zu.
+
+Ich blinzle.
+
+Die Gasse ist leer.
+
+Kein Rauch. Keine Augen. Kein Trillern. Der Sims neben mir: nasser Stein. Das Pflaster vor mir: Nebel, die Gaslampe, nichts. Drei Schemen — als hätte jemand sie ausradiert, als wären sie nie dort gewesen. Der Mann geht die Gasse hinunter, die Schritte schwer, gleichmäßig. Er hat nichts gesehen. Er geht nach Hause, oder zur Arbeit, oder zum Hafen. Er hustet noch einmal. Dann ist er im Nebel.
+
+Ich stehe da. Meine Hände zittern. Mein Atem geht flach, schnell — ich versuche ihn zu bremsen, es funktioniert nicht. Das Herz hämmert gegen meine Rippen als wolle es raus.
+
+Ich gehe zurück. Schnell. Die Gasse, die Treppe, die Tür. Der Riegel, diesmal vorgelegt. Die Stufen hoch, das Knarren unter meinen Stiefeln, mein Zimmer, die Tür zu, der Schlüssel, zweimal.
+
+Ich lehne mich gegen die Tür. Das Holz an meinem Rücken, kühl, fest. Mein Atem, laut im kleinen Raum. Die Stiefel nass. Die Hände — ich schaue auf meine Hände. Sie zittern. Ich schließe sie. Öffne sie. Schließe sie.
+
+Auf dem Tisch liegt das Notizbuch. Runas Papier. Die Feder.
+
+Ich setze mich hin. Ich schreibe. Die Feder kratzt, die Tinte trocknet, die Welt ordnet sich in Sätze, die Anfang haben, Ende. Ich schreibe bis die Hand ruhig ist.
+
+Auf dem ersten Bogen von Runas Papier steht am Ende ein Satz, den ich nicht geplant habe.
+
+*Die Erde in Velde war warm. Der Stein in Vael ist warm. Die Farne am Stadttor kannten mich. Auf der Gasse sind Dinge, die aus Rauch bestehen, die an Wänden sitzen, die verschwinden wenn man blinzelt. Sie haben mich angeschaut.*
+
+Darunter setzt die Feder auf. Die Tinte fließt in das Papier, ein kleiner Fleck, rund, dunkel, der größer wird, weil die Feder stillsteht, die Tinte sich ausbreitet — ich den nächsten Satz nicht schreibe.
+
+Weil der nächste Satz der Satz wäre, der alles ändert. Den schreibe ich nicht auf. Noch nicht.
+
+Draußen, in der Hafengasse, brennt die Gaslampe. Der Nebel liegt auf dem Pflaster. Das Meer rauscht, fern, gleichmäßig. Irgendwo in dieser Stadt stehen sieben Farne in einem Stadttor, die wissen wo ich bin.
+
+Irgendwo in den Gassen, im Nebel, sitzen Dinge an Wänden, die mich angeschaut haben mit Augen die keine Augen waren.
 
 Tag eins.
