@@ -126,7 +126,7 @@ Maren findet in Moragh die Karte und die Anleitung für die Moragh-Seite des Por
 
 ### Zeugen
 
-**Finn Tade** und **Doktor Halvard** beobachten das Ritual vom Gartenrand. Halvard schreibt einen Bericht — sachlich, präzise, wie ein Arzt. Der einzige schriftliche Beleg. Seriös genug, dass man ihn nicht ignoriert. Verrückt genug, dass man ihn Jahrhunderte lang anzweifelt. Finn bezeugt, sagt aber nie ein Wort dazu.
+**Finn Daverin** und **Doktor Halvard** beobachten das Ritual vom Gartenrand. Halvard schreibt einen Bericht — sachlich, präzise, wie ein Arzt. Der einzige schriftliche Beleg. Seriös genug, dass man ihn nicht ignoriert. Verrückt genug, dass man ihn Jahrhunderte lang anzweifelt. Finn bezeugt, sagt aber nie ein Wort dazu.
 
 ---
 
@@ -335,7 +335,7 @@ Betreibt die Druckerei in der Oberstadt. Heißes Metall, Bleilettern, Schmelztie
 **Buch 1:** Nebencharakter. Druckt Flugblätter über die Risse. Stellt unbequeme Fragen. Versteckt sich im Botanischen Garten, schlüpft durch das Portal in den letzten Sekunden der 4:33.
 **Buch 2:** Alphinas Affäre in Moragh. Einziger Mensch ohne bewusste Magie in einer Welt die aus Magie besteht. Ihre Feuer-Resonanz macht sie für die Thar interessant.
 
-### Finn Tade — Fischer
+### Finn Daverin — Fischer
 Alt, schweigsam, Gesicht wie Treibholz. Fischt seit fünfzig Jahren auf der Grauwe. Sieht Dinge auf dem Wasser — Strömungen die falsch laufen, Stellen wo die Grauwe steht. "War schon immer so." Redet mit Maren, weil sie vom Wasser kommt. Redet nicht über das was er sieht. Zeigt es. Bringt tote Fische die nach Metall stinken.
 
 ### Jara Voss — Archiv-Gehilfin

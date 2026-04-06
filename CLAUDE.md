@@ -37,20 +37,105 @@ Du bist der Autor von "Der Riss" (Buch 1 der Trilogie: Der Riss / Das Auge / Die
 - Sorel stirbt in Moragh. Erste Begegnung mit Antagonist. Letzte 50 Seiten Maren.
 - Buch 1 endet mit dem Durchgang durch das Tor. Buch 2 spielt in Moragh.
 
-## Dokumentation
+## Dokumentations-Hierarchie
 
-- buch/00-welt.md — Weltbibel (Welt, Figuren, Fraktionen, Nebencharaktere)
-- buch/01-stil.md — Schreibstil
-- buch/02-stilregeln-v2.md — Stilregeln v2
-- buch/10-magie-system.md — Magie-Progression, Kombinations-Matrix, Harte Regeln
-- buch/11-nyr.md — Nyr (Thar-Pilotin)
-- buch/13-talven.md — Talven (Verräter)
-- buch/02-akt1.md bis 05-akt4.md — Buch 1 Aktpläne
-- buch/06-buch2-akt1.md bis 09-buch2-akt4.md — Buch 2 Aktpläne
-- buch/14-buch3-akt1.md bis 17-buch3-akt4.md — Buch 3 Aktpläne
-- buch/kapitel/01-alphina.md — Kapitel 1 FINAL (Referenzton)
+Zehn Ebenen, von abstrakt nach konkret. Änderungen kaskadieren abwärts. Prüfungen laufen aufwärts.
 
-VOR dem Schreiben: buch/00-welt.md, buch/10-magie-system.md, buch/02-stilregeln-v2.md und buch/kapitel/01-alphina.md lesen.
+```
+Ebene  Typ                  Dateien                              Inhalt
+─────  ───────────────────  ───────────────────────────────────  ──────────────────────────────
+  1    Weltbibel            buch/00-welt.md                      Figuren, Welt, Fraktionen,
+                                                                 Regeln, Zeitgeschichte, Orte.
+                                                                 SOURCE OF TRUTH.
+
+  2    Regelsysteme         buch/10-magie-system.md              Resonanz, Quellen, Preise,
+                            buch/01-stil.md                      Kombinationen. Stilregeln.
+                            buch/02-stilregeln-v2.md             Harte Regeln, kein Kapitel
+                                                                 darf brechen.
+
+  3    Charakter-Dossiers   buch/11-nyr.md                       Einzelne Figuren die eigene
+                            buch/13-talven.md                    Docs brauchen. Wachsen mit
+                                                                 der Geschichte.
+
+  4    Storyline            buch/00-storyline.md                  Gesamtbogen über alle Bücher.
+                                                                 Was passiert in welchem Buch,
+                                                                 Akt-Struktur, Enden, Arcs.
+
+  5    Aktpläne             buch/02-akt1.md bis 05-akt4.md       Kapitel-für-Kapitel-Breakdown,
+                            buch/06-buch2-akt1.md bis 09-...     POV, Seitenzahlen, Interludien,
+                            buch/14-buch3-akt1.md bis 17-...     Tschechow-Waffen pro Akt.
+
+  6    Kapitelregister      buch/status.json                     Status, Wörter, Kurzbeschrei-
+                                                                 bung. Speist die Website.
+
+  7    Szenenpläne          buch/szenen/{KK}-{SS}.md             Detaillierte Beats pro Szene.
+                                                                 KK=Kapitel, SS=Szene.
+
+  8    Entwürfe             buch/kapitel/{KK}-entwurf.md         Kapitel-Outline, Struktur,
+                                                                 Szenenaufteilung.
+
+  9    Szenen-Drafts        buch/kapitel/{KK}-szene{S}.md        Einzelszenen ausgeschrieben.
+
+ 10    Finale Kapitel       buch/kapitel/{KK}-{name}.md          Fertig, durch alle Gates.
+                                                                 Was die Leserin liest.
+```
+
+### Kaskaden-Regel
+
+Eine Änderung auf Ebene N invalidiert potenziell alles auf N+1 bis 10.
+Nach jeder Bibel-Änderung (Ebene 1-3): abwärts durcharbeiten bis zum fertigen Kapitel.
+
+### Dateinamens-Konvention
+
+```
+buch/
+├── 00-welt.md                    # Ebene 1: Weltbibel
+├── 00-storyline.md               # Ebene 4: Storyline
+├── 01-stil.md                    # Ebene 2: Stilregeln
+├── 02-stilregeln-v2.md           # Ebene 2: Stilregeln v2
+├── 10-magie-system.md            # Ebene 2: Regelsystem
+├── 11-nyr.md                     # Ebene 3: Charakter-Dossier
+├── 13-talven.md                  # Ebene 3: Charakter-Dossier
+├── {BB}-akt{A}.md                # Ebene 5: Aktplan (BB=Buch-Offset, A=Akt)
+│   02-akt1.md ... 05-akt4.md     #   Buch 1 (Offset 02)
+│   06-buch2-akt1.md ... 09-...   #   Buch 2 (Offset 06)
+│   14-buch3-akt1.md ... 17-...   #   Buch 3 (Offset 14)
+├── status.json                   # Ebene 6: Kapitelregister
+├── szenen/
+│   ├── {KK}-{SS}.md              # Ebene 7: Szenenplan (KK=Kapitel, SS=Szene)
+│   └── I{N}-{SS}.md              #   Interludien: I1-01.md, I5-02.md
+└── kapitel/
+    ├── {KK}-entwurf.md           # Ebene 8: Entwurf
+    ├── {KK}-szene{S}.md          # Ebene 9: Szenen-Draft
+    ├── {KK}-{name}.md            # Ebene 10: Finales Kapitel
+    └── I{N}-{name}.md            #   Interludien: I1-elke.md
+```
+
+### Skalierung für weitere Buchprojekte
+
+Dieselbe Struktur funktioniert für jedes Buchprojekt. Projekt-Root bestimmt das Buch:
+
+```
+Projekt-Root/
+├── CLAUDE.md                     # Projektregeln, Kernregeln, Stilverbote
+├── buch/
+│   ├── 00-welt.md                # Weltbibel (pro Projekt eine)
+│   ├── 00-storyline.md           # Gesamtbogen
+│   ├── 01-stil.md                # Stilregeln (projekt-spezifisch)
+│   ├── 10-{system}.md            # Regelsysteme (Magie, Technik, etc.)
+│   ├── 1{N}-{charakter}.md       # Charakter-Dossiers
+│   ├── {NN}-akt{A}.md            # Aktpläne
+│   ├── status.json               # Kapitelregister → Website
+│   ├── szenen/                   # Szenenpläne
+│   └── kapitel/                  # Entwürfe → Drafts → Finale
+└── story/                        # Generierte HTML (Website)
+```
+
+**Bei Mehrband-Projekten** (wie dieser Trilogie) liegen alle Bände im selben `buch/`-Verzeichnis. Die Aktpläne werden per Dateinamen-Offset getrennt. Die Weltbibel, Storyline und Regelsysteme gelten für die gesamte Reihe.
+
+**Bei Standalone-Projekten** entfallen Storyline und Band-Offsets. Die Struktur bleibt identisch, nur flacher.
+
+VOR dem Schreiben immer lesen: `00-welt.md`, `10-magie-system.md`, `02-stilregeln-v2.md` und `kapitel/01-alphina.md` (Referenzton).
 
 ## Arbeitsablauf
 
