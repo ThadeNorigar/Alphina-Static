@@ -28,19 +28,19 @@ Jede Pflanze einzeln: erklärbar. Windschutz, Lichtbrechung, Bodenneigung. Zufal
 
 Hundert Pflanzen über drei Tage, die alle in dieselbe Richtung zeigen.
 
-Das Herz hämmert in meiner Brust. Der Nebel wird dichter. Die Kutsche rumpelt über Kopfsteinpflaster, härter als die Landstraße, regelmäßiger. Stein auf Stein. Durch das Fenster: Häuser, dunkel, Giebel aus schwarzem Gestein. Die Gassen eng, der Dunst darin dicht genug zum Greifen. Gaslampen brennen am Nachmittag, gelb, trüb, ihr Licht schafft es nicht bis zum Boden.
+Das Herz hämmert in meiner Brust. Dunst liegt über der Stadt, dünn genug dass die Sonne durchkommt — nicht als Scheibe, als milchiger Fleck hinter Schleierwolken, der den Stein zum Dampfen bringt. Die Kutsche rumpelt über Kopfsteinpflaster, härter als die Landstraße, regelmäßiger. Stein auf Stein. Durch das Fenster: Häuser, Giebel aus dunklem Gestein, der Purpurstein feucht, dampfend in der blassen Sonne, als schwitze er. Die Gassen eng, ein Hauch von Nebel darin, der nie ganz geht. Gaslampen brennen am Nachmittag — nicht weil es dunkel wäre, aus Gewohnheit, ihr Licht fällt in blasse Kreise auf das nasse Pflaster.
 
 Vael.
 
 Der Kutscher ruft etwas, das ich nicht verstehe, breiter Küstendialekt. Die Kutsche wird langsamer. Ich beuge mich zum Fenster.
 
-Da ist die Stadt. Die Stadt ist aus dem Stein, der keine Farbe hat die ich kenne, nicht schwarz, nicht grau, nicht violett, sondern etwas dazwischen, etwas das die Augen nicht halten können, das sich verschiebt wenn man es festhält. Dunkler im Schatten. Heller im Laternenlicht. Überall nass, weil die feuchte Luft sich auf alles legt, auf den Stein, auf das Pflaster, auf die Fensterscheiben. Der Stein glänzt, als atme er.
+Da ist die Stadt. Die Stadt ist aus dem Stein, der keine Farbe hat die ich kenne, nicht schwarz, nicht grau, nicht violett, sondern etwas dazwischen, etwas das die Augen nicht halten können, das sich verschiebt wenn man es festhält. Wo die Sonne den Stein trifft, dampft er — feiner Dunst der aus den Fugen steigt, aus den Giebeln, aus dem Pflaster, als verdunste das Meer direkt aus dem Fels. In den Gassen, wo die Häuser die Sonne abschneiden, hängt der Nebel dichter, träger. Der Stein glänzt, als atme er.
 
 Das Stadttor. Purpurstein, drei Meter hoch, die Fugen breit, feucht. Meine Hand liegt auf dem Kutschrahmen; als die Kutsche durch das Tor fährt, langsam, die Räder knirschen auf nassem Stein, streife ich mit den Fingerspitzen die Mauer. Beiläufig. Eine Geste die nichts bedeutet.
 
 Der Stein ist warm.
 
-Nicht sonnenwarm, nicht vom Nachmittagslicht gewärmt, das es nicht gibt, weil der Nebel die Sonne seit dem Morgen verschluckt hat. Warm wie die Erde in meinem Topf in Velde, warm wie Haut. Meine Fingerspitzen liegen auf dem Stein, die Wärme kriecht in meine Hand. Ich denke: Gestein speichert Wärme. Ich denke: es gibt keine Wärme die er speichern könnte. Ich ziehe die Hand zurück.
+Nicht sonnenwarm — die Sonne kommt durch, ja, als milchiger Fleck, aber so viel Wärme speichert Stein nicht von einem halben Nachmittag blassem Licht. Warm wie die Erde in meinem Topf in Velde, warm wie Haut. Meine Fingerspitzen liegen auf dem Stein, die Wärme kriecht in meine Hand. Ich denke: Gestein speichert Wärme. Ich denke: es gibt keine Wärme die er speichern könnte. Ich ziehe die Hand zurück.
 
 Dann sehe ich die Farne.
 
@@ -56,7 +56,7 @@ Ich drehe mich nicht um, weil Umdrehen bedeuten würde, dass ich es ernst nehme.
 ---
 
 
-Das Gasthaus heißt "Zum Anker." Der Kutscher zeigt mit dem Kinn die Hafengasse runter, ein einziges Wort — "Da" — die Kutsche hält. Ich steige aus. Der Nebel legt sich auf mein Gesicht, feucht, kalt, nah. Die Luft schmeckt nach Salz, nach dem Geruch den ich nicht benennen kann, süßlich, dicht. Er ist stärker hier, am Hafen, wo ein Fluss ins Meer mündet — trübes Wasser das sich mit dem Salzwasser mischt, langsam, schwer, in eine Richtung die ich noch nicht kenne.
+Das Gasthaus heißt "Zum Anker." Der Kutscher zeigt mit dem Kinn die Hafengasse runter, ein einziges Wort — "Da" — die Kutsche hält. Ich steige aus. Die Luft ist mild, feucht, der Dunst hängt in den Gassen wie Gardinen die niemand aufzieht. Die Sonne ist noch da, irgendwo hinter dem Schleier, der Stein dampft leise. Die Luft schmeckt nach Salz, nach dem Geruch den ich nicht benennen kann, süßlich, dicht. Er ist stärker hier, am Hafen, wo ein Fluss ins Meer mündet — trübes Wasser das sich mit dem Salzwasser mischt, langsam, schwer, in eine Richtung die ich noch nicht kenne.
 
 Durch die Gassenlücke: das Graue Meer. Grau, wirklich grau, ein Grau das Tiefe hat, das nach unten geht, Schicht für Schicht; das Licht dringt nicht hindurch. Alles in dieser Stadt scheint aus einem einzigen Farbton zu bestehen, aus einem Geruch, den ich nicht kenne, aus Farnen, die mich kennen.
 
@@ -193,6 +193,8 @@ Ich streiche den letzten Satz nicht durch. Aber ich schreibe auch nicht mehr daz
 
 
 Ich schlafe nicht.
+
+Abends ist die Sonne weg. Der Dunst, der tagsüber dünn genug war für Licht, für dampfenden Stein, für blasse Schatten — verdichtet sich, fällt auf die Stadt wie ein Tuch. Das Fenster beschlägt von außen.
 
 Das Bett ist schmal. Das Laken riecht nach Lauge, nach der Kälte die in Stoff kriecht, wenn er zu lange in einem Schrank lag den niemand öffnet. Ich liege auf der linken Seite, der einzigen Seite, der Körper sucht die Mulde die es nicht gibt, weil dieses Bett mich nicht kennt. Durch die Wand: das Meer. Nicht laut — ein Summen, ein Atem, der nicht aufhört, der die Mauern durchdringt, sich in den Knochen des Hauses festsetzt. Der Nebel drückt gegen das Fenster, dünne Tropfen sammeln sich am Glas, laufen herunter, langsam, das Geräusch der Tropfen kleiner als Stille.
 
