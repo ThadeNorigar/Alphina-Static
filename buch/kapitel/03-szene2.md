@@ -10,7 +10,7 @@ An den Nebentischen lief das übliche Gespräch. Federstahlpreise. Gildepolitik.
 
 Der Mann kam durch die Tür, als die Gildeuhr sieben schlug.
 
-Groß. Das war das Erste. Größer als die meisten Männer in Karst. Er duckte sich unter dem Türbalken, und die Bewegung war geübt, als täte er das oft, als wäre die Welt für ihn eine Handbreit zu niedrig. Schmale Schultern für seine Größe. Reisemantel, dunkel, nass vom Novemberregen. Er schüttelte ihn nicht ab. Setzte sich an Vespers Tisch — der einzige mit einem freien Platz — und bestellte Bier, ohne die Karte zu lesen.
+Groß. Das war das Erste. Größer als die meisten Männer in Karst. Er duckte sich unter dem Türbalken, und die Bewegung war geübt, als täte er das oft, als wäre die Welt für ihn eine Handbreit zu niedrig. Schmale Schultern für seine Größe. Reisemantel, dunkel, nass vom Märzregen. Er schüttelte ihn nicht ab. Setzte sich an Vespers Tisch — der einzige mit einem freien Platz — und bestellte Bier, ohne die Karte zu lesen.
 
 "Reisender?", fragte Vesper.
 
@@ -84,13 +84,13 @@ Vesper hielt den Blick. Er kannte Blicke. Das Schachbrett hatte ihn gelehrt Blic
 
 "Nein", sagte der Mann. Leise. "Es gibt keinen Fehler."
 
-Dann schaute er weg. Bestellte Bier. Das Gespräch driftete — Wetter, Straßen, Kutschpreise im November. Beiläufig, gelöst, als hätte die Standuhr ihn nie interessiert. Er erzählte von der Grauküste, vom Nebel der von See kam und den sie Vaeler Atem nannten. Vier Tage mit der Kutsche, sagte er. Halbinsel, drei Seiten Wasser. Seine Stimme war warm. Sein Lachen kam leicht.
+Dann schaute er weg. Bestellte Bier. Das Gespräch driftete — Wetter, Straßen, Kutschpreise im Frühjahr. Beiläufig, gelöst, als hätte die Standuhr ihn nie interessiert. Er erzählte von der Grauküste, vom Nebel der von See kam und den sie Vaeler Atem nannten. Vier Tage mit der Kutsche, sagte er. Halbinsel, drei Seiten Wasser. Seine Stimme war warm. Sein Lachen kam leicht.
 
 Vesper hörte zu. Seine Hände lagen auf dem Tisch. Ruhig. In seinem Kopf lief die Zahl, wie ein Pendel das nicht aufhörte.
 
 Der Mann stand auf. Zog seinen Mantel an. Groß, unter dem niedrigen Balken, die schmalen Schultern, der nasse Stoff. "Gute Nacht." Er nickte Vesper zu. Ein Nicken das eine Sekunde zu lang dauerte.
 
-Die Tür fiel zu. Novemberwind blies Regen in den Schankraum, einen Atemzug lang. Dann war die Tür dicht und der Raum warm und laut und der Platz gegenüber leer.
+Die Tür fiel zu. Märzwind blies Regen in den Schankraum, einen Atemzug lang. Dann war die Tür dicht und der Raum warm und laut und der Platz gegenüber leer.
 
 Vesper saß. Sein Bier war halb voll. Er trank es nicht.
 

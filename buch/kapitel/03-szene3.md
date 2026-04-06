@@ -92,7 +92,7 @@ Die Werkstatt war still. Sechsundzwanzig Uhren zeigten 4:33 und keine von ihnen 
 
 Er drehte sich nicht um.
 
-Draußen war Karst still und kalt. Die Laternen brannten auf dem Gildenplatz, gelb auf nassem Stein. Novemberluft — Rauch, Frost, der ferne Geruch von Metall, der nie ganz verschwand. Sein Atem war weiß.
+Draußen war Karst still und kalt. Die Laternen brannten auf dem Gildenplatz, gelb auf nassem Stein. Märzluft — Rauch, Frost, der ferne Geruch von Metall, der nie ganz verschwand. Sein Atem war weiß.
 
 Er schloss die Tür. Der Schlüssel drehte sich im Schloss. Ein sauberes Klicken. Der einzige Mechanismus der noch funktionierte.
 

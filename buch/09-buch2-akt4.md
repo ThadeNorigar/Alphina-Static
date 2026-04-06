@@ -56,7 +56,7 @@ Elke gräbt. Unter dem Garten: eine Höhle, die es vorher nicht gab. Der Boden h
 
 Varen schickt einen Boten — ein gebundenes Wesen, klein, unterwürfig, mit einer Nachricht in verdrehtem Thalassisch. "Treffen. Neutral. Allein." Elke übersetzt. Alphina geht. Nicht allein — Vesper hinter ihr, unsichtbar, drei Züge voraus.
 
-Varen: aufrecht, charmant, erholt. Groß, muskulös, gut genährt, in Form — breiter als bei der ersten Begegnung. Graue Schläfen, purpurne Augen die mustern ohne zu blinzeln. Aus allen Fraktionen ausgestoßen, ein Forscher mit einer Handvoll Deserteure. Er hat Sorels Resonanz studiert — die Resonanz die er aus ihm gerissen hat. Er hat die Wahrheit entdeckt: "Die Welten waren einmal eine. Das Tor ist die Narbe. Eure Resonanz ist der Beweis — die Energie der Verbindung." Sein Ziel: WIEDERVEREINIGUNG. Richtiges Ziel, falsche Methode.
+Varen: aufrecht, charmant, erholt. Groß, muskulös, gut genährt, in Form — breiter als bei der ersten Begegnung. Graue Schläfen, purpurne Augen die mustern ohne zu blinzeln. Aus allen Fraktionen ausgestoßen, ein Forscher mit einer Handvoll Deserteure. Er hat Sorels Resonanz studiert — die Resonanz die er aus ihm gerissen hat. Er hat die Wahrheit entdeckt: "Die Welten waren einmal eine. Das Portal ist die Narbe. Eure Resonanz ist der Beweis — die Energie der Verbindung." Sein Ziel: WIEDERGUTMACHUNG. Er hat vor Jahren drei Reservoir-Quellen durch ein fehlgeschlagenes Leyline-Überlastungsexperiment zerstört — eine Kettenreaktion die den Krieg ausgelöst hat. Niemand weiß es. Er braucht thalassische Resonanz als externen Anstoß, um die toten Quellen zu regenerieren — weil Moragh-Magie AUS den Quellen kommt und sie nicht selbst füllen kann. Richtiges Ziel, falsche Methode.
 
 Sein Angebot: Information gegen Information. Er weiß wie Resonanz funktioniert — warum sie kostenlos ist für den Träger, warum die Welten zusammengehören. Im Gegenzug: Alphina zeigt ihm ihre Resonanz. Kontrolliert. Messbar. Er will nicht angreifen. Er will begreifen.
 
@@ -76,7 +76,7 @@ Runa nimmt die Presse mit. Die thalassische Presse in Moragh-Metall. Sie wiegt s
 
 Alle zusammen. Elkes Garten — der Garten auf dem porösen Stein, dem sterbenden Fundament. Vesper legt die Daten vor. Maren berichtet vom Wasserweg. Runa erzählt von der Thar. Elke zeigt den Boden. Alphina hört zu.
 
-Die Fakten: Moragh stirbt. Aber nicht wegen der Thalassier — wegen dem Krieg. Generationen von Übernutzung durch die eigenen Fraktionen. Vespers Daten zeigen den Schwund überall, gleichmäßig, flächendeckend. Die Fraktionen geben den Thalassiern die Schuld, weil es einfacher ist. Varen BEHAUPTET dasselbe — Thalassier als Leck, als Parasit. Aber Vespers Zahlen widerlegen ihn: der Schwund war schon da, lange bevor die Fünf durchgegangen sind. Gehen löst das Problem nicht. Bleiben verschlimmert es nicht.
+Die Fakten: Moragh stirbt. Aber nicht wegen der Thalassier — wegen dem Krieg. Generationen von Übernutzung durch die eigenen Fraktionen. Vespers Daten zeigen den Schwund überall, gleichmäßig, flächendeckend. Die Fraktionen geben den Thalassiern die Schuld, weil es einfacher ist. Varen verschweigt seine eigene Schuld — sein Leyline-Experiment hat drei Quellen zerstört und den Krieg ausgelöst. Er gibt den Thalassiern die Schuld, um seine Wiedergutmachung zu rechtfertigen. Aber Vespers Zahlen zeigen: der Schwund war schon da, lange bevor die Fünf durchgegangen sind. Gehen löst das Problem nicht. Bleiben verschlimmert es nicht.
 
 Alphinas Frage — die einzige die zählt: "Was können wir tun, das hilft?"
 
@@ -145,6 +145,6 @@ Letzte Zeile: Zwei Monde am Himmel. Die Luft schmeckt nach etwas das sie jetzt k
 | Kaels leerer Stuhl (Akt III) | Kap 36 — Runa zerstört ihn. Wählt sich selbst |
 | 4:33 in Moraghs Struktur (Akt I) | Kap 38 — Die Frequenz der Anomalie. Die dünne Zeitlinie schwingt in 4:33 |
 | Vespers Zeitlinien (Akt III) | Kap 33/38 — Die eine Linie die beides erlaubt. Dünn, fragil, möglich |
-| Varen als Forscher (Akt III) | Kap 35 — Sein Deal. Information gegen Information. Kein Kampf, kein Sieg |
+| Varen als Forscher (Akt III) | Kap 35 — Sein Deal. Wiedergutmachung für die zerstörten Quellen. Information gegen Information |
 | "Hier bist du mehr" (Akt I) | Kap 40 — Runa ist am meisten sie selbst: Druckerin. Nicht Quelle, nicht Waffe |
 | Alphina bindet sich die Hände (Akt III) | Kap 39 — Sie bindet sich nicht mehr. Sie wählt. Offene Hände, offene Erde, moralische Grenze statt physischer |

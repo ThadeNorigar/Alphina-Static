@@ -46,14 +46,14 @@ Stadtstaaten. Sorel kommt aus **Nachtholm** — in eine Schlucht gebaut, die unt
 Halbinsel ins Graue Meer. Fluss **Grauwe** mündet hier — langsam, trüb, fließt manchmal rückwärts. Das stimmt.
 
 - **Einwohner:** ca. 70.000
-- **Gegründet:** Offiziell vor 800 Jahren. Die Tunnel darunter sind älter.
+- **Gegründet:** Offiziell vor 800 Jahren. Der Steinkreis im Botanischen Garten ist älter.
 - **Klima:** 190 Nebeltage/Jahr. Der Nebel heißt **Vaeler Atem.**
 
 ### Warum Vael seltsam ist
 
-Das Tor unter der Stadt leckt. Magie aus Moragh sickert durch, auch wenn das Tor geschlossen ist. Der Vaeler Atem ist buchstäblich Moragh-Luft. Die Grauwe fließt rückwärts, weil Wasser auf die Magie reagiert. Die Pflanzen im Garten wachsen, weil die Grenze dort am dünnsten ist. Die Einheimischen merken es nicht — sie leben seit Generationen damit.
+Die Schwelle zwischen den Welten leckt — am Steinkreis im Botanischen Garten, wo die Grenze am dünnsten ist. Magie aus Moragh sickert durch. Der Vaeler Atem ist buchstäblich Moragh-Luft. Die Grauwe fließt rückwärts, weil Wasser auf die Magie reagiert. Die Pflanzen im Garten wachsen, weil sie am nächsten an der Schwelle stehen. Die Einheimischen merken es nicht — sie leben seit Generationen damit.
 
-Wenn das Tor sich öffnet, werden die Lecks stärker. Nebel dreimal die Woche. Die Grauwe fließt öfter rückwärts. Pflanzen wachsen schneller. Und dann kommen die Dämonen.
+Wenn die Schwelle aktiver wird, werden die Lecks stärker. Nebel dreimal die Woche. Die Grauwe fließt öfter rückwärts. Pflanzen wachsen schneller. Und dann kommen die Dämonen.
 
 ### Die Stadt — drei Schichten
 
@@ -61,15 +61,15 @@ Wenn das Tor sich öffnet, werden die Lecks stärker. Nebel dreimal die Woche. D
 
 **Zwischenstadt** — Keller die zu tief sind. Türen die in Räume führen, die auf keinem Grundriss stehen. Der zugemauerte Kanal, in dem man nachts Wasser hört.
 
-**Unterstadt** — Tunnelsystem aus schwarzem Basalt mit schimmernden Einschlüssen. Älter als alles Datierbare. Gewunden, als wären sie gewachsen. Wärmer als es sein sollte. Am tiefsten Punkt: das Tor.
+**Unterstadt** — Keller die noch tiefer gehen. Gewunden, als wären sie gewachsen. Wärmer als es sein sollte. Purpurstein-Adern durchziehen den Fels — dieselbe Substanz wie der Steinkreis oben im Garten.
 
 ### Orte
 
-**Der Botanische Garten** — Elke van der Holt hat vor 400 Jahren den Klippenrand bearbeitet — Bildhauerin, ihr Werkstück war der Purpurstein. Wo sie den Fels öffnete, wuchsen Pflanzen aus dem Stein. Spätere Generationen nannten es "Garten." Die Grenze zu Moragh ist hier am dünnsten. Nachts bewegen sich Pflanzen.
+**Der Botanische Garten** — Elke van der Holt hat vor 400 Jahren den Klippenrand bearbeitet — Bildhauerin, ihr Werkstück war der Purpurstein. Wo sie den Fels öffnete, wuchsen Pflanzen aus dem Stein. Spätere Generationen nannten es "Garten." In der Mitte: ein **Steinkreis** aus Purpurstein, schon immer da, niemand weiß woher. Pflanzen wachsen um den Kreis herum, nie hinein. Die Grenze zu Moragh ist hier am dünnsten. Nachts bewegen sich Pflanzen. Das Portal öffnet sich hier — oberirdisch, per Ritual, braucht vier Resonanzen gleichzeitig. Einweg. Bleibt 4:33 offen.
 
 **Das Tidemoor-Haus** — Herrenhaus am Grauwe-Ufer. Standuhr die 4:33 pro Tag verliert. Mechanisch perfekt.
 
-**Die Werft Brandt** — Klaus Brandt, tot (natürliche Ursachen, alt, allein). Hinterlassen an Maren — nur die Werft und das halbfertige Boot. Kein Umschlag, keine Karte, keine Warnung. Maren entdeckt die Tunnel selbst.
+**Die Werft Brandt** — Klaus Brandt, tot (natürliche Ursachen, alt, allein). Hinterlassen an Maren — nur die Werft und das halbfertige Boot. Kein Umschlag, keine Karte, keine Warnung.
 
 **Das Lichthaus** — Speichergebäude am Hafen. Sorels Dunkelkammer im Keller.
 
@@ -79,23 +79,31 @@ Wenn das Tor sich öffnet, werden die Lecks stärker. Nebel dreimal die Woche. D
 
 ---
 
-## Das Tor
+## Das Portal
 
 ### Physisch
 
-Zwei Pfeiler aus schwarzem Basalt, ein Bogen, Zeichen die niemand in Thalassien lesen kann. Steht im tiefsten Punkt der Tunnel unter Vael. Das Tor existiert auf beiden Seiten — in Thalassien sieht es aus wie uralter Stein, in Moragh wie ein Arbeitsgerät, gewartet, beschriftet, funktional.
+Der **Steinkreis** im Botanischen Garten — Purpurstein, kreisförmig, schon immer da. Pflanzen wachsen um den Kreis herum, nie hinein. In Moragh existiert ein Gegenstück — ein Steinplatz, gewartet, beschriftet, funktional.
 
 ### Wie es funktioniert
 
-Das Tor wird von der Moragh-Seite kontrolliert. Es kann geöffnet und geschlossen werden — durch Magie, durch einen Beschwörer der mächtig genug ist. Wenn es offen ist, kann man durchgehen. In beide Richtungen.
+**Ritual-Portal.** Braucht vier Resonanzen gleichzeitig im Steinkreis: Pflanze (Alphina), Licht (Sorel), Zeit (Vesper), Wasser (Maren). Einweg — wer durchgeht, kommt nur zurück wenn das Ritual auf der anderen Seite wiederholt wird. **Bleibt 4:33 offen,** dann schließt es sich.
 
-Die Zeit läuft unterschiedlich. **1 Moragh-Jahr = 400 Thalassien-Jahre.** Das Verhältnis ist stabil. Elke ging vor ~200 Thalassien-Jahren durch = vor ~6 Moragh-Monaten. Die gesamte Trilogie (*Der Riss / Das Auge / Die Naht*) auf Moragh-Seite dauert ~1 Jahr.
+Varen hat per Daemon eine Anleitung in Moragh-Sprache hinterlegt — Papier mit Zeichnung des Steinkreises, Ritual-Anweisungen, Symbole. Zusätzlich ein Moragh-Sprachbuch in der Bibliothek. Beides von Jara gefunden. Das Ritual-Papier trägt Fingerabdrücke die nicht von Menschen stammen — zu viele Gelenke, Linien die sich gabeln wo menschliche nicht gabeln. Niemand hat den Daemon gesehen.
+
+**DIE FALLE:** Mit Sorels Tod fehlt eine der vier Resonanzen. Das Ritual kann nie wieder ausgeführt werden. Der Rückweg ist Mathematik, nicht Magie. Drei reichen nicht.
+
+Die Zeit läuft unterschiedlich. **1 Moragh-Jahr = 400 Thalassien-Jahre.** Das Verhältnis ist stabil. Elke ging vor ~200 Thalassien-Jahren durch = vor ~6 Moragh-Monaten. Die gesamte Trilogie (*Der Riss / Das Auge / Die Naht*) auf Moragh-Seite dauert ~1 Jahr. **Für die Rückkehr nach Vael (Buch 3) bedeutet das: Jahrhunderte sind vergangen. Alles Bekannte ist weg. Alle Kontakte, weg. Die Stadt die sie kannten existiert nicht mehr.**
 
 ### Warum es Resonanz-Begabte anzieht
 
-Das offene Tor strahlt aus. Magie-Lecks, die in Thalassien wie Anomalien wirken — und die Menschen mit Resonanz anziehen. Resonanz ist ein Sinn, den die meisten Thalassier nicht haben. Die wenigen, die ihn haben, spüren das offene Tor wie einen Magneten.
+Die Schwelle am Steinkreis strahlt aus. Magie-Lecks, die in Thalassien wie Anomalien wirken — und die Menschen mit Resonanz anziehen. Resonanz ist ein Sinn, den die meisten Thalassier nicht haben. Die wenigen, die ihn haben, spüren die Schwelle wie einen Magneten.
 
-**Keine orchestrierten Köder.** Das Tor zieht an — subtil, über Monate. Alphinas Pflanzen zeigen nach Norden. Sorel findet zufällig eine Glasplatte aus Vael. Vesper hört in einem Gasthaus von einer Uhr die falsch geht. Maren erbt eine Werft. Jeder kommt aus eigenem Antrieb, gezogen von etwas das sie nicht benennen können. Varen hat das Tor geöffnet und das Manuskript platziert — aber die Vier hat er nicht gerufen. Das Tor hat sie gerufen.
+**Keine orchestrierten Köder.** Die Schwelle zieht an — subtil, über Monate. Alphinas Pflanzen zeigen nach Norden. Sorel findet zufällig eine Glasplatte aus Vael. Vesper hört in einem Gasthaus von einer Uhr die falsch geht. Maren erbt eine Werft. Jeder kommt aus eigenem Antrieb, gezogen von etwas das sie nicht benennen können. Varen hat die Schwelle aktiviert und das Manuskript platziert — aber die Vier hat er nicht gerufen. Die Schwelle hat sie gerufen.
+
+### Zeugen
+
+**Finn Tade** und **Doktor Halvard** beobachten das Ritual vom Gartenrand. Halvard schreibt einen Bericht — sachlich, präzise, wie ein Arzt. Der einzige schriftliche Beleg. Seriös genug, dass man ihn nicht ignoriert. Verrückt genug, dass man ihn Jahrhunderte lang anzweifelt. Finn bezeugt, sagt aber nie ein Wort dazu.
 
 ---
 
@@ -107,9 +115,45 @@ Eine Welt mit eigenem Himmel, zwei Monden — und einer Sonne die keine ist. Am 
 
 Die Moragh-Menschen nennen es einfach "die Sonne." Sie wissen nicht was es ist. In Buch 3, wenn Thalassien-Wissenschaftler durchkommen, erkennen SIE es: ein Schwarzes Loch. Die Wissenschaftler sind verstört. Die Moragh-Menschen verstehen nicht warum.
 
+### Der Planet
+
+**Schwerkraft: 0.7g.** Moragh ist kleiner als die Erde. Leichtere Körper, höhere Sprünge, dünnere Knochen. Die Luft ist dichter (Atmosphäre reicht bei geringerer Gravitation weiter), Schall trägt weiter — Moragh ist *lauter* als Thalassien. Wolken stehen höher, Stürme sind langsamer aber größer.
+
+**Landmasse:** Ein einzelnes Hochplateau, ca. Europa-groß. Darauf spielt sich die gesamte bekannte Zivilisation ab. Das Plateau ragt 200-400 Meter über den Meeresspiegel. An manchen Stellen Steilklippen — senkrechte Felswände, hunderte Meter tief, das Meer darunter wie ein Abgrund. An anderen Stellen flacher Übergang — Küstenebenen die bei Flut komplett überschwemmt werden, kilometerweit. Beides unbewohnbar.
+
+**Andere Landmassen: unbekannt.** Flug ist nicht erfunden. Schifffahrt ist unmöglich (siehe Gezeiten). Niemand weiß was jenseits des Meeres liegt. Ob überhaupt etwas dort liegt. Erst eine Thalassien-Expedition der Zukunft (Buch 3) könnte das klären — mit Technologie die Moragh nicht hat.
+
+### Die Gezeiten — warum das Meer ein Feind ist
+
+Das Schwarze Loch (~10 Sonnenmassen) erzeugt Gezeitenkräfte die ~5x stärker sind als die des Erdmonds. Dazu kommen zwei Monde. Bei 0.7g ist die Rückstellkraft geringer — Wasser schwingt höher.
+
+| Situation | Tidenhub |
+|---|---|
+| Normal (ein Mond + Schwarzes Loch) | 20-40 Meter |
+| Spring Tide (beide Monde + Schwarzes Loch aligned) | 60-100 Meter |
+| Resonanz-Verstärkung in Buchten/Engstellen | 150 Meter+ |
+
+**Das Meer ist eine Todeszone.** 20-40 Meter Tidenhub bedeutet: die Küste verschwindet alle paar Stunden unter Wasser und taucht wieder auf. Bei Spring Tide (Triple-Alignment, unregelmäßig) steigt das Wasser 60-100 Meter — die flachen Küstenebenen werden zu Meeresboden, die Steilklippen stehen bis zur halben Höhe unter Wasser. Gezeitenströme reißen mit 20+ Knoten. Offener Ozean: permanenter Seegang von 5-9 Metern. Kein Holzschiff, kein Hafen, kein Fischfang.
+
+**Die Moragh-Menschen sind Binnenländer.** Keine Seefahrt, keine Küstenstädte, kein Fischfang. Das Meer existiert als Geräusch am Rand der Welt — das Donnern der Gezeiten, hörbar bis weit ins Landesinnere (dichte Luft, Schall trägt weiter). Kinder lernen: geh nicht zum Rand. Die Küste hat keine Romantik. Sie hat Leichen.
+
+Das Plateau ist alles. Europa-groß, endlich. Das erklärt den Kampf um Reservoir-Quellen — es gibt nicht genug Land um auszuweichen. Expansion ist keine Option. Es gibt nur das was da ist.
+
+### Zivilisation
+
 Die Zivilisation ist alt. Städte aus Material das aussieht wie Stein und sich anfühlt wie Holz und warm ist. Türme die nicht gebaut sondern gewachsen sind. Straßen die sich verändern. Brücken über Flüsse die bergauf fließen.
 
 Die Bewohner: Menschen. Größer als Thalassier, feingliedriger. Helle Haut, dunkle Haare — schwarz, tiefbraun, selten rötlich. Die Augen: dunkle Farben. Purpur, Weinrot, tiefes Violett, Schwarz, Dunkelgrün, Dunkelblau, Braun. Immer dunkel — keine hellen Augen in Moragh. Keine Aliens — Menschen, die anders aussehen. Wie jemand aus einem Land das man nie besucht hat. Sie sprechen eine Sprache die klingt wie altes Thalassisch, verdreht, als hätte jemand dieselbe Sprache 10.000 Jahre in eine andere Richtung entwickelt. Wortfetzen sind verständlich.
+
+### Die Herkunft der Thalassier
+
+**Moragh ist die Ursprungswelt.** Vor 200 Moragh-Jahren (= ~80.000 Thalassien-Jahre) flohen Menschen aus Moragh durch ein Portal nach Thalassien — Kriegsflüchtlinge aus einem früheren Konflikt. Sie kamen ohne Technologie, ohne Magie, und strandeten in einer Welt mit anderer Sonne, anderer Zeitdilatation.
+
+80.000 Jahre Evolution haben sie verändert: kleiner, stämmiger, hellere Haarfarben, andere Augenfarben (hell statt dunkel). **Resonanz statt Magie** — ein verkümmertes Erbe, selten, aber es kostet kein Reservoir. Das können erst Thalassien-Wissenschaftler der Zukunft klären.
+
+Der Krieg der Flüchtlinge ist in Moragh nur 200 Jahre her. Manche erinnern sich. In Thalassien ist er vorgeschichtlich — 80.000 Jahre, keine Aufzeichnung, kein Mythos.
+
+Die Moragh-Sprache und Thalassisch klingen verwandt, weil sie ES SIND — dieselbe Sprache, 80.000 Jahre in unterschiedliche Richtungen entwickelt.
 
 ### Magie in Moragh
 
@@ -134,13 +178,17 @@ Jeder Mensch in Moragh hat ein Reservoir — wie Ausdauer. Trainierbar, füllt s
 
 ### Reservoir-Quellen
 
-Moragh hat **Reservoir-Quellen** — magische Brunnen, endlich, an Geografie gebunden. Natürliche Vorkommen im Boden, vergleichbar mit Erzadern oder Grundwasser. Nicht überall gleich verteilt. Manche Regionen sind reich, manche arm. Städte wachsen um Quellen herum. Die Quellen füllen sich auf — langsam, über Jahrzehnte. Aber Übernutzung erschöpft sie schneller als sie sich regenerieren.
+Moragh hat **Reservoir-Quellen** — Energiepunkte in der Erde, vergleichbar mit Erzadern oder Grundwasser. Natürliche Vorkommen, an Geografie gebunden. Nicht überall gleich verteilt. Manche Regionen sind reich, manche arm.
+
+**Städte entstehen um Quellen herum.** Die Quelle ist das Kraftwerk der Stadt. Moragh-Menschen erholen sich schneller von Magieverbrauch je näher sie an einer Quelle sind — ein Beschwörer der neben einer Quelle schläft ist morgens vollständig erholt. Einer der 100 Kilometer entfernt arbeitet braucht Tage.
+
+Die Quellen füllen sich auf — langsam, über Jahrzehnte. Aber Übernutzung erschöpft sie schneller als sie sich regenerieren. **Drei Quellen sind unwiederbringlich kollabiert** — durch Varens fehlgeschlagenes Leylinien-Experiment vor dem Krieg (siehe "Varens Schuld"). Die Städte auf diesen Quellen verdorrten. Das Gleichgewicht kippte. Der Krieg begann.
 
 ### Moragh im Krieg
 
 Der Krieg dauert **vier Moragh-Jahre** (= ~1600 Thalassien-Jahre). Drei Seiten.
 
-**Der Grund:** Die Thar expandiert um neue Reservoir-Quellen zu erschließen. Ihre Maschinen fressen Magie schneller als natürliche Quellen sich regenerieren. Die Gilden-Städte, die auf den reichsten Quellen sitzen, wehren sich. Die Binder — Ausgestoßene aus allen Fraktionen, in den Grenzlanden — greifen aus Opportunismus an, binden Dämonen und plündern erschöpfte Gebiete.
+**Der Grund:** Drei Reservoir-Quellen sind kollabiert (Varens Experiment — das weiß niemand). Die verbleibenden Quellen reichen nicht für alle. Die Thar expandieren um neue Quellen zu erschließen UND versuchen die verbleibenden Quellen über **Leylinien zu koppeln** — ein Energienetzwerk, Wohlstand für alle, Konglomeratsdenken. Die Idee ist nicht böse — es ist industrielle Logik. Aber wer das Netzwerk kontrolliert, kontrolliert alles. **Und Varen weiß: genau diese Idee hat er schon versucht. Sie scheitert katastrophal.** Die Gilden-Städte, die auf den reichsten verbliebenen Quellen sitzen, wehren sich — teils aus Tradition, teils aus Machterhalt. Die Binder — Ausgestoßene aus allen Fraktionen, in den Grenzlanden — greifen aus Opportunismus an, binden Dämonen und plündern erschöpfte Gebiete.
 
 **Die Fronten:** Hunderte Kilometer umkämpftes Land. Kein klarer Sieger, aber die Thar gewinnt langsam — technische Überlegenheit frisst Gilden-Verteidigung auf.
 
@@ -148,13 +196,13 @@ Der Krieg dauert **vier Moragh-Jahre** (= ~1600 Thalassien-Jahre). Drei Seiten.
 - Die **Thar** rücken mit Magitech-Bestien vor — Fabelwesen aus Magie und Metall, raubtierähnlich, glühende Augen, Klauen. Ein Reiter pro Bestie. Je nach Resonanz andere Gestalt: **Lohen** (Feuer-Panther, Flammenwerfer-Maul), **Ramme** (Dampf-Bullen, 40 Tonnen, gepanzert wie Kataphrakte), **Zacker** (Elektrik-Wölfe, Blitzstöße, Kampfläufer), **Gründe** (Stein-Schildkröten, Belagerung), **Feger** (Wind-Falken, 30m-Sprünge), **Fluter** (Wasser-Schlangen, amphibisch). Die Reiter sind die Elite: schwarze Rüstung, geschlossene Helme, ~500 in der ganzen Armee. Dahinter: Infanterie mit Druck-Gewehren und Hitze-Klingen. Durchorganisiert, diszipliniert, skrupellos. Absolute Gleichberechtigung — seit Generationen. Siehe `buch/18-thar-magitech.md` für Details.
 - Die **Binder** operieren als Guerilla-Stoßtrupps aus den Grenzlanden — gebundene Dämonen als Waffe, schnell, brutal, mobil.
 
-**Die Reservoir-Quellen sind erschöpft WEGEN DEM KRIEG.** Vier Jahre militärische Magie auf allen Seiten haben die Quellen schneller geleert als sie sich regenerieren. Die Fraktionen behaupten die Thalassier seien schuld — bequemer Sündenbock, einfache Erklärung. Vespers Daten zeigen: der Schwund war schon vor Ankunft der Fünf da.
+**Die Reservoir-Quellen sind erschöpft aus ZWEI Gründen:** Erstens Varens Experiment (drei Quellen unwiederbringlich zerstört — das weiß niemand außer ihm). Zweitens vier Jahre militärische Magie auf allen Seiten, die die verbliebenen Quellen schneller leert als sie sich regenerieren. Die Fraktionen behaupten die Thalassier seien schuld — bequemer Sündenbock, einfache Erklärung. Vespers Daten zeigen: der Schwund war schon vor Ankunft der Fünf da. Und er reicht weiter zurück als der Krieg.
 
 Alle drei Fraktionen versuchen, die Resonanz-Begabten auf ihre Seite zu ziehen: mit Ehrlichkeit, mit List, mit Heimtücke.
 
 ### Was Moragh über Thalassien weiß
 
-Sie wissen dass das Tor existiert. Sie wissen dass dahinter eine Welt ohne Magie liegt. Sie nennen die Thalassier **"die Tauben"** — die, die nicht hören können. Manche bedauern sie. Manche verachten sie. Manche fürchten sie — denn die Tauben, wenn sie durchkommen, haben eine Resonanz die in Moragh zur Naturgewalt wird. Und sie kostet nichts. Alle drei Fraktionen wissen das. Alle drei wollen es nutzen.
+Sie wissen dass das Portal existiert. Sie wissen dass vor 200 Jahren Flüchtlinge durchgegangen sind. Sie nennen die Thalassier **"die Tauben"** — die, die nicht hören können. Nachkommen der Flüchtlinge, 80.000 Thalassien-Jahre später. Manche bedauern sie. Manche verachten sie. Manche fürchten sie — denn die Tauben, wenn sie durchkommen, haben eine Resonanz die in Moragh zur Naturgewalt wird. Und sie kostet nichts. Ein verkümmertes Erbe das sich in etwas Neues verwandelt hat. Alle drei Fraktionen wissen das. Alle drei wollen es nutzen.
 
 ---
 
@@ -179,7 +227,7 @@ In Moragh: eine Naturgewalt. Alphina hebt die Hand und ein Wald wächst. In Minu
 | Sorel | Bilder/Licht | Sein Gesicht auf einer Platte | Bilder erscheinen in der Luft, werden real |
 | Vesper | Muster/Zeit | Uhr verliert 4:33, Bauerndiagonale | Sieht die Struktur von allem, liest Zeit |
 | Maren | Wasser | Gezeiten reagieren, Meer antwortet | Wasser gehorcht, formt sich, trägt |
-| Elke | Erde/Stein | Pochen im Boden, warme Erde | Stein formen, Tunnel finden, Beben spüren |
+| Elke | Erde/Stein | Pochen im Boden, warme Erde | Stein formen, Hohlräume spüren, Beben fühlen |
 | Runa | Feuer/Hitze | Metall schmilzt leichter, Hände immer warm | Feuer kontrollieren, Metall formen, Schmelzen |
 
 ---
@@ -259,7 +307,7 @@ Vesper dominiert durch Geduld. Maren unterwirft sich als Akt des Mutes. Er nimmt
 ### Runa Kvist — Druckerin
 Betreibt die Druckerei in der Oberstadt. Heißes Metall, Bleilettern, Schmelztiegel. Intellektuell, direkt, lacht zu laut für Vael. Alphina kauft Papier bei ihr — daraus werden Gespräche, daraus Freundschaft. Runa hat eine Nase für Geheimnisse und kein Talent die Finger davon zu lassen. Hände immer warm, Metall schmilzt unter ihren Fingern leichter als es sollte. **Schwache, unerkannte Resonanz: Feuer/Hitze.** Hält es für Handwerksgeschick.
 
-**Buch 1:** Nebencharakter. Druckt Flugblätter über die Risse. Stellt unbequeme Fragen. Folgt den Vier in die Tunnel, geht durch das Tor bevor es schließt.
+**Buch 1:** Nebencharakter. Druckt Flugblätter über die Risse. Stellt unbequeme Fragen. Versteckt sich im Botanischen Garten, schlüpft durch das Portal in den letzten Sekunden der 4:33.
 **Buch 2:** Alphinas Affäre in Moragh. Einziger Mensch ohne bewusste Magie in einer Welt die aus Magie besteht. Ihre Feuer-Resonanz macht sie für die Thar interessant.
 
 ### Finn Tade — Fischer
@@ -269,7 +317,7 @@ Alt, schweigsam, Gesicht wie Treibholz. Fischt seit fünfzig Jahren auf der Grau
 Esther Voss' Nichte. Zwanzig, still, ordnet Dokumente. Sieht alles, sagt wenig. Sie findet das Manuskript — nicht Esther. Hat es gelesen, bevor sie es weitergibt. Weiß mehr als sie sagt.
 
 ### Thies Brandt — Bootsbauer-Geselle
-Klaus Brandts Lehrling. Dreißig, ruhige Hände. Arbeitet an der Werft weiter, obwohl Klaus tot ist. Zeigt Maren die Werft, erklärt das Boot. Weiß NICHT von den Tunneln. Aber weiß, dass Klaus nachts in den Keller ging. "Hat nie gesagt warum."
+Klaus Brandts Lehrling. Dreißig, ruhige Hände. Arbeitet an der Werft weiter, obwohl Klaus tot ist. Zeigt Maren die Werft, erklärt das Boot. Weiß, dass Klaus nachts in den Garten ging. "Hat nie gesagt warum."
 
 ### Doktor Halvard — Stadtarzt
 Behandelt die Fischer die vom Wasser krank werden. Seit dem Nebel häufiger. Rationalist — alles hat eine Erklärung. Bis es keine mehr hat. Vesper trinkt mit ihm. Halvard behandelt Verbrennungen die keine Hitzequelle haben, Frostbeulen im Sommer, Knochenbrüche ohne Sturz.
@@ -291,7 +339,9 @@ Traditionelle Magie. Wesen rufen im Gleichgewicht — rufen und zurückschicken.
 Magie als Macht. Wesen BINDEN statt rufen. Dämonen als Armee. Eine Fraktion die aus den Gilden ausgestoßen wurde, geführt von einzelnen mächtigen Beschwörern. Operieren aus den Grenzlanden — Guerilla, Stoßtrupps, gebundene Dämonen. Varen war bei ihnen, ist aber auch von den Bindern ausgestoßen. Die Binder-Fraktion als Ganzes ist größer und gefährlicher als er allein. Wollen die Resonanz-Begabten **studieren und replizieren** — kostenlose Magie.
 
 ### Das Konglomerat der Thar (kurz: die Thar)
-Magie als Ingenieurwesen. Keine Wesen — reine Kraft. Menschen die **Druck, Metall, Feuer** manipulieren. Ihre Magie fließt durch Maschinen: Pressen, Schmieden, Öfen die mit Magie statt Kohle laufen. Ihre Stadt ist laut, heiß, voller Rauch. Verachten die Beschwörer ("Wer Wesen braucht, versteht die Materie nicht"). Misstrauen den Gilden. Expandieren aggressiv um neue Reservoir-Quellen zu erschließen — DAS ist der Hauptgrund für den Krieg.
+Magie als Ingenieurwesen. Keine Wesen — reine Kraft. Menschen die **Druck, Metall, Feuer** manipulieren. Ihre Magie fließt durch Maschinen: Pressen, Schmieden, Öfen die mit Magie statt Kohle laufen. Ihre Stadt ist laut, heiß, voller Rauch. Verachten die Beschwörer ("Wer Wesen braucht, versteht die Materie nicht"). Misstrauen den Gilden. Expandieren aggressiv um neue Reservoir-Quellen zu erschließen.
+
+**Das Leylinien-Netzwerk:** Die Thar HABEN die Reservoir-Quellen bereits über Leylinien gekoppelt — ein funktionierendes Energienetzwerk. Die Kopplung funktioniert. Wohlstand für alle. Konglomeratsdenken: Magie demokratisieren, nicht horten. Die Idee ist rational, progressiv, nachvollziehbar. **Das Problem:** Je mehr Quellen im Netzwerk hängen, desto verheerender eine Kettenreaktion durch Fernüberladung. Varen hat die Überladung versehentlich entdeckt und drei Quellen zerstört. Die Thar wissen das nicht. Aber irgendwann wird jemand im Netzwerk dasselbe entdecken — und dann ist es eine WAFFE. Eine einzige Überladung im vernetzten System könnte ALLE verbundenen Quellen gleichzeitig zerstören. Varen kann sie nicht warnen ohne sich als Verursacher des Krieges zu verraten.
 
 **Thar-Bestien (Magitech Walker):** 8-12 Meter hoch, aus Moragh-Stahl. 3-Mann-Besatzung: Pilot (Druck), Schütze (Feuer/Hitze), Navigator (Muster). Reservoir-Kern als Batterie, 6-8 Stunden Einsatz. Waffen: Hitzestrahlen, Druckwellen, geschmolzene Metallprojektile. Die stärkste Waffe im Krieg. Nyr pilotiert eine.
 
@@ -308,31 +358,49 @@ Gilden, Binder, Thar. Jeder will die Drei. Elke misstraut allen dreien. Die Frag
 
 **Name: Varen.** Moragh-geboren. Groß, muskulös, graue Schläfen, schwarzes Haar. Augen: tiefes Purpur. Attraktiv. Charmant — nicht gespielt, echt. Das macht ihn gefährlicher.
 
-**Unabhängig. Aus ALLEN Fraktionen ausgestoßen.** Forscher, kein Soldat. War bei den Gilden — zu radikal. War bei den Bindern — zu eigenständig. War bei der Thar — zu philosophisch. Keine Fraktion will ihn. Alle fürchten ihn. Er handelt auf eigene Faust, mit einem Handvoll Deserteuren die ihm folgen.
+**Unabhängig. Aus ALLEN Fraktionen ausgestoßen.** Forscher, kein Soldat. War bei den Gilden — sein Experiment hat den Krieg ausgelöst (siehe "Varens Schuld"). War bei den Bindern — zu eigenständig. War bei der Thar — zu gefährlich (sie ahnen dass er mehr weiß als er sagt). Keine Fraktion will ihn. Alle fürchten ihn. Er handelt auf eigene Faust, mit einem Handvoll Deserteuren die ihm folgen.
 
 **Mächtig. GUT GENÄHRT. In Form.** Nicht ausgemergelt, nicht am Ende. Das Tor zu öffnen hat ihn Monate gekostet, aber er hat sich ERHOLT. Großes Reservoir, jahrelange Erfahrung. Seine Magie kostet ihn (er ist Moragh-geboren) — Müdigkeit nach dem Kampf, ja. Aber er hat Reserven.
 
 **Spricht Thalassisch** — flüssig, mit Akzent. Hat Elke vor 6 Moragh-Monaten getroffen. Sie haben Wochen zusammen verbracht — Faszination, intellektuelle Anziehung, Forschungspartnerschaft. Elke hat ihm Thalassisch beigebracht. Dann hat sie ihn verlassen: "Du willst die Welt reparieren und wirst Menschen zerbrechen dabei." Varen hat weitergemacht. Allein.
 
-### Was er entdeckt hat
+### Varens Schuld
 
-**DIE WAHRHEIT:** Die Welten waren einmal eine. Das Tor ist die Narbe einer uralten Spaltung. Resonanz ist der Beweis — die Energie der Verbindung, die Spannung an der Naht. Deshalb kostet sie Thalassier nichts: ihre Körper erinnern sich an die eine Welt.
+**VOR DEM KRIEG:** Varen war Gilden-Forscher. Brilliant, ehrgeizig. Er forschte an den Leylinien — nicht an der Kopplung (die funktioniert, die Thar beweisen es), sondern an der KAPAZITÄT. Er wollte wissen wie viel Energie eine Quelle aufnehmen kann. Die Antwort: nicht unbegrenzt. Er hat eine Quelle fernüberlastet — zu viel Druck über eine Leylinie hineingedrückt. Die Quelle kollabierte. Kettenreaktion über natürliche Leylinien-Verbindungen. **Drei Reservoir-Quellen zerstört. Unwiederbringlich.**
+
+Er hat damit die Leylinien-Waffe entdeckt. Und gleichzeitig eingesetzt — versehentlich, aber das Ergebnis ist dasselbe.
+
+Die Städte auf den drei Quellen verdorrten. Menschen starben — nicht sofort, aber über Jahre. Die verbleibenden Quellen wurden knapp. Fraktionen die vorher koexistierten begannen um Ressourcen zu kämpfen. **Der Krieg begann wegen Varen.** Niemand weiß es. Er war allein beim Experiment. Tausende Tote. Und es wird schlimmer.
+
+Die Gilden haben ihn ausgestoßen — nicht wegen des Experiments (das kennen sie nicht), sondern wegen seiner "radikalen Theorien". Dass er den wahren Grund für den Quellen-Kollaps kennt, weiß niemand.
+
+### Was er weiß
+
+**DIE HERKUNFT DER THALASSIER:** Vor 200 Moragh-Jahren (= 80.000 Thalassien-Jahre) flohen Menschen aus Moragh durch ein Portal nach Thalassien — Kriegsflüchtlinge, ohne Technologie, ohne Magie. Gestrandet in einer Welt mit anderer Sonne, anderer Zeitdilatation. 80.000 Jahre Evolution: kleiner, stämmiger, hellere Haare, andere Augenfarbe. Resonanz statt Magie — ein verkümmertes Erbe, selten, aber es kostet nichts weil es kein Reservoir braucht.
+
+**DIE LEYLINIEN ALS WAFFE:** Die Thar haben die Quellen bereits erfolgreich gekoppelt — ihr Netzwerk funktioniert. Aber Varen weiß: was er versehentlich entdeckt hat — die Fernüberladung — kann JEDER entdecken der das Netzwerk studiert. Je mehr Quellen die Thar verbinden, desto verheerender wird eine Kettenreaktion. Das Thar-Netzwerk ist nicht nur ein Kraftwerk. Es ist eine Bombe die noch keiner gezündet hat. **Varen hasst die Thar** weil sie die Infrastruktur für eine Waffe bauen die er erfunden hat.
+
+**THALASSISCHE RESONANZ ALS STARTHILFE:** Die kollabierten Quellen sind nicht leer — sie sind tot. Kollabiert, versiegelt, wie eine tote Batterie. Moragh-Magie kann sie nicht wiederbeleben weil Moragh-Magie AUS den Quellen kommt. Man kann einen trockenen Brunnen nicht füllen indem man Wasser aus dem Nachbarbrunnen pumpt. Das System ist geschlossen. Thalassische Resonanz ist EXTERN — sie kostet kein Reservoir, sie kommt von außerhalb des Systems. Sie ist die einzige Energie die man in eine tote Quelle drücken kann ohne eine andere zu belasten. **Varen braucht die Thalassier als Starthilfe für die Quellen die er zerstört hat.**
 
 ### Was er will
 
-**WIEDERVEREINIGUNG.** Die Welten wieder zusammenführen. Den Krieg beenden, die Reservoir-Quellen heilen, Moragh retten. Richtiges Ziel, falsche Methode.
+**WIEDERGUTMACHUNG.** Nicht die Welt retten — seinen Fehler reparieren. Drei tote Quellen wiederbeleben. Den Krieg beenden den er ausgelöst hat. Richtiges Ziel, falsche Methode.
 
-Er hat das Tor geöffnet um Resonanz-Begabte nach Moragh zu bringen — weil sie der Schlüssel zur Wiedervereinigung sind. Will sie STUDIEREN — nicht töten. Lebend, intakt. Wenn er versteht WIE ihre Resonanz die Naht überbrückt, kann er die Welten heilen.
+Er hat das Portal aktiviert um Resonanz-Begabte nach Moragh zu bringen. Will sie STUDIEREN — nicht töten. Lebend, intakt. Er muss verstehen WIE man thalassische Resonanz in eine tote Quelle leitet, ohne sie wieder zu überlasten. Dafür braucht er sie. Dafür braucht er sie ALLE.
+
+**Warum Sorels Tod ihn wirklich trifft:** Nicht nur taktisch — eine von vier externen Energiequellen ist weg. Unwiederbringlich. Vier Resonanzen waren vielleicht genug für drei tote Quellen. Drei Resonanzen? Er weiß es nicht. Und er kann es sich nicht leisten falsch zu rechnen. Nicht nochmal.
+
+**Der Leser-Test:** Wenn du durch einen Fehler einen Krieg ausgelöst hättest — Tausende Tote, eine sterbende Welt — und es gäbe EINE Chance das zu reparieren, indem du Menschen aus einer anderen Welt holst... würdest du es tun? Ja. Natürlich. Was wäre die Alternative — nichts tun und zusehen?
 
 ### Sein Plan
 
-Er hat das Tor geöffnet (das allein hat ihn Monate Erholung gekostet — danach hat er sich vollständig erholt). Er hat das Manuskript im Archiv überschrieben — die echten Aufzeichnungen von 1623 mit falschen Anweisungen ergänzt: "Geht durch. Schließt es von innen." Er hat Dämonen durch das leckende Tor geschickt. Aber die Vier hat er NICHT gerufen. Das Tor zieht Resonanz-Begabte an, von allein. Er wartet nur.
+Er hat die Schwelle aktiviert (das allein hat ihn Monate Erholung gekostet — danach hat er sich vollständig erholt). Er hat das Manuskript im Archiv überschrieben — die echten Aufzeichnungen von 1623 mit falschen Anweisungen ergänzt. Er hat per Daemon die Ritual-Anleitung und das Moragh-Sprachbuch in Vael hinterlegt. Aber die Vier hat er NICHT gerufen. Die Schwelle zieht Resonanz-Begabte an, von allein. Er wartet nur.
 
-**Die Falle:** Die Vier gehen freiwillig durch. Er schließt das Tor hinter ihnen — um sie in Moragh zu halten. Die Fünf zu fangen, nicht zu töten.
+**Die Falle:** Die Vier führen das Ritual aus und kommen freiwillig durch. Sorel stirbt — damit fehlt eine der vier Resonanzen für die Rückkehr. Die Falle ist nicht geplant (Sorels Tod war unbeabsichtigt), aber sie ist endgültig.
 
 ### Vorgeschichte mit Elke
 
-6 Moragh-Monate vor Buch 1 hat Varen Elke gefunden — die einzige Thalassierin in Moragh. Wochen zusammen: er hat geforscht, sie hat geformt, er hat ihre Sprache gelernt. Intellektuelle Faszination auf beiden Seiten. Keine Liebesgeschichte — aber die Intensität eines Forschungspaars das einander braucht. Elke hat ihn durchschaut: "Du willst die Welt reparieren und wirst Menschen zerbrechen dabei." Sie ist gegangen. Varen hat seine Schlüsse gezogen — allein. Er braucht MEHR Resonanz-Begabte. Also öffnet er das Tor.
+6 Moragh-Monate vor Buch 1 hat Varen Elke gefunden — die einzige Thalassierin in Moragh. Wochen zusammen: er hat geforscht, sie hat geformt, er hat ihre Sprache gelernt. Intellektuelle Faszination auf beiden Seiten. Keine Liebesgeschichte — aber die Intensität eines Forschungspaars das einander braucht. Elke hat ihn durchschaut: "Du willst die Welt reparieren und wirst Menschen zerbrechen dabei." Sie wusste nicht wie recht sie hatte — er repariert nicht die Welt, er repariert SEINEN Fehler. Sie ist gegangen. Varen hat seine Schlüsse gezogen — allein. Er braucht MEHR Resonanz-Begabte. Also aktiviert er die Schwelle.
 
 ### Die erste Begegnung (Kap 35)
 
@@ -348,21 +416,27 @@ Sorel bewegt sich. Instinkt. Geht zwischen Varen und Alphina. "Nimm die Hand weg
 
 **Varen tötet Sorel nicht absichtlich — nimmt es aber in Kauf.** Die Bindung war nicht zum Töten gedacht, sondern zum Fixieren. Sorels Resonanz war instabil, sein Körper hat es nicht ausgehalten. Sorel stirbt weil er Alphina vor Varens Berührung schützt. Entscheidung, nicht Pech. Aber auch nicht Mord — Totschlag durch Fahrlässigkeit eines Mannes der sein Ziel über Menschenleben stellt.
 
-Alphinas Explosion: Stille. Dann alles. Wurzeln reißen durch Stein. Ranken peitschen. Dornen groß wie Finger. Tunnel wird Dschungel. Varen wird zurückgedrückt — Wand aus Vegetation. Die eigenen Leute verletzt: Maren (Dornen in Wade), Vesper (Wurzel trifft Schulter), Runa (Brombeeren, Schnitte). Auf Sorels Körper: kleine weiße Blumen.
+Alphinas Explosion: Stille. Dann alles. Wurzeln reißen durch Stein. Ranken peitschen. Dornen groß wie Finger. Der Moragh-Steinplatz wird Dschungel. Varen wird zurückgedrückt — Wand aus Vegetation. Die eigenen Leute verletzt: Maren (Dornen in Wade), Vesper (Wurzel trifft Schulter), Runa (Brombeeren, Schnitte). Auf Sorels Körper: kleine weiße Blumen.
 
 **Varen zieht sich TAKTISCH zurück.** Nicht besiegt — hat unterschätzt wie viel Magie er braucht. Er kommt wieder. In Buch 2. Stärker. Besser vorbereitet.
 
 ### Varens Rolle in der Trilogie
 
-**Buch 1:** Das Tor. Die Berührung. Sorels Tod. Taktischer Rückzug.
-**Buch 2:** Erholt. Stärker als zuvor. Forscht weiter. Lehrt Talven die Resonanz-Ernte. Bietet Alphina einen Deal an — Information gegen Information. Kein Kampf, kein Sieg.
-**Buch 3:** Hilft beim Bau der Naht-Maschine — sein Wissen über die Verbindung der Welten ist entscheidend. Stirbt webend — Fäden statt Ketten. Erlösung. Sein letztes Muster wird Teil der Naht.
+**Buch 1:** Das Portal. Die Berührung. Sorels Tod. Taktischer Rückzug. Die Helden halten ihn für den Feind.
+**Buch 2:** Erholt. Stärker als zuvor. Forscht weiter. Lehrt Talven die Resonanz-Ernte. Bietet Alphina einen Deal an — Information gegen Information. Kein Kampf, kein Sieg. **Die Wahrheit sickert durch:** Vesper (Mustererkenner) rekonstruiert aus Daten, dass der Quellen-Kollaps kein Naturereignis war. Die Thar verfolgen dieselbe Leylinien-Idee — und Varen kann sie nicht warnen ohne sich zu verraten.
+**Buch 3:** Die Schuld wird offenbar. Varen gesteht — oder wird entlarvt. Hilft beim Bau der Naht-Maschine — sein Wissen über Leylinien und Quellen ist entscheidend, gerade WEIL er den Fehler schon einmal gemacht hat. Stirbt webend — diesmal die Quellen richtig verbindend. Fäden statt Ketten. Nicht Erlösung — Wiedergutmachung. Sein letztes Muster wird Teil der Naht.
 
-**Er ist nicht der Endgegner.** Er ist ein Forscher mit dem richtigen Ziel und den falschen Methoden. Hinter ihm stehen die Binder, die Thar, die Gilden. Moragh ist komplizierter als ein Mann mit einem Plan.
+**Er ist nicht der Endgegner.** Er ist ein Forscher der durch einen Fehler Tausende getötet hat und alles tut um das rückgängig zu machen. Hinter ihm stehen die Binder, die Thar, die Gilden — jede Fraktion mit eigenem Kalkül. Moragh ist komplizierter als ein Mann mit seiner Schuld.
 
-### Vael heilt WEIL das Tor geschlossen ist
+### Die Thar und Varens Geheimnis
 
-Varen schließt das Tor um die Fünf in Moragh zu fangen. Konsequenz: kein Lecken mehr. Moragh-Magie sickert nicht mehr nach Thalassien. Vael normalisiert sich — der Nebel lichtet sich, die Grauwe fließt vorwärts, die Farne stehen still. Dämonen die schon durch waren verlieren ihre Moragh-Verbindung und verblassen über Tage.
+Die Thar haben die Leylinien-Kopplung bereits realisiert — ihr Netzwerk funktioniert. Quellen verbunden, Energie fließt, Wohlstand verteilt. **Aber sie wissen nicht dass das Netzwerk eine Waffe ist.** Fernüberladung einer einzelnen Quelle kann eine Kettenreaktion auslösen — je mehr Quellen verbunden, desto größer die Zerstörung. Varen hat das versehentlich bewiesen: drei Quellen tot. In einem voll vernetzten System wären es ALLE.
+
+Varens Dilemma: Warnen bedeutet sich verraten (die Gilden würden ihn als Kriegsauslöser töten). Schweigen bedeutet warten bis jemand die Waffe entdeckt — ob durch Unfall oder Absicht. **Varen hasst die Thar** nicht weil sie böse sind, sondern weil sie mit jeder neuen Kopplung die Bombe größer machen. In Buch 2-3 wird das zu einem zentralen Konflikt.
+
+### Vael heilt WEIL die Schwelle geschlossen ist
+
+Mit dem Portal-Durchgang und Sorels Tod ist die Verbindung gekappt. Konsequenz: kein Lecken mehr. Moragh-Magie sickert nicht mehr nach Thalassien. Vael normalisiert sich — der Nebel lichtet sich, die Grauwe fließt vorwärts, die Farne stehen still. Dämonen die schon durch waren verlieren ihre Moragh-Verbindung und verblassen über Tage.
 
 ---
 
@@ -370,7 +444,7 @@ Varen schließt das Tor um die Fünf in Moragh zu fangen. Konsequenz: kein Lecke
 
 Bildhauerin. Aus dem Süden, Binnenmeerküste. Tochter eines Steinmetzmeisters, Gesellin, reist allein. Kam nach Vael als das Tor das letzte Mal offen war — vor 400 Thalassien-Jahren, vor Wochen/Monaten in Moragh-Zeit. Kam wegen des Purpursteins — ein Gestein das es nirgendwo sonst gibt.
 
-**Resonanz: Erde/Stein.** Spürt was unter der Oberfläche liegt. Tunnel, Wasser, Hohlräume, Adern im Gestein. Hält es für Handwerks-Instinkt — sie "hört" den Stein, seine Maserung, seine Schwächen. In Moragh: Stein formen ohne Werkzeug. Hand auf Basalt, und der Basalt gibt nach.
+**Resonanz: Erde/Stein.** Spürt was unter der Oberfläche liegt. Wasser, Hohlräume, Adern im Gestein. Hält es für Handwerks-Instinkt — sie "hört" den Stein, seine Maserung, seine Schwächen. In Moragh: Stein formen ohne Werkzeug. Hand auf Basalt, und der Basalt gibt nach.
 
 Elke ging durch das Tor. Die anderen drei (Johann, Lene, Kaspar) hatten Angst und blieben. Elke nicht. Sie ging durch und lebt seitdem in Moragh. 400 Thalassien-Jahre, aber nur Wochen/Monate in Moragh-Zeit. Sie spricht die Sprache. Kennt die Welt. Hat einen Garten in dem Pflanzen aus beiden Welten wachsen — gewachsen aus dem Stein den sie geformt hat.
 
@@ -394,7 +468,7 @@ Das Tor war offen. Varen hatte es geöffnet, zum ersten Mal. Er suchte Resonanz-
 |---|-----------|--------|
 | 1 | 80 | Elkes Ankunft in Vael. Der Purpurstein. |
 | 2 | 170 | Johann und Elke. Erste Begegnung. Er repariert ihre Uhr. |
-| 3 | 260 | Lene findet die Tunnel. Geht hinein. Sieht das Tor. |
+| 3 | 260 | Lene findet den Steinkreis nachts. Spürt das Pochen. Läuft zurück. |
 | 4 | 350 | Kaspar malt Elke. Das Bild zeigt etwas das er nicht gemalt hat. |
 | 5 | 440 | Alle vier zusammen. Die Dämonen kommen. |
 | 6 | 530 | Elke und Kaspar. Nacht. Intimität. |
@@ -410,11 +484,11 @@ An der Schwelle begreifen die Vier, was sie tun müssen — oder was sie GLAUBEN
 
 Alphina sagt: "Wir gehen. Alle vier."
 
-Sie gehen durch. **Runa folgt** — unbemerkt, durch die Tunnel, schlüpft durch bevor das Tor schließt. Fünf Menschen in Moragh, nicht vier. Das Tor schließt sich. Hinter ihnen. Nicht von ihnen — von IHM. Die Falle schnappt zu.
+Das Ritual im Steinkreis. Vier Resonanzen, gleichzeitig. Die Luft reißt auf. Das Portal bleibt 4:33 offen. Sie gehen durch. **Runa schlüpft** in den letzten Sekunden mit durch. Fünf Menschen in Moragh, nicht vier. Das Portal schließt sich. Finn und Halvard stehen am Gartenrand und sehen alles.
 
-Varen schließt das Tor um die Fünf zu fangen — kein Lecken mehr, keine Moragh-Magie die durchsickert. Vael heilt WEIL das Tor geschlossen ist. Der Nebel lichtet sich. Die Grauwe fließt vorwärts. Die Pflanzen stehen still. Dämonen die schon durch waren verlieren ihre Moragh-Verbindung, verblassen über Tage. Esther Voss steht in den Tunneln, allein, vor einem Tor das Stein ist und das sich nicht mehr öffnet. Thies Brandt an der Werft, Finn Tade auf dem Wasser, Jara Voss im Archiv.
+**Die Falle:** Sorel stirbt in Moragh (Varens Bindungsmagie). Drei Resonanzen übrig. Das Ritual braucht vier. Der Rückweg ist Mathematik, nicht Magie. Kein Lecken mehr, keine Moragh-Magie die durchsickert. Vael heilt WEIL die Schwelle geschlossen ist. Der Nebel lichtet sich. Die Grauwe fließt vorwärts. Die Pflanzen stehen still — und wachsen jetzt auch in den Steinkreis hinein. Die unsichtbare Grenze ist weg. Dämonen die schon durch waren verlieren ihre Moragh-Verbindung, verblassen über Tage. Halvard schreibt seinen Bericht. Thies Brandt an der Werft, Jara Voss im Archiv mit dem Moragh-Sprachbuch das keinen Zweck mehr hat.
 
-**Letzte Seite Buch 1:** Alphina steht auf der anderen Seite. Eine fremde Welt. Zwei Monde am Himmel. Sorel neben ihr, Vesper, Maren. Und hinter ihnen, atemlos, Runa. Die Luft schmeckt nach etwas das sie nicht kennt. Und am Ende des Tunnels, im Schatten, wartet jemand.
+**Letzte Seite Buch 1:** Alphina steht auf der anderen Seite. Eine fremde Welt. Zwei Monde am Himmel. Sorel tot. Vesper, Maren. Und hinter ihnen, atemlos, Runa. Die Luft schmeckt nach etwas das sie nicht kennt. Der Rückweg existiert nicht.
 
 ---
 

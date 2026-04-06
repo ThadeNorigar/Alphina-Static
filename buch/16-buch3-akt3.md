@@ -2,7 +2,7 @@
 
 ## Struktur
 
-Doppelter Schwund. Talvens Ernte hat Moragh Jahrzehnte gekostet — die Verteilung hat es verschlimmert. Vesper sieht die Zahlen und zum ersten Mal hat der Mann der drei Züge voraus denkt keine Lösung. Elke stirbt. Talven sieht was er angerichtet hat. Varen stirbt — webend, nicht bindend, Erlösung. Nyr und Vesper wechseln endgültig die Seite. Alphina begreift: die Symbiose reicht nicht. Die Welten müssen EINE werden. Die Naht-Maschine wird geplant.
+Doppelter Schwund. Talvens Ernte hat Moragh Jahrzehnte gekostet — die Verteilung hat es verschlimmert. Vesper sieht die Zahlen und zum ersten Mal hat der Mann der drei Züge voraus denkt keine Lösung. Elke stirbt. Talven sieht was er angerichtet hat. Varen stirbt — webend, nicht bindend, Erlösung. Nyr und Vesper wechseln endgültig die Seite. Alphina begreift: die Symbiose reicht nicht. Die drei zerstörten Reservoir-Quellen müssen geheilt werden — mit thalassischer Resonanz als externem Jump-Start. Die Naht-Maschine wird geplant.
 
 **Ton:** Das dunkelste Drittel. Verlust, Schuld, Konsequenz. Aber nicht hoffnungslos — die Lösung zeichnet sich ab, am Rand, wie Vespers dünne Zeitlinie.
 
@@ -68,9 +68,9 @@ Runa druckt den Brief. Auf Moragh-Papier. Verteilt ihn nicht. Hängt ihn über d
 
 Vesper in der Gilden-Bibliothek — zum letzten Mal. Er legt die Hände auf die ältesten Bücher und sieht: die Zeitlinien kollabieren. Die dünne Linie aus Buch 2 — Alphina bleibt, Moragh überlebt — ist noch dünner geworden. Aber nicht verschwunden.
 
-Die Lösung: nicht Symbiose. Nicht Trennung. VERBINDUNG. Die Welten waren EINE Welt, gespalten vor Jahrtausenden. Das Tor ist die Narbe. Die Naht zwischen den Welten kann geheilt werden — nicht durch Magie allein, nicht durch Technik allein. Durch beides.
+Die Lösung: nicht Symbiose. Nicht Trennung. HEILUNG. Moragh ist die Ursprungswelt. Thalassier stammen von Moragh-Flüchtlingen ab — ihre Resonanz ist vestigiales Erbe. Die drei Reservoir-Quellen die Varen zerstört hat, können regeneriert werden — mit thalassischer Resonanz als externem Jump-Start. Nicht durch Magie allein, nicht durch Technik allein. Durch beides.
 
-Eine Maschine. Eine Naht-Maschine. Moragh-Magie plus Thalassien-Technik. Ein Generator der Resonanz kanalisiert. Ein Kanal der die Welten verbindet. Nicht ein Tor — eine Naht, die die Wunde schließt.
+Eine Maschine. Eine Naht-Maschine. Moragh-Magie plus Thalassien-Technik. Ein Generator der Resonanz kanalisiert. Kein Portal — eine Naht, die die beschädigten Quellen heilt.
 
 Nyr: "Wer baut so etwas?" Vesper: "Alle. Zusammen."
 
@@ -88,20 +88,22 @@ Am Morgen: ein Grashalm. Im toten Hain. Einer. Talven sieht ihn nicht — seine 
 ### Kap. 67 — Varen (S. 518–536, ~4.500 Wörter)
 *Der Weber.*
 
-Varen am Tor. Sterbend — nicht schnell, sondern wie ein Stoff der ausfranst. Seine Dämonen halten ihn zusammen, buchstäblich. Alphina kommt zu ihm. Nicht als Feind — als letzte Gesprächspartnerin.
+Varen am Portal. Sterbend — nicht schnell, sondern wie ein Stoff der ausfranst. Seine Dämonen halten ihn zusammen, buchstäblich. Alphina kommt zu ihm. Nicht als Feind — als letzte Gesprächspartnerin.
 
-"Die Welten waren eine," sagt er. "Die Spaltung war ein Sicherheitsmechanismus. Magie wuchs unkontrolliert — die alten Völker trennten die Welten. Tor als Narbe. Resonanz als Spannung an der Naht." Er hustet. "Eure Resonanz — die der Thalassier — ist die Energie der VERBINDUNG. Deshalb kostet sie euch nichts. Ihr SEID die Naht. Eure Körper erinnern sich an die eine Welt."
+Vesper hat es rekonstruiert — aus Daten, aus Mustern, aus den Zahlen die nicht zusammenpassten. Varen gesteht: "Ich habe drei Reservoir-Quellen zerstört. Ein Leyline-Überlastungsexperiment. Die Thar hatten die Quellen bereits erfolgreich gekoppelt — ihr Netzwerk funktionierte. Ich habe entdeckt dass eine Überlastung durch das Netzwerk eine Kettenreaktion auslöst. Alle verbundenen Quellen kollabieren. Das Netzwerk ist eine Bombe." Er hustet. "Der Krieg — meine Schuld. Niemand weiß es. Bis jetzt."
 
-Er stirbt am Tor. Aber nicht bindend — webend. Seine letzten Dämonen lösen sich auf und verweben sich mit dem Stein des Tors. Keine Ketten, keine Bindungen. Fäden. Als hätte er am Ende verstanden was er sein sollte: nicht Binder, sondern Weber.
+"Moragh ist die Ursprungswelt," sagt er. "Eure Vorfahren — Flüchtlinge, vor 200 Moragh-Jahren. 80.000 eurer Jahre. Eure Resonanz ist vestigiales Erbe. Deshalb kostet sie euch nichts. Eure Körper erinnern sich an Moragh." Er hustet. "Die toten Quellen brauchen einen externen Jump-Start. Thalassische Resonanz. EURE Resonanz."
 
-Der Stein am Tor: wärmer als vorher. Die Naht — dünner.
+Er stirbt am Portal. Aber nicht bindend — webend. Er verbindet die Quellen RICHTIG, diesmal. Seine letzten Dämonen lösen sich auf und verweben sich mit dem Stein. Keine Ketten, keine Bindungen. Fäden. Was ihn alles kostet. Wiedergutmachung.
+
+Der Stein am Portal: wärmer als vorher. Die Naht — dünner.
 
 ### Kap. 68 — Maren (S. 536–554, ~4.500 Wörter)
 *Der Wasserweg und die Ingenieure.*
 
 Maren und die Thalassien-Ingenieure am Fluss. Sie haben den Wasserweg studiert, gemessen, modelliert. Die KI auf dem Laptop: "Der Kanal ist stabil aber schmal. Erweiterung möglich durch Resonanz-Verstärkung und technische Kanalisierung."
 
-Marens Idee — nicht ihrer allein, gewachsen in Gesprächen mit Vesper, mit den Ingenieuren, mit Iven der neben dem Generator sitzt und Maschinen zum Summen bringt: den Wasserweg zur Naht machen. Nicht ein Riss, nicht ein Kanal — eine VERBINDUNG. Dauerhaft. Die Welten nicht durch ein Tor verbinden, sondern durch ein Netz. Wie Wasser das zwischen den Welten fließt.
+Marens Idee — nicht ihrer allein, gewachsen in Gesprächen mit Vesper, mit den Ingenieuren, mit Iven der neben dem Generator sitzt und Maschinen zum Summen bringt: den Wasserweg als Kanal für die Naht-Maschine nutzen. Die thalassische Resonanz als Jump-Start in die drei toten Quellen speisen. Die Welten bleiben zwei — aber die geheilten Quellen verändern alles.
 
 Dafür braucht es eine Maschine. Moragh-Magie kanalisiert durch Thalassien-Technik. Ein Generator, ein Resonanz-Verstärker, ein Kanal. Und jemand der beides versteht — Magie und Maschine.
 
@@ -121,7 +123,7 @@ Vesper neben ihr. "Bereust du es?" Nyr: "Die Schmerzen? Nein. Die waren meine. I
 
 Alle zusammen. Nicht wie in Buch 2 — damals fünf Thalassier in einer fremden Welt. Jetzt: Thalassier, Moragh-Geborene, Ingenieure, Gilden-Älteste, eine Thar-Pilotin, ein blinder Lehrling. In Elkes Garten. Auf dem Stein der leiser geworden ist.
 
-Die Naht-Maschine. Vesper erklärt die Theorie — die Welten waren eine, die Naht kann geheilt werden. Maren erklärt den Kanal — der Wasserweg als Fundament. Die Ingenieure erklären die Technik — Generator, Verstärker, Kanalisierung. Iven sitzt daneben und der Generator summt lauter wenn er nickt.
+Die Naht-Maschine. Vesper erklärt die Theorie — Moragh ist die Ursprungswelt, die drei zerstörten Reservoir-Quellen können mit thalassischer Resonanz geheilt werden. Maren erklärt den Kanal — der Wasserweg als Fundament. Die Ingenieure erklären die Technik — Generator, Verstärker, Kanalisierung. Iven sitzt daneben und der Generator summt lauter wenn er nickt.
 
 Talven, blind, zitternd, am Rand: "Ich kann helfen. Ich kenne die Resonanz von innen — die natürliche und die geerntete. Ich weiß wie sie fließt." Alphina sieht ihn an. Langes Schweigen. "Ja. Du kannst helfen."
 
@@ -130,9 +132,9 @@ Nicht Vergebung. Arbeit.
 ### Kap. 70 — Alphina (S. 586–600, ~3.500 Wörter)
 *Was es kostet.*
 
-Vesper nimmt Alphina beiseite. Die Zeitlinie, die dünne — er hat sie wieder gesehen. Klarer jetzt. Die Naht-Maschine funktioniert. Die Welten werden eine. Magie existiert überall, kostet überall. Keine kostenlose Resonanz mehr.
+Vesper nimmt Alphina beiseite. Die Zeitlinie, die dünne — er hat sie wieder gesehen. Klarer jetzt. Die Naht-Maschine funktioniert. Die drei Quellen werden geheilt. Die Welten bleiben zwei — aber Magie hat jetzt überall einen Preis, auch für Thalassier die nach Moragh kommen. Keine kostenlose Resonanz mehr.
 
-Aber: die Maschine braucht einen Katalysator. Resonanz — massiv, endlos, die Energie der Verbindung selbst. Jemand muss die Naht SEIN. Nicht bedienen — werden.
+Aber: die Maschine braucht einen Katalysator. Resonanz — massiv, endlos, um die toten Quellen zu regenerieren. Alphinas Opfer speist die Regeneration. Nicht bedienen — werden.
 
 "Du weißt was das bedeutet," sagt Vesper. Alphina: "Ja." Vesper: "Es gibt andere Zeitlinien." Alphina: "Zeig sie mir." Vesper zeigt. In jeder anderen: Moragh stirbt. Schneller oder langsamer. Aber es stirbt.
 
@@ -146,9 +148,9 @@ Alphina im Garten. Nacht. Hände auf dem Boden. Ein Farn wächst — langsam, au
 |--------|---------|-----------|
 | Elkes Brief über die Presse | Kap I13 — Runa hängt ihn auf | Akt IV — Runa liest ihn vor. Beim Abschied |
 | Ein Grashalm im toten Hain | Kap 66 — Talven sieht ihn nicht | Akt IV — Der Hain wächst nach. Langsam. Ohne Talven. Ohne Alphina |
-| Varen webt | Kap 67 — Fäden statt Ketten | Akt IV — Die Naht-Maschine nutzt sein Muster. Weber, nicht Binder |
+| Varen webt + gesteht | Kap 67 — Fäden statt Ketten, Schuld enthüllt | Akt IV — Die Naht-Maschine nutzt sein Muster. Wiedergutmachung. Weber, nicht Binder |
 | Ivens Diagramm auf dem Laptop | Kap 68 — "Der Computer hat das gemacht" | Akt IV — Iven steuert die Maschine. Interface zwischen Magie und Technik |
 | Talven hilft — "Nicht Vergebung. Arbeit." | Kap 69 — Am Rand, blind, zitternd | Akt IV — Talven kalibriert die Resonanz-Kanäle. Nicht als Held — als Büßer |
-| Vespers dünne Zeitlinie — klarer | Kap 70 — Die Naht braucht einen Katalysator | Akt IV — Alphina wird die Naht. Jeder Wald stirbt. Sie auch |
+| Vespers dünne Zeitlinie — klarer | Kap 70 — Die Quellen-Regeneration braucht einen Katalysator | Akt IV — Alphinas Opfer speist die Regeneration. Jeder Wald stirbt. Sie auch |
 | Bestie steht still | I14 — Extern gespeist | Akt IV — Nyr pilotiert die Bestie ein letztes Mal. Schützt die Maschine |
 | "Liebe die nur nimmt ist keine Liebe" | I13 — Elkes Brief | Akt IV — Alphina gibt alles. Liebe die nur gibt |

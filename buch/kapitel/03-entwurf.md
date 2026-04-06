@@ -3,7 +3,7 @@
 **POV:** Vesper | **Perspektive:** 3. Person nah / Präteritum
 **Ort:** Karst (Innenlande)
 **Wortziel:** 3.500–4.000 Wörter (3 Szenen à ~1.200)
-**Jahreszeit:** Spätherbst/November (zeitgleich mit Kap 1+2)
+**Jahreszeit:** März (zeitgleich mit Kap 1+2)
 
 ---
 

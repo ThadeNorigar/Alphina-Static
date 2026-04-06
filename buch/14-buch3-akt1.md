@@ -31,7 +31,7 @@ Aber: der Hain. Alphinas Schlaf-Hain, der erste, der unkontrollierte. Die Bäume
 ### Kap. 43 — Maren (S. 40–58, ~4.500 Wörter)
 *Vael 2250. Das Institut.*
 
-Das Schwellenforschungsinstitut: ein Gebäude aus Glas und Stahl, gebaut über den Tunneln unter Vael. Monitore, Instrumente, Daten. Marens Name steht in einem Buch — "Die Vier von Vael: Eine Dokumentation der Anomalien von 1820." Mit Sorels Foto. Mit Alphinas Beschreibung aus Zeitungsartikeln. Mit Vespers Uhr-Gutachten. Mit Marens eigenem Namen auf dem Grundbuchblatt der Werft Brandt.
+Das Schwellenforschungsinstitut: ein Gebäude aus Glas und Stahl, gebaut neben dem Steinkreis im Botanischen Garten. Monitore, Instrumente, Daten. Marens Name steht in einem Buch — "Die Vier von Vael: Eine Dokumentation der Anomalien von 1820." Mit Sorels Foto. Mit Alphinas Beschreibung aus Zeitungsartikeln. Mit Vespers Uhr-Gutachten. Mit Marens eigenem Namen auf dem Grundbuchblatt der Werft Brandt.
 
 Maren sitzt in einem weißen Raum und eine Wissenschaftlerin stellt Fragen. "Wie alt sind Sie?" Maren: "Einunddreißig." Die Wissenschaftlerin tippt auf ein durchsichtiges Gerät. "Das Boot in der Werft — das steht im Museum. Seit hundertfünfzig Jahren."
 
@@ -73,9 +73,9 @@ Er geht zurück. Legt sich hin. Am Morgen kocht er Frühstück.
 
 Thalassien reagiert. Das Schwellenforschungsinstitut stellt ein Team zusammen: Wissenschaftler, Ingenieure, eine Linguistin. Ein Container mit Technik — Generator, tragbare Computer, Kommunikationsgeräte, Messgeräte, ein Laptop mit einer KI-Assistenz. Marens Aufgabe: den Wasserweg stabilisieren, das Team durchbringen.
 
-Die Institutsleiterin: "Vierhundert Jahre haben wir auf diesen Moment gewartet. Die Anomalie unter Vael, die Farne im Garten, die Strömung die rückwärts fließt — wir haben gemessen und gewartet. Jetzt gehen wir durch."
+Die Institutsleiterin: "Vierhundert Jahre haben wir auf diesen Moment gewartet. Seit Halvards Bericht über das Portal — der Steinkreis, die Farne im Garten, die Strömung die rückwärts fließt — wir haben gemessen und gewartet. Jetzt gehen wir durch."
 
-Maren am Wasser. Sie öffnet den Kanal — weiter, stabiler als beim letzten Mal. Es kostet sie nichts. Moragh zahlt. Aber das weiß in Thalassien niemand.
+Maren am Wasser. Jahrhunderte sind vergangen seit sie ging. Alle Kontakte — fort. Die Werft ein Denkmal, die Fischerkähne Museumsstücke. Sie öffnet den Kanal — weiter, stabiler als beim letzten Mal. Es kostet sie nichts. Moragh zahlt. Aber das weiß in Thalassien niemand.
 
 Das Team tritt durch. Fünf Menschen mit Rucksäcken und Kisten. Der Generator summt als sie Moragh-Boden berühren. Die Kommunikationsgeräte knistern, stabilisieren sich, zeigen Signal. Die KI auf dem Laptop: "Atmosphärendaten anomal. Magnetfeld instabil. Bitte kalibrieren."
 

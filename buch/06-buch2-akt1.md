@@ -10,7 +10,7 @@
 
 ## Struktur
 
-Buch 2 beginnt bei Elke. Sorel ist tot (Buch 1, Akt IV). Alphinas Ausbruch hat alle verletzt. Varen hat sich zurückgezogen. Die Vier — Alphina, Vesper, Maren, Runa — sind in Elkes Garten, einer fremden Welt, mit einer Frau die ihre Sprache spricht. Akt I ist Trauer, Begreifen, Lernen. Alphinas Resonanz ist in diesem Akt VOLLSTÄNDIG UNBEWUSST — sie passiert im Schlaf, durch Trauer, ohne jeden willentlichen Einfluss. Die Perspektiven etablieren sich: Alphina dominant (Trauer als unkontrolliertes Wachstum), Maren (will zurück, das Tor ist zu), Vesper (analysiert, kartografiert, versteht zu schnell), Runa (fremd, überfordert, schwache Feuer-Resonanz die hier zum ersten Mal sichtbar wird). Die Gilden-Stadt als erster Kontakt mit Moragh-Zivilisation — aber Zivilisation hat einen Preis.
+Buch 2 beginnt bei Elke. Sorel ist tot (Buch 1, Akt IV). Alphinas Ausbruch hat alle verletzt. Varen hat sich zurückgezogen. Die Vier — Alphina, Vesper, Maren, Runa — sind in Elkes Garten, einer fremden Welt, mit einer Frau die ihre Sprache spricht. Akt I ist Trauer, Begreifen, Lernen. Alphinas Resonanz ist in diesem Akt VOLLSTÄNDIG UNBEWUSST — sie passiert im Schlaf, durch Trauer, ohne jeden willentlichen Einfluss. Die Perspektiven etablieren sich: Alphina dominant (Trauer als unkontrolliertes Wachstum), Maren (will zurück, das Portal ist zu), Vesper (analysiert, kartografiert, versteht zu schnell), Runa (fremd, überfordert, schwache Feuer-Resonanz die hier zum ersten Mal sichtbar wird). Die Gilden-Stadt als erster Kontakt mit Moragh-Zivilisation — aber Zivilisation hat einen Preis.
 
 ## Kapitelplan
 
@@ -38,7 +38,7 @@ Eingebettet: Sorels Tod. Nicht als Rückblende — als Loch. Maren denkt um Sore
 ### Kap. 4 — Runa (S. 54–68, ~3.500 Wörter)
 *Die Druckerin in der falschen Welt.*
 
-Erste Runa-Perspektive. 3. Person, Präteritum. Sie hätte nicht durch das Tor gehen sollen. Sie ist durchgegangen. Keine Resonanz die sie kennt, keine Magie die sie versteht, ein Mann den sie nicht kannte ist gerade gestorben. Ihre Hände sind warm — wärmer als sonst. Das Metall an ihrem Gürtel (Druckerwerkzeug, Schmelzlöffel) reagiert. Sie hält den Löffel — er wird weich. Zinn schmilzt in ihrer Hand. Sie lässt ihn fallen.
+Erste Runa-Perspektive. 3. Person, Präteritum. Sie hätte nicht durch das Portal gehen sollen. Sie ist durchgegangen. Keine Resonanz die sie kennt, keine Magie die sie versteht, ein Mann den sie nicht kannte ist gerade gestorben. Ihre Hände sind warm — wärmer als sonst. Das Metall an ihrem Gürtel (Druckerwerkzeug, Schmelzlöffel) reagiert. Sie hält den Löffel — er wird weich. Zinn schmilzt in ihrer Hand. Sie lässt ihn fallen.
 
 Runa beobachtet Alphina: die Botanikerin die einen Wald wachsen lassen kann. Vesper: der Mann der alles analysiert als wäre es ein Schachproblem. Maren: die Frau die mit dem Wasser spricht. Und sie selbst: eine Druckerin mit warmen Händen.
 
@@ -69,9 +69,9 @@ Die Frau aus dem Stein. Elke van der Holt — zu alt für ihr Gesicht, zu jung f
 Alphinas Antwort: "Nein." Elkes Gesicht: etwas zwischen Neid und Angst.
 
 ### Kap. 8 — Maren (S. 138–154, ~4.000 Wörter)
-*Das Tor ist zu.*
+*Das Portal ist zu.*
 
-Maren sucht das Tor. Durch das Wasser, durch die Ströme die sie spürt. Es ist da — sie fühlt den Punkt wo die Welt dünn wird. Aber geschlossen. Stein. Nichts dahinter. Sie drückt. Das Wasser antwortet, aber das Tor nicht. Verzweiflung die sie nicht zeigt — Maren fließt, Maren bleibt nie, und jetzt sitzt sie fest. In einer Welt die nicht ihre ist. Neben Menschen die sie nicht gewählt hat.
+Maren sucht das Portal. Durch das Wasser, durch die Ströme die sie spürt. Es ist da — sie fühlt den Punkt wo die Welt dünn wird. Aber geschlossen. Stein. Nichts dahinter. Sie drückt. Das Wasser antwortet, aber das Portal nicht. Verzweiflung die sie nicht zeigt — Maren fließt, Maren bleibt nie, und jetzt sitzt sie fest. In einer Welt die nicht ihre ist. Neben Menschen die sie nicht gewählt hat.
 
 Eingebettet: Vael. Das Boot. Drei Viertel fertig. "Warte auf mich." — aber von welcher Seite?
 
@@ -106,7 +106,7 @@ Endet mit: Die Älteste bietet Schutz, Nahrung, Unterkunft. Greift Alphinas Hand
 | Runas Messing-Type | Kap 9 — Formt Lettern aus der Hand | Akt III — Die Thar erkennen ihren Wert |
 | Elkes Garten (beide Welten) | Kap 7 — Pflanzen aus Thalassien und Moragh | Akt IV — Elkes Stein wird weicher. Moragh zahlt |
 | "Das kostet dich nichts, oder?" | Kap 7 — Elkes Frage | Akt III — Vesper entdeckt: Moragh zahlt den Preis |
-| Maren spürt das geschlossene Tor | Kap 8 — Durch das Wasser | Akt IV — Maren findet einen Weg zurück. Durch das Wasser, nicht durch das Tor |
+| Maren spürt das geschlossene Portal | Kap 8 — Durch das Wasser | Akt IV — Maren findet einen Weg zurück. Durch das Wasser, nicht durch das Portal |
 | 4:33 in Moraghs Struktur | Kap 6 — Vesper erkennt die Frequenz in den Monden | Akt III — 4:33 ist die Frequenz der Anomalie. Resonanz ohne Preis schwingt in 4:33 |
 | "Hier bist du mehr" | Kap 9 — Elke zu Runa | Akt III — Runa geht zur Thar. Weil sie dort AM MEISTEN ist |
 | Die Älteste greift Alphinas Hand | Kap 10 — Sofort, besitzergreifend | Akt II — Die Gilden wollen Gegenleistung. Kämpft für uns |

@@ -6,7 +6,7 @@ In Akt III hat Alphina volle bewusste Kontrolle über ihre Resonanz. Tagsüber k
 
 ## Struktur
 
-Die Frage kippt: von "Wer will uns?" zu "Was kosten wir?" Runa geht zur Thar — freiwillig, weil sie bieten was die Gilden nicht bieten: Verständnis für ihr Feuer. Alphina muss sie finden. Vesper entdeckt die Wahrheit über den Reservoir-Schwund. Varen ist erholt und stärker als zuvor. Die Binder werden zum Faktor. Maren spürt durch das Wasser einen Weg zwischen den Welten — nicht das Tor, sondern die Ströme selbst.
+Die Frage kippt: von "Wer will uns?" zu "Was kosten wir?" Runa geht zur Thar — freiwillig, weil sie bieten was die Gilden nicht bieten: Verständnis für ihr Feuer. Alphina muss sie finden. Vesper entdeckt die Wahrheit über den Reservoir-Schwund. Varen ist erholt und stärker als zuvor. Die Binder werden zum Faktor. Maren spürt durch das Wasser einen Weg zwischen den Welten — nicht das Portal, sondern die Ströme selbst.
 
 ## Kapitelplan
 
@@ -38,9 +38,9 @@ Vesper rechnet. Hochgerechnet auf Jahre. Auf Jahrzehnte. Die Zahl ist hässlich 
 ### Kap. 24 — Maren (S. 456–472, ~4.000 Wörter)
 *Wasserströme zwischen den Welten.*
 
-Maren am stillen Punkt des Flusses. Sie taucht tiefer — nicht körperlich, mit ihrem Sinn. Das Wasser hier fließt in beide Richtungen gleichzeitig. In Moragh und in Thalassien. Die Ströme sind verbunden — nicht nur am Tor, überall wo Wasser fließt. Das Tor ist eine Tür. Das Wasser ist ein Netz. Moragh und Thalassien sind nicht getrennt. Sie schwimmen ineinander.
+Maren am stillen Punkt des Flusses. Sie taucht tiefer — nicht körperlich, mit ihrem Sinn. Das Wasser hier fließt in beide Richtungen gleichzeitig. In Moragh und in Thalassien. Die Ströme sind verbunden — nicht nur am Portal, überall wo Wasser fließt. Das Portal ist eine Tür. Das Wasser ist ein Netz. Moragh und Thalassien sind nicht getrennt. Sie schwimmen ineinander.
 
-Maren spürt Vael. Die Grauwe. Das Salzwasser des Grauen Meers. Einen Moment lang hört sie Möwen. Dann ist es weg. Aber der Weg ist da. Durch das Wasser. Nicht durch das Tor. Theoretisch.
+Maren spürt Vael. Die Grauwe. Das Salzwasser des Grauen Meers. Einen Moment lang hört sie Möwen. Dann ist es weg. Aber der Weg ist da. Durch das Wasser. Nicht durch das Portal. Theoretisch.
 
 ### Interludium V (~S. 480, ~2.000 Wörter)
 *Elke und der Krieg. Erste Begegnung mit den Bindern.*
@@ -68,16 +68,16 @@ Alphinas Frage: "Was können wir tun?" Vesper: "Die Wahrheit verbreiten. Die Dat
 ### Kap. 27 — Vesper (S. 524–540, ~4.000 Wörter)
 *Varen. Erholt und forschend.*
 
-Ein Gerücht in der Gilden-Stadt: der Forscher am Tor ist zurück. Erholt. Kräftig. Groß, muskulös, graue Schläfen, purpurne Augen, gut gekleidet — ein Mann der aus dem taktischen Rückzug gelernt hat. Aus allen Fraktionen ausgestoßen, eine Handvoll Deserteure um sich. Er sucht nicht die Fünf — er sucht die Daten. Wie funktioniert Resonanz? Warum kostet sie nichts? Was ist die Verbindung zwischen den Welten?
+Ein Gerücht in der Gilden-Stadt: der Forscher am Portal ist zurück. Erholt. Kräftig. Groß, muskulös, graue Schläfen, purpurne Augen, gut gekleidet — ein Mann der aus dem taktischen Rückzug gelernt hat. Aus allen Fraktionen ausgestoßen, eine Handvoll Deserteure um sich. Er sucht nicht die Fünf — er sucht die Daten. Wie funktioniert Resonanz? Warum kostet sie nichts? Was ist die Verbindung zwischen den Welten?
 
 Vesper analysiert: Varen ist nicht der Feind. Er ist ein Forscher mit dem richtigen Ziel und den falschen Methoden. Stärker als vor dem Rückzug, gut genährt, in Form, weil er Zeit hatte sich zu erholen und nachzudenken. Er hat Sorel nicht absichtlich getötet — hat es aber in Kauf genommen. Das macht ihn gefährlicher.
 
 ### Kap. 27b — Talven (S. 540–554, ~3.500 Wörter)
-*Nachts. Allein. Zum Tor.*
+*Nachts. Allein. Zum Portal.*
 
 Talven hat Vespers Vortrag über den Reservoir-Schwund gehört. Stand im Hintergrund — Lehrling, unsichtbar, die Tasse in der Hand die er für den Gilden-Meister gebracht hat. Hat jedes Wort mitgenommen.
 
-Nachts verlässt er die Stadt. Kennt die Wege, die Wachen, die Lücken im lebenden Mauerwerk. Drei Stunden zu Fuß. Der Forscher am Tor — Varen — sitzt in einem behelfsmäßigen Raum, gut gekleidet, ein aufgeschlagenes Buch auf dem Schoß. Groß, muskulös, gut genährt, in Form. Graue Schläfen, purpurne Augen, aufmerksam. Er sieht Talven kommen und wartet — interessiert, kraftvoll.
+Nachts verlässt er die Stadt. Kennt die Wege, die Wachen, die Lücken im lebenden Mauerwerk. Drei Stunden zu Fuß. Der Forscher am Portal — Varen — sitzt in einem behelfsmäßigen Raum, gut gekleidet, ein aufgeschlagenes Buch auf dem Schoß. Groß, muskulös, gut genährt, in Form. Graue Schläfen, purpurne Augen, aufmerksam. Er sieht Talven kommen und wartet — interessiert, kraftvoll.
 
 Talven: "Ich bin Lehrling. Mittleres Reservoir. In zehn Jahren bin ich aufgebraucht." Varen schweigt. Talven: "Die Thalassierin wächst einen Hain im Schlaf und es kostet sie NICHTS. Ich will wissen warum."
 
@@ -90,7 +90,7 @@ Eingebettet: sein Reservoir — ein dumpfes Pochen hinter den Augen, nie genug, 
 ### Kap. 28 — Maren (S. 540–558, ~4.500 Wörter)
 *Durchbruch und Preis.*
 
-Maren experimentiert am stillen Punkt. Drückt härter, tiefer, mit allem was sie hat. Das Wasser gibt nach — für einen Moment öffnet sich etwas. Nicht das Tor. Ein Riss. Klein, flüchtig. Durch den Riss: der Geruch von Salz, Teer, nassem Backstein. Vael. Drei Sekunden. Dann schließt es sich.
+Maren experimentiert am stillen Punkt. Drückt härter, tiefer, mit allem was sie hat. Das Wasser gibt nach — für einen Moment öffnet sich etwas. Nicht das Portal. Ein Riss. Klein, flüchtig. Durch den Riss: der Geruch von Salz, Teer, nassem Backstein. Vael. Drei Sekunden. Dann schließt es sich.
 
 Maren liegt auf dem Rücken, keuchend. Nicht erschöpft — Resonanz kostet nichts. Aber ihr Körper zittert trotzdem. Der Riss hat etwas getan: am stillen Punkt ist das Wasser jetzt trüb. Schlammig. Als hätte jemand den Boden aufgewühlt. Das Reservoir unter dem Fluss: gesunken. Deutlich. Maren hat das Wasser benutzt, und Moragh hat gezahlt.
 
@@ -144,7 +144,7 @@ Was zwischen ihnen liegt: nicht gelöst. Alphinas Kontrolle greift nicht. Runas 
 | "Kannst du aufhören zu atmen?" | Kap 26 — Vespers Frage | Akt IV — Alphina findet die Antwort: nicht aufhören. Anders atmen |
 | Elkes weicher Stein | Kap 29 — "Jedes Jahr" | Akt IV — Elkes Beweis vor dem Gilden-Rat. Resonanz zerstört Moragh |
 | Kael hat Pläne für Runa | Kap 30 — Ein Ofen der nie erlischt | Akt IV — Runa entdeckt die Wahrheit: die Thar wollen sie anschließen |
-| Varen als Forscher | Kap 27 — Er sucht Daten, nicht Macht | Akt IV — Er bietet einen Deal an. Information gegen Information |
+| Varen als Forscher | Kap 27 — Er sucht Daten, nicht Macht | Akt IV — Er bietet einen Deal an. Wiedergutmachung — er hat die Quellen zerstört, braucht thalassische Resonanz um sie zu regenerieren |
 | Talven bei Varen | Kap 27b — Erste Lektion, nachts | Buch 3 — Er hat gelernt zu ernten. Verteilt Resonanz an alle. Wird zum Helden |
 | Talvens milchiges Auge | Kap 28b — Wolke in der Iris | Buch 3 — Beide Augen. Hände zittern. Resonanz-Ernte zerstört den Ernter |
 | Talvens Haare auf dem Kissen | Kap 28b — Er lügt sich an | Buch 3 — Haarausfall wird sichtbar. Der Preis schreibt sich in den Körper |

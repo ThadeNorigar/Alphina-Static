@@ -14,9 +14,9 @@ Leise, gleichmäßig. Ein Herzschlag der wieder anfing. Vesper hielt die Uhr ans
 
 Fertig.
 
-Die Werkstatt roch nach Maschinenöl und Messing. Im Winter kam der Schleifstaub der Nachbarwerkstätten dazu, feiner Staub aus Kupfer und Stahl, der durch die Ritzen des Fensters kroch und sich auf alles legte — auf die Werkbank, auf die Lupe, auf das Glas des Regals. Vesper wischte ihn jeden Morgen weg. Jeden Abend kam er zurück. In Karst bestand die Luft aus Metall.
+Die Werkstatt roch nach Maschinenöl und Messing. Im März kam der Schleifstaub der Nachbarwerkstätten dazu, feiner Staub aus Kupfer und Stahl, der durch die Ritzen des Fensters kroch und sich auf alles legte — auf die Werkbank, auf die Lupe, auf das Glas des Regals. Vesper wischte ihn jeden Morgen weg. Jeden Abend kam er zurück. In Karst bestand die Luft aus Metall.
 
-Das Fenster war hoch und schmal. Novemberlicht fiel hindurch. Grau, ohne Wärme. Zwei Räume — die Werkstatt vorn, der Schlafraum dahinter, schmal wie eine Schublade, ein Bett, ein Stuhl, ein Haken für den Mantel. Mehr brauchte er nicht.
+Das Fenster war hoch und schmal. Märzlicht fiel hindurch. Grau, ohne Wärme. Zwei Räume — die Werkstatt vorn, der Schlafraum dahinter, schmal wie eine Schublade, ein Bett, ein Stuhl, ein Haken für den Mantel. Mehr brauchte er nicht.
 
 Er trug die Uhr zum Regal.
 
@@ -28,7 +28,7 @@ Zum ersten Mal seit sechs Jahren war das Buch leer. Letzte Seite, letzte Zeile, 
 
 Er ging zum Fenster.
 
-Karst lag unter ihm. Türme und Giebel und Schiefer der im Novemberlicht glänzte. Eine Stadt die maß und prüfte. In den Nachbarhöfen das Hämmern der Kupferschmiede. Von der Straße Stimmen über Federstahlpreise. Aus der Messerwerkstatt gegenüber ein gleichmäßiges, hohes Zischen — der Schleifstein, der nie aufhörte. Am Turm der Mechanikersgilde schlug es vier. Ein einzelner, tiefer Ton, der über die Dächer rollte und in den Hinterhöfen verschwand.
+Karst lag unter ihm. Türme und Giebel und Schiefer der im Märzlicht glänzte. Eine Stadt die maß und prüfte. In den Nachbarhöfen das Hämmern der Kupferschmiede. Von der Straße Stimmen über Federstahlpreise. Aus der Messerwerkstatt gegenüber ein gleichmäßiges, hohes Zischen — der Schleifstein, der nie aufhörte. Am Turm der Mechanikersgilde schlug es vier. Ein einzelner, tiefer Ton, der über die Dächer rollte und in den Hinterhöfen verschwand.
 
 Im Hof die Kastanie. Kahl. Die Äste schwarz vor dem Grau. Drei Krähen auf dem höchsten Ast. Sie saßen dort jeden Nachmittag. Er kannte sie nicht auseinander. Aber er kannte ihren Platz.
 
@@ -80,7 +80,7 @@ An den Nebentischen lief das übliche Gespräch. Federstahlpreise. Gildepolitik.
 
 Der Mann kam durch die Tür, als die Gildeuhr sieben schlug.
 
-Groß. Das war das Erste. Größer als die meisten Männer in Karst. Er duckte sich unter dem Türbalken, und die Bewegung war geübt, als täte er das oft, als wäre die Welt für ihn eine Handbreit zu niedrig. Schmale Schultern für seine Größe. Reisemantel, dunkel, nass vom Novemberregen. Er schüttelte ihn nicht ab. Setzte sich an Vespers Tisch — der einzige mit einem freien Platz — und bestellte Bier, ohne die Karte zu lesen.
+Groß. Das war das Erste. Größer als die meisten Männer in Karst. Er duckte sich unter dem Türbalken, und die Bewegung war geübt, als täte er das oft, als wäre die Welt für ihn eine Handbreit zu niedrig. Schmale Schultern für seine Größe. Reisemantel, dunkel, nass vom Märzregen. Er schüttelte ihn nicht ab. Setzte sich an Vespers Tisch — der einzige mit einem freien Platz — und bestellte Bier, ohne die Karte zu lesen.
 
 "Reisender?", fragte Vesper.
 
@@ -154,13 +154,13 @@ Vesper hielt den Blick. Er kannte Blicke. Das Schachbrett hatte ihn gelehrt Blic
 
 "Nein", sagte der Mann. Leise. "Es gibt keinen Fehler."
 
-Dann schaute er weg. Bestellte Bier. Das Gespräch driftete — Wetter, Straßen, Kutschpreise im November. Beiläufig, gelöst, als hätte die Standuhr ihn nie interessiert. Er erzählte von der Grauküste, vom Nebel der von See kam und den sie Vaeler Atem nannten. Vier Tage mit der Kutsche, sagte er. Halbinsel, drei Seiten Wasser. Seine Stimme war warm. Sein Lachen kam leicht.
+Dann schaute er weg. Bestellte Bier. Das Gespräch driftete — Wetter, Straßen, Kutschpreise im Frühjahr. Beiläufig, gelöst, als hätte die Standuhr ihn nie interessiert. Er erzählte von der Grauküste, vom Nebel der von See kam und den sie Vaeler Atem nannten. Vier Tage mit der Kutsche, sagte er. Halbinsel, drei Seiten Wasser. Seine Stimme war warm. Sein Lachen kam leicht.
 
 Vesper hörte zu. Seine Hände lagen auf dem Tisch. Ruhig. In seinem Kopf lief die Zahl, wie ein Pendel das nicht aufhörte.
 
 Der Mann stand auf. Zog seinen Mantel an. Groß, unter dem niedrigen Balken, die schmalen Schultern, der nasse Stoff. "Gute Nacht." Er nickte Vesper zu. Ein Nicken das eine Sekunde zu lang dauerte.
 
-Die Tür fiel zu. Novemberwind blies Regen in den Schankraum, einen Atemzug lang. Dann war die Tür dicht und der Raum warm und laut und der Platz gegenüber leer.
+Die Tür fiel zu. Märzwind blies Regen in den Schankraum, einen Atemzug lang. Dann war die Tür dicht und der Raum warm und laut und der Platz gegenüber leer.
 
 Vesper saß. Sein Bier war halb voll. Er trank es nicht.
 
@@ -272,7 +272,7 @@ Die Werkstatt war still. Sechsundzwanzig Uhren zeigten 4:33 und keine von ihnen 
 
 Er drehte sich nicht um.
 
-Draußen war Karst still und kalt. Die Laternen brannten auf dem Gildenplatz, gelb auf nassem Stein. Novemberluft — Rauch, Frost, der ferne Geruch von Metall, der nie ganz verschwand. Sein Atem war weiß.
+Draußen war Karst still und kalt. Die Laternen brannten auf dem Gildenplatz, gelb auf nassem Stein. Märzluft — Rauch, Frost, der ferne Geruch von Metall, der nie ganz verschwand. Sein Atem war weiß.
 
 Er schloss die Tür. Der Schlüssel drehte sich im Schloss. Ein sauberes Klicken. Der einzige Mechanismus der noch funktionierte.
 

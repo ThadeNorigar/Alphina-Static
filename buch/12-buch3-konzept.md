@@ -17,7 +17,7 @@ Die gesamte Trilogie auf Moragh-Seite = ~1 Jahr. Auf Thalassien-Seite = ~400 Jah
 
 ## Thalassien in 2050-2250
 
-- **Schwellenforschungsinstitut:** Existiert seit Generationen. Tunnel unter Vael kartiert. Tor dokumentiert — verschlossen, inaktiv, aber gemessen.
+- **Schwellenforschungsinstitut:** Existiert seit Generationen — gegründet auf Halvards Bericht über das Portal. Der Steinkreis im Botanischen Garten ist kartiert, dokumentiert, inaktiv, aber gemessen.
 - **Resonanz als Forschungsgegenstand:** Bodentemperatur-Anomalien, Magnetfeld-Messungen. Theorien über "die andere Seite."
 - **Der botanische Garten:** Unter Denkmalschutz. Sensoren. Die Farne wachsen immer noch. Langsam. Ohne Erklärung.
 - **Vael 2250:** Glasfassaden, elektrisches Licht, Fahrzeuge ohne Pferde. Eisenbahnlinie. Hafen: Schiffe aus Metall.
@@ -26,21 +26,21 @@ Die gesamte Trilogie auf Moragh-Seite = ~1 Jahr. Auf Thalassien-Seite = ~400 Jah
 
 **Warum kostet Resonanz nichts?**
 
-Antwort (Varen hat sie entdeckt): Thalassien und Moragh waren EINE Welt. Gespalten vor Jahrtausenden — Sicherheitsmechanismus, als Magie unkontrolliert wuchs. Das Tor ist die Narbe. Resonanz ist die Spannung an der Naht. Kostet nichts weil sie die Energie der Verbindung nutzt — aber die Verbindung franst aus. Varens Motiv ist WIEDERVEREINIGUNG — richtiges Ziel, falsche Methode. Er hat das Tor geöffnet um Resonanz-Begabte nach Moragh zu bringen, weil sie der Schlüssel sind.
+Antwort (Varen hat sie entdeckt): Moragh ist die URSPRUNGSWELT. Thalassier stammen von Moragh-Flüchtlingen ab (200 Moragh-Jahre = 80.000 Thalassien-Jahre). Resonanz ist vestigiales Erbe — die Körper erinnern sich. Die Welten waren IMMER ZWEI. Varen hat durch ein Leyline-Überlastungsexperiment drei Reservoir-Quellen zerstört, was den Krieg ausgelöst hat. Niemand weiß das. Sein Motiv ist WIEDERGUTMACHUNG. Er braucht thalassische Resonanz als externen "Jump-Start" um die toten Quellen zu regenerieren. Er hat das Portal geöffnet um Resonanz-Begabte nach Moragh zu bringen, weil sie der Schlüssel sind.
 
 ## Wer stirbt
 
 - **Sorel:** Buch 1 (Resonanz rausgerissen)
 - **Elke:** Buch 3 (Reservoir leer, Stein antwortet nicht mehr)
 - **Alphina:** Buch 3, Finale (Resonanz fließt in die Naht-Maschine, jeder Wald den sie je wachsen ließ stirbt mit ihr)
-- **Varen (Forscher):** Buch 3 (hilft beim Bau der Naht-Maschine, stirbt webend, nicht bindend — Erlösung)
+- **Varen (Forscher):** Buch 3 (seine Schuld wird enthüllt — Vesper rekonstruiert es aus Daten. Stirbt webend — verbindet die Quellen RICHTIG, diesmal, was ihn alles kostet. Erlösung)
 
 ## Ende (semi-happy)
 
-Die Welten werden eine. Magie existiert überall, kostet überall. Keine kostenlose Resonanz mehr.
-- **Maren:** Alt, grau, in Vael. Vesper neben ihr. Uhren laufen richtig.
+Die Naht-Maschine heilt die drei zerstörten Reservoir-Quellen. Die Welten bleiben zwei. Aber die geheilten Quellen + thalassische Technologie verändern alles. Magie hat jetzt überall einen Preis (auch für Thalassier die nach Moragh kommen). Alphinas Opfer speist die Regeneration.
+- **Maren:** Alt, grau, in Vael. Vesper neben ihr. Uhren laufen richtig. Bei ihrer Rückkehr durch den Wasserweg sind Jahrhunderte vergangen — alles was sie kannte ist fort.
 - **Runa:** Baut die erste Hybrid-Druckerpresse. Allein. Alphina ist tot.
 - **Vesper:** In Vael, bei Maren. Schuldig. Leiser als früher.
 - **Iven:** Erster Ingenieur der Magie und Elektrizität versteht.
 - **Nyr:** In der neuen Welt. Bestie steht still — keine Piloten mehr nötig.
-- **Letzte Seite:** Kind im botanischen Garten. Berührt Farn. Farn dreht sich. Kostet ein Schwindeln. Die Welt ist ganz.
+- **Letzte Seite:** Kind im botanischen Garten. Berührt Farn. Farn dreht sich. Kostet ein Schwindelgefühl. Die Quellen sind geheilt. Die Welten sind zwei. Die Schwelle atmet.

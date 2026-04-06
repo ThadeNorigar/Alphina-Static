@@ -14,9 +14,9 @@ Leise, gleichmäßig. Ein Herzschlag der wieder anfing. Vesper hielt die Uhr ans
 
 Fertig.
 
-Die Werkstatt roch nach Maschinenöl und Messing. Im Winter kam der Schleifstaub der Nachbarwerkstätten dazu, feiner Staub aus Kupfer und Stahl, der durch die Ritzen des Fensters kroch und sich auf alles legte — auf die Werkbank, auf die Lupe, auf das Glas des Regals. Vesper wischte ihn jeden Morgen weg. Jeden Abend kam er zurück. In Karst bestand die Luft aus Metall.
+Die Werkstatt roch nach Maschinenöl und Messing. Im März kam der Schleifstaub der Nachbarwerkstätten dazu, feiner Staub aus Kupfer und Stahl, der durch die Ritzen des Fensters kroch und sich auf alles legte — auf die Werkbank, auf die Lupe, auf das Glas des Regals. Vesper wischte ihn jeden Morgen weg. Jeden Abend kam er zurück. In Karst bestand die Luft aus Metall.
 
-Das Fenster war hoch und schmal. Novemberlicht fiel hindurch. Grau, ohne Wärme. Zwei Räume — die Werkstatt vorn, der Schlafraum dahinter, schmal wie eine Schublade, ein Bett, ein Stuhl, ein Haken für den Mantel. Mehr brauchte er nicht.
+Das Fenster war hoch und schmal. Märzlicht fiel hindurch. Grau, ohne Wärme. Zwei Räume — die Werkstatt vorn, der Schlafraum dahinter, schmal wie eine Schublade, ein Bett, ein Stuhl, ein Haken für den Mantel. Mehr brauchte er nicht.
 
 Er trug die Uhr zum Regal.
 
@@ -28,7 +28,7 @@ Zum ersten Mal seit sechs Jahren war das Buch leer. Letzte Seite, letzte Zeile, 
 
 Er ging zum Fenster.
 
-Karst lag unter ihm. Türme und Giebel und Schiefer der im Novemberlicht glänzte. Eine Stadt die maß und prüfte. In den Nachbarhöfen das Hämmern der Kupferschmiede. Von der Straße Stimmen über Federstahlpreise. Aus der Messerwerkstatt gegenüber ein gleichmäßiges, hohes Zischen — der Schleifstein, der nie aufhörte. Am Turm der Mechanikersgilde schlug es vier. Ein einzelner, tiefer Ton, der über die Dächer rollte und in den Hinterhöfen verschwand.
+Karst lag unter ihm. Türme und Giebel und Schiefer der im Märzlicht glänzte. Eine Stadt die maß und prüfte. In den Nachbarhöfen das Hämmern der Kupferschmiede. Von der Straße Stimmen über Federstahlpreise. Aus der Messerwerkstatt gegenüber ein gleichmäßiges, hohes Zischen — der Schleifstein, der nie aufhörte. Am Turm der Mechanikersgilde schlug es vier. Ein einzelner, tiefer Ton, der über die Dächer rollte und in den Hinterhöfen verschwand.
 
 Im Hof die Kastanie. Kahl. Die Äste schwarz vor dem Grau. Drei Krähen auf dem höchsten Ast. Sie saßen dort jeden Nachmittag. Er kannte sie nicht auseinander. Aber er kannte ihren Platz.
 

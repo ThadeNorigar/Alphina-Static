@@ -29,7 +29,7 @@ Eingebettet: Ein junger Lehrling bringt Vesper Tee und einen Stapel Karten, die 
 ### Kap. 13 — Maren (S. 234–250, ~4.000 Wörter)
 *Der Fluss der bergauf fließt.*
 
-Maren verlässt die Stadt. Allein, flussaufwärts — oder flussabwärts, die Richtung wechselt. Der Fluss gehorcht ihr: formt Brücken, teilt sich, trägt sie. Zum ersten Mal seit dem Durchgang fühlt sie sich nicht gefangen. Das Wasser kennt keine Grenzen — es fließt zwischen den Welten, durch den Boden, durch die Zeit. An einer Flussbiegung: ein Ort wo das Wasser still steht. Vollkommen still. Wie unter Marens Werft. Wie das Tor. Ein zweiter dünner Punkt.
+Maren verlässt die Stadt. Allein, flussaufwärts — oder flussabwärts, die Richtung wechselt. Der Fluss gehorcht ihr: formt Brücken, teilt sich, trägt sie. Zum ersten Mal seit dem Durchgang fühlt sie sich nicht gefangen. Das Wasser kennt keine Grenzen — es fließt zwischen den Welten, durch den Boden, durch die Zeit. An einer Flussbiegung: ein Ort wo das Wasser still steht. Vollkommen still. Wie unter Marens Werft. Wie das Portal. Ein zweiter dünner Punkt.
 
 Maren legt die Hand ins Wasser. Es ist kalt — thalassisch kalt, Grauküsten-kalt. Für einen Moment schmeckt sie Salz.
 

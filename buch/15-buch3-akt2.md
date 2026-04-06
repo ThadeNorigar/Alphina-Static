@@ -106,11 +106,11 @@ Talven geht. Runa druckt weiter.
 ### Interludium XII (~S. 362, ~2.000 Wörter)
 *Varen. Der Schüler.*
 
-Varen in seinem Quartier am Tor. Erholt, gut genährt, muskulös, in Form. Gut gekleidet, ein Buch in der Hand. Graue Schläfen, purpurne Augen, das Gesicht eines Forschers der nachgedacht hat und zu einem Schluss gekommen ist. Er hat Talven unterrichtet. Drei Monate. Und jetzt sieht er was der Junge damit gemacht hat.
+Varen in seinem Quartier am Portal. Erholt, gut genährt, muskulös, in Form. Gut gekleidet, ein Buch in der Hand. Graue Schläfen, purpurne Augen, das Gesicht eines Forschers der nachgedacht hat und zu einem Schluss gekommen ist. Er hat Talven unterrichtet. Drei Monate. Und jetzt sieht er was der Junge damit gemacht hat.
 
 "Ich habe ihm gezeigt wie man erntet. Nicht wie man verteilt." Stille. "Verteilung ist Verschwendung. Resonanz in einem fremden Reservoir zerfällt. Der Zerfall frisst Moragh. Er hat es nicht verstanden."
 
-Er hätte es verhindern können. Hat er nicht. Weil Talven sein Experiment ist — ein Moragh-Geborener mit geernteter Resonanz. Die Daten, die Varen braucht, um die Naht zwischen den Welten zu verstehen.
+Er hätte es verhindern können. Hat er nicht. Weil Talven sein Experiment ist — ein Moragh-Geborener mit geernteter Resonanz. Die Daten, die Varen braucht, um die drei zerstörten Reservoir-Quellen zu verstehen. Die Quellen die ER zerstört hat — durch ein Leyline-Überlastungsexperiment, das den Krieg ausgelöst hat. Niemand weiß das. Seine Schuld. Seine Wiedergutmachung.
 
 "Ich habe wieder den Falschen gewählt." Er sieht auf seine Hände — kräftig, gepflegt. "Nein. Ich habe den Richtigen gewählt. Der Richtige macht die falschen Dinge. Wie immer."
 
@@ -132,7 +132,7 @@ Alphina hat keine Antwort. Weil er Recht hat. Es IST ungerecht. Und es IST falsc
 
 Vesper und Nyr verlassen die Thar. Kommen zur Gilden-Stadt — oder was davon übrig ist nach dem Binder-Angriff. Vesper hat Daten, Nyr hat ihre Bestie, modifiziert.
 
-Maren steht am Tor. Vesper sieht sie. Öffnet den Mund.
+Maren steht am Eingang. Vesper sieht sie. Öffnet den Mund.
 
 Maren schlägt ihm ins Gesicht. Wasser explodiert im Raum — Gläser, Krüge, der Fluss hundert Meter entfernt schäumt auf. "Du hast uns verkauft." Vesper: "Ich habe gerechnet." Maren: "Das ist dasselbe."
 
