@@ -50,11 +50,11 @@ Maren öffnete die Augen. Das Boot an ihrem Rücken, die Kühle des Holzes durch
 
 Keine Frage. Er wusste es, weil es niemand anderes sein konnte — eine Frau mit einem Seesack neben Orin Dahls Boot.
 
-"Thies", sagte er. Trat in den Schuppen. Seine Schritte waren leise auf dem Erdboden, die Stiefel abgetragen aber sauber, und er bewegte sich durch den Raum wie jemand, der jeden Gegenstand kannte, jede Lücke zwischen den Werkzeugen, jede lose Diele. "Sieben Jahre bei Orin. Lehrling, dann Geselle." Er blieb neben der Werkbank stehen. Legte die Hand darauf, kurz, wie man die Schulter eines Freundes berührt. "Dahl heißt die Werft. Den Namen übernimmt man, wenn man bleibt."
+"Edric", sagte er. Trat in den Schuppen. Seine Schritte waren leise auf dem Erdboden, die Stiefel abgetragen aber sauber, und er bewegte sich durch den Raum wie jemand, der jeden Gegenstand kannte, jede Lücke zwischen den Werkzeugen, jede lose Diele. "Sieben Jahre bei Orin. Lehrling, dann Geselle." Er blieb neben der Werkbank stehen. Legte die Hand darauf, kurz, wie man die Schulter eines Freundes berührt. "Dahl heißt die Werft. Den Namen übernimmt man, wenn man bleibt."
 
 Seine Hände waren das Erste was Maren richtig sah, als er näher kam. Breite Handflächen, kurze Finger, Hornhaut an den Kuppen. Schnitte, alt und frisch, an den Knöcheln. Holzstaub unter den Nägeln, eingearbeitet in die Rillen der Haut. Hände die arbeiteten, jeden Tag, und die aussahen wie Hände die arbeiteten.
 
-Thies zeigte ihr das Boot. Nicht wie ein Führer der Dinge erklärte, sondern als teilte er einen Raum und ging davon aus, dass die andere Person sehen konnte.
+Edric zeigte ihr das Boot. Nicht wie ein Führer der Dinge erklärte, sondern als teilte er einen Raum und ging davon aus, dass die andere Person sehen konnte.
 
 "Kiel aus Eiche. Massiv, ein Stück." Seine Hand fuhr über das Holz, ohne es zu berühren, ein Fingerbreit Abstand, als könnte Berührung etwas stören. "Die Spanten — Esche. Biegsam, feinporig. Orin hat sie dampfgebogen, einzeln, über Tage." Er zeigte auf die Stelle wo die Planken aufhörten. "Lärche. Leichter als Eiche, das Harz schützt vor Wasser. Die untersten drei Lagen sind dicht. Darüber fehlt es."
 
@@ -64,23 +64,23 @@ Thies zeigte ihr das Boot. Nicht wie ein Führer der Dinge erklärte, sondern al
 
 Maren sagte nichts. Sie umrundete das Boot, und ihre Hand glitt über die Planken. Jede war anders — die Maserung, die Dicke, manche Stellen rauer, wo das Schleifpapier nicht hingekommen war, manche so glatt, dass die Haut darüber rutschte ohne Widerstand. Sie kannte Boote. Auf dem Frachtschiff hatte sie gelernt, wie ein Rumpf sich hob und senkte und wie man das Meer nicht bekämpfte sondern ihm nachgab. Die Kapitänin, eine Frau mit sonnenverbrannten Händen, hatte gesagt: Ein Boot ist ein Kompromiss zwischen dem was du willst und dem was das Wasser erlaubt. Orins Boot war ein guter Kompromiss. Die Linien waren sauber, die Proportionen stimmig. Das Holz roch nach Leinöl und nach der Geduld, mit der jemand Jahre an einem einzigen Gegenstand gearbeitet hatte.
 
-Auf der Werkbank lagen Zeichnungen — Orins Handschrift, die sie aus den Briefen kannte, klein, regelmäßig, die Buchstaben leicht nach rechts geneigt. Bootsrisse. Querschnitte. Maße in Millimetern, sauber, mit Lineal gezogen. Thies stand daneben und ließ sie schauen.
+Auf der Werkbank lagen Zeichnungen — Orins Handschrift, die sie aus den Briefen kannte, klein, regelmäßig, die Buchstaben leicht nach rechts geneigt. Bootsrisse. Querschnitte. Maße in Millimetern, sauber, mit Lineal gezogen. Edric stand daneben und ließ sie schauen.
 
-"Er war regelmäßig", sagte Thies. "Morgens um sechs in der Werft. Abends um sechs weg. Wie Gezeiten." Er griff nach einem Hobel auf der Werkbank, drehte ihn in den Händen, legte ihn zurück. Genau dahin wo er gelegen hatte. "Außer nachts."
+"Er war regelmäßig", sagte Edric. "Morgens um sechs in der Werft. Abends um sechs weg. Wie Gezeiten." Er griff nach einem Hobel auf der Werkbank, drehte ihn in den Händen, legte ihn zurück. Genau dahin wo er gelegen hatte. "Außer nachts."
 
 Maren schaute auf.
 
-"Ist in den Garten gegangen. Den oben, am Klippenrand." Thies sprach zum Hobel, nicht zu ihr. "Ein-, zweimal die Woche. Nach Mitternacht. Ich hab ihn gesehen, vom Fenster aus, wenn ich nicht schlafen konnte." Pause. "Hat nie gesagt warum. Ich hab nie gefragt."
+"Ist in den Garten gegangen. Den oben, am Klippenrand." Edric sprach zum Hobel, nicht zu ihr. "Ein-, zweimal die Woche. Nach Mitternacht. Ich hab ihn gesehen, vom Fenster aus, wenn ich nicht schlafen konnte." Pause. "Hat nie gesagt warum. Ich hab nie gefragt."
 
 Stille im Schuppen. Das Knarren des Dachgebälks im Wind. Maren spürte etwas in ihren Handflächen, ein Kribbeln, das vom Holz kam oder von dem Wort — Garten, am Klippenrand, nach Mitternacht. Sie schloss die Hände. Das Kribbeln blieb.
 
-Thies sagte nichts mehr, und sein Schweigen war nicht das Schweigen eines Mannes, der etwas verbarg. Es war das Schweigen eines Mannes, der nicht mehr wusste als er gesagt hatte und dem das reichte.
+Edric sagte nichts mehr, und sein Schweigen war nicht das Schweigen eines Mannes, der etwas verbarg. Es war das Schweigen eines Mannes, der nicht mehr wusste als er gesagt hatte und dem das reichte.
 
 "Und sonst?", fragte Maren. "War er —" Sie suchte das Wort. Normal, wollte sie sagen, aber das Wort passte nicht auf einen Mann, der fünf Jahre lang einer Fremden über Holz geschrieben hatte und dann gestorben war und ihr alles hinterlassen hatte.
 
-"Er hatte einen Akzent", sagte Thies. Beiläufig, als fiele es ihm gerade ein. "Nicht von der Küste. Nicht aus dem Süden. Nicht aus den Innenlanden. Woanders her. Hat nie gesagt woher." Er strich mit dem Daumen über die Werkbank, über eine Kerbe im Holz. "Und seine Hände. Fein, für einen Bootsbauer. Lange Finger. Schmale Gelenke." Er hob die eigenen Hände, breit, rissig, zum Vergleich. "Sah aus als hätte er das Handwerk spät gelernt. Aber er konnte es. Das muss man ihm lassen."
+"Er hatte einen Akzent", sagte Edric. Beiläufig, als fiele es ihm gerade ein. "Nicht von der Küste. Nicht aus dem Süden. Nicht aus den Innenlanden. Woanders her. Hat nie gesagt woher." Er strich mit dem Daumen über die Werkbank, über eine Kerbe im Holz. "Und seine Hände. Fein, für einen Bootsbauer. Lange Finger. Schmale Gelenke." Er hob die eigenen Hände, breit, rissig, zum Vergleich. "Sah aus als hätte er das Handwerk spät gelernt. Aber er konnte es. Das muss man ihm lassen."
 
-Thies nahm die Schürze vom Haken. Faltete sie, die Hände sorgfältig an den Kanten. Legte sie auf die Werkbank, neben die Zeichnungen. Es war ein Abschluss.
+Edric nahm die Schürze vom Haken. Faltete sie, die Hände sorgfältig an den Kanten. Legte sie auf die Werkbank, neben die Zeichnungen. Es war ein Abschluss.
 
 "Der Notar hat gesagt, alles gehört Ihnen. Die Werft, das Boot, die Werkzeuge." Er schaute sie an, zum ersten Mal direkt, und seine Augen waren grau und ruhig und sagten: Ich habe keine Meinung dazu. "Orin hat mich bezahlt bis zum Monatsende. Danach —" Er ließ den Satz offen.
 
@@ -144,15 +144,15 @@ Das Zimmer war klein. Kerze auf dem Tisch, ein Bett, ein Stuhl, ein Fenster das 
 
 Sie zog die Stiefel aus. Die Socken waren feucht. Der Boden war kalt unter ihren nackten Füßen, Holz, alt und rau, und die Kälte kroch durch die Sohlen und setzte sich in den Knöcheln fest.
 
-Die Magd hatte eine Stunde zuvor eine Zinkwanne gebracht und heißes Wasser in Eimern geschleppt, dampfend, und Maren hatte zugeschaut wie sie es eingoss, Eimer für Eimer, und der Dampf hatte das Zimmer gefüllt und die Kerze zum Flackern gebracht und für einen Moment hatte es warm gerochen, nach Wasser und nach Wärme, und das Zimmer war ein anderes gewesen. Jetzt war der Dampf weg. Das Wasser war abgekühlt. Kalt, oder nah daran.
+Die Magd hatte eine Stunde zuvor eine Zinkwanne gebracht und heißes Wasser in Eimern geschleppt, dampfend, und Maren hatte zugeschaut wie sie es eingoss, Eimer für Eimer, und der Dampf hatte das Zimmer gefüllt und die Kerze zum Flackern gebracht und für einen Moment hatte es warm gerochen, nach Wasser und nach Wärme, und das Zimmer war ein anderes gewesen. Jetzt war der Dampf weg. Das Wasser war lauwarm. Nicht mehr heiß, nicht kalt. Dazwischen.
 
-Maren zog sich aus. Jacke, Hemd, Hose, alles auf den Stuhl, und die Luft war kühl auf ihrer Haut und die Gänsehaut kam sofort, an den Armen, an den Oberschenkeln, überall. Sie stieg in die Wanne. Das Wasser war kalt. Ein Zusammenziehen, von den Füßen aufwärts, und sie ließ sich hinein, langsam, und das Wasser stieg an ihren Beinen hoch, am Bauch, an den Rippen, und es war kalt, wirklich kalt, und sie zog die Knie an und umschlang sie mit den Armen und das Wasser stand still um sie herum, grau im Kerzenlicht, und auf der Oberfläche spiegelte sich die Flamme, ein kleiner, zitternder Punkt. Kalt.
+Maren zog sich aus. Jacke, Hemd, Hose, alles auf den Stuhl, und die Luft war kühl auf ihrer Haut und die Gänsehaut kam sofort, an den Armen, an den Oberschenkeln, überall. Sie stieg in die Wanne. Das Wasser war lauwarm. Nicht unangenehm, nur nicht genug. Sie ließ sich hinein, langsam, und das Wasser stieg an ihren Beinen hoch, am Bauch, an den Rippen, und die Wärme reichte nicht tief, saß auf der Haut und ging nicht weiter, und sie zog die Knie an und umschlang sie mit den Armen und das Wasser stand still um sie herum, grau im Kerzenlicht, und auf der Oberfläche spiegelte sich die Flamme, ein kleiner, zitternder Punkt.
 
 Steg. Die Wellen, die flacher geworden waren. Das Glas unter ihren Füßen. Ihr Gesicht im Wasser.
 
 Maren drückte den Gedanken weg. Die Gezeiten. Der Wind. Es gab eine Erklärung und sie würde sie finden und dann wäre es vorbei.
 
-Das Wasser war kalt. Sie hätte warmes nachlaufen lassen sollen. Es gab einen Kessel im Erdgeschoss, sie hätte die Magd rufen können, aber dazu hätte sie aufstehen müssen, sich abtrocknen, anziehen, die Treppe hinunter, und der Aufwand war zu groß für den Ertrag und so blieb sie sitzen, die Knie angezogen, die Arme darum, und dachte: Ich müsste warmes Wasser nachlaufen lassen.
+Das Wasser kühlte ab. Sie hätte heißes nachlaufen lassen sollen. Es gab einen Kessel im Erdgeschoss, sie hätte die Magd rufen können, aber dazu hätte sie aufstehen müssen, sich abtrocknen, anziehen, die Treppe hinunter, und der Aufwand war zu groß für den Ertrag und so blieb sie sitzen, die Knie angezogen, die Arme darum, und dachte: Ich müsste warmes Wasser nachlaufen lassen.
 
 An ihrer Wade zuckte etwas. Ein Strom, kaum spürbar, der vorher nicht da gewesen war.
 
@@ -162,7 +162,7 @@ Nicht stiller als es war — es war schon still gewesen, Wannenwasser, kein Wind
 
 Maren hielt den Atem an.
 
-Unter der Oberfläche bewegte sich etwas. Nicht sichtbar ��� spürbar. An ihren Beinen, an der Haut. Ein Strom, der sich formte, um ihre Knie, um ihre Schienbeine, ein Ziehen, so leise dass man es fast nicht sah, nur spürte, sanft, gleichmäßig, und das Wasser, das an ihren Beinen entlangstrich, war wärmer. Nicht heiß. Nicht plötzlich. Wärmer, mit jeder Umdrehung, als erzeugte die Bewegung selbst die Wärme, als riebe das Wasser an ihrer Haut und an sich selbst und an den Wänden der Wanne und die Reibung wurde Wärme und die Kälte ging, langsam, stetig, und Maren saß da und das Wasser kreiste und sie hatte sich nicht bewegt.
+Unter der Oberfläche bewegte sich etwas. Nicht sichtbar — spürbar. An ihren Beinen, an der Haut. Ein Strom, der sich formte, um ihre Knie, um ihre Schienbeine, ein Ziehen, so leise dass man es fast nicht sah, nur spürte, sanft, gleichmäßig, und das Wasser, das an ihren Beinen entlangstrich, war wärmer. Nicht heiß. Nicht plötzlich. Wärmer, mit jeder Umdrehung, als erzeugte die Bewegung selbst die Wärme, als riebe das Wasser an ihrer Haut und an sich selbst und an den Wänden der Wanne und die Reibung wurde Wärme und die Kälte ging, langsam, stetig, und Maren saß da und das Wasser kreiste und sie hatte sich nicht bewegt.
 
 Sie hatte sich nicht bewegt.
 
@@ -170,15 +170,15 @@ Maren griff an den Wannenrand. Das Metall war kalt unter ihren Fingern, die Kant
 
 Stille.
 
-Das Wasser lag da. Reglos. Warm. Als wäre nichts gewesen.
+Das Wasser lag da. Reglos. Heiß. Es dampfte leicht, ein dünner Schleier über der Oberfläche, und die Wanne war lauwarm gewesen, vor Minuten, und jetzt dampfte sie.
 
 Maren stand auf. Zu schnell — das Wasser schwappte über den Rand, auf die Dielen. Laut. Wasser auf Holz, ein Klatschen das in dem kleinen Zimmer nachhallte. Sie stand in der Wanne, nackt, tropfend. Ihre Haut war warm dort wo das Wasser sie berührt hatte und kalt dort wo die Luft sie traf. Sie stieg aus der Wanne, ein Bein, das andere. Das Wasser lief an ihr herunter, bildete eine Pfütze auf den Dielen, und Maren stand da und schaute auf die Wanne.
 
-Das Wasser war still. Warm. Kein Strudel. Kein Kräuseln. Nur Wasser in einer Zinkwanne in einem Gasthof in einer Stadt, in der sie niemanden kannte.
+Das Wasser war still. Dampf stieg auf. Kein Strudel. Kein Kräuseln. Nur Wasser in einer Zinkwanne in einem Gasthof in einer Stadt, in der sie niemanden kannte.
 
 Sie wickelte sich ins Laken. Der Stoff war rau auf nasser Haut, kratzte an der Schulter, an der Hüfte. Sie setzte sich aufs Bett. Das Bettgestell ächzte, ein leises Knarren. Ihre Finger rochen nach Metall, nach dem Wannenrand. In ihrer Brust das Pochen, das auf dem Steg angefangen hatte und nicht aufhörte. Die Kerze flackerte. Ihr Schatten an der Wand, groß und verzerrt, eine Frau die saß und nicht ging.
 
-Sie schaute auf die Wanne. Das Wasser war still. Kalt, jetzt, wahrscheinlich. Als wäre nichts gewesen.
+Sie schaute auf die Wanne. Der Dampf wurde dünner. Das Wasser kühlte ab, langsam, als wollte es nicht.
 
 Aber es war nicht nichts gewesen. Am Steg hatte sie sich belügen können. Gezeiten. Wind. Strömung. Hier gab es keinen Wind. Keine Strömung. Kein Meer. Nur eine Zinkwanne und einen Gedanken und das Wasser, das gehorcht hatte.
 

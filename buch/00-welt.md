@@ -339,8 +339,8 @@ Alt, schweigsam, Gesicht wie Treibholz. Fischt seit fünfzig Jahren auf der Grau
 ### Jara Voss — Archiv-Gehilfin
 Esther Voss' Nichte. Zwanzig, still, ordnet Dokumente. Sieht alles, sagt wenig. Sie findet das Manuskript — nicht Esther. Hat es gelesen, bevor sie es weitergibt. Weiß mehr als sie sagt.
 
-### Thies Dahl — Bootsbauer-Geselle
-Orin Dahls Lehrling. Dreißig, ruhige Hände. Echter Vaeler — kein Agent, kein Moragh-Mensch. Arbeitet an der Werft weiter, obwohl Orin tot ist. Zeigt Maren die Werft, erklärt das Boot. Weiß, dass Orin nachts in den Botanischen Garten ging. "Hat nie gesagt warum." Weiß nicht, dass Orin aus einer anderen Welt kam. Hat ihn als seltsam empfunden — Orins Akzent, der nie ganz verschwand. Seine Hände, feiner als die eines Bootsbauers. Aber Thies fragt nicht. Thies arbeitet.
+### Edric Dahl — Bootsbauer-Geselle
+Orin Dahls Lehrling. Dreißig, ruhige Hände. Echter Vaeler — kein Agent, kein Moragh-Mensch. Arbeitet an der Werft weiter, obwohl Orin tot ist. Zeigt Maren die Werft, erklärt das Boot. Weiß, dass Orin nachts in den Botanischen Garten ging. "Hat nie gesagt warum." Weiß nicht, dass Orin aus einer anderen Welt kam. Hat ihn als seltsam empfunden — Orins Akzent, der nie ganz verschwand. Seine Hände, feiner als die eines Bootsbauers. Aber Edric fragt nicht. Edric arbeitet.
 
 ### Doktor Halvard — Stadtarzt
 Behandelt die Fischer die vom Wasser krank werden. Seit dem Nebel häufiger. Rationalist — alles hat eine Erklärung. Bis es keine mehr hat. Vesper trinkt mit ihm. Halvard behandelt Verbrennungen die keine Hitzequelle haben, Frostbeulen im Sommer, Knochenbrüche ohne Sturz.
@@ -594,7 +594,7 @@ Alphina sagt: "Wir gehen. Alle vier."
 
 Das Ritual im Steinkreis. Vier Resonanzen, gleichzeitig. Die Luft reißt auf. Das Portal bleibt 4:33 offen. Sie gehen durch. **Runa schlüpft** in den letzten Sekunden mit durch. Fünf Menschen in Moragh, nicht vier. Das Portal schließt sich. Finn und Halvard stehen am Gartenrand und sehen alles.
 
-**Die Falle:** Sorel stirbt in Moragh (Varens Bindungsmagie). Drei Resonanzen übrig. Das Ritual braucht vier. Der Rückweg über das Portal ist Mathematik, nicht Magie. Kein Lecken mehr, keine Moragh-Magie die durchsickert. Vael heilt WEIL das Tor geschlossen ist. Der Nebel lichtet sich. Die Grauwe fließt vorwärts. Die Pflanzen stehen still — und wachsen jetzt auch in den Steinkreis hinein. Die unsichtbare Grenze ist weg. Dämonen die schon durch waren verlieren ihre Moragh-Verbindung, verblassen über Tage. Halvard schreibt seinen Bericht. Thies Dahl an der Werft, Jara Voss im Archiv mit dem Moragh-Sprachbuch das keinen Zweck mehr hat.
+**Die Falle:** Sorel stirbt in Moragh (Varens Bindungsmagie). Drei Resonanzen übrig. Das Ritual braucht vier. Der Rückweg über das Portal ist Mathematik, nicht Magie. Kein Lecken mehr, keine Moragh-Magie die durchsickert. Vael heilt WEIL das Tor geschlossen ist. Der Nebel lichtet sich. Die Grauwe fließt vorwärts. Die Pflanzen stehen still — und wachsen jetzt auch in den Steinkreis hinein. Die unsichtbare Grenze ist weg. Dämonen die schon durch waren verlieren ihre Moragh-Verbindung, verblassen über Tage. Halvard schreibt seinen Bericht. Edric Dahl an der Werft, Jara Voss im Archiv mit dem Moragh-Sprachbuch das keinen Zweck mehr hat.
 
 **Letzte Seite Buch 1:** Alphina steht auf der anderen Seite. Eine fremde Welt. Zwei Monde am Himmel. Sorel tot. Vesper, Maren. Und hinter ihnen, atemlos, Runa. Die Luft schmeckt nach etwas das sie nicht kennt. Der Rückweg existiert nicht.
 

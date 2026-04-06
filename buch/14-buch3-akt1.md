@@ -2,7 +2,7 @@
 
 ## Struktur
 
-Zwei Welten. Moragh: Monate vergangen. Der Krieg zwischen Gilden und Bindern hat sich verschärft. Alphinas Symbiose-Versuch funktioniert — langsam, fragil. Talven hat seine Ernte ausgebaut, im Geheimen. Sein Körper zahlt. Thalassien: ~2250. Maren geht durch den Wasserweg. Vael ist unerkennbar — Glasfassaden, Metallschiffe, Lichter ohne Feuer. Thies, Jara, Esther: alle tot seit Generationen. Sorels Glasplatten hängen im Stadtmuseum. "Die Vier von Vael" ist ein Forschungsgegenstand. Das Schwellenforschungsinstitut existiert.
+Zwei Welten. Moragh: Monate vergangen. Der Krieg zwischen Gilden und Bindern hat sich verschärft. Alphinas Symbiose-Versuch funktioniert — langsam, fragil. Talven hat seine Ernte ausgebaut, im Geheimen. Sein Körper zahlt. Thalassien: ~2250. Maren geht durch den Wasserweg. Vael ist unerkennbar — Glasfassaden, Metallschiffe, Lichter ohne Feuer. Edric, Jara, Esther: alle tot seit Generationen. Sorels Glasplatten hängen im Stadtmuseum. "Die Vier von Vael" ist ein Forschungsgegenstand. Das Schwellenforschungsinstitut existiert.
 
 **Stil:** Buch 3 = Yarros. Action, Kraft, dramatische Magie. Alphina hebt die Hand und Wälder wachsen. Kein Preis für sie. Tempo hoch, Einsätze höher.
 
@@ -35,7 +35,7 @@ Das Schwellenforschungsinstitut: ein Gebäude aus Glas und Stahl, gebaut neben d
 
 Maren sitzt in einem weißen Raum und eine Wissenschaftlerin stellt Fragen. "Wie alt sind Sie?" Maren: "Einunddreißig." Die Wissenschaftlerin tippt auf ein durchsichtiges Gerät. "Das Boot in der Werft — das steht im Museum. Seit hundertfünfzig Jahren."
 
-Marens Gedanken: Thies. Tot. Seit Generationen. Jara. Tot. Finn. Tot. Alle die sie kannte. Die Werft ist ein Denkmal. Das Wasser das sie gerufen hat, fließt immer noch falsch herum. Sensoren messen es. Niemand versteht warum.
+Marens Gedanken: Edric. Tot. Seit Generationen. Jara. Tot. Finn. Tot. Alle die sie kannte. Die Werft ist ein Denkmal. Das Wasser das sie gerufen hat, fließt immer noch falsch herum. Sensoren messen es. Niemand versteht warum.
 
 ### Kap. 44 — Vesper (S. 58–74, ~4.000 Wörter)
 *Die Thar. Der Krieg verändert sich.*
@@ -122,7 +122,7 @@ Aber: sein rechtes Auge. Der milchige Fleck breitet sich aus. Beiden Augen jetzt
 
 Maren kommt zurück. Mit fünf Wissenschaftlern, einem Generator, Kisten voller Geräte. Die Gilden-Älteste starrt. Die Thalassier in ihren fremden Kleidern, mit ihren leuchtenden Geräten, ihrem Selbstbewusstsein. Vierhundert Jahre Technologie-Vorsprung.
 
-Alphina umarmt Maren. "Wie lange war ich weg?" Maren: "Drei Tage eurer Zeit." Pause. "Vierhundert Jahre meiner." Alphinas Gesicht — sie versteht es nicht. Kann es nicht. Maren: "Thies ist tot. Jara. Finn. Alle." Stille. "Sorels Platten hängen in einem Museum."
+Alphina umarmt Maren. "Wie lange war ich weg?" Maren: "Drei Tage eurer Zeit." Pause. "Vierhundert Jahre meiner." Alphinas Gesicht — sie versteht es nicht. Kann es nicht. Maren: "Edric ist tot. Jara. Finn. Alle." Stille. "Sorels Platten hängen in einem Museum."
 
 Die Wissenschaftlerin beginnt zu messen. Sensoren im Hain, am Fluss, im Boden. Die KI auf dem Laptop: "Reservoir-Schwund anomal. Lokalisierte Entnahme im Quadrant Süd-Ost." Niemand weiß was das bedeutet. Noch nicht.
 
