@@ -19,6 +19,15 @@ Erstelle `buch/kapitel/XX-entwurf.md` mit:
 - Referenzen zu früheren Kapiteln
 - Wortziel pro Szene (~1.200-1.600), Gesamtziel: 4.000-4.500 Wörter
 
+**Pflichtfelder im Entwurf (GATE — ohne diese kein Council):**
+
+| Feld | Beschreibung |
+|------|-------------|
+| **Gänsehaut-Moment** | Was ist das Unmögliche das VOR der Figur physisch passiert? (Farne drehen sich, Gesicht auf Platte, Uhren stoppen auf 4:33) Jedes Kapitel braucht einen. |
+| **Figurenstimme** | Max Satzlänge, Leitmotiv, Rhythmus-Vorgabe — aus `buch/02-stilregeln-v2.md` Figurenstimmen-Tabelle übernehmen. |
+| **Timeline** | Monat/Jahreszeit explizit angeben. Gegen ALLE bisherigen Kapitel abgleichen. Kap 1 = März → alle Kap in Akt I = März. |
+| **Aktplan-Check** | Stimmt der Entwurf mit dem Aktplan überein? Wenn Abweichung: begründen und Autor fragen. |
+
 Dann: Council auf den Entwurf (`/council buch/kapitel/XX-entwurf.md`)
 
 ## Phase 2: Szene für Szene

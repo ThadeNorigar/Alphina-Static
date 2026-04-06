@@ -68,6 +68,19 @@ Gehe JEDEN Absatz durch. Für jeden Absatz frage:
 - Gegenstände: hat die Figur das Objekt bei sich? Wurde es erwähnt?
 - Beziehungen: Weiß Figur A schon von Figur B? Haben sie sich getroffen?
 
+## Phase 5: Timeline-Sync + Gänsehaut-Check
+
+**Timeline-Sync:**
+- Welcher Monat/Jahreszeit ist dieses Kapitel?
+- Gegen ALLE bisherigen Kapitel prüfen. Kap 1 (Alphina) = März. Alle Akt-I-Kapitel müssen synchron sein.
+- Wetter, Vegetation, Tageslänge — passen sie zur Jahreszeit?
+- Finding wenn Monat/Jahreszeit nicht explizit bestimmbar oder widersprüchlich.
+
+**Gänsehaut-Check:**
+- Gibt es im Kapitel einen Moment wo etwas physisch Unmögliches VOR der Figur passiert?
+- Nicht intellektuell (eine Zahl die nicht passt). Physisch (Uhren stoppen, Farne drehen sich, Gesicht auf alter Platte).
+- Wenn kein Gänsehaut-Moment: **KRITISCHES FINDING.**
+
 ## Output
 
 Erstelle einen Bericht:

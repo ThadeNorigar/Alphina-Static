@@ -18,7 +18,10 @@ Lies parallel:
 
 Bestimme:
 - **POV-Figur** und **Perspektive** (Ich/Präsens vs 3. Person/Präteritum)
-- **Erwarteter Rhythmus** (Alphina = präzise, kontrolliert, bricht unter Druck. Sorel = ruhig, Hände-Leitmotiv. Vesper = scharf, kurz. Maren = warm, fließend.)
+- **Figurenstimme** aus `buch/02-stilregeln-v2.md` Figurenstimmen-Tabelle laden:
+  - Max Satzlänge (Alphina ~40W, Sorel ~50W, Vesper ~20W, Maren ~35W)
+  - Leitmotiv (Puls, Hände, Turm/Finger, ?)
+  - Rhythmus-Erwartung
 
 ## Phase 1: Harte Zählungen (mit Grep)
 
@@ -30,7 +33,8 @@ Zähle mit Grep/Bash — keine Schätzungen:
 | "wie etwas das..." / "wie ein..." Vergleiche | 4x pro Kapitel | Überzählige markieren |
 | "und" als Satzverbinder (Hauptsatz und Hauptsatz) | Meldung ab >3 in einem Satz | Ketten markieren |
 | Wort/Phrase die >7x vorkommt (außer Artikeln/Pronomen) | 7x | Häufung markieren |
-| Sätze >60 Wörter | Meldung | Bandwurm-Kandidaten markieren |
+| Sätze über figurenspezifischem Limit | Alphina >40W, Sorel >50W, Vesper >20W, Maren >35W | Überlängen markieren |
+| Sätze >60 Wörter | Meldung | Bandwurm-Kandidaten markieren (alle Figuren) |
 
 ## Phase 2: Rhythmus-Analyse
 
