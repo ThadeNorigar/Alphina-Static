@@ -264,7 +264,7 @@ Ich blinzle.
 
 Die Gasse ist leer.
 
-Kein Rauch. Keine Augen. Kein Trillern. Der Sims neben mir: nasser Stein. Das Pflaster vor mir: Nebel, die Gaslampe, nichts. Drei Schemen — als hätte jemand sie ausradiert, als wären sie nie dort gewesen. Der Mann geht die Gasse hinunter, die Schritte schwer, gleichmäßig. Er hat nichts gesehen. Er geht nach Hause, oder zur Arbeit, oder zum Hafen. Er hustet noch einmal. Dann ist er im Nebel.
+Kein Rauch. Keine Augen. Kein Trillern. Der Sims neben mir: nasser Stein. Das Pflaster vor mir: Nebel, die Gaslampe, nichts. Alle drei — als hätte jemand sie ausradiert, als wären sie nie dort gewesen. Der Mann geht die Gasse hinunter, die Schritte schwer, gleichmäßig. Er hat nichts gesehen. Er geht nach Hause, oder zur Arbeit, oder zum Hafen. Er hustet noch einmal. Dann ist er im Nebel.
 
 Ich stehe da. Meine Hände zittern. Mein Atem geht flach, schnell — ich versuche ihn zu bremsen, es funktioniert nicht. Das Herz hämmert gegen meine Rippen als wolle es raus.
 
