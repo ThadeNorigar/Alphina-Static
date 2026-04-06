@@ -51,17 +51,13 @@ Halbinsel ins Graue Meer. Fluss **Grauwe** mündet hier — langsam, trüb, flie
 
 ### Warum Vael seltsam ist
 
-Die Schwelle zwischen den Welten leckt — am Steinkreis im Botanischen Garten, wo die Grenze am dünnsten ist. Magie aus Moragh sickert durch. Der Vaeler Atem ist buchstäblich Moragh-Luft. Die Grauwe fließt rückwärts, weil Wasser auf die Magie reagiert. Die Pflanzen im Garten wachsen, weil sie am nächsten an der Schwelle stehen. Die Einheimischen merken es nicht — sie leben seit Generationen damit.
+Das Tor zwischen den Welten leckt — am Steinkreis im Botanischen Garten, wo die Grenze am dünnsten ist. Magie aus Moragh sickert durch. Der Vaeler Atem ist buchstäblich Moragh-Luft. Die Grauwe fließt rückwärts, weil Wasser auf die Magie reagiert. Die Pflanzen im Garten wachsen, weil sie am nächsten am Tor stehen. Die Einheimischen merken es nicht — sie leben seit Generationen damit. **Das Lecken allein zieht KEINE Menschen an.** Die Anomalien existieren seit Jahrhunderten. Kein Resonanz-Begabter ist deshalb je hergekommen — bis Varens Agenten sie gezielt holten.
 
-Wenn die Schwelle aktiver wird, werden die Lecks stärker. Nebel dreimal die Woche. Die Grauwe fließt öfter rückwärts. Pflanzen wachsen schneller. Und dann kommen die Dämonen.
+Wenn das Tor aktiver wird, werden die Lecks stärker. Nebel dreimal die Woche. Die Grauwe fließt öfter rückwärts. Pflanzen wachsen schneller. Und dann kommen die Dämonen.
 
-### Die Stadt — drei Schichten
+### Die Stadt
 
-**Oberstadt** — Purpursteingotik, Kopfsteinpflaster, Gaslampen, Kutschen. Salz, Teer, nasser Backstein.
-
-**Zwischenstadt** — Keller die zu tief sind. Türen die in Räume führen, die auf keinem Grundriss stehen. Der zugemauerte Kanal, in dem man nachts Wasser hört.
-
-**Unterstadt** — Keller die noch tiefer gehen. Gewunden, als wären sie gewachsen. Wärmer als es sein sollte. Purpurstein-Adern durchziehen den Fels — dieselbe Substanz wie der Steinkreis oben im Garten.
+**Purpursteingotik.** Kopfsteinpflaster, Gaslampen, Kutschen. Salz, Teer, nasser Backstein. Die Häuser eng, die Gassen schmal. Giebel aus dunklem Stein, Fenster die im Nebel kaum leuchten. Keine Unterstadt, keine tiefen Keller — Vael ist eine Oberflächenstadt. Was unter der Stadt liegt, liegt unter dem **Botanischen Garten**, und nur dort.
 
 ### Orte
 
@@ -69,7 +65,7 @@ Wenn die Schwelle aktiver wird, werden die Lecks stärker. Nebel dreimal die Woc
 
 **Das Tidemoor-Haus** — Herrenhaus am Grauwe-Ufer. Standuhr die 4:33 pro Tag verliert. Mechanisch perfekt.
 
-**Die Werft Brandt** — Klaus Brandt, tot (natürliche Ursachen, alt, allein). Hinterlassen an Maren — nur die Werft und das halbfertige Boot. Kein Umschlag, keine Karte, keine Warnung.
+**Die Werft Brandt** — Klaus Brandt, tot (natürliche Ursachen). Moragh-Agent, von Varen vor ~2 Moragh-Monaten (~66 Thalassien-Jahre) durch das Portal geschickt. Kam als junger Mann, lebte ein ganzes Leben in Vael — unter falschem Namen, in der Werft die einst Lene Brandt gehörte. Baute Boote, schrieb Briefe an eine Frau mit Wasser-Resonanz die er nie traf, starb an Alter und an einer Schwerkraft für die sein Körper nicht gebaut war (Moragh: 0.7g, Thalassien: 1g). Hinterlassen an Maren: die Werft, das halbfertige Boot. Das Boot ist das Gegenstück zu Lenes Boot von 1423. Klaus wusste das. Maren nicht.
 
 **Das Lichthaus** — Speichergebäude am Hafen. Sorels Dunkelkammer im Keller.
 
@@ -87,19 +83,46 @@ Der **Steinkreis** im Botanischen Garten — Purpurstein, kreisförmig, schon im
 
 ### Wie es funktioniert
 
-**Ritual-Portal.** Braucht vier Resonanzen gleichzeitig im Steinkreis: Pflanze (Alphina), Licht (Sorel), Zeit (Vesper), Wasser (Maren). Einweg — wer durchgeht, kommt nur zurück wenn das Ritual auf der anderen Seite wiederholt wird. **Bleibt 4:33 offen,** dann schließt es sich.
+**Richtungsportal.** Beide Seiten können das Tor öffnen. Aber wer öffnet, kann nur in eine Richtung durchlassen: **von der öffnenden Seite auf die andere.** Moragh öffnet → Moragh-Menschen gehen nach Thalassien. Thalassien öffnet → Thalassier gehen nach Moragh. Kein Gegenverkehr. Kein Zurückgehen durch dasselbe Tor.
+
+**Von Thalassien aus** braucht das Ritual vier Resonanzen gleichzeitig im Steinkreis: Pflanze (Alphina), Licht (Sorel), Zeit (Vesper), Wasser (Maren). **Bleibt 4:33 offen,** dann schließt es sich.
+
+**Von Moragh aus** kann Varen das Tor allein öffnen — mit genug Reservoir und Vorbereitung. So hat er Agenten nach Thalassien geschickt. So hat er es auch 1423 geöffnet, als Elke durchging (damals von Moragh nach Thalassien, also konnten Thalassier nach Moragh gehen).
 
 Varen hat per Daemon eine Anleitung in Moragh-Sprache hinterlegt — Papier mit Zeichnung des Steinkreises, Ritual-Anweisungen, Symbole. Zusätzlich ein Moragh-Sprachbuch in der Bibliothek. Beides von Jara gefunden. Das Ritual-Papier trägt Fingerabdrücke die nicht von Menschen stammen — zu viele Gelenke, Linien die sich gabeln wo menschliche nicht gabeln. Niemand hat den Daemon gesehen.
 
-**DIE FALLE:** Mit Sorels Tod fehlt eine der vier Resonanzen. Das Ritual kann nie wieder ausgeführt werden. Der Rückweg ist Mathematik, nicht Magie. Drei reichen nicht.
+**DIE FALLE:** Mit Sorels Tod fehlt eine der vier Resonanzen. Das Thalassien-Ritual kann nie wieder ausgeführt werden. Der Rückweg über das Portal ist Mathematik, nicht Magie. Drei reichen nicht.
 
-Die Zeit läuft unterschiedlich. **1 Moragh-Jahr = 400 Thalassien-Jahre.** Das Verhältnis ist stabil. Elke ging vor ~400 Thalassien-Jahren durch = vor ~1 Moragh-Jahr. Die gesamte Trilogie (*Der Riss / Das Auge / Die Naht*) auf Moragh-Seite dauert ~1 Jahr. **Für die Rückkehr nach Vael (Buch 3) bedeutet das: Jahrhunderte sind vergangen. Alles Bekannte ist weg. Alle Kontakte, weg. Die Stadt die sie kannten existiert nicht mehr.**
+Die Zeit läuft unterschiedlich. **1 Moragh-Jahr = 400 Thalassien-Jahre.** Das Verhältnis ist stabil. 1 Moragh-Monat ≈ 33 Thalassien-Jahre. Elke ging vor ~400 Thalassien-Jahren durch = vor ~1 Moragh-Jahr. Die gesamte Trilogie (*Der Riss / Das Auge / Die Naht*) auf Moragh-Seite dauert ~1 Jahr. **Für die Rückkehr nach Vael (Buch 3) bedeutet das: Jahrhunderte sind vergangen. Alles Bekannte ist weg. Alle Kontakte, weg. Die Stadt die sie kannten existiert nicht mehr.**
 
-### Warum es Resonanz-Begabte anzieht
+### Der Wasserweg (Buch 2–3)
 
-Die Schwelle am Steinkreis strahlt aus. Magie-Lecks, die in Thalassien wie Anomalien wirken — und die Menschen mit Resonanz anziehen. Resonanz ist ein Sinn, den die meisten Thalassier nicht haben. Die wenigen, die ihn haben, spüren die Schwelle wie einen Magneten.
+Maren entdeckt in Moragh, dass Wasser zwischen den Welten fließt — nicht nur am Portal, überall wo Wasser ist. Das Portal ist eine Tür. Das Wasser ist ein Netz. Maren spürt den "stillen Punkt" in einem Fluss, wo Moragh-Wasser und Thalassien-Wasser sich berühren. Sie formt einen Kanal — schmal, fragil, ein Flüstern zwischen den Welten.
 
-**Keine orchestrierten Köder.** Die Schwelle zieht an — subtil, über Monate. Alphinas Pflanzen zeigen nach Norden. Sorel findet zufällig eine Glasplatte aus Vael. Vesper hört in einem Gasthaus von einer Uhr die falsch geht. Maren erbt eine Werft. Jeder kommt aus eigenem Antrieb, gezogen von etwas das sie nicht benennen können. Varen hat die Schwelle aktiviert und das Manuskript platziert — aber die Vier hat er nicht gerufen. Die Schwelle hat sie gerufen.
+**Der Wasserweg folgt denselben Richtungsregeln wie das Portal.** Maren öffnet von Moragh aus → sie kann nach Thalassien gehen. Aber: Maren kann den Wasserweg ANPASSEN, weil Wasser ihre Resonanz ist. In Buch 3 stabilisiert sie ihn, macht ihn breiter, pendelt zwischen den Welten.
+
+**Der Wasserweg kostet Moragh** — nicht Maren (Thalassier zahlen keinen persönlichen Preis). Aber das Reservoir unter dem Fluss sinkt.
+
+**Maren erkennt die Zeitdilatation.** Rechnet. Überlegt. Bittet Vesper mitzukommen. Vesper weigert sich — er bleibt in Moragh, geht mit Nyr, verlässt die Gruppe vorerst. Maren geht allein. Durch das Wasser, zurück nach Vael. Jahrhunderte sind vergangen.
+
+### Varens Köder — warum die Vier nach Vael kommen
+
+**Das Tor ruft NIEMANDEN.** Das Tor ist ein Mechanismus, kein Magnet. Es leckt — Moragh-Luft sickert durch (der Vaeler Atem), Pflanzen wachsen am Steinkreis, die Grauwe fließt manchmal rückwärts. Aber das Lecken zieht keine Menschen an. Die Anomalien in Vael existieren seit Jahrhunderten. Kein Resonanz-Begabter ist je deshalb hergekommen.
+
+**Varen hat sie gerufen.** Alle vier. Über Agenten, die er durch das Portal geschickt hat. Für ihn Wochen Vorbereitung — für die Agenten Jahrzehnte in Thalassien.
+
+**Die Köder:**
+
+| Figur | Köder | Agent/Methode |
+|-------|-------|---------------|
+| Alphina | Fachzeitschriften-Artikel über Asplenium am 51. Breitengrad, Vael | Agent hat den Artikel an die Thalassische Gesellschaft für Botanik gebracht. Der Farn existiert wirklich (wächst am Steinkreis). Der Artikel macht ihn zur Nachricht. |
+| Sorel | Sein Gesicht auf einer Glasplatte aus Vael, im Sammlernachlass | Agent hat die Platte mit Moragh-Lichtmagie hergestellt und im Nachlass platziert. Die Technik existiert — Sorels eigene Resonanz (Licht/Bilder) macht das Bild SCHÄRFER als es sein sollte, weil sein Sinn darauf reagiert. |
+| Vesper | Der reisende Uhrmacher im Gasthaus, der von der Standuhr in Vael erzählt | Agent. Kein Uhrmacher — marineblaue Augen, keine Hornhaut, keine Ölränder. Moragh-Mensch, der Thalassisch gelernt hat. Die Standuhr verliert wirklich 4:33 (Tor-Leck). Der Agent hat nur dafür gesorgt, dass VESPER davon erfährt. |
+| Maren | Klaus Brandts Erbschaft — die Werft, das Boot | Klaus IST der Agent. Moragh-Mann, vor ~66 Thalassien-Jahren durchgeschickt. Lebte ein ganzes Leben in Vael. Fand Maren über Briefe, baute die Werft, das Boot. Starb an Alter und Schwerkraft. |
+
+**Die Resonanzen sind echt.** Alphinas Pflanzen reagieren wirklich auf sie. Sorel sieht wirklich unmögliche Dinge auf Platten. Vesper sieht wirklich Muster. Marens Wasser antwortet wirklich. Aber was sie nach VAEL zieht, ist kein kosmisches Schicksal — es ist ein Mann mit einem Plan und mit der Zeit auf seiner Seite.
+
+**Die Leserin glaubt in Buch 1:** Etwas Übernatürliches ruft die Vier. Schicksal. Bestimmung. **Die Wahrheit (Buch 2, stückweise):** Es war nie das Tor. Es war Varen. Er hat Landebahnen gebaut. Die Flugzeuge hat er nicht geflogen — die Resonanzen der Vier haben sie nach Vael getragen, WEIL die Köder perfekt zu ihrem jeweiligen Sinn passten. Jeder Köder sprach die Resonanz an, die er ansprechen sollte.
 
 ### Zeugen
 
@@ -272,7 +295,7 @@ Hat auf dem Brett Muster gesehen, die kein Mensch dort hingelegt hat. Dieselbe B
 
 Keine feste Adresse. Drei Leben hinter sich. Alles passt in einen Seesack. Fließt. Bleibt nie.
 
-Erbt Klaus Brandts Werft in Vael. Fünf Jahre Briefwechsel — über Holz, das Meer, Handwerk. Nie ein Treffen. Jetzt ist er tot und sie erbt alles: die Werft, das halbfertige Boot, die Werkzeuge. Kein Brief, keine Warnung. Nur ein Boot das drei Viertel fertig ist und eine Frau die nie bleibt.
+Erbt Klaus Brandts Werft in Vael. Fünf Jahre Briefwechsel — über Holz, das Meer, Handwerk. Nie ein Treffen. Jetzt ist er tot und sie erbt alles: die Werft, das halbfertige Boot, die Werkzeuge. Nur ein Boot das drei Viertel fertig ist und eine Frau die nie bleibt. **Klaus war ein Moragh-Agent Varens.** Maren weiß das nicht. Die Briefe waren echt — Klaus hat sie wirklich geschrieben, über Jahre. Aber der Zweck war der Köder.
 
 ---
 
@@ -317,7 +340,7 @@ Alt, schweigsam, Gesicht wie Treibholz. Fischt seit fünfzig Jahren auf der Grau
 Esther Voss' Nichte. Zwanzig, still, ordnet Dokumente. Sieht alles, sagt wenig. Sie findet das Manuskript — nicht Esther. Hat es gelesen, bevor sie es weitergibt. Weiß mehr als sie sagt.
 
 ### Thies Brandt — Bootsbauer-Geselle
-Klaus Brandts Lehrling. Dreißig, ruhige Hände. Arbeitet an der Werft weiter, obwohl Klaus tot ist. Zeigt Maren die Werft, erklärt das Boot. Weiß, dass Klaus nachts in den Garten ging. "Hat nie gesagt warum."
+Klaus Brandts Lehrling. Dreißig, ruhige Hände. Echter Vaeler — kein Agent, kein Moragh-Mensch. Arbeitet an der Werft weiter, obwohl Klaus tot ist. Zeigt Maren die Werft, erklärt das Boot. Weiß, dass Klaus nachts in den Botanischen Garten ging. "Hat nie gesagt warum." Weiß nicht, dass Klaus aus einer anderen Welt kam. Hat ihn als seltsam empfunden — Klaus' Akzent, der nie ganz verschwand. Seine Hände, feiner als die eines Bootsbauers. Aber Thies fragt nicht. Thies arbeitet.
 
 ### Doktor Halvard — Stadtarzt
 Behandelt die Fischer die vom Wasser krank werden. Seit dem Nebel häufiger. Rationalist — alles hat eine Erklärung. Bis es keine mehr hat. Vesper trinkt mit ihm. Halvard behandelt Verbrennungen die keine Hitzequelle haben, Frostbeulen im Sommer, Knochenbrüche ohne Sturz.
@@ -471,13 +494,19 @@ Er hat das Portal aktiviert um Resonanz-Begabte nach Moragh zu bringen. Will sie
 
 ### Sein Plan
 
-Er hat die Schwelle aktiviert (das allein hat ihn Monate Erholung gekostet — danach hat er sich vollständig erholt). Er hat das Manuskript im Archiv überschrieben — die echten Aufzeichnungen von 1423 mit falschen Anweisungen ergänzt. Er hat per Daemon die Ritual-Anleitung und das Moragh-Sprachbuch in Vael hinterlegt. Aber die Vier hat er NICHT gerufen. Die Schwelle zieht Resonanz-Begabte an, von allein. Er wartet nur.
+**Varen hat die Vier gerufen.** Systematisch, über Agenten, über Jahrzehnte (für ihn: Wochen).
 
-**Die Falle:** Die Vier führen das Ritual aus und kommen freiwillig durch. Sorel stirbt — damit fehlt eine der vier Resonanzen für die Rückkehr. Die Falle ist nicht geplant (Sorels Tod war unbeabsichtigt), aber sie ist endgültig.
+**Schritt 1 — Agenten:** Er hat Moragh-Menschen durch das Portal geschickt — junge Männer und Frauen mit Grundausbildung in Thalassisch (von Elke gelernt, weitergegeben). Für ihn vergehen Wochen. Für die Agenten vergehen Jahrzehnte in Thalassien. Sie leben ganze Leben, bauen Infrastruktur, suchen Resonanz-Begabte. Klaus Brandt (Maren), der Uhrmacher-Fremde (Vesper), der Artikel-Verfasser (Alphina), der Platten-Fälscher (Sorel) — vier Köder, vier Agenten, vier verschiedene Methoden.
+
+**Schritt 2 — Manuskript und Ritual:** Er hat das Manuskript im Archiv überschrieben — die echten Aufzeichnungen von 1423 mit falschen Anweisungen ergänzt. Er hat per Daemon die Ritual-Anleitung und das Moragh-Sprachbuch in Vael hinterlegt. Alles was die Vier brauchen um das Ritual auszuführen — glaubhaft verpackt als uralte Entdeckung.
+
+**Schritt 3 — Warten:** Die Vier kommen nach Vael. Jeder glaubt, ein persönliches Geheimnis verfolgen. Keiner ahnt, dass alle vier denselben Köder geschluckt haben. Sie finden das Manuskript, übersetzen das Ritual, öffnen das Tor. Freiwillig.
+
+**Die Falle:** Sorel stirbt — damit fehlt eine der vier Resonanzen für die Rückkehr. Die Falle war nicht GEPLANT (Sorels Tod war unbeabsichtigt), aber sie ist endgültig. Und sie dient Varens Zweck: die Resonanz-Begabten sind in Moragh, ohne Rückweg. Abhängig von ihm.
 
 ### Vorgeschichte mit Elke
 
-6 Moragh-Monate vor Buch 1 hat Varen Elke gefunden — die einzige Thalassierin in Moragh. Wochen zusammen: er hat geforscht, sie hat geformt, er hat ihre Sprache gelernt. Intellektuelle Faszination auf beiden Seiten. Keine Liebesgeschichte — aber die Intensität eines Forschungspaars das einander braucht. Elke hat ihn durchschaut: "Du willst die Welt reparieren und wirst Menschen zerbrechen dabei." Sie wusste nicht wie recht sie hatte — er repariert nicht die Welt, er repariert SEINEN Fehler. Sie ist gegangen. Varen hat seine Schlüsse gezogen — allein. Er braucht MEHR Resonanz-Begabte. Also aktiviert er die Schwelle.
+6 Moragh-Monate vor Buch 1 hat Varen Elke gefunden — die einzige Thalassierin in Moragh. Wochen zusammen: er hat geforscht, sie hat geformt, er hat ihre Sprache gelernt. Intellektuelle Faszination auf beiden Seiten. Keine Liebesgeschichte — aber die Intensität eines Forschungspaars das einander braucht. Elke hat ihm Thalassisch beigebracht — und er hat es an seine Agenten WEITERGEGEBEN. Elke hat ihn durchschaut: "Du willst die Welt reparieren und wirst Menschen zerbrechen dabei." Sie wusste nicht wie recht sie hatte — er repariert nicht die Welt, er repariert SEINEN Fehler. Sie ist gegangen. Varen hat seine Schlüsse gezogen — allein. Er braucht MEHR Resonanz-Begabte. Also schickt er Agenten durch das Tor, mit dem Thalassisch das Elke ihm beigebracht hat, um Resonanz-Begabte in Thalassien zu finden und nach Vael zu locken.
 
 ### Die erste Begegnung (Kap 35)
 
@@ -511,7 +540,7 @@ Die Thar haben die Leylinien-Kopplung bereits realisiert — ihr Netzwerk funkti
 
 Varens Dilemma: Warnen bedeutet sich verraten (die Gilden würden ihn als Kriegsauslöser töten). Schweigen bedeutet warten bis jemand die Waffe entdeckt — ob durch Unfall oder Absicht. **Varen hasst die Thar** nicht weil sie böse sind, sondern weil sie mit jeder neuen Kopplung die Bombe größer machen. In Buch 2-3 wird das zu einem zentralen Konflikt.
 
-### Vael heilt WEIL die Schwelle geschlossen ist
+### Vael heilt WEIL das Tor geschlossen ist
 
 Mit dem Portal-Durchgang und Sorels Tod ist die Verbindung gekappt. Konsequenz: kein Lecken mehr. Moragh-Magie sickert nicht mehr nach Thalassien. Vael normalisiert sich — der Nebel lichtet sich, die Grauwe fließt vorwärts, die Farne stehen still. Dämonen die schon durch waren verlieren ihre Moragh-Verbindung und verblassen über Tage.
 
@@ -559,13 +588,13 @@ Das Tor war offen. Varen hatte es geöffnet, zum ersten Mal. Er suchte Resonanz-
 
 ## Szenario — Ende Buch 1
 
-An der Schwelle begreifen die Vier, was sie tun müssen — oder was sie GLAUBEN tun zu müssen. Das überschriebene Manuskript sagt: Geht durch, schließt das Tor von innen, rettet Vael. Sie halten es für ein Opfer.
+Am Steinkreis begreifen die Vier, was sie tun müssen — oder was sie GLAUBEN tun zu müssen. Das überschriebene Manuskript sagt: Geht durch, schließt das Tor von innen, rettet Vael. Sie halten es für ein Opfer.
 
 Alphina sagt: "Wir gehen. Alle vier."
 
 Das Ritual im Steinkreis. Vier Resonanzen, gleichzeitig. Die Luft reißt auf. Das Portal bleibt 4:33 offen. Sie gehen durch. **Runa schlüpft** in den letzten Sekunden mit durch. Fünf Menschen in Moragh, nicht vier. Das Portal schließt sich. Finn und Halvard stehen am Gartenrand und sehen alles.
 
-**Die Falle:** Sorel stirbt in Moragh (Varens Bindungsmagie). Drei Resonanzen übrig. Das Ritual braucht vier. Der Rückweg ist Mathematik, nicht Magie. Kein Lecken mehr, keine Moragh-Magie die durchsickert. Vael heilt WEIL die Schwelle geschlossen ist. Der Nebel lichtet sich. Die Grauwe fließt vorwärts. Die Pflanzen stehen still — und wachsen jetzt auch in den Steinkreis hinein. Die unsichtbare Grenze ist weg. Dämonen die schon durch waren verlieren ihre Moragh-Verbindung, verblassen über Tage. Halvard schreibt seinen Bericht. Thies Brandt an der Werft, Jara Voss im Archiv mit dem Moragh-Sprachbuch das keinen Zweck mehr hat.
+**Die Falle:** Sorel stirbt in Moragh (Varens Bindungsmagie). Drei Resonanzen übrig. Das Ritual braucht vier. Der Rückweg über das Portal ist Mathematik, nicht Magie. Kein Lecken mehr, keine Moragh-Magie die durchsickert. Vael heilt WEIL das Tor geschlossen ist. Der Nebel lichtet sich. Die Grauwe fließt vorwärts. Die Pflanzen stehen still — und wachsen jetzt auch in den Steinkreis hinein. Die unsichtbare Grenze ist weg. Dämonen die schon durch waren verlieren ihre Moragh-Verbindung, verblassen über Tage. Halvard schreibt seinen Bericht. Thies Brandt an der Werft, Jara Voss im Archiv mit dem Moragh-Sprachbuch das keinen Zweck mehr hat.
 
 **Letzte Seite Buch 1:** Alphina steht auf der anderen Seite. Eine fremde Welt. Zwei Monde am Himmel. Sorel tot. Vesper, Maren. Und hinter ihnen, atemlos, Runa. Die Luft schmeckt nach etwas das sie nicht kennt. Der Rückweg existiert nicht.
 
