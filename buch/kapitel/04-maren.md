@@ -1,125 +1,191 @@
 # Kapitel 4 — Maren
 
-Der Schuppen roch nach Klaus.
+Der Schuppen roch nach Orin.
 
-Nicht nach Klaus persönlich — Maren wusste nicht, wie Klaus persönlich gerochen hatte, sie hatten sich nie getroffen, nicht ein einziges Mal in fünf Jahren Briefwechsel — sondern nach dem, was Klaus gewesen war: Holz, Leim, Bootslack, Sägemehl, Schleifstaub, und darunter, ganz leise, das Meer. Der Schuppen lag zwanzig Meter vom Wasser entfernt und das Meer war trotzdem drin, in den Wänden, im Boden, in der Luft, so wie das Meer in allem drin ist, wenn man lange genug an einem Ort bleibt, dachte Maren, und dann dachte sie: Ich bleibe nie lange genug, und dann dachte sie gar nichts mehr, weil das Tor offen stand und der Wind hindurchblies und in dem Wind lag Salz und in dem Salz lag alles, was sie nicht wusste über den Mann, der ihr eine Werft hinterlassen hatte.
+Nicht nach Orin persönlich — Maren wusste nicht, wie Orin gerochen hatte, sie hatten sich nie getroffen, fünf Jahre Briefwechsel und kein einziges Mal seine Stimme gehört — sondern nach dem, was Orin gewesen war. Holz und Leim und Bootslack. Sägemehl, das noch in der Luft hing, obwohl seit drei Wochen niemand mehr gesägt hatte. Schleifstaub auf jeder Oberfläche, fein wie Mehl, und darunter, in den Wänden, im Boden, in den Ritzen zwischen den Brettern: das Meer. Der Schuppen lag zwanzig Meter vom Wasser entfernt, aber das Meer war trotzdem drin. Es war immer drin, wenn man lange genug an einem Ort blieb.
 
-Ihre Stiefel waren noch feucht vom Kutter. Fünf Stunden über die Bucht, in einem Fischerboot das nach Teer und Fischöl roch und nach dem Schweiß des Fischers, der sie mitgenommen hatte, ein Mann der nicht redete und das war gut gewesen. Der Seesack an ihrer Schulter, schwer auf der linken Seite, wo die Bücher lagen, der Gurt schnitt in die Haut über dem Schlüsselbein, ein dünner, scharfer Schmerz, vertraut wie ein alter Riss im Leder. Alles was sie besaß. Alles was sie je besessen hatte, seit sie achtzehn war und Thessa verlassen hatte, mit einem Gepäck das halb so schwer gewesen war, weil sie damals weniger Bücher hatte und mehr Mut und weniger Grund zu gehen und trotzdem gegangen war.
+Maren blieb nie lange genug.
 
-Sie stand vor der Werft und die Grauküste lag hinter ihr, felsig und nass und grau. Der Weg vom Hafen hatte eine halbe Stunde gedauert, über Kopfsteinpflaster, das nass war und glitschig unter ihren Stiefeln, und die Stadt hatte sich um sie geschlossen, eng und dunkel, die Häuser aus rotem Stein, Purpurstein, dunkler als sie erwartet hatte, fast schwarz im Nebel, und die Gassen waren schmal und die Gaslampen brannten auch am Morgen, gelb und trüb, und die Menschen hatten sie nicht angeschaut. In Solha schauten die Leute Fremde an. In Thessa riefen sie ihnen etwas zu. In Vael gingen sie vorbei, die Köpfe gesenkt, die Mäntel geschlossen, und der Nebel verschluckte sie nach drei Schritten.
+Ihre Stiefel waren feucht vom Kutter. Fünf Stunden über die Bucht, in einem Fischerboot das nach Teer und Makrele roch und nach dem Schweiß des Mannes, der sie mitgenommen hatte, der wenig redete und das war ihr recht gewesen. Der Seesack an ihrer Schulter, schwer auf der linken Seite, wo die Bücher lagen. Der Gurt schnitt in die Haut über dem Schlüsselbein, ein dünner, scharfer Schmerz, vertraut wie ein alter Riss im Leder. Alles was sie besaß. Alles was sie je besessen hatte, seit sie mit achtzehn Thessa verlassen hatte, mit einem Gepäck das halb so schwer gewesen war, weil sie damals weniger Bücher besaß und mehr Gründe zu gehen und weniger um zu bleiben und trotzdem gegangen war.
 
-Vor ihr der Schuppen, und darin ein Boot, das einem Toten gehörte, der ihr geschrieben hatte, fünf Jahre lang, über Spantenabstände und Holzsorten und den Winkel, in dem man eine Planke biegen musste, damit sie dem Wasser nachgab und nicht brach.
+Die Stadt hinter ihr lag im Nebel. Vael. Dunkler Stein, fast schwarz, und Giebel und Gassen so eng, dass zwei Kutschen nicht nebeneinander passten. Sie war vom Hafen hierher gelaufen, eine halbe Stunde über nasses Kopfsteinpflaster, vorbei an Fassaden die im Nebel standen wie Bühnenbilder ohne Zuschauer, und die Gaslampen brannten auch am Morgen, gelb und trüb, und ihr Licht schaffte es nicht bis zum Boden. Die Häuser hatten sich um sie geschlossen, dunkel, fast schwarz im Nebel, und die Luft war anders als im Süden, schwerer, mit einer Feuchtigkeit die auf der Haut blieb und in den Stoff der Jacke kroch und nicht mehr ging. In Solha schauten die Leute Fremde an. In Thessa riefen sie ihnen etwas zu. In Vael gingen sie vorbei, die Köpfe gesenkt, die Mäntel geschlossen, und der Nebel verschluckte sie nach drei Schritten. Am Rand der Stadt, wo die Häuser aufhörten und das Wasser anfing, hatte sie die Werft gefunden. Eine Frau auf der Straße hatte mit dem Kinn in die Richtung gezeigt, ohne stehenzubleiben.
 
-Der erste Brief. Solha, Südküste, ein heißer März. Maren saß in einer Tonwerkstatt und baute an etwas, das kein Boot war, aber einem Boot ähnlich sah, eine geschwungene Form aus rotem Ton, und sie hatte eine Frage über Spantenabstände, weil die Form nicht hielt, und jemand hatte gesagt, frag Brandt an der Grauküste, der weiß alles über Kurven im Holz. Sie hatte geschrieben. Kurz, sachlich, eine technische Frage. Die Antwort kam drei Wochen später. Noch kürzer. Noch sachlicher. Und am Ende des Briefs, unter der Zeichnung, ein Satz: *Das Holz gibt nach, wenn man ihm Zeit lässt.*
+Der Schuppen stand am Wasser, grau, das Holz verwittert vom Salzwind. Groß genug für ein Boot. Das Tor stand offen und der Wind blies hindurch und in dem Wind lag Salz und in dem Salz lag alles, was sie nicht wusste über den Mann, der ihr eine Werft hinterlassen hatte.
+
+Der erste Brief. Solha, Südküste, ein heißer März. Maren saß in einer Tonwerkstatt und formte etwas, das kein Boot war, aber einem Boot ähnlich sah, eine geschwungene Form aus rotem Ton, und sie brauchte eine Antwort auf eine Frage über Spantenabstände, weil die Form nicht hielt, und jemand hatte gesagt: Schreib Dahl an der Grauküste, der weiß alles über Kurven im Holz. Sie hatte geschrieben. Kurz, sachlich, eine technische Frage. Die Antwort kam drei Wochen später. Noch kürzer. Noch sachlicher. Und am Ende, unter der Zeichnung: *Das Holz gibt nach, wenn man ihm Zeit lässt.*
 
 Sie hatte zurückgeschrieben. Nicht wegen der Spanten.
 
-Fünf Jahre. Einundsechzig Briefe. Maren hatte sie gezählt, in der Nacht nach dem Brief des Notars, in einem Gasthof in einer Stadt deren Namen sie schon vergessen hatte. Das Bett war schmal gewesen und die Matratze durchgelegen und das Fenster ging auf eine Gasse in der ein Hund bellte, regelmäßig, stündlich, und sie hatte die Briefe auf der Decke ausgebreitet, sortiert nach Datum, einundsechzig Rechtecke auf dem fleckigen Stoff, und sie hatte sie nicht gelesen, nur gezählt. Lesen wäre an diesem Abend zu viel gewesen. Ihre Hände hatten über die Umschläge gestrichen, über das Papier, über die Stellen wo Klaus' Finger das Papier gehalten hatten, und sie hatte den Geruch gesucht, seinen Geruch, den sie nicht kannte, und stattdessen nur Papier und Tinte gerochen und den Staub des Gasthofs und den Regen der gegen das Fenster trommelte. Einundsechzig Briefe, und in keinem stand etwas Persönliches, kein Geständnis, keine Frage, kein Vorwurf, und trotzdem wusste sie Dinge über Klaus, die man aus Briefen über Bootsbau nicht wissen sollte. Dass er geduldig war. Dass er morgens früh aufstand und abends spät ins Bett ging und dazwischen mit Holz sprach, auf eine Art die in den Briefen durchschimmerte, in der Sorgfalt, mit der er Worte wählte, in der Art wie er *Eiche* schrieb, mit einem Respekt, als wäre das Holz ein Lebewesen.
+Einundsechzig Briefe. Fünf Jahre. Maren hatte sie gezählt, in der Nacht nach dem Brief des Notars, in einem Gasthof in einer Stadt deren Namen sie schon vergessen hatte. Sie hatte die Briefe auf der Decke ausgebreitet, sortiert nach Datum, einundsechzig Rechtecke auf fleckigem Stoff, und sie hatte sie nicht gelesen, nur gezählt, weil Lesen an dem Abend zu viel gewesen wäre. Ihre Hände waren über die Umschläge gestrichen, über das Papier, über die Stellen wo Orin' Finger es gehalten hatten, und sie hatte seinen Geruch gesucht, den sie nicht kannte, und stattdessen nur Tinte und den Staub des Gasthofs gerochen.
 
-Und jetzt stand sie vor seinem Schuppen und er war drei Wochen tot und das Meer schlug gegen den Steg hinter ihr, gleichmäßig, und der Wind roch nach Salz und nach dem Leim, der aus dem offenen Tor kam.
+Jetzt stand sie vor seinem Schuppen. Drei Wochen tot. Herzversagen, schrieb der Notar. Kein Umschlag, keine Karte, keine Warnung. Nur die Werft und das Boot.
 
-In ihrer Jackentasche der Brief des Notars. Und darin der Satz, der sie hergebracht hatte, der sie fünf Stunden auf einem Fischerboot hatte sitzen lassen, das Bündel zwischen den Knien, das Gesicht im Wind: *Der Nachlass enthält einen versiegelten Umschlag. Herr Brandt hat verfügt, dass dieser erst dreißig Tage nach der Übergabe geöffnet werden darf.*
+Maren legte die Hand auf den Türrahmen. Das Holz war rau unter ihrer Handfläche, aufgerissen vom Salz, grau und faserig. Ihre Finger schlossen sich darum und sie stand da, eine Hand am Holz, und die Luft ging nicht weiter. Einen Atemzug lang war ihr Brustkorb zu eng und ihre Kehle zu schmal und der Seesack zu schwer, und sie stand da und hielt sich fest, an dem Türrahmen eines Mannes den sie nie getroffen hatte und der jetzt unter der Erde lag, und der Wind roch nach Leim und nach Holz und nach dem Meer und nach Sorgfalt.
 
-Dreißig Tage.
+Dann löste sie die Finger. Trat ein. Und der Schuppen roch wie die Briefe gerochen hatten.
 
-Ihre Hand fuhr in die Jackentasche und umschloss das Papier, den Notarbrief, und sie spürte die Knicke unter den Fingern und den Impuls, den sie kannte — den Impuls loszulassen, umzudrehen, den Seesack zu schultern und zu gehen, jetzt, sofort, bevor der Ort anfing, ein Gewicht zu bekommen. Der Impuls war da und Maren registrierte ihn und blieb stehen.
+Im Halbdunkel das Boot. Drei Viertel fertig, Kiel auf Holzböcken, Spanten nach oben ragend. Die Planken reichten fast bis zur Bordwand, dicht, eingepasst, und darüber hörten sie auf, abrupt, mitten im Satz. Die fertigen Planken waren geschliffen und eingelassen, das Holz dunkel von Leinöl. Oben, wo die letzte Reihe fehlte, ragten die Spanten nackt in die Luft, helles Holz, unbehandelt. Wartend.
 
-Maren, die nie blieb. Maren, deren längstes Kapitel acht Monate war, in Solha, in der Tonwerkstatt, bevor die Tonfiguren sie langweilten und die Hitze sie müde machte und der Mann, dessen Name sie vergessen hatte, angefangen hatte, von Zukunft zu reden, und Maren hatte das Wort gehört und ihr Gepäck gepackt und war gegangen, am nächsten Morgen, ohne Nachricht, ohne Erklärung, und sie hatte auf der Fähre gestanden und aufs Wasser geschaut und ihr Brustkorb war leer gewesen, flach, kein Ziehen, keine Schwere, einfach Luft — und das war das Problem, oder es war kein Problem, es war einfach so, es war Maren.
+Maren ließ den Seesack von der Schulter gleiten. Er fiel auf den Erdboden, dumpf, und Staub stieg auf und legte sich wieder. Sie streckte die Hand aus und berührte eine Planke. Glatt unter ihren Fingern, wärmer als die Luft, und sie fuhr mit der Handfläche über die Oberfläche, und die Maserung war unter ihrer Haut, die Jahresringe, der Rhythmus des Wachstums. Am Heck eine Stelle, wo die Planke einen Knoten hatte, dunkel im hellen Holz. Der Knoten war geblieben. Die Planke war um ihn herumgeschnitten und gebogen worden, sodass er Teil des Holzes blieb. Ein dunkles Auge im Holz. Maren legte den Finger darauf. Härter als das Holz drumherum. Verdichtet.
 
-Dreißig Tage an einem Ort bleiben. An einem Ort, den sie nicht kannte. In einer Stadt namens Vael, die am Grauen Meer lag und von der sie nichts wusste außer dem, was Klaus in seinen Briefen erwähnt hatte — den Nebel, den er Vaeler Atem nannte, und die Gezeiten, die anders waren als anderswo, launisch, als hätte das Meer seinen eigenen Zeitplan.
+Orin hatte den Fehler gelassen. Orin hatte den Fehler zum Teil des Bootes gemacht.
 
-Der Morgen war grau und kühl, die Sonne irgendwo hinter den Wolken, nicht sichtbar, nur als helles Nichts am Himmel, und die Luft hatte die feuchte Kälte der Küste, die durch den Stoff der Jacke kroch und auf der Haut blieb.
+Die Werkzeuge an der Wand, an Haken, geordnet — Hobel, Stechbeitel, Sägen, Zwingen, Leimtöpfe mit getrockneten Rändern. Die Schürze am Haken neben der Tür, steif von Leim und Holzstaub, die Form eines Körpers noch darin, Schultern, Brust. Maren berührte den Stoff nicht. Er hing da und hielt die Gestalt eines Mannes, der nicht mehr kam.
 
-Sie trat in den Schuppen. Der Boden war Erde, festgetreten, und unter ihren feuchten Stiefeln gab er leicht nach, weich, und der Geruch wurde stärker — Holz und Leim und Lack und Sägemehl und etwas Süßes, das sie nicht einordnen konnte, etwas das nach frisch geschnittenem Holz roch, obwohl niemand hier seit drei Wochen geschnitten hatte.
+Auf dem Boden Späne. Sägemehl. Eine dünne Schicht, gleichmäßig, als hätte der Wind sie verteilt. Maren kniete sich hin. Nahm eine Handvoll. Trocken, leicht, helles Holz. Sie roch daran. Holz und Harz und etwas Süßes, und die Späne waren so fein, als hätte jemand geschliffen, nicht gesägt. Sie ließ sie durch die Finger rieseln und sie fielen auf den Boden und mischten sich mit den anderen und waren nicht zu unterscheiden. Daneben, halb unter Sägemehl, ein Bleistift. Kurz, die Spitze abgebrochen. Sie hob ihn auf. Orin' Strich, ein silbriger Graphitfleck auf ihrer Haut. Sie steckte ihn in die Jackentasche, ohne zu wissen warum.
 
-Der Schuppen roch wie die Briefe gerochen hatten. Nach Sorgfalt. Nach Geduld. Nach einem Mann, der mit Holz gesprochen hatte.
+Maren setzte sich hin. Rücken gegen den Rumpf des Bootes. Das Holz war fest und glatt an ihrem Rücken, und sie spürte die Rundung, die Kurve, die Orin geschliffen hatte. Sie lehnte sich dagegen und schloss die Augen. Das Meer draußen. Der Wind in den Ritzen. Das Knarren des Holzes, das arbeitete, auch jetzt, auch leer.
 
-
----
-
-
-Das Boot war schöner als sie erwartet hatte.
-
-Nicht schön auf die Art, auf die fertige Dinge schön sind — glatt, lackiert, abgeschlossen. Schön auf die Art, auf die Dinge schön sind, die noch werden. Der Kiel lag auf zwei Holzböcken, die Spanten ragten nach oben und zur Seite, und die Planken reichten fast bis zur Bordwand, dicht, eingepasst, eine Lage fehlte noch und darüber das Deck, und dann hörten sie auf, abrupt, als hätte jemand mitten im Satz aufgehört zu sprechen. Die fertigen Planken waren geschliffen und eingelassen, das Holz dunkel von Leinöl, und oben, wo die letzte Reihe fehlte, ragten die Spanten nackt in die Luft, helles Holz, unbehandelt, wartend.
-
-Maren ließ das Gepäck von der Schulter gleiten. Es fiel auf den Erdboden, dumpf, und der Staub stieg auf und legte sich wieder. Sie streckte die Hand aus und berührte eine Planke. Das Holz war glatt unter ihren Fingern, wärmer als die Luft, und sie fuhr mit der Handfläche über die Oberfläche, langsam, und die Maserung war unter ihrer Haut, die Jahresringe, der Rhythmus des Wachstums, und Maren dachte: Klaus hat das geschliffen, und sie ließ die Hand liegen, länger als nötig.
-
-Sie kannte Boote. In Solha hatte sie an der Küste gelebt, drei Häuser vom Hafen, und das Geräusch der Boote war das Geräusch gewesen, mit dem sie aufwachte und einschlief — das Knarren der Taue, das Schlagen der Masten, das Schlappen des Wassers gegen Holz. Und davor, auf dem Frachtschiff, neun Monate, Südküste bis Grauküste und zurück, hatte sie gelernt, wie ein Boot sich bewegte, wie es atmete, wie der Rumpf sich hob und senkte und wie man das Meer nicht bekämpfte sondern ihm nachgab. Der Kapitän, eine Frau mit sonnenverbrannten Händen und einem Gesicht, das aussah als hätte es der Wind geschnitzt, hatte gesagt: Ein Boot ist ein Kompromiss zwischen dem, was du willst, und dem, was das Wasser erlaubt.
-
-Maren hatte das verstanden. Auf dem Schiff, mit dem Wind im Haar und dem Salz auf den Lippen, hatte sie zum ersten Mal verstanden, was Kompromiss bedeutete — eine Art von Stärke, die darin bestand, dem nachzugeben, was stärker war. Das Schiff gab dem Meer nach. Und das Meer trug es.
-
-Dann hatte sie das Schiff verlassen. Hafen, Gangway, Steg. Das Gepäck über die Schulter. Nicht umgedreht. Neun Monate, und sie war gegangen, und die Kapitänin hatte ihr nachgeschaut, vom Achterdeck, und nichts gesagt, und Maren hatte nichts gesagt, und das war das Ende gewesen.
-
-Sie umrundete das Boot. Langsam. Ihre Hand glitt über die Planken, Planke für Planke, und jede war anders — die Maserung, die Dicke, die Art wie das Holz sich anfühlte unter den Fingern, manche Stellen rauer, wo das Schleifpapier nicht hingekommen war, manche Stellen so glatt, dass die Haut darüber rutschte ohne Widerstand. Am Heck fand sie eine Stelle, wo die Planke einen Knoten hatte, und der Knoten war dunkel im hellen Holz, und jemand hatte ihn nicht ausgetauscht sondern um ihn herumgearbeitet, die Planke geschnitten und gebogen, sodass der Knoten blieb, ein dunkles Auge im Holz, und Maren legte den Finger darauf und der Knoten war härter als das Holz drumherum, verdichtet, und sie dachte: Klaus hat den Fehler gelassen. Klaus hat den Fehler zum Teil des Bootes gemacht.
-
-Die Werkzeuge an der Wand, an Haken, geordnet — Hobel, Stechbeitel, Sägen, Zwingen, Leimtöpfe mit getrockneten Rändern. Die Schürze am Haken, steif von Leim und Holzstaub, die Form eines Körpers noch darin, Schultern, Brust, der Bauch eines Mannes der nicht mehr da war. Maren berührte den Stoff. Hart und trocken und gleichzeitig weich an den Stellen, wo er sich gebogen hatte, an den Gelenken, wo der Stoff dem Körper nachgegeben hatte. Wie das Holz dem Wasser.
-
-Auf dem Boden Späne. Sägemehl. Eine dünne Schicht, auf der Fußabdrücke hätten sein sollen und keine waren. Drei Wochen lag Klaus im Grab und sein letzter Fußabdruck war vom Wind verwischt worden, vom Zugwind durch das offene Tor, und stattdessen lagen die Späne gleichmäßig, als hätte jemand sie verteilt. Maren kniete sich hin und nahm eine Handvoll. Trocken. Leicht. Helles Holz, Eiche vielleicht, oder Esche. Sie roch daran. Holz und Harz und etwas Süßes, und die Späne waren so fein, als hätte jemand geschliffen, nicht gesägt, und sie ließ sie durch die Finger rieseln und sie fielen auf den Boden und mischten sich mit den anderen und waren nicht zu unterscheiden.
-
-Auf der Werkbank, unter einem Stein, lagen Papiere. Maren stand auf und ging hin. Zeichnungen. Klaus' Handschrift, die sie aus den Briefen kannte — klein, regelmäßig, die Buchstaben leicht nach rechts geneigt. Bootsrisse. Querschnitte. Maße in Millimetern, sauber, mit Lineal gezogen. Ein Längsschnitt des Rumpfes, der das Boot zeigte, wie es sein würde — fertig, im Wasser, die Linien elegant, die Proportionen stimmig, und am Bug ein Name, in Klaus' Handschrift, den Maren nicht lesen konnte, der verwischt war, als hätte jemand mit dem Daumen darübergestrichen. Sie beugte sich vor. Der Stein lag auf den Papieren und hielt sie fest, ein glatter, runder Stein, grau, von der Küste, und er lag auf dem Stapel und darunter lag der Umschlag und darauf stand *30 Tage warten* und Maren berührte ihn nicht.
-
-Noch nicht.
-
-Sie blätterte durch die Zeichnungen. Zehn, fünfzehn Blätter. Detailzeichnungen der Spanten, Berechnungen der Krümmung, eine Liste von Holzsorten mit Anmerkungen — *Eiche für den Kiel, Esche für die Spanten, Lärche für die Planken, Lärche ist leichter und das Harz schützt* — und eine Zeichnung, die kein Bootsriss war. Eine Karte. Grob, mit schnellen Strichen gezeichnet, eine Küstenlinie, ein Fluss, und darunter Linien die unter die Erde gingen, Tunnel, kreuz und quer, und am Rand eine Notiz: *Nicht vergessen. Nicht öffnen. Nicht hineingehen.* Der Satz war dreimal unterstrichen. Maren legte das Blatt zurück auf den Stapel und den Stein darauf und ihre Finger zitterten, leicht, und sie steckte die Hände in die Jackentaschen und ballte sie zu Fäusten, und das Zittern hörte auf.
-
-Sie stand auf und wischte die Hände an der Hose ab. Die Knie ihrer Hose waren feucht von der Erde. Im Schuppen war es dämmerig, das Licht kam durch das offene Tor und durch Ritzen in den Wänden, schmale Streifen, die den Staub in der Luft sichtbar machten. Das Boot stand in diesen Lichtstreifen, halb fertig, halb Skelett, und es sah aus wie etwas, das auf jemanden wartete.
-
-Maren setzte sich auf den Boden. Rücken gegen den Rumpf des Boots. Das Holz war fest und glatt an ihrem Rücken, und sie spürte die Rundung, die Kurve, die Klaus geschliffen hatte, und sie lehnte sich dagegen und schloss die Augen.
-
-Stille. Das Meer draußen. Der Wind in den Ritzen. Das Knarren des Holzes, das sich setzte, das arbeitete, auch jetzt, auch ohne jemanden der es baute. Das Boot lebte, auf seine Art, langsam, geduldig, in der Art wie Holz lebte — nicht mit Atem und Puls, sondern mit Fasern und Spannung und der Erinnerung an den Baum, der es gewesen war.
-
-Sie blieb sitzen. Fünf Minuten. Zehn. Der Gurt hatte einen roten Streifen auf ihrem Schlüsselbein hinterlassen, sie spürte ihn pochen, leicht. Der Boden war kalt unter ihr, die Erde feucht, und ihr Atem machte kleine Wolken in der Schuppenluft, und sie saß da und hörte die Geräusche — das Meer draußen, das Knarren des Holzes, den Wind in den Ritzen, und von irgendwoher, fern, das Läuten einer Glocke, vielleicht eine Kirche, vielleicht ein Schiff, der Klang gedämpft vom Nebel.
-
-Auf dem Boden neben ihr, halb unter Sägemehl begraben, lag ein Bleistift. Kurz, die Spitze abgebrochen. Sie hob ihn auf. Er lag zwischen ihren Fingern, leicht, und der Graphit hatte einen silbrigen Strich auf ihrer Haut hinterlassen, dort wo sie ihn berührt hatte. Klaus' Bleistift. Klaus' Strich. Sie steckte ihn in die Jackentasche, neben den Notarbrief, und sie wusste nicht warum, und fragte nicht nach.
-
-Maren saß da und ging nicht. Das erste Mal seit Monaten, dass sie irgendwo saß und nicht daran dachte, aufzustehen.
+Fünf Minuten. Zehn. Maren saß da und ging nicht. Das Boot an ihrem Rücken, der Boden unter ihr, der Geruch von Leim und Holz und dem Meer, das in allem war.
 
 
 ---
 
 
-Der Umschlag lag unter dem Stein.
+Schritte auf dem Boden hinter ihr.
 
-Maren nahm den Stein und legte ihn auf die Werkbank, neben die Zeichnungen, und der Umschlag lag da, schwer, dicker als ein Brief, und Klaus' Handschrift stand auf der Vorderseite, die Buchstaben die sie kannte, und die Worte: *30 Tage warten.*
+Maren öffnete die Augen. Das Boot an ihrem Rücken, die Kühle des Holzes durch den Stoff der Jacke. Ein Mann stand in der Tür des Schuppens, die Sonne — soweit man das durch den Nebel Sonne nennen konnte — hinter ihm, sein Gesicht im Schatten. Breit, nicht groß. Arbeitsjacke, Sägemehl an den Ärmeln, ein Hemd darunter das einmal weiß gewesen war. Er stand da und schaute sie an und sagte nichts, und Maren schaute zurück und sagte auch nichts, und für einen Moment war das genug.
 
-Sie nahm ihn nicht auf. Noch nicht. Sie stand da und schaute ihn an und dachte an die dreißig Tage und daran, was es bedeutete, dreißig Tage zu warten, für jemanden der nie wartete, der nie blieb, der immer gegangen war, bevor das Warten anfing.
+"Sie sind Maren."
 
-Der Notar hatte es per Brief erklärt, ein kurzer, sachlicher Brief, der nach Tinte und Kanzlei roch und in dem stand, dass Klaus Brandt, Bootsbauer, Vael, ohne lebende Verwandte, sein gesamtes Vermögen einer Maren Voss hinterlassen hatte, sowie ein versiegeltes Kuvert, das dreißig Tage nach Übergabe der Schlüssel geöffnet werden durfte. Nicht früher. Der Notar hatte geschrieben, dass dies ungewöhnlich sei, aber rechtsverbindlich. Maren hatte den Brief gelesen und zusammengefaltet und in die Jackentasche gesteckt, dort wo er jetzt lag, neben dem Geld für die Rückfahrt, das sie nicht brauchen würde, wenn sie dreißig Tage blieb, und das sie brauchen würde, wenn sie ging.
+Keine Frage. Er wusste es, weil es niemand anderes sein konnte — eine Frau mit einem Seesack neben Orin Dahls Boot.
 
-Sie nahm den Umschlag auf. Schwer. Papiere darin, mehrere Blätter, dicht gefaltet, vielleicht eine Karte, vielleicht Zeichnungen. Sie hielt ihn gegen das Licht das durch die Ritzen fiel und sah den Schatten von Papier, gefaltet, dicht. Das Siegel war aus dunkelrotem Wachs, der Abdruck ein Zeichen das sie nicht kannte — kein Buchstabe, kein Wappen. Ein Kreis. Ein vertikaler Strich. Dasselbe Siegel, dachte sie, und der Gedanke kam von nirgendwo und ging nirgendwohin, und sie legte den Umschlag zurück und den Stein darauf und trat zurück.
+"Thies", sagte er. Trat in den Schuppen. Seine Schritte waren leise auf dem Erdboden, die Stiefel abgetragen aber sauber, und er bewegte sich durch den Raum wie jemand, der jeden Gegenstand kannte, jede Lücke zwischen den Werkzeugen, jede lose Diele. "Sieben Jahre bei Orin. Lehrling, dann Geselle." Er blieb neben der Werkbank stehen. Legte die Hand darauf, kurz, wie man die Schulter eines Freundes berührt. "Dahl heißt die Werft. Den Namen übernimmt man, wenn man bleibt."
 
-Dreißig Tage.
+Seine Hände waren das Erste was Maren richtig sah, als er näher kam. Breite Handflächen, kurze Finger, Hornhaut an den Kuppen. Schnitte, alt und frisch, an den Knöcheln. Holzstaub unter den Nägeln, eingearbeitet in die Rillen der Haut. Hände die arbeiteten, jeden Tag, und die aussahen wie Hände die arbeiteten.
 
-In Thessa war sie acht Monate geblieben. Das war das Längste gewesen, und Thessa war warm und laut und die Straßen rochen nach gebratenem Fisch und nach den Orangen die in den Höfen wuchsen, und der Mann — sie hatte seinen Namen vergessen, oder sie hatte sich entschieden ihn zu vergessen, was nicht dasselbe war — hatte Hände gehabt, die nach Tonerde rochen und die warm waren, immer, auch im Winter, und er hatte sie gehalten, eine Nacht, beide Hände um ihre eine, und sie hatte an die Decke geschaut und ihr Atem war langsam geworden und ihr Puls tief und ruhig und die Wärme seiner Hände war durch ihre Haut gekrochen bis in die Knochen. Und dann hatte er von morgen geredet. Von übermorgen. Von nächster Woche und nächstem Monat und dem Jahr danach, und jedes Wort war ein Nagel gewesen, der sie an den Boden heftete, und Maren hatte die Nägel gespürt, in den Fußsohlen, in den Knöcheln, in den Waden, ein Gewicht das nach unten zog und das schwerer wurde mit jedem Satz den er sprach, und sie hatte dagelegen und sein Daumen hatte kleine Kreise auf ihren Handrücken gemalt und ihr Körper hatte zwei Dinge gleichzeitig gewollt — bleiben und gehen, hier und dort, warm und kalt — und am nächsten Morgen war sie gegangen, und die Wärme seiner Hände war noch auf ihrer Haut gewesen, als sie die Tasche packte, und sie hatte sie nicht abgewischt.
+Thies zeigte ihr das Boot. Nicht wie ein Führer der Dinge erklärte, sondern als teilte er einen Raum und ging davon aus, dass die andere Person sehen konnte.
 
-Ohne Nachricht. Ohne Erklärung. Die Tasche über der Schulter, die Tür leise ins Schloss gezogen, die Treppe hinunter, die Straße hinaus, und der Geruch von Orangen und Tonerde wurde schwächer mit jedem Schritt und Maren ging schneller und dann lief sie, die letzten hundert Meter bis zum Hafen, und auf der Fähre stand sie am Bug und das Wasser war kalt und salzig und der Wind riss an ihren Haaren und sie atmete aus, tief, und alles fiel ab, die Nacht, die Hände, die Zukunft die keine war, und die Fähre nahm sie mit, weg, und Maren stand am Bug und der Wind brannte auf der Haut und das Salz lag auf den Lippen und ihr Herz schlug langsam und gleichmäßig und der Horizont war leer und weit und trug nichts.
+"Kiel aus Eiche. Massiv, ein Stück." Seine Hand fuhr über das Holz, ohne es zu berühren, ein Fingerbreit Abstand, als könnte Berührung etwas stören. "Die Spanten — Esche. Biegsam, feinporig. Orin hat sie dampfgebogen, einzeln, über Tage." Er zeigte auf die Stelle wo die Planken aufhörten. "Lärche. Leichter als Eiche, das Harz schützt vor Wasser. Die untersten drei Lagen sind dicht. Darüber fehlt es."
 
-Dann Solha. Drei Monate. Die Tonwerkstatt, der Geruch von feuchter Erde und dem Ofen der Tag und Nacht brannte, und die Tonfiguren die sie formte, kleine Boote, geschwungene Rümpfe, und der Moment in dem sie merkte, dass sie Boote formte, immer Boote, und dass das etwas bedeutete was sie nicht benennen wollte. Der erste Brief an Klaus. Die Frage über Spantenabstände. Dann das Frachtschiff, neun Monate, die längste Zeit die sie je an einem Ort verbracht hatte, wenn man ein Schiff einen Ort nennen konnte, und Maren war sich nicht sicher, ob ein Schiff ein Ort war oder das Gegenteil von einem Ort — ein Ding das sich bewegte, das nie blieb, das dem Meer nachgab und dafür getragen wurde.
+"Wie lange noch?"
 
-Dann Karst, kurz, eine Woche, die Stadt hatte sie mit ihrer Ordnung und ihrem Messing erstickt. Dann wieder die Küste. Immer die Küste.
+"Zwei Monate. Vielleicht drei." Er schaute das Boot an, nicht sie. "Wenn jemand weiterbaut."
 
-Und jetzt Vael.
+Maren sagte nichts. Sie umrundete das Boot, und ihre Hand glitt über die Planken. Jede war anders — die Maserung, die Dicke, manche Stellen rauer, wo das Schleifpapier nicht hingekommen war, manche so glatt, dass die Haut darüber rutschte ohne Widerstand. Sie kannte Boote. Auf dem Frachtschiff hatte sie gelernt, wie ein Rumpf sich hob und senkte und wie man das Meer nicht bekämpfte sondern ihm nachgab. Die Kapitänin, eine Frau mit sonnenverbrannten Händen, hatte gesagt: Ein Boot ist ein Kompromiss zwischen dem was du willst und dem was das Wasser erlaubt. Orin' Boot war ein guter Kompromiss. Die Linien waren sauber, die Proportionen stimmig. Das Holz roch nach Leinöl und nach der Geduld, mit der jemand Jahre an einem einzigen Gegenstand gearbeitet hatte.
 
-Sie trat aus dem Schuppen. Draußen lag die Grauküste, felsig und nass, und der Steg ragte ins Graue Meer, die Planken dunkel von Feuchtigkeit, und das Wasser schlug dagegen, gleichmäßig, ein Rhythmus, der älter war als der Steg und älter als die Werft und älter als Klaus und älter als alles was sie je gehört hatte. Das Meer roch anders hier als in Solha — kälter, schwerer, mit einer Tiefe die in der Nase blieb und die nicht nach Salz allein roch sondern nach etwas darunter, etwas Mineralischem, als trüge das Wasser den Stein mit sich, den Boden, die Erde.
+Auf der Werkbank lagen Zeichnungen — Orin' Handschrift, die sie aus den Briefen kannte, klein, regelmäßig, die Buchstaben leicht nach rechts geneigt. Bootsrisse. Querschnitte. Maße in Millimetern, sauber, mit Lineal gezogen. Thies stand daneben und ließ sie schauen.
 
-Die Stadt lag hinter ihr. Vael. Purpurstein und Giebel und Nebel, den sie auf dem Weg vom Hafen gesehen hatte, eine Stadt die sich duckte, die tief lag, die aussah als hätte jemand sie in den Fels gedrückt statt auf ihn gebaut. Gaslampen, die im Nebel kaum leuchteten. Kopfsteinpflaster, nass, immer nass. Menschen, die leise sprachen und die sie nicht angeschaut hatten, nicht einmal, als sie mit dem Gepäck auf der Schulter durch die Straßen gegangen war, auf der Suche nach der Werft, und die sie gefunden hatte, am Rand der Stadt, am Wasser, dort wo Vael aufhörte und das Meer anfing.
+"Er war regelmäßig", sagte Thies. "Morgens um sechs in der Werft. Abends um sechs weg. Wie Gezeiten." Er griff nach einem Hobel auf der Werkbank, drehte ihn in den Händen, legte ihn zurück. Genau dahin wo er gelegen hatte. "Außer nachts."
 
-Sie ging auf den Steg. Die Planken waren feucht und gaben unter ihren Stiefeln nach, weich, das Holz war alt und salzig und die Nägel ragten an manchen Stellen heraus, rostig, und Maren ging bis ans Ende, dort wo der Steg aufhörte und das Meer anfing, und die Gischt sprühte und benetzte ihre Hände und ihr Gesicht, kalt, scharf, und sie blieb stehen und schaute auf das Wasser.
+Maren schaute auf.
 
-Das Graue Meer. Grau, wirklich grau, nicht das Blau der Südküste, nicht das Türkis von Solha, sondern ein Grau das Tiefe hatte, das nach unten ging, Schicht für Schicht, und das Licht kam von oben und drang nicht durch und das Wasser behielt seine Farbe für sich. Maren kannte Meere. Dieses hier kannte sie nicht. Es war kälter und stiller und es roch nach Stein.
+"Ist in den Garten gegangen. Den oben, am Klippenrand." Thies sprach zum Hobel, nicht zu ihr. "Ein-, zweimal die Woche. Nach Mitternacht. Ich hab ihn gesehen, vom Fenster aus, wenn ich nicht schlafen konnte." Pause. "Hat nie gesagt warum. Ich hab nie gefragt."
 
-Der Wind drückte ihr Haar nach hinten. Salz auf den Lippen. Sie schmeckte es und schloss die Augen und das Meer schlug gegen den Steg, einmal, zweimal, und der Rhythmus war gleichmäßig und geduldig und Maren stand da und ließ es zu, das Geräusch, den Wind, das Salz, die Kälte auf der Haut. Sie ließ es zu. Das war schon mehr als sie seit Monaten zugelassen hatte.
+Stille im Schuppen. Das Knarren des Dachgebälks im Wind. Maren spürte etwas in ihren Handflächen, ein Kribbeln, das vom Holz kam oder von dem Wort — Garten, am Klippenrand, nach Mitternacht. Sie schloss die Hände. Das Kribbeln blieb.
 
-Sie drehte sich um. Die Werft lag hinter ihr, der Schuppen mit dem offenen Tor, und darin das Boot, halb fertig, halb Versprechen, und die Werkzeuge an der Wand und die Schürze am Haken und die Zeichnungen unter dem Stein und der Umschlag darunter. Dreißig Tage. Sie konnte gehen. Jetzt. Das Gepäck schultern, den Steg hinunter, den Weg zurück zum Hafen, und morgen wäre sie in einer anderen Stadt und der Geruch von Holz und Leim wäre ein Geruch unter vielen und Klaus wäre ein Name unter vielen und das Boot wäre ein Boot das jemand anderes fertigbaute.
+Thies sagte nichts mehr, und sein Schweigen war nicht das Schweigen eines Mannes, der etwas verbarg. Es war das Schweigen eines Mannes, der nicht mehr wusste als er gesagt hatte und dem das reichte.
 
-Ihre Füße blieben stehen.
+"Und sonst?", fragte Maren. "War er —" Sie suchte das Wort. Normal, wollte sie sagen, aber das Wort passte nicht auf einen Mann, der fünf Jahre lang einer Fremden über Holz geschrieben hatte und dann gestorben war und ihr alles hinterlassen hatte.
 
-In der Jackentasche der Notarbrief. Der Bleistift. In der Werft das Boot. Unter dem Stein das Kuvert. Und darauf die Worte eines Mannes, den sie nie getroffen hatte, der ihr trotzdem etwas hinterlassen hatte, das schwerer war als eine Werft und größer als ein Boot.
+"Er hatte einen Akzent", sagte Thies. Beiläufig, als fiele es ihm gerade ein. "Nicht von der Küste. Nicht aus dem Süden. Nicht aus den Innenlanden. Woanders her. Hat nie gesagt woher." Er strich mit dem Daumen über die Werkbank, über eine Kerbe im Holz. "Und seine Hände. Fein, für einen Bootsbauer. Lange Finger. Schmale Gelenke." Er hob die eigenen Hände, breit, rissig, zum Vergleich. "Sah aus als hätte er das Handwerk spät gelernt. Aber er konnte es. Das muss man ihm lassen."
 
-Dreißig Tage.
+Thies nahm die Schürze vom Haken. Faltete sie, die Hände sorgfältig an den Kanten. Legte sie auf die Werkbank, neben die Zeichnungen. Es war ein Abschluss.
 
-Maren öffnete die Augen. Das Graue Meer lag vor ihr, endlos, und der Nebel kroch über die Bucht, langsam, als hätte er Zeit, als hätte er alle Zeit der Welt, und der Steg knarrte unter ihren Füßen und irgendwo in der Stadt schlug eine Uhr. Ein einzelner Schlag. Dann Stille. Dann das Meer.
+"Der Notar hat gesagt, alles gehört Ihnen. Die Werft, das Boot, die Werkzeuge." Er schaute sie an, zum ersten Mal direkt, und seine Augen waren grau und ruhig und sagten: Ich habe keine Meinung dazu. "Orin hat mich bezahlt bis zum Monatsende. Danach —" Er ließ den Satz offen.
 
-Sie dachte an Klaus. An seine Briefe. An den Satz, der in dem dritten Brief gestanden hatte, dem langen, dem in dem er zum ersten Mal etwas geschrieben hatte das kein Bootsbau war: *Das Holz gibt nach, wenn man ihm Zeit lässt.* Sie hatte den Satz damals gelesen und ihn vergessen und jetzt stand sie am Ende eines Stegs an der Grauküste und der Satz war da, in ihrem Kopf, und er klang anders als vor fünf Jahren. Er klang nach einer Bitte.
+"Danach?"
+
+"Danach entscheiden Sie." Er ging zur Tür. Blieb stehen, die Hand am Rahmen, an derselben Stelle die Maren vorhin gehalten hatte. "Ich bin in der Gasse nebenan. Zweites Haus. Wenn Sie Werkzeug brauchen. Oder Fragen haben."
+
+Die Tür fiel zu. Holz auf Holz, ein Klang der in den Wänden blieb. Maren stand allein im Schuppen. Das Boot hinter ihr. Die Werkzeuge an der Wand. Die Zeichnungen auf der Werkbank. Die gefaltete Schürze.
+
+Ein Mann mit einem Akzent, der nicht hierhergehörte. Feine Hände, die das Handwerk spät gelernt hatten. Nachts im Garten, am Klippenrand.
+
+Maren ging zur Werkbank. Legte ihre Hand neben Orin' Zeichnungen. Das Holz war kühl und glatt und roch nach Eiche und nach Jahren.
+
+
+---
+
+
+Am Nachmittag ging sie zum Steg.
+
+Nicht weil sie etwas suchte. Weil der Schuppen zu eng geworden war, zu voll von einem Geruch der nach jemandem roch, den sie nie getroffen hatte, und weil ihre Beine sich bewegten, wie sie es immer taten, wenn ein Ort anfing, Gewicht zu bekommen. Durch die Gassen, die nass waren und glitschig und die alle gleich aussahen in diesem Nebel, Purpurstein und geschlossene Fenster und einmal eine Katze, grau, die auf einer Mauer saß und sie mit gelben Augen anschaute und nicht weglief. Am Marktplatz Stimmen, gedämpft, Händler die einpackten. Der Geruch von Fisch auf Eis, von Kohle, von nassem Segeltuch. Maren ging hindurch, ohne stehenzubleiben.
+
+Der Steg ragte ins Graue Meer. Alt, die Planken dunkel von Feuchtigkeit und Salz, und an manchen Stellen ragten die Nägel heraus, rostig, gebogen, und das Holz war weich darunter, aufgelöst von Jahren. Der Wind drückte, stärker als am Morgen. Er kam von Nordwest und trug den Geruch der offenen See, Salz und Tang und etwas Kaltes, Tiefes, das aus dem Grund kam, aus dem Stein unter dem Wasser. Das Graue Meer. Grau, wirklich grau, nicht das Blau der Südküste, nicht das Türkis von Solha, sondern ein Grau das Tiefe hatte, das nach unten ging, Schicht für Schicht, und das Licht drang nicht hindurch und das Wasser behielt seine Farbe für sich.
+
+Maren kannte Meere. Dieses hier kannte sie nicht.
+
+Der Wellengang hatte zugenommen seit dem Morgen. Kurze, harte Wellen schlugen gegen die Stegpfosten, und die Gischt sprühte und benetzte die Planken, und Maren ging bis ans Ende, vorsichtig, die Stiefel rutschig auf dem nassen Holz. Das Meer schlug von allen Seiten. Der Steg schwankte, leicht, ein Wiegen das in den Knien saß.
+
+Sie blieb stehen. Der Wind drückte ihr Haar nach hinten. Salz auf den Lippen, kalt, scharf. Sie schmeckte es und schloss die Augen.
+
+Thessa. Der Mann mit den warmen Händen. Tonerde unter seinen Nägeln und ein Lachen das von tief unten kam. Er hatte sie eine Nacht gehalten, beide Hände um ihre eine, und sein Daumen hatte kleine Kreise auf ihren Handrücken gemalt und die Wärme war durch ihre Haut gekrochen bis in die Knochen. Und dann hatte er von morgen geredet. Von übermorgen. Von nächster Woche. Und jedes Wort war ein Nagel gewesen, der sie an den Boden heftete, und Maren hatte die Nägel gespürt, und am nächsten Morgen war sie gegangen, die Tasche über der Schulter, die Tür leise ins Schloss, und auf der Fähre hatte sie am Bug gestanden und das Salz hatte auf den Lippen gelegen und der Horizont war leer gewesen und trug nichts.
+
+Sie öffnete die Augen. Das Graue Meer.
+
+Der Wellengang war rau. Wind von Nordwest, die Wellen kurz und hart, Schaumkronen, die sich überschlugen und zerfielen. Aber etwas stimmte nicht.
+
+Um sie herum — zehn Meter, vielleicht weniger — waren die Wellen flacher. Nicht sofort. Langsam, als legte jemand eine Hand über die Oberfläche. Die Schaumkronen verschwanden. Die kurzen, harten Wellen wurden länger, runder, zahmer. Fünf Meter um den Steg: fast still. Das Wasser lag da, kaum bewegt, nur ein leichtes Atmen, Heben und Senken, als schliefe es. Direkt unter ihr, an den Pfosten des Stegs: spiegelglatt. Das Wasser lag da wie Glas, und Maren konnte ihr Gesicht sehen, scharf, jede Linie, und dahinter das Grau der Tiefe, und rundherum schlug das Meer gegen den Steg, Gischt und Wind und Kälte, aber hier: Stille.
+
+Die Gezeiten. Die waren hier eigenartig, hatte der Fischer auf dem Kutter gesagt, hatte mit dem Kinn Richtung Küste gezeigt und sonst nichts. Die Gezeiten waren eigenartig, und die Strömung war eigenartig, und das Wetter war eigenartig, und Vael war eigenartig. Es waren die Gezeiten.
+
+Maren trat einen Schritt zurück. Zwei. Drei. Unter ihren Stiefeln glitten die Planken. Dort wo sie gestanden hatte: ein Kräuseln, als hätte eine Hand losgelassen. Die Wellen kamen zurück. Nicht sofort — sie schoben sich heran, tastend, als ob sie prüften ob der Platz wieder frei war. Fünf Meter: Kräuseln. Zehn Meter: Schaumkronen. Wo sie gestanden hatte: Wellen wie überall.
+
+Es waren die Gezeiten. Es mussten die Gezeiten sein.
+
+Maren drehte sich um. Ging den Steg zurück, schneller als sie gekommen war. Die Planken nass, die Nägel lose, der Wind im Rücken. Sie drehte sich nicht um. Hinter ihr das Meer, das gegen den Steg schlug, gleichmäßig, hart, normal. Als wäre nichts gewesen.
+
+Am Ende des Stegs blieb sie stehen. Sie steckte die Hände in die Jackentaschen und ballte die Fäuste, die Nägel in die Handflächen, und der Druck half, gab dem Körper etwas das er halten konnte. In ihrer rechten Tasche lag Orin' Bleistift, den sie vom Boden der Werft aufgehoben hatte, kurz, die Spitze abgebrochen. Ihre Finger schlossen sich darum. Das Holz war warm von ihrer Haut.
+
+Maren stand am Ende des Stegs und hinter ihr lag das Meer und vor ihr lag Vael, im Nebel, und irgendwo in dieser Stadt war ein Garten, am Klippenrand, zu dem ein toter Mann nachts gegangen war. Und das Wasser hatte auf sie reagiert.
+
+Nein. Die Gezeiten. Die Strömung. Der Wind.
+
+Sie ging.
+
+
+---
+
+
+Der Gasthof hieß "Zum Anker." Der Wirt gab ihr einen Schlüssel und fragte nicht wie lange sie blieb.
+
+Das Zimmer war klein. Kerze auf dem Tisch, ein Bett, ein Stuhl, ein Fenster das auf den Marktplatz ging, und vor dem Fenster der Nebel, der jetzt, am Abend, dichter war als am Morgen, als hätte die Stadt die Luft angezogen und hielte sie fest. Die Wände rochen nach Kalk und nach dem Rauch des Kamins im Erdgeschoss, der durch die Decke sickerte, und die Dielen knarrten unter ihren Stiefeln, jede einzelne an einer anderen Stelle, und Maren ging den Raum ab, einmal, zweimal, die Hände an den Wänden, die Finger auf dem rauen Putz. Gewohnheit. In Solha hatte sie die Zimmer abgegangen. In Thessa. Auf dem Frachtschiff die Kabine, drei Schritte in jede Richtung. Den Raum kennenlernen, bevor der Raum sie kennenlernte.
+
+Sie zog die Stiefel aus. Die Socken waren feucht. Der Boden war kalt unter ihren nackten Füßen, Holz, alt und rau, und die Kälte kroch durch die Sohlen und setzte sich in den Knöcheln fest.
+
+Die Magd hatte eine Stunde zuvor eine Zinkwanne gebracht und heißes Wasser in Eimern geschleppt, dampfend, und Maren hatte zugeschaut wie sie es eingoss, Eimer für Eimer, und der Dampf hatte das Zimmer gefüllt und die Kerze zum Flackern gebracht und für einen Moment hatte es warm gerochen, nach Wasser und nach Wärme, und das Zimmer war ein anderes gewesen. Jetzt war der Dampf weg. Das Wasser war abgekühlt. Kalt, oder nah daran.
+
+Maren zog sich aus. Jacke, Hemd, Hose, alles auf den Stuhl, und die Luft war kühl auf ihrer Haut und die Gänsehaut kam sofort, an den Armen, an den Oberschenkeln, überall. Sie stieg in die Wanne. Das Wasser war kalt. Ein Zusammenziehen, von den Füßen aufwärts, und sie ließ sich hinein, langsam, und das Wasser stieg an ihren Beinen hoch, am Bauch, an den Rippen, und es war kalt, wirklich kalt, und sie zog die Knie an und umschlang sie mit den Armen und das Wasser stand still um sie herum, grau im Kerzenlicht, und auf der Oberfläche spiegelte sich die Flamme, ein kleiner, zitternder Punkt. Kalt.
+
+Steg. Die Wellen, die flacher geworden waren. Das Glas unter ihren Füßen. Ihr Gesicht im Wasser.
+
+Maren drückte den Gedanken weg. Die Gezeiten. Der Wind. Es gab eine Erklärung und sie würde sie finden und dann wäre es vorbei.
+
+Das Wasser war kalt. Sie hätte warmes nachlaufen lassen sollen. Es gab einen Kessel im Erdgeschoss, sie hätte die Magd rufen können, aber dazu hätte sie aufstehen müssen, sich abtrocknen, anziehen, die Treppe hinunter, und der Aufwand war zu groß für den Ertrag und so blieb sie sitzen, die Knie angezogen, die Arme darum, und dachte: Ich müsste warmes Wasser nachlaufen lassen.
+
+An ihrer Wade zuckte etwas. Ein Strom, kaum spürbar, der vorher nicht da gewesen war.
+
+Das Wasser wurde still.
+
+Nicht stiller als es war — es war schon still gewesen, Wannenwasser, kein Wind, kein Strom. Aber jetzt war es anders still. Die Oberfläche, die eben noch leicht gezittert hatte, vom Atem, von der Bewegung des Brustkorbs, vom Pulsschlag in den Adern: reglos. Glatt. Gestrichen und gehalten.
+
+Maren hielt den Atem an.
+
+Unter der Oberfläche bewegte sich etwas. Nicht sichtbar ��� spürbar. An ihren Beinen, an der Haut. Ein Strom, der sich formte, um ihre Knie, um ihre Schienbeine, ein Ziehen, so leise dass man es fast nicht sah, nur spürte, sanft, gleichmäßig, und das Wasser, das an ihren Beinen entlangstrich, war wärmer. Nicht heiß. Nicht plötzlich. Wärmer, mit jeder Umdrehung, als erzeugte die Bewegung selbst die Wärme, als riebe das Wasser an ihrer Haut und an sich selbst und an den Wänden der Wanne und die Reibung wurde Wärme und die Kälte ging, langsam, stetig, und Maren saß da und das Wasser kreiste und sie hatte sich nicht bewegt.
+
+Sie hatte sich nicht bewegt.
+
+Maren griff an den Wannenrand. Das Metall war kalt unter ihren Fingern, die Kante scharf. Das Wasser zog weiter, gleichmäßig, ohne zu stocken. Sie hob die rechte Hand und zog sie durch das Wasser, quer zum Strudel. Der Strudel folgte. Veränderte die Richtung, sofort, als hätte ihre Hand ihn gelenkt, als wäre das Wasser ein Tier das auf ihre Bewegung reagierte. Sie riss die Hand raus. Wasser tropfte von ihren Fingern, auf den Rand, auf den Boden. Der Strudel lief weiter. Drei Umdrehungen. Vier. Dann langsamer. Langsamer. Hörte auf.
+
+Stille.
+
+Das Wasser lag da. Reglos. Warm. Als wäre nichts gewesen.
+
+Maren stand auf. Zu schnell — das Wasser schwappte über den Rand, auf die Dielen. Laut. Wasser auf Holz, ein Klatschen das in dem kleinen Zimmer nachhallte. Sie stand in der Wanne, nackt, tropfend. Ihre Haut war warm dort wo das Wasser sie berührt hatte und kalt dort wo die Luft sie traf. Sie stieg aus der Wanne, ein Bein, das andere. Das Wasser lief an ihr herunter, bildete eine Pfütze auf den Dielen, und Maren stand da und schaute auf die Wanne.
+
+Das Wasser war still. Warm. Kein Strudel. Kein Kräuseln. Nur Wasser in einer Zinkwanne in einem Gasthof in einer Stadt, in der sie niemanden kannte.
+
+Sie wickelte sich ins Laken. Der Stoff war rau auf nasser Haut, kratzte an der Schulter, an der Hüfte. Sie setzte sich aufs Bett. Das Bettgestell ächzte, ein leises Knarren. Ihre Finger rochen nach Metall, nach dem Wannenrand. In ihrer Brust das Pochen, das auf dem Steg angefangen hatte und nicht aufhörte. Die Kerze flackerte. Ihr Schatten an der Wand, groß und verzerrt, eine Frau die saß und nicht ging.
+
+Sie schaute auf die Wanne. Das Wasser war still. Kalt, jetzt, wahrscheinlich. Als wäre nichts gewesen.
+
+Aber es war nicht nichts gewesen. Am Steg hatte sie sich belügen können. Gezeiten. Wind. Strömung. Hier gab es keinen Wind. Keine Strömung. Kein Meer. Nur eine Zinkwanne und einen Gedanken und das Wasser, das gehorcht hatte.
+
+Draußen, fern, das Meer. Der Nebel auf dem Marktplatz. Irgendwo in dieser Stadt eine Uhr, die schlug, ein einzelner Ton, der durch die Mauern drang und verklang. Dann Stille. Dann das Meer.
+
+Maren saß auf dem Bett, im Laken, die Füße auf dem nassen Boden, und dachte an Orin, der nachts in den Garten gegangen war und nie gesagt hatte warum. An das Boot, das drei Viertel fertig war und wartete. An die Briefe, einundsechzig Stück, die in ihrem Seesack lagen und die nach Tinte rochen und nach der Sorgfalt eines Mannes, den sie nie getroffen hatte und nie treffen würde. An den Satz im dritten Brief, dem langen: *Das Holz gibt nach, wenn man ihm Zeit lässt.*
+
+In der Jackentasche, die über dem Stuhl hing, Orins Bleistift. Kurz, die Spitze abgebrochen. Sie stand nicht auf um ihn zu holen. Aber sie wusste, dass er da war.
 
 Tag eins.
