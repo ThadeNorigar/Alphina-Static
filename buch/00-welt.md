@@ -65,7 +65,7 @@ Wenn das Tor aktiver wird, werden die Lecks stärker. Nebel dreimal die Woche. D
 
 **Das Tidemoor-Haus** — Herrenhaus am Grauwe-Ufer. Standuhr die 4:33 pro Tag verliert. Mechanisch perfekt.
 
-**Die Werft Dahl** — Haron Dahl, tot (natürliche Ursachen). Moragh-Agent, von Varen vor ~2 Moragh-Monaten (~66 Thalassien-Jahre) durch das Portal geschickt. Kam als junger Mann, lebte ein ganzes Leben in Vael — unter falschem Namen, in der Werft die einst Lene Brandt gehörte. Baute Boote, schrieb Briefe an eine Frau mit Wasser-Resonanz die er nie traf, starb an Alter und an einer Schwerkraft für die sein Körper nicht gebaut war (Moragh: 0.7g, Thalassien: 1g). Hinterlassen an Maren: die Werft, das halbfertige Boot. Das Boot ist das Gegenstück zu Lenes Boot von 1423. Haron wusste das. Maren nicht.
+**Die Werft Dahl** — Haron Dahl, tot (natürliche Ursachen). Moragh-Agent, von Varen vor ~2 Moragh-Monaten (~66 Thalassien-Jahre) durch das Portal geschickt. Kam als junger Mann, lebte ein ganzes Leben in Vael — unter falschem Namen, in der Werft die einst Lene Dahl gehörte. Baute Boote, schrieb Briefe an eine Frau mit Wasser-Resonanz die er nie traf, starb an Alter und an einer Schwerkraft für die sein Körper nicht gebaut war (Moragh: 0.7g, Thalassien: 1g). Hinterlassen an Maren: die Werft, das halbfertige Boot. Das Boot ist das Gegenstück zu Lenes Boot von 1423. Haron wusste das. Maren nicht.
 
 **Das Lichthaus** — Speichergebäude am Hafen. Sorels Dunkelkammer im Keller.
 
@@ -565,7 +565,7 @@ Elke ging durch das Portal. Die anderen drei (Johann, Lene, Kaspar) hatten Angst
 Vier Menschen kamen nach Vael:
 - **Elke van der Holt** — Bildhauerin. Resonanz: Erde/Stein. Ging durch das Tor.
 - **Johann Breke** — Uhrmacher. Vespers Pendant.
-- **Lene Brandt** — Schiffbauerin. Marens Pendant.
+- **Lene Dahl** — Schiffbauerin. Marens Pendant.
 - **Kaspar Holm** — Maler. Sorels Pendant.
 
 Das Tor war offen. Varen hatte es geöffnet, zum ersten Mal. Er suchte Resonanz-Begabte. Elke ging durch. Die anderen drei schlossen das Tor — von der Thalassien-Seite. Die Dämonen, die schon durch waren, verbrannten Vael. Das große Feuer. Die drei schrieben auf was passiert war. Varen platzierte sein eigenes "Manuskript" daneben, für das nächste Mal.
