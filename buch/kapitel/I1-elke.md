@@ -70,8 +70,8 @@ Elke van der Holt war keine Frau, die vor Dingen zurückwich, die sie nicht vers
 
 "Gut", sagte sie, laut, in den Wind hinein, der ihre Worte nahm und über die Klippe trug, zum Meer, das sie schluckte. "Dann fangen wir an."
 
-In den Wochen die folgten kehrte Elke van der Holt jeden Tag an die Klippe zurück. Sie legte ihre Hände auf den Stein und der Stein antwortete, und mit jeder Berührung verstand sie mehr — die Schichten unter der Stadt, die Tunnel, die Hohlräume, das Netz aus Rissen das sich durch den Fels zog. Und wo sie den Stein bearbeitete, wo ihr Meißel die Risse öffnete und die Oberfläche brach, wuchsen Pflanzen aus dem Fels. Farne, Moose, ohne Erde, ohne Grund — als hätte der Stein nur darauf gewartet, geöffnet zu werden. Elke baute einen Zaun um die Stelle. Dann einen Weg. Dann ein Tor. Der Garten, den spätere Generationen den botanischen Garten von Vael nennen würden, wurde nicht angelegt. Er wurde gemeißelt. Und unter ihm lag das, was Elke wirklich gefunden hatte.
+In den Wochen die folgten kehrte Elke van der Holt jeden Tag an die Klippe zurück. Sie legte ihre Hände auf den Stein und der Stein antwortete, und mit jeder Berührung verstand sie mehr — die Schichten unter dem Fels, die Adern im Gestein, das Netz aus Rissen das sich durch den Klippenrand zog. Und wo sie den Stein bearbeitete, wo ihr Meißel die Risse öffnete und die Oberfläche brach, wuchsen Pflanzen aus dem Fels. Farne, Moose, ohne Erde, ohne Grund — als hätte der Stein nur darauf gewartet, geöffnet zu werden. Elke baute einen Zaun um die Stelle. Dann einen Weg. Dann ein Tor. Der Garten, den spätere Generationen den botanischen Garten von Vael nennen würden, wurde nicht angelegt. Er wurde gemeißelt. Und in seiner Mitte lag das, was Elke wirklich gefunden hatte.
 
 Und in ihrem Skizzenbuch, auf der zweiten Seite, unter dem Datum und unter *Ankunft. Die Pflanzen sind schon da*, schrieb sie einen zweiten Satz, den sie an diesem Abend nicht verstand und der erst Monate später Sinn ergeben würde, als alles brannte:
 
-*Etwas unter der Stadt hat auf mich gewartet.*
+*Etwas im Stein hat auf mich gewartet.*

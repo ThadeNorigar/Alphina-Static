@@ -16,7 +16,7 @@ Der erste Brief. Solha, Südküste, ein heißer März. Maren saß in einer Tonwe
 
 Sie hatte zurückgeschrieben. Nicht wegen der Spanten.
 
-Einundsechzig Briefe. Fünf Jahre. Maren hatte sie gezählt, in der Nacht nach dem Brief des Notars, in einem Gasthof in einer Stadt deren Namen sie schon vergessen hatte. Sie hatte die Briefe auf der Decke ausgebreitet, sortiert nach Datum, einundsechzig Rechtecke auf fleckigem Stoff, und sie hatte sie nicht gelesen, nur gezählt, weil Lesen an dem Abend zu viel gewesen wäre. Ihre Hände waren über die Umschläge gestrichen, über das Papier, über die Stellen wo Orin' Finger es gehalten hatten, und sie hatte seinen Geruch gesucht, den sie nicht kannte, und stattdessen nur Tinte und den Staub des Gasthofs gerochen.
+Einundsechzig Briefe. Fünf Jahre. Maren hatte sie gezählt, in der Nacht nach dem Brief des Notars, in einem Gasthof in einer Stadt deren Namen sie schon vergessen hatte. Sie hatte die Briefe auf der Decke ausgebreitet, sortiert nach Datum, einundsechzig Rechtecke auf fleckigem Stoff, und sie hatte sie nicht gelesen, nur gezählt, weil Lesen an dem Abend zu viel gewesen wäre. Ihre Hände waren über die Umschläge gestrichen, über das Papier, über die Stellen wo Orins Finger es gehalten hatten, und sie hatte seinen Geruch gesucht, den sie nicht kannte, und stattdessen nur Tinte und den Staub des Gasthofs gerochen.
 
 Jetzt stand sie vor seinem Schuppen. Drei Wochen tot. Herzversagen, schrieb der Notar. Kein Umschlag, keine Karte, keine Warnung. Nur die Werft und das Boot.
 
@@ -32,7 +32,7 @@ Orin hatte den Fehler gelassen. Orin hatte den Fehler zum Teil des Bootes gemach
 
 Die Werkzeuge an der Wand, an Haken, geordnet — Hobel, Stechbeitel, Sägen, Zwingen, Leimtöpfe mit getrockneten Rändern. Die Schürze am Haken neben der Tür, steif von Leim und Holzstaub, die Form eines Körpers noch darin, Schultern, Brust. Maren berührte den Stoff nicht. Er hing da und hielt die Gestalt eines Mannes, der nicht mehr kam.
 
-Auf dem Boden Späne. Sägemehl. Eine dünne Schicht, gleichmäßig, als hätte der Wind sie verteilt. Maren kniete sich hin. Nahm eine Handvoll. Trocken, leicht, helles Holz. Sie roch daran. Holz und Harz und etwas Süßes, und die Späne waren so fein, als hätte jemand geschliffen, nicht gesägt. Sie ließ sie durch die Finger rieseln und sie fielen auf den Boden und mischten sich mit den anderen und waren nicht zu unterscheiden. Daneben, halb unter Sägemehl, ein Bleistift. Kurz, die Spitze abgebrochen. Sie hob ihn auf. Orin' Strich, ein silbriger Graphitfleck auf ihrer Haut. Sie steckte ihn in die Jackentasche, ohne zu wissen warum.
+Auf dem Boden Späne. Sägemehl. Eine dünne Schicht, gleichmäßig, als hätte der Wind sie verteilt. Maren kniete sich hin. Nahm eine Handvoll. Trocken, leicht, helles Holz. Sie roch daran. Holz und Harz und etwas Süßes, und die Späne waren so fein, als hätte jemand geschliffen, nicht gesägt. Sie ließ sie durch die Finger rieseln und sie fielen auf den Boden und mischten sich mit den anderen und waren nicht zu unterscheiden. Daneben, halb unter Sägemehl, ein Bleistift. Kurz, die Spitze abgebrochen. Sie hob ihn auf. Orins Strich, ein silbriger Graphitfleck auf ihrer Haut. Sie steckte ihn in die Jackentasche, ohne zu wissen warum.
 
 Maren setzte sich hin. Rücken gegen den Rumpf des Bootes. Das Holz war fest und glatt an ihrem Rücken, und sie spürte die Rundung, die Kurve, die Orin geschliffen hatte. Sie lehnte sich dagegen und schloss die Augen. Das Meer draußen. Der Wind in den Ritzen. Das Knarren des Holzes, das arbeitete, auch jetzt, auch leer.
 
@@ -62,9 +62,9 @@ Thies zeigte ihr das Boot. Nicht wie ein Führer der Dinge erklärte, sondern al
 
 "Zwei Monate. Vielleicht drei." Er schaute das Boot an, nicht sie. "Wenn jemand weiterbaut."
 
-Maren sagte nichts. Sie umrundete das Boot, und ihre Hand glitt über die Planken. Jede war anders — die Maserung, die Dicke, manche Stellen rauer, wo das Schleifpapier nicht hingekommen war, manche so glatt, dass die Haut darüber rutschte ohne Widerstand. Sie kannte Boote. Auf dem Frachtschiff hatte sie gelernt, wie ein Rumpf sich hob und senkte und wie man das Meer nicht bekämpfte sondern ihm nachgab. Die Kapitänin, eine Frau mit sonnenverbrannten Händen, hatte gesagt: Ein Boot ist ein Kompromiss zwischen dem was du willst und dem was das Wasser erlaubt. Orin' Boot war ein guter Kompromiss. Die Linien waren sauber, die Proportionen stimmig. Das Holz roch nach Leinöl und nach der Geduld, mit der jemand Jahre an einem einzigen Gegenstand gearbeitet hatte.
+Maren sagte nichts. Sie umrundete das Boot, und ihre Hand glitt über die Planken. Jede war anders — die Maserung, die Dicke, manche Stellen rauer, wo das Schleifpapier nicht hingekommen war, manche so glatt, dass die Haut darüber rutschte ohne Widerstand. Sie kannte Boote. Auf dem Frachtschiff hatte sie gelernt, wie ein Rumpf sich hob und senkte und wie man das Meer nicht bekämpfte sondern ihm nachgab. Die Kapitänin, eine Frau mit sonnenverbrannten Händen, hatte gesagt: Ein Boot ist ein Kompromiss zwischen dem was du willst und dem was das Wasser erlaubt. Orins Boot war ein guter Kompromiss. Die Linien waren sauber, die Proportionen stimmig. Das Holz roch nach Leinöl und nach der Geduld, mit der jemand Jahre an einem einzigen Gegenstand gearbeitet hatte.
 
-Auf der Werkbank lagen Zeichnungen — Orin' Handschrift, die sie aus den Briefen kannte, klein, regelmäßig, die Buchstaben leicht nach rechts geneigt. Bootsrisse. Querschnitte. Maße in Millimetern, sauber, mit Lineal gezogen. Thies stand daneben und ließ sie schauen.
+Auf der Werkbank lagen Zeichnungen — Orins Handschrift, die sie aus den Briefen kannte, klein, regelmäßig, die Buchstaben leicht nach rechts geneigt. Bootsrisse. Querschnitte. Maße in Millimetern, sauber, mit Lineal gezogen. Thies stand daneben und ließ sie schauen.
 
 "Er war regelmäßig", sagte Thies. "Morgens um sechs in der Werft. Abends um sechs weg. Wie Gezeiten." Er griff nach einem Hobel auf der Werkbank, drehte ihn in den Händen, legte ihn zurück. Genau dahin wo er gelegen hatte. "Außer nachts."
 
@@ -92,7 +92,7 @@ Die Tür fiel zu. Holz auf Holz, ein Klang der in den Wänden blieb. Maren stand
 
 Ein Mann mit einem Akzent, der nicht hierhergehörte. Feine Hände, die das Handwerk spät gelernt hatten. Nachts im Garten, am Klippenrand.
 
-Maren ging zur Werkbank. Legte ihre Hand neben Orin' Zeichnungen. Das Holz war kühl und glatt und roch nach Eiche und nach Jahren.
+Maren ging zur Werkbank. Legte ihre Hand neben Orins Zeichnungen. Das Holz war kühl und glatt und roch nach Eiche und nach Jahren.
 
 
 ---
@@ -126,7 +126,7 @@ Es waren die Gezeiten. Es mussten die Gezeiten sein.
 
 Maren drehte sich um. Ging den Steg zurück, schneller als sie gekommen war. Die Planken nass, die Nägel lose, der Wind im Rücken. Sie drehte sich nicht um. Hinter ihr das Meer, das gegen den Steg schlug, gleichmäßig, hart, normal. Als wäre nichts gewesen.
 
-Am Ende des Stegs blieb sie stehen. Sie steckte die Hände in die Jackentaschen und ballte die Fäuste, die Nägel in die Handflächen, und der Druck half, gab dem Körper etwas das er halten konnte. In ihrer rechten Tasche lag Orin' Bleistift, den sie vom Boden der Werft aufgehoben hatte, kurz, die Spitze abgebrochen. Ihre Finger schlossen sich darum. Das Holz war warm von ihrer Haut.
+Am Ende des Stegs blieb sie stehen. Sie steckte die Hände in die Jackentaschen und ballte die Fäuste, die Nägel in die Handflächen, und der Druck half, gab dem Körper etwas das er halten konnte. In ihrer rechten Tasche lag Orins Bleistift, den sie vom Boden der Werft aufgehoben hatte, kurz, die Spitze abgebrochen. Ihre Finger schlossen sich darum. Das Holz war warm von ihrer Haut.
 
 Maren stand am Ende des Stegs und hinter ihr lag das Meer und vor ihr lag Vael, im Nebel, und irgendwo in dieser Stadt war ein Garten, am Klippenrand, zu dem ein toter Mann nachts gegangen war. Und das Wasser hatte auf sie reagiert.
 
