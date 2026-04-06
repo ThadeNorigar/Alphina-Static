@@ -69,7 +69,7 @@ Wenn das Tor aktiver wird, werden die Lecks stärker. Nebel dreimal die Woche. D
 
 **Das Lichthaus** — Speichergebäude am Hafen. Sorels Dunkelkammer im Keller.
 
-**Das Archiv** — Im Rathauskeller. Gehütet von **Esther Voss**, Archivarin, unterstützt von ihrer Nichte **Jara Voss**. Enthält ein Manuskript — teilweise echt (geschrieben von Johann, Lene, Kaspar 1423), teilweise gefälscht (von Varen überschrieben und ergänzt).
+**Das Archiv** — Im Rathauskeller. Gehütet von **Esther Voss**, Archivarin, unterstützt von ihrer Nichte **Jara Voss**. Enthält ein Manuskript — teilweise echt (geschrieben von Lene Dahl, 1423, einzige Überlebende der Vier), teilweise gefälscht (von Varen überschrieben und ergänzt).
 
 **Die Druckerei Kvist** — Oberstadt, nahe am Marktplatz. Betrieben von **Runa Kvist**. Heißes Metall, Bleilettern, Druckerschwärze. Runa druckt alles — Handelsregister, Flugblätter, gelegentlich Fachzeitschriften.
 
@@ -466,7 +466,7 @@ Orath, Velmar, Thar. Jeder will die Resonanz-Begabten. Elke misstraut allen drei
 
 **Mächtig. GUT GENÄHRT. In Form.** Nicht ausgemergelt, nicht am Ende. Das Tor zu öffnen hat ihn Monate gekostet, aber er hat sich ERHOLT. Großes Reservoir, jahrelange Erfahrung. Seine Magie kostet ihn (er ist Moragh-geboren) — Müdigkeit nach dem Kampf, ja. Aber er hat Reserven.
 
-**Spricht Thalassisch** — flüssig, mit Akzent. Hat Elke vor ~1 Moragh-Jahr getroffen. Sie haben Wochen zusammen verbracht — Faszination, intellektuelle Anziehung, Forschungspartnerschaft. Elke hat ihm Thalassisch beigebracht. Dann hat sie ihn verlassen: "Du willst die Welt reparieren und wirst Menschen zerbrechen dabei." Varen hat weitergemacht. Allein.
+**Spricht Thalassisch** — flüssig, mit Akzent. Hat Elke vor ~1 Moragh-Jahr getroffen. Sechs Monate zusammen — Liebesgeschichte, Forschungspartnerschaft, intellektuelle und körperliche Anziehung. Elke hat ihm Thalassisch beigebracht. Dann hat sie sich getrennt: "Du willst die Welt reparieren und wirst Menschen zerbrechen dabei." Sie ist weitergezogen in Moragh. Varen hat weitergemacht. Allein.
 
 ### Varens Schuld
 
@@ -510,7 +510,7 @@ Er hat das Portal aktiviert um Resonanz-Begabte nach Moragh zu bringen. Will sie
 
 ### Vorgeschichte mit Elke
 
-6 Moragh-Monate vor Buch 1 hat Varen Elke gefunden — die einzige Thalassierin in Moragh. Wochen zusammen: er hat geforscht, sie hat geformt, er hat ihre Sprache gelernt. Intellektuelle Faszination auf beiden Seiten. Keine Liebesgeschichte — aber die Intensität eines Forschungspaars das einander braucht. Elke hat ihm Thalassisch beigebracht — und er hat es an seine Agenten WEITERGEGEBEN. Elke hat ihn durchschaut: "Du willst die Welt reparieren und wirst Menschen zerbrechen dabei." Sie wusste nicht wie recht sie hatte — er repariert nicht die Welt, er repariert SEINEN Fehler. Sie ist gegangen. Varen hat seine Schlüsse gezogen — allein. Er braucht MEHR Resonanz-Begabte. Also schickt er Agenten durch das Tor, mit dem Thalassisch das Elke ihm beigebracht hat, um Resonanz-Begabte in Thalassien zu finden und nach Vael zu locken.
+6 Moragh-Monate vor Buch 1 hat Varen Elke gefunden — die einzige Thalassierin in Moragh. Liebesgeschichte. Sechs Monate zusammen: er hat geforscht, sie hat geformt, er hat ihre Sprache gelernt. Intellektuelle und körperliche Anziehung auf beiden Seiten. Elke hat ihm Thalassisch beigebracht — und er hat es an seine Agenten WEITERGEGEBEN. Nach sechs Monaten hat Elke ihn durchschaut: "Du willst die Welt reparieren und wirst Menschen zerbrechen dabei." Sie wusste nicht wie recht sie hatte — er repariert nicht die Welt, er repariert SEINEN Fehler. Elke hat sich getrennt, ist weitergezogen in Moragh. Kann nicht zurück nach Thalassien. Varen hat seine Schlüsse gezogen — allein. Er braucht MEHR Resonanz-Begabte. Also schickt er Agenten durch das Tor, mit dem Thalassisch das Elke ihm beigebracht hat, um Resonanz-Begabte in Thalassien zu finden und nach Vael zu locken.
 
 ### Die erste Begegnung (Kap 35)
 
@@ -556,7 +556,7 @@ Bildhauerin. Aus dem Süden, Binnenmeerküste. Tochter eines Steinmetzmeisters, 
 
 **Resonanz: Erde/Stein.** Spürt was unter der Oberfläche liegt. Wasser, Hohlräume, Adern im Gestein. Hält es für Handwerks-Instinkt — sie "hört" den Stein, seine Maserung, seine Schwächen. In Moragh: Stein formen ohne Werkzeug. Hand auf Basalt, und der Basalt gibt nach.
 
-Elke ging durch das Portal. Die anderen drei (Johann, Lene, Kaspar) hatten Angst und blieben. Elke nicht. Sie ging durch und lebt seitdem in Moragh. ~400 Thalassien-Jahre, aber nur ~1 Moragh-Jahr. Sie spricht Moragh. Kennt die Welt. Hat einen Garten in dem Pflanzen aus beiden Welten wachsen — gewachsen aus dem Stein den sie geformt hat.
+Elke ging durch das Portal — während drei Feuer-Schemen in Vael wüteten. Kaspar und Johann starben im Kampf. Lene überlebte als Einzige, schrieb das Manuskript. Elke lebt seitdem in Moragh. ~400 Thalassien-Jahre, aber nur ~1 Moragh-Jahr. Sie spricht Moragh. Kennt die Welt. Hat einen Garten in dem Pflanzen aus beiden Welten wachsen — gewachsen aus dem Stein den sie geformt hat.
 
 **Elkes Thalassisch ist von 1423.** Als die Vier (aus ~1820) sie treffen, klingt ihre Sprache falsch — alte Wörter, ausgestorbene Höflichkeitsformen, verschobene Grammatik. Sie sagt "Fuhre" statt "Kutsche", fragt nach dem "Druckstock" statt der Druckpresse. Die Vier verstehen sie — aber es hakt. Elke merkt es auch: ihre Wörter treffen nicht. Sie kennt keine Gaslampen, keine Dampfschiffe, keine Schreibmaschinen. 200 Jahre Thalassien-Geschichte sind an ihr vorbeigegangen. **Der Leser soll ahnen dass die Zeitdilatation größer ist als jeder denkt.** Vesper setzt es später zusammen.
 
@@ -572,20 +572,24 @@ Vier Menschen kamen nach Vael:
 - **Lene Dahl** — Schiffbauerin. Marens Pendant.
 - **Kaspar Holm** — Maler. Sorels Pendant.
 
-Das Tor war offen. Varen hatte es geöffnet, zum ersten Mal. Er suchte Resonanz-Begabte. Elke ging durch. Die anderen drei schlossen das Tor — von der Thalassien-Seite. Die Dämonen, die schon durch waren, verbrannten Vael. Das große Feuer. Die drei schrieben auf was passiert war. Varen platzierte sein eigenes "Manuskript" daneben, für das nächste Mal.
+Varen öffnete das Tor von der Moragh-Seite — einseitig, wie immer. Er wusste nicht was auf der anderen Seite war. Er wusste nur, dass zweihundert Jahre vorher Moragh-Menschen hinübergegangen waren. Er schickte drei Feuer-Schemen durch — doppelt so groß wie Menschen, gebunden an seinen Willen. In Thalassien wurden sie als Feuerdämonen verstanden. Die Vaeler griffen an. Die Schemen wehrten sich. Teile der Stadt brannten nieder. Das große Feuer.
+
+Während die Schemen in der Stadt wüteten, öffneten die Vier das Tor von der Thalassien-Seite. Kaspar und Johann starben im Kampf mit den Schemen. Elke ging durch das Portal nach Moragh. Lene überlebte als Einzige in Thalassien. Dann lösten die Schemen sich im Rauch auf — Varen hatte ihre Bindung gekappt, nachdem er auf der Moragh-Seite auf Elke getroffen war.
+
+Lene schrieb auf was passiert war. Varen platzierte sein eigenes "Manuskript" daneben, für das nächste Mal.
 
 **Die 1423-Interludien (9 Stück):**
 
 | # | ca. Seite | Inhalt |
 |---|-----------|--------|
 | 1 | 80 | Elkes Ankunft in Vael. Der Purpurstein. |
-| 2 | 170 | Johann und Elke. Erste Begegnung. Er repariert ihre Uhr. |
+| 2 | 170 | Johann und Elke. Erste Begegnung. Der Schmied hört das Erz singen. |
 | 3 | 260 | Lene findet den Steinkreis nachts. Spürt das Pochen. Läuft zurück. |
 | 4 | 350 | Kaspar malt Elke. Das Bild zeigt etwas das er nicht gemalt hat. |
-| 5 | 440 | Alle vier zusammen. Die Dämonen kommen. |
+| 5 | 440 | Alle vier zusammen. Die Feuer-Schemen kommen. Drei, doppelt so groß. |
 | 6 | 530 | Elke und Kaspar. Nacht. Intimität. |
-| 7 | 620 | Elke entscheidet: sie geht durch. Die anderen weigern sich. |
-| 8 | 720 | Elkes Abschied. Letzter Eintrag im Notizbuch. |
+| 7 | 620 | Kampf. Kaspar und Johann sterben. Elke geht durch. Lene überlebt allein. |
+| 8 | 720 | Lenes Manuskript. Letzter Eintrag. |
 | 9 | 830 | Während Alphina vor dem Tor steht: Elke auf der anderen Seite. Sie hört das Tor. Jemand kommt. |
 
 ---
