@@ -98,15 +98,29 @@ Endet mit: Die Älteste bietet Schutz, Nahrung, Unterkunft. Greift Alphinas Hand
 
 ---
 
+## Varen-POV (Interludien oder eigene Kapitel)
+
+Varen beobachtet aus der Distanz. Seine Schemen berichten: die Thalassier sind beim Bund angekommen. Der Bund erkennt Alphinas Potential. Er sieht was kommt — der Bund wird ihre Resonanz als Waffe trainieren. Varen kann es nicht verhindern. Seine Karten: 3 tote Quellen rot markiert. Auf einer zweiten Karte: Bund-Truppenbewegungen, die auf weitere Quellen zielen. "Sie kommen." Notwendigkeit. Varen-Perspektive etabliert die andere Seite der Wahrheit, die Alphina erst spät entdecken wird.
+
+## Alphinas Motivation in Akt I
+
+Alphina will RACHE an Varen. Sorel ist tot. Der Mann der sein Kinn berührt hat lebt. Das ist alles was zählt. Der Bund bietet ihr die Möglichkeit sich nützlich zu machen — Kampf-Aufträge, Verteidigung, Schlaf-Haine als Befestigung. Sie WILL kämpfen. Nicht für den Bund — gegen Varen.
+
+## Bund-Subtilität: Erste Zeichen
+
+Der Bund sieht gut aus. Demokratie, Wahlrecht, Gilden. Aber in Akt I: erste Zeichen dass nicht alles stimmt. Die Älteste greift Alphinas Hand zu schnell. Kommandanten die zu genau wissen wo "der Feind" seine Quellen hat. Gilden-Meister die über "langfristige Lösungen" für das Quellen-Problem sprechen. Nichts Offensichtliches — nur Splitter die sich in Akt II und III zusammensetzen.
+
+---
+
 ## Tschechow'sche Waffen in Akt I
 
 | Detail | Akt I | Feuert in |
 |--------|-------|-----------|
 | Alphinas Schlaf-Hain | Kap 5 — Wald wächst im Schlaf | Akt II — Ein Dorf wird im Schlaf überwuchert |
 | Runas Messing-Type | Kap 9 — Formt Lettern aus der Hand | Akt III — Die Thar erkennen ihren Wert |
-| Elkes Garten (beide Welten) | Kap 7 — Pflanzen aus Thalassien und Moragh | Akt IV — Elkes Stein wird weicher. Moragh zahlt |
-| "Das kostet dich nichts, oder?" | Kap 7 — Elkes Frage | Akt III — Vesper entdeckt: Moragh zahlt den Preis |
-| Maren spürt das geschlossene Portal | Kap 8 — Durch das Wasser | Akt IV — Maren findet einen Weg zurück. Durch das Wasser, nicht durch das Portal |
+| Elkes Garten (beide Welten) | Kap 7 — Pflanzen aus Thalassien und Moragh | Buch 3 — Elkes Garten als Alphinas Endpunkt. Pflanzen aus zwei Welten |
+| "Das kostet dich nichts, oder?" | Kap 7 — Elkes Frage | Akt III — Die Ungerechtigkeit als Kernkonflikt. Talvens Hunger |
+| Maren spürt das geschlossene Portal | Kap 8 — Durch das Wasser | Akt II — Maren findet die Karte und Anleitung für die Moragh-Seite. Öffnet das Portal und geht durch nach Thalassien |
 | 4:33 in Moraghs Struktur | Kap 6 — Vesper erkennt die Frequenz in den Monden | Akt III — 4:33 ist die Frequenz der Anomalie. Resonanz ohne Preis schwingt in 4:33 |
-| "Hier bist du mehr" | Kap 9 — Elke zu Runa | Akt III — Runa geht zur Thar. Weil sie dort AM MEISTEN ist |
+| "Hier bist du mehr" | Kap 9 — Elke zu Runa | Buch 3 — Runa geht zum Konglomerat. Weil sie dort AM MEISTEN ist |
 | Die Älteste greift Alphinas Hand | Kap 10 — Sofort, besitzergreifend | Akt II — Die Gilden wollen Gegenleistung. Kämpft für uns |

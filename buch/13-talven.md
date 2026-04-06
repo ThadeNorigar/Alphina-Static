@@ -26,7 +26,7 @@ Aber: kleine Momente. Er steht neben Alphina wenn sie den Hain wachsen lässt. S
 
 ### Buch 2, Akt III — Der Bruch (intern)
 
-Vesper entdeckt den Reservoir-Schwund. Talven hört zu — als Lehrling, unsichtbar im Raum. Und denkt: *Die Lösung ist nicht sie einzusperren. Die Lösung ist die Resonanz zu NEHMEN. Wie Varen es mit Sorel getan hat. Nur kontrollierter.*
+Talven sieht Alphina kämpfen. Sieht wie sie einen Wald wachsen lässt, eine Verteidigung baut, eine Quelle — absichtlich. Er steht daneben mit seinem mittleren Reservoir. Und denkt: *Die Lösung ist nicht sie einzusperren. Die Lösung ist die Resonanz zu NEHMEN. Wie Varen es mit Sorel getan hat. Nur kontrollierter.*
 
 Er sucht Varen. Allein. Nachts. Varen ist erholt, kraftvoll, gut genährt, in Form — ein Forscher, kein gebrochener Mann. Er WILL Talven helfen, weil Talven nützlich ist.
 
@@ -34,19 +34,17 @@ Er sucht Varen. Allein. Nachts. Varen ist erholt, kraftvoll, gut genährt, in Fo
 
 Talven lernt. Im Geheimen. Erntet Resonanz aus Alphinas Hain. Aus dem Wasser das Maren bewegt hat. Sein Reservoir füllt sich — mit FREMDER Magie, die nicht zu ihm passt. Wie ein transplantiertes Organ das abgestoßen wird. Sein Körper reagiert: Haarausfall, ein Auge wird milchig. Das ist keine normale Magie-Erschöpfung. Normale Magie kostet Müdigkeit wie Sport — man ruht sich aus und ist wieder da. Resonanz-Ernte ist etwas anderes: eine Abstoßungsreaktion. Der Körper erkennt die fremde Resonanz und wehrt sich. Permanenter Schaden, der sich nicht erholt.
 
-### Buch 3, Akt I-II — Der Verrat
+### Buch 3, Akt I-II — Der Held
 
-Talven verrät die Gilden-Stadt an die Binder. Nicht aus Bosheit — aus Überzeugung.
+Talven erntet im Geheimen weiter. Nimmt Alphinas Hain-Resonanz. Nicht aus ihr — aus den Bäumen. Die Bäume welken. Talven steht da, Hände auf dem Boden, Magie fließt in ihn. Sein Auge milchig, seine Haare dünn. Aber: zum ersten Mal in seinem Leben hat er GENUG.
 
-"Die Gilden nutzen sie als Waffen. Die Thar als Batterien. Ich nehme die Resonanz aus dem was sie HINTERLASSEN und verteile sie. Für alle. Demokratisch."
+Verteilt die Resonanz an Gilden-Bürger, Thar-Arbeiter, Lehrlinge. Kleine Dosen. Magie ohne Preis. Die Leute sind GLÜCKLICH. Talven wird zum Helden. In Moragh.
 
-Er nimmt Alphinas Hain-Resonanz. Nicht aus ihr — aus den Bäumen. Die Bäume welken. Talven steht da, Hände auf dem Boden, Magie fließt in ihn. Sein Auge milchig, seine Haare dünn. Aber: zum ersten Mal in seinem Leben hat er GENUG.
-
-Verteilt die Resonanz an Gilden-Bürger, Thar-Arbeiter, Binder-Lehrlinge. Kleine Dosen. Magie ohne Preis. Die Leute sind GLÜCKLICH. Talven wird zum Helden. In Moragh.
+**Motivation: reine Ungerechtigkeit.** Nicht "Moragh retten" — das ist zu edel für ihn. Talven will MACHT. Er will was Alphina hat. Er will aufhören der Lehrling mit dem mittleren Reservoir zu sein. Die Verteilung an andere ist echt — er WILL Gerechtigkeit. Aber der Kern ist persönlich: er will nicht mehr am Rand stehen während andere atmen und dafür alles bekommen.
 
 ### Buch 3, Akt III — Die Konsequenz
 
-Die geerntete Resonanz ist DOPPELTER Preis für Moragh. Erst Alphinas Wälder, dann die Verteilung. Der Schwund beschleunigt sich. Vesper: "Wir haben Jahrzehnte verloren."
+Die geerntete Resonanz zerstört was sie berührt. Die Bäume die Alphina wachsen ließ — tot. Haine die verdorren. Talvens Verteilung an andere erzeugt in IHNEN dieselbe Abstoßungsreaktion — milder, aber da. Kopfschmerzen, Übelkeit. Was er als Geschenk verteilt ist Gift.
 
 Talven weigert sich es zu glauben. Er HAT endlich eine Lösung. Er KANN nicht falsch liegen.
 
@@ -56,12 +54,12 @@ Elke stirbt. Talven steht am Grab. Berührt den Stein — leer. Moragh ist leere
 
 Er hört auf zu ernten. Gibt gesammelte Resonanz zurück — lässt sie in den Boden fließen. Kostet ihn: sein zweites Auge wird milchig (halb blind), Hände zittern permanent, er sieht zehn Jahre älter aus.
 
-Hilft beim Bau der Naht-Maschine. Nicht als Held — als jemand der etwas wiedergutzumachen hat.
+Hilft bei der Quellen-Reparatur. Nicht als Held — als jemand der etwas wiedergutzumachen hat.
 
 ## Warum er funktioniert
 
 1. **Er hat Recht.** Es IST ungerecht. Die Leserin sympathisiert.
-2. **Sein Verrat ist moralisch ambivalent.** "Resonanz für alle" klingt GUT.
+2. **Seine Methode ist moralisch ambivalent.** "Resonanz für alle" klingt GUT.
 3. **Er spiegelt Alphina.** Sie hat Macht ohne sie zu wollen. Er will Macht ohne sie zu haben.
-4. **Er verrät Freunde.** Das macht es schmerzhafter als Feinde zu verraten.
+4. **Er schadet Freunden.** Die Haine die er leert sind Alphinas Werk. Das macht es schmerzhafter.
 5. **Sein Preis ist sichtbar.** Milchige Augen, dünne Haare, zitternde Hände. Resonanz-Ernte ist keine normale Magie — es ist eine Abstoßungsreaktion. Fremde Magie in einem Körper der sie nicht erkennt. Wie ein Organ das nicht passt. Er bezahlt was Alphina nie bezahlen muss, und der Preis ist PERMANENT.

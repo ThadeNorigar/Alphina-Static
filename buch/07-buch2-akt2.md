@@ -29,9 +29,9 @@ Eingebettet: Ein junger Lehrling bringt Vesper Tee und einen Stapel Karten, die 
 ### Kap. 13 — Maren (S. 234–250, ~4.000 Wörter)
 *Der Fluss der bergauf fließt.*
 
-Maren verlässt die Stadt. Allein, flussaufwärts — oder flussabwärts, die Richtung wechselt. Der Fluss gehorcht ihr: formt Brücken, teilt sich, trägt sie. Zum ersten Mal seit dem Durchgang fühlt sie sich nicht gefangen. Das Wasser kennt keine Grenzen — es fließt zwischen den Welten, durch den Boden, durch die Zeit. An einer Flussbiegung: ein Ort wo das Wasser still steht. Vollkommen still. Wie unter Marens Werft. Wie das Portal. Ein zweiter dünner Punkt.
+Maren verlässt die Stadt. Allein, flussaufwärts — oder flussabwärts, die Richtung wechselt. Der Fluss gehorcht ihr: formt Brücken, teilt sich, trägt sie. Zum ersten Mal seit dem Durchgang fühlt sie sich nicht gefangen. Das Wasser kennt keine Grenzen — es fließt zwischen den Welten, durch den Boden, durch die Zeit. An einer Flussbiegung: ein Ort wo das Wasser still steht. Vollkommen still. Sie spürt die Richtung zum Portal — geschlossen, aber da. Die Moragh-Seite hat eine eigene Mechanik. Wenn sie die Anleitung fände, könnte sie es von HIER öffnen.
 
-Maren legt die Hand ins Wasser. Es ist kalt — thalassisch kalt, Grauküsten-kalt. Für einen Moment schmeckt sie Salz.
+Eingebettet: Vael. Das Boot. Drei Viertel fertig. "Warte auf mich." — aber von welcher Seite?
 
 ### Kap. 14 — Runa (S. 250–264, ~3.500 Wörter)
 *Die Schmieden der Stadt.*
@@ -70,12 +70,12 @@ Vesper sieht das Muster. Ein Gilden-Gelehrter der Fragen stellt die kein Gelehrt
 
 Entscheidung: sofort melden oder warten und mehr erfahren. Vesper wartet. Drei Züge voraus denken.
 
-### Kap. 18 — Maren (S. 330–346, ~4.000 Wörter)
-*Der Thar-Emissär.*
+### Kap. 18 — Vesper (S. 330–346, ~4.000 Wörter)
+*Die Thar-Emissärin.*
 
-Ein Fremder in der Stadt. Anders als die Gilden-Bewohner — Hände verbrannt, Metallstaub in den Augen, ein Geruch nach heißem Eisen. Thar. Er kommt mit einer Botschaft: Handelsangebot, neutraler Boden, Waffenruhe für einen Austausch. Die Älteste empfängt ihn kühl. Der Emissär sieht Runa — ihre warmen Hände, den Metallglanz an ihren Fingern. Sein Blick verändert sich. Nicht Gier. Erkennung.
+Nyr kommt als Emissärin der Thar. In ihrer Magitech-Bestie. Boden bebt, Pflanzen weichen zurück, Vespers Uhren vibrieren. Sie steigt aus. Kleiner als erwartet. Hände verbrannt, Metallstaub in den Augen, ein Geruch nach heißem Eisen. "Du bist der der Muster sieht." Keine Frage.
 
-Maren beobachtet alles vom Fluss aus. Das Wasser erzählt ihr Dinge — Ströme die sich verändern wenn der Emissär spricht, Wirbel die entstehen wo er steht. Sie traut ihm nicht. Aber sie traut den Gilden auch nicht.
+Vesper will sich nicht instrumentalisieren lassen — weder vom Bund noch von Alphinas Rache. Nyr überzeugt ihn: die Thar haben Ordnung, Struktur. Er sieht ihre Fehler, akzeptiert sie. "Jedes System hat Fehler. Die Thar benennen ihre." Vesper geht mit Nyr zu den Thar — bewusste Wahl, nicht Entführung. Er will verstehen, nicht kämpfen.
 
 ### Kap. 19 — Alphina (S. 346–368, ~5.500 Wörter)
 *Das Dorf. Der Schlaf-Wald.*
@@ -91,9 +91,9 @@ Eingebettet: Talven ist mitgekommen. Am Morgen, als alle den Schlaf-Wald anstarr
 Talven kocht Frühstück für alle. Bringt Alphina Tee. Lächelt. Sein Lachen ist zu groß für sein Gesicht und jeder mag ihn dafür.
 
 ### Interludium IV (~S. 375, ~2.000 Wörter)
-*Elke legt den Garten an. Der Stein wird weicher.*
+*Elke legt den Garten an.*
 
-Elke formt den Fels für ihren Garten. Jeden Tag ein Stück. Erde aus Stein, Mulden für Wasser, Terrassen für Pflanzen. Es kostet sie nichts. Aber nach Wochen: der Basalt unter ihrem Garten fühlt sich anders an. Weicher. Wärmer. Als hätte sie etwas herausgezogen das hineingehört. Sie denkt nicht darüber nach. Noch nicht.
+Elke formt den Fels für ihren Garten. Jeden Tag ein Stück. Erde aus Stein, Mulden für Wasser, Terrassen für Pflanzen. Es kostet sie nichts. Der Basalt gehorcht ihren Händen wie Ton. Ein Garten der wächst — Pflanzen aus beiden Welten, Stein den sie geformt hat, ein Haus das aus dem Fels gewachsen ist. Ihre Hände auf dem Stein, und der Stein gibt nach.
 
 ### Kap. 20 — Alphina + Runa (S. 378–400, ~5.500 Wörter)
 *Zwei Menschen die nicht wissen was sie tun.*
@@ -104,20 +104,28 @@ Sie küssen sich. Ungeschickt, zu schnell, mit geschlossenen Augen. Keine Farne 
 
 Eingebettet: der Binder-Spion wird enttarnt. Vesper hat gewartet, drei Züge voraus. Die Älteste verbannt den Spion. Aber die Information ist draußen: vier Resonanz-Begabte, kostenlos, unkontrolliert.
 
+### Maren und Vesper — Die Trennung
+
+Maren findet die Karte und Anleitung für die Moragh-Seite des Portals. Den Rückweg. Sie und Vesper sind zusammen als sie es entdeckt. Vesper entscheidet sich zu bleiben — Moragh, Nyr, die Thar. Maren entscheidet sich zu gehen — Thalassien, Forschung, allein. Sie öffnet das Portal von Moragh-Seite (Ritual + Magie). Geht durch nach Thalassien. ~1910. Allein hat sie dort zu wenig Magie um zurückzukommen. Gestrandet. Absichtlich. Gründet die **Schwellenforschungsgesellschaft.**
+
+### Alphina wird zur Waffe
+
+Der Bund setzt Alphina offensiver ein. Erst Verteidigung: Schlaf-Haine als Befestigung, Wurzeln als Mauern. Dann Angriff: Wurzeln die feindliche Stellungen durchbrechen. Alphina hört auf Fragen zu stellen. Der Hass auf Varen fühlt sich produktiv an. Der Bund gibt ihr Ziele und sie zerstört sie.
+
 ---
 
 ## Tschechow'sche Waffen in Akt II
 
 | Detail | Akt II | Feuert in |
 |--------|--------|-----------|
-| Maren schmeckt Salz am stillen Punkt | Kap 13 — Thalassisches Wasser sickert durch | Akt IV — Der Wasserweg zwischen den Welten. Maren findet den Rückweg |
-| Der Thar-Emissär erkennt Runa | Kap 18 — Sein Blick verändert sich | Akt III — Die Thar kommen gezielt für Runa |
+| Maren spürt die Richtung zum Portal | Kap 13 — Das Wasser zeigt den Weg | Akt II — Maren findet die Anleitung für die Moragh-Seite. Öffnet das Portal, geht durch |
+| Nyr sieht Vesper zuerst | Kap 18 — "Du bist der der Muster sieht" | Akt III — Vesper geht mit Nyr zu den Thar. Bewusste Wahl |
 | Alphinas Schlaf-Wald im Dorf | Kap 19 — UNBEWUSST im Schlaf, obwohl sie tagsüber lernt zu steuern | Akt III — Die Schlaf-Haine bleiben immer unbewusst. Tagsüber: Kontrolle. Nachts: keine |
 | Vesper sieht die Zeitnaht | Kap 12 — An manchen Stellen ist die Zeit dünn | Akt IV — Vesper manipuliert die Zeit. Einmal. Der Preis ist hoch |
 | "Bei Runa ist die Welt still" | Kap 20 — Keine Magie beim Kuss | Akt III — Die Stille hat einen Grund. Runas Resonanz absorbiert Alphinas. Gegenpol |
-| Elkes Stein wird weicher | I4 — Der Basalt unter dem Garten | Akt IV — Elkes Beweis. Resonanz ist nicht kostenlos. Moragh zahlt |
+| Elkes Garten wächst aus Stein | I4 — Pflanzen aus beiden Welten | Buch 3 — Elkes Garten als Alphinas Endpunkt |
 | Binder-Information ist draußen | Kap 17/20 — Vier Resonanz-Begabte, kostenlos | Akt III — Alle drei Fraktionen wissen Bescheid. Der Preis steigt |
-| Runa in der Gilden-Schmiede | Kap 14 — Sie formt ohne Ofen | Akt III — Die Thar bieten ihr mehr: nicht Handwerk, sondern Industrie |
+| Runa in der Gilden-Schmiede | Kap 14 — Sie formt ohne Ofen | Buch 3 — Runa geht zu den Thar/Konglomerat. Die Schmiedekunst als Brücke |
 | Talvens HUNGER beim Hain | Kap 15/19 — Sein Gesicht wenn Alphina wächst | Akt III — Er sucht Varen. Lernt Resonanz-Ernte |
 | Talven kennt die Bibliothek | Kap 12 — Zeigt Vesper die Karten | Akt III — Er kennt auch die Geheimnisse. Weiß wo Varen ist |
 | Talven kocht Frühstück | Kap 19 — Der Freund den alle mögen | Buch 3 — Der Verräter den alle mochten. Schmerzhafter |

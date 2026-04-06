@@ -1,142 +1,253 @@
-# Buch 3 — Akt I — Rückkehr (Seite 1–200, ~50.000 Wörter, 10 Kapitel + 2 Interludien)
+# Buch 3 — Akt I — Zwei Welten (Seite 1-225, ~56.000 Wörter, 10 Kapitel + 2 Interludien)
 
 ## Struktur
 
-Zwei Welten. Moragh: Monate vergangen. Der Krieg zwischen Gilden und Bindern hat sich verschärft. Alphinas Symbiose-Versuch funktioniert — langsam, fragil. Talven hat seine Ernte ausgebaut, im Geheimen. Sein Körper zahlt. Thalassien: ~2250. Maren geht durch den Wasserweg. Vael ist unerkennbar — Glasfassaden, Metallschiffe, Lichter ohne Feuer. Edric, Jara, Esther: alle tot seit Generationen. Sorels Glasplatten hängen im Stadtmuseum. "Die Vier von Vael" ist ein Forschungsgegenstand. Das Schwellenforschungsinstitut existiert.
+Zwei Handlungsstränge. **Moragh:** Monate seit Buch 2. Alphina bei Varen. Quellen-Reparatur — erste Versuche. Der Krieg geht weiter. Talven verteilt Resonanz, wird zum Helden, zahlt mit dem Körper. Nyr und Vesper bei den Thar — sehen die ersten Tech-Magie-Fusionen. **Thalassien (~2250):** Maren, alt, am Schwellenforschungsinstitut. Schickt die Expedition. Die Expedition trifft auf die Thar am Portal.
 
-**Stil:** Buch 3 = Yarros. Action, Kraft, dramatische Magie. Alphina hebt die Hand und Wälder wachsen. Kein Preis für sie. Tempo hoch, Einsätze höher.
+**Ton:** Buch 3 = Yarros. Action, Kraft, dramatische Magie. Alphina hebt die Hand und Wälder wachsen. Kein Preis für sie. Tempo hoch, Einsätze höher. Aber: die leisen Szenen atmen. Varens Hände auf einer Karte. Elkes Garten. Talvens Brille.
 
-**Magie-Regel (korrigiert):** Thalassier zahlen KEINEN persönlichen Preis. Moragh zahlt. Moragh-Geborene (Iven, Nyr, Talven) zahlen mit dem Körper. Geerntete Resonanz kostet DOPPELT — einmal den Boden, einmal den Ernter.
+**Magie-Regel:** Thalassier zahlen KEINEN persönlichen Preis. Moragh-Geborene (Iven, Nyr, Talven) zahlen mit dem Körper. Geerntete Resonanz kostet DOPPELT — einmal den Boden, einmal den Ernter.
+
+---
 
 ## Kapitelplan
 
-### Kap. 41 — Maren (S. 1–22, ~5.500 Wörter)
-*Der Wasserweg. 2250.*
+### Kap. 41 — Maren (S. 1-22, ~5.500 Wörter)
+*Thalassien. 2250. Das Institut.*
 
-Maren tritt ins Wasser. Der Kanal aus Buch 2 — schmal, fragil, ein Flüstern zwischen den Welten. Sie drückt durch. Kälte, Salz, Druck, Stille. Dann: Licht. Nicht Moragh-Licht — weißes, hartes, elektrisches Licht. Scheinwerfer auf dem Wasser.
+Maren, alt jetzt. Weißes Haar, Hände die nicht mehr ganz schließen, aber der Kopf scharf wie Salz. Dreihundert Jahre Thalassien-Zeit seit sie aus Moragh zurückkam. Sie hat die Schwellenforschungsgesellschaft gegründet (~1910), die zum Schwellenforschungsinstitut geworden ist. Ihr Name steht auf dem Gebäude.
 
-Vael. Aber nicht Vael. Glasfassaden wo Purpurstein war. Schiffe aus Metall im Hafen. Straßen ohne Pferde. Geräusche die sie nicht kennt — ein tiefes Summen in der Luft, überall. Ein Fahrzeug ohne Pferde fährt am Ufer vorbei. Maren steht bis zur Hüfte im Wasser der Grauwe und starrt.
+Das Institut: Glas und Stahl, gebaut neben dem Steinkreis im Botanischen Garten. Monitore, Instrumente, Daten. Marens eigener Name in einem Buch — "Die Vier von Vael: Eine Dokumentation der Anomalien von 1820." Mit Sorels Foto. Mit Alphinas Beschreibung. Mit ihrem eigenen Grundbucheintrag der Werft Dahl.
 
-Sie wird aufgegriffen. Nicht von Fischern — von Wissenschaftlern. Sensoren am Flussufer, Kameras, Messgeräte. Das Schwellenforschungsinstitut. Sie haben die Anomalie im Wasser registriert. Eine Frau in einem weißen Kittel spricht in ein Gerät an ihrem Ohr: "Wir haben Kontakt."
+Die Institutsleiterin (Marens Nachfolgerin, Generationen jünger): "Die Bodentemperatur-Anomalie am Steinkreis hat sich verstärkt. Die Farne wachsen schneller. Die Sensoren zeigen Aktivität."
 
-### Kap. 42 — Alphina (S. 22–40, ~4.500 Wörter)
-*Moragh. Der wachsende Hain.*
+Maren am Fenster. Vael: Glasfassaden, Drohnen, autonome Fahrzeuge. Der Hafen aus Verbundwerkstoffen. Kein Purpurstein mehr sichtbar. Aber die Grauwe riecht immer noch nach Salz. Und die Farne im Garten drehen sich immer noch. Ohne Erklärung.
 
-Drei Moragh-Monate seit Buch 2. Alphina in Elkes Garten — jetzt auch ihrer. Die Symbiose funktioniert: sie gibt und nimmt, der Boden wird nicht weicher, die Pflanzen wachsen. Langsam. Kontrolliert. Jeden Tag kostet es sie etwas — nicht Erschöpfung, sondern Begrenzung. Die Endlosigkeit hat Ränder bekommen.
+Maren hat die Expedition initiiert. Jahrzehnte Vorbereitung. Resonanz-Verstärker (entwickelt aus Marens eigener Forschung), ein Team, Ausrüstung. Ihr letztes Projekt. Sie wird nicht mitgehen — zu alt, zu schwach, die Resonanz in ihr ein Flüstern wo früher ein Schrei war.
 
-Runa neben ihr. Warme Hände, Druckertinte an den Fingern. Runas Presse steht im Garten — druckt Vespers Daten, druckt Karten, druckt die Wahrheit über den Reservoir-Schwund. Jeden Morgen neue Blätter, verteilt an alle Fraktionen. Information als Waffe.
+**Tschechow:** Maren am Fenster. Die Farne im Garten. "Sie wachsen schneller." — Feuert: Akt IV, wenn die Riss-Quelle zerstört wird und die Farne stillstehen. Für immer.
 
-Aber: der Hain. Alphinas Schlaf-Hain, der erste, der unkontrollierte. Die Bäume dort sind riesig. Und Alphina bemerkt es nicht sofort — aber sie welken. An den Rändern. Die Blätter werden braun. Nicht Jahreszeit. Etwas entzieht ihnen Resonanz.
+---
 
-### Kap. 43 — Maren (S. 40–58, ~4.500 Wörter)
-*Vael 2250. Das Institut.*
+### Kap. 42 — Alphina (S. 22-44, ~5.500 Wörter)
+*Moragh. Quellen-Reparatur.*
 
-Das Schwellenforschungsinstitut: ein Gebäude aus Glas und Stahl, gebaut neben dem Steinkreis im Botanischen Garten. Monitore, Instrumente, Daten. Marens Name steht in einem Buch — "Die Vier von Vael: Eine Dokumentation der Anomalien von 1820." Mit Sorels Foto. Mit Alphinas Beschreibung aus Zeitungsartikeln. Mit Vespers Uhr-Gutachten. Mit Marens eigenem Namen auf dem Grundbuchblatt der Werft Dahl.
+Drei Moragh-Monate seit Buch 2. Alphina bei Varen. Nicht als Gefangene — als Verbündete. Die Schuld-Spiegelung aus Buch 2 hat sie zusammengeschweißt: er hat drei Quellen zerstört (Unfall), sie hat eine zerstört (absichtlich). Beide Täter. Beide mit dem Wissen allein.
 
-Maren sitzt in einem weißen Raum und eine Wissenschaftlerin stellt Fragen. "Wie alt sind Sie?" Maren: "Einunddreißig." Die Wissenschaftlerin tippt auf ein durchsichtiges Gerät. "Das Boot in der Werft — das steht im Museum. Seit hundertfünfzig Jahren."
+Varens Quartier: Karten an den Wänden, vier tote Quellen rot markiert (drei seine, eine ihre). Bücher gestapelt. Sein 1423er Thalassisch — Alphina versteht jetzt die Hälfte. Er korrigiert sie nicht. Wartet bis sie es selbst hört.
 
-Marens Gedanken: Edric. Tot. Seit Generationen. Jara. Tot. Finn. Tot. Alle die sie kannte. Die Werft ist ein Denkmal. Das Wasser das sie gerufen hat, fließt immer noch falsch herum. Sensoren messen es. Niemand versteht warum.
+Erste Quellen-Reparatur. Varen kennt die Theorie: azyklische Resonanz als Herzschrittmacher. Alphinas Pflanzen-Resonanz kann eine tote Quelle wieder anstarten — Wurzeln tief in die Erde, bis zum Quellen-Kern, dann drücken. Wie ein Defibrillator.
 
-### Kap. 44 — Vesper (S. 58–74, ~4.000 Wörter)
-*Die Thar. Der Krieg verändert sich.*
+Sie versuchen es. Alphina kniet, Hände auf dem Boden. Drückt. Fühlt: die tote Quelle, kalt, leer, wie ein Herz das aufgehört hat zu schlagen. Sie drückt tiefer. Wurzeln kriechen durch den Stein. Es kostet sie nichts — keinen schnelleren Puls, keine Müdigkeit. Moragh zahlt: der Boden um sie herum wird einen Hauch weicher.
 
-Vesper bei der Thar. Seit dem Ende von Buch 2 — er hat die Seite gewechselt, Daten geliefert, Magitech-Bestien optimiert. Nyr neben ihm, Schulter an Schulter über Karten gebeugt. Der Krieg gegen die Binder ist härter geworden. Die Bestien sind besser, aber die Piloten sterben schneller. Junge Frauen und Männer, zwanzig, fünfundzwanzig, ausgehöhlt nach einem Jahr.
+Die Quelle... zuckt. Ein einzelnes Pochen. Dann nichts. Noch nicht genug. Aber der Beweis: es ist möglich.
 
-Vesper sieht die Muster in den Daten: der Reservoir-Schwund beschleunigt sich. Nicht nur wo die Thalassier sind — überall. Moragh verliert Magie. Schneller als seine Hochrechnungen vorausgesagt haben. Irgendwas nimmt mehr als es sollte.
+Varen neben ihr. Sein Gesicht — keine Freude. Erleichterung, die aussieht wie Schmerz.
 
-Nyr zeigt ihm einen Bericht: drei Dörfer im Süden, Reservoire auf Null. Pflanzen sterben. Beschwörer können nichts rufen. "Das ist nicht der Krieg," sagt Vesper. "Das ist etwas anderes."
+**Tschechow:** Die Quelle zuckt einmal. — Feuert: Akt III, wenn die Quellen-Reparatur funktioniert. Das Pochen wird regelmäßig.
 
-### Interludium IX (~S. 82, ~2.000 Wörter)
-*Elke. Der Garten wird kleiner.*
+---
 
-Elke, alt jetzt. Moragh-Monate sind Jahre für ihren Körper — sie war über fünfzig als sie durchging, jetzt bewegen sich ihre Hände langsamer. Der Garten trägt. Pflanzen aus zwei Welten, die zusammen wachsen. Aber der Stein unter dem Garten: porös, bröckelig, eine Höhle die größer wird. Elke legt die Hände auf den Boden und spürt es — der Basalt antwortet langsamer. Als hätte er weniger zu sagen.
+### Kap. 43 — Vesper (S. 44-64, ~5.000 Wörter)
+*Die Thar. Das Konglomerat.*
 
-Sie schreibt einen Brief an niemanden: "Ich habe genommen. Jahrelang. Ohne zu bezahlen. Jetzt schickt mir der Stein die Rechnung."
+Vesper bei den Thar. Seit Ende Buch 2 — er hat die Seite gewechselt, Daten geliefert, Magitech-Bestien optimiert. Nyr neben ihm, Schulter an Schulter über Karten. Der Krieg gegen den Bund und Velmars Reste ist härter geworden.
 
-### Kap. 45 — Talven (S. 86–106, ~5.000 Wörter)
-*Der Freund. Der Hunger.*
+Die Thar-Stadt: Pressen, Öfen, Magitech-Bestien in Reihen. Effizienz, Ordnung, Struktur — das was Vesper angezogen hat. Piloten die nach der Schicht gemeinsam essen. Nyr zeigt ihm Kessler — frisch gewartet, dampfend, bereit.
 
-Talven-POV. Erste vollständige Innensicht.
+Aber: die Ankunftsstadt am Portal. Die Thar haben sie erobert. Kontrollieren den einzigen Zugang zwischen den Welten. Vesper sieht die Truppenbewegungen, die Verstärkung, die Befestigungen. "Warum so viel Aufwand für einen Ort der nichts produziert?" fragt er. Nyr: "Weil er alles produzieren KANN."
 
-Morgens: Frühstück für die Gruppe. Er kocht, räumt auf, übersetzt. Bringt Elke ihre Medizin. Hilft Runa mit den Moragh-Schriftzeichen auf der Presse. Alle mögen ihn. Er lacht und sein Lachen ist zu groß für sein Gesicht und es füllt den Raum.
+Erste Zeichen der Tech-Magie-Fusion: ein Ingenieur aus Thalassien (frühere Expedition, Jahre her Moragh-Zeit, Jahrhunderte Thalassien-Zeit), assimiliert, zeigt der Thar-Führung etwas. Vesper sieht den Bauplan nicht. Nur die Reaktion der Thar-Kommandantin: gierig. Kontrolliert. Wie eine Katze die eine Maus sieht.
 
-Nachmittags: Alphina im Hain. Sie hebt die Hand — ein Baum wächst. Zehn Meter in einer Minute. Talven steht daneben. Seine Finger zittern. Nicht sichtbar — er presst sie in die Taschen. Sein Reservoir: ein dumpfes Pochen hinter den Augen, nie genug, nie satt. Sie macht das im Vorbeigehen. Er bezahlt für ein schwebendes Steinchen mit Migräne.
+Nyr abends, Helm ab: "Sie planen etwas. Am Portal." Vesper: "Natürlich planen sie etwas." Nyr: "Etwas das mich nervös macht. Und ich werde nicht nervös."
 
-Nachts: zum Hain. Die Technik ist perfekter geworden. Hände auf den Boden, tief atmen, die fremde Resonanz finden — Alphinas Signatur, warm, grün, endlos. Er zieht. Sein Reservoir füllt sich. Überfüllt sich. Er lacht — leise, allein, im Dunkeln. Zum ersten Mal in seinem Leben hat er GENUG.
+**Tschechow:** Die Thar-Kommandantin, der Bauplan den Vesper nicht sieht. — Feuert: Kap 48, wenn die Expedition eintrifft und die Thar die Technologie übernehmen.
 
-Der Preis: sein linkes Auge — die milchige Wolke ist gewachsen. Er sieht noch, aber verschwommen. Seine Haare: dünner, eine kahle Stelle am Hinterkopf die er mit der Kapuze verdeckt. Geerntete Resonanz kostet mehr als natürliche. Sein Körper schreibt die Rechnung.
+---
 
-Er geht zurück. Legt sich hin. Am Morgen kocht er Frühstück.
+### Kap. 44 — Varen (S. 64-82, ~4.500 Wörter)
+*Der Forscher. Die Schuld.*
 
-### Kap. 46 — Maren (S. 106–124, ~4.500 Wörter)
-*Das Forscherteam.*
+Varen-POV. In seinem Quartier, abseits aller Fraktionen. Die Karten: vier tote Quellen rot. Bund-Truppenbewegungen, die auf weitere Quellen zielen. Der Krieg frisst Moragh, und beide Seiten nutzen seine Entdeckung als Waffe — die Quellen-Überladung, sein Experiment, sein Fehler.
 
-Thalassien reagiert. Das Schwellenforschungsinstitut stellt ein Team zusammen: Wissenschaftler, Ingenieure, eine Linguistin. Ein Container mit Technik — Generator, tragbare Computer, Kommunikationsgeräte, Messgeräte, ein Laptop mit einer KI-Assistenz. Marens Aufgabe: den Wasserweg stabilisieren, das Team durchbringen.
+Alphina schläft nebenan. Er hört sie atmen. Keine Alpträume mehr — in Buch 2 hat sie geschrien, hat Wälder im Schlaf wachsen lassen. Jetzt: Stille. Kontrollierter. Oder erschöpfter.
 
-Die Institutsleiterin: "Vierhundert Jahre haben wir auf diesen Moment gewartet. Seit Halvards Bericht über das Portal — der Steinkreis, die Farne im Garten, die Strömung die rückwärts fließt — wir haben gemessen und gewartet. Jetzt gehen wir durch."
+Er arbeitet an den Quellen-Reparatur-Karten. Drei tote Quellen von ihm, eine von ihr. Die erste hat gezuckt. Alphinas Resonanz als Herzschrittmacher — es funktioniert. Aber langsam. Zu langsam. Für jede Quelle brauchen sie Wochen, und der Bund zerstört in Tagen.
 
-Maren am Wasser. Jahrhunderte sind vergangen seit sie ging. Alle Kontakte — fort. Die Werft ein Denkmal, die Fischerkähne Museumsstücke. Sie öffnet den Kanal — weiter, stabiler als beim letzten Mal. Es kostet sie nichts. Moragh zahlt. Aber das weiß in Thalassien niemand.
+Ein Bote. Nachrichten von den Gilden: Talven verteilt Resonanz. Varen kennt Talven — hat ihm die Ernte beigebracht in Buch 2. Hat ihm nie die Verteilung beigebracht. Das hat Talven allein erfunden.
 
-Das Team tritt durch. Fünf Menschen mit Rucksäcken und Kisten. Der Generator summt als sie Moragh-Boden berühren. Die Kommunikationsgeräte knistern, stabilisieren sich, zeigen Signal. Die KI auf dem Laptop: "Atmosphärendaten anomal. Magnetfeld instabil. Bitte kalibrieren."
+"Die Verteilung ist Verschwendung," murmelt Varen. "Geerntete Resonanz in einem fremden Reservoir zerfällt. Der Zerfall frisst Moragh-Substanz." Er schreibt es auf. Schickt es nicht. Talven würde nicht hören.
 
-### Kap. 47 — Alphina (S. 124–142, ~4.500 Wörter)
-*Die welkenden Bäume.*
+Sein Blick auf Alphinas Tür. Er hat wieder den Falschen gewählt. Nein — Talven hat SICH gewählt. Wie immer wählen die Richtigen die falschen Dinge.
 
-Alphina im Hain. Die Bäume am Rand — braune Blätter, hängende Äste. Sie legt die Hand auf eine Rinde. Fühlt: leer. Wie ausgesaugt. Die Resonanz die sie hinterlassen hat — in den Wurzeln, im Moos, im Boden — ist weg. Nicht verbraucht. GENOMMEN.
+**Tschechow:** Varens Notiz über Verteilungs-Zerfall. — Feuert: Akt II, Vesper berechnet den doppelten Schwund.
 
-Vespers Hochrechnungen stimmen nicht mehr. Der Schwund ist schneller. Alphina spürt es — der Hain war ihr Ankerpunkt, ihre Verbindung zu Moragh, der Ort wo sie gelernt hat zu geben statt zu nehmen. Jemand erntet ihre Resonanz.
+---
 
-Runa: "Wer?" Alphina: "Ich weiß nicht." Aber die Pflanzen wissen es. Sie drehen sich nach Süden. Dorthin wo jemand nachts kniet und nimmt.
+### Interludium IX (~S. 88, ~2.500 Wörter)
+*Elke. Der Garten.*
 
-### Interludium X (~S. 150, ~2.000 Wörter)
+Elke, alt jetzt. Nicht von Magie-Kosten — von Jahren. Moragh-Monate sind Monate, aber sie war über fünfzig als sie durchging, und ihr Körper hat die Reise nicht vergessen. Hände langsamer, Rücken steifer, Augen die nicht mehr so scharf sind.
+
+Aber der Garten. Elkes Garten: Pflanzen aus zwei Welten. Thalassische Farne neben Moragh-Rankgewächsen. Stein den sie geformt hat — Bänke, Wege, eine Schale für Regenwasser. Der Basalt antwortet: langsam, müde, aber er antwortet. Noch.
+
+Sie schreibt nicht mehr. Ihre Hände — zu steif für die Feder. Stattdessen spricht sie. Zu den Steinen, zu den Pflanzen, zum Garten. "Ich habe hier etwas gebaut. Nicht für mich — für die die nach mir kommen."
+
+Alphina besucht sie. Bringt Tee. Elke sagt: "Du riechst nach Erde. Und nach ihm." Alphina sagt nichts. Elke: "Gut. Er riecht nach Schuld. Du auch. Ihr passt zusammen."
+
+**Tschechow:** Elkes Garten, die Pflanzen aus zwei Welten. — Feuert: Epilog Moragh. Alphina und Varen in Elkes Garten. Dornen. Sein Blick.
+
+---
+
+### Kap. 45 — Talven (S. 94-116, ~5.500 Wörter)
+*Der Held.*
+
+Talven-POV. Moragh-Held.
+
+Morgens: Frühstück für die Gruppe. Er kocht, räumt auf, übersetzt. Bringt Elke ihre Medizin. Alle mögen ihn. Er lacht und sein Lachen ist zu groß für sein Gesicht.
+
+Nachmittags: Marktplatz der Gilden-Stadt. Hundert Menschen, zweihundert. Er steht auf einer Kiste und verteilt Resonanz. Hände auf Hände. Kleine Dosen, geerntete Magie aus Alphinas Spuren im Boden, aus dem Wasser das Maren einmal berührt hat.
+
+Die Wirkung: ein alter Beschwörer ruft ein Lichtwesen. Weint. Ein Lehrling hebt einen Stein. Lacht. Eine Mutter heilt die Verbrennung ihres Kindes. Talven steht da und sein Gesicht — nicht Hunger. Erfüllung.
+
+"Warum sollen nur die mit großen Reservoiren Magie haben? Warum sollen die Thalassier kostenlos nehmen und wir bezahlen?"
+
+Applaus. Jubel. Talven ist ein Held.
+
+Nachts: zum Hain. Die Technik ist perfekter geworden. Hände auf den Boden, tief atmen, die fremde Resonanz finden — Alphinas Signatur, warm, grün, endlos. Er zieht. Sein Reservoir füllt sich. Überfüllt sich. Zum ersten Mal in seinem Leben hat er GENUG.
+
+Der Preis: sein linkes Auge — die milchige Wolke ist gewachsen. Er sieht noch, aber verschwommen. Seine Haare: dünner, eine kahle Stelle am Hinterkopf die er mit der Kapuze verdeckt. Geerntete Resonanz ist keine normale Magie-Erschöpfung — es ist eine Abstoßungsreaktion. Permanent.
+
+Er trägt eine dunkle Brille die er "gegen die Sonne" nennt.
+
+**Tschechow:** Talvens dunkle Brille, "gegen die Sonne." — Feuert: Akt II, Konfrontation. Er nimmt die Brille ab. Milchige Augen. Alle sehen den Preis.
+
+---
+
+### Kap. 46 — Maren (S. 116-136, ~5.000 Wörter)
+*Die Expedition.*
+
+Thalassien. Das Schwellenforschungsinstitut stellt ein Team zusammen. Wissenschaftler, Ingenieure, eine Linguistin. Container mit Technik — Generatoren, tragbare Computer, Kommunikationsgeräte, Drohnen, ein Neural-Interface-Prototyp, Messgeräte, KI-Systeme.
+
+Maren hat die Expedition initiiert. Jahrzehnte Vorbereitung. Resonanz-Verstärker (entwickelt aus ihrer eigenen Forschung über vestigiale Resonanz), trainierte Operatoren. Die Institutsleiterin: "Vierhundert Jahre haben wir auf diesen Moment gewartet."
+
+Maren am Wasser. Die Grauwe. Zum letzten Mal. Sie weiß dass sie nicht mitgehen wird. Zu alt. Zu schwach. Die Resonanz in ihr: ein Flüstern. Sie hat den Kanal einmal geöffnet, vor dreihundert Jahren Thalassien-Zeit. Drei Monate Moragh-Zeit. Ein Leben.
+
+Die Expedition geht durch das Portal. Resonanz-Verstärker kanalisieren die vestigiale Resonanz der Operatoren. Das Portal öffnet sich — 4:33. Fünfzehn Menschen mit Rucksäcken und Kisten. Der letzte dreht sich um, sieht Maren am Ufer, alt, weiß, allein. Nickt. Verschwindet.
+
+Maren steht am Wasser. Wartet. Allein.
+
+**Tschechow:** Maren am Ufer, allein, wartend. — Feuert: Epilog. Maren in Thalassien. Alt. Lebenswerk sinnlos. Farne still.
+
+---
+
+### Kap. 47 — Alphina + Varen (S. 136-158, ~5.500 Wörter)
+*Die zweite Quelle.*
+
+Zweiter Versuch einer Quellen-Reparatur. Eine andere tote Quelle — eine von Varens dreien. Weiter weg, feindliches Gebiet. Bund-Patrouillen. Sie müssen sich durchkämpfen.
+
+Alphina und Varen, zusammen. Seine Schemen als Kundschafter, ihre Pflanzen als Tarnung. Dornen statt Farne — in Buch 2 hat der Shift begonnen, jetzt ist er da. Wo Sorel Farne wuchsen, wachsen bei Varen Dornen. Schmerzhafter. Ehrlicher.
+
+An der toten Quelle. Alphina kniet. Hände auf den Boden. Drückt. Tiefer als beim ersten Mal. Wurzeln kriechen durch toten Stein. Sie fühlt die Quelle — kälter als die erste, länger tot. Varens Experiment hat sie vor einem halben Jahr Moragh-Zeit zerstört.
+
+Varen webt — sein Muster, Fäden statt Ketten, die Quellen-Architektur die er versteht wie kein anderer. Er führt ihre Resonanz, kanalisiert sie, lenkt die Wurzeln. Nicht Kontrolle — Zusammenarbeit. Zwei Täter die gemeinsam reparieren was sie zerstört haben.
+
+Die Quelle... pocht. Einmal. Zweimal. Dreimal. Dann: regelmäßig. Langsam. Aber lebendig. Ein Herzschlag.
+
+Alphina steht auf. Ihre Hände: Erde, Stein, Wurzelreste. Kein Preis. Varen neben ihr, erschöpft — ER hat bezahlt. Moragh-geboren. Sein Nasenbluten: ein dünner Faden.
+
+"Das sind zwei," sagt Alphina. "Zwei von vier."
+
+**Tschechow:** Dornen statt Farne. — Feuert: Epilog. Dornen an Alphinas Hand. Elkes Garten.
+
+---
+
+### Kap. 48 — Vesper + Nyr (S. 158-180, ~5.500 Wörter)
+*Die Expedition trifft die Thar.*
+
+Am Portal. Die Thalassien-Expedition kommt durch. Fünfzehn Menschen mit 2250er-Technologie. Die Thar warten — sie haben die Ankunftsstadt kontrolliert, die Sensoren zeigen die Öffnung.
+
+Vesper sieht es. Nyr neben ihm. Die Thar-Kommandantin empfängt die Expedition — nicht feindlich. Diplomatisch. Effizient. "Willkommen. Wir können euch helfen." Die Wissenschaftler sehen Moragh zum ersten Mal. Staunen. Die Thar lächeln. Zeigen die Stadt. Zeigen die Bestien. Zeigen die Ordnung.
+
+Und dann: die Technologie. Die Thar-Ingenieure öffnen die Container. Sehen die Generatoren, die Computer, die Drohnen, das Neural-Interface. Vesper sieht die Thar-Kommandantin. Ihr Gesicht — dieselbe kontrollierte Gier wie beim ersten Bauplan.
+
+Innerhalb von Tagen: der erste Test. Ein Generator an einer Magitech-Bestie. Die Bestie läuft. Ohne Pilot. Autonom. KI-gesteuert. Vesper steht daneben und seine Uhren vibrieren und er begreift: das verändert alles.
+
+Nyr steht vor der autonomen Bestie. Starrt. Kessler, ihr Kessler, der Partner, die zehn Meter Moragh-Stahl die sie tausend Stunden pilotiert hat — jetzt ersetzbar. Durch eine Maschine. Die Thar brauchen keine Piloten mehr. KI ist billiger. Schneller. Und endlos.
+
+"Das ist Kessler," flüstert Nyr. "Ohne mich."
+
+**Tschechow:** Kessler ohne Nyr. Die autonome Bestie. — Feuert: Akt III, Nyrs Entscheidung. "Das ist ein Käfig, kein Cockpit."
+
+---
+
+### Interludium X (~S. 188, ~2.500 Wörter)
 *Iven. Der Generator.*
 
 Iven — Moragh-geboren, Gilden-Lehrling, siebzehn. Sein Talent: nicht definiert. Kein Feuer, kein Wasser, kein Stein. Etwas anderes. Die Gilden-Meister wissen nicht was. Iven auch nicht.
 
-Das Thalassien-Team ist angekommen. Iven sieht den Generator — ein schwarzer Kasten der summt. Er berührt ihn. Der Generator HEULT auf. Leistung verdoppelt. Die Ingenieure springen zurück. Iven nimmt die Hand weg. Normal. Hand drauf: Leistung verdoppelt.
+Die Thalassien-Expedition hat Technologie mitgebracht — nicht nur zu den Thar. Durch Handel, Schmuggel, Kontakte erreichen einzelne Geräte die Gilden-Stadt. Ein kleiner Generator, ein Kommunikationsgerät, ein tragbarer Computer.
 
-Der Laptop auf dem Tisch — sein Bildschirm flackert als Iven vorbeigeht. Buchstaben erscheinen, verschwinden, erscheinen. Keine Kontrolle über WAS, nur DASS. Iven steht da, Hände in den Taschen, und die Technik aus einer anderen Welt reagiert auf ihn wie Alphinas Pflanzen auf sie.
+Iven berührt den Generator. Der Generator HEULT auf. Leistung verdoppelt. Die Älteste springt zurück. Iven nimmt die Hand weg. Normal. Hand drauf: Leistung verdoppelt.
 
-### Kap. 48 — Vesper (S. 154–170, ~4.000 Wörter)
-*Die Zahlen stimmen nicht.*
+Der tragbare Computer — sein Bildschirm flackert als Iven vorbeigeht. Buchstaben erscheinen, verschwinden, erscheinen. Keine Kontrolle über WAS, nur DASS. Elektrizitäts-Resonanz. Moragh-geboren, also zahlt er: Kribbeln in den Fingern, leichter Schwindel. Wie nach einem Sprint.
 
-Vesper bei der Thar, mit den neuen Daten. Die Thalassien-Ingenieure haben Messgeräte mitgebracht — Sensoren die Moragh-Magie quantifizieren können. Die Zahlen sind schlimmer als Vespers Hochrechnungen. Der Reservoir-Schwund: nicht linear, exponentiell. Irgendwas hat den Verfall beschleunigt.
+Iven steht da, Hände in den Taschen, und die Technik aus einer anderen Welt reagiert auf ihn wie Alphinas Pflanzen auf sie. Aber er zahlt. Sie nicht. Der Unterschied brennt.
 
-Vesper rechnet rückwärts. Der Knick in der Kurve — vor etwa drei Moragh-Monaten. Als Talven angefangen hat zu ernten. Vesper weiß das nicht. Noch nicht. Aber das Muster ist da: lokaler Schwund im Gilden-Gebiet, konzentriert um Alphinas Hain. Resonanz-Entnahme. Systematisch. Nicht natürlich.
-
-Nyr sieht seine Stirn. "Was?" Vesper: "Jemand nimmt mehr als die Welt hergibt."
-
-### Kap. 49 — Talven (S. 170–188, ~4.500 Wörter)
-*Resonanz für alle.*
-
-Talven beginnt zu verteilen. Nicht an sich — an andere. Gilden-Lehrlinge mit kleinen Reservoiren. Arbeiter. Alte Beschwörer deren Reservoir versiegt ist. Er gibt ihnen geerntete Resonanz — kleine Dosen, in die Hände gedrückt, wie ein Geschenk.
-
-Die Wirkung: ein alter Beschwörer der seit Jahren nichts rufen konnte, ruft ein Lichtwesen. Weint. Ein Lehrling der nie mehr als Staub bewegen konnte, hebt einen Stein. Lacht. Talven steht daneben und sein Gesicht — zum ersten Mal nicht HUNGER. Freude. Er gibt und es fühlt sich an wie Gerechtigkeit.
-
-"Resonanz für alle. Nicht nur für die mit großen Reservoiren. Nicht nur für Thalassier die nichts bezahlen." Die Leute sind GLÜCKLICH. Talven wird zum Helden.
-
-Aber: sein rechtes Auge. Der milchige Fleck breitet sich aus. Beiden Augen jetzt. Er trägt eine dunkle Brille die er "gegen die Sonne" nennt. Seine Hände zittern wenn er müde ist. Er ist immer müde.
-
-### Kap. 50 — Alphina (S. 188–200, ~3.000 Wörter)
-*Das Forscherteam trifft die Gilden.*
-
-Maren kommt zurück. Mit fünf Wissenschaftlern, einem Generator, Kisten voller Geräte. Die Gilden-Älteste starrt. Die Thalassier in ihren fremden Kleidern, mit ihren leuchtenden Geräten, ihrem Selbstbewusstsein. Vierhundert Jahre Technologie-Vorsprung.
-
-Alphina umarmt Maren. "Wie lange war ich weg?" Maren: "Drei Tage eurer Zeit." Pause. "Vierhundert Jahre meiner." Alphinas Gesicht — sie versteht es nicht. Kann es nicht. Maren: "Edric ist tot. Jara. Finn. Alle." Stille. "Sorels Platten hängen in einem Museum."
-
-Die Wissenschaftlerin beginnt zu messen. Sensoren im Hain, am Fluss, im Boden. Die KI auf dem Laptop: "Reservoir-Schwund anomal. Lokalisierte Entnahme im Quadrant Süd-Ost." Niemand weiß was das bedeutet. Noch nicht.
+**Tschechow:** Iven und der Generator. — Feuert: Akt IV. Iven als Interface zwischen Magie und Technik an der Riss-Quelle.
 
 ---
 
-## Tschechow'sche Waffen in Akt I Buch 3
+### Kap. 49 — Runa (S. 194-214, ~5.000 Wörter)
+*Die Schmiedin der Thar.*
+
+Runa-POV. Bei den Thar. Seit Ende Buch 2 — sie hat den Bund verlassen, nachdem sie die Wahrheit über die Quellen-Zerstörung entdeckt hat ODER nachdem sie fallengelassen wurde. Zu den Thar gegangen. Die Thar wollten ihre Feuer-Resonanz: eine Druckerin die Metall mit bloßen Händen formt.
+
+Runa in der Thar-Schmiede. Hände an Moragh-Stahl. Das Metall wird weich unter ihren Fingern — kirschrot, biegsam, formbar. Keine Werkzeuge, kein Ofen. Nur ihre Hände. Es kostet sie nichts. Kein Preis. Der Moragh-Schmied neben ihr: erschöpft nach einer Stunde. Sie: nach acht Stunden immer noch warm.
+
+Sie baut. Bestien-Panzerung, Waffen-Komponenten, Resonanz-Verstärker. Die Thar schätzen sie — die Thalassierin die gibt ohne zu nehmen. Die warmen Hände die unermüdlich formen.
+
+Aber: sie druckt nicht mehr. Die Presse steht in einer Ecke. Verstaubt. Runa — die Druckerin aus Vael, die Worte auf Papier gebracht hat — formt jetzt Kriegsmetall. Die warmen Hände, die einmal Alphinas Haut berührt haben, formen jetzt Klingen.
+
+Ein Moragh-Arbeiter: "Du bist nützlicher als zehn Schmiede." Runa lächelt. "Nützlich" — das Wort das sie hört. Nicht "geschätzt." Nicht "gewollt." Nützlich.
+
+Als die Expedition-Technologie eintrifft: Runa sieht die Möglichkeiten sofort. Thalassien-Metallurgie + ihre Feuer-Resonanz = Legierungen die es nie gegeben hat. Sie schmiedet den ersten Resonanz-Spiegel-Prototyp. Den Helm. Neural-Interface + Moragh-Kristalle. Magie für alle.
+
+**Tschechow:** Runas verstaubte Presse. — Feuert: Ende. Runa — akzeptiert oder kämpft? Die Presse oder die Schmiede?
+
+---
+
+### Kap. 50 — Alphina (S. 214-225, ~2.750 Wörter)
+*Die welkenden Bäume.*
+
+Alphina im Hain. Der Schlaf-Hain aus Buch 2 — ihr erster unkontrollierter Wald in Moragh. Riesige Bäume, dunkles Moos, dichtes Blätterdach.
+
+Aber: die Ränder welken. Braune Blätter, hängende Äste. Nicht Jahreszeit — es ist Sommer in Moragh. Alphina legt die Hand auf eine Rinde. Fühlt: leer. Wie ausgesaugt. Die Resonanz die sie hinterlassen hat — in den Wurzeln, im Moos, im Boden — wird entnommen.
+
+Nicht vom Krieg. Nicht vom natürlichen Schwund. Systematisch. Nachts. Immer im Hain.
+
+Alphina sagt es Varen. Sein Gesicht: keine Überraschung. Er weiß wer es ist. Sagt es nicht. Wartet. Wie immer.
+
+"Wer nimmt meine Resonanz?" fragt Alphina. Varen: "Jemand der glaubt er hat ein Recht darauf."
+
+**Tschechow:** Die welkenden Bäume, die systematische Entnahme. — Feuert: Akt II. Talven als Ursache enthüllt. Konfrontation.
+
+---
+
+## Tschechow-Tabelle Akt I
 
 | Detail | Akt I | Feuert in |
 |--------|-------|-----------|
-| Welkende Bäume im Hain | Kap 42/47 — Resonanz wird entnommen | Akt II — Talven als Ursache enthüllt |
-| Ivens Generator-Berührung | I10 — Leistung verdoppelt | Akt III — Iven speist die Naht-Maschine. Moragh-geboren, zahlt mit dem Körper |
-| Marens Wasserweg stabilisiert | Kap 46 — Team kommt durch | Akt IV — Der Kanal wird zur Naht. Maren hält ihn offen |
-| Talvens dunkle Brille | Kap 49 — "Gegen die Sonne" | Akt III — Er nimmt sie ab. Milchige Augen. Alle sehen den Preis |
-| Resonanz für alle | Kap 49 — Die Leute sind glücklich | Akt II — Doppelter Preis. Vesper sieht die Zahlen. Jahrzehnte verloren |
-| KI-Messung "Quadrant Süd-Ost" | Kap 50 — Lokalisierte Entnahme | Akt II — Vesper verbindet die Daten. Findet Talven |
-| Elkes Brief "Die Rechnung" | I9 — Der Stein antwortet langsamer | Akt III — Elke stirbt. Der Stein antwortet nicht mehr |
-| Sorels Platten im Museum | Kap 43/50 — Vierhundert Jahre | Akt IV — Alphinas letzte Resonanz. Die Platten im Museum vibrieren |
+| Marens Farne "wachsen schneller" | Kap 41 — Sensorik am Institut | Akt IV — Farne stehen still. Für immer |
+| Quellen-Zucken (erste Reparatur) | Kap 42 — Ein einzelnes Pochen | Akt III — Regelmäßiger Herzschlag. Reparatur funktioniert |
+| Thar-Kommandantin, kontrollierte Gier | Kap 43 — Der Bauplan den Vesper nicht sieht | Kap 48 — Tech-Übernahme, autonome Bestien |
+| Varens Notiz über Verteilungs-Zerfall | Kap 44 — Er schickt sie nicht | Akt II — Vesper berechnet den doppelten Schwund |
+| Elkes Garten, Pflanzen aus zwei Welten | I9 — "Für die die nach mir kommen" | Epilog — Alphina + Varen in Elkes Garten |
+| Talvens dunkle Brille | Kap 45 — "Gegen die Sonne" | Akt II — Brille ab. Milchige Augen. Der Preis |
+| Maren am Ufer, allein | Kap 46 — Expedition geht durch | Epilog — Maren allein. Lebenswerk sinnlos |
+| Dornen statt Farne | Kap 47 — Bei Varen wachsen Dornen | Epilog — Dornen an Alphinas Hand |
+| Kessler ohne Nyr | Kap 48 — Autonome Bestie, kein Pilot | Akt III — Nyrs Entscheidung, die Thar zu verlassen |
+| Iven + Generator | I10 — Leistung verdoppelt | Akt IV — Iven als Interface an der Riss-Quelle |
+| Runas verstaubte Presse | Kap 49 — Sie druckt nicht mehr | Ende — Presse oder Schmiede? |
+| Welkende Bäume, systematische Entnahme | Kap 50 — Nachts, immer im Hain | Akt II — Talven-Konfrontation |
+| Resonanz-Spiegel-Prototyp (Runa) | Kap 49 — Helm, Neural-Interface | Akt II/III — Abhängigkeit, Thar-Kontrolle |

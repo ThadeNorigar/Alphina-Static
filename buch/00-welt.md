@@ -87,7 +87,7 @@ Der **Steinkreis** im Botanischen Garten — Purpurstein, kreisförmig, schon im
 
 **Von Thalassien aus** braucht das Ritual vier Resonanzen gleichzeitig im Steinkreis: Pflanze (Alphina), Licht (Sorel), Zeit (Vesper), Wasser (Maren). **Bleibt 4:33 offen,** dann schließt es sich.
 
-**Von Moragh aus** kann Varen das Tor allein öffnen — mit genug Reservoir und Vorbereitung. So hat er Agenten nach Thalassien geschickt. So hat er es auch 1423 geöffnet, als Elke durchging (damals von Moragh nach Thalassien, also konnten Thalassier nach Moragh gehen).
+**Von Moragh aus** kann das Portal immer geöffnet werden — es braucht jemanden der das Ritual kennt UND Magie verwenden kann. Moragh-Magier können das Portal jederzeit öffnen. So hat Varen Agenten nach Thalassien geschickt. So hat er es auch 1423 geöffnet, als Elke durchging (damals von Moragh nach Thalassien, also konnten Thalassier nach Moragh gehen). Varen hat die Methode das Portal zu öffnen WIEDERENTDECKT — er hat sie nicht erfunden. Vor 200 Moragh-Jahren (80.000 Thalassien-Jahre) flohen Menschen auf demselben Weg.
 
 Varen hat per Daemon eine Anleitung in Moragh-Sprache hinterlegt — Papier mit Zeichnung des Steinkreises, Ritual-Anweisungen, Symbole. Zusätzlich ein Moragh-Sprachbuch in der Bibliothek. Beides von Jara gefunden. Das Ritual-Papier trägt Fingerabdrücke die nicht von Menschen stammen — zu viele Gelenke, Linien die sich gabeln wo menschliche nicht gabeln. Niemand hat den Daemon gesehen.
 
@@ -95,15 +95,15 @@ Varen hat per Daemon eine Anleitung in Moragh-Sprache hinterlegt — Papier mit 
 
 Die Zeit läuft unterschiedlich. **1 Moragh-Jahr = 400 Thalassien-Jahre.** Das Verhältnis ist stabil. 1 Moragh-Monat ≈ 33 Thalassien-Jahre. Elke ging vor ~400 Thalassien-Jahren durch = vor ~1 Moragh-Jahr. Die gesamte Trilogie (*Der Riss / Das Auge / Die Naht*) auf Moragh-Seite dauert ~1 Jahr. **Für die Rückkehr nach Vael (Buch 3) bedeutet das: Jahrhunderte sind vergangen. Alles Bekannte ist weg. Alle Kontakte, weg. Die Stadt die sie kannten existiert nicht mehr.**
 
-### Der Wasserweg (Buch 2–3)
+### Die Riss-Quelle
 
-Maren entdeckt in Moragh, dass Wasser zwischen den Welten fließt — nicht nur am Portal, überall wo Wasser ist. Das Portal ist eine Tür. Das Wasser ist ein Netz. Maren spürt den "stillen Punkt" in einem Fluss, wo Moragh-Wasser und Thalassien-Wasser sich berühren. Sie formt einen Kanal — schmal, fragil, ein Flüstern zwischen den Welten.
+Am Portal-Punkt liegt eine Reservoir-Quelle — die **Riss-Quelle**. Diese Quelle speist den Riss zwischen den Welten. Durch sie sickert Magie nach Thalassien: die Farne in Vael, das heiße Wasser, die Schemen, der Nebel. Alles Moragh-Magie die durch den Riss leckt.
 
-**Der Wasserweg folgt denselben Richtungsregeln wie das Portal.** Maren öffnet von Moragh aus → sie kann nach Thalassien gehen. Aber: Maren kann den Wasserweg ANPASSEN, weil Wasser ihre Resonanz ist. In Buch 3 stabilisiert sie ihn, macht ihn breiter, pendelt zwischen den Welten.
+**Zerstörung der Riss-Quelle = permanente Trennung.** Ohne die Riss-Quelle: kein Magie-Durchsickern nach Thalassien. Keine Resonanz dort. Kein Öffnen von der Thalassien-Seite. Der Riss heilt. Thalassien verliert ALLE Magie permanent. Moragh behält Magie wie immer.
 
-**Der Wasserweg kostet Moragh** — nicht Maren (Thalassier zahlen keinen persönlichen Preis). Aber das Reservoir unter dem Fluss sinkt.
+### Marens Rückkehr (Buch 2)
 
-**Maren erkennt die Zeitdilatation.** Rechnet. Überlegt. Bittet Vesper mitzukommen. Vesper weigert sich — er bleibt in Moragh, geht mit Nyr, verlässt die Gruppe vorerst. Maren geht allein. Durch das Wasser, zurück nach Vael. Jahrhunderte sind vergangen.
+Maren findet in Moragh die Karte und die Anleitung für die Moragh-Seite des Portals — den Weg zurück. Sie und Vesper sind zusammen als sie es entdeckt. Vesper entscheidet sich zu bleiben — Moragh, Nyr, die Thar. Maren entscheidet sich zu gehen. Sie öffnet das Portal von Moragh-Seite (Ritual + Magie, wie jeder Moragh-Magier es könnte). Geht durch nach Thalassien. ~1910. Allein hat sie dort zu wenig Magie (allein, ohne die anderen Resonanzen) um zurückzukehren. Sie ist gestrandet. Absichtlich.
 
 ### Varens Köder — warum die Vier nach Vael kommen
 
@@ -205,7 +205,7 @@ Moragh hat **Reservoir-Quellen** — Energiepunkte in der Erde, vergleichbar mit
 
 **Städte entstehen um Quellen herum.** Die Quelle ist das Kraftwerk der Stadt. Moragh-Menschen erholen sich schneller von Magieverbrauch je näher sie an einer Quelle sind — ein Beschwörer der neben einer Quelle schläft ist morgens vollständig erholt. Einer der 100 Kilometer entfernt arbeitet braucht Tage.
 
-Die Quellen füllen sich auf — langsam, über Jahrzehnte. Aber Übernutzung erschöpft sie schneller als sie sich regenerieren. **Drei Quellen sind unwiederbringlich kollabiert** — durch Varens fehlgeschlagenes Leylinien-Experiment vor dem Krieg (siehe "Varens Schuld"). Die Städte auf diesen Quellen verdorrten. Das Gleichgewicht kippte. Der Krieg begann.
+**Quellen können durch Überladung zerstört werden — unwiederbringlich.** Eine überlastete Quelle kollabiert, versiegelt sich, ist tot. Wie eine Batterie die explodiert. Kein Schwund, kein langsames Versiegen — Zerstörung. **Drei Quellen sind unwiederbringlich kollabiert** — durch Varens fehlgeschlagenes Leylinien-Experiment vor dem Krieg (siehe "Varens Schuld"). Die Städte auf diesen Quellen verdorrten. Das Gleichgewicht kippte. Der Krieg begann.
 
 ### Moragh im Krieg
 
@@ -219,7 +219,7 @@ Der Krieg dauert **vier Moragh-Jahre** (= ~1600 Thalassien-Jahre). Drei Seiten.
 - Die **Thar** rücken mit Magitech-Bestien vor — Fabelwesen aus Magie und Metall, raubtierähnlich, glühende Augen, Klauen. Ein Reiter pro Bestie. Je nach Resonanz andere Gestalt: **Lohen** (Feuer-Panther, Flammenwerfer-Maul), **Ramme** (Dampf-Bullen, 40 Tonnen, gepanzert wie Kataphrakte), **Zacker** (Elektrik-Wölfe, Blitzstöße, Kampfläufer), **Gründe** (Stein-Schildkröten, Belagerung), **Feger** (Wind-Falken, 30m-Sprünge), **Fluter** (Wasser-Schlangen, amphibisch). Die Reiter sind die Elite: schwarze Rüstung, geschlossene Helme, ~500 in der ganzen Armee. Dahinter: Infanterie mit Druck-Gewehren und Hitze-Klingen. Durchorganisiert, diszipliniert, skrupellos. Absolute Gleichberechtigung — seit Generationen. Siehe `buch/18-thar-magitech.md` für Details.
 - Die **Binder** operieren als Guerilla-Stoßtrupps aus den Grenzlanden — gebundene Dämonen als Waffe, schnell, brutal, mobil.
 
-**Die Reservoir-Quellen sind erschöpft aus ZWEI Gründen:** Erstens Varens Experiment (drei Quellen unwiederbringlich zerstört — das weiß niemand außer ihm). Zweitens vier Jahre militärische Magie auf allen Seiten, die die verbliebenen Quellen schneller leert als sie sich regenerieren. Die Fraktionen behaupten die Thalassier seien schuld — bequemer Sündenbock, einfache Erklärung. Vespers Daten zeigen: der Schwund war schon vor Ankunft der Fünf da. Und er reicht weiter zurück als der Krieg.
+**Der Krieg um die Quellen:** Drei Quellen durch Varens Experiment zerstört (das weiß niemand außer ihm). Die verbleibenden Quellen reichen nicht für alle. Jede Fraktion kämpft um Zugang. Der Bund hat zusätzlich Varens Überladungs-Methode gestohlen/rekonstruiert und nutzt sie als Waffe — weitere Quellen-Zerstörung als militärische Strategie.
 
 Alle drei Fraktionen versuchen, die Resonanz-Begabten auf ihre Seite zu ziehen: mit Ehrlichkeit, mit List, mit Heimtücke.
 
@@ -272,6 +272,8 @@ Pflanzen reagieren auf sie. Es wird stärker.
 - **Sorel:** Der Einzige bei dem ihre Kontrolle nicht greift. Er steigt nicht in ihr Spiel ein. Er wartet. Und diese Souveränität ist das Einzige, gegen das sie nichts ausrichten kann. Wenn er sie ansieht, pocht etwas tief in ihr das sie nicht steuern kann. Das macht ihr Angst. Das macht sie lebendig.
 
 **Alphina wählt Sorel** — OBWOHL die anderen in Frage kommen.
+
+**Alphinas Beziehungsbogen über die Trilogie:** Sorel (Buch 1, Vertrauen, Farne, er stirbt) → Runa FWB (Buch 2, hitzig, keine Beziehung, Stille statt Blühen) → Varen (Buch 2-3, Schuld-Spiegelung, Dornen, sie wählt ihn).
 
 ### Sorel — aus Nachtholm (Freistädte)
 
@@ -346,7 +348,7 @@ Haron Dahls Lehrling. Dreißig, ruhige Hände. Echter Vaeler — kein Agent, kei
 Behandelt die Fischer die vom Wasser krank werden. Seit dem Nebel häufiger. Rationalist — alles hat eine Erklärung. Bis es keine mehr hat. Vesper trinkt mit ihm. Halvard behandelt Verbrennungen die keine Hitzequelle haben, Frostbeulen im Sommer, Knochenbrüche ohne Sturz.
 
 ### Talven — Gilden-Lehrling (Buch 2-3, Moragh)
-Dreiundzwanzig. Beschwörer-Lehrling, mittleres Reservoir. Charming, hilfsbereit, lustig. Elkes Kontakt in der Gilden-Stadt. Wird zum Freund der Helden. Aber: er sieht Alphinas kostenlose Macht und will sie. Lernt von Varen Resonanz zu ERNTEN — nicht aus den Thalassiern, sondern aus dem was sie hinterlassen. Verteilt sie an alle. Wird zum Helden in Moragh. Beschleunigt den Schwund. Bereut. Bezahlt mit seinem Körper (milchige Augen, zitternde Hände).
+Dreiundzwanzig. Beschwörer-Lehrling, mittleres Reservoir. Charming, hilfsbereit, lustig. Elkes Kontakt in der Gilden-Stadt. Wird zum Freund der Helden. Aber: er sieht Alphinas kostenlose Macht und will sie. Lernt von Varen Resonanz zu ERNTEN — nicht aus den Thalassiern, sondern aus dem was sie hinterlassen. Verteilt sie an alle. Wird zum Helden in Moragh. Motivation: reine Ungerechtigkeit — er bezahlt mit Blut für ein Steinchen, sie lässt Wälder wachsen und gähnt. Bereut. Bezahlt mit seinem Körper (milchige Augen, zitternde Hände).
 
 ### Nyr — Thar-Pilotin (Buch 2-3, Moragh)
 Dreißig. Druck-Resonanz. Pilotiert eine Thar-Bestie (Magitech Walker, 8-12m, 3-Mann-Besatzung). Beste Pilotin — die Ausdauerndste, wie eine Elitesportlerin. Piloten sind Elitesoldaten, respektiert, gut bezahlt. Beginnt Beziehung mit Vesper. Starke Persönlichkeit, direkt, physisch. Wechselt die Seite als die Thar planen, Resonanz-Begabte PERMANENT an Maschinen anzuschließen. Vesper wechselt NUR weil sie wechselt — ohne Nyr wäre er geblieben.
@@ -374,6 +376,8 @@ Dreißig. Druck-Resonanz. Pilotiert eine Thar-Bestie (Magitech Walker, 8-12m, 3-
 **Warum der Bund den Krieg verliert:** Nicht weil er schwächer ist — der Bund HAT mehr Menschen, mehr Quellen, mehr Erfahrung. Er verliert weil zwanzig Städte zwanzig Meinungen haben. Jede Stadt bezahlt ihre eigene Armee, koordiniert schlecht. Die Thar hat EINE Kommandokette. Der Bund hat Ausschüsse.
 
 **Bevölkerung:** ~8-10 Millionen. Das Kernland des Plateaus. Die reichsten Quellen, die ältesten Städte. Die Zivilisation von Moragh.
+
+**Der Bund und die Quellen-Überladung:** Der Bund hat Varens Forschung über Quellen-Überladung gestohlen oder rekonstruiert. Die einflussreichsten Kriegstreiber im Bund verstehen das Prinzip und nutzen es als Waffe — systematische Zerstörung feindlicher Quellen. Nicht offiziell, nicht alle Städte. Aber die Strategen die den Krieg wirklich lenken planen die permanente Vernichtung der Thar-Quellen. Wer die Quellen des Gegners zerstört, gewinnt permanent. Das macht den Bund zur "zivilisierten" Seite die im Kern genau so brutal ist wie alle anderen.
 
 Wollen die Resonanz-Begabten als **Verbündete und Waffen** gegen die Thar.
 

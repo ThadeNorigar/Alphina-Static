@@ -16,13 +16,13 @@ Keine Erschöpfung. Kein Nasenbluten. Kein Hunger. Kein versteckter Preis. Kein 
 
 DAS ist der Konflikt. Nicht ein versteckter Preis — die UNGERECHTIGKEIT selbst. Jeder Moragh-Mensch bezahlt für jeden Zauber mit seinem Körper. Die Thalassier nicht. Das ist nicht fair. Es war nie fair. Es muss nicht fair sein.
 
-**Moragh zerfällt — aber nicht wegen der Thalassier.** Moragh zerfällt wegen dem KRIEG. Generationen von Magie-Übernutzung durch die eigenen Fraktionen. Die Reservoire sind erschöpft. Die Welt ist müde — von IHREN EIGENEN Leuten. Die Resonanz-Begabten sind kein Gift. Sie sind eine potenzielle Lösung — oder eine Waffe. **Vespers Daten zeigen: der Schwund ist ÜBERALL gleich — nicht konzentriert um die Thalassier.** Die Fraktionen behaupten das Gegenteil, weil sie einen Sündenbock brauchen.
+**Moragh zerfällt — aber nicht wegen der Thalassier.** Moragh zerfällt wegen dem KRIEG. Varens Experiment hat drei Quellen zerstört. Der Bund hat die Überladungs-Methode gestohlen und zerstört weitere. Die Fraktionen kämpfen um die verbleibenden Quellen. Die Resonanz-Begabten sind kein Gift. Sie sind eine potenzielle Lösung — oder eine Waffe. Die Fraktionen behaupten die Thalassier seien schuld, weil sie einen Sündenbock brauchen.
 
 **Moragh-Geborene zahlen mit dem Körper.** Wie Sport. Müdigkeit, Muskelkater, Hunger. Erst bei Übergebrauch: Nasenbluten etc. Das Reservoir füllt sich durch Ruhe.
 
 **Resonanz-ERNTE ist KEINE normale Magie.** Resonanz-Ernte (Binder-Technik, von Varen entwickelt) ist eine perverse, unnatürliche Methode. Der Ernter füllt sein Reservoir mit FREMDER Magie die nicht zu ihm passt — wie ein transplantiertes Organ das abgestoßen wird. Der Körper erkennt die fremde Resonanz und reagiert mit Abstoßung: Haarausfall, milchige Augen, Zittern, beschleunigtes Altern. Das ist kein normaler Magie-Preis. Das ist eine Autoimmunreaktion. Normale Moragh-Magie = Müdigkeit wie nach Sport, erholt sich durch Ruhe. Resonanz-Ernte = permanenter Schaden, der sich nicht erholt.
 
-**Nach Wiedervereinigung (Buch 3, Finale):** Magie existiert überall. Kostet überall. Für alle. Auch für die ehemaligen Thalassier.
+**Buch 3, Finale:** Die Riss-Quelle wird zerstört. Thalassien verliert alle Magie permanent. Keine Resonanz mehr. Keine Farne die sich drehen. Moragh behält Magie wie immer. Die ehemaligen Thalassier in Moragh behalten ihre Resonanz — sie sind IN Moragh, die Quelle ihrer Kraft ist die Moragh-Umgebung, nicht der Riss.
 
 ---
 
@@ -48,7 +48,7 @@ DAS ist der Konflikt. Nicht ein versteckter Preis — die UNGERECHTIGKEIT selbst
 - Wälder in Stunden. Sie will es und es passiert. Kein persönlicher Preis.
 - Dunkelste Anwendung: Sie SCHLÄFT und die Wurzeln kriechen durch ein Dorf. Über Tage. Unaufhaltbar. Moragh zahlt — der Boden unter dem nächsten Dorf wird weicher.
 - Die psychologische Bremse: Sie SIEHT was es Moragh kostet. Und muss trotzdem. Die Zurückhaltung ist moralisch, nicht physisch.
-- Erst nach Wiedervereinigung: Dann kostet es SIE. Erschöpfung, Hunger. Wie alle.
+- In Moragh: kostet sie weiterhin NICHTS persönlich. Die Bremse bleibt moralisch.
 
 ### Vesper / Muster-Zeit
 
@@ -151,8 +151,8 @@ Selten. Kosten ALLE drei massiv. Max 2-3 Mal in der ganzen Trilogie.
 | Kombination | Effekt | Wann |
 |-------------|--------|------|
 | Pflanzen + Wasser + Stein | Lebende Landschaft — Bäume aus Fels, Wasser als Adern | Buch 3, Akt III: Verteidigung bauen |
-| Zeit + Strom + Feuer | Maschine die "denkt" — kurz, instabil, erschreckend | Buch 3, Akt IV: Die Naht-Maschine |
-| Pflanzen + Zeit + Wasser | Ökosystem in Stunden statt Jahrzehnten | Buch 3, Finale: Heilung der vereinten Welt |
+| Zeit + Strom + Feuer | Maschine die "denkt" — kurz, instabil, erschreckend | Buch 3, Akt III: Thar-Tech-Magie-Fusion, autonome Systeme |
+| Pflanzen + Zeit + Wasser | Ökosystem in Stunden statt Jahrzehnten | Buch 3, Finale: Quellen-Reparatur |
 
 ---
 
@@ -160,7 +160,7 @@ Selten. Kosten ALLE drei massiv. Max 2-3 Mal in der ganzen Trilogie.
 
 1. **Magie kommt aus der Umgebung, nicht aus dem Körper.** Alphina wachsen keine Pflanzen aus den Händen. Der BODEN reagiert auf sie.
 2. **Thalassier zahlen KEINEN persönlichen Preis.** Kein Nasenbluten, kein Hunger, keine Erschöpfung. NICHTS. Das ist der Punkt. Das ist was sie bedrohlich macht.
-3. **Moragh zahlt — aber hauptsächlich für den KRIEG.** Der Reservoir-Schwund ist flächendeckend und durch Generationen von Übernutzung der eigenen Fraktionen verursacht. Die Thalassier sind ein Tropfen im Ozean, kein Parasit. Die Fraktionen nutzen sie als Sündenbock.
+3. **Moragh zahlt — aber hauptsächlich für den KRIEG.** Quellen werden durch Überladung zerstört (Varens Experiment, Bund-Waffe), nicht durch allgemeinen Schwund. Reservoire schwinden nicht — sie können aber durch gezielte Überladung unwiederbringlich zerstört werden. Die Thalassier sind kein Parasit. Die Fraktionen nutzen sie als Sündenbock.
 4. **Moragh-Geborene zahlen mit dem Körper — aber wie bei Sport, nicht wie bei Folter.**
    - Normale Nutzung: Müdigkeit, Muskelkater, Hunger. Schlafen, essen, fertig.
    - Schwere Nutzung (Kampf, große Beschwörung): Erschöpfung wie nach einem Marathon. Tage Erholung.
@@ -170,4 +170,30 @@ Selten. Kosten ALLE drei massiv. Max 2-3 Mal in der ganzen Trilogie.
 5. **Die Grenze der Thalassier ist MORALISCH, nicht physisch.** Sie KÖNNEN alles. Sie WÄHLEN nicht alles zu tun. Die Zurückhaltung kommt aus dem Wissen was es Moragh kostet.
 6. **Buch 1 = King (subtil).** Buch 2 = King → Yarros (Übergang). Buch 3 = Yarros (volle Kraft, Action, Konsequenzen).
 7. **Kombinationen: Thalassier untereinander = kein Preis.** Thalassier + Moragh-Geborene = der Moragh-Geborene zahlt seinen Anteil.
-8. **Nach Wiedervereinigung: ALLE zahlen.** Fair. Gleich. Keine Ausnahmen.
+8. **Nach Zerstörung der Riss-Quelle:** Thalassien verliert alle Magie permanent. Moragh bleibt unverändert. Thalassier IN Moragh behalten ihre Resonanz.
+
+---
+
+## Quellen-Überladung als Waffe
+
+Varen hat durch ein fehlgeschlagenes Leylinien-Experiment die Überladung entdeckt — zu viel Druck über eine Leylinie in eine Quelle gedrückt. Die Quelle kollabiert. Kettenreaktion über natürliche Leylinien-Verbindungen. Drei Quellen zerstört. Unwiederbringlich.
+
+**Der Bund von Orath** hat Varens Forschung gestohlen oder rekonstruiert. Die einflussreichsten Kriegstreiber verstehen das Prinzip und nutzen es als Waffe: systematische Zerstörung feindlicher Quellen. Nicht offiziell, nicht alle Städte. Aber die Strategen die den Krieg lenken planen die permanente Vernichtung der Thar-Quellen. Alphina wird dafür eingesetzt — ihre Resonanz kann Quellen überlasten ohne dass sie selbst einen Preis zahlt.
+
+**Quellen-Überladung ist KEINE normale Magie.** Es ist die gezielte Zerstörung einer natürlichen Energiequelle. Der Boden bebt, Bäume verdorren, Menschen die auf die Quelle angewiesen sind verlieren ihre Magie-Erholung. Permanent.
+
+---
+
+## Die Riss-Quelle
+
+Am Portal-Punkt liegt die **Riss-Quelle** — eine Reservoir-Quelle die den Riss zwischen den Welten speist. Durch sie sickert Magie nach Thalassien: die Farne in Vael, das heiße Wasser, die Schemen, der Nebel.
+
+**Zerstörung der Riss-Quelle = permanente Trennung der Welten.**
+- Kein Magie-Durchsickern nach Thalassien
+- Keine Resonanz in Thalassien
+- Kein Öffnen des Portals von Thalassien-Seite
+- Der Riss heilt permanent
+- Thalassien verliert ALLE Magie
+- Moragh behält Magie wie immer
+
+Die Riss-Quelle zu zerstören ist dieselbe Handlung wie jede andere Quellen-Überladung — aber mit kosmischen Konsequenzen. Die Symmetrie der Trilogie: Varen zerstört 3 Quellen (Unfall), Alphina zerstört 1 Quelle (absichtlich, falsche Seite), Alphina/Varen zerstört die Riss-Quelle (absichtlich, richtige Seite).

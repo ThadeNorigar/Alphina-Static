@@ -18,6 +18,12 @@ Für alle Bestien-Typen (Lohe, Ramm, Zacker, Grund, Feger, Fluter): siehe `buch/
 
 **ERST wenn die Thar planen, Resonanz-Begabte permanent an Bestien-Kerne anzuschließen** (Buch 3), überqueren sie die Linie. Nicht Schichtarbeit — Dauerbetrieb. DAS ist die Grenze die Nyr erkennt.
 
+### Autonome Bestien — das Alptraum-Bild
+
+In Buch 3 sieht Nyr etwas Schlimmeres als die Resonanz-Käfige: **autonome Magitech-Bestien.** KI-gesteuert, kein Pilot im Cockpit. Selbstpilotierende Bestien die Tag und Nacht laufen. Endlose Armeen. Kessler ohne Nyr — das ist das Bild das sie nicht loslässt. Ihre Bestie, ihr Partner, ersetzt durch eine Maschine die keinen Namen kennt. Keine Piloten mehr nötig. KI ist billiger.
+
+Die autonomen Bestien sind Teil der **Tech-Magie-Fusion** die entsteht wenn die Thar Zugang zu Thalassien-Technologie (~2250) bekommen: Schwarm-Schemen mit Drohnen-Logik, Quellen-Siphon aus der Luft, Resonanz-Spiegel (Neural-Interface), temporale Taktik-KI. Die Thar werden zum Imperium.
+
 ## Der Subplot: Nyr + Vesper
 
 ### Das Dreieck: Vesper / Maren / Nyr
@@ -36,13 +42,11 @@ Die Thar schicken Nyr als Emissärin. In ihrer Magitech-Bestie. Boden bebt, Pfla
 
 "Du bist der der Muster sieht." Keine Frage.
 
-### Buch 2, Akt III — Vesper geht mit
+### Buch 2, Akt II — Vesper geht mit
 
-Nicht Gefangennahme — Wahl. Nyr zeigt ihm die Thar-Stadt: Pressen, Öfen, Magitech-Bestien. Effizienz. Ordnung. Piloten die nach der Schicht gemeinsam essen, die ihre Bestien pflegen wie Handwerker ihre Werkzeuge. Vesper — der Muster liebt und Chaos hasst — sieht etwas das er versteht. Das er WILL.
+Nicht Gefangennahme — Wahl. Nyr zeigt ihm die Thar-Stadt: Pressen, Öfen, Magitech-Bestien. Effizienz. Ordnung. Piloten die nach der Schicht gemeinsam essen, die ihre Bestien pflegen wie Handwerker ihre Werkzeuge. Vesper — der Muster liebt und Chaos hasst — sieht etwas das er versteht. Das er WILL. "Jedes System hat Fehler. Die Thar benennen ihre."
 
-Nyr zeigt ihm Daten: Moraghs Reservoir-Schwund. "Eure Resonanz zerstört unsere Welt. Wir wollen euch nutzen — kontrolliert, in Maschinen kanalisiert, dosiert."
-
-Vesper sieht die Logik. Bleibt.
+Vesper will sich nicht instrumentalisieren lassen — weder vom Bund noch von Alphinas Rache. Bei den Thar sieht er Struktur statt Chaos. Er bleibt.
 
 Nachts: Nyr ohne Bestie. Presst ihn an die Metallwand. Luft wird dünn. Er greift nach ihren Handgelenken (Reflex — Maren). Sie lacht. Presst seine Hände über seinen Kopf. Mit Druck, nicht Händen.
 
@@ -54,7 +58,7 @@ Maren erfährt es. "Du hast uns verkauft." — "Ich habe gerechnet." — "Das is
 
 ### Buch 3 — Die Schlüsselszene: Nyr wechselt die Seite
 
-**Kontext:** Thalassische Technik kommt. Die Thar-Führung sieht die Möglichkeit: Resonanz-Begabte permanent an Maschinen anschließen. 24/7. Nicht Schichtarbeit — Dauerbetrieb. Ein ganz anderer Plan als die normalen Bestien-Einsätze.
+**Kontext:** Thalassische Technik kommt. Die Thar-Führung sieht die Möglichkeit: Resonanz-Begabte permanent an Maschinen anschließen. 24/7. Nicht Schichtarbeit — Dauerbetrieb. Autonome Bestien ohne Piloten. Vespers Temporal-KI macht ihn zum wertvollsten **Werkzeug** — und genau dieses Wort ist es das ihn kippen lässt. "Werkzeug." Nicht Partner, nicht Pilot, nicht Mensch. Werkzeug.
 
 Nyr findet den Bauplan. Metallklemmen an Stühlen. Infusionsleitungen. Eine Halle mit zwanzig Plätzen. Für Thalassier-Hände. Permanent. Sie kennt den Unterschied: IHRE Arbeit — hart, freiwillig, respektiert. DAS — Gefangenschaft.
 
@@ -101,6 +105,10 @@ Vesper und Nyr kommen mit Bestie (modifiziert) und Daten (Thar-Schwachstellen). 
 Maren schlägt ihm ins Gesicht. Das Wasser im Raum explodiert — Vasen, Gläser, Kondenswasser. Alles fliegt. Vesper steht still. Nimmt es.
 
 Nyr steht hinter ihm. Breit, narbig, Bestie summt leise im Standby. Maren sieht sie an. Versteht sofort warum er zurückgekommen ist. Und das es nicht wegen der Rechnung war.
+
+### Runa — die Verfolgerin
+
+**Runa Kvist** verfolgt Nyr und Vesper als sie die Thar verlassen. Ehemalige Freundin als Antagonistin. Runa ist beim Konglomerat aufgestiegen — die Druckerin mit den warmen Händen schmiedet jetzt Thar-Kriegsmetall. Sie hat ihre eigenen Gründe beim Konglomerat zu bleiben: Macht, Zugehörigkeit, die Überzeugung dass die Thar-Ordnung besser ist als das Chaos des Bundes. Als Nyr und Vesper überlaufen, wird SIE auf sie angesetzt. Die Frau deren Hände auf Alphinas Haut lagen, jagt jetzt Alphinas Verbündete.
 
 ## Kampfszenen
 

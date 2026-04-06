@@ -1,136 +1,137 @@
-# Buch 2 — Akt III — Der Preis (Seite 400–600, ~50.000 Wörter, 10 Kapitel + 2 Interludien)
+# Buch 2 — Akt III — Das Schlachtfeld (Seite 400–600, ~50.000 Wörter, 10 Kapitel + 2 Interludien)
 
 ## Alphinas Kontroll-Status: BEWUSST
 
-In Akt III hat Alphina volle bewusste Kontrolle über ihre Resonanz. Tagsüber kann sie gezielt Wälder wachsen lassen, Pflanzen als Werkzeug einsetzen, kontrolliert Ranken lenken. Aber: die Schlaf-Haine bleiben IMMER unbewusst. Auch mit voller Tageskontrolle wächst nachts die Trauer weiter, unkontrolliert, ohne Bremse. Diese Spaltung — bewusste Macht am Tag, unbewusste Trauer in der Nacht — ist der Kern ihres Konflikts in Akt III.
+In Akt III hat Alphina volle bewusste Kontrolle über ihre Resonanz. Tagsüber kann sie gezielt Wälder wachsen lassen, Pflanzen als Werkzeug einsetzen, kontrolliert Ranken lenken. Sie ist die stärkste Waffe des Bundes. Aber: die Schlaf-Haine bleiben IMMER unbewusst. Auch mit voller Tageskontrolle wächst nachts die Trauer weiter, unkontrolliert, ohne Bremse. Diese Spaltung — bewusste Macht am Tag, unbewusste Trauer in der Nacht — ist der Kern ihres Konflikts in Akt III.
 
 ## Struktur
 
-Die Frage kippt: von "Wer will uns?" zu "Was kosten wir?" Runa geht zur Thar — freiwillig, weil sie bieten was die Gilden nicht bieten: Verständnis für ihr Feuer. Alphina muss sie finden. Vesper entdeckt die Wahrheit über den Reservoir-Schwund. Varen ist erholt und stärker als zuvor. Die Binder werden zum Faktor. Maren spürt durch das Wasser einen Weg zwischen den Welten — nicht das Portal, sondern die Ströme selbst.
+Die Frage kippt: von "Wer sind die Guten?" zu "Was bin ICH bereit zu tun?" Der Bund setzt Alphina als Waffe ein — erst defensiv, jetzt offensiv. Sie hört auf Fragen zu stellen. Der Hass auf Varen fühlt sich produktiv an wenn sie für den Bund kämpft. Dann das Schlachtfeld: der Bund-Kommandant zeigt ihr eine kleinere Reservoir-Quelle als Ziel. Sie zerstört sie. ABSICHTLICH. Der Wendepunkt des gesamten Romans.
+
+Varen greift ein als sie die GROSSE Quelle angreifen will. Schemen. Ketten. Gefangenschaft. Runa sieht es — kämpft, wird zurückgeschlagen. Die Wahrheit kommt in Stufen: Karten, Gesprächsfetzen, abgefangene Bund-Kommunikation. Hass wird Zweifel wird Erkenntnis.
 
 ## Kapitelplan
 
-### Kap. 21 — Runa (S. 400–416, ~4.000 Wörter)
-*Das Angebot.*
+### Kap. 21 — Alphina (S. 400–420, ~5.000 Wörter)
+*Waffe des Bundes. An der Front.*
 
-Der Thar-Emissär kehrt zurück. Nicht in die Stadt — er wartet am Fluss, außerhalb der Gilden-Grenzen. Runa trifft ihn allein. Er spricht langsam, in verdrehtem Thalassisch das er für sie geübt hat. Das Angebot: komm zu uns. Nicht als Gast — als Gleiche. Die Thar verstehen Feuer, Druck, Metall. Ihre Schmiede, ihre Pressen, ihre Öfen. "Die Gilden beschwören Geister. Wir formen die Welt. Wie du."
+Alphina an der Front. Wochen seit Akt II. Sie ist ANDERS. Kontrolliert. Präzise. Lässt Wurzeln durch feindliche Stellungen brechen, Ranken die Barrikaden zerreißen, Dornenhecken als Verteidigung. Die Bund-Soldaten starren sie an — Ehrfurcht, Angst. Der Kommandant (Name: Drael) behandelt sie wie eine Kanone: Ziel angeben, feuern lassen, nachladen.
 
-Runa denkt an Alphina. An den Kuss. An die Stille danach. An die Gilden die sie anstarren wie ein Werkzeug das noch nicht funktioniert. An den Schmied der taumelt nach einer Stunde, während sie Stunden formen kann ohne müde zu werden.
+Sie denkt nicht an Sorel. Sie denkt an Varen. Jeder Feind ist sein Gesicht. Jede Wurzel die sie durch Stein treibt, treibt sie durch IHN. Der Hass ist produktiv. Der Hass hat Struktur. Zum ersten Mal seit Sorels Tod hat sie einen Zweck.
 
-Sie geht. Nachts. Ohne Abschied. Ein Brief an Alphina, drei Zeilen: "Ich muss verstehen was ich bin. Nicht was ihr braucht."
+Eingebettet: Runa neben ihr, Hände glühend, Metall formend. Runa ist AUCH Waffe — aber anders. Runa stellt Fragen. "Warum greifen wir dieses Dorf an?" Alphina: "Weil der Kommandant es sagt." Runa: "Seit wann nimmst du Befehle?"
 
-### Kap. 22 — Alphina (S. 416–438, ~5.500 Wörter)
-*Der Brief. Wut.*
+### Kap. 22 — Varen-POV (S. 420–436, ~4.000 Wörter)
+*Der Beobachter. Was er sieht.*
 
-Alphina findet den Brief. Drei Zeilen, Runas Handschrift — die Handschrift einer Druckerin, klar, jeder Buchstabe gesetzt. Die Wut kommt nicht sofort. Erst: Verständnis. Dann: die Kontrolle die sich meldet. Sie hätte es verhindern können. Hätte Runa halten können. Hat sie nicht. Weil Runa kein Sorel ist. Sorel hat sie gehalten durch Souveränität. Runa hält sie durch — nichts. Runa geht einfach.
+Varen beobachtet von fern. Er hat Späher. Schemen die berichten. Er sieht was der Bund mit Alphina macht — die systematische Verwandlung einer Trauernden in eine Waffe. Er sieht die Front. Er sieht die Quellen die der Bund im Visier hat. Er sieht die Karten die er KENNT — weil er dieselbe Forschung gemacht hat. Der Bund hat seine Methode gestohlen oder rekonstruiert. Quellen-Überladung als Kriegsstrategie.
 
-Der Garten um Alphina wächst. Zehn Meter, zwanzig, dreißig. Bäume brechen durch den Boden der Gilden-Stadt. Die Älteste kommt gerannt. "Hör auf." Alphina: "Ich tue nichts." Das ist die Wahrheit. Die Wut wächst für sie.
+An seiner Wand: drei tote Quellen, rot markiert. Seine. Sein Experiment. Sein Fehler. Und jetzt macht der Bund es absichtlich. Systematisch. Mit Alphina als Werkzeug.
 
-### Kap. 23 — Vesper (S. 438–456, ~4.500 Wörter)
-*Die Anomalie.*
+Er könnte eingreifen. Jetzt. Aber Alphina würde ihn töten — oder es versuchen. Er wartet. Auf den Moment in dem sie zu weit geht. Dann hat er einen Grund.
 
-Vesper hat die Karten studiert. Reservoirkarten der Gilden — Jahrzehnte von Daten, Magiefluss, Kapazitäten. Er sieht das Muster: die Reservoire sinken. ÜBERALL. Nicht nur wo die Fünf gewesen sind — in jeder Gilden-Stadt, an jeder Front, in jedem Thar-Werk. Sieben Prozent hier. Zwölf Prozent dort. Drei bei Elkes Garten, aber auch drei in Regionen die kein Thalassier je betreten hat. Der Schwund ist gleichmäßig, flächendeckend. Nicht konzentriert um die Resonanz-Begabten.
+### Kap. 23 — Alphina (S. 436–456, ~5.000 Wörter)
+*Erste Risse. Fragen die sie nicht stellt.*
 
-Der Krieg frisst Moragh auf. Generationen von Übernutzung — Gilden-Beschwörer, Binder-Armeen, Thar-Pressen. Die Reservoire sind erschöpft von den EIGENEN Leuten. Die Fraktionen BEHAUPTEN es liegt an den Thalassiern — bequemer Sündenbock, einfache Erklärung. Aber Vespers Daten zeigen: der Schwund war schon vor ihrer Ankunft da. Die Thalassier haben ihn nicht verursacht. Der Krieg hat ihn verursacht.
+Schleichende Zweifel, die Alphina UNTERDRÜCKT. Ein Kommandant der zu genau weiß wo feindliche Quellen liegen. Gespräche die abbrechen wenn sie näher kommt. Karten die eingerollt werden. Ein Bund-Offizier der sagt: "Die nächste liegt südöstlich, dreihundert Meter unter der Oberfläche" — und Alphina fragt nicht woher er das weiß.
 
-Vesper rechnet. Hochgerechnet auf Jahre. Auf Jahrzehnte. Die Zahl ist hässlich — mit oder ohne die Fünf.
+Eingebettet: die Bund-Soldaten behandeln Alphina wie ein Naturereignis. Abstand. Respekt. Aber kein Kontakt. Niemand isst mit ihr. Niemand redet über etwas anderes als die nächste Mission. Sie ist allein in einer Armee.
 
-### Kap. 24 — Maren (S. 456–472, ~4.000 Wörter)
-*Wasserströme zwischen den Welten.*
+Runa kommt abends. Hände warm. Setzt sich neben sie. Sagt nichts. Alphinas Körper reagiert — Wärme, Nähe, etwas das nicht Hass ist. Aber sie lässt es nicht zu. Nicht jetzt. Der Hass ist nützlicher.
 
-Maren am stillen Punkt des Flusses. Sie taucht tiefer — nicht körperlich, mit ihrem Sinn. Das Wasser hier fließt in beide Richtungen gleichzeitig. In Moragh und in Thalassien. Die Ströme sind verbunden — nicht nur am Portal, überall wo Wasser fließt. Das Portal ist eine Tür. Das Wasser ist ein Netz. Moragh und Thalassien sind nicht getrennt. Sie schwimmen ineinander.
+### Kap. 24 — Runa (S. 456–472, ~4.000 Wörter)
+*Die Druckerin an der Front.*
 
-Maren spürt Vael. Die Grauwe. Das Salzwasser des Grauen Meers. Einen Moment lang hört sie Möwen. Dann ist es weg. Aber der Weg ist da. Durch das Wasser. Nicht durch das Portal. Theoretisch.
+Runa druckt auch hier. Moragh-Papier, Thalassien-Lettern die sie in Moragh-Metall gegossen hat. Sie druckt Berichte. Nachrichten von der Front. Was sie sieht: Bund-Soldaten die Befehle ausführen ohne zu fragen. Dörfer die geräumt werden — nicht evakuiert, GERÄUMT. Bewohner die verschwinden. Quellen die "gesichert" werden — Runas Wort. Der Bund sagt "befreit".
 
-### Interludium V (~S. 480, ~2.000 Wörter)
-*Elke und der Krieg. Erste Begegnung mit den Bindern.*
+Runa schreibt auf was sie sieht. Noch nicht für andere. Für sich. Die Druckerin dokumentiert. Wie in Vael. Wie immer.
 
-Elke, Wochen nach ihrer Ankunft. Die Gilden-Stadt wird angegriffen — nicht die Stadt selbst, ein Außenposten. Gebundene Wesen, verdreht, in Ketten die aus Magie bestehen. Elke sieht zum ersten Mal was Binder tun: ein Wesen das schreit, nicht aus Wut, aus Schmerz. Es ist gefesselt und schlägt um sich. Die Gilden-Beschwörer rufen Gegenwesen, erschöpfen sich, taumeln. Der Angriff dauert eine Stunde. Drei Tote. Der Gilden-Meister der Elke eingeladen hat, blutet aus der Nase. "So geht das. Seit Jahren."
+Eingebettet: Runa beobachtet Alphina. Sieht die Veränderung. Die Frau die in Vael Farne geküsst hat, lässt jetzt Dornen durch Menschen wachsen. Runa sagt nichts. Noch nicht.
 
-### Kap. 25 — Runa (S. 484–502, ~4.500 Wörter)
-*Die Thar-Stadt.*
+### Kap. 25 — Alphina (S. 472–500, ~7.000 Wörter)
+*Das Schlachtfeld. Die Quelle.*
 
-Runas Ankunft. Die Stadt: Rauch, Metall, Hitze. Türme aus Stahl die mit Magie zusammengehalten werden. Pressen die ohne Dampf arbeiten — reine Kraft, kanalisiert durch Maschinen. Der Lärm ist vertraut: es klingt wie ihre Druckerei, nur tausendmal lauter. Der Emissär (sein Name: Kael) führt sie durch die Werkstätten. Schmiede die Eisen formen, Drucker die mit Magie-Tinte arbeiten, Ingenieure die Brücken aus einem Guss bauen.
+**DIE SZENE.** Der Bund greift eine Thar-Siedlung an. Alphina kämpft an vorderster Front — Wurzeln reißen durch den Boden, Bäume wachsen in Sekunden als Barrikaden, Ranken greifen nach Thar-Soldaten. Sie ist eine Naturgewalt. Der Bund drängt die Thar zurück.
 
-Runa fühlt sich zum ersten Mal seit dem Durchgang nicht falsch. Hier versteht man Feuer. Hier versteht man Metall. Hier versteht man Hände die formen.
+Drael, der Bund-Kommandant, nimmt sie zur Seite. Zeigt ihr eine Position außerhalb der Siedlung. "Da unten. Kleinere Quelle. Versiegt die Magie der Verteidiger. Wir sparen hundert Leben." Er sagt es ruhig. Professionell. Wie ein Chirurg der erklärt wo er schneiden will.
 
-Aber: die Arbeiter. Erschöpft. Ausgehöhlt. Manche so verbraucht dass sie taumeln. Die Maschinen fressen Reservoire. Kael zeigt es nicht. Runa sieht es trotzdem.
+Alphina spürt die Quelle. Tief unter der Erde. Warm. Pulsierend. Lebendig. Wie ein Herz.
 
-### Kap. 26 — Alphina (S. 502–524, ~5.500 Wörter)
-*Vespers Wahrheit.*
+Sie drückt. Wurzeln tief in die Erde. Tiefer als je zuvor. Spürt die Quelle — den Widerstand, die Wärme, das Pochen. Drückt weiter. Überlädt. Die Quelle wehrt sich — ein Druck der nach oben steigt, heißer Wind aus dem Boden. Alphina presst. Stille. Die Quelle stirbt.
 
-Vesper legt Alphina die Zahlen vor. Nüchtern, in kurzen Sätzen. Reservoirschwund. Sieben Prozent hier. Zwölf dort. Drei bei Elke. Aber auch drei in Regionen wo kein Thalassier je war. "Moragh schrumpft. Aber nicht wegen dir. Wegen dem Krieg. Die Fraktionen geben uns die Schuld — weil es einfacher ist als zuzugeben, dass sie ihre eigene Welt aufgefressen haben."
+Die Erde bebt. Bäume in einem Radius von zweihundert Metern verdorren — in Sekunden. Blätter fallen. Stämme werden grau. Ein Schmied in der Siedlung bricht zusammen — seine Magie erlischt, seine Hände, die gerade Metall formten, fallen schlaff herab. Kinder schreien. Thar-Verteidiger taumeln, ihre Waffen werden stumpf, ihre Bindungen reißen.
 
-Alphinas Reaktion: Erleichterung, dann Stille. Dann die nächste Frage: "Aber wir machen es nicht BESSER, oder?" Vesper: "Nein. Wir sind ein Tropfen im Ozean. Aber die Gilden brauchen keinen Ozean — sie brauchen einen Sündenbock."
+Alphina steht in der Mitte. Um sie herum: ein Kreis aus totem Land. Sie hat es getan. Sie hat es GEWOLLT.
 
-Alphinas Frage: "Was können wir tun?" Vesper: "Die Wahrheit verbreiten. Die Daten zeigen dass der Schwund überall gleich ist. Nicht konzentriert um uns."
+Sie schaut nach Osten. Die GROSSE Quelle der Siedlung. Größer. Stärker. Tiefer. Sie spürt sie. Könnte sie auch —
 
-### Kap. 27 — Vesper (S. 524–540, ~4.000 Wörter)
-*Varen. Erholt und forschend.*
+### Kap. 26 — Alphina (S. 500–520, ~5.000 Wörter)
+*Varen. Ketten.*
 
-Ein Gerücht in der Gilden-Stadt: der Forscher am Portal ist zurück. Erholt. Kräftig. Groß, muskulös, graue Schläfen, purpurne Augen, gut gekleidet — ein Mann der aus dem taktischen Rückzug gelernt hat. Aus allen Fraktionen ausgestoßen, eine Handvoll Deserteure um sich. Er sucht nicht die Fünf — er sucht die Daten. Wie funktioniert Resonanz? Warum kostet sie nichts? Was ist die Verbindung zwischen den Welten?
+**VAREN.** Aus dem Nichts. Schemen strömen über das Schlachtfeld — dutzende, humanoid, schnell. Sie schneiden Alphina ab. Von der Siedlung, von der großen Quelle, von den Bund-Soldaten, von Runa.
 
-Vesper analysiert: Varen ist nicht der Feind. Er ist ein Forscher mit dem richtigen Ziel und den falschen Methoden. Stärker als vor dem Rückzug, gut genährt, in Form, weil er Zeit hatte sich zu erholen und nachzudenken. Er hat Sorel nicht absichtlich getötet — hat es aber in Kauf genommen. Das macht ihn gefährlicher.
+Ketten. Nicht Metall — Bindungsmagie. Sie legen sich um Alphinas Handgelenke, ihre Arme. Ihre Pflanzen VERSUCHEN zu wachsen — Wurzeln brechen aus dem Boden, Dornen schießen hoch. Die Ketten halten. Varens Magie ist stärker. Oder gezielter. Die Pflanzen wachsen, aber sie erreichen ihn nicht.
 
-### Kap. 27b — Talven (S. 540–554, ~3.500 Wörter)
-*Nachts. Allein. Zum Portal.*
+Varen sagt nichts. Sein Gesicht: kein Triumph. Notwendigkeit. Er hat gewartet. Auf genau diesen Moment. Den Moment in dem sie zu weit geht.
 
-Talven hat Vespers Vortrag über den Reservoir-Schwund gehört. Stand im Hintergrund — Lehrling, unsichtbar, die Tasse in der Hand die er für den Gilden-Meister gebracht hat. Hat jedes Wort mitgenommen.
+**Runa SIEHT es.** Aus hundert Metern Entfernung. Schemen zwischen ihr und Alphina. Runa kämpft — ihre Hände glühen, sie greift Schemen, die rauchende Haut verbrennt unter ihren Fingern. Dutzende. Sie tötet Dutzende. Brandflecken, rauchende Überreste. Aber es sind zu viele. Immer mehr. Bund-Soldaten fallen zurück. Runa wird zurückgeschlagen — schreiend, brennend, kämpfend.
 
-Nachts verlässt er die Stadt. Kennt die Wege, die Wachen, die Lücken im lebenden Mauerwerk. Drei Stunden zu Fuß. Der Forscher am Portal — Varen — sitzt in einem behelfsmäßigen Raum, gut gekleidet, ein aufgeschlagenes Buch auf dem Schoß. Groß, muskulös, gut genährt, in Form. Graue Schläfen, purpurne Augen, aufmerksam. Er sieht Talven kommen und wartet — interessiert, kraftvoll.
+Alphina wird weggetragen. Von Schemen. Vorsichtig, wie etwas Kostbares. Varens Stimme, in Moragh, Befehle. Runa sieht Alphina verschwinden. Hinter einer Wand aus Schemen. Hinter dem Rauch.
 
-Talven: "Ich bin Lehrling. Mittleres Reservoir. In zehn Jahren bin ich aufgebraucht." Varen schweigt. Talven: "Die Thalassierin wächst einen Hain im Schlaf und es kostet sie NICHTS. Ich will wissen warum."
+Runas letzte Sicht: Alphina in Ketten. Varens breiter Rücken. Dann Staub.
 
-Varen mustert ihn. Dann: "Ich kann dir zeigen wie man Resonanz ERNTET. Nicht aus einem Thalassier — aus dem was sie hinterlassen. Aus dem Boden, den Pflanzen, dem Wasser das sie berührt haben."
+### Interludium X (~S. 525, ~2.000 Wörter)
+*Varen. Die vierte rote Markierung.*
 
-Talven setzt sich. Die erste Lektion dauert bis zum Morgengrauen. Talven geht zurück. Bringt den Gilden-Gelehrten Frühstück. Lächelt.
+Varen in seinem Quartier. Alphina in Ketten im Nebenraum. Er steht vor seiner Wand. Karten. Drei tote Quellen — rot markiert. Seine. Sein Experiment, sein Fehler, vor Jahren. Jetzt nimmt er einen vierten Stift. Markiert eine vierte Quelle. Rot. Klein. Frisch.
 
-Eingebettet: sein Reservoir — ein dumpfes Pochen hinter den Augen, nie genug, nie satt. Seit er denken kann. Die anderen Lehrlinge haben größere. Die Meister haben riesige. Talven hat "mittel." In Moragh ist "mittel" ein Todesurteil für Ambitionen. Man wird nie mehr als ein Steinchen-Schweber. Und jetzt steht eine Frau aus einer anderen Welt neben ihm und lässt Wälder wachsen und gähnt dabei.
+Nicht seine. IHRE.
 
-### Kap. 28 — Maren (S. 540–558, ~4.500 Wörter)
-*Durchbruch und Preis.*
+Er legt den Stift hin. Steht lange da. Sein Gesicht: nichts. Dann dreht er sich um und geht zu ihr.
 
-Maren experimentiert am stillen Punkt. Drückt härter, tiefer, mit allem was sie hat. Das Wasser gibt nach — für einen Moment öffnet sich etwas. Nicht das Portal. Ein Riss. Klein, flüchtig. Durch den Riss: der Geruch von Salz, Teer, nassem Backstein. Vael. Drei Sekunden. Dann schließt es sich.
+### Kap. 27 — Alphina (S. 530–555, ~6.250 Wörter)
+*Gefangen. Die Karten. Gesprächsfetzen.*
 
-Maren liegt auf dem Rücken, keuchend. Nicht erschöpft — Resonanz kostet nichts. Aber ihr Körper zittert trotzdem. Der Riss hat etwas getan: am stillen Punkt ist das Wasser jetzt trüb. Schlammig. Als hätte jemand den Boden aufgewühlt. Das Reservoir unter dem Fluss: gesunken. Deutlich. Maren hat das Wasser benutzt, und Moragh hat gezahlt.
+Alphina wacht auf. Ketten. Nicht ein Gästehaus wie in Buch 1 (falls Varen sie damals mitgenommen hätte) — ein Arbeitsraum. Bücher. Karten. Instrumente. Varens Quartier ist kein Gefängnis — es ist ein Labor. Und sie ist das neueste Exponat.
 
-### Interludium VI (~S. 565, ~2.000 Wörter)
-*Elke besucht die Thar. Die lebenden Energiequellen.*
+An der Wand: die Karten. Vier tote Quellen, rot markiert. Drei alt, verblasst, mit Notizen in Moragh. Eine frisch. Klein. An der Position der Thar-Siedlung. IHRE Quelle.
 
-Elke, Monate nach Ankunft. Eine Reise zur Thar-Stadt, als Gilden-Beobachterin. Sie sieht die Maschinen — beeindruckend, gewaltig, endlos. Und sie sieht die Quellen: Beschwörer, angeschlossen an Maschinen, die ihre Reservoire leeren. Freiwillig. Bezahlt. Erschöpft. Manche sterben jung. Elke fragt Kael: "Was passiert wenn ein Reservoir leer ist?" Kael: "Dann ruht man sich aus." Elke: "Und wenn es nicht zurückkommt?" Kaels Schweigen ist die Antwort.
+Varen kommt. Setzt sich. Spricht sein altes Thalassisch — dasselbe wie in der ersten Begegnung, aber anders. Müder. Weniger charmant. Er redet nicht über Sorel. Nicht über das Portal. Er redet über die Karten.
 
-### Kap. 28b — Talven (S. 558–568, ~2.500 Wörter)
-*Der Hain. Die Ernte. Der Preis.*
+Gesprächsfetzen, nicht Monologe: "Vierhundert Menschen. Ohne Magie. Ab heute." Alphina versteht nicht. Oder will nicht. "Die Quelle die du getötet hast — sie hat eine Siedlung von vierhundert Menschen versorgt. Nicht die Soldaten. Die Bäcker. Die Heiler. Die Kinder. Alles was sie hatten war diese Quelle. Jetzt haben sie nichts."
 
-Talven schleicht in Alphinas Schlaf-Hain. Nacht, drei Wochen nach der ersten Lektion. Er kniet zwischen den Wurzeln. Hände auf den Boden — die Technik die Varen gezeigt hat. Fühlen. Nicht das eigene Reservoir — das FREMDE. Die Resonanz die Alphina hinterlassen hat, in den Wurzeln, im Moos, im Boden selbst.
+Alphina: "Der Kommandant hat gesagt—" Varen: "Der Kommandant WUSSTE es. Deshalb hat er dich geschickt."
 
-Er zieht. Langsam. Die Magie fließt — anders als eigene Resonanz. Kälter. Dichter. Sein Reservoir füllt sich über den gewohnten Rand hinaus. Zum ersten Mal in seinem Leben hat er GENUG. Mehr als genug.
+### Kap. 28 — Alphina (S. 555–575, ~5.000 Wörter)
+*Die Wahrheit in Stufen.*
 
-Er steht auf. Die Welt ist klarer. Schärfer. Seine Hände zittern nicht mehr.
+Tage vergehen. Varen lässt sie nicht frei, aber er lässt sie sehen. Die Karten. Die Berichte. Abgefangene Bund-Kommunikation — Nachrichten zwischen Kommandanten, in Bund-Chiffre die Varen geknackt hat.
 
-Aber: am nächsten Morgen — ein Büschel Haare auf dem Kissen. Nicht viel. Genug um es zu bemerken. Er fegt es weg. Denkt: Stress. Schlafmangel. Lügt sich an.
+Die Wahrheit kommt nicht als Enthüllung — als Sickern:
 
-Drei Nächte später: sein linkes Auge. Im Spiegel — die Iris, die sonst dunkelbraun ist, hat einen milchigen Fleck. Klein. Am Rand. Wie eine Wolke die ins Auge zieht. Das ist keine normale Magie-Erschöpfung — die fühlt sich an wie Sport, geht vorbei nach einer Nacht Schlaf. Das hier ist eine Abstoßungsreaktion. Fremde Resonanz in einem Körper der sie nicht erkennt. Wie ein transplantiertes Organ. Der Schaden ist permanent. Sein Körper wehrt sich gegen die Magie die nicht seine ist.
+**Stufe 1:** Die vier toten Quellen an der Wand. Drei alt (Varens), eine neu (Alphinas). Dieselbe Handlung. Derselbe Tod. Verschiedene Gründe.
 
-Talven zieht die Kapuze tiefer. Geht Frühstück holen. Bringt Maren Brot vom Markt.
+**Stufe 2:** Die abgefangene Kommunikation. Bund-Kommandanten die über die "nächsten Ziele" sprechen. Systematisch. Koordiniert. Quellen-Zerstörung als Kriegsstrategie — nicht Alphinas Idee, nicht Draels Improvisation. PLAN. Der Bund hat die Methode. Hat sie seit Monaten. Alphina war nicht die Erste. Nur die Stärkste.
 
-### Kap. 29 — Alphina (S. 568–588, ~5.000 Wörter)
-*Runa finden.*
+**Stufe 3:** Die Karten zeigen mehr. Bund-kontrollierte Gebiete, in denen Quellen "gesichert" wurden — tot. Dutzende. Nicht nur von Alphina. Von Bund-Magiern, die schwächer sind, aber die Methode kennen. Die systematische Auslöschung feindlicher Quellen. Wer keine Magie hat, kann nicht kämpfen. Wer nicht kämpfen kann, unterwirft sich.
 
-Alphina geht. Nicht weil die Gilden es erlauben — weil die Pflanzen ihr den Weg zeigen. Jede Pflanze in Moragh dreht sich nach ihr, und die Richtung zeigt nach Südwesten: die Thar-Stadt. Elke begleitet sie. Vesper bleibt — er braucht die Bibliothek, die Karten, die Zeit. Maren bleibt — sie braucht den Fluss.
+Alphina sitzt vor den Karten. Stunden. Die Ketten klirren nicht mehr — sie bewegt sich nicht genug.
 
-Unterwegs: das Land verändert sich. Von Gilden-Ordnung zu Wildnis zu Thar-Rauch. Tagsüber hat Alphina volle Kontrolle — sie lenkt Pflanzen bewusst, lässt Ranken den Weg markieren, nutzt ihre Resonanz als Werkzeug. Sie bindet sich nachts die Hände mit Stoff, als Erinnerung. Es hilft nicht. Die Schlaf-Haine wachsen trotzdem — kleiner als in Akt I, aber da. Die unbewusste Trauer lässt sich nicht binden. Tagsüber: Kontrolle. Nachts: keine.
+### Kap. 29 — Runa (S. 575–592, ~4.250 Wörter)
+*Beim Bund. Wut. Plan.*
 
-Elke: "Ich bin seit Wochen hier. Meine Resonanz kostet mich nichts. Aber der Stein unter meinem Garten wird weicher. Jedes Jahr — jede Woche, in Moragh-Zeit." Stille. "Ich nehme ihm etwas. Dem Stein. Ich weiß nicht was."
+Runa zurück beim Bund. Allein. Alphina weg — von Varen genommen. Die Bund-Kommandanten reagieren mit kalkulierter Sorge: "Wir holen sie zurück." Aber Runa hört den Unterton: sie wollen die WAFFE zurück, nicht die Frau.
 
-### Kap. 30 — Alphina + Runa (S. 588–600, ~3.000 Wörter)
-*Die Thar-Stadt. Wiedersehen.*
+Runa brennt. Buchstäblich — ihre Hände hinterlassen Brandflecken auf dem Tisch. Sie plant Alphinas Befreiung. Sammelt Information. Fragt Soldaten aus. Wo ist Varens Quartier? Wie viele Schemen? Welche Routen?
 
-Alphina und Elke erreichen die Stadt. Rauch, Metall, Hitze. Kael empfängt sie — neutral, professionell. Runa ist in der Werkstatt. Alphina findet sie: Hände in geschmolzenem Metall, buchstäblich. Sie formt eine Druckerpresse — eine echte Presse, nach Thalassien-Bauart, in Moragh-Metall. Ihre Augen: wacher als je zuvor.
+Eingebettet: Runa sieht jetzt was sie vorher übersehen hat. Die geräumten Dörfer. Die "gesicherten" Quellen. Die Bund-Soldaten die nicht über die toten Zonen reden. Sie schreibt es auf. Noch für sich. Die Druckerin sammelt.
 
-"Du bist gekommen." Alphina: "Ja." Runa: "Du kannst mich nicht mitnehmen." Alphina: "Ich weiß."
+### Interludium XI (~S. 596, ~2.000 Wörter)
+*Vesper bei den Thar mit Nyr. Das Muster.*
 
-Was zwischen ihnen liegt: nicht gelöst. Alphinas Kontrolle greift nicht. Runas Entscheidung steht. Aber: die Thar haben Runa getestet. Ihre Feuer-Resonanz — endlos. Kein Preis. Ein Ofen der nie erlischt. Kael hat Pläne. Runa weiß es nicht. Oder tut so.
+Vesper und Nyr. Seit Akt II bei den Thar. Vesper sieht Muster — in den Thar-Maschinen, in der Bestien-Steuerung, in der Art wie die Thar Menschen und Magie verschmelzen. Nyr zeigt ihm Kessler — ihre 40-Tonnen-Bestie, ein lebendes Ramm-Schiff aus Knochen und Metall. "Das bin ich. Wenn ich fliege, ist Kessler mein Körper." Vesper versteht: die Thar sind nicht besser als der Bund. Aber sie benennen ihre Fehler.
+
+Vesper spürt die Erschütterung. Fern, gedämpft, aber sein Zeit-Sinn registriert es: eine Quelle ist gestorben. Die Vibration breitet sich durch ganz Moragh aus. Nyr spürt es auch. "Was war das?" Vesper: "Jemand hat eine Quelle getötet." Nyr wird still. "Wer?" Vesper weiß es. Sagt es nicht.
 
 ---
 
@@ -138,14 +139,15 @@ Was zwischen ihnen liegt: nicht gelöst. Alphinas Kontrolle greift nicht. Runas 
 
 | Detail | Akt III | Feuert in |
 |--------|---------|-----------|
-| Vespers Reservoirkarten | Kap 23 — Schwund ist überall gleich, nicht konzentriert um Thalassier | Akt IV — Die Wahrheit: der Krieg hat Moragh zerstört, nicht die Resonanz-Begabten |
-| Marens Riss am stillen Punkt | Kap 28 — Drei Sekunden Vael | Akt IV — Maren öffnet den Wasserweg. Der Preis ist hoch für Moragh |
-| Runas Presse in Moragh-Metall | Kap 30 — Sie baut eine thalassische Presse | Akt IV — Die Presse druckt auf Moragh-Papier. Information als Waffe |
-| "Kannst du aufhören zu atmen?" | Kap 26 — Vespers Frage | Akt IV — Alphina findet die Antwort: nicht aufhören. Anders atmen |
-| Elkes weicher Stein | Kap 29 — "Jedes Jahr" | Akt IV — Elkes Beweis vor dem Gilden-Rat. Resonanz zerstört Moragh |
-| Kael hat Pläne für Runa | Kap 30 — Ein Ofen der nie erlischt | Akt IV — Runa entdeckt die Wahrheit: die Thar wollen sie anschließen |
-| Varen als Forscher | Kap 27 — Er sucht Daten, nicht Macht | Akt IV — Er bietet einen Deal an. Wiedergutmachung — er hat die Quellen zerstört, braucht thalassische Resonanz um sie zu regenerieren |
-| Talven bei Varen | Kap 27b — Erste Lektion, nachts | Buch 3 — Er hat gelernt zu ernten. Verteilt Resonanz an alle. Wird zum Helden |
-| Talvens milchiges Auge | Kap 28b — Wolke in der Iris | Buch 3 — Beide Augen. Hände zittern. Resonanz-Ernte zerstört den Ernter |
-| Talvens Haare auf dem Kissen | Kap 28b — Er lügt sich an | Buch 3 — Haarausfall wird sichtbar. Der Preis schreibt sich in den Körper |
-| Alphina bindet sich die Hände | Kap 29 — Stoff als Erinnerung | Akt IV — In der letzten Szene bindet sie sich nicht mehr. Sie wählt |
+| Alphinas Dornen (Buch 1, Akt IV) | Kap 25 — Dornen als Waffe. Der Hass hat ihre Resonanz verändert. Jetzt tötet sie damit | Akt IV — Sex mit Varen: Dornen statt Farne. Zwei Täter |
+| Drael kennt die Quellen-Positionen | Kap 23/25 — Er weiß zu genau wo sie liegen | Kap 28 — Die abgefangene Kommunikation: systematischer Plan, nicht Improvisation |
+| Runas Dokumentation | Kap 24 — Sie schreibt auf was sie sieht | Akt IV — Runa beim Bund, sammelt Beweise, plant Befreiung |
+| Vier rote Markierungen | I10 — Drei alt (Varen), eine neu (Alphina) | Kap 27/28 — Alphina sieht die Karten. Sieht SICH SELBST neben Varen |
+| "Vierhundert Menschen" | Kap 27 — Gesprächsfetzen | Akt IV — Die Zahl verfolgt sie. Dieselbe Zahl wie Varens alte Quellen |
+| Runa tötet Dutzende Schemen | Kap 26 — Feuer-Resonanz als Waffe | Buch 3 — Runa bei den Thar, aufsteigend. Die warmen Hände formen jetzt anderes Metall |
+| Bund-Chiffre geknackt | Kap 28 — Varen hat die Kommunikation entschlüsselt | Akt IV — Alphina liest die Pläne selbst. Kein Filter. Keine Ausrede |
+| "Seit wann nimmst du Befehle?" | Kap 21 — Runas Frage | Akt IV — Alphina erinnert sich. Runa hatte Recht |
+| Schlaf-Haine auch in Ketten | Kap 27 — Alphinas unbewusste Resonanz wächst auch in Varens Quartier | Akt IV — Varen beobachtet es. Fasziniert. "Selbst in Ketten" |
+| Vesper spürt die tote Quelle | I11 — Die Vibration durch ganz Moragh | Buch 3 — Vesper wird die Quellen-Zerstörungen kartieren. Die Zeitlinien verändern sich |
+| Alphinas Kreis aus totem Land | Kap 25 — Zweihundert Meter Radius, alles verdorrt | Akt IV — Die Schuld-Spiegelung. Sie hat es gesehen. Sie hat es GEFÜHLT. Und trotzdem weitergemacht |
+| Runa will Alphina befreien | Kap 29 — Plan, Routen, Information | Akt IV — Runa kommt zu spät. Alphina hat die Seite gewechselt. Runas Schock |
