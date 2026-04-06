@@ -198,9 +198,22 @@ Interludien platzieren → Tschechow-Waffen setzen →
 Definiert WIE EINE SZENE KLINGT. Die einzige Pipeline mit harten Gates.
 **Nach jedem bestandenen Gate: Status in status.json setzen + commit + deploy.**
 
+**VOR dem Szenenplan — Konsistenz-Prüfung (PFLICHT):**
+1. Offene Fragen klären: Gibt es Unklarheiten zu Figuren, Ort, Zeitpunkt, Motivation?
+   Wenn ja: mit dem Autor klären BEVOR geschrieben wird.
+2. Bibel-Check: Stimmen die Fakten in `00-welt.md` für dieses Kapitel?
+   (Figuren anwesend? Ort existiert? Zeitlinie konsistent?)
+3. Story-Check: Passt das Kapitel in den Bogen aus `00-storyline.md`?
+   (Vorheriges Kapitel-Ende → dieses Kapitel-Anfang logisch?)
+4. Aktplan-Check: Stimmt der Breakdown in `{NN}-akt{A}.md`?
+   (Beats, POV, Tschechow-Waffen gesetzt und empfangbar?)
+
+Erst wenn alle vier Punkte geklärt sind, beginnt der Szenenplan.
+
 ```
 Schritt                    Status → status.json    Wer        Auto-Deploy
 ──────────────────────     ────────────────────     ────────   ──────────
+Konsistenz-Prüfung         —                        Claude     nein
 Kapitel angelegt           "idee"                  Autor      ja
 Szenenplan geschrieben     "szenenplan"             Claude     ja
 /council bestanden         —                        Claude     nein
