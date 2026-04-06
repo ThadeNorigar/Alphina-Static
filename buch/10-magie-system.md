@@ -174,6 +174,21 @@ Selten. Kosten ALLE drei massiv. Max 2-3 Mal in der ganzen Trilogie.
 
 ---
 
+## Quellen — physische Eigenschaften
+
+Reservoir-Quellen sind unterirdische Knotenpunkte im Leylinien-Netz. Sie sind keine Objekte — sie sind Zustände im Gestein. Jede Quelle **pulsiert**. Ein tiefer, gleichmäßiger Rhythmus, spürbar durch den Fels für jeden der Resonanz hat. Der Puls ist langsam, geduldig, älter als alles Lebende darüber.
+
+**Was Resonanz-Begabte spüren:**
+- Wärme im Stein, auch im Winter. Je näher an der Quelle, desto wärmer.
+- Pochen durch den Fels — nicht Erdbeben, nicht Donner. Ein Puls. Rhythmisch, gleichmäßig.
+- Der Fels über einer Quelle verändert sich: Risse öffnen sich, Gestein wird weicher, Pflanzen wachsen aus nacktem Stein ohne Erde.
+
+**Die Riss-Quelle unter Vael** pulsiert durch den Kalkstein der Grauküste bis an die Oberfläche. Elke spürt diesen Puls 1423. Alphina spürt ihn 400 Jahre später — als Wärme im Boden, als Farne die sich drehen, als Moos das über Nacht wächst. Dieselbe Quelle, dasselbe Pulsieren.
+
+**Wenn eine Quelle stirbt**, hört der Puls auf. Stille im Gestein. Der Fels wird kalt. Pflanzen verdorren. Resonanz-Begabte in der Nähe spüren es wie einen Herzstillstand.
+
+---
+
 ## Quellen-Überladung als Waffe
 
 Varen hat durch ein fehlgeschlagenes Leylinien-Experiment die Überladung entdeckt — zu viel Druck über eine Leylinie in eine Quelle gedrückt. Die Quelle kollabiert. Kettenreaktion über natürliche Leylinien-Verbindungen. Drei Quellen zerstört. Unwiederbringlich.

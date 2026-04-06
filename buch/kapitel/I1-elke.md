@@ -58,13 +58,13 @@ Sie drückte fester. Und der Stein antwortete. Ein Pochen, tief, rhythmisch, das
 
 Tief unten. Unter dem Kalk, unter dem Basalt, unter den Schichten die sie hätte benennen können, wenn sie daran gedacht hätte. Aber sie dachte nicht. Sie hörte. Und der Fels unter der Stadt pulsierte, gleichmäßig, geduldig, als hätte er das seit sehr langer Zeit getan und als hätte zum ersten Mal jemand die Hand darauf gelegt, der es spüren konnte.
 
-Sie öffnete die Augen. Unter ihrer Hand war eine Veränderung — der Stein war dunkler geworden, dort wo sie ihn berührt hatte, als hätte ihre Wärme eine Spur hinterlassen, ein Handabdruck im Kalk, schwach, kaum sichtbar. Und um den Abdruck herum, in einem Kreis von einer halben Elle, hatten die feinen Risse im Gestein sich verändert. Sie waren breiter geworden. Nicht viel. Aber messbar, für eine Frau die seit dreißig Jahren Gestein las. Die Risse hatten sich geöffnet, als hätte der Fels sich für sie gedehnt.
+Sie öffnete die Augen. Unter ihrer Hand war eine Veränderung — der Stein hatte nachgegeben. Ihre Finger hatten sich in den Kalkstein gedrückt, einen halben Zoll tief, die Form ihrer Handfläche im Fels, jede Linie, jeder Knöchel, als wäre der Stein für einen Moment weich gewesen wie feuchter Ton. Und um den Abdruck herum, in einem Kreis von einer halben Elle, hatten die feinen Risse im Gestein sich verändert. Sie waren breiter geworden. Nicht viel. Aber messbar, für eine Frau die seit dreißig Jahren Gestein las. Die Risse hatten sich geöffnet, als hätte der Fels sich für sie gedehnt.
 
 Elke hatte Stein gelesen, seit sie denken konnte. Maserungen, Schichten, die Sprache des Gesteins die langsam war und ehrlich und die man lesen konnte, wenn man geduldig genug war. Fels veränderte sich nicht in Minuten. Fels veränderte sich in Jahrhunderten. Risse öffneten sich nicht für eine Hand.
 
 Dieser Fels tat es.
 
-Elke stand auf. Langsam. Ihre Handfläche war warm und rot und die Konturen des Steins waren in ihre Haut gedrückt, ein Negativ, und sie starrte auf ihre Hand und dann auf den Fels und der Handabdruck war dort, dunkel auf grauem Stein.
+Elke stand auf. Langsam. Ihre Handfläche war warm und rot und die Konturen des Steins waren in ihre Haut gedrückt. Sie starrte auf ihre Hand und dann auf den Fels. Der Abdruck war dort, eingedrückt in den Kalkstein, so deutlich wie ein Siegel in Wachs.
 
 Elke van der Holt war keine Frau, die vor Dingen zurückwich, die sie nicht verstand. Sie war eine Frau, die hinkniete. Die ihre Hände auf den Stein legte und wartete, bis der Stein ihr etwas sagte.
 
