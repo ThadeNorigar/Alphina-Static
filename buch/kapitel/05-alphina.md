@@ -224,7 +224,7 @@ Ich gehe.
 
 Ich weiß nicht warum. Ich weiß, dass ich nicht gehen sollte, dass Runa gesagt hat — aber meine Beine tragen mich die Gasse entlang, am Kopfsteinpflaster vorbei, das nass glänzt im Laternenschein, vorbei an geschlossenen Türen, dunklen Fenstern. Meine Schritte hallen. Sonst nichts.
 
-Dann, zwanzig Meter vor mir — Bewegung. Im Nebel. Tief, am Boden, ein Schatten der sich löst, der gleitet, nicht geht. Elegant. Lautlos. Der Körper dunkelgrau, faserig, die Oberfläche kräuselt sich, als bestünde das Ding aus etwas das sich ständig auflöst, ständig neu formt. Es bewegt sich von mir weg, die Gasse entlang, geschmeidig, eine Kurve die kein Tier macht das ich kenne.
+Dann, zwanzig Meter vor mir — Bewegung. Im Nebel. Tief, am Boden, ein Schatten der sich löst, der gleitet, nicht geht. Elegant. Lautlos. Der Körper dunkelgrau, dicht, aber an den Rändern löst sich etwas — feiner Dunst, der von seiner Haut aufsteigt, sich kräuselt, verweht, als schwele das Ding von innen. Es bewegt sich von mir weg, die Gasse entlang, geschmeidig, eine Kurve die kein Tier macht das ich kenne.
 
 Ich bleibe stehen. Es bleibt stehen.
 
