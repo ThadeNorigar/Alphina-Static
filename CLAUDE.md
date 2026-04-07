@@ -8,6 +8,7 @@ Du bist der Autor von "Der Riss" (Buch 1 der Trilogie: Der Riss / Das Auge / Die
 - **Umfang:** ~225.000 Wörter, ~900 Seiten à 250 Wörter
 - **Perspektive:** Alle POVs = 3. Person nah/Präteritum. Alphina (45%), Sorel/Vesper/Maren (je ~18%)
 - **Welt:** Thalassien (ohne Magie) + Moragh (mit Magie). Stadt Vael an der Grauküste, Tor zwischen den Welten darunter. Fantasy-Welt, keine realen Orte.
+- **Namen:** Fantasy-Namen. Keine realen Namen (kein Johann, kein Gerrit, kein Thomas). Namen sollen zur Welt passen — fremd genug um Fantasy zu sein, vertraut genug um lesbar zu bleiben. Wenig V und W in neuen Namen.
 - **Technologie:** Frühes 19. Jhd — Kutschen, Gaslampen, Schreibmaschinen, Druckpressen, Dampfschiffe. Kein Strom.
 
 ## Kernregeln
@@ -66,7 +67,9 @@ Ebene  Typ                  Dateien                              Inhalt
                             buch/14-buch3-akt1.md bis 17-...     Tschechow-Waffen pro Akt.
 
   6    Kapitelregister      buch/status.json                     Status, Wörter, Kurzbeschrei-
-                                                                 bung. Speist die Website.
+                            buch/zeitleiste.json                 bung. Speist die Website.
+                                                                 Zeitleiste: Alle Events mit
+                                                                 TZ/MZ, Typen, Tags, POV.
 
   7    Szenenpläne          buch/szenen/{KK}-{SS}.md             Detaillierte Beats pro Szene.
                                                                  KK=Kapitel, SS=Szene.
@@ -111,6 +114,7 @@ buch/
 │   06-buch2-akt1.md ... 09-...   #   Buch 2 (Offset 06)
 │   14-buch3-akt1.md ... 17-...   #   Buch 3 (Offset 14)
 ├── status.json                   # Ebene 6: Kapitelregister
+├── zeitleiste.json               # Ebene 6: Zeitleiste (TZ/MZ Events)
 ├── szenen/
 │   ├── {KK}-{SS}.md              # Ebene 7: Szenenplan (KK=Kapitel, SS=Szene)
 │   └── I{N}-{SS}.md              #   Interludien: I1-01.md, I5-02.md
@@ -136,6 +140,7 @@ Projekt-Root/
 │   ├── 1{N}-{charakter}.md       # Charakter-Dossiers
 │   ├── {NN}-akt{A}.md            # Aktpläne
 │   ├── status.json               # Kapitelregister → Website
+│   ├── zeitleiste.json           # Zeitleiste (TZ/MZ Events)
 │   ├── szenen/                   # Szenenpläne
 │   └── kapitel/                  # Entwürfe → Drafts → Finale
 └── story/                        # Generierte HTML (Website)

@@ -609,7 +609,7 @@ Bildhauerin. Aus dem Süden, Binnenmeerküste. Tochter eines Steinmetzmeisters, 
 
 **Resonanz: Erde/Stein.** Spürt was unter der Oberfläche liegt. Wasser, Hohlräume, Adern im Gestein. Hält es für Handwerks-Instinkt — sie "hört" den Stein, seine Maserung, seine Schwächen. In Moragh: Stein formen ohne Werkzeug. Hand auf Basalt, und der Basalt gibt nach.
 
-Elke ging durch das Portal — während drei Feuer-Schemen in Vael wüteten. Kaspar und Gerrit starben im Kampf. Lene überlebte als Einzige, schrieb das Manuskript. Elke lebt seitdem in Moragh. ~400 Thalassien-Jahre, aber nur ~1 Moragh-Jahr. Sie spricht Moragh. Kennt die Welt. Hat einen Garten in dem Pflanzen aus beiden Welten wachsen — gewachsen aus dem Stein den sie geformt hat.
+Elke ging durch das Portal — während drei Feuer-Schemen in Vael wüteten. Kaspar und Keldan starben im Kampf. Lene überlebte als Einzige, schrieb das Manuskript. Elke lebt seitdem in Moragh. ~400 Thalassien-Jahre, aber nur ~1 Moragh-Jahr. Sie spricht Moragh. Kennt die Welt. Hat einen Garten in dem Pflanzen aus beiden Welten wachsen — gewachsen aus dem Stein den sie geformt hat.
 
 **Elkes Thalassisch ist von 1423.** Als die Vier (aus ~1820) sie treffen, klingt ihre Sprache falsch — alte Wörter, ausgestorbene Höflichkeitsformen, verschobene Grammatik. Sie sagt "Fuhre" statt "Kutsche", fragt nach dem "Druckstock" statt der Druckpresse. Die Vier verstehen sie — aber es hakt. Elke merkt es auch: ihre Wörter treffen nicht. Sie kennt keine Gaslampen, keine Dampfschiffe, keine Schreibmaschinen. 200 Jahre Thalassien-Geschichte sind an ihr vorbeigegangen. **Der Leser soll ahnen dass die Zeitdilatation größer ist als jeder denkt.** Vesper setzt es später zusammen.
 
@@ -621,13 +621,13 @@ Elke ging durch das Portal — während drei Feuer-Schemen in Vael wüteten. Kas
 
 Vier Menschen kamen nach Vael:
 - **Elke van der Holt** — Bildhauerin. Resonanz: Erde/Stein. Ging durch das Tor.
-- **Gerrit Breke** — Schmied. Resonanz: Eisen/Metall. **OFFEN: Pendant-Zuordnung.** War Vespers Pendant (als Uhrmacher). Jetzt Schmied → eher Runas Pendant? Vesper braucht ggf. neues 1423er-Pendant.
+- **Keldan Rohn** — Schmied. Resonanz: Eisen/Metall. **OFFEN: Pendant-Zuordnung.** War Vespers Pendant (als Uhrmacher). Jetzt Schmied → eher Runas Pendant? Vesper braucht ggf. neues 1423er-Pendant.
 - **Lene Dahl** — Schiffbauerin. Marens Pendant.
 - **Kaspar Holm** — Maler. Sorels Pendant.
 
 Varen öffnete das Tor von der Moragh-Seite — einseitig, wie immer. Er wusste nicht was auf der anderen Seite war. Er wusste nur, dass zweihundert Jahre vorher Moragh-Menschen hinübergegangen waren. Er schickte drei Feuer-Schemen durch — doppelt so groß wie Menschen, gebunden an seinen Willen. In Thalassien wurden sie als Feuerdämonen verstanden. Die Vaeler griffen an. Die Schemen wehrten sich. Teile der Stadt brannten nieder. Das große Feuer.
 
-Während die Schemen in der Stadt wüteten, öffneten die Vier das Tor von der Thalassien-Seite. Kaspar und Gerrit starben im Kampf mit den Schemen. Elke ging durch das Portal nach Moragh. Lene überlebte als Einzige in Thalassien. Dann lösten die Schemen sich im Rauch auf — Varen hatte ihre Bindung gekappt, nachdem er auf der Moragh-Seite auf Elke getroffen war.
+Während die Schemen in der Stadt wüteten, öffneten die Vier das Tor von der Thalassien-Seite. Kaspar und Keldan starben im Kampf mit den Schemen. Elke ging durch das Portal nach Moragh. Lene überlebte als Einzige in Thalassien. Dann lösten die Schemen sich im Rauch auf — Varen hatte ihre Bindung gekappt, nachdem er auf der Moragh-Seite auf Elke getroffen war.
 
 Lene schrieb auf was passiert war. Varen platzierte sein eigenes "Manuskript" daneben, für das nächste Mal.
 
@@ -636,12 +636,12 @@ Lene schrieb auf was passiert war. Varen platzierte sein eigenes "Manuskript" da
 | # | ca. Seite | Inhalt |
 |---|-----------|--------|
 | 1 | 80 | Elkes Ankunft in Vael. Der Purpurstein. |
-| 2 | 170 | Gerrit und Elke. Erste Begegnung. Der Schmied hört das Erz singen. |
+| 2 | 170 | Keldan und Elke. Erste Begegnung. Der Schmied hört das Erz singen. |
 | 3 | 260 | Lene findet den Steinkreis nachts. Spürt das Pochen. Läuft zurück. |
 | 4 | 350 | Kaspar malt Elke. Das Bild zeigt etwas das er nicht gemalt hat. |
 | 5 | 440 | Alle vier zusammen. Die Feuer-Schemen kommen. Drei, doppelt so groß. |
 | 6 | 530 | Elke und Kaspar. Nacht. Intimität. |
-| 7 | 620 | Kampf. Kaspar und Gerrit sterben. Elke geht durch. Lene überlebt allein. |
+| 7 | 620 | Kampf. Kaspar und Keldan sterben. Elke geht durch. Lene überlebt allein. |
 | 8 | 720 | Lenes Manuskript. Letzter Eintrag. |
 | 9 | 830 | Während Alphina vor dem Tor steht: Elke auf der anderen Seite. Sie hört das Tor. Jemand kommt. |
 
