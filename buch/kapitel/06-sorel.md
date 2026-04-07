@@ -7,7 +7,7 @@ Sorel zählte sie im Absteigen, die Kerze in der linken Hand, den Kasten unter d
 
 Er blieb in der Tür stehen.
 
-Fixierer. Der Geruch war sofort da, scharf, chemisch — Kollodium und Fixiersalz, unverwechselbar, ein Geruch den man nicht mit etwas anderem verwechselte, weil es nichts anderes gab das so roch. Hier. In einem leeren Keller, in dem niemand gearbeitet hatte. Kein Tisch, keine Schalen, keine Schnüre an den Wänden. Nur nackter Stein, die Wände dunkel, die Decke niedrig. Leer. Aber der Geruch.
+Fixierer. Der Geruch war sofort da, scharf, chemisch — Kollodium und Fixiersalz, unverwechselbar. Hier. In einem leeren Keller, in dem niemand gearbeitet hatte. Kein Tisch, keine Schalen, keine Schnüre an den Wänden. Nur nackter Stein, die Wände dunkel, die Decke niedrig. Leer. Aber der Geruch.
 
 Er legte die Hand auf die Wand. Warm. Trocken. Die Oberfläche rau unter seinen Fingern, porös, als lasse der Stein Luft durch, langsam, in einem Rhythmus der nicht zu hören war. In Nachtholm war der Basalt kalt gewesen, glatt, nass vom Kondenswasser, ein Stein der nahm und nichts zurückgab. Dieser Stein gab Wärme ab. Wärme die kein Ofen erklärte, kein Rohr, kein Schornstein. Die Mauer war warm wie Haut.
 
@@ -17,7 +17,7 @@ Der Keller roch nach seinem Leben. Aber er fühlte sich an wie das Leben eines a
 
 Er stellte den Kasten auf den Boden. Öffnete die Ledertasche. Werkzeugrolle, Chemikalien, Schalen. Seine Hände fingen an zu arbeiten bevor er entschied — Tisch in die Ecke, Schalen darauf, die Flaschen daneben, Stopfen prüfen, Dichtung prüfen. Kerzenlicht auf Glas und Messing. Die Routine war ein Mechanismus den er nicht abstellen konnte, eine Abfolge die in seinen Muskeln lag, in der Reihenfolge seiner Finger, in der Art wie sein rechter Daumen den Stopfen drehte während die linke Hand die nächste Flasche griff. Dreizehn Jahre. Der Körper wusste. Der Kopf durfte zusehen.
 
-Schnüre. Er brauchte Nägel für die Schnüre, zum Aufhängen der Abzüge. In der Ledertasche lagen welche — er hatte sie eingepackt, in Nachtholm, zusammen mit dem kleinen Hammer. Seinem Hammer. Er setzte den ersten Nagel an der Wand an. Zog ihn wieder heraus.
+Schnüre. Er brauchte Nägel für die Schnüre, zum Aufhängen der Abzüge. In der Ledertasche lagen welche — er hatte sie eingepackt, in Nachtholm, zusammen mit dem kleinen Hammer. Er setzte den ersten Nagel an der Wand an. Zog ihn wieder heraus.
 
 Da war bereits einer.
 
@@ -27,7 +27,7 @@ Seine Hand hing in der Luft, den eigenen Nagel zwischen Daumen und Zeigefinger. 
 
 Er hängte die Rotlichtlampe daran. Öl eingefüllt, Docht geprüft, Streichholz. Das Rotlicht kam — die Welt wurde kleiner, bekannter, die Ränder weicher. Kellerluft, Rotlicht, der Geruch von Chemie über dem Geruch von warmem Stein. Seine Hände im Rotlicht waren wieder seine — die Adern verschwanden, die Knöchel traten zurück, die Finger wurden Werkzeuge. Er atmete ein. Der erste volle Atemzug seit sechs Tagen.
 
-Das Lichthaus hatte er am Morgen gefunden. Drei Stockwerke, breit, Speichertore im Erdgeschoss, verriegelt, verrostet. Er kannte es von der Platte — die Proportionen, die Breite der Mauer, die Höhe der Tore. Dreizehn Jahre hatte er das Bild studiert. Jetzt stand das Bild vor ihm, in Stein.
+Das Lichthaus hatte er am Morgen gefunden. Drei Stockwerke, breit, Speichertore im Erdgeschoss, verriegelt, verrostet. Er kannte es von der Platte — die Proportionen, die Breite der Mauer, die Höhe der Tore. Hundertmal hatte er das Bild studiert, im Rotlicht, Kante für Kante. Jetzt stand es vor ihm, in Stein.
 
 Der Vermieter wohnte im Erdgeschoss. Runder Kopf, Schürze über dem Bauch, die Hände feucht von der Suppe die auf dem Herd hinter ihm dampfte. Er musterte Sorel — die Ledertasche, den Kasten, die bleichen Hände, die Augen die seinem Blick auswichen.
 
@@ -45,7 +45,7 @@ Er nannte den Preis. Sorel legte die Münzen auf den Tresen, nicht in die Hand.
 
 "Matratze ist noch unten. Stroh, nicht schlecht. Der Alte hat sie dagelassen." Er schob den Schlüssel über das Holz. "Sagen Sie Bescheid wenn Sie was brauchen."
 
-Sorel nahm den Schlüssel. Warm vom Tresen.
+Sorel nahm den Schlüssel. Warm vom Tresen. Sein Blick ging zum Nagel in der Wand, kurz, dann weg.
 
 Sechs Tage seit Nachtholm. Drei Gefährte — Fähre, Flussdampfer, Kutsche. Jedes heller als das vorherige, jedes voller Gerüche die er nicht filtern konnte. Auf dem Dampfer hatte er an Deck gestanden, nachts, als die anderen Passagiere schliefen, und in das Flusswasser geschaut, das schwarz war und still, und seine Augen hatten sich entspannt, zum ersten Mal seit der Haustür. Das Dunkel des Wassers war nah genug am Dunkel seines Kellers gewesen, dass sein Körper für einen Moment aufgehört hatte, sich gegen die Welt zu wehren.
 
@@ -53,11 +53,11 @@ Jetzt, im Rotlicht, war es wieder so. Nur wärmer. Der Keller in Nachtholm hatte
 
 Die Platte.
 
-Er wickelte den Kasten aus, Kante für Kante, die Schnüre gelöst, das Papier gefaltet. Sieben Glasplatten, eingewickelt in Packpapier, jede einzeln, die Ecken sauber gefaltet. Die siebte lag obenauf. Er nahm sie heraus, hielt sie gegen das Rotlicht. Das Bild war da — ein Hafen, eine Kaimauer, Masten. Sein Gesicht im Dunst, scharf, ruhig, wissend. Daneben, halb verborgen, eine zweite Gestalt — Schultern, ein Kopf, die Andeutung eines Körpers. Jemand der neben einem Gesicht stand das aussah wie seines, auf einem Bild das Jahrzehnte alt war, aus einer Stadt die er nie betreten hatte.
+Er wickelte den Kasten aus, Kante für Kante, die Schnüre gelöst, das Papier gefaltet. Sieben Glasplatten, eingewickelt in Packpapier, jede einzeln, die Ecken sauber gefaltet. Die siebte lag obenauf. Er nahm sie heraus, hielt sie gegen das Rotlicht. Das Bild war da — ein Hafen, eine Kaimauer, Masten. Sein Gesicht im Dunst, scharf, ruhig, wissend. Daneben, halb verborgen, eine zweite Gestalt — Schultern, ein Kopf, die Andeutung eines Körpers. Sein Gesicht, auf einem Bild das Jahrzehnte alt war, aus einer Stadt die er nie betreten hatte.
 
 Seit sechs Tagen dachte er an nichts anderes. An die zweite Gestalt wenn er die Augen schloss. Wenn er sie öffnete. In den Stunden dazwischen, in denen er nicht schlief — weil er in Kutschen nicht schlief, weil Schlaf bedeutete die Hände vom Kasten zu nehmen.
 
-Neben der siebten Platte, zwischen ihr und der sechsten, lagen zwei Scherben in Seidenpapier. Die zerbrochene Platte aus Falkensand. Dreizehn Jahre in einer Schublade. Sein linkes Auge auf dem einen Stück, sein rechtes auf dem anderen. Derselbe Hafen. Dasselbe Gesicht. Er hatte sie dreizehn Jahre nicht angeschaut und jetzt trug er sie hierher, zu einem Ort den er nur von der Rückseite einer Glasplatte kannte.
+Neben der siebten Platte, zwischen ihr und der sechsten, lagen zwei Scherben in Seidenpapier. Die zerbrochene Platte aus Falkensand. Dreizehn Jahre in einer Schublade. Sein linkes Auge auf dem einen Stück, sein rechtes auf dem anderen. Derselbe Hafen. Dasselbe Gesicht. Er hatte sie nie wieder angeschaut, und jetzt trug er sie hierher, zu einem Ort den er nur von der Rückseite einer Glasplatte kannte.
 
 *Vael, Lichthaus, Keller.*
 
@@ -65,7 +65,7 @@ Drei Wörter. Hundertmal gelesen, im Rotlicht, im Gaslicht, im Dunkel hinter sei
 
 Sorel legte die Platte auf den Tisch. Daneben die zwei Scherben, ausgewickelt, nebeneinander. Der Mann auf den Scherben schaute nach links. Der Mann auf der siebten Platte schaute geradeaus. Beide schauten ihn an.
 
-Zweihundertdreiundsechzig Gesichter. In Nachtholm, an einer Wand, in einem Keller der jetzt leer war. Zweihundertdreiundsechzig tote Fremde die niemanden mehr anschauten. Er hatte sie zurückgelassen. Das erste Mal in dreizehn Jahren hatte sein Keller keine Augen. Dieser Keller hier hatte auch keine — nur warmen Stein, trockene Luft, einen Nagel der auf ihn gewartet hatte. Leerer als der Keller in Nachtholm. Leerer, und voller, weil der Geruch von Fixierer nicht zu einem leeren Raum passte.
+Zweihundertdreiundsechzig Gesichter. In Nachtholm, an einer Wand, in einem Keller der jetzt leer war. Zweihundertdreiundsechzig tote Fremde die niemanden mehr anschauten. Er hatte sie zurückgelassen. Zum ersten Mal hatte sein Keller keine Augen. Dieser Keller hier hatte auch keine — nur warmen Stein, trockene Luft, einen Nagel der auf ihn gewartet hatte. Leerer als der Keller in Nachtholm. Leerer, und voller, weil der Geruch von Fixierer nicht zu einem leeren Raum passte.
 
 Stuhl an die Wand geschoben. Die Lehne gegen den Stein, warm durch das Hemd. Hände auf den Oberschenkeln, flach, ruhig. Fixierer in der Luft, Rotlicht an den Wänden. Die Platte auf dem Tisch. Die Scherben daneben. Der Nagel hielt sein Licht. Er schaute das Gesicht an. Das Gesicht schaute zurück.
 
@@ -78,17 +78,15 @@ Er ging hinaus als die Laternen herunterbrannten.
 
 Nicht alle — einzelne, verstreut, gelbe Punkte im Dunst. Sorel trug die Kamera über der Schulter, das Stativ unter dem Arm, die Ledertasche mit den Platten am Gurt. Schwer. Die Straße unter seinen Sohlen war feucht, die Luft kalt nach der Wärme des Kellers, der Übergang so scharf dass seine Haut sich zusammenzog — Unterarme, Nacken, Kopfhaut. Seine Schritte klangen gedämpft. Die Luft schluckte den Klang bevor er den Boden erreichte.
 
-Nachts war die Stadt eine Platte aus Tonwerten. Sorels Augen, schärfer im Dunkeln als im Licht, lasen die Gassen wie Negative — helle Flächen dort wo Laternenlicht auf Stein traf, dunkle Flächen wo der Dunst die Konturen fraß, dazwischen Abstufungen, fünfzig Grautöne die ein Auge sah das dreizehn Jahre lang trainiert hatte. Die Giebel über ihm kaum sichtbar. Eine Katze auf einem Sims, die Augen zwei helle Punkte, belichtet, scharf. Wasser das irgendwo tropfte — kein Regen, kein Rinnsal, nur Tropfen die fielen, gleichmäßig, etwas das in den Mauern tickte.
+Nachts war die Stadt eine Platte aus Tonwerten. Sorels Augen, schärfer im Dunkeln als im Licht, lasen die Gassen wie Negative — helle Flächen dort wo Laternenlicht auf Stein traf, dunkle Flächen wo der Dunst die Konturen fraß, dazwischen Abstufungen, fünfzig Grautöne die nur ein Auge las das lang genug trainiert hatte. Die Giebel über ihm kaum sichtbar. Eine Katze auf einem Sims, die Augen zwei helle Punkte, belichtet, scharf. Wasser das irgendwo tropfte — kein Regen, kein Rinnsal, nur Tropfen die fielen, gleichmäßig, etwas das in den Mauern tickte.
 
 Im Dunkeln war die Welt lesbar. Stiller. Sein Körper entspannte sich mit jeder Gasse die er von den Laternen wegführte.
 
-Am Kai baute er das Stativ auf. Holzbeine, Messingverschlüsse, die Kamera darauf, die Platte vorbereitet. Seine Hände arbeiteten schnell, sicher — Stativ aufstellen, Kamera ausrichten, Platte einsetzen. Die Routine seiner Finger, zwölf Schritte, immer dieselbe Reihenfolge. Er suchte den Winkel. Den Winkel der Platte — die Kaimauer, die Masten links, der Dunst rechts. Er verschob das Stativ. Zwei Handbreit nach rechts. Neigung korrigieren. Festschrauben.
+Am Kai baute er das Stativ auf. Holzbeine, Messingverschlüsse, die Kamera darauf, die Platte vorbereitet. Seine Hände arbeiteten schnell, sicher — Stativ aufstellen, Kamera ausrichten, Platte einsetzen. Zwölf Schritte, immer dieselbe Reihenfolge. Er suchte den Winkel. Den Winkel der Platte — die Kaimauer, die Masten links, der Dunst rechts. Er verschob das Stativ. Zwei Handbreit nach rechts. Neigung korrigieren. Festschrauben.
 
-Der Winkel stimmte. Die Kaimauer vor ihm, der Stein dunkel, die Masten im Dunst. Der Ort auf der Platte, der Ort vor seinen Augen — deckungsgleich, bis auf das Licht, bis auf die Jahrzehnte, bis auf das Gesicht das fehlte.
+Der Winkel stimmte. Die Kaimauer vor ihm, der Stein dunkel, die Masten im Dunst. Den Grauwert kannte er von der Platte, eingebrannt in seine Netzhaut nach hundert Sitzungen im Rotlicht. Derselbe Ton. Der Ort auf der Platte, der Ort vor seinen Augen — deckungsgleich, bis auf das Licht, bis auf die Jahrzehnte, bis auf das Gesicht das fehlte.
 
-Am Morgen, als die Kutsche den Hafen erreichte und der Kutscher etwas im Küstendialekt rief, hatte Sorel durch das Fenster geschaut und den Stein erkannt. Nicht die Farbe, die er im Laternenlicht ohnehin nicht hätte lesen können. Den Ton. Den Grauwert, den er von der siebten Platte kannte, eingebrannt in seine Netzhaut nach hundert Sitzungen im Rotlicht. Derselbe Ton. Als er über den Kai ging, den Kasten unter dem Arm, hatte er die Stelle gefunden — die Stelle, an der das Gesicht auf der Platte stand. Sein Gesicht, oder das von etwas das aussah wie er. Seine Füße auf dem Stein, an dem Punkt an dem die Platte belichtet worden war.
-
-Jetzt stand er dort mit der Kamera. Kamera aufgebaut, Platte bereit. Der Dunst lag auf dem Wasser, dicht, das Meer darunter still. Irgendwo tropfte Wasser von einer Planke. Taue hingen von den Masten, schwer, die Fasern dunkel vor Salz. Sonst nichts.
+Der Dunst lag auf dem Wasser, dicht, das Meer darunter still. Irgendwo tropfte Wasser von einer Planke. Taue hingen von den Masten, schwer, die Fasern dunkel vor Salz. Sonst nichts.
 
 Kälte.
 
@@ -112,13 +110,13 @@ Dann schaute sie ihn an.
 
 Kein Drehen. Kein Schwenk. Einen Atemzug lang stand die Figur mit dem Rücken zu ihm, und im nächsten Atemzug stand sie mit dem Gesicht zu ihm — ein Bild herausgeschnitten und ein anderes eingesetzt, ein Stück der Welt das fehlte zwischen den beiden Positionen. Ein Schnitt. Sein Verstand versuchte die fehlende Bewegung zu ergänzen und scheiterte.
 
-Das Gesicht. Sorel schaute hin, weil seine Augen das taten, weil dreizehn Jahre Dunkelkammer ihm beigebracht hatten dass man hinsah, immer, auch wenn das Bild falsch war. Zuerst war da nichts — Rauch, Konturen die sich behaupteten und zerfielen, Mund und Nase und Stirn in einem Kreislauf aus Werden und Vergehen. Dann setzte sich etwas. Die Formen hielten. Die Flächen füllten sich, die Details traten hervor, schärfer, fester, ein Bild das aus dem Entwicklerbad stieg.
+Das Gesicht. Sorel schaute hin, weil seine Augen das taten, weil die Dunkelkammer ihm beigebracht hatte dass man hinsah, immer, auch wenn das Bild falsch war. Zuerst war da nichts — Rauch, Konturen die sich behaupteten und zerfielen, Mund und Nase und Stirn in einem Kreislauf aus Werden und Vergehen. Dann setzte sich etwas. Die Formen hielten. Die Flächen füllten sich, die Details traten hervor, schärfer, fester, ein Bild das aus dem Entwicklerbad stieg.
 
 Ein Mund. Eine Nase. Wangenknochen, schmal, die Schatten unter den Augen tief. Die Narbe am Kinn, klein, von einer Dunkelkammertür, er war siebzehn gewesen. Der schiefe Winkel der linken Braue. Die Falte zwischen den Augen die er vom Zusammenkneifen im Rotlicht hatte.
 
 Sein Gesicht.
 
-Sein eigenes Gesicht, auf dem Kopf eines Dings das anderthalb Meter größer war als er und auf Hufen stand. Jeder Zug, jede Linie. Nicht ungefähr. Nicht ähnlich. Sein Gesicht, als hätte jemand eine Platte von ihm belichtet und auf den Rauch gedruckt. Die Figur schaute ihn an. Mit seinen Augen.
+Sein eigenes Gesicht, auf dem Kopf eines Dings das anderthalb Meter größer war als er und auf Hufen stand. Jeder Zug, jede Linie. Sein Gesicht, als hätte jemand eine Platte von ihm belichtet und auf den Rauch gedruckt. Die Figur schaute ihn an. Mit seinen Augen.
 
 Er drückte den Verschluss. Das Klicken der Mechanik, leise, metallisch.
 
@@ -145,7 +143,7 @@ Er schaute zum Kai zurück. Dunst. Poller. Leere. Sein Stativ stand da, die Kame
 
 
 
-Er baute das Stativ ab. Kamera, Platten, Ledertasche. Seine Hände arbeiteten, zwölf Schritte rückwärts, dieselbe Reihenfolge, umgekehrt. Die Routine hielt ihn aufrecht. Die Routine war ein Gerüst in das er sich stellte, weil das was zwischen den Pollern gestanden hatte kein Gerüst hatte, keine Routine, keine Erklärung.
+Er baute das Stativ ab. Kamera, Platten, Ledertasche. Seine Hände arbeiteten, zwölf Schritte rückwärts, dieselbe Reihenfolge, umgekehrt. Die Abfolge hielt ihn aufrecht. Ein Gerüst, in das er sich stellte, weil das was zwischen den Pollern gestanden hatte kein Gerüst hatte, keine Abfolge, keine Erklärung.
 
 Die Treppe hinunter. Siebzehn Stufen. Die Wärme kam zurück, Stufe für Stufe, legte sich um seine Schultern, seine Hände, seinen Atem.
 
@@ -159,7 +157,11 @@ Ein Schatten ohne Körper. Auf einer Platte in seinem Keller in Vael.
 
 Sorel hängte die Platte an die Schnur. Nass, tropfend, der Fixierer lief über die Oberfläche. Er stand davor. Der Schatten tropfte nicht.
 
-Sein Blick ging zum Tisch. Zur siebten Platte. Zu dem Gesicht darauf — seinem Gesicht, oder dem was er dreizehn Jahre lang für seines gehalten hatte. Es hatte seinen schiefen Brauenwinkel, seine Falte, seinen Mund. Dieselbe Narbe am Kinn. Dreizehn Jahre hatte er es angeschaut und nie gefragt wie es dort hingekommen war. Jetzt, nach dem was am Poller gestanden und ihn mit seinen eigenen Augen angeschaut hatte, stand die Frage im Raum. Er schob sie nicht weg. Sie ging von selbst nicht.
+Sein Blick ging zum Tisch. Zur siebten Platte. Zu dem Gesicht darauf — seinem Gesicht, oder dem was er dreizehn Jahre lang für seines gehalten hatte. Es hatte seinen schiefen Brauenwinkel, seine Falte, seinen Mund. Dieselbe Narbe am Kinn. All die Jahre hatte er es angeschaut und nie gefragt wie es dort hingekommen war. Jetzt, nach dem was am Poller gestanden und ihn mit seinen eigenen Augen angeschaut hatte, stand die Frage im Raum. Er schob sie nicht weg. Sie ging von selbst nicht.
+
+Er hob die Hände, hielt sie vor sich, drehte sie im Rotlicht. Seine Hände. Dünn, blass, die Finger lang. Er kannte sie. Er kannte sein Gesicht. Etwas anderes kannte es auch.
+
+Er legte die Hand auf die Wand. Warm. Trocken. Derselbe Stein, derselbe Puls darunter, der langsame Atem des Gesteins. Der Keller hielt still. Die Frage nicht.
 
 Stuhl. Sitzen. Rotlichtlampe, der Docht leise zischend, Öl für Stunden. Hände auf den Knien. Flach. Ruhig. Der Stein an seinem Rücken war warm, durch die Lehne, durch das Hemd. Die Wärme hielt ihn. Er ließ sich halten.
 
