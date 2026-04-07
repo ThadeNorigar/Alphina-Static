@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /buch/
+Disallow: /lesen/
+Disallow: /story/
+Disallow: /story-in-work/
+Disallow: /status/
+Disallow: /szenen/
