@@ -331,7 +331,7 @@
               if (ch.text) {
                 const textDiv = document.createElement('div');
                 textDiv.className = 'ch-text';
-                const lesenSlug = k.startsWith('I') ? k : parseInt(k).toString();
+                const lesenSlug = key.startsWith('I') ? key : parseInt(key).toString();
                 const lesenHtml = ch.datei
                   ? `<a class="lesen-link" href="/lesen/${lesenSlug}/">Kapitel lesen &rarr;</a>`
                   : '';
