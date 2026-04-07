@@ -161,25 +161,11 @@ Der Dunst lag auf dem Wasser. Das Meer schlug gegen den Stein. Nichts kam. Sorel
 
 Nach einer Stunde — vielleicht länger, er hatte aufgehört die Zeit zu messen — baute er das Stativ ab. Zwölf Schritte rückwärts. Die Abfolge hielt ihn aufrecht. Aber sie hielt ihn anders als vorher, provisorisch, als trüge das Gerüst Risse die vorher nicht da gewesen waren.
 
-Er ging nicht in den Keller. Er ging die Hafengasse entlang, den Dunst in den Gassen, die Laternen die nicht mehr brannten. Sein Blick suchte den Winkel. Den Winkel der siebten Platte — die Kaimauer, die Masten, sein Gesicht im Dunst. Er kannte jeden Grauwert, jede Linie, jede Schattierung. Irgendwo an diesem Hafen, vor Jahrzehnten, hatte etwas gestanden das sein Gesicht trug und sich hatte fotografieren lassen. Irgendwo gab es den Punkt, den Winkel, das Licht.
-
-Er suchte ihn. Drei Stunden, die Gassen, die Poller, die Kaimauer. Das Stativ aufgebaut, abgebaut, versetzt. Suche nach einer Position die zur Perspektive der siebten Platte passte. Der Winkel der Masten. Die Flucht der Kaimauer. Die Höhe.
-
-Am Ende der dritten Stunde fand er ihn. Fünfzig Meter weiter östlich, an einer Stelle wo die Kaimauer einen Knick machte. Das Stativ stand. Der Winkel stimmte — die Masten links, die Kaimauer rechts, die Fluchtlinien deckungsgleich mit dem Bild das er hundertmal im Rotlicht studiert hatte. Wer auch immer die siebte Platte belichtet hatte, hatte hier gestanden.
-
-Er baute die Kamera auf. Setzte eine frische Platte ein. Belichtete. Das Klicken der Mechanik, leise, metallisch. Ein Bild des Hafens, ohne Gesicht, ohne Figur. Nur Stein und Dunst und Wasser.
-
-Aber er hatte den Punkt.
-
 Die Treppe hinunter. Siebzehn Stufen. Die Wärme kam zurück, Stufe für Stufe, legte sich um seine Schultern, seine Hände, seinen Atem.
 
-Rotlicht. Der Geruch von Chemie, vertraut, ein Anker. Die Hafenplatte ins Entwicklerbad, vorsichtig, die Emulsion nach oben. Das Bild stieg auf, langsam, aus dem Nichts — zuerst die hellen Stellen, dann die dunklen, dann die Formen dazwischen.
+Rotlicht. Der Geruch von Chemie, vertraut, ein Anker. Sorel setzte sich nicht an den Arbeitstisch. Er ging zur siebten Platte. Hielt sie gegen das Rotlicht, zum hundertsten Mal, zum ersten Mal mit der Frage die jetzt eine Form hatte.
 
-Kaimauer. Masten. Dunst. Der Winkel der siebten Platte, aus derselben Position, Jahrzehnte später. Kein Gesicht. Kein Schatten. Nur der Hafen, leer, wartend.
-
-Er hängte die Platte an die Schnur. Nass, tropfend. Daneben, auf dem Tisch, die siebte Platte. Dasselbe Motiv. Derselbe Winkel. Sein Gesicht auf der alten, nichts auf der neuen.
-
-Sein Blick ging zum Gesicht — seinem Gesicht, oder dem was er dreizehn Jahre lang für seines gehalten hatte. Es hatte seinen schiefen Brauenwinkel, seine Falte, seinen Mund. Dieselbe Narbe am Kinn. All die Jahre hatte er es angeschaut und nie gefragt wie es dort hingekommen war. Jetzt, nach dem was am Poller gestanden und ihn mit seinen eigenen Augen angeschaut hatte, stand die Frage im Raum. Er schob sie nicht weg. Sie ging von selbst nicht.
+Sein Gesicht. Oder das was er dreizehn Jahre lang für seines gehalten hatte. Es hatte seinen schiefen Brauenwinkel, seine Falte, seinen Mund. Dieselbe Narbe am Kinn. All die Jahre hatte er es angeschaut und nie gefragt wie es dort hingekommen war. Jetzt, nach dem was am Poller gestanden und ihn mit seinen eigenen Augen angeschaut hatte, stand die Frage im Raum. Er schob sie nicht weg. Sie ging von selbst nicht.
 
 Er hob die Hände, hielt sie vor sich, drehte sie im Rotlicht. Seine Hände. Dünn, blass, die Finger lang. Er kannte sie. Er kannte sein Gesicht. Etwas anderes kannte es auch.
 
@@ -187,8 +173,6 @@ Er legte die Hand auf die Wand. Warm. Trocken. Derselbe Stein, derselbe Puls dar
 
 Stuhl. Sitzen. Rotlichtlampe, der Docht leise zischend, Öl für Stunden. Hände auf den Knien. Flach. Ruhig. Der Stein an seinem Rücken war warm, durch die Lehne, durch das Hemd. Die Wärme hielt ihn. Er ließ sich halten.
 
-Dann stand er auf. Ging zum Stativ, das neben der Tür lehnte. Prüfte den Verschluss. Klappte die Beine ein, klappte sie wieder aus. Stellte es neben die Tür. Bereit.
-
-Er legte sich auf die Matratze. Die Decke über sich, den Stein über der Decke, die Stadt über dem Stein. Wärme, Rotlicht, Fixierer. Er schloss die Augen. Zwei Platten an der Schnur. Dasselbe Motiv, derselbe Winkel. Auf der einen sein Gesicht. Auf der anderen nichts.
+Er legte sich auf die Matratze. Die Decke über sich, den Stein über der Decke, die Stadt über dem Stein. Wärme, Rotlicht, Fixierer. Er schloss die Augen. Die siebte Platte auf dem Tisch. Sein Gesicht darauf. Die Kratzspuren im Poller draußen, warm. Die Kälte die einen Geschmack hatte.
 
 Morgen Nacht. Derselbe Ort. Diesmal würde er nicht zurückweichen.
