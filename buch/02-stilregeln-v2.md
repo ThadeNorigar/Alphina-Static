@@ -11,9 +11,18 @@
 
 ## Rhythmus
 
-- Bandwurm-Sätze brauchen Stakkato als Gegenpol. Nie zwei Bandwürmer hintereinander.
-- Wenn Alphina unter Druck steht: Syntax bricht. Sätze werden Fragmente. Einwortsätze. Abbrüche.
+- Bandwurm-Sätze brauchen kurze Sätze als Gegenpol. Nie zwei Bandwürmer hintereinander.
 - Mindestens 1x pro Kapitel: ein Gedanke der ZERFÄLLT, mitten im Satz, ohne sauberen Abschluss.
+
+### Stakkato-Verbot
+
+**Stakkato ist KEIN Standardwerkzeug.** Einwortsätze und Fragmentketten ("Kalt. Dunkel. Stein.") sind ein anstrengendes Stilmittel das die Leserin ermüdet. Sie dürfen NUR in folgenden Situationen eingesetzt werden:
+
+- **Schock/Panik:** Die Figur steht unter akutem Druck. Syntax bricht. Kurz, unkontrolliert.
+- **Aufzählung als Inventur:** Die Figur prüft, zählt, katalogisiert (Vesper am Uhrwerk, Alphina zählt Farne).
+- **Ein einzelner Hammerschlag:** EIN Einwortsatz nach einem langen Absatz. Nicht drei. Nicht fünf. Einer.
+
+**Max pro Kapitel:** 2-3 Stakkato-Passagen (je max 3 Fragmentsätze in Folge). Darüber hinaus: normale Sätze schreiben. Kurze Sätze (10-15W) sind KEIN Stakkato — sie sind gute Prosa.
 
 ## Erklärungen
 
@@ -30,9 +39,9 @@
 
 | Figur | Perspektive | Max Satzlänge | Leitmotiv | Rhythmus |
 |-------|------------|---------------|-----------|----------|
-| Alphina | Ich/Präsens | ~40W, bricht unter Druck zu Fragmenten | Puls (Zahl, steigt) | Kontrolle + Risse. Einwortsätze wenn die Mauer bricht. |
-| Sorel | 3.P/Prät | ~50W, lange Sätze erlaubt | Hände (bewahren, arbeiten, halten) | Stille + Beobachtung. Bandwürmer OK, aber Stakkato als Gegenpol. |
-| Vesper | 3.P/Prät | ~20W, max 2-3 Ausnahmen/Kapitel | Turm/Finger (kalkulieren, drehen, stillliegen) | Stakkato + Wenn-Dann-Denken. Kürzeste Kapitel. |
+| Alphina | Ich/Präsens | ~40W, bricht unter Druck zu Fragmenten | Puls (Zahl, steigt) | Kontrolle + Risse. Fragmentsätze NUR wenn die Mauer bricht. |
+| Sorel | 3.P/Prät | ~50W, lange Sätze erlaubt | Hände (bewahren, arbeiten, halten) | Stille + Beobachtung. Bandwürmer OK, kurze Sätze als Gegenpol. |
+| Vesper | 3.P/Prät | ~30W, Ausnahmen bis ~40W | Turm/Finger (kalkulieren, drehen, stillliegen) | Logisch-präzise. Wenn-Dann-Denken in vollständigen Sätzen. Fragmentsätze NUR bei Schock oder Inventur. |
 | Maren | 3.P/Prät | ~35W, fließend | Noch offen (Wasser? Hände am Holz?) | Warm + Bewegung. Fließt wie Wasser, bleibt nie stehen. |
 
 **Die Satzlänge ist MESSBAR.** Der /stil-check prüft das. Überschreitungen werden geflaggt.
