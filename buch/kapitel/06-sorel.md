@@ -27,6 +27,26 @@ Seine Hand hing in der Luft, den eigenen Nagel zwischen Daumen und Zeigefinger. 
 
 Er hängte die Rotlichtlampe daran. Öl eingefüllt, Docht geprüft, Streichholz. Das Rotlicht kam — die Welt wurde kleiner, bekannter, die Ränder weicher. Kellerluft, Rotlicht, der Geruch von Chemie über dem Geruch von warmem Stein. Seine Hände im Rotlicht waren wieder seine — die Adern verschwanden, die Knöchel traten zurück, die Finger wurden Werkzeuge. Er atmete ein. Der erste volle Atemzug seit sechs Tagen.
 
+Das Lichthaus hatte er am Morgen gefunden. Drei Stockwerke, breit, Speichertore im Erdgeschoss, verriegelt, verrostet. Er kannte es von der Platte — die Proportionen, die Breite der Mauer, die Höhe der Tore. Sein Körper erkannte den Ort bevor sein Verstand ihn einholte.
+
+Der Vermieter wohnte im Erdgeschoss. Runder Kopf, Schürze über dem Bauch, die Hände feucht von der Suppe die auf dem Herd hinter ihm dampfte. Er musterte Sorel — die Ledertasche, den Kasten, die bleichen Hände, die Augen die seinem Blick auswichen.
+
+"Die oberen Stockwerke. Lagerräume, leer, billig."
+
+"Den Keller", sagte Sorel.
+
+Der Mann kratzte sich am Kinn. "Kein Fenster. Riecht eigenartig."
+
+"Ich weiß."
+
+"Bis vor vier Wochen hat da noch jemand gewohnt." Er wischte über den Tresen, eine langsame Geste. "Älterer Herr. Ruhig, hat nie Ärger gemacht. Ist eines Morgens einfach weg gewesen. Tür offen, Sachen weg. Nicht mal die letzte Woche bezahlt."
+
+Er nannte den Preis. Sorel legte die Münzen auf den Tresen, nicht in die Hand.
+
+"Matratze ist noch unten. Stroh, nicht schlecht. Der Alte hat sie dagelassen." Er schob den Schlüssel über das Holz. "Sagen Sie Bescheid wenn Sie was brauchen."
+
+Sorel nahm den Schlüssel. Warm vom Tresen.
+
 Sechs Tage seit Nachtholm. Drei Gefährte — Fähre, Flussdampfer, Kutsche. Jedes heller als das vorherige, jedes voller Gerüche die er nicht filtern konnte. Auf dem Dampfer hatte er an Deck gestanden, nachts, als die anderen Passagiere schliefen, und in das Flusswasser geschaut, das schwarz war und still, und seine Augen hatten sich entspannt, zum ersten Mal seit der Haustür. Das Dunkel des Wassers war nah genug am Dunkel seines Kellers gewesen, dass sein Körper für einen Moment aufgehört hatte, sich gegen die Welt zu wehren.
 
 Jetzt, im Rotlicht, war es wieder so. Nur wärmer. Der Keller in Nachtholm hatte nie gewärmt.
@@ -46,8 +66,6 @@ Drei Wörter. Hundertmal gelesen, im Rotlicht, im Gaslicht, im Dunkel hinter sei
 Sorel legte die Platte auf den Tisch. Daneben die zwei Scherben, ausgewickelt, nebeneinander. Der Mann auf den Scherben schaute nach links. Der Mann auf der siebten Platte schaute geradeaus. Beide schauten ihn an.
 
 Zweihundertdreiundsechzig Gesichter. In Nachtholm, an einer Wand, in einem Keller der jetzt leer war. Zweihundertdreiundsechzig tote Fremde die niemanden mehr anschauten. Er hatte sie zurückgelassen. Das erste Mal in dreizehn Jahren hatte sein Keller keine Augen. Dieser Keller hier hatte auch keine — nur warmen Stein, trockene Luft, einen Nagel der auf ihn gewartet hatte. Leerer als der Keller in Nachtholm. Leerer, und voller, weil der Geruch von Fixierer nicht zu einem leeren Raum passte.
-
-In der Ecke lag die Matratze. Stroh, ein Laken darüber, der Stoff nach einem Körper riechend der nicht seiner war. Der Mann — runder Kopf, Schürze, Suppengeruch — hatte ihn angeschaut als Sorel nach dem Keller fragte. "Kein Fenster. Riecht eigenartig." — "Ich weiß." — "Bis vor vier Wochen hat da noch jemand gewohnt. Älterer Herr, ruhig, hat nie Ärger gemacht." Der Mann wischte über den Tresen. "Ist eines Morgens einfach weg gewesen. Tür offen, Sachen weg. Nicht mal die letzte Woche bezahlt." Er nannte den Preis. Sorel legte die Münzen auf den Tresen, nicht in die Hand. "Die Matratze ist noch unten. Stroh, nicht schlecht. Der Alte hat sie dagelassen, wie alles andere." Er schob den Schlüssel über den Tresen. "Sagen Sie Bescheid wenn Sie was brauchen."
 
 Stuhl an die Wand geschoben. Die Lehne gegen den Stein, warm durch das Hemd. Hände auf den Oberschenkeln, flach, ruhig. Fixierer in der Luft, Rotlicht an den Wänden. Die Platte auf dem Tisch. Die Scherben daneben. Der Nagel hielt sein Licht. Er schaute das Gesicht an. Das Gesicht schaute zurück.
 
