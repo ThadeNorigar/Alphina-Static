@@ -302,6 +302,15 @@
           return;
         }
 
+        // Guard: non-final chapters only visible in WIP mode
+        if (!isWip && ch.status !== 'final') {
+          document.getElementById('ch-number').textContent = '';
+          document.getElementById('ch-title').textContent = 'Noch nicht verfügbar';
+          document.getElementById('chapter').innerHTML = '<p style="text-align:center;color:var(--smoke);padding:3rem;">Dieses Kapitel ist noch in Arbeit.</p>';
+          document.getElementById('nav').innerHTML = '';
+          return;
+        }
+
         // Set header
         if (isInterludium) {
           document.getElementById('ch-number').textContent = 'Interludium';
