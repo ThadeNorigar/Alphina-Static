@@ -568,7 +568,7 @@ Elke ging durch das Portal — während drei Feuer-Schemen in Vael wüteten. Kas
 
 Vier Menschen kamen nach Vael:
 - **Elke van der Holt** — Bildhauerin. Resonanz: Erde/Stein. Ging durch das Tor.
-- **Johann Breke** — Uhrmacher. Vespers Pendant.
+- **Johann Breke** — Schmied. Resonanz: Eisen/Metall. **OFFEN: Pendant-Zuordnung.** War Vespers Pendant (als Uhrmacher). Jetzt Schmied → eher Runas Pendant? Vesper braucht ggf. neues 1423er-Pendant.
 - **Lene Dahl** — Schiffbauerin. Marens Pendant.
 - **Kaspar Holm** — Maler. Sorels Pendant.
 

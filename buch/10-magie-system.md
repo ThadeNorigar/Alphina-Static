@@ -172,6 +172,28 @@ Selten. Kosten ALLE drei massiv. Max 2-3 Mal in der ganzen Trilogie.
 7. **Kombinationen: Thalassier untereinander = kein Preis.** Thalassier + Moragh-Geborene = der Moragh-Geborene zahlt seinen Anteil.
 8. **Nach Zerstörung der Riss-Quelle:** Thalassien verliert alle Magie permanent. Moragh bleibt unverändert. Thalassier IN Moragh behalten ihre Resonanz.
 
+9. **Jeder kann jede Magie erlernen.** Talent bestimmt die Neigung, Übung die Stärke. Wer nur Feuer übt, wird übermächtig damit. Spezialisierung ist Wahl, nicht Schicksal.
+
+---
+
+## Moragh-Gesellschaft — Magie statt Handwerk
+
+**Moragh hat kein Handwerk.** Keine Werkzeuge, keine Medizin, keine Maschinen im thalassischen Sinn. ALLES wird mit Magie gemacht. Magie IST das Werkzeug.
+
+- **Heilung:** Magie. Knochenbrüche, Krankheiten, Geburtenkontrolle — alles Resonanz-basiert.
+- **Ackerbau/Ernte:** Magie. Pflanzen wachsen auf Befehl, Erde wird geformt, Wasser geleitet.
+- **Handwerk:** Gibt es nicht. Stein wird mit Händen geformt (Erde-Resonanz), Metall mit Hitze geschmolzen und geformt (Feuer-Resonanz), Stoff gewebt (feinmotorische Resonanz). Man sieht hochdetaillierte Arbeiten — kunstvollen Stein, filigranen Schmuck, perfekte Stoffe — aber KEINE Werkzeuge. Keine Hämmer, keine Nadeln, keine Öfen.
+- **Maschinen:** Die Thar bauen Magitech — Maschinen die von Resonanz angetrieben werden, nicht von Dampf oder Mechanik. Ein Moragh-Mensch versteht keine Zahnräder. Er versteht Resonanz-Kopplung.
+
+**Spezialisierung durch Übung:**
+- Feuer-Spezialist: Flammen erzeugen, in Ritualen mit anderen Explosionen über 100m Distanz (Artillerie).
+- Metall-Spezialist: Maschinen bauen die andere mit Dampf/Hitze antreiben. Oder Feinarbeit: Goldschmied, Kunstschmied — alles ohne Werkzeug, nur Hände und Resonanz.
+- Stein-Spezialist: Architektur, Skulptur — der Stein gibt nach wie Ton.
+
+**Die totale Abhängigkeit:** Moragh ohne Magie = Zivilisationskollaps. Keine Ernte, keine Heilung, keine Infrastruktur. Das ist der Grund warum die Quellen-Zerstörung so verheerend ist — jede tote Quelle bedeutet nicht nur weniger Magie, sondern weniger Essen, weniger Medizin, mehr Tote.
+
+**Kontrast zu Thalassien:** Thalassien hat Werkzeuge, Maschinen, Medizin, Handwerk. Thalassien funktioniert OHNE Magie. Deshalb verstehen die Thalassier in Moragh nicht, warum alle so abhängig sind — und die Moragh-Menschen verstehen nicht, wie man ohne Magie überleben kann.
+
 ---
 
 ## Quellen — physische Eigenschaften

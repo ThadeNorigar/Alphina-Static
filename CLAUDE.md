@@ -85,6 +85,16 @@ Ebene  Typ                  Dateien                              Inhalt
 Eine Änderung auf Ebene N invalidiert potenziell alles auf N+1 bis 10.
 Nach jeder Bibel-Änderung (Ebene 1-3): abwärts durcharbeiten bis zum fertigen Kapitel.
 
+**Kaskaden-Checkliste (nach jeder Bibel-Änderung abhaken):**
+- [ ] `00-welt.md` — Weltbibel aktualisiert
+- [ ] `10-magie-system.md` — Regelsystem konsistent
+- [ ] `00-storyline.md` — Gesamtbogen konsistent
+- [ ] Aktpläne — betroffene Akte aktualisiert
+- [ ] `status.json` — Kapitelregister aktualisiert
+- [ ] `szenen/*.md` — betroffene Szenen aktualisiert
+- [ ] `kapitel/*.md` — betroffene Kapitel aktualisiert
+- [ ] Kein Deploy bevor die Kaskade vollständig abgearbeitet ist
+
 ### Dateinamens-Konvention
 
 ```
@@ -263,8 +273,18 @@ Prüft Absatz für Absatz:
 - Kann die Figur das wahrnehmen? (Licht, Entfernung, Raum)
 - Erzählt der Narrator mehr als die POV-Figur weiß?
 - Tageszeit, Wetter, Ort konsistent?
-- Technologie passt zur Epoche?
 - Magie-Regeln gegen 10-magie-system.md?
+- **POV-Expertise:** Beschreibt die Figur durch ihre Berufslinse?
+  Steinleserin sieht Risse, nicht Farnnamen. Fotograf sieht Licht, nicht Geologie.
+  Keine Figur darf Fachwissen zeigen das sie nicht hat.
+- **Anachronismus-Check (besonders Interludien):**
+  - Maßeinheiten: Meile/Schritt/Elle (nicht Kilometer/Meter vor 1799)
+  - Anrede: Ihr/Euch (nicht Sie vor ~1650)
+  - Transport: Pferd/Karren (nicht Kutsche vor ~1500)
+  - Monate: Nebelmond etc. in historischen Dialogen (nicht November)
+  - Berufe: keine modernen Konzepte (Gelehrte, nicht Forscherin)
+- **Moragh-Szenen:** Keine Werkzeuge, kein Handwerk, keine Maschinen (außer
+  Magie-geformte). Alles wird mit Magie gemacht. Siehe 10-magie-system.md.
 
 ### /stil-check (Kapitel-Pipeline, GATE)
 
