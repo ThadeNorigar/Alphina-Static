@@ -57,11 +57,25 @@
 - **Wortkarg ≠ einsilbig.** Vesper redet wenig, aber wenn er redet, redet er präzise und vollständig. Er sagt "Ich bin Uhrmacher, aus Karst" — nicht "Uhrmacher. Karst."
 - **Drehbuch-Dialoge vermeiden.** Stakkato-Pingpong ("Wo?" / "Dort." / "Wann?" / "Jetzt.") ist Drehbuch, nicht Prosa.
 
+### Realismus-Check
+
+Dialoge müssen **alltagslogisch** sein. Kein Filmdrehbuch. Prüfe:
+- Würden echte Menschen das Gespräch so führen?
+- Fehlen Schritte? (Preis verhandeln, Bedingungen klären, nachfragen)
+- Reagiert die Figur auf das was gesagt wurde, oder auf das was der Plot braucht?
+- Gibt es einen natürlichen Gesprächsfluss? (Begrüßung → Anliegen → Rückfrage → Einigung → Abschluss)
+
+**Beispiel SCHLECHT:** "Zimmer?" / "Zweiter Stock." / Schlüssel über die Theke / bezahlt
+→ Kein Preis genannt, kein Verhandeln, unrealistisch.
+
+**Beispiel GUT:** Vesper fragt nach einem Zimmer. Der Wirt nennt den Preis. Vesper fragt wie lange. Der Wirt sagt Wochenpreis. Vesper legt das Geld hin. Der Wirt gibt den Schlüssel.
+
 ### Der /stil-check prüft:
 
 - Repliken unter 3 Wörtern (außer in laufender Konversation)
 - Mehr als 3 Einwort-Antworten pro Kapitel
 - Fehlende Höflichkeitsformeln bei Erstbegegnungen
+- **Dialog-Realismus:** Fehlen logische Schritte in Gesprächen? Würde ein echter Mensch so reden?
 
 ## Szenenführung
 

@@ -2,11 +2,15 @@
 
 Die Theke war abgewetzt und der Mann dahinter sah aus, als gehöre er dazu — breit, grau, ein Gesicht ohne Neugier. Vesper stellte den Koffer ab. Vier Tage Staub auf dem Leder, vier Tage Schweiß in den Nähten. Seine Schultern schmerzten. Sein rechtes Knie war steif von der letzten Kutsche, der schmalen, die von der Küstenstation in die Stadt fuhr, über Pflaster das härter war als alles in den Innenlanden.
 
-"Ich brauche ein Zimmer."
+"Ich brauche ein Zimmer. Was kostet das?"
 
-"Zweiter Stock, linke Tür." Der Wirt griff unter die Theke und schob einen Schlüssel über das Holz, Messing, angelaufen. "Ich nehme den Wochenpreis, im Voraus."
+"Kommt drauf an wie lange." Der Wirt legte beide Hände auf die Theke. Breite Hände, langsam und sicher, die Hände eines Mannes der seit Jahrzehnten dieselben Handgriffe machte. Vesper kannte solche Hände — Hände die ihr Werkzeug kannten.
 
-Vesper legte die Münzen auf den Tresen. Der Wirt zählte sie, strich sie ein, sagte nichts. Seine Hände waren langsam und sicher, die Hände eines Mannes der seit Jahrzehnten dieselben Handgriffe machte. Vesper kannte solche Hände. Es waren die Hände die er respektierte — Hände die ihr Werkzeug kannten.
+"Ich weiß noch nicht wie lange. Eine Woche, vielleicht länger."
+
+"Wochenpreis, acht Schilling. Im Voraus." Der Wirt schaute ihn an und wartete.
+
+Vesper legte die Münzen auf den Tresen. Der Wirt zählte sie, strich sie ein und griff unter die Theke. Ein Schlüssel, Messing, angelaufen. Er schob ihn über das Holz. "Zweiter Stock, linke Tür. Frühstück gibt es keins."
 
 "Kennen Sie ein Herrenhaus am Fluss? Mit einer Standuhr?"
 
