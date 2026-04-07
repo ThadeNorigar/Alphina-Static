@@ -167,10 +167,10 @@
           },
           {
             "tz": 154, "mz": -1.0,
-            "titel": "Johann trifft Elke — sein Barren summt",
-            "pov": "I2 · Johann",
+            "titel": "Keldan trifft Elke — sein Barren summt",
+            "pov": "I2 · Keldan",
             "typen": ["begegnung"],
-            "tags": ["Erste Begegnung: Johann + Elke"]
+            "tags": ["Erste Begegnung: Keldan + Elke"]
           },
           {
             "tz": 154, "mz": -1.0,
@@ -197,11 +197,11 @@
           },
           {
             "tz": 154, "mz": -1.0,
-            "titel": "Das Große Feuer — Kaspar und Johann sterben, Elke geht durch",
-            "detail": "Varen schickt 3 Feuer-Schemen. Kaspar + Johann fallen. Elke → Moragh. Lene überlebt allein, schreibt das Manuskript.",
+            "titel": "Das Große Feuer — Kaspar und Keldan sterben, Elke geht durch",
+            "detail": "Varen schickt 3 Feuer-Schemen. Kaspar + Keldan fallen. Elke → Moragh. Lene überlebt allein, schreibt das Manuskript.",
             "pov": "I6/I7",
             "typen": ["portal", "tod", "schlüssel"],
-            "tags": ["Portal: Elke → Moragh", "Tod: Kaspar, Johann", "Schlüsselereignis"]
+            "tags": ["Portal: Elke → Moragh", "Tod: Kaspar, Keldan", "Schlüsselereignis"]
           }
         ],
         "moragh": [
