@@ -85,7 +85,7 @@ Halbinsel ins Graue Meer. Fluss **Grauwe** mündet hier — langsam, trüb, flie
 
 ### Physisch
 
-Der **Steinkreis** im Botanischen Garten — Purpurstein, kreisförmig, schon immer da. Pflanzen wachsen um den Kreis herum, nie hinein. In Moragh existiert ein Gegenstück — ein Steinplatz, gewartet, beschriftet, funktional.
+Der **Steinkreis** im Botanischen Garten — Purpurstein, kreisförmig, schon immer da. Pflanzen wachsen um den Kreis herum, nie hinein. In Moragh existiert ein Gegenstück — ein Steinplatz, gewartet, beschriftet, funktional. Der Steinplatz liegt nahe **Dravek**, einer mittleren Orath-Stadt (~2 Stunden Fußweg). Elke lebt in Dravek — spürt das Portal im Stein wenn es aktiv wird.
 
 ### Wie es funktioniert
 
@@ -136,7 +136,7 @@ Maren findet in Moragh die Karte und die Anleitung für die Moragh-Seite des Por
 
 ### Zeugen
 
-**Finn Daverin** und **Doktor Halvard** beobachten das Ritual vom Gartenrand. Halvard schreibt einen Bericht — sachlich, präzise, wie ein Arzt. Der einzige schriftliche Beleg. Seriös genug, dass man ihn nicht ignoriert. Verrückt genug, dass man ihn Jahrhunderte lang anzweifelt. Finn bezeugt, sagt aber nie ein Wort dazu.
+**Tohl Daverin** und **Doktor Halvard** beobachten das Ritual vom Gartenrand. Halvard schreibt einen Bericht — sachlich, präzise, wie ein Arzt. Der einzige schriftliche Beleg. Seriös genug, dass man ihn nicht ignoriert. Verrückt genug, dass man ihn Jahrhunderte lang anzweifelt. Tohl bezeugt, sagt aber nie ein Wort dazu.
 
 ---
 
@@ -150,7 +150,11 @@ Die Moragh-Menschen nennen es einfach "die Sonne." Sie wissen nicht was es ist. 
 
 ### Der Planet
 
-**Schwerkraft: 0.7g.** Moragh ist kleiner als die Erde. Leichtere Körper, höhere Sprünge, dünnere Knochen. Die Luft ist dichter (Atmosphäre reicht bei geringerer Gravitation weiter), Schall trägt weiter — Moragh ist *lauter* als Thalassien. Wolken stehen höher, Stürme sind langsamer aber größer.
+**Schwerkraft: 0.7g.** Moragh ist kleiner als die Erde — **Radius ~4.500 km** (Erde: 6.371 km). Leichtere Körper, höhere Sprünge, dünnere Knochen. Die Luft ist dichter (Atmosphäre reicht bei geringerer Gravitation weiter), Schall trägt weiter — Moragh ist *lauter* als Thalassien. Wolken stehen höher, Stürme sind langsamer aber größer.
+
+**Oberfläche:** ~55-60% Wasser. Das Schwarze Loch (~10 Sonnenmassen) mit Akkretionsscheibe statt normaler Sonne. Zwei Monde.
+
+**Klima:** Gemäßigt-feucht. Kein Achsenneigung → **keine Jahreszeiten.** Temperatur relativ konstant (15-25°C auf dem Plateau). Regen alle 3-5 Tage. Diffuses Licht durch die Ringquelle (Akkretionsscheibe) — weichere Schatten als in Thalassien, sattere Farben weil das Lichtspektrum bläulicher/violetter ist. Keine Wüsten, kein Eis auf dem Plateau.
 
 **Landmasse:** Ein einzelnes Hochplateau, ca. Europa-groß. Darauf spielt sich die gesamte bekannte Zivilisation ab. Das Plateau ragt 200-400 Meter über den Meeresspiegel. An manchen Stellen Steilklippen — senkrechte Felswände, hunderte Meter tief, das Meer darunter wie ein Abgrund. An anderen Stellen flacher Übergang — Küstenebenen die bei Flut komplett überschwemmt werden, kilometerweit. Beides unbewohnbar.
 
@@ -215,11 +219,38 @@ Moragh hat **Reservoir-Quellen** — Energiepunkte in der Erde, vergleichbar mit
 
 **Städte entstehen um Quellen herum.** Die Quelle ist das Kraftwerk der Stadt. Moragh-Menschen erholen sich schneller von Magieverbrauch je näher sie an einer Quelle sind — ein Beschwörer der neben einer Quelle schläft ist morgens vollständig erholt. Einer der 100 Kilometer entfernt arbeitet braucht Tage.
 
-**Quellen können durch Überladung zerstört werden — unwiederbringlich.** Eine überlastete Quelle kollabiert, versiegelt sich, ist tot. Wie eine Batterie die explodiert. Kein Schwund, kein langsames Versiegen — Zerstörung. **Drei Quellen sind unwiederbringlich kollabiert** — durch Varens fehlgeschlagenes Leylinien-Experiment vor dem Krieg (siehe "Varens Schuld"). Die Städte auf diesen Quellen verdorrten. Das Gleichgewicht kippte. Der Krieg begann.
+**Quellen-Kapazität und Siedlungsgröße:**
+
+| Kategorie | Einwohner | Anteil | Beschreibung |
+|-----------|-----------|--------|--------------|
+| **Riesig** | 80.000–200.000 | ~5 Quellen | Hauptstädte: Orath, Dravek, Thar-Zentren. Seltene, mächtige Flöze |
+| **Groß** | 25.000–80.000 | ~20 Quellen | Provinzstädte, Handelsknotenpunkte |
+| **Mittel** | 5.000–25.000 | ~80 Quellen | Typische Quellenstadt |
+| **Klein** | 1.000–5.000 | ~600 Quellen | Dörfer, Außenposten, Grenzland |
+
+**Regeneration:** Quellen regenerieren sich wie Grundwasser — stetige Nachlieferung aus der Erde, abhängig von Verbrauch und Größe. Eine große Stadt verbraucht mehr als eine kleine, aber die Quelle darunter liefert auch mehr. Das System ist im Gleichgewicht — solange niemand mehr entnimmt als nachwächst. Übernutzung schwächt die Quelle temporär (Magier erholen sich langsamer). Chronische Übernutzung kann permanenten Schwund auslösen. **Überladung** (zu viel Energie hineingedrückt, nicht herausgeholt) zerstört unwiederbringlich.
+
+**Besiedelung:** ~700 Siedlungen, ~17 Millionen Einwohner auf dem gesamten Plateau. Besiedelung NUR an Quellen — ohne Quelle keine Siedlung, weil Magie-Regeneration zu langsam wäre. Zwischen den Siedlungen: leeres Land, Wildnis, Reiserouten.
+
+**Quellen können durch Überladung zerstört werden — unwiederbringlich.** Eine überlastete Quelle kollabiert, versiegelt sich, ist tot. Wie eine Batterie die explodiert. Kein Schwund, kein langsames Versiegen — Zerstörung.
+
+**Drei tote Quellen** — durch Varens fehlgeschlagenes Leylinien-Experiment vor dem Krieg (siehe "Varens Schuld"):
+
+| Quelle | Kategorie | ehem. Fraktion | Lage | Folge |
+|--------|-----------|----------------|------|-------|
+| **Keth-Varen** | Riesig | Bund von Orath | Zentralplateau | Größte Einzelkatastrophe. ~120.000 Menschen verloren ihre Quelle. Ruinenstadt, Todzone |
+| **Dulrath-Ost** | Groß | Bund von Orath | Östliches Grenzland | Handelsstadt verdorrt. Flüchtlinge nach Orath |
+| **Reshkol** | Groß | Velmar | Velmar-Randgebiet | Velmar verlor ein Fünftel seiner Magiekapazität. Kastensystem verschärfte sich |
+
+Die Städte auf diesen Quellen verdorrten. Das Gleichgewicht kippte. Der Krieg begann.
 
 ### Moragh im Krieg
 
 Der Krieg dauert **vier Moragh-Jahre** (= ~1600 Thalassien-Jahre). Drei Seiten.
+
+**Kriegführung ist Quellen-gebunden.** Armeen brauchen Quellen zur Regeneration — ohne Quelle in Reichweite erschöpfen sich Magier nach Stunden und brauchen Tage statt Stunden zur Erholung. Verteidigung ist massiv bevorzugt: die Armee auf der eigenen Quelle regeneriert, der Angreifer nicht. Belagerung = Erschöpfungskrieg. Eroberung einer Stadt gelingt nur durch Übermacht ODER durch Quellen-Sabotage (Überladung als Waffe — der Bund nutzt das).
+
+**Regenerations-Mathematik:** Ein Magier nahe einer Quelle: 6-8 Stunden Schlaf = vollständig erholt. 50 km entfernt: 2-3 Tage. 100 km+: bis zu einer Woche. Deshalb bewegen sich Armeen von Quelle zu Quelle, nicht durch offenes Land. Jeder Vorstoß wird an der nächsten feindlichen Quelle zum Stellungskrieg.
 
 **Der Grund:** Drei Reservoir-Quellen sind kollabiert (Varens Experiment — das weiß niemand). Die verbleibenden Quellen reichen nicht für alle. Die Thar expandieren um neue Quellen zu erschließen UND versuchen die verbleibenden Quellen über **Leylinien zu koppeln** — ein Energienetzwerk, Wohlstand für alle, Konglomeratsdenken. Die Idee ist nicht böse — es ist industrielle Logik. Aber wer das Netzwerk kontrolliert, kontrolliert alles. **Und Varen weiß: genau diese Idee hat er schon versucht. Sie scheitert katastrophal.** Die Gilden-Städte, die auf den reichsten verbliebenen Quellen sitzen, wehren sich — teils aus Tradition, teils aus Machterhalt. Die Binder — Ausgestoßene aus allen Fraktionen, in den Grenzlanden — greifen aus Opportunismus an, binden Dämonen und plündern erschöpfte Gebiete.
 
@@ -345,7 +376,7 @@ Betreibt die Druckerei in der Oberstadt. Heißes Metall, Bleilettern, Schmelztie
 **Buch 1:** Nebencharakter. Druckt Flugblätter über die Risse. Stellt unbequeme Fragen. Versteckt sich im Botanischen Garten, schlüpft durch das Portal in den letzten Sekunden der 4:33.
 **Buch 2:** Alphinas Affäre in Moragh. Einziger Mensch ohne bewusste Magie in einer Welt die aus Magie besteht. Ihre Feuer-Resonanz macht sie für die Thar interessant.
 
-### Finn Daverin — Fischer
+### Tohl Daverin — Fischer
 Alt, schweigsam, Gesicht wie Treibholz. Fischt seit fünfzig Jahren auf der Grauwe. Sieht Dinge auf dem Wasser — Strömungen die falsch laufen, Stellen wo die Grauwe steht. "War schon immer so." Redet mit Maren, weil sie vom Wasser kommt. Redet nicht über das was er sieht. Zeigt es. Bringt tote Fische die nach Metall stinken.
 
 ### Jara Voss — Archiv-Gehilfin
@@ -371,6 +402,18 @@ Dreißig. Druck-Resonanz. Pilotiert eine Thar-Bestie (Magitech Walker, 8-12m, 3-
 
 **Ganz Moragh sind Städte.** Jede Stadt sitzt auf einer Reservoir-Quelle. Kein Staat hat Grenzen im europäischen Sinn — es gibt Städte, ihr Umland, und die Zugehörigkeit zu einem Bündnis. Ein Hochplateau, Europa-groß, endlich. Die Quellen bestimmen alles.
 
+**Fraktions-Statistiken:**
+
+| Fraktion | Bevölkerung | Anteil Quellen | Gebiet |
+|----------|-------------|----------------|--------|
+| **Bund von Orath** | ~5,5 Mio. | ~30% | Zentral- und Westplateau |
+| **Konglomerat der Thar** | ~2,5 Mio. | ~20% | Ost- und Nordostplateau |
+| **Velmar** | ~0,7 Mio. | ~3% | Südwestliches Randgebiet |
+| **Freie/Ungebundene Städte** | ~7 Mio. | ~35% | Verstreut, oft zwischen den Fronten |
+| **Todzone (tote Quellen)** | — | ~12% (verloren) | Keth-Varen, Dulrath-Ost, Reshkol |
+
+Die Freien Städte stellen die Mehrheit der Bevölkerung — ein loses Netz ohne zentrale Struktur, verhandlungsbereit, verwundbar. Werden stückweise geschluckt.
+
 ### Der Bund von Orath
 
 **Orath** ist die größte und älteste Stadt, Zentrum eines Städtebunds. Demokratie, Wahlrecht (eingeschränkt durch Gildenmitgliedschaft), Gilden als Berufsverbände UND politische Machtblöcke. Jede Bund-Stadt autonom: eigene Armee, eigene Gilden, eigene Politik.
@@ -385,7 +428,7 @@ Dreißig. Druck-Resonanz. Pilotiert eine Thar-Bestie (Magitech Walker, 8-12m, 3-
 
 **Warum der Bund den Krieg verliert:** Nicht weil er schwächer ist — der Bund HAT mehr Menschen, mehr Quellen, mehr Erfahrung. Er verliert weil zwanzig Städte zwanzig Meinungen haben. Jede Stadt bezahlt ihre eigene Armee, koordiniert schlecht. Die Thar hat EINE Kommandokette. Der Bund hat Ausschüsse.
 
-**Bevölkerung:** ~8-10 Millionen. Das Kernland des Plateaus. Die reichsten Quellen, die ältesten Städte. Die Zivilisation von Moragh.
+**Bevölkerung:** ~5,5 Millionen. Das Kernland des Plateaus. Die reichsten Quellen, die ältesten Städte. Die Zivilisation von Moragh. (Nach dem Quellen-Kollaps von Keth-Varen und Dulrath-Ost stark geschrumpft — ehemals deutlich mehr.)
 
 **Der Bund und die Quellen-Überladung:** Der Bund hat Varens Forschung über Quellen-Überladung gestohlen oder rekonstruiert. Die einflussreichsten Kriegstreiber im Bund verstehen das Prinzip und nutzen es als Waffe — systematische Zerstörung feindlicher Quellen. Nicht offiziell, nicht alle Städte. Aber die Strategen die den Krieg wirklich lenken planen die permanente Vernichtung der Thar-Quellen. Wer die Quellen des Gegners zerstört, gewinnt permanent. Das macht den Bund zur "zivilisierten" Seite die im Kern genau so brutal ist wie alle anderen.
 
@@ -395,7 +438,7 @@ Wollen die Resonanz-Begabten als **Verbündete und Waffen** gegen die Thar.
 
 **Eine Stadt mit 5 angebundenen Städten.** Eigenständig — nicht im Bund, nicht bei der Thar. Wird von der Thar angegriffen, wehrt sich. Zu stolz für den Bund (Kastensystem verträgt sich nicht mit Orath-Demokratie). Zu eigenständig für die Thar (Firmenstruktur verträgt sich nicht mit dem Kastensystem).
 
-**Bevölkerung:** ~2 Millionen. Randgebiet des Plateaus. Steilklippen auf einer Seite (Meer — Donnern der Gezeiten hörbar), Kriegsfront auf den anderen. Karg, windig.
+**Bevölkerung:** ~0,7 Millionen. Randgebiet des Plateaus. Steilklippen auf einer Seite (Meer — Donnern der Gezeiten hörbar), Kriegsfront auf den anderen. Karg, windig. (Durch den Verlust von Reshkol stark geschwächt — Kastensystem als Reaktion verschärft.)
 
 **Kastensystem — drei Kasten:**
 
@@ -566,7 +609,7 @@ Bildhauerin. Aus dem Süden, Binnenmeerküste. Tochter eines Steinmetzmeisters, 
 
 **Resonanz: Erde/Stein.** Spürt was unter der Oberfläche liegt. Wasser, Hohlräume, Adern im Gestein. Hält es für Handwerks-Instinkt — sie "hört" den Stein, seine Maserung, seine Schwächen. In Moragh: Stein formen ohne Werkzeug. Hand auf Basalt, und der Basalt gibt nach.
 
-Elke ging durch das Portal — während drei Feuer-Schemen in Vael wüteten. Kaspar und Johann starben im Kampf. Lene überlebte als Einzige, schrieb das Manuskript. Elke lebt seitdem in Moragh. ~400 Thalassien-Jahre, aber nur ~1 Moragh-Jahr. Sie spricht Moragh. Kennt die Welt. Hat einen Garten in dem Pflanzen aus beiden Welten wachsen — gewachsen aus dem Stein den sie geformt hat.
+Elke ging durch das Portal — während drei Feuer-Schemen in Vael wüteten. Kaspar und Gerrit starben im Kampf. Lene überlebte als Einzige, schrieb das Manuskript. Elke lebt seitdem in Moragh. ~400 Thalassien-Jahre, aber nur ~1 Moragh-Jahr. Sie spricht Moragh. Kennt die Welt. Hat einen Garten in dem Pflanzen aus beiden Welten wachsen — gewachsen aus dem Stein den sie geformt hat.
 
 **Elkes Thalassisch ist von 1423.** Als die Vier (aus ~1820) sie treffen, klingt ihre Sprache falsch — alte Wörter, ausgestorbene Höflichkeitsformen, verschobene Grammatik. Sie sagt "Fuhre" statt "Kutsche", fragt nach dem "Druckstock" statt der Druckpresse. Die Vier verstehen sie — aber es hakt. Elke merkt es auch: ihre Wörter treffen nicht. Sie kennt keine Gaslampen, keine Dampfschiffe, keine Schreibmaschinen. 200 Jahre Thalassien-Geschichte sind an ihr vorbeigegangen. **Der Leser soll ahnen dass die Zeitdilatation größer ist als jeder denkt.** Vesper setzt es später zusammen.
 
@@ -578,13 +621,13 @@ Elke ging durch das Portal — während drei Feuer-Schemen in Vael wüteten. Kas
 
 Vier Menschen kamen nach Vael:
 - **Elke van der Holt** — Bildhauerin. Resonanz: Erde/Stein. Ging durch das Tor.
-- **Johann Breke** — Schmied. Resonanz: Eisen/Metall. **OFFEN: Pendant-Zuordnung.** War Vespers Pendant (als Uhrmacher). Jetzt Schmied → eher Runas Pendant? Vesper braucht ggf. neues 1423er-Pendant.
+- **Gerrit Breke** — Schmied. Resonanz: Eisen/Metall. **OFFEN: Pendant-Zuordnung.** War Vespers Pendant (als Uhrmacher). Jetzt Schmied → eher Runas Pendant? Vesper braucht ggf. neues 1423er-Pendant.
 - **Lene Dahl** — Schiffbauerin. Marens Pendant.
 - **Kaspar Holm** — Maler. Sorels Pendant.
 
 Varen öffnete das Tor von der Moragh-Seite — einseitig, wie immer. Er wusste nicht was auf der anderen Seite war. Er wusste nur, dass zweihundert Jahre vorher Moragh-Menschen hinübergegangen waren. Er schickte drei Feuer-Schemen durch — doppelt so groß wie Menschen, gebunden an seinen Willen. In Thalassien wurden sie als Feuerdämonen verstanden. Die Vaeler griffen an. Die Schemen wehrten sich. Teile der Stadt brannten nieder. Das große Feuer.
 
-Während die Schemen in der Stadt wüteten, öffneten die Vier das Tor von der Thalassien-Seite. Kaspar und Johann starben im Kampf mit den Schemen. Elke ging durch das Portal nach Moragh. Lene überlebte als Einzige in Thalassien. Dann lösten die Schemen sich im Rauch auf — Varen hatte ihre Bindung gekappt, nachdem er auf der Moragh-Seite auf Elke getroffen war.
+Während die Schemen in der Stadt wüteten, öffneten die Vier das Tor von der Thalassien-Seite. Kaspar und Gerrit starben im Kampf mit den Schemen. Elke ging durch das Portal nach Moragh. Lene überlebte als Einzige in Thalassien. Dann lösten die Schemen sich im Rauch auf — Varen hatte ihre Bindung gekappt, nachdem er auf der Moragh-Seite auf Elke getroffen war.
 
 Lene schrieb auf was passiert war. Varen platzierte sein eigenes "Manuskript" daneben, für das nächste Mal.
 
@@ -593,12 +636,12 @@ Lene schrieb auf was passiert war. Varen platzierte sein eigenes "Manuskript" da
 | # | ca. Seite | Inhalt |
 |---|-----------|--------|
 | 1 | 80 | Elkes Ankunft in Vael. Der Purpurstein. |
-| 2 | 170 | Johann und Elke. Erste Begegnung. Der Schmied hört das Erz singen. |
+| 2 | 170 | Gerrit und Elke. Erste Begegnung. Der Schmied hört das Erz singen. |
 | 3 | 260 | Lene findet den Steinkreis nachts. Spürt das Pochen. Läuft zurück. |
 | 4 | 350 | Kaspar malt Elke. Das Bild zeigt etwas das er nicht gemalt hat. |
 | 5 | 440 | Alle vier zusammen. Die Feuer-Schemen kommen. Drei, doppelt so groß. |
 | 6 | 530 | Elke und Kaspar. Nacht. Intimität. |
-| 7 | 620 | Kampf. Kaspar und Johann sterben. Elke geht durch. Lene überlebt allein. |
+| 7 | 620 | Kampf. Kaspar und Gerrit sterben. Elke geht durch. Lene überlebt allein. |
 | 8 | 720 | Lenes Manuskript. Letzter Eintrag. |
 | 9 | 830 | Während Alphina vor dem Tor steht: Elke auf der anderen Seite. Sie hört das Tor. Jemand kommt. |
 
@@ -610,7 +653,7 @@ Am Steinkreis begreifen die Vier, was sie tun müssen — oder was sie GLAUBEN t
 
 Alphina sagt: "Wir gehen. Alle vier."
 
-Das Ritual im Steinkreis. Vier Resonanzen, gleichzeitig. Die Luft reißt auf. Das Portal bleibt 4:33 offen. Sie gehen durch. **Runa schlüpft** in den letzten Sekunden mit durch. Fünf Menschen in Moragh, nicht vier. Das Portal schließt sich. Finn und Halvard stehen am Gartenrand und sehen alles.
+Das Ritual im Steinkreis. Vier Resonanzen, gleichzeitig. Die Luft reißt auf. Das Portal bleibt 4:33 offen. Sie gehen durch. **Runa schlüpft** in den letzten Sekunden mit durch. Fünf Menschen in Moragh, nicht vier. Das Portal schließt sich. Tohl und Halvard stehen am Gartenrand und sehen alles.
 
 **Die Falle:** Sorel stirbt in Moragh (Varens Bindungsmagie). Drei Resonanzen übrig. Das Ritual braucht vier. Der Rückweg über das Portal ist Mathematik, nicht Magie. Kein Lecken mehr, keine Moragh-Magie die durchsickert. Vael heilt WEIL das Tor geschlossen ist. Der Nebel lichtet sich. Die Grauwe fließt vorwärts. Die Pflanzen stehen still — und wachsen jetzt auch in den Steinkreis hinein. Die unsichtbare Grenze ist weg. Dämonen die schon durch waren verlieren ihre Moragh-Verbindung, verblassen über Tage. Halvard schreibt seinen Bericht. Edric Dahl an der Werft, Jara Voss im Archiv mit dem Moragh-Sprachbuch das keinen Zweck mehr hat.
 

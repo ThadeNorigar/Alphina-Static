@@ -1,0 +1,711 @@
+{
+  "meta": {
+    "titel": "Der Riss — Zeitleiste",
+    "untertitel": "Zwei Welten. Ein Tor. Zwei Zeiten.",
+    "beschreibung": "Thalassien — eine Welt ohne Magie. Moragh — eine Welt im Krieg. 1 MZ-Jahr = 400 TZ-Jahre.",
+    "zeitrechnung": {
+      "tz_null": "Erfindung des Uhrwerks",
+      "mz_null": "Durchgang der Vier nach Moragh (Ende Buch 1)",
+      "verhaeltnis": "1 MZ-Jahr = 400 TZ-Jahre",
+      "monat": "1 MZ-Monat ≈ 33 TZ-Jahre"
+    }
+  },
+
+  "typen": {
+    "portal":      { "label": "Portal",        "farbe": "#8b4513" },
+    "begegnung":   { "label": "Begegnung",     "farbe": "#4a6a7a" },
+    "erkenntnis":  { "label": "Erkenntnis",    "farbe": "#6a5080" },
+    "erotik":      { "label": "Erotik",        "farbe": "#8b3a5a" },
+    "schlüssel":   { "label": "Schlüssel",     "farbe": "#b8860b" },
+    "tod":         { "label": "Tod",           "farbe": "#6b6259" },
+    "tschechow":   { "label": "Tschechow",     "farbe": "#5a7a5a" },
+    "hintergrund": { "label": "Hintergrund",   "farbe": "#555555" }
+  },
+
+  "monate": [
+    {
+      "label": "MZ -200",
+      "tz": "TZ -79.449",
+      "mz": "MZ -200",
+      "tz_range": "TZ -79.449",
+      "events": {
+        "sync": {
+          "tz": "TZ -79.449",
+          "mz": "MZ -200",
+          "label": "Portal → Flucht nach Thalassien"
+        },
+        "thalassien": [
+          {
+            "tz": -79449, "mz": -200,
+            "titel": "Ankunft der Flüchtlinge aus Moragh",
+            "detail": "Ohne Technologie, ohne Magie. Beginn der menschlichen Geschichte in Thalassien.",
+            "typen": ["schlüssel", "portal"],
+            "tags": ["Schlüsselereignis", "Portal"]
+          }
+        ],
+        "moragh": [
+          {
+            "tz": -79449, "mz": -200,
+            "titel": "Kriegsflüchtlinge gehen nach Thalassien",
+            "detail": "Früherer Konflikt. In Moragh noch in Erinnerung — in Thalassien vorgeschichtlich.",
+            "typen": ["portal"],
+            "tags": ["Portal"]
+          }
+        ]
+      }
+    },
+
+    {
+      "label": "MZ -200 bis -6",
+      "tz": "TZ -79.449 bis -1.449",
+      "mz": "~194 MZ-Jahre",
+      "events": {
+        "thalassien": [
+          {
+            "tz": -79449, "mz": -200,
+            "titel": null,
+            "luecke": "~78.000 TZ — keine Aufzeichnungen. Evolution: kleiner, heller, Resonanz statt Magie."
+          },
+          {
+            "tz": -249, "mz": -2,
+            "titel": "Gründung von Vael",
+            "detail": "Offiziell. Der Steinkreis im Botanischen Garten ist älter.",
+            "typen": ["schlüssel"],
+            "tags": ["Schlüsselereignis"]
+          },
+          {
+            "tz": 0, "mz": -1.38,
+            "titel": "Erfindung des Uhrwerks — Beginn der TZ-Zeitrechnung",
+            "typen": ["schlüssel"],
+            "tags": ["Schlüsselereignis"]
+          }
+        ],
+        "moragh": [
+          {
+            "luecke": "~194 MZ — Städte, Quellen, Zivilisation, Magie als Handwerk"
+          }
+        ]
+      }
+    },
+
+    {
+      "label": "MZ ~-6",
+      "tz": "TZ ~-1.449",
+      "mz": "MZ ~-6 bis -5",
+      "events": {
+        "thalassien": [],
+        "moragh": [
+          {
+            "tz": -1449, "mz": -5,
+            "titel": "Varens Leylinien-Experiment scheitert",
+            "detail": "3 Reservoir-Quellen kollabieren unwiederbringlich: Keth-Varen (riesig), Dulrath-Ost (groß), Reshkol (groß). Städte verdorren. Niemand weiß dass Varen schuld ist.",
+            "typen": ["schlüssel", "tschechow"],
+            "tags": ["Schlüsselereignis", "Tschechow: Varens Schuld"]
+          }
+        ]
+      }
+    },
+
+    {
+      "label": "MZ ~-4",
+      "tz": "TZ ~-1.049",
+      "mz": "MZ ~-4",
+      "events": {
+        "thalassien": [],
+        "moragh": [
+          {
+            "tz": -1049, "mz": -4,
+            "titel": "Der Krieg beginnt — Orath vs. Thar vs. Velmar",
+            "detail": "Kampf um verbleibende Quellen. Dauert 4 MZ-Jahre (= ~1.600 TZ). Drei Fraktionen, drei Philosophien, keine Sieger.",
+            "typen": ["schlüssel"],
+            "tags": ["Schlüsselereignis"]
+          }
+        ]
+      }
+    },
+
+    {
+      "label": "MZ -4 bis -1",
+      "tz": "TZ ~-1.049 bis 154",
+      "mz": "~3 MZ-Jahre Krieg",
+      "events": {
+        "thalassien": [
+          {
+            "luecke": "~1.200 TZ — Thalassien entwickelt sich. Keine Kenntnis von Moragh."
+          }
+        ],
+        "moragh": [
+          {
+            "luecke": "~3 MZ — Krieg tobt. Thar gewinnt langsam. Binder plündern. Orath streitet intern."
+          }
+        ]
+      }
+    },
+
+    {
+      "label": "MZ Monat -12",
+      "tz": "TZ 154",
+      "mz": "MZ -1,0",
+      "buch": "Interludien (1423)",
+      "events": {
+        "thalassien": [
+          {
+            "tz": 154, "mz": -1.0,
+            "titel": "Elke kommt nach Vael — wegen des Purpursteins",
+            "detail": "Bildhauerin aus dem Süden. Berührt den Stein — er ist warm. Ein Gestein das es nirgendwo sonst gibt. Sie „hört“ seine Maserung.",
+            "pov": "I1 · Elke",
+            "typen": ["begegnung"],
+            "tags": ["Erste Begegnung: Vael"]
+          },
+          {
+            "tz": 154, "mz": -1.0,
+            "titel": "Elke bearbeitet den Klippenrand — der Botanische Garten entsteht",
+            "detail": "Wo sie den Fels öffnet, wachsen Pflanzen aus dem Stein. Spätere Generationen nennen es „Garten.“ Der Steinkreis war schon da.",
+            "pov": "Elke",
+            "typen": ["schlüssel", "tschechow"],
+            "tags": ["Schlüsselereignis", "Tschechow: Botanischer Garten"]
+          },
+          {
+            "tz": 154, "mz": -1.0,
+            "titel": "Johann trifft Elke — sein Barren summt",
+            "pov": "I2 · Johann",
+            "typen": ["begegnung"],
+            "tags": ["Erste Begegnung: Johann + Elke"]
+          },
+          {
+            "tz": 154, "mz": -1.0,
+            "titel": "Lene findet den Steinkreis nachts — er pulsiert",
+            "pov": "I3 · Lene",
+            "typen": ["erkenntnis"],
+            "tags": ["Erkenntnis: Steinkreis lebt"]
+          },
+          {
+            "tz": 154, "mz": -1.0,
+            "titel": "Kaspars Bild zeigt Tunnel und Gestalt mit schwarzen Augen",
+            "detail": "Er kratzt die Stelle ab. Am Morgen ist sie wieder da, dunkler.",
+            "pov": "I4 · Kaspar",
+            "typen": ["tschechow"],
+            "tags": ["Tschechow: Schemen in Kunst"]
+          },
+          {
+            "tz": 154, "mz": -1.0,
+            "titel": "Elke und Kaspar: Nacht vor dem Kampf",
+            "detail": "Nicht Liebe — weil morgen der Tod kommen könnte. Schemen beobachten vor den Fenstern.",
+            "pov": "I5 · Elke",
+            "typen": ["erotik"],
+            "tags": ["Erotik: Explizit"]
+          },
+          {
+            "tz": 154, "mz": -1.0,
+            "titel": "Das Große Feuer — Kaspar und Johann sterben, Elke geht durch",
+            "detail": "Varen schickt 3 Feuer-Schemen. Kaspar + Johann fallen. Elke → Moragh. Lene überlebt allein, schreibt das Manuskript.",
+            "pov": "I6/I7",
+            "typen": ["portal", "tod", "schlüssel"],
+            "tags": ["Portal: Elke → Moragh", "Tod: Kaspar, Johann", "Schlüsselereignis"]
+          }
+        ],
+        "moragh": [
+          {
+            "tz": 154, "mz": -1.0,
+            "titel": "Varen öffnet das Tor — 3 Feuer-Schemen nach Thalassien",
+            "typen": ["portal"],
+            "tags": ["Portal"]
+          },
+          {
+            "tz": 154, "mz": -1.0,
+            "titel": "Elke kommt in Moragh an — trifft Varen",
+            "detail": "Er kappt die Schemen-Bindung als er Elke sieht.",
+            "typen": ["begegnung"],
+            "tags": ["Erste Begegnung: Elke + Varen"]
+          }
+        ]
+      }
+    },
+
+    {
+      "label": "MZ Monat -11 bis -7",
+      "tz": "TZ 154–354",
+      "mz": "MZ -0,92 bis -0,58",
+      "events": {
+        "thalassien": [
+          {
+            "luecke": "Vael baut nach dem Feuer wieder auf. Lene schreibt."
+          }
+        ],
+        "moragh": [
+          {
+            "tz": 154, "mz": -1.0,
+            "titel": "Elke + Varen: 6 Monate Beziehung",
+            "detail": "Liebe, Forschung, Thalassisch-Unterricht. Intellektuelle und körperliche Anziehung.",
+            "typen": ["erotik"],
+            "tags": ["Erotik: Beziehung"]
+          },
+          {
+            "tz": 154, "mz": -1.0,
+            "titel": "Elke baut ihren Garten in Moragh",
+            "detail": "Formt Stein mit Erde/Stein-Resonanz — Hand auf Basalt, und er gibt nach. Pflanzen aus beiden Welten wachsen aus dem Stein den sie geformt hat.",
+            "pov": "Elke",
+            "typen": ["schlüssel", "tschechow"],
+            "tags": ["Schlüsselereignis", "Tschechow: Elkes Moragh-Garten"]
+          }
+        ]
+      }
+    },
+
+    {
+      "label": "MZ Monat -6",
+      "tz": "TZ ~354",
+      "mz": "MZ -0,5",
+      "events": {
+        "thalassien": [],
+        "moragh": [
+          {
+            "tz": 354, "mz": -0.5,
+            "titel": "Elke verlässt Varen",
+            "detail": "„Du willst die Welt reparieren und wirst Menschen zerbrechen dabei.“ Sie geht. Er macht weiter. Allein.",
+            "typen": ["erkenntnis", "schlüssel"],
+            "tags": ["Erkenntnis: Elke durchschaut Varen", "Schlüsselereignis"]
+          }
+        ]
+      }
+    },
+
+    {
+      "label": "MZ Monat -5 bis -3",
+      "tz": "TZ ~354–485",
+      "mz": "MZ -0,42 bis -0,25",
+      "events": {
+        "thalassien": [
+          {
+            "luecke": "~130 TZ vergehen. Vael heilt."
+          }
+        ],
+        "moragh": [
+          {
+            "tz": 354, "mz": -0.42,
+            "titel": "Varen plant die Rückholung — allein",
+            "detail": "Bereitet Agenten vor. Elke baut ihren Garten: Pflanzen aus beiden Welten.",
+            "typen": ["hintergrund"],
+            "tags": ["Hintergrund"]
+          }
+        ]
+      }
+    },
+
+    {
+      "label": "MZ Monat -2",
+      "tz": "TZ ~485",
+      "mz": "MZ -0,17",
+      "events": {
+        "thalassien": [
+          {
+            "tz": 485, "mz": -0.17,
+            "titel": "Haron Dahl kommt durch das Portal",
+            "detail": "Varens Agent. Übernimmt die Werft, lebt ein ganzes Leben in Vael, stirbt an Alter + Schwerkraft.",
+            "typen": ["portal", "tschechow"],
+            "tags": ["Portal: Moragh → Thal.", "Tschechow: Boot + Werft"]
+          },
+          {
+            "tz": 500, "mz": -0.13,
+            "titel": "Weitere Agenten kommen durch",
+            "detail": "Uhrmacher (Köder Vesper), Artikel-Verfasser (Köder Alphina), Platten-Fälscher (Köder Sorel).",
+            "typen": ["portal", "tschechow"],
+            "tags": ["Portal: Moragh → Thal.", "Tschechow: Köder"]
+          }
+        ],
+        "moragh": [
+          {
+            "tz": 485, "mz": -0.17,
+            "titel": "Varen schickt Agenten nach Thalassien",
+            "detail": "Für ihn Wochen — für sie Jahrzehnte. Vier Köder, vier Methoden.",
+            "typen": ["portal"],
+            "tags": ["Portal: Moragh → Thal."]
+          }
+        ]
+      }
+    },
+
+    {
+      "label": "Buch 1 — MZ Monat -1 bis 0",
+      "tz": "TZ ~551 (Frühling–Herbst)",
+      "mz": "MZ -0,08 bis 0",
+      "buch": "Buch 1: Der Riss",
+      "events": {
+        "thalassien": [
+          {
+            "tz": 551, "mz": 0,
+            "titel": "Ein Farn dreht seinen Wedel nach Alphina",
+            "pov": "Kap 01 · Alphina",
+            "kapitel": "01",
+            "typen": ["erkenntnis", "tschechow"],
+            "tags": ["Erkenntnis: Resonanz", "Tschechow: Farn-Artikel (Agent)"]
+          },
+          {
+            "tz": 551, "mz": 0,
+            "titel": "Sorel findet sein Gesicht auf einer Glasplatte aus Vael",
+            "pov": "Kap 02 · Sorel",
+            "kapitel": "02",
+            "typen": ["schlüssel", "tschechow"],
+            "tags": ["Schlüsselereignis", "Tschechow: Glasplatte (Agent)"]
+          },
+          {
+            "tz": 551, "mz": 0,
+            "titel": "Reisender Uhrmacher erzählt von der 4:33-Standuhr",
+            "pov": "Kap 03 · Vesper",
+            "kapitel": "03",
+            "typen": ["tschechow"],
+            "tags": ["Tschechow: 4:33 + Agent"]
+          },
+          {
+            "tz": 551, "mz": 0,
+            "titel": "Maren erbt Haron Dahls Werft und das halbfertige Boot",
+            "pov": "Kap 04 · Maren",
+            "kapitel": "04",
+            "typen": ["tschechow"],
+            "tags": ["Tschechow: Boot + Haron = Agent"]
+          },
+          {
+            "tz": 551, "mz": 0,
+            "titel": "Alphina in Vael. Trifft Runa Kvist — Druckerin mit warmen Händen.",
+            "pov": "Kap 05 · Alphina",
+            "kapitel": "05",
+            "typen": ["begegnung"],
+            "tags": ["Erste Begegnung: Runa"]
+          },
+          {
+            "tz": 551, "mz": 0,
+            "titel": "Standuhr verliert 4:33 — reagiert auf Vesper",
+            "pov": "Kap 07 · Vesper",
+            "kapitel": "07",
+            "typen": ["erkenntnis", "tschechow"],
+            "tags": ["Erkenntnis: Standuhr reagiert", "Tschechow: 4:33"]
+          },
+          {
+            "tz": 551, "mz": 0,
+            "titel": "Boot baut sich nachts weiter — Schemen arbeiten",
+            "pov": "Kap 08 · Maren",
+            "kapitel": "08",
+            "typen": ["tschechow"],
+            "tags": ["Tschechow: Boot + Schemen"]
+          },
+          {
+            "tz": 551, "mz": 0,
+            "titel": "Alphina und Sorel treffen sich im Botanischen Garten",
+            "pov": "Kap 12 · Alphina",
+            "kapitel": "12",
+            "typen": ["begegnung"],
+            "tags": ["Erste Begegnung: Alphina + Sorel"]
+          },
+          {
+            "tz": 551, "mz": 0,
+            "titel": "Vesper und Maren: erste Begegnung im Uhrengeschäft",
+            "pov": "Kap 15 · Vesper/Maren",
+            "kapitel": "15",
+            "typen": ["begegnung", "erotik"],
+            "tags": ["Erste Begegnung: Vesper + Maren", "Erotik: Tension"]
+          },
+          {
+            "tz": 551, "mz": 0,
+            "titel": "Vier Resonanzen erstmals zusammen — Herzschlag unter der Erde",
+            "pov": "Kap 18",
+            "kapitel": "18",
+            "typen": ["schlüssel"],
+            "tags": ["Schlüsselereignis"]
+          },
+          {
+            "tz": 551, "mz": 0,
+            "titel": "Manuskript: 400 Jahre alt, Fingerabdrücke mit zu vielen Gelenken",
+            "pov": "Kap 19 · Vesper",
+            "kapitel": "19",
+            "typen": ["erkenntnis", "tschechow"],
+            "tags": ["Erkenntnis: Manuskript", "Tschechow: Manuskript gefälscht"]
+          },
+          {
+            "tz": 551, "mz": 0,
+            "titel": "Dunkelkammer: Alphina und Sorel — erste Nacht",
+            "detail": "Farne wachsen durch Kellerwände. Schem beobachtet.",
+            "pov": "Kap 22 · Alphina/Sorel",
+            "kapitel": "22",
+            "typen": ["erotik"],
+            "tags": ["Erotik: Explizit"]
+          },
+          {
+            "tz": 551, "mz": 0,
+            "titel": "Vesper und Maren: erste Nacht — Dom/Sub",
+            "detail": "Maren bleibt. Uhren ticken im Takt ihres Atems.",
+            "pov": "Kap 23 · Vesper/Maren",
+            "kapitel": "23",
+            "typen": ["erotik"],
+            "tags": ["Erotik: Explizit · Dom/Sub"]
+          },
+          {
+            "tz": 551, "mz": 0,
+            "titel": "Alphina findet die heimlichen Fotos — „Du hast mich genommen ohne zu fragen“",
+            "pov": "Kap 25 · Alphina",
+            "kapitel": "25",
+            "typen": ["schlüssel", "tschechow"],
+            "tags": ["Schlüsselereignis", "Tschechow feuert: „Darf ich?“"]
+          },
+          {
+            "tz": 551, "mz": 0,
+            "titel": "Schem berührt Alphinas Wange — Varens Hand aus einer anderen Welt",
+            "pov": "Kap 26 · Alphina",
+            "kapitel": "26",
+            "typen": ["erotik", "tschechow"],
+            "tags": ["Erotik: Grenzverletzung", "Tschechow: Kinn-Geste"]
+          },
+          {
+            "tz": 551, "mz": 0,
+            "titel": "Runa entdeckt ihre Feuer-Resonanz — Hände glühen",
+            "pov": "Kap 31",
+            "kapitel": "31",
+            "typen": ["erkenntnis", "begegnung"],
+            "tags": ["Erkenntnis: Runa = Feuer", "Erste Begegnung: Thar-Schemen"]
+          },
+          {
+            "tz": 551, "mz": 0,
+            "titel": "4:33 + Gezeiten = Varens Atem — jemand lebt auf der anderen Seite",
+            "pov": "Kap 32 · Vesper",
+            "kapitel": "32",
+            "typen": ["erkenntnis", "schlüssel"],
+            "tags": ["Erkenntnis: 4:33 = Atem", "Schlüsselereignis"]
+          },
+          {
+            "tz": 551, "mz": 0,
+            "titel": "„Darf ich?“ — Sorel hält Alphinas Hand ungebeten. Der Garten blüht.",
+            "pov": "Kap 34 · Alphina",
+            "kapitel": "34",
+            "typen": ["erotik", "tschechow"],
+            "tags": ["Erotik: Zärtlichkeit", "Tschechow feuert: „Darf ich?“"]
+          },
+          {
+            "tz": 551, "mz": 0,
+            "titel": "Das Ritual — Portal öffnet sich",
+            "detail": "Vier Resonanzen im Steinkreis. Luft reißt auf. 4:33 offen. Runa schlüpft als Fünfte durch.",
+            "pov": "Kap 35",
+            "kapitel": "35",
+            "typen": ["portal", "schlüssel"],
+            "tags": ["Portal → Moragh", "Schlüsselereignis"]
+          },
+          {
+            "tz": 551, "mz": 0,
+            "titel": "Vael ohne die Fünf — Anomalien enden sofort",
+            "detail": "Schemen verschwinden schlagartig. Nebel lichtet. Grauwe fließt vorwärts. Steinkreis kalt. Tohl und Halvard stehen am Gartenrand.",
+            "pov": "Kap 41",
+            "kapitel": "41",
+            "typen": ["hintergrund"],
+            "tags": ["Hintergrund: Vael heilt"]
+          }
+        ],
+        "moragh": [
+          {
+            "tz": 551, "mz": 0,
+            "titel": "Elke in ihrem Garten. Weiß nicht dass Varen das Tor öffnete.",
+            "typen": ["hintergrund"],
+            "tags": ["Hintergrund"]
+          }
+        ],
+        "sync": {
+          "tz": "TZ ~551",
+          "mz": "MZ 0",
+          "label": "Portal → Die Vier + Runa nach Moragh"
+        }
+      }
+    },
+
+    {
+      "label": "MZ Monat 1",
+      "tz": "TZ ~551–583",
+      "mz": "MZ 0 bis 0,08",
+      "buch": "Buch 2: Das Auge",
+      "events": {
+        "thalassien": [
+          {
+            "tz": 551, "mz": 0,
+            "titel": "Halvard schreibt seinen Bericht",
+            "detail": "Sachlich, präzise. Fünf Personen, Licht, Riss, dann niemand. Seriös genug nicht ignoriert. Verrückt genug Jahrhunderte lang angezweifelt.",
+            "typen": ["hintergrund"],
+            "tags": ["Hintergrund"]
+          }
+        ],
+        "moragh": [
+          {
+            "tz": 551, "mz": 0,
+            "titel": "Elke spürt fünf Resonanzen — rennt zum Steinplatz",
+            "detail": "Vibration im Stein. Thar-Späher auch unterwegs. Alphinas Ausbruch meilenweit spürbar.",
+            "pov": "I9 · Elke",
+            "kapitel": "I9",
+            "typen": ["portal", "erkenntnis"],
+            "tags": ["Portal", "Erkenntnis: Fünf statt vier"]
+          },
+          {
+            "tz": 551, "mz": 0,
+            "titel": "Varen tritt aus dem Schatten — Hand an Alphinas Kinn",
+            "detail": "Purpurne Augen, altes Thalassisch. „Eure Resonanz. Ich hab sie durch den Riss erspüret.“",
+            "pov": "Kap 36",
+            "kapitel": "36",
+            "typen": ["begegnung", "erotik", "schlüssel"],
+            "tags": ["Erste Begegnung: Varen", "Erotik: Grenzverletzung", "Schlüsselereignis"]
+          },
+          {
+            "tz": 551, "mz": 0,
+            "titel": "Sorel stirbt. Varen hätte helfen können. Tut es nicht.",
+            "detail": "Bindungsmagie. Bilder explodieren. Weiße Blumen. Alphinas Explosion: Dornen-Dschungel. Varen zieht sich zurück.",
+            "pov": "Kap 37",
+            "kapitel": "37",
+            "typen": ["tod", "schlüssel", "erkenntnis"],
+            "tags": ["Tod: Sorel", "Schlüsselereignis", "Erkenntnis: Die Falle"]
+          },
+          {
+            "tz": 551, "mz": 0,
+            "titel": "Elke findet die Überlebenden",
+            "detail": "Altes Thalassisch von TZ 154. „Fuhre“ statt „Kutsche.“ Wusste nichts von Varens Aktion.",
+            "pov": "Kap 39",
+            "kapitel": "39",
+            "typen": ["begegnung"],
+            "tags": ["Erste Begegnung: Elke"]
+          },
+          {
+            "tz": 551, "mz": 0,
+            "titel": "Alphinas Dornen — Hass wächst buchstäblich",
+            "detail": "Erste Nacht in Moragh. Farne → Dornen. „Sie wird ihn finden. Sie wird ihn töten.“",
+            "pov": "Kap 40 · Alphina",
+            "kapitel": "40",
+            "typen": ["schlüssel", "tschechow"],
+            "tags": ["Schlüsselereignis", "Tschechow: Farne → Dornen"]
+          }
+        ]
+      }
+    },
+
+    {
+      "label": "MZ Monat 2",
+      "tz": "TZ ~583–651",
+      "mz": "MZ 0,08 bis 0,17",
+      "events": {
+        "thalassien": [
+          {
+            "luecke": "~32 TZ vergehen. Vael vergisst langsam."
+          }
+        ],
+        "moragh": [
+          {
+            "tz": 591, "mz": 0.1,
+            "titel": "Alphinas Macht wächst unkontrolliert",
+            "detail": "Resonanz ohne Preis. In einer Welt wo Magie den Körper kostet. Alle Fraktionen wollen sie.",
+            "typen": ["erkenntnis"],
+            "tags": ["Erkenntnis: kostenlose Resonanz = Waffe"]
+          },
+          {
+            "tz": 591, "mz": 0.1,
+            "titel": "Alphina + Runa: aus Freundschaft wird mehr",
+            "detail": "Anders als Sorel. Zwei Menschen die beide nicht wissen was sie tun.",
+            "typen": ["erotik"],
+            "tags": ["Erotik: Beziehung"]
+          },
+          {
+            "tz": 619, "mz": 0.17,
+            "titel": "Thar entdeckt Runas Feuer-Resonanz",
+            "detail": "Wollen sie für sich. Runa muss wählen.",
+            "typen": ["schlüssel"],
+            "tags": ["Schlüsselereignis"]
+          }
+        ]
+      }
+    },
+
+    {
+      "label": "MZ Monat 3",
+      "tz": "TZ ~651",
+      "mz": "MZ 0,17 bis 0,25",
+      "events": {
+        "sync": {
+          "tz": "TZ ~651",
+          "mz": "MZ ~0,25",
+          "label": "Portal → Maren geht nach Thalassien"
+        },
+        "thalassien": [
+          {
+            "tz": 651, "mz": 0.25,
+            "titel": "Maren kommt an — allein, gestrandet",
+            "detail": "~100 TZ seit dem Durchgang. Zu wenig Resonanz allein für den Rückweg. Absichtlich.",
+            "typen": ["portal"],
+            "tags": ["Portal: Moragh → Thal."]
+          }
+        ],
+        "moragh": [
+          {
+            "tz": 651, "mz": 0.25,
+            "titel": "Maren öffnet Portal — geht allein",
+            "detail": "Vesper bleibt bei Nyr und der Thar. Maren geht — absichtlich gestrandet.",
+            "typen": ["portal", "schlüssel"],
+            "tags": ["Portal → Thalassien", "Schlüsselereignis"]
+          }
+        ]
+      }
+    },
+
+    {
+      "label": "MZ Monat 4 bis MZ Jahr 5,5",
+      "tz": "TZ ~651–2.751",
+      "mz": "MZ 0,25 bis 5,5",
+      "events": {
+        "thalassien": [
+          {
+            "luecke": "~2.100 TZ — Vael wird Großstadt. Industrialisierung. Wissenschaft."
+          }
+        ],
+        "moragh": [
+          {
+            "luecke": "~5 MZ — Krieg geht weiter. Alphina, Vesper, Runa altern."
+          }
+        ]
+      }
+    },
+
+    {
+      "label": "MZ Jahr ~5,5 — Buch 3",
+      "tz": "TZ ~2.751",
+      "mz": "MZ ~5,5",
+      "buch": "Buch 3: Die Quelle",
+      "events": {
+        "sync": {
+          "tz": "TZ ~2.751",
+          "mz": "MZ ~5,5",
+          "label": "Portal → Wiedervereinigung"
+        },
+        "thalassien": [
+          {
+            "tz": 2751, "mz": 5.5,
+            "titel": "Portal öffnet sich erneut",
+            "detail": "Wissenschaftler verstehen das Tor. Vael ist Großstadt.",
+            "typen": ["portal"],
+            "tags": ["Portal"]
+          }
+        ],
+        "moragh": [
+          {
+            "tz": 2751, "mz": 5.5,
+            "titel": "Thalassien-Wissenschaftler erkennen die „Sonne“ als Schwarzes Loch",
+            "typen": ["erkenntnis"],
+            "tags": ["Erkenntnis: Schwarzes Loch"]
+          },
+          {
+            "tz": 2751, "mz": 5.5,
+            "titel": "Alphina stirbt",
+            "detail": "Die Pflanzen wachsen ein letztes Mal. Dann Stille.",
+            "typen": ["tod", "schlüssel"],
+            "tags": ["Tod: Alphina", "Schlüsselereignis"]
+          },
+          {
+            "tz": 2751, "mz": 5.5,
+            "titel": "Die Quelle bleibt offen",
+            "detail": "Nicht als Tor — als Grenze die beide Seiten akzeptieren.",
+            "typen": ["schlüssel"],
+            "tags": ["Schlüsselereignis"]
+          }
+        ]
+      }
+    }
+  ]
+}

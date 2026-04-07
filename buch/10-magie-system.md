@@ -74,7 +74,7 @@ DAS ist der Konflikt. Nicht ein versteckter Preis — die UNGERECHTIGKEIT selbst
 ### Maren / Wasser
 
 **Buch 1 — "Das Meer ist seltsam heute"**
-- Gezeiten stimmen nicht. Finn: "War schon immer so." Aber häufiger seit Maren da ist.
+- Gezeiten stimmen nicht. Tohl: "War schon immer so." Aber häufiger seit Maren da ist.
 - Am Hafen: Wasseroberfläche wird glatt genau wo sie steht. Wie eine Hand über Tischtuch. Könnte Wind sein.
 - Tee mit Vesper: Tee kräuselt sich im Rhythmus ihres Atems. Er sieht es. Sagt nichts.
 
