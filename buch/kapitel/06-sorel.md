@@ -27,7 +27,7 @@ Seine Hand hing in der Luft, den eigenen Nagel zwischen Daumen und Zeigefinger. 
 
 Er hängte die Rotlichtlampe daran. Öl eingefüllt, Docht geprüft, Streichholz. Das Rotlicht kam — die Welt wurde kleiner, bekannter, die Ränder weicher. Kellerluft, Rotlicht, der Geruch von Chemie über dem Geruch von warmem Stein. Seine Hände im Rotlicht waren wieder seine — die Adern verschwanden, die Knöchel traten zurück, die Finger wurden Werkzeuge. Er atmete ein. Der erste volle Atemzug seit sechs Tagen.
 
-Das Lichthaus hatte er am Morgen gefunden. Drei Stockwerke, breit, Speichertore im Erdgeschoss, verriegelt, verrostet. Er kannte es von der Platte — die Proportionen, die Breite der Mauer, die Höhe der Tore. Sein Körper erkannte den Ort bevor sein Verstand ihn einholte.
+Das Lichthaus hatte er am Morgen gefunden. Drei Stockwerke, breit, Speichertore im Erdgeschoss, verriegelt, verrostet. Er kannte es von der Platte — die Proportionen, die Breite der Mauer, die Höhe der Tore. Dreizehn Jahre hatte er das Bild studiert. Jetzt stand das Bild vor ihm, in Stein.
 
 Der Vermieter wohnte im Erdgeschoss. Runder Kopf, Schürze über dem Bauch, die Hände feucht von der Suppe die auf dem Herd hinter ihm dampfte. Er musterte Sorel — die Ledertasche, den Kasten, die bleichen Hände, die Augen die seinem Blick auswichen.
 
@@ -53,7 +53,7 @@ Jetzt, im Rotlicht, war es wieder so. Nur wärmer. Der Keller in Nachtholm hatte
 
 Die Platte.
 
-Er wickelte den Kasten aus, Kante für Kante, die Schnüre gelöst, das Papier gefaltet. Sieben Glasplatten, eingewickelt in Packpapier, jede einzeln, die Ecken sauber gefaltet. Die siebte lag obenauf. Er nahm sie heraus, hielt sie gegen das Rotlicht. Das Bild war da — ein Hafen, eine Kaimauer, Masten. Sein Gesicht im Dunst, scharf, ruhig, wissend. Daneben, halb verborgen, eine zweite Gestalt — Schultern, ein Kopf, die Andeutung eines Körpers. Jemand der neben ihm stand, auf einem Bild das Jahrzehnte alt war, in einer Stadt die er nie betreten hatte.
+Er wickelte den Kasten aus, Kante für Kante, die Schnüre gelöst, das Papier gefaltet. Sieben Glasplatten, eingewickelt in Packpapier, jede einzeln, die Ecken sauber gefaltet. Die siebte lag obenauf. Er nahm sie heraus, hielt sie gegen das Rotlicht. Das Bild war da — ein Hafen, eine Kaimauer, Masten. Sein Gesicht im Dunst, scharf, ruhig, wissend. Daneben, halb verborgen, eine zweite Gestalt — Schultern, ein Kopf, die Andeutung eines Körpers. Jemand der neben einem Gesicht stand das aussah wie seines, auf einem Bild das Jahrzehnte alt war, aus einer Stadt die er nie betreten hatte.
 
 Seit sechs Tagen dachte er an nichts anderes. An die zweite Gestalt wenn er die Augen schloss. Wenn er sie öffnete. In den Stunden dazwischen, in denen er nicht schlief — weil er in Kutschen nicht schlief, weil Schlaf bedeutete die Hände vom Kasten zu nehmen.
 
@@ -86,9 +86,9 @@ Am Kai baute er das Stativ auf. Holzbeine, Messingverschlüsse, die Kamera darau
 
 Der Winkel stimmte. Die Kaimauer vor ihm, der Stein dunkel, die Masten im Dunst. Der Ort auf der Platte, der Ort vor seinen Augen — deckungsgleich, bis auf das Licht, bis auf die Jahrzehnte, bis auf das Gesicht das fehlte.
 
-Am Morgen, als die Kutsche den Hafen erreichte und der Kutscher etwas im Küstendialekt rief, hatte Sorel durch das Fenster geschaut und den Stein erkannt. Nicht die Farbe, die er im Laternenlicht ohnehin nicht hätte lesen können. Den Ton. Den Grauwert, den er von der siebten Platte kannte, eingebrannt in seine Netzhaut nach hundert Sitzungen im Rotlicht. Derselbe Ton. Als er über den Kai ging, den Kasten unter dem Arm, hatte er den Stein unter seinen Sohlen gespürt und gewusst: hier. Hier hatte er gestanden, auf der Platte, vor Jahrzehnten. Seine Schuhe auf demselben Stein, sein Körper im selben Winkel. Sein Körper erkannte den Ort bevor sein Verstand ihn einholte.
+Am Morgen, als die Kutsche den Hafen erreichte und der Kutscher etwas im Küstendialekt rief, hatte Sorel durch das Fenster geschaut und den Stein erkannt. Nicht die Farbe, die er im Laternenlicht ohnehin nicht hätte lesen können. Den Ton. Den Grauwert, den er von der siebten Platte kannte, eingebrannt in seine Netzhaut nach hundert Sitzungen im Rotlicht. Derselbe Ton. Als er über den Kai ging, den Kasten unter dem Arm, hatte er die Stelle gefunden — die Stelle, an der das Gesicht auf der Platte stand. Sein Gesicht, oder das von etwas das aussah wie er. Seine Füße auf dem Stein, an dem Punkt an dem die Platte belichtet worden war.
 
-Jetzt stand er dort zum zweiten Mal. Kamera aufgebaut, Platte bereit. Der Dunst lag auf dem Wasser, dicht, das Meer darunter still. Irgendwo tropfte Wasser von einer Planke. Taue hingen von den Masten, schwer, die Fasern dunkel vor Salz. Sonst nichts.
+Jetzt stand er dort mit der Kamera. Kamera aufgebaut, Platte bereit. Der Dunst lag auf dem Wasser, dicht, das Meer darunter still. Irgendwo tropfte Wasser von einer Planke. Taue hingen von den Masten, schwer, die Fasern dunkel vor Salz. Sonst nichts.
 
 Kälte.
 
@@ -159,7 +159,7 @@ Ein Schatten ohne Körper. Auf einer Platte in seinem Keller in Vael.
 
 Sorel hängte die Platte an die Schnur. Nass, tropfend, der Fixierer lief über die Oberfläche. Er stand davor. Der Schatten tropfte nicht.
 
-Sein Blick ging zum Tisch. Zur siebten Platte. Zu dem Gesicht darauf — seinem Gesicht, im Dunst eines Hafens, vor Jahrzehnten. Das Gesicht schaute geradeaus. Es hatte seinen schiefen Brauenwinkel, seine Falte, seinen Mund. Dreizehn Jahre hatte er es angeschaut und nie gefragt wie es dort hingekommen war. Jetzt stand die Frage im Raum, formlos, und er schob sie weg.
+Sein Blick ging zum Tisch. Zur siebten Platte. Zu dem Gesicht darauf — seinem Gesicht, oder dem was er dreizehn Jahre lang für seines gehalten hatte. Es hatte seinen schiefen Brauenwinkel, seine Falte, seinen Mund. Dieselbe Narbe am Kinn. Dreizehn Jahre hatte er es angeschaut und nie gefragt wie es dort hingekommen war. Jetzt, nach dem was am Poller gestanden und ihn mit seinen eigenen Augen angeschaut hatte, stand die Frage im Raum. Er schob sie nicht weg. Sie ging von selbst nicht.
 
 Stuhl. Sitzen. Rotlichtlampe, der Docht leise zischend, Öl für Stunden. Hände auf den Knien. Flach. Ruhig. Der Stein an seinem Rücken war warm, durch die Lehne, durch das Hemd. Die Wärme hielt ihn. Er ließ sich halten.
 
