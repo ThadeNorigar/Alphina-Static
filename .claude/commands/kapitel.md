@@ -8,7 +8,8 @@ Du schreibst das nächste Kapitel von "Der Riss".
 2. Lies `buch/00-welt.md` — Welt, Figuren, Magie
 3. Lies `buch/02-stilregeln-v2.md` — Stilregeln (inkl. Stakkato-Verbot, Dialog-Regeln)
 4. Lies die letzten **2-3 fertigen Kapitel** in `buch/kapitel/` — für Ton, Konsistenz UND um Wiederholungen zu vermeiden
-5. Prüfe: Welche Tschechow-Waffen sind geladen? Was muss aufgegriffen werden?
+5. **Cross-POV-Check:** Lies ALLE vorherigen Kapitel die am selben Ort spielen. Was wurde dort schon beschrieben? Was darf NICHT wiederholt werden? Welches POV-Vokabular ist schon vergeben?
+6. Prüfe: Welche Tschechow-Waffen sind geladen? Was muss aufgegriffen werden?
 
 ## Phase 1: Szenenplan
 
@@ -30,6 +31,7 @@ Erstelle `buch/kapitel/XX-entwurf.md` mit:
 | **Szenentyp-Abgleich** | Wie beginnen die letzten 2-3 Kapitel? (Anreise, Gasthaus, Werkstatt, Begegnung?) **Keine Wiederholung.** Wenn das letzte Kapitel mit einer Anreise beginnt, beginnt dieses Kapitel ANDERS. |
 | **Orts-Inventur** | Was ist über den Ort (z.B. Vael) bereits beschrieben? Liste der etablierten Atmosphäre-Elemente. Nur NEUE Sinneseindrücke für dieses Kapitel. Keine Wiederholung von Nebel/Purpurstein/Feuchtigkeit wenn bereits in 2+ Kapiteln beschrieben. |
 | **Dialog-Planung** | Jedes Gespräch im Entwurf muss die logischen Schritte enthalten. Wer fragt was? Was muss geklärt werden? Preis vor Schlüssel, Vorstellung vor Vertrauen. Kein Filmdrehbuch — Romanprosa. |
+| **Cross-POV-Check** | Welche vorherigen Kapitel spielen am selben Ort? Was wurde dort beschrieben? Was darf NICHT wiederholt werden? Welches POV-Vokabular ist vergeben? Was sagt DIESER POV Neues über den Ort? |
 
 Dann: Council auf den Entwurf (`/council buch/kapitel/XX-entwurf.md`)
 

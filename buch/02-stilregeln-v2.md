@@ -8,6 +8,10 @@
 | "wie etwas das..." Vergleiche | 4 |
 | Erklärende Nachsätze ("weil...", "nicht weil... sondern weil...") | Nur wenn Alphinas Gedankengang es BRAUCHT. Sonst: Handlung stehen lassen. |
 | Deppenapostrophe (Haron's, Klaus's, Vesper's) | **0.** Deutsch: Harons Boot, Vespers Uhr. Apostroph NUR bei Namen auf s/z: "Voss' Nichte", "Edrics Werkbank." |
+| Markante Phrase wiederholt ("dreizehn Jahre", "die Routine") | 3-4 pro Kapitel. Jede an eigenem Zweck. |
+| "als hätte/wäre/könnte..." Hypothetische Konstruktionen | ~6 pro Kapitel. Bewusst einsetzen, nicht als Standardanschluss. |
+| Redundanter Nachsatz nach treffendem Wort | **0.** "Unverwechselbar, ein Geruch den man nicht verwechselte weil..." — der zweite Halbsatz ist überflüssig. Wenn das Wort den Job erledigt, keinen Nachsatz. |
+| Zeitebenen pro Abschnitt (zwischen ---) | Max 2-3. Keine Rückblenden vor Spannungshöhepunkten. |
 
 ## Rhythmus
 
@@ -76,6 +80,33 @@ Dialoge müssen **alltagslogisch** sein. Kein Filmdrehbuch. Prüfe:
 - Mehr als 3 Einwort-Antworten pro Kapitel
 - Fehlende Höflichkeitsformeln bei Erstbegegnungen
 - **Dialog-Realismus:** Fehlen logische Schritte in Gesprächen? Würde ein echter Mensch so reden?
+
+## POV-Vokabular
+
+Jeder POV hat **eigene Wörter** für gemeinsame Phänomene. Keine zwei POVs benutzen dieselbe Formulierung für dasselbe Detail.
+
+| Phänomen | Alphina | Sorel | Vesper | Maren |
+|----------|---------|-------|--------|-------|
+| Nebel/Dunst | "Nebel" (physisch, Wetter) | "Dunst" (Tonwert, visuell) | "Dunst" (Störfaktor, Unschärfe) | offen |
+| Purpurstein | durch Botanikerin-Linse (Textur, Wärme) | durch Fotografen-Linse (Grauwert, Ton) | durch Uhrmacher-Linse (Material, Härte) | offen |
+| Anomalien | wissenschaftlich (registriert, katalogisiert) | visuell (Belichtung, Entwicklung) | mechanisch (Abweichung, Muster) | offen |
+
+## Aftermath-Pacing
+
+Nach einem Climax-Moment (Horror, Enthüllung, Gänsehaut) **nicht komprimieren**. Der Leser braucht Raum. Mindestens 3-4 Beats zwischen Peak und Kapitelende:
+- Körper (Hände, Atem, Herzschlag)
+- Raum (Wände, Licht, Geruch — die Welt existiert noch)
+- Stille (ein Moment in dem nichts passiert)
+- Die Frage (was bleibt, was sich verschoben hat)
+
+## Cross-POV-Regel
+
+Wenn mehrere POVs denselben Ort besuchen: das spätere Kapitel darf **NICHT** wiederholen:
+- Dieselbe Ankunftssequenz (Kutsche → Ankunft → Unterkunft → Dialog)
+- Dieselben Sinnesbeschreibungen (Stein-Farbe, Gaslampen-Kreise, süßlicher Geruch)
+- Dasselbe Dialog-Muster (Wirt: kurze Frage → knappe Antwort → mustern → Preis)
+
+Der zweite POV muss etwas **NEUES** über den Ort sagen. Was sieht dieser POV, das der andere nicht sah?
 
 ## Szenenführung
 

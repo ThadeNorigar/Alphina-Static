@@ -42,6 +42,7 @@ Gehe JEDEN Absatz durch. Für jeden Absatz frage:
 - Ich-Perspektive = noch strenger, NUR Alphinas Wahrnehmung
 - Keine auktorialen Einschübe. Kein "Sie wusste nicht dass..."
 - Der Narrator darf NICHT vorgreifen: keine Info die erst später im Kapitel etabliert wird
+- **Premature Doubt:** Die Figur darf NICHT zweifeln oder hinterfragen bevor das auslösende Ereignis stattfindet. Wenn Sorel erst in Szene 3 sein Gesicht auf dem Schemen sieht, darf er in Szene 1 nicht fragen ob die Platte "wirklich sein Gesicht" zeigt.
 
 **4. Timeline im Absatz:**
 - Tageszeit: konsistent mit dem vorherigen Absatz?
@@ -67,6 +68,8 @@ Gehe JEDEN Absatz durch. Für jeden Absatz frage:
 - Figur-Positionen: ist die Figur dort wo sie sein sollte?
 - Gegenstände: hat die Figur das Objekt bei sich? Wurde es erwähnt?
 - Beziehungen: Weiß Figur A schon von Figur B? Haben sie sich getroffen?
+- **Tschechow-Beat:** Wenn ein Tschechow-Detail eingeführt wird (ein Vormieter, ein Nagel, ein Geruch) — reagiert die Figur mit mindestens einem körperlichen Beat? Null Reaktion = Finding.
+- **Cross-POV-Dopplung:** Wiederholt dieses Kapitel Beschreibungen oder Szenentypen aus einem früheren POV-Kapitel am selben Ort? (Ankunft, Unterkunft-Dialog, Geruchsbeschreibung) → Finding.
 
 ## Phase 5: Timeline-Sync + Gänsehaut-Check
 

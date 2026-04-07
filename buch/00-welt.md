@@ -51,13 +51,19 @@ Halbinsel ins Graue Meer. Fluss **Grauwe** mündet hier — langsam, trüb, flie
 
 ### Warum Vael seltsam ist
 
-Das Tor zwischen den Welten leckt — am Steinkreis im Botanischen Garten, wo die Grenze am dünnsten ist. Magie aus Moragh sickert durch. Der Vaeler Atem ist buchstäblich Moragh-Luft. Die Grauwe fließt rückwärts, weil Wasser auf die Magie reagiert. Die Pflanzen im Garten wachsen, weil sie am nächsten am Tor stehen. Die Einheimischen merken es nicht — sie leben seit Generationen damit. **Das Lecken allein zieht KEINE Menschen an.** Die Anomalien existieren seit Jahrhunderten. Kein Resonanz-Begabter ist deshalb je hergekommen — bis Varens Agenten sie gezielt holten.
+**Purpurstein ist Quellenmaterial.** Dasselbe Material, das in Moragh als "Quellen" vorkommt — Energieflöze in der Erde, vergleichbar mit Erzvorkommen. In Moragh sind Quellen aktiver, energiegeladener. In Thalassien gibt es **ein einziges Vorkommen**: unter dem Botanischen Garten in Vael. Klein, aber da. Dieses Vorkommen — die Riss-Quelle — ist der Grund für alles Seltsame in Vael.
 
-Wenn das Tor aktiver wird, werden die Lecks stärker. Nebel dreimal die Woche. Die Grauwe fließt öfter rückwärts. Pflanzen wachsen schneller. Und dann kommen die Dämonen.
+**Die Wärme kommt vom Stein selbst.** Purpurstein strahlt, weil er Quellenmaterial ist. Der Boden in Vael ist warm, der Stein dampft wenn Nebelfeuchtigkeit drauftrifft, Keller sind trocken und warm (Kontrast zur feuchten Oberfläche). Je näher an der Quelle (Botanischer Garten), desto stärker die Effekte.
+
+**Herausbrechen = Wirkungsverlust.** Man kann kein Stück Purpurstein woanders hintragen und Magie erwarten. Das Material verliert seine Energie sobald es von der Quelle getrennt wird. Die Quelle funktioniert nur als zusammenhängendes Flöz im Boden. Die ganze Stadt ist aus abgebautem Purpurstein gebaut — aber die verbauten Steine sind "tot", nur noch leicht warm (Restwärme, nicht Magie).
+
+**Passive Effekte der Quelle:** Der Vaeler Atem (buchstäblich Moragh-Luft die durchsickert). Die Grauwe fließt rückwärts (Wasser reagiert auf die Magie). Pflanzen im Garten wachsen übermäßig (am nächsten an der Quelle). Warmer Stein, heißes Wasser ohne Kessel. Die Einheimischen merken es nicht — sie leben seit Generationen damit. **Das Lecken allein zieht KEINE Menschen an.** Die Anomalien existieren seit Jahrhunderten. Kein Resonanz-Begabter ist deshalb je hergekommen — bis Varens Agenten sie gezielt holten.
+
+**Schemen sind NICHT passiv.** Schemen sickern nicht durch die Quelle. Varen öffnet gezielt ein Portal und schickt sie als Agenten. Wenn das Portal aktiver wird, werden die passiven Lecks stärker — Nebel dreimal die Woche, die Grauwe fließt öfter rückwärts, Pflanzen wachsen schneller. Aber die Schemen kommen, weil Varen sie schickt.
 
 ### Die Stadt
 
-**Purpursteingotik.** Kopfsteinpflaster, Gaslampen, Kutschen. Salz, Teer, nasser Backstein. Die Häuser eng, die Gassen schmal. Giebel aus dunklem Stein, Fenster die im Nebel kaum leuchten. Keine Unterstadt, keine tiefen Keller — Vael ist eine Oberflächenstadt. Was unter der Stadt liegt, liegt unter dem **Botanischen Garten**, und nur dort.
+**Purpursteingotik.** Kopfsteinpflaster, Gaslampen, Kutschen. Salz, Teer, nasser Backstein. Die Häuser eng, die Gassen schmal. Giebel aus dunklem Stein, Fenster die im Nebel kaum leuchten. **Unterirdisch ist Vael warm und trocken** — der verbaute Purpurstein ist zwar "tot" (von der Quelle getrennt), behält aber Restwärme. Je tiefer, je näher am gewachsenen Fels, desto wärmer. Keller in Vael sind keine feuchten Löcher, sondern warm, trocken, behaglich. Kontrast zur nassen, nebeligen Oberfläche.
 
 ### Orte
 
@@ -97,7 +103,11 @@ Die Zeit läuft unterschiedlich. **1 Moragh-Jahr = 400 Thalassien-Jahre.** Das V
 
 ### Die Riss-Quelle
 
-Am Portal-Punkt liegt eine Reservoir-Quelle — die **Riss-Quelle**. Diese Quelle speist den Riss zwischen den Welten. Durch sie sickert Magie nach Thalassien: die Farne in Vael, das heiße Wasser, die Schemen, der Nebel. Alles Moragh-Magie die durch den Riss leckt.
+Unter dem Botanischen Garten liegt die **Riss-Quelle** — das einzige Purpurstein-Quellenvorkommen in Thalassien. Quellen sind wie Erzflöze: zusammenhängende Materialvorkommen im Boden, die Magie speichern und abstrahlen. In Moragh gibt es viele, unterschiedlich groß und mächtig. In Thalassien nur diese eine, klein, unter dem Steinkreis.
+
+Die Riss-Quelle speist den Riss zwischen den Welten. Durch sie sickern **passive Effekte** nach Thalassien: die Farne, das heiße Wasser, der Vaeler Atem, die warmen Steine. **Schemen gehören NICHT zu den passiven Effekten** — sie werden von Varen gezielt durch ein Portal geschickt.
+
+**Das Portal kann nur hier geöffnet werden**, weil die Quelle hier ist. Moragh kann nur DORTHIN ein Portal öffnen, wo Quellenmaterial existiert — nicht exakt am Steinkreis, aber im Einflussradius der Quelle. Deshalb Vael und nur Vael.
 
 **Zerstörung der Riss-Quelle = permanente Trennung.** Ohne die Riss-Quelle: kein Magie-Durchsickern nach Thalassien. Keine Resonanz dort. Kein Öffnen von der Thalassien-Seite. Der Riss heilt. Thalassien verliert ALLE Magie permanent. Moragh behält Magie wie immer.
 

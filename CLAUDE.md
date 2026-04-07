@@ -323,6 +323,19 @@ Prüft systematisch:
 
 **Der Erzähler darf NIE mehr wissen als die Figur.** Wenn Sorel nicht weiß wo Vael liegt, darf der Narrator nicht "Die Hafenstadt an der Grauküste" schreiben. ERST nachdem die Figur es erfährt (Atlas, Gespräch, Schild).
 
+**Erweiterung — Premature Doubt:** Die Figur darf NIE zweifeln oder hinterfragen
+bevor das auslösende Ereignis stattfindet. Wenn Sorel erst in Szene 3 sieht dass
+ein Schemen sein Gesicht trägt, darf er in Szene 1 nicht fragen ob das Gesicht
+auf der Platte "wirklich seines" ist. Die Frage entsteht IM Moment, nicht vorher.
+
+### Cross-POV-Regel
+
+Wenn mehrere POVs denselben Ort besuchen: das spätere Kapitel darf NICHT
+dieselbe Ankunftssequenz, dieselben Sinnesbeschreibungen oder dasselbe
+Dialog-Muster wiederholen. Der Leser hat den Ort bereits betreten.
+Jeder POV benutzt EIGENE Wörter für gemeinsame Phänomene
+(Alphina: "Nebel", Sorel: "Dunst"). Siehe `02-stilregeln-v2.md` POV-Vokabular.
+
 ## Website
 
 Deploy: git push && ssh adrian@adrianphilipp.de "cd ~/apps/Alphina-Static && git pull && bash generate-lesen.sh"

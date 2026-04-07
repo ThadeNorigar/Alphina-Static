@@ -223,7 +223,7 @@ Varen hat durch ein fehlgeschlagenes Leylinien-Experiment die Überladung entdec
 
 ## Die Riss-Quelle
 
-Am Portal-Punkt liegt die **Riss-Quelle** — eine Reservoir-Quelle die den Riss zwischen den Welten speist. Durch sie sickert Magie nach Thalassien: die Farne in Vael, das heiße Wasser, die Schemen, der Nebel.
+Unter dem Botanischen Garten liegt die **Riss-Quelle** — das einzige Purpurstein-Quellenvorkommen in Thalassien. Purpurstein IST Quellenmaterial (in Moragh energiegeladener, in Thalassien schwächer). Durch die Quelle sickern passive Effekte nach Thalassien: die Farne, das heiße Wasser, der Vaeler Atem, die warmen Steine. Herausgebrochenes Quellenmaterial verliert seine Wirkung. Das Portal kann nur im Einflussradius der Quelle geöffnet werden — deshalb nur Vael.
 
 **Zerstörung der Riss-Quelle = permanente Trennung der Welten.**
 - Kein Magie-Durchsickern nach Thalassien
@@ -234,3 +234,30 @@ Am Portal-Punkt liegt die **Riss-Quelle** — eine Reservoir-Quelle die den Riss
 - Moragh behält Magie wie immer
 
 Die Riss-Quelle zu zerstören ist dieselbe Handlung wie jede andere Quellen-Überladung — aber mit kosmischen Konsequenzen. Die Symmetrie der Trilogie: Varen zerstört 3 Quellen (Unfall), Alphina zerstört 1 Quelle (absichtlich, falsche Seite), Alphina/Varen zerstört die Riss-Quelle (absichtlich, richtige Seite).
+
+---
+
+## Schemen
+
+Schemen sind Moragh-Kreaturen, von Varen gezielt durch das Portal nach Thalassien geschickt. Sie sind **keine passive Leckage** der Quelle — sie kommen, weil Varen sie schickt.
+
+### Erscheinung
+- Körper aus dichtem Rauch, an den Rändern faserig, die Oberfläche in konstantem Werden und Vergehen
+- Größenspektrum: katzengroß (die häufigsten) bis anderthalb Köpfe größer als ein Mensch
+- Die Großen: zu schmal, zu lang, Hufe statt Füße, drei Finger + Daumen, keine Nägel
+- Kälte geht von ihnen aus (Atem dampft in ihrer Nähe)
+- Hinterlassen Kratzspuren: drei parallele Rillen, glatt geschnitten, die Fasern verschmolzen, warm
+
+### Fähigkeiten
+
+**Gesichts-Mimikry.** Manche Schemen (bei weitem nicht alle) können Gesichter von Beobachteten kopieren. Der Rauch setzt sich, die Züge werden scharf — jede Narbe, jede Falte, exakt. Die Mimikry erklärt die gefälschten Glasplatten (Sorels Köder): Ein Schemen trug Sorels Gesicht am Hafen, ein Moragh-Agent fotografierte es.
+
+**Rauch-Teleport.** Manche Schemen können sich über kurze Distanzen auflösen und woanders wieder verdichten. Nicht Unsichtbarkeit — vollständige Auflösung in Rauch, dann Rekondensation an einem neuen Punkt. Reichweite: wenige Meter bis ~20 Meter. Nicht alle können es.
+
+**Verschwinden bei Beobachtung.** Schemen verschwinden wenn ein Mensch sie direkt beobachtet oder wenn eine dritte Person erscheint. Sie hinterlassen keine Spur außer den Kratzspuren und einem Schatten auf Sorels Fotoplatten.
+
+### Was Schemen NICHT können
+- Sprechen
+- Gegenstände manipulieren (außer Kratzen)
+- Lange in Thalassien bleiben ohne Varens Portal-Verbindung
+- Physisch angreifen (sie sind Rauch, nicht Fleisch)

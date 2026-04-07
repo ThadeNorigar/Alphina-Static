@@ -33,6 +33,8 @@ Zähle mit Grep/Bash — keine Schätzungen:
 | "wie etwas das..." / "wie ein..." Vergleiche | 4x pro Kapitel | Überzählige markieren |
 | "und" als Satzverbinder (Hauptsatz und Hauptsatz) | Meldung ab >3 in einem Satz | Ketten markieren |
 | Wort/Phrase die >7x vorkommt (außer Artikeln/Pronomen) | 7x | Häufung markieren |
+| Markante Phrase (z.B. "dreizehn Jahre", "die Routine") | 4x | Jede über 4 markieren |
+| "als hätte/wäre/könnte..." Hypothetische Konstruktionen | ~6 | Dichte-Warnung |
 | Sätze über figurenspezifischem Limit | Alphina >40W, Sorel >50W, Vesper >20W, Maren >35W | Überlängen markieren |
 | Sätze >60 Wörter | Meldung | Bandwurm-Kandidaten markieren (alle Figuren) |
 
@@ -72,6 +74,18 @@ Gehe das Kapitel Absatz für Absatz durch:
 - "Etwas war anders"
 - Jede Meta-Kommentierung von Magie durch den Erzähler
 - → Magie passiert mitten im Alltag. Nie ankündigen.
+
+## Phase 3.5: Cross-POV und Aftermath
+
+**1. Cross-POV-Vokabular:**
+- Benutzt dieser POV dieselben Beschreibungen wie ein anderer POV für denselben Ort?
+- Prüfe gegen `02-stilregeln-v2.md` POV-Vokabular-Tabelle
+- Finding wenn identische Formulierungen für Stein, Nebel, Geruch etc.
+
+**2. Aftermath-Pacing:**
+- Nach einem Climax-Moment (Horror, Enthüllung, Gänsehaut): gibt es mindestens 3 Beats?
+- Körper → Raum → Stille → Frage
+- Finding wenn direkt nach dem Peak zum Kapitelende gesprungen wird
 
 ## Phase 4: Vergleich mit Referenzkapitel
 
