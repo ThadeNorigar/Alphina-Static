@@ -104,7 +104,7 @@ Er versuchte die Oberfläche zu lesen. Die Haut, wenn es Haut war. Seine Augen v
 
 An der Hand — drei Finger. Und ein Daumen. Lang, schmal, am Ende glatt, ohne Nägel. Die Hand hing herab, reglos, als brauchte die Figur keine Hände, als wären sie etwas das sie mitgebracht hatte ohne zu wissen warum.
 
-Die Figur stand mit dem Rücken zu ihm. Schmal, aufrecht, die Hufe auf dem Stein. Sorels Finger schlossen sich um den Auslöser der Kamera. Er hatte nicht entschieden zu greifen. Seine Hände hatten entschieden — was man sieht, hält man fest.
+Die Figur stand mit dem Rücken zu ihm. Schmal, aufrecht, die Hufe auf dem Stein.
 
 Dann schaute sie ihn an.
 
@@ -118,9 +118,11 @@ Sein Gesicht.
 
 Sein eigenes Gesicht, auf dem Kopf eines Dings das anderthalb Meter größer war als er und auf Hufen stand. Jeder Zug, jede Linie. Sein Gesicht, als hätte jemand eine Platte von ihm belichtet und auf den Rauch gedruckt. Die Figur schaute ihn an. Mit seinen Augen.
 
-Er drückte den Verschluss. Das Klicken der Mechanik, leise, metallisch.
+Sorels Hand fuhr zum Verschluss. Griff daneben. Seine Finger fanden das Metall nicht, rutschten ab, griffen ins Leere. Sein Körper war einen Schritt zurückgetreten, ohne Befehl, die Sohlen auf nassem Stein, der Absatz rutschte, er fing sich am Stativ, das Stativ kippte — seine Hand schloss sich um das Holzbein, hielt, riss es zu sich. Die Kamera schwankte. Hielt.
 
-Die Figur löste sich auf. Nicht von den Rändern, nicht langsam — der Körper zerfiel in Rauch, sein Gesicht zuletzt, die Züge die sich hielten während der Rest schon Dunst war, sein eigener Mund, seine eigenen Augen, die ihn anschauten aus etwas das nicht mehr da war. Dann auch sie: Rauch, der sich verflüchtigte, der auseinandertrieb.
+Er stand da. Einen Schritt weiter vom Poller, das Stativ schräg in seiner Hand, der Atem flach und schnell, die Augen auf die Figur gerichtet. Die Figur auf ihn.
+
+Dann löste sie sich auf. Der Körper zerfiel in Rauch, sein Gesicht zuletzt, die Züge die sich hielten während der Rest schon Dunst war, sein eigener Mund, seine eigenen Augen, die ihn anschauten aus etwas das nicht mehr da war. Dann auch sie: Rauch, der sich verflüchtigte, der auseinandertrieb.
 
 Stille. Drei Atemzüge.
 
@@ -128,38 +130,52 @@ Dann, auf dem Poller zu seiner Rechten — fünf Meter, näher als vorher — ve
 
 Stille. Das Wasser schlug gegen die Kaimauer, gleichmäßig, als sei nichts gewesen.
 
-Stativ unter seinen Händen. Kamera. Verschluss geschlossen. Platte belichtet. Herzschlag im Hals, hart, zu schnell, ein Hämmern das er in den Ohren hörte. Finger am Metall — kalt. Er schaute auf seine Hände. Sie zitterten nicht. Sie zitterten nie.
+Stativ in seiner Hand, schräg, die Kamera darauf. Verschluss geschlossen. Platte unbelichtet. Herzschlag im Hals, hart, zu schnell, ein Hämmern das er in den Ohren hörte.
 
-Sein Mund öffnete sich. Ein Laut kam heraus, leise, rau, etwas zwischen Atem und Stimme, ein Geräusch das er nicht geplant hatte und nicht stoppen konnte. Es hallte nicht. Die Luft schluckte es, der Dunst, die Stille. Aber er hatte es gehört. Sein eigener Mund, der etwas gesagt hatte das kein Wort war.
+Er hatte kein Bild.
+
+Sein Mund öffnete sich. Ein Laut kam heraus, leise, rau, etwas zwischen Atem und Stimme, ein Geräusch das er nicht geplant hatte und nicht stoppen konnte. Es hallte nicht. Die Luft schluckte es. Aber er hatte es gehört. Sein eigener Mund, der etwas gesagt hatte das kein Wort war.
+
+Er schaute auf seine Hände. Sie zitterten. Zum ersten Mal seit er denken konnte, zitterten sie.
 
 Er ging zum Poller. Fünf Schritte. Der Poller war aus Holz, dunkel, alt, die Oberfläche rau von Jahren Seil und Salz. Auf der Seite, die der Figur zugewandt gewesen war: Spuren. Tief, drei Rillen, parallel, die Kanten glatt. Nicht geritzt. Geschnitten. Das Holz an den Rändern dunkel, die Fasern glatt verschmolzen, als hätte etwas Heißes hindurchgefahren. Sorel legte die Finger hinein. Die Rillen waren warm. Wärmer als das Holz drumherum, wärmer als die Nachtluft, wärmer als seine Finger.
 
 Keine Restwärme. Etwas das im Holz steckte. Das sich hineingebrannt hatte. Das nicht aufhörte.
-
-Er hob die Hand. Hielt sie über die Rillen, dicht über der Oberfläche. Die Wärme stieg auf. Fein. Da.
-
-Er schaute zum Kai zurück. Dunst. Poller. Leere. Sein Stativ stand da, die Kamera darauf. Die Platte darin belichtet — ein Bild von etwas das sich nicht zeigen wollte.
 
 
 ---
 
 
 
-Er baute das Stativ ab. Kamera, Platten, Ledertasche. Seine Hände arbeiteten, zwölf Schritte rückwärts, dieselbe Reihenfolge, umgekehrt. Die Abfolge hielt ihn aufrecht. Ein Gerüst, in das er sich stellte, weil das was zwischen den Pollern gestanden hatte kein Gerüst hatte, keine Abfolge, keine Erklärung.
+Er ging nicht zurück in den Keller.
+
+Er stellte das Stativ wieder auf. Am selben Punkt, derselbe Winkel. Holzbeine, Messingverschlüsse. Die Hände zitterten noch, aber sie kannten die Schritte, und die Schritte kannten keine Angst. Stativ aufstellen, Kamera ausrichten, Platte einsetzen. Die Finger am Verschluss, diesmal fest. Diesmal bereit.
+
+Er wartete.
+
+Der Dunst lag auf dem Wasser. Das Meer schlug gegen den Stein. Nichts kam. Sorel stand am Kai, die Hände an der Kamera, die Augen im Dunst, und wartete auf etwas das sein Gesicht trug und nicht wiederkam.
+
+Nach einer Stunde — vielleicht länger, er hatte aufgehört die Zeit zu messen — baute er das Stativ ab. Zwölf Schritte rückwärts. Die Abfolge hielt ihn aufrecht. Aber sie hielt ihn anders als vorher, provisorisch, als trüge das Gerüst Risse die vorher nicht da gewesen waren.
+
+Er ging nicht in den Keller. Er ging die Hafengasse entlang, den Dunst in den Gassen, die Laternen die nicht mehr brannten. Sein Blick suchte den Winkel. Den Winkel der siebten Platte — die Kaimauer, die Masten, sein Gesicht im Dunst. Er kannte jeden Grauwert, jede Linie, jede Schattierung. Irgendwo an diesem Hafen, vor Jahrzehnten, hatte etwas gestanden das sein Gesicht trug und sich hatte fotografieren lassen. Irgendwo gab es den Punkt, den Winkel, das Licht.
+
+Er suchte ihn. Drei Stunden, die Gassen, die Poller, die Kaimauer. Das Stativ aufgebaut, abgebaut, versetzt. Suche nach einer Position die zur Perspektive der siebten Platte passte. Der Winkel der Masten. Die Flucht der Kaimauer. Die Höhe.
+
+Am Ende der dritten Stunde fand er ihn. Fünfzig Meter weiter östlich, an einer Stelle wo die Kaimauer einen Knick machte. Das Stativ stand. Der Winkel stimmte — die Masten links, die Kaimauer rechts, die Fluchtlinien deckungsgleich mit dem Bild das er hundertmal im Rotlicht studiert hatte. Wer auch immer die siebte Platte belichtet hatte, hatte hier gestanden.
+
+Er baute die Kamera auf. Setzte eine frische Platte ein. Belichtete. Das Klicken der Mechanik, leise, metallisch. Ein Bild des Hafens, ohne Gesicht, ohne Figur. Nur Stein und Dunst und Wasser.
+
+Aber er hatte den Punkt.
 
 Die Treppe hinunter. Siebzehn Stufen. Die Wärme kam zurück, Stufe für Stufe, legte sich um seine Schultern, seine Hände, seinen Atem.
 
-Rotlicht. Der Geruch von Chemie, vertraut, ein Anker. Die Hafenplatte ins Entwicklerbad, vorsichtig, die Emulsion nach oben. Das Bild stieg auf, langsam, aus dem Nichts, so wie Bilder es taten — zuerst die hellen Stellen, dann die dunklen, dann die Formen dazwischen.
+Rotlicht. Der Geruch von Chemie, vertraut, ein Anker. Die Hafenplatte ins Entwicklerbad, vorsichtig, die Emulsion nach oben. Das Bild stieg auf, langsam, aus dem Nichts — zuerst die hellen Stellen, dann die dunklen, dann die Formen dazwischen.
 
-Kaimauer. Poller. Dunst. Wasser, das im Dunst verschwand. Keine Figur. Er hatte es gewusst. Man konnte nicht festhalten was nicht festhielt.
+Kaimauer. Masten. Dunst. Der Winkel der siebten Platte, aus derselben Position, Jahrzehnte später. Kein Gesicht. Kein Schatten. Nur der Hafen, leer, wartend.
 
-Aber auf dem Poller — dort wo die Rillen waren, dort wo seine Finger die Wärme gespürt hatten — lag ein Schatten. Dunkel, formlos, zu dicht für einen Schatten den eine Laterne hätte werfen können. Es gab nichts das ihn warf. Der Poller stand frei. Keine Mauer dahinter, kein Mast, kein Seil. Nur der Poller, der Dunst, das Wasser — und der Schatten, der auf der Emulsion lag. Etwas das seine Augen nicht gesehen hatten. Die Platte schon.
+Er hängte die Platte an die Schnur. Nass, tropfend. Daneben, auf dem Tisch, die siebte Platte. Dasselbe Motiv. Derselbe Winkel. Sein Gesicht auf der alten, nichts auf der neuen.
 
-Ein Schatten ohne Körper. Auf einer Platte in seinem Keller in Vael.
-
-Sorel hängte die Platte an die Schnur. Nass, tropfend, der Fixierer lief über die Oberfläche. Er stand davor. Der Schatten tropfte nicht.
-
-Sein Blick ging zum Tisch. Zur siebten Platte. Zu dem Gesicht darauf — seinem Gesicht, oder dem was er dreizehn Jahre lang für seines gehalten hatte. Es hatte seinen schiefen Brauenwinkel, seine Falte, seinen Mund. Dieselbe Narbe am Kinn. All die Jahre hatte er es angeschaut und nie gefragt wie es dort hingekommen war. Jetzt, nach dem was am Poller gestanden und ihn mit seinen eigenen Augen angeschaut hatte, stand die Frage im Raum. Er schob sie nicht weg. Sie ging von selbst nicht.
+Sein Blick ging zum Gesicht — seinem Gesicht, oder dem was er dreizehn Jahre lang für seines gehalten hatte. Es hatte seinen schiefen Brauenwinkel, seine Falte, seinen Mund. Dieselbe Narbe am Kinn. All die Jahre hatte er es angeschaut und nie gefragt wie es dort hingekommen war. Jetzt, nach dem was am Poller gestanden und ihn mit seinen eigenen Augen angeschaut hatte, stand die Frage im Raum. Er schob sie nicht weg. Sie ging von selbst nicht.
 
 Er hob die Hände, hielt sie vor sich, drehte sie im Rotlicht. Seine Hände. Dünn, blass, die Finger lang. Er kannte sie. Er kannte sein Gesicht. Etwas anderes kannte es auch.
 
@@ -169,6 +185,6 @@ Stuhl. Sitzen. Rotlichtlampe, der Docht leise zischend, Öl für Stunden. Hände
 
 Dann stand er auf. Ging zum Stativ, das neben der Tür lehnte. Prüfte den Verschluss. Klappte die Beine ein, klappte sie wieder aus. Stellte es neben die Tür. Bereit.
 
-Er legte sich auf die Matratze. Die Decke über sich, den Stein über der Decke, die Stadt über dem Stein. Wärme, Rotlicht, Fixierer. Er schloss die Augen. Die Platte an der Schnur tropfte leise. Der Schatten darauf tropfte nicht.
+Er legte sich auf die Matratze. Die Decke über sich, den Stein über der Decke, die Stadt über dem Stein. Wärme, Rotlicht, Fixierer. Er schloss die Augen. Zwei Platten an der Schnur. Dasselbe Motiv, derselbe Winkel. Auf der einen sein Gesicht. Auf der anderen nichts.
 
-Morgen Nacht. Derselbe Ort. Diesmal würde er warten.
+Morgen Nacht. Derselbe Ort. Diesmal würde er nicht zurückweichen.
