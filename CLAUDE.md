@@ -219,8 +219,14 @@ Definiert WIE EINE SZENE KLINGT. Die einzige Pipeline mit harten Gates.
    (Vorheriges Kapitel-Ende → dieses Kapitel-Anfang logisch?)
 4. Aktplan-Check: Stimmt der Breakdown in `{NN}-akt{A}.md`?
    (Beats, POV, Tschechow-Waffen gesetzt und empfangbar?)
+5. **Szenentyp-Abgleich:** Die letzten 2-3 Kapitel lesen. Welcher Szenentyp
+   eröffnet sie (Anreise, Gasthaus, Werkstatt, Begegnung)? **Keine Wiederholung.**
+   Wenn das letzte Kapitel mit einer Anreise beginnt, beginnt dieses Kapitel ANDERS.
+6. **Orts-Inventur:** Welche Orte sind bereits beschrieben? Was ist über Vael
+   (Nebel, Purpurstein, Feuchtigkeit, Gaslampen) bereits etabliert? Nur NEUE
+   Sinneseindrücke für dieses Kapitel. Keine Wiederholung bekannter Atmosphäre.
 
-Erst wenn alle vier Punkte geklärt sind, beginnt der Szenenplan.
+Erst wenn alle sechs Punkte geklärt sind, beginnt der Szenenplan.
 
 ```
 Schritt                    Status → status.json    Wer        Auto-Deploy
@@ -272,9 +278,15 @@ Jeder Prüfschritt ist ein Gate mit 3 Stufen:
 
 Prüft Absatz für Absatz:
 - Weiß die Figur das? (Geografie, Namen, Fakten — BEVOR sie es erfährt?)
+- **Sorel-Prinzip bei JEDEM Eigennamen:** Woher kennt die Figur diesen Namen?
+  Jeder Orts-, Personen- und Objektname muss INNERHALB des Textes eingeführt
+  werden (Dialog, Schild, Brief, eigene Schlussfolgerung). Nie voraussetzen.
 - Kann die Figur das wahrnehmen? (Licht, Entfernung, Raum)
 - Erzählt der Narrator mehr als die POV-Figur weiß?
 - Tageszeit, Wetter, Ort konsistent?
+- **Technische Fakten:** Fachbegriffe prüfen (Uhrmechanik, Botanik, Schiffbau,
+  Medizin). Zahlen, Maße, physikalische Angaben müssen stimmen. Im Zweifel
+  recherchieren.
 - Magie-Regeln gegen 10-magie-system.md?
 - **POV-Expertise:** Beschreibt die Figur durch ihre Berufslinse?
   Steinleserin sieht Risse, nicht Farnnamen. Fotograf sieht Licht, nicht Geologie.
@@ -291,11 +303,21 @@ Prüft Absatz für Absatz:
 ### /stil-check (Kapitel-Pipeline, GATE)
 
 Prüft systematisch:
-- "und"-Ketten (>3 pro Satz), Bandwurm-Stakkato-Balance
+- "und"-Ketten (>3 pro Satz), Bandwurm-Balance
 - Harte Limits: "nicht X — sondern Y" (max 2x), "wie..." Vergleiche (max 4x)
 - Emotionen benannt statt gezeigt, erklärende Nachsätze
 - Wort-Häufungen, Satzanfang-Monotonie
 - Rhythmus-Vergleich mit Referenzkapitel
+- **Stakkato-Zählung:** Fragmentsätze (<4W ohne Verb) zählen. Max 2-3 Passagen
+  pro Kapitel (je max 3 Fragmente in Folge). Nur bei Schock, Inventur, Hammerschlag.
+- **Personifikations-Zählung:** Gegenstände die handeln/wissen/warten/sich weigern.
+  Jede Stelle auflisten. Funktioniert sie (POV-Wahrnehmung, Atmosphäre) oder ist
+  sie mechanisch/inflationär? Max ~8 pro Kapitel.
+- **Dialog-Realismus:** Fehlen logische Schritte in Gesprächen? Würde ein echter
+  Mensch so reden? Preis vor Schlüssel, Vorstellung vor Vertrauen, Rückfragen
+  wo Rückfragen natürlich wären. Kein Filmdrehbuch.
+- **Wiederholte Ortsbeschreibung:** Atmosphäre-Elemente gegen vorherige Kapitel
+  abgleichen. Was bereits etabliert ist, darf nicht nochmal beschrieben werden.
 
 ### Das Sorel-Prinzip
 
