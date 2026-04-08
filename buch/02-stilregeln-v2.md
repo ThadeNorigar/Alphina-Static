@@ -4,7 +4,7 @@
 
 | Muster | Max pro Kapitel |
 |--------|----------------|
-| "nicht X — sondern Y" | 2 |
+| "nicht X — sondern Y" | **1.** Die Konstruktion ist ein rhetorisches Signal ("Leserin, merk auf"). Einmal pro Kapitel als Akzent. Mehr ist Predigt. |
 | "wie etwas das..." Vergleiche | 4 |
 | Erklärende Nachsätze ("weil...", "nicht weil... sondern weil...") | Nur wenn Alphinas Gedankengang es BRAUCHT. Sonst: Handlung stehen lassen. |
 | Deppenapostrophe (Haron's, Klaus's, Vesper's) | **0.** Deutsch: Harons Boot, Vespers Uhr. Apostroph NUR bei Namen auf s/z: "Voss' Nichte", "Edrics Werkbank." |
