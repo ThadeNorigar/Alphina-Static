@@ -337,9 +337,9 @@
           return;
         }
 
-        // Breadcrumb: "Der Riss · Akt I — Anker · Kapitel Fünf"
+        // Breadcrumb: "Der Riss · Akt I · Kapitel Fünf"
         const buchTitel = (buchData.meta && buchData.meta.titel) ? buchData.meta.titel : '';
-        const aktLabel = aktData ? (aktData.name + ' — ' + aktData.titel) : '';
+        const aktLabel = aktData ? aktData.name : '';
         let kapLabel;
         if (isInterludium) {
           const num = kapId.substring(1).padStart(2, '0');
