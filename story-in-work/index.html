@@ -25,11 +25,25 @@
       letter-spacing: 0.4em; text-transform: uppercase; color: var(--smoke);
     }
     .page-subtitle {
-      text-align: center; padding: 0 0 1.5rem;
+      text-align: center; padding: 0 0 0.8rem;
       font-family: 'Cormorant Garamond', serif; font-size: 0.85rem;
       color: var(--smoke); letter-spacing: 0.05em;
     }
     .page-subtitle strong { color: var(--paper-edge); }
+
+    .top-links {
+      text-align: center; padding: 0 0 1.2rem;
+      font-family: 'Cormorant Garamond', serif; font-size: 0.85rem;
+      letter-spacing: 0.1em;
+    }
+    .top-links a {
+      color: var(--paper-edge); text-decoration: none;
+      border-bottom: 1px solid var(--smoke);
+      padding-bottom: 2px; transition: all 0.3s;
+    }
+    .top-links a:hover {
+      color: var(--accent); border-bottom-color: var(--accent);
+    }
 
     /* Legend */
     .legend {
@@ -244,6 +258,10 @@
   <div class="wrap">
     <div class="page-title">Der Riss — Trilogie</div>
     <div class="page-subtitle" id="global-stats"></div>
+
+    <div class="top-links">
+      <a href="zeitleiste.html">Zeitleiste &rarr;</a>
+    </div>
 
     <div class="legend">
       <div class="legend-item"><div class="legend-dot" style="background:#666"></div> Idee</div>
