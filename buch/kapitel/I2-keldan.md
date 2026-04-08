@@ -2,7 +2,7 @@
 
 Der Frostmond lag auf Vael, und die Schmiede am Hafen lag tief, halb in den Fels gebaut, und das Feuer in der Esse brannte seit dem Morgen. Elke hörte den Hammer drei Gassen weit — ein einzelner Schlag, dann Stille, dann ein zweiter, langsamer als er hätte sein sollen, als dächte der Mann zwischen den Schlägen nach.
 
-Keldan Rohn stand am Amboss, die Zange in der linken Hand, den Hammer in der rechten, und das Eisen unter dem Hammer war falsch. Elke sah es von der Tür aus — die Art wie der Barren sich bog, nachgiebig, fast willig, als wäre er Zinn und nicht Eisen. Keldan schlug, und das Metall gab nach, zu schnell, zu weich, und er hielt inne und schaute den Barren an, als hätte der Barren ihm etwas gesagt das er nicht hören wollte.
+Keldan Rohn stand am Amboss, die Zange in der linken Hand, den Hammer in der rechten, und das Eisen unter dem Hammer war falsch. Elke sah es von der Tür aus — die Art wie der Barren sich bog, nachgiebig, fast willig, als wäre er Zinn und nicht Eisen. Keldan schlug, und das Metall gab nach, zu schnell, zu weich, und er hielt inne und schaute das Stück an, und sein Mund wurde schmal.
 
 "Wieder?", fragte Elke.
 
@@ -18,13 +18,13 @@ Elke trat näher. Die Glut schlug ihr entgegen, dichter als sie hätte sein soll
 
 "Die Kohle glüht nicht mehr," sagte Keldan. Er hatte recht. In der Esse lagen verbrannte Kohlen, grau, tot. Aber das Feuer brannte — über den toten Kohlen, ohne Brennstoff, eine Hitze die aus dem Stein kam, aus dem Boden, aus der Tiefe unter der Schmiede. Feuer ohne Brennstoff. In der Oberstadt sprachen die Leute davon — Kamine die brannten ohne Scheite, und morgens keine Asche.
 
-Keldan nahm den Barren aus der Zange und legte ihn auf den Boden. Auf den nackten Fels, die dunkle Stelle neben der Esse.
+Keldan nahm das Stück aus der Zange und legte es auf den Boden. Auf den nackten Fels, die dunkle Stelle neben der Esse.
 
 Der Ton kam sofort.
 
 Tief, gleichmäßig, ein Summen das im Bauch anfing und im Kiefer endete. Elke kannte Töne — der Purpurstein summte auch, wenn sie die Hand drauflegt, aber leiser, geduldiger. Das Eisen auf dem Stein klang anders. Lauter. Drängender. Als antwortete das Metall auf etwas das der Stein sagte, eine Resonanz zwischen zwei Materialien die nicht zueinander gehörten und die sich trotzdem kannten.
 
-"Das macht es seit ich an der Küste bin," sagte Keldan. Er sprach langsam, jedes Wort einzeln, als kosteten sie ihn Kraft. "Ich lege das Eisen auf den Boden, und es singt. Zu Hause hat es das nie getan. In dreiundzwanzig Jahren nicht."
+"Das macht es seit ich an der Küste bin," sagte Keldan. Er sprach langsam, jedes Wort einzeln, mühsam. "Ich lege das Eisen auf den Boden, und es singt. Zu Hause hat es das nie getan. In dreiundzwanzig Jahren nicht."
 
 Elke kniete sich neben den Barren. Sie legte die linke Hand auf den Purpurstein, neben das Eisen, und die Wärme kam sofort, der Puls des Felsens, tief und gleichmäßig, derselbe Puls den sie seit sechs Wochen kannte. Dann legte sie die rechte Hand auf den Amboss.
 
@@ -40,15 +40,15 @@ Dann gab der Barren nach.
 
 Nicht langsam, wie zuvor unter dem Hammer, nicht das zögerliche Weichwerden eines Eisens das zu lange im Feuer lag. Der Barren wurde weich, von einem Herzschlag auf den nächsten, als hätte etwas unter dem Boden durch den Amboss in das Metall gegriffen. In Keldans Zange bog er sich, glühend, obwohl kein Feuer ihn berührt hatte.
 
-Elke zog die Hand vom Amboss. Zu spät. Ihr Herzschlag war in ihren Handgelenken, hart, und Keldans Knöchel waren weiß um die Zange und sein Atem kam einmal, kurz, und dann nicht mehr, und sie starrten beide auf den Barren.
+Elke zog die Hand vom Amboss. Zu spät. Ihr Herzschlag war in ihren Handgelenken, hart, und Keldans Knöchel waren weiß um die Zange und sein Atem kam einmal, kurz, und dann nicht mehr, und sie starrten beide auf das Metall.
 
-Er formte sich. Nicht willkürlich. Der Barren wölbte sich nach außen, die Mitte schmaler, die Unterseite öffnete sich, die Wand wurde gleichmäßig dünn — eine Form die sich zusammenzog und auseinanderdrückte gleichzeitig, als fände sie ihren eigenen Umriss. Eine Glocke. Handgroß, aber vollständig: die Schulter, der Mund, die Krone oben wo der Bügel sein würde. Und in der Höhlung, am Scheitel klebend, ein dünner Tropfen aus Eisen, der hing wie eine Zunge.
+Er formte sich. Nicht willkürlich. Der Barren wölbte sich nach außen, die Mitte schmaler, die Unterseite öffnete sich, die Wand wurde gleichmäßig dünn — eine Form die sich zusammenzog und auseinanderdrückte gleichzeitig, als fände sie ihren eigenen Umriss. Eine Glocke. Handgroß, aber vollständig: die Schulter wölbte sich über dem offenen Mund, und oben, wo der Bügel sein würde, saß die Krone. Und in der Höhlung, am Scheitel klebend, hing ein dünner Tropfen aus Eisen wie eine Zunge.
 
 Keldan starrte. In seinem Gesicht verschob sich etwas, das nichts mit Unsicherheit zu tun hatte. Erkennen.
 
 Das Eisen erstarrte. Die Glocke blieb — eingefroren im Metall, rot glühend, dann dunkler, dann schwarz, und das Summen ging zurück in den Boden und die Stille in der Schmiede war die Stille eines Raums in dem etwas passiert war das kein Wort hatte.
 
-Keldan legte sie auf den Amboss. Die Proportionen waren genauer als Menschenhand sie getroffen hätte, die Wand überall gleich dünn, die Lippe sauber. Elke strich mit dem Finger darüber. Warm. Die Oberfläche war glatt, keine Naht, kein Ansatz eines Werkzeugs, keine Stelle die nach Arbeit aussah. Dann klopfte sie mit dem Fingernagel gegen die Öffnung unten.
+Keldan legte sie auf den Amboss. Die Proportionen waren genauer als Menschenhand sie getroffen hätte, die Wand überall gleich dünn, die Lippe sauber. Elke strich mit dem Finger darüber. Warm. Die Oberfläche war glatt, keine Naht, keine Stelle die nach Arbeit aussah. Dann klopfte sie mit dem Fingernagel gegen die Öffnung unten.
 
 Ein Ton kam. Hell, rein, länger als er hätte sein sollen. Der Klang hing in der Luft zwischen ihnen, schwebte über den Amboss, wollte nicht abreißen.
 
