@@ -24,7 +24,7 @@ Der Wirt schaute ihn an, einen Moment länger als nötig. Etwas veränderte sich
 
 "Nichts, was Ihnen hilft." Die Theke war sauber. Der Wirt wischte trotzdem weiter.
 
-Vesper nahm den Schlüssel und ging nach oben. Das Zimmer war klein genug um es mit drei Schritten zu kennen. Bett, Stuhl, Tisch, Waschkrug. Er stellte den Koffer ab und legte die Werkzeugrolle auf den Tisch — Pinzetten, Schraubendreher, Lupe, Ölfläschchen, der Samtbeutel mit den Zahnrädern, jedes Werkzeug an seiner Position.
+Vesper nahm den Schlüssel und ging nach oben. Das Zimmer war klein, aber jedes Stück hatte seinen Platz — ein schmales Bett an der linken Wand, ein Tisch unter dem Fenster, ein Stuhl daneben, ein Hocker in der Ecke mit einem Waschkrug darauf, der Henkel nach außen gedreht. Drei Schritte, und er hätte den Raum durchquert. Er stellte den Koffer ab und legte die Werkzeugrolle auf den Tisch — Pinzetten, Schraubendreher, Lupe, Ölfläschchen, der Samtbeutel mit den Zahnrädern, jedes Werkzeug an seiner Position.
 
 Er wusch sich die Hände im Waschkrug, das Wasser kalt, der Staub der Reise löste sich von seinen Fingern und sank als grauer Schleier auf den Grund. In seiner Tasche lag der Turm, kalt seit Karst, und er drehte ihn zwischen den Fingern. Vier Tage, vier Nächte, und das Holz nahm seine Körperwärme nicht an. Seit die sechsundzwanzig Uhren in seiner Werkstatt gleichzeitig stehengeblieben waren, jede auf 4:33, und die Stille die folgte tiefer war als jede Stille die er kannte.
 
@@ -32,7 +32,7 @@ Er wusch sich die Hände im Waschkrug, das Wasser kalt, der Staub der Reise lös
 
 Er ging zurück nach unten.
 
-Im Schankraum brannte ein Kaminfeuer, niedrig, das Holz knackte. Zwei Männer an einem Tisch, Biergläser, leises Gespräch. An einem Tisch am Fenster saß eine Frau, allein, dunkles Haar, aufrechte Haltung, ein Notizbuch aufgeschlagen vor ihr. Sie schaute auf als er die Treppe herunterkam. Ihre Augen trafen seine für eine halbe Sekunde — dunkel, ruhig, ein Blick der nichts fragte. Dann war er vorbei, sie schrieb weiter. Vesper ging zur Theke.
+Im Schankraum brannte ein Kaminfeuer, niedrig, das Holz knackte in unregelmäßigen Abständen. Zwei Männer saßen an einem Tisch in der Mitte und sprachen leise über ihren halbvollen Biergläsern, ohne aufzuschauen als Vesper hereinkam. Am Fenster saß eine Frau, allein, dunkles Haar, aufrechte Haltung, ein Notizbuch aufgeschlagen vor ihr. Sie schaute auf als er die Treppe herunterkam. Ihre Augen trafen seine für eine halbe Sekunde — dunkel, ruhig, ein Blick der nichts fragte. Dann war er vorbei, sie schrieb weiter. Vesper ging zur Theke.
 
 "Ein Bier, bitte." Der Wirt stellte ein Glas auf das Holz. Vesper trank. In Karst schmeckte Bier nach Kupfer, hier schmeckte es nach etwas das er nicht benennen konnte, süßlich und dicht, derselbe Geruch der in der Luft lag seit er die Küste erreicht hatte.
 
@@ -146,13 +146,13 @@ Draußen war es dunkel geworden. Die Magd hatte zweimal Tee gebracht ohne zu fra
 
 Vesper saß in der Dunkelheit. Seine Hände lagen auf seinen Knien, sie zitterten. Fein, kaum sichtbar, aber er spürte es. Seit dreizehn Jahren waren seine Hände ruhig gewesen, dreizehn Jahre Werkbank, dreizehn Jahre Zahnräder, sie hatten nie gezittert. Jetzt zitterten sie, und er wusste nicht ob es die Uhr war oder die Frau oder die Tatsache dass nichts in diesem Haus eine Erklärung hatte.
 
-Er stand auf.
+Er stand auf, schloss das Gehäuse der Standuhr und nahm die Werkzeugrolle vom Tisch. Dann trat er aus dem Salon in den Flur.
 
-"Darf ich heute Nacht wiederkommen? Ich möchte die Uhr über einen längeren Zeitraum messen."
+Die Magd war dort, an der Anrichte bei der Standlampe, ein leeres Tablett in den Händen. Sie hatte offenbar gewartet, bis er von selbst kam — kein Drängen, kein Räuspern, nur das gleichmäßige Atmen einer Frau die wusste wann ein Fremder fertig war. Sie schaute auf.
 
-Die Magd stand im Flur. Er hatte sie nicht kommen hören. Sie schaute ihn an, ruhig, als hätte sie auf diese Frage gewartet.
+"Ich müsste heute Nacht wiederkommen. Ich brauche eine längere Messung, über mehrere Stunden."
 
-"Ich gebe Ihnen den Schlüssel für die Seitentür." Sie ging und kam zurück, ein Schlüssel, Messing, schwer. Ihre Finger berührten seine Handfläche als sie ihn übergab, diesmal nicht kurz. Eine Sekunde, vielleicht zwei, ihre Fingerspitzen auf seiner Handlinie, warm. Vesper hielt still, und sie hielt still, und die Uhr tickte.
+"Ich gebe Ihnen den Schlüssel für die Seitentür." Sie stellte das Tablett auf die Anrichte und ging zu einem kleinen Schrank am Ende des Flurs, holte einen Schlüssel heraus — Messing, schwer. Sie kam zurück und legte ihn in seine Hand. Ihre Finger berührten seine Handfläche als sie ihn übergab, diesmal nicht kurz. Eine Sekunde, vielleicht zwei, ihre Fingerspitzen auf seiner Handlinie, warm. Vesper hielt still, und sie hielt still, und die Uhr im Salon hinter ihm tickte.
 
 "Am Garten, die kleine Tür rechts", sagte sie leise, und zog ihre Hand zurück.
 

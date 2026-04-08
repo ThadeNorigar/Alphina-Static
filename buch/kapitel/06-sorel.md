@@ -30,21 +30,31 @@ Er hängte die Rotlichtlampe daran. Öl eingefüllt, Docht geprüft, Streichholz
 
 Das Lichthaus hatte er am Morgen gefunden. Drei Stockwerke, breit, Speichertore im Erdgeschoss, verriegelt, verrostet. Er kannte es von der Platte — die Proportionen, die Breite der Mauer, die Höhe der Tore. Hundertmal hatte er das Bild studiert, im Rotlicht, Kante für Kante. Jetzt stand es vor ihm, in Stein.
 
-Der Vermieter wohnte im Erdgeschoss. Runder Kopf, Schürze über dem Bauch, die Hände feucht von der Suppe die auf dem Herd hinter ihm dampfte. Er musterte Sorel — die Ledertasche, den Kasten, die bleichen Hände, die Augen die seinem Blick auswichen.
+Der Vermieter wohnte im Erdgeschoss. Runder Kopf, Schürze über dem Bauch, die Hände feucht von der Suppe die auf dem Herd hinter ihm dampfte. Er wischte sich die Finger am Schürzenzipfel ab und schaute auf, als Sorel hereintrat.
 
-"Die oberen Stockwerke. Lagerräume, leer, billig."
+"Was kann ich für Sie tun?"
 
-"Den Keller", sagte Sorel.
+"Ich brauche einen Raum. Länger vielleicht, zwei, drei Wochen. Etwas Billiges, muss nicht viel sein."
 
-Der Mann kratzte sich am Kinn. "Kein Fenster. Riecht eigenartig."
+Der Vermieter musterte ihn jetzt — die Ledertasche, den Kasten, die bleichen Hände, die Augen die seinem Blick auswichen. Dann nickte er, langsam.
 
-"Ich weiß."
+"Zwei Stockwerke oben hätte ich. Lagerräume, leer, trocken. Fünfzehn Schilling die Woche, Wasser vom Hof dazu."
 
-"Bis vor vier Wochen hat da noch jemand gewohnt." Er wischte über den Tresen, eine langsame Geste. "Älterer Herr. Ruhig, hat nie Ärger gemacht. Ist eines Morgens einfach weg gewesen. Tür offen, Sachen weg. Nicht mal die letzte Woche bezahlt."
+"Und unten? Haben Sie auch Keller?"
 
-Er nannte den Preis. Sorel legte die Münzen auf den Tresen, nicht in die Hand.
+Der Mann hielt inne, die Hand auf dem Tresenrand. "Keller?" Er legte den Kopf schief. "Warum denn ausgerechnet den Keller? Oben haben Sie Licht, Luft, Fenster zum Hafen."
 
-"Matratze ist noch unten. Stroh, nicht schlecht. Der Alte hat sie dagelassen." Er schob den Schlüssel über das Holz. "Sagen Sie Bescheid wenn Sie was brauchen."
+"Ich bin Fotograf. Für die Arbeit brauche ich Dunkelheit — keine Fenster, keine Ritzen. Sonst verderben die Platten."
+
+"Ach so." Der Vermieter kratzte sich am Kinn, halb überzeugt. "Fotograf. Ja, Keller hätte ich einen. Aber der ist nichts für jedermann. Kein Fenster, das passt Ihnen, aber er riecht auch eigenartig seit der Vormieter weg ist. Krieg's nicht raus, egal wie oft ich lüfte."
+
+"Der Geruch stört mich nicht."
+
+"Wie Sie meinen." Ein Schulterzucken. "Zehn Schilling die Woche, im Voraus. Ich sag's nur damit Sie's wissen — bis vor vier Wochen hat da noch jemand gewohnt. Älterer Herr, ruhig, hat nie Ärger gemacht. Ist eines Morgens einfach weg gewesen. Tür offen, Sachen weg. Nicht mal die letzte Woche bezahlt."
+
+Sorel zählte die Münzen ab und legte sie auf den Tresen, nicht in die Hand. Der Vermieter strich sie ein und griff unter die Theke. Ein Schlüssel, Eisen, der Bart abgegriffen. Er schob ihn über das Holz.
+
+"Matratze ist noch unten, Stroh, nicht schlecht. Die hat der Alte dagelassen. Und wenn was ist — zweite Tür links im ersten Stock, da wohn ich. Sagen Sie Bescheid wenn Sie was brauchen."
 
 Sorel nahm den Schlüssel. Warm vom Tresen. Sein Blick ging zum Nagel in der Wand, kurz, dann weg.
 
