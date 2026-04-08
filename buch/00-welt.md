@@ -12,6 +12,18 @@ Unter Vael liegt der Riss zwischen den Welten. Er kann von der Moragh-Seite als 
 
 ---
 
+## Zeitrechnung
+
+**Thalassische Zeitrechnung (TZ)** — der offizielle Kalender Thalassiens. Das Jahr 0 ist die Erfindung des Uhrwerks in menschlicher (irdischer) Zeitrechnung (~1269 n. Chr.). Von da an zählt Thalassien.
+
+- **Buch 1 spielt in TZ 551.** Frühling bis Sommer. Technologisch entspricht das dem frühen 19. Jahrhundert irdischer Zeit (~1820) — Kutschen, Gaslampen, Druckpressen, erste Dampfschiffe, Messing, Glas, Schreibmaschinen, Schneckenpost. Kein Strom.
+- **Die Interludien von Vael spielen in TZ 154.** Elkes Ankunft, das grosse Feuer, Elkes Durchgang nach Moragh. Technologisch entspricht das dem frühen 15. Jahrhundert irdischer Zeit (~1423) — Handwerk, Pferd und Fuhre, Öllampen, Feder und Tinte, Druckstock statt Druckpresse, Ihr/Euch als Anrede.
+- **Umrechnung:** TZ + ~1269 ≈ irdisches Jahr. Wo die Bibel "~1820" oder "1423" schreibt, ist die **irdische Technikepoche** gemeint, damit die Bildwelt beim Schreiben greifbar bleibt. **Kanonisch ist TZ.** In Kapiteln und Interludien steht die TZ-Zahl ohne Präfix: *11. Mai 551 · 6 Wochen 2 Tage in Vael* — Thalassier denken nicht in "TZ", sie denken in der Zahl, weil es für sie die einzige Jahreszahl gibt.
+
+**Moragh-Zeit (MZ)** — eigener Kalender, eigener Rhythmus. **1 MZ-Jahr ≈ 400 TZ-Jahre** (Zeitdilatation). 1 MZ-Monat ≈ 33 TZ-Jahre. Wird in Moragh-Kapiteln verwendet, nicht in Thalassien-Kapiteln.
+
+---
+
 ## Thalassien
 
 ### Der Kontinent
@@ -71,11 +83,11 @@ Halbinsel ins Graue Meer. Fluss **Grauwe** mündet hier — langsam, trüb, flie
 
 **Das Tidemoor-Haus** — Herrenhaus am Grauwe-Ufer. Standuhr die 4:33 pro Tag verliert. Mechanisch perfekt.
 
-**Die Werft Dahl** — Haron Dahl, tot (natürliche Ursachen). Moragh-Agent, von Varen vor ~2 Moragh-Monaten (~66 Thalassien-Jahre) durch das Portal geschickt. Kam als junger Mann, lebte ein ganzes Leben in Vael — unter falschem Namen, in der Werft die einst Lene Dahl gehörte. Baute Boote, schrieb Briefe an eine Frau mit Wasser-Resonanz die er nie traf, starb an Alter und an einer Schwerkraft für die sein Körper nicht gebaut war (Moragh: 0.7g, Thalassien: 1g). Hinterlassen an Maren: die Werft, das halbfertige Boot. Das Boot ist das Gegenstück zu Lenes Boot von 1423. Haron wusste das. Maren nicht.
+**Die Werft Dahl** — Haron Dahl, tot (natürliche Ursachen). Moragh-Agent, von Varen vor ~2 Moragh-Monaten (~66 Thalassien-Jahre) durch das Portal geschickt. Kam als junger Mann, lebte ein ganzes Leben in Vael — unter falschem Namen, in der Werft die einst Lene Dahl gehörte. Baute Boote, schrieb Briefe an eine Frau mit Wasser-Resonanz die er nie traf, starb an Alter und an einer Schwerkraft für die sein Körper nicht gebaut war (Moragh: 0.7g, Thalassien: 1g). Hinterlassen an Maren: die Werft, das halbfertige Boot. Das Boot ist das Gegenstück zu Lenes Boot aus TZ 154. Haron wusste das. Maren nicht.
 
 **Das Lichthaus** — Speichergebäude am Hafen. Sorels Dunkelkammer im Keller.
 
-**Das Archiv** — Im Rathauskeller. Gehütet von **Esther Voss**, Archivarin, unterstützt von ihrer Nichte **Jara Voss**. Enthält ein Manuskript — teilweise echt (geschrieben von Lene Dahl, 1423, einzige Überlebende der Vier), teilweise gefälscht (von Varen überschrieben und ergänzt).
+**Das Archiv** — Im Rathauskeller. Gehütet von **Esther Voss**, Archivarin, unterstützt von ihrer Nichte **Jara Voss**. Enthält ein Manuskript — teilweise echt (geschrieben von Lene Dahl in TZ 154, einzige Überlebende der Vier), teilweise gefälscht (von Varen überschrieben und ergänzt).
 
 **Die Druckerei Kvist** — Oberstadt, nahe am Marktplatz. Betrieben von **Runa Kvist**. Heißes Metall, Bleilettern, Druckerschwärze. Runa druckt alles — Handelsregister, Flugblätter, gelegentlich Fachzeitschriften.
 
@@ -93,7 +105,7 @@ Der **Steinkreis** im Botanischen Garten — Purpurstein, kreisförmig, schon im
 
 **Von Thalassien aus** braucht das Ritual vier Resonanzen gleichzeitig im Steinkreis: Pflanze (Alphina), Licht (Sorel), Zeit (Vesper), Wasser (Maren). **Bleibt 4:33 offen,** dann schließt es sich.
 
-**Von Moragh aus** kann das Portal immer geöffnet werden — es braucht jemanden der das Ritual kennt UND Magie verwenden kann. Moragh-Magier können das Portal jederzeit öffnen. So hat Varen Agenten nach Thalassien geschickt. So hat er es auch 1423 geöffnet, als Elke durchging (damals von Moragh nach Thalassien, also konnten Thalassier nach Moragh gehen). Varen hat die Methode das Portal zu öffnen WIEDERENTDECKT — er hat sie nicht erfunden. Vor 200 Moragh-Jahren (80.000 Thalassien-Jahre) flohen Menschen auf demselben Weg.
+**Von Moragh aus** kann das Portal immer geöffnet werden — es braucht jemanden der das Ritual kennt UND Magie verwenden kann. Moragh-Magier können das Portal jederzeit öffnen. So hat Varen Agenten nach Thalassien geschickt. So hat er es auch in TZ 154 geöffnet, als Elke durchging (damals von Moragh nach Thalassien, also konnten Thalassier nach Moragh gehen). Varen hat die Methode das Portal zu öffnen WIEDERENTDECKT — er hat sie nicht erfunden. Vor 200 Moragh-Jahren (80.000 Thalassien-Jahre) flohen Menschen auf demselben Weg.
 
 Varen hat per Daemon eine Anleitung in Moragh-Sprache hinterlegt — Papier mit Zeichnung des Steinkreises, Ritual-Anweisungen, Symbole. Zusätzlich ein Moragh-Sprachbuch in der Bibliothek. Beides von Jara gefunden. Das Ritual-Papier trägt Fingerabdrücke die nicht von Menschen stammen — zu viele Gelenke, Linien die sich gabeln wo menschliche nicht gabeln. Niemand hat den Daemon gesehen.
 
@@ -555,7 +567,7 @@ Er hat das Portal aktiviert um Resonanz-Begabte nach Moragh zu bringen. Will sie
 
 **Schritt 1 — Agenten:** Er hat Moragh-Menschen durch das Portal geschickt — junge Männer und Frauen mit Grundausbildung in Thalassisch (von Elke gelernt, weitergegeben). Für ihn vergehen Wochen. Für die Agenten vergehen Jahrzehnte in Thalassien. Sie leben ganze Leben, bauen Infrastruktur, suchen Resonanz-Begabte. Haron Dahl (Maren), der Uhrmacher-Fremde (Vesper), der Artikel-Verfasser (Alphina), der Platten-Fälscher (Sorel) — vier Köder, vier Agenten, vier verschiedene Methoden.
 
-**Schritt 2 — Manuskript und Ritual:** Er hat das Manuskript im Archiv überschrieben — die echten Aufzeichnungen von 1423 mit falschen Anweisungen ergänzt. Er hat per Daemon die Ritual-Anleitung und das Moragh-Sprachbuch in Vael hinterlegt. Alles was die Vier brauchen um das Ritual auszuführen — glaubhaft verpackt als uralte Entdeckung.
+**Schritt 2 — Manuskript und Ritual:** Er hat das Manuskript im Archiv überschrieben — die echten Aufzeichnungen aus TZ 154 mit falschen Anweisungen ergänzt. Er hat per Daemon die Ritual-Anleitung und das Moragh-Sprachbuch in Vael hinterlegt. Alles was die Vier brauchen um das Ritual auszuführen — glaubhaft verpackt als uralte Entdeckung.
 
 **Schritt 3 — Warten:** Die Vier kommen nach Vael. Jeder glaubt, ein persönliches Geheimnis verfolgen. Keiner ahnt, dass alle vier denselben Köder geschluckt haben. Sie finden das Manuskript, übersetzen das Ritual, öffnen das Portal. Freiwillig.
 
@@ -611,17 +623,17 @@ Bildhauerin. Aus dem Süden, Binnenmeerküste. Tochter eines Steinmetzmeisters, 
 
 Elke ging durch das Portal — während drei Feuer-Schemen in Vael wüteten. Kaspar und Keldan starben im Kampf. Lene überlebte als Einzige, schrieb das Manuskript. Elke lebt seitdem in Moragh. ~400 Thalassien-Jahre, aber nur ~1 Moragh-Jahr. Sie spricht Moragh. Kennt die Welt. Hat einen Garten in dem Pflanzen aus beiden Welten wachsen — gewachsen aus dem Stein den sie geformt hat.
 
-**Elkes Thalassisch ist von 1423.** Als die Vier (aus ~1820) sie treffen, klingt ihre Sprache falsch — alte Wörter, ausgestorbene Höflichkeitsformen, verschobene Grammatik. Sie sagt "Fuhre" statt "Kutsche", fragt nach dem "Druckstock" statt der Druckpresse. Die Vier verstehen sie — aber es hakt. Elke merkt es auch: ihre Wörter treffen nicht. Sie kennt keine Gaslampen, keine Dampfschiffe, keine Schreibmaschinen. 200 Jahre Thalassien-Geschichte sind an ihr vorbeigegangen. **Der Leser soll ahnen dass die Zeitdilatation größer ist als jeder denkt.** Vesper setzt es später zusammen.
+**Elkes Thalassisch ist von TZ 154.** Als die Vier (aus TZ 551) sie treffen, klingt ihre Sprache falsch — alte Wörter, ausgestorbene Höflichkeitsformen, verschobene Grammatik. Sie sagt "Fuhre" statt "Kutsche", fragt nach dem "Druckstock" statt der Druckpresse. Die Vier verstehen sie — aber es hakt. Elke merkt es auch: ihre Wörter treffen nicht. Sie kennt keine Gaslampen, keine Dampfschiffe, keine Schreibmaschinen. Knapp 400 Jahre Thalassien-Geschichte sind an ihr vorbeigegangen. **Der Leser soll ahnen dass die Zeitdilatation größer ist als jeder denkt.** Vesper setzt es später zusammen.
 
 **In Buch 2:** Elke wird die Führerin der Vier (Alphina, Vesper, Maren, Runa). Sie kennt Moragh. Sie kennt die Sprache. Sie misstraut allen Fraktionen — Orath, Velmar UND der Thar.
 
 ---
 
-## Zeitgeschichte — 1423
+## Zeitgeschichte — TZ 154
 
 Vier Menschen kamen nach Vael:
 - **Elke van der Holt** — Bildhauerin. Resonanz: Erde/Stein. Ging durch das Portal.
-- **Keldan Rohn** — Schmied. Resonanz: Eisen/Metall. **OFFEN: Pendant-Zuordnung.** War Vespers Pendant (als Uhrmacher). Jetzt Schmied → eher Runas Pendant? Vesper braucht ggf. neues 1423er-Pendant.
+- **Keldan Rohn** — Schmied. Resonanz: Eisen/Metall. **OFFEN: Pendant-Zuordnung.** War Vespers Pendant (als Uhrmacher). Jetzt Schmied → eher Runas Pendant? Vesper braucht ggf. neues TZ-154-Pendant.
 - **Lene Dahl** — Schiffbauerin. Marens Pendant.
 - **Kaspar Holm** — Maler. Sorels Pendant.
 
@@ -631,7 +643,7 @@ Während die Schemen in der Stadt wüteten, öffneten die Vier das Portal von de
 
 Lene schrieb auf was passiert war. Varen platzierte sein eigenes "Manuskript" daneben, für das nächste Mal.
 
-**Die 1423-Interludien (9 Stück):**
+**Die TZ-154-Interludien (9 Stück):**
 
 | # | ca. Seite | Inhalt |
 |---|-----------|--------|
