@@ -2,13 +2,13 @@
 
 ## Grundprinzip
 
-Zwei Welten. Ein Tor.
+Zwei Welten. Ein Riss.
 
 **Thalassien** — eine Welt ohne Magie. Menschen, Städte, Handwerk, Politik. Frühes 19. Jahrhundert. Kutschen, Gaslampen, Druckpressen, Dampfschiffe. Kein Strom. Die Physik funktioniert. Alles ist erklärbar. Bis auf die Orte, an denen die Grenze dünn ist.
 
 **Moragh** — eine Welt mit Magie. Eigene Völker, eigene Städte, eigene Geschichte. Magie ist Handwerk — man lernt sie, wie man in Thalassien Uhren repariert oder Boote baut. Magie kostet Kraft. Wie körperliche Arbeit. Wer Magie wirkt, ist danach erschöpft — Schweiß, Hunger, Muskelkater. Je größer die Magie, desto höher der Preis. Der Körper bezahlt. Immer.
 
-Unter Vael liegt ein Tor zwischen den Welten. Es wird von der Moragh-Seite kontrolliert.
+Unter Vael liegt der Riss zwischen den Welten. Er kann von der Moragh-Seite als Portal geöffnet werden.
 
 ---
 
@@ -89,7 +89,7 @@ Der **Steinkreis** im Botanischen Garten — Purpurstein, kreisförmig, schon im
 
 ### Wie es funktioniert
 
-**Richtungsportal.** Beide Seiten können das Tor öffnen. Aber wer öffnet, kann nur in eine Richtung durchlassen: **von der öffnenden Seite auf die andere.** Moragh öffnet → Moragh-Menschen gehen nach Thalassien. Thalassien öffnet → Thalassier gehen nach Moragh. Kein Gegenverkehr. Kein Zurückgehen durch dasselbe Tor.
+**Richtungsportal.** Beide Seiten können den Riss als Portal öffnen. Aber wer öffnet, kann nur in eine Richtung durchlassen: **von der öffnenden Seite auf die andere.** Moragh öffnet → Moragh-Menschen gehen nach Thalassien. Thalassien öffnet → Thalassier gehen nach Moragh. Kein Gegenverkehr. Kein Zurückgehen durch dasselbe Portal.
 
 **Von Thalassien aus** braucht das Ritual vier Resonanzen gleichzeitig im Steinkreis: Pflanze (Alphina), Licht (Sorel), Zeit (Vesper), Wasser (Maren). **Bleibt 4:33 offen,** dann schließt es sich.
 
@@ -117,7 +117,7 @@ Maren findet in Moragh die Karte und die Anleitung für die Moragh-Seite des Por
 
 ### Varens Köder — warum die Vier nach Vael kommen
 
-**Das Tor ruft NIEMANDEN.** Das Tor ist ein Mechanismus, kein Magnet. Es leckt — Moragh-Luft sickert durch (der Vaeler Atem), Pflanzen wachsen am Steinkreis, die Grauwe fließt manchmal rückwärts. Aber das Lecken zieht keine Menschen an. Die Anomalien in Vael existieren seit Jahrhunderten. Kein Resonanz-Begabter ist je deshalb hergekommen.
+**Der Riss ruft NIEMANDEN.** Der Riss ist ein Mechanismus, kein Magnet. Er leckt — Moragh-Luft sickert durch (der Vaeler Atem), Pflanzen wachsen am Steinkreis, die Grauwe fließt manchmal rückwärts. Aber das Lecken zieht keine Menschen an. Die Anomalien in Vael existieren seit Jahrhunderten. Kein Resonanz-Begabter ist je deshalb hergekommen.
 
 **Varen hat sie gerufen.** Alle vier. Über Agenten, die er durch das Portal geschickt hat. Für ihn Wochen Vorbereitung — für die Agenten Jahrzehnte in Thalassien.
 
@@ -127,12 +127,12 @@ Maren findet in Moragh die Karte und die Anleitung für die Moragh-Seite des Por
 |-------|-------|---------------|
 | Alphina | Fachzeitschriften-Artikel über Asplenium am 51. Breitengrad, Vael | Agent hat den Artikel an die Thalassische Gesellschaft für Botanik gebracht. Der Farn existiert wirklich (wächst am Steinkreis). Der Artikel macht ihn zur Nachricht. |
 | Sorel | Sein Gesicht auf einer Glasplatte aus Vael, im Sammlernachlass | Agent hat die Platte mit Moragh-Lichtmagie hergestellt und im Nachlass platziert. Die Technik existiert — Sorels eigene Resonanz (Licht/Bilder) macht das Bild SCHÄRFER als es sein sollte, weil sein Sinn darauf reagiert. |
-| Vesper | Der reisende Uhrmacher im Gasthaus, der von der Standuhr in Vael erzählt | Agent. Kein Uhrmacher — marineblaue Augen, keine Hornhaut, keine Ölränder. Moragh-Mensch, der Thalassisch gelernt hat. Die Standuhr verliert wirklich 4:33 (Tor-Leck). Der Agent hat nur dafür gesorgt, dass VESPER davon erfährt. |
+| Vesper | Der reisende Uhrmacher im Gasthaus, der von der Standuhr in Vael erzählt | Agent. Kein Uhrmacher — marineblaue Augen, keine Hornhaut, keine Ölränder. Moragh-Mensch, der Thalassisch gelernt hat. Die Standuhr verliert wirklich 4:33 (Riss-Leck). Der Agent hat nur dafür gesorgt, dass VESPER davon erfährt. |
 | Maren | Haron Dahls Erbschaft — die Werft, das Boot | Haron IST der Agent. Moragh-Mann, vor ~66 Thalassien-Jahren durchgeschickt. Lebte ein ganzes Leben in Vael. Fand Maren über Briefe, baute die Werft, das Boot. Starb an Alter und Schwerkraft. |
 
 **Die Resonanzen sind echt.** Alphinas Pflanzen reagieren wirklich auf sie. Sorel sieht wirklich unmögliche Dinge auf Platten. Vesper sieht wirklich Muster. Marens Wasser antwortet wirklich. Aber was sie nach VAEL zieht, ist kein kosmisches Schicksal — es ist ein Mann mit einem Plan und mit der Zeit auf seiner Seite.
 
-**Die Leserin glaubt in Buch 1:** Etwas Übernatürliches ruft die Vier. Schicksal. Bestimmung. **Die Wahrheit (Buch 2, stückweise):** Es war nie das Tor. Es war Varen. Er hat Landebahnen gebaut. Die Flugzeuge hat er nicht geflogen — die Resonanzen der Vier haben sie nach Vael getragen, WEIL die Köder perfekt zu ihrem jeweiligen Sinn passten. Jeder Köder sprach die Resonanz an, die er ansprechen sollte.
+**Die Leserin glaubt in Buch 1:** Etwas Übernatürliches ruft die Vier. Schicksal. Bestimmung. **Die Wahrheit (Buch 2, stückweise):** Es war nie der Riss. Es war Varen. Er hat Landebahnen gebaut. Die Flugzeuge hat er nicht geflogen — die Resonanzen der Vier haben sie nach Vael getragen, WEIL die Köder perfekt zu ihrem jeweiligen Sinn passten. Jeder Köder sprach die Resonanz an, die er ansprechen sollte.
 
 ### Zeugen
 
@@ -509,7 +509,7 @@ Orath, Velmar, Thar. Jeder will die Resonanz-Begabten. Elke misstraut allen drei
 
 ---
 
-## Varen — der Forscher am Tor
+## Varen — der Forscher am Riss
 
 ### Wer er ist
 
@@ -517,7 +517,7 @@ Orath, Velmar, Thar. Jeder will die Resonanz-Begabten. Elke misstraut allen drei
 
 **Unabhängig. Aus ALLEN Fraktionen ausgestoßen.** Forscher, kein Soldat. War bei den Gilden — sein Experiment hat den Krieg ausgelöst (siehe "Varens Schuld"). War in Velmar — zu eigenständig. War bei der Thar — zu gefährlich (sie ahnen dass er mehr weiß als er sagt). Keine Fraktion will ihn. Alle fürchten ihn. Er handelt auf eigene Faust, mit einem Handvoll Deserteuren die ihm folgen.
 
-**Mächtig. GUT GENÄHRT. In Form.** Nicht ausgemergelt, nicht am Ende. Das Tor zu öffnen hat ihn Monate gekostet, aber er hat sich ERHOLT. Großes Reservoir, jahrelange Erfahrung. Seine Magie kostet ihn (er ist Moragh-geboren) — Müdigkeit nach dem Kampf, ja. Aber er hat Reserven.
+**Mächtig. GUT GENÄHRT. In Form.** Nicht ausgemergelt, nicht am Ende. Das Portal zu öffnen hat ihn Monate gekostet, aber er hat sich ERHOLT. Großes Reservoir, jahrelange Erfahrung. Seine Magie kostet ihn (er ist Moragh-geboren) — Müdigkeit nach dem Kampf, ja. Aber er hat Reserven.
 
 **Spricht Thalassisch** — flüssig, mit Akzent. Hat Elke vor ~1 Moragh-Jahr getroffen. Sechs Monate zusammen — Liebesgeschichte, Forschungspartnerschaft, intellektuelle und körperliche Anziehung. Elke hat ihm Thalassisch beigebracht. Dann hat sie sich getrennt: "Du willst die Welt reparieren und wirst Menschen zerbrechen dabei." Sie ist weitergezogen in Moragh. Varen hat weitergemacht. Allein.
 
@@ -557,13 +557,13 @@ Er hat das Portal aktiviert um Resonanz-Begabte nach Moragh zu bringen. Will sie
 
 **Schritt 2 — Manuskript und Ritual:** Er hat das Manuskript im Archiv überschrieben — die echten Aufzeichnungen von 1423 mit falschen Anweisungen ergänzt. Er hat per Daemon die Ritual-Anleitung und das Moragh-Sprachbuch in Vael hinterlegt. Alles was die Vier brauchen um das Ritual auszuführen — glaubhaft verpackt als uralte Entdeckung.
 
-**Schritt 3 — Warten:** Die Vier kommen nach Vael. Jeder glaubt, ein persönliches Geheimnis verfolgen. Keiner ahnt, dass alle vier denselben Köder geschluckt haben. Sie finden das Manuskript, übersetzen das Ritual, öffnen das Tor. Freiwillig.
+**Schritt 3 — Warten:** Die Vier kommen nach Vael. Jeder glaubt, ein persönliches Geheimnis verfolgen. Keiner ahnt, dass alle vier denselben Köder geschluckt haben. Sie finden das Manuskript, übersetzen das Ritual, öffnen das Portal. Freiwillig.
 
 **Die Falle:** Sorel stirbt — damit fehlt eine der vier Resonanzen für die Rückkehr. Die Falle war nicht GEPLANT (Sorels Tod war unbeabsichtigt), aber sie ist endgültig. Und sie dient Varens Zweck: die Resonanz-Begabten sind in Moragh, ohne Rückweg. Abhängig von ihm.
 
 ### Vorgeschichte mit Elke
 
-6 Moragh-Monate vor Buch 1 hat Varen Elke gefunden — die einzige Thalassierin in Moragh. Liebesgeschichte. Sechs Monate zusammen: er hat geforscht, sie hat geformt, er hat ihre Sprache gelernt. Intellektuelle und körperliche Anziehung auf beiden Seiten. Elke hat ihm Thalassisch beigebracht — und er hat es an seine Agenten WEITERGEGEBEN. Nach sechs Monaten hat Elke ihn durchschaut: "Du willst die Welt reparieren und wirst Menschen zerbrechen dabei." Sie wusste nicht wie recht sie hatte — er repariert nicht die Welt, er repariert SEINEN Fehler. Elke hat sich getrennt, ist weitergezogen in Moragh. Kann nicht zurück nach Thalassien. Varen hat seine Schlüsse gezogen — allein. Er braucht MEHR Resonanz-Begabte. Also schickt er Agenten durch das Tor, mit dem Thalassisch das Elke ihm beigebracht hat, um Resonanz-Begabte in Thalassien zu finden und nach Vael zu locken.
+6 Moragh-Monate vor Buch 1 hat Varen Elke gefunden — die einzige Thalassierin in Moragh. Liebesgeschichte. Sechs Monate zusammen: er hat geforscht, sie hat geformt, er hat ihre Sprache gelernt. Intellektuelle und körperliche Anziehung auf beiden Seiten. Elke hat ihm Thalassisch beigebracht — und er hat es an seine Agenten WEITERGEGEBEN. Nach sechs Monaten hat Elke ihn durchschaut: "Du willst die Welt reparieren und wirst Menschen zerbrechen dabei." Sie wusste nicht wie recht sie hatte — er repariert nicht die Welt, er repariert SEINEN Fehler. Elke hat sich getrennt, ist weitergezogen in Moragh. Kann nicht zurück nach Thalassien. Varen hat seine Schlüsse gezogen — allein. Er braucht MEHR Resonanz-Begabte. Also schickt er Agenten durch das Portal, mit dem Thalassisch das Elke ihm beigebracht hat, um Resonanz-Begabte in Thalassien zu finden und nach Vael zu locken.
 
 ### Die erste Begegnung (Kap 35)
 
@@ -597,7 +597,7 @@ Die Thar haben die Leylinien-Kopplung bereits realisiert — ihr Netzwerk funkti
 
 Varens Dilemma: Warnen bedeutet sich verraten (die Gilden würden ihn als Kriegsauslöser töten). Schweigen bedeutet warten bis jemand die Waffe entdeckt — ob durch Unfall oder Absicht. **Varen hasst die Thar** nicht weil sie böse sind, sondern weil sie mit jeder neuen Kopplung die Bombe größer machen. In Buch 2-3 wird das zu einem zentralen Konflikt.
 
-### Vael heilt WEIL das Tor geschlossen ist
+### Vael heilt weil der Riss versiegt
 
 Mit dem Portal-Durchgang und Sorels Tod ist die Verbindung gekappt. Konsequenz: kein Lecken mehr. Moragh-Magie sickert nicht mehr nach Thalassien. Vael normalisiert sich — der Nebel lichtet sich, die Grauwe fließt vorwärts, die Farne stehen still. Dämonen die schon durch waren verlieren ihre Moragh-Verbindung und verblassen über Tage.
 
@@ -605,7 +605,7 @@ Mit dem Portal-Durchgang und Sorels Tod ist die Verbindung gekappt. Konsequenz: 
 
 ## Elke van der Holt — vor 400 Jahren
 
-Bildhauerin. Aus dem Süden, Binnenmeerküste. Tochter eines Steinmetzmeisters, Gesellin, reist allein. Kam nach Vael als das Tor das letzte Mal offen war — vor 400 Thalassien-Jahren, vor Wochen/Monaten in Moragh-Zeit. Kam wegen des Purpursteins — ein Gestein das es nirgendwo sonst gibt.
+Bildhauerin. Aus dem Süden, Binnenmeerküste. Tochter eines Steinmetzmeisters, Gesellin, reist allein. Kam nach Vael als das Portal das letzte Mal offen war — vor 400 Thalassien-Jahren, vor Wochen/Monaten in Moragh-Zeit. Kam wegen des Purpursteins — ein Gestein das es nirgendwo sonst gibt.
 
 **Resonanz: Erde/Stein.** Spürt was unter der Oberfläche liegt. Wasser, Hohlräume, Adern im Gestein. Hält es für Handwerks-Instinkt — sie "hört" den Stein, seine Maserung, seine Schwächen. In Moragh: Stein formen ohne Werkzeug. Hand auf Basalt, und der Basalt gibt nach.
 
@@ -620,14 +620,14 @@ Elke ging durch das Portal — während drei Feuer-Schemen in Vael wüteten. Kas
 ## Zeitgeschichte — 1423
 
 Vier Menschen kamen nach Vael:
-- **Elke van der Holt** — Bildhauerin. Resonanz: Erde/Stein. Ging durch das Tor.
+- **Elke van der Holt** — Bildhauerin. Resonanz: Erde/Stein. Ging durch das Portal.
 - **Keldan Rohn** — Schmied. Resonanz: Eisen/Metall. **OFFEN: Pendant-Zuordnung.** War Vespers Pendant (als Uhrmacher). Jetzt Schmied → eher Runas Pendant? Vesper braucht ggf. neues 1423er-Pendant.
 - **Lene Dahl** — Schiffbauerin. Marens Pendant.
 - **Kaspar Holm** — Maler. Sorels Pendant.
 
-Varen öffnete das Tor von der Moragh-Seite — einseitig, wie immer. Er wusste nicht was auf der anderen Seite war. Er wusste nur, dass zweihundert Jahre vorher Moragh-Menschen hinübergegangen waren. Er schickte drei Feuer-Schemen durch — doppelt so groß wie Menschen, gebunden an seinen Willen. In Thalassien wurden sie als Feuerdämonen verstanden. Die Vaeler griffen an. Die Schemen wehrten sich. Teile der Stadt brannten nieder. Das große Feuer.
+Varen öffnete das Portal von der Moragh-Seite — einseitig, wie immer. Er wusste nicht was auf der anderen Seite war. Er wusste nur, dass zweihundert Jahre vorher Moragh-Menschen hinübergegangen waren. Er schickte drei Feuer-Schemen durch — doppelt so groß wie Menschen, gebunden an seinen Willen. In Thalassien wurden sie als Feuerdämonen verstanden. Die Vaeler griffen an. Die Schemen wehrten sich. Teile der Stadt brannten nieder. Das große Feuer.
 
-Während die Schemen in der Stadt wüteten, öffneten die Vier das Tor von der Thalassien-Seite. Kaspar und Keldan starben im Kampf mit den Schemen. Elke ging durch das Portal nach Moragh. Lene überlebte als Einzige in Thalassien. Dann lösten die Schemen sich im Rauch auf — Varen hatte ihre Bindung gekappt, nachdem er auf der Moragh-Seite auf Elke getroffen war.
+Während die Schemen in der Stadt wüteten, öffneten die Vier das Portal von der Thalassien-Seite. Kaspar und Keldan starben im Kampf mit den Schemen. Elke ging durch das Portal nach Moragh. Lene überlebte als Einzige in Thalassien. Dann lösten die Schemen sich im Rauch auf — Varen hatte ihre Bindung gekappt, nachdem er auf der Moragh-Seite auf Elke getroffen war.
 
 Lene schrieb auf was passiert war. Varen platzierte sein eigenes "Manuskript" daneben, für das nächste Mal.
 
@@ -643,19 +643,19 @@ Lene schrieb auf was passiert war. Varen platzierte sein eigenes "Manuskript" da
 | 6 | 530 | Elke und Kaspar. Nacht. Intimität. |
 | 7 | 620 | Kampf. Kaspar und Keldan sterben. Elke geht durch. Lene überlebt allein. |
 | 8 | 720 | Lenes Manuskript. Letzter Eintrag. |
-| 9 | 830 | Während Alphina vor dem Tor steht: Elke auf der anderen Seite. Sie hört das Tor. Jemand kommt. |
+| 9 | 830 | Während Alphina vor dem Portal steht: Elke auf der anderen Seite. Sie hört das Portal. Jemand kommt. |
 
 ---
 
 ## Szenario — Ende Buch 1
 
-Am Steinkreis begreifen die Vier, was sie tun müssen — oder was sie GLAUBEN tun zu müssen. Das überschriebene Manuskript sagt: Geht durch, schließt das Tor von innen, rettet Vael. Sie halten es für ein Opfer.
+Am Steinkreis begreifen die Vier, was sie tun müssen — oder was sie GLAUBEN tun zu müssen. Das überschriebene Manuskript sagt: Geht durch, schließt das Portal von innen, rettet Vael. Sie halten es für ein Opfer.
 
 Alphina sagt: "Wir gehen. Alle vier."
 
 Das Ritual im Steinkreis. Vier Resonanzen, gleichzeitig. Die Luft reißt auf. Das Portal bleibt 4:33 offen. Sie gehen durch. **Runa schlüpft** in den letzten Sekunden mit durch. Fünf Menschen in Moragh, nicht vier. Das Portal schließt sich. Tohl und Halvard stehen am Gartenrand und sehen alles.
 
-**Die Falle:** Sorel stirbt in Moragh (Varens Bindungsmagie). Drei Resonanzen übrig. Das Ritual braucht vier. Der Rückweg über das Portal ist Mathematik, nicht Magie. Kein Lecken mehr, keine Moragh-Magie die durchsickert. Vael heilt WEIL das Tor geschlossen ist. Der Nebel lichtet sich. Die Grauwe fließt vorwärts. Die Pflanzen stehen still — und wachsen jetzt auch in den Steinkreis hinein. Die unsichtbare Grenze ist weg. Dämonen die schon durch waren verlieren ihre Moragh-Verbindung, verblassen über Tage. Halvard schreibt seinen Bericht. Edric Dahl an der Werft, Jara Voss im Archiv mit dem Moragh-Sprachbuch das keinen Zweck mehr hat.
+**Die Falle:** Sorel stirbt in Moragh (Varens Bindungsmagie). Drei Resonanzen übrig. Das Ritual braucht vier. Der Rückweg über das Portal ist Mathematik, nicht Magie. Kein Lecken mehr, keine Moragh-Magie die durchsickert. Vael heilt weil der Riss versiegt. Der Nebel lichtet sich. Die Grauwe fließt vorwärts. Die Pflanzen stehen still — und wachsen jetzt auch in den Steinkreis hinein. Die unsichtbare Grenze ist weg. Dämonen die schon durch waren verlieren ihre Moragh-Verbindung, verblassen über Tage. Halvard schreibt seinen Bericht. Edric Dahl an der Werft, Jara Voss im Archiv mit dem Moragh-Sprachbuch das keinen Zweck mehr hat.
 
 **Letzte Seite Buch 1:** Alphina steht auf der anderen Seite. Eine fremde Welt. Zwei Monde am Himmel. Sorel tot. Vesper, Maren. Und hinter ihnen, atemlos, Runa. Die Luft schmeckt nach etwas das sie nicht kennt. Der Rückweg existiert nicht.
 
@@ -663,7 +663,7 @@ Das Ritual im Steinkreis. Vier Resonanzen, gleichzeitig. Die Luft reißt auf. Da
 
 ## Buch 2 — Moragh (Übersicht)
 
-Fünf Menschen aus einer Welt ohne Magie, in einer Welt im Krieg. Das Tor ist zu. Sorel stirbt in der ersten Stunde. Die vier Überlebenden — Alphina, Vesper, Maren, Runa — fliehen. Elke findet sie. Führt sie durch Moragh.
+Fünf Menschen aus einer Welt ohne Magie, in einer Welt im Krieg. Das Portal ist zu. Sorel stirbt in der ersten Stunde. Die vier Überlebenden — Alphina, Vesper, Maren, Runa — fliehen. Elke findet sie. Führt sie durch Moragh.
 
 Drei Fraktionen wollen sie: Die Gilden als Waffe, die Binder zum Studium, die Thar als Energiequelle. Elke misstraut allen dreien.
 
@@ -677,7 +677,7 @@ Die Thar entdecken Runas Feuer-Resonanz. Wollen sie. Runa muss wählen.
 
 ## Buch 3 — Die Quelle (Übersicht)
 
-Zeitsprung: ~2220 Thalassien-Jahre seit dem Durchgang. In Moragh: ~5,5 Jahre. Thalassien hat sich weiterentwickelt — Industrialisierung, erste Wissenschaftler die das Tor theoretisch verstehen. Das Tor öffnet sich erneut.
+Zeitsprung: ~2220 Thalassien-Jahre seit dem Durchgang. In Moragh: ~5,5 Jahre. Thalassien hat sich weiterentwickelt — Industrialisierung, erste Wissenschaftler die das Portal theoretisch verstehen. Das Portal öffnet sich erneut.
 
 Wiedervereinigung der Welten. Thalassien-Wissenschaftler kommen nach Moragh, erkennen die "Sonne" als Schwarzes Loch. Moragh-Menschen verstehen nicht warum das verstörend ist.
 
@@ -685,7 +685,7 @@ Alphina, Vesper, Maren, Runa — gealtert in Moragh-Zeit, aber nicht in Thalassi
 
 **Alphina stirbt.** Die Umstände sind Teil der Geschichte von Buch 3. Die Pflanzen um sie herum wachsen ein letztes Mal. Dann Stille.
 
-Die Quelle zwischen den Welten bleibt offen. Nicht als Tor — als Grenze die beide Seiten akzeptieren.
+Die Quelle zwischen den Welten bleibt offen. Nicht als Portal — als Grenze die beide Seiten akzeptieren.
 
 ---
 
@@ -695,7 +695,7 @@ Die Quelle zwischen den Welten bleibt offen. Nicht als Tor — als Grenze die be
 1. Resonanz ist ein Sinn. Angeboren. Nicht erlernbar.
 2. Subtil — Kribbeln, Pochen, Pflanzen die reagieren.
 3. Kostet nichts. Keine Erschöpfung.
-4. Verstärkt sich in der Nähe des Tors.
+4. Verstärkt sich in der Nähe des Risses.
 5. Bis Akt III kann alles Zufall sein.
 
 ### In Moragh (Magie)
@@ -708,4 +708,4 @@ Die Quelle zwischen den Welten bleibt offen. Nicht als Tor — als Grenze die be
 ### Verbindung
 6. Emotionale Intensität verstärkt Resonanz. Sex, Trauer, Wut.
 7. Magie und Romantik sind eine Linie. Jede intime Szene löst Magie aus.
-8. Das Tor ist der dünnste Punkt zwischen den Welten.
+8. Der Riss ist der dünnste Punkt zwischen den Welten.

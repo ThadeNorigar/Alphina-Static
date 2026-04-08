@@ -142,7 +142,7 @@ Was muss geklärt werden?
 
 **POV-Vokabular-Reservierung Alphina (für Kap 9 etabliert):**
 - Steinkreis = "Kreis" oder "die Steine" (nicht "Ring", nicht "Plattform")
-- Purpurstein im Garten = "warm wie Haut" (Wiederholung Kap 1 + Kap 5: Erde-warm, Tor-warm, jetzt Stein-warm — sammelnd, nicht wiederholend)
+- Purpurstein im Garten = "warm wie Haut" (Wiederholung Kap 1 + Kap 5: Erde-warm, Riss-warm, jetzt Stein-warm — sammelnd, nicht wiederholend)
 - Pochen unter dem Stein = "ein Schlag, dann Pause, dann ein Schlag" (NICHT "Herzschlag", weil Maren das so nennt)
 - Schemen-Tiere = "die Form auf der Dachkante" / "etwas das nicht hingehört" (NICHT "Schattenkatze" — das ist Runas Wort, Alphina nimmt es nur PASSIV in den Mund über das Flugblatt)
 
@@ -157,7 +157,7 @@ Was muss geklärt werden?
 | Steinkreis im Garten (Aktplan: Akt IV) | **Geladen:** Erste Begegnung. Pochen, Wärme, Pflanzen-Grenze. Keine Erklärung. |
 | Süßer namenloser Geruch | **Echo + neu geladen:** Alphina riecht ihn im Garten zwischen den Beeten. Sie weiß nicht, dass Maren denselben Geruch an ihrem Boot kennt. Verbindung wird in Akt II/III geschlagen. |
 | Schemen folgen NUR Alphina | **Geladen:** Erstmals als persönlich-zielgerichtet erkennbar. Sie folgen ihr durch die Gassen. |
-| Runas warme Hände | **Geladen:** Alphina registriert es zweimal. Tschechow für Akt IV (Runa schlüpft durch das Tor) und Buch 2 (Affäre). |
+| Runas warme Hände | **Geladen:** Alphina registriert es zweimal. Tschechow für Akt IV (Runa schlüpft durch das Portal) und Buch 2 (Affäre). |
 | Halvard, der Verbrennungen ohne Hitzequelle behandelt | **Geladen:** Wird in Kap 11 wieder aufgegriffen, später in Akt III voll ausgebaut. |
 | Standuhr-Geräusch aus dem Pförtnerhaus | **Sehr leiser Tschechow:** Alphina hört eine ferne Uhr im Garten. Sie weiß nichts von Vespers Uhr. Echo, das die Leserin verbindet. |
 | Pochen unter dem Stein | **Tschechow:** Maren spürt es in der Werft (Kap 8), Alphina spürt es im Garten (Kap 9). Zwei POVs, derselbe Puls, ohne dass die Figuren es wissen. |

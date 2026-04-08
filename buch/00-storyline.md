@@ -2,7 +2,7 @@
 
 ## Prämisse
 
-Zwei Welten. Ein Tor.
+Zwei Welten. Ein Riss.
 
 **Thalassien** — ohne Magie. Frühes 19. Jahrhundert (Buch 1). Durch Zeitdilatation (1 Moragh-Jahr = 400 Thalassien-Jahre) entwickelt sich Thalassien rasant weiter: ~1910 in Buch 2, ~2250 in Buch 3.
 
@@ -125,7 +125,7 @@ Schemen eskalieren. Alphina+Sorel: Bruch → Versöhnung. Alphina+Runa: FWB begi
 **Interludium 3 — ERSTER VAREN-POV**
 Varen in Moragh. Spürt die Resonanzen. Seine Karten: 3 tote Quellen rot markiert. Auf einer zweiten Karte: Bund-Truppenbewegungen, die auf weitere Quellen zielen. "Sie kommen." Notwendigkeit.
 
-**Akt IV — Das Tor**
+**Akt IV — Das Portal**
 Ritual. Portal öffnet sich (4:33). Runa schlüpft durch. Fünf in Moragh.
 
 **VAREN.** 1423er Thalassisch. Hand an Alphinas Kinn. Besitzergreifend, forschend.
