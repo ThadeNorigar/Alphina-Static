@@ -1,93 +1,113 @@
 # Alphina — Szene 1
 
-Die Lavendelstecklinge waren am dritten Tag bereit, und am dritten Tag kniete sie zwischen den Beeten der westlichen Anlage und sortierte sie in zwei Schalen. Die linke für die Triebe mit der besten Bewurzelung, die rechte für jene, die noch warten mussten. Die Erde unter ihren Knien war feucht von der Mittagsbewässerung; ein dunkler Fleck zog sich quer über den Stoff ihres Rocks, eine Form wie eine Insel ohne Namen. Sie hatte vergessen, das Kniepolster zu nehmen, das Henrik ihr am ersten Tag geliehen hatte. Es lag drei Beete weiter, am Komposthaufen, dort wo sie gestern Abend ihre Schaufel hingelegt hatte, und sie hatte es gesehen, als sie kam, und es nicht geholt. Manchmal wollte sie die Erde direkt am Knochen.
+Die Lavendelstecklinge waren am dritten Tag bereit, und am dritten Tag kniete sie zwischen den Beeten der westlichen Anlage und sortierte sie in zwei Schalen. Die linke für die Triebe mit der besten Bewurzelung, die rechte für jene, die noch warten mussten. Die Erde unter ihren Knien war feucht von der Mittagsbewässerung; ein dunkler Fleck zog sich quer über den Stoff ihres Rocks, eine Form wie eine Insel ohne Namen. Sie hatte das Kniepolster, das Henrik ihr in der ersten Woche geliehen hatte, am Komposthaufen liegen lassen. Sie wusste, wo es lag. Sie hatte es gesehen, als sie kam. Sie hatte es nicht geholt. Manchmal wollte sie die Erde direkt am Knochen, weil die Erde in diesem Garten anders sprach, wenn nichts dazwischen war.
 
-Der Geruch im Garten war eine Schichtung. Oben Lavendel, frisch geschnitten, der ölige scharfe Duft, der ihre Finger noch tagelang begleiten würde. Darunter Kompost, schwer, süß, der Geruch von Blattwerk, das in seine Bestandteile zerfiel. Darunter feuchter Stein, der Geruch des Gartenmauerwerks, das selbst im Sommer nie ganz trocknete. Und unter allem, am tiefsten, ein vierter Geruch, den sie seit Wochen nicht zuordnen konnte — süßlich, dicht, nicht nach Pflanze, nicht nach Tier, nicht nach Verwesung. Etwas Eigenes. Er lag in den Beeten wie eine Antwort auf eine Frage, die niemand gestellt hatte.
+Sechs Wochen und zwei Tage. So lange war sie jetzt in Vael, und drei Wochen davon kam sie jeden Nachmittag in diesen Garten. Am ersten Tag hatte Runa sie aus der Druckerei hergeschickt — *Farne so hoch wie ich* — und am dritten Tag hatte Alphina dort gestanden, zwischen den Wedeln an der nördlichen Mauer, und ihren Körper zum ersten Mal nicht mehr unter Kontrolle gehabt, nicht wirklich. Sie hatte sich hingesetzt. Eine Stunde. Dann war Henrik gekommen, hatte sie dort angetroffen, und hatte nichts gesagt. Erst als sie aufstand und sich vorstellte, hatte er gefragt, ob sie eine Handbreit vom Asplenium mitnehmen wolle für ihre Mappe, und das war sein Weg gewesen, sie einzuladen.
 
-In Velde hatte sie alle Gerüche benannt. In Vael hatte sie aufgehört.
+Seitdem kam sie. Henrik hatte kein Gehalt angeboten und keines verlangt; sie hatte keines erwartet. Sie hatte aus Velde genug Rücklagen für ein halbes Jahr im Anker, wenn sie sparsam aß, und in Vael lebte man ohnehin nur in zwei Mahlzeiten. Der Tausch lief stillschweigend: sie half beim Sortieren, beim Umsetzen, bei Diagnosen an den Rosen, die immer dieselbe Pilzkrankheit bekamen; er gab ihr die kleine Kammer an der Ostseite des zweiten Treibhauses, einen Tisch, eine Lampe, und die Erlaubnis, die Herbariumsschränke zu öffnen. Für eine Botanikerin aus Velde war das mehr Gegenleistung, als sie in elf Jahren an der Gesellschaft je bekommen hatte. Der Velder Kurator hatte ihr jede Mappe einzeln abgezeichnet. Henrik hatte ihr am zweiten Tag den Schlüssel in die Hand gedrückt und den Raum wieder verlassen.
 
-Eine Hummel kam aus dem Lavendel hervor, schwer, träge. Sie taumelte zwei Handbreit über der Erde, blieb in der Luft stehen — wirklich stehen, nicht das normale Pendeln einer Hummel zwischen Blüten — und hing dort, eine Sekunde, zwei. Dann fiel sie in den Lavendel zurück, als hätte jemand sie ausgeschaltet. Alphinas Hand blieb über der Schale stehen, ein Stängel zwischen den Fingern. Sie wartete, ob die Hummel wieder hochkam. Sie kam wieder hoch. Sie taumelte weiter, in einer Linie, die kein Insekt zog. Alphina schrieb es nicht ins Notizbuch. Manche Dinge schrieb sie auf, manche nicht. Es gab eine Linie zwischen den beiden, und die Linie hatte sich in den letzten Wochen verschoben.
+Sie hob einen Lavendelstängel aus dem linken Korb und prüfte die Bewurzelung am unteren Ende. Vier kleine weiße Fäden, schon fest. Sie legte ihn zurück. Die Erde unter ihren Fingern war warm, feucht, von einer Wärme die nicht von der Sonne kam — die Sonne kam, durchaus, heute durch einen Dunst, der dünn genug war um einen blassen Kreis an den Himmel zu zeichnen, aber die Wärme im Boden war von Anfang an da gewesen, die ganze Stadt lag darauf. Sie hatte aufgehört, das als seltsam zu notieren. Es war eine Eigenschaft von Vael, wie das Meer eine Eigenschaft der Küste war.
 
-Schritte auf dem Kies. Schwer, regelmäßig. Henrik.
+Ein Stängel in der rechten Schale hatte keine Bewurzelung. Sie legte die Handfläche darauf, lose, ohne zu drücken. Nichts an der Geste sagte *wachse*. Sie hatte es in den ersten Wochen mit Worten versucht, hatte sich lächerlich gefühlt, hatte aufgehört. Mit Worten ging es nicht. Mit der Hand und einem Gedanken ging es. Sie hielt den Gedanken: *den Wurzeln Raum geben, damit sie greifen*. Zwanzig Atemzüge, nicht mehr. Dann hob sie die Hand. Der Stängel sah aus wie vorher. Sie zog ihn vorsichtig aus der Erde. Drei kleine weiße Fäden hingen am unteren Ende, wo vor einer Minute noch keine gewesen waren.
 
-"Ich hab Wasser geholt." Er kam um die Hortensie, die Schale in beiden Händen, das Wasser darin schwappte über den Rand. Er war ein kleiner Mann, breit in den Schultern, mit einem Bart in dem immer Tabakskrümel hingen, und seine linke Hüfte schleifte ein wenig, wenn er ging — eine alte Verletzung, von der er nie sprach. Er stellte die Schale neben die Stecklinge ab. "Wenn Sie morgen weitermachen, könnten wir die Spalierbirnen vor dem Regen anbinden."
+Sie legte den Stängel in die linke Schale.
 
-"Ich kann das heute fertigmachen."
+Beim dritten Mal, vor zwei Wochen, hatte sie die Hand zurückgezogen und zwei Stunden lang nicht mehr in den Garten gehen können. Beim vierten Mal hatte sie es wiederholt, weil sie es verstehen wollte. Sie verstand es noch nicht. Sie wusste nur, was ging und was nicht. Dass ein Stecking schneller wurzelte, wenn sie ihre Hand darüber hielt und etwas dachte, das keine Sprache war, sondern ein Drängen. Dass das Gras am Wegrand dort verdorrte, wo sie im Vorübergehen ein *nicht hier* im Kopf gehabt hatte — ein schmaler Streifen, einen Schuh breit, der dem Weg folgte und den Henrik vor einer Woche bemerkt und beiläufig kommentiert hatte: *komisch, da wächst nichts mehr, nicht mal der Hahnenfuß*. Dass die kleine Ahornsaat am Rand des Kompostes überraschend schnell ein zweites Blatt gezeigt hatte, nachdem sie eine Stunde daneben gekniet und an Ahorne in Velde gedacht hatte. Jedes Experiment war still. Sie schrieb keines auf. Es gab eine Linie, und die Linie hatte sich in Vael verschoben, und das war der Teil, den sie sich eingestand. Mehr war für später.
 
-"Heute ist viel."
+Schritte auf dem Kies. Schwer, etwas ungleich — das linke Bein schleifte ein wenig, seit sie ihn kannte, und das Kies gab unter dem rechten mehr nach als unter dem linken. Henrik.
 
-Sie sah hoch zu ihm. "Es geht."
+"Ich hab Wasser geholt." Er kam um die Hortensie, die Schale in beiden Händen. Die kleine Brille saß ihm vorne auf der Nase, wie immer, wenn er aus dem Treibhaus kam und noch nicht umgestellt hatte auf draußen. Er war gebückt in den Schultern, ein Gebück, das nicht vom Alter war, sondern von vierzig Jahren über Beeten. In seinem Bart hingen ein paar Tabakkrümel, die keiner von ihnen erwähnte. "Sind die vom Montag fertig?"
 
-Henrik nickte, eine Geste, die mehr ein Schulterzucken war. Er wischte sich die Hand an der Schürze ab und schaute über die westliche Anlage, die Augen halb zugekniffen gegen das milchige Licht. "Die Farne dort hinten." Er deutete mit dem Kinn zur nördlichen Mauer. "Die wachsen mir zu schnell. Ich schneide sie alle vier Tage. Am Anfang, im April, hatte ich sie alle vierzehn geschnitten. Jetzt sind es vier."
+"Die linke Schale ist durch. In der rechten sind noch zwölf, die warten müssen."
 
-"Welche Farne?"
+"Ich nehm die linke dann mit ins Treibhaus zwei." Er stellte die Wasserschale neben die Stecklinge ab, mit dem ruhigen Griff eines Mannes, der nie Wasser verschüttete. Seine Hände waren groß, die Nägel schwarz bis an die Haut, die Knöchel rissig. An der rechten fehlte das obere Glied des kleinen Fingers; das wusste sie seit ihrer zweiten Woche, als er es ihr beim Einschlagen eines Pfahls gezeigt hatte, ohne eine Geschichte dazu zu geben. "Und du, sag — willst du die Farne heute mitnehmen, zum Pressen? Ich hab sie gestern geschnitten, die an der Nordmauer, wie jeden vierten Tag."
 
-"Hirschzunge. Standen schon immer dort, an der Mauer. Ich weiß nicht, ob es am Wasser liegt oder am Stein. In dieser Stadt liegt so was meistens am Stein." Er sagte es ohne Betonung, wie man von einem alten Kollegen sprach, der einen Tick hatte. "Würden Sie sie sich mal ansehen, wenn Sie eh hier sind?"
+"Wie viele diesmal?"
 
-"Wenn ich mit den Stecklingen fertig bin."
+"Zwei Fuhren. Im März waren es sechs, jedes Mal. Du erinnerst dich." Er stand wieder auf, legte die Hände ins Kreuz. "Ich weiß nicht, was mit denen passiert ist. Manchmal denke ich, die Wurzel hat endlich gefunden, was sie suchte. Manchmal denke ich, ich werde alt und zähl nicht mehr richtig."
 
-"Heute oder morgen ist mir gleich." Er drehte sich um, schob die Hand in die Tasche, holte die Pfeife heraus, klopfte sie an einer Stelle aus, an der schon ein dunkler Fleck am Pflasterstein war — sein Platz. Er ging zum Komposthaufen, ohne sich noch einmal umzudrehen, und Alphina hörte das Schaufelblatt, ein Mal, zwei Mal, das satte Geräusch von feuchtem Material, das in sich zusammenfiel.
+"Du zählst richtig."
 
-Sie sortierte die letzten Stecklinge. Die linke Schale war voller als die rechte, ein gutes Zeichen für den Anteil, der angewachsen war. Sie stand auf, langsam, weil das rechte Knie steif war, hob die Schalen und brachte sie zum Schuppen am Treibhaus. Auf dem Weg dorthin kreuzte sie den Hauptweg, dessen Kies frisch geharkt war, und am Rand des Hauptweges sah sie aus dem Augenwinkel etwas zwischen zwei Beeten huschen. Niedrig. Schnell. Sie drehte den Kopf. Zwischen den Stauden war nichts. Eine Bewegung im Lavendel — vielleicht Wind, vielleicht eine Katze, die im Schuppen wohnte. Henrik hatte mal eine erwähnt. Sie ging weiter.
+"Mhm." Henrik schaute kurz über die Anlage, die Augen halb zugekniffen gegen das dünne Licht, das durch den Dunst kam und überall blass auf den Blättern lag. Man sah den Rand der Sonne, wenn man die Augen weit genug zuzog, einen Fleck hinter dem Weißen, nicht Scheibe, nicht Kreis. "Wenn du später beim Steinkreis vorbeigehst, fällt dir vielleicht etwas auf, was ich nicht hinkriege. Der Klee am Rand wird braun. Nur an einer Seite. Ich versteh das nicht."
 
-Im Schuppen war es dunkel und kühl. Sie stellte die Schalen in das Regal mit den Stecktöpfen, hängte den Rocksaum ab, der sich an einem Nagel verfangen hatte, und atmete einmal tief ein. Der Schuppen roch nach altem Holz, nach getrocknetem Salbei, nach dem Eisen der Werkzeuge, die an der Wand hingen. Der vierte Geruch — der süßliche, dichte, namenlose — war hier nicht. Nur draußen, im Wind aus den Beeten.
+Sie hob den Kopf. "Welcher Steinkreis?"
 
-Sie ging zur nördlichen Mauer.
+Henrik schaute sie einen Moment an, als hätte sie gefragt, welcher Himmel. Dann korrigierte er sich — sie sah es in seinem Gesicht — dann nickte er. "Das Ding in der Mitte. Hinter dem Treibhaus, oben auf dem Hügel. Du bist in den letzten Wochen immer drum rumgegangen. Ist aber nicht schlimm, wenn du ihn heute erst siehst."
 
-Der Weg dorthin führte um das Treibhaus herum. Das Glas war beschlagen, eine durchgängige Schicht Feuchtigkeit, an einer Stelle lief ein einzelner Tropfen herunter und hinterließ eine klare Linie, in der man kurz die Tomatenstauden im Inneren erkannte. Ihre Hand strich beim Vorbeigehen über das Glas, gegen ihren Willen, eine Geste die nichts wollte. Hinter dem Treibhaus dann der Schatten der Mauer, kühler, der Boden hier dauernd feucht, ein Beet aus Schachtelhalmen, das niemand angelegt hatte und das niemand entfernte.
+"Ich bin drumrumgegangen?"
 
-Sie kam um die Ecke, und sie blieb stehen.
+"Du nimmst den Weg, der am Hügel vorbei führt. Links, zum Rosarium. Dreimal die Woche. Ich hab mir schon gedacht, du magst den Hügel nicht."
 
-Hirschzungenfarne. Hirschzunge — der Name kam ihr noch bevor sie gezählt hatte. *Asplenium scolopendrium.* Brauner Mittelnerv, glänzende Blattspreite, der Wedel zungenförmig, am Rand gewellt. Sie kannte die Art aus drei Herbariumsmappen und vier Fachbüchern und einer Fußnote, die in Velde auf ihrem Tisch gelegen hatte und die kein Absender geschickt hatte. Aber nicht so. So nie. Die Wedel an dieser Mauer waren mannshoch. Manche höher. Die größten reichten ihr bis ans Kinn, wenn sie sich aufrichtete, und das hieß: über einsachtzig. Asplenium scolopendrium wurde fünfzig Zentimeter hoch. Vielleicht sechzig in einem ungewöhnlich guten Sommer in einer ungewöhnlich guten Spalte. Diese hier wuchsen aus den Mauerritzen, sieben aus der Bodenfuge, der Rest verteilt über die ganze Höhe der Mauer, in jeder Spalte einer, und sie waren mannshoch, am fünfzigsten Breitengrad, im Frühsommer.
+Sie sagte darauf nichts. Sie hatte den Hügel nicht gesehen. Sie wusste, was in der Mitte des Gartens stand — ein niedriger Erdhügel, kahl, sie hatte ihn am Rand der Wahrnehmung registriert, mehr nicht — aber sie hatte ihn nie betreten, nie umrundet, nie ins Auge gefasst. Henrik hatte sie dreimal die Woche daran vorbeigehen sehen, als wäre sie absichtlich ausgewichen, und sie konnte sich an kein einziges Mal erinnern.
 
-Sie zählte. Eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn. Elf. Zwölf. Sie verlor sich an der Stelle, wo zwei Wedel sich überlappten. Begann von vorne. Eins. Zwei. Drei. Vier. Sie zwang sich, langsam zu zählen, jeden Wedel einzeln, mit dem Bleistift in der Luft, der zuckte. Siebzehn. Einundzwanzig. Siebenundzwanzig.
+"Ich schaue heute hin."
 
-Siebenundzwanzig.
+"Mach das." Er tippte mit dem Fuß an die Wasserschale, eine Erinnerung an sich selbst, hob sie wieder hoch und ging zum Treibhaus. Am Weg blieb er noch einmal stehen. "Bevor ich's vergesse — du hattest gestern recht mit dem Rosenbeet bei den Buchsbäumen. Drei neue Blätter an der mittleren. Die hätte ich verloren, wenn du nichts gesagt hättest."
 
-Sie ging die Reihe ab. Langsam, weil Schnelligkeit eine Frage gewesen wäre, und sie wollte keine Frage stellen. Bei jedem Schritt, den sie tat, bewegte sich der nächste Wedel. Nicht ruckartig wie der Farn an der Poststation, der sich gedreht hatte, als ihre Kutsche anfuhr. Nicht so wie die Wedel im Stadttor, die sich in einer Welle nach ihr ausgerichtet hatten. Diese hier bewegten sich gemessen, wie Pendel, die einer langsamen Strömung folgten, die nur sie kannten. Sie kam an einen Wedel, der hoch über ihrer Augenhöhe stand, und während sie an ihm vorbeiging, drehte er seine Spitze ihr nach. Sie ging einen Schritt zurück. Der Wedel drehte sich in die Gegenrichtung. Sie ging einen Schritt vor. Er drehte sich vor.
+"Das war nicht meine Arbeit. Das war deine Wasserung."
 
-Sie blieb stehen. Der ganze Bestand stand still. Siebenundzwanzig Wedel, alle auf sie gerichtet, alle still. Die Mauer hinter ihnen war Purpurstein, dunkel feucht, mit Moosen in den Fugen, die so satt grün waren, wie Moose im Frühsommer nicht waren. Eine Eidechse lief über den oberen Mauerrand, blieb stehen, schaute die Farne an, lief weiter. Henrik schaufelte irgendwo hinter dem Treibhaus. Eine Kirchenglocke schlug einmal, klein, dünn — die Standuhr im Pförtnerhaus, vier Sekunden später als die Stadt — und der Klang lief durch die Mauer und löste sich in ihr auf.
+Er lachte einmal, kurz, gutmütig. "Mhm." Dann ging er.
 
-Notizbuch. Bleistift. Sie fand die freie Seite, drückte das Notizbuch gegen die Mauer, und der Stein war warm unter dem Papier. Das schrieb sie nicht hin. Sie schrieb hin: *Asplenium scolopendrium, Botanischer Garten Vael, 51° N. Siebenundzwanzig Exemplare im Mauersockel, Wuchshöhe ca. 180 cm. Wedelstellung asymmetrisch, scheinbar tropisch zur Beobachterin.* Den letzten Halbsatz wollte sie nicht schreiben, schrieb ihn trotzdem, weil das Wort *tropisch* eine Sprache war, die sie noch beherrschte, und Sprache war ein Geländer. *Phototropismus?* setzte sie hinzu, mit einem Fragezeichen, das sie zu klein machte, und das sie sah, und das sie nicht größer schrieb. Den Bleistift legte sie auf das Papier, hob ihn wieder, schrieb noch eine Zeile dazu: *Henrik schneidet alle vier Tage. Im April: alle vierzehn.* Das war eine Tatsache. Tatsachen ließen sich notieren.
+Sie blieb knien. Der Lavendelstängel zwischen ihren Fingern war warm, der Duft hing schwer auf der Haut. Sie legte den Stängel ab, die Hand still, das Drängen, das kein Wort war, aus dem Körper heraus. Sie dachte an die großen Wedel an der Nordmauer. Henrik schnitt sie jeden vierten Tag. Er zählte die Fuhren. Er hatte, ohne es zu merken, selbst bemerkt, dass die Wedel schneller wuchsen als je. Was sie zu ihnen sagen wollte, hatte sie seit Tagen im Kopf.
 
-Sie schloss das Buch. Schaute ein letztes Mal die Wedel an. Siebenundzwanzig Spitzen, alle auf sie gerichtet, alle still.
+*So bleiben. Nicht weiter.*
 
-Henrik kam um das Treibhaus herum, mit der Schaufel über der Schulter, sah sie zwischen den Farnen stehen, hob die freie Hand zum Gruß, ging weiter zur Komposthaufen-Seite, ohne stehen zu bleiben. Er hatte Farne gesehen. Mehr nicht. Für ihn war hier nichts.
+Sie stand auf. Langsam, weil das rechte Knie steif war, immer noch, auch nach sechs Wochen. Sie nahm die linke Schale mit zum Treibhaus zwei, stellte sie neben Henriks Tür auf den niedrigen Hocker, der dort für diesen Zweck stand, und ging dann zurück, an der Hortensie vorbei, am Schuppen vorbei, am kleinen Lavendelgang vorbei, zur Nordmauer.
 
-Sie ging weg von der Mauer. Auf dem Hauptweg zurück, in die Mitte des Gartens. Das Notizbuch hielt sie nicht mehr am Brustbein, sie ließ es in der Manteltasche hängen, und ihre Hand blieb darauf liegen, wie auf einem Tier, das schlafen sollte.
+Die mannshohen Farne standen in ihren Reihen, frisch geschnitten, ein scharfer grüner Schnittgeruch in der Luft. Henrik hatte gestern fünf von ihnen radikal zurückgenommen; die Kielnerven ragten noch aus den Spalten, zwei Hand breit, mit kleinen Stummeln statt Wedeln. Die übrigen zweiundzwanzig standen, wie sie bei ihrem letzten Besuch gestanden hatten, mannshoch, dunkelgrün, die Blattspreiten glänzend. Sie kannte jede einzelne. Sie hatte sie gezählt, in der ersten Woche, als sie das erste Mal vor ihnen gestanden hatte und ihr Körper Minuten gebraucht hatte, um sich zu ordnen. Siebenundzwanzig. Heute, nach Henriks Schnitt, waren es zweiundzwanzig im Bestand und fünf Stummel, und die Stummel zählten, weil sie wieder wachsen würden.
 
-In der Mitte des Gartens war ein Hügel, niedrig, kaum ein halber Meter hoch, künstlich aufgeschüttet vor langer Zeit. Er hatte keine Pflanzen. Sie war ihm in den letzten Wochen aus den Augenwinkeln begegnet, hatte ihn als unbedeutend abgetan, als eine Stelle, an der irgendwann etwas anderes wachsen würde. Heute, mit den Farnen im Rücken und der Hand auf der Tasche und dem süßlichen Geruch im Wind, ging sie hin.
+Sie stellte sich mittig vor die Reihe. Der dunkelste Wedel — ganz links, der, der ihr bis ans Kinn reichte — drehte sich langsam in ihre Richtung. Sie schaute ihn an. Drei Wedel rechts davon folgten. Sie ging einen halben Schritt nach rechts. Die Welle lief mit. Sie blieb stehen.
 
-Auf dem Hügel: sieben Steine. Niedrig, jeder etwa hüfthoch, in einem Kreis von vier Meter Durchmesser eingelassen, der Boden zwischen ihnen kahle Erde. Purpurstein. Sie kannte den Stein vom Stadttor. Sie kannte die Wärme, die er manchmal hatte, und die jetzt in ihrer Erinnerung lag wie ein eingelegter Zettel zwischen zwei Seiten. Aber diese Steine hier waren anders gesetzt — eingearbeitet, alt, glatt geschliffen, jeder gleich hoch, jeder im exakt gleichen Winkel zur Mitte. Niemand baute Steine so, wenn er sie nur als Gartendekoration meinte.
+Sie legte die Handfläche flach gegen den Mittelnerv des nächsten Wedels. Das Blatt war glatt und kühl und lebte. Sie hielt das Drängen in sich, ohne es zu sagen, ohne es zu denken als Sprache. Nur als Form.
 
-Sie ging um den Kreis herum. Einmal. Sie sah die Pflanzengrenze, ohne es zu wollen, weil ihr Auge geübt war, Wachstumsmuster zu lesen, und sie wartete einen Moment, bevor sie es zugab, dass sie es sah. Die Pflanzen hörten am Steinrand auf. Bis zur Linie der Steine wuchsen sie — Gräser, Klee, ein einziges Veilchen, das aussah, als wäre es vergessen worden — und einen Zentimeter über den Stein hinaus war nichts. Keine Wurzel, die sich vorgetastet hätte. Kein Halm, der sich drüber gelehnt hätte. Kein Moos in den Steinfugen, obwohl in diesem Garten alles bemoost war, was länger als drei Jahre stillstand. Sie ging eine zweite Runde, langsamer, mit dem Blick auf die Grenze. Dieselbe Linie. Drei. Auch.
+*So bleiben. Nicht mehr wachsen. Sei groß genug.*
 
-Sie kniete sich an der Außenseite eines Steins hin. Legte die Handfläche flach auf die Oberfläche.
+Sie hielt die Hand zwanzig Atemzüge lang gegen den Wedel, wie beim Stecking. Dann nahm sie sie weg. Der Wedel war noch da. Nichts war sichtbar geschehen. Sie fühlte auch nichts im eigenen Körper, das gekommen oder gegangen wäre. Sie wusste, dass sie es später nur daran erkennen würde, ob Henrik beim nächsten Schnittrhythmus sagte: *die musste ich diesmal nicht nehmen.* Es würde ein kleiner, beiläufiger Satz sein, und sie würde nicken und nichts weiter sagen.
+
+Sie ging die Reihe ab, berührte nacheinander jeden der zweiundzwanzig, mit derselben Geste, derselben Form im Kopf. An den fünf Stummeln blieb sie länger stehen. Dort war das Drängen ein anderes — nicht *halt*, sondern *heil*. Sie wusste nicht, ob das funktionierte. Sie probierte es trotzdem.
+
+Als sie am Ende der Reihe ankam, stand der Lavendelduft nicht mehr auf der Haut. Die Nordmauer roch nach altem Stein, nach feuchten Spalten, nach dem grünen Schnitt der Wedel — und nach etwas Viertem, einem süßlichen, dichten Geruch, den sie seit Wochen in diesem Garten hatte und nicht benennen konnte. Er lag unter den anderen Gerüchen wie eine Stimme unter einem Chor. Sie atmete ihn einmal ein, dreimal, dann ließ sie ihn. Vielleicht morgen.
+
+Sie drehte sich zurück zum Hauptweg. Von hier aus, zum ersten Mal mit Absicht, schaute sie zur Mitte des Gartens.
+
+Der Hügel.
+
+Er war niedrig, einen halben Meter hoch, kahl, in etwa vier Meter Durchmesser, gefasst von einer Buchsbaumhecke, die nur an einer Seite offen stand — im Süden, wo der Hauptweg hochführte. Sie war hier jeden Nachmittag drei Wochen lang vorbeigegangen. Sie kannte die Stelle, an der der Weg sich teilte, sie kannte den Anstieg, sie kannte die Buchsbaumkante. Aber nie den Hügel selbst. Wenn sie jetzt darauf zuging, war es, als ginge sie in eine Richtung, in die ihr Körper in den vergangenen drei Wochen nicht hineingehen wollte. Ein leichtes Sträuben in den Füßen, eine Trägheit im Kreuz. Sie bemerkte es zum ersten Mal, weil sie zum ersten Mal absichtlich ging.
+
+Sie ging trotzdem.
+
+Auf dem Hügel standen sieben Steine. Niedrig, jeder hüfthoch, in einem Kreis eingelassen, der Boden zwischen ihnen kahle Erde. Purpurstein, dunkel feucht, alt, die Oberflächen glatt geschliffen. Sie kannte den Stein vom Stadttor und von Treppenstufen und von Hausmauern, er war überall in Vael, und sie hatte aufgehört, ihn zu bemerken. Hier bemerkte sie ihn wieder. Diese Steine waren eingearbeitet, bewusst gesetzt, jeder im gleichen Abstand, jeder im gleichen Winkel zur Mitte. Niemand baute Steine so, wenn er nur einen Beetrand meinte.
+
+Sie ging eine Runde um den Kreis. Dann eine zweite, langsamer. Beim zweiten Mal sah sie, was ihr Auge vorher überlesen hatte, weil es nicht gesucht hatte, und weil Augen nur fanden, was sie wussten — die Pflanzen hörten an der Steinlinie auf. Keine Wurzel kreuzte die Grenze. Kein Halm, kein Moos in den Fugen, obwohl alles in diesem Garten bemoost war, was drei Jahre stillstand. Gras wuchs bis zur Außenkante des Steins und brach dort ab. Ein einzelnes Veilchen zeigte seinen Stiel in die Lücke zwischen zwei Steinen, blieb stehen, streckte sich nicht weiter. Im Inneren: bloße Erde, dunkel, glatt, keine Textur.
+
+Henrik hatte gesagt: *Der Klee am Rand wird braun. Nur an einer Seite.*
+
+Sie sah ihn. An der Ostseite, der einzige braune Streifen an einem Kreis, der sonst grün geränderd war — Klee, vertrocknet, nicht welk, sondern ausgedörrt, als hätte ihn jemand gebrannt. Eine Handbreit, nicht mehr, entlang der Steinkante. Sie kannte diesen Braunton. Es war derselbe Braunton wie der Streifen am Wegrand, den sie vor Tagen beim Vorübergehen gemacht hatte, ohne es zu wollen. Nur hier an der Steinkante war er nicht von ihr.
+
+Sie kniete an der Außenseite eines Steins, dort wo der Klee noch grün war. Legte die Handfläche flach auf die Oberfläche.
 
 Warm.
 
-Wärmer als das Stadttor war an dem Tag, als sie ankam. Wärmer als die Erde in ihrem Topf in Velde. Warm wie eine Hand, die seit Stunden auf einer anderen Hand lag, ohne loszulassen. Sie hatte keine Erklärung dafür, was warm machte. Spätnachmittagssonne, milchig durch den Nebel — nicht genug. Ein Kompostvorgang im Inneren — Steine kompostierten nicht. Die Erde unter dem Stein, die Restwärme aus dem Tag — aber dann hätten alle Steine in diesem Garten so warm sein müssen, und die Mauer, an der die Farne wuchsen, war nur lauwarm gewesen.
+Wärmer als das Stadttor am Tag ihrer Ankunft. Wärmer als die Erde in ihrem Topf in Velde. Warm wie eine Hand, die lange in einer anderen Hand gelegen hatte, ohne loszulassen. Sie wollte den Gedanken nicht denken, weil der Gedanke zu einer Frage führte, die sie nicht stellen wollte, also dachte sie ihn nicht, sondern hielt die Hand liegen und wartete, was kommen würde.
 
-Unter ihrer Hand, durch den Stein, durch die Knochen der Handfläche, durch das Handgelenk: ein Schlag.
+Es kam ein Impuls.
 
-Sie zuckte nicht. Sie hatte gelernt, nicht zu zucken. Sie blieb mit der Hand auf dem Stein und wartete.
+Durch den Stein, durch die Handfläche, durch die Knochen bis in den Ellbogen — ein einzelner, deutlicher Stoß, so stark wie das eigene Blut nach einem steilen Treppenlauf, aber fremd, an der falschen Stelle im Körper, nicht in der Halsader sondern in der ganzen Hand. Sie zuckte nicht. Sie hielt die Hand liegen.
 
 Pause.
 
-Ein zweiter Schlag.
+Ein zweiter Impuls. Dieselbe Stärke. Langsamer, als ein Mensch schlägt, zu regelmäßig für ein Tier. Die Zeit zwischen den beiden war lang genug, dass sie den ersten schon fast vergessen hatte, als der zweite kam. Dann kam ein dritter. Derselbe Abstand.
 
-Tief. Langsamer als ihr eigener Puls. Die Pause zwischen den Schlägen war zu lang für ein Herz, zu regelmäßig für etwas Zufälliges. Sie legte die andere Hand an ihren eigenen Hals, an die Schlagader, und zählte. Vierundsiebzig. Sie zählte den Stein. Einer in vier Sekunden, vielleicht fünf. Etwa fünfzehn pro Minute. Das war kein menschlicher Puls. Das war kein Tier, das sie kannte.
+Sie hob die Hand.
 
-*Nicht mein Puls.*
+Der Impuls war noch da, leiser, ein Nachhall in den Fingerkuppen, der abebbte, wie ein Ton in einem großen Raum. Er hörte nicht auf, weil sie die Hand wegnahm. Er hörte auf, weil ihr Körper aufhörte, ihn zu empfangen.
 
-Sie hob die Hand vom Stein, langsam, weil sie wissen wollte, ob das Pochen aufhörte, wenn sie es nicht mehr berührte. Es hörte nicht auf. Sie spürte es noch eine, zwei, drei Schwingungen lang in der Handfläche, wie ein Nachhall, dann wurde es schwächer, dann war es weg. Es war nicht weg, weil sie die Hand weggenommen hatte. Es war weg, weil ihr Körper aufhörte, es zu empfangen.
+Sie stand auf. Zu schnell. Etwas in ihrem Sehen verrutschte einen Moment, ein heller Punkt am Rand, der kam und ging. Sie stützte sich an einem der Steine ab, die andere Hand auf dem Knie, und wartete, bis die Welt zurückkam.
 
-Sie stand auf. Zu schnell. Ihr wurde dunkel vor den Augen, ein heller Punkt am Rand des Sichtfelds, der größer wurde, dann kleiner. Sie stützte sich an einem der Steine ab, die andere Hand auf dem Knie, und wartete, bis die Welt zurückkam.
+Die Welt kam zurück. Das Treibhausdach in der Ferne, die Scheiben beschlagen an einer Stelle, klar an einer anderen, dort wo die dünne Sonne durchgekommen war. Henriks Schaufel im Kies, ein Mal, zwei Mal, aus der Richtung der Hortensien. Eine Hecke ohne Vögel. Der Lavendelrest an ihren Fingern, vermischt jetzt mit einem mineralischen Beigeschmack, als hätte sie an feuchtem Stein geleckt.
 
-Die Welt kam zurück. Das Treibhausdach in der Ferne, die beschlagenen Scheiben, der einzelne Tropfen, der noch immer in seiner klaren Spur hing. Henriks Schaufel im Kies, ein Mal, zwei Mal, das satte Geräusch wie zuvor. Die Vogelhecke, die ihre Vögel nicht zeigte. Der Geruch von Lavendel an ihren Fingern, die jetzt auch nach dem Stein rochen, nach etwas Mineralischem und etwas, das an Eisen erinnerte, ohne Eisen zu sein.
-
-Sie hatte die Hand auf einen Stein gehabt, und die Welt stand.
+Sie hatte eine Hand auf einen warmen Stein gelegt, und die Welt stand.
 
 Schritte auf dem Kies. Hinter ihr.
 
-Sie drehte sich um, weil eine Hand auf einem warmen Stein zu lange dort gelegen hatte und ihr Körper anfing, jede Bewegung als Angriff zu lesen. Es war nicht Henrik.
+Sie drehte sich um, langsam diesmal, weil sie sich zwang. Es war nicht Henrik.
