@@ -60,7 +60,7 @@ Elke legte die Hand neben die kleine Glocke, nicht darauf, nur daneben. Der Ton 
 
 Keldan schaute sie an.
 
-"Was ich am Klippenrand gefunden habe," sagte Elke, "sind Abdrücke meiner Hände im Kalkstein. Ich habe den Stein nicht bearbeitet. Ich habe ihn berührt, und er hat nachgegeben, weil ich wollte dass er nachgibt. Ich habe es nicht gewusst. Aber jemand gibt einer Form nach, bevor er versteht dass er es tut." Sie zeigte auf die Glocke. "Euer Eisen hat der Form nachgegeben die Ihr in Euch tragt. Ihr seid in dem Moment der Gießer gewesen, nicht die Form."
+"Was ich am Klippenrand gefunden habe," sagte Elke, "sind Abdrücke meiner Hände im Kalkstein. Ich habe den Stein nicht bearbeitet. Ich habe ihn berührt, und er hat nachgegeben, weil ich wollte dass er nachgibt. Ich habe es nicht gewusst. Aber manchmal gibt das Material einer Form nach, die in einem selbst wohnt — und man begreift erst danach, dass es die eigene war." Sie zeigte auf die Glocke. "Euer Eisen hat der Form nachgegeben die Ihr in Euch tragt. Ihr seid in dem Moment der Gießer gewesen, nicht die Form."
 
 Stille. Das Feuer in der Esse brannte weiter, ohne Kohle, und der Fels unter ihren Füßen war warm, und der Ton der kleinen Glocke löste sich langsam in der Luft auf, dünner und dünner, bis er unter das Rauschen des Hafens sank und verschwand.
 
