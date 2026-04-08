@@ -1004,6 +1004,54 @@
           {
             "tz": 551,
             "mz": 0,
+            "kapitel": "10",
+            "typen": [
+              "wissen"
+            ],
+            "titel": "Sorel: Die Kamera fängt Schemen ein",
+            "tz_tag": 120,
+            "datum_text": "30. April",
+            "figur": "Sorel",
+            "fakt": "kamera-faengt-schemen-ein",
+            "stufe": "gesehen",
+            "detail": "Erste Vael-Platten: Hafen bei Nacht zeigt schattenhafte Gestalt mit leuchtenden Augen die er nicht gesehen hat. Zweite Platte: Frau mit Farnen, die er nicht fotografiert hat."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "11",
+            "typen": [
+              "begegnung"
+            ],
+            "titel": "Alphina trifft Sorel im Botanischen Garten",
+            "tz_tag": 125,
+            "datum_text": "5. Mai",
+            "figuren": [
+              "Alphina",
+              "Sorel"
+            ],
+            "intensitaet": "fluechtig",
+            "ort": "Botanischer Garten, Nacht",
+            "detail": "Drei Sätze: 'Die Pflanzen bewegen sich.' — 'Ja.' — 'Seit wann?' — 'Immer.' Keine Namen. Ende Akt 1."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "11",
+            "typen": [
+              "wissen"
+            ],
+            "titel": "Alphina: Pochen unter dem Garten",
+            "tz_tag": 125,
+            "datum_text": "5. Mai",
+            "figur": "Alphina",
+            "fakt": "pochen-unter-vael",
+            "stufe": "gesehen",
+            "detail": "Hand auf den Boden des Steinkreises im Garten. Pochen wie unter Marens Werft — aber Alphina kennt Maren nicht. Die Stadt atmet."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
             "titel": "Boot baut sich nachts weiter — Schemen arbeiten",
             "pov": "Kap 08 · Maren",
             "kapitel": "08",
@@ -1145,57 +1193,352 @@
           {
             "tz": 551,
             "mz": 0,
-            "kapitel": "10",
+            "kapitel": "12",
             "typen": [
-              "wissen"
+              "erkenntnis"
             ],
-            "titel": "Sorel: Die Kamera fängt Schemen ein",
-            "tz_tag": 120,
-            "datum_text": "30. April",
-            "figur": "Sorel",
-            "fakt": "kamera-faengt-schemen-ein",
-            "stufe": "gesehen",
-            "detail": "Erste Vael-Platten: Hafen bei Nacht zeigt schattenhafte Gestalt mit leuchtenden Augen die er nicht gesehen hat. Zweite Platte: Frau mit Farnen, die er nicht fotografiert hat."
+            "titel": "Stadt-Anomalien eskalieren: Risse im Pflaster, heisses Wasser, Kaminfeuer",
+            "pov": "Kap 12 · Alphina",
+            "tz_tag": 132,
+            "datum_text": "12. Mai",
+            "tags": [
+              "Erkenntnis: Vael zerfaellt"
+            ]
           },
           {
             "tz": 551,
             "mz": 0,
-            "kapitel": "11",
+            "kapitel": "14",
             "typen": [
               "begegnung"
             ],
-            "titel": "Alphina trifft Sorel im Botanischen Garten",
-            "tz_tag": 125,
-            "datum_text": "5. Mai",
+            "titel": "Vesper und Maren treffen sich im Uhrengeschaeft",
+            "pov": "Kap 14 · Vesper",
+            "tz_tag": 142,
+            "datum_text": "22. Mai",
             "figuren": [
-              "Alphina",
-              "Sorel"
+              "Vesper",
+              "Maren"
             ],
             "intensitaet": "fluechtig",
-            "ort": "Botanischer Garten, Nacht",
-            "detail": "Drei Sätze: 'Die Pflanzen bewegen sich.' — 'Ja.' — 'Seit wann?' — 'Immer.' Keine Namen. Ende Akt 1."
+            "ort": "Uhrmacher-Werkstatt",
+            "detail": "Maren braucht eine Schiffsuhr. Beide sehen die Grauwe rueckwaerts fliessen. Keiner sagt etwas.",
+            "tags": [
+              "Erste Begegnung: Vesper + Maren"
+            ]
           },
           {
             "tz": 551,
             "mz": 0,
-            "kapitel": "11",
+            "kapitel": "17",
             "typen": [
-              "wissen"
+              "begegnung",
+              "schlüssel"
             ],
-            "titel": "Alphina: Pochen unter dem Garten",
-            "tz_tag": 125,
-            "datum_text": "5. Mai",
-            "figur": "Alphina",
-            "fakt": "pochen-unter-vael",
-            "stufe": "gesehen",
-            "detail": "Hand auf den Boden des Steinkreises im Garten. Pochen wie unter Marens Werft — aber Alphina kennt Maren nicht. Die Stadt atmet."
+            "titel": "Alle vier treffen sich erstmals gemeinsam im Botanischen Garten",
+            "pov": "Kap 17 · Alle",
+            "tz_tag": 158,
+            "datum_text": "7. Juni",
+            "figuren": [
+              "Alphina",
+              "Sorel",
+              "Vesper",
+              "Maren"
+            ],
+            "intensitaet": "fluechtig",
+            "ort": "Botanischer Garten, Vael",
+            "detail": "Vier Resonanzen auf engstem Raum. Die Schemen verschwinden schlagartig. Pochen unter der Erde — Herzschlag. Varens Augen sehen durch die Schemen: er weiss jetzt dass alle vier da sind.",
+            "tags": [
+              "Schluesselereignis: Vier zusammen",
+              "Tschechow: Vier Resonanzen"
+            ]
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "18",
+            "typen": [
+              "schlüssel",
+              "tschechow"
+            ],
+            "titel": "Esther bringt das 400 Jahre alte Manuskript ins Tidemoor-Haus",
+            "pov": "Kap 18 · Vesper",
+            "tz_tag": 162,
+            "datum_text": "11. Juni",
+            "detail": "Vier Fremde, ein Portal, eine Schwelle. Teilweise echt, teilweise von Varen ueberschrieben. Daemon-Fingerabdruecke im Kohlestaub: zu viele Gelenke.",
+            "tags": [
+              "Manuskript",
+              "Tschechow: Varens Koeder"
+            ]
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "19",
+            "typen": [
+              "begegnung"
+            ],
+            "titel": "Alphina und Vesper studieren das Manuskript",
+            "pov": "Kap 19 · Alphina",
+            "tz_tag": 168,
+            "datum_text": "17. Juni",
+            "figuren": [
+              "Alphina",
+              "Vesper"
+            ],
+            "intensitaet": "bekannt",
+            "ort": "Tidemoor-Haus (abends)",
+            "detail": "Seine Hand auf ihrer — Stromschlag ohne Strom. 'Bei Vesper kann sie. Bei Sorel kann sie nicht.' Genau das ist der Punkt.",
+            "tags": [
+              "Erste Begegnung: Alphina + Vesper"
+            ]
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "20",
+            "typen": [
+              "begegnung"
+            ],
+            "titel": "Vesper bringt Maren die Schiffsuhr zur Werft",
+            "pov": "Kap 20 · Vesper",
+            "tz_tag": 171,
+            "datum_text": "20. Juni",
+            "figuren": [
+              "Vesper",
+              "Maren"
+            ],
+            "intensitaet": "bekannt",
+            "ort": "Werft Dahl",
+            "detail": "Saegemehl, Tee auf Holzkisten. Arm-Beruehrung. Erster ehrlicher Austausch ueber das Unmoegliche — Standuhr, Boot, Schemen.",
+            "tags": [
+              "Beziehung: Vesper + Maren"
+            ]
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "21",
+            "typen": [
+              "erotik",
+              "erkenntnis"
+            ],
+            "titel": "Alphina und Sorel: Dunkelkammer, erste intime Szene",
+            "pov": "Kap 21 · Alphina",
+            "tz_tag": 175,
+            "datum_text": "24. Juni",
+            "detail": "Sorel zeigt ihr die Platten: Schemen hinter ihr auf jeder. Kontrollverlust. Farne brechen durch Kellerwaende.",
+            "tags": [
+              "Erotik: Alphina + Sorel",
+              "Erkenntnis: Schemen folgen NUR Alphina"
+            ]
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "22",
+            "typen": [
+              "erotik"
+            ],
+            "titel": "Vesper und Maren: erste Nacht",
+            "pov": "Kap 22 · Maren",
+            "tz_tag": 182,
+            "datum_text": "1. Juli",
+            "detail": "Rohe Chemie. Maren geht morgens — weil sie immer geht.",
+            "tags": [
+              "Erotik: Vesper + Maren"
+            ]
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "23",
+            "typen": [
+              "schlüssel",
+              "tschechow"
+            ],
+            "titel": "Archiv: Ritual-Papier mit Schemen-Fingerabdruecken",
+            "pov": "Kap 23 · Alphina",
+            "tz_tag": 191,
+            "datum_text": "10. Juli",
+            "detail": "Jara findet Randnotizen (andere Handschrift) + Moragh-Sprachbuch. Ritual-Anweisungen, Steinkreis-Zeichnung. Varen hat es per Schem platziert.",
+            "tags": [
+              "Schluesselereignis: Ritual-Anleitung gefunden"
+            ]
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "24",
+            "typen": [
+              "erkenntnis"
+            ],
+            "titel": "Alphina findet die Steg-Fotos — 'Du hast mich genommen ohne zu fragen'",
+            "pov": "Kap 24 · Sorel",
+            "tz_tag": 198,
+            "datum_text": "17. Juli",
+            "tags": [
+              "Beziehung: Alphina + Sorel — Grenzverletzung"
+            ]
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "25",
+            "typen": [
+              "tschechow",
+              "schlüssel"
+            ],
+            "titel": "Schem beruehrt Alphinas Wange — Varens Hand durch die Welten",
+            "pov": "Kap 25 · Alphina",
+            "tz_tag": 205,
+            "datum_text": "24. Juli",
+            "detail": "Alphina im Lichthaus-Keller allein. Ein Schem streckt die Hand aus, beruehrt ihre Wange. Warmer Fleck. Varen kann sie sehen und beruehren.",
+            "tags": [
+              "Tschechow: Varens Hand an Alphinas Kinn (Vorbote)"
+            ]
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "27",
+            "typen": [
+              "schlüssel"
+            ],
+            "titel": "Maren folgt dem Wasser zum Steinkreis",
+            "pov": "Kap 27 · Maren",
+            "tz_tag": 217,
+            "datum_text": "5. August",
+            "detail": "Durch Tunnel unter der Werft. Der Purpurstein schwitzt Salz — nicht Grauwe-Salz, anderes Meer. Hand auf den Stein: der Riss weint.",
+            "tags": [
+              "Schluesselereignis: Maren findet den Riss"
+            ]
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "28",
+            "typen": [
+              "begegnung"
+            ],
+            "titel": "Alphina findet Sorel am Riss — Versoehnung",
+            "pov": "Kap 28 · Alphina",
+            "tz_tag": 222,
+            "datum_text": "10. August",
+            "detail": "'Du bist nicht hier weil du mich liebst.' Alphina gibt ihm Recht. Zum ersten Mal.",
+            "tags": [
+              "Beziehung: Alphina + Sorel — Versoehnung"
+            ]
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "30",
+            "typen": [
+              "erkenntnis",
+              "tschechow"
+            ],
+            "titel": "Runas Haende gluehen — Feuer-Resonanz entdeckt",
+            "pov": "Kap 30 · Alphina",
+            "tz_tag": 237,
+            "datum_text": "25. August",
+            "detail": "Ein Schem toetet einen Haendler am Hafen. Andere Fraktion (Thar) am Hafen: Metall-Geruch. Runa bei Alphina — ihre Haende gluehen buchstaeblich, Brandfleck im Setzkasten.",
+            "tags": [
+              "Erkenntnis: Runa hat Feuer-Resonanz",
+              "Tschechow: Thar-Schemen (andere Fraktion)"
+            ]
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "31",
+            "typen": [
+              "erkenntnis",
+              "schlüssel"
+            ],
+            "titel": "Vesper: 4:33 + Gezeiten = Varens Atem",
+            "pov": "Kap 31 · Vesper",
+            "tz_tag": 244,
+            "datum_text": "1. September",
+            "detail": "Jemand auf der anderen Seite atmet. Die Schemen kommen mit jedem Ausatmen. 4:33 ist nicht die Frequenz des Risses — es ist die Frequenz von etwas DAHINTER.",
+            "tags": [
+              "Erkenntnis: Jemand lebt auf der anderen Seite",
+              "Tschechow: 4:33 = Varen"
+            ]
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "32",
+            "typen": [
+              "schlüssel"
+            ],
+            "titel": "Die Vier entscheiden sich fuer den Durchgang",
+            "pov": "Kap 32 · Alle",
+            "tz_tag": 272,
+            "datum_text": "29. September",
+            "detail": "Letzte Nacht in Vael. Vesper und Jara haben das Ritual uebersetzt. Runa bittet dazuzubleiben: 'Ich komme mit.'",
+            "tags": [
+              "Schluesselereignis: Entscheidung"
+            ]
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "33",
+            "typen": [
+              "erotik",
+              "schlüssel"
+            ],
+            "titel": "Alphina und Sorel kuessen sich im Steinkreis — der Garten blueht",
+            "pov": "Kap 33 · Alphina",
+            "tz_tag": 273,
+            "datum_text": "30. September — Nacht",
+            "detail": "Sorel haelt zum ersten Mal ihre Hand UNGEBETEN. 'Darf ich?' Kontrolle faellt. Die ganze Hoehle blueht. Runa folgt unbemerkt.",
+            "tags": [
+              "Beziehung: Alphina + Sorel — Zaertlichkeit"
+            ]
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "34",
+            "typen": [
+              "portal",
+              "schlüssel"
+            ],
+            "titel": "Portal oeffnet sich — Vier (plus Runa) gehen durch",
+            "pov": "Kap 34 · Sorel",
+            "tz_tag": 273,
+            "datum_text": "30. September — 4:33 nach Mitternacht",
+            "detail": "Ritual. Vier Resonanzen. Das Portal bleibt 4:33 offen. Sorel zuerst. Runa stolpert im letzten Moment durch. Fuenf in Moragh, nicht vier.",
+            "tags": [
+              "Portal",
+              "Schluesselereignis: Durchgang"
+            ]
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "40",
+            "typen": [
+              "schlüssel"
+            ],
+            "titel": "Vael ohne die Fuenf — der Riss versiegt, Anomalien enden",
+            "pov": "Kap 40 · Nebencharaktere",
+            "tz_tag": 277,
+            "datum_text": "4. Oktober — Vael ohne die Fuenf",
+            "detail": "Nebel lichtet sich. Grauwe fliesst vorwaerts. Farne stehen still. Halvard schreibt seinen Bericht — das einzige schriftliche Zeugnis. Jara archiviert Runas Flugblaetter daneben. Das Boot wartet, drei Viertel fertig.",
+            "tags": [
+              "Epilog Buch 1"
+            ]
           },
           {
             "tz": 551,
             "mz": 0,
             "titel": "Vesper und Maren: erste Begegnung im Uhrengeschäft",
-            "pov": "Kap 15 · Vesper/Maren",
-            "kapitel": "15",
+            "pov": "Kap 14 · Vesper/Maren",
+            "kapitel": "14",
             "typen": [
               "begegnung",
               "erotik"
@@ -1210,7 +1553,7 @@
             "mz": 0,
             "titel": "Vier Resonanzen erstmals zusammen — Herzschlag unter der Erde",
             "pov": "Kap 18",
-            "kapitel": "18",
+            "kapitel": "17",
             "typen": [
               "schlüssel"
             ],
@@ -1222,8 +1565,8 @@
             "tz": 551,
             "mz": 0,
             "titel": "Manuskript: 400 Jahre alt, Fingerabdrücke mit zu vielen Gelenken",
-            "pov": "Kap 19 · Vesper",
-            "kapitel": "19",
+            "pov": "Kap 18 · Vesper",
+            "kapitel": "18",
             "typen": [
               "erkenntnis",
               "tschechow"
@@ -1238,8 +1581,8 @@
             "mz": 0,
             "titel": "Dunkelkammer: Alphina und Sorel — erste Nacht",
             "detail": "Farne wachsen durch Kellerwände. Schem beobachtet.",
-            "pov": "Kap 22 · Alphina/Sorel",
-            "kapitel": "22",
+            "pov": "Kap 21 · Alphina/Sorel",
+            "kapitel": "21",
             "typen": [
               "erotik"
             ],
@@ -1252,8 +1595,8 @@
             "mz": 0,
             "titel": "Vesper und Maren: erste Nacht — Dom/Sub",
             "detail": "Maren bleibt. Uhren ticken im Takt ihres Atems.",
-            "pov": "Kap 23 · Vesper/Maren",
-            "kapitel": "23",
+            "pov": "Kap 22 · Vesper/Maren",
+            "kapitel": "22",
             "typen": [
               "erotik"
             ],
@@ -1265,8 +1608,8 @@
             "tz": 551,
             "mz": 0,
             "titel": "Alphina findet die heimlichen Fotos — „Du hast mich genommen ohne zu fragen“",
-            "pov": "Kap 25 · Alphina",
-            "kapitel": "25",
+            "pov": "Kap 24 · Alphina",
+            "kapitel": "24",
             "typen": [
               "schlüssel",
               "tschechow"
@@ -1280,8 +1623,8 @@
             "tz": 551,
             "mz": 0,
             "titel": "Schem berührt Alphinas Wange — Varens Hand aus einer anderen Welt",
-            "pov": "Kap 26 · Alphina",
-            "kapitel": "26",
+            "pov": "Kap 25 · Alphina",
+            "kapitel": "25",
             "typen": [
               "erotik",
               "tschechow"
@@ -1296,7 +1639,7 @@
             "mz": 0,
             "titel": "Runa entdeckt ihre Feuer-Resonanz — Hände glühen",
             "pov": "Kap 31",
-            "kapitel": "31",
+            "kapitel": "30",
             "typen": [
               "erkenntnis",
               "begegnung"
@@ -1310,8 +1653,8 @@
             "tz": 551,
             "mz": 0,
             "titel": "4:33 + Gezeiten = Varens Atem — jemand lebt auf der anderen Seite",
-            "pov": "Kap 32 · Vesper",
-            "kapitel": "32",
+            "pov": "Kap 31 · Vesper",
+            "kapitel": "31",
             "typen": [
               "erkenntnis",
               "schlüssel"
@@ -1325,8 +1668,8 @@
             "tz": 551,
             "mz": 0,
             "titel": "„Darf ich?“ — Sorel hält Alphinas Hand ungebeten. Der Garten blüht.",
-            "pov": "Kap 34 · Alphina",
-            "kapitel": "34",
+            "pov": "Kap 33 · Alphina",
+            "kapitel": "33",
             "typen": [
               "erotik",
               "tschechow"
@@ -1342,7 +1685,7 @@
             "titel": "Das Ritual — Portal öffnet sich",
             "detail": "Vier Resonanzen im Steinkreis. Luft reißt auf. 4:33 offen. Runa schlüpft als Fünfte durch.",
             "pov": "Kap 35",
-            "kapitel": "35",
+            "kapitel": "34",
             "typen": [
               "portal",
               "schlüssel"
@@ -1358,7 +1701,7 @@
             "titel": "Vael ohne die Fünf — Anomalien enden sofort",
             "detail": "Schemen verschwinden schlagartig. Nebel lichtet. Grauwe fließt vorwärts. Steinkreis kalt. Tohl und Halvard stehen am Gartenrand.",
             "pov": "Kap 41",
-            "kapitel": "41",
+            "kapitel": "40",
             "typen": [
               "hintergrund"
             ],
@@ -1411,6 +1754,90 @@
           {
             "tz": 551,
             "mz": 0,
+            "kapitel": "35",
+            "typen": [
+              "begegnung",
+              "schlüssel"
+            ],
+            "titel": "Varen begegnet Alphina — 1423er Thalassisch, Hand an ihr Kinn",
+            "pov": "Kap 35 · Alphina",
+            "tz_tag": 273,
+            "datum_text": "30. September — Moragh-Morgen",
+            "figuren": [
+              "Alphina",
+              "Varen"
+            ],
+            "intensitaet": "intim",
+            "ort": "Moragh, am Portal",
+            "detail": "'Eure Resonanz. Ich hab sie durch den Riss erspueret. Ueber vierhundert Jaehrlein.' Bindungsmagie haelt sie. 4:33 war nie die Frequenz des Risses — es war Varens Signatur.",
+            "tags": [
+              "Erste Begegnung: Alphina + Varen",
+              "Erkenntnis: Varens 1423er Thalassisch"
+            ]
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "35",
+            "typen": [
+              "tod",
+              "schlüssel"
+            ],
+            "titel": "Sorel stirbt — Varens Abwehr, unterlassene Rettung",
+            "pov": "Kap 36 · Alphina",
+            "tz_tag": 273,
+            "datum_text": "30. September — Moragh",
+            "detail": "Sorel stellt sich zwischen Varen und Alphina. Varens Bindungsmagie trifft ihn voll. Varen KOENNTE helfen — tut es nicht. Deckt die Augen zu, fluestert ein Moragh-Wort. Alphinas Explosion: Dornen, Wurzeln, weisse Blumen auf Sorels Koerper.",
+            "tags": [
+              "Tod: Sorel",
+              "Schluesselereignis: Alphinas Ausbruch"
+            ]
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "38",
+            "typen": [
+              "begegnung",
+              "schlüssel"
+            ],
+            "titel": "Elke findet die Gruppe — 1423er Thalassisch",
+            "pov": "Kap 38 · Maren",
+            "tz_tag": 275,
+            "datum_text": "2. Oktober — Moragh",
+            "figuren": [
+              "Alphina",
+              "Vesper",
+              "Maren",
+              "Runa",
+              "Elke"
+            ],
+            "intensitaet": "bekannt",
+            "ort": "Moragh, Elkes Garten",
+            "detail": "Elke kennt Varen. Ist schockiert, dass er sich zurueckgezogen hat. Dasselbe alte Thalassisch — weil er es von IHR gelernt hat.",
+            "tags": [
+              "Erste Begegnung: Die Gruppe + Elke"
+            ]
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "38",
+            "typen": [
+              "erkenntnis"
+            ],
+            "titel": "Alphinas Trauer wird Hass — Dornen wachsen zum ersten Mal",
+            "pov": "Kap 39 · Alphina",
+            "tz_tag": 276,
+            "datum_text": "3. Oktober — Moragh",
+            "detail": "Um sie herum waechst ein Kreis aus Dornen, nicht Farnen. Zum ersten Mal. Ihr Hass veraendert ihre Resonanz.",
+            "tags": [
+              "Tschechow: Alphinas Dornen"
+            ]
+          },
+          {
+            "tz": 551,
+            "mz": 0,
             "titel": "Elke spürt fünf Resonanzen — rennt zum Steinplatz",
             "detail": "Vibration im Stein. Thar-Späher auch unterwegs. Alphinas Ausbruch meilenweit spürbar.",
             "pov": "I9 · Elke",
@@ -1425,69 +1852,115 @@
             ]
           },
           {
-            "tz": 551,
-            "mz": 0,
-            "titel": "Varen tritt aus dem Schatten — Hand an Alphinas Kinn",
-            "detail": "Purpurne Augen, altes Thalassisch. „Eure Resonanz. Ich hab sie durch den Riss erspüret.“",
-            "pov": "Kap 36",
-            "kapitel": "36",
+            "tz": null,
+            "mz": 0.1,
+            "kapitel": "B2-01",
             "typen": [
-              "begegnung",
-              "erotik",
               "schlüssel"
             ],
+            "titel": "Alphinas erster Trauer-Hain in Elkes Garten — unbewusst im Schlaf",
+            "pov": "B2 Kap 1 · Alphina",
+            "detail": "Die Trauer kommt nicht als Gefuehl, sondern als Wachstum. Im Schlaf bricht der Boden auf — ein Hain von zehn Metern. Alphina kann nichts wiederholen, nichts stoppen.",
             "tags": [
-              "Erste Begegnung: Varen",
-              "Erotik: Grenzverletzung",
-              "Schlüsselereignis"
+              "Schluesselereignis: Trauer als Resonanz"
             ]
           },
           {
-            "tz": 551,
-            "mz": 0,
-            "titel": "Sorel stirbt. Varen hätte helfen können. Tut es nicht.",
-            "detail": "Bindungsmagie. Bilder explodieren. Weiße Blumen. Alphinas Explosion: Dornen-Dschungel. Varen zieht sich zurück.",
-            "pov": "Kap 37",
-            "kapitel": "37",
+            "tz": null,
+            "mz": 0.15,
+            "kapitel": "B2-02",
             "typen": [
-              "tod",
-              "schlüssel",
               "erkenntnis"
             ],
+            "titel": "Vesper sieht die Struktur von Moragh: Fibonacci, 4:33, zwei Monde",
+            "pov": "B2 Kap 2 · Vesper",
+            "detail": "Die Baeume in Spiralen, Fluesse Fibonacci, Monde im 4:33-Verhaeltnis. Die Sonne: ein dunkler Kern mit gleissendem Ring. Kein Stern.",
             "tags": [
-              "Tod: Sorel",
-              "Schlüsselereignis",
-              "Erkenntnis: Die Falle"
+              "Erkenntnis: Moragh-Struktur"
             ]
           },
           {
-            "tz": 551,
-            "mz": 0,
-            "titel": "Elke findet die Überlebenden",
-            "detail": "Altes Thalassisch von TZ 154. „Fuhre“ statt „Kutsche.“ Wusste nichts von Varens Aktion.",
-            "pov": "Kap 39",
-            "kapitel": "39",
+            "tz": null,
+            "mz": 0.2,
+            "kapitel": "B2-03",
             "typen": [
-              "begegnung"
+              "erkenntnis"
             ],
-            "tags": [
-              "Erste Begegnung: Elke"
-            ]
+            "titel": "Maren fuehlt Moragh-Wasser — es fliesst bergauf und formt Mulden",
+            "pov": "B2 Kap 3 · Maren"
           },
           {
-            "tz": 551,
-            "mz": 0,
-            "titel": "Alphinas Dornen — Hass wächst buchstäblich",
-            "detail": "Erste Nacht in Moragh. Farne → Dornen. „Sie wird ihn finden. Sie wird ihn töten.“",
-            "pov": "Kap 40 · Alphina",
-            "kapitel": "40",
+            "tz": null,
+            "mz": 0.25,
+            "kapitel": "B2-04",
             "typen": [
-              "schlüssel",
+              "erkenntnis",
               "tschechow"
             ],
+            "titel": "Runa formt Moragh-Metall mit blossen Haenden — Feuer-Resonanz in Moragh stark",
+            "pov": "B2 Kap 4 · Runa",
             "tags": [
-              "Schlüsselereignis",
-              "Tschechow: Farne → Dornen"
+              "Tschechow: Runas warme Haende"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 0.4,
+            "kapitel": "B2-07",
+            "typen": [
+              "begegnung",
+              "erkenntnis"
+            ],
+            "titel": "Elke: 'Das kostet dich nichts, oder?' — Kern-Frage der Ungerechtigkeit",
+            "pov": "B2 Kap 7 · Alphina",
+            "figuren": [
+              "Alphina",
+              "Elke"
+            ],
+            "detail": "Elke sieht Alphinas Hain. 'Das hast du in einer Nacht getan. Das kostet dich nichts, oder?' Alphinas Antwort: 'Nein.' Elkes Gesicht: zwischen Neid und Angst.",
+            "tags": [
+              "Tschechow: Ungerechtigkeit als Kernthema"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 0.45,
+            "kapitel": "B2-08",
+            "typen": [
+              "erkenntnis"
+            ],
+            "titel": "Maren sucht das Portal durchs Wasser — findet es, aber geschlossen",
+            "pov": "B2 Kap 8 · Maren",
+            "tags": [
+              "Tschechow: Maren sucht den Rueckweg"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 0.5,
+            "kapitel": "B2-09",
+            "typen": [
+              "erkenntnis"
+            ],
+            "titel": "Elke zu Runa: 'Hier bist du mehr' — Runas Feuer-Resonanz erkannt",
+            "pov": "B2 Kap 9 · Runa",
+            "figuren": [
+              "Runa Kvist",
+              "Elke"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 0.6,
+            "kapitel": "B2-10",
+            "typen": [
+              "schlüssel"
+            ],
+            "titel": "Die Gilden-Stadt empfaengt die Fuenf — die Aelteste greift Alphinas Hand",
+            "pov": "B2 Kap 10 · Alphina",
+            "detail": "Tuerme die gewachsen sind, Strassen die sich verschieben. Die Aelteste: 'Ihr seid sicher hier.' Alphinas Hain hat sich herumgesprochen. Waffe.",
+            "tags": [
+              "Schluesselereignis: Ankunft Gilden-Stadt"
             ]
           }
         ]
@@ -1539,6 +2012,110 @@
             "tags": [
               "Schlüsselereignis"
             ]
+          },
+          {
+            "tz": null,
+            "mz": 1.1,
+            "kapitel": "B2-12",
+            "typen": [
+              "begegnung",
+              "tschechow"
+            ],
+            "titel": "Vesper trifft Talven in der Gilden-Bibliothek",
+            "pov": "B2 Kap 12 · Vesper",
+            "figuren": [
+              "Vesper",
+              "Talven"
+            ],
+            "intensitaet": "fluechtig",
+            "detail": "Talven, 23, bringt die Reservoir-Karten aus dem Suedarchiv. Hilfsbereit, schnell, der Typ der Probleme loest bevor man sie ausspricht.",
+            "tags": [
+              "Erste Begegnung: Talven",
+              "Tschechow: Talvens Hunger"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 1.3,
+            "kapitel": "B2-15",
+            "typen": [
+              "schlüssel"
+            ],
+            "titel": "Die Gilden-Aelteste bietet Alphina Schutz — fuer Kriegsdienst",
+            "pov": "B2 Kap 15 · Alphina",
+            "detail": "Die Binder ruecken vor. Die Gilden brauchen Alphinas Resonanz. Talven fluestert die Nuancen — und sein Gesicht zeigt fuer einen Moment Hunger.",
+            "tags": [
+              "Schluesselereignis: Erstes Gilden-Angebot"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 1.4,
+            "kapitel": "B2-16",
+            "typen": [
+              "erotik"
+            ],
+            "titel": "Alphina und Runa: erster Kuss auf dem Dach",
+            "pov": "B2 Kap 16 · Alphina",
+            "figuren": [
+              "Alphina",
+              "Runa Kvist"
+            ],
+            "intensitaet": "bekannt",
+            "detail": "Zwei Menschen die nicht wissen was sie tun. Bei Sorel hat die Welt geblueht — bei Runa ist sie still. Die Stille macht Angst.",
+            "tags": [
+              "Beziehung: Alphina + Runa"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 1.5,
+            "kapitel": "B2-18",
+            "typen": [
+              "begegnung",
+              "schlüssel"
+            ],
+            "titel": "Nyr trifft Vesper — Thar-Emissaerin ueberzeugt ihn",
+            "pov": "B2 Kap 18 · Vesper",
+            "figuren": [
+              "Vesper",
+              "Nyr"
+            ],
+            "intensitaet": "fluechtig",
+            "detail": "Nyr kommt in ihrer Magitech-Bestie Kessler. 'Jedes System hat Fehler. Die Thar benennen ihre.' Vesper geht mit ihr — bewusste Wahl, nicht Entfuehrung.",
+            "tags": [
+              "Erste Begegnung: Nyr",
+              "Schluesselereignis: Vesper zu den Thar"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 1.6,
+            "kapitel": "B2-19",
+            "typen": [
+              "schlüssel",
+              "tschechow"
+            ],
+            "titel": "Das Dorf-Desaster — Alphinas Schlaf-Wald verschluckt ein halbes Dorf",
+            "pov": "B2 Kap 19 · Alphina",
+            "detail": "Tagsueber kontrolliert, nachts unkontrolliert. Die Dorfbewohner evakuieren — nicht vor den Bindern, vor IHR. Talven sieht den Hain und sein Hunger waechst.",
+            "tags": [
+              "Schluesselereignis: Schlaf-Wald als Waffe sichtbar"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 1.8,
+            "kapitel": "B2-20",
+            "typen": [
+              "schlüssel"
+            ],
+            "titel": "Alphina wird zur Bund-Waffe — Angriff auf Quellen beginnt",
+            "pov": "B2 Kap 20 · Alphina",
+            "detail": "Der Bund setzt Alphina offensiv ein. Wurzeln durch feindliche Stellungen. Alphina hoert auf Fragen zu stellen. Der Hass auf Varen fuehlt sich produktiv an.",
+            "tags": [
+              "Schluesselereignis: Alphina als Waffe"
+            ]
           }
         ]
       }
@@ -1581,6 +2158,90 @@
               "Portal → Thalassien",
               "Schlüsselereignis"
             ]
+          },
+          {
+            "tz": null,
+            "mz": 2.1,
+            "kapitel": "B2-21",
+            "typen": [
+              "hintergrund"
+            ],
+            "titel": "Alphina an der Front — Wochen als Bund-Waffe",
+            "pov": "B2 Kap 21 · Alphina"
+          },
+          {
+            "tz": null,
+            "mz": 2.3,
+            "kapitel": "B2-25",
+            "typen": [
+              "schlüssel",
+              "tod"
+            ],
+            "titel": "Alphina zerstoert eine Reservoir-Quelle — ABSICHTLICH — Wendepunkt des Romans",
+            "pov": "B2 Kap 25 · Alphina",
+            "detail": "Draels Befehl, Alphinas Druecken. Wurzeln bis zum Quellen-Kern. Die Quelle stirbt. Ein Kreis aus totem Land, 200m Radius. Vierhundert Menschen ohne Magie. Sie wollte es. Sie drueckt auf die naechste.",
+            "tags": [
+              "Schluesselereignis: Erste absichtliche Quellen-Zerstoerung",
+              "Tod: Reservoir-Quelle"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 2.35,
+            "kapitel": "B2-26",
+            "typen": [
+              "schlüssel"
+            ],
+            "titel": "Varen schlaegt zu — Alphina in Ketten, Runa sieht es aus der Ferne",
+            "pov": "B2 Kap 26 · Alphina",
+            "detail": "Varens Schemen stroemen ueber das Schlachtfeld. Bindungsmagie-Ketten um Alphinas Handgelenke. Runa kaempft — toetet Dutzende Schemen mit brennenden Haenden. Wird zurueckgeschlagen.",
+            "tags": [
+              "Schluesselereignis: Alphina gefangen"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 2.4,
+            "kapitel": "B2-27",
+            "typen": [
+              "erkenntnis"
+            ],
+            "titel": "Varen zeigt Alphina die vier toten Quellen an der Wand — drei seine, eine ihre",
+            "pov": "B2 Kap 27 · Alphina",
+            "detail": "Varens Quartier ist kein Gefaengnis, sondern ein Labor. 'Die Quelle die du getoetet hast — sie hat eine Siedlung von vierhundert Menschen versorgt.' Die Ketten klirren nicht mehr.",
+            "tags": [
+              "Erkenntnis: Vierhundert",
+              "Schluesselereignis: Varens Karten"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 2.5,
+            "kapitel": "B2-28",
+            "typen": [
+              "erkenntnis",
+              "schlüssel"
+            ],
+            "titel": "Die Wahrheit sickert: Der Bund zerstoert Quellen systematisch",
+            "pov": "B2 Kap 28 · Alphina",
+            "detail": "Abgefangene Bund-Kommunikation. Nicht Draels Improvisation — PLAN. Alphina war nicht die Erste. Nur die Staerkste. Ihr Selbstbild zerbricht.",
+            "tags": [
+              "Erkenntnis: Bund-Wahrheit"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 2.55,
+            "kapitel": "B2-29",
+            "typen": [
+              "schlüssel"
+            ],
+            "titel": "Runa beim Bund, erkennt die Wahrheit — plant Alphinas Befreiung",
+            "pov": "B2 Kap 29 · Runa",
+            "detail": "Dokumentation zu gross um ignoriert zu werden. Runa brennt Loecher in den Tisch. Weiss nicht dass Alphina bereits wechselt.",
+            "tags": [
+              "Tschechow: Runa als Chronistin"
+            ]
           }
         ]
       }
@@ -1593,11 +2254,161 @@
         "thalassien": [
           {
             "luecke": "~2.100 TZ — Vael wird Großstadt. Industrialisierung. Wissenschaft."
+          },
+          {
+            "tz": null,
+            "mz": 3.55,
+            "kapitel": "B2-39",
+            "typen": [
+              "schlüssel"
+            ],
+            "titel": "Maren in Thalassien ~1910 — gestrandet, gruendet die Schwellenforschungsgesellschaft",
+            "pov": "B2 Kap 39 · Maren",
+            "detail": "Die Welt hat sich veraendert — Elektrizitaet, Automobile. Vael ist Industriestadt. Der Steinkreis: vergessen. Maren gruendet in Halvards Namen die Schwellenforschungsgesellschaft.",
+            "tags": [
+              "Schluesselereignis: Maren gestrandet in 1910"
+            ]
           }
         ],
         "moragh": [
           {
             "luecke": "~5 MZ — Krieg geht weiter. Alphina, Vesper, Runa altern."
+          },
+          {
+            "tz": null,
+            "mz": 3.1,
+            "kapitel": "B2-31",
+            "typen": [
+              "erkenntnis",
+              "schlüssel"
+            ],
+            "titel": "Varens Gestaendnis: Sein Experiment hat drei Quellen zerstoert und den Krieg ausgeloest",
+            "pov": "B2 Kap 31 · Alphina",
+            "detail": "'Niemand weiss es. Nur du.' Thalassische Resonanz als Herzschrittmacher fuer tote Quellen — der einzige Weg zur Reparatur.",
+            "tags": [
+              "Schluesselereignis: Varens Gestaendnis"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 3.15,
+            "kapitel": "B2-32",
+            "typen": [
+              "erkenntnis"
+            ],
+            "titel": "Alphinas Schuld-Spiegelung — sie ist die Frau die den Krieg fuehrt",
+            "pov": "B2 Kap 32 · Alphina",
+            "detail": "Drei Quellen (Unfall) + eine Quelle (absichtlich). Wer ist schlimmer? Alphinas Selbstbild broeckelt.",
+            "tags": [
+              "Erkenntnis: Selbstbild zerbricht"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 3.3,
+            "kapitel": "B2-35",
+            "typen": [
+              "erotik",
+              "schlüssel"
+            ],
+            "titel": "Alphina und Varen: Sex, Dornen statt Farne — zwei Taeter die sich erkennen",
+            "pov": "B2 Kap 35 · Alphina",
+            "figuren": [
+              "Alphina",
+              "Varen"
+            ],
+            "intensitaet": "intim",
+            "detail": "Gewachsen aus geteilter Schuld, nicht aus Anziehung. Kontrolle durch Erkenntnis. Dornen wachsen durch Stein. Die Ketten auf dem Boden — sie hat sie irgendwann gebrochen.",
+            "tags": [
+              "Erotik: Alphina + Varen",
+              "Tschechow: Dornen statt Farne"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 3.35,
+            "kapitel": "B2-36",
+            "typen": [
+              "schlüssel"
+            ],
+            "titel": "Alphina wechselt die Seite — Verbuendete, nicht Gefangene",
+            "pov": "B2 Kap 36 · Alphina",
+            "detail": "Sie vergibt Varen Sorels Tod NICHT. Aber sie steht auf seiner Seite. Ihre Resonanz kann Quellen reparieren. Das ist Zweck, nicht Vergebung.",
+            "tags": [
+              "Schluesselereignis: Alphina wechselt Seite"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 3.4,
+            "kapitel": "B2-37",
+            "typen": [
+              "schlüssel"
+            ],
+            "titel": "Runa beim Bund — erkennt dass der Befreiungsplan sinnlos ist",
+            "pov": "B2 Kap 37 · Runa",
+            "detail": "Nicht weil er nicht funktioniert — weil die Seite fuer die sie kaempft die falsche ist. Runa verlaesst den Bund.",
+            "tags": [
+              "Schluesselereignis: Runa verlaesst Bund"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 3.5,
+            "kapitel": "B2-38",
+            "typen": [
+              "portal",
+              "schlüssel"
+            ],
+            "titel": "Maren findet den Rueckweg — Portal-Ritual fuer die Moragh-Seite",
+            "pov": "B2 Kap 38 · Vesper+Maren",
+            "detail": "Thar-Bibliothek, alte Karten. Maren hat genug Resonanz fuer den Hinweg Moragh→Thalassien. Nicht fuer den Rueckweg. Vesper bleibt, sie geht. Der Abschied: 'Ich weiss.'",
+            "tags": [
+              "Portal",
+              "Schluesselereignis: Maren findet Rueckweg"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 3.6,
+            "kapitel": "B2-I12",
+            "typen": [
+              "tschechow"
+            ],
+            "titel": "Talven verteilt geerntete Resonanz — beide Augen werden milchig",
+            "pov": "B2 I12 · Talven",
+            "detail": "Talven ist Moragh-Held. Verteilt geerntete Resonanz aus Alphinas Schlaf-Spuren an die Armen. Seine Augen wolkig, Haare duenner, Naegel bruechig. Er laechelt: 'Es geht mir gut.'",
+            "tags": [
+              "Tschechow: Talven zerfaellt"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 3.7,
+            "kapitel": "B2-40",
+            "typen": [
+              "schlüssel"
+            ],
+            "titel": "Runa zum Thar-Konglomerat — zu ihren Bedingungen",
+            "pov": "B2 Kap 40 · Runa",
+            "detail": "Nicht wegen Kael — trotz Kael. Die Thar haben Ehrlichkeit ueber ihre Brutalitaet. Die Druckerin wird Schmiedin. 'Nuetzlich' ist das Wort das sie hoert.",
+            "tags": [
+              "Schluesselereignis: Runa zu den Thar"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 3.9,
+            "kapitel": "B2-42",
+            "typen": [
+              "hintergrund"
+            ],
+            "titel": "Ende Buch 2: Alle getrennt, alle gebrochen",
+            "pov": "B2 Kap 42 · Alle",
+            "detail": "Alphina+Varen (Verbuendete). Runa beim Konglomerat. Vesper+Nyr bei den Thar. Maren gestrandet in Thalassien. Talven, Gilden-Held, milchige Augen.",
+            "tags": [
+              "Epilog Buch 2"
+            ]
           }
         ]
       }
@@ -1624,6 +2435,50 @@
             ],
             "tags": [
               "Portal"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 5.0,
+            "kapitel": "B3-41",
+            "typen": [
+              "schlüssel"
+            ],
+            "titel": "Maren, alt, am Schwellenforschungsinstitut — 2250 Thalassien, Expedition wird vorbereitet",
+            "pov": "B3 Kap 41 · Maren",
+            "detail": "Dreihundert Jahre Thalassien-Zeit seit Buch 2 Ende. Maren weiss, Hands die nicht mehr schliessen. Das Institut: Glas und Stahl neben dem Steinkreis. Ihr Name steht am Gebaeude.",
+            "tags": [
+              "Schluesselereignis: Institut etabliert"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 5.2,
+            "kapitel": "B3-46",
+            "typen": [
+              "portal",
+              "schlüssel"
+            ],
+            "titel": "Die Expedition geht durch das Portal — 15 Menschen mit 2250er Technik",
+            "pov": "B3 Kap 46 · Maren",
+            "detail": "Resonanz-Verstaerker, trainierte Operatoren. Portal oeffnet sich — 4:33. Maren am Ufer, alt, weiss, allein. Nickt zum letzten. Wartet.",
+            "tags": [
+              "Portal",
+              "Schluesselereignis: Expedition"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 5.9,
+            "kapitel": "B3-I15",
+            "typen": [
+              "tod"
+            ],
+            "titel": "Maren: Stille in Vael — das Meer riecht nur nach Salz",
+            "pov": "B3 I15 · Maren",
+            "detail": "Die Farne stehen still. Die Sensoren zeigen Null. Die vestigiale Resonanz: weg. 'Alphina. Du hast es getan.' Marens Lebenswerk in Akten, auf dem Gebaeude. Ein Institut fuer etwas das nicht mehr existiert.",
+            "tags": [
+              "Epilog: Maren allein"
             ]
           }
         ],
@@ -1663,6 +2518,401 @@
             ],
             "tags": [
               "Schlüsselereignis"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 5.1,
+            "kapitel": "B3-42",
+            "typen": [
+              "erkenntnis"
+            ],
+            "titel": "Alphina + Varen: erste Quellen-Reparatur — die Quelle zuckt",
+            "pov": "B3 Kap 42 · Alphina",
+            "detail": "Wurzeln tief in den toten Quellenkern. Alphinas Resonanz als Herzschrittmacher. Ein einzelnes Pochen. Noch nicht genug — aber der Beweis: es ist moeglich.",
+            "tags": [
+              "Erkenntnis: Quellen-Reparatur funktioniert"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 5.12,
+            "kapitel": "B3-43",
+            "typen": [
+              "schlüssel",
+              "tschechow"
+            ],
+            "titel": "Vesper bei den Thar — autonome Bestien, das Imperium waechst",
+            "pov": "B3 Kap 43 · Vesper",
+            "detail": "Vier autonome Magitech-Bestien patrouillieren die Ankunftsstadt. Die Thar-Kommandantin plant etwas — Bauplan den Vesper nicht sieht. 'Etwas das mich nervoes macht. Und ich werde nicht nervoes.' (Nyr)",
+            "tags": [
+              "Tschechow: Thar-Plaene"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 5.15,
+            "kapitel": "B3-45",
+            "typen": [
+              "tschechow"
+            ],
+            "titel": "Talven verteilt geerntete Resonanz — Held mit dunkler Brille",
+            "pov": "B3 Kap 45 · Talven",
+            "detail": "Marktplatz, hundert Menschen. Er verteilt Dosen geernteter Magie. Applause, Jubel. Sein linkes Auge milchig. Die Brille 'gegen die Sonne'.",
+            "tags": [
+              "Tschechow: Talvens Preis"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 5.25,
+            "kapitel": "B3-47",
+            "typen": [
+              "erkenntnis"
+            ],
+            "titel": "Zweite Quellen-Reparatur — die Quelle pocht regelmaessig",
+            "pov": "B3 Kap 47 · Alphina+Varen",
+            "detail": "Varens Nasenbluten. Er zahlt, Alphina nicht. Dornen statt Farne. 'Das sind zwei. Zwei von vier.'"
+          },
+          {
+            "tz": null,
+            "mz": 5.28,
+            "kapitel": "B3-48",
+            "typen": [
+              "schlüssel"
+            ],
+            "titel": "Die Thar uebernehmen Thalassien-Technik — KI-gesteuerte Bestien, Kessler wird autonom",
+            "pov": "B3 Kap 48 · Vesper+Nyr",
+            "detail": "Die Expedition kommt durch. Thar-Kommandantin sieht die Container. Innerhalb von Tagen: KI-Modul in Kessler. 'Das ist Kessler. Ohne mich.'",
+            "tags": [
+              "Schluesselereignis: Tech-Magie-Fusion"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 5.3,
+            "kapitel": "B3-I10",
+            "typen": [
+              "tschechow",
+              "erkenntnis"
+            ],
+            "titel": "Iven + Generator: Elektrizitaets-Resonanz entdeckt",
+            "pov": "B3 I10 · Iven",
+            "detail": "Iven, 17, beruehrt einen Generator. Leistung verdoppelt. Der Computer flackert. Moragh-Preis: Kribbeln, Schwindel. Er zahlt, Alphina nicht.",
+            "tags": [
+              "Tschechow: Iven als Interface"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 5.35,
+            "kapitel": "B3-50",
+            "typen": [
+              "tschechow"
+            ],
+            "titel": "Alphinas Hain welkt — jemand erntet ihre Resonanz systematisch",
+            "pov": "B3 Kap 50 · Alphina",
+            "detail": "Die Baeume am Rand des Schlaf-Hains: welkend. 'Wer nimmt meine Resonanz?' Varen: 'Jemand der glaubt er hat ein Recht darauf.'"
+          },
+          {
+            "tz": null,
+            "mz": 5.4,
+            "kapitel": "B3-51",
+            "typen": [
+              "schlüssel"
+            ],
+            "titel": "Autonome Bestien patrouillieren — die Thar werden zum Imperium",
+            "pov": "B3 Kap 51 · Vesper",
+            "detail": "Schwarm-Schemen (Tausende Mikro-Schemen, KI-koordiniert). Temporal-KI mit Vespers Muster-Resonanz. 'Du bist unser wertvollstes Werkzeug.' Werkzeug — das Wort."
+          },
+          {
+            "tz": null,
+            "mz": 5.45,
+            "kapitel": "B3-53",
+            "typen": [
+              "schlüssel"
+            ],
+            "titel": "Alphina konfrontiert Talven im toten Hain — er hat Recht und Unrecht",
+            "pov": "B3 Kap 53 · Alphina+Talven",
+            "detail": "Talven nimmt die Brille ab. Beide Augen milchig. 'Der Preis ist FAIR. Zum ersten Mal in der Geschichte von Moragh ist der Preis fair.' Alphina hat keine Antwort — weil er Recht hat und Unrecht.",
+            "tags": [
+              "Schluesselereignis: Talven-Konfrontation"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 5.48,
+            "kapitel": "B3-54",
+            "typen": [
+              "schlüssel"
+            ],
+            "titel": "Nyr findet die Resonanz-Kaefig-Plaene — Menschen an Maschinen, Dauerbetrieb",
+            "pov": "B3 Kap 54 · Nyr",
+            "detail": "Metallklemmen. Infusionsleitungen. 20 Plaetze fuer Resonanz-Begabte. Nicht freiwillig. Nyr kennt den Unterschied: Pilotin ist Wahl, das hier ist Kaefig.",
+            "tags": [
+              "Schluesselereignis: Nyr erkennt den Kaefig"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 5.5,
+            "kapitel": "B3-56",
+            "typen": [
+              "erkenntnis"
+            ],
+            "titel": "Dritte Quellen-Reparatur — die aelteste Quelle pocht",
+            "pov": "B3 Kap 56 · Alphina+Varen",
+            "detail": "Bund-Patrouillen. Alphina und Varen muessen fliehen. Die dritte Quelle pocht — schwach, fragil, aber lebendig. Drei von vier."
+          },
+          {
+            "tz": null,
+            "mz": 5.52,
+            "kapitel": "B3-I11",
+            "typen": [
+              "tod"
+            ],
+            "titel": "Elke stirbt im Garten — an Alter, nicht Magie",
+            "pov": "B3 I11 · Elke",
+            "detail": "Leise, auf dem Stein den sie selbst geformt hat. 'Die Farne brauchen weniger Wasser als die Moragh-Pflanzen.' Varen fluestert das Wort — dasselbe das er ueber Sorels Augen fluesterte. Alphina versteht es diesmal.",
+            "tags": [
+              "Tod: Elke"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 5.53,
+            "kapitel": "B3-60",
+            "typen": [
+              "schlüssel"
+            ],
+            "titel": "Talvens Bruch — gibt die Resonanz zurueck, wird halb blind",
+            "pov": "B3 Kap 60 · Talven",
+            "detail": "Am Grab. Der Stein antwortet nicht. Er hoert auf zu ernten. Gibt zurueck. Zweites Auge milchig. Am Morgen: ein Grashalm im toten Hain.",
+            "tags": [
+              "Schluesselereignis: Talvens Busse"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 5.55,
+            "kapitel": "B3-I12",
+            "typen": [
+              "erkenntnis"
+            ],
+            "titel": "Varen: 'Der Riss ist das Problem' — erste Saat der Loesung",
+            "pov": "B3 I12 · Varen",
+            "detail": "Die Quellen-Reparatur reicht nicht. Der Bund zerstoert schneller als wir reparieren. Die Thar bauen schneller als wir verstehen. Die Riss-Quelle muss zerstoert werden.",
+            "tags": [
+              "Erkenntnis: Riss-Quelle als Ziel"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 5.6,
+            "kapitel": "B3-61",
+            "typen": [
+              "schlüssel"
+            ],
+            "titel": "Nyr + Vesper verlassen die Thar — das Wort 'Werkzeug' kippt",
+            "pov": "B3 Kap 61 · Nyr+Vesper",
+            "detail": "Nyr zeigt den Kaefig-Bauplan. Vesper sagt 'effizient', Nyr schlaegt auf den Tisch. 15 Sekunden Entscheidung. Sie nehmen Kessler (kein KI-Modul), Daten, gehen.",
+            "tags": [
+              "Schluesselereignis: Ueberlauf"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 5.65,
+            "kapitel": "B3-63",
+            "typen": [
+              "schlüssel",
+              "erkenntnis"
+            ],
+            "titel": "Alphina repariert ihre eigene zerstoerte Quelle — die vierte",
+            "pov": "B3 Kap 63 · Alphina+Varen",
+            "detail": "Die Quelle die sie in Buch 2 absichtlich zerstoert hat. Vernarbt, ihre Signatur im Stein eingebrannt. Alphina weint. Wo die Traenen den Boden beruehren: Moos. Vier von vier.",
+            "tags": [
+              "Schluesselereignis: Alphinas Schuld-Reparatur"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 5.68,
+            "kapitel": "B3-64",
+            "typen": [
+              "begegnung"
+            ],
+            "titel": "Nyr + Vesper kommen zu Varens Quartier — Alphina empfaengt sie",
+            "pov": "B3 Kap 64 · Vesper+Nyr",
+            "figuren": [
+              "Alphina",
+              "Vesper",
+              "Nyr",
+              "Varen"
+            ],
+            "intensitaet": "vertraut",
+            "detail": "Alphina: 'Ich weiss was du bringst. Setz dich. Varen hat Tee.' Iven am Generator. Talven blind am Rand. 'Gerechtigkeit. Die falsche Art.'",
+            "tags": [
+              "Schluesselereignis: Gruppe vereint"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 5.7,
+            "kapitel": "B3-65",
+            "typen": [
+              "schlüssel"
+            ],
+            "titel": "Der Plan: die Riss-Quelle zerstoeren, Portal permanent schliessen",
+            "pov": "B3 Kap 65 · Varen",
+            "detail": "'Ich waehle Moragh. Fuer immer. Kein Zurueck.' Alphina. Thalassien verliert alle Magie. Die Thar verlieren den Tech-Zugang. Iven, Talven bieten Unterstuetzung.",
+            "tags": [
+              "Schluesselereignis: Der Plan"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 5.72,
+            "kapitel": "B3-66",
+            "typen": [
+              "begegnung"
+            ],
+            "titel": "Runa konfrontiert Alphina — Feuer gegen Dornen",
+            "pov": "B3 Kap 66 · Runa",
+            "figuren": [
+              "Runa Kvist",
+              "Alphina"
+            ],
+            "intensitaet": "intim",
+            "detail": "Die Druckerin jagt Vesper und Nyr, findet Alphina. Patt. 'Moragh zahlt. Das weisst du.' Runa senkt die Klinge. Laesst sie im Boden stecken. Dornen huellen sie ein. Runa geht.",
+            "tags": [
+              "Beziehung: Runa + Alphina — Konfrontation"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 5.74,
+            "kapitel": "B3-69",
+            "typen": [
+              "erkenntnis"
+            ],
+            "titel": "Alphina versteht Varens Wort — es bedeutet 'geh', nicht Befehl, Erlaubnis",
+            "pov": "B3 Kap 69 · Alphina+Varen",
+            "detail": "Dasselbe Wort das er ueber Sorels Augen gefluestert hatte. 'Der Unterschied,' sagt Alphina, 'bin ich.'",
+            "tags": [
+              "Erkenntnis: Das Wort"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 5.8,
+            "kapitel": "B3-71",
+            "typen": [
+              "schlüssel"
+            ],
+            "titel": "Annaeherung an die Thar-Festung — Iven stoert die Ley-Linien",
+            "pov": "B3 Kap 71 · Vesper",
+            "detail": "Vesper ohne Temporal-KI, nur Muster-Sinn. Iven am Generator. Nasenbluten. 'Nicht aufhoeren.'"
+          },
+          {
+            "tz": null,
+            "mz": 5.82,
+            "kapitel": "B3-72",
+            "typen": [
+              "schlüssel"
+            ],
+            "titel": "Nyr auf Kessler — Durchbruch durch die Mauer, gegen autonome Bestien",
+            "pov": "B3 Kap 72 · Nyr",
+            "detail": "Drei Ramm-Versuche. Kessler gegen fuenf autonome Bestien. Pilotin gegen KI. Die Pilotin gewinnt."
+          },
+          {
+            "tz": null,
+            "mz": 5.85,
+            "kapitel": "B3-75",
+            "typen": [
+              "schlüssel"
+            ],
+            "titel": "Talven kalibriert die Riss-Quelle blind — praezise, genug",
+            "pov": "B3 Kap 75 · Iven+Talven",
+            "detail": "Iven stoert das Imperium-Nervensystem. Talven fuehlt die Riss-Quelle, markiert den Kippunkt mit zitternden Fingern. Blind, praezise, der Buesser der sein Wissen einsetzt.",
+            "tags": [
+              "Schluesselereignis: Kalibrierung"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 5.88,
+            "kapitel": "B3-76",
+            "typen": [
+              "portal",
+              "schlüssel",
+              "tod"
+            ],
+            "titel": "Alphina zerstoert die Riss-Quelle — das Portal schliesst sich permanent",
+            "pov": "B3 Kap 76 · Alphina",
+            "detail": "Dieselbe Handlung wie in Buch 2. Anderer Mensch. In Thalassien fallen die Farne um, alle gleichzeitig. Die Glasplatte hoert auf zu vibrieren. In Moragh: der Riss heilt. Alphina lebt.",
+            "tags": [
+              "Schluesselereignis: Das Finale",
+              "Portal",
+              "Tod: Riss-Quelle"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 5.92,
+            "kapitel": "B3-77",
+            "typen": [
+              "hintergrund"
+            ],
+            "titel": "Die Thar-Festung im Chaos — ohne Ley-Linien-Netzwerk stagniert das Imperium",
+            "pov": "B3 Kap 77 · Varen+Alphina",
+            "detail": "'Es ist vorbei. Das Portal bleibt geschlossen. Eure Bestien brauchen Ersatzteile die nicht kommen.' 'Verhandelt. Oder verarmt.'"
+          },
+          {
+            "tz": null,
+            "mz": 5.93,
+            "kapitel": "B3-78",
+            "typen": [
+              "erotik"
+            ],
+            "titel": "Vesper + Nyr — frei, ohne KI, ohne Muster-Zwang",
+            "pov": "B3 Kap 78 · Vesper+Nyr",
+            "figuren": [
+              "Vesper",
+              "Nyr"
+            ],
+            "intensitaet": "intim",
+            "detail": "'Bereust du es?' 'Jeden Tag.' 'Und?' 'Und ich wuerde es nicht wieder tun.' Nyr presst ihn an die Mauer. 'Was machen wir jetzt?' 'Keine Ahnung. Zum ersten Mal.'",
+            "tags": [
+              "Beziehung: Vesper + Nyr"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 5.95,
+            "kapitel": "B3-80",
+            "typen": [
+              "schlüssel"
+            ],
+            "titel": "Alphina + Varen in Elkes Garten — der Garten, die Dornen, der Blick",
+            "pov": "B3 Kap 80 · Alphina+Varen",
+            "detail": "Tage spaeter. Elkes Bank. Pflanzen aus zwei Welten. Dornen und Farne und Stein. 'Kein Zurueck.' 'Nein.' 'Elke hatte Recht. Es war gut. Das alles.' Sein Blick der nicht fragt.",
+            "tags": [
+              "Epilog Moragh"
+            ]
+          },
+          {
+            "tz": null,
+            "mz": 6.0,
+            "kapitel": "B3-EP",
+            "typen": [
+              "schlüssel"
+            ],
+            "titel": "Epilog: Drei Bilder — Vael still, die Stadt mit Talven als Lehrer, Moragh heilt",
+            "pov": "B3 EP · Alle",
+            "detail": "Vael: ein Kind beruehrt einen Farn, nichts passiert. Stadt: Talven unterrichtet Warnung, blind. Moragh: Alphina und Varen auf der Bank, Dornen, Buch im 1423er Thalassisch. Reparierte Quellen pochen. 'Die Welten sind zwei. Der Riss ist geschlossen. Die Quelle haelt.'",
+            "tags": [
+              "Epilog: Ende der Trilogie"
             ]
           }
         ]
