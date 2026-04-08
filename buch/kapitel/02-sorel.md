@@ -1,4 +1,4 @@
-# Kapitel 2 — Sorel
+# Sorel
 
 Das Rotlicht machte seine Hände zu etwas, das nicht ihm gehörte.
 

@@ -1,4 +1,4 @@
-# Interludium I — Elke, vor vierhundert Jahren
+# Elke
 
 Vierhundert Jahre bevor eine Frau in Velde aufhörte, sich einzureden, dass Pflanzen nicht auf sie reagierten, kam eine andere Frau nach Vael. Keine Frau der Pflanzen. Eine Frau des Steins.
 

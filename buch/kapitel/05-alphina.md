@@ -1,4 +1,4 @@
-# Kapitel 5 — Alphina
+# Alphina
 
 Der dritte Tag roch nach Salz.
 

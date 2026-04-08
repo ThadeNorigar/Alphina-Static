@@ -1,4 +1,4 @@
-# Kapitel 3 — Vesper
+# Vesper
 
 Die Feder war das Problem.
 

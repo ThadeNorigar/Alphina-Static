@@ -1,4 +1,4 @@
-# Interludium II — Keldan, vor vierhundert Jahren
+# Elke
 
 Die Schmiede am Hafen lag tief, halb in den Fels gebaut, und das Feuer in der Esse brannte seit dem Morgen. Elke hörte den Hammer drei Gassen weit — ein einzelner Schlag, dann Stille, dann ein zweiter, langsamer als er hätte sein sollen, als dächte der Mann zwischen den Schlägen nach.
 
@@ -42,24 +42,34 @@ Nicht langsam, wie zuvor unter dem Hammer, nicht das zögerliche Weichwerden ein
 
 Elke zog die Hand vom Amboss. Zu spät. Ihr Herzschlag war in ihren Handgelenken, hart, und Keldans Knöchel waren weiß um die Zange und sein Atem kam einmal, kurz, und dann nicht mehr, und sie starrten beide auf den Barren.
 
-Er formte sich. Eine Krümmung, eine Spirale, die sich um sich selbst wand, eng und gleichmäßig, mit einer Präzision die kein Hammer erreicht hätte. Kein Schnörkel. Kein Klumpen. Ein Muster, organisch, als wäre es gewachsen statt geschmiedet — wie die Pflanze am Klippenrand, die aus dem Riss im Fels wuchs, ohne Erde, ohne Grund. Dasselbe Einrollen, dieselbe Spirale, nur aus Eisen statt aus Grün.
+Er formte sich. Nicht willkürlich. Der Barren wölbte sich nach außen, die Mitte schmaler, die Unterseite öffnete sich, die Wand wurde gleichmäßig dünn — eine Form die sich zusammenzog und auseinanderdrückte gleichzeitig, als fände sie ihren eigenen Umriss. Eine Glocke. Handgroß, aber vollständig: die Schulter, der Mund, die Krone oben wo der Bügel sein würde. Und in der Höhlung, am Scheitel klebend, ein dünner Tropfen aus Eisen, der hing wie eine Zunge.
 
-Das Eisen erstarrte. Die Spirale blieb — eingefroren im Metall, rot glühend, dann dunkler, dann schwarz, und das Summen ging zurück in den Boden und die Stille in der Schmiede war die Stille eines Raums in dem etwas passiert war das kein Wort hatte.
+Keldan starrte. In seinem Gesicht verschob sich etwas, das nichts mit Unsicherheit zu tun hatte. Erkennen.
 
-Keldan legte den Barren auf den Amboss. Das Muster war da. Eine Spirale, so groß wie eine Männerfaust, die Windungen eng und gleichmäßig, die Oberfläche glatt, als hätte jemand sie poliert. Elke strich mit dem Finger darüber. Warm. Die Rillen unter ihrer Fingerkuppe fühlten sich an wie die Rillen im Purpurstein — nicht zufällig, nicht mechanisch, sondern gewachsen, als trüge das Eisen ein Muster das älter war als Eisen.
+Das Eisen erstarrte. Die Glocke blieb — eingefroren im Metall, rot glühend, dann dunkler, dann schwarz, und das Summen ging zurück in den Boden und die Stille in der Schmiede war die Stille eines Raums in dem etwas passiert war das kein Wort hatte.
 
-"Ich habe das nicht gemacht," sagte Keldan. Seine Stimme war rau, leiser als vorher.
+Keldan legte sie auf den Amboss. Die Proportionen waren genauer als ein Gießer sie getroffen hätte, die Wand überall gleich dünn, die Lippe sauber. Elke strich mit dem Finger darüber. Warm. Die Oberfläche war glatt, kein Gusszapfen, keine Naht, keine Stelle an der ein Werkzeug angesetzt hätte. Dann klopfte sie mit dem Fingernagel gegen den Mund.
 
-"Ich auch nicht," sagte Elke.
+Ein Ton kam. Hell, rein, länger als er hätte sein sollen. Der Klang hing in der Luft zwischen ihnen, schwebte über den Amboss, wollte nicht abreißen.
 
-Stille. Das Feuer in der Esse brannte weiter, ohne Kohle, und der Fels unter ihren Füßen war warm, und das Eisen auf dem Amboss trug ein Muster das niemand geschlagen hatte.
+Keldan schloss die Augen.
 
-Keldan schaute auf den Barren. Dann auf sie. "Kennt Ihr noch andere? Die so etwas haben?"
+"Seit Wochen," sagte er. Seine Stimme war rau. "Wenn ich das Summen höre — in der Werkstatt, in den Träumen, abends im Bett — sehe ich eine Glocke. Klein. Handgroß. Immer dieselbe." Er öffnete die Augen wieder und schaute das Ding auf dem Amboss an. "Ich habe versucht sie zu vergessen. Man gießt Glocken aus Bronze, nicht aus Eisen. Ich bin Schmied, kein Gießer. Ich habe keinen Grund an Glocken zu denken."
+
+Elke legte die Hand neben die kleine Glocke, nicht darauf, nur daneben. Der Ton hing immer noch in der Luft. "Ihr habt sie gemacht," sagte sie. "Ihr habt sie nur nicht geschlagen."
+
+Keldan schaute sie an.
+
+"Was ich am Klippenrand gefunden habe," sagte Elke, "sind Abdrücke meiner Hände im Kalkstein. Ich habe den Stein nicht bearbeitet. Ich habe ihn berührt, und er hat nachgegeben, weil ich wollte dass er nachgibt. Ich habe es nicht gewusst. Aber jemand gibt einer Form nach, bevor er versteht dass er es tut." Sie zeigte auf die Glocke. "Euer Eisen hat der Form nachgegeben die Ihr in Euch tragt. Ihr seid in dem Moment der Gießer gewesen, nicht die Form."
+
+Stille. Das Feuer in der Esse brannte weiter, ohne Kohle, und der Fels unter ihren Füßen war warm, und der Ton der kleinen Glocke löste sich langsam in der Luft auf, dünner und dünner, bis er unter das Rauschen des Hafens sank und verschwand.
+
+Keldan schaute auf die Glocke. Dann auf sie. "Kennt Ihr noch andere? Die so etwas haben?"
 
 "Aldert schreibt Briefe," sagte Elke. "An jeden Handwerker, von dem er hört, dass sein Material sich verändert hat. Er kennt Leute in den Häfen, in den Kontoren — Aldert kennt jeden." Sie strich sich den Steinstaub von den Händen. "Zwei haben geantwortet. Eine Schiffbauerin aus dem Süden, die im Frühjahr kommen will. Und ein Maler aus den Freistädten."
 
 Keldan schwieg einen Moment. "Noch zwei," sagte er leise.
 
-Keldan strich mit dem Daumen über die Spirale. Das Eisen summte unter seiner Berührung, leise, fast zärtlich, ein Ton den Elke in der Brust spürte. Er nickte, langsam, einmal. Seine Schultern sanken einen Fingerbreit, und die Falte zwischen seinen Brauen, die Elke in sechs Wochen nicht verschwinden gesehen hatte, wurde weicher. Ein Mann der seit sieben Wochen allein mit etwas Unmöglichem gelebt hatte und der gerade erfahren hatte, dass es nicht nur seines war.
+Keldan legte den Daumen auf den Mund der Glocke. Das Eisen summte unter seiner Berührung, leise, fast zärtlich, ein Ton den Elke in der Brust spürte. Er nickte, langsam, einmal. Seine Schultern sanken einen Fingerbreit, und die Falte zwischen seinen Brauen, die Elke in sechs Wochen nicht verschwinden gesehen hatte, wurde weicher. Ein Mann der seit sieben Wochen allein mit etwas Unmöglichem gelebt hatte und der gerade erfahren hatte, dass das Unmögliche in ihm selbst wohnte.
 
-Elke ging. Die Gasse war dunkel und der Nebel lag auf dem Kopfsteinpflaster und unter ihren Stiefeln summte der Purpurstein, leise, geduldig, und in der Schmiede hinter ihr brannte ein Feuer das keine Kohle brauchte, und auf dem Amboss lag ein Barren mit einem Muster das kein Hammer geschlagen hatte.
+Elke ging. Die Gasse war dunkel und der Nebel lag auf dem Kopfsteinpflaster und unter ihren Stiefeln summte der Purpurstein, leise, geduldig, und in der Schmiede hinter ihr brannte ein Feuer das keine Kohle brauchte, und auf dem Amboss stand eine kleine Glocke, die niemand gegossen hatte, und wenn der Wind durch die Ritzen zog, klang sie ganz leise.

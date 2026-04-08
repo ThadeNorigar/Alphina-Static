@@ -1,4 +1,4 @@
-# Kapitel 6 — Sorel
+# Sorel
 
 
 Die Treppe hatte siebzehn Stufen. In Nachtholm waren es einundzwanzig gewesen.

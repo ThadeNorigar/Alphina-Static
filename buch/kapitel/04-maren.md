@@ -1,4 +1,4 @@
-# Kapitel 4 — Maren
+# Maren
 
 Der Schuppen roch nach Haron.
 

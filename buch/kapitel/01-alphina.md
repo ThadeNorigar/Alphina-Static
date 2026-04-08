@@ -1,4 +1,4 @@
-# Kapitel 1 — Alphina
+# Alphina
 
 Die Pflanzen waren still.
 
