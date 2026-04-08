@@ -1,12 +1,12 @@
 # Elke
 
-Die Schmiede am Hafen lag tief, halb in den Fels gebaut, und das Feuer in der Esse brannte seit dem Morgen. Elke hörte den Hammer drei Gassen weit — ein einzelner Schlag, dann Stille, dann ein zweiter, langsamer als er hätte sein sollen, als dächte der Mann zwischen den Schlägen nach.
+Der Frostmond lag auf Vael, und die Schmiede am Hafen lag tief, halb in den Fels gebaut, und das Feuer in der Esse brannte seit dem Morgen. Elke hörte den Hammer drei Gassen weit — ein einzelner Schlag, dann Stille, dann ein zweiter, langsamer als er hätte sein sollen, als dächte der Mann zwischen den Schlägen nach.
 
 Keldan Rohn stand am Amboss, die Zange in der linken Hand, den Hammer in der rechten, und das Eisen unter dem Hammer war falsch. Elke sah es von der Tür aus — die Art wie der Barren sich bog, nachgiebig, fast willig, als wäre er Zinn und nicht Eisen. Keldan schlug, und das Metall gab nach, zu schnell, zu weich, und er hielt inne und schaute den Barren an, als hätte der Barren ihm etwas gesagt das er nicht hören wollte.
 
 "Wieder?", fragte Elke.
 
-Keldan nickte. Er legte den Hammer auf den Amboss und wischte sich die Hände an der Schürze ab. Große Hände, breit, die Knöchel geschwollen von Jahren am Feuer. Schwielen auf den Handflächen, die so dick waren dass die Haut dort eine andere Farbe hatte, gelb und hart wie Horn. Ein Schmied, durch und durch, von den Schultern bis zu den Fingerspitzen, und der Schmied verstand sein Eisen nicht mehr.
+Keldan nickte. Er legte den Hammer auf den Amboss und wischte sich die Hände an der Schürze ab — große Hände, deren Knöchel von Jahren am Feuer geschwollen waren. Die Schwielen auf seinen Handflächen waren so dick, dass die Haut dort eine andere Farbe hatte, gelb und hart wie Horn. Ein Schmied, durch und durch, von den Schultern bis zu den Fingerspitzen, und der Schmied verstand sein Eisen nicht mehr.
 
 Aldert, der Wirt, hatte sie zusammengebracht. In der ersten Woche, als Elke noch glaubte, der Purpurstein am Klippenrand wäre erklärbar und das Pochen im Fels ein Erdbeben das niemand sonst spürte. "Da ist ein Schmied am Hafen," hatte Aldert gesagt, "der sagt sein Eisen singt." Elke war hingegangen, und sie hatten auf dem Marktplatz gestanden, im Nebel, sie mit dem Steinstaub in den Haaren und den rissigen Händen und den Sätzen die zu schnell kamen, er mit den breiten Schultern und dem Schweigen das schwerer wog als ihre Worte. Ein Mann der sein Material kannte und dem sein Material gerade sagte, dass die Regeln sich geändert hatten. Elke kannte das Gefühl. Seit sechs Wochen kannte sie nichts anderes.
 
@@ -30,7 +30,7 @@ Elke kniete sich neben den Barren. Sie legte die linke Hand auf den Purpurstein,
 
 Der Amboss war warm.
 
-Nicht die Wärme eines Werkstücks, das seit Stunden geschlagen wird. Eine andere Wärme, von unten, durch die Beine des Amboss, durch den Eisenblock, in ihre Handfläche. Derselbe Puls. Keldan sah es — sah ihre Hand auf seinem Amboss, sah wie ihre Finger sich um die Kante legten, und sein Gesicht veränderte sich, eine Verschiebung um die Augen die Elke in sechs Wochen nicht gesehen hatte. Unsicherheit. Bei einem Mann der keine Unsicherheit kannte.
+Nicht die Wärme eines Werkstücks, das seit Stunden geschlagen wird. Eine andere Wärme, von unten, durch die Beine des Amboss, durch den Eisenblock, in ihre Handfläche. Derselbe Puls. Keldans Blick fiel auf ihre Hand, wanderte zu ihren Fingern um die Kante des Ambosses, und sein Gesicht veränderte sich, eine Verschiebung um die Augen die Elke in sechs Wochen nicht gesehen hatte. Unsicherheit. Bei einem Mann der keine Unsicherheit kannte.
 
 "Nehmt den Barren," sagte Elke. "Haltet ihn über den Amboss."
 
@@ -48,7 +48,7 @@ Keldan starrte. In seinem Gesicht verschob sich etwas, das nichts mit Unsicherhe
 
 Das Eisen erstarrte. Die Glocke blieb — eingefroren im Metall, rot glühend, dann dunkler, dann schwarz, und das Summen ging zurück in den Boden und die Stille in der Schmiede war die Stille eines Raums in dem etwas passiert war das kein Wort hatte.
 
-Keldan legte sie auf den Amboss. Die Proportionen waren genauer als ein Gießer sie getroffen hätte, die Wand überall gleich dünn, die Lippe sauber. Elke strich mit dem Finger darüber. Warm. Die Oberfläche war glatt, kein Gusszapfen, keine Naht, keine Stelle an der ein Werkzeug angesetzt hätte. Dann klopfte sie mit dem Fingernagel gegen den Mund.
+Keldan legte sie auf den Amboss. Die Proportionen waren genauer als Menschenhand sie getroffen hätte, die Wand überall gleich dünn, die Lippe sauber. Elke strich mit dem Finger darüber. Warm. Die Oberfläche war glatt, keine Naht, kein Ansatz eines Werkzeugs, keine Stelle die nach Arbeit aussah. Dann klopfte sie mit dem Fingernagel gegen die Öffnung unten.
 
 Ein Ton kam. Hell, rein, länger als er hätte sein sollen. Der Klang hing in der Luft zwischen ihnen, schwebte über den Amboss, wollte nicht abreißen.
 
