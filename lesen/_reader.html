@@ -311,18 +311,11 @@
           return;
         }
 
-        // Set header
-        if (isInterludium) {
-          document.getElementById('ch-number').textContent = 'Interludium';
-          // Extract subtitle from titel (after ":")
-          const parts = ch.titel.split(':');
-          document.getElementById('ch-title').textContent = parts.length > 1 ? parts[1].trim() : ch.titel;
-        } else {
-          document.getElementById('ch-number').textContent = 'Kapitel ' + (ZAHLWORT[kapId] || kapId);
-          document.getElementById('ch-title').textContent = ch.pov;
-        }
+        // Set header — nur Name der Hauptperson (ch.pov)
+        document.getElementById('ch-number').style.display = 'none';
+        document.getElementById('ch-title').textContent = ch.pov;
 
-        document.title = 'Der Riss — ' + (isInterludium ? 'Interludium' : 'Kapitel ' + parseInt(kapId));
+        document.title = 'Der Riss — ' + ch.pov;
 
         // Build navigation
         const myIdx = allKapitelOrder.indexOf(kapId);
