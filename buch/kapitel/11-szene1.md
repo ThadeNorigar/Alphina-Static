@@ -58,7 +58,7 @@ Er ging zurück zu Kvarns Uhr. Hob die Pinzette, setzte sie an der Ankerplatte a
 
 Er wusste in diesem Moment, wie er wusste, wann ein Abend in Karst kein Abend für die letzte Etappe gewesen war: heute nicht. Seine Hände waren ruhig, aber sein Kopf war nicht bei der Welle. Die zwei Linien auf dem Kartenrücken standen in seinem Augenwinkel wie zwei nasse Striche, die nicht trocknen wollten. Den achtzehnten Punkt zu suchen war wichtiger als Kvarn um einen halben Tag zu enttäuschen. Der halbe Tag war verhandelbar; die Linien waren es nicht.
 
-Er legte die Pinzette auf die Samtrolle. Deckte die Uhr mit dem schmalen Samtlappen zu, den er zu diesem Zweck immer rechts von der Rolle liegen hatte. Rollte die Werkzeuge nicht ein — er würde am Nachmittag zurückkommen — sondern zog nur den Lappen über das offene Werk, damit kein Staub hineinfiel, während er draußen war. Dann klappte er das Notizbuch zu, griff den Mantel von der Stuhllehne, schob ihn an und steckte das Buch in die Innentasche.
+Er legte die Pinzette auf die Samtrolle. Deckte die Uhr mit dem schmalen Samtlappen zu, den er zu diesem Zweck immer rechts von der Rolle liegen hatte. Die Werkzeuge ließ er ausgerollt — er würde am Nachmittag zurückkommen — und zog nur den Lappen über das offene Werk, damit kein Staub hineinfiel, während er draußen war. Dann klappte er das Notizbuch zu, griff den Mantel von der Stuhllehne, schob ihn an und steckte das Buch in die Innentasche.
 
 Der Turm lag in der linken Außentasche, dort wo er seit fünf Wochen lag. Als er ihn mit den Fingerspitzen streifte, war das Holz so kalt wie am Morgen. Kein Grad wärmer, kein Grad kälter, nur die Kälte eines Stücks Holz, das beschlossen hatte, die Körperwärme nicht anzunehmen. Er ließ ihn in der Tasche.
 
