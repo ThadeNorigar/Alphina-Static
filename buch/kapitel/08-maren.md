@@ -2,13 +2,13 @@
 
 An einem Morgen in der sechsten Woche lag die Planke da.
 
-Maren stand in der Tür des Schuppens, die Hände in den Jackentaschen, der Bleistift unter den Fingerspitzen der rechten Hand. Draußen war der Tag noch nicht fertig — der Nebel lag auf dem Wasser und das Licht kam von nirgendwo, milchig, richtungslos, ein Morgen der sich nicht entscheiden konnte. Die Luft war wärmer als bei ihrer Ankunft, der Frühling kippte in den Sommer, und die Nächte wurden kürzer. Drinnen lag das Boot auf seinen Böcken und die Planke die gestern nicht da gewesen war saß an der Steuerbordseite, fünfte Reihe, eingepasst wie ein Wort das jemand mitten in einen Satz gesetzt hatte, sauber und selbstverständlich, als wäre sie immer dort gewesen.
+Maren stand in der Tür des Schuppens, die Hände in den Jackentaschen, der Bleistift unter den Fingerspitzen der rechten Hand. Draußen war der Tag noch nicht fertig — der Nebel lag auf dem Wasser und das Licht kam von nirgendwo, milchig, richtungslos, ein Morgen der sich nicht entscheiden konnte. Die Luft war wärmer als bei ihrer Ankunft, der Frühling kippte in den Sommer, und die Nächte wurden kürzer. Drinnen lag das Boot auf seinen Böcken und die Planke die gestern nicht da gewesen war saß an der Steuerbordseite, fünfte Reihe, eingepasst wie ein Wort das jemand mitten in einen Satz gesetzt hatte — sauber, selbstverständlich, dort seit immer.
 
 Maren ging hinein. Auf dem Boden Späne, frisch, hell, der Geruch von geschliffenem Holz lag in der Luft, feiner als der Geruch den ihre eigene Arbeit hinterließ. Ihr Schleifstaub war gröber, ungeduldiger. Dieser hier war so fein, dass er sich auf den Werkzeugen niedergelegt hatte wie Reif.
 
-Sie kniete sich neben das Boot. Fuhr mit der Handfläche über die neue Planke. Glatt. Wärmer als das Holz daneben, als hätte jemand die Hände darauf gelegt und die Wärme war geblieben. Die Maserung lief in einem Bogen der zur Krümmung des Rumpfes passte, als hätte das Holz sich freiwillig gebeugt. Sie drückte den Daumen gegen die Kante, wo die neue Planke an die alte stieß — kein Spalt, kein Übergang, nur eine Naht so eng dass der Fingernagel nicht hineinpasste. Haron hätte es nicht besser gekonnt. Wer auch immer das getan hatte, kannte Harons Handschrift im Holz.
+Sie kniete sich neben das Boot. Fuhr mit der Handfläche über die neue Planke. Glatt. Wärmer als das Holz daneben, die Wärme einer Hand die gerade eben noch dort gelegen hatte. Die Maserung lief in einem Bogen der zur Krümmung des Rumpfes passte, ein Bogen den das Holz sich selbst zu geben schien. Sie drückte den Daumen gegen die Kante, wo die neue Planke an die alte stieß — kein Spalt, kein Übergang, nur eine Naht so eng dass der Fingernagel nicht hineinpasste. Haron hätte es nicht besser gekonnt. Wer auch immer das getan hatte, kannte Harons Handschrift im Holz.
 
-In der ersten Woche hatte sie geglaubt, sie hätte sich verzählt. Planken sahen sich ähnlich, und im Halbdunkel des Schuppens, müde, mit Händen die vom Schleifen taub waren, konnte man sich täuschen. In der zweiten Woche hatte sie einen Bleistiftstrich an die oberste unfertige Stelle gemacht, abends, bevor sie ging. Morgens war der Strich weg. Das Holz an der Stelle war glatt, als hätte jemand die Markierung abgeschliffen und die Lücke darunter geschlossen. Danach hatte sie aufgehört, nach Erklärungen zu suchen.
+In der ersten Woche hatte sie geglaubt, sie hätte sich verzählt. Planken sahen sich ähnlich, und im Halbdunkel des Schuppens, müde, mit Händen die vom Schleifen taub waren, konnte man sich täuschen. In der zweiten Woche hatte sie einen Bleistiftstrich an die oberste unfertige Stelle gemacht, abends, bevor sie ging. Morgens war der Strich weg. Das Holz an der Stelle war glatt, die Markierung abgeschliffen, die Lücke darunter geschlossen. Danach hatte sie aufgehört, nach Erklärungen zu suchen.
 
 Jetzt stand sie auf, wischte die Knie ab und ging zur Werkbank. Harons Zeichnungen lagen noch dort, unter ihren eigenen Notizen — Bootsrisse, Querschnitte, Maße. Die Schürze hatte Edric gefaltet und auf die Bank gelegt, am ersten Tag, eine Geste die ein Abschluss war. Sie lag noch dort. Maren hatte sie nicht bewegt.
 
@@ -20,7 +20,7 @@ Edric nickte. Er ging zum Boot, legte die Hand auf die Planke, an derselben Stel
 
 "Lärche", sagte er. "Dasselbe Holz wie die anderen."
 
-Er ging zur Werkbank, nahm den Hobel, begann die Kante einer Planke zu bearbeiten, die Maren am Vortag zugeschnitten hatte. Seine Hände arbeiteten gleichmäßig, der Hobel über das Holz, die Späne fielen, einer nach dem anderen, in einem Rhythmus der so regelmäßig war dass Maren ihn im Brustkorb spürte. Die Hände wussten, was sie taten. Die Arme, die Schultern, der ganze Körper wusste es — eine Sicherheit die nicht aus Denken kam, sondern aus Jahren. Maren beobachtete seine Finger am Hobel, kurz, die breiten Kuppen, die Schwielen, die Schnittwunden in verschiedenen Stadien der Heilung. Hände die ihren Ort kannten.
+Er ging zur Werkbank, nahm den Hobel, begann die Kante einer Planke zu bearbeiten, die Maren am Vortag zugeschnitten hatte. Seine Hände arbeiteten gleichmäßig, der Hobel über das Holz, die Späne fielen, einer nach dem anderen, in einem Rhythmus der so regelmäßig war dass Maren ihn im Brustkorb spürte. Die Hände wussten, was sie taten. Die Arme, die Schultern, der ganze Körper wusste es — eine Sicherheit aus den Jahren, nicht aus dem Kopf. Maren beobachtete seine Finger am Hobel, kurz, die breiten Kuppen, die Schwielen, die Schnittwunden in verschiedenen Stadien der Heilung. Hände die ihren Ort kannten.
 
 Sie wandte sich ab und ging an das andere Ende der Werkbank, wo Harons Werkzeuge an ihren Haken hingen. Der Stechbeitel, dritter von links, hatte einen losen Griff. Sie hatte es vor Tagen bemerkt, als sie das Werkzeug aus dem Haken zog und der Griff sich in ihrer Hand drehte, ein halber Zentimeter Spiel zwischen Holz und Klinge. Sie zog ihn jetzt heraus, drehte ihn, prüfte. Der Griff saß fest. Fester als vor drei Tagen.
 
@@ -28,11 +28,11 @@ Sie schaute auf die Werkbank. Auf die Oberfläche, abgewetzt von Jahren, Kerben 
 
 Maren zog es heraus. Gefaltet, zweimal, das Papier gelblich, die Kanten weich vom Alter. Sie faltete es auf.
 
-Harons Handschrift. Das erkannte sie sofort — die Neigung, der Abstand zwischen den Zeichen, die Art wie der Stift am Ende eines Strichs leichter wurde, als hebe die Hand sich schon für den nächsten. Dieselbe Hand die geschrieben hatte: *Das Holz gibt nach, wenn man ihm Zeit lässt.* Derselbe Stift, vielleicht derselbe Bleistift, der jetzt in ihrer Jackentasche lag mit der abgebrochenen Spitze.
+Harons Handschrift. Das erkannte sie sofort — die Neigung, der Abstand zwischen den Zeichen, die Art wie der Stift am Ende eines Strichs leichter wurde, die Hand schon beim nächsten. Dieselbe Hand die geschrieben hatte: *Das Holz gibt nach, wenn man ihm Zeit lässt.* Derselbe Stift, vielleicht derselbe Bleistift, der jetzt in ihrer Jackentasche lag mit der abgebrochenen Spitze.
 
 Aber die Zeichen waren keine Buchstaben.
 
-Keine Sprache die Maren kannte — kein Thalassisch, kein Küstendialekt, kein Handelsschrift aus Solha oder den Innenlanden. Symbole, die sich wiederholten, in Gruppen angeordnet, manche eingekreist, manche durchgestrichen und daneben neu geschrieben, als hätte Haron etwas korrigiert, an etwas gefeilt, an einer Anweisung die stimmen musste. Dazwischen Zeichnungen — nicht von Booten, nicht von Holz. Formen die aussahen wie Kreise mit Strichen, Figuren die an Hände erinnerten, an geöffnete Handflächen, an etwas das man hielt oder losließ. Am unteren Rand eine Zeichnung die dichter war als die anderen, sorgfältiger, die Linien tiefer in das Papier gedrückt: ein Kreis, und darin etwas das aussah wie eine Gestalt, zusammengekauert, und Linien die von der Gestalt zum Kreisrand liefen wie Fäden.
+Keine Sprache die Maren kannte — kein Thalassisch, kein Küstendialekt, kein Handelsschrift aus Solha oder den Innenlanden. Symbole, die sich wiederholten, in Gruppen angeordnet, manche eingekreist, manche durchgestrichen und daneben neu geschrieben — Haron hatte korrigiert, gefeilt, an einer Anweisung die stimmen musste. Dazwischen Zeichnungen — nicht von Booten, nicht von Holz. Formen die aussahen wie Kreise mit Strichen, Figuren die an Hände erinnerten, an geöffnete Handflächen, an etwas das man hielt oder losließ. Am unteren Rand eine Zeichnung die dichter war als die anderen, sorgfältiger, die Linien tiefer in das Papier gedrückt: ein Kreis, und darin etwas das aussah wie eine Gestalt, zusammengekauert, und Linien die von der Gestalt zum Kreisrand liefen wie Fäden.
 
 Maren starrte auf das Papier. Harons Hand, Harons Stift, Harons Sorgfalt — und eine Sprache die nicht in diese Welt passte. Nicht in die Werft, nicht in die Briefe, nicht in das Leben eines Bootsbauers an der Grauküste. Sie drehte das Blatt um. Die Rückseite war leer.
 
@@ -62,37 +62,37 @@ Die Zeit ging. Maren spürte sie als Kühle, die durch die Jacke kroch, in die S
 
 Dann veränderte sich die Luft.
 
-Es kam langsam, so langsam dass sie den Moment nicht benennen konnte in dem es anfing. Die Kühle wich. Nicht Wärme — eine Dichte, ein Schwerer-Werden der Luft, als hätte jemand eine Tür geöffnet zu einem Raum in dem ein Ofen brannte, aber ohne Hitze, nur das Gewicht der erwärmten Luft. Und darunter ein Geruch — süßlich, dicht, derselbe Geruch der am Morgen auf den neuen Planken gelegen hatte, der an den Spänen hing, der nicht nach Holz und nicht nach Leim und nicht nach irgendetwas roch das Maren benennen konnte.
+Es kam langsam, so langsam dass sie den Moment nicht benennen konnte in dem es anfing. Die Kühle wich. Nicht Wärme — eine Dichte, ein Schwerer-Werden der Luft. Das Gewicht erwärmter Luft, ohne die Hitze dazu. Und darunter ein Geruch — süßlich, dicht, derselbe Geruch der am Morgen auf den neuen Planken gelegen hatte, der an den Spänen hing, der nicht nach Holz und nicht nach Leim und nicht nach irgendetwas roch das Maren benennen konnte.
 
 Sie hob den Kopf.
 
-Im Tor bewegte sich etwas. Zwischen den Ritzen, wo das Mondlicht hereinfiel, verschoben sich die Linien — das Licht brach, wurde dunkler, als schöbe sich ein Körper vor die Öffnungen. Dann das Tor. Es öffnete sich nicht. Es bewegte sich nicht. Aber die Gestalt kam hindurch, durch das Holz, durch die Ritzen, durch die Substanz des Tores, als bestünde es für sie nicht. Eine Form, die den Raum betrat wie Nebel der durch ein Gitter zieht.
+Im Tor bewegte sich etwas. Zwischen den Ritzen, wo das Mondlicht hereinfiel, verschoben sich die Linien — das Licht brach, wurde dunkler, ein Körper verdeckte die Öffnungen von außen. Dann das Tor. Es öffnete sich nicht. Es bewegte sich nicht. Aber die Gestalt kam hindurch, durch das Holz, durch die Ritzen, durch die Substanz des Tores, das für sie nicht zu bestehen schien. Eine Form, die den Raum betrat wie Nebel der durch ein Gitter zieht.
 
 Maren presste den Hinterkopf in den Boden, unter dem Tuch. Ihr Herzschlag war in ihrem Hals, hart, laut, so laut dass sie sicher war das Segel selbst hob sich bei jedem Schlag. Aber sie bewegte sich nicht. Das Gewicht über ihr half dabei — sie KONNTE sich kaum bewegen, und was sich kaum bewegen konnte, konnte sich nicht verraten. In Solha hatte sie eine Robbe unter Wasser gesehen, drei Meter, die Augen groß und dunkel, und Maren hatte im Wasser gehangen, reglos, und die Robbe war an ihr vorbeigeschwommen, nah genug um die Barthaare zu sehen. Man bewegte sich nicht, wenn etwas Größeres im Raum war. Man machte sich klein und wartete.
 
-Die Gestalt war größer als ein Mensch. Anderthalb Köpfe größer, aber nicht dünn, nicht schmal — breit, massig, die Schultern so weit wie der Rumpf des Bootes, die Arme dick und schwer, als hätte jemand einen Hafenarbeiter genommen und ihn aus Rauch nachgebaut. Die Proportionen waren falsch, aber anders falsch als Maren erwartet hätte — nicht gedehnt, sondern verdichtet, komprimiert, als stecke zu viel Körper in der Form. Die Haut — wenn es Haut war — rauchte. Dünne Fäden stiegen von den Schultern auf, von den massigen Unterarmen, als verbrenne etwas an der Oberfläche, langsam, lautlos. Der Rauch löste sich in der Luft auf und hinterließ den süßen Geruch, dichter jetzt, fast greifbar.
+Die Gestalt war größer als ein Mensch. Anderthalb Köpfe größer, aber nicht dünn, nicht schmal — breit, massig, die Schultern so weit wie der Rumpf des Bootes, die Arme dick und schwer. Ein Hafenarbeiter, aus Rauch nachgebaut. Die Proportionen waren falsch, aber anders falsch als Maren erwartet hätte — nicht gedehnt, sondern verdichtet, komprimiert, zu viel Körper in zu wenig Form. Die Haut — wenn es Haut war — rauchte. Dünne Fäden stiegen von den Schultern auf, von den massigen Unterarmen, ein leises Verbrennen an der Oberfläche, lautlos. Der Rauch löste sich in der Luft auf und hinterließ den süßen Geruch, dichter jetzt, fast greifbar.
 
 Die Augen. Maren sah sie, als die Gestalt sich zum Boot wandte — schwarz, vollständig schwarz, keine Iris, kein Weiß, zwei Löcher in einem Gesicht das sich nicht entscheiden konnte ob es da war. Die Züge verschoben sich, formten sich, zerfielen, in einem Kreislauf der schneller war als Marens Augen folgen konnten. Mund, Nase, Kinn — alles da, alles falsch, alles in Bewegung.
 
 Es arbeitete.
 
-Die Gestalt ging zum Boot, beugte sich über den Rumpf, und ihre Hände griffen nach etwas das Maren nicht sehen konnte — Holz, das aus der Dunkelheit kam, aus dem Boden, aus dem Rauch, Maren wusste es nicht. Eine Planke. Hell, frisch, der Geruch von Lärche. Die Gestalt hob sie an, mit einer Leichtigkeit die nicht zu der Masse des Körpers passte, legte sie an die nächste offene Reihe und drückte. Kein Hammer. Kein Werkzeug. Nur die Hände, die das Holz an das Holz pressten, und die Planke saß, sofort, dicht, als wäre sie gewachsen statt eingesetzt. Dann zum Kiel, zu der Stelle die Maren vor Tagen unter den Fingerspitzen gefunden hatte, eine Unebenheit, kaum spürbar. Die Gestalt legte die Hände darauf, und das Holz wurde glatt.
+Die Gestalt ging zum Boot, beugte sich über den Rumpf, und ihre Hände griffen nach etwas das Maren nicht sehen konnte — Holz, das aus der Dunkelheit kam, aus dem Boden, aus dem Rauch, Maren wusste es nicht. Eine Planke. Hell, frisch, der Geruch von Lärche. Die Gestalt hob sie an, mit einer Leichtigkeit die nicht zu der Masse des Körpers passte, legte sie an die nächste offene Reihe und drückte. Kein Hammer. Kein Werkzeug. Nur die Hände, die das Holz an das Holz pressten, und die Planke saß, sofort, dicht, gewachsen statt eingesetzt. Dann zum Kiel, zu der Stelle die Maren vor Tagen unter den Fingerspitzen gefunden hatte, eine Unebenheit, kaum spürbar. Die Gestalt legte die Hände darauf, und das Holz wurde glatt.
 
 Die Hände.
 
-Sie waren breit. Kurze, dicke Finger, die Knöchel wie Knoten in einem Tau. An den Enden etwas das glänzte, dunkel, hart, als wären die Fingerspitzen aus einem anderen Material. Sie hoben die Planke als sei sie aus Papier. Hände für schwere Arbeit, für Lasten die ein Mensch zu zweit trug.
+Sie waren breit. Kurze, dicke Finger, die Knöchel wie Knoten in einem Tau. An den Enden etwas das glänzte, dunkel, hart, die Fingerspitzen aus einem anderen Material. Sie hoben die Planke, die Last eines Mannes, mit der Leichtigkeit eines Blattes. Hände für schwere Arbeit, für Lasten die ein Mensch zu zweit trug.
 
 Etwas in Marens Brust kippte.
 
-*Feine Hände, für einen Bootsbauer. Lange Finger.* Edrics Worte, Wochen alt, am ersten Tag in der Werft gesprochen, als beiläufiger Nebensatz. Sie waren ihr nicht mehr eingefallen bis jetzt. Jetzt lagen sie im Raum wie ein Nagel der in den Boden fiel. Die Hände die sie vor sich sah waren keine feinen Hände. Sie waren etwas anderes. Und doch arbeiteten sie an Harons Boot, in Harons Werft, mit einer Sicherheit die wusste wo jede Planke hingehörte, als wäre die Werft für sie auch ein Zuhause gewesen.
+*Feine Hände, für einen Bootsbauer. Lange Finger.* Edrics Worte, Wochen alt, am ersten Tag in der Werft gesprochen, als beiläufiger Nebensatz. Sie waren ihr nicht mehr eingefallen bis jetzt. Jetzt lagen sie im Raum wie ein Nagel der in den Boden fiel. Die Hände die sie vor sich sah waren keine feinen Hände. Sie waren etwas anderes. Und doch arbeiteten sie an Harons Boot, in Harons Werft, mit einer Sicherheit die wusste wo jede Planke hingehörte — die Sicherheit eines Körpers der hier zuhause war.
 
 Maren lag unter dem Segel und versuchte den Gedanken zu denken und der Gedanke wollte nicht. Er blieb ein halber Satz, ein Anfang ohne Ende. Das Holz musste irgendwo zurechtgeschnitten worden sein, und die Stellen die zurechtgeschnitten waren, wurden jetzt eingesetzt, und dazwischen lag eine Arbeitsteilung über die Haron nie in einem Brief geschrieben hatte. Aber ob er es gerufen hatte oder es zu ihm gekommen war, ob die Zeichen auf dem Papier Anweisungen waren oder Rechnung oder Vertrag oder etwas wofür Maren kein Wort besaß — das ließ sich nicht denken. Nicht hier, nicht so, nicht mit dem Gewicht des Segels auf den Rippen und diesem Ding fünf Meter weiter das Planken hob wie Blätter.
 
 Sie blieb reglos. Ihre Augen brannten, weil sie nicht blinzelte, weil Blinzeln bedeutete einen Moment zu verpassen, einen Handgriff, eine Bewegung. Ihr Herzschlag hatte sich beruhigt. Nicht weil sie keine Angst hatte — weil ihr Körper entschieden hatte, dass Stillsein wichtiger war als Angst, dass Empfangen wichtiger war als Fliehen. Sie lag im Gewicht des Segels, klein gemacht, gehalten, und ließ es geschehen. Ließ den Schemen arbeiten, ließ das Boot wachsen, ließ den Geruch in ihre Lungen und ließ die schweren Hände das Holz halten das sie morgen berühren würde.
 
-Eine Stunde. Vielleicht länger. Die Gestalt arbeitete, gleichmäßig, lautlos, und Maren saß und sah und der Rauch stieg auf und der Geruch lag in der Luft und das Boot wuchs.
+Eine Stunde. Vielleicht länger. Die Gestalt arbeitete, gleichmäßig, lautlos, und Maren lag und sah und der Rauch stieg auf und der Geruch lag in der Luft und das Boot wuchs.
 
-Dann hörte es auf. Die Gestalt richtete sich auf, die schweren Schultern hoben sich, und der Körper begann sich zu lösen, die Ränder auszufransen, der Rauch dichter, der Körper dünner. Für einen Moment standen die Hände noch im Raum, die breiten, knotigen Hände, allein, ohne Körper, als wären sie das Letzte das ging. Dann auch sie: Rauch, Dunst, nichts. Der Schuppen war leer und das Boot hatte eine neue Planke und der Geruch blieb.
+Dann hörte es auf. Die Gestalt richtete sich auf, die schweren Schultern hoben sich, und der Körper begann sich zu lösen, die Ränder auszufransen, der Rauch dichter, der Körper dünner. Für einen Moment standen die Hände noch im Raum, die breiten, knotigen Hände, allein, ohne Körper — das Letzte das ging. Dann auch sie: Rauch, Dunst, nichts. Der Schuppen war leer und das Boot hatte eine neue Planke und der Geruch blieb.
 
 Maren lag unter dem Segel und wartete noch, lange nachdem der Raum still war. Fünf Minuten, zehn, sie zählte nicht. Ihre Finger waren kalt vom Boden, ihr Rücken feucht vom Staub der sich unter dem Tuch gesammelt hatte. Erst dann schob sie sich aus den Falten, Zentimeter für Zentimeter, bis das Gewicht sie losließ und sie auf dem Boden kniete, das Gesicht zum Boot.
 
@@ -104,7 +104,7 @@ Ihr Körper wollte nicht gehen. Ihr Körper wollte hierbleiben, die Hand auf dem
 
 Maren nahm die Hand vom Boot. Der Abdruck blieb, für einen Moment, die Wärme ihrer Handfläche auf dem Holz. Dann nahm das Boot die Wärme auf und der Abdruck verschwand.
 
-Sie ging. Durch den Nebel, zum Gasthof, die Gassen nass und still. In ihrer Tasche das Papier mit den fremden Zeichen und der Bleistift und die Erinnerung an Hände die breiter waren als ihre und die das Holz gehalten hatten als wäre Halten alles was sie kannten.
+Sie ging. Durch den Nebel, zum Gasthof, die Gassen nass und still. In ihrer Tasche das Papier mit den fremden Zeichen und der Bleistift und die Erinnerung an Hände die breiter waren als ihre und die das Holz gehalten hatten. Das Halten war alles was sie kannten. Das Halten war genug.
 
 
 ---
@@ -118,9 +118,9 @@ Sie nahm die Hand vom Holz und ging nach draußen.
 
 Der Steg. Maren ging ihn nicht bis zum Ende — sie blieb auf halbem Weg stehen, an der Stelle wo die Planken am breitesten waren, wo die Nägel noch fest saßen. Das Graue Meer lag vor ihr, flach, der Wind schwach. Der Nebel hing tief, aber dünner als am Vortag, die Sonne ein blasser Fleck hinter dem Grau, der den Dunst zum Leuchten brachte ohne ihn aufzulösen.
 
-Ein Mann saß am Ende des Stegs, die Beine über der Kante, die Füße über dem Wasser. Alt. Sein Gesicht war das Gesicht eines Menschen der jahrzehntelang in den Wind geschaut hatte — zerfurcht, braun, die Haut trocken und rissig an den Wangenknochen, die Lippen schmal. Haar wie Seetang, grau, dünn, vom Salz verklebt. Er saß dort als hätte er seit Stunden gesessen, als gehöre er zum Steg wie die Planken und die Nägel.
+Ein Mann saß am Ende des Stegs, die Beine über der Kante, die Füße über dem Wasser. Alt. Sein Gesicht war das Gesicht eines Menschen der jahrzehntelang in den Wind geschaut hatte — zerfurcht, braun, die Haut trocken und rissig an den Wangenknochen, die Lippen schmal. Haar wie Seetang, grau, dünn, vom Salz verklebt. Er saß dort in der Ruhe eines Menschen der dort seit Stunden saß, ein Teil des Stegs wie die Planken und die Nägel.
 
-In seiner rechten Hand lag ein Fisch. Tot, steif, die Schuppen matt. Er hielt ihn auf der flachen Handfläche, als zeigte er ihn jemandem der nicht da war.
+In seiner rechten Hand lag ein Fisch. Tot, steif, die Schuppen matt. Er hielt ihn auf der flachen Handfläche, das Angebot an jemanden der nicht da war.
 
 Maren ging näher. Der Mann schaute nicht auf. Sie roch den Fisch bevor sie ihn sah — nicht der Geruch von totem Fisch, nicht Verwesung, nicht die salzig-faulige Süße eines Kadavers am Strand. Metall. Der Fisch roch nach Metall, nach Eisen, scharf, kalt, ein Geruch der auf der Zunge lag und in den Hals kroch. Maren blieb stehen.
 
@@ -130,7 +130,7 @@ Maren ging näher. Der Mann schaute nicht auf. Sie roch den Fisch bevor sie ihn 
 
 "Ich weiß wer Sie sind. Dahls Werft." Er hob den Fisch an, nicht ihr entgegen, nur höher, so dass der Wind den Geruch trug. "Riechen Sie das?"
 
-Maren trat noch einen Schritt vor. Der Metallgeruch war stärker jetzt, beißend, wie ein Nagel den man auf der Zunge spürt. Der Fisch war ein Dorsch — die Seitenlinie, die Bartfäden am Kinn, dreißig Zentimeter — die Kiemen starr, die Augen trüb. Aber die Schuppen — sie schaute genauer hin. An den Flanken, wo die Schuppen am größten waren, lag ein Film, dünn, schimmernd, der nicht nach Fischschleim aussah. Dunkel. Fast schwarz. Als hätte jemand den Fisch in etwas getunkt das sich auf der Haut niedergelegt hatte.
+Maren trat noch einen Schritt vor. Der Metallgeruch war stärker jetzt, beißend, wie ein Nagel den man auf der Zunge spürt. Der Fisch war ein Dorsch — die Seitenlinie, die Bartfäden am Kinn, dreißig Zentimeter — die Kiemen starr, die Augen trüb. Aber die Schuppen — sie schaute genauer hin. An den Flanken, wo die Schuppen am größten waren, lag ein Film, dünn, schimmernd, der nicht nach Fischschleim aussah. Dunkel. Fast schwarz. Etwas hatte sich auf der Haut niedergelegt, von außen, in einer Schicht die der Fisch nicht selbst trug.
 
 "Was ist das?"
 
@@ -142,13 +142,13 @@ Tohl stand auf und ging an die Kante des Stegs, dorthin wo man den Fluss sehen k
 
 Die Strömung lief rückwärts.
 
-Nicht der ganze Fluss — ein Teil, ein Streifen, vielleicht zehn Meter breit, am Rand der Mündung. Das Wasser floss nicht ins Meer hinaus, es floss zurück, flussaufwärts, gegen das Gefälle, langsam und stetig, als zöge etwas es zurück. Der Rest der Grauwe strömte normal, trüb, schwer, ins Meer hinaus. Aber dieser eine Streifen lief falsch. Er lief in die Stadt hinein.
+Nicht der ganze Fluss — ein Teil, ein Streifen, vielleicht zehn Meter breit, am Rand der Mündung. Das Wasser floss nicht ins Meer hinaus, es floss zurück, flussaufwärts, gegen das Gefälle, langsam und stetig, zurückgezogen. Der Rest der Grauwe strömte normal, trüb, schwer, ins Meer hinaus. Aber dieser eine Streifen lief falsch. Er lief in die Stadt hinein.
 
-"Die Grauwe ist falsch", sagte Tohl. Er stand auf, langsam, die Knie steif. Er schaute auf das Wasser und sein Gesicht zeigte nichts, keine Überraschung, keine Angst, nur die stumpfe Gewissheit eines Mannes der seit Wochen etwas beobachtete das nicht sein sollte. "Seit drei Wochen. Erst nur nachts. Jetzt auch tagsüber."
+"Die Grauwe ist falsch", sagte Tohl. Er schaute auf das Wasser und sein Gesicht zeigte nichts, keine Überraschung, keine Angst, nur die stumpfe Gewissheit eines Mannes der seit Wochen etwas beobachtete das nicht sein sollte. "Seit drei Wochen. Erst nur nachts. Jetzt auch tagsüber."
 
-Maren schaute auf den Streifen. Das Wasser lief rückwärts, gleichmäßig, als folge es einer Anweisung. Es lief rückwärts und es lief in Richtung Stadt, und Marens Körper reagierte bevor ihr Verstand es einordnen konnte — ein Ziehen im Bauch, tief, ein Pochen in den Handflächen, derselbe Puls den sie auf dem Steg gespürt hatte, in der Badewanne, ein Antworten das aus dem Körper kam und nicht aus dem Kopf.
+Maren schaute auf den Streifen. Das Wasser lief rückwärts, gleichmäßig, einer Anweisung folgend. Es lief rückwärts und es lief in Richtung Stadt, und Marens Körper reagierte bevor ihr Verstand es einordnen konnte — ein Ziehen im Bauch, tief, ein Pochen in den Handflächen, derselbe Puls den sie auf dem Steg gespürt hatte, in der Badewanne, ein Antworten das aus dem Körper kam und nicht aus dem Kopf.
 
-"Danke", sagte sie. Es war das einzige Wort das sie fand. Tohl nickte, als wäre das genug, und ging zurück ans Ende des Stegs, setzte sich hin, die Beine über der Kante, die Augen auf dem Wasser.
+"Danke", sagte sie. Es war das einzige Wort das sie fand. Tohl nickte — das war genug — und ging zurück ans Ende des Stegs, setzte sich hin, die Beine über der Kante, die Augen auf dem Wasser.
 
 Maren ging zurück zur Werft.
 
@@ -162,7 +162,7 @@ Und darunter das Pochen.
 
 Einmal. Eine Pause. Einmal.
 
-Tief, so tief dass sie es nicht hörte sondern fühlte, in den Knochen, im Kiefer, ein Schwingen das durch den Boden in ihren Kopf stieg. Wie ein Herzschlag. Regelmäßig, langsam, mächtig. Nicht das Meer, das unregelmäßig schlug, nicht die Gezeiten, die hoben und senkten. Etwas unter der Stadt, das in einem Rhythmus pulsierte den Maren nicht kannte und den ihr Körper trotzdem erkannte, der ihren eigenen Puls verlangsamte bis er im Takt schlug, einmal, Pause, einmal.
+Tief, so tief dass sie es fühlte statt hörte, in den Knochen, im Kiefer, ein Schwingen das durch den Boden in ihren Kopf stieg. Wie ein Herzschlag. Regelmäßig, langsam, mächtig. Nicht das Meer, das unregelmäßig schlug, nicht die Gezeiten, die hoben und senkten. Etwas unter der Stadt, das in einem Rhythmus pulsierte den Maren nicht kannte und den ihr Körper trotzdem erkannte, der ihren eigenen Puls verlangsamte bis er im Takt schlug, einmal, Pause, einmal.
 
 Sie lag da, die Wange auf dem Holz, die Augen geschlossen. Das Pochen ging durch sie hindurch, Welle für Welle, und jede Welle war warm und jede Welle nahm eine Schicht Anspannung mit und Maren lag auf dem Boden einer Werft in einer Stadt die sie nicht kannte und das Ding unter der Erde pochte und sie lag still.
 
