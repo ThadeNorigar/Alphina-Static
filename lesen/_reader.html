@@ -66,18 +66,19 @@
     }
 
     .chapter-header {
-      padding: 5rem 3rem 3rem;
+      padding: 3rem 3rem 3rem;
       text-align: center;
       border-bottom: 1px solid var(--accent-faint);
     }
 
-    .chapter-number {
+    .chapter-breadcrumb {
       font-family: 'Cormorant Garamond', serif;
       font-size: 0.8rem;
-      letter-spacing: 0.35em;
+      letter-spacing: 0.25em;
       text-transform: uppercase;
       color: var(--smoke);
-      margin-bottom: 1rem;
+      margin-bottom: 1.2rem;
+      line-height: 1.6;
     }
 
     .chapter-title {
@@ -163,6 +164,12 @@
       border-top: 1px solid var(--accent-faint);
     }
 
+    .page-nav-top {
+      border-top: none;
+      border-bottom: 1px solid var(--accent-faint);
+      padding: 1.25rem 3rem 1.25rem;
+    }
+
     .page-nav a {
       font-family: 'Cormorant Garamond', serif;
       font-size: 0.85rem;
@@ -236,9 +243,11 @@
 
     @media (max-width: 600px) {
       body { padding: 0.5rem; }
-      .chapter-header { padding: 3rem 1.5rem 2rem; }
+      .chapter-header { padding: 2rem 1.5rem 2rem; }
+      .chapter-breadcrumb { font-size: 0.7rem; letter-spacing: 0.2em; }
       .prose { padding: 1.5rem; padding-left: 2rem; }
       .page-nav { padding: 1.5rem; }
+      .page-nav-top { padding: 1rem 1.5rem; }
       .prose p { font-size: 1.05rem; line-height: 1.9; }
     }
   </style>
@@ -247,8 +256,10 @@
   <div class="grain"></div>
 
   <div class="book enter" id="book">
+    <div class="page-nav page-nav-top" id="nav-top"></div>
+
     <div class="chapter-header">
-      <div class="chapter-number" id="ch-number"></div>
+      <div class="chapter-breadcrumb" id="ch-breadcrumb"></div>
       <h1 class="chapter-title" id="ch-title"></h1>
       <div class="chapter-ornament">— · —</div>
     </div>
@@ -291,6 +302,7 @@
         // Find the chapter across all books
         let ch = null;
         let buchData = null;
+        let aktData = null;
         let allKapitelOrder = []; // flat ordered list of chapter IDs
 
         for (const buchKey of ['buch1', 'buch2', 'buch3']) {
@@ -299,8 +311,9 @@
           if (buch.kapitel[kapId]) {
             ch = buch.kapitel[kapId];
             buchData = buch;
-            // Build flat chapter order from akte
+            // Build flat chapter order from akte, find containing akt
             for (const akt of buch.akte) {
+              if (akt.kapitel.includes(kapId)) aktData = akt;
               for (const k of akt.kapitel) {
                 allKapitelOrder.push(k);
               }
@@ -316,15 +329,30 @@
 
         // Guard: non-final chapters only visible in WIP mode
         if (!isWip && ch.status !== 'final') {
-          document.getElementById('ch-number').textContent = '';
+          document.getElementById('ch-breadcrumb').textContent = '';
           document.getElementById('ch-title').textContent = 'Noch nicht verfügbar';
           document.getElementById('chapter').innerHTML = '<p style="text-align:center;color:var(--smoke);padding:3rem;">Dieses Kapitel ist noch in Arbeit.</p>';
           document.getElementById('nav').innerHTML = '';
+          document.getElementById('nav-top').innerHTML = '';
           return;
         }
 
+        // Breadcrumb: "Der Riss · Akt I — Anker · Kapitel Fünf"
+        const buchTitel = (buchData.meta && buchData.meta.titel) ? buchData.meta.titel : '';
+        const aktLabel = aktData ? (aktData.name + ' — ' + aktData.titel) : '';
+        let kapLabel;
+        if (isInterludium) {
+          const num = kapId.substring(1).padStart(2, '0');
+          const wort = ZAHLWORT[num] || kapId.substring(1);
+          kapLabel = 'Interludium ' + wort;
+        } else {
+          const wort = ZAHLWORT[kapId] || kapId;
+          kapLabel = 'Kapitel ' + wort;
+        }
+        const breadcrumb = [buchTitel, aktLabel, kapLabel].filter(Boolean).join(' · ');
+        document.getElementById('ch-breadcrumb').textContent = breadcrumb;
+
         // Set header — nur Name der Hauptperson (ch.pov)
-        document.getElementById('ch-number').style.display = 'none';
         document.getElementById('ch-title').textContent = ch.pov;
 
         document.title = 'Der Riss — ' + ch.pov;
@@ -378,6 +406,7 @@
         }
 
         document.getElementById('nav').innerHTML = navHtml;
+        document.getElementById('nav-top').innerHTML = navHtml;
 
         // Fetch and render the markdown
         fetch('/buch/kapitel/' + ch.datei)
