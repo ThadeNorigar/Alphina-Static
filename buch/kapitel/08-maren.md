@@ -126,9 +126,13 @@ Er drehte den Kopf, langsam, und dann den ganzen Oberkörper, bis er zu ihr aufs
 
 "Maren." Sie nickte. "Maren Ilves. Ich habe die Werft von Haron Dahl geerbt."
 
-"Das dachte ich mir." Er musterte sie ruhig. Keine Überraschung, keine Neugier — nur die Art wie ein Fischer einen fremden Fisch im Netz ansieht, um zu erkennen was er da hat. "Haben Sie einen Moment? Ich möchte Ihnen etwas zeigen. Sie arbeiten mit dem Wasser, Sie sollten das wissen."
+"Das dachte ich mir." Er musterte sie ruhig. Keine Überraschung, keine Neugier — nur die Art wie ein Fischer einen fremden Fisch im Netz ansieht, um zu erkennen was er da hat. "Haben Sie einen Moment? Ich möchte Ihnen was an der Mündung zeigen. Die Dahl-Werft liegt am weitesten flussabwärts. Wenn in der Grauwe was faul ist, kommt es bei Ihnen zuerst an."
 
-"Zeigen Sie."
+"Was ist in der Grauwe?"
+
+"Sehen Sie's sich selber an. Ich will nicht, dass Sie mir's glauben. Ich will, dass Sie's erkennen."
+
+Maren zögerte einen Atemzug. Dann nickte sie. "Zeigen Sie."
 
 Tohl stützte sich mit beiden Händen auf die Planken und stand auf, langsam, die Knie steif. Er ging zur Kante des Stegs, dorthin wo man die Flussmündung sehen konnte, und Maren folgte ihm. Die Grauwe lief von links ins Meer hinaus, trüb, schwer, ein hellerer Streifen der sich ins Grau des Meeres schob.
 
@@ -142,7 +146,7 @@ Nicht der ganze Fluss — ein Teil, ein Streifen, vielleicht zehn Meter breit, a
 
 "Seit wann?", fragte sie.
 
-"Drei Wochen." Tohl schaute nicht auf das Wasser, er schaute sie an. "Erst nur nachts. Jetzt auch tagsüber. Ich sag's keinem in der Stadt, die Leute werden davon nur nervös. Aber Sie sitzen in der Werft die am weitesten unten am Fluss liegt. Das Wasser kommt zu Ihnen bevor es zu sonst jemandem kommt. Ich dachte, Sie sollten's wissen."
+"Drei Wochen." Tohl schaute nicht auf das Wasser, er schaute sie an. "Erst nur nachts. Jetzt auch tagsüber. Ich sag's keinem in der Stadt, die Leute werden davon nur nervös. Aber Sie haben ein Recht drauf, es zu wissen."
 
 "Haben Sie so was schon mal gesehen?"
 
