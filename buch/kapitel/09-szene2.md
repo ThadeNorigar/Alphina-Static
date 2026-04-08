@@ -74,39 +74,43 @@ Alphina wartete.
 
 "Ich weiß, wo es liegt. Am Grauwe-Ufer. Das große mit dem Kupferdach."
 
-"Ja. Die Witwe Tidemoor wohnt noch drin, allein, mit einer Haushälterin. Die Haushälterin kommt zu mir wegen Briefpapier, alle drei Wochen, und sie erzählt immer, was gerade los ist, während ich den Stapel zuschnüre. Gestern hat sie mir gesagt, die Standuhr im Salon läuft wieder."
+"Ja. Herr Tidemoor wohnt da mit seiner Frau, eine Haushälterin und eine junge Magd. Die Haushälterin kommt zu mir wegen Briefpapier, alle drei Wochen, und sie erzählt immer, was gerade los ist, während ich den Stapel zuschnüre. Gestern hat sie mir von der Standuhr im Salon erzählt. Die kennst du vielleicht nicht."
 
-"Dass sie stehen bleibt, wäre keine Nachricht."
+"Die Uhr?"
 
-"Die Uhr stand nicht. Die Uhr stand seit fünfzehn Jahren. Sie ist nie gegangen, seit der alte Tidemoor gestorben ist. Die Witwe hat sie nie reparieren lassen, weil sie nicht wollte, dass jemand das Zifferblatt anfasst. Der Mann hatte es selbst hineingesetzt, damals. Er war kein Uhrmacher, die Uhr war mechanisch immer ein Problem, sie ging selbst zu seinen Lebzeiten nicht richtig. Fünfzehn Jahre still. Jetzt geht sie wieder."
+"Ein altes Ding, Nussbaum, zwei Meter hoch. Sie war im Haus, als die Tidemoors es vor fast vierzig Jahren gekauft haben — ohne Papiere, ohne Stempel, keiner weiß, wer sie gebaut hat. Und die Uhr verliert jeden Tag exakt vier Minuten und dreiunddreißig Sekunden. Jeden einzelnen Tag. Mechanisch tadellos. Drei Uhrmacher haben in den letzten Jahrzehnten das Gehäuse geöffnet, jede Feder geprüft, jedes Rad abgezählt — niemand hat etwas gefunden. Der letzte ist drei Tage lang geblieben, hat gemessen, und ist ohne ein Wort gegangen. Tidemoor nennt das Ding nur noch 'das Ding' und hat sich mit der Abweichung abgefunden."
 
-"Seit wann?"
+"Seit wann verliert sie?"
 
-"Vor knapp einem Monat hat die Witwe einen Uhrmacher aus Karst geholt. Er kommt jeden Nachmittag in den Salon und arbeitet an einem kleinen Reparaturtisch — Taschenuhren, die er aus der Stadt mitbringt, glaube ich. An die Standuhr soll er nicht rangehen, das war die Bedingung. Er hält sich auch dran. Er hat sie nicht angefasst. Er sitzt nur im selben Raum. Die Haushälterin sagt, die Uhr hat angefangen zu ticken, als er das erste Mal im Salon saß. Sie hat ihn gefragt, was er gemacht hat. Er hat gesagt: nichts. Er hat nur kurz die Hand aufs Gehäuse gelegt, eine Sekunde, und wieder weggenommen."
+"Immer. Soweit irgendjemand zurückschauen kann."
 
-Alphina saß sehr still.
+"Und jetzt ist was passiert."
 
-"Sie geht, solange er im Raum ist. Sie bleibt stehen, wenn er weg ist. Die Haushälterin hat es seit ein paar Tagen genauer beobachtet und gestern bei mir rausgelassen, weil sie nicht mehr wusste, wem sie es sagen soll. Ich war heute morgen selbst bei der Witwe — sie ist stocksauer, weil der Mieter angeblich die Uhr in Ruhe lassen soll und trotzdem etwas mit ihr macht. Was er aber nicht tut. Er rührt sie nicht an."
+"Seit gut einem Monat ist ein neuer Uhrmacher da. Aus Karst. Er ist Anfang April gekommen, vier Tage Kutsche, weil ihm in einem Karster Gasthof jemand beiläufig von der Tidemoor-Uhr erzählt hatte. Er hat bei Tidemoor angeklopft, hat sich vorgestellt, hat das Gehäuse aufgemacht — mit Erlaubnis, alles korrekt. Hat alles geprüft, wie die drei vor ihm, und auch nichts gefunden. Dann hat er etwas gemacht, was vorher keiner gemacht hat. Er hat seine Taschenuhr daneben gelegt und die Hand aufs Gehäuse gelegt, eine Stunde lang. Nur die Hand. Die Haushälterin hat zugeguckt, weil Tidemoor oben war und sie die Aufsicht hatte. Nach einer Stunde war die Standuhr auf die Sekunde im Takt mit seiner Taschenuhr. Null Abweichung. Er hat die Hand weggenommen und eine weitere Stunde gemessen. Vier Minuten dreiunddreißig. Drei Durchgänge hat er gemacht, sechs Stunden lang, und jedes Mal dasselbe: Hand drauf, null. Hand weg, vier dreiunddreißig."
+
+"Nur wenn er die Uhr berührt?"
+
+"Das war der erste Tag. Aber seitdem kommt er fast jeden Nachmittag wieder und arbeitet im Salon an Taschenuhren, die er aus der Stadt mitbringt. Und die Haushälterin hat beobachtet — die Standuhr läuft jetzt auch richtig, wenn er überhaupt nur im Raum ist. Drei Meter weit weg am Reparaturtisch. Er hämmert an einer Ankerplatte, und die Standuhr verliert keine Sekunde. Er steht auf und geht in die Küche, sie fängt wieder an zu schleichen. Kommt zurück, sie ist wieder sauber. Vier Tage in Folge hat das die Haushälterin jetzt gesehen. Sie wusste nicht mehr, wem sie es sagen soll, und gestern ist es aus ihr rausgebrochen, als sie bei mir Briefpapier holte. Ich war heute morgen selbst im Tidemoor-Haus, hab mit ihr eine halbe Stunde am Hinterausgang gestanden. Sie hat mir alles nochmal genauso erzählt, und dann hat sie mich gebeten, nichts in die Flugblätter zu setzen, weil Tidemoor ihr die Stelle kosten würde. Ich hab's versprochen."
 
 Etwas in Alphinas Brustkorb zog sich zusammen, eine Bewegung so klein, dass sie nichts verriet. Sie hielt den Gesichtsausdruck, weil Runa jetzt zu ihr schaute.
 
 "Ein Uhrmacher aus Karst."
 
-"Ja. Seit knapp einem Monat in der Stadt, soweit die Haushälterin das einordnen kann."
+"Ja."
 
 "Wie heißt er?"
 
-"Vesper, sagt die Haushälterin. Einen Nachnamen hat sie nicht verstanden. Oder er hat keinen gesagt. Er redet nicht viel."
+"Vesper Greve, sagt die Haushälterin. Still, mager, Werkzeugrolle mit Samt gefüttert, Hände wie ein Chirurg. Er redet wenig. Die Haushälterin sagt, sein Blick ist der eines Mannes, der alles misst."
 
 "Wohnt er im Tidemoor-Haus?"
 
-"Nein. Die Witwe wollte ihm kein Zimmer geben. Er kommt nachmittags, arbeitet im Salon, geht abends wieder. Wo er schläft, weiß die Haushälterin nicht, und die Witwe interessiert es nicht. Er kommt wegen einer Anzeige, die jemand in einem Karster Gasthof aufgegeben hatte — Uhr reparieren, gutes Honorar. Er ist gekommen, hat die Standuhr gesehen, und ist geblieben. Ich hab keine Ahnung, wer die Anzeige aufgegeben hat. Tidemoor sagt, sie nicht." Runa schaute Alphina an. Sie wartete nicht, sie schaute nur. "Deshalb hab ich's dir live erzählt, nicht gedruckt. Ich weiß nicht, was damit anzufangen ist. Ein Mann, der in einen Raum kommt, und eine stehende Uhr fängt an zu gehen — das ist kein Flugblatt. Das ist etwas anderes."
+"Nein. Tidemoor und seine Frau haben ihm kein Zimmer gegeben, obwohl er in den ersten Tagen angeblich darum gebeten hat. Er kommt nachmittags, arbeitet bis zum Abendessen, geht wieder. Wo er schläft, weiß die Haushälterin nicht — irgendwo in einem Gasthof vermutlich, er hatte einen Koffer und die Werkzeugrolle dabei, als er das erste Mal kam. Ich hab nicht explizit gefragt, und sie hat es nicht erwähnt." Runa schaute Alphina an. Sie wartete nicht, sie schaute nur. "Deshalb hab ich's dir live erzählt, nicht gedruckt. Ich weiß nicht, was damit anzufangen ist. Ein Mann, der in einen Raum kommt, und eine Uhr hört auf, falsch zu gehen — das ist kein Flugblatt. Das ist etwas anderes."
 
 "Du hast ihn noch nicht gesehen?"
 
-"Nein. Ich will nachher zum Tidemoor-Haus rüber und die Haushälterin nochmal fragen."
+"Nein. Die Haushälterin hat gesagt, er kommt heute wieder. Ich überleg, ob ich nachher rüber soll, aber Tidemoor mag keine Fremden in seinem Salon."
 
-Alphina schaute auf das Flugblatt, dann an Runa vorbei auf die Vogelhecke, die keine Vögel zeigte. Ihre Hand lag flach auf dem Holz der Bank, neben dem gedruckten Bogen, und sie fühlte, wie das Holz unter der Haut langsam wärmer wurde, weil ihr Körper wärmer wurde, nicht viel, aber spürbar. Ein Uhrmacher. Jemand, der im selben Raum sitzt wie ein Gegenstand, und der Gegenstand tut etwas, das er seit fünfzehn Jahren nicht getan hat. Sie wusste, was das war. Sie wusste es, ohne einen Namen dafür zu haben, der in ein Notizbuch gehört hätte. Sie tat dasselbe mit den Lavendelstecklingen und dem Klee am Wegrand und wahrscheinlich, ohne es gewollt zu haben, mit der Nordmauer-Reihe Asplenium. Sie war nicht die einzige.
+Alphina schaute auf das Flugblatt, dann an Runa vorbei auf die Vogelhecke, die keine Vögel zeigte. Ihre Hand lag flach auf dem Holz der Bank, neben dem gedruckten Bogen, und sie fühlte, wie das Holz unter der Haut langsam wärmer wurde, weil ihr Körper wärmer wurde, nicht viel, aber spürbar. Ein Uhrmacher. Jemand, der im selben Raum sitzt wie ein Gegenstand, und der Gegenstand hört auf, falsch zu gehen. Sie wusste, was das war. Sie wusste es, ohne einen Namen dafür zu haben, der in ein Notizbuch gehört hätte. Sie tat dasselbe mit den Lavendelstecklingen und dem Klee am Wegrand und wahrscheinlich, ohne es gewollt zu haben, mit der Nordmauer-Reihe Asplenium. Sie war nicht die einzige.
 
 Sie war nicht die einzige.
 
