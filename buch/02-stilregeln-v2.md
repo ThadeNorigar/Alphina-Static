@@ -91,6 +91,30 @@ Jeder POV hat **eigene Wörter** für gemeinsame Phänomene. Keine zwei POVs ben
 | Purpurstein | durch Botanikerin-Linse (Textur, Wärme) | durch Fotografen-Linse (Grauwert, Ton) | durch Uhrmacher-Linse (Material, Härte) | offen |
 | Anomalien | wissenschaftlich (registriert, katalogisiert) | visuell (Belichtung, Entwicklung) | mechanisch (Abweichung, Muster) | offen |
 
+## Komma-Listen verboten
+
+**Körperbeschreibungen und Detail-Inventuren dürfen nicht als Komma-Kette auftreten.**
+
+Schlecht:
+> *Runde Schultern unter der Schürze, runde Hüften, Druckerschwärze an den Unterarmen, ein Fleck auf der Wange.*
+
+Vier Attribute, keine Verben, keine Bewegung, keine Hierarchie. Das ist ein Katalog, keine Wahrnehmung. Die Leserin bekommt eine Checkliste statt eines Menschen im Raum.
+
+**Das Prinzip: Sequenz statt Inventur.**
+
+1. **Was sieht die POV-Figur zuerst?** Wahrnehmung ist selektiv. Das Auffälligste kommt zuerst. Meistens: das Gesicht (wenn jemand sich umdreht), die Stimme (wenn jemand spricht), eine Bewegung (wenn jemand handelt).
+2. **Körperdetails kommen durch Bewegung ins Bild.** Schultern sieht man wenn die Schürze sich spannt. Hüften wenn sie sich um eine Ecke dreht. Haut wenn ein Ärmel hochrutscht. Nicht als Standbild — als Folge der Handlung.
+3. **Zwei bis drei Details reichen.** Mehr ist Überforderung.
+
+Gut:
+> *Die Frau am Setzkasten drehte sich um, und Alphina sah zuerst das Gesicht — die Falten an den Mundwinkeln kamen von Lachen, nicht von Sorge, und die Augenbrauen hoben eine Frage bevor der Mund sie stellte. Dann die Präsenz.*
+
+Gesicht zuerst. Dann Präsenz. Keine statische Liste. Jedes Detail hat einen Grund.
+
+**Test:** Kann man die Komma-Glieder in beliebiger Reihenfolge vertauschen, ohne dass sich etwas ändert? Dann ist es eine Liste, keine Wahrnehmung. Umschreiben.
+
+**Max 2 komma-getrennte Substantiv-Phrasen in Folge** ohne Verb oder Bewegung dazwischen. Mehr ist Katalog.
+
 ## Aftermath-Pacing
 
 Nach einem Climax-Moment (Horror, Enthüllung, Gänsehaut) **nicht komprimieren**. Der Leser braucht Raum. Mindestens 3-4 Beats zwischen Peak und Kapitelende:

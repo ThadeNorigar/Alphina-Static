@@ -75,6 +75,20 @@ Gehe das Kapitel Absatz für Absatz durch:
 - Jede Meta-Kommentierung von Magie durch den Erzähler
 - → Magie passiert mitten im Alltag. Nie ankündigen.
 
+**4. Komma-Listen (Körper- und Detail-Inventuren):**
+- Suche nach Sätzen mit **3+ komma-getrennten Substantiv-Phrasen** ohne Verben dazwischen
+- Besonders bei Körperbeschreibungen: *"Runde Schultern, runde Hüften, Schwärze an den Unterarmen, ein Fleck auf der Wange."* → Katalog statt Wahrnehmung
+- Muster-Erkennung: Phrase + Komma + Phrase + Komma + Phrase (+ Komma + Phrase), jede Phrase ohne Verb
+- Ausnahme: Stakkato-Inventur unter Druck (Vesper am Uhrwerk), wenn die POV-Figur BEWUSST zählt/katalogisiert
+- → Finding. Fix-Prinzip: **Sequenz statt Inventur.** Was sieht die POV-Figur zuerst? Welches Detail fällt auf, während die beschriebene Person sich BEWEGT? Statische Listen durch Wahrnehmungs-Hierarchie ersetzen.
+- Test: Kann man die Komma-Glieder in beliebiger Reihenfolge vertauschen ohne dass sich etwas ändert? Dann ist es eine Liste, keine Wahrnehmung.
+
+**5. Name vor Einführung (Sorel-Prinzip):**
+- Jeder Eigenname muss INNERHALB des Textes eingeführt werden (Dialog, Schild, eigene Schlussfolgerung)
+- Der Narrator darf den Namen einer Figur NICHT benutzen bevor die POV-Figur ihn kennt
+- Prüfung: Erste Erwähnung des Namens — wo erfährt die POV-Figur ihn? Wenn die Einführung NACH der ersten Erwähnung kommt → Finding
+- Fix: *"Runa wischte sich die Hände..."* → *"Die Druckerin wischte sich die Hände..."* bis zur Vorstellung
+
 ## Phase 3.5: Cross-POV und Aftermath
 
 **1. Cross-POV-Vokabular:**

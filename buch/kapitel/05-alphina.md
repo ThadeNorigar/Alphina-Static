@@ -100,7 +100,7 @@ Der Geruch traf sie bevor sie den Raum sah. Heißes Blei — ein Geruch der auf 
 
 Die Druckerpresse stand in der Mitte des Raums, ein Ungetüm aus Holz, Eisen, Schwungrädern, Hebeln, eine Walze die glänzte von Schwärze. Daneben der Setzkasten — Fächer aus Holz, hunderte, jedes gefüllt mit Bleilettern. Das Klicken von Metall auf Metall, ein Geräusch das nicht aufhörte, weil jemand am Setzkasten stand, Buchstaben sortierte, schnell, die Finger in den Fächern. Klick Klick Klick.
 
-Die Frau am Setzkasten drehte sich um. Klein — einen halben Kopf kleiner als Alphina, aber der Raum um sie herum fühlte sich voll an, als nehme sie mehr Platz ein als ihr Körper brauchte. Runde Schultern unter der Schürze, runde Hüften, Druckerschwärze an den Unterarmen, ein Fleck auf der Wange. Ein Gesicht das nicht wartete — Augenbrauen die Fragen stellten, Falten an den Mundwinkeln die von Lachen kamen, nicht von Sorge.
+Die Frau am Setzkasten drehte sich um, und Alphina sah zuerst das Gesicht — die Falten an den Mundwinkeln kamen von Lachen, nicht von Sorge, und die Augenbrauen hoben eine Frage bevor der Mund sie stellte. Dann die Präsenz. Einen halben Kopf kleiner als Alphina, aber der Raum um sie herum fühlte sich voll an, als nehme sie mehr Platz ein als ihr Körper brauchte.
 
 "Papier oder Druck?"
 
@@ -108,7 +108,7 @@ Ihre Stimme füllte den Raum. Laut. Zu laut für Vael, wo alle flüsterten, die 
 
 "Papier", sagte Alphina. "Unliniert. Zum Schreiben."
 
-"Dickeres oder dünneres?" Runa wischte sich die Hände an der Schürze ab, eine schnelle Geste, die nichts sauberer machte, den Stoff über den Hüften straffte.
+"Dickeres oder dünneres?" Die Druckerin wischte sich die Hände an der Schürze ab, eine schnelle Geste die nichts sauberer machte, der Stoff spannte sich kurz über ihren Hüften. Druckerschwärze an den Unterarmen, tief in die Haut gearbeitet, und ein Streifen davon zog sich über ihre Wange wo sie sich vorhin eine Strähne weggewischt haben musste.
 
 "Dünn. Aber fest genug für Tinte, nicht nur Bleistift."
 
@@ -122,7 +122,7 @@ Sie nickte, als hätte Alphina die richtige Antwort gegeben. Griff hinter sich, 
 
 Alphina nahm das Blatt. Rau unter ihren Fingerspitzen, eine leichte Körnung, die Oberfläche ungleichmäßig — handgeschöpft, nicht maschinell. Das Papier hatte ein Gewicht das über seine Dicke hinausging, etwas Festes, etwas das sich anfühlte als würde es halten was man daraufschreibt.
 
-"Sechzig Blatt." Runa klopfte den Stapel gerade. "Wie lang bleiben Sie?"
+"Sechzig Blatt." Sie klopfte den Stapel gerade. "Wie lang bleiben Sie?"
 
 "Ich weiß nicht."
 
@@ -132,7 +132,7 @@ Alphina antwortete bevor sie entschied ob sie wollte.
 
 "Velde."
 
-"Tidelände." Runa zählte die Blätter ab, fünf, zehn, fünfzehn, die Finger schnell. Ihr Haar war dunkel, kurz geschnitten, fiel ihr in die Stirn wenn sie den Kopf senkte, sie pustete es weg, ohne die Hände zu heben — die Hände zählten weiter. "Kenne ich vom Papier. Feuchtes Klima, die Tinte trocknet schlecht. Deshalb wollen Sie dickeres." Zwanzig, fünfundzwanzig. "Was machen Sie hier oben?"
+"Tidelände." Sie zählte die Blätter ab, fünf, zehn, fünfzehn, die Finger schnell. Ihr Haar war dunkel, kurz geschnitten, fiel ihr in die Stirn wenn sie den Kopf senkte, sie pustete es weg, ohne die Hände zu heben — die Hände zählten weiter. "Kenne ich vom Papier. Feuchtes Klima, die Tinte trocknet schlecht. Deshalb wollen Sie dickeres." Zwanzig, fünfundzwanzig. "Was machen Sie hier oben?"
 
 "Botanik. Es gibt einen Farn, der hier nicht wachsen sollte."
 
@@ -142,19 +142,19 @@ Ihre Hände stoppten für eine Sekunde. Sie schaute Alphina an, die Augenbrauen 
 
 "Ja."
 
-"Na, da sind Sie in der richtigen Stadt." Sie zählte weiter. Dreißig, fünfunddreißig. "Hier wächst alles mögliche was nicht soll. Der Efeu an der Marktkirche hat im Januar geblüht. Im Januar." Vierzig, fünfundvierzig. Die Kerze auf dem Tresen — Alphina bemerkte es jetzt erst, beiläufig, als Randbeobachtung — brannte immer noch ohne zu flackern. Die Flamme stand aufrecht, bewegungslos, als wäre die Luft im Raum still. Aber die Luft war nicht still. Runa bewegte sich, redete, die Tür stand offen. "Im Garten oben, am Klippenrand — waren Sie schon im Garten?"
+"Na, da sind Sie in der richtigen Stadt." Sie zählte weiter. Dreißig, fünfunddreißig. "Hier wächst alles mögliche was nicht soll. Der Efeu an der Marktkirche hat im Januar geblüht. Im Januar." Vierzig, fünfundvierzig. Die Kerze auf dem Tresen — Alphina bemerkte es jetzt erst, beiläufig, als Randbeobachtung — brannte immer noch ohne zu flackern. Die Flamme stand aufrecht, bewegungslos, als wäre die Luft im Raum still. Aber die Luft war nicht still. Die Druckerin bewegte sich, redete, die Tür stand offen. "Im Garten oben, am Klippenrand — waren Sie schon im Garten?"
 
 "Nein."
 
 "Gehen Sie hin. Da stehen Farne die so hoch sind wie ich." Fünfzig, fünfundfünfzig. "Henrik sagt, das sei normal, aber Henrik sagt alles sei normal, Henrik würde auch sagen, Schnee im August sei normal wenn er damit seine Beete erklären kann." Sechzig. Sie klopfte den Stapel auf den Tresen, schob ihn zu Alphina. "Sechzig Blatt. Drei Schilling."
 
-Alphina legte die Münzen auf den Tresen. Runa nahm sie — dabei berührten sich ihre Finger.
+Alphina legte die Münzen auf den Tresen. Die Druckerin nahm sie — dabei berührten sich ihre Finger.
 
-Runas Hand war heiß.
+Ihre Hand war heiß.
 
 Nicht warm. Nicht die Wärme von jemandem der am Schmelztiegel gearbeitet hatte, nicht die Restwärme von Blei. Heißer. Eine Hitze die aus der Haut kam, nicht von der Oberfläche. Alphinas Finger zuckten zurück, Reflex, unwillkürlich, bevor ihr Kopf entschied. Ein Ruck in der Hand, drei Zentimeter — sie stand da mit den Münzen halb losgelassen, ihren Fingern in der Luft.
 
-Runa nahm die Münzen.
+Sie nahm die Münzen.
 
 "Runa", sagte sie. "Runa Kvist." Ein Lächeln, breit, offen — ein Lächeln das mehr Platz brauchte als ihr Gesicht hatte, das die Augen zusammendrückte, die Wangen nach oben schob, das ganze Gesicht veränderte.
 
