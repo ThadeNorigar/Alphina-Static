@@ -30,14 +30,14 @@
           "I2",
           "09",
           "10",
-          "11"
+          "11",
+          "12"
         ]
       },
       {
         "name": "Akt II",
         "titel": "Zusammenfinden",
         "kapitel": [
-          "12",
           "13",
           "14",
           "15",
@@ -174,7 +174,7 @@
         "titel": "Alphina: Der Garten",
         "pov": "Alphina",
         "status": "lektorat",
-        "woerter": 7761,
+        "woerter": 8219,
         "text": "Botanischer Garten. Siebenundzwanzig Pflanzen auf Alphina gerichtet. Farne mannshoch, mitten im Winter. Schatten-Tiere mit leuchtenden Augen zwischen den Beeten — Schemen, die Alphina verfolgen. Runa kommt vorbei, druckt Flugblätter. Alphina bemerkt: Runas Hände sind immer warm, Metall schmilzt leichter unter ihren Fingern.",
         "datei": "09-alphina.md"
       },
@@ -183,21 +183,21 @@
         "pov": "Sorel",
         "status": "szenenplan",
         "woerter": null,
-        "text": "Erste Vael-Platte entwickelt: eine Frau mit Farnen am Hafen. Er hat sie nicht fotografiert — die Kamera hat sie eingefangen. Nachts klettert er über die Mauer des Gartens. Die Pflanzen bewegen sich im Mondlicht."
+        "text": "13. Mai 551. Dunkelkammer im Lichthaus-Keller. Sorel entwickelt seine ersten Vael-Platten — eine zeigt einen Schem am Kai, eine zeigt eine fremde Frau mit Farnen, die er nie gesehen hat. Drei Platten hängen neben Platte 7 an der Wand. Spur der Farne durch Vael führt zum Botanischen Garten. Nachts klettert er über die Südmauer. Die Kamera sieht das Atmen der Steinränder im Steinkreis. Er fasst nichts an — er fotografiert."
       },
       "11": {
-        "titel": "Alphina + Sorel: Erste Begegnung",
-        "pov": "Alphina",
+        "titel": "Vesper: Das Netz",
+        "pov": "Vesper",
         "status": "szenenplan",
         "woerter": null,
-        "text": "Der Garten, Nacht. Er fotografiert. Sie beobachtet. „Die Pflanzen bewegen sich.“ — „Ja.“ — „Seit wann?“ — „Immer.“ Alphina allein danach, Hand auf dem Boden: unter der Erde dasselbe Pochen wie unter Marens Werft. Die Stadt atmet."
+        "text": "14. Mai 551. Fünf Wochen seit Kap 7 hat Vesper Vael systematisch abgeklopft. Siebzehn abweichende Uhren, eingetragen auf einer Karte — ein geometrisches Muster. Runas Flugblatt in der Druckerei: vier Adressen-Übereinstimmungen mit seinen eigenen Punkten. Im Anker-Schankraum registriert er morgens eine Frau mit Erde unter den Nägeln. Abends klopft sie an seine Tür. Drei Sätze. Sie heißt Alphina. Achtzehnter Punkt: Anker, zweiter Stock links."
       },
       "12": {
-        "titel": "Alphina: Die Risse",
-        "pov": "Alphina",
+        "titel": "Alphina + Sorel: Erste Begegnung",
+        "pov": "Alphina + Sorel",
         "status": "szenenplan",
         "woerter": null,
-        "text": "Risse im Pflaster, die es gestern nicht gab. Heißes Wasser aus Leitungen, Kaminfeuer das ohne Brennstoff brennt. Die Grauwe riecht nach etwas Tiefem. Alphina sucht den Mann aus dem Garten und findet das Lichthaus am Hafen."
+        "text": "15. Mai 551, Maiabend. Beide kommen zum zweiten Mal in den nächtlichen Garten — Alphina zielgerichtet nach dem Vesper-Gespräch, Sorel weil seine Platten aus Kap 10 ihn zurückziehen. Sie sehen einander am Steinkreis. Die Farne folgen einem Gespräch, das noch nicht begonnen hat. Erste Worte. Sorel fotografiert die Hand auf dem Stein. Die Schemen sitzen auf der Mauer — drei Paar leuchtende Augen. Ende Akt I."
       },
       "13": {
         "titel": "Sorel: Die Vael-Platten",

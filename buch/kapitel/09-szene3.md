@@ -6,7 +6,7 @@ Sie ging die Hauptgasse hinab, Richtung Hafen, denselben Weg, den sie an jedem N
 
 Ein Uhrmacher. Aus Karst.
 
-Sie hatte das Wort im Kopf wie einen Fremdkörper. Es war nicht neu — Uhrmacher gab es überall, auch in Vael, auch in Karst, auch in Velde, und sie hatte keine Meinung zu Uhren. Es war der Satz dahinter, den Runa gesagt hatte und der unter dem Wort lag: *ein Mann, der in einen Raum kommt, und eine Uhr hört auf, falsch zu gehen.* Das war keine Uhrmacherei. Das war das, was sie mit den Lavendelstecklingen tat, nur in einem anderen Material. Sie hatte es immer gewusst, ohne es zu wissen, dass sie nicht die Einzige sein konnte. Die Welt war zu groß für eine einzelne Hand. Aber Wissen und Wissen waren zwei verschiedene Sachen. Zu wissen, dass sie es nicht war, war das eine. Zu wissen, dass ein Mann seit Wochen drei Gassen weiter an einem Reparaturtisch saß und eine alte Standuhr mit seiner bloßen Anwesenheit auf den Takt brachte, war das andere. Das andere hatte einen Körper und eine Adresse. Das andere konnte man ansprechen.
+Sie hatte das Wort im Kopf wie einen Fremdkörper. Es war nicht neu — Uhrmacher gab es überall, auch in Vael, auch in Karst, auch in Velde, und sie hatte keine Meinung zu Uhren. Es war der Satz dahinter, den Runa gesagt hatte und der unter dem Wort lag: *ein Mann, der in einen Raum kommt, und eine Uhr hört auf, falsch zu gehen.* Das war keine Uhrmacherei. Das war das, was sie mit den Lavendelstecklingen tat, nur in einem anderen Material. Ein Mann. Drei Gassen weiter. An einem Reparaturtisch. Das andere hatte einen Körper und eine Adresse. Das andere konnte man ansprechen.
 
 Sie musste ihn finden.
 
@@ -36,13 +36,15 @@ Sie senkte den Kopf wieder. Aus dem Augenwinkel: drei Formen, in derselben Anord
 
 Etwas in ihrem Brustkorb klappte zu — eine Tür, die sie selten verwendete und an die sie sich nicht erinnert hatte, seit sie elf Jahre alt war und ein Pferd gesehen hatte, das sich selbst die Beine brach. Ihre Lungen wurden flacher. Sie zwang sie tiefer. Atmen war eine Tätigkeit, die man üben konnte. Sie hatte es geübt.
 
+Der Mund wurde trocken, so plötzlich, dass sie das Trockene schmeckte, bevor sie den Speichel vermisste. Ihre Kopfhaut zog sich an einer Stelle zusammen, dort wo sie die Haare hochgesteckt hatte, als fiele der Nacken ein halbes Zoll tiefer. Zwischen den Zähnen lag etwas, das sie nicht dort hingelegt hatte, ein Geschmack wie Blei.
+
 *Nicht rennen.* Der Gedanke kam aus der Pflanzen-Logik, die sie kannte: ein Halm, der zitterte, lockte das Tier. Die Dinge, die jagten, kannten den Unterschied zwischen Schritt und Flucht.
 
 Sie ging in ihrem Tempo. Den Kopf gesenkt. Die Hand in der Manteltasche um das Notizbuch geschlossen, als wäre das ein Werkzeug, das in dieser Lage etwas hätte ausrichten können. Sie wusste, dass es nichts ausrichten konnte. Aber Hände waren ein Geländer, und sie nahm das Geländer.
 
 An einer Querstraße, die hoch zur Druckerei führte, schlug ihr für einen Moment ein anderer Geruch ins Gesicht. Süßlich. Dicht. Derselbe Geruch wie zwischen den Beeten im Garten, derselbe Geruch wie aus den Mauerritzen an der Nordmauer. Hier, mitten in der Stadt, drei Straßen vom Garten entfernt. Einen Atemzug lang. Dann war er weg, und der normale Vaeler Geruch war zurück, Salz und nasser Stein und die Kohle aus den Kaminen.
 
-Sie versuchte einen Gedanken, der aus dem Garten kam. Bei den Farnen war das Drängen eine Form gewesen, die aus ihrem Brustkorb kam und durch ihre Hand ging. Hier in der Gasse gab es keine Pflanzen, auf die sie hätte zielen können. Aber sie hatte das Drängen trotzdem. Sie richtete es auf die Dachrinnen, auf die peripheren Formen, auf die Augenpaare, die sie nicht ansehen konnte ohne sie zu verlieren. *Weg.* Nur das Wort, ohne Anhang, so nackt, wie sie konnte.
+Sie versuchte einen Gedanken, der aus dem Garten kam. Bei den Farnen war die Form aus ihrem Brustkorb gekommen und durch die Hand in das Material gegangen. Hier in der Gasse gab es keine Pflanzen, in die sie zielen konnte. Aber sie hatte die Form trotzdem. Sie richtete sie auf die Dachrinnen, auf die peripheren Formen, auf die Augenpaare, die sie nicht ansehen konnte ohne sie zu verlieren. *Weg.* Nur das Wort, ohne Anhang, so nackt, wie sie konnte.
 
 Nichts. Sie merkte nichts. Vielleicht lag es daran, dass sie sie nicht sah. Vielleicht waren diese Dinge kein Material für sie, so wie Stein kein Material für sie war. Sie wusste es nicht. Sie hörte auf, es zu versuchen, und ging.
 
@@ -78,11 +80,9 @@ Der Kalk an der Wand des Anker-Zimmers roch nach altem Putz. Aus dem Erdgeschoss
 
 Sie ging zum Tisch. Setzte sich nicht. Schlug das Notizbuch auf, an der Stelle, an der sie es im Garten zugemacht hatte, mit der Asplenium-Notiz oben auf der freien Seite. Sie las die Notiz einmal, ohne Bleistift in der Hand. Dann schlug sie das Buch zu und legte es auf das Flugblatt, damit das Flugblatt nicht mehr sichtbar war. Heute Abend schrieb sie nichts. Alles, was sie heute Nachmittag erfahren hatte, saß im Körper und nicht in Sätzen, und sie hatte in den letzten drei Wochen gelernt, dass manche Dinge von Sätzen kleiner wurden, nicht größer.
 
-Stein, Hand, warm. Ein Drängen aus dem Körper, das in Pflanzen ging. Ein Uhrmacher, drei Gassen weiter, unter dessen Hand eine Uhr aufhörte, falsch zu gehen. Etwas, das auf Dachkanten saß, solange sie wegschaute. Der vierte Geruch, der keine Sprache hatte. Die Stelle an ihrem Handgelenk, die wärmer gewesen war als der Rest.
-
 Sie ging zurück zum Fenster. Nahm den Vorhang in die Hand, um ihn zuzuziehen. Schaute ein letztes Mal hinaus.
 
-Über der Stadt, in Richtung der Oberstadt, in Richtung des Gartens, war der Himmel dunkler als über dem Hafen. Nicht viel. Aber die Häuser dort drüben standen vor einem Schwarz, das ein Stück vor den Sternen lag, ein Stück vor der Nacht, eine Schicht, in der das Licht hängenblieb, statt durchzukommen. Sie wusste, dass das eine Einbildung sein konnte. Sie wusste, dass die Wahrnehmung in der Dämmerung fehlerhaft war, dass die Augen in dieser Stunde Dinge sahen, die nicht da waren. Sie wusste auch, dass sie heute Nachmittag eine Hand auf einen warmen Stein gelegt hatte und ein Drängen gespürt hatte, das nicht ihres gewesen war, und dass es in dieser Stadt noch einen anderen Menschen gab, dessen Hand Dinge bewegte, ohne sie zu berühren.
+Über der Stadt, in Richtung der Oberstadt, in Richtung des Gartens, war der Himmel dunkler als über dem Hafen. Nicht viel. Aber die Häuser dort drüben standen vor einem Schwarz, das ein Stück vor den Sternen lag, ein Stück vor der Nacht, eine Schicht, in der das Licht hängenblieb, statt durchzukommen. Eine Einbildung, vielleicht. Die Dämmerung log. Ihre linke Hand lag auf der Fensterbank und war warm. Eine Hand aus Eis hatte auf dem Fuß einer Wäscherin gelegen. Drei Gassen weiter saß ein Mann an einem Tisch. Etwas saß auf Dachkanten, wenn sie wegschaute. Nichts davon war Einbildung.
 
 Sie zog den Vorhang zu.
 
@@ -96,6 +96,12 @@ Sie drückte die Klinke nicht. Nicht heute. Nicht so. Sie war müde, und ihre Ha
 
 Sie drehte die Klinke wieder in die Ruheposition. Ging zwei Schritte zurück ins Zimmer. Setzte sich aufs Bett.
 
-Im Erdgeschoss lachte einer der Männer am linken Tisch. Ein kurzes, hartes Lachen, das durch die Decke kam und gleich wieder verstummte. Die anderen Geräusche blieben, was sie waren — Stühle, Gläser, ein Husten, Schritte an der Theke. Ganz leise, am Rand ihres Hörens, aus derselben Richtung wie der Tisch rechts, kam das feine metallische Ticken einer kleinen Taschenuhr, die jemand gerade auf das Holz gelegt hatte.
+Im Erdgeschoss lachte einer der Männer am linken Tisch. Ein kurzes, hartes Lachen, das durch die Decke kam und gleich wieder verstummte. Die anderen Geräusche blieben, was sie waren — Stühle, Gläser, ein Husten, Schritte an der Theke.
 
-Sie schloss die Augen. Sie hörte eine Weile nur zu.
+Dann Schritte auf der Treppe. Einer, allein, langsam, gleichmäßig, ohne Eile. Sie hob den Kopf und folgte ihnen durch die Decke — die Treppe hoch, an ihrer Tür vorbei, weiter den Flur entlang. Eine andere Tür ging auf, zwei Türen weiter auf derselben Seite. Ging wieder zu. Kein Riegel, kein lauter Schritt, die Gewohnheit eines Menschen, der spät kam und niemanden wecken wollte. Dann Stille.
+
+Sie hielt den Atem an, ohne es gewollt zu haben.
+
+Durch die Wand, gedämpft, aber deutlich — weil das Zimmer nebenan still war und das ihre still war und die alten Gasthauswände dünn waren wie Bogenpapier — kam ein feines metallisches Ticken. Eine kleine Taschenuhr, gerade auf ein Holz gelegt. Einmal, zweimal, dreimal, ein Takt, der so regelmäßig war, wie ein Takt nur sein kann, wenn ein Uhrmacher ihn vor sich liegen hat.
+
+Sie schloss die Augen. Sie hörte eine Weile nur zu. Sie verband nichts. Sie musste nichts verbinden. Morgen war noch Zeit.

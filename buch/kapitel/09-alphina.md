@@ -2,7 +2,7 @@
 
 *11. Mai 551 · 6 Wochen 2 Tage in Vael*
 
-Die Lavendelstecklinge waren am dritten Tag bereit, und am dritten Tag kniete sie zwischen den Beeten der westlichen Anlage und sortierte sie in zwei Schalen. Die linke für die Triebe mit der besten Bewurzelung, die rechte für jene, die noch warten mussten. Die Erde unter ihren Knien war feucht von der Mittagsbewässerung; ein dunkler Fleck zog sich quer über den Stoff ihres Rocks. Sie hatte das Kniepolster, das Henrik ihr in der ersten Woche geliehen hatte, am Komposthaufen liegen lassen. Sie wusste, wo es lag. Sie hatte es gesehen, als sie kam. Sie hatte es nicht geholt. Manchmal wollte sie die Erde direkt am Knochen, weil die Erde in diesem Garten anders sprach, wenn nichts dazwischen war.
+Die Lavendelstecklinge waren am dritten Tag bereit, und am dritten Tag kniete sie zwischen den Beeten der westlichen Anlage und sortierte sie in zwei Schalen. Die linke für die Triebe mit der besten Bewurzelung, die rechte für jene, die noch warten mussten. Die Erde unter ihren Knien war feucht von der Mittagsbewässerung; ein dunkler Fleck zog sich quer über den Stoff ihres Rocks. Die Luft war kühl für Mai, die Feuchtigkeit des Vormittags hing noch zwischen den Büschen und legte sich als feiner Film auf den Nacken, dort wo die Haare hochgesteckt waren. An ihrem Unterarm, wo der Ärmel beim Sortieren zurückgerutscht war, stand die Haut in Gänsehaut. Sie hatte das Kniepolster, das Henrik ihr in der ersten Woche geliehen hatte, am Komposthaufen liegen lassen. Sie wusste, wo es lag. Sie hatte es gesehen, als sie kam. Sie hatte es nicht geholt. Manchmal wollte sie die Erde direkt am Knochen, weil die Erde in diesem Garten anders sprach, wenn nichts dazwischen war.
 
 Sechs Wochen und zwei Tage. So lange war sie jetzt in Vael, und drei Wochen davon kam sie jeden Nachmittag in diesen Garten. Am ersten Tag hatte Runa sie aus der Druckerei hergeschickt — *Farne so hoch wie ich* — und am dritten Tag hatte Alphina dort gestanden, zwischen den Wedeln an der nördlichen Mauer, und ihren Körper zum ersten Mal nicht mehr unter Kontrolle gehabt, nicht wirklich. Sie hatte sich hingesetzt. Eine Stunde. Dann war Henrik gekommen, hatte sie dort angetroffen, und hatte nichts gesagt. Erst als sie aufstand und sich vorstellte, hatte er gefragt, ob sie eine Handbreit vom Asplenium mitnehmen wolle für ihre Mappe, und das war sein Weg gewesen, sie einzuladen.
 
@@ -14,7 +14,7 @@ Ein Stängel in der rechten Schale hatte keine Bewurzelung. Sie legte die Handfl
 
 Sie legte den Stängel in die linke Schale.
 
-Beim dritten Mal, vor zwei Wochen, hatte sie die Hand zurückgezogen und zwei Stunden lang nicht mehr in den Garten gehen können. Beim vierten Mal hatte sie es wiederholt, weil sie es verstehen wollte. Sie verstand es noch nicht. Sie wusste nur, was ging und was nicht. Dass ein Steckling schneller wurzelte, wenn sie ihre Hand darüber hielt und etwas dachte, das keine Sprache war, sondern ein Drängen. Dass das Gras am Wegrand dort verdorrte, wo sie im Vorübergehen ein *nicht hier* im Kopf gehabt hatte — ein schmaler Streifen, einen Schuh breit, der dem Weg folgte und den Henrik vor einer Woche bemerkt und beiläufig kommentiert hatte: *komisch, da wächst nichts mehr, nicht mal der Hahnenfuß*. Dass die kleine Ahornsaat am Rand des Kompostes überraschend schnell ein zweites Blatt gezeigt hatte, nachdem sie eine Stunde daneben gekniet und an Ahorne in Velde gedacht hatte. Jedes Experiment war still. Sie schrieb keines auf. Es gab eine Linie, und die Linie hatte sich in Vael verschoben, und das war der Teil, den sie sich eingestand. Mehr war für später.
+Beim dritten Mal, vor zwei Wochen, hatte sie die Hand zurückgezogen und zwei Stunden lang nicht mehr in den Garten gehen können. Beim vierten Mal hatte sie es wiederholt, weil sie es verstehen wollte. Sie verstand es noch nicht. Sie wusste nur, was ging und was nicht. Dass ein Steckling schneller wurzelte, wenn sie ihre Hand darüber hielt und in sich etwas hielt, das keine Sprache war — etwas, das sich in den Unterarmen schloss wie eine Faust um eine Wurzel, die sie nicht sah. Dass das Gras am Wegrand dort verdorrte, wo sie im Vorübergehen ein *nicht hier* im Kopf gehabt hatte — ein schmaler Streifen, einen Schuh breit, der dem Weg folgte und den Henrik vor einer Woche bemerkt und beiläufig kommentiert hatte: *komisch, da wächst nichts mehr, nicht mal der Hahnenfuß*. Dass die kleine Ahornsaat am Rand des Kompostes überraschend schnell ein zweites Blatt gezeigt hatte, nachdem sie eine Stunde daneben gekniet und an Ahorne in Velde gedacht hatte. Jedes Experiment war still. Sie schrieb keines auf. Es gab eine Linie, und die Linie hatte sich in Vael verschoben, und das war der Teil, den sie sich eingestand. Mehr war für später.
 
 Schritte auf dem Kies. Schwer, etwas ungleich — das linke Bein schleifte ein wenig, seit sie ihn kannte, und das Kies gab unter dem rechten mehr nach als unter dem linken. Henrik.
 
@@ -30,19 +30,13 @@ Schritte auf dem Kies. Schwer, etwas ungleich — das linke Bein schleifte ein w
 
 "Du zählst richtig."
 
-"Mhm." Henrik schaute kurz über die Anlage, die Augen halb zugekniffen gegen das dünne Licht, das durch den Nebel kam und überall blass auf den Blättern lag. Man sah den Rand der Sonne, wenn man die Augen weit genug zuzog, einen Fleck hinter dem Weißen, nicht Scheibe, nicht Kreis. "Wenn du später beim Steinkreis vorbeigehst, fällt dir vielleicht etwas auf, was ich nicht hinkriege. Der Klee am Rand wird braun. Nur an einer Seite. Ich versteh das nicht."
+"Mhm." Henrik schaute kurz über die Anlage, die Augen halb zugekniffen gegen das dünne Licht, das durch den Nebel kam und überall blass auf den Blättern lag. Man sah den Rand der Sonne, wenn man die Augen weit genug zuzog, einen Fleck hinter dem Weißen, nicht Scheibe, nicht Kreis. "Und wenn du nachher die Nordmauer fertig hast — hinter dem Treibhaus, wo die Buchsbaumhecke anfängt, läuft ein brauner Streifen Klee. Eine Handbreit. Ich versteh das nicht. Die Wurzel ist gesund, der Boden ist gesund, und das Ding wird trotzdem braun. Schau ihn dir an, wenn du Lust hast."
 
-Sie hob den Kopf. "Welcher Steinkreis?"
+"Welcher Streifen?"
 
-Henrik schaute sie einen Moment an, als hätte sie gefragt, welcher Himmel. Dann korrigierte er sich — sie sah es in seinem Gesicht — dann nickte er. "Das Ding in der Mitte. Hinter dem Treibhaus, oben auf dem Hügel. Du bist in den letzten Wochen immer drumherum gegangen. Ist aber nicht schlimm, wenn du ihn heute erst siehst."
+"Du kommst da jeden Tag vorbei. Westseite, gleich neben dem Hauptweg." Er zuckte die Schulter. "Vielleicht siehst du, was ich nicht sehe."
 
-"Ich bin drumherum gegangen?"
-
-"Du nimmst den Weg, der am Hügel vorbei führt. Links, zum Rosarium. Dreimal die Woche. Ich hab mir schon gedacht, du magst den Hügel nicht."
-
-Sie sagte darauf nichts. Sie hatte den Hügel nicht gesehen. Sie wusste, was in der Mitte des Gartens stand — ein niedriger Erdhügel, kahl, sie hatte ihn am Rand der Wahrnehmung registriert, mehr nicht — aber sie hatte ihn nie betreten, nie umrundet, nie ins Auge gefasst. Henrik hatte sie dreimal die Woche daran vorbeigehen sehen, als wäre sie absichtlich ausgewichen, und sie konnte sich an kein einziges Mal erinnern.
-
-"Ich schaue heute hin."
+"Ich schaue nachher hin."
 
 "Mach das." Er tippte mit dem Fuß an die Wasserschale, eine Erinnerung an sich selbst, hob sie wieder hoch und ging zum Treibhaus. Am Weg blieb er noch einmal stehen. "Bevor ich's vergesse — du hattest gestern recht mit dem Rosenbeet bei den Buchsbäumen. Drei neue Blätter an der mittleren. Die hätte ich verloren, wenn du nichts gesagt hättest."
 
@@ -50,7 +44,7 @@ Sie sagte darauf nichts. Sie hatte den Hügel nicht gesehen. Sie wusste, was in 
 
 Er lachte einmal, kurz, gutmütig. "Mhm." Dann ging er.
 
-Sie blieb knien. Der Lavendelstängel zwischen ihren Fingern war warm, der Duft hing schwer auf der Haut. Sie legte den Stängel ab, die Hand still, das Drängen, das kein Wort war, aus dem Körper heraus. Sie dachte an die großen Wedel an der Nordmauer. Henrik schnitt sie jeden vierten Tag. Er zählte die Fuhren. Er hatte, ohne es zu merken, selbst bemerkt, dass die Wedel schneller wuchsen als je. Was sie zu ihnen sagen wollte, hatte sie seit Tagen im Kopf.
+Sie blieb knien. Der Lavendelstängel zwischen ihren Fingern war warm, der Duft hing schwer auf der Haut. Sie legte den Stängel ab. Die Hand still. Sie dachte an die großen Wedel an der Nordmauer. Henrik schnitt sie jeden vierten Tag. Er zählte die Fuhren. Er hatte, ohne es zu merken, selbst bemerkt, dass die Wedel schneller wuchsen als je. Was sie zu ihnen sagen wollte, hatte sie seit Tagen im Kopf.
 
 *So bleiben. Nicht weiter.*
 
@@ -60,31 +54,29 @@ Die mannshohen Farne standen in ihren Reihen, frisch geschnitten, ein scharfer g
 
 Sie stellte sich mittig vor die Reihe. Der dunkelste Wedel — ganz links, der, der ihr bis ans Kinn reichte — drehte sich langsam in ihre Richtung. Sie schaute ihn an. Drei Wedel rechts davon folgten. Sie ging einen halben Schritt nach rechts. Die Welle lief mit. Sie blieb stehen.
 
-Sie legte die Handfläche flach gegen den Mittelnerv des nächsten Wedels. Das Blatt war glatt und kühl und lebte. Sie hielt das Drängen in sich, ohne es zu sagen, ohne es zu denken als Sprache. Nur als Form.
+Sie legte die Handfläche flach gegen den Mittelnerv des nächsten Wedels. Das Blatt war glatt und kühl und lebte. Sie hielt, was in ihr hielt, ohne es zu sagen, ohne es zu denken als Sprache. Nur als Form.
 
 *So bleiben. Nicht mehr wachsen. Sei groß genug.*
 
 Sie hielt die Hand zwanzig Atemzüge lang gegen den Wedel. Dann nahm sie sie weg. Der Wedel war noch da. Nichts war sichtbar geschehen. Sie fühlte auch nichts im eigenen Körper, das gekommen oder gegangen wäre. Sie wusste, dass sie es später nur daran erkennen würde, ob Henrik beim nächsten Schnittrhythmus sagte: *die musste ich diesmal nicht nehmen.* Es würde ein kleiner, beiläufiger Satz sein, und sie würde nicken und nichts weiter sagen.
 
-Sie ging die Reihe ab, berührte nacheinander jeden der zweiundzwanzig, mit derselben Geste, derselben Form im Kopf. An den fünf Stummeln blieb sie länger stehen. Dort war das Drängen ein anderes — *heil* statt *halt*. Sie wusste nicht, ob das funktionierte. Sie probierte es trotzdem.
+Sie ging die Reihe ab, berührte nacheinander jeden der zweiundzwanzig, mit derselben Geste, derselben Form im Kopf. An den fünf Stummeln blieb sie länger stehen. Dort war die Form eine andere — *heil* statt *halt*. Sie wusste nicht, ob das funktionierte. Sie probierte es trotzdem.
 
-Als sie am Ende der Reihe ankam, stand der Lavendelduft nicht mehr auf der Haut. Die Nordmauer roch nach altem Stein, nach feuchten Spalten, nach dem grünen Schnitt der Wedel — und nach etwas Viertem, einem süßlichen, dichten Geruch, den sie seit Wochen in diesem Garten hatte und nicht benennen konnte. Er lag tiefer als die anderen, dichter, mit einer eigenen Schwere. Sie atmete ihn einmal ein, dreimal, dann ließ sie ihn. Vielleicht morgen.
+Als sie am Ende der Reihe ankam, stand der Lavendelduft nicht mehr auf der Haut. Die Nordmauer roch nach altem Stein, nach feuchten Spalten, nach dem grünen Schnitt der Wedel — und nach etwas Viertem, einem Geruch, den sie seit Wochen in diesem Garten hatte und nicht benennen konnte. Süß, aber nicht wie Obst oder wie Honig. Süß wie etwas, das nicht frisch war und trotzdem nicht faulte. Ein Geruch, der sich in ihre Kleider legte und dort blieb, auch wenn sie abends den Anker betrat, und der in der Innentasche ihres Mantels noch am nächsten Morgen schwach hing, als hätte jemand ihn dort eingenäht. Sie atmete ihn einmal ein, dreimal, dann ließ sie ihn. Vielleicht morgen.
 
-Sie drehte sich zurück zum Hauptweg. Von hier aus, zum ersten Mal mit Absicht, schaute sie zur Mitte des Gartens.
+Sie drehte sich zurück zum Hauptweg. Den Klee, um den Henrik sie gebeten hatte — hinter dem Treibhaus, Westseite. Sie ging los.
 
-Der Hügel.
+Und zwischen einem Schritt und dem nächsten merkte sie, dass ihre Füße den Weg schon selbst nahmen, den sie seit Wochen jeden Tag nahmen: am Hauptweg links haltend, am Teilungspunkt nach Süden, am Rosarium vorbei. An etwas vorbei. Sie blieb stehen. Sie war hier dreimal die Woche gegangen, drei Wochen lang, und hatte jedes Mal die Kurve genommen, ohne sich zu fragen, warum dort eine Kurve war. Sie drehte sich langsam nach rechts. Zu ihrer Rechten, wo der Weg sonst abbog, erhob sich ein kleiner Erdhügel, einen halben Meter hoch, kahl, in etwa vier Meter Durchmesser, gefasst von einer Buchsbaumhecke, die nur im Süden offen stand. Sie hatte ihn nie gesehen. Nicht so. Am Rand ihrer Wahrnehmung hatte er gelegen wie ein Gegenstand im Eck eines Zimmers, den man nicht anschaut, weil man ihn nicht anschauen will.
 
-Er war niedrig, einen halben Meter hoch, kahl, in etwa vier Meter Durchmesser, gefasst von einer Buchsbaumhecke, die nur an einer Seite offen stand — im Süden, wo der Hauptweg hochführte. Sie war hier jeden Nachmittag drei Wochen lang vorbeigegangen. Sie kannte die Stelle, an der der Weg sich teilte, sie kannte den Anstieg, sie kannte die Buchsbaumkante. Aber nie den Hügel selbst. Wenn sie jetzt darauf zuging, war es, als ginge sie in eine Richtung, in die ihr Körper in den vergangenen drei Wochen nicht hineingehen wollte. Ein leichtes Sträuben in den Füßen, eine Trägheit im Kreuz. Sie bemerkte es zum ersten Mal, weil sie zum ersten Mal absichtlich ging.
+Ihre Füße wollten weiter zum Klee. Ihr Körper wollte den Hügel hinter sich lassen. Sie stellte fest, dass sie wollte, und stellte fest, dass sie nicht war, die es wollte.
 
-Sie ging trotzdem.
+Sie ging auf den Hügel zu. Ein leichtes Sträuben in den Füßen, eine Trägheit im Kreuz — der Widerstand war körperlich, nicht gedacht. Sie bemerkte ihn zum ersten Mal, weil sie zum ersten Mal gegen ihn ging.
 
 Auf dem Hügel standen sieben Steine. Niedrig, jeder hüfthoch, in einem Kreis eingelassen, der Boden zwischen ihnen kahle Erde. Purpurstein, dunkel feucht, alt, die Oberflächen glatt geschliffen. Sie kannte den Stein vom Stadttor und von Treppenstufen und von Hausmauern, er war überall in Vael, und sie hatte aufgehört, ihn zu bemerken. Hier bemerkte sie ihn wieder. Diese Steine waren eingearbeitet, bewusst gesetzt, jeder im gleichen Abstand, jeder im gleichen Winkel zur Mitte. Niemand baute Steine so, wenn er nur einen Beetrand meinte.
 
 Sie ging eine Runde um den Kreis. Dann eine zweite, langsamer. Beim zweiten Mal sah sie, was ihr Auge vorher überlesen hatte, weil es nicht gesucht hatte, und weil Augen nur fanden, was sie wussten — die Pflanzen hörten an der Steinlinie auf. Keine Wurzel kreuzte die Grenze. Kein Halm, kein Moos in den Fugen, obwohl alles in diesem Garten bemoost war, was drei Jahre stillstand. Gras wuchs bis zur Außenkante des Steins und brach dort ab. Ein einzelnes Veilchen zeigte seinen Stiel in die Lücke zwischen zwei Steinen, blieb stehen, streckte sich nicht weiter. Im Inneren: bloße Erde, dunkel, glatt, keine Textur.
 
-Henrik hatte gesagt: *Der Klee am Rand wird braun. Nur an einer Seite.*
-
-Sie sah ihn. An der Ostseite, der einzige braune Streifen an einem Kreis, der sonst grün gesäumt war — Klee, vertrocknet, ausgedörrt, als hätte ihn jemand gebrannt. Eine Handbreit, nicht mehr, entlang der Steinkante. Sie kannte diesen Braunton. Es war derselbe Braunton wie der Streifen am Wegrand, den sie vor Tagen beim Vorübergehen gemacht hatte, ohne es zu wollen. Nur hier an der Steinkante war er nicht von ihr.
+Dort war der Klee. Westseite. Henriks Klee, eine Handbreit, vertrocknet, ausgedörrt, als hätte ihn jemand gebrannt. Sie kannte diesen Braunton. Es war derselbe Braunton wie der Streifen am Wegrand, den sie vor Tagen beim Vorübergehen gemacht hatte, ohne es zu wollen. Nur hier, an der Steinkante, war er nicht von ihr.
 
 Sie kniete an der Außenseite eines Steins, dort wo der Klee noch grün war. Legte die Handfläche flach auf die Oberfläche.
 
@@ -94,7 +86,7 @@ Wärmer als das Stadttor am Tag ihrer Ankunft. Wärmer als die Erde in ihrem Top
 
 Es kam ein Impuls.
 
-Durch den Stein, durch die Handfläche, durch die Knochen bis in den Ellbogen — ein einzelner, deutlicher Stoß, so stark wie das eigene Blut nach einem steilen Treppenlauf, aber fremd, an der falschen Stelle im Körper, in der ganzen Hand statt in der Halsader. Sie zuckte nicht. Sie hielt die Hand liegen.
+Durch den Stein, durch die Handfläche, durch die Knochen bis in den Ellbogen — ein einzelner, deutlicher Stoß, so dicht wie ein Pilzhut, der sich im Moos öffnet und den Boden um sich herum anhebt, und in der ganzen Hand statt in der Halsader. Sie zuckte nicht. Sie hielt die Hand liegen.
 
 Pause.
 
@@ -118,25 +110,29 @@ Sie drehte sich um, langsam diesmal, weil sie sich zwang. Es war nicht Henrik.
 ---
 
 
-Runa Kvist kam den Hauptweg hoch, ohne zu zögern, mit einem Korb über dem Arm und einem Stapel Flugblätter unter dem Korb und einem Mantel, der eine Nummer zu groß war. Der Mantel gehörte ihr wahrscheinlich nicht. Die Schultern hingen daran, die Ärmel waren zweimal umgekrempelt, und an dem Ärmel, der nicht den Korb hielt, zog sich ein dunkler Streifen entlang, der nichts mit dem Mantel zu tun hatte.
+Runa Kvist kam den Hauptweg hoch, ohne zu zögern, mit einem Korb über dem Arm und einem Stapel Flugblätter unter dem Korb und einem Mantel, der eine Nummer zu groß war. Der Mantel gehörte ihr wahrscheinlich nicht. Die Schultern hingen daran, die Ärmel waren zweimal umgekrempelt, und an dem zurückgeschlagenen Ärmel — der, der nicht den Korb hielt — war der Unterarm zu sehen bis zur Mitte. Die Haut dort war weißer als bei einer Frau, die draußen arbeitete, aber die Innenseite des Handgelenks und die Handwurzel waren schwarz. Druckerschwärze, tief in die Poren gearbeitet, die Haut darunter durchscheinend dass man die Adern sah. Am Hals, wo der Mantelkragen aufstand, lief eine Sehne, wenn Runa den Kopf drehte.
 
 "Im Anker haben sie gesagt, du bist nachmittags hier." Sie blieb drei Schritte vor Alphina stehen, an der Südseite des Hügels, knapp hinter der Buchsbaumöffnung. Sie atmete einmal aus. "Ich brauch fünfzehn Minuten. Können wir uns hinsetzen?"
 
-"Guten Tag." Alphina trat von der Steinkante zurück, weg vom Kreis, weil sie ihn nicht im Blickfeld haben wollte, wenn sie jemandem gegenübersaß, den sie zu lesen hatte. "Am Ende vom Hauptweg ist eine Bank."
+"Guten Tag, Runa." Alphina trat von der Steinkante zurück, weg vom Kreis, weil sie ihn nicht im Blickfeld haben wollte, wenn sie jemandem gegenübersaß, den sie zu lesen hatte. "Am Ende des Hauptweges ist eine Bank. Komm."
 
-"Dann los." Runa drehte sich um und ging voraus, einfach so, ohne zu warten. Sie machte das in der Druckerei auch — sie entschied sich für die Richtung und ging. Andere liefen hinterher oder nicht. Alphina lief hinterher.
+Es war sie, die voranging. Am ersten Tag, beim Papierkauf in der Druckerei, hatte sie Runa noch gesiezt und mit dem Rücken zur Tür geantwortet; irgendwo zwischen jenem Tresen und dem hier, zwischen Runas zu lauten Worten und einem Satz, den sie vergessen hatte, war das Sie abhanden gekommen, und sie wusste nicht, wer von beiden es fallen gelassen hatte. Jetzt ging das Du zwischen ihnen wie etwas, das sie ohne Verabredung übernommen hatten. Sie führte Runa am Hauptweg entlang, wählte die Bank am Ende — die mit Blick auf das Treibhaus zwei, weil das Treibhaus harmloser war als der Hügel — und setzte sich zuerst.
 
-Die Bank stand am Ende des Hauptweges, vor dem Treibhaus zwei. Das Holz war abgewetzt an zwei Stellen, dort wo Hintern die Sitzfläche glatt gemacht hatten, im Lauf der Jahre. Sie setzten sich. Runa nahm den Korb vom Arm, stellte ihn zwischen ihre Füße, und hob den Stapel Flugblätter heraus. Das oberste war noch leicht klamm, der Druck nicht ganz trocken. Alphina roch es, bevor sie es sah. Heißes Blei, ölige Schwärze, das Papier leicht feucht vom Presswerk. Druckerei in einem Korb.
+Das Holz der Bank war abgewetzt an zwei Stellen, dort wo im Lauf der Jahre Hintern die Sitzfläche glatt gemacht hatten. Runa setzte sich daneben, nahm den Korb vom Arm, stellte ihn zwischen ihre Füße und wollte den Stapel Flugblätter herausheben. Alphina legte eine Hand auf den Korbrand.
 
-Runa legte den Stapel zwischen sie.
+"Lass mich das in Ruhe tun. Erst atmen."
+
+Runa ließ die Hand sinken, überrascht für den halben Atemzug, dann einverstanden. Alphina nahm selbst den Stapel heraus, langsam, und legte ihn zwischen sie auf die Bank. Das oberste Blatt war noch leicht klamm, der Druck nicht ganz trocken. Heißes Blei, ölige Schwärze, das Papier leicht feucht vom Presswerk. Druckerei in einem Korb.
 
 "Lies das. Sag mir, ob ich verrückt bin."
 
 "Das kann ich nicht beurteilen."
 
-"Doch, genau du." Runa sagte es ohne Schärfe, mit derselben Direktheit, mit der sie in der Druckerei nach dem Papier gefragt hatte. Dünnes oder dickes. Hadernpapier, Stahlfeder, ja oder nein. "Lies."
+"Doch, genau du." Runa sagte es ohne Schärfe, mit derselben Direktheit, mit der sie in der Druckerei nach dem Papier gefragt hatte. Dünnes oder dickes. Hadernpapier, Stahlfeder, ja oder nein.
 
-Alphina nahm das oberste Blatt. Es war einfach gesetzt, zwei Spalten, der Titel in einer Schrift, die einen halben Punkt zu groß war, weil Runa es so gewollt hatte, oder weil ihr der Setzkasten kein Kleineres bot.
+"Ich lese es, wenn ich soweit bin." Alphina legte die Hand auf den Stapel und ließ sie dort. Runa hielt den Mund. Das funktionierte. Ein paar Atemzüge lang war im Garten nichts als das ferne Geräusch von Henriks Schaufel und der schmale Wind in der Buchsbaumhecke, dann nahm Alphina das oberste Blatt.
+
+Das Blatt in ihrer Hand war einfach gesetzt, zwei Spalten, der Titel in einer Schrift, die einen halben Punkt zu groß war, weil Runa es so gewollt hatte, oder weil ihr der Setzkasten kein Kleineres bot.
 
 *VAELS GEISTER — Beobachtungen einer Druckerin. Zweite Folge.*
 
@@ -172,9 +168,13 @@ Runa ließ eine Pause liegen, die zu kurz war für Verlegenheit und zu lang für
 
 "Weil du nicht lachst."
 
-Alphina schaute auf das Flugblatt, weil das einfacher war, als Runa anzusehen. Eine Hand aus Eis auf dem Fuß. Die Zeile stand nirgends, aber sie hatte sich hinter Alphinas Stirn gesetzt und schlug Wurzeln.
+Alphina hob den Blick zu ihr, weil Wegsehen in diesem Moment eine Entscheidung gewesen wäre, die sie sich nicht leisten wollte. Runas Gesicht war näher, als sie es sich gemerkt hatte. Die Falten an den Mundwinkeln kamen vom Lachen, nicht von Sorge — dasselbe hatte sie am ersten Tag am Setzkasten gedacht, an einem Morgen, der in einem anderen Jahrhundert zu liegen schien. Jetzt war nichts Lachendes an dem Mund. Die Augen grün, ein Stück metallisches Grün, und der Blick ruhig.
 
-"Die meisten, denen ich irgendetwas von alldem erzähle, lachen. Oder sie schauen weg. Oder sie sagen, ich soll weniger arbeiten. Du hast den ersten Bogen vor zwei Wochen am Tresen liegen sehen, und du hast ihn drei Sätze lang gelesen und mir dann das Papier abgekauft, das du brauchtest, und auf dem Heimweg hast du den Bogen mitgenommen. Das hat sonst niemand getan." Runa legte die eine Hand auf das Flugblatt, die andere blieb auf dem Knie. "Außerdem ist da seit gestern noch etwas. Etwas, was ich nicht einordnen kann. Und ich wollte es dir erzählen, bevor ich es weitererzähle."
+Alphina schaute zurück auf das Flugblatt. Eine Hand aus Eis auf dem Fuß. Die Zeile stand nirgends, aber sie hatte sich hinter Alphinas Stirn gesetzt und schlug Wurzeln.
+
+Runa ließ das Schweigen einen Moment stehen, bevor sie fortfuhr.
+
+"Die meisten, denen ich irgendetwas von alldem erzähle, lachen. Oder sie schauen weg. Oder sie sagen, ich soll weniger arbeiten. Du hast den ersten Bogen vor zwei Wochen am Tresen liegen sehen, und du hast ihn drei Sätze lang gelesen und mir dann das Papier abgekauft, das du brauchtest, und auf dem Heimweg hast du den Bogen mitgenommen. Das hat sonst niemand getan." Runa legte die eine Hand auf das Flugblatt, die andere blieb auf dem Knie. Ihre Hände wussten nicht, was sie mit sich anfangen sollten, wenn sie nicht arbeiteten, dachte Alphina — wie junge Triebe, die nach Halt suchen. "Außerdem ist da seit gestern noch etwas. Etwas, was ich nicht einordnen kann. Und ich wollte es dir erzählen, bevor ich es weitererzähle."
 
 "Was?"
 
@@ -204,7 +204,7 @@ Alphina wartete.
 
 "Das war der erste Tag. Aber seitdem kommt er fast jeden Nachmittag wieder und arbeitet im Salon an Taschenuhren, die er aus der Stadt mitbringt. Und die Magd hat beobachtet — die Standuhr läuft jetzt auch richtig, wenn er überhaupt nur im Raum ist. Drei Meter weit weg am Reparaturtisch. Er hämmert an einer Ankerplatte, und die Standuhr verliert keine Sekunde. Er steht auf und geht in die Küche, sie fängt wieder an zu schleichen. Kommt zurück, sie ist wieder sauber. Vier Tage in Folge hat das die Magd jetzt gesehen. Sie wusste nicht mehr, wem sie es sagen soll, und gestern ist es aus ihr rausgebrochen, als sie bei mir Briefpapier holte. Ich war heute morgen selbst im Tidemoor-Haus, hab mit ihr eine halbe Stunde am Hinterausgang gestanden. Sie hat mir alles nochmal genauso erzählt, und dann hat sie mich gebeten, nichts in die Flugblätter zu setzen, weil Tidemoor ihr die Stelle kosten würde. Ich hab's versprochen."
 
-Etwas in Alphinas Brustkorb zog sich zusammen, eine Bewegung so klein, dass sie nichts verriet. Sie hielt den Gesichtsausdruck, weil Runa jetzt zu ihr schaute.
+Sie hielt den Gesichtsausdruck, weil Runa jetzt zu ihr schaute. Der Kiefer klemmte einen Augenblick lang, bevor sie ihn gehen ließ.
 
 "Ein Uhrmacher aus Karst."
 
@@ -222,7 +222,7 @@ Etwas in Alphinas Brustkorb zog sich zusammen, eine Bewegung so klein, dass sie 
 
 "Nein. Die Magd hat gesagt, er kommt heute wieder. Ich überleg, ob ich nachher rüber soll, aber Tidemoor mag keine Fremden in seinem Salon."
 
-Alphina schaute auf das Flugblatt, dann an Runa vorbei auf die Vogelhecke, die keine Vögel zeigte. Ihre Hand lag flach auf dem Holz der Bank, neben dem gedruckten Bogen, und sie fühlte, wie das Holz unter der Haut langsam wärmer wurde, weil ihr Körper wärmer wurde, nicht viel, aber spürbar. Ein Uhrmacher. Jemand, der im selben Raum sitzt wie ein Gegenstand, und der Gegenstand hört auf, falsch zu gehen. Sie wusste, was das war. Sie wusste es, ohne einen Namen dafür zu haben, der in ein Notizbuch gehört hätte. Sie tat dasselbe mit den Lavendelstecklingen und dem Klee am Wegrand und wahrscheinlich, ohne es gewollt zu haben, mit der Nordmauer-Reihe Asplenium. Sie war nicht die einzige.
+Alphina schaute auf das Flugblatt, dann an Runa vorbei auf die Vogelhecke, die keine Vögel zeigte. Ihre Hand lag flach auf dem Holz der Bank, neben dem gedruckten Bogen, und sie fühlte, wie das Holz unter der Haut langsam wärmer wurde, weil ihr Körper wärmer wurde, nicht viel, aber spürbar. Ein Uhrmacher. Jemand, der im selben Raum sitzt wie ein Gegenstand, und der Gegenstand hört auf, falsch zu gehen. Es ging durch Material wie eine Wurzel durch Beton — sie kannte die Bewegung aus den Lavendelstecklingen, aus dem Klee am Wegrand, aus der Nordmauer-Reihe Asplenium. Sie hatte keinen Namen dafür.
 
 Sie war nicht die einzige.
 
@@ -252,9 +252,11 @@ Sie war nicht die einzige.
 
 "Du fragst mich, ob ich mit dir zu einer Wäscherin gehe, die kurz eine Hand aus Eis auf dem Fuß gespürt hat."
 
-"Ich frage dich, ob du mit mir zu einer Frau gehst, die seit zwei Wochen nicht mehr gut schläft, weil sie etwas gespürt hat, das es nicht geben darf, und die niemanden hat, dem sie davon erzählen kann, weil jeder lacht. Ja. Genau das frage ich."
+"Ich frage dich, ob du mit mir zu einer Frau gehst, die seit zwei Wochen nicht mehr schläft. Sie hat eine Hand aus Eis auf dem Fuß gefühlt. Sie hat niemanden. Jeder lacht. Ja. Genau das frage ich."
 
-Alphina drehte das Flugblatt zwischen ihren Fingern. Runa war währenddessen näher gerückt. Nicht dramatisch — eine halbe Hand, ein Stück, das nicht ausgesprochen wurde. Die Wärme der Frau auf der Bank kam jetzt durch den Stoff des Mantels durch, gegen Alphinas Oberarm, und es war eine Wärme, die nicht stimmte. Es war Mai. Es war kühl. Runa brauchte einen Mantel und strahlte trotzdem. Alphina rückte nicht weg. Sie rückte nicht hin. Sie blieb auf dem Punkt, an dem sie saß, weil sich Bewegung in beide Richtungen erklärt hätte und sie nichts erklären wollte.
+Alphina drehte das Flugblatt zwischen ihren Fingern. Runa war währenddessen näher gerückt. Nicht dramatisch — eine halbe Hand, ein Stück, das nicht ausgesprochen wurde. Die Wärme der Frau auf der Bank kam jetzt durch den Stoff des Mantels durch, gegen Alphinas Oberarm, und es war eine Wärme, die nicht stimmte. Es war Mai. Es war kühl. Runa brauchte einen Mantel und strahlte trotzdem. Alphinas Atem ging einen halben Takt flacher, und sie korrigierte ihn, bevor Runa es sehen konnte. Ein einzelnes Schlucken, das nichts hinunterzubefördern hatte. Sie rückte nicht weg. Sie rückte nicht hin. Sie blieb auf dem Punkt, an dem sie saß, weil sich Bewegung in beide Richtungen erklärt hätte und sie nichts erklären wollte.
+
+Jemand hatte einmal von einer Mauer gesprochen. Laris, eine andere Stadt, ein anderes Leben, eine Hand auf ihrem Bauch, die sie zurückgelegt hatte auf seine Seite. *Was ist hinter der Mauer, Alphina?* Der Satz kam unangekündigt, legte sich kurz auf die Bank neben sie, und ging wieder. Sie ließ ihn gehen.
 
 "Komm morgen vorbei. In den Anker. Vormittags."
 
@@ -262,7 +264,7 @@ Alphina drehte das Flugblatt zwischen ihren Fingern. Runa war währenddessen nä
 
 "Nach neun reicht."
 
-"Gut." Runa schob den Stapel zurück in den Korb, behielt zwei gefaltete Bögen in der Hand, drückte sie Alphina vorsichtig gegen die Innenseite des Handgelenks, statt sie ihr in die Handfläche zu legen. Eine Sekunde Hautkontakt — Runas Fingerspitzen an dem schmalen Stück Haut zwischen Ärmelkante und Daumenwurzel. Heiß. Spürbar heißer als die eigene Hand. Heißer, als die Hand einer Frau Anfang Mai sein sollte, die eine halbe Stunde in einem Garten saß. Alphinas Körper registrierte es, bevor ihr Verstand die Frage stellen konnte. Die Stelle behielt die andere Temperatur einige Atemzüge.
+"Gut." Runa schob den Stapel zurück in den Korb, behielt zwei gefaltete Bögen in der Hand, drückte sie Alphina vorsichtig gegen die Innenseite des Handgelenks, statt sie ihr in die Handfläche zu legen. Eine Sekunde Hautkontakt — Runas Fingerspitzen an dem schmalen Stück Haut zwischen Ärmelkante und Daumenwurzel. Die Stelle war dünn. Alphina wusste das jetzt auf eine Weise, die sie vorher nicht gewusst hatte — eine Stelle, an der die Haut kaum über dem Puls lag, eine Stelle, die ein Mensch nicht beiläufig berührte, wenn er die andere kennen wollte. Die Wärme kam erst danach, und sie kam deutlich: heißer als die eigene Hand, heißer, als die Hand einer Frau Anfang Mai sein sollte, die eine halbe Stunde in einem Garten saß. Alphinas Körper registrierte beides, bevor ihr Verstand die Frage stellen konnte. Die Stelle behielt die andere Temperatur einige Atemzüge.
 
 "Wenn du noch was siehst, das nicht passieren sollte", sagte Runa und stand auf, den Korb wieder über dem Arm, "komm zur Druckerei. Ich bin spät nachts noch da."
 
@@ -298,7 +300,7 @@ Sie ging die Hauptgasse hinab, Richtung Hafen, denselben Weg, den sie an jedem N
 
 Ein Uhrmacher. Aus Karst.
 
-Sie hatte das Wort im Kopf wie einen Fremdkörper. Es war nicht neu — Uhrmacher gab es überall, auch in Vael, auch in Karst, auch in Velde, und sie hatte keine Meinung zu Uhren. Es war der Satz dahinter, den Runa gesagt hatte und der unter dem Wort lag: *ein Mann, der in einen Raum kommt, und eine Uhr hört auf, falsch zu gehen.* Das war keine Uhrmacherei. Das war das, was sie mit den Lavendelstecklingen tat, nur in einem anderen Material. Sie hatte es immer gewusst, ohne es zu wissen, dass sie nicht die Einzige sein konnte. Die Welt war zu groß für eine einzelne Hand. Aber Wissen und Wissen waren zwei verschiedene Sachen. Zu wissen, dass sie es nicht war, war das eine. Zu wissen, dass ein Mann seit Wochen drei Gassen weiter an einem Reparaturtisch saß und eine alte Standuhr mit seiner bloßen Anwesenheit auf den Takt brachte, war das andere. Das andere hatte einen Körper und eine Adresse. Das andere konnte man ansprechen.
+Sie hatte das Wort im Kopf wie einen Fremdkörper. Es war nicht neu — Uhrmacher gab es überall, auch in Vael, auch in Karst, auch in Velde, und sie hatte keine Meinung zu Uhren. Es war der Satz dahinter, den Runa gesagt hatte und der unter dem Wort lag: *ein Mann, der in einen Raum kommt, und eine Uhr hört auf, falsch zu gehen.* Das war keine Uhrmacherei. Das war das, was sie mit den Lavendelstecklingen tat, nur in einem anderen Material. Ein Mann. Drei Gassen weiter. An einem Reparaturtisch. Das andere hatte einen Körper und eine Adresse. Das andere konnte man ansprechen.
 
 Sie musste ihn finden.
 
@@ -328,13 +330,15 @@ Sie senkte den Kopf wieder. Aus dem Augenwinkel: drei Formen, in derselben Anord
 
 Etwas in ihrem Brustkorb klappte zu — eine Tür, die sie selten verwendete und an die sie sich nicht erinnert hatte, seit sie elf Jahre alt war und ein Pferd gesehen hatte, das sich selbst die Beine brach. Ihre Lungen wurden flacher. Sie zwang sie tiefer. Atmen war eine Tätigkeit, die man üben konnte. Sie hatte es geübt.
 
+Der Mund wurde trocken, so plötzlich, dass sie das Trockene schmeckte, bevor sie den Speichel vermisste. Ihre Kopfhaut zog sich an einer Stelle zusammen, dort wo sie die Haare hochgesteckt hatte, als fiele der Nacken ein halbes Zoll tiefer. Zwischen den Zähnen lag etwas, das sie nicht dort hingelegt hatte, ein Geschmack wie Blei.
+
 *Nicht rennen.* Der Gedanke kam aus der Pflanzen-Logik, die sie kannte: ein Halm, der zitterte, lockte das Tier. Die Dinge, die jagten, kannten den Unterschied zwischen Schritt und Flucht.
 
 Sie ging in ihrem Tempo. Den Kopf gesenkt. Die Hand in der Manteltasche um das Notizbuch geschlossen, als wäre das ein Werkzeug, das in dieser Lage etwas hätte ausrichten können. Sie wusste, dass es nichts ausrichten konnte. Aber Hände waren ein Geländer, und sie nahm das Geländer.
 
 An einer Querstraße, die hoch zur Druckerei führte, schlug ihr für einen Moment ein anderer Geruch ins Gesicht. Süßlich. Dicht. Derselbe Geruch wie zwischen den Beeten im Garten, derselbe Geruch wie aus den Mauerritzen an der Nordmauer. Hier, mitten in der Stadt, drei Straßen vom Garten entfernt. Einen Atemzug lang. Dann war er weg, und der normale Vaeler Geruch war zurück, Salz und nasser Stein und die Kohle aus den Kaminen.
 
-Sie versuchte einen Gedanken, der aus dem Garten kam. Bei den Farnen war das Drängen eine Form gewesen, die aus ihrem Brustkorb kam und durch ihre Hand ging. Hier in der Gasse gab es keine Pflanzen, auf die sie hätte zielen können. Aber sie hatte das Drängen trotzdem. Sie richtete es auf die Dachrinnen, auf die peripheren Formen, auf die Augenpaare, die sie nicht ansehen konnte ohne sie zu verlieren. *Weg.* Nur das Wort, ohne Anhang, so nackt, wie sie konnte.
+Sie versuchte einen Gedanken, der aus dem Garten kam. Bei den Farnen war die Form aus ihrem Brustkorb gekommen und durch die Hand in das Material gegangen. Hier in der Gasse gab es keine Pflanzen, in die sie zielen konnte. Aber sie hatte die Form trotzdem. Sie richtete sie auf die Dachrinnen, auf die peripheren Formen, auf die Augenpaare, die sie nicht ansehen konnte ohne sie zu verlieren. *Weg.* Nur das Wort, ohne Anhang, so nackt, wie sie konnte.
 
 Nichts. Sie merkte nichts. Vielleicht lag es daran, dass sie sie nicht sah. Vielleicht waren diese Dinge kein Material für sie, so wie Stein kein Material für sie war. Sie wusste es nicht. Sie hörte auf, es zu versuchen, und ging.
 
@@ -370,11 +374,9 @@ Der Kalk an der Wand des Anker-Zimmers roch nach altem Putz. Aus dem Erdgeschoss
 
 Sie ging zum Tisch. Setzte sich nicht. Schlug das Notizbuch auf, an der Stelle, an der sie es im Garten zugemacht hatte, mit der Asplenium-Notiz oben auf der freien Seite. Sie las die Notiz einmal, ohne Bleistift in der Hand. Dann schlug sie das Buch zu und legte es auf das Flugblatt, damit das Flugblatt nicht mehr sichtbar war. Heute Abend schrieb sie nichts. Alles, was sie heute Nachmittag erfahren hatte, saß im Körper und nicht in Sätzen, und sie hatte in den letzten drei Wochen gelernt, dass manche Dinge von Sätzen kleiner wurden, nicht größer.
 
-Stein, Hand, warm. Ein Drängen aus dem Körper, das in Pflanzen ging. Ein Uhrmacher, drei Gassen weiter, unter dessen Hand eine Uhr aufhörte, falsch zu gehen. Etwas, das auf Dachkanten saß, solange sie wegschaute. Der vierte Geruch, der keine Sprache hatte. Die Stelle an ihrem Handgelenk, die wärmer gewesen war als der Rest.
-
 Sie ging zurück zum Fenster. Nahm den Vorhang in die Hand, um ihn zuzuziehen. Schaute ein letztes Mal hinaus.
 
-Über der Stadt, in Richtung der Oberstadt, in Richtung des Gartens, war der Himmel dunkler als über dem Hafen. Nicht viel. Aber die Häuser dort drüben standen vor einem Schwarz, das ein Stück vor den Sternen lag, ein Stück vor der Nacht, eine Schicht, in der das Licht hängenblieb, statt durchzukommen. Sie wusste, dass das eine Einbildung sein konnte. Sie wusste, dass die Wahrnehmung in der Dämmerung fehlerhaft war, dass die Augen in dieser Stunde Dinge sahen, die nicht da waren. Sie wusste auch, dass sie heute Nachmittag eine Hand auf einen warmen Stein gelegt hatte und ein Drängen gespürt hatte, das nicht ihres gewesen war, und dass es in dieser Stadt noch einen anderen Menschen gab, dessen Hand Dinge bewegte, ohne sie zu berühren.
+Über der Stadt, in Richtung der Oberstadt, in Richtung des Gartens, war der Himmel dunkler als über dem Hafen. Nicht viel. Aber die Häuser dort drüben standen vor einem Schwarz, das ein Stück vor den Sternen lag, ein Stück vor der Nacht, eine Schicht, in der das Licht hängenblieb, statt durchzukommen. Eine Einbildung, vielleicht. Die Dämmerung log. Ihre linke Hand lag auf der Fensterbank und war warm. Eine Hand aus Eis hatte auf dem Fuß einer Wäscherin gelegen. Drei Gassen weiter saß ein Mann an einem Tisch. Etwas saß auf Dachkanten, wenn sie wegschaute. Nichts davon war Einbildung.
 
 Sie zog den Vorhang zu.
 
@@ -388,6 +390,12 @@ Sie drückte die Klinke nicht. Nicht heute. Nicht so. Sie war müde, und ihre Ha
 
 Sie drehte die Klinke wieder in die Ruheposition. Ging zwei Schritte zurück ins Zimmer. Setzte sich aufs Bett.
 
-Im Erdgeschoss lachte einer der Männer am linken Tisch. Ein kurzes, hartes Lachen, das durch die Decke kam und gleich wieder verstummte. Die anderen Geräusche blieben, was sie waren — Stühle, Gläser, ein Husten, Schritte an der Theke. Ganz leise, am Rand ihres Hörens, aus derselben Richtung wie der Tisch rechts, kam das feine metallische Ticken einer kleinen Taschenuhr, die jemand gerade auf das Holz gelegt hatte.
+Im Erdgeschoss lachte einer der Männer am linken Tisch. Ein kurzes, hartes Lachen, das durch die Decke kam und gleich wieder verstummte. Die anderen Geräusche blieben, was sie waren — Stühle, Gläser, ein Husten, Schritte an der Theke.
 
-Sie schloss die Augen. Sie hörte eine Weile nur zu.
+Dann Schritte auf der Treppe. Einer, allein, langsam, gleichmäßig, ohne Eile. Sie hob den Kopf und folgte ihnen durch die Decke — die Treppe hoch, an ihrer Tür vorbei, weiter den Flur entlang. Eine andere Tür ging auf, zwei Türen weiter auf derselben Seite. Ging wieder zu. Kein Riegel, kein lauter Schritt, die Gewohnheit eines Menschen, der spät kam und niemanden wecken wollte. Dann Stille.
+
+Sie hielt den Atem an, ohne es gewollt zu haben.
+
+Durch die Wand, gedämpft, aber deutlich — weil das Zimmer nebenan still war und das ihre still war und die alten Gasthauswände dünn waren wie Bogenpapier — kam ein feines metallisches Ticken. Eine kleine Taschenuhr, gerade auf ein Holz gelegt. Einmal, zweimal, dreimal, ein Takt, der so regelmäßig war, wie ein Takt nur sein kann, wenn ein Uhrmacher ihn vor sich liegen hat.
+
+Sie schloss die Augen. Sie hörte eine Weile nur zu. Sie verband nichts. Sie musste nichts verbinden. Morgen war noch Zeit.

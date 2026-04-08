@@ -1,24 +1,28 @@
 # Alphina — Szene 2
 
-Runa Kvist kam den Hauptweg hoch, ohne zu zögern, mit einem Korb über dem Arm und einem Stapel Flugblätter unter dem Korb und einem Mantel, der eine Nummer zu groß war. Der Mantel gehörte ihr wahrscheinlich nicht. Die Schultern hingen daran, die Ärmel waren zweimal umgekrempelt, und an dem Ärmel, der nicht den Korb hielt, zog sich ein dunkler Streifen entlang, der nichts mit dem Mantel zu tun hatte.
+Runa Kvist kam den Hauptweg hoch, ohne zu zögern, mit einem Korb über dem Arm und einem Stapel Flugblätter unter dem Korb und einem Mantel, der eine Nummer zu groß war. Der Mantel gehörte ihr wahrscheinlich nicht. Die Schultern hingen daran, die Ärmel waren zweimal umgekrempelt, und an dem zurückgeschlagenen Ärmel — der, der nicht den Korb hielt — war der Unterarm zu sehen bis zur Mitte. Die Haut dort war weißer als bei einer Frau, die draußen arbeitete, aber die Innenseite des Handgelenks und die Handwurzel waren schwarz. Druckerschwärze, tief in die Poren gearbeitet, die Haut darunter durchscheinend dass man die Adern sah. Am Hals, wo der Mantelkragen aufstand, lief eine Sehne, wenn Runa den Kopf drehte.
 
 "Im Anker haben sie gesagt, du bist nachmittags hier." Sie blieb drei Schritte vor Alphina stehen, an der Südseite des Hügels, knapp hinter der Buchsbaumöffnung. Sie atmete einmal aus. "Ich brauch fünfzehn Minuten. Können wir uns hinsetzen?"
 
-"Guten Tag." Alphina trat von der Steinkante zurück, weg vom Kreis, weil sie ihn nicht im Blickfeld haben wollte, wenn sie jemandem gegenübersaß, den sie zu lesen hatte. "Am Ende vom Hauptweg ist eine Bank."
+"Guten Tag, Runa." Alphina trat von der Steinkante zurück, weg vom Kreis, weil sie ihn nicht im Blickfeld haben wollte, wenn sie jemandem gegenübersaß, den sie zu lesen hatte. "Am Ende des Hauptweges ist eine Bank. Komm."
 
-"Dann los." Runa drehte sich um und ging voraus, einfach so, ohne zu warten. Sie machte das in der Druckerei auch — sie entschied sich für die Richtung und ging. Andere liefen hinterher oder nicht. Alphina lief hinterher.
+Es war sie, die voranging. Am ersten Tag, beim Papierkauf in der Druckerei, hatte sie Runa noch gesiezt und mit dem Rücken zur Tür geantwortet; irgendwo zwischen jenem Tresen und dem hier, zwischen Runas zu lauten Worten und einem Satz, den sie vergessen hatte, war das Sie abhanden gekommen, und sie wusste nicht, wer von beiden es fallen gelassen hatte. Jetzt ging das Du zwischen ihnen wie etwas, das sie ohne Verabredung übernommen hatten. Sie führte Runa am Hauptweg entlang, wählte die Bank am Ende — die mit Blick auf das Treibhaus zwei, weil das Treibhaus harmloser war als der Hügel — und setzte sich zuerst.
 
-Die Bank stand am Ende des Hauptweges, vor dem Treibhaus zwei. Das Holz war abgewetzt an zwei Stellen, dort wo Hintern die Sitzfläche glatt gemacht hatten, im Lauf der Jahre. Sie setzten sich. Runa nahm den Korb vom Arm, stellte ihn zwischen ihre Füße, und hob den Stapel Flugblätter heraus. Das oberste war noch leicht klamm, der Druck nicht ganz trocken. Alphina roch es, bevor sie es sah. Heißes Blei, ölige Schwärze, das Papier leicht feucht vom Presswerk. Druckerei in einem Korb.
+Das Holz der Bank war abgewetzt an zwei Stellen, dort wo im Lauf der Jahre Hintern die Sitzfläche glatt gemacht hatten. Runa setzte sich daneben, nahm den Korb vom Arm, stellte ihn zwischen ihre Füße und wollte den Stapel Flugblätter herausheben. Alphina legte eine Hand auf den Korbrand.
 
-Runa legte den Stapel zwischen sie.
+"Lass mich das in Ruhe tun. Erst atmen."
+
+Runa ließ die Hand sinken, überrascht für den halben Atemzug, dann einverstanden. Alphina nahm selbst den Stapel heraus, langsam, und legte ihn zwischen sie auf die Bank. Das oberste Blatt war noch leicht klamm, der Druck nicht ganz trocken. Heißes Blei, ölige Schwärze, das Papier leicht feucht vom Presswerk. Druckerei in einem Korb.
 
 "Lies das. Sag mir, ob ich verrückt bin."
 
 "Das kann ich nicht beurteilen."
 
-"Doch, genau du." Runa sagte es ohne Schärfe, mit derselben Direktheit, mit der sie in der Druckerei nach dem Papier gefragt hatte. Dünnes oder dickes. Hadernpapier, Stahlfeder, ja oder nein. "Lies."
+"Doch, genau du." Runa sagte es ohne Schärfe, mit derselben Direktheit, mit der sie in der Druckerei nach dem Papier gefragt hatte. Dünnes oder dickes. Hadernpapier, Stahlfeder, ja oder nein.
 
-Alphina nahm das oberste Blatt. Es war einfach gesetzt, zwei Spalten, der Titel in einer Schrift, die einen halben Punkt zu groß war, weil Runa es so gewollt hatte, oder weil ihr der Setzkasten kein Kleineres bot.
+"Ich lese es, wenn ich soweit bin." Alphina legte die Hand auf den Stapel und ließ sie dort. Runa hielt den Mund. Das funktionierte. Ein paar Atemzüge lang war im Garten nichts als das ferne Geräusch von Henriks Schaufel und der schmale Wind in der Buchsbaumhecke, dann nahm Alphina das oberste Blatt.
+
+Das Blatt in ihrer Hand war einfach gesetzt, zwei Spalten, der Titel in einer Schrift, die einen halben Punkt zu groß war, weil Runa es so gewollt hatte, oder weil ihr der Setzkasten kein Kleineres bot.
 
 *VAELS GEISTER — Beobachtungen einer Druckerin. Zweite Folge.*
 
@@ -54,9 +58,13 @@ Runa ließ eine Pause liegen, die zu kurz war für Verlegenheit und zu lang für
 
 "Weil du nicht lachst."
 
-Alphina schaute auf das Flugblatt, weil das einfacher war, als Runa anzusehen. Eine Hand aus Eis auf dem Fuß. Die Zeile stand nirgends, aber sie hatte sich hinter Alphinas Stirn gesetzt und schlug Wurzeln.
+Alphina hob den Blick zu ihr, weil Wegsehen in diesem Moment eine Entscheidung gewesen wäre, die sie sich nicht leisten wollte. Runas Gesicht war näher, als sie es sich gemerkt hatte. Die Falten an den Mundwinkeln kamen vom Lachen, nicht von Sorge — dasselbe hatte sie am ersten Tag am Setzkasten gedacht, an einem Morgen, der in einem anderen Jahrhundert zu liegen schien. Jetzt war nichts Lachendes an dem Mund. Die Augen grün, ein Stück metallisches Grün, und der Blick ruhig.
 
-"Die meisten, denen ich irgendetwas von alldem erzähle, lachen. Oder sie schauen weg. Oder sie sagen, ich soll weniger arbeiten. Du hast den ersten Bogen vor zwei Wochen am Tresen liegen sehen, und du hast ihn drei Sätze lang gelesen und mir dann das Papier abgekauft, das du brauchtest, und auf dem Heimweg hast du den Bogen mitgenommen. Das hat sonst niemand getan." Runa legte die eine Hand auf das Flugblatt, die andere blieb auf dem Knie. "Außerdem ist da seit gestern noch etwas. Etwas, was ich nicht einordnen kann. Und ich wollte es dir erzählen, bevor ich es weitererzähle."
+Alphina schaute zurück auf das Flugblatt. Eine Hand aus Eis auf dem Fuß. Die Zeile stand nirgends, aber sie hatte sich hinter Alphinas Stirn gesetzt und schlug Wurzeln.
+
+Runa ließ das Schweigen einen Moment stehen, bevor sie fortfuhr.
+
+"Die meisten, denen ich irgendetwas von alldem erzähle, lachen. Oder sie schauen weg. Oder sie sagen, ich soll weniger arbeiten. Du hast den ersten Bogen vor zwei Wochen am Tresen liegen sehen, und du hast ihn drei Sätze lang gelesen und mir dann das Papier abgekauft, das du brauchtest, und auf dem Heimweg hast du den Bogen mitgenommen. Das hat sonst niemand getan." Runa legte die eine Hand auf das Flugblatt, die andere blieb auf dem Knie. Ihre Hände wussten nicht, was sie mit sich anfangen sollten, wenn sie nicht arbeiteten, dachte Alphina — wie junge Triebe, die nach Halt suchen. "Außerdem ist da seit gestern noch etwas. Etwas, was ich nicht einordnen kann. Und ich wollte es dir erzählen, bevor ich es weitererzähle."
 
 "Was?"
 
@@ -86,7 +94,7 @@ Alphina wartete.
 
 "Das war der erste Tag. Aber seitdem kommt er fast jeden Nachmittag wieder und arbeitet im Salon an Taschenuhren, die er aus der Stadt mitbringt. Und die Magd hat beobachtet — die Standuhr läuft jetzt auch richtig, wenn er überhaupt nur im Raum ist. Drei Meter weit weg am Reparaturtisch. Er hämmert an einer Ankerplatte, und die Standuhr verliert keine Sekunde. Er steht auf und geht in die Küche, sie fängt wieder an zu schleichen. Kommt zurück, sie ist wieder sauber. Vier Tage in Folge hat das die Magd jetzt gesehen. Sie wusste nicht mehr, wem sie es sagen soll, und gestern ist es aus ihr rausgebrochen, als sie bei mir Briefpapier holte. Ich war heute morgen selbst im Tidemoor-Haus, hab mit ihr eine halbe Stunde am Hinterausgang gestanden. Sie hat mir alles nochmal genauso erzählt, und dann hat sie mich gebeten, nichts in die Flugblätter zu setzen, weil Tidemoor ihr die Stelle kosten würde. Ich hab's versprochen."
 
-Etwas in Alphinas Brustkorb zog sich zusammen, eine Bewegung so klein, dass sie nichts verriet. Sie hielt den Gesichtsausdruck, weil Runa jetzt zu ihr schaute.
+Sie hielt den Gesichtsausdruck, weil Runa jetzt zu ihr schaute. Der Kiefer klemmte einen Augenblick lang, bevor sie ihn gehen ließ.
 
 "Ein Uhrmacher aus Karst."
 
@@ -104,7 +112,7 @@ Etwas in Alphinas Brustkorb zog sich zusammen, eine Bewegung so klein, dass sie 
 
 "Nein. Die Magd hat gesagt, er kommt heute wieder. Ich überleg, ob ich nachher rüber soll, aber Tidemoor mag keine Fremden in seinem Salon."
 
-Alphina schaute auf das Flugblatt, dann an Runa vorbei auf die Vogelhecke, die keine Vögel zeigte. Ihre Hand lag flach auf dem Holz der Bank, neben dem gedruckten Bogen, und sie fühlte, wie das Holz unter der Haut langsam wärmer wurde, weil ihr Körper wärmer wurde, nicht viel, aber spürbar. Ein Uhrmacher. Jemand, der im selben Raum sitzt wie ein Gegenstand, und der Gegenstand hört auf, falsch zu gehen. Sie wusste, was das war. Sie wusste es, ohne einen Namen dafür zu haben, der in ein Notizbuch gehört hätte. Sie tat dasselbe mit den Lavendelstecklingen und dem Klee am Wegrand und wahrscheinlich, ohne es gewollt zu haben, mit der Nordmauer-Reihe Asplenium. Sie war nicht die einzige.
+Alphina schaute auf das Flugblatt, dann an Runa vorbei auf die Vogelhecke, die keine Vögel zeigte. Ihre Hand lag flach auf dem Holz der Bank, neben dem gedruckten Bogen, und sie fühlte, wie das Holz unter der Haut langsam wärmer wurde, weil ihr Körper wärmer wurde, nicht viel, aber spürbar. Ein Uhrmacher. Jemand, der im selben Raum sitzt wie ein Gegenstand, und der Gegenstand hört auf, falsch zu gehen. Es ging durch Material wie eine Wurzel durch Beton — sie kannte die Bewegung aus den Lavendelstecklingen, aus dem Klee am Wegrand, aus der Nordmauer-Reihe Asplenium. Sie hatte keinen Namen dafür.
 
 Sie war nicht die einzige.
 
@@ -134,9 +142,11 @@ Sie war nicht die einzige.
 
 "Du fragst mich, ob ich mit dir zu einer Wäscherin gehe, die kurz eine Hand aus Eis auf dem Fuß gespürt hat."
 
-"Ich frage dich, ob du mit mir zu einer Frau gehst, die seit zwei Wochen nicht mehr gut schläft, weil sie etwas gespürt hat, das es nicht geben darf, und die niemanden hat, dem sie davon erzählen kann, weil jeder lacht. Ja. Genau das frage ich."
+"Ich frage dich, ob du mit mir zu einer Frau gehst, die seit zwei Wochen nicht mehr schläft. Sie hat eine Hand aus Eis auf dem Fuß gefühlt. Sie hat niemanden. Jeder lacht. Ja. Genau das frage ich."
 
-Alphina drehte das Flugblatt zwischen ihren Fingern. Runa war währenddessen näher gerückt. Nicht dramatisch — eine halbe Hand, ein Stück, das nicht ausgesprochen wurde. Die Wärme der Frau auf der Bank kam jetzt durch den Stoff des Mantels durch, gegen Alphinas Oberarm, und es war eine Wärme, die nicht stimmte. Es war Mai. Es war kühl. Runa brauchte einen Mantel und strahlte trotzdem. Alphina rückte nicht weg. Sie rückte nicht hin. Sie blieb auf dem Punkt, an dem sie saß, weil sich Bewegung in beide Richtungen erklärt hätte und sie nichts erklären wollte.
+Alphina drehte das Flugblatt zwischen ihren Fingern. Runa war währenddessen näher gerückt. Nicht dramatisch — eine halbe Hand, ein Stück, das nicht ausgesprochen wurde. Die Wärme der Frau auf der Bank kam jetzt durch den Stoff des Mantels durch, gegen Alphinas Oberarm, und es war eine Wärme, die nicht stimmte. Es war Mai. Es war kühl. Runa brauchte einen Mantel und strahlte trotzdem. Alphinas Atem ging einen halben Takt flacher, und sie korrigierte ihn, bevor Runa es sehen konnte. Ein einzelnes Schlucken, das nichts hinunterzubefördern hatte. Sie rückte nicht weg. Sie rückte nicht hin. Sie blieb auf dem Punkt, an dem sie saß, weil sich Bewegung in beide Richtungen erklärt hätte und sie nichts erklären wollte.
+
+Jemand hatte einmal von einer Mauer gesprochen. Laris, eine andere Stadt, ein anderes Leben, eine Hand auf ihrem Bauch, die sie zurückgelegt hatte auf seine Seite. *Was ist hinter der Mauer, Alphina?* Der Satz kam unangekündigt, legte sich kurz auf die Bank neben sie, und ging wieder. Sie ließ ihn gehen.
 
 "Komm morgen vorbei. In den Anker. Vormittags."
 
@@ -144,7 +154,7 @@ Alphina drehte das Flugblatt zwischen ihren Fingern. Runa war währenddessen nä
 
 "Nach neun reicht."
 
-"Gut." Runa schob den Stapel zurück in den Korb, behielt zwei gefaltete Bögen in der Hand, drückte sie Alphina vorsichtig gegen die Innenseite des Handgelenks, statt sie ihr in die Handfläche zu legen. Eine Sekunde Hautkontakt — Runas Fingerspitzen an dem schmalen Stück Haut zwischen Ärmelkante und Daumenwurzel. Heiß. Spürbar heißer als die eigene Hand. Heißer, als die Hand einer Frau Anfang Mai sein sollte, die eine halbe Stunde in einem Garten saß. Alphinas Körper registrierte es, bevor ihr Verstand die Frage stellen konnte. Die Stelle behielt die andere Temperatur einige Atemzüge.
+"Gut." Runa schob den Stapel zurück in den Korb, behielt zwei gefaltete Bögen in der Hand, drückte sie Alphina vorsichtig gegen die Innenseite des Handgelenks, statt sie ihr in die Handfläche zu legen. Eine Sekunde Hautkontakt — Runas Fingerspitzen an dem schmalen Stück Haut zwischen Ärmelkante und Daumenwurzel. Die Stelle war dünn. Alphina wusste das jetzt auf eine Weise, die sie vorher nicht gewusst hatte — eine Stelle, an der die Haut kaum über dem Puls lag, eine Stelle, die ein Mensch nicht beiläufig berührte, wenn er die andere kennen wollte. Die Wärme kam erst danach, und sie kam deutlich: heißer als die eigene Hand, heißer, als die Hand einer Frau Anfang Mai sein sollte, die eine halbe Stunde in einem Garten saß. Alphinas Körper registrierte beides, bevor ihr Verstand die Frage stellen konnte. Die Stelle behielt die andere Temperatur einige Atemzüge.
 
 "Wenn du noch was siehst, das nicht passieren sollte", sagte Runa und stand auf, den Korb wieder über dem Arm, "komm zur Druckerei. Ich bin spät nachts noch da."
 

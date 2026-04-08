@@ -1,7 +1,7 @@
 # Alphina — Szene 1
 
 
-Die Lavendelstecklinge waren am dritten Tag bereit, und am dritten Tag kniete sie zwischen den Beeten der westlichen Anlage und sortierte sie in zwei Schalen. Die linke für die Triebe mit der besten Bewurzelung, die rechte für jene, die noch warten mussten. Die Erde unter ihren Knien war feucht von der Mittagsbewässerung; ein dunkler Fleck zog sich quer über den Stoff ihres Rocks. Sie hatte das Kniepolster, das Henrik ihr in der ersten Woche geliehen hatte, am Komposthaufen liegen lassen. Sie wusste, wo es lag. Sie hatte es gesehen, als sie kam. Sie hatte es nicht geholt. Manchmal wollte sie die Erde direkt am Knochen, weil die Erde in diesem Garten anders sprach, wenn nichts dazwischen war.
+Die Lavendelstecklinge waren am dritten Tag bereit, und am dritten Tag kniete sie zwischen den Beeten der westlichen Anlage und sortierte sie in zwei Schalen. Die linke für die Triebe mit der besten Bewurzelung, die rechte für jene, die noch warten mussten. Die Erde unter ihren Knien war feucht von der Mittagsbewässerung; ein dunkler Fleck zog sich quer über den Stoff ihres Rocks. Die Luft war kühl für Mai, die Feuchtigkeit des Vormittags hing noch zwischen den Büschen und legte sich als feiner Film auf den Nacken, dort wo die Haare hochgesteckt waren. An ihrem Unterarm, wo der Ärmel beim Sortieren zurückgerutscht war, stand die Haut in Gänsehaut. Sie hatte das Kniepolster, das Henrik ihr in der ersten Woche geliehen hatte, am Komposthaufen liegen lassen. Sie wusste, wo es lag. Sie hatte es gesehen, als sie kam. Sie hatte es nicht geholt. Manchmal wollte sie die Erde direkt am Knochen, weil die Erde in diesem Garten anders sprach, wenn nichts dazwischen war.
 
 Sechs Wochen und zwei Tage. So lange war sie jetzt in Vael, und drei Wochen davon kam sie jeden Nachmittag in diesen Garten. Am ersten Tag hatte Runa sie aus der Druckerei hergeschickt — *Farne so hoch wie ich* — und am dritten Tag hatte Alphina dort gestanden, zwischen den Wedeln an der nördlichen Mauer, und ihren Körper zum ersten Mal nicht mehr unter Kontrolle gehabt, nicht wirklich. Sie hatte sich hingesetzt. Eine Stunde. Dann war Henrik gekommen, hatte sie dort angetroffen, und hatte nichts gesagt. Erst als sie aufstand und sich vorstellte, hatte er gefragt, ob sie eine Handbreit vom Asplenium mitnehmen wolle für ihre Mappe, und das war sein Weg gewesen, sie einzuladen.
 
@@ -13,7 +13,7 @@ Ein Stängel in der rechten Schale hatte keine Bewurzelung. Sie legte die Handfl
 
 Sie legte den Stängel in die linke Schale.
 
-Beim dritten Mal, vor zwei Wochen, hatte sie die Hand zurückgezogen und zwei Stunden lang nicht mehr in den Garten gehen können. Beim vierten Mal hatte sie es wiederholt, weil sie es verstehen wollte. Sie verstand es noch nicht. Sie wusste nur, was ging und was nicht. Dass ein Steckling schneller wurzelte, wenn sie ihre Hand darüber hielt und etwas dachte, das keine Sprache war, sondern ein Drängen. Dass das Gras am Wegrand dort verdorrte, wo sie im Vorübergehen ein *nicht hier* im Kopf gehabt hatte — ein schmaler Streifen, einen Schuh breit, der dem Weg folgte und den Henrik vor einer Woche bemerkt und beiläufig kommentiert hatte: *komisch, da wächst nichts mehr, nicht mal der Hahnenfuß*. Dass die kleine Ahornsaat am Rand des Kompostes überraschend schnell ein zweites Blatt gezeigt hatte, nachdem sie eine Stunde daneben gekniet und an Ahorne in Velde gedacht hatte. Jedes Experiment war still. Sie schrieb keines auf. Es gab eine Linie, und die Linie hatte sich in Vael verschoben, und das war der Teil, den sie sich eingestand. Mehr war für später.
+Beim dritten Mal, vor zwei Wochen, hatte sie die Hand zurückgezogen und zwei Stunden lang nicht mehr in den Garten gehen können. Beim vierten Mal hatte sie es wiederholt, weil sie es verstehen wollte. Sie verstand es noch nicht. Sie wusste nur, was ging und was nicht. Dass ein Steckling schneller wurzelte, wenn sie ihre Hand darüber hielt und in sich etwas hielt, das keine Sprache war — etwas, das sich in den Unterarmen schloss wie eine Faust um eine Wurzel, die sie nicht sah. Dass das Gras am Wegrand dort verdorrte, wo sie im Vorübergehen ein *nicht hier* im Kopf gehabt hatte — ein schmaler Streifen, einen Schuh breit, der dem Weg folgte und den Henrik vor einer Woche bemerkt und beiläufig kommentiert hatte: *komisch, da wächst nichts mehr, nicht mal der Hahnenfuß*. Dass die kleine Ahornsaat am Rand des Kompostes überraschend schnell ein zweites Blatt gezeigt hatte, nachdem sie eine Stunde daneben gekniet und an Ahorne in Velde gedacht hatte. Jedes Experiment war still. Sie schrieb keines auf. Es gab eine Linie, und die Linie hatte sich in Vael verschoben, und das war der Teil, den sie sich eingestand. Mehr war für später.
 
 Schritte auf dem Kies. Schwer, etwas ungleich — das linke Bein schleifte ein wenig, seit sie ihn kannte, und das Kies gab unter dem rechten mehr nach als unter dem linken. Henrik.
 
@@ -29,19 +29,13 @@ Schritte auf dem Kies. Schwer, etwas ungleich — das linke Bein schleifte ein w
 
 "Du zählst richtig."
 
-"Mhm." Henrik schaute kurz über die Anlage, die Augen halb zugekniffen gegen das dünne Licht, das durch den Nebel kam und überall blass auf den Blättern lag. Man sah den Rand der Sonne, wenn man die Augen weit genug zuzog, einen Fleck hinter dem Weißen, nicht Scheibe, nicht Kreis. "Wenn du später beim Steinkreis vorbeigehst, fällt dir vielleicht etwas auf, was ich nicht hinkriege. Der Klee am Rand wird braun. Nur an einer Seite. Ich versteh das nicht."
+"Mhm." Henrik schaute kurz über die Anlage, die Augen halb zugekniffen gegen das dünne Licht, das durch den Nebel kam und überall blass auf den Blättern lag. Man sah den Rand der Sonne, wenn man die Augen weit genug zuzog, einen Fleck hinter dem Weißen, nicht Scheibe, nicht Kreis. "Und wenn du nachher die Nordmauer fertig hast — hinter dem Treibhaus, wo die Buchsbaumhecke anfängt, läuft ein brauner Streifen Klee. Eine Handbreit. Ich versteh das nicht. Die Wurzel ist gesund, der Boden ist gesund, und das Ding wird trotzdem braun. Schau ihn dir an, wenn du Lust hast."
 
-Sie hob den Kopf. "Welcher Steinkreis?"
+"Welcher Streifen?"
 
-Henrik schaute sie einen Moment an, als hätte sie gefragt, welcher Himmel. Dann korrigierte er sich — sie sah es in seinem Gesicht — dann nickte er. "Das Ding in der Mitte. Hinter dem Treibhaus, oben auf dem Hügel. Du bist in den letzten Wochen immer drumherum gegangen. Ist aber nicht schlimm, wenn du ihn heute erst siehst."
+"Du kommst da jeden Tag vorbei. Westseite, gleich neben dem Hauptweg." Er zuckte die Schulter. "Vielleicht siehst du, was ich nicht sehe."
 
-"Ich bin drumherum gegangen?"
-
-"Du nimmst den Weg, der am Hügel vorbei führt. Links, zum Rosarium. Dreimal die Woche. Ich hab mir schon gedacht, du magst den Hügel nicht."
-
-Sie sagte darauf nichts. Sie hatte den Hügel nicht gesehen. Sie wusste, was in der Mitte des Gartens stand — ein niedriger Erdhügel, kahl, sie hatte ihn am Rand der Wahrnehmung registriert, mehr nicht — aber sie hatte ihn nie betreten, nie umrundet, nie ins Auge gefasst. Henrik hatte sie dreimal die Woche daran vorbeigehen sehen, als wäre sie absichtlich ausgewichen, und sie konnte sich an kein einziges Mal erinnern.
-
-"Ich schaue heute hin."
+"Ich schaue nachher hin."
 
 "Mach das." Er tippte mit dem Fuß an die Wasserschale, eine Erinnerung an sich selbst, hob sie wieder hoch und ging zum Treibhaus. Am Weg blieb er noch einmal stehen. "Bevor ich's vergesse — du hattest gestern recht mit dem Rosenbeet bei den Buchsbäumen. Drei neue Blätter an der mittleren. Die hätte ich verloren, wenn du nichts gesagt hättest."
 
@@ -49,7 +43,7 @@ Sie sagte darauf nichts. Sie hatte den Hügel nicht gesehen. Sie wusste, was in 
 
 Er lachte einmal, kurz, gutmütig. "Mhm." Dann ging er.
 
-Sie blieb knien. Der Lavendelstängel zwischen ihren Fingern war warm, der Duft hing schwer auf der Haut. Sie legte den Stängel ab, die Hand still, das Drängen, das kein Wort war, aus dem Körper heraus. Sie dachte an die großen Wedel an der Nordmauer. Henrik schnitt sie jeden vierten Tag. Er zählte die Fuhren. Er hatte, ohne es zu merken, selbst bemerkt, dass die Wedel schneller wuchsen als je. Was sie zu ihnen sagen wollte, hatte sie seit Tagen im Kopf.
+Sie blieb knien. Der Lavendelstängel zwischen ihren Fingern war warm, der Duft hing schwer auf der Haut. Sie legte den Stängel ab. Die Hand still. Sie dachte an die großen Wedel an der Nordmauer. Henrik schnitt sie jeden vierten Tag. Er zählte die Fuhren. Er hatte, ohne es zu merken, selbst bemerkt, dass die Wedel schneller wuchsen als je. Was sie zu ihnen sagen wollte, hatte sie seit Tagen im Kopf.
 
 *So bleiben. Nicht weiter.*
 
@@ -59,31 +53,29 @@ Die mannshohen Farne standen in ihren Reihen, frisch geschnitten, ein scharfer g
 
 Sie stellte sich mittig vor die Reihe. Der dunkelste Wedel — ganz links, der, der ihr bis ans Kinn reichte — drehte sich langsam in ihre Richtung. Sie schaute ihn an. Drei Wedel rechts davon folgten. Sie ging einen halben Schritt nach rechts. Die Welle lief mit. Sie blieb stehen.
 
-Sie legte die Handfläche flach gegen den Mittelnerv des nächsten Wedels. Das Blatt war glatt und kühl und lebte. Sie hielt das Drängen in sich, ohne es zu sagen, ohne es zu denken als Sprache. Nur als Form.
+Sie legte die Handfläche flach gegen den Mittelnerv des nächsten Wedels. Das Blatt war glatt und kühl und lebte. Sie hielt, was in ihr hielt, ohne es zu sagen, ohne es zu denken als Sprache. Nur als Form.
 
 *So bleiben. Nicht mehr wachsen. Sei groß genug.*
 
 Sie hielt die Hand zwanzig Atemzüge lang gegen den Wedel. Dann nahm sie sie weg. Der Wedel war noch da. Nichts war sichtbar geschehen. Sie fühlte auch nichts im eigenen Körper, das gekommen oder gegangen wäre. Sie wusste, dass sie es später nur daran erkennen würde, ob Henrik beim nächsten Schnittrhythmus sagte: *die musste ich diesmal nicht nehmen.* Es würde ein kleiner, beiläufiger Satz sein, und sie würde nicken und nichts weiter sagen.
 
-Sie ging die Reihe ab, berührte nacheinander jeden der zweiundzwanzig, mit derselben Geste, derselben Form im Kopf. An den fünf Stummeln blieb sie länger stehen. Dort war das Drängen ein anderes — *heil* statt *halt*. Sie wusste nicht, ob das funktionierte. Sie probierte es trotzdem.
+Sie ging die Reihe ab, berührte nacheinander jeden der zweiundzwanzig, mit derselben Geste, derselben Form im Kopf. An den fünf Stummeln blieb sie länger stehen. Dort war die Form eine andere — *heil* statt *halt*. Sie wusste nicht, ob das funktionierte. Sie probierte es trotzdem.
 
-Als sie am Ende der Reihe ankam, stand der Lavendelduft nicht mehr auf der Haut. Die Nordmauer roch nach altem Stein, nach feuchten Spalten, nach dem grünen Schnitt der Wedel — und nach etwas Viertem, einem süßlichen, dichten Geruch, den sie seit Wochen in diesem Garten hatte und nicht benennen konnte. Er lag tiefer als die anderen, dichter, mit einer eigenen Schwere. Sie atmete ihn einmal ein, dreimal, dann ließ sie ihn. Vielleicht morgen.
+Als sie am Ende der Reihe ankam, stand der Lavendelduft nicht mehr auf der Haut. Die Nordmauer roch nach altem Stein, nach feuchten Spalten, nach dem grünen Schnitt der Wedel — und nach etwas Viertem, einem Geruch, den sie seit Wochen in diesem Garten hatte und nicht benennen konnte. Süß, aber nicht wie Obst oder wie Honig. Süß wie etwas, das nicht frisch war und trotzdem nicht faulte. Ein Geruch, der sich in ihre Kleider legte und dort blieb, auch wenn sie abends den Anker betrat, und der in der Innentasche ihres Mantels noch am nächsten Morgen schwach hing, als hätte jemand ihn dort eingenäht. Sie atmete ihn einmal ein, dreimal, dann ließ sie ihn. Vielleicht morgen.
 
-Sie drehte sich zurück zum Hauptweg. Von hier aus, zum ersten Mal mit Absicht, schaute sie zur Mitte des Gartens.
+Sie drehte sich zurück zum Hauptweg. Den Klee, um den Henrik sie gebeten hatte — hinter dem Treibhaus, Westseite. Sie ging los.
 
-Der Hügel.
+Und zwischen einem Schritt und dem nächsten merkte sie, dass ihre Füße den Weg schon selbst nahmen, den sie seit Wochen jeden Tag nahmen: am Hauptweg links haltend, am Teilungspunkt nach Süden, am Rosarium vorbei. An etwas vorbei. Sie blieb stehen. Sie war hier dreimal die Woche gegangen, drei Wochen lang, und hatte jedes Mal die Kurve genommen, ohne sich zu fragen, warum dort eine Kurve war. Sie drehte sich langsam nach rechts. Zu ihrer Rechten, wo der Weg sonst abbog, erhob sich ein kleiner Erdhügel, einen halben Meter hoch, kahl, in etwa vier Meter Durchmesser, gefasst von einer Buchsbaumhecke, die nur im Süden offen stand. Sie hatte ihn nie gesehen. Nicht so. Am Rand ihrer Wahrnehmung hatte er gelegen wie ein Gegenstand im Eck eines Zimmers, den man nicht anschaut, weil man ihn nicht anschauen will.
 
-Er war niedrig, einen halben Meter hoch, kahl, in etwa vier Meter Durchmesser, gefasst von einer Buchsbaumhecke, die nur an einer Seite offen stand — im Süden, wo der Hauptweg hochführte. Sie war hier jeden Nachmittag drei Wochen lang vorbeigegangen. Sie kannte die Stelle, an der der Weg sich teilte, sie kannte den Anstieg, sie kannte die Buchsbaumkante. Aber nie den Hügel selbst. Wenn sie jetzt darauf zuging, war es, als ginge sie in eine Richtung, in die ihr Körper in den vergangenen drei Wochen nicht hineingehen wollte. Ein leichtes Sträuben in den Füßen, eine Trägheit im Kreuz. Sie bemerkte es zum ersten Mal, weil sie zum ersten Mal absichtlich ging.
+Ihre Füße wollten weiter zum Klee. Ihr Körper wollte den Hügel hinter sich lassen. Sie stellte fest, dass sie wollte, und stellte fest, dass sie nicht war, die es wollte.
 
-Sie ging trotzdem.
+Sie ging auf den Hügel zu. Ein leichtes Sträuben in den Füßen, eine Trägheit im Kreuz — der Widerstand war körperlich, nicht gedacht. Sie bemerkte ihn zum ersten Mal, weil sie zum ersten Mal gegen ihn ging.
 
 Auf dem Hügel standen sieben Steine. Niedrig, jeder hüfthoch, in einem Kreis eingelassen, der Boden zwischen ihnen kahle Erde. Purpurstein, dunkel feucht, alt, die Oberflächen glatt geschliffen. Sie kannte den Stein vom Stadttor und von Treppenstufen und von Hausmauern, er war überall in Vael, und sie hatte aufgehört, ihn zu bemerken. Hier bemerkte sie ihn wieder. Diese Steine waren eingearbeitet, bewusst gesetzt, jeder im gleichen Abstand, jeder im gleichen Winkel zur Mitte. Niemand baute Steine so, wenn er nur einen Beetrand meinte.
 
 Sie ging eine Runde um den Kreis. Dann eine zweite, langsamer. Beim zweiten Mal sah sie, was ihr Auge vorher überlesen hatte, weil es nicht gesucht hatte, und weil Augen nur fanden, was sie wussten — die Pflanzen hörten an der Steinlinie auf. Keine Wurzel kreuzte die Grenze. Kein Halm, kein Moos in den Fugen, obwohl alles in diesem Garten bemoost war, was drei Jahre stillstand. Gras wuchs bis zur Außenkante des Steins und brach dort ab. Ein einzelnes Veilchen zeigte seinen Stiel in die Lücke zwischen zwei Steinen, blieb stehen, streckte sich nicht weiter. Im Inneren: bloße Erde, dunkel, glatt, keine Textur.
 
-Henrik hatte gesagt: *Der Klee am Rand wird braun. Nur an einer Seite.*
-
-Sie sah ihn. An der Ostseite, der einzige braune Streifen an einem Kreis, der sonst grün gesäumt war — Klee, vertrocknet, ausgedörrt, als hätte ihn jemand gebrannt. Eine Handbreit, nicht mehr, entlang der Steinkante. Sie kannte diesen Braunton. Es war derselbe Braunton wie der Streifen am Wegrand, den sie vor Tagen beim Vorübergehen gemacht hatte, ohne es zu wollen. Nur hier an der Steinkante war er nicht von ihr.
+Dort war der Klee. Westseite. Henriks Klee, eine Handbreit, vertrocknet, ausgedörrt, als hätte ihn jemand gebrannt. Sie kannte diesen Braunton. Es war derselbe Braunton wie der Streifen am Wegrand, den sie vor Tagen beim Vorübergehen gemacht hatte, ohne es zu wollen. Nur hier, an der Steinkante, war er nicht von ihr.
 
 Sie kniete an der Außenseite eines Steins, dort wo der Klee noch grün war. Legte die Handfläche flach auf die Oberfläche.
 
@@ -93,7 +85,7 @@ Wärmer als das Stadttor am Tag ihrer Ankunft. Wärmer als die Erde in ihrem Top
 
 Es kam ein Impuls.
 
-Durch den Stein, durch die Handfläche, durch die Knochen bis in den Ellbogen — ein einzelner, deutlicher Stoß, so stark wie das eigene Blut nach einem steilen Treppenlauf, aber fremd, an der falschen Stelle im Körper, in der ganzen Hand statt in der Halsader. Sie zuckte nicht. Sie hielt die Hand liegen.
+Durch den Stein, durch die Handfläche, durch die Knochen bis in den Ellbogen — ein einzelner, deutlicher Stoß, so dicht wie ein Pilzhut, der sich im Moos öffnet und den Boden um sich herum anhebt, und in der ganzen Hand statt in der Halsader. Sie zuckte nicht. Sie hielt die Hand liegen.
 
 Pause.
 
