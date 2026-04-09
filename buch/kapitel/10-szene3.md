@@ -42,6 +42,8 @@ Sein Körper antwortete darauf, wie er auf jedes Bild antwortete, das er festhal
 
 Um ihn herum fiel der Garten zurück ins Dunkel. Die Hortensienblätter verloren ihre Kanten, der Kies seine Struktur, das Mondlicht zog sich von allem weg, floss in die eine Richtung, in die Sorels Blick zeigte, und sammelte sich dort zu einem einzigen Brennpunkt auf der Haut des Wesens — nicht größer als ein Daumennagel, weiß, scharf, so dicht, dass kein Mond diese Helligkeit je auf einen Körper gelegt hatte.
 
+Wo der Punkt die Haut berührte, lief sie in einen dumpfen, rotbraunen Ton, dann heller, wie Metall, das gerade anfängt zu glühen. Ein dünner, scharfer Faden von Rauch stieg aus der Stelle auf, nicht mehr das träge Wabern von vorhin — ein Zeichen, dass das Wesen Schaden nahm.
+
 Das Wesen reagierte augenblicklich.
 
 Aus dem Maul — wenn es ein Maul war — schleuderte sich ein Feuerball, faustgroß, rotgelb, mit einem Kern aus weißer Glut, und die drei Meter zwischen Wesen und Sorel verschwanden in einem Lidschlag. Sorels linker Unterarm ging hoch, Reflex, sein Körper wollte das Gesicht schützen. Der Ball traf die Hand am Handrücken mit einem Schlag, den Sorel bis in die Schulter, bis in den Brustkorb, bis in den Kiefer spürte — ein Hammer, ein Hitzeschlag, ein Lichtblitz gleichzeitig, der seine Pupille zusammenriss und ihm das Knie unter dem rechten Bein wegtrat. Er taumelte, fing sich an einem Hortensienzweig, drückte die rechte Hand gegen die Kassettentasche am Bauch, und die linke Hand brannte, echter brennender Schmerz, der den ganzen Arm ausfüllte und keinen Platz für etwas anderes ließ.
