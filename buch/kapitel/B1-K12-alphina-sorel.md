@@ -53,17 +53,65 @@ Sie tat es nicht. Stattdessen stand sie eine Weile zwischen den Farnen und prüf
 
 Sie kannte das. In Velde hatte sie mit elf Jahren in einem Speicher gehockt, in dem ein Sturm das halbe Dach abgehoben hatte, und hatte mit derselben Schärfe in den Balken nach dem Geräusch gesucht, das gleich kommen würde. Im Kanal hinter der Botanikgesellschaft hatte sie nachts den Brunnen gehört, wenn der Schritt eines anderen Menschen ins Echo trat, und war näher hingegangen, an die Stelle, wo das Echo herkam. Sie hatte sich nie gefragt, warum das, was die anderen vom Atemzug bremste, sie vorwärts nahm. Das Fragen hätte nichts geändert. Manche standen auf und gingen zur Tür, um nachzusehen. Sie war eine von diesen.
 
-"Wer du auch bist", sagte sie, an die Lücke zwischen den Farnen, an den Schatten, der vielleicht da war und vielleicht nicht. "Ich gehe jetzt zum Stein."
+"Ich sehe Ihr Stativ. Kommen Sie heraus."
 
-Sie wartete. Drei Atemzüge, vier. Ein Zweig knackte irgendwo hinter ihr, weit, möglich auch das Eigengewicht eines feuchten Farnwedels, der sich im Mondlicht streckte. Möglich auch nicht. Sie drehte sich nicht um.
+Sie sagte es ohne Drohung, ohne Bitte. Ein Satz aus der Werkstatt, der eine Lage beschrieb und ein Verhalten einlud. Sie wartete. Drei Atemzüge, vier.
 
-Dann ging sie zurück auf den Hauptweg, nahm zwei Schritte in Richtung Hügel, blieb noch einmal stehen, ohne sich umzudrehen, und sagte über die Schulter, halb leise, halb für sich:
+Dann kam die Antwort. Nicht aus einer Richtung, die sie sofort zuordnen konnte — eher von der Seite der Farne, weiter hinten, wo das Mondlicht im Wedelgeflecht eine Schicht nach der anderen verlor.
 
-"Du kannst zusehen, wenn du willst."
+"Ich komme. Ich habe die Hände vor dem Körper."
 
-Ihr eigener Satz erschreckte sie nicht. Er erschreckte sie weniger, als er das gesollt hätte. In dem Bruchteil zwischen *kannst* und *willst* hatte sich etwas in ihrer Stimme aufgemacht, das sie sonst nur abends in der Kammer im Anker hörte, wenn sie laut las und niemand zuhörte — ein wärmerer Ton, eine gerade Linie zwischen Kehle und Brustbein, ein Ton, der zu jemandem ging.
+Eine Männerstimme. Leiser als ihre, eine Spur rauer, eine Stimme, die den ganzen Tag mit niemandem geredet hatte. Der Satz war ohne Verzierung. Es war der Satz eines Mannes, der wusste, dass er in einem fremden Garten stand, und der der Frau, die ihn dort fand, das gab, was sie brauchte — Sichtbarkeit, keinen Rücken, keinen plötzlichen Griff.
 
-Sie ging weiter.
+Ein leises Rascheln der Farnwedel, einer nach dem anderen, das Eigengewicht eines Körpers, der sich durch Pflanzen bewegte. Dann trat er aus der Lücke zwischen den zwei Farngruppen hervor.
+
+Er hatte die Hände tatsächlich vor dem Körper — die rechte tiefer, mit einem Stativ-Bein zwischen den Fingern, die linke höher, in Brusthöhe, gewickelt in ein Leinentuch, das an einer Stelle dunkel durchgezogen war. Dunkel gekleidet, die Schultern schmal in einer Jacke, die eine Nummer zu breit für ihn war. Im Mondlicht war von seinem Gesicht nicht viel mehr zu sehen als die Linie eines Kiefers, der Schatten unter den Augen, die Spur eines Mundes, der nicht lachte.
+
+Alphinas erster Gedanke war pflanzlich. Rinde, die zu nah an einem Heizfeuer gestanden hatte. Eine Blase unter der Borke, die sich öffnete und nicht schloss.
+
+Ihr zweiter Gedanke war kein Gedanke. Etwas saß zwei Daumenbreit unter dem Schlüsselbein und zog nach vorn — kein Schlag, kein Stich, eher ein langsames Hereinholen, ein Zug aus tiefer Erde an einer Wurzel, die nicht loslassen wollte. Sie hatte das in ihrem Leben zweimal gespürt. Beide Male hatte sie sich falsch entschieden. Heute entschied sie nicht. Sie registrierte und trat nicht zurück.
+
+"Das ist Henriks Garten", sagte sie. "Ich komme mit seinem Schlüssel."
+
+"Ich habe das Tor nicht geöffnet." Er sprach langsam, mit der Vorsicht eines Mannes, der wusste, dass er die falsche Seite einer Frage war. "Ich bin über die südliche Mauer gekommen. Im Schatten des Feigenbaums."
+
+"Sie sind in einem fremden Garten eingebrochen."
+
+"Ja."
+
+Er sagte es ohne Entschuldigung, ohne Erklärung, mit der vollen Annahme dessen, was er getan hatte. Alphina hatte in ihrem Leben drei Männer gekannt, die so Ja gesagt hatten, wenn ein Ja sie etwas kostete. Der erste war ihr Vater am Sterbebett gewesen.
+
+"Mit welcher Absicht?"
+
+"Ich fotografiere die Steine auf dem Hügel." Eine kleine Pause, in der er den linken Arm nicht bewegte. "Vor zwei Nächten zum ersten Mal. Heute Nacht zum zweiten Mal."
+
+"Ich habe Sie vor zwei Nächten nicht gehört."
+
+"Sie waren nicht hier."
+
+Das war wahr, soweit sie es prüfen konnte. Sie war vor zwei Nächten im Anker gewesen, an Runas Bogen, mit einer Tasse Tee, die kalt geworden war, weil sie zu lange gelesen hatte.
+
+"Ihr Name", sagte sie.
+
+"Sorel. Aus Nachtholm."
+
+"Alphina. Aus Velde."
+
+Sie gaben einander die Namen wie zwei kleine Gegenstände, die man in der Hand hielt, ohne zu wissen, was man damit anfing. Zwischen ihnen lag der Hauptweg, und der Hauptweg war in diesem Mondlicht breiter, als er am Tag gewesen wäre.
+
+Sie zeigte mit dem Kinn auf den Verband. "Was ist passiert?"
+
+"Eine Verbrennung. Vor zwei Nächten. Hier im Garten." Er hob die linke Hand eine Spur an, dann ließ er sie wieder sinken. "Ich habe die Ursache nicht gesehen."
+
+Sie glaubte ihm, und sie glaubte ihm nicht, beides gleichzeitig, und ließ es so stehen. Der halbe Glaube war die Form von Höflichkeit, die in Vael abends zwischen zwei Fremden noch gebraucht wurde.
+
+Sie spürte unter dem Schlüsselbein, dass der Zug von vorhin noch da war, leiser, aber nicht weg. Sie dachte nicht daran. Sie hatte einen Stein zu messen.
+
+"Ich gehe jetzt zum Stein", sagte sie. Kein Ausschluss, keine Einladung — sie sprach die Tatsache aus, die sie war, und ließ ihm die nächste Bewegung. "Sie können bleiben. Sie können gehen. Sie können mitkommen."
+
+Sie wartete nicht auf eine Antwort. Sie drehte sich langsam, weil plötzliche Bewegungen im Dunkeln nichts Gutes brachten, und ging an der Farngruppe vorbei zurück auf den Hauptweg, auf dessen Ende der Hügel stand.
+
+Zwei Atemzüge später hörte sie seinen Schritt auf dem Kies. Einen halben Schritt hinter ihr.
 
 
 ---
@@ -117,27 +165,53 @@ Drei Buchstaben in einem Raum, in dem keine drei Buchstaben gewesen waren. Er ha
 
 "Ist da jemand?"
 
-Er antwortete nicht. Er atmete nicht. Er stand zwischen den Farnen — eine Form, die in einer Belichtung mit langer Zeit nicht hätte da sein dürfen und war doch da. Sein Mund war trocken, die Kehle schmal, in der Brust der eine Punkt, der sich gefunden hatte und sich nicht mehr verschieben ließ. Sie war hinter den Farnen. Sie hatte ihn nicht gesehen. Sie suchte ihn. Sie suchte etwas, von dem sie nicht wusste, ob es da war, und sie suchte es ohne Furcht — ihre Stimme hatte keine Furcht, ihre Schritte hatten keine Furcht, ihr ganzes Gewicht hatte keine Furcht. Er hatte in seinem Leben drei Frauen gekannt, die so durch eine Nacht gegangen waren. Eine davon war seine Mutter gewesen.
+Sein erster Reflex war die Stille. Die Stille war seine Form von Schutz, seit er vor dreizehn Jahren zum ersten Mal einen Keller ohne Fenster bewohnt hatte. Stille war ein Arbeitsgerät. Man stellte die Kamera hin, man wartete, man sprach nicht. Die Welt arbeitete auf einen zu, und wenn man still genug war, bekam man ein Bild.
 
-Er hielt die Luft an, als würde der Atem sie wegtreiben.
+Aber er stand nicht vor einer Kamera. Er stand in einem Garten, in den er eingebrochen war, und fünf Schritte weiter rief eine Frau zum zweiten Mal in die Lücke zwischen den Farnen — nicht ängstlich, nicht schmeichelnd, fest und einen Halbton über der ersten Frage, in einem Ton, den er aus seinen ersten Lehrjahren bei alten Meistern kannte, wenn die Meister gewusst hatten, dass hinter einer geschlossenen Tür jemand stand, und keine Lust gehabt hatten, den Zeigefinger zum zweiten Mal zu heben.
 
-Dann, nach einer Weile, die zu kurz war für einen Plan und zu lang für einen Reflex, hörte er, wie sich ihre Schritte vom Stativ wegbewegten, zurück auf den Hauptweg, und er hörte, ohne es glauben zu wollen, ihren Satz an die Lücke zwischen den Farnen.
+"Ich sehe Ihr Stativ. Kommen Sie heraus."
 
-"Wer du auch bist. Ich gehe jetzt zum Stein."
+Der Satz traf die Luft zwischen den Farnen und legte sich dort ab. Sorel hörte den eigenen Puls in den Ohren, einmal, zweimal. Er hörte, was sein Körper in der letzten halben Minute gelernt hatte: sie war die Art Frau, die auf eine Frage eine Antwort erwartete. Sie würde nicht weggehen und vergessen. Sie würde wachsam werden und zurückkommen. Verstecken war das, was ein Mann tat, der nicht zu dem stand, was er getan hatte.
 
-Und dann den anderen, halb über die Schulter, halb für sich:
+Er zog den Atem tief in den Bauch. Atem zwingt man tiefer, wenn die Hände unsicher werden — derselbe Satz wie vorhin. Diesmal arbeitete die Kehle, und die Hände waren still.
 
-"Du kannst zusehen, wenn du willst."
+"Ich komme." Seine Stimme war rau, weil er sie den ganzen Tag nicht benutzt hatte. "Ich habe die Hände vor dem Körper."
 
-Sein Körper machte den Schritt nach vorn, bevor sein Kopf wusste, ob er ihn machen durfte. Er fing sich am Stativ ab, mit der rechten Hand, hielt sich, atmete einmal tief ein und einmal wieder aus, zog die rechte Hand vom Stativ und legte sie flach auf das Brustbein, dort wo der Punkt lag. Er drückte einmal. Der Punkt war noch da. Der Punkt war jetzt etwas, das man drücken konnte, ohne dass es weggewann.
+Er hob beide Hände in Brusthöhe — die rechte mit dem Stativ, die linke mit dem Verband —, weil ein Mann, der aus dem Dunkeln zu einer Frau heraustrat, die Hände sichtbar machen musste, lange bevor der Rest von ihm sichtbar wurde. Er trat langsam zwischen den Farnwedeln hervor, ein Wedel nach dem anderen legte sich an seine Schulter und gab ihn frei, und er war froh, dass das Mondlicht dünn war, weil es ihr Zeit gab, ihn zu sortieren, bevor sie ihn ganz sehen musste.
 
-Er nahm das Stativ am unteren Bein, trat aus der Farnlücke heraus, zwei Schritte hinter ihr, mit der Lautlosigkeit, die ein Mann lernte, der nachts an Stativen arbeitete, und folgte dem Geräusch ihrer Schritte zum Hügel.
+Dann sah er sie im Mondlicht.
+
+Dunkles Haar, der Mantel halb offen, die Hände locker an den Seiten. Sie war nicht zurückgewichen, als er hervorgetreten war. Sie hatte die Schultern nicht gehoben, die Knie nicht gebeugt, nicht die geringste Bewegung nach hinten gemacht. Sie stand, wo sie gestanden hatte, und wartete, dass er vollständig da war. Das war kein Mut. Mut war eine Geste. Das hier war etwas anderes, etwas, das er nicht benennen konnte, außer dass es der Grund war, warum seine Mutter nachts allein durch die Holzviertel von Nachtholm gegangen war, ohne dass jemand sie angesprochen hätte, der es nicht gut meinte.
+
+Sein Brustkorb ließ einen halben Zentimeter Luft raus, den er seit dem ersten *Hallo* festgehalten hatte.
+
+Sie sagte, das sei Henriks Garten, sie komme mit seinem Schlüssel. Er antwortete, wie er gelernt hatte zu antworten, wenn die Antwort nichts wert war außer ehrlich: er nannte die Mauer, den Feigenbaum. Er gab das Wort *eingebrochen* nicht zurück, weil sie es ausgesprochen hatte und weil seine Bestätigung dadurch an Kraft verlor, dass er es wiederholte. Er sagte nur Ja. Dann seinen Namen. Dann die Stadt, dann die Kamera und die Steine, weil sie fragte.
+
+Während sie sprachen, bewegten sich ihre Hände zum ersten Mal. Sie hob die rechte Hand bis zur Höhe ihres Kinns, um auf seinen Verband zu zeigen, und bei dieser Bewegung drehte sich ihre linke Hand eine halbe Umdrehung nach außen, und das Mondlicht fiel auf die Innenseite ihres linken Handgelenks, an genau der Stelle, an der die Sehne am Daumenansatz unter der Haut lief.
+
+Er sah sie.
+
+Er sah die Sehne, die er zwei Nächte lang unter der Lupe studiert hatte, in der Stille seines Kellers, bis die Augen ihm liefen. Er sah die Faser unter der Haut, die feinen Kapillaren dahinter, die halbe Schattierung, die die Belichtung zu scharf eingefangen hatte. Er hatte sie auf einer Platte gesehen, die an einem Nagel in seinem Keller hing — einem Nagel, an dem der Mörtel vor achtunddreißig Tagen noch feucht gewesen war —, und jetzt trug dieselbe Sehne einen Menschen, der vor ihm stand und atmete.
+
+Die lebende Frau neben dem Abbild.
+
+Das war mehr Information, als er brauchte. Das war ein Schuldschein, den er ab diesem Moment trug, und er wusste es sofort: er würde ihr die Platte nicht nennen. Nicht heute Nacht, nicht am Stein, nicht auf einer Bank, nicht in einer späteren Stunde des Nachgebens. Die Platte war etwas, das ein Mann mit einer lebenden Frau nicht tauschte, bevor er sie besser kannte, als er sie mit einer einzigen Mainacht kennenlernen konnte.
+
+Er wusste einen Grad mehr als sie. Das war sein Schuldschein, und er hatte ihn zwischen den Rippen, dort, wo der Punkt am Brustbein lag, der sich vor einer Viertelstunde gefunden hatte und sich nicht mehr verschob.
+
+"Eine Verbrennung", sagte er auf ihre Frage nach dem Verband. "Vor zwei Nächten. Hier im Garten. Ich habe die Ursache nicht gesehen."
+
+Das war beides wahr, und beides war nicht die ganze Wahrheit, aber er konnte ihr die ganze Wahrheit jetzt nicht geben, ohne sie in eine Gefahr zu bringen, die sie nicht gewählt hatte. Er sah, wie sie ihn abmaß — ohne Anklage, mit der Art Blick, den eine Frau einem fremden Rosenstrauch zuwarf, bevor sie entschied, ob die Wurzel gesund genug war, um in ihrem Beet zu bleiben. Dann sagte sie, sie gehe jetzt zum Stein. Sie ließ ihm die nächste Bewegung.
+
+Er brauchte eine halbe Sekunde, um zu entscheiden. Es war die Halbsekunde, die man brauchte, um eine Kamera von einer Schulter auf die andere zu heben, ohne den Riemen zu lösen. In dieser halben Sekunde sah er den Keller, die Platten an der Wand, die Stelle, an der er vor vier Stunden gesessen hatte, mit beiden Händen auf den Oberschenkeln, und er wusste, dass er nicht zurückging.
+
+Er folgte ihr. Einen halben Schritt hinter ihr. Das Stativ in der rechten Hand. Die linke am eigenen Verband. Die Grillen sangen am Mauerfuß. Der Kies nahm seinen Schritt und ihren Schritt auf und gab sie als zweistimmiges Muster zurück, in dem seiner einen halben Takt gegen ihren lief, damit er nicht zu nah kam.
 
 
 ---
 
 
-Der Hügel war an seiner Außenkante eine Spur kühler als der umliegende Garten. Alphina hatte das in den Wochen zuvor schon registriert und nie aufgeschrieben, weil die Spur zu schmal war, um sie in einer Spalte unterzubringen, die für Daten gedacht war. Heute trat sie auf den Hügel, ohne in ihre Notizen zu denken. Sie ging zwischen den Buchsbäumen hindurch, an der südlichen Öffnung, drei Schritte aufwärts auf die kahle Innenfläche, blieb in der Mitte des Kreises stehen und legte beide Handflächen auf den nächsten der sieben Steine.
+Der Hügel war an seiner Außenkante eine Spur kühler als der umliegende Garten. Alphina hatte das in den Wochen zuvor schon registriert und nie aufgeschrieben, weil die Spur zu schmal war, um sie in einer Spalte unterzubringen, die für Daten gedacht war. Heute trat sie auf den Hügel mit einem Mann einen halben Schritt hinter ihr, der an der südlichen Öffnung des Buchsbaumkreises stehenblieb, als verstünde er, dass dies der Teil des Gartens war, den sie allein betrat. Sie drehte sich nicht nach ihm um. Sie ging drei Schritte aufwärts auf die kahle Innenfläche, blieb in der Mitte des Kreises stehen und legte beide Handflächen auf den nächsten der sieben Steine.
 
 Den Stein kannte sie. Die Haltung kannte sie. Den Augenblick kannte sie auch — den Atemzug, in dem das Material unter den Fingern aufhörte, Material zu sein, und etwas wurde, das antwortete. Was sie nicht kannte, kam jetzt.
 
@@ -149,53 +223,27 @@ Der zweite Impuls. Derselbe Abstand wie der erste. Sie zählte mit, ohne zu zäh
 
 Der dritte.
 
-Sie wusste nicht, ob der Stein sich ihr anglich oder ob sie sich dem Stein anglich. Sie wusste, dass die Frage gestellt war, dass sie heute Abend gestellt worden war und nicht am Vormittag, und dass eine Antwort darauf später kommen musste. Sie hielt die Hände noch einen Atemzug auf dem Purpurstein. Der vierte Impuls war wie der dritte. Der Stein machte keine Eile, sich zu erklären. Steine machten nie Eile.
+Sie wusste nicht, ob der Stein sich ihr anglich oder ob sie sich dem Stein anglich. Sie wusste, dass die Frage gestellt war, dass sie heute Abend gestellt worden war und nicht am Vormittag, und dass eine Antwort darauf später kommen musste. Der vierte Impuls war wie der dritte. Der Stein machte keine Eile, sich zu erklären. Steine machten nie Eile.
 
-Hinter ihr knirschte Kies.
+Sie hielt die Hände noch einen Atemzug am Purpurstein liegen, weil das Methode war — eine Hand, die sich abrupt löste, war eine Messung, die man sich selber verdorben hatte. Dann hob sie die Handflächen vom Stein und drehte sich um die eigene Achse.
 
-Ein einzelner Tritt, kontrolliert, aber nicht kontrolliert genug — ein Tritt, der eine halbe Sekunde zu spät an seinem eigenen Geräusch eingefangen worden war. Sie hatte ihn schon, ehe er gefangen war.
+Sorel stand, wo sie ihn an der Öffnung zurückgelassen hatte — drei Schritte hinter dem Buchsbaum, das Stativ in der rechten Hand, den linken Arm leicht angewinkelt. Er hatte nicht fotografiert. Er hatte die Kamera nicht einmal gehoben. Sein Blick lag auf ihren Händen am Stein, nicht auf ihrem Gesicht. Sein Atem, soweit sie ihn in der Entfernung hören konnte, lag in dem langsamen Maß eines Mannes, der etwas gesehen hatte, das er nicht sortieren konnte.
 
-Sie drehte sich nicht sofort. Sie ließ die Hände noch einen Atemzug am Stein liegen, weil das Methode war und kein Mut, weil eine Hand, die sich abrupt löste, eine Messung war, die man sich selber verdorben hatte. Erst als der dritte Schlag durch die Knochen verklungen war, hob sie die Handflächen vom Purpurstein, drehte sich langsam um die eigene Achse und sah ihn.
+"Der Stein schlägt heute Abend anders als heute Vormittag", sagte sie. Sie sagte es an ihn, weil es in diesem Moment keinen anderen gab, an den sie es hätte sagen können. "Schneller. Näher an meinem eigenen Maß."
 
-Ein Mann, am südlichen Rand des Kreises, drei Schritte hinter dem Buchsbaum stehengeblieben. Das Stativ in der rechten Hand, schräg gehalten, das untere Bein im Kies. Dunkel gekleidet, die Schultern schmal in einer Jacke, die zu breit für sie war. Im Mondlicht war von seinem Gesicht nicht viel mehr zu sehen als die Linie eines Kiefers, der Schatten unter den Augen, die Spur eines Mundes, der nicht sprach. Der linke Arm hing in der Schulter eine Spur tiefer als der rechte, weil er etwas schonte. Sie sah das Leinentuch um den linken Handrücken bevor sie das Gesicht las — lose gewickelt, an einer Stelle dunkel durchgezogen, dort, wo Wundwasser durch die Schicht trat.
+Er antwortete nicht sofort. Sie hatte gelernt, in der letzten Viertelstunde, dass sein Nicht-Antworten zwei Formen hatte — die eine war das Abwägen eines Mannes, der die falsche Seite einer Frage stand, die andere war das Zuhören eines Mannes, der nichts vereinfachen wollte. Das hier war die zweite.
 
-Ihr erster Gedanke war pflanzlich. Rinde, die zu nah an einem Heizfeuer gestanden hatte. Eine Blase unter der Borke, die sich öffnete und nicht schloss.
+"Wenn die Messung sich mit dem Beobachter ändert", sagte er schließlich, leise, "dann war es keine Messung."
 
-Ihr zweiter Gedanke war kein Gedanke. Ihr Körper hatte etwas zu sagen, bevor ihr Kopf eine Stelle dafür gefunden hatte. Es saß zwei Daumenbreit unter dem Schlüsselbein und zog nach vorn — kein Schlag, kein Stich, eher ein langsames Hereinholen, ein Zug aus tiefer Erde an einer Wurzel, die nicht loslassen wollte. Sie hatte das in ihrem Leben zweimal gespürt. Beide Male hatte sie sich falsch entschieden. Heute entschied sie sich nicht falsch. Heute entschied sie nicht.
+Sie hob die Brauen einen halben Strich. Das war ein Satz, den ein Uhrmacher hätte sagen können. Und seit dem Vorabend kannte sie einen Uhrmacher, der denselben Satz in anderen Worten ausgesprochen hatte, im Flur des Anker, mit einem Notizbuch zwischen sich. Sorel hatte Vesper nie getroffen. Sie ließ das stehen und notierte es für später.
 
-"Das ist Henriks Garten." Ihre Stimme war ruhig, weil sie ruhig war. "Ich komme mit seinem Schlüssel."
+Sie ging einen Schritt aus dem Steinkreis hinaus, an der südlichen Öffnung vorbei, an dem Buchsbaum vorbei, auf ihn zu. Sie blieb erst stehen, als der Abstand zwischen ihnen zwei Armlängen betrug — nah genug, um sein Gesicht im dünnen Mondlicht zu lesen, nah genug, um nach seiner Hand zu greifen, wenn sie entschied, es zu tun. Seine rechte Hand am Stativ war ruhig. Die linke hing in der Schlinge des Verbandes, der an einer Stelle dunkler war, als er hätte sein dürfen.
 
-Sie hatte die Worte fertig im Kopf, bevor sie die Kehle erreichten. Methode. Eine erste Diagnose an einem Rosenbeet, das man zum ersten Mal in der Hand hatte, sprach so. Sie setzte den Satz als Feststellung, die eine Antwort einlud, und ließ ihn stehen.
-
-Er hob den Kopf um eine Spur. Im Mondlicht trat seine Augenpartie aus dem Schatten heraus, und sie sah, dass er sie kannte, ohne sie kennen zu können. Sie wusste das, ohne sich auf den Blick einlassen zu müssen.
-
-"Ich habe das Tor nicht geöffnet." Seine Stimme war leiser als ihre, eine Spur rauer, eine Stimme, die einen ganzen Tag mit niemandem geredet hatte. "Ich bin über die südliche Mauer gekommen. Im Schatten des Feigenbaums. Ich habe gewartet, bis der alte Mann am Tor seine Pfeife ausgemacht hat." Eine kleine Pause, in der er den linken Arm nicht bewegte. "Sorel. Aus Nachtholm."
-
-"Alphina. Aus Velde."
-
-Sie sagte es ohne Verzierung. Es war ein Tausch von zwei Wörtern. Es war auch nicht der Tausch von zwei Wörtern.
-
-"Sie haben hier fotografiert." Sie sah am Stativ vorbei, in die Richtung, in die die Linse zeigte. "Den Steinkreis."
-
-"Ja."
-
-"Zum ersten Mal?"
-
-"Zum zweiten Mal." Er hielt die zwei Sätze knapp hintereinander, als wäre der zweite ein Nachtrag, den der erste ihm schuldig war. "Vor zwei Nächten habe ich drei Platten gemacht. Heute eine."
-
-"Heute keine."
-
-"Heute keine fertige." Er sah auf das Stativ. "Der Schärfering greift mit einer Hand nicht sauber. Ich habe trotzdem abgedrückt."
-
-Es war nicht die ganze Antwort. Sie wusste das, ohne den Beweis dafür zu brauchen. Sie ließ die halbe Antwort stehen, weil halbe Antworten in dieser Stadt eine Form von Höflichkeit geworden waren und weil sie heute Abend nicht hier war, um Beweise zu sammeln.
-
-Sie ging einen Schritt aus dem Steinkreis hinaus, an der südlichen Öffnung vorbei, an dem Buchsbaum vorbei, zwei Schritte näher an ihn heran. Ihre Augen hatten sich an das Mondlicht gewöhnt. Sie sah jetzt sein Gesicht — schmal, ein Mund, der lange nicht gelacht hatte, eine Linie zwischen den Brauen, die dort eingegraben war, weil sie seit Jahren in derselben Stelle eingegraben wurde. Die rechte Hand am Stativ war ruhig. Die linke hing in der Schlinge des Verbandes, der an einer Stelle dunkler war, als er hätte sein dürfen.
+"Halten Sie still."
 
 Sie hob die rechte Hand und legte sie ohne Vorwarnung auf seinen linken Handrücken, knapp neben dem dunklen Fleck, dort, wo das Leinentuch noch hell war.
 
 Er zuckte nicht. Er zuckte deshalb nicht, weil er den Atemzug zwischen ihrer Geste und seiner Reaktion nicht hatte, in dem ein Mann normalerweise sich bewegt — sie war bei ihm, bevor sein Kopf den Befehl an die Schulter gab. Aber seine ganze rechte Seite stellte sich ein: Schärfering, neue Brennweite, Punkt im Sucher.
-
-"Halten Sie still."
 
 Sie hatte nicht gefragt, ob sie durfte. Sie hatte nicht erklärt, was sie tun würde, weil ein Erklären die Sache unmöglich gemacht hätte und weil ein Erklären Worte gebraucht hätte für etwas, das in ihr keine Worte hatte. Sie schloss die Augen für drei Atemzüge nicht. Sie hielt die Hand auf seinem Handrücken und ließ die andere Hand, die linke, an ihre eigene Seite zurückfallen.
 
