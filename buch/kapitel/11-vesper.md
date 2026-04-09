@@ -66,21 +66,7 @@ Der Punkt hatte keinen Namen. Er hatte nur eine Richtung.
 
 Tidemoor blieb der Ausreißer. Vier Minuten dreiunddreißig Sekunden hätten nach diesem Muster bedeutet, dass die Uhr im Zentrum stand. Aber Tidemoor stand am Grauwe-Ufer, unten, an der Flussniederung — also am äußersten Rand der Stadt. Das Muster sagte: weit weg vom Zentrum. Der Betrag sagte: mitten drin. Beides zugleich war nicht möglich, also gab es für Tidemoor einen anderen Grund. Vesper kannte den Grund nicht, aber er wusste, dass er ein eigener war.
 
-Und dann, weil er die Uhr jetzt angeschaut hatte, weil das Wort *Tidemoor* noch auf seinem Papier stand und weil seine Hand seit dem Morgen auf der Karte lag, kam die Erinnerung ohne Einladung.
-
-Vor fünf Wochen hatte er die Hand zum ersten Mal auf das Gehäuse gelegt. Ein Versuch, keine Überzeugung. Die Uhr war still gelaufen unter seiner Handfläche, ruhig, rein, so wie ein Uhrwerk lief, das mit sich selbst einverstanden war. Eine Stunde lang. Dann hatte er die Hand weggenommen und eine weitere Stunde gemessen, und die vier Minuten dreiunddreißig waren wieder da gewesen.
-
-So weit erinnerte er sich scharf. Das, was danach kam, hatte er bisher nicht zum Ende gedacht.
-
-Er hatte das Tidemoor-Haus in den folgenden Wochen mehrmals besucht. Zuerst weil er es nicht lassen konnte. Dann weil er an Taschenuhren der Gäste des Anker arbeitete und der Tidemoor-Salon einen ruhigeren Reparaturtisch hatte als der Schankraum. Dann weil der Hausherr ihm ein paar Kupfermünzen pro Besuch zahlte, dafür dass er beiläufig ein Auge auf die Standuhr warf. Bei jedem dieser Besuche — beim siebten oder achten inzwischen — war die Standuhr im Takt gelaufen. Nicht unter seiner Handfläche. Nicht in seiner unmittelbaren Nähe. Einfach im Raum, auf ihrem dunklen Sockel, und der Takt war sauber gewesen wie der einer Uhr, die nie ein Problem gekannt hatte.
-
-Vesper hatte es dem Raum zugeschrieben. Dem Klima. Der ungewöhnlichen Kellerwärme, die das ganze Haus durchzog. Seiner eigenen gelegentlichen Anwesenheit, wenn schon — in dem Sinn, dass Uhren manchmal auf die Stimmung eines Raumes reagierten, so wie Holz auf Feuchtigkeit reagierte, nur weniger erklärbar.
-
-Er hatte es nicht dem zugeschrieben, was ihm jetzt zum ersten Mal in der Kehle saß und schwerer zu schlucken war als der kalte Tee. Dass eine einzige Berührung vor fünf Wochen das Uhrwerk in einen Zustand gebracht haben könnte, den es seitdem ohne sein weiteres Zutun beibehalten hatte.
-
-Die anderen sechzehn Uhren der Stadt waren in derselben Zeit weiter falsch gegangen. Nur Tidemoor war stabil geblieben. Vom ersten Auflegen an.
-
-Der Gedanke war so, dass Vesper ihn nicht zu Ende formulieren wollte, nicht jetzt, nicht in diesem Schankraum. Er schob ihn zur Seite, ohne ihn zu verwerfen. Seine Karte lag vor ihm, und die Karte war das Dringende. Das andere war für den Abend.
+Er setzte ein kleines Kreuz neben den Tidemoor-Eintrag und ließ das Wort stehen. Die Karte war das Dringende. Alles andere war für den Abend.
 
 ---
 
@@ -254,7 +240,7 @@ Er sagte nichts, weil er nichts zu sagen hatte. Sie hatte angeklopft, also würd
 
 Er nickte einmal. Sie hob den Blick von der Türschwelle und sah ihm zum ersten Mal aus der Nähe in die Augen — auch wenn sie einander seit Wochen flüchtig über die Weite des Schankraums gesehen hatten.
 
-"Ich bin Botanikerin aus Velde und arbeite seit drei Wochen im Botanischen Garten der Oberstadt. Ich bin hier, weil Runa Kvist mir vor drei Tagen eine Erzählung gegeben hat. Über eine alte Standuhr in einem Haus am Grauwe-Ufer, die seit Jahrzehnten vier Minuten dreiunddreißig pro Tag verliert. Und über einen Uhrmacher aus Karst, der sie einmal angefasst hat und seitdem läuft sie im Takt. Die Erzählung hat Runa von einer Magd, die in dem Haus dient. Mir hat sie den Namen des Uhrmachers gegeben, und in welchem Gasthaus er wohnt."
+"Ich bin Botanikerin aus Velde und arbeite seit drei Wochen im Botanischen Garten der Oberstadt. Ich bin hier, weil Runa Kvist mir vor drei Tagen eine Erzählung gegeben hat. Über eine alte Standuhr in einem Haus am Grauwe-Ufer, die seit Jahrzehnten vier Minuten dreiunddreißig pro Tag verliert. Und über einen Uhrmacher aus Karst, der sie einmal angefasst hat. Die Erzählung hat Runa von einer Magd, die in dem Haus dient. Mir hat sie den Namen des Uhrmachers gegeben, und in welchem Gasthaus er wohnt."
 
 Vesper hörte den Satz und hörte vor allem, was er nicht enthielt. Kein *ich glaube an Geister*. Kein *ich habe etwas Seltsames gesehen*. Die Sätze einer Frau, die eine Erzählung auf die Waage gelegt und sie nicht leicht gefunden hatte.
 
@@ -266,51 +252,97 @@ Vesper hörte den Satz und hörte vor allem, was er nicht enthielt. Kein *ich gl
 
 Er brauchte einen Atemzug, um zu antworten. Nicht, weil er die Antwort nicht kannte, sondern weil er in fünf Wochen kein einziges Mal von jemandem nach dieser Antwort gefragt worden war.
 
-"Die Uhr heißt Tidemoor-Uhr. Sie verliert seit Generationen vier Minuten und dreiunddreißig Sekunden pro Tag. Drei Uhrmacher vor mir haben das Gehäuse geöffnet und keinen Fehler gefunden. Ich habe vor fünf Wochen die Hand auf das Gehäuse gelegt, weil mir nichts anderes eingefallen ist. Unter meiner Hand lief sie rein. Hand weg, sie ging wieder falsch. So weit habe ich es verstanden. So weit hat die Magd es gesehen, und so weit hat sie es Frau Kvist erzählt."
+"Die Uhr heißt Tidemoor-Uhr. Sie verliert seit Generationen vier Minuten und dreiunddreißig Sekunden pro Tag. Drei Uhrmacher vor mir haben das Gehäuse geöffnet und keinen Fehler gefunden." Er legte die linke Hand auf den Türrahmen, ohne den Druck auf das Holz zu verstärken. "Vor fünf Wochen, am ersten Tag hier, habe ich sie im Salon der Tidemoors gemessen. Sechs Stunden, drei Durchgänge. Hand aufs Gehäuse, eine Stunde gewartet, meine Taschenuhr verglichen: null Drift. Hand weg, eine Stunde gewartet: vier Minuten dreiunddreißig. Hand drauf, null. Hand weg, vier dreiunddreißig. Drei Mal hintereinander, derselbe Verlauf."
 
-Er ließ einen Atemzug zwischen den Sätzen, weil der nächste Teil ihm selbst heute erst ganz klar geworden war.
+Alphinas Kopf bewegte sich kaum — einen halben Zoll nach vorn, der Hals nicht steifer, nur aufmerksamer.
 
-"Was ich bis heute nicht verstanden habe: dass die Uhr seitdem permanent im Takt läuft. Ich bin in den folgenden Wochen sieben oder acht Mal ins Haus zurückgegangen. Jedes Mal war sie rein. Ich habe es dem Raum zugeschrieben, dem Klima, meiner gelegentlichen Anwesenheit im Salon. Heute Vormittag, beim Sortieren der anderen Uhren, ist mir aufgefallen, dass sie die einzige der siebzehn ist, die stabil geblieben ist. Die anderen sechzehn gehen weiter falsch. Nur Tidemoor nicht. Eine einzige Berührung, vor fünf Wochen — und die Uhr hat es behalten."
+"Ich bin an dem Abend aus dem Haus gegangen ohne Erklärung. Es gab keine. Das Werk war sauber. Das Gehäuse war dicht. Die Hemmung stimmte, der Anker, das Pendel, jedes Zahnrad einzeln. In dreizehn Jahren Werkbank hatte ich nichts gesehen, das so aussah, und ich hatte kein Wort dafür."
 
-Alphina atmete einmal aus, lang. Der Brustkorb hob sich unter dem Mantel, und diesmal versuchte sie nicht, das Ausatmen zu verstecken.
+Er hielt einen Moment inne. Das Nächste war der Teil, den er bis zu diesem Atemzug nicht für sich selbst ausgesprochen hatte.
 
-"Das habe ich gebraucht", sagte sie. "Dass Sie es selbst sagen."
+"Vor einer Woche bin ich wiedergekommen. Ich hatte in den Wochen dazwischen sechzehn andere Uhren in Vael gemessen und gesehen, dass sie alle nachgingen, und ich war nicht schlauer geworden. Ich wollte Tidemoor noch einmal hören, sonst nichts. Ich bin in den Salon, habe das Gehäuse nicht geöffnet, kein Werkzeug angelegt. Nur die Hand auf das Holz gelegt, so wie am ersten Tag."
+
+Er sah an Alphina vorbei auf die Wand hinter ihr. Es war leichter, das zu erzählen, ohne dabei jemanden anzusehen.
+
+"Und dann habe ich etwas getan, das ich vorher nie getan hatte. Ich habe nicht gemessen. Ich habe in mir den Takt gesucht, den eine Ankerhemmung dieser Bauart haben sollte. Zwei Halbschwünge pro Sekunde, rein, unbeladen. Diesen Takt habe ich nach dreizehn Jahren Werkbank in der Brust. Ich kenne ihn besser als meinen eigenen Puls. Und ich habe ihn dem Werk vorgelegt. Nicht gedacht, nicht gesagt — gehalten, als Form in der Brust, durch die Handfläche ins Messing. Zwanzig, dreißig Atemzüge lang. Dann drei Sätze innerlich, sehr knapp, weil mir in dem Augenblick nichts anderes einfiel. *So. Genau so. Behalte diesen Schlag.*"
+
+Er hörte sein eigenes Wort *behalte* und spürte sofort, dass es zu weit gegangen war — zu weit für einen Mann, der Uhren reparierte und keine Beschwörungen aussprach. Er sagte es trotzdem zu Ende.
+
+"Dann habe ich die Hand weggenommen und bin gegangen. Ich habe mir selbst nicht geglaubt, nicht in dem Moment, nicht danach. Sieben Tage sind es jetzt. Ich bin in diesen sieben Tagen jeden zweiten Tag im Salon gewesen, weil der Hausherr mir ein paar Kupfermünzen dafür zahlt, dass ich ein Auge auf das Werk werfe. Jedes Mal war der Schlag sauber. Jedes Mal null Drift gegen meine Taschenuhr. Jedes Mal ohne dass ich sie noch einmal angefasst hätte."
+
+Er kam zurück zu Alphinas Augen.
+
+"Ich erzähle Ihnen das, weil Sie mich gefragt haben. Und weil es das erste Mal ist, dass ich den Satz von vorne bis hinten ausspreche. Er steht nirgendwo im Notizbuch. Ich war nicht sicher, ob er wahr ist, bis ich ihn jetzt gesagt habe."
+
+Alphinas Brust hob sich einmal unter dem Mantel, länger als ein gewöhnliches Einatmen. Sie legte die linke Hand auf die rechte und hielt sie dort.
+
+"Das habe ich gebraucht", sagte sie. "Dass jemand es ausspricht, der es nicht verkauft."
 
 "Warum brauchten Sie das?"
 
-Sie legte die linke Hand auf die rechte und hielt sie dort. Ihre Augen blieben auf seinen. Sie suchten keinen Halt; sie trugen nur, was jetzt kam, und was nicht auf den Boden des Flurs gehörte.
+Sie schaute einen Atemzug lang auf die Schwelle, dann wieder auf. Ihre Augen suchten keinen Halt; sie trugen nur, was jetzt kam.
 
-"Weil ich heute Nachmittag wieder in den Garten gegangen bin. Zum Hügel im westlichen Drittel der Anlage. Dort steht ein Kreis aus sieben Steinen, hüfthoch, Purpurstein, dunkler als der der Stadtmauer. Die Pflanzen im Inneren des Kreises wachsen nicht. Die Pflanzen am Rand des Kreises wachsen schneller, als sie sollten. Ich habe vor drei Tagen zum ersten Mal meine Hand auf einen dieser Steine gelegt, und der Stein war warm unter meiner Handfläche — nicht Sonnenwärme, warm wie eine Hand, die lange in einer anderen gelegen hat. Und ich habe unter meiner Handfläche drei Stöße gespürt. Sehr gleichmäßig, langsamer als mein eigenes Herz. Ein Puls, der nicht zu meinem Körper gehört."
+"Weil ich an der Nordmauer des Gartens sieben mannshohe Farne habe. *Asplenium*, zu groß für die Breite, in der sie stehen. Henrik schneidet sie jeden vierten Tag, weil sie schneller wachsen, als sie sollten. Seit ich im Garten bin, wachsen sie noch schneller. Ich habe das zuerst nicht sehen wollen, und als es nicht mehr wegging, habe ich es versucht."
 
-Vesper griff, ohne es zu wollen, nach der Tischkante hinter sich. Sein Körper hatte schneller reagiert als sein Kopf, wie immer.
+Sie machte eine kleine Pause, dieselbe, die er vor zwei Minuten gemacht hatte.
 
-"Heute habe ich es ein zweites Mal getan. Ich wollte wissen, ob es wiederkommt. Es ist wiedergekommen. Drei Stöße, dichter diesmal, dichter als vor drei Tagen — oder ich habe genauer gehört. Ich bin in den Anker zurückgegangen und habe eine halbe Stunde gebraucht, bis ich mich entschieden habe, an Ihre Tür zu klopfen statt an meine eigene. Ich brauchte vorher zu wissen, dass Ihre Geschichte kein Gerücht ist. Wenn bei Ihnen eine einzige Berührung ein Uhrwerk fünf Wochen lang hält, dann weiß ich, was ich am Stein gespürt habe. Wenn nicht, dann bin ich morgen wieder allein mit etwas, das keinen Namen hat."
+"Vor neun Tagen. Morgens, niemand im Garten außer Henrik am anderen Ende bei den Hortensien. Ich bin zu den Farnen gegangen und habe die Handfläche flach gegen den Mittelnerv des größten Wedels gelegt. Und dann habe ich in mir gehalten, was ich von ihnen wollte. Nicht als Satz. Als Form. Ein Wachstum, das ruht, wo es steht. Eine Länge, die sich nicht verbraucht, nicht weiter drängt. Ich habe die Form zwanzig Atemzüge lang gehalten und die Hand weggenommen."
 
-Er trat einen halben Schritt zurück. Nicht als Distanz — als Platz, um die Tür weiter öffnen zu können, ohne dass der Spalt zu einer Einladung wurde. Die Tür ging bis zur Hälfte auf. Er blieb auf der Schwelle.
+Vespers rechte Hand am Türrahmen wurde stiller, als sie ohnehin war.
 
-"Ich habe in den fünf Wochen noch sechzehn andere Uhren in Vael gemessen. Keine davon geht vor, alle gehen nach. Die Abweichungen reichen von elf Sekunden pro Tag bis zu zwei Minuten dreiundzwanzig. Heute am Vormittag habe ich sie zum vierten Mal sortiert, und zum ersten Mal ist mir das Muster aufgefallen. Wenn Sie es sehen möchten — einen Moment."
+"Zwei Schnittrhythmen später hat Henrik mir beiläufig gesagt: *die Nordmauer-Farne hab ich diesmal nicht angelangt, die stehen wo sie stehen*. Eine kleine Freude für ihn, weil er Zeit gewonnen hatte. Ich habe genickt und nichts erklärt. Ich habe mir selbst auch nicht geglaubt — bis zu dem Moment, in dem Sie eben das Wort *behalte* gesagt haben. Ich habe in meinem Kopf nicht dasselbe Wort benutzt. Aber ich habe dieselbe Sache gemeint."
+
+Ein Dielenbrett im Flur knackte leise, ohne dass jemand darauf getreten wäre. Unten im Schankraum klirrte ein Glas auf Holz.
+
+"Und dann gibt es noch die andere Richtung", sagte Alphina.
+
+"Die andere?"
+
+"Bei den Farnen habe ich etwas aus mir in das Material gelegt. Drei Tage später habe ich etwas anderes getan. Ich bin auf den Hügel im westlichen Drittel des Gartens gegangen. Dort steht ein Kreis aus sieben Steinen, hüfthoch, Purpurstein, dunkler als der der Stadtmauer. Die Pflanzen im Inneren des Kreises wachsen nicht. Die Pflanzen am Rand wachsen schneller, als sie sollten." Sie hielt kurz den Atem. "Ich habe die Hand auf einen der Steine gelegt. Der Stein war warm unter meiner Handfläche. Nicht Sonnenwärme. Eine Wärme, die von innen kam, gleichmäßig, tief. Und ich habe drei Stöße unter der Handfläche gespürt. Gleichmäßig, langsamer als mein eigenes Herz. Ein Puls, der nicht aus meinem Körper kam."
+
+"Sie haben dabei nichts hineingelegt."
+
+"Nichts. Ich habe nur gehört. Das ist die andere Richtung. Bei den Farnen habe ich gegeben. Beim Stein habe ich empfangen. Heute Nachmittag habe ich es ein zweites Mal am Stein getan, um zu prüfen, ob der Puls wiederkommt. Er ist wiedergekommen. Drei Stöße, dichter diesmal. Danach bin ich in den Anker zurück, und dann habe ich eine halbe Stunde gebraucht, bis ich mich entschieden habe, an Ihre Tür zu klopfen statt an meine eigene."
+
+Vesper stand einen Atemzug still. Die Pinzette hinter ihm auf dem Tisch machte kein Geräusch.
+
+"Zwei Modi", sagte er. "Geben und hören."
+
+"Ja."
+
+"Beim ersten Mal in Tidemoor habe ich nichts gegeben. Ich habe die Hand aufgelegt und gesehen, was passiert. Das war Hören. Die Uhr hat unter der Hand reagiert, solange sie den Kontakt hatte. Hand weg, Kontakt weg, Reaktion weg. Beim zweiten Mal habe ich gegeben. Einen konkreten Takt, den sie übernehmen konnte, weil er einer Bauart entsprach, für die sie gebaut war. Deshalb hat sie ihn behalten."
+
+"Ich habe ein Wachstum gegeben. Einen konkreten Wachstumsrhythmus, den die Farne übernehmen konnten, weil er einer Pflanze entsprach, für die sie Zellen haben. Deshalb haben sie ihn behalten." Ihre Mundwinkel wurden weicher, nicht zu einem Lächeln. "Wir reden gerade über dasselbe Prinzip in zwei verschiedenen Sprachen."
+
+"Werkbank und Gewächshaus."
+
+"Messing und Mittelnerv."
+
+Sie schauten einander zwei, drei Atemzüge lang an, ohne dass einer etwas hinzufügte. Vesper hatte die Tür in der Zwischenzeit nicht weiter geöffnet. Der Abstand zwischen ihnen war trotzdem kleiner geworden, auf eine Weise, die keinen Raum brauchte.
+
+"Eines müssen Sie noch sehen", sagte er.
 
 Er drehte sich halb zurück ins Zimmer, griff das Notizbuch vom Klapptisch und kam zur Tür zurück, das Buch an der Seite mit den Ringen aufgeschlagen. Er hielt es so, dass sie im Licht der Flurlampe hineinsehen konnte, ohne dass er es ihr aus der Hand gab.
 
-"Vier Gruppen, vier konzentrische Ringe. Uhren, die elf bis fünfzehn Sekunden pro Tag verlieren, sitzen alle in Hafennähe — das ist der äußere Ring. Dreißig bis fünfzig Sekunden im zweiten. Eine bis zwei Minuten im dritten. Zwei bis drei Minuten im inneren — drei der sechzehn, nahe beieinander. Je näher am Zentrum, desto stärker die Abweichung. Der Verlauf ist gleichmäßig, als würde etwas die Uhren alle an sich ziehen."
+"Das ist der Vormittag. Siebzehn Uhren in der Stadt, in vier Wochen gemessen, heute zum ersten Mal nach Magnitude-Gruppen sortiert. Vier Gruppen, vier konzentrische Bögen. Uhren, die elf bis fünfzehn Sekunden pro Tag verlieren, sitzen alle in Hafennähe — der äußere Ring. Dreißig bis fünfzig Sekunden im zweiten. Eine bis zwei Minuten im dritten. Zwei bis drei Minuten im innersten — drei der sechzehn, nahe beieinander. Je näher am Zentrum, desto stärker die Drift. Tidemoor liegt außerhalb, am Grauwe-Ufer. Sonderfall."
 
 Er tippte mit der Fingerspitze neben den winzigen Punkt in der Mitte, ohne ihn zu berühren.
 
-"Der Mittelpunkt liegt irgendwo in der Oberstadt, hinter dem Handelshaus. Ich war dort nie. Ich kenne das Viertel nicht."
+"Der Mittelpunkt liegt irgendwo in der Oberstadt, hinter dem Handelshaus. Ein Viertel, in dem ich in fünf Wochen kein einziges Mal war. Ich weiß nicht, was dort steht."
 
 Alphinas Gesicht veränderte sich nicht in Überraschung. Es veränderte sich in einer Art Anerkennen — wie jemand, der ein Loch in einer Hecke findet, von dem er schon geahnt hatte, dass es da war.
 
-"Das Viertel hinter dem Handelshaus ist der Botanische Garten. Der Mittelpunkt ist der Steinkreis, den ich Ihnen gerade beschrieben habe."
+"Das Viertel hinter dem Handelshaus ist der Botanische Garten. Der Hügel im westlichen Drittel steht ziemlich genau an der Stelle, wohin Ihre Bögen zeigen. Sieben Steine, hüfthoch. Der Stein, auf den ich meine Hand gelegt habe, ist Ihr Mittelpunkt."
 
 Vesper hielt den Finger am Papier still. Sein eigenes Atmen setzte für zwei Schläge aus und setzte einen halben Takt zu langsam wieder ein.
 
-"Ich stelle mir das vor wie ein Gewicht auf einem gespannten Tuch", sagte er. Es war nicht das, was er hatte sagen wollen. Es war das Bild, das ihm beim Zeichnen der Ringe am Vormittag gekommen war, und das er bisher nur für sich selbst benutzt hatte. "Je schwerer das Gewicht, desto tiefer beugt sich das Tuch. Die Uhren weiter draußen verlieren weniger, weil die Beugung dort flacher ist. Die weiter innen verlieren mehr. Der Stein in der Mitte — das ist das Gewicht."
+"Ich stelle mir das vor wie ein Gewicht auf einem gespannten Tuch", sagte er leise. "Je schwerer das Gewicht, desto tiefer beugt sich das Tuch. Die Uhren weiter draußen verlieren weniger, weil die Beugung dort flacher ist. Die weiter innen verlieren mehr. Der Stein in der Mitte ist das Gewicht."
 
 "Ein gutes Bild." Alphina hob den Blick vom Notizbuch. "Ich habe kein besseres."
 
 "Ich auch nicht."
 
-Sie standen einen Atemzug lang zwischen zwei Sätzen. Vesper hatte die Tür nicht weiter geöffnet. Alphina hatte keinen Schritt nach vorn gemacht. Und der Abstand zwischen ihnen war trotzdem kleiner geworden, auf eine Weise, die keinen Raum brauchte, weil sie das, was zwischen ihnen jetzt stand, schon teilten.
+Sie standen einen Atemzug lang zwischen zwei Sätzen.
 
 "Eines passt nicht in Ihr Muster", sagte Alphina leise.
 
@@ -318,13 +350,13 @@ Sie standen einen Atemzug lang zwischen zwei Sätzen. Vesper hatte die Tür nich
 
 "Vier Minuten dreiunddreißig pro Tag wären nach den Ringen ein Zentrumswert. Aber die Uhr steht am Grauwe-Ufer, ganz draußen, am Rand der Stadt."
 
-"Sie ist ein eigener Fall. Ich weiß es seit Wochen, ich kann es nur nicht erklären." Er zögerte und entschied sich dann, auch diesen Teil zu geben. "Frau Kvist hat mir heute Nachmittag ein Flugblatt mitgegeben. Zweite Folge ihrer Beobachtungen. Vier der sechs Anomalien darauf liegen sauber auf meinen Ringen. Die fünfte, Grauwe-Ufer vier, liegt zwei Häuser vom Tidemoor-Haus entfernt und passt in keine Runde. Dort soll der Fluss morgens zwischen fünf und sechs rückwärts fließen. Ich weiß nicht, was die beiden Punkte miteinander verbindet. Heute erst gesehen."
+"Sie ist ein eigener Fall. Ich weiß es seit Wochen." Er zögerte einen Atemzug und entschied sich dann, auch diesen Teil zu geben. "Frau Kvist hat mir heute Nachmittag ein Flugblatt mitgegeben. Zweite Folge ihrer Beobachtungen. Vier der sechs Anomalien darauf liegen sauber auf meinen Ringen. Die fünfte, Grauwe-Ufer vier, liegt zwei Häuser vom Tidemoor-Haus entfernt und passt in keinen Bogen. Dort soll die Grauwe morgens zwischen fünf und sechs rückwärts fließen. Zwei Muster, nicht eines. Heute erst gesehen."
 
-"Der Fluss dreht sich an mehreren Stellen rückwärts. Nicht nur dort." Alphina senkte den Blick halb. "Das ist ein Vaeler Gerücht, das stimmt. Ich habe es zweimal selbst gesehen, an der Grauwe-Brücke unten in der Hafenstadt. Es passiert nicht überall, nur dort, wo der Boden warm ist. Warm, wie er nicht sein sollte. So warm wie der Stein im Botanischen Garten unter meiner Hand."
+"Die Grauwe dreht sich an mehreren Stellen rückwärts. Das ist ein Vaeler Gerücht, das stimmt. Ich habe es zweimal selbst gesehen, an der Grauwe-Brücke unten in der Hafenstadt. Es passiert nur dort, wo der Boden warm ist. Warm, wie er nicht sein sollte. So warm wie der Stein im Botanischen Garten unter meiner Hand. Und das Gehäuse der Tidemoor-Uhr, nehme ich an, hat dieselbe Temperatur."
 
-Vesper schluckte und merkte, dass sein Mund trocken war. Die Wärme der Standuhr im Tidemoor-Salon. Die Wärme der Rillen im Kellerholz. Die Wärme unter Alphinas Hand auf dem Stein. Die Handkante einer Druckerin, die heute Nachmittag seinen Daumen gestreift hatte. Vier Punkte in seinem Kopf, die er bisher als vier verschiedene Tatsachen abgelegt hatte, und die er jetzt als eine einzige sah.
+"Dieselbe. Ich habe sie am ersten Tag registriert und kein Wort dafür gehabt."
 
-Es war kein Gespräch mehr über siebzehn Uhren. Es war eines über ein Prinzip.
+Drei Punkte in seinem Kopf, die er bisher als drei verschiedene Tatsachen abgelegt hatte, legten sich jetzt aufeinander: das Gehäuse im Tidemoor-Salon, die Rillen im Kellerholz unter dem Tidemoor-Haus, der Stein unter Alphinas Handfläche. Drei Orte, eine Wärme. Es war kein Gespräch mehr über siebzehn Uhren. Es war eines über ein Prinzip.
 
 "Ich würde den Hügel gerne sehen", sagte er.
 
@@ -338,9 +370,11 @@ Es war kein Gespräch mehr über siebzehn Uhren. Es war eines über ein Prinzip.
 
 Sie nahm das Buch, das er die ganze Zeit zwischen ihnen gehalten hatte, aus seiner Hand, klappte es zu und gab es ihm zurück. Beim Zurückgeben streifte ihr Daumen den Rand seiner Hand, dort, wo die Schwiele unter dem Zeigefinger saß — die Stelle, an der Uhrmacher das Leder ihrer Werkzeuge drückten —, und das Streifen war keine Absicht. Oder es war eine, die keiner von beiden zugeben wollte.
 
-"Ich danke Ihnen", sagte sie. "Dafür, dass Sie mir nicht die Tür vor der Nase zugemacht haben."
+"Ich danke Ihnen", sagte sie. "Dafür, dass Sie mir nicht die Tür vor der Nase zugemacht haben. Und dafür, dass Sie den Teil erzählt haben, den Sie heute noch nicht erzählen wollten."
 
-"Das hätte ich nie getan."
+"Ich hatte ihn mir vorher nicht einmal selbst erzählt."
+
+"Ich weiß. Ich habe es gehört."
 
 Er hörte seinen eigenen Satz und wusste, dass er ihn heute früh noch nicht gesagt hätte. Es war einer von denen, die aus einer Schicht hervorkamen, die er normalerweise mit der Kante der Pinzette nach unten drückte. Er fiel heute heraus, weil die ganze Schichtung in Bewegung war.
 
@@ -366,15 +400,13 @@ Die Wärme kam ihm entgegen.
 
 Sie kam aus dem Messing in seine Handfläche und kroch in sein Handgelenk. Weiter in den Unterarm. Eine dichte, ruhige Wärme, die nicht pulsierte und die er trotzdem nicht für Raumtemperatur halten konnte — die Wärme eines Körpers, der zu lange in einem Sessel gesessen hat. Dieselbe Wärme wie das Gehäuse der Tidemoor-Standuhr unter seiner Hand. Dieselbe Wärme wie die Rillen im Kellerholz. Dieselbe Wärme wie die Handkante einer Druckerin, die ihm am Nachmittag einen Umschlag gereicht hatte.
 
-Die Erinnerung, die er am Vormittag an den Tisch gelehnt hatte, kam diesmal bis zum Ende.
+Was er vor einer Woche auf das Tidemoor-Gehäuse gelegt hatte, lag jetzt in Kvarns Taschenuhr. Er hatte es nicht vorgelegt. Nicht als Form, nicht als Satz, nicht als das knappe *behalte diesen Schlag*, das er gerade zum ersten Mal vor einem anderen Menschen ausgesprochen hatte. Er hatte seit anderthalb Stunden an der Welle gearbeitet, den Takt in der Brust, weil man eine Welle nicht dreht, ohne den Takt zu hören, auf den man dreht. Er hatte ihn nicht gesendet. Er hatte ihn gehabt, während das Werk unter seinen Händen lag, und das hatte gereicht.
 
-Der erste Tag im Tidemoor-Salon, die Hand auf dem Nussbaum, eine ganze Stunde bei Null Drift. Dann die Hand weg, die Uhr wieder falsch. Der zweite Tag: er war zurückgekommen, um zu messen, und die Uhr war rein gelaufen, ohne dass er sie angefasst hatte. Er hatte das dem Klima zugeschrieben oder einer Zufälligkeit im Werk. Der dritte Tag: wieder rein. Dann eine Woche, in der er andere Aufträge gehabt hatte. Der siebte, achte, neunte Tag: er hatte es nicht mehr geprüft, weil die Uhr sich in sein Hinterkopf-Register verschoben hatte — ein gelöster Fall. Im Schankraum hatte der Wirt einmal beiläufig gesagt: *die Tidemoor ist sauber, seit der Uhrmacher aus Karst da war.* Vesper hatte genickt und an das eigene Fachmännische geglaubt.
-
-Die anderen sechzehn Uhren in der Stadt waren in derselben Zeit weiter falsch gegangen. Nur Tidemoor war rein geblieben. Vom ersten Auflegen an, ohne Unterbrechung.
+Die anderen sechzehn Uhren in der Stadt waren in derselben Zeit weiter falsch gegangen. Nur Tidemoor war rein geblieben. Seit dem zweiten Auflegen, ohne Unterbrechung. Und jetzt Kvarn.
 
 Es war nicht der Raum gewesen. Nicht das Klima. Nicht seine Anwesenheit.
 
-Es war die Berührung.
+Es war der Takt in seiner Brust, den er an ein Werk weitergab, ohne es zu wissen.
 
 Vesper nahm die Hand von Kvarns Uhr. Die Wärme blieb einen Atemzug auf der Haut, dann verlor sie sich. Das Ticken lief weiter, sauber, im Takt seiner eigenen Taschenuhr. Er wusste jetzt, ohne es ausgerechnet zu haben, dass dieser Takt nicht mehr weglaufen würde. Morgen nicht, übermorgen nicht. Die Welle war nicht das gewesen, was den Schlag rein gemacht hatte. Er war es.
 
