@@ -123,7 +123,7 @@
         "pov": "Maren",
         "status": "final",
         "woerter": 4237,
-        "text": "Grauküste. Maren steht vor der Werft Dahl. Fünf Jahre Briefwechsel, nie ein Treffen — Klaus ist tot. Maren erbt die Werft und ein Boot, drei Viertel fertig. Das Boot baut sich nachts selbst weiter — neue Holzspäne am Morgen, Planken die gestern nicht da waren. Thies Brandt zeigt ihr alles. Maren bleibt.",
+        "text": "Grauküste. Maren steht vor der Werft Dahl. Fünf Jahre Briefwechsel, nie ein Treffen — Haron Dahl ist tot. Maren erbt die Werft und ein Boot, drei Viertel fertig. Das Boot baut sich nachts selbst weiter — neue Holzspäne am Morgen, Planken die gestern nicht da waren. Edric, Harons Geselle, zeigt ihr alles. Maren bleibt.",
         "datei": "04-maren.md"
       },
       "I1": {
@@ -131,7 +131,7 @@
         "pov": "Elke",
         "status": "final",
         "woerter": 1807,
-        "text": "Elke van der Holt, Bildhauerin, kommt wegen des Purpursteins nach Vael. Erste Berührung: der Stein ist warm. Sie legt die Hand darauf und spürt Hohlräume, Adern, Tunnel darunter.",
+        "text": "Elke van der Holt, Bildhauerin, kommt wegen des Purpursteins nach Vael. Erste Berührung: der Stein ist warm. Sie legt die Hand darauf und spürt Hohlräume, Adern, etwas das atmet.",
         "datei": "I1-elke.md"
       },
       "05": {
@@ -272,7 +272,7 @@
         "pov": "Maren",
         "status": "szenenplan",
         "woerter": null,
-        "text": "Maren findet in Harons nachgelassener Werkstatt einen Karton mit Papieren — Skizzen, Symbole, eine Zeichnung eines acht-Stein-Kreises, Jahreszahl TZ 549. Sie bringt sie zu Vesper im Tidemoor-Haus. Köpfe nahe über dem Tisch, seine Finger über die Zeichen. Marens Gedanken von Kap 14 kommen zurück, schärfer. Vesper: ›Das gehört ins Stadtarchiv.‹ Sie gehen zusammen. Esther Voss empfängt sie, blättert, erkennt eine Handschrift, holt das 400-jährige Manuskript. Im Hintergrund sortiert Jara — still, beobachtend. Als Esther abgelenkt ist, schiebt Jara Vesper wortlos einen zweiten Folianten zu. Maren sieht es. Vesper darf das Manuskript ausleihen. Auf dem Rückweg: ein Blick zwischen ihnen, der beide wissen lässt, dass der Abend noch nicht vorbei ist."
+        "text": "Maren findet in Harons nachgelassener Werkstatt einen Karton mit Papieren — Skizzen, Symbole, eine Zeichnung eines acht-Stein-Kreises, Jahreszahl TZ 549. Sie trägt ihn zu Vesper an seinen Reparaturtisch am Fenster des Gasthauses Zum Anker. Köpfe nahe über dem Tisch, seine Finger über die Zeichen. Marens Gedanken von Kap 14 kommen zurück, schärfer. Vesper: ›Das gehört ins Stadtarchiv.‹ Sie gehen zusammen. Esther Voss empfängt sie, blättert, erkennt eine Handschrift, holt das 400-jährige Manuskript. Im Hintergrund sortiert Jara — still, beobachtend. Als Esther abgelenkt ist, schiebt Jara Vesper wortlos einen zweiten Folianten zu. Maren sieht es. Vesper darf das Manuskript ausleihen. Auf dem Rückweg: ein Blick zwischen ihnen, der beide wissen lässt, dass der Abend noch nicht vorbei ist."
       },
       "20": {
         "titel": "Vesper + Maren: Die Werft",
@@ -293,7 +293,7 @@
         "pov": "Maren",
         "status": "szenenplan",
         "woerter": null,
-        "text": "Maren kommt nachts ins Tidemoor-Haus. Kein Vorwand. Sie hat den Seitentür-Schlüssel aus Kap 7 noch, warm in der Tasche. Vesper steht am Fenster und dreht sich um, als hätte er sie kommen hören. Was folgt ist kein Spektakel — Vorsicht, Erlaubnis, Präzision. Seine Hände an ihren Handgelenken, die wartenden Hände aus Kap 14. Ihr Fluchtinstinkt schlägt einmal an und wird nicht bedient. Erste Dom/Sub-Session, langsam, ehrlich. Danach: sie bleibt. Zum ersten Mal. Die Tidemoor-Standuhr unten läuft rein wie seit Mai. Aber die kleine Messing-Tischuhr auf seinem Nachttisch — eine der sechzehn aus seiner Kartografie — hat in dieser Nacht zum ersten Mal null Drift. Der Takt, den Vesper der Tidemoor-Uhr gegeben hat, ist durch bloße Nähe und Marens Atem, der in seinen gefallen ist, in ein weiteres Werk gesprungen. Er weiß es, sagt es nicht. Im Morgengrauen küsst sie ihn auf die Stirn und geht. Die Grauwe draußen fließt wieder normal."
+        "text": "Maren geht nachts die Hintertreppe im Anker hoch, zweiter Stock, Vespers Zimmer. Kein Vorwand. Vesper steht am Fenster und dreht sich um, als hätte er sie kommen hören. Was folgt ist kein Spektakel — Vorsicht, Erlaubnis, Präzision. Seine Hände an ihren Handgelenken, die wartenden Hände aus Kap 14. Ihr Fluchtinstinkt schlägt einmal an und wird nicht bedient. Erste Dom/Sub-Session, langsam, ehrlich. Danach: sie bleibt. Zum ersten Mal. Die kleine Messing-Tischuhr auf seinem Nachttisch — eine der sechzehn aus seiner Kartografie — hat in dieser Nacht zum ersten Mal null Drift. Der Takt, den Vesper der Tidemoor-Standuhr im Mai gegeben hat, ist durch bloße Nähe und Marens Atem, der in seinen gefallen ist, in ein weiteres Werk gesprungen. Er weiß es, sagt es nicht. Im Morgengrauen küsst sie ihn auf die Stirn und geht leise die Treppe hinunter. Die Grauwe draußen fließt wieder normal."
       },
       "I5": {
         "titel": "Die Feuer-Schemen, 1423",
@@ -335,7 +335,7 @@
         "pov": "Vesper",
         "status": "szenenplan",
         "woerter": null,
-        "text": "Maren kommt wieder ins Tidemoor-Haus. Was zwischen ihnen in Kap 22 begonnen hat, vertieft sich. Präzision und Hingabe, ehrlicher, bewusster. Keine Wiederholung — eine Weiterführung. Danach: Gespräch im Bett, seine Hand auf ihrer Hüfte, die Grauwe draußen fließt normal. Sie reden über Haron, über das Sprachbuch, über die Frage die beide vermeiden."
+        "text": "Maren kommt wieder in Vespers Zimmer im Anker. Was zwischen ihnen in Kap 22 begonnen hat, vertieft sich. Präzision und Hingabe, ehrlicher, bewusster. Keine Wiederholung — eine Weiterführung. Danach: Gespräch im Bett, seine Hand auf ihrer Hüfte, die Grauwe draußen fließt normal. Sie reden über Haron, über das Sprachbuch, über die Frage die beide vermeiden."
       },
       "I6": {
         "titel": "Varen: Geduld",
@@ -345,18 +345,18 @@
         "text": "Varen wartet. Die Resonanzen konvergieren. Seine Schemen haben das Manuskript platziert, das Sprachbuch hinterlegt. Alles liegt bereit. „Die Pflanzen-Frau wird als Erste begreifen. Die anderen werden folgen.“"
       },
       "28": {
-        "titel": "Maren: Die Tunnel",
+        "titel": "Maren: Der Weg zum Riss",
         "pov": "Maren",
         "status": "szenenplan",
         "woerter": null,
-        "text": "Maren folgt dem Pochen unter der Werft. Lose Bodenbretter, schwarzer Basalt darunter. Tunnel, wärmer als möglich. Sie folgt dem Wasser das rückwärts fließt. Am Ende: der Bogen. Zwei Pfeiler. Der Riss, geschlossen, pulsierend. Ihre Hand darauf — der Riss weint. PLUS: Sie findet in einem Seitengang eine Kiste mit weiteren Haron-Papieren, und darin eine Phrase in Moragh-Sprache (lesbar durch Jaras Sprachbuch). Erschütterung: Haron hat sie belogen."
+        "text": "Maren folgt dem rückwärts fließenden Wasser — vom Werft-Keller hinaus. Der Weg führt sie zum Steinkreis im Botanischen Garten (konkreter Zugang: TBD — Plot-Entscheidung offen, keine Tunnel). Am Bogen: zwei Pfeiler. Der Riss, geschlossen, pulsierend. Ihre Hand darauf — der Riss weint. PLUS: Sie findet bei den Steinen eine zweite Kiste mit Haron-Papieren, darin eine Phrase in Moragh-Sprache (lesbar durch Jaras Sprachbuch). Erschütterung: Haron hat sie belogen."
       },
       "29": {
-        "titel": "Alphina: Die Tunnel",
+        "titel": "Alphina: Am Riss",
         "pov": "Alphina",
         "status": "szenenplan",
         "woerter": null,
-        "text": "Sorel ist seit drei Tagen weg. Alphina geht in die Tunnel, allein, Farne als Kompass. Findet ihn am Riss. „Du bist nicht hier weil du mich liebst. Du bist hier weil du nicht ertragen kannst, dass jemand dir den Rücken zukehrt.“ Versöhnung, schmerzhafter als der Streit."
+        "text": "Sorel ist seit drei Tagen weg. Alphina geht zum Steinkreis, allein, Farne als Kompass. Findet ihn am Riss. „Du bist nicht hier weil du mich liebst. Du bist hier weil du nicht ertragen kannst, dass jemand dir den Rücken zukehrt.“ Versöhnung, schmerzhafter als der Streit."
       },
       "30": {
         "titel": "Vesper + Maren: Die Uhren stehen",
@@ -433,7 +433,7 @@
         "pov": "Vesper",
         "status": "szenenplan",
         "woerter": null,
-        "text": "Fünf Menschen, vier lebend, verletzt von Alphinas Ausbruch. Moragh: zwei Monde, Akkretionsscheibe, sattere Farben, andere Luft. Können die Sprache nicht sprechen. Stolpern aus dem Tunnel."
+        "text": "Fünf Menschen, vier lebend, verletzt von Alphinas Ausbruch. Moragh: zwei Monde, Akkretionsscheibe, sattere Farben, andere Luft. Können die Sprache nicht sprechen. Stolpern durch das Portal."
       },
       "39": {
         "titel": "Maren: Die Stadt",
