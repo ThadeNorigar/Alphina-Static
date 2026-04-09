@@ -1109,13 +1109,13 @@
               "wissen",
               "tschechow"
             ],
-            "titel": "Vesper erkennt: die Berührung war permanent",
+            "titel": "Vesper erkennt: der Takt in der Brust hält",
             "tz_tag": 134,
             "datum_text": "14. Mai",
             "figur": "Vesper",
             "fakt": "tidemoor-uhr-permanent",
             "stufe": "ahnt",
-            "detail": "Die Tidemoor-Uhr läuft seit der ersten Berührung vor sechs Wochen permanent rein, auch ohne weiteres Auflegen. Vesper hatte es dem Raum zugeschrieben. Jetzt erkennt er: es war die Berührung. Eine einzige. Die anderen sechzehn Uhren laufen weiter falsch. Tschechow: Vesper ist selbst ein Resonanz-Fokus, und jede seiner Berührungen hinterlässt etwas Dauerhaftes."
+            "detail": "Beim ersten Besuch (10. April) lief die Tidemoor-Uhr nur unter Vespers Hand rein und verlor 4:33 wieder, sobald er losließ. Vor einer Woche (7. Mai) ist er zurückgekehrt und hat der Uhr nicht nur die Hand aufgelegt, sondern den sauberen Takt einer Ankerhemmung aus der eigenen Brust durch die Handfläche ins Messing vorgelegt — als Form, dann als innerer Satz: 'So. Genau so. Behalte diesen Schlag.' Seitdem läuft sie ohne Unterbrechung rein. Am Abend des 14. Mai bestätigt sich die Erkenntnis zweifach: er erzählt es im Dialog mit Alphina zum ersten Mal aus, und Kvarns Taschenuhr in seinem Zimmer läuft nach 90 Minuten Welle-Arbeit mit dem Takt in der Brust ebenfalls null Drift. Tschechow: Vesper ist selbst Resonanz-Quelle, und aktiv weitergegebene Takte halten dauerhaft."
           },
           {
             "tz": 551,
@@ -1133,7 +1133,7 @@
             ],
             "intensitaet": "bekannt",
             "ort": "Gasthaus Zum Anker, Vespers Zimmer (2. Stock rechts)",
-            "detail": "Alphina klopft. Dialog im Türrahmen, Tür bleibt auf einem Spalt. Sie fragt nach Uhren die falsch gehen, nennt die Tidemoor-4:33 (von Runa). Er bestätigt. Er zeigt ihr die Ring-Karte durch den Spalt. Sie erkennt sofort: der Mittelpunkt ist der Steinkreis im Botanischen Garten, sieben Steine, hüfthoch, Purpurstein. Sie beschreibt den Stein den sie vor vier Tagen berührt hat — warm, drei Pulsstöße unter der Handfläche. Beide verstehen: sie sind Teile desselben Systems. Kein Körperkontakt außer einem beiläufigen Daumen-Streifen beim Rückgeben des Notizbuchs. Verabredung für morgen Vormittag im Garten."
+            "detail": "Alphina klopft. Dialog im Türrahmen, Tür bleibt auf einem Spalt. Sie stellt sich vor (Botanikerin aus Velde, Botanischer Garten, Runa als Quelle) und fragt: stimmt die Erzählung über die 4:33-Standuhr? Vesper erzählt zweigeteilt. Erstens: der passive Erstbefund vor fünf Wochen (Hand drauf/weg, reaktiv). Zweitens — und zum ersten Mal vor einem anderen Menschen ausgesprochen: der zweite Besuch vor einer Woche, bei dem er der Uhr aktiv den sauberen Ankerhemmungs-Takt aus der eigenen Brust durch die Handfläche ins Messing vorgelegt hat, mit dem inneren Satz 'So. Genau so. Behalte diesen Schlag.' Seitdem läuft sie rein. Alphina legt die Parallele offen: die großen Farne an der Nordmauer vor neun Tagen, Handfläche am Mittelnerv, zwanzig Atemzüge eine Wachstumsform aus der Brust, Henrik muss nicht mehr schneiden. Dazu der Gegenpol: drei Tage zurück der Stein im Steinkreis, drei Pulsstöße passiv empfangen. Beide benennen gemeinsam zwei Modi: Geben (aktiv, formt das Material für Dauer) und Hören (passiv). Erst danach zeigt Vesper die Ring-Karte. Alphina identifiziert den Mittelpunkt sofort als den Steinkreis im Botanischen Garten. Kein Körperkontakt außer einem beiläufigen Daumen-Streifen beim Rückgeben des Notizbuchs. Verabredung für morgen halb zehn am grünen Tor."
           },
           {
             "tz": 551,
@@ -1180,7 +1180,7 @@
             "figur": "Vesper",
             "fakt": "vesper-ist-resonator",
             "stufe": "ahnt",
-            "detail": "Nach Alphinas Abgang läuft Kvarns Taschenuhr plötzlich rein, ohne dass Vesper die Welle weiter gedreht hat. Hand auf Gehäuse: dieselbe Wärme wie bei der Tidemoor-Uhr vor sechs Wochen. Er schreibt zwei Zeilen ins Notizbuch: 'Ich bin der achtzehnte Punkt. Zwei Türen weiter, die neunzehnte.' Er erkennt sich und Alphina als Teile des Phänomens, nicht nur als Beobachter. Der Mittelpunkt bleibt der Steinkreis — aber die Vier werden selbst Quellen sein."
+            "detail": "Nach Alphinas Abgang läuft Kvarns Taschenuhr rein, ohne dass Vesper die Welle weiter gedreht hat. Hand auf Gehäuse: dieselbe Wärme wie im Tidemoor-Gehäuse. Er erkennt: er hat Kvarn nichts explizit vorgelegt, aber er hat die anderthalb Stunden an der Welle gearbeitet mit dem sauberen Ankerhemmungs-Takt in der Brust, und das hat gereicht. Der Takt wandert aus dem Resonator ins Material, sobald Kontakt und innerer Takt zusammenfallen — bei Tidemoor als ausgesprochener Befehl, bei Kvarn als stille Anwesenheit während der Arbeit. Er schreibt zwei Zeilen ins Notizbuch: 'Ich bin der achtzehnte Punkt. Zwei Türen weiter, die neunzehnte.' Er erkennt sich und Alphina als Teile des Phänomens, nicht nur als Beobachter. Der Mittelpunkt bleibt der Steinkreis — aber die Vier werden selbst Quellen sein."
           },
           {
             "tz": 551,
@@ -1395,19 +1395,20 @@
             "typen": [
               "begegnung"
             ],
-            "titel": "Vesper und Maren treffen sich im Uhrengeschaeft",
-            "pov": "Kap 14 · Vesper",
+            "titel": "Maren im Uhrengeschaeft — Haende die warten koennten",
+            "pov": "Kap 14 · Maren",
             "tz_tag": 142,
             "datum_text": "22. Mai",
             "figuren": [
-              "Vesper",
-              "Maren"
+              "Maren",
+              "Vesper"
             ],
             "intensitaet": "fluechtig",
             "ort": "Uhrmacher-Werkstatt",
-            "detail": "Maren braucht eine Schiffsuhr. Beide sehen die Grauwe rueckwaerts fliessen. Keiner sagt etwas.",
+            "detail": "Maren bringt die Schiffsuhr zur Reparatur. Aus ihrer Perspektive: ihr Blick auf Vespers Haende, der ungebetene Gedanke ›Haende die warten koennten‹ — die Dom/Sub-Saat fuer den ganzen Akt. Beide sehen die Grauwe rueckwaerts fliessen. Keiner sagt etwas.",
             "tags": [
-              "Erste Begegnung: Vesper + Maren"
+              "Erste Begegnung: Vesper + Maren",
+              "Tschechow: Dom/Sub-Saat"
             ]
           },
           {
@@ -1441,17 +1442,17 @@
             "mz": 0,
             "kapitel": "18",
             "typen": [
-              "schlüssel",
-              "tschechow"
+              "erkenntnis"
             ],
-            "titel": "Esther bringt das 400 Jahre alte Manuskript ins Tidemoor-Haus",
+            "titel": "Vesper allein mit der Standuhr — Halvards unmoegliche Verletzungen",
             "pov": "Kap 18 · Vesper",
             "tz_tag": 162,
             "datum_text": "11. Juni",
-            "detail": "Vier Fremde, ein Portal, eine Schwelle. Teilweise echt, teilweise von Varen ueberschrieben. Daemon-Fingerabdruecke im Kohlestaub: zu viele Gelenke.",
+            "ort": "Tidemoor-Haus, abends Gasthaus",
+            "detail": "Vesper misst die Standuhr zum dritten Mal — sauber, praezise, trotzdem 4:33 Verlust pro Tag. Das Gehaeuse ist von innen warm. Abends Halvard im Gasthaus: kauterisierte Kratzer bei einem Kind, Verbrennungen ohne Hitzequelle. Vespers Notizbuch fuellt sich mit Mustern. Keine Esther, kein Manuskript. TODO [2026-04-09, Nachzug Kap-11-Dialogfix]: Nach neuer Kap-11-Logik (zweiter Tidemoor-Besuch am 7. Mai mit aktivem Takt → Uhr laeuft seither dauerhaft rein) ist 'trotzdem 4:33 Verlust pro Tag' hier inkonsistent. Beim naechsten Durchgang Kap 18 neu setzen: die Uhr laeuft rein, Vesper misst stattdessen etwas anderes (z.B. Drift ist auf Nachbaruhren uebergesprungen, Gehaeuse von innen warm ohne Drift als Tschechow fuer Akt II/III).",
             "tags": [
-              "Manuskript",
-              "Tschechow: Varens Koeder"
+              "Tschechow: 4:33-Muster",
+              "Halvards unmoegliche Verletzungen"
             ]
           },
           {
@@ -1459,21 +1460,28 @@
             "mz": 0,
             "kapitel": "19",
             "typen": [
-              "begegnung"
+              "begegnung",
+              "schlüssel",
+              "tschechow"
             ],
-            "titel": "Alphina und Vesper studieren das Manuskript",
-            "pov": "Kap 19 · Alphina",
+            "titel": "Maren bringt Harons Papiere zu Vesper — gemeinsam ins Archiv",
+            "pov": "Kap 19 · Maren",
             "tz_tag": 168,
             "datum_text": "17. Juni",
             "figuren": [
-              "Alphina",
-              "Vesper"
+              "Maren",
+              "Vesper",
+              "Esther Voss",
+              "Jara Voss"
             ],
             "intensitaet": "bekannt",
-            "ort": "Tidemoor-Haus (abends)",
-            "detail": "Seine Hand auf ihrer — Stromschlag ohne Strom. 'Bei Vesper kann sie. Bei Sorel kann sie nicht.' Genau das ist der Punkt.",
+            "ort": "Tidemoor-Haus, dann Stadtarchiv",
+            "detail": "Maren findet in Harons Werkstatt einen Karton mit Papieren — Skizzen, Symbole, Zeichnung eines acht-Stein-Kreises, TZ 549. Sie bringt sie zu Vesper. Koepfe nahe ueber dem Tisch, seine Finger ueber die Zeichen. Vesper: ›Das gehoert ins Stadtarchiv.‹ Sie gehen zusammen. Esther Voss blaettert, erkennt eine Handschrift, holt das 400-jaehrige Manuskript. Jara im Hintergrund — als Esther abgelenkt ist, schiebt sie Vesper wortlos einen zweiten Folianten zu. Maren sieht es. Vesper darf das Manuskript ausleihen. Marens Gedanken von Kap 14 kommen zurueck, schaerfer.",
             "tags": [
-              "Erste Begegnung: Alphina + Vesper"
+              "Schluesselereignis: Manuskript-Verbindung",
+              "Erste lange Begegnung: Maren + Vesper",
+              "Tschechow: Harons Papiere",
+              "Tschechow: Jara weiss mehr"
             ]
           },
           {
@@ -1521,15 +1529,18 @@
             "mz": 0,
             "kapitel": "22",
             "typen": [
-              "erotik"
+              "erotik",
+              "schlüssel"
             ],
-            "titel": "Vesper und Maren: erste Nacht",
+            "titel": "Maren und Vesper: erste Nacht — Dom/Sub-Session, sie bleibt",
             "pov": "Kap 22 · Maren",
             "tz_tag": 182,
             "datum_text": "1. Juli",
-            "detail": "Rohe Chemie. Maren geht morgens — weil sie immer geht.",
+            "detail": "Maren kommt nachts ins Tidemoor-Haus. Sie hat den Seitentueren-Schluessel seit Kap 7. Was folgt ist kein Spektakel — Vorsicht, Erlaubnis, Praezision. Seine Haende an ihren Handgelenken, die wartenden Haende aus Kap 14. Ihr Fluchtinstinkt schlaegt einmal an und wird nicht bedient. Erste Dom/Sub-Session. Danach: sie bleibt. Zum ersten Mal. Die Standuhr verliert heute nicht 4:33.",
             "tags": [
-              "Erotik: Vesper + Maren"
+              "Erotik: Vesper + Maren Dom/Sub",
+              "Schluesselereignis: Maren bleibt",
+              "Tschechow: Haende die warten koennen (Kap 14 faellt ein)"
             ]
           },
           {
@@ -1537,11 +1548,32 @@
             "mz": 0,
             "kapitel": "23",
             "typen": [
+              "brücke"
+            ],
+            "titel": "Sorel nach der Dunkelkammer — Bruecken-Kap",
+            "pov": "Kap 23 · Sorel",
+            "tz_tag": 185,
+            "datum_text": "4. Juli",
+            "figuren": [
+              "Sorel"
+            ],
+            "ort": "Lichthaus, Vael",
+            "detail": "Sorel allein nach der Nacht mit Alphina aus Kap 21. Rotlicht, die Platten der letzten Tage, auf jeder mit Alphina ein Schem hinter ihr. Er ahnt dass sie ihn ueberfordert — nicht durch Kraft, sondern durch Nicht-Aufhoeren-Koennen. Draussen die eskalierende Stadt: Gaslampen flackern, ein Schem unter der Hafenlaterne steht laenger als vorher. Bruecke zur Grenzverletzung in Kap 25.",
+            "tags": [
+              "Bruecke zwischen Dunkelkammer und Bruch",
+              "Sorel-Vorbereitung"
+            ]
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "24",
+            "typen": [
               "schlüssel",
               "tschechow"
             ],
             "titel": "Archiv: Ritual-Papier mit Schemen-Fingerabdruecken",
-            "pov": "Kap 23 · Alphina",
+            "pov": "Kap 24 · Alphina",
             "tz_tag": 191,
             "datum_text": "10. Juli",
             "detail": "Jara findet Randnotizen (andere Handschrift) + Moragh-Sprachbuch. Ritual-Anweisungen, Steinkreis-Zeichnung. Varen hat es per Schem platziert.",
@@ -1552,12 +1584,12 @@
           {
             "tz": 551,
             "mz": 0,
-            "kapitel": "24",
+            "kapitel": "25",
             "typen": [
               "erkenntnis"
             ],
             "titel": "Alphina findet die Steg-Fotos — 'Du hast mich genommen ohne zu fragen'",
-            "pov": "Kap 24 · Sorel",
+            "pov": "Kap 25 · Sorel",
             "tz_tag": 198,
             "datum_text": "17. Juli",
             "tags": [
@@ -1567,13 +1599,13 @@
           {
             "tz": 551,
             "mz": 0,
-            "kapitel": "25",
+            "kapitel": "26",
             "typen": [
               "tschechow",
               "schlüssel"
             ],
             "titel": "Schem beruehrt Alphinas Wange — Varens Hand durch die Welten",
-            "pov": "Kap 25 · Alphina",
+            "pov": "Kap 26 · Alphina",
             "tz_tag": 205,
             "datum_text": "24. Juli",
             "detail": "Alphina im Lichthaus-Keller allein. Ein Schem streckt die Hand aus, beruehrt ihre Wange. Warmer Fleck. Varen kann sie sehen und beruehren.",
@@ -1584,12 +1616,12 @@
           {
             "tz": 551,
             "mz": 0,
-            "kapitel": "27",
+            "kapitel": "28",
             "typen": [
               "schlüssel"
             ],
             "titel": "Maren folgt dem Wasser zum Steinkreis",
-            "pov": "Kap 27 · Maren",
+            "pov": "Kap 28 · Maren",
             "tz_tag": 217,
             "datum_text": "5. August",
             "detail": "Durch Tunnel unter der Werft. Der Purpurstein schwitzt Salz — nicht Grauwe-Salz, anderes Meer. Hand auf den Stein: der Riss weint.",
@@ -1600,12 +1632,12 @@
           {
             "tz": 551,
             "mz": 0,
-            "kapitel": "28",
+            "kapitel": "29",
             "typen": [
               "begegnung"
             ],
             "titel": "Alphina findet Sorel am Riss — Versoehnung",
-            "pov": "Kap 28 · Alphina",
+            "pov": "Kap 29 · Alphina",
             "tz_tag": 222,
             "datum_text": "10. August",
             "detail": "'Du bist nicht hier weil du mich liebst.' Alphina gibt ihm Recht. Zum ersten Mal.",
@@ -1616,13 +1648,13 @@
           {
             "tz": 551,
             "mz": 0,
-            "kapitel": "30",
+            "kapitel": "31",
             "typen": [
               "erkenntnis",
               "tschechow"
             ],
             "titel": "Runas Haende gluehen — Feuer-Resonanz entdeckt",
-            "pov": "Kap 30 · Alphina",
+            "pov": "Kap 31 · Alphina",
             "tz_tag": 237,
             "datum_text": "25. August",
             "detail": "Ein Schem toetet einen Haendler am Hafen. Andere Fraktion (Thar) am Hafen: Metall-Geruch. Runa bei Alphina — ihre Haende gluehen buchstaeblich, Brandfleck im Setzkasten.",
@@ -1634,13 +1666,13 @@
           {
             "tz": 551,
             "mz": 0,
-            "kapitel": "31",
+            "kapitel": "32",
             "typen": [
               "erkenntnis",
               "schlüssel"
             ],
             "titel": "Vesper: 4:33 + Gezeiten = Varens Atem",
-            "pov": "Kap 31 · Vesper",
+            "pov": "Kap 32 · Vesper",
             "tz_tag": 244,
             "datum_text": "1. September",
             "detail": "Jemand auf der anderen Seite atmet. Die Schemen kommen mit jedem Ausatmen. 4:33 ist nicht die Frequenz des Risses — es ist die Frequenz von etwas DAHINTER.",
@@ -1652,12 +1684,12 @@
           {
             "tz": 551,
             "mz": 0,
-            "kapitel": "32",
+            "kapitel": "33",
             "typen": [
               "schlüssel"
             ],
             "titel": "Die Vier entscheiden sich fuer den Durchgang",
-            "pov": "Kap 32 · Alle",
+            "pov": "Kap 33 · Alle",
             "tz_tag": 272,
             "datum_text": "29. September",
             "detail": "Letzte Nacht in Vael. Vesper und Jara haben das Ritual uebersetzt. Runa bittet dazuzubleiben: 'Ich komme mit.'",
@@ -1668,13 +1700,13 @@
           {
             "tz": 551,
             "mz": 0,
-            "kapitel": "33",
+            "kapitel": "34",
             "typen": [
               "erotik",
               "schlüssel"
             ],
             "titel": "Alphina und Sorel kuessen sich im Steinkreis — der Garten blueht",
-            "pov": "Kap 33 · Alphina",
+            "pov": "Kap 34 · Alphina",
             "tz_tag": 273,
             "datum_text": "30. September — Nacht",
             "detail": "Sorel haelt zum ersten Mal ihre Hand UNGEBETEN. 'Darf ich?' Kontrolle faellt. Die ganze Hoehle blueht. Runa folgt unbemerkt.",
@@ -1685,13 +1717,13 @@
           {
             "tz": 551,
             "mz": 0,
-            "kapitel": "34",
+            "kapitel": "35",
             "typen": [
               "portal",
               "schlüssel"
             ],
             "titel": "Portal oeffnet sich — Vier (plus Runa) gehen durch",
-            "pov": "Kap 34 · Sorel",
+            "pov": "Kap 35 · Sorel",
             "tz_tag": 273,
             "datum_text": "30. September — 4:33 nach Mitternacht",
             "detail": "Ritual. Vier Resonanzen. Das Portal bleibt 4:33 offen. Sorel zuerst. Runa stolpert im letzten Moment durch. Fuenf in Moragh, nicht vier.",
@@ -1703,12 +1735,12 @@
           {
             "tz": 551,
             "mz": 0,
-            "kapitel": "40",
+            "kapitel": "41",
             "typen": [
               "schlüssel"
             ],
             "titel": "Vael ohne die Fuenf — der Riss versiegt, Anomalien enden",
-            "pov": "Kap 40 · Nebencharaktere",
+            "pov": "Kap 41 · Nebencharaktere",
             "tz_tag": 277,
             "datum_text": "4. Oktober — Vael ohne die Fuenf",
             "detail": "Nebel lichtet sich. Grauwe fliesst vorwaerts. Farne stehen still. Halvard schreibt seinen Bericht — das einzige schriftliche Zeugnis. Jara archiviert Runas Flugblaetter daneben. Das Boot wartet, drei Viertel fertig.",
@@ -1719,8 +1751,8 @@
           {
             "tz": 551,
             "mz": 0,
-            "titel": "Vesper und Maren: erste Begegnung im Uhrengeschäft",
-            "pov": "Kap 14 · Vesper/Maren",
+            "titel": "Maren im Uhrengeschäft — Hände die warten könnten",
+            "pov": "Kap 14 · Maren",
             "kapitel": "14",
             "typen": [
               "begegnung",
@@ -1728,7 +1760,8 @@
             ],
             "tags": [
               "Erste Begegnung: Vesper + Maren",
-              "Erotik: Tension"
+              "Erotik: Tension",
+              "Tschechow: Dom/Sub-Saat"
             ]
           },
           {
@@ -1747,16 +1780,19 @@
           {
             "tz": 551,
             "mz": 0,
-            "titel": "Manuskript: 400 Jahre alt, Fingerabdrücke mit zu vielen Gelenken",
-            "pov": "Kap 18 · Vesper",
-            "kapitel": "18",
+            "titel": "Maren bringt Harons Papiere ins Archiv — Manuskript-Verbindung",
+            "pov": "Kap 19 · Maren",
+            "kapitel": "19",
             "typen": [
               "erkenntnis",
-              "tschechow"
+              "tschechow",
+              "begegnung"
             ],
             "tags": [
-              "Erkenntnis: Manuskript",
-              "Tschechow: Manuskript gefälscht"
+              "Erkenntnis: Manuskript-Verbindung",
+              "Tschechow: Harons Papiere",
+              "Tschechow: Jara weiß mehr",
+              "Erste lange Begegnung: Maren + Vesper"
             ]
           },
           {
@@ -1791,8 +1827,8 @@
             "tz": 551,
             "mz": 0,
             "titel": "Alphina findet die heimlichen Fotos — „Du hast mich genommen ohne zu fragen“",
-            "pov": "Kap 24 · Alphina",
-            "kapitel": "24",
+            "pov": "Kap 25 · Alphina",
+            "kapitel": "25",
             "typen": [
               "schlüssel",
               "tschechow"
@@ -1806,8 +1842,8 @@
             "tz": 551,
             "mz": 0,
             "titel": "Schem berührt Alphinas Wange — Varens Hand aus einer anderen Welt",
-            "pov": "Kap 25 · Alphina",
-            "kapitel": "25",
+            "pov": "Kap 26 · Alphina",
+            "kapitel": "26",
             "typen": [
               "erotik",
               "tschechow"
@@ -1821,8 +1857,8 @@
             "tz": 551,
             "mz": 0,
             "titel": "Runa entdeckt ihre Feuer-Resonanz — Hände glühen",
-            "pov": "Kap 31",
-            "kapitel": "30",
+            "pov": "Kap 31 · Alphina",
+            "kapitel": "31",
             "typen": [
               "erkenntnis",
               "begegnung"
@@ -1836,8 +1872,8 @@
             "tz": 551,
             "mz": 0,
             "titel": "4:33 + Gezeiten = Varens Atem — jemand lebt auf der anderen Seite",
-            "pov": "Kap 31 · Vesper",
-            "kapitel": "31",
+            "pov": "Kap 32 · Vesper",
+            "kapitel": "32",
             "typen": [
               "erkenntnis",
               "schlüssel"
@@ -1851,8 +1887,8 @@
             "tz": 551,
             "mz": 0,
             "titel": "„Darf ich?“ — Sorel hält Alphinas Hand ungebeten. Der Garten blüht.",
-            "pov": "Kap 33 · Alphina",
-            "kapitel": "33",
+            "pov": "Kap 34 · Alphina",
+            "kapitel": "34",
             "typen": [
               "erotik",
               "tschechow"
@@ -1868,7 +1904,7 @@
             "titel": "Das Ritual — Portal öffnet sich",
             "detail": "Vier Resonanzen im Steinkreis. Luft reißt auf. 4:33 offen. Runa schlüpft als Fünfte durch.",
             "pov": "Kap 35",
-            "kapitel": "34",
+            "kapitel": "35",
             "typen": [
               "portal",
               "schlüssel"
@@ -1884,7 +1920,7 @@
             "titel": "Vael ohne die Fünf — Anomalien enden sofort",
             "detail": "Schemen verschwinden schlagartig. Nebel lichtet. Grauwe fließt vorwärts. Steinkreis kalt. Tohl und Halvard stehen am Gartenrand.",
             "pov": "Kap 41",
-            "kapitel": "40",
+            "kapitel": "41",
             "typen": [
               "hintergrund"
             ],
