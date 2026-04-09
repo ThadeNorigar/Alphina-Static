@@ -188,7 +188,7 @@ Das war ein Bild.
 
 Sein Körper antwortete darauf, wie er auf jedes Bild antwortete, das er festhalten wollte: er wurde still, er fixierte, er komponierte den Rahmen im Kopf — die Form des Wesens, das Verhältnis zu den Hortensienzweigen daneben, die Kante des Mondlichts, die das Motiv begrenzte. Sein Blick bohrte sich in die Stelle, wo das Wesen stand.
 
-Um ihn herum fiel der Garten zurück ins Dunkel. Die Hortensienblätter verloren ihre Kanten, der Kies seine Struktur, das Mondlicht zog sich von allem weg, floss in die eine Richtung, in die Sorels Blick zeigte, und sammelte sich dort auf weniger als einen Quadratfuß — eine Kante aus weißem Licht um das Wesen, scharf, dicht, präzise, heller als jede Mondnacht je einen einzelnen Punkt gezeichnet hatte.
+Um ihn herum fiel der Garten zurück ins Dunkel. Die Hortensienblätter verloren ihre Kanten, der Kies seine Struktur, das Mondlicht zog sich von allem weg, floss in die eine Richtung, in die Sorels Blick zeigte, und sammelte sich dort zu einem einzigen Brennpunkt auf der Haut des Wesens — nicht größer als ein Daumennagel, weiß, scharf, so dicht, dass kein Mond diese Helligkeit je auf einen Körper gelegt hatte.
 
 Das Wesen reagierte augenblicklich.
 
