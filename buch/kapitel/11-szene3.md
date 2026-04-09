@@ -24,49 +24,55 @@ Er sagte nichts, weil er nichts zu sagen hatte. Sie hatte angeklopft, also würd
 
 Er nickte einmal. Sie hob den Blick von der Türschwelle und sah ihm zum ersten Mal aus der Nähe in die Augen — auch wenn sie einander seit Wochen flüchtig über die Weite des Schankraums gesehen hatten.
 
-"Ich bin heute Nachmittag durch die Stadt gelaufen und habe etwas getan, das ich vor einer Woche nicht getan hätte." Sie machte eine Pause, kurz. "Ich bin an drei Häusern stehen geblieben, von denen ich weiß, dass dort Uhren stehen, die seit einiger Zeit falsch gehen. Ich habe an die Türen geklopft und gefragt, seit wann. Zwei haben mir geantwortet. Die dritte hat mir die Tür vor der Nase zugemacht. Und dann bin ich in den Anker zurückgegangen und habe eine halbe Stunde gebraucht, bis ich mich entschieden habe, an Ihre Tür zu klopfen statt an meine eigene."
+"Ich bin Botanikerin aus Velde und arbeite seit drei Wochen im Botanischen Garten der Oberstadt. Ich bin nicht hier, weil ich etwas über Uhren weiß. Über Uhren weiß ich nichts." Sie machte eine kurze Pause, als hätte sie den Satz kontrolliert, bevor sie ihn sagte. "Ich bin hier, weil Runa Kvist mir vor drei Tagen eine Erzählung gegeben hat, die ich nicht weggeatmet habe. Über eine alte Standuhr in einem Haus am Grauwe-Ufer, die seit Jahrzehnten vier Minuten dreiunddreißig pro Tag verliert. Und über einen Uhrmacher aus Karst, der sie einmal angefasst hat und seitdem läuft sie im Takt. Die Erzählung hat Runa von einer Magd, die in dem Haus dient. Mir hat sie den Namen des Uhrmachers gegeben, und in welchem Gasthaus er wohnt."
 
-Vesper hörte den Satz und hörte vor allem, was er nicht enthielt. Kein *ich glaube an Geister*. Kein *ich habe etwas Seltsames gesehen*. Die Sätze einer Frau, die eine Hypothese in der Hand hielt, sie geprüft hatte, und zwischen zwei möglichen Auswegen stand.
+Vesper hörte den Satz und hörte vor allem, was er nicht enthielt. Kein *ich glaube an Geister*. Kein *ich habe etwas Seltsames gesehen*. Die Sätze einer Frau, die eine Erzählung auf die Waage gelegt und sie nicht leicht gefunden hatte.
 
-"Warum meine Tür?", fragte er.
+"Darf ich Sie fragen, Herr —"
 
-"Weil Runa Kvist mir gesagt hat, dass im Anker ein Uhrmacher aus Karst wohnt, der seit Wochen jede falsche Uhr der Stadt misst, die ihm unter die Finger kommt. Und weil die Magd aus dem Tidemoor-Haus ihr erzählt hat, dass dieselbe Uhr, die vorher vier Minuten dreiunddreißig pro Tag verloren hat, im Takt läuft, seit der Uhrmacher sie einmal angefasst hat."
+"Vesper. Vesper Greve."
 
-Drei Sätze, in denen jedes Wort saß. Drei Dinge, die Vesper nicht öffentlich gewusst haben wollte, und die er jetzt in den Flur seines eigenen Zimmers hineinbestätigen oder bestreiten sollte.
+"Herr Greve. Stimmt die Erzählung?"
 
-Er trat einen halben Schritt zurück — nicht, um mehr Raum zwischen sich und sie zu legen, sondern, um die Tür weiter öffnen zu können, ohne dass der Spalt zu einer Einladung wurde. Die Tür ging bis zur Hälfte auf. Er blieb auf der Schwelle.
+Er brauchte einen Atemzug, um zu antworten. Nicht, weil er die Antwort nicht kannte, sondern weil er in fünf Wochen kein einziges Mal von jemandem nach dieser Antwort gefragt worden war.
 
-"Die Magd hat recht. Frau Kvist auch." Er ließ einen Atemzug zwischen den beiden Sätzen. "Mein Name ist Vesper Greve. Ich habe in fünf Wochen siebzehn Uhren in Vael gemessen, keine davon geht vor, alle gehen nach. Die Abweichungen reichen von elf Sekunden pro Tag bis zu zwei Minuten dreiundzwanzig. Nur die Tidemoor-Uhr fällt aus dem Raster — vier Minuten dreiunddreißig, seit ich denken kann, und sie läuft tatsächlich rein, seit ich einmal die Hand auf das Gehäuse gelegt habe. Ich verstehe es selbst nicht."
+"Die Uhr heißt Tidemoor-Uhr. Sie verliert seit Generationen vier Minuten und dreiunddreißig Sekunden pro Tag. Drei Uhrmacher vor mir haben das Gehäuse geöffnet und keinen Fehler gefunden. Ich habe vor sechs Wochen die Hand auf das Gehäuse gelegt, weil mir nichts anderes eingefallen ist. Unter meiner Hand lief sie rein. Hand weg, sie ging wieder falsch. So weit habe ich es verstanden. So weit hat die Magd es gesehen, und so weit hat sie es Runa erzählt."
 
-Er hörte sich, während er sprach, und merkte, dass er gerade zu einer Fremden auf einem Flurboden mehr gesagt hatte als in den letzten fünf Wochen zu irgendeinem Menschen in Vael. Seine eigene Stimme kam ihm für einen kurzen Augenblick wie die eines Mannes vor, den er nicht ganz kannte.
+Er ließ einen Atemzug zwischen den Sätzen, weil der nächste Teil ihm selbst heute erst ganz klar geworden war.
 
-Alphinas Hand löste sich für einen Moment aus ihrer eigenen. Die Finger öffneten sich an den Knöcheln, als hätte sie eine Spannung abgeworfen, die sie seit Tagen gehalten hatte, und schlossen sich dann wieder. Sie sagte nichts. Sie wartete, weil sie hörte, dass er noch nicht fertig war.
+"Was ich bis heute nicht verstanden habe: dass die Uhr seitdem permanent im Takt läuft. Ich bin in den folgenden Wochen sieben oder acht Mal ins Haus zurückgegangen. Jedes Mal war sie rein. Ich habe es dem Raum zugeschrieben, dem Klima, meiner gelegentlichen Anwesenheit im Salon. Heute Vormittag, beim Sortieren der anderen Uhren, ist mir aufgefallen, dass sie die einzige der siebzehn ist, die stabil geblieben ist. Die anderen sechzehn gehen weiter falsch. Nur Tidemoor nicht. Eine einzige Berührung, vor sechs Wochen — und die Uhr hat es behalten."
 
-"Die anderen sechzehn ergeben ein Muster. Ich habe es heute zum ersten Mal gesehen, am Tisch rechts im Schankraum, beim vierten Sortieren. Wenn Sie es ansehen möchten — einen Moment."
+Alphina atmete einmal aus, lang. Der Brustkorb hob sich unter dem Mantel, und diesmal versuchte sie nicht, das Ausatmen zu verstecken.
+
+"Das habe ich gebraucht", sagte sie. "Dass Sie es selbst sagen."
+
+"Warum brauchten Sie das?"
+
+Sie legte die linke Hand auf die rechte und hielt sie dort. Ihre Augen blieben auf seinen. Sie suchten keinen Halt; sie trugen nur, was jetzt kam, und was nicht auf den Boden des Flurs gehörte.
+
+"Weil ich heute Nachmittag wieder in den Garten gegangen bin. Zum Hügel im westlichen Drittel der Anlage. Dort steht ein Kreis aus sieben Steinen, hüfthoch, Purpurstein, dunkler als der der Stadtmauer. Die Pflanzen im Inneren des Kreises wachsen nicht. Die Pflanzen am Rand des Kreises wachsen schneller, als sie sollten. Ich habe vor drei Tagen zum ersten Mal meine Hand auf einen dieser Steine gelegt, und der Stein war warm unter meiner Handfläche — nicht Sonnenwärme, warm wie eine Hand, die lange in einer anderen gelegen hat. Und ich habe unter meiner Handfläche drei Stöße gespürt. Sehr gleichmäßig, langsamer als mein eigenes Herz. Ein Puls, der nicht zu meinem Körper gehört."
+
+Vesper griff, ohne es zu wollen, nach der Tischkante hinter sich. Sein Körper hatte schneller reagiert als sein Kopf, wie immer.
+
+"Heute habe ich es ein zweites Mal getan. Ich wollte wissen, ob es wiederkommt. Es ist wiedergekommen. Drei Stöße, dichter diesmal, dichter als vor drei Tagen — oder ich habe genauer gehört. Ich bin in den Anker zurückgegangen und habe eine halbe Stunde gebraucht, bis ich mich entschieden habe, an Ihre Tür zu klopfen statt an meine eigene. Ich brauchte vorher zu wissen, dass Ihre Geschichte kein Gerücht ist. Wenn bei Ihnen eine einzige Berührung ein Uhrwerk sechs Wochen lang hält, dann weiß ich, was ich am Stein gespürt habe. Wenn nicht, dann bin ich morgen wieder allein mit etwas, das keinen Namen hat."
+
+Er trat einen halben Schritt zurück. Nicht als Distanz — als Platz, um die Tür weiter öffnen zu können, ohne dass der Spalt zu einer Einladung wurde. Die Tür ging bis zur Hälfte auf. Er blieb auf der Schwelle.
+
+"Ich habe in den fünf Wochen noch sechzehn andere Uhren in Vael gemessen. Keine davon geht vor, alle gehen nach. Die Abweichungen reichen von elf Sekunden pro Tag bis zu zwei Minuten dreiundzwanzig. Heute am Vormittag habe ich sie zum vierten Mal sortiert, und zum ersten Mal ist mir das Muster aufgefallen. Wenn Sie es sehen möchten — einen Moment."
 
 Er drehte sich halb zurück ins Zimmer, griff das Notizbuch vom Klapptisch und kam zur Tür zurück, das Buch an der Seite mit den Ringen aufgeschlagen. Er hielt es so, dass sie im Licht der Flurlampe hineinsehen konnte, ohne dass er es ihr aus der Hand gab.
 
 "Vier Gruppen, vier konzentrische Ringe. Uhren, die elf bis fünfzehn Sekunden pro Tag verlieren, sitzen alle in Hafennähe — das ist der äußere Ring. Dreißig bis fünfzig Sekunden im zweiten. Eine bis zwei Minuten im dritten. Zwei bis drei Minuten im inneren — drei der sechzehn, nahe beieinander. Je näher am Zentrum, desto stärker die Abweichung. Der Verlauf ist gleichmäßig, als würde etwas die Uhren alle an sich ziehen."
 
-Er tippte mit der Fingerspitze auf den Mittelpunkt des Blattes, ohne ihn zu berühren.
+Er tippte mit der Fingerspitze neben den winzigen Punkt in der Mitte, ohne ihn zu berühren.
 
 "Der Mittelpunkt liegt irgendwo in der Oberstadt, hinter dem Handelshaus. Ich war dort nie. Ich kenne das Viertel nicht."
 
 Alphinas Gesicht veränderte sich nicht in Überraschung. Es veränderte sich in einer Art Anerkennen — wie jemand, der ein Loch in einer Hecke findet, von dem er schon geahnt hatte, dass es da war.
 
-"Das Viertel hinter dem Handelshaus ist der Botanische Garten."
+"Das Viertel hinter dem Handelshaus ist der Botanische Garten. Der Mittelpunkt ist der Steinkreis, den ich Ihnen gerade beschrieben habe."
 
-Vesper hielt den Finger am Papier still.
-
-"Der Mittelpunkt ist ein Hügel im westlichen Drittel der Anlage. Etwa vier Meter Durchmesser, eingelassen in die Erde. Auf dem Hügel stehen sieben Steine, hüfthoch, in einem Kreis angeordnet. Purpurstein, dunkler als der der Stadtmauer. Pflanzen im Inneren des Kreises wachsen nicht. Pflanzen am Rand wachsen schneller, als sie sollten."
-
-Sie sprach mit der Präzision einer Frau, die das, was sie beschrieb, nicht vom Hörensagen kannte. Vesper hörte das und merkte, wie sein Körper einen halben Takt zu langsam atmete.
-
-"Und Sie arbeiten dort."
-
-"Seit drei Wochen, jeden Nachmittag. Bei einem Gärtner, der Henrik heißt. Er hat mich ohne Einstellung eingestellt, aus einer Höflichkeit, die ich nicht erklären kann." Sie holte einmal ruhig Luft, bevor sie weitersprach. "Ich bin Botanikerin aus Velde. Ich habe vor vier Tagen einen der sieben Steine mit der Handfläche berührt. Er war warm — nicht Sonnenwärme. Warm, als hätte lange eine Hand in einer anderen gelegen. Und unter meiner Handfläche habe ich drei Stöße gespürt, sehr gleichmäßig, langsamer als mein eigenes Herz. Ein Puls, der nicht zu meinem Körper gehört hat. Seitdem weiß ich es, und ich weiß es nicht."
-
-Vesper griff, ohne es zu wollen, nach der Tischkante hinter sich. Sein Körper hatte schneller reagiert als sein Kopf, wie immer.
+Vesper hielt den Finger am Papier still. Sein eigenes Atmen setzte für zwei Schläge aus und setzte einen halben Takt zu langsam wieder ein.
 
 "Ich stelle mir das vor wie ein Gewicht auf einem gespannten Tuch", sagte er. Es war nicht das, was er hatte sagen wollen. Es war das Bild, das ihm beim Zeichnen der Ringe am Vormittag gekommen war, und das er bisher nur für sich selbst benutzt hatte. "Je schwerer das Gewicht, desto tiefer beugt sich das Tuch. Die Uhren weiter draußen verlieren weniger, weil die Beugung dort flacher ist. Die weiter innen verlieren mehr. Der Stein in der Mitte — das ist das Gewicht."
 
@@ -100,7 +106,7 @@ Es war kein Gespräch mehr über siebzehn Uhren. Es war eines über ein Prinzip.
 
 "Ich bringe das Notizbuch."
 
-Sie nahm das Buch, das er die ganze Zeit zwischen ihnen gehalten hatte, jetzt aus seiner Hand — nicht, um es zu behalten, sondern um es zuzuklappen und ihm zurückzugeben. Beim Zurückgeben streifte ihr Daumen den Rand seiner Hand, dort, wo die Schwiele unter dem Zeigefinger saß — die Stelle, an der Uhrmacher das Leder ihrer Werkzeuge drückten —, und das Streifen war keine Absicht. Oder es war eine, die keiner von beiden zugeben wollte.
+Sie nahm das Buch, das er die ganze Zeit zwischen ihnen gehalten hatte, aus seiner Hand, klappte es zu und gab es ihm zurück. Beim Zurückgeben streifte ihr Daumen den Rand seiner Hand, dort, wo die Schwiele unter dem Zeigefinger saß — die Stelle, an der Uhrmacher das Leder ihrer Werkzeuge drückten —, und das Streifen war keine Absicht. Oder es war eine, die keiner von beiden zugeben wollte.
 
 "Ich danke Ihnen", sagte sie. "Dafür, dass Sie mir nicht die Tür vor der Nase zugemacht haben."
 
