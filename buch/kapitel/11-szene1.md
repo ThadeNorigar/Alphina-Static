@@ -1,72 +1,118 @@
 # Kapitel 11, Szene 1 — Der Tisch rechts
 
-Acht Grad Spiel, wo vier gereicht hätten.
+Siebzehn Uhren, sortiert nach der Größe ihrer Abweichung.
 
-Vesper hielt die Pinzette still und drehte die Welle ein weiteres Mal gegen den Widerstand der Feder. Das kleine Zahnrad am oberen Ende der Ankerplatte lief aus dem Zentrum, ein halbes Haar, mehr nicht — genug dass die Hemmung bei jedem zweiten Schlag stotterte und die Taschenuhr ihrem Besitzer zwei Minuten pro Stunde schuldig blieb. Drei Tage hatte er jetzt an dem Fehler gesucht, und drei Tage hatte das Holz des Schanktisches unter seinem linken Unterarm die gleiche Wärme gehabt wie heute. Er legte die Pinzette auf die Samtrolle zurück, genau zwischen die Stelle für die mittlere Lupe und die Stelle für den Schraubendreher Nummer zwei, und hob den Blick.
+Vesper hatte die Liste zum vierten Mal in neuen Spalten untereinander geschrieben, weil die ersten drei Versionen ihm nichts verraten hatten. Jetzt, am Tisch rechts im Schankraum des Anker, lag sie unter seinen Händen und sagte zum ersten Mal etwas, das kein Uhrmacher gerne hörte: dass die Uhren nicht voneinander abhingen, aber auch nicht zufällig waren.
 
-Der Schankraum war fast leer. Vormittag, die Stunde in der zwischen Frühstück und Mittag niemand etwas zu trinken bestellte und der Wirt die Gläser im Wasser stehen ließ, um Zeit zu sparen. Im Kamin lag ein schmales Feuer aus zwei Scheiten Buche, rauchig, mehr Glut als Flamme, gerade genug für einen Raum der seine eigene Wärme aus den Wänden bezog. Der Geruch von altem Bier lag in den Dielen. Von Rauch sickerte ein dünner Zug von Schicht zu Schicht durch die Ritzen und sammelte sich oben am Gebälk wie eine zweite Decke.
+Ganz unten in der Reihe, mit einem Querstrich abgetrennt und in einer anderen Tinte: die Tidemoor-Uhr. Vier Minuten und dreiunddreißig Sekunden pro Tag, in der ganzen Größenordnung ohne Vergleich. Er hatte sie aus der Reihenfolge herausgenommen, weil sie offensichtlich nicht in dasselbe System gehörte wie die anderen sechzehn. Sein Instinkt sagte ihm seit Wochen, dass Tidemoor ein Sonderfall war, und Instinkte dieser Art ignorierte er nicht.
 
-Vesper nahm den Tee von der Ecke des Tischs und trank. Kalt. Er hatte wieder vergessen, ihn während des Messens zu trinken, und der Wirt hatte heute den Teekessel seit einer halben Stunde nicht nachgefüllt. Die Gaslampe auf dem Tisch war auf drei Viertel gedreht, der Docht ruhig, das Licht warm und gelb auf dem Holz, genau um das Werk herum, genau auf die Linie der Samtrolle. Rechts von der Rolle lag das Notizbuch, geschlossen. Links, neben dem Werk, sein eigenes Blatt Buchhaltung — Name, Uhrentyp, Defekt, Fälligkeit. Vier Einträge, drei davon erledigt. Der vierte war Kvarn.
+Die übrigen sechzehn gingen alle nach. Keine lief vor. Die kleinste Abweichung lag bei elf Sekunden pro Tag, in einer Wanduhr eines Lederwarenhändlers unten am Hafen. Die größte, wenn man Tidemoor beiseite ließ, waren zwei Minuten und dreiundzwanzig Sekunden, in einer alten Tischuhr in einem Haus am hinteren Marktplatz. Dazwischen ein Spektrum, das Vesper bisher für chaotisch gehalten hatte.
 
-Schritte vom Tresen. Der Wirt kam mit dem kleinen Kupferkessel, ohne zu fragen. Er blieb eine halbe Armlänge vom Tisch stehen, aus Rücksicht auf die Werkzeugrolle, und hielt den Kessel schräg.
+Beim vierten Durchgang sortierte er nicht mehr Zahlen. Er sortierte Gebiete.
+
+Er zog das Notizbuch an sich, blätterte zur Karte im hinteren Einlegebogen, faltete sie auseinander und zeichnete neben jedem der siebzehn kleinen Kreuze die Abweichung in Sekunden ein. Winzige Zahlen, der Bleistift gerade fein genug. Dann hob er den Kopf und schaute einen Moment auf die Wand gegenüber, ohne etwas zu sehen.
+
+Weil die großen Zahlen nicht zufällig verteilt waren.
+
+Sie lagen näher beieinander. Und die kleinen Zahlen lagen auch näher beieinander — nur in einem anderen Gebiet, weiter außen, an den Rändern seiner Karte. Wer eine Uhr in Hafennähe besaß, hatte elf, zwölf, fünfzehn Sekunden zu wenig. Wer eine Uhr in der Mitte der Stadt hatte, hatte dreißig, fünfzig Sekunden, manchmal eine Minute. Und wer eine Uhr in der Oberstadt hatte — drei der sechzehn lagen dort — hatte ein bis zwei Minuten, der höchste Wert zwei Minuten dreiundzwanzig.
+
+Kein Uhrmacher in Vael hätte eine solche Verteilung für Zufall gehalten. Auch kein nicht-Uhrmacher, der fünf Minuten darüber nachdachte.
+
+---
+
+Schritte vom Tresen. Der Wirt kam mit dem kleinen Kupferkessel, ohne zu fragen, und blieb eine halbe Armlänge vom Tisch stehen, aus Rücksicht auf die Samtrolle und die aufgeschlagene Karte.
 
 "Noch einen?"
 
 "Gern. Danke."
 
-Der Wirt goss ein. Das Wasser war heiß, der Dampf stieg sichtbar auf. Der Kessel konnte keine zwei Minuten vom Herd weg sein. Der Wirt hielt die Küche unten in Bewegung, obwohl niemand ein Frühstück bestellt hatte.
+Der Wirt goss ein. Das Wasser dampfte sichtbar. Der Kessel konnte keine zwei Minuten vom Herd weg sein. Der Wirt hielt die Küche unten in Bewegung, obwohl niemand ein Frühstück bestellt hatte.
 
-"Herr Kvarn war heute morgen kurz da." Der Wirt stellte den Kessel auf den Tresen hinter sich und kehrte zurück. "Er hat nach der Uhr gefragt."
+"Herr Kvarn war vorhin kurz da. Er hat nach seiner Uhr gefragt."
 
-"Die bekommt er morgen. Ich brauche noch einen Abend an der Welle."
+"Die bekommt er morgen Nachmittag. Ich brauche heute Abend noch einmal an der Welle."
 
-"Gut. Ich sag ihm Bescheid, wenn er nach Feierabend wieder reinschaut."
+"Gut. Ich sag ihm Bescheid, wenn er nach Feierabend reinschaut."
 
-Der Wirt blieb stehen. Vesper wusste, was folgte, weil es jede Woche an einem Mittwoch gefolgt war. Er wartete.
+Der Wirt blieb stehen. Vesper wusste, was folgte.
 
-"Freitag läuft die Woche aus. Wenn Sie weitermachen wollen, dann sagen Sie mir das bis morgen Abend. Wenn nicht — Kvarn hat schon gefragt, ob der Tisch dann frei wird. Der kommt selbst aus einer Handwerkerfamilie, der Junge, und er hätte Verwendung."
+"Freitag läuft die Woche aus. Wenn Sie weitermachen wollen, dann sagen Sie mir das bis morgen Abend. Wenn nicht — Kvarn hat schon gefragt, ob der Tisch dann frei wird. Der Junge kommt aus einer Handwerkerfamilie und hätte Verwendung dafür."
 
 "Ich sage Ihnen bis morgen Bescheid."
 
-"Gut." Der Wirt tippte mit dem Knöchel zweimal auf das Tischholz, leise, eine Geste die in seinem Gasthaus bedeutete, dass ein Wort gegeben war. "Ein Butterbrot zwischendurch?"
+"Gut." Der Wirt tippte mit dem Knöchel zweimal leise auf das Tischholz, eine Geste, die in seinem Gasthaus bedeutete, dass ein Wort gegeben war. "Butterbrot zwischendurch?"
 
 "Nein. Danke."
 
-Der Wirt nickte und ging zurück hinter den Tresen. Vesper hörte die Kesselklappe, das leise Klirren einer Tasse, die zurück ins Regal wanderte. Der Raum war wieder still.
+Der Wirt nickte und ging zurück hinter den Tresen.
 
-Er nahm das Notizbuch in die linke Hand und schlug es in der Mitte auf, an der Stelle, an der das Lesebändchen lag. Aus der Innenfalte klappte ein Bogen Papier, schmaler als das Notizbuch selbst, zweimal gefaltet. Vesper breitete ihn mit den Fingerspitzen aus, ohne ihn ganz glatt zu streichen, weil die Faltkanten ihm beim Zuordnen halfen. Vael, grob gezeichnet. Der Hafen als Linie am unteren Blattrand, die Grauwe als dünner Strich von rechts in den Hafen, die Oberstadt als ein Rechteck darüber, in das er das Handelshaus mit einem kleinen Kasten und den Marktplatz mit einem Kreis eingetragen hatte. Dazwischen, über das ganze Blatt verteilt, siebzehn kleine Kreuze. Jeder mit einer Nummer, jede Nummer in einer Liste auf der Rückseite verzeichnet, jede Liste mit Adresse, Datum der Messung, Abweichung pro Tag.
+---
 
-Siebzehn abweichende Uhren in fünf Wochen. Vier davon standen, dreizehn gingen falsch — zwölf nach, eine vor. Die Tidemoor-Uhr war die, die er am besten kannte, und sie gehörte zu den Nachgehern. Vier Minuten und dreiunddreißig Sekunden pro Tag, in jedem der dreizehn Fälle, war der Fehler nicht. Die anderen zwölf Nachgeher lagen zwischen elf Sekunden und neun Minuten. Kein Muster in den Beträgen. Ein Muster im Ort.
+Vesper legte den Bleistift wieder an. Er setzte sich jetzt mit einem neuen Vorgehen an die Karte. Uhr für Uhr hatte ihm nichts verraten; jetzt sortierte er nach Magnitude-Gruppen, weil Uhren mit ähnlichen Abweichungen für das Muster zusammengehörten.
 
-Er nahm den spitzen Bleistift, den er in Karst gekauft hatte, aus der Innenseite des Notizbuchs und zog langsam eine Linie von Kreuz drei zu Kreuz neun. Eine zweite Linie, von Kreuz zwölf zu Kreuz fünfzehn. Die beiden Linien trafen sich — nicht auf dem Handelshaus, nicht auf dem Markt, sondern eine Handbreit darüber, im Rechteck, in einem Viertel, dessen Namen er nicht kannte, weil er in fünf Wochen keinen Grund gehabt hatte, dort hinzugehen. Er hielt den Stift still. Der Schnittpunkt war die Mitte der Oberstadt, hinter dem Handelshaus, nach den Speichern. Kein Uhrmacher dort, keine Bürgerhäuser mit Standuhren. Ein blinder Fleck auf seiner Karte, von dem aus siebzehn Uhren an der Leine geführt wurden wie Hunde an einer langen Spange.
+Vier Gruppen, vier verschiedene Zeichen. Die kleinsten Abweichungen, elf bis fünfzehn Sekunden, bekamen einen runden Punkt, und vier Uhren fielen in diese Kategorie. Die Dreißig-bis-Fünfzig-Sekunden-Gruppe markierte er mit einem Dreieck, fünf Uhren insgesamt. Die Ein-bis-Zwei-Minuten-Gruppe ein Quadrat, vier weitere Uhren. Die letzte Gruppe, die zwei bis drei Minuten pro Tag verlor, bekam einen kleinen Stern — drei Uhren, alle in der Oberstadt, nahe beieinander.
 
-Er drehte die Karte um, schrieb auf die Rückseite: *Mittellinien dreißig, zwölfzehn. Schnittpunkt Oberstadt nord-nordost des Handelshauses. Quartier unbekannt.* Dann klappte er den Bogen zusammen und drückte ihn in die Innenfalte zurück.
+Er hielt den Stift still und schaute auf das Papier.
 
-Als er den Kopf hob, um die Lampe eine Viertelumdrehung höher zu schrauben, fiel sein Blick zum Fenstertisch auf der anderen Raumseite.
+Die vier Formen lagen nicht perfekt verteilt — einige der Punkte in jeder Gruppe saßen ein Stück neben dem, was eine saubere Kreislinie ergeben hätte. Aber keine der Gruppen war zufällig. Jede bildete einen ungefähren Bogen um denselben unsichtbaren Mittelpunkt. Die kleinsten Abweichungen außen, die größten innen. Vier Schalen, eine um die andere, wie Ringe im Wasser, wenn man einen Stein hineinwarf — und wenn man den Stein sehen wollte, schaute man dorthin, wo die Ringe am engsten beieinanderlagen.
+
+Vesper zog leichte Bogenlinien durch jede der vier Gruppen und setzte einen winzigen Punkt in die Mitte. Der Mittelpunkt lag in der Oberstadt, hinter dem Handelshaus, in einem Viertel, in dem er in fünf Wochen kein einziges Mal gewesen war, weil er dort weder einen Uhrenhändler vermutete noch einen Standuhrenbesitzer. Ein blinder Fleck auf seiner Karte — keine Namen, keine Gebäude, nur die groben Umrisse der Häuserreihen, die er sich von einem ausliegenden Stadtplan beim Wirt abgemalt hatte.
+
+Der Punkt hatte keinen Namen. Er hatte nur eine Richtung.
+
+---
+
+Tidemoor blieb der Ausreißer. Vier Minuten dreiunddreißig Sekunden hätten nach diesem Muster bedeutet, dass die Uhr im Zentrum stand. Aber Tidemoor stand am Grauwe-Ufer, unten, an der Flussniederung — also am äußersten Rand der Stadt. Das Muster sagte: weit weg vom Zentrum. Der Betrag sagte: mitten drin. Beides zugleich war nicht möglich, also gab es für Tidemoor einen anderen Grund. Vesper kannte den Grund nicht, aber er wusste, dass er ein eigener war.
+
+Und dann, weil er die Uhr jetzt angeschaut hatte, weil das Wort *Tidemoor* noch auf seinem Papier stand und weil seine Hand seit dem Morgen auf der Karte lag, kam die Erinnerung ohne Einladung.
+
+Vor sechs Wochen hatte er die Hand zum ersten Mal auf das Gehäuse gelegt. Ein Versuch, keine Überzeugung. Die Uhr war still gelaufen unter seiner Handfläche, ruhig, rein, so wie ein Uhrwerk lief, das mit sich selbst einverstanden war. Eine Stunde lang. Dann hatte er die Hand weggenommen und eine weitere Stunde gemessen, und die vier Minuten dreiunddreißig waren wieder da gewesen.
+
+So weit erinnerte er sich scharf. Das, was danach kam, hatte er bisher nicht zum Ende gedacht.
+
+Er hatte das Tidemoor-Haus in den folgenden Wochen mehrmals besucht. Zuerst weil er es nicht lassen konnte. Dann weil er an Taschenuhren der Gäste des Anker arbeitete und der Tidemoor-Salon einen ruhigeren Reparaturtisch hatte als der Schankraum. Dann weil der Hausherr ihm ein paar Kupfermünzen pro Besuch zahlte, dafür dass er beiläufig ein Auge auf die Standuhr warf. Bei jedem dieser Besuche — beim siebten oder achten inzwischen — war die Standuhr im Takt gelaufen. Nicht unter seiner Handfläche. Nicht in seiner unmittelbaren Nähe. Einfach im Raum, auf ihrem dunklen Sockel, und der Takt war sauber gewesen wie der einer Uhr, die nie ein Problem gekannt hatte.
+
+Vesper hatte es dem Raum zugeschrieben. Dem Klima. Der ungewöhnlichen Kellerwärme, die das ganze Haus durchzog. Seiner eigenen gelegentlichen Anwesenheit, wenn schon — in dem Sinn, dass Uhren manchmal auf die Stimmung eines Raumes reagierten, so wie Holz auf Feuchtigkeit reagierte, nur weniger erklärbar.
+
+Er hatte es nicht dem zugeschrieben, was ihm jetzt zum ersten Mal in der Kehle saß und schwerer zu schlucken war als der kalte Tee. Dass eine einzige Berührung vor sechs Wochen das Uhrwerk in einen Zustand gebracht haben könnte, den es seitdem ohne sein weiteres Zutun beibehalten hatte.
+
+Die anderen sechzehn Uhren der Stadt waren in derselben Zeit weiter falsch gegangen. Nur Tidemoor war stabil geblieben. Vom ersten Auflegen an.
+
+Der Gedanke war so, dass Vesper ihn nicht zu Ende formulieren wollte, nicht jetzt, nicht in diesem Schankraum. Er schob ihn zur Seite, ohne ihn zu verwerfen. Seine Karte lag vor ihm, und die Karte war das Dringende. Das andere war für den Abend.
+
+---
+
+Als er den Kopf hob, um die Petroleumlampe eine Viertelumdrehung höher zu schrauben, fiel sein Blick über die Rollkante des Tresens hinweg zum Fenstertisch auf der anderen Raumseite.
 
 Dort saß die Frau.
 
-Sie war in den letzten Tagen oft dort gewesen. Er hatte es ohne es zu zählen gezählt, wie er alles zählte, und kam auf fünf Vormittage in dieser Woche und sechs in der vorigen. Immer am selben Platz. Auf dem Holz vor ihr stand eine Teekanne aus gelbem Steingut, daneben eine Untertasse mit einem Löffel. Ein aufgeschlagenes Notizbuch lag rechts davon, und die Stahlfeder ruhte auf der Untertasse, wenn sie nicht in ihrer Hand war. Die Tintenflecken am Zeigefinger und Mittelfinger der rechten Hand hatte er vor Wochen registriert, damals bei seiner Ankunft, als sie am selben Platz gesessen und ein Notizbuch beschrieben hatte, an einem Abend, der ihm heute wie ein anderer Mann vorkam.
+Sie war in den letzten Tagen oft dort gewesen. Er hatte es gezählt, ohne es zu wollen, wie er alles zählte — fünf Vormittage in dieser Woche, sechs in der vorigen. Immer am selben Platz. Vor ihr eine Teekanne aus gelbem Steingut und eine Untertasse mit einem Löffel. Ein aufgeschlagenes Notizbuch lag rechts davon, und die Stahlfeder ruhte auf der Untertasse, wenn sie nicht in ihrer Hand war.
 
-Heute war an ihren Händen etwas, das er vorher nicht gesehen hatte. An der linken, dem Zeigefinger und dem Daumennagel, saß unter der Nagelhaut dunkle Erde, die nicht wegging. Nicht feucht — trocken, eingearbeitet, das schmale Halbmondstück dunkler als der Rest der Hand. Sie drehte die Stahlfeder zwischen den Fingern, tunkte sie, schrieb zwei Zeilen, hielt inne. Ihr Gesicht war ihm halb zugewandt, aber der Blick ging ins Blatt, nicht in den Raum. Er wusste nichts über sie außer dem, was sich zählen ließ — die Zeit am Tisch, die Anzahl der Tage, die Position des Teelöffels, die Art wie ihr Rücken sich nie an die Lehne legte. Eine Frau die aufrecht saß, weil sie aufrecht saß, nicht weil sie gesehen werden wollte.
+Die Tintenflecken am Zeigefinger und Mittelfinger der rechten Hand hatte er vor Wochen registriert, bei seiner Ankunft, als sie am selben Platz gesessen und beschrieben hatte, an einem Abend, der ihm heute fremd vorkam.
+
+Heute war an ihren Händen etwas, das er vorher nicht gesehen hatte. An der linken, unter dem Nagel des Zeigefingers und im Halbmond des Daumennagels, saß dunkle Erde, die nicht wegging. Trocken, eingearbeitet, das schmale Stück dunkler als der Rest der Hand. Sie drehte die Stahlfeder zwischen den Fingern, tunkte sie, schrieb zwei Zeilen, hielt inne.
+
+Er wusste nichts über sie außer dem, was sich zählen ließ — die Zeit am Tisch, die Position des Teelöffels, die Art, wie ihr Rücken sich nie an die Lehne legte. Eine Frau, die aufrecht saß, weil sie aufrecht saß, nicht weil sie gesehen werden wollte.
 
 Der Wirt hatte sie zweimal beim Vornamen genannt, aber Vesper war gerade an einer Ankerschraube gewesen und hatte nicht aufgesehen. Er hätte fragen können. Er hatte nicht gefragt. Er redete nicht mit Fremden, solange sie nicht seine Kunden waren, und die Frau am Fenstertisch war keine Kundin.
 
-Er schrieb nichts über sie ins Notizbuch. Der achtzehnte Punkt war eine Adresse, keine Person, und er hatte gelernt, Adressen von Menschen sauber zu trennen.
+Er schrieb nichts über sie ins Notizbuch. Siebzehn Uhren waren siebzehn Uhren, und eine Frau am Fenstertisch war ein Mensch, und Vesper hatte gelernt, Punkte auf Karten von Menschen getrennt zu halten.
 
-Er ging zurück zu Kvarns Uhr. Hob die Pinzette, setzte sie an der Ankerplatte an, nahm die kleine Lupe mit dem dreifachen Vergrößerungsfaktor zwischen Zeigefinger und Daumen der linken Hand. Durch das Glas sah er die Welle, sah das Spiel, sah wo das halbe Haar zuviel saß. Er drehte — vorsichtig, zwei Grad, nicht mehr. Die Welle knackte ein einziges Mal, fast nicht hörbar, das typische Geräusch, wenn eine Lagerstelle sich eine Spur verschoben hat. Er prüfte das Ergebnis mit einem zweiten Blick durch die Lupe. Besser. Noch nicht gut.
+---
 
-Er wusste in diesem Moment, wie er wusste, wann ein Abend in Karst kein Abend für die letzte Etappe gewesen war: heute nicht. Seine Hände waren ruhig, aber sein Kopf war nicht bei der Welle. Die zwei Linien auf dem Kartenrücken standen in seinem Augenwinkel wie zwei nasse Striche, die nicht trocknen wollten. Den achtzehnten Punkt zu suchen war wichtiger als Kvarn um einen halben Tag zu enttäuschen. Der halbe Tag war verhandelbar; die Linien waren es nicht.
+Er klappte die Karte zusammen, drückte sie in die Innenfalte des Notizbuchs zurück und schlug das Notizbuch zu. Kvarns Uhr lag unberührt in der Samtrolle unter dem schmalen Samtlappen, wo er sie seit gestern Abend nicht mehr angefasst hatte. Er würde sie heute Nachmittag dort lassen. Die Welle war nicht das Problem des Vormittags. Das Problem des Vormittags war das Papier.
 
-Er legte die Pinzette auf die Samtrolle. Deckte die Uhr mit dem schmalen Samtlappen zu, den er zu diesem Zweck immer rechts von der Rolle liegen hatte. Die Werkzeuge ließ er ausgerollt — er würde am Nachmittag zurückkommen — und zog nur den Lappen über das offene Werk, damit kein Staub hineinfiel, während er draußen war. Dann klappte er das Notizbuch zu, griff den Mantel von der Stuhllehne, schob ihn an und steckte das Buch in die Innentasche.
+Er brauchte schmales Papier. Fest und glatt, für Linien, die eine Hausreihe trennen konnten und nicht verwischen durften. Der halbe Finger Unschärfe am Mittelpunkt seiner groben Karte war in Vaeler Maßstab eine ganze Häuserreihe, und eine ganze Häuserreihe war der Unterschied zwischen einer Adresse und einem Viertel.
 
-Der Turm lag in der linken Außentasche, dort wo er seit fünf Wochen lag. Als er ihn mit den Fingerspitzen streifte, war das Holz so kalt wie am Morgen. Kein Grad wärmer, kein Grad kälter, nur die Kälte eines Stücks Holz, das beschlossen hatte, die Körperwärme nicht anzunehmen. Er ließ ihn in der Tasche.
+Der Turm in seiner linken Außentasche war so kalt wie am Morgen. Kein Grad wärmer, kein Grad kälter, nur die Kälte eines Stücks Holz, das seit fünf Wochen seine Körperwärme nicht angenommen hatte. Er streifte ihn mit der Daumenkuppe, registrierte die Temperatur, ließ ihn dort.
+
+Er stand auf, griff den Mantel von der Stuhllehne, schob ihn an und steckte das Notizbuch in die Innentasche.
 
 An der Tür drehte er sich einmal um. Der Wirt stand hinter dem Tresen und trocknete ein Glas. Die Frau am Fenstertisch saß, die Stahlfeder in der Hand, und schrieb. Sie sah nicht auf. Vesper zog die Tür hinter sich zu.
 
 Auf der Gasse war es kühler, als er erwartet hatte. Der Mai kippte heute langsam. Der Dunst lag hoch über den Dächern, als Schleier, nicht als Decke, und die Sonne stand als blasser Fleck dahinter, ohne sich durchzudrücken. Er ging den Weg zur Oberstadt im Kopf durch, bevor seine Füße ihn nahmen. Zweite Gasse links, über den kleinen Platz mit der Gaslaterne an der Ecke. Dann die Treppe in den Purpurstein gehauen, sieben Stufen. Oben rechts weiter, drei Häuser, die Tür mit dem eisernen Beschlag.
 
-Er brauchte schmales Papier. Fest und glatt, für Linien die zehnmal enger lagen als die auf seiner alten Karte. Er wusste wo er es bekam, weil jeder in der Stadt, der Papier brauchte, ihm denselben Namen genannt hätte.
+Er wusste, wo er das Papier bekam, weil jeder in Vael, der Papier brauchte, ihm denselben Namen genannt hätte.
 
 Kvist. Oberstadt.
 

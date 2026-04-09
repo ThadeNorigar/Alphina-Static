@@ -1066,10 +1066,10 @@
               "tschechow",
               "erkenntnis"
             ],
-            "titel": "Vespers Uhren-Netz über Vael",
+            "titel": "Vespers Uhren-Ringe über Vael",
             "tz_tag": 134,
             "datum_text": "14. Mai",
-            "detail": "Fünf Wochen systematische Kartografie abweichender Uhren. Die Punkte ergeben ein geometrisches Netz. Die Mitte des Netzes liegt unter dem Botanischen Garten. Tschechow für Akt III: das Netz zeigt auf den Steinkreis."
+            "detail": "Vier Wochen systematische Kartografie. Siebzehn abweichende Uhren zwischen elf Sekunden und zwei Minuten dreiundzwanzig pro Tag. Sortiert nach Magnitude-Gruppen ergeben sie vier konzentrische Ringe um einen Mittelpunkt. Die Tidemoor-Uhr (4:33) ist ein Sonderfall außerhalb des Rings. Tschechow für Akt II/III: der Mittelpunkt ist der Steinkreis im Botanischen Garten."
           },
           {
             "tz": 551,
@@ -1078,13 +1078,13 @@
             "typen": [
               "wissen"
             ],
-            "titel": "Vesper: Das geometrische Netz abweichender Uhren",
+            "titel": "Vesper erkennt das radiale Muster",
             "tz_tag": 134,
             "datum_text": "14. Mai",
             "figur": "Vesper",
-            "fakt": "vesper-uhren-netz",
+            "fakt": "vesper-uhren-ringe",
             "stufe": "versteht",
-            "detail": "Fünf Wochen Adressen gesammelt von Häusern in denen Uhren anders laufen. Die Punkte sind nicht zufällig. Sie liegen auf einem Muster, das er noch nicht benennen kann, aber sehen."
+            "detail": "Uhren in Hafennähe verlieren 11-15 Sek/Tag, in der Mitte der Stadt 30-50, in der Oberstadt 1-2 Minuten. Je näher am Zentrum, desto stärker. Vier Ringe um einen unsichtbaren Mittelpunkt in der Oberstadt, hinter dem Handelshaus."
           },
           {
             "tz": 551,
@@ -1099,7 +1099,23 @@
             "figur": "Vesper",
             "fakt": "runas-flugblatt-ueberlap",
             "stufe": "gesehen",
-            "detail": "Runas 'Vaels Geister' liegt in der Druckerei aus. Vesper registriert: die Adressen mit heißem Wasser und Kaminfeuer aus Runas Flugblatt überschneiden sich teilweise mit seinen eigenen Uhren-Punkten. Zwei unabhängige Beobachter, dasselbe Raster."
+            "detail": "Zweite Folge. Sechs Anomalie-Adressen. Vier liegen genau auf Vespers Ringen (Hafenstraße 14 Außenring, Treidelweg 3 Mittelring, Speichergasse 7 Einminuten-Ring, Marktbreite 8 Zweiminuten-Ring). Die fünfte, Grauwe-Ufer 4, liegt zwei Häuser neben der Tidemoor-Uhr. Zwei Muster, nicht eines: das Zentrum in der Oberstadt, ein zweiter Leckpunkt am Grauwe-Ufer."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "11",
+            "typen": [
+              "wissen",
+              "tschechow"
+            ],
+            "titel": "Vesper erkennt: die Berührung war permanent",
+            "tz_tag": 134,
+            "datum_text": "14. Mai",
+            "figur": "Vesper",
+            "fakt": "tidemoor-uhr-permanent",
+            "stufe": "ahnt",
+            "detail": "Die Tidemoor-Uhr läuft seit der ersten Berührung vor sechs Wochen permanent rein, auch ohne weiteres Auflegen. Vesper hatte es dem Raum zugeschrieben. Jetzt erkennt er: es war die Berührung. Eine einzige. Die anderen sechzehn Uhren laufen weiter falsch. Tschechow: Vesper ist selbst ein Resonanz-Fokus, und jede seiner Berührungen hinterlässt etwas Dauerhaftes."
           },
           {
             "tz": 551,
@@ -1108,16 +1124,16 @@
             "typen": [
               "begegnung"
             ],
-            "titel": "Alphina spricht Vesper im Anker an",
+            "titel": "Alphina und Vesper finden sich",
             "tz_tag": 134,
-            "datum_text": "14. Mai",
+            "datum_text": "14. Mai abends",
             "figuren": [
               "Alphina",
               "Vesper"
             ],
-            "intensitaet": "fluechtig",
-            "ort": "Gasthaus Zum Anker, Vespers Zimmer",
-            "detail": "Sie klopft an seine Tür. Er öffnet einen Spalt. Drei Sätze, vielleicht vier. Keine von beiden weiß, was man sagen darf. Sie geht. Aber sie kennen jetzt die Namen."
+            "intensitaet": "bekannt",
+            "ort": "Gasthaus Zum Anker, Vespers Zimmer (2. Stock rechts)",
+            "detail": "Alphina klopft. Dialog im Türrahmen, Tür bleibt auf einem Spalt. Sie fragt nach Uhren die falsch gehen, nennt die Tidemoor-4:33 (von Runa). Er bestätigt. Er zeigt ihr die Ring-Karte durch den Spalt. Sie erkennt sofort: der Mittelpunkt ist der Steinkreis im Botanischen Garten, sieben Steine, hüfthoch, Purpurstein. Sie beschreibt den Stein den sie vor vier Tagen berührt hat — warm, drei Pulsstöße unter der Handfläche. Beide verstehen: sie sind Teile desselben Systems. Kein Körperkontakt außer einem beiläufigen Daumen-Streifen beim Rückgeben des Notizbuchs. Verabredung für morgen Vormittag im Garten."
           },
           {
             "tz": 551,
@@ -1126,13 +1142,13 @@
             "typen": [
               "wissen"
             ],
-            "titel": "Alphina: Vesper resoniert auch",
+            "titel": "Alphina: Vesper gehört zum Phänomen",
             "tz_tag": 134,
-            "datum_text": "14. Mai",
+            "datum_text": "14. Mai abends",
             "figur": "Alphina",
             "fakt": "vesper-resoniert",
-            "stufe": "ahnt",
-            "detail": "Das erste Mal, dass Alphina weiß: sie ist nicht die einzige in Vael, in deren Händen etwas geschieht, das keinen Namen hat."
+            "stufe": "weiß",
+            "detail": "Das erste Mal, dass Alphina einen Beweis in der Hand hält: ein anderer Mensch hat das Phänomen unabhängig gemessen und aus anderer Perspektive erfasst. Sie ist nicht allein. Vesper ist Uhrmacher, sie Botanikerin, beide sehen dasselbe unsichtbare Zentrum — er über Uhrenabweichungen, sie über Pflanzenwachstum und den Puls im Stein."
           },
           {
             "tz": 551,
@@ -1141,13 +1157,46 @@
             "typen": [
               "wissen"
             ],
-            "titel": "Vesper: Die Frau heißt Alphina",
+            "titel": "Vesper: Alphina hat den Steinkreis",
             "tz_tag": 134,
-            "datum_text": "14. Mai",
+            "datum_text": "14. Mai abends",
             "figur": "Vesper",
-            "fakt": "alphina-wissen",
-            "stufe": "gesehen",
-            "detail": "Er hatte sie vorher schon im Schankraum bemerkt — die Frau mit Erde unter den Nägeln. Jetzt hat sie einen Namen und eine Tür zwischen ihnen."
+            "fakt": "alphina-botanik-stein",
+            "stufe": "weiß",
+            "detail": "Alphina ist Botanikerin aus Velde, arbeitet seit drei Wochen im Botanischen Garten der Oberstadt bei Henrik. Sie hat vor vier Tagen einen der sieben Steine im Steinkreis berührt — warm, drei Pulsstöße unter der Handfläche, langsamer als ein menschlicher Herzschlag. Der Steinkreis ist der Mittelpunkt seiner Ringe. Sie gehen morgen Vormittag um halb zehn zusammen hin."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "11",
+            "typen": [
+              "gaensehaut",
+              "erkenntnis",
+              "tschechow"
+            ],
+            "titel": "Kvarns Uhr läuft rein — Vesper erkennt sich selbst als Punkt",
+            "tz_tag": 134,
+            "datum_text": "14. Mai nachts",
+            "figur": "Vesper",
+            "fakt": "vesper-ist-resonator",
+            "stufe": "ahnt",
+            "detail": "Nach Alphinas Abgang läuft Kvarns Taschenuhr plötzlich rein, ohne dass Vesper die Welle weiter gedreht hat. Hand auf Gehäuse: dieselbe Wärme wie bei der Tidemoor-Uhr vor sechs Wochen. Er schreibt zwei Zeilen ins Notizbuch: 'Ich bin der achtzehnte Punkt. Zwei Türen weiter, die neunzehnte.' Er erkennt sich und Alphina als Teile des Phänomens, nicht nur als Beobachter. Der Mittelpunkt bleibt der Steinkreis — aber die Vier werden selbst Quellen sein."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "11",
+            "typen": [
+              "verabredung"
+            ],
+            "titel": "Vesper + Alphina verabreden sich für den Botanischen Garten",
+            "tz_tag": 134,
+            "datum_text": "14. Mai abends",
+            "figuren": [
+              "Alphina",
+              "Vesper"
+            ],
+            "detail": "Morgen Vormittag halb zehn am grünen Tor. Alphina nimmt Vesper in den Botanischen Garten mit, zeigt ihm den Steinkreis. Erste konkrete Allianz zwischen zwei Resonanz-Begabten in Vael."
           },
           {
             "tz": 551,
@@ -1337,7 +1386,7 @@
             "tags": [
               "Erkenntnis: Vael zerfaellt"
             ],
-            "detail": "In den Tagen vor Kap 11: Risse im Pflaster, heisses Wasser in weiteren Haeusern, Kaminfeuer ohne Brennstoff. Vespers Kartografie faengt das Wachstum des Musters in Echtzeit auf."
+            "detail": "In den Tagen vor Kap 11: Risse im Pflaster, heißes Wasser in weiteren Häusern, Kaminfeuer ohne Brennstoff. Vespers Ring-Kartografie fängt das Wachstum des Musters in Echtzeit auf."
           },
           {
             "tz": 551,

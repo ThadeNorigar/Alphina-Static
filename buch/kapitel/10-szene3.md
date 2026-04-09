@@ -40,21 +40,11 @@ Das war ein Bild.
 
 Sein Körper antwortete darauf, wie er auf jedes Bild antwortete, das er festhalten wollte: er wurde still, er fixierte, er komponierte den Rahmen im Kopf — die Form des Wesens, das Verhältnis zu den Hortensienzweigen daneben, die Kante des Mondlichts, die das Motiv begrenzte. Sein Blick bohrte sich in die Stelle, wo das Wesen stand.
 
-Um ihn herum fiel der Garten zurück ins Dunkel.
+Um ihn herum fiel der Garten zurück ins Dunkel. Die Hortensienblätter verloren ihre Kanten, der Kies seine Struktur, das Mondlicht zog sich von allem weg, floss in die eine Richtung, in die Sorels Blick zeigte, und sammelte sich dort auf weniger als einen Quadratfuß — eine Kante aus weißem Licht um das Wesen, scharf, dicht, präzise, heller als jede Mondnacht je einen einzelnen Punkt gezeichnet hatte.
 
-Nicht überall gleich — die Hortensienblätter ringsum, die eben noch deutlich gestanden hatten, verloren ihre Kanten. Der Kies unter seinen Füßen verlor seine Struktur. Das Mondlicht verschob sich, zog sich von den Blättern weg, von den Wegen weg, floss in die eine Richtung, in die Sorels Blick zeigte, und sammelte sich dort zu einer Helligkeit, die keine Mondnacht je auf einen einzelnen Punkt warf. Eine Kante aus weißem Licht um das Wesen herum, scharf, dicht, konzentriert auf weniger als einen Quadratfuß. Sorel sah es und hatte keine Erklärung dafür, die ihm einfiel, außer dass die Wolkendecke in diesem einen Augenblick aufgerissen sein musste, exakt an der richtigen Stelle, oder dass seine Augen nach der Rotlicht-Stunde eine Verzerrung produzierten, die er nie vorher gehabt hatte. Er hatte keine Zeit, zwischen den Erklärungen zu wählen.
+Das Wesen reagierte augenblicklich.
 
-Das Wesen sah ihn an.
-
-Nicht den Mond, nicht die Hortensien, nicht das Licht — ihn. Und es war jetzt ihm bewusst, mit einer Dringlichkeit, die in seinen Schultern ansetzte und in sein Nacken hochfuhr, dass es in diesem Garten kein zweites Motiv für dieses Wesen gab. Er war das Motiv. Das Licht auf dem Wesen blieb, während Sorels Blick blieb, und er wollte wegsehen und konnte nicht, weil sein Körper noch die Fotografen-Haltung hielt.
-
-Das Wesen reagierte sofort.
-
-Es wich einen halben Schritt zurück, die Augen immer noch auf Sorel gerichtet, und der Kopf senkte sich, nicht als Unterwerfung, als Vorbereitung. Die Haut an der Stelle, auf die Sorels Blick sich zusammenzog, hatte angefangen, schwach zu glühen — nicht von innen, sondern an der Oberfläche, wie ein Stück Eisen, das langsam zu nahe an die Esse kommt. Der Rauch an den Rändern des Körpers verdichtete sich, fast sichtbar jetzt, wie das Atmen eines Tieres, das im Begriff ist, etwas zu tun.
-
-Dann tat es etwas.
-
-Aus dem Maul — wenn es ein Maul war, die Stelle, wo ein Maul hätte sein können — schoss ein Feuerstoß. Kein Flächenbrand, ein gerader, fingerdicker Strahl von Flamme, der durch die drei Meter Luft zwischen Wesen und Sorel fuhr wie ein geworfenes Messer. Sorel hatte keine Zeit, den Kopf wegzudrehen; sein Körper hob reflexhaft den linken Unterarm, um das Gesicht zu schützen, und der Strahl traf die linke Hand am Handrücken. Der Aufprall war nicht laut, sondern hell — ein Lichtblitz, der seine eigene Pupille zum Zusammenziehen zwang, und im nächsten Atemzug Schmerz, echter, brennender Schmerz, der den Arm hoch bis in die Schulter fuhr und ihm das Knie abkaufte. Er taumelte, fing sich, hielt mit der rechten Hand die Kassettentasche gegen den Bauch.
+Aus dem Maul — wenn es ein Maul war — schleuderte sich ein Feuerball, faustgroß, rotgelb, mit einem Kern aus weißer Glut, und die drei Meter zwischen Wesen und Sorel verschwanden in einem Lidschlag. Sorels linker Unterarm ging hoch, Reflex, sein Körper wollte das Gesicht schützen. Der Ball traf die Hand am Handrücken mit einem Schlag, den Sorel bis in die Schulter, bis in den Brustkorb, bis in den Kiefer spürte — ein Hammer, ein Hitzeschlag, ein Lichtblitz gleichzeitig, der seine Pupille zusammenriss und ihm das Knie unter dem rechten Bein wegtrat. Er taumelte, fing sich an einem Hortensienzweig, drückte die rechte Hand gegen die Kassettentasche am Bauch, und die linke Hand brannte, echter brennender Schmerz, der den ganzen Arm ausfüllte und keinen Platz für etwas anderes ließ.
 
 Das Wesen setzte zum Sprung an.
 
