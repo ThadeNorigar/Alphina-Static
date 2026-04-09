@@ -3,11 +3,15 @@
     "idee",
     "szenenplan",
     "entwurf",
+    "entwurf-checked",
+    "entwurf-ok",
+    "ausarbeitung",
     "council",
     "checked",
     "lektorat",
     "final"
   ],
+  "_pipeline_v2_doc": "Neue Pipeline (ab 2026-04-09): idee → entwurf → entwurf-checked → entwurf-ok → ausarbeitung → lektorat → final. Felder pro Kapitel: 'entwurfs_datei' (Pflicht ab 'entwurf'), 'datei' (Pflicht ab 'lektorat'). Alte Stati 'szenenplan/council/checked' bleiben fuer Rueckwaertskompatibilitaet, werden in neuer Pipeline nicht mehr gesetzt. Siehe docs/superpowers/specs/2026-04-09-kapitel-pipeline-umbau-design.md",
   "buch1": {
     "meta": {
       "titel": "Der Riss",
@@ -245,11 +249,11 @@
         "text": "Garten, Nachmittag. Alphina, Sorel, Vesper, Maren — keiner versteht warum er hier ist. Aber die Pflanzen stehen still, zum ersten Mal seit Tagen. Das Pochen unter der Erde, einmal, laut. Vesper und Maren gehen denselben Weg zurück; Schultern berühren sich."
       },
       "18": {
-        "titel": "Vesper: Die stille Standuhr und Halvard",
+        "titel": "Vesper: Die Grundfrequenz und Halvard",
         "pov": "Vesper",
         "status": "szenenplan",
         "woerter": null,
-        "text": "Vesper allein im Tidemoor-Haus. Die Standuhr läuft rein, wie seit Mai, null Drift. Er misst sie trotzdem — aus Gewohnheit und weil Messen die Form ist, in der er denkt. Das Gehäuse von innen warm, eine Wärme, die er inzwischen kennt. Auf dem Reparaturtisch: die Tabelle der sechzehn anderen Vael-Uhren, die er seit Kap 11 weiterverfolgt. Die Driftwerte wachsen gleichmäßig, alle Ringe expandieren im selben Verhältnis. Er rechnet die Zuwachsraten heute zum ersten Mal hoch und findet eine Grundfrequenz — vier Minuten dreiunddreißig pro Tag, nicht als Befund einer einzelnen Uhr, sondern als Atem des ganzen Systems, das alle sechzehn gleichzeitig zieht. Er unterstreicht die Zahl nicht. Abends im Gasthaus mit Doktor Halvard: kauterisierte Kratzer bei einem Kind, Verbrennungen ohne Hitzequelle, Knochenbrüche ohne Sturz. Vespers Notizbuch füllt sich mit Mustern. Die Tidemoor-Uhr, die er früher für seine lauteste Quelle hielt, schweigt — weil er ihr im Mai den Takt gegeben hat. Das kommt ihm erst in Kap 32 zurück."
+        "text": "Vesper im Tidemoor-Haus. Die Standuhr läuft rein, wie seit Mai — für ihn ein abgeschlossener Fall. Auf dem Reparaturtisch: die Tabelle der sechzehn anderen Vael-Uhren, die er seit Kap 11 weiterverfolgt. Die Driftwerte wachsen gleichmäßig, alle Ringe expandieren im selben Verhältnis. Er rechnet die Zuwachsraten heute zum ersten Mal hoch und findet eine Grundfrequenz — vier Minuten dreiunddreißig pro Tag, nicht als Befund einer einzelnen Uhr, sondern als Atem des ganzen Systems, das alle sechzehn gleichzeitig zieht. Er unterstreicht die Zahl nicht. Abends im Gasthaus mit Doktor Halvard: kauterisierte Kratzer bei einem Kind, Verbrennungen ohne Hitzequelle, Knochenbrüche ohne Sturz. Vespers Notizbuch füllt sich mit Mustern."
       },
       "I4": {
         "titel": "Varen: Die Schemen berichten",
@@ -371,18 +375,18 @@
         "text": "Drei Feuer-Schemen wüten in der Stadt. Die Vier kämpfen sich zum Steinkreis. Kaspar stirbt, Keldan stirbt. Elke öffnet das Portal und geht durch. Auf der Moragh-Seite trifft sie Varen — er kappt die Bindung der Schemen. In Vael lösen sie sich im Rauch auf. Lene überlebt allein."
       },
       "32": {
-        "titel": "Vesper: Die Erkenntnis und der eigene Fehler",
+        "titel": "Vesper: Die Erkenntnis",
         "pov": "Vesper",
         "status": "szenenplan",
         "woerter": null,
-        "text": "Nachts, Kerzen und Papier. Vesper legt Marens Gezeitendaten neben seine Drifttabelle der sechzehn Vael-Uhren und die Grundfrequenz, die er aus den Zuwachsraten hochgerechnet hat (Kap 18): vier Minuten dreiunddreißig pro Tag. Das Muster: die Grundfrequenz passt exakt in den Rhythmus, in dem die Grauwe rückwärts fließt. Plus Runas Flugblatt-Chronologie und Halvards Verletzungsprotokolle — die Schemen-Sichtungen folgen demselben Takt. Die Frequenz von etwas hinter dem Riss. Zweite Erkenntnis, härter: er hatte die eine Uhr, die den Takt am klarsten gezeigt hätte — die Tidemoor-Uhr —, im Mai mit der eigenen Hand zum Schweigen gebracht. Er hätte fünf Monate früher dort sein können, wo er jetzt erst ist. Er rennt zur Werft. „Deine Gezeiten. Meine Zahlen. Und ich habe mir die beste Uhr selbst kaputtgemacht.“ Maren versteht sofort."
+        "text": "Nachts, Kerzen und Papier. Vesper legt Marens Gezeitendaten neben seine Drifttabelle der sechzehn Vael-Uhren und die Grundfrequenz, die er aus den Zuwachsraten hochgerechnet hat (Kap 18): vier Minuten dreiunddreißig pro Tag. Das Muster: die Grundfrequenz passt exakt in den Rhythmus, in dem die Grauwe rückwärts fließt. Plus Runas Flugblatt-Chronologie und Halvards Verletzungsprotokolle — die Schemen-Sichtungen folgen demselben Takt. Die Frequenz von etwas hinter dem Riss. Er rennt zur Werft. „Deine Gezeiten. Meine Zahlen. Dasselbe Muster.“ Maren versteht sofort."
       },
       "33": {
         "titel": "Alle vier: Die Nacht vor der Schwelle",
         "pov": "Alle",
         "status": "szenenplan",
         "woerter": null,
-        "text": "Letzte Nacht in Vael. Alphina bittet die Pflanzen still zu sein. Sorel belichtet eine letzte Platte. Vesper öffnet die Tidemoor-Standuhr und nimmt das Räderwerk heraus — zum ersten Mal seit Mai kehrt das alte Vibrieren in 4:33 ins stille Gehäuse zurück, als hätte es nur darauf gewartet. Maren am Boot: „Warte auf mich.“ Um 4:33 nach Mitternacht gehen sie nach unten."
+        "text": "Letzte Nacht in Vael. Alphina bittet die Pflanzen still zu sein. Sorel belichtet eine letzte Platte. Vesper öffnet die Tidemoor-Standuhr und nimmt das Räderwerk heraus — die Uhr, die er im Mai befriedet hat, zählt ihren letzten Takt, nicht weil sie kaputt ist, sondern weil die Zeit, die sie misst, nicht mehr gilt. Maren am Boot: „Warte auf mich.“ Um 4:33 nach Mitternacht gehen sie nach unten."
       },
       "34": {
         "titel": "Alphina: Letzte Blüte",

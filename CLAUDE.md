@@ -62,14 +62,20 @@ Ebene  Typ                  Dateien                              Inhalt
                                                                  Was passiert in welchem Buch,
                                                                  Akt-Struktur, Enden, Arcs.
 
-  5    Aktpläne             buch/02-akt1.md bis 05-akt4.md       Kapitel-für-Kapitel-Breakdown,
-                            buch/06-buch2-akt1.md bis 09-...     POV, Seitenzahlen, Interludien,
-                            buch/14-buch3-akt1.md bis 17-...     Tschechow-Waffen pro Akt.
+  5    Zeitleiste           buch/zeitleiste.json                 SOURCE OF TRUTH für Kapitel-
+                            buch/status.json                     Reihenfolge, POV-Zuordnung,
+                                                                 Events, TZ/MZ-Datierung.
+                                                                 Bei Konflikten mit Aktplänen
+                                                                 GEWINNT die Zeitleiste.
+                                                                 Knapp, maschinenlesbar, token-
+                                                                 sparend — der primäre Kapitel-
+                                                                 Referenzpunkt für alle Agenten.
 
-  6    Kapitelregister      buch/status.json                     Status, Wörter, Kurzbeschrei-
-                            buch/zeitleiste.json                 bung. Speist die Website.
-                                                                 Zeitleiste: Alle Events mit
-                                                                 TZ/MZ, Typen, Tags, POV.
+  6    Aktpläne             buch/02-akt1.md bis 05-akt4.md       Narrative Ausarbeitung der
+                            buch/06-buch2-akt1.md bis 09-...     Kapitel: Beats, Szenen,
+                            buch/14-buch3-akt1.md bis 17-...     Atmosphäre, Tschechow-Waffen
+                                                                 pro Akt. Folgt der Zeitleiste
+                                                                 in Nummerierung und POV.
 
   7    Szenenpläne          buch/szenen/{KK}-{SS}.md             Detaillierte Beats pro Szene.
                                                                  KK=Kapitel, SS=Szene.
@@ -82,6 +88,8 @@ Ebene  Typ                  Dateien                              Inhalt
  10    Finale Kapitel       buch/kapitel/{KK}-{name}.md          Fertig, durch alle Gates.
                                                                  Was die Leserin liest.
 ```
+
+**Hierarchie-Umkehrung Zeitleiste/Aktplan:** Die Zeitleiste ist ab sofort Ebene 5 (früher Ebene 6), die Aktpläne sind Ebene 6 (früher Ebene 5). Grund: Die Zeitleiste ist knapp, maschinenlesbar und tokensparend. Bei Konflikten zwischen `zeitleiste.json` und einem Aktplan gewinnt die Zeitleiste — sie ist der primäre Referenzpunkt für Kapitelnummerierung, POV-Zuordnung und Reihenfolge. Aktpläne bleiben wichtig für die narrative Ausarbeitung, müssen aber der Zeitleiste folgen, nicht umgekehrt.
 
 ### Kaskaden-Regel
 
@@ -103,25 +111,35 @@ Nach jeder Bibel-Änderung (Ebene 1-3): abwärts durcharbeiten bis zum fertigen 
 ```
 buch/
 ├── 00-welt.md                    # Ebene 1: Weltbibel
+├── 00-canon-kompakt.md           # Ebene 1: Kompakt-Destillat (max 800 W) — Pipeline v2
 ├── 00-storyline.md               # Ebene 4: Storyline
 ├── 01-stil.md                    # Ebene 2: Stilregeln
 ├── 02-stilregeln-v2.md           # Ebene 2: Stilregeln v2
 ├── 10-magie-system.md            # Ebene 2: Regelsystem
 ├── 11-nyr.md                     # Ebene 3: Charakter-Dossier
 ├── 13-talven.md                  # Ebene 3: Charakter-Dossier
-├── {BB}-akt{A}.md                # Ebene 5: Aktplan (BB=Buch-Offset, A=Akt)
+├── pov/                          # Ebene 3: POV-Dossiers (max 500 W) — Pipeline v2
+│   ├── alphina.md
+│   ├── sorel.md
+│   ├── vesper.md
+│   └── maren.md
+├── kapitel-summaries.md          # Ebene 5: Kompakt-Summaries pro fertigem Kapitel — Pipeline v2
+├── zeitleiste.json               # Ebene 5: Zeitleiste (SoT — Reihenfolge, POV, Events)
+├── status.json                   # Ebene 5: Kapitelregister (SoT — Status, Wörter)
+├── {BB}-akt{A}.md                # Ebene 6: Aktplan (BB=Buch-Offset, A=Akt)
 │   02-akt1.md ... 05-akt4.md     #   Buch 1 (Offset 02)
 │   06-buch2-akt1.md ... 09-...   #   Buch 2 (Offset 06)
 │   14-buch3-akt1.md ... 17-...   #   Buch 3 (Offset 14)
-├── status.json                   # Ebene 6: Kapitelregister
-├── zeitleiste.json               # Ebene 6: Zeitleiste (TZ/MZ Events)
 ├── szenen/
 │   ├── {KK}-{SS}.md              # Ebene 7: Szenenplan (KK=Kapitel, SS=Szene)
 │   └── I{N}-{SS}.md              #   Interludien: I1-01.md, I5-02.md
 └── kapitel/
-    ├── {KK}-entwurf.md           # Ebene 8: Entwurf
-    ├── {KK}-szene{S}.md          # Ebene 9: Szenen-Draft
-    ├── {KK}-{name}.md            # Ebene 10: Finales Kapitel
+    ├── {KK}-entwurf.md           # Ebene 8: Entwurf (alte Pipeline)
+    ├── {KK}-szene{S}.md          # Ebene 9: Szenen-Draft (alte Pipeline)
+    ├── {KK}-{name}.md            # Ebene 10: Finales Kapitel (alte Pipeline)
+    ├── B1-K{KK}-entwurf.md       # Pipeline v2: Plot-Entwurf (Phase 1)
+    ├── B1-K{KK}-{name}.md        # Pipeline v2: Finales Kapitel (Phase 2/3)
+    ├── B1-K{KK}-handoff.md       # Pipeline v2: Handoff-File zwischen Phasen
     └── I{N}-{name}.md            #   Interludien: I1-elke.md
 ```
 
@@ -150,7 +168,15 @@ Projekt-Root/
 
 **Bei Standalone-Projekten** entfallen Storyline und Band-Offsets. Die Struktur bleibt identisch, nur flacher.
 
-VOR dem Schreiben immer lesen: `00-welt.md`, `10-magie-system.md`, `02-stilregeln-v2.md` und `kapitel/01-alphina.md` (Referenzton).
+**Lade-Strategie pro Pipeline-Phase (Pipeline v2):**
+
+| Phase | Lade |
+|---|---|
+| `/entwurf` (Phase 1) | `00-canon-kompakt.md`, `kapitel-summaries.md`, `pov/{figur}.md`, `zeitleiste.json`, Aktplan-Snippet |
+| `/ausarbeitung` (Phase 2) | Entwurf-File, Handoff-File, `pov/{figur}.md`, `02-stilregeln-v2.md`, EIN Ton-Referenzkapitel (gleicher POV), `kapitel-summaries.md` |
+| `/lektorat-fix` (Phase 3) | NUR die Kapitel-Datei + ggf. `02-stilregeln-v2.md` |
+
+**NICHT mehr pauschal laden:** `00-welt.md`, `10-magie-system.md`, mehrere fertige Kapitel als Referenz. Die Inhalte stecken in den kompakten Files. Wenn du sie wirklich brauchst, hat das einen Grund — und dann lade nur den nötigen Abschnitt.
 
 ## Pipelines
 
@@ -208,69 +234,97 @@ Interludien platzieren → Tschechow-Waffen setzen →
 
 **Prüfpunkte:** POV-Balance (45% Alphina, je ~18% Rest), Tschechow-Vollständigkeit (jedes Detail muss feuern), Interludium-Echos zu Hauptkapiteln.
 
-### 4. Kapitel-Pipeline (Ebene 7–10)
+### 4. Kapitel-Pipeline v2 (Ebene 7–10) — DIE AKTUELLE PIPELINE
 
-Definiert WIE EINE SZENE KLINGT. Die einzige Pipeline mit harten Gates.
-**Nach jedem bestandenen Gate: Status in status.json setzen + commit + deploy.**
+**Stand 2026-04-09:** Komplett umgebaut für Token-Effizienz. Drei separate Phasen mit harten Session-Breaks. Jede Phase hat ihren eigenen Slash-Command, ihr eigenes Modell, ihren eigenen schlanken Kontext. Vollständiger Spec: `docs/superpowers/specs/2026-04-09-kapitel-pipeline-umbau-design.md`
 
-**PFLICHT bei status.json-Updates:** Wenn ein Kapitel den Status "entwurf" oder höher erreicht, MUSS der Eintrag ein `"datei"` Feld haben (z.B. `"datei": "07-vesper.md"`). Ohne dieses Feld erscheint kein "Kapitel lesen" Button auf der Website. `generate-lesen.sh` warnt wenn das Feld fehlt.
+**Parameter-Format:** Alle drei Commands erwarten `B{N}-K{KK}` (z.B. `B1-K12`) oder `B{N}-I{N}` (Interludium).
 
-**VOR dem Szenenplan — Konsistenz-Prüfung (PFLICHT):**
-1. Offene Fragen klären: Gibt es Unklarheiten zu Figuren, Ort, Zeitpunkt, Motivation?
-   Wenn ja: mit dem Autor klären BEVOR geschrieben wird.
-2. Bibel-Check: Stimmen die Fakten in `00-welt.md` für dieses Kapitel?
-   (Figuren anwesend? Ort existiert? Zeitlinie konsistent?)
-3. Story-Check: Passt das Kapitel in den Bogen aus `00-storyline.md`?
-   (Vorheriges Kapitel-Ende → dieses Kapitel-Anfang logisch?)
-4. Aktplan-Check: Stimmt der Breakdown in `{NN}-akt{A}.md`?
-   (Beats, POV, Tschechow-Waffen gesetzt und empfangbar?)
-5. **Szenentyp-Abgleich:** Die letzten 2-3 Kapitel lesen. Welcher Szenentyp
-   eröffnet sie (Anreise, Gasthaus, Werkstatt, Begegnung)? **Keine Wiederholung.**
-   Wenn das letzte Kapitel mit einer Anreise beginnt, beginnt dieses Kapitel ANDERS.
-6. **Orts-Inventur:** Welche Orte sind bereits beschrieben? Was ist über Vael
-   (Nebel, Purpurstein, Feuchtigkeit, Gaslampen) bereits etabliert? Nur NEUE
-   Sinneseindrücke für dieses Kapitel. Keine Wiederholung bekannter Atmosphäre.
-
-Erst wenn alle sechs Punkte geklärt sind, beginnt der Szenenplan.
-
+**Status-Kette:**
 ```
-Schritt                    Status → status.json    Wer        Auto-Deploy
-──────────────────────     ────────────────────     ────────   ──────────
-Konsistenz-Prüfung         —                        Claude     nein
-Kapitel angelegt           "idee"                  Autor      ja
-Szenenplan geschrieben     "szenenplan"             Claude     ja
-/council bestanden         —                        Claude     nein
-Szene(n) geschrieben       "entwurf"                Claude     ja
-/council bestanden         "council"                Claude     ja
-/logik-check bestanden ─┐                                     
-                         ├ beide OK?  "checked"     Claude     ja
-/stil-check bestanden  ─┘  (parallel)                         
-LEKTORAT (Autor liest)     "lektorat"               AUTOR      ja
-Final /council             "final"                  Claude     ja
+idee → entwurf → entwurf-checked → entwurf-ok → ausarbeitung → lektorat → final
 ```
 
-**Jeder Status-Wechsel deployed.** Keine Ausnahme. Der Autor liest online.
+**Pflichtfelder in status.json pro Phase:**
+- Ab `entwurf`: `entwurfs_datei` (z.B. `"entwurfs_datei": "B1-K12-entwurf.md"`)
+- Ab `lektorat`: `datei` (z.B. `"datei": "B1-K12-vesper.md"`)
+- `final` ohne `datei` ist ein Fehler. `generate-lesen.sh` warnt.
 
-**/logik-check und /stil-check laufen parallel** als zwei Agenten. Beide prüfen den
-fertigen Text, keine Abhängigkeit untereinander. Erst wenn BEIDE bestanden sind, wird
-der Status auf "checked" gesetzt. Ein einzelner Check reicht nicht.
+#### Phase 1 — `/entwurf B1-K12` (Modell: Sonnet)
 
-**LEKTORAT ist ein Autor-Gate mit Feedback-Schleife:**
-1. Nach "checked" + Deploy liest der Autor online.
-2. Autor gibt Feedback (Korrekturen, Anmerkungen).
-3. Claude arbeitet Fixes ein + Deploy (Status bleibt "checked").
-4. Autor liest erneut online.
-5. Schleife bis der Autor explizit bestätigt: "gelesen, passt" / "lektorat ok".
-6. ERST DANN wird der Status auf "lektorat" gesetzt + Deploy.
+**Ziel:** Plot, Logik, Charakter-Dynamik als Fließprosa-Exposé. Kein Stil, kein Rhythmus.
 
-Claude darf den Status NICHT eigenmächtig auf "lektorat" setzen. Nachfragen ist erlaubt,
-weiterschalten nicht.
+**Lädt nur:** `00-canon-kompakt.md`, `kapitel-summaries.md`, `pov/{figur}.md`, `zeitleiste.json`, Aktplan-Snippet. Gesamt ~6-8k W.
 
-**Artefakte:**
-- `buch/szenen/{KK}-{SS}.md` — Szenenplan
-- `buch/kapitel/{KK}-entwurf.md` — Entwurf
-- `buch/kapitel/{KK}-szene{S}.md` — Szenen-Drafts
-- `buch/kapitel/{KK}-{name}.md` — Finales Kapitel
+**Schreibt:** `buch/kapitel/B1-K12-entwurf.md` mit Fließprosa-Beats, Dialog-Info-Listen (was wird ausgetauscht, welche Erkenntnis nimmt jede Figur mit), Tschechow-Beats, Cross-POV-Anker.
+
+**Subagenten (alle Sonnet via expliziten Override):** Logik-Check (schlank), Strukturanalyst, Beziehungs-Lektorin.
+
+**Endet mit:** Status `entwurf-ok` + Handoff-File + harter Session-Stop. Autor startet neue Session mit Opus.
+
+#### Phase 2 — `/ausarbeitung B1-K12` (Modell: Opus)
+
+**Ziel:** Den freigegebenen Entwurf in Prosa ausarbeiten. **Vom Plot NICHT abweichen.** Wenn ein Plot-Beat nicht trägt: stoppen und zurück zu `/entwurf`, niemals still anpassen.
+
+**Lädt nur:** Entwurf-File, Handoff-File, `pov/{figur}.md`, `02-stilregeln-v2.md`, EIN Ton-Referenzkapitel (gleicher POV), `kapitel-summaries.md`. Gesamt ~15-20k W.
+
+**Schreibt:** `buch/kapitel/B1-K12-{figur}.md` direkt als finale Prosa, Szene für Szene, kein Szenen-Council zwischendurch.
+
+**Subagenten (Sonnet via Override):** Stil-Check, Final-Council mit drei Agenten (Stilkritiker, Dark-Romance/BDSM-Leserin, Romantasy-Leserin).
+
+**Endet mit:** Status `lektorat` + Handoff-File + harter Session-Stop. Autor liest online.
+
+#### Phase 3 — `/lektorat-fix B1-K12` (Modell: Sonnet/Haiku)
+
+**Ziel:** Kleinere textuelle Fixes nach Autor-Feedback. **Token-sparsamst.** Edit-Tool, kein Write. Kein Council, kein Stil-Check, keine Wortzählung.
+
+**Lädt nur:** Die Kapitel-Datei + ggf. `02-stilregeln-v2.md`. Gesamt ~5-8k W.
+
+**Arbeitsmodus:** Autor-getrieben. Claude macht NUR was angefragt wird, flaggt Auffälligkeiten ohne ungefragt zu ändern.
+
+**Endet mit:** Status `final` (NUR auf explizites Autor-OK) + Handoff-File löschen.
+
+#### Modell-Strategie
+
+| Phase | Hauptsession | Subagenten |
+|---|---|---|
+| `/entwurf` | Sonnet | Sonnet (alle) |
+| `/ausarbeitung` | **Opus** | Sonnet (alle) |
+| `/lektorat-fix` | Sonnet/Haiku | — (keine Subagenten) |
+
+**Subagenten-Dispatch IMMER mit explizitem `model:`-Override im Task-Call.** Kein Verlass auf Default-Vererbung.
+
+**Modell wechseln in Claude Code:** `/model` Slash-Command innerhalb der Session ODER `claude --model sonnet|opus|haiku` beim Start einer neuen Session.
+
+#### Session-Break-Regel (HART)
+
+Phasen-Übergänge laufen über Handoff-Files (`buch/kapitel/B1-K12-handoff.md`). Eine Phase ENDET mit:
+1. Handoff-File schreiben (Subagent, Modell Haiku)
+2. Status setzen + Deploy
+3. Harten Stop kommunizieren: *"Session beenden, neu starten mit `claude --model X`, dann `/<naechste-phase> B1-K12`."*
+4. **Keine weitere Arbeit in dieser Session.** Auch wenn der Autor noch Fragen stellt.
+
+Die nächste Phase prüft am Start ZWINGEND ob ein Handoff-File für die richtige Phase existiert. Ohne Handoff: harter Abbruch.
+
+#### Alte Pipeline (`/kapitel`) — DEAKTIVIERT
+
+Die alte monolithische `/kapitel`-Pipeline wurde mit dem Umbau abgelöst. Bestehende fertige Kapitel (Kap 1-13) bleiben als finale Kapitel ohne Prefix-Naming. Neue Kapitel ab jetzt verwenden `B1-K{KK}`-Namensschema.
+
+**Falls die alte Pipeline doch noch gebraucht wird:** sie liegt in `.claude/commands/kapitel.md` (legacy). Standard ist die neue 3-Phasen-Pipeline.
+
+#### Pflege der Vorarbeit-Files
+
+- **`00-canon-kompakt.md`:** bei jeder Änderung in `00-welt.md` oder `10-magie-system.md` aktualisieren (Teil der Kaskaden-Regel).
+- **`pov/{figur}.md`:** nach jedem `final`-Kapitel der Figur prüfen (Wissensstand-Anker, Tschechow-Status, Beziehungs-Status).
+- **`kapitel-summaries.md`:** beim Setzen von `final` einen Eintrag für das neue Kapitel ergänzen. `/lektorat-fix` erinnert daran.
+
+**Artefakte (Pipeline v2):**
+- `buch/00-canon-kompakt.md` — Welt-/Figuren-/Magie-Kompakt (max 800 W)
+- `buch/pov/{figur}.md` — POV-Dossier pro Hauptfigur (max 500 W)
+- `buch/kapitel-summaries.md` — Kapitel-Summaries (~150 W pro Kapitel)
+- `buch/kapitel/B1-K{KK}-entwurf.md` — Plot-Entwurf (Phase 1)
+- `buch/kapitel/B1-K{KK}-{figur}.md` — Finales Kapitel (Phase 2/3)
+- `buch/kapitel/B1-K{KK}-handoff.md` — Handoff zwischen Phasen (wird bei `final` gelöscht)
 
 ### Gate-Protokoll (gilt für JEDEN Prüfschritt)
 

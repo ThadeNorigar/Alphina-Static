@@ -294,7 +294,10 @@
     const kapId = isInterludium ? slug : slug.padStart(2, '0');
 
     // WIP mode: linked from /story-in-work/ with ?wip=1
-    const isWip = new URLSearchParams(window.location.search).has('wip');
+    const urlParams = new URLSearchParams(window.location.search);
+    const isWip = urlParams.has('wip');
+    // Entwurfs-Modus: ?entwurf=1 zeigt entwurfs_datei statt datei
+    const showEntwurf = urlParams.has('entwurf');
 
     fetch('/buch/status.json')
       .then(r => r.json())
@@ -322,7 +325,14 @@
           }
         }
 
-        if (!ch || !ch.datei) {
+        // Pipeline v2: Auto-Auswahl welche Datei geladen wird
+        // - Wenn ?entwurf=1 oder Status ist eine Entwurfs-Phase: lade entwurfs_datei
+        // - Sonst: lade datei (das fertige Kapitel)
+        const ENTWURFS_PHASEN = new Set(['entwurf', 'entwurf-checked', 'entwurf-ok', 'ausarbeitung']);
+        const useEntwurf = ch && (showEntwurf || (ENTWURFS_PHASEN.has(ch.status) && !ch.datei));
+        const targetDatei = ch && (useEntwurf ? ch.entwurfs_datei : (ch.datei || ch.entwurfs_datei));
+
+        if (!ch || !targetDatei) {
           document.getElementById('ch-title').textContent = 'Kapitel nicht gefunden';
           return;
         }
@@ -353,9 +363,11 @@
         document.getElementById('ch-breadcrumb').textContent = breadcrumb;
 
         // Set header — nur Name der Hauptperson (ch.pov)
-        document.getElementById('ch-title').textContent = ch.pov;
+        // Bei Entwurfs-Anzeige: prefix mit "Entwurf — "
+        const titlePrefix = useEntwurf ? 'Entwurf — ' : '';
+        document.getElementById('ch-title').textContent = titlePrefix + ch.pov;
 
-        document.title = 'Der Riss — ' + ch.pov;
+        document.title = 'Der Riss — ' + titlePrefix + ch.pov;
 
         // Build navigation
         const myIdx = allKapitelOrder.indexOf(kapId);
@@ -367,9 +379,11 @@
 
         // Determine if nav links should be active
         // In normal mode: only link to chapters with status "final"
-        // In WIP mode: link to any chapter that has a datei (= has been written)
+        // In WIP mode: link to any chapter that has a datei OR entwurfs_datei
         function canLink(targetCh) {
-          if (!targetCh || !targetCh.datei) return false;
+          if (!targetCh) return false;
+          const hasAny = !!(targetCh.datei || targetCh.entwurfs_datei);
+          if (!hasAny) return false;
           if (isWip) return true;
           return targetCh.status === 'final';
         }
@@ -382,7 +396,9 @@
         // Count readable chapters for page info
         const readable = allKapitelOrder.filter(k => {
           const c = buchData.kapitel[k];
-          return isWip ? (c && c.datei) : (c && c.status === 'final');
+          if (!c) return false;
+          const hasAny = !!(c.datei || c.entwurfs_datei);
+          return isWip ? hasAny : (c.status === 'final');
         });
         const myReadableIdx = readable.indexOf(kapId);
         const pageInfo = myReadableIdx >= 0
@@ -408,8 +424,8 @@
         document.getElementById('nav').innerHTML = navHtml;
         document.getElementById('nav-top').innerHTML = navHtml;
 
-        // Fetch and render the markdown
-        fetch('/buch/kapitel/' + ch.datei)
+        // Fetch and render the markdown — uses targetDatei (entwurfs_datei or datei)
+        fetch('/buch/kapitel/' + targetDatei)
           .then(r => r.text())
           .then(md => {
             const lines = md.split('\n');

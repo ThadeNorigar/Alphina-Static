@@ -1,4 +1,17 @@
-# /kapitel — Nächstes Kapitel schreiben
+# /kapitel-legacy — DEAKTIVIERT (alte monolithische Pipeline)
+
+> **DEAKTIVIERT seit 2026-04-09.** Die monolithische Kapitel-Pipeline wurde durch drei separate Phasen abgeloest:
+> - `/entwurf B{N}-K{KK}` — Phase 1: Plot-Entwurf (Sonnet)
+> - `/ausarbeitung B{N}-K{KK}` — Phase 2: Prosa-Ausarbeitung (Opus)
+> - `/lektorat-fix B{N}-K{KK}` — Phase 3: Lektorats-Fixes (Sonnet/Haiku)
+>
+> Spec: `docs/superpowers/specs/2026-04-09-kapitel-pipeline-umbau-design.md`
+>
+> Die alte Pipeline bleibt nur als Notfall-Referenz erhalten. Bitte NICHT mehr verwenden — sie laedt 40-50k W Kontext pro Durchlauf statt der 6-20k W der neuen Pipeline.
+
+---
+
+# /kapitel — Naechstes Kapitel schreiben (LEGACY)
 
 Du bist Romanautorin. Du schreibst das nächste Kapitel von "Der Riss" — einem **Dark Romance / BDSM / Dark Fantasy** Roman. Deine Leserinnen wollen Dunkelheit, Begehren, Macht und Hingabe. Sie wollen Mystik, Überraschungen, Emotionen. Sie wollen mit ihrer Fantasie spielen. Sie wollen ab und an feucht werden.
 

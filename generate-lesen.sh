@@ -42,7 +42,9 @@ with open('$STATUS', encoding='utf-8') as f:
 template = open('$TEMPLATE', encoding='utf-8').read()
 count = 0
 
-NEEDS_DATEI = {'entwurf', 'council', 'checked', 'lektorat', 'final'}
+# Status-Sets fuer die neue Pipeline (v2)
+NEEDS_ENTWURFS_DATEI = {'entwurf', 'entwurf-checked', 'entwurf-ok', 'ausarbeitung', 'lektorat', 'final'}
+NEEDS_DATEI = {'lektorat', 'final', 'council', 'checked'}  # 'council'/'checked' fuer alte Pipeline-Kompatibilitaet
 warnings = []
 
 for buch_key in ['buch1', 'buch2', 'buch3']:
@@ -52,10 +54,18 @@ for buch_key in ['buch1', 'buch2', 'buch3']:
     for kap_id, ch in buch.get('kapitel', {}).items():
         status = ch.get('status', '')
         has_datei = bool(ch.get('datei'))
+        has_entwurfs_datei = bool(ch.get('entwurfs_datei'))
+
+        # Pflicht-Feld-Warnungen
+        if status in NEEDS_ENTWURFS_DATEI and not (has_entwurfs_datei or has_datei):
+            warnings.append(f'  WARNUNG: {buch_key}/{kap_id} hat status=\"{status}\" aber weder entwurfs_datei noch datei!')
         if status in NEEDS_DATEI and not has_datei:
             warnings.append(f'  WARNUNG: {buch_key}/{kap_id} hat status=\"{status}\" aber kein datei-Feld!')
-        if not has_datei:
+
+        # Generiere lesen/{slug}/index.html wenn IRGENDEINE Datei existiert
+        if not (has_datei or has_entwurfs_datei):
             continue
+
         # URL slug: '01' -> '1', 'I1' -> 'I1'
         if kap_id.startswith('I'):
             slug = kap_id
