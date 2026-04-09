@@ -245,11 +245,11 @@
         "text": "Garten, Nachmittag. Alphina, Sorel, Vesper, Maren — keiner versteht warum er hier ist. Aber die Pflanzen stehen still, zum ersten Mal seit Tagen. Das Pochen unter der Erde, einmal, laut. Vesper und Maren gehen denselben Weg zurück; Schultern berühren sich."
       },
       "18": {
-        "titel": "Vesper: Die Standuhr und Halvard",
+        "titel": "Vesper: Die stille Standuhr und Halvard",
         "pov": "Vesper",
         "status": "szenenplan",
         "woerter": null,
-        "text": "Vesper allein im Tidemoor-Haus — dritter Messdurchgang an der Standuhr. Sauber, präzise, und trotzdem 4:33 Verlust pro Tag. Das Holz des Gehäuses ist von innen warm. Sein Körper gibt einen Moment nach. Abends im Gasthaus mit Doktor Halvard: kauterisierte Kratzer bei einem Kind, Verbrennungen ohne Hitzequelle, Knochenbrüche ohne Sturz. Die Standuhr im Gasthaus: verliert auch 4:33. Vespers Notizbuch füllt sich mit Mustern. Kein Esther, kein Manuskript — das kommt erst in Kap 19 durch Maren."
+        "text": "Vesper allein im Tidemoor-Haus. Die Standuhr läuft rein, wie seit Mai, null Drift. Er misst sie trotzdem — aus Gewohnheit und weil Messen die Form ist, in der er denkt. Das Gehäuse von innen warm, eine Wärme, die er inzwischen kennt. Auf dem Reparaturtisch: die Tabelle der sechzehn anderen Vael-Uhren, die er seit Kap 11 weiterverfolgt. Die Driftwerte wachsen gleichmäßig, alle Ringe expandieren im selben Verhältnis. Er rechnet die Zuwachsraten heute zum ersten Mal hoch und findet eine Grundfrequenz — vier Minuten dreiunddreißig pro Tag, nicht als Befund einer einzelnen Uhr, sondern als Atem des ganzen Systems, das alle sechzehn gleichzeitig zieht. Er unterstreicht die Zahl nicht. Abends im Gasthaus mit Doktor Halvard: kauterisierte Kratzer bei einem Kind, Verbrennungen ohne Hitzequelle, Knochenbrüche ohne Sturz. Vespers Notizbuch füllt sich mit Mustern. Die Tidemoor-Uhr, die er früher für seine lauteste Quelle hielt, schweigt — weil er ihr im Mai den Takt gegeben hat. Das kommt ihm erst in Kap 32 zurück."
       },
       "I4": {
         "titel": "Varen: Die Schemen berichten",
@@ -284,7 +284,7 @@
         "pov": "Maren",
         "status": "szenenplan",
         "woerter": null,
-        "text": "Maren kommt nachts ins Tidemoor-Haus. Kein Vorwand. Sie hat den Seitentür-Schlüssel aus Kap 7 noch, warm in der Tasche. Vesper steht am Fenster und dreht sich um, als hätte er sie kommen hören. Was folgt ist kein Spektakel — Vorsicht, Erlaubnis, Präzision. Seine Hände an ihren Handgelenken, die wartenden Hände aus Kap 14. Ihr Fluchtinstinkt schlägt einmal an und wird nicht bedient. Erste Dom/Sub-Session, langsam, ehrlich. Danach: sie bleibt. Zum ersten Mal. Die Standuhr unten verliert heute nicht 4:33. Er weiß es, sagt es nicht. Im Morgengrauen küsst sie ihn auf die Stirn und geht. Die Grauwe draußen fließt wieder normal."
+        "text": "Maren kommt nachts ins Tidemoor-Haus. Kein Vorwand. Sie hat den Seitentür-Schlüssel aus Kap 7 noch, warm in der Tasche. Vesper steht am Fenster und dreht sich um, als hätte er sie kommen hören. Was folgt ist kein Spektakel — Vorsicht, Erlaubnis, Präzision. Seine Hände an ihren Handgelenken, die wartenden Hände aus Kap 14. Ihr Fluchtinstinkt schlägt einmal an und wird nicht bedient. Erste Dom/Sub-Session, langsam, ehrlich. Danach: sie bleibt. Zum ersten Mal. Die Tidemoor-Standuhr unten läuft rein wie seit Mai. Aber die kleine Messing-Tischuhr auf seinem Nachttisch — eine der sechzehn aus seiner Kartografie — hat in dieser Nacht zum ersten Mal null Drift. Der Takt, den Vesper der Tidemoor-Uhr gegeben hat, ist durch bloße Nähe und Marens Atem, der in seinen gefallen ist, in ein weiteres Werk gesprungen. Er weiß es, sagt es nicht. Im Morgengrauen küsst sie ihn auf die Stirn und geht. Die Grauwe draußen fließt wieder normal."
       },
       "I5": {
         "titel": "Die Feuer-Schemen, 1423",
@@ -371,18 +371,18 @@
         "text": "Drei Feuer-Schemen wüten in der Stadt. Die Vier kämpfen sich zum Steinkreis. Kaspar stirbt, Keldan stirbt. Elke öffnet das Portal und geht durch. Auf der Moragh-Seite trifft sie Varen — er kappt die Bindung der Schemen. In Vael lösen sie sich im Rauch auf. Lene überlebt allein."
       },
       "32": {
-        "titel": "Vesper: Die Erkenntnis",
+        "titel": "Vesper: Die Erkenntnis und der eigene Fehler",
         "pov": "Vesper",
         "status": "szenenplan",
         "woerter": null,
-        "text": "Nachts, Kerzen und Papier. Vesper legt Marens Gezeitendaten neben seine 4:33. Das Muster: die Uhr verliert im exakt selben Rhythmus wie die Gezeiten falsch laufen. Die Frequenz von etwas hinter dem Riss. Er rennt zur Werft. „Deine Gezeiten. Meine Uhr. Dasselbe Muster.“"
+        "text": "Nachts, Kerzen und Papier. Vesper legt Marens Gezeitendaten neben seine Drifttabelle der sechzehn Vael-Uhren und die Grundfrequenz, die er aus den Zuwachsraten hochgerechnet hat (Kap 18): vier Minuten dreiunddreißig pro Tag. Das Muster: die Grundfrequenz passt exakt in den Rhythmus, in dem die Grauwe rückwärts fließt. Plus Runas Flugblatt-Chronologie und Halvards Verletzungsprotokolle — die Schemen-Sichtungen folgen demselben Takt. Die Frequenz von etwas hinter dem Riss. Zweite Erkenntnis, härter: er hatte die eine Uhr, die den Takt am klarsten gezeigt hätte — die Tidemoor-Uhr —, im Mai mit der eigenen Hand zum Schweigen gebracht. Er hätte fünf Monate früher dort sein können, wo er jetzt erst ist. Er rennt zur Werft. „Deine Gezeiten. Meine Zahlen. Und ich habe mir die beste Uhr selbst kaputtgemacht.“ Maren versteht sofort."
       },
       "33": {
         "titel": "Alle vier: Die Nacht vor der Schwelle",
         "pov": "Alle",
         "status": "szenenplan",
         "woerter": null,
-        "text": "Letzte Nacht in Vael. Alphina bittet die Pflanzen still zu sein. Sorel belichtet eine letzte Platte. Vesper stellt die Standuhr auf Null. Maren am Boot: „Warte auf mich.“ Um 4:33 nach Mitternacht gehen sie nach unten."
+        "text": "Letzte Nacht in Vael. Alphina bittet die Pflanzen still zu sein. Sorel belichtet eine letzte Platte. Vesper öffnet die Tidemoor-Standuhr und nimmt das Räderwerk heraus — zum ersten Mal seit Mai kehrt das alte Vibrieren in 4:33 ins stille Gehäuse zurück, als hätte es nur darauf gewartet. Maren am Boot: „Warte auf mich.“ Um 4:33 nach Mitternacht gehen sie nach unten."
       },
       "34": {
         "titel": "Alphina: Letzte Blüte",

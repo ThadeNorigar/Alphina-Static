@@ -89,7 +89,7 @@ Halbinsel ins Graue Meer. Fluss **Grauwe** mündet hier — langsam, trüb, flie
 
 **Der Botanische Garten** — Elke van der Holt hat vor 400 Jahren den Klippenrand bearbeitet — Bildhauerin, ihr Werkstück war der Purpurstein. Wo sie den Fels öffnete, wuchsen Pflanzen aus dem Stein. Spätere Generationen nannten es "Garten." In der Mitte: ein **Steinkreis** aus Purpurstein, schon immer da, niemand weiß woher. Pflanzen wachsen um den Kreis herum, nie hinein. Die Grenze zu Moragh ist hier am dünnsten. Nachts bewegen sich Pflanzen. Das Portal öffnet sich hier — oberirdisch, per Ritual, braucht vier Resonanzen gleichzeitig. Einweg. Bleibt 4:33 offen.
 
-**Das Tidemoor-Haus** — Herrenhaus am Grauwe-Ufer. Standuhr die 4:33 pro Tag verliert. Mechanisch perfekt.
+**Das Tidemoor-Haus** — Herrenhaus am Grauwe-Ufer. Standuhr, die seit Generationen 4:33 pro Tag verloren hat, mechanisch perfekt, drei Uhrmacher vor Vesper ratlos. Ab Vespers zweitem Besuch (7. Mai, TZ 551) läuft sie permanent rein — er hat den Ankerhemmungs-Takt aus der eigenen Brust durchs Gehäuse in das Werk gelegt. Der 4:33-Takt selbst existiert unverändert weiter (in den sechzehn anderen Vael-Uhren, in den Gezeiten, in der Schemen-Chronologie), aber die Tidemoor-Uhr schweigt darüber. Keller des Hauses warm ohne Grund, Rillen im Holz am Kellerfenster (Moragh-Werkzeug), heißes Wasser aus kalten Rohren.
 
 **Die Werft Dahl** — Haron Dahl, tot (natürliche Ursachen). Moragh-Agent, von Varen vor ~2 Moragh-Monaten (~66 Thalassien-Jahre) durch das Portal geschickt. Kam als junger Mann, lebte ein ganzes Leben in Vael — unter falschem Namen, in der Werft die einst Lene Dahl gehörte. Baute Boote, schrieb Briefe an eine Frau mit Wasser-Resonanz die er nie traf, starb an Alter und an einer Schwerkraft für die sein Körper nicht gebaut war (Moragh: 0.7g, Thalassien: 1g). Hinterlassen an Maren: die Werft, das halbfertige Boot. Das Boot ist das Gegenstück zu Lenes Boot aus TZ 154. Haron wusste das. Maren nicht.
 
@@ -147,7 +147,7 @@ Maren findet in Moragh die Karte und die Anleitung für die Moragh-Seite des Por
 |-------|-------|---------------|
 | Alphina | Fachzeitschriften-Artikel über Asplenium am 51. Breitengrad, Vael | Agent hat den Artikel an die Thalassische Gesellschaft für Botanik gebracht. Der Farn existiert wirklich (wächst am Steinkreis). Der Artikel macht ihn zur Nachricht. |
 | Sorel | Sein Gesicht auf einer Glasplatte aus Vael, im Sammlernachlass | Agent hat die Platte mit Moragh-Lichtmagie hergestellt und im Nachlass platziert. Die Technik existiert — Sorels eigene Resonanz (Licht/Bilder) macht das Bild SCHÄRFER als es sein sollte, weil sein Sinn darauf reagiert. |
-| Vesper | Der reisende Uhrmacher im Gasthaus, der von der Standuhr in Vael erzählt | Agent. Kein Uhrmacher — marineblaue Augen, keine Hornhaut, keine Ölränder. Moragh-Mensch, der Thalassisch gelernt hat. Die Standuhr verliert wirklich 4:33 (Riss-Leck). Der Agent hat nur dafür gesorgt, dass VESPER davon erfährt. |
+| Vesper | Der reisende Uhrmacher im Gasthaus, der von der Standuhr in Vael erzählt | Agent. Kein Uhrmacher — marineblaue Augen, keine Hornhaut, keine Ölränder. Moragh-Mensch, der Thalassisch gelernt hat. Die Standuhr verliert wirklich 4:33, solange Vesper sie nicht berührt (Riss-Leck, Tidemoor-Uhr). Der Agent hat nur dafür gesorgt, dass VESPER davon erfährt. |
 | Maren | Haron Dahls Erbschaft — die Werft, das Boot | Haron IST der Agent. Moragh-Mann, vor ~66 Thalassien-Jahren durchgeschickt. Lebte ein ganzes Leben in Vael. Fand Maren über Briefe, baute die Werft, das Boot. Starb an Alter und Schwerkraft. |
 
 **Die Resonanzen sind echt.** Alphinas Pflanzen reagieren wirklich auf sie. Sorel sieht wirklich unmögliche Dinge auf Platten. Vesper sieht wirklich Muster. Marens Wasser antwortet wirklich. Aber was sie nach VAEL zieht, ist kein kosmisches Schicksal — es ist ein Mann mit einem Plan und mit der Zeit auf seiner Seite.
@@ -309,7 +309,7 @@ In Moragh: eine Naturgewalt. Alphina hebt die Hand und ein Wald wächst. In Minu
 |--------|----------|---------------|-----------|
 | Alphina | Pflanzen | Farne drehen sich, Erde wird warm | Wälder wachsen in Minuten |
 | Sorel | Bilder/Licht | Sein Gesicht auf einer Platte | Bilder erscheinen in der Luft, werden real |
-| Vesper | Muster/Zeit | Uhr verliert 4:33, Bauerndiagonale | Sieht die Struktur von allem, liest Zeit |
+| Vesper | Muster/Zeit | Uhren driften in Ringen um einen Mittelpunkt, Bauerndiagonale, Takt in der Brust | Sieht die Struktur von allem, liest Zeit |
 | Maren | Wasser | Gezeiten reagieren, Meer antwortet | Wasser gehorcht, formt sich, trägt |
 | Elke | Erde/Stein | Pochen im Boden, warme Erde | Stein formen, Hohlräume spüren, Beben fühlen |
 | Runa | Feuer/Hitze | Metall schmilzt leichter, Hände immer warm | Feuer kontrollieren, Metall formen, Schmelzen |
