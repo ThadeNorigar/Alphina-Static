@@ -1,5 +1,7 @@
 # B1-K14 — Maren
 
+*22. Mai 551 · 6 Wochen 5 Tage in Vael*
+
 *Der Anker — Hände die warten könnten*
 
 Die Schiffsuhr lag warm in ihrer Hosentasche, eine Kante aus Messing gegen den Schenkel, das die Hitze ihres eigenen Körpers nahm und zurückgab. Maren hatte sie heute morgen aus Harons Werkzeugschublade geholt, unter einem Bund Schnurkeile, unter einer Rolle Wachsgarn, unter all den kleinen Dingen die ein Schiffsbauer über die Jahre in Schubladen legte und vergaß. Sie hatte die Uhr einmal geschüttelt. Still. Sie hatte die Uhr ans Ohr gehalten. Still. Der Glasdeckel hatte einen feinen Riss, schräg von der Elf zur Sechs, so fein dass man ihn nicht sah, bevor man ihn suchte. Sie wusste nicht, ob die Uhr je gegangen war. Sie wusste nur, dass ein Boot, das auf seinen Böcken lag und auf Wasser wartete, eine funktionierende Schiffsuhr brauchte, weil das Abschätzen von Strömung und Zeit ohne sie Stückwerk war, und weil Stückwerk auf See ein Risiko war, das man nicht einging.
@@ -54,9 +56,9 @@ Einen halben Atemzug nachdem der Wirt weg war, kam die Sprache. Endlich, als Bes
 
 Er sprach. Über die Uhr, nicht zu ihr. "Das Unruhrad hat einen Spannungsriss. Fein, aber er läuft noch. Die Spirale ist verzogen, das ist vom Salz. Das kann ich machen." Er drehte das Werk einmal, leicht, und Maren sah, wie die winzigen Zahnräder sich in ihren Positionen hielten — keines rieb, keines schlug an. Sie verstand vom Holz, wenn es gegen sich selbst arbeitete; sie verstand vom Kiel, wenn eine Naht die Spannung nicht mehr hielt; sie verstand hier genug, um zu erkennen, dass ein Spannungsriss im Unruhrad dieselbe Sache war, nur kleiner, und dass Salz auf Metall tat, was Salz auf Holz tat: es aß von innen, ohne sich anzukündigen.
 
-Seine Stimme war gleichmäßig, tiefer als sie erwartet hatte, die Stimme eines Mannes, der Sätze fertig schrieb, bevor er sie aussprach. "Preis: vier Silber fünfzig für die Arbeit. Drei Tage, wenn ich das Ersatzteil aus meinem eigenen Bestand nehmen kann. Vier, wenn ich es bestellen muss."
+Seine Stimme war gleichmäßig, tiefer als sie erwartet hatte, die Stimme eines Mannes, der Sätze fertig schrieb, bevor er sie aussprach. "Preis: vier Silber fünfzig für die Arbeit. Eine Woche, wenn ich das Ersatzteil aus meinem eigenen Bestand nehmen kann. Zwei bis drei, wenn ich es bestellen muss."
 
-"Nehmen Sie aus Ihrem Bestand." Sie sprach ruhiger, als sie erwartet hatte. "Drei Tage passen."
+"Nehmen Sie aus Ihrem Bestand." Sie sprach ruhiger, als sie erwartet hatte. "Eine Woche passt."
 
 Er schob einen kleinen Messingkeil unter das Werk — eine Geste, die Fürsorge war, ohne das Wort. Maren schob das Wort *Fürsorge* aus ihrem Kopf, fest, wie man ein Brett in seine Halterung zurückdrückte. Sie griff nach dem Becher. Der Tee war zu heiß. Sie merkte es erst, als ihre Oberlippe sich meldete, und auch dann war die Hitze weit weg von dem, was eigentlich in ihr war.
 
@@ -70,7 +72,7 @@ Er schrieb. Zwei Zeilen in aufrechter, kleiner Handschrift in sein Notizbuch, da
 
 Er schrieb es oben auf den Zettel. Darunter ein Datum, eine Uhrzeit, eine kleine Nummer und am unteren Rand: *V. Greve.* Zwei Zeichen, ein Punkt, ein Nachname. Die Initiale eines Vornamens, der noch kein Wort war. Er schob den Zettel über die Tischkante, eine halbe Handbreit, gerade so weit, dass sie ihn nehmen konnte, ohne ihre Finger seinen Fingern näher zu bringen als nötig.
 
-"In drei Tagen", sagte er. "Wenn das Ersatzteil länger braucht, schicke ich dem Wirt Bescheid."
+"In einer Woche", sagte er. "Wenn das Ersatzteil länger braucht, schicke ich dem Wirt Bescheid."
 
 Seine Stimme war nicht warm und nicht kalt. Es war die Stimme eines Mannes, der wusste, was er gerade gesehen hatte, und der nichts damit machte. Das machte es schlimmer. Das machte es anders schlimm als alles, was Maren an Blicken kannte: kein Zugreifen, kein Anbieten, nur das Wissen selbst, das zwischen ihnen lag und das niemand aufhob.
 
@@ -78,7 +80,7 @@ Ihre Finger streiften seine nicht ganz, als sie den Zettel nahm. Sie nickte. "Da
 
 Sie ging. Sechs, sieben Schritte. Der Fuhrmann schaute nicht auf. Die Handwerker zählten wieder ihre Zahlen. Der Wirt nickte einmal, als sie vorbeiging — ein Nicken, das sie aufnahm und sich an sie erinnerte, ein Nicken, das sagte: *du kommst wieder.* Sie wusste in diesem Moment, dass er sie wiedererkennen würde, und sie wusste, dass er wusste, dass sie wiederkäme. Beides stand in dem halben Nicken ohne Worte.
 
-Die Messingklinke war warm von der Sonne, die durch das Fenster über der Tür fiel. Der Griff lag in ihrer Hand einen Moment zu lang, weil ihre Finger nicht sofort zumachten — erst die Bewegung nach unten, dann die Bewegung nach außen, dann der Schwung der Tür, der Sonne über Sonne übereinander legte. Die Hitze der Gasse schlug ihr ins Gesicht, trocken, sommerlich, eine Vaeler Mittagshitze, die sich zwischen den Purpursteinen staute und auf die Häutung des Tages wartete.
+Die Messingklinke war warm von der Sonne, die durch das Fenster über der Tür fiel. Der Griff lag in ihrer Hand einen Moment zu lang, weil ihre Finger nicht sofort zumachten — erst die Bewegung nach unten, dann die Bewegung nach außen, dann der Schwung der Tür, der Sonne über Sonne übereinander legte. Die Hitze der Gasse schlug ihr ins Gesicht, trocken, eine Vaeler Mittagshitze, die sich zwischen den Purpursteinen staute und auf die Häutung des Tages wartete.
 
 Maren blieb stehen, eine Hand an der Fassadenwand, die Handfläche flach gegen den Stein. Der Stein war warm, wärmer als die Sonne erklärte, und das kannte sie schon — das war Vael, das war der Boden unter dieser Stadt, das war immer so. Heute war es kein Trost und keine Fremde; es war die einzige feste Fläche in einer Welt, in der gerade etwas verrutscht war. Sie zählte ihren Atem. Eins. Zwei. Drei. Es half nicht. Es half gar nichts. Ihr Körper wusste jetzt etwas über einen Mann, den ihr Kopf seit elf Minuten kannte, und ihr Kopf hatte keine Sprache für das, was ihr Körper wusste. Die beiden standen nebeneinander in ihr und fanden keine Worte füreinander.
 
@@ -106,7 +108,7 @@ Der kleine Splitter lag zwischen ihren Fingern, hell, ein Faserzweig, der sich a
 
 Maren hielt das Stechbeitel still, hielt die Planke still, hielt die eigene Hand still, und zählte mit den Augen zurück durch dreißig Jahre. Diese Hand hatte in dreißig Jahren zweimal Holz gesplittert, und beide Male hatte sie einen Grund gehabt — Fieber, Erschöpfung. Einmal auf Solha, nach einer Nacht ohne Schlaf, als ein krankes Kind in der Kajüte nebenan gehustet hatte und sie nicht hatte aufhören können zuzuhören. Einmal in Thessa, im Winter, als sie drei Tage nicht gegessen hatte, weil das Geld für die Fähre weggegangen war und sie gewartet hatte, ob noch was kam. Das waren die Male. Heute war sie ausgeruht. Heute hatte sie gegessen. Heute hatte sie geschlafen wie jede Nacht der letzten sechs Wochen, stetig, ohne Träume, die sie auf den Rücken drückten. Heute hatte ihre Hand keinen Grund, außer dem einen, der kein Grund für eine Hand sein sollte, der nichts mit Holz zu tun hatte, der nicht einmal einen Namen hatte.
 
-Und dann stellte sich, still und unverbunden, eine neue Wahrheit in ihrem Kopf auf: sie war eine Frau, die bei einem fremden Mann in einem Schankraum sein wollte, obwohl er ihr nichts angeboten hatte, obwohl sie sich das nie gewünscht hatte, obwohl sie dreißig Jahre damit verbracht hatte, ihren Körper über schlechte Nächte zu tragen und ihren Körper über gute Morgen wegzutragen und ihren Körper niemals irgendwo zu lassen, wo ein anderer ihn hätte halten können. Sie gab dem Satz keinen Raum. Sie stellte ihn auf, wie man einen Nagel setzt, den man später einschlagen würde, vielleicht, wenn es soweit war, wenn etwas darauf hing, das ihn brauchte. Ein Nagel, der stand. Ein Nagel, der noch nicht eingetrieben war.
+Und dann stellte sich, still und unverbunden, eine neue Wahrheit in ihrem Kopf auf: sie war eine Frau, die bei einem fremden Mann in einem Schankraum sein wollte, obwohl er ihr nichts angeboten hatte, obwohl sie sich das nie gewünscht hatte, obwohl sie dreißig Jahre damit verbracht hatte, ihren Körper durch schlechte Nächte zu tragen, aus guten Morgen wegzutragen, ihn nirgendwo abzulegen, wo ein anderer ihn hätte halten können. Sie gab dem Satz keinen Raum. Sie stellte ihn auf, wie man einen Nagel setzt, den man später einschlagen würde, vielleicht, wenn es soweit war, wenn etwas darauf hing, das ihn brauchte. Ein Nagel, der stand. Ein Nagel, der noch nicht eingetrieben war.
 
 Sie arbeitete weiter, langsamer. Drücken, kippen, abnehmen. Die Planke wurde sauber. Der Splitter blieb auf der Werkbank liegen, neben dem Zettel unter dem Hammer, zwei Dinge, die an einem normalen Tag nicht dort gelegen hätten.
 
@@ -114,7 +116,7 @@ Edric kam gegen drei zurück. Er rief ein Wort über die halbe Werft, sie rief e
 
 Am späten Nachmittag, als das Licht im Hafen flacher geworden war, trat sie an den offenen Seerand neben der Werft. Die Grauwe mündete hier, brackig, olivgrün, zwei Ströme, die sich nicht entscheiden konnten, wer gewann. Möwen über dem Wasser, nicht viele; der Wind hatte sich gelegt, und die Segel draußen hingen schlaff, graue Wimpel zwischen grauem Wasser und grauem Himmel. Der Geruch war Salz und Teer und etwas, was verfaultes Tangzeug sein mochte, die Stadt nahm den Hafen in sich auf, wie der Hafen die Stadt.
 
-Maren schaute hin, nach nichts Bestimmtem. In drei Tagen musste sie die Uhr holen. In drei Tagen würde sie die Messingklinke des *Anker* wieder drücken, durch denselben Schankraum gehen, und dieser Mann würde aufblicken. Sie wusste es jetzt — nicht als Aussicht, nicht als Vorfreude. Als Tatsache. So, wie sie wusste, wann ein Boot im Wasser lag: dass ihr Körper in drei Tagen nicht weniger wollen würde. Eher mehr. Das Warten würde nichts reduzieren. Das Warten würde das Einzige sein, was sie in dreißig Jahren nicht gelernt hatte.
+Maren schaute hin, nach nichts Bestimmtem. In einer Woche musste sie die Uhr holen. In einer Woche würde sie die Messingklinke des *Anker* wieder drücken, durch denselben Schankraum gehen, und dieser Mann würde aufblicken. Sie wusste es jetzt — nicht als Aussicht, nicht als Vorfreude. Als Tatsache. So, wie sie wusste, wann ein Boot im Wasser lag: dass ihr Körper in einer Woche nicht weniger wollen würde. Eher mehr. Das Warten würde nichts reduzieren. Das Warten würde das Einzige sein, was sie in dreißig Jahren nicht gelernt hatte.
 
 Sie drehte sich um und ging zurück zum Boot. Harons Geruch empfing sie wie jeden Abend, Eichenholz und Pech und die Wärme, die der Schuppen über den Tag aufgenommen hatte und jetzt langsam zurückgab. Sie legte die Hand auf die nächste unfertige Planke, die dritte von oben, und fühlte das Holz unter ihrer Handfläche — stetig, satt, warm von der eigenen Sonne des Nachmittags. Eine Planke, die morgen ihren Platz finden würde, mit ihren Händen, mit ihrem Hobel, mit ihrer Aufmerksamkeit, die bis dahin hoffentlich wieder dort war, wo die Arbeit sie brauchte.
 
