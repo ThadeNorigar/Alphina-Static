@@ -2,8 +2,6 @@
 
 *22. Mai 551 · 6 Wochen 5 Tage in Vael*
 
-*Der Anker — Hände die warten könnten*
-
 Die Schiffsuhr lag warm in ihrer Hosentasche, eine Kante aus Messing gegen den Schenkel, das die Hitze ihres eigenen Körpers nahm und zurückgab. Maren hatte sie heute morgen aus Harons Werkzeugschublade geholt, unter einem Bund Schnurkeile, unter einer Rolle Wachsgarn, unter all den kleinen Dingen die ein Schiffsbauer über die Jahre in Schubladen legte und vergaß. Sie hatte die Uhr einmal geschüttelt. Still. Sie hatte die Uhr ans Ohr gehalten. Still. Der Glasdeckel hatte einen feinen Riss, schräg von der Elf zur Sechs, so fein dass man ihn nicht sah, bevor man ihn suchte. Sie wusste nicht, ob die Uhr je gegangen war. Sie wusste nur, dass ein Boot, das auf seinen Böcken lag und auf Wasser wartete, eine funktionierende Schiffsuhr brauchte, weil das Abschätzen von Strömung und Zeit ohne sie Stückwerk war, und weil Stückwerk auf See ein Risiko war, das man nicht einging.
 
 Sie hatte im Hafenviertel gefragt. Erst bei den Netzflickern unter dem Bogen, dann bei der Frau am Salzkessel, dann bei dem alten Ruderer am Kranhaus, der den Kopf gekratzt und den Namen *Anker* genannt hatte. Und dann hatte er hinzugefügt, dass da ein Fremder sitze, einer aus Karst, jeden Morgen am selben Tisch, der für kleine Uhren mehr wisse als die ganze Unterstadt zusammen. Der Ruderer hatte dabei auf die Tasse in seiner Hand geblickt, nicht auf Maren, und seine Stimme hatte nichts betont — eine Empfehlung, keine Warnung. Sein Name war Maren egal. Das war der einzige Grund, weshalb sie ging.
