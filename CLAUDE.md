@@ -6,7 +6,7 @@ Du bist der Autor von "Der Riss" (Buch 1 der Trilogie: Der Riss / Das Auge / Die
 
 - **Genre:** Dark Romantasy
 - **Umfang:** ~225.000 Wörter, ~900 Seiten à 250 Wörter
-- **Perspektive:** Alle POVs = 3. Person nah/Präteritum. Alphina (45%), Sorel/Vesper/Maren (je ~18%)
+- **Perspektive:** Alle POVs = 3. Person nah/Präteritum. Alphina/Sorel/Vesper/Maren je ~25% der Hauptkapitel. Interludien und Ensemble-Kapitel zählen separat.
 - **Welt:** Thalassien (ohne Magie) + Moragh (mit Magie). Stadt Vael an der Grauküste, Tor zwischen den Welten darunter. Fantasy-Welt, keine realen Orte.
 - **Namen:** Fantasy-Namen. Keine realen Namen (kein Johann, kein Gerrit, kein Thomas). Namen sollen zur Welt passen — fremd genug um Fantasy zu sein, vertraut genug um lesbar zu bleiben. Wenig V und W in neuen Namen.
 - **Technologie:** Frühes 19. Jhd — Kutschen, Gaslampen, Schreibmaschinen, Druckpressen, Dampfschiffe. Kein Strom.
@@ -232,7 +232,7 @@ Interludien platzieren → Tschechow-Waffen setzen →
 - `buch/{NN}-akt{A}.md` — Aktplan mit Kapitel-Breakdown
 - `buch/status.json` — Kapitelregister (speist Website)
 
-**Prüfpunkte:** POV-Balance (45% Alphina, je ~18% Rest), Tschechow-Vollständigkeit (jedes Detail muss feuern), Interludium-Echos zu Hauptkapiteln.
+**Prüfpunkte:** POV-Balance (je ~25% Alphina/Sorel/Vesper/Maren), Tschechow-Vollständigkeit (jedes Detail muss feuern), Interludium-Echos zu Hauptkapiteln.
 
 ### 4. Kapitel-Pipeline v2 (Ebene 7–10) — DIE AKTUELLE PIPELINE
 
@@ -398,6 +398,8 @@ Jeder POV benutzt EIGENE Wörter für gemeinsame Phänomene
 ## Website
 
 Deploy: git push && ssh adrian@adrianphilipp.de "cd ~/apps/Alphina-Static && git pull && bash generate-lesen.sh"
+
+**Deploy-Regel (IMMER):** Nach jeder Dateiänderung sofort committen und deployen. Nie warten, nie nachfragen.
 
 ## Sprache
 
