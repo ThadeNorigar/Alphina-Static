@@ -18,7 +18,7 @@ Drei Stände, keine vier. Einer verkaufte Räucherfisch in flachen Holzkisten, e
 
 "Tag." Die Frau zog eine Hand aus dem Ärmel und legte sie auf den Rand ihres Standes. "Was darf's sein?"
 
-"Ich suche keine Kräuter. Ich suche jemanden, der mir sagen kann, wo in Vael große Farne wachsen. Hirschzungenfarne, mannshoch. Es gibt ein Gewächs, das ich auf einem Bild gesehen habe und das ich gerne am Ort anschauen würde."
+"Ich suche keine Kräuter. Ich suche jemanden, der mir sagen kann, wo in Vael große Farne wachsen. Mannshoch, dunkelgrün, die Wedel länglich und ganzrandig, nicht gefiedert. Ich habe sie auf einem Bild gesehen und würde sie gerne am Ort anschauen."
 
 Sie legte den Kopf ein wenig schief. Die Falten an ihrem Mundwinkel vertieften sich zu einem halben Lächeln, das mehr Nachsicht war als Spott. "Mannshohe Farne. Nicht in der Stadt, mein Herr. Nicht am Hafen. Wenn überhaupt, dann oben, hinter den Speichern, im Botanischen Garten. Da haben sie alles, was in Vael nicht von allein wachsen will."
 
@@ -60,4 +60,4 @@ Er fotografierte die Stelle nicht.
 
 Auf dem Rückweg in den Keller, die Dienstgasse hinab und durch die Oberstadt zurück zur Hafengasse, trug er drei Dinge im Kopf, von denen er wusste, dass er sie bis zum Einbruch der Nacht behalten musste: den Feigenbaum im Süden. Die zeitbasierte Routine des alten Mannes am Tor. Das Bild der Frau in seinem Keller, die er hier herauf gezogen hatte und die ihn wieder hinab zog.
 
-Das vierte Ding, dass er über die Mauer eines fremden Gartens klettern würde wie ein Einbrecher, hatte sein Kopf noch nicht sortiert. Sein Körper hatte es bereits verabredet.
+Das vierte — dass er über die Mauer eines fremden Gartens klettern würde wie ein Einbrecher — hatte sein Kopf noch nicht sortiert. Sein Körper hatte es bereits verabredet.
