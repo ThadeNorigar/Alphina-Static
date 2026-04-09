@@ -114,13 +114,17 @@ Sie glaubt ihm und glaubt ihm nicht, beides gleichzeitig, und lässt es stehen. 
 
 Sie gehen zur Bank am Ende des Hauptweges. Beide kennen die Bank — sie von den Arbeitswochen im Garten, er vermutlich von der Nacht davor. Keine Frage danach. Auf der Bank gibt es zwei abgewetzte Stellen, eine links, eine rechts, als hätte jemand geplant, dass hier immer zwei sitzen.
 
-Alphina deutet an — ohne Namen, ohne Einzelheiten — dass jemand anderes dieselben Anomalien gemessen hat, auf einem anderen Weg. Zahlen, keine Mystik. Sie testet, ob er weiß, wovon sie spricht. Er tut so als ob nicht.
+Alphina deutet an — ohne Namen, ohne Einzelheiten — dass jemand anderes dieselben Anomalien gemessen hat, auf einem anderen Weg. Zahlen, keine Mystik. Sie stellt es fest statt zu fragen — das ist ihr Muster, das ist, wie sie Türen öffnet. Sie testet, ob er weiß, wovon sie spricht.
+
+Er wartet. Steigt nicht ein. Gibt ihr keinen Zug zurück, auf den sie antworten könnte.
+
+Das ist das Neue: ihr Muster greift nicht. Sie hat festgestellt, er hat nichts getan damit — kein Widerspruch, kein Einlenken, kein Gesprächszug der zurückkommt. Nichts um das sie ihre Hand legen könnte. Ihr Körper registriert es vor ihrem Kopf: ein kurzes, unbenennbares Stocken irgendwo am Handgelenk. Sie benennt es nicht.
 
 Dann sieht sie die Augen.
 
-Drei Silhouetten auf der Mauer am Ende des Hauptweges. Katzengross, sitzend, leuchtende Augen. Rauchende Ränder an den Schultern. Alphina hat Schemen gesehen, in Kap 5 und 9 — aber nicht drei, und nicht so still. Die Stille ist das Schlimmste: kein Angriff, keine Bewegung, nur beobachten. Die Wurzel dieses Gefühls ist: *etwas wartet.*
+Drei Silhouetten auf der Mauer am Ende des Hauptweges. Katzengross, sitzend, leuchtende Augen. Rauchende Ränder an den Schultern. Alphina hat Schemen gesehen, in Kap 5 und 9 — aber nicht drei, und nicht so still. Die Stille ist das Schlimmste: kein Angriff, keine Bewegung, nur beobachten. An der Nordmauer zieht der Geißblattduft herüber — schwer, fast klebrig, fremd an dieser Stelle des Weges. Die Wurzel dieses Gefühls ist: *etwas wartet.*
 
---- [POV-Kippen hier, kein Sternchen, kein Leerzeichen — Alphinas letztes Wort ist "Wurzel", Sorels erster Satz beginnt mit "Kontrast" oder dem Korn auf der Platte] ---
+--- [POV-Kippen hier, kein Sternchen, kein Leerzeichen — Scharnier: Geißblatt-Duft. Alphinas letzter Satz endet damit, dass sie ihn registriert, während sie auf die Schemen schaut (Botaniker-Sinn, kein Erschrecken). Sorels erster Satz beginnt mit demselben Geruch, aber in seiner Sprache: schwer, zu lange im Entwicklerbad, ein Tonwert der sich nicht fixieren lässt. Register-Wechsel über denselben Sinneseindruck, kein Sternchen, keine Leerzeile.] ---
 
 ### Sorel-Hälfte
 
