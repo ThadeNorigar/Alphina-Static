@@ -12,7 +12,7 @@ Hände und Fingerspitzen (Kribbeln, Wärme, Erde unter Nägeln). Herz unter dem 
 
 Max ~40 Wörter, bricht unter Druck zu Fragmenten. Kein *sie dachte / sie fragte sich*. Erlebte Rede ist Standard. Imperativ-Gestik in Dialog (kurz, kein Erklären). Lieblingsworte: *warm*, *lebendig*, *tiefer als*, *langsam*. Sagt nie ihre Emotionen — Körper zeigt sie. Keine Pulszählung (Leitmotiv: greifen/fühlen/halten, keine Zahlen für innere Zustände).
 
-## Wissensstand-Anker (Stand nach Kap 09)
+## Wissensstand-Anker (Stand nach Kap 12)
 
 **Vor Vael gewusst:** Botanikerin mit 11 Jahren in Velde, 49 Pflanzen. Pflanzen reagieren auf sie — weiß es seit Jahren, hat es nie aufgeschrieben. Kommt aus Velde (Tidelände, Kanäle, Deiche).
 
@@ -25,9 +25,25 @@ Max ~40 Wörter, bricht unter Druck zu Fragmenten. Kein *sie dachte / sie fragte
 - Pflanzen wurzeln nicht in den Steinkreis; der Kreis ist abgegrenzt, bewusst angelegt
 - Henrik weiß von keiner Magie; er bemerkt Anomalien ohne sie zu benennen
 - Runa Kvist: Bekanntschaft seit Wochen, Du-Basis, Druckereibetreiberin, Freundschaft wächst
-- Sorel: Begegnung noch offen (Kap 9 endet mit Schritte hinter ihr nach Steinkreis-Erlebnis)
+
+**In Kap 11 dazugelernt:**
+- Vesper Greve: Uhrmacher aus Karst, wohnt im Anker zwei Türen weiter, hat eigene Resonanz in Mechanik (Tidemoor-Uhr läuft in seiner Nähe)
+- Vespers Uhren-Netz hat seinen Mittelpunkt genau unter dem Steinkreis im Botanischen Garten
+- Zwei Modi: Geben (sie, Pflanzen) und Empfangen (er, Mechanik) — dasselbe Prinzip in zwei Sprachen
+- Alphina ist nicht die einzige
+
+**In Kap 12 dazugelernt:**
+- Sorel: aus Nachtholm, Fotograf, wohnt im Lichthaus-Keller. Über die Südmauer in den Garten eingebrochen. Verbrannter linker Handrücken (sie hat nicht nach der Ursache gefragt)
+- Der Steinkreis-Puls ist abends schneller als am Vormittag, näher an ihrem eigenen Atemrhythmus. Messung ist beobachterabhängig
+- Ihre Resonanz wirkt auch an menschlichem Gewebe: die Wundschicht unter Sorels Verband hat sich gestrafft, eine Wärme von innen. Sie weiß nicht, ob sie auch verletzen kann
+- Drei katzengroße Schemen mit rauchenden Schultern sitzen auf der Mauer am Hauptweg-Ende. Sie greifen nicht an. Sie beobachten
 - Varen: noch nicht begegnet, noch kein Name
 - Vermutet: Vael liegt auf etwas. Das Tor ist unter der Stadt. Weiß es nicht — spürt es.
+
+**Alphina weiß NICHT:**
+- Dass Sorel sie an der Sehne ihres linken Handgelenks erkannt hat
+- Dass eine Platte 14 in seinem Keller hängt, die sie abbildet
+- Dass er den Rauch der drei Schemen aus eigener Verletzungserfahrung kennt
 
 ## Aktive Tschechow-Waffen
 
@@ -36,12 +52,29 @@ Max ~40 Wörter, bricht unter Druck zu Fragmenten. Kein *sie dachte / sie fragte
 - **Sorels Platten zeigen Alphina überall** (Kap 13, 16) — seine unbewusste Licht-Resonanz, nicht reale Gestalten. Sie ahnt nichts; er versteckt es bis K21.
 - **Farne durch Kellerwände** (Kap 21) — geladen, feuert in Moragh: Wälder wachsen in Minuten
 - **Graukorn vom Markt** (Kap 1) — sie hat es zurückgelegt; wächst nur in Purpurstein-Spalten
-- **Sorels Messung-Satz aus K12** — "Wenn die Messung sich mit dem Beobachter ändert, dann war es keine Messung." Alphina hat ihn im Garten als Uhrmacher-Ton gelesen — denselben Satz hatte Vesper am Vorabend im Flur des Anker in anderen Worten ausgesprochen. Sie hat das stehen lassen und für später notiert. **Offener Echo-Punkt**: Sollte in einem späteren Alphina-Kapitel (K15 oder später) aufscheinen, wenn sie beide Männer nebeneinander denkt — Muster-Denker, beide. Sorel weiß nichts von Vesper, Vesper nichts von Sorel; Alphina ist der Knotenpunkt.
-- **Heilung an Sorels Verband** (Kap 12 → Echo K13) — Sorels Brandwunde ist seit dem Abend auf der Bank besser. Alphina hat ihn berührt, der Wundrand hat sich gestrafft. Sie hat es körperlich registriert, aber nicht benannt. Er hat "Seit vorgestern" gesagt, ohne die Ursache auszusprechen. **Feuert**: in Akt III, wenn sie bewusst heilt und beide die Verbindung ziehen.
+- **Der Stein-Impuls beschleunigt sich körpernah** (K12) — am Vormittag langsamer als ein Menschenherz, am Abend näher an ihrem eigenen Atemrhythmus. Zwei Rhythmen, die einander entgegenwachsen. Sie weiß nicht, ob der Stein sich ihr angleicht oder sie sich dem Stein. **Feuert** in Akt III, wenn die Drift ihren Körper vollständig erfasst.
+- **Heilung an Sorels Verband** (Kap 12 → Echo K13) — Sorels Brandwunde ist seit dem Abend auf der Bank besser. Alphina hat ihn ohne Vorwarnung berührt, die Wundschicht hat sich gestrafft, eine Wärme kam von innen. Sie hat es körperlich registriert, nicht benannt. Erste Anwendung ihrer Resonanz an menschlichem Gewebe — sie weiß nicht, ob sie auch verletzen kann. **Feuert**: in Akt III, wenn sie bewusst heilt und beide die Verbindung ziehen. Zwischenecho K13+, wenn Sorel die Wunde zum ersten Mal bewusst wahrnimmt und weiß, dass sie es war.
+- **Die drei Schemen auf der Mauer** (K12) — katzengroß, rauchende Schultern, beobachten still. Alphina hat sie gesehen, aber nicht verstanden, was der Rauch bedeutet. Sorel hat den Rauch aus eigener Kap-10-Erfahrung erkannt. **Feuert** in K14/K15, wenn die nächste Welle beginnt.
+
+## Zorn-Farbpalette (Tschechow, feuert in Moragh)
+
+In Thalassien wächst Alphinas Magie immer **grün** — Chlorophyll, Photosynthese, lebendiges Gewebe. Das ist ihre Ruhe-Farbe, ihre disziplinierte Farbe, die Farbe von Henriks Garten und den Farnen im Lichthaus-Keller.
+
+In Moragh, unter Sorels Tod, kippt die Farbe: **pechschwarze Wurzeln, Stängel in tiefem Purpur, Blüten in Blutrot mit schwarzen Kanten.** Keine grünen Blätter, keine weißen Blüten, kein Chlorophyll — Anthocyane und Melanin statt. **Anti-Flora:** Pflanzen wie Wunden, die ohne Licht wachsen. Physiologisch erklärt: Moragh hat keine Sonne (Akkretionsscheibe, zwei Monde), ihr Körper passt sich der Lichtquelle an. Erzählerisch: sie ist in der fremden Welt schneller heimisch geworden, als sie begreift, und das ist der Horror.
+
+**Wo die Farbe feuert:**
+- **Buch 1 Sorel-Tod:** voll schwarz/rot. Blutrote und schwarze Blüten auf Sorels Körper — die bleiben, wenn alles andere stirbt.
+- **Buch 2 Bund-Training:** schwankt zwischen grün (diszipliniert) und schwarz/rot (wenn Wut durchbricht). Bund-Meister nennen es "Verunreinigung". Sie versteht nicht warum.
+- **Buch 2 Quellen-Zerstörung (2/3-Mark):** voll schwarz/rot. Die Bund-Meister wissen, sie haben etwas losgelassen.
+- **Buch 2 Endakt Sex mit Varen:** schwarze Wurzeln unter dem Bett.
+- **Buch 3:** offen — die Farbe wird ihr Gradmesser für die Beziehung zu Varen, zur Schuld, zur Riss-Quelle.
+
+**Regel für alle POV-Szenen in Moragh:** Alphinas Pflanzen werden nie als "grün" beschrieben, solange sie emotional aufgewühlt ist. Die Beschreibung bleibt in schwarz, purpur, rot — über Farbwörter oder implizit (tief wie Wein, fast violett im Stängel, Blüten dunkel wie geronnenes Blut). Grün kommt NUR wenn sie ruhig ist.
 
 ## Beziehungs-Dynamik
 
-- **Sorel:** Emotionaler Kern. Noch nicht voll etabliert (Kap 9 — erste echte Begegnung steht an). Sie dominiert, er hat Grenzen. Bruch ist ausgeschlossen.
+- **Sorel:** Erstbegegnung in Kap 12, Botanischer Garten bei Nacht. Namen und Herkunft getauscht. Sie hat ihn ohne Vorwarnung an der verbundenen Hand berührt und dabei erstmals Magie an einem Menschen erprobt. Sie dominiert, er hat Grenzen — und entzieht sich, wenn sie in ihr Behauptungsmuster fällt ("ihr Muster griff bei diesem Mann nicht"). Bruch ist ausgeschlossen. Emotionaler Kern des Buchs.
+- **Vesper:** Erstbegegnung in Kap 11 (sie klopft an seine Tür). Du ist noch nicht da. Gemeinsame Messung am Steinkreis am Morgen des 15. Mai. Rationale Partnerschaft, "zwei Modi"-Theorie. Sie respektiert seine Präzision.
 - **Runa:** Freundschaft, Du-Basis seit Wochen. Runa kommt mit Flugblättern und Anliegen. Wärme, Direktheit.
-- **Henrik:** Stille Arbeitspartnerschaft im Garten. Er bemerkt Anomalien, fragt nicht. Vertrauen durch Praxis.
-- **Vesper / Maren:** Noch nicht begegnet (Stand Kap 9).
+- **Henrik:** Stille Arbeitspartnerschaft im Garten. Er bemerkt Anomalien, fragt nicht. Vertrauen durch Praxis. Sie hat seinen Garten-Schlüssel seit drei Wochen.
+- **Maren:** Noch nicht begegnet (Stand Kap 12).
