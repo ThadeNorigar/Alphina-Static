@@ -76,20 +76,38 @@
     .ev-tags { display: flex; gap: 0.25rem; margin-top: 0.3rem; flex-wrap: wrap; }
     .tag { font-family: 'Inter', sans-serif; font-size: 0.48rem; padding: 0.08rem 0.35rem; border-radius: 2px; text-transform: uppercase; }
     .pov { font-family: 'Inter', sans-serif; font-size: 0.48rem; padding: 0.06rem 0.25rem; border-radius: 2px; background: rgba(107,58,58,0.05); color: var(--smoke); margin-left: 0.25rem; }
-    /* Kapitel-Gruppe */
-    .kap-group { margin-bottom: 1.2rem; padding-bottom: 0.8rem; border-bottom: 1px solid rgba(107,58,58,0.08); }
-    .kap-group:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
-    .kap-header { display: flex; align-items: baseline; gap: 0.5rem; margin-bottom: 0.4rem; padding-bottom: 0.3rem; border-bottom: 1px dotted rgba(107,58,58,0.1); }
-    .kap-id { font-family: 'JetBrains Mono', monospace; font-size: 0.65rem; font-weight: 700; color: var(--accent); letter-spacing: 0.05em; }
-    .kap-pov { font-family: 'Cormorant Garamond', serif; font-size: 0.82rem; font-weight: 600; color: var(--ink); }
-    .kap-status { font-family: 'Inter', sans-serif; font-size: 0.45rem; padding: 0.06rem 0.3rem; border-radius: 2px; text-transform: uppercase; letter-spacing: 0.08em; }
-    .kap-status.final { background: rgba(90,122,90,0.12); color: #5a7a5a; }
-    .kap-status.szenenplan { background: rgba(107,98,89,0.08); color: var(--smoke); }
-    .kap-status.lektorat { background: rgba(184,134,11,0.1); color: var(--thal); }
-    .kap-datum { font-family: 'JetBrains Mono', monospace; font-size: 0.55rem; color: var(--smoke); }
-    .kap-events { padding-left: 0.8rem; border-left: 2px solid rgba(107,58,58,0.06); margin-left: 0.2rem; }
-    .kap-events .ev { margin-bottom: 0.5rem; padding-bottom: 0.5rem; }
-    .kap-events .ev::before { display: none; }
+    /* Kapitel-Sektion */
+    .kap-section {
+      background: rgba(255,255,255,0.5); border: 1px solid rgba(107,58,58,0.1);
+      border-radius: 3px; margin-bottom: 1rem; overflow: hidden;
+    }
+    .kap-section:last-child { margin-bottom: 0; }
+    .kap-header {
+      display: flex; align-items: center; gap: 0.6rem; padding: 0.6rem 0.8rem;
+      background: rgba(107,58,58,0.05); border-bottom: 1px solid rgba(107,58,58,0.08);
+      cursor: pointer; user-select: none;
+    }
+    .kap-header:hover { background: rgba(107,58,58,0.08); }
+    .kap-id {
+      font-family: 'JetBrains Mono', monospace; font-size: 0.7rem; font-weight: 700;
+      color: var(--paper); background: var(--accent); padding: 0.15rem 0.4rem;
+      border-radius: 2px; letter-spacing: 0.05em; min-width: 3.5rem; text-align: center;
+    }
+    .kap-pov { font-family: 'Cormorant Garamond', serif; font-size: 0.95rem; font-weight: 600; color: var(--ink); flex: 1; }
+    .kap-status {
+      font-family: 'Inter', sans-serif; font-size: 0.5rem; padding: 0.1rem 0.4rem;
+      border-radius: 2px; text-transform: uppercase; letter-spacing: 0.08em; font-weight: 600;
+    }
+    .kap-status.final { background: rgba(90,122,90,0.15); color: #4a6a4a; }
+    .kap-status.szenenplan { background: rgba(107,98,89,0.1); color: var(--smoke); }
+    .kap-status.lektorat { background: rgba(184,134,11,0.12); color: #8b6914; }
+    .kap-status.idee { background: rgba(107,98,89,0.06); color: var(--smoke); }
+    .kap-datum { font-family: 'JetBrains Mono', monospace; font-size: 0.6rem; color: var(--smoke); }
+    .kap-body { padding: 0.5rem 0.8rem 0.6rem; }
+    .kap-body .ev { margin-bottom: 0.5rem; padding-bottom: 0.5rem; border-bottom: 1px solid rgba(107,58,58,0.04); }
+    .kap-body .ev:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+    .kap-body .ev::before { display: none; }
+    .kap-empty { padding: 0.3rem 0.5rem; font-style: italic; color: var(--smoke); opacity: 0.3; font-size: 0.7rem; }
 
     .book-marker { background: rgba(107,58,58,0.04); border: 1px solid rgba(107,58,58,0.08); border-radius: 3px; padding: 0.4rem 0.5rem; margin-bottom: 1rem; }
     .thal .book-marker { border-color: rgba(184,134,11,0.12); background: rgba(184,134,11,0.04); }
@@ -247,14 +265,14 @@
 
       let eventsHtml = group.events.map(e => renderEvent(e, side)).join('');
 
-      return `<div class="kap-group">
+      return `<div class="kap-section">
         <div class="kap-header">
           <span class="kap-id">${buchLabel} ${kapLabel}</span>
           <span class="kap-pov">${escHtml(group.pov)}</span>
           ${statusText ? `<span class="kap-status ${statusClass}">${statusText}</span>` : ''}
           ${group.datum ? `<span class="kap-datum">${escHtml(group.datum)}</span>` : ''}
         </div>
-        <div class="kap-events">${eventsHtml}</div>
+        <div class="kap-body">${eventsHtml}</div>
       </div>`;
     }
 
@@ -276,95 +294,86 @@
         </div>
       `;
 
-      let currentBuch = '';
+      // 1. Flatten all events from all monate, tag with world
+      const allEvents = [];
       data.monate.forEach(monat => {
-        const ev = monat.events;
-
-        // Book section header (full width) when book changes
-        if (monat.buch && monat.buch !== currentBuch) {
-          currentBuch = monat.buch;
-          tl.innerHTML += `
-            <div class="buch-section">
-              <div class="buch-section-title">${escHtml(monat.buch)}</div>
-              <div class="buch-section-time">${escHtml(monat.tz || '')} &middot; ${escHtml(monat.mz || '')}</div>
-            </div>
-          `;
+        for (const ev of (monat.events.thalassien || [])) {
+          allEvents.push({...ev, _world: 'thal', _buch: ev.buch || monat.buch || ''});
         }
+        for (const ev of (monat.events.moragh || [])) {
+          allEvents.push({...ev, _world: 'moragh', _buch: ev.buch || monat.buch || ''});
+        }
+      });
 
-        // Month marker
+      // 2. Group by buch, then by kapitel
+      const buchOrder = [];
+      const buchMap = new Map();
+      for (const ev of allEvents) {
+        const b = ev._buch || 'Sonstiges';
+        if (!buchMap.has(b)) { buchMap.set(b, []); buchOrder.push(b); }
+        buchMap.get(b).push(ev);
+      }
+
+      // 3. Render: Buch → Kapitel-Zeilen (Thal links, Moragh rechts)
+      buchOrder.forEach(buchName => {
+        const events = buchMap.get(buchName);
+
+        // Buch section header
         tl.innerHTML += `
-          <div class="month-marker">
-            <div class="mm-tz">${escHtml(monat.tz)}</div>
-            <div class="mm-label">${escHtml(monat.label)}</div>
-            <div class="mm-mz">${escHtml(monat.mz)}</div>
+          <div class="buch-section">
+            <div class="buch-section-title">${escHtml(buchName)}</div>
           </div>
         `;
 
-        // Pre-sync bridge
-        if (ev.sync && !monat.label.includes('Buch 1')) {
+        // Group by kapitel, preserve order
+        const kapOrder = [];
+        const kapMap = new Map();
+        for (const ev of events) {
+          const k = ev.kapitel || '_ungrouped';
+          if (!kapMap.has(k)) { kapMap.set(k, { thal: [], moragh: [] }); kapOrder.push(k); }
+          kapMap.get(k)[ev._world].push(ev);
+        }
+
+        // Render each kapitel as a row spanning both columns
+        kapOrder.forEach(kapId => {
+          const kap = kapMap.get(kapId);
+          const thalGroup = kap.thal.length > 0 ? buildGroup(kap.thal, kapId) : null;
+          const moraghGroup = kap.moragh.length > 0 ? buildGroup(kap.moragh, kapId) : null;
+
+          const leftHtml = thalGroup
+            ? renderKapitelGroup(thalGroup, 'thal')
+            : '<div class="kap-empty">&mdash;</div>';
+          const rightHtml = moraghGroup
+            ? renderKapitelGroup(moraghGroup, 'moragh')
+            : '<div class="kap-empty">&mdash;</div>';
+
           tl.innerHTML += `
-            <div class="sync-bridge-row">
-              <div class="sync-left">${escHtml(ev.sync.tz)}</div>
-              <div class="sync-center">&larr; ${escHtml(ev.sync.label)} &rarr;</div>
-              <div class="sync-right">${escHtml(ev.sync.mz)}</div>
-            </div>
+            <div class="col-body thal">${leftHtml}</div>
+            <div class="col-body moragh">${rightHtml}</div>
           `;
-        }
-
-        const thalEvents = ev.thalassien || [];
-        const moraghEvents = ev.moragh || [];
-
-        // Thalassien column — grouped by Kapitel
-        if (thalEvents.length === 0) {
-          tl.innerHTML += `<div class="empty-col thal">&mdash;</div>`;
-        } else {
-          let bookMarker = '';
-          if (monat.buch) {
-            bookMarker = `<div class="book-marker">
-              <div class="ev-time"><span class="tz">${escHtml(monat.buch)}</span></div>
-            </div>`;
-          }
-          const { groups, ungrouped } = groupByKapitel(thalEvents);
-          const groupedHtml = groups.map(g => renderKapitelGroup(g, 'thal')).join('');
-          const ungroupedHtml = ungrouped.map(e => renderEvent(e, 'thal')).join('');
-          tl.innerHTML += `<div class="col-body thal"><div class="tl-line">
-            ${bookMarker}
-            ${groupedHtml}
-            ${ungroupedHtml}
-          </div></div>`;
-        }
-
-        // Moragh column — grouped by Kapitel
-        if (moraghEvents.length === 0) {
-          tl.innerHTML += `<div class="empty-col moragh">&mdash;</div>`;
-        } else {
-          let bookMarker = '';
-          if (monat.buch && (monat.buch.includes('Buch 2') || monat.buch.includes('Buch 3'))) {
-            bookMarker = `<div class="book-marker">
-              <div class="ev-time"><span class="mz">${escHtml(monat.buch)}</span></div>
-            </div>`;
-          }
-          const { groups, ungrouped } = groupByKapitel(moraghEvents);
-          const groupedHtml = groups.map(g => renderKapitelGroup(g, 'moragh')).join('');
-          const ungroupedHtml = ungrouped.map(e => renderEvent(e, 'moragh')).join('');
-          tl.innerHTML += `<div class="col-body moragh"><div class="tl-line">
-            ${bookMarker}
-            ${groupedHtml}
-            ${ungroupedHtml}
-          </div></div>`;
-        }
-
-        // Post-sync bridge (for Buch 1 portal crossing)
-        if (ev.sync && monat.label.includes('Buch 1')) {
-          tl.innerHTML += `
-            <div class="sync-bridge-row">
-              <div class="sync-left">${escHtml(ev.sync.tz)}</div>
-              <div class="sync-center">&larr; ${escHtml(ev.sync.label)} &rarr;</div>
-              <div class="sync-right">${escHtml(ev.sync.mz)}</div>
-            </div>
-          `;
-        }
+        });
       });
+    }
+
+    function buildGroup(events, kapId) {
+      const first = events[0] || {};
+      const pov = (() => {
+        for (const e of events) {
+          if (e.pov) {
+            const m = e.pov.match(/[·\-]\s*(.+)/);
+            return m ? m[1].trim() : e.pov;
+          }
+        }
+        return '';
+      })();
+      return {
+        kapitel: kapId,
+        buch: first.buch || first._buch || '',
+        pov,
+        status: first.kapitel_status || '',
+        datum: events.find(e => e.datum_text)?.datum_text || '',
+        events
+      };
     }
 
     function applyFilters() {
