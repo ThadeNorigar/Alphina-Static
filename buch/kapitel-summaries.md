@@ -136,7 +136,7 @@
 ---
 
 ## K14 — Maren
-**POV:** Maren | **Ort:** Vael (Werft Dahl, Brücke, Gasthof Anker, Hafen) | **Timeline:** 22. Mai 551, 8 Wochen 4 Tage in Vael
+**POV:** Maren | **Ort:** Vael (Werft Dahl, Brücke, Gasthof Anker, Hafen) | **Timeline:** 19. Mai 551, 8 Wochen 1 Tag in Vael
 **Was passiert:** Maren bringt Harons defekte Schiffsuhr (Spannungsriss im Unruhrad, Salzschaden) zum Uhrmacher Vesper Greve im Gasthof Anker. Die körperliche Reaktion ist sofort und überwältigend — Puls unterhalb des Nabels, warme Handgelenke, weiche Knie. Vesper öffnet die Uhr mit einer Präzision, die Maren als verwandt erkennt: Handwerk in anderem Material. Er nennt Preis und Frist, sachlich. Sein Blick bleibt zwei Herzschläge zu lang auf ihr. Beide sehen durch das Fenster die rückwärts fließende Grauwe — keiner spricht darüber. Zurück auf der Werft splittert Maren zum dritten Mal in dreißig Jahren eine Planke. Sie setzt den Gedanken wie einen Nagel: sie will bei diesem Mann sein, obwohl er nichts angeboten hat.
 **Was wird etabliert:** Maren + Vesper erstmals begegnet; Marens körperliches Begehren als Dominanzsaat — sie will sich senken, beugen, nachgeben; Vespers Hände als zentrales Bild ("Hände die warten könnten"); beide registrieren die Grauwe-Anomalie ohne zu sprechen; der Wirt als stiller Zeuge und Verknüpfungspunkt.
 **Tschechow-Beats geladen:** Schiffsuhr (Riss von Elf zur Sechs, wird in einer Woche abgeholt — Wiedersehen-Timer); Holzsplitter auf der Werkbank neben dem Zettel; Wirts-Klopfen (zwei Knöchel aufs Holz); Vespers Initiale "V." auf dem Abholzettel; Nagel-Metapher (gesetzt, nicht eingetrieben).

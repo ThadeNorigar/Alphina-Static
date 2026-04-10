@@ -1772,8 +1772,8 @@
             ],
             "titel": "Maren im Anker — Haende die warten koennten",
             "pov": "Kap 14 · Maren",
-            "tz_tag": 142,
-            "datum_text": "22. Blütenmond 551 TZ",
+            "tz_tag": 139,
+            "datum_text": "19. Blütenmond 551 TZ",
             "figuren": [
               "Maren",
               "Vesper"
@@ -1800,8 +1800,8 @@
             "buch": "B1",
             "kapitel_status": "szenenplan",
             "detail": "Schemen haeufiger, aggressiver. Runa sammelt Sichtungen. Alphina sieht Sorel am Steg.",
-            "tz_tag": 148,
-            "datum_text": "28. Blütenmond 551 TZ",
+            "tz_tag": 140,
+            "datum_text": "20. Blütenmond 551 TZ",
             "tags": [
               "Schemen-Eskalation",
               "Setup Alphina+Sorel"
