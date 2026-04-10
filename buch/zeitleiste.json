@@ -345,102 +345,107 @@
       "label": "MZ Monat -12",
       "tz": "TZ 154",
       "mz": "MZ -1,0",
-      "buch": "Interludien",
-      "events": {
-        "thalassien": [
+      “events”: {
+        “thalassien”: [
           {
-            "tz": 154,
-            "mz": -1,
-            "titel": "Elke kommt nach Vael — wegen des Purpursteins",
-            "detail": "Bildhauerin aus dem Süden. Berührt den Stein — er ist warm. Ein Gestein das es nirgendwo sonst gibt. Sie „hört“ seine Maserung.",
-            "pov": "I1 · Elke",
-            "typen": [
-              "begegnung"
+            “tz”: 154,
+            “mz”: -1,
+            “kapitel”: “I1”,
+            “titel”: “Elke kommt nach Vael — wegen des Purpursteins”,
+            “detail”: “Bildhauerin aus dem Süden. Berührt den Stein — er ist warm. Ein Gestein das es nirgendwo sonst gibt. Sie „hört” seine Maserung.”,
+            “pov”: “I1 · Elke”,
+            “kapitel_status”: “final”,
+            “typen”: [
+              “begegnung”
             ],
-            "tags": [
-              "Erste Begegnung: Vael"
+            “tags”: [
+              “Erste Begegnung: Vael”
             ]
           },
           {
-            "tz": 154,
-            "mz": -1,
-            "titel": "Elke bearbeitet den Klippenrand — der Botanische Garten entsteht",
-            "detail": "Wo sie den Fels öffnet, wachsen Pflanzen aus dem Stein. Spätere Generationen nennen es „Garten.“ Der Steinkreis war schon da.",
-            "pov": "Elke",
-            "typen": [
-              "schlüssel",
-              "tschechow"
+            “tz”: 154,
+            “mz”: -1,
+            “kapitel”: “I1”,
+            “titel”: “Elke bearbeitet den Klippenrand — der Botanische Garten entsteht”,
+            “detail”: “Wo sie den Fels öffnet, wachsen Pflanzen aus dem Stein. Spätere Generationen nennen es „Garten.” Der Steinkreis war schon da.”,
+            “pov”: “I1 · Elke”,
+            “kapitel_status”: “final”,
+            “typen”: [
+              “schlüssel”,
+              “tschechow”
             ],
-            "tags": [
-              "Schlüsselereignis",
-              "Tschechow: Botanischer Garten"
+            “tags”: [
+              “Schlüsselereignis”,
+              “Tschechow: Botanischer Garten”
             ]
           },
           {
-            "tz": 154,
-            "mz": -1,
-            "titel": "Keldan trifft Elke — sein Barren summt",
-            "pov": "I2 · Keldan",
-            "typen": [
-              "begegnung"
+            “tz”: 154,
+            “mz”: -1,
+            “kapitel”: “I2”,
+            “titel”: “Keldan trifft Elke — sein Barren summt”,
+            “pov”: “I2 · Keldan”,
+            “kapitel_status”: “final”,
+            “typen”: [
+              “begegnung”
             ],
-            "tags": [
-              "Erste Begegnung: Keldan + Elke"
+            “tags”: [
+              “Erste Begegnung: Keldan + Elke”
             ]
           },
           {
-            "tz": 154,
-            "mz": -1,
-            "titel": "Lene findet den Steinkreis nachts — er pulsiert",
-            "pov": "I3 · Lene",
-            "typen": [
-              "erkenntnis"
+            “tz”: 154,
+            “mz”: -1,
+            “titel”: “Lene findet den Steinkreis nachts — er pulsiert”,
+            “pov”: “Lene”,
+            “typen”: [
+              “erkenntnis”
             ],
-            "tags": [
-              "Erkenntnis: Steinkreis lebt"
+            “tags”: [
+              “Erkenntnis: Steinkreis lebt”
             ]
           },
           {
-            "tz": 154,
-            "mz": -1,
-            "titel": "Kaspars Bild zeigt Hohlraeume und Gestalt mit schwarzen Augen",
-            "detail": "Er kratzt die Stelle ab. Am Morgen ist sie wieder da, dunkler.",
-            "pov": "I4 · Kaspar",
-            "typen": [
-              "tschechow"
+            “tz”: 154,
+            “mz”: -1,
+            “titel”: “Kaspars Bild zeigt Hohlraeume und Gestalt mit schwarzen Augen”,
+            “detail”: “Er kratzt die Stelle ab. Am Morgen ist sie wieder da, dunkler.”,
+            “pov”: “Kaspar”,
+            “typen”: [
+              “tschechow”
             ],
-            "tags": [
-              "Tschechow: Schemen in Kunst"
+            “tags”: [
+              “Tschechow: Schemen in Kunst”
             ]
           },
           {
-            "tz": 154,
-            "mz": -1,
-            "titel": "Elke und Kaspar: Nacht vor dem Kampf",
-            "detail": "Nicht Liebe — weil morgen der Tod kommen könnte. Schemen beobachten vor den Fenstern.",
-            "pov": "I5 · Elke",
-            "typen": [
-              "erotik"
+            “tz”: 154,
+            “mz”: -1,
+            “titel”: “Elke und Kaspar: Nacht vor dem Kampf”,
+            “detail”: “Nicht Liebe — weil morgen der Tod kommen könnte. Schemen beobachten vor den Fenstern.”,
+            “pov”: “Elke”,
+            “typen”: [
+              “erotik”
             ],
-            "tags": [
-              "Erotik: Explizit"
+            “tags”: [
+              “Erotik: Explizit”
             ]
           },
           {
-            "tz": 154,
-            "mz": -1,
-            "titel": "Das Große Feuer — Kaspar und Keldan sterben, Elke geht durch",
-            "detail": "Varen schickt 3 Feuer-Schemen. Kaspar + Keldan fallen. Elke → Moragh. Lene überlebt allein, schreibt das Manuskript.",
-            "pov": "I6/I7",
-            "typen": [
-              "portal",
-              "tod",
-              "schlüssel"
+            “tz”: 154,
+            “mz”: -1,
+            “titel”: “Das Große Feuer — Kaspar und Keldan sterben, Elke geht durch”,
+            “detail”: “Varen schickt 3 Feuer-Schemen. Kaspar + Keldan fallen. Elke → Moragh. Lene überlebt allein, schreibt das Manuskript.”,
+            “pov”: “Elke”,
+            “typen”: [
+              “portal”,
+              “tod”,
+              “schlüssel”
             ],
-            "tags": [
-              "Portal: Elke → Moragh",
-              "Tod: Kaspar, Keldan",
-              "Schlüsselereignis"
+            “tags”: [
+              “Portal: Elke → Moragh”,
+              “Tod: Kaspar, Keldan”,
+              “Schlüsselereignis”
             ]
           }
         ],
@@ -2090,58 +2095,6 @@
             ],
             "buch": "B1",
             "kapitel_status": "szenenplan"
-          },
-          {
-            "tz": 551,
-            "mz": 0,
-            "kapitel": "I1",
-            "typen": [
-              "hintergrund"
-            ],
-            "titel": "Elke",
-            "pov": "Kap I1 - Elke",
-            "buch": "B1",
-            "kapitel_status": "final",
-            "detail": "Nebelmond 154. Elke kommt nach Vael. Bildhauerin aus dem Sueden."
-          },
-          {
-            "tz": 551,
-            "mz": 0,
-            "kapitel": "I2",
-            "typen": [
-              "hintergrund"
-            ],
-            "titel": "Elke",
-            "pov": "Kap I2 - Elke",
-            "buch": "B1",
-            "kapitel_status": "final",
-            "detail": "Frostmond 154. Keldan trifft Elke. Sechs Wochen in Vael."
-          },
-          {
-            "tz": 551,
-            "mz": 0,
-            "kapitel": "I5",
-            "typen": [
-              "hintergrund"
-            ],
-            "titel": "Manuskript",
-            "pov": "Kap I5 - Manuskript",
-            "buch": "B1",
-            "kapitel_status": "szenenplan",
-            "detail": "Das gefaelschte Manuskript. Varens Koeder fuer die Vier."
-          },
-          {
-            "tz": 551,
-            "mz": 0,
-            "kapitel": "I8",
-            "typen": [
-              "hintergrund"
-            ],
-            "titel": "Lene/Elke",
-            "pov": "Kap I8 - Lene/Elke",
-            "buch": "B1",
-            "kapitel_status": "szenenplan",
-            "detail": "Lene schreibt auf was passiert ist. Elke geht durch das Portal."
           }
         ],
         "moragh": [
@@ -2279,38 +2232,6 @@
             "buch": "B1",
             "kapitel_status": "szenenplan",
             "detail": "Varen beobachtet die Vier durch die Schemen. Erste Einschaetzung."
-          },
-          {
-            "tz": 551,
-            "mz": 0,
-            "kapitel": "I4",
-            "typen": [
-              "hintergrund"
-            ],
-            "titel": "AUDIT: Redundant zu I3 → zusammenlegen",
-            "pov": "Kap I4 - Varen",
-            "buch": "B1",
-            "kapitel_status": "szenenplan",
-            "detail": "Varen beobachtet weiter. Kein neuer Info-Gewinn. Empfehlung: in I3.",
-            "tags": [
-              "Audit: in I3"
-            ]
-          },
-          {
-            "tz": 551,
-            "mz": 0,
-            "kapitel": "I6",
-            "typen": [
-              "hintergrund"
-            ],
-            "titel": "AUDIT: Atmosphaere ohne Plot → streichen",
-            "pov": "Kap I6 - Varen",
-            "buch": "B1",
-            "kapitel_status": "szenenplan",
-            "detail": "Intimszene Elke+Kaspar. Beide verschwinden in I7. Empfehlung: Absatz in I7.",
-            "tags": [
-              "Audit: streichen"
-            ]
           },
           {
             "tz": 551,

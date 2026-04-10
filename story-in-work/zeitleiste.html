@@ -242,49 +242,10 @@
       </div>`;
     }
 
-    function groupByKapitel(events) {
-      const groups = [];
-      const ungrouped = [];
-      const kapMap = new Map();
-      for (const ev of events) {
-        const kap = ev.kapitel;
-        if (!kap) { ungrouped.push(ev); continue; }
-        if (!kapMap.has(kap)) {
-          const g = { kapitel: kap, buch: ev.buch || '', pov: '', status: ev.kapitel_status || '', datum: ev.datum_text || '', events: [] };
-          kapMap.set(kap, g);
-          groups.push(g);
-        }
-        const g = kapMap.get(kap);
-        g.events.push(ev);
-        if (!g.pov && ev.pov) {
-          // Extract POV name from "Kap 14 · Maren" or "Kap 36 - Alphina"
-          const m = ev.pov.match(/[·\-]\s*(.+)/);
-          g.pov = m ? m[1].trim() : ev.pov;
-        }
-        if (!g.datum && ev.datum_text) g.datum = ev.datum_text;
-        if (!g.status && ev.kapitel_status) g.status = ev.kapitel_status;
-        if (!g.buch && ev.buch) g.buch = ev.buch;
-      }
-      return { groups, ungrouped };
-    }
-
-    function renderKapitelGroup(group, side) {
-      const kapLabel = group.kapitel.startsWith('Kanon') ? group.kapitel : group.kapitel.startsWith('I') ? group.kapitel : 'K' + group.kapitel;
-      const buchLabel = group.buch || '';
-      const statusClass = group.status || 'szenenplan';
-      const statusText = group.status === 'final' ? 'final' : group.status === 'lektorat' ? 'lektorat' : group.status || '';
-
-      let eventsHtml = group.events.map(e => renderEvent(e, side)).join('');
-
-      return `<div class="kap-section">
-        <div class="kap-header">
-          <span class="kap-id">${buchLabel} ${kapLabel}</span>
-          <span class="kap-pov">${escHtml(group.pov)}</span>
-          ${statusText ? `<span class="kap-status ${statusClass}">${statusText}</span>` : ''}
-          ${group.datum ? `<span class="kap-datum">${escHtml(group.datum)}</span>` : ''}
-        </div>
-        <div class="kap-body">${eventsHtml}</div>
-      </div>`;
+    function extractPov(ev) {
+      if (!ev.pov) return '';
+      const m = ev.pov.match(/[·\-]\s*(.+)/);
+      return m ? m[1].trim() : ev.pov;
     }
 
     function renderTimeline(data) {
@@ -305,136 +266,121 @@
         </div>
       `;
 
-      // 1. Flatten all events from all monate, tag with world
-      const buchNorm = {'B1':'Buch 1: Der Riss','B2':'Buch 2: Das Auge','B3':'Buch 3: Die Quelle'};
-      // Interludien bleiben in ihrer eigenen Zeitsektion
-      const buchMap2 = {};
-      const allEvents = [];
+      let currentBuch = '';
+      let lastDate = '';
+
+      // Chronologisch durch alle Monate iterieren
       data.monate.forEach(monat => {
-        const mb = buchMap2[monat.buch] || monat.buch || '';
-        for (const ev of (monat.events.thalassien || [])) {
-          const b = buchNorm[ev.buch] || ev.buch || mb || 'Vorgeschichte';
-          allEvents.push({...ev, _world: 'thal', _buch: b});
+        const thalEvents = monat.events.thalassien || [];
+        const moraghEvents = monat.events.moragh || [];
+        if (thalEvents.length === 0 && moraghEvents.length === 0) return;
+
+        // Buch-Marker wenn neues Buch beginnt
+        const buchName = monat.buch || '';
+        if (buchName && buchName !== currentBuch) {
+          currentBuch = buchName;
+          tl.innerHTML += `
+            <div class="buch-section">
+              <div class="buch-section-title">${escHtml(buchName)}</div>
+              <div class="buch-section-time">${escHtml(monat.tz || '')} · ${escHtml(monat.mz || '')}</div>
+            </div>
+          `;
         }
-        for (const ev of (monat.events.moragh || [])) {
-          const b = buchNorm[ev.buch] || ev.buch || mb || 'Vorgeschichte';
-          allEvents.push({...ev, _world: 'moragh', _buch: b});
-        }
-      });
 
-      // 2. Group by buch, then by kapitel
-      const buchOrder = [];
-      const buchMap = new Map();
-      for (const ev of allEvents) {
-        const b = ev._buch || 'Sonstiges';
-        if (!buchMap.has(b)) { buchMap.set(b, []); buchOrder.push(b); }
-        buchMap.get(b).push(ev);
-      }
-
-      // 3. Render: Buch → Kapitel-Zeilen (Thal links, Moragh rechts)
-      buchOrder.forEach(buchName => {
-        const events = buchMap.get(buchName);
-
-        // Buch section header
+        // Monats-Marker
         tl.innerHTML += `
-          <div class="buch-section">
-            <div class="buch-section-title">${escHtml(buchName)}</div>
+          <div class="month-marker">
+            <span class="mm-tz">${escHtml(monat.tz || '')}</span>
+            <span class="mm-label">${escHtml(monat.label)}</span>
+            <span class="mm-mz">${escHtml(monat.mz || '')}</span>
           </div>
         `;
 
-        // Group by kapitel, preserve chronological order
+        // Events nach Kapitel gruppieren (Reihenfolge beibehalten)
         const kapOrder = [];
         const kapMap = new Map();
-        for (const ev of events) {
-          let k = ev.kapitel;
-          if (!k) {
-            const b = ev._buch || '';
-            if (b.includes('Buch 1') || b.includes('Buch 2') || b.includes('Buch 3')) {
-              k = 'Hintergrund';
-            } else {
-              k = 'Kanon';
-            }
-          }
+        const KEY_NONE = '__none__';
+
+        for (const ev of thalEvents) {
+          const k = ev.kapitel || KEY_NONE;
           if (!kapMap.has(k)) { kapMap.set(k, { thal: [], moragh: [] }); kapOrder.push(k); }
-          kapMap.get(k)[ev._world].push(ev);
+          kapMap.get(k).thal.push(ev);
+        }
+        for (const ev of moraghEvents) {
+          const k = ev.kapitel || KEY_NONE;
+          if (!kapMap.has(k)) { kapMap.set(k, { thal: [], moragh: [] }); kapOrder.push(k); }
+          kapMap.get(k).moragh.push(ev);
         }
 
-        // Render each kapitel: date marker + full-width header + two columns
-        let lastDate = '';
+        // Jedes Kapitel rendern
         kapOrder.forEach(kapId => {
           const kap = kapMap.get(kapId);
           const allKapEvents = [...kap.thal, ...kap.moragh];
-          const info = buildGroup(allKapEvents, kapId);
-          const kapLabel = kapId.startsWith('Kanon') ? kapId : kapId.startsWith('I') ? kapId : 'K' + kapId;
-          const statusClass = info.status || 'szenenplan';
-          const statusText = info.status || '';
 
-          // Get MZ value from events
-          const mzVal = allKapEvents.find(e => e.mz !== undefined)?.mz;
-          const mzText = mzVal !== undefined ? 'MZ ' + mzVal : '';
+          if (kapId !== KEY_NONE) {
+            // Kapitel-Header bauen
+            const kapLabel = kapId.startsWith('I') ? kapId : 'K' + kapId;
+            const pov = (() => { for (const e of allKapEvents) { const p = extractPov(e); if (p) return p; } return ''; })();
+            const status = allKapEvents.find(e => e.kapitel_status)?.kapitel_status || '';
+            const datum = allKapEvents.find(e => e.datum_text)?.datum_text || '';
+            const mzVal = allKapEvents.find(e => e.mz !== undefined)?.mz;
+            const mzText = mzVal !== undefined ? 'MZ ' + mzVal : '';
 
-          // Build date from datum_text or from tz/mz values
-          if (!info.datum && allKapEvents.length > 0) {
-            const ev0 = allKapEvents[0];
-            if (ev0.tz !== undefined) info.datum = 'TZ ' + ev0.tz;
-            if (ev0.mz !== undefined) info.datum = (info.datum || '') + (info.datum ? '' : 'MZ ' + ev0.mz);
-          }
+            // Datum aus tz/mz ableiten wenn kein datum_text
+            let dateDisplay = datum;
+            if (!dateDisplay && allKapEvents[0]) {
+              const ev0 = allKapEvents[0];
+              if (ev0.tz !== undefined) dateDisplay = 'TZ ' + ev0.tz;
+            }
 
-          // Date marker if date changed
-          if (info.datum && info.datum !== lastDate) {
-            lastDate = info.datum;
+            // Datumszeile wenn sich das Datum geaendert hat
+            if (dateDisplay && dateDisplay !== lastDate) {
+              lastDate = dateDisplay;
+              tl.innerHTML += `
+                <div class="date-marker">
+                  <span class="date-marker-text tz">${escHtml(dateDisplay)}</span>
+                  ${mzText ? `<span class="date-marker-text mz">${escHtml(mzText)}</span>` : ''}
+                </div>
+              `;
+            }
+
+            // Kapitel-Header
             tl.innerHTML += `
-              <div class="date-marker">
-                <span class="date-marker-text tz">${escHtml(info.datum)}</span>
-                ${mzText ? `<span class="date-marker-text mz">${escHtml(mzText)}</span>` : ''}
+              <div class="kap-header">
+                <span class="kap-id">${kapLabel}</span>
+                <span class="kap-pov">${escHtml(pov)}</span>
+                ${status ? `<span class="kap-status ${status}">${status}</span>` : ''}
               </div>
             `;
           }
 
-          // Kapitel header (full width)
-          tl.innerHTML += `
-            <div class="kap-header">
-              <span class="kap-id">${kapLabel}</span>
-              <span class="kap-pov">${escHtml(info.pov)}</span>
-              ${statusText ? `<span class="kap-status ${statusClass}">${statusText}</span>` : ''}
-            </div>
-          `;
-
-          // Events in two columns
+          // Events in zwei Spalten
           const leftHtml = kap.thal.length > 0
             ? kap.thal.map(e => renderEvent(e, 'thal')).join('')
-            : '<div class="kap-empty">&mdash;</div>';
+            : (kapId !== KEY_NONE ? '<div class="kap-empty">&mdash;</div>' : '');
           const rightHtml = kap.moragh.length > 0
             ? kap.moragh.map(e => renderEvent(e, 'moragh')).join('')
-            : '<div class="kap-empty">&mdash;</div>';
+            : (kapId !== KEY_NONE ? '<div class="kap-empty">&mdash;</div>' : '');
 
-          tl.innerHTML += `
-            <div class="col-body thal"><div class="tl-line">${leftHtml}</div></div>
-            <div class="col-body moragh"><div class="tl-line">${rightHtml}</div></div>
-          `;
-        });
-      });
-    }
-
-    function buildGroup(events, kapId) {
-      const first = events[0] || {};
-      const pov = (() => {
-        for (const e of events) {
-          if (e.pov) {
-            const m = e.pov.match(/[·\-]\s*(.+)/);
-            return m ? m[1].trim() : e.pov;
+          if (leftHtml || rightHtml) {
+            tl.innerHTML += `
+              <div class="col-body thal"><div class="tl-line">${leftHtml}</div></div>
+              <div class="col-body moragh"><div class="tl-line">${rightHtml}</div></div>
+            `;
           }
+        });
+
+        // Sync-Bridge wenn vorhanden
+        if (monat.events.sync) {
+          tl.innerHTML += `
+            <div class="sync-bridge-row">
+              <span class="sync-left">${escHtml(monat.events.sync.tz || '')}</span>
+              <span class="sync-center">${escHtml(monat.events.sync.label || '')}</span>
+              <span class="sync-right">${escHtml(monat.events.sync.mz || '')}</span>
+            </div>
+          `;
         }
-        return '';
-      })();
-      return {
-        kapitel: kapId,
-        buch: first.buch || first._buch || '',
-        pov,
-        status: first.kapitel_status || '',
-        datum: events.find(e => e.datum_text)?.datum_text || '',
-        events
-      };
+      });
     }
 
     function applyFilters() {
