@@ -1968,18 +1968,17 @@
             "mz": 3635,
             "kapitel": "22",
             "typen": [
-              "erotik",
-              "schlüssel"
+              "hintergrund"
             ],
-            "titel": "Maren und Vesper: erste Nacht — Dom/Sub-Session, sie bleibt",
+            "titel": "Nachbrenner: fremde Pflanze in Vael, der Riss sickert unkontrolliert",
             "pov": "Kap 22 · Maren",
-            "tz_tag": 182,
-            "datum_text": "1. Glutmond 551 TZ",
-            "detail": "Maren geht nachts die Hintertreppe im Gasthaus Zum Anker hoch zu Vespers Zimmer, zweiter Stock. Was folgt ist kein Spektakel — Vorsicht, Erlaubnis, Praezision. Seine Haende an ihren Handgelenken, die wartenden Haende aus Kap 14. Ihr Fluchtinstinkt schlaegt einmal an und wird nicht bedient. Erste Dom/Sub-Session. Danach: sie bleibt. Zum ersten Mal. Die kleine Messing-Tischuhr auf seinem Nachttisch — eine der sechzehn aus Vespers Tabelle — hat in der Nacht zum ersten Mal null Drift. Der Takt, den er im Mai der Tidemoor-Standuhr gegeben hat, ist durch Marens Atem auf ein weiteres Werk uebergesprungen.",
+            "tz_tag": 180,
+            "datum_text": "29. Lichtmond 551 TZ",
+            "ort": "Gasthaus Zum Anker, Hafen",
+            "detail": "Tage nach dem Kampf. Maren findet eine Pflanze im Treppenhaus — flache Blaetter, falsche Jahreszeit, kein Thalassien-Gewaechs. Alphina erkennt sie nicht. Der Riss sickert unkontrolliert, ohne Varens Zutun. Hafenwasser waermer als es sein sollte.",
             "tags": [
-              "Erotik: Vesper + Maren Dom/Sub",
-              "Schluesselereignis: Maren bleibt",
-              "Tschechow: Haende die warten koennen (Kap 14 faellt ein)"
+              "Unkontrollierter Riss: Flora sickert durch",
+              "Setup: Eskalation"
             ],
             "buch": "B1",
             "kapitel_status": "szenenplan"
@@ -1992,14 +1991,15 @@
               "erkenntnis",
               "tschechow"
             ],
-            "titel": "Sorel allein — erste bewusste Projektion, Geheimnis bleibt",
+            "titel": "Sorel sieht Varen auf den Kampf-Platten",
             "pov": "Kap 23 · Sorel",
-            "tz_tag": 175,
-            "datum_text": "24. Lichtmond 551 TZ",
-            "figur": "Sorel",
-            "fakt": "sorel-bewusste-projektion",
-            "stufe": "versteht",
-            "detail": "Sorel weiß jetzt: er selbst formt das Licht auf den Platten. Versucht bewusst zu projizieren — Alphina zeigen, nicht zeigen. Beides misslingt halb. Er entscheidet, das Geheimnis zu behalten: dass die Projektionen Wochen zurückreichen. Das wird die Grenzverletzung in K25.",
+            "tz_tag": 185,
+            "datum_text": "4. Glutmond 551 TZ",
+            "detail": "Sorel entwickelt die Platten vom Kampf (K19). Hinter der Waechter-Aufnahme: eine zweite Figur, humanoid, beobachtend — Varen. Auf jeder Platte mit Alphina: der Schem, immer hinter ihr, nie hinter den anderen. Er bringt es Vesper. 'Varen lernt euch kennen.' Sorel versteht: er ist nicht der Jaeger, er ist die Kamera.",
+            "tags": [
+              "Erkenntnis: Varen beobachtet gezielt",
+              "Tschechow: Schemen folgen NUR Alphina"
+            ],
             "buch": "B1",
             "kapitel_status": "szenenplan"
           },
@@ -2011,13 +2011,15 @@
               "schlüssel",
               "tschechow"
             ],
-            "titel": "Archiv: Ritual-Papier mit Schemen-Fingerabdruecken",
+            "titel": "Archiv: Ritual-Papier, Moragh-Sprachbuch, Schemen-Fingerabdruecke",
             "pov": "Kap 24 · Alphina",
             "tz_tag": 191,
             "datum_text": "10. Glutmond 551 TZ",
-            "detail": "Jara findet Randnotizen (andere Handschrift) + Moragh-Sprachbuch. Ritual-Anweisungen, Steinkreis-Zeichnung. Varen hat es per Schem platziert.",
+            "ort": "Stadtarchiv",
+            "detail": "Alle vier im Archiv, zweiter Besuch. Jara Voss schiebt Vesper wortlos einen Folianten zu — Randnotizen in fremder Handschrift, ein Moragh-Sprachbuch, Ritual-Anweisungen mit Steinkreis-Zeichnung. Schemen-Fingerabdruecke auf dem Papier. Varen hat es platziert. Ab hier wissen sie: ein Ritual existiert.",
             "tags": [
-              "Schluesselereignis: Ritual-Anleitung gefunden"
+              "Schluesselereignis: Ritual-Anleitung gefunden",
+              "Setup: Moragh-Sprache lernen"
             ],
             "buch": "B1",
             "kapitel_status": "szenenplan"
@@ -2027,16 +2029,17 @@
             "mz": 3635,
             "kapitel": "25",
             "typen": [
-              "erkenntnis"
+              "schlüssel"
             ],
-            "titel": "Alphina findet Steg-Fotos — Grenzverletzung",
+            "titel": "Alphina findet die DAUER des Geheimnisses — Bruch A+S",
             "pov": "Kap 25 · Sorel",
             "tz_tag": 198,
             "datum_text": "17. Glutmond 551 TZ",
-            "detail": "Bruch Alphina+Sorel. Du hast mich genommen ohne zu fragen. Sorel schweigt. Sie geht.",
+            "detail": "Alphina kommt in die Dunkelkammer, will etwas holen. Findet die drei Steg-Platten aus den ersten Wochen — mit Datum auf der Rueckseite. Sie rechnet nach: er hat sie beobachtet bevor er ihren Namen kannte. Wochen vor dem Gartenabend. Das Nacktbild war nicht der Vertrauensbruch — die DAUER ist es. 'Du hast mich genommen ohne zu fragen.' Er schweigt. Sie geht.",
             "tags": [
-              "Tschechow feuert",
-              "Bruch A+S"
+              "Tschechow feuert: Steg-Platten K16",
+              "Bruch A+S",
+              "Akt-II-Ende"
             ],
             "buch": "B1",
             "kapitel_status": "szenenplan"
@@ -2046,16 +2049,16 @@
             "mz": 3635,
             "kapitel": "26",
             "typen": [
-              "tschechow",
-              "schlüssel"
+              "begegnung"
             ],
-            "titel": "AUDIT: Gleicher Bruch wie K25 → zusammenlegen",
+            "titel": "Alphina + Runa: Trost nach dem Bruch, Feuer-Resonanz keimt",
             "pov": "Kap 26 · Alphina",
-            "tz_tag": 205,
-            "datum_text": "24. Glutmond 551 TZ",
-            "detail": "Schem beruehrt Alphinas Wange (Varens Hand). Empfehlung: Schem-Beat in K25 integrieren.",
+            "tz_tag": 202,
+            "datum_text": "21. Glutmond 551 TZ",
+            "detail": "Alphina nach dem Bruch, wuetend, allein. Runa kommt mit Tee und Flugblaettern. Kein Sorel-Gespraech — zwei Frauen, Nacht, zu viel Tee. Runa erzaehlt von einem Feuer in ihrer Kindheit das sie nicht erklaeren konnte. Ihre Haende um die Tasse sind zu warm. Alphina spuert es, sagt nichts. Zum ersten Mal seit Wochen atmet sie.",
             "tags": [
-              "Audit: mit K25 zusammenlegen"
+              "Beziehung: Alphina + Runa",
+              "Tschechow: Runas Feuer-Resonanz keimt"
             ],
             "buch": "B1",
             "kapitel_status": "szenenplan"
@@ -2065,18 +2068,40 @@
             "mz": 3635,
             "kapitel": "27",
             "typen": [
-              "hintergrund"
+              "erotik",
+              "schlüssel"
             ],
-            "titel": "AUDIT: Dom/Sub-Vertiefung ohne Plot → streichen",
-            "pov": "Kap 27 - Vesper",
-            "buch": "B1",
-            "kapitel_status": "szenenplan",
-            "detail": "Einziger neuer Beat: Miniatur-Steinkreis im Keller. Empfehlung: Beat in K28, Kapitel streichen.",
+            "titel": "Vesper + Maren: erste Dom/Sub-Nacht im Archiv",
+            "pov": "Kap 27 · Maren",
             "tz_tag": 210,
             "datum_text": "29. Glutmond 551 TZ",
+            "ort": "Stadtarchiv, spaet nachts",
+            "detail": "Spaet, die anderen schlafen. Maren hilft Vesper bei Uebersetzungen aus dem Moragh-Sprachbuch. Er legt die Hand auf ihre Schulter um auf eine Zeile zu zeigen — dieselbe Geste wie K19, aber ohne Verband, ohne Ausrede. Er nimmt die Hand nicht weg. Sie bewegt sich nicht. Was folgt ist ruhig, praezise: er gibt ihr wenig Bewegungsspielraum und sie entdeckt dass das der Zustand ist in dem ihr Kopf aufhoert zu laufen. Danach schlaeft sie sofort ein. Erste Dom/Sub-Nacht.",
             "tags": [
-              "Audit: streichen"
-            ]
+              "Erotik: Vesper + Maren Dom/Sub",
+              "Schluesselereignis: Maren bleibt"
+            ],
+            "buch": "B1",
+            "kapitel_status": "szenenplan"
+          },
+          {
+            "tz": 551,
+            "mz": 3635,
+            "kapitel": "ZEITSPRUNG",
+            "typen": [
+              "hintergrund"
+            ],
+            "titel": "3 Monate: Sprache lernen, unkontrollierte Risse eskalieren",
+            "pov": "Kein eigenes Kapitel",
+            "tz_tag": 305,
+            "datum_text": "Glutmond bis Nebelmond 551 TZ",
+            "detail": "Die Gruppe lernt die Moragh-Sprache aus dem Sprachbuch. Vesper uebersetzt systematisch, die anderen ueben. Wenig Magie-Training — sie trauen sich nach K19 nicht. Unkontrollierte Risse werden haeufiger: Moragh-Flora waechst in Mauerritzen, Hafenwasser riecht nach fremdem Salz, Nebel dreimal die Woche, die Grauwe fliesst regelmaessig rueckwaerts. Alphina und Sorel: parallel, kuehl, professionell. Vesper und Maren: schweigend, praezise, ohne Benennung.",
+            "tags": [
+              "Zeitsprung: 3 Monate",
+              "Unkontrollierte Risse eskalieren"
+            ],
+            "buch": "B1",
+            "kapitel_status": "szenenplan"
           },
           {
             "tz": 551,
@@ -2085,11 +2110,11 @@
             "typen": [
               "schlüssel"
             ],
-            "titel": "Maren folgt dem Wasser zum Steinkreis",
+            "titel": "Maren folgt dem Wasser zum Steinkreis — der Riss weint",
             "pov": "Kap 28 · Maren",
-            "tz_tag": 217,
-            "datum_text": "5. Erntemond 551 TZ",
-            "detail": "Maren folgt dem rueckwaerts fliessenden Wasser vom Werft-Keller zum Steinkreis im Botanischen Garten (konkreter Zugang: TBD, keine Tunnel). Der Purpurstein schwitzt Salz — nicht Grauwe-Salz, anderes Meer. Hand auf den Stein: der Riss weint.",
+            "tz_tag": 305,
+            "datum_text": "1. Nebelmond 551 TZ",
+            "detail": "Drei Monate spaeter, frueher Nebelmond. Maren folgt dem rueckwaerts fliessenden Wasser nachts von der Werft zum Steinkreis im Botanischen Garten. Der Purpurstein schwitzt Salz — nicht Grauwe-Salz, ein anderes Meer. Ihre Hand auf dem Stein: der Riss weint. Sie spuert Moragh zum ersten Mal direkt.",
             "tags": [
               "Schluesselereignis: Maren findet den Riss"
             ],
@@ -2105,9 +2130,9 @@
             ],
             "titel": "Alphina findet Sorel am Riss — Versoehnung",
             "pov": "Kap 29 · Alphina",
-            "tz_tag": 222,
-            "datum_text": "10. Erntemond 551 TZ",
-            "detail": "'Du bist nicht hier weil du mich liebst.' Alphina gibt ihm Recht. Zum ersten Mal.",
+            "tz_tag": 310,
+            "datum_text": "6. Nebelmond 551 TZ",
+            "detail": "Alphina sucht Sorel seit Tagen. Findet ihn im Steinkreis — er fotografiert die Zeichen. 'Du bist nicht hier weil du mich liebst.' Sie gibt ihm Recht. Zum ersten Mal. Versoehnung die schmerzhafter ist als der Streit. Unter ihren Fuessen pulsiert der Purpurstein fuer zwei Resonanzen.",
             "tags": [
               "Beziehung: Alphina + Sorel — Versoehnung"
             ],
@@ -2121,16 +2146,17 @@
             "typen": [
               "hintergrund"
             ],
-            "titel": "AUDIT: Uhren stehen still → Beat in K32",
-            "pov": "Kap 30 - Vesper",
-            "buch": "B1",
-            "kapitel_status": "szenenplan",
-            "detail": "Alle Uhren stehen gleichzeitig. Wiederholt K28-Beats. Empfehlung: in K32 integrieren.",
-            "tz_tag": 232,
-            "datum_text": "20. Erntemond 551 TZ",
+            "titel": "Sorel: die Nacht nach der Versoehnung — letztes ruhiges Kapitel",
+            "pov": "Kap 30 · Sorel",
+            "tz_tag": 312,
+            "datum_text": "8. Nebelmond 551 TZ",
+            "detail": "Sie schlaeft. Er liegt wach. Betrachtet sie im Mondlicht — und seine Haende, die Platten die er vernichten will und nicht vernichtet. Das letzte ruhige Kapitel eines Mannes der ahnt, dass er nicht zurueckkommen wird.",
             "tags": [
-              "Audit: in K32"
-            ]
+              "Sorels letzter Ruhemoment",
+              "Tschechow: Platten bleiben"
+            ],
+            "buch": "B1",
+            "kapitel_status": "szenenplan"
           },
           {
             "tz": 551,
@@ -2140,11 +2166,11 @@
               "erkenntnis",
               "tschechow"
             ],
-            "titel": "Runas Haende gluehen — Feuer-Resonanz entdeckt",
+            "titel": "Schemen-Angriff am Tag — Runas Haende gluehen, Feuer-Resonanz entdeckt",
             "pov": "Kap 31 · Alphina",
-            "tz_tag": 237,
-            "datum_text": "25. Erntemond 551 TZ",
-            "detail": "Ein Schem toetet einen Haendler am Hafen. Andere Fraktion (Thar) am Hafen: Metall-Geruch. Runa bei Alphina — ihre Haende gluehen buchstaeblich, Brandfleck im Setzkasten.",
+            "tz_tag": 318,
+            "datum_text": "14. Nebelmond 551 TZ",
+            "detail": "Ein Schem toetet einen Haendler am Hafen — am helllichten Tag. Thar-Schemen, Metallgeruch, andere Fraktion als Varen. Runa steht neben Alphina. Ihre Haende gluehen buchstaeblich, Brandfleck auf dem Holz. 'Runa. Deine Haende.' Feuer-Resonanz entdeckt. Alphina weiss: nicht vier — fuenf.",
             "tags": [
               "Erkenntnis: Runa hat Feuer-Resonanz",
               "Tschechow: Thar-Schemen (andere Fraktion)"
@@ -2162,9 +2188,9 @@
             ],
             "titel": "Vesper: Grundfrequenz + Gezeiten = Varens Atem",
             "pov": "Kap 32 · Vesper",
-            "tz_tag": 244,
-            "datum_text": "1. Herbstmond 551 TZ",
-            "detail": "Vesper legt seine Drifttabelle der sechzehn Vael-Uhren neben Marens Gezeiten. Die Grundfrequenz, die er aus den wachsenden Driftwerten hochgerechnet hat (vier Minuten dreiunddreissig pro Tag, siehe Kap 18), passt exakt in den Rhythmus der rueckwaerts fliessenden Grauwe. Plus Runas Flugblatt-Chronologie und Halvards Verletzungsprotokolle: die Schemen-Sichtungen folgen demselben Takt. Jemand auf der anderen Seite atmet, die Schemen kommen mit jedem Ausatmen. 4:33 ist nicht die Frequenz des Risses, sondern die Frequenz von etwas DAHINTER.",
+            "tz_tag": 325,
+            "datum_text": "21. Nebelmond 551 TZ",
+            "detail": "Vesper allein, Kerzen und Papier. Legt seine Uhren-Drifttabelle neben Marens Gezeitendaten neben Runas Schemen-Chronologie. Die Grundfrequenz 4:33 passt exakt in den Rhythmus der rueckwaerts fliessenden Grauwe. Die Schemen kommen mit jedem Ausatmen. Jemand auf der anderen Seite ATMET. Er rennt zur Werft: 'Deine Gezeiten. Meine Frequenz. Dasselbe Muster.'",
             "tags": [
               "Erkenntnis: Jemand lebt auf der anderen Seite",
               "Tschechow: 4:33 = Varen"
@@ -2179,11 +2205,11 @@
             "typen": [
               "schlüssel"
             ],
-            "titel": "Die Vier entscheiden sich fuer den Durchgang",
+            "titel": "Letzte Nacht in Vael — Entscheidung fuer den Durchgang",
             "pov": "Kap 33 · Alle",
-            "tz_tag": 272,
-            "datum_text": "29. Herbstmond 551 TZ",
-            "detail": "Letzte Nacht in Vael. Vesper und Jara haben das Ritual uebersetzt. Runa bittet dazuzubleiben: 'Ich komme mit.'",
+            "tz_tag": 335,
+            "datum_text": "1. Dunkelmond 551 TZ",
+            "detail": "Letzte Nacht in Vael. Vesper und Jara haben das Ritual uebersetzt: vier Resonanzen, Steinkreis, Einweg-Portal. Runa: 'Ich komme mit.' Vesper widerspricht — logisch, kalt. Alphina entscheidet: sie kommt mit. Niemand ist begeistert.",
             "tags": [
               "Schluesselereignis: Entscheidung"
             ],
@@ -2200,9 +2226,9 @@
             ],
             "titel": "Alphina und Sorel kuessen sich im Steinkreis — der Garten blueht",
             "pov": "Kap 34 · Alphina",
-            "tz_tag": 273,
-            "datum_text": "30. Herbstmond 551 — Nacht TZ",
-            "detail": "Sorel haelt zum ersten Mal ihre Hand UNGEBETEN. 'Darf ich?' Kontrolle faellt. Die ganze Hoehle blueht. Runa folgt unbemerkt.",
+            "tz_tag": 336,
+            "datum_text": "2. Dunkelmond 551 — Nacht TZ",
+            "detail": "Letzter Abend. Steinkreis. Sorel haelt zum ersten Mal ihre Hand UNGEBETEN. 'Darf ich?' Kontrolle faellt. Der Garten blueht — falsche Jahreszeit, Dezember, aber alles blueht. Runa folgt unbemerkt.",
             "tags": [
               "Beziehung: Alphina + Sorel — Zaertlichkeit"
             ],
@@ -2217,11 +2243,11 @@
               "portal",
               "schlüssel"
             ],
-            "titel": "Portal oeffnet sich — Vier (plus Runa) gehen nach Moragh",
+            "titel": "Portal oeffnet sich — Fuenf gehen nach Moragh",
             "pov": "Kap 35 · Sorel",
-            "tz_tag": 273,
-            "datum_text": "30. Herbstmond 551 — 4:33 nach Mitternacht TZ",
-            "detail": "Ritual. Vier Resonanzen. Das Portal bleibt 4:33 offen. Sorel zuerst. Runa stolpert im letzten Moment durch. Fuenf in Moragh, nicht vier.",
+            "tz_tag": 336,
+            "datum_text": "2. Dunkelmond 551 — 4:33 nach Mitternacht TZ",
+            "detail": "Ritual. Vier Resonanzen im Steinkreis. Das Portal bleibt 4:33 offen. Sorel geht zuerst. Runa stolpert im letzten Moment durch. Fuenf in Moragh, nicht vier.",
             "tags": [
               "Portal",
               "Schluesselereignis: Durchgang"
