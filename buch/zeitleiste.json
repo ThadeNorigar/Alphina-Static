@@ -34,7 +34,8 @@
           "stadt": "Vael",
           "titel": "Alphina bezieht den Anker",
           "buch": "B1",
-          "kapitel_status": "final"
+          "kapitel_status": "final",
+          "pov": "Kap 05 - Alphina"
         }
       },
       "begegnung": {
@@ -68,7 +69,8 @@
           "ort": "Botanischer Garten",
           "titel": "Alphina trifft Sorel zum ersten Mal",
           "buch": "B1",
-          "kapitel_status": "final"
+          "kapitel_status": "final",
+          "pov": "Kap 11 - Vesper"
         }
       },
       "wissen": {
@@ -99,7 +101,8 @@
           "stufe": "gesehen",
           "titel": "Maren sieht Schemen am Boot arbeiten",
           "buch": "B1",
-          "kapitel_status": "final"
+          "kapitel_status": "final",
+          "pov": "Kap 08 - Maren"
         }
       },
       "_wochenzaehlung": "Konvention: Ankunftstag = Tag 1. Fixe Kapitel (1-14, I1, I2) sind Source of Truth."
@@ -650,7 +653,8 @@
             "ort": "Wohnung im vierten Stock, chaotisch, grün",
             "stadt": "Velde",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 01 - Alphina"
           },
           {
             "tz": 551,
@@ -667,7 +671,8 @@
             "stufe": "gesehen",
             "detail": "3 Uhr morgens, der Farn dreht seinen Wedel zurück als sie wegschaut. Zehn Minuten Test.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 01 - Alphina"
           },
           {
             "tz": 551,
@@ -702,7 +707,8 @@
             "ort": "Kellerwohnung in der Schluchtstadt, Dunkelkammer",
             "stadt": "Nachtholm",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 02 - Sorel"
           },
           {
             "tz": 551,
@@ -719,7 +725,8 @@
             "stufe": "gesehen",
             "detail": "Platte 7 aus der Vael-Auktion. Sein Gesicht, Stadt die er nie betreten hat, Bild älter als er. Dreizehn Jahre Suche.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 02 - Sorel"
           },
           {
             "tz": 551,
@@ -736,7 +743,8 @@
             "stufe": "gesehen",
             "detail": "Rückseite der Platte, verblasste Tinte.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 02 - Sorel"
           },
           {
             "tz": 551,
@@ -769,7 +777,8 @@
             "ort": "Werkstatt, zwei Räume, Schlafraum schmal wie eine Schublade",
             "stadt": "Karst",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 03 - Vesper"
           },
           {
             "tz": 551,
@@ -789,7 +798,8 @@
             "ort": "Gasthaus in Karst",
             "detail": "Alte Wörter, seltsamer Akzent. Erwähnt die 4:33-Standuhr in Vael. Tschechow fuer Buch 2.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 03 - Vesper"
           },
           {
             "tz": 551,
@@ -823,7 +833,8 @@
             "stadt": "Vael",
             "detail": "Der Wirt — breit, grau, Kinn aus Purpurstein — gibt ihr einen Schlüssel und fragt nicht wie lange sie bleibt.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 04 - Maren"
           },
           {
             "tz": 551,
@@ -843,7 +854,8 @@
             "ort": "Werft Dahl, Grauküste",
             "detail": "Edric zeigt die Werft, erklärt das Boot, Harons Gewohnheiten. 'Ist nachts in den Garten gegangen.'",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 04 - Maren"
           },
           {
             "tz": 551,
@@ -860,7 +872,8 @@
             "stufe": "gesehen",
             "detail": "Edric erzählt es: 'Hat nie gesagt warum.' Tschechow-Setup.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 04 - Maren"
           },
           {
             "tz": 551,
@@ -877,7 +890,8 @@
             "stufe": "gesehen",
             "detail": "Haron hat es gebaut und ist gestorben. Kein Umschlag, keine Karte.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 04 - Maren"
           },
           {
             "tz": 551,
@@ -911,7 +925,8 @@
             "stadt": "Vael",
             "detail": "Kleines Zimmer, drei Schritte breit. Wochenpreis im Voraus.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 05 - Alphina"
           },
           {
             "tz": 551,
@@ -931,7 +946,8 @@
             "ort": "Druckerei in Vael, Oberstadt",
             "detail": "Alphina kauft Papier. Runa warme Hände, lacht zu laut für Vael, gibt Alltagstipps (Bäcker Sievert, Untere Grauwe meiden).",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 05 - Alphina"
           },
           {
             "tz": 551,
@@ -948,7 +964,8 @@
             "stufe": "gesehen",
             "detail": "Aus dem Fenster: katzengroß, falsch proportioniert, leuchtende Augen.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 05 - Alphina"
           },
           {
             "tz": 551,
@@ -965,7 +982,8 @@
             "stadt": "Vael",
             "detail": "Speichergebäude, Keller als Dunkelkammer. Keller riecht nach Fixierer und Salz.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 06 - Sorel"
           },
           {
             "tz": 551,
@@ -982,7 +1000,8 @@
             "stufe": "gesehen",
             "detail": "Ein Tier beobachtet ihn, verschwindet. Am Poller: tiefe, saubere Kratzspuren wie mit heißem Messer durch Holz geschnitten.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 06 - Sorel"
           },
           {
             "tz": 551,
@@ -1018,7 +1037,8 @@
             "stadt": "Vael",
             "detail": "Zweiter Stock. Selber Wirt, selbes Haus wie Alphina und Maren. Arbeitet tagsüber im Tidemoor-Haus an der Standuhr.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 07 - Vesper"
           },
           {
             "tz": 551,
@@ -1035,7 +1055,8 @@
             "stufe": "gesehen",
             "detail": "Tidemoor-Haus. Gehäuse, Messing, Pendel mechanisch perfekt. Jeder Zahnrad geprüft, keine Erklärung.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 07 - Vesper"
           },
           {
             "tz": 551,
@@ -1052,7 +1073,8 @@
             "stufe": "gesehen",
             "detail": "Hand drauf: Null Verlust. Hand weg: 4:33 wieder.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 07 - Vesper"
           },
           {
             "tz": 551,
@@ -1069,7 +1091,8 @@
             "stufe": "gesehen",
             "detail": "Tidemoor-Bad. Keine Warmwasseranlage im Haus, Rohre kalt. Wasser aus der Leitung dampfend heiß.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 07 - Vesper"
           },
           {
             "tz": 551,
@@ -1086,7 +1109,8 @@
             "stufe": "gesehen",
             "detail": "Nachts Kratzen im Keller. Spuren am Kellerfenster — dieselben sauberen, heißen Schnitte wie an Sorels Poller.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 07 - Vesper"
           },
           {
             "tz": 551,
@@ -1123,7 +1147,8 @@
             "ort": "Hafen Vael",
             "detail": "Tohl, alt, Gesicht wie Treibholz. 'Die Grauwe ist falsch.' Zeigt das rückwärts fließende Wasser.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 08 - Maren"
           },
           {
             "tz": 551,
@@ -1140,7 +1165,8 @@
             "stufe": "gesehen",
             "detail": "Neue Holzspäne am Morgen. Planken die gestern nicht da waren. Sie misst, prüft, hält sich für verrückt, dann wartet sie nachts.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 08 - Maren"
           },
           {
             "tz": 551,
@@ -1157,7 +1183,8 @@
             "stufe": "gesehen",
             "detail": "Zwei Uhr morgens. Drei schattenhafte Gestalten, humanoid, Haut raucht, schwarze leuchtende Augen. Arbeiten ohne Geräusch. Sehen sie nicht oder ignorieren sie. Nach einer Stunde lösen sie sich auf.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 08 - Maren"
           },
           {
             "tz": 551,
@@ -1174,7 +1201,8 @@
             "stufe": "gesehen",
             "detail": "Tohl zeigt es. Gegen das Gefälle. 'Seit drei Wochen. Erst nur nachts. Jetzt auch tagsüber.'",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 08 - Maren"
           },
           {
             "tz": 551,
@@ -1191,7 +1219,8 @@
             "stufe": "gesehen",
             "detail": "Nachts, einmal, wie ein Herzschlag. Dasselbe Pochen das Alphina später unter dem Garten-Steinkreis spürt.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 08 - Maren"
           },
           {
             "tz": 551,
@@ -1211,7 +1240,8 @@
             "ort": "Botanischer Garten, Vael",
             "detail": "Runa druckt Flugblätter über die Phänomene. Alphina registriert Runas warme Hände als mehr als Handwerksgeschick.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 09 - Alphina"
           },
           {
             "tz": 551,
@@ -1228,7 +1258,8 @@
             "stufe": "versteht",
             "detail": "27 Pflanzen im Botanischen Garten, alle auf sie gerichtet. Mannshohe Farne im späten Frühling. Asplenium aus der Fußnote — hier.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 09 - Alphina"
           },
           {
             "tz": 551,
@@ -1245,7 +1276,8 @@
             "stufe": "ahnt",
             "detail": "Drei Schattentiere folgen ihr durch Gassen und auf Dächern. Nicht Runa, nicht anderen — nur ihr. Jemand beobachtet sie DURCH die Tiere.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 09 - Alphina"
           },
           {
             "tz": 551,
@@ -1262,7 +1294,8 @@
             "stufe": "gesehen",
             "detail": "Hand auf den Purpurstein im Steinkreis des Botanischen Gartens. Pochen wie unter Marens Werft — aber Alphina kennt Maren nicht. Einer, Pause, einer. Tief, im Knochen, nicht im Ohr.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 09 - Alphina"
           },
           {
             "tz": 551,
@@ -1279,7 +1312,8 @@
             "stufe": "gesehen",
             "detail": "Erste Vael-Platten entwickelt. Eine Platte zeigt eine schattenhafte Gestalt mit leuchtenden Augen zwischen den Pollern — Sorel hat sie nicht gesehen. Eine zweite Platte zeigt eine fremde Frau mit Farnen am Hafen — er hat sie nicht fotografiert. Die Kamera fängt ein, was seine Augen nicht erreichen.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 10 - Sorel"
           },
           {
             "tz": 551,
@@ -1293,7 +1327,8 @@
             "datum_text": "13. Mai",
             "detail": "Platte 7 (das eigene Gesicht), eine Platte mit Schemen am Hafen, eine Platte mit fremder Frau die nicht vor der Linse stand — drei Bilder an einer Wand im Lichthaus-Keller. Tschechow: die Kamera sieht in andere Schichten. Feuert in Akt III (Steg-Fotos) und Akt IV (Schwelle).",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 10 - Sorel"
           },
           {
             "tz": 551,
@@ -1310,7 +1345,8 @@
             "stufe": "gesehen",
             "detail": "Dunkles Haar, Farne im Arm, Hafen im Hintergrund. Er hat sie nie gesehen. Er weiß ihren Namen nicht. Er hängt die Platte neben Platte 7 an die Wand.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 10 - Sorel"
           },
           {
             "tz": 551,
@@ -1327,7 +1363,8 @@
             "stufe": "gesehen",
             "detail": "Nächtlicher Einbruch über die Mauer. Mondlicht auf Farnen. Sieben Steine im Mittelhügel. Er fasst den Stein nicht an — er fotografiert ihn. Für Sorel ist der Kreis ein Bild, kein Körper.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 10 - Sorel"
           },
           {
             "tz": 551,
@@ -1342,7 +1379,8 @@
             "datum_text": "14. Mai",
             "detail": "Vier Wochen systematische Kartografie. Siebzehn abweichende Uhren zwischen elf Sekunden und zwei Minuten dreiundzwanzig pro Tag. Sortiert nach Magnitude-Gruppen ergeben sie vier konzentrische Ringe um einen Mittelpunkt. Die Tidemoor-Uhr (4:33) ist ein Sonderfall außerhalb des Rings. Tschechow für Akt II/III: der Mittelpunkt ist der Steinkreis im Botanischen Garten.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 11 - Vesper"
           },
           {
             "tz": 551,
@@ -1359,7 +1397,8 @@
             "stufe": "versteht",
             "detail": "Uhren in Hafennähe verlieren 11-15 Sek/Tag, in der Mitte der Stadt 30-50, in der Oberstadt 1-2 Minuten. Je näher am Zentrum, desto stärker. Vier Ringe um einen unsichtbaren Mittelpunkt in der Oberstadt, hinter dem Handelshaus.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 11 - Vesper"
           },
           {
             "tz": 551,
@@ -1376,7 +1415,8 @@
             "stufe": "gesehen",
             "detail": "Zweite Folge. Sechs Anomalie-Adressen. Vier liegen genau auf Vespers Ringen (Hafenstraße 14 Außenring, Treidelweg 3 Mittelring, Speichergasse 7 Einminuten-Ring, Marktbreite 8 Zweiminuten-Ring). Die fünfte, Grauwe-Ufer 4, liegt zwei Häuser neben der Tidemoor-Uhr. Zwei Muster, nicht eines: das Zentrum in der Oberstadt, ein zweiter Leckpunkt am Grauwe-Ufer.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 11 - Vesper"
           },
           {
             "tz": 551,
@@ -1394,7 +1434,8 @@
             "stufe": "ahnt",
             "detail": "Beim ersten Besuch (10. April) lief die Tidemoor-Uhr nur unter Vespers Hand rein und verlor 4:33 wieder, sobald er losließ. Vor einer Woche (7. Mai) ist er zurückgekehrt und hat der Uhr nicht nur die Hand aufgelegt, sondern den sauberen Takt einer Ankerhemmung aus der eigenen Brust durch die Handfläche ins Messing vorgelegt — als Form, dann als innerer Satz: 'So. Genau so. Behalte diesen Schlag.' Seitdem läuft sie ohne Unterbrechung rein. Am Abend des 14. Mai bestätigt sich die Erkenntnis zweifach: er erzählt es im Dialog mit Alphina zum ersten Mal aus, und Kvarns Taschenuhr in seinem Zimmer läuft nach 90 Minuten Welle-Arbeit mit dem Takt in der Brust ebenfalls null Drift. Tschechow: Vesper ist selbst Resonanz-Quelle, und aktiv weitergegebene Takte halten dauerhaft.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 11 - Vesper"
           },
           {
             "tz": 551,
@@ -1414,7 +1455,8 @@
             "ort": "Gasthaus Zum Anker, Vespers Zimmer (2. Stock rechts)",
             "detail": "Alphina klopft. Dialog im Türrahmen, Tür bleibt auf einem Spalt. Sie stellt sich vor (Botanikerin aus Velde, Botanischer Garten, Runa als Quelle) und fragt: stimmt die Erzählung über die 4:33-Standuhr? Vesper erzählt zweigeteilt. Erstens: der passive Erstbefund vor fünf Wochen (Hand drauf/weg, reaktiv). Zweitens — und zum ersten Mal vor einem anderen Menschen ausgesprochen: der zweite Besuch vor einer Woche, bei dem er der Uhr aktiv den sauberen Ankerhemmungs-Takt aus der eigenen Brust durch die Handfläche ins Messing vorgelegt hat, mit dem inneren Satz 'So. Genau so. Behalte diesen Schlag.' Seitdem läuft sie rein. Alphina legt die Parallele offen: die großen Farne an der Nordmauer vor neun Tagen, Handfläche am Mittelnerv, zwanzig Atemzüge eine Wachstumsform aus der Brust, Henrik muss nicht mehr schneiden. Dazu der Gegenpol: drei Tage zurück der Stein im Steinkreis, drei Pulsstöße passiv empfangen. Beide benennen gemeinsam zwei Modi: Geben (aktiv, formt das Material für Dauer) und Hören (passiv). Erst danach zeigt Vesper die Ring-Karte. Alphina identifiziert den Mittelpunkt sofort als den Steinkreis im Botanischen Garten. Kein Körperkontakt außer einem beiläufigen Daumen-Streifen beim Rückgeben des Notizbuchs. Verabredung für morgen halb zehn am grünen Tor.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 11 - Vesper"
           },
           {
             "tz": 551,
@@ -1431,7 +1473,8 @@
             "stufe": "weiß",
             "detail": "Das erste Mal, dass Alphina einen Beweis in der Hand hält: ein anderer Mensch hat das Phänomen unabhängig gemessen und aus anderer Perspektive erfasst. Sie ist nicht allein. Vesper ist Uhrmacher, sie Botanikerin, beide sehen dasselbe unsichtbare Zentrum — er über Uhrenabweichungen, sie über Pflanzenwachstum und den Puls im Stein.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 11 - Vesper"
           },
           {
             "tz": 551,
@@ -1448,7 +1491,8 @@
             "stufe": "weiß",
             "detail": "Alphina ist Botanikerin aus Velde, arbeitet seit drei Wochen im Botanischen Garten der Oberstadt bei Henrik. Sie hat vor vier Tagen einen der sieben Steine im Steinkreis berührt — warm, drei Pulsstöße unter der Handfläche, langsamer als ein menschlicher Herzschlag. Der Steinkreis ist der Mittelpunkt seiner Ringe. Sie gehen morgen Vormittag um halb zehn zusammen hin.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 11 - Vesper"
           },
           {
             "tz": 551,
@@ -1467,7 +1511,8 @@
             "stufe": "ahnt",
             "detail": "Nach Alphinas Abgang läuft Kvarns Taschenuhr rein, ohne dass Vesper die Welle weiter gedreht hat. Hand auf Gehäuse: dieselbe Wärme wie im Tidemoor-Gehäuse. Er erkennt: er hat Kvarn nichts explizit vorgelegt, aber er hat die anderthalb Stunden an der Welle gearbeitet mit dem sauberen Ankerhemmungs-Takt in der Brust, und das hat gereicht. Der Takt wandert aus dem Resonator ins Material, sobald Kontakt und innerer Takt zusammenfallen — bei Tidemoor als ausgesprochener Befehl, bei Kvarn als stille Anwesenheit während der Arbeit. Er schreibt zwei Zeilen ins Notizbuch: 'Ich bin der achtzehnte Punkt. Zwei Türen weiter, die neunzehnte.' Er erkennt sich und Alphina als Teile des Phänomens, nicht nur als Beobachter. Der Mittelpunkt bleibt der Steinkreis — aber die Vier werden selbst Quellen sein.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 11 - Vesper"
           },
           {
             "tz": 551,
@@ -1485,7 +1530,8 @@
             ],
             "detail": "Morgen Vormittag halb zehn am grünen Tor. Alphina nimmt Vesper in den Botanischen Garten mit, zeigt ihm den Steinkreis. Erste konkrete Allianz zwischen zwei Resonanz-Begabten in Vael.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 11 - Vesper"
           },
           {
             "tz": 551,
@@ -1523,7 +1569,8 @@
             "ort": "Botanischer Garten, Nacht",
             "detail": "Maiabend im Steinkreis. Alphina kommt zum zweiten Mal in den Garten, zielgerichtet. Sorel klettert zum zweiten Mal über die Mauer, weil seine Platten ihn zurückgezogen haben. Sie sehen einander. Die Farne folgen einem Gespräch, das noch nicht begonnen hat. Ende Akt I.",
             "buch": "B1",
-            "kapitel_status": "final"
+            "kapitel_status": "final",
+            "pov": "Kap 12 - Alphina + Sorel"
           },
           {
             "tz": 551,
@@ -1568,6 +1615,36 @@
             ],
             "buch": "B1",
             "kapitel_status": "final"
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "15",
+            "typen": [
+              "hintergrund"
+            ],
+            "titel": "Alphina",
+            "pov": "Kap 15 - Alphina",
+            "buch": "B1",
+            "kapitel_status": "szenenplan",
+            "detail": "Alphina im Garten bei Tag und am Steg. Resonanz-Beobachtungen vertiefen sich.",
+            "tz_tag": 148,
+            "datum_text": "28. Mai"
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "16",
+            "typen": [
+              "hintergrund"
+            ],
+            "titel": "Sorel",
+            "pov": "Kap 16 - Sorel",
+            "buch": "B1",
+            "kapitel_status": "szenenplan",
+            "detail": "Sorel fotografiert den Steg. Die Platten zeigen mehr als er sehen will.",
+            "tz_tag": 152,
+            "datum_text": "1. Juni"
           },
           {
             "tz": 551,
@@ -1787,6 +1864,21 @@
           {
             "tz": 551,
             "mz": 0,
+            "kapitel": "27",
+            "typen": [
+              "hintergrund"
+            ],
+            "titel": "Vesper",
+            "pov": "Kap 27 - Vesper",
+            "buch": "B1",
+            "kapitel_status": "szenenplan",
+            "detail": "Vesper und Maren: Vertiefung. Dom/Sub-Dynamik etabliert sich.",
+            "tz_tag": 210,
+            "datum_text": "29. Juli"
+          },
+          {
+            "tz": 551,
+            "mz": 0,
             "kapitel": "28",
             "typen": [
               "schlüssel"
@@ -1819,6 +1911,21 @@
             ],
             "buch": "B1",
             "kapitel_status": "szenenplan"
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "30",
+            "typen": [
+              "hintergrund"
+            ],
+            "titel": "Vesper",
+            "pov": "Kap 30 - Vesper",
+            "buch": "B1",
+            "kapitel_status": "szenenplan",
+            "detail": "Die Uhren in Vael stehen. Alle gleichzeitig. Vesper weiss warum.",
+            "tz_tag": 232,
+            "datum_text": "20. August"
           },
           {
             "tz": 551,
@@ -1920,6 +2027,36 @@
           {
             "tz": 551,
             "mz": 0,
+            "kapitel": "39",
+            "typen": [
+              "hintergrund"
+            ],
+            "titel": "Maren",
+            "pov": "Kap 39 - Maren",
+            "buch": "B1",
+            "kapitel_status": "szenenplan",
+            "detail": "Moragh: Die fremde Stadt. Maren orientiert sich.",
+            "tz_tag": 276,
+            "datum_text": "3. Oktober -- Moragh"
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "40",
+            "typen": [
+              "hintergrund"
+            ],
+            "titel": "Alphina",
+            "pov": "Kap 40 - Alphina",
+            "buch": "B1",
+            "kapitel_status": "szenenplan",
+            "detail": "Alphina begegnet Elke. Cliffhanger Buch 1.",
+            "tz_tag": 276,
+            "datum_text": "3. Oktober -- Moragh"
+          },
+          {
+            "tz": 551,
+            "mz": 0,
             "kapitel": "41",
             "typen": [
               "schlüssel"
@@ -1934,6 +2071,58 @@
             ],
             "buch": "B1",
             "kapitel_status": "szenenplan"
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "I1",
+            "typen": [
+              "hintergrund"
+            ],
+            "titel": "Elke",
+            "pov": "Kap I1 - Elke",
+            "buch": "B1",
+            "kapitel_status": "final",
+            "detail": "Nebelmond 154. Elke kommt nach Vael. Bildhauerin aus dem Sueden."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "I2",
+            "typen": [
+              "hintergrund"
+            ],
+            "titel": "Elke",
+            "pov": "Kap I2 - Elke",
+            "buch": "B1",
+            "kapitel_status": "final",
+            "detail": "Frostmond 154. Keldan trifft Elke. Sechs Wochen in Vael."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "I5",
+            "typen": [
+              "hintergrund"
+            ],
+            "titel": "Manuskript",
+            "pov": "Kap I5 - Manuskript",
+            "buch": "B1",
+            "kapitel_status": "szenenplan",
+            "detail": "Das gefaelschte Manuskript. Varens Koeder fuer die Vier."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "I8",
+            "typen": [
+              "hintergrund"
+            ],
+            "titel": "Lene/Elke",
+            "pov": "Kap I8 - Lene/Elke",
+            "buch": "B1",
+            "kapitel_status": "szenenplan",
+            "detail": "Lene schreibt auf was passiert ist. Elke geht durch das Portal."
           }
         ],
         "moragh": [
@@ -2058,6 +2247,58 @@
             "tags": [
               "Hintergrund"
             ]
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "I3",
+            "typen": [
+              "hintergrund"
+            ],
+            "titel": "Varen",
+            "pov": "Kap I3 - Varen",
+            "buch": "B1",
+            "kapitel_status": "szenenplan",
+            "detail": "Varen beobachtet die Vier durch die Schemen. Erste Einschaetzung."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "I4",
+            "typen": [
+              "hintergrund"
+            ],
+            "titel": "Varen",
+            "pov": "Kap I4 - Varen",
+            "buch": "B1",
+            "kapitel_status": "szenenplan",
+            "detail": "Die Schemen berichten. Varen justiert seinen Plan."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "I6",
+            "typen": [
+              "hintergrund"
+            ],
+            "titel": "Varen",
+            "pov": "Kap I6 - Varen",
+            "buch": "B1",
+            "kapitel_status": "szenenplan",
+            "detail": "Varen wartet. Geduld als Waffe."
+          },
+          {
+            "tz": 551,
+            "mz": 0,
+            "kapitel": "I7",
+            "typen": [
+              "hintergrund"
+            ],
+            "titel": "Elke",
+            "pov": "Kap I7 - Elke",
+            "buch": "B1",
+            "kapitel_status": "szenenplan",
+            "detail": "Elke in Moragh. Rueckblick."
           }
         ],
         "sync": {
