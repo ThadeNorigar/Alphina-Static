@@ -397,8 +397,10 @@
           const allKapEvents = [...kap.thal, ...kap.moragh];
 
           if (kapId !== KEY_NONE) {
-            // Kapitel-Header bauen
-            const kapLabel = kapId.startsWith('I') ? kapId : 'K' + kapId;
+            // Kapitel-Header bauen (BX-KY oder BX-IY)
+            const buchTag = allKapEvents.find(e => e.buch)?.buch || '';
+            const kapSuffix = kapId.startsWith('I') ? kapId : 'K' + kapId;
+            const kapLabel = buchTag ? buchTag + '-' + kapSuffix : kapSuffix;
             const pov = (() => { for (const e of allKapEvents) { const p = extractPov(e); if (p) return p; } return ''; })();
             const status = allKapEvents.find(e => e.kapitel_status)?.kapitel_status || '';
             const datum = allKapEvents.find(e => e.datum_text)?.datum_text || '';

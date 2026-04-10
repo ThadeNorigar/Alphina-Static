@@ -525,7 +525,8 @@
             ],
             "tags": [
               "Erste Begegnung: Vael"
-            ]
+            ],
+            "buch": "B1"
           },
           {
             "tz": 154,
@@ -542,7 +543,8 @@
             "tags": [
               "Schlüsselereignis",
               "Tschechow: Botanischer Garten"
-            ]
+            ],
+            "buch": "B1"
           },
           {
             "tz": 154,
@@ -556,7 +558,8 @@
             ],
             "tags": [
               "Erste Begegnung: Keldan + Elke"
-            ]
+            ],
+            "buch": "B1"
           },
           {
             "tz": 154,
@@ -613,7 +616,8 @@
               "Schlüsselereignis"
             ],
             "kapitel": "I3",
-            "kapitel_status": "szenenplan"
+            "kapitel_status": "szenenplan",
+            "buch": "B1"
           }
         ],
         "moragh": [
