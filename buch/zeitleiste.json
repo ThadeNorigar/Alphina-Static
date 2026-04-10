@@ -635,7 +635,7 @@
               "Tschechow: Farn-Artikel (Agent)"
             ],
             "tz_tag": 80,
-            "datum_text": "21. März",
+            "datum_text": "21.03.551 TZ",
             "buch": "B1",
             "kapitel_status": "final"
           },
@@ -648,7 +648,7 @@
             ],
             "titel": "Alphina wohnt in Velde",
             "tz_tag": 80,
-            "datum_text": "21. März",
+            "datum_text": "21.03.551 TZ",
             "figur": "Alphina",
             "ort": "Wohnung im vierten Stock, chaotisch, grün",
             "stadt": "Velde",
@@ -665,7 +665,7 @@
             ],
             "titel": "Alphina: Farn dreht sich nach ihr",
             "tz_tag": 80,
-            "datum_text": "21. März",
+            "datum_text": "21.03.551 TZ",
             "figur": "Alphina",
             "fakt": "pflanzen-reagieren-auf-mich",
             "stufe": "gesehen",
@@ -689,7 +689,7 @@
               "Tschechow: Glasplatte (Agent)"
             ],
             "tz_tag": 80,
-            "datum_text": "21. März",
+            "datum_text": "21.03.551 TZ",
             "buch": "B1",
             "kapitel_status": "final"
           },
@@ -702,7 +702,7 @@
             ],
             "titel": "Sorel wohnt in Nachtholm",
             "tz_tag": 80,
-            "datum_text": "21. März",
+            "datum_text": "21.03.551 TZ",
             "figur": "Sorel",
             "ort": "Kellerwohnung in der Schluchtstadt, Dunkelkammer",
             "stadt": "Nachtholm",
@@ -719,7 +719,7 @@
             ],
             "titel": "Sorel: Sein eigenes Gesicht auf fremder Glasplatte",
             "tz_tag": 80,
-            "datum_text": "21. März",
+            "datum_text": "21.03.551 TZ",
             "figur": "Sorel",
             "fakt": "sein-gesicht-auf-vael-platte",
             "stufe": "gesehen",
@@ -737,7 +737,7 @@
             ],
             "titel": "Sorel: Hinweis Vael Lichthaus Keller",
             "tz_tag": 80,
-            "datum_text": "21. März",
+            "datum_text": "21.03.551 TZ",
             "figur": "Sorel",
             "fakt": "lichthaus-keller-vael",
             "stufe": "gesehen",
@@ -759,7 +759,7 @@
               "Tschechow: 4:33 + Agent"
             ],
             "tz_tag": 83,
-            "datum_text": "24. März",
+            "datum_text": "24.03.551 TZ",
             "buch": "B1",
             "kapitel_status": "final"
           },
@@ -772,7 +772,7 @@
             ],
             "titel": "Vesper wohnt in Karst",
             "tz_tag": 83,
-            "datum_text": "24. März",
+            "datum_text": "24.03.551 TZ",
             "figur": "Vesper",
             "ort": "Werkstatt, zwei Räume, Schlafraum schmal wie eine Schublade",
             "stadt": "Karst",
@@ -789,7 +789,7 @@
             ],
             "titel": "Vesper trifft den reisenden Uhrmacher",
             "tz_tag": 83,
-            "datum_text": "24. März",
+            "datum_text": "24.03.551 TZ",
             "figuren": [
               "Vesper",
               "Reisender Uhrmacher"
@@ -814,7 +814,7 @@
               "Tschechow: Boot + Haron = Agent"
             ],
             "tz_tag": 83,
-            "datum_text": "24. März",
+            "datum_text": "24.03.551 TZ",
             "buch": "B1",
             "kapitel_status": "final"
           },
@@ -827,7 +827,7 @@
             ],
             "titel": "Maren bezieht den Anker",
             "tz_tag": 83,
-            "datum_text": "24. März",
+            "datum_text": "24.03.551 TZ",
             "figur": "Maren",
             "ort": "Gasthaus Zum Anker, Hafengasse",
             "stadt": "Vael",
@@ -845,7 +845,7 @@
             ],
             "titel": "Maren trifft Edric Dahl",
             "tz_tag": 83,
-            "datum_text": "24. März",
+            "datum_text": "24.03.551 TZ",
             "figuren": [
               "Maren",
               "Edric Dahl"
@@ -866,7 +866,7 @@
             ],
             "titel": "Maren: Haron ging nachts in den Garten",
             "tz_tag": 83,
-            "datum_text": "24. März",
+            "datum_text": "24.03.551 TZ",
             "figur": "Maren",
             "fakt": "haron-nachtgaenge-garten",
             "stufe": "gesehen",
@@ -884,7 +884,7 @@
             ],
             "titel": "Maren: Das Boot ist dreiviertel fertig",
             "tz_tag": 83,
-            "datum_text": "24. März",
+            "datum_text": "24.03.551 TZ",
             "figur": "Maren",
             "fakt": "boot-dreiviertel-fertig",
             "stufe": "gesehen",
@@ -906,7 +906,7 @@
               "Erste Begegnung: Runa"
             ],
             "tz_tag": 83,
-            "datum_text": "24. März",
+            "datum_text": "24.03.551 TZ",
             "buch": "B1",
             "kapitel_status": "final"
           },
@@ -919,7 +919,7 @@
             ],
             "titel": "Alphina bezieht den Anker",
             "tz_tag": 83,
-            "datum_text": "24. März",
+            "datum_text": "24.03.551 TZ",
             "figur": "Alphina",
             "ort": "Gasthaus Zum Anker, Hafengasse",
             "stadt": "Vael",
@@ -937,7 +937,7 @@
             ],
             "titel": "Alphina trifft Runa Kvist",
             "tz_tag": 83,
-            "datum_text": "24. März",
+            "datum_text": "24.03.551 TZ",
             "figuren": [
               "Alphina",
               "Runa Kvist"
@@ -958,7 +958,7 @@
             ],
             "titel": "Alphina: Schattentiere in Vael",
             "tz_tag": 83,
-            "datum_text": "24. März",
+            "datum_text": "24.03.551 TZ",
             "figur": "Alphina",
             "fakt": "schattentiere-in-vael",
             "stufe": "gesehen",
@@ -976,7 +976,7 @@
             ],
             "titel": "Sorel bezieht das Lichthaus",
             "tz_tag": 86,
-            "datum_text": "27. März",
+            "datum_text": "27.03.551 TZ",
             "figur": "Sorel",
             "ort": "Lichthaus am Hafen",
             "stadt": "Vael",
@@ -994,7 +994,7 @@
             ],
             "titel": "Sorel: Kratzspuren am Hafenpoller",
             "tz_tag": 86,
-            "datum_text": "27. März",
+            "datum_text": "27.03.551 TZ",
             "figur": "Sorel",
             "fakt": "kratzspuren-heisse-schnitte",
             "stufe": "gesehen",
@@ -1018,7 +1018,7 @@
               "Tschechow: 4:33"
             ],
             "tz_tag": 87,
-            "datum_text": "28. März",
+            "datum_text": "28.03.551 TZ",
             "buch": "B1",
             "kapitel_status": "final"
           },
@@ -1031,7 +1031,7 @@
             ],
             "titel": "Vesper bezieht den Anker",
             "tz_tag": 87,
-            "datum_text": "28. März",
+            "datum_text": "28.03.551 TZ",
             "figur": "Vesper",
             "ort": "Gasthaus Zum Anker, Hafengasse",
             "stadt": "Vael",
@@ -1049,7 +1049,7 @@
             ],
             "titel": "Vesper: Standuhr verliert 4:33 pro Tag",
             "tz_tag": 87,
-            "datum_text": "28. März",
+            "datum_text": "28.03.551 TZ",
             "figur": "Vesper",
             "fakt": "standuhr-4-33",
             "stufe": "gesehen",
@@ -1067,7 +1067,7 @@
             ],
             "titel": "Vesper: Die Uhr reagiert auf seine Hand",
             "tz_tag": 87,
-            "datum_text": "28. März",
+            "datum_text": "28.03.551 TZ",
             "figur": "Vesper",
             "fakt": "standuhr-reagiert-auf-mich",
             "stufe": "gesehen",
@@ -1085,7 +1085,7 @@
             ],
             "titel": "Vesper: Heißes Wasser ohne Kessel",
             "tz_tag": 87,
-            "datum_text": "28. März",
+            "datum_text": "28.03.551 TZ",
             "figur": "Vesper",
             "fakt": "heisses-wasser-ohne-kessel",
             "stufe": "gesehen",
@@ -1103,7 +1103,7 @@
             ],
             "titel": "Vesper: Kratzspuren am Kellerfenster",
             "tz_tag": 87,
-            "datum_text": "28. März",
+            "datum_text": "28.03.551 TZ",
             "figur": "Vesper",
             "fakt": "kratzspuren-heisse-schnitte",
             "stufe": "gesehen",
@@ -1125,7 +1125,7 @@
               "Tschechow: Boot + Schemen"
             ],
             "tz_tag": 130,
-            "datum_text": "10. Mai",
+            "datum_text": "10.05.551 TZ",
             "buch": "B1",
             "kapitel_status": "final"
           },
@@ -1138,7 +1138,7 @@
             ],
             "titel": "Maren trifft Tohl Daverin",
             "tz_tag": 130,
-            "datum_text": "10. Mai",
+            "datum_text": "10.05.551 TZ",
             "figuren": [
               "Maren",
               "Tohl Daverin"
@@ -1159,7 +1159,7 @@
             ],
             "titel": "Maren: Das Boot wächst nachts weiter",
             "tz_tag": 130,
-            "datum_text": "10. Mai",
+            "datum_text": "10.05.551 TZ",
             "figur": "Maren",
             "fakt": "boot-waechst-nachts",
             "stufe": "gesehen",
@@ -1177,7 +1177,7 @@
             ],
             "titel": "Maren: Schemen arbeiten am Boot",
             "tz_tag": 130,
-            "datum_text": "10. Mai",
+            "datum_text": "10.05.551 TZ",
             "figur": "Maren",
             "fakt": "schemen-am-boot",
             "stufe": "gesehen",
@@ -1195,7 +1195,7 @@
             ],
             "titel": "Maren: Wasser fließt rückwärts in die Werft",
             "tz_tag": 130,
-            "datum_text": "10. Mai",
+            "datum_text": "10.05.551 TZ",
             "figur": "Maren",
             "fakt": "wasser-fliesst-rueckwaerts",
             "stufe": "gesehen",
@@ -1213,7 +1213,7 @@
             ],
             "titel": "Maren: Pochen unter der Werft",
             "tz_tag": 130,
-            "datum_text": "10. Mai",
+            "datum_text": "10.05.551 TZ",
             "figur": "Maren",
             "fakt": "pochen-unter-vael",
             "stufe": "gesehen",
@@ -1231,7 +1231,7 @@
             ],
             "titel": "Alphina trifft Runa im Botanischen Garten",
             "tz_tag": 131,
-            "datum_text": "11. Mai",
+            "datum_text": "11.05.551 TZ",
             "figuren": [
               "Alphina",
               "Runa Kvist"
@@ -1252,7 +1252,7 @@
             ],
             "titel": "Alphina: Pflanzen folgen ihr systematisch",
             "tz_tag": 131,
-            "datum_text": "11. Mai",
+            "datum_text": "11.05.551 TZ",
             "figur": "Alphina",
             "fakt": "pflanzen-reagieren-auf-mich",
             "stufe": "versteht",
@@ -1270,7 +1270,7 @@
             ],
             "titel": "Alphina: Schemen folgen ihr persönlich",
             "tz_tag": 131,
-            "datum_text": "11. Mai",
+            "datum_text": "11.05.551 TZ",
             "figur": "Alphina",
             "fakt": "schemen-folgen-mir-persoenlich",
             "stufe": "ahnt",
@@ -1288,7 +1288,7 @@
             ],
             "titel": "Alphina: Pochen unter dem Garten",
             "tz_tag": 131,
-            "datum_text": "11. Mai",
+            "datum_text": "11.05.551 TZ",
             "figur": "Alphina",
             "fakt": "pochen-unter-vael",
             "stufe": "gesehen",
@@ -1306,7 +1306,7 @@
             ],
             "titel": "Sorel: Die Kamera sieht mehr als die Linse",
             "tz_tag": 133,
-            "datum_text": "13. Mai",
+            "datum_text": "13.05.551 TZ",
             "figur": "Sorel",
             "fakt": "kamera-faengt-mehr-ein",
             "stufe": "gesehen",
@@ -1324,7 +1324,7 @@
             ],
             "titel": "Sorels Kamera als Resonanz-Leiter",
             "tz_tag": 133,
-            "datum_text": "13. Mai",
+            "datum_text": "13.05.551 TZ",
             "detail": "Platte 7 (das eigene Gesicht), eine Platte mit Schemen am Hafen, eine Platte mit fremder Frau die nicht vor der Linse stand — drei Bilder an einer Wand im Lichthaus-Keller. Tschechow: die Kamera sieht in andere Schichten. Feuert in Akt III (Steg-Fotos) und Akt IV (Schwelle).",
             "buch": "B1",
             "kapitel_status": "final",
@@ -1339,7 +1339,7 @@
             ],
             "titel": "Sorel: Fremde Frau auf der Hafen-Platte",
             "tz_tag": 133,
-            "datum_text": "13. Mai",
+            "datum_text": "13.05.551 TZ",
             "figur": "Sorel",
             "fakt": "fremde-frau-auf-platte",
             "stufe": "gesehen",
@@ -1357,7 +1357,7 @@
             ],
             "titel": "Sorel: Steinkreis im Botanischen Garten",
             "tz_tag": 133,
-            "datum_text": "13. Mai",
+            "datum_text": "13.05.551 TZ",
             "figur": "Sorel",
             "fakt": "steinkreis-garten-gesehen",
             "stufe": "gesehen",
@@ -1376,7 +1376,7 @@
             ],
             "titel": "Vespers Uhren-Ringe über Vael",
             "tz_tag": 134,
-            "datum_text": "14. Mai",
+            "datum_text": "14.05.551 TZ",
             "detail": "Vier Wochen systematische Kartografie. Siebzehn abweichende Uhren zwischen elf Sekunden und zwei Minuten dreiundzwanzig pro Tag. Sortiert nach Magnitude-Gruppen ergeben sie vier konzentrische Ringe um einen Mittelpunkt. Die Tidemoor-Uhr (4:33) ist ein Sonderfall außerhalb des Rings. Tschechow für Akt II/III: der Mittelpunkt ist der Steinkreis im Botanischen Garten.",
             "buch": "B1",
             "kapitel_status": "final",
@@ -1391,7 +1391,7 @@
             ],
             "titel": "Vesper erkennt das radiale Muster",
             "tz_tag": 134,
-            "datum_text": "14. Mai",
+            "datum_text": "14.05.551 TZ",
             "figur": "Vesper",
             "fakt": "vesper-uhren-ringe",
             "stufe": "versteht",
@@ -1409,7 +1409,7 @@
             ],
             "titel": "Vesper sieht Runas Flugblatt",
             "tz_tag": 134,
-            "datum_text": "14. Mai",
+            "datum_text": "14.05.551 TZ",
             "figur": "Vesper",
             "fakt": "runas-flugblatt-ueberlap",
             "stufe": "gesehen",
@@ -1428,7 +1428,7 @@
             ],
             "titel": "Vesper erkennt: der Takt in der Brust hält",
             "tz_tag": 134,
-            "datum_text": "14. Mai",
+            "datum_text": "14.05.551 TZ",
             "figur": "Vesper",
             "fakt": "tidemoor-uhr-permanent",
             "stufe": "ahnt",
@@ -1446,7 +1446,7 @@
             ],
             "titel": "Alphina und Vesper finden sich",
             "tz_tag": 134,
-            "datum_text": "14. Mai abends",
+            "datum_text": "14.05.551 TZ abends",
             "figuren": [
               "Alphina",
               "Vesper"
@@ -1467,7 +1467,7 @@
             ],
             "titel": "Alphina: Vesper gehört zum Phänomen",
             "tz_tag": 134,
-            "datum_text": "14. Mai abends",
+            "datum_text": "14.05.551 TZ abends",
             "figur": "Alphina",
             "fakt": "vesper-resoniert",
             "stufe": "weiß",
@@ -1485,7 +1485,7 @@
             ],
             "titel": "Vesper: Alphina hat den Steinkreis",
             "tz_tag": 134,
-            "datum_text": "14. Mai abends",
+            "datum_text": "14.05.551 TZ abends",
             "figur": "Vesper",
             "fakt": "alphina-botanik-stein",
             "stufe": "weiß",
@@ -1505,7 +1505,7 @@
             ],
             "titel": "Kvarns Uhr läuft rein — Vesper erkennt sich selbst als Punkt",
             "tz_tag": 134,
-            "datum_text": "14. Mai nachts",
+            "datum_text": "14.05.551 TZ nachts",
             "figur": "Vesper",
             "fakt": "vesper-ist-resonator",
             "stufe": "ahnt",
@@ -1523,7 +1523,7 @@
             ],
             "titel": "Vesper + Alphina verabreden sich für den Botanischen Garten",
             "tz_tag": 134,
-            "datum_text": "14. Mai abends",
+            "datum_text": "14.05.551 TZ abends",
             "figuren": [
               "Alphina",
               "Vesper"
@@ -1543,7 +1543,7 @@
             "titel": "Stadt-Anomalien eskalieren: Vespers Netz verdichtet sich",
             "pov": "Kap 12 · Alphina",
             "tz_tag": 134,
-            "datum_text": "14. Mai",
+            "datum_text": "14.05.551 TZ",
             "tags": [
               "Erkenntnis: Vael zerfaellt"
             ],
@@ -1560,7 +1560,7 @@
             ],
             "titel": "Alphina trifft Sorel im Botanischen Garten",
             "tz_tag": 135,
-            "datum_text": "15. Mai",
+            "datum_text": "15.05.551 TZ",
             "figuren": [
               "Alphina",
               "Sorel"
@@ -1583,7 +1583,7 @@
             "titel": "Sorel: Alphina auf jeder Platte (Projektion ohne Erkenntnis)",
             "pov": "Kap 13 · Sorel",
             "tz_tag": 138,
-            "datum_text": "18. Mai",
+            "datum_text": "18.05.551 TZ",
             "figur": "Sorel",
             "fakt": "sorel-projiziert-alphina",
             "stufe": "manifestiert",
@@ -1601,7 +1601,7 @@
             "titel": "Maren im Anker — Haende die warten koennten",
             "pov": "Kap 14 · Maren",
             "tz_tag": 142,
-            "datum_text": "22. Mai",
+            "datum_text": "22.05.551 TZ",
             "figuren": [
               "Maren",
               "Vesper"
@@ -1629,7 +1629,7 @@
             "kapitel_status": "szenenplan",
             "detail": "Schemen haeufiger, aggressiver. Runa sammelt Sichtungen. Alphina sieht Sorel am Steg.",
             "tz_tag": 148,
-            "datum_text": "28. Mai",
+            "datum_text": "28.05.551 TZ",
             "tags": [
               "Schemen-Eskalation",
               "Setup Alphina+Sorel"
@@ -1648,7 +1648,7 @@
             "kapitel_status": "szenenplan",
             "detail": "Auf jeder Platte steht Alphina, obwohl sie nicht dort war. Resonanz-Projektion. Er erkennt es nicht.",
             "tz_tag": 152,
-            "datum_text": "1. Juni",
+            "datum_text": "01.06.551 TZ",
             "tags": [
               "Tschechow: Steg-Fotos feuern K25"
             ]
@@ -1664,7 +1664,7 @@
             "titel": "Alle vier treffen sich erstmals gemeinsam im Botanischen Garten",
             "pov": "Kap 17 · Alle",
             "tz_tag": 158,
-            "datum_text": "7. Juni",
+            "datum_text": "07.06.551 TZ",
             "figuren": [
               "Alphina",
               "Sorel",
@@ -1691,7 +1691,7 @@
             "titel": "Vesper allein mit der Standuhr — Halvards unmoegliche Verletzungen",
             "pov": "Kap 18 · Vesper",
             "tz_tag": 162,
-            "datum_text": "11. Juni",
+            "datum_text": "11.06.551 TZ",
             "ort": "Tidemoor-Haus, abends Gasthaus",
             "detail": "Vesper im Tidemoor-Haus. Die Standuhr laeuft rein wie seit Mai, fuer ihn abgeschlossener Fall. Auf dem Reparaturtisch: Vespers Tabelle der sechzehn anderen Vael-Uhren, die er seit Kap 11 weitermisst. Die Driftwerte wachsen gleichmaessig, alle Ringe expandieren im selben Verhaeltnis. Er rechnet die Zuwachsraten zum ersten Mal hoch und findet die Grundfrequenz des Systems: vier Minuten dreiunddreissig pro Tag, nicht als Messwert einer einzelnen Uhr, sondern als Atem des Gesamtmusters, das alle sechzehn gleichzeitig zieht. Er unterstreicht die Zahl nicht. Er weiss noch nicht, was er damit machen soll. Abends Halvard im Gasthaus: kauterisierte Kratzer bei einem Kind, Verbrennungen ohne Hitzequelle, Knochenbrueche ohne Sturz. Vespers Notizbuch fuellt sich mit Mustern. Keine Esther, kein Manuskript (die Esther-Szene ist aus einem frueheren Entwurf und wird separat behandelt).",
             "tags": [
@@ -1711,7 +1711,7 @@
             "titel": "Vesper bringt Maren die Schiffsuhr zur Werft",
             "pov": "Kap 19 - Maren",
             "tz_tag": 165,
-            "datum_text": "14. Juni",
+            "datum_text": "14.06.551 TZ",
             "ort": "Gasthaus Zum Anker (Vespers Reparaturtisch), dann Stadtarchiv",
             "detail": "Saegemehl, Tee auf Holzkisten. Arm-Beruehrung. Erster ehrlicher Austausch ueber das Unmoegliche -- Standuhr, Boot, Schemen.",
             "tags": [
@@ -1732,7 +1732,7 @@
             "titel": "Maren zeigt Vesper Harons Zettel -- gemeinsam ins Archiv",
             "pov": "Kap 20 - Maren",
             "tz_tag": 171,
-            "datum_text": "20. Juni",
+            "datum_text": "20.06.551 TZ",
             "figuren": [
               "Vesper",
               "Maren"
@@ -1759,7 +1759,7 @@
             "titel": "Alphina und Sorel: Dunkelkammer, erste intime Szene",
             "pov": "Kap 21 · Alphina",
             "tz_tag": 175,
-            "datum_text": "24. Juni",
+            "datum_text": "24.06.551 TZ",
             "detail": "Sorel zeigt ihr die Platten: Schemen hinter ihr auf jeder. Kontrollverlust. Farne brechen durch Kellerwaende.",
             "tags": [
               "Erotik: Alphina + Sorel",
@@ -1779,7 +1779,7 @@
             "titel": "Maren und Vesper: erste Nacht — Dom/Sub-Session, sie bleibt",
             "pov": "Kap 22 · Maren",
             "tz_tag": 182,
-            "datum_text": "1. Juli",
+            "datum_text": "01.07.551 TZ",
             "detail": "Maren geht nachts die Hintertreppe im Gasthaus Zum Anker hoch zu Vespers Zimmer, zweiter Stock. Was folgt ist kein Spektakel — Vorsicht, Erlaubnis, Praezision. Seine Haende an ihren Handgelenken, die wartenden Haende aus Kap 14. Ihr Fluchtinstinkt schlaegt einmal an und wird nicht bedient. Erste Dom/Sub-Session. Danach: sie bleibt. Zum ersten Mal. Die kleine Messing-Tischuhr auf seinem Nachttisch — eine der sechzehn aus Vespers Tabelle — hat in der Nacht zum ersten Mal null Drift. Der Takt, den er im Mai der Tidemoor-Standuhr gegeben hat, ist durch Marens Atem auf ein weiteres Werk uebergesprungen.",
             "tags": [
               "Erotik: Vesper + Maren Dom/Sub",
@@ -1799,7 +1799,7 @@
             "titel": "AUDIT: Bruecken-Kap ohne neuen Beat → in K25",
             "pov": "Kap 23 · Sorel",
             "tz_tag": 185,
-            "datum_text": "4. Juli",
+            "datum_text": "04.07.551 TZ",
             "figuren": [
               "Sorel"
             ],
@@ -1822,7 +1822,7 @@
             "titel": "Archiv: Ritual-Papier mit Schemen-Fingerabdruecken",
             "pov": "Kap 24 · Alphina",
             "tz_tag": 191,
-            "datum_text": "10. Juli",
+            "datum_text": "10.07.551 TZ",
             "detail": "Jara findet Randnotizen (andere Handschrift) + Moragh-Sprachbuch. Ritual-Anweisungen, Steinkreis-Zeichnung. Varen hat es per Schem platziert.",
             "tags": [
               "Schluesselereignis: Ritual-Anleitung gefunden"
@@ -1840,7 +1840,7 @@
             "titel": "Alphina findet Steg-Fotos — Grenzverletzung",
             "pov": "Kap 25 · Sorel",
             "tz_tag": 198,
-            "datum_text": "17. Juli",
+            "datum_text": "17.07.551 TZ",
             "detail": "Bruch Alphina+Sorel. Du hast mich genommen ohne zu fragen. Sorel schweigt. Sie geht.",
             "tags": [
               "Tschechow feuert",
@@ -1860,7 +1860,7 @@
             "titel": "AUDIT: Gleicher Bruch wie K25 → zusammenlegen",
             "pov": "Kap 26 · Alphina",
             "tz_tag": 205,
-            "datum_text": "24. Juli",
+            "datum_text": "24.07.551 TZ",
             "detail": "Schem beruehrt Alphinas Wange (Varens Hand). Empfehlung: Schem-Beat in K25 integrieren.",
             "tags": [
               "Audit: mit K25 zusammenlegen"
@@ -1881,7 +1881,7 @@
             "kapitel_status": "szenenplan",
             "detail": "Einziger neuer Beat: Miniatur-Steinkreis im Keller. Empfehlung: Beat in K28, Kapitel streichen.",
             "tz_tag": 210,
-            "datum_text": "29. Juli",
+            "datum_text": "29.07.551 TZ",
             "tags": [
               "Audit: streichen"
             ]
@@ -1896,7 +1896,7 @@
             "titel": "Maren folgt dem Wasser zum Steinkreis",
             "pov": "Kap 28 · Maren",
             "tz_tag": 217,
-            "datum_text": "5. August",
+            "datum_text": "05.08.551 TZ",
             "detail": "Maren folgt dem rueckwaerts fliessenden Wasser vom Werft-Keller zum Steinkreis im Botanischen Garten (konkreter Zugang: TBD, keine Tunnel). Der Purpurstein schwitzt Salz — nicht Grauwe-Salz, anderes Meer. Hand auf den Stein: der Riss weint.",
             "tags": [
               "Schluesselereignis: Maren findet den Riss"
@@ -1914,7 +1914,7 @@
             "titel": "Alphina findet Sorel am Riss — Versoehnung",
             "pov": "Kap 29 · Alphina",
             "tz_tag": 222,
-            "datum_text": "10. August",
+            "datum_text": "10.08.551 TZ",
             "detail": "'Du bist nicht hier weil du mich liebst.' Alphina gibt ihm Recht. Zum ersten Mal.",
             "tags": [
               "Beziehung: Alphina + Sorel — Versoehnung"
@@ -1935,7 +1935,7 @@
             "kapitel_status": "szenenplan",
             "detail": "Alle Uhren stehen gleichzeitig. Wiederholt K28-Beats. Empfehlung: in K32 integrieren.",
             "tz_tag": 232,
-            "datum_text": "20. August",
+            "datum_text": "20.08.551 TZ",
             "tags": [
               "Audit: in K32"
             ]
@@ -1951,7 +1951,7 @@
             "titel": "Runas Haende gluehen — Feuer-Resonanz entdeckt",
             "pov": "Kap 31 · Alphina",
             "tz_tag": 237,
-            "datum_text": "25. August",
+            "datum_text": "25.08.551 TZ",
             "detail": "Ein Schem toetet einen Haendler am Hafen. Andere Fraktion (Thar) am Hafen: Metall-Geruch. Runa bei Alphina — ihre Haende gluehen buchstaeblich, Brandfleck im Setzkasten.",
             "tags": [
               "Erkenntnis: Runa hat Feuer-Resonanz",
@@ -1971,7 +1971,7 @@
             "titel": "Vesper: Grundfrequenz + Gezeiten = Varens Atem",
             "pov": "Kap 32 · Vesper",
             "tz_tag": 244,
-            "datum_text": "1. September",
+            "datum_text": "01.09.551 TZ",
             "detail": "Vesper legt seine Drifttabelle der sechzehn Vael-Uhren neben Marens Gezeiten. Die Grundfrequenz, die er aus den wachsenden Driftwerten hochgerechnet hat (vier Minuten dreiunddreissig pro Tag, siehe Kap 18), passt exakt in den Rhythmus der rueckwaerts fliessenden Grauwe. Plus Runas Flugblatt-Chronologie und Halvards Verletzungsprotokolle: die Schemen-Sichtungen folgen demselben Takt. Jemand auf der anderen Seite atmet, die Schemen kommen mit jedem Ausatmen. 4:33 ist nicht die Frequenz des Risses, sondern die Frequenz von etwas DAHINTER.",
             "tags": [
               "Erkenntnis: Jemand lebt auf der anderen Seite",
@@ -1990,7 +1990,7 @@
             "titel": "Die Vier entscheiden sich fuer den Durchgang",
             "pov": "Kap 33 · Alle",
             "tz_tag": 272,
-            "datum_text": "29. September",
+            "datum_text": "29.09.551 TZ",
             "detail": "Letzte Nacht in Vael. Vesper und Jara haben das Ritual uebersetzt. Runa bittet dazuzubleiben: 'Ich komme mit.'",
             "tags": [
               "Schluesselereignis: Entscheidung"
@@ -2009,7 +2009,7 @@
             "titel": "Alphina und Sorel kuessen sich im Steinkreis — der Garten blueht",
             "pov": "Kap 34 · Alphina",
             "tz_tag": 273,
-            "datum_text": "30. September — Nacht",
+            "datum_text": "30.09.551 TZ — Nacht",
             "detail": "Sorel haelt zum ersten Mal ihre Hand UNGEBETEN. 'Darf ich?' Kontrolle faellt. Die ganze Hoehle blueht. Runa folgt unbemerkt.",
             "tags": [
               "Beziehung: Alphina + Sorel — Zaertlichkeit"
@@ -2028,7 +2028,7 @@
             "titel": "Portal oeffnet sich — Vier (plus Runa) gehen durch",
             "pov": "Kap 35 · Sorel",
             "tz_tag": 273,
-            "datum_text": "30. September — 4:33 nach Mitternacht",
+            "datum_text": "30.09.551 TZ — 4:33 nach Mitternacht",
             "detail": "Ritual. Vier Resonanzen. Das Portal bleibt 4:33 offen. Sorel zuerst. Runa stolpert im letzten Moment durch. Fuenf in Moragh, nicht vier.",
             "tags": [
               "Portal",
@@ -2050,7 +2050,7 @@
             "kapitel_status": "szenenplan",
             "detail": "Elke tritt aus dem Dunkel. Altes Thalassisch. Ihr seid nicht die Ersten. Buch 1 endet.",
             "tz_tag": 276,
-            "datum_text": "3. Oktober -- Moragh",
+            "datum_text": "03.10.551 TZ -- Moragh",
             "tags": [
               "Schluesselereignis: Cliffhanger B1"
             ]
@@ -2068,7 +2068,7 @@
             "kapitel_status": "szenenplan",
             "detail": "Dornen statt Farne. Racheschwur. Bereits in K37 transportiert. Empfehlung: als Szene in K38.",
             "tz_tag": 276,
-            "datum_text": "3. Oktober -- Moragh",
+            "datum_text": "03.10.551 TZ -- Moragh",
             "tags": [
               "Audit: in K38"
             ]
@@ -2083,7 +2083,7 @@
             "titel": "Vael ohne die Fuenf -- Varens Spuren verschwinden",
             "pov": "Kap 41 · Nebencharaktere",
             "tz_tag": 277,
-            "datum_text": "4. Oktober — Vael ohne die Fuenf",
+            "datum_text": "04.10.551 TZ — Vael ohne die Fuenf",
             "detail": "Schemen verschwinden schlagartig. Was Varen angezettelt hat hoert auf. Aber kleinere Anomalien BLEIBEN: Wasser fliesst ungewoehnlich, Uhren gehen wieder falsch, Tidemoor-Uhr kaputt, Farne im Garten wachsen weiter. Riss-Quelle sickert weiter. Halvard schreibt seinen Bericht -- sachlich, praezise, das einzige schriftliche Zeugnis. Jara archiviert Runas Flugblaetter. Das Boot wartet, drei Viertel fertig.",
             "tags": [
               "Epilog Buch 1"
@@ -2156,7 +2156,7 @@
             "titel": "Varen begegnet Alphina — altes Thalassisch, Hand an ihr Kinn",
             "pov": "Kap 36 - Alphina",
             "tz_tag": 273,
-            "datum_text": "30. September — Moragh-Morgen",
+            "datum_text": "30.09.551 TZ — Moragh-Morgen",
             "figuren": [
               "Alphina",
               "Varen"
@@ -2182,7 +2182,7 @@
             "titel": "Sorel stirbt — Varens Abwehr, unterlassene Rettung",
             "pov": "Kap 36 · Alphina",
             "tz_tag": 273,
-            "datum_text": "30. September — Moragh",
+            "datum_text": "30.09.551 TZ — Moragh",
             "detail": "Sorel stellt sich zwischen Varen und Alphina. Varens Bindungsmagie trifft ihn voll. Varen KOENNTE helfen — tut es nicht. Deckt die Augen zu, fluestert ein Moragh-Wort. Alphinas Explosion: Dornen, Wurzeln, weisse Blumen auf Sorels Koerper.",
             "tags": [
               "Tod: Sorel",
@@ -2201,7 +2201,7 @@
             "titel": "Flucht nach Sorels Tod -- Alphina stumm, die anderen verwundet",
             "pov": "Kap 37 - Maren",
             "tz_tag": 274,
-            "datum_text": "1. Oktober -- Moragh",
+            "datum_text": "01.10.551 TZ -- Moragh",
             "detail": "Maren POV. Alphinas Zorn-Explosion hat alle verletzt: Maren (Dornen in Wade), Vesper (Wurzel trifft Schulter), Runa (Brombeeren, Schnitte). Alphina ist stumm, Narbe entlang der Wirbelsaeule. Varen geflohen. Zwei Monde am Himmel. Kein Rueckweg.",
             "tags": [
               "Schluesselereignis: Nachwirkung"
@@ -2220,7 +2220,7 @@
             "titel": "Elke findet die Gruppe — altes Thalassisch",
             "pov": "Kap 38 · Maren",
             "tz_tag": 275,
-            "datum_text": "2. Oktober — Moragh",
+            "datum_text": "02.10.551 TZ — Moragh",
             "figuren": [
               "Alphina",
               "Vesper",
@@ -2248,7 +2248,7 @@
             "titel": "Alphinas Trauer wird Hass — Dornen wachsen zum ersten Mal",
             "pov": "Kap 39 · Alphina",
             "tz_tag": 276,
-            "datum_text": "3. Oktober — Moragh",
+            "datum_text": "03.10.551 TZ — Moragh",
             "detail": "Um sie herum waechst ein Kreis aus Dornen, nicht Farnen. Zum ersten Mal. Ihr Hass veraendert ihre Resonanz.",
             "tags": [
               "Tschechow: Alphinas Dornen"
