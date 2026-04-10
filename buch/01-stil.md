@@ -256,7 +256,7 @@ Magie ist kein Event. Magie ist ein Detail, das nicht stimmt. Der Ton einer Szen
 - **Kapitel:** Nummeriert, kein Titel. Nur der Name der POV-Figur als Überschrift.
 - **Länge:** 12-25 Seiten. Keine Mini-Kapitel. Der Leser soll einsinken, nicht springen.
 - **Cliffhanger:** Sparsam. Nicht jedes Kapitel endet mit einem Knall. Die stärksten Kapitelenden sind leise — ein Satz, der alles verschiebt, ohne laut zu sein.
-- **1423-Interludien:** Alle 80-100 Seiten. Kurz (5-8 Seiten). Dritte Person, Präteritum, keine benannte POV — der Erzähler ist das Manuskript selbst. Altmodischer Ton, aber nicht parodistisch. Als würde jemand sich Mühe geben, die Wahrheit aufzuschreiben, bevor er sie vergisst.
+- **TZ-154-Interludien:** Alle 80-100 Seiten. Kurz (5-8 Seiten). Dritte Person, Präteritum, keine benannte POV — der Erzähler ist das Manuskript selbst. Altmodischer Ton, aber nicht parodistisch. Als würde jemand sich Mühe geben, die Wahrheit aufzuschreiben, bevor er sie vergisst.
 
 ---
 

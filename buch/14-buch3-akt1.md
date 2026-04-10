@@ -34,7 +34,7 @@ Maren hat die Expedition initiiert. Jahrzehnte Vorbereitung. Resonanz-Verstärke
 
 Drei Moragh-Monate seit Buch 2. Alphina bei Varen. Nicht als Gefangene — als Verbündete. Die Schuld-Spiegelung aus Buch 2 hat sie zusammengeschweißt: er hat drei Quellen zerstört (Unfall), sie hat eine zerstört (absichtlich). Beide Täter. Beide mit dem Wissen allein.
 
-Varens Quartier: Karten an den Wänden, vier tote Quellen rot markiert (drei seine, eine ihre). Bücher gestapelt. Sein 1423er Thalassisch — Alphina versteht jetzt die Hälfte. Er korrigiert sie nicht. Wartet bis sie es selbst hört.
+Varens Quartier: Karten an den Wänden, vier tote Quellen rot markiert (drei seine, eine ihre). Bücher gestapelt. Sein altes Thalassisch — Alphina versteht jetzt die Hälfte. Er korrigiert sie nicht. Wartet bis sie es selbst hört.
 
 Erste Quellen-Reparatur. Varen kennt die Theorie: azyklische Resonanz als Herzschrittmacher. Alphinas Pflanzen-Resonanz kann eine tote Quelle wieder anstarten — Wurzeln tief in die Erde, bis zum Quellen-Kern, dann drücken. Wie ein Defibrillator.
 

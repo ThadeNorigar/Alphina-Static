@@ -111,7 +111,7 @@ Moragh-geboren, 17, Elektrizitäts-Resonanz. Interface zwischen Magie und Techni
 
 ## Enden
 
-**Alphina + Varen:** Moragh. Elkes Garten. Pflanzen. Dornen. Sein Blick der nicht fragt. Sie versteht jetzt jedes Wort seines 1423er Thalassisch.
+**Alphina + Varen:** Moragh. Elkes Garten. Pflanzen. Dornen. Sein Blick der nicht fragt. Sie versteht jetzt jedes Wort seines altes Thalassisch.
 
 **Vesper + Nyr:** Frei. Keine Thar mehr. Er sieht Muster in einer Welt die sich verändert.
 

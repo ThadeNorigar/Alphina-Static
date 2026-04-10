@@ -243,7 +243,7 @@ Reservoir-Quellen sind unterirdische Knotenpunkte im Leylinien-Netz. Sie sind ke
 - Pochen durch den Fels — nicht Erdbeben, nicht Donner. Ein Puls. Rhythmisch, gleichmäßig.
 - Der Fels über einer Quelle verändert sich: Risse öffnen sich, Gestein wird weicher, Pflanzen wachsen aus nacktem Stein ohne Erde.
 
-**Die Riss-Quelle unter Vael** pulsiert durch den Kalkstein der Grauküste bis an die Oberfläche. Elke spürt diesen Puls 1423. Alphina spürt ihn 400 Jahre später — als Wärme im Boden, als Farne die sich drehen, als Moos das über Nacht wächst. Dieselbe Quelle, dasselbe Pulsieren.
+**Die Riss-Quelle unter Vael** pulsiert durch den Kalkstein der Grauküste bis an die Oberfläche. Elke spürt diesen Puls in TZ 154. Alphina spürt ihn 400 Jahre später — als Wärme im Boden, als Farne die sich drehen, als Moos das über Nacht wächst. Dieselbe Quelle, dasselbe Pulsieren.
 
 **Wenn eine Quelle stirbt**, hört der Puls auf. Stille im Gestein. Der Fels wird kalt. Pflanzen verdorren. Resonanz-Begabte in der Nähe spüren es wie einen Herzstillstand.
 

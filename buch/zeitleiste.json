@@ -345,7 +345,7 @@
       "label": "MZ Monat -12",
       "tz": "TZ 154",
       "mz": "MZ -1,0",
-      "buch": "Interludien (1423)",
+      "buch": "Interludien",
       "events": {
         "thalassien": [
           {
@@ -1623,13 +1623,17 @@
             "typen": [
               "hintergrund"
             ],
-            "titel": "Alphina",
+            "titel": "Schemen-Eskalation, Runa sammelt Sichtungen",
             "pov": "Kap 15 - Alphina",
             "buch": "B1",
             "kapitel_status": "szenenplan",
-            "detail": "Alphina im Garten bei Tag und am Steg. Resonanz-Beobachtungen vertiefen sich.",
+            "detail": "Schemen haeufiger, aggressiver. Runa sammelt Sichtungen. Alphina sieht Sorel am Steg.",
             "tz_tag": 148,
-            "datum_text": "28. Mai"
+            "datum_text": "28. Mai",
+            "tags": [
+              "Schemen-Eskalation",
+              "Setup Alphina+Sorel"
+            ]
           },
           {
             "tz": 551,
@@ -1638,13 +1642,16 @@
             "typen": [
               "hintergrund"
             ],
-            "titel": "Sorel",
+            "titel": "Sorels Steg-Fotos zeigen Alphina hinter ihm",
             "pov": "Kap 16 - Sorel",
             "buch": "B1",
             "kapitel_status": "szenenplan",
-            "detail": "Sorel fotografiert den Steg. Die Platten zeigen mehr als er sehen will.",
+            "detail": "Auf jeder Platte steht Alphina, obwohl sie nicht dort war. Resonanz-Projektion. Er erkennt es nicht.",
             "tz_tag": 152,
-            "datum_text": "1. Juni"
+            "datum_text": "1. Juni",
+            "tags": [
+              "Tschechow: Steg-Fotos feuern K25"
+            ]
           },
           {
             "tz": 551,
@@ -1789,7 +1796,7 @@
             "typen": [
               "brücke"
             ],
-            "titel": "Sorel nach der Dunkelkammer — Bruecken-Kap",
+            "titel": "AUDIT: Bruecken-Kap ohne neuen Beat → in K25",
             "pov": "Kap 23 · Sorel",
             "tz_tag": 185,
             "datum_text": "4. Juli",
@@ -1797,10 +1804,9 @@
               "Sorel"
             ],
             "ort": "Lichthaus, Vael",
-            "detail": "Sorel allein nach der Nacht mit Alphina aus Kap 21. Rotlicht, die Platten der letzten Tage. Er weiss jetzt: er selbst formt das Licht auf den Platten, seine Resonanz. Er versucht bewusst zu zwingen, was er unbewusst gemacht hat — gelingt halb. Kein Handwerk, nur Obsession. Draussen die eskalierende Stadt: Gaslampen flackern, Nebel bleibt, ein Schem unter der Hafenlaterne. Er entscheidet, das eine groesste Detail weiter zu verschweigen: wie lange die Projektionen schon gehen. Das wird die Grenzverletzung in Kap 25.",
+            "detail": "Innerer Monolog nach Dunkelkammer. Kein Plot-Fortschritt. Empfehlung: streichen.",
             "tags": [
-              "Bruecke zwischen Dunkelkammer und Bruch",
-              "Sorel-Vorbereitung"
+              "Audit: streichen"
             ],
             "buch": "B1",
             "kapitel_status": "szenenplan"
@@ -1831,13 +1837,14 @@
             "typen": [
               "erkenntnis"
             ],
-            "titel": "Alphina stellt Sorel — 'Wie lange schon?' (Grenzverletzung = Schweigen)",
+            "titel": "Alphina findet Steg-Fotos — Grenzverletzung",
             "pov": "Kap 25 · Sorel",
             "tz_tag": 198,
             "datum_text": "17. Juli",
-            "detail": "Alphina kommt zurueck nach der Dunkelkammer-Nacht aus K21. Sie hat nachgedacht. Sie stellt die Frage, die sie in K21 nicht gestellt hat: wie lange er sie schon auf den Platten hat. Sorel schweigt drei Sekunden zu lang. Sie weiss. Die Grenzverletzung ist nicht dass er sie fotografiert hat — sie ist dass er nie darueber geredet hat, nicht vor K21, nicht in K21, nicht danach. Sie geht.",
+            "detail": "Bruch Alphina+Sorel. Du hast mich genommen ohne zu fragen. Sorel schweigt. Sie geht.",
             "tags": [
-              "Beziehung: Alphina + Sorel — Grenzverletzung durch Schweigen"
+              "Tschechow feuert",
+              "Bruch A+S"
             ],
             "buch": "B1",
             "kapitel_status": "szenenplan"
@@ -1850,13 +1857,13 @@
               "tschechow",
               "schlüssel"
             ],
-            "titel": "Schem beruehrt Alphinas Wange — Varens Hand durch die Welten",
+            "titel": "AUDIT: Gleicher Bruch wie K25 → zusammenlegen",
             "pov": "Kap 26 · Alphina",
             "tz_tag": 205,
             "datum_text": "24. Juli",
-            "detail": "Alphina im Lichthaus-Keller allein. Ein Schem streckt die Hand aus, beruehrt ihre Wange. Warmer Fleck. Varen kann sie sehen und beruehren.",
+            "detail": "Schem beruehrt Alphinas Wange (Varens Hand). Empfehlung: Schem-Beat in K25 integrieren.",
             "tags": [
-              "Tschechow: Varens Hand an Alphinas Kinn (Vorbote)"
+              "Audit: mit K25 zusammenlegen"
             ],
             "buch": "B1",
             "kapitel_status": "szenenplan"
@@ -1868,13 +1875,16 @@
             "typen": [
               "hintergrund"
             ],
-            "titel": "Vesper",
+            "titel": "AUDIT: Dom/Sub-Vertiefung ohne Plot → streichen",
             "pov": "Kap 27 - Vesper",
             "buch": "B1",
             "kapitel_status": "szenenplan",
-            "detail": "Vesper und Maren: Vertiefung. Dom/Sub-Dynamik etabliert sich.",
+            "detail": "Einziger neuer Beat: Miniatur-Steinkreis im Keller. Empfehlung: Beat in K28, Kapitel streichen.",
             "tz_tag": 210,
-            "datum_text": "29. Juli"
+            "datum_text": "29. Juli",
+            "tags": [
+              "Audit: streichen"
+            ]
           },
           {
             "tz": 551,
@@ -1919,13 +1929,16 @@
             "typen": [
               "hintergrund"
             ],
-            "titel": "Vesper",
+            "titel": "AUDIT: Uhren stehen still → Beat in K32",
             "pov": "Kap 30 - Vesper",
             "buch": "B1",
             "kapitel_status": "szenenplan",
-            "detail": "Die Uhren in Vael stehen. Alle gleichzeitig. Vesper weiss warum.",
+            "detail": "Alle Uhren stehen gleichzeitig. Wiederholt K28-Beats. Empfehlung: in K32 integrieren.",
             "tz_tag": 232,
-            "datum_text": "20. August"
+            "datum_text": "20. August",
+            "tags": [
+              "Audit: in K32"
+            ]
           },
           {
             "tz": 551,
@@ -2031,13 +2044,16 @@
             "typen": [
               "hintergrund"
             ],
-            "titel": "Maren",
+            "titel": "Elke findet die Gruppe — Cliffhanger B1",
             "pov": "Kap 39 - Maren",
             "buch": "B1",
             "kapitel_status": "szenenplan",
-            "detail": "Moragh: Die fremde Stadt. Maren orientiert sich.",
+            "detail": "Elke tritt aus dem Dunkel. Altes Thalassisch. Ihr seid nicht die Ersten. Buch 1 endet.",
             "tz_tag": 276,
-            "datum_text": "3. Oktober -- Moragh"
+            "datum_text": "3. Oktober -- Moragh",
+            "tags": [
+              "Schluesselereignis: Cliffhanger B1"
+            ]
           },
           {
             "tz": 551,
@@ -2046,13 +2062,16 @@
             "typen": [
               "hintergrund"
             ],
-            "titel": "Alphina",
+            "titel": "AUDIT: Trauer/Hass → in K38 integrieren",
             "pov": "Kap 40 - Alphina",
             "buch": "B1",
             "kapitel_status": "szenenplan",
-            "detail": "Alphina begegnet Elke. Cliffhanger Buch 1.",
+            "detail": "Dornen statt Farne. Racheschwur. Bereits in K37 transportiert. Empfehlung: als Szene in K38.",
             "tz_tag": 276,
-            "datum_text": "3. Oktober -- Moragh"
+            "datum_text": "3. Oktober -- Moragh",
+            "tags": [
+              "Audit: in K38"
+            ]
           },
           {
             "tz": 551,
@@ -2134,7 +2153,7 @@
               "begegnung",
               "schlüssel"
             ],
-            "titel": "Varen begegnet Alphina — 1423er Thalassisch, Hand an ihr Kinn",
+            "titel": "Varen begegnet Alphina — altes Thalassisch, Hand an ihr Kinn",
             "pov": "Kap 36 - Alphina",
             "tz_tag": 273,
             "datum_text": "30. September — Moragh-Morgen",
@@ -2147,7 +2166,7 @@
             "detail": "'Eure Resonanz. Ich hab sie durch den Riss erspueret. Ueber vierhundert Jaehrlein.' Bindungsmagie haelt sie. 4:33 war nie die Frequenz des Risses — es war Varens Signatur.",
             "tags": [
               "Erste Begegnung: Alphina + Varen",
-              "Erkenntnis: Varens 1423er Thalassisch"
+              "Erkenntnis: Varens altes Thalassisch"
             ],
             "buch": "B1",
             "kapitel_status": "szenenplan"
@@ -2198,7 +2217,7 @@
               "begegnung",
               "schlüssel"
             ],
-            "titel": "Elke findet die Gruppe — 1423er Thalassisch",
+            "titel": "Elke findet die Gruppe — altes Thalassisch",
             "pov": "Kap 38 · Maren",
             "tz_tag": 275,
             "datum_text": "2. Oktober — Moragh",
@@ -2211,7 +2230,7 @@
             ],
             "intensitaet": "bekannt",
             "ort": "Moragh, Elkes Garten",
-            "detail": "Elke tritt aus dem Dunkel. 1423er Thalassisch. Ihr seid nicht die Ersten. Sie kennt Varen -- war seine Geliebte. Cliffhanger: Buch 1 endet hier.",
+            "detail": "Elke tritt aus dem Dunkel. altes Thalassisch. Ihr seid nicht die Ersten. Sie kennt Varen -- war seine Geliebte. Cliffhanger: Buch 1 endet hier.",
             "tags": [
               "Schluesselereignis: Buch 1 Cliffhanger",
               "Erste Begegnung: Die Gruppe + Elke"
@@ -2268,11 +2287,14 @@
             "typen": [
               "hintergrund"
             ],
-            "titel": "Varen",
+            "titel": "AUDIT: Redundant zu I3 → zusammenlegen",
             "pov": "Kap I4 - Varen",
             "buch": "B1",
             "kapitel_status": "szenenplan",
-            "detail": "Die Schemen berichten. Varen justiert seinen Plan."
+            "detail": "Varen beobachtet weiter. Kein neuer Info-Gewinn. Empfehlung: in I3.",
+            "tags": [
+              "Audit: in I3"
+            ]
           },
           {
             "tz": 551,
@@ -2281,11 +2303,14 @@
             "typen": [
               "hintergrund"
             ],
-            "titel": "Varen",
+            "titel": "AUDIT: Atmosphaere ohne Plot → streichen",
             "pov": "Kap I6 - Varen",
             "buch": "B1",
             "kapitel_status": "szenenplan",
-            "detail": "Varen wartet. Geduld als Waffe."
+            "detail": "Intimszene Elke+Kaspar. Beide verschwinden in I7. Empfehlung: Absatz in I7.",
+            "tags": [
+              "Audit: streichen"
+            ]
           },
           {
             "tz": 551,
@@ -3451,7 +3476,7 @@
             ],
             "titel": "Epilog: Drei Bilder — Vael still, die Stadt mit Talven als Lehrer, Moragh heilt",
             "pov": "B3 EP · Alle",
-            "detail": "Vael: ein Kind beruehrt einen Farn, nichts passiert. Stadt: Talven unterrichtet Warnung, blind. Moragh: Alphina und Varen auf der Bank, Dornen, Buch im 1423er Thalassisch. Reparierte Quellen pochen. 'Die Welten sind zwei. Der Riss ist geschlossen. Die Quelle haelt.'",
+            "detail": "Vael: ein Kind beruehrt einen Farn, nichts passiert. Stadt: Talven unterrichtet Warnung, blind. Moragh: Alphina und Varen auf der Bank, Dornen, Buch im altes Thalassisch. Reparierte Quellen pochen. 'Die Welten sind zwei. Der Riss ist geschlossen. Die Quelle haelt.'",
             "tags": [
               "Epilog: Ende der Trilogie"
             ],

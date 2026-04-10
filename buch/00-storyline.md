@@ -87,10 +87,10 @@ Schiffbauerin. Fließt. Bleibt nie. Findet in Moragh die Karte/Anleitung für di
 Druckerin. Hände immer warm. FWB mit Alphina (hitzig, keine Beziehung). Erlebt mit wie Varen Alphina auf dem Schlachtfeld fängt. Bleibt beim Bund → entdeckt Wahrheiten → geht zu den Thar/Konglomerat. Steigt dort auf. In Buch 3: Teil der Konglomerat-Machtstruktur. Verfolgt Nyr und Vesper als sie überlaufen. Ehemalige Freundin als Antagonistin. Resonanz: Feuer/Hitze.
 
 ### Varen — Das Dunkle
-Moragh-Forscher. **War Velmar**, von Velmar verdeckt ausgestoßen, andere Fraktionen kennen ihn nicht. Groß, muskulös, graue Schläfen, purpurne Augen. Spricht 1423er Thalassisch. Obsessiv, nie entschuldigend. Hat durch einen Leylinien-Unfall drei Quellen zerstört, ~200.000 Menschen heimatlos gemacht, den Krieg ausgelöst. Sein wahres Motiv: Wiedergutmachung — er braucht die Thalassier als Starthilfe für die toten Quellen. POV ab Interludium 3 in Buch 1, durchgehend B2-B3.
+Moragh-Forscher. **War Velmar**, von Velmar verdeckt ausgestoßen, andere Fraktionen kennen ihn nicht. Groß, muskulös, graue Schläfen, purpurne Augen. Spricht altes Thalassisch. Obsessiv, nie entschuldigend. Hat durch einen Leylinien-Unfall drei Quellen zerstört, ~200.000 Menschen heimatlos gemacht, den Krieg ausgelöst. Sein wahres Motiv: Wiedergutmachung — er braucht die Thalassier als Starthilfe für die toten Quellen. POV ab Interludium 3 in Buch 1, durchgehend B2-B3.
 
 ### Elke van der Holt — Die Alte
-Bildhauerin. Kam 1423 durch das Portal. Spricht 1423er Thalassisch wie Varen (er hat es von ihr gelernt). Resonanz: Erde/Stein. Stirbt in Buch 3 (Alter).
+Bildhauerin. Kam in TZ 154 durch das Portal. Spricht altes Thalassisch wie Varen (er hat es von ihr gelernt). Resonanz: Erde/Stein. Stirbt in Buch 3 (Alter).
 
 ### Nyr — Die Pilotin
 Thar-Pilotin. Druck-Resonanz. Bestie "Kessler" (40-Tonnen-Ramm). Überzeugt Vesper von den Thar. Verlässt die Thar in Buch 3 als sie die autonomen Bestien und die Resonanz-Käfig-Pläne sieht. Vesper folgt ihr.
@@ -128,7 +128,7 @@ Varen in Moragh. Spürt die Resonanzen. Seine Karten: 3 tote Quellen rot markier
 **Akt IV — Das Portal**
 Ritual. Portal öffnet sich (4:33). Runa schlüpft durch. Fünf in Moragh.
 
-**VAREN.** 1423er Thalassisch. Hand an Alphinas Kinn. Besitzergreifend, forschend.
+**VAREN.** altes Thalassisch. Hand an Alphinas Kinn. Besitzergreifend, forschend.
 
 **SOREL STIRBT.** Stellt sich dazwischen. Greift Varen an. Varens Abwehr übermäßig. Sorel sterbend. Varen KÖNNTE retten — tut es NICHT. Deckt Sorels Augen zu. Flüstert ein Wort in Moragh. DAS verfolgt Alphina.
 

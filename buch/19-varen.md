@@ -16,7 +16,7 @@ Dieses File konsolidiert sämtliche Entscheidungen zu Varen, seinem Motiv, seine
 
 **Erscheinung:** Groß, muskulös, graue Schläfen, schwarzes Haar. Augen tiefes Purpur. Attraktiv. Charmant — nicht gespielt, echt. Das macht ihn gefährlicher. Gut genährt, in Form, nicht ausgemergelt. Großes Reservoir, jahrelange Erfahrung.
 
-**Stimme:** Spricht 1423er Thalassisch — flüssig, mit Akzent. Elke hat es ihm beigebracht, er hat es an seine Agenten weitergegeben. Keiner der Vier kann die archaische Form sofort einordnen — sie klingt wie eine Sprache aus einem alten Roman.
+**Stimme:** Spricht altes Thalassisch — flüssig, mit Akzent. Elke hat es ihm beigebracht, er hat es an seine Agenten weitergegeben. Keiner der Vier kann die archaische Form sofort einordnen — sie klingt wie eine Sprache aus einem alten Roman.
 
 **Fraktionsstatus:** Aus Velmar **verdeckt ausgestoßen** — ohne öffentliche Anklage, ohne Gerichtsverfahren, ohne Eintrag in Velmar-Registern. Die Velmar-Binder-Elite weiß was er getan hat und schweigt. Der Rest der Velmar ahnt "da war etwas" und fragt nicht nach. Die anderen Fraktionen (Bund, Thar, freie Städte) **wissen nichts von ihm** — kennen seinen Namen nicht, haben ihn nie mit dem Quellen-Kollaps in Verbindung gebracht.
 
@@ -116,7 +116,7 @@ Maren ist Wasser/Fluss — Raummanipulation, nicht Zeit. Nach der Regel kann sie
 
 **Elkes Ankunft verändert alles.** Vorher hat Varen theoretisch mit Portalen geforscht. Jetzt hat er einen Beweis, ein lebendiges Beispiel, einen Menschen aus der anderen Welt, der **Thalassisch** spricht — eine Sprache die er nie gehört hat. Elke erzählt ihm von Resonanz-Begabten in Thalassien. Sie beschreibt Menschen, die Magie spüren ohne dafür zu bezahlen. Varen erkennt: **das ist die externe Energie, die er sucht.**
 
-**MZ -1 bis -0.5 (6 Monate):** Varen und Elke als Paar. Liebe, Forschung, Thalassisch-Unterricht. Elke bringt ihm die Sprache bei (Grundform 1423er Thalassisch). Er forscht weiter, jetzt mit einem klaren Ziel: Resonanz-Begabte nach Moragh holen. Elke wusste nicht, worauf er hinauswill. Sie dachte er studiert sie.
+**MZ -1 bis -0.5 (6 Monate):** Varen und Elke als Paar. Liebe, Forschung, Thalassisch-Unterricht. Elke bringt ihm die Sprache bei (Grundform altes Thalassisch). Er forscht weiter, jetzt mit einem klaren Ziel: Resonanz-Begabte nach Moragh holen. Elke wusste nicht, worauf er hinauswill. Sie dachte er studiert sie.
 
 **MZ -0.5 (= TZ 354):** Elke verlässt ihn. Sie weiß NICHT von den zerstörten Quellen — das ist Velmar-Geheimnis. Ihre Gründe sind persönlich:
 1. Sie will nicht zurück nach Vael. Sie hat in Moragh ein neues Leben, ihren Garten, den Stein den sie formen kann. Vael ist tot für sie (Kaspar und Keldan sind im Feuer gestorben, ihre Menschen sind weg).
@@ -401,7 +401,7 @@ Moragh hat **keine Sonne**. Es hat eine Akkretionsscheibe (ein Ring aus leuchten
 | Alphinas Zorn-Farbe | Nicht grün. Pechschwarze Wurzeln, purpurne Stängel, blutrote Blüten mit schwarzen Kanten. Anti-Flora. Physiologisch: Moragh hat keine direkte Sonne, Anthocyane statt Chlorophyll. |
 | Die Blüten auf Sorels Körper | Blutrot und schwarz mit purpurnen Kanten. **Nicht weiß.** Sie bleiben, wenn alles andere stirbt. |
 | Varens Rückzug | Erschöpft, nicht würdevoll. Seine Magie ist zyklisch, Alphinas azyklisch. |
-| Varens Abgangstext | "Wir sehen uns nicht das letzte Mal." In 1423er Thalassisch. |
+| Varens Abgangstext | "Wir sehen uns nicht das letzte Mal." In altes Thalassisch. |
 | K36 vs. K37 | K36 ist die Berührungsszene (Bindung, Studieren). K37 ist der Kampf und der Tod. Zwei Kapitel, nicht eins. |
 
 ---

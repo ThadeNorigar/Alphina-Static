@@ -208,7 +208,7 @@ Elke lächelt. "Ich sage DIR: es war gut. Das alles. Der Garten, der Stein, die 
 
 Sie stirbt am Abend. Leise, im Garten, auf dem Stein. Keine dramatischen letzten Worte — ein Ausatmen, ein Entspannen, ein Gesicht das jünger wird. Alter. Nicht Magie. Nicht Krieg. Einfach Alter.
 
-Alphina hält ihre rechte Hand. Varen steht drei Schritte entfernt. Sein Gesicht — er hat Elke vor allen gekannt. Ihr 1423er Thalassisch gelernt. Ihre Sprache gesprochen. Er sagt ein Wort in Moragh. Dasselbe Wort das er über Sorels Augen geflüstert hat in Buch 1. Alphina hört es. Diesmal versteht sie es.
+Alphina hält ihre rechte Hand. Varen steht drei Schritte entfernt. Sein Gesicht — er hat Elke vor allen gekannt. Ihr altes Thalassisch gelernt. Ihre Sprache gesprochen. Er sagt ein Wort in Moragh. Dasselbe Wort das er über Sorels Augen geflüstert hat in Buch 1. Alphina hört es. Diesmal versteht sie es.
 
 **Tschechow:** Das Wort das Varen über Sorel geflüstert hat. — Jetzt verstanden. Feuert: Epilog. Alphina versteht jetzt jedes Wort.
 

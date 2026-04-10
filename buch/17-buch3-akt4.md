@@ -365,7 +365,7 @@ Elkes Garten. Abend. Die Akkretionsscheibe gibt ein warmes Licht — nicht golde
 
 Alphina bei Varen. Auf der Bank die Elke geformt hat. Dornen an ihrer Hand — sie hat einen neuen Strauch gepflanzt, neben Elkes Regenschale. Die Dornen sind kleiner als die in der Schlacht. Filigraner. Garten-Dornen. Nicht Waffen-Dornen.
 
-Varen neben ihr. Ein Buch in der Hand. 1423er Thalassisch. Er liest vor — leise, in der Sprache die er von Elke gelernt hat, die Alphina jetzt versteht. Jedes Wort.
+Varen neben ihr. Ein Buch in der Hand. altes Thalassisch. Er liest vor — leise, in der Sprache die er von Elke gelernt hat, die Alphina jetzt versteht. Jedes Wort.
 
 Sein Blick. Über das Buch hinweg. Purpurne Augen. Graue Schläfen. Ein Blick der nicht fragt. Der nichts will. Der einfach sieht.
 
