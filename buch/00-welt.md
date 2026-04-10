@@ -280,7 +280,7 @@ Der Krieg dauert **vier Moragh-Jahre** (= ~1600 Thalassien-Jahre). Drei Seiten.
 - Die **Thar** rücken mit Magitech-Bestien vor — Fabelwesen aus Magie und Metall, raubtierähnlich, glühende Augen, Klauen. Ein Reiter pro Bestie. Je nach Resonanz andere Gestalt: **Lohen** (Feuer-Panther, Flammenwerfer-Maul), **Ramme** (Dampf-Bullen, 40 Tonnen, gepanzert wie Kataphrakte), **Zacker** (Elektrik-Wölfe, Blitzstöße, Kampfläufer), **Gründe** (Stein-Schildkröten, Belagerung), **Feger** (Wind-Falken, 30m-Sprünge), **Fluter** (Wasser-Schlangen, amphibisch). Die Reiter sind die Elite: schwarze Rüstung, geschlossene Helme, ~500 in der ganzen Armee. Dahinter: Infanterie mit Druck-Gewehren und Hitze-Klingen. Durchorganisiert, diszipliniert, skrupellos. Absolute Gleichberechtigung — seit Generationen. Siehe `buch/18-thar-magitech.md` für Details.
 - Die **Binder** operieren als Guerilla-Stoßtrupps aus den Grenzlanden — gebundene Dämonen als Waffe, schnell, brutal, mobil.
 
-**Der Krieg um die Quellen:** Drei Quellen durch Varens Experiment zerstört (das weiß niemand außer ihm). Die verbleibenden Quellen reichen nicht für alle. Jede Fraktion kämpft um Zugang. Der Bund hat zusätzlich Varens Überladungs-Methode gestohlen/rekonstruiert und nutzt sie als Waffe — weitere Quellen-Zerstörung als militärische Strategie.
+**Varens Überladung als Waffe:** Drei Quellen durch Varens Experiment zerstört (das weiß niemand außer Velmar). Es gibt genug verbleibende Quellen — der Krieg begann nicht aus Mangel. Aber der Bund hat Varens Überladungs-Methode gestohlen/rekonstruiert und nutzt sie als Waffe — systematische Zerstörung feindlicher Quellen als militärische Strategie. Das macht den Bund gefährlicher als seine Größe vermuten lässt.
 
 Alle drei Fraktionen versuchen, die Resonanz-Begabten auf ihre Seite zu ziehen: mit Ehrlichkeit, mit List, mit Heimtücke.
 
@@ -575,7 +575,7 @@ Er hat das Portal aktiviert um Resonanz-Begabte nach Moragh zu bringen. Will sie
 
 **Varen hat die Vier gerufen.** Systematisch, über Agenten, über Jahrzehnte (für ihn: Wochen).
 
-**Schritt 1 — Agenten:** Er hat Moragh-Menschen durch das Portal geschickt — junge Männer und Frauen mit Grundausbildung in Thalassisch (von Elke gelernt, weitergegeben). Für ihn vergehen Wochen. Für die Agenten vergehen Jahrzehnte in Thalassien. Sie leben ganze Leben, bauen Infrastruktur, suchen Resonanz-Begabte. Haron Dahl (Maren), der Uhrmacher-Fremde (Vesper), der Artikel-Verfasser (Alphina), der Platten-Fälscher (Sorel) — vier Köder, vier Agenten, vier verschiedene Methoden.
+**Schritt 1 — Agenten:** Genau zwei Moragh-Menschen durch das Portal geschickt, mit Grundausbildung in Thalassisch (von Elke gelernt, weitergegeben) und gebundenen Schemen als Helfer (die Agenten können kein Handwerk). Für Varen vergehen Wochen. Für die Agenten vergehen Jahrzehnte in Thalassien. Sie leben ganze Leben. **Haron Dahl** — übernimmt die Werft, Köder für Maren. Stirbt an Alter + Schwerkraft. **Der Reisende** — eine Person, mehrere Rollen: Uhrmacher (Köder Vesper), Artikel-Verfasser (Köder Alphina), Platten-Fälscher (Köder Sorel). Zwei Agenten, vier Köder.
 
 **Schritt 2 — Manuskript und Ritual:** Er hat das Manuskript im Archiv überschrieben — die echten Aufzeichnungen aus TZ 154 mit falschen Anweisungen ergänzt. Er hat per Daemon die Ritual-Anleitung und das Moragh-Sprachbuch in Vael hinterlegt. Alles was die Vier brauchen um das Ritual auszuführen — glaubhaft verpackt als uralte Entdeckung.
 

@@ -16,7 +16,7 @@ Keine Erschöpfung. Kein Nasenbluten. Kein Hunger. Kein versteckter Preis. Kein 
 
 DAS ist der Konflikt. Nicht ein versteckter Preis — die UNGERECHTIGKEIT selbst. Jeder Moragh-Mensch bezahlt für jeden Zauber mit seinem Körper. Die Thalassier nicht. Das ist nicht fair. Es war nie fair. Es muss nicht fair sein.
 
-**Moragh zerfällt — aber nicht wegen der Thalassier.** Moragh zerfällt wegen dem KRIEG. Varens Experiment hat drei Quellen zerstört. Der Bund hat die Überladungs-Methode gestohlen und zerstört weitere. Die Fraktionen kämpfen um die verbleibenden Quellen. Die Resonanz-Begabten sind kein Gift. Sie sind eine potenzielle Lösung — oder eine Waffe. Die Fraktionen behaupten die Thalassier seien schuld, weil sie einen Sündenbock brauchen.
+**Moragh zerfällt — aber nicht wegen der Thalassier.** Moragh zerfällt wegen dem KRIEG. Varens Experiment hat drei Quellen zerstört. Der Bund hat die Überladungs-Methode gestohlen und zerstört weitere als Waffe. Es gibt genug verbleibende Quellen — der Krieg begann nicht aus Mangel, sondern aus Misstrauen (Thar glaubt Bund war's). Die Resonanz-Begabten sind kein Gift. Sie sind eine potenzielle Lösung — oder eine Waffe. Die Fraktionen behaupten die Thalassier seien schuld, weil sie einen Sündenbock brauchen.
 
 **Moragh-Geborene zahlen mit dem Körper.** Wie Sport. Müdigkeit, Muskelkater, Hunger. Erst bei Übergebrauch: Nasenbluten etc. Das Reservoir füllt sich durch Ruhe.
 
@@ -206,7 +206,7 @@ Selten. Kosten ALLE drei massiv. Max 2-3 Mal in der ganzen Trilogie.
    - Weit über die Grenze, chronisch: Altern, Organschäden, Tod.
    - Das Reservoir füllt sich durch Ruhe auf. Wie Ausdauer. Trainierbar.
 5. **Die Grenze der Thalassier ist MORALISCH, nicht physisch.** Sie KÖNNEN alles. Sie WÄHLEN nicht alles zu tun. Die Zurückhaltung kommt aus dem Wissen was es Moragh kostet.
-6. **Buch 1 = King (subtil).** Buch 2 = King → Yarros (Übergang). Buch 3 = Yarros (volle Kraft, Action, Konsequenzen).
+6. **Buch 1 = King (subtil).** Buch 2 = King → Yarros (Übergang). Buch 3 = Yarros (volle Kraft, Action, Konsequenzen). **Ursache der Progression:** Verstärkte Portaltätigkeit erzeugt größere Risse im Gewebe zwischen den Welten. Magie sickert aus der Moragh-Quelle nach Thalassien. Die Fähigkeiten der Vier entwickeln sich DADURCH — nicht intrinsisch, sondern weil mehr Magie durchkommt.
 7. **Kombinationen: Thalassier untereinander = kein Preis.** Thalassier + Moragh-Geborene = der Moragh-Geborene zahlt seinen Anteil.
 8. **Nach Zerstörung der Riss-Quelle:** Thalassien verliert alle Magie permanent. Moragh bleibt unverändert. Thalassier IN Moragh behalten ihre Resonanz.
 

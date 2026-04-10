@@ -169,12 +169,10 @@
             "titel": "Ankunft der Flüchtlinge aus Moragh",
             "detail": "Ohne Technologie, ohne Magie. Beginn der menschlichen Geschichte in Thalassien.",
             "typen": [
-              "schlüssel",
-              "portal"
+              "schlüssel"
             ],
             "tags": [
-              "Schlüsselereignis",
-              "Portal"
+              "Schlüsselereignis"
             ]
           }
         ],
@@ -599,11 +597,9 @@
             "titel": "Haron Dahl kommt durch das Portal",
             "detail": "Varens Agent. Übernimmt die Werft, lebt ein ganzes Leben in Vael, stirbt an Alter + Schwerkraft.",
             "typen": [
-              "portal",
               "tschechow"
             ],
             "tags": [
-              "Portal: Moragh → Thal.",
               "Tschechow: Boot + Werft"
             ]
           },
@@ -613,11 +609,9 @@
             "titel": "Weitere Agenten kommen durch",
             "detail": "Uhrmacher (Köder Vesper), Artikel-Verfasser (Köder Alphina), Platten-Fälscher (Köder Sorel).",
             "typen": [
-              "portal",
               "tschechow"
             ],
             "tags": [
-              "Portal: Moragh → Thal.",
               "Tschechow: Köder"
             ]
           }
@@ -1817,28 +1811,6 @@
           {
             "tz": 551,
             "mz": 0,
-            "kapitel": "23",
-            "typen": [
-              "brücke"
-            ],
-            "titel": "AUDIT: Bruecken-Kap ohne neuen Beat → in K25",
-            "pov": "Kap 23 · Sorel",
-            "tz_tag": 185,
-            "datum_text": "04.07.551 TZ",
-            "figuren": [
-              "Sorel"
-            ],
-            "ort": "Lichthaus, Vael",
-            "detail": "Innerer Monolog nach Dunkelkammer. Kein Plot-Fortschritt. Empfehlung: streichen.",
-            "tags": [
-              "Audit: streichen"
-            ],
-            "buch": "B1",
-            "kapitel_status": "szenenplan"
-          },
-          {
-            "tz": 551,
-            "mz": 0,
             "kapitel": "24",
             "typen": [
               "schlüssel",
@@ -2600,10 +2572,10 @@
             "titel": "Maren kommt an — allein, gestrandet",
             "detail": "~100 TZ seit dem Durchgang. Zu wenig Resonanz allein für den Rückweg. Absichtlich.",
             "typen": [
-              "portal"
+              "schlüssel"
             ],
             "tags": [
-              "Portal: Moragh → Thal."
+              "Schlüsselereignis"
             ]
           }
         ],
