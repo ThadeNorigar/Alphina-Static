@@ -7,7 +7,23 @@
       "tz_null": "Erfindung des Uhrwerks",
       "mz_null": "Besiedelung von Moragh",
       "verhaeltnis": "1 MZ-Jahr = 400 TZ-Jahre",
-      "monat": "1 MZ-Monat ≈ 33 TZ-Jahre"
+      "mz_kalender": {
+        "tag": "26 Stunden (Eigenrotation)",
+        "woche": "8 Tage (Gor-Umlauf, der Rote Mond)",
+        "monat": "36 Tage = 4,5 Wochen (Nyr-Umlauf, der Bleiche Mond)",
+        "jahr": "288 Tage = 8 Monate (Orbit um das Auge)",
+        "doppelflut": "alle 72 Tage (beide Monde in Konjunktion)",
+        "monate": [
+          {"nr": 1, "name": "Torash", "bedeutung": "Bogenwende", "halbjahr": "Licht"},
+          {"nr": 2, "name": "Ashral", "bedeutung": "Glutzeit", "halbjahr": "Licht"},
+          {"nr": 3, "name": "Keldath", "bedeutung": "Doppelflut", "halbjahr": "Licht"},
+          {"nr": 4, "name": "Reshvan", "bedeutung": "Ernteschluss", "halbjahr": "Licht"},
+          {"nr": 5, "name": "Dravon", "bedeutung": "Daemmerfall", "halbjahr": "Dunkel"},
+          {"nr": 6, "name": "Gormath", "bedeutung": "Rotmond", "halbjahr": "Dunkel"},
+          {"nr": 7, "name": "Nyrath", "bedeutung": "Bleichmond", "halbjahr": "Dunkel"},
+          {"nr": 8, "name": "Shelkam", "bedeutung": "Tiefnacht", "halbjahr": "Dunkel"}
+        ]
+      }
     },
     "schema": {
       "_doc": "Schema für state-tragende Events. Jeder Event lebt unter monate[i].events.thalassien|moragh. Pflichtfelder: tz, mz, titel, kapitel, typen. Drei strukturierte Event-Typen tragen zusätzliche Felder, die scripts/stand.py liest und zu einem Snapshot faltet (Wohnorte, Begegnungen, Wissen).",

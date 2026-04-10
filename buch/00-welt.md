@@ -174,7 +174,7 @@ Die Moragh-Menschen nennen es einfach "die Sonne." Sie wissen nicht was es ist. 
 
 **Oberfläche:** ~55-60% Wasser. Das Schwarze Loch (~10 Sonnenmassen) mit Akkretionsscheibe statt normaler Sonne. Zwei Monde.
 
-**Klima:** Gemäßigt-feucht. Kein Achsenneigung → **keine Jahreszeiten.** Temperatur relativ konstant (15-25°C auf dem Plateau). Regen alle 3-5 Tage. Diffuses Licht durch die Ringquelle (Akkretionsscheibe) — weichere Schatten als in Thalassien, sattere Farben weil das Lichtspektrum bläulicher/violetter ist. Keine Wüsten, kein Eis auf dem Plateau.
+**Klima:** Gemäßigt-feucht. Kein Achsenneigung → **keine Jahreszeiten.** Temperatur relativ konstant (18-28°C auf dem Plateau). Regen alle 3-5 Tage. Diffuses Licht durch die Ringquelle (Akkretionsscheibe) — weichere Schatten als in Thalassien, sattere Farben weil das Lichtspektrum bläulicher/violetter ist. Keine Wüsten, kein Eis auf dem Plateau.
 
 **Landmasse:** Ein einzelnes Hochplateau, ca. Europa-groß. Darauf spielt sich die gesamte bekannte Zivilisation ab. Das Plateau ragt 200-400 Meter über den Meeresspiegel. An manchen Stellen Steilklippen — senkrechte Felswände, hunderte Meter tief, das Meer darunter wie ein Abgrund. An anderen Stellen flacher Übergang — Küstenebenen die bei Flut komplett überschwemmt werden, kilometerweit. Beides unbewohnbar.
 
@@ -195,6 +195,55 @@ Das Schwarze Loch (~10 Sonnenmassen) erzeugt Gezeitenkräfte die ~5x stärker si
 **Die Moragh-Menschen sind Binnenländer.** Keine Seefahrt, keine Küstenstädte, kein Fischfang. Das Meer existiert als Geräusch am Rand der Welt — das Donnern der Gezeiten, hörbar bis weit ins Landesinnere (dichte Luft, Schall trägt weiter). Kinder lernen: geh nicht zum Rand. Die Küste hat keine Romantik. Sie hat Leichen.
 
 Das Plateau ist alles. Europa-groß, endlich. Das erklärt den Kampf um Reservoir-Quellen — es gibt nicht genug Land um auszuweichen. Expansion ist keine Option. Es gibt nur das was da ist.
+
+### Himmel, Monde und Kalender
+
+**Das Auge.** Die Moragh-Menschen nennen ihre Sonne "das Auge." Ein dunkler Kern — perfekte, saugende Schwärze — umgeben von einem gleißenden Ring aus Licht. Die Akkretionsscheibe bildet einen Bogen am Himmel, der sich über 60-90 Grad erstreckt. Eine Seite des Bogens ist bläulich-weiß (Doppler-blauverschoben, die Seite die sich auf Moragh zubewegt), die andere Seite dunkelrot-orange (rotverschoben). Dazwischen ein Verlauf von Weiß über Gold zu Kupfer zu Rot. Das Licht ist diffus — die Ringquelle erzeugt weiche Schatten, keine harten Kanten. Moragh kennt keine Mittagssonne und keinen scharfen Schatten. Alles ist in weiches, bernsteinfarbenes Licht getaucht.
+
+Das Auge steht nicht still. Die Orbitmechanik erzeugt einen Jahreszyklus: das Auge wandert leicht höher und tiefer am Himmel. Keine Temperaturänderung (immer 18-28°C), aber der Lichtwinkel variiert. Wenn der Bogen hoch steht: heller, kupferner Himmel. Wenn er tief steht: dunkler, der Horizont glüht, der Zenit ist fast schwarz. Nachts ist es nie wirklich dunkel — der Bogen verschwindet nie ganz, sein Glühen bleibt am Horizont.
+
+Sterne sind sichtbar, aber verzerrt. Die Gravitationslinsen des Schwarzen Lochs biegen das Licht — Sterne in der Nähe des Auges erscheinen als verzerrte Bögen, nicht als Punkte. Der Nachthimmel sieht flüssig aus, als würde er atmen.
+
+**Zwei Monde.**
+
+| | Gor (der Rote) | Nyr (der Bleiche) |
+|---|---|---|
+| Durchmesser | ~1.800 km | ~800 km |
+| Oberfläche | Vulkanisch aktiv — Lavafelder, Calderen, Schwefelflecken | Eis und nackter Fels, tot, glatt |
+| Farbe am Himmel | Kupfer bis Blutrot, mit sichtbaren dunklen Flecken | Silbrig-Weiß bis Bläulich |
+| Scheinbare Größe | ~0,85° (fast doppelt so groß wie der Thalassien-Mond) | ~0,14° (kleiner Punkt, aber deutlich sichtbar) |
+| Umlaufzeit | **8 Moragh-Tage** | **36 Moragh-Tage** |
+
+Gor ist Gezeitengebunden — die Nähe zum Planeten hält sein Inneres flüssig. Er glüht in manchen Nächten so hell, dass sein rotes Licht den bernsteinfarbenen Himmel ins Kupfrige verschiebt. Nyr ist tot und kalt. Er bewegt sich langsam, ein bleicher Geisterpunkt, tagsüber oft sichtbar.
+
+**Der Kalender.** Basiert auf den Mondumlaufzeiten. Rein astronomisch, unabhängig von Magie.
+
+| Einheit | Länge | Basis |
+|---|---|---|
+| Tag | ~26 Stunden | Eigenrotation |
+| Woche | 8 Tage | Gor-Umlauf (der Rote) |
+| Monat | 36 Tage = 4,5 Wochen | Nyr-Umlauf (der Bleiche) |
+| Jahr | 288 Tage = 8 Monate | Orbit um das Auge |
+
+**Alle ~72 Tage** (zweimal pro Monat) stehen beide Monde in Konjunktion — die Doppelflut. Gezeiten verdoppeln sich. Küsten werden unpassierbar. Ein festes Datum im Kalender.
+
+**Die acht Monate** und ihre Herleitung:
+
+**Lichthalbjahr** (Bogen hoch, Himmel kupfern, Schatten kurz):
+
+1. **Torash** — *Bogenwende.* Der Bogen steigt über den Zenit. Neujahr. Benannt nach dem alten Wort *tor* (Bogen, Schwelle). Hellster Übergang.
+2. **Ashral** — *Glutzeit.* Der Bogen steht am höchsten. Hellster Monat. Die Welt leuchtet kupfern. *Ash* (Glut) + *ral* (Zeit, Dauer).
+3. **Keldath** — *Doppelflut.* Die erste große Doppelflut des Halbjahres fällt traditionell in diesen Monat. *Kel* (doppelt, Paar) + *dath* (Wasser, Flut).
+4. **Reshvan** — *Ernteschluss.* Letzter heller Monat. Die Felder werden abgeerntet bevor das Licht nachlässt. *Resh* (Feld, Fläche) + *van* (Ende, Schluss).
+
+**Dunkelhalbjahr** (Bogen tief, Horizont glüht, Zenit dunkel):
+
+5. **Dravon** — *Dämmerfall.* Der Bogen sinkt. Schatten werden länger, diffuser. *Drav* (fallen, sinken) + *on* (Licht, Schein). Die Stadt Dravek ist nach diesem Monat benannt.
+6. **Gormath** — *Rotmond.* Im Dunkelhalbjahr dominiert der rote Mond den Himmel — sein kupfernes Licht ersetzt das schwächere Auge. *Gor* (der Rote Mond) + *math* (Herrschaft, Dominanz).
+7. **Nyrath** — *Bleichmond.* Der weiße Mond steht am hellsten. Stille Zeit. Die Welt ist in blasses Silberlicht getaucht. *Nyr* (der Bleiche Mond) + *ath* (Atem, Stille).
+8. **Shelkam** — *Tiefnacht.* Dunkelster Monat. Der Bogen kaum über dem Horizont. Nur Monde und verzerrte Sterne. *Shel* (tief, Grund) + *kam* (Nacht, Dunkel).
+
+**Anmerkung:** Die Moragh-Menschen messen keine Jahreszeiten im Thalassien-Sinn. Die Temperatur ändert sich nicht. Der Kalender markiert **Lichtphasen**, nicht Wärme — wie hell der Bogen steht, welcher Mond dominiert, wann die Doppelflut kommt. Für die Menschen ist der Unterschied zwischen Ashral und Shelkam nicht "warm vs. kalt" sondern "hell vs. still."
 
 ### Zivilisation
 
