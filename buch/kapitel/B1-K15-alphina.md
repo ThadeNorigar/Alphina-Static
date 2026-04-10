@@ -6,13 +6,9 @@ Der Nebel kam am fünften Morgen zurück, als hätte er nie aufgehört. Alphina 
 
 Henrik war am Komposthaufen. Sie hörte seine Schaufel, das Aufkratzen auf dem Kies, den halben Schritt mit dem linken Bein, das schleifte. Im Treibhaus zwei tropfte Kondenswasser gegen die Scheibe, ein unregelmäßiges Ticken, das sie nicht zählte.
 
-Der Schemen saß auf dem Steinkreis.
+Sie schnitt den nächsten Stängel. Ihre Hände waren ruhig. Im Boden unter den Knien pulsierte der schwache Schlag, den sie seit Wochen kannte, langsamer als ihr eigener Herzschlag, tiefer, als käme er durch Schichten.
 
-Sie sah ihn nicht direkt an. Sie hatte gelernt, dass er ging, wenn sie ihn direkt ansah — einfach weg, ohne Auflösung, als wäre er nie da gewesen. Also arbeitete sie weiter, Schere, Stängel, Schere, und hielt den Steinkreis im peripheren Sichtfeld, dort wo die Konturen blieben. Das Wesen war größer als die drei auf der Mauer in jener Nacht mit Sorel. Wolfshaft, die Schultern breit und nach vorne gebeugt, der Kopf zwischen den Vorderläufen, der Rücken eine Linie die in den Nebel auslief und an den Rändern rauchte. Es saß nicht hinter dem Kreis, nicht vor ihm. Es saß auf dem Rand des nächsten Steins, auf der Kante, auf dem Purpur selbst. Das war neu.
-
-Sie schnitt den nächsten Stängel. Ihre Hände waren ruhig. Im Boden unter den Knien pulsierte der schwache Schlag, den sie seit Wochen kannte, langsamer als ihr eigener Herzschlag, tiefer, als käme er durch Schichten. Der Schemen rührte sich nicht. Er saß und schaute in die Richtung, in der sie kniete, und der Rauch an seinen Schultern stieg gerade auf, weil kein Wind ging.
-
-Henrik kam um die Hortensie, Gießkrug in beiden Händen, die Brille vorn auf der Nase. Er ging am Steinkreis vorbei, drei Schritte Abstand, und sah zur Seite — der Blick auf den Boden, die Schulter weg, die Art wie man an etwas vorbeigeht, das man nicht mehr fragen will. Er stellte den Krug neben die Lavendelreihe ab.
+Henrik kam um die Hortensie, Gießkrug in beiden Händen, die Brille vorn auf der Nase. Er ging am Steinkreis vorbei und stellte den Krug neben die Lavendelreihe ab.
 
 "Die Stecklinge von Mittwoch sind durch. Alle zwölf."
 
@@ -24,9 +20,7 @@ Henrik kam um die Hortensie, Gießkrug in beiden Händen, die Brille vorn auf de
 
 "Schwer zu sagen. Irgendwas stimmt mit dem Wuchs nicht. Vielleicht siehst du's." Er tippte an die Mütze und ging zurück zum Treibhaus.
 
-Alphina blieb knien. Der Lavendelstängel in ihrer Hand war warm, der Schnittgeruch grün und scharf. Der Schemen saß noch auf dem Steinkreis, und sie stellte fest, dass sein Dasein aufgehört hatte, sie zu erschrecken. Irgendwann zwischen den drei auf der Mauer und dem hier, zwischen Mai und Mai, war die Angst in etwas anderes übergegangen — in eine Aufmerksamkeit, die wacher war als Angst und weniger laut. Sie legte den Stängel ab und richtete sich halb auf, um die Knie zu entlasten. Zwei weitere Schemen standen zwischen den Hortensienbeeten, kleiner, katzengroß, ihre Silhouetten diffus im Nebelgrau. Sie schauten in ihre Richtung.
-
-Sie waren tagsüber da, am fünften Nebeltag in Folge.
+Alphina blieb knien. Der Lavendelstängel in ihrer Hand war warm, der Schnittgeruch grün und scharf. Der Schemen saß noch auf dem Steinkreis, und sie stellte fest, dass sein Dasein aufgehört hatte, sie zu erschrecken. Irgendwann zwischen den drei auf der Mauer und dem hier, zwischen Mai und Mai, war die Angst in etwas anderes übergegangen — in eine Aufmerksamkeit, die wacher war als Angst und weniger laut. Sie legte den Stängel ab und richtete sich halb auf, um die Knie zu entlasten.
 
 Schritte auf dem Kies. Leichter als Henriks, schneller, ohne Schleifen. Alphina drehte sich um.
 
@@ -62,11 +56,15 @@ Runa blieb noch eine halbe Stunde. Sie redeten über das dritte Flugblatt, das R
 
 Am Gartentor drehte Runa sich um und winkte, kurz, mit der Hand, die nicht das Notizbuch hielt. Dann war sie weg.
 
-Alphina saß still. Das Klicken von Henriks Schere kam von irgendwo hinter dem Treibhaus. Der Nebel hatte sich nicht bewegt, seit sie sich heute Morgen hingekniet hatte — er lag auf dem Garten, schwer und reglos, den ganzen Tag schon. Die zwei kleinen Schemen zwischen den Hortensien waren noch da. Der große auf dem Steinkreis auch.
+Alphina saß still. Das Klicken von Henriks Schere kam von irgendwo hinter dem Treibhaus. Der Nebel hatte sich nicht bewegt, seit sie sich heute Morgen hingekniet hatte — er lag auf dem Garten, schwer und reglos, den ganzen Tag schon.
 
-Als Runa das Tor geschlossen hatte — der schwere hölzerne Klang, dem ein leises Nachschwingen folgte — drehte der Wolfshaft-Schem den Kopf. Nicht Runa nach. Er drehte den Kopf auf Alphina, langsam, mit einer Trägheit die nicht Müdigkeit war, und blieb.
+Als Runa das Tor geschlossen hatte — der schwere hölzerne Klang, dem ein leises Nachschwingen folgte — erschien der Wolfshaft-Schem am Gartenrand.
 
-Er wartete nicht auf den Garten. Er wartete auf sie. Und Runa hatte den Mittelpunkt auf den Boden gezeigt, aber der Mittelpunkt war nicht der Boden.
+Nicht nah. Dort wo die Hortensienreihe in den Nebel auslief, dreißig Schritte entfernt, kaum mehr als eine Linie im Grau — die Schultern nach vorne gebeugt, der Rücken an den Rändern rauchend. Zwei kleinere Gestalten zwischen den Kübeln, katzengroß, reglos. Sie schaute sie nicht direkt an. Sie hatte gelernt, dass sie gingen wenn man sie ansah — also ließ sie den Blick seitlich gleiten und hielt die Konturen.
+
+Sie waren tagsüber da, am fünften Nebeltag in Folge.
+
+Der Wolfshaft-Schem drehte den Kopf auf sie. Langsam, mit einer Trägheit die nicht Müdigkeit war, und blieb. Er wartete nicht auf den Garten. Er wartete auf sie. Und Runa hatte den Mittelpunkt auf den Boden gezeigt, aber der Mittelpunkt war nicht der Boden.
 
 Sie stand auf. Das steife rechte Knie meldete sich kurz. Sie nahm die Schere und ging zurück zu den Lavendelbüschen, weil Arbeit das war, was sie kannte, und weil Hände in der Erde das Geländer waren, das sie brauchte.
 
