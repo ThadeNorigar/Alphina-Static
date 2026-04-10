@@ -56,7 +56,7 @@ Sie hielt an, mitten in der Hafengasse, und schaute aus dem Augenwinkel zu den D
 
 Leer.
 
-Sie wartete noch, weil sie wissen wollte, ob das Verschwinden zuverlässig war. Es war zuverlässig, solange sich Menschen in der Gasse bewegten. Die Frau mit der Wäsche hängte den letzten Bogen auf, ging hinein, schloss die Tür. Alphinas Augenwinkel registrierte sofort wieder etwas auf einem Schornstein zwei Häuser weiter — eine Form, ein Augenpaar, dann zwei. Sie fixierte den Schornstein. Leer.
+Sie wartete noch, weil sie wissen wollte, ob das Verschwinden zuverlässig war. Es war zuverlässig, solange sich Menschen in der Gasse bewegten. Die Frau mit der Wäsche hängte das letzte Laken auf, ging hinein, schloss die Tür. Alphinas Augenwinkel registrierte sofort wieder etwas auf einem Schornstein zwei Häuser weiter — eine Form, ein Augenpaar, dann zwei. Sie fixierte den Schornstein. Leer.
 
 Sie ging die letzten dreißig Schritte zum Anker schneller.
 

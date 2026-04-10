@@ -126,7 +126,7 @@ Sie war nicht die einzige.
 
 "Lass mich das erst überlegen."
 
-"Gut." Runa nickte. Sie hatte die Antwort nicht erwartet und nicht nicht erwartet, sie nahm sie, wie sie kam. Dann legte sie die Hand auf das Flugblatt und schob es Alphina einen halben Zentimeter näher. "Da ist noch etwas. Das Andere, von Halvard. Ich will nicht warten, bis die Wäscherin zum zweiten Mal eine Hand auf dem Fuß spürt."
+"Gut." Runa nickte. Sie hatte die Antwort weder erwartet noch ausgeschlossen, sie nahm sie, wie sie kam. Dann legte sie die Hand auf das Flugblatt und schob es Alphina einen halben Zentimeter näher. "Da ist noch etwas. Das Andere, von Halvard. Ich will nicht warten, bis die Wäscherin zum zweiten Mal eine Hand auf dem Fuß spürt."
 
 "Die Wäscherin aus der Flechtergasse."
 

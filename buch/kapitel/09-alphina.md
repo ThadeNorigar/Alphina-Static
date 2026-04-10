@@ -110,7 +110,7 @@ Sie drehte sich um, langsam diesmal, weil sie sich zwang. Es war nicht Henrik.
 ---
 
 
-Runa Kvist kam den Hauptweg hoch, ohne zu zögern, mit einem Korb über dem Arm und einem Stapel Flugblätter unter dem Korb und einem Mantel, der eine Nummer zu groß war. Der Mantel gehörte ihr wahrscheinlich nicht. Die Schultern hingen daran, die Ärmel waren zweimal umgekrempelt, und an dem zurückgeschlagenen Ärmel — der, der nicht den Korb hielt — war der Unterarm zu sehen bis zur Mitte. Die Haut dort war weißer als bei einer Frau, die draußen arbeitete, aber die Innenseite des Handgelenks und die Handwurzel waren schwarz. Druckerschwärze, tief in die Poren gearbeitet, die Haut darunter durchscheinend dass man die Adern sah. Am Hals, wo der Mantelkragen aufstand, lief eine Sehne, wenn Runa den Kopf drehte.
+Runa Kvist kam den Hauptweg hoch, ohne zu zögern, mit einem Korb über dem einen Arm und einem Stapel Flugblätter unter dem anderen und einem Mantel, der eine Nummer zu groß war. Der Mantel gehörte ihr wahrscheinlich nicht. Die Schultern hingen daran, die Ärmel waren zweimal umgekrempelt, und an dem zurückgeschlagenen Ärmel — der, der nicht den Korb hielt — war der Unterarm zu sehen bis zur Mitte. Die Haut dort war weißer als bei einer Frau, die draußen arbeitete, aber die Innenseite des Handgelenks und die Handwurzel waren schwarz. Druckerschwärze, tief in die Poren gearbeitet, die Haut darunter durchscheinend dass man die Adern sah. Am Hals, wo der Mantelkragen aufstand, lief eine Sehne, wenn Runa den Kopf drehte.
 
 "Im Anker haben sie gesagt, du bist nachmittags hier." Sie blieb drei Schritte vor Alphina stehen, an der Südseite des Hügels, knapp hinter der Buchsbaumöffnung. Sie atmete einmal aus. "Ich brauch fünfzehn Minuten. Können wir uns hinsetzen?"
 
@@ -236,7 +236,7 @@ Sie war nicht die einzige.
 
 "Lass mich das erst überlegen."
 
-"Gut." Runa nickte. Sie hatte die Antwort nicht erwartet und nicht nicht erwartet, sie nahm sie, wie sie kam. Dann legte sie die Hand auf das Flugblatt und schob es Alphina einen halben Zentimeter näher. "Da ist noch etwas. Das Andere, von Halvard. Ich will nicht warten, bis die Wäscherin zum zweiten Mal eine Hand auf dem Fuß spürt."
+"Gut." Runa nickte. Sie hatte die Antwort weder erwartet noch ausgeschlossen, sie nahm sie, wie sie kam. Dann legte sie die Hand auf das Flugblatt und schob es Alphina einen halben Zentimeter näher. "Da ist noch etwas. Das Andere, von Halvard. Ich will nicht warten, bis die Wäscherin zum zweiten Mal eine Hand auf dem Fuß spürt."
 
 "Die Wäscherin aus der Flechtergasse."
 
@@ -350,7 +350,7 @@ Sie hielt an, mitten in der Hafengasse, und schaute aus dem Augenwinkel zu den D
 
 Leer.
 
-Sie wartete noch, weil sie wissen wollte, ob das Verschwinden zuverlässig war. Es war zuverlässig, solange sich Menschen in der Gasse bewegten. Die Frau mit der Wäsche hängte den letzten Bogen auf, ging hinein, schloss die Tür. Alphinas Augenwinkel registrierte sofort wieder etwas auf einem Schornstein zwei Häuser weiter — eine Form, ein Augenpaar, dann zwei. Sie fixierte den Schornstein. Leer.
+Sie wartete noch, weil sie wissen wollte, ob das Verschwinden zuverlässig war. Es war zuverlässig, solange sich Menschen in der Gasse bewegten. Die Frau mit der Wäsche hängte das letzte Laken auf, ging hinein, schloss die Tür. Alphinas Augenwinkel registrierte sofort wieder etwas auf einem Schornstein zwei Häuser weiter — eine Form, ein Augenpaar, dann zwei. Sie fixierte den Schornstein. Leer.
 
 Sie ging die letzten dreißig Schritte zum Anker schneller.
 

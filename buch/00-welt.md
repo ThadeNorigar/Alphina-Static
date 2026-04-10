@@ -258,9 +258,9 @@ Moragh hat **Reservoir-Quellen** — Energiepunkte in der Erde, vergleichbar mit
 
 | Quelle | Kategorie | ehem. Fraktion | Lage | Folge |
 |--------|-----------|----------------|------|-------|
-| **Keth-Varen** | Riesig | Bund von Orath | Zentralplateau | Größte Einzelkatastrophe. ~120.000 Menschen verloren ihre Quelle. Ruinenstadt, Todzone |
-| **Dulrath-Ost** | Groß | Bund von Orath | Östliches Grenzland | Handelsstadt verdorrt. Flüchtlinge nach Orath |
-| **Reshkol** | Groß | Velmar | Velmar-Randgebiet | Velmar verlor ein Fünftel seiner Magiekapazität. Kastensystem verschärfte sich |
+| **Mar-Keth** | Riesig | Velmar (ehem. Kernstadt) | Zentralplateau-Ost | Größte Einzelkatastrophe. ~120.000 Menschen verloren ihre Quelle. Ruinenstadt, Todzone. Varens Herkunftsstadt — trug seinen Namen nicht, aber er stammte von hier |
+| **Dulrath-Ost** | Groß | Bund von Orath | Östliches Grenzland | Handelsstadt verdorrt. Flüchtlinge nach Orath. Lag nahe der Velmar-Grenze und wurde in die Kettenreaktion mit hineingezogen |
+| **Reshkol** | Groß | Velmar-Randgebiet | Velmar-Grenze zu Orath | Velmar verlor ein Fünftel seiner Magiekapazität. Kastensystem verschärfte sich |
 
 Die Städte auf diesen Quellen verdorrten. Das Gleichgewicht kippte. Der Krieg begann.
 
@@ -430,7 +430,7 @@ Dreißig. Druck-Resonanz. Pilotiert eine Thar-Bestie (Magitech Walker, 8-12m, 3-
 | **Konglomerat der Thar** | ~2,5 Mio. | ~20% | Ost- und Nordostplateau |
 | **Velmar** | ~0,7 Mio. | ~3% | Südwestliches Randgebiet |
 | **Freie/Ungebundene Städte** | ~7 Mio. | ~35% | Verstreut, oft zwischen den Fronten |
-| **Todzone (tote Quellen)** | — | ~12% (verloren) | Keth-Varen, Dulrath-Ost, Reshkol |
+| **Todzone (tote Quellen)** | — | ~12% (verloren) | Mar-Keth, Dulrath-Ost, Reshkol |
 
 Die Freien Städte stellen die Mehrheit der Bevölkerung — ein loses Netz ohne zentrale Struktur, verhandlungsbereit, verwundbar. Werden stückweise geschluckt.
 
@@ -448,7 +448,7 @@ Die Freien Städte stellen die Mehrheit der Bevölkerung — ein loses Netz ohne
 
 **Warum der Bund den Krieg verliert:** Nicht weil er schwächer ist — der Bund HAT mehr Menschen, mehr Quellen, mehr Erfahrung. Er verliert weil zwanzig Städte zwanzig Meinungen haben. Jede Stadt bezahlt ihre eigene Armee, koordiniert schlecht. Die Thar hat EINE Kommandokette. Der Bund hat Ausschüsse.
 
-**Bevölkerung:** ~5,5 Millionen. Das Kernland des Plateaus. Die reichsten Quellen, die ältesten Städte. Die Zivilisation von Moragh. (Nach dem Quellen-Kollaps von Keth-Varen und Dulrath-Ost stark geschrumpft — ehemals deutlich mehr.)
+**Bevölkerung:** ~5,5 Millionen. Das Kernland des Plateaus. Die reichsten Quellen, die ältesten Städte. Die Zivilisation von Moragh. (Nach dem Quellen-Kollaps von Dulrath-Ost stark geschrumpft — ehemals deutlich mehr. Der Bund hat den Kollaps nie mit Varen in Verbindung gebracht; er gilt bis heute als "natürliche Katastrophe" oder "Velmar-Unfähigkeit".)
 
 **Der Bund und die Quellen-Überladung:** Der Bund hat Varens Forschung über Quellen-Überladung gestohlen oder rekonstruiert. Die einflussreichsten Kriegstreiber im Bund verstehen das Prinzip und nutzen es als Waffe — systematische Zerstörung feindlicher Quellen. Nicht offiziell, nicht alle Städte. Aber die Strategen die den Krieg wirklich lenken planen die permanente Vernichtung der Thar-Quellen. Wer die Quellen des Gegners zerstört, gewinnt permanent. Das macht den Bund zur "zivilisierten" Seite die im Kern genau so brutal ist wie alle anderen.
 
@@ -535,7 +535,7 @@ Orath, Velmar, Thar. Jeder will die Resonanz-Begabten. Elke misstraut allen drei
 
 **Name: Varen.** Moragh-geboren. Groß, muskulös, graue Schläfen, schwarzes Haar. Augen: tiefes Purpur. Attraktiv. Charmant — nicht gespielt, echt. Das macht ihn gefährlicher.
 
-**Unabhängig. Aus ALLEN Fraktionen ausgestoßen.** Forscher, kein Soldat. War bei den Gilden — sein Experiment hat den Krieg ausgelöst (siehe "Varens Schuld"). War in Velmar — zu eigenständig. War bei der Thar — zu gefährlich (sie ahnen dass er mehr weiß als er sagt). Keine Fraktion will ihn. Alle fürchten ihn. Er handelt auf eigene Faust, mit einem Handvoll Deserteuren die ihm folgen.
+**Ausgestoßen. Einzelgänger. Ein Schatten in den Grenzlanden.** Forscher, kein Soldat. **Varen war Velmar** — Moragh-geboren in Mar-Keth, innerhalb der Velmar-Kaste aufgestiegen als Leylinien-Forscher. Die Velmar haben ihn nach dem Experiment ausgestoßen (siehe "Varens Schuld") — verdeckt, ohne Anklage, ohne öffentliches Urteil. Die anderen Fraktionen — Bund, Thar, freie Städte — wissen nichts von ihm. Für Orath und die Thar ist er ein Gerücht, ein Einsiedler, ein radikaler Theoretiker den sich niemand leisten will. Seinen Namen verbindet außerhalb Velmars niemand mit dem Quellen-Kollaps. Er operiert allein, mit einer Handvoll Velmar-Deserteuren die seine Schuld kennen und trotzdem bei ihm bleiben, weil sie an die Wiedergutmachung glauben.
 
 **Mächtig. GUT GENÄHRT. In Form.** Nicht ausgemergelt, nicht am Ende. Das Portal zu öffnen hat ihn Monate gekostet, aber er hat sich ERHOLT. Großes Reservoir, jahrelange Erfahrung. Seine Magie kostet ihn (er ist Moragh-geboren) — Müdigkeit nach dem Kampf, ja. Aber er hat Reserven.
 
@@ -543,13 +543,15 @@ Orath, Velmar, Thar. Jeder will die Resonanz-Begabten. Elke misstraut allen drei
 
 ### Varens Schuld
 
-**VOR DEM KRIEG:** Varen war Gilden-Forscher. Brilliant, ehrgeizig. Er forschte an den Leylinien — nicht an der Kopplung (die funktioniert, die Thar beweisen es), sondern an der KAPAZITÄT. Er wollte wissen wie viel Energie eine Quelle aufnehmen kann. Die Antwort: nicht unbegrenzt. Er hat eine Quelle fernüberlastet — zu viel Druck über eine Leylinie hineingedrückt. Die Quelle kollabierte. Kettenreaktion über natürliche Leylinien-Verbindungen. **Drei Reservoir-Quellen zerstört. Unwiederbringlich.**
+**VOR DEM KRIEG:** Varen war Velmar-Forscher. Brilliant, ehrgeizig, einer der jüngsten Binder seiner Generation. Er forschte an den Leylinien — nicht an der Kopplung (die funktioniert, die Thar beweisen es), sondern an der KAPAZITÄT. Motiv: das Überbevölkerungsproblem Moraghs. Quellen und Versorgung sind endlich, die Plateaus tragen nur eine begrenzte Zahl an Menschen. Varen wollte die bestehenden Quellen **stärken** — mehr Kapazität in die vorhandenen Flöze pumpen, damit mehr Menschen an einer Quelle leben können. Er hat drei benachbarte Quellen unter Mar-Keth zu einem Leylinien-Experiment verbunden und versucht, Energie zwischen ihnen auszugleichen. Das System schlug durch. **Drei Reservoir-Quellen zerstört. Unwiederbringlich.** Kein Kalkül, kein Opfer — ein Unfall. Er wollte niemanden opfern. Er hat 200.000 Menschen ihre Heimat gekostet.
 
 Er hat damit die Leylinien-Waffe entdeckt. Und gleichzeitig eingesetzt — versehentlich, aber das Ergebnis ist dasselbe.
 
-Die Städte auf den drei Quellen verdorrten. Menschen starben — nicht sofort, aber über Jahre. Die verbleibenden Quellen wurden knapp. Fraktionen die vorher koexistierten begannen um Ressourcen zu kämpfen. **Der Krieg begann wegen Varen.** Niemand weiß es. Er war allein beim Experiment. Tausende Tote. Und es wird schlimmer.
+Die Städte auf den drei Quellen verdorrten. Menschen starben — nicht sofort, aber über Jahre. Die verbleibenden Quellen wurden knapp. Fraktionen die vorher koexistierten begannen um Ressourcen zu kämpfen. **Der Krieg begann wegen Varen** — nicht weil jemand die Schuld auf jemanden schob, sondern weil das Vakuum reichte. Die Quellen fehlten, die Fraktionen griffen sich gegenseitig an.
 
-Die Gilden haben ihn ausgestoßen — nicht wegen des Experiments (das kennen sie nicht), sondern wegen seiner "radikalen Theorien". Dass er den wahren Grund für den Quellen-Kollaps kennt, weiß niemand.
+**Die Velmar wissen es und vertuschen es.** Mar-Keth war eine ihrer Kernstädte, Reshkol ihre Randquelle. Sie haben Varen verdeckt ausgestoßen — ohne öffentliche Anklage, ohne Gerichtsverfahren, ohne Eintrag in Velmar-Registern. Sie schweigen aus zwei Gründen: (1) Eine Velmar-Verantwortung für den Quellen-Kollaps würde den Krieg gegen Velmar verschärfen und ihre ohnehin schwache Position ruinieren. (2) Ihr Kastensystem beruht auf dem Ideal der "Reinheit der Bindung" — ein Velmar-Forscher der drei Quellen tötet ist ein theologisches Problem, nicht nur ein politisches. Velmar trägt den Cover-Up als kollektive Schuld. Eine Handvoll Velmar-Binder wissen alles. Der Rest ahnt "da war etwas" und fragt nicht nach.
+
+**Die anderen Fraktionen wissen nichts.** Bund, Thar, freie Städte — für sie ist der Quellen-Kollaps eine natürliche Katastrophe, ein Ermüdungsbruch im Gestein, oder im schlimmsten Fall "Velmar-Unfähigkeit" (ein mit den Velmar-Kastensystem verbundenes Versagen). Niemand hat Varens Namen mit dem Ereignis verknüpft. Er ist draußen, und er bleibt draußen, solange Velmar schweigt.
 
 ### Was er weiß
 
@@ -599,23 +601,34 @@ Sorel bewegt sich. Instinkt. Geht zwischen Varen und Alphina. "Nimm die Hand weg
 
 **Varen tötet Sorel nicht absichtlich — nimmt es aber in Kauf.** Die Bindung war nicht zum Töten gedacht, sondern zum Fixieren. Sorels Resonanz war instabil, sein Körper hat es nicht ausgehalten. Sorel stirbt weil er Alphina vor Varens Berührung schützt. Entscheidung, nicht Pech. Aber auch nicht Mord — Totschlag durch Fahrlässigkeit eines Mannes der sein Ziel über Menschenleben stellt.
 
-Alphinas Explosion: Stille. Dann alles. Wurzeln reißen durch Stein. Ranken peitschen. Dornen groß wie Finger. Der Moragh-Steinplatz wird Dschungel. Varen wird zurückgedrückt — Wand aus Vegetation. Die eigenen Leute verletzt: Maren (Dornen in Wade), Vesper (Wurzel trifft Schulter), Runa (Brombeeren, Schnitte). Auf Sorels Körper: kleine weiße Blumen.
+Alphinas Explosion: Stille. Dann alles. **Pechschwarze** Wurzeln reißen durch Stein. Ranken peitschen, schwarz und glänzend wie gebrannte Kohle. Dornen groß wie Finger. Der Moragh-Steinplatz wird kein Dschungel — er wird eine **Anti-Flora**: Pflanzen ohne Grün, ohne Chlorophyll, ohne Licht. Anthocyane statt Photosynthese, tiefe Purpurtöne in den Stängeln, Blüten in Blutrot und Schwarz. Durchwuchs durch die Schemen — Wurzel durchbricht Schem, aus den Bruchstellen blutrote Blüten, so dunkel dass sie fast schwarz sind. Zellteilung kehrt sich um: 10.000 Nadelstiche gleichzeitig, der Schem wird Staub. Wurzelgreifer aus dem Boden ziehen Schemen nach unten, die Erde öffnet sich in purpurroten Spalten und frisst sie.
 
-**Varen zieht sich TAKTISCH zurück.** Nicht besiegt — hat unterschätzt wie viel Magie er braucht. Er kommt wieder. In Buch 2. Stärker. Besser vorbereitet.
+**Ihr Körper wird Teil des Wachstums.** Ihr Rücken reißt auf entlang der Wirbelsäule — aus dem Riss wächst eine schwarze Wurzel zehn Meter in den Boden. Für eine Minute ist sie ein Baum: schwarze Rinde, keine Blätter, nur Dornen. Dann zieht sie die Wurzel zurück, der Riss heilt schneller als er aufgegangen ist. Eine Narbe entlang ihrer Wirbelsäule bleibt. Sie wird größer — einen halben Meter, gewaltsam, Wirbel knirschen. Ihre Augen sind leer während ihr Körper wächst.
+
+Varen wird zurückgedrückt — Wand aus schwarzer Vegetation. Die eigenen Leute verletzt: Maren (Dornen in Wade), Vesper (Wurzel trifft Schulter), Runa (Brombeeren, Schnitte). Auf Sorels Körper: **blutrote und schwarze Blüten mit purpurnen Kanten**, wie Wunden in Blumenform. Diese Blüten bleiben — alles andere stirbt, wenn Alphina aufhört.
+
+**Varen rennt.** Nicht würdevoll — erschöpft, vom Zorn zurückgedrängt. Seine Magie ist zyklisch (Körper-Preis), Alphinas ist azyklisch (Emotion-gespeist, kein Reservoir, keine Grenze). Ein Moragh-Meister gegen eine Thalassier-Anfängerin, und sie zermalmt ihn weil ihre Wut nicht erschöpflich ist. Er zieht sich hinter die letzten stehenden Schemen zurück, spuckt einen Satz: *"Wir sehen uns nicht das letzte Mal."* In 1423er Thalassisch. Dann ist er weg.
+
+**Die Farblogik als Tschechow-Saat:** Alphinas Magie war in Thalassien immer lebendig grün — Farne, Gemüse, Photosynthese. In Moragh, unter Zorn, unter Sorels Tod, kippt die Farbe. Dasselbe Wachstum, aber ohne Licht — Anthocyane und Melanin statt Chlorophyll. **Es ist dieselbe Kraft in einer Welt ohne Sonne.** Das ist kein böser Zauber — es ist Moragh-Magie. Sie ist heimisch geworden in einer Welt in der sie gerade angekommen ist. Das ist der Horror, den die anderen drei sehen: sie gehört schon hierher. In Buch 2-3 bleibt die Farbe ihr Gradmesser — ruhig wächst es grün, wütend schwarz/rot.
 
 ### Varens Rolle in der Trilogie
 
-**Buch 1:** Das Portal. Die Berührung. Sorels Tod. Taktischer Rückzug. Die Helden halten ihn für den Feind.
-**Buch 2:** Erholt. Stärker als zuvor. Forscht weiter. Lehrt Talven die Resonanz-Ernte. Bietet Alphina einen Deal an — Information gegen Information. Kein Kampf, kein Sieg. **Die Wahrheit sickert durch:** Vesper (Mustererkenner) rekonstruiert aus Daten, dass der Quellen-Kollaps kein Naturereignis war. Die Thar verfolgen dieselbe Leylinien-Idee — und Varen kann sie nicht warnen ohne sich zu verraten.
-**Buch 3:** Die Schuld wird offenbar. Varen gesteht — oder wird entlarvt. Hilft beim Bau der Naht-Maschine — sein Wissen über Leylinien und Quellen ist entscheidend, gerade WEIL er den Fehler schon einmal gemacht hat. Stirbt webend — diesmal die Quellen richtig verbindend. Fäden statt Ketten. Nicht Erlösung — Wiedergutmachung. Sein letztes Muster wird Teil der Naht.
+**Buch 1:** Das Portal. Die Berührung. Sorels Tod. Erschöpfter Rückzug. Die Helden halten ihn für den Feind.
+**Buch 2:** Erholt. Beobachtet. Die ersten zwei Drittel des Buches bleibt er Alphinas **Feind** — sie hasst ihn aktiv, trainiert ihre Resonanz beim Bund als Waffe gegen ihn. Ab Mitte Buch 2 wachsen ihre **Zweifel am Bund**: Kommandanten die zu genau wissen wo feindliche Quellen liegen, Gespräche die abbrechen, Karten die eingerollt werden. Sie fragt nicht laut, aber sie fragt. Am 2/3-Mark zerstört sie im Bund-Auftrag eine feindliche Quelle. Varen nutzt den Moment und nimmt sie gefangen.
 
-**Er ist nicht der Endgegner.** Er ist ein Forscher der durch einen Fehler Tausende getötet hat und alles tut um das rückgängig zu machen. Hinter ihm stehen die Binder, die Thar, die Gilden — jede Fraktion mit eigenem Kalkül. Moragh ist komplizierter als ein Mann mit seiner Schuld.
+**Gefangenschaft (Akt IV Buch 2):** Varen verschweigt Alphina seine Schuld. Er zeigt ihr die toten Quellen — führt sie durch die Ruinen von Mar-Keth, Dulrath-Ost, Reshkol. Verdorrte Bäume, ausgetrocknete Brunnen, Skelette. Er rahmt sie als Naturkatastrophe und als Folge des Krieges — nicht als sein Experiment. Er zeigt ihr abgefangene Bund-Kommunikation: weitere Quellen-Zerstörung geplant, systematisch. Er überzeugt sie, dass der Bund das wahre Übel ist und dass die drei toten Quellen repariert werden MÜSSEN. **Alphina glaubt ihm, weil sie glauben will.** Sie hat selbst eine Quelle getötet, sie braucht eine Rechtfertigung, und Varen bietet ihr eine: wir reparieren, wir retten. Sie wechselt am Ende Buch 2 auf seine Seite — nicht aus Schuld-Spiegelung, sondern weil sie glaubt, sie tut Gutes.
+
+**Der Sex mit Varen (Ende Buch 2):** Kein Loslassen, kein Hingeben. Sie ist oben. Sie führt. Es ist kein Vertrauen wie mit Sorel — es ist ein **Handel**, ein Bündnis auf Körperebene. Dornen statt Farne, Rücken statt Handgelenke. Schwarze Wurzeln wachsen unter dem Bett, wenn sie den Rhythmus verliert. Er registriert die Farbe und sagt nichts. Er weiß was er verschweigt.
+
+**Buch 3:** Die Schuld wird offenbar. Stufenweise. Vesper (Mustererkenner) rekonstruiert aus alten Velmar-Archiven und Thar-Kopplungsdaten, dass das Experiment das den Krieg auslöste kein Naturereignis war. Irgendwann — früh oder mittig in Buch 3 — erfährt Alphina dass Varen es war. Nicht als Kalkül, nicht als Opfer — als Unfall. Aber als verschwiegener Unfall. **Der Verrat ist das Schweigen, nicht der Akt.** Jeder Kuss, jede Nacht war eine Lüge durch Auslassung. Sie hatte ihm ihre eigene Quelle-Zerstörung gebeichtet, sie hatte sich ihm geöffnet, und er hatte gewusst dass sie beide Täter sind und hat es nicht gesagt. Sie verzeiht ihm den Unfall. Sie verzeiht ihm **nicht** das Schweigen. Ob sie trotzdem an seiner Seite bleibt — offene Frage, entscheidet sich im Verlauf von Buch 3. Varen hilft beim Bau der Naht-Maschine — sein Wissen über Leylinien und Quellen ist entscheidend, gerade WEIL er den Fehler schon einmal gemacht hat. Stirbt webend — diesmal die Quellen richtig verbindend. Fäden statt Ketten. Nicht Erlösung — Wiedergutmachung. Sein letztes Muster wird Teil der Naht.
+
+**Er ist nicht der Endgegner.** Er ist ein Forscher der durch einen Fehler 200.000 Menschen ihre Heimat gekostet hat und alles tut um das rückgängig zu machen. Hinter ihm steht Velmar (mitwissend, schweigend), gegen ihn stehen Bund und Thar (ahnungslos, weitermachend). Moragh ist komplizierter als ein Mann mit seiner Schuld.
 
 ### Die Thar und Varens Geheimnis
 
 Die Thar haben die Leylinien-Kopplung bereits realisiert — ihr Netzwerk funktioniert. Quellen verbunden, Energie fließt, Wohlstand verteilt. **Aber sie wissen nicht dass das Netzwerk eine Waffe ist.** Fernüberladung einer einzelnen Quelle kann eine Kettenreaktion auslösen — je mehr Quellen verbunden, desto größer die Zerstörung. Varen hat das versehentlich bewiesen: drei Quellen tot. In einem voll vernetzten System wären es ALLE.
 
-Varens Dilemma: Warnen bedeutet sich verraten (die Gilden würden ihn als Kriegsauslöser töten). Schweigen bedeutet warten bis jemand die Waffe entdeckt — ob durch Unfall oder Absicht. **Varen hasst die Thar** nicht weil sie böse sind, sondern weil sie mit jeder neuen Kopplung die Bombe größer machen. In Buch 2-3 wird das zu einem zentralen Konflikt.
+Varens Dilemma: Warnen bedeutet sich verraten (Velmar würde ihn offiziell fallen lassen um den Cover-Up zu halten; Bund und Thar würden ihn als Kriegsauslöser lynchen). Schweigen bedeutet warten bis jemand die Waffe entdeckt — ob durch Unfall oder Absicht. **Varen hasst die Thar** nicht weil sie böse sind, sondern weil sie mit jeder neuen Kopplung die Bombe größer machen. In Buch 2-3 wird das zu einem zentralen Konflikt.
 
 ### Vael heilt weil der Riss versiegt
 

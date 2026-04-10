@@ -46,7 +46,7 @@ Vor 200 Moragh-Jahren (= 80.000 Thalassien-Jahre) flohen Menschen aus Moragh dur
 
 ## Der Krieg — und wer ihn wirklich führt
 
-**Varen** hat vor dem Krieg drei Reservoir-Quellen durch ein Überladungs-Experiment zerstört. Die Städte auf diesen Quellen verdorrten. Der Kampf um die verbleibenden Quellen hat den Krieg ausgelöst. Niemand weiß dass Varen schuld ist.
+**Varen** war Velmar-Forscher. Hat vor dem Krieg versucht, drei benachbarte Quellen unter Mar-Keth zu einem Leylinien-Experiment zu verbinden — wollte sie stärken, Motiv war das Überbevölkerungsproblem Moraghs. Das System schlug durch. Drei Quellen tot, ~200.000 Menschen heimatlos. Unfall, kein Kalkül, kein Opfer. **Die Velmar wissen es und vertuschen es** — verdeckter Ausstoß, kollektives Schweigen, weil eine Velmar-Verantwortung Velmars Position im Krieg ruinieren würde. Bund und Thar wissen nichts — für sie ist der Kollaps eine Naturkatastrophe oder "Velmar-Unfähigkeit". Der Krieg brach nicht durch Falschbeschuldigung aus, sondern weil die verbleibenden Quellen nicht reichten.
 
 **Der Bund von Orath** hat Varens Forschung gestohlen oder rekonstruiert. Sie verstehen das Prinzip der Quellen-Überladung und nutzen es als Waffe. Nicht offiziell, nicht alle Städte. Aber die einflussreichsten Kriegstreiber planen die systematische Zerstörung der feindlichen Quellen. Wer die Quellen des Gegners zerstört, gewinnt permanent.
 
@@ -87,7 +87,7 @@ Meeresbiologin. Fließt. Bleibt nie. Findet in Moragh die Karte/Anleitung für d
 Druckerin. Hände immer warm. FWB mit Alphina (hitzig, keine Beziehung). Erlebt mit wie Varen Alphina auf dem Schlachtfeld fängt. Bleibt beim Bund → entdeckt Wahrheiten → geht zu den Thar/Konglomerat. Steigt dort auf. In Buch 3: Teil der Konglomerat-Machtstruktur. Verfolgt Nyr und Vesper als sie überlaufen. Ehemalige Freundin als Antagonistin. Resonanz: Feuer/Hitze.
 
 ### Varen — Das Dunkle
-Moragh-Forscher. Aus allen Fraktionen ausgestoßen. Groß, muskulös, graue Schläfen, purpurne Augen. Spricht 1423er Thalassisch. Obsessiv, nie entschuldigend. Hat 3 Quellen zerstört, den Krieg ausgelöst. Sein wahres Motiv entpuppt sich erst spät: die Thalassier SCHÜTZEN die Quellen. POV ab Interludium 3 in Buch 1, durchgehend B2-B3.
+Moragh-Forscher. **War Velmar**, von Velmar verdeckt ausgestoßen, andere Fraktionen kennen ihn nicht. Groß, muskulös, graue Schläfen, purpurne Augen. Spricht 1423er Thalassisch. Obsessiv, nie entschuldigend. Hat durch einen Leylinien-Unfall drei Quellen zerstört, ~200.000 Menschen heimatlos gemacht, den Krieg ausgelöst. Sein wahres Motiv: Wiedergutmachung — er braucht die Thalassier als Starthilfe für die toten Quellen. POV ab Interludium 3 in Buch 1, durchgehend B2-B3.
 
 ### Elke van der Holt — Die Alte
 Bildhauerin. Kam 1423 durch das Portal. Spricht 1423er Thalassisch wie Varen (er hat es von ihr gelernt). Resonanz: Erde/Stein. Stirbt in Buch 3 (Alter).
@@ -160,21 +160,21 @@ Alle bei Elke in Moragh.
 Moragh. Krieg zwischen Bund von Orath, Konglomerat der Thar, Velmar.
 
 ### Alphinas Bogen
-HASS → Bund als "gute Seite" → Rache-Waffe → ZERSTÖRT EINE QUELLE → Varen fängt sie → Ketten → Wahrheit über den Bund → Schuld-Spiegelung → lässt sich auf ihn ein → wechselt die Seite.
+**2/3 des Buches HASS.** Alphina hasst Varen, trainiert ihre Resonanz beim Bund als Waffe gegen ihn. Erst ab Mitte Buch 2 kommen **Zweifel am Bund**. Am 2/3-Mark zerstört sie eine Quelle im Bund-Auftrag — Varen nimmt sie gefangen. **Erst am Ende von Buch 2** schlägt sie sich auf seine Seite — nicht aus Schuld-Spiegelung, sondern weil Varen seine eigene Schuld verschweigt und sie glaubt, sie tut Gutes. Die Enthüllung folgt in Buch 3.
+
+HASS (2/3) → Zweifel am Bund (ab Mitte) → Quellen-Zerstörung im Bund-Auftrag (2/3-Mark) → Gefangennahme durch Varen → Varen zeigt tote Quellen (verschweigt seine Schuld) → Alphina glaubt, sie tut Gutes → Seitenwechsel Ende Buch 2.
 
 ### Akt I — Fremde Welt
 
-Die Fünf beim Bund (Gilden-Stadt). Alphina: Schlaf-Haine, will RACHE an Varen. Der Bund empfängt sie — Schutz, Hoffnung. Alphina WILL kämpfen. Gegen Varen.
+Die Fünf beim Bund (Gilden-Stadt). Alphina: Schlaf-Haine, will RACHE an Varen. Der Bund empfängt sie — Schutz, Hoffnung. Alphina WILL kämpfen. Gegen Varen. **Hass ist ihr Motor.**
 
 **Talven:** Hilfsbereit. HUNGER wenn Alphina wächst.
 
-**Varen-POV:** Beobachtet. Der Bund trainiert Alphinas Resonanz als Waffe. Er sieht was kommt. Kann es nicht verhindern.
+**Varen-POV:** Beobachtet aus der Ferne. Der Bund trainiert Alphinas Resonanz als Waffe. Er sieht was kommt. Kann es nicht verhindern, ohne sich zu offenbaren.
 
-### Akt II — Fraktionen und Feuer
+### Akt II — Fraktionen und Feuer (erste Hälfte Buch 2)
 
-**Der Bund nutzt Alphina.** Erst Verteidigung, dann offensiver. Sie hört auf Fragen zu stellen. Der Hass fühlt sich produktiv an.
-
-Erste Risse: Ein Kommandant der zu genau weiß wo feindliche Quellen liegen. Gespräche die abbrechen. Karten die eingerollt werden.
+**Der Bund nutzt Alphina.** Erst Verteidigung, dann offensiver. Sie stellt keine Fragen. Der Hass fühlt sich produktiv an. Jeder Einsatz ist ein Schritt näher an Varen. Ihre Resonanz wird unter Bund-Meistern geschult — sie wächst schneller, präziser, härter. Aber sie wächst NUR grün, solange sie diszipliniert ist. Wenn die Wut durchschlägt, kippt die Farbe nach schwarz/rot. Die Bund-Meister bemerken es und nennen es "Verunreinigung". Sie versteht nicht warum.
 
 **Alphina + Runa:** FWB. Nacht, zwei Monde. Hitzig. "Bei Sorel hat die Welt geblüht. Bei Runa ist sie still." Runa hat eigene Obsessionen — Druckerei, Moragh-Schriften, Maschinen.
 
@@ -182,40 +182,43 @@ Erste Risse: Ein Kommandant der zu genau weiß wo feindliche Quellen liegen. Ges
 
 **Vesper + Nyr:** Sie presst ihn an die Metallwand. Luft wird dünn. Blaue Flecken von Luft. Andere Körper-Grammatik als Maren.
 
+### Akt III — Zweifel und Bruch (zweite Hälfte Buch 2)
+
+**Ab Mitte Buch 2 wachsen Alphinas Zweifel am Bund.** Nicht an Varen — immer noch Hass. Aber am Bund. Ein Kommandant weiß zu genau wo feindliche Quellen liegen. Gespräche brechen ab wenn sie den Raum betritt. Karten werden eingerollt. Ein junger Bund-Offizier sagt ihr im Vertrauen, dass die Quellen-Überladungs-Methode der Bund nicht verteidigt, sondern auslöscht. Sie fragt nicht laut. Sie speichert.
+
+**Alphinas Farbe driftet.** Immer öfter schwarz/rot unter Stress, immer seltener grün. Die Meister warnen sie, sie sei "unrein". Sie weiß nicht was das bedeutet.
+
 **Maren findet den Rückweg.** Die Karte, die Anleitung für die Moragh-Seite des Portals. Sie und Vesper sind zusammen als sie es entdeckt. Vesper entscheidet sich zu bleiben — Moragh, Nyr, die Thar. Maren entscheidet sich zu gehen — Thalassien, Forschung, allein. Öffnet das Portal von Moragh-Seite. Geht durch. ~1910. Allein, zu wenig Magie um zurückzukommen. Gründet die **Schwellenforschungsgesellschaft.** Verschwindet aus der Geschichte.
 
 **Talven geht nachts zu Varen.** Lernt Resonanz-Ernte. Milchiges Auge. Haare.
 
-### Akt III — Das Schlachtfeld (2/3-Mark)
+### Akt IV — Das Schlachtfeld und die Gefangenschaft (2/3- bis Ende Buch 2)
 
 **Der Bund greift eine Thar-Siedlung an.** Alphina kämpft an vorderster Front.
 
 **Der Bund-Kommandant zeigt Alphina das Ziel:** Eine kleinere Reservoir-Quelle außerhalb der Siedlung. "Zerstör sie."
 
-**Alphina zerstört die Quelle. ABSICHTLICH.** Wurzeln tief in die Erde. Spürt die Quelle — warm, pulsierend, lebendig. Drückt. Überlädt. Stille. Die Quelle ist tot. Erde bebt. Bäume verdorren. Ein Schmied bricht zusammen. Kinder schreien.
+**Alphina zerstört die Quelle. ABSICHTLICH.** Wurzeln tief in die Erde. Spürt die Quelle — warm, pulsierend, lebendig. Drückt. Überlädt. Stille. Die Quelle ist tot. Erde bebt. Bäume verdorren. Ein Schmied bricht zusammen. Kinder schreien. **Ihre Magie ist in diesem Moment voll schwarz/rot.** Die Bund-Meister sehen es und wissen, sie haben etwas losgelassen das sie nicht halten können.
 
 Sie will die GROSSE Quelle der Siedlung angreifen —
 
 **VAREN.** Schemen trennen sie ab. Ketten. Runa SIEHT es. Kämpft, tötet Dutzende. Wird zurückgeschlagen. Zieht sich mit dem Bund zurück. Plant Alphinas Befreiung.
 
-### Gefangenschaft bei Varen
+### Gefangenschaft bei Varen (Endakt Buch 2)
 
-**Ketten.** Er nimmt an sie ist Bund-Waffe. An seiner Wand: 4 tote Quellen rot markiert. Drei seine. Eine IHRE. Frisch.
+**Ketten.** Varen nimmt an sie ist Bund-Waffe. An seiner Wand: Karten des Krieges, Markierungen für abgefangene Bund-Kommunikation, Pläne für weitere Quellen-Zerstörungen des Bundes.
 
-**Die Wahrheit in Stufen:**
-1. Gesprächsfetzen. "Vierhundert Menschen ohne Magie."
-2. Die Karten. Vier tote Quellen.
-3. Abgefangene Bund-Kommunikation. Weitere Quellen-Zerstörung geplant. Systematisch. Auslöschung.
-4. Varens Geständnis. Sein Experiment. Die 3 Quellen. Der Krieg. "Niemand weiß es. Nur du."
-5. Die Spiegelung. Er: drei Quellen, Unfall. Sie: eine Quelle, absichtlich. Wer ist schlimmer?
+**Varen verschweigt seine Schuld.** Er bringt sie zu den toten Quellen — Mar-Keth, Dulrath-Ost, Reshkol. Er führt sie durch die Ruinen. Skelette. Verdorrte Bäume. Ausgetrocknete Brunnen. Ein Kind, das es lebend herausgeschafft hat, ist jetzt ein alter Mann mit kaputter Lunge. Er rahmt die toten Quellen als Naturkatastrophe oder Kriegsfolge — sagt nicht, dass es sein Experiment war. Er zeigt ihr abgefangene Bund-Pläne: systematische Quellen-Überladung als Waffe, weitere Städte auf der Todesliste. Er sagt: *"Wir müssen sie reparieren. Und wir müssen den Bund stoppen."*
 
-**Sie fängt an zu glauben.** Nicht weil er charmant ist. Weil sie dieselbe Schuld trägt.
+**Alphina glaubt ihm.** Nicht weil er charmant ist. Weil sie GLAUBEN WILL. Sie hat selbst eine Quelle getötet. Sie braucht eine Rechtfertigung. Varen bietet ihr eine: wir reparieren, wir retten. Sie wechselt die Seite — nicht aus Schuld-Spiegelung, sondern aus aufrichtigem Glauben an ein Ziel das er ihr verkauft. Ihr Hass schwenkt vom Mann auf das System: der Bund ist jetzt der Feind.
 
-**Sex mit Varen.** Gewachsen aus geteilter Schuld. Rücken, Nacken, Wirbelsäule — nicht Handgelenke. Nicht halten — führen. Dornen wachsen statt Farne. Zwei Täter die sich erkennen.
+**Sex mit Varen (Endakt Buch 2).** Kein Loslassen, kein Hingeben. Sie ist oben. Sie führt. Es ist kein Vertrauen wie mit Sorel — es ist ein **Handel**, ein Bündnis auf Körperebene. Dornen statt Farne, Rücken statt Handgelenke. **Schwarze Wurzeln unter dem Bett.** Er registriert die Farbe und sagt nichts. Er weiß was er verschweigt. Und er wagt nicht zu fragen was ihre Farbe bedeutet — weil die Antwort "Moragh macht sie zu einer von uns" ist, und das würde alle Ehrlichkeit erzwingen die er sich nicht leisten kann.
 
-### Akt IV — Neue Fronten
+**Alphina vergibt ihm Sorel nicht — das bleibt.** Aber sie stellt es hinter das größere Ziel: tote Quellen wiederbeleben, den Krieg beenden, die Welt retten. Sie ist seine Verbündete. Sie ist nicht seine Geliebte — nicht ganz. Das ist der Unterschied zu Sorel: bei Varen hat sie sich nicht verloren. Sie benutzt ihn wie er sie benutzt. Beide wissen es. Beide schweigen drüber.
 
-**Alphina schließt sich Varen an.** Verbündete, nicht Gefangene. Vergibt ihm Sorel nicht. Steht auf seiner Seite.
+### Akt V — Neue Fronten
+
+**Alphina steht auf Varens Seite.** Das Ende von Buch 2 zeigt sie an einer der toten Quellen — sie versucht, ihre Resonanz hineinzupressen, als Starthilfe. Es funktioniert halb. Der Tschechow-Beat: für Sekunden zuckt die tote Quelle. Dann stirbt sie wieder. Varen sagt: "Wir brauchen mehr."
 
 **Runa beim Bund.** Plant Befreiung. Weiß nicht dass Alphina gewechselt hat. → Entdeckt die Wahrheit über den Bund ODER wird fallen gelassen → Geht zu den Thar. Die Thar wollen ihre Feuer-Resonanz. Druckerin die Metall mit bloßen Händen formt. Sie steigt auf.
 
@@ -229,7 +232,8 @@ Beziehungskarte Ende Buch 2:
 MORAGH:                              THALASSIEN (~1910):
 
 Alphina ═══ Varen                    Maren (allein, gestrandet)
-(Schuld-Spiegelung, Verbündete)     Schwellenforschungsgesellschaft
+(Verbündete, Handel,                 Schwellenforschungsgesellschaft
+ verschwiegene Schuld)
 
 Runa (bei den Thar, aufsteigend)
 Vesper ═══ Nyr (bei den Thar)
@@ -388,16 +392,26 @@ Vesper ═🔥═ Maren            Vesper ═🔥═ Nyr               Vesper �
 ## Alphinas emotionaler Bogen
 
 ```
-SOREL              RUNA               BUND/QUELLE          VAREN
-"Kontrollverlust   "Stille.           "Ich zerstöre        "Er hat auch
- durch Vertrauen.   Wärme.             eine Quelle.         zerstört.
- Farne."            Kein Versprechen." Absichtlich."        Wir sind gleich.
-                                                            Dornen."
-→ er stirbt        → sie wird         → sie wird           → sie wählt ihn
-                     Antagonistin       Täterin              → ZERSTÖRT
-                                                              die Riss-Quelle
-                                                              (richtige Seite)
+SOREL              RUNA               BUND/QUELLE          VAREN (B2)            VAREN (B3)
+"Kontrollverlust   "Stille.           "Ich zerstöre        "Er verschweigt.      "Er hat gelogen.
+ durch Vertrauen.   Wärme.             eine Quelle.         Aber ich GLAUBE       Durch Schweigen.
+ Farne."            Kein Versprechen." Absichtlich."        was er sagt."         Jeden Tag."
+                                                            "Wir reparieren."
+→ er stirbt        → sie wird         → sie wird           → Seitenwechsel      → Bruch?
+                     Antagonistin       Täterin              aus Glauben         → ZERSTÖRT
+                                        (schwarz/rot)                             die Riss-Quelle
+                                                                                  (richtige Seite)
 ```
+
+### Alphinas Farbe als Tschechow
+
+Ihre Magie wächst in Thalassien immer grün (Chlorophyll, Photosynthese, Leben). In Moragh kippt die Farbe unter Emotion: schwarz/rot (Anthocyane, Melanin, Anti-Flora). Gradmesser über ganze Trilogie:
+- Buch 1 Kap Sorel-Tod: voll schwarz/rot, dauerhaft blutrot-schwarze Blüten auf seinem Körper
+- Buch 2 Bund-Training: schwankt zwischen grün (diszipliniert) und schwarz/rot (wenn Wut durchbricht). Bund-Meister nennen es "Verunreinigung".
+- Buch 2 Gefangennahme: voll schwarz/rot bei der Quellen-Zerstörung
+- Buch 2 Endakt mit Varen: schwarze Wurzeln unter dem Bett
+- Buch 3 Bruch mit Varen: offen — welche Farbe wächst sie wenn sie ihn nicht mehr als Verbündeten sieht?
+- Buch 3 Riss-Quelle zerstören: offen — grün oder schwarz?
 
 ## Die Symmetrie der Quellen-Zerstörung
 

@@ -14,7 +14,7 @@
 - **Maren** — Schiffsbauerin; keine feste Adresse, alles im Seesack; erbt Haron Dahls Werft ohne zu wissen dass er Varens Agent war; Kern-Konflikt: bleibt nie — Vael zwingt sie zum Bleiben.
 
 ## Wichtige Nebenfiguren
-- **Varen** — Moragh-Forscher, aus allen Fraktionen ausgestoßen; hat versehentlich drei Quellen zerstört und damit den Krieg ausgelöst; will Thalassier als Starthilfe für tote Quellen; charmant, mächtig, schuldbewusst.
+- **Varen** — Moragh-Forscher, **war Velmar**, von Velmar verdeckt ausgestoßen (Velmar weiß und vertuscht, andere Fraktionen wissen nichts); hat versehentlich drei Quellen (Mar-Keth, Dulrath-Ost, Reshkol) zerstört bei einem Leylinien-Stärkungs-Experiment und damit ~200.000 Menschen heimatlos gemacht und den Krieg ausgelöst; will Thalassier als Starthilfe für tote Quellen; charmant, mächtig, schuldbewusst; verschweigt seine Schuld vor Alphina bis Buch 3.
 - **Elke van der Holt** — Moragh-Botanikerin (Erde/Stein-Resonanz), lebt seit ~400 TZ-Jahren in Moragh (1 MZ-Jahr), erste Thalassierin die durchging; Kontakt und Orientierungspunkt in Buch 2.
 - **Runa Kvist** — Druckerin in der Oberstadt; Alphinas Freundin; schwache unerkannte Feuer-Resonanz; schlüpft in letzter Sekunde mit durch das Portal.
 - **Esther Voss / Jara Voss** — Archivarin und Nichte im Rathauskeller; Jara findet das gefälschte Manuskript zuerst.
