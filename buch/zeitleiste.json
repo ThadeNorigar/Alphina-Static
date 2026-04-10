@@ -5,7 +5,7 @@
     "beschreibung": "Thalassien — eine Welt ohne Magie. Moragh — eine Welt im Krieg. 1 MZ-Jahr = 400 TZ-Jahre.",
     "zeitrechnung": {
       "tz_null": "Erfindung des Uhrwerks",
-      "mz_null": "Durchgang der Vier nach Moragh (Ende Buch 1)",
+      "mz_null": "Besiedelung von Moragh",
       "verhaeltnis": "1 MZ-Jahr = 400 TZ-Jahre",
       "monat": "1 MZ-Monat ≈ 33 TZ-Jahre"
     },
@@ -24,7 +24,7 @@
         ],
         "beispiel": {
           "tz": 551,
-          "mz": 0,
+          "mz": 3635,
           "kapitel": "05",
           "typen": [
             "wohnort"
@@ -56,7 +56,7 @@
         ],
         "beispiel": {
           "tz": 551,
-          "mz": 0,
+          "mz": 3635,
           "kapitel": "11",
           "typen": [
             "begegnung"
@@ -91,7 +91,7 @@
         ],
         "beispiel": {
           "tz": 551,
-          "mz": 0,
+          "mz": 3635,
           "kapitel": "08",
           "typen": [
             "wissen"
@@ -152,15 +152,37 @@
   },
   "monate": [
     {
-      "label": "MZ -200",
+      "label": "MZ 0",
+      "tz": "TZ ~-1.453.449",
+      "mz": "MZ 0",
+      "events": {
+        "thalassien": [],
+        "moragh": [
+          {
+            "tz": -1453449,
+            "mz": 0,
+            "titel": "Besiedelung von Moragh, evtl Raumschiff von der Erde",
+            "detail": "Nullpunkt der Moragh-Zeitrechnung.",
+            "typen": [
+              "schlüssel"
+            ],
+            "tags": [
+              "Schlüsselereignis"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "label": "MZ 3.435",
       "tz": "TZ -79.449",
-      "mz": "MZ -200",
+      "mz": "MZ 3.435",
       "tz_range": "TZ -79.449",
       "events": {
         "thalassien": [
           {
             "tz": -79449,
-            "mz": -200,
+            "mz": 3435,
             "titel": "Ankunft der Flüchtlinge aus Moragh",
             "detail": "Ohne Technologie, ohne Magie. Beginn der menschlichen Geschichte in Thalassien.",
             "typen": [
@@ -174,7 +196,7 @@
         "moragh": [
           {
             "tz": -79449,
-            "mz": -200,
+            "mz": 3435,
             "titel": "Kriegsflüchtlinge gehen nach Thalassien",
             "detail": "Früherer Konflikt. In Moragh noch in Erinnerung — in Thalassien vorgeschichtlich.",
             "typen": [
@@ -188,14 +210,14 @@
       }
     },
     {
-      "label": "MZ -200 bis -2",
+      "label": "MZ 3.435 bis 3.633",
       "tz": "TZ -79.449 bis -249",
       "mz": "~198 MZ-Jahre",
       "events": {
         "thalassien": [
           {
             "tz": -79449,
-            "mz": -200,
+            "mz": 3435,
             "titel": null,
             "luecke": "~78.000 TZ — keine Aufzeichnungen. Evolution: kleiner, heller, Resonanz statt Magie."
           }
@@ -206,12 +228,12 @@
     {
       "label": "TZ -249",
       "tz": "TZ -249",
-      "mz": "MZ ~-2",
+      "mz": "MZ ~3.633",
       "events": {
         "thalassien": [
           {
             "tz": -249,
-            "mz": -2,
+            "mz": 3633,
             "titel": "Gründung von Vael",
             "detail": "Offiziell. Der Steinkreis im Botanischen Garten ist älter.",
             "typen": [
@@ -228,12 +250,12 @@
     {
       "label": "TZ 0",
       "tz": "TZ 0",
-      "mz": "MZ ~-1,38",
+      "mz": "MZ ~3633,62",
       "events": {
         "thalassien": [
           {
             "tz": 0,
-            "mz": -1.38,
+            "mz": 3633.62,
             "titel": "Erfindung des Uhrwerks — Beginn der TZ-Zeitrechnung",
             "typen": [
               "schlüssel"
@@ -247,15 +269,15 @@
       }
     },
     {
-      "label": "MZ ~-4,25",
+      "label": "MZ ~3630,75",
       "tz": "TZ ~-1.149",
-      "mz": "MZ ~-4,25",
+      "mz": "MZ ~3630,75",
       "events": {
         "thalassien": [],
         "moragh": [
           {
             "tz": -1149,
-            "mz": -4.25,
+            "mz": 3630.75,
             "titel": "Varens Leylinien-Experiment scheitert",
             "detail": "Varen (Velmar-Forscher) versucht drei benachbarte Quellen unter Mar-Keth zu koppeln um magiefreie Flaechen besiedelbar zu machen (Motiv: Expansion der bewohnbaren Zonen, nicht akute Ueberbevoelkerung). Unfall. 3 Reservoir-Quellen kollabieren unwiederbringlich: Mar-Keth (riesig, ~120.000 Einwohner, Varens Herkunftsstadt), Dulrath-Ost (gross), Reshkol (gross). Staedte verdorren, ~200.000 Menschen heimatlos. Velmar weiss und vertuscht (Ausstoss Varens ohne offizielle Anklage). Bund und Thar wissen nichts, halten es fuer Naturkatastrophe.",
             "typen": [
@@ -271,15 +293,15 @@
       }
     },
     {
-      "label": "MZ ~-4",
+      "label": "MZ ~3.631",
       "tz": "TZ ~-1.049",
-      "mz": "MZ ~-4",
+      "mz": "MZ ~3.631",
       "events": {
         "thalassien": [],
         "moragh": [
           {
             "tz": -1049,
-            "mz": -4,
+            "mz": 3631,
             "titel": "Der Krieg beginnt — Orath vs. Thar vs. Velmar",
             "detail": "~3 MZ-Monate nach der Quellen-Explosion. Das Thar-Konglomerat glaubt, der Bund von Orath habe die Explosion absichtlich ausgeloest und sie angegriffen. Es gibt genug Quellen -- der Krieg beginnt nicht aus Ressourcenknappheit, sondern aus Misstrauen und Vergeltung. Dauert 4 MZ-Jahre (= ~1.600 TZ). Drei Fraktionen, drei Philosophien, keine Sieger. Velmar haelt sich raus, verhandelt mit der Thar, hat durch die kaputten Quellen eine gute Verteidigungsposition (keine Nachschublinie fuer Thar-Armeen). Die Vier erfahren in Buch 2 zunaechst die Konglomerat-Version.",
             "typen": [
@@ -293,9 +315,9 @@
       }
     },
     {
-      "label": "MZ -4 bis -3",
+      "label": "MZ 3.631 bis 3.632",
       "tz": "TZ ~-1.049 bis ~-649",
-      "mz": "MZ -4 bis -3",
+      "mz": "MZ 3.631 bis -3",
       "events": {
         "thalassien": [
           {
@@ -310,15 +332,15 @@
       }
     },
     {
-      "label": "MZ ~-3",
+      "label": "MZ ~3.632",
       "tz": "TZ ~-649",
-      "mz": "MZ -3",
+      "mz": "MZ 3.632",
       "events": {
         "thalassien": [],
         "moragh": [
           {
             "tz": -649,
-            "mz": -3,
+            "mz": 3632,
             "titel": "Varen beginnt die Portalforschung",
             "detail": "Ein Jahr nach Kriegsbeginn. Varen erkennt dass die drei toten Quellen mit Moragh-Magie allein nicht wiederzubeleben sind (geschlossenes System — man kann einen trockenen Brunnen nicht mit Wasser aus dem Nachbarbrunnen fuellen). Er erinnert sich an die 350 Verschwundenen vor 200 MZ-Jahren, die durch ein Quellenportal gingen und nie zurueckkehrten. Portalmagie wurde danach von allen Fraktionen verboten. Varen beginnt im Geheimen mit der Rekonstruktion — Druckmanipulation kennt er bereits, Zeitmanipulation (= Schwerkraft, die gleiche physikalische Groesse) muss er lernen. Erste Risse im Gefuege, brachiale Versuche.",
             "typen": [
@@ -334,7 +356,7 @@
       }
     },
     {
-      "label": "MZ -3 bis -1",
+      "label": "MZ 3.632 bis 3.634",
       "tz": "TZ ~-649 bis 154",
       "mz": "~2 MZ-Jahre",
       "events": {
@@ -353,12 +375,12 @@
     {
       "label": "MZ Monat -12",
       "tz": "TZ 154",
-      "mz": "MZ -1,0",
+      "mz": "MZ 3.634",
       "events": {
         "thalassien": [
           {
             "tz": 154,
-            "mz": -1,
+            "mz": 3634,
             "kapitel": "I1",
             "titel": "Elke kommt nach Vael — wegen des Purpursteins",
             "detail": "Bildhauerin aus dem Süden. Berührt den Stein — er ist warm. Ein Gestein das es nirgendwo sonst gibt. Sie 'hoert' seine Maserung.",
@@ -373,7 +395,7 @@
           },
           {
             "tz": 154,
-            "mz": -1,
+            "mz": 3634,
             "kapitel": "I1",
             "titel": "Elke bearbeitet den Klippenrand — der Botanische Garten entsteht",
             "detail": "Wo sie den Fels öffnet, wachsen Pflanzen aus dem Stein. Spätere Generationen nennen es 'Garten'. Der Steinkreis war schon da.",
@@ -390,7 +412,7 @@
           },
           {
             "tz": 154,
-            "mz": -1,
+            "mz": 3634,
             "kapitel": "I2",
             "titel": "Keldan trifft Elke — sein Barren summt",
             "pov": "I2 · Keldan",
@@ -404,7 +426,7 @@
           },
           {
             "tz": 154,
-            "mz": -1,
+            "mz": 3634,
             "titel": "Lene findet den Steinkreis nachts — er pulsiert",
             "pov": "Lene",
             "typen": [
@@ -416,7 +438,7 @@
           },
           {
             "tz": 154,
-            "mz": -1,
+            "mz": 3634,
             "titel": "Kaspars Bild zeigt Hohlraeume und Gestalt mit schwarzen Augen",
             "detail": "Er kratzt die Stelle ab. Am Morgen ist sie wieder da, dunkler.",
             "pov": "Kaspar",
@@ -429,7 +451,7 @@
           },
           {
             "tz": 154,
-            "mz": -1,
+            "mz": 3634,
             "titel": "Elke und Kaspar: Nacht vor dem Kampf",
             "detail": "Nicht Liebe — weil morgen der Tod kommen könnte. Schemen beobachten vor den Fenstern.",
             "pov": "Elke",
@@ -442,7 +464,7 @@
           },
           {
             "tz": 154,
-            "mz": -1,
+            "mz": 3634,
             "titel": "Das Große Feuer — Kaspar und Keldan sterben, Elke geht durch",
             "detail": "Varen schickt 3 Feuer-Schemen. Kaspar + Keldan fallen. Elke → Moragh. Lene überlebt allein, schreibt das Manuskript.",
             "pov": "Elke",
@@ -461,7 +483,7 @@
         "moragh": [
           {
             "tz": 154,
-            "mz": -1,
+            "mz": 3634,
             "titel": "Varen öffnet das Portal — 3 Feuer-Schemen nach Thalassien",
             "typen": [
               "portal"
@@ -472,7 +494,7 @@
           },
           {
             "tz": 154,
-            "mz": -1,
+            "mz": 3634,
             "titel": "Elke kommt in Moragh an — trifft Varen",
             "detail": "Er kappt die Schemen-Bindung als er Elke sieht.",
             "typen": [
@@ -488,7 +510,7 @@
     {
       "label": "MZ Monat -11 bis -7",
       "tz": "TZ 154–354",
-      "mz": "MZ -0,92 bis -0,58",
+      "mz": "MZ 3634,08 bis -0,58",
       "events": {
         "thalassien": [
           {
@@ -498,7 +520,7 @@
         "moragh": [
           {
             "tz": 154,
-            "mz": -1,
+            "mz": 3634,
             "titel": "Elke + Varen: 6 Monate Beziehung",
             "detail": "Liebe, Forschung, Thalassisch-Unterricht. Intellektuelle und körperliche Anziehung.",
             "typen": [
@@ -510,7 +532,7 @@
           },
           {
             "tz": 154,
-            "mz": -1,
+            "mz": 3634,
             "titel": "Elke baut ihren Garten in Moragh",
             "detail": "Formt Stein mit Erde/Stein-Resonanz — Hand auf Basalt, und er gibt nach. Pflanzen aus beiden Welten wachsen aus dem Stein den sie geformt hat.",
             "pov": "Elke",
@@ -529,13 +551,13 @@
     {
       "label": "MZ Monat -6",
       "tz": "TZ ~354",
-      "mz": "MZ -0,5",
+      "mz": "MZ 3634,5",
       "events": {
         "thalassien": [],
         "moragh": [
           {
             "tz": 354,
-            "mz": -0.5,
+            "mz": 3634.5,
             "titel": "Elke verlässt Varen",
             "detail": "Persoenliche Gruende: will nicht zurueck nach Vael, spuert dass seine Forschung sie als Mittel braucht. Weiss NICHT von den zerstoerten Quellen. Er macht weiter. Allein.",
             "typen": [
@@ -553,7 +575,7 @@
     {
       "label": "MZ Monat -5 bis -3",
       "tz": "TZ ~354–485",
-      "mz": "MZ -0,42 bis -0,25",
+      "mz": "MZ 3634,58 bis -0,25",
       "events": {
         "thalassien": [
           {
@@ -563,7 +585,7 @@
         "moragh": [
           {
             "tz": 354,
-            "mz": -0.42,
+            "mz": 3634.58,
             "titel": "Varen plant die Rückholung — allein",
             "detail": "Elke hat ihn verlassen. Varen glaubt: Resonanz-Magie ohne Quelle ist die Loesung. Er kann nicht selbst durchs Portal ohne sich die Rueckkehr zu verbauen. Schickt menschliche Agenten (Moragh-geboren) mit klarem Auftrag + gebundene Schemen als Helfer (Agenten koennen kein Handwerk). Schemen erledigen praktische Arbeit. Ueber Schemen-Bindung sammelt Varen diffuse Informationen.",
             "typen": [
@@ -579,12 +601,12 @@
     {
       "label": "MZ Monat -2",
       "tz": "TZ ~485",
-      "mz": "MZ -0,17",
+      "mz": "MZ 3634,83",
       "events": {
         "thalassien": [
           {
             "tz": 485,
-            "mz": -0.17,
+            "mz": 3634.83,
             "titel": "Haron Dahl kommt durch das Portal",
             "detail": "Varens Agent. Übernimmt die Werft, lebt ein ganzes Leben in Vael, stirbt an Alter + Schwerkraft.",
             "typen": [
@@ -596,7 +618,7 @@
           },
           {
             "tz": 500,
-            "mz": -0.13,
+            "mz": 3634.87,
             "titel": "Weitere Agenten kommen durch",
             "detail": "Uhrmacher (Köder Vesper), Artikel-Verfasser (Köder Alphina), Platten-Fälscher (Köder Sorel).",
             "typen": [
@@ -610,7 +632,7 @@
         "moragh": [
           {
             "tz": 485,
-            "mz": -0.17,
+            "mz": 3634.83,
             "titel": "Varen schickt Agenten nach Thalassien",
             "detail": "Für ihn Wochen — für sie Jahrzehnte. Vier Köder, vier Methoden.",
             "typen": [
@@ -626,13 +648,13 @@
     {
       "label": "Buch 1 — MZ Monat -1 bis 0",
       "tz": "TZ ~551 (Frühling–Herbst)",
-      "mz": "MZ -0,08 bis 0",
+      "mz": "MZ 3634,92 bis 0",
       "buch": "Buch 1: Der Riss",
       "events": {
         "thalassien": [
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "titel": "Ein Farn dreht seinen Wedel nach Alphina",
             "pov": "Kap 01 · Alphina",
             "kapitel": "01",
@@ -651,7 +673,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "01",
             "typen": [
               "wohnort"
@@ -668,7 +690,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "01",
             "typen": [
               "wissen"
@@ -686,7 +708,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "titel": "Sorel findet sein Gesicht auf einer Glasplatte aus Vael",
             "pov": "Kap 02 · Sorel",
             "kapitel": "02",
@@ -705,7 +727,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "02",
             "typen": [
               "wohnort"
@@ -722,7 +744,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "02",
             "typen": [
               "wissen"
@@ -740,7 +762,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "02",
             "typen": [
               "wissen"
@@ -758,7 +780,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "titel": "Reisender Uhrmacher erzählt von der 4:33-Standuhr",
             "pov": "Kap 03 · Vesper",
             "kapitel": "03",
@@ -775,7 +797,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "03",
             "typen": [
               "wohnort"
@@ -792,7 +814,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "03",
             "typen": [
               "begegnung"
@@ -813,7 +835,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "titel": "Maren erbt Haron Dahls Werft und das halbfertige Boot",
             "pov": "Kap 04 · Maren",
             "kapitel": "04",
@@ -830,7 +852,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "04",
             "typen": [
               "wohnort"
@@ -848,7 +870,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "04",
             "typen": [
               "begegnung"
@@ -869,7 +891,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "04",
             "typen": [
               "wissen"
@@ -887,7 +909,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "04",
             "typen": [
               "wissen"
@@ -905,7 +927,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "titel": "Alphina in Vael. Trifft Runa Kvist — Druckerin mit warmen Händen.",
             "pov": "Kap 05 · Alphina",
             "kapitel": "05",
@@ -922,7 +944,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "05",
             "typen": [
               "wohnort"
@@ -940,7 +962,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "05",
             "typen": [
               "begegnung"
@@ -961,7 +983,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "05",
             "typen": [
               "wissen"
@@ -979,7 +1001,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "06",
             "typen": [
               "wohnort"
@@ -997,7 +1019,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "06",
             "typen": [
               "wissen"
@@ -1015,7 +1037,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "titel": "Standuhr verliert 4:33 — reagiert auf Vesper",
             "pov": "Kap 07 · Vesper",
             "kapitel": "07",
@@ -1034,7 +1056,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "07",
             "typen": [
               "wohnort"
@@ -1052,7 +1074,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "07",
             "typen": [
               "wissen"
@@ -1070,7 +1092,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "07",
             "typen": [
               "wissen"
@@ -1088,7 +1110,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "07",
             "typen": [
               "wissen"
@@ -1106,7 +1128,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "07",
             "typen": [
               "wissen"
@@ -1124,7 +1146,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "titel": "Boot baut sich nachts weiter — Schemen arbeiten",
             "pov": "Kap 08 · Maren",
             "kapitel": "08",
@@ -1141,7 +1163,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "08",
             "typen": [
               "begegnung"
@@ -1162,7 +1184,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "08",
             "typen": [
               "wissen"
@@ -1180,7 +1202,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "08",
             "typen": [
               "wissen"
@@ -1198,7 +1220,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "08",
             "typen": [
               "wissen"
@@ -1216,7 +1238,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "08",
             "typen": [
               "wissen"
@@ -1234,7 +1256,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "09",
             "typen": [
               "begegnung"
@@ -1255,7 +1277,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "09",
             "typen": [
               "wissen"
@@ -1273,7 +1295,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "09",
             "typen": [
               "wissen"
@@ -1291,7 +1313,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "09",
             "typen": [
               "wissen"
@@ -1309,7 +1331,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "10",
             "typen": [
               "wissen"
@@ -1327,7 +1349,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "10",
             "typen": [
               "tschechow"
@@ -1342,7 +1364,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "10",
             "typen": [
               "wissen"
@@ -1360,7 +1382,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "10",
             "typen": [
               "wissen"
@@ -1378,7 +1400,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "11",
             "typen": [
               "tschechow",
@@ -1394,7 +1416,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "11",
             "typen": [
               "wissen"
@@ -1412,7 +1434,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "11",
             "typen": [
               "wissen"
@@ -1430,7 +1452,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "11",
             "typen": [
               "wissen",
@@ -1449,7 +1471,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "11",
             "typen": [
               "begegnung"
@@ -1470,7 +1492,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "11",
             "typen": [
               "wissen"
@@ -1488,7 +1510,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "11",
             "typen": [
               "wissen"
@@ -1506,7 +1528,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "11",
             "typen": [
               "gaensehaut",
@@ -1526,7 +1548,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "11",
             "typen": [
               "verabredung"
@@ -1545,7 +1567,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "11",
             "typen": [
               "erkenntnis"
@@ -1563,7 +1585,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "12",
             "typen": [
               "begegnung"
@@ -1584,7 +1606,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "13",
             "typen": [
               "wissen",
@@ -1603,7 +1625,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "14",
             "typen": [
               "begegnung"
@@ -1628,7 +1650,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "15",
             "typen": [
               "hintergrund"
@@ -1647,7 +1669,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "16",
             "typen": [
               "hintergrund"
@@ -1665,7 +1687,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "17",
             "typen": [
               "begegnung",
@@ -1693,7 +1715,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "18",
             "typen": [
               "erkenntnis"
@@ -1713,7 +1735,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "19",
             "typen": [
               "begegnung"
@@ -1732,7 +1754,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "20",
             "typen": [
               "begegnung",
@@ -1760,7 +1782,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "21",
             "typen": [
               "erotik",
@@ -1780,7 +1802,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "22",
             "typen": [
               "erotik",
@@ -1801,7 +1823,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "24",
             "typen": [
               "schlüssel",
@@ -1820,7 +1842,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "25",
             "typen": [
               "erkenntnis"
@@ -1839,7 +1861,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "26",
             "typen": [
               "tschechow",
@@ -1858,7 +1880,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "27",
             "typen": [
               "hintergrund"
@@ -1876,7 +1898,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "28",
             "typen": [
               "schlüssel"
@@ -1894,7 +1916,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "29",
             "typen": [
               "begegnung"
@@ -1912,7 +1934,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "30",
             "typen": [
               "hintergrund"
@@ -1930,7 +1952,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "31",
             "typen": [
               "erkenntnis",
@@ -1950,7 +1972,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "32",
             "typen": [
               "erkenntnis",
@@ -1970,7 +1992,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "33",
             "typen": [
               "schlüssel"
@@ -1988,7 +2010,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "34",
             "typen": [
               "erotik",
@@ -2007,7 +2029,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "35",
             "typen": [
               "portal",
@@ -2027,7 +2049,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "39",
             "typen": [
               "hintergrund"
@@ -2045,7 +2067,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "40",
             "typen": [
               "hintergrund"
@@ -2063,7 +2085,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "41",
             "typen": [
               "schlüssel"
@@ -2083,7 +2105,7 @@
         "moragh": [
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "36",
             "typen": [
               "begegnung",
@@ -2109,7 +2131,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "36",
             "typen": [
               "tod",
@@ -2129,7 +2151,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "37",
             "typen": [
               "schluessel"
@@ -2147,7 +2169,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "38",
             "typen": [
               "begegnung",
@@ -2176,7 +2198,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "38",
             "typen": [
               "erkenntnis"
@@ -2194,7 +2216,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "titel": "Elke in ihrem Garten. Weiß nicht dass Varen das Portal öffnete.",
             "typen": [
               "hintergrund"
@@ -2205,7 +2227,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "I3",
             "typen": [
               "hintergrund"
@@ -2218,7 +2240,7 @@
           },
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "kapitel": "I7",
             "typen": [
               "hintergrund"
@@ -2232,7 +2254,7 @@
         ],
         "sync": {
           "tz": "TZ ~551",
-          "mz": "MZ 0",
+          "mz": "MZ 3.635",
           "label": "Portal → Die Vier + Runa nach Moragh"
         }
       }
@@ -2240,14 +2262,14 @@
     {
       "label": "MZ Monat 1",
       "tz": "TZ ~551–583",
-      "mz": "MZ 0 bis 0,08",
+      "mz": "MZ 3.635 bis 0,08",
       "buch": "Buch 2: Das Auge (beginnt NACH Elke-Treffen)",
       "events": {
         "thalassien": [],
         "moragh": [
           {
             "tz": 551,
-            "mz": 0,
+            "mz": 3635,
             "titel": "Elke spürt fünf Resonanzen — rennt zum Steinplatz",
             "detail": "Vibration im Stein. Thar-Späher auch unterwegs. Alphinas Ausbruch meilenweit spürbar.",
             "pov": "I9 · Elke",
@@ -2265,7 +2287,7 @@
           },
           {
             "tz": null,
-            "mz": 0.1,
+            "mz": 3635.1,
             "kapitel": "B2-01",
             "typen": [
               "schlüssel"
@@ -2280,7 +2302,7 @@
           },
           {
             "tz": null,
-            "mz": 0.15,
+            "mz": 3635.15,
             "kapitel": "B2-02",
             "typen": [
               "erkenntnis"
@@ -2295,7 +2317,7 @@
           },
           {
             "tz": null,
-            "mz": 0.2,
+            "mz": 3635.2,
             "kapitel": "B2-03",
             "typen": [
               "erkenntnis"
@@ -2306,7 +2328,7 @@
           },
           {
             "tz": null,
-            "mz": 0.25,
+            "mz": 3635.25,
             "kapitel": "B2-04",
             "typen": [
               "erkenntnis",
@@ -2321,7 +2343,7 @@
           },
           {
             "tz": null,
-            "mz": 0.4,
+            "mz": 3635.4,
             "kapitel": "B2-07",
             "typen": [
               "begegnung",
@@ -2341,7 +2363,7 @@
           },
           {
             "tz": null,
-            "mz": 0.45,
+            "mz": 3635.45,
             "kapitel": "B2-08",
             "typen": [
               "erkenntnis"
@@ -2355,7 +2377,7 @@
           },
           {
             "tz": null,
-            "mz": 0.5,
+            "mz": 3635.5,
             "kapitel": "B2-09",
             "typen": [
               "erkenntnis"
@@ -2370,7 +2392,7 @@
           },
           {
             "tz": null,
-            "mz": 0.6,
+            "mz": 3635.6,
             "kapitel": "B2-10",
             "typen": [
               "schlüssel"
@@ -2389,7 +2411,7 @@
     {
       "label": "MZ Monat 2",
       "tz": "TZ ~583–651",
-      "mz": "MZ 0,08 bis 0,17",
+      "mz": "MZ 3635,08 bis 0,17",
       "events": {
         "thalassien": [
           {
@@ -2399,7 +2421,7 @@
         "moragh": [
           {
             "tz": 591,
-            "mz": 0.1,
+            "mz": 3635.1,
             "titel": "Alphinas Macht wächst unkontrolliert",
             "detail": "Resonanz ohne Preis. In einer Welt wo Magie den Körper kostet. Alle Fraktionen wollen sie.",
             "typen": [
@@ -2411,7 +2433,7 @@
           },
           {
             "tz": 591,
-            "mz": 0.1,
+            "mz": 3635.1,
             "titel": "Alphina + Runa: aus Freundschaft wird mehr",
             "detail": "Anders als Sorel. Zwei Menschen die beide nicht wissen was sie tun.",
             "typen": [
@@ -2423,7 +2445,7 @@
           },
           {
             "tz": 619,
-            "mz": 0.17,
+            "mz": 3635.17,
             "titel": "Thar entdeckt Runas Feuer-Resonanz",
             "detail": "Wollen sie für sich. Runa muss wählen.",
             "typen": [
@@ -2435,7 +2457,7 @@
           },
           {
             "tz": null,
-            "mz": 1.1,
+            "mz": 3636.1,
             "kapitel": "B2-12",
             "typen": [
               "begegnung",
@@ -2457,7 +2479,7 @@
           },
           {
             "tz": null,
-            "mz": 1.3,
+            "mz": 3636.3,
             "kapitel": "B2-15",
             "typen": [
               "schlüssel"
@@ -2472,7 +2494,7 @@
           },
           {
             "tz": null,
-            "mz": 1.4,
+            "mz": 3636.4,
             "kapitel": "B2-16",
             "typen": [
               "erotik"
@@ -2492,7 +2514,7 @@
           },
           {
             "tz": null,
-            "mz": 1.5,
+            "mz": 3636.5,
             "kapitel": "B2-18",
             "typen": [
               "begegnung",
@@ -2514,7 +2536,7 @@
           },
           {
             "tz": null,
-            "mz": 1.6,
+            "mz": 3636.6,
             "kapitel": "B2-19",
             "typen": [
               "schlüssel",
@@ -2530,7 +2552,7 @@
           },
           {
             "tz": null,
-            "mz": 1.8,
+            "mz": 3636.8,
             "kapitel": "B2-20",
             "typen": [
               "schlüssel"
@@ -2549,17 +2571,17 @@
     {
       "label": "MZ Monat 3",
       "tz": "TZ ~651",
-      "mz": "MZ 0,17 bis 0,25",
+      "mz": "MZ 3635,17 bis 0,25",
       "events": {
         "sync": {
           "tz": "TZ ~651",
-          "mz": "MZ ~0,25",
+          "mz": "MZ ~3635,25",
           "label": "Portal ← Maren geht nach Thalassien"
         },
         "thalassien": [
           {
             "tz": 651,
-            "mz": 0.25,
+            "mz": 3635.25,
             "titel": "Maren kommt an — allein, gestrandet",
             "detail": "~100 TZ seit dem Durchgang. Zu wenig Resonanz allein für den Rückweg. Absichtlich.",
             "typen": [
@@ -2573,7 +2595,7 @@
         "moragh": [
           {
             "tz": 651,
-            "mz": 0.25,
+            "mz": 3635.25,
             "titel": "Maren öffnet Portal — geht allein",
             "detail": "Vesper bleibt bei Nyr und der Thar. Maren geht — absichtlich gestrandet.",
             "typen": [
@@ -2587,7 +2609,7 @@
           },
           {
             "tz": null,
-            "mz": 2.1,
+            "mz": 3637.1,
             "kapitel": "B2-21",
             "typen": [
               "hintergrund"
@@ -2598,7 +2620,7 @@
           },
           {
             "tz": null,
-            "mz": 2.3,
+            "mz": 3637.3,
             "kapitel": "B2-25",
             "typen": [
               "schlüssel",
@@ -2615,7 +2637,7 @@
           },
           {
             "tz": null,
-            "mz": 2.35,
+            "mz": 3637.35,
             "kapitel": "B2-26",
             "typen": [
               "schlüssel"
@@ -2630,7 +2652,7 @@
           },
           {
             "tz": null,
-            "mz": 2.4,
+            "mz": 3637.4,
             "kapitel": "B2-27",
             "typen": [
               "erkenntnis"
@@ -2646,7 +2668,7 @@
           },
           {
             "tz": null,
-            "mz": 2.5,
+            "mz": 3637.5,
             "kapitel": "B2-28",
             "typen": [
               "erkenntnis",
@@ -2662,7 +2684,7 @@
           },
           {
             "tz": null,
-            "mz": 2.55,
+            "mz": 3637.55,
             "kapitel": "B2-29",
             "typen": [
               "schlüssel"
@@ -2681,7 +2703,7 @@
     {
       "label": "MZ Monat 4 bis MZ Jahr 5,5",
       "tz": "TZ ~651–2.751",
-      "mz": "MZ 0,25 bis 5,5",
+      "mz": "MZ 3635,25 bis 5,5",
       "events": {
         "thalassien": [
           {
@@ -2689,7 +2711,7 @@
           },
           {
             "tz": null,
-            "mz": 3.55,
+            "mz": 3638.55,
             "kapitel": "B2-39",
             "typen": [
               "schlüssel"
@@ -2709,7 +2731,7 @@
           },
           {
             "tz": null,
-            "mz": 3.1,
+            "mz": 3638.1,
             "kapitel": "B2-31",
             "typen": [
               "erkenntnis",
@@ -2725,7 +2747,7 @@
           },
           {
             "tz": null,
-            "mz": 3.15,
+            "mz": 3638.15,
             "kapitel": "B2-32",
             "typen": [
               "erkenntnis"
@@ -2740,7 +2762,7 @@
           },
           {
             "tz": null,
-            "mz": 3.3,
+            "mz": 3638.3,
             "kapitel": "B2-35",
             "typen": [
               "erotik",
@@ -2762,7 +2784,7 @@
           },
           {
             "tz": null,
-            "mz": 3.35,
+            "mz": 3638.35,
             "kapitel": "B2-36",
             "typen": [
               "schlüssel"
@@ -2777,7 +2799,7 @@
           },
           {
             "tz": null,
-            "mz": 3.4,
+            "mz": 3638.4,
             "kapitel": "B2-37",
             "typen": [
               "schlüssel"
@@ -2792,7 +2814,7 @@
           },
           {
             "tz": null,
-            "mz": 3.5,
+            "mz": 3638.5,
             "kapitel": "B2-38",
             "typen": [
               "portal",
@@ -2809,7 +2831,7 @@
           },
           {
             "tz": null,
-            "mz": 3.6,
+            "mz": 3638.6,
             "kapitel": "B2-I12",
             "typen": [
               "tschechow"
@@ -2824,7 +2846,7 @@
           },
           {
             "tz": null,
-            "mz": 3.7,
+            "mz": 3638.7,
             "kapitel": "B2-40",
             "typen": [
               "schlüssel"
@@ -2839,7 +2861,7 @@
           },
           {
             "tz": null,
-            "mz": 3.9,
+            "mz": 3638.9,
             "kapitel": "B2-42",
             "typen": [
               "hintergrund"
@@ -2858,18 +2880,18 @@
     {
       "label": "MZ Jahr ~5,5 — Buch 3",
       "tz": "TZ ~2.751",
-      "mz": "MZ ~5,5",
+      "mz": "MZ ~3640,5",
       "buch": "Buch 3: Die Quelle",
       "events": {
         "sync": {
           "tz": "TZ ~2.751",
-          "mz": "MZ ~5,5",
+          "mz": "MZ ~3640,5",
           "label": "Portal → Wiedervereinigung"
         },
         "thalassien": [
           {
             "tz": 2751,
-            "mz": 5.5,
+            "mz": 3640.5,
             "titel": "Portal öffnet sich erneut",
             "detail": "Wissenschaftler verstehen das Portal. Vael ist Großstadt.",
             "typen": [
@@ -2881,7 +2903,7 @@
           },
           {
             "tz": null,
-            "mz": 5,
+            "mz": 3640,
             "kapitel": "B3-41",
             "typen": [
               "schlüssel"
@@ -2896,7 +2918,7 @@
           },
           {
             "tz": null,
-            "mz": 5.2,
+            "mz": 3640.2,
             "kapitel": "B3-46",
             "typen": [
               "portal",
@@ -2913,7 +2935,7 @@
           },
           {
             "tz": null,
-            "mz": 5.9,
+            "mz": 3640.9,
             "kapitel": "B3-I15",
             "typen": [
               "tod"
@@ -2930,7 +2952,7 @@
         "moragh": [
           {
             "tz": 2751,
-            "mz": 5.5,
+            "mz": 3640.5,
             "titel": "Thalassien-Wissenschaftler erkennen die 'Sonne' als Schwarzes Loch",
             "typen": [
               "erkenntnis"
@@ -2941,7 +2963,7 @@
           },
           {
             "tz": 2751,
-            "mz": 5.5,
+            "mz": 3640.5,
             "titel": "Alphina lebt",
             "detail": "Kein Opfertod. Die Pflanzen wachsen weiter. Die Quelle bleibt offen.",
             "typen": [
@@ -2953,7 +2975,7 @@
           },
           {
             "tz": 2751,
-            "mz": 5.5,
+            "mz": 3640.5,
             "titel": "Die Quelle bleibt offen",
             "detail": "Nicht als Portal — als Grenze die beide Seiten akzeptieren.",
             "typen": [
@@ -2965,7 +2987,7 @@
           },
           {
             "tz": null,
-            "mz": 5.1,
+            "mz": 3640.1,
             "kapitel": "B3-42",
             "typen": [
               "erkenntnis"
@@ -2980,7 +3002,7 @@
           },
           {
             "tz": null,
-            "mz": 5.12,
+            "mz": 3640.12,
             "kapitel": "B3-43",
             "typen": [
               "schlüssel",
@@ -2996,7 +3018,7 @@
           },
           {
             "tz": null,
-            "mz": 5.15,
+            "mz": 3640.15,
             "kapitel": "B3-45",
             "typen": [
               "tschechow"
@@ -3011,7 +3033,7 @@
           },
           {
             "tz": null,
-            "mz": 5.25,
+            "mz": 3640.25,
             "kapitel": "B3-47",
             "typen": [
               "erkenntnis"
@@ -3023,7 +3045,7 @@
           },
           {
             "tz": null,
-            "mz": 5.28,
+            "mz": 3640.28,
             "kapitel": "B3-48",
             "typen": [
               "schlüssel"
@@ -3038,7 +3060,7 @@
           },
           {
             "tz": null,
-            "mz": 5.3,
+            "mz": 3640.3,
             "kapitel": "B3-I10",
             "typen": [
               "tschechow",
@@ -3054,7 +3076,7 @@
           },
           {
             "tz": null,
-            "mz": 5.35,
+            "mz": 3640.35,
             "kapitel": "B3-50",
             "typen": [
               "tschechow"
@@ -3066,7 +3088,7 @@
           },
           {
             "tz": null,
-            "mz": 5.4,
+            "mz": 3640.4,
             "kapitel": "B3-51",
             "typen": [
               "schlüssel"
@@ -3078,7 +3100,7 @@
           },
           {
             "tz": null,
-            "mz": 5.45,
+            "mz": 3640.45,
             "kapitel": "B3-53",
             "typen": [
               "schlüssel"
@@ -3093,7 +3115,7 @@
           },
           {
             "tz": null,
-            "mz": 5.48,
+            "mz": 3640.48,
             "kapitel": "B3-54",
             "typen": [
               "schlüssel"
@@ -3108,7 +3130,7 @@
           },
           {
             "tz": null,
-            "mz": 5.5,
+            "mz": 3640.5,
             "kapitel": "B3-56",
             "typen": [
               "erkenntnis"
@@ -3120,7 +3142,7 @@
           },
           {
             "tz": null,
-            "mz": 5.52,
+            "mz": 3640.52,
             "kapitel": "B3-I11",
             "typen": [
               "tod"
@@ -3135,7 +3157,7 @@
           },
           {
             "tz": null,
-            "mz": 5.53,
+            "mz": 3640.53,
             "kapitel": "B3-60",
             "typen": [
               "schlüssel"
@@ -3150,7 +3172,7 @@
           },
           {
             "tz": null,
-            "mz": 5.55,
+            "mz": 3640.55,
             "kapitel": "B3-I12",
             "typen": [
               "erkenntnis"
@@ -3165,7 +3187,7 @@
           },
           {
             "tz": null,
-            "mz": 5.6,
+            "mz": 3640.6,
             "kapitel": "B3-61",
             "typen": [
               "schlüssel"
@@ -3180,7 +3202,7 @@
           },
           {
             "tz": null,
-            "mz": 5.65,
+            "mz": 3640.65,
             "kapitel": "B3-63",
             "typen": [
               "schlüssel",
@@ -3196,7 +3218,7 @@
           },
           {
             "tz": null,
-            "mz": 5.68,
+            "mz": 3640.68,
             "kapitel": "B3-64",
             "typen": [
               "begegnung"
@@ -3218,7 +3240,7 @@
           },
           {
             "tz": null,
-            "mz": 5.7,
+            "mz": 3640.7,
             "kapitel": "B3-65",
             "typen": [
               "schlüssel"
@@ -3233,7 +3255,7 @@
           },
           {
             "tz": null,
-            "mz": 5.72,
+            "mz": 3640.72,
             "kapitel": "B3-66",
             "typen": [
               "begegnung"
@@ -3253,7 +3275,7 @@
           },
           {
             "tz": null,
-            "mz": 5.74,
+            "mz": 3640.74,
             "kapitel": "B3-69",
             "typen": [
               "erkenntnis"
@@ -3268,7 +3290,7 @@
           },
           {
             "tz": null,
-            "mz": 5.8,
+            "mz": 3640.8,
             "kapitel": "B3-71",
             "typen": [
               "schlüssel"
@@ -3280,7 +3302,7 @@
           },
           {
             "tz": null,
-            "mz": 5.82,
+            "mz": 3640.82,
             "kapitel": "B3-72",
             "typen": [
               "schlüssel"
@@ -3292,7 +3314,7 @@
           },
           {
             "tz": null,
-            "mz": 5.85,
+            "mz": 3640.85,
             "kapitel": "B3-75",
             "typen": [
               "schlüssel"
@@ -3307,7 +3329,7 @@
           },
           {
             "tz": null,
-            "mz": 5.88,
+            "mz": 3640.88,
             "kapitel": "B3-76",
             "typen": [
               "portal",
@@ -3326,7 +3348,7 @@
           },
           {
             "tz": null,
-            "mz": 5.92,
+            "mz": 3640.92,
             "kapitel": "B3-77",
             "typen": [
               "hintergrund"
@@ -3338,7 +3360,7 @@
           },
           {
             "tz": null,
-            "mz": 5.93,
+            "mz": 3640.93,
             "kapitel": "B3-78",
             "typen": [
               "erotik"
@@ -3358,7 +3380,7 @@
           },
           {
             "tz": null,
-            "mz": 5.95,
+            "mz": 3640.95,
             "kapitel": "B3-80",
             "typen": [
               "schlüssel"
@@ -3373,7 +3395,7 @@
           },
           {
             "tz": null,
-            "mz": 6,
+            "mz": 3641,
             "kapitel": "B3-EP",
             "typen": [
               "schlüssel"
