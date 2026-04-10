@@ -35,8 +35,8 @@
 - Elkes Erkenntnis: Die Schemen beobachten gezielt, mit Ausdauer — das ist eine andere Qualität als die flüchtigen Wesen aus den ersten Wochen
 
 **Tschechow-Waffen geladen:**
-- Kaspars Bild mit den Augen in den Schatten → feuert in Buch 1, wenn Jara Voss im Archiv das Manuskript findet (Lenes Handzeichnung darin ist Kaspars letztes Bild oder dessen Kopie)
-- Kaspar nimmt Licht wahr wo keines ist (Licht-Resonanz) → Spiegelung auf Sorel K13 (Bilder die sich selbst schreiben)
+- Kaspars Bild mit den Augen in den Schatten → sein letztes Bild verbrennt im Feuer; Lene zeichnet es nach dem Feuer aus der Erinnerung nach und nimmt es ins Manuskript auf → feuert in Buch 1, wenn Jara Voss im Archiv die Zeichnung findet (K09-Kontext)
+- Kaspars Wahrnehmungs-Resonanz (passiv): er sieht/fühlt was hinter dem Schleier ist — daher die Schemen in seinen Bildern, ohne dass er sie bewusst malt → Spiegelung auf Sorel K10 (Kamera sieht mehr als seine Augen, anders aber verwandt)
 - Das Summen wird stoßweise statt gleichmäßig → Vorbote des Portal-Öffnens
 
 **Tschechow-Waffen abgefeuert:**
@@ -46,6 +46,9 @@
 **Cross-POV-Ankerpunkte:**
 - Schemen haben I1 und I2 unterschiedliche Formen — hier sind sie aufrecht, schmal. Kein Widerspruch aber eigene Beschreibung.
 - Das Gasthaus wo Elke wohnt: noch nicht in I1/I2 beschrieben, kann frei gesetzt werden.
+
+**Ausarbeitungs-Hinweis:**
+- Szene 1 braucht 2–3 sensorische Details die zeigen, was Elke in dieser Nacht mit Kaspar hat — kein Sex, aber Textur: Wärme, Geruch, wo er sitzt, wie er sich anfühlt wenn er schläft oder nicht schläft. Die emotionale Wucht seines Todes in Szene 2 hängt daran, dass der Leser in Szene 1 gespürt hat was Elke verliert.
 
 ---
 
@@ -59,26 +62,25 @@
 1. Elke und Kaspar laufen. Keldan ist schon auf der Straße — er hat das Feuer durch die Esse gespürt, bevor es sichtbar war.
 2. Kurzer Plan am Brunnen: Keldan hält die Schemen auf. Lene hat beim Plan-Gespräch gesagt: "Ich gehe zur Werft — tiefer Keller, Steinboden." Sie ist bereits weg. Kaspar deckt Elke. Elke muss zum Riss, zum Garten. Nicht weil sie weiß warum — der Stein zieht sie. Das Summen ist jetzt laut genug für die Ohren.
 3. **Keldans Tod:** Einer der Feuer-Schemen dreht sich nach ihm. Keldan hält einen Amboss-Eisenarm als Schild — er hat ihn aus der Schmiede geholt, das Metall reagiert auf ihn, hält die Wärme besser als es sollte. Aber die Hitze dieses Schems ist zu konzentriert. Das Eisen schmilzt. Nicht sofort — einen Atemzug lang hält es. Dann schlägt der Aufprall Keldan zurück. Er fällt an der Mauer. Steht nicht wieder auf.
-4. Elke rennt. Im Augenwinkel: Kaspar macht etwas mit Licht — ein Aufblitzen, wie wenn eine Spiegelscherbe die Sonne wirft, aber es ist mitten in der Nacht. Das Licht kommt aus ihm. Der zweite Schem hält inne, einen Herzschlag lang, als würde er geblendet. Dann trifft er Kaspar in die Brust.
+4. Elke rennt. Im Augenwinkel: Kaspar stellt sich zwischen sie und den zweiten Schem. Kein Trick. Kein Handwerk. Nur sein Körper zwischen ihrem Rücken und dem Feuer. Der Schem trifft ihn in die Brust.
 5. Elke sieht Kaspars Fall, dreht sich nicht um. Läuft weiter. Das ist kein Verrat — das ist der Plan. Das war immer der Plan.
 6. Beim Botanischen Garten: Das Tor ist offen — ein Schem hat die Eisenstäbe verbogen, der Rahmen hängt schief. Elke durch die Pforte, Hände auf den Purpurstein-Boden im Garten. Der Stein redet — nicht in Worten, in Frequenz, in Vibration. Und darunter: das Portal ist offen. Etwas hat es von der anderen Seite aufgemacht. Eine Öffnung, die sich ohne ihr Zutun aufgetan hat, die von unten kommt.
 7. Der dritte Schem ist hinter ihr. Elke springt.
 
 **Dialog-Informationen:**
 - Keldan: "Geht. Ich halte sie." — kein Abschied, nur Handwerk; er redet wie jemand der einen Arbeitsschritt an die Kollegin übergibt
-- Kaspar sagt nichts mehr nach dem Lichtblitz
+- Kaspar sagt nichts. Stellt sich einfach hin.
 - Lene hat "Ich komme nach" gesagt — sie kommt nicht (bleibt in Vael, überlebt, schreibt)
 - Elkes innere Erkenntnis: Das Portal war nicht leer — jemand hat es aufgemacht. Jemand auf der anderen Seite.
 
 **Tschechow-Waffen geladen:**
 - Portal von Moragh-Seite geöffnet (Varen) — bestätigt Canon-Regel: Moragh-Seite öffnet jederzeit; Thalassien braucht alle vier Resonanzen; Elke springt durch weil es von außen offen ist
-- Lenes Überleben → schreibt das Manuskript, das in 551 TZ im Rathauskeller liegt (K09-Kontext)
-- Kaspars Lichtblitz als Waffe → Spiegelung auf Sorels Licht-Resonanz als Verteidigung (Buch 2)
-- Der dritte Schem hinter Elke beim Sprung → was passiert mit ihm? (Buch 2 Kontext, Elke kommt in Moragh an)
+- Lenes Überleben → schreibt das Manuskript, das in 551 TZ im Rathauskeller liegt (K09-Kontext); Lenes Zeichnung von Kaspars letztem Bild darin
+- Der dritte Schem hinter Elke beim Sprung → was passiert mit ihm? (Buch 2 Kontext)
 
 **Tschechow-Waffen abgefeuert:**
 - Keldans Metall-Resonanz (I2: summender Barren) → hier als Verteidigung eingesetzt, reicht nicht
-- Kaspars Bild-Wahrnehmung (Szene 1) → hier manifest als Lichtblitz im Kampf
+- Kaspars Bild mit Augen (Szene 1) → verbrennt im Feuer; Lene zeichnet es nach; landet im Manuskript
 - Portal unter dem Garten (Canon-Kompakt) → bestätigt sich
 
 **Cross-POV-Ankerpunkte:**
