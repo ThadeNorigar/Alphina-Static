@@ -87,6 +87,8 @@
     .s-council .dot { background: #CD853F; }
     .s-logik-check .dot, .s-logik-check { color: #6B8E23; }
     .s-logik-check .dot { background: #6B8E23; }
+    .s-ausarbeitung .dot, .s-ausarbeitung { color: #B07D3B; }
+    .s-ausarbeitung .dot { background: #B07D3B; }
     .s-lektorat .dot, .s-lektorat { color: #4682B4; }
     .s-lektorat .dot { background: #4682B4; }
     .s-final .dot, .s-final { color: #2E8B57; }
@@ -117,14 +119,29 @@
       <div class="legend-item"><div class="legend-dot" style="background:#B8860B"></div> Entwurf</div>
       <div class="legend-item"><div class="legend-dot" style="background:#CD853F"></div> Council</div>
       <div class="legend-item"><div class="legend-dot" style="background:#6B8E23"></div> Logik-Check</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#B07D3B"></div> Ausarbeitung</div>
       <div class="legend-item"><div class="legend-dot" style="background:#4682B4"></div> Lektorat</div>
-      <div class="legend-item"><div class="legend-dot" style="background:#2E8B57"></div> Final</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#2E8B57"></div> Fin</div>
     </div>
 
     <div id="board"></div>
   </div>
 
   <script>
+    const STATUS_LABEL = {
+      'idee': 'Idee', 'szenenplan': 'Szenenplan',
+      'entwurf': 'Entwurf', 'entwurf-checked': 'Entwurf', 'entwurf-ok': 'Entwurf ✓',
+      'ausarbeitung': 'Ausarbeitung',
+      'council': 'Council', 'checked': 'Council',
+      'logik-check': 'Logik-Check',
+      'lektorat': 'Lektorat',
+      'final': 'Fin'
+    };
+    const STATUS_CSS = {
+      'entwurf-checked': 'entwurf', 'entwurf-ok': 'entwurf', 'checked': 'council'
+    };
+    const IN_ARBEIT = ['entwurf','entwurf-checked','entwurf-ok','ausarbeitung','council','checked','logik-check','lektorat'];
+
     fetch('/buch/status.json')
       .then(r => r.json())
       .then(data => {
@@ -135,10 +152,10 @@
         // Stats
         const total = keys.length;
         const finalCount = keys.filter(k => chapters[k].status === 'final').length;
-        const draftCount = keys.filter(k => ['entwurf','council','logik-check','lektorat'].includes(chapters[k].status)).length;
+        const draftCount = keys.filter(k => IN_ARBEIT.includes(chapters[k].status)).length;
         const totalWords = keys.reduce((s, k) => s + (chapters[k].woerter || 0), 0);
         document.getElementById('stats').innerHTML =
-          `<strong>${finalCount}</strong> / ${total} final · <strong>${draftCount}</strong> in Arbeit · <strong>${totalWords.toLocaleString('de-DE')}</strong> Wörter`;
+          `<strong>${finalCount}</strong> / ${total} fin · <strong>${draftCount}</strong> in Arbeit · <strong>${totalWords.toLocaleString('de-DE')}</strong> Wörter`;
 
         // Progress bar
         const pct = Math.round((finalCount / total) * 100);
@@ -169,7 +186,7 @@
             row.innerHTML = `
               <div class="ch-num">${isInterlude ? key : 'Kap ' + key}</div>
               <div class="ch-title">${ch.titel}</div>
-              <div class="ch-status s-${ch.status}"><div class="dot"></div> ${ch.status}</div>
+              <div class="ch-status s-${STATUS_CSS[ch.status] || ch.status}"><div class="dot"></div> ${STATUS_LABEL[ch.status] || ch.status}</div>
               <div class="ch-words">${ch.woerter ? ch.woerter.toLocaleString('de-DE') + ' W' : '—'}</div>
             `;
             group.appendChild(row);
