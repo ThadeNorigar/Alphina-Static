@@ -153,7 +153,7 @@
   "monate": [
     {
       "label": "MZ 0",
-      "tz": "~-1.453.449 TZ",
+      "tz": "-1.453.449 TZ",
       "mz": "0 MZ",
       "events": {
         "thalassien": [],
@@ -211,8 +211,8 @@
     },
     {
       "label": "MZ 3.435 bis 3.633",
-      "tz": "-79.449 bis -249 TZ",
-      "mz": "3.435 bis 3.633 MZ",
+      "tz": "-79.449 TZ",
+      "mz": "3.435 MZ",
       "events": {
         "thalassien": [
           {
@@ -228,7 +228,7 @@
     {
       "label": "-249 TZ",
       "tz": "-249 TZ",
-      "mz": "~3.633 MZ",
+      "mz": "3.633 MZ",
       "events": {
         "thalassien": [
           {
@@ -250,7 +250,7 @@
     {
       "label": "0 TZ",
       "tz": "0 TZ",
-      "mz": "~3633,62 MZ",
+      "mz": "3.634 MZ",
       "events": {
         "thalassien": [
           {
@@ -269,9 +269,9 @@
       }
     },
     {
-      "label": "MZ ~3630,75",
-      "tz": "~-1.149 TZ",
-      "mz": "~3630,75 MZ",
+      "label": "9. 3630 MZ",
+      "tz": "-1.149 TZ",
+      "mz": "9. 3630 MZ",
       "events": {
         "thalassien": [],
         "moragh": [
@@ -279,7 +279,7 @@
             "tz": -1149,
             "mz": 3630.75,
             "titel": "Varens Leylinien-Experiment scheitert",
-            "detail": "Varen (Velmar-Forscher) versucht drei benachbarte Quellen unter Mar-Keth zu koppeln um magiefreie Flaechen besiedelbar zu machen (Motiv: Expansion der bewohnbaren Zonen, nicht akute Ueberbevoelkerung). Unfall. 3 Reservoir-Quellen kollabieren unwiederbringlich: Mar-Keth (riesig, ~120.000 Einwohner, Varens Herkunftsstadt), Dulrath-Ost (gross), Reshkol (gross). Staedte verdorren, ~200.000 Menschen heimatlos. Velmar weiss und vertuscht (Ausstoss Varens ohne offizielle Anklage). Bund und Thar wissen nichts, halten es fuer Naturkatastrophe.",
+            "detail": "Varen (Velmar-Forscher) versucht drei benachbarte Quellen unter Mar-Keth zu koppeln um magiefreie Flaechen besiedelbar zu machen (Motiv: Expansion der bewohnbaren Zonen, nicht akute Ueberbevoelkerung). Unfall. 3 Reservoir-Quellen kollabieren unwiederbringlich: Mar-Keth (riesig, ~120.000 Einwohner, Varens Herkunftsstadt), Dulrath-Ost (gross), Reshkol (gross). Staedte verdorren, ~200.000 Menschen heimatlos. Velmar weiss und vertuscht (Ausstoss Varens ohne offizielle Anklage). Bund und Thar wissen nichts von Varen. Der Bund haelt es fuer Naturkatastrophe. Die Thar beschuldigen den Bund, die Explosion absichtlich ausgeloest zu haben.",
             "typen": [
               "schlüssel",
               "tschechow"
@@ -293,9 +293,9 @@
       }
     },
     {
-      "label": "MZ ~3.631",
-      "tz": "~-1.049 TZ",
-      "mz": "~3.631 MZ",
+      "label": "3.631 MZ",
+      "tz": "-1.049 TZ",
+      "mz": "3.631 MZ",
       "events": {
         "thalassien": [],
         "moragh": [
@@ -316,8 +316,8 @@
     },
     {
       "label": "MZ 3.631 bis 3.632",
-      "tz": "~-1.049 bis ~-649 TZ",
-      "mz": "3.631 bis -3 MZ",
+      "tz": "-1.049 bis -649 TZ",
+      "mz": "3.631 bis 3.632 MZ",
       "events": {
         "thalassien": [
           {
@@ -332,8 +332,8 @@
       }
     },
     {
-      "label": "MZ ~3.632",
-      "tz": "~-649 TZ",
+      "label": "3.632 MZ",
+      "tz": "-649 TZ",
       "mz": "3.632 MZ",
       "events": {
         "thalassien": [],
@@ -357,8 +357,8 @@
     },
     {
       "label": "MZ 3.632 bis 3.634",
-      "tz": "~-649 bis 154 TZ",
-      "mz": "~2 MZ-Jahre",
+      "tz": "-649 bis 154 TZ",
+      "mz": "3.632 bis 3.634 MZ",
       "events": {
         "thalassien": [
           {
@@ -509,8 +509,8 @@
     },
     {
       "label": "MZ Monat -11 bis -7",
-      "tz": "154–354 TZ",
-      "mz": "3634,08 bis -0,58 MZ",
+      "tz": "154 bis 354 TZ",
+      "mz": "3.634 MZ",
       "events": {
         "thalassien": [
           {
@@ -550,8 +550,8 @@
     },
     {
       "label": "MZ Monat -6",
-      "tz": "~354 TZ",
-      "mz": "3634,5 MZ",
+      "tz": "354 TZ",
+      "mz": "6. 3634 MZ",
       "events": {
         "thalassien": [],
         "moragh": [
@@ -574,8 +574,8 @@
     },
     {
       "label": "MZ Monat -5 bis -3",
-      "tz": "~354–485 TZ",
-      "mz": "3634,58 bis -0,25 MZ",
+      "tz": "354 bis 485 TZ",
+      "mz": "7. 3634 bis 10. 3634 MZ",
       "events": {
         "thalassien": [
           {
@@ -600,8 +600,8 @@
     },
     {
       "label": "MZ Monat -2",
-      "tz": "~485 TZ",
-      "mz": "3634,83 MZ",
+      "tz": "485 TZ",
+      "mz": "10. 3634 MZ",
       "events": {
         "thalassien": [
           {
@@ -647,8 +647,8 @@
     },
     {
       "label": "Buch 1 — MZ Monat -1 bis 0",
-      "tz": "~551 (Frühling–Herbst) TZ",
-      "mz": "3634,92 bis 0 MZ",
+      "tz": "551 TZ",
+      "mz": "11. 3634 bis 3.635 MZ",
       "buch": "Buch 1: Der Riss",
       "events": {
         "thalassien": [
@@ -2253,7 +2253,7 @@
           }
         ],
         "sync": {
-          "tz": "~551 TZ",
+          "tz": "551 TZ",
           "mz": "3.635 MZ",
           "label": "Portal → Die Vier + Runa nach Moragh"
         }
@@ -2261,8 +2261,8 @@
     },
     {
       "label": "MZ Monat 1",
-      "tz": "~551–583 TZ",
-      "mz": "3.635 bis 0,08 MZ",
+      "tz": "551 bis 583 TZ",
+      "mz": "3.635 bis 1. 3635 MZ",
       "buch": "Buch 2: Das Auge (beginnt NACH Elke-Treffen)",
       "events": {
         "thalassien": [],
@@ -2410,8 +2410,8 @@
     },
     {
       "label": "MZ Monat 2",
-      "tz": "~583–651 TZ",
-      "mz": "3635,08 bis 0,17 MZ",
+      "tz": "583 bis 651 TZ",
+      "mz": "1. 3635 bis 2. 3635 MZ",
       "events": {
         "thalassien": [
           {
@@ -2570,12 +2570,12 @@
     },
     {
       "label": "MZ Monat 3",
-      "tz": "~651 TZ",
-      "mz": "3635,17 bis 0,25 MZ",
+      "tz": "651 TZ",
+      "mz": "2. 3635 bis 3. 3635 MZ",
       "events": {
         "sync": {
-          "tz": "~651 TZ",
-          "mz": "~3635,25 MZ",
+          "tz": "651 TZ",
+          "mz": "3635,25 MZ",
           "label": "Portal ← Maren geht nach Thalassien"
         },
         "thalassien": [
@@ -2702,8 +2702,8 @@
     },
     {
       "label": "MZ Monat 4 bis MZ Jahr 5,5",
-      "tz": "~651–2.751 TZ",
-      "mz": "3635,25 bis 5,5 MZ",
+      "tz": "651 bis 2.751 TZ",
+      "mz": "3. 3635 bis 6. 3640 MZ",
       "events": {
         "thalassien": [
           {
@@ -2878,14 +2878,14 @@
       }
     },
     {
-      "label": "MZ Jahr ~5,5 — Buch 3",
-      "tz": "~2.751 TZ",
-      "mz": "~3640,5 MZ",
+      "label": "6. 3640 MZ — Buch 3",
+      "tz": "2.751 TZ",
+      "mz": "6. 3640 MZ",
       "buch": "Buch 3: Die Quelle",
       "events": {
         "sync": {
-          "tz": "~2.751 TZ",
-          "mz": "~3640,5 MZ",
+          "tz": "2.751 TZ",
+          "mz": "3640,5 MZ",
           "label": "Portal → Wiedervereinigung"
         },
         "thalassien": [
