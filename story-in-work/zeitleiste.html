@@ -102,6 +102,21 @@
     .kap-datum { font-family: 'JetBrains Mono', monospace; font-size: 0.55rem; color: var(--smoke); margin-left: auto; }
     .kap-empty { padding: 0.6rem 1rem; font-style: italic; color: var(--smoke); opacity: 0.25; font-size: 0.7rem; }
 
+    /* Datums-Marker (volle Breite, zwischen Kapiteln) */
+    .date-marker {
+      grid-column: 1 / -1;
+      display: flex; align-items: center; gap: 0.8rem;
+      padding: 0.25rem 1.8rem;
+      background: rgba(107,58,58,0.02);
+    }
+    .date-marker::before, .date-marker::after {
+      content: ''; flex: 1; height: 1px; background: rgba(107,58,58,0.08);
+    }
+    .date-marker-text {
+      font-family: 'JetBrains Mono', monospace; font-size: 0.55rem;
+      color: var(--smoke); letter-spacing: 0.08em; white-space: nowrap;
+    }
+
     .book-marker { background: rgba(107,58,58,0.04); border: 1px solid rgba(107,58,58,0.08); border-radius: 3px; padding: 0.4rem 0.5rem; margin-bottom: 1rem; }
     .thal .book-marker { border-color: rgba(184,134,11,0.12); background: rgba(184,134,11,0.04); }
     .book-marker .ev-time { font-size: 0.55rem; letter-spacing: 0.1em; text-transform: uppercase; }
@@ -331,7 +346,8 @@
           kapMap.get(k)[ev._world].push(ev);
         }
 
-        // Render each kapitel: full-width header, then two columns for events
+        // Render each kapitel: date marker + full-width header + two columns
+        let lastDate = '';
         kapOrder.forEach(kapId => {
           const kap = kapMap.get(kapId);
           const allKapEvents = [...kap.thal, ...kap.moragh];
@@ -339,6 +355,16 @@
           const kapLabel = kapId.startsWith('I') ? kapId : 'K' + kapId;
           const statusClass = info.status || 'szenenplan';
           const statusText = info.status || '';
+
+          // Date marker if date changed
+          if (info.datum && info.datum !== lastDate) {
+            lastDate = info.datum;
+            tl.innerHTML += `
+              <div class="date-marker">
+                <span class="date-marker-text">${escHtml(info.datum)}</span>
+              </div>
+            `;
+          }
 
           // Kapitel header (full width)
           tl.innerHTML += `
