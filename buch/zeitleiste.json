@@ -269,9 +269,9 @@
       }
     },
     {
-      "label": "9. 3630 MZ",
+      "label": "3631 MZ",
       "tz": "-1.149 TZ",
-      "mz": "9. 3630 MZ",
+      "mz": "3631 MZ",
       "events": {
         "thalassien": [],
         "moragh": [
@@ -551,7 +551,7 @@
     {
       "label": "MZ Monat -6",
       "tz": "354 TZ",
-      "mz": "6. 3634 MZ",
+      "mz": "3634 MZ",
       "events": {
         "thalassien": [],
         "moragh": [
@@ -575,7 +575,7 @@
     {
       "label": "MZ Monat -5 bis -3",
       "tz": "354 bis 485 TZ",
-      "mz": "7. 3634 bis 10. 3634 MZ",
+      "mz": "3634 MZ",
       "events": {
         "thalassien": [
           {
@@ -601,7 +601,7 @@
     {
       "label": "MZ Monat -2",
       "tz": "485 TZ",
-      "mz": "10. 3634 MZ",
+      "mz": "3634 MZ",
       "events": {
         "thalassien": [
           {
@@ -648,7 +648,7 @@
     {
       "label": "Buch 1 — MZ Monat -1 bis 0",
       "tz": "551 TZ",
-      "mz": "11. 3634 bis 3.635 MZ",
+      "mz": "3634 bis 3.635 MZ",
       "buch": "Buch 1: Der Riss",
       "events": {
         "thalassien": [
@@ -2262,7 +2262,7 @@
     {
       "label": "MZ Monat 1",
       "tz": "551 bis 583 TZ",
-      "mz": "3.635 bis 1. 3635 MZ",
+      "mz": "3.635 MZ",
       "buch": "Buch 2: Das Auge (beginnt NACH Elke-Treffen)",
       "events": {
         "thalassien": [],
@@ -2411,7 +2411,7 @@
     {
       "label": "MZ Monat 2",
       "tz": "583 bis 651 TZ",
-      "mz": "1. 3635 bis 2. 3635 MZ",
+      "mz": "3.635 MZ",
       "events": {
         "thalassien": [
           {
@@ -2571,7 +2571,7 @@
     {
       "label": "MZ Monat 3",
       "tz": "651 TZ",
-      "mz": "2. 3635 bis 3. 3635 MZ",
+      "mz": "3.635 MZ",
       "events": {
         "sync": {
           "tz": "651 TZ",
@@ -2703,7 +2703,7 @@
     {
       "label": "MZ Monat 4 bis MZ Jahr 5,5",
       "tz": "651 bis 2.751 TZ",
-      "mz": "3. 3635 bis 6. 3640 MZ",
+      "mz": "3.635 bis 3.640 MZ",
       "events": {
         "thalassien": [
           {
@@ -2878,9 +2878,9 @@
       }
     },
     {
-      "label": "6. 3640 MZ — Buch 3",
+      "label": "3.640 MZ — Buch 3",
       "tz": "2.751 TZ",
-      "mz": "6. 3640 MZ",
+      "mz": "3.640 MZ",
       "buch": "Buch 3: Die Quelle",
       "events": {
         "sync": {
