@@ -76,6 +76,7 @@
     .ev-tags { display: flex; gap: 0.25rem; margin-top: 0.3rem; flex-wrap: wrap; }
     .tag { font-family: 'Inter', sans-serif; font-size: 0.48rem; padding: 0.08rem 0.35rem; border-radius: 2px; text-transform: uppercase; }
     .pov { font-family: 'Inter', sans-serif; font-size: 0.48rem; padding: 0.06rem 0.25rem; border-radius: 2px; background: rgba(107,58,58,0.05); color: var(--smoke); margin-left: 0.25rem; }
+    .kap-badge { font-family: 'Inter', sans-serif; font-size: 0.5rem; font-weight: 600; padding: 0.08rem 0.35rem; border-radius: 2px; background: rgba(107,58,58,0.1); color: var(--accent); margin-left: 0.15rem; letter-spacing: 0.02em; }
 
     .book-marker { background: rgba(107,58,58,0.04); border: 1px solid rgba(107,58,58,0.08); border-radius: 3px; padding: 0.4rem 0.5rem; margin-bottom: 1rem; }
     .thal .book-marker { border-color: rgba(184,134,11,0.12); background: rgba(184,134,11,0.04); }
@@ -162,12 +163,20 @@
       if (primaryType === 'portal') dotStyle = `background:${typColors.portal}; width:7px; height:7px; left:-1.85rem; top:0.3rem;`;
       else if (typColors[primaryType]) dotStyle = `background:${typColors[primaryType]};`;
 
-      // Time display
+      // Time display with Buch + Kapitel
       let timeHtml = '';
       if (side === 'thal' && ev.tz !== undefined) {
         timeHtml = `<span class="tz">TZ ${ev.tz}</span> <span class="sep">&middot;</span> <span class="mz">MZ ${ev.mz}</span>`;
       } else if (side === 'moragh' && ev.mz !== undefined) {
         timeHtml = `<span class="mz">MZ ${ev.mz}</span> <span class="sep">&middot;</span> <span class="tz">TZ ${ev.tz}</span>`;
+      }
+      // Kapitel-Badge (Buch + Kapitel + Status)
+      if (ev.kapitel) {
+        const buch = ev.buch || '';
+        const kap = ev.kapitel.startsWith('I') ? ev.kapitel : 'K' + ev.kapitel;
+        const status = ev.kapitel_status || '';
+        const statusDot = status === 'final' ? '\u2713' : status === 'lektorat' ? '\u270E' : '';
+        timeHtml += ` <span class="kap-badge">${buch} ${kap}${statusDot ? ' ' + statusDot : ''}</span>`;
       }
       if (ev.pov) timeHtml += ` <span class="pov">${escHtml(ev.pov)}</span>`;
 
