@@ -1,3 +1,6 @@
+> **LEGACY — KONTEXT IRRELEVANT**
+> Dieses Dokument gehört zur alten Pipeline und ist veraltet. Das finale Kapitel hat Vorrang. Nicht als Referenz verwenden.
+
 # Kapitel 11, Szene 2 — Kvist
 
 Die Oberstadt lag im Mittagslicht. Vesper ging die siebte Stufe der Treppe in den Purpurstein, wandte sich oben angekommen rechts. Die Pflastersteine waren hier flacher als unten am Hafen, mit weniger Spurrinnen, weil die Karren nur bis zur Hälfte der Steigung fuhren. Drei Häuser. Das dritte hatte die Tür mit dem eisernen Beschlag, von der ihm der Wirt am zweiten Tag erzählt hatte.

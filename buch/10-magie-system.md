@@ -275,6 +275,20 @@ Die Riss-Quelle zu zerstören ist dieselbe Handlung wie jede andere Quellen-Übe
 
 ---
 
+## Portalmagie
+
+**Portalmagie braucht Druckmanipulation UND Zeitmanipulation.** Schwerkraft und Zeit sind dasselbe Phänomen (Einstein). Ein Quellenportal ist im Prinzip ein Wurmloch — es braucht eine Verformung von Raum UND eine Verformung der Zeitachse. Normale Moragh-Magie ist **Raummanipulation** (Wasser, Pflanzen, Feuer, Stein, Licht). Nur wenige Magier können zusätzlich Zeit manipulieren.
+
+**Wer kann Portale öffnen:**
+- **Varen** — Druckmanipulation (Velmar-Binder-Kaste) + angelernte Zeitmanipulation (2 Jahre Portalforschung, MZ -3 bis -1). Erste Versuche brachial und unsicher.
+- **Vesper** — Resonanz Muster/Zeit. Schwerkraftmanipulation IST Zeitmanipulation. Kann die Portalmagie intuitiv begreifen. Liefert die zweite Komponente wenn die Vier das Portal von Thalassien-Seite öffnen.
+- **Elke** — Resonanz Erde/Stein = reine Raummanipulation. Kann KEIN Portal öffnen. Kam durch Varens Portal.
+- **Maren** — Resonanz Wasser/Fluss = Raummanipulation, nicht Zeit. Kann nach dieser Regel **kein** Portal öffnen. Rückweg in Buch 2 offen (siehe `19-varen.md`, offene Frage).
+
+**Historisches Verbot:** Vor ~200 MZ-Jahren sind ~350 Menschen durch ein Quellenportal nach Thalassien geflohen. Keiner kam zurück (Canon-Hypothese: der Zeit-Begabte starb auf der anderen Seite). Seitdem ist Portalmagie **von allen Fraktionen verboten** — gilt als unkontrollierbar, gefährlich, religiös unrein. Einer der wenigen Konsenspunkte zwischen Bund, Velmar und Thar.
+
+---
+
 ## Schemen
 
 Schemen sind beschworene Diener aus Moragh — die körperliche Alternative zu klassischen Dämonen in dieser Welt. Sie haben eine feste Masse, einen echten Körper mit Gewicht und Substanz, und sie können physisch mit der Welt interagieren: greifen, tragen, verletzen, sich verteidigen. Varen schickt einen Teil seiner Schemen gezielt durch das Portal nach Thalassien. Sie sind keine passive Leckage der Quelle — sie kommen, weil Varen sie schickt. Eine Ausnahme ist der Boots-Schemen in Marens Werft (siehe unten).

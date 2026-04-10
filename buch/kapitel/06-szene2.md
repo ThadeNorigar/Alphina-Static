@@ -1,3 +1,6 @@
+> **LEGACY — KONTEXT IRRELEVANT**
+> Dieses Dokument gehört zur alten Pipeline und ist veraltet. Das finale Kapitel hat Vorrang. Nicht als Referenz verwenden.
+
 # Kapitel 6, Szene 2 — Das Lichthaus
 
 Vael lag im Nebel.

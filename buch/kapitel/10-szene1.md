@@ -1,3 +1,6 @@
+> **LEGACY — KONTEXT IRRELEVANT**
+> Dieses Dokument gehört zur alten Pipeline und ist veraltet. Das finale Kapitel hat Vorrang. Nicht als Referenz verwenden.
+
 # Kapitel 10, Szene 1 — Die Reihe an der Wand
 
 Das Bild kam aus dem Silber, langsam, so wie Bilder kamen — die dunkelsten Flächen zuerst, Wasser und Schatten unter den Pollern, dann die Mittelwerte, die Kaimauer, die Masten im Dunst, dann die hellen Stellen ganz zum Schluss, wo das Leuchtturmlicht auf der Oberfläche des Wassers gelegen hatte, als er vor drei Nächten den Verschluss gedrückt hatte.

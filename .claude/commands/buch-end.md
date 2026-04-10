@@ -30,8 +30,8 @@ Falls nicht existiert, neu anlegen. Sonst appendieren.
 - Welt/Plot/Stil-Festlegungen
 
 ### Kapitel-Bewegungen
-- 02 entwurf → council
-- I1 szenenplan → entwurf
+- B1-K14 entwurf → entwurf-ok
+- B1-K12 ausarbeitung → lektorat
 - (nur falls Status-Änderungen in dieser Session)
 
 ### Offene Threads
@@ -55,11 +55,17 @@ Datei: `state/current.md`
 
 ### 4. Kapitel-Status prüfen
 
-```bash
-cat buch/status.json | python -c "import json, sys; d = json.load(sys.stdin); ..."
-```
+Nutze `node -e` um `buch/status.json` auszuwerten (kein Python verfügbar).
 
 Zeige Übersicht: Wie viele Kapitel sind in welchem Status?
+
+### 4b. Handoff-Check
+
+```bash
+ls buch/kapitel/*-handoff.md 2>/dev/null
+```
+
+Falls Handoff-Files existieren: als offene Pipeline-Threads in die Zusammenfassung aufnehmen. Die nächste Session muss diese zuerst weiterführen.
 
 ### 5. Kaskaden-Check
 

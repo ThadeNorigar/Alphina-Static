@@ -24,13 +24,13 @@ Dieses File konsolidiert sämtliche Entscheidungen zu Varen, seinem Motiv, seine
 
 ---
 
-## 2. Varens Motiv — Überbevölkerung
+## 2. Varens Motiv — Expansion der bewohnbaren Zonen
 
-**Kernthese (NEU in dieser Session):** Moragh hat ein Überbevölkerungsproblem. Quellen und Versorgung sind endlich. Das Plateau trägt nur eine begrenzte Zahl an Menschen, weil Magie-Regeneration nur in der Nähe von Quellen funktioniert. Mehr Menschen → mehr Verbrauch → chronische Übernutzung → Quellen schrumpfen langsam.
+**Kernthese:** Moragh hat kein akutes Überbevölkerungsproblem, aber große magiefreie Flächen sind unbesiedelbar. Quellen und Versorgung funktionieren — für die besiedelten Gebiete. Aber zwischen den Quellen-Städten liegen weite, tote Zonen ohne Resonanz, in denen kein Handwerk, kein Anbau, kein Leben möglich ist (alles in Moragh wird per Magie gemacht).
 
-Varen war ein junger Binder mit Blick für Systemprobleme. Er hat gesehen was andere nicht sehen wollten: das Gleichgewicht kippt. Die Velmar ignorieren es (ihr Kastensystem schützt die Elite, der Rest verhungert leise). Der Bund ignoriert es (seine Demokratie hat keinen Raum für Zukunfts-Entscheidungen). Die Thar ignorieren es (ihre Firmenlogik sagt "mehr Kopplung, mehr Ressourcen").
+Varen war ein junger Binder mit Blick für Systemprobleme. Er sah die Möglichkeit: wenn man die Reichweite bestehender Quellen vergrößert, werden neue Flächen besiedelbar. Mehr Raum, mehr Landwirtschaft, mehr Bevölkerungswachstum — langfristig. Keine akute Krise, aber eine Vision.
 
-Varen wollte **die bestehenden Quellen stärken**. Mehr Kapazität in die vorhandenen Flöze pumpen, damit mehr Menschen an einer Quelle leben können. Nicht erobern, nicht verteilen, nicht umsiedeln — **skalieren**. Das war seine Idee.
+Varen wollte **die bestehenden Quellen stärken und ihre Reichweite vergrößern**. Mehr Kapazität in die vorhandenen Flöze pumpen, damit die magiefreien Zonen zwischen den Städten erschlossen werden können. Nicht erobern, nicht verteilen, nicht umsiedeln — **expandieren**. Das war seine Idee.
 
 **Moralisch wichtig:** Varen wollte **niemanden opfern**. Kein Kalkül, keine Malthus-These, keine "die Schwachen müssen gehen"-Ideologie. Er hat nicht entschieden wer sterben soll. Er hat versucht, die Quellen zu vergrößern, und dabei hat er das Gegenteil erreicht. Der Unfall ist umso schmerzhafter weil seine Absicht **gut** war.
 
@@ -71,7 +71,7 @@ Was tatsächlich geschah: Die drei Quellen fehlten. Die verbleibenden reichten n
 
 1. **Politisch:** Eine Velmar-Verantwortung für den Quellen-Kollaps würde den Krieg gegen Velmar verschärfen. Bund und Thar wären zusammengekommen, um Velmar zu zerschlagen. Velmar ist ohnehin die kleinste Fraktion (~0,7 Mio Einwohner, 16 Städte). Sie haben nicht die Masse um eine zusätzliche Front zu überleben.
 
-2. **Theologisch:** Das Velmar-Kastensystem beruht auf dem Ideal der "Reinheit der Bindung". Ein Velmar-Binder, der drei Quellen tötet, ist ein **theologisches Problem**, nicht nur ein politisches. Es bedeutet: die Bindung ist nicht rein, die Kaste hat gefehlt, die göttliche Ordnung ist verletzt. Das würde die Kaste zerreißen. Lieber schweigen.
+2. **Doktrinär:** Das Velmar-Kastensystem beruht auf dem Ideal der "Reinheit der Bindung". Ein Velmar-Binder, der drei Quellen tötet, ist ein **doktrinäres Problem**, nicht nur ein politisches. Es bedeutet: die Bindung ist nicht rein, die Kaste hat gefehlt, die Bindungsordnung ist verletzt. Das würde die Kaste zerreißen. Lieber schweigen.
 
 **Also haben sie Varen verdeckt ausgestoßen.** Kein Urteil, kein Eintrag, kein öffentliches Wort. Ein Dutzend Binder der Elite wissen alles. Der Rest ahnt "da war etwas" und fragt nicht nach. Die Velmar-Bevölkerung weiß nichts. Die anderen Fraktionen wissen nichts.
 
@@ -118,9 +118,9 @@ Maren ist Wasser/Fluss — Raummanipulation, nicht Zeit. Nach der Regel kann sie
 
 **MZ -1 bis -0.5 (6 Monate):** Varen und Elke als Paar. Liebe, Forschung, Thalassisch-Unterricht. Elke bringt ihm die Sprache bei (Grundform 1423er Thalassisch). Er forscht weiter, jetzt mit einem klaren Ziel: Resonanz-Begabte nach Moragh holen. Elke wusste nicht, worauf er hinauswill. Sie dachte er studiert sie.
 
-**MZ -0.5 (= TZ 354):** Elke durchschaut ihn. "Du willst die Welt reparieren und wirst Menschen zerbrechen dabei." Sie verlässt ihn. Zwei Gründe — beide wahr:
-1. Sie durchschaut seine Obsession und weiß, dass er die Thalassier nicht schützen wird.
-2. Sie will nicht zurück nach Vael. Sie hat in Moragh ein neues Leben, ihren Garten, den Stein den sie formen kann. Vael ist tot für sie (Kaspar und Keldan sind im Feuer gestorben, ihre Menschen sind weg).
+**MZ -0.5 (= TZ 354):** Elke verlässt ihn. Sie weiß NICHT von den zerstörten Quellen — das ist Velmar-Geheimnis. Ihre Gründe sind persönlich:
+1. Sie will nicht zurück nach Vael. Sie hat in Moragh ein neues Leben, ihren Garten, den Stein den sie formen kann. Vael ist tot für sie (Kaspar und Keldan sind im Feuer gestorben, ihre Menschen sind weg).
+2. Sie spürt dass Varens Forschung sie als Mittel zum Zweck braucht, nicht als Partnerin. Er ist besessen von seinem Projekt, und sie will kein Werkzeug sein.
 
 **Elke hält ihre Beziehung zu Varen geheim.** Wenn die Vier auftauchen und Elke ihnen als Führerin zur Seite steht, kann sie ihnen nicht sagen "ich war mit dem Mann zusammen, der euch alle hergelockt hat und der Sorel getötet hat". Also schweigt sie. Das ist eine große Tschechow-Bombe für Buch 2: Elke ist Mitwisserin, sie wusste seit einem Jahr was Varen plant, sie hat niemanden gewarnt, und sie hat ihre Rolle vertuscht.
 
@@ -308,7 +308,7 @@ Varen rahmt die toten Quellen als **Naturkatastrophe** oder **Folge des Krieges*
 **Welcher Weg — offene Entscheidung.** Ich würde Elke nehmen. Das schließt zwei Tschechow-Bomben gleichzeitig: Elkes Geheimhaltung und Varens Verschweigen. Und es gibt Alphina einen Menschen, an den sie sich wenden kann, der Varen besser kennt als sie selbst.
 
 **Was Alphina erfährt:**
-1. Varen hat das Experiment durchgeführt. Absicht war gut (Überbevölkerung). Ergebnis war furchtbar.
+1. Varen hat das Experiment durchgeführt. Absicht war gut (magiefreie Zonen besiedelbar machen). Ergebnis war furchtbar.
 2. Drei Quellen tot. 200.000 Menschen heimatlos. Der Krieg begann wegen ihm.
 3. **Und er hat es ihr verschwiegen.** Jeden Tag. Jeder Kuss. Jede Nacht.
 
@@ -388,8 +388,8 @@ Moragh hat **keine Sonne**. Es hat eine Akkretionsscheibe (ein Ring aus leuchten
 |---|---|
 | Varens Herkunft | Velmar, aus Mar-Keth (der Stadt die er versehentlich tötet) |
 | Wer weiß von Varens Schuld | Velmar-Binder-Elite weiß alles und vertuscht. Andere Fraktionen wissen nichts. |
-| Varens Motiv | Überbevölkerung. Er wollte Quellen stärken, wollte niemanden opfern. Unfall. |
-| Wie der Krieg ausbrach | Nicht durch Falschbeschuldigung. Durch das Vakuum der fehlenden Quellen. |
+| Varens Motiv | Expansion der bewohnbaren Zonen (magiefreie Flächen besiedelbar machen). Er wollte Quellen stärken, wollte niemanden opfern. Unfall. |
+| Wie der Krieg ausbrach | Das Thar-Konglomerat glaubt, der Bund von Orath habe die Explosion absichtlich ausgelöst. Misstrauen und Vergeltung, nicht Ressourcenknappheit. Die Vier erfahren zunächst die Konglomerat-Version. |
 | Portalmagie-Regel | Braucht Druck- UND Zeitmanipulation. Schwerkraft = Zeit (Einstein). |
 | Portalmagie-Verbot | Nach den 350 Verschwundenen vor 200 MZ-Jahren von allen Fraktionen verboten. |
 | Timing Portalforschung | MZ -3 (1 Jahr nach Kriegsbeginn), 2 Jahre bis Elke (MZ -1), Elkes Ankunft als brachialer Unfall |

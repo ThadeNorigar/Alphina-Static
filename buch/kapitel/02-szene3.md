@@ -1,3 +1,6 @@
+> **LEGACY — KONTEXT IRRELEVANT**
+> Dieses Dokument gehört zur alten Pipeline und ist veraltet. Das finale Kapitel hat Vorrang. Nicht als Referenz verwenden.
+
 Die Kerze auf dem Regal war heruntergebrannt bis auf einen Stummel.
 
 Sorel wusste nicht, wie viele Stunden vergangen waren. Die Zeit in seinem Keller hatte keine Uhren, keine Fenster, kein Licht das sich veränderte. Nur das Rotlicht, das brannte, solange die Lampe Öl hatte, und die Kerze, die er angezündet hatte, bevor er die erste Platte ins Bad legte, und die jetzt ein Stummel war, und das Wachs war über den Rand des Tellers gelaufen und auf das Holz des Regals getropft, und er hatte es nicht bemerkt. Er bemerkte solche Dinge. Immer. Dass er es nicht bemerkt hatte, sagte ihm mehr als sein Puls und sein Atem und die Steifheit in seinem Nacken von Stunden in derselben Haltung.

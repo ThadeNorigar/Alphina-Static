@@ -1,3 +1,6 @@
+> **LEGACY — KONTEXT IRRELEVANT**
+> Dieses Dokument gehört zur alten Pipeline und ist veraltet. Das finale Kapitel hat Vorrang. Nicht als Referenz verwenden.
+
 # Kapitel 1 v2 — Szenenplan (Ziel: 4.500 Wörter, 18 Seiten)
 
 ## Grundsatz: LANGSAMER. DICHTER. Die Farne kommen später.

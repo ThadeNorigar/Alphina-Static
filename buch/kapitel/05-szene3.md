@@ -1,3 +1,6 @@
+> **LEGACY — KONTEXT IRRELEVANT**
+> Dieses Dokument gehört zur alten Pipeline und ist veraltet. Das finale Kapitel hat Vorrang. Nicht als Referenz verwenden.
+
 # Kapitel 5 — Szene 3
 
 Das Zimmer im "Anker" ist klein genug um es mit drei Schritten zu kennen.

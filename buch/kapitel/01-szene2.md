@@ -1,3 +1,6 @@
+> **LEGACY — KONTEXT IRRELEVANT**
+> Dieses Dokument gehört zur alten Pipeline und ist veraltet. Das finale Kapitel hat Vorrang. Nicht als Referenz verwenden.
+
 Velde wacht auf wie eine Maschine.
 
 Um sechs Uhr dreißig schieben sich die ersten Lastkähne durch die Kanäle, beladen mit Mehl und Kohle und Blechdosen voller Sardinen, und die Kahnschiffer rufen einander zu in dem breiten, flachen Dialekt der Tidelände, schwere Wörter, kurze Vokale, das R gerollt wie Kiesel auf dem Kanalgrund. Um sieben schlagen die Turmuhren, alle fünfundvierzig gleichzeitig — das Rathaus am Kanalplatz, die Marienkirche am Alten Hafen, die kleine Uhr über dem Gildehaus, die immer zwei Sekunden nachgeht und die niemand repariert, weil das Gildehaus seit achtzig Jahren geschlossen ist und die Gilde, die darin tagte, ausgestorben. Fünfundvierzig Uhren, und der Klang ist so allgegenwärtig, dass ich ihn nur höre wenn er fehlt. Um halb acht riecht es nach Kaffee und frischem Brot und dem Ammoniak aus der Gerberei, und die Mischung ist so vertraut, dass sie kein Geruch mehr ist sondern ein Zustand. So riecht mein Leben.

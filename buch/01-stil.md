@@ -8,9 +8,11 @@ King schreibt so, dass man den Autor vergisst. Man liest nicht "einen Roman." Ma
 
 ## POV-Architektur
 
-### Hauptperspektive: Alphina (ca. 45%)
+### Hauptperspektive: Alphina (ca. 25%)
 
-Alphinas Kapitel sind in der **Ich-Perspektive.** Präsens. Kein anderer POV bekommt das Ich. Das macht sie zur Linse, durch die der Leser die Welt sieht — und wenn sie stirbt, reisst es den Leser raus wie ein Stromausfall.
+> **LEGACY-HINWEIS:** Dieses Dokument stammt aus der frühen Projektphase. Die aktuelle Stilreferenz ist `02-stilregeln-v2.md`. Alle POVs sind 3. Person nah/Präteritum, je ~25%. Diese Datei enthält noch nützliche Tonbeispiele, aber die Architektur-Entscheidungen (Ich-Perspektive, 45%) sind überholt.
+
+Alphinas Kapitel sind in der **3. Person nah, Präteritum** — wie alle anderen POVs.
 
 ```
 Ich rieche den Garten, bevor ich ihn sehe. Das ist normal — der botanische 
@@ -231,7 +233,7 @@ DAS ist Dark Romance. Nicht Handschellen und Befehle. Sondern eine Frau, die ent
 
 Jede intime Szene hat eine emotionale Funktion im Plot. Sex ist nie "nur Sex." Es ist der Moment, in dem die Magie am stärksten blitzt (Regel 6), in dem Alphinas Kontrolle bricht, in dem Sorel zum ersten Mal seit seiner Schwester etwas fühlt, das stärker ist als Trauer.
 
-Frequenz: Drei große Szenen im ganzen Buch. Nicht mehr. Dazwischen: Spannung, Beinahe-Berührungen, Blicke die länger dauern als sie sollten, Alphinas Ich-Perspektive die zerlegt, was ein Blick von Sorel in ihr auslöst. Die Vorfreude ist stärker als der Akt.
+Frequenz: Drei große Szenen im ganzen Buch. Nicht mehr. Dazwischen: Spannung, Beinahe-Berührungen, Blicke die länger dauern als sie sollten, Alphinas Perspektive die zerlegt, was ein Blick von Sorel in ihr auslöst. Die Vorfreude ist stärker als der Akt.
 
 ---
 

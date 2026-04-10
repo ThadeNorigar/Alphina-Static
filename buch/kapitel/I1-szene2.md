@@ -1,3 +1,6 @@
+> **LEGACY — KONTEXT IRRELEVANT**
+> Dieses Dokument gehört zur alten Pipeline und ist veraltet. Das finale Kapitel hat Vorrang. Nicht als Referenz verwenden.
+
 Am Morgen war der Nebel dünner.
 
 Elke ging früh, bevor der Marktplatz sich füllte, bevor die Fischer ihre Netze ausbreiteten und die Händler ihre Stände aufbauten. Die Straßen waren nass und die Steine glänzten im schwachen Licht, das durch die Wolken sickerte, grau und gleichmäßig, ein Licht das keine Schatten warf. Sie trug den Koffer in der rechten Hand und das Notizbuch in der linken, und ihre Stiefel waren die einzigen Schritte auf dem Kopfsteinpflaster, und der Klang hallte an den Mauern wider, lang und leer.

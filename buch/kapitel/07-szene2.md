@@ -1,3 +1,6 @@
+> **LEGACY — KONTEXT IRRELEVANT**
+> Dieses Dokument gehört zur alten Pipeline und ist veraltet. Das finale Kapitel hat Vorrang. Nicht als Referenz verwenden.
+
 # Kapitel 7 — Szene 2
 
 Zwei Stockwerke, Purpurstein, die Fenster dunkel hinter Gardinen die einmal weiß gewesen waren. Stufen zur Haustür, drei, Moos in den Fugen. Vesper klopfte.

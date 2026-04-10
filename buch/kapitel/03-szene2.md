@@ -1,3 +1,6 @@
+> **LEGACY — KONTEXT IRRELEVANT**
+> Dieses Dokument gehört zur alten Pipeline und ist veraltet. Das finale Kapitel hat Vorrang. Nicht als Referenz verwenden.
+
 # Kapitel 3, Szene 2 — Der Gast
 
 Das Gasthaus "Zur Feder" roch nach Holzfeuer und nassem Mantel und dem Bier das in die Tischplatten eingezogen war, über Jahrzehnte, ein süßlicher Unterton unter dem Rauch. Die Decke war niedrig. Die Balken dunkel. An den Wänden hingen Uhren — alte, kaputte, die Wirte-Familie sammelte sie, niemand wusste warum. Dreizehn Stück, keine lief. Vesper hatte einmal angeboten sie zu reparieren. Der Wirt hatte gesagt: "Die sollen so."

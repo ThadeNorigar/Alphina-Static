@@ -89,6 +89,36 @@ Ebene  Typ                  Dateien                              Inhalt
                                                                  Was die Leserin liest.
 ```
 
+### Kapitelseiten-Template
+
+Jedes finale Kapitel beginnt mit diesem Header:
+
+```markdown
+# B1-K{KK} — {Figurname}
+
+*{Tag}. {Monat} 551 · {N} Wochen {M} Tage in Vael*
+
+{Erster Absatz der Prosa}
+```
+
+**Wochenzählung:** Ankunftstag = Tag 1. Berechnung: `(Kapiteldatum - Ankunftsdatum + 1)`. Dann `Wochen = floor(Tage / 7)`, `Rest = Tage % 7`.
+
+| Figur | Ankunft in Vael | Referenz |
+|-------|-----------------|----------|
+| Alphina | 24. März (K05) | K09: 11. Mai = 7W ✓ |
+| Maren | 24. März (K04) | K08: 10. Mai = 6W6T ✓ |
+| Sorel | 27. März (K06) | K10: 13. Mai = 6W6T ✓ |
+| Vesper | 28. März (K07) | K11: 14. Mai = 6W6T ✓ |
+
+**Hinweis:** Fixe Kapitel (1–14, I1, I2) haben teils leicht abweichende Zählung. Die Kapitel-Header sind Source of Truth — nicht nachträglich korrigieren.
+
+**Alte Kapitel (1–11, I1, I2)** ohne `B1-K`-Prefix beginnen mit:
+```markdown
+# {Figurname}
+
+*{Tag}. {Monat} 551 · {Zeitangabe}*
+```
+
 **Hierarchie-Umkehrung Zeitleiste/Aktplan:** Die Zeitleiste ist ab sofort Ebene 5 (früher Ebene 6), die Aktpläne sind Ebene 6 (früher Ebene 5). Grund: Die Zeitleiste ist knapp, maschinenlesbar und tokensparend. Bei Konflikten zwischen `zeitleiste.json` und einem Aktplan gewinnt die Zeitleiste — sie ist der primäre Referenzpunkt für Kapitelnummerierung, POV-Zuordnung und Reihenfolge. Aktpläne bleiben wichtig für die narrative Ausarbeitung, müssen aber der Zeitleiste folgen, nicht umgekehrt.
 
 ### Kaskaden-Regel

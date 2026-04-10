@@ -1,3 +1,6 @@
+> **LEGACY — KONTEXT IRRELEVANT**
+> Dieses Dokument gehört zur alten Pipeline und ist veraltet. Das finale Kapitel hat Vorrang. Nicht als Referenz verwenden.
+
 Seine Schwester war seit dreizehn Jahren tot.
 
 Die Kutsche hatte sich gedreht, an einem Dezembermorgen, auf der Brücke über den Schlundkanal, dort wo das Eis sich sammelte weil das Wasser darunter wärmer war als die Luft und der Atem des Kanals auf den Steinen gefror, eine dünne, unsichtbare Schicht, die unter den Hufen der Pferde zu Glas wurde. Sorel hatte das Geräusch gehört, bevor er die Bewegung sah. Nicht den Aufprall. Das kam später. Zuerst das Rutschen — ein leises, fast sanftes Geräusch, Metall auf Eis, wie eine Klinge die über eine Platte gezogen wird. Dann die Stille. Eine Stille die keine Dauer hatte, die zwischen zwei Herzschlägen passte und trotzdem alles enthielt was danach kam.

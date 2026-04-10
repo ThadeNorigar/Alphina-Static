@@ -221,7 +221,7 @@ Jede sensorische Beobachtung geht durch die **Berufslinse** der POV-Figur — un
 | Alphina (Botanikerin) | Wachstum, Wurzeln, Druck, Risse, Verwitterung |
 | Sorel (Fotograf) | Licht, Kontrast, Belichtung, Bildkante, Tonwert |
 | Vesper (Uhrmacher) | Toleranz, Eingriff, Passung, Zahnrad, Hemmung |
-| Maren (Schiffbauerin/Meeresbiologin) | Strömung, Druck, Auftrieb, Salz, Holzfaser |
+| Maren (Schiffbauerin) | Strömung, Druck, Auftrieb, Salz, Holzfaser |
 
 **Eine Steinleserin sieht Risse, nicht Farnnamen.** Bruch der POV-Linse = Finding.
 

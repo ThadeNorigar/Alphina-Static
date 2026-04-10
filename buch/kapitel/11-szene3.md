@@ -1,3 +1,6 @@
+> **LEGACY — KONTEXT IRRELEVANT**
+> Dieses Dokument gehört zur alten Pipeline und ist veraltet. Das finale Kapitel hat Vorrang. Nicht als Referenz verwenden.
+
 # Kapitel 11, Szene 3 — Das Klopfen
 
 Im Zimmer war die Lampe schon angezündet. Vesper saß am kleinen Klapptisch unter dem Fenster, den Rücken gerade, Kvarns Taschenuhr in der Pinzette. Er hatte sie nach dem Abendessen aus der Samtrolle genommen, wo sie den ganzen Tag unberührt gelegen hatte, und auf den Reparaturtisch gestellt. Seit anderthalb Stunden arbeitete er an der Welle, mit derselben Konzentration, mit der er am Vormittag an der Karte gearbeitet hatte.

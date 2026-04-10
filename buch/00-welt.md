@@ -522,7 +522,7 @@ Einzelne Städte die weder im Bund noch bei der Thar sind. Ähnlich Velmar — e
 |---|---|
 | **Bund von Orath** | Gleichgewicht. Schemen rufen UND zurückschicken. Schulen, Meister, Disziplin. Magie als Handwerk mit Ethik |
 | **Konglomerat der Thar** | Effizienz. Magie durch Maschinen kanalisieren. Leylinien-Netzwerk. Magie als Ingenieurwesen |
-| **Velmar** | Herrschaft. Magie bestimmt die Kaste. Schemen als Besitz. Bindung als göttliches Recht |
+| **Velmar** | Herrschaft. Magie bestimmt die Kaste. Schemen als Besitz. Bindung als angestammtes Recht |
 
 ### Das Dreieck in Buch 2
 Orath, Velmar, Thar. Jeder will die Resonanz-Begabten. Elke misstraut allen dreien. Die Frage ist nicht "Wer ist gut?" — die Frage ist "Wer ist am wenigsten gefährlich?"
@@ -539,17 +539,17 @@ Orath, Velmar, Thar. Jeder will die Resonanz-Begabten. Elke misstraut allen drei
 
 **Mächtig. GUT GENÄHRT. In Form.** Nicht ausgemergelt, nicht am Ende. Das Portal zu öffnen hat ihn Monate gekostet, aber er hat sich ERHOLT. Großes Reservoir, jahrelange Erfahrung. Seine Magie kostet ihn (er ist Moragh-geboren) — Müdigkeit nach dem Kampf, ja. Aber er hat Reserven.
 
-**Spricht Thalassisch** — flüssig, mit Akzent. Hat Elke vor ~1 Moragh-Jahr getroffen. Sechs Monate zusammen — Liebesgeschichte, Forschungspartnerschaft, intellektuelle und körperliche Anziehung. Elke hat ihm Thalassisch beigebracht. Dann hat sie sich getrennt: "Du willst die Welt reparieren und wirst Menschen zerbrechen dabei." Sie ist weitergezogen in Moragh. Varen hat weitergemacht. Allein.
+**Spricht Thalassisch** — flüssig, mit Akzent. Hat Elke vor ~1 Moragh-Jahr getroffen. Sechs Monate zusammen — Liebesgeschichte, Forschungspartnerschaft, intellektuelle und körperliche Anziehung. Elke hat ihm Thalassisch beigebracht. Dann hat sie sich getrennt — sie will nicht zurück nach Vael, und sie spürt dass seine Forschung sie als Mittel braucht, nicht als Partnerin. Sie weiß NICHT von den zerstörten Quellen. Sie ist weitergezogen in Moragh. Varen hat weitergemacht. Allein.
 
 ### Varens Schuld
 
-**VOR DEM KRIEG:** Varen war Velmar-Forscher. Brilliant, ehrgeizig, einer der jüngsten Binder seiner Generation. Er forschte an den Leylinien — nicht an der Kopplung (die funktioniert, die Thar beweisen es), sondern an der KAPAZITÄT. Motiv: das Überbevölkerungsproblem Moraghs. Quellen und Versorgung sind endlich, die Plateaus tragen nur eine begrenzte Zahl an Menschen. Varen wollte die bestehenden Quellen **stärken** — mehr Kapazität in die vorhandenen Flöze pumpen, damit mehr Menschen an einer Quelle leben können. Er hat drei benachbarte Quellen unter Mar-Keth zu einem Leylinien-Experiment verbunden und versucht, Energie zwischen ihnen auszugleichen. Das System schlug durch. **Drei Reservoir-Quellen zerstört. Unwiederbringlich.** Kein Kalkül, kein Opfer — ein Unfall. Er wollte niemanden opfern. Er hat 200.000 Menschen ihre Heimat gekostet.
+**VOR DEM KRIEG:** Varen war Velmar-Forscher. Brilliant, ehrgeizig, einer der jüngsten Binder seiner Generation. Er forschte an den Leylinien — nicht an der Kopplung (die funktioniert, die Thar beweisen es), sondern an der KAPAZITÄT und REICHWEITE. Motiv: die magiefreien Flächen zwischen den Quellen-Städten besiedelbar machen. Keine akute Überbevölkerung, aber große unbewohnbare Zonen ohne Resonanz. Varen wollte die bestehenden Quellen **stärken und ihre Reichweite vergrößern** — mehr Kapazität in die vorhandenen Flöze pumpen, damit die toten Zonen erschlossen werden können. Er hat drei benachbarte Quellen unter Mar-Keth zu einem Leylinien-Experiment verbunden und versucht, Energie zwischen ihnen auszugleichen. Das System schlug durch. **Drei Reservoir-Quellen zerstört. Unwiederbringlich.** Kein Kalkül, kein Opfer — ein Unfall. Er wollte niemanden opfern. Er hat 200.000 Menschen ihre Heimat gekostet.
 
 Er hat damit die Leylinien-Waffe entdeckt. Und gleichzeitig eingesetzt — versehentlich, aber das Ergebnis ist dasselbe.
 
-Die Städte auf den drei Quellen verdorrten. Menschen starben — nicht sofort, aber über Jahre. Die verbleibenden Quellen wurden knapp. Fraktionen die vorher koexistierten begannen um Ressourcen zu kämpfen. **Der Krieg begann wegen Varen** — nicht weil jemand die Schuld auf jemanden schob, sondern weil das Vakuum reichte. Die Quellen fehlten, die Fraktionen griffen sich gegenseitig an.
+Die Städte auf den drei Quellen verdorrten. Menschen starben — nicht sofort, aber über Jahre. Das Thar-Konglomerat interpretierte die Katastrophe als Angriff des Bundes von Orath. Es gibt genug Quellen — der Krieg begann nicht aus Ressourcenknappheit, sondern aus Misstrauen und Vergeltung. **Der Krieg begann wegen Varen** — weil sein Unfall das Misstrauen zwischen den Fraktionen entzündete. Die Vier erfahren in Buch 2 zunächst die Konglomerat-Version: "Der Bund hat uns angegriffen und die Explosion absichtlich ausgelöst."
 
-**Die Velmar wissen es und vertuschen es.** Mar-Keth war eine ihrer Kernstädte, Reshkol ihre Randquelle. Sie haben Varen verdeckt ausgestoßen — ohne öffentliche Anklage, ohne Gerichtsverfahren, ohne Eintrag in Velmar-Registern. Sie schweigen aus zwei Gründen: (1) Eine Velmar-Verantwortung für den Quellen-Kollaps würde den Krieg gegen Velmar verschärfen und ihre ohnehin schwache Position ruinieren. (2) Ihr Kastensystem beruht auf dem Ideal der "Reinheit der Bindung" — ein Velmar-Forscher der drei Quellen tötet ist ein theologisches Problem, nicht nur ein politisches. Velmar trägt den Cover-Up als kollektive Schuld. Eine Handvoll Velmar-Binder wissen alles. Der Rest ahnt "da war etwas" und fragt nicht nach.
+**Die Velmar wissen es und vertuschen es.** Mar-Keth war eine ihrer Kernstädte, Reshkol ihre Randquelle. Sie haben Varen verdeckt ausgestoßen — ohne öffentliche Anklage, ohne Gerichtsverfahren, ohne Eintrag in Velmar-Registern. Sie schweigen aus zwei Gründen: (1) Eine Velmar-Verantwortung für den Quellen-Kollaps würde den Krieg gegen Velmar verschärfen und ihre ohnehin schwache Position ruinieren. (2) Ihr Kastensystem beruht auf dem Ideal der "Reinheit der Bindung" — ein Velmar-Forscher der drei Quellen tötet ist ein doktrinäres Problem, nicht nur ein politisches. Velmar trägt den Cover-Up als kollektive Schuld. Eine Handvoll Velmar-Binder wissen alles. Der Rest ahnt "da war etwas" und fragt nicht nach.
 
 **Die anderen Fraktionen wissen nichts.** Bund, Thar, freie Städte — für sie ist der Quellen-Kollaps eine natürliche Katastrophe, ein Ermüdungsbruch im Gestein, oder im schlimmsten Fall "Velmar-Unfähigkeit" (ein mit den Velmar-Kastensystem verbundenes Versagen). Niemand hat Varens Namen mit dem Ereignis verknüpft. Er ist draußen, und er bleibt draußen, solange Velmar schweigt.
 
@@ -585,7 +585,7 @@ Er hat das Portal aktiviert um Resonanz-Begabte nach Moragh zu bringen. Will sie
 
 ### Vorgeschichte mit Elke
 
-6 Moragh-Monate vor Buch 1 hat Varen Elke gefunden — die einzige Thalassierin in Moragh. Liebesgeschichte. Sechs Monate zusammen: er hat geforscht, sie hat geformt, er hat ihre Sprache gelernt. Intellektuelle und körperliche Anziehung auf beiden Seiten. Elke hat ihm Thalassisch beigebracht — und er hat es an seine Agenten WEITERGEGEBEN. Nach sechs Monaten hat Elke ihn durchschaut: "Du willst die Welt reparieren und wirst Menschen zerbrechen dabei." Sie wusste nicht wie recht sie hatte — er repariert nicht die Welt, er repariert SEINEN Fehler. Elke hat sich getrennt, ist weitergezogen in Moragh. Kann nicht zurück nach Thalassien. Varen hat seine Schlüsse gezogen — allein. Er braucht MEHR Resonanz-Begabte. Also schickt er Agenten durch das Portal, mit dem Thalassisch das Elke ihm beigebracht hat, um Resonanz-Begabte in Thalassien zu finden und nach Vael zu locken.
+6 Moragh-Monate vor Buch 1 hat Varen Elke gefunden — die einzige Thalassierin in Moragh. Liebesgeschichte. Sechs Monate zusammen: er hat geforscht, sie hat geformt, er hat ihre Sprache gelernt. Intellektuelle und körperliche Anziehung auf beiden Seiten. Elke hat ihm Thalassisch beigebracht — und er hat es an seine Agenten WEITERGEGEBEN. Nach sechs Monaten hat Elke ihn verlassen — sie will nicht zurück nach Vael, und sie spürt dass seine Forschung sie als Mittel braucht, nicht als Partnerin. Sie weiß NICHT von den zerstörten Quellen (Velmar-Geheimnis). Elke ist weitergezogen in Moragh. Kann nicht zurück nach Thalassien. Varen hat seine Schlüsse gezogen — allein. Er braucht MEHR Resonanz-Begabte. Also schickt er Agenten durch das Portal, mit dem Thalassisch das Elke ihm beigebracht hat, um Resonanz-Begabte in Thalassien zu finden und nach Vael zu locken.
 
 ### Die erste Begegnung (Kap 35)
 
@@ -716,7 +716,7 @@ Wiedervereinigung der Welten. Thalassien-Wissenschaftler kommen nach Moragh, erk
 
 Alphina, Vesper, Maren, Runa — gealtert in Moragh-Zeit, aber nicht in Thalassien-Zeit. Ihre Welt existiert nicht mehr wie sie sie kannten. Vael ist eine Großstadt. Die Grauküste industrialisiert.
 
-**Alphina stirbt.** Die Umstände sind Teil der Geschichte von Buch 3. Die Pflanzen um sie herum wachsen ein letztes Mal. Dann Stille.
+**Alphina lebt.** Kein Opfertod. Die Pflanzen um sie herum wachsen weiter. Die Quelle bleibt offen.
 
 Die Quelle zwischen den Welten bleibt offen. Nicht als Portal — als Grenze die beide Seiten akzeptieren.
 

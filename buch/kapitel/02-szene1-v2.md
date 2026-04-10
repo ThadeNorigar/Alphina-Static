@@ -1,3 +1,6 @@
+> **LEGACY — KONTEXT IRRELEVANT**
+> Dieses Dokument gehört zur alten Pipeline und ist veraltet. Das finale Kapitel hat Vorrang. Nicht als Referenz verwenden.
+
 Das Rotlicht machte seine Hände zu etwas, das nicht ihm gehörte.
 
 Es war ein Trick der Wellenlänge, nichts weiter — rotes Licht, zu lang für die Emulsion, zu kurz um die Dunkelheit zu brechen. Aber Sorel mochte den Effekt. Im Rotlicht waren seine Hände fremd und gleichzeitig präziser als im Tageslicht, als hätte jemand alles Überflüssige von ihnen abgezogen und nur die Funktion übrig gelassen. Finger, Knöchel, Sehnen unter der Haut. Werkzeuge, die einmal einem Menschen gehört hatten.

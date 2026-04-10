@@ -1,3 +1,6 @@
+> **LEGACY — KONTEXT IRRELEVANT**
+> Dieses Dokument gehört zur alten Pipeline und ist veraltet. Das finale Kapitel hat Vorrang. Nicht als Referenz verwenden.
+
 # Kapitel 11, Szene 1 — Der Tisch rechts
 
 Siebzehn Uhren, sortiert nach der Größe ihrer Abweichung.

@@ -1,3 +1,6 @@
+> **LEGACY — KONTEXT IRRELEVANT**
+> Dieses Dokument gehört zur alten Pipeline und ist veraltet. Das finale Kapitel hat Vorrang. Nicht als Referenz verwenden.
+
 Vierhundert Jahre bevor eine Frau in Velde ihre Hand auf warme Erde legte und aufhörte, sich einzureden, dass Pflanzen nicht auf sie reagierten, kam eine andere Frau nach Vael.
 
 Sie hieß Elke van der Holt, und sie kam aus dem Süden, von der Küste am Binnenmeer, wo die Steinmetzgilden den weißen Kalk der Klippen bearbeiteten und das Licht warm war und der Stein tat, was Stein tun sollte. Sie kam in einer Kutsche, die drei Tage über schlechte Straßen gerattert war, durch Wälder, die mit jedem Kilometer nördlicher dunkler wurden, und durch Dörfer, die mit jedem Kilometer nördlicher stiller, und der Kutscher hatte am zweiten Tag angefangen, nach hinten zu schauen, nicht auf sie, sondern auf die Straße, als erwartete er etwas, das von Norden kam.

@@ -1,3 +1,6 @@
+> **LEGACY — KONTEXT IRRELEVANT**
+> Dieses Dokument gehört zur alten Pipeline und ist veraltet. Das finale Kapitel hat Vorrang. Nicht als Referenz verwenden.
+
 # Alphina — Szene 2
 
 Runa Kvist kam den Hauptweg hoch, ohne zu zögern, mit einem Korb über dem Arm und einem Stapel Flugblätter unter dem Korb und einem Mantel, der eine Nummer zu groß war. Der Mantel gehörte ihr wahrscheinlich nicht. Die Schultern hingen daran, die Ärmel waren zweimal umgekrempelt, und an dem zurückgeschlagenen Ärmel — der, der nicht den Korb hielt — war der Unterarm zu sehen bis zur Mitte. Die Haut dort war weißer als bei einer Frau, die draußen arbeitete, aber die Innenseite des Handgelenks und die Handwurzel waren schwarz. Druckerschwärze, tief in die Poren gearbeitet, die Haut darunter durchscheinend dass man die Adern sah. Am Hals, wo der Mantelkragen aufstand, lief eine Sehne, wenn Runa den Kopf drehte.

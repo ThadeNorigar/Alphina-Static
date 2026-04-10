@@ -1,6 +1,6 @@
 # Vesper
 
-*14. Mai 551 · 4 Wochen 6 Tage in Vael*
+*14. Mai 551 · 6 Wochen 6 Tage in Vael*
 
 Siebzehn Uhren, sortiert nach der Größe ihrer Abweichung.
 

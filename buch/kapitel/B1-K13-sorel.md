@@ -1,6 +1,6 @@
 # B1-K13 — Sorel
 
-*18. Mai 551 · 7 Wochen 1 Tag in Vael*
+*18. Mai 551 · 7 Wochen 4 Tage in Vael*
 
 
 Drei Tage lang hatten die Kassetten im Regal gestanden, ausgerichtet nach Datum, beschriftet in seiner eigenen knappen Schrift, ungeöffnet. Er war zweimal an ihnen vorbeigegangen, ohne die Hand zu heben; einmal hatte er an der dritten von links angesetzt, die Finger auf dem Metallrand gespürt, dann zurückgenommen und sich eine Weile am Rand des Entwicklertischs festgehalten. Der Grund, warum er sie nicht entwickelte, war derselbe, den er sich nicht aussprach: dass er schon wusste, was die erste zeigen würde.

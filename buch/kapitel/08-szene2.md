@@ -1,3 +1,6 @@
+> **LEGACY — KONTEXT IRRELEVANT**
+> Dieses Dokument gehört zur alten Pipeline und ist veraltet. Das finale Kapitel hat Vorrang. Nicht als Referenz verwenden.
+
 # Kapitel 8, Szene 2 — Die Nachtwache
 
 Die Entscheidung fiel am Abend, als sie die letzte Planke vermaß.

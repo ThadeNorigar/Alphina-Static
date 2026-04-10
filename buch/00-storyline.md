@@ -46,7 +46,7 @@ Vor 200 Moragh-Jahren (= 80.000 Thalassien-Jahre) flohen Menschen aus Moragh dur
 
 ## Der Krieg — und wer ihn wirklich führt
 
-**Varen** war Velmar-Forscher. Hat vor dem Krieg versucht, drei benachbarte Quellen unter Mar-Keth zu einem Leylinien-Experiment zu verbinden — wollte sie stärken, Motiv war das Überbevölkerungsproblem Moraghs. Das System schlug durch. Drei Quellen tot, ~200.000 Menschen heimatlos. Unfall, kein Kalkül, kein Opfer. **Die Velmar wissen es und vertuschen es** — verdeckter Ausstoß, kollektives Schweigen, weil eine Velmar-Verantwortung Velmars Position im Krieg ruinieren würde. Bund und Thar wissen nichts — für sie ist der Kollaps eine Naturkatastrophe oder "Velmar-Unfähigkeit". Der Krieg brach nicht durch Falschbeschuldigung aus, sondern weil die verbleibenden Quellen nicht reichten.
+**Varen** war Velmar-Forscher. Hat vor dem Krieg versucht, drei benachbarte Quellen unter Mar-Keth zu einem Leylinien-Experiment zu verbinden — wollte sie stärken und ihre Reichweite vergrößern, um magiefreie Flächen besiedelbar zu machen (keine akute Überbevölkerung, aber große unbewohnbare Zonen). Das System schlug durch. Drei Quellen tot, ~200.000 Menschen heimatlos. Unfall, kein Kalkül, kein Opfer. **Die Velmar wissen es und vertuschen es** — verdeckter Ausstoß, kollektives Schweigen, weil eine Velmar-Verantwortung Velmars Position im Krieg ruinieren würde. Bund und Thar wissen nichts — für sie ist der Kollaps eine Naturkatastrophe oder "Velmar-Unfähigkeit". Der Krieg brach aus, weil das Thar-Konglomerat die Explosion als Angriff des Bundes interpretierte — Misstrauen und Vergeltung, nicht Ressourcenknappheit.
 
 **Der Bund von Orath** hat Varens Forschung gestohlen oder rekonstruiert. Sie verstehen das Prinzip der Quellen-Überladung und nutzen es als Waffe. Nicht offiziell, nicht alle Städte. Aber die einflussreichsten Kriegstreiber planen die systematische Zerstörung der feindlichen Quellen. Wer die Quellen des Gegners zerstört, gewinnt permanent.
 
@@ -65,7 +65,7 @@ Er kann das nicht erklären ohne zuzugeben, dass SEINE Forschung die Waffe ist. 
 
 **Story-Energie:** Rebecca Yarros / Sin Lin Yu. Romantasy mit Teeth. Dark Romance Kern. Beziehungen als Motor. Magie als Erotik. Machtgefälle als Spannung.
 
-**Perspektiven:** Alphina = Ich/Präsens (45%). Neben-POVs = 3. Person nah/Präteritum (je ~18%). Wechselnde Neben-POVs: Sorel (B1) → Maren (B1-B2) → Vesper (B1-B3) → Varen (ab B1 Interludium 3, durchgehend B2-B3).
+**Perspektiven:** Alle POVs = 3. Person nah/Präteritum. Alphina/Sorel/Vesper/Maren je ~25% der Hauptkapitel. Interludien und Ensemble-Kapitel zählen separat. Wechselnde Neben-POVs: Varen (ab B1 Interludium 3, durchgehend B2-B3).
 
 ---
 
@@ -81,7 +81,7 @@ Fotograf aus Nachtholm. Dunkelkammer. Der Einzige bei dem Alphinas Kontrolle nic
 Uhrmacher aus Karst. Ehemaliges Schach-Wunderkind. Denkt in Zügen. Geht mit Nyr zu den Thar — Wahl, nicht Entführung. "Jedes System hat Fehler. Die Thar benennen ihre." Verlässt die Thar in Buch 3 als er die Tech-Magie-Fusion sieht. Resonanz: Muster/Zeit.
 
 ### Maren — Die Brücke
-Meeresbiologin. Fließt. Bleibt nie. Findet in Moragh die Karte/Anleitung für die Rückkehr. Öffnet das Portal von Moragh-Seite. Vesper und sie sind zusammen als sie den Weg findet — er bleibt, sie geht. Kehrt nach Thalassien zurück (~1910). Allein, zu wenig Magie um zurückzukehren. Gründet Schwellenforschungsgesellschaft. Verschwindet Ende Buch 2. Resonanz: Wasser.
+Schiffbauerin. Fließt. Bleibt nie. Findet in Moragh die Karte/Anleitung für die Rückkehr. Öffnet das Portal von Moragh-Seite. Vesper und sie sind zusammen als sie den Weg findet — er bleibt, sie geht. Kehrt nach Thalassien zurück (~1910). Allein, zu wenig Magie um zurückzukehren. Gründet Schwellenforschungsgesellschaft. Verschwindet Ende Buch 2. Resonanz: Wasser.
 
 ### Runa Kvist — Das Feuer
 Druckerin. Hände immer warm. FWB mit Alphina (hitzig, keine Beziehung). Erlebt mit wie Varen Alphina auf dem Schlachtfeld fängt. Bleibt beim Bund → entdeckt Wahrheiten → geht zu den Thar/Konglomerat. Steigt dort auf. In Buch 3: Teil der Konglomerat-Machtstruktur. Verfolgt Nyr und Vesper als sie überlaufen. Ehemalige Freundin als Antagonistin. Resonanz: Feuer/Hitze.

@@ -1,3 +1,6 @@
+> **LEGACY — KONTEXT IRRELEVANT**
+> Dieses Dokument gehört zur alten Pipeline und ist veraltet. Das finale Kapitel hat Vorrang. Nicht als Referenz verwenden.
+
 # Kapitel 10, Szene 3 — Der Mittelhügel im Mondlicht
 
 Der Feigenbaum trug sein Gewicht ohne Klage.

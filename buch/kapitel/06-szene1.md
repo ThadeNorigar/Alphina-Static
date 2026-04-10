@@ -1,3 +1,6 @@
+> **LEGACY — KONTEXT IRRELEVANT**
+> Dieses Dokument gehört zur alten Pipeline und ist veraltet. Das finale Kapitel hat Vorrang. Nicht als Referenz verwenden.
+
 # Kapitel 6, Szene 1 — Die Reise
 
 Die Kutsche roch nach Pferd, nach nassem Leder, nach dem Staub der sich in die Ritzen des Polsters gefressen hatte und dort blieb, Jahr für Jahr, Fahrgast für Fahrgast, bis der Staub zum Polster gehörte und das Polster zum Staub. Sorel saß am Fenster, den Kasten auf den Knien, die Hände auf dem Packpapier. Draußen war es dunkel. Er reiste nachts.

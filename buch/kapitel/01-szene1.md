@@ -1,3 +1,6 @@
+> **LEGACY — KONTEXT IRRELEVANT**
+> Dieses Dokument gehört zur alten Pipeline und ist veraltet. Das finale Kapitel hat Vorrang. Nicht als Referenz verwenden.
+
 Die Pflanzen sind still.
 
 Das ist das Erste was ich bemerke, heute Nacht, um zwölf Minuten nach drei, barfuß auf dem Dielenboden meiner Wohnung im vierten Stock eines Giebelhauses in Velde, das älter ist als alles woran ich glaube. Die Dielen sind kalt unter meinen Fußsohlen, rau, das Holz verzogen von Jahrhunderten Feuchtigkeit, und an einer Stelle, zwischen Fenster und Bücherregal, knarrt das Holz wenn ich drauftrete, ein leises, vertrautes Ächzen, das mir sagt wo ich bin, auch im Dunkeln, auch wenn ich es nicht sehen kann. Ich kenne diese Wohnung mit den Füßen. Ich kenne die Delle vor dem Herd, wo das Holz weicher ist, als hätte jemand jahrelang am gleichen Fleck gestanden und gerührt. Die Schwelle zum Badezimmer, die einen Millimeter höher steht als der Rest und an der ich mir im ersten Jahr den kleinen Zeh gestoßen habe, dreimal, bis meine Füße es gelernt haben. Den kalten Fleck vor der Haustür, wo der Putz der Außenmauer die Kälte durchlässt und der Boden sich anfühlt wie Stein.

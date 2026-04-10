@@ -1,3 +1,6 @@
+> **LEGACY — KONTEXT IRRELEVANT**
+> Dieses Dokument gehört zur alten Pipeline und ist veraltet. Das finale Kapitel hat Vorrang. Nicht als Referenz verwenden.
+
 # Kapitel 6, Szene 3 — Der Hafen, nachts
 
 Er ging hinaus als die Gaslampen heruntergebrannt waren.

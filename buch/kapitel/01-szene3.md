@@ -1,3 +1,6 @@
+> **LEGACY — KONTEXT IRRELEVANT**
+> Dieses Dokument gehört zur alten Pipeline und ist veraltet. Das finale Kapitel hat Vorrang. Nicht als Referenz verwenden.
+
 Neben dem Gutachten liegt die Post.
 
 Rechnungen. Die Miete, die Wassergebühr, eine Rechnung von Thelen & Sohn, dem Instrumentenmacher in der Gildenstraße, bei dem ich im Januar eine neue Lupe bestellt habe und der drei Monate braucht um sie zu schleifen, weil Thelen alt ist und keine Eile kennt und weil gute Linsen Zeit brauchen, sagt er, so wie guter Käse und gute Trauer. Ich habe ihn gefragt, was er mit Trauer meint, und er hat gelacht und gesagt: "Fragen Sie mich in zehn Jahren nochmal, Madame." Daneben ein Katalog für botanische Instrumente, den ich nicht bestellt habe und den ich trotzdem durchblättern werde, weil es Seiten gibt auf denen Messinghülsen und geschliffenes Glas abgebildet sind, und ihre Präzision beruhigt mich.

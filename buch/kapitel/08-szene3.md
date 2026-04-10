@@ -1,3 +1,6 @@
+> **LEGACY — KONTEXT IRRELEVANT**
+> Dieses Dokument gehört zur alten Pipeline und ist veraltet. Das finale Kapitel hat Vorrang. Nicht als Referenz verwenden.
+
 # Kapitel 8, Szene 3 — Tohl und das Wasser
 
 Am Morgen roch die neue Planke nach etwas das kein Holz war.

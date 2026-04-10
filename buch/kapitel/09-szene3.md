@@ -1,3 +1,6 @@
+> **LEGACY — KONTEXT IRRELEVANT**
+> Dieses Dokument gehört zur alten Pipeline und ist veraltet. Das finale Kapitel hat Vorrang. Nicht als Referenz verwenden.
+
 # Alphina — Szene 3
 
 Die Gasse vor dem Garten war leer. Das Tor fiel hinter ihr ins Schloss, ein schwerer hölzerner Klang, dem ein leises Nachschwingen folgte. Sie blieb einen Moment davor stehen, die Hand am Mantelkragen, und atmete einmal so tief, dass sie die Luft im Brustbein spüren konnte. Der Nebel hing dünn in der Gasse, durchsichtig, kein Vorhang, eher ein Schleier, durch den die schräge Nachmittagssonne noch immer als blasser Fleck auf dem Pflaster landete. Die Gaslampe an der Ecke war noch nicht angezündet.

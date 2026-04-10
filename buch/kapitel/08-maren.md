@@ -1,8 +1,8 @@
 # Maren
 
-*10. Mai 551 · 5 Wochen 1 Tag in Vael*
+*10. Mai 551 · 6 Wochen 6 Tage in Vael*
 
-An einem Morgen in der sechsten Woche lag die Planke da.
+An einem Morgen in der siebten Woche lag die Planke da.
 
 Maren stand in der Tür des Schuppens, die Hände in den Jackentaschen, der Bleistift unter den Fingerspitzen der rechten Hand. Draußen war der Tag noch nicht fertig — der Nebel lag auf dem Wasser und das Licht kam von nirgendwo, milchig, richtungslos, ein Morgen der sich nicht entscheiden konnte. Die Luft war wärmer als bei ihrer Ankunft, der Frühling kippte in den Sommer, und die Nächte wurden kürzer. Drinnen lag das Boot auf seinen Böcken und die Planke die gestern nicht da gewesen war saß an der Steuerbordseite, fünfte Reihe, eingepasst wie ein Wort das jemand mitten in einen Satz gesetzt hatte — sauber, selbstverständlich, dort seit immer.
 
@@ -186,4 +186,4 @@ Ihr Körper wollte nicht, dass sie sich rührte. Das war der ganze Gedanke, knap
 
 Maren blieb knien, bis das Rinnsal zurücklief, so langsam wie es gekommen war. Der Erdboden sog das Wasser auf. Ihre Hand lag leer auf dem warmen Holz. Sie stand auf, die Knie steif, die Hose feucht, und ging zur Werkbank. Das Papier in der Tasche drückte gegen ihre Hüfte. Sie zog es nicht heraus.
 
-Sechste Woche.
+Siebte Woche.

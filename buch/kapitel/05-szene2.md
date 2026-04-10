@@ -1,3 +1,6 @@
+> **LEGACY — KONTEXT IRRELEVANT**
+> Dieses Dokument gehört zur alten Pipeline und ist veraltet. Das finale Kapitel hat Vorrang. Nicht als Referenz verwenden.
+
 # Kapitel 5 — Szene 2
 
 Die Druckerei liegt in der Oberstadt, drei Gassen vom Marktplatz, eine Treppe hoch die in das Pflaster gehauen ist, fünfundvierzig Stufen aus Purpurstein, jede einzelne ausgetreten in der Mitte, die Kanten abgerundet von Jahrhunderten Schuhe. Der Stein unter meinen Sohlen ist warm. Wie am Stadttor. Wie die Erde in Velde. Ich registriere es und gehe weiter.

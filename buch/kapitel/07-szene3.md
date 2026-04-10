@@ -1,3 +1,6 @@
+> **LEGACY — KONTEXT IRRELEVANT**
+> Dieses Dokument gehört zur alten Pipeline und ist veraltet. Das finale Kapitel hat Vorrang. Nicht als Referenz verwenden.
+
 # Kapitel 7 — Szene 3
 
 Das Bett im Anker war schmal und hart und roch nach Lauge und dem Kalk der in den Wänden steckte. Vesper lag auf dem Rücken. Die Augen offen. Durch die Wand drang das Meer — kein Geräusch, ein Atem, gleichmäßig, tief, ein Ton der unter der Hörschwelle lag und trotzdem da war, in den Knochen des Hauses, in den Dielen, im Bettrahmen. Durch das Fenster der Nebel, trübe Tropfen die am Glas herunterliefen.

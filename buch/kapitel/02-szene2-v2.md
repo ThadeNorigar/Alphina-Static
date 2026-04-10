@@ -1,3 +1,6 @@
+> **LEGACY — KONTEXT IRRELEVANT**
+> Dieses Dokument gehört zur alten Pipeline und ist veraltet. Das finale Kapitel hat Vorrang. Nicht als Referenz verwenden.
+
 Das erste Mal war dreizehn Jahre her.
 
 Falkensand, eine Freistadt südlich von Nachtholm, wo die Schlucht sich öffnete und das Licht den Boden erreichte. Sorel war neunzehn und lebte noch oben, in einer Dachwohnung mit Fenstern, mit Licht, mit dem Geräusch der Straße am Morgen. Er arbeitete damals für einen Drucker, setzte Texte, trug Kisten, und in den Abenden, wenn der Drucker nach Hause ging, blieb Sorel und benutzte die Presse für seine Bilder — Glasplatten, die er auf Flohmärkten kaufte und die er abzog, auf Papier, eines nach dem anderen, Gesichter die niemand mehr kannte.

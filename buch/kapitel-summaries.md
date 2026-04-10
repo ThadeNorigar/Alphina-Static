@@ -46,7 +46,7 @@
 ---
 
 ## K05 — Alphina
-**POV:** Alphina | **Ort:** Kutschenreise → Vael (Stadttor, Anker, Druckerei Kvist) | **Timeline:** 29. März 551, Tag 1 in Vael
+**POV:** Alphina | **Ort:** Kutschenreise → Vael (Stadttor, Anker, Druckerei Kvist) | **Timeline:** 24. März 551, Tag 1 in Vael
 **Was passiert:** Auf der dreitägigen Kutschfahrt zeigen hundert Pflanzen am Straßenrand in Richtung Vael. Am Stadttor drehen sich sieben Hirschzungenfarne langsam auf Alphina zu. Der Purpurstein ist körperwarm. Sie checkt im Anker ein. In der Druckerei Kvist kauft sie Papier und begegnet Runa Kvist — deren Hände sind auffällig heiß, die Kerzenflamme in ihrer Nähe steht reglos still. Nachts folgt Alphina einem rauchartigen Tier in der Hafengasse; es sitzt an der Wand, dreht den Kopf weit über 180° und verschwindet als ein Mann die Tür öffnet.
 **Was wird etabliert:** Vael als fremde, magische Stadt; Runa Kvist als Druckerin mit eigenem Resonanz-Potential; die Rauch-Wesen als erste Begegnung mit Moragh-Entitäten in Thalassien.
 **Tschechow-Beats geladen:** Runas heiße Hände; Kerzenstillstand bei Runa; sieben Farne am Stadttor; Vaels Geruch (unbenennbar, süßlich); Rauch-Wesen (neugierig, nicht aggressiv).
@@ -56,7 +56,7 @@
 ---
 
 ## K06 — Sorel
-**POV:** Sorel | **Ort:** Vael (Lichthaus-Keller, Kaimauer) | **Timeline:** 5. April 551, Tag 1 in Vael
+**POV:** Sorel | **Ort:** Vael (Lichthaus-Keller, Kaimauer) | **Timeline:** 27. März 551, Tag 1 in Vael
 **Was passiert:** Sorel mietet den Keller des Lichthauses — der Vormieter ist verschwunden, der Raum riecht nach Fixierer ohne Dunkelkammer, der Stein ist körperwarm, und an der Wand sitzt bereits ein Nagel genau dort, wo Sorel seine Schnur spannen würde. Nachts baut er am Kai sein Stativ auf. Eine übergroße Gestalt mit Huffüßen und Sorels eigenem Gesicht löst sich aus dem Dunst — sie dreht ohne Bewegung den Kopf und verschwindet zweimal, beim zweiten Mal mit Kälteschlag. Am Poller finden sich drei tiefe, warme Rillen. Sorel wartet bis zum Morgen, bekommt kein Bild.
 **Was wird etabliert:** Vael-Keller als gespiegelter Nachtholm-Keller; die Gestalt trägt Sorels Gesicht — direkteste Konfrontation mit dem Bild; Kälte als Waffe/Eigenschaft der Figur; der vorherige Keller-Bewohner als erster Hinweis.
 **Tschechow-Beats geladen:** Nagel in der Wand (vorgefunden); Kälteschlag an der Kaimauer; Rillen im Poller (warm, drei parallele Schnitte); vorheriger Keller-Mieter (verschwunden, ohne letzte Woche zu zahlen).
@@ -66,7 +66,7 @@
 ---
 
 ## K07 — Vesper
-**POV:** Vesper | **Ort:** Vael (Anker, Tidemoor-Haus, Keller) | **Timeline:** 10. April 551, Tag 1 in Vael
+**POV:** Vesper | **Ort:** Vael (Anker, Tidemoor-Haus, Keller) | **Timeline:** 28. März 551, Tag 1 in Vael
 **Was passiert:** Vesper checkt im Anker ein, sieht flüchtig eine Frau am Fenstertisch (Alphina). Er geht sofort zum Tidemoor-Haus: die Standuhr tickt einwandfrei, verliert aber exakt 4:33. Als er die Hand aufs Gehäuse legt, läuft sie korrekt; Hand weg, 4:33. Drei Durchgänge, sechs Stunden. Die Magd übergibt ihm einen Schlüssel für die Seitentür. Nachts kehrt er zurück — im Keller findet er heißes Wasser ohne Kessel, denselben Kellerstein-Puls wie die Uhr, und drei parallele Rillen im Fensterholz (warm, geschnitten, nicht geritzt). Ein Kratzen aus der Kellerecke verstummt, als er einen Schritt macht.
 **Was wird etabliert:** Vespers Resonanz als direkter körperlicher Übertrag auf Mechanik; die Rillen verbinden Tidemoor-Keller mit Sorels Poller-Fund; die Magd als Figur mit eigener Wärme-Qualität.
 **Tschechow-Beats geladen:** Schlüssel für Seitentür; Magd (warme Fingerspitzen, Knie-Bild); drei Rillen im Kellerholz; heißes Wasser ohne Kessel; Kratzen aus der Ecke.
@@ -76,7 +76,7 @@
 ---
 
 ## K08 — Maren
-**POV:** Maren | **Ort:** Vael (Werft Dahl, Steg, Gasthof Anker) | **Timeline:** 10. Mai 551, 5 Wochen und 1 Tag in Vael
+**POV:** Maren | **Ort:** Vael (Werft Dahl, Steg, Gasthof Anker) | **Timeline:** 10. Mai 551, 6 Wochen 6 Tage in Vael
 **Was passiert:** Seit Wochen erscheint morgens eine fertig eingepasste Planke am Boot, die abends nicht da war. Maren findet hinter einer Leiste der Werkbank ein Blatt in Harons Handschrift — keine bekannte Sprache, nur Symbole und eine Zeichnung einer zusammengekauerten Gestalt im Kreis. Sie versteckt sich nachts unter einem alten Segel und beobachtet: eine massive, rauchende Gestalt geht durch das geschlossene Tor und setzt eine Planke ein — mit einer Leichtigkeit wie ein Blatt Papier, die Hände breit und knotig (nicht Harons "feine Hände"). Fischer Tohl Daverin zeigt ihr die rückwärts fließende Grauwe. Im Keller-Boden der Werft spürt sie ein langsames, mächtiges Pochen und Wasser, das bergauf läuft.
 **Was wird etabliert:** Die Moragh-Entität baut an Harons Boot weiter; Haron hatte Verbindung zu einer anderen Sprache/Welt; die rückwärts fließende Grauwe als stadtweites Phänomen; Marens Entscheidung zu bleiben.
 **Tschechow-Beats geladen:** Harons Symbolblatt; rückwärts fließende Grauwe (drei Wochen, jetzt auch tagsüber); Pochen unter der Werft; bergauf laufendes Wasser.
@@ -86,7 +86,7 @@
 ---
 
 ## K09 — Alphina
-**POV:** Alphina | **Ort:** Vael (Botanischer Garten, Anker) | **Timeline:** 11. Mai 551, 6 Wochen 2 Tage in Vael
+**POV:** Alphina | **Ort:** Vael (Botanischer Garten, Anker) | **Timeline:** 11. Mai 551, 7 Wochen in Vael
 **Was passiert:** Alphina arbeitet seit drei Wochen im Garten des alten Henrik. Sie beschleunigt Lavendelstecklinge durch Handauflegen und eine innere "Form" (kein Wort, nur Intention), verdorrt Klee unbeabsichtigt beim Vorbeigehen, spricht die Nordmauer-Farne an: *So bleiben. Nicht weiter.* — Henrik stellt zwei Schnittrhythmen später fest, er muss sie nicht anlangen. Beim Begehen des Gartens stößt sie auf einen Hügelkreis mit sieben Purpursteinen, den sie wochenlang umgangen hatte ohne hinzuschauen. Der Stein ist körperwarm; drei Pulse kommen durch die Handfläche — langsamer als ein Menschenherz. Runa Kvist kommt und berichtet: Doktor Halvards geheime Liste (drei Verbrennungen ohne Feuer, ein Frostbrand ohne Kältequelle); die Tidemoor-Uhr läuft korrekt, solange ein Uhrmacher aus Karst im Raum ist — Vesper Greve.
 **Was wird etabliert:** Alphinas Resonanz als bidirektional (Geben + Empfangen); der Steinkreis als Mittelpunkt aller Anomalien; Vesper Greve als bekannter Name bevor Begegnung; Runa als Informationsdrehscheibe.
 **Tschechow-Beats geladen:** Steinkreis (sieben Purpursteine, kahle Innenfläche, Pflanzen hören an der Linie auf); Frostbrand der Wäscherin (Halvard-Liste); Runas Wärme durch Mantelstoff; Runa berührt Alphinas Handgelenk (Hautkontakt).
@@ -96,7 +96,7 @@
 ---
 
 ## K10 — Sorel
-**POV:** Sorel | **Ort:** Vael (Lichthaus-Keller, Botanischer Garten, Oberstadt) | **Timeline:** 13. Mai 551, 6 Wochen 3 Tage in Vael
+**POV:** Sorel | **Ort:** Vael (Lichthaus-Keller, Botanischer Garten, Oberstadt) | **Timeline:** 13. Mai 551, 6 Wochen 6 Tage in Vael
 **Was passiert:** Sorel entwickelt Nachtaufnahmen vom Kai: auf einer Platte erscheint die Gestalt am Poller, auf einer zweiten steht eine Frau mit Farnwedeln auf dem leeren Kai, die zur Belichtungszeit nicht dort stand. Er hängt alle drei Platten (inkl. Platte 7 aus K02) nebeneinander und kann sich halb erinnern, das Gesicht der Frau schon gesehen zu haben. Er erkundet tagsüber den Botanischen Garten von außen, findet die schwache Südmauer mit Feigenbaum und klettert nachts ein. Er fotografiert den Steinkreis — im Sucher sehen sich die sieben Steine heben und senken (Puls, ~1/1,5 Sek.). Eine rauchende Tier-Entität zwischen Hortensien feuert einen Feuerball auf seinen Handrücken, zweite-Grad-Verbrennung — springt dann aber weg statt anzugreifen. Sorel kehrt verletzt in den Keller zurück.
 **Was wird etabliert:** Kamera sieht mehr als Sorels Augen; die Frau auf der Platte ist Alphina (Leser weiß es, Sorel noch nicht); der Steinkreis pulsiert; Entitäten können Menschen verletzen; Sorels Verletzung verbindet sich mit Halvards Fällen (K09).
 **Tschechow-Beats geladen:** Verbrennung am Handrücken (Zeigefinger, Präzisionsstrahl); Frau auf Platte (Farne im Arm, schärfer als alles Umgebende); Platte 7 + zwei neue Platten an der Wand.
@@ -106,7 +106,7 @@
 ---
 
 ## K11 — Vesper
-**POV:** Vesper | **Ort:** Vael (Anker, Druckerei Kvist, Zimmer) | **Timeline:** 14. Mai 551, 4 Wochen 6 Tage in Vael
+**POV:** Vesper | **Ort:** Vael (Anker, Druckerei Kvist, Zimmer) | **Timeline:** 14. Mai 551, 6 Wochen 6 Tage in Vael
 **Was passiert:** Vesper analysiert seine 17 Uhren-Messungen nach Magnitude-Gruppen — vier konzentrische Ringe, der Mittelpunkt in der Oberstadt hinter dem Handelshaus. Die Tidemoor-Uhr ist Ausreißer. Er kauft Velin-Papier bei Runa Kvist; sie gibt ihm das Flugblatt (2. Folge) mit — vier der sechs Anomalien liegen exakt auf seinen Ringen, die fünfte (rückwärts fließende Grauwe) liegt beim Tidemoor-Haus. Abends klopft Alphina an seine Tür und stellt sich vor. Sie tauschen aus: Vesper erklärt die Tidemoor-Uhr und das "Behalte diesen Schlag"; Alphina erklärt die Farne und den Steinkreis-Puls. Beide erkennen: zwei Modi (Geben + Empfangen), dasselbe Prinzip in zwei Sprachen. Alphinas Aussage "der Stein steht genau an Ihrer Mitte" bestätigt Steinkreis = Ursprung der Drift. Sie verabreden sich für morgen, halb zehn, Botanischer Garten.
 **Was wird etabliert:** Vespers Uhren-Muster als räumliches Prinzip; Steinkreis als verifizierbares Zentrum; erste direkte Begegnung Alphina + Vesper; beide haben Resonanz in verschiedenen Materialien; "zwei Modi" als erstes gemeinsames Konzept.
 **Tschechow-Beats geladen:** Zwei-Quellen-Muster (Oberstadt + Grauwe-Ufer); Turm bleibt kalt (wird kälter?); Verabredung Botanischer Garten morgen halb zehn.
@@ -125,8 +125,18 @@
 
 ---
 
+## K13 — Sorel
+**POV:** Sorel | **Ort:** Vael (Lichthaus-Keller, Hafengasse, Treppe zur Oberstadt) | **Timeline:** 18. Mai 551, 7 Wochen 4 Tage in Vael
+**Was passiert:** Sorel entwickelt nach drei Tagen Zögern die angesammelten Kassetten. Auf elf von ihnen steht Alphina — am Rand, im Hintergrund, in Reflexionen. Auch auf einer Nachtholm-Platte von Anfang März, Wochen bevor er ihren Namen kannte. Er sucht systematisch nach Erklärungen (Doppelbelichtung, Emulsionsdefekt, Gedächtniskippen) und streicht jede. Er legt die Alphina-Platten in eine verschlossene Schublade unter dem Entwicklertisch, Gesicht nach unten. Die Wand bleibt leer. Dann klopft Alphina an seine Kellertür. Er lügt ("Platten noch nicht trocken"), sie durchschaut es, besteht nicht darauf, sondern sagt: "Dann kommen Sie raus." Sie gehen durch die Hafengasse. Er berichtet vom Rauch an den Schemen-Schultern, sie von den gelben Augen. Sie nimmt seine linke Hand und stellt fest, dass die Brandwunde in drei Tagen geheilt ist. An der Treppe zur Oberstadt sagt sie: "Sie sehen mich an, als ob Sie mich schon länger kennen als drei Tage." Er antwortet ausweichend. Sie geht. Er sitzt im Keller, öffnet die Schublade nicht.
+**Was wird etabliert:** Sorels Licht-Resonanz manifestiert sich — er projiziert Alphina unbewusst auf Platten, bei denen sie nie war; die Resonanz wirkt rückwirkend (Nachtholm-Platte vor der Begegnung); Sorel erkennt es noch nicht als Resonanz. Alphinas Heilung wirkt auch an Sorels Brandwunde (drei Tage statt Wochen). Die Schublade als physisches Geheimnis — Sorel verschließt das Wissen über seine Projektion.
+**Tschechow-Beats geladen:** Verschlossene Schublade mit elf Alphina-Platten (Enthüllungspotenzial für K25); Sorels Ausweichen bei "kennen Sie mich länger" (Grenzverletzung durch Schweigen, feuert in K25); Brandwunde geheilt ohne Erklärung; "Ich bin neugierig auf das, was Sie sehen" (Alphinas Einladung).
+**Tschechow-Beats abgefeuert:** Platte 14 mit fremder Frau (K10) — jetzt elf Platten mit Alphina, Muster bestätigt; Schemen auf der Mauer (K12) — beide tauschen Beobachtungen aus; Sorels wackeliges Garten-Foto (K12) — Hände-Platte entwickelt, glasscharf trotz Wackler; Brandwunde am Handrücken (K12 Verband) — geheilt.
+**Status der Figur am Ende:** Sorel sitzt im Keller, die Schublade zu. Er weiß, dass er sie seit Wochen auf Platten hat. Er weiß, dass sie es ahnt. Er hat nichts gesagt.
+
+---
+
 ## K14 — Maren
-**POV:** Maren | **Ort:** Vael (Werft Dahl, Brücke, Gasthof Anker, Hafen) | **Timeline:** 22. Mai 551, 6 Wochen 5 Tage in Vael
+**POV:** Maren | **Ort:** Vael (Werft Dahl, Brücke, Gasthof Anker, Hafen) | **Timeline:** 22. Mai 551, 8 Wochen 4 Tage in Vael
 **Was passiert:** Maren bringt Harons defekte Schiffsuhr (Spannungsriss im Unruhrad, Salzschaden) zum Uhrmacher Vesper Greve im Gasthof Anker. Die körperliche Reaktion ist sofort und überwältigend — Puls unterhalb des Nabels, warme Handgelenke, weiche Knie. Vesper öffnet die Uhr mit einer Präzision, die Maren als verwandt erkennt: Handwerk in anderem Material. Er nennt Preis und Frist, sachlich. Sein Blick bleibt zwei Herzschläge zu lang auf ihr. Beide sehen durch das Fenster die rückwärts fließende Grauwe — keiner spricht darüber. Zurück auf der Werft splittert Maren zum dritten Mal in dreißig Jahren eine Planke. Sie setzt den Gedanken wie einen Nagel: sie will bei diesem Mann sein, obwohl er nichts angeboten hat.
 **Was wird etabliert:** Maren + Vesper erstmals begegnet; Marens körperliches Begehren als Dominanzsaat — sie will sich senken, beugen, nachgeben; Vespers Hände als zentrales Bild ("Hände die warten könnten"); beide registrieren die Grauwe-Anomalie ohne zu sprechen; der Wirt als stiller Zeuge und Verknüpfungspunkt.
 **Tschechow-Beats geladen:** Schiffsuhr (Riss von Elf zur Sechs, wird in einer Woche abgeholt — Wiedersehen-Timer); Holzsplitter auf der Werkbank neben dem Zettel; Wirts-Klopfen (zwei Knöchel aufs Holz); Vespers Initiale "V." auf dem Abholzettel; Nagel-Metapher (gesetzt, nicht eingetrieben).

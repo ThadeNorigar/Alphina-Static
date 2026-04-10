@@ -1,3 +1,6 @@
+> **LEGACY — KONTEXT IRRELEVANT**
+> Dieses Dokument gehört zur alten Pipeline und ist veraltet. Das finale Kapitel hat Vorrang. Nicht als Referenz verwenden.
+
 Die Rotlichtlampe war leiser geworden.
 
 Sorel wusste nicht, wie viele Stunden vergangen waren. Die Zeit in seinem Keller hatte keine Uhren, keine Fenster, kein Licht das sich veränderte. Nur das Rotlicht, das brannte, solange die Lampe Öl hatte, und das Öl war niedrig, er hörte es am Docht, an dem leisen Zischen das kam wenn die Flamme anfing zu hungern, und er hatte es nicht bemerkt. Er bemerkte solche Dinge. Immer. Dass er es nicht bemerkt hatte, sagte ihm mehr als die Steifheit in seinem Nacken von Stunden in derselben Haltung.
