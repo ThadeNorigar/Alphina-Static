@@ -295,13 +295,17 @@
       `;
 
       // 1. Flatten all events from all monate, tag with world
+      const buchNorm = {'B1':'Buch 1: Der Riss','B2':'Buch 2: Das Auge','B3':'Buch 3: Die Quelle'};
       const allEvents = [];
       data.monate.forEach(monat => {
+        const mb = monat.buch || '';
         for (const ev of (monat.events.thalassien || [])) {
-          allEvents.push({...ev, _world: 'thal', _buch: ev.buch || monat.buch || ''});
+          const b = buchNorm[ev.buch] || ev.buch || mb || 'Sonstiges';
+          allEvents.push({...ev, _world: 'thal', _buch: b});
         }
         for (const ev of (monat.events.moragh || [])) {
-          allEvents.push({...ev, _world: 'moragh', _buch: ev.buch || monat.buch || ''});
+          const b = buchNorm[ev.buch] || ev.buch || mb || 'Sonstiges';
+          allEvents.push({...ev, _world: 'moragh', _buch: b});
         }
       });
 
