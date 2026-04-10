@@ -419,7 +419,7 @@
             let dateDisplay = datum;
             if (!dateDisplay && allKapEvents[0]) {
               const ev0 = allKapEvents[0];
-              if (ev0.tz !== undefined) dateDisplay = ev0.tz + ' TZ';
+              if (ev0.tz !== undefined && ev0.tz !== null) dateDisplay = ev0.tz + ' TZ';
             }
 
             // Datumszeile wenn sich das Datum geaendert hat
