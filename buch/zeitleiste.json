@@ -153,8 +153,8 @@
   "monate": [
     {
       "label": "MZ 0",
-      "tz": "TZ ~-1.453.449",
-      "mz": "MZ 0",
+      "tz": "~-1.453.449 TZ",
+      "mz": "0 MZ",
       "events": {
         "thalassien": [],
         "moragh": [
@@ -175,8 +175,8 @@
     },
     {
       "label": "MZ 3.435",
-      "tz": "TZ -79.449",
-      "mz": "MZ 3.435",
+      "tz": "-79.449 TZ",
+      "mz": "3.435 MZ",
       "tz_range": "TZ -79.449",
       "events": {
         "thalassien": [
@@ -211,8 +211,8 @@
     },
     {
       "label": "MZ 3.435 bis 3.633",
-      "tz": "TZ -79.449 bis -249",
-      "mz": "~198 MZ-Jahre",
+      "tz": "-79.449 bis -249 TZ",
+      "mz": "3.435 bis 3.633 MZ",
       "events": {
         "thalassien": [
           {
@@ -226,9 +226,9 @@
       }
     },
     {
-      "label": "TZ -249",
-      "tz": "TZ -249",
-      "mz": "MZ ~3.633",
+      "label": "-249 TZ",
+      "tz": "-249 TZ",
+      "mz": "~3.633 MZ",
       "events": {
         "thalassien": [
           {
@@ -248,9 +248,9 @@
       }
     },
     {
-      "label": "TZ 0",
-      "tz": "TZ 0",
-      "mz": "MZ ~3633,62",
+      "label": "0 TZ",
+      "tz": "0 TZ",
+      "mz": "~3633,62 MZ",
       "events": {
         "thalassien": [
           {
@@ -270,8 +270,8 @@
     },
     {
       "label": "MZ ~3630,75",
-      "tz": "TZ ~-1.149",
-      "mz": "MZ ~3630,75",
+      "tz": "~-1.149 TZ",
+      "mz": "~3630,75 MZ",
       "events": {
         "thalassien": [],
         "moragh": [
@@ -294,8 +294,8 @@
     },
     {
       "label": "MZ ~3.631",
-      "tz": "TZ ~-1.049",
-      "mz": "MZ ~3.631",
+      "tz": "~-1.049 TZ",
+      "mz": "~3.631 MZ",
       "events": {
         "thalassien": [],
         "moragh": [
@@ -316,8 +316,8 @@
     },
     {
       "label": "MZ 3.631 bis 3.632",
-      "tz": "TZ ~-1.049 bis ~-649",
-      "mz": "MZ 3.631 bis -3",
+      "tz": "~-1.049 bis ~-649 TZ",
+      "mz": "3.631 bis -3 MZ",
       "events": {
         "thalassien": [
           {
@@ -333,8 +333,8 @@
     },
     {
       "label": "MZ ~3.632",
-      "tz": "TZ ~-649",
-      "mz": "MZ 3.632",
+      "tz": "~-649 TZ",
+      "mz": "3.632 MZ",
       "events": {
         "thalassien": [],
         "moragh": [
@@ -357,7 +357,7 @@
     },
     {
       "label": "MZ 3.632 bis 3.634",
-      "tz": "TZ ~-649 bis 154",
+      "tz": "~-649 bis 154 TZ",
       "mz": "~2 MZ-Jahre",
       "events": {
         "thalassien": [
@@ -374,8 +374,8 @@
     },
     {
       "label": "MZ Monat -12",
-      "tz": "TZ 154",
-      "mz": "MZ 3.634",
+      "tz": "154 TZ",
+      "mz": "3.634 MZ",
       "events": {
         "thalassien": [
           {
@@ -509,8 +509,8 @@
     },
     {
       "label": "MZ Monat -11 bis -7",
-      "tz": "TZ 154–354",
-      "mz": "MZ 3634,08 bis -0,58",
+      "tz": "154–354 TZ",
+      "mz": "3634,08 bis -0,58 MZ",
       "events": {
         "thalassien": [
           {
@@ -550,8 +550,8 @@
     },
     {
       "label": "MZ Monat -6",
-      "tz": "TZ ~354",
-      "mz": "MZ 3634,5",
+      "tz": "~354 TZ",
+      "mz": "3634,5 MZ",
       "events": {
         "thalassien": [],
         "moragh": [
@@ -574,8 +574,8 @@
     },
     {
       "label": "MZ Monat -5 bis -3",
-      "tz": "TZ ~354–485",
-      "mz": "MZ 3634,58 bis -0,25",
+      "tz": "~354–485 TZ",
+      "mz": "3634,58 bis -0,25 MZ",
       "events": {
         "thalassien": [
           {
@@ -600,8 +600,8 @@
     },
     {
       "label": "MZ Monat -2",
-      "tz": "TZ ~485",
-      "mz": "MZ 3634,83",
+      "tz": "~485 TZ",
+      "mz": "3634,83 MZ",
       "events": {
         "thalassien": [
           {
@@ -647,8 +647,8 @@
     },
     {
       "label": "Buch 1 — MZ Monat -1 bis 0",
-      "tz": "TZ ~551 (Frühling–Herbst)",
-      "mz": "MZ 3634,92 bis 0",
+      "tz": "~551 (Frühling–Herbst) TZ",
+      "mz": "3634,92 bis 0 MZ",
       "buch": "Buch 1: Der Riss",
       "events": {
         "thalassien": [
@@ -2253,16 +2253,16 @@
           }
         ],
         "sync": {
-          "tz": "TZ ~551",
-          "mz": "MZ 3.635",
+          "tz": "~551 TZ",
+          "mz": "3.635 MZ",
           "label": "Portal → Die Vier + Runa nach Moragh"
         }
       }
     },
     {
       "label": "MZ Monat 1",
-      "tz": "TZ ~551–583",
-      "mz": "MZ 3.635 bis 0,08",
+      "tz": "~551–583 TZ",
+      "mz": "3.635 bis 0,08 MZ",
       "buch": "Buch 2: Das Auge (beginnt NACH Elke-Treffen)",
       "events": {
         "thalassien": [],
@@ -2410,8 +2410,8 @@
     },
     {
       "label": "MZ Monat 2",
-      "tz": "TZ ~583–651",
-      "mz": "MZ 3635,08 bis 0,17",
+      "tz": "~583–651 TZ",
+      "mz": "3635,08 bis 0,17 MZ",
       "events": {
         "thalassien": [
           {
@@ -2570,12 +2570,12 @@
     },
     {
       "label": "MZ Monat 3",
-      "tz": "TZ ~651",
-      "mz": "MZ 3635,17 bis 0,25",
+      "tz": "~651 TZ",
+      "mz": "3635,17 bis 0,25 MZ",
       "events": {
         "sync": {
-          "tz": "TZ ~651",
-          "mz": "MZ ~3635,25",
+          "tz": "~651 TZ",
+          "mz": "~3635,25 MZ",
           "label": "Portal ← Maren geht nach Thalassien"
         },
         "thalassien": [
@@ -2702,8 +2702,8 @@
     },
     {
       "label": "MZ Monat 4 bis MZ Jahr 5,5",
-      "tz": "TZ ~651–2.751",
-      "mz": "MZ 3635,25 bis 5,5",
+      "tz": "~651–2.751 TZ",
+      "mz": "3635,25 bis 5,5 MZ",
       "events": {
         "thalassien": [
           {
@@ -2879,13 +2879,13 @@
     },
     {
       "label": "MZ Jahr ~5,5 — Buch 3",
-      "tz": "TZ ~2.751",
-      "mz": "MZ ~3640,5",
+      "tz": "~2.751 TZ",
+      "mz": "~3640,5 MZ",
       "buch": "Buch 3: Die Quelle",
       "events": {
         "sync": {
-          "tz": "TZ ~2.751",
-          "mz": "MZ ~3640,5",
+          "tz": "~2.751 TZ",
+          "mz": "~3640,5 MZ",
           "label": "Portal → Wiedervereinigung"
         },
         "thalassien": [

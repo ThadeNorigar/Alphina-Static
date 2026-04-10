@@ -349,12 +349,15 @@
         }
 
         // Monats-Marker (TZ links, MZ rechts)
+        const monatTz = monat.tz || '';
         tl.innerHTML += `
           <div class="month-marker">
-            <span class="mm-tz">${escHtml(monat.tz || '')}</span>
+            <span class="mm-tz">${escHtml(monatTz)}</span>
             <span class="mm-mz">${escHtml(monat.mz || '')}</span>
           </div>
         `;
+        // lastDate auf Monats-TZ setzen um doppelte Datumszeilen zu vermeiden
+        lastDate = monatTz;
 
         // Events nach Kapitel gruppieren (Reihenfolge beibehalten)
         const kapOrder = [];
@@ -390,11 +393,13 @@
             let dateDisplay = datum;
             if (!dateDisplay && allKapEvents[0]) {
               const ev0 = allKapEvents[0];
-              if (ev0.tz !== undefined) dateDisplay = 'TZ ' + ev0.tz;
+              if (ev0.tz !== undefined) dateDisplay = ev0.tz + ' TZ';
             }
 
             // Datumszeile wenn sich das Datum geaendert hat
-            if (dateDisplay && dateDisplay !== lastDate) {
+            // Normalisiere fuer Vergleich: Zahlen extrahieren
+            const normalize = s => s.replace(/[^0-9.\-,]/g, '');
+            if (dateDisplay && normalize(dateDisplay) !== normalize(lastDate)) {
               lastDate = dateDisplay;
               tl.innerHTML += `
                 <div class="date-marker">
