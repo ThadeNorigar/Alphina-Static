@@ -227,7 +227,7 @@
         return `<span class="tag ${cssClass}">${escHtml(tag)}</span>`;
       }).join('');
 
-      const opacityClass = primaryType === 'hintergrund' ? ' style="opacity:0.8"' : '';
+      const opacityClass = '';
       const hiddenClass = isVisible ? '' : ' hidden';
 
       return `<div class="ev t-${primaryType}${hiddenClass}"${opacityClass} data-typen="${typen.join(',')}">
