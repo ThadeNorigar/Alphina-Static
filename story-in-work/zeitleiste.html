@@ -300,11 +300,11 @@
       data.monate.forEach(monat => {
         const mb = monat.buch || '';
         for (const ev of (monat.events.thalassien || [])) {
-          const b = buchNorm[ev.buch] || ev.buch || mb || 'Sonstiges';
+          const b = buchNorm[ev.buch] || ev.buch || mb || 'Vorgeschichte';
           allEvents.push({...ev, _world: 'thal', _buch: b});
         }
         for (const ev of (monat.events.moragh || [])) {
-          const b = buchNorm[ev.buch] || ev.buch || mb || 'Sonstiges';
+          const b = buchNorm[ev.buch] || ev.buch || mb || 'Vorgeschichte';
           allEvents.push({...ev, _world: 'moragh', _buch: b});
         }
       });
