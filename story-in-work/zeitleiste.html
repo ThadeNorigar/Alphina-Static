@@ -126,6 +126,21 @@
 
     .ev.hidden { display: none; }
 
+    .buch-section {
+      grid-column: 1 / -1; padding: 1.2rem 1.8rem 0.8rem;
+      background: var(--deep); border-top: 3px solid var(--accent);
+      text-align: center;
+    }
+    .buch-section-title {
+      font-family: 'Cormorant Garamond', serif; font-size: 1.3rem;
+      font-weight: 600; color: var(--paper); letter-spacing: 0.15em;
+      text-transform: uppercase;
+    }
+    .buch-section-time {
+      font-family: 'JetBrains Mono', monospace; font-size: 0.6rem;
+      color: var(--smoke); margin-top: 0.2rem; letter-spacing: 0.05em;
+    }
+
     @media (max-width: 700px) {
       .tl-columns { grid-template-columns: 1fr; }
       .sync-bridge-row { grid-template-columns: auto 1fr auto; padding: 0.4rem 1rem; }
@@ -261,8 +276,20 @@
         </div>
       `;
 
+      let currentBuch = '';
       data.monate.forEach(monat => {
         const ev = monat.events;
+
+        // Book section header (full width) when book changes
+        if (monat.buch && monat.buch !== currentBuch) {
+          currentBuch = monat.buch;
+          tl.innerHTML += `
+            <div class="buch-section">
+              <div class="buch-section-title">${escHtml(monat.buch)}</div>
+              <div class="buch-section-time">${escHtml(monat.tz || '')} &middot; ${escHtml(monat.mz || '')}</div>
+            </div>
+          `;
+        }
 
         // Month marker
         tl.innerHTML += `
