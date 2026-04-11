@@ -59,6 +59,8 @@ Parameter `B1-K12` parsen, in `status.json` nachschlagen, `datei`-Feld lesen.
 
 **NICHTS ANDERES.** Kein Canon-Kompakt, keine POV-Dossiers, keine Summaries, keine Zeitleiste, kein vorheriges Kapitel, keine Aktplaene.
 
+**Falls der Autor eine Fakten-Frage hat** (z.B. "War Maren schon im Archiv?"): `python scripts/kapitel-kontext.py {ID} --phase lektorat` liefert Nachbar-Kapitel-Kontext (~400 Tokens). Nur bei Bedarf ausfuehren, nicht standardmaessig.
+
 **Ziel-Kontext: ~5-8k W.** Primaer das Kapitel selbst.
 
 **Begruendung:** Lektorats-Fixes sind chirurgisch. Wenn der Autor sagt *"Seite 3, zweiter Absatz, der Satz klingt schief"* braucht Claude nur den Satz im Kontext. Wenn er sagt *"die Szene im Lagerhaus fuehlt sich zu hastig an"* braucht Claude die Szene — aber nicht die halbe Weltbibel.

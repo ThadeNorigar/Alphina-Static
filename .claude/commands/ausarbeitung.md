@@ -57,7 +57,15 @@ Parameter `B1-K12` parsen, in `status.json` nachschlagen, POV-Figur ermitteln.
 
 ## Phase 1: Kontext laden — POV-fokussiert
 
-**NUR diese Files, parallel mit Read:**
+**Schritt 1: Kontext-Extraktor ausfuehren (Bash):**
+
+```bash
+python scripts/kapitel-kontext.py {ID} --phase ausarbeitung
+```
+
+Das Script liefert auf stdout (~2k Tokens): Kapitel-Info, Nachbar-Kapitel, aktuelle Events, Aktplan-Snippet, Beziehungsstatus, Wissensstand, Wohnorte. **Diesen Output als Kontext verwenden — ersetzt zeitleiste.json, status.json, kapitel-summaries.md und Aktplaene.**
+
+**Schritt 2: Zusaetzlich mit Read laden (parallel):**
 
 1. `buch/kapitel/{ID}-entwurf.md` — der freigegebene Entwurf (Quelle der Wahrheit fuer Plot)
 2. `buch/kapitel/{ID}-handoff.md` — die Anweisungen aus Phase 1
@@ -65,20 +73,18 @@ Parameter `B1-K12` parsen, in `status.json` nachschlagen, POV-Figur ermitteln.
 4. `buch/01-autorin-stimme.md` — Autorin-Stimme (Register, Begehren-Vokabular, Kontrollverlust-Momente, Erotik-Regeln)
 5. `buch/02-stilregeln-v2.md` — Stilregeln (jetzt noetig, weil Prosa)
 6. **EIN** Ton-Referenzkapitel: das letzte fertige Kapitel **derselben POV-Figur**.
-   - Aus `status.json` ermitteln: vorheriges Kapitel mit gleichem POV das Status `final` hat.
+   - POV aus dem Kontext-Output ablesen. Vorheriges Kapitel mit gleichem POV und Status `final` ermitteln.
    - Beispiel fuer Vesper-K12: `buch/kapitel/07-vesper.md` oder neueres Vesper-Kapitel.
-7. `buch/kapitel-summaries.md` (nur als Kontinuitaets-Check)
 
-**NICHT geladen:**
-- `buch/00-welt.md`
-- `buch/10-magie-system.md`
-- `buch/00-canon-kompakt.md` (Plot ist im Entwurf, Welt ist im POV-Dossier)
-- `buch/00-storyline.md`
-- Aktplaene (Plot ist im Entwurf festgeklopft)
-- Andere POV-Kapitel
-- Andere POV-Dossiers
+**NICHT laden:**
+- `buch/zeitleiste.json` — NICHT DIREKT LADEN. Kontext-Extraktor liefert die relevanten Events
+- `buch/status.json` — NICHT DIREKT LADEN. Kontext-Extraktor liefert die Kapitel-Infos
+- `buch/kapitel-summaries.md` — NICHT LADEN. Nachbar-Kapitel stecken im Kontext-Output
+- `buch/00-welt.md`, `buch/10-magie-system.md`, `buch/00-canon-kompakt.md`
+- Aktplaene komplett (Snippet steckt im Kontext-Output)
+- Andere POV-Kapitel, andere POV-Dossiers
 
-**Ziel-Kontext: ~15-20k W.** Mehr als Phase 1 weil Stilregeln und Ton-Referenz dazu kommen, aber deutlich weniger als die alten 40-50k.
+**Ziel-Kontext: ~12-15k W.** Kontext-Extraktor (~2k) + Entwurf (~2-3k) + Handoff (~1k) + POV-Dossier (~500) + Autorin-Stimme (~1.2k) + Stilregeln (~4k) + Ton-Referenz (~4-6k).
 
 **WICHTIG:** Nach diesem Lade-Vorgang KEINE weiteren Files lesen. Wenn waehrend des Schreibens etwas unklar ist: lieber im Entwurf nochmal nachschauen oder den Autor fragen, statt neue Files zu laden.
 

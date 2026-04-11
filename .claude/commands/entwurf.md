@@ -51,23 +51,30 @@ Pruefen ob `buch/kapitel/B1-K12-handoff.md` existiert.
 
 ## Phase 1: Kontext laden — schlank
 
-**NUR diese Files, parallel mit Read:**
+**Schritt 1: Kontext-Extraktor ausfuehren (Bash):**
+
+```bash
+python scripts/kapitel-kontext.py {ID} --phase entwurf
+```
+
+Das Script liefert auf stdout (~3k Tokens): Kapitel-Info, Nachbar-Kapitel, Zeitleisten-Events bis hierher, offene Tschechow-Waffen, Aktplan-Snippet, Wissensstand der POV-Figur, Begegnungen, Wohnorte. **Diesen Output als Haupt-Kontext verwenden.**
+
+**Schritt 2: Zusaetzlich mit Read laden (parallel):**
 
 1. `buch/00-canon-kompakt.md` (~800 W — Welt/Figuren/Magie auf einen Blick)
-2. `buch/kapitel-summaries.md` (Summaries aller fertigen Kapitel)
-3. `buch/pov/{figur}.md` — POV-Dossier der Ziel-Figur (POV aus Aktplan oder zeitleiste.json ermitteln)
-4. `buch/zeitleiste.json` (komplett — knapp und SoT)
-5. Aus dem passenden Aktplan (`buch/02-akt1.md` etc.) NUR der Abschnitt fuer dieses Kapitel — mit Grep auf die Kapitel-ID, NICHT der ganze Akt
+2. `buch/pov/{figur}.md` — POV-Dossier der Ziel-Figur (POV aus dem Kontext-Output ablesen)
 
 **NICHT laden:**
+- `buch/zeitleiste.json` — NICHT MEHR DIREKT LADEN. Der Kontext-Extraktor liefert die relevanten Events (~3k statt ~36k Tokens)
+- `buch/status.json` — NICHT MEHR DIREKT LADEN. Der Kontext-Extraktor liefert die relevanten Kapitel-Infos (~1k statt ~15k Tokens)
 - `buch/00-welt.md` (zu gross, Inhalt steckt im Canon-Kompakt)
 - `buch/10-magie-system.md` (dito)
-- `buch/02-stilregeln-v2.md` (kein Stil-Arbeit in dieser Phase)
+- `buch/02-stilregeln-v2.md` (keine Stil-Arbeit in dieser Phase)
 - `buch/kapitel/*.md` Volltexte (Inhalt steckt in den Summaries)
-- Andere POV-Dossiers
-- Andere Aktplaene
+- Aktplaene komplett (Snippet steckt im Kontext-Output)
+- `buch/kapitel-summaries.md` (Nachbar-Kapitel stecken im Kontext-Output)
 
-**Ziel-Kontext: ~6-8k W.** Wenn deutlich mehr, etwas weglassen.
+**Ziel-Kontext: ~4-5k W.** Kontext-Extraktor (~3k) + Canon-Kompakt (~800) + POV-Dossier (~500).
 
 ## Phase 2: Entwurf schreiben
 

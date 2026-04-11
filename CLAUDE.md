@@ -210,11 +210,11 @@ Projekt-Root/
 
 | Phase | Lade |
 |---|---|
-| `/entwurf` (Phase 1) | `00-canon-kompakt.md`, `kapitel-summaries.md`, `pov/{figur}.md`, `zeitleiste.json`, Aktplan-Snippet |
-| `/ausarbeitung` (Phase 2) | Entwurf-File, Handoff-File, `pov/{figur}.md`, `01-autorin-stimme.md`, `02-stilregeln-v2.md`, EIN Ton-Referenzkapitel (gleicher POV), `kapitel-summaries.md` |
-| `/lektorat-fix` (Phase 3) | NUR die Kapitel-Datei + ggf. `02-stilregeln-v2.md` |
+| `/entwurf` (Phase 1) | **`python scripts/kapitel-kontext.py {ID} --phase entwurf`** (~3k Tok), `00-canon-kompakt.md`, `pov/{figur}.md` |
+| `/ausarbeitung` (Phase 2) | **`python scripts/kapitel-kontext.py {ID} --phase ausarbeitung`** (~2k Tok), Entwurf-File, Handoff-File, `pov/{figur}.md`, `01-autorin-stimme.md`, `02-stilregeln-v2.md`, EIN Ton-Referenzkapitel (gleicher POV) |
+| `/lektorat-fix` (Phase 3) | NUR die Kapitel-Datei + ggf. `02-stilregeln-v2.md`. Bei Fakten-Fragen: `python scripts/kapitel-kontext.py {ID} --phase lektorat` (~400 Tok) |
 
-**NICHT mehr pauschal laden:** `00-welt.md`, `10-magie-system.md`, mehrere fertige Kapitel als Referenz. Die Inhalte stecken in den kompakten Files. Wenn du sie wirklich brauchst, hat das einen Grund — und dann lade nur den nötigen Abschnitt.
+**NICHT mehr direkt laden:** `zeitleiste.json` (~36k Tok!), `status.json` (~15k Tok), `kapitel-summaries.md`, Aktpläne komplett. Der Kontext-Extraktor (`scripts/kapitel-kontext.py`) liefert kapitelspezifische Slices aus diesen Dateien — ~3k statt ~51k Tokens. Ebenso nicht: `00-welt.md`, `10-magie-system.md`, mehrere fertige Kapitel als Referenz.
 
 ## Pipelines
 
