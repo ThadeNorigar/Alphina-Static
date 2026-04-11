@@ -46,8 +46,13 @@ Zehn Ebenen, von abstrakt nach konkret. Änderungen kaskadieren abwärts. Prüfu
 Ebene  Typ                  Dateien                              Inhalt
 ─────  ───────────────────  ───────────────────────────────────  ──────────────────────────────
   1    Weltbibel            buch/00-welt.md                      Figuren, Welt, Fraktionen,
-                                                                 Regeln, Zeitgeschichte, Orte.
-                                                                 SOURCE OF TRUTH.
+                            buch/moragh-karte.json               Regeln, Zeitgeschichte, Orte.
+                            buch/99-karten-prompt.md             SOURCE OF TRUTH.
+                                                                 moragh-karte.json = Geografie-
+                                                                 SoT für Moragh (Städte,
+                                                                 Fraktionen, Quellen, Leylinien).
+                                                                 99-karten-prompt.md = Design-
+                                                                 Spec der interaktiven Karte.
 
   2    Regelsysteme         buch/10-magie-system.md              Resonanz, Quellen, Preise,
                             buch/01-stil.md                      Kombinationen. Stilregeln.
@@ -141,9 +146,12 @@ Nach jeder Bibel-Änderung (Ebene 1-3): abwärts durcharbeiten bis zum fertigen 
 ```
 buch/
 ├── 00-welt.md                    # Ebene 1: Weltbibel
+├── moragh-karte.json             # Ebene 1: Geografie-SoT Moragh (Städte, Fraktionen, Quellen)
+├── 99-karten-prompt.md           # Ebene 1: Design-Spec der interaktiven Karte
 ├── 00-canon-kompakt.md           # Ebene 1: Kompakt-Destillat (max 800 W) — Pipeline v2
 ├── 00-storyline.md               # Ebene 4: Storyline
 ├── 01-stil.md                    # Ebene 2: Stilregeln
+├── 01-autorin-stimme.md          # Ebene 2: Autorin-Stimme (Register, Begehren, Erotik) — Pipeline v2
 ├── 02-stilregeln-v2.md           # Ebene 2: Stilregeln v2
 ├── 10-magie-system.md            # Ebene 2: Regelsystem
 ├── 11-nyr.md                     # Ebene 3: Charakter-Dossier
@@ -203,7 +211,7 @@ Projekt-Root/
 | Phase | Lade |
 |---|---|
 | `/entwurf` (Phase 1) | `00-canon-kompakt.md`, `kapitel-summaries.md`, `pov/{figur}.md`, `zeitleiste.json`, Aktplan-Snippet |
-| `/ausarbeitung` (Phase 2) | Entwurf-File, Handoff-File, `pov/{figur}.md`, `02-stilregeln-v2.md`, EIN Ton-Referenzkapitel (gleicher POV), `kapitel-summaries.md` |
+| `/ausarbeitung` (Phase 2) | Entwurf-File, Handoff-File, `pov/{figur}.md`, `01-autorin-stimme.md`, `02-stilregeln-v2.md`, EIN Ton-Referenzkapitel (gleicher POV), `kapitel-summaries.md` |
 | `/lektorat-fix` (Phase 3) | NUR die Kapitel-Datei + ggf. `02-stilregeln-v2.md` |
 
 **NICHT mehr pauschal laden:** `00-welt.md`, `10-magie-system.md`, mehrere fertige Kapitel als Referenz. Die Inhalte stecken in den kompakten Files. Wenn du sie wirklich brauchst, hat das einen Grund — und dann lade nur den nötigen Abschnitt.
@@ -296,7 +304,7 @@ idee → entwurf → entwurf-checked → entwurf-ok → ausarbeitung → lektora
 
 **Ziel:** Den freigegebenen Entwurf in Prosa ausarbeiten. **Vom Plot NICHT abweichen.** Wenn ein Plot-Beat nicht trägt: stoppen und zurück zu `/entwurf`, niemals still anpassen.
 
-**Lädt nur:** Entwurf-File, Handoff-File, `pov/{figur}.md`, `02-stilregeln-v2.md`, EIN Ton-Referenzkapitel (gleicher POV), `kapitel-summaries.md`. Gesamt ~15-20k W.
+**Lädt nur:** Entwurf-File, Handoff-File, `pov/{figur}.md`, `01-autorin-stimme.md`, `02-stilregeln-v2.md`, EIN Ton-Referenzkapitel (gleicher POV), `kapitel-summaries.md`. Gesamt ~15-20k W.
 
 **Schreibt:** `buch/kapitel/B1-K12-{figur}.md` direkt als finale Prosa, Szene für Szene, kein Szenen-Council zwischendurch.
 

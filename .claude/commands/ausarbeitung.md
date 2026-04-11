@@ -62,11 +62,12 @@ Parameter `B1-K12` parsen, in `status.json` nachschlagen, POV-Figur ermitteln.
 1. `buch/kapitel/{ID}-entwurf.md` — der freigegebene Entwurf (Quelle der Wahrheit fuer Plot)
 2. `buch/kapitel/{ID}-handoff.md` — die Anweisungen aus Phase 1
 3. `buch/pov/{figur}.md` — POV-Dossier
-4. `buch/02-stilregeln-v2.md` — Stilregeln (jetzt noetig, weil Prosa)
-5. **EIN** Ton-Referenzkapitel: das letzte fertige Kapitel **derselben POV-Figur**.
+4. `buch/01-autorin-stimme.md` — Autorin-Stimme (Register, Begehren-Vokabular, Kontrollverlust-Momente, Erotik-Regeln)
+5. `buch/02-stilregeln-v2.md` — Stilregeln (jetzt noetig, weil Prosa)
+6. **EIN** Ton-Referenzkapitel: das letzte fertige Kapitel **derselben POV-Figur**.
    - Aus `status.json` ermitteln: vorheriges Kapitel mit gleichem POV das Status `final` hat.
    - Beispiel fuer Vesper-K12: `buch/kapitel/07-vesper.md` oder neueres Vesper-Kapitel.
-6. `buch/kapitel-summaries.md` (nur als Kontinuitaets-Check)
+7. `buch/kapitel-summaries.md` (nur als Kontinuitaets-Check)
 
 **NICHT geladen:**
 - `buch/00-welt.md`
@@ -86,6 +87,8 @@ Parameter `B1-K12` parsen, in `status.json` nachschlagen, POV-Figur ermitteln.
 **Ziel-Datei:** `buch/kapitel/{ID}-{figur}.md` (mit Prefix, z.B. `B1-K12-vesper.md`).
 
 ### Vorgehen
+
+Die Autorin-Stimme (`01-autorin-stimme.md`) definiert drei Register (Langsam/Normal/Schnell). Jede Szene beginnt im passenden Register. Wechsel zwischen Registern sind bewusste Entscheidungen. Normal (10-20W Sätze) ist der häufigste Modus.
 
 Pro Szene aus dem Entwurf:
 

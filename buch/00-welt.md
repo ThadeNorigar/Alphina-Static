@@ -95,7 +95,7 @@ Halbinsel ins Graue Meer. Fluss **Grauwe** mündet hier — langsam, trüb, flie
 
 **Das Lichthaus** — Speichergebäude am Hafen. Sorels Dunkelkammer im Keller.
 
-**Das Archiv** — Im Rathauskeller. Gehütet von **Esther Voss**, Archivarin, unterstützt von ihrer Nichte **Jara Voss**. Enthält ein Manuskript — teilweise echt (geschrieben von Lene Dahl in TZ 154, einzige Überlebende der Vier), teilweise gefälscht (von Varen überschrieben und ergänzt).
+**Das Archiv** — Im Rathauskeller. Gehütet von **Esther Voss** (klein, Anfang 60, runde Brille, ruhige Hände, ein Gesicht das viel gesehen und wenig preisgegeben hat), unterstützt von ihrer Nichte **Jara Voss**. Enthält ein Manuskript — teilweise echt (geschrieben von Lene Dahl in TZ 154, einzige Überlebende der Vier), teilweise gefälscht (von Varen überschrieben und ergänzt).
 
 **Die Druckerei Kvist** — Oberstadt, nahe am Marktplatz. Betrieben von **Runa Kvist**. Heißes Metall, Bleilettern, Druckerschwärze. Runa druckt alles — Handelsregister, Flugblätter, gelegentlich Fachzeitschriften.
 
@@ -369,6 +369,23 @@ In Moragh: eine Naturgewalt. Alphina hebt die Hand und ein Wald wächst. In Minu
 
 ### Alphina — aus Velde (Tidelände)
 
+**Steckbrief:**
+| | |
+|---|---|
+| **Alter** | ~30 |
+| **Größe** | Mittel, wirkt größer durch Haltung |
+| **Körperbau** | Schmal, aufrecht. Nicht zerbrechlich — sehnig, Spannung im ganzen Körper |
+| **Haar** | Lang, wellig bis lockig, schwarz. Offen am Rücken, beim Arbeiten lose hochgesteckt |
+| **Augen** | Dunkel, ruhig. Ein Blick der nichts fragt |
+| **Haut** | Hell, blass vom Innenleben. Unterarme gebräunt (Gartenarbeit) |
+| **Gesicht** | Schmale Züge, hohe Wangenknochen. Mund der selten lächelt — wenn, dann asymmetrisch |
+| **Hände** | Tintenflecken an Zeige- und Mittelfinger. Erde unter den Nägeln. Schmal, lang, stark |
+| **Besondere Merkmale** | Rechtes Knie steif nach langer Arbeit. Aufrechte Haltung — betritt Räume als gehörten sie ihr |
+| **Kleidung** | Weiter dunkler Mantel, Rock, Ärmel hochgerollt bei Arbeit |
+| **Geruch** | Erde, feuchtes Laub, Tinte |
+| **Stimme** | Leise, klar, unhektisch. Wird nie laut — wird stiller, wenn sie wütend ist |
+| **Resonanz-Marker** | Pflanzen drehen sich nach ihr. Farne wachsen aus dem Nichts wenn ihre Kontrolle bricht |
+
 Botanikerin. Vierter Stock, neunundvierzig Pflanzen. "Die Hexe im Vierten." Lebt allein. Drei Beziehungen beendet, alle mit: "Du lässt mich nicht rein."
 
 **Kontrolliert.** Leise, unausweichlich. Durch Wissen, Stille, Zurückhaltung. In Beziehungen dominant — nicht performativ, sondern durch die Art wie sie den Raum betritt. Hat einmal bewusst getestet, wie weit sie gehen kann. Es hat funktioniert. Es hat sie entsetzt.
@@ -387,6 +404,24 @@ Pflanzen reagieren auf sie. Es wird stärker.
 
 ### Sorel — aus Nachtholm (Freistädte)
 
+**Steckbrief:**
+| | |
+|---|---|
+| **Alter** | ~30 |
+| **Größe** | Mittelgroß, wirkt kleiner durch gebeugte Haltung |
+| **Körperbau** | Schmal. Schmale Schultern, Jacke immer eine Nummer zu weit. Dünn, aber nicht schwach — Hände tragen schwere Plattenkästen stundenlang |
+| **Haar** | Mittellanges, dunkelbraunes lockiges Haar bis zum Nacken. Unordentlich, fällt ins Gesicht |
+| **Augen** | Dunkel. Blick der registriert, bevor er reagiert |
+| **Haut** | Blass, kellerblass. Sieht selten Tageslicht |
+| **Gesicht** | Markante Nase, schmales Kinn. Kopf leicht nach vorn geneigt — Gewohnheit über dem Fixierbad. Haaransatz, Stirnbreite, Augenabstand: er kennt sein Gesicht von den Platten |
+| **Hände** | Blass, schmal, Schnittwunden an den Fingerkuppen (Glasplatten). Pyrogallol-Verfärbungen. Präzise, auch wenn der Rest zittert |
+| **Besondere Merkmale** | Chemie-Geruch sitzt in der Haut — Pyrogallol, Fixierer, Silbernitrat. Geht nie ganz weg |
+| **Haltung/Gang** | Schultern hochgezogen, Kopf gesenkt. Kamera über der Schulter, Stativ unterm Arm. Bewegt sich leise |
+| **Kleidung** | Dunkle Kleidung, immer etwas zu weit. Dunkle Jacke, keine Farben |
+| **Geruch** | Fixierer, Silbernitrat, kalter Keller. Darunter: Seife |
+| **Stimme** | Leise, knapp. Spricht in halben Sätzen. Wartet lange vor der Antwort |
+| **Resonanz-Marker** | Platten belichten sich durch seine Gedanken. Licht bündelt sich um ihn, wenn er fokussiert |
+
 Kellerwohnung in der Schluchtstadt. Halb Wohnung, halb Dunkelkammer. Lebt ohne natürliches Licht. Rettet vergessene Bilder — alte Glasplatten, Daguerreotypien, Lichtdrucke.
 
 Mit neunzehn hat er auf einer Glasplatte sein eigenes Gesicht gefunden. In einer Stadt, die er nie betreten hat. Auf einem Bild, das Jahrzehnte alt ist. Einmal. Er hat es für einen Fehler gehalten. Dann hat er versucht, es zu vergessen. Er lebt seitdem in der Dunkelkammer. Entwickelt Bilder. Tausende. Sein Gesicht taucht nie wieder auf. Aber er kann nicht aufhören zu suchen.
@@ -399,11 +434,47 @@ Dann, dreizehn Jahre später: Platte 7. Sein Gesicht. In Vael. *"Vael, Lichthaus
 
 ### Vesper — aus Karst (Innenlande)
 
+**Steckbrief:**
+| | |
+|---|---|
+| **Alter** | ~32 |
+| **Größe** | Mittel, unauffällig |
+| **Körperbau** | Angezogen unauffällig, fast schmächtig. Unter dem Hemd sehnig-muskulös — Körper eines Mannes der schwere Standuhren allein bewegt und Werkbänke über Treppen trägt. Man sieht es erst wenn der Mantel fällt |
+| **Haar** | Kurz, sandfarbenes/hellbraunes Haar, ordentlich. Kein Bart |
+| **Augen** | Marineblau — "ein Blau das nicht in die Innenlande gehörte". Ruhig, messend |
+| **Haut** | Mittel, weder blass noch gebräunt. Keine Schwielen, keine Ölränder — seine Hände verraten ihn nicht als Handwerker |
+| **Gesicht** | Unauffällig. Nichts Markantes — genau das macht ihn schwer zu lesen. Ein Gesicht das man übersieht, bis man die Augen sieht |
+| **Hände** | Ruhig, präzise. Keine Hornhaut, keine Schnittwunden. Saubere Nägel. Pinzetten-Griff. Hände die wissen wann man wartet |
+| **Besondere Merkmale** | Schwarzer Schachturm aus Holz in der Tasche — glatt vom Greifen, Kanten abgerieben. Dreht sich zwischen Daumen, Zeige- und Mittelfinger. Knie knacken beim Aufstehen |
+| **Haltung/Gang** | Gelöst, ökonomisch. Kein überflüssiger Schritt. Betritt Räume ohne sie zu verändern — bis man merkt, dass er alles gesehen hat |
+| **Kleidung** | Schwerer dunkler Mantel. Darunter sauber, funktional, unauffällig |
+| **Geruch** | Uhrenöl, Messing, trockenes Holz. Kaum wahrnehmbar — er riecht nach Innenraum |
+| **Stimme** | Kurze Sätze. Denkt in Zügen. Fragt präzise. Nie laut, nie leise — genau die richtige Lautstärke |
+| **Resonanz-Marker** | Uhren in seiner Nähe laufen korrekt. Sein Takt überträgt sich auf Mechanik — und auf Menschen |
+
 Werkstatt im Hinterhof. Ehemaliges Schach-Wunderkind. Mit neunzehn aufgehört — in einer Gewinnstellung Remis angeboten. Repariert Uhren. Spricht in kurzen Sätzen. Denkt in Zügen.
 
 Hat auf dem Brett Muster gesehen, die kein Mensch dort hingelegt hat. Dieselbe Bauerndiagonale, vier Partien, vier Gegner. Unmöglich. Er hat aufgehört zu spielen. Uhren als Gegengift — erklärbare Muster.
 
 ### Maren — unterwegs (zuletzt Grauküste)
+
+**Steckbrief:**
+| | |
+|---|---|
+| **Alter** | ~30 |
+| **Größe** | Unter Durchschnitt, kompakt |
+| **Körperbau** | Kräftig, kompakt. Schultern die Gewicht kennen — Seesack, Gurt über dem Schlüsselbein. Breite Handgelenke, starke Unterarme. Nicht massig — drahtig, ein Körper der arbeitet |
+| **Haar** | Kurz, kupferrot/rotbraun, wellig. Praktischer Schnitt — geht aus dem Weg beim Arbeiten |
+| **Augen** | Noch offen (braun? grün? grau?) — hell genug für die Küste |
+| **Haut** | Hell, Sommersprossen auf Nase und Schultern. Wetter-gegerbt an den Händen |
+| **Gesicht** | Rund, offen. Kein Make-up, keine Eitelkeit. Ein Gesicht das nicht gefallen will |
+| **Hände** | Von Holz und Wasser gezeichnet. Breite Handflächen, Hornhaut an den Kuppen. Schnittwunden alt und frisch. Holzstaub unter den Nägeln. Hände die ankommen bevor der Rest von ihr es tut |
+| **Besondere Merkmale** | Salz auf den Lippen — immer, als hätte sie das Meer noch auf der Haut. Seesack, alles passt rein |
+| **Haltung/Gang** | Tritt auf als würde sie gleich wieder gehen. Knie auf dem Boden wenn sie arbeitet, nicht in der Hocke — kniet, als wäre der Boden vertraut |
+| **Kleidung** | Dunkle Jacke mit tiefen Taschen, abgetragene feuchte Stiefel. Hemd, funktional. Nichts Überflüssiges |
+| **Geruch** | Pech, Sägemehl, Salz, Leinöl. Meer, das nicht mehr da ist |
+| **Stimme** | Direkt, wenige Worte. Sagt was nötig ist und geht. Kein Smalltalk |
+| **Resonanz-Marker** | Wasser reagiert auf sie — steigt, folgt, wärmt sich. Unter dem Boden der Werft: ein Herzschlag |
 
 Keine feste Adresse. Drei Leben hinter sich. Alles passt in einen Seesack. Fließt. Bleibt nie.
 
@@ -440,21 +511,42 @@ Vesper dominiert durch Geduld. Maren unterwirft sich als Akt des Mutes. Er nimmt
 ## Nebencharaktere in Vael
 
 ### Runa Kvist — Druckerin
+
+**Steckbrief:** Mitte 20. Kurvig — runde Hüften, volle Schultern, ein Körper der Platz einnimmt und sich nicht dafür entschuldigt. Dunkles Haar, hochgesteckt beim Setzen, fällt in Strähnen wenn sie sich über den Setzkasten beugt. Breites, offenes Gesicht, schnelles Lächeln. Druckerschwärze an den Unterarmen, ein Fleck auf der Wange der nie ganz weggeht. Hände immer warm — buchstäblich, heißer als sie sein sollten. Laute Stimme, lacht zu viel für Vael. Riecht nach heißem Metall, Druckerschwärze und Tee.
+
 Betreibt die Druckerei in der Oberstadt. Heißes Metall, Bleilettern, Schmelztiegel. Intellektuell, direkt, lacht zu laut für Vael. Alphina kauft Papier bei ihr — daraus werden Gespräche, daraus Freundschaft. Runa hat eine Nase für Geheimnisse und kein Talent die Finger davon zu lassen. Hände immer warm, Metall schmilzt unter ihren Fingern leichter als es sollte. **Schwache, unerkannte Resonanz: Feuer/Hitze.** Hält es für Handwerksgeschick.
 
 **Buch 1:** Nebencharakter. Druckt Flugblätter über die Risse. Stellt unbequeme Fragen. Versteckt sich im Botanischen Garten, schlüpft durch das Portal in den letzten Sekunden der 4:33.
 **Buch 2:** Alphinas Affäre in Moragh. Einziger Mensch ohne bewusste Magie in einer Welt die aus Magie besteht. Ihre Feuer-Resonanz macht sie für die Thar interessant.
 
+### Henrik — Gärtner im Botanischen Garten
+
+**Steckbrief:** Über 50. Gebückt in den Schultern — vierzig Jahre über Beeten. Linkes Bein schleift. Bart mit Tabakkrümeln, kleine Brille vorn auf der Nase. Große Hände — Nägel schwarz bis an die Haut, Knöchel rissig. Fehlendes Fingerglied am kleinen Finger rechts. Ruhiger Griff eines Mannes der nie Wasser verschüttet.
+
+Der einzige Mensch in Vael der die Pflanzen auch sieht — nicht die Schemen, aber das Wachstum, die falschen Richtungen, die Farne die da nicht sein sollten. Fragt nicht. Arbeitet. Alphinas stiller Verbündeter im Garten.
+
 ### Tohl Daverin — Fischer
+
+**Steckbrief:** Ende 60, groß, hager. Verwittertes Gesicht — Falten die alle in eine Richtung laufen, vom Wind. Graues Haar, kurz, Salz-und-Pfeffer-Bart. Hände wie Taue — dick, knotig, rissig. Blaue Augen, wässrig, sehen weiter als sie sollten. Riecht nach Fisch, Teer und Salzwasser.
+
 Alt, schweigsam, Gesicht wie Treibholz. Fischt seit fünfzig Jahren auf der Grauwe. Sieht Dinge auf dem Wasser — Strömungen die falsch laufen, Stellen wo die Grauwe steht. "War schon immer so." Redet mit Maren, weil sie vom Wasser kommt. Redet nicht über das was er sieht. Zeigt es. Bringt tote Fische die nach Metall stinken.
 
 ### Jara Voss — Archiv-Gehilfin
+
+**Steckbrief:** Zwanzig. Schmal, blass, leise Bewegungen. Dunkle Handschuhe beim Arbeiten, Notizstift hinter dem Ohr. Glattes braunes Haar, streng zurückgebunden. Schmales Gesicht, aufmerksame Augen — registriert alles, gibt nichts preis. Riecht nach altem Papier und Bohnerwachs.
+
 Esther Voss' Nichte. Zwanzig, still, ordnet Dokumente. Sieht alles, sagt wenig. Sie findet das Manuskript — nicht Esther. Hat es gelesen, bevor sie es weitergibt. Weiß mehr als sie sagt.
 
 ### Edric Dahl — Bootsbauer-Geselle
+
+**Steckbrief:** Dreißig. Breit, nicht groß. Graue, ruhige Augen. Breite Handflächen, kurze Finger, Hornhaut an den Kuppen. Schnitte alt und frisch an den Knöcheln, Holzstaub unter den Nägeln. Arbeitsjacke mit Sägemehl an den Ärmeln, Hemd einmal weiß gewesen. Abgetragene, saubere Stiefel. Bewegt sich leise, kennt jeden Gegenstand in der Werft blind. Riecht nach Holzspänen und Leinöl.
+
 Haron Dahls Lehrling. Dreißig, ruhige Hände. Echter Vaeler — kein Agent, kein Moragh-Mensch. Arbeitet an der Werft weiter, obwohl Haron tot ist. Zeigt Maren die Werft, erklärt das Boot. Weiß, dass Haron nachts in den Botanischen Garten ging. "Hat nie gesagt warum." Weiß nicht, dass Haron aus einer anderen Welt kam. Hat ihn als seltsam empfunden — Harons Akzent, der nie ganz verschwand. Seine Hände, feiner als die eines Bootsbauers. Aber Edric fragt nicht. Edric arbeitet.
 
 ### Doktor Halvard — Stadtarzt
+
+**Steckbrief:** Anfang 50. Groß, hager, aufrecht. Graues Haar, kurz geschnitten, lichter werdend an den Schläfen. Schmales Gesicht, tiefe Falten zwischen den Brauen — Rationalisten-Stirn. Brille mit dünnem Metallgestell. Saubere Hände, gepflegte Nägel — Arzthände. Kleidung ordentlich, dunkel, Weste über dem Hemd. Riecht nach Karbol und Seife. Stimme ruhig, sachlich, glaubt nur was er messen kann — bis er es nicht mehr kann.
+
 Behandelt die Fischer die vom Wasser krank werden. Seit dem Nebel häufiger. Rationalist — alles hat eine Erklärung. Bis es keine mehr hat. Vesper trinkt mit ihm. Halvard behandelt Verbrennungen die keine Hitzequelle haben, Frostbeulen im Sommer, Knochenbrüche ohne Sturz.
 
 ### Talven — Gilden-Lehrling (Buch 2-3, Moragh)
@@ -686,6 +778,8 @@ Mit dem Portal-Durchgang und Sorels Tod ist die Verbindung gekappt. Konsequenz: 
 ---
 
 ## Elke van der Holt — vor 400 Jahren
+
+**Steckbrief:** Ende 30 (körperlich — in Moragh ist sie erst ein Jahr älter geworden). Kräftig, breite Schultern — Bildhauerin, schwingt Meißel und Hammer seit der Kindheit. Mittelgroß. Kurzes, dunkelblondes Haar, pragmatisch geschnitten, Steinstaub darin. Helle Augen, wettergegerbt, tiefe Lachfalten. Starke Hände — breit, rissig, Schwielen an den Handballen. Erdige Fingernägel, immer. Kleidung funktional, Lederschürze über Leinenhemd. Riecht nach Steinstaub, Erde und etwas Pflanzlichem aus ihrem Garten. Stimme warm, direkt, spricht ein Thalassisch das 400 Jahre alt klingt.
 
 Bildhauerin. Aus dem Süden, Binnenmeerküste. Tochter eines Steinmetzmeisters, Gesellin, reist allein. Kam nach Vael als das Portal das letzte Mal offen war — vor 400 Thalassien-Jahren, vor Wochen/Monaten in Moragh-Zeit. Kam wegen des Purpursteins — ein Gestein das es nirgendwo sonst gibt.
 

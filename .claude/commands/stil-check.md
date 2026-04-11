@@ -37,6 +37,9 @@ Zähle mit Grep/Bash — keine Schätzungen:
 | "als hätte/wäre/könnte..." Hypothetische Konstruktionen | ~6 | Dichte-Warnung |
 | Sätze über figurenspezifischem Limit | Alphina >40W, Sorel >50W, Vesper >20W, Maren >35W | Überlängen markieren |
 | Sätze >60 Wörter | Meldung | Bandwurm-Kandidaten markieren (alle Figuren) |
+| Satzlängen-Verteilung: KURZ (1-10W), MITTEL (11-20W), LANG (21+W) | MITTEL >20% | FINDING wenn MITTEL <15% (Register-Monotonie) |
+| Begehren-Wort-Wiederholung ("Puls", "Handgelenk", "kippte", "unter dem Nabel") | 3x pro Wort | FINDING wenn >3x dasselbe Begehren-Wort |
+| Geschmack in Nähe-Szenen ("schmeckte", "Geschmack", "Zunge", "Lippen", "salzig", "bitter", "süß", "Metall auf") | min. 1 in Nähe-Szene | FINDING wenn Nähe-Szene ohne Geschmacks-Referenz |
 
 ## Phase 2: Rhythmus-Analyse
 
@@ -159,6 +162,34 @@ Gehe das Kapitel Absatz für Absatz durch:
 - Wenn die Reflexion bei sich selbst bleibt → Finding (Füllmaterial)
 - Mehr als 2 Absätze reine Innensicht ohne Außenhandlung → Finding
 
+**8. Metapher-Ökonomie (siehe Stilregeln v2 "Metapher-Ökonomie"):**
+- Nach einem starken Bild/Vergleich/Metapher: prüfe ob der Folgesatz dasselbe Konzept in anderen Worten wiederholt
+- Semantische Doppelung = FINDING
+- Beispiel-Finding: *"Ein Nagel, der stand. Ein Nagel, der noch nicht eingetrieben war."* → zweiter Satz killt den ersten
+- Manueller Check — aufmerksam Absatz für Absatz lesen, besonders nach lyrischen Passagen
+
+**9. Register-Verteilung (siehe Stilregeln v2 "Register-Wechsel"):**
+- Satzlängen-Histogramm aus Phase 1 auswerten
+- Melde im Bericht: Anteil KURZ / MITTEL / LANG
+- FINDING wenn MITTEL <15% (Register-Monotonie — zu viele lange Sätze, zu wenig Mittelbau)
+- FINDING wenn nur 1 Register verwendet wird (alle Sätze im selben Bucket)
+- Min. 2 Register pro Kapitel ist Pflicht
+
+**10. Kontrollverlust-Check (siehe Stilregeln v2 "Kontrollverlust-Momente"):**
+- Hinweis im Bericht: *"Enthält das Kapitel Kontrollverlust-Momente (Analyse stoppt, Körper übernimmt)? Council-Reviewer prüft."*
+- Automatisch prüfbar: Gibt es Szenen mit körperlicher Nähe? Wenn ja → Hinweis dass min. 1 Kontrollverlust-Moment erwartet wird
+- Nicht automatisch prüfbar: ob die Berufslinse im richtigen Moment versagt — das prüft der Council
+
+**11. Begehren-Vokabular (siehe Stilregeln v2 "Begehren-Vokabular"):**
+- Grep nach häufigen Begehren-Markern: "Puls", "Handgelenk", "kippte", "unter dem Nabel", "warme Hände"
+- FINDING wenn >3x dasselbe Begehren-Wort im Kapitel
+- Prüfe ob das Begehren-Register zum POV passt (Alphina = Invasion/Wachstum, Sorel = Licht/Bild, Vesper = Takt/Mechanik, Maren = Strömung/Drift)
+
+**12. Geschmack in Nähe-Szenen (siehe Stilregeln v2 "Geschmack als Pflicht-Sinn"):**
+- Identifiziere Szenen mit körperlicher Nähe/Berührung
+- Grep nach Geschmacks-Wörtern: "schmeckte", "Geschmack", "Zunge", "Lippen", "salzig", "bitter", "süß", "Metall auf", "Salz"
+- FINDING wenn Nähe-Szene ohne Geschmacks-Referenz
+
 ## Phase 3.5: Cross-POV und Aftermath
 
 **1. Cross-POV-Vokabular:**
@@ -192,6 +223,9 @@ POV: [Figur] | Perspektive: [Ich/3.P] | Wörter: [N]
 | "und"-Ketten (>3 pro Satz) | N | — | Meldung |
 | Wort-Häufungen (>7x) | [Wort]: Nx | 7 | OK/ÜBER |
 | Bandwurm-Sätze (>60W) | N | — | Meldung |
+| Satzlängen: KURZ/MITTEL/LANG | N%/N%/N% | MITTEL >20% | OK/UNTER |
+| Begehren-Wort-Wiederholung | [Wort]: Nx | 3 | OK/ÜBER |
+| Geschmack in Nähe-Szenen | ja/nein | min. 1 | OK/FEHLT |
 
 ### Findings
 

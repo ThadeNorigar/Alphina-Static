@@ -258,6 +258,103 @@ Lange Reflexion → Stakkato. Frage → Stille. Bandwurm → harter Kurzsatz. De
 | Berufslinsen-Bruch (z.B. Alphina nennt Tonwerte) | **0** |
 | Direkte Emotionsbenennung im Innenleben (`sie war traurig`) | **0** |
 
+## Register-Wechsel (Council April 2026)
+
+Drei Register, definiert über Satzlänge:
+
+| Register | Satzlänge | Einsatz | Wirkung |
+|----------|-----------|---------|---------|
+| LANGSAM | 30-50W | Sinnliche Passagen, lyrische Beschreibung, Reflexion | Immersion, Textur, Nähe |
+| NORMAL | 10-20W | Handlung, Dialog-Umgebung, Mittelbau | Tempo, Klarheit, Fluss |
+| SCHNELL | 3-10W | Kontrollverlust, Schock, Hammerschlag | Aufprall, Bruch, Atem |
+
+**NORMAL ist der häufigste Modus.** Nicht der langsame. Ein Kapitel das überwiegend aus 30-50W-Sätzen besteht, erstickt die Leserin. Der Mittelbau trägt die Geschichte — die langen und kurzen Sätze sind Akzente.
+
+**Pflicht:** Min. 2 Register pro Kapitel (messbar über Satzlängen-Verteilung). Ein Kapitel das nur in LANGSAM geschrieben ist, hat keinen Rhythmus.
+
+**Der /stil-check prüft:**
+- Anteil Mittelbau-Sätze (10-20W) muss >20% sein
+- Wenn <15%: FINDING (Register-Monotonie)
+- Satzlängen-Histogramm als Diagnose-Tool im Bericht
+
+## Kontrollverlust-Momente (Council April 2026)
+
+In jeder Szene mit körperlicher Nähe oder emotionalem Durchbruch: min. **1 Moment wo die Figur NICHT MEHR ANALYSIERT.**
+
+**Zeichen für Kontrollverlust:**
+- Gedanke bricht ab (Satz endet nicht, Dash, Fragment)
+- Zwei Sätze die sich widersprechen (sie wollte weg. Sie blieb.)
+- Wechsel von LANGSAM zu SCHNELL ohne Übergang — der Rhythmus kippt wie die Figur
+- Die Berufslinse VERSAGT: Alphina sieht keine Farne, nur Hände. Sorel vergisst Belichtung, sieht nur Haut. Vesper zählt nicht mehr.
+
+**Der /stil-check kann das nicht automatisch prüfen** — aber der Council-Reviewer prüft es explizit.
+
+**Max 1-2 pro Kapitel.** Nicht inflationär. Kontrollverlust der jede zweite Seite passiert, ist kein Kontrollverlust.
+
+## Begehren-Vokabular (Council April 2026)
+
+**PROBLEM:** "Puls unter dem Nabel", "warme Handgelenke", "etwas kippt" — zu schmal für 4 POVs über 900 Seiten. Wenn alle vier Figuren dasselbe Vokabular für Begehren verwenden, verschwimmen die Stimmen.
+
+Jeder POV braucht ein **eigenes Begehren-Register** (analog zum POV-Vokabular):
+
+| POV | Bildfeld | Beispiele |
+|-----|----------|-----------|
+| Alphina | Invasion, Wachstum, unkontrolliert | Wurzeln die sich ausbreiten, etwas das keimt wo es nicht soll, Erde die nachgibt |
+| Sorel | Bild, Licht, visuell und still | Überbelichtung, ein Negativ das sich nicht fixieren lässt, Blende die sich öffnet |
+| Vesper | Takt, Rhythmus, Kontrolle als Erotik | Hemmung die greift, Unruh die schlägt, ein Mechanismus der läuft |
+| Maren | Strömung, Stillwerden, Surrender | Kielwasser, Drift, das Holz gibt nach, Strömung die trägt |
+
+**Der /stil-check flaggt:** >3x dasselbe Begehren-Wort in einem Kapitel = FINDING. Das zwingt zur Variation.
+
+## Geschmack als Pflicht-Sinn (Council April 2026)
+
+In Szenen mit körperlicher Nähe: Geschmack **MUSS** vorkommen.
+
+Haut schmeckt. Schweiß schmeckt. Salz auf Lippen. Metall auf der Zunge. Wein im Atem. Das sind die Details die eine Szene körperlich machen statt nur visuell.
+
+Auch außerhalb von Erotik: Tee, Bier, Seeluft auf den Lippen, Kalkstein-Staub zwischen den Zähnen, Blut im Mund nach einem Sturz.
+
+**Der /stil-check flaggt:** Nähe-Szene ohne Geschmacks-Referenz = FINDING.
+
+## Metapher-Ökonomie (Council April 2026)
+
+Ein starkes Bild steht allein. **KEIN erklärender Nachsatz.**
+
+**Schlecht:**
+> Ein Nagel, der stand. Ein Nagel, der noch nicht eingetrieben war.
+
+Der zweite Satz killt den ersten. Er erklärt was die Leserin schon verstanden hat. Das Bild verliert seine Wucht.
+
+**Gut:**
+> Ein Nagel, der stand.
+
+Die Leserin versteht. Der Satz arbeitet allein.
+
+**HARTES VERBOT:** Nach einem Bild/Vergleich/Metapher darf der nächste Satz NICHT dasselbe Konzept in anderen Worten wiederholen. Das ist semantische Doppelung — der häufigste Stilfehler in lyrischer Prosa.
+
+**Der /stil-check prüft:** Semantische Doppelung nach Bildsprache = FINDING.
+
+## Default-Deny-Prinzip (Council April 2026)
+
+Stilmittel sind **DEFAULT VERBOTEN** bis sie bewusst freigegeben werden. Die folgende Tabelle ist die Referenz für alle Prüfungen:
+
+| Stilmittel | Default | Erlaubt wenn |
+|---|---|---|
+| Stakkato (Fragmentsätze <4W ohne Verb) | VERBOTEN | Schock, Inventur, Hammerschlag. Max 2-3 Passagen/Kap |
+| Erklärende Nachsätze | VERBOTEN | Gedankengang = Erkenntnis für die Figur |
+| Metapher + Erklärung | VERBOTEN | NIE |
+| Emotionen benennen | VERBOTEN | NIE |
+| Analyse in Kontrollverlust | VERBOTEN | Die Figur darf nicht denken wenn der Körper übernimmt |
+| Tempo-Monotonie (1 Register) | VERBOTEN | Min. 2 Register pro Kapitel |
+| Begehren nur via Puls/Handgelenke | VERBOTEN | Breiteres POV-Register verwenden |
+| Geschmack fehlt in Nähe-Szene | VERBOTEN | NIE in Nähe-Szenen |
+| "sie dachte" / "er fragte sich" | VERBOTEN | NIE |
+| Adverb-Tags | VERBOTEN | NIE |
+| Kursive Gedanken >6 pro Kapitel | VERBOTEN | 5-6 ist das Limit |
+| "wie etwas das..." Vergleiche >4 | VERBOTEN | 4 ist das Limit |
+
+**Prinzip:** Wenn ein Stilmittel nicht in der "Erlaubt wenn"-Spalte eine explizite Ausnahme hat, ist es verboten. Im Zweifel: nicht verwenden.
+
 ## Quellen (Recherche April 2026)
 
 - McKee, Robert — *Dialogue: The Art of Verbal Action* (2016)
