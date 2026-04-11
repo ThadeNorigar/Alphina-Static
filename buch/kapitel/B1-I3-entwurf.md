@@ -27,7 +27,7 @@
 **Exposition:** Die Schemen werden häufiger. Nicht das Pulsieren der Quelle — das ist gleichmäßig wie immer. Die Angriffe.
 
 **Beats:**
-1. Drei Wochen zurück: Lene hat einen Schem in der Werft gesehen, der an Harons Boot weiterarbeitete. Zwei Wochen zurück: Keldan hat am Hafen sieben gezählt, mehr als je zuvor an einem Abend. Letzte Woche: der Schem der Elke am Klippenrand verfolgte, keine Tier-Form mehr — aufrecht, schmal, gezielt. Die Qualität der Bedrohung hat sich verändert.
+1. Drei Wochen zurück: Lene hat einen Schemen in der Werft gesehen, der an Harons Boot weiterarbeitete. Zwei Wochen zurück: Keldan hat am Hafen sieben gezählt, mehr als je zuvor an einem Abend. Letzte Woche: der Schemen der Elke am Klippenrand verfolgte, keine Tier-Form mehr — aufrecht, schmal, gezielt. Die Qualität der Bedrohung hat sich verändert.
 2. Die vier haben in den letzten Wochen am Steinkreis experimentiert — nicht weil die Quelle sie ruft (die pulsiert neutral, gleichmäßig, egal), sondern weil der Steinkreis der Ort ist, an dem ihre Resonanzen am stärksten interagieren. Elke hat beobachtet, dass sich die Luft über dem Kreis anders anfühlt wenn alle vier gleichzeitig die Hände auflegen. Nicht wärmer — anders. Als würde der Raum selbst nachgeben.
 3. Kaspar klopft. Zwei Knöchel, kurz. Elke kennt das Klopfen. Er ist Maler, 34 Jahre, vor drei Wochen angekommen — der vierte. Die Hände dauerfleckig mit Pigmenten die nie ganz rausgehen. Sein letztes Bild: ein Hafen, Nacht, Hohlräume im Schatten, Augen. Er hat es dreimal abgekratzt. Es erschien wieder, dunkler.
 4. Kein Gespräch über morgen. Beide wissen, dass die Schemen stärker werden. Beide wissen, dass die Experimente am Steinkreis irgendetwas ergeben haben — sie wissen nur nicht was. Kein Plan. Keine Anleitung. Nur: die Dinge kommen von irgendwo, und man müsste irgendwo hinkommen können.
@@ -63,11 +63,11 @@
 2. Die vier im Garten. Keldan tritt vor — hält einen Eisenarm als Schild. Lene und Kaspar und Elke am Steinkreis: kein Ritual, keine Vorbereitung. Nur: JETZT, alle gleichzeitig, wie letzte Woche. Fester. Die Luft über dem Kreis fängt an zu flimmern.
 3. **Keldans Tod:** Einer der Schemen dreht sich nach ihm. Das Eisen schmilzt. Keldan fällt. Steht nicht auf.
 4. Das Flimmern bricht kurz ab ohne Keldan — Lene und Kaspar und Elke drücken weiter. Das Flimmern kommt zurück, instabiler, zuckend. Dann: ein Riss. Nicht sauber — eine Wunde in der Luft des Gartens. Dahinter: anderes Licht. Zwei Monde. Für Sekunden. Dann schließt er sich wieder.
-5. Die Schemen drehen sich Richtung Portal-Rest. Lene bricht weg — kein Verrat, sie versucht einen Schem vom Steinkreis wegzudrängen, wird dabei zu Boden geworfen. Ihr Knie. Sie kann noch drücken, kaum.
+5. Die Schemen drehen sich Richtung Portal-Rest. Lene bricht weg — kein Verrat, sie versucht einen Schemen vom Steinkreis wegzudrängen, wird dabei zu Boden geworfen. Ihr Knie. Sie kann noch drücken, kaum.
 6. Elke und Kaspar: der Riss öffnet sich wieder, für Sekunden. Weiter als vorher. Instabil — zuckt, atmet, als würde er sich selbst wieder schließen wollen. Elke sieht hindurch. Dort ist die Quelle. Was auch immer Schemen schickt, es ist dort.
 7. Kaspar sagt: "Ich komme mit." Elke: kein Wort. Sie greifen gleichzeitig in den Riss.
 8. **Kaspars Tod im Übergang:** Der Riss schließt sich WÄHREND sie durchgehen. Instabil — er hält einen Atemzug zu kurz. Elke kommt durch. Kaspar nicht. Was von ihm ankommt, ist nicht mehr Kaspar.
-9. Lene am Steinkreis, verletzt, allein. Der letzte Schem steht vor dem nichts. Dreht sich. Geht in die Stadt.
+9. Lene am Steinkreis, verletzt, allein. Der letzte Schemen steht vor dem nichts. Dreht sich. Geht in die Stadt.
 
 **Dialog-Informationen:**
 - Keldan: nichts — er tritt vor, das ist alles
@@ -78,7 +78,7 @@
 **Tschechow-Waffen geladen:**
 - Elke kann nicht zurück (Keldan tot, Kaspar tot, braucht alle vier für Thalassien-Seite)
 - Lene allein, verletzt → schreibt das Manuskript; Kaspars Bild darin
-- Letzter Schem wütet ohne Bindungs-Kontrolle durch die Stadt (Varen kappt es erst als er Elke sieht, Verzögerung durch Portal-Dämpfung)
+- Letzter Schemen wütet ohne Bindungs-Kontrolle durch die Stadt (Varen kappt es erst als er Elke sieht, Verzögerung durch Portal-Dämpfung)
 - Instabiler Riss als Vorläufer des kontrollierten Portals in Buch 1 — die Vier in 551 TZ machen es besser, weil Vesper die Zeitkomponente versteht
 - Kaspars Ende IM Übergang → neue Art von Tod, die Elke nie verarbeiten kann (kein Leichnam, keine Stelle, kein Grab)
 
@@ -98,7 +98,7 @@
 **Beats:**
 1. Zwei Monde. Anderes Licht. Schwarzer Basalt, warm, glatt. Kein Nebel. Luft riecht nach Stein und Kupfer. Elke liegt auf dem Boden. Sie dreht sich um — hinter ihr: nichts. Der Riss ist zu. Kaspar ist nicht da.
 2. ~100 Schritt entfernt: ein Mann zwischen Geräten die sie nicht einordnen kann. Er schaut auf. Sein Gesicht macht etwas das Elke noch nie bei einem erwachsenen Menschen gesehen hat: erschrecken — einfrieren — und dann, langsam, etwas das aussieht wie Begreifen. Als würde er zum ersten Mal verstehen was er getan hat.
-3. Er greift zu einem der Geräte. Ein Leuchten erlischt. Das Brennen das Elke noch gespürt hat — Reste der Schemen-Verbindung durch den Riss — lässt nach. (In Vael: der letzte Schem dreht sich, läuft ohne Richtung. Minuten später löst er sich auf.)
+3. Er greift zu einem der Geräte. Ein Leuchten erlischt. Das Brennen das Elke noch gespürt hat — Reste der Schemen-Verbindung durch den Riss — lässt nach. (In Vael: der letzte Schemen dreht sich, läuft ohne Richtung. Minuten später löst er sich auf.)
 4. Stille. Der Mann sagt etwas in einer Sprache die wie ihre eigene klingt, verdreht, falsch. Dann auf Thalassisch, Akzent den sie nicht einordnen kann: "Das war nicht — ich wusste nicht dass dort —" Er bricht ab.
 5. Elke versteht: Dieser Mann hat die Dinge geschickt. Er wusste nicht was auf der anderen Seite ist. Er hat experimentiert und Keldan und Kaspar getötet ohne zu wissen, dass da Menschen sind. Das ist das falscheste was sie je gehört hat — schlimmer als Absicht.
 6. Sie steht auf. Fragt: "Wie heißt Ihr?"
@@ -124,7 +124,7 @@
 ## Nachbild (Notiz für Ausarbeitung)
 
 Wird aus Elkes Perspektive nicht gezeigt — sie ist in Moragh, sieht nichts. Aber der Leser weiß:
-- Letzter Schem wütet einige Minuten in der Stadt, dann löst er sich auf (Bindung gekappt, Verzögerung durch Portal-Dämpfung)
+- Letzter Schemen wütet einige Minuten in der Stadt, dann löst er sich auf (Bindung gekappt, Verzögerung durch Portal-Dämpfung)
 - Teile der Unterstadt brennen — Hafen, ein Block nahe dem Garten
 - Lene überlebt verletzt. Schreibt das Manuskript. Kaspars Bild (das er ihr gegeben hat) kommt rein.
 - Keine neuen Schemen danach. Keine neuen Phänomene. Der Spuk ist erstmal vorbei.
