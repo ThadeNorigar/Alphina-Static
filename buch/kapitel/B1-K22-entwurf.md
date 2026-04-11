@@ -24,7 +24,7 @@ Die Pflanze bleibt im Treppenhaus. Keiner reißt sie raus. Keiner sagt, dass man
 - Maren erfährt: Alphina reagiert mit Faszination, nicht mit Schrecken. Das irritiert Maren mehr als die Pflanze selbst.
 - Alphina erfährt: Die Pflanze wächst aus einer Fuge, kein Topf, kein menschliches Zutun — der Riss sickert durch ungerufen
 - Marens Erkenntnis am Ende: Alphinas Unwissenheit ist das Signal. Nicht die Pflanze. Die Botanikerin weiß nichts davon.
-- Alphinas Erkenntnis (kurz, kein eigener POV): Dies ist nicht wie die Farne im Lichthaus-Keller. Das war ihre Magie. Das hier ist etwas anderes.
+- Alphinas Reaktion (Maren beobachtet, kein innerer Zugang): Faszination statt Schrecken — Alphina kniet, riecht, macht eine Notiz. Keine Erklärung. Maren sieht nur die Körperhaltung, nicht den Gedanken dahinter.
 
 **Tschechow-Waffen geladen:**
 - Die namenlose Pflanze (Moragh-Flora in Thalassien, unkontrolliert; feuert als Eskalationsmuster in Akt III)
@@ -50,7 +50,7 @@ Das Wasser ist warm. Nicht frühsommerlich-kalt-werdend-warm. Körperwarm. Wie B
 
 Auf der Werft: Tohl ist schon da. Sie fragt ihn beiläufig, ohne Nachdruck. Er sagt, das sei seit gestern so. Oder vorgestern. "Fischfang ist besser." Er sagt es neutral, ohne Theorie. Das ist Tohls Art.
 
-Maren arbeitet am Boot. Heute macht sie Kleinigkeiten — Schmirgeln, Pech nachziehen, eine Kimm-Planke prüfen die sich leicht gewölbt hat. Handarbeit. Ihre Hände auf Holz. Während sie arbeitet, denkt sie: Pflanze die nicht hierher gehört. Wasser das zu warm ist. Schemen die aus dem Riss kommen. Keins davon auf Varens Befehl — das ist das Neue. Soweit sie weiß, hat Varen keinen Grund die Anomalien in der Grauwe zu erklären. Das bedeutet: sie passieren von selbst.
+Maren arbeitet am Boot. Heute macht sie Kleinigkeiten — Schmirgeln, Pech nachziehen, eine Kimm-Planke prüfen die sich leicht gewölbt hat. Handarbeit. Ihre Hände auf Holz. Während sie arbeitet, denkt sie: Pflanze die nicht hierher gehört. Wasser das zu warm ist. Schemen die aus dem Riss kommen. Keins davon auf Befehl — das ist das Neue. Nichts deutet auf einen Auslöser. Das bedeutet: sie passieren von selbst.
 
 Kein Name für dieses Gefühl. Eine Holzplanke gibt nach wenn der Druck zu groß wird, oder sie hält. Es gibt keinen mittleren Zustand. Maren hat das Gefühl, dass etwas gerade anfängt nachzugeben.
 
