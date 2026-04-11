@@ -36,7 +36,7 @@ Runa kam den Hauptweg hoch, das Notizbuch unter dem Arm, die Haare noch nicht ga
 
 Alphina legte die Schere in die Erde und ging zu ihr. Sie setzte sich neben Runa auf die Bank, dort wo die zweite abgewetzte Stelle war, und wartete.
 
-"Zwanzig Berichte seit dem letzten Flugblatt." Runa fuhr mit dem Finger über die Einträge und las vor, ohne die Stimme zu heben. "Fischer der Grauwe, erstes Dock, nachts: drei Tiere auf den Pollern, durchscheinend, kaum da, sind verschwunden als er die Lampe hob. Wäscherin aus der Flechtergasse — Lena Brack, die mit dem Frostbrand — hat diesmal zwei Gestalten vor ihrem Schlafzimmerfenster gesehen, im dritten Stock, wo kein Sims ist. Drei Kinder im Hafenviertel haben auf dem Heimweg von der Schule ein Tier beschrieben, das sich von einer Hauswand gelöst hat, flach zuerst, dann dreidimensional. Vesper Greve —" Runa hielt kurz, schaute auf, als wollte sie prüfen ob der Name bei Alphina landete, "— die Tidemoor-Magd hat Frau Kvist erzählt, er hätte die Standuhr im Salon repariert. Nur durch Handauflegen. Seitdem läuft sie im Takt."
+"Zwanzig Berichte seit dem letzten Flugblatt." Runa fuhr mit dem Finger über die Einträge und las vor, ohne die Stimme zu heben. "Fischer der Grauwe, erstes Dock, nachts: drei Tiere auf den Pollern, durchscheinend, kaum da, sind verschwunden als er die Lampe hob. Wäscherin aus der Flechtergasse — Lena Brack, die mit dem Frostbrand — hat diesmal zwei Gestalten vor ihrem Schlafzimmerfenster gesehen, im dritten Stock, wo kein Sims ist. Drei Kinder im Hafenviertel haben auf dem Heimweg von der Schule ein Tier beschrieben, das sich von einer Hauswand gelöst hat, flach zuerst, dann dreidimensional. Vesper Greve —" Runa hielt kurz, schaute auf, als wollte sie prüfen ob der Name bei Alphina landete, "— die Tidemoor-Magd hat erzählt, er hätte die Standuhr im Salon repariert. Nur durch Handauflegen. Seitdem läuft sie im Takt."
 
 Alphina kannte den Namen. Vesper Greve — Stockwerknachbar im Anker, der Uhrmacher aus Karst, mit dem sie am Steinkreis die Schläge gemessen und seine Ringradien auf Karten übertragen hatte. Die Geschichte der Tidemoor-Uhr kannte sie. Vesper hatte sie ihr selbst erzählt, an dem Abend im Flur — die Hand auf dem Gehäuse, der Takt der blieb, die Magd die zugesehen hatte. Was sie nicht gewusst hatte: dass es bis zu Runa gelangt war.
 
@@ -50,7 +50,7 @@ Sie zeigte auf den Garten-Boden. Ihre Hand zitterte nicht, aber sie zog sie schn
 
 Alphina sagte nichts. Ihre Hand lag auf der Bank, neben dem Notizbuch, und das Holz unter der Handfläche wurde wärmer, weil ihr Körper wärmer wurde, nicht viel, nicht so dass Runa es hätte bemerken können. Sie schaute auf den Boden. Der Boden war Erde, feucht, dunkel, mit dem Geruch den sie kannte und der süß war und nicht faulte.
 
-Henrik kam mit dem Gießkrug zurück und begann die Stecklinge zu wässern. Er nickte Runa zu, die er kannte, weil sie einmal im Monat vorbeikam und nach den Fuchsien fragte, die am Gartentor wuchsen. Das Gespräch verlor sich im Alltag — Runa fragte nach den Farnen, Alphina gab kurze Antworten, Henrik kommentierte das Wetter und die Feuchtigkeit und den Mehltau an den Rosen, der in diesem Mai hartnäckiger war als im letzten. Die Sätze waren Oberfläche, und darunter lag Runas Karte, und darunter lag der Kreis, und darunter der Boden.
+Henrik kam mit dem Gießkrug zurück und begann die Stecklinge zu wässern. Er nickte Runa zu, die er kannte, weil sie einmal im Monat vorbeikam und nach den Fuchsien fragte, die am Gartentor wuchsen. Das Gespräch verlor sich im Alltag — Runa fragte nach den Farnen, Alphina gab kurze Antworten, Henrik kommentierte das Wetter und die Feuchtigkeit und den Mehltau an den Rosen, der in diesem Mai hartnäckiger war als im letzten. Die Sätze waren Oberfläche. Darunter lag Runas Karte. Darunter der Kreis. Darunter der Boden.
 
 Runa blieb noch eine halbe Stunde. Sie redeten über das dritte Flugblatt, das Runa setzen wollte. Über Papier und Preise. Über die Wäscherin Lena Brack, die seit dem Frostbrand nicht mehr schlief. Runa faltete das Notizbuch zu, schob es unter den Arm, stand auf, strich den Mantel glatt. Alphina blieb auf der Bank sitzen.
 
@@ -64,7 +64,7 @@ Nicht nah. Dort wo die Hortensienreihe in den Nebel auslief, dreißig Schritte e
 
 Sie waren tagsüber da, am fünften Nebeltag in Folge.
 
-Die Gestalt drehte den Kopf auf sie. Langsam, mit einer Trägheit die nicht Müdigkeit war, und blieb. Er wartete nicht auf den Garten. Er wartete auf sie. Und Runa hatte den Mittelpunkt auf den Boden gezeigt, aber der Mittelpunkt war nicht der Boden.
+Die Gestalt drehte den Kopf auf sie. Langsam, mit einer Trägheit die nicht Müdigkeit war, und blieb. Das Warten galt nicht dem Garten. Es galt ihr. Runa hatte den Mittelpunkt auf den Boden gezeigt, aber der Mittelpunkt war nicht der Boden.
 
 Sie stand auf. Das steife rechte Knie meldete sich kurz. Sie nahm die Schere und ging zurück zu den Lavendelbüschen, weil Arbeit das war, was sie kannte, und weil Hände in der Erde das Geländer waren, das sie brauchte.
 
@@ -78,7 +78,7 @@ Sorel war am Steg.
 
 Sie sah ihn bevor er sie sah — oder bevor er so tat als ob. Er stand am dritten Steg-Abschnitt, Stativ, die Kamera auf die Grauwe gerichtet. Seinen Rücken kannte sie jetzt. Schultern leicht nach vorne gezogen, der Kopf ein Stück geneigt, die linke Hand am Stativbein — ohne Verband, die Haut am Handrücken glatt und verheilt, die Brandwunde in drei Tagen verschwunden. Die rechte an der Kamera, festhaltend, obwohl die Kamera fest stand. Vor dem Auslösen hielt er den Atem an, die Schultern wurden starr, eine halbe Sekunde Stille in der ganzen Gestalt. Dann das Klicken, kurz, mechanisch, über das Wasser tragend.
 
-In der Hafengasse hatte sie diesen Rücken zum ersten Mal bewusst gelesen. Er war neben ihr gegangen, hatte über die Schemen gesprochen, und sie hatte ihm die Frage gestellt, die er nicht beantwortet hatte. *Sie sehen mich an, als ob Sie mich schon länger kennen als drei Tage.* Sein Ausweichen war keine Verlegenheit gewesen. Eine verschlossene Tür, und sie kannte verschlossene Türen.
+In der Hafengasse hatte sie diesen Rücken zum ersten Mal bewusst gelesen. Er war neben ihr gegangen, hatte über die Gestalten gesprochen, und sie hatte ihm die Frage gestellt, die er nicht beantwortet hatte. *Sie sehen mich an, als ob Sie mich schon länger kennen als drei Tage.* Sein Ausweichen war keine Verlegenheit gewesen. Eine verschlossene Tür, und sie kannte verschlossene Türen.
 
 Sie blieb stehen. Zwanzig Schritte zwischen ihr und dem Steg. Der Nebel lag dünn über den Planken, und das Holz unter ihren Sohlen war feucht und roch nach Teer und nach dem Salz, das sich in die Ritzen fraß. Am Geländer neben ihr drehte sich ein Farn, langsam, seinen Wedel in ihre Richtung. Ein zweiter folgte. Sie sah es. Die Rhizome griffen ins Eisen, und die Blattspreiten bewegten sich mit einer Trägheit, die kein Wind war.
 
@@ -98,7 +98,7 @@ Die Grauwe hinter ihm war grau und reglos.
 
 Ihre Füße reagierten nicht sofort. Eine halbe Sekunde, in der ihr Körper etwas anderes wollte als ihr Kopf — die Wärme in den Handgelenken, die sie kannte und die sie jetzt hier nicht brauchen konnte. Dann griffen die Sohlen auf den Planken und sie drehte sich um.
 
-Nicht schnell. Nicht langsam. Sie drehte sich um und ging den Steg zurück, die feuchten Planken unter den Sohlen, den Nebel im Gesicht. Die Holzdielen gaben unter ihren Schritten nach, ein leises federndes Schwanken, das sie an den Steg in Velde erinnerte und das sie nicht an den Steg in Velde erinnern wollte. Ihre Schritte waren gleichmäßig, und sie hörte sich selbst gehen, und sie hörte, dass hinter ihr kein Schritt folgte. Kein Ruf. Kein Gruß der nachkam.
+Nicht schnell. Nicht langsam. Sie drehte sich um und ging den Steg zurück, die feuchten Planken unter den Sohlen, den Nebel im Gesicht. Die Holzdielen gaben unter ihren Schritten nach, ein leises federndes Schwanken, das sie an den Steg in Velde erinnerte. Das sie nicht an den Steg in Velde erinnern wollte. Ihre Schritte waren gleichmäßig. Sie hörte sich selbst gehen, hörte, dass hinter ihr kein Schritt folgte. Kein Ruf. Kein Gruß der nachkam.
 
 In ihren Fingerspitzen, als sie das Steggeländer streifte, lag ein Zug. Fein, kaum da, ein Nachlaufen in den Sehnen. Die Farne hinter ihr drehten sich ihr nach. Sie sah es nicht. Aber sie spürte es in den Handwurzeln, in den Sehnen, in dem schmalen Gewebe unter der Haut — ein Drehen, das ihrem Drehen folgte, ein Nachziehen, das sie kannte und das sie nicht gewollt hatte und das trotzdem kam, jedes Mal, an jedem Steg, an jedem Geländer.
 
@@ -134,7 +134,7 @@ Nicht reflexartig. Langsam. Der Kopf kippte zur Seite, schwer, träge, und blieb
 
 Alphinas Hände zitterten. Nicht vor Kälte. Die Kälte war im Brustkorb, dort wo die Tür saß, die sich selten öffnete, und sie war diesmal nicht zugeklappt, sie war aufgegangen, und was dahinter lag war kein Schrecken, es war ein Stillstehen, das keinen Namen hatte. Ihre Finger schlossen sich um den Mantelstoff, um etwas zu halten, weil Hände ein Geländer brauchten.
 
-Die Gestalt machte keine Bewegung auf sie zu. Keine Geste, die auf Aggression hinwies. Nur das Stehen, und das Warten, und die schwarzen Augen, die nicht blinzelten, und der geneigte Kopf, und der Rauch der von den Rändern aufstieg und sich im Nebel verlor. Alphinas Atem ging flach. Die Kälte im Brustkorb hatte sich in die Schultern gefressen, in den Nacken, in die Kopfhaut, und die Gasse war eng und still und roch nach dem süßen Geruch, der jetzt überall war.
+Die Gestalt machte keine Bewegung auf sie zu. Keine Geste, die auf Aggression hinwies. Nur das Stehen. Das Warten. Die schwarzen Augen, die nicht blinzelten, der geneigte Kopf, der Rauch der von den Rändern aufstieg. Alphinas Atem ging flach. Die Kälte im Brustkorb hatte sich in die Schultern gefressen, in den Nacken, in die Kopfhaut. Die Gasse war eng, still, gesättigt von dem süßen Geruch.
 
 Drei Atemzüge. Vier.
 
@@ -150,12 +150,12 @@ Im Anker war es still. Die Treppe knarrte unter ihren Schritten, und im Flur bra
 
 *Humanoid. Schwarze Augen. Hat den Kopf geneigt.*
 
-Sie legte den Stift ab. Die Kerze flackerte einmal, dann stand die Flamme still. Ihr Zimmer roch nach dem Wachs der Kerze und nach dem Holz der Dielen und nach dem Lavendel, der noch in ihren Ärmeln hing von der Morgenarbeit, vermischt mit Salz und Seepech und dem süßen Geruch, der keinen Namen hatte und der sich jeden Abend in ihren Mantel legte. Sie strich mit dem Daumen über die Zeile, die sie geschrieben hatte. Die Tinte war noch feucht.
+Sie legte den Stift ab. Die Kerze flackerte einmal, dann stand die Flamme still. Ihr Zimmer roch nach dem Wachs der Kerze, nach dem Holz der Dielen, nach dem Lavendel, der noch in ihren Ärmeln hing von der Morgenarbeit — vermischt mit Salz, Seepech, dem süßen Geruch, der keinen Namen hatte. Der sich jeden Abend in ihren Mantel legte. Sie strich mit dem Daumen über die Zeile, die sie geschrieben hatte. Die Tinte war noch feucht.
 
-*Hat den Kopf geneigt.* Drei Worte, und sie reichten nicht. Sie reichten nicht, weil die Geste, die sie beschrieben, kein Reflex gewesen war und kein Zucken und keine Tierregung, und die Sprache, die Alphina kannte, hatte keine Worte für das, was zwischen Reflex und Absicht lag. Aber es gab einen Unterschied, und sie kannte ihn, weil sie Pflanzen kannte. Eine Pflanze die sich dem Licht zudrehte, folgte einem Tropismus — blind, mechanisch, dem Reiz nach. Was in der Gasse gestanden hatte, hatte den Kopf nicht dem Reiz nach geneigt. Es hatte den Kopf geneigt und gewartet. Auf eine Antwort. Auf sie.
+*Hat den Kopf geneigt.* Drei Worte, und sie reichten nicht. Sie reichten nicht, weil die Geste, die sie beschrieben, kein Reflex gewesen war, kein Zucken, keine Tierregung — die Sprache, die Alphina kannte, hatte keine Worte für das, was zwischen Reflex und Absicht lag. Aber es gab einen Unterschied, und sie kannte ihn, weil sie Pflanzen kannte. Eine Pflanze die sich dem Licht zudrehte, folgte einem Tropismus — blind, mechanisch, dem Reiz nach. Was in der Gasse gestanden hatte, hatte den Kopf nicht dem Reiz nach geneigt. Es hatte den Kopf geneigt und gewartet. Auf eine Antwort. Auf sie.
 
 Das war kein Tier. Kein Fressverhalten, keine Flucht, keine Aggression. Kein Tropismus. Es hatte gewartet.
 
 Das hatte Absicht.
 
-Sie schloss das Notizbuch. Ihre Hände lagen flach auf dem Ledereinband, und die Wärme ihrer Handflächen ging in das Material und blieb dort, in allem was sie berührte. Die Kerze brannte gleichmäßig. Draußen, vor dem Fenster des Anker, lag Vael im Nebel, und der Nebel lag auf den Dächern und auf den Gassen und auf dem Wasser. Irgendwo in der Stadt standen die Wesen — die kleinen auf den Dächern, der große im Garten, das Humanoide in den Gassen — und warteten auf etwas, das sie nicht benennen konnte und das den Kopf nach ihr neigte.
+Sie schloss das Notizbuch. Ihre Hände lagen flach auf dem Ledereinband, und die Wärme ihrer Handflächen ging in das Material und blieb dort, in allem was sie berührte. Die Kerze brannte gleichmäßig. Draußen, vor dem Fenster des Anker, lag Vael im Nebel, der Nebel auf den Dächern, auf den Gassen, auf dem Wasser. Irgendwo in der Stadt standen die Wesen — die kleinen auf den Dächern, der große im Garten, das Humanoide in den Gassen — und warteten auf etwas, das sie nicht benennen konnte und das den Kopf nach ihr neigte.
