@@ -142,3 +142,13 @@
 **Tschechow-Beats geladen:** Schiffsuhr (Riss von Elf zur Sechs, wird in einer Woche abgeholt — Wiedersehen-Timer); Holzsplitter auf der Werkbank neben dem Zettel; Wirts-Klopfen (zwei Knöchel aufs Holz); Vespers Initiale "V." auf dem Abholzettel; Nagel-Metapher (gesetzt, nicht eingetrieben).
 **Tschechow-Beats abgefeuert:** Rückwärts fließende Grauwe (K04/K08) — Maren zählt und vergleicht, kleiner als vorher aber noch da; Harons Schiffsuhr (K04 Werkzeugschublade); Marens Körper will nicht gehen (K04/K08) — jetzt spezifisch auf Vesper gerichtet.
 **Status der Figur am Ende:** Maren steht am Boot, Hände auf der Planke. Ihr Körper weiß etwas über einen Mann, den ihr Kopf seit elf Minuten kennt. In einer Woche wird sie die Uhr holen. Das Warten wird nichts reduzieren.
+
+---
+
+## I3 — Elke
+**POV:** Elke van der Holt (Steinleserin) | **Ort:** Vael (Schlafkammer, Steinkreis/Botanischer Garten) → Moragh | **Timeline:** Frostmond 154, ~400 Jahre vor der Haupthandlung
+**Was passiert:** Erscheinungen häufen sich — Keldan zählt sieben in einer Nacht, eine Gestalt folgt Elke an der Klippe. Kaspar bringt sein letztes Bild zu Lene (Hafen, Augen in den Schatten) für das Manuskript. Zu viert am Steinkreis: Elke, Lene, Kaspar, Keldan. Das Flimmern beginnt. Eine Feuergestalt tritt aus einer Öffnung in der Luft. Keldan stellt sich mit seinem Eisenarm dazwischen — das Eisen schmolz in einem Atemzug. Keldan fällt. Der Riss öffnet sich instabil. Elke sieht durch den Riss den Moragh-Himmel: saugende Schwärze, umgeben von einem Lichtbogen (bläulich auf einer Seite, kupfern auf der anderen). Sie und Kaspar greifen gleichzeitig hinein — der Riss schließt sich einen Atemzug zu kurz. Elke kommt durch, Kaspar nicht. Lene bleibt allein zurück. Das Wesen geht in die Stadt. Das Große Feuer. Lene schreibt das Manuskript.
+**Was wird etabliert:** Der Riss kann geöffnet werden (vier Hände, Steinkreis); das Durchgehen ist tödlich riskant (Kaspar verschwindet); Moragh existiert als realer Ort mit fremdem Himmel; Elke ist in Moragh gestrandet; das Große Feuer als historisches Vaeler Ereignis.
+**Tschechow-Beats geladen:** Kaspars Bild (Hafen, Augen im Schatten — bei Lene); Lenes Manuskript; Elke auf fremdem Stein (Moragh); das Große Feuer als Chronik-Datum.
+**Tschechow-Beats abgefeuert:** Erscheinungen in Vael (passiv → aktiv, Feuer); Steinkreis als Portal-Mechanismus (vier Hände nötig).
+**Status der Figur am Ende:** Elke kniet auf warmem Stein in Moragh, allein. Lene sitzt auf einer Stufe am Marktplatz, Kaspars Bild in den Händen, und beginnt zu schreiben.
