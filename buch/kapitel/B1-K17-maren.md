@@ -50,7 +50,7 @@ Wieder in der Halle war die Luft größer. Die Schiebetür stand offen, die Sonn
 
 Sie ging zur kleinen Dose auf dem Regalbrett über der Werkbank, zählte das Geld ab, legte es auf das Tuch neben die eine Ecke, die er zurückgeklappt hatte. Vier Silbermünzen, zwei kleine Kupferstücke. Er nahm sie, prüfte die Prägungen mit einem Blick, steckte sie in die Brusttasche. Sah dann auf den Boden. Auf die Tür. Auf das Boot. Auf sie.
 
-Er hatte den Grund, warum er noch da war, nicht benannt. Sie hatte den Grund, warum sie nicht gefragt hatte, auch nicht benannt. Die Stille zwischen ihnen war weder leer noch schwer; sie stand da wie ein Gegenstand auf dem Tisch.
+Er hatte den Grund, warum er noch da war, nicht benannt. Sie hatte den Grund, warum sie nicht gefragt hatte, auch nicht benannt. Die Stille zwischen ihnen war weder leer noch schwer; sie lag zwischen Werkbank und Schuppenwand und verlangte nichts.
 
 Sie ging zum Wasserkessel auf der kleinen Esse in der Ecke, wo Edric morgens den Kaffee machte. Der Kessel war kalt. Sie goss den Inhalt nicht weg. Sie legte ein Stück Holzkohle in die Esse, blies einmal in die Glut, die von gestern noch warm war, und der Tag fand weiter.
 
@@ -62,7 +62,7 @@ Sie wischte sich noch einmal die Hände. Drehte sich zu ihm. Er stand, wie er im
 
 "Was haben Sie mit der Standuhr in Tidemoor gemacht?"
 
-Seine Hand auf dem Werkbankholz wurde still. Sie hatte nicht gewusst, dass eine Hand stiller werden konnte, als sie schon war; seine war es. Die Luft, die er einzog, war einen halben Atemzug länger als nötig. Die Schultern, die ihn bis hierher getragen hatten, senkten sich um eine Nuance — nicht das Nachlassen einer Anspannung, sondern das Lösen einer Spannung, die er seit Wochen gehalten hatte, ohne dass jemand es gewusst hätte.
+Seine Hand auf dem Werkbankholz wurde still. Sie hatte nicht gewusst, dass eine Hand stiller werden konnte, als sie schon war; seine war es. Die Luft, die er einzog, war einen halben Atemzug länger als nötig. Die Schultern, die ihn bis hierher getragen hatten, senkten sich um eine Nuance — das Lösen einer Spannung, die er seit Wochen gehalten hatte, ohne dass jemand es gewusst hätte.
 
 Er sah auf das Boot. Die offene Seite, die Spanten, die gestern eingebaute Planke. Dann auf sie.
 
@@ -86,7 +86,7 @@ Er sah kurz auf das Werkzeug auf der Bank, als prüfe er, ob etwas dazwischenlag
 
 "Der Besitzer des Tidemoor-Hauses hat mich geholt, weil die Uhr im Saal täglich vorging. Vier Minuten dreiunddreißig. Ich habe den Abstand gemessen, ohne sie zu berühren. Dann habe ich sie berührt. Die Drift war weg, solange meine Hand auf dem Gehäuse lag. Ich habe das sieben Tage wiederholt. Dieselbe Zahl, immer." Die Stimme hatte keinen Bruch. "Ich habe dem Besitzer gesagt, dass es am Raum liegt, nicht an der Uhr. Er hat mir geglaubt. Es liegt nicht am Raum."
 
-Sie hörte, wie er die Sache aus sich herauslegte, Satz für Satz, wie man ein Werkzeug aus einer Schublade nahm, von dem man nicht sicher war, ob es sich in ein anderes Licht trauen würde. Die Werkbank zwischen ihnen trug alles wie eine Bank im Gerichtssaal. Sie stand dazu und urteilte nicht.
+Sie hörte, wie er die Sache aus sich herauslegte, Satz für Satz, wie man ein Werkzeug aus einer Schublade nahm, von dem man nicht sicher war, ob es sich in ein anderes Licht trauen würde. Die Werkbank zwischen ihnen trug alles, was er hinlegte. Sie stand dazu und urteilte nicht.
 
 Sie nickte einmal. Fragte nicht weiter. Sagte ihm nicht, dass sie verstand, weil Sagen die Sache kleiner gemacht hätte. Sie hatte in dreißig Jahren am Wasser gelernt, wann ein Mensch auf einem Satz balancierte wie auf einer frischgelegten Planke — still bleiben, ihn gehen lassen, nicht stoßen.
 
@@ -196,7 +196,7 @@ In der Kajüte tickte die Uhr.
 
 Sie hörte es erst, als sie an der Leiter stand — ein kleiner, warmer Schlag, der den Schuppen in eine Zeit setzte, die er vor heute morgen nicht gehabt hatte. Sie kletterte nicht hoch. Sie stand unten, die Hand am Holz der Leiter, und hörte eine Minute dem Ticken zu.
 
-Dann ging sie in den *Anker*, den Umweg über die Unterstadt, die Gassen voll mit der abendlichen Wärme, der Purpurstein warm unter ihrer Handfläche, als sie einmal, kurz, mit der Hand eine Wand berührte. Der Stein nahm nichts von ihr und gab nichts zurück. Das war gut so.
+Dann ging sie in den *Anker*, den Umweg über die Unterstadt, die Gassen voll mit der abendlichen Wärme, der Purpurstein warm unter ihrer Handfläche, als sie einmal, kurz, mit der Hand eine Wand berührte. Der Stein nahm nichts von ihr und gab nichts zurück.
 
 Auf dem Marktplatz brannte schon eine Gaslampe, früh, die erste des Abends. Unter der Lampe standen zwei Männer, die Schirme auf dem Rücken, und redeten halblaut über etwas, das sie nicht interessierte. An der Ecke der Anker-Gasse hing das geschmiedete Anker-Zeichen schief, wie immer. Das Scharnier war trocken. Sie hätte es in einer Viertelstunde richten können, mit dem Öl aus der Werft. Sie richtete es nicht. Ihre Hände waren heute nicht für fremde Angeln.
 
