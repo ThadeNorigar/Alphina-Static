@@ -38,7 +38,25 @@ Alphina legte die Schere in die Erde und ging zu ihr. Sie setzte sich neben Runa
 
 "Zwanzig Berichte seit dem letzten Flugblatt." Runa fuhr mit dem Finger über die Einträge und las vor, ohne die Stimme zu heben. "Fischer der Grauwe, erstes Dock, nachts: drei Tiere auf den Pollern, durchscheinend, kaum da, sind verschwunden als er die Lampe hob. Wäscherin aus der Flechtergasse — Lena Brack, die mit dem Frostbrand — hat diesmal zwei Gestalten vor ihrem Schlafzimmerfenster gesehen, im dritten Stock, wo kein Sims ist. Drei Kinder im Hafenviertel haben auf dem Heimweg von der Schule ein Tier beschrieben, das sich von einer Hauswand gelöst hat, flach zuerst, dann dreidimensional. Vesper Greve —" Runa hielt kurz, schaute auf, als wollte sie prüfen ob der Name bei Alphina landete, "— die Tidemoor-Magd hat erzählt, er hätte die Standuhr im Salon repariert. Nur durch Handauflegen. Seitdem läuft sie im Takt."
 
-Alphina kannte den Namen. Vesper Greve — Stockwerknachbar im Anker, der Uhrmacher aus Karst, mit dem sie am Steinkreis die Schläge gemessen und seine Ringradien auf Karten übertragen hatte. Die Geschichte der Tidemoor-Uhr kannte sie. Vesper hatte sie ihr selbst erzählt, an dem Abend im Flur — die Hand auf dem Gehäuse, der Takt der blieb, die Magd die zugesehen hatte. Was sie nicht gewusst hatte: dass es bis zu Runa gelangt war.
+Alphina kannte den Namen. Vesper Greve — Stockwerknachbar im Anker, der Uhrmacher aus Karst. Die Geschichte der Tidemoor-Uhr kannte sie. Vesper hatte sie ihr selbst erzählt, an dem Abend im Flur, als sie an seiner Tür geklopft hatte.
+
+"Die Geschichte stimmt." Sie sagte es ohne die Stimme zu heben. "Ich war bei ihm. An dem Abend nachdem du mir seinen Namen gegeben hast."
+
+Runa schaute auf, die Finger noch im Notizbuch.
+
+"Du warst bei ihm."
+
+"In seinem Zimmer. Eine halbe Stunde. Er hat mir gesagt, was er in Tidemoor getan hat — die Hand auf dem Gehäuse, der Takt, der geblieben ist. Es stimmt alles."
+
+Runa schwieg einen Atemzug lang. Dann nickte sie, einmal, und schrieb etwas an den Rand des Eintrags. Ihre Schrift war schmal, eng, eine Schrift die Platz sparte.
+
+"Es gibt mehr." Alphina hielt die Augen auf Runas Hand. "Wir messen den Steinkreis zusammen, seit drei Wochen. Vesper hat ein Netz in der Stadt — siebzehn Uhren, die alle nachgehen, nach einem Muster. Ringe um ein Zentrum. Ich habe seine Notizen abgeschrieben. Die Ringradien, die Stationenorte, die Abweichungen in Sekunden."
+
+"Ein Zentrum." Runas Stimme war flacher geworden.
+
+"Er hat es noch nicht genannt. Aber er weiß es." Sie sah Runa jetzt an. "Ich auch."
+
+Runa legte den Stift neben das Notizbuch. Sie schluckte einmal, sichtbar, der Hals hob sich unter der Mantelkante und senkte sich wieder.
 
 "Die Adressen", sagte Runa. Sie legte das Notizbuch auf die Bank, zwischen ihre Knie. "Die Adressen sind das Problem. Ich hab sie auf eine Karte übertragen, gestern Nacht, als ich nicht schlafen konnte. Druckerschwärze auf Straßennamen." Sie schaute Alphina an. "Es ist ein Kreis. Die Meldungen kommen von überall in der Stadt, aber die Dichte — die meisten, die häufigsten, die deutlichsten — liegen alle auf einer Linie. Und die Linie läuft um den Hang herum. Den Hang unterhalb von hier."
 
