@@ -1,10 +1,10 @@
 # B1-K20 — Maren — Entwurf
 
 **POV:** Maren (3. Person nah, Präteritum)
-**Timeline:** 23. Blütenmond 551 TZ · 8 Wochen 5 Tage in Vael (gleichzeitig mit K21)
+**Timeline:** 23. Blütenmond 551 TZ · 8 Wochen 5 Tage in Vael (K21 folgt am nächsten Tag, 24. Blütenmond)
 **Vorgänger:** K19 (Kampf, Wurzel-Skulptur, alle vier erschöpft)
 **Wortziel Ausarbeitung:** 4.500–5.000 W
-**Gänsehaut-Moment:** Esther Voss schlägt das Register auf und zeigt Maren: der Name "Dahl" erscheint nicht einmal — er erscheint dreimal, in drei verschiedenen Schreibweisen, über einen Zeitraum von zweihundert Jahren. Die letzte Eintragung ist zwei Jahre vor Harons ersten Briefen an Maren.
+**Gänsehaut-Moment:** Esther Voss schlägt das Register auf und zeigt Maren: der Name "Dahl" erscheint nicht einmal — er erscheint dreimal, in drei verschiedenen Schreibweisen, über einen Zeitraum von rund zweihundert Jahren. Die letzte Eintragung liegt zwei Jahre vor Harons ersten Briefen an Maren.
 
 ---
 
@@ -12,7 +12,7 @@
 
 **Wortziel:** 1.200–1.400 W
 
-Tage nach K19. Maren auf der Werft. Edric ist nicht da. Das halbfertige Boot liegt im Wasser, der Spätfrühling liegt über dem Hafen. Die Verletzung an ihrer Schulter heilt — Alphina hat die Hand darauf gelegt, der Prozess sitzt in der Wunde als eine Art Wärme die von innen kommt.
+Tage nach K19. Maren auf der Werft. Edric ist nicht da. Das halbfertige Boot liegt im Wasser, der Spätfrühling liegt über dem Hafen. Die Verletzung an ihrer Schulter heilt — Alphina hat am Steinkreis die Hand darauf gelegt, die Wärme kam aus dem Boden, durch Alphinas Hände hindurch, nicht aus Alphina selbst. (Ausarbeitung: Umgebungsquelle sichtbar halten — Canon-Regel.)
 
 Sie holt das Symbolblatt aus der Werkbank-Leiste — wo sie es seit K08 versteckt hat. Den Steinkreis auf der Zeichnung hat sie gestern gesehen, in der Form der Wurzel-Skulptur. Der Gedanke kommt jetzt, nicht damals: das Blatt hält sie gegen das Licht. Ein einzelnes Blatt in Harons Handschrift, Symbole die keinem Thalassien-Alphabet folgen, eine Steinkreis-Zeichnung in der Mitte. Sieben Steine. Die Mitte hohl.
 
@@ -51,9 +51,8 @@ Er schaut Maren an. *"Was siehst du?"* Sie schaut auf die Symbole, auf die Zahl 
 
 **Dialog-Informationen:**
 - Maren erfährt (von sich selbst): Still sein in seiner Nähe ist anders als sonst still sein. Ihr Kopf hört auf zu laufen. Das ist ein Zustand den sie noch nie gesucht hat.
-- Vesper erfährt (über Maren): Sie ist sub. Er braucht kein Wort dafür, er sieht das Muster.
-- Vespers Erkenntnis: Er könnte jetzt. Er wartet ab — nicht aus Zögern, sondern weil er weiß wann Geduld schärfer ist als Bewegung.
-- Vespers Erkenntnis (Symbole): Eine Registriernummer. Das Symbolblatt verweist auf ein Dokument, das in Vael aufbewahrt wird.
+- Maren registriert (aus ihrem POV, nicht aus Vespers Kopf): sein Blick — einen Herzschlag zu lang, zu präzise. Sie weiß nicht was er sieht. Sie spürt, dass er etwas gesehen hat. Was — bleibt außerhalb ihres Zugriffs. (Wichtig: KEIN Mind-Reading in Ausarbeitung. Vesper denkt nicht in BDSM-Termini — wenn seine Sicht durchschimmert, dann als Schach/Uhr-Muster: ein Läufer der wartet, ob er gerufen wird.)
+- Dialog-Fakt: Vesper erkennt eine Registriernummer im Symbolblatt. Das Blatt verweist auf ein Dokument, das in Vael aufbewahrt wird.
 
 **Tschechow-Waffen geladen:**
 - Sub-Dynamik explizit sichtbar (feuert K26: Dom/Sub-Nacht im Archiv)
@@ -78,12 +77,16 @@ Esther: *"Dahl ist ein Vaeler Name — Lene Dahls Familie hat die Werft seit fas
 
 Das Symbolblatt bleibt da. Esther will in den alten Registern nachschlagen. *"Das wird ein paar Tage dauern. Ich schicke Ihnen Nachricht."* Das Manuskript kommt noch nicht — erst K23, wenn Esther ihre vollständige Suche abgeschlossen hat.
 
+**Verlust-Beat (Pflicht Ausarbeitung):** Kurz vor dem Verlassen des Archivs — ein Moment in Maren, der brennen muss, bevor sie weitermacht. Haron war fünf Jahre ihr Anker im Briefwechsel, jemand den sie nie getroffen hat aber für echt gehalten hat. Der Name war Tarnung. Der Mann, dessen Werft sie geerbt hat, war ein anderer als der, den sie gelesen hat. Das darf nicht sofort in die Erkenntnis-Ruhe kippen — es muss einen Augenblick geben, in dem etwas unter ihrem Brustbein schief steht. Körperlich, nicht benannt. Dann erst Rückweg.
+
+**Maren-Vesper-Puls (Pflicht Ausarbeitung):** Einen Moment in Szene 3, in dem die Spannung nicht einfriert — wie nah er steht wenn Esther das Blatt gegen das Licht hält, wie er eine Seite umblättert, ein Ärmel der ihren streift. Sachlich bleiben, aber nicht paarlos.
+
 **Dialog-Informationen:**
 - Maren erfährt: Dahl ist eigentlich ein Vaeler Familienname (Lene Dahls Werft, ~400 Jahre). Haron hat den Namen bei der Werft-Übernahme angenommen. Er hieß vorher anders.
 - Maren erfährt: Der Name taucht in den Registern mehrfach auf, in verschiedenen Schreibweisen, über 200 Jahre — immer Menschen die kommen und wieder verschwinden.
 - Maren erfährt: Haron sprach die Sprache kaum, kam als Fremder. Der Name war Tarnung oder Anpassung.
 - Vesper erfährt: Es gibt ein Registriersystem für unbekannte Schriften in Vaeler Archiv-Dokumenten. Das Symbolblatt ist nicht das erste.
-- Maren registriert: Jara Voss. Die Hände zu gleichmäßig. Fragt nicht nach. Merkt es.
+- Maren registriert (als Handwerkerin, ohne Schluss zu ziehen): Jara Voss, die Handbewegung beim Sortieren ist zu gleichmäßig — das ist keine echte Arbeit, das ist ein Rhythmus, der etwas anderes tut. Maren zieht keinen Schluss, sie merkt es nur. (Ausarbeitung: NICHT ausformulieren "sie hört zu". Sorel-Prinzip.)
 
 **Tschechow-Waffen geladen:**
 - Jara Voss (zu gleichmäßige Hände, hört alles) → feuert in K23 (Jara findet das Manuskript "zuerst")
@@ -101,7 +104,7 @@ Das Symbolblatt bleibt da. Esther will in den alten Registern nachschlagen. *"Da
 
 Rückweg, den Fluss entlang, die Grauwe im Abendlicht. Vesper geht einen Schritt vor ihr, oder neben ihr — die Körpergeographie hat sich verändert, ohne dass jemand einen Schritt gemacht hat. Sie gehen nicht zusammen; sie gehen in dieselbe Richtung, mit demselben Abstand den zwei Menschen haben, die wissen dass der Abstand nicht permanent ist.
 
-Maren hält die Hand über das Wasser, ohne es zu berühren. Das Wasser reagiert — Wellen die nicht vom Wind kommen, ein leichtes Drehen gegen den Strömungsfluss. Sie lässt es. Sie braucht keine Erklärung für das, was ihr Körper kann.
+Abendlicht, kein anderer am Ufer. Maren hält die Hand über das Wasser, ohne es zu berühren. Das Wasser reagiert — Wellen die nicht vom Wind kommen, ein leichtes Drehen gegen den Strömungsfluss. Sie kontrolliert es nicht, sie ruft es nicht — es geschieht, und sie schaut zu. (Ausarbeitung: NICHT "sie lässt es" — das klingt nach Kontrolle. Sie bemerkt es, das ist alles.)
 
 Etwas in Maren, das immer weggeht, bleibt. Nicht wegen Vael. Nicht wegen des Bootes oder der Werft oder des Auftrags. Wegen: an seinem Tisch, mit seinen Papieren, in seinem Rhythmus. Sie hat kein Wort dafür. Aber ihr Körper hat eines.
 
@@ -112,6 +115,8 @@ Etwas in Maren, das immer weggeht, bleibt. Nicht wegen Vael. Nicht wegen des Boo
 **Tschechow-Waffen geladen:**
 - Maren bleibt (k04: "ihr Körper will nicht gehen" → hier: bewusste Benennung)
 - Wasser-Resonanz zeigt sich sorglos (sie braucht keine Kontrolle mehr um sie zu halten)
+
+**Cross-POV-Marker zu K21 (Ausarbeitung):** Ein kleines Detail am Rand — ein Licht, das sich auf dem Wasser spiegelt und nicht zur Uhrzeit passt; oder ein Schatten am Hafen in Richtung Lichthaus — etwas das die Leserin im nächsten Kapitel (Alphina besucht Sorel in der Dunkelkammer) wiedererkennt oder rückwirkend verortet.
 
 ---
 
@@ -124,7 +129,7 @@ Etwas in Maren, das immer weggeht, bleibt. Nicht wegen Vael. Nicht wegen des Boo
 - Vesper: sub-Fantasien seit K14, schärfer seit K17, jetzt nach K19 geerdet
 
 **Was weiß Maren am Ende von K20?**
-- "Dahl" ist kein Vaeler Familienname, taucht seit 157 Jahren auf
+- "Dahl" taucht im Registerbestand dreimal auf, in verschiedenen Schreibweisen, über rund zweihundert Jahre — die jüngste Eintragung zwei Jahre vor Harons ersten Briefen
 - Haron war nicht der erste — es gibt eine Kontinuität, die sie nicht kennt
 - Das Symbolblatt liegt im Archiv; Esther sucht weiter
 - Jara Voss: etwas stimmt nicht. Maren weiß nicht was.
