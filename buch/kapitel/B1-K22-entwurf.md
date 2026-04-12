@@ -1,7 +1,7 @@
 # B1-K22 — Maren — Entwurf
 
 **POV:** Maren (3. Person nah, Präteritum)
-**Timeline:** 25. Blütenmond 551 TZ · Tag nach K21, drei Tage nach K19 (dem Kampf)
+**Timeline:** 24. Blütenmond 551 TZ · Tag nach K21, zwei Tage nach K19 (dem Kampf)
 **Wortziel Ausarbeitung:** 2.500–3.000 W (kurzes Kapitel, kein Wendepunkt — Nachglut und Eskalations-Saat)
 **Gänsehaut-Moment:** Alphina — die Botanikerin, die seit dreißig Jahren jede Pflanze der Grauküste kennt — schüttelt den Kopf. Kein Name. Kein Vergleich. Kein "sieht aus wie". Einfach: nichts.
 
@@ -50,7 +50,7 @@ Das Wasser ist warm. Nicht frühsommerlich-kalt-werdend-warm. Körperwarm. Wie B
 
 Auf der Werft: Tohl ist schon da. Sie fragt ihn beiläufig, ohne Nachdruck. Er sagt, das sei seit gestern so. Oder vorgestern. "Fischfang ist besser." Er sagt es neutral, ohne Theorie. Das ist Tohls Art.
 
-Maren arbeitet am Boot. Heute macht sie Kleinigkeiten — Schmirgeln, Pech nachziehen, eine Kimm-Planke prüfen die sich leicht gewölbt hat. Handarbeit. Ihre Hände auf Holz. Während sie arbeitet, denkt sie: Pflanze die nicht hierher gehört. Wasser das zu warm ist. Schemen die aus dem Riss kommen. Keins davon auf Befehl — das ist das Neue. Nichts deutet auf einen Auslöser. Das bedeutet: sie passieren von selbst.
+Maren arbeitet am Boot. Heute macht sie Kleinigkeiten — Schmirgeln, Pech nachziehen, eine Kimm-Planke prüfen die sich leicht gewölbt hat. Handarbeit. Ihre Hände auf Holz. Während sie arbeitet, denkt sie: Pflanze die nicht hierher gehört. Wasser das zu warm ist. Schemen die aus dem Riss kommen. Diesmal kein Pochen vorher, kein Rückwärtsfließen, kein sonstiges Vorzeichen. Die Dinge waren einfach da. Das bedeutet: sie passieren von selbst.
 
 Kein Name für dieses Gefühl. Eine Holzplanke gibt nach wenn der Druck zu groß wird, oder sie hält. Es gibt keinen mittleren Zustand. Maren hat das Gefühl, dass etwas gerade anfängt nachzugeben.
 
