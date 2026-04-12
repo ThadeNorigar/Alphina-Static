@@ -2,7 +2,7 @@
 
 **POV:** Maren (3. Person nah, Präteritum)
 **Timeline:** 20. Blütenmond 551 TZ · 8 Wochen 2 Tage in Vael (gleichzeitig mit K15, K16)
-**Vorgänger:** K14 (Maren bringt Schiffsuhr zu Vesper), K16 (Sorel entdeckt seine Resonanz)
+**Vorgänger:** K14 (Maren bringt Schiffsuhr zu Vesper — genau drei Tage vor diesem Kapitel), K16 (Sorel entdeckt seine Resonanz)
 **Wortziel Ausarbeitung:** 4.000–4.500 W
 **Gänsehaut-Moment:** Der Tee-Strudel gegen den Uhrzeigersinn, ohne Rühren, ohne Kosten — und Vespers gesamter Körper hält inne, die Lupe-am-Auge-Konzentration jetzt auf sie gerichtet, wie vor einem Muster das er bereits kennt.
 
@@ -12,7 +12,7 @@
 
 **Wortziel:** 1.400–1.600 W
 
-Morgen auf der Werft. Maren arbeitet am Boot — Spanten, Lärche, Sägemehl im Haar. Edric ist noch nicht da. Der Hochsommer liegt über dem Hafen, das Wasser hell und träge.
+Morgen auf der Werft. Maren arbeitet am Boot — Spanten, Lärche, Sägemehl im Haar. Edric ist noch nicht da. Der Spätfrühling liegt über dem Hafen, das Wasser hell und klar.
 
 Vesper kommt. Er hätte die Uhr schicken können. Er kommt selbst.
 
@@ -24,7 +24,7 @@ Vesper ist fertig. Er hätte jetzt gehen können. Er bleibt. Setzt sich auf eine
 
 Maren hat Runas Flugblatt gelesen — die Sichtungsberichte, die Anomalien, die Fragen die niemand laut stellt. Sie fragt direkt, ohne Umweg: *"Was hast du mit der Tidemoor-Uhr gemacht?"*
 
-Vesper erzählt. Nicht alles auf einmal — aber er erzählt. Die Drift (4:33 täglich, einwandfreies Werk, Fehler außerhalb der Mechanik). Seinen körperlichen Übertrag (Hand ans Gehäuse, Uhr läuft, Hand weg, Drift beginnt). Sein Zögern davor, sein Zögern danach. Die Schultern senken sich beim Sprechen, nicht vor Erleichterung — eher wie bei einem Mechanismus der zu lange Spannung gehalten hat. Er hat es noch niemandem erzählt. Maren hört zu. Sagt nichts. Urteilt nicht. Das ist die Art Zuhören die schwerer zu finden ist als Antworten.
+Vesper erzählt. Nicht alles auf einmal — aber er erzählt. Die Drift (4:33 täglich, einwandfreies Werk, Fehler außerhalb der Mechanik). Seinen körperlichen Übertrag (Hand ans Gehäuse, Uhr läuft, Hand weg, Drift beginnt). Sein Zögern davor, sein Zögern danach. Die Schultern senken sich beim Sprechen, nicht vor Erleichterung — eher wie bei einem Mechanismus der zu lange Spannung gehalten hat. Er hat es Alphina erzählt — noch niemandem sonst. Maren hört zu. Sagt nichts. Urteilt nicht. Das ist die Art Zuhören die schwerer zu finden ist als Antworten.
 
 **Dialog-Informationen:**
 - Maren erfährt: Vesper hat einen körperlichen Übertrag auf Mechanik — seine Anwesenheit reguliert die Drift
@@ -42,9 +42,9 @@ Vesper erzählt. Nicht alles auf einmal — aber er erzählt. Die Drift (4:33 t�
 
 **Wortziel:** 1.400–1.600 W
 
-Maren macht Tee. Einfaches Handgriff, der dritte in dieser Stunde, Teekochen auf der Werft ist so üblich wie Sägemehl. Die Tasse steht seit einer Stunde. Lauwarm.
+Maren macht Tee. Einfacher Handgriff, der dritte in dieser Stunde, Teekochen auf der Werft ist so üblich wie Sägemehl.
 
-Sie zeigt es ihm. Wortlos. Kein Vorlauf, keine Erklärung. Sie legt die Hände neben die Tasse — nicht dran, nicht drum herum, nur daneben, die Fingerspitzen am Porzellan. Der Tee wird wieder heiß. Dampf steigt auf. Im Tee ein Strudel, langsam, gegen den Uhrzeigersinn, ohne dass jemand rührt. Kein Preis. Keine Kosten. Als wäre Wasser-Wärme so natürlich wie Atemholen.
+Sie zeigt es ihm. Wortlos. Kein Vorlauf, keine Erklärung. Sie greift nach dem Krug — Wasser vom Morgen, kalt, unberührt seit Sonnenaufgang. Schüttet es über das Teeblatt in eine leere Tasse. Hält sie Vesper hin. Noch während er die Tasse nimmt, steigt Dampf auf. Im Tee ein Strudel, langsam, gegen den Uhrzeigersinn, ohne dass jemand rührt. Kein Preis. Keine Kosten. Als wäre Wasser-Wärme so natürlich wie Atemholen.
 
 Vesper starrt. Nicht höflich, nicht kurz — er starrt eine Sekunde zu lang, und in dieser Sekunde hält sein ganzer Körper inne. Die Lupe-am-Auge-Konzentration die Maren aus K14 kennt (Hände auf dem Uhrgehäuse, vollständige Aufmerksamkeit), jetzt auf sie gerichtet, auf die Tasse, auf ihre Finger.
 

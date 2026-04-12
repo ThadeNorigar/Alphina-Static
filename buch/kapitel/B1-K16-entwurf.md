@@ -14,7 +14,7 @@
 
 Sorel in der Dunkelkammer. Lichthaus-Keller. Spätfrühling, draußen hell und warm, hier drinnen die übliche Finsternis. Er hat seit Wochen gewusst, dass mit den Platten etwas nicht stimmt — seit K13 hat er es gewusst und sich geweigert, die einzige Erklärung anzusehen, die übrig bleibt.
 
-Systematisches Debugging. Er geht methodisch vor, wie er immer vorgeht: schließt die einfachen Erklärungen aus, bevor er auf die komplizierten zusteuert. Neue Charge Nassplatten aus einer versiegelten Fabrik-Schachtel (nie geöffnet, Papier-Siegel intakt). Er belegt jede Platte ab und bringt sie in die Entwicklerschale. Entspannung: ein Bild erscheint. Dann sieht er genauer hin.
+Systematische Fehlersuche. Er geht methodisch vor, wie er immer vorgeht: schließt die einfachen Erklärungen aus, bevor er auf die komplizierten zusteuert. Neue Nassplatten aus einer versiegelten Fabrik-Schachtel — das Papiersiegel unberührt, offensichtlich nie geöffnet. Er belegt jede Platte ab und bringt sie in die Entwicklerschale. Entspannung: ein Bild erscheint. Dann sieht er genauer hin.
 
 Das Bild zeigt seinen eigenen Rücken. Seine eigenen Hände über der Wanne. Seine Schultern, die Spannung darin, der Winkel seines Kopfes beim Bücken — aufgenommen aus einer Perspektive, die keine Kamera einnehmen könnte, die irgendwo in diesem Raum stünde. Er durchsucht den Keller. Jede Ecke, jeden Winkel, die Deckenbalken, die Regalbretter. Er sucht zwanzig Minuten. Nichts. Keine Apparatur, kein Draht, kein Loch im Mauerwerk.
 
