@@ -4,7 +4,7 @@
 
 Im Treppenhaus des *Anker*, auf der zweiten Stufe von unten, stand eine Pflanze, wo am Vortag keine gestanden hatte. Maren blieb auf der dritten Stufe stehen, die Hand am Geländer, und sah hinunter. Der Stängel war dünn wie ein Strohhalm, hellgrün, und er wuchs nicht aus einem Topf und nicht aus einem vergessenen Korb — er wuchs aus der Fuge zwischen der abgetretenen Eichenbohle und dem Mauerstein dahinter, als hätte jemand ihn dort ausgesät, oder als hätte er sich ausgesät, ohne jemanden zu fragen. Drei Blätter. Flach, lederig, zu breit für das Halblicht, das durch das kleine Fenster am oberen Absatz fiel. Das Grün war satt. Zu satt für ein Haus, in dem die Sonne den Flur nur zweimal am Tag erwischte, im Frühling erst morgens, im Sommer erst am späten Nachmittag.
 
-Sie ging die restlichen Stufen hinunter. Kniete sich. Nahm das mittlere Blatt zwischen Daumen und Zeigefinger, nicht um es zu pflücken — um zu fühlen. Die Oberseite war kühl, glatt, fast wächsern. Die Unterseite war warm. Nicht Zimmertemperatur-warm. Handwarm, wie Holz, das eine Stunde lang in der Sonne gelegen hatte. Sie drehte das Blatt vorsichtig um, sah die Adern, fein verzweigt, und aus der Bruchstelle, die sie beim Abtasten erzeugt hatte, kam ein Geruch, der einen halben Schritt zu ihr kam und dann in der Treppenhausluft hängen blieb. Feucht. Süßlich. Nicht Moos. Nicht Faulnis. Etwas dazwischen, dem kein Wort aus Solha und keines aus Vael saß. Sie hatte dreißig Jahre lang die Grauküstenflora eingeatmet — Strandhafer, Salzaster, Schilfrohr, Tang im Schlamm unter den Pfählen. Dieser Geruch gehörte nicht dazu.
+Sie ging die restlichen Stufen hinunter. Kniete sich. Nahm das mittlere Blatt zwischen Daumen und Zeigefinger, nicht um es zu pflücken — um zu fühlen. Die Oberseite war kühl, glatt, fast wächsern. Die Unterseite war warm. Nicht Zimmertemperatur-warm. Handwarm, wie Holz, das eine Stunde lang in der Sonne gelegen hatte. Sie drehte das Blatt vorsichtig um, sah die Adern, fein verzweigt, und aus der Bruchstelle, die sie beim Abtasten erzeugt hatte, kam ein Geruch, der einen halben Schritt zu ihr kam und dann in der Treppenhausluft hängen blieb. Feucht. Süßlich. Nicht Moos. Nicht Faulnis. Etwas dazwischen, dem kein Wort aus Solha und keines aus Vael saß. Sie hatte dreißig Jahre lang die Grauküstenflora eingeatmet — Strandhafer, Salzaster, Schilfrohr, Tang im Schlamm unter den Pfählen.
 
 Sie stand auf, wischte sich die Finger an der Schürze. Ging zwei Stufen hoch, blieb stehen. Ging zurück. Klopfte an Alphinas Tür im ersten Stock, einmal, so kurz, dass es nicht laut war.
 
@@ -16,13 +16,13 @@ Dann blieb sie noch zwei, drei Atemzüge in der Hocke. Sah das Ganze nicht an. S
 
 "Das wächst hier nicht."
 
-Kein Nachsatz. Sie griff nach dem Notizbuch, schlug eine leere Seite auf, nahm den Bleistift aus der Bindung. Zeichnete. Schnell — drei flache Umrisse für die Blätter, eine Linie für den Stängel, die Fuge in Schraffur. Dazu ein kurzes Wort, das Maren nicht las, weil sie nicht nah genug stand. Alphina stand auf, das Notizbuch offen in der linken Hand, und sah die Pflanze jetzt aus der Höhe an, die Hände ruhig an den Seiten. Kein Ekel in ihrem Gesicht. Kein Schreck. Etwas Näheres an einem Vogel, der einen Stein gefunden hatte, den er nicht zum Nest tragen konnte und den er trotzdem betrachten wollte.
+Kein Nachsatz. Sie griff nach dem Notizbuch, schlug eine leere Seite auf, nahm den Bleistift aus der Bindung. Zeichnete. Schnell — drei flache Umrisse für die Blätter, eine Linie für den Stängel, die Fuge in Schraffur. Dazu ein kurzes Wort, das Maren nicht las, weil sie nicht nah genug stand. Alphina stand auf, das Notizbuch offen in der linken Hand, und sah die Pflanze jetzt aus der Höhe an, die Hände ruhig an den Seiten. Kein Ekel in ihrem Gesicht. Kein Schreck. Ihre Hände blieben ruhig an den Seiten.
 
 Maren wartete. Alphina sagte nichts mehr. Klappte das Notizbuch zu. Ging an Maren vorbei, die Stufen hinauf, leise auf Strümpfen, und die Tür zu ihrem Zimmer schloss hinter ihr, ohne zu klappen.
 
-Maren stand im Treppenhaus. Die Pflanze stand da. Keiner von ihnen hatte sie herausgerissen. Keiner hatte gesagt, dass man das sollte.
+Maren stand im Treppenhaus. Die Pflanze stand da. Keiner von ihnen hatte sie herausgerissen.
 
-Ich kenne sie nicht war etwas. Das wächst hier nicht war etwas anderes. Der Unterschied war die ganze Treppe lang.
+Ich kenne sie nicht war etwas. Das wächst hier nicht war etwas anderes.
 
 Sie ging weiter nach unten, durch den Schankraum, in dem die Wirtsfrau das Frühstücksholz schon in den Ofen geschoben hatte, und hinaus in die Hafengasse. Das Tor schloss sie hinter sich. Die Pflanze ließ sie stehen.
 
@@ -52,25 +52,25 @@ Sie ging ins Halleninnere. Das Boot stand auf den Böcken, dreiviertelfertig, wi
 
 Hände auf Holz. Sie atmete langsam.
 
-Pflanze, die nicht hierher gehört. Wasser, das zu warm ist. Sie hatte Schemen gesehen an diesem Boot — nachts, drei Wochen her jetzt. Sie hatte das Wasser rückwärts fließen sehen, Tohl hatte es ihr gezeigt. Sie hatte das Pochen gespürt, unter der Erde, eine Nacht, einmal. Jedes dieser Dinge war angekündigt worden. Das Pochen vor dem Rückwärts-Fließen. Das Rückwärts-Fließen vor den Schemen. Die Schemen vor dem Kampf im Garten, vorgestern. Es hatte immer ein Vorzeichen gegeben, einen Reibungspunkt, eine Grenze, die nachgab, bevor das Nächste kam.
+Pflanze, die nicht hierher gehört. Wasser, das zu warm ist. Sie hatte die Gestalten gesehen an diesem Boot — nachts, drei Wochen her jetzt. Sie hatte das Wasser rückwärts fließen sehen, Tohl hatte es ihr gezeigt. Sie hatte das Pochen gespürt, unter der Erde, eine Nacht, einmal. Jedes dieser Dinge war angekündigt worden. Immer hatte etwas nachgegeben, bevor das Nächste kam.
 
-Heute nicht. Keine Vorrede. Die Pflanze war einfach da gewesen, und das Wasser war einfach warm. Das bedeutete, die Dinge geschahen jetzt ohne Einladung. Ohne jemanden, der die Tür aufstieß. Sie kamen durch. Wo sie konnten, wann sie konnten.
+Heute nicht. Keine Vorrede. Die Pflanze war einfach da gewesen, und das Wasser war einfach warm. Sie kamen durch.
 
 Sie setzte den Hobel ab. Strich mit der flachen Hand über die Planke, prüfte die Linie — glatt, die Wölbung war weg. Drei Striche. Genug. Sie nahm das Schleifpapier, legte die Fläche mit der rechten Hand leicht dagegen, zog zweimal von Bug nach Heck.
 
-Eine Planke gab nach, oder sie hielt. Es gab keinen mittleren Zustand. Eine Planke, die sich ein halbes Millimeter wölbte, war eine Planke, die noch hielt. Eine Planke, die ein Millimeter drückte, war eine Planke, die man austauschen musste. Dazwischen war nichts. Die Grauwe tat mit dem Boden der Stadt, was Wasser mit Holz tat, und Wasser arbeitete gleichmäßig, und wenn man aufhörte, die Planke zu prüfen, dann kippte sie eines Tages, und dann war es zu spät. Maren kannte dieses Kippen. Sie hatte es in Solha an einem Tender gesehen, bei dem jemand ein Jahr lang nicht geprüft hatte. Der Tender war unter einem leichten Heber ausgebrochen. Niemand war darunter gewesen, nur Glück.
+Eine Planke gab nach, oder sie hielt. Es gab keinen mittleren Zustand. Wasser arbeitete gleichmäßig. Wenn man aufhörte, die Planke zu prüfen, kippte sie eines Tages, und dann war es zu spät. Maren kannte dieses Kippen.
 
-Sie hörte ihre eigene Atmung. Sie hörte das tiefe Knarren des Stegs hinter der Halle, das war die Flut, die jetzt höher stand als gestern um diese Zeit. Sie hörte Tohls Pfeife nicht mehr. Er war weg.
+Sie hörte ihre eigene Atmung. Das tiefe Knarren des Stegs hinter der Halle, das war die Flut, die jetzt höher stand als gestern um diese Zeit. Tohls Pfeife nicht mehr. Er war weg.
 
-Etwas gab nach. Irgendwo. Nicht hier, nicht im Boot, nicht in der Halle. Woanders, unter der Stadt, unter dem Hafen, unter dem Garten, unter dem Treppenhaus des *Anker*. Eine Planke im Boden von Vael drückte sich. Der Millimeter war überschritten, oder er wurde gerade überschritten. Maren wusste nicht, wie sie es messen sollte. Sie wusste nur, dass sie den Zustand kannte, und dass sie ihn wiedererkannte, auch wenn er heute nicht ein Stück Lärche war, sondern die Stadt unter ihren Füßen.
+Etwas gab nach. Irgendwo. Nicht hier, nicht im Boot, nicht in der Halle. Woanders, unter der Stadt, unter dem Hafen, unter dem Garten, unter dem Treppenhaus des *Anker*. Eine Planke im Boden von Vael drückte sich. Der Millimeter war überschritten, oder er wurde gerade überschritten. Maren kannte den Zustand. Heute war er nicht Lärche.
 
-Sie legte den Hobel zurück in den Halter, die Zinke nach unten, wie immer. Zog die Jacke an. Den Zettel schrieb sie diesmal nicht; Edric würde heute später kommen. Sie schloss das Tor auf die halbe Breite, ging zurück durch die Hafengasse. Die Pflanze oben im Treppenhaus war noch da. Sie hatte sie nicht nachgezählt, sie wusste es.
+Sie legte den Hobel zurück in den Halter, die Zinke nach unten, wie immer. Zog die Jacke an. Den Zettel schrieb sie diesmal nicht; Edric würde heute später kommen. Sie schloss das Tor auf die halbe Breite, ging zurück durch die Hafengasse. Die Pflanze oben im Treppenhaus war noch da. Sie hatte nicht nachgesehen, sie wusste es.
 
 ---
 
 Abend. Der Schankraum war halb besetzt, zwei Männer am langen Tisch, eine Frau vorne am Ofen, die Wirtsfrau hinter der Theke mit einem feuchten Lappen. Maren ging durch, hinten links, in die kleine Stube, in der Vesper seinen Reparaturtisch hatte. Die Tür stand einen Finger breit offen, wie sie immer offen stand.
 
-Sie schob sie mit dem Ellbogen auf, so weit, dass sie eintreten konnte. Er saß über einem Uhrwerk, das Licht der Petroleumlampe schräg auf den Samt, das Glas des Zifferblatts neben der rechten Hand, dahinter eine Reihe sehr kleiner Federn, die er sortiert hatte. Er sah auf. Nicht hoch. Nur kurz, die Augen aus dem Werk in ihre Richtung und wieder zurück.
+Sie schob sie mit dem Ellbogen auf, so weit, dass sie eintreten konnte, und blieb auf der Schwelle einen halben Atemzug stehen. Der Raum hatte eine Ordnung, die ihm gehörte. Sie trat ein. Er saß über einem Uhrwerk, das Licht der Petroleumlampe schräg auf den Samt, das Glas des Zifferblatts neben der rechten Hand, dahinter eine Reihe sehr kleiner Federn, die er sortiert hatte. Er sah auf. Nicht hoch. Nur kurz, die Augen aus dem Werk in ihre Richtung und wieder zurück.
 
 "Maren."
 
@@ -78,7 +78,7 @@ Sie schob sie mit dem Ellbogen auf, so weit, dass sie eintreten konnte. Er saß 
 
 Sie setzte sich auf die Kiste seitlich von ihm, wie sie sich gesetzt hatte, als sie das Symbolblatt gebracht hatte, drei Tage früher. Er fragte nicht, was sie wollte. Er hatte sie nicht weggeschickt. Sie rechnete nicht damit, dass er es heute tun würde.
 
-Sie nahm das kleine Blatt aus der Innentasche ihrer Jacke — das Blatt, das sie am Morgen, vor dem Weg zur Werft, am oberen Ende des Stängels vorsichtig abgebrochen hatte; sie hatte nicht bewusst entschieden, es abzubrechen, sie hatte es getan, auf dem Weg hinaus, mit Daumen und Zeigefinger. Das Blatt war in acht Stunden in der Jacke nicht gewelkt. Das Grün war noch das Grün vom Morgen. Sie legte das Blatt auf den Samt, neben das Uhrwerk, nicht darauf, aber auf denselben schwarzen Stoff, mit der Unterseite nach oben, damit er die Adern sah. Eine Handbreit vom Uhrglas entfernt.
+Sie nahm das kleine Blatt aus der Innentasche ihrer Jacke — das Blatt, das sie am Morgen auf dem Weg hinaus mit Daumen und Zeigefinger vom Stängel abgebrochen hatte. Es war in acht Stunden in der Jacke nicht gewelkt. Das Grün war noch das Grün vom Morgen. Sie legte das Blatt auf den Samt, neben das Uhrwerk, nicht darauf, aber auf denselben schwarzen Stoff, mit der Unterseite nach oben, damit er die Adern sah. Eine Handbreit vom Uhrglas entfernt.
 
 "Heute früh im Treppenhaus." Sie sah das Blatt an. "Alphina kennt sie nicht."
 
@@ -90,7 +90,7 @@ Er sah weiter das Blatt an. Nahm es jetzt, an der Spitze, zwischen Daumen und Ze
 
 "Das Archiv war gestern nicht fertig."
 
-Er sagte es ruhig, in demselben Ton, in dem er vorher *Maren* gesagt hatte. Nicht als Antwort, nicht als Frage. Als Feststellung, die die Pflanze und das Wasser und den Rathauskeller an dieselbe Kante setzte. Drei Tage früher hatten sie den unbestimmten Bestand durchgesehen, bis Frau Voss gesagt hatte, sie brauche die Nebenregister einen Tag oder zwei. Zwei Tage waren vorbei.
+Er sagte es ruhig, in demselben Ton, in dem er vorher *Maren* gesagt hatte. Nicht als Antwort, nicht als Frage. Drei Tage früher hatten sie den unbestimmten Bestand durchgesehen, bis Frau Voss gesagt hatte, sie brauche die Nebenregister einen Tag oder zwei. Zwei Tage waren vorbei.
 
 "Jara hat den Folianten nicht aus der Hand gelegt." Er sagte es zum Blatt, nicht zu ihr. "Sie hat ihn auf den rechten Stapel gelegt, als wir gingen."
 
@@ -98,7 +98,7 @@ Sie wusste nicht genau, was er damit meinte, aber sie wusste, was er meinte. Sie
 
 Das Blatt blieb liegen. Zwei Finger weiter weg vom Uhrglas, zwei Handbreit näher an ihrer Kiste, auf der freien Fläche des Samtstoffs, genau dort, wo er es hingelegt hatte.
 
-Sie saß. Er arbeitete. Die Petroleumlampe gab einen gleichmäßigen, schmalen Kreis Licht ab, der das Blatt und das Uhrwerk und die Kante ihrer Hände erreichte und am Rand des Samtes auslief. Keiner von ihnen räumte das Blatt weg. Sie sprach nicht. Er sprach nicht. Der Raum hatte jetzt drei Dinge: den Takt der Standuhr hinten an der Wand, den Geruch von Öl aus der offenen Uhrwerkdose, und das Blatt auf dem Samt, das leise und unbewegt dort lag und nicht hierhergehörte.
+Sie saß. Er arbeitete. Die Petroleumlampe gab einen gleichmäßigen, schmalen Kreis Licht ab, der das Blatt und das Uhrwerk und die Kante ihrer Hände erreichte und am Rand des Samtes auslief. Das Blatt blieb. Sie sprach nicht. Er sprach nicht. Der Takt der Standuhr hinten an der Wand ging weiter. Der Geruch von Öl aus der offenen Uhrwerkdose stand in der Stube. Das Blatt lag leise und unbewegt auf dem Samt und gehörte nicht hierher.
 
 Ihre Hände lagen auf den Oberschenkeln. Sie waren warm. Nicht von der Grauwe. Nicht vom Weg.
 

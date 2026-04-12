@@ -1,38 +1,33 @@
 # Handoff — B1-K22
 
-**Von Phase:** entwurf → **Zu Phase:** ausarbeitung
+**Von Phase:** ausarbeitung → **Zu Phase:** lektorat-fix
 **Erstellt:** 2026-04-12
-**Status beim Handoff:** entwurf-ok
+**Status beim Handoff:** lektorat
 
 ## Modell-Empfehlung
-claude --model opus
+claude --model sonnet
+(oder claude --model haiku fuer Mikro-Fixes)
 
 ## Aufruf fuer naechste Session
-/ausarbeitung B1-K22
+/lektorat-fix B1-K22
 
-## Kontext fuer naechste Session
-- POV: Maren (3. Person nah, Präteritum)
-- Wortziel: 2.500–3.000
-- Timeline-Anker: 24. Blütenmond 551 TZ · Tag nach K21, zwei Tage nach K19 (dem Kampf)
-- Freigegebener Entwurf: buch/kapitel/B1-K22-entwurf.md
-- Ton-Referenz: buch/kapitel/B1-K20-maren.md (letztes fertiges Maren-Kapitel)
-
-## Szenen-Übersicht
-1. **Die Pflanze im Treppenhaus** (900–1.100 W) — Maren findet unbekannte, namenlose Pflanze. Alphina kann sie nicht zuordnen. Faszination statt Schrecken.
-2. **Das Hafenwasser** (900–1.100 W) — Grauwe-Wasser körperwarm, Anomalien häufen sich. Marens innere Metapher: Planke gibt nach oder hält.
-3. **Abend, Vesper** (500–700 W) — Maren legt das Blatt auf den Tisch. Vesper will zurück ins Archiv. Stille, Blatt liegt zwischen ihnen.
+## Kontext
+- Datei: buch/kapitel/B1-K22-maren.md (2141 W)
+- Phase: Lektorat-Fixes (Autor-getrieben, kleine Edits)
+- Kein neuer Stil-Check, kein Council. Nur was der Autor anfasst.
 
 ## Anweisungen
-- Prosa aus dem Entwurf ausarbeiten, Plot nicht verändern
-- Jeder Dialog-Info-Punkt aus dem Entwurf muss in der Prosa landen
-- Keine Plot-Änderung ohne Rückkehr zu /entwurf
-- Council-Notizen beachten:
-  - Alphinas Körpersprache körperlich differenzieren (Knien, Riechen, Notiz machen — keine Erklärung)
-  - Das Blatt in Szene 3 präzise verankert auf dem Tisch (nicht nur "liegt zwischen ihnen")
-  - "Kein Name für dieses Gefühl" körperlich übersetzen (Planke-Metapher, Druck, Holz-Assoziationen)
+- Edit-Tool bevorzugt vor Write-Tool
+- Kein ungefragtes Umformulieren
+- Bei groesseren Wuenschen: Hinweis auf Rueckstufung zu /ausarbeitung
+- Status final NUR auf explizite Autor-Freigabe
 
-## Tschechow-Waffen geladen
-- Namenlose Pflanze (Moragh-Flora in Thalassien unkontrolliert)
-- Körperwarm-Grauwe (Marens Wasser-Resonanz, nicht benannt)
-- Das Blatt auf dem Tisch (Beweisstück)
-- Stille zwischen Maren und Vesper (Sub-Dynamik)
+## Council-Zusammenfassung (bereits eingearbeitet)
+- Stil-Check: NICHT BESTANDEN → Anapher-Kaskade "Sie hoerte...", "nicht X sondern Y" 2x, "Keiner von ihnen" 2x, Komma-Listen → alle korrigiert
+- Stilkritiker: Doppelung "Dieser Geruch gehoerte nicht dazu" → gestrichen. Schemen-Bruch → zu "Gestalten". Scharnier-Aphorismus "Unterschied war die ganze Treppe lang" → gestrichen
+- Dark-Romance-Leserin: Eintrittsschwelle in Vespers Stube → Beat eingefuegt ("Der Raum hatte eine Ordnung, die ihm gehoerte")
+- Romantasy-Leserin: Planken-Monolog gekuerzt, Recap gekuerzt, "Das bedeutete..." gestrichen
+- Autorin-Durchgang: Vogel-Metapher, "dieselbe Kante", "nicht bewusst entschieden", "nachgezaehlt" → alle korrigiert
+
+## Offene Punkte fuer Autor-Lektorat
+- Wortzahl: 2141 (Ziel war 2500-3000). Kapitel ist jetzt sehr dicht, ggf. ein, zwei Beats ergaenzen wenn Autor das moechte.
