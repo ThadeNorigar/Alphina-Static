@@ -6,9 +6,9 @@ Die Petroleumlampe stand auf der dritten Rille des Reparaturtischs, weil das Lic
 
 Die Hand auf dem Tuch war ruhig. Der Mechanismus auch. Trotzdem hatte er sich in der letzten halben Stunde zweimal beim Zählen vertan.
 
-Das Bild war da, ob er es rief oder nicht: der Becher auf dem Tuch, das Teeblatt, das sich ohne Rühren gehoben hatte, der Dampf aus einem Becher, der kalt gewesen war. Ihre Finger, die sich nicht bewegt hatten. Die Konzentration auf ihrem Gesicht, mit der er arbeitete — er kannte sie als sein eigenes Werkzeug und hatte sie jetzt auf jemand anderem gesehen.
+Das Bild war da, ob er es rief oder nicht: der Becher auf dem Tuch, das Teeblatt, das sich ohne Rühren gehoben hatte, der Dampf aus einem Becher, der kalt gewesen war. Ihre Finger, die sich nicht bewegt hatten. Die Konzentration auf ihrem Gesicht.
 
-Dann das andere Bild, das er sich nicht geholt hatte. Wie dieser Körper — der Schlagstöße kannte und Holz und dreißig Jahre Handwerk — sich gesenkt haben würde. Knie auf dem Schuppenboden. Die Hände auf den Oberschenkeln, die Handflächen nach oben, offen. Nicht Unterwerfung als Niederlage: als Entscheidung, die Geduld brauchte, um gefasst zu werden, und Haltung, um sie zu halten.
+Dann das andere Bild, das er sich nicht geholt hatte. Wie dieser Körper — der Schlagstöße kannte und Holz und dreißig Jahre Handwerk — sich gesenkt haben würde. Knie auf dem Schuppenboden. Die Hände auf den Oberschenkeln, die Handflächen nach oben, offen.
 
 Er legte die Lupe zur Seite. Das Federhauslager war noch nicht fertig. Er nahm die Lupe wieder.
 
@@ -50,7 +50,7 @@ Sorel sprach weiter. Er kam auf Alphina. Sie hatte die Wunde an seinem Handrück
 
 Sorel ließ diesen Satz sich ausbuchten; der Rest kam in derselben flachen Tonspur wie zuvor.
 
-Vesper registrierte, dass Sorel Fotograf war. *Vorziehen. Auszug. Schicht.* Der Wortschatz eines Mannes, der mit Entwicklerlösung arbeitete und im Kopf in Schritten rechnete — Bad eins, Bad zwei, Fixierung, Spülung.
+Vesper registrierte, dass Sorel Fotograf war. *Vorziehen. Auszug. Schicht.* Der Wortschatz eines Mannes, der mit Entwicklerlösung arbeitete.
 
 Dann kamen die Platten. Sorel sprach jetzt langsamer, weil er die Reihenfolge im Kopf neu ordnete, während er sprach. Er hatte ein Bild von ihr gemacht, im Garten, eine Frau am Farn, sauber belichtet. Er hatte die Platte entwickelt und dabei ein zweites Bild gefunden, das er nicht fotografiert hatte. Dasselbe Negativ, dieselbe Emulsion, zwei Bilder übereinander. Er hatte gedacht: vorbelichtete Charge. Er hatte eine ungeöffnete Platte aus demselben Karton getestet — sie war leer geblieben. Die Charge war sauber.
 
@@ -208,7 +208,7 @@ Die Stufen waren acht, auf der fünften saß ein lockeres Brett. Er setzte die F
 
 Das Wasser kam aus einer Leitung, die keinen Kessel hatte. Vesper hatte das an seinem ersten Besuch zwei Stunden lang durchgeprüft, mit dem Mann, der im Haus für die Rohre zuständig war. Es gab keinen Kessel im Haus. Es gab keinen Warmwasserspeicher. Das Wasser, das in dieses Rohr lief, kam aus dem städtischen Brunnensystem unter dem Grauwe-Ufer, und das Grauwe-Wasser im Mai hatte elf Grad. Das Wasser hier hatte fünfzig.
 
-Er ging ans Kellerfenster. Drei Rillen im Holz, in das Holz hineingeschnitten. Er legte die Daumenkuppe auf die mittlere. Warm. Nicht heiß. Die Temperatur, die Sorel ihm vorhin beschrieben hatte — der Schlag auf den Handrücken, die Hitze, die kein Feuer gebraucht hatte, um zu brennen. Er hatte es beim Zuhören registriert, ohne es mit der Kerbe hier zu verbinden, weil er beim Zuhören nicht verbinden wollte. Jetzt verband er.
+Er ging ans Kellerfenster. Drei Rillen im Holz, in das Holz hineingeschnitten. Er legte die Daumenkuppe auf die mittlere. Warm. Nicht heiß. Die Temperatur, die Sorel ihm vorhin beschrieben hatte — der Schlag auf den Handrücken, die Hitze, die kein Feuer gebraucht hatte, um zu brennen. Er hatte es beim Zuhören registriert, ohne es mit der Kerbe hier zu verbinden. Jetzt verband er.
 
 Er ging die Kellertreppe wieder hoch. In den Flur.
 
@@ -222,7 +222,7 @@ Beim ersten Besuch hatte die Uhr unter seiner Hand die ersten drei Minuten rein 
 
 Er ließ die Hand liegen. Die Uhr tickte weiter.
 
-Er stand dort eine Minute länger, als er es sich vorgenommen hatte. Dann zwei Minuten. Nicht aus Sentimentalität. Er brauchte den Kontakt mit dem System, bevor er vier Menschen in denselben Garten brachte, über dessen Kreis die stärkste Drift der Stadt lag. Die Tidemoor-Uhr war das älteste bekannte Muster, das er in Vael gefunden hatte. Wenn die Quelle unter der Stadt schon jahrzehntelang sickerte, dann tickte dieses Gehäuse seit Jahrzehnten mit dem Widerstand dagegen an. Er wollte es hören, bevor er den Rest organisierte.
+Er stand dort eine Minute länger, als er es sich vorgenommen hatte. Dann zwei Minuten. Er brauchte den Kontakt mit dem System, bevor er vier Menschen in denselben Garten brachte, über dessen Kreis die stärkste Drift der Stadt lag. Die Tidemoor-Uhr war das älteste bekannte Muster, das er in Vael gefunden hatte. Wenn die Quelle unter der Stadt schon jahrzehntelang sickerte, dann tickte dieses Gehäuse seit Jahrzehnten mit dem Widerstand dagegen an. Er wollte es hören, bevor er den Rest organisierte.
 
 Die Hand unter dem Messing wurde langsam warm.
 
