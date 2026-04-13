@@ -258,7 +258,7 @@ Lange Reflexion → Stakkato. Frage → Stille. Bandwurm → harter Kurzsatz. De
 | `sie erinnerte sich, dass...` (Flashback-Rampe) | **0** |
 | `sie wusste noch nicht, dass...` (prämature Ahnung) | **0** |
 | Berufslinsen-Bruch (z.B. Alphina nennt Tonwerte) | **0** |
-| Direkte Emotionsbenennung im Innenleben (`sie war traurig`) | **0** |
+| Direkte Emotionsbenennung im Innenleben (`sie war traurig`) | **0** im Narrator-Register. Ausnahme: Selbsterkenntnis der Figur, gekoppelt mit Körper-Marker aus dem POV-Register (z.B. "Sie war wütend. Die Handflächen warm.") — max 2/Kapitel. |
 | `Es gab Dinge, die...` (generalisierender Aphorismus) | **0** |
 | `Beide wussten das` / `Keiner sagte es` (Mind-Reading-Floskel) | **0** |
 | `Er wusste, dass [er/sie] wusste` (verschachtelte Meta-Reflexion) | **0** |
@@ -352,7 +352,8 @@ Stilmittel sind **DEFAULT VERBOTEN** bis sie bewusst freigegeben werden. Die fol
 | Stakkato (Fragmentsätze <4W ohne Verb) | VERBOTEN | Schock, Inventur, Hammerschlag. Max 2-3 Passagen/Kap |
 | Erklärende Nachsätze | VERBOTEN | Gedankengang = Erkenntnis für die Figur |
 | Metapher + Erklärung | VERBOTEN | NIE |
-| Emotionen benennen | VERBOTEN | NIE |
+| Emotionen benennen (Narrator-Stimme) | VERBOTEN | NIE |
+| Emotionen benennen (Figuren-Selbsterkenntnis) | ERLAUBT | Figur erkennt selbst, IMMER mit Körper-Marker aus POV-Register. Max 2/Kapitel |
 | Analyse in Kontrollverlust | VERBOTEN | Die Figur darf nicht denken wenn der Körper übernimmt |
 | Tempo-Monotonie (1 Register) | VERBOTEN | Min. 2 Register pro Kapitel |
 | Begehren nur via Puls/Handgelenke | VERBOTEN | Breiteres POV-Register verwenden |
