@@ -61,7 +61,7 @@ Maren sah es. Sie sah Alphina an, sah Sorel an, sah Alphinas Hand, die am Mantel
 
 "Im Steinkreis", sagte Vesper. "Dort ist Platz und der Weg zum Tor ist frei."
 
-Sie gingen. Alphina vorn, weil sie den Weg am besten kannte. Vesper neben ihr, einen halben Schritt zurück. Maren und Sorel dahinter, und zwischen den beiden lag das Schweigen zweier Menschen, die einander nicht kannten und heute nicht die Zeit hatten, sich kennenzulernen.
+Sie gingen. Alphina vorn, weil sie den Weg am besten kannte. Vesper neben ihr, einen halben Schritt zurück. Maren und Sorel dahinter, schweigend.
 
 Der Steinkreis lag auf dem kleinen Hügel in der nordwestlichen Gartenhälfte, fünf Steine, mannshoch, in einer Anordnung, die man bei Tageslicht für einen Zufall halten konnte und nachts nicht mehr. Das Gras innerhalb des Kreises war niedrig, fast geschoren, obwohl seit drei Wochen kein Gärtner den Platz geschnitten hatte.
 
@@ -157,7 +157,7 @@ Das Licht kam nicht zurück.
 
 Keine Reflexion, kein Flimmern, kein Versprühen an den Kanten. Licht ging in diese Schulter hinein, und die Schulter schloss sich über ihm, bevor es Reflex werden konnte. Dorthin, wo das Licht war, war es nicht mehr. Die Schulter blieb dunkel.
 
-Sorel machte einen Schritt rückwärts. Die linke Hand zog an der Bandage — er hatte sie vergessen, sie erinnerte sich jetzt. Die rechte Hand fasste, ohne dass er es ihr befahl, nach Alphinas Ellbogen. Die Hand lag an der Innenseite ihres Arms, und er zog sie einen halben Schritt aus der Schusslinie, drei Finger breit, den Schritt, den ein Mann machte, der in einem Raum stand und den Raum neu zählen musste.
+Sorel machte einen Schritt rückwärts. Die linke Hand zog an der Bandage — er hatte sie vergessen, sie erinnerte sich jetzt. Die rechte Hand fasste, ohne dass er es ihr befahl, nach Alphinas Ellbogen. Die Hand lag an der Innenseite ihres Arms, und er zog sie einen halben Schritt aus der Schusslinie, drei Finger breit.
 
 Ihr Körper folgte, bevor ihr Kopf wusste, dass er gezogen wurde.
 
@@ -189,7 +189,7 @@ Dünne, blass­grüne Halme, fingerdick aus der Erde, die dem Wesen bis ans Schi
 
 "Sorel."
 
-Sie rief seinen Namen ohne Nachdenken, weil er der einzige im Kreis war, dessen Hände etwas machten, das sie nicht verstand, und weil ihr Körper in den letzten drei Sekunden begriffen hatte, dass er ihr etwas gab, was die Farne gebraucht hatten.
+Sie rief seinen Namen ohne Nachdenken. Sein Licht war das, was die Farne gebraucht hatten.
 
 Er hörte es. Er hatte die rechte Hand halb in der Luft, den Reflex zum zweiten Strahl, und er hielt ihn an.
 
@@ -245,7 +245,7 @@ Alphina stand langsam auf. Die Knie knackten einmal. Hinter ihr hörte sie Sorel
 
 "Maren."
 
-Sie ging die sechs Schritte zu Maren hinüber, ohne zu fragen, und kniete neben ihr, und nahm die gute rechte Hand von der blutenden Schulter, und legte ihre eigene an die Stelle, an der das Blut aus der Wunde in den Stoff trat. Die Bewegung saß in den Händen, sie hatte sie einmal an Sorel gelernt, und die Hand wusste den Rest.
+Sie ging die sechs Schritte zu Maren hinüber, ohne zu fragen, und kniete neben ihr, und nahm die gute rechte Hand von der blutenden Schulter, und legte ihre eigene an die Stelle, an der das Blut aus der Wunde in den Stoff trat. Die Bewegung saß in den Händen, sie hatte sie einmal an Sorel gelernt.
 
 "Das reißt —"
 
@@ -313,7 +313,7 @@ Alphina drehte sich zu ihr. "Woher?"
 
 Sie ließ es an der Stelle stehen. Sie schaute noch einmal zur Skulptur, dann zu Sorel, dann zu Vesper, dann kehrte sie den Blick in sich zurück. Ihr Kiefer war hart, der gute Arm trug die Jacke und den eigenen Körper, und sie stand.
 
-Sorel hatte inzwischen die kleine Kamera vom Boden aufgehoben, nicht um zu fotografieren, nur um sie in die rechte Hand zu nehmen. Das war seine Antwort an den eigenen Körper — das vertraute Gewicht an der vertrauten Stelle, damit die Hand wieder wusste, zu wem sie gehörte. Er hielt sie zwei Atemzüge lang, ohne den Deckel zu öffnen. Dann ließ er sie am Riemen hängen.
+Sorel hatte inzwischen die kleine Kamera vom Boden aufgehoben, nicht um zu fotografieren, nur um sie in die rechte Hand zu nehmen. Das vertraute Gewicht an der vertrauten Stelle. Er hielt sie zwei Atemzüge lang, ohne den Deckel zu öffnen. Dann ließ er sie am Riemen hängen.
 
 Er trat an die Skulptur heran, einen Schritt, prüfte die Luft um sie herum. Das Licht fiel auf das Holz in einer Wellenlänge, die er aus keinem Garten kannte. Nicht Nachmittag, nicht Dämmerung. Das Holz stand zugleich im Mai und im Oktober.
 
