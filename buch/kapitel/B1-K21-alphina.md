@@ -186,7 +186,7 @@ Aus den Fugen zwischen den Steinen, dort wo der Putz abgesprungen war und der Pu
 
 Sie hielt den Atem nicht an. Sie sagte nichts. Sie sah den Wedel, der am nächsten war, über seine Schulter, und der Wedel bog sich leicht zu ihr, und sie ließ ihn.
 
-Er sah es einen Moment später. Sie spürte es, weil seine Hand an ihrer Wange kurz innehielt, weil sein Blick an ihr vorbei ging, weil sein Atem sich veränderte. Dann kam der Blick zurück zu ihr, und in dem Zurückkommen lag keine Frage. Er hatte die Farne gesehen und entschieden, dass sie jetzt nicht das Thema waren.
+Er sah es einen Moment später. Sie spürte es, weil seine Hand an ihrer Wange kurz innehielt, weil sein Blick an ihr vorbei ging, weil sein Atem sich veränderte. Dann kam der Blick zurück zu ihr, und in dem Zurückkommen lag keine Frage. Er hatte die Farne gesehen.
 
 Er sagte nichts. Er nannte es nicht.
 
@@ -226,7 +226,7 @@ Er sagte es in Richtung Decke, nicht an sie. Seine Hand fand ihre Schulter, zog 
 
 "Du bleibst."
 
-Er merkte das Wort selbst nicht. Er korrigierte es nicht. Er sagte es, und danach war es da, und sie hörte, dass es da war, und sie machte keinen Moment daraus.
+Er korrigierte es nicht. Er sagte es, und danach war es da, und sie machte keinen Moment daraus.
 
 Sie sagte nichts.
 
@@ -234,7 +234,7 @@ Sein Daumen strich über ihren Oberarm, hin und her, langsam, eine Bewegung die 
 
 "Morgen mache ich die Kampfplatten fertig. Die aus dem Garten."
 
-Das war das Beiläufige. Zukunft in einem Nebensatz, eine Kleinigkeit die er auspackte als wäre es selbstverständlich, dass sie in dieser Zukunft noch auftauchte — dass es ein Morgen gab, dass er Platten entwickeln würde, dass sie davon erfahren würde.
+Zukunft in einem Nebensatz — als wäre es selbstverständlich, dass sie noch auftauchte.
 
 Sie schloss die Augen.
 
@@ -242,7 +242,7 @@ Sie schloss die Augen.
 
 Sie blieb noch eine Weile liegen. Lange genug, dass die Farne an der Wand ihre Wedel zu ihr neigten und so blieben, lange genug, dass sein Atem unter ihrer Wange sich verlangsamte bis an die Grenze zum Schlaf. Seine Finger lagen in ihren Haaren, bewegten sich nicht. In den Becken an der Wand stand die Flüssigkeit ruhig, und das Rotlicht der Öllampe flackerte einmal kurz.
 
-Dann setzte sie sich auf, zog den Mantel an, knöpfte ihn zu, während er ihr von der Seite zusah, ohne etwas zu sagen, ohne sie zurückzuziehen. Ihre Finger waren langsam an den Hornknöpfen, und sie merkte, dass die Langsamkeit keine Unentschlossenheit war. Sie knöpfte in dem Tempo in dem man eine Sache zu Ende bringt an der man festhält.
+Dann setzte sie sich auf, zog den Mantel an, knöpfte ihn zu, während er ihr von der Seite zusah, ohne etwas zu sagen, ohne sie zurückzuziehen. Ihre Finger waren langsam an den Hornknöpfen, und sie merkte, dass die Langsamkeit keine Unentschlossenheit war.
 
 An der Tür drehte sie sich noch einmal um. Er saß halb aufgerichtet auf den Dielen, das Hemd offen, die Haare im Rotlicht fast schwarz. Er hatte die sechzehnte Platte nicht weggeräumt. Sie lag noch auf der Arbeitsfläche, zwischen den anderen, und im Rotlicht sah die Haut auf der Platte nicht heller aus als der Rest.
 
