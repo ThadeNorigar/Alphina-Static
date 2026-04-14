@@ -9,7 +9,7 @@ Die Pflanzen reagierten zu schnell.
 
 Das hatte sie schon an den letzten vier Tagen bemerkt, in kleinen Übertreibungen: ein Farn, der seinen Wedel einen halben Finger zu weit zur Seite kippte, wenn sie vorbeiging; ein Ableger am Nordrand, der zu prompt auf ihren Blick antwortete. Heute standen die Hortensien am Weg in einer Haltung, die man nicht hätte Haltung nennen dürfen, wenn es Pflanzen waren. Sie gingen nicht auf sie zu. Sie standen zu ihr hin.
 
-Sie legte die Hand auf den Kies, nicht demonstrativ, nur weil die Hand es wollte, und sprach in sich hinein den Satz, mit dem sie in Velde die Treibhäuser ruhig gesprochen hatte, wenn vor einer Lieferung die Stängel sich zu früh reckten. *Ruhig jetzt.* Kein lautes Wort, eher ein Wille, der durch die Fußsohlen in die Erde ging, den gewohnten Kanal. Die Farne an der Nordmauer gaben nach, einer nach dem anderen, und die Hortensien setzten sich eine halbe Daumenbreit zurück.
+Sie legte die Hand auf den Kies und sprach in sich hinein den Satz. *Ruhig jetzt.* Kein lautes Wort, eher ein Wille, der durch die Fußsohlen in die Erde ging, den gewohnten Kanal. Die Farne an der Nordmauer gaben nach, einer nach dem anderen, und die Hortensien setzten sich eine halbe Daumenbreit zurück.
 
 Sie blieb auf dem Kies, einen Atemzug. Die Stille, die danach kam, war nicht Ruhe. Sie war zu sauber.
 
