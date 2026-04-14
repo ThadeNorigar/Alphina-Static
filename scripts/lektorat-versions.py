@@ -35,7 +35,16 @@ def get_file_at(ref, path):
         return ""
 
 
+_KAPITEL_FEAT_RE = re.compile(r"^feat\(B\d-K[\w\d]+\)")
+
+
 def last_feat_commit(path):
+    """Letzter kapitel-spezifischer feat-Commit (feat(Bx-Ky): ...).
+
+    Andere feat-Commits (z.B. feat(reader): ...) werden ignoriert — sonst
+    verschiebt sich die Basis, wenn andere feat-Commits die Datei zufaellig
+    beruehren.
+    """
     try:
         out = subprocess.check_output(
             ["git", "log", "--format=%H %s", HEAD_REF, "--", path],
@@ -45,7 +54,7 @@ def last_feat_commit(path):
         return None
     for line in out.splitlines():
         h, _, msg = line.partition(" ")
-        if msg.startswith("feat"):
+        if _KAPITEL_FEAT_RE.match(msg):
             return h
     return None
 
