@@ -109,6 +109,7 @@ Pro Szene aus dem Entwurf:
    - Stakkato-Limit eingehalten (max 2-3 Fragmentpassagen)
    - POV-Berufslinse durchgehalten (Botanikerin sieht Wachstum, nicht Belichtung)
    - Eigennamen im Text eingefuehrt (Sorel-Prinzip)
+   - **Grammatik-Klarheits-Test ausgeführt** (Doppelrelativpronomen, Tautologien, Sinnfrage, KonjunktivII-Klauseln, Berufslinsen-Metaphern — siehe Abschnitt unten)
 4. **KEIN Szenen-Council zwischendurch.** Die Pruefungen kommen am Ende.
 
 ### Anti-Patterns waehrend des Schreibens aktiv vermeiden
@@ -125,7 +126,31 @@ Siehe `buch/01-autorin-stimme.md` Kapitel 8. Die folgenden Muster entstehen beim
 8. **Doppelpunkt-Pointe-Tic:** `X. Das war Y.` max 2/Kapitel, nie zwei in 10 Zeilen.
 9. **Chroniken-Prophezeiung:** "wuerde ein Datum in den Chroniken werden" / "wuerde er sich spaeter erinnern" — Sorel-Prinzip.
 
-**Test nach jeder Szene:** Letzten Satz jedes Absatzes anschauen. Wenn er das vorhergehende Bild kommentiert oder generalisiert — streichen.
+**Test nach jeder Szene — Inhalt:** Letzten Satz jedes Absatzes anschauen. Wenn er das vorhergehende Bild kommentiert oder generalisiert — streichen.
+
+### Grammatik-Klarheits-Test (nach jeder Szene, ZWINGEND)
+
+Dieser Test fängt **accidentelle** Satzbrüche — nicht inhaltliche Anti-Patterns, sondern Konstruktionen, die während der Generierung grammatisch oder logisch kaputt gegangen sind. 60 Sekunden, jeden Satz über 20 Wörtern:
+
+1. **Doppeltes Relativpronomen:** `[Nomen], [die/der/das] [die/der/das]` in einem Satz? Fast immer gebrochen. → Zwei Sätze.
+   - Beispiel-Bruch: *"eine Stille zwischen sich, die die Grillen weitersangen"* — "die" referiert auf Stille, aber "Grillen sangen" braucht Grillen als Subjekt → zerfällt.
+
+2. **Tautologie / Zirkellogik:** Sagt der Satz etwas, das sich zwingend aus sich selbst ergibt?
+   - Beispiel-Bruch: *"ein Farn wächst nicht, an dem er nicht steht"* — natürlich nicht, wo er nicht steht, steht er nicht. Konkretisieren.
+
+3. **Sinnfrage:** Was sagt dieser Satz konkret? Auf 5 Wörter komprimieren — was bleibt? Wenn nichts Substanzielles bleibt → streichen.
+   - Beispiel-Bruch: *"wie etwas, das schon unterwegs war, bevor ich es bestellt habe"* — bedeutet: ich hab es nicht gewollt. Dann das schreiben.
+
+4. **Konjunktiv-II-Erklär-Klausel:** Endet der Satz mit `weil [X] nicht [Y] hätte/wäre/könnte`? → In 90% der Fälle Füllmaterial. Streichen.
+   - Beispiel-Bruch: *"stieg nicht in den Kopf, weil der Kopf ihn nicht gebraucht hätte"* → *"stieg nicht in den Kopf."*
+
+5. **Berufslinsen-Metapher:** Woher kommt dieses Bild? Gehört es zum Beruf dieser POV-Figur?
+   - Alphina (Botanikerin): Wachstum, Wurzeln, Triebe, Druck. KEIN Kran, keine Belichtung, kein Takt.
+   - Sorel (Fotograf): Licht, Belichtung, Tonwert, Winkel. KEIN Pflanzenwachstum.
+   - Vesper (Uhrmacher): Takt, Toleranz, Passung, Frequenz. KEINE Strömung.
+   - Maren (Schiffbauerin): Strömung, Holz, Zug, Gezeiten. KEINE Sterndeutung.
+
+6. **Verschachtelte Relativkette:** Mehr als zwei Einschübe in einem Satz? → Aufbrechen. Jeder Einschub kostet Leserin-Kapazität; die zweite Verschachtelung fast immer zu viel.
 
 ### Harte Regeln waehrend der Ausarbeitung
 
