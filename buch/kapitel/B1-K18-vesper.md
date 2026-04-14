@@ -4,7 +4,7 @@
 
 Die Petroleumlampe stand auf der dritten Rille des Reparaturtischs, weil das Licht von dort am saubersten auf die Samtrolle fiel. Vesper hatte vor einer halben Stunde die Krone aus dem Chronometer gezogen und die Welle freigelegt. Der Besitzer, ein Hafenmeister von der Reede, wollte sie morgen um neun abholen. Das Werk war nicht schwer — ein trockenes Federhauslager, das schon zweimal zuvor trocken geworden war und das er diesmal ein letztes Mal schmieren, beim übernächsten Mal aber austauschen würde.
 
-Die Hand auf dem Tuch war ruhig. Der Mechanismus auch. Trotzdem hatte er sich in der letzten halben Stunde zweimal beim Zählen vertan.
+Die Hand auf dem Tuch war ruhig. Der Mechanismus auch. Trotzdem hatte er sich in der letzten halben Stunde zweimal beim Zählen vertan.Enter = speichern · Esc = abbrechen
 
 Das Bild war da, ob er es rief oder nicht: der Becher auf dem Tuch, das Teeblatt, das sich ohne Rühren gehoben hatte, der Dampf aus einem Becher, der kalt gewesen war. Ihre Finger, die sich nicht bewegt hatten. Die Konzentration auf ihrem Gesicht.
 
