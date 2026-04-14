@@ -887,11 +887,8 @@
     }
 
     function turnPage(e, direction, url) {
-      e.preventDefault();
-      const book = document.getElementById('book');
-      book.classList.remove('enter');
-      book.classList.add(direction === 'forward' ? 'turning-forward' : 'turning-back');
-      setTimeout(() => { window.location.href = url; }, 500);
+      if (e && e.preventDefault) e.preventDefault();
+      window.location.href = url;
     }
 
     // ===== Comment UI — privat pro Leser =====
