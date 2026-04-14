@@ -1054,7 +1054,8 @@
       async function loadVersions() {
         if (versionsData) return versionsData;
         try {
-          const r = await fetch(`/story-in-work/lektorat-versions/${kapIdFull()}.json`);
+          const bust = '?t=' + Date.now();
+          const r = await fetch(`/story-in-work/lektorat-versions/${kapIdFull()}.json` + bust);
           if (!r.ok) return null;
           versionsData = await r.json();
           return versionsData;
@@ -1112,6 +1113,20 @@
         diffActive = true;
         showVersion(currentIdx);
       }
+
+      async function reload() {
+        // Nach einem Edit: Versions-JSON neu holen und letzte Version zeigen
+        versionsData = null;
+        const data = await loadVersions();
+        if (!data || !data.versions || data.versions.length === 0) return;
+        populateSelect();
+        showVersion(versionsData.versions.length - 1);
+      }
+
+      window.__alphinaDiffState = {
+        get active() { return diffActive; },
+        reload,
+      };
 
       function deactivate() {
         panel.classList.remove('active');
@@ -1209,8 +1224,18 @@
         delete p.dataset.mdBackup;
       }
 
+      function formatDetail(d) {
+        if (!d) return '';
+        if (typeof d === 'string') return d;
+        if (Array.isArray(d)) {
+          return d.map(e => (e && e.msg) ? `${(e.loc||[]).join('.')}: ${e.msg}` : JSON.stringify(e)).join('; ');
+        }
+        if (typeof d === 'object') return d.msg || JSON.stringify(d);
+        return String(d);
+      }
+
       async function saveEdit(p) {
-        removeHint(p); // WICHTIG: vor textContent-Lesen entfernen
+        removeHint(p);
         const oldMd = p.dataset.mdBackup || '';
         const newMd = p.textContent.trim();
         if (oldMd === newMd) {
@@ -1220,8 +1245,9 @@
         const key = getAdminKey();
         if (!key) { exitEdit(p, true); return; }
         p.classList.add('edit-saving');
+        let resp;
         try {
-          const r = await fetch('/api/edit', {
+          resp = await fetch('/api/edit', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json', 'X-User-Id': key },
             body: JSON.stringify({
@@ -1231,24 +1257,37 @@
               new_text: newMd,
             }),
           });
-          const data = await r.json();
-          p.classList.remove('edit-saving');
-          if (!r.ok) {
-            const msg = (data && data.detail) ? data.detail : ('Fehler ' + r.status);
-            if (r.status === 403) {
-              // Key ungueltig — loeschen, erneut fragen
-              localStorage.removeItem(ADMIN_KEY_STORAGE);
-            }
-            throw new Error(msg);
-          }
-          exitEdit(p, false);
-          p.classList.add('edit-saved');
-          setTimeout(() => p.classList.remove('edit-saved'), 1300);
         } catch (e) {
           p.classList.remove('edit-saving');
           p.classList.add('edit-error');
           setTimeout(() => p.classList.remove('edit-error'), 3000);
-          alert('Speichern fehlgeschlagen: ' + e.message);
+          alert('Netzwerkfehler: ' + (e.message || e));
+          return;
+        }
+        let data = null;
+        try { data = await resp.json(); } catch {}
+        p.classList.remove('edit-saving');
+        if (!resp.ok) {
+          const detail = data ? formatDetail(data.detail) : `HTTP ${resp.status}`;
+          if (resp.status === 403) {
+            localStorage.removeItem(ADMIN_KEY_STORAGE);
+          }
+          p.classList.add('edit-error');
+          setTimeout(() => p.classList.remove('edit-error'), 3000);
+          alert('Speichern fehlgeschlagen (' + resp.status + '): ' + detail);
+          // Im Editiermodus bleiben, damit User korrigieren kann
+          p.contentEditable = 'true';
+          p.classList.add('editing');
+          p.focus();
+          return;
+        }
+        exitEdit(p, false);
+        p.classList.add('edit-saved');
+        setTimeout(() => p.classList.remove('edit-saved'), 1300);
+
+        // Wenn Diff aktiv: Versions neu laden, neue Version zeigen
+        if (window.__alphinaDiffState && window.__alphinaDiffState.active) {
+          window.__alphinaDiffState.reload();
         }
       }
 

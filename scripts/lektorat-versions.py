@@ -169,11 +169,18 @@ def _word_diff_inline(old_text, new_text):
     return "".join(out)
 
 
+def _md_attr(raw):
+    return ' data-md="' + raw.replace("&", "&amp;").replace('"', "&quot;") + '"'
+
+
 def render_diff_html(old_paras, new_paras):
     """Liefert HTML-String mit <p>-Absaetzen und <div class='diff-deleted'>-Bloecken.
 
-    Kommentar-kompatibel: nur <p>-Elemente werden vom Reader-Kommentar-System
-    gezaehlt. Geloeschte Bloecke sind <div> und werden ignoriert.
+    Jedes aktuelle <p> (unchanged/replace/insert) bekommt ein data-md-Attribut
+    mit der aktuellen Markdown-Zeile. Damit kann der Inline-Edit-Modus auch
+    bei aktiver Diff-Ansicht Absaetze bearbeiten.
+
+    Geloeschte Bloecke sind <div>, nicht editierbar.
     """
     a_texts = [p[2] for p in old_paras]
     b_texts = [p[2] for p in new_paras]
@@ -182,9 +189,10 @@ def render_diff_html(old_paras, new_paras):
     for tag, i1, i2, j1, j2 in sm.get_opcodes():
         if tag == "equal":
             for k in range(j1, j2):
-                cls, inner, _ = new_paras[k]
+                cls, inner, raw = new_paras[k]
                 cls_attr = f' class="{cls}"' if cls else ""
-                out.append(f"<p{cls_attr}>{inner}</p>")
+                md = _md_attr(raw) if raw != "---" else ""
+                out.append(f"<p{cls_attr}{md}>{inner}</p>")
         elif tag == "delete":
             for k in range(i1, i2):
                 cls, _, raw = old_paras[k]
@@ -192,13 +200,11 @@ def render_diff_html(old_paras, new_paras):
                 out.append(f'<div{cls_attr}><del>{_inline(raw)}</del></div>')
         elif tag == "insert":
             for k in range(j1, j2):
-                cls, inner, _ = new_paras[k]
-                extra = " diff-inserted" if cls else "diff-inserted"
+                cls, inner, raw = new_paras[k]
                 cls_attr = f' class="{cls} diff-inserted"' if cls else ' class="diff-inserted"'
-                out.append(f'<p{cls_attr}><ins>{inner}</ins></p>')
+                md = _md_attr(raw) if raw != "---" else ""
+                out.append(f'<p{cls_attr}{md}><ins>{inner}</ins></p>')
         elif tag == "replace":
-            # Paarweise mappen: erste new_paras mit old_paras als word-diff,
-            # ueberschuessige old als delete-block, ueberschuessige new als insert.
             old_block = old_paras[i1:i2]
             new_block = new_paras[j1:j2]
             pair_n = min(len(old_block), len(new_block))
@@ -207,17 +213,17 @@ def render_diff_html(old_paras, new_paras):
                 old_raw = old_block[k][2]
                 inner = _word_diff_inline(old_raw, new_raw)
                 cls_attr = f' class="{cls}"' if cls else ""
-                out.append(f"<p{cls_attr}>{inner}</p>")
-            # Rest old als gelöscht
+                md = _md_attr(new_raw) if new_raw != "---" else ""
+                out.append(f"<p{cls_attr}{md}>{inner}</p>")
             for k in range(pair_n, len(old_block)):
                 cls, _, raw = old_block[k]
                 cls_attr = f' class="diff-deleted-block {cls}"' if cls else ' class="diff-deleted-block"'
                 out.append(f'<div{cls_attr}><del>{_inline(raw)}</del></div>')
-            # Rest new als eingefügt
             for k in range(pair_n, len(new_block)):
-                cls, inner, _ = new_block[k]
+                cls, inner, raw = new_block[k]
                 cls_attr = f' class="{cls} diff-inserted"' if cls else ' class="diff-inserted"'
-                out.append(f'<p{cls_attr}><ins>{inner}</ins></p>')
+                md = _md_attr(raw) if raw != "---" else ""
+                out.append(f'<p{cls_attr}{md}><ins>{inner}</ins></p>')
     return "\n".join(out)
 
 
