@@ -67,9 +67,9 @@ Alphina trat in den Kreis und blieb in der Mitte stehen. Die anderen folgten. Ma
 
 "Den Punkt darunter. Der Kreis ist die Oberfläche."
 
-"Die Grauwe ist falsch." Maren sagte es, wie man im Werftverzeichnis einen Balkenriss meldete. "Das Wasser läuft an der Mündung rückwärts, vier Hand­breit unter der Oberfläche, zwei Ellen im Querschnitt, wenn die Tide stimmt. Ich habe es zweimal gegen die Flut gemessen. Ich kann es erwärmen, wenn ich die Hand im Kielraum hab und an nichts denke. Ich wollte es nicht. Es läuft mir aus den Fingern, wie etwas, das schon unterwegs war, bevor ich es bestellt habe."
+"Die Grauwe ist falsch." Maren sagte es, wie man im Werftverzeichnis einen Balkenriss meldete. "Das Wasser läuft an der Mündung rückwärts, vier Hand­breit unter der Oberfläche, zwei Ellen im Querschnitt, wenn die Tide stimmt. Ich habe es zweimal gegen die Flut gemessen. Ich kann es erwärmen, wenn ich die Hand im Kielraum hab und an nichts denke. Ich wollte es nicht. Es läuft mir aus den Fingern. Ich habe es nicht bestellt."
 
-Vesper sah sie an. Kein Nicken.
+Vesper sah sie an.
 
 Alphina hörte ihre eigene Stimme zu früh einsetzen, eine halbe Phrase zu früh, und ließ sie trotzdem stehen.
 
@@ -85,7 +85,7 @@ Maren drehte den Kopf zu ihm. "Ein Wesen?"
 
 "Ich habe eines im Kielraum gehört." Maren sagte es ohne Gewicht. "Schritte auf nassem Holz, wo kein Holz nass war. Ich habe es nicht gesehen. Haron hat, glaube ich."
 
-Vesper nickte, knapp, und ließ es liegen. Die vier standen eine Stille zwischen sich, die die Grillen am Fuß des Hügels unbeeindruckt weitersangen. Die Sonne schob sich eine Handbreit tiefer. Der süße Geruch lag inzwischen auf Bodenhöhe, dicker als vorher.
+Vesper nickte, knapp, und ließ es liegen. Die vier standen da, Stille zwischen sich. Die Grillen am Fuß des Hügels sangen unbeeindruckt weiter. Die Sonne schob sich eine Handbreit tiefer. Der süße Geruch lag inzwischen auf Bodenhöhe, dicker als vorher.
 
 Alphina sah sich um. Nichts bewegte sich im Garten, außer den Wedeln, die der Wind bewegte. Keine Eidechse auf den warmen Steinen, wo sonst immer zwei oder drei lagen. Keine Wespe an den Früchten des kleinen Apfelbaums am Südhang. Keine Amsel im Gebüsch.
 
@@ -125,11 +125,11 @@ Die Kante schloss sich. Die Luft wurde wieder Luft.
 
 Und dann stand das Ding im Kreis.
 
-Es war nicht hindurchgekommen — Alphina wusste es, wie sie wusste, dass ein Farn nicht wuchs, an dem er nicht stand. Es war schon hier gewesen. Es hatte auf seine Kante gewartet. Drei Meter, vielleicht vier, in der Schulterhöhe, und es hatte eine Schulter, auch wenn die Schulter aus einer Art Dunkelheit gegossen war, die nicht die Dunkelheit des Schattens war. Es hatte einen tierisch gezogenen Kopf, länger als ein Menschenkopf, mit einer Schnauze, in der keine Zähne zu sehen waren. Es hatte Arme, deren Finger erst aus der Hand wuchsen, wenn sie gebraucht wurden. Die Haltung war die eines Menschen auf zwei Beinen, die Ausführung die eines Tiers, das zum ersten Mal stand.
+Es war nicht hindurchgekommen — Alphina wusste es, wie sie wusste, dass ein Farn nicht wuchs, wo er keine Wurzel hatte. Es war schon hier gewesen. Es hatte auf seine Kante gewartet. Drei Meter, vielleicht vier, in der Schulterhöhe, und es hatte eine Schulter, auch wenn die Schulter aus einer Art Dunkelheit gegossen war, die nicht die Dunkelheit des Schattens war. Es hatte einen tierisch gezogenen Kopf, länger als ein Menschenkopf, mit einer Schnauze, in der keine Zähne zu sehen waren. Es hatte Arme, deren Finger erst aus der Hand wuchsen, wenn sie gebraucht wurden. Die Haltung war die eines Menschen auf zwei Beinen, die Ausführung die eines Tiers, das zum ersten Mal stand.
 
 Maren war am nächsten.
 
-Der Arm zog, und die Finger wuchsen im Zug, und die Schattenklaue traf Marens linke Schulter, in einem Bogen, den man an einem Kran gemessen hätte.
+Der Arm zog, und die Finger wuchsen im Zug, und die Schattenklaue traf Marens linke Schulter, in einem Bogen, den ein umstürzender Baum beschreibt.
 
 Maren flog.
 
@@ -197,7 +197,7 @@ Sie atmete aus, gesammelt.
 
 *Haltet es fest.*
 
-Es war kein Satz. Der Gedanke saß im Bauch, zwischen der zweiten und der dritten Rippe, und stieg nicht in den Kopf, weil der Kopf ihn nicht gebraucht hätte. Sie stellte den Willen in die Handflächen, und durch die Handflächen in die Erde, und durch die Erde — zum ersten Mal so — in das gestreute Licht, das Sorel über den Boden legte.
+Es war kein Satz. Der Gedanke saß im Bauch, zwischen der zweiten und der dritten Rippe, und stieg nicht in den Kopf. Sie stellte den Willen in die Handflächen, und durch die Handflächen in die Erde, und durch die Erde — zum ersten Mal so — in das gestreute Licht, das Sorel über den Boden legte.
 
 Die Wurzeln kamen.
 
@@ -329,13 +329,13 @@ Vesper nickte, knapp. Maren nickte auch.
 
 Sorel zog das Stativ unter Marens Arm weg, schob es sich über die eigene Schulter, nahm die kleine Kamera mit der rechten Hand, und ging einen halben Schritt vor Alphina her Richtung Tor.
 
-Auf dem Kies war der erste Abdruck seiner Schritte eine Linie. Alphinas Abdruck neben ihm — sie fing an, aus dem Kreis zu gehen, und sah es im Nebenblick — war eine Linie, die zu seiner in einem stetigen Abstand lief.
+Auf dem Kies war der erste Abdruck seiner Schritte eine Linie. Alphinas Abdruck neben ihm — sie fing an, aus dem Kreis zu gehen, und sah es im Nebenblick — war eine Linie, die in gleichmäßigem Abstand neben seiner lief.
 
 Sie hielten den Abstand.
 
 Sie hielten ihn bis zum Tor.
 
-Am Tor wartete Maren, eine Hand an der Steinkante, die andere — die ganze Arm­länge gegen die Schulter gelegt, damit der Stoff nicht weiter riss. Vesper kam als Letzter. Er trug das Stativ, weil Sorel es ihm auf dem letzten Stück schwei­gend in die rechte Hand gegeben hatte, und weil Vesper die Hand frei gehabt hatte.
+Am Tor wartete Maren, eine Hand an der Steinkante, die andere an die Schulter gepresst, damit der Stoff nicht weiter riss. Vesper kam als Letzter. Er trug das Stativ, weil Sorel es ihm auf dem letzten Stück schwei­gend in die rechte Hand gegeben hatte, und weil Vesper die Hand frei gehabt hatte.
 
 Alphina drehte den Schlüssel im Schloss. Einmal, zweimal, das präzise Klicken, das sie im Mai gekannt hatte, in umgekehrter Richtung. Sie zog den Schlüssel ab und schloss die Hand darum.
 
