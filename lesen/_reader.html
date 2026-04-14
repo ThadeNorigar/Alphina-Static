@@ -394,6 +394,51 @@
     .prose .diff-deleted-block del { background: transparent; color: inherit; }
     .prose .diff-inserted { border-left: 2px solid rgba(46,139,87,0.3); padding-left: 0.6rem; margin-left: -0.8rem; }
 
+    /* ===== Edit-Modus ===== */
+    body.edit-mode .prose p:not(.scene-break):not(.date-line) {
+      cursor: text;
+      border-left: 2px dashed transparent;
+      padding-left: 0.6rem;
+      margin-left: -0.8rem;
+      transition: border-color 0.2s;
+    }
+    body.edit-mode .prose p:not(.scene-break):not(.date-line):hover {
+      border-left-color: rgba(107,58,58,0.3);
+    }
+    .prose p.editing {
+      border-left: 2px solid var(--accent) !important;
+      background: rgba(107,58,58,0.03);
+      outline: none;
+    }
+    .prose p.edit-saving { opacity: 0.5; }
+    .prose p.edit-saved {
+      animation: edit-flash 1.2s ease-out;
+    }
+    @keyframes edit-flash {
+      0%   { background: rgba(46,139,87,0.18); }
+      100% { background: transparent; }
+    }
+    .prose p.edit-error {
+      border-left: 2px solid #b00 !important;
+      background: rgba(176,0,0,0.04);
+    }
+    .edit-hint {
+      display: none;
+      position: absolute;
+      right: 0; top: -1.4rem;
+      font-family: 'Inter', sans-serif;
+      font-size: 0.65rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--smoke);
+      background: var(--paper);
+      padding: 0.15rem 0.5rem;
+      border-radius: 2px;
+      border: 1px solid var(--paper-edge);
+      white-space: nowrap;
+    }
+    .prose p.editing .edit-hint { display: block; }
+
     /* ===== Comment UI ===== */
     .prose p { position: relative; }
 
@@ -509,6 +554,7 @@
     </div>
 
     <div class="diff-toggle-row" id="diff-toggle-row" style="display:none;">
+      <button class="diff-toggle" id="edit-toggle" type="button" style="margin-right:0.4rem;">Absätze editieren</button>
       <button class="diff-toggle" id="diff-toggle" type="button">Änderungen ansehen</button>
     </div>
     <div class="diff-panel" id="diff-panel">
@@ -701,7 +747,7 @@
             const commentModus = useEntwurf ? 'entwurf' : 'final';
             container.dispatchEvent(new CustomEvent('chapter-rendered', {
               bubbles: true,
-              detail: { container, commentModus }
+              detail: { container, commentModus, targetDatei, useEntwurf }
             }));
           });
       });
@@ -733,6 +779,10 @@
       }
       return html;
     }
+    function attrMd(line) {
+      // Original-Markdown als data-md speichern (fuer Inline-Edit)
+      return ' data-md="' + line.replace(/&/g,'&amp;').replace(/"/g,'&quot;') + '"';
+    }
     function renderProsa(lines) {
       let html = '';
       let isFirst = true;
@@ -750,15 +800,16 @@
         let processed = line.replace(/\*([^*]+)\*/g, '<em>$1</em>');
         const isDialog = line.startsWith('"') || line.startsWith('\u201e') || line.startsWith('\u00ab');
         const isDateLine = isFirst && /^\*[^*]+\*$/.test(line);
+        const md = attrMd(line);
         if (isDateLine) {
-          html += '<p class="date-line">' + processed + '</p>';
+          html += '<p class="date-line"' + md + '>' + processed + '</p>';
         } else if (isFirst) {
-          html += '<p class="opening">' + processed + '</p>';
+          html += '<p class="opening"' + md + '>' + processed + '</p>';
           isFirst = false;
         } else if (isDialog) {
-          html += '<p class="dialog">' + processed + '</p>';
+          html += '<p class="dialog"' + md + '>' + processed + '</p>';
         } else {
-          html += '<p>' + processed + '</p>';
+          html += '<p' + md + '>' + processed + '</p>';
         }
       }
       return html;
@@ -1021,6 +1072,172 @@
         const data = await loadVersions();
         if (data && data.versions && data.versions.length > 0) {
           toggleRow.style.display = 'block';
+        }
+      });
+    }
+
+    // ===== Inline-Edit (Autor-only, WIP-Modus) =====
+    {
+      const ADMIN_KEY_STORAGE = 'alphina_edit_admin_key';
+      const editToggle = document.getElementById('edit-toggle');
+      let editMode = false;
+      let currentDatei = null;
+      let currentKapitelId = null;
+
+      function getAdminKey(forcePrompt=false) {
+        let k = forcePrompt ? null : localStorage.getItem(ADMIN_KEY_STORAGE);
+        if (!k) {
+          k = prompt('Admin-Key für Edits (wird im Browser gespeichert):');
+          if (k) { localStorage.setItem(ADMIN_KEY_STORAGE, k.trim()); k = k.trim(); }
+        }
+        return k || null;
+      }
+
+      function renderInline(md) {
+        return md
+          .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+          .replace(/\*([^*]+)\*/g, '<em>$1</em>');
+      }
+
+      function enterEdit(p) {
+        if (p.classList.contains('editing')) return;
+        const md = p.dataset.md || p.textContent;
+        p.dataset.mdBackup = md;
+        // Kommentar-Trigger raus, sonst landet er im textContent
+        const trigger = p.querySelector('.comment-trigger');
+        if (trigger) trigger.remove();
+        p.textContent = md;
+        p.contentEditable = 'true';
+        p.classList.add('editing');
+        const hint = document.createElement('span');
+        hint.className = 'edit-hint';
+        hint.textContent = 'Enter = speichern · Esc = abbrechen';
+        p.appendChild(hint);
+        // Cursor ans Ende
+        const range = document.createRange();
+        range.selectNodeContents(p);
+        range.collapse(false);
+        const sel = window.getSelection();
+        sel.removeAllRanges();
+        sel.addRange(range);
+        p.focus();
+      }
+
+      function exitEdit(p, revert) {
+        const hint = p.querySelector('.edit-hint');
+        if (hint) hint.remove();
+        p.contentEditable = 'false';
+        p.classList.remove('editing');
+        const md = revert ? (p.dataset.mdBackup || '') : p.textContent.trim();
+        p.dataset.md = md;
+        p.innerHTML = renderInline(md);
+        delete p.dataset.mdBackup;
+      }
+
+      async function saveEdit(p) {
+        const oldMd = p.dataset.mdBackup || '';
+        const newMd = p.textContent.trim();
+        if (oldMd === newMd) {
+          exitEdit(p, true);
+          return;
+        }
+        const key = getAdminKey();
+        if (!key) { exitEdit(p, true); return; }
+        p.classList.add('edit-saving');
+        try {
+          const r = await fetch('/api/edit', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json', 'X-User-Id': key },
+            body: JSON.stringify({
+              datei: currentDatei,
+              kapitel_id: currentKapitelId,
+              old_text: oldMd,
+              new_text: newMd,
+            }),
+          });
+          const data = await r.json();
+          p.classList.remove('edit-saving');
+          if (!r.ok) {
+            const msg = (data && data.detail) ? data.detail : ('Fehler ' + r.status);
+            if (r.status === 403) {
+              // Key ungueltig — loeschen, erneut fragen
+              localStorage.removeItem(ADMIN_KEY_STORAGE);
+            }
+            throw new Error(msg);
+          }
+          exitEdit(p, false);
+          p.classList.add('edit-saved');
+          setTimeout(() => p.classList.remove('edit-saved'), 1300);
+        } catch (e) {
+          p.classList.remove('edit-saving');
+          p.classList.add('edit-error');
+          setTimeout(() => p.classList.remove('edit-error'), 3000);
+          alert('Speichern fehlgeschlagen: ' + e.message);
+        }
+      }
+
+      function onDoubleClick(ev) {
+        if (!editMode) return;
+        const p = ev.target.closest('.prose p');
+        if (!p) return;
+        if (p.classList.contains('scene-break') || p.classList.contains('date-line')) return;
+        if (p.classList.contains('diff-deleted-block')) return;
+        if (!p.dataset.md) return;
+        ev.preventDefault();
+        enterEdit(p);
+      }
+
+      function onKeydown(ev) {
+        const p = ev.target.closest('.prose p.editing');
+        if (!p) return;
+        if (ev.key === 'Escape') {
+          ev.preventDefault();
+          exitEdit(p, true);
+        } else if (ev.key === 'Enter' && !ev.shiftKey) {
+          ev.preventDefault();
+          saveEdit(p);
+        }
+      }
+
+      function onBlur(ev) {
+        const p = ev.target.closest('.prose p.editing');
+        if (!p) return;
+        // Kurzer Delay — falls Click auf einen Hint etc.
+        setTimeout(() => {
+          if (p.classList.contains('editing') && document.activeElement !== p) {
+            saveEdit(p);
+          }
+        }, 80);
+      }
+
+      document.addEventListener('dblclick', onDoubleClick);
+      document.addEventListener('keydown', onKeydown);
+      document.addEventListener('blur', onBlur, true);
+
+      function setEditMode(on) {
+        editMode = on;
+        document.body.classList.toggle('edit-mode', on);
+        editToggle.classList.toggle('active', on);
+        editToggle.textContent = on ? 'Editieren beenden' : 'Absätze editieren';
+      }
+
+      editToggle.addEventListener('click', () => {
+        if (!editMode) {
+          // Key beim ersten Aktivieren anfordern
+          if (!getAdminKey()) return;
+        }
+        setEditMode(!editMode);
+      });
+
+      document.addEventListener('chapter-rendered', (e) => {
+        if (!isWip) return;
+        currentDatei = e.detail.targetDatei;
+        currentKapitelId = 'B1-K' + kapId;
+        // Edit-Button nur sichtbar bei Lektorat/Final (targetDatei == datei)
+        if (!e.detail.useEntwurf) {
+          editToggle.style.display = '';
+        } else {
+          editToggle.style.display = 'none';
         }
       });
     }
