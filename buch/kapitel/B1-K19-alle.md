@@ -189,7 +189,7 @@ Er hörte es. Er hatte die rechte Hand halb in der Luft, den Reflex zum zweiten 
 
 Das gebündelte Licht half nicht. Er hatte es gesehen.
 
-Er ließ die Hand sinken, atmete dreimal ein, schloss die Augen für einen Atemzug, öffnete sie — und sah nicht das Wesen an, sondern den Garten. Den Boden, die Erde, den Steinkreis, das Gras. Er nahm die Nachmittagssonne, die schräg durch die Kastanie fiel, und streute sie. Das war das Verb. Er streute Licht über den Boden, gleichmäßig, ohne Mitte, ohne Richtung. Das Licht legte sich über die Erde wie ein zweiter Atem der Erde selbst — diffus, warm, von überall zugleich, unter Glas.
+Er ließ die Hand sinken, atmete dreimal ein, schloss die Augen für einen Atemzug, öffnete sie — und sah nicht das Wesen an, sondern den Garten. Den Boden, die Erde, den Steinkreis, das Gras. Er nahm die Nachmittagssonne, die schräg durch die Kastanie fiel, und streute sie über den Boden, gleichmäßig, ohne Mitte, ohne Richtung. Das Licht legte sich über die Erde wie ein zweiter Atem der Erde selbst — diffus, warm, von überall zugleich, unter Glas.
 
 Alphina spürte es, bevor sie es sah. Die Hände in der Erde wurden heiß.
 
@@ -319,7 +319,7 @@ Vesper nickte an seinem Stein.
 
 Alphina nahm den letzten Blick in die Mitte des Kreises.
 
-Die Skulptur würde stehen. Sie würde Fragen produzieren, die Alphina nicht beantworten konnte.
+Die Skulptur würde stehen.
 
 Unter der Erschöpfung saß etwas, das sie nicht benannte. Die Handflächen lagen warm an den Oberschenkeln, der Atem ging tiefer als vor einer Stunde, die Schultern waren gerader. Vier Menschen, ein Wesen, vierzig Sekunden.
 
