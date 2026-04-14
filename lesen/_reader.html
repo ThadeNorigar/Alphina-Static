@@ -474,22 +474,17 @@
       border-left: 2px solid #b00 !important;
       background: rgba(176,0,0,0.04);
     }
-    .edit-hint {
-      display: none;
-      position: absolute;
-      right: 0; top: -1.4rem;
+    .edit-hint-outside {
       font-family: 'Inter', sans-serif;
       font-size: 0.65rem;
       letter-spacing: 0.1em;
       text-transform: uppercase;
       color: var(--smoke);
-      background: var(--paper);
-      padding: 0.15rem 0.5rem;
-      border-radius: 2px;
-      border: 1px solid var(--paper-edge);
-      white-space: nowrap;
+      margin-top: 0.3rem;
+      margin-bottom: 0.3rem;
+      padding: 0 0 0 0.6rem;
+      text-indent: 0;
     }
-    .prose p.editing .edit-hint { display: block; }
 
     /* ===== Comment UI ===== */
     .prose p { position: relative; }
@@ -1179,16 +1174,17 @@
         if (p.classList.contains('editing')) return;
         const md = p.dataset.md || p.textContent;
         p.dataset.mdBackup = md;
-        // Kommentar-Trigger raus, sonst landet er im textContent
-        const trigger = p.querySelector('.comment-trigger');
-        if (trigger) trigger.remove();
+        // Alle Kinder-Elemente entfernen (Trigger, Popups), damit textContent sauber ist
+        p.innerHTML = '';
         p.textContent = md;
         p.contentEditable = 'true';
         p.classList.add('editing');
-        const hint = document.createElement('span');
-        hint.className = 'edit-hint';
+        // Hint als Geschwister einfügen, NICHT im <p>
+        const hint = document.createElement('div');
+        hint.className = 'edit-hint-outside';
         hint.textContent = 'Enter = speichern · Esc = abbrechen';
-        p.appendChild(hint);
+        p.insertAdjacentElement('afterend', hint);
+        p.dataset.hintAttached = '1';
         // Cursor ans Ende
         const range = document.createRange();
         range.selectNodeContents(p);
@@ -1199,9 +1195,15 @@
         p.focus();
       }
 
+      function removeHint(p) {
+        if (p.dataset.hintAttached === '1' && p.nextElementSibling && p.nextElementSibling.classList.contains('edit-hint-outside')) {
+          p.nextElementSibling.remove();
+        }
+        delete p.dataset.hintAttached;
+      }
+
       function exitEdit(p, revert) {
-        const hint = p.querySelector('.edit-hint');
-        if (hint) hint.remove();
+        removeHint(p);
         p.contentEditable = 'false';
         p.classList.remove('editing');
         const md = revert ? (p.dataset.mdBackup || '') : p.textContent.trim();
@@ -1211,6 +1213,7 @@
       }
 
       async function saveEdit(p) {
+        removeHint(p); // WICHTIG: vor textContent-Lesen entfernen
         const oldMd = p.dataset.mdBackup || '';
         const newMd = p.textContent.trim();
         if (oldMd === newMd) {
