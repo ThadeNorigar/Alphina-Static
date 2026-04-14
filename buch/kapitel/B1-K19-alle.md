@@ -13,27 +13,27 @@ Sie legte die Hand auf den Kies und sprach in sich hinein den Satz. *Ruhig jetzt
 
 Sie blieb auf dem Kies, einen Atemzug. Die Stille, die danach kam, war nicht Ruhe. Sie war zu sauber.
 
-Sie hörte den Schlüssel nicht. Aber sie hörte Vesper.
+Sie hörte den Schlüssel nicht. Aber sie hörte Sorel.
 
-Er kam von der Klippenseite, den Hauptweg herauf, mit dem gleichmäßigen Maß eines Mannes, der wusste, wie weit sein Schritt war. Der graue Rock, die Hände ohne Werkzeug, aber mit dieser Art, sie vor dem Körper zu tragen, als halte er zwischen den Fingern eine halb eingepasste Schraube. Er blieb zwei Schritte vor ihr stehen.
+Er kam von der Klippenseite, den Hauptweg herauf. Das Stativ am Riemen über der rechten Schulter, die kleine Kamera unter demselben Arm, die linke Hand locker am Körper, die Bandage am Handrücken durch das Leinen frischer als sonst, weil er sie vor dem Weg gewechselt hatte. Er blieb zwei Schritte vor ihr stehen.
 
-"Ich habe ihn am Anker abgeholt", sagte er. "Sie kommen gleich. Maren war schon im Treppenhaus."
+Er sagte nichts, bis er vor ihr stand.
 
-"Sorel?"
-
-"Er wartet am Feigenbaum. Er steigt nicht über die Mauer."
-
-"Nicht heute."
-
-"Nicht heute." Vesper sah sie an, einen Lidschlag länger als nötig, wie er es immer tat, wenn er einen Takt prüfte. "Die Pflanzen stehen anders."
+"Vesper kommt mit Maren."
 
 "Ich weiß."
 
-Sie ließ es so stehen. Er nickte, knapp, und drehte sich zum Tor, weil dahinter ein zweiter Tritt auf Stein einsetzte, schwerer, mit der kleinen Schwankung, die Stiefel mit Gummisohlen auf Kies machten.
+Sie ließ es so stehen.
 
-Maren trat durch das Tor, als sei sie schon oft hier gewesen — sie war es nicht. Sie blieb einen halben Schritt innerhalb des Bogens stehen, nahm den Garten in einem Blick auf und ging dann weiter. Werftjacke. Am linken Handgelenk ein Lederriemen, an dem etwas hing, das Alphina auf die Entfernung nicht lesen konnte. Die Hände hingen ruhig, mit der ruhenden Bereitschaft von Händen, die wussten, wann sie gebraucht würden.
+Das Tor öffnete sich wieder. Zwei Tritte auf Kies, unterschiedlich im Gewicht.
 
-"Maren Dahl." Vesper sprach ihren Namen, kurz. "Alphina Veit."
+Vesper kam als Erster durch den Bogen, mit dem gleichmäßigen Maß eines Mannes, der wusste, wie weit sein Schritt war. Der graue Rock, die Hände ohne Werkzeug, aber mit dieser Art, sie vor dem Körper zu tragen, als halte er zwischen den Fingern eine halb eingepasste Schraube. Er blieb einen Schritt hinter der Torkante stehen. "Die Pflanzen stehen anders."
+
+"Ich weiß."
+
+Maren trat hinter ihm durch den Bogen — sie blieb einen halben Schritt innerhalb des Bogens stehen, nahm den Garten in einem Blick auf und ging dann weiter. Werftjacke. Am linken Handgelenk ein Lederriemen, an dem etwas hing, das Alphina auf die Entfernung nicht lesen konnte. Die Hände hingen ruhig, mit der ruhenden Bereitschaft von Händen, die wussten, wann sie gebraucht würden.
+
+"Maren Ilves." Vesper sprach ihren Namen, kurz. "Alphina Veit. Sorel Varlan."
 
 "Die Botanikerin." Marens Stimme hatte die ruhige Kürze eines Menschen, der den Tag in Meter und Minuten rechnete. "Vesper hat gesagt, wir müssen uns kennen."
 
@@ -41,19 +41,13 @@ Maren trat durch das Tor, als sei sie schon oft hier gewesen — sie war es nich
 
 Sie reichte Maren die Hand, und Maren nahm sie mit einem Druck, der weder prüfte noch schonte. Handflächen mit Hornhaut an denselben Stellen wie ihre eigenen. Marens Haut roch nach nassem Holz und nach einem Öl, das Alphina aus der Werkstatt der Druckerei kannte, aber anders gemischt. An dem Lederriemen hing ein winziger, blank geriebener Messing­anker, halb so groß wie ein Fingernagel.
 
-Das Tor klickte zum dritten Mal.
-
-Sorel trat ein, und er trat langsamer als die anderen. Er hatte das Stativ am Riemen über der rechten Schulter, die kleine Kamera unter demselben Arm, die linke Hand locker am Körper, die Bandage am Handrücken durch das Leinen frischer als sonst, weil er sie vor dem Weg gewechselt hatte. Er nahm sie zuerst wahr, Alphina, einen Lidschlag, zwei. Dann Vesper. Dann Maren.
-
-Er sagte nichts, bis er drei Schritte vor der Gruppe war.
-
-"Sorel." Er gab seinen Namen der Frau, die er noch nicht kannte, weil das die Arbeit war, die an ihm lag.
+"Sorel." Er gab der Frau, die er noch nicht kannte, seinen Namen, weil das die Arbeit war, die an ihm lag.
 
 "Maren."
 
 Die beiden gaben einander die Hand, ohne sich zu prüfen, weil keine Zeit blieb, und ließen los.
 
-Alphina sah ihn nicht direkt an. Sie hatte ihn seit einundzwanzig Tagen nicht gesehen — einen kurzen Moment am Steg in der Nacht nach dem Gewitter, kein Wort getauscht, nur ein Blick, und davor der Morgen in seinem Keller, an dem sie die Hand auf die Bandage gelegt hatte und die Hitze darunter sich zu etwas zurückgebogen hatte, das nicht mehr brannte. Sie stand jetzt drei Schritte neben Vesper, in einer Haltung, die sie im Spiegel des Ankers zwanzig Minuten lang an sich geübt hatte, ohne zu wissen, dass sie es übte. Sie sah sein Schulterblatt unter der Jacke, den Streifen Haut zwischen Kragen und Haaransatz, den sie aus der Dunkelkammer kannte, und hielt den Blick zwischen die Gruppe, in die Mitte, wo keine Haut war.
+Alphina sah ihn nicht direkt an. Sie hatte ihn seit zwei Tagen nicht gesehen — einen kurzen Moment am Steg in der Nacht nach dem Gewitter, kein Wort getauscht, nur ein Blick, und davor der Morgen in seinem Keller, an dem sie die Hand auf die Bandage gelegt hatte und die Hitze darunter sich zu etwas zurückgebogen hatte, das nicht mehr brannte. Sie stand jetzt drei Schritte neben Vesper, in einer Haltung, die sie im Spiegel des Ankers zwanzig Minuten lang an sich geübt hatte, ohne zu wissen, dass sie es übte. Sie sah sein Schulterblatt unter der Jacke, den Streifen Haut zwischen Kragen und Haaransatz, den sie aus der Dunkelkammer kannte, und hielt den Blick zwischen die Gruppe, in die Mitte, wo keine Haut war.
 
 Er sah auch nicht hin.
 
