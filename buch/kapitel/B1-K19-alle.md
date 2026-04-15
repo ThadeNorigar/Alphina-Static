@@ -33,7 +33,7 @@ Vesper kam als Erster durch den Bogen, mit dem gleichmäßigen Maß eines Mannes
 
 Eine Frau trat hinter ihm durch den Bogen — sie blieb einen halben Schritt innerhalb des Bogens stehen, nahm den Garten in einem Blick auf und ging dann weiter. Werftjacke. Am linken Handgelenk ein Lederriemen, an dem etwas hing, das Alphina auf die Entfernung nicht lesen konnte. Die Hände hingen ruhig, mit der ruhenden Bereitschaft von Händen, die wussten, wann sie gebraucht würden.
 
-"Maren Ilves." Vesper sprach ihren Namen, kurz. "Alphina Veit. Sorel Varlan."
+"Maren Ilves." Vesper sprach ihren Namen, kurz. "Alphina Fenne. Sorel Varlan."
 
 "Die Botanikerin." Marens Stimme hatte die ruhige Kürze eines Menschen, der den Tag in Meter und Minuten rechnete. "Vesper hat gesagt, wir müssen uns kennen lernen."
 
