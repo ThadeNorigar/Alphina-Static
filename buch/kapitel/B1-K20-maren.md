@@ -46,8 +46,6 @@ Sie trat ein, schloss die Tür hinter sich — nicht ganz, einen halben Finger b
 
 "Ich kann das nicht lesen." Sie sah ihn dabei nicht an. Sie sah auf das Blatt. "Du schon."
 
-Ihre Hände waren leichter, seit das Blatt auf dem Samt lag.
-
 Er antwortete nicht sofort. Er sah auf das Blatt. Dann auf sie. Dann wieder auf das Blatt.
 
 "Darf ich?"
@@ -80,7 +78,7 @@ Er nickte einmal. Zog das Notizbuch zu sich, schlug eine leere Seite auf, nahm e
 
 Sie reichte ihm das Papier mit dem langen Maß, bevor er danach griff. Reichte ihm den feinen Stift, als seine Hand an die Seite der Brusttasche ging. Rückte die Lampe, als das Blatt einen Schatten warf. Sie merkte erst beim dritten Griff, dass sie es tat.
 
-Etwas in ihr war still. Ihre Aufmerksamkeit lag auf seiner nächsten Bewegung.
+Sie sah seinen Bleistift. Sah die kurze Pause vor jedem Strich. Sah die Stelle am Daumen, wo Tinte saß.
 
 Sie merkte, dass er einmal aufsah. Nicht lang. Nicht prüfend. Ein Blick, der einen Atemzug länger dauerte als nötig. Sie senkte den Kopf nicht. Und die Haut an ihrem Hals wurde einen halben Grad wärmer, als wäre die Luft dort in Bewegung gekommen.
 
@@ -158,11 +156,9 @@ Frau Voss legte den Finger nicht auf die Zeile. Sie drehte das Buch so, dass Mar
 
 "Zwei Jahre."
 
-Sie hatte dreimal *Dahl* vor sich, in drei Schreibweisen, in drei Jahrhunderten. Daneben der Randvermerk: *Name bei Übernahme angenommen*. Der Mann auf dem Papier, der ihr fünf Jahre lang geschrieben hatte, und der Mann, dem der Name gehört hatte, war ein anderer gewesen als der, der ihn getragen hatte.
+Sie hatte dreimal *Dahl* vor sich, in drei Schreibweisen, in drei Jahrhunderten. Daneben der Randvermerk: *Name bei Übernahme angenommen*.
 
 Haron Dahl war nicht Haron gewesen.
-
-Der Name, den sie in fünf Jahren gelesen hatte — am Briefkopf, an der Unterschrift, im Vertrag, den Edric ihr in der ersten Woche vorgelesen hatte. Der Mann darunter hatte einen anderen Namen gehabt.
 
 Etwas unter ihrem Brustbein stand schief. Ein Griff, der in die Luft gefasst hatte und kein Holz fand.
 
@@ -172,7 +168,7 @@ Maren atmete einmal ein. Das Brustbein richtete sich. Der Name war kein Halt gew
 
 "Dahl ist ein Vaeler Name." Frau Voss sprach ruhig, sie wertete nicht. "Lene Dahls Familie hat die Werft seit fast vierhundert Jahren, eine ununterbrochene Linie. Die anderen Eintragungen — die von einhundertneunundvierzig, die von zweihundertfünfundvierzig — sind nicht dieselbe Familie. Der Name taucht auf. Die Person ist eine Weile da. Dann ist sie wieder weg."
 
-"Haron hat Lene's Werft übernommen." Vesper sagte es zur Bestätigung, ohne Frage.
+"Haron hat Lenes Werft übernommen." Vesper sagte es zur Bestätigung, ohne Frage.
 
 "Ja. Die Übernahme ist dokumentiert. Der Name wurde bei der Übernahme angenommen. Vorher hatte er einen anderen." Sie tippte mit der Fingerspitze neben den Randvermerk, ohne das Papier zu berühren. "Der steht nicht hier. Er steht vielleicht in einem der Nebenregister. Ich müsste nachsehen." Sie blätterte eine Seite zurück, las eine Notiz halblaut: "*Eintrag mit Hilfe geleistet — der Antragsteller verfügte über die Landessprache nur eingeschränkt.*" Sie sah auf. "Das ist von der Hand des Schreibers, der ihn registriert hat. Er hat das oft notiert, wenn jemand erst seit kurzem da war."
 
@@ -214,7 +210,7 @@ Das Wasser antwortete. Ohne dass sie die Finger senkte. Eine Kräuselung, dort, 
 
 Vesper stand zwei Schritte hinter ihr. Er sprach nicht. Die Sohle seines Stiefels setzte nicht um. Er sah das Wasser. Oder er sah ihren Rücken. Sie wusste nicht, was er sah. Sie brauchte es nicht zu wissen.
 
-Etwas in ihr, das immer weggegangen war, stand jetzt. Es stand auf dem Holz des Uferwegs, in der Hocke, mit dem Finger eine Daumenbreite über dem Wasser, und es ging nicht weg.
+Sie blieb. Auf dem Holz des Uferwegs, in der Hocke, mit dem Finger eine Daumenbreite über dem Wasser. Sie blieb.
 
 Sie stand auf. Die Kniee meldeten sich, das Holz unter ihren Sohlen gab eine halbe Rille nach, weil die Dielen an diesem Teil des Wegs weich waren von der Feuchte. Sie drehte sich nicht zu ihm. Sie ging weiter, und er ging weiter. Oben am Speicherbau, zwischen den fensterlosen Wänden des Lichthauses, brannte ein einzelnes schmales Licht, das auf dem Wasser als gelber Strich lag. Sie sah einmal hin. Dann ging sie weiter.
 
