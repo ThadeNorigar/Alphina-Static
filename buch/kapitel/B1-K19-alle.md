@@ -7,7 +7,7 @@ Alphina trat als Erste durch das grüne Haupttor. Sie hatte den Schlüssel eine 
 
 Die Pflanzen reagierten zu schnell.
 
-Das hatte sie schon an den letzten vier Tagen bemerkt, in kleinen Übertreibungen: ein Farn, der seinen Wedel einen halben Finger zu weit zur Seite kippte, wenn sie vorbeiging; ein Ableger am Nordrand, der zu prompt auf ihren Blick antwortete. Heute standen die Hortensien am Weg in einer Haltung, die man nicht hätte Haltung nennen dürfen, wenn es Pflanzen waren. Sie gingen nicht auf sie zu. Sie standen zu ihr hin.
+Das hatte sie schon an den letzten vier Tagen bemerkt, in kleinen Übertreibungen: ein Farn, der seinen Wedel einen halben Finger zu weit zur Seite kippte, wenn sie vorbeiging; ein Ableger am Nordrand, der zu prompt auf ihren Blick antwortete. Heute standen die Hortensien am Weg in einer Haltung, die man nicht hätte Haltung nennen dürfen, wenn es Pflanzen waren. Sie standen zu ihr hin.
 
 Sie legte die Hand auf den Kies und sprach in sich hinein den Satz. *Ruhig jetzt.* Kein lautes Wort, eher ein Wille, der durch die Fußsohlen in die Erde ging, den gewohnten Kanal. Die Farne an der Nordmauer zogen die Wedel ein, einer nach dem anderen. Die Hortensien erstarrten.
 
@@ -85,9 +85,9 @@ Maren drehte den Kopf zu ihm. "Ein Wesen?"
 
 "Ich habe eines im Kielraum gehört." Maren sagte es ohne Gewicht. "Schritte auf nassem Holz, wo kein Holz nass war. Ich habe es nicht gesehen. Haron hat, glaube ich."
 
-Vesper nickte, knapp, und ließ es liegen. Die vier standen da, Stille zwischen sich. Die Grillen am Fuß des Hügels sangen unbeeindruckt weiter. Die Sonne schob sich eine Handbreit tiefer. Der süße Geruch lag inzwischen auf Bodenhöhe, dicker als vorher.
+Vesper nickte, knapp, und ließ es liegen. Die vier standen da, Stille zwischen sich. Die Finken am Mauerfuß sangen unbeeindruckt weiter. Die Sonne schob sich eine Handbreit tiefer. Der süße Geruch lag inzwischen auf Bodenhöhe, dicker als vorher.
 
-Alphina sah sich um. Nichts bewegte sich im Garten, außer den Wedeln, die der Wind bewegte. Keine Eidechse auf den warmen Steinen, wo sonst immer zwei oder drei lagen. Keine Wespe an den Früchten des kleinen Apfelbaums am Südhang. Keine Amsel im Gebüsch.
+Alphina sah sich um. Nichts bewegte sich im Garten, außer den Wedeln, die der Wind bewegte. Keine Eidechse auf den warmen Steinen, wo sonst immer zwei oder drei lagen. Keine Biene an den Blüten des kleinen Apfelbaums am Südhang. Keine Amsel im Gebüsch.
 
 "Es ist zu still", sagte sie.
 
@@ -267,7 +267,7 @@ Er sprach leise, in derselben Genauigkeit, mit der er eine Drift­abweichung ans
 
 Niemand antwortete.
 
-Sie standen eine lange Minute so. Die Sonne war noch eine halbe Handbreit weiter geschoben. Im Garten setzten die Grillen wieder ein, vorsichtig, erst eine, dann drei, dann der ganze Mauerfuß. Eine Amsel, weit nach hinten, Richtung Südmauer, gab einen einzelnen Ruf, und der Ruf war ein Prüfen, ob der Garten wieder ein Garten war.
+Sie standen eine lange Minute so. Die Sonne war noch eine halbe Handbreit weiter geschoben. Im Garten setzten die Finken wieder ein, vorsichtig, erst einer, dann drei, dann der ganze Mauerfuß. Eine Amsel, weit nach hinten, Richtung Südmauer, gab einen einzelnen Ruf.
 
 Die Skulptur stand.
 
