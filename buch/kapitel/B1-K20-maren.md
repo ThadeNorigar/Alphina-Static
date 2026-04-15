@@ -174,7 +174,9 @@ Maren atmete einmal ein. Das Brustbein richtete sich. Der Name war kein Halt gew
 
 "Haron hat Lene's Werft übernommen." Vesper sagte es zur Bestätigung, ohne Frage.
 
-"Ja. Die Übernahme ist dokumentiert. Der Name wurde bei der Übernahme angenommen. Vorher hatte er einen anderen." Sie tippte mit der Fingerspitze neben den Randvermerk, ohne das Papier zu berühren. "Der steht nicht hier. Er steht vielleicht in einem der Nebenregister. Ich müsste nachsehen."
+"Ja. Die Übernahme ist dokumentiert. Der Name wurde bei der Übernahme angenommen. Vorher hatte er einen anderen." Sie tippte mit der Fingerspitze neben den Randvermerk, ohne das Papier zu berühren. "Der steht nicht hier. Er steht vielleicht in einem der Nebenregister. Ich müsste nachsehen." Sie blätterte eine Seite zurück, las eine Notiz halblaut: "*Eintrag mit Hilfe geleistet — der Antragsteller verfügte über die Landessprache nur eingeschränkt.*" Sie sah auf. "Das ist von der Hand des Schreibers, der ihn registriert hat. Er hat das oft notiert, wenn jemand erst seit kurzem da war."
+
+Fünf Jahre Briefe in sauberem Thalassisch. Maren hörte die Notiz, ohne nachzufragen.
 
 Im Hintergrund, am zweiten Tresen, der kleiner war und hinter einer halben Trennwand stand, sortierte eine jüngere Frau Akten. Mittelblondes Haar, zu einem straffen Knoten gebunden. Dunkle Handschuhe, wie sie Archivare trugen, wenn sie alte Papiere anfassten. Maren hatte sie beim Eintreten gesehen, am Rand, wie man ein Regal sah, wenn der Blick auf den Menschen am Tresen ging. Jetzt, beim zweiten Hinschauen, sah sie die Handbewegung. Die junge Frau nahm einen Aktenhefter, schlug ihn auf, legte ein Blatt um, schlug ihn zu, legte ihn auf den Stapel rechts. Nahm den nächsten. Die Bewegung war gleichmäßig. Zu gleichmäßig. Maren hatte viele sortieren sehen — in der Speicherhalle in Solha, in den Kontoren am Hafen, an den Werftboten. Niemand sortierte so. Eine Hand, die liest und entscheidet, gleicht sich nicht so.
 
