@@ -165,11 +165,86 @@ def main():
         marker = "OK " if ok else "*** FEHLER ***"
         rows.append((name, date_line, f"{figur} (Tag1={ankunft_d}.{ankunft_m}.) -> Tag {tag_in_vael} = {soll_str}", marker if ok else f"{marker} ist={ist_str}"))
 
-    # Ausgabe
+    # Ausgabe Konsistenz
+    print("=== KONSISTENZ-CHECK (Header vs. berechnetes Tag-in-Vael) ===")
     print(f"{'Datei':<35} {'Header':<55} {'Berechnung':<55} Status")
     print("-" * 180)
     for name, dl, calc, status in rows:
         print(f"{name:<35} {dl:<55} {calc:<55} {status}")
+
+    # Erzaehl-Dichte: Luecken zwischen Kapiteln (chronologisch und pro Figur)
+    print()
+    print("=== ERZAEHL-DICHTE (Luecken in Tagen) ===")
+    chrono = []
+    for fp in sorted(KAPITEL_DIR.glob("*.md")):
+        name = fp.name
+        if name.endswith(("-handoff.md", "-entwurf.md", "-prework.md")):
+            continue
+        if re.match(r"^\d+-(szene|alphina-v2)", name):
+            continue
+        try:
+            head = fp.read_text(encoding="utf-8").splitlines()[:6]
+        except Exception:
+            continue
+        for line in head:
+            parsed = parse_header(line)
+            if not parsed:
+                continue
+            tag, mond, _ = parsed
+            if mond not in MOND_TO_MONAT:
+                continue
+            doy = day_of_year(MOND_TO_MONAT[mond], tag)
+            kap_num_match = re.search(r"K(I?\d+)", name)
+            kap_num = kap_num_match.group(1) if kap_num_match else name
+            figur = figur_from_filename(name) or "alle"
+            chrono.append((kap_num, doy, figur, name))
+            break
+
+    # Sortiere chronologisch nach kap_num (numerische Ordnung)
+    def sortkey(x):
+        n = x[0]
+        if n.startswith("I"):
+            return (1, int(n[1:]) if n[1:].isdigit() else 0)
+        return (0, int(n) if n.isdigit() else 0)
+    chrono.sort(key=sortkey)
+
+    print(f"{'Kap':<6} {'Datum (doy)':<14} {'POV':<10} {'Δ-Vorgaenger':<14} Datei")
+    print("-" * 100)
+    prev_doy = None
+    for kap, doy, fig, name in chrono:
+        delta = "" if prev_doy is None else f"+{doy - prev_doy}d"
+        flag = ""
+        if prev_doy is not None and (doy - prev_doy) >= 4 and doy < 200:
+            flag = "  [LUECKE]"
+        print(f"{kap:<6} {doy:>3} ({doy_to_label(doy)}) {fig:<10} {delta:<14} {name}{flag}")
+        prev_doy = doy
+
+    # Pro Figur Luecken
+    print()
+    print("=== LUECKEN PRO FIGUR (>= 4 Tage zwischen aufeinanderfolgenden Auftritten) ===")
+    by_fig = {}
+    for kap, doy, fig, name in chrono:
+        by_fig.setdefault(fig, []).append((kap, doy, name))
+    for fig in ["alphina", "sorel", "vesper", "maren", "alle"]:
+        items = by_fig.get(fig, [])
+        items.sort(key=lambda x: x[1])
+        print(f"\n{fig.upper()}:")
+        prev = None
+        for kap, doy, name in items:
+            d = "" if prev is None else f"+{doy - prev}d"
+            flag = " <-- LUECKE" if prev is not None and (doy - prev) >= 4 else ""
+            print(f"  K{kap:<5} doy={doy:>3} {d:<6}{flag}")
+            prev = doy
+
+
+def doy_to_label(doy):
+    months = ["Eis", "Schnee", "Lenz", "Saat", "Bluet", "Sonn", "Glut", "Ernte", "Wein", "Reif", "Nebel", "Dunkel"]
+    cum = 0
+    for i, mlen in enumerate([31,28,31,30,31,30,31,31,30,31,30,31]):
+        if doy <= cum + mlen:
+            return f"{doy - cum}.{months[i]}"
+        cum += mlen
+    return "?"
 
 
 if __name__ == "__main__":

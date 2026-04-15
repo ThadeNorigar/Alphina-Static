@@ -1,8 +1,8 @@
 # B1-K20 — Maren
 
-*23. Blütenmond 551 · 8 Wochen 5 Tage in Vael*
+*21. Blütenmond 551 · 8 Wochen 3 Tage in Vael*
 
-Die Schulter hielt. Sie prüfte es bei jedem Aufheben — die Kiste mit den Dübeln, den Hobel, den Eimer mit Pech — und die Schulter hielt. Drei Tage nach dem Abend im Garten. Eine Wärme saß noch in der Wunde, nicht scharf, nicht fremd. Durch Alphinas Finger war sie gezogen wie Feuchte durch ein Brett. In Marens Schulter kam sie an als Wärme aus Erde.
+Die Schulter hielt. Sie prüfte es bei jedem Aufheben — die Kiste mit den Dübeln, den Hobel, den Eimer mit Pech — und die Schulter hielt. Am Tag nach dem Abend im Garten. Eine Wärme saß noch in der Wunde, nicht scharf, nicht fremd. Durch Alphinas Finger war sie gezogen wie Feuchte durch ein Brett. In Marens Schulter kam sie an als Wärme aus Erde.
 
 In den drei Tagen hatten sie sich öfter gesehen. Nicht alle vier zugleich — aber einer von ihnen war jedesmal in der Nähe gewesen. Alphina war am Morgen nach dem Garten in die Werft gekommen, hatte die Hand auf die Schulter gelegt, ohne die Jacke wegzuziehen, und gefragt, ob sie hielt. Sorel hatte sie zweimal gegrüßt, beide Male knapp, einmal am Hafen, einmal im *Anker*-Flur, mit einer Mappe unter dem Arm, die nach Chemikalien roch.
 

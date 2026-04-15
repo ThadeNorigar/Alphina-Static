@@ -1,6 +1,6 @@
 # B1-K21 — Alphina
 
-*23. Blütenmond 551 · 8 Wochen 5 Tage in Vael*
+*21. Blütenmond 551 · 8 Wochen 3 Tage in Vael*
 
 Die Treppe zum Lichthaus roch nach Salz und Teer, und der Wind drückte gegen die Tür im Rahmen, dass das Holz leise in seinen Angeln arbeitete. Alphina ging nicht durch die Tür. Sie ging um das Gebäude, den schmalen Weg entlang, zum seitlichen Einstieg, von dem Sorel einmal erzählt hatte. Eine Holzluke im Boden, unter einem Vordach, halb überwachsen von einem Netz Efeu, das hier nicht wachsen sollte und trotzdem stand. Sie kannte die Wuchsform. Hedera helix, die den Nordrand suchte, wo die Feuchtigkeit hielt.
 

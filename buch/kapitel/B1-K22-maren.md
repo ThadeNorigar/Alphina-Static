@@ -1,6 +1,6 @@
 # B1-K22 — Maren
 
-*24. Blütenmond 551 · 8 Wochen 6 Tage in Vael*
+*22. Blütenmond 551 · 8 Wochen 4 Tage in Vael*
 
 Im Treppenhaus des *Anker*, auf der zweiten Stufe von unten, stand eine Pflanze, wo am Vortag keine gestanden hatte. Maren blieb auf der dritten Stufe stehen, die Hand am Geländer, und sah hinunter. Der Stängel war dünn wie ein Strohhalm, hellgrün, und er wuchs nicht aus einem Topf und nicht aus einem vergessenen Korb — er wuchs aus der Fuge zwischen der abgetretenen Eichenbohle und dem Mauerstein dahinter, als hätte jemand ihn dort ausgesät, oder als hätte er sich ausgesät, ohne jemanden zu fragen. Drei Blätter. Flach, lederig, zu breit für das Halblicht, das durch das kleine Fenster am oberen Absatz fiel. Das Grün war satt. Zu satt für ein Haus, in dem die Sonne den Flur nur zweimal am Tag erwischte, im Frühling erst morgens, im Sommer erst am späten Nachmittag.
 
@@ -76,7 +76,7 @@ Sie schob sie mit dem Ellbogen auf, so weit, dass sie eintreten konnte, und blie
 
 "Vesper."
 
-Sie setzte sich auf die Kiste seitlich von ihm, wie sie sich gesetzt hatte, als sie das Symbolblatt gebracht hatte, drei Tage früher. Er fragte nicht, was sie wollte. Er hatte sie nicht weggeschickt. Sie rechnete nicht damit, dass er es heute tun würde.
+Sie setzte sich auf die Kiste seitlich von ihm, wie sie sich gesetzt hatte, als sie das Symbolblatt gebracht hatte, am Tag zuvor. Er fragte nicht, was sie wollte. Er hatte sie nicht weggeschickt. Sie rechnete nicht damit, dass er es heute tun würde.
 
 Sie nahm das kleine Blatt aus der Innentasche ihrer Jacke — das Blatt, das sie am Morgen auf dem Weg hinaus mit Daumen und Zeigefinger vom Stängel abgebrochen hatte. Es war in acht Stunden in der Jacke nicht gewelkt. Das Grün war noch das Grün vom Morgen. Sie legte das Blatt auf den Samt, neben das Uhrwerk, nicht darauf, aber auf denselben schwarzen Stoff, mit der Unterseite nach oben, damit er die Adern sah. Eine Handbreit vom Uhrglas entfernt.
 
