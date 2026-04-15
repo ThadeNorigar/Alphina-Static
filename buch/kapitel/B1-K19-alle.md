@@ -35,7 +35,7 @@ Eine Frau trat hinter ihm durch den Bogen — sie blieb einen halben Schritt inn
 
 "Maren Ilves." Vesper sprach ihren Namen, kurz. "Alphina Veit. Sorel Varlan."
 
-"Die Botanikerin." Marens Stimme hatte die ruhige Kürze eines Menschen, der den Tag in Meter und Minuten rechnete. "Vesper hat gesagt, wir müssen uns kennen."
+"Die Botanikerin." Marens Stimme hatte die ruhige Kürze eines Menschen, der den Tag in Meter und Minuten rechnete. "Vesper hat gesagt, wir müssen uns kennen lernen."
 
 "Er hat recht gehabt."
 
