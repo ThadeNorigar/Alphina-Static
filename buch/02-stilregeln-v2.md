@@ -417,6 +417,28 @@ Drei Abstrakta (Stille, Gewicht, etwas), kein Ding, zwei Metaphern ohne Boden.
 
 Zwei Dinge benannt (Uhr, Messing-Werkbank, Feile-Staub). Zustand über Handlung und Material, nicht über Abstrakta.
 
+### Ausnahme-Regel: BDSM-/Nähe-Szenen (April 2026)
+
+In Szenen mit körperlicher Nähe oder BDSM ist **bildlastige Prosa erlaubt und gewünscht** — aber jedes Bild braucht einen Material-Boden im selben Absatz. Kein schwebendes Bild. Das Ding-vor-Bild-Prinzip gilt, die Dichte der Bilder darf höher sein.
+
+**Material-Register für Nähe/BDSM:** Wachs (tropft, kühlt, reißt Haare beim Abziehen), Leder (riecht, knarrt, wärmt von innen), Seil (Hanf/Jute, reibt, hinterlässt Linien), Samt (gleitet), Kupfer/Eisen (Handfesseln, Geschmack wenn Haut sich entzündet), Salz (auf Schweiß, in Blut), Öl (Lampenöl, Leinöl auf Holz), Wein (auf Zunge, im Atem), Schellack (Fingernagel, Lack auf Holz wo sie sich festhält).
+
+**Erlaubt in BDSM-Szenen (nicht in Alltagsszenen):**
+- Erhöhte Bild-Dichte (mehrere Metaphern pro Absatz, solange jede einen Ding-Anker hat)
+- Synästhesie wenn materiell getragen (Salz schmeckt metallisch auf der Lippe)
+- Körper-als-Landschaft (nur mit konkretem Material: "ihre Haut hatte die Wärme der Kupferwanne")
+
+**Bleibt auch in BDSM verboten:**
+- Abstrakta-Stapel (*"die Stille des Abgrunds ihrer Kehle"*)
+- Bild ohne Material-Boden (*"etwas in ihr öffnete sich"* — was? wo?)
+- Benannte Emotion als Nomen (*"die Obsession", "die Sehnsucht"*)
+- Antithese *"nicht X — sondern Y"* über Limit (1/Kapitel gilt auch hier)
+- "wie ein..."-Vergleiche über 2/Kapitel
+
+**Geschmacks-Pflicht bleibt hart:** Jede Nähe-Szene braucht Geschmack (Salz, Metall, Wein, Haut, Blut, Öl).
+
+**Test:** Jedes Bild in einer BDSM-Szene zurückverfolgen zum Material. Wenn das Referenz-Ding nicht in derselben Passage greifbar benannt ist → erden oder streichen.
+
 ---
 
 ## Quellen (Recherche April 2026)
