@@ -1,5 +1,7 @@
 # Alphina
 
+*21. Saatmond 551 · Velde*
+
 Die Pflanzen waren still.
 
 Das war das Erste was sie bemerkte, in dieser Nacht, um zwölf Minuten nach drei, barfuß auf dem Dielenboden ihrer Wohnung im vierten Stock eines Giebelhauses in Velde, das älter war als alles woran sie glaubte. Die Dielen waren kalt unter ihren Fußsohlen, rau, das Holz verzogen von Jahrhunderten Feuchtigkeit, und an einer Stelle, zwischen Fenster und Bücherregal, knarrte das Holz wenn sie drauftrat, ein leises, vertrautes Ächzen, das ihr sagte wo sie war, auch im Dunkeln, auch wenn sie es nicht sehen konnte. Sie kannte diese Wohnung mit den Füßen. Sie kannte die Delle vor dem Herd, wo das Holz weicher war, als hätte jemand jahrelang am gleichen Fleck gestanden und gerührt. Die Schwelle zum Badezimmer, die einen Millimeter höher stand als der Rest und an der sie sich im ersten Jahr den kleinen Zeh gestoßen hatte, dreimal, bis ihre Füße es gelernt hatten. Den kalten Fleck vor der Haustür, wo der Putz der Außenmauer die Kälte durchließ und der Boden sich anfühlte wie Stein.

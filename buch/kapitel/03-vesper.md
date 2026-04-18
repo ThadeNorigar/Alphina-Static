@@ -1,5 +1,7 @@
 # Vesper
 
+*24. Saatmond 551 · Karst*
+
 Die Feder war das Problem.
 
 Vesper hielt die Taschenuhr ins Licht. Messing, dünn, eine Delle am Rand. Das Werk lag offen unter der Lupe — achtunddreißig Teile, jedes kleiner als sein Fingernagel. Er brauchte drei Sekunden für die Diagnose. Aufzugsfeder. Knick am dritten Bogen. Nicht sichtbar. Spürbar, wenn er den Daumen über das Metall führte: eine Unebenheit, dort wo die Spirale ihren Rhythmus verlor. Wie ein falscher Ton in einer Melodie die sonst stimmt.

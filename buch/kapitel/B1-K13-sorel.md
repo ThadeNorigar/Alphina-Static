@@ -1,6 +1,6 @@
 # B1-K13 — Sorel
 
-*16. Blütenmond 551 · 7 Wochen 5 Tage in Vael*
+*16. Blütenmond 551 · 7 Wochen 2 Tage in Vael*
 
 
 Seit der Nacht hatten die Kassetten im Regal gestanden, ausgerichtet nach Datum, beschriftet in seiner eigenen knappen Schrift, ungeöffnet. Er war zweimal an ihnen vorbeigegangen, ohne die Hand zu heben; einmal hatte er an der dritten von links angesetzt, die Finger auf dem Metallrand gespürt, dann zurückgenommen und sich eine Weile am Rand des Entwicklertischs festgehalten. Er hatte sie nicht entwickelt, weil er wusste, was die erste zeigen würde.

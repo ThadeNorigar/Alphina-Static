@@ -6,16 +6,16 @@ Header-Format (neue Kapitel ab K12):
   *{Tag}. {Mond} 551 · {N} Wochen in Vael*    (wenn M=0)
   *{Tag}. {Mond} 551 · Tag {N} in Vael*
 
-Mond -> Monat (vermutet aus tz_tag-Belegen in Aktplaenen):
-  Eismond=1, Schneemond=2, Lenzmond=3, Saatmond=4, Bluetenmond=5,
-  Sonnmond=6, Glutmond=7, Erntemond=8, Weinmond=9, Reifmond=10,
-  Nebelmond=11, Dunkelmond=12
+Mond -> Monat (kanonisch aus zeitleiste.json tz_kalender):
+  Eismond=1, Sturmmond=2, Saatmond=3, Gruenmond=4, Bluetenmond=5,
+  Lichtmond=6, Glutmond=7, Erntemond=8, Herbstmond=9, Nebelmond=10,
+  Frostmond=11, Dunkelmond=12
 
-Tag 1 in Vael (figuren-spezifisch, aus alten K05-K07-Headern):
-  Alphina = 24. Maerz / Lenzmond
-  Sorel   = 27. Maerz / Lenzmond
-  Vesper  = 28. Maerz / Lenzmond
-  Maren   = 24. Maerz / Lenzmond  (vermutet, da K08 mit Annahme passt)
+Tag 1 in Vael (figuren-spezifisch, aus K05-K07-Headern):
+  Alphina = 24. Saatmond (= 24. Maerz TZ)
+  Sorel   = 27. Saatmond
+  Vesper  = 28. Saatmond
+  Maren   = Ankunft laut zeitleiste.json (zwei Wochen nach Alphina)
 
 Wochen-Berechnung: N Tage in Vael -> floor(N/7) Wochen, N%7 Tage.
 """
@@ -27,11 +27,11 @@ from pathlib import Path
 KAPITEL_DIR = Path("buch/kapitel")
 
 MOND_TO_MONAT = {
-    "Eismond": 1, "Schneemond": 2, "Lenzmond": 3, "Saatmond": 4,
-    "Blütenmond": 5, "Bluetenmond": 5, "Sonnmond": 6, "Glutmond": 7,
-    "Erntemond": 8, "Weinmond": 9, "Reifmond": 10, "Nebelmond": 11,
-    "Dunkelmond": 12,
-    # Irdische Aliase (aelteste Kapitel)
+    "Eismond": 1, "Sturmmond": 2, "Saatmond": 3, "Grünmond": 4,
+    "Gruenmond": 4, "Blütenmond": 5, "Bluetenmond": 5, "Lichtmond": 6,
+    "Glutmond": 7, "Erntemond": 8, "Herbstmond": 9, "Nebelmond": 10,
+    "Frostmond": 11, "Dunkelmond": 12,
+    # Irdische Aliase (nur noch als Fallback — alte Kapitel sind korrigiert)
     "Januar": 1, "Februar": 2, "März": 3, "Maerz": 3, "April": 4,
     "Mai": 5, "Juni": 6, "Juli": 7, "August": 8, "September": 9,
     "Oktober": 10, "November": 11, "Dezember": 12,
@@ -208,7 +208,7 @@ def main():
         return (0, int(n) if n.isdigit() else 0)
     chrono.sort(key=sortkey)
 
-    print(f"{'Kap':<6} {'Datum (doy)':<14} {'POV':<10} {'Δ-Vorgaenger':<14} Datei")
+    print(f"{'Kap':<6} {'Datum (doy)':<14} {'POV':<10} {'Delta-Vorg':<14} Datei")
     print("-" * 100)
     prev_doy = None
     for kap, doy, fig, name in chrono:
