@@ -57,6 +57,16 @@ Sie stand drei Schritte neben Vesper, in einer Haltung, die sie zwanzig Minuten 
 
 Maren schaute zwischen ihnen. Zu Alphina, zu Sorel, zu Alphinas Hand, die am Mantelsaum eine Falte glatt strich.
 
+Vesper legte kurz die Hand an die Innenseite seines Revers, wo sonst die Uhrenkette saß. „Wir werden uns gleich Dinge erzählen, die keiner von uns an Fremde gibt." Er sah Alphina an, dann Sorel, dann Maren. „Ich schlage vor, wir nehmen die Vornamen. Ich bin Vesper."
+
+Einen Atemzug lang sagte niemand etwas.
+
+„Maren."
+
+„Alphina."
+
+Sorel hielt Vespers Blick einen halben Atemzug, dann Alphinas einen zweiten. „Sorel."
+
 „Im Steinkreis", sagte Vesper. „Dort ist Platz, und der Weg zum Tor ist frei."
 
 Sie gingen. Alphina voran, weil sie den Weg am besten kannte. Vesper neben ihr, einen halben Schritt zurück. Maren und Sorel dahinter, schweigend.

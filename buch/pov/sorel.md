@@ -18,9 +18,57 @@ Dunkler **Mantel**, immer eine Nummer zu weit. Die Schultern schmal darunter. **
 
 Satzlänge bis ~50 Wörter, Bandwürmer erlaubt. Rhythmus: Stille + Beobachtung. Lange aufzählende Sätze über Parameter, Abläufe, Messungen — dann ein kurzer Satz als Hammerschlag. Kein On-the-nose-Dialog; er sagt nicht, was er meint. Subtext: er fragt, ob das Fenster offen ist, statt zu sagen, dass er Angst hat. Er vollendet Alphinas Sätze oder lässt sie hängen.
 
-## Resonanz: Licht-Formung (verborgen bis K21)
+## Resonanz: Licht-Formung
 
-Sorel hat eine unbewusste Licht-Resonanz. Er kann vorhandenes Licht lenken — keine Röntgenstrahlen, kein Infrarot, kein Licht aus dem Nichts. In absoluter Dunkelheit ist er blind wie jeder andere. Aber wo Licht ist, formt sein Wille (ohne dass er es weiß) was das Silber einfängt. Die Obsession mit Alphina manifestiert sich: er projiziert sie auf Platten, bei denen sie nie war. Ab K13 erkennt der Leser das Muster, Sorel erst in K21 im Moment des Kontrollverlusts mit Alphina in der Dunkelkammer.
+**Fähigkeit.** Sorel kann Licht erzeugen, lenken und formen. Er kann eine vorhandene Lichtquelle heller oder dunkler machen, das Licht bündeln (wie durch eine unsichtbare Linse), defokussieren, prismatisch brechen, auf eine Stelle konzentrieren oder diffus über einen Raum verteilen. In einem fensterlosen Raum kann er Licht erscheinen lassen — es ist real, sichtbar, fällt auf Oberflächen, wirft Schatten, lässt sich messen. Nicht Röntgen, nicht Infrarot — sichtbares Spektrum. Intensität begrenzt durch seinen Zustand (Erschöpfung, Verletzung, Ablenkung).
+
+**Belichtung ohne Kamera.** Sein Licht trifft Silberhalogenid direkt. Was auf der Platte erscheint, formt sich nach seinem **inneren Bild** — einer Mischung aus Wissen, Beobachtung, Erinnerung und Begehren. Er braucht keine Linse, keine Kassette im Halter, kein Außen-Licht. Die Platten in seinem Keller können sich auch ohne sein bewusstes Zutun belichten, wenn seine Vorstellung stark genug ist (Alphina-Obsession). Das Bild enthält dann Realitätsanteile (aus Wissen und Beobachtung) **und** Fantasie-Anteile (aus Begehren, Imagination) — gemischt, nicht trennbar.
+
+**Kamera als Verstärker, nicht Quelle.** Die Kamera ist Werkzeug seines Berufs, nicht seiner Magie. Er hat sie gelernt und benutzt sie professionell. Sie fokussiert seine Resonanz (K10: „Kamera als Resonanz-Leiter"), aber sie ist ersetzbar. Ohne Kamera passiert es unkontrollierter: direkte Projektion auf jede empfindliche Fläche in seiner Nähe. In K19 legt er die Kamera beiseite und manipuliert Licht bloß mit Daumen und Zeigefinger (gebündeltes Licht auf einen Wächter-Schemen — wird geschluckt, Schemen absorbieren Licht).
+
+**Steuerbarkeit.**
+- *Bewusst:* Er kann Licht gezielt erzeugen und formen, wenn er weiß was er tut und es will.
+- *Unbewusst:* Bei starker emotionaler Bindung (Obsession, Trauma) bricht die Resonanz ohne seinen Willen durch. Das betrifft besonders Alphina. Er hat in den Wochen nach Kap 13 versucht, sie nicht mehr zu fotografieren — die Platten sind trotzdem gekommen. Auch die Kampfplatten nach K19 entstehen ungewollt, ohne dass er im Garten ausgelöst hätte.
+
+**Stufen der Bewusstheit:**
+- **Seit Nachtholm (13 Jahre vor Buch 1):** unbewusst eingesetzt. Die zerbrochene Platte aus der Kellerschublade ist der erste dokumentierte Beweis.
+- **K10:** erste deutliche Manifestation in Vael (Katzen-Schem-Angriff, Handrücken-Verbrennung).
+- **K13:** er entwickelt eine Platte mit Alphina am Hafen, aus einem Winkel den keine Kamera eingenommen haben kann, mit einem Farn im Hintergrund, der dort nicht wachsen kann. Er weiß, dass etwas nicht stimmt, weigert sich aber, die einzige Erklärung anzusehen.
+- **K16:** die Erkenntnis sackt durch. Er versteht die Mechanik bewusst, erkennt rückwirkend alle früheren Platten. Seit Jahren, nicht neu.
+- **K19:** erste **bewusste** Licht-Manipulation in der Erzählung. Mondlicht/Nachmittagssonne gebündelt auf die Schulter des Wächter-Schemens — wird geschluckt. Er lernt: magische Wesen absorbieren Licht.
+- **K21:** er versteht das **Ausmaß** seiner Projektion bei Alphina (16+ Platten inklusive Aktbild als pure Vorstellung) und enthüllt sich ihr. Erste bewusste Licht-Manipulation bei einem Menschen: während der Intimszene lenkt er das Licht auf ihre Kehle, Schlüsselbein, die Stelle wo ihr Leinenhemd aufgeht. Beim Höhepunkt flammt sein Licht auf — weiß für einen Atemzug, dann grün durchtönt (Alphinas Magie), dann wieder rot.
+
+**Grenzen (Tschechow, offen):**
+- **Licht-Resistenz magischer Wesen:** Schemen, Wächter, vermutlich auch andere Moragh-Kreaturen schlucken sein Licht ohne Reflexion.
+- **Obsessions-Leck:** Je stärker die emotionale Bindung, desto schwerer zu steuern. Bei Alphina war es lange unkontrolliert. Seine Fähigkeit, bei ihr Licht gezielt einzusetzen (K21 Intimszene), ist Folge der ausgesprochenen Enthüllung — nicht davor.
+- **Kamera-Gewohnheit:** Auch wenn er sie nicht braucht, trägt er sie. Handwerks-Identität, Tarnung, Gewohnheit.
+
+**Was das Licht NICHT kann:**
+- Nicht heilen (Alphinas Register).
+- Nicht Zeit manipulieren (Vespers Register).
+- Nicht die Realität verändern, nur das Bild. Die Platten zeigen seine Vorstellung — sie sind keine Prophezeiung und kein Fenster in die Wirklichkeit.
+
+## Wissensstand ab K21 (neu dazugekommen)
+
+**In Kap 13–16 dazugelernt:**
+- Seine Platten zeigen Alphina an Orten, an denen sie nie für ihn war, aus unmöglichen Winkeln. Er versteckt sie in einer Schublade unter der Arbeitsfläche.
+- K16: er versteht die Mechanik bewusst. Seit Jahren, nicht neu.
+
+**In Kap 18 dazugelernt:**
+- Vesper existiert. Uhrmacher, eigene Resonanz (Zeit/Takt). Sorel sucht ihn auf eigenen Antrieb — er weiß, dass etwas nicht stimmt und braucht jemanden, der zuhört.
+
+**In Kap 19 dazugelernt:**
+- Alle vier haben Resonanz. Maren: Wasser/Strömung. Vesper: Zeit. Alphina: Pflanzen/Heilung. Er: Licht.
+- Schemen sind Wächter eines Risses zur anderen Welt (Moragh). Sie schlucken Licht.
+- Gemeinsam können sie einen Wächter-Schemen töten: Alphinas Wurzeln + Vespers Zeit-Verlangsamung + Sorels diffuses Raumlicht.
+- Er hat Alphinas Ellbogen gegriffen, sie zwei Schritte zurückgezogen, die Hand einen halben Atemzug zu lang liegen gelassen, bevor er sie abrupt wegnahm.
+
+**In Kap 21 dazugelernt:**
+- Alphina hat seine Platten gesehen. Sie weiß, dass er sie unerlaubt projiziert hat. Sie hat die Falschheiten auf dem Aktbild erkannt (gespiegeltes Muttermal, zu glatte Hände, fehlende Narben).
+- Sie hat ihm verziehen durch Handlung, nicht durch Wort.
+- Er hat ihren Namen zum ersten Mal in der Intimität ausgesprochen: *„Alphina. Du bleibst."*
+- Ab K19 duzen sich alle vier (Vespers Vornamen-Angebot am Tor).
+- **Kampfplatten:** Im Fixierbad liegen Platten vom Treffen im Garten, die er nicht gemacht hat. Seine Resonanz hat sie belichtet. Er plant, sie morgen zu entwickeln (feuert in K23: Varen im Hintergrund der Wächter-Aufnahme).
 
 ## Wissensstand-Anker (Stand nach Kap 12)
 
