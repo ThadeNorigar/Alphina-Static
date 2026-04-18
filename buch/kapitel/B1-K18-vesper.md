@@ -138,7 +138,7 @@ Sorel nickte langsam. Vesper sah, wie er den Kopf drei Sekunden zu lange nach un
 
 Er zog den schwarzen Turm aus der linken Außentasche des Mantels. Legte ihn neben die Karte, auf den Velinrand. Er drehte ihn nicht. Er hatte den Impuls, ihn zu drehen, und er ließ ihn. Sorel sah den Turm, kannte das Holz nicht, kannte die Form. Er sagte nichts dazu.
 
-"Vier Menschen, von denen jeder etwas kann, das er nicht benennen kann — an einem Ort, an dem die Stadt schon reagiert. Ein Steinkreis, an dem der Uhren-Verlust am stärksten ist. Vier, die sich noch nicht alle kennen. Wir sind seit acht Wochen in dieser Stadt, Sie etwas länger, Maren war immer hier. Alphina genauso lange wie ich."
+"Vier Menschen, von denen jeder etwas kann, das er nicht benennen kann — an einem Ort, an dem die Stadt schon reagiert. Ein Steinkreis, an dem der Uhren-Verlust am stärksten ist. Vier, die sich noch nicht alle kennen. Wir sind seit acht Wochen in dieser Stadt, Sie etwas länger. Maren kam zwei Wochen später als ich. Alphina genauso lange wie ich."
 
 Er legte die rechte Hand auf den Turm, nicht darauf drückend, nur aufliegend, die Art Berührung, mit der er Uhrwerke prüfte, ohne sie zu beeinflussen.
 
