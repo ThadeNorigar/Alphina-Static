@@ -1,6 +1,6 @@
 # B1-K15 — Alphina
 
-*20. Blütenmond 551 · 8 Wochen in Vael*
+*18. Blütenmond 551 · 8 Wochen in Vael*
 
 Der Nebel kam am fünften Morgen zurück, als wäre er nie weg gewesen. Alphina kniete zwischen den Lavendelreihen der westlichen Anlage und schnitt die welken Stängel aus den Büschen, die Henrik gestern markiert hatte — kleine Kerben im Holz, kaum sichtbar, ein System, das er ihr nie erklärt hatte. Die Erde unter ihren Knien war feucht und warm, wärmer als der Nebel erlaubte, und sie hatte aufgehört sich zu fragen warum. Die Schere klickte. Ein Stängel fiel. Der Lavendelduft hing schwer zwischen den Reihen, dicker als sonst, weil der Nebel stillstand und nichts weitertrug.
 
@@ -137,7 +137,7 @@ Im Augenwinkel, auf einem Dachvorsprung: etwas. Klein, katzengroß, die Silhouet
 
 Dann stand die Gestalt in der Gasse.
 
-Nicht auf dem Dach. Nicht in einem Eingang. Mitten auf dem Pflaster, zwischen den Hauswänden, unter einer Gaslampe deren Licht an den Rändern der Silhouette brach und durchging. Der süße Geruch war plötzlich stärker, dichter, so nah dass er auf der Zunge lag. Mannsgroß, ungefähr — die Schultern stimmten, der Kopf stimmte, die Arme hingen an den Seiten, und die Proportionen waren menschlich, so menschlich dass ihr erster Atemzug in der Brust stecken blieb. Aber die Kanten verschwammen. Die Ränder liefen in den Nebel aus, rauchend, in langsamen Schwaden, als wäre die Gestalt aus Material gemacht, das sich nicht entscheiden konnte, ob es fest sein wollte.
+Nicht auf dem Dach. Nicht in einem Eingang. Mitten auf dem Pflaster, zwischen den Hauswänden, unter einer Gaslampe deren Licht an den Rändern der Silhouette brach und durchging. Der süße Geruch war plötzlich stärker, dichter, so nah dass er auf der Zunge lag. Mannsgroß, ungefähr — die Schultern stimmten, der Kopf stimmte, die Arme hingen an den Seiten, und die Proportionen waren menschlich, so menschlich dass ihr erster Atemzug in der Brust stecken blieb. Aber die Kanten verschwammen. Die Ränder liefen in den Nebel aus, rauchend, in langsamen Schwaden, als wäre die Gestalt aus Material gemacht das sich nicht entscheiden konnte ob es fest sein wollte.
 
 Alphina blieb stehen, fünf Schritte entfernt.
 
