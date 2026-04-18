@@ -73,45 +73,53 @@ Maren sah Vesper an. Ein halber Atemzug. Vesper nickte, kaum sichtbar.
 
 „Die Grauwe fließt rückwärts", sagte Maren.
 
-„An der Mündung, vier Handbreit unter der Oberfläche, wenn die Tide stimmt. Ich habe es zweimal gemessen. Mit zwei Leinen und einem Stein. Zweimal dasselbe." Ihre Hand ging zur Schiffsmesse an der Gürtelschlaufe und blieb einen Atemzug dort. „Und Wasser — in meiner Nähe bewegt es sich, oder wird warm. Ich muss es dafür nicht anfassen."
+Sorel hob den Kopf.
 
-Vesper nickte beim letzten Satz, kaum merklich. Marens Schultern rückten eine Nuance herunter.
+„An der Mündung. Vier Handbreit unter der Oberfläche, wenn die Tide stimmt. Zwei Messungen, zwei Leinen, ein Stein. Zweimal dasselbe."
+
+„Wer hat's sonst gesehen?", fragte Alphina.
+
+„Ein alter Fischer. Tohl. Sagt es niemandem sonst." Ihre Hand ging zur Schiffsmesse an der Gürtelschlaufe und blieb einen Atemzug dort. „Und Wasser — in meiner Nähe bewegt es sich, oder wird warm. Ich muss es dafür nicht anfassen."
 
 Alphinas Handfläche auf dem Purpurstein wurde wärmer. Wasser. Das war ein anderer Kanal als ihrer, aber der Boden darunter war derselbe.
 
-Vesper stand im Schatten der Kastanie und sprach, ohne jemanden anzuschauen.
-
-„Siebzehn Uhren in Vael gehen falsch. Sechzehn davon verlieren Zeit — je näher am Zentrum, desto mehr. Außen elf Sekunden am Tag. Innen zwei Minuten dreiundzwanzig. Vier Ringe, einer um den anderen." Er tippte mit dem Zeigefinger gegen den Kies neben seinem Fuß. „Der Mittelpunkt liegt hier."
+Vesper stand im Schatten der Kastanie. „Uhren", sagte er dann. „Siebzehn in Vael gehen falsch. Sechzehn davon verlieren Zeit — je näher am Zentrum, desto mehr. Außen elf Sekunden am Tag. Innen zwei Minuten dreiundzwanzig. Vier Ringe, einer um den anderen." Er tippte mit dem Zeigefinger gegen den Kies neben seinem Fuß. „Der Mittelpunkt liegt hier."
 
 „Wellen", sagte Maren. „Wie ein Stein im Wasser."
 
-„Ja." Vesper nickte einmal. „Der Kreis ist der Mittelpunkt."
+„Ja. Der Kreis ist der Mittelpunkt."
 
-„Die siebzehnte läuft anders. Tidemoor-Haus, unten am Grauwe-Ufer. Vier Minuten und dreiunddreißig Sekunden pro Stunde. Exakt dieselbe Zahl, täglich, bis ich sie vor zwei Wochen in Ruhe gesetzt habe." Seine Hände vor dem Körper hatten sich nicht bewegt. „Das ist ein zweites Muster."
+Sorel sah zum Steinkreis, dann zu Vesper. „Und die siebzehnte?"
 
-Maren sah auf den Boden unter ihren Füßen. Sorel sah zum Steinkreis, dann zu Vesper, dann wieder zum Boden.
+„Tidemoor-Haus, unten am Grauwe-Ufer. Vier Minuten und dreiunddreißig Sekunden pro Stunde. Exakt dieselbe Zahl, täglich, bis ich sie vor zwei Wochen in Ruhe gesetzt habe." Seine Hände vor dem Körper hatten sich nicht bewegt. „Ein zweites Muster. Kleiner."
 
-Alphinas Hand lag noch auf dem Purpurstein. Der Puls unter der Handfläche ging tiefer und gleichmäßiger als ihr eigener. Sie ließ die Hand, wo sie war.
+Maren sah zum Stein in ihrem Rücken. Sorels Blick ging kurz zu Alphinas Hand auf dem Purpurstein, dann weg.
 
-„Ich bin Botanikerin." Ihre Stimme kam eine halbe Oktave höher als sonst, und sie hörte es selbst. Sie atmete einmal und setzte tiefer an. „Pflanzen reagieren auf mich. Sie bewegen sich auf mich zu. Heute morgen standen die Hortensien so." Sie zeigte mit dem Kinn zum Haupttor. „Ich habe die Hand auf den Kies gelegt. Sie wurden still."
+Alphinas Hand lag noch da. Der Puls unter der Handfläche ging tiefer und gleichmäßiger als ihr eigener.
 
-Maren folgte dem Blick zum Haupttor und kam zurück.
+„Pflanzen", sagte sie. Die Stimme kam eine halbe Oktave höher als sonst, und sie hörte es selbst. Sie atmete einmal. „Sie reagieren auf mich. Bewegen sich auf mich zu. Die Hortensien am Hauptweg hatten sich heute Morgen mir zugedreht. Ich habe die Hand auf den Kies gelegt. Sie zogen sich zurück."
 
-„Ich kann ihr Wachstum verändern. Schneller. Langsamer."
+Sorel stellte das Stativ eine Handbreit näher an sich.
 
-Ihre Hand auf dem Stein wurde wärmer. Sie sah an Sorel vorbei, in die Mitte des Kreises, wo keine Haut war.
+„Ich kann ihr Wachstum verändern. Schneller. Langsamer." Ihre Hand auf dem Stein wurde wärmer. Sie sah an Sorel vorbei, in die Mitte des Kreises, wo keine Haut war. „Und ich habe eine Verbrennung geschlossen, ohne zu wissen, was ich tat."
 
-„Und ich habe eine Verbrennung geschlossen, ohne zu wissen, was ich tat."
+Sorel hob die linke Hand, bevor sie zu Ende sprach. Der Handrücken war heller als die Haut darum, neu. Er ließ die Hand sinken, als ihr Blick ihn fand.
 
-Sorel hob die linke Hand. Der Handrücken war heller als die Haut darum, neu. Er ließ die Hand wieder sinken.
+Vesper wandte sich halb zu Alphina. „Wie lange hat es gedauert?"
 
-Er sah nicht Alphina an. Er sah an ihr vorbei, zwischen Maren und Vesper.
+„Eine Stelle, so groß." Sie zeigte einen halben Daumen. „Drei, vier Sekunden."
 
-„Vor einer Woche stand ich nachts in diesem Garten. Zwischen den Hortensien war ein Tier, das keines war. Größer als eine Katze. Niedriger als ein Mann. Die Ränder verrauchten." Er pausierte. „Ich habe das Mondlicht auf eine Stelle seiner Haut gebündelt. Es hat mit einem Feuerball geantwortet. Er kam aus dem Maul, faustgroß, weiß im Kern. Er hat meinen Handrücken getroffen."
+Vesper nickte kaum. Die Hände vor seinem Körper verschoben sich einen halben Zoll.
 
-Er atmete einmal ein, setzte neu an.
+Sorel sprach, ohne Alphina direkt anzusehen. „Vor einer Woche stand ich nachts in diesem Garten. Zwischen den Hortensien war ein Tier, das keines war."
 
-„Ich fotografiere. Meine Platten zeigen Dinge, die nicht vor der Linse standen. Ich habe eine Platte mit meinem Gesicht am Kai einer Stadt, in der ich nie war."
+„Wie groß?", fragte Maren.
+
+„Größer als eine Katze. Niedriger als ein Mann. Die Ränder verrauchten." Er pausierte. „Ich habe das Mondlicht auf eine Stelle seiner Haut gebündelt. Es hat mit einem Feuerball geantwortet. Aus dem Maul, faustgroß, weiß im Kern. Er hat meinen Handrücken getroffen."
+
+Maren sah Vesper an. Vesper nickte einmal.
+
+Sorel atmete einmal ein. „Ich fotografiere. Meine Platten zeigen Dinge, die nicht vor der Linse standen. Ich habe eine Platte mit meinem Gesicht am Kai einer Stadt, in der ich nie war."
 
 Die vier standen da, Stille zwischen sich. Die Sonne war noch eine halbe Handbreit weiter geschoben. Der süße vierte Geruch lag inzwischen auf Bodenhöhe, dichter als vorher.
 
@@ -305,15 +313,21 @@ Alphina sah auf. „Der Stein?"
 
 Vesper nahm die Hand vom Stein. Er ging zu Maren und hielt ihr die rechte Hand hin. Sie nahm sie, und er zog sie hoch. Ihre linke Schulter hing tiefer als die rechte.
 
-Sie trat zwei Schritte näher an die Skulptur und sah hin.
+Maren sah sich um. Sieben Steine, hüfthoch, in einem Kreis. Sie hatte den Kreis schon einmal gesehen, gezeichnet, auf einem Blatt, das seit Wochen in ihrer Werkbank lag.
 
-„Ich kenne das." Sie sagte es flach. „Den Kopfwinkel. Die Arme. Ich kenne das."
+„Ich kenne das." Sie sagte es flach. „Sieben Steine. Ich kenne das."
 
-Alphina drehte sich zu ihr. „Woher?"
+Vesper drehte den Kopf. „Woher?"
 
-„Zuhause. Haron hat es gezeichnet, einmal, auf ein einzelnes Blatt, das ich seit Wochen im Werftschrank habe. Ich habe es nicht verstanden. Ich verstehe es jetzt." Sie sah zur Skulptur zurück und korrigierte sich. „Ich verstehe die Form. Ich verstehe das Papier nicht. Ich zeige es dir. Morgen."
+„Zuhause. Haron hat es gezeichnet, einmal, auf ein einzelnes Blatt. Ich habe es nicht verstanden." Sie hielt Vespers Blick. „Ich verstehe den Ort jetzt. Das Papier nicht."
 
-„Morgen."
+„Ich zeige es dir. Morgen."
+
+„Morgen", sagte Vesper. Dann nickte er.
+
+Sie sah zu Alphina und Sorel. „Wenn wir wissen, was drauf steht, treffen wir uns wieder."
+
+Alphina nickte. Sorel nickte auch.
 
 Sorel hob die kleine Kamera vom Boden auf. Er trat an die Skulptur heran und hob die Kamera an. Das Licht fiel auf das Holz in einem Ton, den er aus keinem Garten kannte — warm und fremd zugleich, als stünde die Skulptur in einer anderen Tageszeit als der Rest des Kreises. Er senkte die Kamera wieder und hängte sie an den Riemen.
 
