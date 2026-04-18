@@ -1,6 +1,6 @@
 # B1-K15 — Alphina
 
-*20. Blütenmond 551 · 8 Wochen in Vael*
+*18. Blütenmond 551 · 8 Wochen in Vael*
 
 Der Nebel kam am fünften Morgen zurück, als wäre er nie weg gewesen. Alphina kniete zwischen den Lavendelreihen der westlichen Anlage und schnitt die welken Stängel aus den Büschen, die Henrik gestern markiert hatte — kleine Kerben im Holz, kaum sichtbar, ein System, das er ihr nie erklärt hatte. Die Erde unter ihren Knien war feucht und warm, wärmer als der Nebel erlaubte, und sie hatte aufgehört sich zu fragen warum. Die Schere klickte. Ein Stängel fiel. Der Lavendelduft hing schwer zwischen den Reihen, dicker als sonst, weil der Nebel stillstand und nichts weitertrug.
 

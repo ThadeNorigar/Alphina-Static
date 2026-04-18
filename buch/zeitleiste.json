@@ -1754,8 +1754,8 @@
       ],
       "titel": "Sorel: Alphina auf jeder Platte (Projektion ohne Erkenntnis)",
       "pov": "Kap 13 · Sorel",
-      "tz_tag": 138,
-      "datum_text": "18. Blütenmond 551 TZ",
+      "tz_tag": 136,
+      "datum_text": "16. Blütenmond 551 TZ",
       "figur": "Sorel",
       "fakt": "sorel-projiziert-alphina",
       "stufe": "manifestiert",
@@ -1772,8 +1772,8 @@
       ],
       "titel": "Maren im Anker — Haende die warten koennten",
       "pov": "Kap 14 · Maren",
-      "tz_tag": 134,
-      "datum_text": "19. Blütenmond 551 TZ",
+      "tz_tag": 137,
+      "datum_text": "17. Blütenmond 551 TZ",
       "figuren": [
        "Maren",
        "Vesper"
@@ -1801,7 +1801,7 @@
       "kapitel_status": "szenenplan",
       "detail": "Schemen haeufiger, aggressiver. Runa sammelt Sichtungen. Alphina sieht Sorel am Steg.",
       "tz_tag": 138,
-      "datum_text": "20. Blütenmond 551 TZ",
+      "datum_text": "18. Blütenmond 551 TZ",
       "tags": [
        "Schemen-Eskalation",
        "Setup Alphina+Sorel"
@@ -1821,7 +1821,7 @@
       "kapitel_status": "szenenplan",
       "detail": "Sorel gruebelt ueber Doppelbelichtungen auf seinen Platten. Schliesst eigene Fehler aus. Geistesblitz: testet eine unbelichtete Platte. Erleichterung als ein Bild erscheint — denkt die Platten waren vorbelichtet. Dann erkennt er sich selbst auf der Platte, beim Entwickeln, seinen eigenen Gedankengang. Paranoia: wer fotografiert ihn? Entwickelt eine weitere — zeigt seine Angst. Daemmert ihm. Bewusster Test: er stellt sich das Bild vor, nach dem er sich seit Wochen sehnt. Die Platte zeigt es. Letzter Satz enthuellt: Alphina. Sehnsucht kippt in Vertrauensbruch.",
       "tz_tag": 138,
-      "datum_text": "20. Blütenmond 551 TZ",
+      "datum_text": "18. Blütenmond 551 TZ",
       "tags": [
        "Tschechow: Resonanz-Missbrauch",
        "Setup K21 Dunkelkammer",
@@ -1837,8 +1837,8 @@
       ],
       "titel": "Vesper bringt Maren die Schiffsuhr — erster ehrlicher Austausch ueber das Unmoegliche",
       "pov": "Kap 17 - Maren",
-      "tz_tag": 137,
-      "datum_text": "20. Blütenmond 551 TZ",
+      "tz_tag": 139,
+      "datum_text": "19. Blütenmond 551 TZ",
       "figuren": [
        "Vesper",
        "Maren"
@@ -1865,7 +1865,7 @@
       "titel": "Sorel sucht Vesper — zwei Maenner legen Puzzleteile zusammen",
       "pov": "Kap 18 · Vesper",
       "tz_tag": 139,
-      "datum_text": "21. Blütenmond 551 TZ",
+      "datum_text": "19. Blütenmond 551 TZ",
       "figuren": [
        "Sorel",
        "Vesper"
@@ -1893,7 +1893,7 @@
       "titel": "Alle vier im Garten — erster Kampf gegen einen Waechter-Schemen",
       "pov": "Kap 19 · Alle",
       "tz_tag": 140,
-      "datum_text": "22. Blütenmond 551 TZ",
+      "datum_text": "20. Blütenmond 551 TZ",
       "figuren": [
        "Alphina",
        "Sorel",

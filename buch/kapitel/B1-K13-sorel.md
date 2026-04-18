@@ -1,11 +1,11 @@
 # B1-K13 — Sorel
 
-*18. Blütenmond 551 · 7 Wochen 4 Tage in Vael*
+*16. Blütenmond 551 · 7 Wochen 5 Tage in Vael*
 
 
-Drei Tage lang hatten die Kassetten im Regal gestanden, ausgerichtet nach Datum, beschriftet in seiner eigenen knappen Schrift, ungeöffnet. Er war zweimal an ihnen vorbeigegangen, ohne die Hand zu heben; einmal hatte er an der dritten von links angesetzt, die Finger auf dem Metallrand gespürt, dann zurückgenommen und sich eine Weile am Rand des Entwicklertischs festgehalten. Er hatte sie nicht entwickelt, weil er wusste, was die erste zeigen würde.
+Seit der Nacht hatten die Kassetten im Regal gestanden, ausgerichtet nach Datum, beschriftet in seiner eigenen knappen Schrift, ungeöffnet. Er war zweimal an ihnen vorbeigegangen, ohne die Hand zu heben; einmal hatte er an der dritten von links angesetzt, die Finger auf dem Metallrand gespürt, dann zurückgenommen und sich eine Weile am Rand des Entwicklertischs festgehalten. Er hatte sie nicht entwickelt, weil er wusste, was die erste zeigen würde.
 
-Am vierten Morgen zwang er sich.
+Am Morgen zwang er sich.
 
 Rotlicht an. Pyrogallol links, Fixierbad rechts, der scharfe Kaliumzyanid-Geruch schon an der Decke. Wasserbad unter dem Tischrand, wo der Stein im Blütenmond noch kühl blieb. Zwölf Handgriffe, dieselbe Reihenfolge, dieselbe Atempause nach dem dritten.
 Er nahm die erste Kassette aus der Reihe.
@@ -145,7 +145,7 @@ Er schaute sie an. Sie schaute geradeaus, in die Gasse, als beschriebe sie den A
 
 Er wartete, ob sie mehr sagen würde. Sie sagte nicht mehr.
 
-Er öffnete den Mund. Das Wort *Feuer* saß hinter den Zähnen, fertig, mit einem Gewicht, das er in der Zunge spürte. Eines dieser Wesen hatte ihn verbrannt. Vor fünf Tagen. Im Garten, zwischen den Hortensien. Ein Feuerball, präzise, auf den linken Handrücken. Er hätte es sagen können.
+Er öffnete den Mund. Das Wort *Feuer* saß hinter den Zähnen, fertig, mit einem Gewicht, das er in der Zunge spürte. Eines dieser Wesen hatte ihn verbrannt. Vor drei Tagen. Im Garten, zwischen den Hortensien. Ein Feuerball, präzise, auf den linken Handrücken. Er hätte es sagen können.
 Er schloss den Mund. Der Satz blieb, wo er war.
 
 Ihr Blick fiel auf seine linke Hand. Er sah die Verschiebung in ihren Augen — denselben kurzen Suchgang, den sie an der Tür gemacht hatte. Diesmal fand sie den Handrücken. Der Verband war weg. Die Haut war rosa und glatt, die Stelle, wo der Schorf gesessen hatte, heller als der Rest. Er hatte den Verband am zweiten Tag abgenommen, weil die Wunde darunter aussah, als wäre sie seit Wochen am Heilen, nicht seit Tagen. Er hatte keine Erklärung gesucht.

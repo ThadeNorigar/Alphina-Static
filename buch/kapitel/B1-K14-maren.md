@@ -1,6 +1,6 @@
 # B1-K14 — Maren
 
-*19. Blütenmond 551 · 7 Wochen 3 Tage in Vael*
+*17. Blütenmond 551 · 7 Wochen 6 Tage in Vael*
 
 Die Schiffsuhr lag warm in ihrer Hosentasche, eine Kante aus Messing gegen den Schenkel. Das Metall nahm die Hitze ihres Körpers und gab sie zurück. Maren hatte sie heute morgen aus Harons Werkzeugschublade geholt, unter einem Bund Schnurkeile, unter einer Rolle Wachsgarn. Sie hatte die Uhr einmal geschüttelt. Still. Sie hatte die Uhr ans Ohr gehalten. Still. Der Glasdeckel hatte einen feinen Riss, schräg von der Elf zur Sechs, so fein dass man ihn nicht sah, bevor man ihn suchte. Sie wusste nicht, ob die Uhr je gegangen war. Sie wusste nur, dass ein Boot, das auf seinen Böcken lag und auf Wasser wartete, eine funktionierende Schiffsuhr brauchte.
 
@@ -53,9 +53,9 @@ Einen halben Atemzug nachdem der Wirt weg war, kam die Sprache. *Hände, die war
 
 Er sprach. Über die Uhr, nicht zu ihr. "Das Unruhrad hat einen Spannungsriss. Fein, aber er läuft noch. Die Spirale ist verzogen, das ist vom Salz. Das kann ich machen." Er drehte das Werk einmal, leicht, und Maren sah, wie die winzigen Zahnräder sich in ihren Positionen hielten — keines rieb, keines schlug an. Sie verstand vom Holz, wenn es gegen sich selbst arbeitete; sie verstand vom Kiel, wenn eine Naht die Spannung nicht mehr hielt; sie verstand hier genug, um zu erkennen, dass ein Spannungsriss im Unruhrad dieselbe Sache war, nur kleiner, und dass Salz auf Metall tat, was Salz auf Holz tat: es aß von innen, ohne sich anzukündigen.
 
-Seine Stimme war gleichmäßig, tiefer als sie erwartet hatte. Er schrieb Sätze fertig, bevor er sie aussprach. "Preis: vier Silber fünfzig für die Arbeit. Eine Woche, wenn ich das Ersatzteil aus meinem eigenen Bestand nehmen kann. Zwei bis drei, wenn ich es bestellen muss."
+Seine Stimme war gleichmäßig, tiefer als sie erwartet hatte. Er schrieb Sätze fertig, bevor er sie aussprach. "Preis: vier Silber fünfzig für die Arbeit. Vier Tage, wenn ich das Ersatzteil aus meinem eigenen Bestand nehmen kann. Zwei Wochen, wenn ich es bestellen muss."
 
-"Nehmen Sie aus Ihrem Bestand." Sie sprach ruhiger, als sie erwartet hatte. "Eine Woche passt."
+"Nehmen Sie aus Ihrem Bestand." Sie sprach ruhiger, als sie erwartet hatte. "Vier Tage passen."
 
 Er schob einen kleinen Messingkeil unter das Werk. Sie griff nach dem Becher. Der Tee war zu heiß. Sie merkte es erst, als ihre Oberlippe sich meldete, und auch dann war die Hitze weit weg von dem, was eigentlich in ihr war.
 
@@ -69,7 +69,7 @@ Er schrieb. Zwei Zeilen in aufrechter, kleiner Handschrift in sein Notizbuch, da
 
 Er schrieb es oben auf den Zettel. Darunter ein Datum, eine Uhrzeit, eine kleine Nummer und am unteren Rand: *V. Greve.* Zwei Zeichen, ein Punkt, ein Nachname. Die Initiale eines Vornamens, der noch kein Wort war. Er schob den Zettel über die Tischkante, eine halbe Handbreit, gerade so weit, dass sie ihn nehmen konnte, ohne ihre Finger seinen Fingern näher zu bringen als nötig.
 
-"In einer Woche", sagte er. "Wenn das Ersatzteil länger braucht, schicke ich dem Wirt Bescheid."
+"In vier Tagen", sagte er. "Wenn das Ersatzteil länger braucht, schicke ich dem Wirt Bescheid."
 
 Seine Stimme war nicht warm und nicht kalt.
 
@@ -113,7 +113,7 @@ Edric kam gegen drei zurück. Er rief ein Wort über die halbe Werft, sie rief e
 
 Am späten Nachmittag, als das Licht im Hafen flacher geworden war, trat sie an den offenen Seerand neben der Werft. Die Grauwe mündete hier, brackig, olivgrün, zwei Ströme, die sich nicht entscheiden konnten, wer gewann. Möwen über dem Wasser, nicht viele; der Wind hatte sich gelegt, und die Segel draußen hingen schlaff, graue Wimpel zwischen grauem Wasser und grauem Himmel. Der Geruch war Salz und Teer und etwas, was verfaultes Tangzeug sein mochte, die Stadt nahm den Hafen in sich auf, wie der Hafen die Stadt.
 
-Maren schaute hin, nach nichts Bestimmtem. In einer Woche musste sie die Uhr holen. In einer Woche würde sie die Messingklinke des *Anker* wieder drücken, durch denselben Schankraum gehen, und dieser Mann würde aufblicken. Sie wusste es jetzt — nicht als Aussicht, nicht als Vorfreude. Als Tatsache. So, wie sie wusste, wann ein Boot im Wasser lag: dass ihr Körper in einer Woche nicht weniger wollen würde. Eher mehr.
+Maren schaute hin, nach nichts Bestimmtem. In vier Tagen musste sie die Uhr holen. In vier Tagen würde sie die Messingklinke des *Anker* wieder drücken, durch denselben Schankraum gehen, und dieser Mann würde aufblicken. Sie wusste es jetzt — nicht als Aussicht, nicht als Vorfreude. Als Tatsache. So, wie sie wusste, wann ein Boot im Wasser lag: dass ihr Körper in vier Tagen nicht weniger wollen würde. Eher mehr.
 
 Sie drehte sich um und ging zurück zum Boot. Harons Geruch empfing sie wie jeden Abend, Eichenholz und Pech und die Wärme, die der Schuppen über den Tag aufgenommen hatte und jetzt langsam zurückgab. Sie legte die Hand auf die nächste unfertige Planke, die dritte von oben, und fühlte das Holz unter ihrer Handfläche — stetig, satt, warm von der eigenen Sonne des Nachmittags. Eine Planke, die morgen ihren Platz finden würde, mit ihren Händen, mit ihrem Hobel, mit ihrer Aufmerksamkeit, die bis dahin hoffentlich wieder dort war, wo die Arbeit sie brauchte.
 

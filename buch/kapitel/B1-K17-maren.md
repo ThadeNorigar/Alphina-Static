@@ -1,6 +1,6 @@
 # B1-K17 — Maren
 
-*17. Blütenmond 551 · 7 Wochen 6 Tage in Vael*
+*19. Blütenmond 551 · 8 Wochen 1 Tag in Vael*
 
 Der Morgen war eine Stunde alt, als sie ihn kommen hörte. Schritte über das Pflaster der Hafengasse, die auf der Werft anders klangen als in der Stadt — das Holz des Bodens unter der Sohle, die Spanplatten am Eingang, die knarrende Schwelle, auf der Edric jeden Morgen mit dem linken Fuß zuerst stand. Dies war ein anderer Fuß. Ein gleichmäßiger Gang, nicht eilig, nicht schlendernd, ein Schritt der seine Länge kannte.
 
@@ -9,6 +9,8 @@ Sie hob den Kopf nicht sofort. Der Hobel lag schief, die letzte Welle in der Lä
 Er stand in der offenen Schiebetür, eine Hand am Rahmen, in der anderen ein Tuch aus ungebleichter Leinwand, eng um etwas Rechteckiges gewickelt. Hinter ihm stand die Sonne des Spätfrühlings, hell und rau, die Luft trug Salz und den Tang der rückläufigen Tide. Sein Gesicht lag halb im Schatten.
 
 "Guten Morgen." Seine Stimme war ruhig, eine Silbe nach der anderen. "Ich wollte die Uhr selbst bringen."
+
+Zwei Tage. Er hatte vier gesagt. Sie hatte sich auf vier eingerichtet, hatte die Tage mit Arbeit gefüllt, hatte das Holz geschnitten und nicht nachgezählt. Jetzt stand er nach zwei in der Tür, und etwas zwischen ihren Schlüsselbeinen rutschte einen halben Daumenbreit nach vorn und legte sich fest.
 
 Sie nickte. Legte den Hobel ab, sauber, Klinge nach oben, auf dem Platz auf der Werkbank, an dem er jeden Morgen lag. Wischte die Hände an der Schürze ab — die Hornspäne klebten an der Innenfläche, das war jetzt egal, aber es war die Bewegung, die Zeit verschaffte.
 

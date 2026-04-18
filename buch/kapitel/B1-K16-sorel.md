@@ -1,6 +1,6 @@
 # B1-K16 — Sorel
 
-*20. Blütenmond 551 · 7 Wochen 6 Tage in Vael*
+*18. Blütenmond 551 · 8 Wochen in Vael*
 
 
 Zwei Tage hatte er nicht entwickelt. Er war morgens aus dem Lichthaus-Keller hinaufgegangen, einen Umweg über den Markt gemacht, Kaffee bei der Kräuterfrau genommen, zurück unter die Erde. Er hatte den Entwicklertisch aufgeräumt, den er schon aufgeräumt hatte. Er hatte die Emulsionen inventarisiert, obwohl der Bestand seit einer Woche unverändert war. Er hatte den Messinghahn auseinandergeschraubt, den Dichtungsring geprüft, den Hahn wieder zusammengeschraubt. Jede Bewegung war eine saubere Verrichtung mit einem sauberen Anfang und einem sauberen Ende, und die Summe dieser Verrichtungen war, dass er nichts entwickelt hatte.
