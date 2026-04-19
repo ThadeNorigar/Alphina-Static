@@ -182,7 +182,7 @@ Dann nahm sie den Abendweg durch die Unterstadt, die Gassen voll mit der abendli
 
 Auf dem Marktplatz brannte schon eine Gaslampe, früh, die erste des Abends. Unter der Lampe standen zwei Männer und redeten halblaut über etwas, das sie nicht interessierte. An der Ecke der Anker-Gasse hing das geschmiedete Anker-Zeichen schief, wie immer. Das Scharnier war trocken. Sie hätte es in einer Viertelstunde richten können, mit dem Öl aus der Werft. Sie richtete es nicht. Ihre Hände waren heute nicht für fremde Angeln.
 
-Harons Haus hatte ihr der Notar am dritten Tag übergeben, mit einem Bescheid und zwei Unterschriften. Eine kleine Wohnung am unteren Ende der Hafengasse, fünf Straßen von der Werft, drei Minuten zu Fuß. Harons Ölmantel hatte noch am Haken gehangen. Sie hatte ihn abgenommen, die Taschen geleert, den Mantel in die Truhe gelegt und nicht wieder berührt.
+Die Wohnung hatte ihr der Notar am dritten Tag übergeben, mit einem Bescheid und zwei Unterschriften — eine kleine Zweizimmer-Wohnung am unteren Ende der Hafengasse, fünf Straßen von der Werft, drei Minuten zu Fuß. Sie gehörte zur Werft, Haron hatte sie bewohnt, jetzt bewohnte sie Maren. Harons Ölmantel hatte noch am Haken gehangen. Sie hatte ihn abgenommen, die Taschen geleert, den Mantel in die Truhe gelegt und nicht wieder berührt.
 
 In ihrer Wohnung zog sie die Stiefel aus. Setzte sich auf die Bettkante. Die Handgelenke innen waren noch warm.
 

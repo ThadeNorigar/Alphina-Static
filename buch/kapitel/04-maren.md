@@ -168,7 +168,7 @@ Sie ging.
 ---
 
 
-Die Pension hieß "Zum Hafenlicht." Der Wirt gab ihr einen Schlüssel für die erste Nacht und fragte nicht, ob sie länger blieb. Der Notar würde ihr am nächsten Morgen Harons Haus übergeben — Papiere, zwei Unterschriften, dann der Gang zur Hafengasse. Für heute reichten vier Wände.
+Die Pension hieß "Zum Hafenlicht." Der Wirt gab ihr einen Schlüssel für die erste Nacht und fragte nicht, ob sie länger blieb. Der Notar würde ihr am nächsten Morgen die Wohnung übergeben, die zur Werft gehörte und auf sie übergegangen war — Papiere, zwei Unterschriften, dann der Gang zur Hafengasse. Für heute reichten vier Wände.
 
 Das Zimmer war klein. Kerze auf dem Tisch, ein Bett, ein Stuhl, ein Fenster das auf den Marktplatz ging, und vor dem Fenster der Nebel, der jetzt, am Abend, dichter war als am Morgen, als hätte die Stadt die Luft angezogen und hielte sie fest. Die Wände rochen nach Kalk und nach dem Rauch des Kamins im Erdgeschoss, der durch die Decke sickerte, und die Dielen knarrten unter ihren Stiefeln, jede einzelne an einer anderen Stelle, und Maren ging den Raum ab, einmal, zweimal, die Hände an den Wänden, die Finger auf dem rauen Putz. Gewohnheit. In Solha hatte sie die Zimmer abgegangen. In Thessa. Auf dem Frachtschiff die Kabine, drei Schritte in jede Richtung. Den Raum kennenlernen, bevor der Raum sie kennenlernte.
 
