@@ -14,7 +14,7 @@
 
 **Fähigkeiten:** Dualistin. **Holz 5** (nährt die Familie — formt Möbel, flickt Schindeln, hält den Hof aus Holz in Stand), **Heilung 2** (Fieber bei den Kindern, Schnittwunden). Budget 7. Lädt in der Kethmarer Quellenhalle alle zwei Wochen, zahlt Beitrag.
 
-**Aussehen:** Mittelgroß, kräftig, von Wetter und Arbeit gezeichnet. Rotblondes Haar mit grauen Strähnen, zum Knoten gebunden. Hände mit feinen Holzspänen in den Fingerzwischenräumen. Graues Kleid mit Lederschnüren, nicht aus Modegründen konservativ, sondern weil sie kein Kleid hat, das nicht mindestens drei Jahre alt ist.
+**Aussehen:** Mittelgroß, kräftig, von Wetter und Arbeit gezeichnet. Rotblondes Haar mit grauen Strähnen, zum Knoten gebunden. Hände mit feinen Holzspänen in den Fingerzwischenräumen. Graues Kleid aus grobem Flachs mit Hanfschnüren, nicht aus Modegründen konservativ, sondern weil sie kein Kleid hat, das nicht mindestens drei Jahre alt ist.
 
 **Motivation:** Ihr Sohn Miran. Seit er sechzehn ist und die Weihe bestanden hat — knapp — hält sie die Welt auf Abstand, damit er in Ruhe leben kann.
 
@@ -90,7 +90,7 @@
 
 **Fähigkeiten:** Tripel, breit trainiert. **Feuer 4** (hat früher selbst am Tiegel gearbeitet, kann noch), **Energie 3** (Resonanz-Puls spüren bei Gerätetest), **Telekinese 2** (Kontorbücher bewegen). Budget 9.
 
-**Aussehen:** Breit, kurze graue Stoppelhaar, olivfarbene Haut. Rechte Hand mit feinen Brandspuren der Anfangsjahre. Dunkler Wollmantel über grauem Hemd, kein Gürtel — er trägt das Kontor-Siegel an einer Lederkordel um den Hals. Augen klein, aufmerksam, nie lange auf einer Person.
+**Aussehen:** Breit, kurze graue Stoppelhaar, olivfarbene Haut. Rechte Hand mit feinen Brandspuren der Anfangsjahre. Dunkler Mantel aus schwerem Flachsgewebe über grauem Hemd, kein Gürtel — er trägt das Kontor-Siegel an einer Hanfkordel um den Hals. Augen klein, aufmerksam, nie lange auf einer Person.
 
 **Motivation:** Das Ember-Kontor halten, koste es was es wolle. Drei seiner Geschwister sind im Krieg gefallen. Geld ersetzt keine Geschwister, aber es ersetzt alles andere.
 
@@ -102,7 +102,7 @@
 
 **Fähigkeiten:** Dualistin, spezialisiert. **Metall 5** (baut Bestien-Kerne, schmiedet ohne Ofen in kleinen Serien), **Elektrizität 3** (versteht Resonanzkopplung, kann Diagnosefunken setzen). Budget 8.
 
-**Aussehen:** Schlank, mittelgroß, bis zur Ellbogenbeuge rußig auch nach dem Bad. Schwarzes Haar praktisch kurz. Kupferarmband am linken Handgelenk, ein Geschenk einer Kollegin, das sie nie ausmacht. Arbeitskleidung grau, mit Lederschützer über den Unterarmen.
+**Aussehen:** Schlank, mittelgroß, bis zur Ellbogenbeuge rußig auch nach dem Bad. Schwarzes Haar praktisch kurz. Kupferarmband am linken Handgelenk, ein Geschenk einer Kollegin, das sie nie ausmacht. Arbeitskleidung grau, mit Hanfschützern über den Unterarmen.
 
 **Motivation:** Bestien bauen, die nicht im Einsatz zerbrechen. Sie hat zu viele Reiter gesehen, die in unzuverlässigen Bestien gestorben sind.
 
@@ -114,7 +114,7 @@
 
 **Fähigkeiten:** Dualistin, körperlich abnutzt. **Feuer 5** (Tiegel-Schmelze, Kernlegierung), **Metall 2** (einfaches Nachführen beim Erstarren). Budget 7. Regeneration langsamer als früher — Spätfolgen dauerhafter Überlastung, körperlich spürbar.
 
-**Aussehen:** Schmal, sehnig, trockene Haut. Dunkelbraunes Haar, an den Schläfen grau. Leichtes Zittern in den Fingern (Tremor nach Überzug, der nicht weggeht). Einfache Lederschürze, Lederbinden um die Waden.
+**Aussehen:** Schmal, sehnig, trockene Haut. Dunkelbraunes Haar, an den Schläfen grau. Leichtes Zittern in den Fingern (Tremor nach Überzug, der nicht weggeht). Einfache Schürze aus Grobleinen, Hanfbinden um die Waden.
 
 **Motivation:** Lohn für ihren Sohn (11), der im nächsten Jahr zur Wägung kommt. Sie will ihm eine andere Fabrik als ihre.
 
@@ -126,7 +126,7 @@
 
 **Fähigkeiten:** Dualist, reisetauglich. **Telekinese 4** (Waren ohne Werkzeug umladen), **Wasser 2** (Brunnen finden, Trinkwasser prüfen). Budget 6. Kennt jeden Rastpunkt zwischen Thar-Kem und Orath.
 
-**Aussehen:** Mittelgroß, sehnig, sonnengebräunte Haut. Kurzes braunes Haar. Gold-Ringe in beiden Ohrläppchen (Karawanen-Sitte: pro überlebte lange Fahrt einer). Lederjoppe mit innenliegenden Taschen, die er nie vor Fremden öffnet.
+**Aussehen:** Mittelgroß, sehnig, sonnengebräunte Haut. Kurzes braunes Haar. Gold-Ringe in beiden Ohrläppchen (Karawanen-Sitte: pro überlebte lange Fahrt einer). Joppe aus dickem Flachsgewebe, wachsbehandelt gegen Regen, mit innenliegenden Taschen, die er nie vor Fremden öffnet.
 
 **Motivation:** Sicher heimkommen. Familie in einem Dorf nahe Draveth — ein Haus, drei Kinder, eine Frau, die jedes Mal am Tor wartet.
 
@@ -154,7 +154,7 @@
 
 **Fähigkeiten:** Tripel, stark, oberes Budget-Ende. **Rufen 6**, **Binden 5** (aktuell sieben gebundene Schemen, einer seit 23 Jahren), **Licht 2**. Budget 13. Nähe zur Ausnahme-Begabung.
 
-**Aussehen:** Hochgewachsen, drahtig, Haltung einer Reiterin. Haar grau-silbern in metallischen Strähnen, zum Knoten gebunden. Augen eine ungewöhnliche Hellgrau-fast-Eisfarbe. Dünne, dunkelblaue Wollroben mit silbernen Applikationen — zurückhaltend. Brosche aus Basalt und Quarz am Kragen, Handarbeit eines Former-Angestellten aus dem Haus.
+**Aussehen:** Hochgewachsen, drahtig, gerade aufrechte Haltung einer Kommandierenden. Haar grau-silbern in metallischen Strähnen, zum Knoten gebunden. Augen eine ungewöhnliche Hellgrau-fast-Eisfarbe. Dünne, dunkelblaue Roben aus feingesponnenem Flachs mit silbernen Applikationen — zurückhaltend. Brosche aus Basalt und Quarz am Kragen, Handarbeit eines Former-Angestellten aus dem Haus.
 
 **Motivation:** Die Tradition von Haus Torven in der dritten Generation weitergeben. Ihre Enkelin soll mit sechzehn ihre erste Bindung vollziehen — Irenna bereitet sie seit dem zwölften Lebensjahr vor.
 
@@ -204,7 +204,7 @@
 
 **Fähigkeiten:** Dualist, verweigert die Hälfte. **Rufen 5**, **Binden 1** (theoretisch gelernt, praktisch abgelehnt). Budget 6 — Mindest-Niveau für Rufer-Kaste.
 
-**Aussehen:** Groß, knochig, fünfziger Jahre zu sehen. Schlecht verheilte Narbe über dem rechten Jochbein (Sturz vom Pferd mit 15, kein Heiler im Haus — eine Demonstrativ-Narbe). Graubraunes Haar, ungepflegt zum kurzen Zopf gebunden. Mantel aus Grauleinen — zu billig für seinen Stand, absichtlich. Keine Schmuckstücke. Stiefel stadtfein, aber abgenutzt.
+**Aussehen:** Groß, knochig, fünfziger Jahre zu sehen. Schlecht verheilte Narbe über dem rechten Jochbein (Sturz vom Stadtmauer-Gerüst mit 15, der Heiler des Hauses wurde auf Drevens Weigerung hin nicht gerufen — eine Demonstrativ-Narbe). Graubraunes Haar, ungepflegt zum kurzen Zopf gebunden. Mantel aus Grauleinen — zu billig für seinen Stand, absichtlich. Keine Schmuckstücke. Stiefel stadtfein, aber abgenutzt.
 
 **Motivation:** Zeuge bleiben. Er weiß, was Varen getan hat, und er weiß, dass Velmar schweigt. Wenn die Wahrheit jemals rauskommt, will er derjenige sein, der nicht überrascht ist.
 

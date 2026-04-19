@@ -29,7 +29,7 @@
 | 35–50 | Stufe 4–5 | 3/2 oder 4/1 | 2/2/1 |
 | 50+ | Stufe 5–6 (seltene Meister: 7–8) | 4/3 | 3/2/2 |
 
-Stufe 8 bei Moragh-Bürgern selten — nur außergewöhnliche Einzelbegabungen mit Lebensarbeit. **Stufe 9 ist mit sehr viel Training erreichbar**, aber selten praxistauglich (die meisten Menschen trainieren nicht an der Grenze ihrer Leistungsfähigkeit, und die Wenigen, die es tun, sind legendäre Meister ihres Felds). **Stufe 10 ist für Moragh-Bürger tabu** — reserviert für die Thalassier der Fünf (andere Mechanik durch den Riss).
+**Spezialisten (1 Talent) erreichen maximal Stufe 8** — das ist die Obergrenze einer Einzelbegabung. **Stufe 9 ist nur für Dualisten oder Mehrfachbegabte** möglich, die sich über Jahre auf eine Fähigkeit fokussiert haben (und ihre anderen Talente auf Stufe 1–2 belassen). **Stufe 10 ist für Moragh-Bürger tabu** — reserviert für die Thalassier der Fünf (andere Mechanik durch den Riss).
 
 **Niedrig-Begabte (~5 % der Bevölkerung)** erreichen meist nur Stufe 2 in einem Talent — unabhängig von Alter und Übung. Sie arbeiten in Berufen, die ihr schwaches Feld abdeckt.
 
@@ -59,7 +59,7 @@ Jede Person hat ein **Grundbudget** zwischen 4 und 8 Punkten (Stärke), das nach
 | Quadrupel | 4.9 % | Selten, oft "Jack of all trades" mit Stufe 3 als Deckel |
 | Fünffach | 0.1 % | Ausnahme; Varen ist hier, mit weit über dem Normalbudget |
 
-Eine dualbegabte Person kann eine Fähigkeit bis zur Grenze ausbauen und die andere auf Stufe 1 belassen — sie zählt weiter als Dualistin und behält das höhere Gesamt-Budget. Stufe 9 ist theoretisch möglich, wenn Begabung und Training extrem sind. Stufe 10 bleibt aber tabu — das ist Thalassier-Territorium.
+Eine dualbegabte Person kann eine Fähigkeit bis Stufe 9 ausbauen und die andere auf Stufe 1 belassen — sie zählt weiter als Dualistin und behält das höhere Gesamt-Budget. Diese Fokussierung braucht jahrelanges Training, ist selten, aber möglich. Reine Spezialisten erreichen maximal Stufe 8. Stufe 10 bleibt in jedem Fall tabu — das ist Thalassier-Territorium.
 
 ---
 
@@ -94,7 +94,7 @@ Vollständige Schemen-Regeln (Substanz, Beschwörung, Zerstörung, Spuren in Tha
 
 ---
 
-## Die 21 Talente
+## Die 20 Talente
 
 | Kategorie | Talente |
 |---|---|
@@ -103,11 +103,13 @@ Vollständige Schemen-Regeln (Substanz, Beschwörung, Zerstörung, Spuren in Tha
 | Materialien | Metall · Holz · Glas/Kristall |
 | Bewegung/Kraft | Telekinese · Schall/Klang |
 | Energie | Licht · Elektrizität · Energie · Druck/Gravitation |
-| Leben (nur aufbauend) | Pflanzen/Flora · Heilung/Gewebe · Tiere/Fauna |
+| Leben (nur aufbauend) | Pflanzen/Flora · Heilung/Gewebe |
 | Temperatur | Eis/Kälte |
 | Zeit | Zeit |
 
-**Universelle Regel für Leben-Talente:** Pflanzen, Heilung und Fauna können **nur aufbauen** — Zellwachstum beschleunigen, heilen, Tiere bewegen und halten. **Keine Zell-Zerstörung, kein Welken, kein magisches Töten.** Indirekte Schäden sind möglich (Wurzeln sprengen Mauern, Heilung kann mit Gewebeaufbau überlasten), aber keine direkte schadende Anwendung.
+**Hinweis — keine Tier-Magie:** Moragh verfügt über keinerlei natürliche Tierwelt. Es gibt daher kein Fauna-Talent, keine Tierbeeinflussung, keine Tier-Spionage. Was wie Tiere aussieht (Thar-Magitech-Bestien) sind Maschinen, keine Lebewesen; die dazugehörigen Piloten heißen kulturell **Reiter**, ohne dass je ein organisches Reittier existiert hätte.
+
+**Universelle Regel für Leben-Talente:** Pflanzen und Heilung können **nur aufbauen** — Zellwachstum beschleunigen, heilen. **Keine Zell-Zerstörung, kein Welken, kein magisches Töten.** Indirekte Schäden sind möglich (Wurzeln sprengen Mauern), aber keine direkte schadende Anwendung.
 
 ---
 
@@ -376,23 +378,6 @@ Vollständige Schemen-Regeln (Substanz, Beschwörung, Zerstörung, Spuren in Tha
 
 **Kein Tumor, kein Altern, kein Zellabbau.** Auch nicht willentlich.
 
-### Tiere/Fauna (nur aufbauend)
-
-| Stufe | Fähigkeit |
-|---|---|
-| 1 | Hund kommt unaufgefordert |
-| 2 | Pferd ruhig halten |
-| 3 | Vögel zur Hand locken |
-| 4 | Verletztes Tier heilen (verwandt mit Gewebe) |
-| 5 | Raubtier gehorcht |
-| 6 | Schwarm dirigieren (Vögel, Insekten) |
-| 7 | Körperwärme mit Tier teilen — im Schneesturm überleben |
-| 8 | Durch Tier-Augen sehen |
-| 9 | Große Raubtiere als Wache halten |
-| 10 | Tierschwarm über Kilometer steuern |
-
-**Wirkt nicht auf Menschen** — Menschen haben Magie, Tiere nicht. Das macht Fauna-Begabte nützlich für Spionage über Tiere, aber nicht für direkte Gewalt gegen Menschen.
-
 ### Eis/Kälte
 
 | Stufe | Fähigkeit |
@@ -412,15 +397,19 @@ Vollständige Schemen-Regeln (Substanz, Beschwörung, Zerstörung, Spuren in Tha
 
 ### Schemen rufen
 
+**Eine Beschwörung dauert maximal 2–3 Stunden.** Längere Präsenz erfordert Bindung (Sekundär-Talent). Beschwörung kann **überall** stattfinden, Quellennähe ist nicht nötig — der Rufer zieht aus seinem eigenen aufgeladenen Magie-Vorrat.
+
+**Element-Fähigkeiten des Schemen:** Der Rufer kann dem Schemen nur Element-Fähigkeiten mitgeben, die er selbst beherrscht. Einen Feuer-Schemen kann also nur rufen, wer auch Feuer beherrscht — oder er arbeitet in einem kleinen Ritual mit einem Feuer-Begabten zusammen, der die Fähigkeit als Co-Spender einspeist (der Co-Spender braucht kein Rufen-Talent). Spezial-Fähigkeiten (Mimikri, Teleportation, Diffusion) sind Teil der Beschwörungs-Kunst und werden vom Rufer allein mitgegeben.
+
 | Stufe | Fähigkeit |
 |---|---|
-| 1 | Spürt offene Beschwörungsstellen (Quellen-nah) |
-| 2 | Sehr kleiner Schemen (mausgroß), Sekunden |
+| 1 | Insektengroßer Schemen, wenige Minuten |
+| 2 | Mausgroßer Schemen, eine Aufgabe |
 | 3 | Katzengroßer Schemen, eine kurze Aufgabe |
-| 4 | Kniehoch, 2–3 Tage, einfache Aufgaben |
-| 5 | Mannsgroßer humanoider Schemen, 2–5 Aufgaben |
+| 4 | Kniehoch, einfache Aufgaben |
+| 5 | Mannsgroßer humanoider Schemen |
 | 6 | Schemen mit einer Spezial-Fähigkeit (Mimikri, Teleportation, Diffusion) |
-| 7 | Hafenarbeiter-Statur (meist nur im Ritual mit mehreren) |
+| 7 | Kräftig gebauter Schemen (meist nur im Ritual mit mehreren) |
 | 8 | Schemen mit drei Spezial-Fähigkeiten zugleich |
 | 9 | Übergroßer Schemen (3–4 Mann hoch) solo |
 | 10 | Schrecken-Klasse — Kampf-Schemen mit Mehrfach-Elementen |
@@ -461,7 +450,7 @@ Zwei oder mehr Begabte können ihre Talente koppeln. Wirkung = Summe plus Synerg
 ## Harte Regeln zusammengefasst
 
 1. Keine Unbegabten. Jeder Bürger hat mindestens ein Talent.
-2. Training über Jahre. Stufe 10 praktisch nie erreichbar für Moragh-Bürger.
+2. Spezialisten max Stufe 8. Stufe 9 nur für Dualisten+ mit jahrelanger Fokussierung auf eine Fähigkeit. Stufe 10 tabu — nur Thalassier.
 3. Pflanzen, Heilung, Fauna: **nur aufbauend**, kein Zellschaden.
 4. Binden nur als Sekundärtalent bei Rufern.
 5. Keine Fernkampfmagie für Einzelne. Rituale sind die Ausnahme.

@@ -17,6 +17,14 @@
 
 **Kontrast zu Thalassien:** Thalassien hat Werkzeuge, Maschinen, Medizin, Handwerk. Thalassien funktioniert OHNE Magie. Deshalb verstehen Thalassier in Moragh nicht, warum alle so abhängig sind — und Moragh-Menschen verstehen nicht, wie man ohne Magie überleben kann.
 
+**Keine Tierwelt.** Moragh verfügt über keinerlei organische Fauna — keine Pferde, keine Hunde, keine Vögel, keine Insekten. Konsequenzen für den Alltag:
+
+- **Kein Leder, keine Wolle, keine Seide.** Kleidung wird aus Pflanzenfasern gewebt (Flachs, Hanf, Baumwolle) oder wachsbehandelt. Feinste Gewebe werden von feinmotorischen Pflanzen-Begabten direkt aus der Pflanzenmutter gezogen.
+- **Vegetarische Kost.** Keine Fleisch-, Milch- oder Eiprodukte. Pflanzen, Pilze, Hefen, fermentierte Gemüse.
+- **Reittiere existieren nicht.** Wer "Reiter" heißt, ist Pilot einer Thar-Magitech-Bestie (Maschine, kein Lebewesen). Karawanen ziehen Wagen mit Telekinese oder Magitech-Antrieb.
+- **Keine Jagd, keine Felle, keine Trophäen.** Die Kultur hat diese Motive nicht.
+- **Magitech-Bestien** sind tier-geformte Maschinen und die einzige "Tierwelt", die Moragh kennt. Ihre Herkunft und Funktion siehe `18-thar-magitech.md` und zukünftige Klarstellung vom Autor.
+
 **Totale Abhängigkeit:** Moragh ohne Magie = Zivilisationskollaps. Das ist der Grund, warum die Quellen-Zerstörung so verheerend ist — jede tote Quelle bedeutet nicht nur weniger Magie, sondern weniger Essen, weniger Medizin, mehr Tote.
 
 ---
@@ -168,7 +176,7 @@ Unterhalb der Haus-Ebene: freie Paarbindungen, oft serielle Monogamie, ohne reli
 
 Lang gestreckt, niedrig, aus gewachsenem Moragh-Stahl. Keine Nieten, keine Schrauben — Wände in einem Stück geformt, Nähte als Muster sichtbar, wo Stein- und Metall-Begabte sich getroffen haben.
 
-In der Mitte **Schmelztiegel-Gruben**, je 3–4 Feuer-Arbeiterinnen pro Grube. Sie stehen mit bloßen Händen am Rand und senken ihre Hitze in die Legierung. Kein Ofen, kein Blasebalg. Durchnässte Lederbänder um die Waden, weil der Boden glühend wird. Neben jeder Grube ein Stein-Arbeiter, der die Gussform modelliert. Ein Metall-Begabter zieht die Legierung beim Erstarren nach.
+In der Mitte **Schmelztiegel-Gruben**, je 3–4 Feuer-Arbeiterinnen pro Grube. Sie stehen mit bloßen Händen am Rand und senken ihre Hitze in die Legierung. Kein Ofen, kein Blasebalg. Durchnässte Hanfbänder um die Waden, weil der Boden glühend wird. Neben jeder Grube ein Stein-Arbeiter, der die Gussform modelliert. Ein Metall-Begabter zieht die Legierung beim Erstarren nach.
 
 An den Wänden **Brut-Kammern**, in denen Rohlinge für Bestien-Kerne heranwachsen — Feuer-Begabte mit geringer Magie wärmen die Kammern schichtweise.
 

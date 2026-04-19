@@ -513,7 +513,7 @@ Beschwörung ist ein **Handwerk**, keine Resonanz-Begabung. Wer die Technik kenn
 Bei der Beschwörung definiert der Beschwörer drei Kernparameter:
 
 1. **Masse** — Größe und Körpergewicht, ab Beschwörung fix
-2. **Grobe Form** — katzengroß, humanoid, tierhaft, massig wie ein Hafenarbeiter
+2. **Grobe Form** — insektengroß, katzengroß, humanoid, kräftig gebaut (Moragh kennt keine organischen Tiere — tier-ähnliche Formen sind rein magische Gestalten)
 3. **Magieelement** — Feuer, Eis, Erde, Wasser, Metall, Hitze, Kälte
 
 Zusätzlich kann der Beschwörer **einzelne Spezial-Fähigkeiten** mitgeben:
@@ -522,7 +522,9 @@ Zusätzlich kann der Beschwörer **einzelne Spezial-Fähigkeiten** mitgeben:
 - **Teleportation** — kurze Distanzen in Rauch auflösen und woanders verdichten (wenige bis ~zwanzig Meter)
 - **Diffusion** — durch feste Wände oder verschlossene Türen hindurch gleiten, langsam, kräftezehrend
 
-**Beschwörungs-Schwierigkeit skaliert mit Masse.** Kleine Schemen (katzengroß bis kniehoch) sind Routine. Mannsgroße Schemen brauchen Jahre Training. Übergroße Schemen — Hafenarbeiter-Statur und mehr — brauchen ein **Ritual mit mehreren Beschwörern**.
+**Beschwörungs-Schwierigkeit skaliert mit Masse.** Kleine Schemen (insekten- bis katzengroß) sind Routine. Mannsgroße Schemen brauchen Jahre Training. Übergroße Schemen brauchen ein **Ritual mit mehreren Beschwörern**.
+
+**Element-Fähigkeiten** des Schemen muss der Rufer selbst beherrschen — oder einen Mit-Spender in das Ritual einbinden, der das Element mitgibt (der Mit-Spender braucht kein Rufen-Talent). Spezial-Fähigkeiten (Mimikri, Teleportation, Diffusion) sind Teil der Beschwörungs-Kunst und werden vom Rufer allein mitgegeben.
 
 ### Magie-Preis
 
@@ -530,7 +532,7 @@ Der Schemen zahlt den Preis seiner eigenen Zauber aus seinem eigenen Magie-Vorra
 
 ### Zwei Arten
 
-**Beschworene Schemen** (temporär) halten 2–3 Tage oder 2–5 Aufgaben, ohne Regeneration. Ihre **Interessen-Spanne** bestimmt wann sie gehen, nicht der Wille des Beschwörers.
+**Beschworene Schemen** (temporär) halten **maximal 2–3 Stunden**, dann lösen sie sich auf. Ihre **Interessen-Spanne** kann sie schon früher gehen lassen — wenn die Aufgabe sie langweilt, verschwinden sie unaufgefordert. Wer länger braucht, muss binden.
 
 **Gebundene Schemen** (dauerhaft) regenerieren und bleiben, bis der Beschwörer sie freilässt oder stirbt. Varens Schemen in Vael sind **alle gebunden**: Alphinas Beobachter, die Steinkreis-Wächter, der Nachtholm-Mimikry-Schemen, die Fußnoten-Platzierer.
 
