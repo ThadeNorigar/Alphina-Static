@@ -1455,15 +1455,18 @@
       "buch": "B1",
       "kapitel": "24",
       "leseart": "normal",
-      "titel": "Archiv: Ritual-Papier, Moragh-Sprachbuch, Schemen-Fingerabdruecke",
-      "detail": "Alle vier im Archiv, zweiter Besuch. Jara Voss schiebt Vesper wortlos einen Folianten zu — Randnotizen in fremder Handschrift, ein Moragh-Sprachbuch, Ritual-Anweisungen mit Steinkreis-Zeichnung. Schemen-Fingerabdruecke auf dem Papier. Varen hat es platziert. Ab hier wissen sie: ein Ritual existiert.",
+      "titel": "Archiv: Ritual-Papier, Moragh-Sprachbuch, Lene Dahls Bericht",
+      "detail": "Alle vier im Archiv, zweiter Besuch. Jara Voss schiebt Vesper wortlos einen Folianten zu — Randnotizen in fremder Handschrift, ein Moragh-Sprachbuch von Haron Dahl, Ritual-Anweisungen mit Steinkreis-Zeichnung. Schemen-Fingerabdrücke auf dem Papier. Varen hat es platziert. Ab hier wissen sie: ein Ritual existiert. Zusätzlich wird Lene Dahls Bericht im Manuskript lesbar — das Schicksal der ersten Vier (TZ 154): Elke und Kesper durch das Portal verschwunden, Keldan vom Wesen getötet, Lene allein zurückgeblieben. Sorel nimmt die Erkenntnis stumm mit — Setup für sein Schwur in K30.",
       "typen": [
-        "schlüssel",
-        "tschechow"
+        "erkenntnis",
+        "tschechow",
+        "wissen"
       ],
       "tags": [
-        "Schluesselereignis: Ritual-Anleitung gefunden",
-        "Setup: Moragh-Sprache lernen"
+        "Tschechow: Lene Dahls Bericht (2 verschwunden, 1 getötet, 1 überlebt)",
+        "Tschechow: Ritual-Papier mit Schem-Fingerabdrücken (Varen hat es platziert)",
+        "Tschechow: Harons Moragh-Wörterbuch",
+        "Manuskript teilweise gefälscht (Varens Überschreibungen)"
       ],
       "kapitel_status": "szenenplan"
     },
@@ -1499,17 +1502,18 @@
       "buch": "B1",
       "kapitel": "26",
       "leseart": "normal",
-      "titel": "Gruppe bringt Ergebnisse zusammen — Entscheidung, das Buch zu lernen",
-      "detail": "Tidemoor-Haus. Datenabgleich: Uhren-Drift (Vesper), Gezeiten (Maren), Farne und Moragh-Geruch (Alphina), Platten-Anomalien (Sorel). Halvards Patienten-Berichte dazu. Erkenntnis: die Phänomene sind systematisch, nicht zufällig — etwas kommt aktiv durch. Kernfrage in der Runde: 'Wenn es hierher kann, können wir dorthin?' Entscheidung: Moragh-Sprache aus Harons Wörterbuch lernen, Manuskript und Ritual verstehen. Kein Entschluss zum Durchgang (kommt K33). Vesper bemerkt Korrelation zwischen Uhren-Drift und Gezeiten, hat aber noch keinen Beweis — Seed für K32.",
+      "titel": "Gruppe in Marens Wohnung — Entscheidung zum Durchgang und Training",
+      "detail": "Marens Wohnung. Datenabgleich: Uhren-Drift (Vesper), Gezeiten (Maren), Farne und Moragh-Geruch (Alphina), Platten-Anomalien (Sorel). Halvards Patienten-Berichte dazu. Erkenntnis: die Phänomene sind systematisch, nicht zufällig — etwas kommt aktiv durch. Entscheidung: sie gehen auf die andere Seite, aber vorher trainieren sie ihre Kräfte und lernen Moragh-Sprache und Ritual-Anweisungen. K33 ist die Ausführung, nicht die Debatte. Vesper bemerkt erste Korrelation zwischen Uhren-Drift und Gezeiten, noch ohne Erklärung — Seed für K32. Am Ende gehen Sorel und Alphina; Vesper und Maren bleiben in Marens Wohnung, um an der Übersetzung weiterzuarbeiten — nahtloser Übergang zu K27.",
       "typen": [
         "erkenntnis",
         "tschechow",
         "wissen"
       ],
       "tags": [
-        "Entscheidung: Training und Buch verstehen",
-        "Tschechow: Grundfrequenz-Seed (Drift + Gezeiten korrelieren, noch ohne Beweis)",
-        "Motivation für 3-Monats-Zeitsprung"
+        "Entscheidung: Durchgang + Training",
+        "Motivation für 3-Monats-Zeitsprung (Trainings-/Lernphase)",
+        "Tschechow: Drift-Gezeiten-Korrelation (Seed für K32-Schwerkraft)",
+        "V+M bleiben -> Übergang K27"
       ],
       "kapitel_status": "szenenplan"
     },
@@ -1522,15 +1526,17 @@
       "buch": "B1",
       "kapitel": "27",
       "leseart": "normal",
-      "titel": "Vesper + Maren: erste Dom/Sub-Nacht im Archiv",
-      "detail": "Spät, die anderen schlafen. Maren hilft bei Uebersetzungen aus dem Moragh-Sprachbuch. Vesper legt die Hand auf ihre Schulter um auf eine Zeile zu zeigen — dieselbe Geste wie K19, aber ohne Verband, ohne Ausrede. Er nimmt sie nicht weg, sie bewegt sich nicht. Er gibt ihr wenig Bewegungsspielraum, und sie entdeckt: das ist der Zustand, in dem ihr Kopf aufhört zu laufen. Danach schlaeft sie sofort ein.",
+      "titel": "Vesper + Maren: erste Dom/Sub-Nacht in Marens Wohnung",
+      "detail": "Direkter Anschluss an K26 — die anderen sind gegangen, Vesper und Maren sitzen in Marens Wohnung zwischen Moragh-Sprachbuch und Übersetzungen. Kerzen heruntergebrannt, die Luft dicht von altem Papier und warmem Wachs. Vesper zeigt auf eine Zeile, legt die Hand auf ihre Schulter — dieselbe Geste wie in K19, aber ohne Verband, ohne Ausrede. Er nimmt die Hand nicht weg. Sie bewegt sich nicht. Was folgt ist ruhig, präzise. Er gibt ihr wenig Bewegungsspielraum; sie entdeckt, dass das der Zustand ist, in dem ihr Kopf aufhört zu laufen. Danach schläft sie sofort ein, sein Mantel über den Schultern. Vesper bleibt wach, übersetzt weiter.",
       "typen": [
         "erotik",
-        "schlüssel"
+        "beziehung"
       ],
       "tags": [
-        "Erotik: Vesper + Maren Dom/Sub",
-        "Schluesselereignis: Maren bleibt"
+        "Erste Dom/Sub-Nacht Vesper+Maren",
+        "Ortswechsel vom alten Canon: Marens Wohnung statt Archiv",
+        "Rhyme zu K19 (Hand auf Schulter, diesmal ohne Ausrede)",
+        "Maren bleibt (Tschechow für K36)"
       ],
       "kapitel_status": "szenenplan"
     },
@@ -1589,14 +1595,18 @@
       "buch": "B1",
       "kapitel": "30",
       "leseart": "normal",
-      "titel": "Sorel: die Nacht nach der Versoehnung — letztes ruhiges Kapitel",
-      "detail": "Sie schlaeft. Er liegt wach. Betrachtet sie im Mondlicht — und seine Hände, die Platten die er vernichten will und nicht vernichtet. Das letzte ruhige Kapitel eines Mannes der ahnt, dass er nicht zurueckkommen wird.",
+      "titel": "Sorels Schwur — dann Alarmglocken, Nacht-Angriff dämonischer Schemen",
+      "detail": "Sorel neben Alphina im Bett, liegt wach. Mondlicht. Er denkt an Lene Dahls Bericht aus K24: Elke und Kesper verschwunden, Keldan getötet — einer oder mehrere könnten sterben. Er schwört sich selbst, alles zu tun, um Alphina zu schützen. Dieser Schwur ist das, was in K35 fatal wird. Dann: Alarmglocken reißen die Stadt aus dem Schlaf. Dämonische Schemen greifen an — die erste große Offensive, orchestriert von Varen (der selbst verborgen bleibt bis K35). Die Gruppe erwacht und muss kämpfen. Sorel nutzt seine in K29 gemeisterte Licht-Magie aktiv im Kampf. Der Schwur wird unmittelbar getestet.",
       "typen": [
-        "hintergrund"
+        "kampf",
+        "tschechow",
+        "resonanz"
       ],
       "tags": [
-        "Sorels letzter Ruhemoment",
-        "Tschechow: Platten bleiben"
+        "Tschechow: Sorels Schwur, Alphina zu schützen (feuert K35)",
+        "Erste große Schemen-Offensive, orchestriert von Varen (verborgen)",
+        "Sorel nutzt Licht-Magie im Kampf (aktive Anwendung nach K29-Meisterung)",
+        "Eskalationspunkt nach K29 Schem-Entdeckung"
       ],
       "kapitel_status": "szenenplan"
     },
@@ -1630,15 +1640,18 @@
       "buch": "B1",
       "kapitel": "32",
       "leseart": "normal",
-      "titel": "Vesper: Grundfrequenz + Gezeiten = Varens Atem",
-      "detail": "Vesper allein, Kerzen und Papier. Legt seine Uhren-Drifttabelle neben Marens Gezeitendaten neben Runas Schemen-Chronologie. Die Grundfrequenz 4:33 passt exakt in den Rhythmus der rückwärts fliessenden Grauwe. Die Schemen kommen mit jedem Ausatmen. Jemand auf der anderen Seite ATMET. Er rennt zur Werft: 'Deine Gezeiten. Meine Frequenz. Dasselbe Muster.'",
+      "titel": "Vesper erkennt Schwerkraftanomalie — Baseline und Varens Störung",
+      "detail": "Spätherbst. Vesper, nachts, Kerzen und Papier. Er hat Marens Gezeitendaten. Er hat die Uhren-Drift aus fünf Monaten — sechzehn Vael-Uhren, alle im selben Muster: der 4:33-Takt. Nicht kumulativ pro Tag, sondern periodisch. Er rechnet zurück durch die Pendel-Physik: T = 2π√(L/g). Die Drift entsteht durch periodische Schwankungen der Schwerkraft selbst. Eine Schwerkraftanomalie mit Periode 4:33 Minuten — in Moragh-Dauer etwa 0,68 Sekunden. Eigenresonanz der Portalgrenze zwischen den Welten (Verhältnis 1:400). Baseline: seit Jahrhunderten da, in der Tidemoor-Uhr dokumentiert. Marens Gezeiten-Anomalien sind derselbe Effekt auf Wasser. Störung darüber: zunehmende Schemen-Sichtungen, Moragh-Flora, unmögliche Verletzungen — das ist neu, das ist Varens Nutzung des natürlichen Takts. Er rennt zu Maren. 'Deine Gezeiten. Meine Drift. Dieselbe Schwerkraft.' Maren versteht sofort — sie hat es im Körper gespürt, nicht im Kopf.",
       "typen": [
         "erkenntnis",
+        "tschechow",
         "schlüssel"
       ],
       "tags": [
-        "Erkenntnis: Jemand lebt auf der anderen Seite",
-        "Tschechow: 4:33 = Varen"
+        "Zentrale Erkenntnis: Schwerkraftanomalie, nicht 'Atmen'",
+        "Baseline seit Jahrhunderten (Tidemoor-Uhr), Varens Störung darüber",
+        "Vesper + Maren auf derselben Physik vereint",
+        "Varen ist Nutzer des Takts, nicht Erzeuger"
       ],
       "kapitel_status": "szenenplan"
     },
