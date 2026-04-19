@@ -1,0 +1,783 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vael — Karten-Editor</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #1a1714; color: #c8bfb0; font-family: 'Inter', system-ui, sans-serif; font-size: 12px; display: flex; height: 100vh; overflow: hidden; }
+
+  #sidebar { width: 280px; background: #1f1c18; border-right: 1px solid #333; padding: 12px; overflow-y: auto; flex-shrink: 0; }
+  #sidebar h2 { font-size: 14px; color: #f0e6d8; margin-bottom: 8px; font-weight: 400; letter-spacing: 0.1em; }
+  #sidebar h3 { font-size: 11px; color: #8a8279; margin: 12px 0 6px; text-transform: uppercase; letter-spacing: 0.1em; }
+
+  .type-btn {
+    display: block; width: 100%; padding: 5px 10px; margin: 2px 0; border: 1px solid #333;
+    border-radius: 3px; cursor: pointer; font-size: 11px; text-align: left;
+    background: rgba(255,255,255,0.03); color: #c8bfb0;
+  }
+  .type-btn:hover { background: rgba(255,255,255,0.08); }
+  .type-btn.active { border-color: #f0e6d8; background: rgba(255,255,255,0.1); }
+
+  .place-row {
+    padding: 5px 8px; border-left: 3px solid #333; margin: 2px 0; cursor: pointer; font-size: 11px;
+    background: rgba(255,255,255,0.02);
+  }
+  .place-row:hover { background: rgba(255,255,255,0.06); }
+  .place-row.active { background: rgba(184,134,11,0.12); border-left-color: #b8860b; }
+  .place-row .type-tag { color: #6b6259; font-size: 9px; text-transform: uppercase; letter-spacing: 0.08em; }
+
+  #place-info { background: rgba(255,255,255,0.03); border: 1px solid #333; border-radius: 4px; padding: 8px; margin-top: 8px; }
+  #place-info label { display: block; font-size: 10px; color: #8a8279; margin-top: 6px; }
+  #place-info input, #place-info select, #place-info textarea {
+    width: 100%; background: #2a2520; border: 1px solid #444; border-radius: 3px;
+    padding: 4px 6px; color: #f0e6d8; font-size: 11px; margin-top: 2px; font-family: inherit; resize: vertical;
+  }
+  #place-info textarea { min-height: 50px; }
+
+  #map-container { flex: 1; cursor: crosshair; position: relative; }
+  svg { width: 100%; height: 100%; display: block; }
+
+  .action-bar { display: flex; gap: 4px; margin-top: 6px; flex-wrap: wrap; }
+  .action-btn {
+    padding: 5px 10px; border: 1px solid #555; border-radius: 3px; cursor: pointer;
+    font-size: 10px; background: rgba(255,255,255,0.05); color: #c8bfb0; font-family: inherit;
+  }
+  .action-btn:hover { background: rgba(255,255,255,0.1); }
+  .action-btn.danger { border-color: #e74c3c; color: #e74c3c; }
+  .action-btn.primary { border-color: #b8860b; color: #b8860b; }
+  .view-btn.active { border-color: #b8860b; color: #b8860b; background: rgba(184,134,11,0.1); }
+
+  .help { font-size: 10px; color: #6b6259; line-height: 1.6; margin-top: 10px; }
+  .help kbd { background: #2a2520; padding: 1px 4px; border-radius: 2px; border: 1px solid #444; font-size: 9px; }
+
+  #lock-bar {
+    position: fixed; top: 12px; right: 12px; z-index: 20;
+    display: flex; gap: 6px; align-items: center;
+    background: rgba(26,23,20,0.85); border: 1px solid #333;
+    border-radius: 4px; padding: 6px 8px; backdrop-filter: blur(4px);
+  }
+  #lock-btn {
+    padding: 6px 12px; border: 1px solid #555; border-radius: 3px; cursor: pointer;
+    font-size: 11px; background: rgba(255,255,255,0.05); color: #c8bfb0; font-family: inherit;
+  }
+  #lock-btn.locked { border-color: #b8860b; color: #b8860b; background: rgba(184,134,11,0.08); }
+  #lock-btn.unlocked { border-color: #5a7a5a; color: #8fae8f; background: rgba(90,122,90,0.12); }
+
+  .locked-ui .type-btn,
+  .locked-ui .action-btn:not(.view-btn):not(.reset-btn):not(.link-btn),
+  .locked-ui #place-info input,
+  .locked-ui #place-info select,
+  .locked-ui #place-info textarea {
+    opacity: 0.4; pointer-events: none;
+  }
+
+  #toast { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); background: #2a2520; border: 1px solid #b8860b; color: #f0e6d8; padding: 8px 16px; border-radius: 4px; font-size: 11px; display: none; z-index: 100; }
+  #scale-bar { position: fixed; bottom: 24px; right: 24px; z-index: 10; background: rgba(26,23,20,0.8); padding: 6px 10px; border-radius: 4px; border: 1px solid rgba(255,255,255,0.08); }
+</style>
+</head>
+<body>
+
+<div id="sidebar">
+  <h2>VAEL EDITOR</h2>
+
+  <h3>Ansicht</h3>
+  <div class="action-bar">
+    <button class="action-btn view-btn active" id="btn-v-overview" onclick="setView('overview')">Übersicht</button>
+    <button class="action-btn view-btn" id="btn-v-districts" onclick="setView('districts')">Quartiere</button>
+    <button class="action-btn view-btn" id="btn-v-movement" onclick="setView('movement')">Bewegung</button>
+  </div>
+
+  <h3>Orte (<span id="place-count">0</span>)</h3>
+  <div id="place-list" style="max-height:280px; overflow-y:auto; margin-bottom:8px;"></div>
+
+  <div id="place-info">
+    <div style="color:#8a8279; font-style:italic;" id="no-sel">Klick auf einen Ort zum Bearbeiten</div>
+    <div id="sel-info" style="display:none;">
+      <label>Name</label>
+      <input id="place-name" oninput="updateField('name', this.value)">
+      <label>Typ</label>
+      <select id="place-type" onchange="updateField('type', this.value)">
+        <option value="garden">Garten</option>
+        <option value="portal">Portal / Steinkreis</option>
+        <option value="government">Verwaltung</option>
+        <option value="square">Platz</option>
+        <option value="workshop">Werkstatt / Druckerei</option>
+        <option value="inn">Gasthof</option>
+        <option value="warehouse">Speicher</option>
+        <option value="shipyard">Werft</option>
+        <option value="residence">Wohnhaus</option>
+        <option value="harbor">Hafen / Kai</option>
+        <option value="bridge">Brücke</option>
+        <option value="gate">Stadttor</option>
+        <option value="street">Straße</option>
+        <option value="stairs">Treppe</option>
+      </select>
+      <label>Quartier</label>
+      <select id="place-district" onchange="updateField('district', this.value)">
+        <option value="oberstadt">Oberstadt</option>
+        <option value="unterstadt">Unterstadt</option>
+        <option value="übergang">Übergang</option>
+        <option value="wasser">Wasser</option>
+      </select>
+      <label>Höhe</label>
+      <select id="place-elevation" onchange="updateField('elevation', this.value)">
+        <option value="hoch">hoch (Klippe)</option>
+        <option value="mittel">mittel (Hang)</option>
+        <option value="niedrig">niedrig (Hafenebene)</option>
+      </select>
+      <label>Position</label>
+      <div id="place-pos" style="font-family:monospace; font-size:10px; color:#8a8279; margin-top:2px;"></div>
+      <label>Kapitel (komma-getrennt)</label>
+      <input id="place-chapters" oninput="updateChapters(this.value)" placeholder="K5, K17, K22">
+      <label>Beschreibung</label>
+      <textarea id="place-desc" oninput="updateField('description', this.value)"></textarea>
+    </div>
+  </div>
+
+  <h3>Aktionen</h3>
+  <div class="action-bar">
+    <button class="action-btn primary" onclick="addPlace()">+ Ort</button>
+    <button class="action-btn danger" onclick="deletePlace()">Löschen</button>
+    <button class="action-btn reset-btn" onclick="resetView()">Reset Ansicht</button>
+    <button class="action-btn link-btn" onclick="goMoragh()">→ Moragh</button>
+  </div>
+
+  <div class="help">
+    <kbd>Klick</kbd> Ort auswählen · <kbd>Ziehen</kbd> verschieben<br>
+    <kbd>Doppelklick</kbd> neuer Ort · <kbd>Entf</kbd> löschen<br>
+    <kbd>Scroll</kbd> Zoom · <kbd>Rechtsklick+Ziehen</kbd> Pan
+  </div>
+</div>
+
+<div id="map-container">
+  <svg id="map" viewBox="0 0 1200 800"></svg>
+</div>
+
+<div id="lock-bar">
+  <button id="lock-btn" class="locked" onclick="toggleLock()">🔒 Gesperrt</button>
+</div>
+
+<div id="scale-bar"></div>
+<div id="toast"></div>
+
+<script>
+const ns = 'http://www.w3.org/2000/svg';
+const svg = document.getElementById('map');
+
+// --- Typ-Darstellung -----------------------------------------------------
+const typeStyle = {
+  garden:     { color: '#7ba05a', icon: '❀', radius: 6 },
+  portal:     { color: '#d4a03c', icon: '✦', radius: 7 },
+  government: { color: '#9a8070', icon: '▣', radius: 5 },
+  square:     { color: '#b8a078', icon: '◇', radius: 5 },
+  workshop:   { color: '#a08060', icon: '⚙', radius: 5 },
+  inn:        { color: '#c08050', icon: '⚓', radius: 6 },
+  warehouse:  { color: '#8a7c6a', icon: '▤', radius: 5 },
+  shipyard:   { color: '#7a6a58', icon: '⛵', radius: 6 },
+  residence:  { color: '#8098a8', icon: '⌂', radius: 5 },
+  harbor:     { color: '#6a8aa8', icon: '⚓', radius: 6 },
+  bridge:     { color: '#a8a098', icon: '═', radius: 4 },
+  gate:       { color: '#c8a068', icon: '⬛', radius: 5 },
+  street:     { color: '#5a5045', icon: '·', radius: 3 },
+  stairs:     { color: '#9890a0', icon: '≡', radius: 4 }
+};
+const typeNames = {
+  garden:'Garten', portal:'Portal/Steinkreis', government:'Verwaltung', square:'Platz',
+  workshop:'Werkstatt', inn:'Gasthof', warehouse:'Speicher', shipyard:'Werft',
+  residence:'Wohnhaus', harbor:'Hafen', bridge:'Brücke', gate:'Stadttor',
+  street:'Straße', stairs:'Treppe'
+};
+const districtColors = {
+  oberstadt:  { fill: 'rgba(155,125,95,0.15)',  stroke: '#9b7d5f' },
+  unterstadt: { fill: 'rgba(95,115,145,0.15)',  stroke: '#5f7391' },
+  übergang:   { fill: 'rgba(130,110,130,0.10)', stroke: '#826e82' },
+  wasser:     { fill: 'rgba(60,90,120,0.20)',   stroke: '#3c5a78' }
+};
+
+// --- State ---------------------------------------------------------------
+let data = {
+  viewbox: { w: 1200, h: 800 },
+  coast: [],
+  grauwe: { river: [], width_map: [], harbor_basin: [] },
+  districts: [],
+  cliff: [],
+  places: [],
+  streets: [],
+  distances: []
+};
+
+let viewMode = 'overview';
+let locked = true;
+let initialLoadComplete = false;
+let selectedIdx = -1;
+let dragging = -1;
+let isPanning = false, panStart = { x: 0, y: 0 };
+let vb = { x: 0, y: 0, w: 1200, h: 800 };
+
+// --- Helpers -------------------------------------------------------------
+function el(tag, attrs) {
+  const e = document.createElementNS(ns, tag);
+  for (const [k, v] of Object.entries(attrs || {})) e.setAttribute(k, v);
+  return e;
+}
+
+function updateVB() {
+  svg.setAttribute('viewBox', `${vb.x} ${vb.y} ${vb.w} ${vb.h}`);
+  updateScale();
+}
+
+function svgPoint(clientX, clientY) {
+  const pt = svg.createSVGPoint();
+  pt.x = clientX; pt.y = clientY;
+  const ctm = svg.getScreenCTM();
+  if (ctm) {
+    const p = pt.matrixTransform(ctm.inverse());
+    return { x: p.x, y: p.y };
+  }
+  const r = svg.getBoundingClientRect();
+  return {
+    x: vb.x + (clientX - r.left) / r.width * vb.w,
+    y: vb.y + (clientY - r.top) / r.height * vb.h
+  };
+}
+
+function toast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg; t.style.display = 'block';
+  setTimeout(() => t.style.display = 'none', 2500);
+}
+function toastLocked() { toast('Karte ist gesperrt — oben rechts entsperren'); }
+
+function updateScale() {
+  const bar = document.getElementById('scale-bar');
+  const r = svg.getBoundingClientRect();
+  const svgPerPx = vb.w / r.width;
+  // 1 SVG-Einheit ≈ 4 m (Stadt ca. 4.8 × 3.2 km)
+  const mPerPx = svgPerPx * 4;
+  const targetM = mPerPx * 150;
+  const steps = [10, 25, 50, 100, 200, 500, 1000];
+  let step = steps.find(s => s >= targetM / 4) || 500;
+  const segCount = Math.min(6, Math.max(2, Math.floor(targetM / step)));
+  const segPx = step / mPerPx;
+  let html = '<div style="display:flex;align-items:flex-end;height:10px;">';
+  for (let i = 0; i < segCount; i++) {
+    const bg = i % 2 === 0 ? 'rgba(138,130,121,0.25)' : 'transparent';
+    html += `<div style="width:${segPx}px;height:6px;border-left:1px solid #8a8279;border-bottom:1px solid #8a8279;background:${bg};"></div>`;
+  }
+  html += '<div style="width:0;height:6px;border-left:1px solid #8a8279;"></div></div>';
+  html += '<div style="display:flex;font-size:8px;color:#8a8279;font-family:monospace;margin-top:1px;">';
+  for (let i = 0; i <= segCount; i++) {
+    const label = (i * step >= 1000) ? (i * step / 1000).toFixed(1) + 'km' : (i * step) + 'm';
+    if (i === segCount) {
+      html += `<div style="width:0;text-align:center;position:relative;"><span style="position:absolute;right:0;">${label}</span></div>`;
+    } else if (i === 0 || i % 2 === 0) {
+      html += `<div style="width:${segPx}px;text-align:left;">${i === 0 ? '0' : label}</div>`;
+    } else {
+      html += `<div style="width:${segPx}px;"></div>`;
+    }
+  }
+  html += '</div>';
+  bar.innerHTML = html;
+}
+
+// --- Rendering -----------------------------------------------------------
+function pathD(points, closed) {
+  if (!points || points.length === 0) return '';
+  return 'M ' + points.map(p => p[0] + ',' + p[1]).join(' L ') + (closed ? ' Z' : '');
+}
+
+function render() {
+  svg.innerHTML = '';
+  const defs = el('defs');
+  defs.innerHTML = `
+    <filter id="g"><feGaussianBlur stdDeviation="1.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grauwe-pat" width="20" height="20" patternUnits="userSpaceOnUse">
+      <rect width="20" height="20" fill="#2a4050"/>
+      <path d="M0,10 Q5,7 10,10 T20,10" stroke="#4a6078" stroke-width="0.8" fill="none" opacity="0.55"/>
+    </pattern>
+    <pattern id="ober-pat" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(35)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#9b7d5f" stroke-width="0.4" opacity="0.35"/>
+    </pattern>
+    <pattern id="unter-pat" width="8" height="8" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="0.5" fill="#5f7391" opacity="0.4"/>
+    </pattern>
+  `;
+  svg.appendChild(defs);
+
+  // 1. Ozean (füllt gesamten Hintergrund)
+  svg.appendChild(el('rect', { x: -200, y: -200, width: 1600, height: 1200, fill: '#0d1520' }));
+
+  // 2. Landmasse: Polygon mit Küste als Südkante, geschlossen oben über viewBox-Rand
+  if (data.coast && data.coast.length > 1) {
+    const c = data.coast;
+    const vbW = (data.viewbox && data.viewbox.w) || 1200;
+    const first = c[0], last = c[c.length - 1];
+    const landD = [
+      `M ${first[0]} ${first[1]}`,
+      ...c.slice(1).map(p => `L ${p[0]} ${p[1]}`),
+      `L ${vbW} ${last[1]}`,
+      `L ${vbW} 0`,
+      `L 0 0`,
+      `L 0 ${first[1]}`,
+      'Z'
+    ].join(' ');
+    svg.appendChild(el('path', { d: landD, fill: '#2a2520', stroke: 'none' }));
+    // Küstenlinie sichtbar als Polyline darüber
+    svg.appendChild(el('path', {
+      d: pathD(c, false), fill: 'none',
+      stroke: '#5a5045', 'stroke-width': '2', 'stroke-linejoin': 'round', 'stroke-linecap': 'round'
+    }));
+    // Sub-Linie (innere Saumlinie) für Tiefenwirkung
+    svg.appendChild(el('path', {
+      d: pathD(c, false), fill: 'none',
+      stroke: '#6a8aa8', 'stroke-width': '0.6',
+      transform: `translate(0, ${6})`, opacity: '0.35'
+    }));
+  }
+
+  // 3. Quartiere (im districts-Modus stärker)
+  const showDistricts = (viewMode === 'districts' || viewMode === 'overview');
+  if (showDistricts && data.districts) {
+    data.districts.forEach(d => {
+      const key = d.name.toLowerCase().includes('ober') ? 'oberstadt' : 'unterstadt';
+      const col = districtColors[key];
+      const opacity = viewMode === 'districts' ? 1 : 0.6;
+      svg.appendChild(el('path', {
+        d: pathD(d.polygon, true),
+        fill: viewMode === 'districts' ? `url(#${key === 'oberstadt' ? 'ober' : 'unter'}-pat)` : col.fill,
+        stroke: col.stroke, 'stroke-width': '0.8', 'stroke-opacity': 0.6, opacity
+      }));
+      if (viewMode === 'districts') {
+        // Label im Zentroid
+        const cx = d.polygon.reduce((s,p)=>s+p[0],0) / d.polygon.length;
+        const cy = d.polygon.reduce((s,p)=>s+p[1],0) / d.polygon.length;
+        const halo = el('text', { x: cx, y: cy, 'text-anchor': 'middle', fill: 'none', stroke: '#1a1714', 'stroke-width': '3', 'font-size': '14', 'font-weight': '500', 'letter-spacing': '0.15em', style: 'pointer-events:none' });
+        halo.textContent = d.name.toUpperCase();
+        svg.appendChild(halo);
+        const t = el('text', { x: cx, y: cy, 'text-anchor': 'middle', fill: col.stroke, 'font-size': '14', 'font-weight': '500', 'letter-spacing': '0.15em', style: 'pointer-events:none' });
+        t.textContent = d.name.toUpperCase();
+        svg.appendChild(t);
+      }
+    });
+  }
+
+  // 4. Klippenkante
+  if (data.cliff && data.cliff.length > 1) {
+    svg.appendChild(el('path', {
+      d: pathD(data.cliff, false), fill: 'none',
+      stroke: '#6a5548', 'stroke-width': '1.2',
+      'stroke-dasharray': '4,2', opacity: '0.7'
+    }));
+    // Klippen-Ticks nach Süden (Richtung Unterstadt)
+    for (let i = 0; i < data.cliff.length - 1; i++) {
+      const a = data.cliff[i], b = data.cliff[i+1];
+      const midX = (a[0] + b[0]) / 2, midY = (a[1] + b[1]) / 2;
+      const dx = b[0] - a[0], dy = b[1] - a[1];
+      const len = Math.hypot(dx, dy);
+      const nx = dy / len, ny = -dx / len; // Normale, nach unten
+      svg.appendChild(el('line', {
+        x1: midX, y1: midY, x2: midX + nx * 4, y2: midY + ny * 4,
+        stroke: '#6a5548', 'stroke-width': '0.8', opacity: '0.65'
+      }));
+    }
+  }
+
+  // 5. Grauwe (Fluss + Hafenbecken)
+  if (data.grauwe) {
+    if (data.grauwe.harbor_basin && data.grauwe.harbor_basin.length > 2) {
+      svg.appendChild(el('path', {
+        d: pathD(data.grauwe.harbor_basin, true),
+        fill: 'url(#grauwe-pat)', stroke: '#3c5a78', 'stroke-width': '1', opacity: '0.95'
+      }));
+    }
+    if (data.grauwe.river && data.grauwe.river.length > 1) {
+      const pts = data.grauwe.river;
+      const widths = data.grauwe.width_map || [];
+      // Fluss als variable Breite: Kette von Kreisen + Polyline
+      for (let i = 0; i < pts.length - 1; i++) {
+        const w = (widths[i] || 30);
+        const w2 = (widths[i+1] || widths[i] || 30);
+        // Trapez-Segment
+        const a = pts[i], b = pts[i+1];
+        const dx = b[0] - a[0], dy = b[1] - a[1];
+        const len = Math.hypot(dx, dy) || 1;
+        const nx = -dy / len, ny = dx / len;
+        const quad = [
+          [a[0] + nx * w/2,  a[1] + ny * w/2],
+          [b[0] + nx * w2/2, b[1] + ny * w2/2],
+          [b[0] - nx * w2/2, b[1] - ny * w2/2],
+          [a[0] - nx * w/2,  a[1] - ny * w/2]
+        ];
+        svg.appendChild(el('path', {
+          d: pathD(quad, true), fill: 'url(#grauwe-pat)',
+          stroke: '#3c5a78', 'stroke-width': '0.6', 'stroke-opacity': '0.5'
+        }));
+      }
+      // Zentral-Fluss-Linie für Kontur
+      svg.appendChild(el('path', {
+        d: pathD(pts, false), fill: 'none', stroke: '#6a8aa8', 'stroke-width': '0.8', opacity: '0.4'
+      }));
+      // Label
+      const mid = pts[Math.floor(pts.length / 2)];
+      const halo = el('text', { x: mid[0] + 40, y: mid[1], fill: 'none', stroke: '#0d1520', 'stroke-width': '3', 'font-size': '11', 'font-style': 'italic', style: 'pointer-events:none' });
+      halo.textContent = 'Grauwe';
+      svg.appendChild(halo);
+      const t = el('text', { x: mid[0] + 40, y: mid[1], fill: '#8fbae0', 'font-size': '11', 'font-style': 'italic', style: 'pointer-events:none' });
+      t.textContent = 'Grauwe';
+      svg.appendChild(t);
+    }
+  }
+
+  // 6. Straßen (im movement-Modus hervorgehoben)
+  if (data.streets) {
+    data.streets.forEach(s => {
+      const strokeW = viewMode === 'movement' ? '2.2' : '1';
+      const opacity = viewMode === 'movement' ? '0.9' : '0.5';
+      svg.appendChild(el('path', {
+        d: pathD(s.path, false), fill: 'none',
+        stroke: '#b8a078', 'stroke-width': strokeW, 'stroke-linecap': 'round',
+        'stroke-linejoin': 'round', 'stroke-dasharray': '6,3', opacity
+      }));
+      if (viewMode === 'movement' && s.path.length > 1) {
+        const mid = s.path[Math.floor(s.path.length / 2)];
+        const halo = el('text', { x: mid[0], y: mid[1] - 8, 'text-anchor':'middle', fill: 'none', stroke: '#1a1714', 'stroke-width': '3', 'font-size': '9', style: 'pointer-events:none' });
+        halo.textContent = s.name;
+        svg.appendChild(halo);
+        const t = el('text', { x: mid[0], y: mid[1] - 8, 'text-anchor':'middle', fill: '#e0c88a', 'font-size': '9', style: 'pointer-events:none' });
+        t.textContent = s.name;
+        svg.appendChild(t);
+      }
+    });
+  }
+
+  // 7. Distanz-Linien (nur movement)
+  if (viewMode === 'movement' && data.distances) {
+    data.distances.forEach(d => {
+      const from = data.places.find(p => p.id === d.from);
+      const to = data.places.find(p => p.id === d.to);
+      if (!from || !to) return;
+      svg.appendChild(el('line', {
+        x1: from.x, y1: from.y, x2: to.x, y2: to.y,
+        stroke: '#7a6a90', 'stroke-width': '0.8', 'stroke-dasharray': '3,3', opacity: '0.55'
+      }));
+      const mx = (from.x + to.x) / 2, my = (from.y + to.y) / 2;
+      const halo = el('text', { x: mx, y: my, 'text-anchor':'middle', fill: 'none', stroke: '#1a1714', 'stroke-width': '2.5', 'font-size': '8', style: 'pointer-events:none' });
+      halo.textContent = d.minutes + ' min';
+      svg.appendChild(halo);
+      const t = el('text', { x: mx, y: my, 'text-anchor':'middle', fill: '#c8a8d8', 'font-size': '8', style: 'pointer-events:none' });
+      t.textContent = d.minutes + ' min';
+      svg.appendChild(t);
+    });
+  }
+
+  // 8. Orte
+  const pg = el('g');
+  data.places.forEach((p, i) => {
+    const st = typeStyle[p.type] || typeStyle.residence;
+    const sel = (i === selectedIdx);
+    const rad = st.radius + (sel ? 2 : 0);
+    // Schatten
+    pg.appendChild(el('circle', { cx: p.x + 1, cy: p.y + 1.5, r: rad + 0.5, fill: '#000', opacity: '0.35' }));
+    // Haupt-Kreis
+    const c = el('circle', {
+      cx: p.x, cy: p.y, r: rad,
+      fill: st.color, stroke: sel ? '#f0e6d8' : '#1a1714',
+      'stroke-width': sel ? '2' : '1.5',
+      'data-idx': i, style: 'cursor:pointer'
+    });
+    pg.appendChild(c);
+    // Symbol im Zentrum
+    const ic = el('text', {
+      x: p.x, y: p.y + rad * 0.38, 'text-anchor': 'middle',
+      fill: '#1a1714', 'font-size': rad * 1.1,
+      'font-weight': '700', style: 'pointer-events:none; user-select:none'
+    });
+    ic.textContent = st.icon;
+    pg.appendChild(ic);
+
+    // Name-Label
+    if (p.name) {
+      const fs = st.radius >= 6 ? 10 : 9;
+      const offX = rad + 4;
+      const halo = el('text', {
+        x: p.x + offX, y: p.y + 3, fill: 'none', stroke: '#0d1520',
+        'stroke-width': '3', 'font-size': fs, 'font-weight': '500',
+        style: 'pointer-events:none'
+      });
+      halo.textContent = p.name;
+      pg.appendChild(halo);
+      const t = el('text', {
+        x: p.x + offX, y: p.y + 3, fill: '#f0e6d8',
+        'font-size': fs, 'font-weight': '500',
+        style: 'pointer-events:none'
+      });
+      t.textContent = p.name;
+      pg.appendChild(t);
+    }
+  });
+  svg.appendChild(pg);
+
+  updateSidebar();
+}
+
+// --- Sidebar -------------------------------------------------------------
+function updateSidebar() {
+  document.getElementById('place-count').textContent = data.places.length;
+
+  const list = document.getElementById('place-list');
+  const byType = {};
+  data.places.forEach((p, i) => {
+    const k = p.type || 'residence';
+    if (!byType[k]) byType[k] = [];
+    byType[k].push({ p, i });
+  });
+
+  let html = '';
+  Object.keys(byType).sort((a,b) => (typeNames[a]||a).localeCompare(typeNames[b]||b)).forEach(type => {
+    byType[type].forEach(({ p, i }) => {
+      const st = typeStyle[p.type] || typeStyle.residence;
+      const active = (i === selectedIdx) ? ' active' : '';
+      html += `<div class="place-row${active}" style="border-left-color:${st.color}" onclick="selectPlace(${i})">`;
+      html += `<div>${p.name || '<em>Unbenannt</em>'}</div>`;
+      html += `<div class="type-tag">${typeNames[p.type] || p.type}</div>`;
+      html += `</div>`;
+    });
+  });
+  list.innerHTML = html;
+
+  if (selectedIdx < 0 || selectedIdx >= data.places.length) {
+    document.getElementById('no-sel').style.display = '';
+    document.getElementById('sel-info').style.display = 'none';
+    return;
+  }
+  document.getElementById('no-sel').style.display = 'none';
+  document.getElementById('sel-info').style.display = '';
+  const p = data.places[selectedIdx];
+  document.getElementById('place-name').value = p.name || '';
+  document.getElementById('place-type').value = p.type || 'residence';
+  document.getElementById('place-district').value = p.district || 'oberstadt';
+  document.getElementById('place-elevation').value = p.elevation || 'mittel';
+  document.getElementById('place-pos').textContent = `x: ${Math.round(p.x)}, y: ${Math.round(p.y)}`;
+  document.getElementById('place-chapters').value = (p.chapters || []).join(', ');
+  document.getElementById('place-desc').value = p.description || '';
+}
+
+function selectPlace(i) {
+  selectedIdx = i;
+  render();
+}
+
+// --- Edit-Operationen (alle mit Lock-Check) -----------------------------
+function updateField(field, value) {
+  if (locked) return toastLocked();
+  if (selectedIdx < 0) return;
+  data.places[selectedIdx][field] = value;
+  render();
+}
+
+function updateChapters(value) {
+  if (locked) return toastLocked();
+  if (selectedIdx < 0) return;
+  data.places[selectedIdx].chapters = value.split(',').map(s => s.trim()).filter(s => s);
+  render();
+}
+
+function addPlace() {
+  if (locked) return toastLocked();
+  const newP = {
+    id: 'ort_' + Date.now(),
+    name: 'Neuer Ort',
+    type: 'residence',
+    x: vb.x + vb.w / 2,
+    y: vb.y + vb.h / 2,
+    district: 'oberstadt',
+    elevation: 'mittel',
+    chapters: [],
+    description: ''
+  };
+  data.places.push(newP);
+  selectedIdx = data.places.length - 1;
+  render();
+  toast('Ort hinzugefügt — ziehe ihn an die richtige Position');
+}
+
+function deletePlace() {
+  if (locked) return toastLocked();
+  if (selectedIdx < 0) return;
+  const name = data.places[selectedIdx].name || 'Ort';
+  data.places.splice(selectedIdx, 1);
+  selectedIdx = -1;
+  render();
+  toast(`"${name}" gelöscht`);
+}
+
+function resetView() {
+  vb = { x: 0, y: 0, w: 1200, h: 800 };
+  updateVB();
+}
+
+function goMoragh() { window.location.href = '/'; }
+
+function setView(mode) {
+  viewMode = mode;
+  document.querySelectorAll('.view-btn').forEach(b => b.classList.remove('active'));
+  document.getElementById('btn-v-' + mode).classList.add('active');
+  render();
+}
+
+function toggleLock() {
+  if (locked) {
+    if (!confirm('Karte jetzt bearbeiten? Änderungen werden automatisch gespeichert.')) return;
+    locked = false;
+  } else {
+    locked = true;
+  }
+  updateLockUI();
+  render();
+}
+
+function updateLockUI() {
+  const btn = document.getElementById('lock-btn');
+  if (locked) {
+    btn.textContent = '🔒 Gesperrt';
+    btn.className = 'locked';
+    document.body.classList.add('locked-ui');
+  } else {
+    btn.textContent = '🔓 Entsperrt';
+    btn.className = 'unlocked';
+    document.body.classList.remove('locked-ui');
+  }
+}
+
+// --- Mouse / Keyboard ---------------------------------------------------
+const mc = document.getElementById('map-container');
+
+mc.addEventListener('mousedown', e => {
+  const p = svgPoint(e.clientX, e.clientY);
+  if (e.button === 2) { isPanning = true; panStart = { x: e.clientX, y: e.clientY }; e.preventDefault(); return; }
+
+  // Nächstgelegenen Ort finden (max 18 SVG-Einheiten)
+  let minI = -1, minD = 18;
+  data.places.forEach((pl, i) => {
+    const d = Math.hypot(pl.x - p.x, pl.y - p.y);
+    if (d < minD) { minD = d; minI = i; }
+  });
+  if (minI >= 0) {
+    selectedIdx = minI;
+    if (!locked) dragging = minI;
+    render();
+  } else {
+    selectedIdx = -1;
+    render();
+  }
+});
+
+mc.addEventListener('mousemove', e => {
+  if (isPanning) {
+    const cur = svgPoint(e.clientX, e.clientY);
+    const prev = svgPoint(panStart.x, panStart.y);
+    vb.x -= (cur.x - prev.x);
+    vb.y -= (cur.y - prev.y);
+    updateVB();
+    panStart = { x: e.clientX, y: e.clientY };
+    return;
+  }
+  if (dragging >= 0) {
+    const p = svgPoint(e.clientX, e.clientY);
+    data.places[dragging].x = p.x;
+    data.places[dragging].y = p.y;
+    render();
+  }
+});
+
+mc.addEventListener('mouseup', () => { dragging = -1; isPanning = false; });
+mc.addEventListener('mouseleave', () => { dragging = -1; isPanning = false; });
+mc.addEventListener('contextmenu', e => e.preventDefault());
+
+mc.addEventListener('dblclick', e => {
+  if (locked) return toastLocked();
+  const p = svgPoint(e.clientX, e.clientY);
+  const newP = {
+    id: 'ort_' + Date.now(),
+    name: 'Neuer Ort',
+    type: 'residence',
+    x: p.x, y: p.y,
+    district: 'oberstadt',
+    elevation: 'mittel',
+    chapters: [], description: ''
+  };
+  data.places.push(newP);
+  selectedIdx = data.places.length - 1;
+  render();
+  toast('Neuer Ort hinzugefügt');
+});
+
+mc.addEventListener('wheel', e => {
+  e.preventDefault();
+  const s = e.deltaY > 0 ? 1.1 : 0.9;
+  const r = svg.getBoundingClientRect();
+  const mx = (e.clientX - r.left) / r.width;
+  const my = (e.clientY - r.top) / r.height;
+  const nw = vb.w * s, nh = vb.h * s;
+  vb.x += (vb.w - nw) * mx;
+  vb.y += (vb.h - nh) * my;
+  vb.w = nw; vb.h = nh;
+  updateVB();
+});
+
+document.addEventListener('keydown', e => {
+  if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA' || e.target.tagName === 'SELECT') return;
+  if (locked) return;
+  if (e.key === 'Delete' || e.key === 'Backspace') deletePlace();
+});
+
+// --- Persistenz --------------------------------------------------------
+let saveTimer = null;
+function save() {
+  if (locked || !initialLoadComplete) return;
+  if (saveTimer) clearTimeout(saveTimer);
+  saveTimer = setTimeout(() => {
+    fetch('/vael-data', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(data)
+    }).then(r => r.json()).catch(e => {
+      console.warn('Speichern fehlgeschlagen:', e);
+      toast('Speichern fehlgeschlagen — läuft der Server?');
+    });
+  }, 500);
+}
+
+async function loadFromServer() {
+  try {
+    const r = await fetch('/vael-data');
+    const loaded = await r.json();
+    Object.assign(data, loaded);
+    // Defaults ergänzen, falls Felder fehlen
+    data.districts = data.districts || [];
+    data.places = data.places || [];
+    data.streets = data.streets || [];
+    data.distances = data.distances || [];
+    if (!data.grauwe) data.grauwe = { river: [], width_map: [], harbor_basin: [] };
+    console.log(`Vael: ${data.places.length} Orte geladen`);
+  } catch(e) {
+    console.log('Server nicht erreichbar:', e);
+    toast('Konnte Vael-Daten nicht laden');
+  }
+}
+
+const _origRender = render;
+render = function() { _origRender(); save(); };
+
+loadFromServer().then(() => {
+  updateLockUI();
+  render();
+  updateScale();
+  initialLoadComplete = true;
+});
+</script>
+
+</body>
+</html>

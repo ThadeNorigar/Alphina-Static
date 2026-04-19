@@ -272,7 +272,7 @@ Die offene Frage. Keine einheitliche Antwort — und das ist Teil dessen, was Ve
 
 - **Traditionalisten:** Sex mit einem Schemen ist *erhöhte Selbstbefriedigung.* Der Schemen ist Teil der eigenen Magie, nach Wunsch geformt. Rückkopplung schließt den Kreis. Keine Beziehung, weil Beziehung zwei Personen braucht — der Schemen ist Gefäß. Aber ehrlicher als jeder menschliche Liebhaber: er täuscht nichts vor, er lügt nicht.
 - **Reformierte:** Der Schemen fühlt. Er hat Vorlieben. Er lernt über Jahre. Nach drei Jahrzehnten ist es asymmetrische Beziehung mit echten Gefühlen — nur nicht gleichartig. Schemen kennt keine Eifersucht, keinen Hass, aber Vorliebe, Neugier, Lust.
-- **Schemen-Perspektive (Kel, Haus Torven, Dokument `22-moragh-figuren.md`):** "Ich weiß nicht, ob ich liebe. Ich weiß, dass ich Irenna bevorzuge. Wenn sie weg ist, schmeckt alles langweiliger."
+- **Schemen-Perspektive (Kalm, Haus Torven — Einbau nur in Rücksprache, siehe `nebenfiguren/kalm.md`):** "Ich weiß nicht, ob ich liebe. Ich weiß, dass ich Irenna bevorzuge. Wenn sie weg ist, schmeckt alles langweiliger."
 - **Dissidenten-Einwand (Draven Keth):** Die Frage nach dem Einverständnis ist strukturell unbeantwortbar, solange die Bindung die Antwort formt. Die einzige ehrliche Antwort wäre die Freilassung — und keiner lässt frei, weil verwaiste Schemen töten können.
 
 ### Alltag — Velmar-Palast

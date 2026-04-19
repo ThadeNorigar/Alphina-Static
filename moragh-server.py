@@ -77,11 +77,14 @@ class Handler(http.server.SimpleHTTPRequestHandler):
         self.end_headers()
 
     def log_message(self, format, *args):
-        if '/data' in str(args[0]):
-            print(f"  {args[0]}")
+        s = str(args[0]) if args else ''
+        if '/data' in s or '/vael' in s:
+            print(f"  {s}")
 
 if __name__ == '__main__':
-    print(f"Moragh Editor: http://localhost:{PORT}")
-    print(f"Daten: {DATA_FILE}")
+    print(f"Moragh Editor: http://localhost:{PORT}/")
+    print(f"Vael Editor:   http://localhost:{PORT}/vael")
+    print(f"Moragh-Daten:  {MORAGH_DATA}")
+    print(f"Vael-Daten:    {VAEL_DATA}")
     server = http.server.HTTPServer(('', PORT), Handler)
     server.serve_forever()

@@ -33,7 +33,7 @@
 | Figur | Stadt | Rolle | Datei |
 |---|---|---|---|
 | Irenna Torven | Velmar | Hochbinderin, Haus Torven | [nebenfiguren/irenna-torven.md](nebenfiguren/irenna-torven.md) |
-| Kel | Velmar | Gebundener Schemen (23 J, Bund zweiter Ordnung) | [nebenfiguren/kel.md](nebenfiguren/kel.md) |
+| Kalm ⚠ | Velmar | Gebundener Schemen (23 J, Bund zweiter Ordnung) — **Einbau nur in Rücksprache** | [nebenfiguren/kalm.md](nebenfiguren/kalm.md) |
 | Sefra Varn | Dulveth | Junge Binderin, Haus Varn | [nebenfiguren/sefra-varn.md](nebenfiguren/sefra-varn.md) |
 | Perrin Halde | Eshkara | Kurtisan, Haus Halde | [nebenfiguren/perrin-halde.md](nebenfiguren/perrin-halde.md) |
 | Draven Keth | Velmar | Rufer ohne Bindung, Haus Keth | [nebenfiguren/draven-keth.md](nebenfiguren/draven-keth.md) |
@@ -60,7 +60,7 @@
 - **Miran** als POV-Fenster für die Unterseite des Bundes
 - **Haus Verask** als konkretes Hass-Ziel für die Vier
 - **Liran** als Brücke zu dem, was Moragh ohne starke Magie leisten kann
-- **Irenna + Kel** als erstes Velmar-Haus, das die Vier besuchen
+- **Irenna + Kalm** (Rücksprache) als erstes Velmar-Haus, das die Vier besuchen
 - **Sefra Varn** als Varens Schattenspiegel mit zwanzig Jahren Abstand
 - **Draven Keth** als möglicher Informant bei Mar-Keth-Enthüllung
 - **Morrek** als Kontaktmann zwischen Fraktionen

@@ -4,7 +4,7 @@
 **Fraktion:** Die Velmar
 **Stadt:** Velmar (Hauptstadt)
 **Rolle:** Hochbinderin, Oberhaupt Haus Torven
-**Verwandte Files:** `nebenfiguren/kel.md` (gebundener Schemen, Bund zweiter Ordnung), `21-moragh-gesellschaft.md`, `20-moragh-talente.md`
+**Verwandte Files:** `nebenfiguren/kalm.md` (gebundener Schemen — Einbau nur in Rücksprache), `21-moragh-gesellschaft.md`, `20-moragh-talente.md`
 
 ---
 
@@ -20,4 +20,4 @@
 
 ---
 
-**Narrative Anknüpfung:** Irenna ist das erste Velmar-Haus, das die Vier besuchen könnten. Ihre Beziehung zu Kel (23 Jahre Bund zweiter Ordnung) spiegelt Alphina eine fremde Vorstellung von Bindung — zwischen Selbsterweiterung und echter Beziehung.
+**Narrative Anknüpfung:** Irenna ist das erste Velmar-Haus, das die Vier besuchen könnten. Ihre Beziehung zu Kalm (23 Jahre Bund zweiter Ordnung) spiegelt Alphina eine fremde Vorstellung von Bindung — zwischen Selbsterweiterung und echter Beziehung.
