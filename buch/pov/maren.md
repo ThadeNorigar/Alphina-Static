@@ -1,4 +1,22 @@
+---
+name: Maren
+slug: maren
+typ: hauptfigur
+pov: true
+ordner: pov
+welt: beide
+reihenfolge: 85
+# alter:
+# fraktion:
+# rolle:
+# buecher: [1, 2, 3]
+---
+
 # POV — Maren
+
+![Maren — Portrait](/img/maren.png)
+
+![Maren in der Werft Dahl am Grauwe-Ufer](/img/maren-werft.png)
 
 ## Berufslinse
 
