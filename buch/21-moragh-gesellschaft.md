@@ -123,14 +123,14 @@ Drei Machtpole kontrollieren sich gegenseitig:
 2. **Magitech-Rat** (Technik, Patente, Lizenzen)
 3. **Oberkommando der Bestien-Armee** (Militär)
 
-Kein Monarch, keine Priesterkaste. Resonanz gilt als Physik, nicht als Glaube.
+Kein Monarch, keine Priesterkaste. Magie gilt als Physik, nicht als Glaube.
 
 ### Wohlstand
 
 In dieser Reihenfolge:
 
-1. **Quellen-Anteile** — Konzessionen, bestimmte Reservoir-Quellen anzuzapfen. Knappstes Gut. Erblich oder durch Kriegs-Zuteilung vergeben.
-2. **Magitech-Patente** — Bauweisen für Bestien-Kerne, Kopplungs-Formeln, Reservoir-Kern-Legierungen. Zwischen Häusern lizenziert.
+1. **Quellen-Anteile** — Konzessionen, bestimmte Quellen anzuzapfen. Knappstes Gut. Erblich oder durch Kriegs-Zuteilung vergeben.
+2. **Magitech-Patente** — Bauweisen für Bestien-Kerne, Kopplungs-Formeln, Magie-Kern-Legierungen. Zwischen Häusern lizenziert.
 3. **Rohstoff-Lagerstätten** — Kobaltschiefer, Moragh-Stahlerz, Quarzadern.
 4. Bargeld (Thar-Barren) ist nur Rechengröße. Wer nur Gold hat, gilt als arm.
 
@@ -138,13 +138,13 @@ Gebundene Schemen spielen keine Rolle — die Thar binden nicht.
 
 ### Schemen-Doktrin
 
-**Rufen nie, binden nie.** Schemen werden als "unkontrollierbare Fremdenergie" ideologisch abgelehnt.
+**Rufen erlaubt, aber selten — binden nie.** Schemen gelten kulturell als "unkontrollierbare Fremdenergie", werden aber nicht grundsätzlich gesetzlich verboten wie beim Bund. Praktisch: ein gelegentlicher Haushalts-Helfer hier und da, und **große Angriffsschemen kurz vor dem Kampf** (Ritualbeschwörung mit drei bis fünf Rufern gemeinsam, da die Massen übergroß sind). Binden ist ideologisch inakzeptabel — alle dauerhaften Dienste laufen über Magitech und menschliche Magie.
 
-Praktisch: Fabriken, Transport, Wachen, Spionage — alles mit menschlicher Magie und Magitech. **Telekineten** tragen Lasten durch Fabrikhallen (ersetzen Fabrik-Schemen). **Kampf-Magier** als Wachen. **Licht- und Luft-Begabte** für Spionage. Für Aufgaben, bei denen magische Arbeitskraft ineffizient wäre, arbeiten **Niedrig-Begabte** als Register-Führer, Boten, mechanische Hilfskräfte.
+Der Alltag läuft ohne Schemen: Fabriken, Transport, Wachen, Spionage — alles mit menschlicher Magie und Magitech. **Telekineten** tragen Lasten durch Fabrikhallen. **Kampf-Magier** als Wachen. **Licht- und Luft-Begabte** für Spionage. Für Aufgaben, bei denen magische Arbeitskraft ineffizient wäre, arbeiten **Niedrig-Begabte** als Register-Führer, Boten, mechanische Hilfskräfte.
 
 ### Magische Initiation: die Wägung
 
-Mit fünfzehn die **Erste Wägung** in einer Resonanz-Kammer. Grundelement, Tiefe, Regenerationszeit werden ermittelt. Mit sechzehn die **Zweite Wägung** für feinere Spezialisierungen (Druck-Neigung im Feuer, Metall-Affinität in Erde).
+Mit fünfzehn die **Erste Wägung** in einer Magie-Kammer. Grundelement, Tiefe, Regenerationszeit werden ermittelt. Mit sechzehn die **Zweite Wägung** für feinere Spezialisierungen (Druck-Neigung im Feuer, Metall-Affinität in Erde).
 
 Vorher schon **Schultests in Kontor-Höfen** — offiziell Vorbereitung, faktisch Rekrutierungs-Sieb. Kinder mit starkem Feuer-Puls werden ab 12 in Fabrik-Nähe platziert. Kinder mit Druck/Zeit-Verdacht kommen in Magitech-Ingenieurs-Schulen.
 
@@ -162,7 +162,7 @@ Die Wägung ist nicht verhandelbar. Wer sich weigert, verliert den Status eines 
 
 Transaktional, nicht freudlos. Ehen zwischen Häusern werden **arrangiert**, um Quellen-Anteile, Patente oder Bestien-Kerne zu tauschen — unterzeichnet als Handelsvertrag mit Familien-Anhang. Beide Partner behalten Namen und Haus.
 
-Unterhalb der Haus-Ebene: freie Paarbindungen, oft serielle Monogamie, ohne religiöse Last. **Gleichberechtigung absolut** — gilt für Partnerwahl zwischen gleichen oder verschiedenen Geschlechtern ohne Thema. Kinder werden früh resonanz-kartiert und gehören dem Haus, nicht den Eltern. Erziehung geht an Haus-Schulen, sobald die erste Resonanz-Neigung sichtbar wird.
+Unterhalb der Haus-Ebene: freie Paarbindungen, oft serielle Monogamie, ohne religiöse Last. **Gleichberechtigung absolut** — gilt für Partnerwahl zwischen gleichen oder verschiedenen Geschlechtern ohne Thema. Kinder werden früh magie-kartiert und gehören dem Haus, nicht den Eltern. Erziehung geht an Haus-Schulen, sobald die erste Magie-Neigung sichtbar wird.
 
 ### Alltag: eine Thar-Fabrikhalle
 
@@ -170,7 +170,7 @@ Lang gestreckt, niedrig, aus gewachsenem Moragh-Stahl. Keine Nieten, keine Schra
 
 In der Mitte **Schmelztiegel-Gruben**, je 3–4 Feuer-Arbeiterinnen pro Grube. Sie stehen mit bloßen Händen am Rand und senken ihre Hitze in die Legierung. Kein Ofen, kein Blasebalg. Durchnässte Lederbänder um die Waden, weil der Boden glühend wird. Neben jeder Grube ein Stein-Arbeiter, der die Gussform modelliert. Ein Metall-Begabter zieht die Legierung beim Erstarren nach.
 
-An den Wänden **Reservoir-Kammern**, in denen Rohlinge für Bestien-Kerne heranwachsen — Feuer-Begabte mit geringer Resonanz wärmen die Kammern schichtweise.
+An den Wänden **Brut-Kammern**, in denen Rohlinge für Bestien-Kerne heranwachsen — Feuer-Begabte mit geringer Magie wärmen die Kammern schichtweise.
 
 **Telekineten** tragen gefüllte Tiegel und Kerne durch die Gänge. **Nahfeld-Telekinete Niedrig-Begabte** arbeiten am Rand: Register führen, Protokoll-Uhren bedienen (die wenigen mechanischen Aggregate), Schweiß- und Rußrückstände wegwischen.
 
@@ -242,7 +242,7 @@ Ein Haus mit vielen jungen, stummen, unspezialisierten Schemen gilt als **neurei
 - **Alte Häuser gegen neue Binder:** Kastenreinheit gegen Aufsteiger mit weniger Stammbaum. Verschärft seit Reshkol-Verlust — alte Häuser horten Kapazität.
 - **Moralische Dissidenten:** Rufer, die bewusst *nicht* binden — entweder aus Ekel, aus Furcht vor verwaisten Schemen, oder aus stiller Kritik. Innerhalb der Kaste als "dünnes Blut" verspottet, nicht ausgestoßen. Ihr Schweigen geduldet, ihr Sprechen nicht.
 - **Reformierte gegen Traditionalisten:** "Ist der Schemen Gefäß oder Gast?" Dauerbruch in Salons.
-- **Thar-Verhältnis:** Offener Krieg. Thar lehnt Schemen ideologisch ab.
+- **Thar-Verhältnis:** Offener Krieg. Thar lehnt gebundene Schemen ideologisch ab; Bindung als Kulturkern der Velmar ist Thar-Propaganda-Futter.
 - **Bund-Verhältnis:** Kalter Hass. Für Orath ist Velmar moralisch verkommen; für Velmar ist Orath schwach.
 - **Die Mar-Keth-Wunde:** Die Binder-Elite weiß, dass Varen drei Quellen getötet hat, und schweigt (Dossier `19-varen.md`). Kollektive Schuld der Rufer-Kaste, die keiner ausspricht.
 
@@ -262,7 +262,7 @@ Pan, poly, offen. Geschlechterbinarität vorhanden, nicht absolut. Ehen zwischen
 
 Die offene Frage. Keine einheitliche Antwort — und das ist Teil dessen, was Velmar zerreißt:
 
-- **Traditionalisten:** Sex mit einem Schemen ist *erhöhte Selbstbefriedigung.* Der Schemen ist Teil der eigenen Resonanz, nach Wunsch geformt. Rückkopplung schließt den Kreis. Keine Beziehung, weil Beziehung zwei Personen braucht — der Schemen ist Gefäß. Aber ehrlicher als jeder menschliche Liebhaber: er täuscht nichts vor, er lügt nicht.
+- **Traditionalisten:** Sex mit einem Schemen ist *erhöhte Selbstbefriedigung.* Der Schemen ist Teil der eigenen Magie, nach Wunsch geformt. Rückkopplung schließt den Kreis. Keine Beziehung, weil Beziehung zwei Personen braucht — der Schemen ist Gefäß. Aber ehrlicher als jeder menschliche Liebhaber: er täuscht nichts vor, er lügt nicht.
 - **Reformierte:** Der Schemen fühlt. Er hat Vorlieben. Er lernt über Jahre. Nach drei Jahrzehnten ist es asymmetrische Beziehung mit echten Gefühlen — nur nicht gleichartig. Schemen kennt keine Eifersucht, keinen Hass, aber Vorliebe, Neugier, Lust.
 - **Schemen-Perspektive (Kel, Haus Torven, Dokument `22-moragh-figuren.md`):** "Ich weiß nicht, ob ich liebe. Ich weiß, dass ich Irenna bevorzuge. Wenn sie weg ist, schmeckt alles langweiliger."
 - **Dissidenten-Einwand (Draven Keth):** Die Frage nach dem Einverständnis ist strukturell unbeantwortbar, solange die Bindung die Antwort formt. Die einzige ehrliche Antwort wäre die Freilassung — und keiner lässt frei, weil verwaiste Schemen töten können.

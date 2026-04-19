@@ -420,9 +420,12 @@
       const r = await fetch(COMMENT_API, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json', 'X-User-Id': USER_ID },
-        body: JSON.stringify({ kapitel_id: canonId, modus: 'kanon', absatz_idx: idx, absatz_text: absatzText, text }),
+        body: JSON.stringify({ kapitel_id: canonId, modus: 'final', absatz_idx: idx, absatz_text: absatzText, text }),
       });
-      if (!r.ok) throw new Error('Fehler ' + r.status);
+      if (!r.ok) {
+        const detail = await r.text().catch(() => '');
+        throw new Error('HTTP ' + r.status + (detail ? ': ' + detail.slice(0, 200) : ''));
+      }
       if (!commentsByIdx[idx]) commentsByIdx[idx] = [];
       commentsByIdx[idx].push({ text, created_at: new Date().toISOString() });
       el.classList.add('has-comments');
@@ -447,7 +450,15 @@
         renderPopup(el, idx);
       } catch (e) {
         submitBtn.disabled = false;
-        submitBtn.textContent = 'Fehler — nochmal';
+        submitBtn.textContent = 'Nochmal';
+        let errDiv = popup.querySelector('.comment-error');
+        if (!errDiv) {
+          errDiv = document.createElement('div');
+          errDiv.className = 'comment-error';
+          errDiv.style.cssText = 'color:var(--accent);font-size:0.72rem;margin-top:0.4rem;font-family:Inter,sans-serif;';
+          popup.appendChild(errDiv);
+        }
+        errDiv.textContent = 'Fehler: ' + e.message;
       }
     };
     popup.appendChild(submitBtn);
@@ -458,7 +469,7 @@
   }
 
   function initComments(container) {
-    fetch(COMMENT_API + '?kapitel=' + encodeURIComponent(canonId) + '&modus=kanon', {
+    fetch(COMMENT_API + '?kapitel=' + encodeURIComponent(canonId) + '&modus=final', {
       headers: { 'X-User-Id': USER_ID }
     })
       .then(r => r.json())

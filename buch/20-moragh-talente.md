@@ -9,12 +9,13 @@
 ## Grundregeln für Moragh-Bürger
 
 1. **Jeder Moragh-Mensch hat Magie.** Keine Unbegabten. Unterschiede liegen in **Art** (welches Talent) und **Stärke** (welche Stufe).
-2. **Pubertät öffnet die Resonanz.** Erste Kribbeln mit 11–15 Jahren. Entwicklung langsam über Jahrzehnte. Zweite oder dritte Talente zeigen sich später.
+2. **Pubertät öffnet die Magie.** Erste Kribbeln mit 11–15 Jahren. Entwicklung langsam über Jahrzehnte. Zweite oder dritte Talente zeigen sich später.
 3. **Training über Jahre.** Talent bestimmt Neigung, Übung die Stärke. Ohne tägliche Praxis bleibt man bei Stufe 1–2.
-4. **Magie kostet Körper — wie Sport.** Müdigkeit, Muskelkater, Hunger. Bei Überlastung: Nasenbluten, Kopfschmerzen, Zittern. Bei chronischem Übergebrauch: Altern, Organschäden, Tod (Resonanz-Ernte-ähnliches Syndrom ohne die Fremd-Komponente).
-5. **Aufladung nur in Quellennähe.** Das Reservoir entleert sich beim Gebrauch; es füllt sich nicht von allein auf, sondern nur durch Aufenthalt an einer Reservoir-Quelle. Ein aufgeladenes Reservoir kann überall verbraucht werden — Magier werden nicht beim Weggehen sofort trocken, aber wer lang weg ist, hat irgendwann nichts mehr.
-6. **Niedrig-Begabte gibt es in allen Feldern.** Nicht nur Telekinese. Ein Niedrig-Licht-Begabter kann Kerzen flackern lassen, eine Niedrig-Wasser-Begabte Teewasser kräuseln. Meist maximal Stufe 2 als Lebensmaximum. Sie sind vollwertige Bürger mit Wahlrecht (in Bund und Thar), bekommen aber seltener qualifizierte Arbeit.
-7. **Schemen binden** ist ausschließlich **Sekundärtalent bei Rufern** — kann wie jede Multibegabung ab Stufe 1–2 auftreten. Trainingszeit ist aber geteilt, sodass Binder selten gleichzeitig auch Top-Rufer sind.
+4. **Magie kostet Anstrengung — wie Sport.** Müdigkeit und Erschöpfung während des Gebrauchs, mehr nicht. **Kein physischer Schaden durch normalen Magie-Gebrauch.** Kein Nasenbluten, keine Kopfschmerzen, kein Altern. Wenn die Magie aufgebraucht ist, geht einfach nichts mehr — nicht weniger, nicht schlechter, sondern Null. Der Magier muss dann auf seinen physischen Körper zurückgreifen, bis er zur nächsten Quelle kommt. Es gibt keinen "Übergebrauch" im Sinne körperlicher Selbstschädigung — die Natur hat eine harte Grenze eingebaut, die Ende ist.
+5. **Aufladung nur in Quellennähe.** Die Magie verbraucht sich beim Gebrauch und lädt sich nicht von allein auf — sondern nur durch Aufenthalt an einer Quelle. Aufgeladene Magie kann überall verbraucht werden; Magier werden nicht beim Weggehen sofort leer, aber wer lang weg ist, ist irgendwann durch und muss zurück oder einen Rastpunkt aufsuchen.
+6. **Die einzige Ausnahme: Resonanz-Ernte.** Varens Technik füllt das eigene Magie-Gefäß mit fremder Magie, die nicht zur eigenen Neigung passt. Das ist wie ein transplantiertes Organ, das abgestoßen wird — Autoimmunreaktion mit Haarausfall, milchigen Augen, Zittern, beschleunigtem Altern. **Resonanz-Ernte ist die einzige Magie-Praxis, die den Körper permanent schädigt.** Normale Nutzung tut das nie.
+7. **Niedrig-Begabte gibt es in allen Feldern.** Sie erreichen meist maximal Stufe 2 als Lebensmaximum. Als Bürger vollwertig, bekommen aber seltener qualifizierte Arbeit.
+8. **Schemen binden ist ein Zweittalent, das nur bei Rufern auftritt.** Rufer, die auch binden, sind **Dualisten**. Rufer, die nur rufen können, sind **Spezialisten**. Binden kann wie jede Multibegabung ab Stufe 1–2 auftreten; Trainingszeit teilt sich auf beide Talente auf.
 
 ---
 
@@ -28,7 +29,7 @@
 | 35–50 | Stufe 4–5 | 3/2 oder 4/1 | 2/2/1 |
 | 50+ | Stufe 5–6 (seltene Meister: 7–8) | 4/3 | 3/2/2 |
 
-Stufe 8+ bei Moragh-Bürgern extrem selten — nur außergewöhnliche Einzelbegabungen mit Lebensarbeit. Stufe 10 praktisch nie erreichbar, reserviert für die Thalassier der Fünf (andere Mechanik durch den Riss).
+Stufe 8 bei Moragh-Bürgern selten — nur außergewöhnliche Einzelbegabungen mit Lebensarbeit. **Stufe 9 ist mit sehr viel Training erreichbar**, aber selten praxistauglich (die meisten Menschen trainieren nicht an der Grenze ihrer Leistungsfähigkeit, und die Wenigen, die es tun, sind legendäre Meister ihres Felds). **Stufe 10 ist für Moragh-Bürger tabu** — reserviert für die Thalassier der Fünf (andere Mechanik durch den Riss).
 
 **Niedrig-Begabte (~5 % der Bevölkerung)** erreichen meist nur Stufe 2 in einem Talent — unabhängig von Alter und Übung. Sie arbeiten in Berufen, die ihr schwaches Feld abdeckt.
 
@@ -58,7 +59,7 @@ Jede Person hat ein **Grundbudget** zwischen 4 und 8 Punkten (Stärke), das nach
 | Quadrupel | 4.9 % | Selten, oft "Jack of all trades" mit Stufe 3 als Deckel |
 | Fünffach | 0.1 % | Ausnahme; Varen ist hier, mit weit über dem Normalbudget |
 
-Eine dualbegabte Person kann ihre zweite Fähigkeit auf Stufe 1 belassen und ihr Training auf die erste konzentrieren — sie zählt trotzdem als Dualistin, erhält aber das höhere Talent-Bonus-Budget nur, wenn beide trainiert werden.
+Eine dualbegabte Person kann eine Fähigkeit bis zur Grenze ausbauen und die andere auf Stufe 1 belassen — sie zählt weiter als Dualistin und behält das höhere Gesamt-Budget. Stufe 9 ist theoretisch möglich, wenn Begabung und Training extrem sind. Stufe 10 bleibt aber tabu — das ist Thalassier-Territorium.
 
 ---
 
@@ -66,7 +67,7 @@ Eine dualbegabte Person kann ihre zweite Fähigkeit auf Stufe 1 belassen und ihr
 
 **Einzelpersonen haben keine Fernkampfmagie.** Die Reichweite fällt exponentiell ab (siehe `10-magie-system.md`), Maximum-Stufe nur im 1-m-Radius. Jede Wirkung auf Distanz ist schwächer.
 
-**Rituale durchbrechen diese Grenze.** Mehrere trainierte Magier desselben oder komplementärer Talente koppeln ihre Resonanzen. Das Ergebnis:
+**Rituale durchbrechen diese Grenze.** Mehrere trainierte Magier desselben oder komplementärer Talente koppeln ihre Magie. Das Ergebnis:
 
 - **Wirkung skaliert mit Teilnehmerzahl** — je mehr Beteiligte, desto größer der wirksame Radius und die nominell erreichbare Stufe.
 - **Einzelstärke zählt mit** — ein Ritual aus fünf Stufe-6-Feuer-Spezialisten wirkt anders als eins aus fünf Stufe-3-Bürgern.
@@ -76,8 +77,8 @@ Eine dualbegabte Person kann ihre zweite Fähigkeit auf Stufe 1 belassen und ihr
 **Beispiele:**
 - Bund-Feuerartillerie: Zehn bis zwanzig Feuer-Spezialisten koppeln, werfen Explosions-Herde über hundert Meter.
 - Thar-Ritualbeschwörung: Drei bis fünf Rufer gemeinsam, um übergroße Militär-Schemen zu rufen, die einzeln nicht möglich wären.
-- Velmar-Portalritual: Varen plus Druck- und Zeit-Spezialisten; das Öffnen eines Portals ist immer Ritual, nicht Einzeltat.
-- Quellen-Überladung: Ein Ritual mit mehreren starken Energie-Trägern über einer Leylinie.
+- Varens Portalritual: Varen als Velmar-Binder mit Druck-Begabung plus angelernter Zeit-Manipulation; bei größeren Portalen kommen Druck- und Zeit-Spezialisten dazu. Das ist **Varens persönliche Technik**, kein Velmar-Standard — Portalmagie ist in allen Fraktionen offiziell verboten (siehe `10-magie-system.md`, *Portalmagie*).
+- Quellen-Überladung: **Varens Technik** — ein Ritual mit mehreren starken Energie-Trägern über einer Leylinie, das eine Quelle zum Kollabieren bringt. Vom Bund gestohlen/rekonstruiert und als Kriegswaffe eingesetzt (siehe `10-magie-system.md`, *Quellen-Überladung*).
 
 ---
 
@@ -86,7 +87,7 @@ Eine dualbegabte Person kann ihre zweite Fähigkeit auf Stufe 1 belassen und ihr
 | Fraktion | Rufen | Binden | Philosophie |
 |---|---|---|---|
 | **Bund von Orath** | Ja | **Nie** — gilt als Sklaverei, verboten | "Der Schemen ist Gast, nicht Gefangener." Schemen werden für Dienste gerufen und gehen, wann sie wollen. Kampfschemen im Krieg — volatile Waffe. |
-| **Konglomerat/Thar** | **Nie** | **Nie** | Schemen gelten als unkontrollierbare Fremdenergie. Alles wird über Magitech und menschliche Magie abgewickelt. |
+| **Konglomerat/Thar** | Ja, selten | **Nie** | Rufen erlaubt, aber kulturell unüblich. Haushaltshelfer hier und da, große Angriffsschemen kurz vor dem Kampf (Ritualbeschwörung mit mehreren Rufern). Binden gilt als ideologisch inakzeptabel — alles Dauerhafte läuft über Magitech und menschliche Magie. |
 | **Velmar** | Ja, etabliert | **Ja** — Kulturkern | Gebundene Schemen als Diener, Gespielen, Liebhaber. Bindungsmasse ist Reichtum. Siehe `21-moragh-gesellschaft.md`. |
 
 Vollständige Schemen-Regeln (Substanz, Beschwörung, Zerstörung, Spuren in Thalassien) in `10-magie-system.md`, Abschnitt *Schemen*.
@@ -150,10 +151,10 @@ Vollständige Schemen-Regeln (Substanz, Beschwörung, Zerstörung, Spuren in Tha
 | 2 | Papiere wehen, Tür zufallen |
 | 3 | Kerze ausblasen, Wäsche trocknen |
 | 4 | Windstoß (erwachsenen Menschen stößt) |
-| 5 | Luftwirbel um sich — Pfeile abgelenkt |
+| 5 | Luftwirbel um sich — Geschosse abgelenkt |
 | 6 | Atemluft manipulieren (Raum entlüften, Feind ersticken) |
-| 7 | Kurz schweben (Meter, Sekunden) |
-| 8 | Böen über hundert Meter, Segel treiben ohne Wind |
+| 7 | Gleit- oder Fallschirm-Effekt — eigenen Fall abfedern, kurze Strecken in der Luft segeln |
+| 8 | Böen über hundert Meter, Windmühlen und Flussboote ohne Wind antreiben |
 | 9 | Sturm entfesseln, Dächer abreißen |
 | 10 | Wirbelsturm, Druckwelle reißt Häuserreihe |
 
@@ -171,6 +172,8 @@ Vollständige Schemen-Regeln (Substanz, Beschwörung, Zerstörung, Spuren in Tha
 | 8 | Erdwall hundert Meter lang |
 | 9 | Gebäudefundament destabilisieren |
 | 10 | Tal umformen, Hügel versetzen |
+
+**Adobe/Lehmbau** ist keine reine Erd-Magie — er entsteht in der Kombination **Erde + Telekinese** (Ziegel formen und platzieren) oder **Erde + Stein** (wenn Fundament und Wände ineinander übergehen). Siehe Kombinations-Grundregel weiter unten.
 
 ### Stein (Fels, Basalt, harte Gesteine)
 
@@ -195,12 +198,12 @@ Vollständige Schemen-Regeln (Substanz, Beschwörung, Zerstörung, Spuren in Tha
 | 2 | Nagel krümmen |
 | 3 | Draht flechten, Kette spleißen |
 | 4 | Klinge formen (Hitze-Begabter als Partner hilfreich) |
-| 5 | Feinarbeit Schmuck, filigrane Einlegearbeit |
+| 5 | Feinarbeit Schmuck, filigrane Einlegearbeit; Teilarbeit an Magitech-Bestien im Team |
 | 6 | Panzerung nahtlos formen |
-| 7 | Magitech-Kern fertigen |
-| 8 | Metallgitter mit Händen biegen |
+| 7 | Magitech-Kern fertigen (solo) |
+| 8 | Metallgitter mit Händen biegen; Bestien-Baumeister, leitet ein Team |
 | 9 | Erz zu Metall sintern (alchemistisch) |
-| 10 | Magitech-Bestie komplett formen |
+| 10 | Magitech-Bestie komplett solo formen |
 
 ### Holz
 
@@ -214,7 +217,7 @@ Vollständige Schemen-Regeln (Substanz, Beschwörung, Zerstörung, Spuren in Tha
 | 6 | Feinschnitzerei in Gedankenschnelle |
 | 7 | Möbel aus einem Stück wachsen lassen |
 | 8 | Holzhaus in Stunden |
-| 9 | Schiffsrumpf nahtlos formen |
+| 9 | Brückenbogen oder Turmkonstruktion nahtlos formen |
 | 10 | Gesamtstruktur aus einem einzigen Baum herauswachsen |
 
 ### Glas/Kristall
@@ -243,9 +246,9 @@ Vollständige Schemen-Regeln (Substanz, Beschwörung, Zerstörung, Spuren in Tha
 | 5 | 20 m, Kutsche schieben |
 | 6 | Erwachsenen Menschen heben, schleudern |
 | 7 | Bauteil-Schwerlast (Balken, große Steine) |
-| 8 | Waffen im Flug umlenken (Pfeile, Kugeln) |
+| 8 | Geschosse im Flug umlenken |
 | 9 | Menschengruppe gleichzeitig |
-| 10 | Schiff heben, Gebäudeteil versetzen |
+| 10 | Wagenzug heben, Gebäudeteil versetzen |
 
 ### Schall/Klang
 
@@ -284,7 +287,7 @@ Vollständige Schemen-Regeln (Substanz, Beschwörung, Zerstörung, Spuren in Tha
 | 1 | Kerzenflamme modulieren | moduliert |
 | 2 | Mondlicht bündeln, im Halbdunkel sehen | moduliert |
 | 3 | Fotoplatte belichten, Erinnerungsbilder auf Emulsion | moduliert |
-| **4** | **Lichtkugel in Handfläche (aus dem Nichts)** | **erzeugt** |
+| 4 | Lichtkugel in Handfläche (aus dem Nichts) | erzeugt |
 | 5 | Brennglas-Schärfe, Farben ändern (Tarnung) | erzeugt + gebündelt |
 | 6 | Raum verdunkeln, Schatten als Werkzeug | entzieht/erzeugt |
 | 7 | Bilder auf Glas/Wasser prägen, durch Spiegel sehen | erzeugt + gerichtet |
@@ -292,20 +295,20 @@ Vollständige Schemen-Regeln (Substanz, Beschwörung, Zerstörung, Spuren in Tha
 | 9 | Kampffeld selektiv verdunkeln | erzeugt + entzieht |
 | 10 | Sonnenlicht bündeln, verbrennt Haut/Panzer auf Distanz | erzeugt massiv |
 
-### Energie (generische Resonanz)
+### Energie (generische Magie-Energie)
 
 | Stufe | Fähigkeit |
 |---|---|
 | 1 | Spüren wo Energie pulsiert |
-| 2 | Eigenes Reservoir minimal stabilisieren |
+| 2 | Eigene Magie minimal stabilisieren |
 | 3 | Anderen Magier kurzfristig stützen |
 | 4 | Magitech-Gerät ohne Quelle minimal laden |
 | 5 | Energie bündeln, als Druckwelle werfen |
-| 6 | Resonanz-Schock (Gegner-Magier kann kurz nicht wirken) |
+| 6 | Magie-Schock (Gegner-Magier kann kurz nicht wirken) |
 | 7 | Eigene andere Fähigkeiten zeitlich verstärken |
 | 8 | Ritual-Energie in Bindungen/Portale einspeisen |
 | 9 | Quellen-Puls kurzfristig imitieren |
-| 10 | Reservoir eines anderen Magiers leersaugen — **Grenze zur Resonanz-Ernte** (Varens Forschungsfeld; die Ernte selbst ist Technik plus Stufe-10-Energie, kein eigenes Talent) |
+| 10 | Einem anderen Magier die Magie entziehen — **Grenze zur Resonanz-Ernte** (Varens Forschungsfeld; die Ernte selbst ist Technik plus Stufe-10-Energie, kein eigenes Talent) |
 
 ### Zeit (nur vorwärts)
 
@@ -320,7 +323,7 @@ Vollständige Schemen-Regeln (Substanz, Beschwörung, Zerstörung, Spuren in Tha
 | 7 | Schloss, Kette zerfällt zu Rost und Staub |
 | 8 | Person altert sichtbar (Haare grau, Falten) — nicht reversibel |
 | 9 | Dämon/Schemen altert 100 Jahre in Sekunden |
-| 10 | Struktur zerfällt zu Staub · Pfeile auf Faktor 100 verlangsamen |
+| 10 | Struktur zerfällt zu Staub · Geschosse auf Faktor 100 verlangsamen |
 
 **Harte Grenzen:** Niemals rückwärts (keine Verjüngung). Kein Stillstand — maximales Verlangsamen: Faktor ~100. Keine Selbst-Zeit (beeinflusst nicht sich selbst).
 
@@ -388,7 +391,7 @@ Vollständige Schemen-Regeln (Substanz, Beschwörung, Zerstörung, Spuren in Tha
 | 9 | Große Raubtiere als Wache halten |
 | 10 | Tierschwarm über Kilometer steuern |
 
-**Wirkt nicht auf Menschen** — Menschen haben Resonanz, Tiere nicht. Das macht Fauna-Begabte nützlich für Spionage über Tiere, aber nicht für direkte Gewalt gegen Menschen.
+**Wirkt nicht auf Menschen** — Menschen haben Magie, Tiere nicht. Das macht Fauna-Begabte nützlich für Spionage über Tiere, aber nicht für direkte Gewalt gegen Menschen.
 
 ### Eis/Kälte
 
@@ -424,7 +427,7 @@ Vollständige Schemen-Regeln (Substanz, Beschwörung, Zerstörung, Spuren in Tha
 
 ### Schemen binden — Sekundärtalent (nur bei Rufern)
 
-Kann wie jede Multibegabung ab Stufe 1–2 auftreten. Rufen ist Voraussetzung. **Dauerhafte Reservoir-Reduktion pro gebundenem Schemen** — fünf gebundene Schemen bedeuten fünf dauerhaft fehlende Anteile am Eigenreservoir.
+Kann wie jede Multibegabung ab Stufe 1–2 auftreten. Rufen ist Voraussetzung. **Dauerhafte Magie-Reduktion pro gebundenem Schemen** — fünf gebundene Schemen bedeuten fünf dauerhaft fehlende Anteile an der eigenen Magie.
 
 | Stufe | Fähigkeit |
 |---|---|
@@ -462,7 +465,7 @@ Zwei oder mehr Begabte können ihre Talente koppeln. Wirkung = Summe plus Synerg
 3. Pflanzen, Heilung, Fauna: **nur aufbauend**, kein Zellschaden.
 4. Binden nur als Sekundärtalent bei Rufern.
 5. Keine Fernkampfmagie für Einzelne. Rituale sind die Ausnahme.
-6. Aufladung nur in Quellennähe; aufgeladenes Reservoir überall verbrauchbar.
+6. Aufladung nur in Quellennähe; aufgeladene Magie überall verbrauchbar. Keine Schäden durch normalen Gebrauch — leer = einfach keine Magie mehr.
 7. Niedrig-Begabte in allen Feldern sind vollwertige Bürger.
 8. Moragh-Bürger können keine Thalassier-Riss-Effekte nachahmen (Stufe-10-Zauber).
 9. Thalassier, die in Moragh trainieren, haben größeren Speicher und längere Regeneration — können aber **keine Moragh-Rituale beeinflussen oder stören** (andere Magieart).

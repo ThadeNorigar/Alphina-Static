@@ -18,9 +18,9 @@ DAS ist der Konflikt. Nicht ein versteckter Preis — die UNGERECHTIGKEIT selbst
 
 **Moragh zerfällt — aber nicht wegen der Thalassier.** Moragh zerfällt wegen dem KRIEG. Varens Experiment hat drei Quellen zerstört. Der Bund hat die Überladungs-Methode gestohlen und zerstört weitere als Waffe. Es gibt genug verbleibende Quellen — der Krieg begann nicht aus Mangel, sondern aus Misstrauen (Thar glaubt Bund war's). Die Resonanz-Begabten sind kein Gift. Sie sind eine potenzielle Lösung — oder eine Waffe.
 
-**Moragh-Geborene zahlen mit dem Körper.** Wie Sport. Müdigkeit, Muskelkater, Hunger. Erst bei Übergebrauch: Nasenbluten etc. Das Reservoir füllt sich durch Ruhe.
+**Moragh-Geborene zahlen mit Anstrengung.** Wie Sport — Müdigkeit, Erschöpfung während des Gebrauchs. **Kein physischer Schaden, kein Nasenbluten, kein Altern.** Wenn die Magie aufgebraucht ist, geht nichts mehr — einfach Ende, bis zur nächsten Quelle. Kein "Übergebrauch"-Schaden. Volle Regeln in `20-moragh-talente.md`.
 
-**Resonanz-ERNTE ist KEINE normale Magie.** Resonanz-Ernte (Binder-Technik, von Varen entwickelt) ist eine perverse, unnatürliche Methode. Der Ernter füllt sein Reservoir mit FREMDER Magie die nicht zu ihm passt — wie ein transplantiertes Organ das abgestoßen wird. Haarausfall, milchige Augen, Zittern, beschleunigtes Altern. Normale Moragh-Magie = Müdigkeit wie nach Sport. Resonanz-Ernte = permanenter Schaden.
+**Resonanz-ERNTE ist die einzige Ausnahme.** Varens Binder-Technik füllt das eigene Magie-Gefäß mit FREMDER Magie, die nicht zur eigenen Neigung passt — wie ein transplantiertes Organ, das abgestoßen wird. Haarausfall, milchige Augen, Zittern, beschleunigtes Altern. Normale Moragh-Magie tut das nie. Resonanz-Ernte = permanenter Schaden.
 
 **Buch 3, Finale:** Die Riss-Quelle wird zerstört. Thalassien verliert alle Magie permanent. Die ehemaligen Thalassier in Moragh behalten ihre Resonanz — sie sind IN Moragh.
 
@@ -61,9 +61,9 @@ Moragh-Bürger-Rituale sind kulturell etabliert und in `20-moragh-talente.md` be
 
 ## Training & Speicher
 
-**Kein persönlicher Preis pro Zauber — aber Reservoir und Regeneration existieren.**
+**Kein persönlicher Preis pro Zauber — aber Magie-Vorrat und Regeneration existieren.**
 
-- Thalassier in Moragh haben ein **größeres Reservoir** als Moragh-Geborene, brauchen aber **länger zur Regeneration** (Tage statt Stunden bei schwerer Nutzung).
+- Thalassier in Moragh haben einen **größeren Magie-Vorrat** als Moragh-Geborene, brauchen aber **länger zur Regeneration** (Tage statt Stunden bei schwerer Nutzung).
 - Trainingskurve: **6–9 Monate fokussierte Übung in Moragh**, um Stufe 10 sicher zu beherrschen. Vorher: maximal Stufe 6–7 unter Stress, Stufe 4–5 zuverlässig.
 - In Thalassien (ohne Moragh-Aufenthalt) bleiben die Fünf bei Stufe 1–3 — unbewusste, zufällig wirkende Effekte. Das ist Buch 1.
 - **Beschränkung:** Thalassier können **keine Moragh-Rituale** beeinflussen oder stören — andere Magieart. Ein Bund-Überladungs-Ritual läuft ab, selbst wenn Alphina daneben steht. Sie kann nur dagegen halten, nicht abbrechen.
@@ -154,7 +154,7 @@ Moragh-Bürger-Rituale sind kulturell etabliert und in `20-moragh-talente.md` be
 | 1 | Kerzenflamme heller/dunkler stellen | moduliert |
 | 2 | Mondlicht bündeln, im Halbdunkel sehen | moduliert |
 | 3 | Fotoplatte belichten, Erinnerungsbilder auf Emulsion prägen | moduliert (Resonanz-Emission) |
-| **4** | **Lichtkugel in der Handfläche, Laternenhelligkeit** | **erzeugt** |
+| 4 | Lichtkugel in der Handfläche, Laternenhelligkeit | erzeugt |
 | 5 | Brennglas-Schärfe, Zunder entzünden; Farben verändern (Rot zu Blau, Tarnung durch Farbwechsel) | erzeugt + gebündelt |
 | 6 | Licht aus Raum saugen, in Faust kondensieren; Raum verdunkeln (Schatten als Werkzeug — Gegner sieht nichts) | entzieht/erzeugt |
 | 7 | Bilder auf Glas/Wasser/Metall prägen, hält Stunden; Lichtpfad durch Spiegel/Reflexionen verfolgen (sieht um Ecken) | erzeugt + gerichtet |
@@ -202,7 +202,7 @@ Moragh-Bürger-Rituale sind kulturell etabliert und in `20-moragh-talente.md` be
 
 **Selbst-Zeit:** Er kann Zeit nur *um* Objekte/Wesen beeinflussen, **nicht an sich selbst.** Verhindert "Superman-Tempo".
 
-**Bewegte Objekte:** Ja. Ein Pfeil in seinem Feld wird langsamer, kinetische Energie skaliert mit Zeit.
+**Bewegte Objekte:** Ja. Ein Geschoss in seinem Feld wird langsamer, kinetische Energie skaliert mit Zeit.
 
 | Stufe | Fähigkeit |
 |---|---|
@@ -215,7 +215,7 @@ Moragh-Bürger-Rituale sind kulturell etabliert und in `20-moragh-talente.md` be
 | 7 | Schloss, Kette, Scharnier zerfällt zu Rost und Staub |
 | 8 | Person altert sichtbar: graue Haare, Falten, schwache Gelenke — **nicht reversibel** |
 | 9 | Großer Gegner (Schemen, Dämon) altert hundert Jahre in Sekunden, Fleisch grau, blind |
-| 10 | Ganze Struktur — Turm, Brücke, Stadtmauer — zerfällt zu Staub in Minuten · alternativ: Pfeil-Hagel im Feld auf Faktor 100 verlangsamt, Gegner bewegen sich in Minuten nur Millimeter |
+| 10 | Ganze Struktur — Turm, Brücke, Stadtmauer — zerfällt zu Staub in Minuten · alternativ: Geschoss-Hagel im Feld auf Faktor 100 verlangsamt, Gegner bewegen sich in Minuten nur Millimeter |
 
 ### Buch 1 Beats — "Ich sehe Dinge die nicht da sind"
 
@@ -414,7 +414,7 @@ Selten, weil Koordination schwer. Max 2–3 Mal in der ganzen Trilogie.
 
 1. **Magie kommt aus der Umgebung, nicht aus dem Körper.** Ausnahmen: Runa (magisches Feuer direkt), Sorel ab Stufe 4 (Licht aus Nichts).
 2. **Thalassier zahlen KEINEN persönlichen Preis pro Zauber.** Kein Nasenbluten, kein Hunger, keine Erschöpfung.
-3. **Reservoir und Regeneration existieren.** Thalassier haben größeres Reservoir, brauchen länger zur Regeneration (Tage bei schwerer Nutzung).
+3. **Magie-Vorrat und Regeneration existieren.** Thalassier haben größeren Vorrat, brauchen länger zur Regeneration (Tage bei schwerer Nutzung).
 4. **Reichweite fällt logarithmisch ab.** Nahbereich 0–1 m = volle Macht. >50 m = praktisch nichts.
 5. **Training 6–9 Monate** für Stufe 10. Vorher: maximal Stufe 6–7.
 6. **Moragh zahlt — aber hauptsächlich für den KRIEG.** Quellen durch gezielte Überladung zerstörbar. Kein allgemeiner Schwund.
@@ -436,7 +436,7 @@ Moragh hat kein Handwerk im thalassischen Sinn — alles wird mit Magie gemacht,
 
 ## Quellen — physische Eigenschaften
 
-Reservoir-Quellen sind unterirdische Knotenpunkte im Leylinien-Netz. Sie sind keine Objekte — sie sind Zustände im Gestein. Jede Quelle **pulsiert**. Ein tiefer, gleichmäßiger Rhythmus, spürbar durch den Fels für jeden der Resonanz hat. Der Puls ist langsam, geduldig, älter als alles Lebende darüber.
+Quellen sind unterirdische Knotenpunkte im Leylinien-Netz. Sie sind keine Objekte — sie sind Zustände im Gestein. Jede Quelle **pulsiert**. Ein tiefer, gleichmäßiger Rhythmus, spürbar durch den Fels für jeden Magier. Der Puls ist langsam, geduldig, älter als alles Lebende darüber.
 
 **Was Resonanz-Begabte spüren:**
 - Wärme im Stein, auch im Winter. Je näher an der Quelle, desto wärmer.
@@ -526,7 +526,7 @@ Zusätzlich kann der Beschwörer **einzelne Spezial-Fähigkeiten** mitgeben:
 
 ### Magie-Preis
 
-Der Schemen zahlt den Preis seiner eigenen Zauber aus seinem eigenen Reservoir, wie jeder Moragh-Anwender. Der Beschwörer zahlt **dauerhaft durch ein reduziertes Maximum-Reservoir**, solange ein Schemen existiert.
+Der Schemen zahlt den Preis seiner eigenen Zauber aus seinem eigenen Magie-Vorrat, wie jeder Moragh-Anwender. Der Beschwörer zahlt **dauerhaft durch einen reduzierten Maximum-Magie-Vorrat**, solange ein Schemen existiert.
 
 ### Zwei Arten
 

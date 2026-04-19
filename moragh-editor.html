@@ -54,6 +54,41 @@
   .help kbd { background: #2a2520; padding: 1px 4px; border-radius: 2px; border: 1px solid #444; font-size: 9px; }
   .view-btn.active { border-color: #b8860b; color: #b8860b; background: rgba(184,134,11,0.1); }
 
+  #lock-bar {
+    position: fixed; top: 12px; right: 12px; z-index: 20;
+    display: flex; gap: 6px; align-items: center;
+    background: rgba(26,23,20,0.85); border: 1px solid #333;
+    border-radius: 4px; padding: 6px 8px; backdrop-filter: blur(4px);
+  }
+  #lock-btn {
+    padding: 6px 12px; border: 1px solid #555; border-radius: 3px; cursor: pointer;
+    font-size: 11px; background: rgba(255,255,255,0.05); color: #c8bfb0;
+    font-family: inherit;
+  }
+  #lock-btn.locked { border-color: #b8860b; color: #b8860b; background: rgba(184,134,11,0.08); }
+  #lock-btn.unlocked { border-color: #5a7a5a; color: #8fae8f; background: rgba(90,122,90,0.12); }
+  #lock-btn:hover { filter: brightness(1.2); }
+
+  .locked-ui .faction-btn,
+  .locked-ui .size-btn,
+  .locked-ui .action-btn:not(.view-btn):not(.reset-btn):not(.export-btn),
+  .locked-ui #city-name,
+  .locked-ui .topo-tool-btn {
+    opacity: 0.4; pointer-events: none;
+  }
+  .locked-ui .topo-input { opacity: 0.4; pointer-events: none; }
+
+  .topo-tool-btn {
+    display: inline-block; padding: 5px 9px; margin: 2px; border: 1px solid #444;
+    border-radius: 3px; cursor: pointer; font-size: 10px;
+    background: rgba(255,255,255,0.03); color: #c8bfb0;
+  }
+  .topo-tool-btn:hover { background: rgba(255,255,255,0.08); }
+  .topo-tool-btn.active { border-color: #b8860b; color: #b8860b; background: rgba(184,134,11,0.12); }
+  .topo-input { width: 100%; background: #2a2520; border: 1px solid #444; border-radius: 3px; padding: 4px 6px; color: #f0e6d8; font-size: 11px; margin-top: 3px; font-family: inherit; }
+  #topo-panel { display: none; }
+  body.view-topology #topo-panel { display: block; }
+
   #toast { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); background: #2a2520; border: 1px solid #b8860b; color: #f0e6d8; padding: 8px 16px; border-radius: 4px; font-size: 11px; display: none; z-index: 100; }
 </style>
 </head>
@@ -97,14 +132,77 @@
   <div class="action-bar" style="margin-bottom:8px;">
     <button class="action-btn view-btn active" id="btn-political" onclick="setView('political')">Politisch</button>
     <button class="action-btn view-btn" id="btn-magic" onclick="setView('magic')">Magiestärke</button>
+    <button class="action-btn view-btn" id="btn-topology" onclick="setView('topology')">Topologie</button>
+  </div>
+
+  <div id="topo-panel">
+    <h3>Topologie-Werkzeuge</h3>
+    <div class="action-bar" style="margin-bottom:6px;">
+      <button class="topo-tool-btn" id="topo-tool-contour" onclick="setTopoTool('contour')">Höhenlinie</button>
+      <button class="topo-tool-btn" id="topo-tool-formation" onclick="setTopoTool('formation')">Formation</button>
+      <button class="topo-tool-btn" id="topo-tool-resource" onclick="setTopoTool('resource')">Rohstoff</button>
+      <button class="topo-tool-btn" id="topo-tool-erase" onclick="setTopoTool('erase')">Löschen</button>
+    </div>
+
+    <div id="topo-opts-contour" class="topo-opts" style="display:none;">
+      <label style="display:block;font-size:10px;color:#8a8279;margin-top:4px;">Höhe (m)</label>
+      <input class="topo-input" type="number" id="topo-elevation" value="100" step="20">
+      <div style="font-size:10px;color:#6b6259;margin-top:4px;line-height:1.5;">
+        Klicks setzen Punkte · <kbd style="background:#2a2520;padding:1px 4px;border-radius:2px;border:1px solid #444;">Enter</kbd> beendet Linie · <kbd style="background:#2a2520;padding:1px 4px;border-radius:2px;border:1px solid #444;">Esc</kbd> verwirft
+      </div>
+    </div>
+
+    <div id="topo-opts-formation" class="topo-opts" style="display:none;">
+      <label style="display:block;font-size:10px;color:#8a8279;margin-top:4px;">Gestein</label>
+      <select class="topo-input" id="topo-formation-type">
+        <option value="granit">Granit</option>
+        <option value="basalt">Basalt</option>
+        <option value="sandstein">Sandstein</option>
+        <option value="kalkstein">Kalkstein</option>
+        <option value="vulkanit">Vulkanit</option>
+      </select>
+      <label style="display:block;font-size:10px;color:#8a8279;margin-top:4px;">Bezeichnung (optional)</label>
+      <input class="topo-input" type="text" id="topo-formation-label" placeholder="z.B. Drakar-Rücken">
+      <div style="font-size:10px;color:#6b6259;margin-top:4px;line-height:1.5;">
+        Klicks setzen Eckpunkte · <kbd style="background:#2a2520;padding:1px 4px;border-radius:2px;border:1px solid #444;">Enter</kbd> schließt Polygon
+      </div>
+    </div>
+
+    <div id="topo-opts-resource" class="topo-opts" style="display:none;">
+      <label style="display:block;font-size:10px;color:#8a8279;margin-top:4px;">Rohstoff</label>
+      <select class="topo-input" id="topo-resource-type">
+        <option value="eisen">Eisen (Fe)</option>
+        <option value="kupfer">Kupfer (Cu)</option>
+        <option value="silber">Silber (Ag)</option>
+        <option value="salz">Salz (S)</option>
+        <option value="kohle">Kohle (K)</option>
+        <option value="edelstein">Edelstein (◇)</option>
+        <option value="purpurstein">Purpurstein (P)</option>
+      </select>
+      <label style="display:block;font-size:10px;color:#8a8279;margin-top:4px;">Ergiebigkeit</label>
+      <div class="action-bar" style="margin-top:2px;">
+        <button class="topo-tool-btn" data-richness="1" onclick="setTopoRichness(1)">1 — mager</button>
+        <button class="topo-tool-btn active" data-richness="2" onclick="setTopoRichness(2)">2 — mittel</button>
+        <button class="topo-tool-btn" data-richness="3" onclick="setTopoRichness(3)">3 — reich</button>
+      </div>
+      <div style="font-size:10px;color:#6b6259;margin-top:4px;">Klick auf Karte platziert Marker</div>
+    </div>
+
+    <div id="topo-opts-erase" class="topo-opts" style="display:none;">
+      <div style="font-size:10px;color:#6b6259;margin-top:4px;line-height:1.5;">
+        Klick auf Topologie-Element (Höhenlinie, Formation, Rohstoff) entfernt es.
+      </div>
+    </div>
+
+    <div id="topo-stats" style="font-size:10px;color:#6b6259;margin-top:10px;line-height:1.6;"></div>
   </div>
 
   <h3>Aktionen</h3>
   <div class="action-bar">
     <button class="action-btn primary" onclick="addCity()">+ Stadt</button>
     <button class="action-btn danger" onclick="deleteCity()">Löschen</button>
-    <button class="action-btn" onclick="exportData()">Export JSON</button>
-    <button class="action-btn" onclick="resetView()">Reset Ansicht</button>
+    <button class="action-btn export-btn" onclick="exportData()">Export JSON</button>
+    <button class="action-btn reset-btn" onclick="resetView()">Reset Ansicht</button>
   </div>
 
   <div class="help">
@@ -119,6 +217,10 @@
 
 <div id="map-container">
   <svg id="map" viewBox="0 0 1600 1100"></svg>
+</div>
+
+<div id="lock-bar">
+  <button id="lock-btn" class="locked" onclick="toggleLock()">🔒 Gesperrt</button>
 </div>
 
 <div id="scale-bar" style="position:fixed;bottom:40px;right:60px;z-index:10;background:rgba(26,23,20,0.8);padding:6px 10px;border-radius:4px;border:1px solid rgba(255,255,255,0.08);"></div>
@@ -156,7 +258,33 @@ const magicRadius = { 3: 120, 2: 80, 1: 50, 0: 25, '-1': 0 };
 // Magie-Stärke am Zentrum (für Heatmap)
 const magicStrength = { 3: 0.64, 2: 0.45, 1: 0.3, 0: 0.115, '-1': 0 };
 
-let viewMode = 'political'; // 'political' oder 'magic'
+let viewMode = 'political'; // 'political', 'magic' oder 'topology'
+let locked = true; // Beim Laden immer gesperrt
+let initialLoadComplete = false;
+
+// Topologie-State
+let topology = { contours: [], formations: [], resources: [] };
+let topoTool = null; // 'contour' | 'formation' | 'resource' | 'erase'
+let topoRichness = 2;
+let topoCurrentShape = null; // {type:'contour'|'formation', points:[[x,y],...], meta:{...}}
+
+// Farbpaletten
+const formationColors = {
+  granit:     { fill: 'rgba(150,140,130,0.35)', stroke: '#9b8f80' },
+  basalt:     { fill: 'rgba(55,55,65,0.45)',    stroke: '#6a6a75' },
+  sandstein:  { fill: 'rgba(198,158,96,0.30)',  stroke: '#c89e60' },
+  kalkstein:  { fill: 'rgba(220,210,180,0.28)', stroke: '#d8ceb0' },
+  vulkanit:   { fill: 'rgba(120,60,40,0.35)',   stroke: '#a85c45' }
+};
+const resourceSymbols = {
+  eisen:       { label: 'Fe',  color: '#a88c6a' },
+  kupfer:      { label: 'Cu',  color: '#c87a4a' },
+  silber:      { label: 'Ag',  color: '#d8d0c0' },
+  salz:        { label: 'S',   color: '#f0ecd8' },
+  kohle:       { label: 'K',   color: '#2a2520' },
+  edelstein:   { label: '◇',   color: '#8fcaf0' },
+  purpurstein: { label: 'P',   color: '#9b5ea8' }
+};
 
 // Coastline
 const coast = [
@@ -388,6 +516,11 @@ function svgPoint(clientX, clientY) {
 function render() {
   svg.innerHTML = '';
 
+  // Im Topologie-Modus werden politische Elemente stark zurückgenommen
+  const topoMode = (viewMode === 'topology');
+  const polFill = topoMode ? 0.35 : 1;
+  const polStroke = topoMode ? 0.25 : 1;
+
   // Defs
   const defs = el('defs');
   const clip = el('clipPath', {id:'cc'});
@@ -407,14 +540,14 @@ function render() {
   if (pts.length > 2) {
     currentDelaunay = d3.Delaunay.from(pts);
     const voronoi = currentDelaunay.voronoi([200,60,1400,900]);
-    const cellG = el('g', {'clip-path':'url(#cc)'});
+    const cellG = el('g', {'clip-path':'url(#cc)', opacity: polFill});
     for (let i = 0; i < cities.length; i++) {
       const cell = voronoi.cellPolygon(i);
       if (!cell) continue;
       const c = factionColors[cities[i].faction] || factionColors.frei;
       const d = 'M ' + cell.map(p=>p[0]+','+p[1]).join(' L ') + ' Z';
-      const p = el('path', {d, fill:c.fill, stroke:c.stroke, 'stroke-width':'0.5', 'stroke-opacity':'0.6'});
-      if (i === selectedIdx) { p.setAttribute('stroke', '#f0e6d8'); p.setAttribute('stroke-width', '2'); p.setAttribute('stroke-opacity', '1'); }
+      const p = el('path', {d, fill:c.fill, stroke:c.stroke, 'stroke-width':'0.5', 'stroke-opacity': 0.6 * polStroke});
+      if (i === selectedIdx && !topoMode) { p.setAttribute('stroke', '#f0e6d8'); p.setAttribute('stroke-width', '2'); p.setAttribute('stroke-opacity', '1'); }
       cellG.appendChild(p);
     }
     svg.appendChild(cellG);
@@ -423,17 +556,22 @@ function render() {
   // Coast border
   svg.appendChild(el('path', {d:coastPath, fill:'none', stroke:'#5a5045', 'stroke-width':'2'}));
 
+  // Topologie-Layer (wird hinter Städten aber über Voronoi gerendert im Topologie-Modus)
+  if (topoMode) {
+    renderTopology();
+  }
+
   // Cities
-  const cg = el('g');
+  const cg = el('g', topoMode ? {opacity: '0.4'} : {});
   cities.forEach((c,i) => {
     const r = c.size===3?5:c.size===2?3.5:c.size===1?2.5:c.size===-1?4:1.5;
     const fc = c.size===-1 ? '#e74c3c' : c.size>=3?'#f0e6d8':c.size>=2?'#c8bfb0':c.size>=1?'#8a8279':'#5a5550';
     const op = c.size<=0 && c.size!==-1 ? (viewMode==='magic'?'0.6':'0.4') : '1';
     const circle = el('circle', {cx:c.x,cy:c.y,r,fill:fc,opacity:op,'data-idx':i,style:'cursor:pointer'});
-    if (i===selectedIdx) { circle.setAttribute('stroke','#fff'); circle.setAttribute('stroke-width','2'); circle.setAttribute('r',r+2); }
+    if (i===selectedIdx && !topoMode) { circle.setAttribute('stroke','#fff'); circle.setAttribute('stroke-width','2'); circle.setAttribute('r',r+2); }
     cg.appendChild(circle);
 
-    if (c.name) {
+    if (c.name && (!topoMode || c.size >= 2)) {
       const fs = c.size===3?9:c.size===2?7.5:c.size===1?6.5:5;
       const tc = c.size===3?'#f0e6d8':c.size===2?'#b0a898':c.size===1?'#7a7269':'#5a5550';
       const fw = c.size===3?'600':'400';
@@ -566,6 +704,95 @@ function render() {
   updateSidebar();
 }
 
+function renderTopology() {
+  const g = el('g', {'clip-path':'url(#cc)', 'data-topo':'1'});
+
+  // 1. Formationen (Polygone) — unterste Schicht
+  (topology.formations || []).forEach((f, i) => {
+    if (!f.polygon || f.polygon.length < 3) return;
+    const col = formationColors[f.type] || formationColors.granit;
+    const d = 'M ' + f.polygon.map(p => p[0]+','+p[1]).join(' L ') + ' Z';
+    const p = el('path', {
+      d, fill: col.fill, stroke: col.stroke,
+      'stroke-width': '1', 'stroke-opacity': '0.7',
+      'data-topo-type': 'formation', 'data-topo-idx': i,
+      style: 'cursor:' + (topoTool==='erase' ? 'crosshair' : 'default')
+    });
+    g.appendChild(p);
+    if (f.label) {
+      // Schwerpunkt für Label
+      const cx = f.polygon.reduce((s,pt)=>s+pt[0],0) / f.polygon.length;
+      const cy = f.polygon.reduce((s,pt)=>s+pt[1],0) / f.polygon.length;
+      const halo = el('text', {x:cx, y:cy, 'text-anchor':'middle', fill:'none', stroke:'#0d1015', 'stroke-width':'3', 'font-size':'10', 'font-style':'italic', style:'pointer-events:none'});
+      halo.textContent = f.label;
+      g.appendChild(halo);
+      const t = el('text', {x:cx, y:cy, 'text-anchor':'middle', fill:col.stroke, 'font-size':'10', 'font-style':'italic', style:'pointer-events:none'});
+      t.textContent = f.label;
+      g.appendChild(t);
+    }
+  });
+
+  // 2. Höhenlinien
+  (topology.contours || []).forEach((c, i) => {
+    if (!c.points || c.points.length < 2) return;
+    const isMain = (c.elevation % 100 === 0);
+    const d = 'M ' + c.points.map(p => p[0]+','+p[1]).join(' L ') + (c.closed ? ' Z' : '');
+    const path = el('path', {
+      d, fill:'none',
+      stroke: isMain ? '#8a8279' : '#5a5550',
+      'stroke-width': isMain ? '0.9' : '0.5',
+      'stroke-opacity': isMain ? '0.85' : '0.55',
+      'data-topo-type': 'contour', 'data-topo-idx': i,
+      style: 'cursor:' + (topoTool==='erase' ? 'crosshair' : 'default')
+    });
+    g.appendChild(path);
+    // Label auf Hauptlinien
+    if (isMain && c.points.length > 2) {
+      const mid = c.points[Math.floor(c.points.length/2)];
+      const halo = el('text', {x:mid[0], y:mid[1]-2, 'text-anchor':'middle', fill:'none', stroke:'#0d1015', 'stroke-width':'2.5', 'font-size':'7', style:'pointer-events:none'});
+      halo.textContent = c.elevation + 'm';
+      g.appendChild(halo);
+      const t = el('text', {x:mid[0], y:mid[1]-2, 'text-anchor':'middle', fill:'#a89e8a', 'font-size':'7', style:'pointer-events:none'});
+      t.textContent = c.elevation + 'm';
+      g.appendChild(t);
+    }
+  });
+
+  // 3. Aktuelle In-Progress-Form (während Zeichnen)
+  if (topoCurrentShape && topoCurrentShape.points.length > 0) {
+    const pts = topoCurrentShape.points;
+    if (topoCurrentShape.type === 'contour' || topoCurrentShape.type === 'formation') {
+      const d = 'M ' + pts.map(p => p[0]+','+p[1]).join(' L ') + (topoCurrentShape.type==='formation' ? ' Z' : '');
+      g.appendChild(el('path', {
+        d, fill: topoCurrentShape.type==='formation' ? 'rgba(184,134,11,0.15)' : 'none',
+        stroke: '#b8860b', 'stroke-width': '1.5',
+        'stroke-dasharray': '4,3', 'stroke-opacity': '0.9', style:'pointer-events:none'
+      }));
+    }
+    // Punkte markieren
+    pts.forEach(p => {
+      g.appendChild(el('circle', {cx:p[0], cy:p[1], r:2.5, fill:'#b8860b', stroke:'#0d1015', 'stroke-width':'1', style:'pointer-events:none'}));
+    });
+  }
+
+  // 4. Rohstoff-Marker — oberste Schicht
+  (topology.resources || []).forEach((r, i) => {
+    const sym = resourceSymbols[r.type] || resourceSymbols.eisen;
+    const rad = 4 + (r.richness || 1) * 0.8;
+    const rg = el('g', {
+      'data-topo-type': 'resource', 'data-topo-idx': i,
+      style: 'cursor:' + (topoTool==='erase' ? 'crosshair' : 'default')
+    });
+    rg.appendChild(el('circle', {cx:r.x, cy:r.y, r:rad, fill:'#1a1714', stroke:sym.color, 'stroke-width': (r.richness||1) * 0.6 + 0.6, 'stroke-opacity':'0.95'}));
+    const t = el('text', {x:r.x, y:r.y + 2.5, 'text-anchor':'middle', fill:sym.color, 'font-size': (r.richness >= 3 ? '7' : '6'), 'font-weight':'600', style:'pointer-events:none'});
+    t.textContent = sym.label;
+    rg.appendChild(t);
+    g.appendChild(rg);
+  });
+
+  svg.appendChild(g);
+}
+
 function updateSidebar() {
   // Bevölkerungsstatistik
   const stats = {};
@@ -612,6 +839,8 @@ function updateSidebar() {
   });
   document.getElementById('pop-stats').innerHTML = html;
 
+  updateTopoStats();
+
   // Ausgewählte Stadt
   if (selectedIdx < 0 || selectedIdx >= cities.length) {
     document.getElementById('no-sel').style.display = '';
@@ -627,19 +856,32 @@ function updateSidebar() {
   document.getElementById('city-size').textContent = `${sizeNames[c.size] || 'Klein'} (~${(sizePop[c.size]||0).toLocaleString('de-DE')} Einw.)`;
 }
 
+function updateTopoStats() {
+  const stats = document.getElementById('topo-stats');
+  if (!stats) return;
+  const c = topology.contours.length;
+  const f = topology.formations.length;
+  const r = topology.resources.length;
+  stats.innerHTML = `${c} Höhenlinien · ${f} Formationen · ${r} Rohstoffe`;
+}
+
 function setFaction(f) {
+  if (locked) return toastLocked();
   if (selectedIdx >= 0) { cities[selectedIdx].faction = f; render(); }
 }
 
 function setSize(s) {
+  if (locked) return toastLocked();
   if (selectedIdx >= 0) { cities[selectedIdx].size = s; render(); }
 }
 
 function updateName(v) {
+  if (locked) return toastLocked();
   if (selectedIdx >= 0) { cities[selectedIdx].name = v || null; render(); }
 }
 
 function addCity() {
+  if (locked) return toastLocked();
   cities.push({x:800,y:500,name:"Neue Stadt",size:1,faction:"frei"});
   selectedIdx = cities.length - 1;
   render();
@@ -647,7 +889,171 @@ function addCity() {
 }
 
 function deleteCity() {
+  if (locked) return toastLocked();
   if (selectedIdx >= 0) { cities.splice(selectedIdx, 1); selectedIdx = -1; render(); toast('Stadt gelöscht'); }
+}
+
+function toastLocked() {
+  toast('Karte ist gesperrt — oben rechts entsperren');
+}
+
+function toggleLock() {
+  if (locked) {
+    if (!confirm('Karte jetzt bearbeiten? Änderungen werden automatisch gespeichert.')) return;
+    locked = false;
+  } else {
+    locked = true;
+    cancelTopoShape();
+    topoTool = null;
+    updateTopoToolUI();
+  }
+  updateLockUI();
+  render();
+}
+
+function updateLockUI() {
+  const btn = document.getElementById('lock-btn');
+  if (locked) {
+    btn.textContent = '🔒 Gesperrt';
+    btn.className = 'locked';
+    document.body.classList.add('locked-ui');
+  } else {
+    btn.textContent = '🔓 Entsperrt';
+    btn.className = 'unlocked';
+    document.body.classList.remove('locked-ui');
+  }
+}
+
+function setTopoTool(tool) {
+  if (locked) return toastLocked();
+  // Toggle: gleiches Tool nochmal → abschalten
+  if (topoTool === tool) {
+    cancelTopoShape();
+    topoTool = null;
+  } else {
+    cancelTopoShape();
+    topoTool = tool;
+  }
+  updateTopoToolUI();
+  render();
+}
+
+function updateTopoToolUI() {
+  ['contour','formation','resource','erase'].forEach(t => {
+    const b = document.getElementById('topo-tool-' + t);
+    const opts = document.getElementById('topo-opts-' + t);
+    if (topoTool === t) { b.classList.add('active'); opts.style.display = ''; }
+    else { b.classList.remove('active'); opts.style.display = 'none'; }
+  });
+}
+
+function setTopoRichness(r) {
+  topoRichness = r;
+  document.querySelectorAll('[data-richness]').forEach(b => {
+    b.classList.toggle('active', parseInt(b.dataset.richness) === r);
+  });
+}
+
+function cancelTopoShape() {
+  topoCurrentShape = null;
+}
+
+function commitTopoShape() {
+  if (!topoCurrentShape) return;
+  const s = topoCurrentShape;
+  if (s.type === 'contour' && s.points.length >= 2) {
+    const elev = parseInt(document.getElementById('topo-elevation').value) || 100;
+    topology.contours.push({ elevation: elev, points: s.points.slice(), closed: false });
+    toast('Höhenlinie ' + elev + 'm gespeichert (' + s.points.length + ' Punkte)');
+  } else if (s.type === 'formation' && s.points.length >= 3) {
+    const type = document.getElementById('topo-formation-type').value;
+    const label = document.getElementById('topo-formation-label').value.trim() || null;
+    topology.formations.push({ type, polygon: s.points.slice(), label });
+    toast('Formation (' + type + ') gespeichert');
+    document.getElementById('topo-formation-label').value = '';
+  }
+  topoCurrentShape = null;
+  render();
+}
+
+function handleTopoClick(p, shiftKey) {
+  if (!topoTool) return false;
+
+  if (topoTool === 'erase') {
+    // Finde nächstgelegenes Topologie-Element
+    const hit = findTopoElementAt(p.x, p.y);
+    if (hit) {
+      topology[hit.key].splice(hit.idx, 1);
+      toast(hit.label + ' gelöscht');
+      render();
+    }
+    return true;
+  }
+
+  if (topoTool === 'resource') {
+    const type = document.getElementById('topo-resource-type').value;
+    topology.resources.push({ type, x: p.x, y: p.y, richness: topoRichness });
+    render();
+    return true;
+  }
+
+  if (topoTool === 'contour' || topoTool === 'formation') {
+    if (!topoCurrentShape) topoCurrentShape = { type: topoTool, points: [] };
+    topoCurrentShape.points.push([p.x, p.y]);
+    render();
+    return true;
+  }
+
+  return false;
+}
+
+function findTopoElementAt(x, y) {
+  // Rohstoffe zuerst (obere Schicht)
+  for (let i = topology.resources.length - 1; i >= 0; i--) {
+    const r = topology.resources[i];
+    const rad = 4 + (r.richness || 1) * 0.8;
+    if (Math.hypot(r.x - x, r.y - y) < rad + 3) {
+      return { key: 'resources', idx: i, label: 'Rohstoff' };
+    }
+  }
+  // Höhenlinien (Polyline-Trefferabstand)
+  for (let i = topology.contours.length - 1; i >= 0; i--) {
+    const c = topology.contours[i];
+    for (let j = 0; j < c.points.length - 1; j++) {
+      if (pointSegmentDist(x, y, c.points[j], c.points[j+1]) < 5) {
+        return { key: 'contours', idx: i, label: 'Höhenlinie ' + c.elevation + 'm' };
+      }
+    }
+  }
+  // Formationen (Point-in-Polygon)
+  for (let i = topology.formations.length - 1; i >= 0; i--) {
+    const f = topology.formations[i];
+    if (pointInPolygon(x, y, f.polygon)) {
+      return { key: 'formations', idx: i, label: 'Formation ' + f.type };
+    }
+  }
+  return null;
+}
+
+function pointSegmentDist(px, py, a, b) {
+  const dx = b[0]-a[0], dy = b[1]-a[1];
+  const len2 = dx*dx + dy*dy;
+  if (len2 === 0) return Math.hypot(px-a[0], py-a[1]);
+  let t = ((px-a[0])*dx + (py-a[1])*dy) / len2;
+  t = Math.max(0, Math.min(1, t));
+  return Math.hypot(px - (a[0]+t*dx), py - (a[1]+t*dy));
+}
+
+function pointInPolygon(px, py, poly) {
+  let inside = false;
+  for (let i = 0, j = poly.length - 1; i < poly.length; j = i++) {
+    const xi = poly[i][0], yi = poly[i][1];
+    const xj = poly[j][0], yj = poly[j][1];
+    if ((yi > py) !== (yj > py) && px < (xj - xi) * (py - yi) / (yj - yi) + xi) {
+      inside = !inside;
+    }
+  }
+  return inside;
 }
 
 function exportData() {
@@ -662,6 +1068,12 @@ function setView(mode) {
   viewMode = mode;
   document.querySelectorAll('.view-btn').forEach(b => b.classList.remove('active'));
   document.getElementById('btn-' + mode).classList.add('active');
+  document.body.classList.toggle('view-topology', mode === 'topology');
+  if (mode !== 'topology') {
+    cancelTopoShape();
+    topoTool = null;
+    updateTopoToolUI();
+  }
   render();
 }
 
@@ -677,11 +1089,19 @@ const mc = document.getElementById('map-container');
 mc.addEventListener('mousedown', e => {
   const p = svgPoint(e.clientX, e.clientY);
 
+  // Pan (Rechtsklick) immer erlaubt
   if (e.button === 2) { isPanning = true; panStart = {x:e.clientX,y:e.clientY}; e.preventDefault(); return; }
+
+  // Topologie-Tools (nur unlocked + topology view)
+  if (!locked && viewMode === 'topology' && topoTool) {
+    if (handleTopoClick(p, e.shiftKey)) return;
+  }
 
   // Portal check first
   if (Math.hypot(portal.x - p.x, portal.y - p.y) < 15) {
-    draggingPortal = true;
+    if (!locked) {
+      draggingPortal = true;
+    }
     selectedIdx = -1;
     render();
     return;
@@ -697,7 +1117,11 @@ mc.addEventListener('mousedown', e => {
     cities.forEach((c,i) => { const d = Math.hypot(c.x-p.x,c.y-p.y); if(d<minD){minD=d;minI=i;} });
   }
 
-  if (minI >= 0) { selectedIdx = minI; dragging = minI; render(); }
+  if (minI >= 0) {
+    selectedIdx = minI;
+    if (!locked) dragging = minI;
+    render();
+  }
   else { selectedIdx = -1; render(); }
 });
 
@@ -736,6 +1160,13 @@ mc.addEventListener('mouseleave', () => { dragging = -1; draggingPortal = false;
 mc.addEventListener('contextmenu', e => e.preventDefault());
 
 mc.addEventListener('dblclick', e => {
+  if (locked) return toastLocked();
+  // Im Topologie-Modus: Doppelklick beendet aktuelle Linie/Polygon
+  if (viewMode === 'topology' && topoCurrentShape) {
+    commitTopoShape();
+    return;
+  }
+  if (viewMode === 'topology') return; // Im Topo-Modus keine Stadt per Doppelklick
   const p = svgPoint(e.clientX, e.clientY);
   if (!pointInContinent(p.x, p.y)) { toast('Außerhalb der Landmasse!'); return; }
   const cp = constrainPosition(p.x, p.y, -1);
@@ -759,7 +1190,16 @@ mc.addEventListener('wheel', e => {
 
 // Keyboard
 document.addEventListener('keydown', e => {
-  if (e.target.tagName === 'INPUT') return;
+  if (e.target.tagName === 'INPUT' || e.target.tagName === 'SELECT') return;
+
+  // Topologie-Shortcuts (auch bei aktivem Zeichnen)
+  if (viewMode === 'topology' && !locked) {
+    if (e.key === 'Enter' && topoCurrentShape) { commitTopoShape(); return; }
+    if (e.key === 'Escape' && topoCurrentShape) { cancelTopoShape(); render(); return; }
+  }
+
+  if (locked) return; // Alle weiteren Shortcuts deaktiviert im Lock
+
   if (e.key === 'Delete' || e.key === 'Backspace') deleteCity();
   if (e.key === '1') setFaction('orath');
   if (e.key === '2') setFaction('thar');
@@ -771,13 +1211,15 @@ document.addEventListener('keydown', e => {
 // Permanente Datei-Speicherung via Server
 let saveTimer = null;
 function save() {
+  // Nur speichern wenn entsperrt und Initialladen abgeschlossen
+  if (locked || !initialLoadComplete) return;
   // Debounce: speichere max alle 500ms
   if (saveTimer) clearTimeout(saveTimer);
   saveTimer = setTimeout(() => {
     fetch('/data', {
       method: 'POST',
       headers: {'Content-Type': 'application/json'},
-      body: JSON.stringify({ cities, portal, coast })
+      body: JSON.stringify({ cities, portal, coast, topology })
     }).then(r => r.json()).then(d => {
       // Leise gespeichert
     }).catch(e => {
@@ -797,6 +1239,12 @@ async function loadFromServer() {
       console.log(`${cities.length} Städte vom Server geladen`);
     } else {
       console.log('Initiale Daten, speichere eingebaute Defaults...');
+    }
+    if (data.topology) {
+      topology.contours = data.topology.contours || [];
+      topology.formations = data.topology.formations || [];
+      topology.resources = data.topology.resources || [];
+      console.log(`Topologie: ${topology.contours.length} Höhenlinien, ${topology.formations.length} Formationen, ${topology.resources.length} Rohstoffe`);
     }
   } catch(e) {
     console.log('Server nicht erreichbar, nutze eingebaute Daten');
@@ -829,8 +1277,10 @@ cities.forEach((c, i) => {
 });
 if (fixed > 0) console.log(`${fixed} Städte in Landmasse verschoben`);
 
+updateLockUI();
 render();
 updateScale();
+initialLoadComplete = true;
 
 }); // end loadFromServer().then()
 </script>

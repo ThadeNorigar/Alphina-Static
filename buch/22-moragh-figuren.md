@@ -74,7 +74,7 @@
 
 **Fähigkeiten:** Spezialist. **Stein 6** (alte Orather Stadtmauern repariert, Grabsteine gestaltet). Budget 6.
 
-**Aussehen:** Groß, breit, schiefer Rücken von zehntausend Arbeitsstunden in Stein-Formung — die Resonanz ist mühelos, aber die Haltung über Stunden hinein in den Fels ist körperlich. Narbe unter dem Ohr. Braunes, zum kurzen Zopf gebundenes Haar. Kleidung grau, grob, Steinstaub in den Falten, den er nicht mehr herausbekommt.
+**Aussehen:** Groß, breit, schiefer Rücken von zehntausend Arbeitsstunden in Stein-Formung — die Magie ist mühelos, aber die Haltung über Stunden hinein in den Fels ist körperlich. Narbe unter dem Ohr. Braunes, zum kurzen Zopf gebundenes Haar. Kleidung grau, grob, Steinstaub in den Falten, den er nicht mehr herausbekommt.
 
 **Motivation:** Die Halle zwingen, die Wahrheit über Quellen-Überladung zu sagen. Er hat einen Bruder verloren, der zur Überladung abgeordnet wurde und "auf Einsatz" starb.
 
