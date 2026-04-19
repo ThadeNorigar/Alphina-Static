@@ -95,14 +95,14 @@ Zeitraum: ca. 30 Tage Moragh, ca. 33 TZ-Jahre Thalassien.
 | Dritte Quellen-Reparatur (Dulrath-Ost) — „Reparaturen" verblassen schnell | Torash Woche 4 | 2028 |
 | Welkende Bäume in Alphinas Schlaf-Hain | Ashral Woche 1 | 2037 |
 
-### Akt II — „Scheitern und Antwort" (K51–K60 + I8/I10)
+### Akt II — „Scheitern und Antwort" (K51–K60 + I8/I13)
 **Moragh Monat 6,5–7,5 | Thalassien 2037–2070 TZ**
 
 | Event | Moragh-Datum | Thalassien-Zeit |
 |---|---|---|
 | Erste Expedition kooperiert nicht, Eskalation bei Thar | Ashral Woche 2 | 2037 |
 | Varen entdeckt Moragh-Sprachbuch-Ritual (vier Thalassier, Opfer) | Ashral Woche 2 | 2037 |
-| **I10:** Tyra Halvard + Team vor Aufbruch (Rückblick-Interludium) | (Rückblick) | **2019** |
+| **I13:** Tyra Halvard + Team vor Aufbruch (Rückblick-Interludium) | (Rückblick) | **2019** |
 | Erste Expedition scheitert blutig (11 tot, 2 verschwunden, 1 flieht = Tyra) | Ashral Woche 3 | 2037 |
 | Varen manipuliert Orath-Älteste Kelmaris Verask zur Vergeltungs-Beschwörung | Ashral Woche 3 | 2037 |
 | **Verwüster-Angriff durchs Portal auf Vael** — Varen öffnet, Orath ruft | Ashral Woche 4 | 2037 |
@@ -116,20 +116,20 @@ Zeitraum: ca. 30 Tage Moragh, ca. 33 TZ-Jahre Thalassien.
 | Alphina verdächtigt Talven (Varen pflanzt drei gefälschte Beweise) | Keldath Woche 4 | 2070 |
 | Vesper findet erstes Velmar-Dokument in Thar-Bibliothek | Keldath Woche 4 | 2070 |
 
-### Akt III — „Die Invasion" (K61–K70 + I9/I11)
+### Akt III — „Die Invasion" (K61–K70 + I9/I14)
 **Moragh Monat 7,5–9 | Thalassien 2070–2120 TZ**
 
 | Event | Moragh-Datum | Thalassien-Zeit |
 |---|---|---|
 | Vesper entschlüsselt Varens Ritual-Kalkül (vier Thalassier als Opfer) | Reshvan Woche 1 | 2078 |
-| **I9:** Institut-Wandel in Vael. Junge Merle Halvard (15) + junger Arne Rust (25) treffen sich | (parallel) | **2080** |
+| **I9:** Institut-Wandel in Vael. Junge Syra Halvard (15) + junger Kelvar Velkan (25) treffen sich | (parallel) | **2080** |
 | Vesper reist nach Torkal, bringt Alphina die Wahrheit — sie glaubt nicht | Reshvan Woche 1 | 2078 |
 | Alphina findet das Ritual-Dokument selbst in Varens Quartier | Reshvan Woche 2 | 2087 |
 | Alphina liest Maren-Brief (via Elkes Hinweis) — zweite Erkenntnis | Reshvan Woche 2 | 2087 |
 | **Alphina verlässt Varen** ohne Drama | Reshvan Woche 2 | 2087 |
 | Runa-Überlauf aus Bund: Drael-Dokumente sprengen ihre letzten Zweifel | Reshvan Woche 3 | 2095 |
 | Tyra Halvard erreicht Alphinas Gruppe, bringt Nachrichten | Reshvan Woche 3 | 2095 |
-| **I11:** Halvard + Rust planen Expedition 2. Resonanz-Modulator im Test | (parallel) | **2110** |
+| **I14:** Halvard + Velkan planen Expedition 2. Resonanz-Modulator im Test | (parallel) | **2110** |
 | Wiederbegegnung Alphina–Runa: Alphina weint, Runa verzeiht | Reshvan Woche 4 | 2103 |
 | Nyr verlässt Thar (Entfremdung, Zivilisten-als-Schild) | Reshvan Woche 4 | 2103 |
 | **Alphina tötet Talven** (zu Unrecht, gefälschte Beweise wirken) | Dravon Woche 1 | 2112 |
@@ -138,12 +138,12 @@ Zeitraum: ca. 30 Tage Moragh, ca. 33 TZ-Jahre Thalassien.
 | Notbündnis Orath + Thar — Drael + Thar-Kommandantin treffen sich persönlich | Dravon Woche 3 | 2120 |
 | Vesper wird Stratege des Bündnisses | Dravon Woche 4 | 2120 |
 
-### Akt IV — „Portal und Duell" (K71–K80 + I12/I15 + Epilog)
+### Akt IV — „Portal und Duell" (K71–K80 + I16/I15 + Epilog)
 **Moragh Monat 9–10 | Thalassien 2120–2153 TZ**
 
 | Event | Moragh-Datum | Thalassien-Zeit |
 |---|---|---|
-| **I12:** Expedition-2-Aufbruch in Vael. Portal von Thalassien-Seite aufgestoßen | (Rückblende zum Start) | **2120** |
+| **I16:** Expedition-2-Aufbruch in Vael. Portal von Thalassien-Seite aufgestoßen | (Rückblende zum Start) | **2120** |
 | Varen versammelt seinen Zirkel (20–30 Anhänger) | Gormath Woche 1 | 2128 |
 | Varen schickt Einladung an die Gruppe — Duell-Ort festgelegt | Gormath Woche 1 | 2128 |
 | Schlacht beginnt: Bündnis vs. Expedition vor Dulrath-Ost-Umland | Gormath Woche 2 | 2136 |
@@ -177,14 +177,14 @@ Zeitraum: ca. 30 Tage Moragh, ca. 33 TZ-Jahre Thalassien.
 | 1987 | Maren tritt durchs Portal in Thalassien ein | (B2-K38) |
 | 1990 | Maren gründet Schwellenforschungsgesellschaft in Vael | **I7** |
 | 1990–2019 | Gesellschaft wächst zu staatlich finanziertem Institut | (off-screen) |
-| 2019 | Expedition 1 vor Aufbruch. Tyra Halvard + Team | **I10** |
+| 2019 | Expedition 1 vor Aufbruch. Tyra Halvard + Team | **I13** |
 | 2020 | Expedition 1 Ankunft in Moragh | (Akt I) |
 | 2037 | Verwüster-Angriff auf Vael. Maren stirbt im Angesicht. *„Ich habe sie hergeschickt."* | **I8** |
 | 2037–2080 | Institut wandelt sich. Eroberungs-Doktrin nach Maren | (off-screen) |
-| 2080 | Junge Merle Halvard (15) + junger Arne Rust (25) lernen sich kennen | **I9** |
+| 2080 | Junge Syra Halvard (15) + junger Kelvar Velkan (25) lernen sich kennen | **I9** |
 | 2080–2110 | Biotech-Bodymod-Militär, Resonanz-Modulator-Entwicklung | (off-screen) |
-| 2110 | Halvard + Rust diskutieren Plan der Expedition 2 | **I11** |
-| 2120 | Expedition 2 bricht auf. 2500 Soldaten durchs Portal | **I12** |
+| 2110 | Halvard + Velkan diskutieren Plan der Expedition 2 | **I14** |
+| 2120 | Expedition 2 bricht auf. 2500 Soldaten durchs Portal | **I16** |
 | 2153+ | Thalassien nach Portal-Schließung. Farn still. | **I15** |
 
 ---

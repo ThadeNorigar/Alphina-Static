@@ -16,7 +16,7 @@
 
 **Fähigkeiten:** Kein Bürger-Talent-System — Schemen. Als solcher: **Licht-Emission** (unterdrückbar), **Mimikri** (kleine Spezial-Fähigkeit, Irenna gab sie bei der Beschwörung mit — er kann Augenfarbe und Stimmhöhe anpassen, keine ganze Gesichtsmaske). Physische Stärke eines trainierten Menschen, Ausdauer länger.
 
-**Sprache:** Kalm **spricht** — tief, leicht gehauchte Sibilanten. Das ist keine Selbstverständlichkeit: Sprechen ist Schall-Magie, die der Beschwörer mitgeben muss. Irenna Torven hat selbst **kein Schall-Talent**. Beim Beschwörungs-Ritual vor 23 Jahren war ein Schall-Mitspender anwesend — **wer, ist offen** (muss bei Einbau geklärt werden; narrative Optionen: eine Vorfahrin aus Haus Halde, Irennas verstorbene Partnerin, oder eine Kurtisan-Beraterin früherer Generation).
+**Sprache:** Kalm **spricht** — tief, leicht gehauchte Sibilanten. Das ist keine Selbstverständlichkeit: Sprechen ist Schall-Magie, die der Beschwörer mitgeben muss. Irenna Torven hat selbst **kein Schall-Talent**. Beim Beschwörungs-Ritual vor 23 Jahren war **Irennas verstorbene Partnerin** anwesend — sie hatte Schall 3 und gab Kalm die Stimme mit. Dass diese Stimme heute noch spricht, obwohl die Spenderin lange tot ist, ist eine der stillen Härten von Irennas Leben — wenn Kalm lacht, lacht ein Echo einer Frau, die seit über zwei Jahrzehnten nicht mehr atmet. Irenna hat nie darüber gesprochen, ob der Stimmklang absichtlich so geformt wurde.
 
 **Aussehen:** Schlank, blass, fast haarlos. Augen violett, manchmal unmerklich zu Irennas Augenfarbe driftend, wenn er neben ihr steht. Trägt dunkle, lose Flachs-Kleidung, barfuß im Haus, Pflanzenfaser-Sandalen draußen. Innerhalb seiner Masse über die Jahre nach Irennas Geschmack geformt.
 

@@ -97,6 +97,12 @@ Was tatsächlich geschah: Die drei Quellen fehlten. Die verbleibenden reichten n
 
 **Also haben sie Varen verdeckt ausgestoßen.** Kein Urteil, kein Eintrag, kein öffentliches Wort. Ein Dutzend Binder der Elite wissen alles. Der Rest ahnt "da war etwas" und fragt nicht nach. Die Velmar-Bevölkerung weiß nichts. Die anderen Fraktionen wissen nichts.
 
+### Varens Familie — Vaeth, der tote Bruder
+
+Varen hatte einen älteren Bruder, **Vaeth**, der im Quellen-Kollaps MZ -5 starb — er war in Mar-Keth, als die Quelle kippte, und kam nicht rechtzeitig raus. Varens Schwester lebt, bindet Schemen, und hat sich nach Vaeths Tod einen **humanoiden Schemen mit Vaeths Gesicht** geformt (durch Mimikri beim Ritual) und ihn **Vaeth** genannt. Der Schemen dreht den Kopf, wenn sie ruft. Das ist in alten Rufer-Häusern eine bekannte, wenn auch umstrittene Trauer-Praxis — die "Ersatz-Bindung".
+
+**Für Varen ist das Gift.** Seine Schwester, die weiß, dass er Mar-Keth getötet hat, bindet Tag für Tag einen Schemen mit dem Gesicht des Bruders, den er mit auf dem Gewissen hat. Sie spricht nicht offen darüber. Varen besucht sie nicht. Wenn das Schema-Familien-Motiv in Buch 2 oder 3 auftaucht, ist es der stärkste emotionale Hebel, den Alphina gegen Varen hat.
+
 **Der Cover-Up ist kollektive Schuld.** Velmar trägt Varens Last mit. Wenn die Wahrheit in Buch 2/3 aufbricht, trifft sie nicht nur Varen — sie trifft auch Velmar. Das ist eine Tschechow-Bombe für Buch 3.
 
 ---

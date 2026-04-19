@@ -53,7 +53,8 @@ zum Subplot dieses äußeren Drucks.
 
 ## 3. Akt-Architektur (grob)
 
-Gesamt 40 Kapitel (K41–K80) + 7 Interludien (I7–I12, I15) + Epilog.
+Gesamt 40 Kapitel (K41–K80) + 7 Interludien (I7, I8, I9, I13, I14, I15, I16) + Epilog.
+(B3-Interludien-Umnummerierung: I10→I13, I11→I14, I12→I16 wegen B2-Namens-Kollision.)
 
 ### Akt I — „Die Forscher" (K41–K50 + I7) ~56.000 W · Moragh Monat 5,5–6,5
 - Erste Expedition ankommen (15 Personen, reine Wissenschaft).
@@ -63,7 +64,7 @@ Gesamt 40 Kapitel (K41–K80) + 7 Interludien (I7–I12, I15) + Epilog.
 - Runa beim Bund in Halvaren.
 - Elke lebt (jung, erstes Jahr in Moragh, Garten einjährig).
 
-### Akt II — „Scheitern und Antwort" (K51–K60 + I8/I10) ~56.000 W · Monat 6,5–7,5
+### Akt II — „Scheitern und Antwort" (K51–K60 + I8/I13) ~56.000 W · Monat 6,5–7,5
 - Erste Expedition scheitert blutig (11 tot, 2 verschwinden, 2 fliehen).
 - Verwüster-Schemen durchs Portal zurück nach Vael — **von Orath-Rufern temporär beschworen**
   (keine Bindung — Bund-Doktrin verbietet das; es sind Ruf-Schemen, die nach 2–3 Tagen verschwinden).
@@ -86,9 +87,9 @@ Gesamt 40 Kapitel (K41–K80) + 7 Interludien (I7–I12, I15) + Epilog.
 - Talven-Radikalisierung: mehr Schemen-Binden + -Opfern. **Bindetechnik hat Varen ihm
   gezielt zugespielt** (Velmar-Handwerk, im Bund verboten). Talven weiß nicht,
   dass er benutzt wird.
-- I10 Iven-Einführung. I8 Elkes Tod.
+- I13 Tyra-Aufbruch (Thalassien ~2019). I8 Verwüster-Angriff + Marens Tod.
 
-### Akt III — „Die Invasion" (K61–K70 + I9/I11) ~60.000 W · Monat 7,5–9
+### Akt III — „Die Invasion" (K61–K70 + I9/I14) ~60.000 W · Monat 7,5–9
 - Zweite Expedition kommt durchs Portal: 2500 Soldaten + Drohnen + Bodymod-Truppen + Biotech.
   Portal 72 Stunden weit offen, Verstärker schmilzt danach.
 - Nachschub-Zwang: 3 Monate Vorräte. Sie müssen Moragh kolonisieren oder Portal neu öffnen.
@@ -107,9 +108,9 @@ Gesamt 40 Kapitel (K41–K80) + 7 Interludien (I7–I12, I15) + Epilog.
 - Runa-Überlauf aus dem Bund (Drael lügt über Expedition-Fakten).
 - Nyr verlässt die Thar.
 - Alle vier finden sich zum zweiten Mal (nach B1-K19) zusammen.
-- I11 Linguistin bringt Marens Tod + Briefe. I9 offen.
+- I14 Halvard + Rust planen Expedition 2 (Thalassien ~2110). I9 Institut-Wandel (Thalassien ~2080).
 
-### Akt IV — „Portal und Duell" (K71–K80 + I12/I15 + Epilog) ~53.000 W · Monat 9–10
+### Akt IV — „Portal und Duell" (K71–K80 + I16/I15 + Epilog) ~53.000 W · Monat 9–10
 - Schlacht gegen Expedition 2. Iven lahmt Elektronik (Drohnen, Kommunikation, Exoskelette).
 - **Varens Zirkel (20–30 handverlesene Anhänger):** kämpfen auf seiner Seite.
   15 sterben im Duell und Nebenkämpfen, ~8 überleben, verstecken sich (B4-Setup).
@@ -275,7 +276,7 @@ Gesamt 40 Kapitel (K41–K80) + 7 Interludien (I7–I12, I15) + Epilog.
 
 ### Iven
 - Moragh-geboren, ~17, Elektrizitäts-Resonanz.
-- Einführung in Akt II (I10).
+- Einführung in Akt II (normales Kapitel, kein Interludium — Iven ist Moragh-Figur und gehört in die Haupthandlung).
 - In Akt IV: magischer Störsender gegen Expeditions-Elektronik. Zahlt stark mit dem Körper, überlebt knapp.
 - Kein POV-Charakter.
 
@@ -295,15 +296,15 @@ Gesamt 40 Kapitel (K41–K80) + 7 Interludien (I7–I12, I15) + Epilog.
 - Wird in Varens Ritual-Plan als Ersatz-Vierte geführt (Maren tot), Ritual wird nicht vollzogen.
 
 ### Expeditionsleitung — zwei Personen
-**Institutsleiterin: Dr. Merle Halvard** (Tyras Ur-Großnichte, Seitenlinie)
+**Institutsleiterin: Dr. Syra Halvard** (Tyras Ur-Großnichte, Seitenlinie)
 - Geboren ~2065 TZ, in 2120 also ~55 Jahre alt.
-- Verwandtschaft: Tyras Schwester hatte ein Kind; Merle ist Urenkelin dieses Neffen/Nichte.
-  **Keine direkte Mutterfigur-Linie.** Tyra ist für Merle Institutslegende, nicht Familie.
+- Verwandtschaft: Tyras Schwester hatte ein Kind; Syra ist Urenkelin dieses Neffen/Nichte.
+  **Keine direkte Mutterfigur-Linie.** Tyra ist für Syra Institutslegende, nicht Familie.
 - Forscherin, Visionärin. Subtile Bodymods (Neural-Interface, Gedächtnis-Enhancer).
   Unternehmerisch, kalt, visionsgetrieben.
 - Kippt das Institut nach Marens Tod (2037) schrittweise auf Eroberungskurs.
 
-**Militärischer Expeditionsleiter: General Arne Rust**
+**Militärischer Expeditionsleiter: General Kelvar Velkan**
 - Ex-2090er-Kriegs-Kommandeur auf der Erde, sichtbare Bodymods
   (verstärkte Augen mit Zoom, Stahl-Kiefer, Reflex-Augmente sichtbar).
 - Mitte 60 in 2120 (geboren ~2055). Knappe Sprache.
@@ -314,11 +315,13 @@ Gesamt 40 Kapitel (K41–K80) + 7 Interludien (I7–I12, I15) + Epilog.
 
 ## 5. Neu-Mechanismen für Welt-Kanon
 
-### Fraktions-Magie-Verteilung (konsistent mit `20-moragh-talente-entwurf.md`)
+### Fraktions-Magie-Verteilung (konsistent mit `20-moragh-talente.md`)
 - **Orath / Bund:** Ruft Schemen (auch große, Verwüster-Klasse). **Bindet NICHT**
-  — gilt als Sklaverei, verboten. Ruf-Schemen halten 2–3 Tage, dann zurück in die Heimat-Ebene.
-- **Thar / Konglomerat:** **Weder rufen noch binden.** Magitech-Bestien aus Stahl + Quellen-Energie
-  (6 Typen: Lohe, Ramm, Zacker, Grund, Feger, Fluter).
+  — gilt als Sklaverei, verboten. Ruf-Schemen halten maximal 2–3 Stunden, dann zurück in die Heimat-Ebene.
+- **Thar / Konglomerat:** **Ruft selten, bindet nie.** Rufen erlaubt aber kulturell unüblich —
+  gelegentliche Haushaltshelfer, und große Angriffsschemen kurz vor dem Kampf
+  (Ritualbeschwörung mit mehreren Rufern). Dauerhafte Arbeit läuft über Magitech-Bestien
+  aus Stahl + Quellen-Energie (6 Grundtypen: Lohe, Ramm, Zacker, Grund, Feger, Fluter — siehe `18-thar-magitech.md`).
 - **Velmar:** Rufen + **Binden als Kulturkern**. Gebundene Schemen als Diener, Gespielen,
   Liebhaber normalisiert. Haus-Kultur (Haus Torven, Haus Varn, Haus Keth u.a.).
 - **Varen:** Velmar-Verstoßener. Druck/Gravitation + Zeit + Rufen + Binden.
@@ -357,7 +360,7 @@ Gesamt 40 Kapitel (K41–K80) + 7 Interludien (I7–I12, I15) + Epilog.
 - Kohärente elektromagnetische Frequenzmodulation dehnt die Anomalie messbar.
 - **Kein Purpurstein** — Quellenmaterial abgeschlagen verliert die Magie.
 - Hält 72 Stunden offen, schmilzt dann.
-- Entwickelt von Dr. Merle Halvard persönlich (ihr Ingenieurs-Meisterstück).
+- Entwickelt von Dr. Syra Halvard persönlich (ihr Ingenieurs-Meisterstück).
 
 ### Interludien-Plan — alle Thalassien/Vergangenheit
 Interludien erklären Perspektiven oder Geschehnisse in Thalassien / Vergangenheit.
@@ -367,11 +370,11 @@ Chronologisch aufsteigend, parallel zur Moragh-Haupthandlung:
 | # | Akt | Thalassien-Zeit | Inhalt |
 |---|---|---|---|
 | **I7** | Akt I | ~1990 TZ | Maren gründet die Schwellenforschungsgesellschaft. Drei Mitglieder, ein Raum. |
-| **I10** | Akt II früh | ~2019 TZ | Tyra Halvard + Team vor Aufbruch. Aufgeregt. Tyra verabschiedet ihre Schwester. Portal öffnet sich, sie tritt durch. |
+| **I13** | Akt II früh | ~2019 TZ | Tyra Halvard + Team vor Aufbruch. Aufgeregt. Tyra verabschiedet ihre Schwester. Portal öffnet sich, sie tritt durch. |
 | **I8** | Akt II spät | ~2037 TZ | Verwüster-Angriff auf Vael. **Marens Tod.** *„Ich habe sie hergeschickt."* |
-| **I9** | Akt III | ~2080 TZ | Institut-Wandel. Junge Merle Halvard (15) + junger Arne Rust (25) treffen sich erstmals. Doktrin kippt. |
-| **I11** | Akt III spät | ~2110 TZ | Halvard (50) + Rust (55) diskutieren Expedition 2. Resonanz-Modulator im Test. Sie wissen nicht, was drüben wartet. |
-| **I12** | Akt IV früh | ~2120 TZ | Expedition-2-Aufbruch. Portal von Thalassien-Seite aufgestoßen. 2500 treten durch. |
+| **I9** | Akt III | ~2080 TZ | Institut-Wandel. Junge Syra Halvard (15) + junger Kelvar Velkan (25) treffen sich erstmals. Doktrin kippt. |
+| **I14** | Akt III spät | ~2110 TZ | Halvard (50) + Velkan (55) diskutieren Expedition 2. Resonanz-Modulator im Test. Sie wissen nicht, was drüben wartet. |
+| **I16** | Akt IV früh | ~2120 TZ | Expedition-2-Aufbruch. Portal von Thalassien-Seite aufgestoßen. 2500 treten durch. |
 | **I15** | Akt IV spät | ~2153 TZ | Thalassien nach Portal-Schließung. Kind berührt Farn. Farn bewegt sich nicht. Keine Magie mehr. Letztes Thalassien-Bild. |
 
 ### Schemen-Reaktion auf Talven
@@ -425,7 +428,7 @@ Chronologisch aufsteigend, parallel zur Moragh-Haupthandlung:
   persönliche Macht, nicht Moragh-Schutz.
 - **Verwüster-Urheber:** Orath-Rufer (temporär, keine Bindung, Bund-Doktrin).
   Varen manipuliert Orath-Älteste + Drael und öffnet das Portal.
-  Thar beschwört keine Schemen.
+  Thar beschwört Schemen nur im Ausnahmefall (z.B. große Kampfschemen vor Einsätzen, nie gebunden).
 - **Reveal-Sequenz K77:** Kopfschüttel-Geste → *„Kleine naive Alphina."* →
   *„Du warst sauberer zu lesen als Sorel."* → *„Ich habe dich nie angesehen. Nur deinen Frequenzwert."*
   → *„Sie starb in der Küche."* → *„Garten."*

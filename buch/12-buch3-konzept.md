@@ -1,126 +1,135 @@
 # Buch 3 — Die Quelle — Konzept und Zeitrechnung
 
+**Status:** Revidiert nach Sessions 2026-04-18/19. Ältere Tech-Magie-Fusions-Konzepte gestrichen.
+**Verbindliche Quellen:** `B3-STAND.md`, `B3-ZEITLEISTE.md`, `00-storyline.md`, `19-varen.md`.
+
 ## Konsistente Zeitrechnung
 
-**Ratio:** 1 Moragh-Jahr = 400 Thalassien-Jahre. Stabil.
+**Ratio:** 1 Moragh-Jahr = 400 Thalassien-Jahre. Stabil. **Kein 270:1 — das war nie Kanon.**
 
-| Moragh-Zeit | Thalassien-Zeit | Tech-Level |
+| Moragh-Zeit | Thalassien-Zeit | Tech-Level in Thalassien |
 |---|---|---|
-| Buch 1 (Tage) | ~1820 | Gaslampen, Kutschen, Glasplatten |
-| Buch 2 (~4 Monate) | ~1950 | Elektrizität, Radio, Automobile |
-| Buch 3, Anfang (~8 Monate) | ~2100 | Fusion, KI, Biotech |
-| Buch 3, Ende (~12 Monate) | ~2250 | Quantencomputer, Drohnen, Neural-Interfaces |
+| B1 Start | 1820 TZ | Gaslampen, Kutschen, Glasplatten |
+| B2 Ende (Marens Durchgang nach 5 Moragh-Monaten) | **1987 TZ** | frühe Elektrizität, Radio, Automobile |
+| B3 Anfang (Monat 5,5) | ~2003 TZ | Radio ausgebaut, frühe Fliegerei |
+| B3 Akt I (Expedition 1 Ankunft, Monat 6) | **~2020 TZ** | Drohnen-Prototypen, frühe KI-Assistenten, Tragbare Computer |
+| B3 Akt II (Marens Tod, Monat 6,8) | **~2047 TZ** | Fusion, KI, frühes Biotech |
+| B3 Akt III (Expedition 2 Ankunft, Monat 9) | **~2120 TZ** | Bodymods, Exoskelette, militärische Biotech, Neural-Interfaces 3. Generation |
+| B3 Ende (Monat 10) | **~2153 TZ** | ausgereifte 2150er-Technologie — stockwerkshohe Killermaschinen im Finale |
 
-Die gesamte Trilogie auf Moragh-Seite = ~1 Jahr. Auf Thalassien-Seite = ~400 Jahre.
+**Zeit ist nicht rückdrehbar.** Wenn Maren durch das Portal zurückkehrt (B2-K38), ist Vael Jahrhunderte älter. Alle Nebencharaktere aus Buch 1 sind seit Generationen tot. Sorels Glasplatten sind in einem Museum. „Die Vier von Vael" ist eine Legende.
 
-**Zeit ist nicht rückdrehbar.** Wenn Maren durch das Portal zurückkehrt, ist Vael Jahrhunderte älter. Alle Nebencharaktere aus Buch 1 sind seit Generationen tot. Sorels Glasplatten sind in einem Museum. "Die Vier von Vael" ist eine Legende.
+## Thalassien-Magie — Ursprung
 
-## Thalassien in ~2250
+**Magie in Thalassien existiert nur, weil Varen das Portal ab MZ -3 bis -1 brachial aufgestoßen hat.** Seine Portal-Öffnungen rissen die Raumzeit auf; durch diese Risse sickerte Moragh-Magie nach Thalassien. Die Farne, die warmen Steine, Alphinas Pflanzen-Resonanz seit Kindheit, Sorels Lichtaffinität, Marens Wasser, Vespers Zeit, Runas Feuer — **alles Folge von Varens Handeln**.
 
-- **Schwellenforschungsinstitut:** Gegründet auf Marens Forschungsgesellschaft (~1910). Generationen später ein staatliches Institut. Der Steinkreis im Botanischen Garten ist kartiert, dokumentiert, gemessen.
-- **Resonanz als Forschungsgegenstand:** Bodentemperatur-Anomalien, Magnetfeld-Messungen. Theorien über "die andere Seite."
-- **Der botanische Garten:** Unter Denkmalschutz. Sensoren. Die Farne wachsen immer noch. Langsam. Ohne Erklärung.
-- **Vael 2250:** Glasfassaden, Drohnen, autonome Fahrzeuge. Hafen: Schiffe aus Verbundwerkstoffen. KI-Assistenten im Alltag.
-- **Maren:** Alt, Lebenswerk = das Institut. Hat die Expedition initiiert. Gestrandet seit ~300 Jahren Thalassien-Zeit.
+Ohne Varen keine Resonanz-Begabten in Thalassien. Die fünf existieren als magische Wesen nur, weil er sie unabsichtlich „erschaffen" hat.
+
+**Historische Siedler** (Moragh-Geborene, vor ~200 MZ-Jahren nach Thalassien geflohen) haben keine Risse erzeugt. Ihre Nachkommen verloren die Magie. Ohne Varens Rückrisse wäre Thalassien 1820 immer noch magielos gewesen.
+
+## Thalassien im B3-Zeitraum
+
+- **Schwellenforschungsgesellschaft:** von Maren ~1990 TZ gegründet, in Vael (Werft-Erbe). In vier Jahrzehnten zum staatlich finanzierten Institut gewachsen. Maren bleibt bis zu ihrem Tod 2037 TZ beteiligt.
+- **Institutswandel nach Marens Tod:** Ab 2047 kippt die Doktrin von Forschung zu Eroberung. Dr. Syra Halvard (Marens Ur-Großnichte, Seitenlinie) wird Leiterin. General Kelvar Velkan wird militärischer Kommandeur.
+- **Resonanz-Modulator:** Rein technische Erfindung der 2110er TZ. Basis: jahrzehntelange Sensor-Telemetrie am Steinkreis. Kein Purpurstein (Quellenmaterial verliert Magie beim Abschlagen). Kohärente elektromagnetische Frequenzmodulation dehnt die Raumzeit-Anomalie. Hält 72 Stunden offen, schmilzt dann.
 
 ## Die Kernfrage von Buch 3
 
-**Wie stoppt man eine Eskalation die sich selbst beschleunigt?**
+**Wie stoppt man eine Eskalation, die sich selbst beschleunigt — und einen Manipulator, der das Eskalations-Narrativ beherrscht?**
 
-Die Thar kontrollieren das Portal. Durch das Portal kommt Thalassien-Technologie. Jeder Moragh-Monat = 33 Thalassien-Jahre. Die Technologie wird mit jedem Durchgang fortgeschrittener. Die Thar werden mit jedem Durchgang mächtiger. Der Riss IST die Bedrohung.
+Zwei Bedrohungen gleichzeitig:
+1. **Extern:** Die Thalassien-Expedition. Erst Forschung (scheitert blutig), dann Eroberung (2500 Soldaten mit 2120er-Tech, später 2150er-Killermaschinen).
+2. **Intern:** Varen. Der über drei Bücher lang den Rettungshelden gespielt hat. In Wahrheit patriarchaler machtbesessener Egomane mit Grundmotiv Rache an Velmar + persönliche Macht.
+
+Der Leserin wird die zweite Bedrohung erst sehr spät (Akt IV) klar — Stephen-King-Slow-Reveal mit Helfersyndrom-Falle.
 
 ## Das Finale — Symmetrie der Quellen-Zerstörung
 
 | Wer | Was | Warum | Folge |
 |-----|-----|-------|-------|
-| Varen | 3 Quellen | Unfall (Experiment) | Krieg |
-| Alphina (B2) | 1 Quelle | Absichtlich, falsche Seite | Schuld |
-| Alphina (B3) | Riss-Quelle | Absichtlich, richtige Seite | Frieden |
+| Varen (MZ -1) | 3 Quellen (Mar-Keth, Dulrath-Ost, Reshkol) | Hybris-Experiment (Fassade: Unfall; Wahrheit: Egomane-Motiv im Hintergrund) | Krieg zwischen Bund und Thar |
+| Alphina (B2) | 1 Quelle (Halvara-Kel) | Absichtlich, falsche Seite | Schuld |
+| Alphina (B3) | Portal-Quelle (Steinplatz in Dravek) | Absichtlich, richtige Seite | Welten getrennt; Thalassien magielos; Frieden mit Narben + B4-Keim |
 
-**Dieselbe Handlung. Anderer Mensch.** Alphina hat bereits eine Quelle zerstört -- sie weiß was es kostet, was es bedeutet, wie sich der Boden anfühlt wenn er stirbt. Jetzt tut sie es wieder. Für die richtige Seite. Die Symmetrie schließt sich.
+**Dieselbe Handlung. Andere Motive. Andere Konsequenzen.** Alphina hat bereits eine Quelle zerstört — sie weiß, was es kostet, was es bedeutet, wie sich der Boden anfühlt, wenn er stirbt. Jetzt tut sie es wieder. Für die richtige Seite. Die Symmetrie schließt sich. **Ihre einzige Zerstörungs-Methode** (konsistent mit ihrer harten Grenze „nur aufbauen, nie zerstören"): Überladung mit Wachstums-Energie, bis die Quelle kollabiert.
 
-## Was die Riss-Quellen-Zerstörung kostet
+## Was die Portal-Quellen-Zerstörung kostet
 
-- **Thalassien verliert ALLE Magie.** Keine Resonanz mehr. Keine Farne die sich drehen. Halvards Bericht wird zur Legende. Der Steinkreis in Vael -- kalter Stein.
-- **Maren ist gestrandet. Für immer.** Ihr Lebenswerk (das Institut) wird sinnlos. Kein Portal mehr. Kein Forschungsgegenstand.
-- **Die Thar verlieren den Zugang zu Thalassien-Technologie.** Ihr Imperium stagniert. Die autonomen Bestien, die Schwarm-Schemen, die Quellen-Siphons -- alles braucht thalassische Technologie-Nachlieferungen.
-- **Alphina wählt Moragh. Für immer.** Kein Zurück. Kein Vael. Keine Grauwe. Sie bleibt bei Varen. Eine Wahl, kein Opfer.
-- **Die Thalassien-Expedition in Moragh** muss vorher zurück -- oder ist gestrandet.
+- **Thalassien verliert ALLE Magie, permanent.** Keine Resonanz mehr. Keine Farne, die sich drehen. Halvards Bericht wird Legende. Der Steinkreis in Vael — kalter Stein.
+- **Maren ist seit Jahrzehnten tot** (seit 2037 TZ). Ihr Lebenswerk wurde schon Jahre vor dem Finale zur Kriegsmaschine umgebaut.
+- **Die zweite Expedition** sitzt mit ~1500 Überlebenden in Dravek fest. Nach Portal-Schluss brechen sie nach Südosten in die toten Zonen aus (Mar-Keth, Dulrath-Ost, Reshkol). Keimzelle einer anti-magischen Fraktion. B4-Setup.
+- **Alphina wählt Vesper und Klarheit** (nicht Varen und Moragh, wie das alte Konzept sagte). Varen stirbt im Duell.
 
-## Alphina LEBT. Varen LEBT.
+## Alphina LEBT. Varen STIRBT.
 
-Kein Opfertod. Kein tragisches Ende. Eine Wahl. Alphina entscheidet sich für Varen und Moragh. Sie zerstört die Riss-Quelle -- dieselbe Handlung die den Krieg begonnen hat, dieselbe Handlung die sie schuldig gemacht hat -- und diesmal ist es richtig. Danach lebt sie. Im Garten. Mit Dornen. Sein Blick der nicht fragt.
+Tragisches Ende mit Schuld + Heilung. Varen wird zur Schlüsselfigur der Lüge, die Alphina durch drei Bücher getragen hat — sein Tod ist ihre Befreiung. Die Schuld an Elke (vom Schemen in Varens Auftrag getötet) und an Talven (von Alphina zu Unrecht als Mörder getötet) trägt sie weiter. Narben bleiben: drei Finger links bis zum Mittelglied, Vespers linker Unterarm, Runa mit Brandnarben aus der Schlacht, Nyr ohne Kessler.
 
-## Tech-Magie-Kombinationen (ALLE acht)
+## Was es in B3 **nicht** gibt (gestrichen aus altem Konzept)
 
-Was passiert wenn eine autoritäre Magie-Industrie-Fraktion Zugang zu 2250er-Technologie bekommt:
+- **Keine Tech-Magie-Fusion.** Moragh adoptiert Thalassien-Technik nicht. Thar bleibt wie in B2 — Magitech-Bestien mit Reiter-Pilotierung, keine KI.
+- **Keine autonomen Bestien.** Kein „Kessler ohne Nyr". Magitech braucht zwingend einen Reiter.
+- **Keine Schwarm-Schemen mit KI-Steuerung.** Schemen und KI werden nicht kombiniert.
+- **Keine Quellen-Siphon-Drohnen.** Keine ferngesteuerte Quellen-Zerstörung.
+- **Keine Neural-Interface-Helme als Moragh-Waffen.** Kein „Magie für alle".
+- **Keine Biotech-Schemen.** Schemen bleiben wie sie sind.
+- **Keine Ley-Linien + Glasfaser.** Die Thar hat kein zentrales Nervensystem.
+- **Keine Thar-Fluggeräte in B3.** Fluggeräte gehören den Expedition-Überlebenden, erst im Epilog/B4.
 
-### 1. Autonome Magitech-Bestien
-Bisher: ein Pilot, ein Reservoir, 6-8 Stunden. Mit KI: selbstpilotierende Bestien. Kein Mensch im Cockpit. Endlose Armeen. Tag und Nacht. Kessler ohne Nyr -- das Alptraum-Bild für sie.
+## Figurenbogen Buch 3 — verbindliche Kurzfassung
 
-### 2. Schwarm-Schemen (Drohnen-Logik)
-Tausende Mikro-Schemen, koordiniert durch eine KI. Schwarm-Intelligenz. Fließen durch Ritzen, über Mauern, durch Wasser. Finden jedes Versteck. Die KI entscheidet wer Feind ist. Nicht der Beschwörer.
+### Alphina
+Quellen-Reparatur mit Varen als Fassade (Akt I–II), Ritual-Dokument-Fund (Akt III), Verlassen Varens ohne Drama (Akt III), Talven-Tötung (zu Unrecht), Duell vs. Varen (Akt IV), Todesstoß, Finale-Verzweiflungsangriff zur Portal-Quelle, Solo-Überladung mit Wachstum. Sub-Phase mit Vesper nach dem Duell. Drei Finger linke Hand verloren bis zum Mittelglied.
 
-### 3. Quellen-Siphon aus der Luft
-Drohnen die Reservoir-Quellen scannen -- Frequenz, Tiefe, Kapazität. Den gesamten Planeten kartieren. Dann: gezielte Überladung aus der Distanz. Ferngesteuerte Quellen-Zerstörung. Automatisiert.
+### Varen (Antagonist)
+Inszeniert sich als empathischer Helfer mit Anreden „Liebe/Verehrte/Meine Alphina". Quellen-„Reparatur" ist Hoffnungs-Betrug (Puls kehrt kurz zurück, stirbt wieder; energetische Unmöglichkeit verschwiegen; Anker-Transfer als echter Zweck). Ritual-Plan: vier Thalassier-Resonanzen absorbieren und Portal monopolisieren. Reveal-Sequenz in K77: Kopfschüttel → „Kleine naive Alphina" → „Du warst sauberer zu lesen als Sorel" → „Ich habe dich nie angesehen. Nur deinen Frequenzwert" → „Sie starb in der Küche" (Elke-Verrat) → „Garten." (letztes Wort).
 
-### 4. Resonanz-Spiegel / Neural-Interface
-Ein Helm. Neurotech + Moragh-Kristalle. Jemand OHNE Reservoir kann Magie wirken -- der Helm übersetzt Hirnmuster in Resonanz-Impulse. Magie für alle. Ohne Körperpreis. Aber: macht abhängig. Die Thar kontrollieren die Helme.
+### Vesper
+Erkennt Expedition-Bedrohung früh. Stratege des Orath-Thar-Notbündnisses. Findet das Ritual-Kalkül, bringt es Alphina. Verliert linken Unterarm im Duell (Amputation unterhalb des Ellbogens, Gelenk erhalten). Dom mit Alphina nach dem Duell (BDSM-Dynamik, reflektiert, verzeihend — Kontrast zu Varens inszenierter Dominanz).
 
-### 5. Temporale Taktik-KI
-Vespers Muster/Zeit-Resonanz + Quanten-KI. Sieht Muster in der Zeit, beschleunigt. Militärische Omniszienz -- den Feind 3-5 Minuten vor seinem eigenen Entschluss kennen. Deswegen will die Thar Vesper behalten.
+### Maren
+Stirbt 2037 TZ in Vael beim Verwüster-Angriff, den Varen orchestriert hat. *„Ich habe sie hergeschickt."* Erscheint in B3 nicht persönlich in Moragh.
 
-### 6. Biotech-Schemen
-Schemen fused mit synthetischer Biologie. Normalerweise: Schem verschwindet wenn Beschwörer stirbt. Mit Biotech-Rückgrat: persistent. Selbsterhaltend. Unabhängig vom Beschwörer. Armee die nie aufhört zu existieren.
+### Runa
+Bleibt beim Bund in Halvaren bis Akt III. Alphina versucht sie in Akt II zu überzeugen — Runa lehnt in drei Sätzen ab. Läuft in Akt III in freie Stadt über, als Drael über Expedition-Gefährdung lügt. Kämpft in Akt IV neben Nyr gegen Expedition (Feuer-Resonanz + Metall-Erfahrung). Endet mit Nyr in Halvek-Mar.
 
-### 7. Ley-Linien + Glasfaser
-Thar-Ley-Linien-Netzwerk + Thalassien-Datenübertragung = planetweites Energie- und Kommunikationsnetz. Zentrale Kontrolle über alle Quellen, alle Bestien, alle Schemen. Ein Imperium mit einem Nervensystem.
+### Nyr
+Verlässt Thar spät in Akt III (Zivilisten-als-Schild-Befehle). Friedliche Auflösung mit Vesper. Nimmt Kessler mit (Reiter-Bindung absolut), repariert ihn unterwegs mit Runas Feuer. Endet mit Runa in Halvek-Mar. Kessler als zivile Arbeitsbestie im Hafen.
 
-### 8. Planeten-Karte
-Moragh hat nie den Rand des Plateaus verlassen können (60m Tidenhub = kein Schiff). Thalassien-Drohnen fliegen über den Ozean. Zum ERSTEN MAL sehen Moragh-Menschen was jenseits des Meeres liegt.
+### Elke
+Jung (Anfang 30), ~1 Moragh-Jahr in Moragh. Garten einjährig. Stirbt in Akt II — ermordet durch aufgeladenen Schemen in Varens Auftrag. Alphina verdächtigt Talven fälschlich.
 
-## Figurenbogen Buch 3
+### Talven
+Bund-Rufer. Verteilt in Akt I Resonanz, wird Held. In Akt II Blutmagie + Schemen-Binden (Varen spielt ihm die Bindetechnik zu). Keine milchigen Augen, keine Resonanz-Ernte. Nur Narben, die er sich selbst zufügt + kalte Hände (Spiegel-Symbol). Stirbt in Akt III durch Alphina (Fehlurteil).
 
-### Alphina + Varen — Die Quellen-Reparatur
-Alphina bei Varen. Monate vergangen. Sie reparieren Quellen -- azyklische Resonanz als Herzschrittmacher, sein Wissen als Architektur. Gegen den Bund (Quellen-Zerstörer) UND gegen die Thar (Tech-Magie-Imperium). Alphinas Resonanz als Herzschrittmacher ist der Schlüssel -- sie kann zerstörte Quellen wieder anstarten. Varen weiß wie, sie kann es. Zusammen.
+### Iven
+Moragh-geboren, ~17, Elektrizitäts-Resonanz. Einführung in Akt II (I10). In Akt IV magischer Störsender gegen Expeditions-Elektronik. Zahlt mit dem Körper, überlebt knapp.
 
-### Nyr + Vesper — Die Überläufer
-Bei den Thar. Sehen die autonomen Bestien (Kessler ohne Nyr). Sehen die Temporal-KI (Vesper als "Werkzeug"). "Werkzeug" ist das Wort das Vesper kippt. Nyr erkennt: keine Piloten mehr nötig, KI ist billiger. Sie laufen über. Kommen zu Varen + Alphina.
+### Tyra Halvard
+Einzige Überlebende der Expedition 1. Linguistin mit Resonanz-Marker. Schall-Resonanz erwacht in Moragh; kann kleine Schemen mit Schall-Talent ausrüsten (Schemen-Fernsprecher). Steht auf Moragh-Seite. Marens Ur-Großtante, Seitenlinie zu Dr. Syra Halvard.
 
-### Runa — Die Antagonistin
-Beim Konglomerat aufgestiegen. Schmiedet Thar-Kriegsmetall mit bloßen Händen. Die ehemalige Druckerin mit den warmen Händen. Als Nyr und Vesper überlaufen, verfolgt SIE sie. Ehemalige Freundin als Antagonistin. Konfrontation mit Alphina: "Du hast eine Quelle getötet." -- "Ja. Und jetzt töte ich noch eine."
+### Dr. Syra Halvard (Thalassien)
+Institutsleiterin in 2120 TZ. Ur-Großnichte von Tyra. Subtile Bodymods, visionärisch-kalt. Kippt das Institut nach Marens Tod auf Eroberungskurs. Entwickelt den Resonanz-Modulator.
 
-### Talven — Der Held und der Büßer
-Verteilt Resonanz. Held. Milchige Augen. Konfrontation mit Alphina: "Du bezahlst NICHTS, ich bezahle mit AUGEN." Elkes Tod bricht ihn. Hört auf zu ernten. Blind. Büßer. Lehrt. "Und das ist schlimmer."
+### General Kelvar Velkan (Thalassien)
+Militärischer Expeditionsleiter 2. Expedition. Ex-2090er-Kriegs-Kommandeur. Sichtbare Bodymods. Tritt in 2120 TZ durchs Portal durch, führt die 2500 Soldaten. Primärer Gegner im Akt-IV-Schlachtfeld.
 
-### Elke — Der Abschied
-Stirbt an Alter. Nicht an Magie-Kosten, nicht dramatisch. Leise. Im Garten. Ein Ausatmen.
+## Wer stirbt in Buch 3
 
-### Maren — Die Gestrandete
-In Thalassien (~2250). Schwellenforschungsinstitut. Hat die Expedition initiiert. Alt. Ihr Lebenswerk wird sinnlos wenn der Riss sich schließt. Die Farne in Vael stehen still.
-
-### Iven — Das Interface
-Moragh-geboren, 17, Elektrizitäts-Resonanz. Interface zwischen Magie und Technik. Berührt Thalassien-Tech und sie reagiert. Der Generator singt für ihn. Zahlt mit dem Körper.
-
-## Wer stirbt
-
-- **Sorel:** Buch 1 (tot)
-- **Elke:** Buch 3 (Alter, leise, im Garten)
-- **Alphina:** LEBT.
-- **Varen:** LEBT.
+- **Maren** (2037 TZ, in Vael, Verwüster-Angriff)
+- **Elke** (Akt II, Dravek, aufgeladener Schemen)
+- **Talven** (Akt III, durch Alphinas Fehlurteil)
+- **Varen** (Akt IV, Duell)
+- **Tausende Moragh-Kämpfer** im Finale-Verzweiflungsangriff
+- **~1000 Expedition-Soldaten** in der Schlacht (von 2500 — 1500 überleben, brechen nach Südost aus)
 
 ## Enden
 
-**Alphina + Varen:** Moragh. Elkes Garten. Pflanzen. Dornen. Sein Blick der nicht fragt. Sie versteht jetzt jedes Wort seines altes Thalassisch.
+**Alphina + Vesper:** Halvek-Mar. BDSM-Dynamik. Beide gezeichnet. Ruhe.
 
-**Vesper + Nyr:** Frei. Keine Thar mehr. Er sieht Muster in einer Welt die sich verändert.
+**Runa + Nyr:** Halvek-Mar. Werkstatt. Kessler als zivile Arbeitsbestie.
 
-**Runa:** Offen -- akzeptiert oder kämpft bis zum Ende. Die warmen Hände, die Presse, die Worte.
+**Tyra Halvard:** Halvek-Mar-Umgebung, als Brücke zwischen Welten.
 
-**Maren:** Thalassien. Alt. Das Institut. Der Riss ist zu. Keine Magie mehr in Vael. Die Farne stehen still. Marens Name auf einem Gebäude. Das Meer riecht nach Salz. Nur nach Salz.
+**Epilog Vael (~2155 TZ):** Kind berührt Farn. Farn bewegt sich nicht. Stille.
 
-**Talven:** Blind. Lehrt. "Ich verstehe warum ich es getan habe. Und das ist schlimmer."
-
-**Epilog Vael:** Kind berührt Farn. Farn bewegt sich NICHT. Keine Magie. Das Kind zuckt die Achseln und rennt weiter. Unter dem Garten: Stille. Zum ersten Mal seit Jahrhunderten.
-
-**Epilog Moragh:** Elkes Garten. Alphina bei Varen. Dornen an ihrer Hand. Sein Blick. Reparierte Quellen pochen. Langsam. Regelmäßig. Wie ein Herz das wieder schlägt.
+**Epilog Moragh:** Tote Zonen werden von Expedition-Überlebenden besiedelt. Fluggeräte erkunden den Planeten. Anti-magische Fraktion entsteht. B4-Keim.

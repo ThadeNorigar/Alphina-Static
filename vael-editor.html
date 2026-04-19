@@ -75,6 +75,15 @@
 
   #toast { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); background: #2a2520; border: 1px solid #b8860b; color: #f0e6d8; padding: 8px 16px; border-radius: 4px; font-size: 11px; display: none; z-index: 100; }
   #scale-bar { position: fixed; bottom: 24px; right: 24px; z-index: 10; background: rgba(26,23,20,0.8); padding: 6px 10px; border-radius: 4px; border: 1px solid rgba(255,255,255,0.08); }
+
+  #mfcg-panel { display: none; }
+  body.view-mfcg #mfcg-panel { display: block; }
+  .locked-ui #mfcg-panel input[type="range"],
+  .locked-ui #mfcg-panel input[type="text"] { opacity: 0.4; pointer-events: none; }
+  .mfcg-row { display: flex; align-items: center; gap: 6px; margin: 4px 0; font-size: 10px; }
+  .mfcg-row label { color: #8a8279; min-width: 40px; }
+  .mfcg-row input[type="range"] { flex: 1; }
+  .mfcg-row .val { font-family: monospace; color: #b8a078; min-width: 40px; text-align: right; }
 </style>
 </head>
 <body>
@@ -87,6 +96,44 @@
     <button class="action-btn view-btn active" id="btn-v-overview" onclick="setView('overview')">Übersicht</button>
     <button class="action-btn view-btn" id="btn-v-districts" onclick="setView('districts')">Quartiere</button>
     <button class="action-btn view-btn" id="btn-v-movement" onclick="setView('movement')">Bewegung</button>
+    <button class="action-btn view-btn" id="btn-v-mfcg" onclick="setView('mfcg')">MFCG</button>
+  </div>
+
+  <div id="mfcg-panel">
+    <h3>MFCG-Layer</h3>
+    <div style="font-size:10px;color:#6b6259;line-height:1.5;margin-bottom:6px;">
+      Export von <a href="https://watabou.github.io/city-generator/" target="_blank" style="color:#b8860b;">watabou.github.io/city-generator</a> als SVG oder PNG ablegen unter <code style="color:#b8a078;">buch/vael-mfcg.svg</code> (bzw. <code style="color:#b8a078;">.png</code>).
+    </div>
+    <div class="mfcg-row">
+      <label>X</label>
+      <input type="range" id="mfcg-x" min="-600" max="600" step="1" oninput="setMfcg('x', +this.value)">
+      <span class="val" id="mfcg-x-v">0</span>
+    </div>
+    <div class="mfcg-row">
+      <label>Y</label>
+      <input type="range" id="mfcg-y" min="-600" max="600" step="1" oninput="setMfcg('y', +this.value)">
+      <span class="val" id="mfcg-y-v">0</span>
+    </div>
+    <div class="mfcg-row">
+      <label>Skala</label>
+      <input type="range" id="mfcg-scale" min="0.2" max="3" step="0.01" oninput="setMfcg('scale', +this.value)">
+      <span class="val" id="mfcg-scale-v">1.00</span>
+    </div>
+    <div class="mfcg-row">
+      <label>Dreh°</label>
+      <input type="range" id="mfcg-rotate" min="-180" max="180" step="1" oninput="setMfcg('rotate', +this.value)">
+      <span class="val" id="mfcg-rotate-v">0</span>
+    </div>
+    <div class="mfcg-row">
+      <label>Deckung</label>
+      <input type="range" id="mfcg-opacity" min="0.05" max="1" step="0.01" oninput="setMfcg('opacity', +this.value)">
+      <span class="val" id="mfcg-opacity-v">0.80</span>
+    </div>
+    <div class="mfcg-row">
+      <label>Datei</label>
+      <input type="text" id="mfcg-src" placeholder="buch/vael-mfcg.svg" oninput="setMfcg('src', this.value)" style="flex:1; background:#2a2520; border:1px solid #444; border-radius:3px; padding:3px 6px; color:#f0e6d8; font-size:10px; font-family:inherit;">
+    </div>
+    <div id="mfcg-status" style="font-size:10px;color:#6b6259;margin-top:6px;"></div>
   </div>
 
   <h3>Orte (<span id="place-count">0</span>)</h3>
@@ -205,8 +252,11 @@ let data = {
   cliff: [],
   places: [],
   streets: [],
-  distances: []
+  distances: [],
+  mfcg: { src: 'buch/vael-mfcg.svg', x: 0, y: 0, scale: 1, rotate: 0, opacity: 0.8 }
 };
+
+let mfcgImageOk = null; // null=ungeprüft, true=geladen, false=fehlt
 
 let viewMode = 'overview';
 let locked = true;
@@ -283,6 +333,54 @@ function updateScale() {
 }
 
 // --- Rendering -----------------------------------------------------------
+function renderMfcgLayer() {
+  const m = data.mfcg || {};
+  const vbW = (data.viewbox && data.viewbox.w) || 1200;
+  const vbH = (data.viewbox && data.viewbox.h) || 800;
+  const cx = vbW / 2, cy = vbH / 2;
+  const scale = m.scale || 1;
+  const rotate = m.rotate || 0;
+  const offsetX = m.x || 0;
+  const offsetY = m.y || 0;
+  const opacity = m.opacity ?? 0.8;
+  const src = m.src || '';
+
+  if (mfcgImageOk === false || !src) {
+    // Fallback-Hinweis im viewBox
+    const g = el('g');
+    g.appendChild(el('rect', {
+      x: vbW / 2 - 260, y: vbH / 2 - 40, width: 520, height: 80,
+      fill: 'rgba(26,23,20,0.9)', stroke: '#b8860b', 'stroke-width': '1.5', rx: '6'
+    }));
+    const h1 = el('text', {
+      x: cx, y: cy - 10, 'text-anchor': 'middle', fill: '#b8860b',
+      'font-size': '14', 'font-weight': '500', style: 'pointer-events:none'
+    });
+    h1.textContent = 'Kein MFCG-Export geladen';
+    g.appendChild(h1);
+    const h2 = el('text', {
+      x: cx, y: cy + 14, 'text-anchor': 'middle', fill: '#8a8279',
+      'font-size': '10', style: 'pointer-events:none'
+    });
+    h2.textContent = 'Export von watabou.github.io/city-generator als SVG/PNG unter "' + (src || 'buch/vael-mfcg.svg') + '" ablegen.';
+    g.appendChild(h2);
+    svg.appendChild(g);
+    return;
+  }
+
+  // Bild mit Transform: translate to center → scale → rotate → translate back → offset
+  const transform = `translate(${cx} ${cy}) translate(${offsetX} ${offsetY}) rotate(${rotate}) scale(${scale}) translate(${-cx} ${-cy})`;
+  const img = el('image', {
+    href: '/' + src.replace(/^\//, ''),
+    x: 0, y: 0, width: vbW, height: vbH,
+    preserveAspectRatio: 'xMidYMid meet',
+    opacity: String(opacity),
+    transform,
+    'data-mfcg': '1'
+  });
+  svg.appendChild(img);
+}
+
 function pathD(points, closed) {
   if (!points || points.length === 0) return '';
   return 'M ' + points.map(p => p[0] + ',' + p[1]).join(' L ') + (closed ? ' Z' : '');
@@ -306,8 +404,13 @@ function render() {
   `;
   svg.appendChild(defs);
 
+  const mfcgMode = (viewMode === 'mfcg');
+
   // 1. Ozean (füllt gesamten Hintergrund)
   svg.appendChild(el('rect', { x: -200, y: -200, width: 1600, height: 1200, fill: '#0d1520' }));
+
+  // 1b. MFCG-Layer (nur im MFCG-Modus, hinter Küste)
+  if (mfcgMode) renderMfcgLayer();
 
   // 2. Landmasse: Polygon mit Küste als Südkante, geschlossen oben über viewBox-Rand
   if (data.coast && data.coast.length > 1) {
@@ -337,8 +440,8 @@ function render() {
     }));
   }
 
-  // 3. Quartiere (im districts-Modus stärker)
-  const showDistricts = (viewMode === 'districts' || viewMode === 'overview');
+  // 3. Quartiere (im districts-Modus stärker; im MFCG-Modus unterdrückt)
+  const showDistricts = !mfcgMode && (viewMode === 'districts' || viewMode === 'overview');
   if (showDistricts && data.districts) {
     data.districts.forEach(d => {
       const key = d.name.toLowerCase().includes('ober') ? 'oberstadt' : 'unterstadt';
@@ -363,8 +466,8 @@ function render() {
     });
   }
 
-  // 4. Klippenkante
-  if (data.cliff && data.cliff.length > 1) {
+  // 4. Klippenkante (im MFCG-Modus unterdrückt)
+  if (!mfcgMode && data.cliff && data.cliff.length > 1) {
     svg.appendChild(el('path', {
       d: pathD(data.cliff, false), fill: 'none',
       stroke: '#6a5548', 'stroke-width': '1.2',
@@ -384,8 +487,8 @@ function render() {
     }
   }
 
-  // 5. Grauwe (Fluss + Hafenbecken)
-  if (data.grauwe) {
+  // 5. Grauwe (Fluss + Hafenbecken) — im MFCG-Modus unterdrückt
+  if (!mfcgMode && data.grauwe) {
     if (data.grauwe.harbor_basin && data.grauwe.harbor_basin.length > 2) {
       svg.appendChild(el('path', {
         d: pathD(data.grauwe.harbor_basin, true),
@@ -430,8 +533,8 @@ function render() {
     }
   }
 
-  // 6. Straßen (im movement-Modus hervorgehoben)
-  if (data.streets) {
+  // 6. Straßen (im movement-Modus hervorgehoben; im MFCG-Modus unterdrückt)
+  if (!mfcgMode && data.streets) {
     data.streets.forEach(s => {
       const strokeW = viewMode === 'movement' ? '2.2' : '1';
       const opacity = viewMode === 'movement' ? '0.9' : '0.5';
@@ -624,7 +727,49 @@ function setView(mode) {
   viewMode = mode;
   document.querySelectorAll('.view-btn').forEach(b => b.classList.remove('active'));
   document.getElementById('btn-v-' + mode).classList.add('active');
+  document.body.classList.toggle('view-mfcg', mode === 'mfcg');
+  if (mode === 'mfcg') checkMfcgSource();
   render();
+}
+
+function setMfcg(field, value) {
+  if (locked) return toastLocked();
+  if (!data.mfcg) data.mfcg = { src: 'buch/vael-mfcg.svg', x: 0, y: 0, scale: 1, rotate: 0, opacity: 0.8 };
+  data.mfcg[field] = value;
+  updateMfcgControls();
+  if (field === 'src') checkMfcgSource();
+  render();
+}
+
+function updateMfcgControls() {
+  const m = data.mfcg || {};
+  const set = (id, v) => { const el = document.getElementById(id); if (el) el.value = v; };
+  const txt = (id, v) => { const el = document.getElementById(id); if (el) el.textContent = v; };
+  set('mfcg-x', m.x ?? 0);       txt('mfcg-x-v', (m.x ?? 0));
+  set('mfcg-y', m.y ?? 0);       txt('mfcg-y-v', (m.y ?? 0));
+  set('mfcg-scale', m.scale ?? 1); txt('mfcg-scale-v', (m.scale ?? 1).toFixed(2));
+  set('mfcg-rotate', m.rotate ?? 0); txt('mfcg-rotate-v', (m.rotate ?? 0));
+  set('mfcg-opacity', m.opacity ?? 0.8); txt('mfcg-opacity-v', (m.opacity ?? 0.8).toFixed(2));
+  set('mfcg-src', m.src ?? '');
+}
+
+function checkMfcgSource() {
+  const src = (data.mfcg && data.mfcg.src) || '';
+  const statusEl = document.getElementById('mfcg-status');
+  if (!src) { mfcgImageOk = false; if (statusEl) statusEl.textContent = 'Keine Datei angegeben.'; return; }
+  mfcgImageOk = null;
+  if (statusEl) statusEl.textContent = 'Prüfe ' + src + ' …';
+  fetch('/' + src.replace(/^\//, ''), { method: 'HEAD' })
+    .then(r => {
+      mfcgImageOk = r.ok;
+      if (statusEl) statusEl.textContent = r.ok ? '✓ geladen: ' + src : '✗ nicht gefunden: ' + src;
+      render();
+    })
+    .catch(() => {
+      mfcgImageOk = false;
+      if (statusEl) statusEl.textContent = '✗ Fehler beim Laden von ' + src;
+      render();
+    });
 }
 
 function toggleLock() {
@@ -772,6 +917,8 @@ const _origRender = render;
 render = function() { _origRender(); save(); };
 
 loadFromServer().then(() => {
+  if (!data.mfcg) data.mfcg = { src: 'buch/vael-mfcg.svg', x: 0, y: 0, scale: 1, rotate: 0, opacity: 0.8 };
+  updateMfcgControls();
   updateLockUI();
   render();
   updateScale();

@@ -8,7 +8,7 @@
 
 Der Wendepunkt des gesamten Buchs. Varens Geständnis zerbricht Alphinas Selbstbild. Sie wechselt die Seite — NICHT linear, sondern oszillierend: Glaube, Rückfall, Zweifel, Rechtfertigung, Schuld, Akzeptanz. Sechs Kapitel Selbstzweifel. Dann Sex — geteilte Schuld als Bindeglied, Dornen statt Farne. Danach: Verbündete.
 
-Parallel: Maren findet den Rückweg bei den Thar, öffnet das Portal von Moragh-Seite, geht allein nach Thalassien (~1910). Vesper bleibt mit Nyr bei den Thar, spürt die Schemen-Aktivität, weiß bevor er weiß dass Varen etwas plant.
+Parallel: Maren findet den Rückweg bei den Thar, öffnet das Portal von Moragh-Seite, geht allein nach Thalassien (~1987 TZ). Vesper bleibt mit Nyr bei den Thar, spürt die Schemen-Aktivität, weiß bevor er weiß dass Varen etwas plant.
 
 Runa beim Bund. Wut. Dokumentation. Plan Alphinas Befreiung — sie glaubt immer noch, Alphina sei Varens Gefangene. Marschiert mit Bund-Truppen nach Sulkara.
 
@@ -20,7 +20,7 @@ Runa beim Bund. Wut. Dokumentation. Plan Alphinas Befreiung — sie glaubt immer
 - Alphina + Varen: auf Varens Seite. Quellen-Reparatur als Mission. Basis: **Torkal** (freie Stadt, Südwesten).
 - Runa: beim Bund (physisch) — aber innerlich zerbrochen. Nicht mehr Alphinas Freundin. Noch nicht übergelaufen.
 - Vesper + Nyr: Thar. Zweifel. Varens Existenz bestätigt, die Fronten-Logik explodiert.
-- Maren: gestrandet in Thalassien ~1910.
+- Maren: gestrandet in Thalassien ~1987 TZ.
 
 **Kein sauberer Frieden. Cliffhanger: Alphina ruht jetzt in einer Lüge, und niemand weiß noch wie lang die hält.**
 
@@ -180,11 +180,11 @@ Vesper versteht sofort. *„Du gehst."* Maren: *„Ja."* Vesper: *„Allein."* M
 
 Der Abschied. Nicht dramatisch. Zwei Menschen die sich verstehen und verschiedene Wege gehen. Vesper bleibt — Moragh, Nyr, die Thar, die Muster. Maren geht — Thalassien, Forschung, allein. Er küsst ihre Stirn. Sie dreht sich um.
 
-**Das Portal.** Maren öffnet es von der Moragh-Seite, im Steinplatz nahe der Thar-Kontrolle. Vesper ist dabei. Nyr ist dabei. Sie halten die Thar-Wachen zurück für die 4:33. Die Luft reißt auf. Dahinter: Thalassien. Aber nicht Vael. Nicht 1823. Die Zeitdilatation hat zugeschlagen. **~1910.** Gaslampen durch Elektrizität ersetzt. Automobile statt Kutschen. Eine Welt die weitergelaufen ist.
+**Das Portal.** Maren öffnet es von der Moragh-Seite, im Steinplatz nahe der Thar-Kontrolle. Vesper ist dabei. Nyr ist dabei. Sie halten die Thar-Wachen zurück für die 4:33. Die Luft reißt auf. Dahinter: Thalassien. Aber nicht Vael. Nicht 1823. Die Zeitdilatation hat zugeschlagen. **~1987 TZ.** Gaslampen durch Elektrizität ersetzt. Automobile statt Kutschen. Eine Welt die weitergelaufen ist.
 
 Maren tritt durch. Das Portal schließt sich. Vesper sieht ihr nach den halben Herzschlag zu lang — dann wendet er sich Nyr zu. *„Zurück."* Sie gehen.
 
-**Vespers Gedanken auf dem Rückweg:** die Zeitdilatation. Er hatte es berechnet, aber es zu SEHEN — Maren tritt durch und ist im Jahr 1910 — ist anders. Er denkt an Alphina. Sie ist irgendwo in Moragh. Wenn er sie findet, sind dort drüben wie viele Jahre vergangen? Das Wort *wenn* ist neu für ihn.
+**Vespers Gedanken auf dem Rückweg:** die Zeitdilatation. Er hatte es berechnet, aber es zu SEHEN — Maren tritt durch und ist im Jahr 1987 TZ — ist anders. Er denkt an Alphina. Sie ist irgendwo in Moragh. Wenn er sie findet, sind dort drüben wie viele Jahre vergangen? Das Wort *wenn* ist neu für ihn.
 
 ### Kap. 39 — Runa (S. 742–758, ~4.500 Wörter)
 *Beim Bund. Der Plan. Der Marsch nach Sulkara.*
@@ -335,7 +335,7 @@ Die Schlacht bricht ab — erst nach Stunden. Der Bund hat die Nebenquelle nicht
 
 - **Vesper + Nyr:** in Kessler, auf dem Rückweg nach Thar-Kem. Nyr hat die Hydraulik auseinandernehmen müssen, repariert unterwegs. Vesper sitzt neben ihr in der Kammer. Keiner spricht. Nach einer Stunde sagt Nyr: *„Du glaubst, du holst sie zurück."* Vesper: *„Ja."* Nyr: *„Ich hoffe du hast recht."*
 
-- **Maren** (Off-Screen, in Thalassien ~1910): sitzt im Büro der neuen Gesellschaft. Ein einzelnes Zimmer. Drei Mitglieder. An der Wand: eine Karte von Vael. Der Steinkreis markiert. Daneben Marens Notizen. Sie schreibt einen Brief an niemanden. *„Ihr seid noch dort. Ich weiß es. Ich werde einen Weg finden zurück. Oder ihr werdet einen finden."*
+- **Maren** (Off-Screen, in Thalassien ~1987 TZ): sitzt im Büro der neuen Gesellschaft. Ein einzelnes Zimmer. Drei Mitglieder. An der Wand: eine Karte von Vael. Der Steinkreis markiert. Daneben Marens Notizen. Sie schreibt einen Brief an niemanden. *„Ihr seid noch dort. Ich weiß es. Ich werde einen Weg finden zurück. Oder ihr werdet einen finden."*
 
 **Letztes Bild:** Zwei Monde über Moragh. Eine Frau in Thalassien, die in den Himmel sieht, den sie nicht mehr kennt. In Moragh vier Figuren an vier Orten, verbunden durch einen Riss, den niemand mehr offen halten kann.
 
@@ -346,7 +346,7 @@ Die Schlacht bricht ab — erst nach Stunden. Der Bund hat die Nebenquelle nicht
 ## Beziehungskarte Ende Buch 2
 
 ```
-MORAGH:                                  THALASSIEN (~1910):
+MORAGH:                                  THALASSIEN (~1987 TZ):
 
 Alphina ═══ Varen (seine Fraktion)       Maren (gestrandet, allein)
 Unter Varens Anker                       Schwellenforschungsgesellschaft

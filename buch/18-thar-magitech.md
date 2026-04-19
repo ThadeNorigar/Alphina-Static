@@ -8,6 +8,20 @@ Ein Konglomerat. Durchorganisiertes Militär, industrielle Produktion, absolute 
 
 Die Thar bauen keine Maschinen. Sie bauen **Fabelwesen aus Magie und Metall.** Raubtierähnlich, glühende Augen, Klauen. Jede Bestie wird von EINEM Reiter gesteuert — der Reiter kanalisiert seine Resonanz in die Maschine, die Bestie wird zur Verlängerung des Körpers. Je nach Resonanz-Typ: andere Gestalt, andere Waffen, andere Taktik.
 
+### Herkunft der Formen
+
+**Moragh hat keine organische Tierwelt** (siehe `21-moragh-gesellschaft.md`). Die Moragh-Bewohner sind Nachfahren von **Raumfahrern**, die vor langer Zeit auf dem Planeten strandeten. Irgendwo auf dem Kontinent liegt das **Wrack ihres Raumschiffs** — vergessen, halb im Gestein versunken, von Quellenaktivität überwuchert. Im Wrack gab es unter anderem **Kinderspielzeug in Form irdischer Tiere** — Tiere, die es auf diesem Planeten nie gegeben hat und nie geben wird.
+
+Diese Tier-Formen wurden **mythologisch**. Generationen von Moragh-Kindern sahen Figuren von Löwen, Stieren, Wölfen, Bären, Hirschen und anderen Kreaturen, ohne je ein lebendes Tier zu sehen. Die Formen wurden Zeichen, Sinnbilder, Teil alter Erzählungen. Als die Thar ihre Magitech-Bestien konstruierten, griffen sie auf dieses mythologische Vokabular zurück: **die Bestien tragen die Gestalt von Wesen, die niemand je berührt hat.**
+
+Das erklärt auch, warum die Bestien tier-geformt, nicht maschinen-geformt sind. Für Moragh-Augen ist ein Löwen-Lohe nicht Nostalgie an ein verlorenes Tier — es ist die Gestalt, die in ihrer Kultur seit Jahrtausenden "Kraft und Hitze" bedeutet, ohne dass je jemand einen Löwen gesehen hätte.
+
+### Regel für erlaubte Formen
+
+**Nur Land- und Wassertiere.** Vögel waren in der Raumfahrer-Spielzeug-Sammlung vermutlich auch vorhanden, aber da Moragh **keinen Flug kennt** (keine Fluggeräte, keine organischen Vögel, keine eigene Himmels-Mythologie), **wurden Vogel-Formen nicht Teil der mythologischen Stützbilder**. Fluggeräte gibt es in Moragh nicht, bis die Thalassien-Expedition sie in B4 einführt.
+
+Magitech-Bestien basieren daher ausschließlich auf Formen, die sich **am Boden oder im Wasser** bewegen. Sprünge sind erlaubt (Hirsch, Luchs). Flug ist nicht erlaubt.
+
 ### Bestien-Typen nach Resonanz
 
 | Resonanz | Gestalt | Name | Gewicht | Eigenschaft |
@@ -16,12 +30,26 @@ Die Thar bauen keine Maschinen. Sie bauen **Fabelwesen aus Magie und Metall.** R
 | **Dampf/Druck** | Bulle/Stier, massiv, kataphraktenartig | **Ramm** | ~40t | Gepanzert. Beschleunigt wie Lokomotive, stoppt wie Erdbeben. Dampf aus den Nüstern. Überrollt alles. |
 | **Elektrik** | Wolf/Luchs, schmal, schnell | **Zacker** | ~8t | Kurze Blitzstöße aus den Klauen. Kampfläufer. Hit-and-run. Flackernde Augen, weiß-blau. Schneller als alles auf dem Feld. |
 | **Erde/Stein** | Schildkröte/Kröte, breit, flach | **Grund** | ~60t | Gräbt. Taucht unter. Kommt unter dem Feind hoch. Steinpanzer der nachwächst. Belagerungsmaschine. |
-| **Wind/Luft** | Adler/Falke, schmal, hoch | **Feger** | ~5t | Springt, gleitet. Druckwellen von oben. 30m-Sprünge. Aufklärung + Überraschungsangriff. Kein Flug. |
+| **Wind/Luft** | Hirsch/Antilope, schmal, hochbeinig | **Feger** | ~5t | Springt, gleitet in flachen Bögen. 30m-Sprünge über Klüfte. Druckwellen im Absprung. Aufklärung + Überraschungsangriff. **Kein Flug, keine Vogel-Form.** Glühende Augen, gelb-grün. |
 | **Wasser** | Schlange/Aal, lang, gleitend | **Fluter** | ~20t | Amphibisch. Gleitet über Wasser und Schlamm. Druckstöße aus dem Maul. Überschwemmt Schützengräben. |
+
+### Weitere erlaubte Bestien-Formen (etabliert, aber selten)
+
+Die Raumfahrer-Spielzeug-Mythologie enthielt dutzende Land- und Wassertier-Formen. Nicht alle werden als Magitech-Bestien gebaut, aber alle sind **kanon-bereit**:
+
+- **Bär** — schwere Kraft-Bestie, denkbar als Stein-Resonanz-Variante
+- **Tiger** — Feuer-Variante, schlanker und schneller als Lohe
+- **Pferd** — leichte Transport-Bestie, selten als Kampfbestie
+- **Wolfsrudel-Bestien** — kleine Zacker-Varianten im Schwarm
+- **Krokodil** — Wasser-Variante, langsamer als Fluter, aber panzerbrechend
+- **Elch** — Wind-Variante, schwerer als Feger, Rammen mit dem Geweih
+
+Neue Formen sind möglich, solange sie einer bekannten Raumfahrer-Spielzeug-Kreatur entsprechen und **keinen Flug** erfordern.
 
 ### Was es NICHT gibt
 
-Pflanzen-Resonanz ist selten in Moragh. Es gibt keine Pflanzen-Bestie. Wäre theoretisch: lebende Rüstung die nachwächst, organisch, Dornen und Ranken. Aber niemand hat es gebaut. Bis Alphina kommt.
+- **Keine Vogel-Bestien, keine Flug-Bestien.** Moragh kennt keinen Flug.
+- **Keine Pflanzen-Bestie.** Pflanzen-Resonanz ist selten in Moragh. Theoretisch möglich (lebende Rüstung mit Dornen und Ranken), aber niemand hat es gebaut. Bis Alphina kommt.
 
 ### Reservoir-Kern
 

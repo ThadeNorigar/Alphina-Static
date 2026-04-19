@@ -113,7 +113,9 @@ Der **Steinkreis** im Botanischen Garten — Purpurstein, kreisförmig, schon im
 
 **Von Thalassien aus** braucht das Ritual vier Resonanzen gleichzeitig im Steinkreis: Pflanze (Alphina), Licht (Sorel), Zeit (Vesper), Wasser (Maren). **Bleibt 4:33 offen,** dann schließt es sich.
 
-**Von Moragh aus** kann das Portal immer geöffnet werden — es braucht jemanden der das Ritual kennt UND Magie verwenden kann. Moragh-Magier können das Portal jederzeit öffnen. So hat Varen Agenten nach Thalassien geschickt. So hat er es auch in TZ 154 geöffnet, als Elke durchging (damals von Moragh nach Thalassien, also konnten Thalassier nach Moragh gehen). Varen hat die Methode das Portal zu öffnen WIEDERENTDECKT — er hat sie nicht erfunden. Vor 200 Moragh-Jahren (80.000 Thalassien-Jahre) flohen Menschen auf demselben Weg.
+**Von Moragh aus** kann das Portal nur öffnen, wer **Druckmanipulation UND Zeitmanipulation** gleichzeitig beherrscht (beide Komponenten der Portalmagie — Druck verformt den Raum, Zeit die Zeitachse, das Wurmloch braucht beides). In der Gegenwart (MZ 0 und ff.) ist **Varen der einzige Mensch in Moragh mit dieser Kombination.** Seine Druck/Gravitation-Resonanz stammt aus der Velmar-Binder-Kaste, die Zeitmanipulation hat er sich in MZ -3 bis -1 angeeignet. So hat er Agenten nach Thalassien geschickt. So hat er es auch in TZ 154 geöffnet, als Elke durchging. Varen hat die Methode WIEDERENTDECKT — vor 200 Moragh-Jahren (80.000 Thalassien-Jahre) flohen Menschen auf demselben Weg, aber die damaligen Öffner sind längst tot und ihr Wissen verloren.
+
+**Thalassien-Magie entsteht durch Varens Portal-Risse.** Seine brachialen Öffnungen in MZ -3 bis -1 rissen die Raumzeit mehrfach auf. Durch diese Mikro-Risse sickert seither Moragh-Magie nach Thalassien — daher die Farne, die warmen Steine, Alphinas Pflanzen-Resonanz seit Kindheit, Sorels Lichtaffinität. Ohne Varen keine Resonanz-Begabten in Thalassien. Die historischen Flüchtlinge (200 MZ-Jahre zurück) haben keine Risse erzeugt; ihre Nachkommen verloren die Magie.
 
 Varen hat per Daemon eine Anleitung in Moragh-Sprache hinterlegt — Papier mit Zeichnung des Steinkreises, Ritual-Anweisungen, Symbole. Zusätzlich ein Moragh-Sprachbuch in der Bibliothek. Beides von Jara gefunden. Das Ritual-Papier trägt Fingerabdrücke die nicht von Menschen stammen — zu viele Gelenke, Linien die sich gabeln wo menschliche nicht gabeln. Niemand hat den Daemon gesehen.
 
@@ -121,19 +123,23 @@ Varen hat per Daemon eine Anleitung in Moragh-Sprache hinterlegt — Papier mit 
 
 Die Zeit läuft unterschiedlich. **1 Moragh-Jahr = 400 Thalassien-Jahre.** Das Verhältnis ist stabil. 1 Moragh-Monat ≈ 33 Thalassien-Jahre. Elke ging vor ~400 Thalassien-Jahren durch = vor ~1 Moragh-Jahr. Die gesamte Trilogie (*Der Riss / Das Auge / Die Quelle*) auf Moragh-Seite dauert ~1 Jahr. **Für die Rückkehr nach Vael (Buch 3) bedeutet das: Jahrhunderte sind vergangen. Alles Bekannte ist weg. Alle Kontakte, weg. Die Stadt die sie kannten existiert nicht mehr.**
 
-### Die Riss-Quelle
+### Die Portal-Quelle
 
-Unter dem Botanischen Garten liegt die **Riss-Quelle** — das einzige Purpurstein-Quellenvorkommen in Thalassien. Quellen sind wie Erzflöze: zusammenhängende Materialvorkommen im Boden, die Magie speichern und abstrahlen. In Moragh gibt es viele, unterschiedlich groß und mächtig. In Thalassien nur diese eine, klein, unter dem Steinkreis.
+Eine **einzige Quelle**, die durch die Raum-Zeit-Anomalie (Wurmloch) in beiden Welten sichtbar ist:
+- Moragh-Seite: am **Steinplatz in Dravek** (kleine Orath-Stadt).
+- Thalassien-Seite: als Purpurstein-Vorkommen **unter dem Botanischen Garten in Vael**.
 
-Die Riss-Quelle speist den Riss zwischen den Welten. Durch sie sickern **passive Effekte** nach Thalassien: die Farne, das heiße Wasser, der Vaeler Atem, die warmen Steine. **Schemen gehören NICHT zu den passiven Effekten** — sie werden von Varen gezielt durch ein Portal geschickt.
+Es ist dasselbe Energie-Objekt, zweifach projiziert. Was in Moragh geschieht, geschieht zeitgleich in Thalassien. Quellen sind wie Erzflöze: zusammenhängende Materialvorkommen im Boden, die Magie speichern und abstrahlen. In Moragh gibt es viele; die Portal-Quelle ist groß genug, um das Wurmloch stabil zu halten. Thalassien hat ohne sie nichts Vergleichbares.
 
-**Das Portal kann nur hier geöffnet werden**, weil die Quelle hier ist. Moragh kann nur DORTHIN ein Portal öffnen, wo Quellenmaterial existiert — nicht exakt am Steinkreis, aber im Einflussradius der Quelle. Deshalb Vael und nur Vael.
+Die Portal-Quelle speist die Anomalie zwischen den Welten. Durch sie sickern passive Effekte nach Thalassien: die Farne, das heiße Wasser, der Vaeler Atem, die warmen Steine. **Schemen gehören NICHT zu den passiven Effekten** — sie werden von Varen gezielt durch ein geöffnetes Portal geschickt.
 
-**Zerstörung der Riss-Quelle = permanente Trennung.** Ohne die Riss-Quelle: kein Magie-Durchsickern nach Thalassien. Keine Resonanz dort. Kein Öffnen von der Thalassien-Seite. Der Riss heilt. Thalassien verliert ALLE Magie permanent. Moragh behält Magie wie immer.
+**Das Portal kann nur hier geöffnet werden**, weil die Quelle hier ist. Moragh kann nur dorthin ein Portal öffnen, wo Quellenmaterial existiert — nicht exakt am Steinkreis, aber im Einflussradius der Quelle. Deshalb Vael und nur Vael.
+
+**Zerstörung der Portal-Quelle = permanente Trennung.** Wird sie in einer Welt überladen (Wachstums-Energie bis zum Kollaps, wie Alphina es in B3-Akt IV tun wird), **kollabiert sie in beiden Welten gleichzeitig.** Kein Magie-Durchsickern nach Thalassien mehr. Keine Resonanz dort (auch die passiven Effekte verschwinden). Kein Öffnen von keiner Seite. Der Riss heilt. Thalassien verliert ALLE Magie permanent. Moragh behält Magie wie immer. Die fünf Thalassier in Moragh behalten ihre Resonanz, weil sie physisch in Moragh sind.
 
 ### Marens Rückkehr (Buch 2)
 
-Maren findet in Moragh die Karte und die Anleitung für die Moragh-Seite des Portals — den Weg zurück. Sie und Vesper sind zusammen als sie es entdeckt. Vesper entscheidet sich zu bleiben — Moragh, Nyr, die Thar. Maren entscheidet sich zu gehen. Sie öffnet das Portal von Moragh-Seite (Ritual + Magie, wie jeder Moragh-Magier es könnte). Geht durch nach Thalassien. ~1910. Allein hat sie dort zu wenig Magie (allein, ohne die anderen Resonanzen) um zurückzukehren. Sie ist gestrandet. Absichtlich.
+Maren findet in Moragh die Karte und die Anleitung für die Moragh-Seite des Portals — den Weg zurück. Sie und Vesper sind zusammen als sie es entdeckt. Vesper entscheidet sich zu bleiben — Moragh, Nyr, die Thar. Maren entscheidet sich zu gehen. Sie öffnet das Portal von Moragh-Seite (Ritual + Magie, wie jeder Moragh-Magier es könnte). Geht durch nach Thalassien. ~1987 TZ. Allein hat sie dort zu wenig Magie (allein, ohne die anderen Resonanzen) um zurückzukehren. Sie ist gestrandet. Absichtlich.
 
 ### Varens Köder — warum die Vier nach Vael kommen
 
@@ -251,15 +257,19 @@ Die Zivilisation ist alt. Städte aus Material das aussieht wie Stein und sich a
 
 Die Bewohner: Menschen. Größer als Thalassier, feingliedriger. Helle Haut, dunkle Haare — schwarz, tiefbraun, selten rötlich. Die Augen: dunkle Farben. Purpur, Weinrot, tiefes Violett, Schwarz, Dunkelgrün, Dunkelblau, Braun. Immer dunkel — keine hellen Augen in Moragh. Keine Aliens — Menschen, die anders aussehen. Wie jemand aus einem Land das man nie besucht hat. Sie sprechen eine Sprache die klingt wie altes Thalassisch, verdreht, als hätte jemand dieselbe Sprache 10.000 Jahre in eine andere Richtung entwickelt. Wortfetzen sind verständlich.
 
-### Die Herkunft der Thalassier
+### Die Herkunft der Thalassier — und der Moragh-Bewohner
 
-**Moragh ist die Ursprungswelt.** Vor 200 Moragh-Jahren (= ~80.000 Thalassien-Jahre) flohen Menschen aus Moragh durch ein Portal nach Thalassien — Kriegsflüchtlinge aus einem früheren Konflikt. Sie kamen ohne Technologie, ohne Magie, und strandeten in einer Welt mit anderer Sonne, anderer Zeitdilatation.
+**Die Moragh-Bewohner sind Nachfahren von Raumfahrern.** Irgendwann vor langer Zeit strandeten sie auf diesem Planeten. Ihr **Raumschiff-Wrack liegt irgendwo im Kontinent Moragh**, halb im Gestein versunken, von Quellenaktivität überwuchert, vergessen. Über die Jahrtausende entwickelten ihre Nachkommen in Kontakt mit den natürlichen Energiequellen eine magiefähige Kultur. Die Erinnerung an die Herkunft verblasste zu Mythologie — aber die Spielzeug-Tiere aus dem Wrack (Löwen, Stiere, Bären, Wölfe, Hirsche, Tiger) blieben Teil des Bildervokabulars, ohne dass je jemand ein lebendes Tier gesehen hätte. Daher die tier-geförmten Magitech-Bestien der Thar (siehe `18-thar-magitech.md`).
 
-80.000 Jahre Evolution haben sie verändert: kleiner, stämmiger, hellere Haarfarben, andere Augenfarben (hell statt dunkel). **Resonanz statt Magie** — ein verkümmertes Erbe, selten, aber es kostet kein Reservoir. Das können erst Thalassien-Wissenschaftler der Zukunft klären.
+**Moragh ist die Ursprungswelt der Thalassier.** Vor 200 Moragh-Jahren (= ~80.000 Thalassien-Jahre) flohen Menschen aus Moragh durch ein Portal nach Thalassien — Kriegsflüchtlinge aus einem früheren Konflikt. Sie kamen ohne Technologie, ohne Magie, und strandeten in einer Welt mit anderer Sonne, anderer Zeitdilatation.
+
+80.000 Jahre Evolution haben sie verändert: kleiner, stämmiger, hellere Haarfarben, andere Augenfarben (hell statt dunkel). **Resonanz statt Magie** — ein verkümmertes Erbe, selten, aber es kostet keinen Magie-Vorrat. Das können erst Thalassien-Wissenschaftler der Zukunft klären.
 
 Der Krieg der Flüchtlinge ist in Moragh nur 200 Jahre her. Manche erinnern sich. In Thalassien ist er vorgeschichtlich — 80.000 Jahre, keine Aufzeichnung, kein Mythos.
 
 Die Moragh-Sprache und Thalassisch klingen verwandt, weil sie ES SIND — dieselbe Sprache, 80.000 Jahre in unterschiedliche Richtungen entwickelt.
+
+**Die Thalassier sind damit doppelte Nachfahren:** Raumfahrer → Moragh-Kultur → Thalassien-Flüchtlinge. Niemand auf beiden Seiten weiß das vollständig.
 
 ### Magie in Moragh
 
@@ -593,6 +603,8 @@ Die Freien Städte stellen die Mehrheit der Bevölkerung — ein loses Netz ohne
 
 **Der Bund und die Quellen-Überladung:** Der Bund hat Varens Forschung über Quellen-Überladung gestohlen oder rekonstruiert. Die einflussreichsten Kriegstreiber im Bund verstehen das Prinzip und nutzen es als Waffe — systematische Zerstörung feindlicher Quellen. Nicht offiziell, nicht alle Städte. Aber die Strategen die den Krieg wirklich lenken planen die permanente Vernichtung der Thar-Quellen. Wer die Quellen des Gegners zerstört, gewinnt permanent. Das macht den Bund zur "zivilisierten" Seite die im Kern genau so brutal ist wie alle anderen.
 
+**Haus Verask — der stille Orchestrierer:** Die einflussreichste Rats-Familie in Orath. Offiziell gewählt, faktisch dynastisch über drei Generationen. Die gegenwärtigen Haus-Verask-Strategen organisieren die Quellen-Überladungs-Einsätze hinter verschlossenen Türen — sie rekrutieren Stein- und Energie-Begabte für die Ritual-Teams, sie verteilen Einsätze über mehrere Städte, damit keine einzelne Stadt die Verantwortung allein trägt. Wer in Orather Stein-Zünften aufsteigen will, landet früher oder später bei Haus Verask. Wer sich weigert, verliert Aufträge (siehe Kovik, der Dissident). Haus Verask ist das konkrete Hass-Ziel, das Alphina und die Vier in Buch 2 benennen können, wenn sie gegen den Bund die Seite wechseln.
+
 Wollen die Resonanz-Begabten als **Verbündete und Waffen** gegen die Thar.
 
 ### Velmar
@@ -887,3 +899,44 @@ Die Quelle zwischen den Welten bleibt offen. Nicht als Portal — als Grenze die
 6. Emotionale Intensität verstärkt Resonanz. Sex, Trauer, Wut.
 7. Magie und Romantik sind eine Linie. Jede intime Szene löst Magie aus.
 8. Der Riss ist der dünnste Punkt zwischen den Welten.
+
+---
+
+## Kanon-Klarstellung (verbindlich ab B3)
+
+### Fraktions-Magie-Verteilung
+
+| Fraktion | Schemen rufen | Schemen binden | Weitere Spezialität |
+|---|---|---|---|
+| **Bund / Orath** | ja, etabliert | **nein** (gilt als Sklaverei, verboten) | Magie-Zünfte: Feuer, Metall, Pflanzen, Stein, Licht, Rufer |
+| **Konglomerat / Thar** | **nein** | **nein** | Magitech-Bestien (Reiter-gebunden, 6 Typen) |
+| **Velmar** | ja, Rufer-Kaste | **ja, Kulturkern** | Haus-Kultur, Bindungs-Vererbung |
+| **Varen (Einzelfall)** | ja (Velmar-Herkunft aus Haus Keth) | ja | Einziger in Moragh, der **allein Portale öffnen** kann (Druck + Zeit) |
+
+**Orather Rufungen halten 2–3 Tage,** dann geht der Schemen in seine Heimat-Ebene zurück. Keine Bindung, kein Langzeit-Einsatz.
+
+**Velmar-Bindungen halten, bis der Binder sie freilässt oder stirbt.** Gebundene Schemen als Diener, Gespielen, Liebhaber normalisiert. Stufe-9-Bindungen sind über Generationen vererbbar (Haus-Tradition).
+
+### Talent-Übertragung auf Schemen (neue Regel, seltene Fähigkeit)
+
+Ein Moragh-Magier mit Bindungsmagie kann **ein spezifisches Talent** (Kraft, Präzision, eine Magie-Form, Wahrnehmung) auf einen gebundenen Schemen übertragen. Der Schemen wirkt das Talent selbst — er ist Agent, nicht Werkzeug. Sein Reservoir erschöpft sich beim Wirken; wenn leer, verschwindet er (gebunden oder ungebunden, egal).
+
+Nur wenige wissen davon. **Varen ist einer.** Er nutzt die Fähigkeit unter anderem, um Elke in Akt II durch einen aufgeladenen Schemen ermorden zu lassen und im Akt-IV-Duell Vespers Unterarm durch einen Bindungsmagie-Schemen zerkochen zu lassen.
+
+**Tyra-Ausnahme:** Thalassische Azyklizität erlaubt Talent-Übertragung auch auf **temporär gerufene** (nicht gebundene) Schemen — das macht Tyras Schall-Schemen-Fernsprecher möglich (zwei kleine Schemen mit Schall-Talent, die gegenseitig die Stimme des anderen übertragen).
+
+### Resonanz-Modulator (Thalassien, 2110er TZ)
+
+Rein technische Erfindung der Thalassien-Institutsforschung. Basis: jahrzehntelange Sensor-Telemetrie am Steinkreis-Anomalie-Feld. Kohärente elektromagnetische Frequenzmodulation dehnt die Raumzeit-Anomalie messbar und hält sie 72 Stunden offen. Schmilzt dann. **Kein Purpurstein** — abgeschlagenes Quellenmaterial verliert seine Magie. Reiner Tech-Aufbau. Entwickelt von Dr. Syra Halvard als Ingenieurs-Meisterstück.
+
+### Portal-Quelle = eine Quelle, zwei Welten
+
+Siehe Abschnitt „Die Portal-Quelle" oben. Eine Energiequelle, zweifach durch die Raum-Zeit-Anomalie projiziert. Zerstörung in einer Welt = Kollaps in beiden. Am Ende von B3 wird sie von Alphina durch Wachstums-Überladung (ihre einzige Zerstörungs-Methode, Pflanzen-Spur Stufe 10) kollabiert. Thalassien verliert danach alle Magie permanent.
+
+### Thalassien-Magie: Ursprung durch Varens Risse
+
+Die gesamte Resonanz in Thalassien existiert nur, weil Varen das Portal ab MZ -3 bis -1 brachial aufgestoßen hat. Seine Öffnungen rissen die Raumzeit mehrfach auf; durch diese Mikro-Risse sickerte Moragh-Magie nach Thalassien. **Ohne Varen keine Resonanz-Begabten in Thalassien.** Alphina, Sorel, Maren, Vesper, Runa — alle sind retrospektive Folge von Varens Handeln.
+
+### Varens Anhänger-Kreis
+
+Varen hat über die Jahre **20–30 Anhänger** um sich gesammelt — Velmar-Abtrünnige, freie-Städte-Magier, seltene Niedrig-Begabte, die er trainiert hat. Alle an seine Wiedergutmachungs-Geschichte glauben (die in Akt IV als Fassade enthüllt wird). Im Finale sterben etwa 15 von ihnen. **~8 Überlebende** verstecken sich danach. Setup für B4.

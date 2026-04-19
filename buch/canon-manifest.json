@@ -32,7 +32,8 @@
       "id": "fraktionen",
       "name": "Fraktionen",
       "docs": [
-        {"slug": "21-moragh-gesellschaft", "title": "Moragh-Gesellschaft — Übersicht", "desc": "Bund, Thar, Velmar — Strukturen, Wohlstand, Schemen-Doktrin, Alltag"}
+        {"slug": "21-moragh-gesellschaft", "title": "Moragh-Gesellschaft — Übersicht", "desc": "Bund, Thar, Velmar — Strukturen, Wohlstand, Schemen-Doktrin, Alltag"},
+        {"slug": "fraktionen/expedition", "title": "Die Expedition", "desc": "Thalassische Fraktion (B3+) — zwei Expeditionen durchs Portal, B4-Keimzelle"}
       ]
     },
     {

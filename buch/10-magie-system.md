@@ -232,6 +232,8 @@ Die Resonanz (subtile Effekte):
 - **Tidemoor-Uhr, zweiter Besuch (7. Mai):** Er legt die Hand lang auf, bremst den Verschleiß maximal, und findet in dieser stillen Zone den mechanischen Defekt — eine minimale Deformation in der Hemmung. Er repariert sie mit Werkzeug. Die Uhr läuft danach permanent rein, **weil der Defekt behoben ist**, nicht weil er ihn magisch "behalten" hat. Vesper selbst deutet es in diesem Moment anders — er hält sich für einen Resonator der Takt überträgt. Die korrekte Deutung findet er erst in Buch 2.
 - Kvarns Taschenuhr (Kap 11): ähnlich, stiller Akt während er an der Welle arbeitet. Null Drift nach der Reparatur.
 
+**Hinweis zur K11-Lesung:** In K11 deuten Vesper und Alphina ihre Erfahrungen als "zwei Modi — Geben und Hören" und Vesper denkt am Ende "es war der Takt in seiner Brust, den er an ein Werk weitergab". Das ist Vespers **Uhrmacher-Übersetzung** seiner Zeit-Magie — er hat kein besseres Vokabular, er denkt in Takten, weil er seit dreizehn Jahren in Takten denkt. Die korrekte Einordnung (Zeit-Verlangsamung macht Mikro-Defekt sichtbar, mechanische Reparatur fixt ihn) findet er erst in Buch 2. Die K11-Passage soll so stehen bleiben: eine Figur mit unvollständiger Theorie, deren Sprache uns die Wahrheit in ihrem Dialekt zeigt. Kein Text-Eingriff nötig.
+
 ### Buch 2 — Yarros
 
 - Er sagt voraus wo der Angriff kommt. Drei Sekunden vorher. Muster + Zeit.
@@ -509,15 +511,29 @@ Schemen sind beschworene Diener aus Moragh — die körperliche Alternative zu k
 
 **Schreibung:** Das Wort ist "der Schemen / die Schemen". Singular und Plural sind identisch.
 
+### Natur: rein magisch, nichts biologisches
+
+**Schemen sind reine Magie-Konstrukte.** Sie haben keine Biologie — keine Zellen, keine Organe, keine Muskeln im anatomischen Sinn. Was wie ein Körper aussieht und sich wie ein Körper verhält, ist eine Magie-Struktur, die dem Schemen durch den Rufer (und ggf. Mit-Spender) beim Ritual gegeben wurde.
+
+**Manche Schemen bringen von Natur aus Magieformen mit** — das heißt: sie kommen aus einer Herkunftsebene, in der bestimmte Magie-Elemente "native" vorhanden sind. Der Rufer holt sie, wie sie sind; welche Elemente sie "mitbringen", hängt von der Ebene und vom Ritual ab. Diese Herkunftsfrage ist im Kanon **nicht abschließend geklärt**.
+
+> 📌 **TODO (Kanon-Reserve):** Wo Schemen herkommen. Welche Ebene, welche Art von Existenz, welche natürlichen Magieformen sie ohne Zutun des Beschwörers mitbringen. Muss vom Autor geklärt werden. Bis dahin bleiben Schemen als "beschworene Wesen aus einer nicht-physischen Ebene" definiert.
+
 ### Substanz
 
-Schemen haben einen **physischen Körper** mit definierter Masse. Der "Rauch" an ihrer Oberfläche ist **emittierte Energie**, kein Substanz-Zustand — wie Schwitzen. Die Energie-Emission tritt automatisch auf, weil Schemen nicht in ihrer Heimat-Ebene sind; ein Schemen, der verborgen bleiben will, kann sie willentlich unterdrücken.
+Schemen haben einen **physischen Körper** mit definierter Masse (in unserer Welt). Der "Rauch" an ihrer Oberfläche ist **emittierte Energie**, kein Substanz-Zustand — wie Schwitzen. Die Energie-Emission tritt automatisch auf, weil Schemen nicht in ihrer Heimat-Ebene sind; ein Schemen, der verborgen bleiben will, kann sie willentlich unterdrücken.
 
 Die Rauch-Energie ist **physisch wirksam**: erwärmt Luft, hinterlässt thermische Spuren, reagiert mit Silberhalogenid auf Fotoplatten, verletzt thalassische Haut bei Kontakt.
 
+### Sprechen — keine biologische Selbstverständlichkeit
+
+Schemen können **nicht automatisch sprechen**, weil sie keine Biologie haben. Sprechen ist eine magische Fähigkeit, die beim Beschwörungs-Ritual mitgegeben werden muss — meist durch einen **Schall-Mitspender** (Schall-Begabter, der kein Rufen haben muss). Der Rufer allein kann einem Schemen Sprache nur dann mitgeben, wenn er selbst Schall-Magie beherrscht.
+
+Varens Schemen in Vael sind bewusst stumm programmiert — er wollte keine Moragh-Hinweise durchsickern lassen. Velmar-Schemen, die sprechen können (z.B. Kalm in Haus Torven), haben einen Schall-Mitspender beim Beschwörungs-Ritual gehabt.
+
 ### Beschwörung
 
-Beschwörung ist ein **Handwerk**, keine Resonanz-Begabung. Wer die Technik kennt und Zugang zu einer Moragh-Quelle oder einer starken Resonanz-Stelle hat, kann Schemen rufen. In Moragh etabliert; in Thalassien extrem selten — Haron Dahl (verstorben, Werft in Vael) war vermutlich der einzige aktive Beschwörer Thalassiens in dieser Generation.
+Beschwörung ist ein **Handwerk-Talent** (Rufen), das jeder Begabte trainieren kann. Sie kann **überall** stattfinden — Quellennähe ist nicht nötig, der Rufer zieht aus seinem eigenen aufgeladenen Magie-Vorrat. In Moragh etabliert; in Thalassien extrem selten — Haron Dahl (verstorben, Werft in Vael) war vermutlich der einzige aktive Beschwörer Thalassiens in dieser Generation.
 
 Bei der Beschwörung definiert der Beschwörer drei Kernparameter:
 
@@ -589,7 +605,7 @@ Energetischer Rauch und plötzliche Entladung sind immer Teil des Endes.
 
 Einschränkungen sind **Bedingungen von Varens Beschwörungen** in Buch 1, nicht biologische Unmöglichkeiten.
 
-- **Sprechen nicht.** Varen hat sie stumm programmiert. Biologisch können Schemen sprechen. Buch 2 bricht das Tabu.
+- **Sprechen nicht.** Varen hat sie stumm programmiert und bei der Beschwörung keinen Schall-Mitspender eingebunden — ohne Schall-Magie im Ritual spricht ein Schemen nicht. Buch 2 bricht das Tabu, wenn Varen oder ein Velmar-Kontakt einen sprechenden Schemen mitgibt.
 - **Töten nicht ohne Not.** Auftrag ist Beobachtung, Markierung, Einschüchterung — nicht Mord. Angegriffen wehren sie sich tödlich (Selbstschutz).
 - **Bleiben verborgen.** Stealth-Doktrin, keine magische Unsichtbarkeit. Sie **weichen aus**, **diffundieren**, **teleportieren**.
 
@@ -613,3 +629,65 @@ Folgende bestehende Kapitel brauchen Anpassung, weil das alte System sie gepräg
 - **B1-K15/K16 (Vesper, Manuskript-Nacht):** Keine Änderung nötig. Das war schon Intellekt-Mustererkennung, jetzt explizit als solche markiert.
 - **B1-Alphina Kapitel:** Die Pflanzen-Beats bleiben. Zusätzlich können Heilungs-Hinweise eingestreut werden (geprellter Fuß, eigener Schnitt). Keine Umschreibung zwingend.
 - **Alle Figuren:** Reichweite bisher nirgends limitiert. In Buch 2/3 relevant — aber kein Bestandsschaden in Buch 1.
+
+---
+
+## B3-Ergänzungen zum Magie-System
+
+Verbindlich ab Buch 3. Widerspricht alten Versionen in diesem Dokument, die frühere Regel-Varianten andeuten.
+
+### Terminologie: Portal-Quelle
+
+Die Quelle unter Vael und die Quelle am Steinplatz in Dravek sind **eine einzige Quelle**, durch eine Raum-Zeit-Anomalie (Wurmloch-Modell) auf beiden Welten sichtbar. Einheitlicher Name: **Portal-Quelle**. Der Begriff „Riss-Quelle" wird in Moragh-Kontext nicht mehr verwendet; „Der Riss" bleibt als Phänomen-Name (Buchtitel).
+
+Zerstörung in einer Welt = gleichzeitiger Kollaps in der anderen. Alphina zerstört sie in B3-Akt IV durch Wachstums-Überladung (Pflanzen-Spur Stufe 10) — konsistent mit ihrer harten Grenze „nur aufbauen, nie direkt zerstören".
+
+### Magie in Thalassien ist Varens Werk
+
+Die vestigiale Resonanz aller Thalassier existiert **nur durch Varens Portal-Öffnungen MZ -3 bis -1**. Seine brachialen Versuche rissen die Raumzeit mehrfach auf; durch diese Mikro-Risse sickert Moragh-Magie nach Thalassien. Ohne Varen keine Resonanz-Begabten. Die historischen Moragh-Flüchtlinge (vor ~200 MZ-Jahren) haben keine Risse erzeugt und ihre Nachkommen magielos gelassen.
+
+Nach Zerstörung der Portal-Quelle am Ende B3 schließen sich die Risse endgültig. Thalassien verliert **alle** Magie permanent. Die fünf Thalassier in Moragh behalten ihre Resonanz (weil physisch in Moragh).
+
+### Fraktions-Magie-Verteilung (fix)
+
+- **Orath / Bund:** Ruft Schemen (auch große, Verwüster-Klasse). **Bindet nicht** — Bund-Doktrin lehnt Bindung als Sklaverei ab. Ruf-Schemen halten 2–3 Tage.
+- **Thar / Konglomerat:** Weder rufen noch binden. Reine Magitech-Bestien-Industrie mit Reiter-Pilotierung.
+- **Velmar:** Rufen + Binden als Kulturkern. Haus-Tradition, vererbbare Bindungen (Stufe 9).
+- **Varen (Sonderfall):** Velmar-Verstoßener (Haus Keth aus Mar-Keth). Rufen + Binden + Druck/Gravitation + angelernte Zeit = einzige Person in Moragh, die **allein Portale öffnen** kann.
+
+### Portal-Öffnen
+
+Braucht **Druckmanipulation UND Zeitmanipulation** gleichzeitig (Raum + Zeit). In Moragh hat nur Varen beide Talente. Velmar-Binder haben Druck, Zeit ist selten (Vesper ist Thalassier-Zeit-Resonator, kann nur im Ritual-Verbund wirken).
+
+**Die Expedition 2 umgeht das** durch einen rein technischen **Resonanz-Modulator** (kohärente elektromagnetische Frequenzmodulation, 2110er-Thalassien-Tech). Hält 72 Stunden offen, schmilzt dann. Basis: jahrzehntelange Sensor-Messungen am Steinkreis. Kein Purpurstein (Quellenmaterial verliert Magie beim Abschlagen).
+
+### Talent-Übertragung auf Schemen (neu)
+
+Ein Moragh-Magier mit Bindungsmagie kann ein **spezifisches Talent** (Kraft, Präzision, eine Magie-Form, Wahrnehmung) auf einen gebundenen Schemen übertragen. Der Schemen wirkt das Talent selbst — er ist Agent, nicht Werkzeug. Sein Reservoir erschöpft sich beim Wirken; bei leerem Reservoir verschwindet er (gebunden oder ungebunden, egal).
+
+Varen nutzt diese Fähigkeit unter anderem:
+- **In B3 Akt II:** Ein aufgeladener Schemen mit Tötungs-Talent ermordet Elke.
+- **In B3 Akt IV (Duell):** Ein aufgeladener Schemen mit Bindungsmagie zerkocht Vespers linken Unterarm. Schemen löst sich anschließend auf. Dieses Bild ist Alphinas rückwirkende Erkenntnis von Elkes Mord.
+
+**Tyra-Ausnahme:** Tyra Halvard (einzige Überlebende der Forschungs-Expedition, Thalassierin mit Schall-Resonanz) kann Talent-Übertragung auch bei **temporären Rufungen** (nicht nur Bindungen) anwenden — möglich durch thalassische Azyklizität. Zwei kleine Schall-Schemen bilden einen Fernsprecher (jeder überträgt die Stimme des anderen Standorts). Relevant für die Gruppenkoordination in Akt IV.
+
+### Quellen-Reparatur (Varens Hoffnungs-Betrug)
+
+Alphinas thalassische Resonanz **kann tatsächlich** einen Puls in eine tote Quelle injizieren — die Quelle pulsiert für Tage wieder, Wärme kehrt kurz in den Stein zurück. **Aber:** Ein einzelner Puls hält nicht. Für dauerhafte Versorgung (200.000 Menschen pro Quelle) bräuchte man hundert Thalassier über Generationen. Unerreichbar.
+
+Varen verschweigt Alphina diese energetische Unmöglichkeit. Sie glaubt, sie seien Pioniere. Jede Sitzung entzieht ihr zusätzlich Resonanz über den B2-Anker (siehe `19-varen.md`) in Varens Speicher — der echte Zweck. Der Betrug liegt in der Ausblendung der Unmöglichkeit, nicht in simulierter Physik.
+
+### Schemen-Reaktion auf verbotene Praxis
+
+**Niedrig-schleichender Indikator** für Figuren, die viele Schemen opfern (z.B. Talven in B3):
+- Früh: ungebundene Schemen zögern, weichen aus.
+- Mittel: Schemen meiden 5–10 m Umkreis aktiv.
+- Spät: ungebundene Schemen lösen sich in der Gegenwart auf (gehen in die Heimat-Ebene zurück). Gebundene zerren an ihren Bindungen, versuchen zu fliehen.
+
+Wird im Text **nicht erklärt**, nur beschrieben. Leserin baut das Bild aus den Szenen auf.
+
+### Varens Ritual-Plan (kommt nicht zur Ausführung)
+
+Varens B3-Projekt war, **vier Thalassier-Resonanzen in sich zu absorbieren** (Alphina, Vesper, Runa, Tyra als Ersatz für die tote Maren). Folgen wären gewesen: Varen wird preisfreier Magier (Thalassier-Resonanz ist azyklisch) + behält Portal-Öffnungs-Monopol = einziger Gatekeeper zwischen den Welten. Rache an Velmar (er übertrumpft die Kaste technisch) + persönliche Macht maximiert.
+
+Das Ritual wird im Duell **nicht vollzogen** — Duell bricht vorher aus. Es bleibt Drohung und Plan, und Zeugnis für Varens Egomane-Motiv.
