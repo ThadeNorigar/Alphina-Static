@@ -89,3 +89,8 @@ print(f'generate-lesen: {count} Kapitel-Seiten generiert')
 if [ -f scripts/lektorat-versions.py ]; then
   "$PYTHON" scripts/lektorat-versions.py 2>&1 | tail -3 || echo "  (lektorat-versions: Fehler ignoriert)"
 fi
+
+# Website-Daten (Synopsen + Figuren) aus buch/*.md generieren
+if [ -f scripts/build-web.py ]; then
+  "$PYTHON" -X utf8 scripts/build-web.py 2>&1 | tail -12 || echo "  (build-web: Fehler ignoriert)"
+fi

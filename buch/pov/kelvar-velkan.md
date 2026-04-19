@@ -1,3 +1,17 @@
+---
+name: General Kelvar Velkan
+slug: kelvar-velkan
+typ: hauptfigur
+pov: true
+ordner: pov
+welt: thalassien
+reihenfolge: 35
+# alter:
+# fraktion:
+# rolle:
+# buecher: [1, 2, 3]
+---
+
 # General Kelvar Velkan — POV-Dossier
 
 **Letzte Aktualisierung:** 2026-04-19

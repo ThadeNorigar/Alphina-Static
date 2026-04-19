@@ -1,3 +1,16 @@
+---
+name: Irenna Torven
+slug: irenna-torven
+typ: nebenfigur
+pov: false
+ordner: nebenfiguren
+welt: moragh
+# alter:
+# fraktion:
+# rolle:
+# buecher: [1, 2, 3]
+---
+
 # Irenna Torven — Nebenfigur
 
 **Status:** Nebenfigur. Aktiver Kanon.

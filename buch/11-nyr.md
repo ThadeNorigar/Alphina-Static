@@ -1,8 +1,24 @@
+---
+name: Nyr
+slug: nyr
+typ: hauptfigur
+pov: true
+ordner: buch
+welt: moragh
+reihenfolge: 65
+alter: "~30"
+fraktion: "Konglomerat der Thar"
+rolle: "Thar-Reiterin"
+buecher: [2, 3]
+---
+
 # Nyr — Thar-Reiterin
+
+![Nyr mit Kessler vor der Thar-Stadt](/img/nyr.png)
 
 ## Figur
 
-**Nyr.** Moragh-geboren, Konglomerat der Thar. Dreißig. Breite Schultern, kurzes Haar, Narben an den Unterarmen vom heißen Metall. Spricht wenig, und wenn, dann wie Befehle. Nicht unfreundlich — effizient. Schwarze Rüstung, geschlossener Helm. Wenn sie den Helm abnimmt: dunkle Augen, ein Gesicht das härter ist als es sein müsste.
+**Nyr.** Moragh-geboren, Konglomerat der Thar. Dreißig. Breite Schultern, kurzes dunkelbraunes Haar, helle Haut, Narben an den Unterarmen vom heißen Metall. Spricht wenig, und wenn, dann wie Befehle. Nicht unfreundlich — effizient. Schlanke schwarze Panzerung aus Eisen mit sichtbaren Nieten, geschlossener Helm. Wenn sie den Helm abnimmt: stahlgraue Augen, ein Gesicht das härter ist als es sein müsste.
 
 **Resonanz: Druck.** Reiner Druck. Luft zusammenpressen, Metall verbiegen, auf kurze Distanz Knochen brechen ohne Berührung. Normale Nutzung: Müdigkeit, Muskelkater, Hunger. Morgens wieder fit.
 

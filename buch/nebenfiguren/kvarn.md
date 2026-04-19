@@ -1,3 +1,16 @@
+---
+name: Kvarn
+slug: kvarn
+typ: nebenfigur
+pov: false
+ordner: nebenfiguren
+welt: moragh
+# alter:
+# fraktion:
+# rolle:
+# buecher: [1, 2, 3]
+---
+
 # Kvarn — Nebenfigur
 
 **Status:** Nebenfigur. Aktiver Kanon.

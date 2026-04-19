@@ -11,7 +11,7 @@
     "lektorat",
     "final"
   ],
-  "_pipeline_v2_doc": "Neue Pipeline (ab 2026-04-09): idee â†’ entwurf â†’ entwurf-checked â†’ entwurf-ok â†’ ausarbeitung â†’ lektorat â†’ final. Felder pro Kapitel: 'entwurfs_datei' (Pflicht ab 'entwurf'), 'datei' (Pflicht ab 'lektorat'). Alte Stati 'szenenplan/council/checked' bleiben fuer Rueckwaertskompatibilitaet, werden in neuer Pipeline nicht mehr gesetzt. Siehe docs/superpowers/specs/2026-04-09-kapitel-pipeline-umbau-design.md",
+  "_pipeline_v2_doc": "Neue Pipeline (ab 2026-04-09): idee â†’ entwurf â†’ entwurf-checked â†’ entwurf-ok â†’ ausarbeitung â†’ lektorat â†’ final. Felder pro Kapitel: 'entwurfs_datei' (Pflicht ab 'entwurf'), 'datei' (Pflicht ab 'lektorat'). Alte Stati 'szenenplan/council/checked' bleiben für Rueckwaertskompatibilitaet, werden in neuer Pipeline nicht mehr gesetzt. Siehe docs/superpowers/specs/2026-04-09-kapitel-pipeline-umbau-design.md",
   "buch1": {
     "meta": {
       "titel": "Der Riss",
@@ -298,7 +298,7 @@
         "pov": "Alphina",
         "status": "szenenplan",
         "woerter": null,
-        "text": "Varen tritt aus dem Schatten. Groß, muskulös, graue Schläfen, purpurne Augen. Spricht altes Thalassisch. Kennt ihre Namen. Legt die Hand an Alphinas Kinn. 'Deine Resonanz. Ich habe sie durch den Riss gespuert. Ueber vierhundert Jahre.' 4:33 war nie die Frequenz des Risses — sondern Varens Signatur."
+        "text": "Varen tritt aus dem Schatten. Groß, muskulös, graue Schläfen, purpurne Augen. Spricht altes Thalassisch. Kennt ihre Namen. Legt die Hand an Alphinas Kinn. 'Deine Resonanz. Ich habe sie durch den Riss gespuert. Über vierhundert Jahre.' 4:33 war nie die Frequenz des Risses — sondern Varens Signatur."
       },
       "37": {
         "titel": "Alphina",
@@ -425,7 +425,7 @@
         "datei": "09-alphina.md"
       },
       "I3": {
-        "titel": "Das Grosse Feuer",
+        "titel": "Das Große Feuer",
         "pov": "Elke",
         "status": "final",
         "entwurfs_datei": "B1-I3-entwurf.md",
@@ -783,7 +783,7 @@
         "pov": "Varen",
         "status": "idee",
         "woerter": null,
-        "text": "Rueckblende. Varen unter Mar-Keth, drei Quellen, das Coupling-Experiment. Er will helfen. Durchschlag. Stille. Staub. 200.000 Menschen heimatlos. Kein Kalkuel -- Hybris. Velmar stoesst ihn aus, verdeckt. Er steht allein in den Ruinen."
+        "text": "Rueckblende. Varen unter Mar-Keth, drei Quellen, das Coupling-Experiment. Er will helfen. Durchschlag. Stille. Staub. 200.000 Menschen heimatlos. Kein Kalkuel -- Hybris. Velmar stößt ihn aus, verdeckt. Er steht allein in den Ruinen."
       },
       "I5": {
         "titel": "Vierhundert Jahre",
@@ -797,7 +797,7 @@
         "pov": "Varen",
         "status": "idee",
         "woerter": null,
-        "text": "Gegenwart. Varen beobachtet durch Schemen wie der Bund Alphina zur Waffe schult. Er sieht ihre Farbe kippen -- gruen zu schwarz/rot. Dieselbe Ueberladung die er selbst ausgeloest hat, jetzt in einem Menschen. Er koennte warnen. Muesste sich offenbaren. Tut es nicht. Auf seiner Karte: die naechsten Quellen auf der Bund-Todesliste. Er entscheidet zu handeln."
+        "text": "Gegenwart. Varen beobachtet durch Schemen wie der Bund Alphina zur Waffe schult. Er sieht ihre Farbe kippen -- grün zu schwarz/rot. Dieselbe Ueberladung die er selbst ausgeloest hat, jetzt in einem Menschen. Er könnte warnen. Müsste sich offenbaren. Tut es nicht. Auf seiner Karte: die nächsten Quellen auf der Bund-Todesliste. Er entscheidet zu handeln."
       },
       "I3": {
         "titel": "Elke und die Bund-Meisterin: das Angebot",
@@ -1106,14 +1106,14 @@
         "pov": "Maren",
         "status": "idee",
         "woerter": null,
-        "text": "~1960. Maren ist alt. Das Schwellenforschungsinstitut hat 40 Mitarbeiter, einen Lehrstuhl, Messgeraete die Resonanz-Restfelder kartieren. Vael-Anomalien schwaecher aber messbar. Sie vermisst Vespers Haende. Schreibt ihm einen Brief den sie nie abschicken kann."
+        "text": "~1960. Maren ist alt. Das Schwellenforschungsinstitut hat 40 Mitarbeiter, einen Lehrstuhl, Messgeraete die Resonanz-Restfelder kartieren. Vael-Anomalien schwaecher aber messbar. Sie vermisst Vespers Hände. Schreibt ihm einen Brief den sie nie abschicken kann."
       },
       "I9": {
         "titel": "Das Testament",
         "pov": "Maren",
         "status": "idee",
         "woerter": null,
-        "text": "~2200. Maren ist lange tot. Ihr Portrait im Foyer. Eine junge Forscherin liest Marens letzten Eintrag: 'Der Stein ist kaelter geworden. Aber er schlaegt noch. Wenn ihr es schafft ihn zu oeffnen -- sagt Vesper, dass die Uhr auf dem Nachttisch immer noch null Drift hat.' Die Expedition wird vorbereitet. Sie oeffnen das Portal. Auf der anderen Seite: Thar-Spaeher."
+        "text": "~2200. Maren ist lange tot. Ihr Portrait im Foyer. Eine junge Forscherin liest Marens letzten Eintrag: 'Der Stein ist kaelter geworden. Aber er schlaegt noch. Wenn ihr es schafft ihn zu öffnen -- sagt Vesper, dass die Uhr auf dem Nachttisch immer noch null Drift hat.' Die Expedition wird vorbereitet. Sie öffnen das Portal. Auf der anderen Seite: Thar-Spaeher."
       }
     }
   }

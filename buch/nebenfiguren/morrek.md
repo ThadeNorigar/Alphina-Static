@@ -1,3 +1,16 @@
+---
+name: Morrek
+slug: morrek
+typ: nebenfigur
+pov: false
+ordner: nebenfiguren
+welt: moragh
+# alter:
+# fraktion:
+# rolle:
+# buecher: [1, 2, 3]
+---
+
 # Morrek — Nebenfigur
 
 **Status:** Nebenfigur. Aktiver Kanon.

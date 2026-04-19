@@ -1,3 +1,17 @@
+---
+name: Dr. Syra Halvard
+slug: syra-halvard
+typ: hauptfigur
+pov: true
+ordner: pov
+welt: thalassien
+reihenfolge: 45
+# alter:
+# fraktion:
+# rolle:
+# buecher: [1, 2, 3]
+---
+
 # Dr. Syra Halvard — POV-Dossier
 
 **Letzte Aktualisierung:** 2026-04-19

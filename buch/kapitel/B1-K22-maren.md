@@ -14,7 +14,7 @@ Sie hatte sie nicht gesehen, als sie eingetreten war. Jetzt sah sie sie. Drei Bl
 
 Sie ging hinüber und kniete sich auf die alte Bohle. Die Pflanze vor ihr war zwei Handbreit hoch, drei Blätter, der Stängel hellgrün mit einem dunkleren Faden in der Mitte — oder war es ein violetter? Maren drehte den Kopf einen Finger breit, bis das Licht aus dem hohen Hallenfenster anders fiel, und da lief er sehr fein parallel zum Stängel, ein Ton, der erst bei bestimmter Lichtschräge sichtbar wurde. Kein Grün, das sie von der Grauküste kannte, trug eine Ader in dieser Farbe.
 
-Sie legte den Zeigefinger an das unterste Blatt. Die Oberseite war kühl und glatt und fast wächsern, die Unterseite warm — handwarm, als hätte eine Haut an der Fuge gelegen, kurz bevor Maren selbst gekommen war. Sie drehte das Blatt vorsichtig, und das Blatt drehte ein wenig mit, so wenig, dass sie es nicht hätte beweisen können, gerade so viel, dass sie die Hand zurückzog und wartete, ob es weitergehen würde. Es bewegte sich nicht weiter. Das Blatt hing zurück in seine alte Lage.
+Sie legte den Zeigefinger an das unterste Blatt. Die Oberseite war kühl und glatt und fast wächsern, die Unterseite warm — handwarm, als hätte eine Haut an der Fuge gelegen, kurz bevor Maren selbst gekommen war. Sie drehte das Blatt vorsichtig, und das Blatt drehte ein wenig mit. Nicht genug zum Beweisen. Genug, dass sie die Hand zurückzog und wartete, ob es weitergehen würde. Es bewegte sich nicht weiter. Das Blatt hing zurück in seine alte Lage.
 
 An der Bruchstelle am Stiel, wo ihr Nagel hineingeraten war, saß ein Geruch, der süß war und dicht, und unter dem Süßen lag ein metallischer Ton, den sie von zwischen die Zähne geratenem Kupfer kannte. Es war kein Moos und keine Faulnis und nichts vom brackigen Zug der Grauwe — nichts, was eine Küstenstadt mit hundert Salzpflanzen je hervorgebracht hatte.
 
@@ -44,7 +44,7 @@ Am Werft-Tor griff Maren in die Hosentasche nach dem Schlüssel, einmal drehen, 
 
 „Da hinten", sagte Maren, und Alphina hörte nicht zu — sie hatte schon gesehen.
 
-Sie ging durch die Halle, langsam, ohne die Werkbank zu streifen, ohne das Boot zu berühren, ohne auf die Werkzeuge an den Haken zu schauen. Ihre Schritte waren leise auf den Bohlen.
+Sie ging durch die Halle, langsam, ohne die Werkbank zu streifen oder das Boot zu berühren. Die Werkzeuge an den Haken ließ sie unbeachtet. Ihre Schritte waren leise auf den Bohlen.
 
 Am hinteren Ende blieb Alphina stehen und sah die Pflanze. Eine lange Sekunde lang bewegte sie sich nicht — nicht die Hand, nicht den Kopf, nicht den Atem. Dann ging sie in die Hocke.
 
@@ -54,9 +54,9 @@ Dann blieb sie noch zwei, drei Atemzüge in der Hocke. Sie sah die Pflanze nicht
 
 „Die kenne ich nicht. Ich kann sie nicht kennen. Die gehört nicht hierher."
 
-Alphina griff nach dem Notizbuch, schlug eine leere Seite auf, nahm den Bleistift aus der Bindung und zeichnete schnell: drei flache Umrisse für die Blätter, eine Linie für den Stängel, die Fuge in Schraffur. Ein kurzes Wort daneben, das Maren aus der Hocke nicht lesen konnte. Dann legte sie das Notizbuch neben sich auf die Bohle zurück und blieb in der Hocke.
+Alphina griff nach dem Notizbuch, schlug eine leere Seite auf, nahm den Bleistift aus der Bindung und zeichnete schnell: drei flache Umrisse für die Blätter, eine Linie für den Stängel, die Fuge in Schraffur. Ein kurzes Wort daneben, das Maren aus der Hocke nicht lesen konnte.
 
-Dann stand Alphina kurz auf, ging zur Werkbank und legte das Notizbuch dort ab. Kam zurück, kniete sich wieder an die gleiche Stelle und sah Maren an.
+Alphina stand auf, legte das Notizbuch auf die Werkbank und kam zurück. Sie kniete sich wieder an die gleiche Stelle und sah Maren an.
 
 „Ich möchte etwas versuchen. Du bleibst, wo du bist."
 
@@ -136,13 +136,11 @@ Sie nahm den Hobel aus dem Halter, legte ihn quer auf die Werkbank, nahm das Sch
 
 Sie arbeitete. Ihre Hände wussten, was sie taten. Die Arme, die Schultern, der ganze Körper wusste es. Während der Hobel über das Holz zog, bewegten sich die Gedanken in derselben gleichmäßigen Richtung.
 
-Eine Pflanze, die nicht hierher gehörte, aus einer Fuge in ihrer Werft. Ein Hafenwasser, das zu warm war, bis über die Knöchel. Die Gestalt, die nachts am Boot gestanden hatte, drei Wochen her. Das Pochen unter der Erde, eine Nacht, einmal. Das rückwärtsfließende Wasser, das Tohl ihr damals gezeigt hatte. Und vor zwei Tagen das Wesen im Steinkreis — sie hatten es zu viert festgehalten, bis die Wurzeln es hielten und kein Körper mehr da war.
-
-Vorher war immer ein Zeichen vorausgegangen, irgendeine Erschütterung im Voraus. Heute nichts davon. Die Dinge waren einfach da gewesen, als sie aufgeschlossen hatte.
+Eine Pflanze, die nicht hierher gehörte, aus einer Fuge in ihrer Werft. Ein Hafenwasser, das zu warm war, bis über die Knöchel. Vorher — die Gestalt, das Pochen, das rückwärtsfließende Wasser, das Wesen im Steinkreis — war immer ein Zeichen vorausgegangen, eine Erschütterung im Voraus. Heute nicht. Die Dinge waren einfach da gewesen, als sie aufgeschlossen hatte.
 
 Sie setzte den Hobel ab, strich mit der flachen Hand über die Planke. Die Wölbung war weg; die Planke lag glatt.
 
-Eine Planke gab nach, oder sie hielt. Dazwischen gab es nichts, das man greifen konnte. Maren kannte den Moment, in dem Holz sich entscheidet — es war ein bestimmter Druck, eine bestimmte Feuchte, ein bestimmter Winkel. Heute war sie nicht sicher, ob das, was sie spürte, Lärche war.
+Heute war sie nicht sicher, ob das, was sie spürte, Lärche war.
 
 Sie arbeitete weiter, ohne die Werft zu verlassen, auch als Edric gegen Mittag zurückkam. Er registrierte das Tor, das von innen verriegelt war, nickte und fragte nichts. Maren deutete mit dem Kopf zur hinteren Wand. Edric ging einmal hin, blieb zehn Atemzüge dort stehen, kam zurück, nahm den Hobel vom Haken und fing an, die nächste Planke zu kanten. Kein Wort.
 
@@ -154,7 +152,7 @@ Der Weg zum *Anker* war sechs Minuten durch die Hafengasse, am Steg vorbei, wo d
 
 ---
 
-Der Schankraum war halb besetzt. Zwei Männer am langen Tisch, das Bier dunkel vor ihnen, eine Frau vorne am Ofen, der Rücken zur Tür, die Wirtsfrau hinter der Theke mit einem feuchten Lappen über dem Tresenholz. Keiner drehte sich um, als Maren eintrat. Sie ging durch, hinten links, den kurzen Flur entlang, zur kleinen Stube, in der Vesper seinen Reparaturtisch hatte. Die Tür stand einen Finger breit offen. Der Spalt war ihr vertraut.
+Der Schankraum war halb besetzt. Zwei Männer saßen am langen Tisch, das Bier dunkel vor ihnen. Eine Frau stand am Ofen, den Rücken zur Tür. Die Wirtsfrau fuhr hinter der Theke mit einem feuchten Lappen über das Tresenholz. Keiner drehte sich um, als Maren eintrat. Sie ging durch, hinten links, den kurzen Flur entlang, zur kleinen Stube, in der Vesper seinen Reparaturtisch hatte. Die Tür stand einen Finger breit offen. Der Spalt war ihr vertraut.
 
 Sie schob sie mit dem Ellbogen auf, so weit, dass sie eintreten konnte, und blieb auf der Schwelle einen halben Atemzug stehen. Der Raum hatte eine Ordnung, die ihm gehörte — die Petroleumlampe genau über der Arbeitsfläche, die Werkzeuge nach Länge aufgereiht, das schwarze Samttuch auf dem Tisch ohne Falte. Sie trat ein.
 
@@ -188,14 +186,16 @@ Er legte das Blatt zurück auf den Samt, zwei Finger weiter weg vom Uhrwerk, als
 
 Er nahm die Pinzette wieder auf, setzte sie an eine der kleinen Federn, hob sie an und legte sie ins Werk zurück. Die Bewegung war dieselbe, mit der er seit Jahren Uhren zusammenbaute, eine Geste aus der Hand, nicht aus dem Kopf.
 
-Das Blatt blieb liegen, zwei Finger weiter weg vom Uhrglas, als es vorher gelegen hatte, zwei Handbreit näher an ihrer Kiste, auf der freien Fläche des schwarzen Samttuchs, genau dort, wo er es zurückgelegt hatte.
+Das Blatt blieb, wo er es hingelegt hatte.
 
-Sie saß, er arbeitete. Die Petroleumlampe gab einen gleichmäßigen, schmalen Kreis von Licht ab, der das Blatt und das Uhrwerk und die Kanten ihrer beider Hände erreichte und am Rand des Samtes auslief. Der Takt der Standuhr an der Rückwand ging weiter. Aus der offenen Uhrwerkdose stand der Geruch von Öl in der Stube. Das Blatt lag leise und unbewegt auf dem Samt und gehörte nicht hierher — weder in den *Anker* noch in die Werft noch in die Stadt, die Maren seit neun Wochen kannte.
+Sie saß, er arbeitete. Die Petroleumlampe gab einen gleichmäßigen, schmalen Kreis von Licht ab, der das Blatt und das Uhrwerk und die Kanten ihrer beider Hände erreichte und am Rand des Samtes auslief. Der Takt der Standuhr an der Rückwand ging weiter. Aus der offenen Uhrwerkdose stand der Geruch von Öl in der Stube. Das Blatt lag leise und unbewegt auf dem Samt und trug keinen Namen, den sie kannte — kein Ding aus dem *Anker*, der Werft, der Hafengasse.
 
 Keiner sprach. Das Schweigen trug, wie es auch am Abend zuvor getragen hatte, als sie das Symbolblatt gebracht hatte.
 
 Ihre Hände lagen auf den Oberschenkeln. Sie waren warm. Die Wärme kam aus der Stube, nicht von der Grauwe und nicht vom Weg hierher.
 
-Irgendwann hob Vesper den Kopf. Er sah sie an, länger als vorher. Etwas um den Mund veränderte sich, kaum merklich, und einen Atemzug lang lag in seinem Gesicht, das sonst ernst war, ein Lächeln. Dann beugte er sich wieder über das Werk.
+Irgendwann hob Vesper den Kopf. Er sah sie an, länger als vorher. Etwas um den Mund veränderte sich. Einen Atemzug lang lächelte er. Dann beugte er sich wieder über das Werk.
+
+In Marens Schoß breitete sich Wärme aus. Der Atem stockte für einen halben Herzschlag. Auf der Oberlippe schmeckte sie Metall, das sie den ganzen Tag getragen hatte, ohne es zu spüren.
 
 Sie blieb sitzen.

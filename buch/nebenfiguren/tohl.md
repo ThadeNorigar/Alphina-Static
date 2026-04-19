@@ -1,3 +1,16 @@
+---
+name: Tohl Daverin
+slug: tohl
+typ: nebenfigur
+pov: false
+ordner: nebenfiguren
+welt: moragh
+# alter:
+# fraktion:
+# rolle:
+# buecher: [1, 2, 3]
+---
+
 # Tohl Daverin — Nebenfigur
 
 **Status:** Nebenfigur. Aktiver Kanon.

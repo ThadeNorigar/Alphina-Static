@@ -1,3 +1,16 @@
+---
+name: Ormek
+slug: ormek
+typ: nebenfigur
+pov: false
+ordner: nebenfiguren
+welt: moragh
+# alter:
+# fraktion:
+# rolle:
+# buecher: [1, 2, 3]
+---
+
 # Ormek — Nebenfigur
 
 **Status:** Nebenfigur. Aktiver Kanon.

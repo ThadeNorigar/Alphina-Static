@@ -1,3 +1,16 @@
+---
+name: Lene Dahl
+slug: lene-dahl
+typ: nebenfigur
+pov: false
+ordner: nebenfiguren
+welt: thalassien
+# alter:
+# fraktion:
+# rolle:
+# buecher: [1, 2, 3]
+---
+
 # Lene Dahl — Nebenfigur (TZ 154)
 
 **Status:** Nebenfigur. Aktiver Kanon. TZ-154-Interludien.

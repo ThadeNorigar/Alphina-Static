@@ -11,826 +11,309 @@
       --cream: #f5f0e8; --ink: #1e1c19; --muted: #6b6259;
       --accent: #6b3a3a; --deep: #0f0e0c; --smoke: #8a8279;
       --paper: #f8f4ee; --paper-edge: #e8e0d4;
-      --gold: #b8860b; --purple: #6a5080;
+      --thal: #b8860b; --thal-faint: rgba(184,134,11,0.12);
+      --moragh: #6b3a3a; --moragh-faint: rgba(107,58,58,0.12);
+      --beide: #6a5080; --beide-faint: rgba(106,80,128,0.12);
     }
     body {
       background: var(--deep); display: flex; justify-content: center;
       padding: 2rem 1rem; min-height: 100vh;
     }
     nav { display: none; }
-    .wrap { width: 100%; max-width: 900px; }
+    .wrap { width: 100%; max-width: 940px; }
 
-    .page-title {
-      text-align: center; padding: 1rem 0 0.3rem;
+    .top-bar {
+      display: flex; justify-content: space-between; align-items: baseline;
+      padding: 0.5rem 0.3rem 1.2rem;
+      font-family: 'Cormorant Garamond', serif; font-size: 0.8rem;
+      letter-spacing: 0.12em;
+    }
+    .top-bar a {
+      color: var(--smoke); text-decoration: none;
+      border-bottom: 1px solid transparent; padding-bottom: 2px;
+      transition: color 0.25s, border-color 0.25s;
+    }
+    .top-bar a:hover { color: var(--paper-edge); border-bottom-color: var(--smoke); }
+    .page-label {
+      font-family: 'Cormorant Garamond', serif; font-size: 0.65rem;
+      letter-spacing: 0.35em; text-transform: uppercase; color: var(--smoke);
+    }
+
+    .intro {
+      text-align: center; padding: 0 0 1.5rem;
+      font-family: 'Cormorant Garamond', serif; font-size: 0.88rem;
+      color: var(--smoke); line-height: 1.8;
+    }
+
+    .filter-bar {
+      display: flex; gap: 0.5rem; justify-content: center; flex-wrap: wrap;
+      padding: 0 0 1.5rem;
+    }
+    .filter-btn {
+      display: flex; align-items: center; gap: 0.4rem; padding: 0.3rem 0.7rem;
+      border-radius: 2px; font-family: 'Inter', sans-serif; font-size: 0.65rem;
+      letter-spacing: 0.05em; cursor: pointer; user-select: none;
+      border: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.03);
+      color: var(--smoke); transition: all 0.2s;
+    }
+    .filter-btn.active { border-color: rgba(255,255,255,0.2); background: rgba(255,255,255,0.08); color: var(--paper-edge); }
+    .filter-btn:hover { border-color: rgba(255,255,255,0.25); }
+    .filter-dot { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; }
+
+    .section-header {
       font-family: 'Cormorant Garamond', serif; font-size: 0.7rem;
-      letter-spacing: 0.4em; text-transform: uppercase; color: var(--smoke);
-    }
-    .page-subtitle {
-      text-align: center; padding: 0 0 0.8rem;
-      font-family: 'Cormorant Garamond', serif; font-size: 1.1rem;
-      color: var(--paper-edge); letter-spacing: 0.05em;
-    }
-    .top-links {
-      text-align: center; padding: 0 0 2rem;
-      font-family: 'Cormorant Garamond', serif; font-size: 0.85rem;
-      letter-spacing: 0.1em;
-    }
-    .top-links a {
-      color: var(--paper-edge); text-decoration: none;
-      border-bottom: 1px solid var(--smoke);
-      padding-bottom: 2px; transition: all 0.3s;
-    }
-    .top-links a:hover {
-      color: var(--accent); border-bottom-color: var(--accent);
+      letter-spacing: 0.35em; text-transform: uppercase; color: var(--smoke);
+      padding: 1.8rem 0.3rem 0.8rem; border-bottom: 1px solid rgba(255,255,255,0.06);
+      margin-bottom: 1.2rem;
     }
 
-    /* Section Headers */
-    .section-label {
-      font-family: 'Cormorant Garamond', serif;
-      font-size: 0.65rem; letter-spacing: 0.35em; text-transform: uppercase;
-      color: var(--smoke); text-align: center;
-      margin: 3rem 0 1.5rem; padding-bottom: 0.5rem;
-      border-bottom: 1px solid rgba(138,130,121,0.2);
+    .figuren-grid {
+      display: grid; grid-template-columns: 1fr; gap: 1.4rem;
     }
 
-    /* Character Card */
-    .char-card {
-      background: rgba(245,240,232,0.03);
-      border: 1px solid rgba(138,130,121,0.15);
-      border-radius: 4px;
-      margin-bottom: 1.5rem;
-      overflow: hidden;
-      transition: border-color 0.3s;
+    .fig-card {
+      background: var(--paper); border-radius: 2px 6px 6px 2px;
+      box-shadow: 0 0 0 1px var(--paper-edge), 0 8px 24px rgba(0,0,0,0.25);
+      position: relative; overflow: hidden;
     }
-    .char-card:hover {
-      border-color: rgba(138,130,121,0.3);
+    .fig-card::before {
+      content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 3px;
+      background: var(--paper-edge);
     }
-    .char-header {
-      display: flex; gap: 1.5rem; padding: 1.5rem;
-      cursor: pointer; align-items: flex-start;
-    }
-    .char-img {
-      width: 120px; height: 120px; border-radius: 50%;
-      object-fit: cover; flex-shrink: 0;
-      transition: transform 0.2s;
-    }
-    .char-img:hover {
-      transform: scale(1.04);
-    }
-    .image-modal {
-      position: fixed; inset: 0;
-      background: rgba(0, 0, 0, 0.92);
-      display: none; justify-content: center; align-items: center;
-      z-index: 9999; cursor: zoom-out; padding: 2rem;
-      animation: fadeIn 0.18s ease-out;
-    }
-    .image-modal.open { display: flex; }
-    .image-modal img {
-      max-width: 95vw; max-height: 95vh;
-      border-radius: 6px;
-      box-shadow: 0 20px 80px rgba(0, 0, 0, 0.5);
-      animation: zoomIn 0.22s cubic-bezier(0.2, 0.9, 0.3, 1.2);
-    }
-    .image-modal-caption {
-      position: absolute; bottom: 1.5rem; left: 0; right: 0;
-      text-align: center;
-      font-family: 'Cormorant Garamond', serif;
-      font-size: 0.9rem; letter-spacing: 0.2em;
-      color: #c8bfb0;
-    }
-    .image-modal-close {
-      position: absolute; top: 1rem; right: 1.5rem;
-      font-family: 'Cormorant Garamond', serif;
-      color: #c8bfb0; font-size: 1.8rem; line-height: 1;
-      cursor: pointer; user-select: none;
-    }
-    @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
-    @keyframes zoomIn {
-      from { transform: scale(0.85); opacity: 0; }
-      to { transform: scale(1); opacity: 1; }
-    }
-    .char-img-placeholder {
-      width: 120px; height: 120px; border-radius: 50%;
-      flex-shrink: 0;
-      border: 2px solid rgba(138,130,121,0.15);
-      background: rgba(138,130,121,0.05);
-      display: flex; align-items: center; justify-content: center;
-      font-family: 'Cormorant Garamond', serif;
-      font-size: 2rem; color: rgba(138,130,121,0.3);
-    }
-    .char-intro { flex: 1; min-width: 0; }
-    .char-name {
-      font-family: 'Cormorant Garamond', serif;
-      font-size: 1.4rem; color: var(--cream);
-      margin: 0 0 0.2rem; letter-spacing: 0.05em;
-    }
-    .char-role {
-      font-family: 'Inter', sans-serif;
-      font-size: 0.75rem; color: var(--smoke);
-      letter-spacing: 0.1em; text-transform: uppercase;
-      margin: 0 0 0.6rem;
-    }
-    .char-quote {
-      font-family: 'Cormorant Garamond', serif;
-      font-size: 0.95rem; color: var(--muted);
-      font-style: italic; line-height: 1.5;
-    }
-    .char-toggle {
-      font-family: 'Inter', sans-serif; font-size: 0.65rem;
-      color: var(--smoke); letter-spacing: 0.1em;
-      text-transform: uppercase; margin-top: 0.5rem;
+    .fig-card[data-welt="thalassien"]::before { background: var(--thal); }
+    .fig-card[data-welt="moragh"]::before { background: var(--moragh); }
+    .fig-card[data-welt="beide"]::before {
+      background: linear-gradient(180deg, var(--thal) 0%, var(--moragh) 100%);
     }
 
-    /* Steckbrief Table */
-    .char-body {
+    .fig-head {
+      display: flex; justify-content: space-between; align-items: baseline;
+      padding: 1.3rem 1.8rem 0.6rem; gap: 1rem; flex-wrap: wrap;
+      border-bottom: 1px solid rgba(107,58,58,0.06);
+    }
+    .fig-name {
+      font-family: 'Cormorant Garamond', serif; font-size: 1.4rem;
+      font-weight: 400; color: var(--ink); letter-spacing: 0.04em;
+    }
+    .fig-tags {
+      display: flex; gap: 0.35rem; flex-wrap: wrap;
+      font-family: 'Inter', sans-serif; font-size: 0.6rem;
+      letter-spacing: 0.08em; text-transform: uppercase;
+    }
+    .fig-tag { padding: 0.15rem 0.5rem; border-radius: 2px; background: rgba(107,58,58,0.08); color: var(--muted); }
+    .fig-tag.pov { background: rgba(184,134,11,0.15); color: #8B6914; }
+    .fig-tag.welt-thalassien { background: var(--thal-faint); color: var(--thal); }
+    .fig-tag.welt-moragh { background: var(--moragh-faint); color: var(--moragh); }
+    .fig-tag.welt-beide { background: var(--beide-faint); color: var(--beide); }
+
+    .fig-meta {
+      padding: 0.6rem 1.8rem 0.4rem;
+      font-family: 'Inter', sans-serif; font-size: 0.7rem; color: var(--muted);
+      display: flex; gap: 1.2rem; flex-wrap: wrap;
+    }
+    .fig-meta .lbl {
+      color: var(--smoke); text-transform: uppercase; letter-spacing: 0.1em;
+      font-size: 0.58rem; margin-right: 0.35rem;
+    }
+
+    .fig-body {
+      padding: 0.6rem 1.8rem 1.4rem;
+      font-family: 'Cormorant Garamond', serif; font-size: 0.95rem;
+      line-height: 1.75; color: var(--ink);
       max-height: 0; overflow: hidden;
-      transition: max-height 0.5s ease;
+      transition: max-height 0.35s ease, padding 0.35s ease;
     }
-    .char-card.open .char-body {
-      max-height: 2000px;
+    .fig-card.open .fig-body { max-height: 6000px; padding-bottom: 1.8rem; }
+    .fig-body h1, .fig-body h2 {
+      font-family: 'Cormorant Garamond', serif; font-size: 1.05rem;
+      font-weight: 500; color: var(--ink); margin: 1.2rem 0 0.5rem;
+      letter-spacing: 0.04em;
     }
-    .char-card.open .char-toggle::after { content: ' ▴'; }
-    .char-card:not(.open) .char-toggle::after { content: ' ▾'; }
-
-    .steckbrief {
-      padding: 0 1.5rem 1.5rem;
-      border-top: 1px solid rgba(138,130,121,0.1);
+    .fig-body h3 {
+      font-family: 'Cormorant Garamond', serif; font-size: 0.8rem;
+      font-weight: 500; text-transform: uppercase; letter-spacing: 0.15em;
+      color: var(--smoke); margin: 1rem 0 0.4rem;
     }
-    .steckbrief table {
-      width: 100%; border-collapse: collapse;
-      font-family: 'Inter', sans-serif; font-size: 0.8rem;
-    }
-    .steckbrief td {
-      padding: 0.4rem 0.6rem; vertical-align: top;
-      color: var(--paper-edge); line-height: 1.5;
-      border-bottom: 1px solid rgba(138,130,121,0.07);
-    }
-    .steckbrief td:first-child {
-      width: 130px; color: var(--smoke);
-      font-size: 0.7rem; text-transform: uppercase;
-      letter-spacing: 0.08em; white-space: nowrap;
-    }
-    .steckbrief .desc {
-      padding-top: 1rem;
-      font-family: 'Cormorant Garamond', serif;
-      font-size: 0.95rem; color: var(--muted);
-      line-height: 1.7;
+    .fig-body p { margin: 0 0 0.7rem; }
+    .fig-body ul, .fig-body ol { margin: 0.4rem 0 0.9rem 1.2rem; }
+    .fig-body li { margin: 0.2rem 0; }
+    .fig-body strong { color: var(--accent); font-weight: 500; }
+    .fig-body em { color: var(--muted); }
+    .fig-body blockquote {
+      border-left: 3px solid var(--accent); padding: 0.2rem 0.9rem;
+      margin: 0.5rem 0 0.8rem; color: var(--muted); background: rgba(107,58,58,0.03);
     }
 
-    /* Nebenfigur (compact) */
-    .neben-card {
-      background: rgba(245,240,232,0.02);
-      border: 1px solid rgba(138,130,121,0.1);
-      border-radius: 4px;
-      padding: 1.2rem 1.5rem;
-      margin-bottom: 0.8rem;
+    .fig-toggle {
+      width: 100%; text-align: center; padding: 0.5rem;
+      background: rgba(107,58,58,0.04); border: none; cursor: pointer;
+      font-family: 'Cormorant Garamond', serif; font-size: 0.75rem;
+      letter-spacing: 0.18em; text-transform: uppercase; color: var(--smoke);
+      transition: all 0.25s; user-select: none;
     }
-    .neben-name {
-      font-family: 'Cormorant Garamond', serif;
-      font-size: 1.1rem; color: var(--cream);
-      margin: 0 0 0.1rem;
+    .fig-toggle:hover { background: rgba(107,58,58,0.08); color: var(--accent); }
+    .fig-card.open .fig-toggle::after { content: ' ▴'; }
+    .fig-card:not(.open) .fig-toggle::after { content: ' ▾'; }
+
+    .status-note {
+      font-family: 'Inter', sans-serif; font-size: 0.6rem;
+      color: var(--smoke); text-align: center; padding: 2rem 0 1rem;
+      letter-spacing: 0.05em;
     }
-    .neben-role {
-      font-family: 'Inter', sans-serif;
-      font-size: 0.65rem; color: var(--smoke);
-      letter-spacing: 0.1em; text-transform: uppercase;
-      margin: 0 0 0.5rem;
+    .loading, .error {
+      padding: 4rem 2rem; text-align: center;
+      font-family: 'Cormorant Garamond', serif; font-size: 1rem;
+      color: var(--smoke);
     }
-    .neben-desc {
-      font-family: 'Cormorant Garamond', serif;
-      font-size: 0.9rem; color: var(--muted); line-height: 1.6;
-    }
+    .error { color: #a15555; }
 
     @media (max-width: 600px) {
-      .char-header { flex-direction: column; align-items: center; text-align: center; }
-      .char-img, .char-img-placeholder { width: 100px; height: 100px; }
-      .steckbrief td:first-child { width: 100px; }
+      .fig-head { padding: 1rem 1.2rem 0.5rem; }
+      .fig-meta { padding: 0.5rem 1.2rem 0.3rem; }
+      .fig-body { padding: 0.5rem 1.2rem 1rem; }
     }
   </style>
 </head>
 <body>
   <div class="grain"></div>
   <div class="wrap">
-    <div class="page-title">Der Riss — Trilogie</div>
-    <div class="page-subtitle">Figuren</div>
-    <div class="top-links">
-      <a href="index.html">&larr; Navigator</a>
-      &nbsp;&nbsp;&middot;&nbsp;&nbsp;
-      <a href="zeitleiste.html">Zeitleiste &rarr;</a>
+    <div class="top-bar">
+      <a href="index.html">‹ Arbeitsansicht</a>
+      <div class="page-label">Figuren</div>
     </div>
 
-    <!-- ═══════════════════════════════════ PROTAGONISTEN ═══════════════════════════════════ -->
-    <div class="section-label">Die vier Protagonisten</div>
-
-    <!-- ALPHINA -->
-    <div class="char-card open">
-      <div class="char-header" onclick="this.parentElement.classList.toggle('open')">
-        <img class="char-img" src="../img/alphina.png" alt="Alphina">
-        <div class="char-intro">
-          <h2 class="char-name">Alphina</h2>
-          <div class="char-role">Botanikerin &middot; aus Velde (Tidelände) &middot; ~30 Jahre</div>
-          <div class="char-quote">&bdquo;Die Hexe im Vierten.&ldquo; Lebt allein. Drei Beziehungen beendet, alle mit: &bdquo;Du lässt mich nicht rein.&ldquo;</div>
-          <div class="char-toggle">Steckbrief</div>
-        </div>
-      </div>
-      <div class="char-body">
-        <div class="steckbrief">
-          <table>
-            <tr><td>Größe</td><td>Mittel, wirkt größer durch Haltung</td></tr>
-            <tr><td>Körperbau</td><td>Schmal, aufrecht. Nicht zerbrechlich — sehnig, Spannung im ganzen Körper</td></tr>
-            <tr><td>Haar</td><td>Lang, wellig bis lockig, schwarz. Offen am Rücken, beim Arbeiten lose hochgesteckt</td></tr>
-            <tr><td>Augen</td><td>Dunkel, ruhig. Ein Blick der nichts fragt</td></tr>
-            <tr><td>Haut</td><td>Hell, blass vom Innenleben. Unterarme gebräunt (Gartenarbeit)</td></tr>
-            <tr><td>Gesicht</td><td>Schmale Züge, hohe Wangenknochen. Mund der selten lächelt — wenn, dann asymmetrisch</td></tr>
-            <tr><td>Hände</td><td>Tintenflecken an Zeige- und Mittelfinger. Erde unter den Nägeln. Schmal, lang, stark</td></tr>
-            <tr><td>Merkmale</td><td>Rechtes Knie steif nach langer Arbeit. Aufrechte Haltung — betritt Räume als gehörten sie ihr</td></tr>
-            <tr><td>Kleidung</td><td>Weiter dunkler Mantel, Rock, Ärmel hochgerollt bei Arbeit</td></tr>
-            <tr><td>Geruch</td><td>Erde, feuchtes Laub, Tinte</td></tr>
-            <tr><td>Stimme</td><td>Leise, klar, unhektisch. Wird nie laut — wird stiller, wenn sie wütend ist</td></tr>
-            <tr><td>Resonanz</td><td>Pflanzen drehen sich nach ihr. Farne wachsen aus dem Nichts wenn ihre Kontrolle bricht</td></tr>
-          </table>
-          <div class="desc">
-            Kontrolliert. Leise, unausweichlich. Durch Wissen, Stille, Zurückhaltung. In Beziehungen dominant — nicht performativ, sondern durch die Art wie sie den Raum betritt. Pflanzen reagieren auf sie. Es wird stärker.
-          </div>
-        </div>
-      </div>
+    <div class="intro">
+      Hauptfiguren und Nebenfiguren, aus den Dossiers in <code>buch/pov/</code> und <code>buch/nebenfiguren/</code>.
     </div>
 
-    <!-- SOREL -->
-    <div class="char-card">
-      <div class="char-header" onclick="this.parentElement.classList.toggle('open')">
-        <img class="char-img" src="../img/sorel.png" alt="Sorel">
-        <div class="char-intro">
-          <h2 class="char-name">Sorel</h2>
-          <div class="char-role">Fotograf &middot; aus Nachtholm (Freistädte) &middot; ~30 Jahre</div>
-          <div class="char-quote">Ein Mann der vor sich selbst wegläuft. Der in der Dunkelheit lebt, weil er Angst hat vor dem was er sieht.</div>
-          <div class="char-toggle">Steckbrief</div>
-        </div>
-      </div>
-      <div class="char-body">
-        <div class="steckbrief">
-          <table>
-            <tr><td>Größe</td><td>Mittelgroß, wirkt kleiner durch gebeugte Haltung</td></tr>
-            <tr><td>Körperbau</td><td>Schmal. Schmale Schultern, Jacke immer eine Nummer zu weit. Dünn, aber nicht schwach — Hände tragen schwere Plattenkästen stundenlang</td></tr>
-            <tr><td>Haar</td><td>Mittellanges, dunkelbraunes lockiges Haar bis zum Nacken. Unordentlich, fällt ins Gesicht</td></tr>
-            <tr><td>Augen</td><td>Dunkel. Blick der registriert, bevor er reagiert</td></tr>
-            <tr><td>Haut</td><td>Blass, kellerblass. Sieht selten Tageslicht</td></tr>
-            <tr><td>Gesicht</td><td>Markante Nase, schmales Kinn. Kopf leicht nach vorn geneigt — Gewohnheit über dem Fixierbad</td></tr>
-            <tr><td>Hände</td><td>Blass, schmal, Schnittwunden an den Fingerkuppen (Glasplatten). Pyrogallol-Verfärbungen. Präzise, auch wenn der Rest zittert</td></tr>
-            <tr><td>Merkmale</td><td>Chemie-Geruch sitzt in der Haut — Pyrogallol, Fixierer, Silbernitrat. Geht nie ganz weg</td></tr>
-            <tr><td>Kleidung</td><td>Dunkle Kleidung, immer etwas zu weit. Dunkle Jacke, keine Farben</td></tr>
-            <tr><td>Geruch</td><td>Fixierer, Silbernitrat, kalter Keller. Darunter: Seife</td></tr>
-            <tr><td>Stimme</td><td>Leise, knapp. Spricht in halben Sätzen. Wartet lange vor der Antwort</td></tr>
-            <tr><td>Resonanz</td><td>Platten belichten sich durch seine Gedanken. Licht bündelt sich um ihn, wenn er fokussiert</td></tr>
-          </table>
-          <div class="desc">
-            Kellerwohnung in der Schluchtstadt. Halb Wohnung, halb Dunkelkammer. Rettet vergessene Bilder — alte Glasplatten, Daguerreotypien. Mit neunzehn sein eigenes Gesicht auf einer Platte gefunden. In einer Stadt, die er nie betreten hat. Dreizehn Jahre lang gesucht. Dann Platte 7: sein Gesicht. In Vael.
-          </div>
-        </div>
-      </div>
+    <div class="filter-bar" id="filter-bar">
+      <div class="filter-btn active" data-filter="alle">Alle</div>
+      <div class="filter-btn" data-filter="hauptfigur"><span class="filter-dot" style="background:#b8860b"></span>Hauptfiguren</div>
+      <div class="filter-btn" data-filter="nebenfigur"><span class="filter-dot" style="background:#8a8279"></span>Nebenfiguren</div>
+      <div class="filter-btn" data-filter="thalassien"><span class="filter-dot" style="background:#b8860b"></span>Thalassien</div>
+      <div class="filter-btn" data-filter="moragh"><span class="filter-dot" style="background:#6b3a3a"></span>Moragh</div>
+      <div class="filter-btn" data-filter="beide"><span class="filter-dot" style="background:#6a5080"></span>Beide Welten</div>
     </div>
 
-    <!-- VESPER -->
-    <div class="char-card">
-      <div class="char-header" onclick="this.parentElement.classList.toggle('open')">
-        <img class="char-img" src="../img/vesper.png" alt="Vesper">
-        <div class="char-intro">
-          <h2 class="char-name">Vesper</h2>
-          <div class="char-role">Uhrmacher &middot; aus Karst (Innenlande) &middot; ~32 Jahre</div>
-          <div class="char-quote">Ehemaliges Schach-Wunderkind. Mit neunzehn aufgehört — in einer Gewinnstellung Remis angeboten. Repariert Uhren. Denkt in Zügen.</div>
-          <div class="char-toggle">Steckbrief</div>
-        </div>
-      </div>
-      <div class="char-body">
-        <div class="steckbrief">
-          <table>
-            <tr><td>Größe</td><td>Mittel, unauffällig</td></tr>
-            <tr><td>Körperbau</td><td>Angezogen unauffällig, fast schmächtig. Unter dem Hemd sehnig-muskulös — Körper eines Mannes der schwere Standuhren allein bewegt. Man sieht es erst wenn der Mantel fällt</td></tr>
-            <tr><td>Haar</td><td>Kurz, sandfarbenes/hellbraunes Haar, ordentlich. Kein Bart</td></tr>
-            <tr><td>Augen</td><td>Marineblau — &bdquo;ein Blau das nicht in die Innenlande gehörte.&ldquo; Ruhig, messend</td></tr>
-            <tr><td>Haut</td><td>Mittel, weder blass noch gebräunt. Keine Schwielen, keine Ölränder — seine Hände verraten ihn nicht als Handwerker</td></tr>
-            <tr><td>Gesicht</td><td>Unauffällig. Nichts Markantes — genau das macht ihn schwer zu lesen. Ein Gesicht das man übersieht, bis man die Augen sieht</td></tr>
-            <tr><td>Hände</td><td>Ruhig, präzise. Keine Hornhaut, keine Schnittwunden. Saubere Nägel. Pinzetten-Griff. Hände die wissen wann man wartet</td></tr>
-            <tr><td>Merkmale</td><td>Schwarzer Schachturm aus Holz in der Tasche — glatt vom Greifen, Kanten abgerieben. Knie knacken beim Aufstehen</td></tr>
-            <tr><td>Kleidung</td><td>Schwerer dunkler Mantel. Darunter sauber, funktional, unauffällig</td></tr>
-            <tr><td>Geruch</td><td>Uhrenöl, Messing, trockenes Holz. Kaum wahrnehmbar — er riecht nach Innenraum</td></tr>
-            <tr><td>Stimme</td><td>Kurze Sätze. Denkt in Zügen. Fragt präzise. Nie laut, nie leise — genau die richtige Lautstärke</td></tr>
-            <tr><td>Resonanz</td><td>Uhren in seiner Nähe laufen korrekt. Sein Takt überträgt sich auf Mechanik — und auf Menschen</td></tr>
-          </table>
-          <div class="desc">
-            Werkstatt im Hinterhof. Hat auf dem Brett Muster gesehen, die kein Mensch dort hingelegt hat. Dieselbe Bauerndiagonale, vier Partien, vier Gegner. Unmöglich. Uhren als Gegengift — erklärbare Muster. Dominiert durch Geduld.
-          </div>
-        </div>
-      </div>
+    <div id="figuren-root">
+      <div class="loading">Lade Figuren…</div>
     </div>
 
-    <!-- MAREN -->
-    <div class="char-card">
-      <div class="char-header" onclick="this.parentElement.classList.toggle('open')">
-        <img class="char-img" src="../img/maren.png" alt="Maren">
-        <div class="char-intro">
-          <h2 class="char-name">Maren</h2>
-          <div class="char-role">Schiffbauerin &middot; unterwegs (zuletzt Grauküste) &middot; ~30 Jahre</div>
-          <div class="char-quote">Keine feste Adresse. Drei Leben hinter sich. Alles passt in einen Seesack. Fließt. Bleibt nie.</div>
-          <div class="char-toggle">Steckbrief</div>
-        </div>
-      </div>
-      <div class="char-body">
-        <div class="steckbrief">
-          <table>
-            <tr><td>Größe</td><td>Unter Durchschnitt, kompakt</td></tr>
-            <tr><td>Körperbau</td><td>Kräftig, kompakt. Schultern die Gewicht kennen — Seesack, Gurt über dem Schlüsselbein. Breite Handgelenke, starke Unterarme. Nicht massig — drahtig, ein Körper der arbeitet</td></tr>
-            <tr><td>Haar</td><td>Kurz, kupferrot/rotbraun, wellig. Praktischer Schnitt — geht aus dem Weg beim Arbeiten</td></tr>
-            <tr><td>Augen</td><td>Hell — braun-grün, wechselnd wie Flachwasser</td></tr>
-            <tr><td>Haut</td><td>Hell, Sommersprossen auf Nase und Schultern. Wetter-gegerbt an den Händen</td></tr>
-            <tr><td>Gesicht</td><td>Rund, offen. Kein Make-up, keine Eitelkeit. Ein Gesicht das nicht gefallen will</td></tr>
-            <tr><td>Hände</td><td>Von Holz und Wasser gezeichnet. Breite Handflächen, Hornhaut an den Kuppen. Schnittwunden alt und frisch. Holzstaub unter den Nägeln</td></tr>
-            <tr><td>Merkmale</td><td>Salz auf den Lippen — immer, als hätte sie das Meer noch auf der Haut. Seesack, alles passt rein</td></tr>
-            <tr><td>Kleidung</td><td>Dunkle Jacke mit tiefen Taschen, abgetragene feuchte Stiefel. Nichts Überflüssiges</td></tr>
-            <tr><td>Geruch</td><td>Pech, Sägemehl, Salz, Leinöl. Meer, das nicht mehr da ist</td></tr>
-            <tr><td>Stimme</td><td>Direkt, wenige Worte. Sagt was nötig ist und geht. Kein Smalltalk</td></tr>
-            <tr><td>Resonanz</td><td>Wasser reagiert auf sie — steigt, folgt, wärmt sich. Unter dem Boden der Werft: ein Herzschlag</td></tr>
-          </table>
-          <div class="desc">
-            Erbt Haron Dahls Werft in Vael. Fünf Jahre Briefwechsel — über Holz, das Meer, Handwerk. Nie ein Treffen. Jetzt ist er tot und sie erbt alles: die Werft, das halbfertige Boot, die Werkzeuge. Nur ein Boot das drei Viertel fertig ist und eine Frau die nie bleibt.
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <!-- ═══════════════════════════════════ SCHLÜSSELFIGUREN ═══════════════════════════════════ -->
-    <div class="section-label">Schlüsselfiguren</div>
-
-    <!-- VAREN -->
-    <div class="char-card">
-      <div class="char-header" onclick="this.parentElement.classList.toggle('open')">
-        <div class="char-img-placeholder">V</div>
-        <div class="char-intro">
-          <h2 class="char-name">Varen</h2>
-          <div class="char-role">Forscher am Riss &middot; Moragh-geboren &middot; Velmar-Ausgestoßener</div>
-          <div class="char-quote">Charmant — nicht gespielt, echt. Das macht ihn gefährlicher.</div>
-          <div class="char-toggle">Steckbrief</div>
-        </div>
-      </div>
-      <div class="char-body">
-        <div class="steckbrief">
-          <table>
-            <tr><td>Größe</td><td>Groß — Moragh-Menschen sind größer als Thalassier</td></tr>
-            <tr><td>Körperbau</td><td>Muskulös, gut genährt, in Form. Nicht ausgemergelt — großes Reservoir, jahrelange Erfahrung</td></tr>
-            <tr><td>Haar</td><td>Schwarzes Haar, graue Schläfen</td></tr>
-            <tr><td>Augen</td><td>Tiefes Purpur — Moragh-Augen. Attraktiv</td></tr>
-            <tr><td>Haut</td><td>Dunkler als Thalassier</td></tr>
-            <tr><td>Sprache</td><td>Spricht Thalassisch — aber das von TZ 154. Alte Wörter, ausgestorbene Höflichkeitsformen. Sagt &bdquo;Fuhre&ldquo; statt &bdquo;Kutsche&ldquo;</td></tr>
-            <tr><td>Resonanz</td><td>Bindungsmagie. Schemen-Rufer. Kann durch Schemen sehen, berühren, handeln — aus einer anderen Welt</td></tr>
-          </table>
-          <div class="desc">
-            Ausgestoßen. Einzelgänger. Forscher, kein Soldat. War Velmar — aufgestiegen als Leylinien-Forscher. Drei Reservoir-Quellen zerstört. Unwiederbringlich. Kein Kalkül — ein Unfall. Er wollte niemanden opfern. Er hat 200.000 Menschen ihre Heimat gekostet. Jetzt will er es reparieren. Richtiges Ziel, falsche Methode.
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <!-- RUNA -->
-    <div class="char-card">
-      <div class="char-header" onclick="this.parentElement.classList.toggle('open')">
-        <img class="char-img" src="../img/runa.png" alt="Runa Kvist" onerror="this.outerHTML='<div class=\'char-img-placeholder\'>R</div>'">
-        <div class="char-intro">
-          <h2 class="char-name">Runa Kvist</h2>
-          <div class="char-role">Druckerin &middot; Oberstadt Vael &middot; Mitte 20</div>
-          <div class="char-quote">Intellektuell, direkt, lacht zu laut für Vael. Hände immer warm — buchstäblich.</div>
-          <div class="char-toggle">Steckbrief</div>
-        </div>
-      </div>
-      <div class="char-body">
-        <div class="steckbrief">
-          <table>
-            <tr><td>Körperbau</td><td>Kurvig — runde Hüften, volle Schultern, ein Körper der Platz einnimmt und sich nicht dafür entschuldigt</td></tr>
-            <tr><td>Haar</td><td>Dunkles Haar, hochgesteckt beim Setzen, fällt in Strähnen wenn sie sich über den Setzkasten beugt</td></tr>
-            <tr><td>Gesicht</td><td>Breit, offen, schnelles Lächeln</td></tr>
-            <tr><td>Hände</td><td>Druckerschwärze an Unterarmen, Fleck auf der Wange. Hände immer warm — heißer als sie sein sollten</td></tr>
-            <tr><td>Geruch</td><td>Heißes Metall, Druckerschwärze und Tee</td></tr>
-            <tr><td>Stimme</td><td>Laut, direkt, lacht zu viel für Vael</td></tr>
-            <tr><td>Resonanz</td><td>Feuer/Hitze — schwach, unerkannt. Hält es für Handwerksgeschick. Hände glühen in K31</td></tr>
-          </table>
-          <div class="desc">
-            Heißes Metall, Bleilettern, Schmelztiegel. Eine Nase für Geheimnisse und kein Talent die Finger davon zu lassen. Druckt Flugblätter über die Risse. Stellt unbequeme Fragen. Schlüpft im letzten Moment durch das Portal. Fünf in Moragh, nicht vier.
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <!-- ELKE -->
-    <div class="char-card">
-      <div class="char-header" onclick="this.parentElement.classList.toggle('open')">
-        <div class="char-img-placeholder">E</div>
-        <div class="char-intro">
-          <h2 class="char-name">Elke van der Holt</h2>
-          <div class="char-role">Bildhauerin &middot; TZ 154 &rarr; Moragh &middot; Ende 30 (körperlich)</div>
-          <div class="char-quote">Kam wegen des Purpursteins nach Vael. Ging durch das Portal. Lebt seit ~1 Moragh-Jahr auf der anderen Seite — 400 Thalassien-Jahre.</div>
-          <div class="char-toggle">Steckbrief</div>
-        </div>
-      </div>
-      <div class="char-body">
-        <div class="steckbrief">
-          <table>
-            <tr><td>Körperbau</td><td>Kräftig, breite Schultern — Bildhauerin, Meißel und Hammer seit der Kindheit</td></tr>
-            <tr><td>Haar</td><td>Kurzes, dunkelblondes Haar, pragmatisch geschnitten, Steinstaub darin</td></tr>
-            <tr><td>Augen</td><td>Hell, wettergegerbt, tiefe Lachfalten</td></tr>
-            <tr><td>Hände</td><td>Breit, rissig, Schwielen an den Handballen. Erdige Fingernägel — immer</td></tr>
-            <tr><td>Kleidung</td><td>Funktional, Lederschürze über Leinenhemd</td></tr>
-            <tr><td>Geruch</td><td>Steinstaub, Erde, etwas Pflanzliches aus ihrem Garten</td></tr>
-            <tr><td>Sprache</td><td>Thalassisch von TZ 154 — alte Wörter, verschobene Grammatik. Sagt &bdquo;Fuhre&ldquo; statt &bdquo;Kutsche&ldquo;</td></tr>
-            <tr><td>Resonanz</td><td>Erde/Stein. Spürt Hohlräume, Adern im Gestein. In Moragh: Stein formen ohne Werkzeug</td></tr>
-          </table>
-          <div class="desc">
-            Tochter eines Steinmetzmeisters. Kam nach Vael als das Portal das letzte Mal offen war. Ging durch — während drei Feuer-Schemen in Vael wüteten. Kaspar und Keldan starben. Lene überlebte als Einzige. Elke lebt seitdem in Moragh. Hat einen Garten in dem Pflanzen aus beiden Welten wachsen.
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <!-- ═══════════════════════════════════ NEBENCHARAKTERE ═══════════════════════════════════ -->
-    <div class="section-label">Nebencharaktere in Vael</div>
-
-    <div class="neben-card">
-      <h3 class="neben-name">Henrik</h3>
-      <div class="neben-role">Gärtner &middot; Botanischer Garten &middot; über 50</div>
-      <div class="neben-desc">Gebückt in den Schultern — vierzig Jahre über Beeten. Linkes Bein schleift. Bart mit Tabakkrümeln, kleine Brille vorn auf der Nase. Große Hände — Nägel schwarz bis an die Haut, Knöchel rissig. Fehlendes Fingerglied am kleinen Finger rechts. Ruhiger Griff eines Mannes der nie Wasser verschüttet. Der einzige Mensch in Vael der die Pflanzen auch sieht.</div>
-    </div>
-
-    <div class="neben-card">
-      <h3 class="neben-name">Tohl Daverin</h3>
-      <div class="neben-role">Fischer &middot; Grauwe &middot; Ende 60</div>
-      <div class="neben-desc">Groß, hager, verwittert. Gesicht wie Treibholz — Falten die alle in eine Richtung laufen, vom Wind. Graues Haar, Salz-und-Pfeffer-Bart. Hände wie Taue — dick, knotig, rissig. Blaue, wässrige Augen, sehen weiter als sie sollten. Schweigsam. Sieht Dinge auf dem Wasser — Strömungen die falsch laufen, Stellen wo die Grauwe steht. Riecht nach Fisch, Teer und Salzwasser.</div>
-    </div>
-
-    <div class="neben-card">
-      <h3 class="neben-name">Edric Dahl</h3>
-      <div class="neben-role">Bootsbauer-Geselle &middot; Werft Dahl &middot; 30</div>
-      <div class="neben-desc">Breit, nicht groß. Graue, ruhige Augen. Breite Handflächen, kurze Finger, Hornhaut an den Kuppen. Schnitte alt und frisch an den Knöcheln, Holzstaub unter den Nägeln. Sägemehl an den Ärmeln, Hemd einmal weiß gewesen. Abgetragene, saubere Stiefel. Bewegt sich leise, kennt jeden Gegenstand in der Werft blind. Weiß, dass Haron nachts in den Garten ging. Fragt nicht. Arbeitet.</div>
-    </div>
-
-    <div class="neben-card">
-      <h3 class="neben-name">Esther Voss</h3>
-      <div class="neben-role">Archivarin &middot; Rathauskeller &middot; Anfang 60</div>
-      <div class="neben-desc">Klein, runde Brille, ruhige Hände. Ein Gesicht das viel gesehen und wenig preisgegeben hat. Hütet das Archiv im Rathauskeller — und das Manuskript darin.</div>
-    </div>
-
-    <div class="neben-card">
-      <h3 class="neben-name">Jara Voss</h3>
-      <div class="neben-role">Archiv-Gehilfin &middot; Esthers Nichte &middot; 20</div>
-      <div class="neben-desc">Schmal, blass, leise Bewegungen. Dunkle Handschuhe beim Arbeiten, Notizstift hinter dem Ohr. Glattes braunes Haar, streng zurückgebunden. Schmales Gesicht, aufmerksame Augen — registriert alles, gibt nichts preis. Sieht alles, sagt wenig. Findet das Manuskript — nicht Esther. Hat es gelesen, bevor sie es weitergibt. Weiß mehr als sie sagt.</div>
-    </div>
-
-    <div class="neben-card">
-      <h3 class="neben-name">Doktor Halvard</h3>
-      <div class="neben-role">Stadtarzt &middot; Vael &middot; Anfang 50</div>
-      <div class="neben-desc">Groß, hager, aufrecht. Graues Haar, kurz, lichter an den Schläfen. Schmales Gesicht, tiefe Falten zwischen den Brauen — Rationalisten-Stirn. Brille mit dünnem Metallgestell. Saubere Hände, gepflegte Nägel. Kleidung ordentlich, dunkel, Weste über dem Hemd. Riecht nach Karbol und Seife. Rationalist — alles hat eine Erklärung. Bis es keine mehr hat.</div>
-    </div>
-
-    <div class="neben-card">
-      <h3 class="neben-name">Die Magd im Tidemoor-Haus</h3>
-      <div class="neben-role">Haushälterin &middot; Tidemoor-Haus &middot; Mitte 20</div>
-      <div class="neben-desc">Hochgestecktes Haar, eine Strähne gelöst über Schläfe bis zum Kinn. Nacken sichtbar. Schultern und Hüfte bewegen sich unter der Schürze. Weiß wo jedes Möbel steht. Arm streift Vespers — warm. Ihr Name wird nie genannt.</div>
-    </div>
-
-    <!-- ═══════════════════════════════════ MORAGH-HAUPTFIGUREN ═══════════════════════════════════ -->
-    <div class="section-label">Moragh-Hauptfiguren</div>
-
-    <!-- NYR -->
-    <div class="char-card">
-      <div class="char-header" onclick="this.parentElement.classList.toggle('open')">
-        <div class="char-img-placeholder">N</div>
-        <div class="char-intro">
-          <h2 class="char-name">Nyr</h2>
-          <div class="char-role">Thar-Reiterin &middot; Kessler-Pilotin &middot; ca. 28</div>
-          <div class="char-quote">&bdquo;Du bist der, der Muster sieht." Keine Frage. Steigt aus ihrer 40-Tonnen-Bulle und wartet.</div>
-          <div class="char-toggle">Steckbrief</div>
-        </div>
-      </div>
-      <div class="char-body">
-        <div class="steckbrief">
-          <table>
-            <tr><td>Körperbau</td><td>Kleiner als erwartet für eine Reiterin — sehnig, nicht muskulös. Alle Kraft kommt aus Kessler</td></tr>
-            <tr><td>Haar</td><td>Schwarz, kurz, praktisch. Metallstaub in den Spitzen</td></tr>
-            <tr><td>Haut</td><td>Moragh-dunkel. Hände verbrannt von Kern-Wartung, Narben an den Unterarmen</td></tr>
-            <tr><td>Augen</td><td>Metallstaub in den Augen, rote Ränder — Berufs-Merkmal</td></tr>
-            <tr><td>Kleidung</td><td>Schwarze Thar-Rüstung, geschlossener Helm auf dem Kampfplatz. Im Quartier: Leinenhemd, Hanfhose</td></tr>
-            <tr><td>Geruch</td><td>Heißes Eisen, Pferdeöl (Bestien-Schmiermittel)</td></tr>
-            <tr><td>Stimme</td><td>Direkt, knapp, nie zögert</td></tr>
-            <tr><td>Resonanz</td><td>Druck/Dampf. Steuert Kessler über Resonanz-Kopplung mit dem Kern</td></tr>
-          </table>
-          <div class="desc">
-            Ein Beruf, kein Opfer. Reiterin der Thar — Elite, ~500 in der ganzen Armee. Gehört zu den wenigen, die sehen, wohin das Konglomerat driftet (autonome Bestien, keine Piloten mehr nötig). Verlässt die Thar spät in Buch 3. Nimmt Kessler mit. Paar-Ende mit Runa in Halvek-Mar. Kessler als zivile Arbeitsbestie.
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <!-- TALVEN -->
-    <div class="char-card">
-      <div class="char-header" onclick="this.parentElement.classList.toggle('open')">
-        <div class="char-img-placeholder">T</div>
-        <div class="char-intro">
-          <h2 class="char-name">Talven</h2>
-          <div class="char-role">Bund-Rufer &middot; Orath &middot; Ende 20</div>
-          <div class="char-quote">Wird Held, bevor er Verräter wird. Wird Verräter, bevor er es wirklich ist.</div>
-          <div class="char-toggle">Steckbrief</div>
-        </div>
-      </div>
-      <div class="char-body">
-        <div class="steckbrief">
-          <table>
-            <tr><td>Körperbau</td><td>Mittelgroß, schmal, unauffällig</td></tr>
-            <tr><td>Haut</td><td>Narben, die er sich selbst zufügt — rituelle Blutmagie-Schnitte an Unterarmen</td></tr>
-            <tr><td>Hände</td><td>Kalt. Symbolisch und buchstäblich — Blutmagie zieht Temperatur</td></tr>
-            <tr><td>Kleidung</td><td>Bund-Rufer-Robe, dunkelrot mit schwarzer Kordel</td></tr>
-            <tr><td>Resonanz</td><td>Rufen + Blutmagie. Lernt von Varen die Binde-Technik (im Bund verboten)</td></tr>
-          </table>
-          <div class="desc">
-            In Akt I Held, verteidigt Orath mit Schemen-Rufen. In Akt II von Varen zur Blutmagie manipuliert — Varen spielt ihm die Bindetechnik zu. Talven weiß nicht, dass er benutzt wird. In Akt III tötet Alphina ihn zu Unrecht (drei gefälschte Beweise). Erst in Akt IV erkennt sie den Fehler.
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <!-- ═══════════════════════════════════ BUCH 3 — ZUKUNFT & MORAGH ═══════════════════════════════════ -->
-    <div class="section-label">Buch 3 — Expedition & Moragh-Allianz</div>
-
-    <!-- TYRA HALVARD -->
-    <div class="char-card">
-      <div class="char-header" onclick="this.parentElement.classList.toggle('open')">
-        <div class="char-img-placeholder">Ty</div>
-        <div class="char-intro">
-          <h2 class="char-name">Tyra Halvard</h2>
-          <div class="char-role">Linguistin &middot; Expedition 1 &middot; Einzige Überlebende</div>
-          <div class="char-quote">Kam 2020 TZ nach Moragh. Flüchtete 2037 TZ aus Thar-Gefangenschaft. Lebt seitdem dort — 100 Jahre Exil, als die Expedition 2 ankommt.</div>
-          <div class="char-toggle">Steckbrief</div>
-        </div>
-      </div>
-      <div class="char-body">
-        <div class="steckbrief">
-          <table>
-            <tr><td>Herkunft</td><td>Thalassien, 2020 TZ. Marens Ur-Großtante</td></tr>
-            <tr><td>Resonanz</td><td>Schall/Klang. In Thalassien vestigial, in Moragh entfaltet</td></tr>
-            <tr><td>Spezialität</td><td>Schemen-Fernsprecher — Mikro-Schemen mit Schall-Talent, die Stimmen tragen. Einzige Moragh-Fernkommunikation in Echtzeit</td></tr>
-            <tr><td>Aussehen</td><td>Magere Gestalt, dunkelblondes Haar, Narben an Unterarmen von Fesseln. Kleidung: thalassisches Leinen + Moragh-Flachs kombiniert</td></tr>
-            <tr><td>Sprache</td><td>Spricht Moragh fließend, Thalassisch der 2020er (altmodisch für Expedition 2)</td></tr>
-          </table>
-          <div class="desc">
-            Marens Ur-Großtante. Kam mit 14 Forschern 2020 TZ durchs Portal. Thar nahm sie ein, 17 Jahre Gefangenschaft, dann Flucht. Auf Moragh-Seite — Brücke zwischen Welten. Überlebt Buch 3, lebt in Halvek-Mar-Umgebung.
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <!-- SYRA HALVARD -->
-    <div class="char-card">
-      <div class="char-header" onclick="this.parentElement.classList.toggle('open')">
-        <div class="char-img-placeholder">Sy</div>
-        <div class="char-intro">
-          <h2 class="char-name">Dr. Syra Halvard</h2>
-          <div class="char-role">Institutsleiterin &middot; Thalassien 2120 TZ &middot; Eroberungs-Architektin</div>
-          <div class="char-quote">Kein Hass, keine Ideologie — nur Zahlen. Sie findet, Maren hat zu sanft gearbeitet. Syra zahlt den Preis.</div>
-          <div class="char-toggle">Steckbrief</div>
-        </div>
-      </div>
-      <div class="char-body">
-        <div class="steckbrief">
-          <table>
-            <tr><td>Herkunft</td><td>Thalassien, 2120 TZ. Ur-Großnichte Tyras (andere Linie)</td></tr>
-            <tr><td>Aussehen</td><td>Ende 50, silbergraues Haar. Neural-Interface-Port hinter rechtem Ohr. Augen mit Iris-Ring (optisches Implantat)</td></tr>
-            <tr><td>Rolle</td><td>Übernimmt Institut 2080 TZ nach Marens Tod. Kippt auf Eroberungsdoktrin. Entwickelt Resonanz-Modulator</td></tr>
-            <tr><td>Stimme</td><td>Trocken, präzise, nie erhoben. Respektiert, nicht geliebt</td></tr>
-          </table>
-          <div class="desc">
-            Die Thalassien-Antagonistin. Glaubt, dass Thalassien nur überlebt, wenn es sich Moragh aneignet. Orchestriert die zweite Expedition als Militäroperation. Bleibt in Vael, koordiniert die Versorgung. Überlebt Buch 3, aber ihre Vision ist am Boden.
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <!-- KELVAR VELKAN -->
-    <div class="char-card">
-      <div class="char-header" onclick="this.parentElement.classList.toggle('open')">
-        <div class="char-img-placeholder">Ke</div>
-        <div class="char-intro">
-          <h2 class="char-name">General Kelvar Velkan</h2>
-          <div class="char-role">Expedition-2-Leiter &middot; 2120 TZ &middot; Bodymod-General</div>
-          <div class="char-quote">Professionell, nicht sadistisch. Keine Hass, keine Ideologie. Das macht ihn schwerer zu besiegen.</div>
-          <div class="char-toggle">Steckbrief</div>
-        </div>
-      </div>
-      <div class="char-body">
-        <div class="steckbrief">
-          <table>
-            <tr><td>Herkunft</td><td>Thalassien, 2120 TZ. Ex-Kommandeur der 2090er-Kriege</td></tr>
-            <tr><td>Körperbau</td><td>Ende 50, muskulös. Exoskelett-Ansätze an Wirbelsäule. Reaktions-Chip am Nacken. Militär-Optik rechtes Auge (glüht bei Dunkelheit)</td></tr>
-            <tr><td>Narbe</td><td>Quer über linker Braue — alte Kriegsverletzung</td></tr>
-            <tr><td>Kleidung</td><td>Moragh-unkompatible Exo-Rüstung + Helm + Militär-Insignien</td></tr>
-            <tr><td>Stimme</td><td>Tief, knapp, befehlend</td></tr>
-          </table>
-          <div class="desc">
-            Führt 2500 Soldaten durchs Portal 2120 TZ. Erobert Dravek binnen Stunden. Hält Basislager am Steinplatz. Stirbt wahrscheinlich 2152 im Finale — oder führt die Überlebenden in die toten Zonen (B4-Setup).
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="neben-card">
-      <h3 class="neben-name">Iven</h3>
-      <div class="neben-role">Elektrizitäts-Begabter &middot; Moragh-geboren &middot; 17</div>
-      <div class="neben-desc">Schlaksig, im Wachstum. Brandspuren an den Fingerkuppen. Hört Frequenzen im Gestein, im Magitech-Netz. Autodidakt — Elektrizität ist in Moragh selten, keine Schulen. In Akt IV magischer Störsender gegen die Expeditions-Elektronik. Blutet aus Nase und Ohren nach dem Ritual, überlebt knapp.</div>
-    </div>
-
-    <div class="neben-card">
-      <h3 class="neben-name">Drael</h3>
-      <div class="neben-role">Bund-Stratege &middot; Orath &middot; Ende 40</div>
-      <div class="neben-desc">Groß, schlank, dunkles Haar mit grauen Strähnen. Dunkelblaue Staatsrobe mit silbernen Applikationen. Kämpft nicht selbst — er befiehlt. Schall + Energie als Verhandlungs-Werkzeuge. Spricht höflich-warm, opfert pragmatisch. Schickt Alphina in B2 an die Front. Besucht Runa in B3 höflich-drohend. Überlebt Buch 3.</div>
-    </div>
-
-    <!-- ═══════════════════════════════════ NEBENFIGUREN BUND ═══════════════════════════════════ -->
-    <div class="section-label">Nebenfiguren — Bund von Orath</div>
-
-    <div class="neben-card">
-      <h3 class="neben-name">Mira</h3>
-      <div class="neben-role">Mutter &middot; Kethmar &middot; 42</div>
-      <div class="neben-desc">Verwitwet seit zehn Jahren. Holz 5 + Heilung 2 (Dualistin). Mittelgroß, kräftig, rotblondes Haar mit grauen Strähnen. Graues Kleid aus Flachs mit Hanfschnüren. Hört mehr als sie spricht. Lebt für ihren Sohn Miran.</div>
-    </div>
-
-    <div class="neben-card">
-      <h3 class="neben-name">Miran</h3>
-      <div class="neben-role">Mirans Sohn &middot; Kethmar &middot; 17</div>
-      <div class="neben-desc">Niedrig-begabt, Telekinese 1. Schlaksig, dunkles Haar, Milchhaut, Augen zu wach für sein Alter. Leinenhemd der Zunft-Hilfskräfte, weil er keine Lehre bekommt. Liest alles. Will unauffällig bleiben, nicht eingezogen werden.</div>
-    </div>
-
-    <div class="neben-card">
-      <h3 class="neben-name">Ormek</h3>
-      <div class="neben-role">Glaubenshüter der Ersten Halle &middot; Orath &middot; 61</div>
-      <div class="neben-desc">Groß, dürr, hager. Licht 7 (bei Zeremonien sichtbare Aura), Rufen 2. Dunkelrotes Gewand mit Messing-Kordel. Spricht langsam, stellt Fragen die wie Bestätigungen klingen. Kann kurz warm sein, bevor er jemanden fallen lässt.</div>
-    </div>
-
-    <div class="neben-card">
-      <h3 class="neben-name">Detrik</h3>
-      <div class="neben-role">Marschall &middot; Orath &middot; 48</div>
-      <div class="neben-desc">Feuer 7, führt Flammen-Kohorten. Mittelgroß, muskulös, linker Handrücken vernarbt von alter Ritual-Verbrennung. Grauer Offiziers-Mantel. Trommelt mit Fingernägeln, entscheidet schnell. Pragmatisch, nicht hasserfüllt.</div>
-    </div>
-
-    <div class="neben-card">
-      <h3 class="neben-name">Vela</h3>
-      <div class="neben-role">Handelsmeisterin &middot; Orather Magazine &middot; 52</div>
-      <div class="neben-desc">Klein, rund, scharfes Kinn. Schall 4 + Telekinese 3. Graues Haar unter dunkelgrünem Schleier, den sie nie abnimmt. Rechnet den Krieg in Sack-pro-Tag-Einheiten. Sagt "Zahl" statt "Preis".</div>
-    </div>
-
-    <div class="neben-card">
-      <h3 class="neben-name">Kovik</h3>
-      <div class="neben-role">Stein-Former, Dissident &middot; Orath Rand &middot; 44</div>
-      <div class="neben-desc">Stein 6. Groß, breit, schiefer Rücken. Narbe unter dem Ohr. Will die Halle zwingen, die Wahrheit über Quellen-Überladung zu sagen — Bruder verlor er im Einsatz. Laut am Tisch, leise im Ernstfall.</div>
-    </div>
-
-    <!-- ═══════════════════════════════════ NEBENFIGUREN THAR ═══════════════════════════════════ -->
-    <div class="section-label">Nebenfiguren — Konglomerat / Thar</div>
-
-    <div class="neben-card">
-      <h3 class="neben-name">Thassir Kol</h3>
-      <div class="neben-role">Syndikat-Boss Ember-Kontor &middot; Thar-Kem &middot; 55</div>
-      <div class="neben-desc">Feuer 4 + Energie 3 + Telekinese 2 (Tripel). Breit, graue Stoppelhaar, olivfarbene Haut. Rechte Hand mit Brandspuren der Anfangsjahre. Dunkler Flachsmantel, Kontor-Siegel an Hanfkordel. Drei Geschwister im Krieg verloren.</div>
-    </div>
-
-    <div class="neben-card">
-      <h3 class="neben-name">Brel</h3>
-      <div class="neben-role">Magitech-Ingenieurin &middot; Thar-Kem &middot; 36</div>
-      <div class="neben-desc">Metall 5 + Elektrizität 3. Schlank, rußig bis zur Ellbogenbeuge. Schwarze Haare kurz. Kupferarmband, nie ausgelegt. Schroff, sagt Wahrheiten ohne Verpackung. Will Bestien, die Reiter nicht töten.</div>
-    </div>
-
-    <div class="neben-card">
-      <h3 class="neben-name">Vesh</h3>
-      <div class="neben-role">Fabrik-Arbeiterin &middot; Thar-Kem &middot; 38 (wirkt 48)</div>
-      <div class="neben-desc">Feuer 5 + Metall 2. 13 Jahre am Magitech-Ofen. Trockene Haut, Tremor in den Fingern. Grobleinen-Schürze, Hanfbinden um die Waden. Spätfolgen dauerhafter Überlastung. Lohn für ihren 11-jährigen Sohn, der zur Wägung kommt.</div>
-    </div>
-
-    <div class="neben-card">
-      <h3 class="neben-name">Morrek</h3>
-      <div class="neben-role">Karawanen-Händler &middot; zwischen Fraktionen &middot; 41</div>
-      <div class="neben-desc">Telekinese 4 + Wasser 2. Mittelgroß, sehnig, sonnengebräunt. Gold-Ringe in beiden Ohrläppchen (pro überlebte Fahrt einer). Wachsbehandelte Flachsjoppe. Kennt jeden Rastpunkt zwischen Thar-Kem und Orath. Familie in Dorf bei Draveth.</div>
-    </div>
-
-    <div class="neben-card">
-      <h3 class="neben-name">Liran</h3>
-      <div class="neben-role">Register-Führer &middot; Thar-Kem &middot; 24</div>
-      <div class="neben-desc">Niedrig-begabter Spezialist, Telekinese 2. Schlank, blass, Brille aus geschliffenem Glas (teures Handwerk). Ärmelschützer. Entschuldigt sich oft, nimmt die Entschuldigung im selben Satz zurück. Ordnung statt Produktion.</div>
-    </div>
-
-    <!-- ═══════════════════════════════════ NEBENFIGUREN VELMAR ═══════════════════════════════════ -->
-    <div class="section-label">Nebenfiguren — die Velmar</div>
-
-    <div class="neben-card">
-      <h3 class="neben-name">Irenna Torven</h3>
-      <div class="neben-role">Hochbinderin Haus Torven &middot; Velmar-Stadt &middot; 64</div>
-      <div class="neben-desc">Rufen 6 + Binden 5 + Licht 2 (Tripel, obere Grenze). Sieben gebundene Schemen. Hochgewachsen, drahtig. Graue Silbersträhnen, hellgraue Eisaugen. Dünne dunkelblaue Flachsroben. Berührungsintensiv, spricht in Nebensätzen. Will Tradition in dritter Generation weitergeben.</div>
-    </div>
-
-    <div class="neben-card">
-      <h3 class="neben-name">Kalm ⚠</h3>
-      <div class="neben-role">Gebundener Schemen &middot; Haus Torven &middot; 23 Jahre gebunden</div>
-      <div class="neben-desc"><b>Einbau nur in Rücksprache.</b> Humanoid, mannsgroß, Licht-Element. Rauch an Schultern/Nacken. Mimikri als Spezial-Fähigkeit. Spricht — Stimme mitgegeben von Irennas verstorbener Partnerin (Schall 3). Grundemotion Neugier. Bund zweiter Ordnung mit Irenna.</div>
-    </div>
-
-    <div class="neben-card">
-      <h3 class="neben-name">Sefra Varn</h3>
-      <div class="neben-role">Junge Binderin &middot; Haus Varn, Dulveth &middot; 19</div>
-      <div class="neben-desc">Rufen 3 + Binden 1. Erste Bindung vor drei Monaten (Kerra, katzengroß, Wasser). Kastanienbraunes Haar noch offen getragen. Sommersprossen. Spürt die Rückkopplung stärker als vorhergesagt, fragt.</div>
-    </div>
-
-    <div class="neben-card">
-      <h3 class="neben-name">Perrin Halde</h3>
-      <div class="neben-role">Kurtisan &middot; Haus Halde, Eshkara &middot; 37</div>
-      <div class="neben-desc">Rufen 4 + Binden 3 + Schall 2 (Tripel, Berufs-trainiert). Androgyn, dunkle Haut, rasiert mit Henna-Ornamenten. Beide Ohren gepierct, im linken lebende Koralle. Lehrt das Binder-Handwerk, besonders Lust-Trennung bei Rückkopplung. Unabhängig.</div>
-    </div>
-
-    <div class="neben-card">
-      <h3 class="neben-name">Draven Keth</h3>
-      <div class="neben-role">Rufer ohne Bindung &middot; Haus Keth, Velmar &middot; 52</div>
-      <div class="neben-desc">Rufen 5 + Binden 1 (weigert sich zu binden). Groß, knochig. Schlecht verheilte Narbe über dem rechten Jochbein (Sturz vom Stadtmauer-Gerüst mit 15, Heiler verweigert). Grauleinen-Mantel, zu billig für seinen Stand — absichtlich. Zeuge für Mar-Keth-Wahrheit.</div>
-    </div>
-
-    <!-- ═══════════════════════════════════ HISTORISCH — TZ 154 ═══════════════════════════════════ -->
-    <div class="section-label">Historisch — die Vier von TZ 154</div>
-
-    <div class="neben-card">
-      <h3 class="neben-name">Lene Dahl</h3>
-      <div class="neben-role">Schiffbauerin &middot; Vael TZ 154 &middot; Überlebende</div>
-      <div class="neben-desc">Marens Pendant (TZ 154). Kräftig, sonnengebräunt, kurzes rotblondes Haar. Wasser-Neigung (nie entfaltet). Einzige Überlebende des Angriffs der Feuer-Schemen. Schreibt das Manuskript — den einzigen schriftlichen Beleg, den Vael aus dieser Zeit hat. Später von Varen manipuliert.</div>
-    </div>
-
-    <div class="neben-card">
-      <h3 class="neben-name">Keldan Rohn</h3>
-      <div class="neben-role">Schmied &middot; Vael TZ 154 &middot; stirbt im großen Feuer</div>
-      <div class="neben-desc">Runas Pendant (oder Vespers — offene Zuordnung). Eisen/Metall-Resonanz. Sein Erz singt in Vael. Arbeits-Übereinkunft mit Elke — sie zeigt ihm den Handabdruck im Fels, er zeigt ihr den Barren der summt. Stirbt beim Angriff der Feuer-Schemen.</div>
-    </div>
-
-    <div class="neben-card">
-      <h3 class="neben-name">Kesper Holm</h3>
-      <div class="neben-role">Maler &middot; Vael TZ 154 &middot; stirbt im großen Feuer</div>
-      <div class="neben-desc">Sorels Pendant. Licht-Resonanz, vestigial. Malt das einzige Portrait von Elke mit dem Handabdruck am Purpurstein — das Bild, das Alphina in B1-Archiv findet. Stirbt, als er versucht das Portrait aus dem brennenden Atelier zu retten.</div>
-    </div>
-
-    <!-- ═══════════════════════════════════ HISTORISCH — VOR BUCH 1 ═══════════════════════════════════ -->
-    <div class="section-label">Historisch — vor Buch 1</div>
-
-    <div class="neben-card">
-      <h3 class="neben-name">Haron Dahl</h3>
-      <div class="neben-role">Werftbesitzer &middot; Vael, Grauwe-Ufer &middot; gestorben ~B1-Start</div>
-      <div class="neben-desc">Moragh-Mann, von Varen vor ~66 Jahren durchs Portal geschickt. Tarnte sich als Werftbesitzer, baute das Netzwerk auf, das Maren nach Vael zog. Fünf Jahre Briefwechsel mit Maren über Holz und Meer. Starb an Altersschwäche kurz vor Marens Ankunft. Hinterlässt Werft, halbfertiges Boot, einen gebundenen Boots-Schemen — der nach Harons Tod frei weiterbaut.</div>
-    </div>
-
-    <div style="text-align:center; padding: 2rem 0 1rem; font-family: 'Cormorant Garamond', serif; font-size: 0.75rem; color: var(--smoke); letter-spacing: 0.2em;">
-      &#9674;
-    </div>
-  </div>
-
-  <!-- Image-Modal für Klick auf Figuren-Bilder -->
-  <div id="image-modal" class="image-modal" onclick="closeImageModal()">
-    <div class="image-modal-close" onclick="closeImageModal()">×</div>
-    <img id="image-modal-img" src="" alt="">
-    <div id="image-modal-caption" class="image-modal-caption"></div>
+    <div class="status-note" id="status-note"></div>
   </div>
 
   <script>
-    document.querySelectorAll('.char-header').forEach(h => {
-      h.style.cursor = 'pointer';
-    });
+    (async function () {
+      const root = document.getElementById('figuren-root');
+      const statusNote = document.getElementById('status-note');
 
-    // Bilder klickbar: öffnet Modal, verhindert Karten-Toggle
-    const modal = document.getElementById('image-modal');
-    const modalImg = document.getElementById('image-modal-img');
-    const modalCaption = document.getElementById('image-modal-caption');
+      let data;
+      try {
+        const res = await fetch('data/figuren.json', { cache: 'no-cache' });
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        data = await res.json();
+      } catch (e) {
+        root.innerHTML = `<div class="error">Konnte figuren.json nicht laden: ${e.message}</div>`;
+        return;
+      }
 
-    function openImageModal(src, caption) {
-      modalImg.src = src;
-      modalImg.alt = caption || '';
-      modalCaption.textContent = caption || '';
-      modal.classList.add('open');
-      document.body.style.overflow = 'hidden';
-    }
-    function closeImageModal() {
-      modal.classList.remove('open');
-      modalImg.src = '';
-      document.body.style.overflow = '';
-    }
-    // Escape schließt Modal
-    document.addEventListener('keydown', (e) => {
-      if (e.key === 'Escape' && modal.classList.contains('open')) closeImageModal();
-    });
+      function escapeHtml(s) {
+        if (s == null) return '';
+        return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+          .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+      }
 
-    document.querySelectorAll('.char-img').forEach(img => {
-      img.style.cursor = 'zoom-in';
-      img.addEventListener('click', (e) => {
-        e.stopPropagation();
-        const caption = img.alt || '';
-        openImageModal(img.src, caption);
-      });
-    });
+      function figToCard(fig) {
+        const card = document.createElement('div');
+        card.className = 'fig-card';
+        card.dataset.typ = fig.typ || 'nebenfigur';
+        card.dataset.welt = fig.welt || '';
+        card.dataset.slug = fig.slug;
+
+        const povTag = fig.pov ? '<span class="fig-tag pov">POV</span>' : '';
+        const weltTag = fig.welt
+          ? `<span class="fig-tag welt-${fig.welt}">${fig.welt === 'beide' ? 'beide Welten' : fig.welt}</span>`
+          : '';
+        const typLabel = fig.typ === 'hauptfigur' ? 'Hauptfigur' : 'Nebenfigur';
+
+        const metaRows = [];
+        if (fig.alter)    metaRows.push(`<div><span class="lbl">Alter</span>${escapeHtml(fig.alter)}</div>`);
+        if (fig.rolle)    metaRows.push(`<div><span class="lbl">Rolle</span>${escapeHtml(fig.rolle)}</div>`);
+        if (fig.fraktion) metaRows.push(`<div><span class="lbl">Fraktion</span>${escapeHtml(fig.fraktion)}</div>`);
+        if (fig.buecher && fig.buecher.length)
+          metaRows.push(`<div><span class="lbl">Bücher</span>${fig.buecher.join(', ')}</div>`);
+
+        card.innerHTML = `
+          <div class="fig-head">
+            <div class="fig-name">${escapeHtml(fig.name)}</div>
+            <div class="fig-tags">
+              ${povTag}
+              ${weltTag}
+              <span class="fig-tag">${typLabel}</span>
+            </div>
+          </div>
+          ${metaRows.length ? `<div class="fig-meta">${metaRows.join('')}</div>` : ''}
+          <div class="fig-body">${fig.html || '<p><em>Kein Body.</em></p>'}</div>
+          <button class="fig-toggle" type="button">Mehr</button>
+        `;
+
+        card.querySelector('.fig-toggle').addEventListener('click', () => {
+          card.classList.toggle('open');
+          card.querySelector('.fig-toggle').textContent = card.classList.contains('open') ? 'Weniger' : 'Mehr';
+        });
+        return card;
+      }
+
+      const haupt = (data.hauptfiguren || []);
+      const neben = (data.nebenfiguren || []);
+
+      function renderSection(label, figuren, emptyMsg) {
+        const header = document.createElement('div');
+        header.className = 'section-header';
+        header.textContent = `${label} · ${figuren.length}`;
+        root.appendChild(header);
+
+        if (!figuren.length) {
+          const empty = document.createElement('div');
+          empty.className = 'intro';
+          empty.textContent = emptyMsg;
+          root.appendChild(empty);
+          return;
+        }
+        const grid = document.createElement('div');
+        grid.className = 'figuren-grid';
+        figuren.forEach(f => grid.appendChild(figToCard(f)));
+        root.appendChild(grid);
+      }
+
+      root.innerHTML = '';
+      renderSection('Hauptfiguren', haupt, 'Keine Hauptfiguren gefunden.');
+      renderSection('Nebenfiguren', neben, 'Keine Nebenfiguren gefunden.');
+
+      statusNote.textContent = `${haupt.length} Hauptfiguren · ${neben.length} Nebenfiguren · gebaut aus buch/pov/ + buch/nebenfiguren/`;
+
+      // Filter-Logik
+      const filterBtns = document.querySelectorAll('.filter-bar .filter-btn');
+      filterBtns.forEach(btn => btn.addEventListener('click', () => {
+        filterBtns.forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        const f = btn.dataset.filter;
+        document.querySelectorAll('.fig-card').forEach(card => {
+          let show = true;
+          if (f === 'hauptfigur' || f === 'nebenfigur') show = card.dataset.typ === f;
+          else if (f === 'thalassien' || f === 'moragh' || f === 'beide') show = card.dataset.welt === f;
+          card.style.display = show ? '' : 'none';
+        });
+        // Section-Header ausblenden, wenn komplett leer
+        document.querySelectorAll('.section-header').forEach(h => {
+          const grid = h.nextElementSibling;
+          if (!grid || !grid.classList.contains('figuren-grid')) return;
+          const visible = [...grid.querySelectorAll('.fig-card')].some(c => c.style.display !== 'none');
+          h.style.display = visible ? '' : 'none';
+          grid.style.display = visible ? '' : 'none';
+        });
+      }));
+    })();
   </script>
 </body>
 </html>

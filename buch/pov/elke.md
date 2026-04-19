@@ -1,4 +1,20 @@
+---
+name: Elke van der Holt
+slug: elke
+typ: hauptfigur
+pov: true
+ordner: pov
+welt: beide
+reihenfolge: 75
+# alter:
+# fraktion:
+# rolle:
+# buecher: [1, 2, 3]
+---
+
 # Elke van der Holt — POV-Dossier
+
+![Elke in ihrer Steinmetzwerkstatt in Mar-Keth](/img/elke.png)
 
 **Letzte Aktualisierung:** 2026-04-19
 **Status:** Aktiver Kanon. Hauptfigur, POV-Trägerin in TZ-154-Interludien und als Führerin der Vier in Moragh (Buch 2+).

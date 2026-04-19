@@ -1,3 +1,16 @@
+---
+name: Keldan Rohn
+slug: keldan-rohn
+typ: nebenfigur
+pov: false
+ordner: nebenfiguren
+welt: thalassien
+# alter:
+# fraktion:
+# rolle:
+# buecher: [1, 2, 3]
+---
+
 # Keldan Rohn — Nebenfigur (TZ 154, verstorben)
 
 **Status:** Nebenfigur. Aktiver Kanon. TZ-154-Interludien. Stirbt beim großen Feuer.

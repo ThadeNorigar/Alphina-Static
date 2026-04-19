@@ -1,3 +1,16 @@
+---
+name: Thassir Kol
+slug: thassir-kol
+typ: nebenfigur
+pov: false
+ordner: nebenfiguren
+welt: moragh
+# alter:
+# fraktion:
+# rolle:
+# buecher: [1, 2, 3]
+---
+
 # Thassir Kol — Nebenfigur
 
 **Status:** Nebenfigur. Aktiver Kanon.

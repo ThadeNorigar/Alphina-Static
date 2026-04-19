@@ -1,3 +1,17 @@
+---
+name: Iven
+slug: iven
+typ: hauptfigur
+pov: true
+ordner: pov
+welt: moragh
+reihenfolge: 55
+# alter:
+# fraktion:
+# rolle:
+# buecher: [1, 2, 3]
+---
+
 # Iven — POV-Dossier
 
 **Letzte Aktualisierung:** 2026-04-19

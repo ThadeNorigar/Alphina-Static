@@ -1,3 +1,16 @@
+---
+name: Detrik
+slug: detrik
+typ: nebenfigur
+pov: false
+ordner: nebenfiguren
+welt: moragh
+# alter:
+# fraktion:
+# rolle:
+# buecher: [1, 2, 3]
+---
+
 # Detrik — Nebenfigur
 
 **Status:** Nebenfigur. Aktiver Kanon.

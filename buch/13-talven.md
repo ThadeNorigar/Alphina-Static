@@ -1,4 +1,20 @@
+---
+name: Talven
+slug: talven
+typ: hauptfigur
+pov: true
+ordner: buch
+welt: moragh
+reihenfolge: 60
+alter: "23"
+fraktion: "Bund von Orath"
+rolle: "Beschwörer-Lehrling"
+buecher: [2, 3]
+---
+
 # Talven — Der Verräter
+
+![Talven in der Bund-Bibliothek](/img/talven.png)
 
 ## Figur
 

@@ -1,3 +1,16 @@
+---
+name: Kalm
+slug: kalm
+typ: nebenfigur
+pov: false
+ordner: nebenfiguren
+welt: moragh
+# alter:
+# fraktion:
+# rolle:
+# buecher: [1, 2, 3]
+---
+
 # Kalm — Nebenfigur (gebundener Schemen)
 
 > ⚠️ **Einbau nur in Rücksprache.** Diese Figur ist aus Council-Arbeit entstanden und hat aktuell keinen festen Platz im Plot. Bevor Kalm in einem Kapitel, Aktplan oder einer Szene auftaucht, **bitte mit dem Autor abstimmen**. Die Figur ist offen, aber nicht freigegeben.

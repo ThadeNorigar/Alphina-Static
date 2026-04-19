@@ -1,3 +1,16 @@
+---
+name: Vesh
+slug: vesh
+typ: nebenfigur
+pov: false
+ordner: nebenfiguren
+welt: moragh
+# alter:
+# fraktion:
+# rolle:
+# buecher: [1, 2, 3]
+---
+
 # Vesh — Nebenfigur
 
 **Status:** Nebenfigur. Aktiver Kanon.

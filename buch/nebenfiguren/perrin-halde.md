@@ -1,3 +1,16 @@
+---
+name: Perrin Halde
+slug: perrin-halde
+typ: nebenfigur
+pov: false
+ordner: nebenfiguren
+welt: moragh
+# alter:
+# fraktion:
+# rolle:
+# buecher: [1, 2, 3]
+---
+
 # Perrin Halde — Nebenfigur
 
 **Status:** Nebenfigur. Aktiver Kanon.

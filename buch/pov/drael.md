@@ -1,3 +1,17 @@
+---
+name: Drael
+slug: drael
+typ: hauptfigur
+pov: true
+ordner: pov
+welt: moragh
+reihenfolge: 40
+# alter:
+# fraktion:
+# rolle:
+# buecher: [1, 2, 3]
+---
+
 # Drael — POV-Dossier
 
 **Letzte Aktualisierung:** 2026-04-19

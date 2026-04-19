@@ -1,3 +1,16 @@
+---
+name: Haron Dahl
+slug: haron-dahl
+typ: nebenfigur
+pov: false
+ordner: nebenfiguren
+welt: thalassien
+# alter:
+# fraktion:
+# rolle:
+# buecher: [1, 2, 3]
+---
+
 # Haron Dahl — Nebenfigur (verstorben vor B1)
 
 **Status:** Nebenfigur. Aktiver Kanon. Bereits bei Buch-1-Start verstorben.

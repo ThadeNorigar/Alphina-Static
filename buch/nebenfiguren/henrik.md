@@ -1,3 +1,16 @@
+---
+name: Henrik
+slug: henrik
+typ: nebenfigur
+pov: false
+ordner: nebenfiguren
+welt: thalassien
+# alter:
+# fraktion:
+# rolle:
+# buecher: [1, 2, 3]
+---
+
 # Henrik — Nebenfigur
 
 **Status:** Nebenfigur. Aktiver Kanon.

@@ -1,3 +1,16 @@
+---
+name: Kesper Holm
+slug: kesper-holm
+typ: nebenfigur
+pov: false
+ordner: nebenfiguren
+welt: thalassien
+# alter:
+# fraktion:
+# rolle:
+# buecher: [1, 2, 3]
+---
+
 # Kesper Holm — Nebenfigur (TZ 154, verstorben)
 
 **Status:** Nebenfigur. Aktiver Kanon. TZ-154-Interludien. Stirbt beim großen Feuer.

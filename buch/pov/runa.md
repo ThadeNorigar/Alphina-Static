@@ -1,3 +1,17 @@
+---
+name: Runa Kvist
+slug: runa
+typ: hauptfigur
+pov: true
+ordner: pov
+welt: beide
+reihenfolge: 80
+# alter:
+# fraktion:
+# rolle:
+# buecher: [1, 2, 3]
+---
+
 # Runa Kvist — POV-Dossier
 
 ![Runa Kvist in ihrer Druckerei](/img/runa.png)

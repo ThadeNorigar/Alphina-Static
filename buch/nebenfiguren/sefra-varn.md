@@ -1,3 +1,16 @@
+---
+name: Sefra Varn
+slug: sefra-varn
+typ: nebenfigur
+pov: false
+ordner: nebenfiguren
+welt: moragh
+# alter:
+# fraktion:
+# rolle:
+# buecher: [1, 2, 3]
+---
+
 # Sefra Varn — Nebenfigur
 
 **Status:** Nebenfigur. Aktiver Kanon.

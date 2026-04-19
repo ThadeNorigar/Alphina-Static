@@ -1,3 +1,17 @@
+---
+name: Tyra Halvard
+slug: tyra-halvard
+typ: hauptfigur
+pov: true
+ordner: pov
+welt: beide
+reihenfolge: 50
+# alter:
+# fraktion:
+# rolle:
+# buecher: [1, 2, 3]
+---
+
 # Tyra Halvard — POV-Dossier
 
 **Letzte Aktualisierung:** 2026-04-19
