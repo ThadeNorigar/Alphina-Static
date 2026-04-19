@@ -91,10 +91,29 @@
       ]
     },
     {
+      "id": "nebenfiguren-vael",
+      "name": "Nebenfiguren — Vael (B1)",
+      "docs": [
+        {"slug": "nebenfiguren/tohl", "title": "Tohl Daverin", "desc": "Alter Fischer, Hafen-Zeuge"},
+        {"slug": "nebenfiguren/henrik", "title": "Henrik", "desc": "Gärtner des Botanischen Gartens"},
+        {"slug": "nebenfiguren/kvarn", "title": "Kvarn", "desc": "Fischhändler, Vespers Uhren-Kunde"},
+        {"slug": "nebenfiguren/haron-dahl", "title": "Haron Dahl", "desc": "Verstorbener Werftbesitzer — Varens Langzeit-Agent in Vael"}
+      ]
+    },
+    {
+      "id": "historisch-tz154",
+      "name": "Historisch — die Vier von TZ 154",
+      "docs": [
+        {"slug": "nebenfiguren/lene-dahl", "title": "Lene Dahl", "desc": "Schiffbauerin, einzige Überlebende, Schreiberin des Manuskripts"},
+        {"slug": "nebenfiguren/keldan-rohn", "title": "Keldan Rohn", "desc": "Schmied, stirbt im großen Feuer"},
+        {"slug": "nebenfiguren/kesper-holm", "title": "Kesper Holm", "desc": "Maler, malt Elkes Portrait, stirbt im großen Feuer"}
+      ]
+    },
+    {
       "id": "nebenfiguren-uebersicht",
       "name": "Nebenfiguren — Übersicht",
       "docs": [
-        {"slug": "22-moragh-figuren", "title": "Moragh-Nebenfiguren Gesamt", "desc": "Liste aller Nebenfiguren mit Links zu Einzel-Dossiers"}
+        {"slug": "22-moragh-figuren", "title": "Moragh-Nebenfiguren Gesamt", "desc": "Liste aller Moragh-Nebenfiguren mit Links zu Einzel-Dossiers"}
       ]
     },
     {
