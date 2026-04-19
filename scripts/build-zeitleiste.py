@@ -282,6 +282,70 @@ def block_zeitsprung() -> None:
 # Main (Stand: nur Block 1+2 — B1/B2/B3 kommen in naechsten Iterationen)
 # ---------------------------------------------------------------------------
 
+# Erweiterte Detail-Texte fuer B1-K01..K08-Events (statt OLD-Kuerze)
+# Quelle: buch/kapitel/0{1..8}-*.md (finale Kapitel-Files)
+B1_DETAIL_OVERRIDES: dict[str, str] = {
+    "Ein Farn dreht seinen Wedel nach Alphina":
+        "Asplenium nidus am Fenster, die Erde warm wie Haut. Alle fünf Wedel schwenken ruckartig auf sie zu, als sie den Namen Vael auf dem Brief liest.",
+    "Alphina wohnt in Velde":
+        "Vierter Stock, Giebelhaus am Kanal, seit elf Jahren. 49 Pflanzen, die Monstera kennt ihren Weg zur Treppe. Sie nennen sie die Hexe im Vierten.",
+    "Alphina: Farn dreht sich nach ihr":
+        "Drei Uhr morgens, die Erde im Topf warm wie Haut. Sie testet zehnmal nach links und rechts, der Farn folgt. Kein Phototropismus, keine Zugluft. Eine Antwort.",
+    "Sorel findet sein Gesicht auf einer Glasplatte aus Vael":
+        "Kollodium-Nassplatte, Nummer sieben, aus einem Auktionslos Grauküste. Im Rotlicht steigt der Hafen auf, dann sein eigenes Gesicht im Dunst, ruhig und wissend.",
+    "Sorel wohnt in Nachtholm":
+        "Kellerwohnung in der Schluchtstadt, seit dreizehn Jahren. Basalt unter den Füssen, Rotlicht, 263 Gesichter toter Fremder an der Wand. Er schläft tags.",
+    "Sorel: Sein eigenes Gesicht auf fremder Glasplatte":
+        "Platte 7 aus dem Vael-Los, 1783–1791. Sein Gesicht im Nebel der Kaimauer, schärfer als der Rest. Die zweite Platte nach Falkensand — dreizehn Jahre Suche.",
+    "Sorel: Hinweis Vael Lichthaus Keller":
+        "Rückseite der Platte, verblasste braune Tinte, sorgfältige kleine Schrift. Drei Wörter, die ein Ziel benennen, das er nie betreten hat.",
+    "Reisender Uhrmacher erzählt von der 4:33-Standuhr":
+        "Grosser Fremder im Gasthaus »Zur Feder«, marineblaue Augen, Hände ohne Hornhaut. Erzählt beiläufig von einem Herrenhaus in Vael, einer Standuhr, die täglich 273 Sekunden verliert.",
+    "Vesper wohnt in Karst":
+        "Uhrmacherwerkstatt in der Innenlandestadt, sechsundzwanzig Uhren im Regal, jede in eigenem Tempo. Seit dreizehn Jahren keine Diagonalen mehr, nur Zahnräder.",
+    "Vesper trifft den reisenden Uhrmacher":
+        "Fremder Akzent, fragt nach Rubinlagern wie nach einer Landkarte. Marineblauer Blick, der misst. Setzt die Zahl 273 hinter Vespers Stirn und verschwindet spurlos in die Gasse.",
+    "Maren erbt Haron Dahls Werft und das halbfertige Boot":
+        "Brief des Notars. Fünf Jahre Briefwechsel, einundsechzig Briefe, nie getroffen. Werft am Wasser, Lederschürze am Haken, dreiviertel fertiger Rumpf auf Böcken.",
+    "Maren: Haron ging nachts in den Garten":
+        "Edric erzählt es in der Werft, zum Hobel, nicht zu ihr. Haron am Klippenrand, jede Nacht spät, nie ein Wort dazu. Feine Hände, spät gelernt, falscher Akzent.",
+    "Maren: Das Boot ist dreiviertel fertig":
+        "Kiel aus Eiche, Spanten aus Esche, dampfgebogen. Drei Lagen Lärche eingepasst, oben nackte Spanten. Der Knoten im Heckholz geblieben, um ihn herumgeschnitten.",
+    "Alphina in Vael. Trifft Runa Kvist — Druckerin mit warmen Händen.":
+        "Druckerei in der Oberstadt, Geruch von heissem Blei und Hadernpapier. Runa: kurzes dunkles Haar, Druckerschwärze an den Unterarmen, Hände so heiss, dass Alphinas Finger zurückzucken.",
+    "Alphina bezieht den Anker":
+        "Gasthaus in der Hafengasse, zweiter Stock, linke Tür. Drei Schritte breit, Kamin aus Purpurstein, Wochenpreis im Voraus. Das Zimmer reicht für einen Koffer und ein Notizbuch.",
+    "Alphina: Schattentiere in Vael":
+        "Hafengasse nach Mitternacht. Katzengross, faserige Körper aus Rauch, leuchtend schwarze Augen, sitzen an der Wand als gäbe es keine Schwerkraft. Verschwinden beim Blinzeln. Drei Stück.",
+    "Sorel bezieht das Lichthaus":
+        "Dreistöckiges Speichergebäude am Hafen, wie auf der Platte. Keller mit warmer Wand, der nach Fixierer riecht, obwohl leer. Ein alter Nagel sitzt genau dort, wo er die Schnur spannen wollte.",
+    "Sorel: Kratzspuren am Hafenpoller":
+        "Am Kai wartet eine rauchende Gestalt mit Hufen, anderthalb Köpfe grösser, mit Sorels eigenem Gesicht. Nach dem Verschwinden am Poller drei parallele Rillen, Ränder glatt verschmolzen, warm.",
+    "Standuhr verliert 4:33 — reagiert auf Vesper":
+        "Tidemoor-Haus am Grauwe-Ufer. Hand aufs Nussbaumgehäuse: Null Abweichung. Hand weg: 273 Sekunden wieder. Drei Durchgänge, sechs Stunden, dasselbe Ergebnis.",
+    "Vesper bezieht den Anker":
+        "Zweiter Stock, selbe Hafengasse wie Alphina, selbes Haus. Schmales Bett, Werkzeugrolle auf dem Tisch, Pinzetten in ihrer Reihe. Tagsüber am Tidemoor-Haus an der Standuhr.",
+    "Vesper: Standuhr verliert 4:33 pro Tag":
+        "Nussbaumgehäuse, Pendel einwandfrei, Ankerrad sauber, keine Verschleiss-Spur. Hundertzwanzig Halbschwünge pro Minute, jeder an der richtigen Stelle. Trotzdem 273 Sekunden Verlust.",
+    "Vesper: Die Uhr reagiert auf seine Hand":
+        "Handfläche aufs Gehäuse, Wärme kriecht von innen durch das Holz. Sein Puls findet einen fremden Puls. Die Abweichung verschwindet. Hand weg: 4:33. Wie ein Lebewesen, das sich an ihn schmiegt.",
+    "Vesper: Heißes Wasser ohne Kessel":
+        "Tidemoor-Küche nach Mitternacht. Hahn aufgedreht, siebzig Sekunden bis der Dampf steigt. Rohre am Spülstein kalt, im Keller kalt. Kein Kessel, kein Ofen, kein Brennstoff.",
+    "Vesper: Kratzspuren am Kellerfenster":
+        "Aus der Ecke ein Kratzen, drei Striche, Pause, drei Striche. Am Rahmen drei parallele Rillen, zwanzig Zentimeter, Kanten wie geschmolzen. Warm wie Sorels Poller. Dieselbe Hand.",
+    "Boot baut sich nachts weiter — Schemen arbeiten":
+        "Unter dem alten Segel versteckt, sieht Maren eine rauchende Gestalt durchs Tor gleiten. Breite Schultern, schwere Hände mit glänzenden Fingerspitzen, setzt eine Lärchenplanke ohne Hammer ein.",
+    "Maren trifft Tohl Daverin":
+        "Fischer, vierzig Jahre auf der Grauwe, Gesicht wie Treibholz. Sitzt jeden Morgen am Stegende. Zeigt ihr den rückwärts fliessenden Streifen: »Ich will, dass Sie's erkennen, nicht glauben.«",
+    "Maren: Das Boot wächst nachts weiter":
+        "Jeden Morgen eine neue Planke, fünfte Reihe Steuerbord, Lärche, warm. Naht so eng, dass der Fingernagel nicht hineinpasst. Ihr Bleistiftstrich: morgens abgeschliffen, die Lücke darunter geschlossen.",
+    "Maren: Wasser fließt rückwärts in die Werft":
+        "Tohl zeigt es an der Mündung: ein zehn Meter breiter Streifen läuft flussaufwärts gegen das Gefälle. Seit drei Wochen, erst nachts, jetzt auch tags. Ein Rinnsal sucht ihre Hand auf dem Werftboden.",
+    "Maren: Pochen unter der Werft":
+        "Ohr auf das warme Bretterholz. Tief, so tief dass sie es fühlt statt hört: einmal, Pause, einmal. Ein Herzschlag im Gestein, der ihren eigenen Puls verlangsamt, bis er im Takt liegt.",
+}
+
+
 # =====================================================================
 # BLOCK 3 — B1 (aus OLD extrahiert, neues Schema, Thalassien-fokussiert)
 # =====================================================================
@@ -345,6 +409,10 @@ def block_b1() -> None:
                 # Leichte Staffelung innerhalb eines Kapitels, falls mehrere Events
                 tz_sort += 0.0001 * (len([x for x in EVENTS if x.get("buch")=="B1" and x.get("kapitel")==kap]))
 
+                titel = ev.get("titel") or ""
+                detail_orig = ev.get("detail") or ""
+                detail = B1_DETAIL_OVERRIDES.get(titel, detail_orig)
+
                 new_ev = {
                     "tz": tz_year,
                     "tz_sort": tz_sort,
@@ -354,8 +422,8 @@ def block_b1() -> None:
                     "buch": "B1",
                     "kapitel": kap,
                     "leseart": "interludium" if kap.startswith("I") else "normal",
-                    "titel": ev.get("titel") or "",
-                    "detail": ev.get("detail") or "",
+                    "titel": titel,
+                    "detail": detail,
                     "typen": ev.get("typen") or [],
                     "tags": ev.get("tags") or [],
                     "kapitel_status": ev.get("kapitel_status") or "",
@@ -543,12 +611,81 @@ B2_EVENTS: list[dict[str, Any]] = [
 ]
 
 
+# Erweiterte Detail-Texte fuer B2-Events, strikt aus Akt-Docs + Synopse extrahiert.
+# Quellen: 06-09-buch2-akt*.md, synopse-b2.md, B3-ZEITLEISTE.md (B2-Ende), 00-storyline.md
+B2_DETAIL_OVERRIDES: dict[str, str] = {
+    "Drei-Tage-Marsch zum Lichtschein":
+        "Drei Tage nach Sorels Tod marschieren Alphina, Vesper, Maren und Runa zum Lichtschein, den sie am Ende von B1 gesehen haben. Fremde Flora am eigenen Leib, Harons Sprachbrocken passen nur halb, Runas Feuer hält Wunden.",
+    "Alphinas erster Schlaf-Hain":
+        "Alphina schläft am Feuer ein. Im Schlaf bricht der Boden um sie auf: Gras, Farne, Moos, Ranken in einem Kreis von zehn Metern. Am Morgen ein Hain. Sie hat nichts getan, nichts gewollt, kann es nicht wiederholen, nicht stoppen.",
+    "Vesper liest Moraghs Struktur":
+        "Vesper kartografiert. Bäume in Spiralen, Flüsse nach Fibonacci, zwei Monde im Verhältnis 4:33 — Varens Frequenz oder Moraghs eigene. Die Sonne: kein Feuerball, ein dunkler Kern mit gleissendem Ring.",
+    "Runas Feuer-Resonanz entdeckt":
+        "Runa hält ihren Schmelzlöffel — das Zinn wird weich in ihrer Hand, schmilzt ohne Ofen. Sie lässt ihn fallen. Später formt sie eine Messing-Type, ein perfektes A, aus der Hand. In Vael hätte sie dafür einen Schmelzofen gebraucht.",
+    "Elke findet die Vier":
+        "Die Gruppe findet Elke van der Holt in ihrem Steingarten — vierhundert Jahre in Moragh, Pflanzen aus beiden Welten, Basalt den sie geformt hat. Sie legt die Hand auf Alphinas Schlaf-Hain: »Das kostet dich nichts, oder?«",
+    "Das Portal ist zu — Maren spürt die Richtung":
+        "Maren sucht das Portal durch das Wasser. Sie fühlt den Punkt, wo die Welt dünn wird — aber geschlossen, Stein dahinter. Die Moragh-Seite hat eine eigene Mechanik. Wenn sie die Anleitung fände, könnte sie es von hier öffnen.",
+    "Ankunft in der Bund-Stadt":
+        "Elke führt die Vier zwei Tage Marsch zur nächsten Bund-Stadt: gewachsene Türme, Strassen die sich verschieben, Brücken über bergauf fliessende Flüsse. Bewohner mit Purpur-, Weinrot- und schwarzen Augen. Staunen, Flüstern, zeigende Finger.",
+    "Talven, Drael und Nyr treten auf":
+        "Talven, dreiundzwanzig, schmaler Bibliotheks-Lehrling, bringt Vesper Tee und Reservoirkarten — hilfsbereit, schnell. Drael, Bund-Kommandant. Nyr, Thar-Emissärin in ihrer Magitech-Bestie: »Du bist der, der Muster sieht.«",
+    "Bund trainiert Alphina, die Farbe kippt":
+        "Alphina lernt tagsüber Kontrolle unter Bund-Meistern. Solange sie diszipliniert ist, wächst es grün. Wenn die Wut durchbricht, kippt die Farbe nach schwarz/rot, die Ranken werden dicht wie Drahtseile. Die Meister nennen es »Verunreinigung«.",
+    "Varen beobachtet aus der Distanz":
+        "Varen schickt Schemen als Späher. Sie berichten: die Thalassier sind beim Bund angekommen. An seiner Wand drei tote Quellen rot markiert, auf einer zweiten Karte Bund-Truppenbewegungen, die auf weitere Quellen zielen. »Sie kommen.«",
+    "Dorf-Desaster durch Schlaf-Hain":
+        "Bund-Vorführung in einem Dorf drei Stunden von der Stadt. Alphina pflanzt tagsüber einen Baum in zehn Minuten. Nachts im Gasthaus schläft sie. Am Morgen ist das halbe Dorf überwuchert — Farne durch Fenster, Moos über Dächer. Die Bewohner evakuieren vor ihr.",
+    "Vesper geht mit Nyr zu den Thar":
+        "Nyr überzeugt Vesper: »Jedes System hat Fehler. Die Thar benennen ihre.« Er geht mit ihr zu den Thar — bewusste Wahl, nicht Entführung. Er will verstehen, nicht kämpfen, sich weder vom Bund noch von Alphinas Rache instrumentalisieren lassen.",
+    "Alphina und Runa küssen sich — die Welt bleibt still":
+        "Nacht auf dem Dach, zwei Monde. Runas Schulter an Alphinas, Wärme ohne Feuer-Resonanz. Sie küssen sich — ungeschickt, zu schnell. Keine Farne wachsen. Bei Sorel hat die Welt geblüht. Bei Runa ist sie still. Beides macht ihr Angst.",
+    "Runas zweisprachige Druckerpresse in Halvaren":
+        "Runa gründet eine kleine Druckerei in Halvaren — Moragh-Papier, thalassische Lettern, die sie in Moragh-Metall aus der Hand gegossen hat. Sie druckt zweisprachige Flugblätter, dokumentiert, was der Bund-Älteste nicht verbreiten will.",
+    "Talvens Hunger am Hain":
+        "Als alle den Schlaf-Wald anstarren, berührt Talven am Rand eine Ranke. Sein mittelmässiges Reservoir reicht für ein schwebendes Steinchen; nach dreissig Sekunden Kopfschmerzen. Sein Blick auf den Hain — Hunger, einen Moment lang, bevor er wieder lächelt.",
+    "Alphina als Bund-Waffe, blühende Dornen":
+        "Alphina an der Front: Wurzeln reissen durch Stellungen, Bäume wachsen als Barrikaden, Dornenhecken als Verteidigung. Drael behandelt sie wie eine Kanone — Ziel, feuern, nachladen. Jeder Feind trägt Varens Gesicht. Der Hass ist produktiv, der Hass hat Struktur.",
+    "Halvara-Kel: Alphina überlädt die Quelle":
+        "Drael zeigt ihr eine kleinere Nebenquelle — »Sparen hundert Leben.« Alphina drückt Wurzeln tiefer als je zuvor, spürt das pulsierende Herz, überlädt. Die Quelle stirbt. Radius zweihundert Meter: Bäume verdorren, ein Schmied bricht zusammen, Kinder schreien. Sie hat es gewollt.",
+    "Talvens heimliche Resonanz-Ernte":
+        "Talven versucht heimlich eine kleine Resonanz-Ernte an einem fremden Quellchen. Sein Reservoir hält einen Atemzug, dann Nasenbluten, Haarausfall in Büscheln, das rechte Auge milchig. Horror-Disproportion: Alphina tötet im Nebenbei, was Talven fast das Leben kostet.",
+    "Varen fängt Alphina mit Schemen ab":
+        "Als Alphina zur grossen Quelle zielt, strömen Schemen über das Schlachtfeld. Bindungsketten legen sich um ihre Handgelenke. Ihre Pflanzen versuchen zu wachsen — Varens Magie hält. Runa sieht es aus hundert Metern, kämpft, tötet Dutzende Schemen, wird zurückgeschlagen.",
+    "Vier rote Markierungen":
+        "Varens Quartier, kein Gefängnis — ein Labor. An der Wand Karten: vier tote Quellen, rot markiert. Drei alt, verblasst, mit Notizen in Moragh — seine. Eine frisch, klein, an der Position der Thar-Siedlung. Ihre. Dieselbe Tat, verschiedene Gründe.",
+    "Alphina liest die Bund-Chiffre":
+        "Varen hat abgefangene Bund-Kommunikation entschlüsselt. Alphina liest: Quellen-Zerstörung als koordinierte Kriegsstrategie, Dutzende tote Zonen, zehn weitere Ziele geplant — sechshundert Menschen, achthundert. Sie war nicht die Erste. Nur die Stärkste.",
+    "Varens Geständnis":
+        "Varen in altem Thalassisch, langsam, ohne Rechtfertigung: drei Reservoir-Quellen — Mar-Keth, Dulrath-Ost, Reshkol. Leylinien-Experiment, Kettenreaktion, zweihunderttausend heimatlos, Kriegsausbruch. »Niemand weiss es. Nur du.« Auf Alphinas Frage nach Sorel: »Weil dein Hass Treibstoff brauchte.«",
+    "Sex mit Varen — Resonanz-Anker gesetzt":
+        "Gewachsen aus geteilter Schuld. Dornen aus Boden, Steinritzen, Decke — schwarz, scharf, dicht. Keine Farne, keine Zärtlichkeit: Kontrolle durch Erkenntnis. Varen setzt heimlich einen Bindungs-Anker in ihrer Frequenz. Sie spürt Wärme an der Wirbelsäule, hält sie für Orgasmus-Nachwirkung.",
+    "Vier-Thalassier-Liste":
+        "Varen an seinem Arbeitstisch. Eine Liste, klein zwischen zwei Büchern versteckt: vier Namen — Alphina, Vesper, Maren, Runa. Neben jedem Namen eine Zahl. Resonanz-Maximum. Das, was sie für das Ritual geben müssten. Kein Kommentar. Kein Zögern.",
+    "Maren findet Portal-Ritual-Anleitung":
+        "In der Thar-Bibliothek findet Maren alte Moragh-Karten des Portal-Netzwerks und die Methode: wie man das Portal von Moragh-Seite öffnet, nicht durch Wasser, durch das Ritual. Gespiegelt zu Vael. Sie HAT Resonanz — für den Hinweg Moragh nach Thalassien reicht es. Einweg.",
+    "Sulkara-Finale: Alphina gegen Bund":
+        "Sulkara, dreizehntausend Bewohner. Der Bund greift mit Ersatz-Magiern die Nebenquelle an. Varen und Alphina kommen als dritte Partei zur Reparatur — Schemen-Vorhut, Umleitung des Überladungsstosses. Ein Baum schiesst zehn Meter hoch, fällt um. Die Quelle lebt.",
+    "Alphina schlägt Talven nieder":
+        "Beim Rückzug nach Torkal kehrt Talven mit blutigen Händen aus Elkes Garten zurück — Varens Falschbeweis, sauber gelegt. Alphina schlägt Talven nieder, glaubt, er habe Elke getötet. Setup Buch 3.",
+    "Maren tritt durchs Portal nach 1987 TZ":
+        "Maren öffnet das Portal am Steinplatz nahe der Thar-Kontrolle. Vesper und Nyr halten Wachen für 4:33 zurück. Die Luft reisst auf: Thalassien, aber 1987 TZ. Gaslampen durch Elektrizität ersetzt, Automobile statt Kutschen. Sie tritt durch. Das Portal schliesst sich.",
+    "Runa reisst den Namen aus dem Farn-Brief":
+        "Bund-Krankenstation, Schnittwunden, gebrochene Rippe. Runa zieht den Brief mit gezeichnetem Farn aus der Tasche — »Alphina. Ich hab nicht aufgehört.« Sie reisst nur den Namen »Alphina« heraus. Den Rest des Briefes, den Farn, die Worte, behält sie.",
+}
+
+
 def block_b2() -> None:
-    """B2-Events einfuegen. MZ wird in tz_sort umgerechnet, tz = gerundete TZ-Aequivalenz."""
+    """B2-Events einfuegen. MZ wird in tz_sort umgerechnet, tz = gerundete TZ-Aequivalenz.
+    Detail-Text wird aus B2_DETAIL_OVERRIDES geholt (strikt aus Akt-Docs extrahiert)."""
     for e in B2_EVENTS:
         mz = e["mz"]
         tz_aequiv = mz_to_tz(mz)
         new_ev = dict(e)
+        # Override Detail wenn vorhanden
+        titel = new_ev.get("titel", "")
+        if titel in B2_DETAIL_OVERRIDES:
+            new_ev["detail"] = B2_DETAIL_OVERRIDES[titel]
         new_ev["tz"] = round(tz_aequiv)
         new_ev["tz_sort"] = tz_aequiv
         new_ev["tz_datum"] = f"MZ {mz:.2f} · TZ {round(tz_aequiv)}"
