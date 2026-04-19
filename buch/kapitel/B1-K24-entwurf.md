@@ -74,6 +74,10 @@ Jara sagt das Erste, was sie an diesem Tag sagt: Das hat am letzten Dienstag nic
 
 Vesper, ruhig: Also wurden die Notizen zwischen Dienstag und heute angebracht. Jara: Zwischen Dienstag und gestern Abend — gestern Abend habe ich die Mappe zuletzt weggeräumt. Vesper: Also wer? Jara hat die Antwort nicht. Die Tür zum Archiv ist nachts verschlossen, der einzige Schlüssel liegt bei Esther.
 
+Jara blättert weiter in der Mappe, vorbei an zwei, drei losen Bögen — das Manuskript ist nicht geheftet, jede Seite einzeln. Auf einer legt sie die Hand zur Seite, zieht sie unter den anderen hervor und dreht sie um: keine Schrift. Eine Zeichnung. Kohle und graue Tusche, grob aber sicher: drei Gestalten vor einer Küstensilhouette, die Alphina als Vael erkennt — der alte Leuchtturm links, das erste Drittel der Kaimauer rechts, die Konturen stimmen. Die Gestalten überragen die Häuser um das Doppelte. Kein Körperumriss im gewohnten Sinn: geflammte Schultern, Arme die in Feuerzungen auslaufen, Köpfe die nicht wie Köpfe sitzen. An den Rändern des Blattes Lenes eigene Hand, nicht die fremde — in derselben Schrift wie der Fließtext: das Datum einer Nacht, die Alphina aus den Chroniken als das Datum des Großen Feuers kennt. Und ein einzelner Satz: *Die Stadt nannte es Funkenflug.*
+
+Esther sagt leise, als sei der Satz für sie selbst: "Das Datum haben wir im Archiv dreihundert Mal. Nie mit dieser Zeichnung daneben." Maren fährt mit dem Finger den oberen Rand der Zeichnung nach, ohne zu berühren, und ihre Fingerknöchel sind weiß. Vesper zählt die Gestalten stumm, zweimal — als wolle er sichergehen, dass es drei sind. Sorel sagt gar nichts, und die Qualität seines Schweigens hat sich wieder verändert.
+
 Alphina legt die Hand flach auf die Seite, nicht weil sie etwas tun will, sondern weil sie den alten Reflex kennt — Material fühlen, nicht nur sehen. Das Papier ist trocken, kühl, normal. Aber die Kerze an der Seitenwand, die gerade wieder ruhig brennt, neigt sich einen halben Finger breit zur Seite, lang, bleibt schief, kommt zurück. Keine Tür, kein Atem. Sorel sieht es zuerst, sagt: "Deine Hand." Und nimmt sie ihr vom Papier — sanft, mit eigenen Fingern um ihr Handgelenk. Die Kerze stabilisiert.
 
 Alphina sieht Sorel an. Sie hat nicht gewusst, dass er es körperlich wahrnimmt, wenn sie wirkt, ohne wirken zu wollen. Jetzt weiß sie es. Sie sagt nichts.
@@ -84,12 +88,16 @@ Esther, leise: Jara hat noch etwas. Bevor wir das hier lesen, will sie, dass Sie
 - Alphina erfährt: Das Manuskript stammt von Lene Dahl, Schreiberin im Rathaus um TZ 154 — also fast vierhundert Jahre alt. Dieselbe Familienlinie wie der Name Dahl, den Maren hineingebracht hat.
 - Alphina erfährt: Der Manuskript-Text beschreibt einen Kreis aus Purpurstein, vier Fremde, eine Schwelle. Das Wort "Moragh" taucht als Ortsname auf — es existiert in der Welt des Textes, niemand am Tisch kennt den Ort.
 - Alphina erfährt: Die Randnotizen wurden zwischen letzten Dienstag und gestern angebracht — jemand hat Zugang zum verschlossenen Archiv. Die einzige Schlüsselinhaberin (Esther) scheidet aus, sonst hätte sie nicht eingeladen.
+- Alphina erfährt (Skizze): Lene hat das Große Feuer selbst gezeichnet — drei Gestalten doppelt menschengroß, flammende Schultern, Vael-Silhouette. Die Randnotiz ist Lenes eigene Hand, das Datum matched mit dem Chronik-Eintrag des Großen Feuers. *Die Stadt nannte es Funkenflug.* Das Manuskript ist kein Theorie-Text, es ist Zeugnis. Lene war dabei.
+- Alphina erfährt (implizit): Die Schemen, die sie kennt — katzengroß auf der Mauer, Wächter-Form im Kampf — sind nicht das Ende der Skala. Es gibt größere. Und sie haben Vael schon einmal niedergebrannt.
 - Maren erfährt (Alphina beobachtet die Stille): Der Kreis unter Vael, von dem Edric sprach, ist der Kreis im Text. Harons Symbolblatt aus K20 wird jetzt rückwirkend verständlich. Die Dahl-Linie reicht vier Jahrhunderte zurück, bis zur Autorin des Manuskripts, das ihr eigener Vorbesitzer offenbar gekannt haben muss. Maren spricht es nicht aus. Alphina liest ihr Ruhigerwerden als Landung einer Erkenntnis.
 - Sorels Beat (Alphina registriert): Er sieht, wenn ihre Magie unbewusst wirkt. Er nimmt ihre Hand weg — ohne zu erklären.
-- Alphinas Erkenntnis am Ende der Szene: Sie ist in dem Text. Vier Fremde, Kreis aus Purpurstein. Wenn das eine Anleitung ist, ist die Anleitung für sie geschrieben — und jemand hat sie vor fast vierhundert Jahren geschrieben.
+- Alphinas Erkenntnis am Ende der Szene: Sie ist in dem Text. Vier Fremde, Kreis aus Purpurstein. Wenn das eine Anleitung ist, ist die Anleitung für sie geschrieben — und jemand hat sie vor fast vierhundert Jahren geschrieben, als derselbe Riss Vael in Brand gesteckt hat.
 
 **Tschechow-Waffen geladen:**
 - Lene Dahl als Autorin des Manuskripts (TZ 154, Schreiberin im Rathaus) — dieselbe Familienlinie wie Haron. Feuert in Buch 2/3, wenn klar wird, was die Dahl-Linie ist und was Haron dort fortgesetzt oder verraten hat.
+- Die Feuer-Schemen-Skizze (drei, doppelt menschengroß, flammende Konturen) — feuert, wenn Varen oder eine andere Moragh-Fraktion erneut Feuer-Schemen schickt, oder wenn die 551er selbst einem begegnen. Geladen als Warnung: Eskalation ist möglich.
+- "Die Stadt nannte es Funkenflug" — Tschechow der offiziellen Geschichtsschreibung. Feuert, wenn die 551er-Ereignisse sich wiederholen und die Stadt erneut eine harmlose Erklärung sucht.
 - Das Wort "Moragh" im Text — Alphina hat es jetzt gehört, kennt den Begriff nicht als Ort, nur als Wort. Feuert in K27/K28, wenn sie durch das Sprachbuch mehr lernt. Und im Moragh-POV.
 - Die fremde Randnotiz-Hand — Varens Hand, ungenannt. Feuert, wenn Alphina die Handschrift wiedersieht (K35+).
 - Sorel spürt Alphinas unbewusste Magie — Setup für die Bruch-Szene K25 (er hat sie lange gespürt, auch bevor er es zugab).
@@ -99,11 +107,13 @@ Esther, leise: Jara hat noch etwas. Bevor wir das hier lesen, will sie, dass Sie
 - K20: Harons Symbolblatt und der Name Dahl im Register. Jetzt: das Register liefert eine zweite Dahl — Lene, vierhundert Jahre früher, Autorin des Manuskripts. Die Linie steht, und Haron ist ihr jüngstes sichtbares Glied.
 - K08 (Maren): Edric sprach von einem Achteck aus Purpurstein unter Vael. Jetzt: der Kreis im Garten ist das, was Edric nur vom Hörensagen kannte.
 - K12+ (Alphina): Sie misst den Steinkreis-Puls seit Monaten. Jetzt weiß sie, was sie da misst — oder mindestens, dass der Kreis in einem fremden, sehr alten Text als Schwellen-Aktivator beschrieben wird.
+- Chronik-Wissen (Akt I Welt-Setup): Das Große Feuer war den vieren bisher nur als historisches Datum bekannt (Vael-Chroniken, Pech-Unglück). Jetzt: kontextualisiert — die Katastrophe war Teil desselben Phänomens, mit dem sie jetzt zu tun haben. Die offizielle Erklärung war falsch.
 
 **Cross-POV-Ankerpunkte:**
 - K20 (Maren/Vesper): Harons Symbolblatt. Hier wird es verbunden.
 - K08 (Maren): Edric erwähnt das Achteck. Hier kommt der Faden wieder hoch.
 - K25 (Sorel): Sorel hat sie jetzt ein weiteres Mal körperlich an der Hand berührt, ohne dass sie gewusst hätte, dass sie etwas tut. K25 Bruch: eine Schicht mehr darüber, dass er sie länger und anders gesehen hat, als sie dachte.
+- I3 (Lene/Elke/Kesper/Keldan, TZ 154): Die Feuer-Schemen der Skizze sind dieselben, die Kesper und Keldan getötet haben. Lene hat sie selbst gesehen und gezeichnet. Die Leserin kennt das, die vier am Tisch nicht — sie sehen nur, dass es schlimmer werden kann. Kein POV-Leak: Alphina weiß nichts von Kesper, Keldan, Elke. Sie sieht eine Zeichnung, ein Datum, einen Satz der die Chronik-Erklärung widerlegt.
 
 ---
 
@@ -188,6 +198,8 @@ Alphinas letzter innerer Beat, nicht ausgesprochen: Sie sind in einer Geschichte
 
 **Was weiß sie am Ende?**
 - Das Manuskript ist von Lene Dahl, TZ 154, Schreiberin im Rathaus — also fast vierhundert Jahre alt, und aus derselben Familienlinie wie Harons Name, den Maren mitgebracht hat
+- Lene war selbst Augenzeugin: das Große Feuer war kein Funkenflug, sondern drei Feuer-Schemen, doppelt menschengroß, die Vael niedergebrannt haben
+- Die Schemen, die sie bisher kennt (katzengroß, Wächter-Form) sind nicht die stärkste Form. Es kann eskalieren
 - Ein Ritual existiert: vier Fremde, ein Kreis aus Purpurstein, eine Schwelle
 - Der Kreis im Ritual ist der Steinkreis im Botanischen Garten
 - Die vier Hör-Arten sind Pflanze, Uhrwerk, Licht, Wasser — das sind sie
