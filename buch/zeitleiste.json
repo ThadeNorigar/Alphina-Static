@@ -28,7 +28,7 @@
       "label": "Erotik",
       "farbe": "#8b3a5a"
     },
-    "schluessel": {
+    "schlüssel": {
       "label": "Schlüssel",
       "farbe": "#b8860b"
     },
@@ -128,11 +128,11 @@
       "buch": "B1",
       "kapitel": "I3",
       "leseart": "interludium",
-      "titel": "Die Nacht des grossen Feuers — Kesper bringt sein letztes Bild",
+      "titel": "Die Nacht des großen Feuers — Kesper bringt sein letztes Bild",
       "detail": "Erscheinungen sind anders geworden — Lene sah eine aufrechte Gestalt, Keldan zählte sieben Schemen am Hafen in einer Nacht. Kesper bringt Elke sein letztes Bild und setzt sich an ihr Bett. Terpentin, Leinöl, Indigo in den Falten. Die Schemen in der Stadt haben sich nicht mehr wie Tiere bewegt — sie sind gefolgt, geduldig, zielgerichtet.",
       "typen": [
         "gaensehaut",
-        "schluessel"
+        "schlüssel"
       ],
       "tags": [
         "Feuer-Schemen",
@@ -155,7 +155,7 @@
       "typen": [
         "portal",
         "tod",
-        "schluessel"
+        "schlüssel"
       ],
       "sync": {
         "thalassien": "Kesper + Keldan sterben. Lene überlebt, schreibt das Manuskript (später von Varen überschrieben).",
@@ -284,7 +284,7 @@
       "kapitel": "",
       "leseart": "hintergrund",
       "titel": "Thalassien — 400 Jahre später",
-      "detail": "Knapp 400 Jahre zwischen Elkes Durchgang und B1-Start. Vael hat sich industrialisiert: Gaslampen statt Öllampen, Druckpressen statt Druckstöcken, erste Dampfschiffe am Hafen, Schreibmaschinen in Kontoren. Lenes Manuskript liegt im Archiv, von Varen überschrieben. Der Botanische Garten ist gewachsen, der Steinkreis steht unverändert. Riss-Phänomene nehmen zu: Farne ohne Licht, Wasser das rückwärts fliesst, Schemen in Kellern.",
+      "detail": "Knapp 400 Jahre zwischen Elkes Durchgang und B1-Start. Vael hat sich industrialisiert: Gaslampen statt Öllampen, Druckpressen statt Druckstöcken, erste Dampfschiffe am Hafen, Schreibmaschinen in Kontoren. Lenes Manuskript liegt im Archiv, von Varen überschrieben. Der Botanische Garten ist gewachsen, der Steinkreis steht unverändert. Riss-Phänomene nehmen zu: Farne ohne Licht, Wasser das rückwärts fließt, Schemen in Kellern.",
       "typen": [
         "sync",
         "hintergrund"
@@ -436,7 +436,7 @@
       "kapitel": "03",
       "leseart": "normal",
       "titel": "Reisender Uhrmacher erzählt von der 4:33-Standuhr",
-      "detail": "Grosser Fremder im Gasthaus »Zur Feder«, marineblaue Augen, Hände ohne Hornhaut. Erzählt beiläufig von einem Herrenhaus in Vael, einer Standuhr, die täglich 273 Sekunden verliert.",
+      "detail": "Großer Fremder im Gasthaus »Zur Feder«, marineblaue Augen, Hände ohne Hornhaut. Erzählt beiläufig von einem Herrenhaus in Vael, einer Standuhr, die täglich 273 Sekunden verliert.",
       "typen": [
         "tschechow"
       ],
@@ -576,7 +576,7 @@
       "kapitel": "05",
       "leseart": "normal",
       "titel": "Alphina in Vael. Trifft Runa Kvist — Druckerin mit warmen Händen.",
-      "detail": "Druckerei in der Oberstadt, Geruch von heissem Blei und Hadernpapier. Runa: kurzes dunkles Haar, Druckerschwärze an den Unterarmen, Hände so heiss, dass Alphinas Finger zurückzucken.",
+      "detail": "Druckerei in der Oberstadt, Geruch von heissem Blei und Hadernpapier. Runa: kurzes dunkles Haar, Druckerschwärze an den Unterarmen, Hände so heiß, dass Alphinas Finger zurückzucken.",
       "typen": [
         "begegnung"
       ],
@@ -1096,7 +1096,7 @@
       "kapitel": "11",
       "leseart": "normal",
       "titel": "Alphina und Vesper finden sich",
-      "detail": "Alphina klopft, fragt nach der 4:33-Standuhr. Vesper erzaehlt zum ersten Mal vor einem anderen Menschen vom aktiven Takt-Geben an der Tidemoor-Uhr. Alphina kontert mit den Farnen an der Nordmauer und dem Stein im Steinkreis. Beide benennen zwei Modi: Geben und Hoeren. Vesper zeigt die Ring-Karte. Alphina identifiziert den Mittelpunkt sofort als den Steinkreis im Botanischen Garten. Verabredung fuer morgen halb zehn am gruenen Tor.",
+      "detail": "Alphina klopft, fragt nach der 4:33-Standuhr. Vesper erzaehlt zum ersten Mal vor einem anderen Menschen vom aktiven Takt-Geben an der Tidemoor-Uhr. Alphina kontert mit den Farnen an der Nordmauer und dem Stein im Steinkreis. Beide benennen zwei Modi: Geben und Hören. Vesper zeigt die Ring-Karte. Alphina identifiziert den Mittelpunkt sofort als den Steinkreis im Botanischen Garten. Verabredung für morgen halb zehn am gruenen Tor.",
       "typen": [
         "begegnung"
       ],
@@ -1147,7 +1147,7 @@
       "kapitel": "11",
       "leseart": "normal",
       "titel": "Kvarns Uhr läuft rein — Vesper erkennt sich selbst als Punkt",
-      "detail": "Nach Alphinas Abgang laeuft Kvarns Taschenuhr ohne weiteres Zutun rein. Vesper erkennt: der Takt wandert vom Resonator ins Material, sobald Kontakt und innerer Takt zusammenfallen — bei Tidemoor als Befehl, bei Kvarn als stille Anwesenheit. Notizbuch: 'Ich bin der achtzehnte Punkt. Zwei Tueren weiter, die neunzehnte.' Die Vier werden selbst Quellen.",
+      "detail": "Nach Alphinas Abgang laeuft Kvarns Taschenuhr ohne weiteres Zutun rein. Vesper erkennt: der Takt wandert vom Resonator ins Material, sobald Kontakt und innerer Takt zusammenfallen — bei Tidemoor als Befehl, bei Kvarn als stille Anwesenheit. Notizbuch: 'Ich bin der achtzehnte Punkt. Zwei Türen weiter, die neunzehnte.' Die Vier werden selbst Quellen.",
       "typen": [
         "gaensehaut",
         "erkenntnis",
@@ -1219,7 +1219,7 @@
       "kapitel": "13",
       "leseart": "normal",
       "titel": "Sorel: Alphina auf jeder Platte (Projektion ohne Erkenntnis)",
-      "detail": "Sorel entwickelt alte Platten (Kai, Oberstadt, Nachtholm) und sieht Alphina auf fast jeder — im Hintergrund, auch auf Aufnahmen aus der Zeit vor ihrem Kennenlernen. Die Haende-Platte aus K12 ist unmoeglich scharf. Er erklaert sich's mit 'die Kamera sieht etwas', versteht nicht: es ist seine eigene unbewusste Licht-Resonanz, geformt von Obsession. Versteckt die Platten in einer Schublade.",
+      "detail": "Sorel entwickelt alte Platten (Kai, Oberstadt, Nachtholm) und sieht Alphina auf fast jeder — im Hintergrund, auch auf Aufnahmen aus der Zeit vor ihrem Kennenlernen. Die Hände-Platte aus K12 ist unmoeglich scharf. Er erklaert sich's mit 'die Kamera sieht etwas', versteht nicht: es ist seine eigene unbewusste Licht-Resonanz, geformt von Obsession. Versteckt die Platten in einer Schublade.",
       "typen": [
         "wissen",
         "resonanz"
@@ -1299,7 +1299,7 @@
       "kapitel": "17",
       "leseart": "normal",
       "titel": "Vesper bringt Maren die Schiffsuhr — erster ehrlicher Austausch über das Unmoegliche",
-      "detail": "Vesper bringt die Schiffsuhr zur Werft — weil er sie sehen will, nicht weil die Uhr es verlangt. Maren fragt nach der Standuhr, er erzaehlt offen. Sie zeigt wortlos den Tee-Strudel: Waerme ohne Erschoepfung, keine Kosten. Vesper starrt eine Sekunde zu lang. Marens BDSM-Wahrnehmung schaerft sich an seiner wartenden Art. Vesper: 'sie muss Alphina kennenlernen.' Verabschiedet sich.",
+      "detail": "Vesper bringt die Schiffsuhr zur Werft — weil er sie sehen will, nicht weil die Uhr es verlangt. Maren fragt nach der Standuhr, er erzaehlt offen. Sie zeigt wortlos den Tee-Strudel: Wärme ohne Erschoepfung, keine Kosten. Vesper starrt eine Sekunde zu lang. Marens BDSM-Wahrnehmung schaerft sich an seiner wartenden Art. Vesper: 'sie muss Alphina kennenlernen.' Verabschiedet sich.",
       "typen": [
         "begegnung"
       ],
@@ -1320,7 +1320,7 @@
       "kapitel": "18",
       "leseart": "normal",
       "titel": "Sorel sucht Vesper — zwei Maenner legen Puzzleteile zusammen",
-      "detail": "Sorel sucht Vesper aus eigenem Antrieb auf: Schemen-Angriff K10, Brandwunde, Alphinas Heilung K12/13, Platten ohne Kamera K16 (er verschweigt das letzte Bild). Vesper bringt: Uhren-Drift, Grundfrequenz 4:33, Marens Tee-Strudel. Beide reden ueber Alphina — unabhaengig voneinander haben sie etwas an ihr beobachtet. Setup fuer das Garten-Treffen in K19.",
+      "detail": "Sorel sucht Vesper aus eigenem Antrieb auf: Schemen-Angriff K10, Brandwunde, Alphinas Heilung K12/13, Platten ohne Kamera K16 (er verschweigt das letzte Bild). Vesper bringt: Uhren-Drift, Grundfrequenz 4:33, Marens Tee-Strudel. Beide reden über Alphina — unabhaengig voneinander haben sie etwas an ihr beobachtet. Setup für das Garten-Treffen in K19.",
       "typen": [
         "begegnung",
         "erkenntnis"
@@ -1342,7 +1342,7 @@
       "kapitel": "19",
       "leseart": "normal",
       "titel": "Alle vier im Garten — erster Kampf gegen einen Waechter-Schemen",
-      "detail": "Vespers arrangiertes Treffen. Alle vier erstmals zusammen. Ein Riss oeffnet sich — Waechter-Schemen (3-4m, tierisch-humanoid). Maren wird an der Schulter verletzt. Vesper verlangsamt den Schemen unabsichtlich. Sorel buendelt Licht — wird geschluckt, zieht Alphina instinktiv weg (Hand an Schulter, Setup fuer K21 und K36). Dann flutet er diffuses Raumlicht. Alphina schickt Wurzeln durch die Beine des verlangsamten Schemens, Vesper beschleunigt sie. Der Koerper loest sich in Rauch auf. Alle vier erschoepft, aber sie fuehlen sich maechtig — das macht sie in Moragh unvorsichtig. Varen hat beobachtet und bekommen was er wollte.",
+      "detail": "Vespers arrangiertes Treffen. Alle vier erstmals zusammen. Ein Riss öffnet sich — Waechter-Schemen (3-4m, tierisch-humanoid). Maren wird an der Schulter verletzt. Vesper verlangsamt den Schemen unabsichtlich. Sorel bündelt Licht — wird geschluckt, zieht Alphina instinktiv weg (Hand an Schulter, Setup für K21 und K36). Dann flutet er diffuses Raumlicht. Alphina schickt Wurzeln durch die Beine des verlangsamten Schemens, Vesper beschleunigt sie. Der Körper löst sich in Rauch auf. Alle vier erschoepft, aber sie fühlen sich mächtig — das macht sie in Moragh unvorsichtig. Varen hat beobachtet und bekommen was er wollte.",
       "typen": [
         "begegnung",
         "schlüssel",
@@ -1367,7 +1367,7 @@
       "kapitel": "20",
       "leseart": "normal",
       "titel": "Maren bringt Vesper Harons Symbolblatt — gemeinsam ins Archiv",
-      "detail": "Maren hat Harons Symbolblatt seit K08 — eine Steinkreis-Zeichnung. Nach dem Kampf in K19 erkennt sie den Kreis wieder, bringt es zu Vesper: 'Ich kann das nicht lesen. Du schon.' Im Archiv assistiert sie ihm freiwillig — sortiert, reicht Seiten, arbeitet ihm zu. Es macht sie ruhig. Vesper bemerkt es, sagt nichts. Esther Voss erkennt den Namen Dahl in einem Register. Jara im Hintergrund hoert alles. Das Manuskript wird erst K23 gefunden — hier nur der Faden.",
+      "detail": "Maren hat Harons Symbolblatt seit K08 — eine Steinkreis-Zeichnung. Nach dem Kampf in K19 erkennt sie den Kreis wieder, bringt es zu Vesper: 'Ich kann das nicht lesen. Du schon.' Im Archiv assistiert sie ihm freiwillig — sortiert, reicht Seiten, arbeitet ihm zu. Es macht sie ruhig. Vesper bemerkt es, sagt nichts. Esther Voss erkennt den Namen Dahl in einem Register. Jara im Hintergrund hört alles. Das Manuskript wird erst K23 gefunden — hier nur der Faden.",
       "typen": [
         "begegnung",
         "schlüssel",
@@ -1390,7 +1390,7 @@
       "kapitel": "21",
       "leseart": "normal",
       "titel": "Alphina und Sorel: Dunkelkammer — Enthüllung, Geständnis, erste intime Szene",
-      "detail": "Alphina findet neunzehn Platten von sich in der Dunkelkammer — aus Winkeln, die sie nie eingenommen hat, zuletzt nackt. Sorel kommt rein, luegt nicht: 'Ich begehre dich. Seit dem Steg. Seit dem Garten. Ich wollte nicht aufhoeren.' Ihr Koerper erinnert sich an K19 (seine Hand an ihrer Schulter). Handgelenke-Callback. Farne wachsen durch die Kellerwaende. Danach: Du statt Sie, nicht als Entscheidung, als Tatsache. Er sagt etwas Beilaeufiges, Zukuenftiges — ein Versprechen, das er nicht weiss, dass er gibt.",
+      "detail": "Alphina findet neunzehn Platten von sich in der Dunkelkammer — aus Winkeln, die sie nie eingenommen hat, zuletzt nackt. Sorel kommt rein, lügt nicht: 'Ich begehre dich. Seit dem Steg. Seit dem Garten. Ich wollte nicht aufhören.' Ihr Körper erinnert sich an K19 (seine Hand an ihrer Schulter). Handgelenke-Callback. Farne wachsen durch die Kellerwaende. Danach: Du statt Sie, nicht als Entscheidung, als Tatsache. Er sagt etwas Beiläufiges, Zukünftiges — ein Versprechen, das er nicht weiß, dass er gibt.",
       "typen": [
         "erotik",
         "erkenntnis"
@@ -1413,7 +1413,7 @@
       "kapitel": "22",
       "leseart": "normal",
       "titel": "Nachbrenner: fremde Pflanze in Vael, der Riss sickert unkontrolliert",
-      "detail": "Tage nach dem Kampf. Maren findet in der Werft eine Pflanze aus der Fuge zwischen Holzboden und Steinmauer — genau dort, wo in K08 das Wasser rueckwaerts hereinsickerte. Flache Blaetter, falsche Jahreszeit, kein Thalassien-Gewaechs. Alphina erkennt sie nicht. Der Riss sickert ohne Varens Zutun. Hafenwasser waermer als es sein sollte.",
+      "detail": "Tage nach dem Kampf. Maren findet in der Werft eine Pflanze aus der Fuge zwischen Holzboden und Steinmauer — genau dort, wo in K08 das Wasser rückwärts hereinsickerte. Flache Blaetter, falsche Jahreszeit, kein Thalassien-Gewaechs. Alphina erkennt sie nicht. Der Riss sickert ohne Varens Zutun. Hafenwasser wärmer als es sein sollte.",
       "typen": [
         "hintergrund"
       ],
@@ -1516,7 +1516,7 @@
       "kapitel": "27",
       "leseart": "normal",
       "titel": "Vesper + Maren: erste Dom/Sub-Nacht im Archiv",
-      "detail": "Spaet, die anderen schlafen. Maren hilft bei Uebersetzungen aus dem Moragh-Sprachbuch. Vesper legt die Hand auf ihre Schulter um auf eine Zeile zu zeigen — dieselbe Geste wie K19, aber ohne Verband, ohne Ausrede. Er nimmt sie nicht weg, sie bewegt sich nicht. Er gibt ihr wenig Bewegungsspielraum, und sie entdeckt: das ist der Zustand, in dem ihr Kopf aufhoert zu laufen. Danach schlaeft sie sofort ein.",
+      "detail": "Spät, die anderen schlafen. Maren hilft bei Uebersetzungen aus dem Moragh-Sprachbuch. Vesper legt die Hand auf ihre Schulter um auf eine Zeile zu zeigen — dieselbe Geste wie K19, aber ohne Verband, ohne Ausrede. Er nimmt sie nicht weg, sie bewegt sich nicht. Er gibt ihr wenig Bewegungsspielraum, und sie entdeckt: das ist der Zustand, in dem ihr Kopf aufhört zu laufen. Danach schlaeft sie sofort ein.",
       "typen": [
         "erotik",
         "schlüssel"
@@ -1656,7 +1656,7 @@
       "kapitel": "ZEITSPRUNG",
       "leseart": "normal",
       "titel": "3 Monate: Sprache lernen, unkontrollierte Risse eskalieren",
-      "detail": "Die Gruppe lernt die Moragh-Sprache aus dem Sprachbuch. Vesper uebersetzt systematisch, die anderen ueben. Wenig Magie-Training — sie trauen sich nach K19 nicht. Risse eskalieren: Moragh-Flora in Mauerritzen, Hafenwasser nach fremdem Salz, Nebel dreimal die Woche, die Grauwe fliesst regelmaessig rueckwaerts. Alphina und Sorel: parallel, kuehl, professionell. Vesper und Maren: schweigend, praezise, ohne Benennung.",
+      "detail": "Die Gruppe lernt die Moragh-Sprache aus dem Sprachbuch. Vesper übersetzt systematisch, die anderen üben. Wenig Magie-Training — sie trauen sich nach K19 nicht. Risse eskalieren: Moragh-Flora in Mauerritzen, Hafenwasser nach fremdem Salz, Nebel dreimal die Woche, die Grauwe fließt regelmaessig rückwärts. Alphina und Sorel: parallel, kühl, professionell. Vesper und Maren: schweigend, praezise, ohne Benennung.",
       "typen": [
         "hintergrund"
       ],
@@ -1690,7 +1690,7 @@
       "tz": 551,
       "tz_sort": 551.815,
       "mz": 0.01,
-      "tz_datum": "Portal-Oeffnung · Ende B1 · MZ 0",
+      "tz_datum": "Portal-Öffnung · Ende B1 · MZ 0",
       "welt": "synchronisation",
       "pov": "Alphina / Vesper / Maren / Runa / Sorel",
       "buch": "B1",
@@ -1700,16 +1700,16 @@
       "detail": "Am Steinkreis im Botanischen Garten: vier Resonanzen wirken zusammen, das Portal bleibt 4:33 offen. Alphina, Sorel, Vesper, Maren treten durch, Runa schlüpft als fünfte durch. In Moragh erwartet Varen sie.",
       "sync": {
         "thalassien": "Vael 551 TZ — der Steinkreis reisst die Luft auf. Zurueck bleiben Henrik im Garten, Halvard, Jara. Das Manuskript im Archiv hat seinen Zweck erfuellt.",
-        "moragh": "MZ 0. Varen wartet am Moragh-Steinplatz in Dravek. Kappt seine Schemen in Vael. Die fuenf Resonanzen sind jetzt hier."
+        "moragh": "MZ 0. Varen wartet am Moragh-Steinplatz in Dravek. Kappt seine Schemen in Vael. Die fünf Resonanzen sind jetzt hier."
       },
       "typen": [
         "portal",
-        "schluessel"
+        "schlüssel"
       ],
       "tags": [
         "Portal-Ritual",
         "4:33",
-        "Fuenf durch"
+        "Fünf durch"
       ],
       "kapitel_status": "final"
     },
@@ -1804,7 +1804,7 @@
       "kapitel": "Epilog",
       "leseart": "normal",
       "titel": "Vael ohne die Fünf -- Varens Spuren verschwinden",
-      "detail": "Schemen verschwinden schlagartig — Varens Inszenierungen enden. Aber kleinere Anomalien bleiben: Wasser fliesst ungewoehnlich, Uhren gehen falsch, Tidemoor-Uhr kaputt, Farne im Garten wachsen weiter. Die Riss-Quelle sickert weiter. Halvard schreibt seinen Bericht — das einzige schriftliche Zeugnis. Jara archiviert Runas Flugblaetter. Das Boot wartet, drei Viertel fertig.",
+      "detail": "Schemen verschwinden schlagartig — Varens Inszenierungen enden. Aber kleinere Anomalien bleiben: Wasser fließt ungewoehnlich, Uhren gehen falsch, Tidemoor-Uhr kaputt, Farne im Garten wachsen weiter. Die Riss-Quelle sickert weiter. Halvard schreibt seinen Bericht — das einzige schriftliche Zeugnis. Jara archiviert Runas Flugblaetter. Das Boot wartet, drei Viertel fertig.",
       "typen": [
         "schlüssel"
       ],
@@ -1955,7 +1955,7 @@
       "kapitel": "10",
       "leseart": "normal",
       "titel": "Ankunft in der Bund-Stadt",
-      "detail": "Elke führt die Vier zwei Tage Marsch zur nächsten Bund-Stadt: gewachsene Türme, Strassen die sich verschieben, Brücken über bergauf fliessende Flüsse. Bewohner mit Purpur-, Weinrot- und schwarzen Augen. Staunen, Flüstern, zeigende Finger.",
+      "detail": "Elke führt die Vier zwei Tage Marsch zur nächsten Bund-Stadt: gewachsene Türme, Straßen die sich verschieben, Brücken über bergauf fliessende Flüsse. Bewohner mit Purpur-, Weinrot- und schwarzen Augen. Staunen, Flüstern, zeigende Finger.",
       "typen": [
         "begegnung",
         "tschechow"
@@ -2284,7 +2284,7 @@
       "kapitel": "26",
       "leseart": "normal",
       "titel": "Varen fängt Alphina mit Schemen ab",
-      "detail": "Als Alphina zur grossen Quelle zielt, strömen Schemen über das Schlachtfeld. Bindungsketten legen sich um ihre Handgelenke. Ihre Pflanzen versuchen zu wachsen — Varens Magie hält. Runa sieht es aus hundert Metern, kämpft, tötet Dutzende Schemen, wird zurückgeschlagen.",
+      "detail": "Als Alphina zur großen Quelle zielt, strömen Schemen über das Schlachtfeld. Bindungsketten legen sich um ihre Handgelenke. Ihre Pflanzen versuchen zu wachsen — Varens Magie hält. Runa sieht es aus hundert Metern, kämpft, tötet Dutzende Schemen, wird zurückgeschlagen.",
       "typen": [
         "krieg",
         "begegnung"
@@ -2350,7 +2350,7 @@
       "kapitel": "31",
       "leseart": "normal",
       "titel": "Varens Geständnis",
-      "detail": "Varen in altem Thalassisch, langsam, ohne Rechtfertigung: drei Reservoir-Quellen — Mar-Keth, Dulrath-Ost, Reshkol. Leylinien-Experiment, Kettenreaktion, zweihunderttausend heimatlos, Kriegsausbruch. »Niemand weiss es. Nur du.« Auf Alphinas Frage nach Sorel: »Weil dein Hass Treibstoff brauchte.«",
+      "detail": "Varen in altem Thalassisch, langsam, ohne Rechtfertigung: drei Reservoir-Quellen — Mar-Keth, Dulrath-Ost, Reshkol. Leylinien-Experiment, Kettenreaktion, zweihunderttausend heimatlos, Kriegsausbruch. »Niemand weiß es. Nur du.« Auf Alphinas Frage nach Sorel: »Weil dein Hass Treibstoff brauchte.«",
       "typen": [
         "erkenntnis",
         "hintergrund"
@@ -2644,7 +2644,7 @@
       "titel": "I7 — Maren gründet die Schwellenforschungsgesellschaft",
       "detail": "Rückblick auf Vael 1990 TZ. Maren mit drei Mitgliedern im Dachgeschoss der Werft: »Dann warten wir Jahrzehnte.« Gründung der späteren staatlich finanzierten Institution.",
       "typen": [
-        "schluessel",
+        "schlüssel",
         "hintergrund"
       ],
       "tags": [
@@ -2889,7 +2889,7 @@
       "typen": [
         "tod",
         "portal",
-        "schluessel"
+        "schlüssel"
       ],
       "sync": {
         "thalassien": "Vael 2037 TZ. Institut-Aussengebäude zerstört. Maren stirbt im Angesicht der Verwüster.",
@@ -3024,7 +3024,7 @@
       "detail": "Ein aufgeladener Schemen betritt Elkes Haus in Dravek. Sie wehrt sich. Der Schemen tötet in der Küche, trägt sie in den Garten, platziert sie auf der Bank. Nimmt den Basalt-Splitter-Anhänger, findet das Maren-Dokument nicht.",
       "typen": [
         "tod",
-        "schluessel"
+        "schlüssel"
       ],
       "tags": [
         "Elke tot",
@@ -3133,7 +3133,7 @@
       "detail": "Sie wartet, bis Varen schläft, sprengt mit Wurzeln ein Schloss im Schreibtisch. Findet Ritual-Buch, Liste, am Rand in seiner Handschrift: »Die Trauer macht sie stärker. Sorels Nutzen liegt im Sterben.«",
       "typen": [
         "erkenntnis",
-        "schluessel"
+        "schlüssel"
       ],
       "tags": [
         "Sorels Nutzen im Sterben"
@@ -3349,10 +3349,10 @@
       "typen": [
         "portal",
         "krieg",
-        "schluessel"
+        "schlüssel"
       ],
       "sync": {
-        "thalassien": "Vael 2120 TZ. Institut schickt grossen Zug, Hymnen und Propaganda. Kein Weg zurück im Plan.",
+        "thalassien": "Vael 2120 TZ. Institut schickt großen Zug, Hymnen und Propaganda. Kein Weg zurück im Plan.",
         "moragh": "Steinplatz-Gebiet wird Militärzone. Moragh-Flüchtlinge strömen nach Westen."
       },
       "tags": [
@@ -3437,7 +3437,7 @@
       "kapitel": "73",
       "leseart": "normal",
       "titel": "Varen versammelt seinen Zirkel — Einladung",
-      "detail": "Zwanzig bis dreissig Anhänger, Velmar-Fragmente, Bund-Überläufer. Varen schickt eine Einladung an Alphina und Vesper: Duell-Ort, Duell-Zeit, Duell-Regeln. Er weiss, sie kommen.",
+      "detail": "Zwanzig bis dreissig Anhänger, Velmar-Fragmente, Bund-Überläufer. Varen schickt eine Einladung an Alphina und Vesper: Duell-Ort, Duell-Zeit, Duell-Regeln. Er weiß, sie kommen.",
       "typen": [
         "begegnung",
         "tschechow"
@@ -3484,7 +3484,7 @@
       "detail": "Drei Kapitel, etwa 15.000 Wörter. Varen in seinem Ring. Alphina und Vesper. Varen löst den Anker über seine Frequenz aus — Alphinas Dornen wachsen unter ihrer Haut. Vespers Schemen-Angriff zielt auf seinen Temporal-Helm.",
       "typen": [
         "krieg",
-        "schluessel"
+        "schlüssel"
       ],
       "tags": [
         "Duell",
@@ -3528,7 +3528,7 @@
       "typen": [
         "erkenntnis",
         "tod",
-        "schluessel"
+        "schlüssel"
       ],
       "tags": [
         "Register-Bruch",
@@ -3552,7 +3552,7 @@
       "detail": "Mit verbleibenden zwei Fingern und Dornen. Kein Pathos, keine Rede. Varens letztes Wort: »Garten.« Sie versteht erst, dass er Elke meinte, als sie ihre Finger im Gras liegen sieht.",
       "typen": [
         "tod",
-        "schluessel"
+        "schlüssel"
       ],
       "tags": [
         "Varen tot",
@@ -3575,7 +3575,7 @@
       "typen": [
         "portal",
         "tod",
-        "schluessel"
+        "schlüssel"
       ],
       "sync": {
         "thalassien": "Vael 2153 TZ. Alle Magie permanent weg. Farne stehen still, Steinkreis kalt, Institut wird zur Ruine einer überholten Wissenschaft.",
@@ -3688,7 +3688,7 @@
       "detail": "Halvek-Mar, Küstenstadt im Westen. Alphina (drei Finger fehlen, Farne wachsen wieder grün), Vesper (amputiert, Uhren bauen mit Prothese), Runa und Nyr (Kessler als zivile Arbeitsbestie im Hafen), Tyra (Moragh-Heimat, Schall-Resonanz). Stille. Meer. Narben. Keine Heimkehr.",
       "typen": [
         "hintergrund",
-        "schluessel"
+        "schlüssel"
       ],
       "tags": [
         "Halvek-Mar",

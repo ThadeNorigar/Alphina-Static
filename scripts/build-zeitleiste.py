@@ -95,7 +95,7 @@ TYPEN = {
     "begegnung":    {"label": "Begegnung",    "farbe": "#4a6a7a"},
     "erkenntnis":   {"label": "Erkenntnis",   "farbe": "#6a5080"},
     "erotik":       {"label": "Erotik",       "farbe": "#8b3a5a"},
-    "schluessel":   {"label": "Schlüssel",    "farbe": "#b8860b"},
+    "schlüssel":   {"label": "Schlüssel",    "farbe": "#b8860b"},
     "tod":          {"label": "Tod",          "farbe": "#6b6259"},
     "tschechow":    {"label": "Tschechow",    "farbe": "#5a7a5a"},
     "hintergrund":  {"label": "Hintergrund",  "farbe": "#555555"},
@@ -167,9 +167,9 @@ def block_tz_154() -> None:
         "tz_datum": "28. Frostmond 154 TZ",
         "welt": "thalassien", "pov": "Elke",
         "buch": "B1", "kapitel": "I3", "leseart": "interludium",
-        "titel": "Die Nacht des grossen Feuers — Kesper bringt sein letztes Bild",
+        "titel": "Die Nacht des großen Feuers — Kesper bringt sein letztes Bild",
         "detail": "Erscheinungen sind anders geworden — Lene sah eine aufrechte Gestalt, Keldan zählte sieben Schemen am Hafen in einer Nacht. Kesper bringt Elke sein letztes Bild und setzt sich an ihr Bett. Terpentin, Leinöl, Indigo in den Falten. Die Schemen in der Stadt haben sich nicht mehr wie Tiere bewegt — sie sind gefolgt, geduldig, zielgerichtet.",
-        "typen": ["gaensehaut", "schluessel"],
+        "typen": ["gaensehaut", "schlüssel"],
         "tags": ["Feuer-Schemen", "Tschechow: Varen-Bindung"],
         "kapitel_status": "final",
     })
@@ -183,7 +183,7 @@ def block_tz_154() -> None:
         "buch": "B1", "kapitel": "I3", "leseart": "interludium",
         "titel": "Portal-Übertritt — Elke geht durch, Varen empfängt",
         "detail": "Drei Feuer-Schemen wüten in Vael. Die Vier öffnen das Portal von der Thalassien-Seite. Kesper und Keldan sterben im Kampf. Elke tritt durch. Lene überlebt als Einzige, wird später das Manuskript schreiben. Auf der Moragh-Seite: Varen kappt die Schemen-Bindung, sobald er Elke empfangen hat — die Schemen lösen sich in Vael in Rauch auf.",
-        "typen": ["portal", "tod", "schluessel"],
+        "typen": ["portal", "tod", "schlüssel"],
         "sync": {
             "thalassien": "Kesper + Keldan sterben. Lene überlebt, schreibt das Manuskript (später von Varen überschrieben).",
             "moragh": "Varen empfängt Elke. Kappt Schemen-Bindung in Vael. Beginn ihrer sechs Monate in Mar-Keth.",
@@ -268,7 +268,7 @@ def block_zeitsprung() -> None:
         "welt": "synchronisation", "pov": "",
         "buch": "", "kapitel": "", "leseart": "hintergrund",
         "titel": "Thalassien — 400 Jahre später",
-        "detail": "Knapp 400 Jahre zwischen Elkes Durchgang und B1-Start. Vael hat sich industrialisiert: Gaslampen statt Öllampen, Druckpressen statt Druckstöcken, erste Dampfschiffe am Hafen, Schreibmaschinen in Kontoren. Lenes Manuskript liegt im Archiv, von Varen überschrieben. Der Botanische Garten ist gewachsen, der Steinkreis steht unverändert. Riss-Phänomene nehmen zu: Farne ohne Licht, Wasser das rückwärts fliesst, Schemen in Kellern.",
+        "detail": "Knapp 400 Jahre zwischen Elkes Durchgang und B1-Start. Vael hat sich industrialisiert: Gaslampen statt Öllampen, Druckpressen statt Druckstöcken, erste Dampfschiffe am Hafen, Schreibmaschinen in Kontoren. Lenes Manuskript liegt im Archiv, von Varen überschrieben. Der Botanische Garten ist gewachsen, der Steinkreis steht unverändert. Riss-Phänomene nehmen zu: Farne ohne Licht, Wasser das rückwärts fließt, Schemen in Kellern.",
         "typen": ["sync", "hintergrund"],
         "sync": {
             "thalassien": "Industrialisierung, Vael TZ 551. Riss-Phänomene eskalieren seit Varens brachialer Portal-Aktivität (MZ -3). Das Archiv hütet Lenes (überschriebenes) Manuskript.",
@@ -279,10 +279,10 @@ def block_zeitsprung() -> None:
 
 
 # ---------------------------------------------------------------------------
-# Main (Stand: nur Block 1+2 — B1/B2/B3 kommen in naechsten Iterationen)
+# Main (Stand: nur Block 1+2 — B1/B2/B3 kommen in nächsten Iterationen)
 # ---------------------------------------------------------------------------
 
-# Erweiterte Detail-Texte fuer B1-K01..K08-Events (statt OLD-Kuerze)
+# Erweiterte Detail-Texte für B1-K01..K08-Events (statt OLD-Kuerze)
 # Quelle: buch/kapitel/0{1..8}-*.md (finale Kapitel-Files)
 B1_DETAIL_OVERRIDES: dict[str, str] = {
     "Ein Farn dreht seinen Wedel nach Alphina":
@@ -300,7 +300,7 @@ B1_DETAIL_OVERRIDES: dict[str, str] = {
     "Sorel: Hinweis Vael Lichthaus Keller":
         "Rückseite der Platte, verblasste braune Tinte, sorgfältige kleine Schrift. Drei Wörter, die ein Ziel benennen, das er nie betreten hat.",
     "Reisender Uhrmacher erzählt von der 4:33-Standuhr":
-        "Grosser Fremder im Gasthaus »Zur Feder«, marineblaue Augen, Hände ohne Hornhaut. Erzählt beiläufig von einem Herrenhaus in Vael, einer Standuhr, die täglich 273 Sekunden verliert.",
+        "Großer Fremder im Gasthaus »Zur Feder«, marineblaue Augen, Hände ohne Hornhaut. Erzählt beiläufig von einem Herrenhaus in Vael, einer Standuhr, die täglich 273 Sekunden verliert.",
     "Vesper wohnt in Karst":
         "Uhrmacherwerkstatt in der Innenlandestadt, sechsundzwanzig Uhren im Regal, jede in eigenem Tempo. Seit dreizehn Jahren keine Diagonalen mehr, nur Zahnräder.",
     "Vesper trifft den reisenden Uhrmacher":
@@ -312,7 +312,7 @@ B1_DETAIL_OVERRIDES: dict[str, str] = {
     "Maren: Das Boot ist dreiviertel fertig":
         "Kiel aus Eiche, Spanten aus Esche, dampfgebogen. Drei Lagen Lärche eingepasst, oben nackte Spanten. Der Knoten im Heckholz geblieben, um ihn herumgeschnitten.",
     "Alphina in Vael. Trifft Runa Kvist — Druckerin mit warmen Händen.":
-        "Druckerei in der Oberstadt, Geruch von heissem Blei und Hadernpapier. Runa: kurzes dunkles Haar, Druckerschwärze an den Unterarmen, Hände so heiss, dass Alphinas Finger zurückzucken.",
+        "Druckerei in der Oberstadt, Geruch von heissem Blei und Hadernpapier. Runa: kurzes dunkles Haar, Druckerschwärze an den Unterarmen, Hände so heiß, dass Alphinas Finger zurückzucken.",
     "Alphina bezieht den Anker":
         "Gasthaus in der Hafengasse, zweiter Stock, linke Tür. Drei Schritte breit, Kamin aus Purpurstein, Wochenpreis im Voraus. Das Zimmer reicht für einen Koffer und ein Notizbuch.",
     "Alphina: Schattentiere in Vael":
@@ -428,27 +428,27 @@ def block_b1() -> None:
                     "tags": ev.get("tags") or [],
                     "kapitel_status": ev.get("kapitel_status") or "",
                 }
-                # MZ nur fuer Moragh-B1-Events setzen (K35/K36)
+                # MZ nur für Moragh-B1-Events setzen (K35/K36)
                 if welt == "moragh" and kap in ("35", "36"):
                     new_ev["mz"] = 0.02 if kap == "35" else 0.04
-                # kein mz fuer Thalassien-B1-Events (die MZ 3634/3635 aus OLD ist Altzaehlung, raus)
+                # kein mz für Thalassien-B1-Events (die MZ 3634/3635 aus OLD ist Altzaehlung, raus)
                 EVENTS.append(new_ev)
 
     # Portal-Uebertritt B1 → B2 als Synchronisations-Event einfuegen
     add({
         "tz": 551, "tz_sort": 551.815,
         "mz": 0.01,
-        "tz_datum": "Portal-Oeffnung · Ende B1 · MZ 0",
+        "tz_datum": "Portal-Öffnung · Ende B1 · MZ 0",
         "welt": "synchronisation", "pov": "Alphina / Vesper / Maren / Runa / Sorel",
         "buch": "B1", "kapitel": "34", "leseart": "normal",
         "titel": "Portal öffnet sich — Fünf gehen nach Moragh",
         "detail": "Am Steinkreis im Botanischen Garten: vier Resonanzen wirken zusammen, das Portal bleibt 4:33 offen. Alphina, Sorel, Vesper, Maren treten durch, Runa schlüpft als fünfte durch. In Moragh erwartet Varen sie.",
         "sync": {
             "thalassien": "Vael 551 TZ — der Steinkreis reisst die Luft auf. Zurueck bleiben Henrik im Garten, Halvard, Jara. Das Manuskript im Archiv hat seinen Zweck erfuellt.",
-            "moragh": "MZ 0. Varen wartet am Moragh-Steinplatz in Dravek. Kappt seine Schemen in Vael. Die fuenf Resonanzen sind jetzt hier.",
+            "moragh": "MZ 0. Varen wartet am Moragh-Steinplatz in Dravek. Kappt seine Schemen in Vael. Die fünf Resonanzen sind jetzt hier.",
         },
-        "typen": ["portal", "schluessel"],
-        "tags": ["Portal-Ritual", "4:33", "Fuenf durch"],
+        "typen": ["portal", "schlüssel"],
+        "tags": ["Portal-Ritual", "4:33", "Fünf durch"],
         "kapitel_status": "final",
     })
 
@@ -490,7 +490,7 @@ B2_EVENTS: list[dict[str, Any]] = [
      "tags": ["Portal-geschlossen", "Wasserresonanz"]},
     {"mz": 0.5, "welt": "moragh", "pov": "Alphina", "buch": "B2", "kapitel": "10", "leseart": "normal",
      "titel": "Ankunft in der Bund-Stadt",
-     "detail": "Elke führt die Fünf in die Bund-Stadt. Türme aus gewachsenem Stein, Strassen die sich verschieben. Die Älteste greift Alphinas Hand zu schnell — Hoffnung, nicht Gier.",
+     "detail": "Elke führt die Fünf in die Bund-Stadt. Türme aus gewachsenem Stein, Straßen die sich verschieben. Die Älteste greift Alphinas Hand zu schnell — Hoffnung, nicht Gier.",
      "typen": ["begegnung", "tschechow"],
      "tags": ["Bund-Stadt", "Hand greift"]},
     {"mz": 0.7, "welt": "moragh", "pov": "Vesper", "buch": "B2", "kapitel": "12", "leseart": "normal",
@@ -550,7 +550,7 @@ B2_EVENTS: list[dict[str, Any]] = [
      "tags": ["Talven-Ernte", "milchiges Auge"]},
     {"mz": 3.2, "welt": "moragh", "pov": "Alphina", "buch": "B2", "kapitel": "26", "leseart": "normal",
      "titel": "Varen fängt Alphina mit Schemen ab",
-     "detail": "Als Alphina auf die grosse Quelle zielt, strömen Schemen übers Feld. Bindungsketten. Runa kämpft sich aus hundert Metern durch, wird zurückgeschlagen. Alphina wird weggetragen.",
+     "detail": "Als Alphina auf die große Quelle zielt, strömen Schemen übers Feld. Bindungsketten. Runa kämpft sich aus hundert Metern durch, wird zurückgeschlagen. Alphina wird weggetragen.",
      "typen": ["krieg", "begegnung"],
      "tags": ["Schemen-Ketten", "Runa sieht es"]},
     {"mz": 3.25, "welt": "moragh", "pov": "Varen", "buch": "B2", "kapitel": "I10", "leseart": "interludium",
@@ -611,7 +611,7 @@ B2_EVENTS: list[dict[str, Any]] = [
 ]
 
 
-# Erweiterte Detail-Texte fuer B2-Events, strikt aus Akt-Docs + Synopse extrahiert.
+# Erweiterte Detail-Texte für B2-Events, strikt aus Akt-Docs + Synopse extrahiert.
 # Quellen: 06-09-buch2-akt*.md, synopse-b2.md, B3-ZEITLEISTE.md (B2-Ende), 00-storyline.md
 B2_DETAIL_OVERRIDES: dict[str, str] = {
     "Drei-Tage-Marsch zum Lichtschein":
@@ -627,7 +627,7 @@ B2_DETAIL_OVERRIDES: dict[str, str] = {
     "Das Portal ist zu — Maren spürt die Richtung":
         "Maren sucht das Portal durch das Wasser. Sie fühlt den Punkt, wo die Welt dünn wird — aber geschlossen, Stein dahinter. Die Moragh-Seite hat eine eigene Mechanik. Wenn sie die Anleitung fände, könnte sie es von hier öffnen.",
     "Ankunft in der Bund-Stadt":
-        "Elke führt die Vier zwei Tage Marsch zur nächsten Bund-Stadt: gewachsene Türme, Strassen die sich verschieben, Brücken über bergauf fliessende Flüsse. Bewohner mit Purpur-, Weinrot- und schwarzen Augen. Staunen, Flüstern, zeigende Finger.",
+        "Elke führt die Vier zwei Tage Marsch zur nächsten Bund-Stadt: gewachsene Türme, Straßen die sich verschieben, Brücken über bergauf fliessende Flüsse. Bewohner mit Purpur-, Weinrot- und schwarzen Augen. Staunen, Flüstern, zeigende Finger.",
     "Talven, Drael und Nyr treten auf":
         "Talven, dreiundzwanzig, schmaler Bibliotheks-Lehrling, bringt Vesper Tee und Reservoirkarten — hilfsbereit, schnell. Drael, Bund-Kommandant. Nyr, Thar-Emissärin in ihrer Magitech-Bestie: »Du bist der, der Muster sieht.«",
     "Bund trainiert Alphina, die Farbe kippt":
@@ -651,13 +651,13 @@ B2_DETAIL_OVERRIDES: dict[str, str] = {
     "Talvens heimliche Resonanz-Ernte":
         "Talven versucht heimlich eine kleine Resonanz-Ernte an einem fremden Quellchen. Sein Reservoir hält einen Atemzug, dann Nasenbluten, Haarausfall in Büscheln, das rechte Auge milchig. Horror-Disproportion: Alphina tötet im Nebenbei, was Talven fast das Leben kostet.",
     "Varen fängt Alphina mit Schemen ab":
-        "Als Alphina zur grossen Quelle zielt, strömen Schemen über das Schlachtfeld. Bindungsketten legen sich um ihre Handgelenke. Ihre Pflanzen versuchen zu wachsen — Varens Magie hält. Runa sieht es aus hundert Metern, kämpft, tötet Dutzende Schemen, wird zurückgeschlagen.",
+        "Als Alphina zur großen Quelle zielt, strömen Schemen über das Schlachtfeld. Bindungsketten legen sich um ihre Handgelenke. Ihre Pflanzen versuchen zu wachsen — Varens Magie hält. Runa sieht es aus hundert Metern, kämpft, tötet Dutzende Schemen, wird zurückgeschlagen.",
     "Vier rote Markierungen":
         "Varens Quartier, kein Gefängnis — ein Labor. An der Wand Karten: vier tote Quellen, rot markiert. Drei alt, verblasst, mit Notizen in Moragh — seine. Eine frisch, klein, an der Position der Thar-Siedlung. Ihre. Dieselbe Tat, verschiedene Gründe.",
     "Alphina liest die Bund-Chiffre":
         "Varen hat abgefangene Bund-Kommunikation entschlüsselt. Alphina liest: Quellen-Zerstörung als koordinierte Kriegsstrategie, Dutzende tote Zonen, zehn weitere Ziele geplant — sechshundert Menschen, achthundert. Sie war nicht die Erste. Nur die Stärkste.",
     "Varens Geständnis":
-        "Varen in altem Thalassisch, langsam, ohne Rechtfertigung: drei Reservoir-Quellen — Mar-Keth, Dulrath-Ost, Reshkol. Leylinien-Experiment, Kettenreaktion, zweihunderttausend heimatlos, Kriegsausbruch. »Niemand weiss es. Nur du.« Auf Alphinas Frage nach Sorel: »Weil dein Hass Treibstoff brauchte.«",
+        "Varen in altem Thalassisch, langsam, ohne Rechtfertigung: drei Reservoir-Quellen — Mar-Keth, Dulrath-Ost, Reshkol. Leylinien-Experiment, Kettenreaktion, zweihunderttausend heimatlos, Kriegsausbruch. »Niemand weiß es. Nur du.« Auf Alphinas Frage nach Sorel: »Weil dein Hass Treibstoff brauchte.«",
     "Sex mit Varen — Resonanz-Anker gesetzt":
         "Gewachsen aus geteilter Schuld. Dornen aus Boden, Steinritzen, Decke — schwarz, scharf, dicht. Keine Farne, keine Zärtlichkeit: Kontrolle durch Erkenntnis. Varen setzt heimlich einen Bindungs-Anker in ihrer Frequenz. Sie spürt Wärme an der Wirbelsäule, hält sie für Orgasmus-Nachwirkung.",
     "Vier-Thalassier-Liste":
@@ -719,7 +719,7 @@ B3_EVENTS: list[dict[str, Any]] = [
     {"mz": 5.75, "welt": "thalassien", "pov": "Maren", "buch": "B3", "kapitel": "I7", "leseart": "rueckblende",
      "titel": "I7 — Maren gründet die Schwellenforschungsgesellschaft",
      "detail": "Rückblick auf Vael 1990 TZ. Maren mit drei Mitgliedern im Dachgeschoss der Werft: »Dann warten wir Jahrzehnte.« Gründung der späteren staatlich finanzierten Institution.",
-     "typen": ["schluessel", "hintergrund"],
+     "typen": ["schlüssel", "hintergrund"],
      "tags": ["Schwellenforschungsgesellschaft", "Vael 1990"]},
     {"mz": 5.8, "welt": "moragh", "pov": "Talven", "buch": "B3", "kapitel": "44", "leseart": "normal",
      "titel": "Talven verteilt Resonanz, Held-Aufstieg",
@@ -774,7 +774,7 @@ B3_EVENTS: list[dict[str, Any]] = [
     {"mz": 6.75, "welt": "synchronisation", "pov": "Maren", "buch": "B3", "kapitel": "I8", "leseart": "normal",
      "titel": "Verwüster-Angriff auf Vael — Maren stirbt",
      "detail": "Der Steinkreis in Vael reisst auf, drei rauchige Gestalten brechen durch die Glasfront des Instituts. Maren, achtzig, mit versagendem Herz, flüstert gegen die Wand: »Ich habe sie hergeschickt.« Die fünfzehnjährige Syra Halvard schreibt abends in ihr Notizbuch — beim nächsten Mal werde es eine Armee sein.",
-     "typen": ["tod", "portal", "schluessel"],
+     "typen": ["tod", "portal", "schlüssel"],
      "sync": {
         "thalassien": "Vael 2037 TZ. Institut-Aussengebäude zerstört. Maren stirbt im Angesicht der Verwüster.",
         "moragh": "Varen bleibt für Öffnungsdauer am Steinplatz. Niemand sieht ihn. Die Älteste hält es für Bund-Angriff.",
@@ -803,7 +803,7 @@ B3_EVENTS: list[dict[str, Any]] = [
     {"mz": 7.35, "welt": "moragh", "pov": "Varen", "buch": "B3", "kapitel": "58", "leseart": "normal",
      "titel": "Elke wird ermordet",
      "detail": "Ein aufgeladener Schemen betritt Elkes Haus in Dravek. Sie wehrt sich. Der Schemen tötet in der Küche, trägt sie in den Garten, platziert sie auf der Bank. Nimmt den Basalt-Splitter-Anhänger, findet das Maren-Dokument nicht.",
-     "typen": ["tod", "schluessel"],
+     "typen": ["tod", "schlüssel"],
      "tags": ["Elke tot", "Küche", "Basalt-Splitter"]},
     {"mz": 7.4, "welt": "moragh", "pov": "Alphina", "buch": "B3", "kapitel": "59", "leseart": "normal",
      "titel": "Alphina verdächtigt Talven",
@@ -829,7 +829,7 @@ B3_EVENTS: list[dict[str, Any]] = [
     {"mz": 7.7, "welt": "moragh", "pov": "Alphina", "buch": "B3", "kapitel": "63", "leseart": "normal",
      "titel": "Alphina findet das Ritual-Dokument in Varens Quartier",
      "detail": "Sie wartet, bis Varen schläft, sprengt mit Wurzeln ein Schloss im Schreibtisch. Findet Ritual-Buch, Liste, am Rand in seiner Handschrift: »Die Trauer macht sie stärker. Sorels Nutzen liegt im Sterben.«",
-     "typen": ["erkenntnis", "schluessel"],
+     "typen": ["erkenntnis", "schlüssel"],
      "tags": ["Sorels Nutzen im Sterben"]},
     {"mz": 7.75, "welt": "moragh", "pov": "Alphina", "buch": "B3", "kapitel": "64", "leseart": "normal",
      "titel": "Alphina liest den Maren-Brief — zweite Erkenntnis",
@@ -874,9 +874,9 @@ B3_EVENTS: list[dict[str, Any]] = [
     {"mz": 8.55, "welt": "synchronisation", "pov": "Kessler/Kelvar", "buch": "B3", "kapitel": "71", "leseart": "normal",
      "titel": "Zweite Expedition kommt durch — 2500 Soldaten, 2120 TZ",
      "detail": "Modulator 72 Stunden aktiv. Expedition 2: 2500 Soldaten, Biotech-Bodymod, stockwerkshohe Killermaschinen. General Kelvar Velkan führt. In zwei Moragh-Wochen fällt Bund-Grenzgebiet, eine freie Stadt ist erobert.",
-     "typen": ["portal", "krieg", "schluessel"],
+     "typen": ["portal", "krieg", "schlüssel"],
      "sync": {
-        "thalassien": "Vael 2120 TZ. Institut schickt grossen Zug, Hymnen und Propaganda. Kein Weg zurück im Plan.",
+        "thalassien": "Vael 2120 TZ. Institut schickt großen Zug, Hymnen und Propaganda. Kein Weg zurück im Plan.",
         "moragh": "Steinplatz-Gebiet wird Militärzone. Moragh-Flüchtlinge strömen nach Westen.",
      },
      "tags": ["Expedition 2", "2500 Soldaten", "2120 TZ", "Kelvar Velkan"]},
@@ -893,7 +893,7 @@ B3_EVENTS: list[dict[str, Any]] = [
      "tags": ["Expedition 2 Aufbruch"]},
     {"mz": 9.25, "welt": "moragh", "pov": "Varen", "buch": "B3", "kapitel": "73", "leseart": "normal",
      "titel": "Varen versammelt seinen Zirkel — Einladung",
-     "detail": "Zwanzig bis dreissig Anhänger, Velmar-Fragmente, Bund-Überläufer. Varen schickt eine Einladung an Alphina und Vesper: Duell-Ort, Duell-Zeit, Duell-Regeln. Er weiss, sie kommen.",
+     "detail": "Zwanzig bis dreissig Anhänger, Velmar-Fragmente, Bund-Überläufer. Varen schickt eine Einladung an Alphina und Vesper: Duell-Ort, Duell-Zeit, Duell-Regeln. Er weiß, sie kommen.",
      "typen": ["begegnung", "tschechow"],
      "tags": ["Duell-Einladung"]},
     {"mz": 9.4, "welt": "moragh", "pov": "Runa", "buch": "B3", "kapitel": "74", "leseart": "normal",
@@ -904,7 +904,7 @@ B3_EVENTS: list[dict[str, Any]] = [
     {"mz": 9.5, "welt": "moragh", "pov": "Alphina", "buch": "B3", "kapitel": "75", "leseart": "normal",
      "titel": "Duell Alphina + Vesper vs. Varen — Beginn",
      "detail": "Drei Kapitel, etwa 15.000 Wörter. Varen in seinem Ring. Alphina und Vesper. Varen löst den Anker über seine Frequenz aus — Alphinas Dornen wachsen unter ihrer Haut. Vespers Schemen-Angriff zielt auf seinen Temporal-Helm.",
-     "typen": ["krieg", "schluessel"],
+     "typen": ["krieg", "schlüssel"],
      "tags": ["Duell", "Anker-Bruch"]},
     {"mz": 9.55, "welt": "moragh", "pov": "Vesper", "buch": "B3", "kapitel": "76", "leseart": "normal",
      "titel": "Vespers linker Unterarm zerkocht",
@@ -914,17 +914,17 @@ B3_EVENTS: list[dict[str, Any]] = [
     {"mz": 9.6, "welt": "moragh", "pov": "Alphina", "buch": "B3", "kapitel": "77", "leseart": "normal",
      "titel": "Varens Register-Bruch + Reveal",
      "detail": "Drei Finger von Alphinas linker Hand explodieren in eigenen Dornen. Varen: »Kleine naive Alphina. Du warst sauberer zu lesen als Sorel. Ich habe dich nie angesehen. Nur deinen Frequenzwert.« Später: »Sie starb in der Küche.« Noch später, leise: »Garten.«",
-     "typen": ["erkenntnis", "tod", "schluessel"],
+     "typen": ["erkenntnis", "tod", "schlüssel"],
      "tags": ["Register-Bruch", "Frequenzwert", "Küche", "Garten"]},
     {"mz": 9.65, "welt": "moragh", "pov": "Alphina", "buch": "B3", "kapitel": "77", "leseart": "normal",
      "titel": "Alphina gibt Varen den Todesstoss",
      "detail": "Mit verbleibenden zwei Fingern und Dornen. Kein Pathos, keine Rede. Varens letztes Wort: »Garten.« Sie versteht erst, dass er Elke meinte, als sie ihre Finger im Gras liegen sieht.",
-     "typen": ["tod", "schluessel"],
+     "typen": ["tod", "schlüssel"],
      "tags": ["Varen tot", "Letztes Wort Garten"]},
     {"mz": 9.8, "welt": "synchronisation", "pov": "Alphina", "buch": "B3", "kapitel": "78", "leseart": "normal",
      "titel": "Portal-Finale — Expedition 2 startet zweite Durchgangs-Welle, Alphina kollabiert die Quelle",
      "detail": "Expedition aktiviert Modulator für zweite Welle. Stockwerkshohe Killermaschinen beginnen durchzutreten. Tausende Moragh-Tote beim Durchbruch. Alphina überlädt die Portal-Quelle mit Wachstum — Solo-Akt, Stufe 10. Quelle kollabiert beidseitig. Eine Maschine wird halbiert, Teil in jeder Welt.",
-     "typen": ["portal", "tod", "schluessel"],
+     "typen": ["portal", "tod", "schlüssel"],
      "sync": {
         "thalassien": "Vael 2153 TZ. Alle Magie permanent weg. Farne stehen still, Steinkreis kalt, Institut wird zur Ruine einer überholten Wissenschaft.",
         "moragh": "Portal-Quelle tot. Portal endgültig zu. Expedition 2 in Moragh gestrandet, Rest in Thalassien ohne Rückweg.",
@@ -948,7 +948,7 @@ B3_EVENTS: list[dict[str, Any]] = [
     {"mz": 10.1, "welt": "moragh", "pov": "Alle", "buch": "B3", "kapitel": "EP", "leseart": "normal",
      "titel": "Epilog Halvek-Mar — vier Narbige + Tyra",
      "detail": "Halvek-Mar, Küstenstadt im Westen. Alphina (drei Finger fehlen, Farne wachsen wieder grün), Vesper (amputiert, Uhren bauen mit Prothese), Runa und Nyr (Kessler als zivile Arbeitsbestie im Hafen), Tyra (Moragh-Heimat, Schall-Resonanz). Stille. Meer. Narben. Keine Heimkehr.",
-     "typen": ["hintergrund", "schluessel"],
+     "typen": ["hintergrund", "schlüssel"],
      "tags": ["Halvek-Mar", "Epilog", "Narbige"]},
 ]
 

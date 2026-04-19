@@ -22,6 +22,8 @@ ROOT = Path(__file__).resolve().parent.parent
 TARGETS = [
     ROOT / "buch" / "zeitleiste.json",
     ROOT / "buch" / "status.json",
+    ROOT / "scripts" / "build-zeitleiste.py",
+    ROOT / "buch" / "zeitleiste.OLD.json",
 ]
 
 # Whitelist: kleingeschrieben oder großgeschrieben, Wortgrenzen mit \b
