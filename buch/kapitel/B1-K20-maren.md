@@ -116,7 +116,7 @@ Er zog das kleine Heft näher heran, setzte den Bleistift neben eine Zahl in der
 
 "Heute."
 
-Sie stand auf. Ihre Knie meldeten sich knapp, sie hatte zu lange auf der Kiste gesessen. Er legte das Blatt zwischen zwei dünne Pappstücke, die er aus einer Schublade holte, band das Ganze einmal mit einem schmalen Lederband zusammen, steckte es in seine Brusttasche. Die Pinzette, die Lupe, das Uhrwerk auf dem Samt blieben liegen, so wie sie lagen — das Werk war in drei Gruppen sortiert, die Tiefe der Samtmulden hielt die Federn, wo sie waren.
+Sie stand auf, etwas zu schnell nach der langen Zeit auf der Kiste. Er legte das Blatt zwischen zwei dünne Pappstücke, die er aus einer Schublade holte, band das Ganze einmal mit einem schmalen Lederband zusammen, steckte es in seine Brusttasche. Die Pinzette, die Lupe, das Uhrwerk auf dem Samt blieben liegen, so wie sie lagen — das Werk war in drei Gruppen sortiert, die Tiefe der Samtmulden hielt die Federn, wo sie waren.
 
 "Ins Archiv."
 
@@ -216,7 +216,7 @@ Vesper stand zwei Schritte hinter ihr. Er sprach nicht. Die Sohle seines Stiefel
 
 Sie blieb. Auf dem Holz des Uferwegs, in der Hocke, mit dem Finger eine Daumenbreite über dem Wasser.
 
-Sie stand auf. Die Knie meldeten sich, das Holz unter ihren Sohlen gab eine halbe Rille nach, weil die Dielen an diesem Teil des Wegs weich waren von der Feuchte. Sie drehte sich nicht zu ihm. Sie ging weiter, und er ging weiter. Oben am Speicherbau, zwischen den fensterlosen Wänden des Lichthauses, brannte ein einzelnes schmales Licht, das auf dem Wasser als gelber Strich lag. Sie sah einmal hin. Dann ging sie weiter.
+Sie stand auf; das Holz unter ihren Sohlen gab eine halbe Rille nach, weil die Dielen an diesem Teil des Wegs weich waren von der Feuchte. Sie drehte sich nicht zu ihm. Sie ging weiter, und er ging weiter. Oben am Speicherbau, zwischen den fensterlosen Wänden des Lichthauses, brannte ein einzelnes schmales Licht, das auf dem Wasser als gelber Strich lag. Sie sah einmal hin. Dann ging sie weiter.
 
 An der Ecke, wo sich der Weg zur Werft von dem Weg zum *Anker* trennte, blieb Vesper einen halben Schritt hinter ihr stehen. Sie drehte sich. Er nickte. Sie nickte.
 

@@ -172,7 +172,7 @@ Sie hatte in der sechsten Woche gewusst, dass sie nicht gehen würde.
 
 Die Flut kam. Das Wasser stieg um eine Daumenbreite an den Stegpfählen. Unter ihrer Sohle war die Mulde weg.
 
-Sie stand auf. Die Knie meldeten sich. Sie ging zum Boot zurück, legte die Hand auf die dritte unfertige Planke. Das Holz war warm von der eigenen Sonne des Nachmittags, stetig, satt. Es wartete, wie es jeden Abend wartete.
+Sie stand auf und ging zum Boot zurück, legte die Hand auf die dritte unfertige Planke. Das Holz war warm von der eigenen Sonne des Nachmittags, stetig, satt. Es wartete, wie es jeden Abend wartete.
 
 In der Kajüte tickte die Uhr.
 
