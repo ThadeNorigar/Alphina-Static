@@ -3,7 +3,7 @@
 **POV:** Multi-POV — Alphina im Auftakt (Szene 1), Switch zu Runa nach Alphinas Abgang (Szene 2). Beide 3. Person nah, Präteritum.
 **Timeline:** 26. Blütenmond 551 TZ · Vormittag bis früher Nachmittag · ein Tag nach K24 · Frühsommer, klarer Vormittag mit Sonnenfenstern
 **Wortziel Ausarbeitung:** 4.000–4.500 W
-**Gänsehaut-Moment:** Beim Höhepunkt der Selbstberührung fängt der Papierstapel auf Runas Setztisch zu brennen an. Kein sichtbarer Auslöser — keine Kerze in Reichweite, der Kohleofen sechs Schritte entfernt, kein Sonnenstrahl auf dem Tisch. Sie hört es aus dem Hinterzimmer (knisternd), kommt zurück, löscht. Sie ordnet es als Pechfunke ein und macht weiter. Die Verbindung zwischen ihrem Körper und dem Feuer registriert sie nicht.
+**Gänsehaut-Moment:** Beim Höhepunkt im Hinterzimmer krallt Runa die freie Hand an die Werkbank-Kante. Im selben Atemzug zwei Dinge gleichzeitig: das Holz unter ihrer Hand schwelt — Brandgeruch, ein dunkler Fleck wo die Finger lagen, ein paar Setzproben-Papierreste neben der Hand glimmen — und die Öllampe auf der Werkbank schießt mit der Flamme bis fast zur Decke, eine Stichflamme, dann wieder ruhig. Sie löscht das Glimmen mit der Handfläche, schlägt es aus. Brandgeruch in der Luft, dunkler Fingerabdruck im Werkbank-Holz. Sie sucht Erklärungen — die Öllampe könnte einen Funken geworfen haben, sie selbst hätte etwas anstoßen können. Keine ihrer Erklärungen sitzt ganz. Sie nimmt die plausibelste, schiebt den Rest weg, aber nicht vollständig. Die Verbindung zwischen ihrem Körper und dem Feuer denkt sie nicht — sie hat das Vokabular dafür nicht.
 
 ---
 
@@ -31,8 +31,8 @@
 **Dialog-Informationen (zu transportierende Inhalte):**
 - *Alphina erfährt:* drei Anomalien-Sichtungs-Adressen (Tohl Daverin, namenlose Magd, Joran); Runas Körperwärme ist erhöht; Runa wirkt nicht krank, nur etwas zerstreut
 - *Runa erfährt:* Halvard braucht Heilkräuter-Plakat (Auftrag); Alphina sammelt aktiv Sichtungs-Berichte (warum, sagt Alphina nicht im Detail)
-- *Setup für Leserin:* Runas Körperwärme als Hinweis auf Resonanz; Cross-POV-Verifikation in Szene 2
-- *Plot-Konkretes:* die drei Adressen landen in K26 (Vespers Datenabgleich)
+- *Setup für Leserin:* Runas Körperwärme als Hinweis auf Resonanz; Cross-POV-Verifikation in Szene 2; Echo zu K05 (Alphina hat dort schon Runas heiße Hände + einen Kerzenstillstand wahrgenommen — K25 vertieft, ist nicht Erst-Beobachtung)
+- *Plot-Konkretes:* die drei Adressen landen in K26 (Vespers Datenabgleich); Alphina geht direkt vom Druckerei-Besuch zur K26-Zusammenkunft in Marens Wohnung, die Notiz wandert ohne Umweg dorthin
 - *Was Alphina NICHT sagt:* dass sie gestern im Archiv Schemen-Fingerabdrücke gesehen hat (K24); dass die Sichtungs-Sammlung Teil eines größeren Bildes ist
 
 **Tschechow-Waffen geladen:**
@@ -41,7 +41,7 @@
 - Magd vom Garten mit „atmender Stein" — Echo des Steinkreises, Tschechow für späteren Garten-Einsatz
 
 **Tschechow-Waffen abgefeuert:**
-- Runa als Druckerin in Oberstadt (Canon-Kompakt etabliert) — wird hier handlungsrelevant
+- Runas Körperwärme aus K05 (Alphina hat dort schon Runas heiße Hände bemerkt + einen Kerzenstillstand) — feuert hier zum zweiten Mal, jetzt durch Kleidung statt Hautkontakt; Eskalation, nicht Erst-Etablierung
 - Halvards Praxis als Vael-Anker (etabliert seit K1+) — Auftrag verknüpft Alphinas zwei Welten
 
 **Cross-POV-Ankerpunkte:**
@@ -60,47 +60,58 @@
 
 **Beats (sachliches Exposé, kein Stil):**
 - POV-Switch-Marker: Tür schließt hinter Alphina, Glocke klingelt. Ab hier Runa.
-- Runa allein. Werkstatt-Aufbau: zwei Setzkästen an der Wand, Setztisch in der Mitte mit halb gesetztem Bogen für Halvards Plakat, Druckpresse links, Trocken-Leinen oben. Kohleofen im Eck rechts hinten. Hinterzimmer-Tür links neben der Presse, kleine Kammer mit Werkbank, kein Fenster.
+- Runa allein. Werkstatt-Aufbau: zwei Setzkästen an der Wand, Setztisch in der Mitte mit halb gesetztem Bogen für Halvards Plakat, Druckpresse links, Trocken-Leinen oben. Kohleofen im Eck rechts hinten (auf niedriger Glut, Klappe offen einen Spalt — Werkstatt-Standard im Frühsommer). Hinterzimmer-Tür links neben der Presse: kleine Kammer mit Werkbank, kein Fenster, brauchbar nur mit Licht.
 - Runa räumt Alphinas Manuskript zur Seite. Hände bleiben kurz auf dem Papier liegen.
 - Erste innere Welle: Bilder aus der Umarmung — Alphinas Hals, die Sehne am Handgelenk, der Geruch (Kräuter, Blütenmond-Wind im Mantel). Runa nimmt die Bilder wahr und versucht zunächst, sie in den Auftrag wegzuschieben.
 - Zweite Welle, drei Atemzüge später, beim ersten Bleisatz-Griff: die Bilder kommen wieder, dichter, körperlicher. Runa stellt die Setzschiene ab. Sie lehnt mit der Hüfte am Setztisch, schließt einmal die Augen.
 - Bewusstwerdung: sie weiß seit Wochen, dass sie Alphina anders ansieht als andere Freundinnen. Bisher hat sie es im Tagesgeschäft weggeschoben. Jetzt schiebt sie es nicht mehr weg. Erste klare innere Benennung — sie begehrt Alphina, körperlich, das ist die Sache.
-- Sie geht ins Hinterzimmer. Lehnt an die Wand neben der Werkbank.
-- Selbstberührung: kurz, fokussiert. Bilder bleiben bei Alphina (Nacken, Handgelenk, Stimme). Körperbeats: Atem flach, dann tief; Hitze im Brustbein, Hände, Schenkel; Wandstein im Rücken kühl gegen die warme Haut.
-- Höhepunkt. Stille zwei Atemzüge. Dann ein Geräusch aus dem Hauptraum: kurz, knisternd.
-- Runa hört es, ordnet es nicht zu. Atmet. Steht.
-- Sie kommt aus dem Hinterzimmer in den Hauptraum. Auf dem Setztisch: der Papierstapel mit Halvards halb gesetztem Plakat brennt. Klein, eine Handfläche groß, aber echt — Flamme, Rauch, geschwärzte Bogenränder.
-- Sie reagiert sofort: greift den feuchten Wischlappen vom Spülbecken, schlägt das Feuer aus, zwei, drei Schläge. Erstickt. Verkohltes Papier zwischen ihren Fingern.
-- Sie steht. Verbrannter Geruch in der Luft. Kohleofen sechs Schritte entfernt, Tür zu, kein Glutfunke sichtbar in der Nähe. Keine Kerze auf dem Tisch (sie zündet die Petroleumlampe erst abends). Keine Sonneneinstrahlung auf den Stapel (Setztisch steht im Schatten der Trocken-Leinen).
-- Verdrängung Schritt 1: sie öffnet das Hinterhof-Fenster, wirft das verkohlte Papier in den Eimer.
-- Verdrängung Schritt 2: sie sucht Erklärungen. Vielleicht ein Funke vom Ofen über Zugluft (sie geht zum Ofen, prüft die Klappe — geschlossen, keine Glut sichtbar nahe der Öffnung). Vielleicht hat sie selbst eine Lampe falsch gestellt vor dem Hinterzimmer-Gang (sie hat keine angerührt). Vielleicht hat ein Funke von der Pressen-Walze (kalt seit gestern) — unwahrscheinlich.
-- Sie nimmt die unwahrscheinlichste Erklärung als die wahrscheinlichste an: ein Pechfunke, irgendwo aus dem Ofen, Zugluft hat ihn getragen. Sie verwirft die anderen Erklärungen, behält diese.
-- Verdrängung Schritt 3: sie bringt es nicht mit der Selbstberührung in Verbindung. Sie denkt nicht in dieser Richtung — sie hat keinen Anlass dazu, kein Vokabular dafür, keine Person die ihr je gesagt hat dass so etwas möglich ist.
-- Sie setzt den Plakat-Bogen neu auf. Bleisatz, Konzentration auf das Handwerk, Hände beruhigen sich.
-- Schluss-Beat: ihre Hände bleiben warm. Wärmer als der Werkstatt-Raum, deutlich wärmer als die Bleisatz-Lettern (kühles Metall). Sie merkt es kurz beim Greifen. Sie schiebt es weg — vielleicht von der Anstrengung beim Löschen.
-- Schluss-Bild: erster Druck der neuen Plattenseite, Tinte glänzt frisch. Sie hängt den Bogen über die Trocken-Leine. Vom Markt klingen Glocken (Mittagsläuten). Im Setzerei-Raum still bis auf das Tropfen des nassen Lappens im Becken.
+- Sie geht ins Hinterzimmer. Zündet die kleine Öllampe an der Werkbank-Wandhalterung an (Kammer ist sonst stockfinster). Lehnt an die Werkbank-Kante.
+- Werkbank-Setting im Detail (Tschechow-relevant): altes Eichenholz, Patina von Drucker-Öl und Tinte, dunkel angetragene Kante. Auf der Werkbank neben der Öllampe ein Stapel alter Setzproben (Papierreste, Probedrucke vom Vortag), eine kleine Werkzeugrolle, ein Tonkrug mit Wasser für die Walzen-Reinigung.
+- Selbstberührung: kurz, fokussiert. Eine Hand bei sich, die andere Hand greift nach Halt — krallt sich an die Werkbank-Kante. Bilder bleiben bei Alphina (Nacken, Handgelenk, Stimme). Körperbeats: Atem flach, dann tief; Hitze im Brustbein, Hände, Schenkel; Werkbank-Holz unter der freien Hand zunächst kühl.
+- Steigende Erregung: parallel zur Atmung wird die Öllampen-Flamme höher. Runa nimmt es nur peripher wahr (helleres Licht im Augenwinkel), ordnet es im Moment nicht zu. Die freie Hand drückt fester ins Holz.
+- Höhepunkt. Im selben Atemzug zwei Dinge gleichzeitig:
+  - **Werkbank:** Das Holz unter ihrer freien Hand schwelt — Brandgeruch steigt, ein dunkler Fleck zeichnet sich um ihre Finger ab, ein paar Setzproben-Papierreste neben der Hand glimmen an den Rändern.
+  - **Öllampe:** Die Flamme schießt für einen Atemzug bis fast zur Kammer-Decke — Stichflamme, dann sofort wieder ruhig auf normale Höhe.
+- Stille einen Atemzug. Dann reagiert sie: zieht die Hand vom Holz, schlägt mit der Handfläche auf die glimmenden Papierreste, erstickt das Glimmen mit drei Schlägen. Greift den Tonkrug, gießt einen Schluck Wasser auf den dunklen Fleck im Holz — zischen, Dampf, der Brand ist aus.
+- Sie steht. Atem geht schnell — vom Höhepunkt, vom Erschrecken, beides nicht trennbar. Brandgeruch in der Kammer.
+- Bestandsaufnahme: dunkler Fingerabdruck-Fleck im Werkbank-Holz, eingebrannt, daneben die geschwärzten Setzproben-Reste. Öllampe brennt jetzt wieder normal, als wäre nichts. Kein sichtbarer Auslöser für die Stichflamme, kein sichtbarer Auslöser für das Holz-Glimmen — der Tonkrug stand zwei Handbreit entfernt, nichts Brennbares zwischen Lampe und Werkbank-Kante. 
+- Erklärungssuche (Schritt 1): Hat ein Funke der Öllampe auf das Holz gesprungen? Möglich — aber Setzproben sind Papier, Holz allein zündet nicht so leicht von einem Funken. Hat die Öllampe ihren Docht zu hoch gehabt? Sie prüft den Docht (normal eingestellt, sie hat ihn gestern selbst gekürzt).
+- Erklärungssuche (Schritt 2): Hat sie selbst etwas verschoben? Sie hatte nur eine Hand an der Werkbank, nichts in der Hand außer Holz unter den Fingern. Hat der Kohleofen im Hauptraum durch die offene Tür Funkenflug geliefert? Sie geht in den Hauptraum, prüft die Ofen-Klappe — Glut niedrig, Funkenfänger vor der Öffnung steht. Unwahrscheinlich.
+- Erklärungssuche (Schritt 3 — die unwahrscheinlichste, die sie nimmt): Vielleicht eine Kombination aus Öllampe-Funke, Zugluft aus dem Werkstatt-Raum (Türspalt) und altem Holz-Öl-Patina, das schneller zündet als gedacht. Sie weiß, dass die Erklärung nicht ganz sitzt. Sie hat keine bessere.
+- Restspannung: anders als bei einem normalen Brand-Vorfall, den man abhakt, bleibt etwas hängen. Sie kann nicht benennen was. Sie schiebt es nicht ganz weg, aber sie ordnet es auch nicht ein. Sie macht weiter — die Arbeit braucht sie. Aber der dunkle Fingerabdruck-Fleck im Holz bleibt sichtbar.
+- Sie wischt die Werkbank mit dem feuchten Lappen ab. Der Brandfleck wird heller, verschwindet aber nicht — er ist eingebrannt. Sie wirft den Lappen ins Becken. Tropfen.
+- Verbindungs-Tabu: sie bringt das Brennen nicht mit dem Höhepunkt in Verbindung. Sie denkt nicht in dieser Richtung — sie hat keinen Anlass dazu, kein Vokabular dafür, keine Person die ihr je gesagt hat dass so etwas möglich ist. Die zeitliche Koinzidenz registriert sie nicht als Information.
+- Sie setzt den Plakat-Bogen neu auf. Bleisatz, Konzentration aufs Handwerk, Hände beruhigen sich allmählich.
+- Schluss-Beat: ihre Hände bleiben warm. Wärmer als der Werkstatt-Raum, deutlich wärmer als die Bleisatz-Lettern (kühles Metall). Sie merkt es kurz beim Greifen. Sie schiebt es weg — vielleicht von der Anstrengung beim Löschen, vielleicht von der Aufregung.
+- Schluss-Bild: erster Druck der neuen Plattenseite, Tinte glänzt frisch. Sie hängt den Bogen über die Trocken-Leine. Vom Markt klingen Glocken (Mittagsläuten). Im Setzerei-Raum still bis auf das Tropfen des Lappens im Becken. In der Hinterzimmer-Kammer brennt die Öllampe ruhig. Auf der Werkbank der dunkle Fingerabdruck im Holz.
 
 **Dialog-Informationen (zu transportierende Inhalte):**
 - *Runa erfährt (über sich selbst):* dass ihr Begehren für Alphina bewusstseinsfähig ist; dass es körperlich konkret ist; dass sie es nicht mehr im Tagesgeschäft wegschieben kann
-- *Runa erfährt (über die Welt):* dass Papier ohne sichtbaren Auslöser brennen kann; sie ordnet das aber als Pechfunke ein und stellt keine weiteren Fragen
+- *Runa erfährt (über die Welt):* dass eine Öllampe ohne erkennbaren Grund eine Stichflamme werfen kann; dass Holz unter ihrer Hand schwelen kann; sie ordnet beides als Funken/Patina-Kombination ein, die Erklärung sitzt aber nicht ganz
 - *Runa erfährt NICHT:* die Verbindung zwischen ihrer Erregung und dem Feuer; dass sie eine Resonanz hat; dass Alphina, Sorel, Vesper, Maren ähnliche Phänomene erleben; dass Alphina ihre Körperwärme bemerkt hat
-- *Setup für Leserin:* erste Manifestation von Runas Feuer-Resonanz; Tschechow für Akt III/Buch 2 (Runa kämpft Schemen mit Feuer ab K76+); Verdrängungs-Mechanismus etabliert
+- *Setup für Leserin:* erste sichtbare Doppel-Manifestation von Runas Feuer-Resonanz (Nahfeld-Verstärkung der Öllampe + Kontakt-Verbrennung am Holz); Tschechow für Akt III/Buch 2 (Runa kämpft Schemen mit Feuer ab K76+); Verdrängungs-Mechanismus etabliert mit Restspannung
 
 **Tschechow-Waffen geladen:**
-- Runas Feuer-Resonanz erstmals manifest — feuert wieder in einer späteren Runa-Szene (Akt III oder Buch 2)
-- Verkohltes Papier im Hinterhof-Eimer — möglich aufgreifbar (Vesper sieht es, oder spätere Wiederholung des Brand-Phänomens)
-- Runas Verdrängungs-Mechanismus (Pechfunke, eigene Schuld, Zugluft) — Tschechow für ihre spätere Erkenntnis-Szene; wird mehrfach eingesetzt werden müssen
+- Runas Feuer-Resonanz nach K05-Vorboten (heiße Hände, Kerzenstillstand) jetzt erstmals als Doppel-Manifestation sichtbar (Nahfeld-Verstärkung + Kontakt-Glimmen) — Mechanismus: sie kann existierendes Feuer im Nahfeld manipulieren (Öllampe wird höher), und über Hautkontakt entsteht Glut/Brand am Material; feuert wieder in späteren Runa-Szenen, kontrollierter ab Akt III/Buch 2 (Schemen-Kampf K76+)
+- **Eingebrannter Fingerabdruck im Werkbank-Holz** — bleibt als physische Spur in der Werkstatt; kann von Runa selbst später wieder gesehen werden (Erinnerungsanker), oder von einer anderen Figur entdeckt werden, die in die Druckerei kommt (Alphina bei späterem Besuch, oder Vesper bei Sichtungs-Daten-Abholung post-K26)
+- Runas Verdrängungs-Mechanismus mit **Restspannung** (anders als reine Verdrängung — sie schiebt nicht ganz weg, sie kann nur nicht einordnen) — Tschechow für ihre spätere Erkenntnis-Szene; jede neue Manifestation erhöht den Druck
 - Runas Körperwärme als Konstante — feuert wieder, wenn jemand sie länger berührt (vermutlich K30+ oder beim Ritual K33/K34)
+- Öllampe als Resonanz-Indikator — kann in einer späteren Runa-Szene wieder als Verstärker fungieren (Stichflamme bei Erregung)
 
 **Tschechow-Waffen abgefeuert:**
-- Runas Körperwärme aus Szene 1 — bestätigt sich in Szene 2 als Resonanz-Symptom, nicht Krankheit
-- Runas Status als „schwache, unerkannte Feuer-Resonanz" (Canon-Kompakt) — wird hier zum ersten Mal in der Erzählung sichtbar
+- Runas Körperwärme aus Szene 1 (und K05) — bestätigt sich in Szene 2 als Resonanz-Symptom, nicht Krankheit
+- Runas Status als „schwache, unerkannte Feuer-Resonanz" (Canon-Kompakt) — wird hier erstmals als sichtbare Doppel-Manifestation gezeigt; K05-Kerzenstillstand war Vorbote, K25 ist die erste klare Brand-Manifestation
 
 **Cross-POV-Ankerpunkte:**
 - K26 (Vesper, gleicher Tag, später): Vesper bekommt von Alphina nur die drei Sichtungs-Adressen; NICHT die Druckerei-Brand-Information (Alphina war zum Brand-Zeitpunkt schon weg); Cross-POV-Wissensregel halten
-- Späteres Runa-Kapitel (vermutlich Akt III oder Buch 2): die Verdrängung wird wieder aufgegriffen; jede neue Manifestation erhöht den Druck zur Erkenntnis
+- K05 (Alphina-POV): dort ist Runas Resonanz erstmals als Vorbote gestreift (heiße Hände beim Papierkauf, Kerze bleibt still in der Druckerei); K25 ist Eskalation, NICHT Erst-Etablierung — Ausarbeitung muss in Szene 1 die Wärme qualitativ anders darstellen als K05 (durch Kleidung statt Hautkontakt; als zweite Bewertung statt Schrecken)
+- Späteres Runa-Kapitel (vermutlich Akt III oder Buch 2): die Restspannung wird wieder aufgegriffen; jede neue Manifestation erhöht den Druck zur Erkenntnis
 - Alphinas Wahrnehmung der Wärme aus Szene 1: bestätigt sich für die Leserin nachträglich als richtige Beobachtung; Alphina selbst kommt darauf erst zurück, wenn Runa sich offenbart oder eine Manifestation öffentlich wird
 - Runas Wahrnehmungsregister: Druckerei-Vokabular (Bleisatz, Letter, Walze, Bogen, Setzkasten, Trocken-Leine, Tinte), Körper als Werkzeug (Hände, Druckkraft); kein Resonanz-Vokabular, weil sie es nicht hat
+
+**WICHTIGE FORMULIERUNGS-ANWEISUNG für Ausarbeitung (Magie-Kanon-Schutz):**
+- Magie-Canon: „Magie kommt aus der Umgebung, nicht aus dem Körper." Die Brand-Sequenz darf nicht als Körper-Emission formuliert werden („Hitze quoll aus ihren Fingern", „ihr Körper schickte Funken"). Stattdessen: zeitliche Koinzidenz und Nahfeld-Verstärkung. Die Öllampe verstärkt sich (existierende Flamme wird höher), das Holz unter ihrer Hand erhitzt/schwelt (Materialeigenschaft + Patina + zeitliches Zusammenfallen). Der Erzähler stellt keine kausale Verbindung her zwischen Höhepunkt und Brand. Die Leserin darf sie ziehen, der Text suggeriert sie nicht.
+- Mechanismus-Modell (für innere Konsistenz, nicht für Prosa): Runas Resonanz funktioniert als Nahfeld-Manipulation existierenden Feuers (analog Sorels Licht-Lenkung in K10). Im Hinterzimmer ist die Öllampe die Feuer-Quelle; ihre Resonanz bündelt sie kurz (Stichflamme) und überträgt Glut auf das Material unter ihrer Hand (Werkbank-Holz, Setzproben). Kein Feuer-aus-dem-Nichts.
 
 ---
 
@@ -115,8 +126,9 @@
 
 **Was weiß Runa am Ende von K25?**
 - Sie begehrt Alphina körperlich, bewusst
-- Papier kann ohne sichtbaren Auslöser brennen; sie hat keine Erklärung, hat aber eine alltägliche genommen
+- Eine Öllampe kann ohne erkennbaren Anlass eine Stichflamme werfen, ein altes Werkbank-Holz unter ihrer Hand kann schwelen — sie hat eine Kombi-Erklärung (Funke + Patina + Zugluft) genommen, die nicht ganz sitzt; eine Restspannung bleibt
 - Ihre Hände sind warm, wärmer als der Raum
+- Ein eingebrannter Fingerabdruck im Werkbank-Holz ist als physische Spur sichtbar geblieben
 
 **Was weiß Runa NICHT (Sorel-Prinzip / Premature Doubt):**
 - Dass sie Resonanz hat (Feuer)
@@ -127,7 +139,7 @@
 - Dass es jemals wieder passieren wird
 
 **Premature-Doubt-Check:**
-- Runa zweifelt nicht an „Pechfunke" — sie nimmt die Erklärung und macht weiter; keine vorgezogene Ahnung
+- Runa zweifelt nicht im Sinne einer vorgezogenen Ahnung — die Restspannung ist eine *unfertige* Erklärung, kein Verdacht; sie weiß nicht, *was* sie nicht versteht
 - Runa fragt sich nicht „könnte ich das selbst gemacht haben?" — sie hat dafür kein Modell, keine Sprache, keinen Anlass
 - Bewusstwerdung des Begehrens kommt durch konkreten Auslöser (Umarmung, Bilder), nicht durch innere Vorahnung
 
