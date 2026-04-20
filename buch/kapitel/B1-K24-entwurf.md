@@ -47,7 +47,7 @@ Jara sagt, fast sachlich: "Wir haben gestern Nachmittag angefangen, die Seite ne
 
 **Wortziel:** 1.400–1.600 W
 
-Auf dem Lesetisch liegt das Manuskript aufgeschlagen. Leder, gebrochener Rücken, Seiten nicht gebunden sondern lose in einer Mappe. Jara hat es orientiert — die beschriebene Seite zu den vieren. Vesper kennt den vorderen Teil aus K20. Alphina sieht es zum ersten Mal.
+Auf dem Lesetisch liegt das Manuskript aufgeschlagen. Leder, gebrochener Rücken, Seiten nicht gebunden sondern lose in einer Mappe. Jara hat die oberste Seite so gedreht, dass die Schrift zu den vieren am Tisch zeigt. Vesper kennt den vorderen Teil aus K20. Alphina sieht es zum ersten Mal.
 
 Bevor Alphina die Seite liest, sagt Esther nur das Nötigste: sie habe in den Tagen nach Vespers letztem Besuch die Handschrift mit dem Namens-Register abgeglichen. Die Schreiberin signiert erst im letzten Drittel des Manuskripts. Lene Dahl. Zuzug Vael TZ 151, Werftgründerin an der Grauwe. Dieselbe Familie wie der Name, den Maren beim letzten Mal mitgebracht hat. Mehr hat das Register nicht hergegeben. Jara schiebt den Register-Band halb auf, zeigt eine kurze Passage mit derselben Schrift, legt ihn wieder weg.
 
