@@ -21,25 +21,20 @@ Esther öffnet die Tür zum vorderen Raum und sieht vier statt zwei. Eine halbe 
 
 Der hintere Raum ist eng. Regale aus dunklem Holz bis zur Decke. Ein Lesetisch in der Mitte, zwei Kerzen in Halterungen an der Wand, eine Öllampe auf dem Tisch. Platz für drei Menschen, nicht sechs. Esther zieht die Tür zu. Alle vier stehen um den Tisch, Esther und Jara dahinter.
 
-Dann: die Luft kippt. Nicht mit Getöse. Eine der Kerzen flackert einmal lang zur Seite, obwohl die Tür geschlossen ist und niemand sich bewegt hat. Die Öllampe brennt ruhig. An einem der oberen Regale rutscht ein Folianten-Stapel einen Finger breit vor, kippt nicht, bleibt schief. Ein Staubschleier löst sich und bleibt in der Luft, zu lange, bevor er sinkt. Alle sechs sehen es. Niemand sagt es aus.
-
-Alphina spürt ihre Fingerspitzen kribbeln, die Art von Kribbeln, die sie aus dem Steinkreis kennt. Bei Vesper zuckt der Kiefer. Maren schiebt sich einen halben Schritt näher an den Tisch. Sorel hat die Hand in der Manteltasche, still, die Schultern ruhig. Esther sagt: "Das passiert seit Jara das hier gefunden hat." Sie deutet auf das Manuskript auf dem Tisch. Sie sagt es sachlich, als ob sie "die Tür klemmt seit Donnerstag" sagen würde. Aber sie sagt es leiser als den ersten Satz.
+Jara sagt, fast sachlich: "Wir haben gestern Nachmittag angefangen, die Seite neu zu sortieren, und dann war da mehr als wir uns erklären können." Esther, ruhiger Ton darunter: "Sie werden sehen." Keine dramatische Einleitung, keine Beschwörung. Der Raum riecht nach Leder und Tinte, Öllampe brennt ruhig, die Kerzen an der Wand brennen ruhig. Alphina registriert die Nüchternheit und ist dankbar dafür.
 
 **Dialog-Informationen:**
 - Alphina erfährt: Esther hat Vesper als vertrauten Gast vom ersten Besuch; Jara hat mit Maren in K20 schon Kontakt gehabt. Alphina ist die Neue hier.
-- Alphina erfährt: Das Phänomen im Raum (Kerzen, Staub, Folianten-Stapel) setzte ein, seit Jara das neue Material ins Archiv gebracht hat — das Material trägt die Resonanz, nicht der Raum. Canon-konform: Moragh-Material bringt starke Passiveffekte mit, in Thalassien nur dort, wo es liegt.
+- Alphina erfährt: Jara hat beim Umsortieren mehr gefunden als sie sich erklären kann. Die Einleitung bleibt nüchtern — kein Alarmismus, kein Phänomen-Theater. Das Material muss selbst sprechen.
 - Sorels Verhalten (Alphina registriert): Hand in der Manteltasche, Schultern ruhig — keine Geste, die etwas sagt, nur eine Haltung die sie kennt.
-- Alphinas Erkenntnis am Ende der Szene: Das Material, das Jara gefunden hat, ist nicht neutral. Es reagiert. Und sie reagiert darauf, ohne es zu wollen.
+- Alphinas Erkenntnis am Ende der Szene: Hier wird kein Schauspiel aufgeführt, hier wird gearbeitet. Die Schwere des Raums kommt aus dem, was auf dem Tisch liegt, nicht aus dem Raum selbst.
 
 **Tschechow-Waffen geladen:**
-- Moragh-Material in Thalassien wirkt passiv (Kerzen, Staub) — in K36 feuert der aktive Modus: die vier am Steinkreis, bewusstes Zusammenwirken
 - Esthers Ruhe und ihre Zurücknahme von Jara (Hand am Ellbogen) — Esther weiß mehr oder ahnt mehr als sie zeigt, und sie hat Regeln für sich, an die sie sich hält
 - Jaras Durchbrechen der Regeln ("gut dass ihr kommt") — sie sucht aktiv, nicht nur Ordnungsarbeit. Ihre Forschung ist die treibende Kraft hinter dem, was im Archiv auftaucht
 
 **Tschechow-Waffen abgefeuert:**
-- K12: Alphina kennt den Steinkreis-Puls körpernah. Jetzt: ähnliches Kribbeln unter der Stadt, nicht im Garten. Zwei Orte, gleicher Puls.
 - K20: Vesper und Maren waren schon hier — die Dynamik mit Esther/Jara existiert bereits, Alphina betritt einen etablierten Raum.
-- K21: Alphina weiß seit zwei Tagen, dass ihre Resonanz durch Mauern geht (Farne). Hier: die Resonanz ist da, ohne dass sie etwas tut. Passiv, stetig.
 
 **Cross-POV-Ankerpunkte:**
 - K20 (Maren): Esther erkennt Vesper. Das Verhältnis existiert, Alphina wird eingefügt.
@@ -60,7 +55,7 @@ Maren steht, wo sie steht, eine halbe Umdrehung am Tisch. Sie sagt nichts. Sie n
 
 Esther hält die Öllampe höher.
 
-Alphina liest die aufgeschlagene Seite zuerst im Stillen. Die Handschrift ist eng, braun verblasst, aber lesbar. Alte Orthographie, schwer aber machbar. An mehreren Stellen Löcher im Papier, Ränder weggefressen, ein Absatz fehlt ganz. Was steht, steht klar: eine Schwelle, die nur geöffnet werden kann, wenn vier Fremde zu gleicher Zeit an einem Kreis aus Purpurstein stehen. Jede Fremde trägt eine Art des Hörens: Pflanze, Uhrwerk, Licht, Wasser. Keine der vier darf von einer Moragh-Quelle wissen, bevor sie die Schwelle betritt. (Was "Moragh" ist, sagt der Text nicht — das Wort steht da wie ein Ort, den der Schreiber kennt.)
+Alphina liest die aufgeschlagene Seite zuerst im Stillen. Die Handschrift ist eng, braun verblasst, aber lesbar. Alte Orthographie, schwer aber machbar. An mehreren Stellen Löcher im Papier, Ränder weggefressen, ein Absatz fehlt ganz. Was steht, steht klar: wir waren vier, jede mit einer anderen Art des Hörens — Pflanze, Uhrwerk, Licht, Wasser. Wir standen an einem Kreis aus Purpurstein, in den nichts wächst. Wir wussten nicht, wie man die Schwelle öffnet. Wir haben gedrückt, alle gleichzeitig, mit den Händen auf dem Fels. Sie hat einmal nachgegeben, nicht lange. Zwei von uns sind nicht zurückgekehrt. Eine ist hindurch. Ich schreibe das hier auf, weil jemand nach uns wissen soll, was es kostet. Wir wollten dorthin, von wo das alles zu uns kommt, damit es aufhört.
 
 Alphina liest die Passage laut. Esther hat darum gebeten, mit einer Geste, ohne Wort — als wolle sie hören, ob diese Stimme denselben Text anders zeichnet. Alphinas Stimme bleibt ruhig. Ihre Hände nicht; die rechte hält den Blattrand zu fest. Nach dem Lesen ist eine Pause, in der niemand zuerst sprechen will.
 
@@ -76,30 +71,28 @@ Jara blättert weiter in der Mappe, vorbei an zwei, drei losen Bögen — das Ma
 
 Esther sagt leise, als sei der Satz für sie selbst: "Das Datum haben wir im Archiv dreihundert Mal. Nie mit dieser Zeichnung daneben." Maren fährt mit dem Finger den oberen Rand der Zeichnung nach, ohne zu berühren, und ihre Fingerknöchel sind weiß. Vesper zählt die Gestalten stumm, zweimal — als wolle er sichergehen, dass es drei sind. Sorel sagt gar nichts, und die Qualität seines Schweigens hat sich wieder verändert.
 
-Alphina legt die Hand flach auf die Seite, nicht weil sie etwas tun will, sondern weil sie den alten Reflex kennt — Material fühlen, nicht nur sehen. Das Papier ist trocken, kühl, normal. Aber die Kerze an der Seitenwand, die gerade wieder ruhig brennt, neigt sich einen halben Finger breit zur Seite, lang, bleibt schief, kommt zurück. Keine Tür, kein Atem. Sorel sieht es zuerst, sagt: "Deine Hand." Und nimmt sie ihr vom Papier — sanft, mit eigenen Fingern um ihr Handgelenk. Die Kerze stabilisiert.
-
-Alphina sieht Sorel an. Sie hat nicht gewusst, dass er es körperlich wahrnimmt, wenn sie wirkt, ohne wirken zu wollen. Jetzt weiß sie es. Sie sagt nichts.
+Alphina legt die Hand flach auf die Seite, nicht weil sie etwas tun will, sondern weil sie den alten Reflex kennt — Material fühlen, nicht nur sehen. Das Papier ist trocken, kühl, normal. Sorel steht neben ihr, legt seine Hand auf ihr Handgelenk, ohne Druck, und hält sie dort. Sie sieht ihn an, er sieht sie nicht zurück, seine Augen sind auf der Skizze. Seine Finger auf ihrer Pulsstelle. Kein Wort. Sie lässt die Hand liegen, wo sie liegt, und ihn ebenfalls.
 
 Esther, leise: Jara hat noch etwas. Bevor wir das hier lesen, will sie, dass Sie das andere sehen.
 
 **Dialog-Informationen:**
 - Alphina erfährt: Das Manuskript stammt von Lene Dahl, Schreiberin im Rathaus um TZ 154 — also fast vierhundert Jahre alt. Dieselbe Familienlinie wie der Name Dahl, den Maren hineingebracht hat.
-- Alphina erfährt: Der Manuskript-Text beschreibt einen Kreis aus Purpurstein, vier Fremde, eine Schwelle. Das Wort "Moragh" taucht als Ortsname auf — es existiert in der Welt des Textes, niemand am Tisch kennt den Ort.
+- Alphina erfährt: Lenes Text ist kein Ritual, sondern Bericht. Vier Fremde, vier Arten des Hörens (Pflanze, Uhrwerk, Licht, Wasser), ein Kreis aus Purpurstein. Sie wussten nicht, wie sich die Schwelle öffnen lässt. Sie haben gedrückt, alle gleichzeitig, es hat einmal nachgegeben, kurz. Zwei sind nicht zurück, eine ist hindurch. Lenes Motivation: verhindern, dass mehr herüberkommt von dort, wo das alles herkommt. Der Ort hat keinen Namen in Lenes Text.
 - Alphina erfährt: Die Randnotizen wurden zwischen letzten Dienstag und gestern angebracht — jemand hat Zugang zum verschlossenen Archiv. Die einzige Schlüsselinhaberin (Esther) scheidet aus, sonst hätte sie nicht eingeladen.
 - Alphina erfährt (Skizze): Lene hat das Große Feuer selbst gezeichnet — drei Gestalten doppelt menschengroß, flammende Schultern, Vael-Silhouette. Die Randnotiz ist Lenes eigene Hand, das Datum matched mit dem Chronik-Eintrag des Großen Feuers. *Die Stadt nannte es Funkenflug.* Das Manuskript ist kein Theorie-Text, es ist Zeugnis. Lene war dabei.
 - Alphina erfährt (implizit): Die Schemen, die sie kennt — katzengroß auf der Mauer, Wächter-Form im Kampf — sind nicht das Ende der Skala. Es gibt größere. Und sie haben Vael schon einmal niedergebrannt.
 - Maren erfährt (Alphina beobachtet die Stille): Der Kreis unter Vael, von dem Edric sprach, ist der Kreis im Text. Harons Symbolblatt aus K20 wird jetzt rückwirkend verständlich. Die Dahl-Linie reicht vier Jahrhunderte zurück, bis zur Autorin des Manuskripts, das ihr eigener Vorbesitzer offenbar gekannt haben muss. Maren spricht es nicht aus. Alphina liest ihr Ruhigerwerden als Landung einer Erkenntnis.
-- Sorels Beat (Alphina registriert): Er sieht, wenn ihre Magie unbewusst wirkt. Er nimmt ihre Hand weg — ohne zu erklären.
-- Alphinas Erkenntnis am Ende der Szene: Sie ist in dem Text. Vier Fremde, Kreis aus Purpurstein. Wenn das eine Anleitung ist, ist die Anleitung für sie geschrieben — und jemand hat sie vor fast vierhundert Jahren geschrieben, als derselbe Riss Vael in Brand gesteckt hat.
+- Sorels Beat (Alphina registriert): Seine Hand auf ihrem Puls, während er auf die Skizze schaut. Er hält sie, ohne sie wegzuziehen. Zuwendung, nicht Eingriff.
+- Alphinas Erkenntnis am Ende der Szene: Sie erkennt sich und die anderen in Lenes Bericht wieder — vier, Pflanze/Uhrwerk/Licht/Wasser, ein Kreis aus Purpurstein. Lenes Gruppe hat es versucht, ohne Anleitung, und bezahlt. Lene hat nicht weitergemacht, sie hat aufgeschrieben. Vor vierhundert Jahren hat derselbe Ort, von dem die Pflanze und die Schemen kommen, einen Teil von Vael in Brand gesteckt.
 
 **Tschechow-Waffen geladen:**
 - Lene Dahl als Autorin des Manuskripts (TZ 154, Schreiberin im Rathaus) — dieselbe Familienlinie wie Haron. Feuert in Buch 2/3, wenn klar wird, was die Dahl-Linie ist und was Haron dort fortgesetzt oder verraten hat.
-- Die Feuer-Schemen-Skizze (drei, doppelt menschengroß, flammende Konturen) — feuert, wenn Varen oder eine andere Moragh-Fraktion erneut Feuer-Schemen schickt, oder wenn die 551er selbst einem begegnen. Geladen als Warnung: Eskalation ist möglich.
+- Die Feuer-Schemen-Skizze (drei, doppelt menschengroß, flammende Konturen) — feuert, wenn erneut Feuer-Schemen auftauchen, oder wenn die 551er selbst einem begegnen. Geladen als Warnung: Eskalation ist möglich.
 - "Die Stadt nannte es Funkenflug" — Tschechow der offiziellen Geschichtsschreibung. Feuert, wenn die 551er-Ereignisse sich wiederholen und die Stadt erneut eine harmlose Erklärung sucht.
-- Das Wort "Moragh" im Text — Alphina hat es jetzt gehört, kennt den Begriff nicht als Ort, nur als Wort. Feuert in K27/K28, wenn sie durch das Sprachbuch mehr lernt. Und im Moragh-POV.
+- Der ungenannte Ort jenseits der Schwelle — feuert, wenn Alphina ihn betritt und zum ersten Mal einen Namen für ihn hört.
 - Die fremde Randnotiz-Hand — Varens Hand, ungenannt. Feuert, wenn Alphina die Handschrift wiedersieht (K35+).
-- Sorel spürt Alphinas unbewusste Magie — Setup für die Bruch-Szene K25 (er hat sie lange gespürt, auch bevor er es zugab).
-- Die vier Hör-Arten (Pflanze, Uhrwerk, Licht, Wasser) explizit benannt — Ritualpraxis in Akt IV.
+- Sorels Hand am Puls — Setup für K25 und für die physische Qualität ihrer Beziehung, die in Moragh nochmal anders wird.
+- Die vier Hör-Arten (Pflanze, Uhrwerk, Licht, Wasser) explizit benannt — die 551er erkennen sich darin wieder, müssen aber erst entdecken, was davor schiefgegangen ist.
 
 **Tschechow-Waffen abgefeuert:**
 - K20: Harons Symbolblatt und der Name Dahl im Register. Jetzt: das Register liefert eine zweite Dahl — Lene, vierhundert Jahre früher, Autorin des Manuskripts. Die Linie steht, und Haron ist ihr jüngstes sichtbares Glied.
@@ -125,7 +118,7 @@ Erst das Blatt. Sie faltet es auf. Eine Zeichnung: sieben Monolithen im Kreis, e
 
 Alphina sieht zuerst auf die Zeichnung des Kreises. Sieben Monolithen. Mit bloßem Auge identisch zu dem, was sie seit Monaten umrundet, wenn sie Henriks Garten verlässt. Die Proportionen stimmen. Das Symbol in der Mitte entspricht der leeren Fläche im Garten, in die keine Wurzel greift — sie hat dort seit Wochen gemessen: nichts, was wüchse, nur kalte Erde über warmem Stein. Sie sagt das. Vesper: also ist etwas in der Mitte, das wir nicht sehen, oder es war einmal dort, oder es soll dort sein.
 
-Dann das dünne Buch. Jara gibt es Vesper in die Hand — so, wie man jemandem etwas gibt, das man selbst nicht weiter halten will. Weicher Einband, Fadenbindung, ungefähr achtzig Seiten. Aufgeschlagen: ein Lehrbuch. Wortlisten, Lautschrift, einfache Sätze mit Übersetzungen — und die Übersetzungen sind in thalassischer Umgangssprache, deutlich jünger als das Manuskript, Stil dieses Jahrzehnts. Die Fremdsprache ist dieselbe wie auf dem Ritual-Blatt. Das Wort "Moragh" steht auf Seite drei in einer Liste unter "Orte". Daneben: ein Wort, das "meine Welt" oder "mein Haus" bedeuten kann, je nach Auslegung.
+Dann das dünne Buch. Jara gibt es Vesper in die Hand — so, wie man jemandem etwas gibt, das man selbst nicht weiter halten will. Weicher Einband, Fadenbindung, ungefähr achtzig Seiten. Aufgeschlagen: ein Lehrbuch. Wortlisten, Lautschrift, einfache Sätze mit Übersetzungen — und die Übersetzungen sind in thalassischer Umgangssprache, deutlich jünger als das Manuskript, Stil dieses Jahrzehnts. Die Fremdsprache ist dieselbe wie auf dem Ritual-Blatt. Eine der ersten Einträge: ein Wort, das daneben mit "Heimat" oder "mein Ort" wiedergegeben ist. Der Name dieses Ortes steht nirgends — nur sein Begriff.
 
 Maren beugt sich über Vespers Schulter und wird still. Alphina sieht, wie etwas in Marens Gesicht kippt — ein halber Atemzug, den sie anhält. Maren sagt nichts laut. Sie streckt den Finger aus, berührt die thalassische Übersetzungs-Handschrift am Rand, zieht den Finger zurück. Alphina registriert die Geste ohne ihren Gehalt zu verstehen. Erst später, auf der Treppe, wird Maren zu Vesper sagen, was sie erkannt hat, wenn niemand anders in Hörweite ist. Jetzt nicht.
 
@@ -150,7 +143,7 @@ Auf der Treppe nach oben, die Luft wieder normal, kein Kribbeln, keine Öllampen
 Alphinas letzter innerer Beat, nicht ausgesprochen: Sie sind in einer Geschichte, die jemand für sie geschrieben hat. Wer es geschrieben hat, weiß, dass sie es lesen werden. Wer es geschrieben hat, will, dass sie zum Kreis gehen. Der Kreis, den sie seit Monaten nicht als Material, sondern als Puls kennt. Die Frage, die ihr den Atem wegnimmt, ist nicht, ob sie gehen wird. Die Frage ist, warum sie nicht mehr sicher ist, dass sie eine Wahl hat.
 
 **Dialog-Informationen:**
-- Alphina erfährt: Die Ritual-Sprache existiert als lehrbare Sprache. Jemand hat das Lehrbuch für sie vier bereitgestellt. Das Wort "Moragh" ist als Ortsname dokumentiert.
+- Alphina erfährt: Die fremde Schrift ist als lehrbare Sprache dokumentiert — Wortlisten, Lautschrift, einfache Übersetzungen ins Thalassische. Jemand hat das Lehrbuch bereitgestellt, in neuer Handschrift. Der Ort, aus dem die Sprache kommt, trägt in dem Buch nur einen Begriff ("Heimat", "mein Ort"), keinen Eigennamen.
 - Alphina erfährt: Der Kreis auf der Zeichnung zeigt in der Mitte ein Symbol; im Garten ist dort nur Erde, in die nichts wurzelt. Die leere Mitte ist also nicht zufällig leer — sie ist etwas.
 - Alphina erfährt: Die Schemen-Hände waren auf dem Papier, bevor es ins Archiv kam. Irgendwo außerhalb der Stadt werden Schemen von jemandem geführt, der Ritualmaterial präpariert.
 - Maren erkennt (still, ohne es in Alphinas POV auszusprechen): Die Übersetzungs-Handschrift im Sprachbuch ist Harons Hand. Sie teilt das später mit Vesper, nicht mit der Runde. Alphina registriert nur Marens körperliche Reaktion, nicht den Inhalt.
@@ -161,7 +154,7 @@ Alphinas letzter innerer Beat, nicht ausgesprochen: Sie sind in einer Geschichte
 
 **Tschechow-Waffen geladen:**
 - Das Ritual-Papier in Vespers Obhut — feuert in K27+ (Übersetzungsarbeit), in K36 (Ritualpraxis).
-- Das Moragh-Sprachbuch mit Harons Übersetzungs-Handschrift — feuert in K27 (Maren+Vesper Dom/Sub über Sprachübungen), in K36, und in Buch 2 als Beweis, dass Haron aus Moragh kam oder Verbindung dorthin hatte.
+- Das Sprachbuch der fremden Schrift mit Harons Übersetzungs-Handschrift — feuert in K27 (Maren+Vesper Dom/Sub über Sprachübungen), in K36, und in Buch 2 als Beweis, dass Haron Verbindung zu der anderen Seite hatte.
 - Die leere Mitte im Kreis (Garten und Zeichnung) — feuert, wenn im Finale klar wird, was oder wer in die Mitte gehört.
 - Die vier Hör-Arten nominell: Pflanze, Uhrwerk, Licht, Wasser — Checklist-Waffe für die Leserin, die später prüfen kann, wer was tatsächlich tut.
 - Sorels Schweigen über Varen-Platten — feuert in K25 Bruch (als Dauer und Umfang der Geheimnisse).
@@ -169,15 +162,15 @@ Alphinas letzter innerer Beat, nicht ausgesprochen: Sie sind in einer Geschichte
 **Tschechow-Waffen abgefeuert:**
 - K12+: Alphina sah drei Schemen auf der Mauer (keine Hände). Jetzt: die Hände dieser Spezies.
 - K19-Kampf: Alle vier haben Schemen gekämpft. Jetzt: die Schemen sind nicht nur Angreifer, sie sind Boten.
-- K22: Die Moragh-Pflanze in der Werft. Verbunden mit: Moragh als Ortsname im Manuskript und Sprachbuch. Der Name der Welt, die die Pflanze schickt.
+- K22: Die fremde Pflanze in der Werft. Verbunden mit: derselben "anderen Seite", von der Lenes Text spricht — ohne dass Alphina einen Namen dafür hätte.
 - K20: Harons Symbolblatt hat den Kreis gezeigt. Jetzt: die Ritual-Anweisung auf demselben Kreis, bestätigend, dass Haron Zugang zu diesem Material hatte.
 
 **Cross-POV-Ankerpunkte:**
-- K22 (Maren, Szene 1): Alphina hat dort die Moragh-Pflanze nicht einordnen können. Jetzt steht "Moragh" als Wort vor ihr. Sie verbindet die beiden Momente nicht laut, aber die Leserin tut es.
+- K22 (Maren, Szene 1): Alphina hat dort die fremde Pflanze nicht einordnen können. Jetzt weiß sie, dass es einen Ort gibt, von dem solche Dinge kommen — ohne Namen. Sie verbindet die beiden Momente nicht laut, aber die Leserin tut es.
 - K23 (Sorel): Sorel hat Varen auf den Platten gesehen. In dieser Szene schweigt er darüber, obwohl das Material hier dieselbe Botschaft trägt — Varen führt. Das ist bewusstes Zurückhalten, nicht Ahnungslosigkeit. Für K25-Bruch relevant: nicht nur die Steg-Platten sind eine alte Geheimnis-Schicht, auch das Varen-Wissen ist neu und verschwiegen.
 - K25 (Sorel/Bruch): Das Sprachbuch wird bei Vesper landen, nicht bei Sorel. Das ist das ruhige Signal, dass Sorel außerhalb der Arbeitsgruppe steht — ein Setup, das den Bruch am nächsten Tag glaubwürdig macht.
 - K27 (Maren): Maren hilft Vesper beim Sprachbuch. Diese Szene legt den Anlass; K27 legt die Dom/Sub-Dynamik darauf.
-- I3 / Moragh-Kapitel: Varen hat das Material platziert. Er testet die Rezeption. Für den späteren Varen-POV ist die Rückseite dieser Szene die Vorbereitungshandlung.
+- I3 / Vorgänger-Kapitel: Lene war selbst dort am Kreis (Text, Skizze). Das Material-Nachschub-Paar (Ritual-Papier + Sprachbuch) ist von anderer Seite platziert — Varens Vorbereitungshandlung. Der Varen-POV sieht die Rückseite dieser Szene, die Leserin nicht, Alphina erst recht nicht.
 
 ---
 
@@ -191,7 +184,7 @@ Alphinas letzter innerer Beat, nicht ausgesprochen: Sie sind in einer Geschichte
 - K12: drei Schemen auf der Mauer, Hände nicht gesehen
 - Sie kennt Vespers Archiv-Arbeit aus seiner Schilderung (K20-Folge), war aber selbst nie dort
 - Den Namen "Varen" kennt sie nicht
-- Das Wort "Moragh" hat sie noch nie gehört
+- Sie hat kein Wort für den Ort, von dem die fremde Pflanze und die Schemen kommen — nur die Ahnung, dass es ihn gibt
 - Der Steinkreis im Botanischen Garten ist ihr seit Monaten vertraut als Puls, nicht als Ritual-Ort
 
 **Was weiß sie am Ende?**
@@ -201,7 +194,7 @@ Alphinas letzter innerer Beat, nicht ausgesprochen: Sie sind in einer Geschichte
 - Ein Ritual existiert: vier Fremde, ein Kreis aus Purpurstein, eine Schwelle
 - Der Kreis im Ritual ist der Steinkreis im Botanischen Garten
 - Die vier Hör-Arten sind Pflanze, Uhrwerk, Licht, Wasser — das sind sie
-- "Moragh" ist ein Ortsname in der Ritual-Sprache; die Sprache ist lernbar; ein Lehrbuch dafür existiert
+- Der Ort auf der anderen Seite hat keinen Namen in Lenes Text, nur einen Begriff ("Heimat / mein Ort") im Sprachbuch. Die fremde Schrift ist lernbar; das Lehrbuch liegt vor
 - Die Schemen-Hände waren auf dem Ritual-Papier — irgendwo außerhalb, vor der Platzierung
 - Jemand hat Zugang zum verschlossenen Archiv ohne das Schloss zu brechen
 - Jemand platziert Material adressiert an die vier
@@ -212,7 +205,7 @@ Alphinas letzter innerer Beat, nicht ausgesprochen: Sie sind in einer Geschichte
 **Was darf sie NICHT wissen (Sorel-Prinzip)?**
 - Den Namen Varen (weder als Person noch als Handlungsträger)
 - Dass Sorel gestern (K23) Varen auf den Kampf-Platten erkannt hat — Sorel schweigt in dieser Szene
-- Dass das Material gezielt von einem bestimmten Moragh-Forscher platziert wird, nicht von "einer Fraktion"
+- Dass das Material gezielt von einer bestimmten Person der anderen Seite platziert wird, nicht von einer anonymen Macht
 - Was ein Portalübergang körperlich bedeutet oder auslöst
 - Dass Sorel sie vor dem Gartenabend (K12) bereits wochenlang fotografiert hat — K25-Material
 
