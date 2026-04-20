@@ -15,12 +15,12 @@ Sorel kommt. Er klopft, tritt ein. Er bringt Chemie-Geruch aus dem Lichthaus mit
 
 Gespraech laeuft an. Sorel hat Alphina am Nachmittag aus der Werft kommen sehen. Sie hat K22 (Pflanze aus der Fuge) kurz vor Sorel — sieben Zentimeter in einer Nacht, dreht sich, wenn Alphina den Raum wechselt.
 
-Dann K19. Sie klaeren es trocken: Maren wurde als erste getroffen, blutete, lag. Drei haben gekaempft — Alphina mit Wurzeln, Sorel mit Licht, Vesper mit Zeit. Maren nicht. Marens Wasser war nicht im Spiel. Die Vier-Resonanz-Idee, die sich seit K19 in allen Koepfen gehalten hat, stimmt nicht. Es waren drei.
+Dann K19. Sie rekonstruieren den Kampf zum ersten Mal ausgesprochen: Maren wurde als erste getroffen, blutete, lag. Drei haben gekaempft — Alphina mit Wurzeln, Sorel mit Licht, Vesper mit Zeit. Maren nicht. Marens Wasser war nicht im Spiel. Beide haben K19 bisher als gemeinsamen Vier-Kampf erinnert, ohne den Punkt ausgesprochen zu haben. Er war einer mit drei Resonanzen.
 
 Sorel: *„Drei Resonanzen gleichzeitig, unabgesprochen. Es hat gerade so gereicht."*
 Alphina: *„Wir haben nichts entschieden."*
 
-Die Kernfrage steht damit im Raum: was koennen wir einzeln, was zusammen? Bisher nie bewusst getestet. Sie formulieren die Frage nicht, aber beide arbeiten daran.
+Alphina legt die Schere weg. Sorel dreht den Hocker zur Fensterbank. Keine Worte mehr; beide wissen, was als naechstes kommt. Sie holt einen Steckling.
 
 **Dialog-Informationen:**
 - Alphina erfaehrt: Sorel hat denselben Mangel an Kontrolle registriert wie sie.
@@ -46,23 +46,25 @@ Alphina raeumt den Tisch. Zweite Kerze vom Waschtisch dazu. Sie holt einen Steck
 
 **Einzeltest Sorel.** Alphina legt die Haende auf die Oberschenkel, weg vom Steckling. Sorel nimmt Daumen und Zeigefinger zur Kerze. Er zieht das Licht schmal — feiner Kegel auf die Spitze der Ranke. Er haelt den Kegel konstant.
 
-Die Pflanzenspitze richtet sich zum Licht. Langsam. Ein halber Fingerknochen in einer Minute. Alphina zaehlt Atemzuege. Phototropismus, beschleunigt um Faktor ungefaehr zehn. Bekanntes Prinzip: Licht verschiebt Auxine, Zellstreckung einseitig. Sorels Licht macht das schneller als Sonnenlicht, aber nicht um Groessenordnungen. Ergebnis: Ranke folgt, langsam.
+Die Pflanzenspitze richtet sich zum Licht. Langsam. Ein halber Fingerknochen in drei Minuten. Alphina zaehlt Atemzuege. Phototropismus, beschleunigt um etwa zwei Groessenordnungen gegenueber Sonnenlicht. Bekanntes Prinzip: Licht verschiebt Auxine, Zellstreckung einseitig. Sorels Licht forciert das, aber nicht dramatisch. Ergebnis: Ranke folgt, gerichtet, langsam.
 
 Sorel laesst das Licht weit werden. Die Ranke steht, wo sie steht.
 
-**Einzeltest Alphina.** Er setzt sich zurueck. Sie legt drei Finger auf den Ansatz der Ranke. Kerzen brennen, aber er formt sie nicht. Sie gibt Resonanz wie in K22 an der Werft-Pflanze — Kribbeln in den Fingern, Waerme, Herz unter dem Schluesselbein.
+**Einzeltest Alphina.** Er setzt sich zurueck. Sie legt drei Finger auf den Ansatz der Ranke. Kerzen brennen, aber er formt sie nicht. Sie gibt Richtung in die Pflanze — Kribbeln in den Fingerkuppen, Waerme durch die Haende, Herz unter dem Schluesselbein (Sensor-Signale im Kanal, sie kennt das aus K22 an der Werft-Pflanze). Die Energie fliesst durch sie, nicht aus ihr — so hat sie es bei Henriks Lavendel gelernt.
 
-Die Ranke wachst. Zwei, drei Fingerknochen in einer Minute. Schneller als Sorels Licht allein. Aber ungerichtet — Spitze nach oben, Seitenblaetter allseitig, neues Blattpaar aus der Knospe. Keine Achse. Faktor etwa dreissig gegenueber Standard.
+Die Ranke wachst. Ein Fingerknochen in drei Minuten, dann zwei. Deutlich schneller als Sorels Licht allein. Aber ungerichtet — Spitze nach oben, Seitenblaetter allseitig, neues Blattpaar aus der Knospe. Keine Achse.
 
 Sie laesst die Hand sinken. Der Steckling ist spuerbar groesser als vorher.
 
-**Zwischenstand:** Sorel gerichtet, langsam (×10). Alphina ungerichtet, schnell (×30). Sie sehen sich an.
+**Zwischenstand:** Sorel gerichtet, langsam. Alphina ungerichtet, schnell. Sie sehen sich an. Seine Hand auf dem Tisch, zwei Handbreit von ihrer. Sie spuert die Waerme, ohne dass er sie beruehrt.
 
-**Kombination.** Sie legt die Finger zurueck auf die Ranke. Er hebt Daumen und Zeigefinger zur Kerze. Beide gleichzeitig — Licht gebuendelt, Resonanz gegeben.
+**Kombination.** Sie legt die Finger zurueck auf die Ranke. Er hebt Daumen und Zeigefinger zur Kerze. Beide gleichzeitig — Licht gebuendelt, Richtung gegeben.
 
-Die Pflanze wachst gerichtet und schnell. Spitze streckt sich in Sorels Lichtkegel, Seitenblatt um Seitenblatt entlang dieser Achse, neue Knoten, neue Blaetter. Eine Handlaenge in einer halben Minute. Alphina schaetzt: Faktor etwa zweihundert. Multiplikativ, nicht additiv.
+Die Pflanze wachst gerichtet und schnell. Spitze streckt sich in Sorels Lichtkegel, Seitenblatt um Seitenblatt entlang dieser Achse, neue Knoten, neue Blaetter. Eine Handlaenge in zehn Minuten — der Unterschied zu den Einzeltests ist nicht Summe, sondern Vielfaches. Alphina rechnet grob mit: multiplikativ, nicht additiv. Die genaue Zahl bleibt offen; die Richtung ist klar.
 
-Sie loest, er loescht. Die Ranke bleibt. Eine Handlaenge und drei Fingerknochen, neue Wachstumsachse in Richtung Lichtkegel. Veraenderung bleibt.
+Sie loest, er loescht. Die Ranke bleibt. Handlaenge plus Fingerknochen, neue Wachstumsachse in Richtung des fruehren Lichtkegels. Veraenderung bleibt.
+
+Alphina begreift etwas, das sie nicht ausspricht: sein Licht *konkurriert* nicht mit ihrer Resonanz. Es *traegt* sie. Jeder andere Mann, dem sie diese Arbeit gezeigt haette (Henrik eingeschlossen), haette neben ihr gestanden, nicht in ihr. Sorel steht nicht neben ihr. Er steht unter ihrer Arbeit und haelt sie.
 
 Beide schweigen. Beide verstehen: Im Garten (K19) haben drei Resonanzen gleichzeitig gewirkt, aber jede fuer sich. Hier ineinander. Andere Funktionsweise.
 
@@ -70,9 +72,10 @@ Sorel, trocken: *„Wenn vier das machen…"* Satz unvollendet.
 Alphina vollendet ihn nicht. Der Gedanke bleibt.
 
 **Dialog-Informationen:**
-- Alphina erfaehrt: Licht verstaerkt ihre Resonanz multiplikativ. Faktor weit ueber hundert.
+- Alphina erfaehrt: Licht und Resonanz koppeln multiplikativ (genaue Faktoren nicht ausgerechnet, aber Groessenordnung klar).
 - Sorel erfaehrt: sein Licht kann als Traeger dienen, nicht nur als Waffe.
 - Alphinas Erkenntnis: K19 war Gleichzeitigkeit. K23 ist Kopplung. Zwei Begriffe, zwei Wirkungen.
+- Alphinas Selbst-Erkenntnis (Fundament fuer K35): Sorels Licht konkurriert nicht mit ihrer Resonanz, es traegt sie. Andere Maenner haetten neben ihr gestanden. Er nicht.
 - Sorels unvollendeter Satz steht als geteilter Gedanke im Raum: vier wuerden multiplikativ werden.
 
 **Tschechow-Waffen geladen:**
@@ -81,6 +84,7 @@ Alphina vollendet ihn nicht. Der Gedanke bleibt.
 - **Sorels Licht als Traeger** — feuert in K29 (Prisma, Brennpunkt), K30 (Licht im Kampf), K34 (Ritual).
 - **Veraenderte Ranke mit neuer Achse** — physischer Beweis, bleibt im Zimmer.
 - **Sorels „Wenn vier das machen…"** — Seed fuer K26 (Gruppen-Entscheidung, Durchgangs-Idee).
+- **„Er traegt, er konkurriert nicht"** — Fundament-Brett fuer K35 (Alphinas Verlust: sie verliert den einzigen, der unter ihrer Arbeit stand, nicht neben ihr).
 
 **Tschechow-Waffen abgefeuert:**
 - K22 Werft-Resonanz empirisch wiederholt, Faktor quantifiziert.
