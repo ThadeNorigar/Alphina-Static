@@ -150,7 +150,40 @@ Wenn eine Regel in einem anderen Dokument (Stilregeln, Autorin-Stimme, Memory) g
 
 ---
 
-## 9. Metadaten
+## 9. Commercial-Mindeststandards (95%-Gate)
+
+Jede Prosa-Passage (Leseprobe, Szenen-Eröffnung, Kapitel-Anfang) muss bei **95% der Zielgruppen-Leserinnen** (Yarros/Maas/Robert/Kennedy/Simone-Regal) als **weiterlesbar** durchgehen. Strenger als "gut geschrieben" — **Marktfähigkeit**. Literary-Disziplin (King, Bardugo, Kuang *Babel*) steht im Dienst dieses Gates, nicht umgekehrt.
+
+### Die vier Pflichten pro Eröffnung
+
+1. **Erster Satz ist Hook.** Figur in Situation mit Spannung, nicht Atmosphäre-Beobachtung. *"Das Zimmer roch nach Kalk"* = Finding. *"Sie wollte ihn heute nicht sehen, und er stand an der Tür."* = Hook.
+2. **Figur will etwas, deutlich.** Sehen / fliehen / küssen / vermeiden / kontrollieren / verbergen. Nicht subtil, nicht "innerlich". Commercial-Leserinnen lesen Wollen, nicht Zustand.
+3. **Etwas passiert oder kippt in den ersten 200 Wörtern.** Dialog, Ankunft, Entscheidung, Beobachtung mit Folge.
+4. **Körper oder Emotion hörbar im ersten Viertel.** Körperbeat, Begehren, Angst, Zorn, Widerwillen. Spürbar, nicht benannt.
+
+### Pass-Stufen
+
+- **≥ 90 %** → bestanden. Kein Umbau.
+- **70–89 %** → grenzwertig. Chirurgische Fixes (Erste-Zeile-Hook, 1–2 Pace-Bremsen raus).
+- **< 70 %** → durchgefallen. Kompletter Neuansatz: Figur-Motor fehlt, Hook fehlt, oder Atmosphäre ist Hauptton.
+
+### Fünf-Leserinnen-Council
+
+Fünf idealtypische Zielgruppen-Leserinnen als Test-Gremium: **LINA** (Romantasy/Yarros-Maas), **NORA** (Dark Romance/Robert-Kennedy), **MEIKE** (Dark Fantasy/Bardugo-Black), **VICTORIA** (BDSM/Réage-Reisz), **KAYA** (Dystopie/Kuang-SenLinYu-Pierce Brown). Volle Profile im Command `/book-council`. **Pflicht** für alle Leseproben, **empfohlen** für Kapitel-Eröffnungen und umstrittene Passagen.
+
+### Was disqualifiziert (hartes Raster)
+
+- Eröffnung mit Atmosphäre-Beobachtung ohne Figur-Motor
+- Figur "arbeitet" oder "beobachtet" ohne innerliches Wollen
+- Reihum-Plot-Info ohne Sub-Text oder Spannung
+- Literary-Disziplin als Selbstzweck (King-Dichte ist Untergrund, nicht Hauptton)
+- Material-Beschreibung ohne Figur-Hand im selben Absatz
+- "Hä?"-Sätze (Verständlichkeits-Gate aus Stilregeln)
+- Pace-Bremsen ohne Funktion
+
+---
+
+## 10. Metadaten
 
 - **Stand:** 2026-04-21
 - **Entstanden durch:** K23-Blind-Tests, in denen der Autor zweimal die commercial Vollvariante gegenüber literary-zurückhaltender Prosa bevorzugte. Vorher war das Projekt unklar zwischen literary und commercial positioniert, mit stilistischer Drift in Richtung literary-Zurückhaltung.

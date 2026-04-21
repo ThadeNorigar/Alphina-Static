@@ -56,13 +56,28 @@ canon_status: Ton-Etüde, nicht Plot-Canon
 | 18 | Fehlurteil-Schuld (nach Talven) | Alphina (B3) | Trauer |
 | 19 | Narbige Ruhe / Epilog | Alphina (B3) | keine |
 
+## Commercial-Mindeststandards (95%-Gate)
+
+**Jede Probe muss das 95%-Gate aus `00-positioning.md` Abschnitt 9 passieren.** Leserinnen-Test verpflichtend via `/book-council` vor Commit. Die vier Pflichten:
+
+1. Erster Satz ist Hook (Figur in Situation mit Spannung, nicht Atmosphäre)
+2. Figur will etwas, deutlich
+3. Etwas passiert/kippt in den ersten 200 Wörtern
+4. Körper oder Emotion hörbar im ersten Viertel
+
+**Pass-Stufen:**
+- ≥ 90 % → bestanden
+- 70–89 % → chirurgische Fixes
+- < 70 % → Neuansatz
+
 ## Anwendung in Skills
 
+- **`/book-council`**: **Pflicht-Check** für jede neue Probe. Fünf Ziel-Leserinnen-Archetypen (LINA/NORA/MEIKE/VICTORIA/KAYA) bewerten die Commercial-Marktfähigkeit.
 - **`/entwurf`**: Probe zum Szenen-Typ laden als Ton-Referenz.
 - **`/ausarbeitung`**: Primär-Probe + ggf. Ergänzungs-Probe laden. Ersetzt das "letzte fertige Kapitel derselben POV-Figur" nicht, sondern ergänzt.
 - **`/stil-check`**: Findings gegen die Probe für den Szenen-Typ messen.
 - **`/refit`**: Die Probe ist das Zielbild; altes Kapitel wird daran gemessen.
-- **`/council`**: jeder Agent darf die Probe zitieren als Ton-Vergleich.
+- **`/council`**: jeder Agent darf die Probe zitieren als Ton-Vergleich (Canon-Focus, nicht Markt-Focus).
 
 ## Was diese Proben NICHT sind
 
