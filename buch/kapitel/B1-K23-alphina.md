@@ -2,130 +2,128 @@
 
 *22. Blütenmond 551 · 8 Wochen 4 Tage in Vael*
 
-Im *Anker* brannten die Wandlampen noch nicht. Alphina hatte die Kerze selbst entzündet, Talg, eine Hand breit, im Messinghalter auf dem Tisch. Das Fenster zur Hafengasse stand einen Handbreit auf, und durch den Spalt kam das Salz der Grauwe und aus der Gasse unten ein Gelächter, das an der Fassade abprallte. Sie schnitt die gelben Spitzen vom Streifenfarn, eine nach der anderen, und legte sie neben das Wasserglas auf dem Tischtuch.
+Die Sonne war gerade hinter dem Dach gegenüber weggekippt, als Alphina sich an den Tisch setzte und den Streifenfarn auf der Fensterbank zu sich heranzog. Sie schnitt die gelben Spitzen ab, eine nach der anderen. Die Talgkerze brannte ruhig. Das Fenster zur Hafengasse stand einen Handbreit auf, und von unten kam das Salz der Grauwe und ein Stück Gelächter, das an der Fassade abprallte und weiter die Gasse hinunter fiel.
 
-Er klopfte kurz, einmal, und trat ein, bevor sie antworten konnte. Kamera und Stativ stellte er an die Wand neben die Tür, dann setzte er sich auf den Hocker am Tisch. Der Geruch aus dem Lichthaus-Keller kam mit ihm: Pyrogallol und Fixiersalz, scharf-süß. Sie musste nicht aufsehen, um zu wissen, dass er es war.
+Er klopfte einmal und trat ein. Sie hörte den Hocker knarren, als er sich am Tisch setzte, und roch den Keller an seinen Kleidern, noch bevor sie aufsah.
 
-»Du warst heute in der Werft.«
+Sie sah auf. Er sah sie an. Eine Weile sagten sie nichts.
 
-Sie nickte, schnitt weiter. »Maren hat heute früh etwas gefunden. In der Fuge zwischen Holzboden und Mauer. Eine fremde Pflanze.«
+»Du hast die Kamera mitgebracht«, sagte sie schließlich.
 
-Er legte die Hände flach auf die Tischplatte. »Wächst sie?«
+»Ich bringe sie überall mit.«
 
-»Kniehoch in einer Stunde, nachdem ich sie gebeten hatte. Sie hat geblüht, violett, und die Blüte gibt Licht, das geblieben ist.«
+Sie legte die Schere neben die abgeschnittenen Spitzen. Sein Blick war auf ihren Händen. Sie ließ die Hände liegen, wo sie waren.
 
-Er nickte langsam, ohne weiterzufragen. Sie legte die Schere ab. Die Kerze flackerte kurz, als vom Hafen ein Schlag gegen einen Pfahl kam. Dann hörte das Gelächter in der Gasse auf.
+»Maren hat heute morgen eine Pflanze in der Werft gefunden«, sagte sie. »In der Fuge zwischen Bohle und Mauer. Nichts, was dorthingehören könnte. Kniehoch in einer Stunde, nachdem ich sie gebeten hatte. Violette Blüte, und das Licht aus der Blüte ist geblieben.«
 
-Er sah seine linke Hand an, den Handrücken, der heller war als die Haut drumherum. Die Finger lagen still auf der Tischplatte.
+Er nickte, ohne zu fragen. Seine linke Hand lag flach auf dem Tischtuch. Die Narbe am Handrücken war heller als die Haut um sie herum.
 
-»Ich schlafe schlecht.«
+»Ich schlafe schlecht«, sagte er.
 
-Sie wartete.
+Sie nickte, ohne ihn anzusehen.
 
-»Gestern Nacht habe ich deine Kerze von unten gesehen. Ich bin eine Weile stehen geblieben. Ich habe die Flamme angesehen, bis sie zu einem Tonwert wurde.«
+Eine Weile sagte keiner etwas.
 
-Das stand an Stelle einer Antwort.
+»Vor zwei Tagen«, sagte sie.
 
-»Vorgestern«, sagte sie.
+Er hob den Kopf und wusste, was sie meinte. »Wir waren zu viert. Wir hatten uns im Garten verabredet, und dann kam es durch. Drei von uns — dein Wachstum, mein Licht, Vespers Zeit. Wir haben sie ineinandergelegt, während wir kämpften. Es hat gerade so gereicht.«
 
-Er hob den Kopf. Wusste, was sie meinte. »Drei Resonanzen gleichzeitig. Unabgesprochen. Es hat gerade so gereicht.«
+»Maren hat es zuerst erwischt.«
 
-»Maren lag.«
+»Ja.« Sein Finger auf dem Tisch fand einen Tropfen Wasser und zog ihn in eine schmale Linie. »Sie war am nächsten. Der erste Schlag hat sie getroffen. Wir waren zu viert, aber das Wasser hat gefehlt.«
 
-»Maren lag.« Ein Finger auf dem Tisch fand einen Tropfen Wasser, zog ihn in eine Linie, hielt inne. »Wir waren zu dritt. Wasser nicht.«
+Sie sah auf den Streifenfarn, auf die abgeschnittenen Spitzen neben dem Glas. Drei Paare, gelb. »Wir haben nichts entschieden«, sagte sie. »Wir haben nichts geprüft.«
 
-Sie sah auf den Streifenfarn, die abgeschnittenen Spitzen neben dem Glas. Drei Paare, gelb. »Wir haben nichts entschieden«, sagte sie. »Wir haben nichts geprüft.«
+Er nickte, einmal, und drückte den Daumennagel leicht in den Linientropfen.
 
-Er hielt die Hand auf dem Tisch, den Daumennagel leicht in den Linientropfen gedrückt. Nickte. Einmal.
+Die Kerze zog einen langen Docht und kippte das Wachs nach einer Seite. Unten in der Gasse ging jemand vorbei, Stiefel auf Stein, unregelmäßig — eine Frau mit einem Korb, vielleicht. Eine Weile war das das ganze Zimmer: die Flamme, ihre Schritte, der Tisch zwischen ihnen. Alphina sah auf Sorels Hand, nicht in sein Gesicht. Die Linie vom Tropfen zog sich noch dünn über das Holz.
 
-Die Kerze zog einen langen Docht, kippte den Wachs nach einer Seite, hielt sich. Unten in der Gasse ging jemand vorbei, Stiefel auf Stein, unregelmäßig — eine Frau mit einem Korb, vielleicht. Zwei Atemzüge lang war das das ganze Zimmer: die Flamme, ihre Schritte, der Tisch zwischen ihnen. Alphina sah auf Sorels Hand, nicht auf das Gesicht. Die Linie vom Tropfen zog sich noch dünn über das Holz.
-
-Sie stand auf. Am Fensterbrett stand die Ranke im Wasserglas — ein Steckling aus dem Botanischen Garten, von Henrik, gestern; das Wasser hatte sie heute morgen gewechselt. Sie nahm die Ranke heraus. Wasser lief auf den Unterarm. Sie legte sie neben den Messinghalter der Kerze. Der Stängel gegen das Messing, kühl.
+Sie stand auf und ging zum Fensterbrett. Dort stand ein Wasserglas mit einem Steckling, den Henrik ihr gestern aus dem Botanischen Garten mitgegeben hatte; das Wasser hatte sie heute früh gewechselt. Sie nahm die Ranke heraus, und Wasser lief auf ihren Unterarm. Sie legte sie neben den Messinghalter der Kerze. Der Stängel lag kühl am Messing.
 
 »Lass uns was machen.«
 
-Er sah sie an. Fragte nicht was. Seine linke Hand wanderte einen halben Zoll näher ans Messing, blieb da.
+Er sah sie an. Er fragte nicht, was. Seine linke Hand wanderte einen halben Zoll näher ans Messing und blieb da.
 
 ---
 
-Sie räumte den Tisch. Das Notizbuch auf die Fensterbank, die Werkzeugdose auf die Diele neben das Bett. Vom Waschtisch nahm sie die zweite Talgkerze, stellte sie neben die erste, zündete sie am alten Docht. Der Raum bekam ein zweites Zentrum. Schatten verdoppelten sich und standen dann still.
+Sie räumte den Tisch frei. Das Notizbuch legte sie auf die Fensterbank, die Werkzeugdose stellte sie neben das Bett. Vom Waschtisch holte sie die zweite Talgkerze und zündete sie am alten Docht an. Der Raum war jetzt heller, die Schatten tiefer.
 
-Aus der Werkzeugdose eine flache Zinnschale, eine Handspanne im Durchmesser, mit der sie sonst Stecklinge bewurzelte. Sie schnitt den Stängel der Ranke schräg an, legte ihn in die Schale und goss Wasser aus dem Krug nach, so viel, dass der Schnitt gerade bedeckt war. Das Wasser roch nach Erde, wurde braun an der Stelle, wo die Wurzelspitzen abgaben, was der Garten in sie gegeben hatte.
+Aus der Werkzeugdose nahm sie eine flache Zinnschale, mit der sie sonst Stecklinge bewurzelte, und stellte sie zwischen sich und ihn auf den Tisch. Sie schnitt den Stängel der Ranke schräg an, legte ihn in die Schale und goss Wasser aus dem Krug nach, so viel, dass der Schnitt gerade bedeckt war.
 
 »Du hältst das Licht«, sagte sie. »Schmal. Auf die Spitze.«
 
-Er nickte. Nahm den Stuhl, rückte ihn an den Tisch, kniete dann doch auf die Dielen, weil die Schale niedriger stand als die Tischplatte. Sie kniete ihm gegenüber, auf der anderen Seite der Ranke. Die Diele unter ihrer Kniescheibe war warm an der Stelle, wo die Sonne nachmittags gestanden hatte.
+Er nickte, nahm den Stuhl und rückte ihn an den Tisch. Dann kniete er doch auf die Dielen, weil die Schale niedriger stand als die Tischplatte. Sie kniete ihm gegenüber, auf der anderen Seite der Ranke. Die Diele unter ihren Knien war noch warm von der Nachmittagssonne, die durchs Fenster gefallen war.
 
 Sie legte beide Hände auf die Oberschenkel. »Zuerst du.«
 
-Er hob Daumen und Zeigefinger zur Kerze, nicht näher als einen Finger breit. Kein Geräusch. Das Flammenlicht zog sich schmal, ein fingerbreiter Streifen, und suchte die Spitze der Ranke. Er fand sie. Der Streifen stand.
+Er hob Daumen und Zeigefinger an die Kerzenflamme. Das Flammenlicht zog sich zu einem schmalen Streifen zusammen und legte sich auf die Spitze der Ranke. Der Streifen stand dort, wo er ihn hinlegte.
 
-Alphina begann zu zählen — ihre Atemzüge, nicht seine. Bei dreiundzwanzig begann die Spitze sich zu strecken. Zelle um Zelle, einseitig; sie konnte es sehen, weil der Schatten auf der lichtabgewandten Seite sich verlängerte, während die beleuchtete Flanke gleich blieb. Auxine. Die wanderten im Dunkel, streckten die Zellen auf der Schattenseite, kippten die Spitze. Jede Pflanze tat das. Unter Sonnenlicht über Stunden. Unter Sorels Licht schneller, aber nicht viel schneller als das Sonnenlicht es allein hätte können. Ein halber Fingerknochen in drei Minuten. Mehr nicht.
+Eine Weile geschah nichts. Dann begann die Spitze, sich zum Licht hinzuneigen. Zelle um Zelle, wie Alphina es aus jeder Beetreihe kannte, nur beschleunigt. Der Schatten auf der abgewandten Seite wurde länger, die beleuchtete Flanke blieb gleich. Pflanzen taten das ohnehin, wenn sie zum Licht wuchsen — unter der Sonne brauchten sie dafür Stunden. Unter seinem Licht ein paar Minuten.
 
-Er ließ das Licht weit werden. Die Ranke stand, wo sie stand. Die Richtung war jetzt eine Form, keine Bewegung mehr.
+Er ließ das Licht weit werden. Die Ranke blieb in der Haltung, in die sie gewachsen war.
 
 »Jetzt du«, sagte er.
 
-Sie legte drei Finger auf den Ansatz der Ranke, knapp über dem Wasser. Die Kerzen brannten. Er formte sie nicht.
+Sie legte drei Finger auf den Ansatz der Ranke, knapp über dem Wasser. Die Kerzen brannten ruhig. Er formte das Licht nicht.
 
-Kribbeln in den Fingerkuppen — das kannte sie aus der Werft am Vormittag, aus dem Garten vorgestern, aus den Messungen am Steinkreis vor drei Wochen, als der Stein unter ihrer Hand warm geworden war. Wärme durch die Handflächen, kein Fluss, eher ein Lehnen von innen nach außen. Das Herz unter dem Schlüsselbein, lauter als nötig. Sie gab etwas in einen Kanal, der kein Rohr war, und das Material stand im Raum: das Wasser in der Schale, das Holz darunter, die Luft dazwischen. Ihre Resonanz nahm, was da war, und machte daraus.
+Das Kribbeln in den Fingerkuppen kannte sie. Sie hatte es am Vormittag in der Werft gespürt, und zwei Tage zuvor im Garten, und einmal, Wochen her, am Stein im Kreis, der unter ihrer Hand warm geworden war. Jetzt kam es wieder, und dahinter die Wärme, die sich aus den Handflächen nach außen lehnte, und das Herz unter dem Schlüsselbein, lauter als nötig. Was sie in den Stängel gab, hatte keinen Namen. Sie nahm dafür, was um sie war — das Wasser in der Schale, das Holz darunter, die Luft dazwischen.
 
-Die Ranke wuchs. Ein Fingerknochen in drei Minuten. Dann zwei Fingerknochen. Spitze nach oben, Seitenblätter allseitig, ein neues Blattpaar aus der Achselknospe, schnell genug, dass sie zusehen konnte, wie die Blätter sich aus ihrer Falte öffneten. Aber die Achse fehlte. Kein Ziel. Die Pflanze wuchs in alle Richtungen zugleich, weil sie keine hatte, auf die sie zuwachsen konnte.
+Die Ranke wuchs. Zuerst die Spitze, dann ein neues Blattpaar, dann zwei Seitentriebe, die aus den Blattachseln kamen, schnell genug, dass sie zusehen konnte, wie sich die Blätter aus ihrer Falte öffneten. Sie wuchs in alle Richtungen zugleich, weil sie keine Seite hatte, auf die sie zuwachsen sollte. Die Spitze wusste nicht wohin.
 
-Sie ließ die Hand sinken. Der Steckling war spürbar größer. Das Wasser in der Schale tiefer, weil die Wurzelspitzen länger geworden waren und ins Tiefere reichten.
+Sie ließ die Hand sinken. Der Steckling war spürbar größer geworden, und das Wasser in der Schale stand tiefer, weil die Wurzelspitzen länger waren und nach unten reichten.
 
-Sie sah ihn an. Er sie. Zwischen ihnen stand die Ranke, dick geworden, ungerichtet, eine kleine grüne Wolke. Seine linke Hand lag auf dem Tischrand, zwei Handbreit von ihrer. Nicht näher, nicht weiter. Die Wärme unter seiner Haut war zu spüren, ohne dass er sie berührte — ein Radius, der an ihrem Handrücken ankam und dort blieb. Er atmete flacher als vorhin. Sie hörte es, weil der Raum still genug geworden war. Sie atmete genauso. Ein Gewicht lag zwischen den Händen, ungefragt.
+Sie sah ihn an, und er sah sie an. Zwischen ihnen stand die Ranke, dick und wirr geworden, ein Gewirr aus Blättern ohne Richtung. Seine linke Hand lag auf dem Tischrand, zwei Handbreit von ihrer — nicht näher, nicht weiter. Die Wärme unter seiner Haut war bei ihr, ohne dass er sie berührte. Sein Daumen setzte zu einer halben Bewegung an und hielt. Der Muskel am Kiefer spannte sich einmal und lockerte sich nicht ganz. Er atmete flacher als vorhin. Sie hörte es und atmete genauso.
 
 »Zusammen«, sagte sie.
 
-Er hob die Finger zur Kerze. Sie legte die ihren zurück auf den Ansatz. Beide gleichzeitig, kein drittes Atmen.
+Er hob die Finger zur Kerze. Sie legte die ihren zurück auf den Ansatz. Sie begannen im selben Atemzug.
 
-Der schmale Kegel fand die Spitze. Ihre Resonanz nahm, was da war, und jetzt hatte die Form eine Richtung.
+Der schmale Kegel legte sich wieder auf die Spitze. Was Alphina in den Stängel gab, hatte jetzt ein Ziel.
 
-Die Pflanze wuchs entlang der Lichtachse. Die Spitze streckte sich in den Kegel hinein, Seitenblatt um Seitenblatt entlang dieser Linie, neue Knoten, die Abstände zwischen ihnen sauber, regelmäßig, jeder ein halber Finger. Eine Handlänge in zehn Minuten. Der Unterschied zu vorhin lag weit über der Summe der Einzeltests — ein Vielfaches. Sie rechnete nicht aus; die Größenordnung lag offen. Sein Licht allein: langsam, gerichtet. Ihre Resonanz allein: schnell, ungerichtet. Zusammen: schnell und gerichtet, und in sich verschränkt. Eine andere Funktionsweise.
+Die Ranke schob sich entlang der Lichtachse. Die Spitze streckte sich in den Kegel hinein, und Seitenblatt um Seitenblatt kam entlang dieser Linie, sauber und regelmäßig, schneller als zuvor. Sie wuchs auch schneller, als sie allein gewachsen war. Mehr als die Summe. Alphina rechnete nicht nach.
 
-Sie löste die Finger. Er ließ das Licht weit werden, dann löschte er die Flamme zwischen Daumen und Zeigefinger, schnell, ohne die Fingerspitzen zu verbrennen. Die Ranke blieb. Eine Handlänge plus Fingerknochen hatte sie gewonnen, und die neue Wachstumsachse zeigte in die Richtung, in der sein Kegel gestanden hatte. Die Veränderung blieb.
+Sie löste die Finger. Er ließ das Licht weit werden und drückte dann die Flamme zwischen Daumen und Zeigefinger aus. Die Ranke blieb, wie sie gewachsen war, und die neue Wachstumsachse zeigte in die Richtung, in der sein Licht gestanden hatte.
 
-Sie saß auf den Fersen. Das Wasser in der Schale stand ruhig. Die Kerzen brannten mit zwei stillen Flammen.
+Sie saß auf den Fersen. Das Wasser in der Schale stand ruhig. Die Kerzen brannten.
 
-Im Garten vorgestern hatten drei Resonanzen gleichzeitig gewirkt, jede in ihrer Spur; Maren hatte nicht gewirkt. Das hier arbeitete anders. Das war Kopplung; zwei Worte, zwei Wirkungen.
+Die Ranke stand. Nach einer Weile merkte Alphina, dass die Spitze sich noch bewegte, langsam, weiter in die Richtung, in die sein Licht gefallen war. Niemand hielt sie mehr.
 
-Und etwas, das sie nicht aussprach, weil es noch keine Worte hatte, die sie jetzt sagen wollte: Sein Licht konkurrierte nicht mit ihrer Resonanz. Es trug sie. Jeder Mann, dem sie diese Arbeit je gezeigt hatte — Henrik eingeschlossen, der an der Schwelle des Gewächshauses gestanden hatte, respektvoll, interessiert, abseits —, jeder hätte neben ihr gestanden. Sorel stand unter ihrer Arbeit und hielt sie. Dass seine Nähe selbst eine Verstärkung sein könnte, registrierte sie halb — die Flamme stand zu ruhig, ihr Puls zu laut. Sie sprach auch das nicht aus.
+Im Garten vor zwei Tagen hatten sie zu dritt gleichzeitig gewirkt — sie mit den Wurzeln, Sorel mit dem Licht, Vesper mit der Zeit. Jeder in seiner Spur, Marens Wasser hatte gefehlt. Das hier war etwas anderes. Hier arbeitete jedes für das andere.
+
+Und etwas anderes, das sie nicht aussprach: Sein Licht arbeitete nicht gegen ihr Wachstum — es trug es. Jeder Mann, dem sie diese Arbeit je gezeigt hatte — Henrik eingeschlossen, der an der Schwelle des Gewächshauses gestanden hatte, respektvoll, interessiert, abseits —, jeder hätte neben ihr gestanden. Sorel stand unter ihrer Arbeit und hielt sie. Dass seine Nähe selbst mitwirkte, ging ihr halb auf. Die Flamme stand zu ruhig, ihr Atem zu laut. Das sprach sie auch nicht aus.
 
 Er sagte: »Wenn vier das machen…«
 
-Der Satz blieb da, wo er endete.
-
-Sie vollendete ihn nicht. Der Gedanke lag auf dem Tisch, zwischen der Ranke und der Schale, und beide sahen ihn an, ohne ihn anzufassen.
+Der Satz blieb da, wo er endete. Sie vollendete ihn nicht. Der Gedanke lag auf dem Tisch, zwischen der Ranke und der Schale, und beide sahen ihn an, ohne ihn anzufassen.
 
 ---
 
-Die zwei Flammen brannten weiter, als wäre nichts geschehen, und die Luft im Zimmer hielt den Geruch der frisch gewachsenen Blätter zwischen ihnen, grün und schwach metallisch. Sie saßen. Keiner stand auf. Zwei Atemzüge lang geschah nichts, außer dass unten in der Gasse ein Fass über Pflaster gerollt wurde, lang hin, dann schnell weg. Danach das leise Klopfen von Tauwerk gegen einen Pfahl, das von der Grauwe hochkam.
+Die Flammen brannten weiter, und die Luft im Zimmer hielt den Geruch der frisch gewachsenen Blätter, grün und kühl. Sie saßen auf den Fersen, keiner stand auf. Unten in der Gasse rollte jemand ein Fass über Pflaster, lang hin und dann schnell weg; danach das leise Klopfen von Tauwerk gegen einen Pfahl am Hafen.
 
-Alphina registrierte, in dieser Reihenfolge: Fingerspitzen warm, Kniescheiben auf Dielen, Herzschlag leicht zu hoch. Nichts davon kam mehr vom Experiment. Das Experiment war vorbei.
+Alphina merkte, dass ihre Fingerspitzen warm waren, ihre Knie auf der Diele drückten und ihr Herz lauter ging als gewöhnlich. Nichts davon kam mehr von der Pflanze.
 
-Er stand auf, ging um den Tisch herum, langsam, und kniete neben ihr. Der Tisch mit der Ranke war jetzt an ihrer Schulter, seitlich. Er legte die Hand auf die Diele. Zwei Fingerbreit neben ihrer. Nicht auf ihrer. Die Wärme vom Rücken seiner Hand war zu spüren, wie vorhin am Tisch, nur näher.
+Er stand auf und ging um den Tisch herum, langsam, und kniete neben ihr. Der Tisch mit der Ranke stand jetzt seitlich an ihrer Schulter. Er legte die Hand auf die Diele, eine Handbreit neben ihrer. Die Wärme seiner Hand war zu spüren, wie vorhin am Tisch, nur näher.
 
-Er sagte: »Ich will dich.«
-
-Direkt, ohne Subtext, ein einziger Satz.
+»Ich will dich«, sagte er.
 
 Dann: »Darf ich bleiben?«
 
 Er wartete. Die Hände lagen ruhig auf den Oberschenkeln. Er hielt den Blick, aber er drückte nichts hinein.
 
-Sie nahm seine Hand. Ihre ganze, seine ganze, die Wärme mischte sich. Mit der anderen Hand fuhr sie an seinen Kiefer, Fingerspitzen an die Kante, wo der Bart aufhörte und die Haut begann. Sein Atem stockte, einmal, dann wieder. Er hielt den Blick.
+In ihr kippte etwas, leise, bevor sie wusste, dass sie geantwortet hatte.
 
-Sie küsste ihn. Kurz. Ihre Lippen blieben einen Herzschlag an seinen, dann die Stirn an seiner. Gewicht auf seine Schulter; sein Hemd roch nach dem Keller und nach Leinen, das den Tag getragen hatte. Als sie die Zunge gegen den Gaumen drückte, fand sich der Keller-Dunst dort wieder — bitter, trocken, der ganze Nachmittag, den er ins Zimmer gebracht hatte. Seine Hand ging zu ihrer Taille, langsam; die Finger kannten das von vor drei Tagen, aber die Geschwindigkeit war ihre. Sie gab ihm vor, wie langsam. Er ließ zu, wartete.
+Sie nahm seine Hand in ihre. Die Wärme mischte sich. Mit der anderen Hand fuhr sie an seinen Kiefer, die Fingerspitzen an die Kante, dort wo der Kiefer in den Hals überging. Sein Atem stockte kurz, dann ging er wieder. Er hielt den Blick.
 
-Sein Puls unter ihren Fingern am Kiefer, schneller als vorhin. Ihr eigener Puls in der Kehle. In den Handflächen ein Ziehen, kurz, dann weg — dasselbe, das sie kannte, nur leiser. Sie ließ los, soweit sie losließ. Das Wissen, dass sie es tat, löste sich irgendwo zwischen den Atemzügen auf, und sie hörte sich nicht mehr denken.
+Sie küsste ihn. Sein Mund war warm, seine Lippe wartete einen Atemzug unter ihrer, bevor sie sich öffneten. Sie blieb so. Dann legte sie die Stirn an seine. Das Gewicht auf seine Schulter, und sein Hemd roch nach dem Keller und nach Leinen, das den Tag getragen hatte. Als sie die Zunge gegen den Gaumen drückte, saß der Dunst von vorhin immer noch dort, bitter und trocken. Seine Hand ging zu ihrer Taille, langsam; die Finger kannten das von vor drei Tagen, aber die Geschwindigkeit war ihre. Sie gab das Tempo vor. Er ließ zu und wartete.
 
-Eine Weile waren es nur seine Schulter und ihre Stirn. Sein Atem fand ihren, oder ihrer seinen. Ihre Hand auf seinem Kiefer blieb. Seine auf ihrer Taille. Die Dielen unter ihren Knien waren inzwischen kühl, die Sonne war ganz fort. Draußen kroch die Dämmerung die Fassaden entlang nach oben, und das Zimmer wurde eine Stufe dunkler, ohne dass jemand etwas zu tun hatte.
+Seine Haut unter ihren Fingern war warm, seine Kehle bewegte sich einmal, als er schluckte. In den Handflächen war ein Ziehen, kurz, dann wieder weg — dasselbe, das sie kannte, nur leiser. Sie ließ los, so weit sie loslassen konnte. Das Wissen, dass sie es tat, verlor sich irgendwo zwischen den Atemzügen, und sie hörte sich nicht mehr denken.
 
-Unten in der Gasse wurde es still. Im *Anker* klappte eine Tür, jemand lachte halb, dann nicht mehr. Die Kerzen brannten.
+Eine Weile waren es nur seine Schulter und ihre Stirn, seine Hand an ihrer Taille und ihre Hand an seinem Kiefer. Die Dielen unter ihren Knien waren inzwischen kühl geworden, die Sonne war längst fort. Draußen kroch die Dämmerung die Fassaden hoch, und das Zimmer wurde eine Stufe dunkler, ohne dass einer von ihnen etwas dazu getan hätte.
 
-Sie sah ihn an. Er antwortete mit einer Bewegung des Kopfes, nicht mit Worten. Sie stand auf, zog ihn mit. Die Dielen gaben zwei Laute, als sie das Gewicht verlagerten. Sie löschte die Kerzen selbst, erst die eine, dann die andere, mit angefeuchtetem Daumen und Zeigefinger, ohne Rauch. Der Raum wurde groß und dunkel, und das Licht aus der Gasse fiel als schmaler Streifen durch den offenen Fensterspalt und legte sich schräg über die Dielen, über den Bettrand, über das Tischtuch.
+Unten in der Gasse wurde es still. Im *Anker* klappte eine Tür, jemand lachte halb und dann nicht mehr. Die Kerzen brannten.
 
-Auf dem Tisch, neben dem Messinghalter der erloschenen Kerze, lag die Ranke im flachen Wasser der Schale. Eine Handlänge plus Fingerknochen länger als heute morgen. Die neue Achse zeigte in die Richtung, in der sein Kegel gestanden hatte. Die Blätter standen regelmäßig, im halben Fingerabstand, und die Spitze war noch leicht gekippt, dorthin, wo nichts mehr leuchtete.
+Sie sah ihn an. Er nickte, ohne etwas zu sagen. Sie stand auf und zog ihn mit. Ihre Hand schloss sich um sein Handgelenk und hielt fest. Er ließ sich ziehen. Die Dielen gaben zwei Laute, als sie das Gewicht verlagerten. Sie löschte die Kerzen selbst, erst die eine, dann die andere, mit angefeuchtetem Daumen und Zeigefinger, ohne Rauch. Der Raum wurde groß und dunkel, und das Licht aus der Gasse fiel als schmaler Streifen durch den Fensterspalt und legte sich schräg über die Dielen, über den Bettrand, über das Tischtuch.
+
+Auf dem Tisch, neben dem Messinghalter der erloschenen Kerze, lag die Ranke im flachen Wasser der Schale, länger als heute morgen. Die neue Achse zeigte in die Richtung, in der sein Licht gestanden hatte. Die Spitze war noch leicht gekippt, dorthin, wo nichts mehr leuchtete.
 
 Die Veränderung blieb.
