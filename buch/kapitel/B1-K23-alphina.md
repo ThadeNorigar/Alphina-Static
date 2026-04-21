@@ -2,7 +2,7 @@
 
 *22. Blütenmond 551 · 8 Wochen 4 Tage in Vael*
 
-Die Sonne war gerade hinter dem Dach gegenüber untergegangen, und das Zimmer lag schon im grauen Licht vor der Nacht. Die Talgkerze machte einen kleinen warmen Kreis auf dem Tisch. Alphina setzte sich und zog den Streifenfarn auf der Fensterbank zu sich heran. Sie schnitt die gelben Spitzen ab, eine nach der anderen. Das Fenster zur Hafengasse stand einen Handbreit auf; von unten kam das Salz der Grauwe, das Knirschen eines Wagenrades über Pflaster, ein Stück Gelächter, das an der Fassade abprallte und weiter die Gasse hinunter fiel.
+Alphina schnitt die gelben Spitzen vom Streifenfarn, eine nach der anderen, und der kleine Zinnteller neben ihrem Ellbogen war schon voll. Die Talgkerze machte einen warmen Kreis auf dem Tisch. Die Sonne war gerade hinter dem Dach gegenüber untergegangen, und das Zimmer lag schon im grauen Licht vor der Nacht. Das Fenster zur Hafengasse stand einen Handbreit auf; von unten kam das Salz der Grauwe, das Knirschen eines Wagenrades über Pflaster, ein Stück Gelächter, das an der Fassade abprallte und weiter die Gasse hinunter fiel.
 
 Er klopfte einmal und trat ein. Kamera und Stativ stellte er an die Wand neben die Tür. Der Hocker knarrte unter ihm, als er sich setzte. Sie roch die Abendluft, die mit ihm hereingekommen war — Salz, Pflaster, und darunter ihn selbst, warm vom Weg hierher.
 
@@ -12,7 +12,7 @@ Sie sah auf. Er sah sie an. Eine Weile sagten sie nichts. In der Hafengasse bell
 
 »Nein.«
 
-Sie legte die Schere neben die abgeschnittenen Spitzen. Sein Blick war auf ihren Händen und ging nicht weg.
+Ihre Augen brannten. Sie legte die Schere neben die abgeschnittenen Spitzen. Sein Blick war auf ihren Händen und ging nicht weg.
 
 »Ich auch nicht.«
 
@@ -64,7 +64,7 @@ Sie legte beide Hände auf die Oberschenkel. »Zuerst du.«
 
 Er hob Daumen und Zeigefinger an die Kerzenflamme, langsam, als fürchte er, die Flamme zu erschrecken. Das Flammenlicht zog sich zu einem schmalen Streifen zusammen und legte sich auf die Spitze der Ranke. Der Streifen stand dort, wo er ihn hinlegte.
 
-Eine Weile geschah nichts. Alphina hielt die eigenen Hände auf den Oberschenkeln still, obwohl ihr die Fingerkuppen bereits warm wurden, als wüssten sie, dass sie gleich an der Reihe waren.
+Nichts geschah. Alphina hielt die eigenen Hände auf den Oberschenkeln still, obwohl ihr die Fingerkuppen bereits warm wurden, als wüssten sie, dass sie gleich an der Reihe waren.
 
 Dann begann die Spitze, sich zum Licht hinzuneigen. Zelle um Zelle, wie Alphina es aus jeder Beetreihe kannte, nur beschleunigt. Der Schatten auf der abgewandten Seite wurde länger, die beleuchtete Flanke blieb gleich. Pflanzen taten das ohnehin, wenn sie zum Licht wuchsen — unter der Sonne brauchten sie dafür Stunden. Unter seinem Licht ein paar Minuten.
 
@@ -100,7 +100,7 @@ Nach einer Weile merkte Alphina, dass die Spitze der Ranke sich noch bewegte, la
 
 Im Garten vor zwei Tagen hatten sie zu dritt gleichzeitig gewirkt — sie mit den Wurzeln, Sorel mit dem Licht, Vesper mit der Zeit. Jeder in seiner Spur, Marens Wasser hatte gefehlt. Das hier war etwas anderes. Hier arbeitete jedes für das andere.
 
-Und etwas anderes, das sie nicht aussprach: Sein Licht arbeitete nicht gegen ihr Wachstum — es trug es. Jeder Mann, dem sie diese Arbeit je gezeigt hatte — Henrik eingeschlossen, der an der Schwelle des Gewächshauses gestanden hatte, respektvoll, interessiert, abseits —, jeder hätte neben ihr gestanden. Sorel stand unter ihrer Arbeit und hielt sie. Dass seine Nähe selbst mitwirkte, ging ihr halb auf. Die Flamme stand zu ruhig, ihr Atem zu laut. Das sprach sie auch nicht aus.
+Sein Licht arbeitete nicht gegen ihr Wachstum — es trug es. Jeder Mann, dem sie diese Arbeit je gezeigt hatte, Henrik eingeschlossen, hätte neben ihr gestanden. Sorel stand unter ihrer Arbeit. Die Flamme stand zu ruhig, ihr Atem zu laut.
 
 Er sagte: »Wenn vier das machen…«
 
@@ -110,9 +110,9 @@ Der Satz blieb da, wo er endete. Sie vollendete ihn nicht. Der Gedanke lag auf d
 
 Die Flammen brannten weiter, und die Luft im Zimmer hielt den Geruch der frisch gewachsenen Blätter, grün und kühl. Sie saßen auf den Fersen, keiner stand auf. Unten in der Gasse rollte jemand ein Fass über Pflaster, lang hin und dann schnell weg; danach das leise Klopfen von Tauwerk gegen einen Pfahl am Hafen.
 
-Alphina merkte, dass ihre Fingerspitzen warm waren, ihre Knie auf der Diele drückten und ihr Herz lauter ging als gewöhnlich. Nichts davon kam mehr von der Pflanze.
+Alphina merkte, dass ihre Fingerspitzen warm waren, ihre Knie auf der Diele drückten und ihr Herz lauter ging als gewöhnlich.
 
-Er stand auf und ging um den Tisch herum, langsam, als ob er ihr Zeit gäbe, ihn zurückzuweisen. Er kniete neben ihr, und jetzt war sein Körper so nah, dass sie die Wärme durch den Stoff seines Hemdes spürte. Der Tisch mit der Ranke stand seitlich an ihrer Schulter, ein kleiner grüner Zeuge. Er legte die Hand auf die Diele, eine Handbreit neben ihrer. Sein Blick war auf ihrem Mund.
+Er stand auf und ging um den Tisch herum, langsam. Er kniete neben ihr, und jetzt war sein Körper so nah, dass sie die Wärme durch den Stoff seines Hemdes spürte. Der Tisch mit der Ranke stand seitlich an ihrer Schulter, ein kleiner grüner Zeuge. Er legte die Hand auf die Diele, eine Handbreit neben ihrer. Sein Blick war auf ihrem Mund.
 
 »Ich will dich«, sagte er.
 
@@ -120,7 +120,7 @@ Dann: »Darf ich bleiben?«
 
 Er wartete. Die Hände lagen flach auf den Oberschenkeln, die Finger leicht gespannt. Er hielt den Blick. Sein Atem war zu langsam — die Art, in der ein Mann atmet, der gegen seinen Körper arbeitet. Auf seinem Nacken stand eine feine Feuchte.
 
-In ihr kippte etwas, und es war nicht leise. Sie wollte ihn so, dass ihre Kehle sich zuzog. »Bleib«, sagte sie.
+In ihr kippte etwas, und es war nicht leise. Ihre Kehle zog sich zu. »Bleib«, sagte sie.
 
 Sie nahm seine Hand in ihre, und die Wärme mischte sich heiß. Ihre andere Hand fand seinen Kiefer, die Fingerspitzen an die Kante, dort wo der Kiefer in den Hals überging. Sein Atem stockte, einmal, hart. Er hielt den Blick, und sie sah in seinen Augen, was er bisher gehalten hatte.
 
@@ -128,11 +128,11 @@ Sie küsste ihn, und er ließ es nicht kurz. Sein Mund war warm, seine Lippen ö
 
 Sie zog die Stirn an seine, atmete einmal aus. Das Gewicht ging auf seine Schulter. Sein Hemd roch nach dem Keller und nach Leinen, das den Tag getragen hatte.
 
-»Langsam«, sagte sie, und es war kein Befehl. Es war eine Bitte, die er verstand. Er ließ zu und wartete.
+»Langsam«, sagte sie. Er ließ zu und wartete.
 
-Seine Haut unter ihren Fingern war heiß, seine Kehle bewegte sich gegen ihren Daumen, als er schluckte. In den Handflächen war ein Ziehen — etwas schlug Wurzeln zwischen ihren Rippen, fand eine Spalte und ging hinein, tiefer als sie es je gekannt hatte. Ihr Körper wusste, was er wollte, bevor ihr Kopf es erlauben konnte. Sie ließ los, nicht ganz, aber mehr als sonst. Das Wissen, dass sie es tat, verlor sich zwischen den Atemzügen, und sie hörte sich nicht mehr denken.
+Seine Haut unter ihren Fingern war heiß, seine Kehle bewegte sich gegen ihren Daumen, als er schluckte. In den Handflächen war ein Ziehen — etwas schlug Wurzeln zwischen ihren Rippen, fand eine Spalte und ging hinein, tiefer als sie es je gekannt hatte. Ihr Körper wusste, was er wollte, bevor ihr Kopf es erlauben konnte. Sie ließ los, nicht ganz, aber mehr als sonst.
 
-Eine Weile waren es nur seine Schulter und ihre Stirn, seine Hand an ihrer Taille und ihre Hand an seinem Kiefer. Seine Finger bewegten sich einmal, einen halben Zoll, als könnten sie nicht entscheiden, wo sie sein sollten. Die Dielen unter ihren Knien waren inzwischen kühl geworden, die Sonne war längst fort. Draußen kroch die Dämmerung die Fassaden hoch, und das Zimmer wurde eine Stufe dunkler, ohne dass einer von ihnen etwas dazu getan hätte.
+Es waren nur seine Schulter und ihre Stirn, seine Hand an ihrer Taille und ihre Hand an seinem Kiefer. Seine Finger bewegten sich einmal, einen halben Zoll, als könnten sie nicht entscheiden, wo sie sein sollten. Die Dielen unter ihren Knien waren inzwischen kühl geworden, die Sonne war längst fort. Draußen kroch die Dämmerung die Fassaden hoch, und das Zimmer wurde eine Stufe dunkler, ohne dass einer von ihnen etwas dazu getan hätte.
 
 Unten in der Gasse wurde es still. Im *Anker* klappte eine Tür, jemand lachte halb und dann nicht mehr. Die Kerzen brannten.
 
