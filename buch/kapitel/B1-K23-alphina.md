@@ -52,7 +52,7 @@ Aus der Werkzeugdose nahm sie eine flache Zinnschale, mit der sie sonst Stecklin
 
 »Du hältst das Licht«, sagte sie. »Schmal. Auf die Spitze.«
 
-Er nickte, nahm den Stuhl und rückte ihn an den Tisch. Dann kniete er doch auf die Dielen, weil die Schale niedriger stand als die Tischplatte. Sie kniete ihm gegenüber, auf der anderen Seite der Ranke. Die Diele unter ihren Knien war noch warm von der Nachmittagssonne, die durchs Fenster gefallen war.
+Er nickte, nahm den Stuhl und rückte ihn an den Tisch. Dann kniete er doch auf die Dielen, weil die Schale niedriger stand als die Tischplatte. Sie kniete ihm gegenüber, auf der anderen Seite der Ranke. Die Diele unter ihren Knien war noch warm, wo die Sonne vorhin durchs Fenster gefallen war.
 
 Sie legte beide Hände auf die Oberschenkel. »Zuerst du.«
 
