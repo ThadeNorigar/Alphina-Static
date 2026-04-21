@@ -4,66 +4,58 @@ pov: Alphina
 figuren: Alphina, Sorel
 register: commercial Romantasy
 heat_level: leise
-primaer_referenz: Yarros (Fourth Wing) — verbale Tension ohne Berührung
-ergaenzende_referenz: Maas (ACOTAR) — Sub-Text durch Körperbeats
-zweck: Ton-Referenz für Dialog-Szenen Alphina/Sorel ohne Heat-Eskalation, mit Reibung und Sub-Text. Slow-Burn-Tempo, Körperbeats tragen die Spannung, keine Benennung von Gefühl. Das Sie-Register macht den Banter härter und kontrollierter als im Du.
-canon_status: Ton-Etüde, nicht Plot-Canon. Spielt im frühen Sommer nach Alphinas Ankunft, vor K17. Sie-Register (Alphina/Sorel siezen sich bis inkl. K21).
+primaer_referenz: Yarros (Fourth Wing) — Banter als Kontrollbruch, Körperbeats
+ergaenzende_referenz: Maas (ACOTAR) — Sub-Text durch Körper, Robert (Neon Gods) — Antagonist-Weigerung
+zweck: Ton-Referenz für Alphina/Sorel-Slow-Burn im Sie-Register. Canon-Kern: Sorel ist der Einzige, bei dem Alphinas Kontrolle NICHT greift — der Dialog muss das zeigen. Sie kommandiert, er sagt nein, sie muss nachgeben oder sich zurücknehmen. Welt greift ein (Kutsche), Körper bricht vor dem Kopf (Knie, Nacken, Handgelenk).
+canon_status: Ton-Etüde, nicht Plot-Canon. Spielt im frühen Sommer nach Alphinas Ankunft, vor K17. Sie-Register (pre-K21). Zweite Version nach Council-Findings — Sorel-Charakter-Verstoß in v1 korrigiert, 95%-Commercial-Gate eingebaut.
 ---
 
-Der Hanfseil-Händler hatte nur noch die groben Längen, und Alphina war gerade dabei, ihm zu erklären, dass sie die feineren brauchte — für Farnschnüre, nicht für Fässer —, als ihr Blick über seine Schulter fiel und an der Tür hängen blieb.
+Alphina hatte ihn drei Tage lang gemieden und war sich dabei wie eine Idiotin vorgekommen, und jetzt stand er mitten in der Hafengasse, als hätte er gewusst, welchen Weg sie heute nehmen würde.
 
-Sorel stand im Rahmen. Kamera über der Schulter, Stativ in der Linken. Er hatte sie zuerst gesehen; das erkannte sie daran, dass er nicht überrascht aussah.
+Sie blieb stehen, zu spät. Er hatte sie schon gesehen; das erkannte sie daran, wie ruhig er stand. Kamera über der Schulter, Stativ in der Linken. Drei Schritte zwischen ihnen. Sie konnte zurück. Sie konnte vorbei. Sie tat keins von beidem.
 
-»Den dünneren«, sagte sie zum Händler. »Nicht mehr als zwei Linien.«
+Er nickte einmal. Sie nickte zurück — zu kurz. Ihr Nacken war fester als ihre Knie. Das ärgerte sie, und der Ärger machte die Knie nicht besser. Sie setzte den Korb auf der Seite ab, auf der sie ihn nicht getragen hatte — nur damit sie etwas mit den Händen tat.
 
-»Hab ich morgen.«
+Eine Kutsche kam durch die Gasse, zu schnell. Sorel trat zur Seite, an die Mauer. Er fing sie nicht auf. Er zog sie nicht mit. Er machte Platz, und sie trat von sich aus nach, und jetzt standen sie beide an der Mauer, nebeneinander, weniger als eine Armlänge Abstand. Er sah geradeaus. Sie sah geradeaus.
 
-»Dann morgen.« Sie zählte ihm die Münzen für die Anzahlung hin, legte die Hand auf den Tresen, ließ sie dort liegen. Eine Weile blieb Sorel, wo er war. Dann trat er zur Seite und wartete, bis sie herauskam.
+Die Kutsche ging vorbei. Er ging nicht weg.
 
-»Sie folgen mir«, sagte sie, als sie auf die Gasse trat.
+Von der Werft her roch es nach Pech. Ein Hammer schlug einmal, dann nichts mehr.
 
-»Ich komme vom Hafen.«
+»Ich habe eine Pflanze«, sagte sie — zu schnell —, »die ich gezeichnet haben möchte. Streifenfarn. Morgen Nachmittag.«
 
-»Das ist dieselbe Richtung wie der Händler.«
+»Nein.«
 
-»Ja.«
+Sie wandte den Kopf. Er sah immer noch geradeaus. Er hatte nicht *Nein, danke* gesagt. Kein *Leider nicht*. Nein.
 
-Sie sah ihn an. Er hielt den Blick. Die Grauwe roch heute nach warmem Teer, und irgendwo schrie eine Möwe. Er hatte die Kamera noch nicht abgestellt, was bedeutete, dass er gleich weiter musste oder dass er sie mit ihr nicht lange dabeihaben wollte.
+»Ich zahle.«
 
-»Sie haben mich drei Tage nicht besucht«, sagte sie.
+»Ich zeichne nicht.«
 
-»Sie mich zwei.«
-
-»Weil Sie nicht zuhause waren, als ich da war.«
-
-»Das war am Dienstag.«
-
-Sie hob den Kopf einen halben Zoll. »Sie haben gezählt.«
-
-Er sah auf das Pflaster, dann auf ihre Hand am Riemen ihres Korbes. Nicht auf ihr Gesicht. »Nein.«
-
-»Doch.«
-
-Er setzte das Stativ ab. Die Spitze kratzte einmal über den Stein. »Ich habe eine Platte belichtet am Dienstag«, sagte er. »Unten an den Pfählen. Vier Sekunden, Ebbe. Wenn ich hochgekommen wäre, hätte ich die Chemie verloren.«
-
-»Also drei Tage nicht besuchen, weil Sie am Dienstag eine Platte belichtet haben.«
+»Sie fotografieren.«
 
 »Ja.«
 
-Die Möwe schrie wieder. Alphina verlagerte das Gewicht auf das andere Bein und merkte, dass sie das tat, weil ihre Knie ihr zu weich vorkamen, und das machte sie so wütend, dass sie es fast gesagt hätte.
+»Das ist fast dasselbe.«
 
-»Ich brauche eine Pflanze gezeichnet«, sagte sie stattdessen. »Streifenfarn. Morgen Nachmittag. Nehmen Sie die Kamera mit.«
+»Nein.«
 
-»Ich mache keine Botanik-Zeichnungen.«
+Sie atmete durch die Nase aus. Unter den Rippen zog sich etwas zusammen, was sie nicht zugelassen hatte. Sie hätte jetzt gehen können. Sie ging nicht. Er auch nicht.
 
-»Heute schon.«
+»Wenn ich Sie um die Kamera bäte«, sagte sie, leiser als sie wollte, »würden Sie kommen?«
 
-Er hob den Kopf. Etwas im Mundwinkel, kein Lächeln. »Morgen Nachmittag«, sagte er. »Drei Uhr.«
+»Vielleicht.«
 
-»Vier.«
+»Wann vielleicht.«
 
-»Drei.«
+»Wenn ich frei habe. Nicht nach Ansage.«
 
-»Vier«, sagte sie, »und Sie bringen Tee mit.«
+Er sah sie jetzt an. Graue Augen, nichts darin. Er war kein Mann, der etwas zeigte. Das war vielleicht das Problem. Das war vielleicht nicht das Problem.
 
-Er nahm das Stativ wieder auf und ging, ohne zu antworten. An der Ecke, wo die Gasse zum Hafen abbog, drehte er sich einmal um und sah sie an, und sie wusste, er würde um drei kommen.
+»Gut«, sagte sie.
+
+»Gut?«
+
+»Gut.«
+
+Sie nahm den Korb auf. Ihr Handgelenk protestierte, weil sie die Hand zu lange angespannt gehalten hatte. Sie ging die Gasse weiter, in die Richtung, in der sie eigentlich nicht hatte gehen wollen, und sie ging zu schnell, und sie wusste, dass er ihr nicht nachsah, weil das nicht seine Art war, und sie musste sich zwingen, nicht zurückzusehen, um zu prüfen, ob sie recht hatte.
