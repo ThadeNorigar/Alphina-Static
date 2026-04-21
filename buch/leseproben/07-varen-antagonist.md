@@ -64,7 +64,7 @@ Sie presste den Wunsch wieder. Nichts. Ihre Hand war kalt auf dem Stein.
 
 Sie drehte den Kopf.
 
-Seine Augen waren purpurn im Nachmittagslicht. Er sah nicht zufrieden aus; er sah geduldig aus, was schlimmer war. Sein Gesicht war dichter an ihrem, als sie erwartet hatte — er hatte sich vorgebeugt, ohne dass sie es gehört hatte.
+Seine Augen waren purpurn im Nachmittagslicht. Er sah nicht zufrieden aus; er sah geduldig aus, und das war schlimmer. Sein Gesicht war dichter an ihrem, als sie erwartet hatte — er hatte sich vorgebeugt, ohne dass sie es gehört hatte.
 
 »Treten Sie zurück.«
 

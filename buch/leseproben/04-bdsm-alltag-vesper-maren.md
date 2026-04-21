@@ -5,49 +5,55 @@ figuren: Maren, Vesper
 register: commercial BDSM — Power-Exchange ohne Szene
 heat_level: leise (Power-Exchange)
 primaer_referenz: Reisz (Original Sinners) — Power-Dynamik im Alltag, Submission als Entscheidung
-ergaenzende_referenz: Réage (Histoire d'O) — Dom-Stimme als Funktion, minimale Dosis
-zweck: Ton-Referenz für Maren/Vesper-Alltag mit aktivem Power-Exchange. Kein Set-Piece, keine Szene. Dom-Befehl bekommt Raum im Alltag, Sub folgt aus Wollen, Material (Strumpf, Haken, Bettholz) trägt die Dynamik.
-canon_status: Ton-Etüde. Morgen im Karst-Zimmer, nach der zweiten gemeinsamen Nacht. Nicht Plot-Canon.
+ergaenzende_referenz: Réage (Histoire d'O) — Dom-Stimme als Funktion, Kleidungs-Material als Spannungs-Rahmen
+zweck: Ton-Referenz für Maren/Vesper-Alltag mit aktivem Power-Exchange. Kein Set-Piece, keine Szene. Dom-Befehl bekommt Raum im Alltag, Sub folgt aus Wollen, Material (Mieder, Fischbeinleisten, Ösen, Schnürbänder) trägt die Dynamik. Physisch-räumlich vollständig konsistent nachgezogen — jede Kleidungs-Schicht benannt, jede Position eindeutig.
+canon_status: Ton-Etüde. Morgen im Karst-Zimmer. Nicht Plot-Canon. Dritte Version nach Autor-Feedback — Mieder-Position eindeutig (am Körper, nicht "über Schulter"), Befehl klar ("Komm her. Rücken zu mir. Knie."), Meta-Gloss raus.
 ---
 
-»Die Knie zuerst«, sagte Vesper, ohne aufzusehen, und Maren spürte den Befehl, bevor sie ihn verstand.
+Maren stand halb angezogen vor dem Spiegel. Das Hemd lang bis zu den Waden, der Unterrock darüber, das Mieder obenauf — vorn hatte sie die Haken selbst eingehängt, hinten hingen die Schnürbänder lose an ihrer Taille herunter. Sie hätte sich allein zuziehen können, schlecht, mit verbogenem Arm. Sie tat es nicht. Sie wartete.
 
-Sie stand in der Mitte des Zimmers, halb angezogen, einen Strumpf in der Hand. Der Spiegel war zwei Schritte vor ihr; sie hatte sich ansehen wollen, wie immer morgens. Sie tat es nicht. Sie ging zum Bett, wo er die Knöpfe seines Hemds schloss, und kniete vor ihm.
+Vesper saß auf der Bettkante, sein eigenes Hemd schon zugeknöpft, und sah sie im Spiegel an.
 
-Das Holz war kalt durch den Rock. Sie spürte den Bettpfosten im Rücken, nicht nah genug zum Anlehnen, aber spürbar. Sie hielt den Strumpf in beiden Händen.
+»Komm her. Rücken zu mir. Knie.«
 
-Er sah auf seine eigenen Finger, nicht auf sie. »Gib her.«
+Sie ging zu ihm. Kniete zwischen seinen Knien, den Rücken zu ihm gedreht, die Fersen unter sich. Sie hörte ihn den Atem einmal einziehen — prüfend, nicht heftig — und dann spürte sie seine Hände an den Schnürbändern.
 
-Sie reichte den Strumpf hoch. Er nahm ihn, rollte ihn auf, beugte sich vor und zog ihn ihr über den Fuß, langsam, den Ballen zuerst, dann die Ferse, dann die Wade. Seine Finger lagen flach unter ihrem Kniegelenk, als er den Saum gerade zog. Die Hand war kühl.
+Der erste Zug war leicht. Nur die unterste Schnürung, dort, wo die Fischbeinleisten die Taille hielten. Er zog parallel, beide Bänder gleichzeitig, und Maren merkte, dass er das konnte — dass er es geübt hatte, dass er nicht improvisierte. Ihre Rippen gaben eine Linie nach innen, ohne Schmerz, nur Form.
 
-»Den zweiten.«
+»Atme aus.«
 
-»Ich — «
+Sie atmete aus. Er zog die nächsten Ösen. Zug für Zug, von unten nach oben, ohne zu reden, ohne zu fragen. Unter dem Stoff fand ihr Körper die Enge — dieselbe Enge, gegen die er jeden Morgen protestierte, wenn sie sie allein zurrte. Heute protestierte er nicht. Vespers Hände gaben den Takt vor, und was seine Hände vorgaben, stimmte.
 
-»Den zweiten, Maren.«
+Bei der dritten Öse hielt er an.
 
-Sie reichte ihm den zweiten. Er machte dasselbe. Sein Kopf war auf ihrer Höhe, als er sich beugte; er sah sie einmal an, kurz, und sie hielt den Blick, und er sah wieder nach unten. Sie merkte, dass sie den Atem flach hielt. Das ärgerte sie. Das ärgerte sie nicht.
+»Zu fest?«
 
-»Gut«, sagte er.
+»Nein.«
 
-Das Wort saß anders als die Befehle. Sie spürte es am Nacken, wie eine Hand, die nicht dort war.
-
-Er stand auf, reichte ihr die Hand. Sie nahm sie. Er zog sie hoch, dann aufs Bett, setzte sie neben sich. »Jetzt die Haare.«
-
-»Die mache ich nachher.«
-
-»Jetzt.«
-
-Sie stand auf, ging zum Spiegel. Im Spiegel sah sie ihn am Bett sitzen, die Arme auf den Oberschenkeln, die Augen halb auf ihr, halb auf dem Fenster. Er las die Straße, während er sie führte. Er konnte das.
-
-Sie steckte die Haare hoch. Ihre Finger zitterten beim dritten Haken. Sie zwang sie ruhig und schob den Haken durch, und als sie fertig war, sah sie im Spiegel, dass ihr Hals anders stand. Etwas im Brustbein, eine Art Lockerung, die sie im Haar nicht haben konnte.
-
-»Zeig her«, sagte er.
-
-Sie drehte sich um. Er sah sie an, ohne aufzustehen. Nickte einmal.
-
-»Frühstück«, sagte er, »dann die Werft. Ich komme um drei.«
+»Sag es, wenn.«
 
 »Ja.«
 
-Sie nahm die Weste vom Stuhl, darunter das Hemd, das er ihr gestern gebügelt an den Bettpfosten gehängt hatte. Ihre Finger funktionierten. Der Strumpf saß, als hätte sie ihn selbst angezogen, und der Knoten unter den Rippen — der Knoten, den sie seit gestern Abend nicht gelöst bekommen hatte — war weg.
+Er zog weiter. Bei der vorletzten Öse spürte sie, dass er kurz überlegte — wie fest, ob noch. Er entschied. Zog. Band den Knoten in einer Art, die sie mit einer Hand später nicht würde öffnen können; das war nicht das Ziel. Das Ziel war, dass sie den Tag über daran dachte.
+
+»Steh auf.«
+
+Sie stand auf. Langsam — das Mieder erlaubte kein schnelles Aufrichten. Der Oberkörper saß jetzt anders über den Hüften, die Schultern weiter hinten, der Atem flacher und höher. Sie drehte sich zu ihm.
+
+»Zeig her.«
+
+Sie zeigte. Er musterte sie — nicht bewertend, kontrollierend. Hob den Finger einmal zum oberen Band, prüfte, ob es saß. Nickte.
+
+»Gut.«
+
+Das Wort saß anders als die Befehle. Sie spürte es am Nacken, wie eine Hand, die nicht dort war.
+
+»Rock und Weste drüber. Dann Frühstück. Ich komme um drei zurück.«
+
+»Ja.«
+
+Sie ging zum Stuhl, wo ihre Kleider hingen. Den Rock zog sie über den Unterrock, die Haken an der Seite machte sie selbst. Dann die Weste. Ihre Finger funktionierten. Das Mieder zwang den Atem oben, und das war nicht unangenehm — es war ein Körper, an dem gearbeitet worden war, und der jetzt den Tag hielt.
+
+Der Knoten, den sie seit gestern Abend unter den Rippen gehabt hatte — der saß jetzt in ihrem Mieder, hinten, wo sie ihn nicht erreichen konnte.
+
+Das war genau richtig.
