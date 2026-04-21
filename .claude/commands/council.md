@@ -15,6 +15,7 @@ Argument: Pfad zur Datei (z.B. `buch/kapitel/02-szene1.md`)
 ## Ablauf
 
 3 Agenten sequenziell (jeder sieht vorherige Kritik). Jeder Agent:
+- Liest **zuerst `buch/00-positioning.md`** — alle Verdikte messen gegen dieses Positioning (commercial Dark Romantasy/BDSM für Leserinnen 20-45; Yarros/Maas/Robert/Simone als Primär-Ton; literary-Zurückhaltung = Finding)
 - Liest die zu reviewende Datei
 - Liest `buch/02-stilregeln-v2.md`
 - Liest das vorherige fertige Kapitel für Konsistenz

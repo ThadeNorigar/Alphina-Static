@@ -90,13 +90,14 @@ Das Script liefert auf stdout (~2k Tokens): Kapitel-Info, Nachbar-Kapitel, aktue
 
 **Schritt 2: Zusaetzlich mit Read laden (parallel):**
 
-1. `buch/kapitel/{ID}-entwurf.md` — der freigegebene Entwurf (Quelle der Wahrheit fuer Plot)
-2. `buch/kapitel/{ID}-handoff.md` — die Anweisungen aus Phase 1
-3. `buch/pov/{figur}.md` — POV-Dossier
-4. `buch/01-autorin-stimme.md` — Autorin-Stimme (Register, Begehren-Vokabular, Kontrollverlust-Momente, Erotik-Regeln)
-5. `buch/01-referenz-konkretheit.md` — Konkretheits-Kanon (Material-Erstnennung, Koerperbeat, Vorfeld-Inversion, Sinnes-Trias)
-6. `buch/02-stilregeln-v2.md` — Stilregeln inkl. Konkretheits-Regeln (Ding vor Bild)
-7. **EIN** Ton-Referenzkapitel: das letzte fertige Kapitel **derselben POV-Figur**.
+1. **`buch/00-positioning.md` ZUERST** (~800 W — Marktposition, Zielgruppe, Stilvektoren, Heat-Level-Regeln). Bei jeder Ton-/Heat-/Register-Entscheidung gilt Positioning. Konflikt mit anderen Docs → Positioning gewinnt.
+2. `buch/kapitel/{ID}-entwurf.md` — der freigegebene Entwurf (Quelle der Wahrheit fuer Plot)
+3. `buch/kapitel/{ID}-handoff.md` — die Anweisungen aus Phase 1
+4. `buch/pov/{figur}.md` — POV-Dossier
+5. `buch/01-autorin-stimme.md` — Autorin-Stimme (Register, Begehren-Vokabular, Kontrollverlust-Momente, Erotik-Regeln)
+6. `buch/01-referenz-konkretheit.md` — Konkretheits-Kanon (Material-Erstnennung, Koerperbeat, Vorfeld-Inversion, Sinnes-Trias)
+7. `buch/02-stilregeln-v2.md` — Stilregeln inkl. Konkretheits-Regeln (Ding vor Bild)
+8. **EIN** Ton-Referenzkapitel: das letzte fertige Kapitel **derselben POV-Figur**.
    - POV aus dem Kontext-Output ablesen. Vorheriges Kapitel mit gleichem POV und Status `final` ermitteln.
    - Beispiel fuer Vesper-K12: `buch/kapitel/07-vesper.md` oder neueres Vesper-Kapitel.
 
@@ -108,7 +109,7 @@ Das Script liefert auf stdout (~2k Tokens): Kapitel-Info, Nachbar-Kapitel, aktue
 - Aktplaene komplett (Snippet steckt im Kontext-Output)
 - Andere POV-Kapitel, andere POV-Dossiers
 
-**Ziel-Kontext: ~14-17k W.** Kontext-Extraktor (~2k) + Entwurf (~2-3k) + Handoff (~1k) + POV-Dossier (~500) + Autorin-Stimme (~1.2k) + Konkretheits-Referenz (~1.5k) + Stilregeln (~4.5k) + Ton-Referenz (~4-6k).
+**Ziel-Kontext: ~15-18k W.** Kontext-Extraktor (~2k) + Positioning (~800) + Entwurf (~2-3k) + Handoff (~1k) + POV-Dossier (~500) + Autorin-Stimme (~1.2k) + Konkretheits-Referenz (~1.5k) + Stilregeln (~4.5k) + Ton-Referenz (~4-6k).
 
 **WICHTIG:** Nach diesem Lade-Vorgang KEINE weiteren Files lesen. Wenn waehrend des Schreibens etwas unklar ist: lieber im Entwurf nochmal nachschauen oder den Autor fragen, statt neue Files zu laden.
 

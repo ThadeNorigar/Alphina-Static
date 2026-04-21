@@ -61,8 +61,9 @@ Das Script liefert auf stdout (~3k Tokens): Kapitel-Info, Nachbar-Kapitel, Zeitl
 
 **Schritt 2: Zusaetzlich mit Read laden (parallel):**
 
-1. `buch/00-canon-kompakt.md` (~800 W — Welt/Figuren/Magie auf einen Blick)
-2. `buch/pov/{figur}.md` — POV-Dossier der Ziel-Figur (POV aus dem Kontext-Output ablesen)
+1. **`buch/00-positioning.md` ZUERST** (~800 W — Marktposition, Zielgruppe, Stilvektoren). Jede Plot-Entscheidung muss an diesem Positioning gemessen werden. Bei Konflikt mit anderen Docs gilt Positioning.
+2. `buch/00-canon-kompakt.md` (~800 W — Welt/Figuren/Magie auf einen Blick)
+3. `buch/pov/{figur}.md` — POV-Dossier der Ziel-Figur (POV aus dem Kontext-Output ablesen)
 
 **NICHT laden:**
 - `buch/zeitleiste.json` — NICHT MEHR DIREKT LADEN. Der Kontext-Extraktor liefert die relevanten Events (~3k statt ~36k Tokens)
@@ -74,7 +75,7 @@ Das Script liefert auf stdout (~3k Tokens): Kapitel-Info, Nachbar-Kapitel, Zeitl
 - Aktplaene komplett (Snippet steckt im Kontext-Output)
 - `buch/kapitel-summaries.md` (Nachbar-Kapitel stecken im Kontext-Output)
 
-**Ziel-Kontext: ~4-5k W.** Kontext-Extraktor (~3k) + Canon-Kompakt (~800) + POV-Dossier (~500).
+**Ziel-Kontext: ~5-6k W.** Kontext-Extraktor (~3k) + Positioning (~800) + Canon-Kompakt (~800) + POV-Dossier (~500).
 
 ## Phase 2: Entwurf schreiben
 

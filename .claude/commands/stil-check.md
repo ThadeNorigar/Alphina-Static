@@ -11,10 +11,11 @@ Wenn kein Argument: frage welche Datei.
 ## Phase 0: Kontext laden
 
 Lies parallel:
-1. Die Kapitel-Datei
-2. `buch/02-stilregeln-v2.md` — Stilregeln
-3. `buch/kapitel/01-alphina.md` — Referenzton (Kapitel 1 ist der Maßstab)
-4. Das VORHERIGE Kapitel (für Stil-Konsistenz)
+1. **`buch/00-positioning.md` ZUERST** — Marktposition, Zielgruppe, Stilvektoren. Ton-Findings werden gegen dieses Positioning gemessen: commercial Dark Fantasy/Romantasy/BDSM für Leserinnen 20-45 (Yarros/Maas/Robert/Simone/Réage), literary-Disziplin nur als Handwerks-Untergrund. Bei Konflikt zwischen Stilregeln und Positioning gilt Positioning.
+2. Die Kapitel-Datei
+3. `buch/02-stilregeln-v2.md` — Stilregeln
+4. `buch/kapitel/01-alphina.md` — Referenzton (Kapitel 1 ist der Maßstab)
+5. Das VORHERIGE Kapitel (für Stil-Konsistenz)
 
 Bestimme:
 - **POV-Figur** und **Perspektive** (ALLE POVs = 3. Person nah/Präteritum)

@@ -54,8 +54,9 @@ Parameter `B1-K12` parsen, in `status.json` nachschlagen, `datei`-Feld lesen.
 
 **NUR diese Files, parallel mit Read:**
 
-1. `buch/kapitel/{datei aus status.json}` — das zu fixende Kapitel
-2. `buch/02-stilregeln-v2.md` — fuer Referenz, FALLS der Autor eine Regel anspricht (sonst nicht aktiv nutzen)
+1. **`buch/00-positioning.md` ZUERST** (~800 W) — bei jeder Ton-/Stil-Rueckfrage des Autors gilt Positioning. Verhindert, dass chirurgische Fixes den Ton Richtung literary-Zurueckhaltung drueckten.
+2. `buch/kapitel/{datei aus status.json}` — das zu fixende Kapitel
+3. `buch/02-stilregeln-v2.md` — fuer Referenz, FALLS der Autor eine Regel anspricht (sonst nicht aktiv nutzen)
 
 **NICHTS ANDERES.** Kein Canon-Kompakt, keine POV-Dossiers, keine Summaries, keine Zeitleiste, kein vorheriges Kapitel, keine Aktplaene.
 
