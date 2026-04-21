@@ -215,10 +215,22 @@ Die Stimme von „Der Riss" ist zweischichtig: **commercial Dark Romantasy als T
 - **Pauline Réage (Histoire d'O, 1954) — PRIMÄR:** Material-Präzision (jedes Utensil mit Dicke/Mechanismus/Funktion), direkte Anatomie, Dom-Stimme als erklärte Funktion, Ein-Ding-Symbol, Körper vor Kopf, Paradox-Kern (Liebe + Erniedrigung), Kleidungs-Material als Spannungs-Rahmen. **Aktivieren sich nur in expliziten BDSM-Szenen**, nicht in Alltagsszenen.
 - **Tiffany Reisz (Original Sinners):** Dom-Figuren mit innerem Leben, Submission als Entscheidung.
 
+### Dunkle Register (B1-Reserve, B2/B3 primär)
+
+Für Krieg, Völkermord, Gefangenschaft, tote Zonen, Körper-Mutilation, Fehlurteil-Schuld, historischen Verlust, Biotech-Dystopie. **Nur Härte — nie Nähe, nie Heat, nie BDSM.** Strikte Szenen-Trennung.
+
+- **R. F. Kuang (*The Poppy War*) — PRIMÄR für Krieg/Völkermord/Blutmagie:** Täter-POV ohne Anästhesie, körperlich konkrete Gewalt, kalte Präzision in Völkermord-Szenen, Blutmagie-Register für Talvens Bogen. **Nicht *Babel*** — *Babel* bleibt literary-Disziplin.
+- **SenLinYu (*Alchemised*) — PRIMÄR für Captivity/Post-Krieg/Mutilation:** Post-Krieg-Ruinen, Gefangenschafts-Psychologie, Körper-Mutilation als Dauer-Zustand, Trauma-Dissoziation (Körper als Fremdes). Rehabilitiert aus der Streichung — gilt **nur für diese Register**, nicht für Nähe-Szenen.
+- **Pierce Brown (*Red Rising*) — PRIMÄR für Biotech-Dystopie:** Exoskelette, Bodymods, Drohnen, Killermaschinen. Commercial-brutal, körperlich, ohne Gibson-Lyrik-Drift. Nur für Expedition-2-Register (B3 Akt III/IV).
+- **Leigh Bardugo (*Shadow and Bone* — The Fold):** tote Zonen / post-apokalyptische Stätten (Mar-Keth/Dulrath-Ost/Reshkol).
+- **Sarah J. Maas (ACOTAR-Finale):** Weltuntergangs-Schlacht-Tempo, last-stand-Emotion (B3 Dravek-Finale).
+- **Toni Morrison (*Beloved*):** Fehlurteil-Schuld, Trauer-ohne-Vergebung, narbige Ruhe (B3 Talven-Tod, Epilog Halvek-Mar).
+- **Réage** als Ergänzung für körper-klinische Präzision bei Mutilation/Amputation — nie vulgär.
+
 ### Gestrichen (zu viel Drift in Abstraktion)
 
-- **SenLinYu (Alchemised):** als Ton-Modell für Nähe-Szenen gestrichen. Bleibt als **Handwerks-Referenz für Satzbau, Material-Erstnennung, Vorfeld-Inversion** (`01-referenz-konkretheit.md`) — nicht als Stimmungs-Vorbild.
-- **William Gibson, Holly Black, Victoria Schwab:** Lyrik-/Farb-/Verb-Register sind gestrichen.
+- **SenLinYu (Alchemised) als Nähe-/Heat-Ton** — zu literary-zurückhaltend. **Teilweise rehabilitiert für dunkle Register** (siehe oben). Bleibt als Handwerks-Referenz für Satzbau, Material-Erstnennung, Vorfeld-Inversion (`01-referenz-konkretheit.md`).
+- **William Gibson, Holly Black, Victoria Schwab:** Lyrik-/Farb-/Verb-Register sind gestrichen. Biotech-Dystopie-Register kommt aus Pierce Brown, nicht aus Gibson.
 
 ### Anwendung pro Szene
 
@@ -231,6 +243,17 @@ Die Stimme von „Der Riss" ist zweischichtig: **commercial Dark Romantasy als T
 | Nähe/Sub Maren/Vesper | Réage + Reisz | Submission als innerer Prozess |
 | BDSM-Szene Maren/Vesper explizit | **Réage primär** | Kleidungs-Rahmen, Material-Präzision, Dom-Funktion erklärt |
 | Dark-Fantasy-Gefahr | Black (Spannung, keine Explizitheit) + Maas (atmosphärisch) | Bardugo-Tempo |
+| Krieg / Schlachtfeld (B2 Akt IV, B3 Finale) | **Kuang (*Poppy War*)** | Yarros-Kampf-Körperbeats, Bardugo-Tempo |
+| Völkermord-Täter-POV (B2 Quellen, B3 Talven-Mord) | **Kuang** | SenLinYu für Körper |
+| Post-Krieg-Ruinen / tote Zonen (B2 Mar-Keth) | **SenLinYu + Bardugo (Fold)** | — |
+| Gefangenschaft / Captivity (B2 Endakt, B3 Torkal) | **SenLinYu + Kennedy (*Plated Prisoner*)** | Réage (Erniedrigungs-Präzision) |
+| Biotech-Dystopie / Expedition 2 (B3 Akt III/IV) | **Pierce Brown (*Red Rising*)** | Kuang (*Babel* Tech-Präzision) |
+| Weltuntergangs-Schlacht (B3 Finale Dravek) | **Maas (ACOTAR-Finale) + Kuang** | Yarros-Emotion, Bardugo-Tempo |
+| Körper-Mutilation / Amputation (B1 Dornen, B3 Duell) | **SenLinYu + Réage** | Kuang |
+| Fehlurteil-Schuld (B3 Talven-Tod) | **Kuang (Rin/Altan) + Morrison** | — |
+| Blutmagie / Selbstverletzung (B3 Talven) | **Kuang** | SenLinYu |
+| Historical grief (B3 Marens Tod) | **Kuang (*Babel*-Schluss) + Maas (Tamlin-Verlust)** | — |
+| Narbige Ruhe / Epilog (B3 Halvek-Mar) | **Yarros-Epilog-Ton + Morrison** | — |
 
 ### BDSM-/Nähe-Zusatz-Register (nur intime Szenen)
 

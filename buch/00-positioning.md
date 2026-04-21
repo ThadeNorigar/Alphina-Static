@@ -30,7 +30,7 @@ Charakteristisch:
 
 ---
 
-## 3. Drei Stilvektoren
+## 3. Vier Stilvektoren
 
 ### 3.1 Dark Fantasy
 - Vier-Resonanzen-System, Portal/Schemen, Varen als Antagonist, Moragh als zweite Welt
@@ -52,6 +52,36 @@ Charakteristisch:
 - **Tiffany Reisz (Original Sinners)** für Dom-Figuren mit Innenleben, Submission als bewusste Entscheidung
 - Explizit auf der Seite, Power-Exchange klar, Submission als innerer Prozess
 - **Nicht vulgär**: klinisch-präzise statt Pornografie-Register
+
+### 3.4 Dunkle Register (B1-Reserve, B2/B3 primär)
+
+B2 spielt im Krieg (Bund/Thar/Velmar, Quellen-Überladung als Waffe). B3 eskaliert zur Weltuntergangs-Schlacht (Biotech-Expedition aus Thalassien, Killermaschinen, tausende Tote). Diese Register gehören aktiviert für **Krieg, Völkermord, Gefangenschaft, tote Zonen, Körper-Mutilation, Fehlurteil-Schuld, historischen Verlust und Dystopie-Technik** — niemals für Nähe- oder Heat-Szenen.
+
+- **R. F. Kuang (*The Poppy War*)** als Primärmodell für Kriegs-, Völkermord- und Blutmagie-Ton: kalt, körperlich, Täter-POV ohne Anästhesie. Nicht *Babel* — das bleibt literary-Disziplin.
+- **SenLinYu (*Alchemised*)** rehabilitiert für Post-Krieg-Ruinen, Gefangenschaft, Körper-Mutilation, Trauma-Dissoziation. **Nur für Härte**, nicht für Nähe-Szenen.
+- **Pierce Brown (*Red Rising*)** für Biotech-Dystopie / Shadowrun-Register: Exoskelette, Bodymods, Drohnen, Killermaschinen. Brutal, commercial, körperlich. Nur für Expedition-2-Register (B3 Akt III/IV).
+- **Leigh Bardugo (*Shadow and Bone* — The Fold)** für tote Zonen / post-apokalyptische Stätten in Moragh (Mar-Keth, Dulrath-Ost, Reshkol).
+- **Sarah J. Maas (ACOTAR-Finale)** für Weltuntergangs-Schlacht-Tempo.
+- **Réage** bleibt sekundäre Ergänzung für körper-klinische Präzision in Mutilation/Amputation (nie vulgär, nie pornografisch).
+- **Toni Morrison (*Beloved*)** für Fehlurteil-Schuld, Trauer-ohne-Vergebung, narbige Ruhe im Epilog.
+
+**Einsatz-Tabelle (vollständig in `01-autorin-stimme.md` Abschnitt 9):**
+
+| Register | Wann | Primär | Ergänzend |
+|----------|------|--------|-----------|
+| Krieg / Schlachtfeld | B2 Akt IV, B3 Finale | Kuang (*Poppy War*) | Yarros-Kampf, Bardugo-Tempo |
+| Völkermord-Täter-POV | B2 Quellen-Zerstörung, B3 Talven-Mord | Kuang | SenLinYu für Körper |
+| Post-Krieg-Ruinen / tote Zonen | B2 Varen-Führung | SenLinYu + Bardugo (Fold) | — |
+| Gefangenschaft / Captivity | B2 Endakt, B3 Torkal | SenLinYu + Kennedy (*Plated Prisoner*) | Réage |
+| Biotech-Dystopie | B3 Akt III/IV | Pierce Brown | Kuang (*Babel* Tech) |
+| Weltuntergangs-Schlacht | B3 Finale Dravek | Maas + Kuang | Yarros-Emotion, Bardugo-Tempo |
+| Körper-Mutilation / Amputation | B1 Dornen, B3 Duell | SenLinYu + Réage | Kuang |
+| Fehlurteil-Schuld | B3 Talven-Tod | Kuang (Rin/Altan) | Morrison |
+| Blutmagie / Selbstverletzung | B3 Talven-Bogen | Kuang | SenLinYu |
+| Historical grief | B3 Marens Tod | Kuang (*Babel*-Schluss) | Maas (Tamlin-Verlust) |
+| Narbige Ruhe / Epilog | B3 Halvek-Mar | Yarros-Epilog-Ton | Morrison |
+
+**Was NICHT dazukommt:** Gibson (Lyrik-Risiko), Holly Black (Verben-Artifice), McCarthy (zu literary), Sapkowski (redundant zu Kuang/SenLinYu). Biotech-Register kommt **aus Pierce Brown**, nicht aus Gibson.
 
 ---
 
@@ -84,7 +114,8 @@ Charakteristisch:
 | **Romantasy (Alphina/Sorel)** | Yarros, Maas | Anne Rampling (*Belinda*), Robert, Kennedy |
 | **BDSM (Vesper/Maren)** | Réage (*Histoire d'O*) | Anne Rampling (*Exit to Eden*), Reisz |
 | **Dark Fantasy Atmosphäre** | Maas, Bardugo | Black (*Cruel Prince*) |
-| **Literary-Disziplin (Ton-Untergrund)** | King, Bardugo | Kuang, Morrison |
+| **Dunkle Register (Krieg/Mutilation/Dystopie)** | Kuang (*Poppy War*), SenLinYu (*Alchemised*), Pierce Brown (*Red Rising*) | Bardugo (*Fold*), Morrison (*Beloved*), Réage (Körper-Klinik) |
+| **Literary-Disziplin (Ton-Untergrund)** | King, Bardugo | Kuang (*Babel*), Morrison |
 
 Details in `01-autorin-stimme.md` Abschnitt 9.
 
@@ -92,9 +123,10 @@ Details in `01-autorin-stimme.md` Abschnitt 9.
 
 ## 7. Nicht-Ziele (gestrichene Referenzen)
 
-- **SenLinYu (Alchemised)** als Ton-Modell — zu literary-zurückhaltend. Bleibt als Handwerks-Referenz für Satzbau und Material-Erstnennung (`01-referenz-konkretheit.md`).
-- **Gibson-Lyrik, Holly Black-verfremdete-Verben, Schwab-Farb-System** — gestrichen.
+- **SenLinYu (Alchemised) als Nähe-/Heat-Ton** — zu literary-zurückhaltend für commercial Heat-Szenen. **Rehabilitiert für dunkle Register** (Post-Krieg, Gefangenschaft, Körper-Mutilation, Trauma) in Abschnitt 3.4. Strikte Szenen-Trennung: nie Nähe, immer Härte.
+- **Gibson-Lyrik, Holly Black-verfremdete-Verben, Schwab-Farb-System** — gestrichen. Biotech-Dystopie-Register (B3) kommt aus Pierce Brown, nicht aus Gibson.
 - **K16-K18** als Ton-Ziel — zu literary. Bleiben als Disziplin-Referenz für flüssigen Satzbau.
+- **Cormac McCarthy, Sapkowski** — nicht aufgenommen: McCarthy zu literary, Sapkowski redundant zu Kuang/SenLinYu.
 - Literary fiction ohne commercial Heat — nur als Disziplin-Input, nicht als Ton.
 
 ---
