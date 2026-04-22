@@ -21,7 +21,7 @@ Siehe `buch/kapitel-ton-referenzen.md#k24` fuer die Zentralstelle.
 
 **Wortziel:** 1.100–1.300 W
 
-Morgen nach der Pflanze. Kueche, zweite Tasse Tee, Sorel am Fenster mit nassen Haaren, Alphina barfuss auf den Dielen. Die Naehe ist drei Tage alt und noch kein Besitz — sie umgeht sich selbst im Raum, registriert jede Beruehrung. Sie greift an ihm vorbei nach dem Krug, ihr Unterarm streift seinen, beide halten inne eine halbe Sekunde laenger als noetig. Kein Wort. Das Du aus der Nacht ist in der Kueche zwischen ihnen, das Sie auf der Strasse wartet. Dann Vespers Klopfen, pünktlich auf die halbe Stunde — zwei Knoechel, der Takt den Alphina seit K11 kennt. Sie zieht sich im Stehen fertig an, Sorel sieht ihr zu ohne Eile.
+Morgen drei Tage nach der Pflanze. Kueche, zweite Tasse Tee, Sorel am Fenster mit nassen Haaren, Alphina barfuss auf den Dielen. Die Naehe ist drei Tage alt und noch kein Besitz — sie umgeht sich selbst im Raum, registriert jede Beruehrung. Sie greift an ihm vorbei nach dem Krug, ihr Unterarm streift seinen, beide halten inne eine halbe Sekunde laenger als noetig. Kein Wort. Das Du aus der Nacht ist in der Kueche zwischen ihnen, das Sie auf der Strasse wartet. Dann Vespers Klopfen, pünktlich auf die halbe Stunde — zwei Knoechel, der Takt den Alphina seit K11 kennt. Sie zieht sich im Stehen fertig an, Sorel sieht ihr zu ohne Eile.
 
 Vesper kommt in den Flur, Mantel an, sagt: „Ich hole Maren auf dem Weg." Er sagt „ich hole" und nicht „wir holen", und Alphina registriert, dass er diese kleinen Verantwortlichkeiten nimmt, als waere es nichts. Sie nickt.
 

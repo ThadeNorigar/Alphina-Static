@@ -5,6 +5,14 @@
 **Wortziel Ausarbeitung:** 4.000–4.500 W
 **Gänsehaut-Moment:** Beim Höhepunkt im Hinterzimmer krallt Runa die freie Hand an die Werkbank-Kante. Im selben Atemzug zwei Dinge gleichzeitig: das Holz unter ihrer Hand schwelt — Brandgeruch, ein dunkler Fleck wo die Finger lagen, ein paar Setzproben-Papierreste neben der Hand glimmen — und die Öllampe auf der Werkbank schießt mit der Flamme bis fast zur Decke, eine Stichflamme, dann wieder ruhig. Sie löscht das Glimmen mit der Handfläche, schlägt es aus. Brandgeruch in der Luft, dunkler Fingerabdruck im Werkbank-Holz. Sie sucht Erklärungen — die Öllampe könnte einen Funken geworfen haben, sie selbst hätte etwas anstoßen können. Keine ihrer Erklärungen sitzt ganz. Sie nimmt die plausibelste, schiebt den Rest weg, aber nicht vollständig. Die Verbindung zwischen ihrem Körper und dem Feuer denkt sie nicht — sie hat das Vokabular dafür nicht.
 
+## Ton-Referenz (Leseproben)
+
+- **Primär:** `buch/leseproben/11-moragh-ankunft.md` — Runa ist dort als Nebenfigur präsent, Register-Anker. Sinnliche Dichte, Körper-warm-Register.
+- **Sekundär:** `buch/leseproben/09-welt-vael-warm.md` — Druckerei als materialdichter Arbeitsort, Werft-Pendant im Register. `buch/leseproben/08-magie-kontrollverlust.md` — für den Brand-Moment (Körper hat kein Vokabular für das was passiert). `buch/leseproben/03-heat-alphina-sorel.md` — nur für den Alphina-Auftakt (Du-Register, Post-K21-Nachhall).
+- **Stilnotiz:** Runa warm, körperlich. Druckerei-Vokabular (Setzkasten, Schließrahmen, Walze, Stege, Bleilettern, Schwärze unter den Nägeln, Firnis). Begehren für Alphina als Körperwärme unter der Arbeit, nicht als innerer Monolog. Tagträume als konkretes Bild, kein Abstraktum. Der Brand-Moment: Runa hat das Vokabular nicht — Alphinas Begriff "Resonanz" existiert für sie nicht. **Memory-Canon: Magie hat keine Kosten** (keine Erschöpfung nach dem Brand-Moment). POV-Switch zwischen Szene 1 (Alphina) und Szene 2 (Runa) klar markiert. **Alphina/Runa: kein BDSM-Register** — Runas Begehren körperlich, aber nicht Sub.
+
+Siehe `buch/kapitel-ton-referenzen.md#k25` für die Zentralstelle.
+
 ---
 
 ## Szene 1 — Druckerei Kvist, Vormittag (Alphina-POV)
@@ -14,8 +22,10 @@
 **Ort:** Druckerei Kvist, Oberstadt, schmale Seitengasse vom Marktplatz. Vormittag, Sonnenfenster zwischen Wolken.
 
 **Beats (sachliches Exposé, kein Stil):**
-- Alphina geht vom Tidemoor-Haus zur Druckerei. Strecke ca. 25 Minuten, durch die Oberstadt.
-- Kein formeller Anlass: sie geht zu ihrer Freundin Runa, weil sie reden will und weil Runa die Druckerei-Menge mitbekommt (Kunden reden während sie warten — Runa hört ungefiltert). Alphina will die Anomalien-Sichtungen der letzten Tage abfragen. Freundschafts-Besuch, kein Auftrag.
+- Alphina geht aus ihrer Unterkunft in der Hafengasse zur Druckerei. Strecke ca. 25 Minuten, über die Speichergasse und den Aufstieg zur Oberstadt.
+- **Innerer Trigger — die Nacht nach K24:** Sie hat nicht geschlafen. Lenes Skizze (das Feuer-Wesen, eineinhalbmal mannshoch, Brand-Pfad durch die Stadt) und die drei Schem-Fingerabdrücke sitzen ab dem Morgen im Bauch, nicht im Kopf. Sorel war die Nacht bei ihr, still — sein Schweigen hat Gewicht, seit sie gestern im Archiv waren. Sie hat es nicht gedeutet. Gegen sechs Uhr ist sie aufgestanden, leise, um ihn nicht zu wecken. Sie muss raus. Nicht zu Sorel am Frühstückstisch, nicht in ihre eigene Küche. Zu Runa, bei der man einen Vormittag sein darf ohne Auftrag, ohne Erklärung.
+- **Plot-Trigger — Vespers Ankündigung vom Rathausplatz:** *„Morgen Abend bei ihr. Alle vier. Wir legen alles zusammen, was wir haben, und entscheiden."* Alphinas eigene Datenlage für die Runde ist dünn — Farne mit Moragh-Geruch, Mauerritzen-Pflanzen, ihre eigene Resonanz, die wächst. Das reicht nicht für eine Entscheidung. Runa ist die Einzige in Vael, die Kundengespräche ungefiltert hört: Leute reden in der Druckerei, während sie auf Flugblatt-Abzüge warten, und Runa merkt sich, was sonst niemand registriert. Sichtungen, die in keine Zeitung kommen.
+- **Cover-Grund:** Das Heilkräuter-Plakat für Halvard, das Runa drucken soll — Halvard hat Alphina den Auftrag vor zwei Wochen übergeben (Randzeichnungen von drei Heilpflanzen, Text in Schwarz, Rand in dunkelrot). Sie hat ihn bisher nicht abgegeben. Heute morgens nimmt sie ihn obenauf in die Manteltasche. Cover für Sorel falls er wach wird, Cover für Runa falls die fragt.
 - Alphina kommt rein, Tür-Glocke. Runa am Setzkasten, steht von der Arbeit auf. Begrüßungs-Umarmung.
 - Bei der Umarmung: Alphina spürt Runas Körperwärme — Hals, Schultern, Rücken, höher als Lufttemperatur erlaubt. Sie registriert es, sagt nichts. Sie *mag* die Wärme — ihr ist vom Gehen durch die kühle Oberstadtgasse selbst noch kalt, und Runas Körper gibt angenehme Hitze ab. Sie bleibt einen Atemzug länger in der Umarmung als nötig, löst sie dann. Keine Analyse, kein Vergleich — sie hat die Wärme einfach mitgenommen und geht weiter.
 - Sie setzen sich an den Setztisch. Kurzes Hin und Her — wie geht's, wie läuft die Werkstatt, wie lief Alphinas Tag gestern (Alphina sagt „ruhig", verschweigt das Archiv). Smalltalk, warm, freundschaftlich.
@@ -25,7 +35,7 @@
   3. **Setzergehilfe vom Hafenbüro** (Name: Joran): eine Gestalt zwischen den Pollern bei Niedrigwasser, zu groß für einen Fischer, kein Mantel sichtbar. Beim zweiten Hinsehen weg. (K10/K12-Echo: dieselbe Sorte Wesen.)
 - Alphina notiert mit Bleistift in einem kleinen Notizheft, das sie in der Manteltasche trägt — für Vespers Datenabgleich am Nachmittag (K26-Zusammenkunft).
 - Abschied: zweite Umarmung, kürzer. Aber Runa ist *noch* wärmer geworden in der halben Stunde dazwischen — Alphina spürt es deutlich, die Hitze geht jetzt schon durch zwei Lagen Stoff. Keine Analyse, kein Pflanzen-Vergleich; nur ein leises *etwas wärmt sie auf* in Alphinas Wahrnehmung. Sie sagt nichts, geht.
-- Schluss-Beat: Alphina draußen, Gasse, Sonne kurz auf ihrem Gesicht. Sie geht Richtung Tidemoor zurück. Die Wärme an ihren eigenen Armen wo Runa sie gehalten hat — sie spürt sie noch eine Minute, dann verfliegt sie.
+- Schluss-Beat: Alphina draußen, Gasse, Sonne kurz auf ihrem Gesicht. Sie geht Richtung Hafengasse zurück — sie hat noch Stunden bis zum Abend und den Heilkräuter-Auftrag abgegeben. Die Wärme an ihren eigenen Armen wo Runa sie gehalten hat — sie spürt sie noch eine Minute, dann verfliegt sie.
 
 **Dialog-Informationen (zu transportierende Inhalte):**
 - *Alphina erfährt:* drei Anomalien-Sichtungs-Adressen (Tohl Daverin, namenlose Magd, Joran); Runas Körperwärme ist erhöht; Runa wirkt nicht krank, nur etwas zerstreut
