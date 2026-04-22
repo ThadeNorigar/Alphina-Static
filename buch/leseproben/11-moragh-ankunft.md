@@ -34,7 +34,7 @@ Maren, wach. Saß aufrecht, die Hand an Vespers Schulter, den Blick nicht auf Al
 
 »Ich weiß«, sagte Alphina.
 
-Sie wollte den Halm abschütteln und tat es nicht. Sie sah in den Himmel, auf die zwei Monde, auf den grünen Grat, und wusste, dass dies der erste Tag war, an dem sie alle vier wirklich spüren würden, was in ihnen war — nicht wie in Vael, wo die Resonanz wie ein entferntes Klopfen an einer Tür gewesen war, sondern offen, nah, unter der Haut.
+Sie wollte den Halm abschütteln und tat es nicht. Sie sah in den Himmel, auf die zwei Monde, auf den grünen Grat. In Vael hatte sie das Wachsen in den Fingern gespürt wie einen Pulsschlag unter der Haut. Hier war es kein Pulsschlag. Hier war es schon da.
 
 Der Halm zog sich noch fester um ihren Finger.
 
