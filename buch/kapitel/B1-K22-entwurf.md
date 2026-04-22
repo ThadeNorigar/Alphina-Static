@@ -5,6 +5,14 @@
 **Wortziel Ausarbeitung:** 2.500–3.000 W (kurzes Kapitel, kein Wendepunkt — Nachglut und Eskalations-Saat)
 **Gänsehaut-Moment:** Alphina — die Botanikerin, die seit dreißig Jahren jede Pflanze der Grauküste kennt — schüttelt den Kopf. Kein Name. Kein Vergleich. Kein "sieht aus wie". Einfach: nichts.
 
+## Ton-Referenz (Leseproben)
+
+- **Primär:** `buch/leseproben/09-welt-vael-warm.md` — Werft/Hafen-Material. Register-Zwilling für Maren-Alltag.
+- **Sekundär:** `buch/leseproben/12-gruppenszene-tension.md` — für das Moment, in dem Maren erkennt: das ist größer als wir. `buch/leseproben/15-post-krieg-ruine.md` — *nur* atmosphärische Vorzeichnung (der Riss sickert — Moragh-Zeichen, tote Zone als Keim).
+- **Stilnotiz:** Fremde Pflanze — Maren hat keinen botanischen Begriff, beschreibt Textur/Form (Blattstand, Wuchshöhe, Farbe der Nerven). Cross-POV: Alphinas "Nebel" wird nicht übernommen — Maren hat eigene Wörter (Dunst/Brodem/feuchtes Wetter). **"Moragh" nie benennen** (Memory, Ort bleibt in Thalassien-Kapiteln namenlos). Kurzes Kapitel — Beats dicht, keine Redundanz. Nachglut aus K21 als leise Präsenz in anderen Figuren.
+
+Siehe `buch/kapitel-ton-referenzen.md#k22` für die Zentralstelle.
+
 ---
 
 ## Szene 1 — Die Pflanze in der Werft

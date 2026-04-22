@@ -12,13 +12,14 @@ Verwalte den Status der Kapitel in `buch/status.json`.
 ## Gültige Stati (in Reihenfolge)
 
 1. **idee** — Nur die Idee existiert
-2. **szenenplan** — Szenen-Definition geschrieben (buch/szenen/XX-NN.md)
-3. **entwurf** — Erster Text geschrieben (buch/kapitel/XX-*.md)
-4. **council** — Council-Review durchlaufen
-5. **logik-check** — /logik-check bestanden (GATE: Autor-Freigabe)
-6. **stil-check** — /stil-check bestanden (GATE: Autor-Freigabe)
-7. **final-council** — Final /council bestanden (GATE: Autor-Freigabe)
-8. **final** — Fertig
+2. **entwurf** — Plot-Entwurf geschrieben (`buch/kapitel/B1-K{NN}-entwurf.md`, Phase `/entwurf`)
+3. **entwurf-checked** — Entwurf auf Canon/Logik geprüft
+4. **entwurf-ok** — Entwurf Autor-freigegeben für Ausarbeitung
+5. **ausarbeitung** — Prosa geschrieben (`/ausarbeitung`)
+6. **lektorat** — In Lektorat (`/lektorat-fix`)
+7. **final** — Fertig
+
+**Legacy-Stati** (nur noch auf Altbestand zulässig, nicht für neue Kapitel): `szenenplan`, `council`, `logik-check`, `stil-check`, `final-council`. Die Status-Stufe `szenenplan` ist obsolet — Szenenpläne wurden am 22. Apr 2026 nach `buch/szenen/_archiv_2026-04-22/` verschoben. Neue Kapitel gehen direkt `idee → entwurf`.
 
 ## Was der Skill tut
 
@@ -30,7 +31,7 @@ Verwalte den Status der Kapitel in `buch/status.json`.
 
 ## Regeln
 
-- Status darf nur VORWÄRTS gehen (idee → szenenplan → entwurf → ...) oder auf "idee" zurückgesetzt werden
+- Status darf nur VORWÄRTS gehen (idee → entwurf → entwurf-checked → entwurf-ok → ausarbeitung → lektorat → final) oder auf "idee" zurückgesetzt werden
 - Bei "final": Wortanzahl ist Pflicht (zähle mit `wc -w` wenn nicht angegeben)
 - Warnung wenn ein Kapitel auf "final" gesetzt wird ohne dass /logik-check UND /stil-check gelaufen sind
 - Warnung wenn ein Gate-Status übersprungen wird (z.B. direkt von council auf final)

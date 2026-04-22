@@ -5,6 +5,14 @@
 **Wortziel Ausarbeitung:** 2.500 Woerter
 **Gaensehaut-Moment:** Pflanzenspitze wachst in einer halben Minute eine Handlaenge in Sorels Lichtkegel. Faktor etwa 200 gegenueber Standard. Messbar. Die neue Wachstumsachse bleibt.
 
+## Ton-Referenz (Leseproben)
+
+- **Primär:** `buch/leseproben/03-heat-alphina-sorel.md` — Du-Register jetzt etabliert (Post-K21), direkte Anatomie, Fuehrung durch Alphina aus Charakter.
+- **Sekundär:** `buch/leseproben/02-erster-kuss.md` — fuer weiche Kippmomente zwischen Experiment und Intimitaet. `buch/leseproben/01-banter-alphina-sorel.md` — Grundton fuer die analytischen Passagen zwischen Koerper-Momenten.
+- **Stilnotiz:** **Du-Register jetzt etabliert** (Post-K21). Experimente als handwerkliche Versuchsreihe — Alphina liebt Methode. **Keine Uhrmacher-Praezision bei Alphina** (Memory: keine Fingerknochen/Atemzuege/Sekunden zaehlen; Zeit-Marker "eine Weile", "halber Zoll" ok). **"Resonanz" bleibt drauszen** — Figuren sagen "zusammen staerker", "Wachstum zieht Licht", "das Vierte". Sorel riecht nach Haut/Leinen in Naehe-Szenen, nicht Chemie (Memory). "Bluetenmond, nicht Mai" — Monate konsequent.
+
+Siehe `buch/kapitel-ton-referenzen.md#k23` fuer die Zentralstelle.
+
 ## Szene 1 — Ankunft & Kernfrage
 
 **Wortziel:** 500-600 W

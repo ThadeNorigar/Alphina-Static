@@ -6,7 +6,7 @@
 ## Grunddaten
 
 - **POV:** Elke (3. Person nah/Präteritum, Interludien-Stil: chronicle-nah)
-- **Timeline:** 6 Wochen nach I1. Tiefer Frostmond (Dezember-Äquivalent). Elke arbeitet seit Wochen am Klippenrand. Keldan schmiedet seit 7 Wochen in der Hafenschmiede.
+- **Timeline:** 15. Frostmond 154 TZ (Zeitleiste) · 6 Wochen nach I1. Tiefer Winter. Elke arbeitet seit Wochen am Klippenrand. Keldan schmiedet seit 7 Wochen in der Hafenschmiede.
 - **Wortziel:** ~1.500 Wörter (1 Szene)
 - **Figurenstimme:** Elke — Handwerkerin, denkt in Materialien, Oberflächen, Widerständen. Sätze mittellang, konkret, sensorisch. Hände sind ihr Instrument.
 

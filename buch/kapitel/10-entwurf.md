@@ -6,7 +6,7 @@
 **Status:** entwurf
 **POV:** Sorel, 3.P/Präteritum, engste Person
 **Wortziel:** ~4.800 Wörter (3 Szenen: ~1.850 / ~1.100 / ~1.900)
-**Position im Akt I:** 13. Mai 551 · Tag 39 in Vael (6 Wochen 3 Tage seit Kap 6)
+**Position im Akt I:** 13. Blütenmond 551 TZ · 2 Wochen 2 Tage seit Kap 6 (27. Saatmond)
 
 ---
 
@@ -46,15 +46,15 @@ Sorel starrt auf seine Hand. Im Mondlicht ist die Stelle schwer zu lesen — erb
 
 ### Timeline
 
-- **Tag:** 13. Mai 551. 6 Wochen 3 Tage seit Sorels Ankunft in Vael (Kap 6 = 5. April).
-- **Wetter:** Frühsommer kippt. Tagsüber dünner Dunst, nachmittags Aufklaren, nachts Mondlicht durch einen halb-durchsichtigen Schleier. Kälte ist weg, die Luft ist mild genug dass sein Körper unter der Jacke schwitzt.
+- **Tag:** 13. Blütenmond 551 TZ (Zeitleiste). 2 Wochen 2 Tage seit Sorels Ankunft in Vael (Kap 6 = 27. Saatmond).
+- **Wetter:** Frühsommer kippt. Tagsüber dünner Dunst, nachmittags Aufklaren, nachts Mondlicht durch einen halb-durchsichtigen Schleier. Kälte ist weg, die Luft ist mild genug dass sein Körper unter dem Mantel schwitzt.
 - **Tageszeit Kapitel:** Vormittag (Dunkelkammer-Entwicklung) → Nachmittag (Spur in der Stadt) → Nacht (Garten-Einbruch) → Rückkehr im ersten Morgenlicht
-- **Konsistenzcheck Akt I:**
-  - Kap 8 (Maren) = 10. Mai
-  - Kap 9 (Alphina) = 11. Mai
-  - Kap 10 (Sorel) = 13. Mai
-  - Kap 11 (Vesper) = 14. Mai
-  - Kap 12 (Alphina + Sorel) = 15. Mai
+- **Konsistenzcheck Akt I (aus zeitleiste.json):**
+  - Kap 8 (Maren) = 10. Blütenmond 551 TZ
+  - Kap 9 (Alphina) = 11. Blütenmond
+  - Kap 10 (Sorel) = 13. Blütenmond
+  - Kap 11 (Vesper) = 14. Blütenmond
+  - Kap 12 (Alphina + Sorel) = 15. Blütenmond
 - **Zeit seit letzter Sorel-Szene (Kap 6):** 38 Tage. In diesen Tagen hat er sich vollständig im Lichthaus-Keller eingerichtet, die Dunkelkammer aufgebaut, Probeläufe gemacht, die Chemikalien altern lassen und jede Nacht am Hafen fotografiert — die Platten aber NICHT entwickelt. Er hat auf den richtigen Morgen gewartet. Heute ist der Morgen.
 
 ### Aktplan-Check (gegen `02-akt1.md` aktualisierte Version)

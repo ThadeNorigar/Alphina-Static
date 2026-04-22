@@ -7,7 +7,7 @@
 
 - **POV:** Alphina, Ich/Präsens
 - **Perspektive:** Ich-Erzählerin, wie Kap 1
-- **Timeline:** Ende April / Anfang Mai. Drei Tage nach Abreise aus Velde (Kap 1 = März, Brief im März, Abreise Ende März). Frühling.
+- **Timeline:** 24. Saatmond 551 TZ (Zeitleiste). Drei Tage nach Abreise aus Velde (Kap 1 = 21. Saatmond). Später Saatmond — Frühling beginnt. Umgebung grün, Luft noch kühl.
 - **Ort:** Kutsche → Vael (Stadttor, Oberstadt/Druckerei, Gasthaus Hafengasse)
 - **Wortziel:** ~4.500 Wörter (3 Szenen à ~1.500)
 - **Anschluss:** Kap 1 endet mit "Drei Tage bis Vael." Kap 5 beginnt auf der letzten Etappe.
@@ -101,7 +101,7 @@ Stakkato: "Kalt. Das Holz ist kalt. Kein Ruß. Meine Hand zittert."
 
 1. **Kutsche, letzte Stunde.** Der Körper: drei Tage Kutsche, Rücken steif, Oberschenkel taub, der Geruch des Pferdes und des Leders und ihres eigenen Schweißes. Das Notizbuch auf dem Schoß — Einträge der letzten Tage, sachlich, botanisch: "Asplenium an der Poststation Hügelsund, 49. Breitengrad. Sollte nicht hier wachsen." Und darunter, kleiner: "Hat sich nach der Kutsche gedreht. Phototropismus?" Sie glaubt es nicht. Aber sie schreibt es hin, weil Schreiben Kontrolle ist. Puls 78.
 
-2. **Die Landschaft.** Das Marschland hört auf. Hügel. Dann Fels — dunkel, fast schwarz. Purpurstein. Die Luft wird dichter, salziger. Nebel, der von der Küste kommt. Vaeler Atem — sie denkt den Namen und ihre Haut reagiert, Gänsehaut am Unterarm, unter dem Ärmel. Am Straßenrand: Gras, Farne in Mauerspalten, Moos auf Fels. Alles GRÜNER als es im April sein sollte. Satter. Dichter. Jede Pflanze einzeln: normal. Alle zusammen: zu viel. Puls 86.
+2. **Die Landschaft.** Das Marschland hört auf. Hügel. Dann Fels — dunkel, fast schwarz. Purpurstein. Die Luft wird dichter, salziger. Nebel, der von der Küste kommt. Vaeler Atem — sie denkt den Namen und ihre Haut reagiert, Gänsehaut am Unterarm, unter dem Ärmel. Am Straßenrand: Gras, Farne in Mauerspalten, Moos auf Fels. Alles GRÜNER als es Ende Saatmond sein sollte. Satter. Dichter. Jede Pflanze einzeln: normal. Alle zusammen: zu viel. Puls 86.
 
 3. **Das Stadttor.** Purpurstein, drei Meter hoch, dunkler als alles was sie kennt. Sie legt die Hand auf den Stein — beiläufig, aus dem Kutschfenster, weil die Kutsche langsam fährt — und der Stein ist WARM. Wie die Erde in Velde. Nachmittagssonne? Es ist bewölkt. Sie zieht die Hand zurück. Und dann sieht sie die Farne. Sieben Asplenium scolopendrium. In den Mauerspalten. Am einundfünfzigsten Breitengrad. Sieben. Sie kennt jeden einzelnen, kennt ihre Grenzen, kennt die dreihundert Jahre Dokumentation die sagt: unmöglich. Und während sie hinschaut, drehen sich die Wedel. Nicht ruckartig wie in Velde — langsam, einer nach dem anderen, eine Welle die durch die Mauer läuft. Nach ihr. Puls 98. Ihre Hände werden feucht. Der Mund trocknet aus. Sie greift an den Kutschrahmen, das Holz glatt unter feuchten Fingern. Die Kutsche fährt weiter. Sie dreht sich nicht um.
 

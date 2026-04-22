@@ -36,14 +36,14 @@ Drei Schichten, die übereinander brechen:
 
 ### Timeline
 
-- **Jahreszeit:** Frühsommer (~Mai/Juni in unserer Rechnung — der Frühling kippt in den Sommer, parallel zu Kap 8 sechste Woche)
+- **Jahreszeit:** Blütenmond 551 TZ (Frühling kippt in Frühsommer, parallel zu Kap 8)
 - **Tageszeit Kapitel:** später Nachmittag (Garten) → Dämmerung (Runa-Gespräch) → Anbruch der Nacht (Heimweg)
-- **Wochen seit Ankunft:** 5–6 Wochen nach Kap 5
-- **Konsistenzcheck Akt I:**
-  - Kap 1 (Velde) = März
-  - Kap 5 (Ankunft Vael) = Frühling, ~ April
-  - Kap 8 (Maren, sechste Woche) = Frühling kippt zum Sommer, ~ Mai/Juni
-  - Kap 9 = parallel/leicht nach Kap 8, gleicher Frühsommer
+- **Datum (Zeitleiste):** 11. Blütenmond 551 TZ, ein Tag nach Kap 8 (10. Blütenmond)
+- **Konsistenzcheck Akt I (aus zeitleiste.json):**
+  - Kap 1 (Velde) = 21. Saatmond 551 TZ
+  - Kap 5 (Ankunft Vael) = 24. Saatmond 551 TZ
+  - Kap 8 (Maren, sechste Woche in Vael) = 10. Blütenmond 551 TZ
+  - Kap 9 = 11. Blütenmond, einen Tag nach Kap 8
 - **Wetter:** Vaeler Atem hängt dünn über der Stadt. Spätnachmittag: schwach durchscheinende Sonne. Dämmerung früher als im Sommer, weil der Nebel schluckt.
 
 ### Aktplan-Check (gegen `02-akt1.md`)
@@ -208,7 +208,7 @@ Was muss geklärt werden?
 2. Begrüßung. "Im Anker sagten sie, du bist nachmittags im Garten. Ich brauche fünfzehn Minuten." Höflich, aber ohne Umweg. Alphina nickt. Sie haben sich seit Kap 5 dreimal kurz gesehen, beim Papierkaufen.
 3. Sie gehen ein Stück, weg vom Steinkreis (Alphinas Instinkt — sie will ihn nicht erklären müssen). Sie setzen sich auf die Bank am Ende des Hauptweges. Vor ihnen: das Treibhaus. Hinter ihnen: die Vogelhecke ohne Vögel.
 4. Runa legt die Flugblätter zwischen sie. *VAELS GEISTER — Beobachtungen einer Druckerin.* Zweite Serie. "Lies das. Sag mir, ob ich verrückt bin."
-5. Alphina liest. Aufgelistet: heißes Wasser ohne Kessel in sieben Häusern, mit Adressen. Kaminfeuer ohne Brennstoff in drei Häusern. Sichtungen schattenhafter Tiere von elf Bürgern. Dr. Halvard hat im April vier Verbrennungen ohne Hitzequelle behandelt. Quellen, Daten, Zeitstempel. Es ist kein hysterisches Pamphlet. Es ist Buchhaltung.
+5. Alphina liest. Aufgelistet: heißes Wasser ohne Kessel in sieben Häusern, mit Adressen. Kaminfeuer ohne Brennstoff in drei Häusern. Sichtungen schattenhafter Tiere von elf Bürgern. Dr. Halvard hat im vergangenen Saatmond vier Verbrennungen ohne Hitzequelle behandelt. Quellen, Daten, Zeitstempel. Es ist kein hysterisches Pamphlet. Es ist Buchhaltung.
 6. Alphina hebt den Kopf. Sie hält den Bogen so, dass ihre Hände nicht zittern. (Sie zittern nicht. Sie KÖNNTEN zittern.)
 7. **Dialog 2** entfaltet sich (siehe Dialog-Planung oben). Vollständige Sätze. Höflichkeitsformeln. Logische Schritte. Subtext.
 8. Mittlerer Beat — körperlich: Runa ist beim Sprechen näher gerückt. Alphina spürt die Wärme der Frau neben sich, durch den Mantel, einen halben Handbreit Abstand. Sie ist heißer als ein Mensch sein müsste. Alphina rückt nicht weg. Sie rückt nicht hin.

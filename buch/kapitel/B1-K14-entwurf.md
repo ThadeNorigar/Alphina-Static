@@ -1,16 +1,24 @@
 # B1-K14 — Maren — Entwurf
 
 **POV:** Maren (3. Person nah, Präteritum)
-**Timeline:** TZ 551, Tag 142 (22. Mai) — 8 Tage nach Kap. 11, ca. 12 Tage nach Kap. 13
+**Timeline:** 17. Blütenmond 551 TZ (Zeitleiste). 3 Tage nach K11 (14. Blütenmond), 1 Tag nach K13 (16. Blütenmond). **Hinweis:** frühere Entwurf-Angabe "Tag 142 / 22. Mai / 8 Tage" war inkonsistent mit der Zeitleiste und wurde angepasst.
 **Wortziel Ausarbeitung:** 4.000–4.500 W (Szene 1: ~3.000 W, Szene 2: ~1.200 W)
 **Gänsehaut-Moment:** Marens Körper reagiert auf eine völlig fremde Person mit einer Lust, die sie in dreißig Jahren nie gespürt hat — und sie muss sie vor dem vollen Schankraum komplett verbergen.
+
+## Ton-Referenz (Leseproben)
+
+- **Primär:** `buch/leseproben/12-gruppenszene-tension.md` — verborgene Tension im Schankraum, Publikum muss die BDSM-Dynamik verstecken. Verteilte Körperbeats.
+- **Sekundär:** `buch/leseproben/04-bdsm-alltag-vesper-maren.md` — für den ersten körperlichen Erkennungs-Moment. Noch kein Set-Piece, aber der Keim. Kleidungs-Material trägt die Dynamik (Memory: dreiteilige Maren-Kleidung).
+- **Stilnotiz:** Power-Exchange-Körper (Canon: Maren = Sub). Gänsehaut-Moment ist die Notwendigkeit, es zu verbergen. Schiffsuhr als konkretes Objekt (Messing, Glasdeckel mit feinem Riss). Werft-Vokabular bleibt tragend (Maren-Linse 15-20 %). Vesper bei Lupe-am-Auge: still, Hände auf Holz, Dom-Stille ohne Worte. Salz-Kontext: Maren kommt vom Hafen — Werftsalz-Register bereits etabliert.
+
+Siehe `buch/kapitel-ton-referenzen.md#k14` für die Zentralstelle.
 
 ---
 
 ## Szene 1 — Der Anker: Der Körper weiß es zuerst
 
 **Ort:** Gasthaus *Der Anker*, Vael (Unterstadt, nahe Grauwe, nahe Hafen) — Schankraum, Vespers Ecktisch rechts
-**Zeit:** TZ 551, Tag 142 (22. Mai), später Vormittag — Sommer, heiß für Vael
+**Zeit:** 17. Blütenmond 551 TZ, später Vormittag — Spätfrühling, warm für Vael
 **Wortziel:** ~3.000 W
 
 Maren trägt die Schiffsuhr in der Hosentasche (Messing, warm vom Schenkel, Glasdeckel mit feinem Riss). Die Uhr lag in Harons Werkzeugschublade — sie weiß nicht ob sie je gegangen ist, sie hat sie nie ticken hören. Das Boot braucht eine funktionierende Schiffsuhr, weil das Abschätzen von Strömungen ohne sie Stückwerk ist. Sie hat im Hafenviertel nach einem Uhrmacher gefragt; man hat ihr den *Anker* genannt, ein Fremder aus Karst der jeden Morgen am selben Tisch sitzt. Sein Name ist ihr egal. Das ist der einzige Grund, warum sie geht.
@@ -78,7 +86,7 @@ Sie geht. Sechs, sieben Schritte. Der Fuhrmann schaut nicht auf. Der Wirt nickt 
 ## Szene 2 — Zurück zur Werft: Der Körper hört nicht auf
 
 **Ort:** Vael, Gassen → Grauwe-Brücke → Werft am Hafen
-**Zeit:** TZ 551, Tag 142 (22. Mai), später Vormittag bis früher Abend
+**Zeit:** 17. Blütenmond 551 TZ, später Vormittag bis früher Abend
 **Wortziel:** ~1.200 W
 
 Maren löst sich von der Fassadenwand neben der *Anker*-Tür. Die Hitze des Purpursteins unter ihrer Handfläche tut nichts — ist nur da. Das beruhigt sie. Dann nimmt sie die Hand weg und geht.

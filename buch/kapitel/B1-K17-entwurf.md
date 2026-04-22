@@ -1,10 +1,18 @@
 # B1-K17 — Maren — Entwurf
 
 **POV:** Maren (3. Person nah, Präteritum)
-**Timeline:** 20. Blütenmond 551 TZ · 7 Wochen 6 Tage in Vael (gleichzeitig mit K15, K16)
+**Timeline:** 19. Blütenmond 551 TZ laut zeitleiste.json. **Offener Konflikt:** Entwurf hatte "20. Blütenmond · 7 Wochen 6 Tage (gleichzeitig K15, K16)" — Zeitleiste: K15/K16 = 18. Blütenmond, K17/K18 = 19. Blütenmond. Zu klären.
 **Vorgänger:** K14 (Maren bringt Schiffsuhr zu Vesper — genau drei Tage vor diesem Kapitel), K16 (Sorel entdeckt seine Resonanz)
 **Wortziel Ausarbeitung:** 4.000–4.500 W
 **Gänsehaut-Moment:** Der Tee-Strudel gegen den Uhrzeigersinn, ohne Rühren, ohne Kosten — und Vespers gesamter Körper hält inne, die Lupe-am-Auge-Konzentration jetzt auf sie gerichtet, wie vor einem Muster das er bereits kennt.
+
+## Ton-Referenz (Leseproben)
+
+- **Primär:** `buch/leseproben/04-bdsm-alltag-vesper-maren.md` — Power-Dynamik im Alltag, Sub folgt aus Wollen, Material trägt (Mieder, Fischbein, Ösen, Schnürbänder). Direkter Register-Zwilling für den ersten ehrlichen Moment.
+- **Sekundär:** `buch/leseproben/09-welt-vael-warm.md` — Werft-/Hafen-Atmosphäre (Maren trägt sie hinein). `buch/leseproben/06-aftercare.md` — Nachhall-Referenz (Care als Aktion, nicht als inneres Gefühl).
+- **Stilnotiz:** Erster ehrlicher Moment — Dom-Stimme ruhig, nicht explizit, erkennt Sub-Körper. Salz/Metall-auf-Lippen-Register etabliert sich hier (Memory-Canon, nur bei Maren). Maren riecht nach Teer/Pech, Vesper nach Werkzeugöl/Messing. Dreiteilige Kleidung (Memory). Tee-Strudel als Magie-Ereignis ohne Benennung — Maren hat kein Wort dafür, Vesper erkennt das Muster still. Kein Puls — bevorzugt Atem/Muskel/Kehle.
+
+Siehe `buch/kapitel-ton-referenzen.md#k17` für die Zentralstelle.
 
 ---
 

@@ -6,7 +6,7 @@
 ## Meta
 
 - **POV:** Vesper, 3. Person nah / Präteritum
-- **Timeline:** Anfang April. Einen Tag nach Sorel (Kap 6), ca. eine Woche nach Alphina (Kap 5 = Ende März). Vesper packt in Kap 3 sofort nach der Uhren-Synchronisation, nimmt die Morgenkutsche um sechs. Vier Tage Karst → Vael. Er kommt am vierten Tag nachmittags an.
+- **Timeline:** 28. Saatmond 551 TZ (Zeitleiste). Einen Tag nach Sorel (Kap 6 = 27. Saatmond), vier Tage nach Alphina (Kap 5 = 24. Saatmond). Vesper packt in Kap 3 sofort nach der Uhren-Synchronisation, nimmt die Morgenkutsche um sechs. Vier Tage Karst → Vael. Er kommt am vierten Tag nachmittags an.
 - **Ort:** Vael → Gasthaus "Zum Anker" → Tidemoor-Haus (am Grauwe-Ufer)
 - **Wortziel:** ~4.200 Wörter (3 Szenen)
 - **Anschluss:** Kap 3 endet mit Vesper auf dem Weg zur Poststation, Koffer in der Hand, alle Uhren auf 4:33 stehengeblieben. Kap 7 setzt ein bei der Ankunft in Vael.
@@ -23,7 +23,7 @@ Aktplan Kap 7 fordert:
 - [ ] Endet mit: "Scheiße."
 
 **Abweichungen vom Aktplan (alle Autor-freigegeben):**
-- Timeline: "Frühsommer" → Anfang April, einen Tag nach Sorel.
+- Timeline: "Frühsommer" → 28. Saatmond 551 TZ, einen Tag nach Sorel.
 - Unterkunft: Vesper im "Zum Anker" (wie Alphina), nicht im Tidemoor-Haus.
 - Tidemoor-Haus: Bewohnt. Vesper stellt sich vor, bittet um Zugang.
 
@@ -73,7 +73,7 @@ Aktplan Kap 7 fordert:
 ### Szene 1 — Ankunft und der Anker (~1.400 Wörter)
 
 **Ort:** Vael, Hafengasse, Gasthaus "Zum Anker"
-**Zeit:** Nachmittag, Anfang April
+**Zeit:** Nachmittag, 28. Saatmond 551 TZ
 
 **Beats:**
 - Ankunft Vael. Der Stein anders als in Karst — dunkel, feucht, dampfend. Vesper registriert: keine Turmuhren sichtbar. Gaslampen am Nachmittag. Nebel.

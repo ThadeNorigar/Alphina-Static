@@ -1,9 +1,17 @@
 # B1-K15 — Alphina — Entwurf
 
 **POV:** Alphina (3. Person nah, Präteritum)
-**Timeline:** 20. Mai 551 · 8 Wochen 2 Tage in Vael
+**Timeline:** 18. Blütenmond 551 TZ (Zeitleiste) · ca. 3 Wochen 3 Tage in Vael seit Kap 5 (24. Saatmond)
 **Wortziel Ausarbeitung:** 3.800–4.200 W
 **Gänsehaut-Moment:** Eine humanoide Gestalt in der Gasse neigt den Kopf — nicht reflexartig, sondern wie jemand der eine Antwort abwartet. Erstmals verhalten sich die Schemen wie Wesen mit Intention.
+
+## Ton-Referenz (Leseproben)
+
+- **Primär:** `buch/leseproben/08-magie-kontrollverlust.md` — humanoide Gestalt neigt den Kopf, Alphinas Kontrolle kippt. Körper übernimmt.
+- **Sekundär:** `buch/leseproben/11-moragh-ankunft.md` — Drohung-Atmosphäre über die Stadt, sinnliche Dichte. `buch/leseproben/07-varen-antagonist.md` — *nur* für die Intention hinter der Neigung des Kopfes (nicht die Figur Varen selbst — Alphina kennt ihn noch nicht).
+- **Stilnotiz:** Schemen nie namentlich in Prosa (Canon). Humanoide Gestalt, leuchtende Augen, Neigung wartet auf Antwort. Alphinas Abstraktionsgrenze: 1 Abstraktum pro Absatz. Botanikerinnen-Linse aktiv. Puls-Leitmotiv. Keine Uhrmacher-Präzision (Memory: keine Fingerknochen/Atemzüge/Sekunden). "Moragh" nie benennen — der Ort bleibt in Thalassien-Kapiteln namenlos.
+
+Siehe `buch/kapitel-ton-referenzen.md#k15` für die Zentralstelle.
 
 ---
 

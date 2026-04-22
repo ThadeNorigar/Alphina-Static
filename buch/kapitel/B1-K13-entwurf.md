@@ -1,13 +1,21 @@
 # B1-K13 — Sorel — Entwurf
 
 **POV:** Sorel (3. Person nah, Präteritum)
-**Timeline:** 18. Mai 551 (tz_tag 138) — drei Tage nach K12
+**Timeline:** 16. Blütenmond 551 TZ laut zeitleiste.json — aber der Entwurfstext (Szene 1 Prosa, Dialog "als ob Sie mich schon länger kennen als drei Tage") setzt **drei Tage** nach K12 an. **Offener Konflikt: entweder Zeitleiste auf 18. Blütenmond korrigieren oder Entwurfstext auf "einen Tag" abschwächen.**
 **Wortziel Ausarbeitung:** 3.500–4.100 W
 **Gänsehaut-Momente:**
 1. Sorel entwickelt eine Routineplatte — und Alphina ist drauf, obwohl sie nicht dort war. Dann die nächste. Und die nächste. Überall sie. Er erklärt es sich mit der Kamera.
 2. Sie steht plötzlich an seiner Kellertür. Er lässt sie nicht rein. Er lügt glatt und weiß, dass sie es merkt.
 3. Auf dem Spaziergang: "Es geht besser." — sie stellt es fest, schaut auf seine Hand. "Seit vorgestern." — er ordnet die Heilung dem Abend im Garten zu, ohne es auszusprechen. Beide wissen welcher Abend. Keiner spricht weiter.
 4. Später, auf der Treppe: "Sie sehen mich an, als ob Sie mich schon länger kennen als drei Tage." Er weicht aus.
+
+## Ton-Referenz (Leseproben)
+
+- **Primär:** `buch/leseproben/01-banter-alphina-sorel.md` — Sorel lügt glatt an der Tür, Alphina weiß es. Reines Sie-Register.
+- **Sekundär:** `buch/leseproben/02-erster-kuss.md` — Kippmoment-Approach auf dem Spaziergang (noch nicht Kuss). `buch/leseproben/10-welt-vael-kalt.md` — Dunkelkammer-Disziplin für die Platten-Szene.
+- **Stilnotiz:** Sorel-Projektion auf Platten nie als "Resonanz" benennen — Leserin ahnt, Sorel erst in K21. "Sie sehen mich an, als ob Sie mich schon länger kennen als drei Tage" als Anker-Dialog. Sorel "Dunst" (Cross-POV). Hände-Leitmotiv. Erklärende Nachsätze vermeiden — Sorel registriert, benennt nicht.
+
+Siehe `buch/kapitel-ton-referenzen.md#k13` für die Zentralstelle.
 
 > **Zentraler Kanon-Twist:** Sorels Resonanz ist *Licht-Formung* (passt in 00-canon-kompakt: kein Röntgenblick, kein Licht-aus-dem-Nichts, aber vorhandenes Licht kann er unbewusst formen). Seine Obsession mit Alphina manifestiert sich auf den Platten: er projiziert sie dorthin, wo sie nicht war. Er denkt, die Kamera fängt etwas ein. Er weiß nicht, dass er es selbst ist. Die Leserin ahnt es ab dieser Szene, Sorel erst in K21.
 

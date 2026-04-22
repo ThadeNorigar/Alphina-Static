@@ -1,12 +1,20 @@
 # B1-K12 — Alphina + Sorel — Entwurf
 
 **POV:** Doppel-POV Alphina + Sorel (3. Person nah, Präteritum)
-**Timeline:** 15. Mai 551, Maiabend bis Nacht — Sonnenuntergang ~20:00, echte Dunkelheit nach 21:00
+**Timeline:** 15. Blütenmond 551 TZ, Abend bis Nacht — Sonnenuntergang ~20:00, echte Dunkelheit nach 21:00
 **Wortziel Ausarbeitung:** 3.750–4.500 W (drei Szenen)
 **Gänsehaut-Momente:**
 1. Alphinas Kontrollmessung: der Stein-Impuls ist schneller als am Vormittag — nah an ihrem eigenen Atemrhythmus
 2. Sorel erkennt sie an der Sehne am Daumenansatz der linken Hand, bevor er das Gesicht findet
 3. Drei Schemen auf der Mauer — sitzen, tun nichts, rauchen an den Schultern
+
+## Ton-Referenz (Leseproben)
+
+- **Primär:** `buch/leseproben/01-banter-alphina-sorel.md` — direkter Register-Zwilling. Slow-Burn-Tension, Canon-Kern: Sorel ist der Einzige bei dem Alphinas Kontrolle nicht greift. Körper bricht vor dem Kopf.
+- **Sekundär:** `buch/leseproben/02-erster-kuss.md` — Kippmoment-Struktur als Vorreferenz (noch nicht hier — Knospe für K21). `buch/leseproben/07-varen-antagonist.md` — *nur* für die drei Schemen auf der Mauer (Drohung als Atmosphäre-Schicht, nicht Figur).
+- **Stilnotiz:** Sie-Anrede (Memory-Canon bis K21). Vollständige Sätze, kein Stakkato — beide kennen das Handwerk der Höflichkeit. Körper-Mikrobeats unter der Oberfläche. Premature Doubt strikt vermeiden — beide wissen noch nichts. Alphina "Nebel", Sorel "Dunst" (Cross-POV). Welt-warm-Werte (Gaslampen, Teer, Salzwasser) neben Stein-Kälte kontrastieren.
+
+Siehe `buch/kapitel-ton-referenzen.md#k12` für die Zentralstelle.
 
 ---
 
@@ -20,11 +28,11 @@ Alphinas Zimmer im Anker, kurz nach zwanzig Uhr. Sie hat den Nachmittag damit ve
 
 Der Schlüssel liegt seit drei Wochen in ihrer rechten Manteltasche. Sie greift ihn, bevor sie den Mantel anzieht — er ist kälter als Metall sein sollte. Kälter als der Mantelstoff. Sie steckt ihn ein, denkt nicht weiter darüber nach.
 
-Vael bei Nacht. Gaslampen, die sich durch Dunst brechen. Die Gassen sind schmal, und der Hafengeruch überschichtet alles — Teer, Salzwasser, etwas Fischiges unter dem Frischen. Maiabend: die erste echte Wärme, die sich in den Steinen gehalten hat. Alphina kennt diese Strecke — Anker, Marktgasse, die Biegung mit dem Steinbogen, dann aufwärts zum Klippenrand. Sie geht ohne Lampe; die Gaslampen reichen.
+Vael bei Nacht. Gaslampen, die sich durch Dunst brechen. Die Gassen sind schmal, und der Hafengeruch überschichtet alles — Teer, Salzwasser, etwas Fischiges unter dem Frischen. Blütenmond-Abend: die erste echte Wärme, die sich in den Steinen gehalten hat. Alphina kennt diese Strecke — Anker, Marktgasse, die Biegung mit dem Steinbogen, dann aufwärts zum Klippenrand. Sie geht ohne Lampe; die Gaslampen reichen.
 
 Das grüne Haupttor. Der Schlüssel ins Schloss — ein einmaliges, präzises Klicken. Das ist ein anderes Geräusch als sie erwartet hatte. Lauter.
 
-Erster Schritt in den Garten: Kies. Dann Erde. Der Geruch wechselt sofort — von Hafen zu Erde, Chlorophyll, etwas Süßem das sie immer noch nicht benennen kann. Grillen. Maiglöckchen entlang des Hauptweges, kaum sichtbar im schwachen Licht. An der Nordmauer der Geißblattduft — schwerer, fast klebrig, typisch für die Nachtblüte im Mai.
+Erster Schritt in den Garten: Kies. Dann Erde. Der Geruch wechselt sofort — von Hafen zu Erde, Chlorophyll, etwas Süßem das sie immer noch nicht benennen kann. Rainpfeifer. Silberglöckchen entlang des Hauptweges, kaum sichtbar im schwachen Licht. An der Nordmauer der Geißblattduft — schwerer, fast klebrig, typisch für die Nachtblüte im Blütenmond.
 
 Alphina geht direkt Richtung Steinkreis. Dabei sieht sie — zwischen den Farnen links vom Weg — ein Stativ, dunkel, unverkennbar. Es steht in einer Lücke zwischen zwei Farngruppen, in der Ausrichtung auf den Steinkreis. Kein Mensch daneben. Sie bleibt stehen. Schaut, ob sich etwas bewegt. Nichts. Sie geht weiter zum Stein.
 
@@ -82,7 +90,7 @@ Er wartet nicht auf die Frau. Er wartet auf Licht. Der Unterschied ist technisch
 - Südmauer-Einbruch (Kap 10): er kennt den Weg, kein Zögern
 
 **Cross-POV-Ankerpunkte:**
-- Sorel hört das Tor-Klicken nicht — er ist zu weit weg, die Grillen überdecken es
+- Sorel hört das Tor-Klicken nicht — er ist zu weit weg, die Rainpfeifer überdecken es
 - Er stellt das Stativ so, dass er von der Position auf den Steinkreis-Hügel sehen kann
 - Er ist keine zwanzig Schritte von ihr entfernt, als sie das Stativ findet — er hat sich nicht versteckt, er hat gewartet
 
@@ -210,6 +218,6 @@ Die drei sitzen. Tun nichts. Das ist das Maul, in das Akt II geht.
 
 **Cross-POV-Ankerpunkte:**
 - Stativ zwischen den Farnen: Alphina findet es in Szene 1, Sorel stellt es in Szene 2 auf
-- Tor-Klicken: Szene 1 hört es Alphina; Szene 2 hört es Sorel nicht (Entfernung + Grillen)
+- Tor-Klicken: Szene 1 hört es Alphina; Szene 2 hört es Sorel nicht (Entfernung + Rainpfeifer)
 - Bank am Hauptweg-Ende: beide kennen sie, keine Erklärung nötig
 - Schlussbild: *Sie sah die Augen zuerst. Er sah den Rauch.* — Asymmetrie bestätigt

@@ -6,7 +6,7 @@
 **POV:** Vesper | **Perspektive:** 3. Person nah / Präteritum
 **Ort:** Karst (Innenlande)
 **Wortziel:** 3.500–4.000 Wörter (3 Szenen à ~1.200)
-**Jahreszeit:** März (zeitgleich mit Kap 1+2)
+**Jahreszeit:** Saatmond 551 TZ (zeitgleich mit Kap 1+2, zeitleiste: 24. Saatmond 551 TZ)
 
 ---
 
@@ -24,7 +24,7 @@
 ## Szene 1 — Die letzte Uhr (~1.300 W)
 
 **Ort:** Vespers Werkstatt, Hinterhof in Karst
-**Zeit:** Nachmittag, grau, November
+**Zeit:** Nachmittag, grau, Saatmond (noch kühl, feucht)
 
 Vesper repariert die letzte Taschenuhr. Danach: kein Auftrag.
 

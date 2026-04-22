@@ -6,7 +6,7 @@
 ## Meta
 
 - **POV:** Sorel, 3. Person nah / Präteritum
-- **Timeline:** Anfang April. Eine Woche nach Alphinas Ankunft (Kap 5 = Ende März). Sorel reist am Morgen nach der Platte-Entdeckung ab (Kap 2), aber die Reise ist länger als Alphinas — Nachtholm liegt weiter weg als Velde. Fähre, Flussdampfer, Kutsche = 5-6 Tage.
+- **Timeline:** 27. Saatmond 551 TZ (Zeitleiste). Drei Tage nach Alphinas Ankunft (Kap 5 = 24. Saatmond). Sorel reist am Morgen nach der Platte-Entdeckung ab (Kap 2 = 21. Saatmond), aber die Reise ist länger als Alphinas — Nachtholm liegt weiter weg als Velde. Fähre, Flussdampfer, Kutsche = 5-6 Tage.
 - **Ort:** Kutsche (Grauküste) → Vael → Lichthaus → Hafen
 - **Wortziel:** ~4.200 Wörter (3 Szenen)
 - **Anschluss:** Kap 2 endet mit Sorel auf der Fähre, Kasten auf den Knien, Nachtholm wird kleiner. Kap 6 setzt auf der letzten Etappe ein — Kutsche, Grauküste, das Meer riecht.
@@ -123,7 +123,7 @@ Sorel geht nachts zum Hafen. Will den Ort von der Platte sehen — im Dunkeln, w
 |---|-----|--------|
 | 1 | Schemen-Wahrnehmung assoziativ statt katalogisch. Körperreaktion (Kälte in Händen, Atem stockt) VOR Details. | Stilistin + Leserin |
 | 2 | Plattenentwicklung in den Keller verlegt (nach Rückkehr vom Hafen). | Kontinu. + Leserin |
-| 3 | Timeline: 1 Woche nach Alphina, Anfang April. Sorel reist am Tag nach der Entdeckung ab, Reise dauert 5-6 Tage. | Autor-Vorgabe |
+| 3 | Timeline: 3 Tage nach Alphina, 27. Saatmond. Sorel reist am Tag nach der Entdeckung ab (21. Saatmond), Reise dauert 5-6 Tage. | Autor-Vorgabe |
 | 4 | Kaminfeuer-Referenz gestrichen. Tschechow-Verbindung läuft über Schemen (Alphinas Rauch-Tiere Kap 5 ↔ Sorels humanoide Figur). | Autor-Korrektur (Kap 5 FINAL hat kein Kaminfeuer) |
 | 5 | Hände-Leitmotiv sinnlich: Hände im Tageslicht bleich/fremd, Hände die kalt werden bei der Begegnung, Hände die automatisch zur Kamera greifen. | Stilistin |
 | 6 | Rückblende "263 Gesichter" nach Szene 2 verschoben (Keller-Vergleich statt Kutsche). | Lektorin + Leserin |

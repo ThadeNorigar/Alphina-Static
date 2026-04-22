@@ -6,7 +6,7 @@
 **Status:** entwurf
 **POV:** Vesper, 3.P/Präteritum, engste Person
 **Wortziel:** ~4.200 Wörter (3 Szenen: ~1.300 / ~1.400 / ~1.500)
-**Position im Akt I:** 14. Mai 551 · 5 Wochen 4 Tage in Vael (seit Kap 7 = 10. April)
+**Position im Akt I:** 14. Blütenmond 551 TZ · 2 Wochen 2 Tage in Vael (seit Kap 7 = 28. Saatmond)
 
 ---
 
@@ -37,21 +37,21 @@ Drei Schichten, die sich übereinander schieben:
 
 ### Timeline
 
-- **Tag:** 14. Mai 551. 5 Wochen 4 Tage seit Vespers Ankunft in Vael (Kap 7 = 10. April).
+- **Tag:** 14. Blütenmond 551 TZ (Zeitleiste). 2 Wochen 2 Tage seit Vespers Ankunft in Vael (Kap 7 = 28. Saatmond).
 - **Wetter:** Frühsommer, kippt spürbar. Tagsüber dünner Dunst, mittags Aufklaren, abends kühler Wind vom Meer, der die Gassen leerfegt und die Gaslampen schneller flackern lässt. Nachts Mondlicht durch einen halb-durchsichtigen Schleier — dasselbe Wetter wie Kap 10 Tag + 1.
 - **Tageszeit Kapitel:** Spätvormittag (Schankraum-Arbeitstisch) → Nachmittag (Gang zur Druckerei, zurück) → Abend (Zimmer im Anker, Alphinas Klopfen).
-- **Zeit seit letzter Vesper-Szene (Kap 7):** 34 Tage. In diesen 34 Tagen hat er:
+- **Zeit seit letzter Vesper-Szene (Kap 7):** 16 Tage. In dieser Zeit hat er:
   - das Tidemoor-Haus viermal pro Woche besucht, ohne die Uhr ein weiteres Mal berühren zu müssen — es reicht, wenn er im Raum ist
   - 17 abweichende Uhren in Vael in ein handgezeichnetes Notizbuch eingetragen, mit Adresse, Abweichung pro Tag, Datum der Messung
   - mit dem Wirt ein Arrangement: Kost und Logis gegen Reparatur der Taschenuhren der Gäste — seit einer Woche hat er dafür den kleinen Tisch rechts im Schankraum als Arbeitsplatz
-  - seinen Turm nicht aus der Jackentasche genommen, außer nachts am Waschkrug
+  - seinen Turm nicht aus der Manteltasche genommen, außer nachts am Waschkrug
   - nichts über die Magd im Tidemoor-Haus an irgendjemanden gesagt — sie kommt in diesem Kapitel NICHT vor
-- **Konsistenzcheck Akt I:**
-  - Kap 8 (Maren) = 10. Mai
-  - Kap 9 (Alphina) = 11. Mai
-  - Kap 10 (Sorel) = 13. Mai
-  - **Kap 11 (Vesper) = 14. Mai**
-  - Kap 12 (Alphina + Sorel) = 15. Mai
+- **Konsistenzcheck Akt I (aus zeitleiste.json):**
+  - Kap 8 (Maren) = 10. Blütenmond 551 TZ
+  - Kap 9 (Alphina) = 11. Blütenmond
+  - Kap 10 (Sorel) = 13. Blütenmond
+  - **Kap 11 (Vesper) = 14. Blütenmond**
+  - Kap 12 (Alphina + Sorel) = 15. Blütenmond
 
 ### Aktplan-Check (gegen `02-akt1.md` aktuelle Fassung)
 

@@ -1,10 +1,18 @@
 # B1-K18 — Vesper — Entwurf
 
 **POV:** Vesper (3. Person nah, Präteritum)
-**Timeline:** 21. Blütenmond 551 TZ · 7 Wochen 6 Tage in Vael
+**Timeline:** 19. Blütenmond 551 TZ laut zeitleiste.json (Entwurf stand auf 21. Blütenmond — zu klären).
 **Vorgänger:** K17 (Vesper bringt Uhr zurück, Maren zeigt Wasser-Resonanz), K16 (Sorel entdeckt seine Resonanz)
 **Wortziel Ausarbeitung:** 4.000–4.500 W
 **Gänsehaut-Moment:** Der schwarze Schachturm — fünfzehn Wochen in Vespers Tasche, immer kalt, hat seine Körperwärme nie angenommen — wird für einen einzigen Atemzug warm, während Vesper die vierte Resonanz nennt. Dann wieder kalt.
+
+## Ton-Referenz (Leseproben)
+
+- **Primär:** `buch/leseproben/10-welt-vael-kalt.md` — analytische Präzision, Vesper-Register direkt.
+- **Sekundär:** `buch/leseproben/12-gruppenszene-tension.md` — zwei Männer im selben Register, verteilte Beobachtung (Vesper aktiv-kalkulierend, Sorel passiv-beobachtend).
+- **Stilnotiz:** Kein BDSM-Register (Maren nicht im Bild). Vesper analytisch-kalt. Sorel-Dialoge kurz — Vesper fragt, Sorel antwortet mit Fotografen-Vokabular (Dunst, Grauwert). Turm-Leitmotiv — fünfzehn Wochen kalt, einmaliges Warm-Werden. Wenn-Dann-Ketten in vollständigen Sätzen. "Resonanz" NIE in Prosa — Vesper sagt "das Vierte", "das Muster", "was das Wasser tut".
+
+Siehe `buch/kapitel-ton-referenzen.md#k18` für die Zentralstelle.
 
 ---
 

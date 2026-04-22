@@ -5,6 +5,16 @@
 **Wortziel Ausarbeitung:** 1.600–2.000 W (Interludium-Format)
 **Gänsehaut-Moment:** Elke sieht durch den Riss — absolute Schwärze, durchzogen von einem gleißenden Bogen aus Licht. Kein Mond. Kein Licht. Das Schwarze Loch. Der dritte Schemen dreht sich auf sie. Sie springt. Kesper schafft es nicht.
 
+## Ton-Referenz (Leseproben)
+
+- **Primär:** `buch/leseproben/08-magie-kontrollverlust.md` — Körper übernimmt, Eskalation, Unverständnis. Elkes Sprung durch den Riss ist Körper-Entscheidung ohne kognitiven Vorlauf.
+- **Sekundär:** `buch/leseproben/13-krieg-schlachtfeld.md` — Kampfszene im Garten, Keldans Tod, Feuer-Schemen. Register für Kampf-Körper-Takt. `buch/leseproben/15-post-krieg-ruine.md` — nur atmosphärisch für das Schluss-Bild (Vael brennt, Lene überlebt allein).
+- **Stilnotiz:** Manuskript-Stimme fortführen (Chronik-Ton wie I1/I2). Schwarzes Loch mit 1423er-Vokabular beschreiben: Sonnenfinsternis-Kranz, Abgrund, Naht, Saum der Welt. Kein "wie etwas das…". Kein moderner Begriff. Kespers Tod als Körper-Fakt, nicht Trauer-Beat. Anrede Ihr/Euch, Maße in Schritt/Elle/Klafter.
+
+Siehe `buch/kapitel-ton-referenzen.md` für die Zentralstelle.
+
+---
+
 ## Grundprinzipien für die Ausarbeitung (Canon)
 
 - **Quelle ist indifferent.** Pulsiert gleichmäßig, reagiert nicht auf Menschen, gibt keine Impulse. Kein Anziehen, kein Drängen der anderen Seite. Das ist Elkes eigene Wahrnehmung ihrer Resonanz — nicht die Quelle die redet.

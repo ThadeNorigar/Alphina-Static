@@ -1,12 +1,20 @@
 # B1-K19 — Alle (Alphina-Anker) — Entwurf
 
 **POV:** Ensemble · Alphina als primärer Anker, alle vier POV-Figuren aktiv
-**Timeline:** 22. Blütenmond 551 TZ · 8 Wochen 4 Tage in Vael (Alphina)
+**Timeline:** 20. Blütenmond 551 TZ laut zeitleiste.json. **Offener Konflikt:** Entwurf hatte "22. Blütenmond · 8 Wochen 4 Tage" — Zeitleiste sagt 20. Blütenmond. Zu klären.
 **Vorgänger:** K18 (Vesper und Sorel beschließen das Treffen), K17 (Vesper sagt Maren "Du musst Alphina kennenlernen")
 **Wortziel Ausarbeitung:** 5.500–6.500 W (größtes Kapitel des Akts)
 **Gänsehaut-Moment:** Die Wurzel-Skulptur — lebendiges Holz in der exakten Form des Schemen-Körpers, niemand hat sie gemeißelt, niemand hat sie bestellt. Sie stehen davor und verstehen: das haben vier Menschen erschaffen, ohne es zu wollen.
 
 **Hinweis POV-Struktur:** Ensemble-Kapitel. Alphina trägt den Hauptfaden, aber jede der vier Figuren hat einen klar markierten Handlungsmoment in dem ihre Berufslinse und Resonanz sichtbar wird. POV-Wechsel werden im Entwurf markiert, müssen in der Ausarbeitung durch Szenen-Brüche oder deutliche Perspektiv-Signale gelöst werden.
+
+## Ton-Referenz (Leseproben)
+
+- **Primär:** `buch/leseproben/12-gruppenszene-tension.md` — POV-Verflechtung, verteilte Körperbeats, Bardugo-Register. Direkter Register-Zwilling für Ensemble-Kapitel.
+- **Sekundär:** `buch/leseproben/08-magie-kontrollverlust.md` — wenn Magie aktiv wird (Alphina Wachstum, Sorel Licht-Formung, Vesper Zeit-Stocken, Maren Wasser). `buch/leseproben/13-krieg-schlachtfeld.md` — *nur* für den Kampf-Körper-Takt, nicht für den Ton (kein Gewaltregister hier).
+- **Stilnotiz:** Dialog-Rhythmus Gruppenszene (Memory-Canon): keine Reihum-Monologe, Körperbeats/Blicke/Unterbrechungen verflechten. POV-Wechsel klar markiert (Szenenbruch oder deutliches Perspektiv-Signal). Sorel hält Alphinas Handgelenke zurück (Tschechow für K21 — nicht als Sub-Geste, als Schutz). Jede Figur hat einen kleinen Handlungs-Moment in ihrer Berufslinse (Alphina: Pflanze wächst; Sorel: Platten; Vesper: Takt; Maren: Wasser). "Resonanz" NIE in Prosa.
+
+Siehe `buch/kapitel-ton-referenzen.md#k19` für die Zentralstelle.
 
 ---
 

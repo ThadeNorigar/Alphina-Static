@@ -1,10 +1,18 @@
 # B1-K16 — Sorel — Entwurf
 
 **POV:** Sorel (3. Person nah, Präteritum)
-**Timeline:** 20. Blütenmond 551 TZ · 7 Wochen 6 Tage in Vael (gleichzeitig mit K15, K17)
+**Timeline:** 18. Blütenmond 551 TZ laut zeitleiste.json (gleichzeitig mit K15). **Offener Konflikt:** Entwurf hatte ursprünglich "20. Blütenmond · 7 Wochen 6 Tage in Vael (gleichzeitig K15, K17)" — Zeitleiste sagt K15 = K16 = 18. Blütenmond, K17 = 19. Blütenmond. Zu klären: Zeitleiste oder Entwurf anpassen.
 **Vorgänger:** K15 (Alphina am Hafen, Sorel fotografiert, Blickkontakt ohne Wort)
 **Wortziel Ausarbeitung:** 4.000–4.500 W
 **Gänsehaut-Moment:** Eine unbelichtete Platte aus versiegelter Fabrik-Schachtel zeigt Sorels eigenes Gesicht — seine jetzige Angst, verzerrt, von innen gesehen, fixiert auf Glas bevor die Platte die Dunkelkammer verlassen hat.
+
+## Ton-Referenz (Leseproben)
+
+- **Primär:** `buch/leseproben/08-magie-kontrollverlust.md` — Körper übernimmt, Magie als Körper-Ereignis (hier: Silber formt sich ohne Licht, Gesicht auf unbelichteter Platte).
+- **Sekundär:** `buch/leseproben/10-welt-vael-kalt.md` — Dunkelkammer-Disziplin, analytische Präzision, benannte Einzeldetails.
+- **Stilnotiz:** Sorel versteht es NICHT sofort. Körper weiß, Kopf nicht. Silber reagiert ohne Licht — er zählt Wiederholungen, keine Interpretation. "Resonanz" als Wort nie in Prosa, auch nicht intern (Sorel hat keinen Begriff). Hände-Leitmotiv. Dunkelkammer-Vokabular tragend (Rotlicht, Emulsion, Fixierer, Silber, latentes Bild). "Dunst" (Cross-POV). Premature Doubt strikt vermeiden — Sorel zweifelt erst, wenn genug Plattenreihen das Muster bestätigen.
+
+Siehe `buch/kapitel-ton-referenzen.md#k16` für die Zentralstelle.
 
 ---
 

@@ -1,9 +1,17 @@
 # B1-K21 — Alphina — Entwurf
 
 **POV:** Alphina (3. Person nah, Präteritum)
-**Timeline:** 23. Blütenmond 551 TZ · Parallel zu K20 (Maren+Vesper im Archiv), einen Tag nach K19 (dem Kampf im Garten)
+**Timeline:** 21. Blütenmond 551 TZ laut zeitleiste.json · Parallel zu K20 (Maren+Vesper im Archiv), einen Tag nach K19 (Kampf im Garten). **Offener Konflikt:** Entwurf hatte "23. Blütenmond" — zu klären.
 **Wortziel Ausarbeitung:** 4.000–4.500 W
 **Gänsehaut-Moment:** Das Nacktbild ist keine Fotografie — es ist eine Projektion aus seinem Inneren. Sie existiert auf Platten, bei denen sie nie war. Das Silber hat sich nach seinem Bild von ihr geformt. Physisch unmöglich. Gleichzeitig das Zärtlichste und das Erschreckendste, was je mit ihr gemacht wurde.
+
+## Ton-Referenz (Leseproben)
+
+- **Primär:** `buch/leseproben/02-erster-kuss.md` — Kippmoment-Struktur. Sorel bricht Alphinas Kontrolle, Körper übernimmt. Dominante Referenz für das Umschlagen.
+- **Sekundär:** `buch/leseproben/03-heat-alphina-sorel.md` — falls Szene nach der Enthüllung in Intimität kippt: direkte Anatomie ohne BDSM-Register, Führung durch Alphina aus Charakter. `buch/leseproben/01-banter-alphina-sorel.md` — Grundton davor.
+- **Stilnotiz:** **Memory-Canon: Du/Sie-Wechsel genau hier** — Sie bis zum Kipp-Moment, Du erst nach der Sexszene. Nacktbild = Projektion (physisch unmöglich, zärtlichste und erschreckendste Geste). **Canon: Alphina/Sorel kein BDSM** — keine Sub-Gesten bei Sorel, seine Grenzen kommen aus Charakter ("sie führt, er hat Grenzen"). Puls vermeiden (bevorzugt Atem/Muskel/Kehle). **Sorel riecht nach Haut/Leinen/Abendluft in Nähe-Szenen, NICHT nach Chemie** (Memory). Rotlicht-Filter als sensorischer Anker.
+
+Siehe `buch/kapitel-ton-referenzen.md#k21` für die Zentralstelle.
 
 ---
 

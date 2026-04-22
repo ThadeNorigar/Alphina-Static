@@ -145,6 +145,7 @@
     <div class="scene-header">
       <div class="scene-id" id="scene-id"></div>
       <h1 class="scene-title" id="scene-title"></h1>
+      <p style="font-family: 'Cormorant Garamond', serif; font-size: 0.8rem; color: var(--smoke); margin-top: 1rem; font-style: italic;">Legacy-Szenenpläne (Stand 22.&nbsp;Apr&nbsp;2026 archiviert). Die aktuelle Pipeline arbeitet direkt mit Entwurf und Kapitel — siehe <a href="/story-in-work/" style="color: var(--accent);">Arbeitsansicht</a>.</p>
     </div>
 
     <div class="prose" id="scene-content"></div>
@@ -248,7 +249,7 @@
       });
 
       // Load content
-      fetch('/buch/szenen/' + current + '.md')
+      fetch('/buch/szenen/_archiv_2026-04-22/' + current + '.md')
         .then(r => r.text())
         .then(md => {
           const lines = md.split('\n');

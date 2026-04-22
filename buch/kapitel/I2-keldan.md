@@ -1,6 +1,6 @@
 # Elke
 
-*Frostmond 154 · 6 Wochen in Vael*
+*15. Frostmond 154 · 6 Wochen in Vael*
 
 Der Frostmond lag auf Vael, und die Schmiede am Hafen lag tief, halb in den Fels gebaut, und das Feuer in der Esse brannte seit dem Morgen. Elke hörte den Hammer drei Gassen weit — ein einzelner Schlag, dann Stille, dann ein zweiter, langsamer als er hätte sein sollen, als dächte der Mann zwischen den Schlägen nach.
 

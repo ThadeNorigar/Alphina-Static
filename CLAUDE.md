@@ -62,12 +62,13 @@ Ebene  Typ                Dateien                             Inhalt
   5    Zeitleiste         zeitleiste.json, status.json        SoT: Reihenfolge, POV, Events.
                                                              GEWINNT bei Konflikten.
   6    Aktpläne           02-akt1.md bis 05-akt4.md           Beats, Tschechow. Folgt Zeitleiste.
-  7    Szenenpläne        szenen/{KK}-{SS}.md                 Detaillierte Beats.
- 8-9   Entwürfe/Drafts    kapitel/{ID}-entwurf.md             Plot → Prosa.
-  10   Finale Kapitel     kapitel/{ID}-{name}.md              Was die Leserin liest.
+  7    Entwürfe           kapitel/{ID}-entwurf.md             Plot → Prosa, Szenen inline.
+  8    Finale Kapitel     kapitel/{ID}-{name}.md              Was die Leserin liest.
 ```
 
-**Kaskaden-Regel:** Änderung auf Ebene N invalidiert N+1 bis 10. Abwärts durcharbeiten.
+**Szenenpläne sind Legacy.** `buch/szenen/*.md` wurde am 22. Apr 2026 nach `buch/szenen/_archiv_2026-04-22/` verschoben. Die Pipeline v2 liest sie nicht — die detaillierten Szenen-Beats leben jetzt inline im jeweiligen Entwurf (`## Szene 1 — ...` mit Wortziel, Beats, Tschechow-Waffen, Dialog-Infos).
+
+**Kaskaden-Regel:** Änderung auf Ebene N invalidiert N+1 bis 8. Abwärts durcharbeiten.
 
 ## Kapitel-Pipeline (v2)
 
