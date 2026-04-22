@@ -34,12 +34,9 @@ MAIN_FIGURES = {
     "Nyr", "Elke", "Lene", "Haron", "Talven", "Kesper", "Keldan",
 }
 
-AKTPLAN_MAP = {
-    "02-akt1.md": lambda k: not k.startswith("I") and int(k) <= 12 or k in ("I1", "I2", "I3"),
-    "03-akt2.md": lambda k: not k.startswith("I") and 13 <= int(k) <= 22 if not k.startswith("I") else False,
-    "04-akt3.md": lambda k: not k.startswith("I") and 23 <= int(k) <= 33 if not k.startswith("I") else False,
-    "05-akt4.md": lambda k: not k.startswith("I") and 34 <= int(k) <= 41 if not k.startswith("I") else False,
-}
+# Aktplan-Dateien fuer K1-K22/I1-I3 wurden am 22. Apr 2026 nach _archiv/
+# verschoben (alle enthaltenen Kapitel final). Fallback-Pfade werden von
+# get_aktplan_file() geliefert; finale Kapitel brauchen die Pipeline nicht mehr.
 
 
 def load_json(path):
@@ -130,17 +127,21 @@ def kap_is_before(kap_str, target, order):
 
 
 def get_aktplan_file(kap_num):
-    """Determine which aktplan file to use."""
+    """Determine which aktplan file to use.
+
+    Akt1 und Akt2 (K1-K22, I1-I3) sind finale Kapitel — Aktplan nach
+    buch/_archiv/ verschoben. Fuer Lookup aus dem Archiv holen.
+    """
     if kap_num.startswith("I"):
-        return "02-akt1.md"
+        return "_archiv/02-akt1.md"
     try:
         n = int(kap_num)
     except ValueError:
         return None
     if n <= 12:
-        return "02-akt1.md"
+        return "_archiv/02-akt1.md"
     elif n <= 22:
-        return "03-akt2.md"
+        return "_archiv/03-akt2.md"
     elif n <= 33:
         return "04-akt3.md"
     elif n <= 41:

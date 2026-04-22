@@ -61,10 +61,12 @@ Ebene  Typ                Dateien                             Inhalt
   4    Storyline          00-storyline.md                     Gesamtbogen.
   5    Zeitleiste         zeitleiste.json, status.json        SoT: Reihenfolge, POV, Events.
                                                              GEWINNT bei Konflikten.
-  6    Aktpläne           02-akt1.md bis 05-akt4.md           Beats, Tschechow. Folgt Zeitleiste.
+  6    Aktpläne           04-akt3.md, 05-akt4.md              Beats, Tschechow für offene Kapitel.
   7    Entwürfe           kapitel/{ID}-entwurf.md             Plot → Prosa, Szenen inline.
   8    Finale Kapitel     kapitel/{ID}-{name}.md              Was die Leserin liest.
 ```
+
+**Aktpläne Akt 1+2 sind archiviert.** Für alle finalen Kapitel (K1-K22 + I1-I3) hat das finale Kapitel Vorrang — Aktplan `02-akt1.md` und `03-akt2.md` wurden am 22. Apr 2026 nach `buch/_archiv/` verschoben. Der Kontext-Extraktor (`scripts/kapitel-kontext.py`) greift für diese Kapitel weiter auf das Archiv zu, falls nötig.
 
 **Szenenpläne sind Legacy.** `buch/szenen/*.md` wurde am 22. Apr 2026 nach `buch/szenen/_archiv_2026-04-22/` verschoben. Die Pipeline v2 liest sie nicht — die detaillierten Szenen-Beats leben jetzt inline im jeweiligen Entwurf (`## Szene 1 — ...` mit Wortziel, Beats, Tschechow-Waffen, Dialog-Infos).
 
