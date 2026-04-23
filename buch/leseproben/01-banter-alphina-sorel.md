@@ -7,14 +7,14 @@ heat_level: leise
 primaer_referenz: Yarros (Fourth Wing) — Banter als Kontrollbruch, Körperbeats
 ergaenzende_referenz: Maas (ACOTAR) — Sub-Text durch Körper, Robert (Neon Gods) — Antagonist-Weigerung
 zweck: Ton-Referenz für Alphina/Sorel-Slow-Burn im Sie-Register. Canon-Kern: Sorel ist der Einzige, bei dem Alphinas Kontrolle NICHT greift — der Dialog muss das zeigen. Sie kommandiert, er sagt nein, sie muss nachgeben oder sich zurücknehmen. Welt greift ein (Kutsche), Körper bricht vor dem Kopf (Knie, Nacken, Handgelenk).
-canon_status: Ton-Etüde, nicht Plot-Canon. Spielt im frühen Sommer nach Alphinas Ankunft, vor K17. Sie-Register (pre-K21). Zweite Version nach Council-Findings — Sorel-Charakter-Verstoß in v1 korrigiert, 95%-Commercial-Gate eingebaut.
+canon_status: Ton-Etüde, nicht Plot-Canon. Spielt im frühen Sommer nach Alphinas Ankunft, vor K17. Sie-Register (pre-K21). Dritte Version nach Autor-Feedback — Scharnier-Aphorismus-Doppel (Z.53) entfernt, Emotions-Substantiv "Ärger" (Z.17) auf Verb reduziert. v2 hatte Council-Fixes für Sorel-Charakter und 95%-Gate.
 ---
 
 Alphina hatte ihn drei Tage lang gemieden und war sich dabei wie eine Idiotin vorgekommen, und jetzt stand er mitten in der Hafengasse, als hätte er gewusst, welchen Weg sie heute nehmen würde.
 
 Sie blieb stehen, zu spät. Er hatte sie schon gesehen; das erkannte sie daran, wie ruhig er stand. Kamera über der Schulter, Stativ in der Linken. Drei Schritte zwischen ihnen. Sie konnte zurück. Sie konnte vorbei. Sie tat keins von beidem.
 
-Er nickte einmal. Sie nickte zurück — zu kurz. Ihr Nacken war fester als ihre Knie. Das ärgerte sie, und der Ärger machte die Knie nicht besser. Sie setzte den Korb auf der Seite ab, auf der sie ihn nicht getragen hatte — nur damit sie etwas mit den Händen tat.
+Er nickte einmal. Sie nickte zurück — zu kurz. Ihr Nacken war fester als ihre Knie, und das ärgerte sie. Die Knie wurden davon nicht besser. Sie setzte den Korb auf der Seite ab, auf der sie ihn nicht getragen hatte — nur damit sie etwas mit den Händen tat.
 
 Eine Kutsche kam durch die Gasse, zu schnell. Sorel trat zur Seite, an die Mauer. Er fing sie nicht auf. Er zog sie nicht mit. Er machte Platz, und sie trat von sich aus nach, und jetzt standen sie beide an der Mauer, nebeneinander, weniger als eine Armlänge Abstand. Er sah geradeaus. Sie sah geradeaus.
 
@@ -50,7 +50,7 @@ Sie atmete durch die Nase aus. Unter den Rippen zog sich etwas zusammen, was sie
 
 »Wenn ich frei habe. Nicht nach Ansage.«
 
-Er sah sie jetzt an. Graue Augen, nichts darin. Er war kein Mann, der etwas zeigte. Das war vielleicht das Problem. Das war vielleicht nicht das Problem.
+Er sah sie jetzt an. Graue Augen, nichts darin. Er war kein Mann, der etwas zeigte.
 
 »Gut«, sagte sie.
 
@@ -58,4 +58,4 @@ Er sah sie jetzt an. Graue Augen, nichts darin. Er war kein Mann, der etwas zeig
 
 »Gut.«
 
-Sie nahm den Korb auf. Ihr Handgelenk protestierte, weil sie die Hand zu lange angespannt gehalten hatte. Sie ging die Gasse weiter, in die Richtung, in der sie eigentlich nicht hatte gehen wollen, und sie ging zu schnell, und sie wusste, dass er ihr nicht nachsah, weil das nicht seine Art war, und sie musste sich zwingen, nicht zurückzusehen, um zu prüfen, ob sie recht hatte.
+Sie nahm den Korb auf. Ihr Handgelenk protestierte, weil sie die Hand zu lange angespannt gehalten hatte. Sie ging die Gasse weiter, in die Richtung, in der sie eigentlich nicht hatte gehen wollen, und sie ging zu schnell. Er sah ihr nicht nach. Das war nicht seine Art. Sie musste sich zwingen, nicht zurückzusehen, um zu prüfen, ob sie recht hatte.
