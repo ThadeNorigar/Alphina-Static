@@ -18,7 +18,7 @@ Durchs Fenster kam Dravek-Licht. Sie hatte das Licht in den ersten Wochen merkw�
 
 »Ich hätte es irgendwann wirklich gekonnt«, hatte er gesagt.
 
-Das war seine letzte Satz gewesen. Er hatte die Augen dabei nicht abgewandt, und sie hatte in diesem Moment schon gewusst — sie hatte gewusst, bevor er sagte —, dass sie einen Fehler machte. Sie war trotzdem nicht stehengeblieben.
+Das war sein letzter Satz gewesen. Er hatte die Augen dabei nicht abgewandt, und sie hatte in diesem Moment schon gewusst — sie hatte gewusst, bevor er zu Ende sprach —, dass sie einen Fehler machte. Sie war trotzdem nicht stehengeblieben.
 
 Der Kamm wog wenig. Er hatte ihn jeden Abend durchs Haar gezogen. Sie hatte ihn einmal dabei gesehen, von der Tür aus, und er hatte nicht aufgesehen, und sie war weitergegangen, ohne einzutreten, weil das zu den Dingen gehörte, die sie ihm gönnte — ein Abend, an dem er nichts als seine Haare war.
 
@@ -34,9 +34,9 @@ Talven war tot. Das hatte sie getan. Das war nicht richtig gewesen.
 
 Die beiden Sätze lagen nebeneinander wie zwei Steine, und keiner neutralisierte den anderen. Sie hatte lange gebraucht, um das zu verstehen: dass eine richtige Tat eine falsche Tat nicht aufhob. Sie rechneten nicht gegeneinander auf.
 
-Sie würde mit dem Kamm nichts machen. Sie würde ihn nicht tragen. Sie würde ihn nicht begraben. Sie würde ihn in die Schublade legen, unten, wo sie ihn jeden Morgen und jeden Abend sehen konnte, wenn sie sie öffnete. Das war die Strafe, die sie sich selbst zugemessen hatte — nicht öffentlich, nicht ausgesprochen, nicht verhandelbar.
+Sie würde mit dem Kamm nichts machen. Ihn nicht tragen. Ihn nicht begraben. Sie würde ihn in die Schublade legen, unten, wo sie ihn jeden Morgen und jeden Abend sehen konnte, wenn sie sie öffnete. Das war die Strafe, die sie sich selbst zugemessen hatte — nicht öffentlich, nicht ausgesprochen, nicht verhandelbar.
 
-Der Daumen ihrer linken Hand zuckte. Einmal. Die Nervenden, die nicht mehr zu den Fingern führten, die nicht mehr da waren, meldeten sich ab und zu.
+Der Daumen ihrer linken Hand zuckte. Einmal. Die Nervenden meldeten sich ab und zu. Sie führten zu Fingern, die nicht mehr da waren.
 
 Sie sah auf die Hand. Dann auf den Kamm. Dann wieder auf die Hand.
 
