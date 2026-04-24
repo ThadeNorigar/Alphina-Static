@@ -137,7 +137,7 @@ def render_html(proben):
             return (s or "").replace('"', "&quot;").replace("<", "&lt;").replace(">", "&gt;")
 
         card = f'''
-        <div class="probe-card" data-nr="{nr_str}" data-pov="{esc(pov)}" data-heat="{esc(heat)}" data-skeleton="{1 if p["is_skeleton"] else 0}">
+        <div class="probe-card" id="p-{nr_str}" data-nr="{nr_str}" data-pov="{esc(pov)}" data-heat="{esc(heat)}" data-skeleton="{1 if p["is_skeleton"] else 0}">
           <div class="probe-head">
             <div class="probe-left">
               <div class="probe-num">Nr. {nr_str}</div>
@@ -392,6 +392,23 @@ def render_html(proben):
         }}
       }});
     }});
+
+    // Auto-open per URL-Hash (#p-XX) + scroll
+    function openFromHash() {{
+      const hash = window.location.hash;
+      if (!hash || !hash.startsWith('#p-')) return;
+      const card = document.querySelector(hash);
+      if (!card) return;
+      const head = card.querySelector('.probe-head');
+      const body = card.querySelector('.probe-body');
+      if (head && body && !body.classList.contains('open')) {{
+        head.classList.add('open');
+        body.classList.add('open');
+      }}
+      setTimeout(() => card.scrollIntoView({{ behavior: 'smooth', block: 'start' }}), 50);
+    }}
+    openFromHash();
+    window.addEventListener('hashchange', openFromHash);
 
     // Filter
     const filterBar = document.getElementById('filter-bar');
