@@ -4,6 +4,7 @@ lesen/I*/index.html
 story-in-work/lektorat-versions/*.json
 story/data/synopsen.json
 story-in-work/data/figuren.json
+story-in-work/leseproben.html
 
 # Lokale Claude-Settings
 .claude/settings.local.json
@@ -15,3 +16,6 @@ buch/zeitleiste.OLD.json
 # Python-Cache
 __pycache__/
 *.pyc
+
+# Externe Referenz-Texte (urheberrechtlich geschützt — nur lokal, nie committen)
+buch/referenzen/
