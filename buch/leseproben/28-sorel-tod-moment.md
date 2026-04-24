@@ -1,54 +1,71 @@
 ---
 kategorie: Sorel-Tod im Moment (Grief akut)
 pov: Alphina
-figuren: Alphina, Sorel (sterbend), Varen
+figuren: Alphina, Sorel (sterbend), Varen, die anderen (Maren, Vesper, Runa, alle am Rand)
 register: Verlust im Augenblick, keine Prozessierung, Körper übernimmt
 heat_level: Verzweiflung + Gewalt
 primaer_referenz: Yarros — Emotion-Peak mit Körper vor Kopf; Maas (ACOTAR Emotions-Höhen) — Verlust-Register
 ergaenzende_referenz: Kuang für den Kontext-Moment (Varens Abwehr); SenLinYu für Schock-Dissoziation
-zweck: Der akute Verlust-Moment. #19 zeigt narbige Ruhe Jahre später, #11 zeigt die Nacht danach. DIESE Probe zeigt den Tod im Moment — Varens übermäßige Abwehr, Sorel sterbend, Alphinas Körper-Explosion (Dornen, Vegetation). Eigenes Register: Grief + Gewalt + Magie-Kontrollverlust in einem.
-canon_status: ENTWURF — Skelett, wird in Folge-Session ausgearbeitet.
+zweck: Der akute Verlust-Moment. Varens Abwehr ist geschehen, Sorel sterbend, Alphinas Körper-Explosion (Dornen, Vegetation, eigene Leute verletzt). Eigenes Register: Grief + Gewalt + Magie-Kontrollverlust in einem.
+canon_status: Ton-Etüde, nicht Plot-Canon.
 ---
 
-# ENTWURF — Sorel-Tod im Moment
+Sorel lag auf der Seite.
 
-**Status:** Skizze. Prosa folgt in neuer Session.
+Seine Hand war unter seinem Körper, und Alphina sah den Rand davon, den Zeigefinger, die Knöchel, und sie dachte: er hält sich fest. Er hielt sich an nichts, weil nichts da war zum Festhalten, aber ihre Augen lasen es so. Seine andere Hand lag offen neben seiner Hüfte. Darunter, durch das Hemd, breitete sich eine dunkle Stelle. Dunkel und größer werdend.
 
-## Szene-Idee
+Varen kniete neben ihm. Nicht nah genug, um ihn zu berühren. Nah genug, um zuzusehen.
 
-B1 K35. Unmittelbar nach dem Portal-Durchgang. Varen hat Alphinas Kinn berührt, Sorel hat sich dazwischengestellt, Varens Abwehr war übermäßig. Sorel sterbend am Boden. Varen könnte retten — tut es nicht. Alphinas Körper explodiert: Dornen, Vegetation, eigene Leute verletzt.
+Alphina war drei Schritte entfernt, und die drei Schritte waren das Längste, was sie in ihrem Leben gegangen war. Sie bewegte sich auf Sorel zu, und bevor sie am Ziel war, kniete Varen sich eine Handbreit näher und legte zwei Finger auf Sorels Augenlider und drückte sie nach unten. Sanft. So sanft, wie es bei einem Kind war, das nicht einschlafen wollte.
 
-## Beats (provisorisch)
+Sorel zuckte nicht. Seine Brust hob sich noch. Einmal. Noch einmal.
 
-- Unmittelbar nach dem Durchgang durchs Portal
-- Sorels Position: am Boden, Wunde
-- Varen über ihm, ruhige Stimme
-- Varen deckt Sorels Augen zu — Canon-Geste
-- Varen flüstert ein Wort auf altem Thalassisch — Canon, verfolgt Alphina später
-- Alphina versucht zu Sorel — ihr Körper überholt sie
-- Dornen explodieren aus dem Boden, aus ihren Händen, Vegetation
-- Sie verletzt eigene Leute (Runa? Vesper? Maren?) unabsichtlich
-- Varen zieht sich zurück, keine direkte Konfrontation
-- Schluss: Alphina kniet, Sorel tot, die anderen verletzt
-- "Grab aus fremder Erde" ist NICHT in dieser Probe (eigene Szene K36)
+Varen sagte ein Wort.
 
-## Referenz-Zielbild
+Das Wort war kurz, drei Silben, und es war nicht in einer Sprache, die Alphina kannte — nicht Moraghisch, nicht Thalassisch, etwas darunter. Er sprach es leise, zu Sorel, und sein Mund formte es sauber, als hätte er es oft gesprochen und würde es jetzt wiedergeben wie etwas Auswendiges. Die Luft im Raum, die eben noch gebebt hatte, blieb still auf der Länge des Wortes.
 
-Yarros-Körper-übernimmt (Probe #08-Magie-Kontrollverlust war kleiner Vorgeschmack). Maas-ACOTAR-Verlust-Register mit Atmosphäre. Kuang-Poppy-War-Gewalt-Konsequenz. Canon-Detail: Varens Abwehr ist ruhig-tödlich, nicht dramatisch — umso schlimmer.
+Dann stand Varen auf.
 
-## Canon-Anker
+Er trat zurück, nicht schnell, nicht schuldbewusst. Er trat, wie man aus einem Zimmer tritt, in dem die Arbeit getan ist. Er sah Alphina an, kurz, und sein Gesicht sagte nichts.
 
-- B1 K35 (Akt IV, nach K34 Portal-Öffnung)
-- Canon-Sequenz: "Hand an Alphinas Kinn. Besitzergreifend, forschend. SOREL STIRBT. Stellt sich dazwischen. Greift Varen an. Varens Abwehr übermäßig."
-- "Varen KÖNNTE retten — tut es NICHT. Deckt Sorels Augen zu. Flüstert ein Wort in Moragh. DAS verfolgt Alphina."
-- "Alphinas Explosion. Dornen, Vegetation. Verletzt die eigenen Leute."
-- "Varen zieht sich zurück."
-- Memory: "Magie hat keine Kosten" — keine Erschöpfungs-Beats für Alphina hier
-- Farbe-Canon: Alphinas Hand voll schwarz/rot nach Sorels Tod, dauerhaft blutrot-schwarze Blüten
+Alphina stand.
 
-## Offene Fragen
+Sie spürte zuerst ihre Füße — den Boden, der aus Stein war, dunkler Stein, Moragh-Stein. Sie spürte die Sohlen, und über den Sohlen die Waden, und über den Waden das Becken, und in ihrem Becken begann etwas, das nicht Schmerz war und nicht Wut, sondern ein Druck, der von innen nach außen wollte. Sie wollte ihn nicht zurückhalten. Sie konnte ihn nicht zurückhalten. Sie presste nicht. Sie ließ.
 
-- Wie viel Zeit zwischen Varens Abwehr und Sorels Tod? Canon: Sorel stirbt, weil Varen nicht rettet. Also: Verletzung → Verblutung/Tod in Minuten.
-- Welches Wort flüstert Varen? Canon: altes Thalassisch, verfolgt Alphina später — aber der Wortlaut ist noch offen. Autor-Entscheidung, ob jetzt festlegen.
-- Wer ist wie verletzt von Alphinas Explosion? Canon: "eigene Leute verletzt" — aber keine Namen. Runa/Vesper/Maren könnten Mikro-Verletzungen bekommen, die später Tschechow sind.
-- Dornen vs. Vegetation — beides Canon. Schwarz/rot-Farbe etabliert.
+Der Stein unter Sorels Körper brach.
+
+Er brach nicht als Linie. Er brach als Kreis um ihn herum, und aus dem Kreis kamen Dornen. Schwarz, mit Spitzen so breit wie ein Daumen. Sie wuchsen in einem Atemzug auf Kniehöhe, in zwei Atemzügen auf Brusthöhe, und dann weiter, schräg, nach außen, wie ein Strauch, der Jahre bekommt in Sekunden.
+
+Die Dornen fanden Sorels Haut.
+
+Auf seinem Hemd, auf seiner Brust, aus der dunklen Stelle, die er trug, brachen kleine Blüten auf. Schwarz, mit einem Rand, der so rot war, wie es kein Rot gab, das sie kannte — Blut-Rot und Tiefer. Die Blüten waren nicht groß. Sie saßen eng aneinander, in Gruppen von vier, fünf, sechs, und sie öffneten sich in seinem Körper, als wüchsen sie aus seiner Haut heraus und nicht aus dem Stein.
+
+Das war der Moment, in dem Alphina nicht mehr wusste, wo ihr Körper aufhörte.
+
+Sie spürte einen Schmerz an ihrer rechten Hüfte. Dort, aus dem Stoff ihres Kleides, brach etwas Spitzes hindurch. Sie sah nicht hin. Sie sah auf Sorel. Er atmete nicht mehr.
+
+Im Halbkreis um sie herum schrie jemand. Es war Runa, kurz, ein Wort, das Alphina nicht verstand. Vesper trat einen Schritt zurück, und eine Wurzel, die Alphina nicht bestellt hatte, traf seine Schulter, riss den Stoff, nahm Blut mit. Maren saß auf der linken Seite am Boden, die Hand auf einer Wade, in der ein Dorn steckte, flach und tief. Sie machte keinen Laut.
+
+Alphina drehte sich zu Varen.
+
+Er war schon weiter hinten, außerhalb des wachsenden Kreises. Er hatte die Hände nicht gehoben. Er sah ihr zu, wie er Sorel zugesehen hatte. Keine Angst. Keine Freude. Etwas zwischen Neugier und Buchführung.
+
+»Geh nicht weg«, sagte Alphina. Ihre Stimme kam aus einer anderen Kehle als ihre sonst.
+
+»Ich gehe nicht weit«, sagte Varen. »Ich bleibe dort, wo ich dich sehen kann.«
+
+Er trat einen weiteren Schritt rückwärts. Die Dornen, die in seine Richtung gewachsen waren, bogen sich einen halben Meter vor ihm und hielten — nicht, weil sie nicht konnten, sondern weil etwas in Alphina entschied, dass er nicht das Ziel war. Sie wusste nicht, warum sie das entschied. Sie tat es.
+
+Er verschwand durch den Bogen hinten am Saal, den Rücken halb zu ihr.
+
+Sie fiel nicht auf die Knie. Sie ging auf die Knie. Neben Sorel. Sie setzte die Hand, die rechte, auf seine Brust, dort wo keine Blüten saßen, dort wo der Stoff noch Stoff war, und sie spürte: keine Bewegung.
+
+Die Dornen um sie standen. Sie wuchsen nicht weiter. Aber sie zogen sich nicht zurück.
+
+Ihre rechte Hand, sie sah es jetzt, war schwarz-rot bis zum Handgelenk. Farbe, nicht Blut. Wie Tinte, die man in die Haut gerieben hatte, und wie sie kannte, dass sie nicht wieder herausging.
+
+Sie hob die andere Hand, die noch ihre war, und legte sie auf Sorels Augenlider, wo Varens Finger gewesen waren, und ließ sie dort.
+
+Sie sagte seinen Namen. Einmal. Und noch einmal.
+
+Er antwortete nicht.

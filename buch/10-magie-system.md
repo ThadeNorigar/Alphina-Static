@@ -77,6 +77,24 @@ Moragh-Bürger-Rituale sind kulturell etabliert und in `20-moragh-talente.md` be
 
 ---
 
+## Magie-Dämpfung durch präparierte Materialien
+
+Ein Magier mit **Energie-Talent ab Stufe 5** (siehe `20-moragh-talente.md` — *Energie*) kann in weiche, organische Materialien (Leder, Lammhaut, Seide) eine Dämpfungs-Ladung einbinden. Das präparierte Material strahlt ein passives Feld ab, solange die Ladung reicht — **Tage bis Wochen**, abhängig von Material-Güte und Ladungs-Intensität. Trägt ein Magier das Material direkt auf der Haut, wird seine Resonanz **gedämpft, nicht blockiert**.
+
+**Wirkung:** Nur schwache, langsame Wirkungen bleiben möglich. Alphina könnte Moos oder Gras aus einer Fuge ziehen, aber **keine Wurzel schicken, keine Ranke schlingen, keine Mauer sprengen**. Kampf- und Sprengwirkung entfällt. Feine Wahrnehmungs-Resonanz (Quellenpuls spüren, Pflanzen-Zustand ablesen) bleibt rudimentär. Der Gedämpfte ist bei vollem Bewusstsein und spürt, dass seine Magie versucht zu wirken — sie reagiert nur nicht mit voller Kraft.
+
+**Standard-Modell der Velmar-Binder:** Zwei Lederschlaufen mit Messingschnallen über den Handgelenken, zwischen ihnen eine kurze Kette — das Leder ist der magische Dämpfer, die Kette die mechanische Bewegungs-Einschränkung. Seit etwa 15 Jahren in Velmar-Binder-Kreisen etabliert für Begabte, die "ruhiggestellt" werden sollen ohne dauerhafte Wächter.
+
+**Varen** als Fünffach-Begabter (Energie als eines seiner Talente) ist der stärkste bekannte Präparator. Seine Schlaufen dämpfen Thalassier-Resonanz besonders effektiv, weil er als Einziger diese Resonanz kennt.
+
+**Abgrenzungen:**
+- **Nicht Blockade.** Der Gedämpfte kann immer noch wirken, nur schwach.
+- **Nicht Resonanz-Entzug.** Das ist Energie Stufe 10 + Varens Ernte-Technik, ein anderer Vorgang (siehe Abschnitt *Resonanz-Ernte* in `22-moragh-figuren.md` Varen-Dossier).
+- **Nicht Betäubung.** Keine Bewusstseins-Wirkung.
+- **Nicht dauerhaft.** Lädt sich nicht selbst nach — wer eine Gedämpfte über längere Zeit halten will, muss das Material periodisch neu präparieren.
+
+---
+
 ## Alphina — Zellmanipulation
 
 **Grundprinzip:** Alphina beschleunigt, verlangsamt oder steuert Zellteilung und -regeneration. **Sie kann nur aufbauen — nie zerstören.** Kein Altern, kein Zellabbau, kein Tumor. Ihre Zerstörungswirkung ist immer indirekt (Wurzeln brechen Mauern, Pflanzen ersticken Felder).

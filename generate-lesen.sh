@@ -94,3 +94,8 @@ fi
 if [ -f scripts/build-web.py ]; then
   "$PYTHON" -X utf8 scripts/build-web.py 2>&1 | tail -12 || echo "  (build-web: Fehler ignoriert)"
 fi
+
+# Leseproben-Seite aus buch/leseproben/*.md generieren
+if [ -f scripts/build-leseproben.py ]; then
+  "$PYTHON" -X utf8 scripts/build-leseproben.py 2>&1 | tail -3 || echo "  (build-leseproben: Fehler ignoriert)"
+fi

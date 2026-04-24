@@ -1,58 +1,103 @@
 ---
-kategorie: Varen-Reveal-Dialog K77 (Antagonisten-Enthüllung)
+kategorie: Varen-Reveal-Dialog (Antagonisten-Enthüllung)
 pov: Alphina
 figuren: Alphina, Varen
 register: Moral-Bruch, Antagonisten-Demaskierung, kalter Zynismus
 heat_level: Drohung + Verrat + Duell-Schwelle
 primaer_referenz: Robert (Neon Gods) — Antagonisten-Reveal; Kennedy (Plated Prisoner) — Täter-Entlarvung
 ergaenzende_referenz: Kuang für kalten Zynismus in Machtrede; Bardugo für Dialog-Präzision
-zweck: B3 K77 — der Moment, in dem Varen fällt maskenlos. Canon-Dialogfetzen: "Kleine naive Alphina." "Du warst sauberer zu lesen als Sorel." "Ich habe dich nie angesehen. Nur deinen Frequenzwert." "Sie starb in der Küche." Er kippt tonal — keine positiven Epitheta mehr. Alphinas Realisierung: alles war Plan. Der Dialog ist der Kipp-Punkt des Duells.
-canon_status: ENTWURF — Skelett, wird in Folge-Session ausgearbeitet.
+zweck: Der Moment, in dem Varen die Maske fallen lässt — keine positiven Epitheta mehr. Vier Canon-Sätze. Alphinas Realisierung: alles war Plan. Kipp-Punkt des Duells.
+canon_status: Ton-Etüde, nicht Plot-Canon.
 ---
 
-# ENTWURF — Varen-Reveal-Dialog K77
+Alphina kam allein.
 
-**Status:** Skizze. Prosa folgt in neuer Session.
+Das hatten sie nicht besprochen. Vesper hatte im oberen Hof warten sollen, Vesper hatte zustimmen sollen, Vesper hatte zu lange gezögert an der Tür, und das war der Moment, in dem sie ohne ihn gegangen war — nicht weil sie ihn hinten ließ, sondern weil sie wollte, dass er die erste Antwort nicht hörte.
 
-## Szene-Idee
+Der Saal war leer. Drei hohe Fenster, Nachmittagslicht ohne Wärme, Steinboden ohne Teppich. Varen saß auf einem Sessel an der Rückwand, die Beine nicht übereinandergeschlagen, sondern parallel, beide Füße flach. Er trug Grau. Er hatte seit zwei Wochen Grau getragen, und das war kein Zufall — in Velmar trug man Grau, wenn man prüfte.
 
-B3 K77, Duell-Beginn. Alphina hat das Ritual-Kalkül gefunden, hat das Velmar-Dokument gelesen (Elke-Spur), weiß, dass Varen sie benutzt hat. Sie stellt ihn. Er lässt die Maske fallen — keine "Liebe Alphina" mehr. Vier Reveal-Sätze (Canon). Der Kippmoment zum Duell.
+Er stand nicht auf, als sie hereinkam.
 
-## Beats (provisorisch)
+»Liebe Alphina.«
 
-- Setting: Duell-Ort (Torkal? Dravek? Canon prüfen — Duell B3 K75–K77)
-- Alphina kommt mit Beweisen (oder ohne — sie spricht, er kippt)
-- Erste Antwort Varen: noch mit Epitheton ("Meine Alphina")
-- Sie konfrontiert: sie weiß
-- Er realisiert, dass sie alles weiß
-- **Kipp:** "Kleine naive Alphina." (Canon-Zitat)
-- "Du warst sauberer zu lesen als Sorel."
-- "Ich habe dich nie angesehen. Nur deinen Frequenzwert."
-- "Sie starb in der Küche." (Elke-Mord-Geständnis indirekt)
-- Alphinas Körper-Reaktion: Dornen beginnen (grüne oder schwarze? Canon-Check — Canon sagt grün im Finale, das hier vorher sein könnte, noch schwarz oder kippend)
-- Schluss: Duell beginnt — aber Probe endet vor der Gewalt
+Sie blieb stehen, zwei Schritt vor ihm. Sie legte das Dokument nicht ab. Sie hielt es in der rechten Hand, so dass er es sah, und sie sprach nicht, und das war die eine Sekunde, in der er noch glaubte, ihr Blick sei Empörung. Dann war sie vorüber.
 
-## Referenz-Zielbild
+»Ich war im Archiv Keth«, sagte sie.
 
-Dark-Romance-Antagonisten-Reveal (Robert Hades, Kennedy Midas). Kurze, präzise Sätze mit maximaler Kälte. Kein Varen-Monolog — er gibt nur genug preis, um zu verletzen. Alphinas Reaktion ist körperlich-stumm, nicht verbal-emotional (Sorel-Prinzip: Körper vor Kopf).
+Sein Gesicht veränderte sich nicht. Es war nur so, dass er eine kleine Zeit brauchte, um zu antworten, und das war, wenn man ihn kannte, schon die ganze Information.
 
-## Canon-Anker
+»Die haben dich hineingelassen.«
 
-- B3 K77 (Akt IV, Duell-Beginn)
-- Varen kippt tonal: vorher immer positive Epitheta ("Liebe Alphina", "Meine Alphina"), hier erstmals "Kleine naive Alphina"
-- Canon-Zitate (direkt):
-  - "Kleine naive Alphina."
-  - "Du warst sauberer zu lesen als Sorel."
-  - "Ich habe dich nie angesehen. Nur deinen Frequenzwert."
-  - "Sie starb in der Küche." (Elke)
-- Canon-Hintergrund: Varen hat Elke durch aufgeladenen Schemen töten lassen, gefälschte Beweise gegen Talven platziert
-- Alphina hat Vespers Ritual-Kalkül + Marens Brief + Velmar-Dokument als Basis
-- Memory: "Keine kryptischen Meta-Kommentare" — Varens Sätze müssen alle konkret sein
+»Vesper hat eine Bekannte dort. Sie ist Schreiberin.«
 
-## Offene Fragen
+»Ach«, sagte er. Das war das erste Wort an diesem Tag, das er ohne Plan sagte.
 
-- Setting: Duell-Ort ist Canon vage. Torkal oder Dravek oder neutraler Ort?
-- Alphina allein oder mit Vesper? Canon: Duell gegen Alphina+Vesper. Vesper könnte in dieser Probe schon dabei sein oder nicht.
-- Welche weiteren Sätze fallen? Canon hat 4, aber Dialog braucht auch Alphina-Repliken. Was sagt sie?
-- Farbe ihrer Dornen-Reaktion: schwarz (Wut) oder grün (Klarheit, die erst im Finale kommt)? Canon: kippt zu "blühenden Dornen" in Akt IV bei Klarheit mit Vesper. Hier vorher: noch schwarz/rot?
-- "Frequenzwert" — Canon-Wort. Wie lässt man das erzählen ohne dass es zu tech-modern klingt? (Varen ist Wissenschaftler, also plausibel)
+Sie hob das Dokument. »Das Ritual-Kalkül. Deine Handschrift. Die Namen der vier, die du einbinden wolltest. Elke. Mein Name. Vesper. Runa. Und Tyra als Ersatz, falls Maren nicht lebt.«
+
+Er nickte. Nicht zustimmend, nicht widersprechend. Er nickte, wie man einen Posten in einer Aufstellung bestätigt.
+
+»Ja«, sagte er.
+
+Das war alles. Ein Ja. Kein Anlauf, keine Einleitung, kein schneller Winkel, aus dem das Ja noch hätte anders aussehen können. Er saß im Sessel und sagte ja, und in dem Moment, in dem er es tat, spürte sie, wie eine Stelle in ihrer rechten Hand kalt wurde. Nicht der Schrecken. Der Vorlauf.
+
+»Und Elke?«, sagte sie.
+
+»Elke.«
+
+»Ihr Sohn hat sie gefunden. In der Küche.«
+
+»Ja«, sagte Varen. »Sie starb in der Küche.«
+
+Er sagte es nicht schuldig. Er sagte es auch nicht stolz. Er sagte es wie eine Adresse. *Sie starb in der Küche.* Drei Wörter, die er lange nicht gebraucht hatte und die in seinem Mund ordentlich lagen.
+
+Alphina atmete aus. Sie hörte ihren eigenen Atem und nichts sonst. Ihre Fingerkuppen kribbelten.
+
+»Warum.«
+
+»Warum welches.«
+
+»Warum ich.«
+
+Er sah sie an, lange, und das war der Moment, in dem sein Gesicht kippte. Nicht theatralisch — nur der schmale Zug um den Mund, der in der Ratssitzung in Orath vor zwei Jahren noch Höflichkeit gewesen war, verschob sich um einen halben Millimeter.
+
+»Kleine naive Alphina«, sagte er.
+
+Sie spürte den Satz im Magen bevor im Kopf. Die Epitheta, die er ihr seit dem ersten Tag gegeben hatte — *Liebe, Meine* —, waren ein System gewesen. Jetzt war das System aus. *Kleine naive Alphina.* Das war das erste ohne Wärme, und die Kälte darin war ein Ding, das er lang bereit gehalten hatte, und jetzt nahm er es heraus.
+
+»Du warst sauberer zu lesen als Sorel«, sagte er. »Er hatte Widerstand. Du hattest Fleiß. Fleiß ist mir lieber.«
+
+»Du hast Sorel gelesen.«
+
+»Ich habe alle gelesen. Sorel war schwer. Er wusste nicht, was er war — das macht Lesen schwierig. Du wusstest, was du sein wolltest. Das liest sich in Stunden.«
+
+Sie hob das Dokument. Sie ließ es nicht fallen. Sie hielt es fester.
+
+»Ich habe dich nie angesehen«, sagte Varen. »Nur deinen Frequenzwert.«
+
+Das war der Satz, der hängen blieb. Sie verstand das Wort *Frequenzwert* — Velmar-Terminus, eine Zahl auf einer Skala, die nur Velmar führten. Was sie bis jetzt nicht verstanden hatte: dass sie eine hatte. Dass jemand sie ausgelesen hatte. Dass sie in einem Heft stand, geordnet nach Zahlen.
+
+Ihre Hand war jetzt schwarz bis zum Gelenk. Farbe, nicht Schmutz. Wie damals.
+
+Varen sah die Hand. Er sah sie immer. Er sah alles, das war ja der Punkt.
+
+»Du zürnst«, sagte er. »Das verstehe ich.«
+
+»Ich zürne nicht.«
+
+»Deine Hand sagt etwas anderes.«
+
+»Meine Hand ist schon länger so.«
+
+Sie hob sie. Sie zeigte ihm die Farbe. Sie sprach ruhiger, als sie erwartet hatte, und das war der zweite Moment an diesem Nachmittag, in dem sie selbst überrascht war.
+
+»Ich habe Sorel nicht vergessen. Ich habe Elke nicht vergessen. Ich habe Maren nicht vergessen, die wir bei deiner Expedition-2 getötet haben.«
+
+»Ich habe sie nicht getötet. Ich habe eine Möglichkeit geschaffen.«
+
+»Ja«, sagte Alphina. »Das war ja das Geschäft.«
+
+Sie trat einen Schritt näher. Unter ihrem Fuß zog eine schmale Linie grünen Trieb über die Fuge im Stein, den sie nicht gewollt hatte und den sie zum ersten Mal seit einem Jahr nicht schwarz sah. Die Hand blieb schwarz. Der Trieb kam grün. Sie sah nach unten, sah hinauf zu Varen, sah die eine halbe Sekunde, in der er den Trieb ebenfalls sah und einmal, kurz, blinzelte.
+
+Das war das erste Mal, dass er blinzelte.
+
+Sie wusste, sie hatte gewonnen, bevor das Duell anfing.

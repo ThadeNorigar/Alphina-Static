@@ -6,48 +6,60 @@ register: explizit, aber kalt — Handel auf Körperebene, kein Heat, kein BDSM
 heat_level: explizit, aber moralisch kalt (eigenes Register)
 primaer_referenz: Robert (Neon Gods) — Dark-Romance-Macht-Sex; Kennedy (Plated Prisoner) — Captive-Dynamik auf anderer Seite (hier akzeptiert)
 ergaenzende_referenz: Bardugo für analytische Distanz; Kuang für kalte Beobachtung
-zweck: Canon: "kein Loslassen, kein Hingeben. Sie ist oben. Sie führt. Es ist kein Vertrauen wie mit Sorel — es ist ein Handel." "Schwarze Wurzeln unter dem Bett." "Er registriert die Farbe und sagt nichts." Einzigartig moralisch problematisches Sex-Register. Alphina wechselt die Seite nicht aus Lust, sondern aus Glauben an ein geteiltes Ziel. Weder Yarros-Heat noch Réage-BDSM.
-canon_status: ENTWURF — Skelett, wird in Folge-Session ausgearbeitet.
+zweck: Canon: "kein Loslassen, kein Hingeben. Sie ist oben. Sie führt." "Schwarze Wurzeln unter dem Bett." "Er registriert die Farbe und sagt nichts." Einzigartig moralisch problematisches Sex-Register. Alphina wechselt die Seite nicht aus Lust, sondern aus Glauben an ein geteiltes Ziel. Weder Yarros-Heat noch Réage-BDSM.
+canon_status: Ton-Etüde, nicht Plot-Canon.
 ---
 
-# ENTWURF — Alphina+Varen Machtpakt
+Sie zog sich selbst aus.
 
-**Status:** Skizze. Prosa folgt in neuer Session.
+Das war ihre Entscheidung, so wie das ganze hier ihre Entscheidung war, und Alphina tat, was sie entschieden hatte. Das Kleid fiel über die Kante des Stuhls, auf dem sie es platzierte — nicht warf, platzierte, weil sie ordentlich war und es ihr wichtig schien, dass der Stoff nachher da lag, wo sie ihn gesucht hätte. Das Leinenhemd folgte. Der Rest schnell.
 
-## Szene-Idee
+Varen saß auf der Bettkante und sah zu. Er hatte selbst noch den Rock an, die Weste geöffnet, sonst nichts verändert. Er sah zu, wie sie es mit Sorel nicht erlaubt hätte und nie erlaubt hätte — aber das hier war nicht Sorel. Das hier war ein anderer Raum, ein anderer Gedanke, ein anderer Körper.
 
-B2 Endakt. Alphina hat die Seite gewechselt (glaubt sie), Varens Kooperation ist der Handel. Sex, aber nicht aus Begehren — ein körperliches Bündnis-Zeichen. Sie führt (sie sitzt oben), aber Varen hat die politische Kontrolle. Ihre Magie kippt dabei sichtbar (schwarze Wurzeln).
+»Sie müssen auch«, sagte sie.
 
-## Beats (provisorisch)
+»Du bist sehr formell heute.«
 
-- Setting: Varens Quartier in Moragh, Bett mit Stein-Boden darunter
-- Alphina zieht sich selbst aus — keine Kipp-Zeremonie wie mit Sorel
-- Sie sitzt auf ihm, führt körperlich — er lässt sie
-- Direkte Anatomie, commercial explizit
-- Keine Blüten, keine Dornen — schwarze Wurzeln unter dem Bett als Magie-Signatur
-- Varen sieht die Farbe, sagt nichts (er weiß, was es bedeutet)
-- Alphina registriert sein Schweigen — sie weiß auch, dass er weiß
-- Sex endet ohne Liebeserklärung, ohne Versprechen
-- Danach liegen sie, aber nicht nah — wie zwei Handelspartner nach Vertrag
-- Alphina denkt: "Ich vergebe ihm Sorel nicht. Aber das ist jetzt nebensächlich."
+»Ich bin, wie ich bin. Sie auch.«
 
-## Referenz-Zielbild
+Er zog die Weste aus. Das Hemd. Er faltete beides nicht. Er legte es nebeneinander auf den Teppich am Fuß des Bettes. Sein Oberkörper war heller, als sie erwartet hatte, die Schultern schmaler, ein paar Haare in der Mitte der Brust grau. Er war nicht jung. Das Detail half ihr.
 
-Dark-Romance-Register (Robert/Kennedy), aber kälter — es ist weder Entführung noch Verführung. Beide wissen, was das ist. Bardugo-Analytik in Alphinas POV — sie beobachtet sich selbst beim Handeln. Kein Yarros-Heat (keine emotionale Direktheit), kein Réage-BDSM (kein Power-Exchange als Funktion).
+Sie trat vor ihn hin. Die Knie gegen seine Knie. Sie legte die Hand nicht an seine Wange. Sie legte sie an seine Schulter und drückte ihn rücklings auf das Bett, und er ließ sich drücken, und das war der erste gemeinsame Satz, den sie aushandelten, ohne ihn zu sagen: Ich führe. Du lässt.
 
-## Canon-Anker
+Sie stieg auf ihn. Die Hüfte über der Hüfte, die Handflächen auf seinem Brustkorb. Ihr Haar fiel nach vorn. Sie schob es mit einer Bewegung hinters Ohr und ließ die Hand zurückkommen.
 
-- B2 Endakt, Seitenwechsel
-- Canon-Zitat: "kein Loslassen, kein Hingeben. Sie ist oben. Sie führt."
-- "Es ist kein Vertrauen wie mit Sorel — es ist ein Handel, ein Bündnis auf Körperebene."
-- "Schwarze Wurzeln unter dem Bett. Er registriert die Farbe und sagt nichts."
-- "Dornen statt Farne, Rücken statt Handgelenke"
-- "Alphina vergibt ihm Sorel nicht — das bleibt. Aber sie stellt es hinter das größere Ziel."
-- Du-Register: Varen duzt sie weiterhin, Alphina antwortet wahrscheinlich auch im Du (Seitenwechsel-Marker)
+Er lag. Er sah sie an. Er griff nicht. Das war sein Teil der Abmachung: Er griff nicht, solange sie ihn nicht rief. Das hatten sie vor dem Abend besprochen, klar, trocken, wie man eine Vorschrift bespricht.
 
-## Offene Fragen
+Sie nahm ihn in die Hand. Er war schon halb bereit, und sie arbeitete die restliche Bereitschaft aus, ohne Eile. Er atmete anders, aber er sagte nichts. Sie auch nicht. Sie führte ihn hinein, und das war der Moment, in dem sie hätte zittern können und nicht zitterte.
 
-- Siezt Alphina Varen noch, oder duzt sie ihn inzwischen? Der Seitenwechsel könnte der Du-Moment sein — oder sie behält das Sie als letzten Distanz-Rest. Autor-Entscheidung.
-- Wie explizit die schwarzen Wurzeln zeigen? Canon ist klar, aber Prosa-Bild muss Material-geerdet sein.
-- Varen-Reaktion: er schweigt, aber was tut sein Körper? Er darf nicht Heat zeigen — das ist Canon-unsexy-Machtdynamik.
-- Memory-Regel: "Alphina+Sorel kein BDSM". Gilt sinngemäß: Alphina+Varen kein BDSM. Aber was ist es dann? → eigenes kaltes Register, weder Heat noch BDSM.
+Sie bewegte sich. Langsam. Sie fand den Winkel, der für sie war, und sie blieb darauf, weil sie für sich hier war. Er passte sich unter ihr an, ohne Worte, und das war vielleicht das Schlimmste an ihm — dass er tat, was sie brauchte, ohne zu fragen.
+
+Seine Hand hob sich einmal, als wollte sie an ihren Nacken. Sie sah die Bewegung. Sie sah sie im Keim. Er ließ die Hand wieder sinken. Sie nickte, einmal, knapp, und sie fuhr fort.
+
+Unter dem Bett, zwischen den Dielen, die hier in Moragh schwarzes Holz waren, kroch etwas durch die Fuge. Sie spürte es, bevor sie es sah — ein Ziehen an einer Stelle in ihrer Brust, die zum Boden zeigte. Sie hob den Kopf nicht, um nachzusehen. Sie wusste.
+
+Es waren Wurzeln. Sie waren schwarz.
+
+Sie waren nicht groß. Sie krochen nicht an der Wand hoch wie damals. Sie lagen in der Fuge, einen Finger lang, verzweigt, glänzend wie frisch gewaschenes Holz, und sie wuchsen jetzt still weiter, während sie oben auf ihm saß und sich bewegte und sich selbst zu Ende brachte.
+
+Varen sah nicht zu Boden. Aber sie sah in seinen Augen, dass er es wusste. Er sah sie an, hielt den Blick, und die Augen blieben ruhig. Er sagte nichts. Das war ihre Abmachung, und es war auch seine Antwort: Er zeigte, dass er sah, ohne zu sprechen, und indem er schwieg, zeigte er, dass er verstand, was die Farbe bedeutete.
+
+Sie kam, leise, und fiel nicht vornüber. Sie blieb aufrecht. Das war ihr wichtig. Er kam kurz danach, ebenfalls leise. Sie stieg von ihm. Sie ging zum Waschbecken am Fenster und wusch sich — ohne Hast, wie man nach Gartenarbeit wäscht — und trocknete die Hände an dem Leinentuch, das dort hing.
+
+Er hatte sich aufgesetzt, als sie zurückkam, die Beine über die Bettkante, Füße auf dem Teppich. Er sah zu ihr.
+
+»Wurzeln«, sagte er. »Dieses Mal schwarz.«
+
+»Ja.«
+
+»Ich frage nicht, warum.«
+
+»Gut.«
+
+Sie zog das Hemd wieder an. Nicht das Kleid. Sie legte sich auf das Bett, auf die andere Seite, den Rücken zu ihm. Er blieb sitzen, stand nach einer Weile auf, zog Hemd und Weste wieder an. Er legte sich nicht zu ihr. Das war ebenfalls Abmachung: keine Nähe nach der Sache. Nachher nicht zusammen.
+
+Unter dem Bett wuchsen die Wurzeln einen halben Finger weiter und hielten.
+
+Sie dachte: Ich vergebe ihm Sorel nicht. Das bleibt. Aber das Kleinere muss warten.
+
+Sie schloss die Augen. Sie schlief nicht. Sie wartete, bis er ging.

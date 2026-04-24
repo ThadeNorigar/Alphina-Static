@@ -1,54 +1,65 @@
 ---
 kategorie: Talven-Blutmagie / Self-Harm-Magic
-pov: Talven (primär) oder Beobachter
-figuren: Talven, möglicherweise ein Schemen (gebunden)
+pov: Talven
+figuren: Talven, ein gebundener Schemen (Kristall-Speicher)
 register: Horror-Magie, Self-Harm als Kalkulation, keine Genuss-Gewalt
 heat_level: Gewalt (gegen sich selbst)
 primaer_referenz: SenLinYu (Alchemised) — Trauma-Körper, präzise Schmerz-Beschreibung; Kuang (Poppy War — Schamanen) — Blutmagie mit Preis
 ergaenzende_referenz: Maas für Unheimlich-Atmosphäre; Morrison für stille Verzweiflung
-zweck: B3 Akt II–III. Talven bindet Schemen. Canon-Kern: "Keine milchigen Augen. Keine Resonanz-Ernte-Linie. Nur Narben, die er sich selbst zufügt. Einzige passive Veränderung: Hände werden kalt." Eigenes Magie-Register — Self-Harm als Kalkulation, nicht als Selbstzerstörung. Talven ist Radikalisiert, aber nicht verrückt. Er rechnet: Verletzung → Magie-Macht, akzeptiert den Preis.
-canon_status: ENTWURF — Skelett, wird in Folge-Session ausgearbeitet.
+zweck: B3 Akt II–III. Talven bindet Schemen. Canon: "Keine milchigen Augen. Keine Resonanz-Ernte-Linie. Nur Narben. Einzige passive Veränderung: Hände werden kalt." Self-Harm als Kalkulation.
+canon_status: Ton-Etüde, nicht Plot-Canon.
 ---
 
-# ENTWURF — Talven-Blutmagie
+Talven hatte einen festen Platz dafür.
 
-**Status:** Skizze. Prosa folgt in neuer Session.
+Die hintere Kammer seiner Wohnung, über dem Innenhof, zwei Fenster, beide heute mit schwerem Tuch verhängt, und auf dem Holztisch, den er vor zwei Jahren eigens aus Ahorn hatte schneiden lassen, standen die Dinge, die er brauchte. Die Anordnung war die gleiche wie jedes Mal. Das Messer links, die Schale in der Mitte, das Leinentuch rechts, die kleine Flasche mit dem Kräuterauszug hinter der Schale, der Kristall dahinter, aufrecht in einem Messinggestell, das er selbst gelötet hatte.
 
-## Szene-Idee
+Er setzte sich.
 
-Talven, nachts, allein in einem Raum oder in der Werkstatt. Vorbereitung eines Binde-Rituals. Er schneidet sich präzise, nicht impulsiv. Magie wirkt, Schemen wird gebunden. Seine Hände werden danach kälter als vorher (passive Veränderung, keine milchigen Augen wie andere Blutmagier).
+Das Messer war das gleiche wie immer. Keine Kostbarkeit — ein schmales, gerades Stück Klinge, im Griff Eschenholz, die Schärfe alle zwei Wochen neu gezogen. Er hatte gelernt, dass man für diese Arbeit ein nüchternes Werkzeug brauchte, keines, das Bedeutung trug. Bedeutung saß anderswo.
 
-## Beats (provisorisch)
+Er krempelte den linken Ärmel auf. Der Unterarm war übersät mit den Spuren der letzten Monate — schmale weiße Linien, quer zur Achse, auseinander um einen Finger breit, die ältesten oben an der Ellenbeuge, die neueren weiter hinunter. Er vermaß nichts; er wusste ohne Maß, wo die nächste Stelle war. Heute: unterhalb der mittleren Hautfalte, vier Finger über dem Handgelenk.
 
-- Setting: Privat, nachts, Kerzenlicht oder Lampenlicht
-- Material: Messer (scharf, sauber), Schale, Salz oder Bindungsmittel (Canon-Check), Schemen-Kristall als Speicher
-- Talven bereitet vor — präzise, ritualisiert, nicht hastig
-- Schnitt: Unterarm-Innen, gezielt, flach → tief genug für Magie, nicht tödlich
-- Blut fließt, Talven arbeitet weiter — kein Schmerz-Ausruf
-- Magie-Wirkung: Schemen reagiert, wird gebunden
-- Canon-Differenzierung: Talvens Augen bleiben klar (keine milchigen), keine Ernte-Linien
-- Passive Veränderung: seine Hände spüren kälter an, jede Magie-Anwendung kühlt weiter
-- Schluss: Er verbindet die Wunde, geht weiter — Kalkulation ausgegangen
+Der Kristall auf dem Messingständer war an diesem Abend stumpf. Das bedeutete leer — vor der Sitzung immer leer. Die Energie war ausgegeben, seit gestern, sie war in etwas geflossen, das er nicht mehr rückgängig machen wollte.
 
-## Referenz-Zielbild
+Er atmete dreimal tief. Nicht, weil er sich beruhigen musste. Weil die Atmung zur Kalkulation gehörte.
 
-SenLinYu-Alchemised-Trauma-Körper-Präzision (Wunden konkret, Schmerz sachlich). Kuang-Poppy-War-Schamanen-Register (Magie mit Preis, aber ohne Melodram). Morrison-Register im Inneren (Talven trägt etwas still). Kein Splatter, kein Horror-Porn. Der Horror ist, dass er es kalkuliert, nicht dass es brutal ist.
+Er setzte das Messer.
 
-## Canon-Anker
+Der Schnitt war knapp. So viel, wie es brauchte, nicht mehr. Blut kam sauber, nicht spritzend, in dem dünnen roten Streifen, den er wollte, und er hielt den Arm über die Schale, bis der Boden bedeckt war. Dann nahm er den Arm weg, drückte mit dem Daumen die Stelle, bis das Blut nachließ, nahm das Leinentuch, legte es auf.
 
-- Talven Canon-Bogen (Storyline): "Moragh-geboren, Bund-Rufer. Verteilt in B3-Akt I Resonanz, wird zum Helden."
-- "Beginnt in Akt II mit Blutmagie und Schemen-Binden. Varen spielt ihm die Bindetechnik zu — im Bund als Sklaverei tabu, zweifache Grenzüberschreitung."
-- "Baut Schemen-Kristall-Batterien."
-- "Keine milchigen Augen, keine Resonanz-Ernte-Linie — nur Narben, die er sich selbst zufügt."
-- "Einzige passive Veränderung: Hände werden kalt (Spiegel-Symbol seiner früheren Wärme)."
-- "Schemen-Reaktion wird zum Indikator — ungebundene lösen sich in seiner Nähe auf, gebundene fliehen."
-- Letzter Satz (B3 Tod durch Alphina): "Ich hätte es irgendwann wirklich gekonnt."
-- Memory: "Resonanz" nicht in Prosa — Talven-POV muss Begriffe umschreiben
+Er zählte nicht mit. Er wusste, wann es reichte.
 
-## Offene Fragen
+Er tauchte den Zeigefinger der rechten Hand in die Schale. Das Blut war warm, wie es sein sollte. Er strich es an die zwei Flächen des Kristalls, an die vordere und die linke Seite, und hielt die Handfläche einen Moment an das Messinggestell, ohne Gewicht, nur Kontakt.
 
-- POV: Talven (innen, kalkuliert) oder Beobachter (außen, unheimlich)? Talven-POV zeigt den Moral-Bruch stärker — er IST ruhig, nicht wahnsinnig.
-- Wie oft hat er das schon gemacht? Erste Szene oder Routinen-Szene? Erste Mal maximaler Horror-Beat, Routine zeigt Normalisierung (auch Horror).
-- Schemen-Binde-Mechanik: wie erzählen ohne Magie-Jargon? Canon: gebundene fliehen, ungebundene lösen sich auf.
-- Kalte-Hände-Beat: spürt er es selbst, oder bemerkt es nur eine andere Figur? Für Probe: er selbst — aber unterdrückt die Bedeutung.
-- Welche Motivation: Überzeugung (er hilft dem Bund), Rache, Varens Manipulation? Canon ist: Varen manipuliert ihn. Aber Talvens innere Logik muss plausibel sein.
+Der Kristall nahm an.
+
+Das war kein Bild. Er spürte die Wärme in seiner Handfläche abrufen — nicht groß, nicht mit Ruck. Eine langsame Abwendung. Die Flamme der Kerze auf dem Tisch wurde einen Finger breit kleiner und blieb so. Der Kristall begann tief im Inneren zu glimmen. Ein Licht, das kein Licht war, sondern Anwesenheit.
+
+In der Ecke des Raumes — der hinteren Ecke, rechts, wo er den gebundenen gestellt hatte — bewegte sich etwas. Es bewegte sich nicht im Raum, nur um sich selbst, wie Tuch, das in einem Luftzug zittert. Es kam nicht näher. Es wollte nicht näher. Das war das Interessante: es wollte wegtreten.
+
+Das hieß, dass die Bindung hielt. Ungebundene Wesen lösten sich auf, wenn er so arbeitete; er hatte das zweimal beobachtet, im dritten Monat, ohne Absicht. Gebundene blieben, aber sie zogen sich in sich zurück. Talven hatte sich daran gewöhnt, in diese Stille hinein zu arbeiten.
+
+Er sprach kein Wort.
+
+Die Bindung war keine Sprache. Die Bindung war die Richtung seines Willens in die Flamme, die Flamme in den Kristall, der Kristall in das Gebundene. Er hielt die Richtung, bis der Kristall voll war, und er wusste, wann er voll war, weil seine Handfläche nicht mehr kalt wurde.
+
+Er nahm die Hand weg. Er sah sie an.
+
+Sie war blass. Die Finger waren ohne Farbe. Er legte sie auf die Tischkante — das Holz war warm, er wusste das, er hatte seit Stunden hier gesessen — und seine Handfläche nahm die Wärme des Holzes nicht an. Die Haut nahm keine Wärme an. Seit sechs Wochen war das so.
+
+Er hatte sich entschieden, das nicht zu bezeichnen. Es war Teil des Preises, den er zahlte, und Preise zu bezeichnen hieß, über sie zu verhandeln.
+
+Er wischte das Messer. Er schnitt einen kleinen Streifen Leinen, legte ihn auf den Schnitt, band zu, knotete mit der rechten Hand, wie er das gelernt hatte. Er wusch die Schale am Becken im Nebenzimmer, mit kaltem Wasser, und das Wasser war das Ding, das er heute am deutlichsten spürte.
+
+Im Kristall stand das Licht.
+
+In der Ecke stand der Gebundene. Er zitterte nicht mehr. Er hatte sich wieder in die Flächen zurückgelegt, wie eine Tür, die sich an den Rahmen schmiegt.
+
+Talven deckte den Kristall mit einem Tuch ab.
+
+Er löschte die Kerze nicht. Er saß noch eine Weile, die gebundene Hand auf der Tischkante, die rechte auf dem Knie, und rechnete aus, wie oft er noch schneiden konnte, bevor der linke Arm nicht mehr Stellen hatte.
+
+Er kam auf eine Zahl. Sie war größer, als er vermutet hatte.
+
+Das beruhigte ihn, ohne dass er es zugab.

@@ -7,43 +7,67 @@ heat_level: explizit non-BDSM
 primaer_referenz: Yarros (Fourth Wing) — Sex mit Körperbeat ohne Romantik; Kuang (Babel) — sparsame Emotionalität
 ergaenzende_referenz: Rampling (Belinda) — female gaze auf Frau; Robert — direkte Anatomie
 zweck: Ton-Referenz für Alphina+Runa-Sex. Canon-Kern: "Bei Sorel hat die Welt geblüht. Bei Runa ist sie still." Keine Blüten-Magie, kein Versprechen, kein Heat-Register wie mit Sorel. Hitzig, körperlich, aber emotional neutral — FWB zwischen Freundinnen. Frauen-Körper auf Frauen-Körper, ohne Power-Exchange.
-canon_status: ENTWURF — Skelett, wird in Folge-Session ausgearbeitet.
+canon_status: Ton-Etüde, nicht Plot-Canon.
 ---
 
-# ENTWURF — Alphina+Runa FWB
+Runa kam nach elf. Sie klopfte einmal kurz, trat ein, ohne auf Antwort zu warten, und schloss die Tür hinter sich mit dem Fuß. Sie hatte die Hände voll — eine halbe Flasche Rotwein, zwei Becher aus Zinn. Den Wein stellte sie auf den Tisch. Die Becher stellte sie daneben. Sie kam nicht zum Trinken.
 
-**Status:** Skizze. Prosa folgt in neuer Session.
+Alphina saß auf dem Bett, die Beine übereinander, das Hemd bis zur Hüfte heruntergelassen, weil sie gerade die Narbe an ihrem Rücken geprüft hatte — eine alte, kaum sichtbar, aber Alphina war eine, die nachsah. Sie sah auf, als Runa hereinkam, und machte das Hemd nicht zu.
 
-## Szene-Idee
+»Lang nicht«, sagte Runa.
 
-Nacht, privat. Runa warm, Alphina kalt-kontrolliert — gleiche Dynamik wie mit Sorel, aber ohne emotionale Verstrickung. Kein Pflanzen-Wachstum während des Sex (Kontrast zu K21 Sorel). Sie bleiben nicht.
+»Drei Wochen.«
 
-## Beats (provisorisch)
+»Zu lang.«
 
-- Setting: Alphinas oder Runas Zimmer, Kerzenlicht
-- Körperbeat sofort — Runa warm, Alphina registriert die Wärme
-- Kuss direkt, kein Kipp-Moment (sie haben das schon öfter)
-- Sex auf der Seite, commercial explizit
-- Anatomie direkt, aber ohne Réage-Präzision (nicht BDSM)
-- Kein Pflanzen-Wachstum — Stille wo bei Sorel Blüten wären
-- Schluss: Runa geht oder Alphina geht — "Wir sind nicht zusammen"
-- Abschieds-Beat ohne Trauer
+Runa trug ihre Arbeitsweste und die Hose mit dem Tintenfleck am rechten Oberschenkel, den kein Laugenwasser herausgewaschen hatte. Ihre Hände waren warm. Das wusste Alphina bereits, bevor Runa das Knie aufs Bett setzte und sich zu ihr herunterbeugte. Runas Hände waren immer warm. Das war die Hitze, die sie sich nicht erklären konnte und die Alphina ihr einmal erklärt hatte, und Runa hatte drei Tage lang darüber geschwiegen und dann gefragt, ob sie trotzdem vorbeikommen dürfte.
 
-## Referenz-Zielbild
+Durfte sie.
 
-Yarros-Körperbeat ohne Mate-Bond-Emotion. Sarah J. Maas-Frauen-Begehren ohne Romantisierung. Explizit aber emotional leise — das Gegenteil zum Kuss in #02 (wo jeder Atemzug weh tat).
+Runa setzte den Mund auf Alphinas Mund, ohne Anlauf. Sie küsste, wie sie immer küsste: direkt, ohne Frage, mit leichtem Druck am Unterkiefer, der Alphina den Kopf in die richtige Schräge zog. Runa schmeckte nach Tabak und der kalten Luft des Weges hierher und, unter allem, nach dem Metall ihrer Druckerlettern, das durch die Haut bis in den Atem kam.
 
-## Canon-Anker
+Alphina zog das Hemd über den Kopf. Runa zog ihre Weste aus, dann das Unterhemd. Darunter nichts. Sie hatte nie etwas darunter. Ihre Brüste waren klein, fest, und die linke hatte einen kleinen Brandfleck am äußeren Rand, nicht größer als eine Erbse, von einer Lettern-Charge vor Jahren.
 
-- Alphina+Runa: FWB hitzig, keine Beziehung (Storyline)
-- "Bei Sorel hat die Welt geblüht. Bei Runa ist sie still."
-- Kanon: B1 Akt III beginnt FWB, B2 Akt II setzt sich fort
-- Runa hat warme Hände (Feuer-Resonanz)
-- Canon Runa-Charakter: eigene Obsessionen (Druckerei, Moragh-Schriften, Maschinen)
+Sie legte sich nicht hin. Sie zog Alphina zu sich auf den Schoß, das war Runas Art — sitzen, die Beine um ihre Hüfte, dicht. Alphina ließ sich ziehen. Runas Schenkel waren warm an ihrem Bauch. Alphinas Finger fanden die Stelle unter Runas Kinn, wo ein Puls lief, und blieben dort, weil sie es mochte, wie der Puls gegen ihre Fingerkuppe schlug.
 
-## Offene Fragen
+»Still heute«, sagte Runa, an ihren Mund.
 
-- B1-Setting (Vael) oder B2-Setting (Moragh, Bund-Stadt)?
-- Wie direkt anatomisch? Memory: Alphina-Sorel erlaubt "Glied", Frauen-Sex analog?
-- Welches Material-Detail trägt den Kontrast zu Sorel? (z.B. Runas Druckerfarbe an den Händen)
-- Geschmacks-Pflicht wie in Nähe-Szenen: was schmeckt Alphina an Runa? (Nicht Salz — Maren-Canon.) Hitze? Tinte? Haut?
+»Immer still mit dir.«
+
+»Schade.«
+
+Runa lachte einmal leise, und dann sprach sie eine Weile nicht mehr.
+
+Alphina ließ sich aufs Bett drücken, rücklings, und Runa kam über sie. Runas Mund fand die eine Brust, dann die andere, dann die Haut unterhalb der Rippen, und Alphina hörte sich selbst atmen. Es war lauter, als sie es wollte, und auch das war mit Runa anders. Runa machte sie laut.
+
+Runa nahm ihre Hand zwischen Alphinas Schenkel. Sie fragte nicht, sie tat. Das mochte Alphina. Runas Finger fanden, was sie kannten. Es dauerte nicht lang. Alphina hob die Hüfte einmal, zweimal, und Runa passte sich an, ohne zu sprechen, und dann kamen die Wellen, die nicht groß waren, aber tief, und Alphina machte ein Geräusch, das sie selbst nicht benannte, weil es zu nah war, um es zu benennen.
+
+Es kam nichts.
+
+Kein Trieb aus der Fuge. Keine Blüte unter dem Bett. Keine Ranke am Fensterrahmen. Der Raum war still und blieb still. Als hätte ihr Körper nicht verstanden, dass das, was eben passiert war, das Gleiche war wie mit Sorel. Oder: als hätte er sehr gut verstanden, dass es das nicht war.
+
+Runa setzte sich auf. Sie wischte sich die Hand am Laken ab, geistesabwesend, dann rutschte sie von Alphina herunter und legte sich auf den Rücken neben sie. Ihre Schulter lag nicht an Alphinas Schulter. Zwei Finger Abstand. Das war ebenfalls Runa.
+
+»Wein?«, sagte sie, an die Decke.
+
+»Später.«
+
+Sie lagen eine Weile. Alphina hörte, wie Runas Atem sich beruhigte. Sie dachte nicht. Sie lag.
+
+Dann stand Runa auf. Sie zog die Hose an, das Unterhemd, die Weste. Sie wusch die Hände in Alphinas Becken am Fenster, und Alphina hörte das Wasser, und es war kaltes Wasser, und Runas Hände waren danach immer noch warm.
+
+»Ich geh«, sagte Runa.
+
+»Ich weiß.«
+
+»Bis übermorgen vielleicht.«
+
+»Vielleicht.«
+
+Runa nahm die Flasche vom Tisch mit, die offen geblieben war. Sie stellte den Korken nicht zurück. Sie sah Alphina einmal noch an, lange genug, dass es hätte mehr sein können, kurz genug, dass es nichts war.
+
+Sie ging.
+
+Alphina blieb im Bett, die Decke bis zur Hüfte, und sah an die Decke. Der Haken am Fensterrahmen, an dem früher ein Topf gehangen hatte, war leer. Da war kein Trieb. Da war nie einer gewesen.
+
+Sie fand, es war in Ordnung.
