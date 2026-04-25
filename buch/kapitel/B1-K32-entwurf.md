@@ -18,7 +18,7 @@
 
 **Wortziel:** 1.100–1.300 W
 
-**Ort:** Druckerei Kvist, Oberstadt Vael, kurz vor Abenddämmerung am 14. Nebelmond. Werkstatt im Erdgeschoss: lange Werkbank mit Setzkästen rechts, die alte Eisenpresse (Holzrahmen, Eisenhebel) Mitte hinten, drei Setzkasten-Reihen an der Ostwand, Tintenfässer auf dem niedrigen Schrank. Lampenöl-Geruch, Bleilettern-Geruch (kühl-metallisch), Tinte (harzig). Die Gesellen Bren und Talen hat Runa nach dem Mittag nach Hause geschickt — sie braucht heute keine Augen am Setzkasten. Hinter der Werkstatt eine kleine Wohnung im Obergeschoss (eine Stiege im Hinterhaus). Auf der Gasse vor dem Schaufenster: still. Die Stadt hat heute nach dem Marktplatz den Atem angehalten. Eine Patrouille kommt jede halbe Stunde vorbei.
+**Ort:** Druckerei Kvist, Oberstadt Vael, kurz vor Abenddämmerung am 14. Nebelmond. Werkstatt im Erdgeschoss: lange Werkbank mit Setzkästen rechts, die alte Eisenpresse (Holzrahmen, Eisenhebel) Mitte hinten, drei Setzkasten-Reihen an der Ostwand, Tintenfässer auf dem niedrigen Schrank. Lampenöl-Geruch, Bleilettern-Geruch (kühl-metallisch), Tinte (harzig). Die Gesellen Beln und Talen hat Runa nach dem Mittag nach Hause geschickt — sie braucht heute keine Augen am Setzkasten. Hinter der Werkstatt eine kleine Wohnung im Obergeschoss (eine Stiege im Hinterhaus). Auf der Gasse vor dem Schaufenster: still. Die Stadt hat heute nach dem Marktplatz den Atem angehalten. Eine Patrouille kommt jede halbe Stunde vorbei.
 
 **Beats (sachliches Exposé, Runa-POV):**
 
@@ -27,7 +27,7 @@
 - Drei Stunden lang hatte sie sich in der Werkstatt bewegt, ohne etwas anzufassen, dessen sie sich nicht sicher gewesen wäre, dass es nicht wärmer wurde. Den Hebel der Presse hatte sie gemieden (Eisen, gross). Den Wassereimer gemieden (sie hatte ihn vorgestern noch ohne Bedacht angefasst). Sie war stehen geblieben am Fenster, hatte hinausgeschaut. Auf der Hauptgasse hatte sie zwei Familien gesehen, die mit Bündeln zum Tor wollten — die Tochter weinte, die Mutter zog sie weiter.
 - Jetzt, gegen die Dämmerung, ging sie zum Setzkasten zurück. Setzte sich auf den Hocker, der seit fünf Jahren ihre rechte Hüfte kannte. Nahm einen Bleilettern-Block heraus. Ein **A** für ein Plakat, das sie morgen nicht mehr drucken würde.
 - Das Blei war weich unter ihren Fingern. Nicht heiss genug, dass es schmolz; weich genug, dass die obere Spitze des **A** sich verformte, als sie den Block zwischen Daumen und Zeigefinger drückte. Sie zog den Daumen weg. Der Abdruck ihrer Daumen-Kuppe blieb als feiner Halbmond im Buchstaben.
-- **Innerer Beat:** *Sie hat es gewusst.* Der Satz kam ohne Subjekt — sie wusste, wer **sie** war. Alphina. Heute Mittag hatte Alphina den Schem gesehen, den Marktplatz, Runas Hände. Alphina hatte den Brandfleck am Holz gesehen, ohne überrascht zu sein. Kein Schreck im Gesicht, kein Vorwurf. Erkenntnis. Bestätigung.
+- **Innerer Beat:** *Sie hat es gewusst.* Der Satz kam ohne Subjekt — sie wusste, wer **sie** war. Alphina. Heute Mittag hatte Alphina das Wesen gesehen, den Marktplatz, Runas Hände. Alphina hatte den Brandfleck am Holz gesehen, ohne überrascht zu sein. Kein Schreck im Gesicht, kein Vorwurf. Erkenntnis. Bestätigung.
 - *Wie lange?*
 - Runa legte den Bleilettern zurück. Schaute auf den Setzkasten — die fünf Kästen, jeder mit seinen sechzig Fächern, jedes Fach mit den Lettern, die sie in den letzten elf Jahren tausendfach gesetzt hatte. Sie hatte nie überlegt, ob das Blei sich wärmer anfühlte als Eisen — Blei ist kühl-weich, Eisen ist kühl-hart, das war das Wissen ihres Berufs. Heute hatte sich der Block in ihrer Hand verformt.
 - Sie ging die letzten Wochen rückwärts. Beobachtungen, die sie gesammelt hatte, ohne sie zu sortieren.
@@ -47,7 +47,7 @@
 - *Runa erfährt (rückwärts):* Sie hat alles gesehen, alles bemerkt — nichts zusammengesetzt. Ihre Verdrängung bricht jetzt rückwirkend.
 - *Runa erfährt (Schutz-Motiv):* Die Vier haben sie nicht eingeweiht, weil sie sie schützen wollten. Sie ist nicht verletzt — sie ist in einer zugehörigen Stelle.
 - *Runa-Canon-Beat (neu):* Eigene Haut immun gegen eigenes Feuer. Sie zündet mit den Fingern den Docht — keine Verbrennung. Dossier-Canon (POV-Dossier B2: „Eigene Haut immun") hier zum ersten Mal in B1 sichtbar.
-- *Runa-Verdacht (gerechtfertigt):* Marens Bleilettern-Bestellung mit fremden Zeichen war Teil der Moragh-Sprach-Arbeit. Sorels nächtliche Hafengasse-Spaziergänge waren Resonanz-Training. Vespers „Volkskunde"-Fragen waren Schem-Recherche. Alle Beobachtungen passen.
+- *Runa-Verdacht (offen, nicht aufgelöst):* Marens Bleilettern-Bestellung mit fremden Zeichen war auffällig. Sorels nächtliche Hafengasse-Spaziergänge passten nicht zu seinem Lichthaus-Keller. Vespers „Volkskunde"-Fragen klangen nicht volkskundlich. Runa registriert die Auffälligkeiten, ohne sie zu deuten — die Deutung kommt erst in Sz2 nach Alphinas Erklärung (Schem-Recherche / Resonanz-Training / Sprach-Arbeit). Sorel-Prinzip: Runa weiß in Sz1 nur, *dass* etwas seltsam war, nicht *was*.
 
 **Tschechow-Waffen geladen Sz1:**
 - **Der Brandfleck am Setzkasten** — Tschechow für K34 (Aktplan: *„Sie fasst einen Bleilettern-Block, und er wird weich unter ihren Fingern."*) und Buch 2 (Runas Feuer-Stufe-Progression).

@@ -1,6 +1,6 @@
 # B1-K35 — Maren — Entwurf
 
-**POV:** Maren (3. Person nah, Präteritum) **mit gelegentlichen Wechseln zu Vesper-POV** (drei kurze Vesper-POV-Beats markiert)
+**POV:** Maren (3. Person nah, Präteritum) **mit gelegentlichen Wechseln zu Vesper-POV** (vier kurze Vesper-POV-Beats markiert: Sz1, Sz2, Sz3, Sz4)
 **Timeline:** Nacht vom 1. auf den 2. Dunkelmond 551 TZ · unmittelbar nach K34 (Ritual-Planung beendet) · vor K36 (Letzter Abend, Sorel hält Hand) und K37 (Ritual-Vollzug)
 **Wortziel Ausarbeitung:** 5.000–5.800 W (lang wegen expliziter BDSM-Sex-Szene mit klinischer Réage-Präzision)
 **Gänsehaut-Moment:** Maren steht in der Mitte von Vespers Wohnung, nackt, die Augen verbunden, die Hände über dem Kopf am Bettpfosten gefesselt, die Beine an den Fußpfosten gestreckt auseinander. Sie hört ihn atmen. Er steht im Raum, sie weiß nicht wo. Sie hat den Schachturm aufgestellt — ihr erstes Mal als Initiierende, nach fünf Monaten als Eingeladene. Er ist gekommen. Was jetzt geschieht, hat sie selbst gerufen.
@@ -101,8 +101,8 @@
 - *„Nicht zu eng."*
 - *„Sag es, wenn es zu eng wird."*
 - *„Ja."*
-- Vesper ging ans Fußteil. Sie hörte den zweiten Strick — länger, ein Stück gerollt. Er band den ersten Strick um ihren rechten Knöchel — zwei Schlingen, sauber gelegt, eingefettetes Hanf glatt auf der Haut, kein Schneiden — dann zog er das Strick-Ende durch ein Loch im rechten unteren Bett-Pfosten und band es fest. Ihr rechtes Bein war jetzt gestreckt, an den Pfosten gefesselt.
-- Er ging um das Bett. Sie hörte seine Schritte, Holzboden, gleichmäßig. Linker Knöchel: dasselbe Verfahren. Ihr linkes Bein wurde nach links gezogen, gestreckt, am linken unteren Pfosten festgemacht. Die Beine standen jetzt offen — nicht weit auseinander, aber genug, dass die Innenseite der Schenkel Luft hatte und die Vulva offen lag, ohne Schutz.
+- Vesper ging ans Fußteil. Sie hörte den zweiten Strick — länger, ein Stück gerollt. Er band den ersten Strick um ihren rechten Knöchel — zwei Schlingen, sauber gelegt, eingefettetes Hanf glatt auf der Haut, kein Schneiden — dann führte er das Strick-Ende durch einen Eisenring, der am rechten unteren Bett-Pfosten befestigt war, und band es fest. Ihr rechtes Bein war jetzt gestreckt, an den Pfosten gefesselt.
+- Er ging um das Bett. Sie hörte seine Schritte, Holzboden, gleichmäßig. Linker Knöchel: dasselbe Verfahren am linken Eisenring. Ihr linkes Bein wurde nach links gezogen, gestreckt, am linken unteren Pfosten festgemacht. Die Beine standen jetzt offen — nicht weit auseinander, aber genug, dass die Innenseite der Schenkel Luft hatte und die Vulva offen lag, ohne Schutz.
 - *„Versuch zu schließen."*
 - Maren versuchte. Die Beine bewegten sich nur in den Schultern der Knöchel-Schlingen, ein paar Zoll. Sonst nichts. Sie konnte die Schenkel nicht zusammenführen.
 - *„Gut."*
@@ -177,7 +177,7 @@
 - *„Vesper."* (Sie hatte seinen Namen heute Nacht nicht ausgesprochen. Es kam ohne Entscheidung.)
 - *„Ich weiß."* Seine Stimme nah, ruhig. *„Du kommst nicht jetzt."*
 - Sie wartete. Sie zwang den Atem flacher. Die Welle ging zurück, langsam, nicht ganz. Sie blieb in der Brust hängen.
-- **▷ Vesper-POV (kurz, ~80 W):** Er sah sie an, ihr Gesicht hinter dem Seidenband, den offenen Mund, die Brust, die schnell ging und langsamer wurde. Er konnte sie kommen lassen, jetzt sofort, mit einem Aufstrich, einem Zungenstrich, einem Wort. Er ließ es nicht. Heute war kein Schenken-Tempo. Heute war Halten-Tempo. Er wollte sie zweimal an die Schwelle bringen und beim dritten Mal nehmen — nicht aus Strenge, sondern weil sie das letzte Mal in dieser Stadt war, wo sie einander hatten, und er wollte ihr Zeit geben in dieser Schwebe, die das Beste war, was Réage gelehrt hatte: dass die Schwelle der Ort ist, an dem das Wollen lebt.
+- **▷ Vesper-POV (kurz, ~80 W):** Er sah sie an, ihr Gesicht hinter dem Seidenband, den offenen Mund, die Brust, die schnell ging und langsamer wurde. Er konnte sie kommen lassen, jetzt sofort, mit einem Aufstrich, einem Zungenstrich, einem Wort. Er ließ es nicht. Heute war kein Schenken-Tempo. Heute war Halten-Tempo. Er wollte sie zweimal an die Schwelle bringen und beim dritten Mal nehmen — nicht aus Strenge, sondern weil sie das letzte Mal in dieser Stadt war, wo sie einander hatten, und er wollte ihr Zeit geben in dieser Schwebe. Die Schwelle war der Ort, an dem das Wollen lebte. Das hatte er in den Monaten mit ihr gelernt.
 - **◁ Maren-POV zurück:** Vesper begann wieder. Mund an der Vulva, langsamer als zuvor. Sie spürte, wie die Welle sich erhob, ein zweites Mal, anders. Diesmal ließ er sie länger steigen. Er kannte ihren Atem, er hörte ihn wachsen. Bevor sie kam — er stoppte erneut.
 - Maren stöhnte, lauter als das erste Mal. Sie hörte Tränen in ihrer eigenen Stimme. Das war neu. Sie verstand: das war kein Schmerz, das war Sehnsucht, die der Körper nicht halten konnte.
 - *„Atme. Komm zurück."*
@@ -244,7 +244,7 @@
 - Vesper kam zurück. Setzte sich aufs Bett, neben sie, die Schuhe ausgezogen, in Hemd und Hose. Legte sich auf die Decke neben sie — nicht unter sie, weil er noch arbeiten musste (drei, vier Stunden waren bis zum Sonnenaufgang). Er legte den Arm unter ihren Kopf, sie legte den Kopf an seine Schulter.
 - *„Du schläfst jetzt. Drei Stunden. Ich bleibe hier."*
 - Maren schloss die Augen.
-- **Letzter Beat:** Sie lag an seiner Schulter. Sein Hemd unter ihrer Wange roch nach Tinte und Lampenöl und nach ihm. Die Standuhr unten schlug — drei-vier-drei. Das Pochen unter ihrem Brustbein war wieder da, aber leise, fast still. Morgen war das Tor. Morgen war Moragh. Heute Nacht war hier. Sie schlief in zwei Atemzügen ein.
+- **Letzter Beat:** Sie lag an seiner Schulter. Sein Hemd unter ihrer Wange roch nach Tinte und Lampenöl und nach ihm. Die Standuhr unten schlug — drei-vier-drei. Das Pochen unter ihrem Brustbein war wieder da, aber leise, fast still. Morgen war das Tor. Morgen das Drüben. Heute Nacht war hier. Sie schlief in zwei Atemzügen ein.
 - **Schluss-Satz (Vorschlag):** *„Vesper sah sie atmen. Drei-vier-drei. Er saß still."*
 
 **Dialog-Informationen Sz4:**
