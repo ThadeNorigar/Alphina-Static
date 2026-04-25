@@ -137,7 +137,7 @@ def render_html(proben):
             return (s or "").replace('"', "&quot;").replace("<", "&lt;").replace(">", "&gt;")
 
         card = f'''
-        <div class="probe-card" id="p-{nr_str}" data-nr="{nr_str}" data-pov="{esc(pov)}" data-heat="{esc(heat)}" data-skeleton="{1 if p["is_skeleton"] else 0}">
+        <div class="probe-card" id="p-{nr_str}" data-nr="{nr_str}" data-kapid="lp{nr_str}" data-pov="{esc(pov)}" data-heat="{esc(heat)}" data-skeleton="{1 if p["is_skeleton"] else 0}" data-comments-loaded="0">
           <div class="probe-head">
             <div class="probe-left">
               <div class="probe-num">Nr. {nr_str}</div>
@@ -321,7 +321,7 @@ def render_html(proben):
       font-family: 'Cormorant Garamond', serif;
       font-size: 1rem; line-height: 1.75; color: var(--ink);
     }}
-    .probe-prosa p {{ margin: 0 0 0.9rem; }}
+    .probe-prosa p {{ margin: 0 0 0.9rem; position: relative; }}
     .probe-prosa em {{ font-style: italic; }}
     .probe-prosa strong {{ font-weight: 600; }}
     .probe-prosa hr.scene-break {{
@@ -329,7 +329,88 @@ def render_html(proben):
       width: 40%; margin: 1.5rem auto;
     }}
 
+    /* ===== Comment UI (analog lesen/_reader.html) ===== */
+    .comment-trigger {{
+      position: absolute; right: -2.2rem; top: 0.25em;
+      width: 1.4rem; height: 1.4rem;
+      background: none; border: 1px solid var(--paper-edge);
+      border-radius: 50%; cursor: pointer;
+      opacity: 0.25; transition: opacity 0.2s, border-color 0.2s, color 0.2s;
+      font-size: 0.65rem;
+      display: flex; align-items: center; justify-content: center;
+      color: var(--smoke); padding: 0; line-height: 1;
+    }}
+    .comment-trigger:hover {{ opacity: 1; border-color: var(--accent); color: var(--accent); }}
+    .probe-prosa p:hover .comment-trigger {{ opacity: 0.7; }}
+    .probe-prosa p.has-comments .comment-trigger {{ opacity: 0.8; border-color: var(--accent); color: var(--accent); }}
+    .probe-prosa p.has-comments {{ border-left: 2px solid var(--accent); padding-left: 0.6rem; margin-left: -0.8rem; }}
+
+    .comment-popup {{
+      position: relative;
+      margin: 0.5rem 0 1rem 0;
+      background: var(--paper-edge);
+      border: 1px solid var(--smoke);
+      border-radius: 4px;
+      padding: 0.8rem 1rem;
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.9rem;
+    }}
+    .comment-popup-close {{
+      position: absolute; top: 0.4rem; right: 0.6rem;
+      background: none; border: none; cursor: pointer;
+      font-size: 1.1rem; color: var(--smoke); line-height: 1;
+    }}
+    .comment-list {{ margin-bottom: 0.6rem; }}
+    .comment-item {{
+      padding: 0.4rem 0;
+      border-bottom: 1px solid rgba(107,58,58,0.15);
+      color: var(--ink); line-height: 1.5;
+    }}
+    .comment-item:last-child {{ border-bottom: none; }}
+    .comment-item-meta {{
+      font-size: 0.72rem; color: var(--smoke);
+      letter-spacing: 0.05em; margin-top: 0.2rem;
+    }}
+    .comment-empty {{
+      color: var(--smoke); font-style: italic;
+      font-size: 0.85rem; margin-bottom: 0.4rem;
+    }}
+    .comment-textarea {{
+      width: 100%; box-sizing: border-box;
+      font-family: 'Cormorant Garamond', serif; font-size: 0.95rem;
+      background: var(--paper); border: 1px solid var(--smoke);
+      border-radius: 3px; padding: 0.5rem; color: var(--ink);
+      resize: vertical; min-height: 4rem; margin-top: 0.5rem;
+    }}
+    .comment-submit {{
+      margin-top: 0.4rem;
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.8rem; letter-spacing: 0.15em; text-transform: uppercase;
+      background: none; border: 1px solid var(--accent); color: var(--accent);
+      padding: 0.3rem 0.9rem; border-radius: 2px; cursor: pointer;
+      transition: background 0.2s, color 0.2s;
+    }}
+    .comment-submit:hover {{ background: var(--accent); color: var(--paper); }}
+    .comment-submit:disabled {{ opacity: 0.4; cursor: default; }}
+
+    .comment-quick-tags {{
+      display: flex; flex-wrap: wrap; gap: 0.25rem;
+      margin: 0.5rem 0 0.4rem 0;
+    }}
+    .comment-quick-tag {{
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.68rem; letter-spacing: 0.1em; text-transform: uppercase;
+      background: none; border: 1px solid var(--smoke); color: var(--smoke);
+      padding: 0.12rem 0.45rem; border-radius: 2px; cursor: pointer;
+      transition: background 0.15s, color 0.15s, border-color 0.15s;
+    }}
+    .comment-quick-tag:hover:not(:disabled) {{ background: var(--accent); color: var(--paper); border-color: var(--accent); }}
+    .comment-quick-tag.tag-gut {{ border-color: #6b8e6b; color: #6b8e6b; }}
+    .comment-quick-tag.tag-gut:hover:not(:disabled) {{ background: #6b8e6b; border-color: #6b8e6b; color: var(--paper); }}
+    .comment-quick-tag:disabled {{ opacity: 0.35; cursor: default; }}
+
     @media (max-width: 600px) {{
+      .comment-trigger {{ right: -1.6rem; }}
       .probe-head {{ padding: 0.9rem 1.2rem; flex-wrap: wrap; }}
       .probe-meta {{ display: none; }}
       .probe-prosa {{ padding: 1rem 1.2rem 1.5rem; font-size: 0.95rem; }}
@@ -382,18 +463,204 @@ def render_html(proben):
   </div>
 
   <script>
-    // Toggle
+    // ===== Comment-System (analog lesen/_reader.html) =====
+    const COMMENT_API = '/api/comments';
+    const COMMENT_MODUS = 'entwurf';
+    let activePopup = null;
+
+    function getUserId() {{
+      let uid = localStorage.getItem('alphina_reader_id');
+      if (!uid) {{
+        uid = (crypto.randomUUID ? crypto.randomUUID()
+               : Date.now().toString(36) + Math.random().toString(36).slice(2));
+        localStorage.setItem('alphina_reader_id', uid);
+      }}
+      return uid;
+    }}
+    const USER_ID = getUserId();
+
+    function escHtml(s) {{
+      return String(s).replace(/[&<>"']/g, c => ({{
+        '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
+      }})[c]);
+    }}
+
+    function formatDate(iso) {{
+      const d = new Date(iso);
+      return d.toLocaleDateString('de-DE', {{ day: '2-digit', month: '2-digit', year: '2-digit' }})
+        + ' ' + d.toLocaleTimeString('de-DE', {{ hour: '2-digit', minute: '2-digit' }});
+    }}
+
+    function closeActivePopup() {{
+      if (activePopup) {{ activePopup.remove(); activePopup = null; }}
+    }}
+
+    const QUICK_TAGS = [
+      {{ label: 'ABSTRACT',  text: 'ABSTRACT — zu vage, kein konkretes Bild' }},
+      {{ label: 'ERKLÄRT',   text: 'ERKLÄRT — Auswertung vor den Daten (announced interpretation)' }},
+      {{ label: 'SCHARNIER', text: 'SCHARNIER — Aphorismus der erklärt was das Bild schon sagt' }},
+      {{ label: 'GRAMMAR',   text: 'GRAMMAR — verquere oder gebrochene Satzkonstruktion' }},
+      {{ label: 'REGISTER',  text: 'REGISTER — falsches POV-Vokabular, Berufslinse gebrochen' }},
+      {{ label: 'RHYTHMUS',  text: 'RHYTHMUS — falsches Tempo für diese Szene' }},
+      {{ label: 'BEGEHREN',  text: 'BEGEHREN — Attraction declared, nicht demonstrated' }},
+      {{ label: 'GUT ✓',     text: 'GUT — sitzt, nicht anfassen', cls: 'tag-gut' }},
+    ];
+
+    function renderPopup(p, idx, kapId, commentsByIdx) {{
+      closeActivePopup();
+      const popup = document.createElement('div');
+      popup.className = 'comment-popup';
+      popup.dataset.idx = idx;
+
+      const closeBtn = document.createElement('button');
+      closeBtn.className = 'comment-popup-close';
+      closeBtn.textContent = '×';
+      closeBtn.onclick = closeActivePopup;
+      popup.appendChild(closeBtn);
+
+      const list = document.createElement('div');
+      list.className = 'comment-list';
+      const existing = commentsByIdx[idx] || [];
+      if (existing.length === 0) {{
+        list.innerHTML = '<p class="comment-empty">Noch keine Anmerkungen.</p>';
+      }} else {{
+        existing.forEach(c => {{
+          const item = document.createElement('div');
+          item.className = 'comment-item';
+          item.innerHTML = '<div>' + escHtml(c.text) + '</div><div class="comment-item-meta">' + formatDate(c.created_at) + '</div>';
+          list.appendChild(item);
+        }});
+      }}
+      popup.appendChild(list);
+
+      async function postComment(text) {{
+        const absatzText = p.textContent.slice(0, 120);
+        const r = await fetch(COMMENT_API, {{
+          method: 'POST',
+          headers: {{ 'Content-Type': 'application/json', 'X-User-Id': USER_ID }},
+          body: JSON.stringify({{ kapitel_id: kapId, modus: COMMENT_MODUS, absatz_idx: idx, absatz_text: absatzText, text }}),
+        }});
+        if (!r.ok) throw new Error('Fehler ' + r.status);
+        if (!commentsByIdx[idx]) commentsByIdx[idx] = [];
+        commentsByIdx[idx].push({{ text, created_at: new Date().toISOString() }});
+        p.classList.add('has-comments');
+      }}
+
+      const quickTagsDiv = document.createElement('div');
+      quickTagsDiv.className = 'comment-quick-tags';
+      QUICK_TAGS.forEach(tag => {{
+        const btn = document.createElement('button');
+        btn.className = 'comment-quick-tag' + (tag.cls ? ' ' + tag.cls : '');
+        btn.textContent = tag.label;
+        btn.onclick = async (e) => {{
+          e.stopPropagation();
+          btn.disabled = true;
+          try {{
+            await postComment(tag.text);
+            closeActivePopup();
+          }} catch (_) {{
+            btn.disabled = false;
+          }}
+        }};
+        quickTagsDiv.appendChild(btn);
+      }});
+      popup.appendChild(quickTagsDiv);
+
+      const textarea = document.createElement('textarea');
+      textarea.className = 'comment-textarea';
+      textarea.placeholder = 'Oder freier Text …';
+      popup.appendChild(textarea);
+
+      const submitBtn = document.createElement('button');
+      submitBtn.className = 'comment-submit';
+      submitBtn.textContent = 'Anmerken';
+      submitBtn.onclick = async () => {{
+        const text = textarea.value.trim();
+        if (!text) return;
+        submitBtn.disabled = true;
+        submitBtn.textContent = '…';
+        try {{
+          await postComment(text);
+          closeActivePopup();
+          renderPopup(p, idx, kapId, commentsByIdx);
+        }} catch (e) {{
+          submitBtn.disabled = false;
+          submitBtn.textContent = 'Fehler — nochmal';
+        }}
+      }};
+      popup.appendChild(submitBtn);
+
+      p.insertAdjacentElement('afterend', popup);
+      activePopup = popup;
+      textarea.focus();
+    }}
+
+    function initCommentsForCard(card) {{
+      if (card.dataset.commentsLoaded === '1') return;
+      card.dataset.commentsLoaded = '1';
+
+      const kapId = card.dataset.kapid;
+      const prosa = card.querySelector('.probe-prosa');
+      if (!prosa) return;
+
+      const commentsByIdx = {{}};
+
+      fetch(COMMENT_API + '?kapitel=' + encodeURIComponent(kapId) + '&modus=' + COMMENT_MODUS, {{
+        headers: {{ 'X-User-Id': USER_ID }}
+      }})
+        .then(r => r.json())
+        .then(comments => {{
+          comments.forEach(c => {{
+            if (!commentsByIdx[c.absatz_idx]) commentsByIdx[c.absatz_idx] = [];
+            commentsByIdx[c.absatz_idx].push(c);
+          }});
+
+          const paras = prosa.querySelectorAll('p');
+          paras.forEach((p, idx) => {{
+            const btn = document.createElement('button');
+            btn.className = 'comment-trigger';
+            btn.title = 'Anmerkung';
+            btn.textContent = '✎';
+            btn.onclick = (e) => {{
+              e.stopPropagation();
+              if (activePopup && activePopup.parentElement === prosa && parseInt(activePopup.dataset.idx) === idx) {{
+                closeActivePopup();
+              }} else {{
+                renderPopup(p, idx, kapId, commentsByIdx);
+              }}
+            }};
+            p.appendChild(btn);
+
+            if (commentsByIdx[idx] && commentsByIdx[idx].length > 0) {{
+              p.classList.add('has-comments');
+            }}
+          }});
+        }})
+        .catch(() => {{}});
+    }}
+
+    document.addEventListener('click', (e) => {{
+      if (activePopup && !activePopup.contains(e.target) && !e.target.classList.contains('comment-trigger')) {{
+        closeActivePopup();
+      }}
+    }});
+
+    // Toggle — beim Aufklappen Comments lazy laden
     document.querySelectorAll('.probe-head').forEach(head => {{
       head.addEventListener('click', () => {{
         head.classList.toggle('open');
+        const card = head.closest('.probe-card');
         const body = head.nextElementSibling;
         if (body && body.classList.contains('probe-body')) {{
           body.classList.toggle('open');
+          if (body.classList.contains('open') && card) {{
+            initCommentsForCard(card);
+          }}
         }}
       }});
     }});
 
-    // Auto-open per URL-Hash (#p-XX) + scroll
+    // Auto-open per URL-Hash (#p-XX) + scroll + Comments
     function openFromHash() {{
       const hash = window.location.hash;
       if (!hash || !hash.startsWith('#p-')) return;
@@ -404,6 +671,7 @@ def render_html(proben):
       if (head && body && !body.classList.contains('open')) {{
         head.classList.add('open');
         body.classList.add('open');
+        initCommentsForCard(card);
       }}
       setTimeout(() => card.scrollIntoView({{ behavior: 'smooth', block: 'start' }}), 50);
     }}
