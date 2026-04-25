@@ -34,15 +34,15 @@ Er tauchte den Zeigefinger der rechten Hand in die Schale. Das Blut war warm, wi
 
 Der Kristall nahm an.
 
-Das war kein Bild. Er spürte die Wärme in seiner Handfläche abrufen — nicht groß, nicht mit Ruck. Eine langsame Abwendung. Die Flamme der Kerze auf dem Tisch wurde einen Finger breit kleiner und blieb so. Der Kristall begann tief im Inneren zu glimmen. Ein Licht, das kein Licht war, sondern Anwesenheit.
+Das war kein Bild. Er spürte die Wärme in seiner Handfläche abrufen — nicht groß, nicht mit Ruck. Eine langsame Abwendung. Die Flamme der Kerze auf dem Tisch wurde einen Finger breit kleiner und blieb so. Der Kristall begann tief im Inneren zu glimmen — ein Glimmen, das nicht aus dem Stein kam.
 
 In der Ecke des Raumes — der hinteren Ecke, rechts, wo er den gebundenen gestellt hatte — bewegte sich etwas. Es bewegte sich nicht im Raum, nur um sich selbst, wie Tuch, das in einem Luftzug zittert. Es kam nicht näher. Es wollte nicht näher. Das war das Interessante: es wollte wegtreten.
 
-Das hieß, dass die Bindung hielt. Ungebundene Wesen lösten sich auf, wenn er so arbeitete; er hatte das zweimal beobachtet, im dritten Monat, ohne Absicht. Gebundene blieben, aber sie zogen sich in sich zurück. Talven hatte sich daran gewöhnt, in diese Stille hinein zu arbeiten.
+Das hieß, dass die Bindung hielt. Ungebundene Wesen lösten sich auf, wenn er so arbeitete; er hatte das zweimal beobachtet, im dritten Monat, ohne Absicht. Gebundene blieben, aber sie zogen sich in sich zurück. Talven hatte sich daran gewöhnt. Er arbeitete in der Stille weiter.
 
 Er sprach kein Wort.
 
-Die Bindung war keine Sprache. Die Bindung war die Richtung seines Willens in die Flamme, die Flamme in den Kristall, der Kristall in das Gebundene. Er hielt die Richtung, bis der Kristall voll war, und er wusste, wann er voll war, weil seine Handfläche nicht mehr kalt wurde.
+Die Bindung war keine Sprache. Sein Wille lag in der Flamme, die Flamme im Kristall, der Kristall im Gebundenen. Er hielt die Richtung, bis seine Handfläche nicht mehr kalt wurde. So wusste er, dass der Kristall voll war.
 
 Er nahm die Hand weg. Er sah sie an.
 
@@ -62,4 +62,4 @@ Er löschte die Kerze nicht. Er saß noch eine Weile, die gebundene Hand auf der
 
 Er kam auf eine Zahl. Sie war größer, als er vermutet hatte.
 
-Das beruhigte ihn, ohne dass er es zugab.
+Das beruhigte ihn.
