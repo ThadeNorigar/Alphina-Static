@@ -26,9 +26,9 @@ Der Geruch erreichte ihn als zweites. Altes Eisen, metallisch, kühler als die L
 
 Er spürte die Schulter, bevor er sie sah.
 
-Am Pfeiler, auf der Höhe, wo der Stein anders war, löste sich etwas aus dem Stein heraus. Es kam nicht aus einer Ritze. Es trat aus dem Stein, als wäre der Stein Vorhang und dahinter der Raum. Es war größer als ein Mensch, und es war kleiner zugleich — Vesper konnte nicht sagen, wie, er konnte es später nicht erklären, er konnte es im Moment nur registrieren.
+Am Pfeiler, auf der Höhe, wo der Stein anders war, löste sich etwas aus dem Stein heraus. Es kam nicht aus einer Ritze. Es trat aus dem Stein, als wäre der Stein Vorhang und dahinter der Raum. Es war größer als ein Mensch und kleiner zugleich — Vesper konnte das nicht zusammenbringen. Er registrierte es nur.
 
-Die Augen kamen als Letztes. Zwei mandelförmige Punkte, nicht rund, nicht leuchtend wie eine Flamme, sondern kalt wie ein Spiegel, auf den man in der Dunkelheit eine Lampe gerichtet hat. Sie fanden ihn.
+Die Augen kamen als Letztes. Zwei mandelförmige Punkte, nicht rund, kalt wie ein Spiegel, auf den man in der Dunkelheit eine Lampe gerichtet hat. Sie fanden ihn.
 
 Vespers Hand zog die Uhr aus der Tasche, bevor sein Kopf wusste, wozu.
 
