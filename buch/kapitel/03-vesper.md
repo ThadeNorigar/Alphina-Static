@@ -18,7 +18,7 @@ Fertig.
 
 Die Werkstatt roch nach Maschinenöl und Messing. Im Saatmond kam der Schleifstaub der Nachbarwerkstätten dazu, feiner Staub aus Kupfer und Stahl, der durch die Ritzen des Fensters kroch und sich auf alles legte — auf die Werkbank, auf die Lupe, auf das Glas des Regals. Vesper wischte ihn jeden Morgen weg. Jeden Abend kam er zurück. In Karst bestand die Luft aus Metall.
 
-Das Fenster war hoch und schmal. Märzlicht fiel hindurch. Grau, ohne Wärme. Zwei Räume — die Werkstatt vorn, der Schlafraum dahinter, schmal wie eine Schublade, ein Bett, ein Stuhl, ein Haken für den Mantel. Mehr brauchte er nicht.
+Das Fenster war hoch und schmal. Licht fiel hindurch. Grau, ohne Wärme. Zwei Räume — die Werkstatt vorn, der Schlafraum dahinter, schmal wie eine Schublade, ein Bett, ein Stuhl, ein Haken für den Mantel. Mehr brauchte er nicht.
 
 Er trug die Uhr zum Regal.
 
@@ -84,7 +84,7 @@ An den Nebentischen lief das übliche Gespräch. Federstahlpreise. Gildepolitik.
 
 Der Mann kam durch die Tür, als die Gildeuhr sieben schlug.
 
-Groß. Das war das Erste. Größer als die meisten Männer in Karst. Er duckte sich unter dem Türbalken, und die Bewegung war geübt, als täte er das oft, als wäre die Welt für ihn eine Handbreit zu niedrig. Schmale Schultern für seine Größe. Reisemantel, dunkel, nass vom Märzregen. Er schüttelte ihn nicht ab. Setzte sich an Vespers Tisch — der einzige mit einem freien Platz — und bestellte Bier, ohne die Karte zu lesen.
+Groß. Das war das Erste. Größer als die meisten Männer in Karst. Er duckte sich unter dem Türbalken, und die Bewegung war geübt, als täte er das oft, als wäre die Welt für ihn eine Handbreit zu niedrig. Schmale Schultern für seine Größe. Reisemantel, dunkel, nass vom Frühlingsregen. Er schüttelte ihn nicht ab. Setzte sich an Vespers Tisch — der einzige mit einem freien Platz — und bestellte Bier, ohne die Karte zu lesen.
 
 "Reisender?", fragte Vesper.
 
@@ -164,7 +164,7 @@ Vesper hörte zu. Seine Hände lagen auf dem Tisch. Ruhig. In seinem Kopf lief d
 
 Der Mann stand auf. Zog seinen Mantel an. Groß, unter dem niedrigen Balken, die schmalen Schultern, der nasse Stoff. "Gute Nacht." Er nickte Vesper zu. Ein Nicken das eine Sekunde zu lang dauerte.
 
-Die Tür fiel zu. Märzwind blies Regen in den Schankraum, einen Atemzug lang. Dann war die Tür dicht und der Raum warm und laut und der Platz gegenüber leer.
+Die Tür fiel zu. Wind blies Regen in den Schankraum, einen Atemzug lang. Dann war die Tür dicht und der Raum warm und laut und der Platz gegenüber leer.
 
 Vesper saß. Sein Bier war halb voll. Er trank es nicht.
 
@@ -176,7 +176,7 @@ Wie die Diagonale.
 
 Vesper legte eine Münze auf den Tisch. Ging.
 
-Draußen war die Gasse nass. Der Regen hatte aufgehört. Die Laternen warfen Flecken auf das Pflaster, gelb und zitternd. Der Mann war nirgends zu sehen. Keine Schritte, kein Mantel, kein Schatten. Als wäre er nicht durch die Tür gegangen, sondern aufgelöst.
+Draußen war die Gasse nass. Der Regen hatte aufgehört. Die Laternen warfen Flecken auf das Pflaster, gelb und zitternd. Der Mann war nirgends zu sehen. Keine Schritte, kein Mantel, kein Schatten. Als hätte er sich aufgelöst.
 
 Vesper ging nach Hause. Drei Straßen, sechs Minuten. Der Turm in seiner Tasche. Still.
 
@@ -278,7 +278,7 @@ Die Werkstatt war still. Alle Uhren zeigten 4:33. Keine bewegte sich. Er würde 
 
 Er drehte sich nicht um.
 
-Draußen war Karst still und kalt. Die Laternen brannten auf dem Gildenplatz, gelb auf nassem Stein. Märzluft — Rauch, Frost, der ferne Geruch von Metall, der nie ganz verschwand. Sein Atem war weiß.
+Draußen war Karst still und kalt. Die Laternen brannten auf dem Gildenplatz, gelb auf nassem Stein. Saatmondluft — Rauch, Frost, der ferne Geruch von Metall, der nie ganz verschwand. Sein Atem war weiß.
 
 Er schloss die Tür. Der Schlüssel drehte sich im Schloss. Ein sauberes Klicken. Der einzige Mechanismus der noch funktionierte.
 
