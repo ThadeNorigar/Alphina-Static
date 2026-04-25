@@ -1766,6 +1766,27 @@
     },
     {
       "tz": 551,
+      "tz_sort": 551.625,
+      "tz_datum": "14. Nebelmond 551 TZ · Abend",
+      "welt": "thalassien",
+      "pov": "Runa",
+      "buch": "B1",
+      "kapitel": "31b",
+      "leseart": "normal",
+      "titel": "Runa allein — Selbst-Erkenntnis und Hilfe-Entschluss",
+      "detail": "Abend nach dem Marktplatz-Angriff aus K31. Runa in der Druckerei, allein, der Brandfleck am Setzkasten frisch. Sie geht durch die letzten Wochen rückwärts: Alphinas nervöse Blicke seit Glutmond, Marens beiläufige Erwähnung einer 'Übersetzung' mit Vesper, Sorels späte Stunden in der Stadt, die Flugblätter, die sie selbst gedruckt hat. Sie hat alles beobachtet, alles gesehen, nichts gesagt. Sie ist nicht verletzt, dass die Vier sie nicht eingeweiht haben — sie versteht, dass Schutz das Motiv war. Erkenntnis: Sie will helfen. Heimliche Trauer um die ungelebte Naehe — sie ist allein, die anderen sind zu zweit — aber ohne Bitterkeit; sie goennt beiden Paaren ihr Glueck. Innere Vorbereitung auf K33 'Ich komme mit'. Runa-POV, einziges Runa-Kapitel in B1.",
+      "typen": ["erkenntnis", "charakter"],
+      "tags": [
+        "Runa-POV (einziges Buch-1)",
+        "Erkenntnis: alles beobachtet, alles verstanden",
+        "Entschluss: helfen, nicht verletzt",
+        "Heimliche Eifersucht ohne Groll",
+        "Setup für K33 'Ich komme mit'"
+      ],
+      "kapitel_status": "szenenplan"
+    },
+    {
+      "tz": 551,
       "tz_sort": 551.64,
       "tz_datum": "21. Nebelmond 551 TZ",
       "welt": "thalassien",
@@ -1804,6 +1825,27 @@
       ],
       "tags": [
         "Schluesselereignis: Entscheidung"
+      ],
+      "kapitel_status": "szenenplan"
+    },
+    {
+      "tz": 551,
+      "tz_sort": 551.665,
+      "tz_datum": "Nacht 1./2. Dunkelmond 551 TZ",
+      "welt": "thalassien",
+      "pov": "Maren (mit Vesper-POV-Wechseln)",
+      "buch": "B1",
+      "kapitel": "33b",
+      "leseart": "normal",
+      "titel": "Letzte Nacht V/M — Schachturm-Initiation, harte BDSM-Szene",
+      "detail": "Nach K33 (Ritual-Planung) und vor K34 (Letzter Abend) / K35 (Ritual). Maren geht direkt von der Werft (Boot, 'Warte auf mich') zu Vesper. Sie stellt den Schachturm auf seinen Tisch — Session-Wunsch nach K27-Grammatik, jetzt von ihr initiiert (erstmals seit Übergabe der Figur in den fünf Monaten). Vesper versteht ohne Wort. Harte BDSM-Szene, Réage-Register: Ausziehen auf Anweisung (stehen, drehen, bücken), Augenbinde, Hände über dem Kopf gefesselt, Beine gestreckt auseinander gebunden. Sehr langsames Spiel: Scham, Anus, Lecken, Stopp-vor-Orgasmus, Ficken, Reiben bis zum Orgasmus. Aftercare: Schachturm zurück, Decke, Hand zwischen den Schulterblättern, Atem in seine Hand. Maren-POV durchgehend mit gelegentlichen Vesper-POV-Wechseln (Réage-Dom-Innenleben: Zeit-Kontrolle als Dienst an ihr, nicht Machtgenuss). Letzte Vael-Nacht.",
+      "typen": ["beziehung", "tschechow"],
+      "tags": [
+        "V/M-Initiation durch Maren (Schachturm-Aufstellung)",
+        "Erste explizite V/M-Sex-Szene mit Penetration",
+        "Réage-Register vollausgeschöpft",
+        "Letzte Nacht in Vael (Beziehungs-Zenit)",
+        "Tschechow für B2 (V/M-Trennung in Moragh)"
       ],
       "kapitel_status": "szenenplan"
     },
