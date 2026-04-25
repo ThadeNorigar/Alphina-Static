@@ -1,62 +1,54 @@
 # Handoff — B1-K26
 
-**Von Phase:** entwurf → **Zu Phase:** ausarbeitung  
-**Erstellt:** 2026-04-21  
-**Status beim Handoff:** entwurf-ok
+**Von Phase:** ausarbeitung → **Zu Phase:** lektorat-fix
+**Erstellt:** 2026-04-25
+**Status beim Handoff:** lektorat
 
 ## Modell-Empfehlung
-claude --model opus
+claude --model sonnet
+(oder claude --model haiku für Mikro-Fixes)
 
 ## Aufruf für nächste Session
-/ausarbeitung B1-K26
+/lektorat-fix B1-K26
 
-## Kontext für nächste Session
+## Kontext
+- Datei: buch/kapitel/B1-K26-vesper.md
+- Wortzahl: 6321 W (Ziel war 4.500–5.000, deutlich darüber, aber Plot-tragend)
+- Phase: Lektorat-Fixes (Autor-getrieben, kleine Edits)
+- Kein neuer Stil-Check, kein Council. Nur was der Autor anfasst.
 
-- **POV:** Vesper (3. Person nah, Präteritum)
-- **Wortziel:** 4.500–5.000 W
-- **Timeline-Anker:** 26. Blütenmond 551 TZ, abends, einen Tag nach K24
-- **Freigegebener Entwurf:** buch/kapitel/B1-K26-entwurf.md
-- **Ton-Referenz:** buch/leseproben/12-gruppenszene-tension.md (primär, Vesper-POV, Gruppenszene mit verborgener V/M-Dynamik) + buch/leseproben/10-welt-vael-kalt.md (Vesper-Analytik) + buch/leseproben/04-bdsm-alltag-vesper-maren.md (V/M-Alltag Power-Exchange)
-- **Vorgänger-Kapitel für Ton-Kontinuität:** buch/kapitel/B1-K24-entwurf.md (direkter Vorgänger, alle vier, Archiv-Schock) + buch/kapitel/B1-K25-entwurf.md (Vormittag desselben Tages, Runa-Sichtungen)
+## Anweisungen
+- Edit-Tool bevorzugt vor Write-Tool
+- Kein ungefragtes Umformulieren
+- Bei größeren Wünschen: Hinweis auf Rückstufung zu /ausarbeitung
+- Status final NUR auf explizite Autor-Freigabe
 
-## Szenen-Struktur
+## Offene Punkte (bewusst zurückgestellt)
 
-**Szene 1 — Ankommen, Marens Wohnung**  
-Wortziel: 900–1.000 W
+### 1. Vespers Berufslinse-Eingriff (separate Session)
+Der Council (Stilkritiker + Autorin-Durchgang) hat festgestellt: Vesper
+agiert als Moderator/Protokollant, seine Uhrmacher-Linse fehlt. ABER:
+**nicht als zwanghafter Tick mit „Toleranz/Hemmung/Passung"** in jedem
+Satz, sondern als Sprachgebrauch + Gewohnheiten. Memory-Eintrag
+`feedback_berufslinse_max_10_prozent.md` wurde entsprechend korrigiert
+(3-5 Momente pro Kapitel, nicht 15-20% Volumen).
 
-**Szene 2 — Datenabgleich, Diskussion, Korrelations-Erkenntnis**  
-Wortziel: 2.000–2.200 W
+Autor-Wunsch: in einer **frischen Session** anpacken, nicht in K26-Lektorat.
 
-**Szene 3 — [Rest aus Entwurf]**  
-Wortziel: 1.600–1.800 W
+### 2. „Hefte vs. Bücher" final entscheiden
+Marens Werft-Tabellen werden im Text als „Bücher" bezeichnet (war vorher
+„Hefte"). Möglicherweise besser: „Register" oder „Logbuch" als Werft-
+Variante. Final-Entscheidung steht noch aus.
 
-## Kritische Anweisungen für die Ausarbeitung
+## Council-Findings die EINGEARBEITET wurden
+15 Stellen gefixt: Vesper-untypische Pointe, Maren-Doppelung, Narrator-
+Glossen, Lärchenscheite-Genus, Anaphern-Kaskaden aufgelöst, Schluss-
+Aphorismus gestrafft, Erklär-Nachsätze raus, V/M-Mikro-Beat + Tee-
+Geschmack im Mittelteil, Pause-Beats vor Sorels Warum-Frage und Harons
+Randbemerkung, Sorel-Platte-3 verlangsamt mit Alphina-Beat.
 
-**Canon-Vokabular:** Keine Figur sagt "Resonanz" / "Ritual" / "Quelle" / "Portal" in Zitaten. Stattdessen: "Schwelle" / "Anleitung" / "Mitte" / "Ursache" / "in die Schicht legen".
-
-**Schachturm-Warm-Moment (Szene 2):** Halbe Sekunde Wärmung unter der Handfläche, wenn Alphina *"Das ist der Steinkreis"* sagt. Dann wieder kalt. K18-analog, nicht benannt.
-
-**Vespers Erkennungsführung körperlich:** Im Drift-Gezeiten-Moment sieht Vesper als Erster, hält einen halben Atemzug inne (Finger auf Scheitel, Atem angehalten), bevor er spricht. Die anderen folgen ihm.
-
-**V/M Power-Exchange (Szene 1) somatisch:** Marens Mantelabnahme im Vesper-POV körperlich registrieren (Fingerstellung, Atem eine halbe Sekunde länger). Keine Erzähler-Information, Wahrnehmung.
-
-**Marens innerer Beat bei Harons Randbemerkung:** *"nicht allein. nie allein."* — Sie liest laut, legt das Wörterbuch hin, sagt nichts. Vesper-POV registriert Körperzeichen (Atemtiefe, Schulter, wie sie das Buch absetzt). Ein Satz max. Innenleben nicht erklären.
-
-**Sorel aktiv:** Er redet, widerspricht, fragt. In Szene 2 bringt er Foto-Linsen-Beiträge (Kaimauer-Platte, rückwirkend Schem-Abdruck erkannt). In Szene 3 stellt er zentrale Warum-Fragen. Kein Echo-Schweigen.
-
-**Alphina/Sorel:** Yarros/Maas-Register, leise. Nur Körperbeats (Knopf-Halt, Hand am Rücken, Hand in Hand beim Gehen). Kein Heat, kein Sub-Gestus für Sorel. Stille Nähe.
-
-**Keine explizite BDSM-Szene** — die kommt in K27. Hier nur Power-Exchange im Alltag.
-
-**Epochen-Canon:** Keine realen Jahreszahlen (nicht "1813"), nur TZ-Datum (TZ 301 für Tidemoor-Journal).
-
-**Marens Wohnung Canon:** 5 Straßen nördlich Werft, Hafengasse, 3 Min zur Werft. Nicht über Werft, kein Werft-Kotten.
-
-**Umlaute** durchgehend, kein ae/oe/ue.
-
----
-
-**Anweisungen:**
-- Prosa aus dem Entwurf ausarbeiten, Plot nicht verändern.
-- Jeder Dialog-Info-Punkt aus dem Entwurf muss in der Prosa landen.
-- Keine Plot-Änderung ohne Rückkehr zu /entwurf.
+## Council-Findings die NICHT eingearbeitet wurden
+- Vespers Berufslinse (s.o., separate Session)
+- „Konkretheit 31% Absätze ohne Material" (Stil-Check) — Plot-tragend, Risiko: zusätzliche Material-Details würden den Text aufblähen
+- „nickte" 19× (monoton) — Ersetzungen würden bei vielen Stellen kleinere Eingriffe brauchen
+- Vesper-Sätze über 30W (Z23, Z77) — Halvard-Erklärung dicht, aber funktional
