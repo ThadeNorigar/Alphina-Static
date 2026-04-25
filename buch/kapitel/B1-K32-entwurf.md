@@ -18,11 +18,11 @@
 
 **Wortziel:** 1.100–1.300 W
 
-**Ort:** Druckerei Kvist, Oberstadt Vael, kurz vor Abenddämmerung am 14. Nebelmond. Werkstatt im Erdgeschoss: lange Werkbank mit Setzkästen rechts, die alte Eisenpresse (Holzrahmen, Eisenhebel) Mitte hinten, drei Setzkasten-Reihen an der Ostwand, Tintenfässer auf dem niedrigen Schrank. Lampenöl-Geruch, Bleilettern-Geruch (kühl-metallisch), Tinte (harzig). Die Gesellen Beln und Talen hat Runa nach dem Mittag nach Hause geschickt — sie braucht heute keine Augen am Setzkasten. Hinter der Werkstatt eine kleine Wohnung im Obergeschoss (eine Stiege im Hinterhaus). Auf der Gasse vor dem Schaufenster: still. Die Stadt hat heute nach dem Marktplatz den Atem angehalten. Eine Patrouille kommt jede halbe Stunde vorbei.
+**Ort:** Druckerei Kvist, Oberstadt Vael, kurz vor Abenddämmerung am 14. Nebelmond. Werkstatt im Erdgeschoss: lange Werkbank mit Setzkästen rechts, die alte Eisenpresse (Holzrahmen, Eisenhebel) Mitte hinten, drei Setzkasten-Reihen an der Ostwand, Tintenfässer auf dem niedrigen Schrank. Lampenöl-Geruch, Bleilettern-Geruch (kühl-metallisch), Tinte (harzig). Die Gesellen Beln und Tarn hat Runa nach dem Mittag nach Hause geschickt — sie braucht heute keine Augen am Setzkasten. Hinter der Werkstatt eine kleine Wohnung im Obergeschoss (eine Stiege im Hinterhaus). Auf der Gasse vor dem Schaufenster: still. Die Stadt hat heute nach dem Marktplatz den Atem angehalten. Eine Patrouille kommt jede halbe Stunde vorbei.
 
 **Beats (sachliches Exposé, Runa-POV):**
 
-- Runa stand seit dem Mittag nicht mehr am Setzkasten. Sie hatte aufgeräumt, was kein Aufräumen brauchte: die Tintenfässer richtig hingestellt, den Boden gefegt, die Presse abgedeckt. Beln und Talen waren früh nach Hause gegangen — sie hatte gesagt, sie wolle allein arbeiten. Sie hatte nicht gearbeitet. Sie hatte gewartet.
+- Runa stand seit dem Mittag nicht mehr am Setzkasten. Sie hatte aufgeräumt, was kein Aufräumen brauchte: die Tintenfässer richtig hingestellt, den Boden gefegt, die Presse abgedeckt. Beln und Tarn waren früh nach Hause gegangen — sie hatte gesagt, sie wolle allein arbeiten. Sie hatte nicht gearbeitet. Sie hatte gewartet.
 - Sie wusste nicht genau, worauf.
 - Drei Stunden lang hatte sie sich in der Werkstatt bewegt, ohne etwas anzufassen, dessen sie sich nicht sicher gewesen wäre, dass es nicht wärmer wurde. Den Hebel der Presse hatte sie gemieden (Eisen, gross). Den Wassereimer gemieden (sie hatte ihn vorgestern noch ohne Bedacht angefasst). Sie war stehen geblieben am Fenster, hatte hinausgeschaut. Auf der Hauptgasse hatte sie zwei Familien gesehen, die mit Bündeln zum Tor wollten — die Tochter weinte, die Mutter zog sie weiter.
 - Jetzt, gegen die Dämmerung, ging sie zum Setzkasten zurück. Setzte sich auf den Hocker, der seit fünf Jahren ihre rechte Hüfte kannte. Nahm einen Bleilettern-Block heraus. Ein **A** für ein Plakat, das sie morgen nicht mehr drucken würde.
@@ -32,7 +32,7 @@
 - Runa legte den Bleilettern zurück. Schaute auf den Setzkasten — die fünf Kästen, jeder mit seinen sechzig Fächern, jedes Fach mit den Lettern, die sie in den letzten elf Jahren tausendfach gesetzt hatte. Sie hatte nie überlegt, ob das Blei sich wärmer anfühlte als Eisen — Blei ist kühl-weich, Eisen ist kühl-hart, das war das Wissen ihres Berufs. Heute hatte sich der Block in ihrer Hand verformt.
 - Sie ging die letzten Wochen rückwärts. Beobachtungen, die sie gesammelt hatte, ohne sie zu sortieren.
   - **Alphina** war seit dem Glutmond knapper geworden. Beim Tee fragte sie nach Marens Werft, nach dem Hafen-Geschäft, nach den Patrouillen — Fragen, die nicht Alphina-Fragen waren. Sie hatte Botaniker-Augen, aber ihre Fragen waren von jemandem, der wissen wollte, wo sich was versammelte.
-  - **Maren** war zweimal hier gewesen, einmal allein, einmal mit Vesper. Beim zweiten Mal hatte Maren gesagt, *„Vesper und ich arbeiten an einer Übersetzung"*, und sie hatten Bleilettern für eine Tafel bestellt — fremde Zeichen, sechs verschiedene, Runa hatte sie nach Anweisung gegossen, ohne Bedeutung. Sie hatte nicht gefragt, was die Zeichen waren. Maren hatte nicht erklärt.
+  - **Maren** war zweimal hier gewesen, einmal allein, einmal mit Vesper, der seit dem Saatmond bei ihr in der Hafengasse-Wohnung wohnt (in der Druckerei wussten die zwei Gesellen das vom Hafenmeister-Eintrag, Runa hatte beim Drucken der Quartalsliste den Namenszug gesehen). Beim zweiten Druckerei-Besuch hatte Maren gesagt, *„Vesper und ich arbeiten an einer Übersetzung"*, und sie hatten Bleilettern für eine Tafel bestellt — fremde Zeichen, sechs verschiedene, Runa hatte sie nach Anweisung gegossen, ohne Bedeutung. Sie hatte nicht gefragt, was die Zeichen waren. Maren hatte nicht erklärt.
   - **Sorel** war zweimal in der Hafengasse gewesen, abends, mit der Kamera-Tasche. Sie hatte ihn von ihrem Schlafzimmer-Fenster gesehen. Sorel arbeitet im Lichthaus-Keller, das war Canon. Was tat er nachts in der Hafengasse?
   - **Vesper** war im Erntemond einmal hier gewesen. Hatte Schem-Geschichten gesammelt — als „Volkskunde-Material", hatte er gesagt, er sammele für ein Manuskript. Seine Augen waren nicht Volkskunde-Augen.
   - **Esther und Jara** waren seit Wochen zusammen in der Druckerei gewesen, wenn sie Sprachbücher abholten — die zwei waren gemeinsam nervös, in einer Art, die Runa nicht zu Esthers Geduldsregister gepasst hatte.
@@ -53,7 +53,7 @@
 - **Der Brandfleck am Setzkasten** — Tschechow für K34 (Aktplan: *„Sie fasst einen Bleilettern-Block, und er wird weich unter ihren Fingern."*) und Buch 2 (Runas Feuer-Stufe-Progression).
 - **Runas Verformbarkeit von Blei** — neue Canon-Manifestation der Resonanz unter Stufe 3. Tschechow für K34 und B2 (Stein in Hand wird glühend).
 - **Eigene Haut immun gegen eigenes Feuer** — Dossier-Canon, hier erstmals in B1 sichtbar. Feuert in B2 (Stein in der Hand glühend; Metall biegsam in der Nähe).
-- **Die zwei Druckergesellen Bren und Talen** — Tschechow für die Frage „wer führt die Druckerei nach Runas Durchgang weiter?". Feuert in K36 oder Epilog (K43 — *„Esther Voss vor dem toten Riss. Thies an der Werft."* — Bren/Talen analog für die Druckerei).
+- **Die zwei Druckergesellen Bren und Tarn** — Tschechow für die Frage „wer führt die Druckerei nach Runas Durchgang weiter?". Feuert in K36 oder Epilog (K43 — *„Esther Voss vor dem toten Riss. Thies an der Werft."* — Bren/Tarn analog für die Druckerei).
 
 **Tschechow-Waffen abgefeuert Sz1:**
 - **K25 (Runa-Papier-Brand bei Alphina-Treffen)** — hier rückwärts integriert: Runa erinnert sich an einen früheren Wärme-Moment, den sie weggedrückt hat. (POV-Dossier-Canon: „Papier brennt bei Runas Orgasmus (sie verdrängt)" → in K31 öffentlich geworden, hier in K32 nachvollzogen.)
@@ -157,8 +157,8 @@
   - *Was ich brauche:* Übung. Anweisung. Zeit. Vielleicht jemanden, der weiß, wie man das geht. Wenn es so jemanden gibt.
   - *Was ich mitnehme, wenn ich gehe:* Das Notizbuch (rotes Leinen, halb voll). Die Zinnflasche mit dem Druckerei-Signet (sie hat sie zur Aufnahme der Lehre bekommen, vor zehn Jahren). Eine Sammlung Bleilettern, die sie selbst gegossen hat — den ganzen Setzkasten mit dem A. Klein und schwer.
 - Sie schaute auf die Liste. Nur drei Dinge. Mehr würde sie nicht mitnehmen können — wenn das Tor eng war, wenn die Reise schwer war, wenn man trug, was an einem hing. Drei Dinge.
-- **Heimliche Trauer-Beat (kurz, ohne Selbstmitleid):** Sie hatte keine Mutter, die fragen würde, wo sie hin sei. Keinen Mann, keine Frau. Beln und Talen würden die Druckerei weiterführen — sie waren gut, sie würden es schaffen. Die Kunden würden sie eine Weile suchen, dann würden sie zu einer anderen Druckerei gehen. Das war Vael — Stadt, die weitermachte, mit oder ohne sie. Der Gedanke tat weh. Sie liess ihn weh tun, einen Atemzug, dann legte sie ihn zur Seite.
-- Sie schrieb unten auf das Blatt: *„Beln und Talen kriegen die Werkstatt mit Übergabevertrag. Notar morgen."* Dachte einen Moment, ergänzte: *„Wenn ich nicht zurückkomme, sollen sie nicht warten."*
+- **Heimliche Trauer-Beat (kurz, ohne Selbstmitleid):** Sie hatte keine Mutter, die fragen würde, wo sie hin sei. Keinen Mann, keine Frau. Beln und Tarn würden die Druckerei weiterführen — sie waren gut, sie würden es schaffen. Die Kunden würden sie eine Weile suchen, dann würden sie zu einer anderen Druckerei gehen. Das war Vael — Stadt, die weitermachte, mit oder ohne sie. Der Gedanke tat weh. Sie liess ihn weh tun, einen Atemzug, dann legte sie ihn zur Seite.
+- Sie schrieb unten auf das Blatt: *„Beln und Tarn kriegen die Werkstatt mit Übergabevertrag. Notar morgen."* Dachte einen Moment, ergänzte: *„Wenn ich nicht zurückkomme, sollen sie nicht warten."*
 - Sie blies auf die Tinte, faltete das Blatt einmal, legte es in die Schublade. Schloss die Schublade. Drehte den Schlüssel.
 - Sie ging zur Werkstatt-Tür, die zur Gasse führte. Schloss sie ab. Sie schloss die Werkstatt jeden Abend ab — das war Routine seit elf Jahren. Heute war es anders. Heute war es Vorbereitung.
 - Sie nahm die Lampe von der Werkbank, ging die hintere Stiege hoch in die Wohnung über der Druckerei. Stellte die Lampe auf den Waschtisch. Setzte sich aufs Bett.
@@ -171,13 +171,13 @@
 
 **Dialog-Informationen Sz3:**
 - *Runa erfährt (klare Selbst-Inventur):* Ihre Resonanz ist Wärme/Feuer; sie kann Verformen, Wachs schmelzen, Wasser halten, Feuer entzünden ohne Verbrennung. Sie kann nicht: Flamme aus nichts, gezielte Hitze.
-- *Runa entschließt:* Drei Dinge mitnehmen — Notizbuch, Zinnflasche, Bleilettern-Sammlung. Werkstatt an Beln und Talen mit Übergabevertrag.
+- *Runa entschließt:* Drei Dinge mitnehmen — Notizbuch, Zinnflasche, Bleilettern-Sammlung. Werkstatt an Beln und Tarn mit Übergabevertrag.
 - *Runa-Charakter-Beat:* Sie lässt heimliche Trauer (Allein-sein) einen Atemzug zu, ohne in Selbstmitleid zu kippen. Klarsicht-Disziplin.
 - *Runa-Resonanz-Beat:* An der Brust-Stelle, wo bei den anderen das „Pochen" sitzt, hat sie Wärme. *„Eine Wärme, die nicht zog. Eine Wärme, die einfach nur war."* — bewusste Differenzierung von Maren-Pochen.
 
 **Tschechow-Waffen geladen Sz3:**
 - **Die drei Dinge (Notizbuch, Zinnflasche, Bleilettern-Sammlung)** — Tschechow für K36/K37 (Runa stolpert durchs Tor mit den drei Dingen) und B2 (sie hat nur das, was sie mitgenommen hat).
-- **Der Übergabevertrag mit Beln und Talen** — Tschechow für Epilog K43 (*„Vael ohne die Fünf"* — die Druckerei läuft weiter).
+- **Der Übergabevertrag mit Beln und Tarn** — Tschechow für Epilog K43 (*„Vael ohne die Fünf"* — die Druckerei läuft weiter).
 - **Runa-Pochen-Differenzierung** — *Wärme, die nicht zog* — Canon-Differenzierung zur Maren-Pochen-Resonanz, und zu Alphinas Pflanzen-Pulsschlag, und zu Sorels/Vespers Resonanzen. Feuert in B2 wenn alle Resonanzen verglichen werden.
 
 **Tschechow-Waffen abgefeuert Sz3:**
@@ -274,7 +274,7 @@
 - **14. Nebelmond 551 TZ Abend** = direkt nach K31 Tag.
 - **Druckerei Kvist** = Oberstadt, nahe Marktplatz (Canon-Kompakt).
 - **Eigene Haut immun gegen eigenes Feuer** — POV-Dossier-Canon, hier erstmals B1 sichtbar.
-- **Beln und Talen** als Druckergesellen — fantasy-phonetische Namen, **falls Autor andere Namen vorzieht: korrigierbar**.
+- **Beln und Tarn** als Druckergesellen — fantasy-phonetische Namen, **falls Autor andere Namen vorzieht: korrigierbar**.
 
 ### Aktplan-Abgleich
 
@@ -304,7 +304,7 @@
 
 ## Offene Punkte für Autor-Entscheidung
 
-1. **Druckergesellen-Namen** Beln und Talen — fantasy-phonetisch vorgeschlagen. Andere Namen?
+1. **Druckergesellen-Namen** Beln und Tarn — fantasy-phonetisch vorgeschlagen. Andere Namen?
 2. **Mutter/Familie-Canon Runa** — POV-Dossier hat keine Familie-Info. Im Entwurf habe ich „keine Mutter, keinen Mann, keine Frau" gesetzt — ist das Canon, oder gibt es Familie-Reste in Vael?
 3. **K31-Anpassung empfohlen:** Die volle Alphina-an-Runa-Erklärung von K31 nach K32 verschieben. K31 endet dann mit Alphinas Versprechen *„heute Abend bei dir"*. Autor-Freigabe?
 4. **Übergabevertrag-Detail** — Notar morgen. Falls Vael keinen Notar-Stand-Canon hat, müsste man hier eine andere Form finden (Übergabevertrag mit Zeugen?).
