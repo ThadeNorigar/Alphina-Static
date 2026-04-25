@@ -1,77 +1,89 @@
 ---
-kategorie: Vesper+Nyr BDSM (Thar-Register mit Druck/Metall)
+kategorie: Vesper+Nyr — gleichberechtigte Hitze (kein BDSM)
 pov: Vesper
 figuren: Vesper, Nyr
-register: BDSM explizit, aber andere Körper-Grammatik als Vesper+Maren — Nyr ist Dom, Vesper gibt Kontrolle ab
-heat_level: explizit BDSM
-primaer_referenz: Réage + Reisz — Power-Exchange mit Grund; aber umgekehrte Rollen (Vesper Sub statt Dom)
-ergaenzende_referenz: Bardugo (industrielle Körperlichkeit); Pierce Brown (dezent) — Metall gegen Haut
-zweck: Canon-Kern: "Sie presst ihn an die Metallwand. Luft wird dünn. Blaue Flecken von Luft. Andere Körper-Grammatik als Maren." Vesper als Sub, nicht als Dom. Nyr mit Druck-Magie kontrolliert seine Atmung. Material-Register komplett Thar (Metall, Öl, Dampf) statt Seide/Leder wie bei Maren.
+register: explizit non-BDSM, beide hart und leidenschaftlich, Thar-Material-Register
+heat_level: explizit non-BDSM
+primaer_referenz: Yarros (Fourth Wing) — Hitze ohne Mate-Bond, Körperbeat-getrieben; Robert (Neon Gods) — direkte Anatomie, Power-Gleichgewicht
+ergaenzende_referenz: Pierce Brown (dezent) — Metall gegen Haut, industrielles Material; Bardugo — Körper-Disziplin
+zweck: Andere Körper-Grammatik als Vesper/Maren (dort BDSM Dom/Sub mit Maren als Sub). Hier zwei harte Körper, beide aktiv, ohne Hierarchie. Druck-Magie als Hitze-Folgen-Effekt (Nyrs Magie setzt aus, wenn sie hochfährt), nicht als Kontroll-Werkzeug. Blaue Flecken auf Vespers Hals als Spur der unkontrollierten Welle, nicht als Power-Geste.
 canon_status: Ton-Etüde, nicht Plot-Canon.
 ---
 
 Die Wand war Stahl.
 
-Vesper hatte das gewusst, bevor er hereinkam. Nyrs Raum war in der hinteren Halle, an der Seite, die zum Kessel-Hof ging, und die Rückwand war eine gewalzte Stahlplatte, einen Finger dick, mit drei Nieten-Reihen in der Höhe von Kopf, Brust und Becken. Warum man eine Wand aus Stahl hatte, war Thar-Logik: weil der Rest der Halle vibrierte und die Wand hielt es besser aus als Holz.
+Nyr stieß Vesper dagegen, weil das ihr Lieblingsplatz war, und er stieß zurück, weil er den Stoß erwartet hatte. Sein Schulterblatt traf einen Nieten-Kopf. Er fluchte einmal, kurz, fasste mit der einen Hand in ihr Haar und zog ihren Kopf so weit zurück, dass er an ihre Kehle kam.
 
-Nyr stand mit dem Rücken zur Tür. Sie hatte das Hemd an, das sie immer anhatte, Leinen mit einer Spur Öl am linken Ärmel, und sie sah ihn an, lange, bevor sie sprach.
+Sie lachte. Es war kein freundliches Lachen.
 
-»Du bist spät.«
+»Du wartest immer, bis ich die Bewegung mache.«
 
-»Ich bin genau.«
+»Ich warte nicht. Ich passe.«
 
-Das war eine Übung zwischen ihnen. Er war nie spät. Sie sagte es trotzdem, damit er es sagen konnte, und damit sie wusste, dass er ihren Ton hören wollte.
+»Ist das ein Unterschied.«
 
-Sie nickte einmal. »An die Wand.«
+»Bei einer Uhr ja.«
 
-Vesper ging zur Rückwand. Er zog den Rock nicht aus. Er zog das Hemd nicht aus. Sie hatte das bisher einmal gemacht und wollte es so wieder — der Stoff zwischen ihm und dem Metall sollte bleiben, weil die Sache ohne Stoff zu schnell körperlich wurde und sie wollte, dass er es im Körper spürte, aber nicht nur im Körper.
+Sie biss ihn in den Hals, nicht zart. Er schloss die Augen einen Lidschlag und lachte selbst, in ihre Schulter.
 
-Er stellte sich mit dem Rücken an die Platte. Der Stahl war kalt durch Rock und Hemd. Eine Stelle an seinem linken Schulterblatt lag an einem Nieten-Kopf, und der Nieten-Kopf war kälter als der Rest, und er registrierte das wie eine Uhrmacherin eine Toleranz.
+Sie waren in ihrer Kammer hinten in der Kessler-Halle, an der Stahlrückwand, die für Vibration besser hielt als Holz und für solche Abende auch. Die Tür hatte einen Riegel, den sie ohne Hinsehen vorwarf. Das Licht kam von einer einzigen Öllampe an der Werkbank, gelb, schmal, genug.
 
-Nyr kam näher, nicht schnell. Sie legte die Hand flach auf seine Brust, unterhalb der Kehle. Die Hand war heiß. Das war wieder Thar, das war auch Nyr-spezifisch, und es war die Stelle, wo sie immer anfing.
+Nyr riss ihm das Hemd auf, mit einem Ruck, der zwei Knöpfe absprengen ließ. Einer rollte über den Stahlboden in eine Ölwanne. Sie hörte das Plumpsen und kümmerte sich nicht.
 
-»Atem«, sagte sie.
+»Das war ein gutes Hemd«, sagte Vesper.
 
-Er atmete.
+»Ich weiß.«
 
-»Tiefer.«
+Er griff in ihre Hose, vorn, ohne zu fragen. Sie war heiß da, sie war immer heiß da bei ihm, und sie packte sein Handgelenk und hielt es. Nicht um es wegzuziehen, sondern um es da zu halten, wo sie es wollte.
 
-Er atmete tiefer.
+Sie küssten sich. Hart, mit Zähnen. Weich hatten sie nie geübt.
 
-»Halten.«
+Nyr drückte ihn wieder rückwärts an die Stahlplatte, und der Nieten-Kopf zwischen seinen Schulterblättern war jetzt ein bekannter Punkt, und er nahm ihn in Kauf, weil er den Druck gegen den Rücken mochte. Seine Hände gingen unter ihr Hemd, beide, glitten an den Rippen entlang, fanden ihre Brüste, und sie atmete hörbar aus, durch die Nase.
 
-Er hielt. Er hielt länger, als er von selbst gehalten hätte. Dann spürte er die Luft in seiner Brust dünner werden. Nicht genommen, nicht gewaltsam — nur dünner, als ziehe jemand die Masse aus den Atemräumen. Seine Hand, die an der Hose hing, bewegte sich einen Finger breit. Er nahm sie zurück. Er hatte gelernt, die Hand nicht zu bewegen.
+Dann ging eine Welle durch die Luft.
 
-»Noch.«
+Nichts Großes. Vesper spürte es im Kiefer zuerst — als hätte jemand den Druck im Raum kurz nach oben gesetzt. Sie presste enger an ihn, und die Luft um sie zog sich zusammen, eine Sekunde, zwei. Bei ihr setzte die Magie aus, wenn sie hochfuhr. Bei ihm setzte sie nie aus.
 
-Er hielt.
+»Lass«, sagte er.
 
-Die Wand in seinem Rücken war immer noch kalt. Er spürte den Nieten-Kopf schärfer jetzt, spürte den Stoff zwischen Haut und Metall als das, was er war — nicht Schutz, nur eine dünne Lage. Die Luft war unten in seiner Lunge wie ein verdichtetes Ding. Sein Sichtfeld wurde nicht schmaler. Es wurde präziser. Er sah Nyrs Hand auf seiner Brust, sah die Ölspur am Ärmel, sah den Schweißfleck, der am Kragen anfing, und das war alles.
+»Ich kann nicht«, sagte Nyr.
 
-»Aus.«
+»Ich weiß.«
 
-Er atmete aus. Die Luft kam langsam, weil sie es langsam wollte. Sein Kopf war leicht, ohne dass er schwindelte. Das war die Linie, auf der sie arbeitete.
+Er drehte sie mit einem Schwung, den sie nicht erwartet hatte. Plötzlich war er an der Wand vorbei und sie an dem Stahl, seine Hand an ihrer Hüfte, seine andere am Hosenbund. Sie lachte wieder, jetzt kürzer. Hier waren sie. Hier war keine Hierarchie, nur wer in welchem Moment wessen Druck war.
 
-Nyr hob die Hand von seiner Brust, legte den Daumen unter sein Kinn und hob seinen Kopf. Sie sah, wo sie sehen wollte: an seinem Hals. An der Seite, rechts, wo die Halsschlagader unter der Haut lief. Dort saßen die kleinen Stellen, die sie liebte, blaue Druckflecken von gestern, noch nicht gelb, noch violett, und sie drückte mit dem Daumen eine neue Stelle daneben, nicht fest, nur gerade fest genug, dass morgen ein Fleck dort sein würde.
+Sie zogen einander die Klamotten aus, manches grob, manches schon geübt. Stoffstücke fielen, Stiefel polterten. Die Stahlplatte war kalt an Nyrs Rücken, dann nicht mehr. Vesper kniete sich kurz und fand sie mit der Zunge, zwei, drei Striche. Dann stand er wieder auf, Nyr lachte erneut, und er nahm sie an Ort und Stelle gegen die Wand. Ihre Beine schlossen sich um seine Hüfte, sein Mund fand ihre Halsschlagader.
 
-»Atem«, sagte sie wieder.
+Dann ging die zweite Welle. Diese war stärker. Vesper spürte, wie ihm einen Atemzug die Luft dünner wurde. Weniger als ein Druckstoß, eher wie eine Hand, die kurz in seine Lunge griff und wieder losließ. Er hielt ihn aus. Beim ersten Mal hatte er Panik gehabt. Beim dritten hatte er aufgehört, Panik zu haben.
 
-Er atmete.
+Nyr atmete schwer an seiner Schulter. Sie war jetzt nah dran. Ihre Hand lag in seinem Genick, fest, und ihre andere klammerte sich an seine Hüfte, und der Druck im Raum schwankte mit ihrem Atem.
 
-Sie küsste ihn jetzt — nicht weich, mit Druck auf den Mund, und ihre andere Hand ging an seine Hüfte, presste ihn gegen den Stahl, damit er nicht weiter nach vorn konnte. Er konnte sich wehren. Er konnte mit einer Kopfbewegung sagen, dass er nicht mehr wollte. Das war ihr System — eine Geste, nicht ein Wort. Sie hatte es ihm am dritten Abend erklärt, sachlich wie eine Druckkammer-Anleitung, und er hatte verstanden.
+»Komm«, sagte sie. Es war kein Befehl. Es war Verabredung.
 
-Er machte die Geste nicht.
+Er kam, sie kam kurz danach, und in dem Moment ihrer Welle sprang ein Druckstoß in die Decke und löste den Staub aus den Holzbalken in Streifen, die sie beide nicht sahen, weil sie die Augen geschlossen hatten.
 
-Sie nahm, was sie nahm. Er gab, was er gab. Das war das Ungefähre an der Sache. Er dachte — während sein Rücken an dem kalten Stahl war und ihre Hand wieder auf seiner Brust lag und die Luft dünner wurde — dass er diesen Raum mit Maren nie betreten könnte. Nicht weil Maren das nicht verstanden hätte. Weil er mit Maren nicht an der Wand stand. Weil bei Maren er es war, der die Hand legte.
+Sie blieben gegen die Wand, eine Weile. Ihr Atem ging gegen seinen, ihre Schulter gegen seine, der Stahl gegen beide. Sein Bein zitterte einmal, ihres auch.
 
-Hier war das anders. Hier war er die Uhr, die gestellt wurde.
+Schließlich löste sie sich. Sie ging zur Werkbank, schraubte die Wasserkanne auf und trank, ohne den Kopf zu drehen. Sie hielt ihm die Kanne über die Schulter hin. Er nahm sie und trank.
 
-Als Nyr losließ, fiel er nicht. Er stand einen Atemzug länger an der Wand, weil der Stahl ihn hielt, und dann stieg er weg, und Nyr reichte ihm ihr eigenes Glas Wasser, ohne zu fragen, und er nahm es, ohne zu fragen.
+Auf seinem Hals zeichneten sich zwei runde, blasse Flecken ab. Druckspuren. Sie würden morgen blau sein und am dritten Tag verschwinden. So war das mit Nyr.
 
-»Morgen?«, sagte sie.
+Er sah hinunter zu seinem Hemd. Ein Knopf weniger an der Brust.
 
-»Morgen.«
+»Du nähst«, sagte er.
 
-Sie setzte sich auf den Schemel bei der Werkbank, schob den Ölfilter, an dem sie heute früh gearbeitet hatte, zur Seite und fing an, ihre eigenen Hände zu waschen. Wasser auf heißer Haut. Das Geräusch war Thar.
+»Du gehst zum Schneider.«
 
-Vesper richtete den Kragen. Auf seiner rechten Halsseite, direkt oberhalb des Kragens, würde morgen ein blauer Fleck sein, den man unter der Krawatte nicht sah, der aber da war, und er wusste, dass er ihn tragen würde wie eine Notiz in einer Randspalte — ein Vermerk, kein Argument.
+»Schneider näht besser.«
+
+»Schneider ist teurer.«
+
+Er lachte. Sie zog die Hose an, ohne sich umzudrehen, ging die zwei Schritte zurück zur Werkbank, weil dort der Ölfilter lag, an dem sie heute früh gearbeitet hatte. Sie hob ihn auf, drehte ihn in der Hand, legte ihn an seinen Platz in der Wandnische zurück.
+
+Bei Thar hatte jedes Werkzeug seine Nische. Auch nach allem.
+
+Vesper richtete den Hemdkragen.
+
+»Morgen?«, sagte sie, ohne sich zu drehen.
+
+»Morgen«, sagte er.
