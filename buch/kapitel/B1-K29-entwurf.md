@@ -56,7 +56,7 @@ In dem Schatten sitzt etwas.
 
 Er hält die Hand still. Sein Atem geht weiter, weil er muss, aber das Verstärken bricht kurz weg — er steigert nach, hält das Licht. Die Gestalt im Schatten wird dadurch nicht klarer, sie wird nur länger sichtbar. Sie ist klein. Kleiner als er erwartet hätte, wenn er etwas erwartet hätte. Auf dem Boden hockend. Schultern eingezogen. Knie an die Brust. Die Arme — er kann die Arme nicht zählen, das Licht reicht da hinten nicht für klare Konturen — liegen vor dem Körper. Zwei Augen. Schwarz, rund, ohne Lid. Auf ihn gerichtet.
 
-Sorel rührt sich nicht. Er weiß, was er sieht. Er hat in K10 ein katzengroßes Wesen mit rauchenden Schultern auf der Mauer am Hauptweg-Ende gesehen, hat den Feuerball am linken Handrücken gespürt. Er hat in K19 mit Mondlicht auf einen Wächter-Schemen in den Garten gezielt, das Licht ist geschluckt worden. Er hat alle Berichte der Gruppe gehört seitdem. Er hat sich gemerkt, was sie tun und was sie nicht tun. Was er jetzt sieht, hat er noch nicht gesehen — keinen Schemen, der einfach saß. Reglos. Beobachtend. Im selben Raum mit ihm. Ohne Feuer, ohne Bewegung, ohne Geräusch.
+Sorel rührt sich nicht. Er weiß, was er sieht. Er hat in K10 ein katzengroßes Wesen mit rauchenden Schultern auf der Mauer am Hauptweg-Ende gesehen, hat den Feuerball am linken Handrücken gespürt. Er hat in K19 mit Mondlicht auf einen Wächter-Schemen in den Garten gezielt, das Licht ist geschluckt worden. Er hat alle Berichte der Gruppe gehört seitdem — sitzende Schemen auf Mauern, Marens Werft-Schemen, der durch geschlossene Tore geht wie durch einen Vorhang (K12, K26). Aber keinen, der im Wohnraum saß, allein, über Stunden, einen halben Schritt neben der Werkbank, und sich nicht verriet, bis Sorel das Restlicht verstärkte.
 
 Wie lange war er da. Sorel rechnet, weil Sorel rechnet. Er ist seit dem Abendbrot hier, das war vor — er weiß es nicht genau, der Lampenstand sagt zwei Stunden, vielleicht drei. Davor war er oben gewesen, hatte mit der Wirtin gesprochen. Davor in Marens Werft, kurz, Vesper abgeholt. Davor — egal. Was zählt: in den letzten zwei oder drei Stunden hatte er die Kammer nicht verlassen. Der Schemen war in dieser Zeit hier. Er war hier, als Sorel die Kerzen entzündete. Er war hier, als Sorel die Lampen verdunkelte. Er war hier, als Sorel saß und nichts tat zwischen den Übungen, und er saß auch dann.
 
@@ -102,9 +102,9 @@ Sorel sitzt zurück am Tisch. Hände flach, einen Moment lang. Er räumt nicht w
 
 Er nimmt seinen Mantel vom Stuhl. Die Werkzeugrolle bleibt in der Kiste — er packt sie nicht ein. Zwei kleine Lupen kommen in die Innentasche, die Schiefertafel auch, das Prisma nicht. Die Plattenkamera unter Tuch in der Ecke rührt er nicht an. Das Tuch bleibt, wo es seit Anfang Lichtmond liegt.
 
-Er löscht die linke Lampe, lässt die rechte brennen — falls einer zurückkommt, soll er nicht in die Schwärze treten. Diese Geste ist nicht für sich selbst, das weiß er. Sie ist für den nächsten in dieser Wohnung. Die Wohnung wird er heute nicht alleine schlafen.
+Er löscht die linke Lampe, lässt die rechte brennen — falls einer zurückkommt, soll Licht für ihn da sein. Die Geste ist für den nächsten in dieser Wohnung, nicht für ihn. Heute Nacht braucht er jemanden, an dessen Atem er sich orientiert.
 
-Treppe hoch. Er begegnet niemandem im Lichthaus — die Wirtin schläft, ihr Mann ist seit zwei Wochen auf Tour. Das Erdgeschoss: Plattenrolle vor der Tür, Schiefer auf den Stufen feucht. Er schließt von außen ab, prüft das Schloss zweimal, weiß dass es nichts hilft. Schemen kommen nicht durch Schlösser.
+Treppe hoch. Er begegnet niemandem im Lichthaus — die Wirtin schläft, ihr Mann ist seit zwei Wochen auf Tour. Das Erdgeschoss: Plattenrolle vor der Tür, Schiefer auf den Stufen feucht. Er schließt von außen ab, prüft das Schloss zweimal, weiß dass es nichts hilft. Maren hatte erzählt, ihr Werft-Schemen sei durchs geschlossene Tor gegangen wie durch einen Vorhang. Schlösser sind eine Geste, kein Schutz.
 
 In der Hafengasse: dünner Nebel, der süße Rauch aus der Südost-Stadt seit Tagen, eine Patrouille zwei Querstraßen weiter. Er nimmt nicht den schnellen Weg zu Alphinas Unterkunft, er nimmt den langen — die Straßen, in denen Lampen brennen, in denen Fenster offen sind, in denen er bei einem Schritt rückwärts noch jemanden sehen würde. Vorsicht aus Gewohnheit, sagt er sich. Er weiß, dass es heute nicht aus Gewohnheit ist.
 
@@ -161,8 +161,10 @@ Er schließt die Augen. Hört ihren Atem. Er wird nicht schlafen. Brücke zu K30
 - Anschluss K30: 8. Nebelmond, zwei Tage später, Nacht. Im Zwischenraum trifft die Gruppe sich (off-page für K29, kann in K30 als Erinnerung aufgegriffen werden).
 
 **Cross-POV-Konsistenz:**
-- K28 (Maren, 1. Nebelmond): Drüben am Steinkreis spürbar. Maren findet toten Nachtwächter-Lehrling. K29 ist 5 Tage später — Sorel bekommt eine eigene Wahrnehmung, ohne von Marens Fund zu wissen.
-- K30 (Sorel, 8. Nebelmond): direkter Anschluss. Beide Wahrnehmungen (Sorels Schemen-Beobachtung, Marens Drüben-Spüren) sind in der Gruppe bekannt geworden.
+- K12 (Sorel, Erstbegegnung Alphina im Garten): drei katzengroße Schemen sitzen auf der Mauer am Hauptweg-Ende, beobachten, greifen nicht an. Sorel hat also schon **außen** sitzende Schemen gesehen. K29-Neuheit ist: **innen, allein, über Stunden, einen halben Schritt neben der Werkbank, ohne dass Sorel es bemerkt** — nicht „dass sie sitzen". Der Entwurf adressiert das in Sz2.
+- K26 (Vesper-POV, Gruppen-Treffen bei Maren): Maren erzählt vor Sorel, dass ihr Werft-Schemen durch das geschlossene Tor gegangen ist „wie durch einen Vorhang". Sorel weiß seit K26, dass Schlösser keine Barriere sind. Sz3 referenziert das.
+- K28 (Maren, 1. Nebelmond): Drüben am Steinkreis spürbar. Maren findet toten Nachtwächter-Lehrling. K29 ist 5 Tage später — Sorel bekommt eine eigene Wahrnehmung, ohne von Marens Fund zu wissen (Festlegung: Marens K28-Erlebnis ist noch nicht im Gruppen-Wissen am 6. Nebelmond).
+- K30 (Sorel, 8. Nebelmond): direkter Anschluss. Beide Wahrnehmungen (Sorels Schemen-im-Wohnraum, Marens Drüben-Spüren am Steinkreis) müssen vor dem Schwur-Beat in der Gruppe geteilt sein. **Festlegung für K30-Entwurf:** Off-page-Treffen zwischen 6. und 8. Nebelmond — Sorel berichtet den drei anderen am Vormittag des 7. Nebelmond bei Vesper, Maren bringt ihren K28-Beat mit. K30-Schwur-Beat baut auf diesem geteilten Stand auf.
 - K31 (Alphina, 14. Nebelmond): Schemen-Tag-Angriff am Marktplatz. Andere Bauart als heute (Thar, Metall). Heute hat Sorel die passive Bauart kategorisiert — die Marktplatz-Schemen brechen das Muster.
 
 **Berufslinse-Anwendung (Sorel):**
@@ -175,7 +177,9 @@ Er schließt die Augen. Hört ihren Atem. Er wird nicht schlafen. Brücke zu K30
 - Ton: King-Niveau Subtilität für Sz2 (Magie nicht ankündigen, Schemen kommt mitten in der Übung), Yarros/Maas-Tempo für Sz1 (Routine, dann Hammer am Ende), Robert/Maas-Atmosphäre für Sz3 (Nähe ohne Worte).
 - **Sz1 Hook:** Figur-Motor in Z.1 — Sorel mit Hand und Licht, nicht „Der Keller war kalt".
 - **Sz2 Schemen-Auftritt:** kein Erzähler-Glossen-Beat („und plötzlich") — die Reihe der Beobachtungen baut sich linear auf, der Schemen ist das letzte Sehen, kein Sprung.
+- **Sz2 Körper-Beats im Schock-Moment:** mindestens 2-3 viszerale Marker einbauen — Temperatur (Kälte unter dem Hemd, Schweißfilm zwischen Schulterblättern), Hals/Kehle (Schluckreflex stockt, Speichel zu wenig), Hände (Fingerkuppen taub am Tisch, Knöchel weiß). Ohne Gefühlsbenennung, ohne Pulszählen — nicht mehr als Sorel selbst registrieren würde, aber spürbar. Die Szene darf nicht nur funktional registrieren; der Schock muss körperlich tragen.
 - **Sz3 keine Heat-Szene** — Sorel kommt mit Schock, nicht mit Begehren. Alphina nimmt ihn ohne Frage. Body language tragen den Beat.
+- **Sz3 Alphinas Wissen NICHT erklären:** kein Erzähler-Kommentar wie „sie wusste"/„sie ahnte"/„sie verstand". Sie handelt — Tür öffnen, Mantel abhängen, Hand nehmen, schweigen. Der Erzähler kommentiert nichts. Ihr Wissen trägt sich durch die Geste, nicht durch das Innenleben.
 - **Sorels Sprach-Signatur:** lange Bandwurm-Sätze über Parameter / Abläufe, dann ein kurzer Satz als Hammerschlag. *„Er war hier, als Sorel die Kerzen entzündete."* / *„In dem Schatten sitzt etwas."* / *„Er sagt nichts."*
 - **Vollständige Sätze als Default**, keine Stakkato-Ketten, kein telegrafisches Knapp-Register.
 - **Verständlichkeits-Gate pro Satz** — kein „hä?" beim ersten Lesen.
