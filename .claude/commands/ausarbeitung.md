@@ -100,6 +100,8 @@ Das Script liefert auf stdout (~2k Tokens): Kapitel-Info, Nachbar-Kapitel, aktue
 8. **EIN** Ton-Referenzkapitel: das letzte fertige Kapitel **derselben POV-Figur**.
    - POV aus dem Kontext-Output ablesen. Vorheriges Kapitel mit gleichem POV und Status `final` ermitteln.
    - Beispiel fuer Vesper-K12: `buch/kapitel/07-vesper.md` oder neueres Vesper-Kapitel.
+9. **Ton-Referenz-Leseproben aus dem Entwurfs-Header** — VOLLE Texte. Aus dem Entwurfs-Header (Feld „Ton-Referenz-Leseproben (fuer /ausarbeitung)") die 1-3 festgelegten Leseproben volle lesen. Diese Proben sind **Ton-Vorlage** fuer die Ausarbeitung — Satzrhythmus, Koerperbeats, Heat-Pacing, Dialog-Mikro-Beats. Nicht Plot-Vorlage. Falls das Feld im Entwurf fehlt: zurueck zu `/entwurf` und Feld nachtragen, bevor Ausarbeitung startet.
+10. **Council-Leserinnen-Profile** — kurz lesen, NICHT volle Datei. Aus dem Entwurfs-Header (Feld „Council-Leserinnen fuer /ausarbeitung") die 2-3 festgelegten Stimmen entnehmen. Profile in `.claude/commands/book-council.md` Abschnitt „Die fuenf Stimmen" — nur die festgelegten Stimmen lesen (Regal, Erwartet, Schaltet ab bei, Persoenlichkeit). Diese Stimmen werden im Mini-Council pro Absatz aktiv (Phase 2).
 
 **NICHT laden:**
 - `buch/zeitleiste.json` — NICHT DIREKT LADEN. Kontext-Extraktor liefert die relevanten Events
@@ -109,7 +111,7 @@ Das Script liefert auf stdout (~2k Tokens): Kapitel-Info, Nachbar-Kapitel, aktue
 - Aktplaene komplett (Snippet steckt im Kontext-Output)
 - Andere POV-Kapitel, andere POV-Dossiers
 
-**Ziel-Kontext: ~15-18k W.** Kontext-Extraktor (~2k) + Positioning (~800) + Entwurf (~2-3k) + Handoff (~1k) + POV-Dossier (~500) + Autorin-Stimme (~1.2k) + Konkretheits-Referenz (~1.5k) + Stilregeln (~4.5k) + Ton-Referenz (~4-6k).
+**Ziel-Kontext: ~17-22k W.** Kontext-Extraktor (~2k) + Positioning (~800) + Entwurf (~2-3k) + Handoff (~1k) + POV-Dossier (~500) + Autorin-Stimme (~1.2k) + Konkretheits-Referenz (~1.5k) + Stilregeln (~4.5k) + Ton-Referenz-Kapitel (~4-6k) + 1-3 Leseproben aus Entwurfs-Header (~500-2.000) + Council-Leserinnen-Profile (~500).
 
 **WICHTIG:** Nach diesem Lade-Vorgang KEINE weiteren Files lesen. Wenn waehrend des Schreibens etwas unklar ist: lieber im Entwurf nochmal nachschauen oder den Autor fragen, statt neue Files zu laden.
 
@@ -192,9 +194,11 @@ Der Takt ist bewusst eng. Drift in Abstraktion/Verkuenstelung passiert im Abstan
 
 ---
 
-**Mini-Council pro Absatz (intern, 3 Stimmen)**
+**Mini-Council pro Absatz (intern, 4-6 Stimmen je nach Entwurfs-Konfig)**
 
-Nach dem Selbst-Check drei Rollen einnehmen, jeweils 1 Satz Urteil. Probleme fixen, Mini-Council wiederholen, bis alle 3 Stimmen OK sagen.
+Nach dem Selbst-Check folgende Rollen einnehmen, jeweils 1 Satz Urteil. Probleme fixen, Mini-Council wiederholen, bis alle Stimmen OK sagen.
+
+**Pflicht-Stimmen (immer aktiv):**
 
 1. **Autorin** (Haltungs-Check):
    > Traegt jeder Satz? Klingt es wie {Figur} oder wie eine Schreiberin, die ueber {Figur} schreibt? Ist ein Bild da, das beim zweiten Lesen nicht haelt?
@@ -205,7 +209,21 @@ Nach dem Selbst-Check drei Rollen einnehmen, jeweils 1 Satz Urteil. Probleme fix
 3. **Leserin** (Stolper-Check):
    > Stolpere ich beim Lesen? Verstehe ich, was gemeint ist? Oder klingt es nur klug? Wuerde ich an dieser Stelle umblaettern wollen?
 
-**Output in der Pruefnotiz:** `Mini-Council ✓` wenn alle 3 OK. Sonst: `Mini-Council: Leserin stolperte bei X → gefixed`.
+**Council-Leserinnen-Stimmen (aktiv je nach Entwurfs-Header-Festlegung):**
+
+Aus dem Entwurfs-Header Feld „Council-Leserinnen fuer /ausarbeitung" die 2-3 festgelegten Stimmen einnehmen — in-character, nicht neutral. Profile in `.claude/commands/book-council.md`.
+
+- **LINA** (Romantasy, Yarros/Maas/Rampling): *Brennt es? Ist der Slow-Burn-Beat spuerbar? Bricht der Koerper vor dem Kopf? Wuerde ich beim ersten Satz weiterlesen?*
+- **NORA** (Dark Romance, Robert/Kennedy/Simone): *Wo ist die Schaerfe? Kaempft die Figur oder ertraegt sie nur? Ist die Dynamik morally grey? Reibung im Dialog?*
+- **MEIKE** (Dark Fantasy, Bardugo/Black/Kuang): *POV scharf? Benannte Einzeldetails statt generisch? Welt mit Zaehnen oder generisches "Schatten/Nebel"? Ist der Satz austauschbar mit jedem Dark-Fantasy-Roman?*
+- **VICTORIA** (BDSM, Reage/Reisz): *Material-Praezision? Power-Exchange mit Grund? Aftercare-Bewusstsein? Klinische Schaerfe statt Fifty-Shades-Kitsch?*
+- **KAYA** (Dystopie/Grimdark, Kuang/SenLinYu/Pierce Brown): *Koerper unter Druck? Hat die Gewalt eine Folge? Sanitisiert der Erzaehler? Trauma traegt im Koerper?*
+
+Jede aktive Stimme: 1 Satz Urteil in eigener Sprache (in-character, nicht neutral). Probleme inline fixen, Mini-Council wiederholen, bis alle aktiven Stimmen OK.
+
+**Wenn der Entwurf KEINE Council-Leserinnen festgelegt hat:** zurueck zu `/entwurf`, Feld nachtragen, dann Ausarbeitung fortsetzen. Kein „ich pick mir mal welche" — das ist eine Plot-/Ton-Entscheidung der Entwurfs-Phase.
+
+**Output in der Pruefnotiz:** `Mini-Council ✓ (Autorin, Konkretheit, Leserin, MEIKE, KAYA)` mit Aufzaehlung der aktiven Stimmen. Sonst: `Mini-Council: KAYA forderte mehr Koerper im Schock → gefixed`.
 
 **KEIN externer Subagent-Council zwischendurch.** Das Mini-Council laeuft rein intern in der Opus-Session. Externe Subagents erst in Phase 5.
 

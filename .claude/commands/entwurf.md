@@ -93,6 +93,14 @@ Datei: `buch/kapitel/{ID}-entwurf.md` (mit Prefix, z.B. `B1-K12-entwurf.md`).
 **Wortziel Ausarbeitung:** 4.000-4.500 W
 **Gaensehaut-Moment:** {Was physisch Unmoegliches passiert}
 
+**Ton-Referenz-Leseproben (fuer /ausarbeitung):**
+- `buch/leseproben/{XX}-{name}.md` — {Begruendung in einem Satz: warum diese Probe fuer dieses Kapitel passt}
+- {1-3 Eintraege total. Aus dem Kontext-Extraktor-Output "Empfohlene Leseproben" auswaehlen.}
+
+**Council-Leserinnen fuer /ausarbeitung:**
+- {LINA / NORA / MEIKE / VICTORIA / KAYA} — {Begruendung in einem Satz: warum diese Stimme fuer dieses Kapitel relevant ist}
+- {2-3 Eintraege total. Stimmen, die nicht passen, NICHT aufnehmen — keine Vollstaendigkeit erzwingen.}
+
 ## Szene 1 — {Titel/Ort}
 
 **Wortziel:** 1.200-1.600 W (spaeter in Ausarbeitung)
@@ -128,6 +136,36 @@ Datei: `buch/kapitel/{ID}-entwurf.md` (mit Prefix, z.B. `B1-K12-entwurf.md`).
 - KEINE Sinnes-Schmuckwoerter (wir machen nur den Plot, nicht die Atmosphaere)
 - Jeder Plot-Beat MUSS in den Dialog-Info-Listen oder im Fließprosa-Exposé stehen
 - Gaensehaut-Moment ist Pflicht
+- **Ton-Referenz-Leseproben** und **Council-Leserinnen** im Header gesetzt (siehe unten)
+
+**Auswahl der Ton-Referenz-Leseproben (1-3 Stueck):**
+
+Aus dem Kontext-Extraktor-Output „Empfohlene Leseproben" die fuer dieses Kapitel relevantesten waehlen. Auswahlkriterien:
+- POV-/Figuren-Match (Alphina-Solo? Alphina/Sorel? Vesper/Maren? Gruppe?)
+- Heat-Level / Register (commercial Heat? Schock + Gewalt? BDSM? Slow-Burn-Tension?)
+- Strukturparallele (Kippmoment? Gruppenszene? Solo-POV? Konfrontation?)
+
+Begruendung in einem Satz pro Probe — knapp, konkret, ohne Phrasen.
+
+**Auswahl der Council-Leserinnen (2-3 Stueck):**
+
+Aus den fuenf Archetypen aus `.claude/commands/book-council.md`:
+
+| Stimme | Regal | Wann waehlen |
+|--------|-------|--------------|
+| **LINA** | Yarros, Maas, Rampling, Robert | Slow-Burn-Tension, Heat, commercial Romantasy, Alphina/Sorel-Naehe |
+| **NORA** | Robert, Kennedy, Simone | Power-Dynamik, Schaerfe, Reibung, morally grey, Alphina/Varen, Konfrontation |
+| **MEIKE** | Bardugo, Black, Kuang | POV-Disziplin, benannte Einzeldetails, Welt mit Zaehnen, Atmosphaere mit Bewegung |
+| **VICTORIA** | Reage, Reisz, Rampling | BDSM-Szenen Vesper/Maren, Power-Exchange mit Grund, Material-Praezision |
+| **KAYA** | Kuang, SenLinYu, Pierce Brown | Koerper unter Druck, Gewalt mit Folge, Trauma-Koerper, Schock, Tod |
+
+Wahl: nur die 2-3 Stimmen, deren Erwartungs-Raster fuer dieses Kapitel passt. Stimmen, die nicht passen, weglassen — keine Vollstaendigkeit erzwingen. Begruendung in einem Satz pro Stimme.
+
+**Beispiel K29 (Sorel allein im Lichthaus, Schemen-Schock, Dark Fantasy):**
+- MEIKE — Solo-POV-Disziplin, benannte Einzeldetails, Schemen als Welt-mit-Zaehnen-Beat
+- KAYA — Schock-Moment ohne Sanitisierung, Koerper unter Druck
+
+**Was NICHT in dieser Phase festlegen:** Stilfeinheiten, Wortwahl, Satzlaenge, Heat-Pacing — das ist Ausarbeitung. Hier nur: welche Toene und welche Leserinnen passen zum Plot dieses Kapitels.
 
 ## Phase 3: Status setzen + Deploy
 
@@ -229,17 +267,77 @@ Aus Beat-Strukturen kann man manches NICHT sehen (Prosa-Ton, Sprach-Erotik). Das
 Max 1k Token Output. Verdikt: BESTANDEN / NICHT BESTANDEN + 3-5 konkrete Findings.
 ```
 
+## Phase 5b: Council-Leserinnen-Review (2-3 Subagenten parallel, sonnet)
+
+**Zweck:** Die im Entwurfs-Header festgelegten Council-Leserinnen lesen den Entwurf in-character und bewerten kritisch, ob der **Plot** fuer ihren Genre-Erwartungs-Raster taugt. Pro Stimme: Verdict + Score + Findings. Gate: **≥90% Durchschnitt** = bestanden.
+
+**Wichtig:** Diese Phase pruefen den **Plot** des Entwurfs, NICHT die Prosa (es gibt noch keine). Die Stimmen urteilen ueber Plot-Beats, Beat-Dichte, Power-Dynamik, Schock-Wirkung, Genre-Tauglichkeit, Cliffhanger-Bewegung — alles auf Beat-Ebene.
+
+Aus dem Entwurfs-Header Feld „Council-Leserinnen fuer /ausarbeitung" die 2-3 festgelegten Stimmen entnehmen. Pro Stimme einen Subagenten dispatchen:
+
+- `subagent_type: "general-purpose"`
+- `model: "sonnet"`
+- Prompt-Template (pro Stimme angepasst):
+
+```
+Du bist {STIMME-NAME} aus dem book-council von "Der Riss".
+
+Lies dein Profil zuerst:
+- .claude/commands/book-council.md (Abschnitt "Die fuenf Stimmen", deine Stimme)
+
+Verinnerliche: Regal, Erwartungs-Raster, Schaltet-ab-bei, Persoenlichkeit. Du bist diese Leserin, kein neutraler Kritiker.
+
+Dann lies:
+- buch/kapitel/{ID}-entwurf.md (der Entwurf — Plot, Beats, Dialog-Infos, Tschechow, KEINE Prosa)
+- buch/00-positioning.md Abschnitt 9 (95%-Gate, vier Pflichten)
+
+Deine Aufgabe: Bewerte den **Plot dieses Entwurfs** aus deinem Genre-Erwartungs-Raster.
+
+Pruefe:
+- Trifft der Plot dein Genre? (z.B. LINA: ist Slow-Burn-Tension da? NORA: ist Schaerfe da? KAYA: hat die Gewalt eine Folge?)
+- Sind die Beats stark genug fuer dich? Wo flacht es ab? Wo zieht es?
+- Gaensehaut-Moment: trifft er fuer dich? Funktioniert er in deinem Register?
+- Power-/Beziehungs-Dynamik (wenn relevant): erfuellt sie deine Erwartungen?
+- Cliffhanger-/Beat-Bewegung: wuerdest du im naechsten Kapitel weiterlesen?
+- Wuerde dieser Entwurf, wenn er sauber ausgearbeitet wird, dich als Leserin zufrieden stellen?
+
+Sei in-character: streng, direkt, keine Hoeflichkeit, in deiner Sprache. Zitiere wenn moeglich aus dem Entwurf.
+
+Output:
+- 3-5 Saetze Verdict in-character (deine Stimme, dein Ton)
+- Commercial-Score 0-100% fuer den Plot dieses Entwurfs aus deiner Sicht
+- 3-5 konkrete Findings: was muss vor /ausarbeitung verbessert werden? Konkret, Beat-genau.
+
+Max 1k Token.
+```
+
+Alle 2-3 Subagenten parallel dispatchen (sie sind unabhaengig).
+
 ## Phase 6: Konsolidierter Bericht
 
 Zeige dem Autor:
-1. Logik-Check Findings (Tabelle, knapp)
-2. Strukturanalyst Findings + Verdikt
-3. Beziehungs-Lektorin Findings + Verdikt
-4. Gesamt-Verdikt
 
-Frage: "Findings einarbeiten, oder ist es so OK?"
+1. **Logik-Check Findings** (Tabelle, knapp)
+2. **Strukturanalyst** Findings + Verdikt
+3. **Beziehungs-Lektorin** Findings + Verdikt
+4. **Council-Leserinnen** (2-3 Stimmen):
+   - Pro Stimme: Verdict (1-2 Saetze, in-character) + Score
+   - **Durchschnitts-Score** der festgelegten Stimmen
+   - Niedrigste Stimme als Risiko-Signal
+5. **Gesamt-Verdikt** mit Leserinnen-Gate:
 
-Bei OK → Status `entwurf-checked` + Deploy.
+| Durchschnitt Leserinnen-Score | Verdikt |
+|-------------------------------|---------|
+| **≥ 90 %** | **PLOT-COUNCIL BESTANDEN.** Freigabe-Kandidat. |
+| **80–89 %** | **GRENZWERTIG.** Findings einarbeiten, dann Re-Review oder Autor-Entscheidung. |
+| **70–79 %** | **NACHBESSERN.** Plot-Lücken in den Findings — vor `entwurf-checked` einarbeiten. |
+| **< 70 %** | **DURCHGEFALLEN.** Plot trifft das Genre-Profil nicht. Zurueck zu Phase 2, Beats neu denken. |
+
+Frage: „Findings einarbeiten, oder ist der Plot so OK?"
+
+Bei OK + Score ≥ 90 % → Status `entwurf-checked` + Deploy.
+Bei OK + Score 80–89 % → Autor bestaetigt explizit „trotzdem ok" → `entwurf-checked` + Deploy mit Notiz.
+Bei < 80 % → kein `entwurf-checked` ohne explizite Autor-Override.
 
 ## Phase 7: Feedback-Loop
 
@@ -325,7 +423,8 @@ Zeige dem Autor:
 | Gate | Bedingung |
 |---|---|
 | Logik-Check | Bestanden oder vom Autor bewusst akzeptiert vor `entwurf-checked` |
-| 2 Council-Agenten | Beide bestanden oder bewusst akzeptiert vor `entwurf-checked` |
+| 2 Council-Agenten (Strukturanalyst + Beziehungs-Lektorin) | Beide bestanden oder bewusst akzeptiert vor `entwurf-checked` |
+| **Council-Leserinnen (2-3, Phase 5b)** | **Durchschnitts-Score ≥ 90 %** fuer `entwurf-checked` ohne Override. 80–89 % = Autor-Override moeglich. < 80 % = nachbessern Pflicht. |
 | Autor-Freigabe | Pflicht fuer `entwurf-ok`. Ohne diese kein Phase-Wechsel. |
 
 ## Regeln

@@ -5,6 +5,14 @@
 **Wortziel Ausarbeitung:** 3.000–3.500 W
 **Gänsehaut-Moment:** Sorel verstärkt das Restlicht im Keller komplett — und sieht in der hinteren Ecke, neben der zugedeckten Plattenkamera, eine reglose Gestalt. Schwarze Augen. Schemen. Er saß dort die ganze Zeit, während Sorel übte. Sie werden die ganze Zeit beobachtet.
 
+**Ton-Referenz-Leseproben (für /ausarbeitung):**
+- `buch/leseproben/12-gruppenszene-tension.md` — Solo-Kontemplation + verborgene Tension, POV-Disziplin (Vesper-POV als Modell für Sorel-Solo). Mikro-Körperbeats statt Plot-Reihum.
+- `buch/leseproben/28-sorel-tod-moment.md` — Schock-Moment Klinik-Register (Kuang/SenLinYu), körperliche Ohnmacht, Atem-Disziplin. Hier als Schock ohne Tod, aber Ton (kalt, präzise, Körper) als Referenz.
+
+**Council-Leserinnen für /ausarbeitung:**
+- **MEIKE** (Dark Fantasy, Bardugo/Black/Kuang) — Solo-POV-Disziplin, benannte Einzeldetails (Lupen, Hohlspiegel, Prisma, Schiefertafel), Schemen als Welt-mit-Zähnen statt generisches „Schatten/Nebel". Test pro Absatz: ist der Satz austauschbar mit jedem Dark-Fantasy-Roman, oder nur Sorel hier?
+- **KAYA** (Dystopie/Grimdark, Kuang/SenLinYu/Pierce Brown) — Schock-Moment ohne Sanitisierung, Körper unter Druck, Trauma trägt im Körper (Kälte, Hals, Hände). Test pro Absatz: weicht der Erzähler vor dem Schock aus, oder bleibt er drin?
+
 ---
 
 ## Szene 1 — Werkbank-Übung
@@ -12,7 +20,11 @@
 **Wortziel:** ~1.000 W
 **Ort:** Lichthaus-Keller, Sorels Wohnung. Später Abend. Eine Öllampe am Tisch, eine zweite an der Wand. Die Kammer ist klein, der Steinboden warm wie immer (Purpurstein-Restwärme). Plattenkamera in der hinteren Ecke unter Tuch — Sorel hat das Tuch seit Anfang Lichtmond nicht angerührt.
 
+**Hook Z.1 (Pflicht-Anweisung Ausarbeitung):** Sorel **will** etwas in Z.1 sichtbar — nicht nur Inventar zeigen. Vorschlag-Richtung: er will heute das Verstärken im Keller schaffen, weil er gestern Abend bei der Gruppe gemerkt hat, dass er bei wenig Licht hinter den anderen drei zurückbleibt — Maren spürt Wasser durch Steinwände, Vesper Zeit ohne Lichtquelle, Alphina Wachstum mit geschlossenen Augen. Er, der Fotograf, braucht Licht zum Sehen. Das ist kein Wettkampf-Antrieb, sondern Scham. Heute soll diese Scham wegüben. Z.1 muss diesen Drang tragen, nicht das Inventar.
+
 Sorel arbeitet allein am Tisch. Er hat ihn umgeräumt — das Stativ steht zerlegt an der Wand, Kassetten und Werkzeugrolle in einer Kiste unter der Werkbank. Auf dem Tisch nur noch das, was er heute braucht: drei kleine Lupen mit verschiedenen Brennweiten, ein Hohlspiegel, ein dreieckiges Prisma aus Bleiglas, eine Reihe von sieben Kerzen unterschiedlicher Stärke, ein Schiefertäfelchen mit Kreideabriebsspuren von früheren Übungen.
+
+**Kamera-Tschechow-Gewicht (Pflicht-Anweisung Ausarbeitung):** Wenn Sorels Blick die Kamera unter Tuch streift, muss er kurz etwas spüren — nicht Wehmut (Klischee), aber eine Pause, ein Atem zu wenig, eine Distanz, die er selbst nicht ganz versteht. Das Tuch ist sein Abschied von einer Identität. Ein Detail in seinem Körper trägt das (z.B. Hände bleiben einen Moment auf dem Tisch ruhen, bevor er weiterarbeitet). Das Tuch ist nicht nur Welt-Detail, es ist Charakter.
 
 Er übt systematisch, seit fünf Monaten, fast jeden Abend. Heute ist Tag einhundertvierzig. Er hat Listen geführt — Kerze in welcher Distanz fängt nach wie vielen Atemzügen Feuer, wie weit lässt sich das Restlicht einer Lampe verstärken bevor das Bild körnig wird, wann beginnt er Schweißfilm an den Fingerkuppen zu spüren. Heute keine Listen. Heute nur die Hand und das Licht.
 
@@ -60,7 +72,18 @@ Sorel rührt sich nicht. Er weiß, was er sieht. Er hat in K10 ein katzengroßes
 
 Wie lange war er da. Sorel rechnet, weil Sorel rechnet. Er ist seit dem Abendbrot hier, das war vor — er weiß es nicht genau, der Lampenstand sagt zwei Stunden, vielleicht drei. Davor war er oben gewesen, hatte mit der Wirtin gesprochen. Davor in Marens Werft, kurz, Vesper abgeholt. Davor — egal. Was zählt: in den letzten zwei oder drei Stunden hatte er die Kammer nicht verlassen. Der Schemen war in dieser Zeit hier. Er war hier, als Sorel die Kerzen entzündete. Er war hier, als Sorel die Lampen verdunkelte. Er war hier, als Sorel saß und nichts tat zwischen den Übungen, und er saß auch dann.
 
-Sorel registriert weiter, weil das Registrieren leichter ist als das Verstehen. Die Form an der hinteren Wand: keine Rauchspur an den Schultern, kein erkennbares Maul, keine Klauen. Größe einer Katze, vielleicht etwas größer. Andere Bauart als das Wesen am Hauptweg, andere Bauart als der Wächter im Garten. Er hat keinen Namen für diese Bauart. Er fragt sich, ob die Gruppe einen hätte.
+**Hammer-Satz (Pflicht-Anweisung Ausarbeitung):** Der Satz „Sorel registriert weiter, weil das Registrieren leichter ist als das Verstehen" ist das Sz2-Herzstück (KAYA-Finding). In der Ausarbeitung als **eigenständiger Hammer-Satz** stehen, nicht als Subordinatklausel im Funktions-Block. Vorschlag: Absatzanfang oder Absatzende, allein.
+
+Sorel registriert weiter. Das Registrieren ist leichter als das Verstehen. Die Form an der hinteren Wand: keine Rauchspur an den Schultern, kein erkennbares Maul, keine Klauen. Größe einer Katze, vielleicht etwas größer. Andere Bauart als das Wesen am Hauptweg, andere Bauart als der Wächter im Garten. Er hat keinen Namen für diese Bauart. Er fragt sich, ob die Gruppe einen hätte.
+
+**Generic-Darkness-Korrektur (Pflicht-Anweisung Ausarbeitung — MEIKE-Finding):** Der Beat „zwei Augen, schwarz, rund, ohne Lid" ist austauschbar mit jedem Dark-Fantasy-Roman. Nicht generisches Schemen-Attribut, sondern **Sorels Wahrnehmung durch die Berufslinse** — er ist Fotograf, sieht Licht und Albedo. Vorschlag-Richtung: er sieht nicht „schwarze Augen", er sieht zwei Stellen, an denen das verstärkte Licht nicht reflektiert wird, an denen kein Tonwert entsteht — als hätte jemand zwei Löcher in die Welt geschnitten, die kein Licht zurückgeben. Das ist Sorel, das ist nur dieses Kapitel, das ist Welt mit Zähnen.
+
+**Körper-Beats Sz2 — konkrete Festlegung (Pflicht-Anweisung Ausarbeitung — beide Stimmen):** Drei Körper-Stellen tragen den Schock primär (statt offene 2-3-Liste):
+1. **Hände auf der Schiefertafel** (KAYA-Vorschlag): er bewegt sie nicht weg, obwohl er will. Kontrolle als Körper-Ausdruck. Knöchel weiß, wenn er das Verstärken hält.
+2. **Hals/Kehle:** Schluckreflex stockt, der nächste Atem nicht kommt, weil das Verstärken sonst kippt.
+3. **Schläfen** (sein POV-Leitmotiv aus pov/sorel.md: er trennt Puls von Kamera-Vibrationen): heute kein Vibration mehr, nur das Klopfen an den Schläfen, gegen das er nichts tun kann.
+
+Keine generische Kälte, kein Schweißfilm-Klischee. Diese drei Anker tragen Sz2 körperlich.
 
 Er überlegt zwei Schritte vor. Erster Schritt: ein Bild machen. Nein. Die Kamera ist unter Tuch, das Tuch hat er seit Anfang Lichtmond nicht angerührt, der Schemen würde die Bewegung im Verstärkten Sehen registrieren bevor Sorel die Plattenkassette einsetzte; und außerdem hatte er die Kamera deswegen aufgegeben, weil er wusste, dass das Bild aus seinem Kopf käme, nicht aus dem Raum. Zweiter Schritt: die Tür zum Hof öffnen, damit das Wesen einen Ausgang sieht und nimmt. Nein, das ist ein Korridor durch sein Schlafzimmer und sein Schlafzimmer hat kein Schloss von innen. Dritter Schritt: das Licht wegnehmen.
 
@@ -108,11 +131,18 @@ Treppe hoch. Er begegnet niemandem im Lichthaus — die Wirtin schläft, ihr Man
 
 In der Hafengasse: dünner Nebel, der süße Rauch aus der Südost-Stadt seit Tagen, eine Patrouille zwei Querstraßen weiter. Er nimmt nicht den schnellen Weg zu Alphinas Unterkunft, er nimmt den langen — die Straßen, in denen Lampen brennen, in denen Fenster offen sind, in denen er bei einem Schritt rückwärts noch jemanden sehen würde. Vorsicht aus Gewohnheit, sagt er sich. Er weiß, dass es heute nicht aus Gewohnheit ist.
 
-Vor Alphinas Tür hält er einen Atemzug länger an als nötig, prüft die Straße, klopft. Sie öffnet, er sieht ihr Gesicht, sie sieht seins. Er sagt nichts. Sie tritt zurück, lässt ihn ein. Im Flur, am Haken, hängt sie seinen Mantel auf. Er hat keine Worte für das Gesehene — heute Abend nicht. Morgen den anderen drei. Heute nur sie.
+**Trauma-Körper-Beats Sz3 (Pflicht-Anweisung Ausarbeitung — beide Stimmen):** Der Weg vom Keller bis Alphinas Tür darf nicht ordentlich sein. Konkret:
+- **Vor dem Klopfen:** Sorel zögert. Nicht aus Höflichkeit, aus Reibung. Er ist einer, der 140 Tage allein übt. Mitten in der Nacht zu einer Frau zu laufen kostet ihn etwas. Ein Atemzug Scham vor dem Klopfen — kurz, unsichtbar von außen, aber im Körper.
+- **Im Flur:** drei Sekunden weiß er nicht wohin mit den Händen. Sie hängt den Mantel auf, er steht am Haken, die Hände finden keine Tasche, keine Werkzeugrolle, keine Kamera.
+- **Im Zimmer:** Schultern höher als normal. Er sieht zur Tür zurück bevor sie sie schließt. Nicht panisch — eine Routine, die er heute zum ersten Mal hat.
 
-Er folgt ihr in das Zimmer, in dem sie nicht arbeitet, sondern schläft. Das Bett ist kalt — sie hat nicht geschlafen, sie hat gelesen oder gedacht. Er legt sich an ihre Seite, ohne sich auszuziehen, mit Hose und Hemd, weil er nicht das Vertraut-Sein zuerst will. Sie nimmt seine Hand. Sie fragt nicht. Sie weiß, dass er es sagen wird, wenn er es sagen kann.
+Vor Alphinas Tür hält er an. Klopft. Sie öffnet, er sieht ihr Gesicht, sie sieht seins. Er sagt nichts. Sie tritt zurück, lässt ihn ein. Im Flur, am Haken, hängt sie seinen Mantel auf. Er hat keine Worte für das Gesehene — heute Abend nicht. Morgen den anderen drei. Heute nur sie.
 
-Er schließt die Augen. Hört ihren Atem. Er wird nicht schlafen. Brücke zu K30: zwei Tage später wird er wieder neben ihr liegen, dann wach, mit dem Schwur in der Brust und einem Mondlicht-Streifen über ihrem Gesicht, das er heute Abend in der Dunkelheit nicht sieht.
+Er folgt ihr in das Zimmer, in dem sie nicht arbeitet, sondern schläft. Das Bett ist kalt — sie hat nicht geschlafen, sie hat gelesen oder gedacht. Er legt sich an ihre Seite, ohne sich auszuziehen, mit Hose und Hemd. Sie nimmt seine Hand. Sie fragt nicht.
+
+**Alphinas Wissen NICHT erklären (Pflicht-Anweisung Ausarbeitung — MEIKE-Finding):** Streiche jeden „sie weiß"-/„sie ahnte"-Erzähler-Kommentar. Sie handelt — Tür auf, Mantel auf, Hand drauf, kein Wort. Der Erzähler kommentiert nichts. Auch der Plan-Satz „Sie weiß, dass er es sagen wird, wenn er es sagen kann" gehört in der Ausarbeitung gestrichen — er erklärt das, was die Geste bereits trägt.
+
+**Schluss-Satz Sz3 in Gegenwart, nicht Zukunft (Pflicht-Anweisung Ausarbeitung — KAYA-Finding):** Der bisherige Schluss „Brücke zu K30: zwei Tage später..." ist Erzähler-Glosse. In der Ausarbeitung **streichen**. Stattdessen: ein Prosa-Schluss-Beat in der Gegenwart. Vorschlag-Richtung: Sorel liegt im Dunkeln, hört Alphinas Atem, hält die Augen offen, weil er nicht sicher ist, ob der Keller leer ist. Oder: er hört die Wirtin oben durch die Decke, ein Schritt, eine Tür — und denkt einen Moment, das wäre wieder etwas. Es ist nicht. Aber dass er es denkt, ist neu. Das ist Cliffhanger als Körper, nicht als Ankündigung.
 
 **Dialog-Informationen:**
 - *Sorel erfährt nichts Neues:* Sz3 ist Reaktion, kein Wissens-Zuwachs. Er trägt das Sz2-Wissen, ohne es noch zu teilen.
