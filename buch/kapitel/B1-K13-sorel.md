@@ -40,7 +40,7 @@ Die Platte kam heraus. Der Kai auf der anderen Seite des Beckens, die Schiffsmas
 
 Er war allein gewesen an diesem Becken. Er war allein. Er hatte Platten belichtet, auf denen Masten, Wasser und Nichts waren. Nachtholm lag drei Tage Reise von Vael entfernt, und Anfang Saatmond hatte es die Frau für ihn nicht gegeben — keinen Namen, kein Gesicht, keine Sehne am Daumenansatz. Nichts, das auf einer Platte hätte stehen können.
 
-Er legte die Platte auf die zweite. Seine Hände arbeiteten weiter. Nicht schneller, nicht langsamer. Die Präzision nahm sogar zu, was er registrierte wie eine Messung, die nicht zu seinem eigenen Puls passte — sein Körper antwortete der Entdeckung, indem er sich in die Routine härter hineinarbeitete, statt aus ihr herauszufallen.
+Er legte die Platte auf die zweite. Seine Hände arbeiteten weiter. Nicht schneller, nicht langsamer. Die Präzision nahm sogar zu, was er registrierte wie eine Messung, die nicht zu seinem eigenen Herzschlag passte — sein Körper antwortete der Entdeckung, indem er sich in die Routine härter hineinarbeitete, statt aus ihr herauszufallen.
 
 Er entwickelte zwölf Platten, dann siebzehn, dann hörte er auf zu zählen.
 
@@ -60,11 +60,11 @@ Zuletzt die Platte aus der Nacht im Garten — die einhändig belichtete, weil s
 
 Er entwickelte sie mit mehr Ruhe als alle anderen.
 
-Das Bild kam sauber heraus. Der Purpurstein im Hintergrund, der Rand des Hügels, der Ansatz der Farnwand dahinter — alles in den mittleren Grauwerten, leicht unscharf an den Ecken, das wackelige Schärfemuster sichtbar in der Verschiebung der Bildkante. Wie erwartet. Und im Zentrum, dort, wo der Ring seine Hauptebene hielt, zwei Hände. Flach auf dem Stein. Daumen nach außen, Finger leicht gespreizt, die linke Hand eine Spur weiter vom Rand als die rechte, als hätte sie einen Puls gesucht, den die rechte noch nicht gefunden hatte.
+Das Bild kam sauber heraus. Der Purpurstein im Hintergrund, der Rand des Hügels, der Ansatz der Farnwand dahinter — alles in den mittleren Grauwerten, leicht unscharf an den Ecken, das wackelige Schärfemuster sichtbar in der Verschiebung der Bildkante. Wie erwartet. Und im Zentrum, dort, wo der Ring seine Hauptebene hielt, zwei Hände. Flach auf dem Stein. Daumen nach außen, Finger leicht gespreizt, die linke Hand eine Spur weiter vom Rand als die rechte, als hätte sie ein Klopfen gesucht, das die rechte noch nicht gefunden hatte.
 
 Die Hände waren scharf.
 
-Nicht nur scharf im Rahmen dessen, was ein wackeliger einhändiger Schuss liefern konnte. Scharf im Rahmen dessen, was eine Studio-Aufnahme mit zwei Lampen, Stativ und Zwanzig-Sekunden-Belichtung lieferte. Die Sehne am Daumenansatz der linken Hand — glasklar. Die feine Linie an der Innenseite des rechten Handgelenks, wo die Haut in den Ärmelsaum überging — eine einzige saubere Kante. Die winzige Kerbe am linken Mittelfinger, die vom Umgang mit scharfen Werkzeugen kam — jeder Millimeter lesbar.
+Nicht nur scharf im Rahmen dessen, was ein wackeliger einhändiger Schuss liefern konnte. Scharf im Rahmen dessen, was eine Studio-Aufnahme mit zwei Lampen, Stativ und Zwanzig-Sekunden-Belichtung lieferte. Die Sehne am Daumenansatz der linken Hand — glasklar. Die feine Linie an der Innenseite des rechten Handgelenks, wo die Haut in den Ärmelsaum überging — eine einzige saubere Kante. Die winzige Kerbe am linken Mittelfinger, die vom Umgang mit scharfen Werkzeugen kam — jede Faser lesbar.
 
 Er stand lange vor dieser Platte.
 
@@ -78,7 +78,7 @@ Die Wand blieb leer, bis auf die wenigen Platten ohne sie. Marktplatz. Hauswand.
 
 Er wusch die Hände.
 
-Das Wasser aus dem Messinghahn war kalt. Der Chemiegeruch saß noch in den Fingerkuppen, zog nicht mehr in die Nasenschleimhaut, nur noch in das Gedächtnis an den Geruch. Er hörte seinen eigenen Puls in den Ohren, als er die Hände unter den Strahl hielt. Er hörte ihn zu laut. Er zählte bis zehn, zählte noch einmal bis zehn, und dann drehte er das Wasser ab.
+Das Wasser aus dem Messinghahn war kalt. Der Chemiegeruch saß noch in den Fingerkuppen, zog nicht mehr in die Nasenschleimhaut, nur noch in das Gedächtnis an den Geruch. Das eigene Blut rauschte in seinen Ohren, als er die Hände unter den Strahl hielt. Er hörte ihn zu laut. Er zählte bis zehn, zählte noch einmal bis zehn, und dann drehte er das Wasser ab.
 
 
 
@@ -97,7 +97,7 @@ Wieder zwei Schläge. Dieselbe Lautstärke, derselbe Abstand. Nicht ungeduldig. 
 
 Er legte das Leinentuch ab und ging zur Tür.
 
-Er öffnete einen Spalt. Nicht breit. Gerade weit genug, dass sein Gesicht zu sehen war, nicht der Raum dahinter. Er hatte die Tür so in der Hand, dass er sie mit einer halben Bewegung wieder zuziehen konnte, wenn es sein musste. Sein rechter Daumen lag auf der Innenkante. Sein linker Zeigefinger lag auf der Türkante.
+Er öffnete einen Spalt. Nicht breit. Gerade weit genug, dass sein Gesicht zu sehen war, nicht der Raum dahinter. Er hatte die Tür so in der Hand, dass er sie mit einer kurzen Bewegung wieder zuziehen konnte, wenn es sein musste. Sein rechter Daumen lag auf der Innenkante. Sein linker Zeigefinger lag auf der Türkante.
 
 Alphina.
 
@@ -133,7 +133,7 @@ Sie ging links von ihm. Ihr Schritt war ruhig. Seiner nicht. Er zählte seine At
 Sie redeten zuerst nicht.
 "Die drei auf der Mauer." Sie sagte es in die Gasse hinein, den Blick geradeaus. "Was haben Sie gesehen?"
 
-Seine Schritte stockten einen halben Takt. Er hatte drei Tage lang darauf gewartet, dass jemand diese Frage stellte, und gleichzeitig gehofft, dass niemand sie stellen würde. "Den Rauch", sagte er. "An den Schultern. Eine dünne Schicht, die aufstieg, ohne Quelle." Er hörte sich selbst, hörte wie technisch es klang, als beschriebe er eine Platte. "Die Konturen waren weich. Zu weich für festes Material."
+Seine Schritte stockten kurz. Er hatte drei Tage lang darauf gewartet, dass jemand diese Frage stellte, und gleichzeitig gehofft, dass niemand sie stellen würde. "Den Rauch", sagte er. "An den Schultern. Eine dünne Schicht, die aufstieg, ohne Quelle." Er hörte sich selbst, hörte wie technisch es klang, als beschriebe er eine Platte. "Die Konturen waren weich. Zu weich für festes Material."
 
 Sie nickte. "Ich habe die Augen gesehen. Drei Paar. Gelb, ohne Lichtquelle."
 
@@ -158,7 +158,7 @@ Er zog die Hand nicht weg.
 
 Sie ließ ihn los. Ihre Finger lösten sich von seinem Handgelenk, einer nach dem anderen, und jeder Finger hinterließ einen warmen Punkt auf der Haut, der nach dem Loslassen noch drei Atemzüge blieb.
 
-Sie gingen weiter. An einer engen Stelle der Gasse mussten sie nebeneinander gehen. Ihre Arme streiften sich — der Stoff seines Mantels gegen den Stoff des ihren. Keiner zog zurück. Keiner beschleunigte. Drei Schritte lang gingen sie in einem Abstand, der weniger war als ein Arm. Das Gewebe-an-Gewebe lag neben der Erinnerung an ihre Hand auf seinem Knie, drei Nächte vorher. Jetzt sah er den Arm. Er sah ihn und ging weiter, und der halbe Schlag, den sein Atem aussetzte, kam erst zwei Schritte später, als die Gasse wieder breit genug war und der Stoff den Stoff nicht mehr berührte.
+Sie gingen weiter. An einer engen Stelle der Gasse mussten sie nebeneinander gehen. Ihre Arme streiften sich — der Stoff seines Mantels gegen den Stoff des ihren. Keiner zog zurück. Keiner beschleunigte. Drei Schritte lang gingen sie in einem Abstand, der weniger war als ein Arm. Das Gewebe-an-Gewebe lag neben der Erinnerung an ihre Hand auf seinem Knie, drei Nächte vorher. Jetzt sah er den Arm. Er sah ihn und ging weiter, und der Atem setzte erst zwei Schritte später kurz aus, als die Gasse wieder breit genug war und der Stoff den Stoff nicht mehr berührte.
 
 "Die Steine im Garten", sagte er, weil er etwas sagen musste, bevor das Schweigen ihn verriet. "Im Sucher bewegen sie sich."
 
@@ -166,7 +166,7 @@ Ihr Schritt wurde langsamer. "Wie bewegen?"
 
 "Sie heben und senken sich. Einer pro anderthalb Sekunden. Mit bloßem Auge sehe ich nichts. Nur durch die Linse."
 
-Sie schwieg drei Schritte lang. Er spürte, wie die Stille sich verdichtete — nicht leer, sondern voll, auf eine Art, die er von Platten kannte, wenn der Entwickler anfing, ein Bild freizugeben, das man noch nicht ganz sehen konnte.
+Sie schwieg drei Schritte lang. Er spürte, wie die Stille sich verdichtete — voll, auf eine Art, die er von Platten kannte, wenn der Entwickler anfing, ein Bild freizugeben, das man noch nicht ganz sehen konnte.
 
 "Das passt", sagte sie schließlich. Mehr nicht. Er ließ den Gedanken, der dahinter wartete, unberührt.
 
@@ -186,7 +186,7 @@ Er hätte es sagen können. Die Platte aus Nachtholm. Drei Monate alt. Eine Frau
 
 *Ich habe Sie seit Wochen.* Das sagte er nicht.
 
-Etwas in ihrem Gesicht verschob sich einen halben Tonwert nach unten. Dann war sie wieder ruhig.
+Ihr Gesicht wurde einen Schatten bleicher. Dann war sie wieder ruhig.
 
 "Ich muss weiter." Sie stieg die nächsten Stufen hinauf, drehte sich halb um. "Ich bin neugierig auf das, was Sie sehen."
 
