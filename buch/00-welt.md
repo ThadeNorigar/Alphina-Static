@@ -257,7 +257,7 @@ Gor ist Gezeitengebunden — die Nähe zum Planeten hält sein Inneres flüssig.
 
 Die Zivilisation ist alt. Städte aus Material das aussieht wie Stein und sich anfühlt wie Holz und warm ist. Türme die nicht gebaut sondern gewachsen sind. Straßen die sich verändern. Brücken über Flüsse die bergauf fließen.
 
-Die Bewohner: Menschen. Größer als Thalassier, feingliedriger. Helle Haut, dunkle Haare — schwarz, tiefbraun, selten rötlich. Die Augen: dunkle Farben. Purpur, Weinrot, tiefes Violett, Schwarz, Dunkelgrün, Dunkelblau, Braun. Immer dunkel — keine hellen Augen in Moragh. Keine Aliens — Menschen, die anders aussehen. Wie jemand aus einem Land das man nie besucht hat. Sie sprechen eine Sprache die klingt wie altes Thalassisch, verdreht, als hätte jemand dieselbe Sprache 10.000 Jahre in eine andere Richtung entwickelt. Wortfetzen sind verständlich.
+Die Bewohner: Menschen. Größer als Thalassier, feingliedriger. Helle Haut, dunkle Haare — schwarz, tiefbraun, selten rötlich. Die Augen: alle Erden-Farben — Grün, Grau, Blau, Braun, Schwarz —, durch Quellen-Exposition über Generationen dunkler und satter als ihre Erden-Originale (tiefes Saphirblau, intensives Schiefergrau, dunkles Tannengrün, satter Bernstein, Schwarz). Bei stark Magie-Begabten schiebt Resonanz die Pigmentierung weiter ins leuchtende Violett — Augenfarbe ist sichtbares Zeichen der Begabung. Keine Aliens — Menschen, die anders aussehen. Wie jemand aus einem Land das man nie besucht hat. Sie sprechen eine Sprache die klingt wie altes Thalassisch, verdreht, als hätte jemand dieselbe Sprache 10.000 Jahre in eine andere Richtung entwickelt. Wortfetzen sind verständlich.
 
 ### Die Herkunft der Thalassier — und der Moragh-Bewohner
 

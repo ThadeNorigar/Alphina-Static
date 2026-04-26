@@ -62,7 +62,7 @@ Formal **Städte-Demokratie**, faktisch **Meritokratie mit dynastischen Rats-Fam
 3. **Mittelstand** — gebräuchliche Former und Krieger mit Wahlrecht in ihrer Stadt.
 4. **Einfache Bürger**, darunter Niedrig-Begabte, die zwar Wahlrecht haben, aber wenig strukturelle Macht.
 
-Die **Halle der Ordnung** als theologischer Apparat ist formal eigenständig, wirtschaftlich abhängig vom Rat. Ihr Einfluss auf den Alltag ist rhetorisch stark, praktisch schwach.
+Die **Halle der Ordnung** als normativer Apparat ist formal eigenständig, wirtschaftlich abhängig vom Rat. Sie kodifiziert die Bund-Doktrinen (Schemen-Ethik, Zunft-Recht, öffentliche Ordnung) und sanktioniert Abweichungen. Ihr Einfluss auf den Alltag ist rhetorisch stark, praktisch schwach.
 
 ### Wohlstand
 
@@ -70,12 +70,12 @@ Reichtum bemisst sich in **gestapelter Kapazität**:
 
 1. **Reichste Quelle im Viertel** + **stärkstes Ratsrecht** + **breiteste Zunft-Zugehörigkeit in der Familie**
 2. **Dienstleistungs-Zugriff** — wer einen Feuer-Former, einen Pflanzen-Heiler und einen Licht-Former auf Abruf hat, ist reich. Wer seinen Kessel selbst kalt hält und ins öffentliche Regenerations-Haus muss, ist arm.
-3. **Glaubensreinheit** ist *kein* Wohlstandsmarker — theologische Orthodoxie gilt als "etwas für Novizen und arme Kirchgemeinden".
+3. **Doktrinale Reinheit** ist *kein* Wohlstandsmarker — strenges Festhalten an der Lehre gilt als "etwas für Novizen und arme Vorort-Versammlungen".
 4. Gebundene Schemen sind **keinerlei Wohlstandsmarker**, weil Bindung verboten ist.
 
 ### Schemen-Doktrin
 
-**Rufen ja, binden nie.** Orather Philosophie: "Der Schemen ist Gast, nicht Gefangener." Bindung gilt als Sklaverei und ist theologisch und gesetzlich verboten.
+**Rufen ja, binden nie.** Orather Philosophie: "Der Schemen ist Gast, nicht Gefangener." Bindung gilt als Sklaverei und ist doktrinal und gesetzlich verboten.
 
 - **Rufer-Schule** offiziell: Ausbildung, keine Bindungs-Lehre. Curriculum: Ruf-Technik, kurze Verpflichtung, Interessen-Spanne-Rechnung, Entlass-Ritual.
 - **Kampfschemen im Krieg:** Große Bund-Einheiten rufen übergroße Schemen ins Feld für 2–5 Tage. Volatile Waffe — ein Schemen, der seine Aufgabe langweilig findet, verschwindet. Disziplin kompensiert durch koordinierte menschliche Magie.
@@ -119,7 +119,7 @@ Ein Bund-Haus wird gebaut, indem Stein-Former Fundament und Wände aus dem Boden
 
 ### Gesellschaftsstruktur
 
-Kein Gilden-Wort, kein theologischer Apparat. Wirtschaftlich-militärisch organisiert:
+Kein Gilden-Wort, kein normativer Apparat. Wirtschaftlich-militärisch organisiert:
 
 - **Kontor** — wirtschaftliche Grundeinheit (Handelsgesellschaft, Produktionseinheit)
 - **Konsortium** — mehrere Kontore, die auf eine Ressource oder Magitech-Klasse spezialisiert sind
@@ -170,7 +170,7 @@ Die Wägung ist nicht verhandelbar. Wer sich weigert, verliert den Status eines 
 
 Transaktional, nicht freudlos. Ehen zwischen Häusern werden **arrangiert**, um Quellen-Anteile, Patente oder Bestien-Kerne zu tauschen — unterzeichnet als Handelsvertrag mit Familien-Anhang. Beide Partner behalten Namen und Haus.
 
-Unterhalb der Haus-Ebene: freie Paarbindungen, oft serielle Monogamie, ohne religiöse Last. **Gleichberechtigung absolut** — gilt für Partnerwahl zwischen gleichen oder verschiedenen Geschlechtern ohne Thema. Kinder werden früh magie-kartiert und gehören dem Haus, nicht den Eltern. Erziehung geht an Haus-Schulen, sobald die erste Magie-Neigung sichtbar wird.
+Unterhalb der Haus-Ebene: freie Paarbindungen, oft serielle Monogamie, ohne doktrinale Last. **Gleichberechtigung absolut** — gilt für Partnerwahl zwischen gleichen oder verschiedenen Geschlechtern ohne Thema. Kinder werden früh magie-kartiert und gehören dem Haus, nicht den Eltern. Erziehung geht an Haus-Schulen, sobald die erste Magie-Neigung sichtbar wird.
 
 ### Alltag: eine Thar-Fabrikhalle
 
