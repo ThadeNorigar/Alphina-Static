@@ -138,6 +138,11 @@ Datei: `buch/kapitel/{ID}-entwurf.md` (mit Prefix, z.B. `B1-K12-entwurf.md`).
 - Gaensehaut-Moment ist Pflicht
 - **Ton-Referenz-Leseproben** und **Council-Leserinnen** im Header gesetzt (siehe unten)
 
+**Welt-Konsistenz auch im Entwurf (kein Stil, aber Plot-relevant) — vermeidet Erblast in /ausarbeitung:**
+- **Keine metrischen Maßeinheiten** in Plot-Beats: nicht `300 Meter`, `vier Kilometer`, `zwei Zentimeter`. Stattdessen: `Schritt`, `Klafter`, `Meilen`, `Daumen`, `Spanne`, `Fuß`, `Elle`, `Linie`. Auch in Distanzangaben zwischen Orten und in Größenbeschreibungen.
+- **Keine realweltlichen Monatsnamen**: nicht `März`, `April`, `Mai` — stattdessen Welt-Monate (Eismond, Sturmmond, Saatmond, Grünmond, Blütenmond, Lichtmond, Glutmond, Erntemond, Herbstmond, Nebelmond, Frostmond, Dunkelmond) oder Jahreszeit (Vorfrühling, Hochsommer). Gilt auch in Header (`*{Tag}. {Monat} 551*`) und Plot-Beats (`im April fährt sie nach...`).
+- **Keine modernen Begriffe** (Anglizismen, Epoche-Bruch): kein `Debugging`, `Charge`, `Drift` als Bewertung, `Sauber` im Sinn von `gelungen`. Frühes 19. Jhd. Register.
+
 **Auswahl der Ton-Referenz-Leseproben (1-3 Stueck):**
 
 Aus dem Kontext-Extraktor-Output „Empfohlene Leseproben" die fuer dieses Kapitel relevantesten waehlen. Auswahlkriterien:

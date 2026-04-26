@@ -256,6 +256,13 @@ Siehe `buch/01-autorin-stimme.md` Kapitel 8. Die folgenden Muster entstehen beim
 12. **Weasel-Words:** `schien`, `wirkte`, `war irgendwie`, `fuehlte sich an als` — verweigern Information statt sie zu geben. Max 2 pro Kapitel. Starkes Verb > Weasel-Word + Adjektiv.
 13. **Begehren deklariert (BEGEHREN):** Die POV-Figur sagt explizit was sie fuehlt (`"Sie wollte ihn so sehr"`, `"Er zog sie an wie..."` als direktes Label). Koerper liefert die Daten — Kopf liefert keine Auswertung. Der Leser zieht die Schlussfolgerung, nicht die Figur.
 14. **Generic-Darkness-Test:** Atmosphaere-Saetze pruefen: Klingt dieser Satz nach diesem spezifischen Garten / dieser Figur / diesem Moment? Oder nach Dark Fantasy im Allgemeinen? Bardugo: `"yellowy blister in need of lancing"` — das ist nur Ketterdam, nicht jede dunkle Stadt. Wenn der Satz austauschbar ist: konkreter.
+15. **Metrische Maßeinheiten (Anglizismus, Epoche-Bruch):** `Millimeter`, `Zentimeter`, `Meter`, `Kilometer` sind im 19.-Jhd.-Register VERBOTEN. Stattdessen: `Linie` (~2,3mm), `Daumen`/`Fingerbreite`/`Daumenbreit` (~2,5cm), `Spanne` (~20cm), `Fuß` (~30cm), `Elle` (~67cm), `Schritt` (~75cm), `Klafter` (~1,8m), `Meile` (~7,5km). Auch in Plot-Beats und Dialog. Hart per Grep prüfbar.
+16. **Realweltliche Monatsnamen verboten:** `Januar`, `Februar`, `März`/`Maerz`, `April`, `Mai`, `Juni`, `Juli`, `August`, `September`, `Oktober`, `November`, `Dezember` — überall verboten (Header, Prosa, Dialog). Stattdessen Welt-Monate (siehe `zeitleiste.json` tz_kalender): Eismond, Sturmmond, Saatmond, Grünmond, Blütenmond, Lichtmond, Glutmond, Erntemond, Herbstmond, Nebelmond, Frostmond, Dunkelmond. Gleichbedeutend verboten: `Märzlicht`, `Märzwind`, `Märzregen`, `Märzluft` etc. — nur entweder weglassen oder Welt-Monat-Variante (`Saatmondluft`) oder Jahreszeit (`Frühlingsregen`).
+17. **"halb X"-Pseudo-Präzision (KEINE Schwelle, Pflicht-Prüfung pro Einsatz):** `halbe Sekunde`, `halber Atemzug`, `halber Schritt`, `halber Zoll`, `halber Millimeter`, `halbes Lächeln`, `halber Takt` etc. Default = streichen oder ersetzen. Nur erlaubt wenn an der Stelle als notwendiges Stilmittel gerechtfertigt (echte Maßangabe mit Folge, kodifiziertes Velmar-Ritual, Canon-Zitat). Alternativen: `kurz`, `knapp`, `kaum sichtbar`, `einen Moment`, `einen Augenblick`, `fast`. **Bevorzugt: konkrete Maßangabe ohne "halb"** (`einen Zoll` statt `kaum sichtbar`, `Haarbreit` statt `winzig`).
+18. **"Puls" abstrakt verboten:** `sein Puls`, `ihr Puls`, `Pulsschlag` als abstrakte Substantive sind Klischee-Reflex. Stattdessen: konkrete Körperstelle (`Halsschlagader`, `Handgelenk`, `Kehle`) oder konkretes Verb (`Herzschlag`, `Schlag in den Adern`, `Pochen`). **Ausnahme:** `Quellenpuls` (Canon-Begriff für die Erde) bleibt erlaubt.
+19. **"nicht X, sondern Y"-Konstruktion (KEINE Schwelle, Pflicht-Prüfung pro Einsatz):** Inkl. Varianten mit Komma, Gedankenstrich, Verkürzung (`nicht X — als Y`, `nicht X, Y`). Default = streichen oder positiv umformulieren. Nur erlaubt, wenn der Kontrast einen Beat trägt, der ohne die Konstruktion verloren geht (z.B. Erwartungs-Korrektur).
+20. **"etwas in X"-Konstruktion verboten:** `etwas in seinem Nacken`, `etwas in ihrem Sehen`, `etwas in seiner Brust` — Erzähler-Glosse statt Körper-Wahrnehmung. Stattdessen direkt: `eine Kälte legte sich auf seinen Nacken`, `ihr Sehen verrutschte`, `in seiner Brust schlug etwas`. Subtext trägt sich durch Körper, nicht durch "etwas in X".
+21. **Generische Stand-in-Wörter beim Komprimieren vermeiden:** Wenn beim Streichen eines Tics (halb X, Puls, etc.) generische Wörter wie `kaum sichtbar`, `merklich`, `winzig`, `etwas` als Ersatz auftauchen, verliert der Beat Konkretheit (Bardugo-Disziplin-Bruch). Lieber konkretes Maß ohne "halb" einsetzen (`einen Zoll`, `Haarbreit`, `eine Spanne`, `einen Takt`, `eine Fingerbreite`).
 
 **Test nach jeder Szene — Inhalt:** Letzten Satz jedes Absatzes anschauen. Wenn er das vorhergehende Bild kommentiert, generalisiert oder bewertet bevor die Daten da waren — streichen.
 
@@ -345,7 +352,7 @@ Lies parallel:
 2. buch/02-stilregeln-v2.md (Stilregeln)
 
 Pruefe (mit Grep wo moeglich):
-- "nicht X — sondern Y" / "nicht X, sondern Y" — max 1x
+- "nicht X — sondern Y" / "nicht X, sondern Y" / "nicht X, Y" — **KEINE Schwelle, Pflicht-Pruefung pro Einsatz**: jedes Vorkommen muss begründbar sein (Kontrast trägt einen Beat). Default = streichen oder positiv umformulieren. Stand 2026-04-26.
 - "wie etwas das..." / "wie ein..." Vergleiche — **max 2x** (verschaerft April 2026)
 - Adverb-Tags ("sagte er wuetend") — max 0
 - Denk-Tags ("sie dachte, dass") — max 0
@@ -355,9 +362,15 @@ Pruefe (mit Grep wo moeglich):
 - Komma-Listen mit 3+ Substantivphrasen ohne Verb — markieren
 - "und"-Ketten >3 pro Satz — markieren
 - Saetze ueber Figur-Limit (Alphina ~40W, Sorel ~50W, Vesper ~20W, Maren ~35W)
-- Stakkato-Passagen: max 2-3, je max 3 Fragmente in Folge
+- Stakkato-Passagen / Hammerschlag-Fragmente — **KEINE Schwelle, Pflicht-Pruefung pro Einsatz**: jedes Stakkato muss explizit als notwendiges Stilmittel begründet sein (Schock, Bruch, Empörung). Default = umformulieren zu vollständigem Satz. Stand 2026-04-26.
 - Personifikationen: max ~8 pro Kapitel
 - POV-Vokabular-Bruch (Alphina sagt "Dunst" statt "Nebel" o.ae.)
+- **"halb X"-Pseudo-Praezision (NEU 2026-04-26):** Grep auf `halbe(r/s)? (Sekunde|Atemzug|Schritt|Zoll|Millimeter|Zentimeter|Meter|Lächeln|Kopf|Takt|Punkt|Strich|Finger|Armlänge|Grad|Minute|Stunde|Haar)` — KEINE Schwelle, jedes Vorkommen Pflicht-Pruefung. Default = streichen/ersetzen. Erlaubt nur bei zwingender Funktion.
+- **Metrische Maßeinheiten verboten (Anglizismus, Epoche-Bruch):** Grep auf `Millimeter|Zentimeter|Meter|Kilometer` — max 0. Stattdessen: Linie, Daumen/Fingerbreite, Spanne, Fuß, Elle, Schritt, Klafter, Meile.
+- **Realweltliche Monatsnamen verboten:** Grep auf `Januar|Februar|März|Maerz|April|Mai|Juni|Juli|August|September|Oktober|November|Dezember|Märzlicht|Märzwind|Märzregen|Märzluft` — max 0. Stattdessen Welt-Monate (Eismond, Saatmond, Blütenmond etc.) oder Jahreszeit.
+- **"Puls" abstrakt verboten (Klischee-Reflex):** Grep auf `\bPuls\b|Pulsschlag` — alle Treffer markieren außer `Quellenpuls` (Canon erlaubt). Stattdessen Körperstelle (Halsschlagader, Handgelenk, Kehle) oder konkretes Verb (Herzschlag, Schlag in den Adern).
+- **"etwas in X"-Konstruktion verboten:** Grep auf `etwas in (seinem|ihrem|seiner|ihrer) (Brust|Nacken|Sehen|Brustkorb|Rücken|Hals|Kopf|Bauch|Magen)` — max 0. Stattdessen direkter Körper-Beat.
+- **Generische Stand-in-Wörter beim Tic-Streichen (Council-Risiko):** Wenn ein "halb X" oder "Puls" durch `kaum sichtbar`, `merklich`, `winzig`, `etwas` ersetzt wurde, prüfen ob konkrete Maßangabe (`einen Zoll`, `Haarbreit`, `eine Spanne`, `einen Takt`) besser wäre. Bardugo-Disziplin verlangt Konkretheit.
 - **Konkretheits-Check (NEU):** Absaetze zaehlen, bei wie vielen KEIN benanntes Material (Kupfer, Leinen, Kalk, Messing, Birkenrinde, Tusche, Talg...) vorkommt — bei mehr als 20% aller Absaetze: FINDING "zu abstrakt"
 - **Abstrakta-Dichte (NEU):** Grep auf "Stille", "Kaelte", "Schwere", "Leere", "Ferne", "Dunkelheit", "Ewigkeit", "Unheimliches", "Abgrund" — pro Absatz max 1, pro Kapitel max ~15 gesamt; bei >20: FINDING
 - **Abstrakta-Stapel (NEU):** Grep auf Muster "der/die/das [Abstraktum] des/der [Abstraktum]" ("die Stille des Abgrunds", "die Kaelte der Leere") — max 0
