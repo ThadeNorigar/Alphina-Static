@@ -78,7 +78,7 @@ if [ -n "$kid" ]; then
       state="${info%%$'\x01'*}"
       text="${info#*$'\x01'}"
       case "$state" in
-        lektorat|final)
+        final)
           preview="${text:0:300}"
           if [ -n "$text" ] && [ "${#text}" -gt 300 ]; then
             preview="${preview}…"

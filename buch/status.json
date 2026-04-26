@@ -1,17 +1,13 @@
 {
   "stati": [
     "idee",
-    "szenenplan",
     "entwurf",
     "entwurf-checked",
     "entwurf-ok",
     "ausarbeitung",
-    "council",
-    "checked",
-    "lektorat",
     "final"
   ],
-  "_pipeline_v2_doc": "Neue Pipeline (ab 2026-04-09): idee â†’ entwurf â†’ entwurf-checked â†’ entwurf-ok â†’ ausarbeitung â†’ lektorat â†’ final. Felder pro Kapitel: 'entwurfs_datei' (Pflicht ab 'entwurf'), 'datei' (Pflicht ab 'lektorat'). Alte Stati 'szenenplan/council/checked' bleiben für Rueckwaertskompatibilitaet, werden in neuer Pipeline nicht mehr gesetzt. Siehe docs/superpowers/specs/2026-04-09-kapitel-pipeline-umbau-design.md",
+  "_pipeline_v2_doc": "Pipeline (ab 2026-04-26): idee -> entwurf -> entwurf-checked -> entwurf-ok -> ausarbeitung -> final. Felder pro Kapitel: entwurfs_datei (Pflicht ab entwurf), datei (Pflicht ab final). Status lektorat wurde am 2026-04-26 aus dem Schema entfernt — /ausarbeitung setzt direkt final, /lektorat-fix arbeitet auf final-Kapiteln. Legacy-Stati szenenplan/council/checked/lektorat aus dem Schema entfernt.",
   "buch1": {
     "meta": {
       "titel": "Der Riss",

@@ -1,6 +1,8 @@
-# /lektorat-fix — Phase 3: Lektorats-Fixes (Token-sparend)
+# /lektorat-fix — Mikro-Fixes auf finalen Kapiteln (Token-sparend)
 
-**Ziel:** Kleinere textuelle Aenderungen am Kapitel nach Lektorats-Feedback des Autors. **Token-sparsamst.** Kein Neuschreiben, kein Plot-Anfassen, keine Stil-Pruefungen, kein Council.
+**Ziel:** Kleinere textuelle Aenderungen am Kapitel nach dem Online-Lesen des Autors. **Token-sparsamst.** Kein Neuschreiben, kein Plot-Anfassen, keine Stil-Pruefungen, kein Council.
+
+**Hinweis (ab 2026-04-26):** Der Status `lektorat` ist aus der Pipeline entfallen — `/ausarbeitung` setzt direkt `final`, weil das absatzweise Schreiben mit Mini-Council bereits Final-Niveau liefert. Dieser Skill arbeitet jetzt auf `final`-Kapiteln und ist der dedizierte Modus fuer chirurgische Edits nach dem Online-Lesen.
 
 **Modell-Soll:** Sonnet (Default) oder Haiku (fuer Mikro-Fixes).
 
@@ -24,17 +26,11 @@ Wenn diese Session auf Opus laeuft:
 
 Kein harter Abbruch — Autor entscheidet.
 
-### 0.2 Handoff-Check (ZWINGEND)
+### 0.2 Handoff-Check (entfaellt)
 
-Pruefen ob `buch/kapitel/{ID}-handoff.md` existiert.
+Seit 2026-04-26 hinterlaesst `/ausarbeitung` kein Handoff-File mehr (es loescht eines, falls es noch eines gibt). `/lektorat-fix` braucht keine Phasen-Uebergabe — der Skill arbeitet auf finalen Kapiteln und liest minimalen Kontext aus dem Kapitel selbst und `buch/status.json`.
 
-- Wenn JA: lesen, Phase-Markierung pruefen ("Von Phase: ausarbeitung → Zu Phase: lektorat-fix").
-  - Wenn passt: weiter.
-  - Wenn nicht: HARTER ABBRUCH. *"Falsches Handoff-File. Phase-Markierung ist X, erwartet ist lektorat-fix. Bitte korrigieren oder Status pruefen."*
-- Wenn NEIN: HARTER ABBRUCH:
-  > Kein Handoff-File gefunden. Diese Phase kann nur nach abgeschlossener /ausarbeitung starten.
-  >
-  > Pruefe den Status mit `/status {ID}` oder fuehre erst /entwurf und /ausarbeitung durch.
+Falls aus historischen Gruenden noch ein `{ID}-handoff.md` existiert: ignorieren oder loeschen — es ist Altlast.
 
 ### 0.3 Status-Check
 
@@ -42,9 +38,9 @@ Aus `status.json` den Status lesen.
 
 | Aktueller Status | Verhalten |
 |---|---|
-| `lektorat` | Normal weiter |
-| `final` | WARNUNG: "Kapitel ist schon final. Wirklich zurueck ins Lektorat? Bestaetigen." |
-| alles frueher | HARTER ABBRUCH: "Kapitel ist nicht im Lektorat. Erst /ausarbeitung abschliessen." |
+| `final` | Normal weiter |
+| `ausarbeitung` | HARTER ABBRUCH: "Kapitel ist noch in Ausarbeitung. Erst dort abschliessen, dann /lektorat-fix." |
+| alles frueher | HARTER ABBRUCH: "Kapitel ist nicht final. Erst /entwurf und /ausarbeitung durchlaufen." |
 
 ### 0.4 Parameter-Parsing
 

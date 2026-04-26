@@ -529,74 +529,56 @@ In derselben Opus-Session:
 - Re-deploy nach groesseren Fix-Runden
 - Loop bis Stil-Check + Council OK + Autor bestaetigt
 
-## Phase 8: Status `lektorat` + Deploy
+## Phase 8: Status `final` + Deploy + kapitel-summaries.md nachziehen
+
+Seit 2026-04-26 setzt /ausarbeitung direkt `final` — der Zwischenstatus `lektorat` ist entfallen, weil das absatzweise Schreiben mit Mini-Council bereits Final-Niveau liefert. Autor-Mikro-Edits nach Online-Lesen laufen ueber `/lektorat-fix` auf `final`-Kapiteln.
+
+### 8.1 kapitel-summaries.md ergaenzen (PFLICHT)
+
+Bevor `final` gesetzt wird, einen Eintrag fuer das Kapitel in `buch/kapitel-summaries.md` schreiben — damit spaetere `/entwurf`-Sessions wissen, was passiert ist. Format wie bei den vorherigen Eintraegen (3-6 Saetze, was passiert, Wissensstand der POV-Figur am Ende, neue Tschechow-Waffen).
+
+### 8.2 status.json aktualisieren
+
+- `state: "final"`
+- `datei: "{ID}-{figur}.md"`
+- `woerter: <wc -w>`
+- `text`-Plot-Snippet aktualisieren (1-3 Saetze, was passiert)
+
+### 8.3 Handoff-File loeschen
 
 ```bash
-# state: "lektorat"
-git add ...
-git commit -m "feat({ID}): Lektorat — {Figur}, {Wörter}W, Council bestanden"
+rm buch/kapitel/{ID}-handoff.md
+```
+
+Das Handoff-File wird nicht mehr fuer `/lektorat-fix` ueberschrieben — es wird gelöscht. Bei Mikro-Edits braucht es kein Handoff (Skill liest nur das Kapitel + Positioning + status.json).
+
+### 8.4 Commit + Deploy
+
+```bash
+git add buch/status.json buch/kapitel-summaries.md buch/kapitel/{ID}-{figur}.md
+git rm buch/kapitel/{ID}-handoff.md
+git commit -m "feat({ID}): Final — {Figur}, {Wörter}W, Council bestanden"
 git push
-ssh adrian@adrianphilipp.de "..."
+ssh adrian@adrianphilipp.de "cd ~/apps/Alphina-Static && git pull && bash generate-lesen.sh"
 ```
 
-Status: `lektorat`. Autor liest online.
+Status: `final`. Autor liest online.
 
-## Phase 9: Handoff fuer Lektorat-Fixes (Subagent, haiku)
-
-Dispatch:
-- `subagent_type: "general-purpose"`
-- `model: "haiku"`
-- Prompt:
-
-```
-Erstelle ein Handoff-File fuer den Phasen-Uebergang von /ausarbeitung zu /lektorat-fix.
-
-Datei: buch/kapitel/{ID}-handoff.md (UEBERSCHREIBE die alte)
-
-Format:
-
-# Handoff — {ID}
-
-**Von Phase:** ausarbeitung → **Zu Phase:** lektorat-fix
-**Erstellt:** {Datum/Uhrzeit}
-**Status beim Handoff:** lektorat
-
-## Modell-Empfehlung
-claude --model sonnet
-(oder claude --model haiku fuer Mikro-Fixes)
-
-## Aufruf fuer naechste Session
-/lektorat-fix {ID}
-
-## Kontext
-- Datei: buch/kapitel/{ID}-{figur}.md
-- Phase: Lektorat-Fixes (Autor-getrieben, kleine Edits)
-- Kein neuer Stil-Check, kein Council. Nur was der Autor anfasst.
-
-## Anweisungen
-- Edit-Tool bevorzugt vor Write-Tool
-- Kein ungefragtes Umformulieren
-- Bei groesseren Wuenschen: Hinweis auf Rueckstufung zu /ausarbeitung
-- Status final NUR auf explizite Autor-Freigabe
-
-Max 100 Wörter Bericht zurueck.
-```
-
-## Phase 10: Harter Stop
+## Phase 9: Harter Stop
 
 Zeige dem Autor:
 
-> KAPITEL AUSGEARBEITET. Status: lektorat.
+> KAPITEL FINAL. Status: final. Wörter: {N}. Council bestanden.
 >
-> Naechster Schritt: NEUE SESSION mit Sonnet (oder Haiku).
+> Diese Session ist abgeschlossen.
 >
-> 1. Diese Session beenden
-> 2. Autor liest das Kapitel online auf der Story-in-Work Webseite
-> 3. Wenn Feedback kommt: `claude --model sonnet`, dann `/lektorat-fix {ID}`
+> Falls beim Online-Lesen Mikro-Fixes auffallen:
+> 1. Neue Session: `claude --model sonnet` (oder haiku)
+> 2. `/lektorat-fix {ID}` — laedt minimal Kontext, Edit-only, kein Council.
 >
 > Diese Session schreibt jetzt nichts mehr.
 
-**WICHTIG:** Nach Phase 10 NICHT weiterarbeiten. Auf Folgefragen: "Diese Phase ist abgeschlossen. Bitte starte eine /lektorat-fix-Session sobald du Feedback hast."
+**WICHTIG:** Nach Phase 9 NICHT weiterarbeiten. Auf Folgefragen: "Diese Phase ist abgeschlossen. Bitte starte eine /lektorat-fix-Session sobald du Feedback hast."
 
 ## Sonderfall: Plot-Beat traegt nicht
 

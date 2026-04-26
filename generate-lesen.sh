@@ -42,9 +42,9 @@ with open('$STATUS', encoding='utf-8') as f:
 template = open('$TEMPLATE', encoding='utf-8').read()
 count = 0
 
-# Status-Sets fuer die neue Pipeline (v2)
-NEEDS_ENTWURFS_DATEI = {'entwurf', 'entwurf-checked', 'entwurf-ok', 'ausarbeitung', 'lektorat', 'final'}
-NEEDS_DATEI = {'lektorat', 'final', 'council', 'checked'}  # 'council'/'checked' fuer alte Pipeline-Kompatibilitaet
+# Status-Sets fuer Pipeline v2.1 (ab 2026-04-26: lektorat-Status entfaellt)
+NEEDS_ENTWURFS_DATEI = {'entwurf', 'entwurf-checked', 'entwurf-ok', 'ausarbeitung', 'final'}
+NEEDS_DATEI = {'final'}
 warnings = []
 
 for buch_key in ['buch1', 'buch2', 'buch3']:

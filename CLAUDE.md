@@ -80,9 +80,9 @@ Drei Phasen mit Session-Breaks. Details in den jeweiligen Skill-Dateien (`/entwu
 
 **NICHT direkt laden:** `zeitleiste.json`, `status.json`, `kapitel-summaries.md`, Aktpläne komplett. Der Extraktor liefert was gebraucht wird.
 
-**Status-Kette:** `idee → entwurf → entwurf-checked → entwurf-ok → ausarbeitung → lektorat → final`
+**Status-Kette:** `idee → entwurf → entwurf-checked → entwurf-ok → ausarbeitung → final` (seit 2026-04-26: Status `lektorat` entfaellt — `/ausarbeitung` setzt direkt `final`, weil das absatzweise Schreiben mit Mini-Council bereits Final-Niveau liefert.)
 
-**Modelle:** `/entwurf` = Sonnet, `/ausarbeitung` = Opus, `/lektorat-fix` = Sonnet/Haiku.
+**Modelle:** `/entwurf` = Sonnet, `/ausarbeitung` = Opus, `/lektorat-fix` = Sonnet/Haiku (Mikro-Fixes auf finalen Kapiteln nach Online-Lesen).
 
 ## Kapitel-Header
 

@@ -1,0 +1,642 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Der Riss — Projekt-Architektur</title>
+<style>
+  :root {
+    --bg: #1a1614;
+    --bg-card: #221d1a;
+    --fg: #e8dfd5;
+    --fg-mute: #a89d8e;
+    --accent: #c8956b;
+    --accent-warm: #d4a574;
+    --line: #3a322c;
+    --warn: #d97757;
+    --ok: #7ba267;
+    --code: #c8956b;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font-family: Georgia, "Iowan Old Style", "Palatino Linotype", serif;
+    line-height: 1.6;
+    font-size: 16px;
+  }
+  .wrap {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 48px 32px 80px;
+  }
+  header {
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 24px;
+    margin-bottom: 40px;
+  }
+  h1 {
+    font-size: 2.2em;
+    margin: 0 0 8px;
+    font-weight: normal;
+    letter-spacing: 0.5px;
+  }
+  h1 .sub {
+    color: var(--fg-mute);
+    font-size: 0.5em;
+    font-style: italic;
+    margin-left: 12px;
+  }
+  h2 {
+    font-size: 1.5em;
+    margin-top: 56px;
+    margin-bottom: 16px;
+    font-weight: normal;
+    color: var(--accent-warm);
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 6px;
+  }
+  h3 {
+    font-size: 1.15em;
+    margin-top: 32px;
+    margin-bottom: 8px;
+    color: var(--accent);
+    font-weight: normal;
+  }
+  p, li { color: var(--fg); }
+  .lead {
+    font-size: 1.05em;
+    color: var(--fg-mute);
+    font-style: italic;
+    margin-bottom: 32px;
+  }
+  code, .mono {
+    font-family: "JetBrains Mono", Consolas, "Courier New", monospace;
+    font-size: 0.88em;
+    color: var(--code);
+    background: rgba(200, 149, 107, 0.08);
+    padding: 1px 6px;
+    border-radius: 3px;
+  }
+  pre {
+    background: var(--bg-card);
+    border: 1px solid var(--line);
+    padding: 14px 18px;
+    border-radius: 4px;
+    overflow-x: auto;
+    font-size: 0.85em;
+  }
+  pre code { background: none; padding: 0; }
+  .mermaid {
+    background: var(--bg-card);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    padding: 24px;
+    margin: 16px 0 24px;
+    text-align: center;
+    overflow-x: auto;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 16px 0 28px;
+    font-size: 0.94em;
+  }
+  th, td {
+    text-align: left;
+    padding: 10px 14px;
+    border-bottom: 1px solid var(--line);
+    vertical-align: top;
+  }
+  th {
+    color: var(--accent);
+    font-weight: normal;
+    border-bottom: 2px solid var(--line);
+  }
+  tr:hover td { background: rgba(200, 149, 107, 0.04); }
+  .audit-card {
+    background: var(--bg-card);
+    border-left: 3px solid var(--warn);
+    padding: 14px 20px;
+    margin: 14px 0;
+    border-radius: 0 4px 4px 0;
+  }
+  .audit-card.ok { border-left-color: var(--ok); }
+  .audit-card .label {
+    display: inline-block;
+    background: var(--warn);
+    color: #1a1614;
+    font-size: 0.72em;
+    padding: 2px 10px;
+    border-radius: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    font-weight: bold;
+    margin-right: 10px;
+    vertical-align: middle;
+  }
+  .audit-card.ok .label { background: var(--ok); }
+  .audit-card .label.medium { background: var(--accent); }
+  .audit-card h4 {
+    display: inline;
+    font-size: 1em;
+    color: var(--accent-warm);
+    margin: 0;
+    font-weight: normal;
+  }
+  .audit-card p { margin: 8px 0 4px; font-size: 0.95em; }
+  .audit-card .fix {
+    font-size: 0.88em;
+    color: var(--fg-mute);
+    font-style: italic;
+    border-top: 1px dashed var(--line);
+    padding-top: 6px;
+    margin-top: 8px;
+  }
+  .audit-card .fix strong { color: var(--ok); font-style: normal; }
+  .toc {
+    background: var(--bg-card);
+    border: 1px solid var(--line);
+    padding: 18px 24px;
+    border-radius: 6px;
+    margin-bottom: 40px;
+  }
+  .toc ul { margin: 4px 0; padding-left: 20px; }
+  .toc a { color: var(--accent); text-decoration: none; }
+  .toc a:hover { color: var(--accent-warm); }
+  .meta {
+    color: var(--fg-mute);
+    font-size: 0.85em;
+    margin-top: 4px;
+  }
+  .grid-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin: 16px 0;
+  }
+  @media (max-width: 720px) {
+    .grid-2 { grid-template-columns: 1fr; }
+    .wrap { padding: 24px 16px; }
+  }
+  .legend {
+    font-size: 0.85em;
+    color: var(--fg-mute);
+    margin-top: -8px;
+    margin-bottom: 24px;
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <h1>Der Riss <span class="sub">— Projekt-Architektur</span></h1>
+  <p class="meta">Visualisierung des Workflows: Dokumenten-Hierarchie, Kapitel-Pipeline, Datei-Konventionen, Audit. Stand 2026-04-26.</p>
+</header>
+
+<div class="toc">
+  <strong>Inhalt</strong>
+  <ul>
+    <li><a href="#uberblick">1. Überblick</a></li>
+    <li><a href="#hierarchie">2. Dokumenten-Hierarchie (8 Ebenen)</a></li>
+    <li><a href="#pipeline">3. Kapitel-Pipeline (v2)</a></li>
+    <li><a href="#status">4. Status-Lebenszyklus</a></li>
+    <li><a href="#refit">5. Sonderpfad — /refit für Alt-Kapitel</a></li>
+    <li><a href="#dateien">6. Datei-Konventionen</a></li>
+    <li><a href="#deploy">7. Build &amp; Deploy</a></li>
+    <li><a href="#audit">8. Workflow-Audit — gefundene Brüche</a></li>
+  </ul>
+</div>
+
+<h2 id="uberblick">1. Überblick</h2>
+<p class="lead">
+  Das Projekt schreibt einen 800–1000 Seiten Roman in einer dreistufigen Pipeline (Plot → Prosa → Lektorat),
+  jede Stufe ein eigenes Skill mit eigenem Modell-Soll, eigenem Kontext-Budget, eigenen Gates. Quelle der
+  Wahrheit ist eine zehnstufige Dokumenten-Hierarchie; Änderungen kaskadieren von oben nach unten.
+</p>
+
+<table>
+  <tr><th>Aspekt</th><th>Wert</th></tr>
+  <tr><td>Genre</td><td>Commercial Dark Romantasy / Dark Fantasy / Dark BDSM</td></tr>
+  <tr><td>Umfang Buch 1</td><td>~225 000 Wörter, ~900 Seiten</td></tr>
+  <tr><td>POV-Figuren</td><td>Alphina, Sorel, Vesper, Maren (je ~25 %)</td></tr>
+  <tr><td>Pipeline</td><td><code>idee → entwurf → entwurf-checked → entwurf-ok → ausarbeitung → final</code> <span style="color:var(--fg-mute);font-size:0.85em;">(seit 2026-04-26: <code>lektorat</code>-Status entfallen)</span></td></tr>
+  <tr><td>Modelle</td><td>Sonnet (Plot/Lektorat), Opus (Prosa), Haiku (Mikro-Fixes)</td></tr>
+  <tr><td>Source-of-Truth</td><td><code>buch/zeitleiste.json</code> (Reihenfolge, Events) · <code>buch/status.json</code> (Pipeline-Status)</td></tr>
+  <tr><td>Deploy</td><td><code>git push</code> → SSH-Hook → <code>generate-lesen.sh</code></td></tr>
+</table>
+
+<h2 id="hierarchie">2. Dokumenten-Hierarchie (8 Ebenen)</h2>
+<p>Acht Ebenen, von abstrakt nach konkret. <strong>Änderungen kaskadieren abwärts:</strong> wenn Ebene 1 (Welt) sich ändert, müssen Ebenen 2–8 nachgepflegt werden. Der häufigste Drift-Pfad im Projekt.</p>
+
+<div class="mermaid">
+flowchart TD
+  classDef ebene fill:#221d1a,stroke:#c8956b,stroke-width:1px,color:#e8dfd5
+  classDef sot fill:#3a322c,stroke:#d4a574,stroke-width:2px,color:#d4a574
+  classDef leaf fill:#221d1a,stroke:#7ba267,color:#e8dfd5
+
+  E1["<b>1 Weltbibel</b><br/>00-welt.md · moragh-karte.json<br/>Figuren · Welt · Orte"]:::ebene
+  E2["<b>2 Regelsysteme</b><br/>00-positioning.md ⚡<br/>01-stil.md · 01-autorin-stimme.md<br/>02-stilregeln-v2.md · 10-magie-system.md"]:::ebene
+  E3["<b>3 Charakter-Dossiers</b><br/>pov/{figur}.md · 11-nyr.md · 13-talven.md<br/>19-varen.md · 22-moragh-figuren.md"]:::ebene
+  E4["<b>4 Storyline</b><br/>00-storyline.md<br/>synopse-b1/b2/b3.md"]:::ebene
+  E5["<b>5 Zeitleiste &amp; Status</b><br/>zeitleiste.json · status.json<br/>kapitel-summaries.md"]:::sot
+  E6["<b>6 Aktpläne</b><br/>04-akt3.md · 05-akt4.md (B1)<br/>06-09-buch2-akt*.md · 14-17-buch3-akt*.md"]:::ebene
+  E7["<b>7 Entwürfe</b><br/>kapitel/B1-K{KK}-entwurf.md<br/>(Szenen inline, kein separater Plan mehr)"]:::ebene
+  E8["<b>8 Finale Kapitel</b><br/>kapitel/B1-K{KK}-{figur}.md<br/>(Was die Leserin liest)"]:::leaf
+
+  E1 -->|kaskadiert| E2
+  E2 -->|kaskadiert| E3
+  E3 -->|kaskadiert| E4
+  E4 -->|kaskadiert| E5
+  E5 -->|kaskadiert| E6
+  E6 -->|kaskadiert| E7
+  E7 -->|kaskadiert| E8
+
+  E5 -.->|<b>SoT — gewinnt bei Konflikten</b>| E5
+</div>
+
+<p class="legend">
+  <strong>⚡ Positioning</strong> ist das wichtigste Dokument. Bei Konflikten mit allen anderen Ebenen gilt es. ·
+  <strong>Ebene 5 ist Source-of-Truth</strong> für Reihenfolge und POV — bei Konflikt mit Aktplänen gewinnt zeitleiste.json.
+</p>
+
+<h2 id="pipeline">3. Kapitel-Pipeline (v2)</h2>
+<p>Drei Phasen mit harten <strong>Session-Breaks</strong> dazwischen (jede Phase hat ein eigenes Modell-Soll). Übergabe via Handoff-Files. Keine Phase darf still in die nächste laufen.</p>
+
+<div class="mermaid">
+flowchart LR
+  classDef phase fill:#221d1a,stroke:#c8956b,stroke-width:2px,color:#e8dfd5
+  classDef state fill:#3a322c,stroke:#a89d8e,color:#e8dfd5
+  classDef gate fill:#1a1614,stroke:#d97757,stroke-width:1px,color:#d97757
+  classDef file fill:#221d1a,stroke:#7ba267,stroke-dasharray:3 3,color:#a89d8e
+  classDef ext fill:#1a1614,stroke:#d4a574,color:#d4a574
+
+  EXT["<b>kapitel-kontext.py</b><br/>~3k Tokens<br/>(ersetzt zeitleiste/status/summaries)"]:::ext
+
+  S0["idee"]:::state
+  P1["<b>/entwurf</b><br/>Modell: Sonnet<br/>Kontext: ~5–6k W<br/>Output: {ID}-entwurf.md"]:::phase
+  G1{"Logik-Check<br/>+ Council 2 Agenten<br/>+ Council-Leserinnen ≥90 %"}:::gate
+  S1["entwurf-checked"]:::state
+  S2["entwurf-ok<br/><i>(Autor-Freigabe)</i>"]:::state
+  H1[/"{ID}-handoff.md<br/>Phase: ausarbeitung"/]:::file
+  P2["<b>/ausarbeitung</b><br/>Modell: Opus<br/>Kontext: ~17–22k W<br/>Output: {ID}-{figur}.md<br/>Ziel: 4 000–4 500 W<br/>absatzweise + Mini-Council"]:::phase
+  G2{"Stil-Check<br/>+ 3 Leser-Subagents<br/>+ Autorin-Durchgang (Opus)"}:::gate
+  S4["final"]:::state
+  CLEANUP[/"Handoff-File gelöscht<br/>+ kapitel-summaries.md<br/>(PFLICHT ergänzt)<br/>+ status.json text-Snippet"/]:::file
+  P3["<b>/lektorat-fix</b><br/>(optional, nur bei Bedarf)<br/>Modell: Sonnet/Haiku<br/>Mikro-Fixes auf final<br/>Edit-Tool, autor-getrieben"]:::phase
+
+  S0 --> P1
+  EXT -.->|Phase entwurf| P1
+  P1 --> G1
+  G1 --> S1
+  S1 -->|Autor sagt 'entwurf ok'| S2
+  S2 --> H1
+  H1 --> P2
+  EXT -.->|Phase ausarbeitung| P2
+  P2 --> G2
+  G2 --> S4
+  S4 --> CLEANUP
+  S4 -.->|Online-Lese-Feedback<br/>(neue Session)| P3
+  P3 -.->|Mikro-Edit| S4
+
+  P2 -.->|<b>Plot-Bruch entdeckt</b><br/>STOPP, Rückstufung| S2
+  P3 -.->|<b>Großer Umbau gewünscht</b>| S2
+</div>
+
+<p class="legend"><strong>Lesart:</strong> durchgezogene Pfeile = Standard-Fluss, gestrichelte Pfeile = Rückkanäle bei Plot-Problemen, gepunktete Pfeile = Kontext-Zugriff. Jeder Phasenwechsel ist eine neue Session mit neuem Modell.</p>
+
+<h3>Was tut jede Phase konkret</h3>
+<table>
+  <tr><th>Phase</th><th>Tut</th><th>Tut <em>nicht</em></th></tr>
+  <tr>
+    <td><strong>/entwurf</strong></td>
+    <td>Plot, Beats, Tschechow-Liste, Dialog-Infos, Cross-POV-Anker, POV-Wissen, Council-Leserinnen-Auswahl</td>
+    <td>Keine Prosa, kein Stil, keine Dialoge ausformuliert, keine Sinnes-Schmuckwörter</td>
+  </tr>
+  <tr>
+    <td><strong>/ausarbeitung</strong></td>
+    <td>Prosa absatzweise (40–120 W), Selbst-Check 3 Ebenen, Mini-Council 4–6 Stimmen, Stil-Check, Final Council 3 Subagenten, Autorin-Durchgang. <strong>Setzt Status direkt auf <code>final</code>,</strong> aktualisiert <code>kapitel-summaries.md</code> und <code>status.json</code> <code>text</code>-Snippet, löscht Handoff.</td>
+    <td>Plot anfassen, neue Beats erfinden, Welt-Fakten ändern, Files außerhalb der Lade-Liste lesen</td>
+  </tr>
+  <tr>
+    <td><strong>/lektorat-fix</strong> <span style="color:var(--fg-mute);font-size:0.85em;">(optional)</span></td>
+    <td>Edit-Tool-basierte Mikro-Fixes auf <code>final</code>-Kapiteln nach Online-Lese-Feedback. Lädt minimalen Kontext (Kapitel selbst + Positioning). Status bleibt <code>final</code>.</td>
+    <td>Neuer Stil-Check, Council, Plot-Anpassung, Status-Wechsel, Write-Tool für ganze Kapitel</td>
+  </tr>
+</table>
+
+<h2 id="status">4. Status-Lebenszyklus</h2>
+<p>Pipeline v2.1 (ab 2026-04-26) nutzt 6 Stati. Status <code>lektorat</code> entfallen — <code>/ausarbeitung</code> setzt direkt <code>final</code>, weil das absatzweise Schreiben mit Mini-Council bereits Final-Niveau liefert. Legacy-Stati (<code>szenenplan</code>, <code>council</code>, <code>checked</code>, <code>lektorat</code>) sind aus dem Schema entfernt.</p>
+
+<div class="mermaid">
+stateDiagram-v2
+  direction LR
+  [*] --> idee
+  idee --> entwurf : /entwurf
+  entwurf --> entwurf_checked : Logik+Council
+  entwurf_checked --> entwurf_ok : Autor-Freigabe
+  entwurf_ok --> ausarbeitung : /ausarbeitung
+  ausarbeitung --> final : Council bestanden
+  final --> [*]
+
+  ausarbeitung --> entwurf_ok : Plot-Bruch
+  final --> final : /lektorat-fix (Mikro-Edits)
+  final --> ausarbeitung : Großer Umbau
+</div>
+
+<h2 id="refit">5. Sonderpfad — /refit für Alt-Kapitel</h2>
+<p>Alt-Kapitel (vor April 2026, K01–K11, I1, I2) haben keinen Entwurf. Plot steckt in der Prosa. Edit-in-place produziert Mongrel-Text. <code>/refit</code> löst das durch <strong>Plot-Lock-Extraktion</strong>: Beats werden in ein Canon-Dokument extrahiert, Altkapitel archiviert, Pipeline neu gestartet.</p>
+
+<div class="mermaid">
+flowchart LR
+  classDef phase fill:#221d1a,stroke:#c8956b,stroke-width:2px,color:#e8dfd5
+  classDef state fill:#3a322c,stroke:#a89d8e,color:#e8dfd5
+  classDef gate fill:#1a1614,stroke:#d97757,color:#d97757
+  classDef file fill:#221d1a,stroke:#7ba267,stroke-dasharray:3 3,color:#a89d8e
+
+  ALT["Alt-Kapitel<br/>z.B. 01-alphina.md<br/>Status: final"]:::state
+  REFIT["<b>/refit</b><br/>Modell: Sonnet<br/>Beat-Extraktion"]:::phase
+  PLOTLOCK[/"{ID}-plot-lock.md<br/><b>Canon</b> — bleibt liegen"/]:::file
+  G["Plot-Lock OK?<br/>(Autor-Gate)"]:::gate
+  ANKER["Anker-Auswahl<br/>Voice + Register"]:::phase
+  ENTWURF[/"{ID}-entwurf.md<br/>(im Standard-Format)"/]:::file
+  ARCHIV[/"legacy/{alte-datei}.md<br/>nicht mehr Canon"/]:::file
+  HANDOFF[/"{ID}-handoff.md<br/>Phase: ausarbeitung"/]:::file
+  PIPE["→ /ausarbeitung<br/>(Standard-Pipeline)"]:::state
+
+  ALT --> REFIT
+  REFIT --> PLOTLOCK
+  PLOTLOCK --> G
+  G --> ANKER
+  ANKER --> ENTWURF
+  REFIT --> ARCHIV
+  ENTWURF --> HANDOFF
+  HANDOFF --> PIPE
+</div>
+
+<p class="legend">Plot-Lock ist <strong>autoritativ</strong> nach Autor-Freigabe. Legacy-Datei darf nur noch als Tschechow-Spickzettel gelesen werden, nicht als Stil-Vorlage.</p>
+
+<h2 id="dateien">6. Datei-Konventionen</h2>
+
+<table>
+  <tr><th>Pfad-Pattern</th><th>Zweck</th><th>Lifecycle</th></tr>
+  <tr><td><code>buch/00-positioning.md</code></td><td>Marktposition, Zielgruppe, Stilvektoren</td><td>Stabil — bei Änderung kaskadiert alles</td></tr>
+  <tr><td><code>buch/zeitleiste.json</code></td><td>Reihenfolge, POV, Events, Tschechow-Status</td><td>SoT — niemals direkt laden, immer via Extraktor</td></tr>
+  <tr><td><code>buch/status.json</code></td><td>Status pro Kapitel, Wörter, Plot-Snippet, Datei-Pfade</td><td>SoT — Pflichtfelder je nach Status</td></tr>
+  <tr><td><code>buch/kapitel/{ID}-entwurf.md</code></td><td>Plot-Entwurf nach /entwurf</td><td>Bleibt liegen, wird in /ausarbeitung gelesen</td></tr>
+  <tr><td><code>buch/kapitel/{ID}-{figur}.md</code></td><td>Finales Kapitel (Prosa)</td><td>Was die Leserin liest</td></tr>
+  <tr><td><code>buch/kapitel/{ID}-handoff.md</code></td><td>Phasen-Übergabe-File</td><td>Wird bei Phasen-Wechsel überschrieben, bei <code>final</code> gelöscht</td></tr>
+  <tr><td><code>buch/kapitel/{ID}-plot-lock.md</code></td><td>Canon-Beats nach /refit</td><td>Bleibt liegen, autoritativ</td></tr>
+  <tr><td><code>buch/kapitel/legacy/*.md</code></td><td>Archivierte Alt-Kapitel</td><td>Nur Tschechow-Referenz, nicht Stil-Vorlage</td></tr>
+  <tr><td><code>buch/kapitel/{ID}-{figur}.backup.md</code></td><td>Manueller Sicherungs-Snapshot</td><td><span style="color:var(--warn)">⚠ Lifecycle nicht definiert</span></td></tr>
+  <tr><td><code>buch/leseproben/NN-{titel}.md</code></td><td>Ton-Referenz-Proben</td><td>35 Stück, im Entwurfs-Header pro Kapitel referenziert</td></tr>
+  <tr><td><code>buch/pov/{figur}.md</code></td><td>POV-Dossier (Vokabular, Satzlimits, Berufslinse)</td><td>11 Stück (4 POV + 7 Nebenfiguren)</td></tr>
+  <tr><td><code>buch/kapitel-summaries.md</code></td><td>Was bisher geschah, pro Kapitel</td><td><span style="color:var(--warn)">⚠ Update bei <code>final</code> nur „optional"</span></td></tr>
+  <tr><td><code>scripts/kapitel-kontext.py</code></td><td>Schlanker Kontext-Loader für alle 3 Phasen</td><td>~3k Tokens statt ~51k — zentral</td></tr>
+</table>
+
+<h2 id="deploy">7. Build &amp; Deploy</h2>
+<div class="mermaid">
+flowchart LR
+  classDef src fill:#221d1a,stroke:#c8956b,color:#e8dfd5
+  classDef build fill:#3a322c,stroke:#d4a574,color:#d4a574
+  classDef out fill:#221d1a,stroke:#7ba267,color:#e8dfd5
+
+  STATUS[("buch/status.json")]:::src
+  KAPITEL[("buch/kapitel/*.md")]:::src
+  WELT[("buch/{welt,figuren,leseproben}")]:::src
+
+  PUSH["git push"]:::build
+  HOOK["SSH-Hook<br/>adrian@adrianphilipp.de"]:::build
+  GEN["generate-lesen.sh"]:::build
+  BUILDWEB["build-web.py<br/>build-leseproben.py<br/>lektorat-versions.py"]:::build
+
+  LESEN[("/lesen/{N}/index.html<br/>(pro Kapitel mit datei oder entwurfs_datei)")]:::out
+  STATIK[("/story/<br/>/story-in-work/<br/>/leseproben/")]:::out
+
+  STATUS --> PUSH
+  KAPITEL --> PUSH
+  WELT --> PUSH
+  PUSH --> HOOK
+  HOOK --> GEN
+  GEN --> BUILDWEB
+  GEN --> LESEN
+  BUILDWEB --> STATIK
+</div>
+
+<h2 id="audit">8. Workflow-Audit — gefundene Brüche</h2>
+<p class="lead">
+  Beim Durchgang durch Skills, status.json, generate-lesen.sh und das kapitel-Verzeichnis
+  sind diese Brüche aufgefallen. Sortiert nach Drift-Risiko. Das ist die Antwort auf das
+  Bauchgefühl „da haben wir Latein angepasst und da nicht".
+</p>
+<p style="background: var(--bg-card); border-left: 3px solid var(--ok); padding: 12px 18px; border-radius: 0 4px 4px 0; font-size: 0.95em;">
+  <strong>Stand 2026-04-26 — bereits behoben:</strong> Punkt 1 (kapitel-summaries.md Update jetzt PFLICHT in /ausarbeitung Phase 8.1) ·
+  Punkt 2 (status.json text-Snippet PFLICHT in Phase 8.2 + Hook erinnert bei Edits) ·
+  Punkt 3 (8 Backup-Files nach <code>kapitel/_archiv_backups_2026-04-26/</code>) ·
+  Punkt 4+5 (51 Doppelspuren + Szenen-Dateien nach <code>kapitel/_archiv_alt-pipeline_2026-04-26/</code>) ·
+  Punkt 9 (Pipeline-v1-Stati und <code>lektorat</code> aus Schema entfernt). Verbleibend: Punkte 6, 7, 8, 10, 11.
+</p>
+
+<div class="audit-card">
+  <span class="label">hoch</span>
+  <h4>1. <code>kapitel-summaries.md</code> wird nur „optional" aktualisiert</h4>
+  <p>
+    <code>/lektorat-fix</code> Phase 5 sagt zur <code>final</code>-Setzung: „Optional anbieten den Summary-Eintrag direkt zu schreiben."
+    Aber: <code>/entwurf</code> Phase 1 lässt Subagenten in <code>kapitel-summaries.md</code> nachlesen, was bisher geschah.
+    Wenn die Summary nach jedem <code>final</code> nicht gepflegt wird, drifted das Wissen, das spätere Entwürfe haben,
+    weg vom tatsächlichen Stand der Kapitel.
+  </p>
+  <p class="fix"><strong>Fix:</strong> Aus „optional" ein Pflicht-Gate vor <code>final</code> machen — wie das Handoff-File-Löschen. Eine Zeile im Skill, eine Zeile in CLAUDE.md.</p>
+</div>
+
+<div class="audit-card">
+  <span class="label">hoch</span>
+  <h4>2. <code>status.json</code>-Plot-Snippet drifted gegen das tatsächliche Kapitel</h4>
+  <p>
+    Jedes Kapitel-Objekt in <code>status.json</code> hat ein <code>text</code>-Feld mit dem Plot-Abriss
+    (siehe K10–K17). Wenn <code>/lektorat-fix</code> oder <code>/ausarbeitung</code> Plot-Mikro-Justierungen
+    vornimmt, wird dieses Feld nicht mit-aktualisiert — es gibt keinen Skill-Schritt dafür. Der
+    Kontext-Extraktor liest aber genau dieses Feld, um Nachbar-Kapitel zu erklären.
+  </p>
+  <p class="fix"><strong>Fix:</strong> Beim Setzen auf <code>lektorat</code> oder <code>final</code> automatisch fragen: „<code>text</code>-Feld mit aktuellem Stand abgleichen?" — oder den Text aus dem ersten Absatz des Kapitels regenerieren lassen.</p>
+</div>
+
+<div class="audit-card">
+  <span class="label">hoch</span>
+  <h4>3. Backup-Files (<code>*.backup.md</code>) ohne Lifecycle</h4>
+  <p>
+    Im <code>kapitel/</code>-Verzeichnis liegen aktuell 8 <code>.backup.md</code>-Dateien (K12, K13, K14, K15, K16, K17, K18, K19).
+    Kein Skill schreibt sie aktiv, keiner löscht sie. Sie sind vermutlich manuell aus alten <code>/ausarbeitung</code>-Sessions
+    entstanden, sind aber jetzt latente Fehlerquelle: Wenn ein Subagent eine andere Datei mit gleicher Kapitel-Nummer findet, kann er sie als Referenz heranziehen.
+  </p>
+  <p class="fix"><strong>Fix:</strong> Einmalig nach <code>buch/kapitel/_backup_2026-04/</code> verschieben. Dann Konvention: Backup vor riskanten Operationen via <code>git stash</code>, nicht via Datei-Kopie.</p>
+</div>
+
+<div class="audit-card">
+  <span class="label">hoch</span>
+  <h4>4. Mehrfache Entwurfs-Spuren bei Alt-Kapiteln (Refit-Spaghetti)</h4>
+  <p>
+    Für K01 existieren parallel: <code>01-alphina.md</code>, <code>01-alphina-entwurf.md</code>, <code>01-alphina-v2.md</code>,
+    <code>01-alphina-v2-entwurf.md</code>, plus <code>01-szene1.md</code> bis <code>01-szene3.md</code>. Ähnlich K02.
+    Eindeutiger Quell-Zustand fehlt — wenn ein neuer Subagent K01 als Ton-Referenz liest, kann er auf jede dieser Versionen treffen.
+  </p>
+  <p class="fix"><strong>Fix:</strong> Pro Kapitel <em>genau eine</em> kanonische Datei. Alle anderen nach <code>legacy/</code> mit Banner. <code>/refit</code> tut das schon korrekt für neu refittete — Bestand muss nachgezogen werden.</p>
+</div>
+
+<div class="audit-card">
+  <span class="label">hoch</span>
+  <h4>5. Szenen-Dateien nicht archiviert wie behauptet</h4>
+  <p>
+    CLAUDE.md sagt: „Szenenpläne sind Legacy. <code>buch/szenen/*.md</code> wurde am 22. Apr 2026 nach <code>buch/szenen/_archiv_2026-04-22/</code> verschoben."
+    Stimmt — <em>aber</em> die parallelen Szenen-Dateien im Kapitel-Ordner (<code>kapitel/01-szene1.md</code> bis
+    <code>11-szene3.md</code>, ~30 Stück) liegen weiter live im Verzeichnis. CLAUDE.md ist hier irreführend.
+  </p>
+  <p class="fix"><strong>Fix:</strong> Entweder Szenen-Dateien auch nach <code>kapitel/_archiv_szenen/</code> verschieben, oder CLAUDE.md präzisieren („Szenen-Dateien im kapitel/-Ordner sind nicht Teil der Pipeline v2, aber bleiben für Refit-Referenz liegen").</p>
+</div>
+
+<div class="audit-card">
+  <span class="label medium">mittel</span>
+  <h4>6. Cross-POV-Anker werden im Entwurf gefordert, aber im Lektorat nie geprüft</h4>
+  <p>
+    <code>/entwurf</code> verlangt im Szenen-Header das Feld „Cross-POV-Ankerpunkte". Im Council-Subagent wird auch geprüft,
+    <em>ob</em> sie gesetzt sind. Aber in der finalen Prosa wird nicht systematisch verifiziert, ob jeder Anker
+    auch tatsächlich in dem Cross-POV-Partnerkapitel landet. Wenn K15-Alphina sagt „Sorel sieht später dieses Detail" und K16-Sorel das nicht zeigt → still gebrochen.
+  </p>
+  <p class="fix"><strong>Fix:</strong> Eigener kleiner Skill <code>/cross-pov-check {ID}</code> — sammelt alle Cross-POV-Anker aus den Entwürfen und prüft, ob sie im jeweiligen Partnerkapitel referenziert werden. Pure Grep-Arbeit, Sonnet.</p>
+</div>
+
+<div class="audit-card">
+  <span class="label medium">mittel</span>
+  <h4>7. Handoff-File-Lifecycle bei Rückstufung unklar</h4>
+  <p>
+    Wenn <code>/ausarbeitung</code> ein Plot-Problem entdeckt, soll Status zurück auf <code>entwurf-ok</code> oder <code>entwurf</code>.
+    Aber: das Handoff-File trägt noch die Phase „ausarbeitung". <code>/entwurf</code> Phase 0.4 prüft auf Handoff
+    nur als Hinweis und fragt „verwenden oder löschen?" — also liegt die Entscheidung am Autor und kann übersehen werden.
+    Dann läuft <code>/entwurf</code> auf einem inkonsistenten Handoff.
+  </p>
+  <p class="fix"><strong>Fix:</strong> Bei Rückstufung muss der Skill, der zurückstuft, das Handoff-File <em>aktiv löschen</em> oder umbenennen zu <code>{ID}-handoff.SUSPENDED.md</code>. Nicht Autor-Verantwortung.</p>
+</div>
+
+<div class="audit-card">
+  <span class="label medium">mittel</span>
+  <h4>8. Aktpläne asymmetrisch gepflegt</h4>
+  <p>
+    Akt 1+2 von Buch 1 sind nach <code>buch/_archiv/</code> verschoben (CLAUDE.md). Akt 3 (<code>04-akt3.md</code>)
+    und Akt 4 (<code>05-akt4.md</code>) leben weiter. Wenn ein Refit Beats verschiebt, muss
+    Akt 3/4 nachgezogen werden — bei Akt 1/2 ist nicht klar, ob das Archiv gepflegt wird oder eingefroren ist.
+  </p>
+  <p class="fix"><strong>Fix:</strong> Klarer Status pro Aktplan-Datei (Banner oben): „eingefroren — Stand X" oder „live — wird gepflegt". Sonst weiß keiner ob die Akt-1-Beats noch stimmen.</p>
+</div>
+
+<div class="audit-card">
+  <span class="label medium">mittel</span>
+  <h4>9. Pipeline-v1-Stati leben noch im Schema</h4>
+  <p>
+    <code>status.json</code> definiert in <code>stati</code> 10 Werte, davon sind <code>szenenplan</code>, <code>council</code>, <code>checked</code>
+    Pipeline-v1-Legacy. <code>generate-lesen.sh</code> behandelt sie noch (<code>NEEDS_DATEI</code> umfasst <code>council</code> und <code>checked</code>).
+    Verwirrend für jeden, der das Projekt neu liest — und latent: wenn versehentlich ein alter Status gesetzt wird,
+    fängt es kein Skill ab.
+  </p>
+  <p class="fix"><strong>Fix:</strong> Schema auf 7 Stati reduzieren. <code>generate-lesen.sh</code> die Legacy-Liste rauswerfen. Wenn ein Kapitel doch noch v1-Status hat: einmaliger Migrations-Lauf.</p>
+</div>
+
+<div class="audit-card">
+  <span class="label medium">mittel</span>
+  <h4>10. Positioning-Pflicht-Read mehrfach dupliziert, nirgends verifiziert</h4>
+  <p>
+    Vier Skills (<code>/entwurf</code>, <code>/ausarbeitung</code>, <code>/lektorat-fix</code>, <code>/refit</code>) verlangen
+    explizit „00-positioning.md ZUERST lesen". Wenn eine Skill-Datei refactored wird und der Hinweis verschwindet,
+    fällt das nicht auf — kein zentraler Mechanismus prüft, dass der Read passiert ist.
+  </p>
+  <p class="fix"><strong>Fix:</strong> Kontext-Extraktor (<code>kapitel-kontext.py</code>) gibt das Positioning standardmäßig <em>als ersten Block</em> mit aus, statt es Read-only-Anweisung zu lassen. Damit zentralisiert sich die Pflicht.</p>
+</div>
+
+<div class="audit-card">
+  <span class="label medium">mittel</span>
+  <h4>11. <code>status.json</code> hat zwei Quellen für die Kapitel-Liste</h4>
+  <p>
+    Pro Buch existiert <code>akte[*].kapitel</code> (Reihenfolge-Liste) und <code>kapitel</code> (Map mit Details).
+    Die müssen manuell synchron gehalten werden. Wenn ein neues Kapitel nur in einer der beiden Strukturen landet,
+    erkennt das kein Tool.
+  </p>
+  <p class="fix"><strong>Fix:</strong> Mini-Validator (<code>scripts/validate-status.py</code>) der bei jedem Build prüft: jeder Eintrag in <code>akte[*].kapitel</code> hat ein Objekt in <code>kapitel</code> und umgekehrt. Im <code>generate-lesen.sh</code> aufrufen.</p>
+</div>
+
+<div class="audit-card ok">
+  <span class="label">stark</span>
+  <h4>12. <code>kapitel-kontext.py</code> als zentraler Kontext-Loader</h4>
+  <p>
+    Ein wirkliches Architektur-Highlight. Drei Phasen, ein Skript, ~3k Tokens statt ~51k.
+    Reduziert die Drift, weil keine Phase mehr wahllos Files lädt.
+    Zukünftige Audit-Punkte (z.B. Punkt 10 oben) können als zusätzliche Output-Sektionen in dasselbe Skript wandern.
+  </p>
+</div>
+
+<div class="audit-card ok">
+  <span class="label">stark</span>
+  <h4>13. Harte Session-Breaks zwischen Phasen mit Modell-Wechsel</h4>
+  <p>
+    Jede Phase erzwingt explizit einen Session-Break vor dem Modell-Wechsel — Sonnet → Opus → Sonnet/Haiku.
+    Das verhindert das häufigste Anti-Pattern (eine Opus-Session, die alles macht, und dabei Plot in Lektorat
+    still anpasst). Diese Disziplin ist die Grundlage dafür, dass die Pipeline überhaupt zusammenhält.
+  </p>
+</div>
+
+<h3>Zusammengefasste Empfehlung</h3>
+<p>
+  Die Pipeline-Struktur selbst ist <strong>stringent</strong> — drei Phasen, harte Gates, klare Verantwortung
+  pro Skill, zentraler Kontext-Loader. Das „Latein-an-einer-Stelle"-Gefühl entsteht
+  nicht aus der Pipeline, sondern aus <strong>fehlenden Cleanup-/Sync-Schritten</strong>: Punkte 1, 2, 3, 4, 5, 7, 11
+  sind alle „nach erfolgreicher Operation wird X nicht mit-aktualisiert/gelöscht/archiviert".
+</p>
+<p>
+  Die <strong>billigsten Wins</strong> in dieser Reihenfolge:
+</p>
+<ol>
+  <li><strong>Backups archivieren</strong> (Punkt 3) — 5 Minuten, einmalig.</li>
+  <li><strong>Doppel-Entwürfe + Szenen-Dateien archivieren</strong> (Punkte 4, 5) — 15 Minuten, einmalig.</li>
+  <li><strong>Summary-Update + status.json-Text-Update zur Pflicht machen</strong> (Punkte 1, 2) — Skill-Edits, einmalig.</li>
+  <li><strong>Handoff-Cleanup bei Rückstufung</strong> (Punkt 7) — Skill-Edit, einmalig.</li>
+  <li><strong>Validator-Skript</strong> (Punkt 11) — kleines Python, einmalig.</li>
+</ol>
+<p>
+  Damit entstehen pro Sprint keine neuen Drift-Quellen, und die existierenden Inkonsistenzen sind aus dem System raus.
+</p>
+
+<hr style="border: none; border-top: 1px solid var(--line); margin: 64px 0 24px;">
+<p class="meta" style="text-align: center;">
+  Quellen: <code>CLAUDE.md</code>, <code>.claude/commands/{entwurf,ausarbeitung,lektorat-fix,refit,buch-start}.md</code>,
+  <code>buch/status.json</code>, <code>generate-lesen.sh</code>. Diagramme: Mermaid v10.
+</p>
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+<script>
+  mermaid.initialize({
+    startOnLoad: true,
+    theme: 'base',
+    themeVariables: {
+      primaryColor: '#221d1a',
+      primaryTextColor: '#e8dfd5',
+      primaryBorderColor: '#c8956b',
+      lineColor: '#a89d8e',
+      secondaryColor: '#3a322c',
+      tertiaryColor: '#1a1614',
+      background: '#1a1614',
+      mainBkg: '#221d1a',
+      secondBkg: '#3a322c',
+      fontFamily: 'Georgia, serif'
+    },
+    flowchart: {
+      curve: 'basis',
+      padding: 20
+    }
+  });
+</script>
+
+</body>
+</html>
