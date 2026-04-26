@@ -12,7 +12,7 @@ Der Nebel lag auf der Stadt, als Elke durch das Tor ritt. Nicht über der Stadt 
 
 Vael. Die Stadt, von der man ihr erzählt hatte. Eine Hafenstadt, zwanzigtausend Seelen, Fischerei und Seefahrt und Stille. Und ein Ort, hatte der Meister in Solha gesagt, an dem ein Stein vorkommt, den es nirgendwo sonst gibt. Purpurstein, fast schwarz, mit Einschlüssen die schimmern.
 
-Elke war Bildhauerin. Tochter eines Steinmetzmeisters, Gesellin seit drei Jahren, und ihre Leidenschaft war nie die Oberfläche gewesen. Es war das, was darunter lag. Die Maserung. Die Adern. Die Schichten, die den Stein trugen. Sie hatte gelernt, Fels zu lesen, bevor sie ihn bearbeitete — die Richtung des Korns, die Schwächen, die Stellen wo der Meißel ansetzen musste, damit der Stein sich öffnete statt zu brechen. Wenn ein Stein sich anders verhielt als erwartet, dann war das Gestein anders als erwartet. Nicht die Oberfläche war die Frage. Die Tiefe war die Antwort.
+Elke war Bildhauerin. Tochter eines Steinmetzmeisters, Gesellin seit drei Jahren, und ihre Leidenschaft war nie die Oberfläche gewesen. Es war das, was darunter lag. Die Maserung. Die Adern. Die Schichten, die den Stein trugen. Sie hatte gelernt, Fels zu lesen, bevor sie ihn bearbeitete — die Richtung des Korns, die Schwächen, die Stellen wo der Meißel ansetzen musste, damit der Stein sich öffnete statt zu brechen. Wenn ein Stein sich anders verhielt als erwartet, war die Antwort immer in der Tiefe.
 
 Der Gasthof stand am Marktplatz, ein Gebäude aus Purpurstein und dunklem Holz, und der Wirt hieß Aldert und hatte breite, rissige Hände und Augen, die alles sahen und nichts fragten. Er trug ihren Koffer in ein Zimmer im zweiten Stock, klein, eine Kerze auf dem Tisch, ein Bett, ein Stuhl, ein Fenster das auf den Marktplatz ging. Der Koffer war schwer — Meißel, Hammer, Raspel, Schleifsteine, drei Skizzenbücher, leer. Elke reiste mit dem, was sie brauchte, und nichts, was sie nicht brauchte, und der Unterschied zwischen beidem war das Erste, was ihr Vater ihr beigebracht hatte.
 
@@ -30,7 +30,7 @@ Aldert stellte den Koffer ab. Richtete sich auf. Sein Blick ging zum Fenster, zu
 
 Aldert schaute sie an. Dann den Koffer. Dann wieder sie. "Ihr seid die Zweite, die kommt", sagte er. "Vor einer Woche war ein Mann hier. Ein Schmied, aus den Innenlanden. Sagte, das Erz in seinen Barren singt, seit er an der Küste ist. Singt, hat er gesagt."
 
-Er ging, ohne ein weiteres Wort, und die Tür fiel ins Schloss, und das Holz war alt und der Klang dumpf und die Stille danach war die Stille eines Raums, der gewohnt war, Menschen kommen und gehen zu sehen.
+Er ging, ohne ein weiteres Wort, und die Tür fiel ins Schloss, und das Holz war alt und der Klang dumpf und die Stille danach war alt.
 
 Elke trat ans Fenster. Der Nebel lag auf dem Marktplatz, dicht, und die Fackeln brannten darin, und durch den Nebel hindurch, am Rand der Stadt, dort wo die Häuser aufhörten und der Fels begann, sah sie den Klippenrand. Dunkel. Feucht. Und darauf — sie kniff die Augen zusammen — etwas Grünes. Eine Linie entlang der Klippe, die dort nicht sein sollte, nicht im Nebelmond, nicht an der Grauküste, nicht auf nacktem Fels. Etwas wuchs aus dem Stein. Ohne Erde. Ohne Grund.
 
@@ -60,7 +60,7 @@ Sie drückte fester. Und der Stein antwortete. Ein Pochen, tief, rhythmisch, das
 
 Tief unten. Unter dem Kalk, unter dem Basalt, unter den Schichten die sie hätte benennen können, wenn sie daran gedacht hätte. Aber sie dachte nicht. Sie hörte. Und der Fels unter der Stadt pulsierte, gleichmäßig, geduldig, als hätte er das seit sehr langer Zeit getan und als hätte zum ersten Mal jemand die Hand darauf gelegt, der es spüren konnte.
 
-Sie öffnete die Augen. Unter ihrer Hand war eine Veränderung — der Stein hatte nachgegeben. Ihre Finger hatten sich in den Kalkstein gedrückt, einen halben Zoll tief, die Form ihrer Handfläche im Fels, jede Linie, jeder Knöchel, als wäre der Stein für einen Moment weich gewesen wie feuchter Ton. Und um den Abdruck herum, in einem Kreis von einer halben Elle, hatten die feinen Risse im Gestein sich verändert. Sie waren breiter geworden. Nicht viel. Aber messbar, für eine Frau die seit dreißig Jahren Gestein las. Die Risse hatten sich geöffnet, als hätte der Fels sich für sie gedehnt.
+Sie öffnete die Augen. Unter ihrer Hand war eine Veränderung — der Stein hatte nachgegeben. Ihre Finger hatten sich in den Kalkstein gedrückt, einen Zoll tief, die Form ihrer Handfläche im Fels, jede Linie, jeder Knöchel, als wäre der Stein für einen Moment weich gewesen wie feuchter Ton. Und um den Abdruck herum, in einem Kreis von einer Spanne, hatten die feinen Risse im Gestein sich verändert. Sie waren breiter geworden. Nicht viel. Aber messbar, für eine Frau die seit dreißig Jahren Gestein las. Die Risse hatten sich geöffnet, als hätte der Fels sich für sie gedehnt.
 
 Elke hatte Stein gelesen, seit sie denken konnte. Maserungen, Schichten, die Sprache des Gesteins die langsam war und ehrlich und die man lesen konnte, wenn man geduldig genug war. Fels veränderte sich nicht in Minuten. Fels veränderte sich in Jahrhunderten. Risse öffneten sich nicht für eine Hand.
 
