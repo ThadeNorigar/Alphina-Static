@@ -22,7 +22,7 @@ Er nahm die Pinzette und hob die Unruh aus dem Lager. Sie wog weniger als ein Gr
 
 Vesper hielt sie gegen das Nord-Fenster. Das Tageslicht kam blass, ohne Richtung. Die Unruh zitterte nicht wegen seiner Hand — er sah seine Hand an, sie lag ruhig. Nicht wegen der Luft — es gab keine Zugluft. Nicht wegen Körperwärme — die Pinzette war aus Horn, nicht Metall. Sie zitterte.
 
-In der Dragonergasse draußen ging ein Pferd vorbei. Hufeisen auf gefrorenem Pflaster, unregelmäßig — eine lose. Er hörte es, ohne hinzuhören; das hatte er als Kind gelernt, als die Bretter der ersten Werkstatt so dünn gewesen waren, dass jedes Wort des Nachbarn durch die Wand kam. Die Dragonergasse war seine Hintergrundmusik seit vierundzwanzig Jahren. Er registrierte die Pferdeschritte, den Ruf eines Namens, den er nicht kannte, das Zuschlagen einer Tür zwei Häuser weiter, und keines davon bewegte die Unruh in seiner Pinzette.
+In der Dragonergasse draußen ging ein Pferd vorbei. Hufeisen auf gefrorenem Pflaster, unregelmäßig — eine lose. Er hörte es, ohne hinzuhören; das hatte er als Kind gelernt, als die Bretter der ersten Werkstatt so dünn gewesen waren, dass jedes Wort des Nachbarn durch die Wand kam. Die Dragonergasse war seine Hintergrundmusik seit vierundzwanzig Jahren. Er nahm die Pferdeschritte wahr, den Ruf eines Namens, den er nicht kannte, das Zuschlagen einer Tür zwei Häuser weiter, und keines davon bewegte die Unruh in seiner Pinzette.
 
 Die Unruh zitterte trotzdem.
 

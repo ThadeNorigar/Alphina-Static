@@ -58,6 +58,6 @@ Er hatte sich aufgesetzt, als sie zurückkam, die Beine über die Bettkante, Fü
 
 Sie zog das Hemd wieder an. Nicht das Kleid. Sie legte sich auf das Bett, auf die andere Seite, den Rücken zu ihm. Er blieb sitzen, stand nach einer Weile auf, zog Hemd und Weste wieder an. Er legte sich nicht zu ihr. Das war ebenfalls Abmachung: keine Nähe nach der Sache. Nachher nicht zusammen.
 
-Unter dem Bett wuchsen die Wurzeln einen Finger weiter und hielten. Das Kleinere musste warten.
+Unter dem Bett wuchsen die Wurzeln einen Finger weiter und hielten.
 
 Sie schloss die Augen. Sie wartete wach, bis er ging.

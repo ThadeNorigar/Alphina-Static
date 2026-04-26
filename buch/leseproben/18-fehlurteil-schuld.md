@@ -32,7 +32,7 @@ Varen war tot. Das hatte sie getan. Das war richtig gewesen.
 
 Talven war tot. Das hatte sie getan. Das war nicht richtig gewesen.
 
-Die beiden Sätze lagen nebeneinander wie zwei Steine, und keiner neutralisierte den anderen. Sie hatte lange gebraucht, um das zu verstehen: dass eine richtige Tat eine falsche Tat nicht aufhob. Sie rechneten nicht gegeneinander auf.
+Die beiden Sätze lagen nebeneinander wie zwei Steine, und keiner neutralisierte den anderen.
 
 Sie würde mit dem Kamm nichts machen. Ihn nicht tragen. Ihn nicht begraben. Sie würde ihn in die Schublade legen, unten, wo sie ihn jeden Morgen und jeden Abend sehen konnte, wenn sie sie öffnete. Das war die Strafe, die sie sich selbst zugemessen hatte — nicht öffentlich, nicht ausgesprochen, nicht verhandelbar.
 

@@ -26,7 +26,7 @@ Der Geruch erreichte ihn als zweites. Altes Eisen, metallisch, kühler als die L
 
 Er spürte die Schulter, bevor er sie sah.
 
-Am Pfeiler, auf der Höhe, wo der Stein anders war, löste sich etwas aus dem Stein heraus. Es kam nicht aus einer Ritze. Es trat aus dem Stein, als wäre der Stein Vorhang und dahinter der Raum. Es war größer als ein Mensch und kleiner zugleich — Vesper konnte das nicht zusammenbringen. Er registrierte es nur.
+Am Pfeiler, auf der Höhe, wo der Stein anders war, löste sich etwas aus dem Stein heraus. Es kam nicht aus einer Ritze. Es trat aus dem Stein, als wäre der Stein Vorhang und dahinter der Raum. Es war größer als ein Mensch und kleiner zugleich — Vesper konnte das nicht zusammenbringen. Er nahm es nur wahr.
 
 Die Augen kamen als Letztes. Zwei mandelförmige Punkte, nicht rund, kalt wie ein Spiegel, auf den man in der Dunkelheit eine Lampe gerichtet hat. Sie fanden ihn.
 

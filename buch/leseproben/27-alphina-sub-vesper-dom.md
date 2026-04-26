@@ -30,7 +30,7 @@ Sie atmete.
 
 »Langsamer.«
 
-Sie atmete langsamer. Er wartete, bis ihr Atem den Takt fand, den er meinte. Er kannte den Takt seit sechs Monaten. Sie hatte ihn gelernt am ersten Abend, an dem sie ihm gesagt hatte, dass sie ohne Struktur nicht durch diese Monate kommen würde. Nicht nach Varen. Nicht nach allem, was nicht rückgängig war.
+Sie atmete langsamer. Er wartete, bis ihr Atem den Takt fand, den er meinte. Er kannte den Takt seit sechs Monaten. Sie hatte ihn gelernt am ersten Abend, an dem sie ihm gesagt hatte, dass sie ohne Ordnung nicht durch diese Monate kommen würde. Nicht nach Varen. Nicht nach allem, was nicht rückgängig war.
 
 Er hatte genickt. Er hatte gefragt, was sie früher gewusst habe, was sie trage. Sie hatte geantwortet: Ordnung. Er hatte gesagt: Dann Ordnung.
 
@@ -82,7 +82,7 @@ Er band. Mit der rechten Hand, ein Stück Seide, das Vesper an diesem Ort bei si
 
 Sie legte die Stirn auf sein Knie. Sein Hosenstoff roch nach Meer und dem Seifenholz, das sie alle benutzten. Seine Hand kam auf ihren Nacken, blieb dort, streichelte nicht, lag nur.
 
-Sie blieb. Sie atmete. Sie dachte nichts. Das war der Punkt. Das Nichts war, wofür sie hier waren, und es kam nach einer Weile, wie ein leiser Raum, in den sie treten durfte.
+Sie blieb. Sie atmete. Sie dachte nichts. Das war der Punkt. Nach einer Weile kam ein leiser Raum, in den sie treten durfte.
 
 Nach langer Zeit — sie wusste nicht, wie lange — löste er das Band. Er legte seine Hand unter ihren Arm und half ihr hoch. Er setzte sie neben sich auf den Stuhl, der nur für einen war, und sie saß teils auf seinem Schoß, teils auf der Lehne.
 
