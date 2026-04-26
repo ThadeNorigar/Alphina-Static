@@ -9,7 +9,7 @@ Am Vormittag waren sie am Steinkreis gewesen, sie und Vesper. Er hatte die recht
 
 Eine Messung war keine zwei. Sie ging noch einmal, allein, nach Sonnenuntergang, am selben Stein. Eine Kontrolle.
 
-Sie nahm den Mantel vom Haken hinter der Tür. Der Schlüssel lag in der rechten Tasche, seit drei Wochen. Sie griff ihn, bevor sie den Mantel anzog. Das Eisen war kalt. Zu kalt für die Kammer. Heute legte sie den Schlüssel in die Innenfalte zurück und zog den Mantel an. Methodisch. Stumm.
+Sie nahm den Mantel vom Haken hinter der Tür. Der Schlüssel lag in der rechten Tasche, seit drei Wochen. Sie griff ihn, bevor sie den Mantel anzog. Das Eisen war kalt. Zu kalt für die Kammer. Heute legte sie den Schlüssel in die Innenfalte zurück und zog den Mantel methodisch und stumm an.
 
 Das Treppenhaus des Anker war leer. Im ersten Stock klirrte etwas, weiter unten redete jemand über Holz, im Erdgeschoss roch es nach gebratenem Speck und kaltem Bier. Der Wirtsbruder am Tresen zog ein Tuch durch ein Glas und schaute nicht auf. Sie nickte ihm zu und trat hinaus.
 
@@ -21,7 +21,7 @@ Sie hatte keine Lampe dabei. Der Weg war ihr seit drei Wochen vertraut, die Gasl
 
 Anker, Marktgasse, der Steinbogen. Hinter dem Steinbogen teilte sich der Weg: einer abwärts zum Hafen, der andere aufwärts zur Klippe. Sie nahm den oberen. Der Blütenmond legte sich an ihren Mantelkragen, und ihr Atem ging tiefer, weil es bergauf ging.
 
-Vor dem grünen Haupttor blieb sie stehen, weil ihre Hand schneller gewesen war als ihr Kopf. Der Schlüssel lag schon zwischen ihren Fingern, kühl, klar gezeichnet im Daumenballen. Sie führte ihn in das Schloss. Ein einziges, präzises Klicken. Lauter, als sie es erwartet hatte — die Rainpfeifer am Fuß des Hügels verstummten für einen halben Atemzug, bevor sie wieder einsetzten. Sie zog den Schlüssel heraus, schob das Tor mit der Schulter an, schloss es hinter sich und drehte zwei Drehungen des Schlosses zurück. Nur sie, niemand sonst. Das Schloss kannte nur diesen einen Bart.
+Vor dem grünen Haupttor blieb sie stehen, weil ihre Hand schneller gewesen war als ihr Kopf. Der Schlüssel lag schon zwischen ihren Fingern, kühl, klar gezeichnet im Daumenballen. Sie führte ihn in das Schloss. Ein einziges, präzises Klicken. Lauter, als sie es erwartet hatte — die Rainpfeifer am Fuß des Hügels verstummten für einen Atemzug, bevor sie wieder einsetzten. Sie zog den Schlüssel heraus, schob das Tor mit der Schulter an, schloss es hinter sich und drehte zwei Drehungen des Schlosses zurück. Nur sie, niemand sonst. Das Schloss kannte nur diesen einen Bart.
 
 Erster Schritt auf den Kies. Der Geruch wechselte sofort.
 
@@ -113,7 +113,7 @@ Sie spürte unter dem Schlüsselbein, dass der Zug von vorhin noch da war, leise
 
 Sie wartete nicht auf eine Antwort. Sie drehte sich langsam, weil plötzliche Bewegungen im Dunkeln nichts Gutes brachten, und ging an der Farngruppe vorbei zurück auf den Hauptweg, auf dessen Ende der Hügel stand.
 
-Zwei Atemzüge später hörte sie seinen Schritt auf dem Kies. Einen halben Schritt hinter ihr.
+Zwei Atemzüge später hörte sie seinen Schritt auf dem Kies. Einen Schritt hinter ihr.
 
 
 ---
@@ -141,7 +141,7 @@ Er machte kein Geräusch. Atem zwingt man tiefer, wenn die Hände unsicher werde
 
 Im Garten roch es anders als in der Gasse. Hier lag das Süße tief, auf Bodenhöhe, vermischt mit etwas Mineralischem, das er nicht kannte und an Pyrogallol erinnerte, ohne Pyrogallol zu sein. Er ging an der Innenseite der Mauer entlang, leise, weil ein bandagierter Mann mit einer Kamera in einem fremden Garten leise zu gehen hatte, bis er die Lücke zwischen den großen Farnen fand, die er in der Vornacht ausgemacht hatte.
 
-Er stellte das Stativ auf. Die drei Beine spreizten sich auf das vertraute Maß, die Lederriemen an den Spitzen hielten den Druck, der Holzkasten oben saß ruhig auf der Schraube. Er drehte den Schärfering. Der Schärfering drehte schräg. Das Gewinde hatte über die Jahre einen halben Hauch Spiel bekommen — kein Problem mit beiden Händen, die linke am Gehäuse, die rechte am Ring. Mit einer Hand schaukelte das Bild im Sucher, und die Schärfe saß nirgends fest.
+Er stellte das Stativ auf. Die drei Beine spreizten sich auf das vertraute Maß, die Lederriemen an den Spitzen hielten den Druck, der Holzkasten oben saß ruhig auf der Schraube. Er drehte den Schärfering. Der Schärfering drehte schräg. Das Gewinde hatte über die Jahre ein wenig Spiel bekommen — kein Problem mit beiden Händen, die linke am Gehäuse, die rechte am Ring. Mit einer Hand schaukelte das Bild im Sucher, und die Schärfe saß nirgends fest.
 
 Er drehte ihn trotzdem zu Ende.
 
@@ -157,7 +157,7 @@ Das Tor war zu weit weg, um es zu hören. Es lag hinter der Mauer, zwischen ihm 
 
 Er hörte das Klicken nicht. Aber er hörte die Schritte.
 
-Ein einzelner Tritt auf Kies, dann ein zweiter, dann ein dritter — ruhig, gerade, ohne den schleifenden Anteil eines Mannes mit einer schlechten Hüfte, ohne das schwere Rauf-und-Runter eines Tages am Wassereimer, ohne das schmale Trippeln eines Kindes. Das Maß zwischen den Tritten gehörte einem erwachsenen Menschen, der wusste, wo er hinging. Sein Körper richtete sich auf, bevor sein Kopf den Befehl gab. Etwas in seinem Brustkorb rutschte um eine halbe Daumenbreite tiefer und legte sich fest zwischen die Rippen.
+Ein einzelner Tritt auf Kies, dann ein zweiter, dann ein dritter — ruhig, gerade, ohne den schleifenden Anteil eines Mannes mit einer schlechten Hüfte, ohne das schwere Rauf-und-Runter eines Tages am Wassereimer, ohne das schmale Trippeln eines Kindes. Das Maß zwischen den Tritten gehörte einem erwachsenen Menschen, der wusste, wo er hinging. Sein Körper richtete sich auf, bevor sein Kopf den Befehl gab. Zwischen seinen Rippen zog sich etwas fest und blieb dort.
 
 Dann, durch die Farnreihe gefiltert, gedämpft durch die Wedel, kam ihre Stimme.
 
@@ -171,7 +171,7 @@ Sein erster Reflex war die Stille. Aber er stand nicht vor einer Kamera. Fünf S
 
 "Ich sehe Ihr Stativ. Kommen Sie heraus."
 
-Sorel hörte den eigenen Puls in den Ohren, einmal, zweimal. Sie würde nicht weggehen und vergessen. Sie würde wachsam werden und zurückkommen. Verstecken wäre gewesen, nicht zu dem zu stehen, was er getan hatte.
+Sorel hörte das eigene Blut in den Ohren, einmal, zweimal. Sie würde nicht weggehen und vergessen. Sie würde wachsam werden und zurückkommen. Verstecken wäre gewesen, nicht zu dem zu stehen, was er getan hatte.
 
 Er zog den Atem tief in den Bauch.
 
@@ -181,18 +181,18 @@ Er hob beide Hände in Brusthöhe — die rechte mit dem Stativ, die linke mit d
 
 Dann sah er sie im Mondlicht.
 
-Dunkles Haar, der Mantel halb offen, die Hände locker an den Seiten. Sie war nicht zurückgewichen, als er hervorgetreten war. Sie hatte die Schultern nicht gehoben, die Knie nicht gebeugt, keine Bewegung nach hinten gemacht. Sie stand und wartete, dass er vollständig da war.
+Dunkles Haar, der Mantel offen, die Hände locker an den Seiten. Sie war nicht zurückgewichen, als er hervorgetreten war. Sie hatte die Schultern nicht gehoben, die Knie nicht gebeugt, keine Bewegung nach hinten gemacht. Sie stand und wartete, dass er vollständig da war.
 
 Und dann kam das Bild. Nicht von den Platten an der Kellerwand — von weiter weg, von einem anderen Licht, dem flachen, körnigen Licht einer Druckpresse. Der *Vaeler Anzeiger*, ausgebreitet auf dem Tresen des Wirtshauses, vor wenigen Tagen erst, ein Artikel über den Botanischen Garten, den er nicht gelesen hatte. Aber das Bild hatte er gesehen, weil er gedruckte Bilder immer sah. Der Garten von oben, die Farnkolonie, ein Rahmen, den der Fotograf zu weit gefasst hatte. Und im Hintergrund, am Rand des Weges, eine Frau, stehend, dunkles Haar, Farnwedel in der Hand, halb abgewandt. Er hatte sie damals nicht bewusst registriert. Sein Auge hatte sie abgelegt, ohne Namen.
 
 Die Frau auf der Druckseite war die Frau auf Platte 14. Die Frau auf Platte 14 stand vor ihm.
 
 
-Sein Brustkorb ließ einen halben Zentimeter Luft raus, den er seit dem ersten *Hallo* festgehalten hatte.
+Sein Brustkorb ließ eine Fingerbreite Luft raus, die er seit dem ersten *Hallo* festgehalten hatte.
 
 Sie sagte, das sei Henriks Garten, sie komme mit seinem Schlüssel. Er antwortete knapp: die Mauer, den Feigenbaum. Auf ihr Wort *eingebrochen* sagte er nur Ja. Dann seinen Namen, dann die Stadt, dann die Kamera und die Steine, weil sie fragte.
 
-Dann hob sie die rechte Hand bis zur Höhe ihres Kinns, um auf seinen Verband zu zeigen. Bei dieser Bewegung drehte sich ihre linke Hand eine halbe Umdrehung nach außen. Das Mondlicht fiel auf die Innenseite ihres linken Handgelenks, an genau die Stelle, an der die Sehne am Daumenansatz unter der Haut lief.
+Dann hob sie die rechte Hand bis zur Höhe ihres Kinns, um auf seinen Verband zu zeigen. Bei dieser Bewegung drehte sie ihre linke Hand mit der Innenseite nach oben. Das Mondlicht fiel auf die Innenseite ihres linken Handgelenks, an genau die Stelle, an der die Sehne am Daumenansatz unter der Haut lief.
 
 Er sah sie.
 
@@ -206,7 +206,7 @@ Sie fragte nicht nach der Ursache. Sie sah ihn an, ohne Anklage, mit dem Blick, 
 
 Er brauchte die Halbsekunde, in der man eine Kamera von einer Schulter auf die andere hebt, ohne den Riemen zu lösen. Darin sah er den Keller, die Platten an der Wand, die Stelle, an der er vor vier Stunden gesessen hatte, mit beiden Händen auf den Oberschenkeln. Er wusste, dass er nicht zurückging.
 
-Er folgte ihr. Einen halben Schritt hinter ihr. Das Stativ in der rechten Hand. Die linke am eigenen Verband. Die Wunde zog stetig, leiser als beim Hochziehen am Baum, aber da. Die Rainpfeifer sangen am Mauerfuß. Der Kies nahm seinen Schritt und ihren Schritt auf und gab sie als zweistimmiges Muster zurück, in dem seiner einen halben Takt gegen ihren lief, damit er nicht zu nah kam.
+Er folgte ihr, einen Schritt hinter ihr, das Stativ in der rechten Hand, die linke am eigenen Verband. Die Wunde zog stetig, leiser als beim Hochziehen am Baum, aber da. Die Rainpfeifer sangen am Mauerfuß. Der Kies nahm seinen Schritt und ihren Schritt auf und gab sie als zweistimmiges Muster zurück, in dem sein Schritt gegen ihren versetzt lief, damit er nicht zu nah kam.
 
 
 ---
@@ -218,7 +218,7 @@ Der Stein war kalt unter ihren Handflächen — nicht die Kälte der Nachtluft, 
 
 Der erste Impuls schlug in ihre Handflächen, schneller, als sie ihn erwartet hatte. Er stieg durch die Handwurzeln in die Unterarme, nicht weit, aber deutlich.
 
-Nicht wesentlich schneller. Aber sie hatte die Schläge schon dreimal gegen den eigenen Atem gemessen, und der Unterschied saß in der Erinnerung — und jetzt in ihrem Puls zwischen Schlüsselbein und Kehle. Am Vormittag hatte der Schlag in dem langsamen Maß gelegen, das sie aus der ersten Begegnung kannte — ein langsames Tempo, das nichts mit ihr gemein hatte. Jetzt lag er enger an ihrem eigenen Maß. Nicht im Gleichschritt. Aber näher.
+Nicht wesentlich schneller. Aber sie hatte die Schläge schon dreimal gegen den eigenen Atem gemessen, und der Unterschied saß in der Erinnerung — und jetzt in dem Pochen zwischen Schlüsselbein und Kehle. Am Vormittag hatte der Schlag in dem langsamen Maß gelegen, das sie aus der ersten Begegnung kannte — ein langsames Tempo, das nichts mit ihr gemein hatte. Jetzt lag er enger an ihrem eigenen Maß. Nicht im Gleichschritt. Aber näher.
 
 Der zweite Impuls. Derselbe Abstand wie der erste. Sie zählte mit, ohne zu zählen. Die Handflächen wurden warm an den Stellen, wo die Schläge durchkamen.
 
@@ -236,7 +236,7 @@ Sie ging auf ihn zu. Aus dem Steinkreis hinaus, an der südlichen Öffnung vorbe
 
 Sie hob die rechte Hand und legte sie ohne Vorwarnung auf seinen linken Handrücken, knapp neben dem dunklen Fleck, dort, wo das Leinentuch noch hell war. Seine Haut war warm unter der Bandage, wärmer als ihre eigene Hand.
 
-Er zuckte nicht. Er zuckte deshalb nicht, weil er den Atemzug zwischen ihrer Geste und seiner Reaktion nicht hatte, in dem er sich normalerweise bewegt hätte — sie war bei ihm, bevor sein Kopf den Befehl an die Schulter gab. Aber seine ganze rechte Seite stellte sich ein: Schärfering, neue Brennweite, Punkt im Sucher. Der Puls am Hals stieg einen halben Schlag höher, nicht mehr.
+Er zuckte nicht. Er zuckte deshalb nicht, weil er den Atemzug zwischen ihrer Geste und seiner Reaktion nicht hatte, in dem er sich normalerweise bewegt hätte — sie war bei ihm, bevor sein Kopf den Befehl an die Schulter gab. Aber seine ganze rechte Seite stellte sich ein: Schärfering, neue Brennweite, Punkt im Sucher. Das Pochen an der Halsschlagader wurde einen Hauch schneller, nicht mehr.
 
 Sie hatte nicht gefragt, ob sie durfte. Sie hatte nicht erklärt, was sie tun würde, weil ein Erklären die Sache unmöglich gemacht hätte und weil ein Erklären Worte gebraucht hätte für etwas, das in ihr keine Worte hatte. Drei Atemzüge lang schloss sie die Augen nicht. Sie hielt die Hand auf seinem Handrücken und ließ die andere Hand, die linke, an ihre eigene Seite zurückfallen.
 
@@ -256,13 +256,13 @@ Sie hob die Hand wieder vom Verband, langsam. Etwas hatte sich in den letzten Se
 
 "Ja."
 
-Sie sagten es beide ohne Stimme zu erheben, ohne den Schritt zueinander, ohne den halben Mund zu heben oder zu senken. Es war ein Tausch auf gleicher Höhe. Sie hätte sich entschuldigen können dafür, dass sie ihn ohne Zustimmung berührt hatte. Sie tat es nicht. Er hätte zurücktreten können dafür, dass sie ihn ohne Zustimmung berührt hatte. Er tat es auch nicht.
+Sie sagten es beide ohne Stimme zu erheben, ohne den Schritt zueinander, ohne den Mund zu heben oder zu senken. Es war ein Tausch auf gleicher Höhe. Sie hätte sich entschuldigen können dafür, dass sie ihn ohne Zustimmung berührt hatte. Sie tat es nicht. Er hätte zurücktreten können dafür, dass sie ihn ohne Zustimmung berührt hatte. Er tat es auch nicht.
 
 "Da ist eine Bank am Hauptweg." Sie nickte in die Richtung. "Am Ende, wo der Weg breiter wird."
 
 "Ich weiß."
 
-Sie hob die Brauen einen halben Strich. Er sah sie an, ohne den Strich zu beantworten, und sie ließ es stehen, weil dies nicht der Ort war, an dem sie ihn nach allem fragte, was er wusste.
+Sie hob die Brauen kurz. Er sah sie an, ohne darauf zu antworten, und sie ließ es stehen, weil dies nicht der Ort war, an dem sie ihn nach allem fragte, was er wusste.
 
 Sie gingen zur Bank. Anderthalb Handbreit Abstand zwischen den Schultern, sein Stativ in der rechten Hand, ihre Hände vor dem Bauch verschränkt. Die Bank am östlichen Ende des Gartens war ein Holzbrett auf zwei Steinblöcken, das Holz an zwei Stellen abgewetzt — eine links, eine rechts —, als hätte jemand vor langer Zeit geplant, dass hier immer zwei sitzen. Sie setzte sich auf die linke abgewetzte Stelle. Das Holz war glatt von Nutzung. Er auf die rechte. Zwischen den beiden Stellen lag ein halber Handbreit Holz, der nicht abgewetzt war.
 
@@ -274,7 +274,7 @@ Er stieg nicht ein.
 
 Er saß da, das Stativ zwischen den Knien, die rechte Hand am oberen Bein, die linke im Schoß, und schwieg in einer Form, die kein Schweigen war. Ein Schweigen wäre Abwesenheit gewesen. Das hier war eine Aufmerksamkeit, die nichts anbot. Er war ganz da, er hörte sie, er antwortete nicht.
 
-Sie hatte das noch nicht gehabt. Ihr Muster griff bei diesem Mann nicht. Etwas in ihrem Handgelenk stockte, klein, ohne Schmerz, eine Stelle, die kurz nicht mehr wusste, was sie mit sich anfangen sollte.
+Sie hatte das noch nicht gehabt. Ihr Muster griff bei diesem Mann nicht. An der Innenseite ihres Handgelenks zog die Sehne sich kurz zusammen, klein, ohne Schmerz, eine Stelle, die kurz nicht mehr wusste, was sie mit sich anfangen sollte.
 
 Sie benannte es nicht.
 
@@ -284,7 +284,7 @@ Drei Augen zuerst.
 
 Drei Paare. Hellgelbe Punkte, klein, Reflexe ohne Lampe. Auf der Mauer am Ende des Hauptweges, in der Höhe einer hockenden Katze, drei Silhouetten, die nicht zur Mauer gehörten. Sie saßen. Nicht eines davon bewegte sich. Sie schauten sie an, alle drei, mit einer Stille, die in kein Tier passte, das sie kannte. Die Schultern der drei waren ein bisschen breiter als ihre Schädel. Die Kanten an den Schultern waren undeutlich, als ob das Mondlicht dort an etwas zog, das es nicht halten konnte.
 
-Sie schaute hin. Sie zog die Luft halb ein und ließ sie wieder hinaus, und der Geißblattduft an der Nordmauer kam mit dem Atem mit, schwer, fast klebrig, ein Geruch, der seit Anfang der Nacht an der Nordmauer lag und jetzt, an der Bank, am östlichen Ende, einen Weg gefunden hatte, an dem er nicht hätte sein sollen.
+Sie schaute hin. Sie zog die Luft kurz ein und ließ sie wieder hinaus, und der Geißblattduft an der Nordmauer kam mit dem Atem mit, schwer, fast klebrig, ein Geruch, der seit Anfang der Nacht an der Nordmauer lag und jetzt, an der Bank, am östlichen Ende, einen Weg gefunden hatte, an dem er nicht hätte sein sollen.
 
 Sie kannte den Geruch von Geißblatt. Blütenmond-Nachtblüte. Das Lockmittel saß im Kelch, oben, für Falter, Schwärmer und ihre Nase, wenn sie abends durch den Garten ging. Was hier auf der Bank ankam, kam nicht aus dem Kelch. Es kam aus der Erde. Es war Wurzel, in einem Boden, in dem nichts Süßes wachsen sollte. Der Geruch war Wurzel.
 
@@ -298,7 +298,7 @@ Er hatte den Punkt zwischen den Rippen, dort am Brustbein, der sich vor einer ha
 
 Was er sich sagte, sagte er sich in der Stimme, die in der Dunkelkammer manchmal allein blieb. *Du hast sie nicht gemacht. Sie ist da. Was du tust, ist, was du tust.*
 
-Auf der Bank, einen halben Handbreit von ihm entfernt, war ihr Atem hörbar. Langsam, gleichmäßig, das Maß einer Frau, die nicht log. Ihre Schulter unter der Mantelnaht, dort wo der Stoff dünner war, gab eine Wärme ab. Er spürte sie an seiner eigenen rechten Seite, ohne dass sie sich berührten. Vier oder fünf Zentimeter Luft, die warm wurden von ihrer Seite und nicht von seiner. Er bewegte sich keinen Millimeter. Er wollte sie nicht aus der Wärme schieben. Der Geruch ihrer Haut, dort wo der Mantelkragen aufstand, war nicht der süße Geruch der Nordmauer. Es war eine andere Wärme, hautnah, das schwache Salz eines Tages im Garten und dahinter etwas Pflanzliches, das sich in den Stoff eingenäht hatte. Sein Mund wurde trocken, auf eine andere Weise als zehn Minuten zuvor.
+Auf der Bank, einen halben Handbreit von ihm entfernt, war ihr Atem hörbar. Langsam, gleichmäßig, das Maß einer Frau, die nicht log. Ihre Schulter unter der Mantelnaht, dort wo der Stoff dünner war, gab eine Wärme ab. Er spürte sie an seiner eigenen rechten Seite, ohne dass sie sich berührten. Drei, vier Finger Luft, die warm wurden von ihrer Seite und nicht von seiner. Er bewegte sich keine Haarbreite. Er wollte sie nicht aus der Wärme schieben. Der Geruch ihrer Haut, dort wo der Mantelkragen aufstand, war nicht der süße Geruch der Nordmauer. Es war eine andere Wärme, hautnah, das schwache Salz eines Tages im Garten und dahinter etwas Pflanzliches, das sich in den Stoff eingenäht hatte. Sein Mund wurde trocken, auf eine andere Weise als zehn Minuten zuvor.
 
 Auf der Mauer saßen die drei. Sie sah die Augen zuerst — er sah die Schultern. An den Schultern der drei Wesen lag eine Schicht, die er kannte — dünn, kaum trennbar vom Mondlicht auf den Steinkanten. Es war kein Dunst. Es war kein Lichteffekt. Es war Rauch. Rauch, der aus Schultern aufstieg, ohne Quelle, ohne Brand, mit derselben langsamen Spur, mit der vor zwei Nächten eine Linie aus seinem Handrücken gestiegen war, bevor der Feuerball kam.
 
