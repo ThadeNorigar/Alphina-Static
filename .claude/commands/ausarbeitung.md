@@ -375,9 +375,9 @@ Pruefe (mit Grep wo moeglich):
 - **Abstrakta-Dichte (NEU):** Grep auf "Stille", "Kaelte", "Schwere", "Leere", "Ferne", "Dunkelheit", "Ewigkeit", "Unheimliches", "Abgrund" — pro Absatz max 1, pro Kapitel max ~15 gesamt; bei >20: FINDING
 - **Abstrakta-Stapel (NEU):** Grep auf Muster "der/die/das [Abstraktum] des/der [Abstraktum]" ("die Stille des Abgrunds", "die Kaelte der Leere") — max 0
 
-Output: Tabelle mit Findings (Zeile, Typ, Problem, Fix-Vorschlag). Max 1.5k Token.
+Output: Tabelle mit Spalten | Zeile | Typ | alt (Original-Zitat, woertlich, max 15 Woerter) | neu (Fix-Vorschlag, vollstaendige Ersetzung) | warum (1 kurzer Satz) |. Wenn das Finding ein „streichen" ist: in der neu-Spalte explizit `[STREICHEN]` schreiben. Keine vagen „umformulieren"-Phrasen — entweder konkreter Fix-Vorschlag oder STREICHEN.
 
-Verdikt: BESTANDEN / NICHT BESTANDEN.
+Max 1.5k Token. Verdikt: BESTANDEN / NICHT BESTANDEN.
 ```
 
 ## Phase 5: Final Council (3 Subagenten, sequenziell)
@@ -408,7 +408,12 @@ Pruefe:
 
 Vergleich mit Ton-Referenz: Stimmt der Figurenton ueberein?
 
-Max 1k Token. Verdikt + 3-5 konkrete Findings.
+**Output-Format (zwingend):**
+- Verdikt: BESTANDEN / NICHT BESTANDEN
+- Findings als Tabelle | Zeile | alt (Original-Zitat, woertlich) | neu (Fix-Vorschlag) | warum |
+- 3-5 Eintraege. Wenn streichen: `[STREICHEN]` in der neu-Spalte. Keine vagen Empfehlungen — pro Finding ein konkret einsetzbarer Satz.
+
+Max 1k Token.
 ```
 
 ### Subagent 2: Dark-Romance/BDSM-Leserin (sonnet)
@@ -435,7 +440,12 @@ Pruefe als Genre-Leserin:
 
 Sei direkt. Keine Hoeflichkeit. Sag wenn es nur Plot ist und keine Spannung hat.
 
-Max 1k Token. Verdikt + konkrete Findings.
+**Output-Format (zwingend):**
+- Verdikt (in-character, 2-3 Saetze)
+- Findings als Tabelle | Zeile | alt (Original-Zitat) | neu (konkreter Fix-Vorschlag) | warum |
+- 3-5 Eintraege. Wenn streichen: `[STREICHEN]` in der neu-Spalte. Wenn ein Finding kein Aenderungs-Vorschlag ist sondern Lob/Kritik ohne Fix (z.B. „Power-Dynamik traegt"), das in einer separaten Liste „Beobachtungen ohne Fix" am Ende.
+
+Max 1k Token.
 ```
 
 ### Subagent 3: Romantasy-Leserin (sonnet)
@@ -459,7 +469,12 @@ Pruefe als Leserin:
 
 Sei ehrlich. Wenn es zaeh ist, sag es. Wenn ein Moment sitzt, sag warum.
 
-Max 1k Token. Verdikt + konkrete Findings.
+**Output-Format (zwingend):**
+- Verdikt (in-character, 2-3 Saetze)
+- Findings als Tabelle | Zeile | alt (Original-Zitat) | neu (konkreter Fix-Vorschlag) | warum |
+- 3-5 Eintraege. Wenn streichen: `[STREICHEN]` in der neu-Spalte. Lob/Beobachtungen ohne Fix in einer separaten Liste am Ende.
+
+Max 1k Token.
 ```
 
 ## Phase 5.5: Autorin-Durchgang (Subagent, opus)
@@ -498,28 +513,45 @@ Gehe Satz fuer Satz durch. Bei jedem Satz frage dich:
 - Verb-Fehler mit Bedeutung (haengte/hing, schwoll/schwellte, etc.)
 - **Verkuenstelung (NEU April 2026):** Abstrakta-Stapel ("die Stille des Abgrunds"), Bild auf Bild ohne Material-Boden, Metaphern die schweben weil das Referenz-Ding nicht benannt ist, Absaetze ohne ein einziges benanntes Material. Pruefe: Kann eine Handwerkerin das Ding im Absatz greifen? Siehe `01-referenz-konkretheit.md`.
 
-**Output:**
-Liste KONKRETE Saetze (mit Zeilenverweis und Zitat), die:
-- (A) GESTRICHEN werden sollten (tragen nicht / Autoren-Pointen)
-- (B) UMFORMULIERT werden sollten (mit konkretem Fix-Vorschlag)
-- (C) BLEIBEN MUESSEN (besonders stark — 3-6 Passagen)
+**Output-Format (zwingend):**
 
-Begruende jedes Finding aus Autorin-Perspektive. Sei ehrlich und streng.
+Tabelle A — Aenderungs-Vorschlaege (Streichungen + Umformulierungen zusammen):
+
+| Zeile | alt (woertliches Zitat) | neu (Fix-Vorschlag oder `[STREICHEN]`) | warum (Autorin-Perspektive, 1 Satz) |
+|-------|-------------------------|----------------------------------------|--------------------------------------|
+
+Tabelle B — Bleibt (besonders starke Passagen):
+
+| Zeile | Passage | warum stark |
+|-------|---------|-------------|
+
+3-6 Eintraege pro Tabelle. Jede neu-Spalte muss einen einsetzbaren Satz enthalten — keine vagen „verdichten/umstrukturieren"-Floskeln. Bei Streichung explizit `[STREICHEN]` schreiben.
 
 Max 2.5k Token.
 ```
 
-## Phase 6: Konsolidierter Bericht
+## Phase 6: Konsolidierter Bericht — Master-Tabelle alt/neu
 
-Zeige dem Autor:
-1. Stil-Check Findings (Tabelle)
-2. Stilkritiker (Verdikt + Findings)
-3. Dark-Romance-Leserin (Verdikt + Findings)
-4. Romantasy-Leserin (Verdikt + Findings)
-5. **Autorin-Durchgang (A/B/C-Liste mit Zeilenverweisen)**
-6. Gesamt-Verdikt
+**Format-Regel (zwingend):** Jeder Aenderungs-Vorschlag aus Stil-Check, Stilkritiker, Dark-Romance, Romantasy oder Autorin-Durchgang wird dem Autor in **einer einzigen konsolidierten Tabelle** gezeigt — mit `alt`-Zitat und `neu`-Vorschlag direkt nebeneinander, sodass der Autor jeden Eintrag mit „ok/skip" akzeptieren oder verwerfen kann.
 
-Frage: "Findings einarbeiten oder OK?"
+Format der Master-Tabelle:
+
+| # | Quelle | Zeile | alt (woertliches Zitat) | neu (Fix oder `[STREICHEN]`) | warum |
+|---|--------|-------|-------------------------|------------------------------|-------|
+
+- **Quelle:** `Stil-Check`, `Stilkritiker`, `Dark-Romance`, `Romantasy`, `Autorin-A` (streichen), `Autorin-B` (umformulieren).
+- **Konsolidierung:** Wenn mehrere Subagenten denselben Satz anfassen, einen Eintrag mit beiden Quellen (z.B. `Stilkritiker + Autorin-A`) und dem strengeren Vorschlag (Streichen schlaegt Umformulierung).
+- **Dedup:** Wenn zwei Vorschlaege denselben Satz mit unterschiedlichem `neu` betreffen, beide Eintraege zeigen mit Hinweis „Konflikt — Autor entscheidet".
+
+**Zusaetzlich vor der Master-Tabelle anzeigen:**
+
+1. Verdikt-Block: Pro Subagent eine Zeile mit Verdikt + Score (falls vorhanden)
+2. Autorin-„bleibt"-Liste (Tabelle B aus Phase 5.5) — Lob als Kontext
+3. Beobachtungen ohne Fix (aus Council-Subagenten) — separate kurze Liste, nicht in der Master-Tabelle
+
+**Frage am Ende:** „Soll ich die Findings der Reihe nach einarbeiten? Du kannst pro Eintrag `ok`, `skip`, oder einen eigenen Fix schreiben."
+
+**Wichtig:** Die Master-Tabelle ist die einzige Stelle wo Aenderungen vorgeschlagen werden — keine prosaische Zusammenfassung der Findings davor, kein Aufweichen durch „insgesamt war das Kapitel solide". Tabelle, dann Frage. Sonst nichts.
 
 ## Phase 7: Fixes-Loop
 
