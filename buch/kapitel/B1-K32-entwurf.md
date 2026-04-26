@@ -3,7 +3,7 @@
 **POV:** Runa Kvist (3. Person nah, Präteritum) · **einziges Runa-POV-Kapitel in B1**
 **Timeline:** 14. Nebelmond 551 TZ · später Nachmittag bis späterer Abend · Druckerei Kvist, Oberstadt Vael · unmittelbarer Anschluss an K31 (Marktplatz-/Hafen-Angriff am Tag, Runas Feuer-Resonanz öffentlich geworden)
 **Wortziel Ausarbeitung:** 3.500–4.000 W
-**Gänsehaut-Moment:** Runa setzt sich an den Setzkasten, an dem heute Mittag der Brandfleck entstanden ist. Sie nimmt einen Bleilettern-Block heraus — ein „A". Das Blei ist weicher unter ihren Fingern als es sein darf. Nicht heiß genug zum Schmelzen, aber weich genug, dass die Spitze des Buchstabens sich um einen Hauch verformt, wenn sie ihn drückt. Sie hält die Hand still. Sie hat es nicht weg. Sie kann es nicht weg.
+**Gänsehaut-Moment:** Runa setzt sich an den Setzkasten, an dem in der Joran-Nacht (vor sechs Tagen, K30) der Brandfleck entstanden ist — Schemen zerfallen, Runas Hände heiß, Joran tot zwischen ihr und dem Wesen. Der Fleck ist seit damals da, sie hat ihn jeden Tag gesehen, ohne ihn benennen zu wollen. Sie nimmt einen Bleilettern-Block heraus — ein „A". Das Blei ist weicher unter ihren Fingern als es sein darf. Nicht heiß genug zum Schmelzen, aber weich genug, dass die Spitze des Buchstabens sich um einen Hauch verformt, wenn sie ihn drückt. Sie hält die Hand still. Sie hat es nicht weg. Sie kann es nicht weg.
 
 **Ton-Ziel dieses Kapitels:**
 - Primär: **Bardugo (*Six of Crows*)** — nüchterne Innenschau, Klarsicht ohne Pathos. Runa ist die Klarsichtige (POV-Dossier).
