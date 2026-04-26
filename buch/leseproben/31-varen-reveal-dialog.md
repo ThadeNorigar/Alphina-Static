@@ -96,7 +96,7 @@ Sie hob sie. Sie zeigte ihm die Farbe. Sie sprach ruhiger, als sie erwartet hatt
 
 »Ja«, sagte Alphina. »Das war ja das Geschäft.«
 
-Sie trat einen Schritt näher. Unter ihrem Fuß zog eine schmale Linie grünen Trieb über die Fuge im Stein, den sie nicht gewollt hatte. Zum ersten Mal seit einem Jahr kein Schwarz. Die Hand blieb schwarz. Der Trieb kam grün. Sie sah nach unten, sah hinauf zu Varen, sah die eine halbe Sekunde, in der er den Trieb ebenfalls sah und einmal, kurz, blinzelte.
+Sie trat einen Schritt näher. Unter ihrem Fuß zog eine schmale Linie grünen Trieb über die Fuge im Stein, den sie nicht gewollt hatte. Zum ersten Mal seit einem Jahr kein Schwarz. Die Hand blieb schwarz. Der Trieb kam grün. Sie sah nach unten, sah hinauf zu Varen, sah den einen Augenblick, in dem er den Trieb ebenfalls sah und einmal, kurz, blinzelte.
 
 Das war das erste Mal, dass er blinzelte.
 

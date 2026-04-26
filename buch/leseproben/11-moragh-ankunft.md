@@ -12,13 +12,13 @@ canon_status: Ton-Etüde. Erste Nacht in Moragh nach dem Durchgang, nach Sorels 
 
 Sie wachte auf, weil ihr Körper wusste, dass der Himmel falsch war.
 
-Sie lag auf dem Rücken, den Mantel unter dem Kopf, die Hand auf der Erde. Sie hielt die Erde fest, ohne daran zu denken — der Boden war warm, gröber als Vaeler Boden, ein grobkörniger Sand mit Steinsplittern und Wurzelstücken, die sie nicht kannte. Neben ihr atmete Runa im Schlaf, flach und hitzig; ein halber Meter weiter lag Vesper, Maren mit dem Kopf an seiner Schulter. Vier. Sie zählte vier, ohne zu zählen. Nicht fünf.
+Sie lag auf dem Rücken, den Mantel unter dem Kopf, die Hand auf der Erde. Sie hielt die Erde fest, ohne daran zu denken — der Boden war warm, gröber als Vaeler Boden, ein grobkörniger Sand mit Steinsplittern und Wurzelstücken, die sie nicht kannte. Neben ihr atmete Runa im Schlaf, flach und hitzig; ein Stück weiter lag Vesper, Maren mit dem Kopf an seiner Schulter. Vier. Sie zählte vier, ohne zu zählen. Nicht fünf.
 
 Sie sah in den Himmel.
 
 Zwei Monde. Der eine klein und hart und nah, links vom Zenit, weißlich und scharf gerandet, beinahe wie eine Münze. Der andere groß und weich und tiefer, gelblich, mit Kratern, die sie von hier aus erkennen konnte — wirklich erkennen, nicht nur erahnen wie bei dem einen Mond, den sie kannte. Der große Mond warf einen anderen Schatten als der kleine. Sie sah es an den Halmen des Grases rechts von ihrem Arm: zwei Schatten, einer dünn und lang, einer kurz und breit, sich unter einem kleinen Winkel schneidend.
 
-Sie blieb liegen. Sie atmete. Die Luft war dünner, auf eine Art, die sie nicht benennen konnte; es war weniger, und sie merkte, dass sie einen halben Atemzug mehr nehmen wollte, als sie gewohnt war. Das Gras roch nach etwas Metallischem, nach Eisen, aber nicht nach Blut — nach Eisen wie in einer alten Schmiede, kalt und nicht nass.
+Sie blieb liegen. Sie atmete. Die Luft war dünner, auf eine Art, die sie nicht benennen konnte; es war weniger, und sie merkte, dass sie kurz tiefer atmen wollte, als sie gewohnt war. Das Gras roch nach etwas Metallischem, nach Eisen, aber nicht nach Blut — nach Eisen wie in einer alten Schmiede, kalt und nicht nass.
 
 Irgendwo rief ein Tier, das kein Tier war, das sie kannte. Drei Silben, absteigend, dann Stille. Eine Weile passierte nichts. Dann antwortete ein zweites, weiter weg, dieselben drei Silben in der gleichen Kadenz.
 

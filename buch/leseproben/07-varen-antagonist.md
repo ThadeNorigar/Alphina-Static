@@ -38,7 +38,7 @@ Sie hasste ihn dafür, dass er ihr die Wahl ließ. Sie hasste ihn dafür, dass s
 
 Ihre Hand lag auf der Fensterbank, neben dem Farn. Sie wollte, dass er grüner wurde — ein kleiner Ruck Wachstum, ein Beweis, dass sie noch sie selbst war — und sie presste den Wunsch, und nichts passierte. Der Farn blieb gelb.
 
-Sie hörte Varen noch einen halben Schritt näher kommen.
+Sie hörte Varen noch einen Schritt näher kommen.
 
 »Darf ich?«, fragte er.
 

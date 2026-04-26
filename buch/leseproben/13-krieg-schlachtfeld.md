@@ -10,7 +10,7 @@ zweck: Ton-Referenz für B2-Kriegs-Szenen. Alphina im Bund-Dienst, Magie grün i
 canon_status: Ton-Etüde, spielt in B2 Akt II, Bund-Front gegen Thar-Siedlung. Nicht Plot-Canon.
 ---
 
-Sie hatte den Mann schon einen halben Atemzug zu lange angesehen, und das war zu lang.
+Sie hatte den Mann schon einen Atemzug zu lange angesehen, und das war zu lang.
 
 Er kam von links, Hammer hoch, Blut am Ärmel nicht seins. Alphina senkte die Hand. Der Boden unter seinen Füßen riss auf, und ein Dornstrang fuhr durch seinen Oberschenkel, von unten, und brach an der Hüfte ab.
 
@@ -30,7 +30,7 @@ Alphina blieb, wo sie war. Atemzug. Die Luft roch nach altem Harz aus dem Holz, 
 
 Sie zog die Wurzel nicht zurück, die schon unter ihm wuchs.
 
-Sie hob sie ab. Drei Finger weit. Sie hielt sie da, weil sie es konnte, weil sie gerade geübt hatte, und weil der Mann sie ansah, und weil sie einen halben Atemzug lang nicht wusste, was sie mit ihm tun wollte.
+Sie hob sie ab. Drei Finger weit. Sie hielt sie da, weil sie es konnte, weil sie gerade geübt hatte, und weil der Mann sie ansah, und weil sie einen Augenblick lang nicht wusste, was sie mit ihm tun wollte.
 
 Dann ging ihre Hand schwarz.
 

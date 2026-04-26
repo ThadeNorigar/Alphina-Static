@@ -24,7 +24,7 @@ Kommandantin Thaera saß an einem der Tische, nicht am größten. Das war beim B
 
 »Fragen«, sagte Hadrim.
 
-Eine Schreiberin meldete sich, zwei Tische weiter. Sie fragte nach Alphinas Stärke — Stufe vermutlich. Alphina antwortete knapp: sie wisse die Zahl nicht, sie habe nicht gemessen, sie könne einen Strang Farn aus trockenem Boden ziehen, wenn sie wolle. Das Zimmer hörte zu. Niemand unterbrach sie. Sie sprach einen halben Satz länger als notwendig, weil sie die Stille ertrug, und keiner zuckte. Das war, dachte sie, das Bemerkenswerteste an diesem Raum. Hier wurde gewartet, bis man fertig war. Das hatte sie in Vael nie erlebt.
+Eine Schreiberin meldete sich, zwei Tische weiter. Sie fragte nach Alphinas Stärke — Stufe vermutlich. Alphina antwortete knapp: sie wisse die Zahl nicht, sie habe nicht gemessen, sie könne einen Strang Farn aus trockenem Boden ziehen, wenn sie wolle. Das Zimmer hörte zu. Niemand unterbrach sie. Sie sprach einen Augenblick länger als notwendig, weil sie die Stille ertrug, und keiner zuckte. Das war, dachte sie, das Bemerkenswerteste an diesem Raum. Hier wurde gewartet, bis man fertig war. Das hatte sie in Vael nie erlebt.
 
 Thaera stellte keine Frage. Sie hörte zu, die breite Hand still auf dem Tisch.
 

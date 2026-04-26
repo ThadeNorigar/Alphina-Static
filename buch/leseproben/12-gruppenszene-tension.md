@@ -18,7 +18,7 @@ Halvard schob ein Blatt über den Tisch. »Der Junge aus dem Archiv hat heute Na
 
 Vier Augenpaare, alle gleich — mandelförmig, kein Rund, leuchtend. Gleich schnell gezeichnet, keine Korrektur.
 
-Maren zog den Arm einen halben Zoll zurück.
+Maren zog den Arm ein Stück zurück.
 
 Vespers Hand legte sich flach auf den Tisch, eine Handbreit von ihrem Arm. Kein Druck. Kein Blick. Nur Lage.
 
@@ -30,9 +30,9 @@ Niemand antwortete sofort. In der Gasse draußen fuhr ein Wagen vorbei, eine Ach
 
 Alphina stand auf. Sie ging zum Fenster, wo Sorel saß. Sie blieb einen halben Meter vor ihm stehen, als hätte sie etwas sagen wollen, und sagte dann nichts.
 
-Sorel hob die Hand einen halben Zoll vom Schenkel, dann ließ er sie wieder liegen. Das war seine Bewegung, wenn er wollte und nicht durfte.
+Sorel hob die Hand ein Stück vom Schenkel, dann ließ er sie wieder liegen. Das war seine Bewegung, wenn er wollte und nicht durfte.
 
-Unter dem Tisch lehnte sich Marens Knie einen halben Zoll gegen Vespers. Einmal. Dann weg.
+Unter dem Tisch lehnte sich Marens Knie kurz gegen Vespers. Einmal. Dann weg.
 
 »Ihr seid zu fünft«, sagte Halvard. »Wenn die Vorfälle weiter kommen, zieht zusammen.«
 

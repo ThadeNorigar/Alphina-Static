@@ -26,7 +26,7 @@ Alphina stand sehr still. Der Wind kam aus Nordost und brachte nichts mit — ke
 
 »Kann er —«
 
-»Nein.« Varen trat einen halben Schritt näher. Nicht zu nah. »Er kann zuhören. Er kann antworten, wenn er die Kraft hat. Heute hat er sie nicht.«
+»Nein.« Varen trat einen Schritt näher. Nicht zu nah. »Er kann zuhören. Er kann antworten, wenn er die Kraft hat. Heute hat er sie nicht.«
 
 Der Junge blinzelte. Sie sah, dass er sie sah.
 
@@ -34,7 +34,7 @@ Sie ging in die Knie, vor ihm. Der Boden war hart, und unter ihren Knien war nic
 
 »Lun«, sagte sie.
 
-Er hob den Kopf einen halben Zoll. Das reichte.
+Er hob den Kopf ein wenig. Das reichte.
 
 Sie wusste nicht, was sie sagen sollte. Was sie vor drei Tagen getan hatte, wusste sie. Sie wusste, dass die Zahl der Kinder, die so geatmet hatten, nachdem sie selbst die Quelle überladen hatte, nicht null war. Wie viele, hatte sie nicht gefragt.
 

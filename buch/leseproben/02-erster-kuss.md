@@ -42,13 +42,13 @@ Sie hatte keine Antwort, die sie hören wollte. Ihre Kehle war trocken.
 
 »Ich frage Sie«, sagte er. »Bleiben oder gehen.«
 
-Das Holz knackte unter seinem Gewicht, als er den Schritt machte. Nicht nah genug. Sie hasste ihn einen halben Atemzug lang dafür.
+Das Holz knackte unter seinem Gewicht, als er den Schritt machte. Nicht nah genug. Sie hasste ihn kurz dafür.
 
 Sie blieb.
 
-Er machte den zweiten Schritt. Jetzt war nichts mehr zwischen ihnen als die Luft im Zimmer, und sie war warm und roch nach Leinen und nach Abend und nach ihm. Er hob die Hand an ihr Gesicht, legte sie nicht auf, ließ sie einen halben Zoll vor ihrer Schläfe.
+Er machte den zweiten Schritt. Jetzt war nichts mehr zwischen ihnen als die Luft im Zimmer, und sie war warm und roch nach Leinen und nach Abend und nach ihm. Er hob die Hand an ihr Gesicht, legte sie nicht auf, ließ sie knapp vor ihrer Schläfe.
 
-Sie spürte ihn, bevor er sie berührte. Nur die Wärme. Sie hielt still. Eine Weile hielt sie still. Dann nicht mehr; sie lehnte den Kopf einen halben Finger in seine Hand, und er legte sie auf.
+Sie spürte ihn, bevor er sie berührte. Nur die Wärme. Sie hielt still. Eine Weile hielt sie still. Dann nicht mehr; sie lehnte den Kopf ein Stück in seine Hand, und er legte sie auf.
 
 »Ich«, sagte sie, und ihre Stimme brach in der Mitte durch, »ich wollte nicht kommen.«
 
