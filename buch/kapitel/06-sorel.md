@@ -127,7 +127,7 @@ Ein Mund. Eine Nase. Wangenknochen, schmal, die Schatten unter den Augen tief. D
 
 Sein Gesicht.
 
-Sein eigenes Gesicht, auf dem Kopf eines Dings das anderthalb Meter größer war als er und auf Hufen stand. Jeder Zug, jede Linie. Sein Gesicht, als hätte jemand eine Platte von ihm belichtet und auf den Rauch gedruckt. Die Figur schaute ihn an. Mit seinen Augen.
+Sein eigenes Gesicht, auf dem Kopf eines Dings das eine Elle größer war als er und auf Hufen stand. Jeder Zug, jede Linie. Sein Gesicht, als hätte jemand eine Platte von ihm belichtet und auf den Rauch gedruckt. Die Figur schaute ihn an. Mit seinen Augen.
 
 Sorels Hand fuhr zum Verschluss. Griff daneben. Seine Finger fanden das Metall nicht, rutschten ab, griffen ins Leere. Sein Körper war einen Schritt zurückgetreten, ohne Befehl, die Sohlen auf nassem Stein, der Absatz rutschte, er fing sich am Stativ, das Stativ kippte — seine Hand schloss sich um das Holzbein, hielt, riss es zu sich. Die Kamera schwankte. Hielt.
 
