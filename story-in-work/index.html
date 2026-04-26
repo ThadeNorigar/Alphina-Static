@@ -291,7 +291,6 @@
       'final': '#2E8B57'
     };
 
-    const buchDetailLinks = { buch1: 'buch1.html', buch2: 'buch2.html', buch3: 'buch3.html' };
     const buchLabels = { buch1: 'Buch I', buch2: 'Buch II', buch3: 'Buch III' };
 
     fetch('/buch/status.json')
@@ -421,15 +420,6 @@
               aktBody.classList.toggle('open');
             });
           });
-
-          // Detail link
-          if (buchDetailLinks[buchKey]) {
-            const link = document.createElement('a');
-            link.className = 'detail-link';
-            link.href = buchDetailLinks[buchKey];
-            link.innerHTML = 'Kapitel-Details &rarr;';
-            buchBody.appendChild(link);
-          }
 
           card.appendChild(buchBody);
           tree.appendChild(card);
