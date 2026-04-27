@@ -19,7 +19,7 @@
 ## 1. Ausgangssituation — Ende Buch 2
 
 **Moragh:**
-- **Alphina + Varen** — in Varens Basis **Torkal** (freie Südwest-Stadt). Varen hat beim Sex in B2-K38 einen **Resonanz-Anker** in Alphinas Frequenz gesetzt — sie weiß es nicht. Er zapft ihre Resonanz bei jeder Quellen-Reparatur (~10% pro Sitzung). Sie reparieren gemeinsam die ersten toten Quellen — beginnend mit **Halvara-Kel** (die Alphina in B2-K25 selbst getötet hat).
+- **Alphina + Varen** — in Varens Basis **Torkal** (freie Südwest-Stadt). Varen hat beim Sex in B2-K39 einen **Resonanz-Anker** in Alphinas Frequenz gesetzt — sie weiß es nicht. Er zapft ihre Resonanz bei jeder Quellen-Reparatur (~10% pro Sitzung). Sie reparieren gemeinsam die ersten toten Quellen — beginnend mit **Halvara-Kel** (die Alphina in B2-K26 selbst getötet hat).
 - **Vesper + Nyr** — bei den Thar in **Thar-Kem**. Nyr pilotiert Kessler (40-t Bestie). Vesper als Muster-Analytiker. Beide beginnen zu zweifeln (Resonanz-Käfig-Pläne zeichnen sich ab).
 - **Runa** — beim Bund in **Halvaren**. Innerlich zerbrochen nach dem Sulkara-Moment (sie sah Alphina freiwillig bei Varen kämpfen). Druckt weiter. Hat mit dem Bund innerlich abgeschlossen, wartet aber auf den Moment zu gehen.
 
@@ -158,7 +158,7 @@ Mein Vorschlag: **Portal offen lassen.** Die Thar-Kontrolle wird zerschlagen (ih
 - Stirbt in B3 Akt II. Altersschwäche. In Dravek, ihrem Garten. Maren-Erben-Szene möglich.
 
 ### Talven
-- Entlarvt in Akt II als Resonanz-Ernter. Konfrontation. Beide Augen milchig. Zerfällt körperlich.
+- Entlarvt in Akt II als Blutmagier und Schemen-Binder. Konfrontation. Narben sichtbar, Hände kalt. Schemen-Kontrolle kollabiert (gelöste Bindungen schlagen körperlich zurück).
 
 ### Iven (Nebenfigur, wird eingeführt)
 - Elektrizitäts-Resonanz (in Moragh seltene Fusion aus Thalassien-Tech + Moragh-Magie). Zahlt mit Blut. Laut alter Aktplan-Version.
@@ -175,7 +175,8 @@ Mein Vorschlag: **Portal offen lassen.** Die Thar-Kontrolle wird zerschlagen (ih
 ### Preis der Magie
 - **Thalassier** (Alphina, Vesper, Runa, Maren) — zahlen KEINEN physischen Preis. Azyklische Resonanz.
 - **Moragh-Geborene** (Nyr, Talven, Iven, Varen) — zahlen mit dem Körper. Erschöpfung, Nasenbluten, bei Missbrauch: Altern, Tod.
-- **Geerntete Resonanz** (Varens / Talvens Technik) — kostet **doppelt**: einmal den Boden (die Quelle verblasst), einmal den Ernter (Altern, milchige Augen).
+- **Geerntete Resonanz** (Varens Ritualtechnik, ausschließlich Varen) — kostet **doppelt**: einmal den Boden (die Quelle verblasst), einmal den Ernter (Altern, milchige Augen, Haarausfall).
+- **Blutmagie** (Talvens Praxis, Selbstlehre, Privatwissen) — kostet eigenes Blut (Narben am Unterarm), passive Veränderung kalte Hände, Schemen-Sog im Umfeld; Lösen einer Bindung schlägt körperlich zurück.
 
 ### Sprachregeln (KRITISCH)
 - **Fraktionsnamen:** der Bund / Orath, das Konglomerat / die Thar, die Velmar. **Nie** »Gilden« oder »Binder«.

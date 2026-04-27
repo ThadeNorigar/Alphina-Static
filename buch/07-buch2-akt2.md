@@ -126,6 +126,6 @@ Der Bund setzt Alphina offensiver ein. Erst Verteidigung: Schlaf-Haine als Befes
 | Elkes Garten wächst aus Stein | I4 — Pflanzen aus beiden Welten | Buch 3 — Elkes Garten als Alphinas Endpunkt |
 | Velmar-Information ist draußen | Kap 17/20 — Vier Resonanz-Begabte, kostenlos | Akt III — Alle drei Fraktionen wissen Bescheid. Der Preis steigt |
 | Runa in der Bund-Schmiede | Kap 14 — Sie formt ohne Ofen | Buch 3 — Runa geht zu den Thar/Konglomerat. Die Schmiedekunst als Brücke |
-| Talvens HUNGER beim Hain | Kap 15/19 — Sein Gesicht wenn Alphina wächst | Akt III — Er sucht Varen. Lernt Resonanz-Ernte |
-| Talven kennt die Bibliothek | Kap 12 — Zeigt Vesper die Karten | Akt III — Er kennt auch die Geheimnisse. Weiß wo Varen ist |
+| Talvens HUNGER beim Hain | Kap 15/19 — Sein Gesicht wenn Alphina wächst | Akt III — Er entwickelt allein Blutmagie. Selbstlehre, niemand lehrt ihn |
+| Talven kennt die Bibliothek | Kap 12 — Zeigt Vesper die Karten | Akt III — Er findet dort alte Bindungs-Texte, ohne dass jemand merkt, was er liest |
 | Talven kocht Frühstück | Kap 19 — Der Freund den alle mögen | Buch 3 — Der Verräter den alle mochten. Schmerzhafter |

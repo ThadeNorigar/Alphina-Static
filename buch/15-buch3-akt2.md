@@ -95,7 +95,7 @@ Zugang über Schemen-Vorhut. Anker in einem Schlaf-Moment setzen. Keiner wird me
 
 **Er denkt an Alphina.** Sie schläft neben ihm heute Nacht. Er sieht sie zwischendurch an und fühlt — echte Zuneigung, echte Bewunderung. Er wird sie opfern. Er würde sie auch nicht opfern, wenn sie nicht das Maximum-Reservoir trüge. So ist das. Er hat keine Wahl, die ihn nicht verurteilen würde.
 
-Das ist Varens einziger echter Satz über sich selbst — der, den er in B2-K31 Alphina gesagt hat. Hier denkt er ihn erstmals selbst.
+Das ist Varens einziger echter Satz über sich selbst — der, den er in B2-K32 Alphina gesagt hat. Hier denkt er ihn erstmals selbst.
 
 **Tschechow:** Die drei Namen auf der Liste. — Feuert: Akt IV, wenn Vesper das Kalkül entschlüsselt und Alphina an den betroffenen Städten Zeugen findet (Menschen, deren Magier unerklärlich erschöpft sind).
 

@@ -61,14 +61,14 @@ Zwischen Alphina und Runa tastet sich etwas an — kein Sorel-Verstehen, kein Wa
 
 Wochen an der Front. Alphina ist jetzt eine Waffe des Bundes — Wurzeln, die durch Stellungen brechen, Dornenhecken als Verteidigung. Tagsüber volle bewusste Kontrolle. Ihre Resonanz färbt sich bei jedem Einsatz dunkler: schwarz mit rotem Saum, dornige Ranken statt Farne. Drael behandelt sie wie eine Kanone. Jede feindliche Stellung trägt Varens Gesicht, der Hass ist produktiv, der Hass hat Struktur. Runa neben ihr, Hände glühend, stellt die Fragen die Alphina nicht mehr stellt: *Seit wann nimmst du Befehle?* Runa druckt, dokumentiert, sieht geräumte Dörfer und „gesicherte" Quellen, sammelt für sich. Sie hat noch nicht entschieden, wem sie das zeigt.
 
-Der Bund greift eine Thar-Siedlung vor Sulkara an. Drael zeigt Alphina eine kleinere Nebenquelle unter dem Boden. *Sparen hundert Leben.* Alphina drückt Wurzeln tiefer als je zuvor, spürt das pulsierende Herz der Quelle, überlädt sie. Die Quelle stirbt. In einem Radius von zweihundert Metern verdorrt alles in Sekunden — Bäume, Magie, Menschen. Ein Schmied bricht zusammen, Kinder schreien, Thar-Bindungen reissen. Sie hat es gewollt. Parallel Talven in Halvaren: er versucht heimlich eine kleine Resonanz-Ernte an einem fremden Quellchen, sein Reservoir hält einen Atemzug, dann Nasenbluten, Haarausfall in Büscheln, das rechte Auge milchig. Die Horror-Disproportion: Alphina tötet im Nebenbei, was Talven fast das Leben kostet.
+Der Bund greift eine Thar-Siedlung vor Sulkara an. Drael zeigt Alphina eine kleinere Nebenquelle unter dem Boden. *Sparen hundert Leben.* Alphina drückt Wurzeln tiefer als je zuvor, spürt das pulsierende Herz der Quelle, überlädt sie. Die Quelle stirbt. In einem Radius von zweihundert Metern verdorrt alles in Sekunden — Bäume, Magie, Menschen. Ein Schmied bricht zusammen, Kinder schreien, Thar-Bindungen reissen. Sie hat es gewollt. Parallel Talven in Halvaren: nachts allein in der hinteren Kammer schneidet er sich zum ersten Mal den Unterarm auf, lässt Blut auf einen Bindungs-Kristall tropfen — die Methode hat er sich selbst beigebracht, niemand hat sie ihm gezeigt. Erste Bindung hält einen Atemzug, der Schemen in der Ecke wird ruhig. Seine Hände bleiben danach kalt. Die Horror-Disproportion: Alphina tötet im Nebenbei, was Talven Blut, Wärme und Schlaf kostet.
 
 Varen greift ein, als Alphina zur großen Quelle zielt. Schemen schneiden sie ab, Bindungsketten halten, Runa sieht es aus hundert Metern und kämpft sich durch rauchende Schemen, wird zurückgeschlagen. Varen trägt Alphina in sein Quartier — kein Gefängnis, ein Labor. An der Wand: vier rote Markierungen. Drei alt, verblasst, seine. Eine frisch. Ihre. Er spricht altes Thalassisch, eloquent, wissbegierig, müde. Gesprächsfetzen, keine Monologe. Vierhundert Menschen. Die Bäcker. Die Heiler. Die Kinder. *Der Kommandant wusste es. Deshalb hat er dich geschickt.* Varen zeigt ihr abgefangene Bund-Chiffre: Quellen-Zerstörung als koordinierte Kriegsstrategie, Dutzende tote Zonen, Alphina war nur die Stärkste. Runa plant beim Bund die Befreiung mit Deserteur-Kontakten. Vesper bei den Thar in Kessler spürt die Vibration der toten Quelle durch ganz Moragh. Er weiß, wer es war, und sagt nichts.
 
 ### Zentrale Beats
 - Alphinas Farbe kippt zu schwarz/rot, blühende Dornen im Kampf
 - Halvara-Kel: sie überlädt absichtlich eine Quelle, 200m Todeszone
-- Talven erntet heimlich, scheitert — milchiges Auge, Haarausfall
+- Talven entwickelt nachts allein Blutmagie — erste Schemen-Bindung mit eigenem Blut, Hände werden kalt
 - Varen fängt sie mit Schemen ab, bringt sie in sein Quartier
 - Vier rote Markierungen: drei Varens, eine ihre — dieselbe Tat
 - Alphina liest abgefangene Bund-Chiffre, sieht den Plan
@@ -101,6 +101,6 @@ Sulkara, große nördliche Thar-Stadt, dreizehntausend Bewohner. Der Bund greift
 ## Thematische Fäden (durchlaufend)
 
 - **Alphinas Farb-Progression:** grün (Sorel) → schwarz/rot (Kontrollverlust) → blühende Dornen (Vesper)
-- **Talvens Verfall:** Haarausfall, milchiges Auge — niemand stellt Fragen
+- **Talvens Verfall:** Hände dauerhaft kalt, Narben unter den Ärmeln, Schemen-Sog im Umfeld — niemand stellt Fragen
 - **Runas Dokumentation:** Flugblätter, Brief mit Farn, politischer Hebel
 - **Fraktionen:** Bund von Orath (angeblich zivilisiert), Konglomerat/Thar, Velmar (Haus Keth — Varens Herkunft)

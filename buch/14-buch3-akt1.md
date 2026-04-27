@@ -24,9 +24,9 @@ Alphina wacht in Varens Quartier auf. Moragh-Bettwäsche, schwere Leinen, zu war
 
 Varen schläft nicht. Er arbeitet am Tisch seit vor Sonnenaufgang. Als sie eintritt, dreht er sich, sieht sie an. *„Liebe Alphina."* Warm, ohne zu viel. Er reicht ihr eine Tasse Tee — Moragh-Kräuter, bitter und weich zugleich. *„Ich habe die Karten nach Halvara-Kel neu gezeichnet."*
 
-Sie trinkt, sieht über seine Schulter auf das Papier. Die Route: Torkal nach Süden, dann Ostschwenk in das Bund-Grenzland. Halvara-Kel ist die Quelle, die sie in B2-K25 zerstört hat — Alphinas erste. Sie soll ihre eigene Spur umkehren.
+Sie trinkt, sieht über seine Schulter auf das Papier. Die Route: Torkal nach Süden, dann Ostschwenk in das Bund-Grenzland. Halvara-Kel ist die Quelle, die sie in B2-K26 zerstört hat — Alphinas erste. Sie soll ihre eigene Spur umkehren.
 
-**Tschechow-Schatten:** Varens Hand an ihrer Wirbelsäule, als er ihr die Route zeigt. Keine besitzergreifende Geste. Leicht, zwischen den Schulterblättern, dort wo in B2-K38 der Anker sitzt. Alphina spürt die Wärme, ordnet sie falsch zu (Nähe, Vertrauen). Der Leser sieht mit.
+**Tschechow-Schatten:** Varens Hand an ihrer Wirbelsäule, als er ihr die Route zeigt. Keine besitzergreifende Geste. Leicht, zwischen den Schulterblättern, dort wo in B2-K39 der Anker sitzt. Alphina spürt die Wärme, ordnet sie falsch zu (Nähe, Vertrauen). Der Leser sieht mit.
 
 Sie gehen am Nachmittag los. Drei Tage Marsch. Schemen tragen die Ausrüstung — dieselbe Varen-Schemen-Eskorte wie in B2. Keiner spricht. Einmal, auf einem Pass, lacht Varen über etwas, das sie sagt. Alphina merkt: sein Lachen ist ungeübt. Er lacht nicht oft. Das macht sie weich.
 
@@ -127,9 +127,9 @@ Sie atmet einmal tief ein, steht auf. Das Dachgeschoss wartet. Morgen früh komm
 ### Kap. 45 — Talven (S. 92–114, ~5.500 Wörter)
 *Halvaren, Bund-Stadt. Nachmittag auf dem Marktplatz.*
 
-Talven-POV. Moragh-Bund-Rufer, noch Held der Armen. Hundert Menschen auf dem Marktplatz, einhundertfünfzig. Er steht auf einer hölzernen Kiste und **verteilt Resonanz**. Die Technik: Er hat nachts in einem kleinen Quell-Nebenort Energie abgenommen — legal, mit einer Bund-Erlaubnis, die ihm die Ältere ausgestellt hat. Er trägt die Energie im Körper, gibt sie weiter, Hand auf Hand.
+Talven-POV. Moragh-Bund-Rufer, noch Held der Armen. Hundert Menschen auf dem Marktplatz, einhundertfünfzig. Er steht auf einer hölzernen Kiste und **verteilt geladene Kristalle**. Die Technik: Er hat in der Nacht zuvor seine Bindungs-Kristalle mit eigenem Blut aufgeladen, jeder Kristall hält für kurze Wirkung. Er gibt sie weiter, Hand auf Hand. Niemand fragt, wie sie funktionieren.
 
-Eine Mutter mit brennendem Kind in den Armen. Talven legt die Hand auf die Stirn des Kindes — ein kurzer Puls seiner geernteten Wärme — das Fieber sinkt. Die Mutter weint. Ein alter Mann, dessen Rufer-Talent nie über Stufe zwei hinaus kam, berührt Talvens Hand und kann für eine Minute eine Lichtkugel formen. Er schluchzt, als sie verblasst. *„Einmal. Einmal nur."*
+Eine Mutter mit brennendem Kind in den Armen. Talven legt einen kleinen Kristall auf die Stirn des Kindes — ein kurzer Puls aus dem Stein — das Fieber sinkt. Die Mutter weint. Ein alter Mann, dessen Rufer-Talent nie über Stufe zwei hinaus kam, hält einen Kristall in der Hand und kann für eine Minute eine Lichtkugel formen. Er schluchzt, als sie verblasst. *„Einmal. Einmal nur."*
 
 Talven lächelt. Sein Lächeln ist zu groß. Zu voll. Aber er weiß, warum er hier ist — um zu zeigen, dass die Ungerechtigkeit überwindbar ist.
 
@@ -231,7 +231,7 @@ Runa-POV. Seit Sulkara bei der Bund-Stadt Halvaren. Offiziell: Druckerin, Drucke
 
 Sie siezt ihn. Bietet ihm Tee an. Er lehnt ab. Er stellt drei Fragen in zwanzig Minuten, die wie Plaudertaschen klingen. In Wahrheit: Er will wissen, ob Runa ihn beobachtet. Sie gibt ihm drei Antworten, die wie Plauderei klingen. In Wahrheit: Sie lässt ihn glauben, sie sei harmlos. Er geht, halb befriedigt.
 
-**Nachts.** Sie zieht den Brief aus der Schublade — den, den sie in B2-K41 geschrieben hat, mit dem Farn und Alphinas Namen. Sie hatte den Namen rausgerissen. Jetzt hält sie den Rest. Der Farn, der nur noch schwarz auf weißem Papier ist, nicht mehr grün, nicht mehr Alphinas Signatur.
+**Nachts.** Sie zieht den Brief aus der Schublade — den, den sie in B2-K42 geschrieben hat, mit dem Farn und Alphinas Namen. Sie hatte den Namen rausgerissen. Jetzt hält sie den Rest. Der Farn, der nur noch schwarz auf weißem Papier ist, nicht mehr grün, nicht mehr Alphinas Signatur.
 
 Sie faltet ihn wieder zusammen. Steckt ihn in die Schublade. Geht zu Bett.
 

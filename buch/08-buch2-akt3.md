@@ -12,7 +12,7 @@ Varen greift ein als sie die GROSSE Quelle angreifen will. Schemen. Ketten. Gefa
 
 ## Kapitelplan
 
-### Kap. 21 — Alphina (S. 400–420, ~5.000 Wörter)
+### Kap. 22 — Alphina (S. 400–420, ~5.000 Wörter)
 *Waffe des Bundes. An der Front.*
 
 Alphina an der Front. Wochen seit Akt II. Sie ist ANDERS. Kontrolliert. Präzise. Lässt Wurzeln durch feindliche Stellungen brechen, Ranken die Barrikaden zerreißen, Dornenhecken als Verteidigung. Die Bund-Soldaten starren sie an — Ehrfurcht, Angst. Der Kommandant (Name: Drael) behandelt sie wie eine Kanone: Ziel angeben, feuern lassen, nachladen.
@@ -21,7 +21,7 @@ Sie denkt nicht an Sorel. Sie denkt an Varen. Jeder Feind ist sein Gesicht. Jede
 
 Eingebettet: Runa neben ihr, Hände glühend, Metall formend. Runa ist AUCH Waffe — aber anders. Runa stellt Fragen. "Warum greifen wir dieses Dorf an?" Alphina: "Weil der Kommandant es sagt." Runa: "Seit wann nimmst du Befehle?"
 
-### Kap. 22 — Varen-POV (S. 420–436, ~4.000 Wörter)
+### Kap. 23 — Varen-POV (S. 420–436, ~4.000 Wörter)
 *Der Beobachter. Was er sieht.*
 
 Varen beobachtet von fern. Er hat Späher. Schemen die berichten. Er sieht was der Bund mit Alphina macht — die systematische Verwandlung einer Trauernden in eine Waffe. Er sieht die Front. Er sieht die Quellen die der Bund im Visier hat. Er sieht die Karten die er KENNT — weil er dieselbe Forschung gemacht hat. Der Bund hat seine Methode gestohlen oder rekonstruiert. Quellen-Überladung als Kriegsstrategie.
@@ -30,7 +30,7 @@ An seiner Wand: drei tote Quellen, rot markiert. Seine. Sein Experiment. Sein Fe
 
 Er könnte eingreifen. Jetzt. Aber Alphina würde ihn töten — oder es versuchen. Er wartet. Auf den Moment in dem sie zu weit geht. Dann hat er einen Grund.
 
-### Kap. 23 — Alphina (S. 436–456, ~5.000 Wörter)
+### Kap. 24 — Alphina (S. 436–456, ~5.000 Wörter)
 *Erste Risse. Fragen die sie nicht stellt.*
 
 Schleichende Zweifel, die Alphina UNTERDRÜCKT. Ein Kommandant der zu genau weiß wo feindliche Quellen liegen. Gespräche die abbrechen wenn sie näher kommt. Karten die eingerollt werden. Ein Bund-Offizier der sagt: "Die nächste liegt südöstlich, dreihundert Meter unter der Oberfläche" — und Alphina fragt nicht woher er das weiß.
@@ -39,7 +39,7 @@ Eingebettet: die Bund-Soldaten behandeln Alphina wie ein Naturereignis. Abstand.
 
 Runa kommt abends. Hände warm. Setzt sich neben sie. Sagt nichts. Alphinas Körper reagiert — Wärme, Nähe, etwas das nicht Hass ist. Aber sie lässt es nicht zu. Nicht jetzt. Der Hass ist nützlicher.
 
-### Kap. 24 — Runa (S. 456–472, ~4.000 Wörter)
+### Kap. 25 — Runa (S. 456–472, ~4.000 Wörter)
 *Die Druckerin an der Front.*
 
 Runa druckt auch hier. Moragh-Papier, Thalassien-Lettern die sie in Moragh-Metall gegossen hat. Sie druckt Berichte. Nachrichten von der Front. Was sie sieht: Bund-Soldaten die Befehle ausführen ohne zu fragen. Dörfer die geräumt werden — nicht evakuiert, GERÄUMT. Bewohner die verschwinden. Quellen die "gesichert" werden — Runas Wort. Der Bund sagt "befreit".
@@ -48,7 +48,7 @@ Runa schreibt auf was sie sieht. Noch nicht für andere. Für sich. Die Druckeri
 
 Eingebettet: Runa beobachtet Alphina. Sieht die Veränderung. Die Frau die in Vael Farne geküsst hat, lässt jetzt Dornen durch Menschen wachsen. Runa sagt nichts. Noch nicht.
 
-### Kap. 25 — Alphina (S. 472–500, ~7.000 Wörter)
+### Kap. 26 — Alphina (S. 472–500, ~7.000 Wörter)
 *Das Schlachtfeld. Die Quelle.*
 
 **DIE SZENE.** Der Bund greift eine Thar-Siedlung an. Alphina kämpft an vorderster Front — Wurzeln reißen durch den Boden, Bäume wachsen in Sekunden als Barrikaden, Ranken greifen nach Thar-Soldaten. Sie ist eine Naturgewalt. Der Bund drängt die Thar zurück.
@@ -65,7 +65,7 @@ Alphina steht in der Mitte. Um sie herum: ein Kreis aus totem Land. Sie hat es g
 
 Sie schaut nach Osten. Die GROSSE Quelle der Siedlung. Größer. Stärker. Tiefer. Sie spürt sie. Könnte sie auch —
 
-### Kap. 26 — Alphina (S. 500–520, ~5.000 Wörter)
+### Kap. 27 — Alphina (S. 500–520, ~5.000 Wörter)
 *Varen. Ketten.*
 
 **VAREN.** Aus dem Nichts. Schemen strömen über das Schlachtfeld — dutzende, humanoid, schnell. Sie schneiden Alphina ab. Von der Siedlung, von der großen Quelle, von den Bund-Soldaten, von Runa.
@@ -89,7 +89,7 @@ Nicht seine. IHRE.
 
 Er legt den Stift hin. Steht lange da. Sein Gesicht: nichts. Dann dreht er sich um und geht zu ihr.
 
-### Kap. 27 — Alphina (S. 530–555, ~6.250 Wörter)
+### Kap. 28 — Alphina (S. 530–555, ~6.250 Wörter)
 *Gefangen. Die Karten. Gesprächsfetzen.*
 
 Alphina wacht auf. Ketten. Nicht ein Gästehaus wie in Buch 1 (falls Varen sie damals mitgenommen hätte) — ein Arbeitsraum. Bücher. Karten. Instrumente. Varens Quartier ist kein Gefängnis — es ist ein Labor. Und sie ist das neueste Exponat.
@@ -102,7 +102,7 @@ Gesprächsfetzen, nicht Monologe: "Vierhundert Menschen. Ohne Magie. Ab heute." 
 
 Alphina: "Der Kommandant hat gesagt—" Varen: "Der Kommandant WUSSTE es. Deshalb hat er dich geschickt."
 
-### Kap. 28 — Alphina (S. 555–575, ~5.000 Wörter)
+### Kap. 29 — Alphina (S. 555–575, ~5.000 Wörter)
 *Die Wahrheit in Stufen.*
 
 Tage vergehen. Varen lässt sie nicht frei, aber er lässt sie sehen. Die Karten. Die Berichte. Abgefangene Bund-Kommunikation — Nachrichten zwischen Kommandanten, in Bund-Chiffre die Varen geknackt hat.
@@ -117,7 +117,7 @@ Die Wahrheit kommt nicht als Enthüllung — als Sickern:
 
 Alphina sitzt vor den Karten. Stunden. Die Ketten klirren nicht mehr — sie bewegt sich nicht genug.
 
-### Kap. 29 — Runa (S. 575–592, ~4.250 Wörter)
+### Kap. 30 — Runa (S. 575–592, ~4.250 Wörter)
 *Beim Bund. Wut. Plan.*
 
 Runa zurück beim Bund. Allein. Alphina weg — von Varen genommen. Die Bund-Kommandanten reagieren mit kalkulierter Sorge: "Wir holen sie zurück." Aber Runa hört den Unterton: sie wollen die WAFFE zurück, nicht die Frau.

@@ -31,7 +31,7 @@ Auf Thalassien-Seite vergehen ~333 TZ-Jahre. B3 allein entspricht ~5 Moragh-Mona
 
 **Alphina + Varen:**
 - In **Torkal** (freie Stadt Südwesten) als Basis.
-- Varen hat während Sulkara-Sex in B2-K38 heimlich einen Resonanz-Anker
+- Varen hat während Sulkara-Sex in B2-K39 heimlich einen Resonanz-Anker
   in Alphinas Frequenz gesetzt. Sie weiß es nicht.
 - Sie planen Quellen-Reparatur als Mission. Varen inszeniert Schuld-Partnerschaft.
 - Alphina hat in Sulkara Dornen gegen Bund-Soldaten gewirkt, auch gegen Runa gesehen.
@@ -174,7 +174,7 @@ Zeitraum: ca. 30 Tage Moragh, ca. 33 TZ-Jahre Thalassien.
 
 | Jahr | Ereignis | Interludium |
 |---|---|---|
-| 1987 | Maren tritt durchs Portal in Thalassien ein | (B2-K40) |
+| 1987 | Maren tritt durchs Portal in Thalassien ein | (B2-K41) |
 | 1990 | Maren gründet Schwellenforschungsgesellschaft in Vael | **I7** |
 | 1990–2019 | Gesellschaft wächst zu staatlich finanziertem Institut | (off-screen) |
 | 2019 | Expedition 1 vor Aufbruch. Tyra Halvard + Team | **I13** |

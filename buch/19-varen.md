@@ -56,7 +56,7 @@ Varen ist ein **0.001 %-Fünffach-Begabter** — eine einmalige Ausnahme einer G
 | Druck/Gravitation | 5 | Velmar-Binder-Kaste als Grundausstattung. Basis seiner Portalforschung (Raumverformung). |
 | Zeit | 3 | Angelernt über zwei Jahre Portalforschung (MZ -3 bis -1). "Brachial und unsicher", aber genug für Portale in Kombination mit der Druck-Komponente. |
 
-**Resonanz-Ernte ist kein eigenes Talent.** Sie ist eine von Varen entwickelte **Technik**, die Energie-Resonanz mit Druck- und Ritualwissen kombiniert und das fremde Reservoir in ein passendes Gefäß zwingt. Der Preis zahlt der Ernter (Autoimmunreaktion, permanenter Schaden), weil die fremde Magie nicht zu seiner Resonanz passt. Siehe `20-moragh-talente.md`, Abschnitt *Energie*, für die Einordnung im Talent-System.
+**Resonanz-Ernte ist kein eigenes Talent.** Sie ist eine von Varen entwickelte **Technik**, die Energie-Resonanz mit Druck- und Ritualwissen kombiniert und das fremde Reservoir in ein passendes Gefäß zwingt. Der Preis zahlt der Ernter (Autoimmunreaktion, permanenter Schaden — milchige Augen, Haarausfall, beschleunigtes Altern), weil die fremde Magie nicht zu seiner Resonanz passt. Siehe `20-moragh-talente.md`, Abschnitt *Energie*, für die Einordnung im Talent-System. **Diese Technik ist Varens Werkzeug für sein Ritual (B3) und wird ausschließlich von Varen praktiziert. Talven praktiziert sie NICHT** — Talven entwickelt eigenständig eine andere Methode (Blutmagie + Schemen-Bindung, Selbstlehre), siehe `13-talven.md`.
 
 **Als Velmar-Rufer mit Binden-Sekundärtalent** gehört Varen ins Muster der Rufer-Kaste, das in `21-moragh-gesellschaft.md` beschrieben ist. Seine Ausstoßung aus Velmar (siehe Abschnitt 5) ist politisch-doktrinär, nicht an seine Fähigkeiten gebunden — seine Talente hätte jede Velmar-Binder-Elite gern gehalten.
 
@@ -289,7 +289,7 @@ Die Fünf (vier lebend) kommen in einer Bund-Stadt an. Elke führt sie dahin. De
 
 **Maren findet den Rückweg** (zusammen mit Vesper). Portal-Karte, Anleitung. Sie gehen durch — Vesper bleibt (Moragh, Nyr, die Thar), Maren geht (Thalassien, allein). **Timing:** das passiert in Akt II Buch 2, noch bevor Alphinas Gefangennahme. Vesper ist bei den Thar, Maren ist in Thalassien, Runa ist noch beim Bund, Alphina ist noch beim Bund. (Siehe offene Frage unten zur Portalmagie-Regel für Maren.)
 
-**Talven geht nachts zu Varen.** Lernt Resonanz-Ernte. Milchiges Auge. Haare fallen aus. Er hat beschlossen, den Preis zu bezahlen um den Krieg zu beenden. Er weiß nicht dass Varen den Krieg ausgelöst hat.
+**Talven entwickelt nachts allein Blutmagie.** Kein Varen-Kontakt in dieser Linie — Talven kommt selbst auf die Methode (eigenes Blut + Kristall + Schemen-Bindung). Er weiß nicht, dass Varen den Krieg ausgelöst hat, und Varen weiß nicht, dass Talven seine eigene Magie-Praxis aufbaut. Beide Linien laufen parallel, ohne sich zu kreuzen, bis B3.
 
 ### Akt III Buch 2 — Zweifel und Bruch (zweite Hälfte)
 
@@ -418,7 +418,7 @@ Moragh hat **keine Sonne**. Es hat eine Akkretionsscheibe (ein Ring aus leuchten
 
 5. **Die 350 Verschwundenen vor 200 MZ-Jahren:** Als legendäre Gruppe etabliert, aber noch nicht mit Namen, Gesichtern, Gründen. Haben sie ein Manuskript hinterlassen (Elkes Manuskript könnte ein Echo sein)? Gibt es noch einen Nachfahr der Gruppe, den Varen finden könnte? Offener Stoff.
 
-6. **Talven als Velmar-Deserteur?** Canon hat Talven als "Bund-Lehrling, mittleres Reservoir". Das ist Bund-Gebiet, nicht Velmar. Aber: Talven lernt von Varen die Resonanz-Ernte, und Varen ist Velmar-Forscher. Vielleicht ist Talven ein Velmar-Deserteur, der mit Varens Crew nach Bund-Gebiet gekommen ist? Oder er ist ein Bund-Lehrling, den Varen als Schüler angenommen hat? Braucht Klärung.
+6. **Talven-Frage gelöst (2026-04-26):** Talven ist Bund-Lehrling, kein Velmar-Deserteur. Er entwickelt **eigenständig** Blutmagie + Schemen-Bindung — Selbstlehre, Privatwissen. Varen lehrt ihn NICHTS. Beide Linien laufen parallel ohne Kreuzung bis B3. Resonanz-Ernte (Varens Technik) und Blutmagie (Talvens Praxis) sind zwei getrennte Magie-Wege.
 
 7. **K38/K39-Split:** Die Todesszene liegt in K39 (Alphina: Sorels Tod). K38 (Alphina: Varen) ist die Berührungsszene. Diese Trennung ist wichtig für die Pacing und sollte beim Entwurf von K38 und K39 beachtet werden. Zwei Kapitel, nicht eins.
 

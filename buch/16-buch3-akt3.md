@@ -32,7 +32,7 @@ Moragh-Zeit: Monat 7,5 bis 9. Thalassien-Zeit: ~2070 bis 2120 TZ — 50 Jahre Vo
 
 Alphina erreicht Thar-Kem, trifft Vesper in einer abseits gelegenen Gaststube. Nyr ist nicht dabei — Vesper hat sie bewusst nicht informiert, um Alphina Zugang ohne Thar-Kontrolle zu geben.
 
-**Das Treffen.** Sie sehen sich zum ersten Mal seit Sulkara (B2-K42). Er hat Falten bekommen, sie zum ersten Mal die dunkel-purpurnen Strähnen im Haar. Sie nicken einander zu. Keine Umarmung. Der Schmerz zwischen ihnen ist zu präsent.
+**Das Treffen.** Sie sehen sich zum ersten Mal seit Sulkara (B2-K45). Er hat Falten bekommen, sie zum ersten Mal die dunkel-purpurnen Strähnen im Haar. Sie nicken einander zu. Keine Umarmung. Der Schmerz zwischen ihnen ist zu präsent.
 
 Alphina legt das Velmar-Dokument auf den Tisch. *„Von Elke. Über Maren. Sie hat es vor ihrem Durchgang versteckt."*
 

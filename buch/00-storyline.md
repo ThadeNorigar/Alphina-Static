@@ -97,7 +97,7 @@ Bildhauerin aus Thalassien. In B1 durchs Portal nach Moragh (I3, Das Große Feue
 Thar-Pilotin. Druck/Dampf-Resonanz, Zweittalent Metall (für Kessler-Wartung). Bestie „Kessler" (40-Tonnen-Ramm). Überzeugt Vesper von den Thar. **Verlässt die Thar spät in B3-Akt III** — Unbehagen über Zivilisten-als-Schild-Befehle. Driftet emotional von Vesper weg, weil er sich in Alphinas Rettung verliert. Verabschiedet sich von ihm friedlich, bietet Beistand an. Kämpft in Akt IV neben Runa gegen Expedition in Kessler. Nimmt Kessler nach Halvek-Mar mit (Reiter-Bindung ist absolut), repariert ihn mit Runas Feuer unterwegs. Endet mit Runa, betreibt Kessler als zivile Arbeitsbestie im Hafen.
 
 ### Talven — Der Radikalisierte
-Moragh-geboren, Bund-Rufer. Verteilt in B3-Akt I Resonanz, wird zum Helden. **Beginnt in Akt II mit Blutmagie und Schemen-Binden** (Varen spielt ihm die Bindetechnik zu — im Bund als Sklaverei tabu, zweifache Grenzüberschreitung). Baut Schemen-Kristall-Batterien. Keine milchigen Augen, keine Resonanz-Ernte-Linie — nur Narben, die er sich selbst zufügt. Einzige passive Veränderung: Hände werden kalt (Spiegel-Symbol seiner früheren Wärme). Schemen-Reaktion wird zum Indikator — ungebundene lösen sich in seiner Nähe auf, gebundene fliehen. **Stirbt in B3-Akt III durch Alphina**, die ihn zu Unrecht für Elkes Mörder hält (Varen hat gefälschte Beweise platziert). Sein Satz: *„Ich hätte es irgendwann wirklich gekonnt."*
+Moragh-geboren, Bund-Rufer. Verteilt in B3-Akt I geladene Kristalle, wird zum Helden. **Beginnt in B2-Akt III eigenständig mit Blutmagie und Schemen-Binden** — niemand lehrt ihn; er entwickelt die Methode allein durch Verzweiflungs-Improvisation (er hat ein mittleres Reservoir, kein Aufstieg möglich, also experimentiert er nachts mit eigenem Blut auf Bindungs-Kristallen, bis es funktioniert). Privatwissen, Talven exklusiv. Baut Schemen-Kristall-Batterien. Keine milchigen Augen, keine Resonanz-Ernte-Linie — das ist Varens Ritualtechnik, nicht Talvens. Talvens Preis: Narben am Unterarm, die er sich selbst zufügt. Einzige passive Veränderung: Hände werden kalt (Spiegel-Symbol seiner früheren Wärme). Schemen-Reaktion wird zum Indikator — ungebundene lösen sich in seiner Nähe auf, gebundene fliehen. **Stirbt in B3-Akt III durch Alphina**, die ihn zu Unrecht für Elkes Mörder hält (Varen hat gefälschte Beweise platziert). Sein Satz: *„Ich hätte es irgendwann wirklich gekonnt."*
 
 ---
 
@@ -190,7 +190,7 @@ Die Fünf beim Bund (Bund-Stadt). Alphina: Schlaf-Haine, will RACHE an Varen. De
 
 **Maren findet den Rückweg.** Die Karte, die Anleitung für die Moragh-Seite des Portals. Sie und Vesper sind zusammen als sie es entdeckt. Vesper entscheidet sich zu bleiben — Moragh, Nyr, die Thar. Maren entscheidet sich zu gehen — Thalassien, Forschung, allein. Öffnet das Portal von Moragh-Seite. Geht durch. ~1987 TZ. Allein, zu wenig Magie um zurückzukommen. Gründet die **Schwellenforschungsgesellschaft.** Verschwindet aus der Geschichte.
 
-**Talven geht nachts zu Varen.** Lernt Resonanz-Ernte. Milchiges Auge. Haare.
+**Talven entwickelt nachts allein Blutmagie.** Niemand lehrt ihn — Selbstlehre, Privatwissen. Eigenes Blut, Kristall-Speicher, Schemen-Bindung. Erste Bindung hält einen Atemzug. Hände bleiben danach kalt.
 
 ### Akt IV — Das Schlachtfeld und die Gefangenschaft (2/3- bis Ende Buch 2)
 

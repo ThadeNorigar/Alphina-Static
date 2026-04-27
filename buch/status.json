@@ -476,22 +476,24 @@
           "18",
           "19",
           "I4",
-          "20"
+          "20",
+          "21"
         ]
       },
       {
         "name": "Akt III",
         "kapitel": [
-          "21",
           "22",
           "23",
           "24",
           "25",
           "26",
-          "I5",
           "27",
+          "I5",
           "28",
           "29",
+          "30",
+          "I9",
           "I10",
           "I11"
         ]
@@ -499,20 +501,22 @@
       {
         "name": "Akt IV",
         "kapitel": [
-          "30",
           "31",
           "32",
           "33",
           "34",
           "35",
-          "I6",
           "36",
+          "I6",
           "37",
           "38",
           "39",
           "40",
           "41",
           "42",
+          "43",
+          "44",
+          "45",
           "I12"
         ]
       }
@@ -595,117 +599,117 @@
         "woerter": null,
         "text": "Nach dem Dorf-Desaster. Runa: 'Du hast Angst vor dir selbst.' FWB: hitzig, direkt. Runas Hände glühen auf Alphinas Haut. Kein Wald bricht aus. Bei Runa ist die Welt still. Der Velmar-Spion wird enttarnt."
       },
-      "21": {
+      "22": {
         "titel": "Alphina: Das Schlachtfeld",
         "pov": "Alphina",
         "status": "idee",
         "woerter": null,
         "text": "Die Velmar greifen eine Bund-Siedlung an. Alphina kämpft — Ranken, Dornen, Wurzeln. Dann erscheint Varen als dritte Partei. Seine Schemen trennen Alphina systematisch von der Gruppe. Runa sieht es — kann nichts tun. Schreit."
       },
-      "22": {
+      "23": {
         "titel": "Alphina: Varens Quartier",
         "pov": "Alphina",
         "status": "idee",
         "woerter": null,
         "text": "Alphina ist Varens Gefangene. Sein Quartier: Bücher, Karten, Ley-Linien. Die 3 toten Quellen rot markiert. Er spricht altes Thalassisch. Nicht grausam — interessiert. 'Du hast ihn sterben lassen.' — 'Ja.' Keine Entschuldigung. Nie."
       },
-      "23": {
+      "24": {
         "titel": "Alphina: Die Wahrheit",
         "pov": "Alphina",
         "status": "idee",
         "woerter": null,
         "text": "Tage, Wochen. Er zeigt ihr die Karten. Sein Experiment, die Überladung, die Kettenreaktion. Drei Städte die verdorrten. 'Niemand weiß es. Nur du. Jetzt.' Die Daten stimmen. Varens Gesicht wenn er über die Quellen spricht — das ist keine Lüge."
       },
-      "24": {
+      "25": {
         "titel": "Alphina: Sie fängt an zu glauben",
         "pov": "Alphina",
         "status": "idee",
         "woerter": null,
         "text": "Die Daten stimmen. Ihr Körper reagiert auf Varen — nicht weil er sie zwingt, weil er da ist, mächtig, besessen, und ihr die Wahrheit erzählt. Intimität durch Geständnis. Das Begehren fühlt sich falsch an. Sie begehrt den Mann der Sorel hat sterben lassen."
       },
-      "25": {
+      "26": {
         "titel": "Alphina + Varen: Dornen",
         "pov": "Alphina",
         "status": "idee",
         "woerter": null,
         "text": "Sie dreht sich nicht weg. Sex mit Varen: dunkel, anders. Andere Geschwindigkeit — langsamer, schwerer. Rücken, Nacken, Wirbelsäule statt Handgelenke. Nicht halten — führen. Dornen wachsen statt Farne."
       },
-      "26": {
+      "27": {
         "titel": "Runa: Warten",
         "pov": "Runa",
         "status": "idee",
         "woerter": null,
         "text": "Runa in der Bund-Stadt. Druckt. Baut ihre Moragh-Presse. Gießt Moragh-Schriftzeichen in ihre Lettern. Wartet auf Alphina. Weiß nicht wo sie ist — nur dass Varen sie genommen hat. Runas Hände glühen im Dunkeln."
       },
-      "27": {
+      "28": {
         "titel": "Talven: Zum Forscher",
         "pov": "Talven",
         "status": "idee",
         "woerter": null,
-        "text": "Talven verlässt die Stadt, findet Varen. 'Die Thalassierin wächst einen Hain im Schlaf und es kostet sie nichts. Ich will wissen warum.' Varen zeigt ihm Resonanz-Ernte. Erste Lektion bis zum Morgengrauen. Milchiger Fleck im Auge."
+        "text": "Talven verlässt die Stadt — nicht zu Varen, sondern in eine gemietete Kammer am Stadtrand. 'Die Thalassierin wächst einen Hain im Schlaf und es kostet sie nichts. Ich will wissen warum.' Selbstversuch: er schneidet sich nachts den Unterarm auf, lässt Blut auf einen Bindungs-Kristall tropfen. Der Kristall wird heiß. Erste Bindung hält einen Atemzug. Niemand hat ihn das gelehrt. Seine Hände bleiben danach kalt."
       },
-      "28": {
+      "29": {
         "titel": "Maren: Durchbruch",
         "pov": "Maren",
         "status": "idee",
         "woerter": null,
         "text": "Maren drückt am stillen Punkt — ein Riss, drei Sekunden. Der Geruch von Salz, Teer, nassem Backstein: Vael. Der Wasserweg öffnet sich. Maren trifft eine Entscheidung: sie geht zurück nach Thalassien."
       },
-      "29": {
+      "30": {
         "titel": "Maren: ~1910",
         "pov": "Maren",
         "status": "idee",
         "woerter": null,
         "text": "Maren tritt durch den Wasserweg. Thalassien. Drei Moragh-Monate sind ~90 Jahre. Vael hat Fahrzeuge, Radio. Sorels Glasplatten in einer Privatsammlung. Halvards Bericht als Kuriosität. Alle tot seit Generationen. Das Boot: drei Viertel fertig, konserviert."
       },
-      "30": {
+      "31": {
         "titel": "Maren: Die Gesellschaft",
         "pov": "Maren",
         "status": "idee",
         "woerter": null,
         "text": "Maren gründet die Schwellenforschungsgesellschaft. Allein. Die einzige Person die zwischen den Welten gehen kann. Sie bleibt. Fließt nicht weiter. Zum ersten Mal."
       },
-      "31": {
+      "32": {
         "titel": "Alphina: Nicht mehr Gefangene",
         "pov": "Alphina",
         "status": "idee",
         "woerter": null,
         "text": "Alphina bleibt bei Varen. Nicht als Gefangene — als jemand der sich entschieden hat zu bleiben. Arbeitet mit ihm an der Quellen-Forschung. Ihre Resonanz als Testfeld. Vergibt nicht. Aber hasst nicht mehr."
       },
-      "32": {
+      "33": {
         "titel": "Vesper: Bei den Thar",
         "pov": "Vesper",
         "status": "idee",
         "woerter": null,
         "text": "Vesper bei der Thar mit Nyr. Effizienz, Ordnung, Kommandokette. Nyr pilotiert Kessler mit unvergleichlicher Präzision. Vesper gibt der Thar Daten über der Bund. Kalkulation. 'Ich habe gerechnet.'"
       },
-      "33": {
+      "34": {
         "titel": "Runa: Die Presse",
         "pov": "Runa",
         "status": "idee",
         "woerter": null,
         "text": "Runa druckt. Moragh-Schriftzeichen, Thalassien-Lettern, gemischt. Baut ihre Hybrid-Presse. Wartet auf Alphina. Weiß nur: sie ist bei dem Mann der Sorel hat sterben lassen. Runas Hände glühen im Dunkeln."
       },
-      "34": {
+      "35": {
         "titel": "Talven: Der Held",
         "pov": "Talven",
         "status": "idee",
         "woerter": null,
-        "text": "Talven verteilt geerntete Resonanz. Ein alter Beschwörer ruft ein Lichtwesen und weint. 'Resonanz für alle.' Talven wird zum Helden. Milchige Augen hinter dunkler Brille. 'Gegen die Sonne.'"
+        "text": "Talven verteilt geladene Schemen-Kristalle. Ein alter Beschwörer leiht sich einen, ruft ein Lichtwesen, weint. 'Magie für alle.' Talven wird zum Helden. Hände in den Taschen, Narben unter den Ärmeln verborgen."
       },
-      "35": {
+      "36": {
         "titel": "Alphina + Varen: Die Quellen",
         "pov": "Alphina",
         "status": "idee",
         "woerter": null,
         "text": "Erste Tests. Alphinas Resonanz als externer Anstoß. Pflanzen auf totem Boden. Wurzeln die in die tote Quelle reichen. Erste Ergebnisse. Varen neben ihr — zum ersten Mal etwas im Gesicht das nicht Obsession ist."
       },
-      "36": {
+      "37": {
         "titel": "Alle: Getrennt",
         "pov": "Alle",
         "status": "idee",
         "woerter": null,
-        "text": "Alphina bei Varen. Maren in Thalassien, ~1910, allein. Vesper bei den Thar mit Nyr. Runa in der Bund-Stadt, druckend, wartend. Talven: Held, milchige Augen, zerfallend. Alle getrennt. Das Auge sieht alles — und niemand sieht dasselbe."
+        "text": "Alphina bei Varen. Maren in Thalassien, ~1910, allein. Vesper bei den Thar mit Nyr. Runa in der Bund-Stadt, druckend, wartend. Talven: Held, Hände in den Taschen, Narben unter den Ärmeln, Schemen lösen sich in seiner Nähe auf. Alle getrennt. Das Auge sieht alles — und niemand sieht dasselbe."
       },
       "01": {
         "titel": "Alphina: Hass",
@@ -713,7 +717,7 @@
         "status": "idee",
         "woerter": null,
         "text": "Sorel ist tot. Varen hat ihn sterben lassen. Alphina will Rache — nicht Trauer zuerst, Zerstörung. Farne brechen durch den Basalt, Alphinas Trauer wächst buchstäblich. Vier Lebende und eine Druckerin in einer fremden Welt.",
-        "datei": "01-alphina.md"
+        "datei": ""
       },
       "02": {
         "titel": "Vesper: Die fremde Welt",
@@ -721,7 +725,7 @@
         "status": "idee",
         "woerter": null,
         "text": "Vesper übernimmt. Vier Menschen ohne Plan, Sprache oder Karte. Moragh: Farben zu satt, Luft zu dick. Bäume schwarz, glatt, warm. Die Moragh-Menschen — größer, feingliedriger. Vesper orientiert sich an den Monden.",
-        "datei": "02-sorel.md"
+        "datei": ""
       },
       "03": {
         "titel": "Maren: Wasser in der Fremde",
@@ -729,7 +733,7 @@
         "status": "idee",
         "woerter": null,
         "text": "Maren spürt einen Fluss unter dem Boden. Der Fluss fließt bergauf. Ihr Körper reagiert — das Wasser formt eine Mulde, ein Becken, Trinkwasser. Es kostet sie nichts. Stärker als in Vael.",
-        "datei": "03-vesper.md"
+        "datei": ""
       },
       "04": {
         "titel": "Runa: Die falsche Welt",
@@ -737,7 +741,7 @@
         "status": "idee",
         "woerter": null,
         "text": "Erste Runa-Perspektive. Ihr Druckerwerkzeug reagiert — Zinn schmilzt in ihrer Hand. Sie beobachtet die anderen: Alphina lässt Wälder wachsen, Vesper analysiert, Maren spricht mit Wasser. Und sie: eine Druckerin mit warmen Händen.",
-        "datei": "04-maren.md"
+        "datei": ""
       },
       "05": {
         "titel": "Alphina: Trauer als Wald",
@@ -745,7 +749,7 @@
         "status": "idee",
         "woerter": null,
         "text": "Erste Nacht. Im Schlaf bricht der Boden auf — Gras, Farne, Moos, Ranken. Am Morgen: ein Hain, zwölf Schritt Radius, Alphina barfuß in der Mitte. Sie hat nichts getan. Ihr Körper hat getrauert.",
-        "datei": "05-alphina.md"
+        "datei": ""
       },
       "06": {
         "titel": "Vesper: Struktur von Moragh",
@@ -753,7 +757,7 @@
         "status": "idee",
         "woerter": null,
         "text": "Drei Tage Fußmarsch. Bäume in Spiralen, Flüsse folgen Fibonacci, Monde kreisen im Verhältnis 4:33. Am dritten Tag: behauener Stein, ein Weg. Jemand lebt hier.",
-        "datei": "06-sorel.md"
+        "datei": ""
       },
       "07": {
         "titel": "Alphina: Elke",
@@ -776,7 +780,7 @@
         "woerter": null,
         "text": "Runa experimentiert nachts. Messing wird weich, formbar, glüht — Hitze aus ihren Händen. Sie formt eine Buchstabentype: ein A, perfekt. Elke: 'Feuer-Resonanz. Schwach, aber da.' Runa: 'Ich bin Druckerin.' Elke: 'Hier bist du mehr.'"
       },
-      "20b": {
+      "21": {
         "titel": "Vesper + Nyr: Zur Thar",
         "pov": "Vesper",
         "status": "idee",
@@ -810,6 +814,27 @@
         "status": "idee",
         "woerter": null,
         "text": "Elkes erste Wochen in der Bund-Stadt. Die Meisterin, die ihre Resonanz studieren will. Elke formt eine Schale aus Basalt — null Reservoirverlust. Die Meisterin: \"Bleib. Wir beschuetzen dich.\" Elke bleibt, baut aber ihren Garten ausserhalb der Stadt — nah genug zum Schutz, weit genug zur Flucht."
+      },
+      "I9": {
+        "titel": "Rückblende-Slot (tbd)",
+        "pov": "tbd",
+        "status": "idee",
+        "woerter": null,
+        "text": "Platzhalter für Rückblende. Inhalt wird später festgelegt — kann Moragh oder Thalassien sein."
+      },
+      "I11": {
+        "titel": "Rückblende-Slot (tbd)",
+        "pov": "tbd",
+        "status": "idee",
+        "woerter": null,
+        "text": "Platzhalter für Rückblende. Inhalt wird später festgelegt — kann Moragh oder Thalassien sein."
+      },
+      "I12": {
+        "titel": "Rückblende-Slot (tbd)",
+        "pov": "tbd",
+        "status": "idee",
+        "woerter": null,
+        "text": "Platzhalter für Rückblende. Inhalt wird später festgelegt — kann Moragh oder Thalassien sein."
       }
     }
   },
@@ -922,7 +947,7 @@
         "pov": "Talven",
         "status": "idee",
         "woerter": null,
-        "text": "Marktplatz, Hunderte Menschen. Talven verteilt Resonanz. Ein Tischler formt Holz mit bloßen Händen, eine Mutter heilt die Verbrennung ihres Kindes. Unter der Brille: beide Augen milchig. 'Resonanz für alle.'"
+        "text": "Marktplatz, Hunderte Menschen. Talven verteilt geladene Kristalle. Ein Tischler formt Holz mit bloßen Händen, solange er den Kristall hält; eine Mutter heilt die Verbrennung ihres Kindes. Talven hält die Hände in den Taschen — niemand sieht die Narben, niemand spürt die Kälte. 'Magie für alle.'"
       },
       "46": {
         "titel": "Iven: Das Interface",
@@ -950,7 +975,7 @@
         "pov": "Talven",
         "status": "idee",
         "woerter": null,
-        "text": "Die geerntete Resonanz ist eine Abstoßungsreaktion. Der Tischler kann nicht mehr formen. Die Mutter hat Nasenbluten. Doppelter Preis. Talven sieht es. Sagt sich: mehr ernten, besser verteilen. Beide Augen milchig."
+        "text": "Die verteilten Kristalle destabilisieren bei zu intensiver Nutzung. Der Tischler hat Schemen-Streifspuren am Arm — knochenkalter Schnitt ohne Blut. Die Mutter hat Albträume, ihr Kind weint die ganze Nacht. Plus: Schemen-Sog überall, wo Talven gebundene Schemen hat — Bäume welken, Brunnen werden schal. Talven sieht es. Sagt sich: präziser binden, besser verteilen. Macht weiter."
       },
       "50": {
         "titel": "Alphina: Der sterbende Hain",
@@ -971,14 +996,14 @@
         "pov": "Alphina",
         "status": "idee",
         "woerter": null,
-        "text": "Alphina findet Talven nachts im toten Hain, kniend, erntend. Milchige Augen, dünnes Haar, zitternde Hände. 'Du wächst einen Hain im Schlaf. Es kostet dich nichts. Ich bezahle mit Augen.' Er hat Recht. Und es ist falsch. Beides gleichzeitig."
+        "text": "Alphina findet Talven nachts in einem leeren Lagerraum, kniend vor seinen Kristallen. Messer, Schale, Leinen. Schmale weiße Linien quer auf dem linken Unterarm, parallel, in genauen Abständen. Hände kalt, als sie ihn fasst. 'Du wächst einen Hain im Schlaf. Es kostet dich nichts. Ich bezahle mit Blut.' Er hat Recht. Und es ist falsch. Beides gleichzeitig."
       },
       "53": {
         "titel": "Runa: Die Wahrheit drucken",
         "pov": "Runa",
         "status": "idee",
         "woerter": null,
-        "text": "Runa druckt Vespers Daten auf Moragh-Papier, in drei Sprachen. 'Wer zahlt für kostenlose Magie?' Talvens Geschichte, die Kosten der Resonanz-Ernte. Talven sieht die Druckbögen. 'Du druckst Lügen.' Runa: 'Ich drucke Zahlen.'"
+        "text": "Runa druckt Vespers Daten auf Moragh-Papier, in drei Sprachen. 'Wer zahlt für kostenlose Magie?' Talvens Geschichte, die Kosten der Schemen-Bindung — Schemen-Sog, destabilisierte Kristalle, Schemen-Streifspuren bei den 'Beschenkten'. Talven sieht die Druckbögen. 'Du druckst Lügen.' Runa: 'Ich drucke Zahlen.'"
       },
       "54": {
         "titel": "Vesper + Nyr: Bestien-Wahrheit",
@@ -1013,7 +1038,7 @@
         "pov": "Talven",
         "status": "idee",
         "woerter": null,
-        "text": "Talven an Elkes Grab. Hört auf zu ernten. Gibt Resonanz zurück. Fast blind, permanent zitternde Hände. Am nächsten Morgen: ein Grashalm im toten Hain. Einer. Talven sieht ihn nicht. Alphina schon."
+        "text": "Talven an Elkes Grab. Hört auf zu schneiden. Sammelt die Kristalle ein, löst die Bindungen einen nach dem anderen — jeder gelöste Schemen streift ihn im Wegtaumeln. Knochenkälte unter der Haut. Hände jetzt bis zu den Schultern kalt. Am nächsten Morgen: ein Grashalm im verdorrten Hain. Einer. Talven sieht ihn nicht. Alphina schon."
       },
       "59": {
         "titel": "Varen: Die dritte Quelle",

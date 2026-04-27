@@ -21,7 +21,7 @@
 - **Esther Voss / Jara Voss** — Archivarin und Nichte im Rathauskeller; Jara findet das gefälschte Manuskript zuerst.
 - **Tohl Daverin** — alter Fischer, sieht Anomalien auf der Grauwe, sagt nichts, zeigt es.
 - **Nyr** — Thar-Pilotin (Druck-Resonanz); Vespers Beziehung in Buch 2; wechselt die Seite als die Thar plant, Resonanz-Begabte permanent an Maschinen anzuschließen.
-- **Talven** — Bund-Lehrling in Moragh; lernt Resonanz zu ernten, wird unbeabsichtigt zum Volksverräter, bezahlt mit seinem Körper.
+- **Talven** — Bund-Lehrling in Moragh; entwickelt eigenständig Blutmagie + Schemen-Bindung (Selbstlehre, Privatwissen, niemand lehrt ihn). Verteilt geladene Kristalle, wird unbeabsichtigt zum Volksverräter, bezahlt mit Narben am Unterarm und kalten Händen.
 - **Edric Dahl** — Haron Dahls Geselle; echter Vaeler, weiß nicht dass Haron aus Moragh kam.
 
 ## Orte (Vael & Umgebung)
