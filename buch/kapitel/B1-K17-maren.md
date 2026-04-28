@@ -10,7 +10,7 @@ Er stand in der offenen Schiebetür, eine Hand am Rahmen, in der anderen ein Tuc
 
 "Guten Morgen." Seine Stimme war ruhig, eine Silbe nach der anderen. "Ich wollte die Uhr selbst bringen."
 
-Zwei Tage. Er hatte vier gesagt. Sie hatte sich auf vier eingerichtet, hatte die Tage mit Arbeit gefüllt, hatte das Holz geschnitten und nicht nachgezählt. Jetzt stand er nach zwei in der Tür, und etwas zwischen ihren Schlüsselbeinen rutschte einen halben Daumenbreit nach vorn und legte sich fest.
+Zwei Tage. Er hatte vier gesagt. Sie hatte sich auf vier eingerichtet, hatte die Tage mit Arbeit gefüllt, hatte das Holz geschnitten und nicht nachgezählt. Jetzt stand er nach zwei in der Tür, und etwas zwischen ihren Schlüsselbeinen rutschte einen Fingerbreit nach vorn und legte sich fest.
 
 Sie nickte. Legte den Hobel ab, sauber, Klinge nach oben, auf dem Platz auf der Werkbank, an dem er jeden Morgen lag. Wischte die Hände an der Schürze ab — die Hornspäne klebten an der Innenfläche, das war jetzt egal, aber es war die Bewegung, die Zeit verschaffte.
 
@@ -60,7 +60,7 @@ Sie wischte sich noch einmal die Hände. Drehte sich zu ihm. Er stand, wie er im
 
 "Was haben Sie mit der Standuhr in Tidemoor gemacht?"
 
-Seine Hand auf dem Werkbankholz wurde still. Die Luft, die er einzog, war einen halben Atemzug länger als nötig. Seine Schultern senkten sich um eine Nuance.
+Seine Hand auf dem Werkbankholz wurde still. Die Luft, die er einzog, war einen Atemzug länger als nötig. Seine Schultern senkten sich um eine Nuance.
 
 Er sah auf das Boot. Die offene Seite, die Spanten, die gestern eingebaute Planke. Dann auf sie.
 
@@ -110,13 +110,13 @@ Sie versuchte, das Bild wegzuschieben. Zweimal in dreißig Jahren hatte sie das 
 
 Weil sie es zuließ, wurde es schärfer. Draußen, vor ihr, lagen seine Hände auf dem Tuch. In ihrem Kopf lagen seine Fingerkuppen an ihrem Handgelenk innen. Der Schuppen um sie beide war weit weg, die Esse mit der Glut war weit weg. Das Ticken aus der Kajüte hörte sie nicht mehr. Nur der Becher in ihrer Hand stand noch in der Nähe, und durch das Steingut zog die Wärme in beide Richtungen.
 
-Ihre Lippen hatten sich ein wenig geöffnet. Sie schloss sie nicht hastig. Ihr Atem ging durch die Nase. Das Salz, das sie immer auf den Lippen hatte — Werftsalz, Seesalz, die Morgenluft — lag auf ihrer Oberlippe, sie konnte es schmecken, weil ihre Zunge sich einen halben Moment lang an die Innenseite der Oberlippe legte, und mit dem Salz kam ein feiner Geschmack von Metall, den sie schon aus der *Anker*-Stunde kannte.
+Ihre Lippen hatten sich ein wenig geöffnet. Sie schloss sie nicht hastig. Ihr Atem ging durch die Nase. Das Salz, das sie immer auf den Lippen hatte — Werftsalz, Seesalz, die Morgenluft — lag auf ihrer Oberlippe, sie konnte es schmecken, weil ihre Zunge sich kurz an die Innenseite der Oberlippe legte, und mit dem Salz kam ein feiner Geschmack von Metall, den sie schon aus der *Anker*-Stunde kannte.
 
 Er blinzelte einmal. Die Sekunde war zu Ende.
 
 Der Becher auf dem Tuch vor ihm war heiß. Die Oberfläche im Tee strudelte nicht mehr. Das Blatt hatte sich wieder gesetzt. Die Luft zwischen ihnen war dichter. Er sagte nichts zuerst. Als er sprach, war die Stimme dieselbe wie vorher — nicht warm, nicht kalt, nur gleichmäßiger vielleicht, als hätte er sie beim Sprechen nachgestellt.
 
-Sein Daumen bewegte sich am Becher auf dem Tuch, einmal, eine halbe Umdrehung. Das war die erste Bewegung, die er in seiner Hand machte, seit er zu ihr geschaut hatte.
+Sein Daumen bewegte sich am Becher auf dem Tuch, einmal, eine kleine Drehung. Das war die erste Bewegung, die er in seiner Hand machte, seit er zu ihr geschaut hatte.
 
 "Seit wann?"
 
@@ -140,7 +140,7 @@ Er stand auf. Es war nicht abrupt, aber es war endgültig. Er trank nicht. Er ha
 
 "Beides geht."
 
-Er ging zur Tür. Blieb eine halbe Sekunde im Rahmen stehen, drehte sich halb zurück. "Vesper." Er sagte es einmal, knapp. Dann war er draußen. Die Schritte auf dem Pflaster der Hafengasse wurden kleiner, stetig, nicht eilig.
+Er ging zur Tür. Blieb einen Augenblick im Rahmen stehen, drehte sich halb zurück. "Vesper." Er sagte es einmal, knapp. Dann war er draußen. Die Schritte auf dem Pflaster der Hafengasse wurden kleiner, stetig, nicht eilig.
 
 Sie saß auf der Kiste, den Becher zwischen den Händen, und hörte den Schritten nach, bis sie im Geräusch des Hafens untergingen.
 
@@ -148,7 +148,7 @@ Der Tee war jetzt warm. Sie trank einen Schluck. Schwarz, bitter hinten am Gaume
 
 ---
 
-Edric kam gegen elf zurück mit einem Armvoll Lärche vom Markt, rief ein Wort über die halbe Werft, sie rief ein Wort zurück. Er sagte etwas über den Preis, der heute hoch war, sie antwortete richtig, ohne hinzuhören. Er legte das Holz in die hintere Lagerseite, deckte es mit dem alten Segeltuch ab. Fragte, ob die Uhr da sei. Sie sagte: *In der Kajüte, eingebaut.* Er kletterte hoch, sah sie an, kam runter, nickte zufrieden. *Läuft.* Dann ging er an seine Werkbank, an sein eigenes Stück, das er seit Tagen mit sich herumtrug.
+Edric kam gegen elf zurück mit einem Armvoll Lärche vom Markt, rief ein Wort durch die Werft, sie rief ein Wort zurück. Er sagte etwas über den Preis, der heute hoch war, sie antwortete richtig, ohne hinzuhören. Er legte das Holz in die hintere Lagerseite, deckte es mit dem alten Segeltuch ab. Fragte, ob die Uhr da sei. Sie sagte: *In der Kajüte, eingebaut.* Er kletterte hoch, sah sie an, kam runter, nickte zufrieden. *Läuft.* Dann ging er an seine Werkbank, an sein eigenes Stück, das er seit Tagen mit sich herumtrug.
 
 Maren stand wieder am Boot. Nahm den Hobel. Die Planke, an der sie heute morgen gearbeitet hatte, wartete. Sie nahm die Spanne neu, setzte den Druck, zog ab. Drücken, kippen, abnehmen. Das Holz arbeitete mit, der Knoten lag jetzt hinter ihr, die Welle war raus.
 
@@ -158,7 +158,7 @@ Sie arbeitete bis zum späten Nachmittag. Das Licht im Schuppen wurde flach, der
 
 Am Abend ging sie an den Steg. Die Grauwe mündete hier in die Bucht, brackig, olivgrün, das Wasser stand so, wie es jeden Abend um diese Zeit stand, die Flut kam langsam. Zwei Möwen schrien weit draußen, ein Kutter lag am anderen Ufer, ein Schiffsmann zog Taue ein, die sich im Licht hob und senkte.
 
-Sie setzte sich auf die letzte Planke, die Füße über der Kante. Die Stiefel hingen zwei Fingerbreit über der Wasserfläche. Das Wasser unter dem Steg stand einen Moment ruhig. Dann, ohne dass sie den Blick darauf gerichtet hatte, zog sich eine kleine Mulde unter ihrer linken Sohle, ein handbreiter Sog gegen die Strömung der einlaufenden Flut, kaum sichtbar, der sich eine halbe Sekunde hielt und dann wieder glatt wurde. Das Wasser antwortete ihr, bevor sie gefragt hatte.
+Sie setzte sich auf die letzte Planke, die Füße über der Kante. Die Stiefel hingen zwei Fingerbreit über der Wasserfläche. Das Wasser unter dem Steg stand einen Moment ruhig. Dann, ohne dass sie den Blick darauf gerichtet hatte, zog sich eine kleine Mulde unter ihrer linken Sohle, ein handbreiter Sog gegen die Strömung der einlaufenden Flut, kaum sichtbar, der sich einen Augenblick hielt und dann wieder glatt wurde. Das Wasser antwortete ihr, bevor sie gefragt hatte.
 
 Sie bemerkte es. Sagte nichts. Legte die Hände auf die Oberschenkel und atmete.
 
