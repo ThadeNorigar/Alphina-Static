@@ -107,7 +107,7 @@ Halbinsel ins Graue Meer. Fluss **Grauwe** mündet hier — langsam, trüb, flie
 
 ### Physisch
 
-Der **Steinkreis** im Botanischen Garten — Purpurstein, kreisförmig, schon immer da. Pflanzen wachsen um den Kreis herum, nie hinein. In Moragh existiert ein Gegenstück — ein Steinplatz, gewartet, beschriftet, funktional. Der Steinplatz liegt nahe **Dravek**, einer mittleren Orath-Stadt (~2 Stunden Fußweg). Elke lebt in Dravek — spürt das Portal im Stein wenn es aktiv wird.
+Der **Steinkreis** im Botanischen Garten — Purpurstein, kreisförmig, schon immer da. Pflanzen wachsen um den Kreis herum, nie hinein. In Moragh existiert ein Gegenstück — ein Steinplatz, gewartet, beschriftet, funktional. Der Steinplatz liegt nahe **Dravek**, einer kleinen Orath-Stadt (~2 Stunden Fußweg). **Elke lebt nicht permanent an einem Ort:** in B2-K5/K6 trifft die Vier-Gruppe sie in **Narthek** (kleinere Orath-Stadt, ~136km östlich von Dravek), wo sie zur Zeit ihren Garten hat. Nach dem Thar-Angriff auf Narthek (B2-K7) flieht sie nach **Halvaren**. Sie spürt das Portal im Stein wenn es aktiv wird, auch über Distanz.
 
 ### Wie es funktioniert
 

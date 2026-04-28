@@ -1605,29 +1605,6 @@
     },
     {
       "tz": 551,
-      "tz_sort": 551.5,
-      "tz_datum": "26. Blütenmond 551 TZ",
-      "welt": "thalassien",
-      "pov": "Runa",
-      "buch": "B1",
-      "kapitel": "25",
-      "leseart": "normal",
-      "titel": "Runa: Tagträume in der Druckerei, Begehren für Alphina",
-      "detail": "Alphina besucht Runa in der Druckerei (Anlass: Flugblatt-Gespräch). Nachdem Alphina geht, bleibt Runa allein zurück. Tagträume, Selbstberührung bei Gedanken an Alphina. Queer Begehren wird bewusst. [Offen: Runas Vorgeschichte, Feuer-Resonanz-Seed bei Erregung, konkretes Ende.]",
-      "typen": [
-        "erotik",
-        "begegnung",
-        "charakter"
-      ],
-      "tags": [
-        "Runa-POV (bewusste Ausnahme, kein Interludium)",
-        "Runa queer begehrt Alphina",
-        "Mögliche Feuer-Resonanz-Keimung (offen)"
-      ],
-      "kapitel_status": "szenenplan"
-    },
-    {
-      "tz": 551,
       "tz_sort": 551.49,
       "tz_datum": "25. Blütenmond 551 TZ",
       "welt": "thalassien",
@@ -1670,6 +1647,29 @@
         "Ortswechsel vom alten Canon: Marens Wohnung statt Archiv",
         "Rhyme zu K19 (Hand auf Schulter, diesmal ohne Ausrede)",
         "Maren bleibt (Tschechow für K36)"
+      ],
+      "kapitel_status": "szenenplan"
+    },
+    {
+      "tz": 551,
+      "tz_sort": 551.5,
+      "tz_datum": "26. Blütenmond 551 TZ",
+      "welt": "thalassien",
+      "pov": "Runa",
+      "buch": "B1",
+      "kapitel": "25",
+      "leseart": "normal",
+      "titel": "Runa: Tagträume in der Druckerei, Begehren für Alphina",
+      "detail": "Alphina besucht Runa in der Druckerei (Anlass: Flugblatt-Gespräch). Nachdem Alphina geht, bleibt Runa allein zurück. Tagträume, Selbstberührung bei Gedanken an Alphina. Queer Begehren wird bewusst. [Offen: Runas Vorgeschichte, Feuer-Resonanz-Seed bei Erregung, konkretes Ende.]",
+      "typen": [
+        "erotik",
+        "begegnung",
+        "charakter"
+      ],
+      "tags": [
+        "Runa-POV (bewusste Ausnahme, kein Interludium)",
+        "Runa queer begehrt Alphina",
+        "Mögliche Feuer-Resonanz-Keimung (offen)"
       ],
       "kapitel_status": "szenenplan"
     },
@@ -2219,86 +2219,42 @@
       "buch": "B2",
       "kapitel": "01",
       "leseart": "normal",
-      "titel": "Drei-Tage-Marsch zum Lichtschein",
-      "detail": "Drei Tage nach Sorels Tod marschieren Alphina, Vesper, Maren und Runa zum Lichtschein, den sie am Ende von B1 gesehen haben. Fremde Flora am eigenen Leib, Harons Sprachbrocken passen nur halb, Runas Feuer hält Wunden.",
+      "titel": "Wanderung Steinplatz → Dravek",
+      "detail": "Drei Tage Fußmarsch. Schwarze warme Bäume, dichte Luft, satte Farben, zwei Monde. Keine Tiere, keine Insekten, keine Vögel — Stille. Sorel-Trauer und Hass im Schweigen. Maren spürt 2 km vom Steinplatz einen unregelmäßigen Riss im Untergrund: Wasser sickert aus der Quelle, ein zweiter dünner Punkt. Sie merkt es sich, sagt nichts.",
       "typen": [
-        "begegnung",
-        "hintergrund"
+        "ankunft",
+        "tschechow"
       ],
       "tags": [
-        "Lichtschein",
-        "Moragh-Ankunft"
+        "Stille-Welt",
+        "Wasserweg-Riss"
       ],
       "tz": 553,
-      "tz_sort": 552.6666666666666,
+      "tz_sort": 552.66,
       "tz_datum": "MZ 0.05 · TZ 553",
       "kapitel_status": "idee"
     },
     {
       "mz": 0.1,
       "welt": "moragh",
-      "pov": "Alphina",
-      "buch": "B2",
-      "kapitel": "01",
-      "leseart": "normal",
-      "titel": "Alphinas erster Schlaf-Hain",
-      "detail": "Alphina schläft am Feuer ein. Im Schlaf bricht der Boden um sie auf: Gras, Farne, Moos, Ranken in einem Kreis von zehn Metern. Am Morgen ein Hain. Sie hat nichts getan, nichts gewollt, kann es nicht wiederholen, nicht stoppen.",
-      "typen": [
-        "resonanz",
-        "tschechow"
-      ],
-      "tags": [
-        "Schlaf-Hain",
-        "Trauer als Wachstum"
-      ],
-      "tz": 554,
-      "tz_sort": 554.3333333333334,
-      "tz_datum": "MZ 0.10 · TZ 554",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 0.15,
-      "welt": "moragh",
       "pov": "Vesper",
       "buch": "B2",
       "kapitel": "02",
       "leseart": "normal",
-      "titel": "Vesper liest Moraghs Struktur",
-      "detail": "Vesper kartografiert. Bäume in Spiralen, Flüsse nach Fibonacci, zwei Monde im Verhältnis 4:33 — Varens Frequenz oder Moraghs eigene. Die Sonne: kein Feuerball, ein dunkler Kern mit gleissendem Ring.",
+      "titel": "Ankunft Dravek",
+      "detail": "Sprache lückenhaft (Harons Wörterbuch ist 400 TZ-Jahre alt). Magie als Alltag: Bauer formt Stein, Kind tanzt Wasser, Schmied schmilzt Eisen ohne Ofen. Schemen verrichten physische Arbeit für Menschen — heben Lasten, ziehen Karren, niemand ist beunruhigt. Eindrucksvoll: gewachsene Türme, Purpur-Augen. Resonanz spürbar stärker (Quell-Nähe).",
       "typen": [
-        "erkenntnis",
-        "tschechow"
+        "ankunft",
+        "welterklaerung"
       ],
       "tags": [
-        "4:33",
-        "Muster-Sinn"
+        "Dravek",
+        "Schemen-als-Arbeiter",
+        "Quell-Verstaerkung"
       ],
-      "tz": 556,
-      "tz_sort": 556.0,
-      "tz_datum": "MZ 0.15 · TZ 556",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 0.2,
-      "welt": "moragh",
-      "pov": "Runa",
-      "buch": "B2",
-      "kapitel": "04",
-      "leseart": "normal",
-      "titel": "Runas Feuer-Resonanz entdeckt",
-      "detail": "Runa hält ihren Schmelzlöffel — das Zinn wird weich in ihrer Hand, schmilzt ohne Ofen. Sie lässt ihn fallen. Später formt sie eine Messing-Type, ein perfektes A, aus der Hand. In Vael hätte sie dafür einen Schmelzofen gebraucht.",
-      "typen": [
-        "resonanz",
-        "erkenntnis",
-        "tschechow"
-      ],
-      "tags": [
-        "Feuer-Resonanz",
-        "Messing-Type"
-      ],
-      "tz": 558,
-      "tz_sort": 557.6666666666666,
-      "tz_datum": "MZ 0.20 · TZ 558",
+      "tz": 554,
+      "tz_sort": 554.33,
+      "tz_datum": "MZ 0.10 · TZ 554",
       "kapitel_status": "idee"
     },
     {
@@ -2306,17 +2262,17 @@
       "welt": "moragh",
       "pov": "Alphina",
       "buch": "B2",
-      "kapitel": "07",
+      "kapitel": "03",
       "leseart": "normal",
-      "titel": "Elke findet die Vier",
-      "detail": "Die Gruppe findet Elke van der Holt in ihrem Steingarten — vierhundert Jahre in Moragh, Pflanzen aus beiden Welten, Basalt den sie geformt hat. Sie legt die Hand auf Alphinas Schlaf-Hain: »Das kostet dich nichts, oder?«",
+      "titel": "Wochen in Dravek",
+      "detail": "Sie lassen sich Zeit. Sprache lernen ohne Guide: Vesper in der Bibliothek, Maren auf dem Markt, Alphina bei einem Heiler. Schemen-Lore: ohne Auftrag nie aggressiv, neugierig, manchmal von alleine auftauchend; nur Schemen mit Auftrag greifen an. Sie verstehen langsam: jede Stadt sitzt auf einer Quelle, Krieg läuft im Hintergrund.",
       "typen": [
-        "begegnung",
-        "tschechow"
+        "welterklaerung"
       ],
       "tags": [
-        "Elke",
-        "Dravek-Garten"
+        "Dravek",
+        "Schemen-Lore",
+        "Sprache"
       ],
       "tz": 561,
       "tz_sort": 561.0,
@@ -2326,69 +2282,46 @@
     {
       "mz": 0.4,
       "welt": "moragh",
-      "pov": "Maren",
+      "pov": "Vesper",
       "buch": "B2",
-      "kapitel": "08",
+      "kapitel": "04",
       "leseart": "normal",
-      "titel": "Das Portal ist zu — Maren spürt die Richtung",
-      "detail": "Maren sucht das Portal durch das Wasser. Sie fühlt den Punkt, wo die Welt dünn wird — aber geschlossen, Stein dahinter. Die Moragh-Seite hat eine eigene Mechanik. Wenn sie die Anleitung fände, könnte sie es von hier öffnen.",
+      "titel": "Hinweis auf Narthek + Reitschemen in Dulkara",
+      "detail": "Ein älterer Bewohner Draveks erwähnt eine Frau in Narthek, die noch das alte Thalassisch spricht. Aufbruch über Dulkara. In Dulkara helfen die Vier einem Rufer mit ihrer Magie; im Gegenzug ruft er ihnen zwei Reitschemen, die zwei Tage halten. Maren denkt im Stillen an den Wasserweg-Riss bei Dravek.",
       "typen": [
-        "portal",
-        "erkenntnis",
+        "begegnung",
         "tschechow"
       ],
       "tags": [
-        "Portal-geschlossen",
-        "Wasserresonanz"
+        "Narthek-Hinweis",
+        "Reitschemen",
+        "Dulkara"
       ],
       "tz": 564,
-      "tz_sort": 564.3333333333334,
+      "tz_sort": 564.0,
       "tz_datum": "MZ 0.40 · TZ 564",
       "kapitel_status": "idee"
     },
     {
-      "mz": 0.5,
+      "mz": 0.45,
       "welt": "moragh",
-      "pov": "Alphina",
+      "pov": "Maren",
       "buch": "B2",
-      "kapitel": "10",
+      "kapitel": "05",
       "leseart": "normal",
-      "titel": "Ankunft in der Bund-Stadt",
-      "detail": "Elke führt die Vier zwei Tage Marsch zur nächsten Bund-Stadt: gewachsene Türme, Straßen die sich verschieben, Brücken über bergauf fliessende Flüsse. Bewohner mit Purpur-, Weinrot- und schwarzen Augen. Staunen, Flüstern, zeigende Finger.",
+      "titel": "Wanderung Dulkara → Narthek, Begegnung Elke",
+      "detail": "Tagesritt durch fremde Landschaft. Ende des zweiten Tages lösen sich die Reitschemen auf, sie gehen das letzte Stück zu Fuß. Ankunft Narthek. Begegnung mit Elke van der Holt in ihrem Steingarten am Stadtrand: »Das kostet euch nichts, oder?«",
       "typen": [
         "begegnung",
         "tschechow"
       ],
       "tags": [
-        "Bund-Stadt",
-        "Hand greift"
+        "Narthek",
+        "Elke-Erstkontakt"
       ],
-      "tz": 568,
-      "tz_sort": 567.6666666666666,
-      "tz_datum": "MZ 0.50 · TZ 568",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 0.7,
-      "welt": "moragh",
-      "pov": "Vesper",
-      "buch": "B2",
-      "kapitel": "12",
-      "leseart": "normal",
-      "titel": "Talven, Drael und Nyr treten auf",
-      "detail": "Talven, dreiundzwanzig, schmaler Bibliotheks-Lehrling, bringt Vesper Tee und Reservoirkarten — hilfsbereit, schnell. Drael, Bund-Kommandant. Nyr, Thar-Emissärin in ihrer Magitech-Bestie: »Du bist der, der Muster sieht.«",
-      "typen": [
-        "begegnung",
-        "tschechow"
-      ],
-      "tags": [
-        "Talven",
-        "Nyr",
-        "Drael"
-      ],
-      "tz": 574,
-      "tz_sort": 574.3333333333334,
-      "tz_datum": "MZ 0.70 · TZ 574",
+      "tz": 565,
+      "tz_sort": 565.0,
+      "tz_datum": "MZ 0.45 · TZ 565",
       "kapitel_status": "idee"
     },
     {
@@ -2435,6 +2368,31 @@
       "kapitel_status": "idee"
     },
     {
+      "mz": 0.5,
+      "welt": "moragh",
+      "pov": "Alphina",
+      "buch": "B2",
+      "kapitel": "06",
+      "leseart": "normal",
+      "titel": "Elke — Akt-I-Schluss",
+      "detail": "Volles Elke-Kapitel. Sie hilft mit Geld, beschafft Quartier. Knapp zwölf Moragh-Monate hier — vierhundert Thalassien-Jahre. Die Vier sind zwei Moragh-Monate hier — »bei euch sind sechsundsechzig Jahre vergangen.« Welt-Mechanik (Quellen, Fraktionen, Krieg). Sie nimmt Runas Hand: »Feuer-Resonanz. Schwach, aber da.« Varen-Beat: Velmar-Forscher in den Grenzlanden, vor langer Zeit Experiment, Quellen tot. Elke hat ihm das alte Thalassisch beigebracht. »Er ist gefährlich.«",
+      "typen": [
+        "erkenntnis",
+        "tschechow",
+        "welterklaerung"
+      ],
+      "tags": [
+        "Elke-Erzählung",
+        "66-Jahre-Schock",
+        "Varen-erstmals-erwähnt",
+        "Akt-I-Schluss"
+      ],
+      "tz": 617,
+      "tz_sort": 617.0,
+      "tz_datum": "MZ 0.50 · TZ 617",
+      "kapitel_status": "idee"
+    },
+    {
       "tz": 618,
       "tz_sort": 617.6667666666666,
       "mz": 2.0,
@@ -2454,6 +2412,30 @@
         "TZ 618"
       ],
       "kapitel_status": ""
+    },
+    {
+      "mz": 0.55,
+      "welt": "moragh",
+      "pov": "Vesper",
+      "buch": "B2",
+      "kapitel": "07",
+      "leseart": "normal",
+      "titel": "Thar-Angriff Narthek",
+      "detail": "Akt-II-Auftakt. Thar-Angriff auf Narthek — bevor Elke fertig erklären kann. Vesper sieht Nyr auf dem Schlachtfeld, erste Magitech-Sichtung (40-Tonnen-Bestien gegen Bund-Rufer, Druck-Wellen brechen Türme). Brutal, blutig, dystopisch. Magitech als überlegene Tech sichtbar. Narthek fällt. Sie werden von Elke getrennt im Chaos. Flucht mit Bewohnern Richtung Westen.",
+      "typen": [
+        "begegnung",
+        "tschechow"
+      ],
+      "tags": [
+        "Thar-Angriff",
+        "Magitech",
+        "Nyr-erste-Sichtung",
+        "Elke-getrennt"
+      ],
+      "tz": 619,
+      "tz_sort": 619.0,
+      "tz_datum": "MZ 0.55 · TZ 619",
+      "kapitel_status": "idee"
     },
     {
       "mz": 2.05,
@@ -2478,6 +2460,51 @@
       "kapitel_status": "idee"
     },
     {
+      "mz": 0.65,
+      "welt": "moragh",
+      "pov": "Alphina",
+      "buch": "B2",
+      "kapitel": "08",
+      "leseart": "normal",
+      "titel": "Flucht-Marsch nach Halvaren",
+      "detail": "Flucht Narthek → Dulkara → Halvek → Halvaren. Alphina heilt Flüchtlinge unterwegs (Pflanzen-Substrate), Runa kocht Essen, Maren Wasser. Tausch gegen Reitschemen + fremde Früchte mit anderen Rufern. Halvaren als Ziel: große Stadt (kann Flüchtlinge tragen), große Bibliothek (Varen-Nachforschungen).",
+      "typen": [
+        "weltreise"
+      ],
+      "tags": [
+        "Flucht",
+        "Halvaren-Wahl",
+        "Alphina-Heilerin"
+      ],
+      "tz": 622,
+      "tz_sort": 622.0,
+      "tz_datum": "MZ 0.65 · TZ 622",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 0.7,
+      "welt": "moragh",
+      "pov": "Alphina",
+      "buch": "B2",
+      "kapitel": "09",
+      "leseart": "normal",
+      "titel": "Ankunft Halvaren — Talven",
+      "detail": "Erste ruhige Nacht seit zwei Monaten. Unterkunft auf Brachland am Rand: Alphina lässt Holzpflanzen und essbare Früchte wachsen, Maren formt einen Brunnen, Vesper beschleunigt das Wachstum mit Zeit-Resonanz — eine Hütte in Stunden. Runa Feuer zum Kochen. Bund-Älteste empfängt sie. Talven taucht auf — Bund-Lehrling, charming, »Lachen zu groß für sein Gesicht«.",
+      "typen": [
+        "ankunft",
+        "begegnung"
+      ],
+      "tags": [
+        "Halvaren",
+        "Talven-Erstkontakt",
+        "Hütte-gewachsen"
+      ],
+      "tz": 624,
+      "tz_sort": 624.0,
+      "tz_datum": "MZ 0.70 · TZ 624",
+      "kapitel_status": "idee"
+    },
+    {
       "mz": 2.2,
       "welt": "moragh",
       "pov": "Alphina",
@@ -2496,6 +2523,29 @@
       "tz": 624,
       "tz_sort": 624.3333333333334,
       "tz_datum": "MZ 2.20 · TZ 624",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 0.71,
+      "welt": "moragh",
+      "pov": "Maren",
+      "buch": "B2",
+      "kapitel": "10",
+      "leseart": "normal",
+      "titel": "Vesper + Maren — BDSM",
+      "detail": "Erste Nacht für sich seit Vael. Vesper fesselt sie, knebelt sie. Sie formt einen Wasser-Dildo, fickt sich damit selbst, während er zusieht. Er penetriert sie anal und nutzt Zeit-Modulation, um den Wasser-Dildo an ihrer Klitoris vibrieren zu lassen. Réage-Register, Care-Beats. Halvaren-Quartier, fremde Welt, ihre Verbindung als Konstante.",
+      "typen": [
+        "intim",
+        "BDSM"
+      ],
+      "tags": [
+        "Vesper-Maren-BDSM",
+        "Wasser-Dildo",
+        "Zeit-Modulation"
+      ],
+      "tz": 624,
+      "tz_sort": 624.5,
+      "tz_datum": "MZ 0.71 · TZ 624",
       "kapitel_status": "idee"
     },
     {
@@ -2946,6 +2996,28 @@
       "kapitel_status": "idee"
     },
     {
+      "mz": 1.0,
+      "welt": "moragh",
+      "pov": "Maren",
+      "buch": "B2",
+      "kapitel": "11",
+      "leseart": "normal",
+      "titel": "Halvaren — Wochen, Zweifel, Wasserweg",
+      "detail": "Wochen in Halvaren. Sprache vertieft. Erste soziale Ungerechtigkeiten sichtbar: Magier essen, Diener nicht; Hierarchie über Reservoir-Größe. Nach Monaten Magie-Überraschung kommen Zweifel. Maren erinnert an den Wasserweg — sie haben jetzt Jahrzehnte zuhause verloren. Alphina: nicht ohne Varen.",
+      "typen": [
+        "erkenntnis"
+      ],
+      "tags": [
+        "Halvaren",
+        "Zweifel",
+        "Maren-Wasserweg-Erinnerung"
+      ],
+      "tz": 720,
+      "tz_sort": 720.0,
+      "tz_datum": "MZ 1.00 · TZ 720",
+      "kapitel_status": "idee"
+    },
+    {
       "mz": 5.5,
       "welt": "moragh",
       "pov": "Alphina",
@@ -2988,6 +3060,29 @@
       "tz": 736,
       "tz_sort": 736.0,
       "tz_datum": "MZ 5.55 · TZ 736",
+      "kapitel_status": "idee"
+    },
+    {
+      "mz": 1.05,
+      "welt": "moragh",
+      "pov": "Runa",
+      "buch": "B2",
+      "kapitel": "12",
+      "leseart": "normal",
+      "titel": "Magie-Arbeit",
+      "detail": "Sie verdienen, integrieren sich. Runa in der Schmiede (formt Metall ohne Ofen, Buchstaben-Typen für eine Halvaren-Druckerei). Alphina in der Heilstätte (Wundheilung über Pflanzen-Substrate, Wachstum auf Feldern; lässt fremde essbare Früchte/Knollen/Wurzeln wachsen — sie erkennt was essbar ist). Maren am Aquädukt. Vesper in der Bibliothek (Mathematik, alte Karten, Spuren von Varen).",
+      "typen": [
+        "alltag"
+      ],
+      "tags": [
+        "Magie-Arbeit",
+        "Runa-Schmiede",
+        "Alphina-Heilung",
+        "essbare-Pflanzen"
+      ],
+      "tz": 738,
+      "tz_sort": 738.0,
+      "tz_datum": "MZ 1.05 · TZ 738",
       "kapitel_status": "idee"
     },
     {
@@ -3145,6 +3240,30 @@
         "TZ 2020"
       ],
       "kapitel_status": ""
+    },
+    {
+      "mz": 1.1,
+      "welt": "moragh",
+      "pov": "Alphina",
+      "buch": "B2",
+      "kapitel": "13",
+      "leseart": "normal",
+      "titel": "Elke wiedergetroffen — Varen",
+      "detail": "Elke wiedergetroffen in Halvaren — sie hat sich auch hierher gerettet, wohnt in einem Flüchtlings-Quartier. Erzählt zu Ende was in Narthek unterbrochen war: Varens Geschichte. Velmar-Forscher Mar-Keth, vor Jahren das Leylinien-Experiment, drei Quellen tot, ~200.000 Heimatlose. Velmar hat ihn verdeckt ausgestoßen, andere Fraktionen wissen nichts. Elke kennt ihn persönlich (sie hat ihm das alte Thalassisch beigebracht). Alphinas Hass formt sich neu — Name, Geschichte, Ziel.",
+      "typen": [
+        "erkenntnis",
+        "tschechow"
+      ],
+      "tags": [
+        "Elke-Wiedertreffen",
+        "Varen-Hintergrund",
+        "Mar-Keth-Experiment",
+        "Alphinas-Ziel"
+      ],
+      "tz": 757,
+      "tz_sort": 757.0,
+      "tz_datum": "MZ 1.10 · TZ 757",
+      "kapitel_status": "idee"
     },
     {
       "mz": 6.2,

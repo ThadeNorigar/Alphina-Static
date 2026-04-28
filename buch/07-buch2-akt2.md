@@ -1,131 +1,131 @@
-# Buch 2 — Akt II — Die Fraktionen (Seite 200–400, ~50.000 Wörter, 10 Kapitel + 2 Interludien)
+# Buch 2 — Akt II — Krieg & Halvaren (Seite 120–360, ~60.000 Wörter, ~16 Kapitel + Interludien)
 
-## Alphinas Kontroll-Status: LERNEND
+**Stand 2026-04-28:**
+- **K07–K13 festgeklopft** (neuer Plot: Thar-Angriff Narthek + Flucht + Halvaren).
+- **K14–K21 sind Diskussionsstand** — siehe `buch/_diskussion_b2_k14-k22.md`. Die folgenden K14-Sektionen sind alter Inhalt, der überprüft / festgeklopft werden muss.
+- Alter Aktplan archiviert in `buch/_archiv/07-buch2-akt2_vor_2026-04-28.md`.
 
-In Akt II beginnt Alphina ihre Resonanz zu verstehen. Tagsüber kann sie manchmal bewusst steuern — ein Baum auf Befehl, eine kontrollierte Vorführung. Aber die Schlaf-Haine bleiben UNBEWUSST. Das Dorf-Desaster (Kap 19) passiert im Schlaf. Die Unterscheidung ist zentral: was sie tagsüber tut, beginnt sie zu kontrollieren. Was nachts passiert, entzieht sich ihr völlig. Die Trauer wächst weiter, im Schlaf, ohne Bremse.
+## Alphinas Kontroll-Status: LERNEND → KÄMPFEND
+
+In Akt II beginnt Alphina ihre Resonanz aktiv einzusetzen. Erst defensiv (Heilen, Pflanzen wachsen lassen für Unterkunft, Flüchtlinge), dann offensiv (Bund-Auftrag, Vorführungen). Die Wut auf Varen macht ihre Magie schärfer. Tagsüber wachsende Kontrolle, in Wut-Momenten Kontrollverluste. Schlaf-Haine sind in B2 generell raus — ihre Magie ist nicht mehr passiv-unbewusst, sondern emotional getriggert (Wut-Hain wach, nicht im Schlaf).
 
 ## Struktur
 
-Die Fünf leben in der Bund-Stadt. Schutz, Ordnung, Sprache lernen — aber jeder Tag macht klarer: der Bund wollen etwas zurück. Die politische Landschaft entfaltet sich: Gilden (Tradition), Binder (Dämonen-Armee), Thar (Magie als Industrie). Jede Fraktion will die Resonanz-Begabten. Die Beziehungen verschieben sich: Alphina und Runa finden zueinander — tastend, unsicher, ohne Spielregeln. Vesper taucht in die Zeitstrukturen von Moragh ein. Maren findet Wasser das sie versteht. Alphinas Macht wächst — tagsüber zunehmend kontrolliert, nachts weiterhin unkontrolliert.
+Akt II beginnt mit dem Thar-Angriff auf Narthek (K7) — Bevor Elke fertig erklären kann, wer Varen ist, fällt die Stadt. Magitech als überlegene Tech sichtbar. Flucht-Marsch über Dulkara, Halvek nach Halvaren — wegen Größe (Flüchtlinge tragbar) und Bibliothek (Varen-Nachforschungen). In Halvaren Ankunft (K9), erste ruhige Nacht in einer selbstgewachsenen Hütte; Talven taucht auf. K10: BDSM-Nacht Vesper+Maren. K11–K13: Wochen in Halvaren, Magie-Arbeit, Elke wiedergetroffen, Varen-Geschichte zu Ende erzählt. — Ab K14: Diskussionsstand (Maren-Wasserweg-Bestätigung, Bund-Politik, Nyr-Wiederbegegnung, Vesper-Übertritt am Akt-Schluss).
 
 ## Kapitelplan
 
-### Kap. 11 — Alphina (S. 200–218, ~4.500 Wörter)
-*Die Bund-Stadt. Leben lernen.*
+### Kap. 7 — Vesper (S. 120–142, ~5.500 Wörter)
+*Thar-Angriff auf Narthek. Magitech.*
 
-Drei Wochen in der Stadt. Alphina hat ein Zimmer mit Fenster zum Garten der Ältesten. Die Pflanzen dort wachsen schneller seit sie eingezogen ist — die Älteste sagt nichts, aber ihre Gärtner notieren jede Veränderung. Alphinas Alltag: Sprache lernen (Elke als Lehrerin, Geduld und Wiederholung), die Stadt begreifen (gewachsene Türme, lebende Brücken, Straßen die sich nachts verschieben). Die Trauer um Sorel: nicht weg, aber tiefer. Unter der Oberfläche. Ein Wurzelwerk.
+Akt-II-Auftakt. Bevor Elke fertig erklären kann, wer Varen ist, beginnen die Hörner draußen. Thar-Angriff auf Narthek — orchestrierter Vorstoß, mehrere Magitech-Bestien, Druck-Wellen die Türme brechen. Vesper sieht **Nyr** auf dem Schlachtfeld, ihre Bestie **Kessler** (40 Tonnen, Druck-Resonanz, drei Mann Besatzung). Bund-Rufer rufen Schemen — Schemen-Soldaten (mit Auftrag, also aggressiv, anders als die Stadt-Schemen die die Vier in Dravek gesehen haben). Magitech zerlegt sie systematisch.
 
-Eingebettet: Runa am Frühstückstisch. Ihre Hände um die Tasse — immer warm. Alphina bemerkt es. Denkt nichts dabei. Noch nicht.
+**Brutal, blutig, dystopisch.** Magitech als überlegene Tech sichtbar — sie ist nicht magisch in der Art wie der Bund magisch ist, sie ist Industrie. Narthek fällt. Im Chaos werden die Vier von Elke getrennt. Sie fliehen mit anderen Bewohnern Richtung Westen.
 
-### Kap. 12 — Vesper (S. 218–234, ~4.000 Wörter)
-*Muster und Zeit.*
+POV-Wahl: Vesper, weil er die Magitech als erstes liest und versteht (Muster-Sinn). Plus: er sieht Nyr aus der Ferne, ohne dass sie ihn sieht — Tschechow für ihre Wiederbegegnung.
 
-Vesper in der Bund-Bibliothek. Bücher die er nicht lesen kann — aber die Muster darin versteht er. Zeitdiagramme. Magiefluss. Reservoirkarten. Er legt die Hand auf eine Seite und sieht: Zeitlinien, überlappend, geschichtet. Moraghs Zeit ist nicht linear — sie spiralt. Vergangenheit und Zukunft liegen nebeneinander. Vesper sieht die Naht. An manchen Stellen ist die Zeit dünn, wie die Grenze zwischen den Welten.
+### Kap. 8 — Alphina (S. 142–162, ~5.000 Wörter)
+*Flucht-Marsch nach Halvaren.*
 
-Ein Bund-Gelehrter beobachtet ihn. Fasst sich an die Brust. "Wie machst du das?" Vesper: "Was?" Der Gelehrte: "Du liest die Zeit. Ohne Reservoir. Ohne Preis."
+Flucht Narthek → Dulkara → Halvek → Halvaren (etwa 2 Wochen Marsch mit Flüchtlingsgruppe). Alphina heilt Flüchtlinge unterwegs — Wundheilung über Pflanzen-Substrate, sie hat das in Dravek beim Heiler gelernt und wendet es jetzt unter Druck an. Runa kocht Essen mit ihrer Hitze-Resonanz (effizient, ohne Holz). Maren formt Brunnen aus dem Untergrund-Wasser für die Gruppe.
 
-Eingebettet: Ein junger Lehrling bringt Vesper Tee und einen Stapel Karten, die er nicht bestellt hat. **Talven.** Dreiundzwanzig, schmal, ein Lachen das zu groß ist für sein Gesicht. "Elke hat gesagt du brauchst die Reservoirkarten aus dem Südarchiv. Stimmt das?" Vesper nickt. Talven kennt die Bibliothek wie seine Taschen — zeigt Vesper die richtigen Regale, übersetzt Beschriftungen, erklärt die Ordnung. Hilfsbereit. Schnell. Der Typ der Probleme löst bevor man sie ausspricht.
+Die Vier tauschen Hilfe gegen Reitschemen + fremde Früchte mit anderen Rufern in den Dörfern entlang der Route — sie kommen so schneller voran, eingebettet in eine Solidaritäts-Logik der flüchtenden Bevölkerung. Wahl Halvaren als Ziel: nicht nur weil große Stadt Flüchtlinge tragen kann (Quellen-Größe entscheidet, kleine Städte schicken sie weiter), sondern weil **Halvaren eine große Bibliothek hat** — sie wollen über Varen nachforschen, jetzt da sie einen Namen haben.
 
-### Kap. 13 — Maren (S. 234–250, ~4.000 Wörter)
-*Der Fluss der bergauf fließt.*
+### Kap. 9 — Alphina (S. 162–184, ~5.500 Wörter)
+*Ankunft Halvaren. Talven.*
 
-Maren verlässt die Stadt. Allein, flussaufwärts — oder flussabwärts, die Richtung wechselt. Der Fluss gehorcht ihr: formt Brücken, teilt sich, trägt sie. Zum ersten Mal seit dem Durchgang fühlt sie sich nicht gefangen. Das Wasser kennt keine Grenzen — es fließt zwischen den Welten, durch den Boden, durch die Zeit. An einer Flussbiegung: ein Ort wo das Wasser still steht. Vollkommen still. Sie spürt die Richtung zum Portal — geschlossen, aber da. Die Moragh-Seite hat eine eigene Mechanik. Wenn sie die Anleitung fände, könnte sie es von HIER öffnen.
+Ankunft Halvaren. **Erste ruhige Nacht seit zwei Monaten** (seit Sorels Tod und Ankunft in Moragh). Halvaren ist groß, organisch, halbwegs gefestigt — die Bund-Älteste in Halvaren empfängt die Gruppe persönlich, sieht sofort die Vier mit ihrer Magie. Sie weist ihnen ein Brachland am Stadtrand zu, *„dort könnt ihr euch einrichten."*
 
-Eingebettet: Vael. Das Boot. Drei Viertel fertig. "Warte auf mich." — aber von welcher Seite?
+**Die Vier wachsen sich in Stunden eine Hütte:** Alphina lässt Holzpflanzen und essbare Früchte wachsen (Knollen, Wurzeln, Beerenbüsche — sie erkennt was essbar ist und was nicht), Maren formt einen Brunnen aus dem Untergrund-Wasser, Vesper beschleunigt das Wachstum mit seiner Zeit-Resonanz. Runa entzündet das erste Feuer zum Kochen. Innerhalb eines Tages haben sie ein Zuhause.
 
-### Kap. 14 — Runa (S. 250–264, ~3.500 Wörter)
-*Die Schmieden der Stadt.*
+**Talven taucht auf** — Bund-Lehrling in Halvaren, charming, hilfsbereit, *„Lachen zu groß für sein Gesicht"*. Er bringt Werkzeug, das sie nicht haben, zeigt ihnen die Stadt, übersetzt Bund-Dialekt-Nuancen. Erstkontakt. Schlaf.
 
-Runa findet die Bund-Schmiede. Kein Feuer — die Schmiede hier formen Metall durch Magie. Hände auf Eisen, Konzentration, Schweiß. Es kostet sie: der Schmied taumelt nach einer Stunde, isst, schläft. Runa beobachtet. Legt die Hand auf einen Eisenbarren. Er wird warm. Der Schmied starrt. Runa: "In meiner Welt mache ich das mit einem Ofen." Der Schmied: "Du brauchst keinen Ofen."
+### Kap. 10 — Maren (S. 184–204, ~5.000 Wörter)
+*Vesper + Maren. BDSM.*
 
-Abends: ein Gespräch mit Elke. "Die Thar — sie arbeiten wie ich. Druck, Metall, Feuer. der Bund beschwören Wesen. Die Thar formen Materie." Elke: "Die Thar formen Menschen. Vergiss das nicht."
+**Eigenes Kapitel.** Erste Nacht für sich seit Vael. In ihrer gewachsenen Hütte am Stadtrand. Vesper und Maren — sie haben in den zwei Moragh-Monaten nichts mehr gehabt, was nur ihnen gehört.
 
-### Interludium III (~S. 270, ~2.000 Wörter)
-*Elke und die Bund-Meisterin. Das Angebot.*
+Er fesselt sie. Knebelt sie. Sie formt einen Wasser-Dildo aus dem Brunnen-Wasser — fickt sich damit selbst, während er zusieht und Distanz hält. Dann penetriert er sie anal. Plus: er nutzt seine Zeit-Modulation, um den Wasser-Dildo an ihrer Klitoris in Mikro-Frequenzen vibrieren zu lassen. Réage-Register, Kuang/SenLinYu-Präzision, Care-Beats (er bleibt da, prüft, fragt nach jedem Schritt).
 
-Elkes erste Wochen in der Bund-Stadt. Die Meisterin die ihre Resonanz studieren will. "Lass mich sehen wie du formst." Elke formt eine Schale aus Basalt. Hand auf Stein, der Stein gibt nach. Die Meisterin misst: kein Reservoirverlust. Null. "Das ist unmöglich." Elke: "Ich bin nicht von hier." Die Meisterin: "Bleib. Wir beschützen dich." Elke bleibt. Aber sie baut ihren Garten außerhalb der Stadt. Nah genug zum Schutz. Weit genug zur Flucht.
+Halvaren-Quartier, fremde Welt, ihre Verbindung als einzige Konstante. Tonal: präzise, hingebungsvoll, kein Genuss-Schauwert. Memory: Vesper+Maren BDSM-Stil aus B1-K17/K20/K27 etabliert (Werftsalz-Register Marens, Vesper-Präzision). Hier vertieft.
 
-### Kap. 15 — Alphina (S. 274–294, ~5.000 Wörter)
-*Das Angebot des Bundes.*
+POV-Wahl: Maren, weil sie die Sub-Position hat und ihr Verhältnis zu Vesper aus dieser Nacht heraus geprüft wird — wenn sie ihn kurz darauf in K11+ langsam an Nyr/Thar verliert, baut der Bruch auf dieser Nacht auf.
 
-Die Älteste bittet zum Gespräch. Formell, höflich, ein Raum mit lebenden Wänden (die Wände atmen, wachsen, reagieren auf Stimmung). der Bund bieten alles: Schutz, Status, Wissen, ein Zuhause. Im Gegenzug: kämpft für uns. die Velmar rücken vor. Drei Städte verloren im letzten Monat. Die Bund-Beschwörer sind erschöpft — ihre Reservoire leer, ihre Körper verbraucht. Alphina, die einen Wald wachsen lassen kann ohne müde zu werden, ist nicht Hilfe. Sie ist Rettung. Aber Alphina kann ihre Resonanz noch nicht gezielt einsetzen — tagsüber reagieren Pflanzen auf sie, aber bewusste Kontrolle hat sie erst in Ansätzen. Sie BEGINNT zu verstehen, kann manchmal einen Baum wachsen lassen wenn sie sich konzentriert. Aber verlässlich? Nein. Noch nicht.
+### Kap. 11 — Maren (S. 204–222, ~4.500 Wörter)
+*Halvaren — Wochen, Zweifel, Wasserweg.*
 
-Alphinas Gedanken: Sorel ist tot weil jemand ihre Resonanz wollte. Und jetzt will der nächste.
+Wochen in Halvaren. Sprache vertieft, sie können selbst sprechen. **Erste soziale Ungerechtigkeiten sichtbar:** Magier essen, Diener nicht; Hierarchie über Reservoir-Größe. Bund-Bürger mit großem Reservoir leben in Türmen, Niedrig-Begabte schlafen in Mehrhausquartieren ohne fließend Wasser. Bei Bund-Festen sind die Niedrigen Diener, nicht Gäste.
 
-Eingebettet: Talven übersetzt. Steht neben der Ältesten, flüstert Alphina die Nuancen zu die sie im Bund-Dialekt noch nicht versteht. Hilfsbereit, unauffällig, die perfekte Brücke. Als Alphina aufsteht und den Raum verlässt — draußen im Gang: die Wände haben Moos angesetzt seit sie den Raum betreten hat. Zehn Minuten, Moos auf Stein. Talven steht daneben, sieht es, sein Gesicht — einen Moment lang, bevor er lächelt. Nicht Ehrfurcht. Nicht Angst. HUNGER. Die Augen eines Menschen der zusieht wie jemand anderes atmet und dafür alles bekommt was er sich wünscht. Alphina sieht es nicht. Sie geht weiter. Talven lächelt schon wieder.
+Nach Monaten Magie-Überraschung kommen jetzt **Zweifel**. Das Bund-System ist nicht das, was die Älteste in Narthek vorgeführt hat. Maren erinnert die anderen an den **Wasserweg-Riss bei Dravek** — sie haben jetzt schon Jahrzehnte zuhause verloren, jeder weitere Monat ist verloren. Alphina: *„Nicht ohne Varen."* Spannung in der Gruppe — zum ersten Mal explizit. Vesper schweigt, hört zu. Runa schaut Alphina an.
 
-### Kap. 16 — Alphina + Runa (S. 294–314, ~5.000 Wörter)
-*Nacht. Gespräch. Anfang.*
+POV-Wahl: Maren, weil sie das Wasserweg-Motiv trägt und der Konflikt mit Alphina hier explizit wird.
 
-Alphina kann nicht schlafen. Auf dem Dach, Nacht, zwei Monde. Runa kommt hoch — auch schlaflos, Hände um eine Tasse die längst kalt sein müsste und es nicht ist. Sie reden. Zum ersten Mal richtig. Nicht über Moragh, nicht über Macht — über Vael. Die Druckerei. Den Geruch von heißem Blei. Runas Lachen: zu laut, zu plötzlich, ein Riss in der Dunkelheit.
+### Kap. 12 — Runa (S. 222–242, ~5.000 Wörter)
+*Magie-Arbeit.*
 
-Alphinas Gedanken: die Art wie Runa die Tasse hält. Kein Spiel. Kein Wissen. Runa hat keine Ahnung was sie tut. Das ist das Gegenteil von Sorel. Sorel wusste immer. Runa weiß nichts. Alphina auch nicht. Das ist neu.
+Sie verdienen, integrieren sich in Halvaren. **Runa in der Schmiede** — sie formt Metall ohne Ofen, der Schmied bezahlt sie pro Stück. Sie formt Buchstaben-Typen für eine Halvaren-Druckerei — ihre Druckerinnen-Kompetenz und ihre Feuer-Resonanz treffen sich. **Alphina in der Heilstätte** — Wundheilung über Pflanzen-Substrate, Wachstum auf Bund-Feldern; lässt fremde essbare Früchte, Knollen und Wurzeln wachsen, erkennt was essbar ist und was nicht. **Maren am Aquädukt** — Wasser-Pumpen, Strömungs-Korrekturen, sie hilft den städtischen Wasser-Magiern, deren Reservoir-Verbrauch zu reduzieren. **Vesper in der Bibliothek** — Mathematik, alte Karten, Muster, sucht systematisch Spuren von Varen.
 
-Eine Berührung — Runas Hand auf Alphinas Arm, kurz, zum Punkt machen. Alphinas Haut: warm. Nicht von Runas Feuer. Oder doch.
+Disproportion sichtbar: was Bund-Magier müde macht, kostet die Vier nichts. Bund-Schmiede taumeln nach einer Stunde, Runa formt stundenlang. Bund-Heiler brauchen Tage Erholung, Alphina nicht.
 
-### Kap. 17 — Vesper (S. 314–330, ~4.000 Wörter)
-*Der Velmar-Spion.*
+POV-Wahl: Runa, weil sie in der Magie-Arbeit am stärksten ihre Identität verschiebt (von Druckerin zu Schmiedin-mit-Resonanz).
 
-Vesper sieht das Muster. Ein Bund-Gelehrter der Fragen stellt die kein Gelehrter stellen würde — nach Reservoirkapazität, nach der genauen Art von Alphinas Resonanz, nach dem Mechanismus. Vesper folgt ihm. Nachts, durch die Straßen die sich verschieben. Der Gelehrte trifft jemanden am Stadtrand — eine Gestalt, feingliedrig, purpurne Augen, mit gebundenen Wesen die wie Schatten an ihr haften. Ein Binder. Der Spion liefert Informationen. Vesper beobachtet. Zählt die Züge.
+### Kap. 13 — Alphina (S. 242–262, ~5.000 Wörter)
+*Elke wiedergetroffen — Varen.*
 
-Entscheidung: sofort melden oder warten und mehr erfahren. Vesper wartet. Drei Züge voraus denken.
+Elke wiedergetroffen in Halvaren — sie hat sich auch hierher gerettet, wohnt in einem Flüchtlings-Quartier am Rand, formt kleine Stein-Skulpturen für Geld. Sie sieht Alphina kommen, nickt: *„Ich wusste, ihr findet hierher."*
 
-### Kap. 18 — Vesper (S. 330–346, ~4.000 Wörter)
-*Die Thar-Emissärin.*
+**Elke erzählt zu Ende, was in Narthek unterbrochen war: Varens Geschichte.** Velmar-Forscher, Mar-Keth-Herkunft. Vor Jahren ein Leylinien-Experiment, das durchschlug — drei Quellen tot (Mar-Keth, Dulrath-Ost, Reshkol), ungefähr zweihunderttausend Menschen heimatlos. Velmar hat ihn verdeckt ausgestoßen, andere Fraktionen wissen nichts davon. Er ist ein Schatten in den Grenzlanden, operiert allein, mit einer Handvoll Velmar-Deserteuren. **Elke kennt ihn persönlich** — sie hat ihm das alte Thalassisch beigebracht, vor langer Zeit. Sie weiß nicht alles über sein Experiment (Velmar-Cover-Up), aber sie weiß: er macht weiter.
 
-Nyr kommt als Emissärin der Thar. In ihrer Magitech-Bestie. Boden bebt, Pflanzen weichen zurück, Vespers Uhren vibrieren. Sie steigt aus. Kleiner als erwartet. Hände verbrannt, Metallstaub in den Augen, ein Geruch nach heißem Eisen. "Du bist der der Muster sieht." Keine Frage.
+**Alphinas Hass formt sich neu.** Sie hat einen Namen, eine Geschichte, einen Hintergrund. Ein Ziel. Sie will dorthin, wo er ist. Aber sie weiß nicht, wo er ist. Elke: *„Ihr werdet ihn finden. Oder er euch."*
 
-Vesper will sich nicht instrumentalisieren lassen — weder vom Bund noch von Alphinas Rache. Nyr überzeugt ihn: die Thar haben Ordnung, Struktur. Er sieht ihre Fehler, akzeptiert sie. "Jedes System hat Fehler. Die Thar benennen ihre." Vesper geht mit Nyr zu den Thar — bewusste Wahl, nicht Entführung. Er will verstehen, nicht kämpfen.
-
-### Kap. 19 — Alphina (S. 346–368, ~5.500 Wörter)
-*Das Dorf. Der Schlaf-Wald.*
-
-Die Gruppe besucht ein Bund-Dorf, drei Stunden von der Stadt. Vorführung: die Älteste will Alphinas Resonanz zeigen. Alphina pflanzt — ein Baum, bewusst konzentriert, in zehn Minuten. Tagsüber kann sie es jetzt manchmal steuern. Die Dorfbewohner schweigen. Dann Applaus, dann Ehrfurcht, dann Angst. Nachts, im Gasthaus: Alphina schläft. Am Morgen ist das halbe Dorf überwuchert. Farne durch Fenster, Moos über Dächer, Ranken die Türen blockieren. Kein Schaden — aber die Botschaft: was Alphina TAGSÜBER beginnt zu kontrollieren, entzieht sich ihr NACHTS völlig. Die Schlaf-Haine sind unbewusst. Die Trauer wächst im Schlaf weiter, ohne Bremse.
-
-Die Dorfbewohner evakuieren. Nicht vor den Bindern. Vor ihr.
-
-Alphinas Gedanken: Sorels Tod hat etwas geöffnet. Tagsüber kann sie es manchmal halten. Nachts bricht es durch.
-
-Eingebettet: Talven ist mitgekommen. Am Morgen, als alle den Schlaf-Wald anstarren, steht er am Rand und berührt eine der Ranken. Konzentriert sich. Sein Reservoir — mittelmäßig, ein Beschwörer-Lehrling — reicht für ein schwebendes Steinchen. Die Kopfschmerzen kommen nach dreißig Sekunden. Er lässt los. Reibt sich die Schläfen. Sieht den Hain, der eine Nacht alt ist und aussieht wie hundert Jahre. Kostenlos. Im Schlaf.
-
-Talven kocht Frühstück für alle. Bringt Alphina Tee. Lächelt. Sein Lachen ist zu groß für sein Gesicht und jeder mag ihn dafür.
-
-### Interludium IV (~S. 375, ~2.000 Wörter)
-*Elke legt den Garten an.*
-
-Elke formt den Fels für ihren Garten. Jeden Tag ein Stück. Erde aus Stein, Mulden für Wasser, Terrassen für Pflanzen. Es kostet sie nichts. Der Basalt gehorcht ihren Händen wie Ton. Ein Garten der wächst — Pflanzen aus beiden Welten, Stein den sie geformt hat, ein Haus das aus dem Fels gewachsen ist. Ihre Hände auf dem Stein, und der Stein gibt nach.
-
-### Kap. 20 — Alphina + Runa (S. 378–400, ~5.500 Wörter)
-*Zwei Menschen die nicht wissen was sie tun.*
-
-Nach dem Dorf-Desaster: Alphina zieht sich zurück. Runa folgt. Nicht aus Mut — aus Instinkt. Findet Alphina im Garten, allein, die Pflanzen wild um sie herum. "Du hast Angst vor dir selbst." Alphina: "Nicht vor mir. Vor dem was ich im Schlaf mache." Runa setzt sich neben sie. Ihre Schulter an Alphinas. Wärme. Nicht Feuer-Resonanz — Körperwärme, menschlich, einfach.
-
-Sie küssen sich. Ungeschickt, zu schnell, mit geschlossenen Augen. Keine Farne wachsen. Kein Wald bricht aus. Nur zwei Münder und der Geschmack von Moragh-Tee. Alphinas Gedanken danach: bei Sorel hat die Welt geblüht. Bei Runa ist sie still. Beides macht ihr Angst. Aber die Stille mehr.
-
-Eingebettet: der Velmar-Spion wird enttarnt. Vesper hat gewartet, drei Züge voraus. Die Älteste verbannt den Spion. Aber die Information ist draußen: vier Resonanz-Begabte, kostenlos, unkontrolliert.
-
-### Maren und Vesper — Die Trennung
-
-Maren findet die Karte und Anleitung für die Moragh-Seite des Portals. Den Rückweg. Sie und Vesper sind zusammen als sie es entdeckt. Vesper entscheidet sich zu bleiben — Moragh, Nyr, die Thar. Maren entscheidet sich zu gehen — Thalassien, Forschung, allein. Sie öffnet das Portal von Moragh-Seite (Ritual + Magie). Geht durch nach Thalassien. ~1910. Allein hat sie dort zu wenig Magie um zurückzukommen. Gestrandet. Absichtlich. Gründet die **Schwellenforschungsgesellschaft.**
-
-### Alphina wird zur Waffe
-
-Der Bund setzt Alphina offensiver ein. Erst Verteidigung: Schlaf-Haine als Befestigung, Wurzeln als Mauern. Dann Angriff: Wurzeln die feindliche Stellungen durchbrechen. Alphina hört auf Fragen zu stellen. Der Hass auf Varen fühlt sich produktiv an. Der Bund gibt ihr Ziele und sie zerstört sie.
+Alphina denkt zum ersten Mal: was Sorel zugestoßen ist, ist Teil von etwas Größerem. Sie fragt nicht offen, aber sie versteht: Varen hat sie nach Vael geködert. Sie alle. Tschechow für B3.
 
 ---
 
-## Tschechow'sche Waffen in Akt II
+## Diskussionsstand K14–K21
+
+**Diese Kapitel sind nicht festgeklopft.** Inhalte siehe `buch/_diskussion_b2_k14-k22.md`. Die folgenden Sektionen sind alter Stand, der gegen den neuen Plot abgeglichen werden muss:
+
+### Kap. 14 — Maren (Diskussionsstand)
+*Wasserweg-Bestätigung mit Elke / oder heimliche Reise zurück.*
+
+### Kap. 15 — Runa (Diskussionsstand)
+*Schmiede-Disproportion öffentlich, Talvens Hunger-Blick.*
+
+### Kap. 16 — Alphina (Diskussionsstand)
+*Bund-Älteste in Halvaren bietet alles (Schutz/Status/Wissen) für „kämpf für uns gegen die Thar". Alphina willigt ein — Sorel-Logik, sie nutzt ihre Resonanz als Waffe. Talvens Hunger-Blick.*
+
+### Kap. 17 — Alphina+Runa (Diskussionsstand)
+*Intim. Hitzig, FWB. Runas Schwur: „Ich folge dir, wo immer du gehst, auch wenn ich dabei sterbe." Tschechow für K21.*
+
+### Kap. 18 — Vesper (Diskussionsstand)
+*Bund-Gelehrter trifft Velmar-Binder, Vesper beobachtet. Drei Züge voraus.*
+
+### Kap. 19 — Vesper (Diskussionsstand)
+*Nyr kommt nach Halvaren. Persönliche Begegnung Vesper-Nyr (er kennt sie aus dem Narthek-Schlachtfeld). „Die Thar benennen ihre Fehler. Der Bund nicht." Vesper fasziniert. Maren erkennt: sie verliert ihn.*
+
+### Kap. 20 — Alphina (Diskussionsstand)
+*Erste Bund-Vorführung in einem Dorf bei Halvaren. Wut-Hain wach (Bund-Heuchelei oder Sorel-Erinnerung als Auslöser). Halbes Dorf überwuchert. Bewohner evakuieren vor ihr. Talvens Hunger-Blick.*
+
+### Kap. 21 — Maren (Diskussionsstand)
+*Marens Abschied. Sie informiert über Wasserweg. Alphina will Varen nicht aufgeben. Runas Schwur aus K17 zündet — sie bleibt. Vesper ist außerhalb. Maren geht Richtung Dravek.*
+
+### Kap. 22 — Vesper (Diskussionsstand, Akt-II-Schluss)
+*Vesper kommt zurück, erfährt von Marens Abgang. Macht sich Vorwürfe (Alphina hätte was sagen können). Frustriert. Trifft Nyr wieder, folgt zur Thar. Druck-Magie an der Metallwand, blaue Flecken aus Luft.*
+
+---
+
+## Tschechow'sche Waffen Akt II (festgeklopfter Teil K07–K13)
 
 | Detail | Akt II | Feuert in |
-|--------|--------|-----------|
-| Maren spürt die Richtung zum Portal | Kap 13 — Das Wasser zeigt den Weg | Akt II — Maren findet die Anleitung für die Moragh-Seite. Öffnet das Portal, geht durch |
-| Nyr sieht Vesper zuerst | Kap 18 — "Du bist der der Muster sieht" | Akt III — Vesper geht mit Nyr zu den Thar. Bewusste Wahl |
-| Alphinas Schlaf-Wald im Dorf | Kap 19 — UNBEWUSST im Schlaf, obwohl sie tagsüber lernt zu steuern | Akt III — Die Schlaf-Haine bleiben immer unbewusst. Tagsüber: Kontrolle. Nachts: keine |
-| Vesper sieht die Zeitnaht | Kap 12 — An manchen Stellen ist die Zeit dünn | Akt IV — Vesper manipuliert die Zeit. Einmal. Der Preis ist hoch |
-| "Bei Runa ist die Welt still" | Kap 20 — Keine Magie beim Kuss | Akt III — Die Stille hat einen Grund. Runas Resonanz absorbiert Alphinas. Gegenpol |
-| Elkes Garten wächst aus Stein | I4 — Pflanzen aus beiden Welten | Buch 3 — Elkes Garten als Alphinas Endpunkt |
-| Velmar-Information ist draußen | Kap 17/20 — Vier Resonanz-Begabte, kostenlos | Akt III — Alle drei Fraktionen wissen Bescheid. Der Preis steigt |
-| Runa in der Bund-Schmiede | Kap 14 — Sie formt ohne Ofen | Buch 3 — Runa geht zu den Thar/Konglomerat. Die Schmiedekunst als Brücke |
-| Talvens HUNGER beim Hain | Kap 15/19 — Sein Gesicht wenn Alphina wächst | Akt III — Er entwickelt allein Blutmagie. Selbstlehre, niemand lehrt ihn |
-| Talven kennt die Bibliothek | Kap 12 — Zeigt Vesper die Karten | Akt III — Er findet dort alte Bindungs-Texte, ohne dass jemand merkt, was er liest |
-| Talven kocht Frühstück | Kap 19 — Der Freund den alle mögen | Buch 3 — Der Verräter den alle mochten. Schmerzhafter |
+|---|---|---|
+| Vesper sieht Nyr im Narthek-Kampf | K7 | K19 (persönliche Begegnung in Halvaren) |
+| Magitech als überlegene Tech | K7 | B3 (Expedition-2-Konflikt) |
+| Bibliotheks-Wahl Halvaren | K8 | K12 (Vesper recherchiert Varen) |
+| Selbstgewachsene Hütte | K9 | weiter Akt II/III als Symbol für Resonanz-Disproportion |
+| Talven-Erstkontakt + Helferrolle | K9 | K15+ (sein Hunger-Blick wird sichtbar), B2-Akt-III (Blutmagie-Selbstlehre), B3 (Held-Zerfall) |
+| Vesper+Maren BDSM-Verankerung | K10 | K11 (sie spürt seinen kommenden Abrutsch zur Thar), K21 (Abschiedsmotiv) |
+| Soziale Ungerechtigkeiten Bund | K11 | Akt-III/IV (Alphinas Zweifel am Bund) |
+| Maren-Wasserweg-Erinnerung | K11 | K14 (Bestätigung), K21 (Abschied) |
+| Magie-Arbeit (Disproportion sichtbar) | K12 | K15+ (Bund-Älteste-Angebot baut darauf), Talvens Hunger-Beat |
+| Elke-Varen-Geschichte komplett | K13 | B3 (Antagonist-Reveal vollständig) |

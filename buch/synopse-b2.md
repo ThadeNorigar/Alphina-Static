@@ -14,44 +14,51 @@ last_update: 2026-04-19
 
 Moragh ist nicht das, was sie gehofft haben. Der Bund von Orath trägt ein freundliches Gesicht, bis die Risse zeigen: genau wie Varen, nur organisierter. Alphina lernt ihre Magie zu beherrschen — und wird dabei zur Waffe, die Quellen tötet. Am Ende erkennen die Thalassier, dass alle Seiten lügen.
 
-## Akt I — Ankunft in Moragh
+## Akt I — Ankunft + Elke
 
-**Kapitel 1–10**
+**Kapitel 1–6**
 
-Drei Tage nach Sorels Tod marschieren Alphina, Vesper, Maren und Runa durch fremdes Land auf den Lichtschein zu, den sie am Ende von Buch 1 gesehen haben. Moragh zeigt sich sofort: zwei Monde, eine Sonne mit dunklem Kern, Flüsse die bergauf fließen, Harons Sprachbrocken passen nur halb. Alphinas Trauer hat keine Worte, nur Wachstum — im Schlaf bricht der Boden um sie auf, Farne und Moos in zehn Metern Radius, ein Hain den niemand gewollt hat. Sie versteht es nicht, kann es nicht wiederholen, nicht stoppen. Tagsüber reagieren Pflanzen auf sie, nachts entzieht es sich ihr völlig. Runa, die nicht durchs Portal gehen sollte und doch durchging, entdeckt warme Hände an kaltem Metall — schwache Feuer-Resonanz, in Thalassien unbekannt.
+Drei Tage nach Sorels Tod marschieren Alphina, Vesper, Maren und Runa vom Steinplatz Richtung Dravek — der nächsten Stadt im Portalgebiet. Moragh zeigt sich sofort: schwarze warme Bäume, dichte Luft, satte Farben, zwei Monde — und eine seltsame Stille, weil hier keine Tiere, keine Insekten, keine Vögel leben. Alphinas Trauer um Sorel und ihr Hass auf Varen sitzen im Schweigen zwischen den Vier. Maren spürt etwa zwei Kilometer vom Steinplatz einen unregelmäßigen Riss im Untergrund — Wasser sickert aus der Quelle, ein zweiter dünner Punkt. Sie merkt es sich, sagt nichts.
 
-Am Ende des Marsches: eine Stadt aus porös gewachsenem Stein, Bewohner mit purpurnen Augen. Die Vier finden Elke van der Holt — vierhundert Jahre in Moragh, ein Garten aus beiden Welten, Basalt der ihren Händen gehorcht. Elke legt die Hand auf Alphinas Schlaf-Hain: *„Das kostet dich nichts, oder?"* Die Frage bleibt stehen. Elke spricht altes Thalassisch, lehrt die Sprache der Bund-Meisterin durch geformten Stein, und führt die Fünf schließlich in die nächste Bund-Stadt.
+In Dravek (kleine Orath-Stadt, gewachsene Türme, Bewohner mit Purpur-Augen) erleben sie zum ersten Mal Magie als Alltag: Bauern formen Stein mit der Hand, Kinder lassen Wasser tanzen, Schmiede schmelzen Eisen ohne Ofen. Schemen verrichten physische Arbeit für Menschen — heben Lasten, ziehen Karren — niemand ist beunruhigt. Sie spüren, dass ihre eigenen Resonanzen nahe der Quelle stärker werden, mit Distanz schwächer. Wochen vergehen: sie lernen die Sprache (Harons Wörterbuch ist 400 TZ-Jahre alt, lückenhaft), verstehen die Schemen-Lore (ohne Auftrag friedlich, nur mit Auftrag aggressiv), begreifen die Welt-Mechanik.
 
-Der Bund von Orath empfängt sie freundlich, wissenschaftlich, organisiert. Die Älteste greift Alphinas Hand zu schnell. Kommandanten wie Drael wissen zu genau, wo feindliche Quellen liegen. Bund-Meister reden über „langfristige Lösungen" für das Quellen-Problem. Nichts ist offensichtlich — nur Splitter. Eingeführt: Nyr, Thar-Emissärin mit einer Magitech-Bestie, die Vespers Muster-Sinn wittert. Talven, dreiundzwanzig, schmaler Lehrling in der Bibliothek, dessen Lachen zu groß ist für sein Gesicht. Varen beobachtet aus der Distanz — seine Schemen berichten, seine Karten zeigen drei rote Markierungen, und er sieht, was kommt. In einer Welt im Krieg bedeutet kostenlose Resonanz: Waffe.
+Ein älterer Bewohner Draveks erwähnt eine Frau in Narthek, die noch das alte Thalassisch spricht. Aufbruch über Dulkara. Dort helfen sie einem Rufer, der ihnen im Gegenzug zwei Reitschemen ruft (zwei Tage haltbar). Sie reiten weiter, kommen schneller voran. **Begegnung mit Elke van der Holt** in ihrem Steingarten am Stadtrand von Narthek: vierhundert Thalassien-Jahre seit ihrem Durchgang TZ 154, knapp ein Moragh-Jahr in Moragh, Basalt gehorcht ihren Händen. *„Das kostet euch nichts, oder?"*
 
-### Zentrale Beats
-- Drei-Tage-Marsch zum Lichtschein, Moragh zeigt fremde Physik
-- Alphinas erster Schlaf-Hain — unbewusst, ohne Preis, ohne Erinnerung
-- Runas schwache Feuer-Resonanz zeigt sich an Druckerwerkzeug
-- Elke findet sie im Steingarten, wird Brücke zur Bund-Stadt
-- Der Bund empfängt zivilisiert — erste Risse in der Fassade
-- Einführung Nyr, Talven, Drael; Varens Schemen beobachten
-
-
-
-## Akt II — Der Bund trainiert
-
-**Kapitel 11–20**
-
-Drei Wochen in der Bund-Stadt. Alphina lernt Sprache, Stadt, Kontrolle. Tagsüber kann sie manchmal bewusst steuern — ein Baum auf Befehl, eine Ranke wohin sie soll. Die Farbe ihrer Resonanz ist noch grün, diszipliniert, sorgfältig, ein letzter Nachhall von Sorels Disziplin. Aber wenn Drael sie zu Vorführungen zwingt und ein Dorfvorsteher die falsche Frage stellt, kippt die Farbe zum ersten Mal: schwarz, rotgeädert, die Ranken dicht wie Drahtseile. Nachts bleibt alles unkontrolliert. Nach einer Übernachtung in einem Bund-Dorf wacht sie auf, und ein halbes Dorf ist überwuchert — Farne durch Fenster, Moos über Dächer. Die Bewohner evakuieren. Nicht vor den Velmar. Vor ihr.
-
-Die Beziehungen ordnen sich neu. Vesper trifft Nyr, die Thar-Emissärin mit der Magitech-Bestie Kessler — sie sieht seine Muster, er sieht ihre Fehler, sie benennt sie. Er entscheidet sich bewusst, mit ihr zu den Thar zu gehen; die BDSM-Dynamik zwischen ihnen entsteht präzise und ohne Spiel. Maren findet einen stillen Fluss und spürt das geschlossene Portal durch das Wasser — Richtung, Abstand, Mechanik. Die Moragh-Seite hat eine eigene Logik. Wenn sie die Anleitung findet, kommt sie heim.
-
-Zwischen Alphina und Runa tastet sich etwas an — kein Sorel-Verstehen, kein Wald der blüht. *Bei Runa ist die Welt still.* Ein Kuss auf dem Dach unter zwei Monden, ungeschickt, ohne Magie. Runa gründet eine zweisprachige Presse in Moragh-Metall, formt Lettern aus der Hand, dokumentiert. Talven bringt Tee, kennt die Bibliothek, kocht Frühstück — und steht am Rand des Schlaf-Hains mit einem Gesicht, das für einen Moment Hunger zeigt, bevor er lächelt. Seine ersten Kopfschmerzen setzen ein, niemand fragt. Varen im Interludium schickt nicht-feindliche Schemen als Späher, notiert: *sie ist die Stärkste, nicht die Erste.* Am Ende des Akts setzt der Bund Alphina offensiver ein — erst Verteidigung, dann Angriff. Sie hört auf zu fragen.
+Elkes Erzählung als Akt-Schluss: Welt-Mechanik (Quellen, Fraktionen, Krieg), Runas Feuer-Resonanz benannt, **Schock-Beat:** zwei Moragh-Monate hier = sechsundsechzig Thalassien-Jahre zuhause vergangen. Und dann beginnt sie zu erzählen, wer Varen ist — Velmar-Forscher, Mar-Keth, ein Experiment, das Quellen tötete. Bevor sie zu Ende erklären kann, beginnen draußen vor dem Garten die Hörner.
 
 ### Zentrale Beats
-- Alphinas Kontrolle wächst tagsüber, Schlaf-Haine bleiben unbewusst
-- Farb-Kippe bei Wut: grün zu schwarz/rot, geäderte Dornen
-- Dorf-Desaster: ein halbes Dorf im Schlaf überwuchert, Evakuierung
-- Vesper geht bewusst mit Nyr zu den Thar, BDSM-Dynamik beginnt
-- Alphina und Runa küssen sich, die Welt bleibt still
-- Runas zweisprachige Druckerpresse in Halvaren
-- Talvens erste Kopfschmerzen, sein Hunger am Rand des Hains
+- Drei-Tage-Marsch zum Lichtschein, fremde Physik, keine Fauna
+- Maren spürt Wasserweg-Riss bei Dravek (Tschechow für Akt II)
+- Wochen in Dravek: Sprache, Schemen-Lore (Arbeits-Schemen, ohne-Auftrag-friedlich), Magie als Alltag
+- Aufbruch nach Narthek; Reitschemen-Beat in Dulkara
+- Begegnung Elke van der Holt in Narthek
+- Elkes Erzählung: 400 TZ-Jahre seit ihrem Durchgang, Zeit-Schock (66 Jahre für die Vier), erste Hinweise auf Varen — und Cliffhanger Richtung Akt II
+
+
+
+## Akt II — Krieg & Halvaren
+
+**Kapitel 7–~22** *(festgeklopft K7-K13, K14-K22 Diskussionsstand — siehe `buch/_diskussion_b2_k14-k22.md`)*
+
+Akt-II-Auftakt: **Thar-Angriff auf Narthek.** Magitech als überlegene Tech sichtbar — vierzig-Tonnen-Bestien gegen Bund-Rufer, Druck-Wellen brechen Türme. Vesper sieht Nyr auf dem Schlachtfeld zum ersten Mal. Brutal, blutig, dystopisch. Im Chaos werden die Vier von Elke getrennt. Flucht-Marsch über Dulkara, Halvek nach **Halvaren** (große Orath-Stadt, kann Flüchtlinge tragen, hat eine Bibliothek — sie wollen über Varen nachforschen). Alphina heilt Flüchtlinge unterwegs, Runa kocht Essen mit ihrer Hitze, Maren formt Brunnen-Wasser — sie tauschen Hilfe gegen Reitschemen und fremde Früchte mit anderen Rufern.
+
+Ankunft Halvaren — erste ruhige Nacht seit zwei Moragh-Monaten. Auf einem Brachland am Stadtrand wachsen sie sich in Stunden eine Hütte: Alphina lässt Holzpflanzen und essbare Früchte wachsen, Maren formt einen Brunnen, Vesper beschleunigt das Wachstum mit Zeit-Resonanz, Runa entzündet Feuer zum Kochen. Die Bund-Älteste empfängt sie. **Talven** taucht auf: Bund-Lehrling, charming, hilfsbereit, Lachen zu groß für sein Gesicht. Nachts: Vesper und Maren haben endlich wieder Zeit für sich — eine BDSM-Szene mit Wasser-Dildo und Zeit-Modulation, Réage-Register, Care-Beats; ihre Verbindung als einzige Konstante in der fremden Welt.
+
+Wochen vergehen in Halvaren. Sie integrieren sich in Magie-Arbeit: Runa in der Schmiede (formt Metall ohne Ofen), Alphina in der Heilstätte (Wundheilung über Pflanzen-Substrate, lässt fremde essbare Früchte wachsen), Maren am Aquädukt, Vesper in der Bibliothek (sucht Spuren von Varen). Sprache vertieft. **Erste soziale Ungerechtigkeiten werden sichtbar:** Bund-Magier essen, Bund-Diener nicht, Hierarchie über Reservoir-Größe. Nach Monaten Magie-Überraschung kommen Zweifel. Maren erinnert die anderen an den Wasserweg-Riss bei Dravek — sie haben jetzt schon Jahrzehnte zuhause verloren. Alphina: *„Nicht ohne Varen."*
+
+Elke wiedergetroffen in Halvaren — sie hat sich auch hierher gerettet. Sie erzählt zu Ende, was in Narthek unterbrochen war: Varens Geschichte. Velmar-Forscher Mar-Keth, vor Jahren das Leylinien-Experiment, drei Quellen tot, ~200.000 Heimatlose. Velmar hat ihn verdeckt ausgestoßen. Elke kennt ihn persönlich (sie hat ihm das alte Thalassisch beigebracht). Alphinas Hass formt sich neu — Name, Geschichte, Ziel.
+
+*Die folgenden Akt-II-Beats (K14–K22) sind Diskussionsstand: Maren-Wasserweg-Bestätigung, Bund-Älteste-Angebot, Alphina+Runa-Schwur, Bund-Heuchelei, Nyr-Wiederbegegnung in Halvaren, Wut-Hain wach, Marens Abschied über den Wasserweg, Vesper-Übertritt zur Thar (Akt-II-Schluss).*
+
+### Zentrale Beats (festgeklopft)
+- Thar-Angriff Narthek — Magitech-Sichtung, Elke getrennt
+- Flucht-Marsch nach Halvaren wegen Bibliothek + Quellen-Größe
+- Hütte aus Magie gewachsen — Symbol für Resonanz-Disproportion
+- Talven taucht auf, beobachtet hilfsbereit
+- Vesper+Maren BDSM-Nacht (Verankerung der Beziehung)
+- Magie-Arbeit etabliert die Vier als Disproportion
+- Soziale Ungerechtigkeiten + Zeit-Schock = erste Zweifel
+- Elke erzählt Varen-Geschichte zu Ende
 
 
 

@@ -51,8 +51,14 @@
   - Kein Strom, keine Elektrik in Buch 1
   - Magie kommt aus der Umgebung, nicht aus dem Körper (Alphina wachsen keine Pflanzen aus den Händen)
   - Sorel: kein Röntgenblick, kein UV/Infrarot, kein Licht aus dem Nichts; in absoluter Dunkelheit blind
-  - Schemen kommen nicht passiv durch den Riss — Varen schickt sie aktiv
+  - Schemen kommen nicht passiv durch den Riss — Varen schickt sie aktiv (in Thalassien); in Moragh sind Schemen Alltagswesen.
   - Kein Handwerk in Moragh: keine Werkzeuge, keine Öfen, keine Nadeln; alles per Resonanz
+- Schemen-Lore (Moragh, etabliert ab B2-K2):
+  - **Schemen ohne Auftrag sind nie aggressiv** — neugierig, tauchen manchmal von alleine auf, beobachten, ziehen sich zurück. Nur Schemen mit Auftrag (durch einen Rufer/Binder) greifen an oder folgen einem Ziel.
+  - **Arbeits-Schemen** in Städten: heben Lasten, ziehen Karren, bauen Mauern. Werden von Rufern temporär gerufen und entlohnt-steuert.
+  - **Reitschemen** sind temporär — ein Rufer kann sie für etwa zwei Tage rufen, danach lösen sie sich auf.
+  - Schemen-Soldaten (B1-K7+, Varens Schemen) sind ausnahmslos beauftragt — daher aggressiv.
+- Moragh-Fauna: Es gibt **keine Tiere, keine Insekten, keine Vögel** in Moragh. Die Welt ist still. Was Menschen brauchen, machen Schemen oder Magie. (Etabliert in B2-K1.)
 
 ## Kern-Tabus / Stil-Anker
 - Sorel-Prinzip: Der Erzähler weiß nie mehr als die POV-Figur; kein Ortsname, kein Eigenname bevor die Figur ihn erfährt.

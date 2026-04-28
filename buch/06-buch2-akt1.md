@@ -1,135 +1,100 @@
-# Buch 2 — Akt I — Fremde Welt (Seite 1–200, ~50.000 Wörter, 10 Kapitel + 2 Interludien)
+# Buch 2 — Akt I — Ankunft + Elke (Seite 1–120, ~30.000 Wörter, 6 Kapitel)
 
-> **HINWEIS 2026-04-26 — B2-Akt-I neu zu strukturieren:**
-> B1 endet mit K40 (Vael-Epilog). In B1 brechen die Vier am Ende von K39 zu Fuß durch Moragh-Natur auf — kein Lichtschein-Stadt-Cliffhanger mehr, nur Aufbruch durch Natur als Bewegung. **In B1 begegnen die Vier in Moragh niemandem außer Varen und seinen Schemen.** Stadt-Ankunft, Elke und alle weiteren Begegnungen sind B2-Material. B2 Akt I beginnt **unterwegs**, nicht in Elkes Garten. Die ersten 3-4 Kapitel müssen umgebaut werden:
-> - **B2-K1:** Marsch durch Natur (Tag 2-X nach Aufbruch in B1-K39) — Moragh-Flora/Fauna am eigenen Leib, Harons Sprache angewendet, Runas Feuer hält Wunden. Lichtschein am Horizont wird zur Stadt.
-> - **B2-K2:** Stadt-Ankunft — porös-gewachsener Stein, Purpur-Augen, gedämpfte Geräusche, der ältere Mann mit verdünnten purpurnen Augen.
-> - **B2-K3:** Die Gruppe findet Elke (nicht umgekehrt — Elke sucht sie NICHT). Erster Kontakt, altes Thalassisch.
-> - **B2-K4+:** Elkes Hof, Alphinas Zusammenbruch / Dornen statt Farne, Trauer als unbewusstes Wachstum, Lernen.
->
-> Der Rest dieses Dokuments (Kapitelplan ab alt-K1 bis K10) ist **LEGACY-Version**, die noch davon ausging, dass B1 bei Elke endet. Muss überarbeitet werden. Tschechow-Einträge können größtenteils bleiben (Schlaf-Hain, Runas Type, Maren-Portal etc.), nur die Verortung verschiebt sich um 2-3 Kapitel nach hinten.
+**Stand 2026-04-28:** Akt I komplett neu gefasst. Akt I = K1–K6 (Ankunft in Moragh, Wanderung durch fremde Welt, Treffen mit Elke). Akt II beginnt mit dem Thar-Angriff in K7. Alter Aktplan archiviert in `buch/_archiv/06-buch2-akt1_vor_2026-04-28.md`.
 
-## Alphinas Kontroll-Progression
+## Alphinas Kontroll-Status
 
-**Akt I = UNBEWUSST.** Alphina kann ihre Resonanz nicht kontrollieren. Sie passiert im Schlaf, durch Trauer, durch Emotion. Die Schlaf-Haine sind rein unbewusst. Tagsüber reagieren die Pflanzen auf sie, aber sie steuert nichts aktiv.
-
-**Akt II = LERNEND.** Sie beginnt zu verstehen. Kann manchmal bewusst steuern — ein Baum hier, eine Ranke dort. Aber die Schlaf-Haine bleiben unkontrolliert. Tagsüber: wachsende Kontrolle. Nachts: keine.
-
-**Akt III = BEWUSST.** Kann gezielt Wälder wachsen lassen, Pflanzen als Werkzeug einsetzen. Tagsüber volle Kontrolle. Aber: die Schlaf-Haine bleiben IMMER unbewusst — auch in Akt III, auch in Akt IV. Nachts hat sie keine Kontrolle. Das ist der Kern: bewusst kann sie alles. Unbewusst wächst die Trauer weiter.
+**In Akt I:** Alphina trauert um Sorel, ihre Resonanz reagiert auf ihre Trauer (Pflanzen wachsen unkontrolliert in ihrer Nähe, ohne dass sie aktiv steuert), aber sie schläft nicht durch — die Trauer ist Begleitmusik des Marsches, kein nächtlicher Schlaf-Hain. Bewusste Kontrolle wächst während der zwei Moragh-Monate in Dravek. Ende Akt I (K6 bei Elke): sie kann gezielt Pflanzen wachsen lassen, Heilung über Substrate, kleine Wunden schließen — eingeschränkte aber wache Kontrolle.
 
 ## Struktur
 
-Buch 2 beginnt **unterwegs**, drei Tage nach Sorels Tod und Alphinas Grab aus fremder Erde. Die Vier — Alphina, Vesper, Maren, Runa — marschieren zum Lichtschein, den sie am Ende von B1 gesehen haben. Er wird zur Stadt. Sie **finden Elke** dort (Elke sucht sie NICHT). Sorel ist tot. Alphinas Ausbruch hat alle verletzt. Varen hat sich zurückgezogen. Alphinas Resonanz ist in diesem Akt VOLLSTÄNDIG UNBEWUSST — sie passiert im Schlaf, durch Trauer, ohne jeden willentlichen Einfluss. Akt I ist Trauer, Begreifen, Lernen. Alphinas Resonanz ist in diesem Akt VOLLSTÄNDIG UNBEWUSST — sie passiert im Schlaf, durch Trauer, ohne jeden willentlichen Einfluss. Die Perspektiven etablieren sich: Alphina dominant (Trauer als unkontrolliertes Wachstum), Maren (will zurück, das Portal ist zu), Vesper (analysiert, kartografiert, versteht zu schnell), Runa (fremd, überfordert, schwache Feuer-Resonanz die hier zum ersten Mal sichtbar wird). Die Bund-Stadt als erster Kontakt mit Moragh-Zivilisation — aber Zivilisation hat einen Preis.
+Buch 2 beginnt drei Tage nach Sorels Tod, am Steinplatz in Dravek-Nähe. Die Drei + Eine — Alphina, Vesper, Maren plus Runa — marschieren in eine fremde Welt. Akt I ist die **Ankunft**: erst die Wildnis erkunden, dann die nächste Stadt finden (Dravek), Wochen darin verbringen, Sprache lernen, Welt verstehen. Auf einen Hinweis hin reisen sie weiter über Dulkara nach Narthek, wo eine Frau lebt, die noch das alte Thalassisch spricht. Ende Akt I ist die Begegnung mit Elke und ihrer Erzählung: 400 TZ-Jahre sind seit ihrem Durchgang vergangen, die Vier sind selbst schon zwei Moragh-Monate hier — bei euch sind sechsundsechzig Jahre vergangen.
+
+## Welt-Setup für Akt I
+
+- **Moragh-Flora:** schwarze warme Bäume, satte Farben, Pflanzen folgen Fibonacci-Spiralen, Knollen und Wurzeln in fremder Form aber teils essbar (Alphina erkennt was essbar ist). **Keine Tiere, keine Insekten, keine Vögel — Stille.**
+- **Schemen-Lore (etabliert in K2-K3):** Schemen ohne Auftrag sind nie aggressiv, nur neugierig, tauchen manchmal von alleine auf. Schemen mit Auftrag greifen an. In Städten verrichten Schemen physische Arbeit für Menschen — heben Lasten, ziehen Karren, bauen Mauern.
+- **Reitschemen (K4-K5):** Rufer können temporäre Reitschemen rufen, die sich nach 2 Tagen auflösen.
+- **Resonanz-Verstärkung:** Thalassier-Resonanz wird stärker, je näher sie an einer Quelle sind, schwächer mit Distanz.
+- **Wasserweg-Riss (K1-Tschechow):** Maren spürt 2 km vom Steinplatz Dravek einen unregelmäßigen Riss im Untergrund. Wasser sickert aus der Quelle. Es ist ein Einbahn-Weg von Moragh nach Thalassien (Maren weiß das noch nicht). Wer den Riss erwischt wenn er offen ist, kommt in der Grauwe vor Vael wieder raus.
 
 ## Kapitelplan
 
 ### Kap. 1 — Alphina (S. 1–22, ~5.500 Wörter)
-*Elkes Garten. Die erste Nacht nach Sorel.*
+*Wanderung Steinplatz → Dravek. Welt-Eindruck.*
 
-Elkes Garten. Pflanzen aus beiden Welten, Stein den sie geformt hat. Alphina sitzt am Boden, die Knie angezogen. Sorel ist tot. Gestern. Oder vor einer Stunde — die Zeit in Moragh fühlt sich anders an. Elke hat ihnen Decken gegeben, Wasser, Brot das nach Stein schmeckt. Alphina isst nicht. Die Trauer kommt nicht als Gefühl — als Wachstum. Im Schlaf bricht der Boden um sie herum auf. Gras, Farne, Moos. Ein Kreis von zehn Metern. Am Morgen: ein Hain. Die anderen starren. Alphina steht in der Mitte, barfuß. Sie hat nichts getan. Nichts GEWOLLT. Ihr Körper hat getrauert. UNBEWUSST. Sie weiß nicht wie es passiert ist, kann es nicht wiederholen, kann es nicht stoppen.
+Drei Tage Fußmarsch durch eine Welt, die kein Tier kennt. Die Stille ist das erste, was sie verstehen — keine Vögel, keine Insekten, keine kleinen Geräusche zwischen den Bäumen. Schwarze warme Stämme, dichte Luft, satte Farben, zwei Monde am Himmel. Sorel-Trauer und Hass im Schweigen zwischen ihnen. Alphinas Pflanzen reagieren auf sie ohne Befehl — Farne in fremder Form richten sich auf wenn sie vorbeigeht. Sie kontrolliert nichts. Sie lässt es passieren.
 
-Eingebettet: Sorel. Fragmente. Seine Hand in ihrer. Die Dunkelkammer. "Darf ich?" Jetzt sieht sie ihn überall, und er ist nirgends. Und ihre Hände — die anderen haben Schnitte, Prellungen, Dornen-Narben. Von IHREM Ausbruch. Alphina hat sie verletzt, nicht Varen.
+Maren spürt etwa 2 km vom Steinplatz einen unregelmäßigen Riss im Untergrund: Wasser sickert aus der Quelle, ein zweiter dünner Punkt. Sie bleibt einen Moment stehen, dann geht sie weiter. Sie merkt es sich, sagt nichts. Tschechow.
 
-### Kap. 2 — Vesper (S. 22–38, ~4.000 Wörter)
-*Die Struktur von Moragh.*
+Vesper liest die Welt — Bäume in Spiralen, Hügel-Formationen folgen Mustern. Sein Beruf wird zum Kompass. Runa hält sich am Rand der Gruppe — ihre Hände sind warm geworden, sie versteht es nicht. Am Ende des dritten Tages erkennen sie Spuren: behauenen Stein, einen Pfad. Jemand lebt hier.
 
-Vesper kartografiert. Elkes Garten als Ausgangspunkt. Die Bäume stehen in Spiralen, die Flüsse folgen Fibonacci, die zwei Monde kreisen in einem Verhältnis das er kennt — 4:33. Sein Muster-Sinn explodiert: er sieht die Struktur von allem. Moragh: zwei Monde am Himmel, Farben die zu satt sind, Luft die zu dick ist. Die Sonne — kein Feuerball, ein dunkler Kern mit gleißendem Ring. Er starrt. Sein Uhrmacher-Verstand sagt: das ist kein Stern. Das ist etwas anderes.
+### Kap. 2 — Vesper (S. 22–44, ~5.000 Wörter)
+*Ankunft Dravek. Erste Magie als Alltag.*
 
-Runa hinter ihnen — atemlos, versteinert, stumm. Sie hätte nicht hier sein sollen.
+Sie betreten Dravek — eine kleine Orath-Stadt mit gewachsenen Türmen und organischer Architektur, bergauf-Flüssen und Bewohnern mit Purpur- und Weinrot-Augen. Die Sprache passt nur lückenhaft (Harons Wörterbuch ist 400 TZ-Jahre alt, die Sprache hat sich verschoben). Die ersten Begegnungen sind Verständigungsarbeit — Hände, Zeichen, einzelne Wörter.
 
-### Kap. 3 — Maren (S. 38–54, ~4.000 Wörter)
-*Wasser in einer fremden Welt.*
+**Magie ist hier Alltag.** Ein Bauer formt Stein mit der Hand zu einer Mauer. Ein Kind lässt Wasser in der Luft tanzen. Ein Schmied schmilzt Eisen ohne Ofen. **Schemen verrichten physische Arbeit** für Menschen — heben Lasten, ziehen Karren, bauen, niemand ist beunruhigt. Die Vier stehen daneben und versuchen das zu fassen. Vesper rechnet.
 
-Maren spürt Wasser. Unter dem Boden, links, tiefer — einen Fluss. Sie führt die Gruppe dorthin. Der Fluss fließt bergauf. Langsam, selbstverständlich, als wäre das normal. Ihr Körper reagiert: Arme, Schultern, Nacken. Das Wasser antwortet. Stärker als in Vael, stärker als an der Grauküste. Es formt sich — eine Mulde, ein Becken, Trinkwasser. Es kostet sie nichts.
+Plus: sie spüren körperlich, dass ihre Resonanz hier stärker ist. Marens Wasser reagiert intensiver, Alphinas Pflanzen wachsen ohne Befehl, Runas Hände werden ohne Anlass warm. **Quellen-Nähe = Verstärkung.** Sie verstehen das Konzept noch nicht, aber sie spüren es.
 
-Eingebettet: Sorels Tod. Nicht als Rückblende — als Loch. Maren denkt um Sorel herum, wie man um eine Wunde herum atmet. Sie hat ihn nicht geliebt. Aber sie hat gesehen wie jemand stirbt.
+### Kap. 3 — Alphina (S. 44–66, ~5.500 Wörter)
+*Wochen in Dravek. Sprache, Schemen-Lore, Welt verstehen.*
 
-### Kap. 4 — Runa (S. 54–68, ~3.500 Wörter)
-*Die Druckerin in der falschen Welt.*
+Sie lassen sich Zeit. Wochen in Dravek. Sie haben kein Geld, kein Netz, keinen Guide — sie improvisieren. Vesper liest in der Bibliothek (alte Karten, Mathematik, Sprachstrukturen). Maren auf dem Markt (sie spricht mit Bauern, lernt durch Tauschen). Alphina bei einem Heiler (Pflanzen-Substrate, Wundheilung — er zeigt ihr was hier wächst und wofür es gut ist). Runa in einer kleinen Schmiede (sie sieht die Bund-Schmiede taumeln, sie selbst nicht).
 
-Erste Runa-Perspektive. 3. Person, Präteritum. Sie hätte nicht durch das Portal gehen sollen. Sie ist durchgegangen. Keine Resonanz die sie kennt, keine Magie die sie versteht, ein Mann den sie nicht kannte ist gerade gestorben. Ihre Hände sind warm — wärmer als sonst. Das Metall an ihrem Gürtel (Druckerwerkzeug, Schmelzlöffel) reagiert. Sie hält den Löffel — er wird weich. Zinn schmilzt in ihrer Hand. Sie lässt ihn fallen.
+**Schemen-Lore wird klar:** Schemen ohne Auftrag sind nie aggressiv, nur neugierig, tauchen manchmal von alleine auf. Nur Schemen mit Auftrag greifen an. Die Vier sehen das in Aktion — ein wilder Schemen am Stadtrand, der nur gucken will, sich nicht einmischt.
 
-Runa beobachtet Alphina: die Botanikerin die einen Wald wachsen lassen kann. Vesper: der Mann der alles analysiert als wäre es ein Schachproblem. Maren: die Frau die mit dem Wasser spricht. Und sie selbst: eine Druckerin mit warmen Händen.
+Sie verstehen langsam: jede Stadt sitzt auf einer Quelle, die Magie hängt von der Quell-Nähe ab, der Krieg läuft im Hintergrund (Bund vs. Konglomerat-Thar). Niemand erklärt ihnen das systematisch — sie lesen es zusammen aus Gesprächen, Anschlägen, Marktgesprächen.
 
-### Interludium I (~S. 80, ~2.000 Wörter)
-*Elke. Erste Woche in Moragh. Der Garten.*
+### Kap. 4 — Vesper (S. 66–86, ~4.500 Wörter)
+*Hinweis auf Narthek. Reitschemen in Dulkara.*
 
-Elkes Perspektive, 3. Person, Präteritum. Wochen nach ihrem Durchgang (400 Thalassien-Jahre, Wochen in Moragh). Sie hat den Stein geformt. Ein Garten, der wächst. Pflanzen aus beiden Welten — Moragh-Ranken neben Thalassien-Moos. Die Sprache: verdrehtes Thalassisch, Wortfetzen die Sinn ergeben wenn man aufhört zu übersetzen und anfängt zu hören. Ein Bund-Meister der sie besucht, ihre Resonanz spürt, die Augen weitet. "Die Taube die Stein singt." Er lädt sie in die Stadt ein. Sie lehnt ab. Noch.
+Ein älterer Bewohner Draveks erwähnt eine Frau in Narthek, die noch das alte Thalassisch spricht — *„seit ewig dort"*. Aufbruch beschlossen. Vesper rechnet die Reise: über Dulkara, etwa sechs bis sieben Tage Fußmarsch.
 
-### Kap. 5 — Alphina (S. 82–102, ~5.000 Wörter)
-*Trauer als Wald.*
+In Dulkara halten sie. Sie helfen einem Rufer mit ihrer Magie — Alphina lässt seinen Garten wachsen, Vesper beschleunigt die Mauerung mit Zeit-Resonanz, Maren reinigt einen verschlammten Brunnen. Im Gegenzug **ruft er ihnen zwei Reitschemen** — schattenhafte Wesen, die für zwei Tage halten und sich danach auflösen. Sie reiten weiter Richtung Narthek — wesentlich schneller als zu Fuß.
 
-Erste Nacht. Alphina schläft nicht — oder glaubt es. Sitzt am Feuer (Vesper hat es gemacht, mit Moragh-Holz das anders brennt — bläulich, geruchlos). Die Trauer kommt. Nicht als Gefühl — als Wachstum. Irgendwann muss sie eingenickt sein: der Boden um sie herum ist aufgebrochen. Gras, Farne, Moos, Ranken. Ein Kreis von zehn Metern. Am Morgen: ein Hain. Die anderen starren. Alphina steht in der Mitte, barfuß, die Erde warm unter ihren Füßen. Sie hat nichts getan. Nichts gewollt. Ihr Körper hat im Schlaf getrauert — UNBEWUSST, ohne jeden willentlichen Einfluss.
+Maren denkt im Stillen an den Wasserweg-Riss bei Dravek. Sie sagt nichts. Tschechow.
 
-Eingebettet: Sorel. Fragmente. Seine Hand in ihrer. Die Dunkelkammer. "Die Kamera sieht Dinge die nicht da sind." Jetzt sieht sie ihn überall, und er ist nirgends.
+### Kap. 5 — Maren (S. 86–104, ~4.500 Wörter)
+*Wanderung Dulkara → Narthek. Begegnung Elke.*
 
-### Kap. 6 — Vesper (S. 102–118, ~4.000 Wörter)
-*Die Struktur von Moragh.*
+Tagesritt durch fremde Landschaft. Die Vier auf den Reitschemen, Übernachtung in einem leeren Bauernhof, Sprache wird besser. Resonanzen schwächer zwischen den Quellen — sie spüren den Distanz-Effekt körperlich (Alphinas Pflanzen reagieren träge, Marens Wasser nur in Mengen die ihr Körper kennt).
 
-Vesper kartografiert. Drei Tage Fußmarsch, Muster überall: die Bäume stehen in Spiralen, die Flüsse folgen Fibonacci, die zwei Monde kreisen in einem Verhältnis das er kennt — 4:33. Varens Frequenz. Oder die Frequenz von Moragh selbst. Sein Sinn explodiert: er sieht die Struktur von allem. Zeitlinien, Muster, Überlagerungen. Er sieht wo sie waren, wo sie sein werden. Es macht ihm Angst.
+Ende des zweiten Tages lösen sich die Reitschemen auf — schwarzer Rauch in der Morgendämmerung. Sie gehen das letzte Stück nach Narthek zu Fuß. **Ankunft Narthek.** Eine kleine Orath-Stadt, ähnlich wie Dravek, aber näher an einer kleinen Quelle. Sie fragen nach der Frau mit dem alten Thalassisch.
 
-Am dritten Tag: Spuren. Behauener Stein. Ein Weg der nicht gewachsen ist. Jemand lebt hier.
+**Begegnung mit Elke van der Holt** in ihrem Steingarten am Stadtrand. Sie hört sie kommen, dreht sich um, sieht sie an. Spricht ihr Thalassisch (alt, aber verständlich): *„Das kostet euch nichts, oder?"* Sie schaut Alphina an, dann Maren, dann Runa, dann Vesper. Sie weiß sofort, was sie sind.
 
-### Kap. 7 — Alphina (S. 118–138, ~5.000 Wörter)
-*Elke.*
+### Kap. 6 — Alphina (S. 104–120, ~5.000 Wörter)
+*Volles Elke-Kapitel. Akt-I-Schluss.*
 
-Die Frau aus dem Stein. Elke van der Holt — zu alt für ihr Gesicht, zu jung für ihre Augen. Sie spricht Thalassisch, altmodisch, mit Moragh-Akzent. "Vierhundert Jahre. Dort drüben. Hier — ich habe aufgehört zu zählen." Ihr Garten: Pflanzen aus beiden Welten, Stein den sie geformt hat, ein Haus das aus dem Fels gewachsen ist. Elke sieht Alphina und sagt nichts. Sieht den Hain den Alphina im Schlaf wachsen ließ. Legt die Hand auf den Boden. "Das hast du getan. In einer Nacht." Stille. "Das kostet dich nichts, oder?"
+Elke nimmt sie auf. Sie hat ein kleines Häuschen am Rand von Narthek, einen einjährigen Garten mit Pflanzen aus beiden Welten und Basalt den sie geformt hat. Sie hilft mit Geld (sie hat etwas — sie ist Bildhauerin/Steinmetzin und Bund-Bewohner kaufen ihre Skulpturen). Sie beschafft Quartier für die Vier.
 
-Alphinas Antwort: "Nein." Elkes Gesicht: etwas zwischen Neid und Angst.
+**Sie erzählt:** sie ist knapp zwölf Moragh-Monate hier. Das sind vierhundert Thalassien-Jahre. Sie kam in TZ 154 durchs Portal — vier Reisende waren am Steinkreis, einer starb bei der Öffnung (Keldan), zwei verschwanden im Riss, einer kam zurück (Lene). Sie selbst kam durch.
 
-### Kap. 8 — Maren (S. 138–154, ~4.000 Wörter)
-*Das Portal ist zu.*
+Sie erzählt die Welt-Mechanik: Quellen, Fraktionen (Bund von Orath, Konglomerat der Thar, die Velmar im Süden), den Krieg. Sie nimmt Runas Hand: *„Feuer-Resonanz. Schwach, aber da."* Runa sagt: *„Ich bin Druckerin."* Elke: *„Hier bist du mehr."*
 
-Maren sucht das Portal. Durch das Wasser, durch die Ströme die sie spürt. Es ist da — sie fühlt den Punkt wo die Welt dünn wird. Aber geschlossen. Stein. Nichts dahinter. Sie drückt. Das Wasser antwortet, aber das Portal nicht. Verzweiflung die sie nicht zeigt — Maren fließt, Maren bleibt nie, und jetzt sitzt sie fest. In einer Welt die nicht ihre ist. Neben Menschen die sie nicht gewählt hat.
+**Schock-Beat:** *„Wenn ihr seit zwei Moragh-Monaten hier seid, sind bei euch zuhause sechsundsechzig Jahre vergangen."* Stille. Maren spürt, wie sich ihr Hauptmotiv verdoppelt — schnell zurück, bevor noch mehr Zeit vergeht.
 
-Eingebettet: Vael. Das Boot. Drei Viertel fertig. "Warte auf mich." — aber von welcher Seite?
+**Varen-Beat (Vorlauf):** Elke beginnt zu erzählen — ein Forscher in den Grenzlanden, Velmar-Herkunft, sie hat ihn vor langer Zeit kennengelernt, er hat von ihr das alte Thalassisch gelernt. *„Er ist gefährlich. Er macht weiter. Er…"* Sie unterbricht sich, weil draußen vor dem Garten Geräusche sind. Bewegung. Hörner.
 
-### Kap. 9 — Runa (S. 154–168, ~3.500 Wörter)
-*Feuer in der Fremde.*
+**Akt-I-Ende.** Cliffhanger Richtung Akt II.
 
-Runa experimentiert. Allein, nachts, am Rand von Elkes Garten. Ihr Druckerwerkzeug: der Schmelzlöffel, die Letternzange, das Messinglineal. Alles reagiert. Sie konzentriert sich — das Messing wird weich, formbar, glüht. Kein Feuer. Hitze aus ihren Händen. Sie formt eine Buchstabentype: ein A. Perfekt. Aus der Hand. Sie starrt das A an. In Vael hätte sie dafür einen Schmelzofen gebraucht.
+## Tschechow-Tabelle Akt I (geladen für spätere Auflösung)
 
-Elke findet sie. Sieht die Type. "Feuer-Resonanz. Schwach, aber da." Runa: "Ich bin Druckerin." Elke: "Hier bist du mehr."
+| Geladen in | Was | Feuert in |
+|---|---|---|
+| K1 | Wasserweg-Riss bei Dravek (Maren spürt) | K11 (Maren erinnert), K14 (Maren-Bestätigung), K21 (Marens Abschied) |
+| K2 | Schemen als Arbeiter | Akt II + B3 (Talvens Schemen-Bindung baut auf der Lore auf) |
+| K3 | Schemen ohne Auftrag friedlich | K7 (Thar-Angriff: dort sind Schemen mit Auftrag), B3 (Talvens unbeauftragte Schemen lösen sich) |
+| K4 | Reitschemen-Beat | K8 (Flucht-Marsch mit Reitschemen) |
+| K6 | Elke kennt Varen | K13 (Elke wiedergetroffen, erzählt zu Ende) |
+| K6 | 2 MZ-Monate = 66 TZ-Jahre | K11 (Maren erinnert: jetzt schon Jahrzehnte vergangen), durch ganz B2/B3 |
+| K6 | Varen-Hint (Forscher in den Grenzlanden) | K13 (volle Erklärung), B3 (Antagonist-Reveal) |
 
-### Interludium II (~S. 175, ~2.000 Wörter)
-*Elke lernt die Sprache. Die Bund-Meisterin.*
+## Cross-POV-Anker
 
-Elkes erste Begegnung mit der Bund-Stadt. Die Meisterin die ihr die Sprache beibringt — nicht durch Worte, sondern durch Stein. Elke formt, die Meisterin benennt. Ein Stein heißt "thar." Eine Wand heißt "tharak." Ein Haus heißt "tharaken." Die Logik der Sprache: alles wächst aus drei Silben. Wie Moragh selbst.
-
-### Kap. 10 — Alphina (S. 178–200, ~5.500 Wörter)
-*Die Bund-Stadt. Willkommen.*
-
-Elke führt die Fünf in die nächste Bund-Stadt. Zwei Tage Marsch. Die Stadt: Türme die gewachsen sind, Straßen die sich verändern, Brücken über Flüsse die bergauf fließen. Die Bewohner: größer als Thalassier, feingliedrig, dunkle Haare, helle Haut, Augen in Farben die es in Thalassien nicht gibt — Purpur, Weinrot, Schwarz. Staunen, Flüstern, Finger die zeigen. der Bund-Älteste empfängt sie — freundlich, organisiert, sofort interessiert. "Resonanz-Begabte. Vier. Aus Thalassien." Ihre Augen glänzen. Nicht Gier — etwas Schlimmeres: Hoffnung.
-
-Alphinas Hain hat sich herumgesprochen. Ein Wald, gewachsen in einer Nacht, ohne Preis. In einer Welt im Krieg bedeutet das: Waffe.
-
-Endet mit: Die Älteste bietet Schutz, Nahrung, Unterkunft. Greift Alphinas Hand. "Ihr seid sicher hier." Alphinas Haut kribbelt. Die Pflanzen in der Ältesten Garten drehen sich nach ihr. Alle gleichzeitig.
-
----
-
-## Varen-POV (Interludien oder eigene Kapitel)
-
-Varen beobachtet aus der Distanz. Seine Schemen berichten: die Thalassier sind beim Bund angekommen. Der Bund erkennt Alphinas Potential. Er sieht was kommt — der Bund wird ihre Resonanz als Waffe trainieren. Varen kann es nicht verhindern. Seine Karten: 3 tote Quellen rot markiert. Auf einer zweiten Karte: Bund-Truppenbewegungen, die auf weitere Quellen zielen. "Sie kommen." Notwendigkeit. Varen-Perspektive etabliert die andere Seite der Wahrheit, die Alphina erst spät entdecken wird.
-
-## Alphinas Motivation in Akt I
-
-Alphina will RACHE an Varen. Sorel ist tot. Der Mann der sein Kinn berührt hat lebt. Das ist alles was zählt. Der Bund bietet ihr die Möglichkeit sich nützlich zu machen — Kampf-Aufträge, Verteidigung, Schlaf-Haine als Befestigung. Sie WILL kämpfen. Nicht für den Bund — gegen Varen.
-
-## Bund-Subtilität: Erste Zeichen
-
-Der Bund sieht gut aus. Demokratie, Wahlrecht, Gilden. Aber in Akt I: erste Zeichen dass nicht alles stimmt. Die Älteste greift Alphinas Hand zu schnell. Kommandanten die zu genau wissen wo "der Feind" seine Quellen hat. Bund-Meister die über "langfristige Lösungen" für das Quellen-Problem sprechen. Nichts Offensichtliches — nur Splitter die sich in Akt II und III zusammensetzen.
-
----
-
-## Tschechow'sche Waffen in Akt I
-
-| Detail | Akt I | Feuert in |
-|--------|-------|-----------|
-| Alphinas Schlaf-Hain | Kap 5 — Wald wächst im Schlaf | Akt II — Ein Dorf wird im Schlaf überwuchert |
-| Runas Messing-Type | Kap 9 — Formt Lettern aus der Hand | Akt III — Die Thar erkennen ihren Wert |
-| Elkes Garten (beide Welten) | Kap 7 — Pflanzen aus Thalassien und Moragh | Buch 3 — Elkes Garten als Alphinas Endpunkt. Pflanzen aus zwei Welten |
-| "Das kostet dich nichts, oder?" | Kap 7 — Elkes Frage | Akt III — Die Ungerechtigkeit als Kernkonflikt. Talvens Hunger |
-| Maren spürt das geschlossene Portal | Kap 8 — Durch das Wasser | Akt II — Maren findet die Karte und Anleitung für die Moragh-Seite. Öffnet das Portal und geht durch nach Thalassien |
-| 4:33 in Moraghs Struktur | Kap 6 — Vesper erkennt die Frequenz in den Monden | Akt III — 4:33 ist die Frequenz der Anomalie. Resonanz ohne Preis schwingt in 4:33 |
-| "Hier bist du mehr" | Kap 9 — Elke zu Runa | Buch 3 — Runa geht zum Konglomerat. Weil sie dort AM MEISTEN ist |
-| Die Älteste greift Alphinas Hand | Kap 10 — Sofort, besitzergreifend | Akt II — der Bund wollen Gegenleistung. Kämpft für uns |
+- **Maren-Wasserweg-Linie:** K1 (Spüren) → K11 (Erinnerung) → K14 (Bestätigung mit Elke) → K21 (Abschied über Wasserweg-Riss)
+- **Schemen-Lore:** K2 (Arbeiter) + K3 (Auftrag-Logik) + K4 (Reitschemen) → K7 (Thar-Angriff, Schemen-Soldaten) → B3 (Talven-Bindung)
+- **Elke-Linie:** K5 (Erstkontakt) + K6 (Erzählung) → K7 (Trennung) → K13 (Wiedertreffen, Varen-Erklärung) → B3 (Elkes Tod)
+- **Runa-Resonanz:** K2 (warme Hände) + K3 (Schmiede-Beobachtung) + K6 (Elke benennt es) → K12 (Schmiede-Arbeit) → K15 (öffentlich sichtbar) → B3 (Vollform)
