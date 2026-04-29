@@ -2429,7 +2429,7 @@
       "kapitel": "",
       "leseart": "normal",
       "titel": "Sync — Ende Moragh-Monat 1",
-      "detail": "Vael 584 TZ — die Vier fehlen, Halvard registriert ihr Verschwinden. Schemen-Aktivität lässt nach.",
+      "detail": "Vael TZ 584 — 33 Jahre nach dem Portal-Durchgang. Halvard, Tohl, Edric, Esther sind alt oder tot; das Zeugen-Konvolut (Jara + die genannten Zeugen) liegt seit 33 Jahren im Archiv, ist eine Lokal-Anekdote geworden. Anomalien bleiben sichtbar (Tidemoor-Uhr-Drift, Farne im Botanischen Garten, ungewöhnliches Wasser an der Grauwe), niemand bringt sie mehr zusammen. Riss-Quelle sickert weiter. Keine Schemen seit dem Portal-Tag.",
       "typen": [
         "sync"
       ],
@@ -2437,7 +2437,11 @@
         "MZ-Monat 1",
         "TZ 584"
       ],
-      "kapitel_status": ""
+      "kapitel_status": "",
+      "sync": {
+        "thalassien": "Vael TZ 584. Zeugen-Konvolut alt, Anomalien blieben, niemand verbindet sie mehr. Marens Boot vertäut im Hafen, Eigentümer unklar.",
+        "moragh": "MZ 1. Die Vier sind in Halvaren oder unterwegs — sie wissen nichts von der Vael-Zeit-Drift."
+      }
     },
     {
       "mz": 0.63,
