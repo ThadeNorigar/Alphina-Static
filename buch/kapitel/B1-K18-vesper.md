@@ -14,7 +14,7 @@ Er legte die Lupe zur Seite. Das Federhauslager war noch nicht fertig. Er nahm d
 
 Er hatte die Lupe am Auge und die Pinzette in der rechten Hand, als die Schläge an seiner Tür kamen. Drei. Nicht fest, nicht zögerlich. Ein Mensch, der vor der Tür einen Atemzug gebraucht hatte, um sich die drei in der richtigen Folge zu überlegen.
 
-Vesper legte die Pinzette neben die Samtrolle. Er schob die Lupe nach oben, stellte die Lampe eine Viertelumdrehung niedriger, damit der Besucher nicht gleich in die Helligkeit trat. Dann ging er zur Tür und öffnete sie einen Spalt — halb, nicht ganz. Die alte Gewohnheit.
+Vesper legte die Pinzette neben die Samtrolle. Er schob die Lupe nach oben, stellte die Lampe eine Viertelumdrehung niedriger, damit der Besucher nicht gleich in die Helligkeit trat. Dann ging er zur Tür und öffnete sie einen Spalt. Die alte Gewohnheit.
 
 Im Flur stand ein Mann, den er nicht kannte. Groß, schmal in den Schultern, den Kragen noch hoch, als wäre er gerade erst vom Hafen hochgekommen. Das Gesicht trug die Spuren des Lampenlichts von hinten — eine harte Linie am Kiefer, die Augen im Halbschatten. Die Hände hielt er vor dem Mantel, die rechte über dem linken Handgelenk, die Art Griff, die Vesper aus seinem eigenen Repertoire kannte.
 
@@ -24,7 +24,7 @@ Der Name lag zwei Sekunden zwischen ihnen, bevor Vesper nickte. Er hatte ihn sch
 
 "Herr Varlan. Kommen Sie rein."
 
-Er öffnete die Tür ganz und trat einen halben Schritt zur Seite. Sorel kam rein. Er roch nach kaltem Rauch und einem bestimmten Chemikaliengeruch, den Vesper nicht einordnen konnte — scharf, leicht metallisch. Vermutlich die Entwicklerkammer, aus der er gerade kam.
+Er öffnete die Tür ganz und trat einen Schritt zur Seite. Sorel kam rein. Er roch nach kaltem Rauch und einem bestimmten Chemikaliengeruch, den Vesper nicht einordnen konnte — scharf, leicht metallisch. Vermutlich die Entwicklerkammer, aus der er gerade kam.
 
 Vesper räumte die Samtrolle an den Rand des Reparaturtischs, legte die Pinzette quer darüber, schob den Stuhl gegenüber seinem eigenen ein Stück vor. Keine Geste des Willkommens. Ein Platz.
 
@@ -34,7 +34,7 @@ Sorel setzte sich, den Mantel zog er nicht aus. Er legte die Hände auf die Tisc
 
 "Alphina sagte, Sie hören, wenn Uhren falsch laufen."
 
-Vesper neigte den Kopf. Eine halbe Bewegung. "Was haben Sie beobachtet?"
+Vesper neigte den Kopf, knapp. "Was haben Sie beobachtet?"
 
 "Ich werde Ihnen etwas erzählen. Systematisch. Ich habe es so aufgeschrieben, wie man eine Entwicklungsreihe aufschreibt — was beobachtet, was ausgeschlossen, was übrig. Ich bitte Sie, zuzuhören, bevor Sie antworten."
 
@@ -64,7 +64,7 @@ Die Lücke war sauber. Vesper sah sie so deutlich, als hätte Sorel sie mit dem 
 
 "Das ist, was ich habe", sagte Sorel am Ende. "Alphina sagte, Sie hören anders zu als die meisten."
 
-Vesper legte die Fingerspitzen aufeinander. Die Pinzette rollte ein halbes Zehntel nach rechts und blieb wieder liegen. Er ließ Sorels letzten Satz drei Atemzüge zwischen ihnen stehen.
+Vesper legte die Fingerspitzen aufeinander. Die Pinzette rollte einen Hauch nach rechts und blieb wieder liegen. Er ließ Sorels letzten Satz drei Atemzüge zwischen ihnen stehen.
 
 ---
 
@@ -90,7 +90,7 @@ Er strich mit dem Finger den Flussverlauf entlang bis zu dem Kreuz am unteren Ka
 
 "Die nähere von beiden verliert stündlich eine Minute zwölf, die andere stündlich vierzig Sekunden. Beide weniger als die Tidemoor-Uhr. Wenn die Tidemoor-Uhr im Mittelpunkt eines zweiten Musters säße, dann säße sie gleichzeitig im Zentrum und am Rand der Stadt. Beides ist möglich. Beides ist nicht Zufall."
 
-Sorel schwieg jetzt zwei ganze Atemzüge. Dann tippte er selbst auf die Karte, nicht auf den Mittelpunkt, sondern auf jenen Punkt, an dem sein Lichthaus lag. Vesper sah es und nickte. Der Punkt lag auf dem äußersten Ring, am Rand. Die Abweichung dort war klein. Nicht klein genug, um sie zu ignorieren.
+Sorel schwieg jetzt zwei ganze Atemzüge. Dann tippte er selbst auf die Karte, auf jenen Punkt, an dem sein Lichthaus lag. Vesper sah es und nickte. Der Punkt lag auf dem äußersten Ring, am Rand. Die Abweichung dort war klein. Nicht klein genug, um sie zu ignorieren.
 
 "Es gibt einen dritten Teil", sagte Vesper. "Er passt nicht in die Ringe. Er passt daneben. Ich habe heute vormittag auf der Werft eine Frau gesehen. Sie heißt Maren Ilves. Sie baut Boote. Sie hat mir gezeigt, wie sie einen Strudel in eine Tasse Tee bringt, ohne sie anzufassen. Das Wasser in der Tasse war vorher kalt gewesen. Als sie aufhörte, dampfte es."
 
@@ -156,13 +156,13 @@ Sein Blick ging zu Sorel. Sorel rührte sich nicht.
 
 "Wasser."
 
-Unter seiner Handfläche wurde der Turm warm. Eine halbe Sekunde, vielleicht weniger. Nicht heiß. Nur nicht kalt. Dann wieder das alte Temperaturniveau der Außentasche.
+Unter seiner Handfläche wurde der Turm warm. Einen Atemzug, vielleicht weniger. Nicht heiß. Nur nicht kalt. Dann wieder das alte Temperaturniveau der Außentasche.
 
 Er nahm die Hand nicht weg. Er ließ sie drei Atemzüge auf dem Turm liegen. Der Turm blieb kalt.
 
 Er hob die Hand. Legte sie neben die Karte. Der Turm war wieder wie seit fünfzehn Wochen.
 
-Vesper atmete einmal durch die Nase. Nicht tief. Nicht hörbar. Er registrierte den Wert und legte ihn zu den anderen messbaren Werten des Abends. Ein halber Grad Wärme, ein halber Atemzug lang, unmittelbar nach dem vierten Wort.
+Vesper atmete einmal durch die Nase. Nicht tief. Nicht hörbar. Er registrierte den Wert und legte ihn zu den anderen messbaren Werten des Abends. Ein Hauch Wärme, einen Atemzug lang, unmittelbar nach dem vierten Wort.
 
 Sorel hatte es nicht gesehen. Sorel hatte die Karte angeschaut.
 
