@@ -30,8 +30,8 @@ Zähle mit Grep/Bash — keine Schätzungen:
 
 | Muster | Max | Aktion wenn über Limit |
 |--------|-----|----------------------|
-| "nicht X — sondern Y" / "nicht X, sondern Y" | 1x pro Kapitel | Überzählige markieren |
-| "wie etwas das..." / "wie ein..." Vergleiche | **2x pro Kapitel** (April 2026 verschärft, war 4) | Überzählige markieren |
+| "nicht X — sondern Y" / "nicht X, sondern Y" | Pflicht-Prüfung pro Einsatz (Master: `buch/02-stilregeln-v2.md` Antithese) | Jedes Vorkommen einzeln listen, Begründung pro Einsatz |
+| "wie etwas das..." / "wie ein..." Vergleiche | siehe `buch/02-stilregeln-v2.md` (Tabelle „Harte Limits") | Überzählige markieren |
 | **Abstrakte Nomina** (Stille, Kälte, Schwere, Leere, Ferne, Dunkelheit, Ewigkeit, Unheimliches, Abgrund, Unendlichkeit) — Gesamtzählung | ~15 pro Kapitel | FINDING wenn >20 |
 | **Abstrakta-Stapel** Regex: `\b(der\|die\|das)\s+(Stille\|Kälte\|Schwere\|Leere\|Ferne)\s+(des\|der)\s+` | 0 | Jeden Treffer markieren |
 | **Absätze ohne Material** (kein Kupfer/Leinen/Kalk/Messing/Birkenrinde/Tusche/Talg/Zinn/Schiefer/Ruß/Eiche/Teer etc.) | <20% | FINDING wenn >20% der Absätze kein benanntes Material |
@@ -46,7 +46,7 @@ Zähle mit Grep/Bash — keine Schätzungen:
 | Geschmack in Nähe-Szenen ("schmeckte", "Geschmack", "Zunge", "Lippen", "salzig", "bitter", "süß", "Metall auf") | min. 1 in Nähe-Szene | FINDING wenn Nähe-Szene ohne Geschmacks-Referenz |
 | **Negations-Dichte** (Grep auf `\bnicht\b`, `\bnichts\b`, `\bkein[ern]?\b`) — Gesamtzahl pro 1.000 Wörter | ≤ 15 pro 1.000 W | FINDING wenn > 15 — Kapitel ist negations-lastig, vermutlich hölzerner Ton (siehe Stilregeln "Negations-Disziplin") |
 | **Negations-Tic-Muster** Regex: `Nicht [^.]{2,30}\. Nur `, `[Nn]ichts \w+te\.$`, `weiß ich nicht\.$`, `kann nicht\.$`, `Kein \w+\.$` am Absatzende | 0 | Jeden Treffer markieren zur manuellen Prüfung (positive Umformulierung möglich?) |
-| **„halb"-Pseudo-Präzisions-Tic** (Grep auf `halb[en]?\b`) — Gesamtzahl pro Kapitel | ≤ 4 | FINDING wenn > 4. Tic-Formen (subtiler Geste-Marker) besonders flaggen, Regex: `halb[en]?\s+(Sekund\|Minut\|Atemzug\|Zoll\|Schritt\|Handbreit\|Meter\|Zentimeter)` — Ersatz: *kurz*, *knapp*, *einen Moment*, *einen Augenblick*. Echte Maße (`halbe Stunde`/Uhrzeit, `halb auf`/Position, `halb für sich`/Sprechweise, Canon-Zitate) zählen mit, sind aber legitim (siehe Stilregeln "Pseudo-Präzision"). |
+| **„halb"-Pseudo-Präzisions-Tic** (Grep auf `halb[en]?\b`) | Pflicht-Prüfung pro Einsatz (Master: `buch/02-stilregeln-v2.md` „Pseudo-Präzision: „halb X"-Tic") | Jeden Treffer einzeln markieren. Tic-Formen besonders flaggen, Regex: `halb[en]?\s+(Sekund\|Minut\|Atemzug\|Zoll\|Schritt\|Handbreit\|Meter\|Zentimeter)`. Echte Maße (Uhrzeit/Position/Sprech-Beat/Canon-Zitate) als legitim markieren. |
 | **Label-Adjektive/Adverbien** (siehe Autorin-Stimme §6.5 Label-Verbot) — Regex: `\b(verspielt(es)?\|wollüstig(es)?\|ernsthaft(es)?\|nüchtern(es)?\|sanft(es)?\|zärtlich(es)?\|liebevoll(es)?\|leidenschaftlich(es)?\|hingerissen(es)?\|bedrohlich(es)?\|unheimlich(es)?)\b` | **0 pro Kapitel** | Jeden Treffer markieren als HARTES FINDING. Test: Würde ein präziseres Verb / ein Körperbeat das Adjektiv ersetzen? Wenn ja: Adjektiv streichen, Beat einsetzen. Ausnahme: in Dialog-Repliken, wo eine Figur das Wort *selbst* sagt (Selbst-Diagnose) — dann zählt es nicht als Erzähler-Label. |
 | **Sinnes-Adjektiv-Coverage pro Absatz** (siehe Autorin-Stimme §6.5 Pflicht-Stellen) — Anteil Absätze mit mindestens einem konkreten Sinnes-Adjektiv (warm/kalt/rauh/weich/feucht/trocken/dicht/satt/glatt/klebrig/hart/scharf/dumpf/hell/gedämpft/süß/bitter/salzig/herb/würzig/laut/leise) | ≥ 70% der Absätze | FINDING wenn < 70%. Der commercial Dark-Romantasy-Ton lebt von sinnlicher Verankerung. Absätze ohne Sinnes-Adjektiv sind erlaubt (Dialog-Bursts, Tempo-Beschleunigungen), dürfen aber nicht das Default sein. |
 | **POV-Lieblingswörter-Coverage** (siehe Autorin-Stimme §6.5 Pkt. 6) — pro POV mindestens 3× im Kapitel | ≥ 3 Treffer aus dem POV-Register | FINDING wenn < 3. Pro POV Register prüfen: Maren (*stetig*, *gleichmäßig*, *satt*, *warm*, *dicht*, *eng*, *Lücke*), Vesper (*gleichmäßig*, *präzise*, *Takt*, *ohne Spiel*), Sorel (*Schein*, *Schimmer*, *hell*, *gedämpft*), Alphina (*knospen*, *schwellen*, *grün*, *frischer Schnitt*), Runa (*warm*, *weich*, *dicht gewoben*, *satt*). |
@@ -284,8 +284,8 @@ POV: [Figur] | Perspektive: [Ich/3.P] | Wörter: [N]
 ### Harte Zählungen
 | Muster | Gefunden | Limit | Status |
 |--------|----------|-------|--------|
-| "nicht X — sondern Y" | N | 2 | OK/ÜBER |
-| "wie..." Vergleiche | N | 4 | OK/ÜBER |
+| "nicht X — sondern Y" | N | Pflicht-Prüfung | Jedes Vorkommen einzeln listen, Begründung pro Einsatz |
+| "wie..." Vergleiche | N | Master | OK/ÜBER (Schwelle aus `buch/02-stilregeln-v2.md`) |
 | "und"-Ketten (>3 pro Satz) | N | — | Meldung |
 | Wort-Häufungen (>7x) | [Wort]: Nx | 7 | OK/ÜBER |
 | Bandwurm-Sätze (>60W) | N | — | Meldung |

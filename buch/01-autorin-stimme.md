@@ -237,7 +237,7 @@ Früher war hier eine strenge Default-Deny-Tabelle. Für commercial Dark Romanta
 ### Gebremst, aber nicht verboten
 | Stilmittel | Zielgrenze | Einsatz |
 |---|---|---|
-| Stakkato (Fragmente <4W) | Nicht als Tapete | Schock, Tempo-Akzent, Hammerschlag. Commercial darf Stakkato als Rhythmus-Werkzeug nutzen. |
+| Stakkato (Fragmente <4W) | Master: `buch/02-stilregeln-v2.md` Sektion „Stakkato-Dosierung" (Pflicht-Prüfung pro Einsatz, keine Schwelle) | Default vollständige Sätze; Einsatz nur begründbar bei Schock, Hammerschlag, Heat/Kontrollverlust, Inventur. |
 | Erklärende Nachsätze („weil...") | Ok wenn funktional | Nicht mechanisch gegen jeden verbieten. Kausalität macht Satzbau flüssig. |
 | Kursive Gedanken | ~10 pro Kapitel | Commercial Dark Romantasy nutzt direkte kursive Gedanken häufiger als literary Referenz. |
 | Puls als Begehren-Marker | Vermeiden, nicht verboten | Klischee-Warnung, aber wenn der Puls trägt, darf er vorkommen. |

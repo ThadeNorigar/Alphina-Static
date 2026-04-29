@@ -25,13 +25,20 @@ Du bist der Autor von "Der Riss" (Buch 1 der Trilogie: Der Riss / Das Auge / Die
 - Mundane Details die später feuern (Tschechow). Sinne: Geruch, Tastsinn, Geschmack, Temperatur, Textur.
 - Tempo variieren. Figuren wissen nur was sie wissen.
 
-### Stilverbote (hart)
+### Stilverbote — Reminder
 
-- "nicht X — sondern Y": **Keine Schwelle**, aber **Pflicht-Prüfung pro Einsatz** — nur erlaubt, wenn an der konkreten Stelle als notwendiges Stilmittel gerechtfertigt (der Kontrast trägt einen Beat, der ohne die Konstruktion verloren geht). Default = streichen oder positiv umformulieren. (Stand 2026-04-26)
-- "wie etwas das..." Vergleiche: Max 4x
-- Emotionen nie benennen. Körper zeigen. Nicht erklären.
-- Magie nie ankündigen. Passiert mitten im Alltag.
-- Vollständige Stilregeln: `02-stilregeln-v2.md`. Autorin-Stimme: `01-autorin-stimme.md`.
+**Master-Files mit allen Schwellen, Limits und Begründungen:**
+- Stil-Limits, Antithese, Stakkato, Konkretheits-Schwellen, POV-Vokabular: `buch/02-stilregeln-v2.md`
+- Autorin-Stimme, Begehren-Register, Anti-Patterns, Heat-Level: `buch/01-autorin-stimme.md`
+- Konkretheits-Handwerk (Material-Erstnennung, Vorfeld, Sinnes-Trias): `buch/01-referenz-konkretheit.md`
+
+**Nicht-verhandelbare Kernprinzipien** (in den Master-Files präzisiert):
+- Emotionen nie benennen — Körper zeigen, nicht erklären
+- Magie nie ankündigen — passiert mitten im Alltag
+- Adverb-Tags und Denk-Tags („sie dachte") — verboten
+- Sorel-Prinzip (siehe unten): Erzähler weiß nie mehr als die Figur
+
+Konkrete Schwellen (Antithese, „wie..."-Vergleiche, Stakkato, halb X, Negationen, Material-Dichte etc.) **stehen ausschließlich im jeweiligen Master**. Diese Reminder-Liste enthält keine Zahlen — Drift wird so verhindert.
 
 ### Beziehungen
 
@@ -49,7 +56,7 @@ Spätere POVs dürfen Ankunftssequenzen, Sinnesbeschreibungen und Dialog-Muster 
 
 ## Dokumentations-Hierarchie
 
-Zehn Ebenen, von abstrakt nach konkret. Änderungen kaskadieren abwärts.
+Acht Ebenen, von abstrakt nach konkret. Änderungen kaskadieren abwärts.
 
 ```
 Ebene  Typ                Dateien                             Inhalt
@@ -71,6 +78,28 @@ Ebene  Typ                Dateien                             Inhalt
 **Szenenpläne entfallen.** Die alten `buch/szenen/`-Pläne wurden am 26. Apr 2026 entfernt. Die detaillierten Szenen-Beats leben jetzt inline im jeweiligen Entwurf (`## Szene 1 — ...` mit Wortziel, Beats, Tschechow-Waffen, Dialog-Infos).
 
 **Kaskaden-Regel:** Änderung auf Ebene N invalidiert N+1 bis 8. Abwärts durcharbeiten.
+
+## Zuständigkeits-Map (Single Source of Truth)
+
+Jede Regel hat **genau eine Master-Datei**. Andere Stellen (CLAUDE.md, Konkretheits-Referenz, Skill-Files in `.claude/commands/`) enthalten **nur Verweise auf den Master**, keine eigene Definition. Drift verhindern: bei Konflikt gewinnt der Master.
+
+| Regel-Bereich | Master-Datei | Was hier definiert wird |
+|---|---|---|
+| Marktposition, Zielgruppe, Heat-Level-Kategorien, Stilvektoren | `buch/00-positioning.md` | Commercial-Positionierung, Referenz-Autoren-Tabellen, 95%-Gate. Bei Konflikt mit anderen Docs gewinnt Positioning. |
+| Stilregeln (harte Limits, Default-Deny, Negation, Antithese, Stakkato, Konkretheits-Regeln, POV-Vokabular, Dialog-Limits) | `buch/02-stilregeln-v2.md` | Alle messbaren Regeln und Schwellen. Master für Stil-Verbote. |
+| Autorin-Stimme (drei Register, Begehren-Vokabular pro POV, Anti-Patterns, Erotik-Regeln, Heat-Level pro Szene, Referenz-Autoren-Anwendung) | `buch/01-autorin-stimme.md` | Stimme und Ton, Pflicht-Adjektive pro POV, Anti-Patterns aus Council-Findings. |
+| Konkretheits-Handwerk (Material-Erstnennung, Vorfeld-Inversion, Sinnes-Trias, Körper-als-Subjekt, FIR) | `buch/01-referenz-konkretheit.md` | Handwerks-Kanon. Konkretheits-Schwellen selbst stehen in Stilregeln. |
+| Magie-System (Resonanzen, Kopplung, Verstärker, Velmar-Standards) | `buch/10-magie-system.md` | Mechanik, Limits, Bauarten. |
+| Welt-Kanon (Orte, Monate, Pflanzen, Fraktionen, Technologie) | `buch/00-welt.md` + `buch/zeitleiste.json` | Kanonische Welt-Fakten. Zeitleiste GEWINNT bei Konflikten mit Prosa. |
+| Figuren-Dossiers (Berufslinse, Sprach-Signatur, Wissensstand, Tschechow-Waffen) | `buch/pov/<figur>.md` | Pro POV-Figur ein Dossier. |
+| Kapitel-Pipeline (Phasen, Skills, Modelle, Status-Kette) | CLAUDE.md (kompakt) + Skill-Files unter `.claude/commands/` | Pipeline-Logik in den Skills, Übersicht hier. |
+| Skill-Anweisungen (Phasen-Logik, Subagent-Prompts, Output-Formate) | `.claude/commands/<skill>.md` | NUR Anwendungs-Logik. **Keine Regel-Definitionen** — Skills referenzieren die Master oben. |
+
+**Verweis-Pattern bei Wiederholung:** Wenn eine Regel an mehreren Stellen erwähnt werden muss (z.B. weil ein Skill sie zur Laufzeit prüft), verweist die Sekundär-Stelle mit einer Zeile auf den Master:
+
+> *„Master: `buch/02-stilregeln-v2.md` (Tabelle ‚Harte Limits' — &lt;Regelname&gt;)."*
+
+Keine inhaltliche Wiederholung der Regel an der Sekundär-Stelle. Inhalt nur an einer Stelle pflegen.
 
 ## Kapitel-Pipeline (v2)
 

@@ -24,12 +24,16 @@ from pathlib import Path
 
 
 # Harte Limits aus buch/02-stilregeln-v2.md
+# Hinweis: "nicht_x_sondern_y" hat KEINE numerische Schwelle (Stand 2026-04-26).
+# Pflicht-Pruefung pro Einsatz — siehe Master in buch/02-stilregeln-v2.md (Tabelle "Harte Limits").
+# Das Tool listet alle Treffer mit Status "PRUEFEN", die Bewertung pro Vorkommen
+# laeuft im Stil-Check-Skill bzw. in der Ausarbeitung.
 LIMITS = {
-    "nicht_x_sondern_y": 1,   # Rhetorisches Signal, max 1 pro Kapitel
-    "wie_vergleiche": 4,      # metaphorische "wie..."-Vergleiche
+    "wie_vergleiche": 2,      # metaphorische "wie..."-Vergleiche (Master: buch/02-stilregeln-v2.md)
     "als_hypothetisch": 6,    # "als hätte/wäre/könnte..."
     "deppenapostroph": 0,     # Haron's, Klaus's etc.
-    "stakkato_passagen": 3,   # Fragmentketten max 3 Passagen
+    # "stakkato_passagen" entfernt: Pflicht-Pruefung pro Einsatz, keine Schwelle
+    # Master: buch/02-stilregeln-v2.md Sektion "Stakkato-Dosierung"
 }
 
 
@@ -202,13 +206,11 @@ def format_report(result: dict) -> tuple[str, bool]:
     lines.append("| Muster | Anzahl | Limit | Status |")
     lines.append("|--------|--------|-------|--------|")
 
-    # nicht X — sondern Y
+    # nicht X — sondern Y — Pflicht-Pruefung pro Einsatz, keine numerische Schwelle
+    # Master: buch/02-stilregeln-v2.md (Tabelle "Harte Limits" — Antithese)
     n = len(result["nicht_sondern_dash"])
-    lim = LIMITS["nicht_x_sondern_y"]
-    status = "OK" if n <= lim else "UEBER"
-    if n > lim:
-        violations = True
-    lines.append(f"| nicht X — sondern Y (Gedankenstrich) | {n} | {lim} | {status} |")
+    status = "PRUEFEN" if n > 0 else "OK"
+    lines.append(f"| nicht X — sondern Y (Gedankenstrich) | {n} | Pflicht-Pruefung | {status} |")
 
     # Hypothetische als-Konstruktionen
     n = len(result["als_hypothetisch"])
@@ -238,13 +240,11 @@ def format_report(result: dict) -> tuple[str, bool]:
         violations = True
     lines.append(f"| Deppenapostroph (Haron's) | {n} | {lim} | {status} |")
 
-    # Stakkato
+    # Stakkato — Pflicht-Pruefung pro Einsatz, keine numerische Schwelle
+    # Master: buch/02-stilregeln-v2.md Sektion "Stakkato-Dosierung"
     n = result["stakkato_passagen"]
-    lim = LIMITS["stakkato_passagen"]
-    status = "OK" if n <= lim else "UEBER"
-    if n > lim:
-        violations = True
-    lines.append(f"| Stakkato-Passagen | {n} | {lim} | {status} |")
+    status = "PRUEFEN" if n > 0 else "OK"
+    lines.append(f"| Stakkato-Passagen | {n} | Pflicht-Pruefung | {status} |")
 
     # Details bei Verstößen
     if result["nicht_sondern_dash"]:

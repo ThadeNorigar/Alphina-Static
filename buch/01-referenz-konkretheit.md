@@ -112,7 +112,9 @@ Kursiv **nur** für Fast-Ausrufe (5–6 pro Kapitel maximal).
 
 ## 10. Antithese-Disziplin
 
-**Prinzip:** *"Nicht X — sondern Y"* ist ein rhetorisches Signal. Die Referenz-Autorin nutzt es zu oft (3–5x pro Seite). Unser Limit bleibt hart: **1x pro Kapitel**.
+Master: `buch/02-stilregeln-v2.md` (Tabelle „Harte Limits" — *"nicht X — sondern Y"*).
+
+Hintergrund hier: Die Referenz-Autorin nutzt die Konstruktion zu oft (3–5× pro Seite). Bei uns gilt Pflicht-Prüfung pro Einsatz, keine Schwelle.
 
 ---
 

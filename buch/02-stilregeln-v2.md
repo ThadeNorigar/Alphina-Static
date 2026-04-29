@@ -8,7 +8,7 @@
 
 | Muster | Max pro Kapitel |
 |--------|----------------|
-| "nicht X — sondern Y" (Antithese) | **2.** Rhetorisches Signal. Max zweimal pro Kapitel als Akzent (Stand 2026-04-24). Mehr ist Predigt. |
+| "nicht X — sondern Y" (Antithese) | **Pflicht-Prüfung pro Einsatz, keine Schwelle.** Default streichen oder positiv umformulieren. Einsatz erlaubt nur, wenn der Kontrast an der konkreten Stelle einen Beat trägt, der ohne die Konstruktion verloren geht. (Stand 2026-04-26) |
 | "wie etwas das..." / "wie ein..." Vergleiche | **2.** Nur wenn das Vergleichsbild konkreter ist als das Verglichene. |
 | Deppenapostrophe (Haron's, Klaus's, Vesper's) | **0.** Deutsch: Harons Boot, Vespers Uhr. Apostroph NUR bei Namen auf s/z: "Voss' Nichte", "Edrics Werkbank." |
 | Redundanter Nachsatz nach treffendem Wort | **0.** Wenn das Wort den Job erledigt, keinen Nachsatz. |
@@ -43,7 +43,7 @@ Einsatzfelder:
 - **Aufzählung als Inventur:** Figur prüft, zählt, katalogisiert.
 - **Hammerschlag:** EIN Einwortsatz nach einem langen Absatz als Akzent.
 
-**Max pro Kapitel:** 4-5 Stakkato-Passagen (je max 3 Fragmentsätze in Folge). Darüber hinaus: normale Sätze. Kurze Sätze (10-15W) sind KEIN Stakkato — sie sind gute Prosa.
+**Pflicht-Prüfung pro Einsatz, keine numerische Schwelle.** Default = vollständige Sätze. Eine Stakkato-Passage ist nur erlaubt, wenn sie an dieser konkreten Stelle als notwendiges Stilmittel gerechtfertigt ist (Schock, Bruch, Hammerschlag, Heat/Kontrollverlust, Inventur). Jedes Vorkommen einzeln begründen. Kurze Sätze (10-15W) sind KEIN Stakkato — sie sind gute Prosa. (Stand 2026-04-26)
 
 ## Erklärungen
 
@@ -400,7 +400,7 @@ Ist Antwort 1 oder 2 „ja" → streichen oder umformulieren. Ist 3 „ja" → N
 | *„Kein Fenster."* (als Info-Satz) | *„Die Wand war geschlossen."* / Raum beschreiben |
 
 ### Muster, die fast immer streichen/umformulieren
-- *„Nicht X — sondern Y"* (Antithese, gesondert auf max 2/Kap limitiert — Stand 2026-04-24)
+- *„Nicht X — sondern Y"* (Antithese, Pflicht-Prüfung pro Einsatz — siehe Tabelle „Harte Limits" oben)
 - *„Kein X. Nur Y."* als Pointe
 - *„X, nicht Y"* wenn Y nie behauptet wurde
 - *„weiß nicht / kann nicht / konnte nicht"* am Satzende als resignativer Abschluss
@@ -416,13 +416,13 @@ Echte Negation, wenn das Nicht-Tun SELBST die Handlung ist: *„Er sagte nichts"
 - Gesamt-Dichte der Negations-Marker (*nicht*, *nichts*, *kein/e/r*) pro 1.000 Wörter
 - FINDING wenn > 15 pro 1.000 W (Prosa ist negations-lastig)
 - Liste der Sätze mit Negations-Marker zur manuellen Prüfung (ob positive Umformulierung möglich)
-- Spezifische Muster: *„Nicht X — sondern Y"* (siehe Antithese-Limit 2/Kap), *„Kein X. Nur Y."*, *„Nichts [Verb]te"* am Absatz-Ende
+- Spezifische Muster: *„Nicht X — sondern Y"* (siehe Tabelle „Harte Limits" oben), *„Kein X. Nur Y."*, *„Nichts [Verb]te"* am Absatz-Ende
 
 ## Pseudo-Präzision: „halb X"-Tic (April 2026)
 
 **Grundproblem:** Formulierungen der Form *„halb + Zeit-/Maß-/Körpereinheit"* — *halbe Sekunde*, *halber Zoll*, *halber Schritt*, *halber Atemzug*, *halbe Handbreit* — sind ein verdeckter Mess-Tic. Sie klingen präzise, liefern aber keine Information, die *kurz*, *knapp*, *einen Moment*, *einen Augenblick* nicht auch trügen. Wiederholt als Muster wirkt es pseudo-wissenschaftlich und untergräbt die Regel *„Alphina keine Uhrmacher-Präzision"*.
 
-**Regel:** *„halb + Zeit/Maß/Körper"* als subtiler Geste-Marker **max 2× pro Kapitel**. Darüber hinaus: durch natürlichere Wörter ersetzen.
+**Regel:** *„halb + Zeit/Maß/Körper"* — **Pflicht-Prüfung pro Einsatz, keine numerische Schwelle.** Default = streichen oder durch natürlichere Wörter ersetzen (*kurz*, *knapp*, *einen Moment*, *einen Augenblick*) oder durch eine konkrete Maßangabe ohne „halb" (*einen Zoll*, *eine Spanne*, *Haarbreit*, *einen Takt*). Einsatz erlaubt nur bei zwingender Funktion (echte Maßangabe mit Folge, Canon-Zitat, kodifiziertes Velmar-Ritual). (Stand 2026-04-26)
 
 ### Test
 
@@ -448,9 +448,9 @@ Ist *„halb X"* ein echtes Maß (Uhrzeit, Position, Canon-Zitat)? Oder ein subt
 
 ### Der /stil-check prüft
 
-- Gesamt-Zahl *halb*-Treffer pro Kapitel
-- FINDING wenn > 4 Treffer gesamt (inklusive echter Maße)
-- Besonders flagen: Regex `halb[en]?\s+(Sekund|Minut|Atemzug|Zoll|Schritt|Handbreit|Meter|Zentimeter)` — das sind die Tic-Formen
+- Gesamt-Zahl *halb*-Treffer pro Kapitel — jeden Treffer einzeln markieren (keine Schwelle, Pflicht-Prüfung pro Einsatz)
+- Besonders flaggen: Regex `halb[en]?\s+(Sekund|Minut|Atemzug|Zoll|Schritt|Handbreit|Meter|Zentimeter)` — das sind die Tic-Formen, Default streichen
+- Echte Maße (Uhrzeit, Position, Sprech-Beat, Canon-Zitate) als legitim markieren
 
 ## Default-Deny-Prinzip (Council April 2026)
 
@@ -458,7 +458,7 @@ Stilmittel sind **DEFAULT VERBOTEN** bis sie bewusst freigegeben werden. Die fol
 
 | Stilmittel | Default | Erlaubt wenn |
 |---|---|---|
-| Stakkato (Fragmentsätze <4W ohne Verb) | VERBOTEN | Schock, Inventur, Hammerschlag. Max 2-3 Passagen/Kap |
+| Stakkato (Fragmentsätze <4W ohne Verb) | VERBOTEN | Pflicht-Prüfung pro Einsatz — siehe Sektion „Stakkato-Dosierung" oben (keine numerische Schwelle, jeder Einsatz begründungspflichtig) |
 | Erklärende Nachsätze | VERBOTEN | Gedankengang = Erkenntnis für die Figur |
 | Metapher + Erklärung | VERBOTEN | NIE |
 | Emotionen benennen (Narrator-Stimme) | VERBOTEN | NIE |
@@ -470,7 +470,7 @@ Stilmittel sind **DEFAULT VERBOTEN** bis sie bewusst freigegeben werden. Die fol
 | "sie dachte" / "er fragte sich" | VERBOTEN | NIE |
 | Adverb-Tags | VERBOTEN | NIE |
 | Kursive Gedanken >6 pro Kapitel | VERBOTEN | 5-6 ist das Limit |
-| "wie etwas das..." Vergleiche >4 | VERBOTEN | 4 ist das Limit |
+| "wie etwas das..." Vergleiche | VERBOTEN über Limit | siehe Tabelle „Harte Limits" oben |
 
 **Prinzip:** Wenn ein Stilmittel nicht in der "Erlaubt wenn"-Spalte eine explizite Ausnahme hat, ist es verboten. Im Zweifel: nicht verwenden.
 
@@ -488,7 +488,7 @@ Stilmittel sind **DEFAULT VERBOTEN** bis sie bewusst freigegeben werden. Die fol
 | Abstrakte Nomina pro Absatz (Stille, Kälte, Schwere, Leere, Ferne, Ewigkeit, Dunkelheit, Unendlichkeit, Unheimliches, Abgrund, Raum als Metapher) | **max. 1** |
 | Abstraktum + Abstraktum in einem Satz (*"die Stille des Abgrunds"*, *"die Kälte der Leere"*) | **0** |
 | Metapher ohne Boden (Bild ohne schon benanntes Ding) | **0** |
-| "wie X"-Vergleich (verschärft von 4) | **max. 2 pro Kapitel**. Nur wenn X konkreter als das Verglichene. |
+| "wie X"-Vergleich | siehe Tabelle „Harte Limits" oben (Master für Schwelle) |
 | Zwei Metaphern im selben Absatz für dasselbe Referenzobjekt | **0** |
 | Metapher direkt nach Emotion-Erkenntnis | **0**. Körperbild reicht. |
 
@@ -552,8 +552,8 @@ In Szenen mit körperlicher Nähe oder BDSM ist **bildlastige Prosa erlaubt und 
 - Abstrakta-Stapel (*"die Stille des Abgrunds ihrer Kehle"*)
 - Bild ohne Material-Boden (*"etwas in ihr öffnete sich"* — was? wo?)
 - Benannte Emotion als Nomen (*"die Obsession"*, *"die Sehnsucht"*)
-- Antithese *"nicht X — sondern Y"* über Limit (2/Kapitel gilt auch hier, Stand 2026-04-24)
-- *"wie ein..."*-Vergleiche über 2/Kapitel
+- Antithese *"nicht X — sondern Y"* (Pflicht-Prüfung gilt auch in BDSM-Szenen — siehe Tabelle „Harte Limits" oben)
+- *"wie ein..."*-Vergleiche über Limit (siehe Tabelle „Harte Limits" oben)
 - Passiv-Kaskaden (*"sie wurde entkleidet, sie wurde gewaschen, sie wurde geführt"*) — bei Réage als Objektifikations-Effekt, bei uns tot über 900 Seiten
 - Dom-Monolog über 4 Sätze (Réage macht es, wir kürzen)
 - Dokumentarstimme (*"ich weiß nicht, wie lange..."*) — Deep-POV bricht

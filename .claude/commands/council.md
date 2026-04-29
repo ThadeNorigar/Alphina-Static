@@ -26,7 +26,7 @@ Argument: Pfad zur Datei (z.B. `buch/kapitel/02-szene1.md`)
 - **Erzähldichte:** King-Niveau? Sinne aktiv? Details spezifisch? Mundane Verankerung vor dem Übernatürlichen?
 - **Medley-Check:** Emotionale Zurückhaltung (SenLinYu)? BDSM als Charakterarbeit (Douglas/Robert)? POV-Signatur lesbar (Bardugo)? Verfremdete Verben in Moragh (Black)?
 - **Logik:** Tageszeit, Wetter, Ort, Figurenwissen, Technologie, Puls-Konsistenz
-- **Stil:** Max 2x "nicht X — Y", Max 4x "wie"-Vergleiche, keine benannten Emotionen
+- **Stil:** Master für Schwellen → `buch/02-stilregeln-v2.md` (Tabelle „Harte Limits") + `buch/01-autorin-stimme.md`. Pflicht-Prüfung pro „nicht X — Y", "wie..."-Vergleiche dosiert, keine benannten Emotionen.
 - **Tschechow:** Waffen geladen? Unsichtbar genug? Zu viele?
 - **Szenenübergänge:** Fließt es? Kein Sprung ohne Brücke?
 
