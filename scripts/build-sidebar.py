@@ -122,8 +122,8 @@ def remove_all_sidebar_blocks(content: str) -> str:
     return content
 
 
-SIDEBAR_LINK_TAG = '<link rel="stylesheet" href="/story-in-work/sidebar.css?v=20260502g">'
-SIDEBAR_SCRIPT_TAG = '<script src="/story-in-work/sidebar.js?v=20260502g" defer></script>'
+SIDEBAR_LINK_TAG = '<link rel="stylesheet" href="/story-in-work/sidebar.css?v=20260502h">'
+SIDEBAR_SCRIPT_TAG = '<script src="/story-in-work/sidebar.js?v=20260502h" defer></script>'
 
 
 def ensure_css_js_tags(content: str) -> str:
