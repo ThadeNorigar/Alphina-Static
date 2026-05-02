@@ -14,10 +14,9 @@
   --siw-line: rgba(232, 224, 212, 0.1);
 }
 
-/* Body-Layout: Sidebar links, Inhalt daneben */
+/* Body-Verschiebung: nur padding-left, kein flex/justify forciert.
+   Die Sidebar selbst ist position:fixed, der Inhalt rueckt rechts daneben. */
 body.siw-with-sidebar {
-  display: flex !important;
-  justify-content: flex-start !important;
   padding-left: calc(var(--siw-sidebar-width) + 1.5rem) !important;
 }
 
@@ -52,7 +51,7 @@ body.siw-with-sidebar > nav {
   padding: 1.8rem 1.2rem 2.5rem;
 }
 
-/* Brand: Original page-title-Stil aus story-in-work */
+/* Brand */
 .siw-brand {
   display: block;
   font-family: 'Cormorant Garamond', serif;
@@ -91,7 +90,7 @@ body.siw-with-sidebar > nav {
   margin-bottom: 0.3rem;
 }
 
-/* Top-Level Links (Trilogie, Zeitleiste, Architektur) — original nav-Stil */
+/* Top-Level Links */
 .siw-link {
   display: block;
   font-family: 'Cormorant Garamond', serif;
@@ -110,7 +109,7 @@ body.siw-with-sidebar > nav {
   color: var(--siw-paper);
 }
 
-/* Sub-Links (innerhalb einer Layer-Sektion) */
+/* Sub-Links */
 .siw-link.siw-sub {
   font-size: 0.88rem;
   padding: 0.4rem 0.6rem 0.4rem 1.2rem;
@@ -122,7 +121,7 @@ body.siw-with-sidebar > nav {
   color: var(--siw-paper-edge);
 }
 
-/* Aktive Seite — goldener Akzent wie original nav.active */
+/* Aktive Seite */
 .siw-link.siw-active {
   color: var(--siw-accent-warm);
 }
@@ -139,7 +138,7 @@ body.siw-with-sidebar > nav {
   border-radius: 1px;
 }
 
-/* Hamburger-Button (nur Mobile sichtbar) */
+/* Hamburger (Mobile) */
 .siw-burger {
   display: none;
   position: fixed;
@@ -209,11 +208,5 @@ body.siw-with-sidebar > nav {
 
   .siw-overlay {
     display: block;
-  }
-
-  body.siw-with-sidebar > .wrap,
-  body.siw-with-sidebar > .grain ~ .wrap,
-  body.siw-with-sidebar > .doc {
-    margin-top: 3.5rem;
   }
 }
