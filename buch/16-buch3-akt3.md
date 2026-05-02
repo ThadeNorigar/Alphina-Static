@@ -38,7 +38,7 @@ Alphina legt das Velmar-Dokument auf den Tisch. *„Von Elke. Über Maren. Sie h
 
 Vesper nimmt es. Liest. Seine Muster-Resonanz greift die alte Sprache in Minuten. Seine Augen werden schmal. Er liest ein zweites Mal, langsamer.
 
-**Das Ritual-Kalkül.** Er erklärt es ihr, präzise, in kurzen Sätzen. Das Moragh-Sprachbuch beschreibt ein Velmar-Ritual: vier Thalassier-Resonanzen absorbieren, auf den Binder übertragen. Vorbedingung: Anker-Transfer bei allen vier. Ergebnis: der Binder wird preisfreier Magier mit Portal-Kontrolle.
+**Das Ritual-Kalkül.** Er erklärt es ihr, präzise, in kurzen Sätzen. Das Moragh-Sprachbuch beschreibt ein Velmar-Ritual: vier Thalassier-Resonanzen absorbieren, auf den Binder übertragen. Vorbedingung: Velmar-Bindungsmechanik bei allen vier (Halsband-Sigil oder gleichwertige Trägerstücke), Drainage-Akkumulation über Monate. Ergebnis: der Binder wird preisfreier Magier mit Portal-Kontrolle.
 
 *„Das steht hier. Mit deinem Namen als Rechengröße."*
 
@@ -87,7 +87,7 @@ Sie kehrt zurück. Varen empfängt sie warm — zu warm. Er fragt, wie Vesper wa
 
 Sie öffnet es mit ihrer Resonanz — Wurzeln unter die Platte, kleiner Druck, das Schloss springt.
 
-Darin: Das Ritual-Buch. Und — lose Blätter — **seine Handschrift**. Eine Liste mit vier Namen. Alphina, Vesper, Runa, Maren. Daneben Zahlen (Anker-Prozente). Und ein Satz am Rand, in seiner Handschrift:
+Darin: Das Ritual-Buch. Und — lose Blätter — **seine Handschrift**. Eine Liste mit vier Namen. Alphina, Vesper, Runa, Maren. Daneben Zahlen (Drainage-Akkumulations-Prozente). Und ein Satz am Rand, in seiner Handschrift:
 
 *„Die Trauer macht sie stärker. Sorels Nutzen liegt im Sterben."*
 
@@ -95,7 +95,7 @@ Alphina liest den Satz dreimal. Ihre Hand wird kalt. Sie legt das Blatt zurück.
 
 Sie schläft nicht. Sie entscheidet nicht. Sie atmet. Denkt. Rechnet.
 
-**Sorel war kein Zufall.** Der Satz steht da. Varen hat Sorel sterben lassen, damit Alphinas Trauer sie stärker machte. Damit der Anker fester saß. Damit sie hassgetrieben nach Moragh kam.
+**Sorel war kein Zufall.** Der Satz steht da. Varen hat Sorel sterben lassen, damit Alphinas Trauer sie stärker machte. Damit sie hassgetrieben nach Moragh kam, damit sie ihm später ergeben war, weil er die einzige Antwort schien.
 
 Das ist der Moment, in dem ihre Welt kippt. Nicht laut. Nicht mit Tränen. Nur ein kaltes Verstehen.
 
@@ -120,11 +120,11 @@ Sie packt wenig. Zwei Tage Kleidung. Das Velmar-Dokument (nicht das Ritual-Buch 
 
 **Sie verlässt Torkal.** Reitet Richtung Dravek. Eine Viertelstunde später biegt sie ab. Reitet Richtung Nord-Ost, in Bund-Gebiet. Ihr Ziel: eine freie Stadt, in der sie auf einen Boten warten kann. Ihr Plan: einen Brief an Vesper schicken. *„Ich glaube dir. Wo treffen wir uns."*
 
-**Varens Schemen holen sie nicht sofort.** Der Anker zieht, aber sie ist geübt darin, ihn zu ignorieren. Zwei Tage lang reitet sie. In einer kleinen Siedlung bei **Kolmen** (freie Stadt, aus der Karte) quartiert sie sich ein. Schickt den Brief über einen Reise-Kurier.
+**Varens Schemen holen sie nicht sofort.** Das Halsband ist still — Varen hat es nicht aktiviert, er weiß noch nicht, dass sie geflohen ist. Die monatelange vegetative Konditionierung zieht sie zurück, aber sie ist geübt darin, sie zu ignorieren. Zwei Tage lang reitet sie. In einer kleinen Siedlung bei **Kolmen** (freie Stadt, aus der Karte) quartiert sie sich ein. Schickt den Brief über einen Reise-Kurier.
 
-**Letzte Szene.** Abend in einem Gasthaus-Zimmer. Sie sitzt am Fenster. Der Anker zieht, unangenehm, wie ein dumpfer Zahn. Sie legt die Hand auf ihre Wirbelsäule. Flüstert: *„Ich komme nicht wieder."*
+**Letzte Szene.** Abend in einem Gasthaus-Zimmer. Sie sitzt am Fenster. Das Halsband am Hals — kühl, schwer, unverändert. Der vegetative Zug nach Torkal ist da, unangenehm, wie ein dumpfer Zahn. Sie flüstert: *„Ich komme nicht wieder."*
 
-Der Anker bleibt. Aber sie bleibt auch.
+Das Halsband bleibt. Aber sie bleibt auch.
 
 **Tschechow:** Alphina in der freien Stadt Kolmen. — Feuert: Akt III später, wenn die Gruppe sich dort das erste Mal vollständig trifft.
 
@@ -143,7 +143,7 @@ Er schließt die Augen. Rechnet.
 
 Das ist der Punkt, an dem er sein Verhalten ändern muss. Keine Helfersyndrom-Fassade mehr — das wird nicht funktionieren, wenn sie ihn durchschaut hat. Er braucht einen **neuen Plan**: Beschleunigung des Rituals, bevor die Gruppe gegen ihn handeln kann.
 
-**Er aktiviert seinen Zirkel.** Die 20–30 Anhänger, die er über die Jahre trainiert hat, werden nach Torkal gerufen. Innerhalb von zwei Moragh-Wochen sollen sie dort sein. Außerdem: er setzt die letzten drei Anker an den Moragh-Magiern (Tormen, Varshek, Narveth — bei zwei von dreien hat er es in Akt II schon getan, der dritte steht aus). Er braucht maximales Reservoir.
+**Er aktiviert seinen Zirkel.** Die 20–30 Anhänger, die er über die Jahre trainiert hat, werden nach Torkal gerufen. Innerhalb von zwei Moragh-Wochen sollen sie dort sein. Außerdem: er platziert die letzten drei Velmar-Trägerstücke bei den Moragh-Magiern (Tormen, Varshek, Narveth — bei zwei von dreien hat er es in Akt II schon getan, der dritte steht aus). Er braucht maximales Reservoir.
 
 **Die Ritual-Ersatzkandidatin.** Er hat in den letzten Wochen eine Thalassierin ausgemacht — eine Überlebende der ersten Expedition, die durch Moragh wandert. Sein Schemen-Netzwerk hat sie lokalisiert: **Tyra Halvard**. Sie hat Resonanz-Marker. Sie kann als Ersatz für Maren dienen.
 
@@ -199,7 +199,7 @@ Alphina nickt, lässt sie herein. Bestellt Tee.
 
 Tyra schluckt. Öffnet ihre Innentasche. Holt Esins Brief heraus. Liest ihn zum ersten Mal seit Tag vor dem Aufbruch. *„Komm wieder."* Sie weint einmal, kurz. Faltet den Brief, steckt ihn zurück.
 
-**Der Zusammenschluss.** Alphina erzählt Tyra von Varen. Das Ritual, der Anker, Elke, Talven. Tyra hört zu. Sagt: *„Ich habe eine Fähigkeit, die in Moragh erwacht ist. Ich kann Schemen mit Stimme ausstatten. Zwei Schemen, ein Fernsprecher. Das könnte euch helfen."*
+**Der Zusammenschluss.** Alphina erzählt Tyra von Varen. Das Ritual, das Halsband, Elke, Talven. Tyra hört zu. Sagt: *„Ich habe eine Fähigkeit, die in Moragh erwacht ist. Ich kann Schemen mit Stimme ausstatten. Zwei Schemen, ein Fernsprecher. Das könnte euch helfen."*
 
 Alphina nickt. *„Zeig es mir."*
 
@@ -387,7 +387,7 @@ Alphina nickt. Der Abend zieht herein. Morgen brechen sie nach Dravek auf.
 | Detail | Kap | Feuert in |
 |--------|-----|-----------|
 | Alphinas Liste der drei Symptome (Wärme, Müdigkeit, Ziehen) | 61 | Akt IV, wenn sie das Dokument findet und alle drei bestätigt |
-| Tormen (als unerklärlich erschöpfter Schall-Rufer) | 62 | Akt IV, auf Varens Anker-Liste wiedergefunden |
+| Tormen (als unerklärlich erschöpfter Schall-Rufer) | 62 | Akt IV, auf Varens Bindungs-Liste wiedergefunden |
 | „Sorels Nutzen liegt im Sterben" — der Satz | 63 | Akt IV, Duell |
 | Alphina in Kolmen, freie Stadt, wartet auf Boten | 64 | Akt III/IV, Versammlungsort der Gruppe |
 | Varens Zirkel-Aktivierung (20–30 Anhänger) | 65 | Akt IV, Kampf im Finale |

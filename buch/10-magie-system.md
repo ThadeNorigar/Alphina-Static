@@ -506,6 +506,50 @@ Varen hat durch ein fehlgeschlagenes Leylinien-Experiment die Überladung entdec
 
 **Quellen-Überladung ist KEINE normale Magie.** Es ist die gezielte Zerstörung einer natürlichen Energiequelle. Der Boden bebt, Bäume verdorren, Menschen die auf die Quelle angewiesen sind verlieren ihre Magie-Erholung. Permanent.
 
+### Bindungsmagie — zwei Mechanismen (Canon seit 1. Mai 2026)
+
+Der Begriff *Bindungsmagie* trägt im Velmar-Vokabular zwei verschiedene Wirkungen, die im Lese-Fluss leicht zu verwechseln sind. Sie sind getrennt zu halten.
+
+**1. Druck-Fixierung.** Eine Velmar-Druckmagier (Stufe 4+) kann jeden Menschen kurz reglos halten — sekundenlang bis minutenlang, abhängig von Reservoir und Stufe. Wirkt körperlich (Kompression der Muskel-Steuerung), nicht magisch-vereinnahmend. **Funktioniert auch bei Resonanz-Trägern.** Beispiele: Varen am Steinplatz (B1, hält die Vier kurz fest, bevor das Portal sich schließt). Varen im Halvaren-Archiv (B2-K16, fixiert Alphina kurz). Varen am Halvara-Kel-Schlachtfeld (B2-K27, hält Alphina nach Quellen-Tod fest). Druck-Fixierung ist Halt, nicht Kontroll-Übernahme — sie endet, wenn der Wirker das Reservoir entlädt oder ablässt.
+
+**2. Schemen-Bindung.** Die eigentliche Velmar-Kunst — ein gerufener Schemen wird an einen Beschwörer gebunden, dauerhaft oder zeitlich begrenzt. Der Schemen verliert eigene Initiative, wird Werkzeug. **Funktioniert nur bei Schemen.** Resonanz-Träger (Thalassier) und Moragh-Geborene sind gegen diese Mechanik immun — ihr Wille gibt sich nicht ab.
+
+**Konsequenz für Captivity-Szenen:** Um einen Resonanz-Träger über längere Zeit gefangen zu halten, reicht Druck-Fixierung nicht (Reservoir endlich), und Schemen-Bindung greift nicht. Velmar nutzt deshalb das **präparierte Lederhalsband** (siehe Sektion „Magie-Dämpfung — Lederhalsband"): es absorbiert Wirk-Versuche reaktiv, hält die Resonanz aber nicht vereinnahmt. Das Halsband bindet nicht, es **dämpft**. Der Träger kann denken, fühlen, wirken-wollen — aber jede Wirkung verpufft am Stahlring.
+
+### Quellen-Kollaps-Wirkung (Canon seit 30. Apr 2026)
+
+Wenn eine Moragh-Quelle stirbt — durch Überladung oder katastrophalen Unfall — entfaltet sich die Wirkung in drei Schichten.
+
+**1. Resonanzen (Thalassier in Moragh): nicht betroffen.** Ihre Magie ist azyklisch und unabhängig von Moragh-Quellen. Sie spüren den Tod körperlich (wie einen Herzstillstand im Gestein), bleiben aber sofort wirkfähig. Das gilt für alle fünf Vael-Thalassier (Alphina, Sorel, Vesper, Maren, Runa) — und für jeden Thalassier, der je durchs Portal kommt.
+
+**2. Moragh-Magier in Quellen-Reichweite: instantaner Speicher-Entzug.** Reservoir leert sich sofort, Magie unmöglich. Nachladen unmöglich — die speisende Quelle ist tot. Sie sind in Sekunden wehrlos und können ihren Beruf nicht mehr ausüben. Reichweite des Effekts entspricht dem Quellen-Einzugsbereich (Stadt + Umland).
+
+**3. Schemen in Reichweite: verlieren ihren Antrieb.** Bindungs-Reservoir des Beschwörers ist leer, Schemen werden inert. *Bereits präaktivierte Schemen können ihre laufende Aktion noch zu Ende führen, dann lösen sie sich auf.* Diese Ausnahme ist Varens Kern-Trick auf dem Halvara-Kel-Schlachtfeld (K27): seine Schemen-Vorhut ist aufgeladen vor Quellen-Tod, agiert während der Kollaps-Welle, zerfällt danach.
+
+**Direkte Tote durch den Quellen-Tod selbst: keine.** Tote entstehen durch normale Waffen (Schwerter, Pfeile, Bestien-Kollisionen), weil die magische Verteidigung weggebrochen ist. Magier in Schlacht-Mitte werden plötzlich von Klingen-Trägern überrannt.
+
+**Sekundäre Tote über Tage/Wochen.** Stadt wird unbewohnbar — Wasser-Pumpen-Magie weg, Heizung weg, Lebensmittel-Magie weg. Bewohner werden Heimatlose oder sterben an Versorgungsausfall. So wird Halvara-Kel über Monate zur Ruine wie Mar-Keth, Dulrath-Ost, Reshkol vor ihr.
+
+**Konsequenz für Schlacht-Strategie:** Ein Bund-Resonanz-Magier wie Alphina kann eine Front-Stadt magisch entkernen, ohne sie direkt anzugreifen — die magische Verteidigung implodiert von innen, der Sturm wird billig. Drael nutzt das in K26 als Probe (Wegquelle) und in K27 als Hauptschlag (Halvara-Kel).
+
+### Kampf um Quellen — Standard-Doktrin (Canon seit 1. Mai 2026)
+
+**Quellen sind keine Stürmungs-Ziele, sondern Erschöpfungs-Spiele.** Die normale Moragh-Kriegslogik um eine Frontstadt-Quelle läuft über Tage bis Wochen, nicht über einen fokussierten Vorstoss.
+
+**Standard-Muster:**
+- **Magier-Erschöpfung.** Beide Seiten setzen Klingen-Truppen + Magier ein. Ziel: gegnerische Magier in Reservoir-Erschöpfung treiben (Sport-Müdigkeit, kein Schaden — siehe oben). Ein erschöpfter Magier muss aus dem Quellen-Radius zurück zur Erholungs-Quelle, kann tagelang nicht wirken.
+- **Reichweiten-Spiel.** Möglichst viele eigene Mann in den Quellen-Radius bringen (sie können dort nachladen), möglichst viele gegnerische Mann aus dem Radius drängen (sie können dort nicht nachladen).
+- **Logistik-Front.** Frische Magier nachschieben, Erschöpfte rotieren raus. Ein Quellen-Kampf ist Nachschub-Spiel über Tage.
+- **Oberhand-Erkennung.** Wenn eine Seite in Reichweite Magier-Übermacht hat und die andere erschöpft ist, gibt die schwächere Seite die Quelle auf, zieht sich zurück. Kein Sturm, sondern strukturierter Rückzug.
+
+**Was es NICHT ist:**
+- **Direkter Sturm zur Quelle** mit fokussiertem Vorstoss. Das ergibt taktisch keinen Sinn — eine Quelle steht in der Mitte einer Stadt oder Anlage, geschützt durch Wallring, Magier-Verteidigung, Bestien. Eine Frontlinie zerlegt sich an der Wallring-Magie, bevor sie überhaupt nahe an die Quelle kommt.
+- **Quellen-Zerstörung als Ziel.** Auch der Sieger einer Quellen-Schlacht *behält* die Quelle. Er nutzt sie. Eine zerstörte Quelle ist Verlust für alle.
+
+**Konsequenz für Halvara-Kel (B2-K27):** Der Bund-Vorstoss direkt zur Quelle ist **untypisch**. Vesper erkennt das Muster-Bruch innerhalb der ersten Stunden des Kampfes — kein Erschöpfungs-Spiel, kein Reichweiten-Tausch, sondern fokussierter Sturm. Das verrät: der Bund hat ein neues Werkzeug. Vesper geht selbst zur Quelle, um zu verstehen — sein Schach-Spieler-Kopf erkennt eine ungelöste Position. Damit ist er beim Schock-Wiedersehen mit Alphina zur richtigen Zeit am richtigen Ort, nicht durch Zufall.
+
+**Quellen-Tod als Waffen-Innovation des Bundes:** Mit Alphinas Resonanz hat der Bund erstmals ein Werkzeug, das das Standard-Spiel umgeht. Statt Magier zu erschöpfen, tötet er die Quelle. Magier-Verteidigung kollabiert sofort. Das ist neu, das ist tabu, und es macht die Kriege bis B3 grausamer — andere Fraktionen versuchen es zu kontern, scheitern.
+
 ---
 
 ## Die Riss-Quelle
@@ -719,7 +763,7 @@ Varen nutzt diese Fähigkeit unter anderem:
 
 Alphinas thalassische Resonanz **kann tatsächlich** einen Puls in eine tote Quelle injizieren — die Quelle pulsiert für Tage wieder, Wärme kehrt kurz in den Stein zurück. **Aber:** Ein einzelner Puls hält nicht. Für dauerhafte Versorgung (200.000 Menschen pro Quelle) bräuchte man hundert Thalassier über Generationen. Unerreichbar.
 
-Varen verschweigt Alphina diese energetische Unmöglichkeit. Sie glaubt, sie seien Pioniere. Jede Sitzung entzieht ihr zusätzlich Resonanz über den B2-Anker (siehe `19-varen.md`) in Varens Speicher — der echte Zweck. Der Betrug liegt in der Ausblendung der Unmöglichkeit, nicht in simulierter Physik.
+Varen verschweigt Alphina diese energetische Unmöglichkeit. Sie glaubt, sie seien Pioniere. Jede Sitzung entzieht ihr zusätzlich Resonanz über die präparierte Velmar-Bindungsmechanik in Varens Speicher — der echte Zweck. Der Betrug liegt in der Ausblendung der Unmöglichkeit, nicht in simulierter Physik. Mechanik-Details siehe `19-varen.md` und Aktplan B2 IV (`09-buch2-akt4.md`).
 
 ### Schemen-Reaktion auf verbotene Praxis
 

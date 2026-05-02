@@ -157,96 +157,88 @@ Vier Überlebende. Gehen zu einem Lichtschein. Wissen nicht wohin.
 ## BUCH 2 — DAS AUGE
 
 ### Setting
-Moragh. Krieg zwischen Bund von Orath, Konglomerat der Thar, Velmar.
+Moragh, ~MZ 1.0 bis ~MZ 4.5 (≈ 4 MZ-Monate, ≈ 130 TZ-Jahre). Krieg zwischen Bund von Orath, Konglomerat der Thar, Velmar. **Tide 20–100 m, keine Häfen, keine Schifffahrt** — Marens Schiffbau ist auf Moragh nutzlos. Identitäts-Bruch als Heimkehr-Antrieb. Zeitdilatation 1 MZ-Stunde = 17 TZ-Tage.
 
 ### Alphinas Bogen
-**2/3 des Buches HASS.** Alphina hasst Varen, trainiert ihre Resonanz beim Bund als Waffe gegen ihn. Erst ab Mitte Buch 2 kommen **Zweifel am Bund**. Am 2/3-Mark zerstört sie eine Quelle im Bund-Auftrag — Varen nimmt sie gefangen. **Erst am Ende von Buch 2** schlägt sie sich auf seine Seite — nicht aus Schuld-Spiegelung, sondern weil Varen seine eigene Schuld verschweigt und sie glaubt, sie tut Gutes. Die Enthüllung folgt in Buch 3.
+**HASS** als Motor durchs ganze Buch. Erst rohe Trauer/Wut auf Varen, dann zielgerichtete Magie-Schulung in Velmar (Akt III). **Erst am Schluss von Buch 2** wird sie auf einem Schlachtfeld gefangen — nicht als Bund-Waffe, sondern als Resonanz-Trägerin, deren Quellen-Brech-Fähigkeit Varen für sein eigenes Projekt braucht. Im Lauf von Akt IV kippt sie nicht aus Schuld, sondern aus **Hoffnungs-Betrug**: Varen verschweigt die energetische Unmöglichkeit der Quellen-Reparatur und inszeniert sie als geteilte Mission. Die Enthüllung folgt in Buch 3.
 
-HASS (2/3) → Zweifel am Bund (ab Mitte) → Quellen-Zerstörung im Bund-Auftrag (2/3-Mark) → Gefangennahme durch Varen → Varen zeigt tote Quellen (verschweigt seine Schuld) → Alphina glaubt, sie tut Gutes → Seitenwechsel Ende Buch 2.
+### Akt I — Dravek (K01–K06)
 
-### Akt I — Fremde Welt
+**Ort:** Bund-Frontstadt Dravek. Ankunft via Steinplatz-Portal, Marsch durch Moragh-Wildnis. Sorels Grab im Wald.
 
-Die Fünf beim Bund (Bund-Stadt). Alphina: Schlaf-Haine, will RACHE an Varen. Der Bund empfängt sie — Schutz, Hoffnung. Alphina WILL kämpfen. Gegen Varen. **Hass ist ihr Motor.**
+- Marsch von Sorels Grab Richtung Lichtschein, fremde Natur, Tier-Stille (kein Vogelschrei).
+- Dravek: Sprache lernen, Magie als Alltag, Bund-Wut auf Thar.
+- Aufbruch über Dulkara nach Narthek.
+- Begegnung **Elke van der Holt** — TZ-154-Vorgängerin (vor 400 TZ-Jahren durchgekommen, lebt 12 MZ-Monate hier; in Moragh-Zeit jung, Anfang 30er). Zeitdilatation explizit: „Bei euch sind 66 Jahre seit eurem Aufbruch."
+- Elke erklärt Welt — Fraktionen (Bund/Orath, Konglomerat/Thar, Velmar). Über Varen schweigt sie (Akt-II-Reveal).
 
-**Talven:** Hilfsbereit. HUNGER wenn Alphina wächst.
+**Schemen-Beats Akt I:** Vesper sieht zweimal Schatten am Rand (K01 Waldrand, K04 Lagerfeuer-Schatten). Verschiebt es als Erschöpfung. Erst in Akt III versteht er, was es war.
 
-**Varen-POV:** Beobachtet aus der Ferne. Der Bund trainiert Alphinas Resonanz als Waffe. Er sieht was kommt. Kann es nicht verhindern, ohne sich zu offenbaren.
+### Akt II — Halvaren (K07–K17)
 
-### Akt II — Fraktionen und Feuer (erste Hälfte Buch 2)
+**Ort:** Halvaren (Bund-Großstadt im Binnenland). Dort ab K09 nach Flucht aus Narthek.
 
-**Der Bund nutzt Alphina.** Erst Verteidigung, dann offensiver. Sie stellt keine Fragen. Der Hass fühlt sich produktiv an. Jeder Einsatz ist ein Schritt näher an Varen. Ihre Resonanz wird unter Bund-Meistern geschult — sie wächst schneller, präziser, härter. Aber sie wächst NUR grün, solange sie diszipliniert ist. Wenn die Wut durchschlägt, kippt die Farbe nach schwarz/rot. Die Bund-Meister bemerken es und nennen es "Verunreinigung". Sie versteht nicht warum.
+- **K07 Thar-Angriff Narthek** — Akt-II-Auftakt. Thar erobert Narthek. Vesper sieht Nyr auf dem Schlachtfeld erstmals.
+- K08–K09 Flucht-Marsch, Ankunft Halvaren. Brachland-Unterkunft.
+- K10 Vesper+Maren BDSM (erste Nacht in Moragh).
+- K11–K13 Wochen, Magie-Arbeit, Elke wiedergetroffen, Varens Geschichte erzählt (Mar-Keth-Unfall — als Hybris, Wahrheit erst in B3).
+- **K14 Bund-Archiv-Recherche** (Vesper). Drei Schichten Akten: Mar-Keth-Hintergrund, Velmar-Verstoßener-Andeutung, TZ-154-Spuren.
+- **K15 Runas Druckerei + Bund-Bulletin** — erste Magie-Manifestation am Druckereifeuer.
+- **K16 Varen-Direkt-Auftritt im Archiv** + Elke-Konfrontation. Varen taucht persönlich auf, fixiert Alphina kurz mit Druck-Magie, drei Sätze (Mar-Keth-Geständnis als Fassade, Velmar-Tipp, „komm-aber-komm-nicht"-Warnung). Geht. Elke gesteht Varen-Mitschuld, schreibt Vermittlungs-Brief Haus Torven.
+- **K17 Sex-Szene Alphina+Runa** aus Runas POV. „Bei Runa ist die Welt still." **Akt-II-Schluss.**
 
-**Alphina + Runa:** FWB. Nacht, zwei Monde. Hitzig. "Bei Sorel hat die Welt geblüht. Bei Runa ist sie still." Runa hat eigene Obsessionen — Druckerei, Moragh-Schriften, Maschinen.
+**Welt-Stand Akt II:** Thar hält Narthek (Beute). Front nahe Halvaren stabil.
 
-**Vesper trifft Nyr.** Emissärin der Thar. "Du bist der der Muster sieht." Vesper will sich nicht instrumentalisieren lassen — weder vom Bund noch von Alphinas Rache. Nyr überzeugt ihn: die Thar haben Ordnung, Struktur. Er sieht ihre Fehler, akzeptiert sie. Geht mit ihr zu den Thar.
+### Akt III — Bruch und Halvara-Kel (K18–K27)
 
-**Vesper + Nyr:** Sie presst ihn an die Metallwand. Luft wird dünn. Blaue Flecken von Luft. Andere Körper-Grammatik als Maren.
+**Kern-Mechanik:** Varens Falle wirkt nicht über Magie auf Distanz, sondern über Worte und Präsenz. Er taucht zweimal vor der Schlacht auf (K16 Halvaren, K24 Velmar-Stadt), gibt jedes Mal die Doppel-Botschaft („komm zu mir / komm nicht"). Erst auf dem Schlachtfeld K27 fängt er sie ab — in einer Stadt würde er auffallen.
 
-### Akt III — Zweifel und Bruch (zweite Hälfte Buch 2)
+- **K18 Nyr-Ankunft** als Thar-Emissärin in Halvaren. Vesper-Skepsis am Bund beginnt. **Akt-III-Auftakt.**
+- **K19 Marens Identitäts-Bruch** — kein Boot-Wasser auf Moragh. Vesper-Drift sichtbar.
+- **K20 Drael-Pakt** mit Alphina. Sie lehnt ab. Doppelte Motivation (Varens Tipp + Bund-Werkzeug-Logik) → Aufbruch nach Velmar.
+- **K21 Marens Drei-Ablehnungs-Szene.** Versucht alle drei zum Mitgehen zu überzeugen — scheitert: Vesper aus Neugier, Alphina aus Rache, Runa aus Loyalität zu Alphina. Aufbruch über Land nach Dravek. Brief bei Elke (Tschechow B3).
+- **K22 Vesper folgt Nyr** zur Thar.
+- **K23 Vesper bei Thar-Kem** als Stratege/Schachspieler. Bund-Gegenoffensive im Hintergrund: Narthek zurückerobert, Halvara-Kel als neue Frontstadt.
+- **K24 Alphina+Runa Velmar-Lehre** in Velmar (Hauptstadt), bei Irenna Torven (Haus Torven). 6 MZ-Wochen: Kontrolle → Lenkung → Quellen-Kopplung. Talven hungrig im Hintergrund. Varen-Auftritt 2 — doppeldeutig: *„Halvara-Kel. Dort, wo dein Hass auf Antwort trifft."*
+- **K25 Drael-Bote** mit versiegeltem Brief. Alphina liest Varens Andeutung in den Auftrag hinein, glaubt Varen wird auf der Schlacht sein. Nimmt an.
+- **K26 Wegquelle** (unbenannte Naturquelle in der Wildnis zwischen Halvaren-Region und Halvara-Kel, Tagesmarsch vor der Frontstadt). Drael persönlich. Probelauf. Quellen-Kollaps lähmt Magier-Vorhut beidseits. Alphina geht in die Knie (Resonanz-Träger spürt Quellen-Tod körperlich).
+- **K27 Halvara-Kel-Hauptquelle + Gefangennahme — blutige brutale Schlacht.** Bund-Vorstoß direkt zur Quelle ist **untypisch** (Standard-Doktrin = Erschöpfungs-Spiel über Tage). Vesper erkennt Muster-Bruch, geht selbst zum Quellen-Platz. **Varen ist als Bund-Soldat getarnt** in der Bund-Linie (sieht aus wie Verrat aus eigenen Reihen), plus 2–3 Velmar-Deserteure in Bund-Tarnung (vorab über korrupten Bund-Offizier eingeschleust). Fängt Nyrs Druckwellen ab. Alphina überlädt Hauptquelle, Quelle stirbt. Varen hält Alphina mit Druckmagie reglos und legt ihr in derselben Bewegung das **präparierte Velmar-Lederhalsband** um die Kehle (Stahlring matt-violett — absorbiert ihre Wirkungs-Versuche reaktiv). Velmar-Deserteure schleppen sie weg. Runa kämpft mit, verletzt sich (Schnittwunden, gebrochene Rippe). Vesper versteht Varen-Logik in einem Schlag. **Akt-III-Crisis.**
 
-**Ab Mitte Buch 2 wachsen Alphinas Zweifel am Bund.** Nicht an Varen — immer noch Hass. Aber am Bund. Ein Kommandant weiß zu genau wo feindliche Quellen liegen. Gespräche brechen ab wenn sie den Raum betritt. Karten werden eingerollt. Ein junger Bund-Offizier sagt ihr im Vertrauen, dass die Quellen-Überladungs-Methode der Bund nicht verteidigt, sondern auslöscht. Sie fragt nicht laut. Sie speichert.
+**Quellen-Kollaps-Wirkung** (Canon, `10-magie-system.md`): Resonanzen nicht betroffen; Moragh-Magier in Reichweite verlieren Speicher instant; Schemen verlieren Antrieb; Stadt wird über Wochen unbewohnbar. **Keine direkten Tote durch Quellen-Tod** — Tote durch Klingen.
 
-**Alphinas Farbe driftet.** Immer öfter schwarz/rot unter Stress, immer seltener grün. Die Meister warnen sie, sie sei "unrein". Sie weiß nicht was das bedeutet.
+### Akt IV — Festung, Bekehrung, Cliffhanger (K28–K46)
 
-**Maren findet den Rückweg.** Die Karte, die Anleitung für die Moragh-Seite des Portals. Sie und Vesper sind zusammen als sie es entdeckt. Vesper entscheidet sich zu bleiben — Moragh, Nyr, die Thar. Maren entscheidet sich zu gehen — Thalassien, Forschung, allein. Öffnet das Portal von Moragh-Seite. Geht durch. ~1987 TZ. Allein, zu wenig Magie um zurückzukommen. Gründet die **Schwellenforschungsgesellschaft.** Verschwindet aus der Geschichte.
+**Phase 1 — Captivity (K28–K30):** Velmar-nahe Festung. Halsband + Druckmagie-Fixierung halten Alphina. Erste Velmar-Konversationen. Runa kämpft sich zur Bund-Seite zurück, beginnt Suche.
 
-**Talven entwickelt nachts allein Blutmagie.** Niemand lehrt ihn — Selbstlehre, Privatwissen. Eigenes Blut, Kristall-Speicher, Schemen-Bindung. Erste Bindung hält einen Atemzug. Hände bleiben danach kalt.
+**Phase 2 — Bekehrung (K31–K35):** Varen rahmt Mar-Keth als Hybris-Unfall (verschweigt Wahrheit), zeigt abgefangene Bund-Pläne für systematische Quellen-Überladung, präsentiert Reparatur als gemeinsame Mission. K32 Mar-Keth-Geständnis als Fassade. K35 Vier-Thalassier-Liste taucht in Varens Unterlagen auf — als Vermächtnis-Doku, nicht als operativer Plan (Tschechow für B3).
 
-### Akt IV — Das Schlachtfeld und die Gefangenschaft (2/3- bis Ende Buch 2)
+**Phase 3 — Annäherung + Parallel-Linien (K36–K40):** K37 Sex-Szene Alphina+Varen — sie führt, kein Vertrauen wie mit Sorel, ein Bündnis auf Körperebene. Halsband bleibt am Hals, keine Drainage in dieser Szene. Vesper bei Thar lernt Nyrs System, Skepsis wächst. **K39 Maren tritt durch den Wasserweg-Riss bei Dravek**, solo, nach mehreren MZ-Wochen Vorbereitung. Vesper verabschiedet sich heimlich am Riss — was in Thalassien passiert, erfährt die Gruppe erst in B3 von der Ersten Expedition. Maren strandet ~1987 TZ. Runa verzweifelt, sucht weiter.
 
-**Der Bund greift eine Thar-Siedlung an.** Alphina kämpft an vorderster Front.
+**Phase 4 — Schutz + Sulkara-Aufmarsch (K41–K43):** Bund + Thar koordinieren erstmals außerhalb des Krieges, weil eine Bund-Quelle (Sulkara) durch ein internes Bund-Manöver zur Überladung zu kippen droht. **Sulkara-Mechanik = Schutz vor Überladung, nicht Reparatur** (Quelle ist intakt, soll nicht durch politisches Spiel gekippt werden). Varen sieht Gelegenheit, stellt Alphina den Einsatz als Beweis ihrer gemeinsamen Mission vor.
 
-**Der Bund-Kommandant zeigt Alphina das Ziel:** Eine kleinere Reservoir-Quelle außerhalb der Siedlung. "Zerstör sie."
+**Phase 5 — Sulkara-Konfrontation + Cliffhanger (K44–K46):** Varens Anhängerkreis und Velmar-Deserteure greifen Sulkara-Schutzring an. Alphina kämpft sichtbar an Varens Seite. Runa erreicht den Standort, wird verletzt (Pflanzen-Wunden + Brandnarben aus Feuer-Schemen). Vesper koordiniert von Thar-Seite. **K46 Cliffhanger:** Vesper sieht am Steinplatz Dravek einen Lichtblitz — eine Frau mit Schwellenforschungsgesellschaft-Heft (Tyra Halvard) ist durchgekommen. Marens Vermächtnis ist sichtbar geworden, eine Generation früher als die Vier ahnen. Ende B2.
 
-**Alphina zerstört die Quelle. ABSICHTLICH.** Wurzeln tief in die Erde. Spürt die Quelle — warm, pulsierend, lebendig. Drückt. Überlädt. Stille. Die Quelle ist tot. Erde bebt. Bäume verdorren. Ein Schmied bricht zusammen. Kinder schreien. **Ihre Magie ist in diesem Moment voll schwarz/rot.** Die Bund-Meister sehen es und wissen, sie haben etwas losgelassen das sie nicht halten können.
+### Personen-Stand am Ende B2
 
-Sie will die GROSSE Quelle der Siedlung angreifen —
-
-**VAREN.** Schemen trennen sie ab. Ketten. Runa SIEHT es. Kämpft, tötet Dutzende. Wird zurückgeschlagen. Zieht sich mit dem Bund zurück. Plant Alphinas Befreiung.
-
-### Gefangenschaft bei Varen (Endakt Buch 2)
-
-**Ketten.** Varen nimmt an sie ist Bund-Waffe. An seiner Wand: Karten des Krieges, Markierungen für abgefangene Bund-Kommunikation, Pläne für weitere Quellen-Zerstörungen des Bundes.
-
-**Varen verschweigt seine Schuld.** Er bringt sie zu den toten Quellen — Mar-Keth, Dulrath-Ost, Reshkol. Er führt sie durch die Ruinen. Skelette. Verdorrte Bäume. Ausgetrocknete Brunnen. Ein Kind, das es lebend herausgeschafft hat, ist jetzt ein alter Mann mit kaputter Lunge. Er rahmt die toten Quellen als Naturkatastrophe oder Kriegsfolge — sagt nicht, dass es sein Experiment war. Er zeigt ihr abgefangene Bund-Pläne: systematische Quellen-Überladung als Waffe, weitere Städte auf der Todesliste. Er sagt: *"Wir müssen sie reparieren. Und wir müssen den Bund stoppen."*
-
-**Alphina glaubt ihm.** Nicht weil er charmant ist. Weil sie GLAUBEN WILL. Sie hat selbst eine Quelle getötet. Sie braucht eine Rechtfertigung. Varen bietet ihr eine: wir reparieren, wir retten. Sie wechselt die Seite — nicht aus Schuld-Spiegelung, sondern aus aufrichtigem Glauben an ein Ziel das er ihr verkauft. Ihr Hass schwenkt vom Mann auf das System: der Bund ist jetzt der Feind.
-
-**Sex mit Varen (Endakt Buch 2).** Kein Loslassen, kein Hingeben. Sie ist oben. Sie führt. Es ist kein Vertrauen wie mit Sorel — es ist ein **Handel**, ein Bündnis auf Körperebene. Dornen statt Farne, Rücken statt Handgelenke. **Schwarze Wurzeln unter dem Bett.** Er registriert die Farbe und sagt nichts. Er weiß was er verschweigt. Und er wagt nicht zu fragen was ihre Farbe bedeutet — weil die Antwort "Moragh macht sie zu einer von uns" ist, und das würde alle Ehrlichkeit erzwingen die er sich nicht leisten kann.
-
-**Alphina vergibt ihm Sorel nicht — das bleibt.** Aber sie stellt es hinter das größere Ziel: tote Quellen wiederbeleben, den Krieg beenden, die Welt retten. Sie ist seine Verbündete. Sie ist nicht seine Geliebte — nicht ganz. Das ist der Unterschied zu Sorel: bei Varen hat sie sich nicht verloren. Sie benutzt ihn wie er sie benutzt. Beide wissen es. Beide schweigen drüber.
-
-### Akt V — Neue Fronten
-
-**Alphina steht auf Varens Seite.** Das Ende von Buch 2 zeigt sie an einer der toten Quellen — sie versucht, ihre Resonanz hineinzupressen, als Starthilfe. Es funktioniert halb. Der Tschechow-Beat: für Sekunden zuckt die tote Quelle. Dann stirbt sie wieder. Varen sagt: "Wir brauchen mehr."
-
-**Runa beim Bund.** Plant Befreiung. Weiß nicht dass Alphina gewechselt hat. → Entdeckt die Wahrheit über den Bund ODER wird fallen gelassen → Geht zu den Thar. Die Thar wollen ihre Feuer-Resonanz. Druckerin die Metall mit bloßen Händen formt. Sie steigt auf.
-
-**Vesper bei den Thar mit Nyr.** Akzeptiert das System. Kämpft.
-
-**Talven** verteilt Resonanz. Held. Milchige Augen.
-
-```
-Beziehungskarte Ende Buch 2:
-
-MORAGH:                              THALASSIEN (~1987 TZ):
-
-Alphina ═══ Varen                    Maren (allein, gestrandet)
-(Verbündete, Handel,                 Schwellenforschungsgesellschaft
- verschwiegene Schuld)
-
-Runa (bei den Thar, aufsteigend)
-Vesper ═══ Nyr (bei den Thar)
-Talven (Bund-Stadt, Held, zerfällt)
-Elke (alt, Garten)
-```
+| Figur | Ort | Zustand | Beziehung |
+|-------|-----|---------|-----------|
+| Alphina | bei Varen (Velmar-nahe Festung) | Halsband, Hoffnungs-Betrug | Varen |
+| Vesper | bei Thar mit Nyr und Runa | Thar-Mitwisser, Skepsis | Nyr |
+| Maren | Thalassien ~1987 TZ | gestrandet, baut SFG | — |
+| Runa | bei Vesper+Nyr | verletzt (Pflanzen+Brand), gebrochen | — |
+| Elke | Dravek (Bund) | lebt, schweigt über Varen | — |
+| Talven | Velmar-affin, Bund | hungrig, beobachtet — Blutmagie-Bogen folgt B3 | — |
+| Drael | Bund-Front | weiter im Krieg | Bund |
+| Nyr | mit Vesper+Runa | Thar-Defekteurin in Vorbereitung | Vesper |
+| Varen | Velmar-Festung | mächtiger als je, Quellen-Reparatur läuft | Alphina als Gefährtin |
+| Tyra Halvard | Steinplatz Dravek | erste Forschungs-Expedition durch | — |
 
 ---
 
 ## BUCH 3 — DIE QUELLE
 
 ### Setting
-**Moragh:** Monat 5–10 nach B1-Start. Alphina bei Varen in Torkal, unter seinem Anker (nicht bewusst).
+**Moragh:** Monat 5–10 nach B1-Start. Alphina bei Varen in Torkal, unter seiner Velmar-Bindung (nicht bewusst).
 **Thalassien:** 2003–2153 TZ. Maren lebt noch, Institut wächst. Erste Expedition bricht 2019 auf, kommt 2020 durchs Portal.
 **Keine Tech-Magie-Fusion in Moragh** — Moragh-Kultur adoptiert Thalassien-Technik nicht. Thar bleibt, wie sie war (Magitech-Bestien, keine KI, keine Hybrid-Schemen).
 
@@ -262,7 +254,7 @@ Elke (alt, Garten)
 
 ### Varens Abdrift und Enthüllung
 
-**Akt I + II:** Alphina und Varen „reparieren" Quellen. Der Puls kehrt kurz zurück — dann stirbt die Quelle wieder. Varen verschweigt die energetische Unmöglichkeit; jede Sitzung entzieht Alphina über den B2-Anker weiter Resonanz in seinen Speicher. Sie denkt, sie sind Pioniere. **Hoffnungs-Betrug.** Varen inszeniert sich als empathischer verzweifelter Helfer (Helfersyndrom-Trigger). Leserin soll mit ihm sympathisieren, nicht verstehen, warum Runa und Vesper so stur sind.
+**Akt I + II:** Alphina und Varen „reparieren" Quellen. Der Puls kehrt kurz zurück — dann stirbt die Quelle wieder. Varen verschweigt die energetische Unmöglichkeit; jede Sitzung entzieht Alphina über die präparierte Velmar-Bindungsmechanik weiter Resonanz in seinen Speicher. Sie denkt, sie sind Pioniere. **Hoffnungs-Betrug.** Varen inszeniert sich als empathischer verzweifelter Helfer (Helfersyndrom-Trigger). Leserin soll mit ihm sympathisieren, nicht verstehen, warum Runa und Vesper so stur sind.
 
 **Ritual-Plan (im Hintergrund):** Varen bereitet ein Vier-Thalassier-Ritual vor. Die Resonanzen der vier werden ihm übertragen — er wird Portal-Monopolist + preisfreier Magier, übertrumpft die Velmar-Kaste technisch, wird Gatekeeper der Welten.
 
@@ -312,35 +304,37 @@ Elke (alt, Garten)
 ```
 BUCH 1                      BUCH 2                        BUCH 3
 
-Alphina ═🔥═ Sorel (†)      Alphina ~🔥~ Runa (FWB)       Alphina → tötet Talven (Fehlurteil)
+Alphina ═🔥═ Sorel (†)      Alphina ~🔥~ Runa (FWB K17)   Alphina → tötet Talven (Fehlurteil)
 (Vertrauen, Farne)           (hitzig, keine Beziehung)     Alphina → tötet Varen im Duell
-                             Alphina → Bund-Waffe           Alphina ═══ Vesper
-                             ZERSTÖRT QUELLE                (Sub-Phase, BDSM, Heilung)
+                             Alphina → Velmar-Lehre        Alphina ═══ Vesper
+                             ZERSTÖRT Halvara-Kel-Quelle   (Sub-Phase, BDSM, Heilung)
+                             (K27, im Drael-Auftrag)
+                             gefangen K27 → Festung        ZERSTÖRT Portal-Quelle
                              Alphina ═🔥═ Varen
-                             (Hoffnungs-Betrug)             ZERSTÖRT Portal-Quelle
+                             (Hoffnungs-Betrug, K37)
 
 Vesper ═🔥═ Maren            Vesper ═🔥═ Nyr               Vesper verlässt Thar (Rettung Alphinas)
-(Dom/Sub, Uhren)             (Luft-Druck, Thar)            Vesper ═══ Alphina (Dom)
+(Dom/Sub, Uhren)             (Luft-Druck, Thar K22+)       Vesper ═══ Alphina (Dom)
                              Maren → THALASSIEN
-                             (gestrandet, ~1987 TZ)        Maren stirbt 2037 TZ
-                                                           (Verwüster-Angriff Vael)
+                             (Wasserweg-Riss K39,          Maren stirbt 2037 TZ
+                              gestrandet ~1987 TZ)         (Verwüster-Angriff Vael)
 
-                             Runa bleibt beim Bund         Runa läuft in freie Stadt über
-                             (Halvaren, druckt)             Runa ═══ Nyr (Halvek-Mar)
+                             Runa bei Vesper+Nyr           Runa läuft in freie Stadt über
+                             (kämpft, sucht Alphina)        Runa ═══ Nyr (Halvek-Mar)
 ```
 
 ## Alphinas emotionaler Bogen
 
 ```
-SOREL              RUNA               BUND/QUELLE          VAREN (B2)            VAREN (B3)           VESPER (B3 Ende)
+SOREL              RUNA               HALVARA-KEL          VAREN (B2)            VAREN (B3)           VESPER (B3 Ende)
 "Kontrollverlust   "Stille.           "Ich zerstöre        "Er verschweigt.      "Er ist Betrüger.     "Er hat an mir
- durch Vertrauen.   Wärme.             eine Quelle.         Aber ich GLAUBE       Jedes Wort            geglaubt. Ich
+ durch Vertrauen.   Wärme.             diese Quelle.        Aber ich GLAUBE       Jedes Wort            geglaubt. Ich
  Farne."            Kein Versprechen." Absichtlich."        was er sagt."         Schauspiel."          darf fallen."
                                                             "Wir reparieren."
 → er stirbt        → sie bleibt       → sie wird           → Seitenwechsel      → Bruch              → Sub-Phase,
-                     beim Bund          Täterin              aus Hoffnung         → tötet Varen         BDSM, Heilung
-                     (Halvaren)         (schwarz/rot)                             → ZERSTÖRT
-                                                                                    die Portal-Quelle
+                     bei Alphina        Täterin              aus Hoffnung         → tötet Varen         BDSM, Heilung
+                     (kämpft mit)       (schwarz/rot)                             → ZERSTÖRT
+                                       gefangen K27                                 die Portal-Quelle
                                                                                     (richtige Seite, grün)
 ```
 

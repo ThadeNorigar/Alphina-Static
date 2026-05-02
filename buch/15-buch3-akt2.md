@@ -75,23 +75,23 @@ Varen allein am Arbeitstisch. Die Quellen-Reparatur-Statistik vor ihm:
 Er rechnet. Dauerhafte Versorgung einer Quelle mit 200.000 Abhängigen bräuchte hundert Alphinen, dreißig Jahre täglich drückend. Es ist mathematisch unerreichbar. Er wusste es, bevor sie anfingen. Alphina glaubt weiter an das Projekt.
 
 **Das Ritual-Buch.** Er öffnet es zum neunten Mal in diesem Moragh-Monat. Liest die Passage über die Vier-Thalassier-Absorption erneut. Die Vorbedingungen:
-- Jeder der Vier muss einen vollständigen Anker tragen (Alphina: 60 % transferiert, weitere 40 % benötigt).
+- Jeder der Vier muss eine vollständige Velmar-Bindung tragen (Alphina: Halsband-Sigil aktiv, 60 % der nötigen Drainage-Akkumulation erreicht, weitere 40 % über Sitzungen benötigt).
 - Alle vier müssen physisch am Ritual-Ort anwesend sein (Portal-Quelle am Steinplatz).
 - Bindungs-Geometrie: vier-zackiger Stern, Binder im Zentrum.
 
 Seine Probleme:
-- Maren ist weg. Ersatz: eine Thalassierin der ersten Expedition, die durch den Portal kommen wird. Er wartet.
-- Vesper hat keinen Anker. Zugang schwierig (Thar).
+- Maren ist weg. Ersatz: eine Thalassierin der ersten Expedition, die durch das Portal kommen wird. Er wartet.
+- Vesper hat keine Bindung. Zugang schwierig (Thar).
 - Runa hasst ihn, kein Zugang.
 
-**Varen nimmt einen Entschluss.** Er wird weitere Anker setzen — nicht bei den Vier, sondern **bei anderen Magiern**, um seinen Speicher zu füllen. Wenn er genug Reserven hat, kann er das Ritual auch ohne vollständige Anker-Ladung bei allen vier durchführen. Die Rest-Energie holt er aus seinem eigenen Tank.
+**Varen nimmt einen Entschluss.** Er wird weitere Velmar-Trägerstücke verteilen — nicht bei den Vier, sondern **bei anderen Magiern**, um seinen Speicher zu füllen. Wenn er genug Reserven hat, kann er das Ritual auch ohne volle Drainage-Akkumulation bei allen vier durchführen. Die Rest-Energie holt er aus seinem eigenen Tank.
 
 **Er notiert.** Drei Moragh-Namen auf einer Liste:
 - **Tormen** (Schall-Rufer Stufe 5, Bund-Stadt)
 - **Varshek** (Stein-Former Stufe 6, freie Stadt)
 - **Narveth** (Zeit-Rufer Stufe 4, Orath-Randgebiet)
 
-Zugang über Schemen-Vorhut. Anker in einem Schlaf-Moment setzen. Keiner wird merken.
+Zugang über Schemen-Vorhut: ein präparierter Schemen legt nachts ein Velmar-Sigil-Trägerstück (Armreif, Anhänger, Sigil-Tätowierung über Druckpunkt) auf den schlafenden Magier. Beim nächsten Bewusstsein hält der Träger das Stück für einen unbekannten Schenk oder ein vergessenes eigenes Stück und trägt es weiter.
 
 **Er denkt an Alphina.** Sie schläft neben ihm heute Nacht. Er sieht sie zwischendurch an und fühlt — echte Zuneigung, echte Bewunderung. Er wird sie opfern. Er würde sie auch nicht opfern, wenn sie nicht das Maximum-Reservoir trüge. So ist das. Er hat keine Wahl, die ihn nicht verurteilen würde.
 
@@ -139,7 +139,7 @@ Varen: *„Warum?"*
 
 Er schweigt einen Moment. Überlegt. Dann: *„Geh. Ich verstehe. Wenn du jemanden zu mir bringen willst, der aufseiten der Vernunft steht, brauchst du sie."*
 
-(Was er denkt: **Ein Testlauf.** Wenn sie zurückkommt, ist die Bindung fest. Wenn sie nicht zurückkommt, hat er den Anker weit genug ausgebaut, dass er sie zurückrufen kann. Er gibt ihr in Gedanken zwei Wochen, bis das Ziehen in ihrer Wirbelsäule sie zurückholt.)
+(Was er denkt: **Ein Testlauf.** Wenn sie zurückkommt, ist die Bindung fest. Wenn sie nicht zurückkommt, kann er sie über das Halsband-Sigil aus der Distanz aktivieren — die Drainage zieht ihre Resonanz, das Halsband zwingt sie auf den Boden, er schickt Schemen sie holen. Er gibt ihr in Gedanken zwei Wochen, bis ihre eigene Sehnsucht und das Helfersyndrom sie zurückbringt.)
 
 **Die Reise.** Drei Tage durch Orath-Grenzland, teilweise zu Pferd, meist zu Fuß. Sie trägt eine Kapuze — ihre dunkel-purpurnen Haare sind bei Bund-Truppen bekannt. Sie meidet Straßen, schläft in Heuhaufen.
 
@@ -168,7 +168,7 @@ Alphina holt Luft für einen vierten Satz — Runa hebt die Hand.
 ### Kap. 15 — Varen-POV (S. 318–340, ~5.000 Wörter)
 *Torkal. Alphina zurück. Verwüster-Vorbereitung.*
 
-Alphina kehrt zurück. Varen empfängt sie warm, fragt, wie es war. Alphina sagt: *„Sie ist nicht gekommen."* Varen nickt, legt den Arm um sie, führt sie in das Quartier. Alphina fühlt sich wie nach Hause gekommen. Das ist der Effekt, den der Anker-Transfer gerade jetzt am stärksten zeigt — Varens Nähe fühlt sich biologisch sicher an.
+Alphina kehrt zurück. Varen empfängt sie warm, fragt, wie es war. Alphina sagt: *„Sie ist nicht gekommen."* Varen nickt, legt den Arm um sie, führt sie in das Quartier. Alphina fühlt sich wie nach Hause gekommen. Das ist der Effekt einer aktivierten Halsband-Bindung über Monate — die Drainage hat eine vegetative Konditionierung erzeugt: Varens Nähe fühlt sich biologisch sicher an, Distanz erzeugt Unbehagen.
 
 **Nach Mitternacht.** Varen arbeitet wieder. Vor ihm: eine Karte von Vael, die er aus Harons Nachlass hat (Haron Dahl, Varens Agent in Vael, ist längst tot — seine Aufzeichnungen kamen über Umwege nach Moragh zurück). Auf der Karte: der Botanische Garten, das neue Institut-Gebäude, die Straßen drumherum.
 
@@ -368,7 +368,7 @@ Alphina: *„Ich weiß nicht."*
 
 Varen: *„Geh hin. Ich will nicht, dass du misstrauisch bist wegen irgendwelcher Gerüchte. Wenn er etwas weiß, wirst du es herausfinden. Wenn nicht — umso besser."*
 
-(Varen weiß, was Vesper gefunden hat. Er hat seit Wochen registriert, dass Vesper in der Thar-Bibliothek Velmar-Fragmente studiert. Er weiß, dass Vesper nah am Ritual-Kalkül ist. Er lässt Alphina gehen — weil er testen will, ob sie **auch gegen Vespers Beweise** bei ihm bleibt. Wenn ja: Anker hält. Wenn nicht: er muss Maßnahmen ergreifen.)
+(Varen weiß, was Vesper gefunden hat. Er hat seit Wochen registriert, dass Vesper in der Thar-Bibliothek Velmar-Fragmente studiert. Er weiß, dass Vesper nah am Ritual-Kalkül ist. Er lässt Alphina gehen — weil er testen will, ob sie **auch gegen Vespers Beweise** bei ihm bleibt. Wenn ja: die Bindung hält über das Halsband-Sigil und die monatelange Konditionierung. Wenn nicht: er muss Maßnahmen ergreifen.)
 
 **Alphina bereitet die Reise vor.** Zwei Tage Marsch nach Thar-Kem, in Zivilkleidung, unter Varens-Schemen-Schutz. Sie küsst Varen zum Abschied. Er hält sie kurz fest, lässt sie dann gehen.
 
@@ -398,7 +398,7 @@ Sie packt das Dokument in ihre Innentasche. Morgen reist sie ab.
 |--------|-----|-----------|
 | Die Bauern-Karawane mit Nachrichten über Halvara-Kel | 51 | Akt III, wenn Alphina den toten Fels selbst sieht |
 | Esins Brief in Tyras Innentasche | I13 | Akt III, wenn Tyra Alphinas Gruppe erreicht |
-| Varens drei neue Anker-Namen (Tormen, Varshek, Narveth) | 52 | Akt IV, wenn Alphina Zeugen in diesen Städten findet |
+| Varens drei neue Bindungs-Namen (Tormen, Varshek, Narveth) | 52 | Akt IV, wenn Alphina Zeugen in diesen Städten findet |
 | Der Temporal-KI-Helm und Vespers Kopfschmerzen | 53 | Akt III, Ritual-Geometrie-Berechnung |
 | Runas drei Sätze + der vierte | 54 | Akt IV, Reveal |
 | Der Brief an Kelmaris Verask | 55 | Akt III, wenn Drael die Authentizität prüft |

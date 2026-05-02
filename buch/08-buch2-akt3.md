@@ -1,153 +1,224 @@
-# Buch 2 — Akt III — Das Schlachtfeld (Seite 400–600, ~50.000 Wörter, 10 Kapitel + 2 Interludien)
+# Buch 2 — Akt III — Bruch und Halvara-Kel (Seite 280–500, ~50.000 Wörter, 10 Kapitel + 1 Interludium)
 
-## Alphinas Kontroll-Status: BEWUSST
+**Stand 2026-05-02:** Akt III komplett neu gefasst (Halvaren-Recherche-Linie, Velmar-Lehre, Halvara-Kel-Captivity). Alter Aktplan (Bund-Waffe-Alphina-Linie mit Drael-Kommandant und Ketten-Magie) **obsolet, ersetzt**. Akt-III-Grenze von K22 auf K18 vorverlegt (Akt II endet jetzt mit K17). Alter Aktplan in `buch/_archiv/08-buch2-akt3_vor_2026-05-02.md` (sofern Archivierung erfolgt).
 
-In Akt III hat Alphina volle bewusste Kontrolle über ihre Resonanz. Tagsüber kann sie gezielt Wälder wachsen lassen, Pflanzen als Werkzeug einsetzen, kontrolliert Ranken lenken. Sie ist die stärkste Waffe des Bundes. Aber: die Schlaf-Haine bleiben IMMER unbewusst. Auch mit voller Tageskontrolle wächst nachts die Trauer weiter, unkontrolliert, ohne Bremse. Diese Spaltung — bewusste Macht am Tag, unbewusste Trauer in der Nacht — ist der Kern ihres Konflikts in Akt III.
+## Alphinas Kontroll-Status: GESCHULT
+
+In Akt III geht Alphina nach Velmar zur Lehre (K24, 6 MZ-Wochen bei Irenna Torven, Haus Torven). Sie lernt Kontrolle → Lenkung → Quellen-Kopplung. Resonanzen können Quellen schwächen — sie selbst weiß das vor Velmar nicht. Schwarze/rote Drift bei Wut bleibt; Velmar-Meister nennen es nicht „Verunreinigung", sondern *„moraghisierende Entwicklung"* (sachlicher, neutraler — Velmar-Diktion). Schlaf-Haine sind in B2 generell raus.
 
 ## Struktur
 
-Die Frage kippt: von "Wer sind die Guten?" zu "Was bin ICH bereit zu tun?" Der Bund setzt Alphina als Waffe ein — erst defensiv, jetzt offensiv. Sie hört auf Fragen zu stellen. Der Hass auf Varen fühlt sich produktiv an wenn sie für den Bund kämpft. Dann das Schlachtfeld: der Bund-Kommandant zeigt ihr eine kleinere Reservoir-Quelle als Ziel. Sie zerstört sie. ABSICHTLICH. Der Wendepunkt des gesamten Romans.
+Akt III ist der Bruch der Vier-Konstellation. Nyr kommt nach Halvaren (K18), Vesper trifft sie persönlich, beginnt Bund-Skepsis. Marens Identitäts-Bruch (K19) — kein Boot-Wasser. Alphina lehnt den Drael-Pakt ab (K20) und beschließt nach Velmar zu gehen (Tipp aus K16 + Bund-Werkzeug-Logik). Marens Drei-Ablehnungs-Szene (K21): sie versucht alle drei zu Mit-Reise nach Dravek zu überzeugen, scheitert; sie geht allein über Land. Vesper folgt Nyr (K22). Vesper bei Thar-Kem (K23) — Stratege im Hintergrund, Bund-Gegenoffensive: Narthek zurückerobert, Halvara-Kel als neue Thar-Frontstadt. Alphina + Runa in Velmar-Lehre (K24), Varen-Auftritt 2 (Doppelbotschaft Halvara-Kel). Drael-Bote mit versiegeltem Brief (K25) — Alphina liest Varens Andeutung in den Auftrag hinein. Wegquelle als Probelauf (K26). **Halvara-Kel-Schlacht + Gefangennahme (K27)** — Akt-III-Crisis.
 
-Varen greift ein als sie die GROSSE Quelle angreifen will. Schemen. Ketten. Gefangenschaft. Runa sieht es — kämpft, wird zurückgeschlagen. Die Wahrheit kommt in Stufen: Karten, Gesprächsfetzen, abgefangene Bund-Kommunikation. Hass wird Zweifel wird Erkenntnis.
+## Welt-Stand am Ende Akt III
+
+Bund hat Narthek zurückerobert (im Hintergrund von K23). Halvara-Kel ist Thar-Frontstadt — und am Ende von K27 verloren plus Hauptquelle tot. Alphina ist in Varens Hand, Halsband am Hals. Runa und Vesper sind getrennt von ihr, beide auf der Suche.
 
 ## Kapitelplan
 
-### Kap. 22 — Alphina (S. 400–420, ~5.000 Wörter)
-*Waffe des Bundes. An der Front.*
+### Kap. 18 — Vesper (S. 280–298, ~4.500 Wörter)
+*Nyr-Ankunft in Halvaren als Thar-Emissärin. Akt-III-Auftakt.*
 
-Alphina an der Front. Wochen seit Akt II. Sie ist ANDERS. Kontrolliert. Präzise. Lässt Wurzeln durch feindliche Stellungen brechen, Ranken die Barrikaden zerreißen, Dornenhecken als Verteidigung. Die Bund-Soldaten starren sie an — Ehrfurcht, Angst. Der Kommandant (Name: Drael) behandelt sie wie eine Kanone: Ziel angeben, feuern lassen, nachladen.
+Halvaren empfängt eine Thar-Delegation — kleine Gruppe, drei Personen, einen Kessler-Begleitschemen am Stadtrand zurückgelassen. Diplomatische Eskorte unter Bund-Bewachung. Nyr ist die Sprecherin: Verhandlung über Gefangenenaustausch nach Narthek (Thar hält den Bund-Garnisonsstab). Vesper sieht sie auf dem Marktplatz, sie sieht ihn — der Augenblick aus K7 schließt sich.
 
-Sie denkt nicht an Sorel. Sie denkt an Varen. Jeder Feind ist sein Gesicht. Jede Wurzel die sie durch Stein treibt, treibt sie durch IHN. Der Hass ist produktiv. Der Hass hat Struktur. Zum ersten Mal seit Sorels Tod hat sie einen Zweck.
+Sie treffen sich am Abend, Bibliothek, ohne Wachen. Nyr spricht klar: *„Du bist der, der Muster sieht."* Sie zeigt ihm einen Thar-Plan — nicht eine Eroberungs-Karte, sondern ein **Konstruktionsplan** für Halvek-Mar (eine Thar-Werft, später relevant). Sie sagt: *„Der Bund baut Festungen. Wir bauen Werkstätten. Beide sterben Menschen."* Vesper hört zu. Stellt Fragen. Sie antwortet ohne zu beschönigen.
 
-Eingebettet: Runa neben ihr, Hände glühend, Metall formend. Runa ist AUCH Waffe — aber anders. Runa stellt Fragen. "Warum greifen wir dieses Dorf an?" Alphina: "Weil der Kommandant es sagt." Runa: "Seit wann nimmst du Befehle?"
+**Vespers Skepsis am Bund beginnt sich zu strukturieren.** Er hat in K14 die Velmar-Verstoßener-Notiz gefunden. Die Bund-Akten sind redigiert. Hier sitzt jemand, der seine Akten **nicht** redigiert. Das ist neu.
 
-### Kap. 23 — Varen-POV (S. 420–436, ~4.000 Wörter)
-*Der Beobachter. Was er sieht.*
+POV-Wahl: Vesper, weil seine Wahl-Bewegung in Akt III hier startet.
 
-Varen beobachtet von fern. Er hat Späher. Schemen die berichten. Er sieht was der Bund mit Alphina macht — die systematische Verwandlung einer Trauernden in eine Waffe. Er sieht die Front. Er sieht die Quellen die der Bund im Visier hat. Er sieht die Karten die er KENNT — weil er dieselbe Forschung gemacht hat. Der Bund hat seine Methode gestohlen oder rekonstruiert. Quellen-Überladung als Kriegsstrategie.
+### Kap. 19 — Maren (S. 298–316, ~4.500 Wörter)
+*Marens Identitäts-Bruch. Vesper-Drift sichtbar.*
 
-An seiner Wand: drei tote Quellen, rot markiert. Seine. Sein Experiment. Sein Fehler. Und jetzt macht der Bund es absichtlich. Systematisch. Mit Alphina als Werkzeug.
+Maren am Aquädukt, drittes Mal in der Woche. Die Bund-Wassermagier akzeptieren sie als Helferin, geben ihr Kost und Logis im Quartier neben dem Aquädukt-Werk. **Sie hat keinen Beruf.** Auf Moragh gibt es kein Meer für Boote. Tide 20 bis 100 Meter — Schiffbau ist hier nicht möglich. Sie hilft Wasser-Magiern bei Pumpenarbeit, formt Strömungen, korrigiert Lecks. Aber sie baut nichts. Sie repariert anderer Leute Welt.
 
-Er könnte eingreifen. Jetzt. Aber Alphina würde ihn töten — oder es versuchen. Er wartet. Auf den Moment in dem sie zu weit geht. Dann hat er einen Grund.
+Sie kommt heim, findet die Hütte leer. Vesper ist tagsüber in der Bibliothek, abends bei der Thar-Delegation. Er kommt spät, riecht anders, redet weniger. Sie liegt nachts neben ihm und spürt, wie er anderswo ist.
 
-### Kap. 24 — Alphina (S. 436–456, ~5.000 Wörter)
-*Erste Risse. Fragen die sie nicht stellt.*
+**Wasserweg-Erinnerung.** Sie geht im Kopf den Weg zurück nach Dravek. Dreitagesmarsch zum Steinplatz. Zwei Kilometer weiter der Riss. Sie weiß, was sie tun wird. Noch nicht wann. Erst muss sie versuchen, die anderen mitzunehmen.
 
-Schleichende Zweifel, die Alphina UNTERDRÜCKT. Ein Kommandant der zu genau weiß wo feindliche Quellen liegen. Gespräche die abbrechen wenn sie näher kommt. Karten die eingerollt werden. Ein Bund-Offizier der sagt: "Die nächste liegt südöstlich, dreihundert Meter unter der Oberfläche" — und Alphina fragt nicht woher er das weiß.
+POV-Wahl: Maren, weil ihr Heimkehr-Antrieb hier sichtbar wird.
 
-Eingebettet: die Bund-Soldaten behandeln Alphina wie ein Naturereignis. Abstand. Respekt. Aber kein Kontakt. Niemand isst mit ihr. Niemand redet über etwas anderes als die nächste Mission. Sie ist allein in einer Armee.
+### Kap. 20 — Alphina (S. 316–334, ~4.500 Wörter)
+*Drael-Pakt — Alphina lehnt ab. Aufbruch nach Velmar.*
 
-Runa kommt abends. Hände warm. Setzt sich neben sie. Sagt nichts. Alphinas Körper reagiert — Wärme, Nähe, etwas das nicht Hass ist. Aber sie lässt es nicht zu. Nicht jetzt. Der Hass ist nützlicher.
+Drael, Bund-Stratege aus Orath, kommt persönlich nach Halvaren. Er hat von Alphinas Heilstätten-Arbeit gehört, von ihren Pflanzen-Substraten, von der Disproportion ihrer Resonanz. Er bietet ihr ein Pakt: **Bund-Schutz und Wissen über Varen, im Tausch für Einsätze an der Front gegen Thar.** Pflanzen als Waffe. Eine schnelle Kanone in einem langsamen Krieg.
 
-### Kap. 25 — Runa (S. 456–472, ~4.000 Wörter)
-*Die Druckerin an der Front.*
+Alphina hört ihn an. Sieht durch ihn durch. Drael ist klug und deutlich — er versteckt nicht, dass er sie als Werkzeug will. Er sagt: *„Ich biete dir Werkzeug gegen Werkzeug. Mehr nicht."* Genau diese Ehrlichkeit macht es klar.
 
-Runa druckt auch hier. Moragh-Papier, Thalassien-Lettern die sie in Moragh-Metall gegossen hat. Sie druckt Berichte. Nachrichten von der Front. Was sie sieht: Bund-Soldaten die Befehle ausführen ohne zu fragen. Dörfer die geräumt werden — nicht evakuiert, GERÄUMT. Bewohner die verschwinden. Quellen die "gesichert" werden — Runas Wort. Der Bund sagt "befreit".
+**Sie lehnt ab.** Doppelte Motivation: Varens Tipp aus K16 (*„suche in Velmar"*) plus die Logik, dass Bund-Werkzeug-zu-sein sie Varen nicht näher bringt. Sie braucht Magie-Lehre, nicht Magie-Einsatz. Velmar bietet Lehre.
 
-Runa schreibt auf was sie sieht. Noch nicht für andere. Für sich. Die Druckerin dokumentiert. Wie in Vael. Wie immer.
+Drael nickt. *„Dann viel Glück. Wenn ihr es euch anders überlegt — ich bin in Orath."* Er geht ohne Drohung. Tschechow für K25.
 
-Eingebettet: Runa beobachtet Alphina. Sieht die Veränderung. Die Frau die in Vael Farne geküsst hat, lässt jetzt Dornen durch Menschen wachsen. Runa sagt nichts. Noch nicht.
+**Aufbruch beschlossen.** Alphina + Runa nach Velmar. Vesper bleibt in Halvaren (Thar-Diplomatie). Maren bleibt vorerst — sie weiß noch nicht wann sie zu Dravek aufbricht.
 
-### Kap. 26 — Alphina (S. 472–500, ~7.000 Wörter)
-*Das Schlachtfeld. Die Quelle.*
+POV-Wahl: Alphina, weil ihre Wahl Velmar-Lehre den Bogen über Akt III hält.
 
-**DIE SZENE.** Der Bund greift eine Thar-Siedlung an. Alphina kämpft an vorderster Front — Wurzeln reißen durch den Boden, Bäume wachsen in Sekunden als Barrikaden, Ranken greifen nach Thar-Soldaten. Sie ist eine Naturgewalt. Der Bund drängt die Thar zurück.
+### Kap. 21 — Maren (S. 334–352, ~4.500 Wörter)
+*Drei-Ablehnungs-Szene. Marens Aufbruch.*
 
-Drael, der Bund-Kommandant, nimmt sie zur Seite. Zeigt ihr eine Position außerhalb der Siedlung. "Da unten. Kleinere Quelle. Versiegt die Magie der Verteidiger. Wir sparen hundert Leben." Er sagt es ruhig. Professionell. Wie ein Chirurg der erklärt wo er schneiden will.
+Maren versucht, die anderen drei zu Mit-Reise nach Dravek zu überzeugen.
 
-Alphina spürt die Quelle. Tief unter der Erde. Warm. Pulsierend. Lebendig. Wie ein Herz.
+**Vesper:** Sie spricht ihn am Abend in der Bibliothek an, allein. Sie sagt es ruhig: der Wasserweg-Riss bei Dravek führt nach Hause. Sie hat es gespürt, sie weiß es. Vesper hört zu. Antwortet wahr: *„Ich verstehe es nicht zu Ende. Ich will es zu Ende verstehen."* Neugier. Sein Beruf. Hier ist mehr Welt. Er sagt nicht nein, aber er bleibt. Maren versteht.
 
-Sie drückt. Wurzeln tief in die Erde. Tiefer als je zuvor. Spürt die Quelle — den Widerstand, die Wärme, das Pochen. Drückt weiter. Überlädt. Die Quelle wehrt sich — ein Druck der nach oben steigt, heißer Wind aus dem Boden. Alphina presst. Stille. Die Quelle stirbt.
+**Alphina:** Sie spricht sie am nächsten Morgen an, vor dem Aufbruch nach Velmar. Sie sagt: *„Komm mit zurück. Du wirst hier alt vor Hass."* Alphina antwortet leise: *„Nicht ohne Varen."* Rache. Maren sieht das Gesicht, das Sorel im Wald getragen hat, und versteht, dass sie nicht darüber kommt. Maren nickt einmal.
 
-Die Erde bebt. Bäume in einem Radius von zweihundert Metern verdorren — in Sekunden. Blätter fallen. Stämme werden grau. Ein Schmied in der Siedlung bricht zusammen — seine Magie erlischt, seine Hände, die gerade Metall formten, fallen schlaff herab. Kinder schreien. Thar-Verteidiger taumeln, ihre Waffen werden stumpf, ihre Bindungen reißen.
+**Runa:** Sie geht zu ihr in die Druckerei. Runa hat schon gepackt — sie reist mit Alphina nach Velmar. Maren fragt trotzdem. Runa antwortet ohne zu zögern: *„Ich folge ihr. Ich habe es ihr gesagt."* Loyalität. Maren erkennt Runas Schwur aus K17. Sie nickt zweimal.
 
-Alphina steht in der Mitte. Um sie herum: ein Kreis aus totem Land. Sie hat es getan. Sie hat es GEWOLLT.
+**Drei Ablehnungen. Drei verschiedene Gründe. Sie kann mit jedem leben — keiner bricht sie.** Der Schmerz ist still: nicht weil sie verstoßen wird, sondern weil jeder seinen eigenen Grund hat, hierzubleiben. Niemand hält sie zurück. Niemand kommt mit.
 
-Sie schaut nach Osten. Die GROSSE Quelle der Siedlung. Größer. Stärker. Tiefer. Sie spürt sie. Könnte sie auch —
+Sie verabschiedet sich nicht groß. Übergibt Elke ein versiegeltes Bündel — *„Falls du nach Dravek umziehst. Ich nehme an, du tust es bald — die Front rückt näher."* Elke nimmt es ohne Frage. Maren sagt: *„Unter den Stein, wo nichts wächst."* Elke nickt. Tschechow für B3.
 
-### Kap. 27 — Alphina (S. 500–520, ~5.000 Wörter)
-*Varen. Ketten.*
+Aufbruch über Land Richtung Dravek. Allein.
 
-**VAREN.** Aus dem Nichts. Schemen strömen über das Schlachtfeld — dutzende, humanoid, schnell. Sie schneiden Alphina ab. Von der Siedlung, von der großen Quelle, von den Bund-Soldaten, von Runa.
+POV-Wahl: Maren, weil ihre Wahl der Heimkehr-Bogen trägt.
 
-Ketten. Nicht Metall — Bindungsmagie. Sie legen sich um Alphinas Handgelenke, ihre Arme. Ihre Pflanzen VERSUCHEN zu wachsen — Wurzeln brechen aus dem Boden, Dornen schießen hoch. Die Ketten halten. Varens Magie ist stärker. Oder gezielter. Die Pflanzen wachsen, aber sie erreichen ihn nicht.
+### Kap. 22 — Vesper (S. 352–370, ~4.500 Wörter)
+*Vesper folgt Nyr zur Thar.*
 
-Varen sagt nichts. Sein Gesicht: kein Triumph. Notwendigkeit. Er hat gewartet. Auf genau diesen Moment. Den Moment in dem sie zu weit geht.
+Maren weg. Alphina + Runa weg nach Velmar. Vesper allein in der Hütte am Brachland, die jetzt nur noch nach feuchtem Holz riecht. Er bleibt einen Tag, zwei. Schreibt drei Briefe — an Alphina, an Maren, an Runa — und legt sie in eine Truhe, ohne sie abzuschicken.
 
-**Runa SIEHT es.** Aus hundert Metern Entfernung. Schemen zwischen ihr und Alphina. Runa kämpft — ihre Hände glühen, sie greift Schemen, die rauchende Haut verbrennt unter ihren Fingern. Dutzende. Sie tötet Dutzende. Brandflecken, rauchende Überreste. Aber es sind zu viele. Immer mehr. Bund-Soldaten fallen zurück. Runa wird zurückgeschlagen — schreiend, brennend, kämpfend.
+Nyr kommt am dritten Tag. Sagt: *„Wir reiten zurück nach Thar-Kem. Komm, wenn du willst. Bleib, wenn du musst."* Vesper packt seinen Rechen-Apparat ein, das alte thalassische Wörterbuch, eine Mappe mit den Archiv-Notizen aus K14. Er reist mit der Thar-Delegation ab.
 
-Alphina wird weggetragen. Von Schemen. Vorsichtig, wie etwas Kostbares. Varens Stimme, in Moragh, Befehle. Runa sieht Alphina verschwinden. Hinter einer Wand aus Schemen. Hinter dem Rauch.
+**Erste Stunden auf Thar-Boden:** Druck-Magie an der Metallwand, Nyr küsst ihn, blaue Flecken aus Luft. Andere Körper-Grammatik als Maren. Er denkt an Maren, sagt es Nyr — sie nickt, als sei es eine Tatsache. *„Sie ist deine. Ich bin auch hier."*
 
-Runas letzte Sicht: Alphina in Ketten. Varens breiter Rücken. Dann Staub.
+POV-Wahl: Vesper, weil der Übertritt sein Wahl-Akt ist.
 
-### Interludium X (~S. 525, ~2.000 Wörter)
-*Varen. Die vierte rote Markierung.*
+### Kap. 23 — Vesper (S. 370–390, ~5.000 Wörter)
+*Vesper bei Thar-Kem als Stratege. Bund-Gegenoffensive Hintergrund.*
 
-Varen in seinem Quartier. Alphina in Ketten im Nebenraum. Er steht vor seiner Wand. Karten. Drei tote Quellen — rot markiert. Seine. Sein Experiment, sein Fehler, vor Jahren. Jetzt nimmt er einen vierten Stift. Markiert eine vierte Quelle. Rot. Klein. Frisch.
+Vesper bei den Thar in Thar-Kem (Konglomerats-Hauptstadt). Er sitzt in den Kriegsräumen, nicht als Soldat, sondern als Berater. Schach-Logik auf Thar-Karten. Er sieht die Front zwei Züge voraus — die Thar-Strategen erkennen es nach drei.
 
-Nicht seine. IHRE.
+**Bund-Gegenoffensive im Hintergrund:** Während Vesper hier sitzt, läuft die Bund-Antwort auf den Thar-Angriff von K7 an. Bund holt Narthek zurück (drei Wochen blutiger Häuserkampf, ~5.000 Tote auf beiden Seiten). Thar-Front zieht sich nach Osten zurück. **Halvara-Kel** wird neue Thar-Frontstadt — kleine Quellen-Stadt im Bund-Vorfeld, jetzt Thar-Hauptmacht. Vesper sieht die Verschiebung auf den Karten. Er weiß: dort wird die nächste Schlacht sein.
 
-Er legt den Stift hin. Steht lange da. Sein Gesicht: nichts. Dann dreht er sich um und geht zu ihr.
+Plus: Vesper hat den Temporal-Helm noch nicht (kommt B3). Aber er fängt an, mit Nyrs Hilfe, Thar-Magitech zu studieren — was ist Resonanz-Druck, wie bauen sie die Bestien, was ist die Stelle wo Mensch-und-Maschine sich verbindet.
 
-### Kap. 28 — Alphina (S. 530–555, ~6.250 Wörter)
-*Gefangen. Die Karten. Gesprächsfetzen.*
+**Tschechow:** er notiert, dass die Velmar-Akten in der Thar-Bibliothek **fehlen** — Velmar gibt der Thar nichts. Velmar ist beiden Fraktionen verschlossen. Setup für seine Logik-Kette in K27.
 
-Alphina wacht auf. Ketten. Nicht ein Gästehaus wie in Buch 1 (falls Varen sie damals mitgenommen hätte) — ein Arbeitsraum. Bücher. Karten. Instrumente. Varens Quartier ist kein Gefängnis — es ist ein Labor. Und sie ist das neueste Exponat.
+POV-Wahl: Vesper.
 
-An der Wand: die Karten. Vier tote Quellen, rot markiert. Drei alt, verblasst, mit Notizen in Moragh. Eine frisch. Klein. An der Position der Thar-Siedlung. IHRE Quelle.
+### Kap. 24 — Alphina (S. 390–414, ~6.000 Wörter)
+*Velmar-Lehre. Varen-Auftritt 2.*
 
-Varen kommt. Setzt sich. Spricht sein altes Thalassisch — dasselbe wie in der ersten Begegnung, aber anders. Müder. Weniger charmant. Er redet nicht über Sorel. Nicht über das Portal. Er redet über die Karten.
+Alphina + Runa in Velmar (Hauptstadt der Velmar-Fraktion, südlich gelegen, Architektur aus weißem Sigil-Stein). Vermittlungsbrief von Elke öffnet die Tür zu Haus Torven — **Irenna Torven**, Hochbinderin, Mitte fünfzig, Velmar-Diktion: gemessen, präzise, ohne Charme. Sie nimmt Alphina und Runa unter Bedingung an: *„Sechs unserer Wochen. Ihr werdet gehorchen. Wenn ihr wegrennt, könnt ihr nicht wiederkommen."* Sie nicken.
 
-Gesprächsfetzen, nicht Monologe: "Vierhundert Menschen. Ohne Magie. Ab heute." Alphina versteht nicht. Oder will nicht. "Die Quelle die du getötet hast — sie hat eine Siedlung von vierhundert Menschen versorgt. Nicht die Soldaten. Die Bäcker. Die Heiler. Die Kinder. Alles was sie hatten war diese Quelle. Jetzt haben sie nichts."
+**6 MZ-Wochen Lehre.** Drei Phasen:
+1. **Kontrolle** (Woche 1–2). Alphina lernt, ihre Pflanzen-Resonanz präzise zu lenken — Wachstum auf Millimeter, Wurzeln in Spiral-Mustern, Heilung über Substrat-Schichten. Runa parallel: Feuer-Resonanz auf Hitzegrade, Funken-Kontrolle.
+2. **Lenkung** (Woche 3–4). Alphina lernt, Resonanz auf Distanz zu lenken — Pflanzen zehn Meter weit per Sigil-Karte. Velmar nutzt Sigile als Übertrager, was bei Thalassier-Resonanz zwar nicht canon-Standard ist, aber funktioniert.
+3. **Quellen-Kopplung** (Woche 5–6). Alphina lernt, was eine Quelle ist und wie sie sie spürt. Sie bemerkt, dass sie eine Quelle anziehen kann — Pulse einsenden, Antwort erspüren. Irenna sagt nicht, dass Resonanzen Quellen brechen können. Aber Alphina spürt die Möglichkeit, sagt nichts.
 
-Alphina: "Der Kommandant hat gesagt—" Varen: "Der Kommandant WUSSTE es. Deshalb hat er dich geschickt."
+**Talven hungrig im Hintergrund.** Eine Erwähnung: ein Bund-Lehrling aus Halvaren ist nach Velmar gereist, um die Velmar-Schemen-Bindung zu studieren — wurde abgewiesen, blieb aber in der Stadt, beobachtet von außen. Alphina sieht ihn einmal auf der Straße. Er senkt den Blick. **Tschechow für B2-Akt-IV-Hintergrund und B3** (Talvens Selbstlehre Blutmagie ist in Akt III gestartet, sichtbar in Akt IV/B3).
 
-### Kap. 29 — Alphina (S. 555–575, ~5.000 Wörter)
-*Die Wahrheit in Stufen.*
+**Varen-Auftritt 2.** Die fünfte Woche. Alphina ist abends allein im kleinen Hof von Haus Torven. Gleiche Choreographie wie K16 — Schritte hinter ihr, Druck-Fixierung, drei Sätze, doppeldeutig:
 
-Tage vergehen. Varen lässt sie nicht frei, aber er lässt sie sehen. Die Karten. Die Berichte. Abgefangene Bund-Kommunikation — Nachrichten zwischen Kommandanten, in Bund-Chiffre die Varen geknackt hat.
+1. *„Du verstehst, was sie dich nicht lehren wollen."* (Anerkennung — sie hat es selbst entdeckt.)
+2. *„Halvara-Kel. Dort, wo dein Hass auf Antwort trifft."* (Schlachtfeld-Andeutung.)
+3. *„Komm. Aber komm nicht."* (Doppel-Botschaft, identisch zu K16.)
 
-Die Wahrheit kommt nicht als Enthüllung — als Sickern:
+Er löst die Fixierung, geht. Alphina sagt es niemandem.
 
-**Stufe 1:** Die vier toten Quellen an der Wand. Drei alt (Varens), eine neu (Alphinas). Dieselbe Handlung. Derselbe Tod. Verschiedene Gründe.
+POV-Wahl: Alphina.
 
-**Stufe 2:** Die abgefangene Kommunikation. Bund-Kommandanten die über die "nächsten Ziele" sprechen. Systematisch. Koordiniert. Quellen-Zerstörung als Kriegsstrategie — nicht Alphinas Idee, nicht Draels Improvisation. PLAN. Der Bund hat die Methode. Hat sie seit Monaten. Alphina war nicht die Erste. Nur die Stärkste.
+### Kap. 25 — Alphina (S. 414–432, ~4.500 Wörter)
+*Drael-Bote. Versiegelter Brief. Halvara-Kel.*
 
-**Stufe 3:** Die Karten zeigen mehr. Bund-kontrollierte Gebiete, in denen Quellen "gesichert" wurden — tot. Dutzende. Nicht nur von Alphina. Von Bund-Magiern, die schwächer sind, aber die Methode kennen. Die systematische Auslöschung feindlicher Quellen. Wer keine Magie hat, kann nicht kämpfen. Wer nicht kämpfen kann, unterwirft sich.
+Sechste Velmar-Woche. Ein Bund-Bote — nicht Drael persönlich, ein junger Offizier — kommt nach Velmar mit einem versiegelten Brief von Drael. Irenna empfängt ihn kühl, lässt Alphina in den Empfangssaal kommen.
 
-Alphina sitzt vor den Karten. Stunden. Die Ketten klirren nicht mehr — sie bewegt sich nicht genug.
+**Der Brief:** Drael bittet Alphina **einmalig**. Halvara-Kel ist Thar-Frontstadt geworden. Bund plant Vorstoß. Die Hauptquelle der Stadt versorgt die Magie der Verteidiger — wenn sie schwächt, fallen Tausende Magier-Stunden weg, Bund-Verluste sinken um die Hälfte. *„Komm einmal. Ein einziger Vorstoß. Danach bist du frei."*
 
-### Kap. 30 — Runa (S. 575–592, ~4.250 Wörter)
-*Beim Bund. Wut. Plan.*
+Alphina liest den Brief und liest gleichzeitig in K24 hinein: Varen hat ihr **Halvara-Kel** gesagt. Sie liest es als Bestätigung — Varen wird dort sein, sie kann ihn auf der Schlacht stellen. Sie nimmt an. Irenna sieht es in ihrem Gesicht, sagt einen Satz: *„Du verlässt die Lehre. Ohne Abschluss. Komm nicht wieder."* Alphina nickt. Runa packt mit ihr.
 
-Runa zurück beim Bund. Allein. Alphina weg — von Varen genommen. Die Bund-Kommandanten reagieren mit kalkulierter Sorge: "Wir holen sie zurück." Aber Runa hört den Unterton: sie wollen die WAFFE zurück, nicht die Frau.
+**Eine Sache fällt Alphina nicht auf:** Drael hätte Halvara-Kel auch über Bund-Magier ohne Velmar-Niveau angreifen können. Warum sie? Weil Varen es ihm subtil signalisiert hat? Oder weil Drael sie testen will? Sie fragt nicht. Hass macht ungeduldig.
 
-Runa brennt. Buchstäblich — ihre Hände hinterlassen Brandflecken auf dem Tisch. Sie plant Alphinas Befreiung. Sammelt Information. Fragt Soldaten aus. Wo ist Varens Quartier? Wie viele Schemen? Welche Routen?
+POV-Wahl: Alphina.
 
-Eingebettet: Runa sieht jetzt was sie vorher übersehen hat. Die geräumten Dörfer. Die "gesicherten" Quellen. Die Bund-Soldaten die nicht über die toten Zonen reden. Sie schreibt es auf. Noch für sich. Die Druckerin sammelt.
+### Kap. 26 — Alphina (S. 432–452, ~5.000 Wörter)
+*Wegquelle. Probelauf.*
 
-### Interludium XI (~S. 596, ~2.000 Wörter)
-*Vesper bei den Thar mit Nyr. Das Muster.*
+Alphina + Runa reisen zur Bund-Front bei Halvara-Kel. Drael persönlich empfängt sie im Vorlager — er ist überrascht, nicht freundlich. Tagesmarsch vor der Frontstadt liegt eine **unbenannte Naturquelle** in der Wildnis, klein, schwach, von keiner Stadt besetzt. Sie versorgt nur Wandermagier, die durchqueren.
 
-Vesper und Nyr. Seit Akt II bei den Thar. Vesper sieht Muster — in den Thar-Maschinen, in der Bestien-Steuerung, in der Art wie die Thar Menschen und Magie verschmelzen. Nyr zeigt ihm Kessler — ihre 40-Tonnen-Bestie, ein lebendes Ramm-Schiff aus Knochen und Metall. "Das bin ich. Wenn ich fliege, ist Kessler mein Körper." Vesper versteht: die Thar sind nicht besser als der Bund. Aber sie benennen ihre Fehler.
+**Probelauf.** Drael sagt es offen: *„Wenn du es kannst, dann hier. Dann sehen wir, ob die Hauptquelle in der Stadt überhaupt deine Mühe wert ist. Niemand wohnt in dem Radius."*
 
-Vesper spürt die Erschütterung. Fern, gedämpft, aber sein Zeit-Sinn registriert es: eine Quelle ist gestorben. Die Vibration breitet sich durch ganz Moragh aus. Nyr spürt es auch. "Was war das?" Vesper: "Jemand hat eine Quelle getötet." Nyr wird still. "Wer?" Vesper weiß es. Sagt es nicht.
+Alphina geht zur Quelle. Legt Hände auf den Fels über dem Pulspunkt. Spürt die Wärme — kleiner als die in K3-Dravek, aber gleiche Art. Sie drückt mit ihrer Resonanz hinein. Wurzeln tief. Pulse, die sich gegenseitig auslöschen. Die Quelle zuckt, zieht sich zurück, kollabiert.
+
+**Quellen-Kollaps-Wirkung schlägt durch (Canon `10-magie-system.md`):**
+- Magier-Vorhut beidseits — Bund-Späher und Thar-Späher in einem 800-Meter-Radius — Speicher leer instant. Sie taumeln, einer fällt vom Pferd.
+- **Alphina geht in die Knie.** Resonanz-Träger spürt Quellen-Tod körperlich, ein Reißen im Brustkorb, ihre Pflanzen in einem 200-Meter-Radius werden welk an den Spitzen.
+- Runa stützt sie. Sieht die Wirkung, ohne den Begriff zu haben. Sagt: *„Das willst du nicht noch einmal tun."*
+- Drael steht ein paar Schritte entfernt, registriert es kühl: *„Halvara-Kel. Morgen früh. Versammlung der Bund-Vorhut um sechs."*
+
+Alphina nickt. Schwankt, aber nickt. Sie denkt an Varen. Morgen früh.
+
+POV-Wahl: Alphina.
+
+### Kap. 27 — Alphina (S. 452–490, ~9.000 Wörter)
+*Halvara-Kel-Hauptquelle + Gefangennahme. Akt-III-Crisis.*
+
+**DIE SZENE.** Halvara-Kel ist Thar-Frontstadt, ~6.000 Einwohner, 1.500 Verteidiger. Bund hat einen Vorstoß direkt zur Quelle vorbereitet — **untypisch.** Standard-Bund-Doktrin ist Erschöpfungs-Spiel über Tage (Magier auf beiden Seiten ausbrennen lassen, dann Frieden verhandeln). Direkt-zur-Quelle ist unverhältnismäßig blutig.
+
+**Vesper erkennt den Muster-Bruch** aus Thar-Kem über die Strategie-Karten (siehe K23). Er reist mit Nyr und einer kleinen Thar-Vorhut Richtung Halvara-Kel — er ahnt, dass etwas Größeres läuft. Sie sind am Schlachttag im Vorfeld.
+
+**Schlacht-Choreographie:**
+- Bund-Vorhut bricht durch die Verteidiger zur Hauptquelle.
+- Alphina geht in die Vorhut hinein, geschützt durch Drael-Soldaten.
+- Nyr spürt die Bedrohung, formt Druckwellen — sie würden Alphina erreichen, sie aus dem Vorstoß werfen.
+- **Varen ist als Bund-Soldat in der Bund-Linie getarnt.** Velmar-Schnitt verkleidet als Bund-Lederrüstung, Gesicht halb verhüllt. Er fängt Nyrs Druckwellen ab — ein Velmar-Druck-Konter, der aussieht wie ein Bund-Gegen-Reflex. Nyr versteht es nicht. Sie versucht es noch einmal. Wieder abgefangen. Sie zögert.
+- Plus: 2–3 Velmar-Deserteure in Bund-Tarnung neben Varen, vorab über einen korrupten Bund-Offizier eingeschleust. Sie halten den Schemen-Schutz auf.
+
+**Alphina erreicht die Hauptquelle.** Größer als die Wegquelle. Sie kennt jetzt die Methode. Wurzeln tief, Pulse, Überladung. Die Quelle wehrt sich länger — drei Atemzüge, dann fünf, dann zehn. Sie presst weiter. **Die Quelle stirbt.**
+
+**Quellen-Kollaps-Wirkung Halvara-Kel (innerhalb Stadt):**
+- Thar-Magier in der Stadt verlieren Speicher instant — Magitech-Bestien fallen aus, Schemen-Soldaten lösen sich, Bund-Vorhut bekommt Bahn frei.
+- Bund-Magier in 1-Kilometer-Radius außerhalb der Stadt: ebenfalls Speicher leer.
+- **Alphina geht in die Knie**, schwerer als bei der Wegquelle — sie hat in einer größeren Quelle geendet. Trauma im Brustkorb.
+- Runa kämpft sich zu ihr durch — Schnittwunden vom Klingen-Kontakt mit Bund-eigenen Soldaten (Identifikations-Chaos), eine gebrochene Rippe.
+
+**Varen ist im Chaos da.** Er nutzt den Moment. Tritt zu Alphina, fixiert sie mit einer Welle Druckmagie reglos (Velmar-Standardtechnik bei Magie-Trägern, Stufe 6 reicht für 30 Sekunden Fixierung einer Stufe-7-Resonanz im Erschöpfungs-Zustand). In derselben Bewegung legt er ihr das **präparierte Velmar-Lederhalsband** um die Kehle — Stahlring matt-violett, absorbiert ihre Wirkungs-Versuche reaktiv. Sie sieht ihn, erkennt den Mantel aus dem Archiv K16. Sie versucht zu wachsen, das Halsband fängt es ab, der Stahlring glüht ein- und ausschaltend.
+
+Velmar-Deserteure schleppen sie weg. Varen folgt im Schritt. Runa sieht es aus zwanzig Metern Entfernung, schreit, kämpft, kommt nicht hin.
+
+**Vesper trifft im Aftermath ein.** Er sieht die tote Quelle (Resonanz-Stille), die Velmar-Tarnungen, den Druck-Konter-Stil. **Logik-Kette schließt sich in einem Schlag:**
+- Velmar-Verstoßener-Notiz aus K14.
+- Druckmagie-Profil eines Velmar-Binders mit Schemen-Vorhut.
+- Alphinas verschwiegener Auftrag (sie war zu eilig, zu sicher).
+- Schatten am Stadtrand, K2/K4 (er hatte sie damals als Erschöpfung verschoben).
+
+**Vesper benennt Varen als Drahtzieher** — innerlich, ohne Beweis, mit Sicherheit. Tschechow für Akt IV (Suchplan).
+
+**Akt-III-Crisis. Akt-III-Schluss.**
+
+POV-Wahl: Alphina, weil das Captivity ihre Linie abschließt. Vespers Logik-Kette wird im Aftermath kurz angerissen, voll entfaltet in der ersten K28-Szene (Akt IV).
+
+### Interludium 6 — Drael (~S. 490, ~2.500 Wörter)
+*Drael nach Halvara-Kel. Was er sieht und nicht versteht.*
+
+Drael in seinem Quartier nach der Schlacht. Bund hat Halvara-Kel. Aber die Quelle ist tot — Stadt wird in Wochen unbewohnbar, kein Bund-Sieg, sondern Pyrrhus-Sieg. Plus: Alphina ist weg. Velmar-Tarnungen in der Bund-Linie — er hat sie nicht gesehen, sein Geheimdienst auch nicht. Jemand Größeres hat den Vorstoß manipuliert.
+
+Er schreibt einen Bericht nach Orath. *„Resonanz-Träger entkommen, Quelle Halvara-Kel tot, Velmar-Beteiligung wahrscheinlich, Identität unklar."* Velmar als Ganzes verdächtigt — er ahnt nicht, dass es ein einzelner Verstoßener ist. **Setup für B3** (Drael findet Varens Identität erst spät, nach Marens Brief-Spur).
+
+POV-Wahl: Drael.
 
 ---
 
-## Tschechow'sche Waffen in Akt III
+## Tschechow'sche Waffen Akt III
 
 | Detail | Akt III | Feuert in |
-|--------|---------|-----------|
-| Alphinas Dornen (Buch 1, Akt IV) | Kap 25 — Dornen als Waffe. Der Hass hat ihre Resonanz verändert. Jetzt tötet sie damit | Akt IV — Sex mit Varen: Dornen statt Farne. Zwei Täter |
-| Drael kennt die Quellen-Positionen | Kap 23/25 — Er weiß zu genau wo sie liegen | Kap 28 — Die abgefangene Kommunikation: systematischer Plan, nicht Improvisation |
-| Runas Dokumentation | Kap 24 — Sie schreibt auf was sie sieht | Akt IV — Runa beim Bund, sammelt Beweise, plant Befreiung |
-| Vier rote Markierungen | I10 — Drei alt (Varen), eine neu (Alphina) | Kap 27/28 — Alphina sieht die Karten. Sieht SICH SELBST neben Varen |
-| "Vierhundert Menschen" | Kap 27 — Gesprächsfetzen | Akt IV — Die Zahl verfolgt sie. Dieselbe Zahl wie Varens alte Quellen |
-| Runa tötet Dutzende Schemen | Kap 26 — Feuer-Resonanz als Waffe | Buch 3 — Runa bei den Thar, aufsteigend. Die warmen Hände formen jetzt anderes Metall |
-| Bund-Chiffre geknackt | Kap 28 — Varen hat die Kommunikation entschlüsselt | Akt IV — Alphina liest die Pläne selbst. Kein Filter. Keine Ausrede |
-| "Seit wann nimmst du Befehle?" | Kap 21 — Runas Frage | Akt IV — Alphina erinnert sich. Runa hatte Recht |
-| Schlaf-Haine auch in Ketten | Kap 27 — Alphinas unbewusste Resonanz wächst auch in Varens Quartier | Akt IV — Varen beobachtet es. Fasziniert. "Selbst in Ketten" |
-| Vesper spürt die tote Quelle | I11 — Die Vibration durch ganz Moragh | Buch 3 — Vesper wird die Quellen-Zerstörungen kartieren. Die Zeitlinien verändern sich |
-| Alphinas Kreis aus totem Land | Kap 25 — Zweihundert Meter Radius, alles verdorrt | Akt IV — Die Schuld-Spiegelung. Sie hat es gesehen. Sie hat es GEFÜHLT. Und trotzdem weitergemacht |
-| Runa will Alphina befreien | Kap 29 — Plan, Routen, Information | Akt IV — Runa kommt zu spät. Alphina hat die Seite gewechselt. Runas Schock |
+|---|---|---|
+| Nyrs Konstruktionsplan Halvek-Mar | K18 | Ende B3 (Halvek-Mar als Paar-Ende-Ort) |
+| Velmar-Akten fehlen in Thar | K23 | B3 (Vesper-Recherche zur Velmar-Verstoßung) |
+| Talven-Erwähnung in Velmar-Stadt | K24 | B2-Akt-IV (Talven-Hunger reift im Hintergrund), B3 (Bogen) |
+| Varen-Auftritt 2 mit Halvara-Kel | K24 | K27 (Falle springt zu) |
+| Drael-Brief versiegelt | K25 | K27 (Drael ahnt nichts von Varen-Falle), B3 (Drael vs. Varen) |
+| Wegquelle-Kollaps-Wirkung | K26 | K27 (zweite, größere Wirkung in Halvara-Kel) |
+| Velmar-Lederhalsband K27 | K27 | Akt IV (Drainage-Mechanik), B3-K77 (Halsband-Bruch im Duell) |
+| Vesper-Logik-Kette zu Varen | K27-Aftermath | Akt IV (Suchplan), B3 (Varen-Recherche) |
+| Marens versiegeltes Bündel bei Elke | K21 | B3-Akt-II (Alphina findet Brief unter dem Stein) |
+| Runas Schnittwunden + gebrochene Rippe | K27 | Akt IV (Runa kämpft trotzdem weiter) |
+| Drael-Bericht „Velmar-Beteiligung" | I6 | B3 (Drael-Linie entwickelt sich getrennt) |
+
+## Cross-POV-Anker
+
+- **Alphina-Velmar-Linie:** K20 (Aufbruch nach Velmar) → K24 (Lehre + Varen-Auftritt 2) → K25 (Bund-Auftrag) → K26 (Wegquelle) → K27 (Halvara-Kel + Captivity) → Akt IV
+- **Maren-Wasserweg-Linie:** K19 (Identitäts-Bruch) → K21 (Drei-Ablehnungen, Aufbruch) → K39 (Solo-Durchgang in Akt IV)
+- **Vesper-Übertritt-Linie:** K18 (Nyr-Begegnung) → K22 (Reise nach Thar-Kem) → K23 (Strategie-Sitz, Bund-Gegenoffensive) → K27 (Logik-Kette zu Varen) → Akt IV (Suchplan)
+- **Schemen-Lore:** K7-Vorgeschichte → K27 (Velmar-Tarnungs-Schemen in Bund-Linie, Quellen-Kollaps löst Schemen auf) → B3 (Talven-Bindung)
+- **Captivity-Mechanik:** K27 (Halsband + Druckmagie-Fixierung) → Akt IV (Drainage in Reparatur-Sitzungen, Variante C)

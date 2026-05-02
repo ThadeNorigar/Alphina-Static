@@ -6,9 +6,9 @@ zeitraum_mz: "Mehrere MZ-Jahreszeiten"
 zeitraum_tz: "1987–2153 TZ (400:1 Ratio, Thalassien-Seite)"
 pov: [Alphina, Runa, Vesper, Varen, Nyr, Talven, Iven, Tyra]
 pov_verteilung: "Alphina-Kern, breites Ensemble"
-status: "Konzept final (12-buch3-konzept.md, B3-BRIEFING.md, B3-STAND.md, B3-ZEITLEISTE.md), Akt-Pläne 14–17 in Arbeit"
+status: "Konzept final (12-buch3-konzept.md), Aktpläne 14–17-buch3-akt*.md auf Stand 2026-05-02"
 wortumfang_ziel: 250000
-last_update: 2026-04-19
+last_update: 2026-05-02
 ---
 
 ## Leitmotiv
@@ -19,7 +19,7 @@ Varen war nie Verbündeter. Er hat vier Thalassier gesammelt für ein Ritual, da
 
 **Kapitel 41–50 + Interludium I7**
 
-Alphina wacht in Varens Quartier in Torkal auf, drei Wochen nach Sulkara. Der Basalt unter ihren Füßen ist warm, die Quelle zwei Kilometer entfernt pulsiert, Varen reicht ihr eine Tasse bitteren Moragh-Tee. Sie reisen nach Halvara-Kel, zu der Quelle, die sie in Buch 2 selbst getötet hat, und legen ihre Hände gemeinsam auf den ausgelaugten Fels. Ein einzelner Puls ihrer Resonanz hinein, ein Zucken, dann ein Pochen, und zum ersten Mal seit Sorels Tod lacht sie ohne Schmerz. Was sie nicht sieht: der Anker zwischen ihren Schulterblättern zieht den Überschuss ab, tausendmal mehr als die Reparatur braucht, in Varens Speicher.
+Alphina wacht in Varens Quartier in Torkal auf, drei Wochen nach Sulkara. Der Basalt unter ihren Füßen ist warm, die Quelle zwei Kilometer entfernt pulsiert, Varen reicht ihr eine Tasse bitteren Moragh-Tee. Sie reisen nach Halvara-Kel, zu der Quelle, die sie in Buch 2 selbst getötet hat, und legen ihre Hände gemeinsam auf den ausgelaugten Fels. Ein einzelner Puls ihrer Resonanz hinein, ein Zucken, dann ein Pochen, und zum ersten Mal seit Sorels Tod lacht sie ohne Schmerz. Was sie nicht sieht: das Velmar-Halsband-Sigil aktiviert sich im Reparatur-Modus (Variante C — Drainage nur in Sitzungen) und drainiert den Überschuss in Varens Speicher, tausendmal mehr als die Reparatur braucht.
 
 In Thar-Kem sitzt Vesper über Aufklärungsdaten, die nicht zu Moragh-Physik passen — Bodentemperatur-Anomalien am Steinplatz, Sensoren, die er nicht kennt. Nyr pilotiert Kessler in einer Wartungshalle, klopft mit der Handfläche auf den Stahl, und die Bestie vibriert wie ein Partner, der auf das Kommando wartet. Vesper legt der Thar-Kommandantin einen Bericht über den Tech-Gradienten vor; sie legt ihn auf einen Stapel und liest ihn nicht. In Halvaren druckt Runa Flugblätter in zwei Sprachen, wärmt die Walzen mit ihrer Feuer-Resonanz, und Drael besucht sie abends zu höflichem Tee, der niemals getrunken wird.
 
@@ -31,7 +31,7 @@ Im Bund-Gebiet verteilt Talven Resonanz auf dem Marktplatz von Halvaren — ein 
 - Talven findet das Bindungs-Handbuch unter seiner Tür, legt es in die Schublade
 - Runa sammelt in Halvaren Material gegen Drael, druckt zweisprachig gegen den Bund
 - I7: Maren gründet die Schwellenforschungsgesellschaft, dreißig Jahre bevor Tyra geht
-- Alphinas Schlaf-Hain welkt an den Rändern, der Anker leckt sichtbar
+- Alphinas Schlaf-Hain welkt an den Rändern, die Halsband-Drainage hinterlässt sichtbare Spuren
 
 ## Akt II — Scheitern und Antwort
 
@@ -55,7 +55,7 @@ In Dravek findet Alphina Elke tot auf der Gartenbank — Würgespuren, präzise,
 
 **Kapitel 61–70 + Interludien I9 und I14**
 
-In einer Gaststube in Thar-Kem legt Alphina das Velmar-Dokument vor Vesper auf den Tisch. Seine Muster-Resonanz greift die alte Sprache in Minuten; er zeigt ihr ihren Namen als Rechengröße. Er zählt die Symptome auf: Wärme an der Wirbelsäule nach Reparatur-Sitzungen, Müdigkeit, die zu tief geht, ein Ziehen bei Entfernung. Alphina kennt alle drei. Sie reist zurück nach Torkal, wartet bis Varen schläft, sprengt mit Wurzeln ein Schloss im Schreibtisch und findet das Ritual-Buch, die Liste, und am Rand in seiner Handschrift den Satz, der ihre Welt kippen lässt: *„Die Trauer macht sie stärker. Sorels Nutzen liegt im Sterben."* Sie legt das Blatt zurück, legt sich neben Varen, atmet, rechnet. Morgens verlässt sie Torkal ohne Drama. Der Anker zieht, aber sie bleibt auch.
+In einer Gaststube in Thar-Kem legt Alphina das Velmar-Dokument vor Vesper auf den Tisch. Seine Muster-Resonanz greift die alte Sprache in Minuten; er zeigt ihr ihren Namen als Rechengröße. Er zählt die Symptome auf: Wärme an der Wirbelsäule nach Reparatur-Sitzungen (Halsband-Sigil aktiv), Müdigkeit, die zu tief geht (Drainage), ein vegetatives Ziehen bei Entfernung von Varen (monatelange Konditionierung). Alphina kennt alle drei. Sie reist zurück nach Torkal, wartet bis Varen schläft, sprengt mit Wurzeln ein Schloss im Schreibtisch und findet das Ritual-Buch, die Liste, und am Rand in seiner Handschrift den Satz, der ihre Welt kippen lässt: *„Die Trauer macht sie stärker. Sorels Nutzen liegt im Sterben."* Sie legt das Blatt zurück, legt sich neben Varen, atmet, rechnet. Morgens verlässt sie Torkal ohne Drama. Das Halsband bleibt am Hals — nur ein Velmar-Binder kann es lösen. Sie geht trotzdem.
 
 In der freien Stadt Kolmen wartet sie auf einen Boten und findet stattdessen Tyra Halvard an der Tür. Tyra hat ihre Schall-Resonanz in Moragh kennen gelernt, kann Stille-Zonen legen und bei Beschwörung kleiner Schemen ihre Stimme mitgeben. Zwei solche Schemen werden ein Fernsprecher; Alphina hört Tyras Stimme aus dem Garten und lacht das erste Mal seit Monaten echt. Vesper und Nyr kommen, mit Runa, die Drael enttarnt hat und eine Stunde Zeit zum Fliehen bekommen hatte. Alphina geht auf sie zu, weint. Runa bleibt hart, hart und klar, berührt dann ihre Hand: *„Aber ich stehe. Wenn es zählt."*
 

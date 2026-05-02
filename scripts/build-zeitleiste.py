@@ -24,7 +24,7 @@ Schema (neu, flach):
     ]
   }
 
-Ankerpunkte (laut B3-ZEITLEISTE.md):
+Ankerpunkte (historisch aus B3-ZEITLEISTE.md, archiviert 2026-05-02; siehe _archiv/):
   TZ 154 (=MZ -5.5 grob) — Elke + 3 in Vael, Elkes Durchgang
   TZ 551 (=MZ 0) — B1-Start, 21. Saatmond 551
   TZ ~553 (=MZ ~1) — B1-Ende, Portalübertritt Vier + Runa
@@ -53,8 +53,9 @@ OUT = ROOT / "buch" / "zeitleiste.json"
 # ---------------------------------------------------------------------------
 
 # Roman-interne TZ-Jahreszahl: B1-Start = 551 TZ. B3-Ende = 884 TZ (551+333).
-# Die B3-ZEITLEISTE.md nutzt parallel 1820–2153 als "real-world-Äquivalent";
-# wir bleiben bei der Roman-internen 551er-Zählung, weil Kapitel-Header das nutzen.
+# Die B3-ZEITLEISTE.md (archiviert 2026-05-02) nutzte parallel 1820–2153 als
+# "real-world-Äquivalent"; wir bleiben bei der Roman-internen 551er-Zählung,
+# weil Kapitel-Header das nutzen.
 TZ_B1_START = 551
 MZ_PER_TZ_YEAR = 1 / 400   # Moragh-Zeit läuft langsamer
 TZ_PER_MZ_MONAT = 400 / 12  # = 33.33 TZ-Jahre pro Moragh-Monat
@@ -568,11 +569,11 @@ B2_EVENTS: list[dict[str, Any]] = [
      "detail": "Mar-Keth, Dulrath-Ost, Reshkol. Sein Leylinien-Experiment, drei tote Quellen, 200.000 Heimatlose, der Krieg brach daraus hervor. »Niemand weiß es. Nur du.« Thalassische Resonanz ist azyklisch.",
      "typen": ["erkenntnis", "hintergrund"],
      "tags": ["Geständnis", "azyklische Resonanz"]},
-    {"mz": 3.5, "welt": "moragh", "pov": "Alphina", "buch": "B2", "kapitel": "36", "leseart": "normal",
-     "titel": "Sex mit Varen — Resonanz-Anker gesetzt",
-     "detail": "Zwei Täter in einem Raum. Blühende schwarze Dornen aus Decke und Steinritzen. Varen setzt heimlich einen Resonanz-Anker in ihre Frequenz. Sie hält die Wärme für Nachglut.",
-     "typen": ["erotik", "tschechow", "resonanz"],
-     "tags": ["Anker", "Manipulation"]},
+    {"mz": 3.5, "welt": "moragh", "pov": "Alphina", "buch": "B2", "kapitel": "37", "leseart": "normal",
+     "titel": "Sex mit Varen — Hingabe an die Mission",
+     "detail": "Zwei Täter in einem Raum. Blühende schwarze Dornen aus Decke und Steinritzen. Sie führt — auf Körperebene ein Bündnis, kein Vertrauen. Halsband bleibt am Hals (Stahlring matt-violett); Varen aktiviert die Drainage hier nicht. Sie liest die Geste als Vertrauen.",
+     "typen": ["erotik", "tschechow"],
+     "tags": ["Manipulation", "Halsband"]},
     {"mz": 3.55, "welt": "moragh", "pov": "Varen", "buch": "B2", "kapitel": "34", "leseart": "normal",
      "titel": "Vier-Thalassier-Liste",
      "detail": "Varen notiert eine Liste: Alphina, Vesper, Maren, Runa. Neben jedem Namen ein Resonanz-Maximum. Legt sie zwischen zwei Bücher. Kein Kommentar. Setup für B3.",
@@ -612,7 +613,8 @@ B2_EVENTS: list[dict[str, Any]] = [
 
 
 # Erweiterte Detail-Texte für B2-Events, strikt aus Akt-Docs + Synopse extrahiert.
-# Quellen: 06-09-buch2-akt*.md, synopse-b2.md, B3-ZEITLEISTE.md (B2-Ende), 00-storyline.md
+# Quellen: 06-09-buch2-akt*.md, synopse-b2.md, 00-storyline.md
+# (B3-ZEITLEISTE.md am 2026-05-02 archiviert, Werte hier sind historisch hardcoded.)
 B2_DETAIL_OVERRIDES: dict[str, str] = {
     "Drei-Tage-Marsch zum Lichtschein":
         "Drei Tage nach Sorels Tod marschieren Alphina, Vesper, Maren und Runa zum Lichtschein, den sie am Ende von B1 gesehen haben. Fremde Flora am eigenen Leib, Harons Sprachbrocken passen nur halb, Runas Feuer hält Wunden.",
@@ -658,8 +660,8 @@ B2_DETAIL_OVERRIDES: dict[str, str] = {
         "Varen hat abgefangene Bund-Kommunikation entschlüsselt. Alphina liest: Quellen-Zerstörung als koordinierte Kriegsstrategie, Dutzende tote Zonen, zehn weitere Ziele geplant — sechshundert Menschen, achthundert. Sie war nicht die Erste. Nur die Stärkste.",
     "Varens Geständnis":
         "Varen in altem Thalassisch, langsam, ohne Rechtfertigung: drei Reservoir-Quellen — Mar-Keth, Dulrath-Ost, Reshkol. Leylinien-Experiment, Kettenreaktion, zweihunderttausend heimatlos, Kriegsausbruch. »Niemand weiß es. Nur du.« Auf Alphinas Frage nach Sorel: »Weil dein Hass Treibstoff brauchte.«",
-    "Sex mit Varen — Resonanz-Anker gesetzt":
-        "Gewachsen aus geteilter Schuld. Dornen aus Boden, Steinritzen, Decke — schwarz, scharf, dicht. Keine Farne, keine Zärtlichkeit: Kontrolle durch Erkenntnis. Varen setzt heimlich einen Bindungs-Anker in ihrer Frequenz. Sie spürt Wärme an der Wirbelsäule, hält sie für Orgasmus-Nachwirkung.",
+    "Sex mit Varen — Hingabe an die Mission":
+        "Gewachsen aus geteilter Schuld. Dornen aus Boden, Steinritzen, Decke — schwarz, scharf, dicht. Keine Farne, keine Zärtlichkeit: Kontrolle durch Erkenntnis. Sie führt, er lässt sich führen — auf Körperebene ein Bündnis, kein Vertrauen. Das Halsband (Stahlring matt-violett) bleibt während des Sex am Hals; Varen aktiviert die Drainage hier nicht. Sie liest die Geste als Vertrauen.",
     "Vier-Thalassier-Liste":
         "Varen an seinem Arbeitstisch. Eine Liste, klein zwischen zwei Büchern versteckt: vier Namen — Alphina, Vesper, Maren, Runa. Neben jedem Namen eine Zahl. Resonanz-Maximum. Das, was sie für das Ritual geben müssten. Kein Kommentar. Kein Zögern.",
     "Maren findet Portal-Ritual-Anleitung":
@@ -694,18 +696,18 @@ def block_b2() -> None:
 
 
 # =====================================================================
-# BLOCK 5 — B3 (aus B3-ZEITLEISTE.md, strukturiert)
+# BLOCK 5 — B3 (historisch aus B3-ZEITLEISTE.md, jetzt hier hardcoded)
 # =====================================================================
 
-# Aus B3-ZEITLEISTE.md direkt abgeleitet. MZ in Moragh-Monaten seit B1-Start.
-# Thalassien-Zeitpunkte in TZ-Zahlen (aus B3-ZEITLEISTE, dort "Thalassien-Zeit" Spalte).
+# Aus dem 2026-05-02 archivierten B3-ZEITLEISTE.md hierher übernommen. MZ in Moragh-Monaten
+# seit B1-Start. Thalassien-Zeitpunkte in TZ-Zahlen.
 B3_EVENTS: list[dict[str, Any]] = [
     # === Akt I ===
     {"mz": 5.5, "welt": "moragh", "pov": "Alphina", "buch": "B3", "kapitel": "41", "leseart": "normal",
      "titel": "Alphina + Varen in Torkal — erste Quellen-Reparatur (Halvara-Kel)",
-     "detail": "Drei Wochen nach Sulkara. Sie reisen zur toten Quelle Halvara-Kel, legen die Hände auf den ausgelaugten Fels. Ein Puls, ein Zucken, Pochen — Alphina lacht erstmals seit Sorels Tod. Der Anker zwischen ihren Schulterblättern zieht Überschuss in Varens Speicher.",
+     "detail": "Drei Wochen nach Sulkara. Sie reisen zur toten Quelle Halvara-Kel, legen die Hände auf den ausgelaugten Fels. Ein Puls, ein Zucken, Pochen — Alphina lacht erstmals seit Sorels Tod. Während der Sitzung aktiviert das Velmar-Halsband seine Drainage; sie spürt Wärme zwischen den Schulterblättern, deutet sie als Reparatur-Resonanz. Der Überschuss fließt in Varens Speicher.",
      "typen": ["resonanz", "tschechow"],
-     "tags": ["Torkal", "Halvara-Kel", "Anker-zieht"]},
+     "tags": ["Torkal", "Halvara-Kel", "Bindung-Drainage"]},
     {"mz": 5.55, "welt": "moragh", "pov": "Vesper", "buch": "B3", "kapitel": "42", "leseart": "normal",
      "titel": "Vesper analysiert Expedition-Sensoren",
      "detail": "Vesper in Thar-Kem über Aufklärungsdaten. Bodentemperatur-Anomalien am Steinplatz, Sensoren, die er nicht kennt. Etwas kommt durch — Thar-Kommandantin legt seinen Bericht ungelesen auf den Stapel.",
@@ -749,7 +751,7 @@ B3_EVENTS: list[dict[str, Any]] = [
      "titel": "Dritte Quellen-Reparatur (Dulrath-Ost) — Reparaturen verblassen",
      "detail": "Dulrath-Ost pulsiert, aber schon Halvara-Kel erlischt wieder. Varen nickt: einzelne Injektion halte nicht, man müsse wiederkommen. Alphina schluckt die Erklärung. Ihr Schlaf-Hain in Torkal welkt an den Rändern.",
      "typen": ["resonanz", "erkenntnis"],
-     "tags": ["Reparatur-Fassade bröckelt", "Anker leckt"]},
+     "tags": ["Reparatur-Fassade bröckelt", "Bindung-Drainage spürbar"]},
     # === Akt II ===
     {"mz": 6.5, "welt": "moragh", "pov": "Varen", "buch": "B3", "kapitel": "51", "leseart": "normal",
      "titel": "Varen entdeckt das Ritual — vier Thalassier-Opfer",
@@ -782,7 +784,7 @@ B3_EVENTS: list[dict[str, Any]] = [
      "tags": ["Maren tot", "Syra Halvard 15", "2037 TZ"]},
     {"mz": 7.0, "welt": "moragh", "pov": "Alphina", "buch": "B3", "kapitel": "54", "leseart": "normal",
      "titel": "Varen präsentiert Alphina das »heroische« Ritual",
-     "detail": "Varen stellt das Ritual als Zukunftsopfer vor — sich selbst als ersten Brennenden. Alphina hört Hoffnung und zweifelt nur leise. Der Anker zieht sie zu seiner Lesart.",
+     "detail": "Varen stellt das Ritual als Zukunftsopfer vor — sich selbst als ersten Brennenden. Alphina hört Hoffnung und zweifelt nur leise. Der monatelange Hoffnungs-Betrug und die geteilten Sitzungen ziehen sie zu seiner Lesart.",
      "typen": ["wissen", "erkenntnis"],
      "tags": ["Ritual-Fassade"]},
     {"mz": 7.05, "welt": "moragh", "pov": "Alphina", "buch": "B3", "kapitel": "55", "leseart": "normal",
@@ -792,7 +794,7 @@ B3_EVENTS: list[dict[str, Any]] = [
      "tags": ["Drei-Sätze-Absage", "vierter Satz"]},
     {"mz": 7.2, "welt": "moragh", "pov": "Vesper", "buch": "B3", "kapitel": "56", "leseart": "normal",
      "titel": "Vesper bekommt Temporal-KI-Helm",
-     "detail": "Thar eigene Forschung. Vesper sieht durch den Helm den Resonanz-Anker zwischen Alphinas Schulterblättern — als Leuchtlinie. Er beginnt, das Ritual-Kalkül zu entschlüsseln.",
+     "detail": "Thar eigene Forschung. Vesper sieht durch den Helm das Velmar-Bindungs-Sigil an Alphinas Halsband — als Leuchtlinie, die nur in Aktivierungs-Phasen pulsiert. Er beginnt, das Ritual-Kalkül zu entschlüsseln.",
      "typen": ["tschechow", "wissen"],
      "tags": ["Temporal-KI-Helm"]},
     {"mz": 7.3, "welt": "moragh", "pov": "Talven", "buch": "B3", "kapitel": "57", "leseart": "normal",
@@ -838,9 +840,9 @@ B3_EVENTS: list[dict[str, Any]] = [
      "tags": ["Maren-Brief", "Unter dem Stein"]},
     {"mz": 7.8, "welt": "moragh", "pov": "Alphina", "buch": "B3", "kapitel": "65", "leseart": "normal",
      "titel": "Alphina verlässt Varen — ohne Drama",
-     "detail": "Sie legt das Blatt zurück, legt sich neben Varen, atmet, rechnet. Morgens verlässt sie Torkal ohne Drama. Der Anker zieht, aber sie bleibt auch.",
+     "detail": "Sie legt das Blatt zurück, legt sich neben Varen, atmet, rechnet. Morgens verlässt sie Torkal ohne Drama. Das Halsband bleibt am Hals — nur ein Velmar-Binder kann es lösen. Sie geht trotzdem.",
      "typen": ["erkenntnis"],
-     "tags": ["Anker bleibt, sie bleibt auch"]},
+     "tags": ["Halsband bleibt, sie geht"]},
     {"mz": 7.9, "welt": "moragh", "pov": "Runa", "buch": "B3", "kapitel": "66", "leseart": "normal",
      "titel": "Runa läuft aus dem Bund über",
      "detail": "Drael belügt Runa über die Expedition-Gefahr. Sie enttarnt ihn mit einer Drael-Dokumentmappe, bekommt eine Stunde Fliehen, läuft in die freie Stadt Kolmen.",
@@ -903,9 +905,9 @@ B3_EVENTS: list[dict[str, Any]] = [
      "tags": ["Iven", "Parallel-Schlacht", "Kessler im Kampf"]},
     {"mz": 9.5, "welt": "moragh", "pov": "Alphina", "buch": "B3", "kapitel": "75", "leseart": "normal",
      "titel": "Duell Alphina + Vesper vs. Varen — Beginn",
-     "detail": "Drei Kapitel, etwa 15.000 Wörter. Varen in seinem Ring. Alphina und Vesper. Varen löst den Anker über seine Frequenz aus — Alphinas Dornen wachsen unter ihrer Haut. Vespers Schemen-Angriff zielt auf seinen Temporal-Helm.",
+     "detail": "Drei Kapitel, etwa 15.000 Wörter. Varen in seinem Ring. Alphina und Vesper. Varen aktiviert die Halsband-Bindung über seine Frequenz aus der Distanz — Alphinas Dornen wachsen unter ihrer Haut, der Stahlring glüht matt-violett. Vespers Schemen-Angriff zielt auf seinen Temporal-Helm. Vesper bricht das Halsband im Verlauf des Duells.",
      "typen": ["krieg", "schlüssel"],
-     "tags": ["Duell", "Anker-Bruch"]},
+     "tags": ["Duell", "Halsband-Bruch"]},
     {"mz": 9.55, "welt": "moragh", "pov": "Vesper", "buch": "B3", "kapitel": "76", "leseart": "normal",
      "titel": "Vespers linker Unterarm zerkocht",
      "detail": "Ein aufgeladener Varen-Schemen fasst Vespers linken Unterarm. Haut spannt, bleibt unversehrt, Fleisch innen kocht. Er kämpft weiter mit der rechten Hand.",

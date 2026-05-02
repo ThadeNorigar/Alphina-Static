@@ -1,17 +1,16 @@
 {
   "categories": [
     {
-      "id": "welt-kanon",
-      "name": "Welt & Kanon",
+      "id": "layer-1-welt",
+      "name": "Layer 1 — Weltbibel",
       "docs": [
         {"slug": "00-welt", "title": "Die Welt von Vael", "desc": "Weltbibel — Länder, Städte, Fraktionen, Source of Truth"},
-        {"slug": "00-storyline", "title": "Gesamt-Storyline", "desc": "Trilogie-Bogen, Haupthandlung, zentrale Wendungen"},
         {"slug": "00-canon-kompakt", "title": "Kanon kompakt", "desc": "Verdichteter Kanon-Auszug zum Nachschlagen"}
       ]
     },
     {
-      "id": "stil",
-      "name": "Stil & Stimme",
+      "id": "layer-2-stil",
+      "name": "Layer 2 — Stil & Stimme",
       "docs": [
         {"slug": "01-autorin-stimme", "title": "Autorin-Stimme", "desc": "Tonalität, Haltung, Erzählerstimme"},
         {"slug": "02-stilregeln-v2", "title": "Stilregeln v2", "desc": "Aktuelle, harte Stilregeln"},
@@ -20,30 +19,30 @@
       ]
     },
     {
-      "id": "magie-systeme",
-      "name": "Magie & Welt-Systeme",
+      "id": "layer-2-magie",
+      "name": "Layer 2 — Magie & Welt-Systeme",
       "docs": [
-        {"slug": "10-magie-system", "title": "Magie-System", "desc": "Kern-Magie: Thalassier-Resonanz, Welt-Physik, Quellen, Portale, Schemen"},
+        {"slug": "10-magie-system", "title": "Magie-System", "desc": "Kern-Magie: Thalassier-Resonanz, Welt-Physik, Quellen, Portale, Schemen, Bindungsmagie"},
         {"slug": "20-moragh-talente", "title": "Moragh-Talente", "desc": "20 Talent-Skalen 1–10, Alterskurve, Skillpunkte, Rituale"},
         {"slug": "18-thar-magitech", "title": "Thar-Magitech", "desc": "Industrie und Magitech-Bestien des Konglomerats"}
       ]
     },
     {
-      "id": "fraktionen",
-      "name": "Fraktionen",
+      "id": "layer-3-fraktionen",
+      "name": "Layer 3 — Fraktionen",
       "docs": [
         {"slug": "21-moragh-gesellschaft", "title": "Moragh-Gesellschaft — Übersicht", "desc": "Bund, Thar, Velmar — Strukturen, Wohlstand, Schemen-Doktrin, Alltag"},
         {"slug": "fraktionen/expedition", "title": "Die Expedition", "desc": "Thalassische Fraktion (B3+) — zwei Expeditionen durchs Portal, B4-Keimzelle"}
       ]
     },
     {
-      "id": "hauptfiguren",
-      "name": "Hauptfiguren",
+      "id": "layer-3-hauptfiguren",
+      "name": "Layer 3 — Hauptfiguren",
       "docs": [
         {"slug": "pov/alphina", "title": "Alphina", "desc": "POV-Dossier — Pflanzen/Heilung, Hauptfigur Buch 1–3"},
         {"slug": "pov/sorel", "title": "Sorel", "desc": "POV-Dossier — Licht, stirbt in Moragh"},
         {"slug": "pov/vesper", "title": "Vesper", "desc": "POV-Dossier — Zeit, Uhrmacher"},
-        {"slug": "pov/maren", "title": "Maren", "desc": "POV-Dossier — Wasser, kehrt nach Thalassien zurück, stirbt 2047 TZ"},
+        {"slug": "pov/maren", "title": "Maren", "desc": "POV-Dossier — Wasser, kehrt nach Thalassien zurück, stirbt 2037 TZ"},
         {"slug": "pov/runa", "title": "Runa Kvist", "desc": "POV-Dossier — Feuer, Druckerin, bleibt beim Bund"},
         {"slug": "pov/elke", "title": "Elke van der Holt", "desc": "POV-Dossier — Erde/Stein, TZ-154-Einwandererin, stirbt in B3 Akt II"},
         {"slug": "11-nyr", "title": "Nyr", "desc": "Thar-Reiterin, Paar-Ende mit Runa in Halvek-Mar"},
@@ -57,8 +56,8 @@
       ]
     },
     {
-      "id": "nebenfiguren-bund",
-      "name": "Nebenfiguren — Bund",
+      "id": "layer-3-nebenfiguren-bund",
+      "name": "Layer 3 — Nebenfiguren Bund",
       "docs": [
         {"slug": "nebenfiguren/mira", "title": "Mira", "desc": "Mutter, Kethmar, Dualistin (Holz/Heilung)"},
         {"slug": "nebenfiguren/miran", "title": "Miran", "desc": "Mirans Sohn, 17, Niedrig-Telekinet"},
@@ -69,8 +68,8 @@
       ]
     },
     {
-      "id": "nebenfiguren-thar",
-      "name": "Nebenfiguren — Thar",
+      "id": "layer-3-nebenfiguren-thar",
+      "name": "Layer 3 — Nebenfiguren Thar",
       "docs": [
         {"slug": "nebenfiguren/thassir-kol", "title": "Thassir Kol", "desc": "Syndikat-Boss Ember-Kontor"},
         {"slug": "nebenfiguren/brel", "title": "Brel", "desc": "Magitech-Ingenieurin"},
@@ -80,8 +79,8 @@
       ]
     },
     {
-      "id": "nebenfiguren-velmar",
-      "name": "Nebenfiguren — Velmar",
+      "id": "layer-3-nebenfiguren-velmar",
+      "name": "Layer 3 — Nebenfiguren Velmar",
       "docs": [
         {"slug": "nebenfiguren/irenna-torven", "title": "Irenna Torven", "desc": "Hochbinderin, Haus Torven"},
         {"slug": "nebenfiguren/kalm", "title": "Kalm ⚠", "desc": "Gebundener Schemen (23 Jahre), Licht-Element — Einbau nur in Rücksprache"},
@@ -91,8 +90,8 @@
       ]
     },
     {
-      "id": "nebenfiguren-vael",
-      "name": "Nebenfiguren — Vael (B1)",
+      "id": "layer-3-nebenfiguren-vael",
+      "name": "Layer 3 — Nebenfiguren Vael (B1)",
       "docs": [
         {"slug": "nebenfiguren/tohl", "title": "Tohl Daverin", "desc": "Alter Fischer, Hafen-Zeuge"},
         {"slug": "nebenfiguren/henrik", "title": "Henrik", "desc": "Gärtner des Botanischen Gartens"},
@@ -101,8 +100,8 @@
       ]
     },
     {
-      "id": "historisch-tz154",
-      "name": "Historisch — die Vier von TZ 154",
+      "id": "layer-3-historisch-tz154",
+      "name": "Layer 3 — Historisch (TZ 154)",
       "docs": [
         {"slug": "nebenfiguren/lene-dahl", "title": "Lene Dahl", "desc": "Schiffbauerin, einzige Überlebende, Schreiberin des Manuskripts"},
         {"slug": "nebenfiguren/keldan-rohn", "title": "Keldan Rohn", "desc": "Schmied, stirbt im großen Feuer"},
@@ -110,42 +109,51 @@
       ]
     },
     {
-      "id": "nebenfiguren-uebersicht",
-      "name": "Nebenfiguren — Übersicht",
+      "id": "layer-3-nebenfiguren-uebersicht",
+      "name": "Layer 3 — Nebenfiguren-Übersicht",
       "docs": [
         {"slug": "22-moragh-figuren", "title": "Moragh-Nebenfiguren Gesamt", "desc": "Liste aller Moragh-Nebenfiguren mit Links zu Einzel-Dossiers"}
       ]
     },
     {
-      "id": "akt-buch1",
-      "name": "Aktpläne Buch 1",
+      "id": "layer-4-storyline",
+      "name": "Layer 4 — Storyline",
       "docs": [
-        {"slug": "02-akt1", "title": "Akt I", "desc": "Ankunft, Welt aufbauen"},
-        {"slug": "03-akt2", "title": "Akt II", "desc": ""},
-        {"slug": "04-akt3", "title": "Akt III", "desc": ""},
-        {"slug": "05-akt4", "title": "Akt IV", "desc": "Durchgang zum Tor"}
+        {"slug": "00-storyline", "title": "Gesamt-Storyline", "desc": "Trilogie-Bogen, Haupthandlung, zentrale Wendungen — Layer-4-Master"},
+        {"slug": "synopse-b1", "title": "Synopse Buch 1", "desc": "Wikipedia-Stil-Synopse — Akt-Bögen B1"},
+        {"slug": "synopse-b2", "title": "Synopse Buch 2", "desc": "Wikipedia-Stil-Synopse — Akt-Bögen B2 (K01-K46)"},
+        {"slug": "synopse-b3", "title": "Synopse Buch 3", "desc": "Wikipedia-Stil-Synopse — Akt-Bögen B3"},
+        {"slug": "12-buch3-konzept", "title": "Buch 3 — Konzept", "desc": "Dramaturgischer Bogen Buch 3, offene Fragen"}
       ]
     },
     {
-      "id": "akt-buch2",
-      "name": "Aktpläne Buch 2",
+      "id": "layer-6-akt-buch1",
+      "name": "Layer 6 — Aktpläne Buch 1",
       "docs": [
-        {"slug": "06-buch2-akt1", "title": "Akt I", "desc": ""},
-        {"slug": "07-buch2-akt2", "title": "Akt II", "desc": ""},
-        {"slug": "08-buch2-akt3", "title": "Akt III", "desc": ""},
-        {"slug": "09-buch2-akt4", "title": "Akt IV", "desc": ""}
+        {"slug": "02-akt1", "title": "B1 Akt I", "desc": "Ankunft, Welt aufbauen"},
+        {"slug": "03-akt2", "title": "B1 Akt II", "desc": "Zusammenfinden"},
+        {"slug": "04-akt3", "title": "B1 Akt III", "desc": "Eskalation"},
+        {"slug": "05-akt4", "title": "B1 Akt IV", "desc": "Durchgang zum Tor"}
       ]
     },
     {
-      "id": "buch3",
-      "name": "Buch 3",
+      "id": "layer-6-akt-buch2",
+      "name": "Layer 6 — Aktpläne Buch 2",
       "docs": [
-        {"slug": "12-buch3-konzept", "title": "Buch 3 — Konzept", "desc": "Dramaturgischer Bogen, offene Fragen"},
-        {"slug": "14-buch3-akt1", "title": "Akt I", "desc": ""},
-        {"slug": "15-buch3-akt2", "title": "Akt II", "desc": ""},
-        {"slug": "16-buch3-akt3", "title": "Akt III", "desc": ""},
-        {"slug": "17-buch3-akt4", "title": "Akt IV", "desc": ""},
-        {"slug": "B3-BRIEFING", "title": "Buch-3 Briefing", "desc": "Arbeitsbriefing"}
+        {"slug": "06-buch2-akt1", "title": "B2 Akt I — Dravek", "desc": "K01-K06 Ankunft, Marsch, Elke"},
+        {"slug": "07-buch2-akt2", "title": "B2 Akt II — Halvaren", "desc": "K07-K17 Thar-Angriff, Flucht, Recherche, Varen-Auftritt, Sex Alphina+Runa"},
+        {"slug": "08-buch2-akt3", "title": "B2 Akt III — Bruch + Halvara-Kel", "desc": "K18-K27 Nyr-Ankunft, Velmar-Lehre, Halvara-Kel-Captivity"},
+        {"slug": "09-buch2-akt4", "title": "B2 Akt IV — Festung + Cliffhanger", "desc": "K28-K46 Captivity, Bekehrung, Annäherung, Sulkara, Tyra-Cliffhanger"}
+      ]
+    },
+    {
+      "id": "layer-6-akt-buch3",
+      "name": "Layer 6 — Aktpläne Buch 3",
+      "docs": [
+        {"slug": "14-buch3-akt1", "title": "B3 Akt I", "desc": "Quellen-Reparatur-Reise, Erste Expedition kommt durch"},
+        {"slug": "15-buch3-akt2", "title": "B3 Akt II", "desc": "Elkes Mord, Verwüster-Reaktion, Nyr verlässt Thar"},
+        {"slug": "16-buch3-akt3", "title": "B3 Akt III", "desc": "Alphina tötet Talven (Fehlurteil), Ritual-Kalkül-Fund, Verlassen Varens"},
+        {"slug": "17-buch3-akt4", "title": "B3 Akt IV", "desc": "Duell, Zweite Expedition, Portal-Quelle-Zerstörung, Finale"}
       ]
     }
   ]

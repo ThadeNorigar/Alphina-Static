@@ -26,7 +26,7 @@ Varen schläft nicht. Er arbeitet am Tisch seit vor Sonnenaufgang. Als sie eintr
 
 Sie trinkt, sieht über seine Schulter auf das Papier. Die Route: Torkal nach Süden, dann Ostschwenk in das Bund-Grenzland. Halvara-Kel ist die Quelle, die sie in B2-K26 zerstört hat — Alphinas erste. Sie soll ihre eigene Spur umkehren.
 
-**Tschechow-Schatten:** Varens Hand an ihrer Wirbelsäule, als er ihr die Route zeigt. Keine besitzergreifende Geste. Leicht, zwischen den Schulterblättern, dort wo in B2-K39 der Anker sitzt. Alphina spürt die Wärme, ordnet sie falsch zu (Nähe, Vertrauen). Der Leser sieht mit.
+**Tschechow-Schatten:** Varens Hand an ihrer Wirbelsäule, als er ihr die Route zeigt. Keine besitzergreifende Geste. Leicht, zwischen den Schulterblättern. Eine wiederkehrende Berührungs-Markierung — Varen sucht diese Stelle, weil sein Halsband-Sigil im Reparatur-Modus dort am stärksten nachklingt. Alphina spürt die Wärme, ordnet sie falsch zu (Nähe, Vertrauen). Der Leser sieht mit.
 
 Sie gehen am Nachmittag los. Drei Tage Marsch. Schemen tragen die Ausrüstung — dieselbe Varen-Schemen-Eskorte wie in B2. Keiner spricht. Einmal, auf einem Pass, lacht Varen über etwas, das sie sagt. Alphina merkt: sein Lachen ist ungeübt. Er lacht nicht oft. Das macht sie weich.
 
@@ -49,7 +49,7 @@ Varen lehnt den Kopf zurück, schließt die Augen. *„Du hast sie angefacht. Sc
 
 Alphina lacht das erste Mal seit Sorels Tod ohne Schmerz.
 
-**Was sie nicht sieht:** Der Puls, den Alphina gibt, ist tausendmal größer als die Reparatur braucht. Varens Anker zieht den Überschuss ab in seinen Speicher. Er spürt die Wärme zwischen ihren Schulterblättern nachklingen. Er notiert nichts — er weiß schon, was der Wert ist.
+**Was sie nicht sieht:** Der Puls, den Alphina gibt, ist tausendmal größer als die Reparatur braucht. Das Velmar-Halsband-Sigil aktiviert sich im Reparatur-Modus (Variante C — Drainage nur in Sitzungen) und drainiert den Überschuss in Varens Speicher. Er spürt die Wärme zwischen ihren Schulterblättern nachklingen, wo das Sigil ausstrahlt. Er notiert nichts — er weiß schon, was der Wert ist.
 
 **Tschechow:** Der erste Puls. — Feuert: Akt III, wenn Alphina nach ihrer Abkehr von Varen zu den ersten „reparierten" Quellen zurückreist und keine einzige mehr pulsieren findet. Der Puls hält nicht. Er hat nie gehalten.
 
@@ -81,16 +81,16 @@ Nyr sieht ihn an. *„Und wir?"* Er legt die Hand auf ihren Nacken. *„Wir bere
 
 Varen allein, Alphina schläft nebenan. Er sitzt an seinem Arbeitstisch, vor ihm: sein Kalkulationsbuch. Der Speicher aus Alphinas Puls ist registriert. Zwölf Prozent ihrer Gesamt-Resonanz an einem einzigen Tag. Drei weitere solche Sitzungen, und sie wird leer sein. Nein — fünf, sechs. Sie regeneriert in Moragh schneller als er erwartet hatte. Das ist gut.
 
-Er öffnet einen zweiten Ordner. Darin: eine Karte von Moragh mit fünf kleineren Kreisen. Jeder ein Bund-Magier, Velmar-Abtrünniger oder freie-Städte-Magier, den Varen über die Jahre an sich gebunden hat. Kleine Anker, nicht die Tiefe von Alphinas — aber zusammengenommen ein Reservoir, das wächst.
+Er öffnet einen zweiten Ordner. Darin: eine Karte von Moragh mit fünf kleineren Kreisen. Jeder ein Bund-Magier, Velmar-Abtrünniger oder freie-Städte-Magier, dem Varen über die Jahre ein präpariertes Velmar-Trägerstück gegeben hat (Halsband, Armreif, Sigil-Anhänger — als Schutz oder Status-Symbol getarnt). Kleine Bindungen, nicht die Tiefe von Alphinas Halsband-Sigil — aber zusammengenommen ein Reservoir, das wächst.
 
-Er notiert: *„Neue Kandidatin gefunden. Tormen, Bund-Stadt, Schall-Rufer, Stufe 5. Zugang über den Bund-Älteren-Rat. Werde sie zu ernten versuchen."*
+Er notiert: *„Neue Kandidatin gefunden. Tormen, Bund-Stadt, Schall-Rufer, Stufe 5. Zugang über den Bund-Älteren-Rat. Werde ihr ein Sigil-Trägerstück anbieten."*
 
-**Das alte Thalassisch-Buch.** Er holt es aus einem Regal. Das Moragh-Sprachbuch, das er als junger Velmar-Forscher aus einem Haus Keth-Archiv geborgen hat. Auf Seite 247 — das Ritual. **Vier Thalassier-Resonanzen gleichzeitig, absorbiert durch den Binder-Anwender.** Voraussetzung: vollständige Bindung der vier an den Anwender, vorbereitet durch Resonanz-Anker-Transfers.
+**Das alte Thalassisch-Buch.** Er holt es aus einem Regal. Das Moragh-Sprachbuch, das er als junger Velmar-Forscher aus einem Haus Keth-Archiv geborgen hat. Auf Seite 247 — das Ritual. **Vier Thalassier-Resonanzen gleichzeitig, absorbiert durch den Binder-Anwender.** Voraussetzung: vollständige Velmar-Bindung der vier an den Anwender, vorbereitet durch Drainage-Sitzungen über mehrere Moragh-Wochen.
 
 Er hat eine Liste. Vier Namen.
-- **Alphina** (Anker gesetzt, Transfers laufen)
-- **Vesper** (noch kein Anker, Zugang schwierig — er ist bei Thar)
-- **Runa** (noch kein Anker, sie hasst ihn)
+- **Alphina** (Halsband-Bindung aktiv, Drainage läuft)
+- **Vesper** (noch keine Bindung, Zugang schwierig — er ist bei Thar)
+- **Runa** (noch keine Bindung, sie hasst ihn)
 - **Maren** (weg, durchs Portal — Ersatz nötig)
 
 Der Ersatz ist noch unklar. Varen notiert fünf mögliche Namen von Thalassier-Resonanz-Begabten, die er aus alten Velmar-Aufzeichnungen kennt. Theorie, kein Plan.
@@ -189,7 +189,7 @@ Diesmal dauert es länger. Die Quelle ist älter tot, tiefer ausgebrannt. Nach e
 
 Varen registriert: die Reparatur kostet Alphina mehr. Sie schwitzt, zittert am Ende. Er legt die Hand auf ihren Rücken, zieht sie hoch, umarmt sie. Seine Wärme. Sie lehnt sich hinein.
 
-**Der Anker-Transfer ist massiv.** Vierzehn Prozent in dieser einen Sitzung. Varen spürt es als Fülle in der Brust. Er drückt sie nicht weg, sondern länger an sich. Seine Taktik ist perfekt.
+**Die Drainage ist massiv.** Vierzehn Prozent ihres Resonanz-Speichers in dieser einen Sitzung — das Halsband-Sigil hat länger als üblich aktiviert. Varen spürt es als Fülle in der Brust. Er drückt sie nicht weg, sondern länger an sich. Seine Taktik ist perfekt.
 
 **In der Nacht.** Sie schlafen in Varens altem Elternhaus. Alphina wacht einmal auf, sieht Varen am Fenster stehen. Er dreht sich nicht um. Sie denkt, er trauert. Schläft wieder ein.
 
@@ -260,7 +260,7 @@ Varen: *„Weil du hier schläfst. Dein Hain ist dein Abdruck. Er nimmt es auf."
 
 Sie glaubt ihm. Es ist eine plausible Erklärung. Sie ist zu müde nach den Reparaturen, um sie zu hinterfragen.
 
-**Was wirklich passiert:** Varen zieht über seinen Anker Resonanz aus Alphina ab. Die Entnahme zeigt sich in ihrem Hain — dort, wo ihre Spur am dichtesten ist, wird sie am deutlichsten leer. Er weiß es. Er lügt glatt.
+**Was wirklich passiert:** Varen drainiert über das Halsband-Sigil Resonanz aus Alphina. Die Entnahme zeigt sich in ihrem Hain — dort, wo ihre Spur am dichtesten ist, wird sie am deutlichsten leer. Er weiß es. Er lügt glatt.
 
 **Letztes Bild.** Alphina nachts im Hain. Sie legt sich in das Moos, am Rand der Welke. Sieht den doppelten Mond. Fühlt: ein schwaches Zittern in der Wirbelsäule zwischen den Schulterblättern. Sie hält es für Erschöpfung, bevor sie einschläft.
 
@@ -272,7 +272,7 @@ Sie glaubt ihm. Es ist eine plausible Erklärung. Sie ist zu müde nach den Repa
 
 | Detail | Kap | Feuert in |
 |--------|-----|-----------|
-| Varens Hand auf Alphinas Wirbelsäule (B2-Anker-Punkt) | 41 | Akt III, wenn sie die Anker-Technik erkennt |
+| Varens Hand auf Alphinas Wirbelsäule (Berührungs-Markierung über dem Sigil-Nachklang) | 41 | Akt III, wenn sie die Halsband-Drainage-Logik erkennt |
 | Varens Tränen am Lagerfeuer | 41 | Akt IV, Reveal — die Tränen sind geübt |
 | Der erste Quellen-Puls (Halvara-Kel) | 42 | Akt III, wenn die Quelle wieder tot ist |
 | Vespers ignorierter Bericht an die Thar-Kommandantin | 43 | Akt III, wenn sie ihn als Stratege holen muss |
@@ -283,7 +283,7 @@ Sie glaubt ihm. Es ist eine plausible Erklärung. Sie ist zu müde nach den Repa
 | Kel mit den blauen Flecken (Varens erfundener Name) | 47 | Akt IV, wenn Alphina erkennt, dass Varens Trauer erfunden war |
 | Drael, der Runa beobachtet | 49 | Akt III, wenn er sie eliminieren lassen will |
 | Runas zerrissener Brief mit dem Farn | 49 | Akt IV/Epilog, wenn sie Alphina wiedertrifft |
-| Der welkende Schlaf-Hain (Anker-Leck sichtbar) | 50 | Akt II, wenn Alphina die verblassenden Quellen entdeckt |
+| Der welkende Schlaf-Hain (Drainage-Spur sichtbar) | 50 | Akt II, wenn Alphina die verblassenden Quellen entdeckt |
 
 ---
 

@@ -2,112 +2,144 @@
 buch: 2
 titel: "Das Auge"
 untertitel: "Was gesehen wird, verändert alles"
-zeitraum_mz: "Mitte einer Moragh-Jahreszeit, ca. 4–5 MZ-Monate"
+zeitraum_mz: "MZ 1.0 – MZ 4.5 (≈ 4 MZ-Monate, ≈ 130 TZ-Jahre)"
 pov: [Alphina, Vesper, Maren, Runa, Varen]
-pov_verteilung: "Alphina ~30%, Runa ~20%, Vesper ~15%, Maren ~15%, Varen ~20%"
-status: "Akt-Plan vollständig (06–09-buch2-akt*.md), noch nicht geschrieben"
+pov_verteilung: "Alphina ~40%, Vesper ~25%, Runa ~15%, Maren ~13%, Varen ~5% (Interludien)"
+status: "Aktplan vollständig (06–09-buch2-akt*.md), Stand 2026-05-02 — noch nicht geschrieben"
 wortumfang_ziel: 250000
-last_update: 2026-04-19
+last_update: 2026-05-02
 ---
 
 ## Leitmotiv
 
-Moragh ist nicht das, was sie gehofft haben. Der Bund von Orath trägt ein freundliches Gesicht, bis die Risse zeigen: genau wie Varen, nur organisierter. Alphina lernt ihre Magie zu beherrschen — und wird dabei zur Waffe, die Quellen tötet. Am Ende erkennen die Thalassier, dass alle Seiten lügen.
+Moragh ist nicht das, was sie gehofft haben. Bund von Orath, Konglomerat der Thar und Velmar tragen je ein freundliches oder strenges Gesicht — bis die Risse zeigen, dass alle Seiten lügen. Alphina schult ihre Resonanz bei Velmar zur präzisen Waffe. Auf einem Schlachtfeld bricht sie eine Quelle und wird in derselben Bewegung von Varen mit einem präparierten Velmar-Halsband gefangen. Maren findet den Wasserweg zurück nach Thalassien und geht solo durch. Am Ende sieht Vesper am Steinplatz Dravek einen Lichtblitz, eine Frau mit Schwellenforschungsgesellschaft-Heft tritt durch — Marens Vermächtnis, eine Generation früher als die Vier ahnen.
 
-## Akt I — Ankunft + Elke
+## Akt I — Dravek (K01–K06)
 
 **Kapitel 1–6**
 
-Drei Tage nach Sorels Tod marschieren Alphina, Vesper, Maren und Runa vom Steinplatz Richtung Dravek — der nächsten Stadt im Portalgebiet. Moragh zeigt sich sofort: schwarze warme Bäume, dichte Luft, satte Farben, zwei Monde — und eine seltsame Stille, weil hier keine Tiere, keine Insekten, keine Vögel leben. Alphinas Trauer um Sorel und ihr Hass auf Varen sitzen im Schweigen zwischen den Vier. Maren spürt etwa zwei Kilometer vom Steinplatz einen unregelmäßigen Riss im Untergrund — Wasser sickert aus der Quelle, ein zweiter dünner Punkt. Sie merkt es sich, sagt nichts.
+Drei Tage nach Sorels Tod marschieren Alphina, Vesper, Maren und Runa vom Steinplatz Richtung Dravek — nächste Stadt im Portalgebiet. Moragh zeigt sich sofort: schwarze warme Bäume, dichte Luft, satte Farben, zwei Monde — und eine seltsame Stille, weil hier keine Tiere, keine Insekten, keine Vögel leben. Maren spürt etwa zwei Kilometer vom Steinplatz einen unregelmäßigen Riss im Untergrund — Wasser sickert aus der Quelle, ein zweiter dünner Punkt. Sie merkt es sich, sagt nichts. Vesper sieht zweimal Schatten am Rand (Stadtrand Dravek, Lagerfeuer bei Dulkara) — verschiebt es als Erschöpfung, beginnt im Stillen zu zählen.
 
-In Dravek (kleine Orath-Stadt, gewachsene Türme, Bewohner mit Purpur-Augen) erleben sie zum ersten Mal Magie als Alltag: Bauern formen Stein mit der Hand, Kinder lassen Wasser tanzen, Schmiede schmelzen Eisen ohne Ofen. Schemen verrichten physische Arbeit für Menschen — heben Lasten, ziehen Karren — niemand ist beunruhigt. Sie spüren, dass ihre eigenen Resonanzen nahe der Quelle stärker werden, mit Distanz schwächer. Wochen vergehen: sie lernen die Sprache (Harons Wörterbuch ist 400 TZ-Jahre alt, lückenhaft), verstehen die Schemen-Lore (ohne Auftrag friedlich, nur mit Auftrag aggressiv), begreifen die Welt-Mechanik.
+In Dravek (kleine Orath-Stadt, gewachsene Türme, Bewohner mit Purpur-Augen) erleben sie zum ersten Mal Magie als Alltag: Bauern formen Stein, Kinder tanzen mit Wasser, Schmiede schmelzen Eisen ohne Ofen. Schemen verrichten physische Arbeit für Menschen — niemand ist beunruhigt. Sie spüren, dass ihre eigenen Resonanzen nahe der Quelle stärker werden. Wochen vergehen: Sprache lernen (Harons Wörterbuch ist 400 TZ-Jahre alt, lückenhaft), Schemen-Lore verstehen (ohne Auftrag friedlich, mit Auftrag aggressiv), Welt-Mechanik begreifen.
 
-Ein älterer Bewohner Draveks erwähnt eine Frau in Narthek, die noch das alte Thalassisch spricht. Aufbruch über Dulkara. Dort helfen sie einem Rufer, der ihnen im Gegenzug zwei Reitschemen ruft (zwei Tage haltbar). Sie reiten weiter, kommen schneller voran. **Begegnung mit Elke van der Holt** in ihrem Steingarten am Stadtrand von Narthek: vierhundert Thalassien-Jahre seit ihrem Durchgang TZ 154, knapp ein Moragh-Jahr in Moragh, Basalt gehorcht ihren Händen. *„Das kostet euch nichts, oder?"*
-
-Elkes Erzählung als Akt-Schluss: Welt-Mechanik (Quellen, Fraktionen, Krieg), Runas Feuer-Resonanz benannt, **Schock-Beat:** zwei Moragh-Monate hier = sechsundsechzig Thalassien-Jahre zuhause vergangen. Und dann beginnt sie zu erzählen, wer Varen ist — Velmar-Forscher, Mar-Keth, ein Experiment, das Quellen tötete. Bevor sie zu Ende erklären kann, beginnen draußen vor dem Garten die Hörner.
+Aufbruch über Dulkara nach Narthek auf den Hinweis einer Frau, die noch das alte Thalassisch spricht. **Begegnung mit Elke van der Holt** in ihrem Steingarten am Stadtrand: in Moragh-Zeit jung, Anfang 30er, vor 400 TZ-Jahren durchgekommen, knapp ein Moragh-Jahr hier, Basalt gehorcht ihr. Sie erklärt die Welt — Fraktionen (Bund/Orath, Konglomerat/Thar, Velmar), den Krieg. **Schock-Beat:** zwei Moragh-Monate hier = sechsundsechzig Thalassien-Jahre zuhause vergangen. Beginnt zu erzählen, wer Varen ist — Velmar-Forscher, Mar-Keth, ein Experiment, das Quellen tötete. Bevor sie zu Ende erklären kann, beginnen draußen die Hörner.
 
 ### Zentrale Beats
 - Drei-Tage-Marsch zum Lichtschein, fremde Physik, keine Fauna
-- Maren spürt Wasserweg-Riss bei Dravek (Tschechow für Akt II)
-- Wochen in Dravek: Sprache, Schemen-Lore (Arbeits-Schemen, ohne-Auftrag-friedlich), Magie als Alltag
-- Aufbruch nach Narthek; Reitschemen-Beat in Dulkara
-- Begegnung Elke van der Holt in Narthek
-- Elkes Erzählung: 400 TZ-Jahre seit ihrem Durchgang, Zeit-Schock (66 Jahre für die Vier), erste Hinweise auf Varen — und Cliffhanger Richtung Akt II
+- Maren spürt Wasserweg-Riss bei Dravek (Tschechow für K39 Solo-Durchgang)
+- Vesper sieht zweimal Schatten (Tschechow für K27 Logik-Kette)
+- Wochen in Dravek: Sprache, Schemen-Lore, Magie als Alltag
+- Begegnung Elke van der Holt in Narthek (TZ-154-Vorgängerin)
+- Elkes Erzählung: Zeit-Schock + erste Hinweise auf Varen
+- Cliffhanger: Hörner — Akt-II-Auftakt
 
+## Akt II — Halvaren (K07–K17)
 
+**Kapitel 7–17**
 
-## Akt II — Krieg & Halvaren
+**Thar-Angriff auf Narthek (K07).** Magitech als überlegene Tech sichtbar — vierzig-Tonnen-Bestien gegen Bund-Rufer, Druck-Wellen brechen Türme. Vesper sieht Nyr auf dem Schlachtfeld zum ersten Mal. Im Chaos werden die Vier von Elke getrennt. Flucht-Marsch nach **Halvaren** (große Bund-Stadt, kann Flüchtlinge tragen, hat eine Bibliothek). Ankunft (K08–K09), Brachland-Quartier, Hütte aus Magie gewachsen. **Talven** taucht auf: Bund-Lehrling, charming, hilfsbereit, *„Lachen zu groß für sein Gesicht"*.
 
-**Kapitel 7–~22** *(festgeklopft K7-K13, K14-K22 Diskussionsstand — siehe `buch/_diskussion_b2_k14-k22.md`)*
+Vesper und Maren BDSM-Nacht (K10) — erste Nacht für sich seit Vael, Wasser-Dildo + Zeit-Modulation, Réage-Register, Care-Beats. Wochen vergehen. Sie integrieren sich: Runa in der Druckerei, Alphina in der Heilstätte, Maren am Aquädukt, Vesper in der Bibliothek. **Erste soziale Ungerechtigkeiten** sichtbar (K11): Bund-Magier essen, Diener nicht, Hierarchie über Reservoir-Größe. Maren erinnert an den Wasserweg-Riss — Jahrzehnte zuhause schon verloren. Alphina: *„Nicht ohne Varen."*
 
-Akt-II-Auftakt: **Thar-Angriff auf Narthek.** Magitech als überlegene Tech sichtbar — vierzig-Tonnen-Bestien gegen Bund-Rufer, Druck-Wellen brechen Türme. Vesper sieht Nyr auf dem Schlachtfeld zum ersten Mal. Brutal, blutig, dystopisch. Im Chaos werden die Vier von Elke getrennt. Flucht-Marsch über Dulkara, Halvek nach **Halvaren** (große Orath-Stadt, kann Flüchtlinge tragen, hat eine Bibliothek — sie wollen über Varen nachforschen). Alphina heilt Flüchtlinge unterwegs, Runa kocht Essen mit ihrer Hitze, Maren formt Brunnen-Wasser — sie tauschen Hilfe gegen Reitschemen und fremde Früchte mit anderen Rufern.
+Elke wiedergetroffen in Halvaren (K13). Sie erzählt zu Ende: Varens Mar-Keth-Geschichte (öffentliche Version) — Velmar-Forscher, Leylinien-Experiment, drei Quellen tot, ~200.000 Heimatlose, Velmar verdeckter Auswurf. **Was sie verschweigt:** ihre Mitschuld kommt erst in K16 raus.
 
-Ankunft Halvaren — erste ruhige Nacht seit zwei Moragh-Monaten. Auf einem Brachland am Stadtrand wachsen sie sich in Stunden eine Hütte: Alphina lässt Holzpflanzen und essbare Früchte wachsen, Maren formt einen Brunnen, Vesper beschleunigt das Wachstum mit Zeit-Resonanz, Runa entzündet Feuer zum Kochen. Die Bund-Älteste empfängt sie. **Talven** taucht auf: Bund-Lehrling, charming, hilfsbereit, Lachen zu groß für sein Gesicht. Nachts: Vesper und Maren haben endlich wieder Zeit für sich — eine BDSM-Szene mit Wasser-Dildo und Zeit-Modulation, Réage-Register, Care-Beats; ihre Verbindung als einzige Konstante in der fremden Welt.
+**K14 Bund-Archiv-Recherche** (Vesper). Drei Schichten Akten: Mar-Keth-Hintergrund (redigiert), Velmar-Verstoßener-Notiz in fremder Hand (*„Haus Keth bedauert"*), TZ-154-Spuren mit Verweis Elke → Haus Keth. Vesper notiert, sagt Alphina noch nichts.
 
-Wochen vergehen in Halvaren. Sie integrieren sich in Magie-Arbeit: Runa in der Schmiede (formt Metall ohne Ofen), Alphina in der Heilstätte (Wundheilung über Pflanzen-Substrate, lässt fremde essbare Früchte wachsen), Maren am Aquädukt, Vesper in der Bibliothek (sucht Spuren von Varen). Sprache vertieft. **Erste soziale Ungerechtigkeiten werden sichtbar:** Bund-Magier essen, Bund-Diener nicht, Hierarchie über Reservoir-Größe. Nach Monaten Magie-Überraschung kommen Zweifel. Maren erinnert die anderen an den Wasserweg-Riss bei Dravek — sie haben jetzt schon Jahrzehnte zuhause verloren. Alphina: *„Nicht ohne Varen."*
+**K15 Runas Druckerei.** Zweisprachige Bund-Bulletins. **Erste Resonanz-Manifestation am Druckereifeuer** — Funken-Bogen über die Druckerei, Sekunde lang zu hell. Talvens Hunger-Blick beim Verlassen.
 
-Elke wiedergetroffen in Halvaren — sie hat sich auch hierher gerettet. Sie erzählt zu Ende, was in Narthek unterbrochen war: Varens Geschichte. Velmar-Forscher Mar-Keth, vor Jahren das Leylinien-Experiment, drei Quellen tot, ~200.000 Heimatlose. Velmar hat ihn verdeckt ausgestoßen. Elke kennt ihn persönlich (sie hat ihm das alte Thalassisch beigebracht). Alphinas Hass formt sich neu — Name, Geschichte, Ziel.
+**K16 Varen-Direkt-Auftritt im Archiv.** Alphina allein, Schritte hinter ihr — Mann mit grauen Schläfen und purpurnen Augen, Velmar-Schnitt. Drei Sätze:
+1. *„Ich war es. Mar-Keth, Dulrath-Ost, Reshkol — ein Forschungsfehler."* (Mar-Keth-Geständnis als Fassade.)
+2. *„Wenn du mich finden willst, suche in Velmar."*
+3. *„Komm. Aber komm nicht."*
 
-*Die folgenden Akt-II-Beats (K14–K22) sind Diskussionsstand: Maren-Wasserweg-Bestätigung, Bund-Älteste-Angebot, Alphina+Runa-Schwur, Bund-Heuchelei, Nyr-Wiederbegegnung in Halvaren, Wut-Hain wach, Marens Abschied über den Wasserweg, Vesper-Übertritt zur Thar (Akt-II-Schluss).*
+Er löst die Druck-Fixierung, geht. Sie sagt es niemandem. Geht zu Elke. **Elke-Konfrontation:** Mitschuld-Geständnis, sie hat Varen jung in Velmar das alte Thalassisch beigebracht. Schreibt Vermittlungsbrief Haus Torven (Hochbinderin Irenna). Übergibt Maren später ein versiegeltes Bündel mit Anweisung *„Unter den Stein, wo nichts wächst"* (Tschechow B3).
 
-### Zentrale Beats (festgeklopft)
+**K17 Sex Alphina+Runa** aus Runas POV. *„Bei Sorel hat die Welt geblüht. Bei Runa ist sie still."* Plus Runas Schwur: *„Ich folge dir, wo immer du gehst. Auch wenn ich dabei sterbe."* **Akt-II-Schluss.**
+
+### Zentrale Beats
 - Thar-Angriff Narthek — Magitech-Sichtung, Elke getrennt
 - Flucht-Marsch nach Halvaren wegen Bibliothek + Quellen-Größe
 - Hütte aus Magie gewachsen — Symbol für Resonanz-Disproportion
 - Talven taucht auf, beobachtet hilfsbereit
 - Vesper+Maren BDSM-Nacht (Verankerung der Beziehung)
 - Magie-Arbeit etabliert die Vier als Disproportion
-- Soziale Ungerechtigkeiten + Zeit-Schock = erste Zweifel
-- Elke erzählt Varen-Geschichte zu Ende
+- Bund-Archiv K14: drei Schichten Akten, Velmar-Verstoßener-Andeutung, TZ-154-Spuren
+- Runas Druckereifeuer K15 (öffentliche Resonanz-Manifestation)
+- Varen-Direkt-Auftritt K16 + Elke-Mitschuld-Geständnis + Vermittlungsbrief Haus Torven
+- Sex Alphina+Runa K17 mit Runas Schwur
 
+## Akt III — Bruch und Halvara-Kel (K18–K27)
 
+**Kapitel 18–27**
 
-## Akt III — Schlachtfeld & Quellen
+**K18 Nyr-Ankunft Halvaren** als Thar-Emissärin. Vesper trifft sie persönlich, sieht ihre Konstruktionspläne (Halvek-Mar). Erste strukturelle Bund-Skepsis. **K19 Marens Identitäts-Bruch** — kein Boot-Wasser auf Moragh (Tide 20–100 m, kein Schiffbau möglich). Sie hat keinen Beruf hier, repariert anderer Leute Welt. Vesper-Drift sichtbar.
 
-**Kapitel 21–28**
+**K20 Drael-Pakt.** Drael bietet Schutz und Wissen über Varen für Front-Einsätze. Alphina lehnt ab — Varens Velmar-Tipp aus K16 plus Bund-Werkzeug-Logik. Aufbruch nach Velmar. **K21 Marens Drei-Ablehnungs-Szene:** Vesper aus Neugier, Alphina aus Rache, Runa aus Loyalität (Schwur K17 zündet). Maren geht solo über Land Richtung Dravek. Übergibt Elke versiegeltes Bündel.
 
-Wochen an der Front. Alphina ist jetzt eine Waffe des Bundes — Wurzeln, die durch Stellungen brechen, Dornenhecken als Verteidigung. Tagsüber volle bewusste Kontrolle. Ihre Resonanz färbt sich bei jedem Einsatz dunkler: schwarz mit rotem Saum, dornige Ranken statt Farne. Drael behandelt sie wie eine Kanone. Jede feindliche Stellung trägt Varens Gesicht, der Hass ist produktiv, der Hass hat Struktur. Runa neben ihr, Hände glühend, stellt die Fragen die Alphina nicht mehr stellt: *Seit wann nimmst du Befehle?* Runa druckt, dokumentiert, sieht geräumte Dörfer und „gesicherte" Quellen, sammelt für sich. Sie hat noch nicht entschieden, wem sie das zeigt.
+**K22 Vesper folgt Nyr** zur Thar. **K23 Vesper bei Thar-Kem als Stratege.** Bund-Gegenoffensive im Hintergrund: Narthek zurückerobert, Halvara-Kel als neue Thar-Frontstadt. Vesper notiert, dass Velmar-Akten in der Thar-Bibliothek fehlen.
 
-Der Bund greift eine Thar-Siedlung vor Sulkara an. Drael zeigt Alphina eine kleinere Nebenquelle unter dem Boden. *Sparen hundert Leben.* Alphina drückt Wurzeln tiefer als je zuvor, spürt das pulsierende Herz der Quelle, überlädt sie. Die Quelle stirbt. In einem Radius von zweihundert Metern verdorrt alles in Sekunden — Bäume, Magie, Menschen. Ein Schmied bricht zusammen, Kinder schreien, Thar-Bindungen reissen. Sie hat es gewollt. Parallel Talven in Halvaren: nachts allein in der hinteren Kammer schneidet er sich zum ersten Mal den Unterarm auf, lässt Blut auf einen Bindungs-Kristall tropfen — die Methode hat er sich selbst beigebracht, niemand hat sie ihm gezeigt. Erste Bindung hält einen Atemzug, der Schemen in der Ecke wird ruhig. Seine Hände bleiben danach kalt. Die Horror-Disproportion: Alphina tötet im Nebenbei, was Talven Blut, Wärme und Schlaf kostet.
+**K24 Velmar-Lehre** (Alphina+Runa) bei Irenna Torven, Haus Torven. Sechs Moragh-Wochen: Kontrolle → Lenkung → Quellen-Kopplung. Alphina spürt, dass sie Quellen anziehen kann, sagt nichts. Talven-Schatten am Rand der Velmar-Stadt (Selbstlehre Blutmagie hat begonnen, sichtbar erst B3). **Varen-Auftritt 2** im Hof: drei Sätze, doppeldeutig — *„Halvara-Kel. Dort, wo dein Hass auf Antwort trifft."*
 
-Varen greift ein, als Alphina zur großen Quelle zielt. Schemen schneiden sie ab, Bindungsketten halten, Runa sieht es aus hundert Metern und kämpft sich durch rauchende Schemen, wird zurückgeschlagen. Varen trägt Alphina in sein Quartier — kein Gefängnis, ein Labor. An der Wand: vier rote Markierungen. Drei alt, verblasst, seine. Eine frisch. Ihre. Er spricht altes Thalassisch, eloquent, wissbegierig, müde. Gesprächsfetzen, keine Monologe. Vierhundert Menschen. Die Bäcker. Die Heiler. Die Kinder. *Der Kommandant wusste es. Deshalb hat er dich geschickt.* Varen zeigt ihr abgefangene Bund-Chiffre: Quellen-Zerstörung als koordinierte Kriegsstrategie, Dutzende tote Zonen, Alphina war nur die Stärkste. Runa plant beim Bund die Befreiung mit Deserteur-Kontakten. Vesper bei den Thar in Kessler spürt die Vibration der toten Quelle durch ganz Moragh. Er weiß, wer es war, und sagt nichts.
+**K25 Drael-Bote** mit versiegeltem Brief: einmalig Halvara-Kel-Vorstoß, dann frei. Alphina liest Varens Andeutung in den Auftrag hinein, glaubt Varen wird dort sein. Nimmt an. Irenna entlässt sie ohne Abschluss. **K26 Wegquelle** als Probelauf — Alphina bricht eine kleine unbenannte Naturquelle, Magier-Vorhut beidseits Speicher leer instant, Alphina geht in die Knie (Resonanz-Träger spürt Quellen-Tod körperlich).
 
-### Zentrale Beats
-- Alphinas Farbe kippt zu schwarz/rot, blühende Dornen im Kampf
-- Halvara-Kel: sie überlädt absichtlich eine Quelle, 200m Todeszone
-- Talven entwickelt nachts allein Blutmagie — erste Schemen-Bindung mit eigenem Blut, Hände werden kalt
-- Varen fängt sie mit Schemen ab, bringt sie in sein Quartier
-- Vier rote Markierungen: drei Varens, eine ihre — dieselbe Tat
-- Alphina liest abgefangene Bund-Chiffre, sieht den Plan
-- Runa plant Befreiung, Vesper spürt die Quelle durch Moragh
-
-
-
-## Akt IV — Seitenwechsel & Sulkara
-
-**Kapitel 29–42**
-
-Tage in Ketten. Varen macht sein Geständnis in altem Thalassisch, langsam, ohne Rechtfertigung: drei Reservoir-Quellen, Mar-Keth, Dulrath-Ost, Reshkol, ein Leylinien-Experiment das er für kontrollierbar hielt. Zweihunderttausend heimatlos. Der Krieg brach daraus hervor. *Niemand weiß es. Nur du.* Thalassische Resonanz, azyklisch, könnte tote Quellen wieder anstarten — aber er kann es niemandem erklären, ohne sich als Verursacher zu outen. Alphina oszilliert sechs Kapitel lang. Sie lockert die Ketten, entkommt nicht. Schneidet sich die Handgelenke mit eigenen Dornen. Lässt nachts Dornen durch die Wand zu seiner Brust wachsen, stoppt sie einen halben Meter vor ihm. Weint zum ersten Mal seit Sorels Tod — um sich. Varen ist eloquent, wissbegierig, fünfzehn Jahre älter, körperlich beeindruckend; er zitiert Bücher die es in Vael nicht mehr gibt, formuliert Gedanken aus, die sie bisher nur gefühlt hat. Beim Sex wachsen Dornen durch Decke und Steinritzen, schwarz, dicht, blühend — zwei Täter. Er setzt heimlich einen Resonanz-Anker in ihre Frequenz, sie hält die Wärme für Orgasmus-Nachwirkung. Er notiert für sich eine Liste: vier Namen, vier Resonanz-Maxima — Alphina, Vesper, Maren, Runa. Das Ritual für Buch 3.
-
-Parallel findet Maren mit Vesper in der Thar-Bibliothek den Portal-Rückweg. Vesper bleibt bei Nyr in Thar-Kem. Maren öffnet das Tor von Moragh-Seite, einweg, geht allein durch — und tritt im Jahr 1987 TZ in Thalassien heraus. Gaslampen durch Elektrizität ersetzt, Automobile statt Kutschen. Eine Welt die ohne sie weitergelaufen ist. Sie gründet die Schwellenforschungsgesellschaft, schreibt an niemanden: *Ihr seid noch dort. Ich weiß es.*
-
-Sulkara, große nördliche Thar-Stadt, dreizehntausend Bewohner. Der Bund greift mit zwei Ersatz-Magiern an; Runa marschiert mit, um Alphina zu befreien. Varen und Alphina kommen als dritte Partei, um die Nebenquelle zu reparieren. Vier-POV-Finale: Alphina und Varen an der Quelle, Resonanz-Umleitung, der Stoß bricht. Im Schlachtfeld ruft Runa Alphinas Namen durch den Rauch — einen halben Herzschlag Zögern, dann Alphinas Dornen gegen Bund-Soldaten, gegen Runas Flanke. Vesper sieht es durch Kesslers Luke, sieht den Zapf von Varen, sagt zu Nyr: *nicht heute.* Runa spuckt Blut hinter einem Steinblock, zieht ihren Brief mit gezeichnetem Farn aus der Tasche, reißt den Namen *Alphina* heraus, behält den Farn. Beim Rückzug nach Torkal kehrt Talven mit blutigen Händen aus Elkes Garten zurück — Varens Falschbeweis, sauber gelegt. Alphina schlägt Talven nieder, glaubt er habe Elke getötet. Setup Buch 3. Zwei Monde über Moragh. Eine Frau in Thalassien sieht in einen Himmel, den sie nicht mehr kennt.
+**K27 Halvara-Kel-Hauptquelle + Gefangennahme.** Bund-Vorstoß direkt zur Quelle ist untypisch. Vesper erkennt Muster-Bruch aus Thar-Kem, geht selbst zum Quellen-Platz. **Varen ist als Bund-Soldat in der Bund-Linie getarnt** (sieht aus wie Verrat aus eigenen Reihen), plus 2–3 Velmar-Deserteure. Fängt Nyrs Druckwellen ab. Alphina überlädt die Hauptquelle, sie stirbt. Varen hält Alphina mit Druckmagie reglos und legt ihr in derselben Bewegung das **präparierte Velmar-Lederhalsband** um die Kehle (Stahlring matt-violett, absorbiert ihre Wirkungs-Versuche reaktiv). Velmar-Deserteure schleppen sie weg. Runa kämpft mit, verletzt sich (Schnittwunden, gebrochene Rippe). Vespers Logik-Kette schließt sich: Velmar-Verstoßener + Druck-Magie + Schemen-Vorhut + Schatten-Beobachter aus Akt I = Varen. **Akt-III-Crisis.**
 
 ### Zentrale Beats
-- Varens Geständnis: drei Quellen, 200.000 heimatlos, azyklische Resonanz
-- Sex mit Varen: blühende Dornen, geteilte Schuld, heimlicher Anker
-- Varens Vier-Thalassier-Liste für Ritual (Setup Buch 3)
-- Maren öffnet Portal von Moragh-Seite, kommt 1987 TZ in Thalassien an
-- Sulkara-Finale mit vier POVs, Alphina kämpft gegen Bund-Seite
-- Runa reißt Alphinas Namen aus dem Farn-Brief, behält den Farn
-- Alphina schlägt Talven nieder (Varens Falschbeweis um Elke)
-- Vesper: *nicht heute* — Rettung verschoben, Anker erkannt
+- Nyr-Ankunft Halvaren als Thar-Emissärin (Vesper-Skepsis startet)
+- Marens Identitäts-Bruch (kein Boot-Wasser auf Moragh)
+- Drael-Pakt: Alphina lehnt ab, Aufbruch nach Velmar
+- Drei-Ablehnungs-Szene Maren K21, sie geht solo über Land
+- Vesper folgt Nyr zur Thar, wird Stratege in Thar-Kem
+- Velmar-Lehre 6 MZ-Wochen, Varen-Auftritt 2 mit Halvara-Kel-Andeutung
+- Drael-Bote, Wegquelle als Probelauf
+- Halvara-Kel-Schlacht: Velmar-Tarnung in Bund-Linie, Druck-Konter gegen Nyr, Lederhalsband um Alphinas Kehle
+- Vespers Logik-Kette zu Varen schließt sich
 
+## Akt IV — Festung, Bekehrung, Cliffhanger (K28–K46)
 
+**Kapitel 28–46, fünf Phasen**
+
+**Phase 1 — Captivity (K28–K30):** Velmar-nahes Anwesen in **Torkal** (freie Stadt, Südwesten). Halsband immer am Hals, Drainage nur in Aktivierungs-Phasen aktiv (Variante C). Erste Velmar-Konversationen. Runa Halvara-Kel-Aftermath, Brief an Vesper über Schmuggler. Vesper zieht in Thar-Kem die Logik-Kette zu Varen, identifiziert ihn als Velmar-Verstoßener.
+
+**Phase 2 — Bekehrung (K31–K35):** Varen führt Alphina zur Karten-Wand (vier rote Markierungen, drei seine alte, eine Halvara-Kel). **Mar-Keth-Geständnis als Fassade (K32)** — er rahmt sein Experiment als Hybris, verschweigt Macht-Motiv. Hoffnungs-Betrug: Quellen-Reparatur als gemeinsame Mission, energetische Unmöglichkeit verschwiegen. Alphina glaubt ihm, weil sie glauben will (sie hat selbst eine Quelle getötet, sie braucht Rechtfertigung). **K35 Vier-Thalassier-Liste** in Varens Schublade — Alphina, Vesper, Maren, Runa Kvist (durchgestrichen, *„unerwarteter Mitreisender"*). Sie liest, versteht nicht ganz, sagt nichts. Setup B3.
+
+**Phase 3 — Annäherung + Parallel-Linien (K36–K40):** **K36 Erste Reparatur-Sitzung Halvara-Kel** — Quelle pulsiert für drei Atemzüge. Halsband-Drainage aktiv, Wärme zwischen Schulterblättern als Reparatur-Resonanz gedeutet. **K37 Sex** — sie führt, geteilte Schuld als Bündnis, Dornen aus Boden und Decke. Halsband bleibt am Hals, Drainage nicht aktiv. **K38 Runa-Spur** verdichtet sich (Schmuggler nennt Torkal). **K39 Maren tritt durch Wasserweg-Riss bei Dravek**, solo. Vesper verabschiedet sich heimlich am Riss, gibt ihr drei Sachen mit (Zeit-Apparat, Datenliste, Brief an Alphina *„falls"*). Sie strandet in Thalassien ~1987 TZ. **K40 Vesper-Strategie-Update.**
+
+**Phase 4 — Schutz + Sulkara-Aufmarsch (K41–K43):** Bund + Thar koordinieren erstmals außerhalb des Krieges, weil eine Bund-Faktion **Sulkara-Quelle politisch instrumentalisiert** (Überladungs-Manöver, Quelle würde nach 12 Stunden kippen, 12.000 Bewohner ohne Magie). **Sulkara-Mechanik = Schutz vor Überladung**, Quelle ist intakt. Varen sieht Gelegenheit, präsentiert Alphina den Einsatz als Mission. Drael + Nyr schicken Beobachtungs-Vorhut. Runa marschiert mit Bund-Vorhut.
+
+**Phase 5 — Sulkara-Konfrontation + Cliffhanger (K44–K46):** **K44 Sulkara-Schlacht** — Alphina kämpft an Varens Seite gegen die Bund-Faktions-Magier, absorbiert die Überladungs-Pulse, Quelle bleibt intakt. **K45 Runa sieht Alphina kämpfen**, kann nicht atmen. Brand-Schemen-Wunden zusätzlich zu Halvara-Kel-Verletzungen. **K46 Cliffhanger:** Vesper am Steinplatz Dravek mit Nyrs Vorhut. Lichtblitz, **Tyra Halvard mit Schwellenforschungsgesellschaft-Heft tritt durch.** Marens Vermächtnis sichtbar, eine Generation früher als die Vier ahnen. Thar-Wachposten vereinnahmt die Forschungs-Expedition. Vesper bleibt verdeckt. *„Maren, du hast es geschafft. Wir sehen es jetzt."* **Buch-2-Schluss.**
+
+### Zentrale Beats
+- Captivity in Torkal mit Halsband, Variante-C-Drainage in Sitzungen
+- Mar-Keth-Geständnis als Fassade (volle Wahrheit erst B3)
+- Hoffnungs-Betrug: Quellen-Reparatur als Mission
+- Vier-Thalassier-Liste in Varens Schublade (Tschechow B3)
+- Erste Reparatur-Sitzung Halvara-Kel, Quelle pulsiert kurz
+- Sex Alphina+Varen K37: sie führt, geteilte Schuld, Halsband bleibt
+- Maren-Wasserweg-Solo K39, Vesper-Abschied am Riss, strandet 1987 TZ
+- Sulkara als Schutz vor Überladung (politisches Manöver, Quelle intakt)
+- Alphina kämpft sichtbar an Varens Seite, Runa sieht es
+- K46 Tyra Halvard tritt durch — Marens Vermächtnis sichtbar
+
+## Personen-Stand am Ende B2
+
+| Figur | Ort | Zustand | Beziehung |
+|---|---|---|---|
+| Alphina | Torkal mit Varen | Halsband, Hoffnungs-Betrug | Varen |
+| Vesper | bei Thar mit Nyr und Runa | Thar-Mitwisser, Skepsis | Nyr |
+| Maren | Thalassien ~1987 TZ | gestrandet, baut SFG | — |
+| Runa | bei Vesper+Nyr | verletzt (Pflanzen+Brand), gebrochen | — |
+| Elke | Dravek | lebt, schweigt über Varen | — |
+| Talven | Velmar-affin, Bund | hungrig, Blutmagie-Bogen folgt B3 | — |
+| Drael | Bund-Front | weiter im Krieg | Bund |
+| Nyr | mit Vesper+Runa | Thar-Defekteurin in Vorbereitung | Vesper |
+| Varen | Torkal | mächtiger als je, Reparatur-Tour läuft | Alphina |
+| Tyra Halvard | Steinplatz Dravek | erste Forschungs-Expedition durch | — |
 
 ## Thematische Fäden (durchlaufend)
 
-- **Alphinas Farb-Progression:** grün (Sorel) → schwarz/rot (Kontrollverlust) → blühende Dornen (Vesper)
-- **Talvens Verfall:** Hände dauerhaft kalt, Narben unter den Ärmeln, Schemen-Sog im Umfeld — niemand stellt Fragen
-- **Runas Dokumentation:** Flugblätter, Brief mit Farn, politischer Hebel
-- **Fraktionen:** Bund von Orath (angeblich zivilisiert), Konglomerat/Thar, Velmar (Haus Keth — Varens Herkunft)
+- **Alphinas Farb-Progression:** grün (Sorel) → schwarz/rot (Halvara-Kel-Bruch) → blühende Dornen (Sex K37, manipuliert)
+- **Talvens Andeutungen:** in B2 nur Hunger-Blick (K15) und Velmar-Stadt-Beobachtung (K24); Selbstlehre Blutmagie folgt B3
+- **Runas Dokumentation:** zweisprachige Bund-Bulletins, Notiz „Ich schreibe es auf" (K45), B3-Untergrund-Kanal
+- **Fraktionen:** Bund von Orath (zivilisiert mit Härten), Konglomerat/Thar (Magitech, Ehrencode), Velmar (Haus Keth — Varens Herkunft)
+- **Vesper-Schach-Linie:** Schatten-Sichtungen K2/K4 → Archiv K14 → Logik-Kette K27 → Velmar-Verstoßener-Spur K33 → Tyra-Sichtung K46

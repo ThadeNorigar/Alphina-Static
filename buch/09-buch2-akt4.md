@@ -1,409 +1,351 @@
-# Buch 2 — Akt IV — Die Schlachtfeld-Spiegel (Seite 600–900, ~75.000 Wörter, 12 Kapitel + 1 Interludium)
+# Buch 2 — Akt IV — Festung, Bekehrung, Cliffhanger (Seite 500–900, ~75.000 Wörter, 19 Kapitel + 1 Interludium)
+
+**Stand 2026-05-02:** Akt IV komplett neu gefasst (5-Phasen-Struktur Captivity/Bekehrung/Annäherung/Schutz/Cliffhanger). Alter Aktplan (Anker-Mechanik, Sulkara als Quellen-Konflikt drei-Parteien, Drael-Bund-Waffe-Linie) **obsolet, ersetzt**. Anker-Vokabel raus, Velmar-Bindungsmechanik (Halsband, Variante C: Drainage nur in Reparatur-Sitzungen) als Master. Sulkara als **Schutz vor Überladung** (Quelle intakt), nicht Reparatur. Cliffhanger K46: Vesper sieht Tyra Halvard mit SFG-Heft am Steinplatz Dravek. Talven-Bogen folgt B3 (in B2 nur Andeutungen).
 
 ## Alphinas Kontroll-Status
 
-**Am Anfang Akt IV:** Bewusst tagsüber (wie Akt III), Schlaf-Haine unbewusst. Aber jetzt kommt eine neue Ebene: **ihre Resonanz fließt über Varen.** Beim Sex (K39) setzt Varen heimlich einen Anker in ihrer Frequenz. Danach zapft er einen Teil ihrer Resonanz ab — sie merkt es nicht. **Manipulationslinie, die in B3 zerbricht.**
+**Am Anfang Akt IV:** Erschöpft, Halsband am Hals, Velmar-Bindungsmechanik aktiv (siehe `10-magie-system.md`, `19-varen.md`). Ihre Pflanzen-Resonanz wird vom Halsband reaktiv abgefangen, sobald sie wirken will — der Stahlring matt-violett glüht ein- und ausschaltend. Über Akt IV lernt sie, dass das Halsband nur in Varens Aktivierungs-Phasen aktiv drainiert (Reparatur-Sitzungen — Variante C). Im Alltag und bei Sex bleibt es tarn-still. Sie deutet das als „Schmuck mit Schutz-Funktion gegen Quellen-Verunreinigung", glaubt Varens Erklärung.
 
-## Struktur
+## Struktur (5 Phasen)
 
-Der Wendepunkt des gesamten Buchs. Varens Geständnis zerbricht Alphinas Selbstbild. Sie wechselt die Seite — NICHT linear, sondern oszillierend: Glaube, Rückfall, Zweifel, Rechtfertigung, Schuld, Akzeptanz. Sechs Kapitel Selbstzweifel. Dann Sex — geteilte Schuld als Bindeglied, Dornen statt Farne. Danach: Verbündete.
+| Phase | Kapitel | Kern |
+|---|---|---|
+| 1 — Captivity | K28–K30 | Halsband, Festung in Torkal, Such-Linien Vesper/Runa |
+| 2 — Bekehrung | K31–K35 | Mar-Keth-Geständnis-Fassade, Hoffnungs-Betrug, Vier-Thalassier-Liste |
+| 3 — Annäherung + Parallel | K36–K40 | Reparatur-Sitzungen, Sex K37, Maren-Wasserweg-Solo K39 |
+| 4 — Schutz + Sulkara-Aufmarsch | K41–K43 | Sulkara als Schutz vor Überladung (politisches Manöver) |
+| 5 — Sulkara-Konfrontation + Cliffhanger | K44–K46 | Schlacht, Runa sieht Alphina kämpfen, K46 Tyra-Sichtung |
 
-Parallel: Maren findet den Rückweg bei den Thar, öffnet das Portal von Moragh-Seite, geht allein nach Thalassien (~1987 TZ). Vesper bleibt mit Nyr bei den Thar, spürt die Schemen-Aktivität, weiß bevor er weiß dass Varen etwas plant.
+## Varen — Charakter-Prägung (Anwendung Akt IV)
 
-Runa beim Bund. Wut. Dokumentation. Plan Alphinas Befreiung — sie glaubt immer noch, Alphina sei Varens Gefangene. Marschiert mit Bund-Truppen nach Sulkara.
+Varen muss in diesen Kapiteln als **eloquent, argumentativ hervorragend, wissbegierig und körperlich beeindruckend** auftreten. Er ist die einzige Figur, mit der Alphina sich auf ihrem intellektuellen Niveau messen kann — und sie spürt es. Konkrete Register:
 
-**Das Finale — Sulkara.** Dreifront-Schlacht um eine Thar-Quelle. Der Bund will sie überladen (Drael, Kriegsstrategie, Runa dabei). Die Thar verteidigt (Vesper + Nyr in Kessler). Varen und Alphina erscheinen als dritte Partei — sie wollen die Quelle REPARIEREN. Beide anderen Fraktionen misstrauen ihnen.
+- **Eloquenz:** Altes Thalassisch, literarisch, mit Syntax aus dem TZ 15. Jahrhundert. Er zitiert Bücher die es in Alphinas Zeit nicht mehr gibt. Er formuliert Gedanken, die Alphina bisher nur gefühlt hat, präzise aus.
+- **Argumentativ:** Er widerspricht ihr nie direkt. Er stellt Fragen. Wenn sie sagt *„Du hast Sorel sterben lassen"*, fragt er nicht zurück — er sagt: *„Ja."* Dann: *„Die Frage die zählt ist eine andere: Was machst du jetzt?"*
+- **Wissbegierig:** Er liest Alphina wie ein Buch. Stellt präzise Fragen zu ihrer Resonanz, ihren Pflanzen, ihren Erinnerungen. Macht Notizen. Zeigt ihr die Notizen. Sie fühlt sich **gesehen** auf eine Art, die weder Sorel noch Vesper konnten.
+- **Gutaussehend:** Groß, muskulös, graue Schläfen, purpurne Augen. Nicht jungenhafte Schönheit — die eines Mannes über vierzig, mit Spuren (Narbe am Kiefer, Schwielen vom Schreiben, leichte Steifheit linke Schulter).
+- **Älter:** 15–20 Jahre älter als Alphina. Erfahrungs-Gefälle, kein Macht-Gefälle im Schlafzimmer (sie führt in K37). Sie lernt an ihm, ohne es zu merken.
 
-**Der Schock-Moment:** Runa sieht Alphina *neben* Varen, *kämpfend mit* ihm. Ein halber Herzschlag Zögern von Alphina, dann die Dornen gegen Bund-Soldaten. Runa zerbricht innerlich. Vesper sieht es durch die Luke von Kessler — analytisch, ohne Illusion, aber mit Entschluss: sie zurückzuholen, aber nicht heute.
-
-**Endzustand:**
-- Alphina + Varen: auf Varens Seite. Quellen-Reparatur als Mission. Basis: **Torkal** (freie Stadt, Südwesten).
-- Runa: beim Bund (physisch) — aber innerlich zerbrochen. Nicht mehr Alphinas Freundin. Noch nicht übergelaufen.
-- Vesper + Nyr: Thar. Zweifel. Varens Existenz bestätigt, die Fronten-Logik explodiert.
-- Maren: gestrandet in Thalassien ~1987 TZ.
-
-**Kein sauberer Frieden. Cliffhanger: Alphina ruht jetzt in einer Lüge, und niemand weiß noch wie lang die hält.**
-
-## Varen — neue Charakter-Prägung (wichtig für Akt IV)
-
-Varen muss in diesen Kapiteln als **unglaublich eloquent, argumentativ hervorragend, wissbegierig und körperlich beeindruckend** auftreten. Er ist die einzige Figur mit der Alphina sich auf ihrem intellektuellen Niveau messen kann — und sie spürt es. Konkrete Register:
-
-- **Eloquenz:** Altes Thalassisch, literarisch, mit Syntax aus dem TZ 15. Jahrhundert. Er zitiert Bücher die es in Alphinas Zeit nicht mehr gibt. Er formuliert Gedanken, die Alphina bisher nur gefühlt hat, präzise aus. Das verführt.
-- **Argumentativ:** Er widerspricht ihr nie direkt. Er stellt Fragen. Jede Frage öffnet eine Tür. Wenn sie sagt *„Du hast Sorel sterben lassen"*, fragt er nicht zurück — er sagt: *„Ja."* Dann: *„Die Frage die zählt ist eine andere: Was machst du jetzt?"* Er gewinnt jedes Gespräch durch das nächste.
-- **Wissbegierig:** Er liest Alphina wie ein Buch. Stellt präzise Fragen zu ihrer Resonanz, ihren Pflanzen, ihren Erinnerungen. Macht Notizen. Zeigt ihr die Notizen. Sie fühlt sich **gesehen** auf eine Art, die weder Sorel noch Vesper konnten — weil Varen ein Forscher ist und sie zu seinem Forschungsgegenstand geworden ist. Das fühlt sich zuerst an wie Liebe.
-- **Gutaussehend:** Groß, muskulös, graue Schläfen, purpurne Augen, die präzise Haltung eines Mannes der gelernt hat jede Bewegung zu kalkulieren. Keine jungenhafte Schönheit — **die Schönheit eines Mannes über vierzig**, der Spuren hat (eine Narbe am Kiefer, Finger mit Schwielen vom Schreiben, eine leichte Steifheit in der linken Schulter). Seine Kleidung sauber, nie extravagant. Er weiß wie er wirkt und benutzt es sparsam.
-- **Älter:** 15-20 Jahre älter als Alphina. Diese Differenz ist spürbar — nicht als Machtgefälle im Schlafzimmer (Alphina dominiert auch mit ihm), sondern als **Erfahrungs-Gefälle**. Er hat mehr gesehen, mehr gedacht, mehr Fehler gemacht. Sie lernt an ihm, ohne es zu merken.
-
-**Warum er so wirkt:** Der Leser muss verstehen, warum Alphina sich wirklich in ihn verliebt — oder glaubt sich zu verlieben. Kein Stockholm-Syndrom, keine Magie-Bindung als einziger Grund. Er ist real attraktiv, real fähig, real faszinierend. **Das macht die Manipulation grausamer** — weil sie echte Züge trägt, die er für seinen Zweck instrumentalisiert. Sein Geständnis wirkt ehrlich. Es ist ehrlich. Das macht es zum perfekten Werkzeug.
+**Warum er so wirkt:** Der Leser muss verstehen, warum Alphina sich wirklich in ihn verliebt — oder glaubt sich zu verlieben. Kein Stockholm-Syndrom, keine Magie-Bindung als einziger Grund. Er ist real attraktiv, real fähig, real faszinierend. **Das macht die Manipulation grausamer**, weil sie echte Züge trägt, die er für seinen Zweck instrumentalisiert.
 
 ---
 
-## Kapitelplan
+## Phase 1 — Captivity (K28–K30)
 
-### Kap. 32 — Alphina (S. 600–616, ~4.000 Wörter)
-*Varens Geständnis. Die Karten.*
+### Kap. 28 — Alphina (S. 500–520, ~4.500 Wörter)
+*Erwachen in Torkal. Halsband. Erste Velmar-Konversationen.*
 
-Tage in Ketten. Die Karten an der Wand. Die abgefangene Kommunikation. Vier rote Markierungen — drei alt (Varens), eine neu (Alphinas). Alphina hat aufgehört zu kämpfen. Ihre Dornen werden kleiner, als hätte der Hass seinen Brennstoff verbraucht.
+Alphina wacht in einem Raum auf, der kein Gefängnis ist — Holzfußboden, gewachstes Bett, ein Fenster mit Blick auf einen Innenhof, Bücher auf dem Tisch, Kleidung in ihrer Größe im Schrank. **Anwesen in Torkal**, freier Stadt im Südwesten. Varens Stützpunkt seit Jahren. An ihrem Hals: das Lederhalsband. Stahlring matt-violett. Sie greift danach, der Ring glüht warm auf — Velmar-Reaktion auf Resonanz-Versuch. Sie lässt los.
 
-Varen setzt sich. Zum ersten Mal nicht als Forscher — als Mensch. Sein altes Thalassisch langsamer, weniger formell, als würde er eine Maske ablegen. Aber es ist eine andere Maske die zum Vorschein kommt.
+Varen kommt ohne Klopfen, mit Tee und Brot. Setzt sich. Sagt drei Sachen:
+1. *„Du bist nicht meine Gefangene. Aber du wirst diesen Raum eine Weile nicht verlassen können — das Halsband ist Velmar-Standard, nur ein Velmar-Binder löst es. Ich bin der hier. Wenn du gehst, geht das Halsband mit."*
+2. *„Ich werde dir die Karten zeigen. Heute nicht. Heute lerne den Raum kennen."*
+3. *„Zwei Fragen: Hast du Hunger? Brauchst du etwas?"*
 
-**Das Geständnis.** Sein Experiment, vor Jahren. Drei Reservoir-Quellen — Mar-Keth, Dulrath-Ost, Reshkol. Er wollte sie zu einem Leylinien-Experiment verbinden — stärken, Reichweite vergrößern, um magiefreie Flächen besiedelbar zu machen. Kontrollierte Überladung, dachte er. Kettenreaktion. Drei Quellen tot. ~200.000 Menschen heimatlos. Der Krieg brach aus, weil die Thar die Explosion als Bund-Angriff interpretierte.
+Sie antwortet nicht. Er stellt das Tablett ab und geht. Schließt die Tür. Schließt sie nicht ab. Sie testet — die Tür öffnet sich. Der Flur dahinter ist leer. Sie könnte gehen. Sie geht nicht.
 
-Er sagt es ohne Pause. Ohne Rechtfertigung. Ohne die Stimme zu heben. Er formuliert präzise — jeder Satz ist gemessen, jeder Halbsatz könnte als Zitat stehen. Alphina merkt es: der Mann spricht wie jemand, der die Gedanken jahrelang geübt hat. Was er jetzt sagt, hat er hunderte Male in sich gesagt, allein.
+POV-Wahl: Alphina. Innensicht der ersten Captivity-Stunde — Varens Captivity-Stil ist nicht Käfig, sondern Komfort plus eine einzige unauflösliche Bedingung.
 
-*„Niemand weiß es. Nur du."*
+### Kap. 29 — Runa (S. 520–540, ~5.000 Wörter)
+*Halvara-Kel-Aftermath. Suche.*
 
-Er erklärt warum: thalassische Resonanz ist azyklisch, kommt von AUSSEN des Quellensystems. Kann tote Quellen wieder anstarten. Kann Überladungs-Angriffe abfangen. Er kann das niemandem sonst erklären, ohne sich als Verursacher zu outen. Also handelt er allein. Wird zum Ausgestoßenen — selbst die Velmar haben ihn verdeckt ausgestoßen. **Er ist seine eigene Fraktion geworden.**
+Runa zwei Tage nach K27. Sie liegt im Bund-Lazarett in Halvaren, gebrochene Rippe, Schnittwunden an Arm und Schulter. Drael persönlich an ihrem Bett — er ist von Halvara-Kel zurück, der Bund hält die Stadt offiziell, inoffiziell ist sie über Wochen unbewohnbar (Quellen-Tod-Effekt). Drael bittet sie um ihren Bericht. Sie erzählt was sie gesehen hat: Velmar-Tarnungen, Druck-Konter gegen Nyrs Wellen, Mann mit verhülltem Gesicht. Drael notiert. Sagt: *„Velmar-Beteiligung. Fraktion unklar."* Sie fragt nicht weiter — ihr Kopf ist bei Alphina.
 
-Alphina hört zu. Stellt eine Frage: *„Warum Sorel?"*
+**Ihr Plan:** Sie will Alphina suchen. Sie weiß nicht wo. Sie weiß: Velmar-Schnitt + Druck-Magie = Velmar-Verstoßener (die einzige Velmar-Logik die Sinn macht — offiziell schickt Velmar niemanden in Bund-Tarnung). Sie braucht Vesper. Sie kennt Vespers Standort nicht.
 
-Varen antwortet, ohne zu zögern: *„Weil dein Hass Treibstoff brauchte. Ohne ihn wärst du nie gekommen."* Er sieht sie direkt an. *„Ich hätte es anders lieber gehabt. Ich hatte keine Wahl die mich nicht verurteilen würde."*
+Sie schreibt einen Brief, lässt einen Bund-Boten ihn nach Thar-Kem schmuggeln über einen Konglomerats-Schmuggler (Tschechow: Bund-Thar-Schmuggel-Linien existieren trotz Krieg, Drael toleriert sie). *„Vesper. Sie haben Alphina. Ich brauche dich."*
 
-Alphina sagt nichts. Die Ketten klirren nicht.
+POV-Wahl: Runa.
 
-### Kap. 34 — Alphina (S. 616–632, ~4.000 Wörter)
-*Die Nacht nach dem Geständnis. Rechnen.*
+### Kap. 30 — Vesper (S. 540–560, ~5.000 Wörter)
+*Vesper bei Thar-Kem. Logik-Kette schließt sich.*
 
-Allein. Die Ketten. Die Karten. Die vier roten Markierungen.
+Vesper bei den Thar in Thar-Kem. Er hat die Halvara-Kel-Schlacht von der Vorhut aus gesehen, ist mit einer Splittergruppe abgezogen, weil Nyr die Vorhut zurückrufen ließ als die Quelle starb (Thar-Magier-Reservoirs leer instant — Kessler ausgefallen, sie waren wehrlos). Er sitzt jetzt im Strategieraum von Thar-Kem mit Nyr und Thar-Kommandanten.
 
-Sie rechnet. Drei Quellen (Varen, Unfall) + eine Quelle (sie, absichtlich) = vier tote Quellen. Zweihundert Tausend ohne Magie. Plus ihre vierhundert — Halvara-Kel. Er hat es nicht gewollt, sie hat es gewollt.
+**Logik-Kette schließt sich.** Vor Nyr und drei Thar-Kommandanten zieht Vesper die Linie:
+- Velmar-Verstoßener-Notiz aus Halvaren-Archiv (K14).
+- Druckmagie-Profil eines Velmar-Binders mit Schemen-Vorhut.
+- Mar-Keth-Hintergrund + redigierter Velmar-Bericht.
+- Schatten am Stadtrand Dravek, K2/K4 (Beobachter waren von Anfang an da).
+- Direkt-Vorstoß zur Halvara-Kel-Quelle, untypisch für Bund-Doktrin.
 
-Die Spiegelung: er ist der Mann der den Krieg auslöste. Sie ist die Frau die ihn führt. Wer ist schlimmer?
+Schluss: ein einzelner Velmar-Verstoßener manipuliert Bund-Frontlogik mit Velmar-Mitteln. Mit hoher Wahrscheinlichkeit derselbe, der die Mar-Keth-Quellen verloren hat. **Varen.**
 
-Aber etwas anderes frisst sich ein: seine Stimme. *„Ich hatte keine Wahl die mich nicht verurteilen würde."* Kein Selbstmitleid. Keine Ausrede. Sie kennt niemanden, der so über sich selbst sprechen kann — weder Drael noch die Bund-Älteste, weder Halvard noch Tohl, weder Vesper. Vesper ist präzise. Varen ist **eloquent** — er formt Gedanken in einer Art, die sie noch nie gehört hat.
+Nyr nickt. Sie haben Spitzel in Velmar — Velmar gibt der Thar nichts, aber Velmar-Bedienstete reden manchmal mit Geld. Sie wird Anfragen stellen.
 
-Sie denkt an Sorel. Versucht ihn um Rat zu fragen. Er antwortet nicht. Er kann nicht. Er ist tot. Sie ist allein damit.
+**Runas Brief kommt** am selben Abend (über den Schmuggler, drei Tage Verzug). Vesper liest ihn. Schreibt zurück: *„Wir wissen wer es war. Wir suchen sie. Bleib am Bund. Du bist dort sichtbar — wir sind hier unsichtbar."*
 
-Ihr Selbstbild — die Gute, die Rächerin, die für Sorel kämpft — beginnt zu bröckeln. Nicht laut. Nicht dramatisch. Stück für Stück.
-
-### Kap. 35 — Alphina (S. 632–648, ~4.000 Wörter)
-*Oszillation. Selbstverletzung. Die Dornen werden kleiner.*
-
-Zweiter Tag in den Ketten. Varen kommt nicht. Er lässt sie allein, absichtlich. Sie hat Zeit.
-
-Alphina kippt zwischen vier Zuständen im Laufe eines Tages:
-- **Morgens:** Sie will ihn töten. Lässt Dornen durch die Steinritzen wachsen — dick, scharf, schwarz. Greift sie mit beiden Händen. Schneidet sich die Innenseiten der Handgelenke, nicht tief, aber bewusst. *„Das ist noch meins. Nicht seins."*
-- **Mittags:** Sie steht vor den Karten. Liest die abgefangene Kommunikation. Die Bund-Generäle planen zehn weitere Ziele. Eine davon versorgt sechshundert Menschen. Eine andere achthundert.
-- **Abends:** Sie denkt an Drael, an seine Ruhe, an das Wort *„Taktik"*. Er hat es gewusst. Er hat sie benutzt.
-- **Nachts:** Sie zerbricht. Die Dornen wachsen nicht mehr groß. Sie sind klein. Sie versteht: **der Hass war ihr Treibstoff, und der Treibstoff wird knapp.** Ohne Hass hat sie nichts.
-
-Eingebettet: das erste Mal seit Wochen denkt sie an Vesper. An seine Präzision. An seine Art Muster zu sehen. *Was würde er rechnen, wenn er diese Karten sehen würde?* Die Frage lässt sie nicht los.
-
-Am Ende des Tages hat sie die Ketten gelockert — genug, um zu entkommen. Sie entkommt nicht. Sie weiß noch nicht warum.
-
-### Kap. 37 — Varen-POV (S. 648–660, ~3.000 Wörter)
-*Der Beobachter. Er kennt diese Nacht.*
-
-Varen beobachtet Alphina durch die Tür, durch die Schemen die ihm berichten. Die Dornen werden kleiner. Die Ketten hängen lose — sie KÖNNTE sie brechen. Sie tut es nicht.
-
-Er kennt das. Er hat dieselbe Nacht erlebt. Nach seinem Experiment. Nach den drei Quellen. Die Nacht in der man begreift, dass man kein Opfer ist. Dass man Täter ist. Dass die Geschichte die man sich über sich selbst erzählt hat — vom Notwendigen, vom größeren Guten, vom Preis der Wissenschaft — eine Lüge war.
-
-Eingebettet: Varen an seinem Arbeitstisch. Eine kleine Schale Wasser, ein Kristall. Er tut was er sein Leben lang getan hat — forschen, messen, planen. Aber zum ersten Mal seit Jahren ist die Wand nicht leer. Sein Plan hat ein Gesicht. Alphinas. Die Mathematik hat Namen.
-
-**Tschechow-Schatten:** Varen notiert für sich — eine Liste. Vier Namen: Alphina, Vesper, Maren, Runa. Neben jedem Namen eine Zahl. **Resonanz-Maximum.** Das ist das, was sie geben müssten, für das Ritual. Er schreibt es klein, legt es zwischen zwei Bücher. Kein Kommentar. Kein Zögern. Der Leser sieht es ohne es zu verstehen. Alphina wird es erst in B3 Akt III finden.
-
-**Wichtig zu zeigen:** Varen ist kein Kalkül-Monster. Er **empfindet** etwas für Alphina — Bewunderung, Neugier, echtes Interesse. Er wünscht, er müsste sie nicht benutzen. Aber er würde es wieder tun. Das ist die Tragik.
-
-Er sitzt bis zum Morgen. Liest in Alphinas Akte, die er selbst angelegt hat — Jahre bevor er sie traf. Fragen, die sie noch nicht beantwortet hat. Er ist wissbegierig. Nicht gespielt, nicht als Werkzeug. Echt. Er will **verstehen**, wie ihre Resonanz funktioniert. Das macht ihn für sie attraktiv. Das macht ihn für sie gefährlich.
-
-### Kap. 38 — Alphina (S. 660–680, ~5.000 Wörter)
-*Fragen. Rückfälle. Sie rechtfertigt sich zurecht.*
-
-Dritter Tag. Alphina setzt sich vor die Karten. Varen kommt herein. Diesmal mit Tee. Er setzt sich nah — nicht zu nah. Schiebt die Tasse zu ihr.
-
-Sie fragt. Nicht feindselig — sachlich. Wie funktionieren die Quellen? Wie hat er sie zerstört? Wie hat der Bund die Methode bekommen?
-
-Varen antwortet. Jede Frage. Ohne Auslassung. Er zeigt ihr seine Forschung — Berechnungen, Diagramme, das Netzwerk der Quellen unter Moragh. Seine Hände bewegen sich präzise über das Papier. Er spricht schnell, wenn es um Technik geht — unterbricht sich, um eine Notation zu erklären, zeichnet am Rand. Alphina versteht die Hälfte. Die andere Hälfte lernt sie in Echtzeit. Er ist **Lehrer** ohne es sein zu wollen.
-
-Eine Weile vergessen beide, dass sie in Ketten ist.
-
-Dann: *„Können die Quellen repariert werden?"* Varen: *„Mit thalassischer Resonanz. Theoretisch. Aber dafür brauche ich—"* Alphina: *„Mich."* Varen: Stille. Dann: *„Dich. Ja."*
-
-**Rückfall.** Nachts lässt sie Dornen wachsen. Groß, schwarz, dicht. Will ihn töten. Die Dornen gehen durch die Wand zu seinem Quartier. Er schläft nicht — er liest. Schaut auf, als die Dornen durch die Wand kommen. Lässt sie kommen. Hält sie einen halben Meter vor seiner Brust inne.
-
-Nicht weil er sie bindet. Weil sie stoppt.
-
-Er sagt leise, ohne Vorwurf: *„Du könntest es tun. Es würde wenig ändern. Die Quellen bleiben tot. Die Bund-Listen bleiben. Dein Körper bleibt derselbe."* Er legt das Buch weg. *„Ich lese, wenn du wieder gehst."*
-
-Sie zieht die Dornen zurück. Weint zum ersten Mal seit Sorels Tod. Nicht um Sorel — um sich.
-
-Varen lässt sie weinen, ohne sie zu berühren. Am Morgen bringt er wieder Tee.
-
-Die Ketten sind noch da. Aber Alphina berührt sie nicht mehr. Die Frage hat sich verändert — von *„Wie komme ich hier raus?"* zu *„Was soll ich tun wenn ich draußen bin?"*
-
-### Kap. 39 — Alphina + Varen (S. 680–705, ~6.500 Wörter)
-*Dornen statt Farne. Verbündete.*
-
-Vierter Tag. Es beginnt nicht mit Verlangen. Es beginnt mit einem Gespräch über Quellen-Reparatur. Zwei Stunden Konzentration, nebeneinander am Tisch. Alphina zeichnet eine Ranke, Varen zeichnet eine Frequenzkurve. Er sagt irgendwann: *„Du denkst wie eine Forscherin."* Sie: *„Ich bin Botanikerin."* Er: *„Du bist beides. Das wissen sie nur nicht in Velde."*
-
-Der Satz sitzt. Nicht weil er schmeichelt. Weil er **richtig** ist.
-
-Später, am Abend: Stille. Varen sitzt neben ihr. Nah. Die Karten an der Wand. Zwei Täter in einem Raum. Keiner lügt mehr.
-
-Alphina berührt seine Hand. Tastend. Wie jemand der prüft ob etwas real ist. Seine Haut ist warm. Er rührt sich nicht. Wartet.
-
-**Sex.** Gewachsen aus geteilter Schuld. Rücken, Nacken, Wirbelsäule. Nicht halten — führen. Alphinas Hände auf seinem Rücken, den Wirbeln entlang. Seine Hände in ihrem Nacken. Dornen wachsen. Aus dem Boden, aus den Ritzen im Stein, durch die Decke. Schwarz, scharf, dicht. Nicht die Farne bei Sorel — keine Zärtlichkeit, kein Kontrollverlust durch Vertrauen. **Kontrolle durch Erkenntnis.**
-
-Alphina ist dominant, wie sie immer war. Aber Varen ist kein leicht zu führender Körper. Er hat gelernt zu empfangen ohne zu unterwerfen. Er gibt ihr den Raum. Das erkennt sie im Moment — und es macht ihn ungefährlich, glaubt sie. Ein Mann der gelernt hat sie zu lassen.
-
-Seine Haut schmeckt nach Stein und etwas Süßem — derselbe Geruch wie die Schemen. Jetzt weiß sie warum. Er IST der Geruch der Schemen.
-
-**Varens Manipulation (subtil, Leser sieht, Alphina nicht):** Während der Intimität setzt Varen einen Bindungs-Anker in Alphinas Resonanz-Frequenz. Sie spürt es als Wärme an ihrer Wirbelsäule — hält es für Orgasmus-Nachwirkung. Er lächelt nicht. Er fixiert eine Variable.
-
-Danach: Stille. Dornen überall. Er auf dem Rücken. Sie auf dem Bauch, Gesicht abgewandt. Die Ketten auf dem Boden, offen. Sie hat sie gebrochen. Sie erinnert sich nicht wann.
-
-**Morgen. Verbündete.** Alphina steht auf. Keine Ketten. Varen reicht ihr Kleidung — Moragh-Stoff, weich, fremd. Sie nimmt sie an.
-
-Sie geht zur Wand, zu den Karten. Legt den Finger auf die vierte rote Markierung — Halvara-Kel, ihre. *„Wir fangen hier an."* Varen: *„Mit was?"* Alphina: *„Reparatur."* Stille. Dann: *„Und dann die anderen drei."*
-
-Varen sieht sie an. Mit einem Ausdruck, den sie für Liebe hält. Der Leser weiß: Teile davon sind echt. Teile davon sind Variable. Welche, wird erst in B3 klar.
-
-**Sie reisen nach Torkal** — Varens Basis, eine freie Stadt im Südwesten, abgelegen. Drei Tage per Schemen-begleitetem Pfad.
-
-### Kap. 40 — Maren (S. 705–722, ~4.500 Wörter)
-*Die Karte in der Thar-Bibliothek.*
-
-Parallel zu Alphinas Wechsel. Maren ist Wochen mit Vesper bei den Thar in Thar-Kem. Sie ist ihm gefolgt — nicht wegen der Thar, wegen der Bibliothek. Die Thar hat alte Karten. Moragh-Karten die das Portal-Netzwerk zeigen — nicht nur das eine Portal unter Vael. Dutzende. Die meisten tot. Aber die METHODE steht in den Büchern.
-
-**Maren findet den Rückweg.** Die Karte. Die Anleitung. Wie man das Portal von der Moragh-Seite öffnet. Nicht durch Wasser — durch das Ritual. Dieselbe Methode wie in Vael, aber gespiegelt. Es braucht Resonanz. Maren HAT Resonanz. Allein reicht es nicht für den Rückweg von Thalassien — aber für den HINWEG, Moragh nach Thalassien, reicht es. Einmal. Einweg.
-
-Eingebettet: Marens Gedanken. Das Boot in Vael — drei Viertel fertig. *„Warte auf mich."* Sie weiß jetzt von welcher Seite.
-
-Sie sieht Vesper nicht sofort. Braucht einen Tag, um es auszusprechen. Allein in der Bibliothek liest sie die Karte. Drei Mal. Rechnet nach.
-
-### Kap. 41 — Vesper + Maren (S. 722–742, ~5.000 Wörter)
-*Der Abschied. Das Portal.*
-
-Maren sagt es Vesper. In der Bibliothek, zwischen zwei Regalen. Kein Drama. *„Ich habe den Weg gefunden. Allein."*
-
-Vesper versteht sofort. *„Du gehst."* Maren: *„Ja."* Vesper: *„Allein."* Maren: *„Ja."* Vesper: *„Du kommst nicht zurück. Allein hast du nicht genug Resonanz für den Rückweg von Thalassien."* Maren: *„Ich weiß."*
-
-Der Abschied. Nicht dramatisch. Zwei Menschen die sich verstehen und verschiedene Wege gehen. Vesper bleibt — Moragh, Nyr, die Thar, die Muster. Maren geht — Thalassien, Forschung, allein. Er küsst ihre Stirn. Sie dreht sich um.
-
-**Das Portal.** Maren öffnet es von der Moragh-Seite, im Steinplatz nahe der Thar-Kontrolle. Vesper ist dabei. Nyr ist dabei. Sie halten die Thar-Wachen zurück für die 4:33. Die Luft reißt auf. Dahinter: Thalassien. Aber nicht Vael. Nicht 1823. Die Zeitdilatation hat zugeschlagen. **~1987 TZ.** Gaslampen durch Elektrizität ersetzt. Automobile statt Kutschen. Eine Welt die weitergelaufen ist.
-
-Maren tritt durch. Das Portal schließt sich. Vesper sieht ihr nach den halben Herzschlag zu lang — dann wendet er sich Nyr zu. *„Zurück."* Sie gehen.
-
-**Vespers Gedanken auf dem Rückweg:** die Zeitdilatation. Er hatte es berechnet, aber es zu SEHEN — Maren tritt durch und ist im Jahr 1987 TZ — ist anders. Er denkt an Alphina. Sie ist irgendwo in Moragh. Wenn er sie findet, sind dort drüben wie viele Jahre vergangen? Das Wort *wenn* ist neu für ihn.
-
-### Kap. 42 — Runa (S. 742–758, ~4.500 Wörter)
-*Beim Bund. Der Plan. Der Marsch nach Sulkara.*
-
-Runa in der Bund-Hauptstadt Halvaren. Wochen seit Alphinas Verschwinden. Sie hat Information gesammelt — Bund-Chiffre, Deserteure, Karten.
-
-**Die Operation.** Drael plant einen Angriff auf **Sulkara** — große nördliche Thar-Stadt, strategisch. Quellen-Überladung als Strategie. Der Bund hat nicht Alphina mehr, aber zwei Bund-Magier werden es gemeinsam versuchen — weniger effizient, mehr Überlebende, schwächerer Kollaps. Gut genug.
-
-Runa marschiert mit. Warum?
-1. Sie sammelt Dokumentation (ihre kleine zweisprachige Druckerei in Halvaren).
-2. Sie glaubt, Varen wird auftauchen — er hat Alphina, er will ihre Resonanz nicht verschwenden, sie wird auch am Schlachtfeld sein. Runas Chance.
-3. Sie hat einen Thar-Deserteur als Kontakt, der Routen durch die Frontlinien kennt.
-
-Sie ist sich bewusst: der Bund benutzt sie. Der Bund will Alphina ZURÜCK als Waffe. Runas Rettungsplan deckt sich mit Bund-Interesse — solange beide Seiten nützlich füreinander sind.
-
-Eingebettet: Runa nachts, allein, Hände auf dem Papier. Schreibt einen Brief. *„Alphina. Wenn du das liest, bist du frei. Ich weiß nicht ob ich dich wiedersehe. Aber ich wollte, dass du weißt: ich hab nicht aufgehört."* Faltet den Brief. Steckt ihn ein. Auf dem Umschlag kein Name. Nur ein Farn, gezeichnet.
-
-### Interludium XII — Varen (~S. 762, ~2.500 Wörter)
-*Die Entscheidung. Sulkara retten.*
-
-Torkal. Varens Arbeitsraum. Schemen bringen Berichte. Bund greift Sulkara an. Quellen-Überladung vorbereitet. Fünf Tage bis zum Angriff.
-
-Varen zeigt Alphina die Karte. Sulkara — große Thar-Stadt, zwei Quellen (Hauptquelle versorgt die Stadt; Nebenquelle ist das Bund-Ziel). Dreizehntausend Menschen. Kinder, Alte, Handwerker.
-
-Alphina: *„Wir gehen dahin."* Varen: *„Wir könnten sterben. Weder Thar noch Bund kennen unsere Absicht."* Alphina: *„Ich weiß."*
-
-Plan: Schemen als Vorposten. Alphinas Resonanz zur Stabilisierung der Nebenquelle. Varens Bindungsmagie als Schutz. Drei Tage Marsch von Torkal nach Sulkara.
-
-**Varens Gedanken (Leser sieht, Alphina nicht):** Sulkara ist ein Test. Wenn Alphina sich wirklich auf seine Seite gestellt hat, wird sie gegen ihre alten Freunde kämpfen. Wenn sie zögert — er wird sehen, wie weit sein Anker hält. Er plant nicht zynisch. Er plant **wissenschaftlich**. Die Emotionen sind Daten.
-
-Er notiert sich zwei Dinge:
-- *„Vesper wird in Sulkara sein. Er hat die Muster auch gesehen. Teste Alphina-Vesper-Abstand."*
-- *„Runa beim Bund. Ihre Anwesenheit akzeleriert Alphinas Selbst-Bruch. Erwünscht."*
-
-Der Leser schaudert. Alphina weiß nichts.
-
-### Kap. 45 — Vesper + Nyr (S. 765–782, ~5.000 Wörter)
-*Sulkara. Verteidigung. Die Bestie wartet.*
-
-Thar-Kem hat den Bund-Angriff lange erwartet. Nyr wird nach Sulkara entsandt — mit Kessler, ihrer 40-Tonnen-Bestie. Vesper geht mit. Offiziell als Analytiker der Thar-Kommandantin. Inoffiziell, weil er Alphina sucht — seine Muster sagen, sie wird kommen.
-
-Sulkara. Festungsarchitektur, Moragh-Stein, Leylinien sichtbar unter den Straßen. Dreizehntausend Bewohner, die schon evakuiert werden — soweit der Bund sie lässt. Die Nebenquelle am Stadtrand, markiert mit Sensoren. Thar-Techniker arbeiten Schichten daran, Schutzschilde aufzubauen.
-
-Vesper analysiert. Seine Muster-Resonanz liest die Landschaft. Er sieht Bund-Truppen zwei Tagesmärsche entfernt. Er sieht eine andere Bewegung — klein, nicht-militärisch, südlich, von Torkal. Zwei, drei Gestalten, mit Schemen im Vorposten. Varen. Und jemand mit ihm.
-
-Nyr im Cockpit von Kessler. Testet die Hydraulik. *„Wir halten die Linie."* Vesper: *„Nicht nur die Linie. Alphina wird kommen."* Nyr: *„Mit wem?"* Vesper: *„Mit ihm."* Nyr: *„Auf welcher Seite?"* Vesper: *„Ich weiß nicht. Aber ich werde es sehen."*
-
-Eingebettet: Vesper sieht Muster, die ihn erschrecken. Der Bund greift groß an. Die Thar hat eine Gegenoffensive mit Kessler + zwei weitere Bestien. Beide Seiten haben viele Tote einkalkuliert.
-
-### Kap. 44 — Alphina + Varen (S. 782–800, ~5.500 Wörter)
-*Die Annäherung. Die Nebenquelle. Der Plan.*
-
-Alphina und Varen erreichen Sulkara am Morgen des Bund-Angriffs. Schemen als Vorhut. Sie kommen von Süden, durch unkartiertes Gelände (Varen kennt die Routen — seit Jahren Operation).
-
-Sie erreichen die Nebenquelle. Thar-Wachen sehen sie — Varen bindet sie sanft, tötet nicht. *„Wir kommen in Frieden, aber wir werden nicht verhandeln."*
-
-Alphina an der Quelle. Kniet. Ihre Hände in den Moragh-Stein. Sie spürt das Pulsieren — das Herz der Quelle. Klein. Lebendig. Der Bund-Angriff ist ein Überladungsversuch — sie will ihn abfangen, Energie UMLEITEN statt aufnehmen. Varen hilft — seine Bindungsmagie stabilisiert ihren Fluss.
-
-Sie arbeiten. Minuten vergehen. Dann: der Angriff. Explosionen am Stadtrand. Bund-Truppen rücken vor. Thar-Bestien patrouillieren die Hauptstraßen.
-
-Alphinas Resonanz fließt. Varen öffnet seinen Speicher. Die Quelle hält. Der erste Überladungs-Stoß — Alphina leitet ihn um, er fließt aus der Quelle durch sie in den Boden. Ein Baum schießt zehn Meter hoch, kurz, fällt um.
-
-**Aber:** Alphinas Resonanz geht auch durch Varen. Sie merkt eine Kälte, die sie nicht einordnen kann. Schreibt es der Konzentration zu. Kämpft weiter.
-
-Zweiter Stoß. Stärker. Varen fängt ab. Dritter Stoß. Alphinas Dornen wachsen zwischen den Fingern, ohne dass sie es will. Varen ruhig: *„Halte durch."* Sie hält.
-
-Der Stoß bricht. Die Quelle lebt. Erste Aufgabe erfüllt.
-
-Sie stehen auf. Sehen nach draußen. Das Schlachtfeld hat begonnen, während sie arbeiteten. Jetzt müssen sie da raus — durch das Feld, zurück.
-
-### Kap. 45 — Alle (S. 800–900, ~17.000 Wörter)
-*Das Finale. Drei Fronten. Zwei Schocks. Der Rückzug.*
-
-Großes Kapitel. Vier Abschnitte aus vier POVs — jeder sieht einen anderen Teil des Feldes, erst die Überlagerung ergibt das ganze Bild.
-
-#### Abschnitt 1 — Alphina (POV, ~4.000 Wörter)
-Raus aus der Quell-Zone. Schlachtfeld überall. Alphina lässt Dornen wachsen — nach außen, gegen alle die zu nah kommen. Bund-Soldaten. Sie markiert sie nicht als Freund oder Feind — sie will nur raus.
-
-Dann: ein Ruf. Eine Stimme, die sie kennt. *„Alphina!"*
-
-Sie dreht sich. Durch den Rauch sieht sie Runa. Rote Haare, Hände glühend, Bund-Uniform. Runa zehn Meter weg, starrt sie an.
-
-Ein halber Herzschlag Zögern. Alphina sieht es: Runa glaubt, sie wird gerettet. Runa hält die Hände offen — friedlich, einladend. *„Komm. Wir holen dich raus."*
-
-Alphina öffnet den Mund. Schließt ihn wieder. Sagt nichts.
-
-Varens Befehl, hinter ihr, ruhig: *„Die Welle rechts, Alphina."* Bund-Soldaten stürmen von rechts. Alphina dreht sich, lässt Dornen wachsen — gegen die Bund-Soldaten. Gegen RUNAS Seite. Trifft drei, vier. Blut. Schreie.
-
-Sie sieht Runa nicht mehr an. Weiß dass Runa sieht. Geht weiter. Varen neben ihr.
-
-Sie denkt: *„Jetzt bin ich das, was Varen aus mir gemacht hat."* Eine andere Stimme: *„Nein. Jetzt bin ich das, was ich aus mir gemacht habe."* Beide Stimmen wahr.
-
-Dann sieht sie ihn. Vesper. Durch die obere Luke von Kessler — 30 Meter entfernt, Bestie stampft. Sein Gesicht im Schatten, aber sie erkennt ihn. Er sieht sie. Dreht nicht weg.
-
-Sie denkt: *„Er versteht es besser als sie."* Sie weiß nicht warum.
-
-#### Abschnitt 2 — Runa (POV, ~4.000 Wörter)
-Runa hat geschrieen. Die Stimme hat ausgesetzt. Sie ist stehengeblieben. Alphinas Blick — Erkennen, dann nichts. Dann die Dornen gegen Bund-Soldaten. Gegen Runas Flanke.
-
-Eine Bund-Soldatin schreit sie an, weiterzugehen. Runa hört nicht.
-
-In ihrem Kopf klickt alles zusammen. Die Nacht in der Bund-Stadt. Die Tasse die nicht kalt wurde. Der Kuss auf dem Dach. *„Seit wann nimmst du Befehle?"* Alphinas Antwort damals war Schweigen. Jetzt auch. Die Antwort heute ist klarer. Sie nimmt Befehle. Von Varen.
-
-Runas Hände sinken. Die Wärme geht weg. Sie ist nicht vorbereitet auf diesen Moment. Sie hatte Szenarien geplant — Befreiung, Kampf, Tod. Nicht das hier. Nicht dass Alphina auf Varens Seite steht, aus freiem Willen.
-
-Eine Thar-Druckwelle schlägt nahe ein. Runa wird umgerissen, landet hinter einem Steinblock. Spuckt Blut. Ein Bund-Soldat fällt neben ihr, tot.
-
-Runa steht auf. Die Welt ist laut. Sie hört es nicht. Sie geht zurück — Richtung Bund-Rückzugslinie. Kein Kampf mehr. Nicht heute.
-
-Innen: Wut. Trauer. Verrat. Aber vor allem: **Entkoppelung.** Alphina ist nicht mehr ihre Freundin. Sie ist eine andere Frau, auf einer anderen Seite, mit einem anderen Leben. Runa hat ihre eigene zu leben.
-
-Sie denkt, zum ersten Mal: *„Ich bin mit dem Bund fertig."* Der Gedanke ist neu. Sie wird ihn reifen lassen.
-
-#### Abschnitt 3 — Vesper (POV, ~4.000 Wörter)
-Vesper sieht Alphina durch die Luke. Er sieht die Muster. Alphinas Resonanz fließt — und es gibt einen Anker. Nicht nur Bindung — **Zapf.** Varen nimmt.
-
-Nyr schreit Kommandos. Kessler reißt eine Bund-Linie auf. Vesper ist Analytiker, aber er steuert Nyr — *„Links, jetzt, zwei Sekunden."* Sie gehorcht. Kessler fängt einen Angriff ab, den Nyr nicht gesehen hätte.
-
-Aber Vesper sieht Alphina. Auch im Kampf-Modus kann er nicht wegsehen. Sie ist nicht sie. Oder: sie ist sie, aber versklavt auf eine Art die er nicht beweisen kann. Er weiß: wenn er jetzt durchbricht und zu ihr geht, zerbricht sie. Sie wird ihn nicht erkennen, weil Varens Anker zu tief sitzt. Sie wird kämpfen. Sie wird ihn vielleicht töten.
-
-Nyr durch den Helm: *„Was machen wir?"* Vesper: *„Wir halten die Linie. Nicht mehr. Nicht weniger."* Nyr: *„Und sie?"* Vesper: *„Sie ist nicht hier zu retten. Heute."*
-
-Nyr: *„Wann dann?"* Vesper: *„Später. Wenn der Anker bricht. Er wird brechen. Sie ist zu stark für das Ende."*
-
-Er klingt ruhig. Sein Gesicht zittert, als er das sagt. Nyr sieht es nicht — ihr Helm ist zu eng. Aber sie hört es in seiner Stimme.
-
-#### Abschnitt 4 — Varen (POV, ~2.500 Wörter)
-Varen auf dem Schlachtfeld. Neben Alphina. Er beobachtet sie. Das Zögern bei Runa. Das Blicken zu Vesper. Er sieht beides. Er plant.
-
-*„Sie hat Freunde behalten."* Er schreibt das in Gedanken wie eine Variable. *„Die Freunde sind Hebel. Wenn der Anker schwächelt, werden die Freunde kommen. Ich muss die Freunde neutralisieren — nicht töten. Aus der Sicht entfernen."*
-
-Er denkt an die nächsten Quellen-Reparaturen. An die nächsten Monate. An das **Ritual mit den vier Thalassiern** — das er für B3 plant. *„Vier. Alphina, Vesper, Runa, Maren."* Maren ist weg — durchs Portal. Ein Problem. Er braucht sie.
-
-Aber jetzt: erst der Rückzug. Erst Torkal. Erst die nächste Quelle. Die große Partie dauert länger.
-
-Er legt die Hand auf Alphinas Schulter. Sie zuckt nicht weg. Gut. Sie geht mit ihm.
-
-**Wichtig:** Der Leser muss in diesem Abschnitt spüren, dass Varen Alphina NICHT hasst. Er schätzt sie. Mehr als das — er genießt ihre Gesellschaft. Ihre Fragen. Ihre Resonanz. Das macht ihn zum Anti-Helden der *echten* Tragödie: er ist nicht böse, er ist nur **zu zielstrebig**. Die Wissenschaft steht über dem einzelnen Menschen. Auch über Alphina. Auch über sich selbst. Das weiß er. Das akzeptiert er. Der Leser tut es nicht.
-
-#### Schluss (alle POVs verwoben, ~2.500 Wörter)
-Die Schlacht bricht ab — erst nach Stunden. Der Bund hat die Nebenquelle nicht bekommen, zieht sich zurück. Die Thar hat sie gehalten. Beide Seiten haben Hunderte verloren.
-
-**Endszenen, kurz, parallel:**
-
-- **Alphina + Varen:** auf dem Rückweg nach Torkal. Schemen tragen ihre Ausrüstung. Alphina geht stumm. Varen spricht auch nicht. Er sieht den Mond aufgehen. Legt die Hand an ihren Rücken. Sie lehnt sich einen Moment hinein. Weiter.
-
-- **Runa:** in der Bund-Krankenstation. Schnittwunden, eine gebrochene Rippe. Sitzt allein. Der Brief mit dem Farn ist in ihrer Tasche — sie zieht ihn heraus. Reißt ihn durch. Nicht alles — nur den Namen. *„Alphina"* reißt sie raus. Der Rest des Briefes: der Farn, die Worte, *„ich hab nicht aufgehört"* — sie behält. Aber der Name ist weg.
-
-- **Vesper + Nyr:** in Kessler, auf dem Rückweg nach Thar-Kem. Nyr hat die Hydraulik auseinandernehmen müssen, repariert unterwegs. Vesper sitzt neben ihr in der Kammer. Keiner spricht. Nach einer Stunde sagt Nyr: *„Du glaubst, du holst sie zurück."* Vesper: *„Ja."* Nyr: *„Ich hoffe du hast recht."*
-
-- **Maren** (Off-Screen, in Thalassien ~1987 TZ): sitzt im Büro der neuen Gesellschaft. Ein einzelnes Zimmer. Drei Mitglieder. An der Wand: eine Karte von Vael. Der Steinkreis markiert. Daneben Marens Notizen. Sie schreibt einen Brief an niemanden. *„Ihr seid noch dort. Ich weiß es. Ich werde einen Weg finden zurück. Oder ihr werdet einen finden."*
-
-**Letztes Bild:** Zwei Monde über Moragh. Eine Frau in Thalassien, die in den Himmel sieht, den sie nicht mehr kennt. In Moragh vier Figuren an vier Orten, verbunden durch einen Riss, den niemand mehr offen halten kann.
-
-**ENDE BUCH 2.**
+POV-Wahl: Vesper.
 
 ---
 
-## Beziehungskarte Ende Buch 2
+## Phase 2 — Bekehrung (K31–K35)
 
-```
-MORAGH:                                  THALASSIEN (~1987 TZ):
+### Kap. 31 — Alphina (S. 560–580, ~5.000 Wörter)
+*Erste Karten-Lecture. Varens Eloquenz greift.*
 
-Alphina ═══ Varen (seine Fraktion)       Maren (gestrandet, allein)
-Unter Varens Anker                       Schwellenforschungsgesellschaft
-(sie weiß es nicht)
-Basis: Torkal
+Alphina ist seit fünf Tagen in Torkal. Hat den Raum verlassen, hat Varens Bibliothek gesehen, hat in der Küche mit ihm gegessen. Das Halsband ist immer da, weder störend noch heilend — als wäre es Schmuck mit Pflicht-Charakter. Sie wirkt ihre Magie nicht. Sie weiß nicht, wie das Halsband reagieren würde.
 
-Runa (Bund, Halvaren, innerlich
-      gebrochen, bereit für Überlauf
-      in B3)
+Varen führt sie zur **Karten-Wand**: vier rote Markierungen. Drei alt — Mar-Keth, Dulrath-Ost, Reshkol. Eine neu — Halvara-Kel. *„Vier Quellen tot. Drei meine, eine deine. Die Frage die ich dir stellen werde, kannst du nicht ohne meine Antwort beantworten — also lass mich erzählen."*
 
-Vesper ═══ Nyr (Thar, Thar-Kem,
-               geduldig, plant Alphinas
-               Rückkehr)
+Er beginnt nicht mit dem Geständnis. Er beginnt mit **dem Versuch**: er hat vor neun MZ-Jahren ein Leylinien-Experiment unter Mar-Keth durchgeführt, das drei benachbarte Quellen koppeln sollte — stärker, weiter, magielose Flächen besiedelbar machen. Er erklärt die Theorie eloquent, präzise, mit Skizzen. Alphina versteht jeden Schritt — sie ist Botanikerin, sie kennt das Prinzip von Symbiose-Netzwerken. Wenn die Theorie stimmt, war das Experiment plausibel.
 
-Talven (Halvaren, Hände kalt, Narben unter den Ärmeln)
-Elke (Dravek, alt)
-```
+**Verführungs-Beat:** Er fragt sie, was sie über Quellen-Kollaps weiß. Sie antwortet (aus Velmar-Lehre). Er hört zu. Notiert. *„Du hast in sechs Wochen mehr verstanden als die Velmar-Hochbinder in zwanzig Jahren."* Sie weiß, dass das übertrieben ist. Aber sie hört es, und etwas in ihr nimmt es. Setup für die Bekehrung.
+
+POV-Wahl: Alphina.
+
+### Kap. 32 — Alphina (S. 580–600, ~5.000 Wörter)
+*Mar-Keth-Geständnis. Fassade.*
+
+**Das Geständnis** (Fassade — was er in B2 sagt, ist nicht die volle Wahrheit, kommt in B3):
+
+Vor neun MZ-Jahren. Mar-Keth-Quelle, von Velmar verwaltet, schwächer geworden über das letzte Jahrhundert. Varen war damals Velmar-Forscher, Haus Keth, Stufe 5 in Druckmagie und Bindungsmagie, Stufe 6 in Quellenforschung. Sein Leylinien-Experiment war von Velmar genehmigt — drei Quellen koppeln, das System schlug durch. **Drei Quellen tot, ~200.000 Menschen heimatlos.** Velmar hat ihn verdeckt ausgestoßen — *„um die Velmar-Kaste vor Imageschaden zu schützen"*. Andere Fraktionen wissen seinen Namen nicht. Krieg brach aus, weil Thar die Explosion als Bund-Angriff las.
+
+*„Was ich seitdem versucht habe: das wieder zu reparieren. Ich habe Methoden entwickelt, tote Quellen zu reaktivieren — kurz, unzureichend, aber sie pulsieren wieder. Ich brauche eine Resonanz, die azyklisch ist. Thalassische Resonanz. Du."*
+
+Alphina hört zu. Sie sieht keine Lüge. (Und tatsächlich: in B2 sagt er **die halbe Wahrheit** — das Experiment hat es gegeben, die Quellen sind tot, sie waren ein Fehler. Die volle Wahrheit kommt in B3-K77: er hat das Experiment **nicht aus Forschung** gemacht, sondern als Machtgriff gegen Velmar, der schiefging. Plus er hat Sorel kalkuliert sterben lassen, hat die Falle in Vael bewusst auf vier Resonanzen ausgelegt, hat Ritual-Plan für Vier-Thalassier-Absorption.)
+
+**Sie glaubt ihm.** Nicht weil er charmant ist. Weil sie **glauben will.** Sie hat selbst eine Quelle getötet (Halvara-Kel). Sie braucht eine Rechtfertigung — wer Quellen tötet, kann nicht nur Hass sein. Wenn sie Quellen reparieren kann, ist sie nicht nur Täter, sondern Täter-mit-Erlösung.
+
+POV-Wahl: Alphina.
+
+### Kap. 33 — Vesper (S. 600–618, ~4.500 Wörter)
+*Velmar-Verstoßener-Spur über Nyr-Beziehungen.*
+
+Vesper und Nyr haben über zwei Wochen Spitzel-Berichte aus Velmar bekommen. Drei Quellen, alle übereinstimmend: Vor neun MZ-Jahren ein verdeckter Velmar-Auswurf, Haus Keth, Forscher mit Hauptlinien Druck und Bindung, Mar-Keth-Verbindung. **Name nicht überliefert** — Velmar hat den Namen aus den Akten radiert. Aber: ein älterer Velmar-Diener erinnert sich an einen Forscher mit *„purpurnen Augen, Mitte vierzig damals, jetzt wäre er Mitte fünfzig"*. Plus eine Beschreibung des Mantel-Schnitts.
+
+Vesper rechnet: das passt zu der Gestalt aus K27. Er hat die Identität jetzt — Haus Keth, Velmar-Verstoßener, namenlos. Er gibt der Figur einen Arbeitsnamen für interne Notizen: *„der Verstoßene"*. Den vollen Namen werden sie in Akt IV von Marens Brief-Spur erfahren (B3). Hier noch nicht.
+
+Plus: er kombiniert das mit der Talven-Spur. Talven war in Velmar-Stadt, wurde abgewiesen. Bund-Lehrling, der Velmar-Bindungsmagie studieren wollte. Vesper ahnt, dass das eine Untersaite ist — er notiert, gibt es nicht weiter. Talvens Bogen folgt B3.
+
+POV-Wahl: Vesper. Strategischer Fortschritt der B-Linie.
+
+### Kap. 34 — Alphina (S. 618–636, ~4.500 Wörter)
+*Hoffnungs-Betrug. Erste „Reparatur"-Skizze.*
+
+Varen zeigt Alphina seine Notizen zur Quellen-Reparatur. Er hat über fünf MZ-Jahre Daten gesammelt — alleinreisend, manchmal an toten Quellen, manchmal an überladenen. Seine Skizze:
+
+1. **Resonanz-Träger spürt die tote Quelle** (Stelle, Tiefe, Form).
+2. **Resonanz-Pulse** werden in die Quelle injiziert — kurze, präzise Stöße, nicht Überladung.
+3. **Quelle reagiert mit Eigen-Pulsen.** Wenn die Frequenz stimmt, beginnt sie zu pulsieren.
+4. **Stabilisierung** über mehrere Sitzungen.
+
+Was er ihr nicht sagt: ein einzelner Puls hält nicht lang (Tage), für dauerhafte Versorgung bräuchte man hundert Thalassier über Generationen — energetisch unerreichbar (`10-magie-system.md` Sektion „Quellen-Reparatur"). Er verschweigt diese Unmöglichkeit. Sie glaubt, sie sind Pioniere. **Hoffnungs-Betrug** als Kern-Mechanik.
+
+**Sie schlägt vor, die erste Reparatur an Halvara-Kel zu versuchen** — die Quelle, die sie selbst getötet hat. Sie will es wieder gut machen. Varen nickt langsam: *„In drei Wochen, wenn du genug Kraft hast. Halvara-Kel ist Bund-Thar-Niemandsland — wir kommen rein."*
+
+POV-Wahl: Alphina.
+
+### Kap. 35 — Alphina (S. 636–656, ~5.000 Wörter)
+*Vier-Thalassier-Liste in Varens Unterlagen.*
+
+Alphina blättert eines Abends in Varens Bibliothek — er ist in Velmar-Stadt für Material-Einkauf, lässt sie alleine mit dem Halsband (Velmar-Sigil reagiert auf Distanz, sie kann Torkal nicht verlassen, aber das Anwesen ja). In einer Schublade, in einer Ledermappe: ein Bogen mit **vier Namen plus Resonanz-Profile**:
+
+- *Alphina (Pflanzen, azyklisch, Stufe ?)*
+- *Sorel (Licht, azyklisch, gestorben)*
+- *Vesper (Zeit/Muster, azyklisch, Stufe ?)*
+- *Maren (Wasser, azyklisch, Stufe ?)*
+- *Runa Kvist (Feuer, azyklisch, Stufe ?)* — **fünfte Zeile durchgestrichen** mit Notiz: *„unerwarteter Mitreisender, nicht im Plan"*
+
+Alphina liest das, versteht nicht ganz. Es ist eine Liste, die wie ein Forschungs-Verzeichnis aussieht. Sie legt das Blatt zurück. **Sie sagt es Varen nicht.** Sie schiebt es in die Schublade ihres Kopfes als „später nachfragen" — und vergisst es bald, weil der Hoffnungs-Betrug nach Halvara-Kel aktiv ist. **Tschechow für B3** (Vesper findet diese Liste in B3-Akt-III als Ritual-Kalkül-Beweis).
+
+Gleichzeitig: Varens echter Plan ist nicht in dieser Liste explizit. Die Liste ist Vermächtnis-Doku — er hat sie für sich selbst geschrieben, als Erinnerung an seine ursprüngliche Auswahl in Vael. Der Ritual-Plan wird in B3 enthüllt.
+
+POV-Wahl: Alphina.
 
 ---
 
-## Tschechow'sche Waffen — Finale Buch 2
+## Interludium 7 — Varen (~S. 656, ~2.500 Wörter)
+*Was er denkt. Wofür das alles ist.*
 
-| Detail aus Akt I/II/III | Feuert in Akt IV |
-|------------------------|------------------|
-| Vier rote Markierungen (Akt III) | Kap 31/32 — Varens Geständnis. Drei seine, eine ihre. Die Spiegelung |
-| „Vierhundert Menschen" (Akt III) | Kap 31 — Die Zahl wird Alphinas Maß |
-| Dornen statt Farne (Buch 1) | Kap 38 — Sex mit Varen. Zwei Täter die sich erkennen |
-| Alphinas Schlaf-Haine | Kap 34/34 — Sie wachsen auch in Ketten. Varen beobachtet |
-| Varens altes Thalassisch | Kap 31 — Er legt die Maske ab. Eloquenz, keine Rhetorik |
-| Varens Resonanz-Anker (NEU) | Kap 38 — Sex platziert den Anker. Feuert in B3 Akt III |
-| Varens Vier-Thalassier-Ritual-Liste (NEU, Kap 36) | B3 Akt III — Alphina findet die Liste. Bereit sie zu opfern |
-| Runas Brief mit Farn (NEU, Kap 41) | Kap 42 — Sie reißt den Namen raus. Behält den Farn |
-| „Seit wann nimmst du Befehle?" (Akt III) | Kap 42 — Runas letzte Erinnerung |
-| Marens Wasserweg (Akt II/III) | Kap 39/38 — Sie findet den echten Rückweg |
-| Vespers Zeitlinien | Kap 42 — Er sieht Varens Anker, weiß: Heute nicht |
-| Kessler (Nyrs Bestie) | Kap 42-42 — Erste schwere Wunden |
-| Runas Presse in Moragh-Metall | Off-screen Akt IV — druckt. Ab B3: zweisprachig, Waffe |
-| Varens Wort an Sorel (Buch 1) | Kap 31 — Brennt noch. Alphina erwähnt es nicht |
-| Halvara-Kel (Alphinas tote Quelle, B2-Akt III) | Kap 38 — Erste Reparatur-Ziel in B3 |
-| Varens Manipulation Draels (off-screen) | B3 Akt III — Enthüllung: er hat Draels Quellen-Auswahl via Schemen beeinflusst |
-| Varens Charakter (eloquent, gutaussehend, älter) | Durchgehend — der Leser muss verstehen warum Alphina **wirklich** fällt |
+Varen-POV. Allein in Velmar-Stadt, nach dem Material-Einkauf. Er sitzt in einer Pension, schreibt in sein Notizbuch.
+
+Was er denkt: Alphina ist die fähigste Resonanz, die er je getroffen hat. Sie hat nach sechs Wochen Velmar-Lehre verstanden, was Hochbinder in zwanzig Jahren nicht verstehen. Wenn er ihre Resonanz **stabil ablenken** kann (was er nicht kann — Variante C der Halsband-Drainage greift nur in seinen Aktivierungs-Phasen, sie spürt nichts im Alltag), wäre sie der Schlüssel zu seinem Ritual.
+
+Sein Ziel: die Portal-Quelle dauerhaft kontrollieren. Vier Thalassier-Resonanzen werden ihm im Ritual übertragen. Er wird Portal-Monopolist + preisfreier Magier. Übertrumpft die Velmar-Kaste technisch (Rache an seiner Verstoßung). Wird Gatekeeper der Welten.
+
+Was er nicht denkt: dass er Alphina möglicherweise wirklich respektiert. Er notiert sich diese Möglichkeit als Risiko. *„Funktion: Alphinas Bereitschaft. Faktor: Hoffnung. Nicht: Gefühl."*
+
+POV-Wahl: Varen. Reveal-Vorbereitung für B3 — Leserin sieht in Akt IV nichts vom Ritual-Plan, hier in I7 zum ersten Mal die Schicht darunter angedeutet.
 
 ---
 
-## Ton und Hinweise für die Ausarbeitung
+## Phase 3 — Annäherung + Parallel-Linien (K36–K40)
 
-- **Alphinas Wechsel in sechs Kapiteln** — oszillierend, nicht linear. Je ein Tag, je eine Facette. Keine *„Erkenntnis und dann Frieden."*
-- **Runa und Vesper sehen dasselbe, reagieren anders.** Beide Reaktionen sind richtig für ihre Figur. Kein Urteil im Text.
-- **Das Finale als großes Kapitel (K45, ~17.000 W)** — vier POVs, jeder etwa 4.000 W, plus verwebende Schluss-Szene. Filmisch.
-- **Varens Manipulation** bleibt subtil. Der Leser sieht Spuren (Zapf, Anker, sein POV-Kalkül) — die Enthüllung kommt erst in B3. B2 endet in Ruhe unter Lüge.
-- **Varen als Figur:** Eloquent, wissbegierig, gutaussehend, älter. Er ist ein **würdiger** Antagonist — keine Karikatur. Der Leser muss verstehen warum Alphina fällt. Echte Bewunderung + echter Anker = echte Tragödie.
-- **Maren-Abschied in der Mitte**, nicht am Ende. Das macht das Finale dichter (alle Aufmerksamkeit auf Sulkara).
-- **Keine heilige Versöhnung am Ende.** Alle sind getrennt, alle tragen etwas Zerbrochenes. B3 beginnt mit vier offenen Enden.
+### Kap. 36 — Alphina (S. 660–680, ~5.000 Wörter)
+*Erste Reparatur-Sitzung Halvara-Kel.*
+
+Drei Wochen nach Sulkara — Wartephase, Alphina übt Pulse mit kleinen toten Pflanzen-Substraten. Varen nimmt sie mit nach Halvara-Kel — die Stadt ist evakuiert, Bund-Thar-Niemandsland, leer von Magie-Tragenden. Sie reisen mit zwei Velmar-Deserteuren als Eskorte (Stille bewahrt).
+
+Sie legen die Hände auf den ausgelaugten Fels über dem ehemaligen Quellpunkt. Alphina injiziert Pulse, präzise, kontrolliert (Velmar-Lehre zahlt sich aus). **Die Quelle zuckt** — drei Atemzüge lang ein Pochen, Wärme kehrt in den Stein zurück. Alphina lacht erstmals seit Sorels Tod — überrascht von sich selbst.
+
+**Halsband-Drainage aktiv (Variante C):** Während der Sitzung aktiviert das Velmar-Sigil seine Drainage. Sie spürt Wärme zwischen den Schulterblättern, deutet sie als Reparatur-Resonanz (Varen lässt sie das glauben — *„Quelle gibt zurück"*). Der Überschuss fließt in Varens Speicher, ohne dass sie es weiß. Nach der Sitzung ist sie ungewöhnlich erschöpft, schläft 14 Stunden. Sie deutet das als Preis der Reparatur.
+
+POV-Wahl: Alphina.
+
+### Kap. 37 — Alphina (S. 680–700, ~5.000 Wörter)
+*Sex mit Varen — Hingabe an die Mission.*
+
+Drei Wochen nach K36, in Torkal. Sie hat ihn jetzt wirklich kennengelernt — gemeinsame Mahlzeiten, lange Gespräche über alte thalassische Texte, gemeinsame Skizzen an der Karten-Wand. Sie respektiert seine Eloquenz, seinen Kopf, seine Hände. Sie versteht, dass sie ihn nicht liebt wie Sorel — aber sie braucht etwas, das sie an ihn bindet, etwas, das die geteilte Schuld (vier tote Quellen, drei seine, eine ihre) zu mehr macht als zu Worten.
+
+**Sex.** Sie initiiert. Sie führt — nicht aus Macht, sondern aus Klarheit. Dornen aus Boden, Steinritzen, Decke — schwarz, scharf, dicht. Keine Farne, keine Zärtlichkeit: Kontrolle durch Erkenntnis. Halsband bleibt am Hals (Stahlring matt-violett zwischen ihnen, sie spürt ihn beim Küssen, er stört sie nicht — sie hat es als Schmuck akzeptiert). Variante C: Drainage **nicht aktiv** in dieser Szene. Varen aktiviert das Sigil im Sex nicht — er respektiert die Grenze (oder will sie nicht warnen).
+
+Sie liest die Geste der nicht-aktiven Drainage als Vertrauen. Bei Sorel war Sex Vertrauen-durch-Loslassen, bei Varen ist es Vertrauen-durch-Bündnis. Schwarze Wurzeln unter dem Bett. Er registriert die Farbe und sagt nichts. Er weiß, dass „Moragh macht sie zu einer von uns" die Erklärung ist, die alle Ehrlichkeit erzwingen würde — er stellt die Frage nicht.
+
+**Tschechow B3:** Die schwarzen Dornen-Wurzeln sind die ersten echten Spuren ihrer Drift. Sie wird sie in B3 wiedererkennen, wenn sie versteht, was Varen ist.
+
+POV-Wahl: Alphina.
+
+### Kap. 38 — Runa (S. 700–718, ~4.500 Wörter)
+*Suche. Hinweise verdichten sich.*
+
+Runa hat den Bund-Lazarettaufenthalt hinter sich, ist nach Halvaren zurück. Sie druckt weiter zweisprachige Bulletins, sucht aber im Hintergrund nach Spuren von Alphina. Drael akzeptiert ihre Anwesenheit — sie ist nützlich für Bund-Propaganda (Druckerin mit Resonanz, sichtbares Symbol).
+
+**Hinweis verdichtet sich:** Ein Bund-Schmuggler erzählt ihr beim Bier von einer freien Stadt im Südwesten — Torkal. Dort soll seit Wochen ein hochrangiger Velmar-Mann sitzen, nicht offiziell, mit einer Begleiterin, die er als „Schwester" einführt aber nicht so wirkt. Die Begleiterin ist groß, hat dunkles Haar, geht mit Halsband. Runa friert. *„Wann hast du sie gesehen?"* — *„Heute Morgen. Auf dem Markt."*
+
+Sie schreibt Vesper. *„Torkal. Sie ist dort. Was tun wir?"*
+
+POV-Wahl: Runa.
+
+### Kap. 39 — Maren (S. 718–740, ~5.500 Wörter)
+*Wasserweg-Riss bei Dravek. Solo-Durchgang. Vesper-Abschied.*
+
+Maren ist seit drei MZ-Wochen am Steinplatz Dravek. Sie hat über Land aus Halvaren gereist (vier Wochen Marsch durch Bund-Gebiet), Elke ist zwischenzeitlich von Halvaren nach Dravek gezogen (Front-Nähe Halvarens machte Halvaren unsicher) — sie wohnt jetzt in einem Haus am Stadtrand Draveks und hat das versiegelte Bündel von Maren bei sich. Maren übergibt es ihr offiziell, mit Anweisung *„Unter den Stein, wo nichts wächst — falls eine von ihnen je danach fragt"*. Elke nimmt es ohne Frage. Tschechow B3.
+
+Maren hat den Wasserweg-Riss zwei MZ-Wochen lang beobachtet. Er öffnet sich unregelmäßig — alle 3 bis 5 Tage für 4:33. Genau lange genug für einen Durchgang. Sie hat berechnet, was sie an Magie-Resonanz mitbringen muss, um durchzugehen — allein ist es knapp. Aber sie schafft es.
+
+**Vesper-Abschied** (heimlich): Vesper hat von Nyr Erlaubnis bekommen, allein zu reisen — sie reitet mit kleiner Eskorte (durch Konglomerats-Schmuggler-Routen). Drei Tage vor Marens geplantem Durchgang trifft er sie am Wasserweg-Riss, abends. Sie schweigen erst eine Weile. Dann sagt er: *„Du gehst wirklich."* Sie: *„Ja."* Er: *„Ich komme nicht mit."* Sie: *„Ich weiß."*
+
+Er gibt ihr drei Sachen mit: einen kleinen Apparat (Zeit-Mess-Werkzeug, das er gebaut hat), eine Liste mit Daten (Moragh-Monatsnamen, Quellen-Positionen, alles was sie in Thalassien als Wissen brauchen wird, wenn sie eine Forschungs-Gesellschaft gründet), und einen Brief in versiegelter Hülle *„nur an Alphina, falls sie je hierher kommt — sie wird nicht, aber falls"*. Sie nimmt es. Sie umarmen sich. Kein Kuss — der wäre zu viel.
+
+**Durchgang.** Riss öffnet sich am dritten Tag um 4:23 morgens. Maren tritt durch. Hinter ihr in Moragh: Elke, Vesper, der nasse Stein. Vor ihr in Thalassien: die Grauwe vor Vael, eine kalte Mai-Nacht im Jahr 1987 TZ. Sie steht knietief im Wasser, der Mond ist da, der Steinkreis hinter ihr ist tot. Sie geht ans Ufer.
+
+**Tschechow B3:** Was in Thalassien passiert (Marens SFG-Gründung, ihr Tod 2037 TZ beim Verwüster-Angriff) erfährt die Gruppe in B3 von der Ersten Expedition — Tyra Halvard hat das Vermächtnis.
+
+POV-Wahl: Maren. Letztes B2-Kapitel mit ihrem POV.
+
+### Kap. 40 — Vesper (S. 740–760, ~5.000 Wörter)
+*Aftermath Marens Durchgang. Vier-Thalassier-Logik, Tarnung.*
+
+Vesper kehrt zur Thar-Splittergruppe zurück. Maren ist weg. Er trauert nicht öffentlich — Nyr sieht es trotzdem. Sie sagt nichts.
+
+**Strategie-Update:** Runas Brief aus K38 ist da. *Torkal*. Die Vier sind jetzt verteilt auf vier Standorte — Alphina in Torkal, Vesper bei Thar, Runa in Halvaren, Maren in Thalassien. Vesper rechnet: Varen hat sie nicht alle vier, aber Varen hat den Wert der vier verstanden (Vesper ahnt das aus der Velmar-Verstoßener-Forschungslinie — vier Thalassier-Resonanzen sind keine Zufalls-Auswahl). Er wird nach den anderen greifen, wenn er Alphina hat.
+
+**Vesper-Plan:** Nicht jetzt nach Torkal. Erst Bund + Thar koordinieren — Runa beim Bund nutzen (Drael-Linie über sie), Nyr bei Thar nutzen. Wenn beide Fraktionen außerhalb des Krieges koordinieren können, hat Vesper einen Hebel gegen Varen, den der nicht sieht. Setup für Phase 4.
+
+POV-Wahl: Vesper.
 
 ---
 
-## B3-Vorschau (wichtige Setups)
+## Phase 4 — Schutz + Sulkara-Aufmarsch (K41–K43)
 
-- **Epilog B3:** Alphina + Vesper besuchen Runa + Nyr in **Halvek-Mar** (freie Südküsten-Stadt). Emotionale Szene — siehe Hinweis unten.
-- Varen muss in B3 Akt II anfangen zu driften. Seine Eloquenz wird zum Mittel, Alphina weiter zu binden. Seine Wissbegier wird Hunger — er beginnt, Resonanz zu ernten, nicht nur zu reparieren.
+### Kap. 41 — Alphina (S. 760–778, ~4.500 Wörter)
+*Sulkara-Mission. Varen erklärt die Schutz-Logik.*
+
+Varen kommt mit einer Karte. **Sulkara** — Thar-Stadt, ~12.000 Einwohner, mittelstarke Quelle, eine Bund-nahe Front. Varen erklärt: ein Bund-Faktion innerhalb der Bund-Politik will Sulkara-Quelle absichtlich überladen lassen, als Demonstrations-Akt, um Thar zu zwingen, weitere Stadt-Aufgaben zu unterzeichnen. **Politisches Manöver, nicht militärische Notwendigkeit.** Wenn die Sulkara-Quelle kippt, sterben 12.000 Menschen-Lebensgrundlagen — und die Bund-Faktion gewinnt politisches Kapital.
+
+Varen zeigt ihr abgefangene Bund-Korrespondenz (echt, er hat seine Spitzel). Sie liest. *„Wir können das verhindern. Du und ich. Wir gehen nach Sulkara, wir richten einen Schutzring um die Quelle — du absorbierst die Überladung, bevor sie kippt. Quelle bleibt intakt. Stadt überlebt."*
+
+**Sulkara-Mechanik = Schutz vor Überladung.** Quelle ist intakt — soll nicht durch politisches Spiel gekippt werden. Alphina nimmt sich nicht als Reparatur-Pionierin wahr (das war K36-Halvara-Kel, mit nur kurzem Erfolg), sondern als Schutz-Akt — präventiv, defensiv, gut.
+
+**Sie nimmt an.** Hoffnungs-Betrug funktioniert: sie sieht sich als jemand, der Leben rettet. Sie weiß nicht, dass Varen das eigentliche Ziel hat, ihre Sichtbarkeit auf einer Schlacht zu inszenieren — er braucht **Zeugen**, die sie auf seiner Seite kämpfen sehen, damit ihre Rückkehr zur Bund-Seite politisch unmöglich wird (sie wäre Verräterin sobald öffentlich gesichtet).
+
+POV-Wahl: Alphina.
+
+### Kap. 42 — Vesper (S. 778–796, ~4.500 Wörter)
+*Bund + Thar koordinieren erstmals. Vesper als Mediator.*
+
+Vesper erreicht Drael über Runa und einen Schmuggler-Kanal. Er liefert Drael die Velmar-Verstoßener-Logik (ohne Namen, nur Profil). Drael hört zu. Liefert in Gegenzug die abgefangene Bund-Faktions-Korrespondenz zur Sulkara-Operation (Drael ist gegen die Faktion innerhalb des Bundes, weil Quellen-Politik außer Kontrolle gerät — er ist Stratege, nicht Faktions-Politiker). **Drael und Nyr stimmen einer Notbündnis-Idee zu** — beide Fraktionen schicken eine Beobachtungs-Vorhut nach Sulkara, ohne offiziellen Krieg zu unterbrechen. Sie wollen sehen, was passiert. Wenn Varen mit Alphina dort auftaucht, haben beide Fraktionen ihre eigene Aufzeichnung.
+
+Vesper reist mit Nyr Richtung Sulkara. Runa marschiert mit der Bund-Vorhut von Halvaren nach Sulkara. Erste Mal seit B1-K39, dass die drei Vier-Mitglieder (ohne Maren) in dieselbe Richtung reisen. Tschechow für ihr Wiedersehen — aber nicht heute.
+
+POV-Wahl: Vesper.
+
+### Kap. 43 — Runa (S. 796–814, ~4.500 Wörter)
+*Mit Bund-Vorhut Richtung Sulkara. Vorbereitungen.*
+
+Runa marschiert mit der Bund-Vorhut Richtung Sulkara (drei Tage Marsch von Halvaren, durch Bund-Land). Sie kennt das Ziel: ein Schutz-Manöver gegen eine Bund-Faktion, die Sulkara-Quelle politisch instrumentalisiert. Drael hat ihr gesagt, dass Alphina eventuell an Varens Seite auftauchen wird — Runa ist darauf nicht vorbereitet, aber sie geht trotzdem.
+
+**Innerlich:** Sie hofft, Alphina wird nicht da sein. Sie hofft, das Bund-Faktions-Manöver wird scheitern auch ohne Varen. Sie hofft, dass Vesper recht hat (Varen ist der Velmar-Verstoßene, alles passt zusammen). **Aber sie weiß nicht, was sie tut, wenn sie Alphina kämpfen sieht.** Auf Varens Seite. Gegen ihre Bund-Eskorte. Gegen Runa selbst.
+
+Sie schreibt sich nachts im Zelt eine Notiz: *„Wenn sie es wirklich tut, lasse ich sie. Dann hat sie sich entschieden. Ich bleibe Druckerin. Ich kämpfe nicht gegen sie."* Sie zerreißt die Notiz. Schreibt eine zweite: *„Wenn sie es wirklich tut, schreibe ich es auf. Damit jemand es weiß."* Diese behält sie.
+
+POV-Wahl: Runa.
+
+---
+
+## Phase 5 — Sulkara + Cliffhanger (K44–K46)
+
+### Kap. 44 — Alphina (S. 814–840, ~6.500 Wörter)
+*Sulkara-Schlacht. Alphina an Varens Seite.*
+
+Sulkara-Vorfeld. Bund-Faktions-Magier haben einen Überladungs-Ring um die Quelle gelegt — sechs Magier, koordiniert, geben Resonanz-Pulse direkt in die Quelle, die sie schon nach 12 Stunden kippen ließe. Varen und Alphina + Velmar-Deserteure-Eskorte greifen den Ring an. Bund-Faktions-Magier verteidigen. Im Hintergrund: Drael-Vorhut + Nyr-Thar-Vorhut beobachten aus Distanz.
+
+**Alphina kämpft an Varens Seite.** Dornen-Hecken durch Bund-Faktions-Magier. Sie verletzt — tötet — Bund-Magier, die die Quelle absichtlich kippen wollten. Sie sieht sich als Schutz-Akteur. Variante C: Halsband-Drainage **aktiv** — Varen aktiviert das Sigil während der Schlacht, weil er ihren Resonanz-Spike braucht für den Schutz-Akt. Sie deutet die Wärme zwischen den Schulterblättern als Adrenalin. Schlachtfeld verträgt keine Diagnostik.
+
+**Schutz-Akt funktioniert:** Alphina absorbiert die Überladungs-Pulse und leitet sie in die Erde unter der Quelle. Die Quelle bleibt intakt. Sechs Bund-Faktions-Magier tot, vier verletzt. Die Bund-Faktion verliert ihr politisches Manöver.
+
+POV-Wahl: Alphina. Triumph aus ihrer Sicht.
+
+### Kap. 45 — Runa (S. 840–862, ~5.500 Wörter)
+*Runa sieht Alphina kämpfen. Brand-Schemen-Wunden.*
+
+Runa erreicht das Sulkara-Vorfeld mit der Bund-Vorhut, kurz nach K44. Schlachtfeld ist heiß — die Bund-Faktions-Toten liegen in Dornen-Käfigen, Erde verbrannt, Velmar-Deserteure ziehen ab. Aus zweihundert Metern Entfernung sieht Runa Alphina an Varens Seite stehen. Halsband am Hals. Sie spricht mit ihm, lächelt. Varen legt eine Hand auf ihre Schulter.
+
+**Runa sieht es und kann nicht atmen.** Das ist nicht Captivity. Das ist Wahl. Alphina hat sich entschieden.
+
+**Brand-Schemen-Angriff:** Eine Restgruppe Bund-Faktions-Magier hat noch Schemen aktiviert. Sie greifen Bund-Vorhut an, Runa kämpft mit Feuer-Resonanz. **Schemen mit Brand-Talent** überträgt Hitze-Wirkung zurück auf sie — sie bekommt Brandnarben am Arm und an der Schulter (Pflanzen-Wunden zusätzlich aus K27 Halvara-Kel verheilen noch nicht). Sie tötet zwei Schemen, der Rest verschwindet mit den Bund-Faktions-Magiern.
+
+Sie schaut nach Sulkara. Alphina ist weg. Varen auch. Kein Wiedersehen.
+
+Sie schreibt nachts: *„Sie hat sich entschieden. Ich bleibe Druckerin. Ich schreibe es auf."* Diese Notiz behält sie. Tschechow für B3.
+
+POV-Wahl: Runa. Schock, Klärung, Selbst-Definition.
+
+### Kap. 46 — Vesper (S. 862–900, ~9.000 Wörter)
+*Cliffhanger. Vesper sieht Tyra Halvard am Steinplatz Dravek.*
+
+Vesper ist mit Nyrs Thar-Vorhut nach der Sulkara-Schlacht weiter Richtung Westen geritten — er hat Nyr überzeugt, den Steinplatz Dravek zu inspizieren, weil seine Zeit-Resonanz dort Anomalien spürt. Sie reisen über zwei MZ-Wochen, Sulkara und Halvara-Kel hinter sich.
+
+**Vesper am Steinplatz Dravek.** Nyr und drei Thar-Wachen mit ihm. Es ist Nacht, Mond-Licht, der Steinkreis liegt ruhig. Vesper legt seine Hand auf einen der sieben Purpursteine — und spürt eine **andere Resonanz**, die nicht zu Moragh-Magie gehört. Frequenz: Schall. Azyklisch. Thalassisch. Jemand auf der anderen Seite hat eine Schall-Resonanz, ist aktiv, misst. Er rechnet die Zeit-Verschiebung zurück: das, was er jetzt spürt, geschieht in Thalassien etwa in den 2020er TZ-Jahren.
+
+**Lichtblitz.** Steinkreis öffnet sich für 4:33 — nicht durch Marens Vorbereitung, sondern durch ein **technisches Ritual auf der anderen Seite**. Eine Frau tritt durch — etwa dreißig, dunkelhaarig, in praktischer Kleidung (1820+ Thalassien-Mode), mit einem ledergebundenen Heft unter dem Arm. Auf dem Heft: das Sigel der **Schwellenforschungsgesellschaft** (Maren-Vermächtnis, sichtbar nach Generationen). Sie schaut sich um, sieht nichts (der Steinplatz ist von außen leer, Vesper und Thar-Wachen aus 50 Metern beobachten verdeckt). Sie sagt zu jemandem hinter sich: *„Vier Sekunden Verzögerung. Notiert."* Vier weitere treten durch. Insgesamt fünfzehn — Wissenschaftler, gemäßigt bewaffnet, keine Soldaten.
+
+**Thar-Wachposten** (eine Patrouille der Thar-Front, nicht Vespers Eskorte) entdeckt sie und vereinnahmt sie — Thar handelt schnell, nimmt sie in Gewahrsam. Tyra (die Heft-Frau) wird isoliert (Linguistin = wertvoll), die anderen werden in Verhörzellen gebracht. Thar-Wachen sehen Vespers Vorhut nicht — er bleibt verdeckt, nimmt Nyrs Hand, sie gehen still zurück.
+
+**Vesper weiß:** Marens Vermächtnis ist sichtbar geworden. Generationen nach ihrem Durchgang. Erste Expedition. Sie werden in B3 die Verbindung suchen.
+
+**Letzter Beat B2:** Vesper auf seinem Pferd, Mond hinter ihm, Steinplatz hinter ihm, die Stimme der Heft-Frau noch im Ohr. *„Vier Sekunden Verzögerung."* Er denkt: *„Maren, du bist drüben angekommen. Du hast es geschafft. Wir sehen es jetzt."* Er sagt es nicht laut.
+
+**Akt-IV-Schluss. Buch-2-Schluss.**
+
+POV-Wahl: Vesper. Cliffhanger trägt seine Schach-Logik weiter in B3.
+
+---
+
+## Tschechow'sche Waffen Akt IV
+
+| Detail | Akt IV | Feuert in |
+|---|---|---|
+| Velmar-Lederhalsband mit Sigil | K28 | B3 (Vespers Helm sieht Sigil pulsen, K77 Halsband-Bruch im Duell) |
+| Karten-Wand vier Markierungen | K31 | B3 Akt I (Reparatur-Reise zu allen vier Quellen, jede stirbt wieder) |
+| Mar-Keth-Geständnis (Fassade) | K32 | B3 K77 (volle Wahrheit: Machtgriff statt Forschung) |
+| Vier-Thalassier-Liste in Schublade | K35 | B3 Akt III (Vesper findet sie als Ritual-Kalkül-Beweis) |
+| I7 Varen-POV: Ritual-Plan-Andeutung | I7 | B3 Akt III/IV (Ritual-Reveal vollständig) |
+| Halsband-Drainage Variante C | K36 | K44 (Schlacht-Aktivierung), B3 (Sitzungen über Monate) |
+| Schwarze Dornen-Wurzeln Sex | K37 | B3 Akt III (Alphina erkennt Drift-Spur) |
+| Marens versiegelter Brief unter Stein | K39 | B3 Akt II (Alphina findet nach Elkes Tod) |
+| Vespers Apparat + Datenliste an Maren | K39 | B3 (über Tyra-Brücke ins Institut, Verwüster-Reaktion) |
+| Sulkara als Schutz-Schauspiel | K41-K44 | B3 (Alphina erkennt: ihre öffentliche Sichtbarkeit war gewollt) |
+| Runas zweite Notiz „Ich schreibe es auf" | K45 | B3 Akt I/II (Druckerei-Untergrund-Kanal) |
+| Tyra mit SFG-Heft am Steinplatz | K46 | B3 Akt I/II (Tyra wird Brücke zu Maren-Vermächtnis) |
+| Thar-Wachposten vereinnahmt Expedition | K46 | B3 Akt II (11 Forscher tot, 2 verschwunden, Tyra überlebt isoliert) |
+
+## Cross-POV-Anker
+
+- **Alphina-Linie:** K28 (Captivity) → K31-K35 (Bekehrung) → K36-K37 (Annäherung) → K41-K44 (Sulkara-Schutz, kämpft mit Varen sichtbar) → B3 Akt I (in Torkal mit Varen)
+- **Vesper-Linie:** K30 (Logik-Kette) → K33 (Velmar-Verstoßener-Profil) → K39 (Maren-Abschied) → K40 (Strategie-Update) → K42 (Bund-Thar-Koordination) → K46 (Tyra-Sichtung) → B3 (Stratege)
+- **Runa-Linie:** K29 (Aftermath, Brief an Vesper) → K38 (Torkal-Hinweis) → K43 (Bund-Vorhut Richtung Sulkara) → K45 (sieht Alphina an Varens Seite, Brandnarben) → B3 (Druckerei in freier Stadt, Untergrund-Bulletins)
+- **Maren-Linie:** Akt III K21 (Aufbruch) → K39 (Wasserweg-Solo, Vesper-Abschied, Durchgang) → B3 (Vermächtnis über Tyra)
+- **Varen-Linie:** I7 (Plan-Andeutung) → B3 Akt I-II (Reparatur-Tour, Elke-Mord) → B3 Akt III/IV (Ritual-Reveal, Tod)
+- **Tyra-Linie:** K46 (Erst-Sichtung, Thar-Vereinnahmung) → B3 Akt I (isoliert in Thar-Gefangenschaft) → B3 Akt III/IV (Brücke zu Maren-Vermächtnis, Schall-Resonanz erwacht)

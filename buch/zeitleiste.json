@@ -2560,48 +2560,114 @@
       "kapitel_status": "idee"
     },
     {
-      "mz": 0.91,
+      "tz": 604,
+      "tz_sort": 604,
+      "tz_datum": "MZ 0.91 · TZ 604",
+      "welt": "moragh",
+      "pov": "Vesper",
+      "buch": "B2",
+      "kapitel": "14",
+      "leseart": "kapitel",
+      "titel": "Bund-Archiv-Recherche",
+      "detail": "Vesper liest im Bund-Archiv drei Schichten Akten: öffentliche Mar-Keth-Kollaps-Akten (Quellen-Kollaps unbekannter Ursache MZ-5, ~200.000 Tote/Vertriebene); eingeschränkte Bund-Beobachtungs-Akte (verstoßener Velmar-Forscher aus Mar-Keth, namenlos, forscht an Druck und Zeitfeldern, hat Steinplatz mehrfach geöffnet MZ-3 bis -1); sehr alte TZ-154-Akte (vier Fremde aus dem Steinplatz, eine zu Velmar, einer verstoßen, zwei zur Thar). Bund-Beobachter tritt dazu, fragt nach. Vesper muss Information ziehen, nicht nur lesen. Schemen-Schatten zwischen den Regalen am Ende. Vesper trägt Funde zu Alphina.",
+      "typen": [
+        "wissen",
+        "tschechow",
+        "hintergrund"
+      ],
+      "tags": [
+        "archiv",
+        "varen-spur",
+        "schemen-schatten"
+      ],
+      "kapitel_status": "idee",
+      "verweise": [
+        "buch/_klopfung_b2_k1-k22.md",
+        "buch/19-varen.md",
+        "buch/10-magie-system.md"
+      ]
+    },
+    {
+      "tz": 608,
+      "tz_sort": 608,
+      "tz_datum": "MZ 0.98 · TZ 608",
       "welt": "moragh",
       "pov": "Runa",
       "buch": "B2",
-      "kapitel": "14",
-      "leseart": "normal",
-      "titel": "Runas zweisprachige Druckerpresse in Halvaren",
-      "detail": "Runa gründet eine kleine Druckerei in Halvaren — Moragh-Papier, thalassische Lettern, die sie in Moragh-Metall aus der Hand gegossen hat. Sie druckt zweisprachige Flugblätter, dokumentiert, was der Bund-Älteste nicht verbreiten will.",
+      "kapitel": "15",
+      "leseart": "kapitel",
+      "titel": "Runas Druckerei + Bund-Bulletin",
+      "detail": "Runa hat eine kleine Druckerei in Halvaren aufgesetzt — Moragh-Papier, thalassische Lettern, in Moragh-Metall aus der Hand gegossen. Druckt offizielle Bund-Bulletins. Eines lautet: drei Velmar-Sympathisanten in Halvaren entlassen, Verfahren wegen Quellen-Spionage eingestellt — geheim verlegt. Sie sieht: Bund hält Velmar-Sympathisanten ohne Verfahren. Erste eigene Magie-Manifestation: Druckereifeuer biegt sich zu ihrer Hand, als sie wütend ist. Sie zeigt Alphina das Bulletin.",
       "typen": [
-        "hintergrund",
-        "tschechow"
+        "alltag",
+        "resonanz",
+        "hintergrund"
       ],
       "tags": [
-        "Druckerpresse",
-        "Halvaren"
+        "druckerei",
+        "bund-logik",
+        "feuer-resonanz"
       ],
-      "tz": 604,
-      "tz_sort": 604.0,
-      "tz_datum": "MZ 0.91 · TZ 604",
-      "kapitel_status": "idee"
+      "kapitel_status": "idee",
+      "verweise": [
+        "buch/_klopfung_b2_k1-k22.md",
+        "buch/pov/runa.md"
+      ]
     },
     {
-      "mz": 1.05,
+      "tz": 612,
+      "tz_sort": 612,
+      "tz_datum": "MZ 1.05 · TZ 612",
       "welt": "moragh",
       "pov": "Alphina",
       "buch": "B2",
-      "kapitel": "15",
-      "leseart": "normal",
-      "titel": "Bund trainiert Alphina, die Farbe kippt",
-      "detail": "Alphina lernt tagsüber Kontrolle unter Bund-Meistern. Solange sie diszipliniert ist, wächst es grün. Wenn die Wut durchbricht, kippt die Farbe nach schwarz/rot, die Ranken werden dicht wie Drahtseile. Die Meister nennen es »Verunreinigung«.",
+      "kapitel": "16",
+      "leseart": "kapitel",
+      "titel": "Varen-Direkt-Auftritt im Archiv + Elke-Konfrontation",
+      "detail": "Sz1 — Archiv: Alphina allein, geht Vesper-Funden nach. Lampen flackern. Varen tritt zwischen den Regalen heraus, fixiert sie kurz mit Druck-Magie (Lähmung, kein Anker). Geht nah heran, atmet sie. Drei Sätze in altem Thalassisch: »Mar-Keth war ich. Drei Quellen. Zweihunderttausend.« — »Wenn du mehr wissen willst, suche mich bei den Velmar.« — »Aber komm nicht. Ich werde dich nicht beschützen, wenn du kommst. Ich werde dich auch nicht aufhalten.« Geht. Sz2 — Elke-Konfrontation: Elke gesteht, sie kannte Varen, brachte ihm Thalassisch bei, schwieg. Drei Begleiter aus TZ-154 sind tot. Bietet Vermittlungs-Brief an Haus Torven. Alphinas Vertrauen zu Elke bricht erstmals.",
       "typen": [
-        "resonanz",
-        "erkenntnis"
+        "begegnung",
+        "erkenntnis",
+        "schluessel"
       ],
       "tags": [
-        "Farb-Kippe",
-        "grün → schwarz/rot"
+        "varen-direkt",
+        "lockfalle",
+        "elke-mitschuld"
       ],
-      "tz": 612,
-      "tz_sort": 612.0,
-      "tz_datum": "MZ 1.05 · TZ 612",
-      "kapitel_status": "idee"
+      "kapitel_status": "idee",
+      "verweise": [
+        "buch/_klopfung_b2_k1-k22.md",
+        "buch/19-varen.md"
+      ]
+    },
+    {
+      "tz": 616,
+      "tz_sort": 616,
+      "tz_datum": "MZ 1.12 · TZ 616",
+      "welt": "moragh",
+      "pov": "Runa",
+      "buch": "B2",
+      "kapitel": "17",
+      "leseart": "kapitel",
+      "titel": "Alphina+Runa Sex-Szene aus Runas POV — Akt-II-Schluss",
+      "detail": "Nacht auf dem Dach, zwei Monde. Runa-POV: sie sieht Alphinas Halb-Anwesenheit (Sorel-Schatten), sie sieht ihre eigene volle Hingabe, akzeptiert die Asymmetrie. »Bei Sorel hat die Welt geblüht. Bei Runa ist sie still.« als gehörte Asymmetrie. Schemen-Beobachter auf Dach gegenüber, drei Gebäude entfernt — Runa sieht ihn über Alphinas Schulter, schweigt. Akt-II-Schluss.",
+      "typen": [
+        "intim",
+        "erotik",
+        "tschechow"
+      ],
+      "tags": [
+        "fwb",
+        "runa-pov",
+        "schemen-beobachter"
+      ],
+      "kapitel_status": "idee",
+      "verweise": [
+        "buch/_klopfung_b2_k1-k22.md",
+        "buch/pov/runa.md",
+        "buch/pov/alphina.md"
+      ]
     },
     {
       "tz": 618,
@@ -2625,69 +2691,111 @@
       "kapitel_status": ""
     },
     {
-      "mz": 1.26,
+      "tz": 620,
+      "tz_sort": 620,
+      "tz_datum": "MZ 1.19 · TZ 620",
       "welt": "moragh",
       "pov": "Vesper",
       "buch": "B2",
       "kapitel": "18",
-      "leseart": "normal",
-      "titel": "Vesper geht mit Nyr zu den Thar",
-      "detail": "Nyr überzeugt Vesper: »Jedes System hat Fehler. Die Thar benennen ihre.« Er geht mit ihr zu den Thar — bewusste Wahl, nicht Entführung. Er will verstehen, nicht kämpfen, sich weder vom Bund noch von Alphinas Rache instrumentalisieren lassen.",
+      "leseart": "kapitel",
+      "titel": "Nyr kommt als Thar-Emissärin nach Halvaren — Akt-III-Auftakt",
+      "detail": "Nyr kommt als offizielle Thar-Emissärin zur Verhandlung mit Drael nach Halvaren. Vesper erkennt sie aus Narthek-Schlachtfeld (K07). Erste persönliche Gespräche jetzt. Nyr: »Du bist der, der Muster sieht. Die Thar benennen ihre Fehler. Der Bund nicht.« Vesper-Skepsis am Bund beginnt. Akt-III-Auftakt.",
       "typen": [
         "begegnung",
-        "erkenntnis"
+        "verabredung"
       ],
       "tags": [
-        "Kessler",
-        "Thar-Kem"
+        "nyr-vesper",
+        "bund-skepsis"
       ],
+      "kapitel_status": "idee",
+      "verweise": [
+        "buch/_klopfung_b2_k1-k22.md",
+        "buch/11-nyr.md",
+        "buch/pov/vesper.md"
+      ]
+    },
+    {
       "tz": 624,
-      "tz_sort": 624.0,
+      "tz_sort": 624,
       "tz_datum": "MZ 1.26 · TZ 624",
-      "kapitel_status": "idee"
+      "welt": "moragh",
+      "pov": "Maren",
+      "buch": "B2",
+      "kapitel": "19",
+      "leseart": "kapitel",
+      "titel": "Marens Identitäts-Bruch — kein Boot-Wasser auf Moragh",
+      "detail": "Maren in Halvarener Holz-Werkstatt, Brunnen-Hilfe. Schiffbau auf Moragh unmöglich (Tide 20-100m, keine Schifffahrt, keine Häfen). Wasser-Resonanz an Halvaren-Brunnen testet: Wasser antwortet, aber trägt nichts. Stille Erkenntnis: ihre Hände gehören woanders hin. Mit Elke über Karten — Flussbiegung südlich Dravek, wo Wasser stillsteht. Maren spürt: das ist der Wasserweg-Riss. Sieht Vesper mit Nyr im Markt-Saal — konzentriert wie früher bei ihr. Bund-Soldaten verprügeln Velmar-Sympathisant auf der Straße, Maren sieht es, geht weiter (Gast, nicht Bürgerin). Schemen-Schatten zwischen Wäschestücken. Drift sichtbar.",
+      "typen": [
+        "alltag",
+        "erkenntnis",
+        "tschechow"
+      ],
+      "tags": [
+        "identitaets-bruch",
+        "wasserweg",
+        "vesper-drift",
+        "tide"
+      ],
+      "kapitel_status": "idee",
+      "verweise": [
+        "buch/_klopfung_b2_k1-k22.md",
+        "buch/00-welt.md",
+        "buch/pov/maren.md"
+      ]
     },
     {
-      "mz": 1.33,
+      "tz": 628,
+      "tz_sort": 628,
+      "tz_datum": "MZ 1.33 · TZ 628",
       "welt": "moragh",
       "pov": "Alphina",
       "buch": "B2",
-      "kapitel": "19",
-      "leseart": "normal",
-      "titel": "Dorf-Desaster durch Schlaf-Hain",
-      "detail": "Bund-Vorführung in einem Dorf drei Stunden von der Stadt. Alphina pflanzt tagsüber einen Baum in zehn Minuten. Nachts im Gasthaus schläft sie. Am Morgen ist das halbe Dorf überwuchert — Farne durch Fenster, Moos über Dächer. Die Bewohner evakuieren vor ihr.",
+      "kapitel": "20",
+      "leseart": "kapitel",
+      "titel": "Drael-Pakt + Ablehnung — Aufbruch nach Velmar",
+      "detail": "Drael lädt Alphina ein. Bietet höflich-warm einen Pakt: bleib in Halvaren, der Bund stellt dir Forschungs-Ressourcen, Schutz, festen Platz — im Gegenzug deine Resonanz gegen die Thar. Alphina lehnt ab. Drael (kalt): »Dann bist du eine Last für uns. Wir können dich nicht ewig hier ernähren.« Doppelte Motivation für Aufbruch: Varens Tipp aus K16 + Bund-Werkzeug-Logik. Alphina geht zu Runa: »Wir gehen. Velmar.« Runa: »Ich folge dir.«",
       "typen": [
-        "resonanz",
-        "erkenntnis"
+        "begegnung",
+        "schluessel"
       ],
       "tags": [
-        "Dorf überwuchert"
+        "drael-pakt",
+        "scheidepunkt",
+        "velmar-aufbruch"
       ],
-      "tz": 628,
-      "tz_sort": 628.0,
-      "tz_datum": "MZ 1.33 · TZ 628",
-      "kapitel_status": "idee"
+      "kapitel_status": "idee",
+      "verweise": [
+        "buch/_klopfung_b2_k1-k22.md",
+        "buch/pov/drael.md"
+      ]
     },
     {
-      "mz": 1.33,
+      "tz": 632,
+      "tz_sort": 632,
+      "tz_datum": "MZ 1.40 · TZ 632",
       "welt": "moragh",
-      "pov": "Alphina",
+      "pov": "Maren",
       "buch": "B2",
-      "kapitel": "19",
-      "leseart": "normal",
-      "titel": "Talvens Hunger am Hain",
-      "detail": "Als alle den Schlaf-Wald anstarren, berührt Talven am Rand eine Ranke. Sein mittelmässiges Reservoir reicht für ein schwebendes Steinchen; nach dreissig Sekunden Kopfschmerzen. Sein Blick auf den Hain — Hunger, einen Moment lang, bevor er wieder lächelt.",
+      "kapitel": "21",
+      "leseart": "kapitel",
+      "titel": "Marens Drei-Ablehnungs-Szene + Aufbruch nach Dravek",
+      "detail": "Maren versucht alle drei zum Mitgehen zu überzeugen. Sz1 bei Vesper: er will mit Nyr zum Bestien-Außenposten — »sowas sieht keiner zweimal.« Ablehnung. Sz2 bei Alphina+Runa: Alphina will Varens Blut, Runa folgt. Alphinas Konter-Frage: »Warum willst du heim, Maren? Alle die du kennst sind tot oder alt. Was ist da?« Marens Antwort: »Drüben kann ich Schiffe bauen. Hier nicht. Was bin ich hier?« Sz3 Aufbruch: Brief auf Werkstatttisch an Vesper (drei Sätze: »Ich liebe dich. Aber ich muss heim. Bleib am Leben.«). Brief bei Elke (mit Brief an Alphina darin) — Elke nimmt ihn später nach Dravek mit, versteckt unter Stein wo nichts wächst (B3-Tschechow). Reise nach Dravek über Land mit Spuren: Nacht in Schemen-besuchtem Schuppen, Schnitt im Arm.",
       "typen": [
-        "tschechow",
-        "hintergrund"
+        "abschied",
+        "tschechow"
       ],
       "tags": [
-        "Talven-Hunger",
-        "Verräter-Setup"
+        "drei-ablehnungen",
+        "brief-elke",
+        "wasserweg-reise"
       ],
-      "tz": 628,
-      "tz_sort": 628.33,
-      "tz_datum": "MZ 1.33 · TZ 628",
-      "kapitel_status": "idee"
+      "kapitel_status": "idee",
+      "verweise": [
+        "buch/_klopfung_b2_k1-k22.md",
+        "buch/pov/maren.md"
+      ]
     },
     {
       "mz": 1.4,
@@ -2709,52 +2817,66 @@
       "tz": 632,
       "tz_sort": 632.0,
       "tz_datum": "MZ 1.40 · TZ 632",
-      "kapitel_status": "idee"
+      "kapitel_status": "idee",
+      "verweise": [
+        "buch/_klopfung_b2_k1-k22.md",
+        "buch/19-varen.md"
+      ]
     },
     {
-      "mz": 1.47,
-      "welt": "moragh",
-      "pov": "Alphina",
-      "buch": "B2",
-      "kapitel": "20",
-      "leseart": "normal",
-      "titel": "Alphina und Runa küssen sich — die Welt bleibt still",
-      "detail": "Nacht auf dem Dach, zwei Monde. Runas Schulter an Alphinas, Wärme ohne Feuer-Resonanz. Sie küssen sich — ungeschickt, zu schnell. Keine Farne wachsen. Bei Sorel hat die Welt geblüht. Bei Runa ist sie still. Beides macht ihr Angst.",
-      "typen": [
-        "erotik",
-        "erkenntnis",
-        "tschechow"
-      ],
-      "tags": [
-        "Runa-Kuss",
-        "Welt bleibt still"
-      ],
       "tz": 636,
-      "tz_sort": 636.0,
+      "tz_sort": 636,
       "tz_datum": "MZ 1.47 · TZ 636",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 1.61,
       "welt": "moragh",
-      "pov": "Alphina",
+      "pov": "Vesper",
       "buch": "B2",
       "kapitel": "22",
-      "leseart": "normal",
-      "titel": "Alphina als Bund-Waffe, blühende Dornen",
-      "detail": "Alphina an der Front: Wurzeln reissen durch Stellungen, Bäume wachsen als Barrikaden, Dornenhecken als Verteidigung. Drael behandelt sie wie eine Kanone — Ziel, feuern, nachladen. Jeder Feind trägt Varens Gesicht. Der Hass ist produktiv, der Hass hat Struktur.",
+      "leseart": "kapitel",
+      "titel": "Vesper folgt Nyr zur Thar — Akt-III-erste-Krise",
+      "detail": "Vesper kehrt mit Nyr aus Außenposten-Besuch zurück. Findet Marens Brief auf Werkstatttisch. Sitzt eine Stunde allein. Geht zu Alphina — sie ist schon weg Richtung Velmar. Sitzt allein. Drei Tage später: folgt Nyr Richtung Thar — bewusste Wahl, nicht Flucht. Will Magitech verstehen, will Bund-Heuchelei hinter sich lassen. Nyr-Trupp-Verlust am Wegrand auf der Reise.",
       "typen": [
-        "krieg",
-        "resonanz"
+        "abschied",
+        "schluessel"
       ],
       "tags": [
-        "Waffe",
-        "blühende Dornen"
+        "vesper-defekt",
+        "thar-aufbruch"
       ],
+      "kapitel_status": "idee",
+      "verweise": [
+        "buch/_klopfung_b2_k1-k22.md",
+        "buch/pov/vesper.md",
+        "buch/11-nyr.md"
+      ]
+    },
+    {
       "tz": 644,
-      "tz_sort": 644.0,
+      "tz_sort": 644,
       "tz_datum": "MZ 1.61 · TZ 644",
-      "kapitel_status": "idee"
+      "welt": "moragh",
+      "pov": "Vesper",
+      "buch": "B2",
+      "kapitel": "23",
+      "leseart": "kapitel",
+      "titel": "Vesper bei Thar-Kem — Stratege",
+      "detail": "Vesper kommt mit Nyr in Thar-Kem an (Thar-Hauptstadt). Übernimmt informelle Stratege-Rolle (Schachspieler-Kopf). Bekommt Zugang zu Magitech-Werkstätten und Verteidigungs-Planungen. Niemand traut ihm voll, alle nutzen ihn. Erfährt im Hintergrund von Thar-Spähen-Berichten: Bund-Gegenoffensive läuft, Narthek wurde zurückerobert, Thar zieht sich nach Osten zurück. Halvara-Kel wird neue Frontstadt. Vesper plant Standard-Verteidigung dort — Quellen-Kampf als Erschöpfungs-Spiel über Tage. Keine Vorhersage Alphinas — er weiß nicht, was bei den Velmar passiert.",
+      "typen": [
+        "alltag",
+        "krieg",
+        "hintergrund"
+      ],
+      "tags": [
+        "thar-kem",
+        "stratege",
+        "schachspieler",
+        "narthek-rueckeroberung"
+      ],
+      "kapitel_status": "idee",
+      "verweise": [
+        "buch/_klopfung_b2_k1-k22.md",
+        "buch/10-magie-system.md",
+        "buch/moragh-karte.json"
+      ]
     },
     {
       "tz": 651,
@@ -2778,51 +2900,6 @@
       "kapitel_status": ""
     },
     {
-      "mz": 1.89,
-      "welt": "moragh",
-      "pov": "Alphina",
-      "buch": "B2",
-      "kapitel": "26",
-      "leseart": "normal",
-      "titel": "Halvara-Kel: Alphina überlädt die Quelle",
-      "detail": "Drael zeigt ihr eine kleinere Nebenquelle — »Sparen hundert Leben.« Alphina drückt Wurzeln tiefer als je zuvor, spürt das pulsierende Herz, überlädt. Die Quelle stirbt. Radius ein Bogenschuss: Bäume verdorren, ein Schmied bricht zusammen, Kinder schreien. Sie hat es gewollt.",
-      "typen": [
-        "krieg",
-        "tod",
-        "erkenntnis"
-      ],
-      "tags": [
-        "Halvara-Kel",
-        "200m-Todeszone"
-      ],
-      "tz": 660,
-      "tz_sort": 660.0,
-      "tz_datum": "MZ 1.89 · TZ 660",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 1.96,
-      "welt": "moragh",
-      "pov": "Alphina",
-      "buch": "B2",
-      "kapitel": "27",
-      "leseart": "normal",
-      "titel": "Varen fängt Alphina mit Schemen ab",
-      "detail": "Als Alphina zur großen Quelle zielt, strömen Schemen über das Schlachtfeld. Bindungsketten legen sich um ihre Handgelenke. Ihre Pflanzen versuchen zu wachsen — Varens Magie hält. Runa sieht es aus hundert Metern, kämpft, tötet Dutzende Schemen, wird zurückgeschlagen.",
-      "typen": [
-        "krieg",
-        "begegnung"
-      ],
-      "tags": [
-        "Schemen-Ketten",
-        "Runa sieht es"
-      ],
-      "tz": 664,
-      "tz_sort": 664.0,
-      "tz_datum": "MZ 1.96 · TZ 664",
-      "kapitel_status": "idee"
-    },
-    {
       "mz": 2.17,
       "welt": "moragh",
       "pov": "Alphina",
@@ -2843,6 +2920,36 @@
       "tz_sort": 676.0,
       "tz_datum": "MZ 2.17 · TZ 676",
       "kapitel_status": "idee"
+    },
+    {
+      "tz": 680,
+      "tz_sort": 680,
+      "tz_datum": "MZ 1.70 · TZ 680",
+      "welt": "moragh",
+      "pov": "Alphina",
+      "buch": "B2",
+      "kapitel": "24",
+      "leseart": "kapitel",
+      "titel": "Velmar-Lehre bei Irenna Torven + Varen-Auftritt 2",
+      "detail": "Alphina+Runa erreichen Velmar (Hauptstadt). Haus Torven nimmt sie auf. Lehrerin: Irenna Torven. 6 MZ-Wochen Lehre in drei Phasen: Kontrolle (Pflanzen reagieren auf Willen, nicht Emotion), Lenkung (Wirkung auf Distanz, durch Wände), Quellen-Kopplung (Skalierung — die Fähigkeit, die später Quellen kollabieren lässt). Talven anwesend in Velmar-Stadt — er kennt Alphina aus Halvaren (K09, charming-hilfsbereit), sieht sie jetzt im Velmar-Kontext aus Magie-Hunger neu kontextualisiert. Beobachtet aus Distanz, kein neues Gespräch yet — Akt-III-Einführung in seiner anderen Rolle. Varen-Auftritt 2: taucht erneut auf, gleiche Mechanik wie K16 (Druck-Fixierung kurz, Worte). Doppeldeutig: »Halvara-Kel. Dort, wo dein Hass auf Antwort trifft.« Alphina interpretiert als Versprechen seiner Anwesenheit dort. Lockfalle.",
+      "typen": [
+        "wissen",
+        "begegnung"
+      ],
+      "tags": [
+        "velmar-stadt",
+        "haus-torven",
+        "irenna-torven",
+        "varen-2",
+        "talven-hunger"
+      ],
+      "kapitel_status": "idee",
+      "verweise": [
+        "buch/_klopfung_b2_k1-k22.md",
+        "buch/19-varen.md",
+        "buch/10-magie-system.md",
+        "buch/13-talven.md"
+      ]
     },
     {
       "tz": 684,
@@ -2888,6 +2995,34 @@
       "kapitel_status": "idee"
     },
     {
+      "tz": 700,
+      "tz_sort": 700,
+      "tz_datum": "MZ 1.79 · TZ 700",
+      "welt": "moragh",
+      "pov": "Runa",
+      "buch": "B2",
+      "kapitel": "25",
+      "leseart": "kapitel",
+      "titel": "Drael-Bote in Velmar — Halvara-Kel-Auftrag",
+      "detail": "Velmar-Stadt. Runa-POV: sieht Alphina sich verändern (Resonanz härter, Pflanzen dunkler). Drael-Bote kommt mit versiegeltem Brief. Brief-Ton sachlich-pragmatisch: »Wir hören, du hast bei den Velmar gelernt. Wir haben einen Auftrag. Halvara-Kel-Front. Wir teilen die Beute.« Kein Entschuldigen für K20-Affront. Alphina liest Varens K24-Andeutung in den Auftrag hinein — sie glaubt, Varen wird in Halvara-Kel sein. Sie nimmt an, heimliches Ziel: Varen treffen, töten. Runa: »Ich folge dir.« (zweite Mal). Aufbruch nach Halvara-Kel-Front.",
+      "typen": [
+        "alltag",
+        "verabredung"
+      ],
+      "tags": [
+        "drael-brief",
+        "auftrag-halvara-kel",
+        "varen-lockfalle",
+        "runa-loyalitaet"
+      ],
+      "kapitel_status": "idee",
+      "verweise": [
+        "buch/_klopfung_b2_k1-k22.md",
+        "buch/pov/drael.md",
+        "buch/19-varen.md"
+      ]
+    },
+    {
       "mz": 2.59,
       "welt": "moragh",
       "pov": "Varen",
@@ -2908,6 +3043,69 @@
       "tz_sort": 700.0,
       "tz_datum": "MZ 2.59 · TZ 700",
       "kapitel_status": "idee"
+    },
+    {
+      "mz": 1.89,
+      "welt": "moragh",
+      "pov": "Alphina",
+      "buch": "B2",
+      "kapitel": "26",
+      "leseart": "normal",
+      "titel": "Wegquelle vor Halvara-Kel — Probelauf",
+      "detail": "Wegquelle — unbenannte Naturquelle in der Wildnis zwischen Halvaren-Region und Halvara-Kel, einen Tagesmarsch vor der Thar-Frontstadt (kein Stadtname, Naturphänomen ohne Siedlung). Drael persönlich vor Ort, Bund-Truppen, Runa als Begleitung. Drael-Plan: Thar-Magier-Vorhut lähmen, dann Bund-Truppen einrücken. »Spar hundert Leben.« Alphina überlädt Quelle. Quellen-Kollaps-Wirkung: Magier in Reichweite (Bund wie Thar — alle außer Alphina) Speicher leer instant. Verteidigung bricht magisch. Bund rückt mit Klingen vor. Alphina körperlich erschüttert (Resonanz-Träger spürt Quellen-Tod als Herzstillstand-Beat), geht in die Knie, atmet flach. Drael fragt nicht. Runa hält sie fest.",
+      "typen": [
+        "krieg",
+        "tod",
+        "erkenntnis"
+      ],
+      "tags": [
+        "wegquelle",
+        "naturquelle",
+        "quellen-kollaps",
+        "drael-plan",
+        "herzstillstand-beat"
+      ],
+      "tz": 706,
+      "tz_sort": 706,
+      "tz_datum": "MZ 1.81 · TZ 706",
+      "kapitel_status": "idee",
+      "verweise": [
+        "buch/_klopfung_b2_k1-k22.md",
+        "buch/10-magie-system.md",
+        "buch/moragh-karte.json"
+      ]
+    },
+    {
+      "mz": 1.96,
+      "welt": "moragh",
+      "pov": "Alphina",
+      "buch": "B2",
+      "kapitel": "27",
+      "leseart": "normal",
+      "titel": "Halvara-Kel-Schlacht: Quellen-Tod + Gefangennahme — Akt-III-Crisis",
+      "detail": "Blutige brutale Schlacht. Entfesselte Magitech-Bestien zerfetzen Bund-Linien, Kampfschemen mit Feuermagie als Artillerie, Klingen-Front. Vorher kennengelernte Nebenfiguren aus Marsch und Lager sterben grausam — verbrannt, zerfetzt, erschlagen. Realistische Kriegsbeschreibung. Vespers Anomalie-Erkennung: Bund stößt fokussiert direkt zur Quelle vor (untypisch — siehe Welt-Regel »Kampf um Quellen« in 10-magie-system.md). Vesper-Schach-Kopf erkennt das Muster, geht selbst mit kleinem Trupp Richtung Quellen-Platz, um zu verstehen. Kern-Sequenz: Alphina rückt zur Hauptquelle vor. Nyr+Kessler-Druckwellen werden von Varen abgefangen — Varen ist als Bund-Soldat getarnt in der Bund-Linie, plus 2-3 Velmar-Deserteure ebenfalls als Bund-Soldaten getarnt (vorab über korrupten Bund-Offizier eingeschleust). Sieht aus wie Verrat aus Bund-Reihen. Alphina überlädt Hauptquelle. Quelle stirbt. Quellen-Kollaps: alle Magier in Reichweite Speicher leer instant. Magitech-Bestien fallen, Kampfschemen lösen sich, Schlacht reduziert auf Klingen — beidseits Massentote. Gefangennahme: Resonanzen sind gegen Schemen-Bindung immun, aber gegen Druck-Fixierung nicht (siehe `10-magie-system.md` »Bindungsmagie — zwei Mechanismen«). Varen hält Alphina mit Druckmagie sekundenlang reglos und legt ihr in derselben Bewegung das präparierte Velmar-Lederhalsband um die Kehle. Stahlring schnappt zu, beginnt matt-violett zu glühen. Ihre Resonanz reagiert reaktiv, der Ring absorbiert jede Wirkung. Druckmagie löst sich, Halsband trägt die Captivity. »Ich habe dich gewarnt.« Velmar-Deserteure (Bund-Tarnung) flankieren, schleppen Alphina durch Tor in Stadt-Außenseite. Runa kämpft direkt mit, sieht aus 100 Schritt, versucht durchzubrechen — Schwertkampf, Schnittwunden, gebrochene Rippe. Scheitert. Vesper aus 200 Schritt Thar-Seite, kleiner Trupp am Quellen-Platz: sieht Alphina von »Bund-Soldat« entführt. Versteht in einem Schlag — Velmar-Verstoßener + Druck-Magie + getarnte Helfer = Varen. Logik-Kette geschlossen.",
+      "typen": [
+        "krieg",
+        "begegnung"
+      ],
+      "tags": [
+        "halvara-kel-tot",
+        "varen-bund-tarnung",
+        "lederhalsband-captivity",
+        "vesper-anomalie-erkennung",
+        "blutige-schlacht",
+        "akt-iii-crisis"
+      ],
+      "tz": 712,
+      "tz_sort": 712,
+      "tz_datum": "MZ 1.83 · TZ 712",
+      "kapitel_status": "idee",
+      "verweise": [
+        "buch/_klopfung_b2_k1-k22.md",
+        "buch/19-varen.md",
+        "buch/10-magie-system.md",
+        "buch/11-nyr.md"
+      ]
     },
     {
       "mz": 2.8,
@@ -2959,43 +3157,19 @@
       "buch": "B2",
       "kapitel": "37",
       "leseart": "normal",
-      "titel": "Sex mit Varen — Resonanz-Anker gesetzt",
-      "detail": "Gewachsen aus geteilter Schuld. Dornen aus Boden, Steinritzen, Decke — schwarz, scharf, dicht. Keine Farne, keine Zärtlichkeit: Kontrolle durch Erkenntnis. Varen setzt heimlich einen Bindungs-Anker in ihrer Frequenz. Sie spürt Wärme an der Wirbelsäule, hält sie für Orgasmus-Nachwirkung.",
+      "titel": "Sex mit Varen — Hingabe an die Mission",
+      "detail": "Gewachsen aus geteilter Schuld. Dornen aus Boden, Steinritzen, Decke — schwarz, scharf, dicht. Keine Farne, keine Zärtlichkeit: Kontrolle durch Erkenntnis. Sie führt, er lässt sich führen — auf Körperebene ein Bündnis, kein Vertrauen. Das Halsband (Stahlring matt-violett) bleibt während des Sex am Hals; Varen aktiviert die Drainage hier nicht. Sie liest die Geste als Vertrauen.",
       "typen": [
         "erotik",
-        "tschechow",
-        "resonanz"
+        "tschechow"
       ],
       "tags": [
-        "Anker",
-        "Manipulation"
+        "Manipulation",
+        "Halsband"
       ],
       "tz": 724,
       "tz_sort": 724.0,
       "tz_datum": "MZ 3.01 · TZ 724",
-      "kapitel_status": "idee"
-    },
-    {
-      "mz": 3.08,
-      "welt": "moragh",
-      "pov": "Maren",
-      "buch": "B2",
-      "kapitel": "38",
-      "leseart": "normal",
-      "titel": "Maren findet Portal-Ritual-Anleitung",
-      "detail": "In der Thar-Bibliothek findet Maren alte Moragh-Karten des Portal-Netzwerks und die Methode: wie man das Portal von Moragh-Seite öffnet, nicht durch Wasser, durch das Ritual. Gespiegelt zu Vael. Sie HAT Resonanz — für den Hinweg Moragh nach Thalassien reicht es. Einweg.",
-      "typen": [
-        "portal",
-        "wissen",
-        "tschechow"
-      ],
-      "tags": [
-        "Velmar-Karte",
-        "Einweg"
-      ],
-      "tz": 728,
-      "tz_sort": 728.0,
-      "tz_datum": "MZ 3.08 · TZ 728",
       "kapitel_status": "idee"
     },
     {
@@ -3005,8 +3179,8 @@
       "buch": "B2",
       "kapitel": "39",
       "leseart": "normal",
-      "titel": "Maren tritt durchs Portal nach 1987 TZ",
-      "detail": "Maren öffnet das Portal am Steinplatz nahe der Thar-Kontrolle. Vesper und Nyr halten Wachen für 4:33 zurück. Die Luft reisst auf: Thalassien, aber 1987 TZ. Gaslampen durch Elektrizität ersetzt, Automobile statt Kutschen. Sie tritt durch. Das Portal schliesst sich.",
+      "titel": "Maren tritt durch Wasserweg-Riss nach 1987 TZ",
+      "detail": "Maren am Wasserweg-Riss bei Dravek (Flussbiegung südlich, wo Wasser stillsteht — etabliert in B2-K11/K19). Solo. Sie öffnet ihre Wasser-Resonanz, Riss reagiert. Einbahn-Portal nach Thalassien. Sie tritt durch. Erscheint in der Grauwe vor Vael, ~1987 TZ. Gaslampen durch Elektrizität ersetzt, Automobile statt Kutschen, Marens Welt um 167 TZ-Jahre vorgerückt. Wird über die Folgejahre die Schwellenforschungsgesellschaft gründen. Vesper und Nyr sind NICHT beteiligt (alter Plot-Stand mit Steinplatz-Portal-Ritual ist obsolet).",
       "typen": [
         "portal",
         "tschechow"
@@ -3016,14 +3190,20 @@
         "moragh": "Portal schliesst 4:33 später. Vesper bleibt. Die Vier sind getrennt."
       },
       "tags": [
-        "Portal-Durchgang",
-        "Zeitdilatation",
-        "1987 TZ"
+        "wasserweg",
+        "portal-durchgang",
+        "1987-tz",
+        "sfg-vorbereitung"
       ],
       "tz": 732,
       "tz_sort": 732.0,
       "tz_datum": "MZ 3.15 · TZ 732",
-      "kapitel_status": "idee"
+      "kapitel_status": "idee",
+      "verweise": [
+        "buch/_klopfung_b2_k1-k22.md",
+        "buch/pov/maren.md",
+        "buch/10-magie-system.md"
+      ]
     },
     {
       "mz": 3.43,
@@ -3121,7 +3301,7 @@
       "kapitel": "01",
       "leseart": "normal",
       "titel": "Alphina + Varen in Torkal — erste Quellen-Reparatur (Halvara-Kel)",
-      "detail": "Drei Wochen nach Sulkara. Sie reisen zur toten Quelle Halvara-Kel, legen die Hände auf den ausgelaugten Fels. Ein Puls, ein Zucken, Pochen — Alphina lacht erstmals seit Sorels Tod. Der Anker zwischen ihren Schulterblättern zieht Überschuss in Varens Speicher.",
+      "detail": "Drei Wochen nach Sulkara. Sie reisen zur toten Quelle Halvara-Kel, legen die Hände auf den ausgelaugten Fels. Ein Puls, ein Zucken, Pochen — Alphina lacht erstmals seit Sorels Tod. Während der Sitzung aktiviert das Velmar-Halsband seine Drainage; sie spürt Wärme zwischen den Schulterblättern, deutet sie als Reparatur-Resonanz. Der Überschuss fließt in Varens Speicher.",
       "typen": [
         "resonanz",
         "tschechow"
@@ -3129,7 +3309,7 @@
       "tags": [
         "Torkal",
         "Halvara-Kel",
-        "Anker-zieht"
+        "Bindung-Drainage"
       ],
       "tz": 760,
       "tz_sort": 760.0,
@@ -3329,7 +3509,7 @@
       ],
       "tags": [
         "Reparatur-Fassade bröckelt",
-        "Anker leckt"
+        "Bindung-Drainage spürbar"
       ],
       "tz": 792,
       "tz_sort": 792.0,
@@ -3451,7 +3631,7 @@
       "kapitel": "14",
       "leseart": "normal",
       "titel": "Varen präsentiert Alphina das »heroische« Ritual",
-      "detail": "Varen stellt das Ritual als Zukunftsopfer vor — sich selbst als ersten Brennenden. Alphina hört Hoffnung und zweifelt nur leise. Der Anker zieht sie zu seiner Lesart.",
+      "detail": "Varen stellt das Ritual als Zukunftsopfer vor — sich selbst als ersten Brennenden. Alphina hört Hoffnung und zweifelt nur leise. Der monatelange Hoffnungs-Betrug und die geteilten Sitzungen ziehen sie zu seiner Lesart.",
       "typen": [
         "wissen",
         "erkenntnis"
@@ -3522,7 +3702,7 @@
       "kapitel": "16",
       "leseart": "normal",
       "titel": "Vesper bekommt Temporal-KI-Helm",
-      "detail": "Thar eigene Forschung. Vesper sieht durch den Helm den Resonanz-Anker zwischen Alphinas Schulterblättern — als Leuchtlinie. Er beginnt, das Ritual-Kalkül zu entschlüsseln.",
+      "detail": "Thar eigene Forschung. Vesper sieht durch den Helm das Velmar-Bindungs-Sigil an Alphinas Halsband — als Leuchtlinie, die nur in Aktivierungs-Phasen pulsiert. Er beginnt, das Ritual-Kalkül zu entschlüsseln.",
       "typen": [
         "tschechow",
         "wissen"
@@ -3717,12 +3897,12 @@
       "kapitel": "25",
       "leseart": "normal",
       "titel": "Alphina verlässt Varen — ohne Drama",
-      "detail": "Sie legt das Blatt zurück, legt sich neben Varen, atmet, rechnet. Morgens verlässt sie Torkal ohne Drama. Der Anker zieht, aber sie bleibt auch.",
+      "detail": "Sie legt das Blatt zurück, legt sich neben Varen, atmet, rechnet. Morgens verlässt sie Torkal ohne Drama. Das Halsband bleibt am Hals — nur ein Velmar-Binder kann es lösen. Sie geht trotzdem.",
       "typen": [
         "erkenntnis"
       ],
       "tags": [
-        "Anker bleibt, sie bleibt auch"
+        "Halsband bleibt, sie geht"
       ],
       "tz": 868,
       "tz_sort": 868.0,
@@ -4026,14 +4206,14 @@
       "kapitel": "35",
       "leseart": "normal",
       "titel": "Duell Alphina + Vesper vs. Varen — Beginn",
-      "detail": "Drei Kapitel, etwa 15.000 Wörter. Varen in seinem Ring. Alphina und Vesper. Varen löst den Anker über seine Frequenz aus — Alphinas Dornen wachsen unter ihrer Haut. Vespers Schemen-Angriff zielt auf seinen Temporal-Helm.",
+      "detail": "Drei Kapitel, etwa 15.000 Wörter. Varen in seinem Ring. Alphina und Vesper. Varen aktiviert die Halsband-Bindung über seine Frequenz aus der Distanz — Alphinas Dornen wachsen unter ihrer Haut, der Stahlring glüht matt-violett. Vespers Schemen-Angriff zielt auf seinen Temporal-Helm. Vesper bricht das Halsband im Verlauf des Duells.",
       "typen": [
         "krieg",
         "schlüssel"
       ],
       "tags": [
         "Duell",
-        "Anker-Bruch"
+        "Halsband-Bruch"
       ],
       "tz": 920,
       "tz_sort": 920.0,

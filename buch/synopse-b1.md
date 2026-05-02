@@ -8,7 +8,7 @@ pov: [Alphina, Sorel, Vesper, Maren]
 pov_verteilung: "je ~25%"
 status: "K1–K22 weitgehend final, K23–K40 als Entwurf/Akt-Plan"
 wortumfang_ziel: 225000
-last_update: 2026-04-19
+last_update: 2026-05-02
 ---
 
 ## Leitmotiv

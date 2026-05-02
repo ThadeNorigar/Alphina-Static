@@ -1,6 +1,6 @@
 # Buch 2 — Akt I — Ankunft + Elke (Seite 1–120, ~30.000 Wörter, 6 Kapitel)
 
-**Stand 2026-04-28:** Akt I komplett neu gefasst. Akt I = K1–K6 (Ankunft in Moragh, Wanderung durch fremde Welt, Treffen mit Elke). Akt II beginnt mit dem Thar-Angriff in K7. Alter Aktplan archiviert in `buch/_archiv/06-buch2-akt1_vor_2026-04-28.md`.
+**Stand 2026-05-02:** Akt I komplett neu gefasst (Stand 2026-04-28). Schemen-Beats K2/K4 ergänzt 2026-05-02. Akt I = K1–K6 (Ankunft in Moragh, Wanderung durch fremde Welt, Treffen mit Elke). Akt II beginnt mit dem Thar-Angriff in K7. Alter Aktplan archiviert in `buch/_archiv/06-buch2-akt1_vor_2026-04-28.md`.
 
 ## Alphinas Kontroll-Status
 
@@ -38,6 +38,8 @@ Sie betreten Dravek — eine kleine Orath-Stadt mit gewachsenen Türmen und orga
 
 Plus: sie spüren körperlich, dass ihre Resonanz hier stärker ist. Marens Wasser reagiert intensiver, Alphinas Pflanzen wachsen ohne Befehl, Runas Hände werden ohne Anlass warm. **Quellen-Nähe = Verstärkung.** Sie verstehen das Konzept noch nicht, aber sie spüren es.
 
+**Schemen-Beat (Vesper):** Am Stadtrand, kurz vor Sonnenuntergang, sieht Vesper aus dem Augenwinkel einen Schatten zwischen zwei Häusern, der zu langsam ist für eine Bewegung im Wind, zu still für ein Tier. Er dreht den Kopf, der Schatten ist weg. Drei Tage Marsch, kaum Schlaf — er schiebt es auf Erschöpfung. Tschechow für Akt III: Varens Beobachter waren von Anfang an da.
+
 ### Kap. 3 — Alphina (S. 44–66, ~5.500 Wörter)
 *Wochen in Dravek. Sprache, Schemen-Lore, Welt verstehen.*
 
@@ -55,6 +57,8 @@ Ein älterer Bewohner Draveks erwähnt eine Frau in Narthek, die noch das alte T
 In Dulkara halten sie. Sie helfen einem Rufer mit ihrer Magie — Alphina lässt seinen Garten wachsen, Vesper beschleunigt die Mauerung mit Zeit-Resonanz, Maren reinigt einen verschlammten Brunnen. Im Gegenzug **ruft er ihnen zwei Reitschemen** — schattenhafte Wesen, die für zwei Tage halten und sich danach auflösen. Sie reiten weiter Richtung Narthek — wesentlich schneller als zu Fuß.
 
 Maren denkt im Stillen an den Wasserweg-Riss bei Dravek. Sie sagt nichts. Tschechow.
+
+**Schemen-Beat (Vesper):** Am Lagerfeuer in der ersten Nacht außerhalb Dulkaras sieht Vesper einen Schatten am Rand des Feuerscheins — zu langsam für die zuckenden Flammen, zu form-stabil für eine Wolkenschicht über dem Mond. Beim zweiten Hinsehen: nichts. Er notiert es nicht. Wieder Erschöpfung, denkt er. **Zweite Beobachtung — er beginnt im Stillen zu zählen.** Setup für K27, wo er die Logik-Kette zu Varen schließt.
 
 ### Kap. 5 — Maren (S. 86–104, ~4.500 Wörter)
 *Wanderung Dulkara → Narthek. Begegnung Elke.*
@@ -86,8 +90,10 @@ Sie erzählt die Welt-Mechanik: Quellen, Fraktionen (Bund von Orath, Konglomerat
 |---|---|---|
 | K1 | Wasserweg-Riss bei Dravek (Maren spürt) | K11 (Maren erinnert), K14 (Maren-Bestätigung), K21 (Marens Abschied) |
 | K2 | Schemen als Arbeiter | Akt II + B3 (Talvens Schemen-Bindung baut auf der Lore auf) |
+| K2 | Schatten am Stadtrand (Vesper, abgetan als Erschöpfung) | K4 (zweite Sichtung), K27 (Vespers Logik-Kette zu Varen) |
 | K3 | Schemen ohne Auftrag friedlich | K7 (Thar-Angriff: dort sind Schemen mit Auftrag), B3 (Talvens unbeauftragte Schemen lösen sich) |
 | K4 | Reitschemen-Beat | K8 (Flucht-Marsch mit Reitschemen) |
+| K4 | Schatten am Lagerfeuer (Vesper, zweite Sichtung — beginnt zu zählen) | K27 (Vespers Logik-Kette: Varens Beobachter waren von Anfang an da) |
 | K6 | Elke kennt Varen | K13 (Elke wiedergetroffen, erzählt zu Ende) |
 | K6 | 2 MZ-Monate = 66 TZ-Jahre | K11 (Maren erinnert: jetzt schon Jahrzehnte vergangen), durch ganz B2/B3 |
 | K6 | Varen-Hint (Forscher in den Grenzlanden) | K13 (volle Erklärung), B3 (Antagonist-Reveal) |
@@ -96,5 +102,6 @@ Sie erzählt die Welt-Mechanik: Quellen, Fraktionen (Bund von Orath, Konglomerat
 
 - **Maren-Wasserweg-Linie:** K1 (Spüren) → K11 (Erinnerung) → K14 (Bestätigung mit Elke) → K21 (Abschied über Wasserweg-Riss)
 - **Schemen-Lore:** K2 (Arbeiter) + K3 (Auftrag-Logik) + K4 (Reitschemen) → K7 (Thar-Angriff, Schemen-Soldaten) → B3 (Talven-Bindung)
+- **Vesper-Schatten-Linie:** K2 (erste Sichtung, Erschöpfung) → K4 (zweite Sichtung, Vesper beginnt zu zählen) → K27 (Logik-Kette: Varen hatte Beobachter dabei) → Akt-IV-Suchplan
 - **Elke-Linie:** K5 (Erstkontakt) + K6 (Erzählung) → K7 (Trennung) → K13 (Wiedertreffen, Varen-Erklärung) → B3 (Elkes Tod)
 - **Runa-Resonanz:** K2 (warme Hände) + K3 (Schmiede-Beobachtung) + K6 (Elke benennt es) → K12 (Schmiede-Arbeit) → K15 (öffentlich sichtbar) → B3 (Vollform)

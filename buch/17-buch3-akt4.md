@@ -47,11 +47,11 @@ Drael: *„Zugestimmt."*
 ### Kap. 32 — Varen (S. 705–725, ~5.000 Wörter)
 *Torkal. Varen zieht aus. Sein Zirkel sammelt sich.*
 
-Varen-POV. Sein Zirkel der 20–30 ist vollständig angekommen in Torkal. Handverlesene Magier — Bund-Abtrünnige, Velmar-Verstoßene, freie-Städte-Rufer. Alle glauben an seine Rettungs-Geschichte. Alle haben Jahre an seinen Anker-Transfers mitgebaut (kleine Anker, nicht Alphinas Größe, aber zusammen ein großer Speicher).
+Varen-POV. Sein Zirkel der 20–30 ist vollständig angekommen in Torkal. Handverlesene Magier — Bund-Abtrünnige, Velmar-Verstoßene, freie-Städte-Rufer. Alle glauben an seine Rettungs-Geschichte. Alle tragen seit Jahren ein Velmar-Sigil-Trägerstück (Halsband, Armreif, Ring), das Varen über Drainage-Sitzungen schrittweise akkumuliert hat — kleine Bindungen, nicht Alphinas Tiefe, aber zusammen ein großer Speicher.
 
 Er spricht zu ihnen. Erklärt: Die Portal-Quelle muss gesichert werden, bevor die zweite Welle Thalassier durchkommt und Moragh überrollt. Das ist nicht gelogen — aber es ist Fassade für seinen eigentlichen Plan.
 
-Er erklärt **nicht**, dass er das Ritual durchführen will. Er spricht von „Stabilisierung", „Schutz-Ritual", „Vereinigung der Ressourcen". Seine Anhänger werden Beiträge leisten — ihre eigenen Anker speisen ihn, sie sterben vermutlich dabei. Er weiß das. Er sagt es ihnen nicht.
+Er erklärt **nicht**, dass er das Ritual durchführen will. Er spricht von „Stabilisierung", „Schutz-Ritual", „Vereinigung der Ressourcen". Seine Anhänger werden Beiträge leisten — ihre eigenen Sigil-Bindungen werden ihm in der Ritual-Geometrie ihre Resonanzen vollständig übertragen, sie sterben vermutlich dabei. Er weiß das. Er sagt es ihnen nicht.
 
 **Abmarsch.** 30 Magier, 15 Schemen-Kompanien (50 gebundene Schemen insgesamt), Varen an der Spitze. Sie ziehen Richtung Osten, Dravek. Drei Tage Marsch. Sie umgehen Halvaren (Bund-Stadt, die er jetzt meidet — Drael könnte misstrauisch werden).
 
@@ -214,7 +214,7 @@ Alphina friert innerlich ein. Sorels Name in Varens Mund. Nach Jahren.
 
 *„Ich habe dich nie angesehen. Nur deinen Frequenzwert."*
 
-Alphina versteht: jede Umarmung war Messung. Jedes Gespräch war Kalkulation. Jede Berührung war Anker-Transfer.
+Alphina versteht: jede Umarmung war Messung. Jedes Gespräch war Kalkulation. Jede Berührung war Drainage-Diagnostik durch das Sigil.
 
 *„Sie starb in der Küche."*
 
@@ -312,7 +312,7 @@ Ihr Weg zur Quelle ist zugestellt. Aber **Iven hat noch einen Puls übrig**. Er 
 
 Die Quelle reagiert. Sie nimmt auf. Sie nimmt weiter auf. Alphina drückt mehr. **Stufe 10.** Sie überlädt. Die Quelle beginnt zu zucken, überfordert.
 
-**Varens Dokument.** In Alphinas Innentasche — das Velmar-Dokument, das Vesper entschlüsselt hat — erwärmt sich. Es ist durch Jahrzehnte der Bindung resonanzgeladen. Die letzte Kopplung zwischen Varens Plan und Alphina bricht — sie spürt den Anker in der Wirbelsäule **zerreißen**. Tot. Keine Verbindung mehr zu Varen (der tot ist).
+**Varens Dokument.** In Alphinas Innentasche — das Velmar-Dokument, das Vesper entschlüsselt hat — erwärmt sich. Es ist durch Jahrzehnte der Bindung resonanzgeladen. Die letzte Kopplung zwischen Varens Plan und Alphina löst sich — das Halsband-Sigil an ihrem Hals erlischt schlagartig (Vesper hatte es im Duell gebrochen, der Stahlring war schon stumpf, jetzt fällt das Leder vom Hals und die vegetative Konditionierung **reißt** weg). Keine Verbindung mehr zu Varen (der tot ist).
 
 **Der Kollaps.** Die Portal-Quelle bricht. Der Fels um den Krater schießt nach innen. Der Modulator schmilzt — Metall auf Metall, Funken. **Das Portal schließt sich** während eine Killermaschine halb durch ist. Der Teil in Moragh fällt in sich zusammen, kein Steuerungs-Signal mehr. Der Teil in Thalassien — das versteht sie nicht, aber Syra Halvard in Vael sieht es: die Killermaschine wird **halbiert**, die Moragh-Seite verschluckt ihn für immer, die Thalassien-Seite fällt als Stumpf zu Boden.
 
