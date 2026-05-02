@@ -32,11 +32,13 @@ INCLUDE_PAGES = [
     ROOT / "story-in-work" / "moragh-karte.html",
     ROOT / "canon" / "index.html",
     ROOT / "status" / "index.html",
-    ROOT / "story" / "index.html",
     ROOT / "architektur.html",
 ]
 
-EXCLUDE_PAGES: list[Path] = []
+# /story/ ist die oeffentliche Lese-Ansicht und bleibt bewusst OHNE Sidebar.
+EXCLUDE_PAGES: list[Path] = [
+    ROOT / "story" / "index.html",
+]
 
 SIDEBAR_START = "<!-- SIDEBAR_START (build-sidebar.py — nicht haendisch editieren) -->"
 SIDEBAR_END = "<!-- SIDEBAR_END -->"
@@ -120,8 +122,8 @@ def remove_all_sidebar_blocks(content: str) -> str:
     return content
 
 
-SIDEBAR_LINK_TAG = '<link rel="stylesheet" href="/story-in-work/sidebar.css?v=20260502f">'
-SIDEBAR_SCRIPT_TAG = '<script src="/story-in-work/sidebar.js?v=20260502f" defer></script>'
+SIDEBAR_LINK_TAG = '<link rel="stylesheet" href="/story-in-work/sidebar.css?v=20260502g">'
+SIDEBAR_SCRIPT_TAG = '<script src="/story-in-work/sidebar.js?v=20260502g" defer></script>'
 
 
 def ensure_css_js_tags(content: str) -> str:

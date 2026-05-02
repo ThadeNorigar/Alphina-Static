@@ -6,8 +6,8 @@
   <meta name="robots" content="noindex, nofollow">
   <title>Moragh — Karte & Reisezeit</title>
   <link rel="stylesheet" href="../styles.css">
-  <link rel="stylesheet" href="/story-in-work/sidebar.css?v=20260502f">
-  <script src="/story-in-work/sidebar.js?v=20260502f" defer></script>
+  <link rel="stylesheet" href="/story-in-work/sidebar.css?v=20260502g">
+  <script src="/story-in-work/sidebar.js?v=20260502g" defer></script>
   <script src="https://cdn.jsdelivr.net/npm/d3-delaunay@6"></script>
   <style>
     :root {
@@ -46,13 +46,19 @@
     .view-btn:hover { color: var(--paper-edge); border-color: var(--paper-edge); }
     .view-btn.active { background: var(--accent); color: var(--paper); border-color: var(--accent); }
 
-    /* Karte volle Breite, Reise-Panel darunter */
+    /* Karte gross links, Reise-Panel rechts */
     .grid {
       display: grid;
-      grid-template-columns: 1fr;
+      grid-template-columns: 1fr 360px;
       gap: 1rem;
     }
-    .map-card { aspect-ratio: 16 / 9; }
+    @media (max-width: 1100px) {
+      .grid { grid-template-columns: 1fr; }
+    }
+    .map-card {
+      aspect-ratio: 16 / 9;
+      border: 10px solid var(--paper-edge);
+    }
 
     /* Zoom-Controls */
     .map-controls {
@@ -335,19 +341,19 @@ const MODES = {
   foot: {
     label: 'Zu Fuß',
     kmPerDay: 32,                     // 4 km/h × 8 Std
-    maxEdgeKm: 80,                    // 2–3 Tage zwischen Versorgungspunkten
+    maxEdgeKm: 200,                   // Wandern: keine harte Quellen-Bindung, nur Wegmarkierung
     note: '4 km/h, 8 Std/Tag, Pause + Verpflegung in Städten'
   },
   schemen: {
     label: 'Reit-Schemen',
     kmPerDay: 65,                     // Rufer lädt an Quellen auf, mehrfach neu rufen pro Tag
-    maxEdgeKm: 60,                    // Ruf-Schemen hält 2–3 Std; Rufer muss an Quelle nachladen
+    maxEdgeKm: 150,                   // Ruf-Schemen-Etappe; Rufer kann mehrfach rufen
     note: '12 km/h, Schemen hält 2–3 Std, Rufer lädt an Quellen'
   },
   magitech: {
     label: 'Magitech-Bestie',
     kmPerDay: 90,                     // 15 km/h, 6 Std, dann Ladestopp
-    maxEdgeKm: 120,                   // Bestien-Kern hält 6–8 Std ≈ 90–120 km zwischen Aufladungen
+    maxEdgeKm: 250,                   // Bestien-Kern hält 6–8 Std ≈ 200–250 km zwischen Aufladungen
     note: '15 km/h, 6–8 Std Einsatz pro Aufladung an Thar-Quellenstation'
   }
 };
@@ -596,6 +602,23 @@ function render() {
   }
 
   renderRoute();
+  renderScaleBar();
+}
+
+function renderScaleBar() {
+  // 100 km Maßstab links unten. 1 unit = 3.37 km → 100 km = 29.67 units
+  const scaleKm = 100;
+  const lengthUnits = scaleKm / KM_PER_UNIT;
+  const x = 30, y = 1060;
+  const g = el('g', {});
+  g.appendChild(el('rect', { x: x - 8, y: y - 22, width: lengthUnits + 16, height: 32, fill: 'rgba(15,14,12,0.7)', rx: 3 }));
+  g.appendChild(el('line', { x1: x, y1: y, x2: x + lengthUnits, y2: y, stroke: '#e8e0d4', 'stroke-width': '2' }));
+  g.appendChild(el('line', { x1: x, y1: y - 4, x2: x, y2: y + 4, stroke: '#e8e0d4', 'stroke-width': '2' }));
+  g.appendChild(el('line', { x1: x + lengthUnits, y1: y - 4, x2: x + lengthUnits, y2: y + 4, stroke: '#e8e0d4', 'stroke-width': '2' }));
+  const t = el('text', { x: x + lengthUnits / 2, y: y - 8, fill: '#e8e0d4', 'font-size': 11, 'text-anchor': 'middle', 'font-family': 'Cormorant Garamond, serif' });
+  t.textContent = scaleKm + ' km';
+  g.appendChild(t);
+  svg.appendChild(g);
 }
 
 let routeG = null;
