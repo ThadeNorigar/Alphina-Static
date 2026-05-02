@@ -69,7 +69,7 @@ Alphina sagte nichts. Ihre Hand lag auf der Bank, neben dem Notizbuch, und das H
 
 Henrik kam mit dem Gießkrug zurück und begann die Stecklinge zu wässern. Er nickte Runa zu, die er kannte, weil sie einmal im Monat vorbeikam und nach den Fuchsien fragte, die am Gartentor wuchsen. Das Gespräch verlor sich im Alltag — Runa fragte nach den Farnen, Alphina gab kurze Antworten, Henrik kommentierte das Wetter und die Feuchtigkeit und den Mehltau an den Rosen, der in diesem Blütenmond hartnäckiger war als im letzten. Die Sätze waren Oberfläche. Darunter lag Runas Karte, und darunter der Boden.
 
-Runa blieb noch eine halbe Stunde. Sie redeten über das dritte Flugblatt, das Runa setzen wollte. Über Papier und Preise. Über die Wäscherin Lena Brack, die seit dem Frostbrand nicht mehr schlief. Runa faltete das Notizbuch zu, schob es unter den Arm, stand auf, strich den Mantel glatt. Alphina blieb auf der Bank sitzen.
+Runa blieb noch eine halbe Stunde. Sie redeten über das dritte Flugblatt, das Runa setzen wollte. Über Papier und Preise. Tarn habe heute morgen das Bütten ausgepackt, sie brauche zwei Riemen mehr, wenn die Auflage komme — der Junge sei schneller geworden, sie könne ihm bald die Schwärze allein anvertrauen. Über die Wäscherin Lena Brack, die seit dem Frostbrand nicht mehr schlief. Runa faltete das Notizbuch zu, schob es unter den Arm, stand auf, strich den Mantel glatt. Alphina blieb auf der Bank sitzen.
 
 Am Gartentor drehte Runa sich um und winkte, kurz, mit der Hand, die nicht das Notizbuch hielt. Dann war sie weg.
 

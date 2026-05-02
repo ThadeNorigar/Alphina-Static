@@ -150,6 +150,14 @@ Ihre Hände stoppten für eine Sekunde. Sie schaute Alphina an, die Augenbrauen 
 
 "Gehen Sie hin. Da stehen Farne die so hoch sind wie ich." Fünfzig, fünfundfünfzig. "Henrik sagt, das sei normal, aber Henrik sagt alles sei normal, Henrik würde auch sagen, Schnee im Erntemond sei normal wenn er damit seine Beete erklären kann." Sechzig. Sie klopfte den Stapel auf den Tresen, schob ihn zu Alphina. "Sechzig Blatt. Drei Schilling."
 
+Aus dem Hinterraum eine Stimme. "Runa." Eine Frage in dem einen Wort, halb erwachsen, kurz vor dem Bruch.
+
+"Einen Augenblick." Sie wischte sich die Hände an der Schürze ab. "Mein Druckergeselle. Ich bin gleich zurück."
+
+Sie ging zur Tür hinten, verschwand durch den Türbogen. Hinter der Wand eine Frage und eine Antwort, beide knapp. Dann ihre Schritte zurück.
+
+"Verzeihung."
+
 Alphina legte die Münzen auf den Tresen. Die Druckerin nahm sie — dabei berührten sich ihre Finger.
 
 Ihre Hand war heiß.

@@ -5,11 +5,19 @@
 **Wortziel Ausarbeitung:** 3.500–4.000 W
 **Gänsehaut-Moment:** Runa setzt sich an den Setzkasten, an dem in der Joran-Nacht (vor sechs Tagen, K30) der Brandfleck entstanden ist — Schemen zerfallen, Runas Hände heiß, Joran tot zwischen ihr und dem Wesen. Der Fleck ist seit damals da, sie hat ihn jeden Tag gesehen, ohne ihn benennen zu wollen. Sie nimmt einen Bleilettern-Block heraus — ein „A". Das Blei ist weicher unter ihren Fingern als es sein darf. Nicht heiß genug zum Schmelzen, aber weich genug, dass die Spitze des Buchstabens sich um einen Hauch verformt, wenn sie ihn drückt. Sie hält die Hand still. Sie hat es nicht weg. Sie kann es nicht weg.
 
+**Ton-Referenz-Leseproben (für /ausarbeitung):**
+- `buch/leseproben/09-welt-vael-warm.md` — Werkstatt-Register-Vorlage (Werft → hier Druckerei, gleicher Material-vor-Figur-Ton).
+- `buch/leseproben/06-aftercare-miniatur.md` — leise innere Erlaubnis-Beats für Runas heimliche Eifersucht/Trauer ohne Pathos.
+
+**Council-Leserinnen für /ausarbeitung:**
+- **MEIKE** (Black/Kuang/Maas) — POV-Disziplin, benannte Einzeldetails (Setzkasten, Bleilettern, Pressenholz, Lampenöl), Werkstatt mit Zähnen. Test: trägt Material den Beat, oder ist es Atmosphäre-Tapete?
+- **LINA** (Yarros/Maas/Robert) — Wärme als Charakter-Subtext, leise Eifersucht als Yarros-Heldin-Bewegung, Selbstbestimmung-Geste *„Ich komme mit. Wenn ihr mich lasst."*. Test: hat der Eifersucht-Beat Gewicht ohne Bitterkeit?
+- **NORA** (Robert/Kennedy/Simone) — Klarsicht ohne Sentimentalität, Power-Verteilung im Sz2-Dialog, Trauer ohne Selbstmitleid. Test: trägt der Körper die Kontrolle, oder ist es Charaktertugend-Performance?
+
 **Ton-Ziel dieses Kapitels:**
 - Primär: **Kuang (*Babel*)** — nüchterne Innenschau, Klarsicht ohne Pathos. Runa ist die Klarsichtige (POV-Dossier).
 - Primär: **Yarros** — Körperwärme als Subtext für offenes Herz; die Wärme von Runas Händen ist das Charakter-Leitmotiv.
 - Ergänzend: **Maas** — sinnliche Werkstatt-Atmosphäre (Tinte, Bleilettern, Pressenholz, Lampenöl).
-- Leseproben-Anker: **09 (Welt Vael warm)** als Werkstatt-Register-Vorlage (Werft → hier Druckerei, gleicher Material-vor-Figur-Ton). **06 (Aftercare-Miniatur)** für leise innere Erlaubnis-Beats. **Nicht 11** (Moragh) — Runa ist in Vael, nicht in fremder Welt. **Nicht 28/30** (Kuang/SenLinYu-Härte) — Runa ist nicht in Trauma, sondern in Klarsicht.
 - Heat-Level: **keine**. Charakter-Kapitel, kein Romance-Beat. Eine Hand-auf-Hand-Geste mit Alphina ist die einzige körperliche Nähe.
 
 ---
@@ -18,25 +26,19 @@
 
 **Wortziel:** 1.100–1.300 W
 
-**Ort:** Druckerei Kvist, Oberstadt Vael, kurz vor Abenddämmerung am 14. Nebelmond. Werkstatt im Erdgeschoss: lange Werkbank mit Setzkästen rechts, die alte Eisenpresse (Holzrahmen, Eisenhebel) Mitte hinten, drei Setzkasten-Reihen an der Ostwand, Tintenfässer auf dem niedrigen Schrank. Lampenöl-Geruch, Bleilettern-Geruch (kühl-metallisch), Tinte (harzig). Die Gesellen Beln und Tarn hat Runa nach dem Mittag nach Hause geschickt — sie braucht heute keine Augen am Setzkasten. Hinter der Werkstatt eine kleine Wohnung im Obergeschoss (eine Stiege im Hinterhaus). Auf der Gasse vor dem Schaufenster: still. Die Stadt hat heute nach dem Marktplatz den Atem angehalten. Eine Patrouille kommt jede halbe Stunde vorbei.
+**Ort:** Druckerei Kvist, Oberstadt Vael, kurz vor Abenddämmerung am 14. Nebelmond. Werkstatt im Erdgeschoss: lange Werkbank mit Setzkästen rechts, die alte Eisenpresse (Holzrahmen, Eisenhebel) Mitte hinten, drei Setzkasten-Reihen an der Ostwand, Tintenfässer auf dem niedrigen Schrank. Lampenöl-Geruch, Bleilettern-Geruch (kühl-metallisch), Tinte (harzig). Tarn, ihren Druckergesellen, hat Runa schon am Mittag am Marktplatz nach Hause geschickt — sie braucht heute keine Augen am Setzkasten. Hinter der Werkstatt eine kleine Wohnung im Obergeschoss (eine Stiege im Hinterhaus). Auf der Gasse vor dem Schaufenster: still. Die Stadt hat heute nach dem Marktplatz den Atem angehalten. Eine Patrouille kommt jede halbe Stunde vorbei.
 
 **Beats (sachliches Exposé, Runa-POV):**
 
-- Runa stand seit dem Mittag nicht mehr am Setzkasten. Sie hatte aufgeräumt, was kein Aufräumen brauchte: die Tintenfässer richtig hingestellt, den Boden gefegt, die Presse abgedeckt. Beln und Tarn waren früh nach Hause gegangen — sie hatte gesagt, sie wolle allein arbeiten. Sie hatte nicht gearbeitet. Sie hatte gewartet.
-- Sie wusste nicht genau, worauf.
-- Drei Stunden lang hatte sie sich in der Werkstatt bewegt, ohne etwas anzufassen, dessen sie sich nicht sicher gewesen wäre, dass es nicht wärmer wurde. Den Hebel der Presse hatte sie gemieden (Eisen, gross). Den Wassereimer gemieden (sie hatte ihn vorgestern noch ohne Bedacht angefasst). Sie war stehen geblieben am Fenster, hatte hinausgeschaut. Auf der Hauptgasse hatte sie zwei Familien gesehen, die mit Bündeln zum Tor wollten — die Tochter weinte, die Mutter zog sie weiter.
-- Jetzt, gegen die Dämmerung, ging sie zum Setzkasten zurück. Setzte sich auf den Hocker, der seit fünf Jahren ihre rechte Hüfte kannte. Nahm einen Bleilettern-Block heraus. Ein **A** für ein Plakat, das sie morgen nicht mehr drucken würde.
-- Das Blei war weich unter ihren Fingern. Nicht heiss genug, dass es schmolz; weich genug, dass die obere Spitze des **A** sich verformte, als sie den Block zwischen Daumen und Zeigefinger drückte. Sie zog den Daumen weg. Der Abdruck ihrer Daumen-Kuppe blieb als feiner Halbmond im Buchstaben.
+- **Hook (Wollen + Körper):** Runa wollte den Setzkasten ordnen. Ihre Hand blieb in der Luft, einen Daumen über den Lettern. Drei Stunden lang hatte sie sich in der Werkstatt bewegt, ohne etwas anzufassen, dessen sie sich nicht sicher gewesen wäre, dass es nicht wärmer wurde. Tarn hatte sie heute Mittag am Marktplatz nach Hause geschickt — Lauf, sag, du schliesst nicht. Sie selbst hatte nach dem Schemen, nach Alphinas Satz, nach den Soldaten den Bogen über die Sattlerstraße zurück genommen. Hatte aufgeräumt, was kein Aufräumen brauchte: Tintenfässer richtig hingestellt, Boden gefegt, Presse abgedeckt. Den Hebel der Presse gemieden (Eisen, gross). Den Wassereimer gemieden. Auf der Hauptgasse hatte sie zwei Familien mit Bündeln zum Tor gehen sehen — die Tochter weinte, die Mutter zog sie weiter.
+- **Kipp-Moment (Bleilettern-Block, vor der Beobachtungs-Liste):** Jetzt, gegen die Dämmerung, ging sie zum Setzkasten zurück. Setzte sich auf den Hocker, der seit fünf Jahren ihre rechte Hüfte kannte. Der Brandfleck am Setzkasten war direkt vor ihr — eine Handbreit vom Hocker, scharfrandig, sechs Tage alt, der Ort, an dem in der Joran-Nacht der Schemen zerfallen war. Sie hatte ihn jeden Tag gesehen, ohne ihn benennen zu wollen. Heute sah sie ihn anders. Sie nahm einen Bleilettern-Block heraus. Ein **A** für ein Plakat, das sie morgen nicht mehr drucken würde. Das Blei war weich unter ihren Fingern. Nicht heiss genug, dass es schmolz; weich genug, dass die obere Spitze des **A** sich verformte, als sie den Block zwischen Daumen und Zeigefinger drückte. Sie zog den Daumen weg. Der Abdruck ihrer Daumen-Kuppe blieb als feiner Halbmond im Buchstaben.
 - **Innerer Beat:** *Sie hat es gewusst.* Der Satz kam ohne Subjekt — sie wusste, wer **sie** war. Alphina. Heute Mittag hatte Alphina das Wesen gesehen, den Marktplatz, Runas Hände. Alphina hatte den Brandfleck am Holz gesehen, ohne überrascht zu sein. Kein Schreck im Gesicht, kein Vorwurf. Erkenntnis. Bestätigung.
 - *Wie lange?*
 - Runa legte den Bleilettern zurück. Schaute auf den Setzkasten — die fünf Kästen, jeder mit seinen sechzig Fächern, jedes Fach mit den Lettern, die sie in den letzten elf Jahren tausendfach gesetzt hatte. Sie hatte nie überlegt, ob das Blei sich wärmer anfühlte als Eisen — Blei ist kühl-weich, Eisen ist kühl-hart, das war das Wissen ihres Berufs. Heute hatte sich der Block in ihrer Hand verformt.
-- Sie ging die letzten Wochen rückwärts. Beobachtungen, die sie gesammelt hatte, ohne sie zu sortieren.
-  - **Alphina** war seit dem Glutmond knapper geworden. Beim Tee fragte sie nach Marens Werft, nach dem Hafen-Geschäft, nach den Patrouillen — Fragen, die nicht Alphina-Fragen waren. Sie hatte Botaniker-Augen, aber ihre Fragen waren von jemandem, der wissen wollte, wo sich was versammelte.
-  - **Maren** war zweimal hier gewesen, einmal allein, einmal mit Vesper, der seit dem Glutmond bei ihr in der Hafengasse-Wohnung wohnt (in der Druckerei wussten die zwei Gesellen das vom Hafenmeister-Eintrag, Runa hatte beim Drucken der Quartalsliste den Namenszug gesehen). Beim zweiten Druckerei-Besuch hatte Maren gesagt, *„Vesper und ich arbeiten an einer Übersetzung"*, und sie hatten Bleilettern für eine Tafel bestellt — fremde Zeichen, sechs verschiedene, Runa hatte sie nach Anweisung gegossen, ohne Bedeutung. Sie hatte nicht gefragt, was die Zeichen waren. Maren hatte nicht erklärt.
-  - **Sorel** war zweimal in der Hafengasse gewesen, abends, mit der Kamera-Tasche. Sie hatte ihn von ihrem Schlafzimmer-Fenster gesehen. Sorel arbeitet im Lichthaus-Keller, das war Canon. Was tat er nachts in der Hafengasse?
-  - **Vesper** war im Erntemond einmal hier gewesen. Hatte Schemen-Geschichten gesammelt — als „Volkskunde-Material", hatte er gesagt, er sammele für ein Manuskript. Seine Augen waren nicht Volkskunde-Augen.
-  - **Esther und Jara** waren seit Wochen zusammen in der Druckerei gewesen, wenn sie Sprachbücher abholten — die zwei waren gemeinsam nervös, in einer Art, die Runa nicht zu Esthers Geduldsregister gepasst hatte.
-  - **Die eigenen Flugblätter.** Drei Folgen *„Die Geister von Vael — was sie wollen"*, gedruckt im Glutmond, Erntemond, Herbstmond. Sie hatte die Geschichten gesammelt aus den Kunden — der Fischer, der drei Schiffe von Achterland verschwunden meldete, die Wäscherin mit der Verbrennung am Fußrist, der Junge mit den versengten Haaren am Nacken. Sie hatte gedruckt, weil es ihre Arbeit war. Sie hatte nicht zusammengesetzt, dass sie ihre eigene Welt kartografierte.
+- **Beobachtungs-Liste (gekürzt auf 3 Items, dann impliziert):** Sie ging die letzten Wochen rückwärts. Drei Bilder kamen zuerst.
+  - **Alphinas Augen** — seit dem Glutmond ein anderer Blick, wenn sie zur Tür der Druckerei hereinkam. Botaniker-Augen, aber ihre Fragen waren von jemandem, der wissen wollte, wo sich was versammelte. Heute Mittag dieselben Augen, kein Schreck.
+  - **Marens fremde Lettern** — bei einem Druckerei-Besuch im Erntemond hatte Maren *„Vesper und ich arbeiten an einer Übersetzung"* gesagt und Bleilettern für eine Tafel bestellt, sechs Zeichen, die kein Vael-Alphabet kannte. Runa hatte sie nach Anweisung gegossen, ohne zu fragen. Bei demselben Besuch hatte Maren mit der Hand am Schlüsselbein gesessen und vor sich hingesagt *„hier sitzt es"*, ohne dass Runa wusste, wovon sie sprach.
+  - **Die eigenen Flugblätter.** Drei Folgen *„Die Geister von Vael — was sie wollen"*, Glutmond, Erntemond, Herbstmond. Geschichten aus den Kunden — der Fischer mit drei verschwundenen Schiffen, die Wäscherin mit der Verbrennung am Fußrist, der Junge mit den versengten Haaren am Nacken. Sie hatte gedruckt, weil es ihre Arbeit war. Sie hatte nicht zusammengesetzt, dass sie ihre eigene Welt kartografierte.
 - **Erkenntnis 1:** Sie hatte alles gesehen. Sie hatte es nicht zusammengesetzt, weil sie nicht wollte.
 - **Erkenntnis 2:** Die Vier hatten einen Plan, den sie ihr nicht erzählt hatten. *Aus Schutz.* Das war Alphinas Augen heute Mittag — kein Geheimnistun aus Geringschätzung, sondern aus *„wir wussten nicht, was es mit dir macht, wenn wir es dir zeigen"*. Runa ging das durch, einmal, zweimal. Sie suchte nach Ärger in sich. Sie fand ihn nicht.
 - Was sie fand, war eine Art Wärme, die nicht aus den Händen kam. Ein leichtes Aufgeben in der Brust. *Sie hatten mich schützen wollen.* Es war nicht Erleichterung; es war eine zugehörige Stelle. Sie hatten gedacht, dass sie eine Stelle in dieser Sache war. Auch wenn sie nichts gesagt hatten.
@@ -47,13 +49,14 @@
 - *Runa erfährt (rückwärts):* Sie hat alles gesehen, alles bemerkt — nichts zusammengesetzt. Ihre Verdrängung bricht jetzt rückwirkend.
 - *Runa erfährt (Schutz-Motiv):* Die Vier haben sie nicht eingeweiht, weil sie sie schützen wollten. Sie ist nicht verletzt — sie ist in einer zugehörigen Stelle.
 - *Runa-Canon-Beat (neu):* Eigene Haut immun gegen eigenes Feuer. Sie zündet mit den Fingern den Docht — keine Verbrennung. Dossier-Canon (POV-Dossier B2: „Eigene Haut immun") hier zum ersten Mal in B1 sichtbar.
-- *Runa-Verdacht (offen, nicht aufgelöst):* Marens Bleilettern-Bestellung mit fremden Zeichen war auffällig. Sorels nächtliche Hafengasse-Spaziergänge passten nicht zu seinem Lichthaus-Keller. Vespers „Volkskunde"-Fragen klangen nicht volkskundlich. Runa registriert die Auffälligkeiten, ohne sie zu deuten — die Deutung kommt erst in Sz2 nach Alphinas Erklärung (Schemen-Recherche / Resonanz-Training / Sprach-Arbeit). Sorel-Prinzip: Runa weiß in Sz1 nur, *dass* etwas seltsam war, nicht *was*.
+- *Runa-Verdacht (offen, nicht aufgelöst):* Marens Bleilettern-Bestellung mit fremden Zeichen war auffällig. Sorel war zweimal abends in der Hafengasse, statt da, wo er sonst arbeitete. Vespers „Volkskunde"-Fragen klangen nicht volkskundlich. Runa registriert die Auffälligkeiten, ohne sie zu deuten — die Deutung kommt erst in Sz2 nach Alphinas Erklärung (Schemen-Recherche / Resonanz-Training / Sprach-Arbeit). Sorel-Prinzip: Runa weiß in Sz1 nur, *dass* etwas seltsam war, nicht *was*.
+- *Joran-Bezug (verstärkt):* Der Brandfleck am Setzkasten ist sechs Tage alt — der Ort, an dem in der Joran-Nacht der Schemen zerfiel. Runa hat ihn jeden Tag gesehen, ohne ihn benennen zu wollen. Heute sitzt sie an genau diesem Setzkasten.
 
 **Tschechow-Waffen geladen Sz1:**
-- **Der Brandfleck am Setzkasten** — Tschechow für K34 (Aktplan: *„Sie fasst einen Bleilettern-Block, und er wird weich unter ihren Fingern."*) und Buch 2 (Runas Feuer-Stufe-Progression).
+- **Der Brandfleck am Setzkasten** — Tschechow für K34 (Aktplan: *„Sie fasst einen Bleilettern-Block, und er wird weich unter ihren Fingern."*) und Buch 2 (Runas Feuer-Stufe-Progression). Cross-POV-Anker mit K30 (Joran-Tatort).
 - **Runas Verformbarkeit von Blei** — neue Canon-Manifestation der Resonanz unter Stufe 3. Tschechow für K34 und B2 (Stein in Hand wird glühend).
 - **Eigene Haut immun gegen eigenes Feuer** — Dossier-Canon, hier erstmals in B1 sichtbar. Feuert in B2 (Stein in der Hand glühend; Metall biegsam in der Nähe).
-- **Die zwei Druckergesellen Bren und Tarn** — Tschechow für die Frage „wer führt die Druckerei nach Runas Durchgang weiter?". Feuert in K36 oder Epilog (K40 — *„Esther Voss vor dem toten Riss. Thies an der Werft."* — Bren/Tarn analog für die Druckerei).
+- **Tarn (Druckergeselle)** — Tschechow für die Frage „wer führt die Druckerei nach Runas Durchgang weiter?". In K05 (Erstauftritt-Stimme aus Hinterraum) und K15 (beiläufige Erwähnung) etabliert, in K31-Sz2 weggeschickt, in K32 Sz3 als Übergabe-Empfänger. Feuert in K36 oder Epilog (K40 — *„Esther Voss vor dem toten Riss. Thies an der Werft. Tarn an der Druckerei."*).
 
 **Tschechow-Waffen abgefeuert Sz1:**
 - **K25 (Runa-Papier-Brand bei Alphina-Treffen)** — hier rückwärts integriert: Runa erinnert sich an einen früheren Wärme-Moment, den sie weggedrückt hat. (POV-Dossier-Canon: „Papier brennt bei Runas Orgasmus (sie verdrängt)" → in K31 öffentlich geworden, hier in K32 nachvollzogen.)
@@ -74,20 +77,26 @@
 
 **Beats (sachliches Exposé, Runa-POV):**
 
-- Es klopfte. Drei kurze Schläge — Alphinas Klopfen, das Runa kannte aus den Jahren der Tee-Besuche.
+- Es klopfte. Drei kurze Schläge. Runa kannte den Rhythmus.
 - Runa öffnete. Alphina stand in der Tür, der Wollmantel feucht von Nebel, das dunkle Haar in Strähnen, die Hände in den Manteltaschen. Hinter ihr der Eingangsweg, leer, dunkel.
 - *„Komm rein."*
 - Alphina trat ein. Schloss die Tür hinter sich. Stand einen Atemzug im Vorderraum, die Augen suchten und fanden den Setzkasten mit dem Brandfleck. Zog den Mantel aus, hängte ihn an den Haken. Setzte sich an den Werkstatt-Tisch ohne Frage. Runa stellte zwei Becher hin, goss Tee aus dem Krug, der seit dem Nachmittag warm geblieben war (warm-gehalten, nicht verstohlen — Runa-Canon: ihre Wärme erlaubt das, sie hatte es nie als Gabe verstanden).
 - Sie saßen sich gegenüber. Stille.
-- Alphina sprach zuerst. Sie sprach ruhig, ohne Eile, in der Stimme, mit der sie über Pflanzen sprach, wenn sie über Pflanzen sprach. Sie erzählte:
-  - *Wir sind zu viert. Wir haben jeder etwas, was die Menschen Resonanz nennen — wir nennen es so. Pflanze, Licht, Zeit, Wasser. Vier von uns.* (Ohne Namen.)
-  - *Wir wissen seit dem Frühjahr. Wir haben uns gefunden, weil etwas uns gefunden hat — eine Spur, die zu uns geführt hat.* (Ohne Varens Namen, ohne Moragh-Namen.)
-  - *Wir haben einen Weg gefunden, der uns von hier wegbringt — durch ein Tor, das im Botanischen Garten liegt. Wir gehen, wenn wir alle bereit sind. Bald. Wir wissen das Datum noch nicht.*
-  - *Du hast eine fünfte Resonanz. Feuer und Hitze. Wir haben es vermutet seit dem Tag im Frühling, an dem ein Papier auf deinem Tisch gebrannt hat, ohne dass du es bemerkt hattest. Maren hat es gesehen. Vesper hat gerechnet. Wir haben gewartet, ob es sich klärt — oder ob es weggeht.*
-  - *Es ist nicht weggegangen.*
-- Runa hörte. Sie nahm einen Schluck Tee. Sie hielt den Becher fest, dass er nicht zu warm wurde.
+- Alphina sprach zuerst. Härteste Information ohne Anlauf: *„Du hast es. Wir wissen es seit dem Frühjahr."*
+- Runa hielt den Becher etwas fester. Die Hand wurde einen Atemzug heißer als der Tee, dann hielt sie sie. Sie nahm einen Schluck.
+- Runa: *„Was genau habt ihr?"*
+- Alphina, ruhig, in der Stimme, mit der sie über Pflanzen sprach: *„Wir sind zu viert. Wir haben jeder etwas. Eine Fähigkeit. Pflanze, Licht, Zeit, Wasser."* (Ohne Namen, ohne den Begriff *Resonanz*.)
+- Runa: *„Und ich?"*
+- *„Feuer. Hitze. Damals an deinem Tisch — ein Papier hat gebrannt, ohne dass du es bemerkt hast. Maren hat es gesehen. Vesper hat gerechnet. Wir haben gewartet, ob es sich klärt — oder ob es weggeht."*
+- *„Es ist nicht weggegangen."*
+- *„Nein."*
+- Runa: *„Und der Plan?"*
+- Alphina: *„Es gibt einen Weg, der uns von hier wegbringt. Durch ein Tor. Im Botanischen Garten."* (Ohne Varens Namen, ohne Moragh-Namen.) *„Wir gehen, wenn wir alle bereit sind. Bald. Das Datum kennen wir noch nicht."*
+- Runa: *„Und wer hat euch gefunden?"*
+- Eine Pause. Alphina suchte das richtige Wort. *„Eine Spur. Etwas, das uns gefunden hat. Mehr kann ich heute nicht sagen."* — Sorel-Prinzip eingehalten: kein Varen, kein Moragh.
+- Runa nickte einmal, nahm es an, fragte nicht weiter.
 - *„Warum habt ihr nichts gesagt?"* — die Frage kam ruhig, ohne Anklage.
-- Alphina: *„Wir wussten nicht, ob es echt war. Wir wussten nicht, was es mit dir tut, wenn wir's dir zeigen. Wir hatten Angst, dir etwas anzutragen, das du nicht haben musst."*
+- Alphina: *„Wir wussten nicht, ob es echt war. Wir wussten nicht, ob du bereit bist."*
 - Runa: *„Ich habe es."*
 - *„Ich weiß."*
 - Stille. Alphina sah Runas Hände an, die um den Becher lagen. Runa folgte ihrem Blick. Der Becher war nicht heisser als der Tee. Sie kontrollierte das, ohne nachzudenken, seit sie heute Nachmittag mit dem Bleilettern aufgehört hatte. Sie hatte gelernt, im Lauf eines Nachmittags, wann sie die Wärme festhielt und wann sie sie liess.
@@ -98,23 +107,29 @@
 - **Alphina nahm Runas Hand.** Sie streckte sie über den Tisch, fingerte einen Moment — keine Geste, die Alphina sonst leicht machte — und legte ihre Handfläche auf Runas Handrücken. Alphinas Hand war kühl, vom Mantel und vom Nebel. Runas Hand war warm. Die Wärme floss zwischen ihnen, eine Sekunde lang, dann hielt Runa sie fest. Sie liess Alphinas Hand nicht zu warm werden. Das war Selbstkontrolle.
 - *„Ich freue mich, dass du es weißt."*
 - Runa: *„Ich auch."*
-- **Heimliche Eifersucht-Beat (Réage-Körper-vor-Kopf, ohne Bitterkeit):** Während Alphinas Hand auf ihrer lag, schaute Runa Alphina an — den Wollmantel an der Stuhllehne, die Strähnen feucht am Schlüsselbein, die kleine Linie zwischen den Brauen, die nur dann da war, wenn Alphina an Sorel dachte. Im Bruchteil einer Sekunde sah Runa, was Alphina hatte: einen Mann, der sie anschaute, einen Garten, der ihr antwortete, eine Sprache, die aus ihr kam, ohne dass sie sie lernen musste. Runa hatte nichts davon. Sie hatte die Druckerei, die warmen Hände, ein Bett im Obergeschoss. Die Wärme blieb in ihrer Hand. Sie sass aufrecht. Sie dachte nicht *wenn nur*. Sie dachte *gut*. Dann ging es vorbei. Alphina merkte nichts. Runa lächelte, einmal, die Lippen schmal.
+- **Heimliche Eifersucht-Beat (Réage-Körper-vor-Kopf, ohne Bitterkeit):** Während Alphinas Hand auf ihrer lag, sah Runa die kleine Linie zwischen Alphinas Brauen, die nur dort war, wenn sie an Sorel dachte. Die Wärme in Runas Hand stieg, einen Atemzug. Sie hielt sie. Sie schaute weg. Lippen schmal, einmal. Alphina merkte nichts.
 - *„Was kann ich tun?"*
 - Alphina überlegte. *„In Vael, in den nächsten Wochen — du weißt, wo wir sind. Halt die Augen offen, wenn du Schemen siehst. Sag uns, was die Stadt sagt. Du hörst Sachen, die wir nicht hören."*
 - Runa nickte. Wartete. Atemzug. Dann, ruhig:
 - *„Und wenn ihr geht."*
 - Alphina hob den Blick. Wartete.
 - *„Ich komme mit."* — drei Worte, ohne Ausschmückung, ohne Frage. Dann, eine halbe Sekunde später, leiser: *„Wenn ihr mich lasst."*
-- Alphina war einen Moment still. Sie suchte in Runas Gesicht. Sie fand kein Drängen, kein Fordern. Nur die Feststellung.
+- Alphina war einen Moment still. Sie suchte in Runas Gesicht. Sie fand kein Drängen, kein Fordern. Nur die Feststellung. Ihre Hand auf Runas Hand wurde fester, eine Spur. Dann zog sie sie zurück, legte sie um den Becher, der nicht mehr warm war.
 - *„Es ist gefährlich. Wir wissen nicht, was uns dort erwartet."*
-- *„Hier ist es auch nicht sicher. Hier brennt es bald — und ich kann nicht so tun, als wäre ich nicht der Grund, weshalb es brennen wird."*
-- Alphina hielt den Blick. *„Das ist nicht dein Grund. Was hier brennt, brennt aus anderen Gründen. Du bist nicht das, was die Stadt verbrennt."*
-- *„Vielleicht. Aber ich kann hier nichts tun, was ich dort nicht besser könnte. Wenn ihr eine Fünfte braucht — habt ihr eine."*
-- Alphina nickte. Langsam. *„Ich rede mit Vesper. Ich rede mit Sorel und Maren. Heute nicht. Morgen. Wir entscheiden zusammen."*
+- *„Hier ist es auch nicht sicher."*
+- *„Das ist ein anderer Satz. Vael wird nicht jeden umbringen. Wenn du da hineingehst, gibt es kein Zurück."* — Alphinas Stimme blieb ruhig, aber sie war eine Spur härter geworden, die Stimme einer Botanikerin, die ein Substrat ablehnt. *„Du hast hier elf Jahre. Du hast einen Beruf. Du hast eine Stadt, die dich kennt. Wir gehen in nichts."*
+- Eine Pause. Runa hielt den Blick.
+- Runa: *„Das war nicht eure Entscheidung."*
+- Stille. Alphina hielt den Atem einen Moment an, dann atmete sie aus. Sie hatte den Satz erwartet, irgendwann, von irgendwem. Jetzt war es Runa.
+- *„Nein. Du hast recht. Es war nicht unsere Entscheidung."*
+- *„Aber ihr habt sie getroffen."*
+- *„Ja."*
+- Runa nickte einmal, ließ es liegen. Sie löste den Satz nicht weiter aus, sie zog kein zweites Mal an ihm. Sie hatte gesagt, was sie sagen musste.
 - *„Ich erwarte nicht, dass es ein Ja gibt. Ich erwarte, dass ihr es überlegt. Wenn das Ja kommt, bin ich da. Wenn das Nein kommt, bleibe ich hier und mache, was ich heute angefangen habe — die Augen offen, die Ohren offen, die Stadt im Blick."*
-- Alphina hielt einen Atemzug. *„Du machst das einfach."*
-- Runa, ohne Lächeln: *„Es ist nicht einfach. Es ist klar."*
-- **Schluss-Beat Sz2:** Alphina stand auf, zog den Mantel an, ging zur Tür. Drehte sich noch einmal. *„Danke, dass du mir es nicht übel nimmst."* Runa nickte. *„Ich nehme dir nichts übel. Ihr habt es richtig gemacht. Ich hätte es auch so gemacht."* Alphina ging. Die Tür schloss.
+- Alphina nickte. Langsam, nicht sofort. *„Ich rede mit Vesper. Ich rede mit Sorel und Maren. Heute nicht. Morgen. Wir entscheiden zusammen."*
+- *„Du machst das einfach."*
+- Runa legte den Becher ab. *„Es ist nicht einfach. Es ist klar."*
+- **Schluss-Beat Sz2:** Alphina stand auf, zog den Mantel an, ging zur Tür. Drehte sich noch einmal. *„Danke, dass du mir es nicht übel nimmst."* Runa hielt den Blick. *„Ich weiß."* Alphina ging. Die Tür schloss.
 
 **Dialog-Informationen Sz2:**
 - *Runa erfährt:* Es sind vier Resonanzen (Pflanze, Licht, Zeit, Wasser). Sie hat eine fünfte (Feuer/Hitze). Die Vier wissen das seit dem Frühjahr.
@@ -151,42 +166,38 @@
 **Beats (sachliches Exposé, Runa-POV):**
 
 - Runa setzte sich an den Schreibtisch, an dem sie ihre Buchhaltung machte. Nahm Papier und Feder aus der oberen Schublade. Tauchte die Feder in das Tintenfass.
-- Sie schrieb eine Liste — nicht für Alphina, für sich.
-  - *Was ich kann:* Wärme in den Händen. Blei verformen. Wachs schmelzen. Wasser warm halten in einem Becher (heute zum ersten Mal bewusst gemerkt). Feuer aus dem Finger an einen Docht setzen, ohne mich zu verbrennen.
-  - *Was ich nicht kann:* Eine Flamme aus dem Nichts. Eine Hitze gezielt — sie entsteht, wenn ich nicht aufpasse, sie wird kleiner, wenn ich aufpasse.
-  - *Was ich brauche:* Übung. Anweisung. Zeit. Vielleicht jemanden, der weiß, wie man das geht. Wenn es so jemanden gibt.
-  - *Was ich mitnehme, wenn ich gehe:* Das Notizbuch (rotes Leinen, halb voll). Die Zinnflasche mit dem Druckerei-Signet (sie hat sie zur Aufnahme der Lehre bekommen, vor zehn Jahren). Eine Sammlung Bleilettern, die sie selbst gegossen hat — den ganzen Setzkasten mit dem A. Klein und schwer.
-- Sie schaute auf die Liste. Nur drei Dinge. Mehr würde sie nicht mitnehmen können — wenn das Tor eng war, wenn die Reise schwer war, wenn man trug, was an einem hing. Drei Dinge.
-- **Heimliche Trauer-Beat (kurz, ohne Selbstmitleid):** Sie hatte keine Mutter, die fragen würde, wo sie hin sei. Keinen Mann, keine Frau. Beln und Tarn würden die Druckerei weiterführen — sie waren gut, sie würden es schaffen. Die Kunden würden sie eine Weile suchen, dann würden sie zu einer anderen Druckerei gehen. Das war Vael — Stadt, die weitermachte, mit oder ohne sie. Der Gedanke tat weh. Sie liess ihn weh tun, einen Atemzug, dann legte sie ihn zur Seite.
-- Sie schrieb unten auf das Blatt: *„Beln und Tarn kriegen die Werkstatt mit Übergabevertrag. Notar morgen."* Dachte einen Moment, ergänzte: *„Wenn ich nicht zurückkomme, sollen sie nicht warten."*
+- Sie ging zum Schrank im Hinterzimmer. Holte das Notizbuch heraus, rotes Leinen, halb voll, und legte es auf den Schreibtisch. Holte die Zinnflasche mit dem Druckerei-Signet — vor zehn Jahren zur Aufnahme der Lehre bekommen — und legte sie daneben. Aus dem Setzkasten mit dem A nahm sie eine Handvoll Lettern, die sie selbst gegossen hatte, klein und schwer, und schob sie in einen Leinenbeutel. Drei Dinge auf dem Tisch. Mehr würde sie nicht mitnehmen können, wenn das Tor eng war.
+- Was sie konnte, hatte sie heute am Setzkasten gesehen, am Bleilettern, am Docht. Was sie nicht konnte, lag auch da: Hitze entstand, wenn sie nicht aufpasste, und sie wurde kleiner, wenn sie aufpasste. Mehr nicht. Nicht gezielt, nicht aus dem Nichts. Sie würde es lernen müssen, wenn sie irgendwo lernen konnte. Sie hielt die Hand kurz still. Die Hand war ruhig. Mehr brauchte sie heute nicht zu wissen.
+- **Heimliche Trauer-Beat (aus Kontrast, ohne Selbstmitleid):** Tarn würde die Druckerei führen. Er war gut, er würde es schaffen — schneller als sie es ihm zugetraut hatte, als sie ihn vor zwei Jahren angenommen hatte. Der Hocker würde sich an eine andere Hüfte gewöhnen. Das *A* mit dem Halbmond würde er einschmelzen lassen oder behalten, je nachdem, wer er war, wenn sie weg war. Die Kunden würden sie eine Weile suchen, dann zu einer anderen Druckerei gehen. Das war Vael — Stadt, die weitermachte, mit oder ohne sie. Die Wärme in ihrer Brust sank kurz ab, ein leichter Zug nach unten, dann hielt sie wieder. Sie liess das Bild stehen, einen Atemzug, dann legte sie es zur Seite.
+- Sie schrieb unten auf das Blatt: *„Tarn kriegt die Werkstatt mit Übergabevertrag. Zwei Zeugen, morgen vormittag im Anker bestellen — Edric, Sievert."* Dachte einen Moment, ergänzte: *„Wenn ich nicht zurückkomme, soll er nicht warten."*
 - Sie blies auf die Tinte, faltete das Blatt einmal, legte es in die Schublade. Schloss die Schublade. Drehte den Schlüssel.
 - Sie ging zur Werkstatt-Tür, die zur Gasse führte. Schloss sie ab. Sie schloss die Werkstatt jeden Abend ab — das war Routine seit elf Jahren. Heute war es anders. Heute war es Vorbereitung.
 - Sie nahm die Lampe von der Werkbank, ging die hintere Stiege hoch in die Wohnung über der Druckerei. Stellte die Lampe auf den Waschtisch. Setzte sich aufs Bett.
-- **Letzter Beat:** Sie legte die Hand auf die Brust, dort wo bei den anderen das *Pochen* sass — sie wusste das, ohne dass es ihr jemand erzählt hatte (Maren hatte einmal, vor vielen Wochen, vor sich hin gesagt *„hier sitzt es"*, mit der Hand am Schlüsselbein, und Runa hatte es gehört, ohne zu fragen). Bei ihr sass es nicht. Bei ihr war an dieser Stelle nur eine Wärme, die immer da war, und die heute Nacht stetiger war als sonst. Das war ihr Pochen. Eine Wärme, die nicht zog. Eine Wärme, die einfach nur war.
+- **Letzter Beat:** Sie legte die Hand auf die Brust, dort wo Maren sich beim Erntemond-Besuch in der Druckerei an die Stelle gegriffen hatte — *hier sitzt es*, hatte Maren gesagt, beiläufig, vor sich hin, ohne dass Runa damals gefragt hätte. Bei ihr sass dort nichts, was zog. Nur eine Wärme, die immer da war und heute Nacht stetiger als sonst. Eine Wärme, die einfach nur war.
 - Sie legte sich hin, die Lampe noch an. Sie schaute an die Decke.
 - *Sie würde mitkommen, wenn sie sie liessen.*
 - *Wenn sie sie nicht liessen, würde sie hierbleiben und nach den Schemen sehen.*
-- Beides war OK.
-- **Schluss-Satz:** Sie blies die Lampe aus. Der Docht glomm noch einen Moment. Dann nicht mehr. Dann war es still.
+- **Schluss-Satz:** Sie blies die Lampe aus. Der Docht glomm noch einen Moment. Dann war es still.
 
 **Dialog-Informationen Sz3:**
 - *Runa erfährt (klare Selbst-Inventur):* Ihre Resonanz ist Wärme/Feuer; sie kann Verformen, Wachs schmelzen, Wasser halten, Feuer entzünden ohne Verbrennung. Sie kann nicht: Flamme aus nichts, gezielte Hitze.
-- *Runa entschließt:* Drei Dinge mitnehmen — Notizbuch, Zinnflasche, Bleilettern-Sammlung. Werkstatt an Beln und Tarn mit Übergabevertrag.
-- *Runa-Charakter-Beat:* Sie lässt heimliche Trauer (Allein-sein) einen Atemzug zu, ohne in Selbstmitleid zu kippen. Klarsicht-Disziplin.
+- *Runa entschließt:* Drei Dinge mitnehmen — Notizbuch, Zinnflasche, Bleilettern-Sammlung. Werkstatt an Tarn mit Übergabevertrag, zwei Zeugen (Edric, Sievert).
+- *Runa-Charakter-Beat:* Trauer aus Kontrast — was *da ist* (Tarn, Hocker, das *A* mit dem Halbmond, die Stadt) trägt den Verlust. Die Wärme in der Brust sinkt kurz, hält wieder. Klarsicht-Disziplin.
 - *Runa-Resonanz-Beat:* An der Brust-Stelle, wo bei den anderen das „Pochen" sitzt, hat sie Wärme. *„Eine Wärme, die nicht zog. Eine Wärme, die einfach nur war."* — bewusste Differenzierung von Maren-Pochen.
 
 **Tschechow-Waffen geladen Sz3:**
 - **Die drei Dinge (Notizbuch, Zinnflasche, Bleilettern-Sammlung)** — Tschechow für K36/K37 (Runa stolpert durchs Tor mit den drei Dingen) und B2 (sie hat nur das, was sie mitgenommen hat).
-- **Der Übergabevertrag mit Beln und Tarn** — Tschechow für Epilog K40 (*„Vael ohne die Fünf"* — die Druckerei läuft weiter).
+- **Der Übergabevertrag mit Tarn (zwei Zeugen)** — Tschechow für Epilog K40 (*„Vael ohne die Fünf"* — die Druckerei läuft weiter, Tarn übernimmt).
 - **Runa-Pochen-Differenzierung** — *Wärme, die nicht zog* — Canon-Differenzierung zur Maren-Pochen-Resonanz, und zu Alphinas Pflanzen-Pulsschlag, und zu Sorels/Vespers Resonanzen. Feuert in B2 wenn alle Resonanzen verglichen werden.
 
 **Tschechow-Waffen abgefeuert Sz3:**
-- **K28 (Maren-POV, Pochen am Schlüsselbein):** Maren hat einmal, vor Wochen, vor sich hin gesagt — Runa hat es gehört. Cross-POV-Echo.
+- **Maren-Druckerei-Besuch im Erntemond (Pochen am Schlüsselbein):** Maren hat im Erntemond bei der Bestell-Übersetzung in der Druckerei mit der Hand am Schlüsselbein gesessen und vor sich hingesagt *„hier sitzt es"* — Runa hat es gehört, ohne damals zu fragen. Wissensanker im Druckerei-Kontext, nicht in Privatszene K28.
 - **POV-Dossier-Canon (Runa wird klarsichtig, unerschüttert):** Hier in B1 zum ersten Mal voll sichtbar.
 - **Aktplan-K34 (Runa-„Ich komme mit"):** Hier privat vorbereitet, in K34 öffentlich gesprochen.
 
 **Cross-POV-Ankerpunkte Sz3:**
 - **K28 (Maren-POV):** Maren schließt zum ersten Mal die Wohnungstür ab als Sicherheitsbruch. Runa schließt die Werkstatt ab als Vorbereitungs-Geste. Eigene Geographie.
+- **Erntemond-Druckerei-Besuch (Cross-Beat):** Marens „hier sitzt es"-Geste verortet — Druckerei, Bestell-Übersetzung, Runa als beiläufige Zeugin. Kein K28-Privatraum-Konflikt.
 - **K34 (Alle):** Runas Mitnehm-Liste hier (drei Dinge) und Runas „Ich komme mit"-Privat-Aussage hier — beides feuert in K34 öffentlich. K34 wird die Liste nicht wiederholen, aber die Konsequenz ist verankert.
 
 ---
@@ -255,10 +266,10 @@
 
 ### Commercial 95%-Gate-Check
 
-1. **Erster Satz Hook:** Runas Hände-warm-Setup + Brandfleck am Setzkasten. Vorschlag: *„Runa stand seit dem Mittag nicht mehr am Setzkasten."* — Figur in Situation, mit Spannung (warum hat sie aufgehört?), mit Bewegung (Stillstand als bewusste Wahl).
-2. **Figur will etwas:** Verstehen, was heute Mittag passiert ist. Das Wollen ist Innenwende, nicht äußere Aktion — aber präsent.
-3. **Kipp in 200 Wörtern:** Bleilettern-Block weicht unter dem Daumen. Sichtbares Magie-Manifest.
-4. **Körper im ersten Viertel:** Hände warm, Daumen am Buchstaben, der Halbmond-Abdruck.
+1. **Erster Satz Hook:** Wollen + Körper. Vorschlag: *„Runa wollte den Setzkasten ordnen. Ihre Hand blieb in der Luft, einen Daumen über den Lettern."* — Figur mit Wille + körperlichem Stillstand, der einen Grund hat.
+2. **Figur will etwas:** Den Setzkasten ordnen, die Werkstatt zurückhaben — beides scheitert an ihrer eigenen Wärme. Wollen + Hindernis im ersten Absatz.
+3. **Kipp in 200 Wörtern:** Bleilettern-Block weicht unter dem Daumen, Halbmond bleibt im *A*. Sichtbares Magie-Manifest, VOR der Beobachtungs-Liste, als Auslöser der Erkenntnis.
+4. **Körper im ersten Viertel:** Hände warm, Daumen am Buchstaben, der Halbmond-Abdruck, die Wärme im Hocker, der seit fünf Jahren ihre rechte Hüfte kennt.
 
 ### Cross-POV-Sprach-Check
 
@@ -267,14 +278,15 @@
 - **„Schemen"** in Prosa nicht (Memory). Runa denkt: *die Geister von Vael* (eigener Flugblatt-Titel) oder *die Wesen, die heute am Marktplatz waren*.
 - **Moragh-Name nicht.** *Dort hin, das andere, ein Tor.*
 - **Varen-Name nicht.**
-- **Kein *„Resonanz"*-Wort** in Runas Kopf — sie denkt *Wärme*. Alphina sagt das Wort *„Resonanz"* einmal in Sz2; Runa nimmt es auf, benennt aber selbst weiterhin *„Wärme"*.
+- **Kein *„Resonanz"*-Wort** — weder in Runas Kopf noch in Alphinas Dialog. Alphina nennt es *„eine Fähigkeit"*, dann differenziert *„Pflanze, Licht, Zeit, Wasser. Feuer."*. Der Begriff *Resonanz* bleibt in K32 vollständig draußen (Memory: Master `feedback_resonanz_nicht_benennen.md`). Runa selbst denkt durchgehend *Wärme*.
 
 ### Kanon-Checks
 
 - **14. Nebelmond 551 TZ Abend** = direkt nach K31 Tag.
 - **Druckerei Kvist** = Oberstadt, nahe Marktplatz (Canon-Kompakt).
 - **Eigene Haut immun gegen eigenes Feuer** — POV-Dossier-Canon, hier erstmals B1 sichtbar.
-- **Beln und Tarn** als Druckergesellen — fantasy-phonetische Namen, **falls Autor andere Namen vorzieht: korrigierbar**.
+- **Tarn (Druckergeselle)** — etabliert in K05 (Stimme aus Hinterraum, Erstauftritt), K15 (beiläufige Erwähnung im Garten-Dialog), K31-Sz2 (Marktplatz-Begleiter, von Runa nach dem Schemen-Mord weggeschickt). In K32 namentlich erwähnt, kommt nicht persönlich vor.
+- **Joran-Setzkasten-Brandfleck** — sechs Tage alt, K30-Tatort. K32-Sz1 sitzt Runa an genau diesem Setzkasten. Cross-POV-Anker.
 
 ### Aktplan-Abgleich
 
@@ -289,23 +301,26 @@
 - **POV-Disziplin:** Runa-POV durchgehend.
 - **Ton-Referenz:** Kuang-Klarsicht (Babel), Yarros-Wärme-Subtext, Maas-Werkstatt-Sinnlichkeit. Leseprobe 09 als Welt-warm-Anker, Leseprobe 06 für Erlaubnis-Beats.
 - **Werkstatt-Material dosiert:** 1–2 Druckerei-Vokabel-Beats pro Szene, nicht Katalog.
-- **Wärme als Leitmotiv:** in Sz1 manifest (Bleilettern weich, Docht entzünden), in Sz2 kontrolliert (Becher kühlen), in Sz3 meditativ (Brust-Wärme).
-- **Heimliche Eifersucht-Beat (Sz2):** *Réage-Körper-vor-Kopf*, kurz, leise, ohne Tränen, ohne Bitterkeit. Lächeln mit schmalen Lippen, einmal. Kein Selbstmitleids-Monolog.
-- **Heimliche Trauer-Beat (Sz3):** Allein-Sein-Erkenntnis, einmaliger Atemzug, dann zur Seite. Kein Pathos.
+- **Wärme als Leitmotiv:** in Sz1 manifest (Bleilettern weich, Docht entzünden), in Sz2 kontrolliert (Becher kühlen, Eifersucht-Wärme-Steigen), in Sz3 meditativ (Brust-Wärme).
+- **Heimliche Eifersucht-Beat (Sz2):** *Réage-Körper-vor-Kopf*, kurz, leise. Linie zwischen Alphinas Brauen, Wärme in Runas Hand stieg, sie hielt sie, schaute weg, Lippen schmal einmal. Kein Defizit-Katalog. Kein *„sie dachte nicht"*-Erklärungs-Beat. Körper allein.
+- **Heimliche Trauer-Beat (Sz3):** Aus Kontrast erzählen — was *da ist* (Tarn, Hocker, das *A*, die Stadt) trägt den Verlust. Wärme in der Brust sinkt einen Moment, hält wieder. Kein Pathos, keine Defizit-Aufzählung („keine Mutter, keinen Mann"-Sätze sind raus).
 - **Alphina-Dialog ohne Eigennamen:** keine Erwähnung von Varen, keine Erwähnung von Moragh. Stattdessen *„etwas, das uns gefunden hat"*, *„dort"*, *„ein Tor im Garten"*.
+- **Resonanz-Begriff bleibt draußen** — auch im Alphina-Dialog. Sie sagt *„eine Fähigkeit"*, dann differenziert *„Pflanze, Licht, Zeit, Wasser. Feuer."*.
+- **Alphina-Erklärung als Frage-Antwort, nicht Lagekarte** — härtestes zuerst (*„Du hast es. Wir wissen es seit dem Frühjahr."*), Rest auf Runas Fragen verteilen. Nicht durchnummeriert, nicht infodumpen.
+- **Verhandlungs-Beat Sz2** — Alphina widerspricht ernsthaft (*„Wenn du da hineingehst, gibt es kein Zurück."*). Runas *„Das war nicht eure Entscheidung."* darf stehen, wird nicht versöhnlich aufgelöst, nur angenommen. Pause vor Alphinas Nicken.
 - **Schachfigur nicht erwähnen** — die ist V/M-Privat-Canon, Runa weiss nichts davon.
 - **„Schemen" nicht in Prosa.** Stattdessen *„die Wesen"*, *„die Geister"* (Flugblatt-Echo), *„was am Marktplatz war"*.
+- **Joran-Bezug am Setzkasten** in Sz1 spürbar machen — der Brandfleck ist sechs Tage alt, Runas Hocker steht direkt davor, sie hat ihn jeden Tag gesehen. Heute sitzt sie *an* diesem Setzkasten.
+- **Tarn nicht persönlich anwesend** in K32, aber zwei namentliche Erwähnungen: in Sz1 („Tarn am Mittag nach Hause geschickt") und Sz3 (Übergabevertrag).
 - **Vollständige Sätze Default**, keine Stakkato außer einmal in Sz1 (Verformungs-Beat) als Stilmittel.
 - **Kein Puls-Substantiv.**
 - **Umfang:** 3.500–4.000 W. Sz1 1.100–1.300, Sz2 1.300–1.500, Sz3 800–1.000.
-- **Schluss-Satz nüchtern.** *„Sie blies die Lampe aus. Der Docht glomm noch einen Moment. Dann nicht mehr. Dann war es still."* — oder vergleichbar.
+- **Schluss-Satz nüchtern, einfaches *Dann*.** *„Sie blies die Lampe aus. Der Docht glomm noch einen Moment. Dann war es still."*
 
 ---
 
 ## Offene Punkte für Autor-Entscheidung
 
-1. **Druckergesellen-Namen** Beln und Tarn — fantasy-phonetisch vorgeschlagen. Andere Namen?
-2. **Mutter/Familie-Canon Runa** — POV-Dossier hat keine Familie-Info. Im Entwurf habe ich „keine Mutter, keinen Mann, keine Frau" gesetzt — ist das Canon, oder gibt es Familie-Reste in Vael?
-3. **K31-Anpassung empfohlen:** Die volle Alphina-an-Runa-Erklärung von K31 nach K32 verschieben. K31 endet dann mit Alphinas Versprechen *„heute Abend bei dir"*. Autor-Freigabe?
-4. **Übergabevertrag-Detail** — Notar morgen. Falls Vael keinen Notar-Stand-Canon hat, müsste man hier eine andere Form finden (Übergabevertrag mit Zeugen?).
-5. **Heimliche Eifersucht — wem gegenüber?** Aktuelle Lesart: Runa beobachtet *beide* Paare und ist allein. Sie sieht in Alphina eine Frau mit Mann. Keine Romance-Andeutung Runa-Alphina selbst. Stimmt das mit der Autor-Intention überein?
+1. **Mutter/Familie-Canon Runa** — POV-Dossier hat keine Familie-Info. Im Entwurf wird die Trauer aus Kontrast erzählt (was *da ist*: Tarn, Hocker, das *A*) statt aus Defizit-Aufzählung — kein Eingriff nötig, falls Familie-Status egal ist.
+2. **Heimliche Eifersucht — wem gegenüber?** Aktuelle Lesart: Runa sieht in Alphina eine Frau mit Mann (Sorel). Keine Romance-Andeutung Runa-Alphina selbst. Stimmt das mit der Autor-Intention überein?
+3. **Zeugen für Übergabevertrag** — vorgeschlagen: Edric (Werft, kennt Runa) und Sievert (Bäcker Hafengasse, etabliert seit K05). Beide canon. Tauglich, oder andere Zeugen?
