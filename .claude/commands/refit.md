@@ -464,22 +464,31 @@ In der Hauptsession:
    - Marktfaehigkeits-Score (Subagent 4)
    - Gesamt-Stimmung
 
-2. **Master-Tabelle in DREI Bloecken** (statt einer flachen Liste):
+2. **Master-Tabelle in DREI Bloecken** (statt einer flachen Liste).
 
-   **Block A — PFLICHT (Konsistenz/Canon-Verstoss)** — wird ohne Diskussion gefixt:
+   **WICHTIG — Format mit Kontext:** Jedes Finding muss als Block dargestellt werden, nicht als knappe Tabellen-Zeile. Format:
 
-   | # | Zeile | Quelle | alt | neu | warum (Canon-/Welt-/Magie-/POV-Verstoss) |
-   |---|---|---|---|---|---|
+   ```
+   ### A1 — Z.{NN} — {Quelle} [{Tag}]
 
-   **Block B — EMPFEHLUNG (klarer Stil-Tic, keine Funktion)** — Default fixen:
+   **vorher:**
+   > {1 Satz davor — dass der Leser die Stelle einordnen kann}
+   > {betroffene Stelle}
+   > {1 Satz danach}
 
-   | # | Zeile | Quelle | alt | neu / [STREICHEN] | warum |
-   |---|---|---|---|---|---|
+   **nachher:**
+   > {1 Satz davor — unverändert}
+   > {neue Stelle / [STREICHEN]}
+   > {1 Satz danach — unverändert}
 
-   **Block C — STIL-VORBEHALT (formal Verstoss, Funktion da)** — Default behalten, Autor entscheidet:
+   **warum:** {kurz, ein Satz}
+   ```
 
-   | # | Zeile | Quelle | alt | Vorschlag (falls Autor will) | Funktion (warum behalten plausibel) |
-   |---|---|---|---|---|---|
+   Reines Wort-Ersetzen ohne Kontext (z.B. „Marienkirche → Glockenturm") ist verboten — der Autor muss die Aenderung im umgebenden Satz pruefen koennen. Bei langen Saetzen reicht der Beat-Halbsatz davor und danach. Bei Sweep-Aenderungen (z.B. „Nebel → Dunst" 9x) reicht ein Block mit 2-3 typischen Beispielen plus Hinweis „identisch an Z.X, Y, Z".
+
+   **Block A — PFLICHT (Konsistenz/Canon-Verstoss)** — wird ohne Diskussion gefixt.
+   **Block B — EMPFEHLUNG (klarer Stil-Tic, keine Funktion)** — Default fixen.
+   **Block C — STIL-VORBEHALT (formal Verstoss, Funktion da)** — Default behalten, Autor entscheidet.
 
    **Konflikt-Hierarchie:** Konsistenz > Verquastung > Stilregel > Genre-Geschmack. Aber: Findings mit `[STIL?]`-Tag aus Subagent 1, die in Subagent 4 als Pflicht-Lob auftauchen → automatisch Block C.
 

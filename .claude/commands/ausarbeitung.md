@@ -375,7 +375,9 @@ Pruefe (mit Grep wo moeglich), jede Stelle einzeln markieren:
 - **Negations-Dichte (Lücke aus Audit 2026-05-02):** Zähle pro Block die Marker `nicht`, `nichts`, `kein/e/r/m/n`. Hochrechnen auf 1000W. Bei >15 pro 1000W: FINDING „Negations-Dichte". Sätze mit Negations-Marker einzeln markieren — pro Satz prüfen, ob positive Umformulierung dieselbe Information trägt. Ausnahme: Verweigerung/Abwesenheit als Handlung (echte Negation bleibt). Quelle: `buch/02-stilregeln-v2.md` Z.414-458.
 - **„als hätte/wäre/könnte/würde"-Hypothetische (Lücke aus Audit 2026-05-02):** Zähle pro Block. Limit max 6 pro Kapitel — auf Block-Ebene FINDING bei >2/Block (entspricht Hochrechnung). Pro Treffer prüfen: trägt die Hypothese einen Beat (Charakter-Modus, Vergleichs-Bild) — oder ist sie nur Standard-Anschluss? Default-Anschluss: positiv umformulieren („als hätte sie gewusst" → „sie wusste"). Quelle: `buch/02-stilregeln-v2.md` Z.25.
 
-Output: Tabelle | Stelle (woertliches Zitat) | Pattern | alt | neu / [STREICHEN] | warum |
+Output: Tabelle mit Spalten | Zeile | Stelle (woertliches Zitat) | Pattern | alt | neu / [STREICHEN] | warum |
+
+**WICHTIG — Kontext-Pflicht:** Spalte „alt" liefert min. 1 Halbsatz davor + die betroffene Stelle + 1 Halbsatz danach (oder 2-3 Saetze, wenn der Beat laenger ist). Spalte „neu" liefert dieselben Saetze davor/danach unveraendert + die geaenderte Stelle. So kann der Autor die Aenderung im Kontext bewerten. Reine Wort-fuer-Wort-Aenderungen ohne Kontext sind unbrauchbar — der umgebende Satzbau entscheidet, ob ein Aphorismus traegt oder nicht.
 
 Max 5 Findings. Verdikt: BESTANDEN / GRENZWERTIG / NICHT BESTANDEN.
 
