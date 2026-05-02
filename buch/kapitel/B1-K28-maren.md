@@ -14,7 +14,7 @@ Ihre Hand fand den Saum des Hemdes über der rechten Hüfte. Vesper hatte ihr im
 
 Sie schloss die Wohnungstür hinter sich, ohne abzuschließen. In der Hafengasse stand der Nebel hüfthoch und schluckte das Wenige, was die Öllaternen an den Hauskanten in die Nacht stellten. Drei Häuser weiter, Nummer sieben, hatte der Böttcher die Fenster der Familie Treks vor einer Woche mit Brettern kreuzweise vernagelt, bevor sie nach Solha gingen — das erste leere Haus in dieser Gasse. In den anderen Häusern lag noch Licht hinter den Läden. Aus dem Südosten, hinter dem Archivhügel, hing seit Tagen ein Geruch in der Luft, süß und dicht, wie ein schwerer Teig, der zu lange im Ofen gestanden hatte.
 
-Vom Leuchtturm her kam das Nebelhorn alle sechzig Schlag einmal, dumpf und tief durch den Nebel gedämpft. Die Pflastersteine waren kalt und feucht unter den Fußsohlen, der Tau lag noch nicht abgezogen. Sie ging zur Werft, weil sie das Wasser unter den Pfählen hören musste.
+Vom Leuchtturm her kam das Nebelhorn alle sechzig Schlag einmal, dumpf und tief durch den Nebel gedämpft. Die Pflastersteine waren kalt und feucht unter den Fußsohlen, der Tau hatte sich noch nicht verzogen. Sie ging zur Werft, weil sie das Wasser unter den Pfählen hören musste.
 
 An der Ecke zur Fischhalle gingen zwei Soldaten Patrouille, die Mäntel lang, die Öllaterne nach unten gehalten, damit das Licht nicht in den Nebel stieß. Die Patrouillen gingen seit zwei Monaten — angeordnet, nachdem im Glutmond die Seilerei Mert ohne offene Flamme abgebrannt war. Im Herbstmond hatte ein Schiffshändler aus dem Norden den Hafen nicht mehr verlassen. Auf dem Markt sammelten sich seither die Geschichten: Schatten an Mauern, kleine Brände in Werkstätten, bei denen alle Lampen nachweislich aus waren, Vorfälle, für die niemand einen Verursacher zeigen konnte. Was der Obrist angeordnet hatte, wusste keiner genau, aber dass etwas geschehen musste, sagten alle. Maren blieb im Schatten einer Hauskante stehen und wartete, bis die Soldaten in die Querstraße abbogen. Sie wollte nicht erklären, wohin sie nachts ging.
 
@@ -40,9 +40,9 @@ Sie erreichte die Kreisrand-Linie und blieb einen Atemzug draußen stehen. Siebe
 
 Am Kreisrand sanken ihre Schultern, ohne dass sie es entschieden hatte, und sie atmete einmal länger als nötig. Dann trat sie über die Steinlinie. Drei Schritte trennten sie vom nächsten Purpurstein. Der Boden im Kreis war kahle Erde, ohne Wurzel und ohne Halm. Drinnen wuchs nichts; sie kannte das von außen wie von innen. Heute war die Erde warm unter den Fußsohlen, deutlich wärmer als der Kies vom Pfad.
 
-Sie trat an den Purpurstein, der ihr am nächsten lag — hüfthoch, glatt, dunkel-rotviolett. Der Stein war nass; ein matter Glanz lag auf der Oberfläche. Kein Nebel-Niederschlag — die Nebelgrenze stand draußen vor der Steinlinie. Der Stein schwitzte. Maren legte den Handrücken an die Fläche, Werft-Reflex: Material zuerst mit dem Handrücken prüfen, die Handfläche später. Er war warm, feucht, gleichmäßig perlend.
+Sie trat an den Purpurstein, der ihr am nächsten lag — hüfthoch, glatt, dunkel-rotviolett. Der Stein war nass; ein matter Glanz ruhte auf der Oberfläche. Kein Nebel-Niederschlag — die Nebelgrenze stand draußen vor der Steinlinie. Der Stein schwitzte. Maren legte den Handrücken an die Fläche, Werft-Reflex: Material zuerst mit dem Handrücken prüfen, die Handfläche später. Er war warm, feucht, gleichmäßig perlend.
 
-Sie zog den Handrücken weg, hob die Fingerspitze an die Unterlippe und schmeckte. Es war Salz. Sie kannte Grauwe-Salz, bitter und metallisch, mit einem Hauch Schlick. Sie kannte Tafelsalz, hefig-süßlich, aus den Goldblüten-Minen. Was hier auf ihrer Lippe lag, war herber als beides, mit einer Tiefe darunter, die sie nicht einordnete.
+Sie zog den Handrücken weg, hob die Fingerspitze an die Unterlippe und schmeckte. Es war Salz. Sie kannte Grauwe-Salz, bitter und metallisch, mit einem Hauch Schlick. Sie kannte Tafelsalz, hefig-süßlich, aus den Goldblüten-Minen. Was hier auf ihrer Lippe blieb, war herber als beides, mit einer Tiefe darunter, die sie nicht einordnete.
 
 Sie legte jetzt die Handfläche offen flach an den Stein. Er war warm. Eine Welle lief durch ihre Haut in die Handwurzel, den Unterarm, unter das Schlüsselbein, in die Brust — stetig, ohne Abreißen.
 
@@ -52,15 +52,15 @@ Sie atmete einmal länger als nötig. Am Augenwinkel zog Nebel sich zusammen, di
 
 Im Nebel jenseits der Steinlinie verdichtete sich etwas an mehreren Stellen — sie war nicht sicher wo. Sie blinzelte. Der Nebel hielt zu dicht.
 
-Sie hob die freie Hand. Der Nebel zog mit, träge erst, dann williger, fünf Schritt — und sie spürte es sofort: hier am Stein war es leichter. Was sie in der Hafengasse mit einer Bahn von drei Schritten geöffnet hatte, ging hier doppelt so weit, ohne dass die Hand zog. Was im Boden lag, gab ihr Wärme bis in die Schulter und drückte ihr durch die Handfläche in die Finger, satt und stetig, als hielte sie eine zweite Hand am Tau eines unruhigen Bootes. Die Schwaden vor ihr teilten sich.
+Sie hob die freie Hand. Der Nebel zog mit, träge erst, dann williger, fünf Schritt — und sie spürte es sofort: hier am Stein war es leichter. Was sie in der Hafengasse mit einer Bahn von drei Schritten geöffnet hatte, ging hier doppelt so weit, ohne dass die Hand zog. Was im Boden steckte, gab ihr Wärme bis in die Schulter und drückte ihr durch die Handfläche in die Finger, satt und stetig, als drückte ihr Arm gegen einen Spant, der nicht nachgab. Die Schwaden vor ihr teilten sich.
 
 In der Bahn, die sie freigemacht hatte, glühten zwei kohlenrote Punkte. Die Punkte saßen niedriger als bei einem Menschen. Sonst nichts.
 
-Sie drängte weiter, sieben Schritt. Über den zwei Punkten setzte sich ein Kopf zusammen, breit, niedrig, in einer Linie mit dem Rücken, der dahinter im Nebel lag. Es knurrte. Lang, kehlig, tiefer als irgendetwas, was Maren je gehört hatte.
+Sie drängte weiter, sieben Schritt. Über den zwei Punkten setzte sich ein Kopf zusammen, breit, niedrig, in einer Linie mit dem Rücken, der dahinter im Nebel hing. Es knurrte. Lang, kehlig, tiefer als irgendetwas, was Maren je gehört hatte.
 
 Sie drückte stetig. Zehn Schritt. Aus dem Nebel kam der Körper: vierbeinig, breit, tiefer als ein Mensch. Schultern, langer Rücken, Beine ohne Knie. Aus dem Rücken stieg Rauch, ohne dass irgendwo Brand war. Dahinter glühten vier neue Punkte — zwei weitere Köpfe, zwei weitere Körper im weichen Grau. Ein zweites Wesen knurrte aus seinem Brustkorb, gleicher Ton, gleiche Tiefe.
 
-Sie drängte ein letztes Mal. Sieben standen draußen, der siebte am weitesten hinten, größer oder nur näher an dem, was hinter dem Nebel lag. Um alle Körper herum lag dieses trockene Reißen in der Luft, das sie schon im Hören gespürt hatte. Sie sahen sie an, alle sieben.
+Sie drängte ein letztes Mal. Sieben standen draußen, der siebte am weitesten hinten, größer oder nur näher an dem, was hinter dem Nebel lag. Um alle Körper herum saß dieses trockene Reißen in der Luft, das sie schon im Hören gespürt hatte. Sie sahen sie an, alle sieben.
 
 Die Pfoten trafen den Boden nicht. Drei, vier setzten sich in Bewegung. Das Knistern wurde dichter.
 
@@ -68,14 +68,74 @@ Maren ließ die Nebelhand fallen. Der Nebel schloss sich um sie und nahm ihr die
 
 ---
 
-Sie zog die Hand vom Stein, drehte sich, und dann lief sie. Über die Steinlinie, durch den Garten, nasses Laub an den Waden, Farne, die unter ihren Sohlen rissen. Den Hauptpfad zurück, kürzer als der Bogen, auf dem sie gekommen war. Hinter ihr das Knistern. Schritte hörte sie keine. Sie horchte im Laufen, weil ihre Werft-Ohren auf Holz unter Sohlen trainiert waren, auf Gewicht, das aufsetzt — und da war nichts. Nur das trockene Reißen, gleich weit weg, weder näher noch ferner. Es lief mit.
+Sie zog die Hand vom Stein, drehte sich, und dann lief sie. Über die Steinlinie, durch den Garten lief sie zurück; nasses Laub klebte an den Waden, Farne rissen unter ihren Sohlen. Sie nahm den Hauptpfad zurück, kürzer als der Bogen, auf dem sie gekommen war. Hinter ihr saß das Knistern, gleichmäßig, weder näher noch ferner. Schritte hörte sie keine. Werft-Ohren waren auf Holz unter Sohlen trainiert, auf Gewicht, das aufsetzt, und da war nichts — nur das trockene Reißen in der Luft, das sich mit ihr bewegte.
 
-Ihr Atem blieb hoch in der Brust hängen, der Speichel lief dünn, sie schluckte und lief weiter. Die Nebentür nahm sie mit der Schulter, das Holz gab nach, sie war draußen, dann in den Gassen der Oberstadt. Sie merkte sich: Mantel zu, Pistole in der Tasche, Hände leer. Mehr kam nicht.
+Auf Höhe der mittleren Linde wagte sie den Blick. Sie warf den Kopf über die linke Schulter, kurz, im Laufen, und sah, was dort war: zwei dunkle Körper, vierbeinig und breit, dicht hinter ihr im Nebel; ein dritter weiter zurück. Die Köpfe hingen niedrig, in einer Linie mit dem Rücken. Die Augen brannten kohlenrot, paarweise gesetzt. Aus den Rücken stieg derselbe Rauch wie am Steinkreis. Das Knistern saß in der Luft um sie, satt und stetig, als würde Holz im Ofen reißen.
 
-Den Lehrling sah sie im Vorbeilaufen. Er saß an der Mauer, das Kinn auf der Brust, die Hände offen auf den Oberschenkeln. Der süße Geruch war am stärksten hier, direkt aus ihm. Sie lief weiter. In den nächsten Gassen wurde das Knistern dünner, und irgendwann war es weg — sie merkte es erst, als sie aufhörte zu lauschen.
+Die Pfoten trafen den Boden nicht.
 
-Die letzten Gassen rannte sie. An der Wohnungstür zitterten ihre Finger so, dass der Schlüssel zweimal vom Lederband rutschte. Sie kriegte ihn ins Schloss. Drinnen drehte sie um, drückte die Tür mit der Hüfte zu, und der Riegel ging vor, zum ersten Mal seit sie hier wohnte. Das Holz war kühl an ihrem Rücken, als sie sich daran hinunterließ. Die Knie gaben weich nach. In ihrem Brustkorb saß das Knurren noch, tief und fremd, und der Atem trug es nicht hinaus.
+Sie sah es in dem einen Blick: Die Beine setzten an, die Sohlen kamen auf das Laub zu, und dort, wo Pfote und Erde sich treffen sollten, lief eine Lücke mit. Das Eichen- und Lindenlaub blieb liegen, wo die drei vorbeikamen. Die Farne, die ihre eigenen Beine streiften, rissen unter ihren Sohlen — die anderen ließen sie stehen. Die Bewegung der drei trug sich eine Handbreit über dem Grund.
 
-Sie blieb eine Weile so an der Tür sitzen. Dann stand sie auf, ging zur Matte am Kamin und legte sich. Sie zog die Wolldecke bis zum Kinn, die Knie angezogen. Die Augen blieben offen.
+Sie wandte den Kopf nach vorn und lief schneller. Der Atem saß hoch in der Brust, der Speichel lief dünn, sie schluckte und lief weiter. Am Gärtnerhaus stand die Nebentür im selben Spalt wie auf dem Hinweg. Sie nahm das Holz mit der Schulter, Werft-Reflex, und das Holz gab nach. Draußen schlugen die Pflastersteine kalt gegen die Fußsohlen, dann die Gassen der Oberstadt. Hinter ihr blieb das Knistern, gleichmäßig, weder näher noch ferner. Sie merkte sich: Mantel zu, Pistole in der Tasche, Hände leer. Mehr kam nicht.
 
-Sie sah die graue Helligkeit an der Zimmerdecke langsam anwachsen — der Nebelmond-Morgen kam später als der Glutmond-Morgen, aber er kam. An ihrer Hüfte, in der angenähten Tasche, lag der Schachturm, warm vom Körper, weil sie ihn die ganze Nacht nicht herausgenommen hatte. Sie schloss die Augen.
+Sie verließ den Garten durch die Nebentür und kam in die erste Gasse der Oberstadt. Die Pflastersteine waren hier größer und glatter als in der Hafengasse, der Mörtel zwischen ihnen frisch ausgebessert. Der Nebel stand brusthoch, dichter als auf dem Hinweg. Eine Gasse, zwei. Hinter ihr saß das Knistern weiter, gleichmäßig, weder näher noch ferner.
+
+Als sie die zweite Querstraße erreichte, hob sie im Laufen die linke Hand nach hinten, Finger gespreizt, Handfläche nach unten. Auf dem Hinweg hatte sie dieselbe Geste in der Hafengasse benutzt, um eine Bahn vor sich zu öffnen, drei Schritte weit. Heute Nacht wollte sie das Gegenteil: die Tröpfchen hinter sich zusammenziehen, satt und dicht, bis etwas zwischen ihr und dem stand, was hinter ihr lief. Sie wusste nicht, ob es ging. Sie hielt die Hand.
+
+An der Handfläche sammelten sich die Tröpfchen. Feucht, kühl, ein Gewicht, das mit jedem Schritt zunahm. Sie zog sie hinter sich her wie ein Tau im Schlick — der Sog im Handgelenk, satt und stetig, das Tau nass und schwer, je länger sie es ließ. Sie kannte den Zug von der Werft, vom Anlegen eines Boots gegen die Strömung. Auf der Werft war es ein nasses Tau, jetzt war es die Luft selbst, und der Sog blieb derselbe, gleich verteilt über die ganze Handfläche.
+
+Sie lief weiter und hielt die Hand. Eine Gasse, zwei. Zwischen den Schulterblättern brach Schweiß durch das Leinen, kalt unter der Wolle. Der Arm wurde schwerer, das Handgelenk zog, als hinge an ihm das ganze Gewicht der Werftnächte. Die Halsschlagader schlug satt gegen die Haut. Hinter ihr ballten sich die Tröpfchen, dichter als die Luft vor ihr, schwer von Wasser, das nicht mehr nur Nebel war — sie spürte den Sog, ohne hinzusehen.
+
+Hinter diesem Sog blieb das Knistern, gleichmäßig, weder näher noch ferner. Sie wusste nicht, ob es half. Sie hielt die Hand.
+
+Die vierte Gasse fing schmaler an als die anderen. Hier endete der Verlauf des breiten Oberstadt-Pflasters, und der Stein wurde wieder kleinteilig, älter, mit tiefen Fugen. Sie kannte die Stelle vom Hinweg. An der Hauswand links hatte vor zwei Stunden der Lehrling gestanden.
+
+Maren bog ein. Ihre linke Hand zog noch immer den Sog hinter ihr. Ihr Atem brach in der Kehle, weil sie sah, was vor ihr lag.
+
+Auf den Pflastersteinen, vier Schritt vor ihr, lag die Messinglaterne. Der Rahmen war verbogen. Die Seite mit dem Sprung im Glas — die Seite, die vorhin den hellen Strich quer über die Steine geworfen hatte — war jetzt die Seite ohne Glas. Scherben streuten klein und groß über die Steine, das Öl war ausgelaufen in eine dunkle Lache, der Docht hing schwarz und nass über dem Rahmen.
+
+Daneben saß der Mann an die Hauswand gesackt, den Rücken am Mörtel, die Beine ausgestreckt, die Knöchel über Kreuz, als hätte er sich hingesetzt.
+
+Maren ließ die Hand sinken. Der Sog hinter ihr zerfiel; sie spürte es im Handgelenk — das Tau, das man loslässt und im Schlick versinkt. Sie blieb stehen, vier Schritte vor ihm, und sah ihn an.
+
+Sein Kinn war auf die Brust gefallen, das Gesicht im Schatten der Hauskante. Seine Hände waren offen auf die Oberschenkel gefallen, die Finger nach oben — vorhin hatte er sie gegen die Stirn gehalten, in die Knöchel hineingeatmet. Jetzt war nichts mehr darin. Die Gürteltasche klaffte offen. In der Tasche steckte der Lauf der Pistole. Er hatte sie nicht gezogen.
+
+Sie senkte den Blick auf sein Gesicht, halb. Das Kinn trug Stoppel eines Dreitage-Bartes, und die Haut darunter hatte den Ton von Eichenholz, das zu lange im Wasser gelegen hatte — grau, mit einer fahlen Wärme im Innern, die nicht mehr Wärme war. Der Mund stand einen Spalt offen, die Lippen ohne Spannung, als hätte er Luft holen wollen und keine gefunden.
+
+Sie atmete ein. Und mit dem Atem kam der Geruch.
+
+Süß und dicht. Genau jener Geruch, den sie seit drei, vier Nächten von der Hafengasse aus gerochen hatte, wenn der Wind aus Südost kam — wie ein schwerer Teig, der zu lange im Ofen gestanden hatte, nur näher, dichter, satt. Er hing nicht in der Luft der Gasse. Er kam direkt aus ihm.
+
+Marens Kehle zog zu. Ihre Beine machten einen Schritt rückwärts, den sie nicht entschieden hatte. Sie blieb stehen. Ihre Hand fand das Schlüsselbein durch das Leinen, Werft-Reflex: was am eigenen Körper war, wenn etwas am anderen nicht mehr war. Unter der Handfläche schlug die Halsschlagader, schnell, ungleichmäßig, der Schlag fand keinen Takt mehr.
+
+Keine Wunde sah sie. Kein Blut. Das Hemd glatt, der Mantelsaum mit den ungelenken hellen Stichen ungerührt, die Pistole noch in der Tasche. Er war einfach aufgehört zu sein.
+
+Sie hob den Blick und sah zurück, woher sie gekommen war. Die Gasse hinter ihr lief leer in den Nebel, dort wo eben noch das Knistern gehangen hatte. Auf den Pflastersteinen, hinter ihr, glänzte das Wasser. Eine Spur, schmal, unregelmäßig, die ihren Schritten gefolgt war — keine Pfütze, kein Strom, eine nasse Linie zwischen den Fugen, dort, wo sich die Tröpfchen abgesetzt hatten, sobald sie zu Wasser wurden. Hinter der Linie ballte sich der Nebel zur Wand, eine dichte Schicht aus Tropfen, die nicht weiter wollte.
+
+Sie verstand es einen Atemzug nach dem Sehen.
+
+Die Hand hatte gehalten, was sie nicht gewusst hatte. Werft-Hände hatten zugepackt, ohne zu fragen, ob sie wussten warum. Hinter der Wasser-Linie klang das Knistern, gedämpft, weiter weg als eine Gasse zuvor. Nicht weg. Aber abgesetzt.
+
+Was im Kreis als Wissen unter ihrer Hand gewesen war, kam jetzt im Kopf an: Draußen war die Gefahr. Draußen war er. Sie nicht.
+
+Maren senkte den Blick auf ihre nackten Füße. Dann auf den Mann an der Wand. Sie hatte keinen Plan für Tote. Keinen Plan für die Wache. Wenn sie jetzt rief, müsste sie sagen, wo sie war und woher sie kam, und sie hatte für beides keine Worte, die jemand außer den anderen dreien verstehen würde. Morgen früh würde sie zu Vesper gehen, dann Alphina holen, Sorel auch. Sie konnte das nicht allein ordnen.
+
+Sie umrundete den Sitz an der Wand, einen Bogen breit, ohne hinzusehen. Es war der einzige Akt, den sie für ihn hatte.
+
+Dann ging sie weiter. Schneller. Hafengasse abwärts, der Nebel dünner, das Knistern hinter ihr verlor sich Gasse für Gasse, bis sie es nicht mehr trennen konnte vom Atem in ihrer Brust.
+
+An der Wohnungstür zitterten ihre Finger so, dass der Schlüssel zweimal vom Lederband rutschte. Sie kriegte ihn ins Schloss. Drinnen drehte sie um, drückte die Tür mit der Hüfte zu, und der Riegel ging vor, zum ersten Mal seit sie hier wohnte. Das Holz war kühl an ihrem Rücken, als sie sich daran hinunterließ. Die Knie gaben weich nach. In ihrem Brustkorb hallten Knurren und Knistern noch, tief und fremd, und der Atem trug sie nicht hinaus.
+
+Sie blieb eine Weile so an der Tür sitzen. Dann stand sie auf und ging in die Schlafkammer.
+
+Vesper lag noch so, wie sie ihn verlassen hatte. Das Gesicht zur Wand, eine Handbreit unter der Wolldecke. Sein Atem ging gleichmäßig, satt, langsamer als ihrer.
+
+Sie zog den Wollrock aus, ließ ihn auf die Truhe fallen und legte sich an Vespers Rücken. Ihre Brust fand sein Schulterblatt, die Knie schoben sich hinter seine, die Stirn legte sich an seinen Nacken. Die Wolldecke zog sie bis zum Kinn.
+
+Sein Rücken gab Wärme, dicht und satt, eine Wärme, die nichts wollte. Ihr Atem fand seinen, langsamer als am Anfang, und der Hall in ihrer Brust wurde dünner, gab nach, blieb aber.
+
+Sie sah die graue Helligkeit an der Zimmerdecke langsam anwachsen — der Nebelmond-Morgen kam später als der Glutmond-Morgen, aber er kam. An ihrer Hüfte, in der angenähten Tasche, lag der Schachturm, warm vom Körper, weil sie ihn die ganze Nacht nicht herausgenommen hatte.
+
+Drei Dinge hatte sie mitgebracht. Stein. Salz. Geruch. Der Rest steckte im Körper.
+
+Sie schloss die Augen.

@@ -490,6 +490,52 @@ Ist *„halb X"* ein echtes Maß (Uhrzeit, Position, Canon-Zitat)? Oder ein subt
 - Besonders flaggen: Regex `halb[en]?\s+(Sekund|Minut|Atemzug|Zoll|Schritt|Handbreit|Meter|Zentimeter)` — das sind die Tic-Formen, Default streichen
 - Echte Maße (Uhrzeit, Position, Sprech-Beat, Canon-Zitate) als legitim markieren
 
+## Verb-Präzision: Default-Sein-Verben als Tic (Mai 2026)
+
+**Grundproblem:** *„lag", „lagen", „war", „waren", „stand", „standen", „saß", „saßen"* werden reflexhaft als Universal-Verben für „befand sich" eingesetzt. In einem Block von 150–500 Wörtern fallen schnell 5–8 Default-Sein-Verben — die Prosa wird statisch, der Beat trägt nicht. Das deutsche Verb-Inventar ist reicher als das.
+
+**Regel:** Pflicht-Prüfung pro Einsatz, keine numerische Schwelle. Default ist die Frage: **Trägt das Verb das Bild — oder ist es nur „befand sich"?** Bei jedem `lag/lagen/war/waren/stand/standen/saß/saßen` prüfen, ob ein präziseres Verb das Bild stärker macht.
+
+### Test pro Verb
+
+1. **Position genau?** *„lag" passt nur, wenn das Subjekt wirklich liegt (horizontal, ruhend, gefallen).* Bei Hand auf Schulter, Augen, Köpfen, Geräuschen, Atmosphäre — meist falsch.
+2. **Aktivität sichtbar?** Bei Augen, Pulsen, Geräuschen — *„brannten", „glühten", „klopften", „knirschten"* statt *„waren"*.
+3. **Tic-Test:** Zähle das Verb im Block. >2× dasselbe (lag/lag/lag, war/war/war) → mindestens zwei davon ersetzen.
+
+### Beispiele
+
+| Faul | Präzise | Kontext |
+|---|---|---|
+| Die Hände **lagen** offen auf den Oberschenkeln *(toter Mann)* | Die Hände **waren** offen auf die Oberschenkel **gefallen** | Tot, gefallen — kein ruhiges Liegen |
+| Die Augen **waren** kohlenrot | Die Augen **brannten** kohlenrot | Aktiv leuchtende Augen |
+| Die Köpfe **lagen** niedrig *(Wesen in Bewegung)* | Die Köpfe **hingen** niedrig | Bewegung, gehaltene Position |
+| In der Tasche **lag** der Lauf der Pistole | In der Tasche **steckte** der Lauf der Pistole | Pistole steckt in Tasche |
+| Scherben **lagen** verteilt | Scherben **streuten** über die Steine | Streu-Bewegung |
+| Auf dem Tisch **stand** ein Becher | Auf dem Tisch **dampfte** ein Becher | Wenn Dampf steigt: aktiv |
+| Vor ihr **stand** der Mann | Vor ihr **wartete** der Mann / **lehnte** der Mann an der Wand | Aktion oder Position konkret |
+
+### Wann Default-Verb bleibt
+
+- *„lag"* wenn Subjekt **wirklich liegt** (gefallene Laterne am Boden, Brief auf dem Tisch, Hund vor dem Kamin) — da ist *liegen* präzise, nicht faul.
+- *„war"* in Sein-Aussagen ohne Bewegung (*„Es war kalt"*, *„Sie war müde"*) — manchmal das richtige Verb.
+- *„stand"* bei Architektur und Stille (*„Das Tor stand offen"*, *„Der Nebel stand brusthoch"*) — Stand-Verb für ruhende Konstanten.
+- *„saß"* bei Personen auf Stühlen / Bänken — präzise.
+
+### Reichhaltige Alternativen pro Position
+
+- **Hand am Material:** ruhen, finden, fassen, stützen, drücken, fühlen, tasten, klemmen, kleben
+- **Augen / Blicke:** brennen, glühen, ruhen, hängen (am Detail), bohren, wandern, halten
+- **Köpfe / Körperteile:** hängen, sich neigen, kauern, stützen, sich krümmen, sich pressen
+- **Objekte:** stecken, klemmen, sich türmen, sich stauen, kleben, lehnen, kippen, fallen, ruhen
+- **Geräusche / Geruch:** knirschen, knacken, hängen, sich legen, ziehen (durch), klingen, sich auftun, treiben (durch die Luft)
+- **Atmosphäre:** sich legen, ziehen, lasten, drücken, klemmen, hängen
+
+### Der Stil-Check / Subagent 1 prüft
+
+- Zähle pro Block: `lag/lagen/war/waren/stand/standen/saß/saßen` — bei >3 Treffern in einem 200–400-W-Block: mindestens 2 ersetzen
+- Pro Treffer: Trägt das Verb das Bild oder ist es nur „befand sich"?
+- Wenn Subjekt nicht wirklich liegt/steht/sitzt → präzises Verb einsetzen
+
 ## Default-Deny-Prinzip (Council April 2026)
 
 Stilmittel sind **DEFAULT VERBOTEN** bis sie bewusst freigegeben werden. Die folgende Tabelle ist die Referenz für alle Prüfungen:
