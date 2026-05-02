@@ -88,8 +88,41 @@ SIDEBAR_HTML = """
 """
 
 
+def remove_all_sidebar_blocks(content: str) -> str:
+    """Entfernt ALLE Sidebar-Spuren — markierte und unmarkierte."""
+    # 1. Markierte Block(e)
+    content = re.sub(
+        r"\n?" + re.escape(SIDEBAR_START) + r".*?" + re.escape(SIDEBAR_END),
+        "",
+        content,
+        flags=re.DOTALL,
+    )
+    # 2. Unmarkierte <aside class="siw-sidebar">...</aside>
+    content = re.sub(
+        r'\s*<aside\s+class="siw-sidebar"[^>]*>.*?</aside>',
+        "",
+        content,
+        flags=re.DOTALL,
+    )
+    # 3. Burger
+    content = re.sub(
+        r'\s*<button\s+class="siw-burger"[^>]*>.*?</button>',
+        "",
+        content,
+        flags=re.DOTALL,
+    )
+    # 4. Overlay
+    content = re.sub(
+        r'\s*<div\s+class="siw-overlay"[^>]*>\s*</div>',
+        "",
+        content,
+        flags=re.DOTALL,
+    )
+    return content
+
+
 def inject(content: str) -> str:
-    """Setzt body class und ersetzt/injiziert das Sidebar-Markup."""
+    """Setzt body class, entfernt alle alten Sidebar-Spuren, injiziert frisches Markup."""
     # Body-Class setzen
     content = re.sub(
         r'<body(?:\s+class="([^"]*)")?>',
@@ -104,34 +137,25 @@ def inject(content: str) -> str:
         count=1,
     )
 
-    block = f"{SIDEBAR_START}{SIDEBAR_HTML}{SIDEBAR_END}"
+    # Alle alten Sidebar-Spuren raus (auch unmarkiert)
+    content = remove_all_sidebar_blocks(content)
 
-    if SIDEBAR_START in content and SIDEBAR_END in content:
-        # Re-injection: Marker-Block ersetzen
-        pattern = re.compile(
-            re.escape(SIDEBAR_START) + r".*?" + re.escape(SIDEBAR_END), re.DOTALL
-        )
-        content = pattern.sub(block, content, count=1)
-    else:
-        # Erstinjection: nach <body...> einfuegen
-        content = re.sub(
-            r"(<body[^>]*>)",
-            r"\1\n" + block,
-            content,
-            count=1,
-        )
+    # Frisches Markup direkt nach <body...> einfuegen
+    block = f"{SIDEBAR_START}{SIDEBAR_HTML}{SIDEBAR_END}"
+    content = re.sub(
+        r"(<body[^>]*>)",
+        r"\1\n" + block,
+        content,
+        count=1,
+    )
 
     return content
 
 
 def strip(content: str) -> str:
-    """Entfernt Sidebar-Markup, body-Class und sidebar.css/js-Tags."""
-    # 1. Marker-Block raus (inkl. eventueller fuehrender Newline)
-    pattern = re.compile(
-        r"\n?" + re.escape(SIDEBAR_START) + r".*?" + re.escape(SIDEBAR_END),
-        re.DOTALL,
-    )
-    content = pattern.sub("", content, count=1)
+    """Entfernt Sidebar-Markup (markiert + unmarkiert), body-Class und sidebar.css/js-Tags."""
+    # 1. Alle Sidebar-Spuren raus
+    content = remove_all_sidebar_blocks(content)
 
     # 2. body-Class siw-with-sidebar entfernen
     def fix_body(m: re.Match) -> str:
