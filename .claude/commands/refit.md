@@ -404,6 +404,21 @@ python scripts/kapitel-kontext.py B1-K{NN} --phase ausarbeitung
 
 Identisch zu Phase 2 in `/ausarbeitung` (4-Subagent-Pipeline-Sektion), aber auf das **ganze Kapitel** statt einzelne Bloecke.
 
+**WICHTIGER UNTERSCHIED zu /ausarbeitung:** Modus B prueft FERTIGE Kapitel mit bewusst gesetzten Stilmitteln, nicht frische Bloecke. Subagenten muessen **Tic** (uninspiriert, austauschbar) von **Stilmittel** (funktional, traegt Welt-/Charakter-/Aftermath-Beat) unterscheiden.
+
+### Funktional-Filter (PFLICHT in JEDEM Subagent-Prompt)
+
+Bevor ein Subagent ein Finding mit `[STREICHEN]` markiert, muss er folgenden 4-Fragen-Test durchgehen:
+
+1. **Welt-Beat?** Traegt die Stelle einen Welt-Zahn (atmosphaerische Drohung, Setting-Detail mit Konsequenz, Tschechow-Setup)?
+2. **Charakter-Beat?** Zeigt sie eine Selbstkorrektur, einen inneren Bruch, eine Verdraengungs-Geste, eine Wahrnehmungsgrenze?
+3. **Pacing-Pflicht?** Erfuellt sie eine Stilregel-Pflicht (Aftermath nach Climax, Erinnerungs-Inventar, Rhythmus-Gegenpol)?
+4. **Streichen-Test:** Waere die Prosa nach dem Streichen schwaecher als jetzt?
+
+**Wenn 1× ja → tag mit `[STIL?]` statt `[STREICHEN]`** und Funktion in der „warum"-Spalte benennen. Die Hauptsession entscheidet, nicht der Subagent.
+
+**Aphorismen, Stakkato, „wie X"-Vergleiche, Antithesen, Tautologien sind nicht per se verboten** — sie sind verboten als **Tic** (uninspiriert, austauschbar, leer). Wenn elegant + sinnvoll gesetzt, sind sie Stilmittel und bleiben.
+
 Dispatch alle vier in EINEM Tool-Call, parallel, alle Sonnet:
 
 ### Subagent 1 — Sprach-TÜV (Kapitel-Scope)
@@ -412,12 +427,16 @@ Prompt aus `.claude/commands/ausarbeitung.md` Sektion „Subagent 1 — Sprach-T
 - `{BLOCK_TEXT}` durch ganzes Kapitel ersetzen
 - „Max 5 Findings" → „Max 15 Findings"
 - „Max 800 Token" → „Max 1.5k Token"
+- **Funktional-Filter** (siehe oben) als Pre-Check vor jedem Finding
+- Output-Spalte zusaetzlich: `Tag` mit `[PFLICHT]` (Canon/Konsistenz), `[TIC]` (klarer Stil-Tic ohne Funktion), `[STIL?]` (formal Verstoss aber Funktion da)
 
 ### Subagent 2 — Verquastungs-Detektor (Kapitel-Scope)
 
 Prompt aus `/ausarbeitung` Sektion „Subagent 2", aber:
 - Ganzes Kapitel statt Block
 - Max 15 Findings, 1.5k Token
+- **Funktional-Filter** als Pre-Check
+- Verquastung ist immer `[TIC]` oder `[PFLICHT]` (echte „haeae?"-Saetze sind nie Stilmittel — wenn die Leserin stolpert, traegt es nicht)
 
 ### Subagent 3 — Konsistenz-Wächter (Kapitel-Scope)
 
@@ -425,6 +444,7 @@ Prompt aus `/ausarbeitung` Sektion „Subagent 3", aber:
 - Ganzes Kapitel statt Block + Vorszene
 - Inventar-Verfolgung ueber alle Szenen
 - Max 12 Findings, 1.5k Token
+- Konsistenz-Findings sind immer `[PFLICHT]` (Welt-/Canon-/Magie-/POV-Bugs sind keine Geschmacksfragen)
 
 ### Subagent 4 — Genre-Leserin (Kapitel-Scope)
 
@@ -432,6 +452,8 @@ Prompt aus `/ausarbeitung` Sektion „Subagent 4", aber:
 - Ganzes Kapitel statt Block
 - Stimme passend zum Heat-/Plot-Charakter (LINA fuer Romantasy-Bloecke, MEIKE fuer Dark-Fantasy, VICTORIA fuer BDSM, KAYA fuer Schock)
 - Max 8 Findings, 1.5k Token
+- Genre-Findings sind immer `[STIL?]` oder `[TIC]` (subjektiv, Pflicht hat sie nie)
+- **Pflicht-Lob-Tabelle:** zusaetzlich min. 5 Stellen markieren, die explizit FUNKTIONIEREN (Welt-Zahn, Beat, starker Hook). Die Hauptsession nutzt das, um Subagent-1-Findings zu kontern.
 
 ## Phase B3 — Konsolidierung
 
@@ -442,12 +464,26 @@ In der Hauptsession:
    - Marktfaehigkeits-Score (Subagent 4)
    - Gesamt-Stimmung
 
-2. **Master-Tabelle** aller Findings, konsolidiert mit Konflikt-Hierarchie (Konsistenz > Verquastung > Stilregel > Genre-Geschmack):
+2. **Master-Tabelle in DREI Bloecken** (statt einer flachen Liste):
 
-| # | Zeile | Quelle | alt | neu / [STREICHEN] | warum |
-|---|---|---|---|---|---|
+   **Block A — PFLICHT (Konsistenz/Canon-Verstoss)** — wird ohne Diskussion gefixt:
 
-3. **Stärkste Beats** (was alle Subagenten loben):
+   | # | Zeile | Quelle | alt | neu | warum (Canon-/Welt-/Magie-/POV-Verstoss) |
+   |---|---|---|---|---|---|
+
+   **Block B — EMPFEHLUNG (klarer Stil-Tic, keine Funktion)** — Default fixen:
+
+   | # | Zeile | Quelle | alt | neu / [STREICHEN] | warum |
+   |---|---|---|---|---|---|
+
+   **Block C — STIL-VORBEHALT (formal Verstoss, Funktion da)** — Default behalten, Autor entscheidet:
+
+   | # | Zeile | Quelle | alt | Vorschlag (falls Autor will) | Funktion (warum behalten plausibel) |
+   |---|---|---|---|---|---|
+
+   **Konflikt-Hierarchie:** Konsistenz > Verquastung > Stilregel > Genre-Geschmack. Aber: Findings mit `[STIL?]`-Tag aus Subagent 1, die in Subagent 4 als Pflicht-Lob auftauchen → automatisch Block C.
+
+3. **Stärkste Beats** (was Subagent 4 explizit lobt + Hauptsession bestaetigt):
 
 | Zeile | Passage | warum stark |
 |---|---|---|

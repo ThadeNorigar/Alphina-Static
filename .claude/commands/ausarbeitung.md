@@ -356,12 +356,12 @@ Pruefe (mit Grep wo moeglich), jede Stelle einzeln markieren:
 - Denk-Tags ("sie dachte" / "er fragte sich" / "er ueberlegte") — 0 erlaubt
 - "halb X" Pseudo-Praezision — Pflicht-Pruefung
 - "Puls" abstrakt / "Pulsschlag" — Klischee-Reflex (außer Quellenpuls)
-- "etwas in seinem/ihrem [Brust/Nacken/Sehen/Kopf]" — verboten
+- **Body-Part-Reflexe als Verben** (Lücke aus Audit 2026-05-02): markiere abstrahierte Körperteil-Reaktionen als Subjekt eines Eigenverbs („Knie meldeten sich", „Schultern senken sich", „Nacken wärmt", „Hände wussten"). Test: Trägt das Verb eine konkrete Empfindung (Druck, Wärme, Zug, Zittern) — oder ist es ein schablonen-haftes Platzhalter-Verb? FINDING bei Schablone; Ersatz durch konkrete Sensation aus dem POV-Register. Auch: "etwas in seinem/ihrem [Brust/Nacken/Sehen/Kopf]" — verboten
 - Stakkato-Ketten (3+ Fragmente <4W) — Pflicht-Pruefung pro Einsatz mit Begruendungs-Test
 - Anaphern-Kaskade (3+ aufeinanderfolgende Satzanfaenge identisch)
 - Substantiv-Phrasen ohne Verb als eigene Saetze
 - Negations-Stapel (3+ "kein/nicht" hintereinander) ohne Funktion
-- Aphorismen am Absatz-Ende ("X. Das war Y." / "Das war das [Abstraktum]")
+- **Scharnier-Aphorismen am Absatz-Ende** ("X. Das war Y." / "Das war das [Abstraktum]" / Doppelpunkt-Pointe): Test pro Treffer — deutet der Satz das vorangegangene Bild aus, statt es für sich selbst arbeiten zu lassen? Ist das Y austauschbar (Pseudo-Tiefe) oder trägt es einen Beat? Aphorismus-TIC = Finding. Aphorismus-STILMITTEL (eleganter Welt-/Charakter-Beat, der das Bild verdichtet statt erklärt) = behalten, mit `[STIL?]`-Tag markieren. Limit max 2/Kapitel auch bei Stilmitteln. Quelle: `buch/02-stilregeln-v2.md` Z.284
 - Direkte Emotionsbenennung im Narrator
 - Flashback-Rampe ("sie erinnerte sich an den Tag")
 - Premature Doubt ("sie wusste noch nicht, dass")
@@ -370,6 +370,10 @@ Pruefe (mit Grep wo moeglich), jede Stelle einzeln markieren:
 - Realwelt-Monatsnamen (Januar/Februar/Maerz...) — verboten
 - "Resonanz" / "Schemen" in Prosa — Canon-Begriffe verboten
 - POV-Anti-Patterns aus Schreibblatt §8
+- **Verb-Praezision (Default-Sein-Verben als Tic):** Master `buch/02-stilregeln-v2.md` Sektion „Verb-Praezision". Zaehle pro Block: `lag/lagen/war/waren/stand/standen/sass/saessen` (sowie `liegen/stehen/sitzen` als Infinitive). Bei >3 Treffern in einem 200–400-W-Block: mindestens 2 ersetzen. Pro Treffer pruefen: Traegt das Verb das Bild — oder ist es nur „befand sich"? Wenn Subjekt nicht **wirklich** liegt/steht/sitzt → praezises Verb (steckte, klemmte, hing, ruhte, brannte, dampfte, fiel, sich tuermte, lehnte, knirschte). FINDING bei Tic oder bei `lag/war/stand` ohne dass das Verb traegt.
+- **Verb-Wiederholung allgemein:** Wenn dasselbe Verb >2× in einem Block auftaucht (auch jenseits Sein-Verben — `zog/zog/zog`, `kam/kam/kam`) → FINDING „Verb-Tic", mindestens eine Ersetzung vorschlagen.
+- **Negations-Dichte (Lücke aus Audit 2026-05-02):** Zähle pro Block die Marker `nicht`, `nichts`, `kein/e/r/m/n`. Hochrechnen auf 1000W. Bei >15 pro 1000W: FINDING „Negations-Dichte". Sätze mit Negations-Marker einzeln markieren — pro Satz prüfen, ob positive Umformulierung dieselbe Information trägt. Ausnahme: Verweigerung/Abwesenheit als Handlung (echte Negation bleibt). Quelle: `buch/02-stilregeln-v2.md` Z.414-458.
+- **„als hätte/wäre/könnte/würde"-Hypothetische (Lücke aus Audit 2026-05-02):** Zähle pro Block. Limit max 6 pro Kapitel — auf Block-Ebene FINDING bei >2/Block (entspricht Hochrechnung). Pro Treffer prüfen: trägt die Hypothese einen Beat (Charakter-Modus, Vergleichs-Bild) — oder ist sie nur Standard-Anschluss? Default-Anschluss: positiv umformulieren („als hätte sie gewusst" → „sie wusste"). Quelle: `buch/02-stilregeln-v2.md` Z.25.
 
 Output: Tabelle | Stelle (woertliches Zitat) | Pattern | alt | neu / [STREICHEN] | warum |
 
@@ -656,6 +660,7 @@ Pruefe (mit Grep wo moeglich):
 - **Metrische Maßeinheiten verboten (Anglizismus, Epoche-Bruch):** Grep auf `Millimeter|Zentimeter|Meter|Kilometer` — max 0. Stattdessen: Linie, Daumen/Fingerbreite, Spanne, Fuß, Elle, Schritt, Klafter, Meile.
 - **Realweltliche Monatsnamen verboten:** Grep auf `Januar|Februar|März|Maerz|April|Mai|Juni|Juli|August|September|Oktober|November|Dezember|Märzlicht|Märzwind|Märzregen|Märzluft` — max 0. Stattdessen Welt-Monate (Eismond, Saatmond, Blütenmond etc.) oder Jahreszeit.
 - **"Puls" abstrakt verboten (Klischee-Reflex):** Grep auf `\bPuls\b|Pulsschlag` — alle Treffer markieren außer `Quellenpuls` (Canon erlaubt). Stattdessen Körperstelle (Halsschlagader, Handgelenk, Kehle) oder konkretes Verb (Herzschlag, Schlag in den Adern).
+- **Verb-Praezision (Default-Sein-Verben als Tic):** Master `buch/02-stilregeln-v2.md` Sektion „Verb-Praezision: Default-Sein-Verben als Tic". Grep auf `\b(lag|lagen|war|waren|stand|standen|sass|saessen)\b` — Treffer pro Absatz zaehlen. Bei Hot-Spots (>3 in 200 W) jeden Treffer einzeln markieren mit Pruefung: Traegt das Verb das Bild oder ist es nur „befand sich"? Wenn Subjekt nicht **wirklich** liegt/steht/sitzt → praezises Verb (steckte, klemmte, hing, ruhte, brannte, dampfte, fiel, sich tuermte, lehnte, knirschte) als Fix. Auch flaggen: dasselbe Verb >2× in 10 Saetzen (Verb-Wiederholungs-Tic).
 - **"etwas in X"-Konstruktion verboten:** Grep auf `etwas in (seinem|ihrem|seiner|ihrer) (Brust|Nacken|Sehen|Brustkorb|Rücken|Hals|Kopf|Bauch|Magen)` — max 0. Stattdessen direkter Körper-Beat.
 - **Generische Stand-in-Wörter beim Tic-Streichen (Council-Risiko):** Wenn ein "halb X" oder "Puls" durch `kaum sichtbar`, `merklich`, `winzig`, `etwas` ersetzt wurde, prüfen ob konkrete Maßangabe (`einen Zoll`, `Haarbreit`, `eine Spanne`, `einen Takt`) besser wäre. Konkretheit verlangt benannte Maße.
 - **Konkretheits-Check (NEU):** Absaetze zaehlen, bei wie vielen KEIN benanntes Material (Kupfer, Leinen, Kalk, Messing, Birkenrinde, Tusche, Talg...) vorkommt — bei mehr als 20% aller Absaetze: FINDING "zu abstrakt"
