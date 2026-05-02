@@ -21,23 +21,22 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 
-# Pages, in die das Sidebar-Markup injiziert wird (NUR /story-in-work/).
+# Pages, in die das Sidebar-Markup injiziert wird.
+# Alle Pages, die aus der Sidebar verlinkt sind, brauchen die Sidebar selbst —
+# sonst verschwindet die Navigation beim Klick.
 INCLUDE_PAGES = [
     ROOT / "story-in-work" / "index.html",
     ROOT / "story-in-work" / "kanon.html",
     ROOT / "story-in-work" / "charaktere.html",
     ROOT / "story-in-work" / "zeitleiste.html",
     ROOT / "story-in-work" / "moragh-karte.html",
-]
-
-# Pages, aus denen die Sidebar entfernt wird, falls Marker noch vorhanden.
-# (Migration nach Autor-Entscheidung 2026-05-02: Sidebar nur in /story-in-work/.)
-EXCLUDE_PAGES = [
     ROOT / "canon" / "index.html",
     ROOT / "status" / "index.html",
     ROOT / "story" / "index.html",
     ROOT / "architektur.html",
 ]
+
+EXCLUDE_PAGES: list[Path] = []
 
 SIDEBAR_START = "<!-- SIDEBAR_START (build-sidebar.py — nicht haendisch editieren) -->"
 SIDEBAR_END = "<!-- SIDEBAR_END -->"
@@ -121,9 +120,50 @@ def remove_all_sidebar_blocks(content: str) -> str:
     return content
 
 
+SIDEBAR_LINK_TAG = '<link rel="stylesheet" href="/story-in-work/sidebar.css?v=20260502d">'
+SIDEBAR_SCRIPT_TAG = '<script src="/story-in-work/sidebar.js?v=20260502d" defer></script>'
+
+
+def ensure_css_js_tags(content: str) -> str:
+    """Fuegt sidebar.css/js-Tags in <head> ein, falls noch nicht da. Updated v=... falls schon da."""
+    has_css = re.search(r'<link[^>]*sidebar\.css', content) is not None
+    has_js = re.search(r'<script[^>]*sidebar\.js', content) is not None
+
+    # Bestehende Tags auf aktuellen Cache-Bust updaten
+    content = re.sub(
+        r'<link[^>]*sidebar\.css[^>]*>',
+        SIDEBAR_LINK_TAG,
+        content,
+    )
+    content = re.sub(
+        r'<script[^>]*sidebar\.js[^>]*></script>',
+        SIDEBAR_SCRIPT_TAG,
+        content,
+    )
+
+    # Falls Tags fehlten, vor </head> einfuegen
+    if not has_css or not has_js:
+        new_tags = []
+        if not has_css:
+            new_tags.append("  " + SIDEBAR_LINK_TAG)
+        if not has_js:
+            new_tags.append("  " + SIDEBAR_SCRIPT_TAG)
+        content = re.sub(
+            r"(\s*</head>)",
+            "\n" + "\n".join(new_tags) + r"\1",
+            content,
+            count=1,
+        )
+
+    return content
+
+
 def inject(content: str) -> str:
-    """Setzt body class, entfernt alle alten Sidebar-Spuren, injiziert frisches Markup."""
-    # Body-Class setzen
+    """Setzt body class, entfernt alte Sidebar-Spuren, injiziert frisches Markup + CSS/JS-Tags."""
+    # 1. CSS/JS-Tags sicherstellen
+    content = ensure_css_js_tags(content)
+
+    # 2. Body-Class setzen
     content = re.sub(
         r'<body(?:\s+class="([^"]*)")?>',
         lambda m: '<body class="siw-with-sidebar">'
@@ -137,10 +177,10 @@ def inject(content: str) -> str:
         count=1,
     )
 
-    # Alle alten Sidebar-Spuren raus (auch unmarkiert)
+    # 3. Alle alten Sidebar-Spuren raus
     content = remove_all_sidebar_blocks(content)
 
-    # Frisches Markup direkt nach <body...> einfuegen
+    # 4. Frisches Markup nach <body...>
     block = f"{SIDEBAR_START}{SIDEBAR_HTML}{SIDEBAR_END}"
     content = re.sub(
         r"(<body[^>]*>)",
