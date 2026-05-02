@@ -211,17 +211,30 @@ Die Autorin-Stimme (`01-autorin-stimme.md`) definiert drei Register (Langsam/Nor
 
 **Wortziel:** 1.200–1.600 W pro Szene, 4.000–4.500 W Kapitel gesamt.
 
-#### Schritt 1: Pre-Writing — 3 Fragen vor jeder Szene
+#### Schritt 1: Pre-Writing — Konkrete Handlungsbeschreibung + optionale Beats
 
-Bevor ein Wort Prosa geschrieben wird — diese drei Fragen beantworten und dem Autor vorlegen:
+Bevor ein Wort Prosa geschrieben wird — der Szenen-Inhalt wird dem Autor vorgelegt. **Pflicht-Teil ist die konkrete Handlungsbeschreibung.** Optional ergaenzend: Spannung, Kern-Beats, Spezifizitaet, Verschiebung.
 
-1. **Spannung:** Was will [Figur] in dieser Szene — und was blockiert das konkret?
-2. **Spezifizität:** Welches sensorische Detail ist so spezifisch, dass es nur hier, jetzt, bei ihr stimmt?
-3. **Verschiebung:** Wo ist der eine Moment, wo sich etwas verändert — Wissen, Machtgefälle, Körper, Entscheidung?
+##### A. Konkrete Handlungsbeschreibung (PFLICHT, ZUERST)
 
-Wenn die Antworten zu vage sind → STOPP. Szene nicht ausarbeitungsreif. Autor informieren, zurück zum Entwurf.
+**Was passiert in der Szene — Schritt fuer Schritt, konkret, ohne Abstraktion.** Wer ist im Raum, was tut die Figur, was sieht/riecht/hoert sie konkret, welche Dinge sind da, wer sagt was, was passiert am Ende. Aus dem Entwurf extrahiert, in fortlaufenden Absaetzen, in der Reihenfolge der Szene. Keine Meta-Zusammenfassungen wie *„Sorel sucht einen koerperlichen Anker"* — sondern *„Sorel liegt im schmalen Bett unter dem Fenster, Alphinas Hand offen auf seinem Brustbein, Mondlicht schraeg aufs Kopfkissen..."*.
 
-**Autor antwortet: "ok" oder gibt Korrekturen. Erst bei "ok" weiter.**
+Test: Liest sich die Beschreibung wie ein Treatment, das eine Regisseurin auf der Buehne nachstellen koennte? Wenn ja → richtig. Wenn die Beschreibung nur auf Figur-Motivation und Themen verweist, ohne konkrete Handlung zu zeigen → falsch, neu schreiben.
+
+##### B. Optionale Ergaenzungen (nach der Handlungsbeschreibung)
+
+Wenn hilfreich, koennen folgende Beats stichpunktartig dazugefuegt werden — aber NUR als Ergaenzung, nie als Ersatz fuer A:
+
+- **Spannung:** Was will [Figur] konkret — und was blockiert das?
+- **Kern-Beats:** Die 2-3 Pflicht-Beats der Szene aus dem Entwurf
+- **Spezifizitaet:** Welches sensorische Detail ist so spezifisch, dass es nur hier stimmt?
+- **Verschiebung:** Wo ist der Moment, wo sich etwas veraendert — Wissen, Machtgefaelle, Koerper, Entscheidung?
+
+##### C. Reife-Pruefung
+
+Wenn die Handlungsbeschreibung lueckenhaft ist (Platzhalter, „und dann irgendwie", fehlende Beats) → STOPP. Szene nicht ausarbeitungsreif. Autor informieren, zurueck zum Entwurf.
+
+**Autor antwortet: „ok" oder gibt Korrekturen. Erst bei „ok" weiter.**
 
 #### Schritt 2: Block-fuer-Block schreiben (Stand 2026-05-01 — 4-Subagent-Pipeline)
 
@@ -355,7 +368,7 @@ Pruefe (mit Grep wo moeglich), jede Stelle einzeln markieren:
 - Adverb-Tags ("sagte er wuetend") — 0 erlaubt
 - Denk-Tags ("sie dachte" / "er fragte sich" / "er ueberlegte") — 0 erlaubt
 - "halb X" Pseudo-Praezision — Pflicht-Pruefung
-- "Puls" abstrakt / "Pulsschlag" — Klischee-Reflex (außer Quellenpuls)
+- "Puls" abstrakt / "Pulsschlag" — Klischee-Reflex (außer Quellenpuls). **Substantiv-Ranking bei unvermeidbarer Substantiv-Form:** konkrete Empfindung > "Pochen" > "Puls" > "Schlag". Niemals "Schlag" als Ersatz für "Puls"/"Pochen" vorschlagen — das ist mechanischer als das Original. Stand 2026-05-02.
 - **Body-Part-Reflexe als Verben** (Lücke aus Audit 2026-05-02): markiere abstrahierte Körperteil-Reaktionen als Subjekt eines Eigenverbs („Knie meldeten sich", „Schultern senken sich", „Nacken wärmt", „Hände wussten"). Test: Trägt das Verb eine konkrete Empfindung (Druck, Wärme, Zug, Zittern) — oder ist es ein schablonen-haftes Platzhalter-Verb? FINDING bei Schablone; Ersatz durch konkrete Sensation aus dem POV-Register. Auch: "etwas in seinem/ihrem [Brust/Nacken/Sehen/Kopf]" — verboten
 - Stakkato-Ketten (3+ Fragmente <4W) — Pflicht-Pruefung pro Einsatz mit Begruendungs-Test
 - Anaphern-Kaskade (3+ aufeinanderfolgende Satzanfaenge identisch)
