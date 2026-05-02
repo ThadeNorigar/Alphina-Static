@@ -117,10 +117,23 @@ body.siw-with-sidebar > .siw-overlay {
 }
 .siw-brand:hover { color: var(--siw-accent); }
 
-.siw-nav {
-  display: flex;
-  flex-direction: column;
-  gap: 0.05rem;
+/* WICHTIG: ueberschreibt globale nav { position: fixed; ... } aus styles.css */
+.siw-sidebar nav.siw-nav,
+nav.siw-nav {
+  position: static !important;
+  top: auto !important;
+  left: auto !important;
+  right: auto !important;
+  bottom: auto !important;
+  width: auto !important;
+  background: transparent !important;
+  padding: 0 !important;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: flex-start !important;
+  gap: 0.05rem !important;
+  z-index: auto !important;
+  transition: none !important;
 }
 
 .siw-section {
