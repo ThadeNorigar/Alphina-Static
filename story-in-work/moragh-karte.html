@@ -46,19 +46,22 @@
     .view-btn:hover { color: var(--paper-edge); border-color: var(--paper-edge); }
     .view-btn.active { background: var(--accent); color: var(--paper); border-color: var(--accent); }
 
-    /* Karte gross links, Reise-Panel rechts */
+    /* Karte gross links, Reise-Panel rechts. Großzügige Abstände drumherum. */
     .grid {
       display: grid;
       grid-template-columns: 1fr 360px;
-      gap: 1rem;
+      gap: 1.5rem;
+      margin-top: 1rem;
     }
     @media (max-width: 1100px) {
       .grid { grid-template-columns: 1fr; }
     }
     .map-card {
       aspect-ratio: 16 / 9;
-      padding: 10px;
     }
+    body { padding: 1.5rem; }
+    .legend { margin-top: 1.2rem; }
+    .view-bar { margin-bottom: 0.6rem; }
 
     /* Zoom-Controls */
     .map-controls {
