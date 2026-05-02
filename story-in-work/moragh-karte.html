@@ -608,19 +608,48 @@ function render() {
   renderScaleBar();
 }
 
+let scaleBarG = null;
 function renderScaleBar() {
-  // 100 km Maßstab links unten. 1 unit = 3.37 km → 100 km = 29.67 units
-  const scaleKm = 100;
-  const lengthUnits = scaleKm / KM_PER_UNIT;
-  const x = 30, y = 1060;
+  if (scaleBarG) { scaleBarG.remove(); scaleBarG = null; }
+  // 5 Segmente x 100 km = 500 km. Rechts unten in der aktuellen viewBox.
+  const segKm = 100, segCount = 5;
+  const segUnits = segKm / KM_PER_UNIT;
+  const totalUnits = segUnits * segCount;
+  // viewBox-Skalierung: Skala-Breite (in svg-units) wachst mit Zoom proportional
+  const vbScale = view.w / VIEW_BASE.w;
+  const margin = 30 * vbScale;
+  const padX = 10 * vbScale, padY = 22 * vbScale;
+  const stroke = 1.5 * vbScale;
+  const tickH = 5 * vbScale;
+  const fontSize = 11 * vbScale;
+  // Rechts unten in viewBox-Koordinaten
+  const x = view.x + view.w - margin - totalUnits;
+  const y = view.y + view.h - margin;
   const g = el('g', {});
-  g.appendChild(el('rect', { x: x - 8, y: y - 22, width: lengthUnits + 16, height: 32, fill: 'rgba(15,14,12,0.7)', rx: 3 }));
-  g.appendChild(el('line', { x1: x, y1: y, x2: x + lengthUnits, y2: y, stroke: '#e8e0d4', 'stroke-width': '2' }));
-  g.appendChild(el('line', { x1: x, y1: y - 4, x2: x, y2: y + 4, stroke: '#e8e0d4', 'stroke-width': '2' }));
-  g.appendChild(el('line', { x1: x + lengthUnits, y1: y - 4, x2: x + lengthUnits, y2: y + 4, stroke: '#e8e0d4', 'stroke-width': '2' }));
-  const t = el('text', { x: x + lengthUnits / 2, y: y - 8, fill: '#e8e0d4', 'font-size': 11, 'text-anchor': 'middle', 'font-family': 'Cormorant Garamond, serif' });
-  t.textContent = scaleKm + ' km';
-  g.appendChild(t);
+  g.appendChild(el('rect', {
+    x: x - padX, y: y - padY,
+    width: totalUnits + padX * 2, height: padY + 12 * vbScale,
+    fill: 'rgba(15,14,12,0.78)', rx: 2 * vbScale
+  }));
+  g.appendChild(el('line', {
+    x1: x, y1: y, x2: x + totalUnits, y2: y,
+    stroke: '#e8e0d4', 'stroke-width': stroke
+  }));
+  for (let i = 0; i <= segCount; i++) {
+    const tx = x + i * segUnits;
+    g.appendChild(el('line', {
+      x1: tx, y1: y - tickH, x2: tx, y2: y + tickH,
+      stroke: '#e8e0d4', 'stroke-width': stroke
+    }));
+    const label = el('text', {
+      x: tx, y: y - 8 * vbScale,
+      fill: '#e8e0d4', 'font-size': fontSize,
+      'text-anchor': 'middle', 'font-family': 'Cormorant Garamond, serif'
+    });
+    label.textContent = (i * segKm) + (i === segCount ? ' km' : '');
+    g.appendChild(label);
+  }
+  scaleBarG = g;
   svg.appendChild(g);
 }
 
@@ -801,6 +830,8 @@ let view = { ...VIEW_BASE };
 
 function applyView() {
   svg.setAttribute('viewBox', `${view.x} ${view.y} ${view.w} ${view.h}`);
+  // Skala mitziehen — bleibt rechts unten im sichtbaren Bereich
+  if (typeof renderScaleBar === 'function' && data) renderScaleBar();
 }
 
 function clampView() {
