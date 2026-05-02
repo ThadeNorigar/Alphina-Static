@@ -52,24 +52,15 @@ body.siw-with-sidebar > .siw-sidebar {
   box-sizing: border-box !important;
 }
 
-/* Inhalts-Spalte = zweite Grid-Spalte */
+/* Inhalts-Spalte = zweite Grid-Spalte. Page-CSS bleibt aktiv (max-width etc.) */
 body.siw-with-sidebar > .wrap,
 body.siw-with-sidebar > main {
   grid-column: 2 !important;
   grid-row: 1 !important;
-  width: 100% !important;
-  max-width: none !important;
-  padding: 2rem 1rem !important;
-  display: flex !important;
-  flex-direction: column !important;
-  align-items: center !important;
-  box-sizing: border-box !important;
+  justify-self: center !important;
+  align-self: start !important;
+  margin: 2rem 1rem !important;
   background: transparent !important;
-}
-
-body.siw-with-sidebar > .wrap > * {
-  width: 100% !important;
-  max-width: 880px !important;
 }
 
 /* .doc (canon-Karte) — Grid-Spalte 2, eigenes Page-Styling unangetastet.

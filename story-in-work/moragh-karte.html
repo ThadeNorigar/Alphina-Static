@@ -6,8 +6,8 @@
   <meta name="robots" content="noindex, nofollow">
   <title>Moragh — Karte & Reisezeit</title>
   <link rel="stylesheet" href="../styles.css">
-  <link rel="stylesheet" href="/story-in-work/sidebar.css?v=20260502e">
-  <script src="/story-in-work/sidebar.js?v=20260502e" defer></script>
+  <link rel="stylesheet" href="/story-in-work/sidebar.css?v=20260502f">
+  <script src="/story-in-work/sidebar.js?v=20260502f" defer></script>
   <script src="https://cdn.jsdelivr.net/npm/d3-delaunay@6"></script>
   <style>
     :root {
@@ -21,7 +21,7 @@
       font-family: 'Inter', sans-serif; margin: 0;
     }
     nav { display: none; }
-    .wrap { max-width: 1500px; margin: 0 auto; }
+    .wrap { max-width: 1800px; margin: 0 auto; width: 100%; }
 
     .top {
       display: flex; justify-content: space-between; align-items: baseline;
@@ -46,14 +46,33 @@
     .view-btn:hover { color: var(--paper-edge); border-color: var(--paper-edge); }
     .view-btn.active { background: var(--accent); color: var(--paper); border-color: var(--accent); }
 
+    /* Karte volle Breite, Reise-Panel darunter */
     .grid {
       display: grid;
-      grid-template-columns: 1fr 360px;
+      grid-template-columns: 1fr;
       gap: 1rem;
     }
-    @media (max-width: 900px) {
-      .grid { grid-template-columns: 1fr; }
+    .map-card { aspect-ratio: 16 / 9; }
+
+    /* Zoom-Controls */
+    .map-controls {
+      position: absolute; top: 0.6rem; right: 0.6rem;
+      display: flex; flex-direction: column; gap: 0.3rem; z-index: 5;
     }
+    .map-ctrl {
+      width: 32px; height: 32px;
+      background: rgba(15, 14, 12, 0.85);
+      color: var(--paper-edge);
+      border: 1px solid rgba(232, 224, 212, 0.2);
+      border-radius: 3px; cursor: pointer;
+      font-family: 'Cormorant Garamond', serif; font-size: 1.1rem;
+      display: flex; align-items: center; justify-content: center;
+      user-select: none;
+    }
+    .map-ctrl:hover { background: rgba(15, 14, 12, 0.95); color: var(--accent); }
+
+    svg#map { cursor: grab; }
+    svg#map.is-panning { cursor: grabbing; }
 
     .map-card, .side-card {
       background: var(--paper); color: var(--ink);
@@ -62,7 +81,7 @@
       overflow: hidden;
     }
     .map-card {
-      aspect-ratio: 16 / 11; position: relative;
+      position: relative;
     }
     svg#map { width: 100%; height: 100%; display: block; background: #0d1015; }
 
@@ -235,6 +254,11 @@
       <div class="map-card">
         <svg id="map" viewBox="0 0 1600 1100"></svg>
         <div id="tooltip" class="city-tooltip"></div>
+        <div class="map-controls">
+          <button class="map-ctrl" id="zoom-in" title="Reinzoomen">+</button>
+          <button class="map-ctrl" id="zoom-out" title="Rauszoomen">−</button>
+          <button class="map-ctrl" id="zoom-reset" title="Zurücksetzen" style="font-size:0.7rem">⟲</button>
+        </div>
       </div>
 
       <div class="side-card">
@@ -731,8 +755,10 @@ svg.addEventListener('mousemove', (e) => {
 });
 svg.addEventListener('mouseleave', () => { tt.style.display = 'none'; });
 
-// Klick auf Stadt: setzt From/To
+// Klick auf Stadt: setzt From/To. Wird bei Pan-Bewegung unterdrueckt.
+let _panMoved = false;
 svg.addEventListener('click', (e) => {
+  if (_panMoved) { _panMoved = false; return; }
   const name = e.target.getAttribute && e.target.getAttribute('data-name');
   if (!name) return;
   const fromSel = document.getElementById('from');
@@ -741,6 +767,126 @@ svg.addEventListener('click', (e) => {
   else if (!toSel.value || fromSel.value === name) { toSel.value = name; }
   else { fromSel.value = toSel.value; toSel.value = name; }
   compute();
+});
+
+// === PAN + ZOOM ===
+const VIEW_BASE = { x: 0, y: 0, w: 1600, h: 1100 };
+let view = { ...VIEW_BASE };
+
+function applyView() {
+  svg.setAttribute('viewBox', `${view.x} ${view.y} ${view.w} ${view.h}`);
+}
+
+function clampView() {
+  // Begrenzung: viewBox darf nicht beliebig weit aus dem Map-Bereich rausrutschen
+  const minW = 100, maxW = VIEW_BASE.w * 2;
+  view.w = Math.max(minW, Math.min(maxW, view.w));
+  view.h = view.w * (VIEW_BASE.h / VIEW_BASE.w);
+  // Pan-Begrenzung mit etwas Puffer
+  const padX = view.w * 0.5, padY = view.h * 0.5;
+  view.x = Math.max(-padX, Math.min(VIEW_BASE.w - view.w + padX, view.x));
+  view.y = Math.max(-padY, Math.min(VIEW_BASE.h - view.h + padY, view.y));
+}
+
+function zoomAt(factor, sx, sy) {
+  // sx,sy in SVG-Coords um den Zoom-Punkt zu halten
+  const newW = view.w * factor;
+  const newH = view.h * factor;
+  view.x = sx - (sx - view.x) * factor;
+  view.y = sy - (sy - view.y) * factor;
+  view.w = newW;
+  view.h = newH;
+  clampView();
+  applyView();
+}
+
+function clientToSvg(clientX, clientY) {
+  const rect = svg.getBoundingClientRect();
+  return {
+    x: view.x + (clientX - rect.left) / rect.width * view.w,
+    y: view.y + (clientY - rect.top) / rect.height * view.h,
+  };
+}
+
+// Wheel-Zoom
+svg.addEventListener('wheel', (e) => {
+  e.preventDefault();
+  const factor = e.deltaY > 0 ? 1.15 : 0.87;
+  const p = clientToSvg(e.clientX, e.clientY);
+  zoomAt(factor, p.x, p.y);
+}, { passive: false });
+
+// Drag-Pan
+let panState = null;
+svg.addEventListener('mousedown', (e) => {
+  if (e.button !== 0) return;
+  panState = { x: e.clientX, y: e.clientY, vx: view.x, vy: view.y, moved: false };
+  svg.classList.add('is-panning');
+});
+window.addEventListener('mousemove', (e) => {
+  if (!panState) return;
+  const dx = e.clientX - panState.x;
+  const dy = e.clientY - panState.y;
+  if (Math.abs(dx) > 3 || Math.abs(dy) > 3) panState.moved = true;
+  const rect = svg.getBoundingClientRect();
+  view.x = panState.vx - dx / rect.width * view.w;
+  view.y = panState.vy - dy / rect.height * view.h;
+  clampView();
+  applyView();
+});
+window.addEventListener('mouseup', () => {
+  if (!panState) return;
+  if (panState.moved) _panMoved = true;
+  panState = null;
+  svg.classList.remove('is-panning');
+});
+
+// Touch (Mobile)
+let touchState = null;
+svg.addEventListener('touchstart', (e) => {
+  if (e.touches.length === 1) {
+    touchState = { type: 'pan', x: e.touches[0].clientX, y: e.touches[0].clientY, vx: view.x, vy: view.y };
+  } else if (e.touches.length === 2) {
+    const dx = e.touches[0].clientX - e.touches[1].clientX;
+    const dy = e.touches[0].clientY - e.touches[1].clientY;
+    touchState = { type: 'pinch', dist: Math.hypot(dx, dy), w: view.w };
+  }
+}, { passive: true });
+svg.addEventListener('touchmove', (e) => {
+  if (!touchState) return;
+  e.preventDefault();
+  if (touchState.type === 'pan' && e.touches.length === 1) {
+    const dx = e.touches[0].clientX - touchState.x;
+    const dy = e.touches[0].clientY - touchState.y;
+    const rect = svg.getBoundingClientRect();
+    view.x = touchState.vx - dx / rect.width * view.w;
+    view.y = touchState.vy - dy / rect.height * view.h;
+    clampView(); applyView();
+  } else if (touchState.type === 'pinch' && e.touches.length === 2) {
+    const dx = e.touches[0].clientX - e.touches[1].clientX;
+    const dy = e.touches[0].clientY - e.touches[1].clientY;
+    const dist = Math.hypot(dx, dy);
+    const factor = touchState.dist / dist;
+    const cx = (e.touches[0].clientX + e.touches[1].clientX) / 2;
+    const cy = (e.touches[0].clientY + e.touches[1].clientY) / 2;
+    const p = clientToSvg(cx, cy);
+    view.w = touchState.w * factor;
+    view.x = p.x - (p.x - view.x) * factor;
+    touchState.dist = dist; touchState.w = view.w;
+    clampView(); applyView();
+  }
+}, { passive: false });
+svg.addEventListener('touchend', () => { touchState = null; });
+
+// Buttons
+document.getElementById('zoom-in').addEventListener('click', () => {
+  zoomAt(0.7, view.x + view.w / 2, view.y + view.h / 2);
+});
+document.getElementById('zoom-out').addEventListener('click', () => {
+  zoomAt(1.4, view.x + view.w / 2, view.y + view.h / 2);
+});
+document.getElementById('zoom-reset').addEventListener('click', () => {
+  view = { ...VIEW_BASE }; applyView();
 });
 
 // Load
