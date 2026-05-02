@@ -32,6 +32,8 @@ Unter Vael liegt der Riss zwischen den Welten. Er kann von der Moragh-Seite als 
 
 Grob vergleichbar mit Europa in Größe und Klima. Westküste am **Grauen Meer** (kalt, stürmisch). Süden am **Binnenmeer** (wärmer, Handelsrouten). Osten: Steppe und Gebirge. Technologieniveau: frühes 19. Jahrhundert. Messing, Glas, Holz, Stein. Alles von Hand.
 
+**Währung:** Hauptmünze ist der **Solm** (Silber, geprägt). Untereinheit: der **Stüber** (Kupfer, 12 Stüber = 1 Solm). Ein Monatslohn eines Druckergesellen liegt bei ~38 Solm (K02-Falkensand-Markt 551 TZ). Großhändler rechnen in **Solm-Rollen** (50 Solm gerollt im Papierband). Keine zentrale Münzanstalt — jede Hafenstadt prägt eigene Solm mit Stadtwappen, Kurs schwankt minimal.
+
 **Es gibt keine bekannte Magie in Thalassien.** Keine Magier, keine Zaubersprüche, keine magischen Kreaturen. Die Menschen wissen nicht, dass eine zweite Welt existiert. Die Anomalien in Vael halten sie für Aberglauben.
 
 **In der Welt gibt es keine Religion.** Weder in Thalassien noch in Moragh. Religion spielt in dieser Trilogie keine Rolle und wird nicht thematisiert.
