@@ -10,7 +10,7 @@
 - `buch/leseproben/28-sorel-tod-moment.md` — Schock-Moment Klinik-Register (Kuang/SenLinYu), körperliche Ohnmacht, Atem-Disziplin. Hier als Schock ohne Tod, aber Ton (kalt, präzise, Körper) als Referenz.
 
 **Council-Leserinnen für /ausarbeitung:**
-- **MEIKE** (Dark Fantasy, Bardugo/Black/Kuang) — Solo-POV-Disziplin, benannte Einzeldetails (Lupen, Hohlspiegel, Prisma, Schiefertafel), Schemen als Welt-mit-Zähnen statt generisches „Schatten/Nebel". Test pro Absatz: ist der Satz austauschbar mit jedem Dark-Fantasy-Roman, oder nur Sorel hier?
+- **MEIKE** (Dark Fantasy, Black/Kuang/Maas) — Solo-POV-Disziplin, benannte Einzeldetails (Lupen, Hohlspiegel, Prisma, Schiefertafel), Schemen als Welt-mit-Zähnen statt generisches „Schatten/Nebel". Test pro Absatz: ist der Satz austauschbar mit jedem Dark-Fantasy-Roman, oder nur Sorel hier?
 - **KAYA** (Dystopie/Grimdark, Kuang/SenLinYu/Pierce Brown) — Schock-Moment ohne Sanitisierung, Körper unter Druck, Trauma trägt im Körper (Kälte, Hals, Hände). Test pro Absatz: weicht der Erzähler vor dem Schock aus, oder bleibt er drin?
 
 ---
