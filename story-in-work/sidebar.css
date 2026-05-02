@@ -26,18 +26,24 @@ body.siw-with-sidebar > nav {
   display: none !important;
 }
 
-/* Sidebar-Container */
+/* Sidebar-Container — !important damit kein Page-CSS dazwischen funkt */
+body.siw-with-sidebar .siw-sidebar,
 .siw-sidebar {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: var(--siw-sidebar-width);
-  height: 100vh;
-  background: linear-gradient(180deg, var(--siw-bg-mid) 0%, var(--siw-bg) 100%);
+  position: fixed !important;
+  top: 0 !important;
+  left: 0 !important;
+  width: 240px !important;
+  max-width: 240px !important;
+  min-width: 240px !important;
+  height: 100vh !important;
+  margin: 0 !important;
+  background: linear-gradient(180deg, var(--siw-bg-mid) 0%, var(--siw-bg) 100%) !important;
   border-right: 1px solid var(--siw-line);
   overflow-y: auto;
-  z-index: 100;
+  z-index: 1000 !important;
   transition: transform 0.3s ease;
+  display: block !important;
+  box-sizing: border-box !important;
 }
 
 .siw-sidebar::-webkit-scrollbar { width: 6px; }
