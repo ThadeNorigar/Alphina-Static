@@ -5,7 +5,7 @@ figuren: Alphina, Varen
 register: explizit, aber kalt — Handel auf Körperebene, kein Heat, kein BDSM
 heat_level: explizit, aber moralisch kalt (eigenes Register)
 primaer_referenz: Robert (Neon Gods) — Dark-Romance-Macht-Sex; Kennedy (Plated Prisoner) — Captive-Dynamik auf anderer Seite (hier akzeptiert)
-ergaenzende_referenz: Bardugo für analytische Distanz; Kuang für kalte Beobachtung
+ergaenzende_referenz: Kuang für analytische Distanz; Kuang für kalte Beobachtung
 zweck: Canon: "kein Loslassen, kein Hingeben. Sie ist oben. Sie führt." "Schwarze Wurzeln unter dem Bett." "Er registriert die Farbe und sagt nichts." Einzigartig moralisch problematisches Sex-Register. Alphina wechselt die Seite nicht aus Lust, sondern aus Glauben an ein geteiltes Ziel. Weder Yarros-Heat noch Réage-BDSM.
 canon_status: Ton-Etüde, nicht Plot-Canon.
 ---

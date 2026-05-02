@@ -4,7 +4,7 @@ pov: Vesper
 figuren: Vesper (allein)
 register: Dark Fantasy Atmosphäre — kalt, mit leisem Moragh-Leckage-Unterton
 heat_level: keine
-primaer_referenz: Leigh Bardugo (Six of Crows) — kalte Präzision, benannte Einzeldetails, Ausschluss-Technik
+primaer_referenz: Kuang (Babel) — kalte Präzision, benannte Einzeldetails, Ausschluss-Technik
 ergaenzende_referenz: R. F. Kuang (Babel) — Tech-Präzision als Stil
 zweck: Ton-Referenz für Vesper-POV-Welt. Uhrwerk + Messing + Register als Material. Analytisches Sehen, sparsame Bilder, Kuang-artige Stoff-Disziplin. Mit Figur-Motor (drei Tage dieselbe Uhr, die sich nicht erklären lässt) und subtiler Moragh-Leckage (zitternde Unruh ohne Ursache). Symmetrie zu #09 (Maren/warm + kalte Stelle am Spant) gewollt.
 canon_status: Ton-Etüde. Vesper in seiner Werkstatt in Karst, kurz vor dem Brief-Entschluss, der ihn nach Vael bringt. Zweite Version — erste war zu atmosphärisch ohne Motor (35% Council-Score).

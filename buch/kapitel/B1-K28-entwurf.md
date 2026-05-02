@@ -6,10 +6,10 @@
 **Gänsehaut-Moment:** Im Steinkreis schwitzt ein Purpurstein Salz — nicht Grauwe-Salz, sondern einen Geschmack, der zu keinem Meer gehört, das Maren kennt. Sie legt die Hand an den Stein, und das Pochen, das sie seit fünf Monaten im Brustkorb trägt, ist jetzt unter ihrer Handfläche — es antwortet, es kommt ihr entgegen. Am Rand des Kreises, wo der Nebel an den Steinen bricht, stehen sechs oder sieben Schemen als dunkle Silhouetten. Keiner tritt über die Steinlinie. Die Grenze, die die Pflanzen nicht überqueren, hält auch sie zurück.
 
 **Ton-Ziel dieses Kapitels:**
-- Primär: **Bardugo (*Six of Crows*)** — nüchterner Dark-Fantasy-Ton, benannte Einzeldetails, leise Bedrohung unter ruhiger Oberfläche.
+- Primär: **Kuang (*Babel*)** — nüchterner Dark-Fantasy-Ton, benannte Einzeldetails, leise Bedrohung unter ruhiger Oberfläche.
 - Primär: **Maas (ACOTAR)** — Figur körperlich im Raum, sinnlich-dichte Herbst-Nebel-Atmosphäre (kalte Pflastersteine, feuchter Wollrock, Nebelhorn vom Leuchtturm) ohne Atmosphäre-Selbstzweck.
 - Ergänzend: **King** als Disziplin-Untergrund — Alltag als Hauptton, Magie sickert, kein Horror-Peak.
-- **Für den Stadt-Zerfall-Opener in Sz1 (falls Autor kein separates I4 setzt):** leichtes **Bardugo-Fold**-Register — tote/sterbende Zonen, stille Evakuierung, keine Panik-Prosa, sondern die nüchterne Beobachtung einer Frau, die Stadt-im-Zerfall kennt aus Solha-Kriegszeiten.
+- **Für den Stadt-Zerfall-Opener in Sz1 (falls Autor kein separates I4 setzt):** leichtes **SenLinYu-Alchemised**-Register — tote/sterbende Zonen, stille Evakuierung, keine Panik-Prosa, sondern die nüchterne Beobachtung einer Frau, die Stadt-im-Zerfall kennt aus Solha-Kriegszeiten.
 - Leseproben-Anker: **09 (Welt Vael warm)** für Werft- und Gassen-Register; **11 (Moragh-Ankunft)** für das Ton-Muster *„Körper reagiert vor Kopf in fremder Umgebung"*.
 - **Nicht**: Leseprobe 30 (Verwüster-Tod) — Kuang/SenLinYu-Dunkelregister bleibt aus für Leichenfund; der Stadt-Zerfall darf leicht an Fold anstreifen, ohne Tote-Zone-Brutalität.
 - Heat-Level: **keine**. K28 ist Maren-Solo-Kapitel, kein V/M.
@@ -281,10 +281,10 @@
 
 ### Horror-Kalibrierung
 
-- Horror leise, Bardugo-Nüchternheit. Kein Kuang/SenLinYu.
+- Horror leise, Kuang-Nüchternheit. Kein SenLinYu-Härte-Register.
 - Leichenfund funktioniert über Fehlen (keine Wunde, süß-dichter Geruch, Pistole ungezogen).
 - Schemen als stehende Silhouetten, keine Bewegung — Maas-Nachtwald-Register.
-- Stadt-Zerfall-Opener leicht Bardugo-Fold-angestreift (vernagelte Fenster, hilflose Patrouillen), nicht tote-Zone-brutal.
+- Stadt-Zerfall-Opener leicht SenLinYu-angestreift (vernagelte Fenster, hilflose Patrouillen), nicht tote-Zone-brutal.
 
 ### Commercial 95%-Gate-Check — Eröffnung Szene 1
 

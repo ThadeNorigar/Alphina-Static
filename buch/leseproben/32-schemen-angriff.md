@@ -4,7 +4,7 @@ pov: Vesper
 figuren: Vesper, eine Kreatur
 register: commercial Horror / Unheimlich, Dark-Fantasy-Gefahr ohne Gore-Primat
 heat_level: Drohung, Kampf
-primaer_referenz: Bardugo (Six of Crows — Gefahr im Nebel, fremdartig-präzise); Black (Cruel Prince — unheimliche Fremdheit)
+primaer_referenz: Black (Cruel Prince — Gefahr im Nebel, fremdartig-präzise); Black (Cruel Prince — unheimliche Fremdheit)
 ergaenzende_referenz: Maas (ACOTAR — atmosphärische Drohung); Yarros (Fourth Wing) — Kampf-Adrenalin bei erstem Kontakt
 zweck: Figur begegnet einem Schemen. Horror-Register commercial gehalten — keine Schauwerte. Material: Nebel, Dunkelheit, leuchtende Augen, fremdartige Bewegung. Memory-Regel: "Schemen" nie in Prosa — Figuren kennen den Begriff nicht.
 canon_status: Ton-Etüde, nicht Plot-Canon.

@@ -26,9 +26,9 @@ claude --model opus
 
 ## Tonale Marker (aus Entwurfs-Header)
 
-- Primär: Bardugo (*Six of Crows*) — nüchterner Dark-Fantasy-Ton, benannte Einzeldetails, leise Bedrohung
+- Primär: Kuang (*Babel*) — nüchterner Dark-Fantasy-Ton, benannte Einzeldetails, leise Bedrohung
 - Primär: Maas (ACOTAR) — Figur körperlich im Raum, Herbst-Nebel-Atmosphäre ohne Selbstzweck
-- Disziplin-Untergrund: King/Bardugo (POV/Tschechow/Konkretheit)
+- Disziplin-Untergrund: King (POV/Tschechow/Konkretheit)
 
 ## Anweisungen
 

@@ -10,7 +10,7 @@
 
 ## Ton-Referenz (Leseproben)
 
-- **Primär:** `buch/leseproben/12-gruppenszene-tension.md` — POV-Verflechtung, verteilte Körperbeats, Bardugo-Register. Direkter Register-Zwilling für Ensemble-Kapitel.
+- **Primär:** `buch/leseproben/12-gruppenszene-tension.md` — POV-Verflechtung, verteilte Körperbeats, Maas-Register. Direkter Register-Zwilling für Ensemble-Kapitel.
 - **Sekundär:** `buch/leseproben/08-magie-kontrollverlust.md` — wenn Magie aktiv wird (Alphina Wachstum, Sorel Licht-Formung, Vesper Zeit-Stocken, Maren Wasser). `buch/leseproben/13-krieg-schlachtfeld.md` — *nur* für den Kampf-Körper-Takt, nicht für den Ton (kein Gewaltregister hier).
 - **Stilnotiz:** Dialog-Rhythmus Gruppenszene (Memory-Canon): keine Reihum-Monologe, Körperbeats/Blicke/Unterbrechungen verflechten. POV-Wechsel klar markiert (Szenenbruch oder deutliches Perspektiv-Signal). Sorel hält Alphinas Handgelenke zurück (Tschechow für K21 — nicht als Sub-Geste, als Schutz). Jede Figur hat einen kleinen Handlungs-Moment in ihrer Berufslinse (Alphina: Pflanze wächst; Sorel: Platten; Vesper: Takt; Maren: Wasser). "Resonanz" NIE in Prosa.
 

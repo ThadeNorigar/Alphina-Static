@@ -13,7 +13,7 @@
 
 **Council-Leserinnen für /ausarbeitung:**
 - **KAYA** (Dystopie/Grimdark, Kuang/SenLinYu/Pierce Brown) — Schwur-Privatheit ohne Pathos, Schemen-Berührung als körperliche Realität (Kälte, Schmerz, Knochen), Joran-Botschaft ohne Sentimentalität. Test pro Absatz: trägt der Körper den Schock, oder erklärt der Erzähler ihn?
-- **MEIKE** (Dark Fantasy, Bardugo/Black/Kuang) — Schemen als spezifische Wesen (humanoid, schwarze Augen ohne Albedo, kalte Berührung, weichen vor gebündeltem Licht), nicht generische „Schatten". Sorels Licht-Magie als Handwerk im Kampf, nicht als Effekt-Spektakel. Test pro Absatz: ist die Magie austauschbar, oder nur Sorel hier?
+- **MEIKE** (Dark Fantasy, Black/Kuang/Maas) — Schemen als spezifische Wesen (humanoid, schwarze Augen ohne Albedo, kalte Berührung, weichen vor gebündeltem Licht), nicht generische „Schatten". Sorels Licht-Magie als Handwerk im Kampf, nicht als Effekt-Spektakel. Test pro Absatz: ist die Magie austauschbar, oder nur Sorel hier?
 
 ---
 

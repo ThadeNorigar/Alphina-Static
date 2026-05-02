@@ -5,7 +5,7 @@ figuren: Maren, Edric (Werftmeister)
 register: Dark Fantasy Atmosphäre — warm, mit leisem Moragh-Leckage-Unterton
 heat_level: keine
 primaer_referenz: Sierra Simone (Priest) — Material (Pech, Hanf, Eiche) als Spannungs-Rahmen; King-Dichte als Untergrund
-ergaenzende_referenz: Maas (ACOTAR) — Figur-körperlich-im-Raum; Bardugo (Ausschluss) — Moragh-Detail leise
+ergaenzende_referenz: Maas (ACOTAR) — Figur-körperlich-im-Raum; Black (Cruel Prince) — Moragh-Detail leise
 zweck: Ton-Referenz für Maren-POV-Welt-Beschreibungen. Werft-Register + Material erhalten, aber mit Figur-Motor (Müdigkeit + Wollen, den Tag zu schaffen) und einem subtilen Moragh-Leckage-Beat (kalte Stelle am Spant). Commercial-Gate: Figur will was, Körper-Beat früh, leise Drohung unter der warmen Oberfläche.
 canon_status: Ton-Etüde. Beliebiger Vormittag in der Ilves-Werft, B1 Akt I/II. Zweite Version — erste war zu atmosphärisch ohne Motor (45% Council-Score).
 ---

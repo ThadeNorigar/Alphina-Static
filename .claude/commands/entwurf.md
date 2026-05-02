@@ -160,7 +160,7 @@ Aus den fuenf Archetypen aus `.claude/commands/book-council.md`:
 |--------|-------|--------------|
 | **LINA** | Yarros, Maas, Rampling, Robert | Slow-Burn-Tension, Heat, commercial Romantasy, Alphina/Sorel-Naehe |
 | **NORA** | Robert, Kennedy, Simone | Power-Dynamik, Schaerfe, Reibung, morally grey, Alphina/Varen, Konfrontation |
-| **MEIKE** | Bardugo, Black, Kuang | POV-Disziplin, benannte Einzeldetails, Welt mit Zaehnen, Atmosphaere mit Bewegung |
+| **MEIKE** | Black, Kuang, Maas | POV-Disziplin, benannte Einzeldetails, Welt mit Zaehnen, Atmosphaere mit Bewegung |
 | **VICTORIA** | Reage, Reisz, Rampling | BDSM-Szenen Vesper/Maren, Power-Exchange mit Grund, Material-Praezision |
 | **KAYA** | Kuang, SenLinYu, Pierce Brown | Koerper unter Druck, Gewalt mit Folge, Trauma-Koerper, Schock, Tod |
 

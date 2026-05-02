@@ -10,7 +10,7 @@
 - `buch/leseproben/12-gruppenszene-tension.md` — Marktplatz-Menge mit Soldaten, Schaulustigen, Händler-Gruppen — verflochtene Bewegung statt Reihum-Beobachtung. Vorlage für Sz2-Crowd-Geometrie.
 
 **Council-Leserinnen für /ausarbeitung:**
-- **MEIKE** (Dark Fantasy, Bardugo/Black/Kuang) — Schemen als spezifisches Wesen (humanoid, schwarze Augen, süß-dicht; daneben Thar-Schemen am Hafen: kleiner, kompakter, Metall, trocken). Welt mit Zähnen am hellen Tag. Test pro Absatz: ist die Bedrohung benannt-konkret oder generisch?
+- **MEIKE** (Dark Fantasy, Black/Kuang/Maas) — Schemen als spezifisches Wesen (humanoid, schwarze Augen, süß-dicht; daneben Thar-Schemen am Hafen: kleiner, kompakter, Metall, trocken). Welt mit Zähnen am hellen Tag. Test pro Absatz: ist die Bedrohung benannt-konkret oder generisch?
 - **KAYA** (Dystopie/Grimdark, Kuang/SenLinYu/Pierce Brown) — Mord-am-Tag ohne Sanitisierung, kauterisierter Hals als körperlich-präzise Tatsache, Stadt-Panik ohne Pathos. Test pro Absatz: trägt der Körper den Schock, oder erklärt der Erzähler ihn?
 
 ---

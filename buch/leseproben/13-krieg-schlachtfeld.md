@@ -5,7 +5,7 @@ figuren: Alphina, Bund-Kommandant, Thar-Kämpfer
 register: Dunkle Register — Krieg, Täter-POV
 heat_level: Gewalt
 primaer_referenz: Kuang (Poppy War) — Kriegs-Körper, Täter-POV ohne Anästhesie
-ergaenzende_referenz: Yarros (Fourth Wing) — Kampf-Adrenalin; Bardugo — Tempo
+ergaenzende_referenz: Yarros (Fourth Wing) — Kampf-Adrenalin; Yarros — Tempo
 zweck: Ton-Referenz für B2-Kriegs-Szenen. Alphina im Bund-Dienst, Magie grün im Reflex, schwarz/rot bei Wut. Körper handelt, Kopf hinkt. Nicht sanitisiert, nicht gore-primat — Schmerz als Konsequenz, nicht als Schauwert.
 canon_status: Ton-Etüde, spielt in B2 Akt II, Bund-Front gegen Thar-Siedlung. Nicht Plot-Canon.
 ---

@@ -6,12 +6,12 @@
 
 **Voll commercial Dark Romantasy.** Ziel ist ein marktfähiger Dark-Romantasy-Roman im Feld von Yarros, Maas, Robert, Simone, Kennedy — körperlich spürbar, emotional direkt, mit Heat wo er hingehört. 3. Person nah/Präteritum, erlebte Rede als Default. Der Narrator klebt an der Figur, sieht nur was sie sieht, denkt nur was sie denkt.
 
-**Alle Referenz-Autoren sind commercial Bestseller.** Es gibt keine „literary-Disziplin im Untergrund". Stephen King schreibt commercial mit hoher Erzähldichte. Leigh Bardugo schreibt commercial mit POV-Schärfe. Rebecca Yarros schreibt commercial mit Tempo. Alle drei schreiben in **vollständigen, lebendigen Sätzen**. Wer meint, „literarisch-knapp" sei eine Disziplin-Kategorie, täuscht sich — das ist Pseudo-Literatur-Imitation ohne Quelle im Referenz-Feld.
+**Alle Referenz-Autoren sind commercial Bestseller.** Es gibt keine „literary-Disziplin im Untergrund". Stephen King schreibt commercial mit hoher Erzähldichte. Sarah J. Maas schreibt commercial mit Atmosphäre und Mate-Bond-Intensität. Rebecca Yarros schreibt commercial mit Tempo und Heat. Alle drei schreiben in **vollständigen, lebendigen Sätzen**. Wer meint, „literarisch-knapp" sei eine Disziplin-Kategorie, täuscht sich — das ist Pseudo-Literatur-Imitation ohne Quelle im Referenz-Feld.
 
 **Konkretheit und Erzähldichte** — Alphina riecht **Kalkstein, nicht „die Kälte des Steins"**. Jeder Absatz trägt Material, Sinneseindrücke, Tschechow-Details. Das ist die King-Erzähldichte, die auch in commercial Prosa lebt. Konkretheit bedeutet nicht Kargheit, sondern reiche Details **in vollständigen, beschreibenden Sätzen**.
 
 **Zwei Register-Ebenen je nach Szene:**
-- **Alltags- und Plot-Szenen:** hohe Erzähldichte (King-Niveau), POV diszipliniert (Bardugo-Niveau), vollständige lebendige Sätze.
+- **Alltags- und Plot-Szenen:** hohe Erzähldichte (King-Niveau), POV diszipliniert (Maas-Niveau), vollständige lebendige Sätze.
 - **Begehren-/Nähe-/Sex-Szenen:** Heat spürbar, Körper drängt, emotionale Direktheit. Für Vesper/Maren-BDSM: **Réage (Histoire d'O, 1954)** als Primärmodell — Material-Präzision, direkte Anatomie, Paradox-Kern.
 
 **Nicht vulgär.** Commercial heißt nicht Pornografie. Anatomie direkt benennen (Brüste, Schenkel, Kehle, Schoß, Hüften, Glied, Zunge), keine Euphemismen, keine Pornografie-Platzhalter (*"Schaft"*, *"Muschi"*). Réage-Klinik-Präzision.
@@ -30,7 +30,7 @@ Die Autorin hat DREI Geschwindigkeiten. Jedes Kapitel braucht mindestens zwei da
 
 **NORMAL (Handlung, Dialog, Bewegung):**
 - Mittelbau-Sätze (10–20W), die den Rhythmus tragen
-- Bardugo-Register: scharf, dialoglastig, Tempo
+- Yarros-/Maas-Register: scharf, dialoglastig, Tempo
 - Hier passiert Plot: Gespräche, Entscheidungen, Ortswechsel
 - DAS IST DER HÄUFIGSTE MODUS — nicht der langsame
 
@@ -62,7 +62,7 @@ Jeder Satz hat **Subjekt und Verb**. Keine isolierten Adjektiv-/Partizip-Anhäng
 **Ausnahme — Hammerschlag als Akzent:**
 Max **2 pro Kapitel**. Ein Fragment- oder Stichwort-Satz als bewusster emotionaler Akzent (Schock, Erkenntnis, Aufprall). Nicht als Tapete, nicht als Erzählton. Der SCHNELL-Modus oben ist diese Akzent-Kategorie, nicht ein „ganzer Register-Modus".
 
-**Warum so hart:** Der Versuch, elliptisch oder „literarisch-knapp" zu schreiben, endet immer in telegrafisch oder bürokratisch. Alle Referenz-Autoren des Projekts (King, Yarros, Maas, Bardugo, Robert, Simone) schreiben in vollständigen Sätzen. Knappheit als Default ist Pseudo-Literatur-Imitation ohne Quelle.
+**Warum so hart:** Der Versuch, elliptisch oder „literarisch-knapp" zu schreiben, endet immer in telegrafisch oder bürokratisch. Alle Referenz-Autoren des Projekts (King, Yarros, Maas, Robert, Simone) schreiben in vollständigen Sätzen. Knappheit als Default ist Pseudo-Literatur-Imitation ohne Quelle.
 
 **Konkrete Lokalisierung statt vager Pronomen-Phrasen.** Vage Phrasen wie *„in mir"*, *„da draußen"*, *„irgendwo"*, *„etwas davon"* sind verboten als Default. Sie geben dem Leser keine räumliche Verankerung.
 
@@ -325,7 +325,7 @@ Der häufigste Stilfehler des Projekts. Bilder werden auf Abstrakta aufgebaut, A
 
 ## 9. Referenz-Autorinnen (neu gewichtet April 2026)
 
-**Alle Referenzen sind commercial Bestseller.** Es gibt keine „literary-Disziplin"-Kategorie mehr. King ist commercial (Bestseller mit ~70 Romanen), Bardugo ist commercial (YA-Fantasy-Bestseller), Yarros ist commercial (Romantasy-Bestseller). Alle schreiben in vollständigen, lebendigen Sätzen. Die Unterscheidung verläuft entlang **Schwerpunkt** (Tempo / Erzähldichte / POV-Schärfe), nicht entlang „commercial vs. literary".
+**Alle Referenzen sind commercial Bestseller.** Es gibt keine „literary-Disziplin"-Kategorie mehr. King ist commercial (Bestseller mit ~70 Romanen), Maas ist commercial (Romantasy-Bestseller), Yarros ist commercial (Romantasy-Bestseller). Alle schreiben in vollständigen, lebendigen Sätzen. Die Unterscheidung verläuft entlang **Schwerpunkt** (Tempo / Erzähldichte / POV-Schärfe), nicht entlang „commercial vs. literary".
 
 ### Tempo und Heat (Romantasy-Kern)
 
@@ -341,8 +341,7 @@ Der häufigste Stilfehler des Projekts. Bilder werden auf Abstrakta aufgebaut, A
 
 ### POV-Schärfe und Tempo-Verflechtung
 
-- **Leigh Bardugo (Six of Crows):** commercial YA-Fantasy-Bestseller. POV-Differenzierung, Tempo-Wechsel, benannte Einzeldetails. **Vollständige Sätze, kein Telegramm.** Bardugos „Schnelligkeit" entsteht aus klaren Sätzen, nicht aus Fragmenten.
-- **R. F. Kuang (Babel):** Stil folgt Stoff, sparsam, keine Akkumulation als Selbstzweck. Auch hier: vollständige Sätze, nur dichte Auswahl.
+- **R. F. Kuang (Babel):** Stil folgt Stoff, sparsam, keine Akkumulation als Selbstzweck. Vollständige Sätze, nur dichte Auswahl. Liefert POV-Disziplin und Tempo-Verflechtung.
 - **Toni Morrison (Beloved):** Erinnerung im Strom, erlebte Rede ohne Marker. Gilt als literarische Referenz im Bibliotheks-Sinn — wird hier aber nicht als Stil-Vorbild für Satzbau benutzt.
 
 ### BDSM-Register (nur Vesper/Maren-Strang, explizite Szenen)
@@ -357,7 +356,6 @@ Für Krieg, Völkermord, Gefangenschaft, tote Zonen, Körper-Mutilation, Fehlurt
 - **R. F. Kuang (*The Poppy War*) — PRIMÄR für Krieg/Völkermord/Blutmagie:** Täter-POV ohne Anästhesie, körperlich konkrete Gewalt, kalte Präzision in Völkermord-Szenen, Blutmagie-Register für Talvens Bogen. **Nicht *Babel*** — *Babel* bleibt literary-Disziplin.
 - **SenLinYu (*Alchemised*) — PRIMÄR für Captivity/Post-Krieg/Mutilation:** Post-Krieg-Ruinen, Gefangenschafts-Psychologie, Körper-Mutilation als Dauer-Zustand, Trauma-Dissoziation (Körper als Fremdes). Rehabilitiert aus der Streichung — gilt **nur für diese Register**, nicht für Nähe-Szenen.
 - **Pierce Brown (*Red Rising*) — PRIMÄR für Biotech-Dystopie:** Exoskelette, Bodymods, Drohnen, Killermaschinen. Commercial-brutal, körperlich, ohne Gibson-Lyrik-Drift. Nur für Expedition-2-Register (B3 Akt III/IV).
-- **Leigh Bardugo (*Shadow and Bone* — The Fold):** tote Zonen / post-apokalyptische Stätten (Mar-Keth/Dulrath-Ost/Reshkol).
 - **Sarah J. Maas (ACOTAR-Finale):** Weltuntergangs-Schlacht-Tempo, last-stand-Emotion (B3 Dravek-Finale).
 - **Toni Morrison (*Beloved*):** Fehlurteil-Schuld, Trauer-ohne-Vergebung, narbige Ruhe (B3 Talven-Tod, Epilog Halvek-Mar).
 - **Réage** als Ergänzung für körper-klinische Präzision bei Mutilation/Amputation — nie vulgär.
@@ -371,19 +369,19 @@ Für Krieg, Völkermord, Gefangenschaft, tote Zonen, Körper-Mutilation, Fehlurt
 
 | Szenen-Typ | Primärer Ton | Zusatz-Register |
 |------------|--------------|-----------------|
-| Alltag, Plot, Dialog | Bardugo-POV + King-Dichte | — |
+| Alltag, Plot, Dialog | Maas-POV + King-Dichte | — |
 | Atmosphäre, Magie | Maas-Sinnlichkeit + Simone-Material | — |
 | Nähe Alphina/Sorel | Yarros-Heat | Körper vor Kopf |
 | Sex Alphina/Sorel (nicht BDSM) | Yarros + Maas | Anatomie direkt, kein BDSM-Register |
 | Nähe/Sub Maren/Vesper | Réage + Reisz | Submission als innerer Prozess |
 | BDSM-Szene Maren/Vesper explizit | **Réage primär** | Kleidungs-Rahmen, Material-Präzision, Dom-Funktion erklärt |
-| Dark-Fantasy-Gefahr | Black (Spannung, keine Explizitheit) + Maas (atmosphärisch) | Bardugo-Tempo |
-| Krieg / Schlachtfeld (B2 Akt IV, B3 Finale) | **Kuang (*Poppy War*)** | Yarros-Kampf-Körperbeats, Bardugo-Tempo |
+| Dark-Fantasy-Gefahr | Black (Spannung, keine Explizitheit) + Maas (atmosphärisch) | Yarros-Tempo |
+| Krieg / Schlachtfeld (B2 Akt IV, B3 Finale) | **Kuang (*Poppy War*)** | Yarros-Kampf-Körperbeats, Maas-Tempo |
 | Völkermord-Täter-POV (B2 Quellen, B3 Talven-Mord) | **Kuang** | SenLinYu für Körper |
-| Post-Krieg-Ruinen / tote Zonen (B2 Mar-Keth) | **SenLinYu + Bardugo (Fold)** | — |
+| Post-Krieg-Ruinen / tote Zonen (B2 Mar-Keth) | **SenLinYu + Kuang** | — |
 | Gefangenschaft / Captivity (B2 Endakt, B3 Torkal) | **SenLinYu + Kennedy (*Plated Prisoner*)** | Réage (Erniedrigungs-Präzision) |
 | Biotech-Dystopie / Expedition 2 (B3 Akt III/IV) | **Pierce Brown (*Red Rising*)** | Kuang (*Babel* Tech-Präzision) |
-| Weltuntergangs-Schlacht (B3 Finale Dravek) | **Maas (ACOTAR-Finale) + Kuang** | Yarros-Emotion, Bardugo-Tempo |
+| Weltuntergangs-Schlacht (B3 Finale Dravek) | **Maas (ACOTAR-Finale) + Kuang** | Yarros-Emotion |
 | Körper-Mutilation / Amputation (B1 Dornen, B3 Duell) | **SenLinYu + Réage** | Kuang |
 | Fehlurteil-Schuld (B3 Talven-Tod) | **Kuang (Rin/Altan) + Morrison** | — |
 | Blutmagie / Selbstverletzung (B3 Talven) | **Kuang** | SenLinYu |

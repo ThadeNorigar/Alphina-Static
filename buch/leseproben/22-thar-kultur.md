@@ -4,7 +4,7 @@ pov: Nyr
 figuren: Nyr, Meister Durm, Kessler (Bestie, passiv), Vesper (am Rand, beobachtend)
 register: Mechanik, Pragmatismus, Bestien-Werkstatt, "benennen ihre Fehler"
 heat_level: keine
-primaer_referenz: Bardugo (Six of Crows) — Thieves-Heist-Mechanik-Register; Kuang (Babel) — Tech-Präzision als Stil
+primaer_referenz: Black (Cruel Prince) — Welt-mit-Zähnen, Mechanik-Register; Kuang (Babel) — Tech-Präzision als Stil
 ergaenzende_referenz: Pierce Brown (dezent) — Biotech-Muskel ohne Dystopie; King — Material-Dichte
 zweck: Thar-Welt etablieren (B2 Akt II). Kessler in Werkstatt, Metall-/Druck-Magie im Alltag, Pilotinnen-Register. Canon: "benennen ihre Fehler" — transparente Unzulänglichkeit als Kulturcode. Gegenpol zur Bund-Zivilisiertheit: ehrlich mechanisch, schmierig-pragmatisch.
 canon_status: Ton-Etüde, nicht Plot-Canon.

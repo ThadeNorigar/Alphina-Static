@@ -4,7 +4,7 @@ pov: Vesper
 figuren: Vesper, Maren, Alphina, Sorel, Halvard (+ Henrik passiv)
 register: commercial Dark Fantasy mit Sub-Text
 heat_level: leise unter der Oberfläche
-primaer_referenz: Bardugo (Six of Crows) — POV-Verflechtung, verteilte Körperbeats
+primaer_referenz: Maas (ACOTAR) — POV-Verflechtung, verteilte Körperbeats
 ergaenzende_referenz: Yarros (Fourth Wing) — Tension im öffentlichen Raum; Robert (Neon Gods) — Alphina/Sorel-Schärfe
 zweck: Ton-Referenz für Gruppenszenen mit mehreren Figuren, bei denen zwei Paare verborgene Dynamiken haben (Vesper/Maren + Alphina/Sorel). Kein Reihum-Dialog. Plot-Info radikal reduziert (zwei Beats statt fünf), Paar-Tension trägt die Szene. Vesper-POV mit strategischem Motor (er hat den Platz bewusst gewählt).
 canon_status: Ton-Etüde. Ein Abend in Halvards Salon nach dem Archiv-Fund. B1 Akt II, Vesper/Maren etabliert-privat, Alphina/Sorel noch pre-K21 (Sie-Register implizit). Zweite Version — erste war 55% durch Exposition-Dump und schwache Paar-Tension.

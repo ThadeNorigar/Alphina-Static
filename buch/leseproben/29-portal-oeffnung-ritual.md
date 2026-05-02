@@ -5,7 +5,7 @@ figuren: Alphina, Sorel, Vesper, Maren, Runa
 register: Magie-Höhepunkt, vier Resonanzen koppeln, Zeit-Druck
 heat_level: Action-Heat / Magie-Peak
 primaer_referenz: Maas (ACOTAR-Magie-Peaks) — sinnliche Dichte bei Magie-Ereignissen; Kuang (Babel) — Tech-Präzision
-ergaenzende_referenz: Yarros — Kampf-Adrenalin + Körper in Action; Bardugo — Gruppenchoreografie
+ergaenzende_referenz: Yarros — Kampf-Adrenalin + Körper in Action; Yarros — Gruppenchoreografie
 zweck: Der magische Peak des ersten Buchs. Vier Resonanzen koppeln sich (Alphina-Pflanzen, Sorel-Licht, Vesper-Zeit, Maren-Wasser). Runa schlüpft durch. Magie-Mechanik präzise, aber körperlich-überwältigend.
 canon_status: Ton-Etüde, nicht Plot-Canon.
 ---

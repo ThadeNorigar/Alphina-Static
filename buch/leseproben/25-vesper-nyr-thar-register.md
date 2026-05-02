@@ -5,7 +5,7 @@ figuren: Vesper, Nyr
 register: explizit non-BDSM, beide hart und leidenschaftlich, Thar-Material-Register
 heat_level: explizit non-BDSM
 primaer_referenz: Yarros (Fourth Wing) — Hitze ohne Mate-Bond, Körperbeat-getrieben; Robert (Neon Gods) — direkte Anatomie, Power-Gleichgewicht
-ergaenzende_referenz: Pierce Brown (dezent) — Metall gegen Haut, industrielles Material; Bardugo — Körper-Disziplin
+ergaenzende_referenz: Pierce Brown (dezent) — Metall gegen Haut, industrielles Material; Kuang (Babel) — Körper-Disziplin
 zweck: Andere Körper-Grammatik als Vesper/Maren (dort BDSM Dom/Sub mit Maren als Sub). Hier zwei harte Körper, beide aktiv, ohne Hierarchie. Druck-Magie als Hitze-Folgen-Effekt (Nyrs Magie setzt aus, wenn sie hochfährt), nicht als Kontroll-Werkzeug. Blaue Flecken auf Vespers Hals als Spur der unkontrollierten Welle, nicht als Power-Geste.
 canon_status: Ton-Etüde, nicht Plot-Canon.
 ---

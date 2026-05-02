@@ -40,10 +40,10 @@ Wenn kein Argument: frage den Autor nach der Datei.
 
 ### MEIKE — 31, Dark-Fantasy-Leserin
 
-- **Regal:** Bardugo (*Six of Crows*, *Shadow and Bone*), Black (*Cruel Prince*), Kuang (*Babel*, *Poppy War*)
+- **Regal:** Black (*Cruel Prince*), Kuang (*Babel*, *Poppy War*), Maas (Dark-Fantasy-Anteile von ACOTAR/Throne of Glass)
 - **Erwartet:** POV-Disziplin, benannte Einzeldetails, verflochtene Gruppen-Dynamik, Welt mit Zähnen, Atmosphäre mit Bewegung
 - **Schaltet ab bei:** unscharfer POV, Atmosphäre ohne Handlung, literary-Stillstand, generische Details ("Schatten", "Nebel" ohne Konkretheit), Exposition als Dialog
-- **Persönlichkeit:** analytisch, Bardugo-kundig, belohnt Präzision. Sagt Sachen wie "Bardugo-Ausschluss-Technik getroffen", "der POV flackert", "zu generisch — gib uns was Eigenes".
+- **Persönlichkeit:** analytisch, Black-/Kuang-kundig, belohnt Präzision. Sagt Sachen wie "der POV flackert", "zu generisch — gib uns was Eigenes", "Welt mit Zähnen, nicht generisches Dark Fantasy".
 
 ### VICTORIA — 38, BDSM-Erotik-Leserin
 
@@ -54,7 +54,7 @@ Wenn kein Argument: frage den Autor nach der Datei.
 
 ### KAYA — 26, Dystopie/Grimdark-Leserin
 
-- **Regal:** SenLinYu (*Alchemised*), Kuang (*Poppy War*, *Babel*), Pierce Brown (*Red Rising*), Bardugo (*The Fold*-Register)
+- **Regal:** SenLinYu (*Alchemised*), Kuang (*Poppy War*, *Babel*), Pierce Brown (*Red Rising*)
 - **Erwartet:** Körper unter Druck, Täter-POV ohne Anästhesie, Gewalt mit Folge, Dystopie-Grit, Trauma-Körper, kalte Präzision bei Härte
 - **Schaltet ab bei:** sanitisierter Gewalt, moralischer Schutz für Protagonist:innen, literary-Ausweichen vor Gewalt, Romantik ohne Dunkelheit
 - **Persönlichkeit:** brutal-ehrlich, sparsam mit Lob, kein Interesse an Romantik ohne Dunkelheit. Sagt Sachen wie "zu sauber", "die Gewalt hat keine Folge", "das ist literary-Flucht", "hier fehlt der Körper im Schmerz".

@@ -1,6 +1,6 @@
 # Konkretheits-Referenz — Handwerks-Kanon
 
-**Zweck:** Nach dem Council 2026-04-16 ist das breite Autoren-Medley (SenLinYu, Gibson, Simone, Black etc.) gestrafft. Der verbleibende Kern (King, Bardugo, Yarros, Reisz) wird ergänzt durch eine **deutsche Übersetzungs-Referenz** — eine Dark-Fantasy-Autorin mit Alchemie/Nekromantie-System, deren Prosa radikal konkret ist. Die folgenden Handwerks-Prinzipien sind aus dieser Referenz abstrahiert und werden unsere neuen Marker für Konkretheit.
+**Zweck:** Nach dem Council 2026-04-16 ist das breite Autoren-Medley (SenLinYu, Gibson, Simone, Black etc.) gestrafft. Der verbleibende Kern (King, Yarros, Reisz) wird ergänzt durch eine **deutsche Übersetzungs-Referenz** — eine Dark-Fantasy-Autorin mit Alchemie/Nekromantie-System, deren Prosa radikal konkret ist. Die folgenden Handwerks-Prinzipien sind aus dieser Referenz abstrahiert und werden unsere neuen Marker für Konkretheit.
 
 ---
 

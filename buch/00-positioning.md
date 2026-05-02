@@ -12,7 +12,7 @@ Drei Stilvektoren, parallel präsent, zugänglich geschrieben.
 
 "Commercial" bedeutet: **marktfähig im Genre-Feld von Yarros, Maas, Robert, Kennedy, Simone**. Nicht literary fiction mit Dark-Fantasy-Touch. Nicht Cozy Fantasy. Nicht Romance-Light. Zugängliche Prosa mit Heat, Atmosphäre und emotionaler Direktheit.
 
-**Literary-Disziplin bleibt** als Handwerks-Untergrund (King, Bardugo, Kuang): POV-Disziplin, Tschechow-Details, konkrete Sprache, Canon-Treue. Aber der **Ton** ist commercial, nicht literary-zurückhaltend.
+**Literary-Disziplin bleibt** als Handwerks-Untergrund (King, Kuang): POV-Disziplin, Tschechow-Details, konkrete Sprache, Canon-Treue. Aber der **Ton** ist commercial, nicht literary-zurückhaltend.
 
 ---
 
@@ -34,7 +34,7 @@ Charakteristisch:
 
 ### 3.1 Dark Fantasy
 - Vier-Resonanzen-System, Portal/Schemen, Varen als Antagonist, Moragh als zweite Welt
-- Atmosphäre: **Maas** (ACOTAR-Nachtwälder), **Bardugo** (Six of Crows), **Black** (Cruel Prince)
+- Atmosphäre: **Maas** (ACOTAR-Nachtwälder), **Black** (Cruel Prince)
 - Gefahr, Drohung, Unheimlichkeit — leise oder laut, nie kitschig
 - Magie integriert in Alltag, mit Körper-Konsequenzen
 
@@ -60,7 +60,6 @@ B2 spielt im Krieg (Bund/Thar/Velmar, Quellen-Überladung als Waffe). B3 eskalie
 - **R. F. Kuang (*The Poppy War*)** als Primärmodell für Kriegs-, Völkermord- und Blutmagie-Ton: kalt, körperlich, Täter-POV ohne Anästhesie. Nicht *Babel* — das bleibt literary-Disziplin.
 - **SenLinYu (*Alchemised*)** rehabilitiert für Post-Krieg-Ruinen, Gefangenschaft, Körper-Mutilation, Trauma-Dissoziation. **Nur für Härte**, nicht für Nähe-Szenen.
 - **Pierce Brown (*Red Rising*)** für Biotech-Dystopie / Shadowrun-Register: Exoskelette, Bodymods, Drohnen, Killermaschinen. Brutal, commercial, körperlich. Nur für Expedition-2-Register (B3 Akt III/IV).
-- **Leigh Bardugo (*Shadow and Bone* — The Fold)** für tote Zonen / post-apokalyptische Stätten in Moragh (Mar-Keth, Dulrath-Ost, Reshkol).
 - **Sarah J. Maas (ACOTAR-Finale)** für Weltuntergangs-Schlacht-Tempo.
 - **Réage** bleibt sekundäre Ergänzung für körper-klinische Präzision in Mutilation/Amputation (nie vulgär, nie pornografisch).
 - **Toni Morrison (*Beloved*)** für Fehlurteil-Schuld, Trauer-ohne-Vergebung, narbige Ruhe im Epilog.
@@ -69,12 +68,12 @@ B2 spielt im Krieg (Bund/Thar/Velmar, Quellen-Überladung als Waffe). B3 eskalie
 
 | Register | Wann | Primär | Ergänzend |
 |----------|------|--------|-----------|
-| Krieg / Schlachtfeld | B2 Akt IV, B3 Finale | Kuang (*Poppy War*) | Yarros-Kampf, Bardugo-Tempo |
+| Krieg / Schlachtfeld | B2 Akt IV, B3 Finale | Kuang (*Poppy War*) | Yarros-Kampf, Maas-Tempo |
 | Völkermord-Täter-POV | B2 Quellen-Zerstörung, B3 Talven-Mord | Kuang | SenLinYu für Körper |
-| Post-Krieg-Ruinen / tote Zonen | B2 Varen-Führung | SenLinYu + Bardugo (Fold) | — |
+| Post-Krieg-Ruinen / tote Zonen | B2 Varen-Führung | SenLinYu + Kuang | — |
 | Gefangenschaft / Captivity | B2 Endakt, B3 Torkal | SenLinYu + Kennedy (*Plated Prisoner*) | Réage |
 | Biotech-Dystopie | B3 Akt III/IV | Pierce Brown | Kuang (*Babel* Tech) |
-| Weltuntergangs-Schlacht | B3 Finale Dravek | Maas + Kuang | Yarros-Emotion, Bardugo-Tempo |
+| Weltuntergangs-Schlacht | B3 Finale Dravek | Maas + Kuang | Yarros-Emotion |
 | Körper-Mutilation / Amputation | B1 Dornen, B3 Duell | SenLinYu + Réage | Kuang |
 | Fehlurteil-Schuld | B3 Talven-Tod | Kuang (Rin/Altan) | Morrison |
 | Blutmagie / Selbstverletzung | B3 Talven-Bogen | Kuang | SenLinYu |
@@ -113,9 +112,9 @@ B2 spielt im Krieg (Bund/Thar/Velmar, Quellen-Überladung als Waffe). B3 eskalie
 | **Commercial-Ton gesamt** | Yarros, Maas, Robert, Kennedy, Simone | — |
 | **Romantasy (Alphina/Sorel)** | Yarros, Maas | Anne Rampling (*Belinda*), Robert, Kennedy |
 | **BDSM (Vesper/Maren)** | Réage (*Histoire d'O*) | Anne Rampling (*Exit to Eden*), Reisz |
-| **Dark Fantasy Atmosphäre** | Maas, Bardugo | Black (*Cruel Prince*) |
-| **Dunkle Register (Krieg/Mutilation/Dystopie)** | Kuang (*Poppy War*), SenLinYu (*Alchemised*), Pierce Brown (*Red Rising*) | Bardugo (*Fold*), Morrison (*Beloved*), Réage (Körper-Klinik) |
-| **Literary-Disziplin (Ton-Untergrund)** | King, Bardugo | Kuang (*Babel*), Morrison |
+| **Dark Fantasy Atmosphäre** | Maas, Black (*Cruel Prince*) | — |
+| **Dunkle Register (Krieg/Mutilation/Dystopie)** | Kuang (*Poppy War*), SenLinYu (*Alchemised*), Pierce Brown (*Red Rising*) | Morrison (*Beloved*), Réage (Körper-Klinik) |
+| **Literary-Disziplin (Ton-Untergrund)** | King | Kuang (*Babel*), Morrison |
 
 Details in `01-autorin-stimme.md` Abschnitt 9.
 
@@ -152,7 +151,7 @@ Wenn eine Regel in einem anderen Dokument (Stilregeln, Autorin-Stimme, Memory) g
 
 ## 9. Commercial-Mindeststandards (95%-Gate)
 
-Jede Prosa-Passage (Leseprobe, Szenen-Eröffnung, Kapitel-Anfang) muss bei **95% der Zielgruppen-Leserinnen** (Yarros/Maas/Robert/Kennedy/Simone-Regal) als **weiterlesbar** durchgehen. Strenger als "gut geschrieben" — **Marktfähigkeit**. Literary-Disziplin (King, Bardugo, Kuang *Babel*) steht im Dienst dieses Gates, nicht umgekehrt.
+Jede Prosa-Passage (Leseprobe, Szenen-Eröffnung, Kapitel-Anfang) muss bei **95% der Zielgruppen-Leserinnen** (Yarros/Maas/Robert/Kennedy/Simone-Regal) als **weiterlesbar** durchgehen. Strenger als "gut geschrieben" — **Marktfähigkeit**. Literary-Disziplin (King, Kuang *Babel*) steht im Dienst dieses Gates, nicht umgekehrt.
 
 ### Die vier Pflichten pro Eröffnung
 
@@ -169,7 +168,7 @@ Jede Prosa-Passage (Leseprobe, Szenen-Eröffnung, Kapitel-Anfang) muss bei **95%
 
 ### Fünf-Leserinnen-Council
 
-Fünf idealtypische Zielgruppen-Leserinnen als Test-Gremium: **LINA** (Romantasy/Yarros-Maas), **NORA** (Dark Romance/Robert-Kennedy), **MEIKE** (Dark Fantasy/Bardugo-Black), **VICTORIA** (BDSM/Réage-Reisz), **KAYA** (Dystopie/Kuang-SenLinYu-Pierce Brown). Volle Profile im Command `/book-council`. **Pflicht** für alle Leseproben, **empfohlen** für Kapitel-Eröffnungen und umstrittene Passagen.
+Fünf idealtypische Zielgruppen-Leserinnen als Test-Gremium: **LINA** (Romantasy/Yarros-Maas), **NORA** (Dark Romance/Robert-Kennedy), **MEIKE** (Dark Fantasy/Black-Maas-Kuang), **VICTORIA** (BDSM/Réage-Reisz), **KAYA** (Dystopie/Kuang-SenLinYu-Pierce Brown). Volle Profile im Command `/book-council`. **Pflicht** für alle Leseproben, **empfohlen** für Kapitel-Eröffnungen und umstrittene Passagen.
 
 ### Was disqualifiziert (hartes Raster)
 

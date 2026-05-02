@@ -5,7 +5,7 @@ figuren: Maren, Thyra (Assistentin), Olan (Werftmeister), drei Verwüster
 register: Katastrophe, historische Trauer, Schlusserkenntnis im Moment des Sterbens
 heat_level: Gewalt + existentielle Trauer
 primaer_referenz: Kuang (Poppy War — Katastrophen-Register); Morrison (Beloved) — stille Trauer, Trauma-Verarbeitung sekundär
-ergaenzende_referenz: Bardugo für Tempo; SenLinYu für Körper-unter-Druck; Maas (ACOTAR — Verlust)
+ergaenzende_referenz: Yarros für Tempo; SenLinYu für Körper-unter-Druck; Maas (ACOTAR — Verlust)
 zweck: B3 Akt II, Thalassien ~50 Jahre nach Marens Ankunft. Drei Verwüster-Schemen zerstören Institut-Außengebäude. ~40 Tote. Maren erkennt die Kreaturen aus Moragh-Zeit. Sie stirbt. Letzter Satz: "Ich habe sie hergeschickt."
 canon_status: Ton-Etüde, nicht Plot-Canon.
 ---

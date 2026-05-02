@@ -162,7 +162,7 @@ Alle Leseproben siehe `buch/leseproben/` (YAML-Frontmatter enthält Heat-Level, 
 ## K19 — Alle (Erster Kampf gegen einen Wächter-Schemen im Garten)
 
 - **POV:** Alle vier wechselnd · **Datum:** 20. Blütenmond 551 TZ · **Status:** final
-- **Primär:** `leseproben/12-gruppenszene-tension.md` — POV-Verflechtung, verteilte Körperbeats, Bardugo-Register.
+- **Primär:** `leseproben/12-gruppenszene-tension.md` — POV-Verflechtung, verteilte Körperbeats, Maas-Register.
 - **Sekundär:** `leseproben/08-magie-kontrollverlust.md` — wenn Magie aktiv wird (Alphina Wachstum, Sorel Licht-Formung, Vesper Zeit-Stocken, Maren Wasser). `leseproben/13-krieg-schlachtfeld.md` — *nur* für den Kampf-Körper-Takt, nicht für den Ton.
 - **Stilnotiz:** Dialog-Rhythmus Gruppenszene (Memory-Canon): keine Reihum-Monologe, Körperbeats/Blicke/Unterbrechungen verflechten. POV-Wechsel klar markiert. Sorel hält Alphinas Handgelenke zurück (Tschechow für K21).
 

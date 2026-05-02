@@ -2,7 +2,7 @@
 
 > **Zuerst `00-positioning.md` lesen.** Dieses Dokument konkretisiert harte und dosierte Stilregeln innerhalb des dort definierten Rahmens. Bei Konflikten gilt das Positioning.
 
-**Ziel des Projekts:** commercial Dark Fantasy + Romantasy + BDSM (Yarros, Maas, Robert, Rampling, Simone, Kennedy) mit literary Handwerks-Disziplin (King, Bardugo, Kuang). Réage als Primär-Register nur im Vesper/Maren-BDSM-Strang. Siehe `00-positioning.md` und `01-autorin-stimme.md` Abschnitt 1.
+**Ziel des Projekts:** commercial Dark Fantasy + Romantasy + BDSM (Yarros, Maas, Robert, Rampling, Simone, Kennedy) mit literary Handwerks-Disziplin (King, Kuang). Réage als Primär-Register nur im Vesper/Maren-BDSM-Strang. Siehe `00-positioning.md` und `01-autorin-stimme.md` Abschnitt 1.
 
 ## Harte Limits (weiterhin streng)
 
@@ -372,6 +372,44 @@ Die Leserin versteht. Der Satz arbeitet allein.
 **HARTES VERBOT:** Nach einem Bild/Vergleich/Metapher darf der nächste Satz NICHT dasselbe Konzept in anderen Worten wiederholen. Das ist semantische Doppelung — der häufigste Stilfehler in lyrischer Prosa.
 
 **Der /stil-check prüft:** Semantische Doppelung nach Bildsprache = FINDING.
+
+## Verquastungs-Test (Block-für-Block-Pflicht, April 2026)
+
+**Grundproblem:** Beim Schreiben — besonders in Magie-Beats, abstrakten Vorgängen oder umständlichen Erklärungen — entstehen Sätze, die beim ersten Lesen ein „hä?" produzieren. Pronomen-Referenzen unklar, abstrakter Vorgang ohne konkretes Bild, Pseudo-Erklärung mit umgekehrter Logik, Substantivierung eines Vorgangs ohne Anker. Diese Sätze klingen literarisch, sind aber tot — die Leserin stolpert.
+
+**Regel:** Pro Block (3–5 Absätze, ~150–500 W) werden alle Sätze einzeln durch den **Mündlichen Lese-Test** geschickt. Wenn ein Satz beim ersten Lesen unverständlich ist, wird er **gestrichen oder umgeschrieben** — nicht verschönt, nicht ergänzt. Die Verständlichkeit hat oberste Priorität, vor Material, vor Bandwurm, vor Vorfeld-Inversion.
+
+### Beispiel-Katalog (verbotene Verquastungs-Muster)
+
+Dieser Katalog wächst mit jeder beobachteten Drift. Aktuelle Einträge:
+
+| Verquastet | Warum „hä?" | Konkret |
+|---|---|---|
+| *„weil das Licht da war und nicht hingehörte"* | Wo gehört Licht hin? Pseudo-Logik. | „Er nahm das Licht weg, ohne den Docht zu berühren." |
+| *„Was die Flamme an den Tisch schickte, ging nicht durch"* | Licht „schickt" niemand. | „Auf dem Tisch erreichte das Licht nichts mehr." |
+| *„Es war ein Nichts, das er um die Lampenglocke legte, eine Schicht, die das Licht nahm und im Glas einschloss"* | „Nichts" als Pseudo-Material. | „Es war, als läge eine unsichtbare Schicht um das Glas; das Licht hielt sich im Inneren." |
+| *„Aus nichts etwas"* (Hammer-Solo) | Pronomen-Stapel ohne Bild. | „Licht entstehen lassen, ohne Quelle." |
+| *„hielt seinen Willen auf einen Punkt vor seinen Fingern"* | Was tut er konkret? | „stellte sich einen Funken vor: klein, weiß, scharf gerandet auf schwarzer Fläche." |
+
+### Test pro Satz (Mündlicher Lese-Test)
+
+1. **Aussprechen** (mental). Stockt der Sprecher? → umschreiben.
+2. **Pronomen-Check.** Ist klar, worauf jedes „er/sie/es/ihn/das" referiert? Wenn nein → Substantiv setzen.
+3. **Vorgangs-Check.** Bei Magie/Bewegung/Wandel: ist das Bild konkret (sichtbar, greifbar)? Wenn nein → Bild einsetzen oder Beat streichen.
+4. **Verb-Check.** Trägt das Verb? *„schickte das Licht"*, *„hielt den Willen"* — leere Verben, die ein Bild ersetzen wollen, aber keines haben. → starkes Verb, oder Bild + einfaches Verb.
+5. **Logik-Check.** Folgt der Satz aus der Welt-Logik? *„Licht gehört nicht hin"* — das stimmt nicht für Licht. → Aussage stimmig fassen.
+
+### Anwendung im Workflow
+
+- **Phase 1.5** (Pre-Check): Beispiel-Katalog im Kopf aktiv halten.
+- **Phase 2 Block-Loop:** nach jedem 3–5-Absatz-Block Mündlicher Lese-Test pro Satz BEFORE Mini-Council.
+- **Phase 4 Stil-Check-Subagent:** prüft auf Verquastungs-Muster aus Katalog.
+
+### Warum HART
+
+Der Verquastungs-Reflex tritt besonders bei Magie-Beats und abstrakten Vorgängen auf, weil das Modell „magisch klingen" mit „abstrakt klingen" verwechselt. Die Verquastung kostet jedes Kapitel mehrere Iterationen mit dem Autor. Verquastungs-Test als block-aktive Pflicht spart 2–3 Iterations-Runden pro Kapitel.
+
+---
 
 ## Negations-Disziplin (April 2026)
 

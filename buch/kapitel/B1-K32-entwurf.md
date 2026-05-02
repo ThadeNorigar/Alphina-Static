@@ -6,7 +6,7 @@
 **Gänsehaut-Moment:** Runa setzt sich an den Setzkasten, an dem in der Joran-Nacht (vor sechs Tagen, K30) der Brandfleck entstanden ist — Schemen zerfallen, Runas Hände heiß, Joran tot zwischen ihr und dem Wesen. Der Fleck ist seit damals da, sie hat ihn jeden Tag gesehen, ohne ihn benennen zu wollen. Sie nimmt einen Bleilettern-Block heraus — ein „A". Das Blei ist weicher unter ihren Fingern als es sein darf. Nicht heiß genug zum Schmelzen, aber weich genug, dass die Spitze des Buchstabens sich um einen Hauch verformt, wenn sie ihn drückt. Sie hält die Hand still. Sie hat es nicht weg. Sie kann es nicht weg.
 
 **Ton-Ziel dieses Kapitels:**
-- Primär: **Bardugo (*Six of Crows*)** — nüchterne Innenschau, Klarsicht ohne Pathos. Runa ist die Klarsichtige (POV-Dossier).
+- Primär: **Kuang (*Babel*)** — nüchterne Innenschau, Klarsicht ohne Pathos. Runa ist die Klarsichtige (POV-Dossier).
 - Primär: **Yarros** — Körperwärme als Subtext für offenes Herz; die Wärme von Runas Händen ist das Charakter-Leitmotiv.
 - Ergänzend: **Maas** — sinnliche Werkstatt-Atmosphäre (Tinte, Bleilettern, Pressenholz, Lampenöl).
 - Leseproben-Anker: **09 (Welt Vael warm)** als Werkstatt-Register-Vorlage (Werft → hier Druckerei, gleicher Material-vor-Figur-Ton). **06 (Aftercare-Miniatur)** für leise innere Erlaubnis-Beats. **Nicht 11** (Moragh) — Runa ist in Vael, nicht in fremder Welt. **Nicht 28/30** (Kuang/SenLinYu-Härte) — Runa ist nicht in Trauma, sondern in Klarsicht.
@@ -251,7 +251,7 @@
 ### Horror-Kalibrierung
 
 - Kein Horror-Peak in K32. Der Horror war K31 (Marktplatz). K32 ist Verarbeitung.
-- Subtile Drohung im Hintergrund: zwei Familien mit Bündeln zum Tor (Sz1), Patrouille jede halbe Stunde. Ton: Bardugo-Six-of-Crows, nicht Kuang-Härte.
+- Subtile Drohung im Hintergrund: zwei Familien mit Bündeln zum Tor (Sz1), Patrouille jede halbe Stunde. Ton: Maas-ACOTAR, nicht Kuang-Härte.
 
 ### Commercial 95%-Gate-Check
 
@@ -287,7 +287,7 @@
 ## Handoff-Notizen für /ausarbeitung (nicht verbindlich)
 
 - **POV-Disziplin:** Runa-POV durchgehend.
-- **Ton-Referenz:** Bardugo-Klarsicht (Six of Crows-Inseah), Yarros-Wärme-Subtext, Maas-Werkstatt-Sinnlichkeit. Leseprobe 09 als Welt-warm-Anker, Leseprobe 06 für Erlaubnis-Beats.
+- **Ton-Referenz:** Kuang-Klarsicht (Babel), Yarros-Wärme-Subtext, Maas-Werkstatt-Sinnlichkeit. Leseprobe 09 als Welt-warm-Anker, Leseprobe 06 für Erlaubnis-Beats.
 - **Werkstatt-Material dosiert:** 1–2 Druckerei-Vokabel-Beats pro Szene, nicht Katalog.
 - **Wärme als Leitmotiv:** in Sz1 manifest (Bleilettern weich, Docht entzünden), in Sz2 kontrolliert (Becher kühlen), in Sz3 meditativ (Brust-Wärme).
 - **Heimliche Eifersucht-Beat (Sz2):** *Réage-Körper-vor-Kopf*, kurz, leise, ohne Tränen, ohne Bitterkeit. Lächeln mit schmalen Lippen, einmal. Kein Selbstmitleids-Monolog.

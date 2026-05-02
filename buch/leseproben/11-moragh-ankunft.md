@@ -5,7 +5,7 @@ figuren: Alphina, Runa, Vesper, Maren
 register: Dark Fantasy Atmosphäre — andere Welt
 heat_level: Drohung
 primaer_referenz: Maas (ACOTAR) — sinnliche Dichte, atmosphärische Räume
-ergaenzende_referenz: Bardugo (Six of Crows) — Tempo-Wechsel, benannte Einzeldetails; Black (Cruel Prince) — Unheimlichkeit durch fremde Welt
+ergaenzende_referenz: Yarros (Fourth Wing) — Tempo-Wechsel, benannte Einzeldetails; Black (Cruel Prince) — Unheimlichkeit durch fremde Welt
 zweck: Ton-Referenz für Moragh-Beschreibungen. Zwei Monde, andere Luft, fremde Flora. Gefahr unter Schönheit, ohne Horror-Register. Figur in fremder Welt, Körper reagiert vor Kopf.
 canon_status: Ton-Etüde. Erste Nacht in Moragh nach dem Durchgang, nach Sorels Tod. Plot-kompatibel, aber nicht verbindlich.
 ---

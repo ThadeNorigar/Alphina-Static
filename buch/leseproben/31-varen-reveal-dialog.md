@@ -5,7 +5,7 @@ figuren: Alphina, Varen
 register: Moral-Bruch, Antagonisten-Demaskierung, kalter Zynismus
 heat_level: Drohung + Verrat + Duell-Schwelle
 primaer_referenz: Robert (Neon Gods) — Antagonisten-Reveal; Kennedy (Plated Prisoner) — Täter-Entlarvung
-ergaenzende_referenz: Kuang für kalten Zynismus in Machtrede; Bardugo für Dialog-Präzision
+ergaenzende_referenz: Kuang für kalten Zynismus in Machtrede; Kuang für Dialog-Präzision
 zweck: Der Moment, in dem Varen die Maske fallen lässt — keine positiven Epitheta mehr. Vier Canon-Sätze. Alphinas Realisierung: alles war Plan. Kipp-Punkt des Duells.
 canon_status: Ton-Etüde, nicht Plot-Canon.
 ---

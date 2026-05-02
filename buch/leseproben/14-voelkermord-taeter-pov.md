@@ -5,7 +5,7 @@ figuren: Alphina, Bund-Kommandant, Thar-Magier (off-page)
 register: Dunkle Register — Völkermord, Täter-POV, schleichendes Grauen
 heat_level: Gewalt
 primaer_referenz: Kuang (Poppy War) — Rin-Register, Täter ohne Anästhesie, Konsequenz ohne moralischen Filter
-ergaenzende_referenz: SenLinYu (Alchemised) — Körper unter Druck, Körperteil-Präzision; Bardugo — Ausschluss-Technik in Stille
+ergaenzende_referenz: SenLinYu (Alchemised) — Körper unter Druck, Körperteil-Präzision; Black (Cruel Prince) — Ausschluss-Technik in Stille
 zweck: Ton-Referenz für B2 Akt IV: Alphina zerstört absichtlich eine Quelle im Bund-Auftrag. Täter-POV. Canon-konform: Quelle tot = Nachladen fällt aus (2-3 Tage-Welle). Armee im Einsatz merkt es sofort (Magier versagen mitten im Akt, in Wellen nach Verbrauch-Reihenfolge), Zivilisten Tage später. Keine sofortigen physischen Effekte — der Horror ist das Ausbleiben der Nachladung.
 canon_status: Ton-Etüde, B2 Akt IV am 2/3-Mark. Zweite Version — erste zeigte sofortige Effekte (Baum stirbt, Schmied röchelt), Canon-Verstoß. Neue Version nutzt die Verzögerungs-Mechanik als Grusel-Instrument.
 ---

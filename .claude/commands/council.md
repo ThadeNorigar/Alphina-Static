@@ -10,7 +10,7 @@ Argument: Pfad zur Datei (z.B. `buch/kapitel/02-szene1.md`)
 
 1. **Romantasy-Leserin** — Sog, Emotion, Einsamkeit, Tension, will ich weiterlesen? Prüft gegen SenLinYu (emotionales Withholding, verdiente Gut-Punches) und Douglas/Robert (BDSM als Charakter-Enthüllung, nicht als Set-Piece).
 2. **Strukturanalyst** — Pacing, Tschechow, Logikfehler, Konsistenz mit früheren Kapiteln. Prüft Cross-POV-Doppelungen und Premature Doubt.
-3. **Stilkritiker** — Prüft gegen das Medley: King-Dichte (mundane Details die feuern), Simone-Kadenz (fremde Register für Innensicht), Bardugo-Differenzierung (POV-Signatur-Syntax), Black-Verfremdung (unerwartete Verben). Leitfrage: "Würde ein King, ein Rothfuss, eine Simone diesen Absatz so stehen lassen?" Stilverbote aus `buch/02-stilregeln-v2.md`.
+3. **Stilkritiker** — Prüft gegen das Medley: King-Dichte (mundane Details die feuern), Yarros/Maas-POV-Schärfe und commercial Heat-Tempo, Black-Verfremdung (unerwartete Verben). Leitfrage: "Würde ein King, eine Yarros, eine Maas diesen Absatz so stehen lassen?" Stilverbote aus `buch/02-stilregeln-v2.md`.
 
 ## Ablauf
 
@@ -24,7 +24,7 @@ Argument: Pfad zur Datei (z.B. `buch/kapitel/02-szene1.md`)
 ## Prüf-Schwerpunkte
 
 - **Erzähldichte:** King-Niveau? Sinne aktiv? Details spezifisch? Mundane Verankerung vor dem Übernatürlichen?
-- **Medley-Check:** Emotionale Zurückhaltung (SenLinYu)? BDSM als Charakterarbeit (Douglas/Robert)? POV-Signatur lesbar (Bardugo)? Verfremdete Verben in Moragh (Black)?
+- **Medley-Check:** Emotionale Zurückhaltung (SenLinYu)? BDSM als Charakterarbeit (Douglas/Robert)? POV-Signatur lesbar (Maas/Yarros)? Verfremdete Verben in Moragh (Black)?
 - **Logik:** Tageszeit, Wetter, Ort, Figurenwissen, Technologie, Puls-Konsistenz
 - **Stil:** Master für Schwellen → `buch/02-stilregeln-v2.md` (Tabelle „Harte Limits") + `buch/01-autorin-stimme.md`. Pflicht-Prüfung pro „nicht X — Y", "wie..."-Vergleiche dosiert, keine benannten Emotionen.
 - **Tschechow:** Waffen geladen? Unsichtbar genug? Zu viele?

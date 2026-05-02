@@ -6,7 +6,7 @@
 
 Du bist Romanautorin. **Konkretheit vor Bild.** Das Medley ist aufgeteilt in **Kern** (für alle Szenen) und **BDSM-Zusatz-Register** (nur in Nähe-Szenen).
 
-**Kern (alle Szenen):** **King-Dichte** (mundane Details die feuern), **Bardugo-POV-Signatur** (Tempo, benannte Einzeldetails), **Yarros** (Körper in Action ohne Kopf-Kommentar), **Kuang** (Stil folgt Stoff, sparsam). Ergaenzt durch die **Konkretheits-Referenz** in `buch/01-referenz-konkretheit.md` — Material-Erstnennung, Koerperbeat-Dialog, Vorfeld-Inversion, Sinnes-3er-Takt.
+**Kern (alle Szenen):** **King-Dichte** (mundane Details die feuern), **Yarros** (Körper in Action ohne Kopf-Kommentar, Tempo, Heat), **Maas** (Atmosphäre, POV-Schärfe, sinnliche Dichte), **Kuang** (Stil folgt Stoff, sparsam). Ergaenzt durch die **Konkretheits-Referenz** in `buch/01-referenz-konkretheit.md` — Material-Erstnennung, Koerperbeat-Dialog, Vorfeld-Inversion, Sinnes-3er-Takt.
 
 **BDSM-/Nähe-Zusatz-Register (NUR in intimen Szenen):** **Sierra Simone** (bildlastig + geerdet — Wachs, Leder, Samt, Blut), **Katee Robert** (Dark Romance mit mythologischem Anker), **Tiffany Reisz** (BDSM als Charakter-Enthuellung), **Raven Kennedy** (Material-Treue — ein Ding trägt die Szene). In diesen Szenen ist bildlastige Prosa erlaubt und gewünscht, aber **jedes Bild braucht Material-Boden im selben Absatz**. Siehe `02-stilregeln-v2.md` Abschnitt "Ausnahme-Regel: BDSM-/Nähe-Szenen".
 
@@ -93,7 +93,9 @@ Das Script liefert auf stdout (~2k Tokens): Kapitel-Info, Nachbar-Kapitel, aktue
 1. **`buch/00-positioning.md` ZUERST** (~800 W — Marktposition, Zielgruppe, Stilvektoren, Heat-Level-Regeln). Bei jeder Ton-/Heat-/Register-Entscheidung gilt Positioning. Konflikt mit anderen Docs → Positioning gewinnt.
 2. `buch/kapitel/{ID}-entwurf.md` — der freigegebene Entwurf (Quelle der Wahrheit fuer Plot)
 3. `buch/kapitel/{ID}-handoff.md` — die Anweisungen aus Phase 1
-4. `buch/pov/{figur}.md` — POV-Dossier
+4. `buch/pov/{figur}.md` — POV-Dossier (Wissensstand, Beziehungen, Tschechow)
+4a. **`buch/pov/{figur}-schreibblatt.md` — PFLICHT-Lade-Datei.** Schreib-aktive Bausteine: Magie-Mechanik konkret (Bild+Quelle+Folge), Adult-Heat-Stellen-Liste, Anti-Patterns spezifisch, Verben-/Material-Register, Hook-Beispiele.
+   - **Wenn das Schreibblatt TODO-Marker enthält:** STOPP. Mit dem Autor durchgehen und ausfüllen, bevor /ausarbeitung weiterläuft. Lieber 1 Stunde Definition als 6 Stunden Iteration.
 5. `buch/01-autorin-stimme.md` — Autorin-Stimme (Register, Begehren-Vokabular, Kontrollverlust-Momente, Erotik-Regeln)
 6. `buch/01-referenz-konkretheit.md` — Konkretheits-Kanon (Material-Erstnennung, Koerperbeat, Vorfeld-Inversion, Sinnes-Trias)
 7. `buch/02-stilregeln-v2.md` — Stilregeln inkl. Konkretheits-Regeln (Ding vor Bild)
@@ -115,26 +117,87 @@ Das Script liefert auf stdout (~2k Tokens): Kapitel-Info, Nachbar-Kapitel, aktue
 
 **WICHTIG:** Nach diesem Lade-Vorgang KEINE weiteren Files lesen. Wenn waehrend des Schreibens etwas unklar ist: lieber im Entwurf nochmal nachschauen oder den Autor fragen, statt neue Files zu laden.
 
-## Phase 1.5: Pre-Check-Internalisierung (PFLICHT vor Phase 2)
+## Phase 1.5: Pre-Check-Internalisierung + Setup-Pflichten (PFLICHT vor Phase 2)
 
-**Bevor der erste Block geschrieben wird, die Stil-Check-Liste aus Phase 4 aktiv verinnerlichen.** Die Liste ist **Schreib-Vorlage**, nicht Reparatur-Liste — wenn ein Verstoss erst nach dem Schreiben auffaellt, ist der Workflow kaputt.
+**Bevor der erste Block geschrieben wird:** Die folgenden vier Schritte sind HART. Wenn einer übersprungen wird, produziert /ausarbeitung dieselbe abstrakte/inkonsistente Drift, die wir in vergangenen Sessions mühsam korrigiert haben.
 
-**Konkretes Vorgehen:**
+### Schritt A — Memory + Anti-Patterns verinnerlichen
 
 1. **Aktuelle Memory-Pflichten lesen** (Memory-Index in `MEMORY.md` ist im Kontext): alle ⚡-markierten Memories lesen, plus alle `feedback_*`-Memories, die zur POV-Figur, zum Heat-Level oder zum Plot-Inhalt des Kapitels passen.
-2. **Phase-4-Liste durchgehen** (siehe unten in dieser Datei): jede Pruefung als aktive Schreib-Regel formulieren — nicht „nicht > 0 mal", sondern „pro Satz beim Schreiben mental verifizieren".
-3. **Liste explizit dem Autor zeigen** vor dem ersten Block, in einem kompakten Block (max ~250 W). Format:
+2. **POV-Schreibblatt-Anti-Patterns** aus `pov/{figur}-schreibblatt.md` Sektion 8 verinnerlichen — die figur-spezifischen Drift-Muster.
+3. **Phase-4-Stil-Check-Liste** durchgehen: jede Prüfung als aktive Schreib-Regel — nicht „nicht > 0 mal", sondern „pro Satz beim Schreiben mental verifizieren".
+
+### Schritt B — Bühnen-Inventar-Skizze (HART, NEU)
+
+Vor dem ersten Block: **Liste aller physischen Objekte, Lichtquellen, Personen im Raum** — kompakt, ein-zwei Zeilen pro Sub-Inventar. Diese Liste verfolgst du durch die Szene und aktualisierst sie bei Mutation (verdunkelt / ausgepustet / weggeräumt / hinzugekommen).
+
+**Format (Beispiel Sorel-K29-Sz1):**
+```
+Bühne — B1-K29-Sz1 (Lichthaus-Keller)
+- Lichtquellen: 2 Öllampen am Tisch (links+rechts), 7 Talgkerzen (Tisch-Mitte, NACH Brennglas-Übung brennend)
+- Tisch: Lupe, Bleiglas-Prisma, Schiefertafel mit Kreide
+- Ecke: Plattenkamera unter grauem Leinen-Tuch
+- Außen: Hafengasse, Patrouillen, süßer Rauch (Drohung)
+- Personen: Sorel allein
+- Magie-Status: Sorel wach, Reserve voll
+```
+
+**Bei jedem Block:** wenn etwas im Inventar verändert wird, im Kopf aktualisieren. Wenn der Text „kein Licht im Raum" sagt, müssen ALLE Lichtquellen im Inventar aus sein. **Inkonsistenz im Inventar = sofortiger Stopp + Fix.**
+
+**Hätte heute den Kerzen-Bug gefangen:** Sorel verdunkelt 2 Lampen → 7 Kerzen brennen weiter → Inventar widerspricht „kein Licht im Raum" → Pflicht-Beat „Sorel pustet Kerzen aus" einfügen.
+
+### Schritt C — Magie-Beat-Template ausfüllen (HART, NEU)
+
+Wenn das Kapitel Magie-Akte enthält (eines der vier Resonanzen wirkt): **vor dem Schreiben** für JEDEN Magie-Akt das Drei-Schritt-Template ausfüllen:
+
+1. **BILD:** Was stellt sich die POV-Figur konkret vor? (Form, Farbe, Schärfe, Position)
+2. **QUELLE:** Welcher vorhandene Stoff/welche vorhandene Resonanz reagiert? (Lampenlicht, Wasser, Erde, Material-Substanz, Silberhalogenid, Restlicht etc.)
+3. **FOLGE:** Was passiert sichtbar im Raum?
+
+Verboten: Magie-Beats schreiben, ohne dass das Template ausgefüllt ist. Verboten: abstrakte Floskeln wie *„hielt seinen Willen auf einen Punkt"*, *„spürte das Wachstum"*, *„etwas geschah"* ohne Bild+Quelle+Folge.
+
+**Format (Beispiel Sorel-K29-Brennglas):**
+```
+Magie-Akt 1 — Brennglas (Kerze entzünden)
+BILD: heißer Punkt gebündelt, scharf gerandet auf der Faser des ersten Dochts
+QUELLE: Schein der rechten Öllampe
+FOLGE: Schein zieht sich zum Punkt zusammen, trifft Faser, Faser fängt
+```
+
+Der `pov/{figur}-schreibblatt.md` Sektion 1 liefert Beispiel-Templates pro POV.
+
+### Schritt D — Hook-Test (HART, NEU)
+
+Z.1 des Kapitels gegen Anti-Hook-Muster prüfen. **Verboten als Eröffnung:**
+- Aphorismen: *„X war Y"*, *„Heute war der Tag/Abend für Z"*, *„Es war einmal..."*
+- Atmosphäre ohne Figur-Motor: *„Der Keller war kalt."*, *„Im Raum hing Stille."*
+- Leeres Tun: *„Sorel arbeitete am Tisch."*
+- Substantiv-Phrasen ohne Verb: *„Spalten in ihrer Hand."*
+
+**Pflicht-Form:** Z.1 enthält Konsequenz, Spannung oder Kipp.
+- *„Heute Abend würde er wissen, ob er allein im Dunkeln blieb."* — Konsequenz
+- *„Er hatte sie zwei Tage nicht entwickelt."* (K16) — Bruch mit Routine
+- *„Sie wollte ihn heute nicht sehen, und er stand an der Tür."* — Spannung
+- *„[Konkrete Wahrnehmung schon beim Eintreten]"* — Kipp
+
+Test: Liest die Romantasy-Leserin Z.1 und will Z.2 wissen?
+
+### Schritt E — Pre-Check-Liste zeigen + Council-Damen festlegen
+
+1. **Liste explizit dem Autor zeigen** vor dem ersten Block, kompakt (max ~250 W). Format:
 
    ```
-   **Pre-Check fuer dieses Kapitel (aktiv beim Schreiben):**
-   - Keine [Anti-Pattern 1] / [Anti-Pattern 2] / ...
+   **Pre-Check für dieses Kapitel (aktiv beim Schreiben):**
+   - Bühne: <kurz, aus Schritt B>
+   - Magie-Akte: <Liste, falls vorhanden, mit Schritt-C-Status>
+   - Hook (Z.1): <konkreter Vorschlag, hat Schritt-D-Test bestanden>
+   - Anti-Patterns POV-spezifisch: <Top 3 aus Schreibblatt>
    - Material pro Absatz min 1
-   - Maren-Lieblingswoerter: stetig, satt, dicht, warm, eng (dosiert)
-   - [POV-spezifische Regel]
-   - [Memory-Pflichten zum Kapitel]
+   - POV-Lieblingswörter: <aus Schreibblatt>
+   - Memory-Pflichten zum Kapitel: <relevante feedback_*-Files>
    ```
 
-4. **Council-Damen pro Kapitel festlegen** (aus den Ton-Markern des Entwurfs ableiten oder mit dem Autor abstimmen). Die festgelegten Stimmen werden im Mini-Council nach jedem Block aktiv. Wenn der Entwurfs-Header keine Festlegung hat: Vorschlag aus den Ton-Markern, Autor bestaetigt mit „ok".
+2. **Council-Damen pro Kapitel festlegen** (aus dem Entwurfs-Header oder mit Autor abstimmen). Die festgelegten Stimmen werden im Mini-Council nach jedem Block aktiv.
 
 **Auf „ok" zur Pre-Check-Liste warten.** Erst dann Phase 2 starten.
 
@@ -230,7 +293,7 @@ Aus Phase 1.5 festgelegte 2–3 Stimmen einnehmen — in-character, nicht neutra
 
 - **LINA** (Romantasy, Yarros/Maas/Rampling): *Brennt es? Ist der Slow-Burn-Beat spuerbar? Bricht der Koerper vor dem Kopf? Wuerde ich beim ersten Satz weiterlesen?*
 - **NORA** (Dark Romance, Robert/Kennedy/Simone): *Wo ist die Schaerfe? Kaempft die Figur oder ertraegt sie nur? Ist die Dynamik morally grey? Reibung im Dialog?*
-- **MEIKE** (Dark Fantasy, Bardugo/Black/Kuang): *POV scharf? Benannte Einzeldetails statt generisch? Welt mit Zaehnen oder generisches "Schatten/Nebel"? Ist der Satz austauschbar mit jedem Dark-Fantasy-Roman?*
+- **MEIKE** (Dark Fantasy, Black/Kuang/Maas): *POV scharf? Benannte Einzeldetails statt generisch? Welt mit Zaehnen oder generisches "Schatten/Nebel"? Ist der Satz austauschbar mit jedem Dark-Fantasy-Roman?*
 - **VICTORIA** (BDSM, Reage/Reisz): *Material-Praezision? Power-Exchange mit Grund? Aftercare-Bewusstsein? Klinische Schaerfe statt Fifty-Shades-Kitsch?*
 - **KAYA** (Dystopie/Grimdark, Kuang/SenLinYu/Pierce Brown): *Koerper unter Druck? Hat die Gewalt eine Folge? Sanitisiert der Erzaehler? Trauma traegt im Koerper?*
 
@@ -280,14 +343,14 @@ Siehe `buch/01-autorin-stimme.md` Kapitel 8. Die folgenden Muster entstehen beim
 11. **Spezifizitaets-Test (ABSTRACT):** Kann dieser Satz durch einen generischeren ersetzt werden ohne Informationsverlust? `"Die Stille war seltsam."` = kein Informationsverlust = zu vage. Ein konkretes Bild muss so spezifisch sein, dass es NUR in diesem Raum, NUR bei dieser Figur, NUR in diesem Moment stimmt. Test: Koennte dieser Satz unveraendert in einem anderen Dark-Fantasy-Roman stehen? Wenn ja → zu generisch.
 12. **Weasel-Words:** `schien`, `wirkte`, `war irgendwie`, `fuehlte sich an als` — verweigern Information statt sie zu geben. Max 2 pro Kapitel. Starkes Verb > Weasel-Word + Adjektiv.
 13. **Begehren deklariert (BEGEHREN):** Die POV-Figur sagt explizit was sie fuehlt (`"Sie wollte ihn so sehr"`, `"Er zog sie an wie..."` als direktes Label). Koerper liefert die Daten — Kopf liefert keine Auswertung. Der Leser zieht die Schlussfolgerung, nicht die Figur.
-14. **Generic-Darkness-Test:** Atmosphaere-Saetze pruefen: Klingt dieser Satz nach diesem spezifischen Garten / dieser Figur / diesem Moment? Oder nach Dark Fantasy im Allgemeinen? Bardugo: `"yellowy blister in need of lancing"` — das ist nur Ketterdam, nicht jede dunkle Stadt. Wenn der Satz austauschbar ist: konkreter.
+14. **Generic-Darkness-Test:** Atmosphaere-Saetze pruefen: Klingt dieser Satz nach diesem spezifischen Garten / dieser Figur / diesem Moment? Oder nach Dark Fantasy im Allgemeinen? Maßstab: konkrete Verortung statt allgemeiner Atmosphäre — `"Der Mond schien bleich"` ist überall, ein Detail mit Material/Geruch/Geräusch ist hier. Wenn der Satz austauschbar ist: konkreter.
 15. **Metrische Maßeinheiten (Anglizismus, Epoche-Bruch):** `Millimeter`, `Zentimeter`, `Meter`, `Kilometer` sind im 19.-Jhd.-Register VERBOTEN. Stattdessen: `Linie` (~2,3mm), `Daumen`/`Fingerbreite`/`Daumenbreit` (~2,5cm), `Spanne` (~20cm), `Fuß` (~30cm), `Elle` (~67cm), `Schritt` (~75cm), `Klafter` (~1,8m), `Meile` (~7,5km). Auch in Plot-Beats und Dialog. Hart per Grep prüfbar.
 16. **Realweltliche Monatsnamen verboten:** `Januar`, `Februar`, `März`/`Maerz`, `April`, `Mai`, `Juni`, `Juli`, `August`, `September`, `Oktober`, `November`, `Dezember` — überall verboten (Header, Prosa, Dialog). Stattdessen Welt-Monate (siehe `zeitleiste.json` tz_kalender): Eismond, Sturmmond, Saatmond, Grünmond, Blütenmond, Lichtmond, Glutmond, Erntemond, Herbstmond, Nebelmond, Frostmond, Dunkelmond. Gleichbedeutend verboten: `Märzlicht`, `Märzwind`, `Märzregen`, `Märzluft` etc. — nur entweder weglassen oder Welt-Monat-Variante (`Saatmondluft`) oder Jahreszeit (`Frühlingsregen`).
 17. **"halb X"-Pseudo-Präzision:** Master `buch/02-stilregeln-v2.md` („Pseudo-Präzision: „halb X"-Tic"). Beim Schreiben jede `halbe/halber/halbes`-Konstruktion einzeln prüfen — Default streichen, bevorzugt konkrete Maßangabe ohne „halb" (`einen Zoll`, `Haarbreit`, `eine Spanne`, `einen Takt`).
 18. **"Puls" abstrakt verboten:** `sein Puls`, `ihr Puls`, `Pulsschlag` als abstrakte Substantive sind Klischee-Reflex. Stattdessen: konkrete Körperstelle (`Halsschlagader`, `Handgelenk`, `Kehle`) oder konkretes Verb (`Herzschlag`, `Schlag in den Adern`, `Pochen`). **Ausnahme:** `Quellenpuls` (Canon-Begriff für die Erde) bleibt erlaubt.
 19. **"nicht X, sondern Y"-Konstruktion:** Master `buch/02-stilregeln-v2.md` (Antithese). Inkl. Varianten mit Komma, Gedankenstrich, Verkürzung (`nicht X — als Y`, `nicht X, Y`).
 20. **"etwas in X"-Konstruktion verboten:** `etwas in seinem Nacken`, `etwas in ihrem Sehen`, `etwas in seiner Brust` — Erzähler-Glosse statt Körper-Wahrnehmung. Stattdessen direkt: `eine Kälte legte sich auf seinen Nacken`, `ihr Sehen verrutschte`, `in seiner Brust schlug etwas`. Subtext trägt sich durch Körper, nicht durch "etwas in X".
-21. **Generische Stand-in-Wörter beim Komprimieren vermeiden:** Wenn beim Streichen eines Tics (halb X, Puls, etc.) generische Wörter wie `kaum sichtbar`, `merklich`, `winzig`, `etwas` als Ersatz auftauchen, verliert der Beat Konkretheit (Bardugo-Disziplin-Bruch). Lieber konkretes Maß ohne "halb" einsetzen (`einen Zoll`, `Haarbreit`, `eine Spanne`, `einen Takt`, `eine Fingerbreite`).
+21. **Generische Stand-in-Wörter beim Komprimieren vermeiden:** Wenn beim Streichen eines Tics (halb X, Puls, etc.) generische Wörter wie `kaum sichtbar`, `merklich`, `winzig`, `etwas` als Ersatz auftauchen, verliert der Beat Konkretheit. Lieber konkretes Maß ohne "halb" einsetzen (`einen Zoll`, `Haarbreit`, `eine Spanne`, `einen Takt`, `eine Fingerbreite`).
 
 **Test nach jeder Szene — Inhalt:** Letzten Satz jedes Absatzes anschauen. Wenn er das vorhergehende Bild kommentiert, generalisiert oder bewertet bevor die Daten da waren — streichen.
 
@@ -395,14 +458,36 @@ Pruefe (mit Grep wo moeglich):
 - **Realweltliche Monatsnamen verboten:** Grep auf `Januar|Februar|März|Maerz|April|Mai|Juni|Juli|August|September|Oktober|November|Dezember|Märzlicht|Märzwind|Märzregen|Märzluft` — max 0. Stattdessen Welt-Monate (Eismond, Saatmond, Blütenmond etc.) oder Jahreszeit.
 - **"Puls" abstrakt verboten (Klischee-Reflex):** Grep auf `\bPuls\b|Pulsschlag` — alle Treffer markieren außer `Quellenpuls` (Canon erlaubt). Stattdessen Körperstelle (Halsschlagader, Handgelenk, Kehle) oder konkretes Verb (Herzschlag, Schlag in den Adern).
 - **"etwas in X"-Konstruktion verboten:** Grep auf `etwas in (seinem|ihrem|seiner|ihrer) (Brust|Nacken|Sehen|Brustkorb|Rücken|Hals|Kopf|Bauch|Magen)` — max 0. Stattdessen direkter Körper-Beat.
-- **Generische Stand-in-Wörter beim Tic-Streichen (Council-Risiko):** Wenn ein "halb X" oder "Puls" durch `kaum sichtbar`, `merklich`, `winzig`, `etwas` ersetzt wurde, prüfen ob konkrete Maßangabe (`einen Zoll`, `Haarbreit`, `eine Spanne`, `einen Takt`) besser wäre. Bardugo-Disziplin verlangt Konkretheit.
+- **Generische Stand-in-Wörter beim Tic-Streichen (Council-Risiko):** Wenn ein "halb X" oder "Puls" durch `kaum sichtbar`, `merklich`, `winzig`, `etwas` ersetzt wurde, prüfen ob konkrete Maßangabe (`einen Zoll`, `Haarbreit`, `eine Spanne`, `einen Takt`) besser wäre. Konkretheit verlangt benannte Maße.
 - **Konkretheits-Check (NEU):** Absaetze zaehlen, bei wie vielen KEIN benanntes Material (Kupfer, Leinen, Kalk, Messing, Birkenrinde, Tusche, Talg...) vorkommt — bei mehr als 20% aller Absaetze: FINDING "zu abstrakt"
 - **Abstrakta-Dichte (NEU):** Grep auf "Stille", "Kaelte", "Schwere", "Leere", "Ferne", "Dunkelheit", "Ewigkeit", "Unheimliches", "Abgrund" — pro Absatz max 1, pro Kapitel max ~15 gesamt; bei >20: FINDING
 - **Abstrakta-Stapel (NEU):** Grep auf Muster "der/die/das [Abstraktum] des/der [Abstraktum]" ("die Stille des Abgrunds", "die Kaelte der Leere") — max 0
+- **Verquastungs-Test (NEU April 2026):** Master `buch/02-stilregeln-v2.md` Sektion „Verquastungs-Test". Prüfe gegen den Beispiel-Katalog plus pro Magie-/Abstraktions-Beat:
+  - Pronomen-Referenz unklar? FINDING.
+  - Magie-Vorgang ohne sichtbares/greifbares Bild? FINDING.
+  - Pseudo-Logik („weil X nicht hingehoert", „X ging nicht durch")? FINDING.
+  - „Nichts" / „Etwas" als Pseudo-Material in Magie-Beats? FINDING.
+  - Leere Verben (schickte/hielt/lenkte ohne konkretes Bild)? FINDING.
+  - Mündlicher Lese-Test: stockt der Satz beim Aussprechen? FINDING.
+- **Magie-Konkretheits-Check (NEU April 2026):** Lies `buch/pov/{figur}-schreibblatt.md` Sektion 1 (Magie-Mechanik konkret). Pro Magie-Akt im Kapitel prüfen:
+  - **BILD** vorhanden (was visualisiert die Figur)?
+  - **QUELLE** vorhanden (welcher Stoff reagiert)?
+  - **FOLGE** vorhanden (was passiert sichtbar)?
+  - Wenn eine der drei Stufen fehlt → FINDING „Magie abstrakt".
+  - Verboten-Floskeln aus Schreibblatt-Sektion 1 finden → FINDING.
+- **Bühnen-Inventar-Konsistenz (NEU April 2026):** Lichtquellen, Objekte, Personen pro Szene durchverfolgen.
+  - Wenn der Text behauptet „kein Licht im Raum" / „die Kammer war dunkel" / „im Schwarzen" — sind alle Lichtquellen im Inventar deaktiviert (verdunkelt, ausgepustet, zugedeckt)? Wenn nein → FINDING „Bühnen-Inkonsistenz".
+  - Wenn der Text behauptet „still", „leer", „allein" — entspricht das dem Inventar? Sonst FINDING.
+  - Bei Mutationen (verdunkelt/ausgepustet/bewegt): bleibt der Folge-Text mit der Mutation konsistent? Sonst FINDING.
+- **Adult-Konkretheits-Check für Begehren (NEU April 2026):** Lies `buch/pov/{figur}-schreibblatt.md` Sektion 4 (Adult-Heat-Stellen-Liste). Pro Begehren-Anker im Text prüfen:
+  - Konkrete Stelle aus der POV-Liste benannt?
+  - Sinnes-/Material-/Lichteinfall-Anker dabei?
+  - Tame-Stellen als alleiniger Begehren-Anker (Schlüsselbein, „Hände", „Haar" generisch)? → FINDING „Begehren tame".
+  - Abstraktes räumliches Denken statt körperliches Bild („dachte an die Treppe", „dachte an die Hafengasse") in Begehren-Kontext? → FINDING.
 
 Output: Tabelle mit Spalten | Zeile | Typ | alt (Original-Zitat, woertlich, max 15 Woerter) | neu (Fix-Vorschlag, vollstaendige Ersetzung) | warum (1 kurzer Satz) |. Wenn das Finding ein „streichen" ist: in der neu-Spalte explizit `[STREICHEN]` schreiben. Keine vagen „umformulieren"-Phrasen — entweder konkreter Fix-Vorschlag oder STREICHEN.
 
-Max 1.5k Token. Verdikt: BESTANDEN / NICHT BESTANDEN.
+Max 2k Token. Verdikt: BESTANDEN / NICHT BESTANDEN.
 ```
 
 ## Phase 5: Final Council (3 Subagenten, sequenziell)
@@ -428,7 +513,7 @@ Pruefe:
 - King-Dichte: Mundane Details die feuern? Sinne aktiv? Spezifisch?
 - SenLinYu-Zurueckhaltung: Bleibt die Prosa kontrolliert? Bricht sie an EINER Stelle hart?
 - Simone-Kadenz: Werden fremde Register (Botanik, Mechanik) fuer Innensicht benutzt?
-- Bardugo-POV-Signatur: Erkennt man am Stil wer spricht?
+- POV-Signatur: Erkennt man am Stil wer spricht? (Maas/Yarros: scharfer 3.P-nah)
 - Black-Verfremdung (nur in Moragh-Szenen): Unerwartete Verbwahl?
 
 Vergleich mit Ton-Referenz: Stimmt der Figurenton ueberein?

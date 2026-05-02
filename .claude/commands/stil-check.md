@@ -225,7 +225,7 @@ Gehe jeden Absatz durch und prüfe die folgenden 5 Qualitäts-Dimensionen. Diese
 **2. Spezifizitäts-Test (ABSTRACT-Pattern):**
 - Jeden Atmosphäre- und Beschreibungssatz fragen: Kann dieser Satz durch einen generischeren ersetzt werden ohne Informationsverlust?
 - Test: Könnte dieser Satz unverändert in einem anderen Dark-Fantasy-Roman stehen? → zu generisch.
-- Bardugo-Maßstab: `"yellowy blister in need of lancing"` — das ist nur Ketterdam. `"Der Mond schien bleich"` — das ist überall.
+- Maßstab: konkretes verortetes Detail vs. austauschbare Atmosphäre. `"Der Mond schien bleich"` — das ist überall. Ein Detail mit Material, Geruch oder Geräusch verortet die Szene hier.
 - FINDING wenn ein Atmosphäre-Satz kein konkretes, verortetes Detail enthält.
 - Besonders prüfen: Eröffnungsabsatz, Stimmungs-Übergänge, Aftermath-Beschreibungen.
 

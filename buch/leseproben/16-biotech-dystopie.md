@@ -5,7 +5,7 @@ figuren: Nyr, Vesper, Expedition-Soldatin
 register: Dunkle Register — Biotech-Schock, Dystopie-Technik trifft Magie
 heat_level: Gewalt (unterschwellig, Drohung + erster Kontakt)
 primaer_referenz: Pierce Brown (Red Rising) — Biotech-Bodymods, Exoskelette, körperlich-brutale Technik; Kuang (Babel) — Tech als Stil-Präzision
-ergaenzende_referenz: Bardugo (Six of Crows) — Tempo, Gruppen-POV
+ergaenzende_referenz: Maas (ACOTAR) — Tempo, Gruppen-POV
 zweck: Ton-Referenz für B3-Akt-III Expedition-2-Ankunft in Dravek. Aus Moragh-POV (Nyr, Thar-Pilotin). Tech ist fremd, unheimlich, nicht erklärt. Körper der Expedition-Soldatin ist das Rätsel. Keine Gibson-Lyrik — körperliche Fremdheit.
 canon_status: Ton-Etüde, B3 Akt III. Nicht Plot-Canon.
 ---

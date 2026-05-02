@@ -4,7 +4,7 @@ pov: Alphina
 figuren: Alphina, Varen, ein Greis (ehem. Kind)
 register: Dunkle Register — post-apokalyptische Stätte
 heat_level: Drohung (durch Stille + Konsequenz)
-primaer_referenz: SenLinYu (Alchemised) — Post-Krieg-Trümmer, Körper-als-Stätte; Bardugo (The Fold) — tote Zone, Unheimlichkeit in Stille
+primaer_referenz: SenLinYu (Alchemised) — Post-Krieg-Trümmer, Körper-als-Stätte; SenLinYu (Alchemised) — tote Zone, Unheimlichkeit in Stille
 ergaenzende_referenz: Kuang (Poppy War) — Konsequenz sichtbar auf Körpern
 zweck: Ton-Referenz für B2-Varen-Führung durch tote Zonen (Mar-Keth). Keine Horror-Schauwerte — Trümmer, verdorrte Natur, Körper als Zeugen. Varen rahmt die Katastrophe als Naturereignis; Alphina beginnt zu glauben, weil sie selbst gerade eine Quelle getötet hat.
 canon_status: Ton-Etüde, B2 Endakt bei Varen. Nicht Plot-Canon.

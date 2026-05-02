@@ -5,7 +5,7 @@ figuren: Alphina, Magister Hadrim, Kommandantin Thaera, Bund-Schreiberinnen
 register: institutionell, militärisch-formell, "zivilisierte" Oberfläche mit unsichtbarer Drohung
 heat_level: keine
 primaer_referenz: Yarros (Fourth Wing — Militärakademie) — institutionelle Ordnung, Hierarchie
-ergaenzende_referenz: Simone (Priest) — institutionelle Material-Dichte (Wappen, Siegel, Stein); Bardugo — Gruppendynamik
+ergaenzende_referenz: Simone (Priest) — institutionelle Material-Dichte (Wappen, Siegel, Stein); Maas (ACOTAR) — Gruppendynamik
 zweck: Bund-Welt etablieren (B2 Akt I). Demokratie in Praxis — Zünfte, Wahlrecht, Tradition. Alphinas Eindruck "hier sind die Guten" beim ersten Kontakt — mit einem Tschechow-Detail (Markierung auf der Karte), das später als Keim des Zweifels wiederkommt.
 canon_status: Ton-Etüde, nicht Plot-Canon.
 ---
