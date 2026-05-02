@@ -102,7 +102,7 @@ Stille. Edric griff nach einem Hobel auf der Werkbank, drehte ihn in den Händen
 
 "Pflanzen. Stein. Ein Zaun." Edric zuckte die Schultern. "Nichts, wofür man nachts rausgeht."
 
-Stille im Schuppen. Das Knarren des Dachgebälks im Wind. Maren spürte etwas in ihren Handflächen, ein Kribbeln, das vom Holz kam oder von dem Wort — Garten, am Klippenrand. Sie schloss die Hände. Das Kribbeln blieb.
+Stille im Schuppen. Das Knarren des Dachgebälks im Wind. In Marens Handflächen ein Kribbeln, das vom Holz kam oder von dem Wort — Garten, am Klippenrand. Sie schloss die Hände. Das Kribbeln blieb.
 
 "Und sonst?", fragte sie. "War er —" Sie suchte das Wort. Normal, wollte sie sagen, aber das Wort passte nicht auf einen Mann, der fünf Jahre lang einer Fremden über Holz geschrieben hatte und dann gestorben war und ihr alles hinterlassen hatte.
 
@@ -140,7 +140,7 @@ Der Wellengang hatte zugenommen seit dem Morgen. Kurze, harte Wellen schlugen ge
 
 Sie blieb stehen. Der Wind drückte ihr Haar nach hinten. Salz auf den Lippen, kalt, scharf. Sie schmeckte es und schloss die Augen.
 
-Thessa. Der Mann mit den warmen Händen. Tonerde unter seinen Nägeln und ein Lachen das von tief unten kam. Er hatte sie eine Nacht gehalten, beide Hände um ihre eine, und sein Daumen hatte kleine Kreise auf ihren Handrücken gemalt und die Wärme war durch ihre Haut gekrochen bis in die Knochen. Und dann hatte er von morgen geredet. Von übermorgen. Von nächster Woche. Und jedes Wort war ein Nagel gewesen, der sie an den Boden heftete, und Maren hatte die Nägel gespürt, und am nächsten Morgen war sie gegangen, die Tasche über der Schulter, die Tür leise ins Schloss, und auf der Fähre hatte sie am Bug gestanden und das Salz hatte auf den Lippen gelegen und der Horizont war leer gewesen und trug nichts.
+Thessa. Der Mann mit den warmen Händen. Tonerde unter seinen Nägeln und ein Lachen das von tief unten kam. Er hatte sie eine Nacht gehalten, beide Hände um ihre eine, und sein Daumen hatte kleine Kreise auf ihren Handrücken gemalt und die Wärme war durch ihre Haut gekrochen bis in die Knochen. Und dann hatte er von morgen geredet. Von übermorgen. Von nächster Woche. Und jedes Wort war ein Nagel gewesen, der sie an den Boden heftete, und Maren hatte die Nägel gespürt, und am nächsten Morgen war sie gegangen, die Tasche über der Schulter, die Tür leise ins Schloss, und auf der Fähre hatte sie am Bug gestanden, das Salz steif in den Wimpern, der Horizont leer.
 
 Sie öffnete die Augen. Das Graue Meer.
 
@@ -154,7 +154,7 @@ Maren trat einen Schritt zurück. Zwei. Drei. Unter ihren Stiefeln glitten die P
 
 Es waren die Gezeiten. Es mussten die Gezeiten sein.
 
-Maren drehte sich um. Ging den Steg zurück, schneller als sie gekommen war. Die Planken nass, die Nägel lose, der Wind im Rücken. Sie drehte sich nicht um. Hinter ihr das Meer, das gegen den Steg schlug, gleichmäßig, hart, normal. Als wäre nichts gewesen.
+Maren drehte sich um. Ging den Steg zurück, schneller als sie gekommen war. Die Planken nass, die Nägel lose, der Wind im Rücken. Sie drehte sich nicht um. Hinter ihr das Meer, das gegen den Steg schlug, gleichmäßig, hart. Als wäre nichts gewesen.
 
 Am Ende des Stegs blieb sie stehen. Sie steckte die Hände in die Hosentaschen und ballte die Fäuste, die Nägel in die Handflächen, und der Druck half, gab dem Körper etwas das er halten konnte. In ihrer rechten Tasche lag Harons Bleistift, den sie vom Boden der Werft aufgehoben hatte, kurz, die Spitze abgebrochen. Ihre Finger schlossen sich darum. Das Holz war warm von ihrer Haut.
 
@@ -182,7 +182,7 @@ Steg. Die Wellen, die flacher geworden waren. Das Glas unter ihren Füßen. Ihr 
 
 Maren drückte den Gedanken weg. Die Gezeiten. Der Wind. Es gab eine Erklärung und sie würde sie finden und dann wäre es vorbei.
 
-Das Wasser kühlte ab. Sie hätte heißes nachlaufen lassen sollen. Es gab einen Kessel im Erdgeschoss, sie hätte die Magd rufen können, aber dazu hätte sie aufstehen müssen, sich abtrocknen, anziehen, die Treppe hinunter, und der Aufwand war zu groß für den Ertrag und so blieb sie sitzen, die Knie angezogen, die Arme darum, und dachte: Ich müsste warmes Wasser nachlaufen lassen.
+Das Wasser kühlte ab. Sie hätte heißes nachlaufen lassen sollen. Es gab einen Kessel im Erdgeschoss, sie hätte die Magd rufen können, aber dazu hätte sie aufstehen müssen, sich abtrocknen, anziehen, die Treppe hinunter, und der Aufwand war zu groß für den Ertrag und so blieb sie sitzen, die Knie angezogen, die Arme darum. *Ich müsste warmes Wasser nachlaufen lassen.*
 
 An ihrer Wade zuckte etwas. Ein Strom, kaum spürbar, der vorher nicht da gewesen war.
 
@@ -196,7 +196,7 @@ Unter der Oberfläche bewegte sich etwas. Nicht sichtbar — spürbar. An ihren 
 
 Sie hatte sich nicht bewegt.
 
-Maren griff an den Wannenrand. Das Metall war kalt unter ihren Fingern, die Kante scharf. Das Wasser zog weiter, gleichmäßig, ohne zu stocken. Sie hob die rechte Hand und zog sie durch das Wasser, quer zum Strudel. Der Strudel folgte. Veränderte die Richtung, sofort, als hätte ihre Hand ihn gelenkt, als wäre das Wasser ein Tier das auf ihre Bewegung reagierte. Sie riss die Hand raus. Wasser tropfte von ihren Fingern, auf den Rand, auf den Boden. Der Strudel lief weiter. Drei Umdrehungen. Vier. Dann langsamer. Langsamer. Hörte auf.
+Maren griff an den Wannenrand. Das Metall war kalt unter ihren Fingern, die Kante scharf. Das Wasser zog weiter, gleichmäßig, ohne zu stocken. Sie hob die rechte Hand und zog sie durch das Wasser, quer zum Strudel. Der Strudel folgte. Schwenkte mit, eine Umdrehung, zwei, als hätte ihre Hand ihn gelenkt, als wäre das Wasser ein Tier das auf ihre Bewegung reagierte. Sie riss die Hand raus. Wasser tropfte von ihren Fingern, auf den Rand, auf den Boden. Der Strudel lief weiter. Drei Umdrehungen. Vier. Dann langsamer. Langsamer. Hörte auf.
 
 Stille.
 

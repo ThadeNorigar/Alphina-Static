@@ -24,7 +24,7 @@
 | Markante Phrase wiederholt ("dreizehn Jahre") | 3-4 pro Kapitel | Jede an eigenem Zweck. |
 | "als hätte/wäre/könnte..." Hypothetische | ~6 pro Kapitel | Bewusst, nicht als Standardanschluss. |
 | Puls als Begehren-Marker | max 1-2× | Klischee-Warnung; nur wenn er konkret trägt |
-| Berufslinse-Anteil pro POV | 3-5 Momente | Gewohnheiten und Denkrichtung tragen die Linse. Max 1 Fachbegriff pro Kapitel, kein Begriff zweimal. |
+| Berufslinse-Anteil pro POV | 3-5 Momente | Gewohnheiten und Denkrichtung tragen die Linse. **Sinn-Prüfung pro Einsatz, keine Pauschal-Quote:** funktional (Material-Name in Werkstatt, Werkzeug im Arbeitsfluss) darf mehrfach; Schmuck-Begriff in berufsfremder Szene null. Tic-Test: Streich den Fachbegriff — liest sich der Satz noch nach der Figur? Wenn ja, war der Begriff Schmuck. (Stand 2026-05-02) |
 | Chemikalien-Namen (Pyrogallol/Fixiersalz) | max 1-2× pro Kapitel | Einführung reicht, dann Oberbegriff |
 | Mikromaße bei Alphina (Fingerknochen, Atemzüge) | 0 | Keine Uhrmacher-Präzision; normale Zeit-Marker ok |
 
