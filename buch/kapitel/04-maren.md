@@ -4,11 +4,11 @@
 
 Der Schuppen roch nach Haron.
 
-Nicht nach Haron persönlich — Maren wusste nicht, wie Haron gerochen hatte, sie hatten sich nie getroffen, fünf Jahre Briefwechsel und kein einziges Mal seine Stimme gehört — sondern nach dem, was Haron gewesen war. Holz und Leim und Bootslack. Sägemehl, das noch in der Luft hing, obwohl seit drei Wochen niemand mehr gesägt hatte. Schleifstaub auf jeder Oberfläche, fein wie Mehl, und darunter, in den Wänden, im Boden, in den Ritzen zwischen den Brettern: das Meer. Der Schuppen lag zwanzig Schritt vom Wasser entfernt, aber das Meer war trotzdem drin. Es war immer drin, wenn man lange genug an einem Ort blieb.
+Nach dem, was Haron gewesen war. Maren wusste nicht, wie er persönlich gerochen hatte — fünf Jahre Briefwechsel, nie seine Stimme gehört. Holz und Leim und Bootslack. Sägemehl, das noch in der Luft hing, obwohl seit drei Wochen niemand mehr gesägt hatte. Schleifstaub auf jeder Oberfläche, fein wie Mehl, und darunter, in den Wänden, im Boden, in den Ritzen zwischen den Brettern: das Meer. Der Schuppen lag zwanzig Schritt vom Wasser entfernt, das Salz war trotzdem im Holz.
 
 Maren blieb nie lange genug.
 
-Ihre Stiefel waren feucht vom Kutter. Fünf Stunden über die Bucht, in einem Fischerboot das nach Teer und Makrele roch und nach dem Schweiß des Mannes, der sie mitgenommen hatte, der wenig redete und das war ihr recht gewesen. Der Seesack an ihrer Schulter, schwer auf der linken Seite, wo die Bücher lagen. Der Gurt schnitt in die Haut über dem Schlüsselbein, ein dünner, scharfer Schmerz, vertraut wie ein alter Riss im Leder. Alles was sie besaß. Alles was sie je besessen hatte, seit sie mit achtzehn Thessa verlassen hatte, mit einem Gepäck das halb so schwer gewesen war, weil sie damals weniger Bücher besaß und mehr Gründe zu gehen und weniger um zu bleiben und trotzdem gegangen war.
+Ihre Stiefel waren feucht vom Kutter. Fünf Stunden über die Bucht, in einem Fischerboot das nach Teer und Makrele roch und nach dem Schweiß des Mannes, der sie mitgenommen hatte, der wenig redete und das war ihr recht gewesen. Der Seesack an ihrer Schulter, schwer auf der linken Seite, wo die Bücher lagen. Der Gurt schnitt in die Haut über dem Schlüsselbein, ein dünner, scharfer Schmerz, vertraut wie ein alter Riss im Leder. Alles was sie besaß. Alles was sie je besessen hatte, seit sie mit achtzehn Thessa verlassen hatte, mit einem Gepäck das halb so schwer gewesen war — damals weniger Bücher, mehr Gründe zu gehen, und sie war gegangen.
 
 Die Stadt hinter ihr lag im Nebel. Vael. Dunkler Stein, fast schwarz, und Giebel und Gassen so eng, dass zwei Kutschen nicht nebeneinander passten. Sie war vom Hafen hierher gelaufen, eine halbe Stunde über nasses Kopfsteinpflaster, vorbei an Fassaden die im Nebel standen wie Bühnenbilder ohne Zuschauer, und die Gaslampen brannten auch am Morgen, gelb und trüb, und ihr Licht schaffte es nicht bis zum Boden. Die Häuser hatten sich um sie geschlossen, und die Luft war anders als im Süden, schwerer, mit einer Feuchtigkeit die auf der Haut blieb und in den Stoff des Mantels kroch und nicht mehr ging. In Solha schauten die Leute Fremde an. In Thessa riefen sie ihnen etwas zu. In Vael gingen sie vorbei, die Köpfe gesenkt, die Mäntel geschlossen, und der Nebel verschluckte sie nach drei Schritten. Am Rand der Stadt, wo die Häuser aufhörten und das Wasser anfing, hatte sie die Werft gefunden. Eine Frau auf der Straße hatte mit dem Kinn in die Richtung gezeigt, ohne stehenzubleiben.
 
@@ -22,11 +22,11 @@ Einundsechzig Briefe. Fünf Jahre. Maren hatte sie gezählt, in der Nacht nach d
 
 Jetzt stand sie vor seinem Schuppen. Drei Wochen tot. Herzversagen, schrieb der Notar. Kein Umschlag, keine Karte, keine Warnung. Nur die Werft und das Boot.
 
-Maren legte die Hand auf den Türrahmen. Das Holz war rau unter ihrer Handfläche, aufgerissen vom Salz, grau und faserig. Ihre Finger schlossen sich darum und sie stand da, eine Hand am Holz, und die Luft ging nicht weiter. Einen Atemzug lang war ihr Brustkorb zu eng und ihre Kehle zu schmal und der Seesack zu schwer, und sie stand da und hielt sich fest, an dem Türrahmen eines Mannes den sie nie getroffen hatte und der jetzt unter der Erde lag, und der Wind roch nach Leim und nach Holz und nach dem Meer und nach Sorgfalt.
+Maren legte die Hand auf den Türrahmen. Das Holz war rau unter ihrer Handfläche, aufgerissen vom Salz, grau und faserig. Ihre Finger schlossen sich darum und sie stand da, eine Hand am Holz, und die Luft ging nicht weiter. Einen Atemzug lang war ihr Brustkorb zu eng und ihre Kehle zu schmal und der Seesack zu schwer, und sie stand da und hielt sich fest, an dem Türrahmen eines Mannes den sie nie getroffen hatte und der jetzt unter der Erde lag, und der Wind roch nach Leim, nach Holz und nach dem Meer.
 
 Dann löste sie die Finger. Trat ein. Und der Schuppen roch wie die Briefe gerochen hatten.
 
-Im Halbdunkel das Boot. Drei Viertel fertig, Kiel auf Holzböcken, Spanten nach oben ragend. Die Planken reichten fast bis zur Bordwand, dicht, eingepasst, und darüber hörten sie auf, abrupt, mitten im Satz. Die fertigen Planken waren geschliffen und eingelassen, das Holz dunkel von Leinöl. Oben, wo die letzte Reihe fehlte, ragten die Spanten nackt in die Luft, helles Holz, unbehandelt. Wartend.
+Im Halbdunkel das Boot. Drei Viertel fertig, Kiel auf Holzböcken, Spanten nach oben ragend. Die Planken reichten fast bis zur Bordwand, dicht, eingepasst, und darüber hörten sie auf, abrupt. Die fertigen Planken waren geschliffen und eingelassen, das Holz dunkel von Leinöl. Oben, wo die letzte Reihe fehlte, ragten die Spanten nackt in die Luft, helles Holz, unbehandelt. Wartend.
 
 Maren ließ den Seesack von der Schulter gleiten. Er fiel auf den Erdboden, dumpf, und Staub stieg auf und legte sich wieder. Sie streckte die Hand aus und berührte eine Planke. Glatt unter ihren Fingern, wärmer als die Luft, und sie fuhr mit der Handfläche über die Oberfläche, und die Maserung war unter ihrer Haut, die Jahresringe, der Rhythmus des Wachstums. Am Heck eine Stelle, wo die Planke einen Knoten hatte, dunkel im hellen Holz. Der Knoten war geblieben. Die Planke war um ihn herumgeschnitten und gebogen worden, sodass er Teil des Holzes blieb. Ein dunkles Auge im Holz. Maren legte den Finger darauf. Härter als das Holz drumherum. Verdichtet.
 
@@ -132,7 +132,7 @@ Am Nachmittag ging sie zum Steg.
 
 Nicht weil sie etwas suchte. Weil der Schuppen zu eng geworden war, zu voll von einem Geruch der nach jemandem roch, den sie nie getroffen hatte, und weil ihre Beine sich bewegten, wie sie es immer taten, wenn ein Ort anfing, Gewicht zu bekommen. Durch die Gassen, die nass waren und glitschig und die alle gleich aussahen in diesem Nebel, dunkler Stein und geschlossene Fenster und einmal eine Katze, grau, die auf einer Mauer saß und sie mit gelben Augen anschaute und nicht weglief. Am Marktplatz Stimmen, gedämpft, Händler die einpackten. Der Geruch von Fisch auf Eis, von Kohle, von nassem Segeltuch. Maren ging hindurch, ohne stehenzubleiben.
 
-Der Steg ragte ins Graue Meer. Alt, die Planken dunkel von Feuchtigkeit und Salz, und an manchen Stellen ragten die Nägel heraus, rostig, gebogen, und das Holz war weich darunter, aufgelöst von Jahren. Der Wind drückte, stärker als am Morgen. Er kam von Nordwest und trug den Geruch der offenen See, Salz und Tang und etwas Kaltes, Tiefes, das aus dem Grund kam, aus dem Stein unter dem Wasser. Das Graue Meer. Grau, wirklich grau, nicht das Blau der Südküste, nicht das Türkis von Solha, sondern ein Grau das Tiefe hatte, das nach unten ging, Schicht für Schicht, und das Licht drang nicht hindurch und das Wasser behielt seine Farbe für sich.
+Der Steg ragte ins Graue Meer. Alt, die Planken dunkel von Feuchtigkeit und Salz, und an manchen Stellen ragten die Nägel heraus, rostig, gebogen, und das Holz war weich darunter, aufgelöst von Jahren. Der Wind drückte, stärker als am Morgen. Er kam von Nordwest und trug den Geruch der offenen See, Salz und Tang und etwas Kaltes, Tiefes, das aus dem Grund kam, aus dem Stein unter dem Wasser. Das Graue Meer. Grau, wirklich grau, nicht das Blau der Südküste, nicht das Türkis von Solha, sondern ein Grau, das nach unten ging, Schicht für Schicht. Das Licht drang nicht hindurch.
 
 Maren kannte Meere. Dieses hier kannte sie nicht.
 
@@ -148,7 +148,7 @@ Raues Wasser. Wind von Nordwest, die Wellen kurz und hart, Schaumkronen, die sic
 
 Um sie herum waren die Wellen flacher. Nicht sofort — sie bemerkte es erst, als die Schaumkronen verschwanden, weiter draußen zuerst, dann näher. Die kurzen, harten Wellen wurden länger, runder, zahmer. Näher am Steg: fast still. Das Wasser lag da, kaum bewegt, nur ein leichtes Atmen, Heben und Senken. Und direkt unter ihr, an den Pfosten: spiegelglatt. Das Wasser lag da wie Glas, und Maren konnte ihr Gesicht sehen, scharf, jede Linie, und dahinter das Grau der Tiefe. Rundherum schlug das Meer. Gischt und Wind und Kälte. Aber hier, wo sie stand: Stille.
 
-Die Gezeiten. Die waren hier eigenartig, hatte der Fischer auf dem Kutter gesagt, hatte mit dem Kinn Richtung Küste gezeigt und sonst nichts. Die Gezeiten waren eigenartig, und die Strömung war eigenartig, und das Wetter war eigenartig, und Vael war eigenartig. Es waren die Gezeiten.
+Die Gezeiten. Die waren hier eigenartig, hatte der Fischer auf dem Kutter gesagt, hatte mit dem Kinn Richtung Küste gezeigt und sonst nichts. Die Gezeiten, die Strömung, das Wetter — eigenartig, und Vael auch. Es waren die Gezeiten.
 
 Maren trat einen Schritt zurück. Zwei. Drei. Unter ihren Stiefeln glitten die Planken. Dort wo sie gestanden hatte: ein Kräuseln, als hätte eine Hand losgelassen. Die Wellen kamen zurück. Zuerst am Rand, dann näher, tastend, als ob sie prüften ob der Platz wieder frei war. Das Kräuseln wurde zu Wellen. Die Wellen wurden zu Schaumkronen. Wo sie gestanden hatte: Meer wie überall.
 
@@ -188,11 +188,11 @@ An ihrer Wade zuckte etwas. Ein Strom, kaum spürbar, der vorher nicht da gewese
 
 Das Wasser wurde still.
 
-Nicht stiller als es war — es war schon still gewesen, Wannenwasser, kein Wind, kein Strom. Aber jetzt war es anders still. Die Oberfläche, die eben noch leicht gezittert hatte, vom Atem, von der Bewegung des Brustkorbs, vom Schlag in den Adern: reglos. Glatt. Gestrichen und gehalten.
+Es war schon still gewesen, Wannenwasser ohne Wind, ohne Strom. Aber jetzt war es anders still. Die Oberfläche, die eben noch leicht gezittert hatte, vom Atem, von der Bewegung des Brustkorbs, vom Schlag in den Adern: reglos. Glatt. Gestrichen und gehalten.
 
 Maren hielt den Atem an.
 
-Unter der Oberfläche bewegte sich etwas. Nicht sichtbar — spürbar. An ihren Beinen, an der Haut. Ein Strom, der sich formte, um ihre Knie, um ihre Schienbeine, ein Ziehen, so leise dass man es fast nicht sah, nur spürte, sanft, gleichmäßig, und das Wasser, das an ihren Beinen entlangstrich, war wärmer. Nicht heiß. Nicht plötzlich. Wärmer, mit jeder Umdrehung, als erzeugte die Bewegung selbst die Wärme, als riebe das Wasser an ihrer Haut und an sich selbst und an den Wänden der Wanne und die Reibung wurde Wärme und die Kälte ging, langsam, stetig, und Maren saß da und das Wasser kreiste und sie hatte sich nicht bewegt.
+Unter der Oberfläche bewegte sich etwas. Nicht sichtbar — spürbar. An ihren Beinen, an der Haut. Ein Strom, der sich formte, um ihre Knie, um ihre Schienbeine, ein Ziehen, so leise dass man es fast nicht sah, nur spürte, sanft, gleichmäßig, und das Wasser, das an ihren Beinen entlangstrich, war wärmer. Nicht heiß. Nicht plötzlich. Wärmer, mit jeder Umdrehung, als erzeugte die Bewegung selbst die Wärme. Das Wasser rieb an ihrer Haut, an den Wannenwänden, und die Reibung wurde Wärme. Die Kälte ging, langsam, stetig. Maren saß. Das Wasser kreiste. Sie hatte sich nicht bewegt.
 
 Sie hatte sich nicht bewegt.
 
