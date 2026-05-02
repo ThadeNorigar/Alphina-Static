@@ -185,8 +185,8 @@ def render_html(proben):
   <meta name="robots" content="noindex, nofollow">
   <title>Der Riss — Leseproben</title>
   <link rel="stylesheet" href="../styles.css">
-  <link rel="stylesheet" href="/story-in-work/sidebar.css?v=20260502b">
-  <script src="/story-in-work/sidebar.js?v=20260502b" defer></script>
+  <link rel="stylesheet" href="/story-in-work/sidebar.css?v=20260502c">
+  <script src="/story-in-work/sidebar.js?v=20260502c" defer></script>
   <style>
     :root {{
       --cream: #f5f0e8; --ink: #1e1c19; --muted: #6b6259;

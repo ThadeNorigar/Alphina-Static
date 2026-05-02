@@ -33,18 +33,23 @@ body.siw-with-sidebar > nav {
   display: none !important;
 }
 
-/* Sidebar = erste Grid-Spalte */
+/* Sidebar = erste Grid-Spalte. Hart 240px, kein Overflow nach außen, kein Schatten. */
 body.siw-with-sidebar > .siw-sidebar {
   grid-column: 1 !important;
   grid-row: 1 !important;
+  width: 240px !important;
+  max-width: 240px !important;
+  min-width: 240px !important;
   background: var(--siw-paper) !important;
-  border-right: 1px solid var(--siw-paper-edge);
-  overflow-y: auto;
-  height: 100vh;
-  position: sticky;
+  border-right: 1px solid var(--siw-paper-edge) !important;
+  box-shadow: none !important;
+  overflow-x: hidden !important;
+  overflow-y: auto !important;
+  height: 100vh !important;
+  position: sticky !important;
   top: 0;
   align-self: start;
-  box-sizing: border-box;
+  box-sizing: border-box !important;
 }
 
 /* Inhalts-Spalte = zweite Grid-Spalte. .wrap, .doc, .grain etc. */
