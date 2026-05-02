@@ -18,7 +18,7 @@ Sie stand am Fenster und legte die Stirn gegen das Glas. Es war kalt, beschlagen
 
 Auf der anderen Seite des Kanals stand das alte Druckereigebäude, drei Stockwerke, die Fenster dunkel, und auf dem Dach eine Wetterfahne in Form einer Hand mit ausgestrecktem Zeigefinger, die immer nach Norden zeigte, egal woher der Wind kam. Das hatte ihr die Concierge erzählt, als sie eingezogen war, und sie hatte gelacht, und die Concierge hatte gesagt: "Ich lache nicht, Madame." Sie war nie hochgegangen um es zu prüfen. Manche Dinge in Velde prüfte man nicht. Man lebte mit ihnen, und irgendwann gehörten sie zum Inventar, und man vergaß, dass sie seltsam waren.
 
-Der Geruch. Schlick vom Kanalgrund, der aufstieg wenn die Gezeiten wechselten, ein schwerer, nasser Geruch wie umgegrabener Garten, aber dunkler, älter, nach Schlick, der lange tief gelegen hatte. Nasser Stein, dreihundert Jahre Regen auf Mauerwerk, und der Stein roch nicht nach Regen sondern nach dem was der Regen aus dem Stein löste, Salz und Kalk und etwas Metallisches, das auf der Zunge lag wenn man durch den Mund atmete. Und darunter der Ammoniak aus der Gerberei am Südkanal, scharf genug um die Augen zu reizen wenn der Wind falsch stand, der Geruch von Häuten die eingeweicht wurden und von Chemie die das tat was die Natur nicht tat — Dinge haltbar machen, die vergehen wollten.
+Der Geruch. Schlick vom Kanalgrund, der aufstieg wenn die Gezeiten wechselten, ein schwerer, nasser Geruch wie umgegrabener Garten, aber dunkler, älter, nach Schlick, der lange tief gelegen hatte. Nasser Stein, dreihundert Jahre Regen auf Mauerwerk, und der Stein roch nach dem was der Regen aus ihm löste, Salz und Kalk und etwas Metallisches, das auf der Zunge lag wenn man durch den Mund atmete. Und darunter der Ammoniak aus der Gerberei am Südkanal, scharf genug um die Augen zu reizen wenn der Wind falsch stand, der Geruch von eingeweichten Häuten und Beizchemie, die haltbar machte, was vergehen wollte.
 
 So roch Velde. So roch die Stadt in der sie lebte, seit elf Jahren, in einer Wohnung im vierten Stock, mit neunundvierzig Pflanzen die in dieser Nacht den Atem anhielten.
 
@@ -75,7 +75,7 @@ Sie schlief nicht.
 
 Velde wachte auf wie eine Maschine.
 
-Um sechs Uhr dreißig schoben sich die ersten Lastkähne durch die Kanäle, beladen mit Mehl und Kohle und Blechdosen voller Sardinen, und die Kahnschiffer riefen einander zu in dem breiten, flachen Dialekt der Tidelände, schwere Wörter, kurze Vokale, das R gerollt wie Kiesel auf dem Kanalgrund. Um sieben schlugen die Turmuhren, alle fünfundvierzig gleichzeitig — das Rathaus am Kanalplatz, die Marienkirche am Alten Hafen, die kleine Uhr über dem Gildehaus, die immer zwei Sekunden nachging und die niemand reparierte, weil das Gildehaus seit achtzig Jahren geschlossen war und die Gilde, die darin tagte, ausgestorben. Fünfundvierzig Uhren, und der Klang war so allgegenwärtig, dass sie ihn nur hörte wenn er fehlte. Um halb acht roch es nach Kaffee und frischem Brot und dem Ammoniak aus der Gerberei, und die Mischung war so vertraut, dass sie kein Geruch mehr war sondern ein Zustand. So roch ihr Leben.
+Um sechs Uhr dreißig schoben sich die ersten Lastkähne durch die Kanäle, beladen mit Mehl und Kohle und Blechdosen voller Sardinen, und die Kahnschiffer riefen einander zu in dem breiten, flachen Dialekt der Tidelände, schwere Wörter, kurze Vokale, das R gerollt wie Kiesel auf dem Kanalgrund. Um sieben schlugen die Turmuhren, alle fünfundvierzig gleichzeitig — das Rathaus am Kanalplatz, der Glockenturm am Alten Hafen, die kleine Uhr über dem Gildehaus, die immer zwei Sekunden nachging und die niemand reparierte, weil das Gildehaus seit achtzig Jahren geschlossen war und die Gilde, die darin tagte, ausgestorben. Fünfundvierzig Uhren, und der Klang war so allgegenwärtig, dass sie ihn nur hörte wenn er fehlte. Um halb acht roch es nach Kaffee und frischem Brot und dem Ammoniak aus der Gerberei, und die Mischung war so vertraut, dass sie kein Geruch mehr war sondern ein Zustand. So roch ihr Leben.
 
 Sie trank Tee. Oolong, dritter Aufguss, fünfundachtzig Grad. Das Thermometer hing neben dem Kessel an einem Haken, den Laris in die Wand geschraubt hatte. Der Haken war krumm. Laris konnte Knochen richten und Schubladen reparieren, aber Haken in Wände schrauben konnte er nicht, und der Haken saß schief in der Wand, der Dübel bröckelte wenn man daran zog, und sie zog nicht daran, nie, sie hängte das Thermometer vorsichtig auf, jeden Morgen, mit einer Sorgfalt die dem Haken galt und nicht dem Thermometer.
 
@@ -121,13 +121,13 @@ Das Kribbeln wurde stärker. Kroch den Arm hoch, bis zum Ellbogen. Sie ballte di
 
 Es passierte öfter. Seit Wochen. Im Botanischen Garten von Velde, als ihr Arm warm wurde, mitten auf der Palmenallee. Nachts, als die Orchidee auf dem Regal ihren Stiel bewegt hatte — oder sie war zu spät gewesen, hatte nur den Nachhall gesehen, das Zittern einer Saite die aufgehört hatte zu schwingen. Die warme Erde. Und jetzt die Efeutute. Wie viele Male musste etwas passieren, bevor es aufhörte Zufall zu sein?
 
-Madame Herault, zweiter Stock, öffnete ihre Tür. Wäschekorb. Lavendel. Der schnelle Atem von jemandem der nicht erwartet hatte ihr zu begegnen.
+Frau Heralt, zweiter Stock, öffnete ihre Tür. Wäschekorb. Lavendel. Der schnelle Atem von jemandem der nicht erwartet hatte ihr zu begegnen.
 
-"Bonjour, Madame."
+"Guten Morgen."
 
 Alphina nickte. Sie wich ihrem Blick aus. Alle taten das, irgendwann. Etwas an ihr gab Menschen das Gefühl, gelesen zu werden.
 
-"La sorcière du quatrième", nannte Herault sie. Die Hexe im Vierten. Es war die genaueste Beschreibung die je jemand von ihr gegeben hatte.
+"Die Hexe im Vierten", nannte Heralt sie. Es war die genaueste Beschreibung die je jemand von ihr gegeben hatte.
 
 Oben. Brot auf den Tisch, Zitrone daneben. Sie stand vor dem Farn am Fenster und legte ihre Hand auf die Erde.
 
@@ -160,7 +160,7 @@ Stärker als bei der Efeutute. Ein Summen das in den Knochen ihrer Hände anfing
 
 Vael.
 
-Sie war nie an der Grauküste gewesen. Kannte niemanden dort. Aber das Kribbeln wurde zu einem Pochen, warm und schwer, unter dem Brustbein. Der Kahnschiffer hatte gesagt, der Wind komme von einer Stadt die auf etwas sitze, das nicht schlafen wolle. Vael. Sie kannte diese Stadt nicht. Sie wusste nichts über sie, außer dass ein Farn dort wuchs, der nicht wachsen dürfte. Und trotzdem erkannte ihr Körper den Namen, als hätte ein Teil von ihr dort gewartet, bevor sie wusste, dass der Ort existierte.
+Sie war nie an der Grauküste gewesen. Kannte niemanden dort. Aber das Kribbeln wurde zu einem Pochen, warm und schwer, unter dem Brustbein. Der Kahnschiffer hatte gesagt, der Wind komme von einer Stadt die auf etwas sitze, das nicht schlafen wolle. Vael. Sie kannte diese Stadt nicht. Sie wusste nichts über sie, außer dass ein Farn dort wuchs, der nicht wachsen dürfte. Und trotzdem erkannte ihr Körper den Namen, als hätte ein Teil von ihr dort gewartet.
 
 Der Farn am Fenster drehte sich.
 
@@ -172,7 +172,7 @@ Sie trat nach links. Der Farn folgte. Nach rechts. Er folgte. Zehnmal testete si
 
 Das hier war nichts davon.
 
-Ihr Herz hämmerte gegen die Rippen. Die Luft roch nach Erde und nach etwas Grünem, tiefer als Chlorophyll, ein Geruch der warm war und lebendig und der aus den Töpfen kam, aus allen gleichzeitig. Die Pflanzen im Raum — alle neunundvierzig — bewegten sich. Die Sukkulenten richteten ihre fleischigen Blätter auf. Die Orchidee drehte ihre Blüten. Die Monstera hob ihre Blätter. Alle gleichzeitig, lautlos, und die Schatten an der Wand verschoben sich, und die Wohnung, die eben noch still gewesen war, still wie ein angehaltener Atem, atmete jetzt, atmete mit neunundvierzig Mündern, und sie stand mit dem Rücken an der Wand und das Bücherregal stand neben ihr und der Roman den Laris dagelassen hatte, "Die Gezeiten von Irra", stand auf Augenhöhe, sein dunkelroter Rücken, und sie dachte: Gezeiten, und sie dachte: Irra, und sie dachte: Vael, und die drei Worte legten sich übereinander.
+Ihr Herz hämmerte gegen die Rippen. Die Luft roch nach Erde und nach etwas Grünem, tiefer als Chlorophyll, ein Geruch der warm war und lebendig und der aus den Töpfen kam, aus allen gleichzeitig. Die Pflanzen im Raum — alle neunundvierzig — bewegten sich. Die Sukkulenten richteten ihre fleischigen Blätter auf. Die Orchidee drehte ihre Blüten. Die Monstera hob ihre Blätter. Alle gleichzeitig, lautlos, und die Schatten an der Wand verschoben sich, und die Wohnung, die eben noch still gewesen war, still wie ein angehaltener Atem, atmete jetzt, atmete mit neunundvierzig Mündern, und sie stand mit dem Rücken an der Wand und das Bücherregal stand neben ihr und der Roman den Laris dagelassen hatte, "Die Gezeiten von Irra", stand auf Augenhöhe, sein dunkelroter Rücken, und die drei Worte legten sich übereinander: Gezeiten. Irra. Vael.
 
 Laris hatte gefragt, was hinter der Mauer sei. Drei Menschen hatten an dieser Mauer gerüttelt.
 
@@ -202,6 +202,6 @@ Unten, im Flur, die Monstera des Hausmeisters. Sie ging an ihr vorbei. Kein Krib
 
 Drei Tage bis Vael.
 
-Sie wusste nicht warum sie fuhr. Sie wusste nur, dass die Erde warm gewesen war. Und dass der Farn sie kannte. Und dass irgendwo, fünfzig Meilen nördlich, an einer Küste die sie nie gesehen hatte, eine Pflanze wuchs, die nicht wachsen dürfte. In einem Garten, der im Jahr des großen Feuers gegründet worden war.
+Sie wusste nicht warum sie fuhr. Sie wusste nur, dass die Erde warm gewesen war. Und dass der Farn sie kannte. Und dass irgendwo, vierzig Meilen nördlich, an einer Küste die sie nie gesehen hatte, eine Pflanze wuchs, die nicht wachsen dürfte. In einem Garten, der im Jahr des großen Feuers gegründet worden war.
 
 Das musste reichen.
