@@ -6,8 +6,19 @@
 
   function detectActivePage() {
     const path = window.location.pathname;
-    const file = path.split('/').pop().replace('.html', '');
-    return file || 'index';
+    // Mappe Pfade auf data-page-Werte in sidebar.html
+    if (path === '/' || path === '/index.html') return 'home';
+    if (path.startsWith('/architektur')) return 'architektur';
+    if (path.startsWith('/canon')) return 'canon';
+    if (path.startsWith('/status')) return 'status';
+    if (path.startsWith('/story-in-work/charaktere')) return 'charaktere';
+    if (path.startsWith('/story-in-work/zeitleiste')) return 'zeitleiste';
+    if (path.startsWith('/story-in-work/leseproben')) return 'leseproben';
+    if (path.startsWith('/story-in-work/moragh-karte')) return 'moragh-karte';
+    if (path.startsWith('/story-in-work/kanon')) return 'kanon';
+    if (path.startsWith('/story-in-work')) return 'siw-index';
+    if (path.startsWith('/story')) return 'story-index';
+    return '';
   }
 
   function init() {

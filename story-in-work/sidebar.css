@@ -1,103 +1,142 @@
-/* Sidebar-Layout für story-in-work */
+/* Sidebar-Layout für story-in-work und Schwester-Seiten — dunkles Original-Theme */
 
 :root {
-  --siw-sidebar-width: 220px;
+  --siw-sidebar-width: 240px;
   --siw-bg: #0f0e0c;
+  --siw-bg-mid: #1a1816;
   --siw-paper: #f8f4ee;
   --siw-paper-edge: #e8e0d4;
   --siw-ink: #1e1c19;
   --siw-muted: #6b6259;
-  --siw-smoke: #8a8279;
-  --siw-accent: #6b3a3a;
+  --siw-smoke: #a89d8e;
+  --siw-accent: #b8860b;
+  --siw-accent-warm: #d4a574;
+  --siw-line: rgba(232, 224, 212, 0.1);
 }
 
-/* Body-Layout: Sidebar links, Inhalt daneben — Override des bisherigen flex-center */
+/* Body-Layout: Sidebar links, Inhalt daneben */
 body.siw-with-sidebar {
   display: flex !important;
   justify-content: flex-start !important;
-  padding-left: calc(var(--siw-sidebar-width) + 1rem) !important;
+  padding-left: calc(var(--siw-sidebar-width) + 1.5rem) !important;
 }
 
-/* Hide alte Top-Links wenn Sidebar aktiv */
-body.siw-with-sidebar .top-links {
+/* Top-Bar verstecken wenn Sidebar aktiv */
+body.siw-with-sidebar .top-links,
+body.siw-with-sidebar > nav {
   display: none !important;
 }
 
+/* Sidebar-Container */
 .siw-sidebar {
   position: fixed;
   top: 0;
   left: 0;
   width: var(--siw-sidebar-width);
   height: 100vh;
-  background: linear-gradient(180deg, #1a1816 0%, var(--siw-bg) 100%);
-  border-right: 1px solid rgba(232, 224, 212, 0.08);
+  background: linear-gradient(180deg, var(--siw-bg-mid) 0%, var(--siw-bg) 100%);
+  border-right: 1px solid var(--siw-line);
   overflow-y: auto;
   z-index: 100;
   transition: transform 0.3s ease;
 }
 
-.siw-sidebar-inner {
-  padding: 1.5rem 1rem 2rem;
+.siw-sidebar::-webkit-scrollbar { width: 6px; }
+.siw-sidebar::-webkit-scrollbar-track { background: transparent; }
+.siw-sidebar::-webkit-scrollbar-thumb {
+  background: rgba(232, 224, 212, 0.12);
+  border-radius: 3px;
 }
 
+.siw-sidebar-inner {
+  padding: 1.8rem 1.2rem 2.5rem;
+}
+
+/* Brand: Original page-title-Stil aus story-in-work */
 .siw-brand {
   display: block;
   font-family: 'Cormorant Garamond', serif;
-  font-size: 0.7rem;
-  letter-spacing: 0.4em;
+  font-size: 0.95rem;
+  letter-spacing: 0.25em;
   text-transform: uppercase;
-  color: var(--siw-paper-edge);
+  color: var(--siw-paper);
   text-decoration: none;
-  padding: 0.3rem 0.5rem 1.2rem;
+  padding: 0.4rem 0.5rem 1.4rem;
   text-align: center;
-  border-bottom: 1px solid rgba(232, 224, 212, 0.06);
+  border-bottom: 1px solid var(--siw-line);
   margin-bottom: 0.8rem;
+  transition: color 0.3s;
 }
 
 .siw-brand:hover {
-  color: var(--siw-accent);
+  color: var(--siw-accent-warm);
 }
 
+/* Navigation */
 .siw-nav {
   display: flex;
   flex-direction: column;
+  gap: 0.05rem;
 }
 
+/* Section-Header */
 .siw-section {
-  font-family: 'Inter', sans-serif;
-  font-size: 0.55rem;
-  letter-spacing: 0.18em;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 0.7rem;
+  letter-spacing: 0.25em;
   text-transform: uppercase;
-  color: var(--siw-smoke);
-  padding: 1rem 0.5rem 0.4rem;
+  color: var(--siw-accent);
+  padding: 1.2rem 0.5rem 0.5rem;
+  border-bottom: 1px solid var(--siw-line);
+  margin-bottom: 0.3rem;
 }
 
+/* Top-Level Links (Trilogie, Zeitleiste, Architektur) — original nav-Stil */
 .siw-link {
   display: block;
   font-family: 'Cormorant Garamond', serif;
-  font-size: 0.92rem;
+  font-size: 0.95rem;
+  letter-spacing: 0.08em;
   color: var(--siw-paper-edge);
   text-decoration: none;
-  padding: 0.32rem 0.5rem;
+  padding: 0.5rem 0.6rem;
   border-radius: 2px;
   transition: background 0.15s, color 0.15s;
-  letter-spacing: 0.02em;
+  position: relative;
 }
 
 .siw-link:hover {
-  background: rgba(232, 224, 212, 0.04);
+  background: rgba(232, 224, 212, 0.05);
   color: var(--siw-paper);
 }
 
+/* Sub-Links (innerhalb einer Layer-Sektion) */
 .siw-link.siw-sub {
-  font-size: 0.82rem;
-  padding-left: 0.9rem;
-  color: rgba(232, 224, 212, 0.78);
+  font-size: 0.88rem;
+  padding: 0.4rem 0.6rem 0.4rem 1.2rem;
+  letter-spacing: 0.05em;
+  color: var(--siw-smoke);
 }
 
+.siw-link.siw-sub:hover {
+  color: var(--siw-paper-edge);
+}
+
+/* Aktive Seite — goldener Akzent wie original nav.active */
 .siw-link.siw-active {
-  color: var(--siw-accent);
-  background: rgba(107, 58, 58, 0.08);
+  color: var(--siw-accent-warm);
+}
+
+.siw-link.siw-active::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 2px;
+  height: 60%;
+  background: var(--siw-accent);
+  border-radius: 1px;
 }
 
 /* Hamburger-Button (nur Mobile sichtbar) */
@@ -106,10 +145,10 @@ body.siw-with-sidebar .top-links {
   position: fixed;
   top: 1rem;
   left: 1rem;
-  width: 36px;
-  height: 36px;
-  background: rgba(15, 14, 12, 0.85);
-  border: 1px solid rgba(232, 224, 212, 0.15);
+  width: 40px;
+  height: 40px;
+  background: rgba(15, 14, 12, 0.92);
+  border: 1px solid var(--siw-line);
   border-radius: 4px;
   z-index: 110;
   cursor: pointer;
@@ -122,22 +161,16 @@ body.siw-with-sidebar .top-links {
 
 .siw-burger span {
   display: block;
-  width: 18px;
+  width: 20px;
   height: 1.5px;
   background: var(--siw-paper-edge);
   border-radius: 1px;
   transition: transform 0.3s, opacity 0.3s;
 }
 
-.siw-burger.siw-open span:nth-child(1) {
-  transform: translateY(5.5px) rotate(45deg);
-}
-.siw-burger.siw-open span:nth-child(2) {
-  opacity: 0;
-}
-.siw-burger.siw-open span:nth-child(3) {
-  transform: translateY(-5.5px) rotate(-45deg);
-}
+.siw-burger.siw-open span:nth-child(1) { transform: translateY(5.5px) rotate(45deg); }
+.siw-burger.siw-open span:nth-child(2) { opacity: 0; }
+.siw-burger.siw-open span:nth-child(3) { transform: translateY(-5.5px) rotate(-45deg); }
 
 .siw-overlay {
   display: none;
@@ -155,7 +188,7 @@ body.siw-with-sidebar .top-links {
   pointer-events: auto;
 }
 
-/* Mobile: Sidebar wird Off-Canvas-Drawer */
+/* Mobile: Off-Canvas-Drawer */
 @media (max-width: 900px) {
   body.siw-with-sidebar {
     padding-left: 1rem !important;
@@ -178,9 +211,9 @@ body.siw-with-sidebar .top-links {
     display: block;
   }
 
-  /* Top-Padding für Inhaltsspalte, damit Burger nicht überlappt */
   body.siw-with-sidebar > .wrap,
-  body.siw-with-sidebar > .grain ~ .wrap {
-    padding-top: 3rem;
+  body.siw-with-sidebar > .grain ~ .wrap,
+  body.siw-with-sidebar > .doc {
+    margin-top: 3.5rem;
   }
 }
