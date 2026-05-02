@@ -223,28 +223,37 @@ Wenn die Antworten zu vage sind → STOPP. Szene nicht ausarbeitungsreif. Autor 
 
 **Autor antwortet: "ok" oder gibt Korrekturen. Erst bei "ok" weiter.**
 
-#### Schritt 2: Block-fuer-Block schreiben (Stand 2026-04-26 — umgebaut)
+#### Schritt 2: Block-fuer-Block schreiben (Stand 2026-05-01 — 4-Subagent-Pipeline)
 
 **Takt:** 1 Block = **3–5 Absaetze, ~150–500 Woerter**. Nicht mehr. Dann STOP.
 
-Der Block-Takt ist bewusst groesser als zuvor (war: 1 Absatz). 1 Absatz war zu kleinteilig (Drift entstand zwischen den Bloecken im Sprung), ganze Szene am Stueck war zu spaet (Drift trug sich durch). 3–5 Absaetze halten Fehler lokal, geben aber genug Substanz fuer sinnvolles Council.
+**Grundprinzip seit 2026-05-01:** Selbst-Check der Hauptsession ist faktisch schludrig — die Hauptsession bestätigt zu oft falsch „bestanden". Die echten Checks laufen jetzt ueber **vier spezialisierte parallele Subagenten** vor dem Block-Show. Der Autor liest fertig geprüfte Texte, nicht KI-generierte erste Schüsse.
 
-**Pre-Check beim Schreiben (aktiv, nicht nachtraeglich):** Die Phase-4-Stilregeln + Memory-Pflichten aus Phase 1.5 sind beim Schreiben jedes Satzes mental aktiv — keine Antithese, keine Werkstatt-Chemie an Sorel/Vesper in Naehe-Szenen, keine Pochen/Takt/Puls als abstrakte Marker, keine metrischen Masse, keine realweltlichen Monatsnamen, Material pro Absatz min 1. Wenn ein Verstoss erst beim Selbst-Check auffaellt, ist die Verinnerlichung in Phase 1.5 kaputt — neu konsolidieren.
+**Pre-Check beim Schreiben (aktiv, nicht nachtraeglich):** Die Phase-4-Stilregeln + Memory-Pflichten aus Phase 1.5 sind beim Schreiben jedes Satzes mental aktiv — keine Antithese, keine Werkstatt-Chemie an Sorel/Vesper in Naehe-Szenen, keine Puls als abstrakter Marker, keine metrischen Masse, keine realweltlichen Monatsnamen, Material pro Absatz min 1. Aber: die Subagenten fangen die Drift, die durchrutscht.
 
 **Loop pro Block:**
 
-1. **Schreiben** — 3–5 Absaetze (~150–500 W) ins Final-File.
-2. **Muendlicher Lese-Test pro Satz (PFLICHT, NEU 2026-04-26):** Den ganzen Block mental einmal aussprechen. Pro Satz: Wuerde ein Mensch am Tisch das so sagen, ohne zu stocken? Macht der Satz Sinn — physisch plausibel, klare Pronomen-Referenz, kausal konsistent? Wenn nein: umschreiben. Diese Pruefung ist nicht optional und ersetzt nicht den Selbst-Check, sondern kommt VOR ihm.
-3. **Selbst-Check** durchlaufen (alle 3 Ebenen, siehe unten) auf den ganzen Block. Probleme inline fixen. Besonders auf Scharnier-Aphorismen am Absatz-Ende achten — letzter Satz nach starkem Bild, der das Bild deutet/generalisiert/aphorisiert: streichen.
-4. **Mini-Council** intern durchspielen — **Council-Damen ZUERST in-character**, dann **Autorin synthetisiert** (siehe unten). Probleme inline fixen.
-5. **Block zeigen** in voller Laenge mit **Pruefnotiz** am Ende:
-   - Format: `[Pruefung: Verstaendlichkeit ✓ | Material ✓ | Abstrakta N | Aphorismen 0 | Pochen/Takt/Puls 0 | Antithese 0 | Werkstatt-Chemie 0 | Council ✓ (MEIKE/LINA/KAYA + Autorin) | Gefixed: <nichts / X→Y>]`
-   - Council-Damen-Verdicte (jeweils 1–2 Saetze in-character) + Autorin-Synthese als kurzer Absatz darunter.
-6. **Warten** auf **"ok"** oder Korrektur des Autors.
-   - **"ok"** → naechster Block.
-   - **Korrektur** → Fix einarbeiten, gefixten Block + neue Pruefnotiz zeigen, erneut auf "ok" warten.
+1. **Schreiben** — 3–5 Absaetze (~150–500 W) als Inline-Block (NICHT ins File schreiben — erst nach Subagent-Pipeline + Fixes).
+2. **Stage 1 — Vier parallele Subagent-Checks** (alle Sonnet, alle gleichzeitig in einem Tool-Call):
+   - **Subagent 1: Sprach-TÜV** — Pattern-Matching gegen Stilregeln + POV-Anti-Patterns
+   - **Subagent 2: Verquastungs-Detektor** — Mündlicher Lese-Test pro Satz, „hä?"-Diagnose
+   - **Subagent 3: Konsistenz-Wächter** — Bühnen-Inventar + Magie-Mechanik + POV-Vokabular + Welt-Kanon
+   - **Subagent 4: Genre-Leserin** — block-spezifische Stimme (LINA/NORA/MEIKE/VICTORIA/KAYA), Sog + Adult-Ton + 95%-Gate
+3. **Stage 2 — Findings konsolidieren** (Hauptsession): alle 4 Outputs sammeln, Konflikte auflösen (siehe Konflikt-Regeln unten).
+4. **Stage 3 — Fixes einarbeiten** (Hauptsession): Findings inline fixen.
+5. **Stage 4 — Re-Check** mit **Subagent 2 (Verquastungs-Detektor)** auf den gefixten Block. Fixes erzeugen oft neue Verquastung — dieser Pass fängt das.
+6. **Stage 5 — Block ins Final-File schreiben** (Edit-Tool).
+7. **Stage 6 — Block dem Autor zeigen** in voller Laenge mit **Pipeline-Bericht**:
+   - **Findings-Tabelle:** was die 4 Subagenten gefunden haben + welche Fixes eingearbeitet wurden
+   - **Starke Beats:** was die Subagenten als besonders stark markiert haben
+   - **Verdikt-Block:** je 1 Zeile pro Subagent (BESTANDEN / GRENZWERTIG / DURCHGEFALLEN)
+8. **Warten** auf **„ok"** oder Korrektur des Autors.
+   - **„ok"** → nächster Block.
+   - **Korrektur** → Fix einarbeiten, gefixten Block + Pipeline-Re-Run, erneut auf „ok" warten.
 
 **Commit-Rhythmus:** Alle 2–3 OK-Bloecke ein kleiner `wip:`-Commit. Nicht pro Block (zu laut), nicht pro Szene (zu weit weg).
+
+**Token-Budget pro Block:** ~30k Tokens (4 Subagenten parallel ~5–8k je + Konsolidierung + Fixes + Re-Check). Bei ~9 Bloecken pro Kapitel: ~270k Tokens fuer die Pipeline. Das ist die bewusste Investition fuer geprueften Output statt Selbst-Check-Theater.
 
 ---
 
@@ -313,9 +322,199 @@ Die Autorin entscheidet, welche Damen-Forderungen umgesetzt werden, welche nicht
 
 **Output in der Pruefnotiz:** `Council ✓ (MEIKE/LINA/KAYA + Autorin)` mit Aufzaehlung. Bei Fix: `Council: LINA forderte Atemzug am Saum → gefixed`.
 
-**KEIN externer Subagent-Council zwischendurch.** Das Mini-Council laeuft rein intern in der Opus-Session. Externe Subagents erst in Phase 5.
+**Hinweis (2026-05-01):** Der oben beschriebene Mini-Council-Modus mit Damen + Autorin-Synthese ist ABGELÖST durch die 4-Subagent-Pipeline (siehe Sektion „4-Subagent-Pipeline pro Block" weiter unten). Selbst-Check + interner Mini-Council waren nachweislich schludrig. Die Pipeline laeuft als externe parallele Subagent-Calls vor dem Block-Show.
 
 **KEIN "Szenen-Council" zwischendurch.**
+
+---
+
+## 4-Subagent-Pipeline pro Block (Stand 2026-05-01)
+
+Vier spezialisierte Subagenten laufen **parallel** (alle in einem Tool-Call dispatched, alle Sonnet). Jeder hat eine klare Brille — keine Doppelung. Konsolidierung in der Hauptsession.
+
+### Subagent 1 — Sprach-TÜV
+
+**Modell:** sonnet
+**Input:** Block-Text + `buch/02-stilregeln-v2.md` + `buch/pov/{figur}-schreibblatt.md` Sektion 8
+
+**Prompt-Template:**
+```
+Du bist Sprach-TÜV für einen Adult-Dark-Romantasy-Roman. Pattern-Matching gegen Stilregeln, brutal, mit Zahlen.
+
+Block:
+{BLOCK_TEXT}
+
+Lies parallel:
+- buch/02-stilregeln-v2.md (Stilregeln, harte Limits)
+- buch/pov/{POV}-schreibblatt.md Sektion 8 (POV-spezifische Anti-Patterns)
+
+Pruefe (mit Grep wo moeglich), jede Stelle einzeln markieren:
+
+- "nicht X — sondern Y" / "nicht X, sondern Y" / "nicht X, Y" — Pflicht-Pruefung pro Einsatz
+- "wie etwas das..." / "wie ein..."-Vergleiche — Limit max 2 pro Kapitel
+- Adverb-Tags ("sagte er wuetend") — 0 erlaubt
+- Denk-Tags ("sie dachte" / "er fragte sich" / "er ueberlegte") — 0 erlaubt
+- "halb X" Pseudo-Praezision — Pflicht-Pruefung
+- "Puls" abstrakt / "Pulsschlag" — Klischee-Reflex (außer Quellenpuls)
+- "etwas in seinem/ihrem [Brust/Nacken/Sehen/Kopf]" — verboten
+- Stakkato-Ketten (3+ Fragmente <4W) — Pflicht-Pruefung pro Einsatz mit Begruendungs-Test
+- Anaphern-Kaskade (3+ aufeinanderfolgende Satzanfaenge identisch)
+- Substantiv-Phrasen ohne Verb als eigene Saetze
+- Negations-Stapel (3+ "kein/nicht" hintereinander) ohne Funktion
+- Aphorismen am Absatz-Ende ("X. Das war Y." / "Das war das [Abstraktum]")
+- Direkte Emotionsbenennung im Narrator
+- Flashback-Rampe ("sie erinnerte sich an den Tag")
+- Premature Doubt ("sie wusste noch nicht, dass")
+- Cross-POV-Mind-Reading ("als wollte sie pruefen, ob...")
+- Metrische Masseinheiten (Millimeter/Zentimeter/Meter/Kilometer) — verboten
+- Realwelt-Monatsnamen (Januar/Februar/Maerz...) — verboten
+- "Resonanz" / "Schemen" in Prosa — Canon-Begriffe verboten
+- POV-Anti-Patterns aus Schreibblatt §8
+
+Output: Tabelle | Stelle (woertliches Zitat) | Pattern | alt | neu / [STREICHEN] | warum |
+
+Max 5 Findings. Verdikt: BESTANDEN / GRENZWERTIG / NICHT BESTANDEN.
+
+Was du NICHT machst: Verstaendlichkeit beurteilen, Magie-Mechanik pruefen, Genre-Ton bewerten. Das sind andere Subagenten.
+
+Max 800 Token.
+```
+
+### Subagent 2 — Verquastungs-Detektor
+
+**Modell:** sonnet
+**Input:** Block-Text + `buch/02-stilregeln-v2.md` Sektion „Verquastungs-Test"
+
+**Prompt-Template:**
+```
+Du bist Verquastungs-Detektor. Du findest Saetze, die formal stilregel-konform sein moegen, aber beim ersten Lesen ein "haeae?" produzieren.
+
+Block:
+{BLOCK_TEXT}
+
+Lies: buch/02-stilregeln-v2.md Sektion "Verquastungs-Test" (Beispiel-Katalog).
+
+Muendlicher Lese-Test pro Satz:
+
+1. Aussprechen (mental): stockt der Sprecher? FINDING.
+2. Pronomen-Check: ist klar, worauf jedes "er/sie/es/ihn/das" referiert? Wenn nein, FINDING.
+3. Vorgangs-Check: bei Magie/Bewegung/Wandel — ist das Bild konkret (sichtbar, greifbar)? FINDING wenn abstrakt.
+4. Verb-Check: traegt das Verb? "schickte das Licht", "hielt den Willen", "gehoerte hin" sind leere Verben. FINDING.
+5. Logik-Check: folgt der Satz aus der Welt-Logik? "Licht gehoert nicht hin" stimmt nicht. FINDING.
+6. Pseudo-Material: "Nichts" / "Etwas" als Substantiv-Stand-in fuer etwas Konkretes. FINDING.
+7. Holprige Wortstellung: "X, Y, nicht" / Apposition vor Verb / verschachtelte Relativ-Ketten. FINDING.
+8. Pseudo-Tiefe: Saetze, die klug klingen wollen aber nichts sagen. FINDING.
+9. Anachronismus: Woerter, die nicht ins fruehe-19.-Jhd-Register passen.
+10. Beispiel-Katalog aus Stilregeln durchpruefen.
+
+Output: Tabelle | Stelle (woertliches Zitat) | "haeae?"-Diagnose | Fix-Vorschlag (vollstaendige Ersetzung) |
+
+Max 6 Findings. Verdikt: BESTANDEN / GRENZWERTIG / NICHT BESTANDEN.
+
+Was du NICHT machst: Stil-Pattern-Matching (Subagent 1), Buehnen-Konsistenz (Subagent 3), Genre-Bewertung (Subagent 4). Dein einziger Auftrag: kann die Leserin das ohne Stolpern lesen?
+
+Max 800 Token.
+```
+
+### Subagent 3 — Konsistenz-Wächter
+
+**Modell:** sonnet
+**Input:** Block-Text + bisherige Szene-Saetze (fuer Inventar-Verfolgung) + `buch/pov/{figur}-schreibblatt.md` Sektion 1+5+6 + Memory-Auszug zur POV-Figur
+
+**Prompt-Template:**
+```
+Du bist Konsistenz-Waechter. Welt-/Buehnen-/Magie-/POV-Konsistenz pruefen. Faktencheck.
+
+Aktueller Block:
+{BLOCK_TEXT}
+
+Bisherige Szene (fuer Inventar-Kontext):
+{VORHERIGE_SAETZE}
+
+POV-Figur: {POV}
+Aktuelle Szene-Buehne (Lichtquellen, Personen, Objekte, Magie-Status):
+{INVENTAR}
+
+Pruefe:
+
+- **Buehnen-Inventar:** Lichtquellen, Personen, Objekte verfolgen. Wenn Text behauptet "kein Licht im Raum" — sind alle Lichtquellen im Inventar deaktiviert? Wenn "allein" — ist niemand sonst im Raum?
+- **Magie-Beat-Mechanik:** Bei jedem Magie-Akt — ist BILD (was visualisiert die Figur), QUELLE (welcher Stoff reagiert), FOLGE (was passiert sichtbar) explizit benannt? Wenn eine Stufe fehlt, FINDING "Magie abstrakt".
+- **POV-Vokabular:** {POV}-spezifische Woerter aus pov/{POV}-schreibblatt.md (z.B. Sorel "Dunst", Alphina "Nebel"). POV-Berufslinse-Bruch?
+- **Tempus-Konsistenz:** Praeteritum durchgaengig? Plusquamperfekt korrekt fuer Vorvergangenheit?
+- **Genus/Pronomen-Bug:** maskulin/feminin/neutrum stimmig? Pronomen-Referenz korrekt?
+- **Sorel-Prinzip:** weiss die POV-Figur nur, was sie wissen kann? Keine Premature-Doubt, keine Mind-Reading anderer.
+- **Material pro Absatz:** mind. 1 benanntes konkretes Ding (Kupfer, Leinen, Schiefer, Bleiglas, Talg) je Absatz?
+- **POV-Lieblingswoerter** (aus Schreibblatt §7): ueber Kapitel mind. 3x erreicht?
+- **Welt-Kanon:** Monate (Nebelmond/Saatmond, nicht November/Mai), Pflanzen (Silberglocken, nicht Maigloeckchen), Fraktionen (Bund/Konglomerat/Velmar)
+- **Anachronismen:** Strom/Telefon/Auto verboten; metrische Masse verboten; moderne Anglizismen verboten
+
+Output: Tabelle | Stelle | Konsistenz-Verstoss | warum + Fix-Vorschlag |
+
+Max 5 Findings. Verdikt: BESTANDEN / GRENZWERTIG / NICHT BESTANDEN.
+
+Was du NICHT machst: Stil-Geschmack, Verquastung, Genre-Ton. Du fragst nur: stimmt das mit der Welt + den Regeln + dem Inventar ueberein?
+
+Max 800 Token.
+```
+
+### Subagent 4 — Genre-Leserin
+
+**Modell:** sonnet
+**Input:** Block-Text + `buch/00-positioning.md` Sektion 9 (95%-Gate) + `buch/pov/{figur}-schreibblatt.md` Sektion 4 (Adult-Heat-Stellen) + Stimmen-Profil aus `book-council.md`
+
+**Welche Stimme:** Pre-Check pro Kapitel festgelegt (LINA/NORA/MEIKE/VICTORIA/KAYA — siehe `book-council.md`). Pro Block ggf. Stimmen-Wechsel falls Inhalt sich aendert (Heat-Block → VICTORIA, Schock-Block → KAYA, etc.).
+
+**Prompt-Template:**
+```
+Du bist {STIMME} ({STIMME_PROFIL_KURZ}) und liest einen Block aus einem Adult-Dark-Romantasy-Roman. In-character, nicht neutral-analytisch.
+
+Block:
+{BLOCK_TEXT}
+
+POV-Figur: {POV}, Heat-Level: {HEAT_LEVEL}, Block-Funktion: {BLOCK_FUNKTION}
+
+Lies:
+- buch/00-positioning.md Sektion 9 (95%-Gate)
+- buch/pov/{POV}-schreibblatt.md Sektion 4 (Adult-Heat-Stellen-Liste)
+- Dein eigenes Profil in .claude/commands/book-council.md
+
+Pruefe als Genre-Leserin:
+
+- Sog: Will ich weiterlesen? Was zieht mich rein?
+- Emotion: Fuehle ich was? Wo? Wo nicht?
+- Tension: Wo ist die Spannung? Wo flacht sie ab?
+- Tame-Stellen im Begehren: Generisches statt konkret-Adult? (Schluesselbein-Klasse?)
+- Welt-Zaehne: spezifisch (nur dieser Garten, diese Figur, dieser Moment) oder generisch?
+- 95%-Gate (bei Block-Eroeffnung): Hook? Figur-Will? Kipp in 200 W? Koerper/Emotion hoerbar?
+- Aufschalten/Abschalten: wuerdest du hier weiterlesen oder dich abwenden?
+
+Sei direkt, nicht hoeflich. Sag wenn es nur Plot ist und keine Spannung hat.
+
+Output:
+- Verdikt in-character (2-3 Saetze, in deinem Stimmen-Ton)
+- Tabelle | Stelle | Was wirkt / Was zoegert | Score-Beitrag |
+- 3-5 Eintraege
+- Marktfaehigkeits-Score 0-100% aus deiner Sicht
+
+Max 1k Token.
+```
+
+### Konflikt-Auflösungs-Regeln (Stage 2 Konsolidierung)
+
+Wenn die 4 Subagenten widerspruechliche Vorschlaege machen:
+
+**Hierarchie der Stimmen:**
+1. **Subagent 3 (Konsistenz-Waechter)** hat **Vetorecht** — Welt-/Buehnen-/Magie-/POV-Bugs sind Fakten-Verstöße, nicht Geschmacks-Fragen. Werden IMMER gefixt.
+2. **Subagent 1 (Sprach-TÜV)** bei klaren Memory-Verstoessen (Antithese, halb-X, Puls, Adverb-Tags etc.) — **gewinnt gegen Geschmacks-Stimmen** der Genre-Leserin.
+3. **Subagent 2 (Verquastungs-Detektor)** — **gewinnt gegen stilistische Eleganz-Vorschlaege** der Genre-Leserin. Ein eleganter aber unverstaendlicher Satz wird verworfen.
+4. **Subagent 4 (Genre-Leserin)** entscheidet bei Geschmacks-Fragen — wenn Subagent 1+2+3 keinen Verstoss flaggen, aber sie sagt „tame", wird ihre Empfehlung umgesetzt.
+
+**Konkrete Regeln:**
+- **Subagent 3 vs. Subagent 4:** Konsistenz schlaegt Genre. Wenn Genre-Leserin einen „eleganten" Fix vorschlaegt, der die Buehne kaputt macht — abgelehnt.
+- **Subagent 1 vs. Subagent 4:** Stilregel-Verstoss schlaegt Geschmack. Wenn Genre-Leserin einen Satz lobt, den Subagent 1 als Antithese flaggt — Antithese wird gefixt.
+- **Subagent 2 vs. alle:** Verquastung schlaegt Stilistik. Wenn ein Satz formal regel-konform und genre-stark ist, aber „haeae?" produziert — wird umgeschrieben.
+- **Bei Konflikt zwischen Subagent 2 und Subagent 4 ueber Hook-Form:** Subagent 2 gewinnt — Verstaendlichkeit vor Hook-Eleganz.
+- **Bei echtem Konflikt ohne Hierarchie-Entscheidung:** Beide Optionen dem Autor zeigen, er entscheidet. Nicht selbst auswaehlen.
 
 #### Schritt 3: Post-Scene Dialog-Check
 
