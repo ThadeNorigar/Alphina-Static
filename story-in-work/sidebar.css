@@ -1,51 +1,67 @@
-/* Sidebar-Layout für story-in-work und Schwester-Seiten — dunkles Original-Theme */
+/* Sidebar als normale Layout-Spalte. Kein position:fixed, kein Overlay-Hack. */
 
 :root {
-  --siw-sidebar-width: 240px;
   --siw-bg: #0f0e0c;
   --siw-bg-mid: #1a1816;
   --siw-paper: #f8f4ee;
   --siw-paper-edge: #e8e0d4;
-  --siw-ink: #1e1c19;
-  --siw-muted: #6b6259;
   --siw-smoke: #a89d8e;
   --siw-accent: #b8860b;
   --siw-accent-warm: #d4a574;
   --siw-line: rgba(232, 224, 212, 0.1);
 }
 
-/* Body-Verschiebung: nur padding-left, kein flex/justify forciert.
-   Die Sidebar selbst ist position:fixed, der Inhalt rueckt rechts daneben. */
+/* Body wird Flex-Row mit Sidebar links, Inhalt rechts. */
 body.siw-with-sidebar {
-  padding-left: calc(var(--siw-sidebar-width) + 1.5rem) !important;
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: stretch !important;
+  justify-content: flex-start !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  min-height: 100vh;
 }
 
-/* Top-Bar verstecken wenn Sidebar aktiv */
+/* Top-Bar verstecken */
 body.siw-with-sidebar .top-links,
 body.siw-with-sidebar > nav {
   display: none !important;
 }
 
-/* Sidebar-Container — !important damit kein Page-CSS dazwischen funkt */
-body.siw-with-sidebar .siw-sidebar,
-.siw-sidebar {
-  position: fixed !important;
-  top: 0 !important;
-  left: 0 !important;
-  width: 240px !important;
-  max-width: 240px !important;
-  min-width: 240px !important;
-  height: 100vh !important;
-  margin: 0 !important;
-  background: linear-gradient(180deg, var(--siw-bg-mid) 0%, var(--siw-bg) 100%) !important;
+/* Sidebar-Spalte — normale Block-Spalte, sticky beim Scrollen */
+body.siw-with-sidebar > .siw-sidebar {
+  flex: 0 0 240px;
+  width: 240px;
+  align-self: stretch;
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  background: linear-gradient(180deg, var(--siw-bg-mid) 0%, var(--siw-bg) 100%);
   border-right: 1px solid var(--siw-line);
   overflow-y: auto;
-  z-index: 1000 !important;
-  transition: transform 0.3s ease;
-  display: block !important;
-  box-sizing: border-box !important;
+  box-sizing: border-box;
 }
 
+/* Inhalts-Spalte — alle direkten body-Children außer fixed/sidebar */
+body.siw-with-sidebar > .wrap,
+body.siw-with-sidebar > .doc,
+body.siw-with-sidebar > main {
+  flex: 1 1 auto;
+  min-width: 0;
+  padding: 2rem 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* .wrap und .doc behalten ihre max-width — werden in der Spalte zentriert */
+body.siw-with-sidebar > .wrap > *,
+body.siw-with-sidebar > .doc > * {
+  width: 100%;
+  max-width: 880px;
+}
+
+/* Scrollbar-Styling der Sidebar */
 .siw-sidebar::-webkit-scrollbar { width: 6px; }
 .siw-sidebar::-webkit-scrollbar-track { background: transparent; }
 .siw-sidebar::-webkit-scrollbar-thumb {
@@ -72,19 +88,15 @@ body.siw-with-sidebar .siw-sidebar,
   margin-bottom: 0.8rem;
   transition: color 0.3s;
 }
+.siw-brand:hover { color: var(--siw-accent-warm); }
 
-.siw-brand:hover {
-  color: var(--siw-accent-warm);
-}
-
-/* Navigation */
+/* Nav */
 .siw-nav {
   display: flex;
   flex-direction: column;
   gap: 0.05rem;
 }
 
-/* Section-Header */
 .siw-section {
   font-family: 'Cormorant Garamond', serif;
   font-size: 0.7rem;
@@ -96,7 +108,6 @@ body.siw-with-sidebar .siw-sidebar,
   margin-bottom: 0.3rem;
 }
 
-/* Top-Level Links */
 .siw-link {
   display: block;
   font-family: 'Cormorant Garamond', serif;
@@ -109,29 +120,20 @@ body.siw-with-sidebar .siw-sidebar,
   transition: background 0.15s, color 0.15s;
   position: relative;
 }
-
 .siw-link:hover {
   background: rgba(232, 224, 212, 0.05);
   color: var(--siw-paper);
 }
 
-/* Sub-Links */
 .siw-link.siw-sub {
   font-size: 0.88rem;
   padding: 0.4rem 0.6rem 0.4rem 1.2rem;
   letter-spacing: 0.05em;
   color: var(--siw-smoke);
 }
+.siw-link.siw-sub:hover { color: var(--siw-paper-edge); }
 
-.siw-link.siw-sub:hover {
-  color: var(--siw-paper-edge);
-}
-
-/* Aktive Seite */
-.siw-link.siw-active {
-  color: var(--siw-accent-warm);
-}
-
+.siw-link.siw-active { color: var(--siw-accent-warm); }
 .siw-link.siw-active::before {
   content: '';
   position: absolute;
@@ -144,75 +146,75 @@ body.siw-with-sidebar .siw-sidebar,
   border-radius: 1px;
 }
 
-/* Hamburger (Mobile) */
-.siw-burger {
-  display: none;
-  position: fixed;
-  top: 1rem;
-  left: 1rem;
-  width: 40px;
-  height: 40px;
-  background: rgba(15, 14, 12, 0.92);
-  border: 1px solid var(--siw-line);
-  border-radius: 4px;
-  z-index: 110;
-  cursor: pointer;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  gap: 4px;
-  padding: 0;
-}
-
-.siw-burger span {
-  display: block;
-  width: 20px;
-  height: 1.5px;
-  background: var(--siw-paper-edge);
-  border-radius: 1px;
-  transition: transform 0.3s, opacity 0.3s;
-}
-
-.siw-burger.siw-open span:nth-child(1) { transform: translateY(5.5px) rotate(45deg); }
-.siw-burger.siw-open span:nth-child(2) { opacity: 0; }
-.siw-burger.siw-open span:nth-child(3) { transform: translateY(-5.5px) rotate(-45deg); }
-
+/* Burger + Overlay sind nur Mobile relevant */
+.siw-burger,
 .siw-overlay {
   display: none;
-  position: fixed;
-  inset: 0;
-  background: rgba(0, 0, 0, 0.5);
-  z-index: 99;
-  opacity: 0;
-  transition: opacity 0.3s;
-  pointer-events: none;
 }
 
-.siw-overlay.siw-visible {
-  opacity: 1;
-  pointer-events: auto;
-}
-
-/* Mobile: Off-Canvas-Drawer */
+/* Mobile: Drawer */
 @media (max-width: 900px) {
   body.siw-with-sidebar {
-    padding-left: 1rem !important;
+    flex-direction: column !important;
   }
-
-  .siw-sidebar {
+  body.siw-with-sidebar > .siw-sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 240px;
     transform: translateX(-100%);
+    z-index: 1000;
+    transition: transform 0.3s ease;
     box-shadow: 6px 0 24px rgba(0, 0, 0, 0.5);
   }
-
-  .siw-sidebar.siw-open {
+  body.siw-with-sidebar > .siw-sidebar.siw-open {
     transform: translateX(0);
   }
-
   .siw-burger {
     display: flex;
+    position: fixed;
+    top: 1rem;
+    left: 1rem;
+    width: 40px;
+    height: 40px;
+    background: rgba(15, 14, 12, 0.92);
+    border: 1px solid var(--siw-line);
+    border-radius: 4px;
+    z-index: 1001;
+    cursor: pointer;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+    padding: 0;
   }
-
+  .siw-burger span {
+    display: block;
+    width: 20px;
+    height: 1.5px;
+    background: var(--siw-paper-edge);
+    border-radius: 1px;
+    transition: transform 0.3s, opacity 0.3s;
+  }
+  .siw-burger.siw-open span:nth-child(1) { transform: translateY(5.5px) rotate(45deg); }
+  .siw-burger.siw-open span:nth-child(2) { opacity: 0; }
+  .siw-burger.siw-open span:nth-child(3) { transform: translateY(-5.5px) rotate(-45deg); }
   .siw-overlay {
     display: block;
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 999;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s;
+  }
+  .siw-overlay.siw-visible {
+    opacity: 1;
+    pointer-events: auto;
+  }
+  body.siw-with-sidebar > .wrap,
+  body.siw-with-sidebar > .doc {
+    padding-top: 4rem;
   }
 }
