@@ -21,13 +21,18 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 
-# Pages, in die das Sidebar-Markup injiziert wird.
-PAGES = [
+# Pages, in die das Sidebar-Markup injiziert wird (NUR /story-in-work/).
+INCLUDE_PAGES = [
     ROOT / "story-in-work" / "index.html",
     ROOT / "story-in-work" / "kanon.html",
     ROOT / "story-in-work" / "charaktere.html",
     ROOT / "story-in-work" / "zeitleiste.html",
     ROOT / "story-in-work" / "moragh-karte.html",
+]
+
+# Pages, aus denen die Sidebar entfernt wird, falls Marker noch vorhanden.
+# (Migration nach Autor-Entscheidung 2026-05-02: Sidebar nur in /story-in-work/.)
+EXCLUDE_PAGES = [
     ROOT / "canon" / "index.html",
     ROOT / "status" / "index.html",
     ROOT / "story" / "index.html",
@@ -119,8 +124,43 @@ def inject(content: str) -> str:
     return content
 
 
+def strip(content: str) -> str:
+    """Entfernt Sidebar-Markup, body-Class und sidebar.css/js-Tags."""
+    # 1. Marker-Block raus (inkl. eventueller fuehrender Newline)
+    pattern = re.compile(
+        r"\n?" + re.escape(SIDEBAR_START) + r".*?" + re.escape(SIDEBAR_END),
+        re.DOTALL,
+    )
+    content = pattern.sub("", content, count=1)
+
+    # 2. body-Class siw-with-sidebar entfernen
+    def fix_body(m: re.Match) -> str:
+        cls = m.group(1)
+        new_cls = " ".join(c for c in cls.split() if c != "siw-with-sidebar").strip()
+        if new_cls:
+            return f'<body class="{new_cls}">'
+        return "<body>"
+
+    content = re.sub(r'<body\s+class="([^"]*)">', fix_body, content, count=1)
+
+    # 3. sidebar.css/js Link- und Script-Tags entfernen (mit oder ohne ?v=...)
+    content = re.sub(
+        r'\s*<link[^>]+href="[^"]*sidebar\.css[^"]*"[^>]*>\s*\n?',
+        "\n",
+        content,
+    )
+    content = re.sub(
+        r'\s*<script[^>]+src="[^"]*sidebar\.js[^"]*"[^>]*>\s*</script>\s*\n?',
+        "\n",
+        content,
+    )
+
+    return content
+
+
 def main() -> None:
-    for page in PAGES:
+    print("Sidebar-Build:")
+    for page in INCLUDE_PAGES:
         if not page.exists():
             print(f"  SKIP (fehlt): {page.relative_to(ROOT)}")
             continue
@@ -130,7 +170,21 @@ def main() -> None:
             print(f"  unchanged: {page.relative_to(ROOT)}")
         else:
             page.write_text(updated, encoding="utf-8")
-            print(f"  updated:   {page.relative_to(ROOT)}")
+            print(f"  injected:  {page.relative_to(ROOT)}")
+
+    print()
+    print("Sidebar-Strip (Pages außerhalb /story-in-work/):")
+    for page in EXCLUDE_PAGES:
+        if not page.exists():
+            print(f"  SKIP (fehlt): {page.relative_to(ROOT)}")
+            continue
+        original = page.read_text(encoding="utf-8")
+        updated = strip(original)
+        if updated == original:
+            print(f"  clean:     {page.relative_to(ROOT)}")
+        else:
+            page.write_text(updated, encoding="utf-8")
+            print(f"  stripped:  {page.relative_to(ROOT)}")
 
 
 if __name__ == "__main__":

@@ -186,7 +186,34 @@ ssh adrian@adrianphilipp.de "cd ~/apps/Alphina-Static && git pull && bash genera
 
 Status: `entwurf`. Autor kann den Entwurf jetzt online lesen.
 
-## Phase 4: Schlanker Logik-Check (Subagent, sonnet)
+## Phase 4: Auto-Pattern-Check + Logik-Check
+
+### 4.1 Auto-Pattern-Check (Bash, lokal)
+
+Vor dem Logik-Subagent: das Skript laeuft lokal und liefert eine Markdown-Tabelle mit Findings zu Sprache + Welt-Konsistenz.
+
+```bash
+python scripts/entwurfs-check.py {ID}
+```
+
+Geprueft werden 8+2 wiederkehrende Patterns aus `buch/_meta/entwurfs-qualitaet.md`:
+
+1. Realweltliche Monatsnamen (Welt-Monate Pflicht: Eismond, Sturmmond, ..., Dunkelmond)
+2. „Moragh" in Thalassien-Kapiteln (Memory `feedback_moragh_name.md`)
+3. „nicht X, sondern Y" Pflicht-Pruefung (Memory `feedback_nicht_sondern_pflichtpruefung.md`)
+4. „halb X" Pseudo-Praezision (Memory `feedback_halb_praezision_tic.md`)
+5. Anglizismen / Epoche-Bruch (Memory `feedback_keine_anglizismen_epoche.md`)
+6. Kleidungs-Anachronismen — Jacke/Bluse (Memory `feedback_kleidung_kanon.md`)
+7. Metrische Maßeinheiten (Skill §Welt-Konsistenz)
+8. Stakkato-Ketten — 3+ Saetze unter 6 Woertern (Memory `feedback_kein_stakkato_dialog.md`)
+9. Sein-Verb-Haeufung — lag/war/stand/saß > 2×/150-W-Block (Bonus, Memory `feedback_verb_praezision.md`)
+10. Negations-Cluster — ≥4 Negationen pro Absatz (Bonus, Memory `feedback_negationen_vermeiden.md`)
+
+**Findings sind Hinweise, keine harten Verbote.** Der Autor entscheidet pro Treffer, ob raus oder bleibt — manche Treffer sind funktional (z.B. „nicht-sondern" mit echter Kontrast-Funktion). Findings im konsolidierten Bericht (Phase 6) mit aufnehmen.
+
+Bei vielen Treffern (>20 Total): Ueberlegen, ob ein Stil-Drift im Entwurf vorliegt. Vor dem Logik-Subagent in Phase 4.2 dem Autor kurz zeigen.
+
+### 4.2 Logik-Check (Subagent, sonnet)
 
 Dispatch ueber Agent-Tool mit:
 - `subagent_type: "general-purpose"`
@@ -215,7 +242,7 @@ Output: kurzer Bericht (max 1k Token), Findings als Tabelle (Szene, Typ, Problem
 Verdikt am Ende: BESTANDEN / NICHT BESTANDEN.
 ```
 
-## Phase 5: Entwurfs-Council (2 Subagenten, sequenziell, sonnet)
+## Phase 5: Entwurfs-Council (3 Subagenten, parallel, sonnet)
 
 ### Subagent 1: Strukturanalyst
 
@@ -272,6 +299,62 @@ Aus Beat-Strukturen kann man manches NICHT sehen (Prosa-Ton, Sprach-Erotik). Das
 Max 1k Token Output. Verdikt: BESTANDEN / NICHT BESTANDEN + 3-5 konkrete Findings.
 ```
 
+### Subagent 3: Canon-Waechter
+
+Dispatch:
+- `subagent_type: "general-purpose"`
+- `model: "sonnet"`
+- Prompt:
+
+```
+Du bist Canon-Waechter fuer "Der Riss". Du pruefst NUR Welt-/Figuren-/Magie-Konsistenz, KEIN Plot-Logik, KEINE Beziehungs-Dynamik (das machen die anderen Subagenten).
+
+Lies parallel:
+1. buch/kapitel/{ID}-entwurf.md (der Entwurf)
+2. buch/00-canon-kompakt.md (Welt-Fakten)
+3. buch/pov/{figur}.md (POV-Wissen)
+4. Memory-Files unter `~/.claude/projects/C--Users-micro-StudioProjects-Alphina-Static/memory/`. Mindestens diese lesen, falls fuer das Kapitel relevant:
+   - project_schemen_magie_modi.md (Schemen-Lautlosigkeit + aktive Magie als Schaden-Quelle)
+   - project_welt_monate_pflanzen.md (Welt-Monate, Pflanzen, Tiere)
+   - project_magie_dreistufen.md (Magie-Modell)
+   - project_zwei_monde_moragh.md (Zwei-Monde-Regel — nur Moragh)
+   - project_du_sie_wechsel.md (Du/Sie-Stand pro Paar)
+   - project_alphina_sorel_kein_bdsm.md (sie fuehrt, er hat Grenzen — keine Sub-Gesten fuer Sorel)
+   - project_b2_k01-k27_canon.md (B2-Stand bei B2-Entwuerfen)
+   - feedback_keine_spukgeschichte.md (Passiv-Effekte ohne Urheberin nur unbewusst UND vor K21)
+   - feedback_kein_magie_kosten.md (Thalassier zahlen keinen Magie-Preis)
+   - feedback_resonanz_nicht_benennen.md (Begriff "Resonanz" bleibt aus Prosa)
+   - feedback_keine_plot_additionen.md (Keine eigenmaechtigen Welt-/Mechanik-Erfindungen)
+   - feedback_fraktionsnamen.md (Bund/Konglomerat/Velmar — nicht Gilden/Binder)
+   - feedback_canon_kette_pruefen.md (Wissensstand der Figur gegen letzte 3-4 Kapitel)
+
+Pruefe entlang der Top-5 Memory-Konsistenz-Punkte aus `buch/_meta/entwurfs-qualitaet.md`:
+
+1. **Sorel-Prinzip / Figurenwissen** — Pro Figur: Was weiß sie laut letzten 3 Kapitel? Weiß sie hier mehr (Eigennamen, Mechaniken, Cross-Kapitel-Wissen)?
+2. **Schemen-Magie-Modus + Lautlosigkeit** — Bei Schemen-Kontakt: ist der Magie-Modus (Eis/Feuer/etc.) explizit gesetzt? Ist die Lautlosigkeit als Marker erwaehnt? Berührung ohne Magie-Akt → kein Schaden? Geraeusche nur von Menschen, nicht vom Schemen?
+3. **Spukgeschichte ab K21** — Passiv-Effekte (Kerzen flackern, Objekte bewegen sich, Raeume reagieren) ohne benannte Urheberin in Kapiteln >= K21? Canon-Bruch.
+4. **Plot-Additionen** — Neue Orte, Mechaniken, Symbole, Fraktions-Begriffe? Wenn ja: gedeckt durch Aktplan/Memory, oder eigenmaechtig erfunden?
+5. **Figuren-Aufstellungen + Beziehungs-Canon** — „die Vier" vs. „die Fuenf" (Runa schleicht erst beim Portal mit), Du/Sie-Stand pro Paar/Kapitel, BDSM-Register nur Vesper/Maren (nie Alphina/Sorel), Sorel-Bart-Verbot, Maren-keine-Dahl, Talven-Blutmagie-statt-Resonanz-Ernte.
+
+Zusaetzlich:
+- Fraktionsnamen (Bund/Konglomerat/Velmar — keine Gilden/Binder)
+- "Resonanz" als Begriff in Prosa/Dialog (verboten — Figuren benennen konkret: Wachstum, Licht, Zeit, Wasser)
+- Magie-Kosten bei Thalassiern (zahlen nicht)
+- Welt-Monate (kein realweltlicher Mai/April/etc. — Welt-Monate Pflicht)
+- Zwei-Monde-Regel (nur in Moragh, nicht Thalassien)
+
+Output: max 1k Token, Findings als Tabelle:
+
+| Memory/Canon-Quelle | Problem im Entwurf | Fix-Vorschlag |
+|---------------------|--------------------|---------------|
+
+Verdikt am Ende: BESTANDEN / NICHT BESTANDEN.
+
+Wichtig: Wenn ein Memory-File nicht gelesen werden kann (Pfad nicht vorhanden), das im Bericht erwaehnen statt zu raten.
+```
+
+**Alle drei Subagenten parallel dispatchen** (sie sind unabhaengig).
+
 ## Phase 5b: Council-Leserinnen-Review (2-3 Subagenten parallel, sonnet)
 
 **Zweck:** Die im Entwurfs-Header festgelegten Council-Leserinnen lesen den Entwurf in-character und bewerten kritisch, ob der **Plot** fuer ihren Genre-Erwartungs-Raster taugt. Pro Stimme: Verdict + Score + Findings. Gate: **≥90% Durchschnitt** = bestanden.
@@ -322,14 +405,16 @@ Alle 2-3 Subagenten parallel dispatchen (sie sind unabhaengig).
 
 Zeige dem Autor:
 
-1. **Logik-Check Findings** (Tabelle, knapp)
-2. **Strukturanalyst** Findings + Verdikt
-3. **Beziehungs-Lektorin** Findings + Verdikt
-4. **Council-Leserinnen** (2-3 Stimmen):
+1. **Auto-Pattern-Check** (aus 4.1, Markdown-Tabelle vom Skript)
+2. **Logik-Check Findings** (Tabelle, knapp)
+3. **Strukturanalyst** Findings + Verdikt
+4. **Beziehungs-Lektorin** Findings + Verdikt
+5. **Canon-Waechter** Findings + Verdikt (Memory-Konsistenz)
+6. **Council-Leserinnen** (2-3 Stimmen):
    - Pro Stimme: Verdict (1-2 Saetze, in-character) + Score
    - **Durchschnitts-Score** der festgelegten Stimmen
    - Niedrigste Stimme als Risiko-Signal
-5. **Gesamt-Verdikt** mit Leserinnen-Gate:
+7. **Gesamt-Verdikt** mit Leserinnen-Gate:
 
 | Durchschnitt Leserinnen-Score | Verdikt |
 |-------------------------------|---------|
@@ -427,8 +512,9 @@ Zeige dem Autor:
 
 | Gate | Bedingung |
 |---|---|
-| Logik-Check | Bestanden oder vom Autor bewusst akzeptiert vor `entwurf-checked` |
-| 2 Council-Agenten (Strukturanalyst + Beziehungs-Lektorin) | Beide bestanden oder bewusst akzeptiert vor `entwurf-checked` |
+| Auto-Pattern-Check (4.1) | Lauft immer, kein Hard-Gate. Findings im Bericht; Autor entscheidet pro Treffer. |
+| Logik-Check (4.2) | Bestanden oder vom Autor bewusst akzeptiert vor `entwurf-checked` |
+| 3 Council-Agenten (Strukturanalyst + Beziehungs-Lektorin + Canon-Waechter) | Alle drei bestanden oder bewusst akzeptiert vor `entwurf-checked` |
 | **Council-Leserinnen (2-3, Phase 5b)** | **Durchschnitts-Score ≥ 90 %** fuer `entwurf-checked` ohne Override. 80–89 % = Autor-Override moeglich. < 80 % = nachbessern Pflicht. |
 | Autor-Freigabe | Pflicht fuer `entwurf-ok`. Ohne diese kein Phase-Wechsel. |
 
