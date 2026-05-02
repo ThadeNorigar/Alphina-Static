@@ -1,14 +1,14 @@
-/* Sidebar als normale Layout-Spalte. Kein position:fixed, kein Overlay-Hack. */
+/* Sidebar als Layout-Spalte. Optik passend zur canon-Page (cremig-hell, gold-Akzent). */
 
 :root {
-  --siw-bg: #0f0e0c;
-  --siw-bg-mid: #1a1816;
+  --siw-cream: #f5f0e8;
   --siw-paper: #f8f4ee;
   --siw-paper-edge: #e8e0d4;
-  --siw-smoke: #a89d8e;
+  --siw-ink: #1e1c19;
+  --siw-muted: #6b6259;
+  --siw-smoke: #8a8279;
   --siw-accent: #b8860b;
-  --siw-accent-warm: #d4a574;
-  --siw-line: rgba(232, 224, 212, 0.1);
+  --siw-accent-faint: rgba(184, 134, 11, 0.18);
 }
 
 /* Body wird Flex-Row mit Sidebar links, Inhalt rechts. */
@@ -22,13 +22,12 @@ body.siw-with-sidebar {
   min-height: 100vh;
 }
 
-/* Top-Bar verstecken */
 body.siw-with-sidebar .top-links,
 body.siw-with-sidebar > nav {
   display: none !important;
 }
 
-/* Sidebar-Spalte — normale Block-Spalte, sticky beim Scrollen */
+/* Sidebar-Spalte — cremig hell wie das Paper, sticky beim Scrollen */
 body.siw-with-sidebar > .siw-sidebar {
   flex: 0 0 240px;
   width: 240px;
@@ -36,13 +35,14 @@ body.siw-with-sidebar > .siw-sidebar {
   position: sticky;
   top: 0;
   height: 100vh;
-  background: linear-gradient(180deg, var(--siw-bg-mid) 0%, var(--siw-bg) 100%);
-  border-right: 1px solid var(--siw-line);
+  background: var(--siw-paper);
+  border-right: 1px solid var(--siw-paper-edge);
+  box-shadow: 0 0 0 1px var(--siw-paper-edge), 0 12px 40px rgba(0,0,0,0.3);
   overflow-y: auto;
   box-sizing: border-box;
 }
 
-/* Inhalts-Spalte — alle direkten body-Children außer fixed/sidebar */
+/* Inhalts-Spalte */
 body.siw-with-sidebar > .wrap,
 body.siw-with-sidebar > .doc,
 body.siw-with-sidebar > main {
@@ -54,41 +54,40 @@ body.siw-with-sidebar > main {
   align-items: center;
 }
 
-/* .wrap und .doc behalten ihre max-width — werden in der Spalte zentriert */
 body.siw-with-sidebar > .wrap > *,
 body.siw-with-sidebar > .doc > * {
   width: 100%;
   max-width: 880px;
 }
 
-/* Scrollbar-Styling der Sidebar */
+/* Scrollbar */
 .siw-sidebar::-webkit-scrollbar { width: 6px; }
 .siw-sidebar::-webkit-scrollbar-track { background: transparent; }
 .siw-sidebar::-webkit-scrollbar-thumb {
-  background: rgba(232, 224, 212, 0.12);
+  background: rgba(107, 58, 58, 0.15);
   border-radius: 3px;
 }
 
 .siw-sidebar-inner {
-  padding: 1.8rem 1.2rem 2.5rem;
+  padding: 1.8rem 1.5rem 2.5rem;
 }
 
 /* Brand */
 .siw-brand {
   display: block;
   font-family: 'Cormorant Garamond', serif;
-  font-size: 0.95rem;
-  letter-spacing: 0.25em;
+  font-size: 0.85rem;
+  letter-spacing: 0.3em;
   text-transform: uppercase;
-  color: var(--siw-paper);
+  color: var(--siw-ink);
   text-decoration: none;
   padding: 0.4rem 0.5rem 1.4rem;
   text-align: center;
-  border-bottom: 1px solid var(--siw-line);
+  border-bottom: 1px solid var(--siw-paper-edge);
   margin-bottom: 0.8rem;
   transition: color 0.3s;
 }
-.siw-brand:hover { color: var(--siw-accent-warm); }
+.siw-brand:hover { color: var(--siw-accent); }
 
 /* Nav */
 .siw-nav {
@@ -99,60 +98,61 @@ body.siw-with-sidebar > .doc > * {
 
 .siw-section {
   font-family: 'Cormorant Garamond', serif;
-  font-size: 0.7rem;
-  letter-spacing: 0.25em;
+  font-size: 0.65rem;
+  letter-spacing: 0.3em;
   text-transform: uppercase;
-  color: var(--siw-accent);
-  padding: 1.2rem 0.5rem 0.5rem;
-  border-bottom: 1px solid var(--siw-line);
-  margin-bottom: 0.3rem;
+  color: var(--siw-smoke);
+  padding: 1.4rem 0.5rem 0.5rem;
+  border-bottom: 1px solid var(--siw-paper-edge);
+  margin-bottom: 0.4rem;
 }
 
 .siw-link {
   display: block;
   font-family: 'Cormorant Garamond', serif;
-  font-size: 0.95rem;
-  letter-spacing: 0.08em;
-  color: var(--siw-paper-edge);
+  font-size: 0.92rem;
+  letter-spacing: 0.1em;
+  color: var(--siw-smoke);
   text-decoration: none;
-  padding: 0.5rem 0.6rem;
+  padding: 0.45rem 0.6rem;
   border-radius: 2px;
-  transition: background 0.15s, color 0.15s;
+  transition: color 0.2s;
   position: relative;
 }
-.siw-link:hover {
-  background: rgba(232, 224, 212, 0.05);
-  color: var(--siw-paper);
-}
+.siw-link:hover { color: var(--siw-ink); }
 
 .siw-link.siw-sub {
-  font-size: 0.88rem;
-  padding: 0.4rem 0.6rem 0.4rem 1.2rem;
+  font-size: 0.85rem;
+  padding: 0.32rem 0.6rem 0.32rem 1.2rem;
   letter-spacing: 0.05em;
-  color: var(--siw-smoke);
+  color: var(--siw-muted);
 }
-.siw-link.siw-sub:hover { color: var(--siw-paper-edge); }
+.siw-link.siw-sub:hover { color: var(--siw-ink); }
 
-.siw-link.siw-active { color: var(--siw-accent-warm); }
-.siw-link.siw-active::before {
+/* Aktiv: Gold-Akzent wie nav.active::after auf der Hauptseite */
+.siw-link.siw-active {
+  color: var(--siw-ink);
+}
+.siw-link.siw-active::after {
   content: '';
   position: absolute;
-  left: 0;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 2px;
-  height: 60%;
+  left: 0.6rem;
+  right: 0.6rem;
+  bottom: 0.2rem;
+  height: 1px;
   background: var(--siw-accent);
-  border-radius: 1px;
+}
+.siw-link.siw-sub.siw-active::after {
+  left: 1.2rem;
 }
 
-/* Burger + Overlay sind nur Mobile relevant */
+/* Burger + Overlay nur Mobile */
 .siw-burger,
 .siw-overlay {
   display: none;
 }
 
-/* Mobile: Drawer */
+/* Mobile */
 @media (max-width: 900px) {
   body.siw-with-sidebar {
     flex-direction: column !important;
@@ -165,7 +165,6 @@ body.siw-with-sidebar > .doc > * {
     transform: translateX(-100%);
     z-index: 1000;
     transition: transform 0.3s ease;
-    box-shadow: 6px 0 24px rgba(0, 0, 0, 0.5);
   }
   body.siw-with-sidebar > .siw-sidebar.siw-open {
     transform: translateX(0);
@@ -177,8 +176,8 @@ body.siw-with-sidebar > .doc > * {
     left: 1rem;
     width: 40px;
     height: 40px;
-    background: rgba(15, 14, 12, 0.92);
-    border: 1px solid var(--siw-line);
+    background: var(--siw-paper);
+    border: 1px solid var(--siw-paper-edge);
     border-radius: 4px;
     z-index: 1001;
     cursor: pointer;
@@ -192,7 +191,7 @@ body.siw-with-sidebar > .doc > * {
     display: block;
     width: 20px;
     height: 1.5px;
-    background: var(--siw-paper-edge);
+    background: var(--siw-ink);
     border-radius: 1px;
     transition: transform 0.3s, opacity 0.3s;
   }
