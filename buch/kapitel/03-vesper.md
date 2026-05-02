@@ -50,9 +50,9 @@ Nicht seine. Nicht die seines Gegners. Die Bauern standen auf einer Linie — a2
 
 Kein Mensch legt das.
 
-Vesper hatte die Figuren angestarrt. Seinen Springer. Seine Dame. Die Diagonale darunter, quer über das Brett, ein Muster das nicht zum Spiel gehörte. Das unter dem Spiel lag. Eine zweite Ebene, die nur er sah, und die Frage die sich in seinen Brustkorb bohrte war nicht: Was bedeutet das? Die Frage war: Wer hat das hingelegt?
+Vesper hatte die Figuren angestarrt. Seinen Springer. Seine Dame. Die Diagonale darunter, quer über das Brett, ein Muster das nicht zum Spiel gehörte. Das unter dem Spiel lag. Eine zweite Ebene, die nur er sah, und die Frage in seinem Brustkorb war: Wer hat das hingelegt?
 
-Sein Herz schlug in seinen Ohren. Seine Finger lagen auf der Dame. Kalt. Reglos. Der Turm in seiner linken Hand — er hatte ihn irgendwann gegriffen, ohne es zu merken. Schwarzes Holz, schwer für seine Größe.
+Das Blut rauschte in seinen Ohren. Seine Finger lagen auf der Dame. Kalt. Reglos. Der Turm in seiner linken Hand — er hatte ihn irgendwann gegriffen, ohne es zu merken. Schwarzes Holz, schwer für seine Größe.
 
 Er bot Remis an.
 
@@ -90,7 +90,7 @@ Groß. Das war das Erste. Größer als die meisten Männer in Karst. Er duckte s
 
 "Uhrmacher." Der Mann lächelte. "Auf der Durchreise. Komme von der Küste."
 
-Seine Stimme war ruhig. Tiefer als erwartet. Ein Akzent den Vesper nicht einordnen konnte — nicht die Innenlande, nicht die Küste, nicht der Süden. Etwas dazwischen, oder daneben, als hätte der Mann die Sprache gelernt, indem er überall zugehört und nirgendwo gelebt hatte.
+Seine Stimme war ruhig. Tiefer als erwartet. Ein Akzent den Vesper nicht einordnen konnte — nicht die Innenlande, nicht die Küste, nicht der Süden. Als hätte der Mann die Sprache gelernt, indem er überall zugehört und nirgendwo gelebt hatte.
 
 Vesper musterte seine Hände. Gewohnheit. Man erkannte einen Uhrmacher an den Händen — Schnitte von Federn, Hornhaut an den Fingerkuppen, feine dunkle Linien unter den Nägeln, wo das Öl sich festsetzte und nie ganz verschwand.
 
@@ -106,7 +106,7 @@ In seiner Tasche drehte sich der Turm.
 
 "Nein."
 
-"Seltsamer Ort. Nebel, Purpurstein, ein Fluss der manchmal rückwärts fließt." Er lachte. "Die Einheimischen halten es für normal."
+"Seltsamer Ort. Dunst, Purpurstein, ein Fluss der manchmal rückwärts fließt." Er lachte. "Die Einheimischen halten es für normal."
 
 Vesper trank. Der Turm drehte sich.
 
@@ -128,9 +128,9 @@ Die Stimmen um ihn herum liefen weiter. Der Schlosser erzählte noch immer von s
 
 "Auf die Sekunde. Jeden Tag. Ich habe sie drei Tage laufen lassen, gegen eine Referenzuhr. Exakt."
 
-Der Turm lag still in seiner Tasche.
+Der Turm ruhte still in seiner Tasche.
 
-273 Sekunden. Die Zahl stand sofort. Nicht gerechnet — erkannt. Wie ein Gesicht das man kennt, bevor man den Namen weiß. 273. Er zerlegte: drei mal sieben mal dreizehn. Drei Primfaktoren. Kein Standard-Pendel schwang in einem Vielfachen. Keine Temperaturkurve erzeugte diesen Versatz. Keine Materialdrift. Nichts.
+273 Sekunden. Die Zahl stand sofort. Nicht gerechnet — erkannt. Wie ein Gesicht das man kennt, bevor man den Namen weiß. 273. Er zerlegte: drei mal sieben mal dreizehn. Drei Primfaktoren. Kein Standard-Pendel schwang in einem Vielfachen. Keine Temperaturkurve erzeugte diesen Versatz. Keine Materialdrift.
 
 "Temperatur geprüft?", fragte Vesper. Seine Stimme war ruhig. Die Frage kam automatisch — die Finger des Uhrmachers, die ein Werk abtasten, systematisch, ohne zu denken.
 
@@ -154,11 +154,11 @@ Der Blick veränderte sich. Das Lächeln war weg. Die Beiläufigkeit war weg. Wa
 
 Drei Sekunden. Vier. Das Kaminfeuer knackte. Der Schlosser lachte. Eine Bierflasche klirrte auf den Steinboden und jemand fluchte.
 
-Vesper hielt den Blick. Er kannte Blicke. Das Schachbrett hatte ihn gelehrt Blicke zu lesen — die Panik des Verlierers, die Arroganz des Gewinners, den leeren Blick des Mannes der aufgegeben hatte bevor die Partie vorbei war. Der Blick dieses Mannes war keiner davon. Dieser Mann wusste die Antwort. Er wartete darauf, ob Vesper die richtige Frage stellte.
+Vesper hielt den Blick. Er kannte Blicke. Das Schachbrett hatte ihn gelehrt Blicke zu lesen — die Panik des Verlierers, die Arroganz des Gewinners, den leeren Blick des Mannes der aufgegeben hatte bevor die Partie vorbei war. Der Blick dieses Mannes war keiner davon. Dieser Mann wusste die Antwort. Er wartete, ob Vesper die richtige Frage stellte.
 
 "Nein", sagte der Mann. Leise. "Es gibt keinen Fehler."
 
-Dann schaute er weg. Bestellte Bier. Das Gespräch driftete — Wetter, Straßen, Kutschpreise im Frühjahr. Beiläufig, gelöst, als hätte die Standuhr ihn nie interessiert. Er erzählte von der Grauküste, vom Nebel der von See kam und den sie Vaeler Atem nannten. Vier Tage mit der Kutsche, sagte er. Halbinsel, drei Seiten Wasser. Seine Stimme war warm. Sein Lachen kam leicht.
+Dann schaute er weg. Bestellte Bier. Das Gespräch glitt weiter — Wetter, Straßen, Kutschpreise im Frühjahr. Beiläufig, gelöst, als hätte die Standuhr ihn nie interessiert. Er erzählte von der Grauküste, vom Dunst der von See kam und den sie Vaeler Atem nannten. Vier Tage mit der Kutsche, sagte er. Halbinsel, drei Seiten Wasser. Seine Stimme war warm. Sein Lachen kam leicht.
 
 Vesper hörte zu. Seine Hände lagen auf dem Tisch. Ruhig. In seinem Kopf lief die Zahl. Hörte nicht auf.
 
@@ -208,7 +208,7 @@ Jede Erklärung führte zum selben Punkt. Der Versatz war zu konstant. Zu präzi
 
 Der Turm drehte sich schneller.
 
-Er dachte an den Mann. An die marineblauen Augen. An den Blick, der gemessen hatte. An die Hände ohne Hornhaut. An die Stimme die sagte: "Es gibt keinen Fehler." Und an die Art wie er es gesagt hatte — leise, langsam, als wäre der Satz nicht eine Antwort, sondern eine Tür die er aufhielt.
+Er dachte an den Mann. An die marineblauen Augen. An den Blick, der gemessen hatte. An die Hände ohne Hornhaut. An die Stimme die sagte: "Es gibt keinen Fehler." Und an die Art wie er es gesagt hatte — leise, langsam, als wäre der Satz eine Tür die er aufhielt.
 
 Es gibt keinen Fehler.
 
@@ -216,11 +216,11 @@ Die Uhren tickten.
 
 Vesper hielt den Atem an.
 
-Etwas hatte sich verändert. Im Ticken. Das Durcheinander der Stimmen hinter der Wand, das er kannte wie seinen eigenen Herzschlag — es war anders. Nicht lauter. Nicht leiser. Anders. Als hätte jemand in dem Gewirr aus Ticken und Tacken eine Lücke geöffnet. Eine Pause, die vorher nicht da war. Ein winziger Abstand zwischen zwei Schlägen, der sich wiederholte, regelmäßig, und der das Durcheinander ordnete, ob es wollte oder nicht.
+Etwas hatte sich verändert. Im Ticken. Das Durcheinander der Stimmen hinter der Wand, das er kannte wie seinen eigenen Herzschlag — es war anders. Nicht lauter. Nicht leiser. Anders. Als hätte jemand in dem Gewirr aus Ticken und Tacken eine Lücke geöffnet. Eine Pause, die vorher nicht da war. Ein winziger Abstand zwischen zwei Schlägen, der sich wiederholte, regelmäßig, und das Durcheinander ordnete.
 
 Vesper setzte sich auf. Das Bettzeug raschelte. Er hörte zu.
 
-Die Pause wurde größer. Breiter. Als würde sie Platz machen. Die einzelnen Stimmen der Uhren fielen in sie hinein, eine nach der anderen, nicht gezählt, nicht zählbar, ein langsames Kippen von Chaos in Ordnung. Das Ticken wurde dichter. Gleichmäßiger. Die Stimmen verschwanden, verschmolzen, und an ihre Stelle trat ein Rhythmus, ein einziger Schlag, der lauter wurde.
+Die Pause wurde größer. Breiter. Als würde sie Platz machen. Die einzelnen Stimmen der Uhren fielen in sie hinein, eine nach der anderen, ein langsames Kippen von Chaos in Ordnung. Das Ticken wurde dichter. Gleichmäßiger. Die Stimmen verschwanden, verschmolzen, und an ihre Stelle trat ein Rhythmus, ein einziger Schlag, der lauter wurde.
 
 Lauter.
 
