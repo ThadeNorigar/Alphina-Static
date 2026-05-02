@@ -1,0 +1,137 @@
+#!/usr/bin/env python3
+"""
+Injiziert das Sidebar-Markup in alle relevanten Pages.
+
+Sucht in jeder Page das <body>-Tag und ersetzt es plus alles bis zum
+naechsten Marker (oder bis zum naechsten direkten Body-Child) durch:
+  <body class="siw-with-sidebar">
+    [Sidebar-Markup]
+    <-- Marker SIDEBAR_END -->
+    [Originaler Body-Inhalt nach dem Marker]
+
+Bei Erstlauf (kein Marker) wird das Markup direkt nach <body> eingefuegt
+und der SIDEBAR_END-Marker dahinter gesetzt.
+
+Aufruf:  python scripts/build-sidebar.py
+"""
+
+from __future__ import annotations
+import re
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+
+# Pages, in die das Sidebar-Markup injiziert wird.
+PAGES = [
+    ROOT / "story-in-work" / "index.html",
+    ROOT / "story-in-work" / "kanon.html",
+    ROOT / "story-in-work" / "charaktere.html",
+    ROOT / "story-in-work" / "zeitleiste.html",
+    ROOT / "story-in-work" / "moragh-karte.html",
+    ROOT / "canon" / "index.html",
+    ROOT / "status" / "index.html",
+    ROOT / "story" / "index.html",
+    ROOT / "architektur.html",
+]
+
+SIDEBAR_START = "<!-- SIDEBAR_START (build-sidebar.py — nicht haendisch editieren) -->"
+SIDEBAR_END = "<!-- SIDEBAR_END -->"
+
+SIDEBAR_HTML = """
+  <aside class="siw-sidebar" id="siw-sidebar">
+    <div class="siw-sidebar-inner">
+      <a href="/story-in-work/index.html" class="siw-brand">DER RISS</a>
+      <nav class="siw-nav">
+        <a href="/story-in-work/index.html" class="siw-link" data-page="siw-index">Trilogie</a>
+        <a href="/story-in-work/zeitleiste.html" class="siw-link" data-page="zeitleiste">Zeitleiste</a>
+        <a href="/architektur.html" class="siw-link" data-page="architektur">Architektur</a>
+        <a href="/status/" class="siw-link" data-page="status">Kapitel-Status</a>
+        <div class="siw-section">Layer 1 — Welt</div>
+        <a href="/canon/?doc=00-welt" class="siw-link siw-sub">Weltbibel</a>
+        <a href="/story-in-work/moragh-karte.html" class="siw-link siw-sub" data-page="moragh-karte">Moragh-Karte</a>
+        <a href="/canon/?doc=00-canon-kompakt" class="siw-link siw-sub">Kanon kompakt</a>
+        <div class="siw-section">Layer 2 — Regeln</div>
+        <a href="/canon/?doc=01-autorin-stimme" class="siw-link siw-sub">Autorin-Stimme</a>
+        <a href="/canon/?doc=02-stilregeln-v2" class="siw-link siw-sub">Stilregeln</a>
+        <a href="/canon/?doc=01-referenz-konkretheit" class="siw-link siw-sub">Konkretheit</a>
+        <a href="/canon/?doc=10-magie-system" class="siw-link siw-sub">Magie-System</a>
+        <a href="/canon/?doc=20-moragh-talente" class="siw-link siw-sub">Moragh-Talente</a>
+        <a href="/canon/?doc=18-thar-magitech" class="siw-link siw-sub">Thar-Magitech</a>
+        <div class="siw-section">Layer 3 — Figuren</div>
+        <a href="/story-in-work/charaktere.html" class="siw-link siw-sub" data-page="charaktere">Hauptfiguren</a>
+        <a href="/canon/?doc=21-moragh-gesellschaft" class="siw-link siw-sub">Fraktionen</a>
+        <a href="/canon/?doc=22-moragh-figuren" class="siw-link siw-sub">Nebenfiguren-Index</a>
+        <div class="siw-section">Layer 4 — Story</div>
+        <a href="/canon/?doc=00-storyline" class="siw-link siw-sub">Trilogie-Bogen</a>
+        <a href="/canon/?doc=synopse-b1" class="siw-link siw-sub">Synopse Buch 1</a>
+        <a href="/canon/?doc=synopse-b2" class="siw-link siw-sub">Synopse Buch 2</a>
+        <a href="/canon/?doc=synopse-b3" class="siw-link siw-sub">Synopse Buch 3</a>
+        <a href="/canon/?doc=12-buch3-konzept" class="siw-link siw-sub">Buch 3 — Konzept</a>
+        <div class="siw-section">Layer 6 — Aktpläne</div>
+        <a href="/canon/?doc=02-akt1" class="siw-link siw-sub">B1 Akt I–IV</a>
+        <a href="/canon/?doc=06-buch2-akt1" class="siw-link siw-sub">B2 Akt I–IV</a>
+        <a href="/canon/?doc=14-buch3-akt1" class="siw-link siw-sub">B3 Akt I–IV</a>
+        <div class="siw-section">Material</div>
+        <a href="/story-in-work/leseproben.html" class="siw-link siw-sub" data-page="leseproben">Leseproben</a>
+        <a href="/story-in-work/kanon.html" class="siw-link siw-sub" data-page="kanon">Kanon-Index</a>
+        <a href="/canon/" class="siw-link siw-sub" data-page="canon">Kanon-Leser</a>
+      </nav>
+    </div>
+  </aside>
+  <button class="siw-burger" id="siw-burger" aria-label="Menü öffnen"><span></span><span></span><span></span></button>
+  <div class="siw-overlay" id="siw-overlay"></div>
+"""
+
+
+def inject(content: str) -> str:
+    """Setzt body class und ersetzt/injiziert das Sidebar-Markup."""
+    # Body-Class setzen
+    content = re.sub(
+        r'<body(?:\s+class="([^"]*)")?>',
+        lambda m: '<body class="siw-with-sidebar">'
+        if not m.group(1)
+        else (
+            f'<body class="{m.group(1)}">'
+            if "siw-with-sidebar" in m.group(1)
+            else f'<body class="{m.group(1)} siw-with-sidebar">'
+        ),
+        content,
+        count=1,
+    )
+
+    block = f"{SIDEBAR_START}{SIDEBAR_HTML}{SIDEBAR_END}"
+
+    if SIDEBAR_START in content and SIDEBAR_END in content:
+        # Re-injection: Marker-Block ersetzen
+        pattern = re.compile(
+            re.escape(SIDEBAR_START) + r".*?" + re.escape(SIDEBAR_END), re.DOTALL
+        )
+        content = pattern.sub(block, content, count=1)
+    else:
+        # Erstinjection: nach <body...> einfuegen
+        content = re.sub(
+            r"(<body[^>]*>)",
+            r"\1\n" + block,
+            content,
+            count=1,
+        )
+
+    return content
+
+
+def main() -> None:
+    for page in PAGES:
+        if not page.exists():
+            print(f"  SKIP (fehlt): {page.relative_to(ROOT)}")
+            continue
+        original = page.read_text(encoding="utf-8")
+        updated = inject(original)
+        if updated == original:
+            print(f"  unchanged: {page.relative_to(ROOT)}")
+        else:
+            page.write_text(updated, encoding="utf-8")
+            print(f"  updated:   {page.relative_to(ROOT)}")
+
+
+if __name__ == "__main__":
+    main()
