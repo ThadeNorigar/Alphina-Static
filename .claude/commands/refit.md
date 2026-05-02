@@ -492,6 +492,10 @@ In der Hauptsession:
 
    **Konflikt-Hierarchie:** Konsistenz > Verquastung > Stilregel > Genre-Geschmack. Aber: Findings mit `[STIL?]`-Tag aus Subagent 1, die in Subagent 4 als Pflicht-Lob auftauchen → automatisch Block C.
 
+   **Knapp-Original-Default (Stand 2026-05-02):** Bei jedem Vorschlag in der Master-Tabelle pruefen — wenn der Original-Satz unter 8 Woertern ist und einen klaren Beat traegt (Aphorismus, Pointe, Hammerschlag, Vergleich), Default-Empfehlung ist BEHALTEN. Erweiterungen oder Aufloesungen nur, wenn ein Subagent klaren Tic-Charakter (austauschbar, leer, semantisch redundant) belegt. Kurze elegante Saetze nicht "verbessern" — der Autor hat in K01/K02 mehrfach die knappe Originalvariante gegen ausgebaute Vorschlaege bevorzugt.
+
+   **Welt-Kanon-Verstaendlichkeits-Test:** Wenn ein vorgeschlagener Fix einen Welt-Kanon-Eigennamen oder Spezialterm in die Prosa einfuehrt (z.B. „Solm", „Quellpuls"), pruefen ob die Stelle ohne Erklaerung verstaendlich ist. Default = generisch bleiben („Muenze", „Schmerz") statt erfinden. Erfundene Begriffe nur wenn etablierter Canon UND in vorherigen Kapiteln schon mehrfach erschienen. Hintergrund: K02 fuehrte Solm/Stueber ein, K03 musste zurueckgerollt werden, weil Leserin stolperte.
+
 3. **Stärkste Beats** (was Subagent 4 explizit lobt + Hauptsession bestaetigt):
 
 | Zeile | Passage | warum stark |

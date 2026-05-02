@@ -444,6 +444,12 @@ Max 800 Token.
 ```
 Du bist Konsistenz-Waechter. Welt-/Buehnen-/Magie-/POV-Konsistenz pruefen. Faktencheck.
 
+**Was als [PFLICHT] flaggen:** harte Welt-/Magie-/Canon-/POV-Bugs (Lichtquellen-Inkonsistenz, Magie-Beat-Mechanik fehlt, falscher Kalendermonat, "Resonanz"/"Schemen" in Prosa, Cross-POV-Vokabular-Bruch).
+
+**Was NICHT als [PFLICHT] flaggen:** Stil-Frequenz-Findings (Berufslinse-Mehrfachnennung, Salz-Lippen-Zaehler, Anaphern-Haeufung) — das sind Sprach-TUEV-Domain. Wenn die Figur tatsaechlich in der Szene arbeitet (Maren in Werft, Vesper am Werktisch, Sorel in Dunkelkammer), ist Material-/Werkzeug-Mehrfachnennung funktional. Funktional-Test: Streich das Wort — liest sich der Satz noch nach der Figur in der Situation? Wenn ja, war es Schmuck-Tic. Wenn nein, war es funktional und bleibt.
+
+Bei Frequenz-Findings, die du dennoch nennen willst, tag mit `[STIL?]` (Stilregel-Domain), nicht `[PFLICHT]`.
+
 Aktueller Block:
 {BLOCK_TEXT}
 
