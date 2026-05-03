@@ -131,6 +131,33 @@ Pro Hauptfigur sicherstellen, dass jedes Schlüssel-Erlebnis als Zeitleisten-Eve
 
 ---
 
+### §10 Cleanup — Status: ✓ erledigt 2026-05-03
+
+**Chronologie-Klärung:** §10 stammt aus der ersten Plot-Vorstellung 2026-04-09 (Schweige-Verrat als alleiniger Hebel, Naht-Maschine, stiller Abschiedstod). Drei Refactor-Wellen haben sie überholt:
+- 2026-04-18 `058faf9`: B2-B3 Akt-IV-Rewrite + Varen-Charakter-Konsolidierung
+- 2026-04-29 `1ad33ee`: B3-Umnummerierung K41–K80 → K01–K40
+- 2026-05-02 `9fafd0c`: B2-K01–K46 voll-geklopft + synopse-b3 last_update
+
+Master ist jetzt `synopse-b3.md` mit:
+- Bruch in Akt III durch Vespers Velmar-Dokument-Entschlüsselung + Schreibtisch-Satz „Sorels Nutzen liegt im Sterben"
+- Akt IV Duell mit Drei-Finger-Verlust, Vesper-Unterarm-Zerkochen, Register-Bruch, Garten-Reveal, Dornen-Tötung
+- Keine Naht-Maschine. Keine stille Abschieds-Sterbe-Szene.
+
+**Drei dramaturgische Beats aus §10 gerettet:**
+- *„Jeder Kuss eine Lüge durch Auslassung"* → `pov/alphina.md` Tschechow (Captivity-Phase + Akt-III-Rückblick)
+- *„Den Unfall verzeiht sie. Die Berechnung darunter nicht."* → `pov/alphina.md` (Charakter-Achse Varen-Bezug)
+- *„Varen weiß, was die Farbe bedeutet, und fragt nie — Ehrlichkeit würde sein Spiel kippen."* → `19-varen.md` §1 (Stimm-Profil-Anker)
+
+**Verworfen (alte Mechanik):** „Schweige-Verrat als alleiniger Hebel" / „Verzeiht Unfall nicht das Schweigen" / „Bleibt körperlich, bricht emotional" / „Naht-Maschine" / „Stiller Abschiedstod".
+
+**Sektion §10 in `19-varen.md` reduziert auf einen Verweis-Stub mit aktueller Akt-III/IV-Linie + ausdrücklichem Hinweis auf die überholte Naht-Maschine.**
+
+**Zeitleiste-Verankerung geprüft:** Alle B3-Schlüsselbeats sind in `zeitleiste.json` verankert (K23 Schreibtisch-Satz, K24 Maren-Brief, K25 Torkal-Verlassen, K35 Halsband-Aktivierung, K36 Vesper-Arm, K37 Register-Bruch + „Garten" + Todesstoß, K38 Portal-Kollaps, I3 Maren-Tod 2037 TZ). Keine Lücken.
+
+**§9–§11 in `19-varen.md` insgesamt: ✓ vollständig konsolidiert.** `19-varen.md` ist jetzt Varen-zentriert mit knappen Verweisen auf die Master-Files für Sorel-Tod, Alphina-B2-Bogen, B3-Bruch und Farblogik.
+
+---
+
 ### §11 Cleanup — Status: ✓ erledigt 2026-05-03
 
 **Drei Beats nach `pov/alphina.md` Zorn-Farbpalette gerettet:**

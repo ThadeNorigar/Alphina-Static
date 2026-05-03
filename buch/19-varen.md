@@ -40,6 +40,10 @@ Stimm-Beispiel B1-K38 (Abgang am Steinplatz, vor seinem Rückzug): *„Euer Freu
 
 Stimm-Beispiele B2 Captivity (nach dem Mar-Keth-Geständnis, beim Vorzeigen abgefangener Bund-Kommunikation): *„Der Bund benutzt meine Methode — meine versehentliche Entdeckung — als Waffe."* + *„Ich muss sie stoppen. Und ich muss die toten Quellen reparieren."* — zwei kurze Sätze als Argumentations-Achse für die Bekehrung. Mar-Keth wird zugegeben (als Forschungsfehler), das Macht-Motiv verschwiegen — aus dem Unfall wird eine Mission, an die Alphina glauben kann.
 
+**Was er weiß und nicht aussprechen kann:** Varen registriert Alphinas Anti-Flora-Farbe in jeder Reparatur-Sitzung — schwarze Wurzeln unter dem Bett, blutrote Blüten an ihrem Rücken. Er weiß, was die Farbe bedeutet (sie wird zu einer Moragherin, ihr Körper passt sich schneller an als ihr Bewusstsein). Er fragt nie. Eine Frage würde Ehrlichkeit erzwingen, und Ehrlichkeit würde sein Spiel kippen. Sein eigenes Schweigen ist nicht Diskretion, sondern Selbstschutz. Stimm-Profil-Anker: er sagt selten, was er sieht; wenn er es sagt, hat er es kalkuliert.
+
+Register-Bruch in B3-K37 (vor dem Todesstoß, als die Manipulation kollabiert): *„Kleine naive Alphina. Du warst sauberer zu lesen als Sorel. Ich habe dich nie angesehen. Nur deinen Frequenzwert."* Plus das Stolperwort *„Sie starb in der Küche."* — der Forscher-Ton kippt erst hier in den Charakter-Verlust. Sein letztes Wort beim Sterben: *„Garten."*
+
 **Neugier:** **Wissbegierig** bis zur Obsession. Liest Alphina wie ein Buch. Stellt präzise Fragen zu ihrer Resonanz, ihren Pflanzen, ihren Erinnerungen. Macht Notizen. Zeigt ihr die Notizen. Alphina fühlt sich **gesehen** auf eine Art, die weder Sorel noch Vesper konnten — weil Varen ein Forscher ist und sie zu seinem Forschungsgegenstand geworden ist. Das fühlt sich zuerst an wie Liebe. **Teile davon sind echt.** Er bewundert sie wirklich. Das macht die Manipulation grausamer — weil sie echte Züge trägt, die er für seinen Zweck instrumentalisiert.
 
 **Fraktionsstatus:** Aus Velmar **verdeckt ausgestoßen** — ohne öffentliche Anklage, ohne Gerichtsverfahren, ohne Eintrag in Velmar-Registern. Die Velmar-Binder-Elite weiß was er getan hat und schweigt. Der Rest der Velmar ahnt "da war etwas" und fragt nicht nach. Die anderen Fraktionen (Bund, Thar, freie Städte) **wissen nichts von ihm** — kennen seinen Namen nicht, haben ihn nie mit dem Quellen-Kollaps in Verbindung gebracht.
@@ -289,35 +293,21 @@ Die alte Schweige-Verrat-Variante (kein Geständnis in B2, Rahmung als Naturkata
 
 ---
 
-## 10. Buch 3 — Der Bruch durch Schweigen
+## 10. Buch 3 — Bruch und Tod (verlagert)
 
-**Der Hybrid-Geständnis-Ansatz:** Varen verschweigt die Schuld in Buch 2. In Buch 3 bricht sie auf. **Nicht durch sein Geständnis — durch Fremdaufdeckung.**
+Master ist `synopse-b3.md`. Aktuelle Linie:
 
-**Wie es aufbricht:**
-- Vesper (bei den Thar, Mustererkenner) rekonstruiert aus alten Velmar-Archiven und Thar-Kopplungsdaten, dass das Experiment das den Krieg auslöste **kein Naturereignis** war. Er sieht das Muster. Er rechnet zurück. Er findet den Zeitpunkt: MZ -5. Er findet den Ort: Mar-Keth. Er findet den Namen: Varen. Aber erst spät in Buch 3.
-- Oder: Runa (beim Bund oder später beim Thar-Konglomerat, aufsteigend) entdeckt abgefangene Velmar-Kommunikation, in der Binder von Varens Fehler sprechen. Sie bringt es zu Alphina.
-- Oder: Elke bricht ihr Schweigen. Sie hat es seit MZ -1 gewusst. Wenn die Vier sich spalten und Alphina an Varens Seite ist, kann Elke ihre Stille nicht mehr halten. Sie geht zu Alphina und sagt: "Ich muss dir etwas erzählen. Vor einem Jahr hatte ich einen Geliebten. Er hat mir Thalassisch beigebracht, und ich ihm. Sein Name ist Varen. Und er hat drei Quellen getötet."
+- **Bruch in B3 Akt III** durch Vespers Entschlüsselung des Velmar-Ritual-Dokuments (Alphinas Name als Rechengröße) plus Alphinas Fund im Schreibtisch des Quartiers: *„Die Trauer macht sie stärker. Sorels Nutzen liegt im Sterben."* Sie verlässt Torkal ohne Drama.
+- **Akt-IV-Duell:** Varen ruft einen aufgeladenen Schemen mit Bindungs-Talent, der Vespers linken Unterarm von innen verkocht. Alphinas Resonanz explodiert aus Wut — drei Finger der linken Hand werden durch ihre eigenen Dornen abgesprengt (Mittel-, Ring-, kleiner Finger bis Mittelglied). Sie kniet, Varen kniet vor ihr: *„Liebe Alphina. Es ist vorbei."* Sie beißt ihm in die Hand.
+- **Register-Bruch:** *„Kleine naive Alphina. Du warst sauberer zu lesen als Sorel. Ich habe dich nie angesehen. Nur deinen Frequenzwert."* Dann sein Stolperwort: *„Sie starb in der Küche."* — Garten-Reveal: Elkes Tod, nicht Talvens.
+- **Todesstoß:** Sie hebt die rechte Hand. Zwei Dornenspieße durch Varens Lungen. Letztes Wort: *„Garten."* In seinem Mantel findet sie Elkes Basalt-Splitter.
 
-**Welcher Weg — offene Entscheidung.** Ich würde Elke nehmen. Das schließt zwei Tschechow-Bomben gleichzeitig: Elkes Geheimhaltung und Varens Verschweigen. Und es gibt Alphina einen Menschen, an den sie sich wenden kann, der Varen besser kennt als sie selbst.
+Die alte Schweige-Verrat-Linie (kein Geständnis B2, stiller Abschiedstod an Naht-Maschine) ist überholt — sie stammt aus der ersten Plot-Vorstellung 2026-04-09 und wurde durch die Refactor-Wellen 2026-04-18 (Akt-IV-Rewrite), 2026-04-29 (B3-Umnummerierung) und 2026-05-02 (voll-Klopfen) abgelöst. **Es gibt keine Naht-Maschine.**
 
-**Was Alphina erfährt:**
-1. Varen hat das Experiment durchgeführt. Absicht war gut (magiefreie Zonen besiedelbar machen). Ergebnis war furchtbar.
-2. Drei Quellen tot. 200.000 Menschen heimatlos. Der Krieg begann wegen ihm.
-3. **Und er hat es ihr verschwiegen.** Jeden Tag. Jeder Kuss. Jede Nacht.
-
-**Die Schlüsselerkenntnis: Der Verrat ist das Schweigen, nicht der Akt.**
-
-Alphina kann mit dem Unfall umgehen. Sie selbst hat eine Quelle getötet — absichtlich, in voller Klarheit. Ein Unfall wäre ihr in gewisser Weise eine Erleichterung — "wir sind beide Täter, beide Versehen, beide kaputt". Das wäre die Schuld-Spiegelung gewesen.
-
-Aber: **er wusste es.** Von Anfang an. Er hat sie in seine Arme geholt, während er wusste, dass er der Grund für den Krieg ist, der Grund für ihren Hass, der Grund für Sorels Tod (indirekt — er hat Sorel nicht absichtlich getötet, aber er hat die Situation geschaffen in der Sorel sterben musste). Er hätte es sagen können. Jeden Tag. Er hat es nicht gesagt.
-
-**Jeder Kuss war eine Lüge durch Auslassung.** Jede Nacht, in der sie ihm ihren Rücken gegeben hat, war eine Nacht in der er schwieg. Jedes Gespräch über die Reparatur der Quellen war ein Gespräch in dem er das wichtigste Wort zurückhielt: **"ich"**.
-
-**Alphinas Reaktion (offen):**
-- Sie verzeiht ihm den Unfall. Sie kann nicht anders — sie ist selbst Täterin.
-- Sie verzeiht ihm **nicht** das Schweigen. Das Schweigen macht ihn zu einem anderen Menschen als dem den sie geliebt/benutzt hat.
-- Ob sie **bleibt** oder **geht** — das ist die offene Frage für Buch 3. Mein Vorschlag wäre: sie bleibt körperlich an seiner Seite (die Quellen-Reparatur braucht ihn, sie will den Krieg beenden), aber sie bricht emotional mit ihm. Sie schläft nicht mehr mit ihm. Sie redet nur noch über die Arbeit. Sie lässt ihn wissen dass sie weiß. Er akzeptiert den Bruch und hofft im Stillen dass sie zurückkommt. Sie kommt nicht zurück.
-- Am Ende Buch 3 stirbt Varen webend (Naht-Maschine, Quellen-Reparatur). Alphina ist dabei. Sie berührt ihn beim Sterben. Sie sagt nichts. Er sagt nichts. Das Schweigen ist gegenseitig, aber anders als das Schweigen in Buch 2. Dort war es Verrat. Hier ist es Abschied.
+Aus der alten Sektion gerettete dramaturgische Beats:
+- *„Jeder Kuss eine Lüge durch Auslassung"* als Tonfall-Anker — verlagert nach `pov/alphina.md` (Captivity-Phase B3 Akt I + Rückblick Akt III).
+- *„Den Unfall verzeiht sie. Die Berechnung darunter nicht."* als Charakter-Achse — verlagert nach `pov/alphina.md`. Alphina hat selbst Quellen getötet (Wegquelle K26 + Halvara-Kel K27), kann mit Mit-Täterschaft leben; was sie nicht verzeiht, ist die kalte Instrumentalisierung (Sorels Nutzen, Elkes Mord, ihr eigener Frequenzwert).
+- Varens stilles Wissen, dass Ehrlichkeit ihn entlarven würde — verlagert nach §1 unten als Stimm-Profil-Notiz.
 
 ---
 
