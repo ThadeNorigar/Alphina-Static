@@ -87,7 +87,7 @@ Vesper-Skepsis am Bund startet hier. Nyr legt den Boden für seine Defektion zur
 
 **B2-K23 Thar-Kem als Stratege:** Vesper kommt mit Nyr in der Thar-Hauptstadt an, wird informeller Stratege (Schachspieler-Kopf). Niemand traut ihm voll, alle nutzen ihn. Nyr ist seine Kontaktperson, sein Tor zu den Magitech-Werkstätten.
 
-**B2-K27 Halvara-Kel-Schlacht:** Nyr führt die Thar-Linie, Druck-Wellen gegen die Bund-Vorhut. Varen ist als Bund-Soldat in der Bund-Linie getarnt, fängt Nyrs Druckwellen ab — sie merkt nicht, was wirklich passiert, weil sie auf Bund-Tarnung fokussiert ist.
+**B2-K27 Halvara-Kel-Schlacht:** Nyr führt die Thar-Verteidigung, Druck-Wellen gegen die anrückende Bund-Vorhut. Varen ist als Bund-Soldat in der angreifenden Linie getarnt (plus 2–3 Velmar-Deserteure) und fängt Nyrs Druckwellen reaktiv ab — Nyr registriert die unnatürliche Abwehr, kann sie aber nicht zuordnen, weil sie sie für Bund-Magie hält. Erst Vesper rekonstruiert das Muster später aus Thar-Kem-Daten.
 
 **B2 Phase 4 (K41–K43) Sulkara-Aufmarsch:** Drael + Nyr schicken eine **gemeinsame Beobachtungs-Vorhut** zur Sulkara-Quelle (Bund-Faktion droht mit politischer Überladung). Nyr arbeitet zum ersten Mal außerhalb des Krieges mit dem Bund — Vorgeschmack ihrer B3-Defektion. Erste Risse in der Loyalität, weil sie sieht, wie politische Befehle Quellen-Gemeinden gefährden.
 
@@ -109,7 +109,9 @@ Vesper bleibt zunächst, fokussiert sich später auf Alphinas Rettung (siehe `po
 
 **B3-K38 Schlacht-Ende:** Alphina lässt Vesper bei Nyr zurück und schleicht zum Steinplatz. Nyr hält die Stellung um Vesper.
 
-**B3-K39 Verlust:** Nach Portal-Kollaps liegt **Kessler auf dem Schlachtfeld zurück**. **Nyr trauert.** Eine Moragh-Woche Rast für die Gruppe. Vesper-Amputation des linken Unterarms mit Runas Feuer-Klinge.
+**B3-K39 Verlust:** Nach Portal-Kollaps liegt **Kessler schwer beschädigt auf dem Schlachtfeld zurück** — Reservoir-Kern ausgebrannt, Stahl verzogen, aber tragend. **Nyr trauert um den verletzten Partner.** Eine Moragh-Woche Rast für die Gruppe. Vesper-Amputation des linken Unterarms mit Runas Feuer-Klinge.
+
+**Zwischen K39 und Epilog:** Kessler wird in den folgenden Wochen geborgen und in einer Thar-Werkstatt repariert (Reservoir-Kern erneuert, Panzerung gerichtet). Nach dem Krieg überführt Nyr ihn nach Halvek-Mar.
 
 ---
 
@@ -134,7 +136,7 @@ Vesper bleibt zunächst, fokussiert sich später auf Alphinas Rettung (siehe `po
 
 ## Verworfen aus dem 2026-04-Stand
 
-Drei Plot-Elemente aus dem Anfangs-Stand (5. April 2026) sind durch spätere Refactor-Wellen abgelöst:
+Vier Plot-Elemente aus dem Anfangs-Stand (5. April 2026) sind durch spätere Refactor-Wellen abgelöst:
 
 - **„Vesper hat uns verkauft" / Verrats-Plot in B2:** Vesper geht freiwillig zur Thar als Stratege, gibt aber nicht aktiv die Position der anderen preis. Maren erfährt nichts dergleichen — sie spürt den Wasserweg-Riss bei Dravek selbst und geht in B2-K39 solo zurück nach Thalassien. Maren und Vesper sehen sich nie wieder; Maren stirbt 2037 TZ in B3-I3 (Verwüster-Angriff).
 - **Bauplan-Konfrontation „FICK die Rechnung" / Fünfzehn-Sekunden-Szene:** Aktuelle Linie (synopse-b3 K29) ist eine **friedliche Verabschiedung** wegen Zivilisten-als-Schild-Befehlen. Nyrs Pilotin-Selbstbild bleibt als innere Linie (siehe oben), aber ohne Konfrontations-Dramaturgie.
