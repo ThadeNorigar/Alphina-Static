@@ -125,7 +125,7 @@ Varens Anhänger greifen an. Die Gruppe zersplittert:
 - **Tyra** am Nordrand, mit ihrer Schall-Resonanz, stellt Stille-Zonen her, in denen Varens Schemen-Koordination nicht mehr funktioniert (sie hörtseine Stimmung über die Bindung dämpfen).
 - **Runa + Iven** am südlichen Anmarsch — Runa setzt Feuer-Sprengsätze an Felsen, die den Zirkel umkreisen. Iven hat Expedition-1-Tech-Reste (ein kleines Funkgerät mit Generator) als Lock-Mittel für Expedition-Drohnen, die im späteren Gefecht kommen werden.
 
-**Alphina + Vesper vorn.** Direkt vs. Varen + 10 engste Anhänger. Vesper trägt den Temporal-KI-Helm (er hat ihn mitgenommen, gegen Thar-Vorschriften). Damit sieht er die Angriffe ~3 Sekunden voraus. Er ruft Kommandos an Alphina: *„Links, drei Sekunden, Feuer-Stoß."* Sie duckt sich, lässt Dornen wachsen, fängt den Stoß ab.
+**Alphina + Vesper vorn.** Direkt vs. Varen + 10 engste Anhänger. Vesper sieht die Angriffe ~3 Sekunden voraus — durch seine eigene Zeit/Muster-Resonanz, die er in den Thar-Werkstätten kalibriert hat (kein Hilfsmittel; das frühere Konzept eines Temporal-KI-Helms ist gestrichen, Memory `project_moragh_keine_technologie.md`). Er ruft Kommandos an Alphina: *„Links, drei Sekunden, Feuer-Stoß."* Sie duckt sich, lässt Dornen wachsen, fängt den Stoß ab. Der Preis ist Vespers Erschöpfung — Kopfschmerzen, Hände zittern, jede Stunde tiefer Mustererkennung zerrt am Körper.
 
 **Der Tag endet unentschieden.** Drei von Varens Anhängern tot. Vier Gruppen-Leute verletzt (keine Toten). Kessler hat einen Kratzer in der rechten Flanke. Iven ist erschöpft, hat zwei Mal Nasenbluten. Tyra: Stimme heiser.
 

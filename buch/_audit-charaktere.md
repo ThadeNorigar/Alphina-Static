@@ -154,6 +154,32 @@ Master ist jetzt `synopse-b3.md` mit:
 
 **Zeitleiste-Verankerung geprüft:** Alle B3-Schlüsselbeats sind in `zeitleiste.json` verankert (K23 Schreibtisch-Satz, K24 Maren-Brief, K25 Torkal-Verlassen, K35 Halsband-Aktivierung, K36 Vesper-Arm, K37 Register-Bruch + „Garten" + Todesstoß, K38 Portal-Kollaps, I3 Maren-Tod 2037 TZ). Keine Lücken.
 
+---
+
+### Moragh-keine-Technologie / KI-Cleanup — Status: ✓ erledigt 2026-05-03
+
+**User-Verbot:** Moragh verwendet keine Technologie. Auch nicht aus den Expeditionen. Keine KI in Moragh.
+
+**Memory-Eintrag angelegt:** `project_moragh_keine_technologie.md` mit klarem Verbot. Vespers Helm-Frage gelöst (Option B): er sieht Bindungs-Sigil durch eigene Zeit/Muster-Resonanz, kein Hilfsmittel.
+
+**7 Files gepatcht:**
+
+| File | Patch |
+|---|---|
+| `10-magie-system.md` Z.282 | „Vesper + KI" gestrichen |
+| `10-magie-system.md` Z.402–404 | Computer-Beat raus, Iven-Transformator als Sabotage explizit + Memory-Verweis |
+| `10-magie-system.md` Z.428 | „Zeit + Strom — KI-Interaktion" → „Iven-Sabotage durch Transformator" (Vesper analysiert, Iven schaltet aus) |
+| `10-magie-system.md` Z.442 | „Zeit + Strom + Feuer — Tech-Magie-Fusion" → gestrichen-Markierung |
+| `zeitleiste.json` B3-K16 | Titel + Detail komplett umgeschrieben — Vesper sieht durch eigene Resonanz, kein Helm. Tag „Temporal-KI-Helm" → „Bindungs-Sigil-Sicht (Resonanz)" |
+| `zeitleiste.json` B3-K35 | Detail „Vespers Schemen-Angriff zielt auf seinen Temporal-Helm" → „Vespers Zeit/Muster-Resonanz lokalisiert das Bindungs-Sigil als pulsierendes Strukturmuster" |
+| `08-buch2-akt3.md` Z.93 | „Vesper hat den Temporal-Helm noch nicht (kommt B3)" → Resonanz-Kalibrierung an Magitech |
+| `14-buch3-akt1.md` Z.308 | „Temporal-KI-Schulung" → Resonanz-Kalibrierung |
+| `15-buch3-akt2.md` Z.17, 105–127, 400 | komplette Kap-13-Beschreibung neu (kein Helm-Labor, sondern Werkstatt-Übung); Tschechow-Tabelle aktualisiert |
+| `16-buch3-akt3.md` Z.24 | „Temporal-KI-Helm wird weniger eingesetzt" → „Wechsel ohne Thar-Akten" |
+| `17-buch3-akt4.md` Z.128 | „Vesper trägt den Temporal-KI-Helm" → eigene Resonanz, Memory-Verweis |
+
+**Was Canon bleibt (Thalassien-Expedition):** Drohnen, Bodymods, Exoskelette, Killermaschinen, Resonanz-Modulator, Neural-Interface-Prototyp — alles Pierce-Brown-Register, Thalassien-Tech durch Portal. Wird nicht von Moragh adoptiert. Iven nutzt geborgenen Transformator nur als **Sabotage-Werkzeug** (vier Resonanz-Pulse → Drohnen-Schwarm aus), nicht als Adoption.
+
 **§9–§11 in `19-varen.md` insgesamt: ✓ vollständig konsolidiert.** `19-varen.md` ist jetzt Varen-zentriert mit knappen Verweisen auf die Master-Files für Sorel-Tod, Alphina-B2-Bogen, B3-Bruch und Farblogik.
 
 ---

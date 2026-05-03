@@ -21,7 +21,7 @@ Moragh-Zeit: Monat 7,5 bis 9. Thalassien-Zeit: ~2070 bis 2120 TZ — 50 Jahre Vo
 
 **Ton:** Thriller-Tempo. Jede Szene bricht mit der vorigen. Alphinas Weltbild kippt stückweise. Der Leser kippt mit ihr — aber weiß mehr als sie. Das Kriegs-Szenario baut sich am Rand auf: die Expedition 2 ist am Horizont, bevor sie durchkommt.
 
-**Magie-Register:** Talvens Schemen-Reaktion wird sichtbar — ungebundene Schemen lösen sich in seiner Gegenwart auf. Vespers Temporal-KI-Helm wird weniger eingesetzt (er geht durch den Wechsel in die freien Städte zurück ohne Thar-Technik). Alphinas Resonanz beginnt blühende Dornen zu zeigen — Übergangssignal.
+**Magie-Register:** Talvens Schemen-Reaktion wird sichtbar — ungebundene Schemen lösen sich in seiner Gegenwart auf. Vesper geht durch den Wechsel in die freien Städte zurück ohne Thar-Akten — seine Zeit/Muster-Resonanz trägt die Analyse-Arbeit weiter, ohne externe Hilfsmittel. Alphinas Resonanz beginnt blühende Dornen zu zeigen — Übergangssignal.
 
 ---
 

@@ -90,7 +90,7 @@ Vesper bei den Thar in Thar-Kem (Konglomerats-Hauptstadt). Er sitzt in den Krieg
 
 **Bund-Gegenoffensive im Hintergrund:** Während Vesper hier sitzt, läuft die Bund-Antwort auf den Thar-Angriff von K7 an. Bund holt Narthek zurück (drei Wochen blutiger Häuserkampf, ~5.000 Tote auf beiden Seiten). Thar-Front zieht sich nach Osten zurück. **Halvara-Kel** wird neue Thar-Frontstadt — kleine Quellen-Stadt im Bund-Vorfeld, jetzt Thar-Hauptmacht. Vesper sieht die Verschiebung auf den Karten. Er weiß: dort wird die nächste Schlacht sein.
 
-Plus: Vesper hat den Temporal-Helm noch nicht (kommt B3). Aber er fängt an, mit Nyrs Hilfe, Thar-Magitech zu studieren — was ist Resonanz-Druck, wie bauen sie die Bestien, was ist die Stelle wo Mensch-und-Maschine sich verbindet.
+Plus: Vesper fängt an, mit Nyrs Hilfe, Thar-Magitech zu studieren — was ist Resonanz-Druck, wie bauen sie die Bestien, was ist die Stelle wo Mensch-und-Maschine sich verbindet. Aus diesem Studium kalibriert er später (B3) seine eigene Zeit/Muster-Resonanz fein genug, um Bindungs-Sigil ohne Hilfsmittel zu sehen. (Frühere Konzept eines Temporal-KI-Helms ist gestrichen — Memory `project_moragh_keine_technologie.md`.)
 
 **Tschechow:** er notiert, dass die Velmar-Akten in der Thar-Bibliothek **fehlen** — Velmar gibt der Thar nichts. Velmar ist beiden Fraktionen verschlossen. Setup für seine Logik-Kette in K27.
 

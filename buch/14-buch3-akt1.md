@@ -305,7 +305,7 @@ Alle Stränge müssen in Akt II zusammenlaufen:
 - Die Expedition kooperiert nicht → blutiges Scheitern, Verwüster-Antwort
 - Talven beginnt mit dem Buch → Schemen-Binden + Blutmagie
 - Varen ermordet Elke (Schemen) → gefälschte Beweise gegen Talven
-- Vesper sieht die Temporal-KI-Schulung bei Thar kommen
+- Vesper kalibriert seine Zeit/Muster-Resonanz an Thar-Magitech-Werkstätten — sieht zunehmend feinere Strukturen (Vorbereitung für Bindungs-Sigil-Sicht in Akt II)
 - Runa hat genug Material gegen Drael gesammelt
 - Maren erlebt den Verwüster-Angriff auf Vael, stirbt
 

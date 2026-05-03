@@ -14,7 +14,7 @@ Der Wendepunkt in Moragh-Zeit: Monat 6,5 bis 7,5. In Thalassien-Zeit: ~2037 bis 
 - Elke wird ermordet (Varens Schemen). Alphina verdächtigt Talven. Varen pflanzt drei gefälschte Beweise.
 - Talven beginnt mit Blutmagie + Schemen-Binden, radikalisiert sich unter dem Verdacht.
 - Alphina reist heimlich nach Halvaren, versucht Runa zu überzeugen. Drei-Sätze-Absage.
-- Vesper sieht die Thar-Temporal-KI-Ausrüstung und Alphinas Ritual-Kalkül-Erstspuren.
+- Vesper kalibriert seine Zeit/Muster-Resonanz fein an Thar-Magitech-Werkstätten und sieht Alphinas Ritual-Kalkül-Erstspuren (Bindungs-Sigil-Sicht ohne Hilfsmittel).
 
 **Ton:** Dunkler als Akt I. Vom ruhigen Atmen zum leisen Schock. Die Leserin merkt noch nicht, dass Varen der Mörder ist — sie glaubt an einen externen Feind (Bund-Auftragsmord, Thar-Infiltration). Die Gruppe zerbröselt innerlich, ohne dass jemand es sagt.
 
@@ -100,23 +100,21 @@ Das ist Varens einziger echter Satz über sich selbst — der, den er in B2-K32 
 **Tschechow:** Die drei Namen auf der Liste. — Feuert: Akt IV, wenn Vesper das Kalkül entschlüsselt und Alphina an den betroffenen Städten Zeugen findet (Menschen, deren Magier unerklärlich erschöpft sind).
 
 ### Kap. 13 — Vesper + Nyr (S. 275–297, ~5.500 Wörter)
-*Thar-Kem. Der Temporal-KI-Helm.*
+*Thar-Kem. Vesper kalibriert sich an Magitech.*
 
-Thar-Militär-Labor. Vier Techniker entwickeln unter Aufsicht eines Thar-Offiziers einen Prototyp: ein Helm, der Vespers Muster/Zeit-Resonanz verstärken soll. Moragh-eigene Forschung — keine Thalassien-Tech. Basis: Leylinien-Kristalle + Bindungsmagie-Schaltkreise + Vespers persönliche Resonanz-Signatur.
+Thar-Magitech-Werkstatt. Vesper sitzt seit Wochen täglich Stunden bei den Bestien-Kernen, beobachtet Reservoir-Pulsationen, Bindungs-Strukturen, Frequenz-Modulationen. Er ist Mustererkenner — er übt seine Zeit/Muster-Resonanz an einer Materie, die noch komplexer ist als Vaeler Uhren. Die Thar-Kommandantin nutzt ihn als Analytiker, niemand traut ihm voll. (Frühere Konzept eines Temporal-KI-Helms ist gestrichen — Memory `project_moragh_keine_technologie.md`. Moragh hat keine KI. Vesper braucht keinen Helm; seine Resonanz reicht.)
 
-Vesper wird mit dem Helm ausgestattet. Die Thar-Kommandantin beobachtet. *„Stellen Sie sich eine Bund-Truppen-Bewegung vor. In drei Tagen. Was sehen Sie?"*
-
-Vesper schließt die Augen. Der Helm vibriert leise. Für einige Sekunden sieht er — nicht klare Bilder, aber **Wahrscheinlichkeiten**. Ein Vorstoß aus Halvaren nach Osten. Ein Ausweichmanöver nach Süden. Zwei mögliche Treffpunkte.
+Eines Tages: Die Kommandantin fragt ihn nach einer Bund-Truppen-Bewegungsprognose. Vesper schließt die Augen, lässt die Karten hinter den Lidern laufen — nicht klare Bilder, aber **Wahrscheinlichkeiten**. Ein Vorstoß aus Halvaren nach Osten. Ein Ausweichmanöver nach Süden. Zwei mögliche Treffpunkte.
 
 Er öffnet die Augen. *„Sie rücken in drei Tagen aus Halvaren vor. Richtung Osten. Zwei wahrscheinliche Treffpunkte — Dulrath und Halvek."*
 
 Die Kommandantin ist zufrieden. *„Gut. Weiter."*
 
-**Kosten.** Vesper nimmt den Helm ab. Er ist blass, die Hände zittern leicht. Er hat Kopfschmerzen. Sein Verstand fühlt sich an, als hätte er zu lange am offenen Fenster gearbeitet — kalt, zu klar, ausgelaugt. Nyr beobachtet es. Sie schweigt vor den Thar. Spricht ihn erst an, als sie allein sind.
+**Kosten.** Vesper steht auf. Er ist blass, die Hände zittern leicht. Er hat Kopfschmerzen. Sein Verstand fühlt sich an, als hätte er zu lange am offenen Fenster gearbeitet — kalt, zu klar, ausgelaugt. Tiefe Mustererkennung über mehrere Stunden zerrt am Körper, auch wenn Thalassier-Magie keinen Reservoir-Preis hat: die Konzentration kostet. Nyr beobachtet es. Sie schweigt vor den Thar. Spricht ihn erst an, als sie allein sind.
 
-**Nyr abends.** *„Der Helm macht dich krank."*
+**Nyr abends.** *„Was du tust, macht dich krank."*
 
-Vesper: *„Der Helm zeigt mir, was ich ohne ihn nicht rechnen kann. Drei Tage. Zwei Treffpunkte. Das wären sonst Wochen Analyse."*
+Vesper: *„Was ich tue, zeigt mir, was sonst Wochen Analyse wäre. Drei Tage. Zwei Treffpunkte."*
 
 Nyr: *„Und der Preis?"*
 
@@ -124,7 +122,7 @@ Vesper: *„Drei Tage Voraussehen gegen drei Tage Kopfschmerzen. Es ist ein Taus
 
 Nyr sieht ihn an. Sie erkennt: er wählt die Präzision über die eigene Gesundheit. Sie hat das bei Piloten gesehen — die, die Kessler zu lange reiten. Sie sagt nichts. Legt ihm die Hand in den Nacken, hält ihn kurz. Lässt ihn los.
 
-**Tschechow:** Der Temporal-KI-Helm und Vespers Kopfschmerzen. — Feuert: Akt III, wenn er mit dem Helm die Ritual-Geometrie-Wahrscheinlichkeiten bei Varen berechnet.
+**Tschechow:** Vespers Resonanz-Erschöpfung durch tiefe Mustererkennung. — Feuert: Akt III, wenn er die Ritual-Geometrie-Wahrscheinlichkeiten bei Varen berechnet, und Akt IV, wenn er sich am Bindungs-Sigil von Alphinas Halsband fast verbraucht.
 
 ### Kap. 14 — Alphina (S. 297–318, ~5.000 Wörter)
 *Torkal. Die Entscheidung, nach Halvaren zu reisen.*
@@ -399,7 +397,7 @@ Sie packt das Dokument in ihre Innentasche. Morgen reist sie ab.
 | Die Bauern-Karawane mit Nachrichten über Halvara-Kel | 51 | Akt III, wenn Alphina den toten Fels selbst sieht |
 | Esins Brief in Tyras Innentasche | I13 | Akt III, wenn Tyra Alphinas Gruppe erreicht |
 | Varens drei neue Bindungs-Namen (Tormen, Varshek, Narveth) | 52 | Akt IV, wenn Alphina Zeugen in diesen Städten findet |
-| Der Temporal-KI-Helm und Vespers Kopfschmerzen | 53 | Akt III, Ritual-Geometrie-Berechnung |
+| Vespers Resonanz-Erschöpfung durch tiefe Mustererkennung | 53 | Akt III, Ritual-Geometrie-Berechnung; Akt IV, Bindungs-Sigil-Sicht am Halsband |
 | Runas drei Sätze + der vierte | 54 | Akt IV, Reveal |
 | Der Brief an Kelmaris Verask | 55 | Akt III, wenn Drael die Authentizität prüft |
 | Tyras erwachende Schall-Resonanz | 56 | Akt III, erste Schemen-Beschwörung |

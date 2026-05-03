@@ -3701,14 +3701,14 @@
       "buch": "B3",
       "kapitel": "16",
       "leseart": "normal",
-      "titel": "Vesper bekommt Temporal-KI-Helm",
-      "detail": "Thar eigene Forschung. Vesper sieht durch den Helm das Velmar-Bindungs-Sigil an Alphinas Halsband — als Leuchtlinie, die nur in Aktivierungs-Phasen pulsiert. Er beginnt, das Ritual-Kalkül zu entschlüsseln.",
+      "titel": "Vesper sieht das Bindungs-Sigil — Mustererkennung statt Tech",
+      "detail": "Vesper, monatelang in Thar-Kem, kalibriert seine Zeit/Muster-Resonanz immer feiner an Magitech-Werkstaetten. Eines Tages sieht er das Velmar-Bindungs-Sigil an Alphinas Halsband (durch erinnertes Bild aus Halvara-Kel-Bericht): es pulsiert nur in Aktivierungs-Phasen als zeitliches Strukturmuster. Ohne Hilfsmittel, durch reine Resonanz. Er beginnt, das Ritual-Kalkuel zu entschluesseln. Hinweis: Frueheres Konzept eines Bindungs-Sigil-Sicht (Resonanz, kein Hilfsmittel)s ist gestrichen (Memory project_moragh_keine_technologie.md).",
       "typen": [
         "tschechow",
         "wissen"
       ],
       "tags": [
-        "Temporal-KI-Helm"
+        "Bindungs-Sigil-Sicht (Resonanz)"
       ],
       "tz": 832,
       "tz_sort": 832.0,
@@ -4206,7 +4206,7 @@
       "kapitel": "35",
       "leseart": "normal",
       "titel": "Duell Alphina + Vesper vs. Varen — Beginn",
-      "detail": "Drei Kapitel, etwa 15.000 Wörter. Varen in seinem Ring. Alphina und Vesper. Varen aktiviert die Halsband-Bindung über seine Frequenz aus der Distanz — Alphinas Dornen wachsen unter ihrer Haut, der Stahlring glüht matt-violett. Vespers Schemen-Angriff zielt auf seinen Temporal-Helm. Vesper bricht das Halsband im Verlauf des Duells.",
+      "detail": "Drei Kapitel, etwa 15.000 Wörter. Varen in seinem Ring. Alphina und Vesper. Varen aktiviert die Halsband-Bindung über seine Frequenz aus der Distanz — Alphinas Dornen wachsen unter ihrer Haut, der Stahlring glüht matt-violett. Vespers Zeit/Muster-Resonanz lokalisiert das Bindungs-Sigil als pulsierendes Strukturmuster. Vesper bricht das Halsband im Verlauf des Duells.",
       "typen": [
         "krieg",
         "schlüssel"

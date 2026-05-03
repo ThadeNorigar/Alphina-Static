@@ -101,7 +101,16 @@ Das Halsband ist das magisch wirksame Stück — **Lederarmbänder mit Kette zwi
 
 ## Alphina — Zellmanipulation
 
-**Grundprinzip:** Alphina beschleunigt, verlangsamt oder steuert Zellteilung und -regeneration. **Sie kann nur aufbauen — nie zerstören.** Kein Altern, kein Zellabbau, kein Tumor. Ihre Zerstörungswirkung ist immer indirekt (Wurzeln brechen Mauern, Pflanzen ersticken Felder).
+> **TODO Konsolidierung 2026-05-03 (Pre-Check B1-K31):** Folgende Klarstellungen aus Autor-Pre-Check sind in dieser Sektion noch nicht eingearbeitet — Memory-Files sind führend, hier bei nächstem Sweep konsolidieren:
+> - **Mechanik = Zellwachstum auf alle organische Materie** (Memory `project_alphina_zellwachstum.md`). Pflanzen, Mensch, Tier — derselbe Kern-Akt. Spur A (Pflanzen) und Spur B (Heilung) sind organisatorische Anwendungen, mechanisch ein System.
+> - **Steuerung = Form-Vorstellung** (Ziel-Zustand, nicht Befehl). Magie reagiert auf Wille + Bild, nicht auf gesprochene Imperative.
+> - **Reichweite extern = Nahfeld** (Hand auflegen oder kurz davor). **Eigener Körper = ihr eigenes Nahfeld** → kontinuierliche Selbstheilung jederzeit möglich; faktische Unsterblichkeit als Möglichkeit, von ihr nicht genutzt (Charakter-Wahl wie Tumor-Wahl).
+> - **Tumor-Klarstellung:** Tumor ist Wucherung = Zellwachstum übermäßig, nicht Zellabbau. Welt-Regel „nur aufbauen" gilt — Tumor ist aufbauend (technisch), aber Alphina nutzt das nicht. Charakter-Limit, kein Mechanik-Verbot.
+> - **5-Minuten-Regel präzisiert:** sie kann heilen, solange Zellen nicht abgestorben sind. Vollkörper-Reanimation = Stufe 9/10 (B3-Niveau). Standard-Heilung in B1/B2 = lokales lebendiges Gewebe.
+> - **Heat-Echo personenspezifische Pflanzen-Manifestation** (Memory `project_alphina_heat_echo_pflanzen.md`): Sorel = Farne, Varen = Dornenranken mit Purpurblüten, Trauer (K38) = schwarze Dornen mit blut-rotem Blütenrand. Modus A explosionsartig (Sex/Schock), Modus C dezent (aktives Begehren ohne Sex).
+> - **Pflanzen-durch-Stein-Mechanik:** Stein ist inert, sie wirkt nicht direkt auf ihn. Wenn aus Stein etwas hervorbricht, ist es eine Pflanze, die durch organische Substanz IM/UNTER dem Stein wächst und ihn dabei aufbricht. Tote organische Materie (Hose-Leinen, Bettwäsche) reagiert ebenfalls nicht (Memory `project_stein_quellen_pflanzen_resonanz.md`).
+
+**Grundprinzip:** Alphina beschleunigt, verlangsamt oder steuert Zellteilung und -regeneration. **Sie kann nur aufbauen — nie zerstören.** Kein Zellabbau (Tumor ist aufbauende Wucherung — technisch möglich, charakterlich gemieden). Ihre Zerstörungswirkung ist immer indirekt (Wurzeln brechen Mauern, Pflanzen ersticken Felder, Tumor wuchert Träger zu Tode).
 
 **Universelle Regel:** Alle Leben-Talente (Pflanzen, Heilung, Fauna) wirken nur aufbauend — das ist nicht Alphinas Besonderheit, sondern Welt-Regel. Jeder Moragh-Pflanzen- oder Heilungs-Begabter unterliegt derselben Grenze. Siehe `20-moragh-talente.md`.
 
@@ -270,7 +279,6 @@ Die Resonanz (subtile Effekte):
 - Pflanze altert ganzen Lebenszyklus in einem Atemzug.
 - Dämonen altern 100 Jahre in Sekunden.
 - **Menschen altern: MÖGLICH.** Er wählt es selten. Die Grenze ist moralisch, nicht physisch. Er ist Alphinas dunkler Gegenpol: sie baut nur auf, er lässt verfallen. Sie kann nie töten, er schon.
-- Vesper + KI (Buch 3 spät): er sieht die Muster der KI. Ergänzung.
 
 ### Harte Grenzen
 
@@ -391,8 +399,9 @@ Iven ist Moragh-Geborener, nicht Thalassier — er **zahlt mit dem Körper** wie
 
 **Buch 3 — Thalassien-Technik trifft auf ihn**
 - Generator: Hände drauf. Diode flackert. Generator läuft. Hände weg: stirbt nach 30 Sekunden.
-- Computer: Bildschirm flackert, Zeichen. Maschine reagiert — aber wie ein Tier das aufwacht. Keine Kontrolle über WAS, nur DASS.
+- Geborgener Transformator (B3-K34/Akt IV): Vier Resonanz-Pulse durch das Gerät stören Expeditions-Drohnen-Koordination. Iven blutet aus Nase und Ohren, überlebt knapp. Sabotage-Werkzeug, kein Adoptions-Werkzeug.
 - Kein Gotmodus. Kostet: Zittern, Hunger, Erschöpfung. (Moragh-Geborener.)
+- **Memory:** Moragh adoptiert keine Thalassien-Tech. Iven nutzt Tech als Sabotage-Mittel, integriert sie nicht. Keine KI in Moragh. Siehe `project_moragh_keine_technologie.md`.
 
 ---
 
@@ -416,7 +425,7 @@ Thalassier untereinander = kein Preis. Thalassier + Moragh-Geborene = der Moragh
 | Stein + Strom | Quarz-Kristalle als Verstärker/Leiter | Buch 3: Iven spürt durch Stein |
 | Feuer + Zeit | Vesper beschleunigt Runas Hitze. Metall schmilzt sofort. Gefährlich. | Buch 3: Runa blutet aus Ohren (sie ist Moragh-Geborene? NEIN — Thalassierin. Dann: Runa **erschöpft** sich unnormal, einziger Fall von Thalassier-Erschöpfung im Kombinations-Overload) |
 | Feuer + Strom | Plasma? Theorie. Praxis: beide bewusstlos. | Nie. |
-| Zeit + Strom | Vesper sieht Muster in elektrischen Systemen. | Buch 3: KI-Interaktion |
+| Zeit + Strom | Vesper sieht Muster in elektrischen Systemen — passive Beobachtung, keine Steuerung. | Buch 3: Iven-Sabotage durch Transformator (Vesper analysiert Drohnen-Koordinations-Muster, Iven schaltet sie aus) |
 | Licht + Zeit | Sorel prägt Bild, Vesper konserviert es über Jahre | Buch 3: Beweisplatten für Prozesse |
 | Licht + Wasser | Sorel durch Marens Wasser — Linse, Spiegel, Lupe aus Wasser | Buch 3: Überwachung aus Distanz |
 | Licht + Feuer | Runa erzeugt Flamme, Sorel bündelt — Laser-artig präzise | Buch 3: chirurgisches Durchtrennen |
@@ -430,7 +439,7 @@ Selten, weil Koordination schwer. Max 2–3 Mal in der ganzen Trilogie.
 | Kombination | Effekt | Wann |
 |---|---|---|
 | Pflanzen + Wasser + Stein | Lebende Landschaft — Bäume aus Fels, Wasser als Adern | Buch 3, Akt III: Verteidigung bauen |
-| Zeit + Strom + Feuer | Maschine die "denkt" — kurz, instabil, erschreckend | Buch 3, Akt III: Thar-Tech-Magie-Fusion |
+| Zeit + Strom + Feuer | — gestrichen (war Tech-Magie-Fusion-Konzept) | nicht Canon (Memory `project_moragh_keine_technologie.md`) |
 | Pflanzen + Zeit + Wasser | Ökosystem in Stunden statt Jahrzehnten | Buch 3, Finale: Quellen-Reparatur |
 | Licht + Zeit + Pflanzen | Holographische Erinnerung in wachsendem Baum | Sorels Abschied / Trauer-Szene |
 
@@ -470,6 +479,14 @@ Quellen sind **natürliche Energiequellen in der Erde** — wie Geothermie. Sie 
 - Städte siedeln um Quellen, weil ohne Quelle kein Alltag mit Magie möglich ist
 - Quellen können nicht "verbraucht" werden im Normalbetrieb — sie sind endlos
 - Aber: **durch Überladung können sie zerstört werden**, und das ist unwiederbringlich (siehe Quellen-Überladung als Waffe)
+
+**Quellen-Stein als physisches Material (Canon 2026-05-03):**
+Quellen sind eine Art Stein. Sie können **physisch wie normaler Stein abgebaut werden** — Werkzeug, Hammer, Spaltkeil. Aber:
+- **Abspaltung** hinterlässt Restwärme im abgespaltenen Stück. Das abgespaltene Stück ist **inert** — keine Quelle mehr, keine Magie-Emission. Der Restkörper bleibt aktiv.
+- **Zerbrechen** eines Quellsteins zerstört seine Magie-Energie-Emission **endgültig**. Die Quelle stirbt. Konsequenzen wie bei Quellen-Tod (siehe „Quellen-Kollaps-Wirkung").
+- **Pflanzen-Resonanz wirkt nicht auf Quellen-Stein** (Memory `project_stein_quellen_pflanzen_resonanz.md`) — selbst inert wie normaler Stein. Wenn aus einem Quellstein Pflanzen wachsen, dann durch organische Substanz IM Stein, nicht aus dem Stein selbst.
+
+**Strategische Implikation:** Quellen-Sabotage durch Bruch ist möglich. Der Verteidiger schützt Quellen mit Wachen + Material-Barrieren, nicht mit Magie-Schilden (die wären hinfällig, sobald Stein bricht).
 
 **Was Resonanz-Begabte spüren:**
 - Wärme im Stein, auch im Winter. Je näher an der Quelle, desto wärmer.
