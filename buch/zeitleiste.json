@@ -329,14 +329,14 @@
     {
       "tz": 354,
       "tz_sort": 354.0,
-      "mz": -5.0,
+      "mz": -1.0,
       "welt": "moragh",
       "pov": "Elke / Varen",
       "buch": "B0",
       "kapitel": "",
       "leseart": "hintergrund",
-      "titel": "Elke + Varen — sechs Monate in Mar-Keth",
-      "detail": "Varen (junger Velmar-Forscher, Haus Keth) und Elke leben sechs Moragh-Monate zusammen. Forschungspartnerschaft und Liebesgeschichte. Elke lehrt ihm Thalassisch, er ihr Moragh. Dann trennt sie sich — sie spürt, dass seine Forschung sie als Mittel braucht, nicht als Partnerin. Elke zieht weiter, weiß nichts von seinen späteren Plänen.",
+      "titel": "Elke + Varen — sechs Monate in den Grenzlanden",
+      "detail": "Varen (junger Velmar-Forscher, Haus Keth, nach dem Mar-Keth-Quellen-Kollaps MZ -5 verdeckt aus Velmar ausgestoßen, in die Grenzlande zurückgezogen) und Elke leben sechs Moragh-Monate zusammen in seiner Grenzland-Werkstatt. Forschungspartnerschaft und Liebesgeschichte. Elke lehrt ihm Thalassisch, er ihr Moragh. Dann trennt sie sich — sie spürt, dass seine Forschung sie als Mittel braucht, nicht als Partnerin. Elke zieht weiter, weiß nichts von seinen späteren Plänen und nichts vom Quellen-Kollaps (das ist Velmar-Geheimnis).",
       "typen": [
         "begegnung",
         "hintergrund"
@@ -2030,15 +2030,15 @@
     },
     {
       "tz": 551,
-      "tz_sort": 551.625,
-      "tz_datum": "14. Nebelmond 551 TZ · Abend",
+      "tz_sort": 551.605,
+      "tz_datum": "9. Nebelmond 551 TZ",
       "welt": "thalassien",
       "pov": "Runa",
       "buch": "B1",
       "kapitel": "32",
       "leseart": "normal",
-      "titel": "Runa allein — Selbst-Erkenntnis und Hilfe-Entschluss",
-      "detail": "Abend nach dem Marktplatz-Angriff aus K31. Runa in der Druckerei, allein, der Brandfleck am Setzkasten frisch. Sie geht durch die letzten Wochen rückwärts: Alphinas nervöse Blicke seit Glutmond, Marens beiläufige Erwähnung einer 'Übersetzung' mit Vesper, Sorels späte Stunden in der Stadt, die Flugblätter, die sie selbst gedruckt hat. Sie hat alles beobachtet, alles gesehen, nichts gesagt. Sie ist nicht verletzt, dass die Vier sie nicht eingeweiht haben — sie versteht, dass Schutz das Motiv war. Erkenntnis: Sie will helfen. Heimliche Trauer um die ungelebte Naehe — sie ist allein, die anderen sind zu zweit — aber ohne Bitterkeit; sie goennt beiden Paaren ihr Glueck. Innere Vorbereitung auf K34 'Ich komme mit'. Runa-POV, einziges Runa-Kapitel in B1.",
+      "titel": "Runa allein — Verarbeitung Hafengasse-Nacht, Selbst-Erkenntnis, Hilfe-Entschluss",
+      "detail": "Tag nach K30. Runa in der Druckerei, allein, der Brandfleck am Setzkasten frisch von Joran-Schemen-Zerfall in der Nacht. Sie verarbeitet die Hafengasse-Nacht — Joran tot, ihre Hände heiß. Sie geht durch die letzten Wochen rückwärts: Alphinas nervöse Blicke seit Glutmond, Marens beiläufige Erwähnung einer 'Übersetzung' mit Vesper, Sorels späte Stunden in der Stadt, die Flugblätter, die sie selbst gedruckt hat. Sie hat alles beobachtet, alles gesehen, nichts gesagt. Sie ist nicht verletzt, dass die Vier sie nicht eingeweiht haben — sie versteht, dass Schutz das Motiv war. Erkenntnis: Sie will helfen. Heimliche Trauer um die ungelebte Naehe — sie ist allein, die anderen sind zu zweit — aber ohne Bitterkeit; sie goennt beiden Paaren ihr Glueck. Innere Vorbereitung auf K34 'Ich komme mit'. Runa-POV, einziges Runa-Kapitel in B1. **Buchposition:** chronologisch zwischen K30 und K31 — Lesereihenfolge K30→K32→K31→K33; Tausch der Kapitel-Nummern erfolgt nach Final beider Kapitel (siehe `kapitel/_TODO_tausch_k31_k32.md`).",
       "typen": [
         "erkenntnis",
         "charakter"
@@ -2356,7 +2356,7 @@
       "kapitel": "06",
       "leseart": "normal",
       "titel": "Elke — Akt-I-Schluss",
-      "detail": "Volles Elke-Kapitel. Sie hilft mit Geld, beschafft Quartier. Knapp zwölf Moragh-Monate hier — vierhundert Thalassien-Jahre. Die Vier sind zwei Moragh-Monate hier — »bei euch sind sechsundsechzig Jahre vergangen.« Welt-Mechanik (Quellen, Fraktionen, Krieg). Sie nimmt Runas Hand: »Feuer-Resonanz. Schwach, aber da.« Varen-Beat: Velmar-Forscher in den Grenzlanden, vor langer Zeit Experiment, Quellen tot. Elke hat ihm das alte Thalassisch beigebracht. »Er ist gefährlich.«",
+      "detail": "Volles Elke-Kapitel. Sie hilft mit Geld, beschafft Quartier. Knapp rund acht Moragh-Monate hier — vierhundert Thalassien-Jahre. Die Vier sind zwei Moragh-Monate hier — »bei euch sind sechsundsechzig Jahre vergangen.« Welt-Mechanik (Quellen, Fraktionen, Krieg). Sie nimmt Runas Hand: »Feuer-Resonanz. Schwach, aber da.« Varen-Beat: Velmar-Forscher in den Grenzlanden, vor langer Zeit Experiment, Quellen tot. Elke hat ihm das alte Thalassisch beigebracht. »Er ist gefährlich.«",
       "typen": [
         "erkenntnis",
         "tschechow",

@@ -38,7 +38,7 @@ Pro Hauptfigur sicherstellen, dass jedes Schlüssel-Erlebnis als Zeitleisten-Eve
 | `pov/vesper.md` | ✓ 2026-05-02 | sauber | — |
 | `pov/maren.md` | ✓ 2026-05-02 | klein: ein Satz Varen-Aktion in Tod-Sektion (gerechtfertigt) | belassen |
 | `pov/runa.md` | ✓ 2026-05-02 | sauber | — |
-| `pov/elke.md` | ✓ 2026-05-02 | **massiv:** Tod-Sektion enthält B3-Plot von Maren/Varen/Alphina/Talven | Befund 1.4 |
+| `pov/elke.md` | ✓ refaktoriert 2026-05-03 | komplett neu strukturiert: Tod-Sektion auf Elke-Eigenes reduziert (Tatort + Anomalien + Bündel-Hütung), Beziehungs-Datierung MZ -1 statt MZ -6, Wohnort-Wanderung präzisiert (Grenzland → Narthek → Halvaren → Dravek), Bündel-Logik gemäß zeitleiste B2-K21 (Maren übergibt Elke zurück, Elke vergräbt in Dravek), Charakter geschärft (Pragmatistin, Misstrauen aller Fraktionen, Mitschuld als Selbst-Eingeständnis), TZ-154-Resonanz Stein verankert, Alter Mid-30er. Plus zeitleiste-Fix B0 mz=-1.0 + Grenzlande-Titel + B2-K06 acht-statt-zwölf. | Befund 1.4 erledigt |
 | `pov/iven.md` | ✓ 2026-05-02 | sauber (aber Daten-Konflikt D3) | — |
 | `pov/drael.md` | ✓ 2026-05-02 | sauber | — |
 | `pov/tyra-halvard.md` | ✓ 2026-05-02 | sauber (Daten-Konflikt D10) | — |
