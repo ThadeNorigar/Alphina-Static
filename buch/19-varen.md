@@ -386,27 +386,9 @@ Aber: **er wusste es.** Von Anfang an. Er hat sie in seine Arme geholt, während
 
 ---
 
-## 11. Die Farblogik von Alphinas Resonanz — ausführlich
+## 11. Farblogik (verlagert)
 
-**Warum schwarz/purpur/rot und nicht grün:**
-
-Moragh hat **keine Sonne**. Es hat eine Akkretionsscheibe (ein Ring aus leuchtendem Material, der den Planeten umgibt) und zwei Monde. Das Licht auf dem Plateau ist grau-gelb, selten hell, nie direkt. Die Pflanzen in Moragh haben sich über Millionen Jahre an dieses Licht angepasst — sie produzieren **kein Chlorophyll** (das braucht direktes Sonnenlicht). Stattdessen haben sie **Anthocyane** (dunkle Pigmente, die auch indirektes Licht nutzen können) und **Melanin-ähnliche Schwärze** (um jede verfügbare Lichtquelle maximal zu absorbieren). Moragh-Pflanzen sind **nicht grün**. Sie sind schwarz, tiefpurpur, blutrot, manchmal bläulich-schwarz.
-
-**Alphinas Körper passt sich an.** In Thalassien wuchs ihre Resonanz immer grün — ihre Pflanzen produzierten Chlorophyll, weil sie eine Thalassien-Botanikerin mit Thalassien-Sonne war. In Moragh, unter Emotion und besonders unter Zorn, **kippt die biochemische Reaktion**. Ihr Körper erkennt die neue Lichtumgebung schneller als ihr Bewusstsein. Die Pflanzen, die sie wachsen lässt, sind **Moragh-Pflanzen**. Schwarze Rinde, purpurne Stängel, blutrote Blüten mit schwarzen Kanten.
-
-**Erzählerisch ist das der Horror:** Sie ist in der fremden Welt schneller heimisch geworden als sie begreift. Der Körper weiß es, bevor der Kopf es weiß. Die anderen drei (Vesper, Maren, Runa) sehen es und verstehen: **Alphina gehört hierher.** Sie ist eine von ihnen geworden. Das ist erschreckender als jede Kampfszene, weil es nicht rückgängig zu machen ist.
-
-**Wann die Farbe schwankt:**
-- **Thalassien komplett:** immer grün (Kap 1-35, Sorel-POV-Kap ausgenommen wo sie nicht wächst)
-- **Moragh Sorel-Tod (K39):** voll schwarz/purpur/rot. Erstes Mal. Die Umstellung. Wie ein Körper der von einer Farbe zur anderen wechselt.
-- **Moragh Buch 2 Bund-Training:** schwankend. Diszipliniert = grün (der Bund verlangt Disziplin, die Bund-Meister trainieren sie zurück zu grün). Wütend = schwarz/rot. Bund-Meister nennen es "Verunreinigung" und verstehen nicht was sie sehen.
-- **Moragh Buch 2 Quellen-Zerstörung (2/3-Mark):** voll schwarz/rot. Keine Disziplin mehr.
-- **Moragh Buch 2 Endakt Varen-Sex:** schwarz unter dem Bett.
-- **Moragh Buch 3:** offen. Hängt davon ab ob sie ruhig wird, ob sie sich mit Varen versöhnt, ob sie dem Frieden näher kommt. Kann als Barometer für ihren inneren Zustand gelesen werden.
-
-**Regel für Schreibenden:** Alphinas Pflanzen werden nie als "grün" beschrieben, solange sie in Moragh emotional aufgewühlt ist. Die Beschreibung bleibt in schwarz, purpur, rot — über Farbwörter oder implizit (tief wie Wein, fast violett im Stängel, Blüten dunkel wie geronnenes Blut, Rinde wie Kohle im Regen). Grün kommt nur wenn sie ruhig ist, oder wenn sie sich zu einem kurzen Moment an Thalassien erinnert und die alte Farbe noch in ihr ist.
-
-**Tschechow über die Trilogie:** Die Farbe ist ein stiller Barometer. Die Leserin lernt es in K39 zum ersten Mal lesen — und dann schaut sie bei jeder Alphina-Szene auf die Farbe. Wenn Alphina am Ende von Buch 3 an der Riss-Quelle steht, um sie zu zerstören, wird die Leserin die Farbe sehen und sofort wissen, in welchem inneren Zustand Alphina ist.
+Master ist `pov/alphina.md` Sektion „Zorn-Farbpalette". Alle Details (Anthocyane/Melanin-Erklärung, Akt-für-Akt-Schwankungen, Schreibregel, Tschechow-Barometer) leben dort.
 
 ---
 

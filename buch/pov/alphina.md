@@ -92,7 +92,7 @@ Max ~40 Wörter, bricht unter Druck zu Fragmenten. Kein *sie dachte / sie fragte
 
 In Thalassien wächst Alphinas Magie immer **grün** — Chlorophyll, Photosynthese, lebendiges Gewebe. Das ist ihre Ruhe-Farbe, ihre disziplinierte Farbe, die Farbe von Henriks Garten und den Farnen im Lichthaus-Keller.
 
-In Moragh, unter Sorels Tod, kippt die Farbe: **pechschwarze Wurzeln, Stängel in tiefem Purpur, Blüten in Blutrot mit schwarzen Kanten.** Keine grünen Blätter, keine weißen Blüten, kein Chlorophyll — Anthocyane und Melanin statt. **Anti-Flora:** Pflanzen wie Wunden, die ohne Licht wachsen. Physiologisch erklärt: Moragh hat keine Sonne (Akkretionsscheibe, zwei Monde), ihr Körper passt sich der Lichtquelle an. Erzählerisch: sie ist in der fremden Welt schneller heimisch geworden, als sie begreift, und das ist der Horror.
+In Moragh, unter Sorels Tod, kippt die Farbe: **pechschwarze Wurzeln, Stängel in tiefem Purpur, Blüten in Blutrot mit schwarzen Kanten.** Keine grünen Blätter, keine weißen Blüten, kein Chlorophyll — Anthocyane und Melanin statt. **Anti-Flora:** Pflanzen wie Wunden, die ohne Licht wachsen. Physiologisch erklärt: Moragh hat keine Sonne (Akkretionsscheibe, zwei Monde), ihr Körper passt sich der Lichtquelle an. Erzählerisch: sie ist in der fremden Welt schneller heimisch geworden, als sie begreift, und das ist der Horror. **Vesper, Maren, Runa sehen es und verstehen, was Alphina selbst noch nicht begreift: sie gehört hierher, eine von ihnen geworden.** Das ist erschreckender als jede Kampfszene, weil es nicht rückgängig zu machen ist.
 
 **Wo die Farbe feuert:**
 - **Buch 1 Sorel-Tod:** voll schwarz/rot. Blutrote und schwarze Blüten auf Sorels Körper — die bleiben, wenn alles andere stirbt.
@@ -104,7 +104,9 @@ In Moragh, unter Sorels Tod, kippt die Farbe: **pechschwarze Wurzeln, Stängel i
 - **Buch 3 Portal-Quelle:** voll grün, Wachstums-Überladung. Überflutet die Portal-Quelle mit Leben, bis sie kollabiert. Konsistent mit ihrer harten Grenze „nur aufbauen".
 - **Buch 3 Epilog (Sub-Phase mit Vesper):** Durch Scham erstmals Sub. Vesper trägt sie. Dornen wachsen ruhig, mit Blüten.
 
-**Regel für alle POV-Szenen in Moragh:** Alphinas Pflanzen werden nie als "grün" beschrieben, solange sie emotional aufgewühlt ist. Die Beschreibung bleibt in schwarz, purpur, rot — über Farbwörter oder implizit (tief wie Wein, fast violett im Stängel, Blüten dunkel wie geronnenes Blut). Grün kommt NUR wenn sie ruhig ist.
+**Regel für alle POV-Szenen in Moragh:** Alphinas Pflanzen werden nie als "grün" beschrieben, solange sie emotional aufgewühlt ist. Die Beschreibung bleibt in schwarz, purpur, rot — über Farbwörter oder implizit (tief wie Wein, fast violett im Stängel, Blüten dunkel wie geronnenes Blut, Rinde wie Kohle im Regen). Grün kommt NUR wenn sie ruhig ist — oder wenn sie sich für einen Moment an Thalassien erinnert und die alte Farbe noch einmal durch sie hindurchgeht.
+
+**Tschechow über die Trilogie:** Die Farbe ist ein stiller Barometer für Alphinas inneren Zustand. Die Leserin lernt sie in B1-K38 zum ersten Mal lesen — und schaut danach bei jeder Alphina-Szene auf die Farbe. Wenn Alphina am Ende von B3 an der Portal-Quelle steht, weiß die Leserin durch die Farbe sofort, in welchem Zustand sie ist (voll grün = Wachstums-Überladung, kein Zorn).
 
 ## Beziehungs-Dynamik
 

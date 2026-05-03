@@ -87,7 +87,19 @@ Pro Hauptfigur sicherstellen, dass jedes Schlüssel-Erlebnis als Zeitleisten-Eve
 - ✓ **CANON-UPDATE in `10-magie-system.md`:** (a) Z.646 Korrektur 2–3 Stunden → 1–2 Tage; (b) neuer Block „Reservoir und Befehlstreue" + „Bindung beenden — Bannen vs. Lösen" + „Aggressions-Tendenz nach Auflösung" mit Bewertungs-Skala (Lesart C, reaktiver Schutz-Befehl = −1) und Konsequenz-Beispielen B1-K38 / B3 Akt II / B3 Akt IV.
 - ✓ **KAPITEL-KORREKTUR:** alle B1-K28/K29/K30-Verweise in den geretteten Beats (Alphina/Sorel/Maren/Vesper/Runa-Dossiers + 19-varen.md §1b) auf B1-K38 umgemappt — Kampf passiert auf Moragh-Seite (B1-K38 = „Moragh-Ankunft + Varen + Sorel stirbt + Alphinas Explosion + Beruhigung" laut Zeitleiste).
 
-**§8 Sorel-Todesszene — Status: ✓ vollständig bearbeitet.** Bereit zum Löschen aus `19-varen.md`, sobald §9–§11 ebenfalls bearbeitet sind.
+**§8 Sorel-Todesszene — Status: ✓ vollständig bearbeitet.** Bereit zum Löschen aus `19-varen.md`, sobald §9–§10 ebenfalls bearbeitet sind.
+
+---
+
+### §11 Cleanup — Status: ✓ erledigt 2026-05-03
+
+**Drei Beats nach `pov/alphina.md` Zorn-Farbpalette gerettet:**
+- „Andere drei sehen es und verstehen: Alphina gehört hierher" (Cross-POV-Horror-Pointe)
+- „Grün als Erinnerungs-Echo" (wenn sie an Thalassien denkt)
+- „Tschechow-Barometer-Funktion" (Leserin liest die Farbe seit B1-K38)
+- Implizit-Beispiel „Rinde wie Kohle im Regen" ergänzt
+
+**Sektion §11 in `19-varen.md` reduziert auf einen Verweis-Stub:** Master ist `pov/alphina.md`.
 
 **§9 + §10 + §11 Status:** ausstehend nach §8-Cleanup.
 
