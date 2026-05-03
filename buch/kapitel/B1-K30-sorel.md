@@ -21,7 +21,17 @@ Wenn eines kam, stellte er sich zwischen Alphina und das Wesen. Geometrie des Be
 
 Wenn das Licht reichte, hatte sie Zeit. Wenn nicht, ein paar Atemzüge Vorsprung. Maren wohnte zwei Straßen weiter unten, drei Minuten zu Fuß. Vesper schlief im Anker, zwei Querstraßen vom Marktbrunnen. Wenn Alphina aus dem Bett kam, durch die Tür, die Treppe hinunter und in die Hafengasse hinaus, schaffte sie es zu einem von beiden.
 
-Solange sie hier liegen konnte, hielt er stand. Wenn er fallen musste, dann hier nach vorn, weg von ihr. Er hob den Brustkorb gegen ihre Hand. Da blieb es.
+Draußen hatte der Wind gedreht. Er kam jetzt von Land statt von See — Sorel hatte den Wechsel vor einer halben Stunde gespürt, als das Tau der Plane zweimal anders klatschte.
+
+Die Patrouille von zwei Uhr blieb aus. Er wartete seit vierzig Minuten auf Schritte. Sein Atem ging flach, weil ein voller Atemzug die Geräusche draußen für einen Augenblick verdeckte, und diesen Augenblick wollte er sich nicht leisten.
+
+Er suchte Alphinas Gesicht. Ihr Atem ging schneller als seiner, drei zu zwei, manchmal vier zu zwei. Er hatte das nie bewusst gezählt. Heute zählte er. Zwischen ihren Brauen lag eine Falte, die im Wachen verschwand, sobald sie sprach. Hier blieb sie. Er hatte sie noch nie so lange gesehen. Sein Hemd war an ihrer Wange feucht; sie hatte im Schlaf den Mund leicht geöffnet. An ihrem Nacken, unter dem Ohr, war ihr Geruch warm — Haut, Haar, der Geruch eines Menschen, der schläft.
+
+Er hielt vergängliche Dinge fest. Belichtung, Schatten, der Schein von Licht auf einer Glasscheibe, eine halbe Sekunde, dann weg. Dass dieser Geruch hier auch endlich war — das wusste er heute zum ersten Mal über sie.
+
+Sein Magen zog sich zusammen. Eine Kälte saß ihm unter den Rippen. Sein Kiefer war seit einer Stunde fest, und als er das merkte, ließ er ihn nicht los.
+
+*Ich schütze sie. Vor allem, was kommt. Sie bedeutet mir mehr als alles, was ich je gesehen habe. Mehr als alles, was ich je sehen werde.*
 
 Sie murmelte etwas in sein Hemd und drückte sich enger an ihn, ein Knie zwischen seine geschoben. Sein Brustkorb hob sich gegen ihre Hand, ohne dass er ihn hob. Sie würde gleich aufwachen, weil sie immer aufwachte, wenn er sich bewegte. Heute bewegte er sich nicht.
 
@@ -49,15 +59,15 @@ Die Gasse war wach. Vor dem Haus gegenüber lehnte ein Mann in Hemdärmeln am T�
 
 Die Glocken läuteten weiter, gegeneinander. Eine vierte setzte ein, weiter östlich — vom Leuchtturm — und brach sofort wieder ab. Jemand hatte den Strick fallen lassen.
 
-Alphina nickte ihm einmal zu, nach links — die Hafengasse hinunter zum Marktbrunnen. Sie gingen los. Sie hielt seinen Ellbogen, er spürte die Halsschlagader gegen den Hemdkragen klopfen. Drei Schritte hinter ihnen schlug eine Tür. Jemand rief etwas, Worte verloren in den Glocken. Sorel sah über die Schulter — eine alte Frau lehnte sich aus einem Fenster im ersten Stock, brüllte zur Frau mit den Kindern. Die Frau zog die Kinder an sich, ging zurück ins Haus. Die Tür fiel ins Schloss.
+Alphina nickte ihm einmal zu, nach links — die Hafengasse hinunter zum Marktbrunnen. Sie gingen los. Sie hielt seinen Ellbogen, er spürte die Sehne am Hals zucken. Drei Schritte hinter ihnen schlug eine Tür. Jemand rief etwas, Worte verloren in den Glocken. Sorel sah über die Schulter — eine alte Frau lehnte sich aus einem Fenster im ersten Stock, brüllte zur Frau mit den Kindern. Die Frau zog die Kinder an sich, ging zurück ins Haus. Die Tür fiel ins Schloss.
 
-Die Hafengasse fiel leicht ab zum Brunnen. Sorel sah das schiefe Licht der Sturm-Laterne dreißig Schritte voraus. Vesper und Maren würden dort sein.
+Die Hafengasse fiel leicht ab zum Brunnen. Sorel erspähte das schiefe Licht der Sturm-Laterne dreißig Schritte voraus. Vesper und Maren würden dort sein.
 
 Halbwegs dahin trat aus einer Querstraße rechts — der zur Werft — eine Gestalt heraus. Größer als ein Mann.
 
 Sorel sah zuerst die Bewegung am Augenrand. Dann die Form: zu lang, schwarz, der Kopf nach hinten gezogen, an den Schläfen zwei knochige Auswüchse. Die Beine zu kurz, die Füße keine Füße — gespaltene Tritte. Über Brust, Schultern und Arme zogen sich Symbole, scharf gerandet — manche blau, manche violett, leuchtend, in einer Schrift, die er nicht kannte. An den Schultern stieg dünner schwarzer Rauch auf.
 
-Die Augen kamen als Letztes. Offen, schwarz, ohne Lid. Sorel sah hinein und nichts sah zurück.
+Die Augen kamen als Letztes. Offen, schwarz, ohne Lid. Sorel spähte hinein. Nichts spähte zurück.
 
 Dann der Geruch. Schmal und süß, derselbe wie zweimal in den Vorwochen durch das gekippte Fenster — nur jetzt direkt, dicht, drei Schritte voraus. Sorels Halsschlagader klopfte bis ins Zahnfleisch. Sein Kiefer wurde fest. Der Geruch war nicht aus der Südost-Stadt gekommen. Er kam vom Wesen.
 
@@ -99,11 +109,11 @@ Drei. Sie sahen einander an. Drei in der Stadt, drei verschiedene Richtungen.
 
 Alphinas Hand griff seine, fest, an der Stelle wo die Sehne über das Handgelenk verläuft.
 
-Sie warteten. Sekunden. Sorels Halsschlagader klopfte gegen den Hemdkragen. Die Sturm-Laterne am Brunnen flackerte; das schiefe Licht zitterte über das Pflaster.
+Sie warteten. Sekunden. Sorels Kehle pochte. Die Sturm-Laterne am Brunnen flackerte; das schiefe Licht zitterte über das Pflaster.
 
 Dann kam einer. Aus der Gasse zum Hafen, die sie nicht im Blick gehabt hatten. Schwarze Augen, ohne Lid. Zu lang. An den Schläfen Hörner-Stümpfe, der eine kürzer als der andere. Hufe statt gespaltene Tritte, lautlos auf dem Pflaster. Auf Brust und Armen die Symbole, blau und violett, leuchtend, die er schon kannte.
 
-Er ging ohne Eile. Dann ein Ruck durch die Schultern, der Kopf kippte zur Seite, das Gelenk arbeitete falsch — kein Laut.
+Er ging ohne Eile. Dann ein Ruck durch die Schultern, der Kopf kippte zur Seite, das Gelenk verdrehte sich, lautlos.
 
 Er fixierte. Auf Alphina.
 
@@ -117,7 +127,7 @@ Der Brennfleck brannte durch die Stirn. Das Wesen ruckte zurück. Etwas an seine
 
 Trotzdem kam der Arm. Kein Schlag — im Wegtaumeln streifte er Sorels Oberschenkel durch die Hose. Und an den Fingerspitzen des Wesens wuchs im selben Atemzug Eis aus dem Schwarz, weiß-blau, scharf, schon zerfallend, weil das Wesen taumelte.
 
-Eine Frostlinie zog durch Hose und Haut in den Knochen. Der Stoff riss entlang der Eis-Spur auf und fror sofort wieder zu. Kein Blut.
+Eine Frostlinie zog durch Hose und Haut in den Knochen. Der Stoff riss entlang der Eis-Spur auf und fror sofort wieder zu. Es blutete nicht.
 
 Sorel sog Luft scharf zwischen den Zähnen ein. Sein rechtes Bein knickte einen Schritt weit ein; er fing sich am Brunnenrand, die Hand am rauen Stein.
 
@@ -152,3 +162,75 @@ Aber im Knochen blieb es kalt. Tief, still, eine kleine Stelle, an die niemand h
 „Da bleibt was", sagte Maren leise.
 
 „Ich weiß", sagte Sorel.
+
+Sie standen einen Atemzug. Dann brachen zwei Glocken ab — die vom Hafen, die vom Marktplatz. Die aus der Oberstadt schlug weiter. Auch der Wind in der Hafengasse wurde leiser.
+
+Sorel sah die Querstraße rechts an. Sie war leer. Auch der Marktbrunnen-Halbkreis. Vor dem Lichthaus, soweit man es von hier sehen konnte, ebenfalls.
+
+„Aus der Hafengasse sind sie weg", sagte Maren.
+
+Vesper sah Richtung Oberstadt. „Da läuft noch was."
+
+Alphinas Griff um seine Hand wurde fester. „Hört."
+
+Aus der Oberstadt — vom Marktplatz, dort wo die Druckerei stand — kamen Schreie. Mehrere Stimmen, verschiedene, eine die nicht aufhörte.
+
+Vesper sagte: „Runa."
+
+Maren rannte schon.
+
+Die anderen folgten — Sorel hinkte ein wenig, aber sein Bein trug. Sie liefen die Hafengasse hinauf, durch eine Quergasse zur Oberstadt-Treppe, dann den steilen Weg zur Druckerei. Auf halbem Weg, an der Sattlerstraßen-Mündung, kam Runa ihnen entgegen.
+
+Sie blieb stehen, drei Schritte vor Maren. Ruß im Gesicht, schwarze Asche und Druckerschwärze an Händen und Unterarm. Der rechte Hemd-Ärmel weggebrannt. Über der linken Augenbraue eine Wunde, die blutete.
+
+„Joran ist tot."
+
+Sie sagte es ohne Vorrede. Die Stimme klang wie eine andere, eine Spur zu hoch.
+
+Maren trat einen Schritt näher. „Was?"
+
+„Zwei Wesen. Eines am Setzkasten — ist verbrannt. Hat geglimmt, dann gebrannt, dann nichts."
+
+Sie holte einen Atemzug.
+
+„Joran kam aus dem Trockenraum. Hinter ihm das andere. Ich war zu spät."
+
+„Wie?", fragte Vesper.
+
+„Eis. Aus seinem Arm. Von hinten." Eine Pause. „Joran fiel. Er war kalt. Atmete nicht mehr."
+
+Die Glocke aus der Oberstadt schlug weiter, einmal, zweimal.
+
+„Und das andere?", fragte Vesper.
+
+„Dann war alles so heiß." Runas Stimme brach mitten im Satz ab.
+
+Sie schaute auf ihre Hände, sah sie einen Atemzug an. Dann ließ sie sie sinken.
+
+„Ich konnte ihn nicht hochheben. Ich bin rausgerannt." Die Hand fuhr zur Wunde über der Augenbraue. „Türrahmen."
+
+Maren trat zu ihr, legte einen Arm um Runas Schultern. Zog ihn einen Atemzug später kürzer — Runa glühte. Maren sah Alphina einmal an, dann zurück zu Runa, sagte nichts.
+
+„Komm zum Brunnen. Setz dich."
+
+Sie führte Runa weg vom Mündungswinkel, zurück die Hafengasse hinunter, langsam, Schritt für Schritt. Runa ließ sich führen. Sie zitterte jetzt, ein feines, gleichmäßiges Zittern, das vom Brustkorb ausging.
+
+Alphina sah ihnen nach, dann Sorel an. Vesper sah in die Richtung der Druckerei. Niemand sagte etwas, was die Glocke übertönte.
+
+Sorel suchte Alphinas Augen. Sie war noch da. Sein Versprechen hatte er gehalten.
+
+Drei Häuser weiter war eine Tür eingeschlagen. Auf der anderen Seite des Hafens lag jemand auf der Straße — ein zweiter Körper drei Schritt weiter, ein dritter halb hinter einer Karre. Der Himmel über den Werftspeichern wurde heller, eine kalte, blasse Helle.
+
+Joran war tot. Sorel kannte seinen Vornamen. Runa hatte einmal eine Geschichte erzählt, an einem Sommer-Abend in der Druckerei: ein Setzer verlangte jeden Mittwoch dieselbe Schriftart. Das war Joran gewesen. Sorel hatte ihn zweimal gesehen — flüchtig zwischen Tür und Setzkasten, einmal beim Holen einer Bestellung.
+
+Sein rechtes Bein war kalt im Knochen. Derselbe Frost, der Joran getötet hatte. Nur schwächer. Dann ließ er den Vergleich fallen.
+
+Sie wandten sich Richtung Hafengasse zurück, weg von der Druckerei. Marens Wohnung war näher. Runa machte keine Bewegung dorthin, aber als Maren zog, ging sie mit. Vesper sah noch einmal in die Sattlerstraßen-Mündung, dann nickte er — sie gingen alle.
+
+Die Vier und Runa, dichter als sie je gegangen waren. Maren mit dem Arm um Runa, die immer noch zitterte. Vesper neben ihnen, einen Schritt zurück, die Taschenuhr wieder in der Manteltasche. Sorel hinter Alphina, das Bein bei jedem dritten Schritt ein wenig steif.
+
+Im Gehen streckte Alphina die Hand aus. Er spürte ihre Finger in seinen, fest. Dann zog sie ihn näher und legte ihre andere Hand kurz auf seine Brust, dort wo sie heute Nacht im Schlaf gelegen hatte. Sie tat es ohne Hinsehen, ohne Worte.
+
+Was er ihr nie gesagt hatte, wusste sie.
+
+Sie roch nach Lavendel und nach Rauch.
