@@ -16,33 +16,45 @@ buecher: [2, 3]
 
 ![Nyr mit Kessler vor der Thar-Stadt](/img/nyr.png)
 
+**Letzte Aktualisierung:** 2026-05-03 (Cleanup: Vesper-Verrats-Plot raus, K29-Linie „Zivilisten als Schild", Epilog Runa+Nyr, autonome Bestien gestrichen)
+**Status:** Aktiver Kanon. Bei Konflikt mit älteren Notizen gewinnt dieses File.
+**Verwandte Files:** `synopse-b2.md` (K07/K18/K22/K23/Phase 4), `synopse-b3.md` (Akt I/K29/Akt III/K34/K39/Epilog), `zeitleiste.json`, `pov/vesper.md`, `pov/runa.md`, `pov/iven.md`, `18-thar-magitech.md`, `10-magie-system.md`.
+
+---
+
 ## Figur
 
 **Nyr.** Moragh-geboren, Konglomerat der Thar. Dreißig. Breite Schultern, kurzes dunkelbraunes Haar, helle Haut, Narben an den Unterarmen vom heißen Metall. Spricht wenig, und wenn, dann wie Befehle. Nicht unfreundlich — effizient. Schlanke schwarze Panzerung aus Eisen mit sichtbaren Nieten, geschlossener Helm. Wenn sie den Helm abnimmt: stahlgraue Augen, ein Gesicht das härter ist als es sein müsste.
 
 **Resonanz: Druck.** Reiner Druck. Luft zusammenpressen, Metall verbiegen, auf kurze Distanz Knochen brechen ohne Berührung. Normale Nutzung: Müdigkeit, Muskelkater, Hunger. Morgens wieder fit.
 
+---
+
+## Selbstbild — Pilotin, kein Werkzeug
+
+Nyrs zentrales Wertgerüst: **Sie steigt freiwillig in Kessler ein und freiwillig wieder aus.** Hart erarbeitet, hart respektiert. Reiter der Thar = Elite, ~500 in der ganzen Armee, schwarze Rüstung, geschlossene Helme. Absolute Gleichberechtigung seit Generationen. Ein Beruf, kein Opfer.
+
+Was sie nicht erträgt: an etwas gefesselt sein, das sie nicht verlassen kann. Diese Linie zieht sich durch ihre B2- und B3-Entscheidungen — vom freiwilligen Pakt mit Vesper bis zur Defektion in B3-K29.
+
+Innerer Anker (Stimm-Beispiel): *„Ich bin Pilotin. Ich steige freiwillig in meine Bestie. Ich steige freiwillig wieder aus."* Den Satz spricht sie nie laut aus. Er trägt jede ihrer Entscheidungen.
+
+---
+
 ## Kessler — Nyrs Bestie
 
-**Ein Ramm.** 40 Tonnen, gepanzert wie ein Kataphrakt. Gestalt: Bulle/Stier aus Moragh-Stahl, gewachsen nicht geschmiedet. Glühende rote Augen. Dampf aus den Nüstern. Muskeln aus Metall, Gelenke die sich bewegen, Klauen die den Boden aufreißen. Reservoir-Kern im Brustkorb, 6-8 Stunden Einsatz.
+**Ein Ramm.** 40 Tonnen, gepanzert wie ein Kataphrakt. Gestalt: Bulle/Stier aus Moragh-Stahl, gewachsen nicht geschmiedet. Glühende rote Augen. Dampf aus den Nüstern. Muskeln aus Metall, Gelenke die sich bewegen, Klauen die den Boden aufreißen. Reservoir-Kern im Brustkorb, 6–8 Stunden Einsatz.
 
-Nyr kanalisiert Druck in Kessler — die Bestie beschleunigt wie eine Lokomotive. Der Boden bebt. Alles was im Weg steht wird überrollt. Wenn Nyr absitzt: verschwitzt, hungrig, müde. Morgens wieder fit. Nyr nennt ihre Bestie beim Namen. Kessler ist kein Werkzeug. Kessler ist ihr Partner.
+Nyr kanalisiert Druck in Kessler — die Bestie beschleunigt wie eine Lokomotive. Der Boden bebt. Alles was im Weg steht wird überrollt. Wenn Nyr absitzt: verschwitzt, hungrig, müde. Morgens wieder fit. **Nyr nennt ihre Bestie beim Namen. Kessler ist kein Werkzeug. Kessler ist ihr Partner.**
 
-**Reiter der Thar** = Elite. ~500 in der ganzen Armee. Schwarze Rüstung, geschlossene Helme. Ein Beruf, kein Opfer. Absolute Gleichberechtigung — seit Generationen.
+**B3 Akt I (Thar-Kem-Wartungshalle, Tonfall-Anker):** Nyr klopft mit der Handfläche auf den Stahl, und Kessler vibriert wie ein Partner, der auf das Kommando wartet.
 
-Für alle Bestien-Typen (Lohe, Ramm, Zacker, Grund, Feger, Fluter): siehe `buch/18-thar-magitech.md`.
+Für alle Bestien-Typen (Lohe, Ramm, Zacker, Grund, Feger, Fluter): siehe `18-thar-magitech.md`.
 
-**ERST wenn die Thar planen, Resonanz-Begabte permanent an Bestien-Kerne anzuschließen** (Buch 3), überqueren sie die Linie. Nicht Schichtarbeit — Dauerbetrieb. DAS ist die Grenze die Nyr erkennt.
+---
 
-### Autonome Bestien — das Alptraum-Bild
+## Vesper — Beziehung
 
-In Buch 3 sieht Nyr etwas Schlimmeres als die Resonanz-Käfige: **autonome Magitech-Bestien.** KI-gesteuert, kein Pilot im Cockpit. Selbstpilotierende Bestien die Tag und Nacht laufen. Endlose Armeen. Kessler ohne Nyr — das ist das Bild das sie nicht loslässt. Ihre Bestie, ihr Partner, ersetzt durch eine Maschine die keinen Namen kennt. Keine Piloten mehr nötig. KI ist billiger.
-
-Die autonomen Bestien sind Teil der **Tech-Magie-Fusion** die entsteht wenn die Thar Zugang zu Thalassien-Technologie (~2250) bekommen: Schwarm-Schemen mit Drohnen-Logik, Quellen-Siphon aus der Luft, Resonanz-Spiegel (Neural-Interface), temporale Taktik-KI. Die Thar werden zum Imperium.
-
-## Der Subplot: Nyr + Vesper
-
-### Das Dreieck: Vesper / Maren / Nyr
+Maren-Vesper ist das verhandelte BDSM mit Geduld. Nyr-Vesper ist das andere Register: Direktheit, Druck, ohne Schlaufen.
 
 | | Maren | Nyr |
 |---|---|---|
@@ -52,92 +64,79 @@ Die autonomen Bestien sind Teil der **Tech-Magie-Fusion** die entsteht wenn die 
 | Sex | Er hält ihre Handgelenke. Sie bleibt. | Sie presst ihn an die Wand. Er bleibt weil er nicht kann. |
 | Magie | Uhren laufen im Takt. Wasser wird still. | Luft wird dünn. Metall vibriert. |
 
-### Buch 2 — Erste Begegnung
+**Erste Nacht (B2 Akt III, Thar-Kem-Werkstatt):** Warmer Stahl. Luft wird dünn — nicht gefährlich, aber Rausch, Schwindel, die Grenze zwischen Lust und Leichtigkeit. Sie kontrolliert den Luftdruck wie Vesper die Zeit. Druckstellen auf seinen Handgelenken, nicht von Fingern, von Luft. Blaue Flecken in der Form von nichts. Nach dem Sex: Metall in der Werkstatt leicht verbogen, Schrauben gelöst, Luft riecht nach Ozon. Nyr nicht erschöpft. Das war Spielen, nicht Arbeit.
 
-Die Thar schicken Nyr als Emissärin. In ihrer Magitech-Bestie. Boden bebt, Pflanzen weichen zurück, Vespers Uhren vibrieren. Sie steigt aus. Kleiner als erwartet. Sieht Vesper an, nicht Alphina.
+**Vesper-seitig:** Siehe `pov/vesper.md` Buch-3-Sektion „Alphina-Rettung statt Nyr" — Vesper verlässt Nyr in B3 für Alphinas Rettung. Nyr erkennt es ohne Bitterkeit. Friedliche Verabschiedung, kein Bruch.
 
-"Du bist der der Muster sieht." Keine Frage.
+---
 
-### Buch 2, Akt II — Vesper geht mit
+## Buch 2 — Bogen
 
-Nicht Gefangennahme — Wahl. Nyr zeigt ihm die Thar-Stadt: Pressen, Öfen, Magitech-Bestien. Effizienz. Ordnung. Piloten die nach der Schicht gemeinsam essen, die ihre Bestien pflegen wie Handwerker ihre Werkzeuge. Vesper — der Muster liebt und Chaos hasst — sieht etwas das er versteht. Das er WILL. "Jedes System hat Fehler. Die Thar benennen ihre."
+**B2-K07 Narthek-Schlachtfeld (Vesper-POV):** Vesper sieht Nyr zum ersten Mal in der Magitech-Bestie auf dem Thar-Angriff. 40-Tonnen-Bestien gegen Bund-Rufer, Druck-Wellen brechen Türme. Magitech als überlegene Tech sichtbar. Sie sieht ihn nicht.
 
-Vesper will sich nicht instrumentalisieren lassen — weder vom Bund noch von Alphinas Rache. Bei den Thar sieht er Struktur statt Chaos. Er bleibt.
+**B2-K18 Halvaren — Emissärin (Vesper-POV):** Nyr kommt offiziell als Thar-Emissärin zur Verhandlung mit Drael. Vesper erkennt sie aus K07. Erste persönliche Gespräche.
 
-Nachts: Nyr ohne Bestie. Presst ihn an die Metallwand. Luft wird dünn. Er greift nach ihren Handgelenken (Reflex — Maren). Sie lacht. Presst seine Hände über seinen Kopf. Mit Druck, nicht Händen.
+> *„Du bist der, der Muster sieht."*
+> *„Die Thar benennen ihre Fehler. Der Bund nicht."*
 
-### Buch 2, Ende — Der Verrat
+Vesper-Skepsis am Bund startet hier. Nyr legt den Boden für seine Defektion zur Thar.
 
-Vesper gibt der Thar die Position der anderen. Kalkulation: dosierte Resonanz = Moragh überlebt. Er ist überzeugt. Nicht manipuliert — ÜBERZEUGT.
+**B2-K19 Markt-Saal (Maren-POV):** Vesper steht mit Nyr neben einem Bestien-Bauplan, konzentriert wie früher bei Maren. Maren sieht es, sagt nichts, geht weiter. Drift sichtbar.
 
-Maren erfährt es. "Du hast uns verkauft." — "Ich habe gerechnet." — "Das ist dasselbe."
+**B2-K22 Vesper folgt Nyr:** Nach Marens Brief geht Vesper bewusst Richtung Thar — Wahl, nicht Flucht. Will Magitech verstehen, will Bund-Heuchelei hinter sich lassen. Auf der Reise: Nyr-Trupp-Verlust am Wegrand, sie behandelt es als Statistik, nicht als Trauer.
 
-### Buch 3 — Die Schlüsselszene: Nyr wechselt die Seite
+**B2-K23 Thar-Kem als Stratege:** Vesper kommt mit Nyr in der Thar-Hauptstadt an, wird informeller Stratege (Schachspieler-Kopf). Niemand traut ihm voll, alle nutzen ihn. Nyr ist seine Kontaktperson, sein Tor zu den Magitech-Werkstätten.
 
-**Kontext:** Thalassische Technik kommt. Die Thar-Führung sieht die Möglichkeit: Resonanz-Begabte permanent an Maschinen anschließen. 24/7. Nicht Schichtarbeit — Dauerbetrieb. Autonome Bestien ohne Piloten. Vespers Temporal-KI macht ihn zum wertvollsten **Werkzeug** — und genau dieses Wort ist es das ihn kippen lässt. "Werkzeug." Nicht Partner, nicht Pilot, nicht Mensch. Werkzeug.
+**B2-K27 Halvara-Kel-Schlacht:** Nyr führt die Thar-Linie, Druck-Wellen gegen die Bund-Vorhut. Varen ist als Bund-Soldat in der Bund-Linie getarnt, fängt Nyrs Druckwellen ab — sie merkt nicht, was wirklich passiert, weil sie auf Bund-Tarnung fokussiert ist.
 
-Nyr findet den Bauplan. Metallklemmen an Stühlen. Infusionsleitungen. Eine Halle mit zwanzig Plätzen. Für Thalassier-Hände. Permanent. Sie kennt den Unterschied: IHRE Arbeit — hart, freiwillig, respektiert. DAS — Gefangenschaft.
+**B2 Phase 4 (K41–K43) Sulkara-Aufmarsch:** Drael + Nyr schicken eine **gemeinsame Beobachtungs-Vorhut** zur Sulkara-Quelle (Bund-Faktion droht mit politischer Überladung). Nyr arbeitet zum ersten Mal außerhalb des Krieges mit dem Bund — Vorgeschmack ihrer B3-Defektion. Erste Risse in der Loyalität, weil sie sieht, wie politische Befehle Quellen-Gemeinden gefährden.
 
-**DIE SZENE:**
+**B2-Ende (Personenstand):** Nyr ist mit Vesper liiert, **Thar-Defekteurin in Vorbereitung**.
 
-Nyr geht zu Vesper. Nachts. Die Thar-Stadt summt. Sie legt den Bauplan auf den Tisch.
+---
 
-"Sieh dir das an."
+## Buch 3 — Bogen
 
-Vesper sieht. Analysiert. Rechnet. Und sagt: "Das ist effizient."
+**B3 Akt I (Thar-Kem-Wartungshalle):** Nyr pilotiert Kessler, klopft mit der Handfläche auf den Stahl. Vesper bringt seinen Bericht über den Tech-Gradienten zur Thar-Kommandantin — sie legt ihn auf einen Stapel und liest ihn nicht. Beide spüren den Boden kippen.
 
-Stille. Nyr starrt ihn an.
+**B3-K29 Defektion — Zivilisten als Schild:** Die Thar-Führung gibt Befehle, Zivilisten als Schild gegen die Expedition zu nutzen. Für Nyr ist das die Linie: Pilotin freiwillig — Zivilisten unfreiwillig. **Sie fährt nachts aus Thar-Kem, verabschiedet sich von Vesper friedlich, bietet ihm Beistand an.** Kein Drama. Sie ist klar.
 
-"Effizient," wiederholt sie.
+Vesper bleibt zunächst, fokussiert sich später auf Alphinas Rettung (siehe `pov/vesper.md`). Friedliche Trennung, kein Bruch.
 
-"Die Energieausbeute pro Resonanz-Begabtem steigt um Faktor zwölf. Wenn man die Schichtmodelle —"
+**B3 Akt III (Kolmen-Wiederbegegnung):** Nyr kommt mit Vesper und Runa zur Gruppe in Kolmen — Tyra ist schon da. Erste Allianz aus Defekteur:innen. Alphina geht auf sie zu, weint.
 
-Sie schlägt auf den Tisch. Der Luftdruck im Raum steigt. Vespers Ohren knacken.
+**B3-K34 Parallel-Schlacht Runa + Nyr in Kessler:** Vor Dulrath-Ost. Bündnis vs. Expedition. Runa + Nyr in Kessler gegen Expeditions-Drohnen. Iven (17) lahmt Expeditions-Elektronik mit Störsender-Ritual durch einen geborgenen Transformator. Nyr trampelt Drohnen-Schwärme nieder, Runa heizt Kesslers Klauen — geschmolzene Stahl-Spuren über das Feld.
 
-"Das sind MENSCHEN. Menschen an Maschinen. Permanent. Ohne Pause. Ohne Wahl."
+**B3-K38 Schlacht-Ende:** Alphina lässt Vesper bei Nyr zurück und schleicht zum Steinplatz. Nyr hält die Stellung um Vesper.
 
-Vesper: "Die Rechnung —"
+**B3-K39 Verlust:** Nach Portal-Kollaps liegt **Kessler auf dem Schlachtfeld zurück**. **Nyr trauert.** Eine Moragh-Woche Rast für die Gruppe. Vesper-Amputation des linken Unterarms mit Runas Feuer-Klinge.
 
-"FICK die Rechnung." Nyrs Stimme. Leise. Gefährlicher als Schreien. "Ich bin Pilotin. Ich steige freiwillig in meine Bestie. Ich steige freiwillig wieder aus. Das hier —" sie tippt auf den Bauplan — "ist kein Cockpit. Das ist ein Käfig."
+---
 
-Vesper schweigt. Rechnet. Die Muster sagen: sie hat Recht. Die Effizienz sagt: er auch. Beides stimmt. Beides gleichzeitig.
+## Buch 3 Epilog — Halvek-Mar
 
-"Ich gehe," sagt Nyr. "Jetzt. Heute Nacht. Mit oder ohne dich."
+**Nyr und Runa bewohnen ein Haus mit Werkstatt** in Halvek-Mar (freie Südküsten-Stadt, Salz in der Luft). Werkstatt: Feuer (Runa) + Druck/Metall (Nyr). Brücken, Werkzeuge, Waffen für die Werft.
 
-Vesper sitzt still. Denkt. Fünf Sekunden. Zehn. Fünfzehn.
+**Kessler steht als ziviler Hafenkran im Dienst** — er arbeitet nur, wenn Nyr morgens zwei Stunden im Cockpit sitzt. Reiter und Bestie blieben Partner, auch nach dem Krieg. Keine Bestien-Kriege mehr. Salz, Hafen, ruhige Tage am Meer.
 
-Ohne Nyr: er bleibt. Die Thar brauchen ihn. Die Logik stimmt. Er optimiert Bestien, rettet Moragh, die Rechnung geht auf. Er hat einen Platz. Er hat einen Zweck. Er hat Recht.
+**Paar-Ende mit Runa.** Vesper ist mit Alphina zwei Straßen weiter.
 
-Mit Nyr: er verrät die Thar. Gibt alles auf was er gebaut hat. Kehrt zu Menschen zurück die er verraten hat. Maren wird ihm ins Gesicht schlagen. Alphina wird schweigen, was schlimmer ist. Er hat keinen Plan. Zum ersten Mal in seinem Leben hat er keinen Plan.
+---
 
-"Fünfzehn Sekunden," sagt Nyr. "Das ist die längste Entscheidung die ich je gesehen habe."
+## Kampfszenen — Repertoire
 
-Er steht auf.
+- **Nyr auf Kessler:** Elegant, mächtig. Bund-Beschwörer ruft Steinwesen — Nyr presst die Luft drumherum, gezielt, kontrolliert. Stein knackt. Bröckelt. Sie hat noch Stunden. Sie ist nicht am Limit. Sie lächelt.
+- **Nyr + Vesper (kombiniert, B2 Akt III):** Er sieht das Angriffsmuster, flüstert Koordinaten. Sie dreht ihre Bestie, presst Luft in den Angriffsvektor. Schach + Hammer. Kein Wort zu viel.
+- **Nyr ohne Bestie:** Kurze Distanz, gefährlich. Presst Luft aus Lungen. Drei Sekunden. Gegner kollabiert. Sie danach: außer Atem, wie nach einem Sprint. Braucht eine Minute.
+- **Nyr + Runa (B3 Akt IV):** Feuer + Druck = Metall das sich formt. Brücken, Werkzeuge, Waffen in Minuten statt Tagen. Handwerk auf Steroiden. In der Schlacht: Runa heizt Kesslers Klauen, Nyr presst die Aufschlagsfläche zu — Drohnen schmelzen unter dem Schritt.
 
-### Buch 3, Rückkehr
+---
 
-Vesper und Nyr kommen mit Bestie (modifiziert) und Daten (Thar-Schwachstellen). Vesper kehrt zu den anderen zurück.
+## Verworfen aus dem 2026-04-Stand
 
-Maren schlägt ihm ins Gesicht. Das Wasser im Raum explodiert — Vasen, Gläser, Kondenswasser. Alles fliegt. Vesper steht still. Nimmt es.
+Drei Plot-Elemente aus dem Anfangs-Stand (5. April 2026) sind durch spätere Refactor-Wellen abgelöst:
 
-Nyr steht hinter ihm. Breit, narbig, Bestie summt leise im Standby. Maren sieht sie an. Versteht sofort warum er zurückgekommen ist. Und das es nicht wegen der Rechnung war.
-
-### Runa — die Verfolgerin
-
-**Runa Kvist** verfolgt Nyr und Vesper als sie die Thar verlassen. Ehemalige Freundin als Antagonistin. Runa ist beim Konglomerat aufgestiegen — die Druckerin mit den warmen Händen schmiedet jetzt Thar-Kriegsmetall. Sie hat ihre eigenen Gründe beim Konglomerat zu bleiben: Macht, Zugehörigkeit, die Überzeugung dass die Thar-Ordnung besser ist als das Chaos des Bundes. Als Nyr und Vesper überlaufen, wird SIE auf sie angesetzt. Die Frau deren Hände auf Alphinas Haut lagen, jagt jetzt Alphinas Verbündete.
-
-## Kampfszenen
-
-**Nyr auf Kessler:** Elegant, mächtig. Beschwörer ruft Steinwesen. Nyr presst die Luft drumherum — gezielt, kontrolliert. Stein knackt. Bröckelt. Sie hat noch Stunden. Sie ist nicht am Limit. Sie lächelt.
-
-**Nyr + Vesper (kombiniert):** Er sieht das Angriffsmuster. Flüstert Koordinaten. Sie dreht ihre Bestie Kessler, presst Luft in den Angriffsvektor. Schach + Hammer. Kein Wort zu viel.
-
-**Nyr ohne Bestie:** Kurze Distanz, gefährlich. Presst Luft aus Lungen. Drei Sekunden. Gegner kollabiert. Sie danach: außer Atem, wie nach einem Sprint. Braucht eine Minute.
-
-**Nyr + Runa:** Feuer + Druck = Metall das sich formt. Brücken, Werkzeuge, Waffen. In Minuten statt Tagen. Handwerk auf Steroiden.
-
-## Intime Szenen
-
-**Nyr + Vesper, erste Nacht:** Werkstatt, warmer Stahl. Luft wird dünn — nicht gefährlich, aber Rausch, Schwindel, die Grenze zwischen Lust und Leichtigkeit. Sie kontrolliert den Luftdruck wie er die Zeit kontrolliert. Danach: Druckstellen auf seinen Handgelenken, nicht von Fingern, von Luft. Blaue Flecken in der Form von nichts.
-
-**Post-Sex:** Metall in der Werkstatt leicht verbogen. Schrauben gelöst. Luft riecht nach Ozon. Nyr: nicht erschöpft. Sie hat kaum Reservoir verbraucht. Das war Spielen, nicht Arbeit.
+- **„Vesper hat uns verkauft" / Verrats-Plot in B2:** Vesper geht freiwillig zur Thar als Stratege, gibt aber nicht aktiv die Position der anderen preis. Maren erfährt nichts dergleichen — sie spürt den Wasserweg-Riss bei Dravek selbst und geht in B2-K39 solo zurück nach Thalassien. Maren und Vesper sehen sich nie wieder; Maren stirbt 2037 TZ in B3-I3 (Verwüster-Angriff).
+- **Bauplan-Konfrontation „FICK die Rechnung" / Fünfzehn-Sekunden-Szene:** Aktuelle Linie (synopse-b3 K29) ist eine **friedliche Verabschiedung** wegen Zivilisten-als-Schild-Befehlen. Nyrs Pilotin-Selbstbild bleibt als innere Linie (siehe oben), aber ohne Konfrontations-Dramaturgie.
+- **Runa als Verfolgerin / Konglomerat-Aufstieg:** Runa bleibt beim Bund (`pov/runa.md`). Sie verfolgt niemanden. In B3 Akt IV kämpfen Runa und Nyr gemeinsam in Kessler, Epilog leben sie als Paar.
+- **Autonome Magitech-Bestien / KI-gesteuert / Tech-Magie-Fusion ~2250:** Konzept gestrichen. Magitech bleibt menschen-pilotiert. Die Bedrohung in B3 ist die Thalassien-Expedition mit Bodymods + Drohnen, keine autonome Moragh-Tech.

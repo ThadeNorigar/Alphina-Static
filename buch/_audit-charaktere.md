@@ -26,7 +26,7 @@ Pro Hauptfigur sicherstellen, dass jedes Schlüssel-Erlebnis als Zeitleisten-Eve
 | File | Geprüft | Findings | Aktion |
 |---|---|---|---|
 | `19-varen.md` | ✓ 2026-05-02 | §8 Sorel-Tod-Szene, §9 Alphina-B2-Bogen, §10 Alphina-B3-Bruch, §11 Alphina-Farblogik — gehört nicht ins Varen-File | Befund 1.1 |
-| `11-nyr.md` | ✓ 2026-05-02 | „Buch 2 Ende — Der Verrat" + „Buch 3 — Schlüsselszene" beschreiben Vesper-Bogen, nicht Nyr; „Runa als Verfolgerin" beschreibt Runa-B3 | Befund 1.2 |
+| `11-nyr.md` | ✓ refaktoriert 2026-05-03 | komplett neu strukturiert: Verrats-Plot raus, K29-Defektion „Zivilisten als Schild" + friedliche Verabschiedung rein, Akt-III-Wiederbegegnung + K34-Schlacht + Epilog Runa+Nyr ergänzt, Pilotin-Selbstbild als innerer Anker behalten, autonome Bestien gestrichen | Befund 1.2 erledigt |
 | `13-talven.md` | ✓ 2026-05-02 | sauber | Befund 1.3 |
 
 ### POV-Dossiers
