@@ -158,6 +158,21 @@ Master ist jetzt `synopse-b3.md` mit:
 
 ---
 
+### Varen-Final-Cleanup — Status: ✓ erledigt 2026-05-03
+
+Kritischer Final-Check ergab, dass §8 (Sorel-Todesszene-Drehbuch) noch im File stand, plus §12/§13 mehrere veraltete Einträge enthielten. Behoben:
+
+- **§8** auf Verweis-Stub reduziert (analog §9/§10/§11). Mechanik-Anker und Tschechow-Beats kompakt zusammengefasst, Master-Verweise auf finale Prosa B1-K38 + `pov/sorel.md` + `pov/alphina.md`.
+- **§12 Offene Fragen** durchgekämmt: Q1 (Marens Rückweg) als gelöst markiert + nach „Gelöste Fragen"-Block verlagert. Q2 (Wer bricht das Schweigen) entfernt — Frage falsch gestellt, B3-Bruch ist kein Schweige-Bruch. Q7 (K38/K39-Split) entfernt — alte Numerierung. Q8 (Elkes Rolle in K42) entfernt — alte Numerierung. Verbleibend offen: Dublett moragh-karte, Velmar-Kultur, 350 Verschwundene.
+- **§13 Entscheidungs-Tabelle** komplett auf aktuelle Linie gebracht: Krieg-Ursache (§4-Variante: Vakuum/Ressourcen), B2 Hybrid-Fassade statt Schweige-Verrat, B3-Bruch durch Vesper-Dokument + Schreibtisch-Satz, B3-Tod durch Dornen mit Garten-Reveal, Sorels Tod via Energie-Druck statt Bindung, Varens Rückzug als taktisch (kein „erschöpft", kein „Blut spucken"), Halt-Magie-Mechanik als eigene Zeile. K38/K39-Doppel-Eintrag entfernt.
+- **Internen Widerspruch §4 vs §13 zur Krieg-Ursache** aufgelöst: §4-Variante (Vakuum/Ressourcen) übernommen; §13-Eintrag „Wie der Krieg ausbrach" entsprechend umgeschrieben.
+- **Header Z. 19** auf 2026-05-03 aktualisiert.
+- **Disposition Z. 23** umgeschrieben — File ist jetzt explizit Varen-zentriert mit Verweisen auf die verlagerten Themen.
+
+**`19-varen.md` ist vollständig durch.** §1, §1b, §2–§7 sind Varens Eigenes (Erscheinung, Talente, Halt-Magie, taktisches Profil, Stimm-Beispiele, Motiv, Unfall, Krieg, Velmar-Vertuschung, Familie, Portalmagie, Portalplan). §8/§9/§10/§11 sind Verweis-Stubs auf die Master-Files. §12 hat drei verbleibende offene Fragen. §13 ist die aktuelle Entscheidungs-Tabelle.
+
+---
+
 ### §11 Cleanup — Status: ✓ erledigt 2026-05-03
 
 **Drei Beats nach `pov/alphina.md` Zorn-Farbpalette gerettet:**

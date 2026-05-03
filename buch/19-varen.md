@@ -16,11 +16,17 @@ buecher: [1, 2, 3]
 
 ![Varen in seinem Studierzimmer in Mar-Keth](/img/varen.png)
 
-**Letzte Aktualisierung:** 2026-04-09 (Session Grundplot)
+**Letzte Aktualisierung:** 2026-05-03 (§8/§9/§10/§11-Cleanup, Halt-Magie-Canon, Schemen-Mechanik-Präzisierung, Daten-Drifts D1–D11)
 **Status:** Aktiver Kanon. Bei Konflikt mit älteren Notizen gewinnt dieses File.
-**Verwandte Files:** `00-welt.md` (Abschnitt "Varen"), `00-storyline.md`, `00-canon-kompakt.md`, `zeitleiste.json`, `pov/alphina.md` (Zorn-Farbpalette)
+**Verwandte Files:** `00-welt.md`, `00-storyline.md`, `00-canon-kompakt.md`, `zeitleiste.json`, `synopse-b2.md`, `synopse-b3.md`, `10-magie-system.md`, `pov/alphina.md`, `pov/sorel.md`.
 
-Dieses File konsolidiert sämtliche Entscheidungen zu Varen, seinem Motiv, seiner Schuld, der Sorel-Todesszene, Alphinas Buch-2-Bogen, der Portalmagie-Regel, der Farblogik ihrer Resonanz und der Hybrid-Geständnis-Strategie. Es ist die Primärreferenz für alle Kapitel in denen Varen auftritt oder Alphinas Bogen in Moragh ausgearbeitet wird.
+Dieses File ist die Primärreferenz für **Varen selbst** — wer er ist, was er kann, was er getan hat, wie er spricht, wie er taktisch operiert. Vier Themen, die früher hier lagen, sind heute in den richtigen Master-Files:
+- **Sorel-Todesszene B1-K38** → finale Prosa + `pov/sorel.md` Tschechow-Sektion
+- **Alphinas Buch-2-Bogen** → `synopse-b2.md` (Hybrid-Geständnis-Linie)
+- **Buch-3-Bruch und Tod** → `synopse-b3.md` (Akt-IV-Duell mit Garten-Reveal)
+- **Farblogik der Anti-Flora** → `pov/alphina.md` Zorn-Farbpalette
+
+Detail siehe Stubs §8/§9/§10/§11.
 
 ---
 
@@ -194,94 +200,19 @@ Maren ist Wasser/Fluss — Raummanipulation, nicht Zeit. Nach der Regel kann sie
 
 ---
 
-## 8. Die Sorel-Todesszene (K37 + K38 + K39)
+## 8. Sorel-Todesszene B1-K38 (verlagert)
 
-**Kapitelstruktur:**
-- **K37 — Sorel: Durchgang** (Sorel POV). Das Ritual funktioniert, das Portal öffnet sich, die Vier gehen durch. Runa schlüpft im letzten Moment mit. Fünf treten auf dem Moragh-Steinplatz aus dem Licht. Erster Eindruck: andere Schwerkraft (0.7g, sie fühlen sich leicht), andere Farbe des Himmels (Akkretionsscheibe statt Sonne, ein Graugelb das niemand erwartet hat), zwei Monde. Sorels Kapitel endet mit dem Moment, in dem sie begreifen, dass sie nicht mehr in Thalassien sind.
-- **K38 — Alphina: Varen** (Alphina POV). Erste Begegnung mit Varen. Er tritt aus dem Schatten. Kennt ihre Namen. Kennt Alphina. Legt die Hand an ihr Kinn. Bindungsmagie hält sie. Er studiert sie — nicht sexuell gemeint, aber sexuell wirkend. Die Leserin hat Angst dass er sie missbraucht. Er tut es nicht, aber die Grenze ist dünn. Die Szene ist **die Berührung**, nicht der Kampf. K38 endet mit Sorels Bewegung ("Nimm die Hand weg.") und dem Beat der Stille bevor alles kippt.
-- **K39 — Alphina: Sorels Tod** (Alphina POV). Die eigentliche Kampfszene. Schemen verteidigen Varen, Sorel stirbt zu schnell. Alphinas Zorn-Explosion. Anti-Flora. Varens erschöpfter Rückzug mit "Wir sehen uns nicht das letzte Mal."
+Master ist die finale Prosa B1-K38 (Moragh-Ankunft + Varen-Berührung + Sorel-Tod + Alphinas Explosion + Beruhigung; B1-K39 = Trauer + Aufbruch). Mechanik-Anker und Tschechow-Beats:
 
-**K38 ist also NICHT die Kampfszene.** K38 ist die Berührung und die Drohung, K39 ist der Kampf und der Tod.
+- **Halt-Magie auf die Vier:** Druck (festhalten) + Zeit (verlangsamen) + Energie (Resonanz dämpfen) — siehe §1b. Bindungsmagie wirkt nur auf Schemen.
+- **Sorel kann sich rühren:** seine unbewusst aktive Licht-Resonanz kompensiert die Energie-Dämpfung lokal — siehe `pov/sorel.md` Tschechow.
+- **Schutz-Schemen** (gebunden, Auftrag „mich schützen") interpretieren Sorels Sprung zwischen Varen und Alphina als Angriff, werfen ihn um (Schulter/Hüfte/Hals) — Schutz-Reflex, kein Tötungs-Befehl. Saldo nach `10-magie-system.md` Aggressions-Skala: −1 pro Schemen.
+- **Sterbe-Mechanik:** Varens umgelenkter Energie-Druck trifft Sorels instabile Resonanz, sie reißt aus ihm als Lichtsäule (Bilder seines Lebens) — `pov/sorel.md` Tschechow.
+- **Alphinas Zorn-Explosion** (Anti-Flora schwarz/purpur/rot, Wirbelsäulen-Riss mit lebenslanger Narbe, Drei-Wunden-Set Maren/Vesper/Runa, Sorel-Blüten bleiben) — `pov/alphina.md` Zorn-Farbpalette + Tschechow-Sektion.
+- **Varens Rückzug:** taktisch, kontrolliert, mit Schemen-Bannen unterwegs — siehe §1b „Taktisches Profil". Kein Hals-über-Kopf, kein Blut-Spucken.
+- **Abgangstext:** *„Euer Freund trat zwischen mich und sie; mein Schutz hat geantwortet. Was danach in ihm zerbrochen ist, kam aus ihm. Sein Licht war größer als sein Maß. Bedenkt das, ehe ihr mich zum Grund erklärt."* — siehe §1.
 
-### K38 — Berührungsszene im Detail
-
-**Setting:** Moragh-Steinplatz, nahe Dravek. Abend. Zwei Monde, Akkretionsscheibe in Grau-Gelb am Horizont. Es ist kühl, die Luft anders als in Vael (dünner, trockener, metallisch im Geschmack). Der Steinplatz ist das Gegenstück zum Botanischen Garten in Vael — Purpurstein, kreisförmig, beschriftet, gewartet. Elke lebt zwei Stunden Fußweg entfernt in Dravek. Keiner der Fünf weiß das.
-
-**Was Alphina sieht:** Ein Mann tritt aus dem Schatten. Groß, muskulös. Graue Schläfen, schwarzes Haar. Augen — sie kann sie im Halbdunkel nicht einordnen, sie schimmern falsch. Er riecht gut — warmer Stein, etwas Süßes das sie nicht benennen kann. Er ist gut gekleidet, aber nicht kostümhaft. Er wirkt **zu Hause** in dieser Welt.
-
-**Was er sagt:** Er spricht Thalassisch. Die Art wie er spricht ist falsch — zu alt, zu gemessen. Als ob er in einem Buch aus Großmutter-Zeiten liest. Er nennt ihre Namen. Alle vier. Plus Runa, die gerade erst durchgerutscht ist. Er weiß das — weiß wer hier steht.
-
-**Die Berührung:** Er geht auf Alphina zu. Zu langsam um ein Angriff zu sein, zu direkt um ein Gruß zu sein. Alphina will zurücktreten — sie kann nicht. Eine Art Druck hält sie fest. Ihre Füße berühren noch den Boden, aber ihre Muskeln reagieren nicht. Das ist Bindungsmagie, aber sie weiß das Wort noch nicht. Er legt die Hand an ihr Kinn. Dreht ihren Kopf leicht. Schaut in ihre Augen. Sein Daumen an ihrem Unterkiefer. Finger an ihrem Hals, am Puls.
-
-"Deine Resonanz," sagt er auf Thalassisch. "Ich habe sie durch den Riss gespürt. Über vierhundert Jahre."
-
-**Alphinas Körper:** Reagiert, nicht weil sie will. Ihre Haut wärmt sich. Ihre Pupillen weiten sich. Ihr Puls unter seinem Finger wird schneller. **Das ist nicht Erregung — das ist Schock, den ihr Körper als Erregung missinterpretiert.** Sie will sich wegziehen. Sie kann nicht. Das macht es schlimmer.
-
-**Die Leserin:** Hat Angst, dass er sie missbraucht. Die Szene ist **nicht** sexuell gemeint — Varen will studieren, nicht anfassen. Aber die Körperlichkeit, die Unfähigkeit sich zu bewegen, die Intimität der Geste machen es **wie** Missbrauch. Die Grenze ist so dünn, dass man nicht sicher sein kann. **Romantasy-Leserin-Test:** diese Szene soll unangenehm sein. Nicht verboten-heiß — **unangenehm**. Der Leser soll wollen dass es aufhört.
-
-**Die anderen drei (Vesper, Maren, Runa):** Stehen und können nichts tun. Auch sie sind in Bindungsmagie gefangen. Vesper erkennt den Mechanismus zuerst — er sieht ein Muster, einen Takt, eine Frequenz. Er weiß sofort: das ist Zeit-Magie. Er kann nichts dagegen tun. Maren sieht Varens Stand und weiß: dieser Mann hat diesen Boden schon oft betreten. Er ist zu Hause. Runa brennt innerlich, ihre Feuer-Resonanz will hochkommen, sie hält sie zurück weil sie nicht weiß was passiert.
-
-**Sorel:** Steht hinter Alphina, am Rand ihres Blickfelds. Sie sieht ihn nicht direkt. Sie spürt ihn — seine Anwesenheit, seine Hand die sich zur Faust ballt. Sorels Bindung ist **schwächer** als die der anderen — sein Licht-Resonanz kämpft gegen die Zeit-Bindung, unbewusst. Er ist der einzige, der sich **bewegen kann**. Das merkt er gerade jetzt.
-
-**Das Kippen:** Sorel bewegt sich. Instinkt. Kein Plan. "Nimm die Hand weg." Er geht zwischen Varen und Alphina.
-
-**K38 endet mit diesem Moment.** Sorel steht zwischen ihnen. Varen dreht sich langsam. Zeitluke. Die Welt hält den Atem an. Ein Beat der Stille. Dann: Kapitelende.
-
-### K39 — Todesszene im Detail
-
-**Die Schemen.** Varen hat sie mitgebracht. Ein Dutzend, vielleicht mehr. Sie sind ausgewachsen — nicht die kleinen die Alphina in Vael gesehen hat. Diese sind groß wie Menschen, schnell, dunkel, mit leuchtenden Augen. Sie haben bis jetzt am Rand gestanden, unsichtbar für die Thalassier. Als Sorel sich bewegt, reagieren sie. **Sehr schnell.**
-
-**Was geschieht:** Drei Schemen stürzen auf Sorel. Nicht auf einmal — in einer Bruchteilssekunden-Folge. Einer trifft seine Schulter, einer seine Hüfte, einer seinen Hals. Sein Körper wird **umgeworfen** vor der eigentlichen Kampfhandlung. Er schlägt auf die Steinplatten. Er versucht aufzustehen. Ein vierter Schemen ist über ihm.
-
-**Varens Bindung trifft dazu.** Varen hatte sie auf Alphina gerichtet. Als Sorel sich dazwischen wirft, wechselt Varen das Ziel — zu spät. Die Bindung trifft Sorels Resonanz. **Seine Licht-Resonanz reißt aus ihm.** Bilder explodieren um seinen Körper herum — Momente seines Lebens, die seine Augen gesehen haben, werden als Licht freigesetzt. Alphina im Garten. Ein Verband an seiner Hand. Eine Platte in der Dunkelkammer. Sein Vater. Die Grauwe. Die Momente verpuffen in Millisekunden, eine Lichtsäule aus Sorels Leben.
-
-**Sein Körper hält es nicht aus.** Es war nicht zum Töten gedacht — Varens Bindung sollte ihn fixieren, nicht töten. Aber Sorels Resonanz war instabil (sein Geheimnis: er hat Alphina auf Platten gemalt, er hat Licht gelenkt ohne es zu wissen), sein Körper war nicht trainiert, seine innere Struktur war nicht darauf vorbereitet. **Die Resonanz zerreißt ihn von innen.**
-
-**Wie genau er stirbt:** Nicht hübsch. Seine Augen brennen zuerst — sein eigenes Licht, das rausfließt. Dann seine Lunge (die Bindung hat seine Brust getroffen). Blut aus Nase, Mund, Ohren. Er sinkt auf den Boden. Keine letzten Worte. Kein dramatischer Kampftod. Nur ein Körper, der seine eigene Magie nicht halten kann und zerbricht.
-
-**Die Kamera.** Sorel hatte seine Kamera bei sich — er hat sie durchs Portal genommen, weil er nie ohne sie ist. Sie liegt jetzt zerschlagen neben ihm. Eine Platte ist zerbrochen, Silberhalogenid rieselt aus den Fragmenten. Die Kamera ist als Tschechow bereits etabliert (K13, K25, K37). Hier stirbt sie mit ihm.
-
-**Der Beat der Stille.** Für drei Atemzüge passiert nichts. Die Schemen stehen still. Varen steht still. Alphina begreift es nicht. Sie dreht den Kopf langsam — die Bindungsmagie schwankt, weil Varens Konzentration gebrochen ist — und sieht Sorel am Boden. Sie will etwas sagen. Vielleicht seinen Namen. Sie öffnet den Mund. **Nichts.**
-
-**Dann kippt die Welt.**
-
-### Alphinas Zorn (K39 Hauptteil)
-
-**Der Beat:** Erst Stille. Dann alles auf einmal. Kein langsames Crescendo — eine Explosion.
-
-**Die Farbe:** Wichtiger Canon — **keine grünen Pflanzen.** In Moragh, unter Emotion, kippt ihre Resonanz-Farbe. Alles was wächst ist pechschwarz, tiefpurpur im Stängel, blutrot in den Blüten. Anti-Flora. Pflanzen wie Wunden. Die Welt wird nicht zum Dschungel — sie wird zu etwas anderem, zu etwas das es in keiner Welt vorher gab.
-
-**Die Elemente (in ungefährer Reihenfolge):**
-
-1. **Durchwuchs.** Eine pechschwarze Wurzel wächst durch den nächsten Schemen hindurch, knackt ihn wie Glas. Aus den Bruchstellen quellen blutrote Blüten, so dunkel dass sie fast schwarz sind — geronnenes Blut, das Blütenform annimmt.
-
-2. **Zellteilung umkehrt sich.** Ein anderer Schemen zerfällt in seine Schatten-Zellen, jede wird von einem schwarzen Wurzelhaar durchbohrt. 10.000 winzige Nadelstiche gleichzeitig. Der Schemen ist Staub.
-
-3. **Wurzelgreifer aus dem Boden.** Finger aus pechschwarzen Wurzeln kommen aus der Erde und ziehen Schemen nach unten. Die Steinplatten des Moragh-Steinplatzes brechen auf. Die Erde öffnet sich in purpurroten Spalten und frisst die Schemen.
-
-4. **Ihr Rücken reißt auf.** Entlang der Wirbelsäule. Die Haut teilt sich wie ein Reißverschluss. Aus dem Riss wächst eine schwarze Wurzel zehn Meter in den Boden. Für eine Minute ist sie ein Baum: schwarze Rinde, keine Blätter, nur Dornen. Ihr Kopf ist nach hinten gelegt, ihre Augen sind leer. Dann zieht sie die Wurzel zurück. Der Riss heilt schneller als er aufgegangen ist. **Eine Narbe entlang ihrer Wirbelsäule bleibt ihr ganzes Leben.** Sie wird sie nie einem Arzt zeigen.
-
-5. **Sie wird größer.** Einen halben Meter. Nicht in einer Fantasy-Weise — gewaltsam. Ihre Wirbel knirschen, ihre Gelenke ziehen sich, ihre Knochen strecken sich wie die Pflanzen um sie herum. Sie ist für ein paar Minuten eine andere Frau: zu groß, zu lang, zu dunkel. Dann bricht sie zusammen und schrumpft wieder.
-
-6. **Die anderen drei sehen es.** Vesper, Maren, Runa stehen am Rand. Varens Bindung hat sie losgelassen, weil seine Konzentration gebrochen ist — aber sie können sich nicht bewegen, weil sie zu schockiert sind. Keiner von ihnen greift helfend ein. Sie sind **Zeugen**, nicht Kämpfer. Sie werden verletzt — Dornen reißen Marens Wade auf, eine Wurzel trifft Vespers Schulter, Brombeeren schneiden Runas Unterarme. Sie zucken, schreien, aber greifen nicht ein.
-
-7. **Varen flieht.** Nicht würdevoll. Erschöpft. Seine Magie ist zyklisch — sie kostet seinen Körper, sein Reservoir, seine Konzentration. Alphinas Magie ist azyklisch — sie kostet nichts, weil sie aus Wut gespeist wird, und Wut ist unerschöpflich. Ein Moragh-Meister gegen eine Thalassier-Anfängerin, und sie zermalmt ihn weil ihre Wut nicht erschöpflich ist. Er zieht sich hinter die letzten stehenden Schemen zurück, spuckt Blut (die Bindung schlägt auf ihn zurück), und flüstert auf Thalassisch: **"Wir sehen uns nicht das letzte Mal."** Dann ist er weg — ein Schemen hat ihn auf die andere Seite des Steinplatzes gezogen, oder er ist selbst gerannt, oder er hat sich in die Dunkelheit fallen lassen. Die Leserin weiß es nicht genau. Sie sieht nur, dass er weg ist.
-
-8. **Der Preis.** Alphina sackt zusammen. Jetzt erst. Ihre Knie auf dem Stein, ihre Hände in der aufgerissenen Erde. Aus allen schwarzen Wurzeln, die sie erschaffen hat, fallen die schwarzen und purpurnen Blüten ab und der Boden nimmt sie auf. **Alles was sie gewachsen hat, stirbt in dem Moment wo sie aufhört.** Die Wurzeln verdorren. Der Dschungel verschwindet. Nach einer Minute ist der Steinplatz wieder nackt — aufgebrochen, aber nackt.
-
-9. **Außer bei Sorel.** Auf seinen Körper wachsen die blutroten und schwarzen Blüten mit den purpurnen Kanten. Und sie **bleiben**. Sie verdorren nicht. Sie sinken nicht in den Boden. Sie sind ihr Geschenk an ihn — oder ihre Bindung, oder ihr Zeichen, oder ihre Verzweiflung. Die Leserin entscheidet. Sie legt ihre Stirn auf Sorels Brust, und die Blüten berühren ihr Gesicht. Sie weint nicht. Sie sagt nichts. Ihr Körper ist leer.
-
-10. **Stille danach.** Kein Geräusch. Kein Wind. Die drei anderen atmen, aber sprechen nicht. Vesper kniet nieder, aber nähert sich nicht. Maren steht still und sieht die aufgerissene Erde. Runa sieht Alphinas Rücken und die Narbe, die entlang der Wirbelsäule sichtbar ist, und weiß dass sie die Narbe nie mit einem Wort benennen wird.
-
-**K39 endet mit diesem Bild.** Alphina kniet bei Sorel. Die Blüten bleiben. Die Welt ist stumm. Die anderen warten, bis sie aufstehen kann. Sie weiß noch nicht dass Elke gleich kommt (K40 ist Vesper-POV, K42 ist "Alphina: Elke").
-
-**Wichtige Regeln für die Todesszene:**
-- Kein cooler One-Liner von Alphina. Sie sagt nichts. Das Kapitel hat fast keine Dialoge.
-- Kein dramatischer "Du hast ihn getötet!"-Schrei. Der Körper spricht, der Mund nicht.
-- Sorel bewegt sich nicht nochmal. Keine letzten Worte. Kein sterbendes Lächeln. Tot ist tot.
-- Die drei anderen greifen nicht ein. Sie stehen und sind Zeugen. Das ist ihr Beitrag: Zeuge sein.
-- Kein Musik-Moment, keine Zeitlupe, keine Fantasy-Schlacht-Ästhetik. **Horror**, nicht Heldenepos.
-- Die Farblogik: niemals grün, immer schwarz/purpur/rot.
+Verworfen aus der ersten Plot-Vorstellung 2026-04-09: Bindungsmagie auf Menschen, „spuckt Blut", Anfänger-zermalmen, Größerwerden um halben Meter, „Wir sehen uns nicht das letzte Mal", „Sorels Resonanz instabil weil er Alphina auf Platten gemalt hat" als außer-Canon-Begründung.
 
 ---
 
@@ -327,47 +258,44 @@ Master ist `pov/alphina.md` Sektion „Zorn-Farbpalette". Alle Details (Anthocya
 - `zeitleiste.json` — MZ-3 Event "Varen beginnt Portalforschung" hinzugefügt, MZ-5 Event mit Velmar-Kontext erweitert
 - `moragh-karte.json` — Mar-Keth statt Keth-Varen als Todzone (vom Autor per Editor)
 
-**Offene Fragen (zu entscheiden später):**
+**Offene Fragen (Stand 2026-05-03):**
 
-1. **Marens Rückweg:** Kann sie ohne Zeit-Resonanz das Portal öffnen? Optionen A (Wasser enthält implizit Zeit), B (Vesper öffnet es und bleibt), C (Maren altert Jahrzehnte im Durchgang). Noch nicht entschieden.
+1. **Das Dublett in moragh-karte.json:** Es gibt noch einen "Keth-Varen"-Eintrag bei (564, 517) mit faction "frei", size -1. Autor hat bestätigt: "Ich habe die beiden Gebiete in der Position getauscht, nicht umbenannt." Der alte Keth-Varen-Eintrag bleibt als freie Stadt im Westen bestehen.
 
-2. **Wer bricht das Schweigen in Buch 3:** Vesper, Runa, Elke — oder Varen selbst am Ende, als Reaktion auf den drohenden Tod. Noch nicht entschieden. Meine Empfehlung: Elke.
+2. **Velmar-Kultur:** Das Kastensystem mit "Reinheit der Bindung" ist gesetzt, braucht aber Ausarbeitung. Was genau ist eine "Bindung" in Velmar? Welche Kasten gibt es? Wie wird ein Binder-Kind ausgewählt? Stoff für ein eigenes Dossier, vielleicht `buch/20-velmar.md`.
 
-3. **Das Dublett in moragh-karte.json:** Es gibt noch einen "Keth-Varen"-Eintrag bei (564, 517) mit faction "frei", size -1. Autor hat bestätigt: "Ich habe die beiden Gebiete in der Position getauscht, nicht umbenannt." Das heißt: der alte Keth-Varen-Eintrag bleibt als freie Stadt im Westen bestehen. Ich lasse ihn unverändert.
+3. **Die 350 Verschwundenen vor 200 MZ-Jahren:** Als legendäre Gruppe etabliert, aber noch nicht mit Namen, Gesichtern, Gründen. Haben sie ein Manuskript hinterlassen (Elkes Manuskript könnte ein Echo sein)? Gibt es einen Nachfahr der Gruppe, den Varen finden könnte? Offener Stoff.
 
-4. **Velmar-Kultur:** Das Kastensystem mit "Reinheit der Bindung" ist neu. Es passt zu Canon, aber braucht noch weitere Ausarbeitung. Was genau ist eine "Bindung" in Velmar? Welche Kasten gibt es? Wie wird ein Binder-Kind ausgewählt? Das ist Stoff für ein eigenes Dossier, vielleicht `buch/20-velmar.md`.
+**Gelöste Fragen (Historie, der Vollständigkeit halber):**
 
-5. **Die 350 Verschwundenen vor 200 MZ-Jahren:** Als legendäre Gruppe etabliert, aber noch nicht mit Namen, Gesichtern, Gründen. Haben sie ein Manuskript hinterlassen (Elkes Manuskript könnte ein Echo sein)? Gibt es noch einen Nachfahr der Gruppe, den Varen finden könnte? Offener Stoff.
-
-6. **Talven-Frage gelöst (2026-04-26):** Talven ist Bund-Lehrling, kein Velmar-Deserteur. Er entwickelt **eigenständig** Blutmagie + Schemen-Bindung — Selbstlehre, Privatwissen. Varen lehrt ihn NICHTS. Beide Linien laufen parallel ohne Kreuzung bis B3. Resonanz-Ernte (Varens Technik) und Blutmagie (Talvens Praxis) sind zwei getrennte Magie-Wege.
-
-7. **K38/K39-Split:** Die Todesszene liegt in K39 (Alphina: Sorels Tod). K38 (Alphina: Varen) ist die Berührungsszene. Diese Trennung ist wichtig für die Pacing und sollte beim Entwurf von K38 und K39 beachtet werden. Zwei Kapitel, nicht eins.
-
-8. **Elkes Rolle in K42:** Kapitel 42 ist "Alphina: Elke" — das ist nach der Todesszene, wenn Elke die Gruppe findet. Elke wird hier wahrscheinlich NICHT ihre Beziehung zu Varen preisgeben. Das Schweigen beginnt hier. Das muss der Entwurf von K42 berücksichtigen: Elke ist erschüttert, hilfsbereit, aber zurückhaltend. Sie lügt nicht offen, aber sie lässt wichtige Informationen weg.
+- **Marens Rückweg** (gelöst 2026-05-02): Maren tritt in B2-K39 durch den Wasserweg-Riss bei Dravek zurück nach Thalassien. Wasser-Resonanz reagiert mit der dünnen zweiten Bruchstelle des Quellsystems, kein Vesper-Opfer-Setup nötig. Siehe `synopse-b2.md` K39 + Memory `project_maren_wasser_resonanz.md`.
+- **B3-Bruch und Tod** (gelöst 2026-05-02): Bruch in Akt III durch Vespers Velmar-Dokument-Entschlüsselung + Schreibtisch-Satz „Sorels Nutzen liegt im Sterben"; Tod im Akt-IV-Duell mit Garten-Reveal und Dornen-Stoß. Siehe `synopse-b3.md` Akt III/IV.
+- **Talven-Frage** (gelöst 2026-04-26): Bund-Lehrling, Selbstlehre Blutmagie + Schemen-Bindung. Varen lehrt nichts. Resonanz-Ernte (Varens Technik) und Blutmagie (Talvens Praxis) sind getrennt. Siehe `13-talven.md`.
 
 ---
 
-## 13. Zusammenfassung der Entscheidungen aus dieser Session
+## 13. Entscheidungs-Tabelle
 
 | Frage | Entscheidung |
 |---|---|
 | Varens Herkunft | Velmar, aus Mar-Keth (der Stadt die er versehentlich tötet) |
 | Wer weiß von Varens Schuld | Velmar-Binder-Elite weiß alles und vertuscht. Andere Fraktionen wissen nichts. |
 | Varens Motiv | Expansion der bewohnbaren Zonen (magiefreie Flächen besiedelbar machen). Er wollte Quellen stärken, wollte niemanden opfern. Unfall. |
-| Wie der Krieg ausbrach | Das Thar-Konglomerat glaubt, der Bund von Orath habe die Explosion absichtlich ausgelöst. Misstrauen und Vergeltung, nicht Ressourcenknappheit. Die Vier erfahren zunächst die Konglomerat-Version. |
+| Wie der Krieg ausbrach | **Das Vakuum reichte.** Drei Quellen fehlten, die verbleibenden reichten nicht für alle. Fraktionen, die vorher koexistierten, kämpften um Ressourcen. Bund griff Thar an wegen Thar-Expansion. Velmar offiziell neutral, inoffiziell mitwissend. **Keine Schuldzuweisung als Kriegsursache.** Siehe §4. |
 | Portalmagie-Regel | Braucht Druck- UND Zeitmanipulation. Schwerkraft = Zeit (Einstein). |
 | Portalmagie-Verbot | Nach den 350 Verschwundenen vor 200 MZ-Jahren von allen Fraktionen verboten. |
-| Timing Portalforschung | MZ -3 (1 Jahr nach Kriegsbeginn), 2 Jahre bis Elke (MZ -1), Elkes Ankunft als brachialer Unfall |
-| Elkes Rolle | Sie verlässt Varen aus zwei Gründen (Durchschauen + nicht-zurück-wollen) und hält ihre Beziehung geheim |
-| Alphinas Buch-2-Bogen | 2/3 Hass auf Varen, ab Mitte Zweifel am Bund (nicht an Varen), 2/3-Mark Gefangennahme, Ende Seitenwechsel aus Glauben |
-| Hybrid-Geständnis | Varen verschweigt in Buch 2 ganz. In Buch 3 bricht es auf durch Fremdaufdeckung (vermutlich Elke). |
-| Der Bruch | Durch Schweige-Verrat, nicht durch kalkuliertes Opfer. "Der Verrat ist das Schweigen, nicht der Akt." |
-| Sorels Tod | Schemen verteidigen, Sorel stirbt durch unkontrollierbare Werkzeuge. Varens Bindung trifft dazu, seine Licht-Resonanz reißt aus ihm, sein Körper hält es nicht aus. |
-| Alphinas Zorn-Farbe | Nicht grün. Pechschwarze Wurzeln, purpurne Stängel, blutrote Blüten mit schwarzen Kanten. Anti-Flora. Physiologisch: Moragh hat keine direkte Sonne, Anthocyane statt Chlorophyll. |
-| Die Blüten auf Sorels Körper | Blutrot und schwarz mit purpurnen Kanten. **Nicht weiß.** Sie bleiben, wenn alles andere stirbt. |
-| Varens Rückzug | Erschöpft, nicht würdevoll. Seine Magie ist zyklisch, Alphinas azyklisch. |
-| Varens Abgangstext B1-K38 | *„Euer Freund trat zwischen mich und sie; mein Schutz hat geantwortet. Was danach in ihm zerbrochen ist, kam aus ihm. Sein Licht war größer als sein Maß. Bedenkt das, ehe ihr mich zum Grund erklärt."* In altes Thalassisch. Schuld-Verschiebung als Saatkorn für B2-Bekehrung. |
-| K38 vs. K39 | K38 ist die Berührungsszene (Bindung, Studieren). K39 ist der Kampf und der Tod. Zwei Kapitel, nicht eins. |
+| Timing Portalforschung | MZ -3 (1 Jahr nach Kriegsbeginn), 2 Jahre bis Elke (MZ -1), Elkes Ankunft als brachialer Unfall. |
+| Elkes Rolle | Sie verlässt Varen aus zwei Gründen (Durchschauen + nicht-zurück-wollen) und hält ihre Beziehung geheim. |
+| Alphinas Buch-2-Bogen | Hass auf Varen als Motor; Zweifel am Bund ab Mitte; 2/3-Mark Gefangennahme bei Halvara-Kel; Endakt Seitenwechsel aus Glauben (siehe `synopse-b2.md`). |
+| Geständnis-Strategie | **Hybrid-Fassade in B2:** Mar-Keth wird zugegeben (Forschungsfehler), Macht-Motiv und Vier-Thalassier-Ritual-Plan verschwiegen. Varen rahmt seine Methode als „vom Bund als Waffe missbraucht" und sich selbst als Reparateur. |
+| B3-Bruch | Durch Vespers Velmar-Dokument-Entschlüsselung (Akt III) + Alphinas Fund im Schreibtisch: *„Die Trauer macht sie stärker. Sorels Nutzen liegt im Sterben."* Nicht „Schweige-Verrat" — kalte Instrumentalisierung. Siehe `synopse-b3.md` Akt III. |
+| B3-Tod | Akt-IV-Duell. Alphina tötet Varen mit zwei Dornenspießen durch die Lungen (rechte Hand) nach dem Garten-Reveal („Sie starb in der Küche"). Letztes Wort Varens: *„Garten."* In seinem Mantel findet Alphina Elkes Basalt-Splitter. Siehe `synopse-b3.md` Akt IV. |
+| Sorels Tod B1-K38 | Schemen werfen Sorel reaktiv um (Schutz-Auftrag, kein Tötungs-Befehl). Varens umgelenkter Energie-Druck trifft Sorels instabile Resonanz, sie reißt aus ihm. Untrainierter Körper hält es nicht. Halt-Magie sollte fixieren, nicht töten. |
+| Alphinas Zorn-Farbe | Nicht grün in Moragh unter Emotion. Pechschwarze Wurzeln, purpurne Stängel, blutrote Blüten mit schwarzen Kanten. Anti-Flora. Master: `pov/alphina.md` Zorn-Farbpalette. |
+| Die Blüten auf Sorels Körper | Blutrot und schwarz mit purpurnen Kanten. **Nicht weiß.** Sie bleiben, wenn alles andere stirbt. Echo: B2 Schlaf-Hain mit Sorel-Baum in der Mitte. |
+| Varens Rückzug B1-K38 | Taktisch, kontrolliert. Steinplatz-Quelle klein, Alphina als Thalassier azyklisch + emotional verstärkt überraschend stark — im längeren Kampf wäre er im Nachteil. Bannt Schemen unterwegs, statt sie ungewollt freizusetzen. Kein Hals-über-Kopf, kein Blut-Spucken. Siehe §1b. |
+| Varens Abgangstext B1-K38 | *„Euer Freund trat zwischen mich und sie; mein Schutz hat geantwortet. Was danach in ihm zerbrochen ist, kam aus ihm. Sein Licht war größer als sein Maß. Bedenkt das, ehe ihr mich zum Grund erklärt."* Altes Thalassisch. Schuld-Verschiebung als Saatkorn für B2-Bekehrung. |
+| Halt-Magie auf Menschen | Bindungsmagie wirkt nur auf Schemen. Auf Thalassier und Moragh-Geborene wirkt **Druck + Zeit + Energie** als Halt. Resonanz-Träger mit aktiver Resonanz können Energie-Komponente lokal kompensieren (Sorel B1-K38). Siehe `10-magie-system.md` + §1b. |
 
 ---
 
