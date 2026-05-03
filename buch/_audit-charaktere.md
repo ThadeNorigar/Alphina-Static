@@ -91,6 +91,46 @@ Pro Hauptfigur sicherstellen, dass jedes Schlüssel-Erlebnis als Zeitleisten-Eve
 
 ---
 
+### §9 Cleanup — Status: ✓ erledigt 2026-05-03
+
+**Charakter-Anker nach `pov/alphina.md` Tschechow-Sektion gerettet:**
+- Schlaf-Haine im Bund-Quartier (B2 Akt I) — Wald wächst nachts, Bund-Meister finden ihn morgens
+- Sorel als Baum mit schwarzer Rinde + blutroten Blüten in der Mitte des Schlaf-Hains (Tschechow-Echo zu B1-K38-Blüten)
+- Hass als Motor + Trauer als geschlossene Tür
+- „Verunreinigung"-Vokabular der Bund-Meister (B2 Akt II)
+- „Sie glaubt, weil sie glauben will" (B2 Akt IV Captivity, eigene Quelle-Tötung braucht Rechtfertigung)
+- Sorel-Nicht-Vergeben (durchlaufend B2/B3, feuert B3 Akt III/IV)
+
+**Nach `pov/runa.md` Buch-2-Sektion gerettet:**
+- FWB-Zitat „Bei Sorel hat die Welt geblüht. Bei Runa ist sie still." aus Runas POV K17
+- Schwur K17 → Halvara-Kel-Kampf K27 (Echo-Verbindung)
+
+**Nach `19-varen.md` §1 Stimme & Rhetorik gerettet:**
+- Captivity-Stimm-Beispiele: „Der Bund benutzt meine Methode — meine versehentliche Entdeckung — als Waffe." + „Ich muss sie stoppen. Und ich muss die toten Quellen reparieren."
+
+**Aktplan-To-do (für späteres Einarbeiten in `06-09-buch2-akt*.md`):**
+
+| Beat | Wo einzubauen | Inhalt |
+|---|---|---|
+| 9.14 | B2 Akt II/III (`07-buch2-akt2.md`) | Junger Bund-Offizier vertraut Alphina an: „Quellen-Überladungs-Methode löscht aus, verteidigt nicht" — Aufdeckungs-Szene |
+| 9.15 | B2 Akt II/III | Atmosphärische Vorzeichen: Karten werden eingerollt, Gespräche brechen ab, wenn sie den Raum betritt |
+| 9.21 | B2 Akt IV K26 oder K27 | Alphina zögert kurz vor der Quellen-Zerstörung („eine Quelle, eine Stadt, Menschen die dort leben") — tut es trotzdem |
+| 9.22 | B2 Akt IV K26 (Wegquelle) oder K27 | Konsequenz-Beat nach Quellen-Tod: Schmied bricht zusammen („Werkzeuge brauchen Magie"), Kinder schreien |
+| 9.23 | B2 Akt IV K27 oder K28-Auftakt | Bund-Meister „Gute Arbeit" — etwas anderes in den Augen, sie haben etwas losgelassen |
+| 9.29 | B2 Akt IV Phase 1 K28-K30 | Captivity-Tour-Details: Kind-jetzt-Greis am Todzonen-Rand, Skelette an Stellen wo Magie versiegte, Purpurstein-Mauer mit eingeritzten Namen (200/Stein), grauer Krater ohne Echo |
+| 9.31 | B2 Akt IV K32 (Mar-Keth-Geständnis-Fassade) | Abgefangene Bund-Kommunikation als Beweis: Pläne für weitere Quellen-Überladungen, Städte-Todesliste |
+
+**Verworfen (veraltete oder falsche Beats):**
+- 9.25 „Bindungs-Ketten halten Alphina" — Mechanik falsch (synopse-b2 K27 hat Druck/Zeit/Energie + Velmar-Halsband)
+- 9.28 „Varen verschweigt Schuld komplett, kein Geständnis B2" — überholt
+- 9.30 „Varen rahmt als Naturkatastrophe / Folge des Krieges" — überholt
+- 9.26 „Ich habe dich gefunden" — generisch, gestrichen
+- 9.37 „Wir brauchen mehr" — generisch, gestrichen
+
+**Sektion §9 in `19-varen.md` reduziert auf einen Verweis-Stub:** Master ist `synopse-b2.md`.
+
+---
+
 ### §11 Cleanup — Status: ✓ erledigt 2026-05-03
 
 **Drei Beats nach `pov/alphina.md` Zorn-Farbpalette gerettet:**

@@ -62,6 +62,10 @@ Nach Übergang nach Moragh entfaltet Runa ihre volle Feuer-Resonanz. Nach Monate
 
 **Runa bleibt beim Bund** (nicht beim Konglomerat — das alte Konzept ist obsolet). In Halvaren als Druckerin, druckt zweisprachige Flugblätter, wartet innerlich ab. Sulkara in B2 hat sie zerbrochen; ihr Kern-Status ist **klar-sehend und unerschüttert**.
 
+**Alphina+Runa als FWB (B2 Akt II, K17 aus Runas POV):** Hitzig, ohne Vertrauensband. Runas Selbst-Erkenntnis aus Alphinas innerem Vergleich: *„Bei Sorel hat die Welt geblüht. Bei Runa ist sie still."* Runa weiß, dass sie die Ablenkung ist, nicht der Trost. Beide ist es recht. Sie ist nicht Sorels Ersatz und hat nicht vor zu sein.
+
+**Schwur K17 → Halvara-Kel-Kampf K27:** *„Ich folge dir, wo immer du gehst. Auch wenn ich dabei sterbe."* Im Bund-Vorstoß kämpft sie sich durch die Schemen, sieht Varen Alphina mit dem Halsband mitnehmen, wird zurückgeschlagen (Schnittwunden, gebrochene Rippe). Innerer Schwur: Alphina rausholen. Der K17-Schwur trägt sie durch B2-Akt-IV und B3-Akt-II — auch wenn ihre B3-Antwort auf Alphinas Werben nüchtern wird (Drei-Sätze-Absage).
+
 ---
 
 ## Buch 3 — Vom Bund ins Leben zurück

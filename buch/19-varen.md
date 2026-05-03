@@ -38,6 +38,8 @@ Dieses File konsolidiert sämtliche Entscheidungen zu Varen, seinem Motiv, seine
 
 Stimm-Beispiel B1-K38 (Abgang am Steinplatz, vor seinem Rückzug): *„Euer Freund trat zwischen mich und sie; mein Schutz hat geantwortet. Was danach in ihm zerbrochen ist, kam aus ihm. Sein Licht war größer als sein Maß. Bedenkt das, ehe ihr mich zum Grund erklärt."* — vier Sätze, Schuld-Verschiebung ohne direkte Verteidigung. Volle Mechanik in §1b.
 
+Stimm-Beispiele B2 Captivity (nach dem Mar-Keth-Geständnis, beim Vorzeigen abgefangener Bund-Kommunikation): *„Der Bund benutzt meine Methode — meine versehentliche Entdeckung — als Waffe."* + *„Ich muss sie stoppen. Und ich muss die toten Quellen reparieren."* — zwei kurze Sätze als Argumentations-Achse für die Bekehrung. Mar-Keth wird zugegeben (als Forschungsfehler), das Macht-Motiv verschwiegen — aus dem Unfall wird eine Mission, an die Alphina glauben kann.
+
 **Neugier:** **Wissbegierig** bis zur Obsession. Liest Alphina wie ein Buch. Stellt präzise Fragen zu ihrer Resonanz, ihren Pflanzen, ihren Erinnerungen. Macht Notizen. Zeigt ihr die Notizen. Alphina fühlt sich **gesehen** auf eine Art, die weder Sorel noch Vesper konnten — weil Varen ein Forscher ist und sie zu seinem Forschungsgegenstand geworden ist. Das fühlt sich zuerst an wie Liebe. **Teile davon sind echt.** Er bewundert sie wirklich. Das macht die Manipulation grausamer — weil sie echte Züge trägt, die er für seinen Zweck instrumentalisiert.
 
 **Fraktionsstatus:** Aus Velmar **verdeckt ausgestoßen** — ohne öffentliche Anklage, ohne Gerichtsverfahren, ohne Eintrag in Velmar-Registern. Die Velmar-Binder-Elite weiß was er getan hat und schweigt. Der Rest der Velmar ahnt "da war etwas" und fragt nicht nach. Die anderen Fraktionen (Bund, Thar, freie Städte) **wissen nichts von ihm** — kennen seinen Namen nicht, haben ihn nie mit dem Quellen-Kollaps in Verbindung gebracht.
@@ -279,78 +281,11 @@ Maren ist Wasser/Fluss — Raummanipulation, nicht Zeit. Nach der Regel kann sie
 
 ---
 
-## 9. Alphinas Buch-2-Bogen (neu strukturiert)
+## 9. Alphinas Buch-2-Bogen (verlagert)
 
-**Die Struktur:** 2/3 des Buches Hass auf Varen. Ab Mitte Buch 2 Zweifel — aber nicht an Varen. An den Bund. Am 2/3-Mark Gefangennahme. Am Ende Buch 2 Seitenwechsel. Der Bruch kommt erst in Buch 3, und er ist nicht durch kalkuliertes Opfer, sondern durch **verschwiegene Schuld**.
+Master ist `synopse-b2.md` (Hybrid-Geständnis-Linie: Mar-Keth wird zugegeben als Forschungsfehler, Macht-Motiv verschwiegen). Detail-Beats für die Aktpläne stehen in `_audit-charaktere.md` als Aktplan-To-do-Liste, Charakter-Anker (Schlaf-Haine, „Verunreinigung"-Vokabular, „glaubt weil sie glauben will", Sorel-Nicht-Vergeben) in `pov/alphina.md`, FWB+Schwur in `pov/runa.md`, Captivity-Stimm-Beispiele in §1 oben.
 
-### Akt I Buch 2 — Ankunft beim Bund (Anfang des Buches)
-
-Die Fünf (vier lebend) kommen in einer Bund-Stadt an. Elke führt sie dahin. Der Bund empfängt sie als Held:innen — die Resonanz-Begabten aus der anderen Welt, die das Portal überwunden haben. Schutz, Hoffnung, warme Betten. Alphina: Schlaf-Haine (sie wächst im Schlaf einen Wald um ihr Bett, Bund-Meister finden es am Morgen und sind beeindruckt und beunruhigt). Will **Rache** an Varen. Der Bund-Kommandeur sagt: "Wir helfen dir. Wir trainieren deine Resonanz. Du wirst ihn finden."
-
-**Hass ist ihr Motor.** Sie trauert nicht um Sorel öffentlich — ihre Trauer ist eine geschlossene Tür. Sie öffnet sie nicht für Vesper, nicht für Maren, nicht für Runa. Nur in ihren Schlaf-Hainen wächst er noch. Als Baum in der Mitte des Hains. Schwarze Rinde, blutrote Blüten. Niemand darf das wissen.
-
-**Varen-POV (erster Interlude Buch 2):** Er beobachtet aus der Ferne. Sieht dass der Bund sie trainiert. Versteht dass sie auf ihn zielt. Kann nichts tun, ohne sich zu offenbaren.
-
-### Akt II Buch 2 — Bund-Training und erste Zweifel (erste Hälfte)
-
-**Der Bund nutzt Alphina.** Erst in Verteidigungs-Einsätzen, dann offensiver. Sie stellt keine Fragen, weil der Hass produktiv ist. Jeder Einsatz ist ein Schritt näher an Varen. Ihre Resonanz wird unter Bund-Meistern geschult — sie wächst schneller, präziser, härter.
-
-**Farblogik wird wichtig:** Solange sie diszipliniert ist, wachsen ihre Pflanzen grün (Thalassien-Farbe, Chlorophyll, Ordnung). Wenn die Wut durchschlägt, kippt die Farbe nach schwarz/rot. Die Bund-Meister bemerken es und nennen es **"Verunreinigung"**. Sie geben ihr Übungen, um die Wut zu kanalisieren. Sie versteht nicht warum ihre Pflanzen "falsch" aussehen sollen. Niemand erklärt ihr das Kastenkonzept der Velmar-Binder (Reinheit der Bindung) — der Bund hat seine eigenen Vokabeln dafür. Sie speichert die Irritation.
-
-**Alphina + Runa:** FWB. Nacht, zwei Monde. Hitzig. "Bei Sorel hat die Welt geblüht. Bei Runa ist sie still." Runa hat eigene Obsessionen — Druckerei, Moragh-Schriften, Maschinen. Sie ist nicht die Trost-Geliebte. Sie ist die Ablenkung. Alphina weiß das. Runa weiß das auch. Beide ist es recht.
-
-**Vesper trifft Nyr.** Emissärin der Thar. "Du bist der, der Muster sieht." Vesper will sich nicht instrumentalisieren lassen — weder vom Bund noch von Alphinas Rache. Nyr überzeugt ihn: die Thar haben Ordnung, Struktur. Er sieht ihre Fehler, akzeptiert sie. Geht mit ihr zu den Thar. Vesper + Nyr: Sie presst ihn an die Metallwand. Luft wird dünn. Blaue Flecken von Luft. Andere Körper-Grammatik als Maren.
-
-**Maren findet den Rückweg** (zusammen mit Vesper). Portal-Karte, Anleitung. Sie gehen durch — Vesper bleibt (Moragh, Nyr, die Thar), Maren geht (Thalassien, allein). **Timing:** das passiert in Akt II Buch 2, noch bevor Alphinas Gefangennahme. Vesper ist bei den Thar, Maren ist in Thalassien, Runa ist noch beim Bund, Alphina ist noch beim Bund. (Siehe offene Frage unten zur Portalmagie-Regel für Maren.)
-
-**Talven entwickelt nachts allein Blutmagie.** Kein Varen-Kontakt in dieser Linie — Talven kommt selbst auf die Methode (eigenes Blut + Kristall + Schemen-Bindung). Er weiß nicht, dass Varen den Krieg ausgelöst hat, und Varen weiß nicht, dass Talven seine eigene Magie-Praxis aufbaut. Beide Linien laufen parallel, ohne sich zu kreuzen, bis B3.
-
-### Akt III Buch 2 — Zweifel und Bruch (zweite Hälfte)
-
-**Ab Mitte Buch 2 wachsen Alphinas Zweifel.** Nicht an Varen — immer noch Hass. **Am Bund.** Ein Kommandant weiß zu genau wo feindliche Quellen liegen. Gespräche brechen ab wenn sie den Raum betritt. Karten werden eingerollt. Ein junger Bund-Offizier sagt ihr im Vertrauen, dass die Quellen-Überladungs-Methode der Bund nicht verteidigt, sondern **auslöscht**. Sie fragt nicht laut. Sie speichert. Ihre Resonanz-Farbe driftet immer öfter nach schwarz/rot, auch bei disziplinierten Übungen. Die Meister warnen sie.
-
-**Alphinas innere Spaltung:** Die Rachesucht auf Varen bleibt. Aber sie beginnt zu denken: **der Bund benutzt sie**. Nicht nur gegen Varen. Gegen Städte, gegen Quellen, gegen Kinder. Sie beginnt zu fragen, ob sie im selben Krieg kämpft wie der Mann, den sie hasst — oder in einem anderen. Das ist ein **subtiler** Bruch. Keine Szene wo sie auf den Tisch haut. Ein stilles Zweifeln, das unter der Wut wächst.
-
-### Akt IV Buch 2 — Das Schlachtfeld und die Gefangenschaft (2/3-Mark bis Ende)
-
-**Der Bund greift eine Thar-Siedlung an.** Alphina kämpft an vorderster Front. Ihre Magie ist jetzt in dieser Szene zum ersten Mal **voll schwarz/rot** — keine Disziplin mehr, reine Wut. Sie tötet Thar-Soldaten mit Dornen die aus dem Boden wachsen.
-
-**Der Bund-Kommandant zeigt ihr das Ziel:** Eine kleinere Reservoir-Quelle außerhalb der Thar-Siedlung. "Zerstör sie. Dann müssen sie zurückziehen." Alphina zögert. Eine Quelle. Eine Stadt. Menschen die dort leben.
-
-**Sie tut es trotzdem.** Warum? Weil sie den Bund nicht ganz verloren hat. Weil sie ihren Hass braucht. Weil sie sich selbst beweisen muss, dass sie die Waffe ist, die sie zu sein versprochen hat. Sie legt die Hände auf die Erde. Wurzeln tief hinein. Spürt die Quelle — warm, pulsierend, lebendig, voll. Sie drückt. Überlädt. Stille. **Die Quelle ist tot.** Erde bebt. Bäume verdorren. Ein Schmied in der Thar-Siedlung bricht zusammen — seine Werkzeuge brauchen Magie, er hat keine mehr. Kinder schreien.
-
-**Die Bund-Meister sehen ihr Werk.** Sie sagen "Gute Arbeit." Aber in ihren Augen ist etwas anderes. Sie haben etwas losgelassen, das sie nicht halten können.
-
-**Alphina will weiter.** Die GROSSE Quelle der Siedlung angreifen. Sie ist in der Farbe, sie ist im Zorn, sie will mehr. Sie geht auf die Siedlung zu.
-
-**Varen schlägt zu.** Schemen trennen sie von den Bund-Truppen ab. Ketten — Bindungsmagie, diesmal stärker und präziser. Sie kann sich nicht bewegen. Varen tritt aus dem Rauch. Sie erkennt ihn sofort. Er sagt auf Thalassisch: "Ich habe dich gefunden."
-
-**Runa sieht es.** Sie kämpft sich durch die Schemen, tötet Dutzende mit Feuer. Wird zurückgeschlagen. Alphina ist weg — Varen hat sie mitgenommen. Runa zieht sich mit dem Bund zurück. Schwört sich: Alphina rausholen. Sie weiß nicht, was sich in den nächsten Wochen in Varens Basis abspielen wird.
-
-### Gefangenschaft bei Varen (Endakt Buch 2)
-
-**Varen verschweigt Alphina seine Schuld.** Das ist die zentrale Entscheidung. Kein Geständnis in Buch 2. Keine Schuld-Spiegelung. Nur Verschweigen.
-
-**Die Methode:** Er bringt Alphina zu den toten Quellen. Nimmt die Ketten ab, als sie erkennt, dass Fliehen sinnlos ist (die Dornen-Schemen sind schneller als sie). Führt sie durch die Ruinen — **Mar-Keth, Dulrath-Ost, Reshkol.** Sie sieht:
-- Verdorrte Bäume, ausgetrocknete Brunnen, Straßen die ins Nichts führen
-- Ein Kind, das es damals lebend herausgeschafft hat, jetzt ein alter Mann mit kaputter Lunge, der in einem improvisierten Unterschlupf am Rand der Todzone lebt
-- Skelette an Stellen, wo Menschen einfach niedergesunken sind als ihre Magie versiegte
-- Eine Mauer aus Purpurstein, mit Namen eingeritzt — ein Massengedächtnis, 200 Namen pro Stein
-- Die Stelle wo die größte Quelle war: ein grauer Krater, der kein Echo hat, kein Puls, kein Leben
-
-Varen rahmt die toten Quellen als **Naturkatastrophe** oder **Folge des Krieges**. Er sagt: "Das hat den Krieg nicht ausgelöst — das hat ihn beendet bevor er anfangen konnte. Die Städte wurden von den Fraktionen getötet, nicht von einer Kettenreaktion." Das ist eine **Lüge durch Umdeutung**. Er erzählt den Zusammenhang so, dass die Schuld auf "das System" fällt, nicht auf ihn.
-
-**Er zeigt ihr abgefangene Bund-Kommunikation.** Pläne für weitere Quellen-Überladungen. Systematische Zerstörung. Städte auf der Todesliste. Er sagt: "Der Bund benutzt meine Methode — meine versehentliche Entdeckung — als Waffe. Ich muss sie stoppen. Und ich muss die toten Quellen reparieren, bevor der Bund mehr Quellen zerstört."
-
-**Alphina glaubt ihm.** Nicht weil er charmant ist. Weil sie **glauben will**. Sie hat selbst eine Quelle getötet, absichtlich, im Bund-Auftrag. Sie braucht eine Rechtfertigung, um mit sich selbst zu leben. Varen bietet ihr eine: **wir reparieren, wir retten.** Sie wechselt die Seite — nicht aus Schuld-Spiegelung (Canon der alten Version, gestrichen), sondern aus aufrichtigem Glauben an ein Ziel das er ihr verkauft.
-
-**Ihr Hass schwenkt vom Mann auf das System.** Der Bund ist jetzt der Feind. Varen ist ihr Verbündeter. Sie vergibt ihm Sorel nicht — das bleibt. Aber sie stellt es hinter das größere Ziel: tote Quellen wiederbeleben, den Krieg beenden, die Welt retten.
-
-**Sex mit Varen (Endakt Buch 2).** Kein Loslassen wie mit Sorel. Kein Vertrauen. Kein Hingeben. Sie ist oben. Sie führt. Es ist ein **Handel**, ein Bündnis auf Körperebene. Dornen statt Farne, Rücken statt Handgelenke. Schwarze Wurzeln wachsen unter dem Bett, wenn sie den Rhythmus verliert. Er registriert die Farbe und sagt nichts. Er weiß was er verschweigt. Und er wagt nicht zu fragen was ihre Farbe bedeutet — weil die Antwort "Moragh macht sie zu einer von uns" ist, und das würde alle Ehrlichkeit erzwingen, die er sich nicht leisten kann.
-
-**Der Buch-2-Endpunkt:** Alphina steht an einer der toten Quellen (Mar-Keth vermutlich). Sie versucht, ihre Resonanz hineinzupressen, als Starthilfe. Es funktioniert halb. Für Sekunden zuckt die tote Quelle — ein schwaches Pochen, wie ein Herz das einmal schlägt. Dann stirbt sie wieder. Varen sagt: "Wir brauchen mehr." Alphina weiß, was er meint: die anderen drei Resonanzen. Vesper (bei den Thar), Runa (beim Bund), Maren (in Thalassien, unerreichbar). Sie muss sie zurückholen. Oder sie verlieren alles.
-
-**Ende Buch 2.**
+Die alte Schweige-Verrat-Variante (kein Geständnis in B2, Rahmung als Naturkatastrophe) ist überholt und entfällt.
 
 ---
 
