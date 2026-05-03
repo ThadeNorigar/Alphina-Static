@@ -26,7 +26,7 @@ Pro Hauptfigur sicherstellen, dass jedes Schlüssel-Erlebnis als Zeitleisten-Eve
 | File | Geprüft | Findings | Aktion |
 |---|---|---|---|
 | `19-varen.md` | ✓ 2026-05-02 | §8 Sorel-Tod-Szene, §9 Alphina-B2-Bogen, §10 Alphina-B3-Bruch, §11 Alphina-Farblogik — gehört nicht ins Varen-File | Befund 1.1 |
-| `11-nyr.md` | ✓ refaktoriert 2026-05-03 | komplett neu strukturiert: Verrats-Plot raus, K29-Defektion „Zivilisten als Schild" + friedliche Verabschiedung rein, Akt-III-Wiederbegegnung + K34-Schlacht + Epilog Runa+Nyr ergänzt, Pilotin-Selbstbild als innerer Anker behalten, autonome Bestien gestrichen | Befund 1.2 erledigt |
+| `11-nyr.md` | ✓ refaktoriert + Charakter-Korrektur 2026-05-03 | komplett neu strukturiert (Verrats-Plot raus, K29-Defektion + Epilog rein) + Charakter-Profil korrigiert: Nyr ist nicht militaristisch, sondern eigenständige Frau mit Wertegerüst (gerechte Ordnung, Gleichberechtigung, Warmherzigkeit), die lächelt, reflektiert, Gerechtigkeit einfordert. Paar-Logik mit Runa explizit (Augenhöhe + beide eigenständig). Plus Memory-Eintrag `project_nyr_runa_eigenstaendig.md`. Plus `pov/runa.md` Erweiterung (journalistische Aufdeckerin + Paar-Logik). | Befund 1.2 erledigt |
 | `13-talven.md` | ✓ 2026-05-02 | sauber | Befund 1.3 |
 
 ### POV-Dossiers

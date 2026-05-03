@@ -104,6 +104,10 @@ Nach Übergang nach Moragh entfaltet Runa ihre volle Feuer-Resonanz. Nach Monate
 
 ## Narrative Funktion in der Trilogie
 
-Runa ist die **Klarsichtige**. Als einzige der fünf durchschaut sie Varens Inszenierung von Anfang an — nicht analytisch wie Vesper (der es viel später rechnet), sondern instinktiv. Deshalb bleibt sie beim Bund, wo sie durch Druck erfährt, was wirklich läuft. Ihr Satz *„Wenn du recht hast, habe ich immer noch keinen Platz an seinem Tisch"* wird im Akt-IV-Rückblick zum klügsten Satz des Romans.
+Runa ist die **Klarsichtige** und die **journalistische Aufdeckerin**. Als einzige der fünf durchschaut sie Varens Inszenierung von Anfang an — nicht analytisch wie Vesper (der es viel später rechnet), sondern instinktiv. Deshalb bleibt sie beim Bund, wo sie durch Druck erfährt, was wirklich läuft. Ihr Satz *„Wenn du recht hast, habe ich immer noch keinen Platz an seinem Tisch"* wird im Akt-IV-Rückblick zum klügsten Satz des Romans.
+
+**Journalistisches Wertgerüst:** Sie deckt böse Dinge auf, recherchiert, gibt keine Ruhe. Druckerin als Werkzeug — zweisprachige Bund-Bulletins sind Tarnung **und** Wahrheit-Vehikel zugleich. Wenn sie eine Lüge erkennt (Drael B3 über die Expedition-Bedrohung), fragt sie nicht nach Schutz, sondern nach Beweisen. Wenn sie die Beweise hat, druckt sie. Wahrheit-an-die-Öffentlichkeit-Bringen ist ihr aktiver Beitrag zum Konflikt — nicht Magie, nicht Kampf.
+
+**Paar-Logik mit Nyr (Epilog Halvek-Mar):** Nyr und Runa sind die zwei eigenständigsten Frauen der Geschichte. Beide Augenhöhe, Gleichberechtigung, Warmherzigkeit. Beide loyal zu Menschen, nicht zu Institutionen. Nyr fordert Gerechtigkeit ein und geht, wenn Werte verraten werden; Runa deckt auf und macht Wahrheit verfügbar. Werkstatt zusammen (Feuer + Druck/Metall), Kessler als Hafenkran, ruhige Tage am Meer. Keine braucht die andere als Halt — beide stehen allein und stehen besser zusammen.
 
 Ihre moralische Bremse bleibt: Fleisch von innen entzünden (Stufe 10). Sie könnte. Sie wählt es selten. Ihre Grenze ist **persönlich**, nicht situativ — sie brennt nicht, weil sie weiß, dass sie eine solche Tat nicht überleben würde als die Frau, die sie sein will.

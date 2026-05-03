@@ -24,19 +24,23 @@ buecher: [2, 3]
 
 ## Figur
 
-**Nyr.** Moragh-geboren, Konglomerat der Thar. Dreißig. Breite Schultern, kurzes dunkelbraunes Haar, helle Haut, Narben an den Unterarmen vom heißen Metall. Spricht wenig, und wenn, dann wie Befehle. Nicht unfreundlich — effizient. Schlanke schwarze Panzerung aus Eisen mit sichtbaren Nieten, geschlossener Helm. Wenn sie den Helm abnimmt: stahlgraue Augen, ein Gesicht das härter ist als es sein müsste.
+**Nyr.** Moragh-geboren, Konglomerat der Thar. Dreißig. Breite Schultern, kurzes dunkelbraunes Haar, helle Haut, Narben an den Unterarmen vom heißen Metall. Stahlgraue Augen, Lachfalten an den Schläfen die man erst sieht, wenn sie den Helm abnimmt. Schlanke schwarze Panzerung aus Eisen mit sichtbaren Nieten.
+
+**Wichtig — sie ist nicht militaristisch.** Sie spricht knapp, weil ihre Sprache effizient ist, nicht weil sie hart ist. **Sie lächelt, sie reflektiert, sie zweifelt.** Sie hört zu, bevor sie antwortet. Wer sie für eine Befehlsmaschine hält, hat sie nicht angesehen — er hat nur den Helm gesehen.
 
 **Resonanz: Druck.** Reiner Druck. Luft zusammenpressen, Metall verbiegen, auf kurze Distanz Knochen brechen ohne Berührung. Normale Nutzung: Müdigkeit, Muskelkater, Hunger. Morgens wieder fit.
 
 ---
 
-## Selbstbild — Pilotin, kein Werkzeug
+## Wertgerüst — gerechte Ordnung, Gleichberechtigung, Warmherzigkeit
 
-Nyrs zentrales Wertgerüst: **Sie steigt freiwillig in Kessler ein und freiwillig wieder aus.** Hart erarbeitet, hart respektiert. Reiter der Thar = Elite, ~500 in der ganzen Armee, schwarze Rüstung, geschlossene Helme. Absolute Gleichberechtigung seit Generationen. Ein Beruf, kein Opfer.
+**Warum sie bei den Thar ist:** Sie glaubt an die Thar-Ordnung. **Gerechte Ordnung, Gleichberechtigung, Beruf statt Opfer.** Reiter der Thar = Elite, ~500 in der ganzen Armee, absolute Gleichberechtigung seit Generationen. Frauen pilotieren wie Männer, leiten wie Männer, sterben wie Männer. Das ist für sie nicht Selbstverständlichkeit, sondern Errungenschaft. Sie verteidigt sie aktiv.
 
-Was sie nicht erträgt: an etwas gefesselt sein, das sie nicht verlassen kann. Diese Linie zieht sich durch ihre B2- und B3-Entscheidungen — vom freiwilligen Pakt mit Vesper bis zur Defektion in B3-K29.
+**Aber sie ist nicht blind.** Sie ist überzeugt **und** selbstkritisch. **Sie fordert Gerechtigkeit ein** — auch von der eigenen Seite. Wenn die Thar-Führung Befehle gibt, die ihre Werte verraten, schweigt sie nicht. Sie spricht es an. Wenn die Antwort nicht kommt, geht sie. So funktioniert ihre Defektion in B3-K29: konsequent, nicht impulsiv.
 
-Innerer Anker (Stimm-Beispiel): *„Ich bin Pilotin. Ich steige freiwillig in meine Bestie. Ich steige freiwillig wieder aus."* Den Satz spricht sie nie laut aus. Er trägt jede ihrer Entscheidungen.
+**Sie ist warmherzig.** Loyal zu den Menschen, nicht zur Institution. Trauert um gefallene Reiter:innen wie um Familie. Lacht beim gemeinsamen Essen mit ihrer Schicht. Berührt Kessler wie einen Partner, nicht wie ein Werkzeug.
+
+**Pilotin, kein Werkzeug:** Sie steigt freiwillig in Kessler ein und freiwillig wieder aus. Hart erarbeitet, hart respektiert. Was sie nicht erträgt: an etwas gefesselt sein, das sie nicht verlassen kann. Innerer Anker (nie laut ausgesprochen): *„Ich bin Pilotin. Ich steige freiwillig in meine Bestie. Ich steige freiwillig wieder aus."*
 
 ---
 
@@ -99,7 +103,9 @@ Vesper-Skepsis am Bund startet hier. Nyr legt den Boden für seine Defektion zur
 
 **B3 Akt I (Thar-Kem-Wartungshalle):** Nyr pilotiert Kessler, klopft mit der Handfläche auf den Stahl. Vesper bringt seinen Bericht über den Tech-Gradienten zur Thar-Kommandantin — sie legt ihn auf einen Stapel und liest ihn nicht. Beide spüren den Boden kippen.
 
-**B3-K29 Defektion — Zivilisten als Schild:** Die Thar-Führung gibt Befehle, Zivilisten als Schild gegen die Expedition zu nutzen. Für Nyr ist das die Linie: Pilotin freiwillig — Zivilisten unfreiwillig. **Sie fährt nachts aus Thar-Kem, verabschiedet sich von Vesper friedlich, bietet ihm Beistand an.** Kein Drama. Sie ist klar.
+**B3-K29 Defektion — Zivilisten als Schild:** Die Thar-Führung gibt Befehle, Zivilisten als Schild gegen die Expedition zu nutzen. Für Nyr ist das die Linie: Pilotin freiwillig — Zivilisten unfreiwillig. **Sie spricht es bei der Kommandantin an** (sie fordert Gerechtigkeit ein, wie immer). Die Kommandantin verweist auf die Strategie. Nyr versteht: ihre Werte gelten hier nicht mehr.
+
+**Sie fährt nachts aus Thar-Kem, verabschiedet sich von Vesper friedlich, bietet ihm Beistand an.** Kein Drama, kein Schreien. Sie ist klar — sie hat ihre Linie gezogen, die Antwort kam nicht, sie geht. Konsequent, nicht impulsiv.
 
 Vesper bleibt zunächst, fokussiert sich später auf Alphinas Rettung (siehe `pov/vesper.md`). Friedliche Trennung, kein Bruch.
 
@@ -121,7 +127,13 @@ Vesper bleibt zunächst, fokussiert sich später auf Alphinas Rettung (siehe `po
 
 **Kessler steht als ziviler Hafenkran im Dienst** — er arbeitet nur, wenn Nyr morgens zwei Stunden im Cockpit sitzt. Reiter und Bestie blieben Partner, auch nach dem Krieg. Keine Bestien-Kriege mehr. Salz, Hafen, ruhige Tage am Meer.
 
-**Paar-Ende mit Runa.** Vesper ist mit Alphina zwei Straßen weiter.
+**Paar-Logik mit Runa — Augenhöhe.** Nyr und Runa sind die zwei eigenständigsten Frauen der Geschichte. Ihr Zusammenfinden ist nicht Zufall, sondern strukturell konsequent:
+
+- **Nyr** fordert Gerechtigkeit ein, hat ihre Linie gezogen und ist gegangen, als ihre Werte verraten wurden. Pilotin, die Verantwortung trägt.
+- **Runa** ist die journalistische Aufdeckerin: druckt, recherchiert, gibt nicht Ruhe (siehe `pov/runa.md`). Sie hat Drael enttarnt, läuft zu den freien Städten über. Wahrheit-an-die-Öffentlichkeit-Bringen ist ihr Werkzeug.
+- **Beide** bringen Augenhöhe, Gleichberechtigung und Warmherzigkeit mit. Beide loyal zu Menschen, nicht zu Institutionen. Keine braucht die andere als Halt — beide stehen allein und stehen besser zusammen.
+
+Vesper ist mit Alphina zwei Straßen weiter. Vier Narbige am Tisch, eine fünfte (Tyra) als Brücke zwischen Welten.
 
 ---
 
