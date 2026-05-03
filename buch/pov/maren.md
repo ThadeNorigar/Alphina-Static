@@ -48,7 +48,7 @@ Drei Register, nie »Jacke«:
 ## Wissensstand-Anker (Stand nach Kap 08)
 
 - **Vael:** Ankunft aus Solha via Fischerboot. Fünf Wochen in der Stadt. Erste Nacht in der Pension "Zum Hafenlicht", ab Tag 3 in **ihrer eigenen Wohnung** (kleine Zweizimmer-Wohnung in der Hafengasse, fünf Straßen nördlich der Werft, drei Minuten zu Fuß — gehört zur Werft und ist mit der Erbschaft auf sie übergegangen; Haron hat hier vor ihr gewohnt). Kennt den Steg, die Gassen, den Marktplatz, die Werft. Den Gasthof "Zum Anker" betritt sie erst in K14 (zur Uhren-Reparatur bei Vesper) — sie hat dort nie gewohnt und keine der anderen drei dort je gesehen.
-- **Haron Dahl:** Fünf Jahre Briefwechsel, nie getroffen. Moragh-Agent Varens — das weiß sie nicht. Sein Papier mit unbekannten Symbolen in der Werkbank-Leiste gefunden (K08), in K20 Vesper gezeigt und gemeinsam ins Stadtarchiv gebracht. Nach K20 weiß sie: Haron kam mit ~16 nach Vael (TZ 514), arbeitete 30 Jahre in der Werft, wurde TZ 544 von **Anen und Meren Dahl** (kinderlos, letztes Paar der 400-Jahre-Linie seit Gründerin Lene Dahl, TZ 151) adoptiert, Name bei Adoption angenommen. Er kannte den Steinkreis im Garten, hatte das Ritual-Diagramm sorgfältig gezeichnet und versteckt — Grund unbekannt. Das Papier liegt im Archiv bei Esther Voss (ein bis zwei Tage, dann Nachricht in den *Anker*).
+- **Haron Dahl:** Fünf Jahre Briefwechsel, nie getroffen. Moragh-Agent Varens — das weiß sie nicht. Sein Papier mit unbekannten Symbolen in der Werkbank-Leiste gefunden (K08), in K20 Vesper gezeigt und gemeinsam ins Stadtarchiv gebracht. Nach K20 weiß sie: Haron kam mit ~16 nach Vael (TZ 514), arbeitete 30 Jahre in der Werft, wurde TZ 544 von **Anen und Meren Dahl** (kinderlos, letztes Paar der 400-Jahre-Linie seit Gründerin Lene Dahl, TZ 154) adoptiert, Name bei Adoption angenommen. Er kannte den Steinkreis im Garten, hatte das Ritual-Diagramm sorgfältig gezeichnet und versteckt — Grund unbekannt. Das Papier liegt im Archiv bei Esther Voss (ein bis zwei Tage, dann Nachricht in den *Anker*).
 - **Edric:** Geselle, sieben Jahre bei Haron. Erster Kontakt. Neutrale Vertrauensbasis.
 - **Tohl Daverin:** Fischer. Hat ihr gezeigt, dass die Grauwe rückwärts fließt. Sagt es niemandem sonst.
 - **Ihre Resonanz (Wasser):** Wasser reagiert auf sie — Steg, Badewanne, Werftboden. Keine Sprache dafür. Körper weiß es, Verstand drückt es weg.
@@ -85,7 +85,7 @@ Drei Register, nie »Jacke«:
 
 ## Buch 2 / Buch 3 — Ende
 
-**B2-K41:** Tritt nach 5 Moragh-Monaten durchs Portal von Moragh-Seite zurück nach Thalassien. Landet in Vael **~1987 TZ**. Vesper bleibt, sie geht — beide wissen: sie hat allein zu wenig Magie für den Rückweg. Gestrandet, absichtlich.
+**B2-K39:** Tritt nach 5 Moragh-Monaten durch den Wasserweg-Riss bei Dravek von Moragh-Seite zurück nach Thalassien. Landet in Vael **~1987 TZ**. Vesper bleibt, sie geht — beide wissen: sie hat allein zu wenig Magie für den Rückweg. Gestrandet, absichtlich. Vesper verabschiedet sich heimlich am Riss, gibt ihr drei Sachen mit (Zeit-Apparat, Datenliste, Brief an Alphina „falls").
 
 **B3 (Thalassien):** Gründet ~1990 TZ die **Schwellenforschungsgesellschaft** aus Haron Dahls Werft-Erbe. Vier Mitglieder zu Beginn, eine Karte des Steinkreises an der Wand. Wächst über vier Jahrzehnte zum staatlich finanzierten Institut. Die Farne im Botanischen Garten werden zu ihrem Lebensgegenstand — Bodentemperatur-Messungen, Sensoren, Hypothesen.
 

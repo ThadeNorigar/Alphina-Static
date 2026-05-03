@@ -15,14 +15,14 @@ welt: thalassien
 
 **Status:** Nebenfigur. Aktiver Kanon. TZ-154-Interludien. Stirbt beim großen Feuer.
 **Fraktion:** Thalassien, Vael (TZ 154)
-**Rolle:** Maler, einer der Vier von TZ 154. Sorels TZ-154-Pendant.
+**Rolle:** Maler, einer der Vier von TZ 154.
 **Verwandte Files:** `00-welt.md`, `nebenfiguren/lene-dahl.md`, `pov/elke.md`, `pov/sorel.md`
 
 ---
 
 **Alter TZ 154:** Anfang dreißig.
 
-**Fähigkeiten:** Thalassier mit **Licht-Resonanz** (vestigial aktiv). In TZ 154: er bemerkt, dass seine Pigmente anders leuchten, wenn er in Vael arbeitet. Hält es für den Purpurstein in der Grundierung. Parallel zu **Sorel** der TZ 551.
+**Fähigkeiten:** Thalassier mit vestigialer **Luft-Resonanz** (Memory-Canon `project_tz154_canon.md` — TZ-154-Vorgängergruppe: Elke Stein, Keldan Eisen, Kesper Luft, Lene Holz). In TZ 154 nicht als Magie benannt — er bemerkt nur, dass seine Pigmente anders auftrocknen, dass die Luft im Atelier eigentümlich „greift". Hält es für den Purpurstein in der Grundierung. Kein direktes Pendant zu einer der modernen Vier.
 
 **Herkunft:** Süden Thalassiens, Handwerks-Sohn einer Maler-Familie. Kam nach Vael wegen Purpursteins-Pigment — aus zermahlenem Stein lässt sich eine einzigartige Farbe herstellen, die Auftraggeber gut bezahlen.
 
@@ -37,12 +37,12 @@ welt: thalassien
 ## Zeitlinie TZ 154
 
 - Kam nach Vael mit Elke, Lene, Keldan
-- Malt das **einzige Portrait-Zeichnung von Elke**, das im Vaeler Archiv überliefert ist (in Lenes Manuskript beigelegt). Das Portrait zeigt Elke an einem Pfeiler aus Purpurstein — sie hält die Hand auf den Stein, Kesper hat die Wärme nicht gesehen, nur das leichte Leuchten festgehalten.
+- Malt das **einzige Portrait-Zeichnung von Elke**, das im Vaeler Archiv überliefert ist (in Lenes Manuskript beigelegt). Das Portrait zeigt Elke an einem Pfeiler aus Purpurstein — sie hält die Hand auf den Stein, Kesper hat die Wärme nicht gesehen, nur die Haltung festgehalten.
 - Beim **großen Feuer** stirbt er als zweiter oder dritter. Einer der Feuer-Schemen setzt sein Atelier in Brand, er versucht das Portrait zu retten. Verbrennt.
 
 ## Narrative Funktion
 
-Kesper ist der **TZ-154-Spiegel von Sorel**. Beide Maler-ähnlich (Maler / Fotograf), beide mit Licht-Resonanz, beide sterben im Zusammenhang mit dem Portal — Kesper beim Feuer, Sorel später in Moragh.
+Kesper stirbt im Zusammenhang mit dem Portal — beim großen Feuer in TZ 154. Er ist kein direkter Spiegel zu einer der modernen Vier (Resonanzen decken sich nicht 1:1), aber er trägt das Verbindungs-Artefakt: das Portrait von Elke.
 
 Sein Portrait von Elke ist das **Verbindungs-Artefakt** der Trilogie: Alphina findet es in B1-Archiv, sieht zum ersten Mal Elkes Gesicht aus der Vergangenheit. In B2, als die Vier Elke persönlich treffen, erkennt Alphina sie aus Keshers Skizze — ein dramatisches Wiedererkennungs-Moment über 400 Jahre hinweg.
 

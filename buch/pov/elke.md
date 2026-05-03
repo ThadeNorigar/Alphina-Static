@@ -110,7 +110,7 @@ Elke ist die Figur, die **die Zeit-Dilatation verkörpert** — sie hat Freund:i
 
 ## Tod in Buch 3 — Akt II
 
-**Kurz vor ihrem Tod** übergibt Maren (via Kurier/Schemen, vor Marens Durchgang B2-K41) Elke ein Velmar-Dokument mit Varens Namen + eigenen Notizen. Elke hat es nicht gelesen. Wickelt es in Leinen, vergräbt es unter einem Stein im Garten. Gibt Alphina einen mündlichen Hinweis: *„Unter dem Stein, wo nichts wächst."* Alphina versteht ihn damals nicht.
+**In B2-K16** übergibt **Elke** an **Maren** ein versiegeltes Bündel mit der Anweisung *„Unter den Stein, wo nichts wächst"* — ein Velmar-Dokument mit Varens Namen plus Elkes eigenen Notizen. Maren trägt es bis zu ihrem Wasserweg-Durchgang (B2-K39) bei sich, vergräbt es schließlich unter einem Stein im Garten und hinterlässt Alphina den mündlichen Hinweis. Alphina versteht ihn damals nicht — er feuert in B3-K24 (Maren-Brief, zweite Erkenntnis).
 
 **Varen findet heraus**, dass Elke das Dokument hat (über einen Schemen-Informanten). Er schickt einen aufgeladenen Schemen mit Tötungs-Talent. Schemen betritt Elkes Haus in Dravek nachts. Elke wehrt sich. Schemen tötet sie in der **Küche**. Sucht das Dokument. Findet es nicht. Nimmt den Basalt-Splitter-Anhänger, den Elke im Todeskampf fest umschloss (Schemen hält ihn für das gesuchte Objekt wegen seiner Resonanz-Signatur). Trägt die Leiche in den Garten, platziert sie auf einer Bank — Auftrag: „nicht im Haus gefunden werden". Kehrt zu Varen zurück, übergibt den Splitter. Verschwindet (Reservoir leer).
 

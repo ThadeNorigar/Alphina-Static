@@ -263,17 +263,17 @@ Diese Drifts wurden bereits im 1./2. Audit-Lauf gefunden und betreffen Cross-Fil
 
 | # | Aspekt | Datei A | Datei B | Status |
 |---|---|---|---|---|
-| D1 | Maren-Wasserweg-Kapitel | synopse-b2 + zeitleiste = K39 | `pov/maren.md` + `pov/elke.md` = K41 | offen |
-| D2 | Bündel-Übergaberichtung Elke ↔ Maren | synopse-b2 K16: Elke → Maren | `pov/elke.md`: Maren → Elke | offen |
-| D3 | Iven-Einführung | synopse-b3 = Akt IV | `pov/iven.md` = Akt II (I10) | offen |
-| D4 | Marens Todesjahr | synopse-b3 + maren.md + zeitleiste sync = 2037 TZ | `syra-halvard.md` + `lene-dahl.md` = 2047 TZ | offen |
-| D5 | TZ-154-Resonanzen | Memory `project_tz154_canon.md` (Lene=Holz, Kesper=Luft, Keldan=Eisen) | `lene-dahl.md` (Wasser), `kesper-holm.md` (Licht) | offen |
-| D6 | Lene-Dahl-Gründungsjahr | `pov/maren.md` = TZ 151 | `lene-dahl.md` = TZ 154 | offen |
-| D7 | Halvard-Familie in TZ 154? | `tohl.md`: „Doktor Halvard" 154 | Halvard-Linie ist nach Maren (1987 TZ+) | KLÄREN |
-| D8 | Henrik-Funktion | `nebenfiguren/henrik.md` = Gärtner | `pov/sorel.md` = Torwächter | offen |
-| D9 | Syra Übernahme-Jahr / I9-Datierung | synopse-b3: I9 = Syra mit 15 + Kelvar mit 25 (~2090 TZ) | `syra-halvard.md`: 2080 TZ Syra übernimmt Leitung | offen — Syra-Tat-Linie umrechnen |
-| D10 | Tyra-Verwandtschafts-Generation | `tyra-halvard.md` = „Marens Ur-Großtante" | `pov/maren.md` = Tyra ist Marens Ur-Großnichte (richtig: jüngere Generation) | offen |
-| D11 | `19-varen.md` Tippfehler MZ-/TZ-Berechnung | §6/§7: „MZ -0.42 = TZ 354" sollte ~TZ 386 sein | — | klein, später |
+| D1 | Maren-Wasserweg-Kapitel K41 → K39 | ✓ erledigt 2026-05-03 (`pov/maren.md` + `pov/elke.md`) |
+| D2 | Bündel-Übergaberichtung Elke → Maren | ✓ erledigt 2026-05-03 (`pov/elke.md`) |
+| D3 | Iven-Einführung Akt II → Akt IV | ✓ erledigt 2026-05-03 (`pov/iven.md`) |
+| D4 | Marens Todesjahr 2047 → 2037 | ✓ erledigt 2026-05-03 (`syra-halvard.md` + `lene-dahl.md`) |
+| D5 | TZ-154-Resonanzen: Lene Wasser → **Holz**, Kesper Licht → **Luft** | ✓ erledigt 2026-05-03 (`lene-dahl.md` + `kesper-holm.md`); Pendant-Verweise zu Maren/Sorel entfernt — TZ-154-Gruppe und TZ-551-Vier decken sich nicht 1:1 |
+| D6 | Lene-Dahl-Gründungsjahr 151 → 154 | ✓ erledigt 2026-05-03 (`pov/maren.md`) |
+| D7 | Halvard-Familie in TZ 154 | ✓ erledigt 2026-05-03 (`tohl.md`) — „Doktor Halvard"-Verweis als Tippfehler markiert + gestrichen, Halvard-Linie ist nach Marens Strandung 1987 TZ |
+| D8 | Henrik Torwächter → Gärtner | ✓ erledigt 2026-05-03 (`pov/sorel.md`) |
+| D9 | Syra-Tat-Linie: I9 = 2080 TZ ist Treff Syra (15) + Kelvar (25), nicht Leitungs-Übernahme; Übernahme erst ~2100–2110 | ✓ erledigt 2026-05-03 (`syra-halvard.md`) |
+| D10 | Tyra Ur-Großtante → Ur-Großnichte | ✓ erledigt 2026-05-03 (`tyra-halvard.md`) |
+| D11 | `19-varen.md` MZ -0.42 → TZ 386 (statt TZ 354), MZ -0.17 → TZ 486 (statt TZ 485) | ✓ erledigt 2026-05-03 |
 
 ---
 

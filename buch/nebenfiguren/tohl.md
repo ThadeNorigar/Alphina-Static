@@ -33,6 +33,6 @@ welt: moragh
 **Auftritte:**
 - B1-Kap 8: Bringt den Metall-Fisch auf Marens Werft, deutet auf Gezeiten
 - B1 später: taucht am Rand auf, beobachtet ohne zu kommentieren
-- TZ 154 (Interludien-Parallele): Ein anderer Tohl Daverin (Vorfahre) beobachtet Elkes Ritual vom Gartenrand zusammen mit Doktor Halvard
+- TZ 154 (Interludien-Parallele): Ein anderer Tohl Daverin (Vorfahre) beobachtet Elkes Ritual vom Gartenrand. (Hinweis: Die Halvard-Familie existiert in TZ 154 noch nicht — sie geht auf Maren zurück, die 1987 TZ strandet. Der frühere Verweis auf „Doktor Halvard" in TZ 154 war Tippfehler und ist gestrichen.)
 
 **Narrative Funktion:** Tohl ist der Zeuge, der nie ganz erzählt. Eine Figur die weiß, aber nicht sagt — die Vaeler Grundstruktur in einer Person. Wiederholungsmotiv: dieselbe Familie (Daverin) steht dreihundert Jahre später wieder am Hafenrand, als die Dinge wieder falsch laufen.

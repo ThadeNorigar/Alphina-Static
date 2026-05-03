@@ -131,4 +131,4 @@ Satzlänge bis ~50 Wörter, Bandwürmer erlaubt. Rhythmus: Stille + Beobachtung.
 
 **Maren:** Noch nicht direkt begegnet (Stand Kap 12).
 
-**Vael:** Fremd. Er kennt die Kräuterfrau vom Markt, den Vermieter, den Torwächter Henrik von weitem. Spricht selten, wird als „der stille Herr mit den Glasplatten" gehandelt.
+**Vael:** Fremd. Er kennt die Kräuterfrau vom Markt, den Vermieter, den Gärtner Henrik (sitzt am grünen Tor des Botanischen Gartens) von weitem. Spricht selten, wird als „der stille Herr mit den Glasplatten" gehandelt.

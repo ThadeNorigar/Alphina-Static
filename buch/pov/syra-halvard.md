@@ -26,7 +26,7 @@ reihenfolge: 45
 
 **Name:** Dr. Syra Halvard.
 
-**Herkunft:** Thalassien, aktiv 2110–2152 TZ. **Institutsleiterin des Thalassien-Schwellenforschungsinstituts** in der Nachfolge von Maren (die 2047 TZ starb).
+**Herkunft:** Thalassien, aktiv 2110–2152 TZ. **Institutsleiterin des Thalassien-Schwellenforschungsinstituts** in der Nachfolge von Maren (die 2037 TZ beim Verwüster-Angriff in Vael starb).
 
 **Rolle:** Kippt das Institut nach Marens Tod auf **Eroberungskurs**. Entwickelt mit ihrem Team den **Resonanz-Modulator** (der das Portal 72 Stunden offenhält). Orchestriert die **zweite Expedition** als Militär-Operation, nicht mehr als Forschungsmission.
 
@@ -53,8 +53,10 @@ Kein Hass, keine Ideologie. Nur ein Institut, das Maßstäbe setzt. Ihre Mitarbe
 
 ## Tat-Linie
 
-- **2080 TZ (I9):** Institut-Wandel. Syra übernimmt offiziell die Leitung. Trennt sich von Marens Nachlass-Doktrin ("Brücke, nicht Eroberung").
-- **2110 TZ (I11):** Plant zweite Expedition mit General Kelvar Velkan. Resonanz-Modulator im Test.
+- **~2065 TZ:** Geburt.
+- **2080 TZ (I9):** Mit 15 trifft sie Kelvar Velkan (25) am Vaeler Institut. „Die Doktrin kippt in fünf Sätzen" — prägender Moment, Beginn ihrer Eroberungs-Linie. Marens Doktrin („Brücke, nicht Eroberung") wird hier intellektuell widersprochen, nicht institutionell.
+- **~2100–2110 TZ:** Übernimmt offiziell die Leitung des Instituts. Trennt sich von Marens Nachlass-Doktrin praktisch.
+- **2110 TZ (I14):** Plant zweite Expedition mit General Kelvar Velkan. Resonanz-Modulator im Test.
 - **2120 TZ:** Entlässt 2500 Soldaten durchs Portal. Bleibt in Thalassien.
 - **2120–2152 TZ:** Koordiniert aus Vael die Versorgung der Expedition 2, plant die zweite Durchgangs-Welle.
 - **2152 TZ (Finale):** Die Riss-Quelle wird zerstört. Modulator tot, Portal dicht. Syra ist in Thalassien, das Institut ist blind. Sie überlebt, aber ihre Vision ist unwiederbringlich am Boden.

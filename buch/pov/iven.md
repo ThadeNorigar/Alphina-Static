@@ -55,10 +55,9 @@ Einzelbegabt. Erreicht in B3 Akt IV kurzfristig Stufe 7 (Blitz in Handfläche sa
 
 ## Tat-Linie in Buch 3
 
-- **Akt II (I10):** Einführung. Iven als isolierter Moragh-Jugendlicher, der Frequenzen im Gestein hört. Alphina-Gruppe findet ihn.
-- **Akt III:** Er erkennt an Thar-Bauplänen die Ley-Linien-Glasfaser (alter Plan, gestrichen laut `B3-STAND.md`). In der neuen Fassung: er erkennt an Expedition-Drohnen-Signalen, was er stören kann.
-- **Akt IV — Störsender-Ritual:** Versteckt hinter Kessler. Hände auf tragbarem Generator. Stört die Drohnen-Koordination der Expedition für entscheidende Sekunden während Alphina-Angriff.
-- **Ende:** Überlebt knapp. Lebt in Halvek-Mar oder freier Stadt, schwer erholungsbedürftig.
+- **Akt IV — Einführung beim Anmarsch nach Osten:** Iven stößt zur Gruppe, siebzehn, Moragh-geboren. Ein alter Expedition-Generator erwacht unter seinen Händen, die Zeiger spinnen rückwärts, Nasenbluten. Vesper erkennt ihn als Schlüssel gegen die Drohnen der Expedition.
+- **Akt IV — Störsender-Einsatz:** Versteckt hinter Kessler. Hände auf einem geborgenen Transformator. Vier Resonanz-Pulse durch das Tech der Expedition — Drohnen stürzen, Exoskelette stolpern, Kessler rollt in die Lücke. Beim vierten Puls bricht Iven zusammen, blutet aus Nase und Ohren, überlebt knapp.
+- **Ende:** Überlebt mit Dauerfolgen. Lebt in Halvek-Mar oder freier Stadt, schwer erholungsbedürftig.
 
 ---
 

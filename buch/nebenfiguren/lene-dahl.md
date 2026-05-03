@@ -15,14 +15,14 @@ welt: thalassien
 
 **Status:** Nebenfigur. Aktiver Kanon. TZ-154-Interludien.
 **Fraktion:** Thalassien, Vael (TZ 154)
-**Rolle:** Schiffbauerin, eine der Vier von TZ 154. **Einzige Überlebende.** Marens Pendant.
+**Rolle:** Schiffbauerin, eine der Vier von TZ 154. **Einzige Überlebende.**
 **Verwandte Files:** `00-welt.md`, `pov/elke.md`, `pov/maren.md` (TZ-154-Linie)
 
 ---
 
 **Alter TZ 154:** Ende zwanzig bis Anfang dreißig.
 
-**Fähigkeiten:** Thalassierin mit vestigialer Resonanz. In TZ 154 noch ungeklärt — erahnbar als **Wasser-Neigung** (Schiffbau-Intuition, Strömung lesen), aber in Thalassien nie entfaltet. Parallel zu Maren in TZ 551.
+**Fähigkeiten:** Thalassierin mit vestigialer **Holz-Resonanz** (Memory-Canon `project_tz154_canon.md` — TZ-154-Vorgängergruppe: Elke Stein, Keldan Eisen, Kesper Luft, Lene Holz). Schiffbau-Intuition wurzelt in der Holz-Resonanz: Maserung, Spannung, Bruchpunkt, Lebensalter des Stamms. In Thalassien als Handwerks-Instinkt empfunden, nie als Magie benannt. Kein direktes Pendant zu einer der modernen Vier — die TZ-154-Gruppe und die TZ-551-Vier decken nicht 1:1 dieselben Resonanzen ab.
 
 **Aussehen:** Kräftig, sonnengebräunt, kurzes rotblondes Haar. Narben an Unterarmen vom Werft-Werkzeug. Kleidung: Leinenhemd, Lederschürze (TZ 154 — Thalassien hatte Leder), derbe Stiefel. Holzspäne in allen Falten.
 
@@ -53,4 +53,4 @@ Lene ist der **stumme Zeuge TZ 154**. Als einzige Überlebende trägt sie die Ge
 
 **Verwandtschaft zu Maren?** Derselbe Nachname "Dahl" wie Haron Dahl. Ob Lene die Urahnin einer Linie ist, in die Haron sich (Generationen später) als Agent infiltriert hat, ist offen — aber narrativ ergiebig: Maren trägt einen Nachnamen, der drei Verknüpfungen hat (Lene, Haron, sie selbst).
 
-**Todesfall-Motiv:** Lenes Ur-Ur-...-Großneffe/Großnichte Maren stirbt 2047 TZ im Verwüster-Angriff in Vael — parallel zu Lenes Überleben von 154. Symmetrie: die eine überlebt, die andere stirbt, beide beim Vaeler Feuer.
+**Todesfall-Motiv:** Lenes Ur-Ur-...-Großneffe/Großnichte Maren stirbt 2037 TZ im Verwüster-Angriff in Vael — parallel zu Lenes Überleben von 154. Symmetrie: die eine überlebt, die andere stirbt, beide beim Vaeler Feuer.

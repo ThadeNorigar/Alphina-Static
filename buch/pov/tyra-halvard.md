@@ -18,7 +18,7 @@ reihenfolge: 50
 
 **Letzte Aktualisierung:** 2026-04-19
 **Status:** Aktiver Kanon. Hauptfigur Buch 3 (und Brückenfigur Buch 4).
-**Verwandte Files:** `12-buch3-konzept.md`, `fraktionen/expedition.md`, `B3-ZEITLEISTE.md`, `pov/maren.md` (Marens Ur-Großtante).
+**Verwandte Files:** `12-buch3-konzept.md`, `fraktionen/expedition.md`, `B3-ZEITLEISTE.md`, `pov/maren.md` (Marens Ur-Großnichte).
 
 ---
 
@@ -26,7 +26,7 @@ reihenfolge: 50
 
 **Name:** Tyra Halvard.
 
-**Herkunft:** Thalassien, 2020 TZ. Linguistin am Thalassien-Schwellenforschungsinstitut. **Marens Ur-Großtante** (Seitenlinie zu Dr. Syra Halvard).
+**Herkunft:** Thalassien, 2020 TZ. Linguistin am Thalassien-Schwellenforschungsinstitut. **Marens Ur-Großnichte** (Seitenlinie zu Dr. Syra Halvard).
 
 **Rolle:** Einzige Überlebende der **Expedition 1** — kam 2020 TZ in Moragh an, floh 2037 TZ aus der Thar-Gefangenschaft. Seitdem lebt sie in Moragh.
 
