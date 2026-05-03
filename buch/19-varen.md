@@ -36,6 +36,8 @@ Dieses File konsolidiert sämtliche Entscheidungen zu Varen, seinem Motiv, seine
 
 **Stimme und Rhetorik:** Spricht altes Thalassisch — flüssig, mit Akzent. Elke hat es ihm beigebracht, er hat es an seine Agenten weitergegeben. Keiner der Vier kann die archaische Form sofort einordnen — sie klingt wie eine Sprache aus einem alten Roman. **Unglaublich eloquent**: literarische Syntax aus dem TZ 15. Jahrhundert, zitiert Bücher die es in Alphinas Zeit nicht mehr gibt. Formuliert Gedanken präzise, die andere nur fühlen. **Argumentativ hervorragend**: widerspricht selten direkt, stellt Fragen die Türen öffnen. Gewinnt jedes Gespräch durch das nächste. Wenn Alphina sagt *„Du hast Sorel sterben lassen"*, antwortet er *„Ja."* — dann: *„Die Frage die zählt ist eine andere: Was machst du jetzt?"*
 
+Stimm-Beispiel B1-K38 (Abgang am Steinplatz, vor seinem Rückzug): *„Euer Freund trat zwischen mich und sie; mein Schutz hat geantwortet. Was danach in ihm zerbrochen ist, kam aus ihm. Sein Licht war größer als sein Maß. Bedenkt das, ehe ihr mich zum Grund erklärt."* — vier Sätze, Schuld-Verschiebung ohne direkte Verteidigung. Volle Mechanik in §1b.
+
 **Neugier:** **Wissbegierig** bis zur Obsession. Liest Alphina wie ein Buch. Stellt präzise Fragen zu ihrer Resonanz, ihren Pflanzen, ihren Erinnerungen. Macht Notizen. Zeigt ihr die Notizen. Alphina fühlt sich **gesehen** auf eine Art, die weder Sorel noch Vesper konnten — weil Varen ein Forscher ist und sie zu seinem Forschungsgegenstand geworden ist. Das fühlt sich zuerst an wie Liebe. **Teile davon sind echt.** Er bewundert sie wirklich. Das macht die Manipulation grausamer — weil sie echte Züge trägt, die er für seinen Zweck instrumentalisiert.
 
 **Fraktionsstatus:** Aus Velmar **verdeckt ausgestoßen** — ohne öffentliche Anklage, ohne Gerichtsverfahren, ohne Eintrag in Velmar-Registern. Die Velmar-Binder-Elite weiß was er getan hat und schweigt. Der Rest der Velmar ahnt "da war etwas" und fragt nicht nach. Die anderen Fraktionen (Bund, Thar, freie Städte) **wissen nichts von ihm** — kennen seinen Namen nicht, haben ihn nie mit dem Quellen-Kollaps in Verbindung gebracht.
@@ -51,7 +53,7 @@ Varen ist ein **0.001 %-Fünffach-Begabter** — eine einmalige Ausnahme einer G
 | Talent | Stufe | Anmerkung |
 |---|---|---|
 | Rufen | 7 | Velmar-Binder-Kern. Kann übergroße Schemen allein, Schrecken-Klasse im Ritual. |
-| Binden | 6 | Dutzende gebunden, vererbbar über Generationen (alte Velmar-Linie). Sein Reservoir ist durch die aktiven Bindungen dauerhaft reduziert — trotzdem funktionsfähig dank Ausnahmebegabung. |
+| Binden | 6 | Dutzende gebunden, vererbbar über Generationen (alte Velmar-Linie). Sein Reservoir ist durch die aktiven Bindungen dauerhaft reduziert — trotzdem funktionsfähig dank Ausnahmebegabung. Bindungsmagie wirkt nur auf Schemen, nicht auf Thalassier oder Moragh-Geborene (Canon `10-magie-system.md` Z.515). |
 | Energie | 6 | **Die Grundlage der Resonanz-Ernte.** Ab Stufe 9–10 kann man fremdes Reservoir absaugen; mit Stufe 6 und seiner entwickelten Technik erreicht er diese Wirkung in Ritualform. |
 | Druck/Gravitation | 5 | Velmar-Binder-Kaste als Grundausstattung. Basis seiner Portalforschung (Raumverformung). |
 | Zeit | 3 | Angelernt über zwei Jahre Portalforschung (MZ -3 bis -1). "Brachial und unsicher", aber genug für Portale in Kombination mit der Druck-Komponente. |
@@ -59,6 +61,18 @@ Varen ist ein **0.001 %-Fünffach-Begabter** — eine einmalige Ausnahme einer G
 **Resonanz-Ernte ist kein eigenes Talent.** Sie ist eine von Varen entwickelte **Technik**, die Energie-Resonanz mit Druck- und Ritualwissen kombiniert und das fremde Reservoir in ein passendes Gefäß zwingt. Der Preis zahlt der Ernter (Autoimmunreaktion, permanenter Schaden — milchige Augen, Haarausfall, beschleunigtes Altern), weil die fremde Magie nicht zu seiner Resonanz passt. Siehe `20-moragh-talente.md`, Abschnitt *Energie*, für die Einordnung im Talent-System. **Diese Technik ist Varens Werkzeug für sein Ritual (B3) und wird ausschließlich von Varen praktiziert. Talven praktiziert sie NICHT** — Talven entwickelt eigenständig eine andere Methode (Blutmagie + Schemen-Bindung, Selbstlehre), siehe `13-talven.md`.
 
 **Als Velmar-Rufer mit Binden-Sekundärtalent** gehört Varen ins Muster der Rufer-Kaste, das in `21-moragh-gesellschaft.md` beschrieben ist. Seine Ausstoßung aus Velmar (siehe Abschnitt 5) ist politisch-doktrinär, nicht an seine Fähigkeiten gebunden — seine Talente hätte jede Velmar-Binder-Elite gern gehalten.
+
+**Magie-Mechanik (Verweis auf `10-magie-system.md`):** Alle Anwendungen kosten Reservoir und Konzentration; Bindungen kosten kontinuierlich. Bindungsmagie schlägt nicht zurück. Bei Reservoir-Druck löst Varen Bindungen aktiv durch **Bannen** — Schemen weg, Druck fällt — nicht durch ungewolltes Lösen, weil das ungebundene Schemen mit Negativ-Saldo freisetzen würde.
+
+**Halt-Magie auf Menschen:** Da Bindungsmagie nicht auf Thalassier oder Moragh-Geborene wirkt, kombiniert Varen **Druck** (festhalten), **Zeit** (verlangsamen) und **Energie** (Resonanz dämpfen) zu einem Halt. Resonanz-Träger mit unbewusst aktiver Resonanz können die Energie-Komponente lokal kompensieren (B1-K38: Sorel kann sich bewegen). **Reaktions-Lag bei Umlenkung:** Halt-Magie lässt sich während des Wirkens auf neue Ziele umrichten, aber mit spürbarer Verzögerung — bei B1-K38 zu langsam, um Sorels Sprung zwischen ihn und Alphina abzufangen.
+
+**Taktisches Profil — kein Hals-über-Kopf:** Varen riskiert sein Reservoir nie über die Schwelle. Wenn ein Kampf nicht in Minuten zu beenden ist, zieht er sich kontrolliert zurück und bannt unterwegs Schemen. **B1-K38 Steinplatz:** Quelle klein, Alphina als Thalassier azyklisch wirkfähig + emotional verstärkt überraschend stark — im längeren Kampf wäre er im Nachteil. Taktischer Rückzug, kein Hals-über-Kopf, kein Blut-Spucken. Erste Lehre für ihn: Thalassier sind stärker als gedacht, auch ohne große Quelle in Reichweite.
+
+**Abgangstext B1-K38** (alt-thalassisch, vor dem Rückzug an die Vier):
+
+> „Euer Freund trat zwischen mich und sie; mein Schutz hat geantwortet. Was danach in ihm zerbrochen ist, kam aus ihm. Sein Licht war größer als sein Maß. Bedenkt das, ehe ihr mich zum Grund erklärt."
+
+Vier Sätze, eloquent, Schuld-Verschiebung ohne direkte Verteidigung. Saatkorn für Alphinas B2-Zweifel — dieselbe Argumentations-Linie kehrt in seiner Captivity-Tour wieder („Quellen wurden vom System getötet, nicht von einer Kettenreaktion").
 
 ---
 
@@ -445,7 +459,7 @@ Moragh hat **keine Sonne**. Es hat eine Akkretionsscheibe (ein Ring aus leuchten
 | Alphinas Zorn-Farbe | Nicht grün. Pechschwarze Wurzeln, purpurne Stängel, blutrote Blüten mit schwarzen Kanten. Anti-Flora. Physiologisch: Moragh hat keine direkte Sonne, Anthocyane statt Chlorophyll. |
 | Die Blüten auf Sorels Körper | Blutrot und schwarz mit purpurnen Kanten. **Nicht weiß.** Sie bleiben, wenn alles andere stirbt. |
 | Varens Rückzug | Erschöpft, nicht würdevoll. Seine Magie ist zyklisch, Alphinas azyklisch. |
-| Varens Abgangstext | "Wir sehen uns nicht das letzte Mal." In altes Thalassisch. |
+| Varens Abgangstext B1-K38 | *„Euer Freund trat zwischen mich und sie; mein Schutz hat geantwortet. Was danach in ihm zerbrochen ist, kam aus ihm. Sein Licht war größer als sein Maß. Bedenkt das, ehe ihr mich zum Grund erklärt."* In altes Thalassisch. Schuld-Verschiebung als Saatkorn für B2-Bekehrung. |
 | K38 vs. K39 | K38 ist die Berührungsszene (Bindung, Studieren). K39 ist der Kampf und der Tod. Zwei Kapitel, nicht eins. |
 
 ---

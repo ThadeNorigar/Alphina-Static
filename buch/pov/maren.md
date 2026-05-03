@@ -63,6 +63,7 @@ Drei Register, nie »Jacke«:
 - **Die gefaltete Schürze** (Harons Körperform im Stoff) — unberührt auf der Werkbank. Abschluss einer Identität, die Maren nicht aufbrechen kann.
 - **Das Boot, drei Viertel fertig** — wird fertig. Mit wessen Händen?
 - **Marens Wasser-Resonanz** — wächst mit jeder Szene. Zum Öffnen des Tors braucht es alle vier Resonanzen gleichzeitig: Pflanze, Licht, Zeit, Wasser.
+- **Wade-Wunde aus B1-K38** — Alphinas Dornen schneiden ihre Wade auf, als sie beim Sorel-Tod als Zeugin am Rand steht. Erstmal-Verletzung durch unkontrollierte Magie einer Verbündeten. Stille Vertrauensdelle, die sie nie benennt — Echo in B2, wenn Alphinas Resonanz beim Bund ungerichtet zu schwarz/rot kippt.
 
 ## Beziehungs-Dynamik
 

@@ -66,6 +66,7 @@ Max ~30 W pro Satz, Ausnahmen bis ~40 W. **Wenn-Dann-Denken in vollständigen S�
 - **Bauerndiagonale** — das erste Muster das er je sah (Schach); kehrt als Metapher für Resonanz zurück
 - **Uhren-Karte Vael** — Mittelpunkt in der Oberstadt; führt ihn unweigerlich zum Steinkreis
 - **Resonanz: Zeit/Muster** — unbewusst, aber aktiv: Uhren driften um ihn herum, Takt in der Brust
+- **Schulter-Wunde aus B1-K38** — eine pechschwarze Wurzel trifft seine Schulter, als er beim Sorel-Tod als Zeuge am Rand steht. Erstmal-Verletzung durch Alphinas unkontrollierte Magie. Echo in B2, wenn er als analytischer Mustersehender erstmals fasst, was Alphinas azyklische Magie körperlich kostet — aber nur die anderen.
 
 ## Beziehungs-Dynamik
 

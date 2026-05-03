@@ -47,6 +47,8 @@ Runa ist in Buch 1 eine Nebenstimme, Tschechow-Setup für ihre Buch-2/3-Rolle. S
 
 Sie hat noch keine Theorie über ihre Wärme. Alphina hat ihre Farne, Vesper seine Uhren, Sorel seine Fotos — Runa hat nur ihre Hände und eine unvollständige Erklärung.
 
+**Unterarm-Wunden aus B1-K38** — beim Sorel-Tod schneiden Alphinas Brombeer-Ranken Runas Unterarme auf, als sie als Zeugin am Rand steht. Erstmal-Verletzung durch unkontrollierte Magie einer Verbündeten — Echo in B2 Sulkara, wenn die Brand-Schemen-Wunden sich auf dieselben Stellen legen.
+
 ---
 
 ## Buch 2 — Yarros-Shift

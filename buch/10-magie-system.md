@@ -643,11 +643,55 @@ Der Schemen zahlt den Preis seiner eigenen Zauber aus seinem eigenen Magie-Vorra
 
 ### Zwei Arten
 
-**Beschworene Schemen** (temporär) halten **maximal 2–3 Stunden**, dann lösen sie sich auf. Ihre **Interessen-Spanne** kann sie schon früher gehen lassen — wenn die Aufgabe sie langweilt, verschwinden sie unaufgefordert. Wer länger braucht, muss binden.
+**Beschworene Schemen** (temporär, ungebunden) halten **1–2 Tage** in der Welt, dann lösen sie sich auf. Ihre **Interessen-Spanne** kann sie schon früher gehen lassen — wenn die Aufgabe sie langweilt, verschwinden sie unaufgefordert. Wer länger braucht, muss binden.
 
 **Gebundene Schemen** (dauerhaft) regenerieren und bleiben, bis der Beschwörer sie freilässt oder stirbt. Varens Schemen in Vael sind **alle gebunden**: Alphinas Beobachter, die Steinkreis-Wächter, der Nachtholm-Mimikry-Schemen, die Fußnoten-Platzierer.
 
 **Ausnahme — ungebundene Freigelassene.** Wenn ein Beschwörer stirbt, während ein nicht-gebundener Schemen noch in Thalassien aktiv ist, wird der Schemen **frei**. In Vael genau ein Fall: der **Boots-Schemen in Marens Werft**.
+
+### Reservoir und Befehlstreue
+
+**Eigenes Reservoir.** Jeder Schemen hat ein eigenes Magie-Reservoir, aus dem er eigene Magie wirkt (Element-Fähigkeiten, Selbstschutz). Ist es leer, löst sich der Schemen auf — egal, ob gebunden oder frei. In Moragh kann er an Quellen nachladen; in Thalassien gibt es keine Auflade-Möglichkeit, deshalb verschwinden Schemen drüben zuverlässig binnen 1–2 Tagen.
+
+**Gebundene Schemen** befolgen die Befehle des Binders **exakt**. Sie bleiben, bis ihr Reservoir leer ist oder sie zerstört werden. Die Bindung selbst kostet den Binder kontinuierlich (reduziertes Max-Reservoir, siehe oben).
+
+**Ungebundene Schemen mit Anweisung** befolgen die Anweisung mit etwa **70 %-Wahrscheinlichkeit** für 1–2 Tage. Den Rest der Zeit folgen sie eigener Neugier — was ein Schemen ohne Befehl tut, ist Zufall.
+
+### Bindung beenden — Bannen vs. Lösen
+
+Der Binder hat zwei Wege, eine Bindung zu beenden:
+
+1. **Bannen.** Der Schemen wird aktiv fortgeschickt, kehrt in die Heimat-Ebene zurück. Sauberer Out: die kontinuierliche Reservoir-Belastung des Binders endet (Max-Vorrat wieder voll), aber **das aktuelle Magie-Level wird dadurch nicht regeneriert** — verbrauchte Magie kommt nicht zurück, nur der Druck der laufenden Bindung fällt weg. Bannen ist sicher, weil der Schemen weg ist, bevor er ungebunden in der Welt agieren kann.
+
+2. **Lösen.** Die Bindung wird gekappt, der Schemen bleibt in der Welt und wird ungebunden. **Vorher gegebene Befehle gelten dann nicht mehr** — er führt sie nur weiter aus, wenn er es selbst wollen würde. Bei negativem Saldo (siehe Aggressions-Tendenz unten) kann er aggressiv auf den Ex-Binder reagieren.
+
+**Ungewollte Auflösung** passiert, wenn das Reservoir des Binders unter die Bindungs-Schwelle fällt (oder er stirbt) — das funktioniert wie **Lösen**, nicht wie Bannen. Deshalb ist es für Binder mit hohem Negativ-Saldo lebenswichtig, rechtzeitig zu bannen, bevor das Reservoir kippt.
+
+### Aggressions-Tendenz nach Auflösung
+
+Schemen sind **außerordentlich gut darin, die Emotionen anderer Wesen wahrzunehmen**. Sie bewerten ihren Binder rückblickend nach den **Emotionen, die seine Befehle bei den Zielen ausgelöst haben** — nicht danach, ob sie als Werkzeug benutzt wurden (das ist neutral, kein Fies-Faktor).
+
+**Bewertungs-Skala (Tendenz, nicht Pflicht):**
+
+| Befehl | Emotionale Wirkung am Ziel | Saldo |
+|---|---|---|
+| Folter, Vergewaltigung | extrem negativ | −6 |
+| Auftrags-Mord | sehr negativ | −4 |
+| Aktiver Angriff auf Wesen | negativ | −2 |
+| Reaktiver Schutz-Befehl, der tötet (Sorel B1-K38) | klein-negativ | −1 |
+| Bindung selbst (Verlust der Eigeninitiative) | leichter Affront | Grund-Anteil ~5 % |
+| Werkzeug (Beobachten, Tragen, Botengang) | neutral | 0 |
+| Sachschaden (Feuer, Diebstahl) | neutral | 0 |
+| Akte, die andere Wesen erfreuen | positiv | +1 |
+| Sexuelle Dienste mit Einverständnis und Freude | sehr positiv | +2 |
+
+**Aggressions-Wahrscheinlichkeit nach Bindungs-Auflösung** = Grund-Anteil 5 % (durch Bindung selbst) + akkumulierter Negativ-Saldo aller ausgeführten Befehle. Positive Befehle senken den Saldo wieder. Aggression bleibt **Tendenz, nicht Pflicht** — Schemen-Verhalten im Detail ist Zufall.
+
+**Konsequenz für B1-K38 (Sorel-Tod, Steinplatz Moragh):** Varens Schemen-Auftrag war „mich schützen, falls jemand angreift". Sorels Sprung zwischen ihn und Alphina interpretierten die Schemen als Angriff und reagierten reaktiv-tödlich. Saldo dieses Befehls: −1 pro Schemen (kein gezielter Mord). Plus Grund-Anteil. Das ist niedrig, aber Varen hat schon früher Schemen für Werkzeug-Aufträge eingesetzt; insgesamt akkumulierter Saldo am Steinplatz noch handhabbar. Dass er sich trotzdem zurückzieht, liegt am Reservoir-Risiko gegen Alphina (azyklisch + emotional verstärkt) — er **bannt** unterwegs Schemen, statt sie ungewollt freisetzen zu lassen.
+
+**Konsequenz für B3 Akt II (Elke-Mord):** Der Auftrags-Mord-Schemen hat Saldo −4. Nach erledigter Tat löst Varen die Bindung — der Schemen ist Reservoir-leer, also löst er sich praktisch sofort auf, eine Aggressions-Reaktion bleibt ohne Wirkung.
+
+**Konsequenz für B3 Akt IV (Talven löst Bindungen):** Talvens Bindungs-Praxis enthält Eigenverletzung (Self-Harm zur Kristall-Aufladung) und Befehle, die instabile Kristalle bei den Trägern auslösen — Saldo hoch. Talven könnte bannen, tut es aber nicht — er löst die Bindungen einzeln und nimmt den Schmerz als Buße. Die aggressive Reaktion pro Lösung (kurzer Schemen-Berührungs-Schaden) ist die direkte Folge des hohen Saldos.
 
 ### Mentale Bindung
 
