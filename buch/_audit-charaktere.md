@@ -34,7 +34,7 @@ Pro Hauptfigur sicherstellen, dass jedes Schlüssel-Erlebnis als Zeitleisten-Eve
 | File | Geprüft | Findings | Aktion |
 |---|---|---|---|
 | `pov/alphina.md` | ✓ 2026-05-02 | sauber | — |
-| `pov/sorel.md` | ✓ 2026-05-02 | sauber | — |
+| `pov/sorel.md` | ✓ refaktoriert 2026-05-03 | komplett neu strukturiert: Wissensstand chronologisch (K10/K12 vor K13–K21), B1-K30-Schwur als Pivot-Anker, B2/B3-Echo-Bogen ergänzt (Schlaf-Hain-Sorel-Baum, „Sorels Nutzen liegt im Sterben", Sorel-Nicht-Vergeben, Sub-Phase mit Vesper als Sorel-Echo), Beziehungs-Dynamik auf B1-Ende-Stand aktualisiert, Charakter-Wertgerüst-Sektion (Beobachter/Schweiger/Schuldschein), Henrik-Korrektur, Sorel-glatt-rasiert-Memory, Falkensand → Nachtholm-Korrektur, Begründung „instabile Resonanz" auf „untrainiert" korrigiert (war außer-Canon „weil er Alphina gemalt hat"). | — |
 | `pov/vesper.md` | ✓ 2026-05-02 | sauber | — |
 | `pov/maren.md` | ✓ 2026-05-02 | klein: ein Satz Varen-Aktion in Tod-Sektion (gerechtfertigt) | belassen |
 | `pov/runa.md` | ✓ 2026-05-02 | sauber | — |
