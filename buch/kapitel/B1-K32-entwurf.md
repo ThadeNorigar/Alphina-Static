@@ -1,7 +1,21 @@
 # B1-K32 — Runa — Entwurf
 
+> **TODO 2026-05-03 — Inhalts-Refactor steht aus (Task #13):** Datums-Klärung im /ausarbeitung-Pre-Check für K31 hat ergeben: K32 liegt chronologisch **vor** K31. Folgende Anpassungen müssen beim Refactor durchgezogen werden, **bevor** /ausarbeitung K32 startet:
+>
+> - **Datum:** 14. Nebelmond Abend → 9. Nebelmond Tag/Abend (ein Tag nach K30 Hafengasse-Nacht).
+> - **„Vor sechs Tagen, K30"** (Z. 6) → *„gestern Nacht, K30"* — Joran-Nacht ist gerade gewesen.
+> - **K31-Anschluss-Logik raus:** „unmittelbarer Anschluss an K31 (Marktplatz-/Hafen-Angriff am Tag, Runas Feuer-Resonanz öffentlich geworden)" — gilt nicht mehr. K31 liegt nach K32 (5 Tage später).
+> - **Runas Bewusstseins-Stand:** Sie hat in K30-Schluss-Beat gesagt *„Joran tot, alles so heiss"* — sie weiß intuitiv, dass ihre Hände das Schemen-Wesen verbrannt haben. K32 ist die ruhige Verarbeitung, in der sie es **vor sich selbst** anerkennt. Kein „seit Monaten verdrängt", sondern „seit gestern Nacht weiß ich's".
+> - **Kein Probebrett-Brandfleck** (das passiert in K31).
+> - **Setzkasten-Brandfleck** = einziger materieller Anker, frisch von gestern Nacht (nicht „seit sechs Tagen jeden Tag gesehen").
+> - **Cross-POV-Anker auf K30** statt K31. Der „A"-Letter-Tschechow in der Hand kann bleiben, aber als Verarbeitung der Nacht, nicht als Echo eines Tag-Marktplatz-Erlebnisses.
+> - **K34-Setup „Ich komme mit"** bleibt — der innere Entschluss bildet sich heute, in der Stille der Druckerei, einen Tag nach Joran-Tod.
+> - **Buch-Lesereihenfolge:** K30 → K32 (dieser Entwurf) → K31 → K33. Kapitel-Nummern werden nach beidseitigem Final getauscht (siehe `kapitel/_TODO_tausch_k31_k32.md`).
+> - **Memory-Pflicht:** `project_nyr_runa_eigenstaendig.md` — Runa journalistisch, recherchiert, deckt auf. Verarbeitungs-Beat darf Recherche-Geste tragen (sie sucht zurück, vergleicht, ordnet).
+
 **POV:** Runa Kvist (3. Person nah, Präteritum) · **einziges Runa-POV-Kapitel in B1**
 **Timeline:** 14. Nebelmond 551 TZ · später Nachmittag bis späterer Abend · Druckerei Kvist, Oberstadt Vael · unmittelbarer Anschluss an K31 (Marktplatz-/Hafen-Angriff am Tag, Runas Feuer-Resonanz öffentlich geworden)
+**~~Datum oben gilt nicht — siehe TODO-Refactor-Block~~**
 **Wortziel Ausarbeitung:** 3.500–4.000 W
 **Gänsehaut-Moment:** Runa setzt sich an den Setzkasten, an dem in der Joran-Nacht (vor sechs Tagen, K30) der erste Brandfleck entstanden ist. Zwei Wesen waren in der Druckerei: das erste am Setzkasten zu schwarzer Asche verbrannt; das zweite hatte Joran aus dem Trockenraum heraus von hinten mit Eis aus dem Arm getötet und war ihr im Rausrennen mit Stichflammen gefolgt — Brandstellen an Türrahmen (Festhalten), Pressenholz (zweites Festhalten), Decke über der Presse (Stichflammen). Der Setzkasten-Fleck ist der erste; sie hat alle Brandstellen jeden Tag gesehen, ohne sie benennen zu wollen. Sie nimmt einen Bleilettern-Block heraus — ein „A". Das Blei ist weicher unter ihren Fingern als es sein darf. Nicht heiß genug zum Schmelzen, aber weich genug, dass die Spitze des Buchstabens sich um einen Hauch verformt, wenn sie ihn drückt. Sie hält die Hand still. Sie hat es nicht weg. Sie kann es nicht weg.
 

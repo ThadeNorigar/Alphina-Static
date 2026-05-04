@@ -8,6 +8,7 @@ primaer_referenz: Yarros — Emotion-Peak mit Körper vor Kopf; Maas (ACOTAR Emo
 ergaenzende_referenz: Kuang für den Kontext-Moment (Varens Abwehr); SenLinYu für Schock-Dissoziation
 zweck: Der akute Verlust-Moment. Varens Abwehr ist geschehen, Sorel sterbend, Alphinas Körper-Explosion (Dornen, Vegetation, eigene Leute verletzt). Eigenes Register: Grief + Gewalt + Magie-Kontrollverlust in einem.
 canon_status: Ton-Etüde, nicht Plot-Canon.
+todo_2026-05-03: Stein-Bruch-Mechanik korrigieren. Aktueller Text lässt Stein direkt durch Alphinas Magie aufbrechen — Canon-Bruch (Memory `project_stein_quellen_pflanzen_resonanz.md`: Stein ist inert, Pflanzen wachsen DURCH organische Substanz IM/UNTER dem Stein und brechen ihn dabei). Bei Refit-Pipeline: organische Substanz im Moragh-Boden als QUELLE explizit benennen (Wurzelreste, Pflanzen-Adern), Stein-Bruch als Konsequenz des Pflanzen-Wachstums formulieren, nicht als direkter Magie-Akt auf Stein. Trauer-Manifestation (schwarze Dornen mit blut-rotem Blütenrand) bleibt Canon (Memory `project_alphina_heat_echo_pflanzen.md`).
 ---
 
 Sorel lag auf der Seite.

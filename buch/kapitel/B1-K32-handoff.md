@@ -14,7 +14,7 @@ claude --model opus
 
 - **POV:** Runa (3. Person nah, Präteritum) — einziges Runa-POV-Kapitel in B1
 - **Wortziel:** 3.500–4.000 W
-- **Timeline-Anker:** 14. Nebelmond 551 TZ Abend, Druckerei Kvist Oberstadt, direkter Anschluss an K31 Tag (Marktplatz-Schemen-Mord, Runas Hände öffentlich)
+- **Timeline-Anker:** 9. Nebelmond 551 TZ Tag/Abend, Druckerei Kvist Oberstadt, direkter Tag-Anschluss an K30 (Hafengasse-Nacht-Angriff, Joran-Tod). Chronologisch **vor** K31 (Marktplatz-Mord, 14. Nebelmond) — siehe `kapitel/_TODO_tausch_k31_k32.md` für späteren Tausch der Kapitel-Nummern. **K32-Entwurf-Inhalts-Refactor steht aus** (Task #13): Cross-POV-Anker auf K30 statt K31, kein Probebrett-Brandfleck (das entsteht erst K31), Tarn-Wegschick-Beat entfällt.
 - **Freigegebener Entwurf:** buch/kapitel/B1-K32-entwurf.md
 - **Ton-Referenz (letztes finales Runa-POV-Kapitel):** buch/kapitel/B1-K25-runa.md
 
