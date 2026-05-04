@@ -2,6 +2,8 @@
 
 **Ziel:** Plot, Struktur, Logik, Charakter-Dynamik fuer ein Kapitel als Fließprosa-Exposé festklopfen. **Kein Prosa-Ton, kein Rhythmus, keine Stil-Arbeit.** Diese Phase macht den Plot belastbar, nicht die Sprache.
 
+**Findings-Format-Pflicht:** Master = `buch/_findings-format.md`. Falls in Council-Loop oder Logik-Pruefung Findings entstehen, im Block-Format mit Vorher/Nachher und Satz-Kontext (Entwurf-Sequenz davor + Stelle + Sequenz danach). Tag aus `[PFLICHT]`/`[TIC]`/`[STIL?]`. Bei reinen Plot-Beat-Aenderungen (keine Prosa) reicht Beat-Liste mit Vorher/Nachher-Beschreibung des Beats.
+
 **Modell-Soll:** Sonnet (Hauptsession). Alle Subagenten explizit per Override.
 
 ## Input
@@ -446,6 +448,23 @@ Wenn der Autor explizit *"entwurf ok"* / *"plot freigegeben"* sagt:
 ### 8.1 Status setzen
 - `state: "entwurf-ok"` in status.json
 - Deploy
+
+### 8.1b Tschechow-Ledger updaten (NEU 2026-05-04, PFLICHT)
+
+Nach `entwurf-ok` werden alle Tschechow-Plants des Entwurfs in das zentrale Ledger eingetragen. Single Source of Truth: `buch/_tschechow-ledger.md`.
+
+**Vorgehen:**
+1. Aus dem Entwurf alle `### Tschechow-Elemente`-Sektionen + Sinnes-Inventar-Plants extrahieren.
+2. Pro Plant Eintrag in `_tschechow-ledger.md` ergänzen:
+   - Neue ID vergeben (TZ-{nächste-Nummer}, kontinuierlich)
+   - Plant (was) — kompakte Beschreibung
+   - Setup-Kapitel: B1-K{NN} (das aktuelle Kapitel)
+   - Payoff-Kapitel: aus Entwurfs-Hinweis oder „offen"
+   - Status: `geplant` (im Entwurf vermerkt, noch nicht final)
+   - Notiz: Funktion / Verbindung zu anderen Plants
+3. Plants, die laut Entwurf in diesem Kapitel **abgefeuert** werden, bekommen Status `abgefeuert` und Payoff-Kapitel = aktuelles Kapitel.
+
+**Output:** Ledger-Diff dem Autor zeigen — welche Plants neu hinzugefügt, welche Status-Änderungen. Bei Konflikten (z.B. Plant existiert schon mit anderer ID): Autor entscheidet.
 
 ### 8.2 Handoff-File generieren (Subagent, haiku)
 

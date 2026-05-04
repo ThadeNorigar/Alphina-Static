@@ -2,6 +2,8 @@
 
 Du prüfst ein Kapitel von "Der Riss" auf Logikfehler. Absatz für Absatz. Brutal.
 
+**Findings-Format-Pflicht:** Master = `buch/_findings-format.md`. Logik-/POV-Findings im Block-Format mit Vorher/Nachher und Satz-Kontext. Tag immer `[PFLICHT]` (POV-Konsistenz und Logik sind keine Geschmacksfragen). „warum" mit Master-Verweis (z.B. `01-autorin-stimme.md` Sorel-Prinzip, `00-welt.md` Canon-Fakt, Z. im Vorgaengerkapitel).
+
 ## Input
 
 `$ARGUMENTS` = Pfad zur Kapitel-Datei (z.B. `buch/kapitel/02-sorel.md`)
@@ -70,6 +72,19 @@ Gehe JEDEN Absatz durch. Für jeden Absatz frage:
 - Beziehungen: Weiß Figur A schon von Figur B? Haben sie sich getroffen?
 - **Tschechow-Beat:** Wenn ein Tschechow-Detail eingeführt wird (ein Vormieter, ein Nagel, ein Geruch) — reagiert die Figur mit mindestens einem körperlichen Beat? Null Reaktion = Finding.
 - **Cross-POV-Dopplung:** Wiederholt dieses Kapitel Beschreibungen oder Szenentypen aus einem früheren POV-Kapitel am selben Ort? (Ankunft, Unterkunft-Dialog, Geruchsbeschreibung) → Finding.
+
+### Phase 4b: Tschechow-Ledger-Validierung (NEU 2026-05-04)
+
+Lade `buch/_tschechow-ledger.md` und prüfe gegen das aktuelle Kapitel:
+
+1. **Plants-im-Kapitel-Match:** Welche Plants aus dem Ledger sind für dieses Kapitel als `geplant`/`geladen`/`abgefeuert` markiert? Tauchen sie tatsächlich im Kapitel auf?
+   - **Plant geplant aber nicht im Kapitel** → Finding (Setup fehlt) + Vorschlag: einbauen oder Plant ins nächste Kapitel verschieben.
+   - **Plant abgefeuert aber kein Setup** → Finding (Plant fehlt setupseitig) + Vorschlag: Setup im Vor-Kapitel oder hier nachpflanzen.
+2. **Verwaiste Plants** (≥ 3 Kapitel ohne Wiederaufnahme): Aus Ledger-Statistik. Liste der verwaisten Plants ausgeben mit Empfehlung (in dieses Kapitel mitnehmen / als `verworfen` markieren / B2 verschieben).
+3. **Regel der Drei:** Wichtige Plants sollten ~3× erwähnt werden vor dem Payoff. Bei Plants mit Status `abgefeuert` in diesem Kapitel — wurde der Plant in mindestens 2 Vor-Kapiteln erwähnt? Wenn nein, Finding (Tschechow-Aufladung schwach).
+4. **Ledger-Update-Vorschlag:** Pro Plant, der sich im Status verschoben hat (z.B. von `geladen` zu `abgefeuert`), Ledger-Eintrag aktualisieren — als Bericht-Punkt für den Autor, dass das Ledger nachgezogen werden sollte.
+
+**Output:** Findings als zusätzliche Tabelle „Tschechow-Validierung" im Bericht (siehe Output-Sektion).
 
 ## Phase 5: Timeline-Sync + Gänsehaut-Check
 

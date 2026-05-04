@@ -98,6 +98,9 @@ Das Script liefert auf stdout (~2k Tokens): Kapitel-Info, Nachbar-Kapitel, aktue
 4. `buch/pov/{figur}.md` — POV-Dossier (Wissensstand, Beziehungen, Tschechow)
 4a. **`buch/pov/{figur}-schreibblatt.md` — PFLICHT-Lade-Datei.** Schreib-aktive Bausteine: Magie-Mechanik konkret (Bild+Quelle+Folge), Adult-Heat-Stellen-Liste, Anti-Patterns spezifisch, Verben-/Material-Register, Hook-Beispiele.
    - **Wenn das Schreibblatt TODO-Marker enthält:** STOPP. Mit dem Autor durchgehen und ausfüllen, bevor /ausarbeitung weiterläuft. Lieber 1 Stunde Definition als 6 Stunden Iteration.
+4b. **`buch/pov/{figur}-voice-exemplars.md` — PFLICHT-Lade-Datei (NEU 2026-05-04).** 3–5 kuratierte Passagen aus etablierten Final-Kapiteln, die die gewachsene POV-Stimme verkörpern. Diese Datei wird im Schreib-Subagent-Prompt **wörtlich zitiert** (Voice-Anchoring). Treffe diesen Rhythmus, Material-Anker, POV-Lieblingswörter — schreibe ihn fort, imitiere ihn nicht.
+   - **Wenn die Datei fehlt:** STOPP. Vorher `/voice-discovery {figur}` durchführen ODER aus 3–5 besten eigenen Final-Kapitel-Passagen manuell kuratieren. Voice-Anchoring ist die Drift-Bremse — ohne ist die Pipeline blind.
+   - **Hintergrund:** Externe Yarros/Maas/SLY-Zitate als Stil-Anker erzeugen Drift (fremde Stimme ≠ eigene Stimme). Eigene etablierte Passagen sind selbst-anker. Pattern aus NousResearch/autonovel `voice_fingerprint.py`.
 5. `buch/01-autorin-stimme.md` — Autorin-Stimme (Register, Begehren-Vokabular, Kontrollverlust-Momente, Erotik-Regeln)
 6. `buch/01-referenz-konkretheit.md` — Konkretheits-Kanon (Material-Erstnennung, Koerperbeat, Vorfeld-Inversion, Sinnes-Trias)
 7. `buch/02-stilregeln-v2.md` — Stilregeln inkl. Konkretheits-Regeln (Ding vor Bild)
@@ -238,37 +241,91 @@ Wenn die Handlungsbeschreibung lueckenhaft ist (Platzhalter, „und dann irgendw
 
 **Autor antwortet: „ok" oder gibt Korrekturen. Erst bei „ok" weiter.**
 
-#### Schritt 2: Block-fuer-Block schreiben (Stand 2026-05-01 — 4-Subagent-Pipeline)
+#### Schritt 2: Block-fuer-Block schreiben (Stand 2026-05-04 — Antislop + Voice-Anchoring + Reject-Regenerate + 5-Subagent-Pipeline)
 
 **Takt:** 1 Block = **3–5 Absaetze, ~150–500 Woerter**. Nicht mehr. Dann STOP.
 
-**Grundprinzip seit 2026-05-01:** Selbst-Check der Hauptsession ist faktisch schludrig — die Hauptsession bestätigt zu oft falsch „bestanden". Die echten Checks laufen jetzt ueber **vier spezialisierte parallele Subagenten** vor dem Block-Show. Der Autor liest fertig geprüfte Texte, nicht KI-generierte erste Schüsse.
+**Grundprinzip seit 2026-05-04 (Pattern aus NousResearch/autonovel + eigene K31-Erfahrung):**
+- **Voice-Anchoring:** Schreib-Subagent erhält 2 passende Voice-Exemplars aus `pov/{figur}-voice-exemplars.md` **wörtlich im Prompt**. Stil verankert sich an eigenen etablierten Passagen, nicht an externen Yarros/Maas-Zitaten.
+- **Layer-1 Antislop:** `scripts/antislop-check.py` als mechanischer Pre-Filter VOR den Subagent-Checks. Exit 2 = sofortiger Reject. Kein Stilkritik-Theater, brutale Pattern-Logik.
+- **Reject-Regenerate statt Inline-Fix:** Bei PFLICHT-Findings wird der Block **verworfen und neu geschrieben** mit Findings als Verbots-Erweiterung. Inline-Fix nur für TIC/EMPFEHLUNG. Ende von Whack-a-Mole.
+- **Plateau-Detection:** Iter ≥ 3 oder Findings-Diff = 0 → STOPP. Autor entscheidet Eskalation.
+- **Vision-Layer:** 5. Subagent prüft positive Marker (Sog/Emotion/Plot-Twist-Setup) gegen Voice-Exemplars. Verbots-Layer (1–4) und Vision-Layer (5) laufen parallel.
 
-**Pre-Check beim Schreiben (aktiv, nicht nachtraeglich):** Die Phase-4-Stilregeln + Memory-Pflichten aus Phase 1.5 sind beim Schreiben jedes Satzes mental aktiv — keine Antithese, keine Werkstatt-Chemie an Sorel/Vesper in Naehe-Szenen, keine Puls als abstrakter Marker, keine metrischen Masse, keine realweltlichen Monatsnamen, Material pro Absatz min 1. Aber: die Subagenten fangen die Drift, die durchrutscht.
+**Pre-Check beim Schreiben (aktiv, nicht nachtraeglich):** Die Phase-4-Stilregeln + Memory-Pflichten aus Phase 1.5 sind beim Schreiben jedes Satzes mental aktiv. Aber: die Subagenten fangen die Drift, die durchrutscht.
 
 **Loop pro Block:**
 
-1. **Schreiben** — 3–5 Absaetze (~150–500 W) als Inline-Block (NICHT ins File schreiben — erst nach Subagent-Pipeline + Fixes).
-2. **Stage 1 — Vier parallele Subagent-Checks** (alle Sonnet, alle gleichzeitig in einem Tool-Call):
+1. **Stage 0 — Schreib-Subagent (sonnet) mit Voice-Anchoring**
+   - Dispatch general-purpose subagent (sonnet)
+   - Prompt enthält:
+     - Pre-Writing-Handlungsbeschreibung (Schritt 1)
+     - Pre-Check-Liste (Phase 1.5: Bühnen-Inventar, Magie-Templates, Hook-Test)
+     - **2 passende Voice-Exemplars wörtlich** aus `buch/pov/{figur}-voice-exemplars.md` (Auswahl nach Block-Funktion: Eröffnung/Heat/Action/Reflexion)
+     - Anti-Patterns aus Schreibblatt §8 (Top 5)
+     - Harte Verbots-Liste: Antithese, halb-X, Puls-abstrakt, Schemen-in-Prosa, Resonanz-in-Prosa, metrische Masse, Realwelt-Monate, Adverb-Tags, Denk-Tags
+     - Wortziel: 150–500 W (3–5 Absätze)
+   - Output: Block als Inline-Antwort, NICHT ins File schreiben
+
+2. **Stage 1 — Antislop-Layer-1 (mechanisch, sofort)**
+   - Block in `buch/kapitel/_tmp_block.md` schreiben
+   - `python scripts/antislop-check.py buch/kapitel/_tmp_block.md`
+   - **Exit 2 (PFLICHT)** → **Reject-Regenerate** (zurück zu Stage 0 mit Antislop-Findings als Verbots-Erweiterung im Prompt). Iter-Counter ++.
+   - **Exit 1 (TIC)** → weiter, Findings für Stage 4 sammeln
+   - **Exit 0 (clean)** → weiter
+
+3. **Stage 2 — 5 parallele Subagent-Checks** (alle Sonnet, alle gleichzeitig in einem Tool-Call):
    - **Subagent 1: Sprach-TÜV** — Pattern-Matching gegen Stilregeln + POV-Anti-Patterns
    - **Subagent 2: Verquastungs-Detektor** — Mündlicher Lese-Test pro Satz, „hä?"-Diagnose
    - **Subagent 3: Konsistenz-Wächter** — Bühnen-Inventar + Magie-Mechanik + POV-Vokabular + Welt-Kanon
    - **Subagent 4: Genre-Leserin** — block-spezifische Stimme (LINA/NORA/MEIKE/VICTORIA/KAYA), Sog + Adult-Ton + 95%-Gate
-3. **Stage 2 — Findings konsolidieren** (Hauptsession): alle 4 Outputs sammeln, Konflikte auflösen (siehe Konflikt-Regeln unten).
-4. **Stage 3 — Fixes einarbeiten** (Hauptsession): Findings inline fixen.
-5. **Stage 4 — Re-Check** mit **Subagent 2 (Verquastungs-Detektor)** auf den gefixten Block. Fixes erzeugen oft neue Verquastung — dieser Pass fängt das.
-6. **Stage 5 — Block ins Final-File schreiben** (Edit-Tool).
-7. **Stage 6 — Block dem Autor zeigen** in voller Laenge mit **Pipeline-Bericht**:
-   - **Findings-Tabelle:** was die 4 Subagenten gefunden haben + welche Fixes eingearbeitet wurden
-   - **Starke Beats:** was die Subagenten als besonders stark markiert haben
+   - **Subagent 5: Vision-Layer (NEU 2026-05-04)** — positive Treffer + Sog/Emotion/Plot-Twist-Setup + Score Stimme-Treffer (1–10) gegen Voice-Exemplars
+
+4. **Stage 3 — Findings konsolidieren** (Hauptsession): alle 5 Outputs sammeln, kategorisieren:
+   - **PFLICHT** (Konsistenz-Verstöße aus Subagent 3, harte Stilregel-Verstöße aus Subagent 1, Verquastung aus Subagent 2 mit Score „NICHT BESTANDEN") → **Reject-Regenerate**: zurück zu Stage 0 mit Findings als Verbots-Erweiterung. Iter-Counter ++.
+   - **EMPFEHLUNG** (TIC, Verquastung-Mikro, Genre-Leserin-Hinweise, Vision-Lücken) → Stage 4 Inline-Fix
+   - **STIL-VORBEHALT** → dem Autor zeigen, er entscheidet
+
+5. **Stage 4 — Inline-Fixes** (Hauptsession): EMPFEHLUNG-Findings einarbeiten
+
+6. **Stage 5 — Re-Check** mit **Subagent 2 (Verquastungs-Detektor)** auf gefixten Block. Fixes erzeugen oft neue Verquastung — dieser Pass fängt das.
+
+7. **Stage 6 — Block ins Final-File schreiben** (Edit-Tool).
+
+8. **Stage 7 — Block dem Autor zeigen** in voller Länge mit **Pipeline-Bericht**:
+   - **Voice-Treffer-Score** (Subagent 5): X/10 vs. Exemplars
+   - **Findings-Tabelle:** was die 5 Subagenten gefunden haben + welche Fixes eingearbeitet wurden, welche per Reject-Regenerate gelöst wurden
+   - **Starke Beats:** was Subagent 5 als positive Treffer markiert hat (3 Stellen)
+   - **Vision-Lücken:** Sog/Emotion/Plot-Twist-Setup-Status (für nächsten Block beachten)
    - **Verdikt-Block:** je 1 Zeile pro Subagent (BESTANDEN / GRENZWERTIG / DURCHGEFALLEN)
-8. **Warten** auf **„ok"** oder Korrektur des Autors.
-   - **„ok"** → nächster Block.
-   - **Korrektur** → Fix einarbeiten, gefixten Block + Pipeline-Re-Run, erneut auf „ok" warten.
+   - **Iter-Counter:** wie oft wurde reject-regenerate gemacht
 
-**Commit-Rhythmus:** Alle 2–3 OK-Bloecke ein kleiner `wip:`-Commit. Nicht pro Block (zu laut), nicht pro Szene (zu weit weg).
+9. **Warten** auf **„ok"** oder Korrektur des Autors.
+   - **„ok"** → nächster Block, Iter-Counter zurücksetzen
+   - **Korrektur** → Reject-Regenerate (Stage 0) mit konkretem Autor-Feedback im Prompt
 
-**Token-Budget pro Block:** ~30k Tokens (4 Subagenten parallel ~5–8k je + Konsolidierung + Fixes + Re-Check). Bei ~9 Bloecken pro Kapitel: ~270k Tokens fuer die Pipeline. Das ist die bewusste Investition fuer geprueften Output statt Selbst-Check-Theater.
+**Plateau-Detection (HART, NEU 2026-05-04):**
+- **Iter-Counter ≥ 3 pro Block** → STOPP. Autor entscheidet:
+  (a) auf Opus-Schreib-Subagent eskalieren
+  (b) Block manuell schreiben (Hauptsession)
+  (c) Plot-Beat zurück zum Entwurf
+- **Findings-Diff = 0** zwischen zwei Iterationen (Findings reproduzieren sich identisch) → STOPP, selbe Eskalation
+- Verhindert Whack-a-Mole-Iterationen wie Sz1 v1–v6 (K31-Lehre)
+
+**Reject-Regenerate-Prompt-Erweiterung:**
+Wenn Block reject (PFLICHT): Schreib-Subagent bekommt im neuen Lauf zusätzlich folgenden Block am Ende des Prompts:
+```
+DEIN VORHERIGER VERSUCH WURDE VERWORFEN.
+Findings (vermeide diese im neuen Block):
+- [Pattern X] alt: "<Zitat>", warum: <Grund>
+- [Pattern Y] ...
+SCHREIBE DEN BLOCK NEU. Nicht den alten Block fixen — von vorne.
+Voice-Exemplars und Pre-Check-Liste bleiben gültig.
+```
+
+**Commit-Rhythmus:** Alle 2–3 OK-Bloecke ein kleiner `wip:`-Commit.
+
+**Token-Budget pro Block:** ~40k Tokens (Schreib-Subagent ~5k + 5 Check-Subagenten parallel ~5–8k je + Konsolidierung + Fixes + Re-Check). Bei ~9 Bloecken pro Kapitel: ~360k Tokens für die Pipeline. Reject-Regenerate-Iterationen multiplizieren — Plateau-Detection bremst ab.
 
 ---
 
@@ -337,15 +394,95 @@ Die Autorin entscheidet, welche Damen-Forderungen umgesetzt werden, welche nicht
 
 **Output in der Pruefnotiz:** `Council ✓ (MEIKE/LINA/KAYA + Autorin)` mit Aufzaehlung. Bei Fix: `Council: LINA forderte Atemzug am Saum → gefixed`.
 
-**Hinweis (2026-05-01):** Der oben beschriebene Mini-Council-Modus mit Damen + Autorin-Synthese ist ABGELÖST durch die 4-Subagent-Pipeline (siehe Sektion „4-Subagent-Pipeline pro Block" weiter unten). Selbst-Check + interner Mini-Council waren nachweislich schludrig. Die Pipeline laeuft als externe parallele Subagent-Calls vor dem Block-Show.
+**Hinweis (2026-05-04):** Der oben beschriebene Mini-Council-Modus mit Damen + Autorin-Synthese ist ABGELÖST durch die Subagent-Pipeline (siehe Sektion „Subagent-Pipeline pro Block" weiter unten — Voice-Anchored Schreib-Subagent + 5 parallele Check-Subagenten + Antislop-Layer-1). Selbst-Check + interner Mini-Council waren nachweislich schludrig. Die Pipeline laeuft als externe parallele Subagent-Calls.
 
 **KEIN "Szenen-Council" zwischendurch.**
 
 ---
 
-## 4-Subagent-Pipeline pro Block (Stand 2026-05-01)
+## Subagent-Pipeline pro Block (Stand 2026-05-04 — Voice-Anchored Schreiben + 5 parallele Checks)
 
-Vier spezialisierte Subagenten laufen **parallel** (alle in einem Tool-Call dispatched, alle Sonnet). Jeder hat eine klare Brille — keine Doppelung. Konsolidierung in der Hauptsession.
+Ein **Voice-Anchored Schreib-Subagent** (Stage 0) generiert den Block, dann laufen **fünf spezialisierte Check-Subagenten parallel** (alle in einem Tool-Call dispatched, alle Sonnet). Jeder Check hat eine klare Brille — keine Doppelung. Konsolidierung in der Hauptsession. Zwischen Schreiben und Checks läuft `scripts/antislop-check.py` als mechanischer Layer-1-Filter.
+
+### Subagent 0 — Schreib-Subagent (Voice-Anchored)
+
+**Modell:** sonnet (Standard), opus bei Plateau-Eskalation
+**Input:** Pre-Writing-Handlungsbeschreibung + Pre-Check-Liste (Phase 1.5) + 2 Voice-Exemplars + Anti-Patterns + Verbots-Liste
+
+**Prompt-Template:**
+```
+Du schreibst einen Block (3–5 Absätze, 150–500 W) für einen Adult-Dark-Romantasy-Roman ("Der Riss"), Buch 1. Du schreibst aus POV-Figur {POV} im Präteritum, dritte Person nah.
+
+## Voice-Anchor (verbindlich)
+
+Diese 2 Passagen aus etablierten Final-Kapiteln sind {POV}s gewachsene Stimme. Treffe diesen Rhythmus, diese Material-Dichte, diese POV-Lieblingswörter — schreibe ihn fort, imitiere ihn nicht. Quelle: `buch/pov/{POV}-voice-exemplars.md`.
+
+**Exemplar A — {Funktion: Hook/Heat/Magie/Reflexion}** (Quelle: {datei}:{zeile})
+> {Volltext, 80–150 W}
+
+Was sie verkörpert:
+- Rhythmus: {kurz}
+- Material-Anker: {Stoffe/Dinge}
+- POV-Lieblingswörter: {Liste}
+- Subtext-Träger: {Körperbeat/Geste}
+
+**Exemplar B — {andere Funktion}** (Quelle: {datei}:{zeile})
+> {Volltext, 80–150 W}
+
+(Was sie verkörpert: analog)
+
+## Pre-Check (aktiv beim Schreiben)
+
+- Bühne: {aus Phase 1.5 Schritt B — Lichtquellen, Personen, Objekte, Magie-Status}
+- Magie-Akte (falls): {BILD/QUELLE/FOLGE-Templates aus Phase 1.5 Schritt C}
+- Hook (Z.1, falls Block-Eröffnung): {konkreter Vorschlag, Phase 1.5 Schritt D}
+- Anti-Patterns POV-spezifisch (Top 5 aus pov/{POV}-schreibblatt.md §8): {Liste}
+- POV-Lieblingswörter (aus Schreibblatt §7): {Liste, mind. 1 aktiv im Block}
+- Material pro Absatz: min 1 benanntes Ding (Kupfer, Leinen, Schiefer, Bleiglas, Talg, Salz, Holz, Pech…)
+
+## Harte Verbote (würden Layer-1-Antislop sofort rejecten)
+
+- Antithese „nicht X, sondern Y" / „nicht X — Y" / „nicht X, Y"
+- „halb X"-Pseudo-Präzision (`halbe Sekunde`, `halber Atemzug`, `halber Schritt` etc.)
+- „Puls" abstrakt (außer `Quellenpuls`); stattdessen Halsschlagader/Handgelenk/Kehle
+- „etwas in seinem/ihrem [Brust/Nacken/Sehen]" als Erzähler-Glosse
+- „Resonanz" / „Schemen" in Prosa (Canon-Begriffe, bleiben draußen)
+- Adverb-Tags („sagte sie wütend") — 0
+- Denk-Tags („sie dachte, dass") — 0
+- Direkte Emotionsbenennung im Narrator („sie war traurig") — 0
+- Metrische Maßeinheiten (Millimeter/Zentimeter/Meter) — verboten; Linie/Daumen/Spanne/Fuß/Elle stattdessen
+- Realwelt-Monatsnamen (Januar/Februar/März…) — verboten; Eismond/Saatmond/Glutmond/Nebelmond etc.
+- Magie via gesprochenes Imperativ („»Halt«, sagte sie zur Ranke") — verboten; Magie via mentale Vorstellung
+- Werkstatt-/Photochemie-Vokabular an Sorel/Vesper in Nähe-Szenen — verboten
+- Stakkato-Ketten (3+ Fragmente <4W hintereinander) — Pflicht-Prüfung pro Einsatz
+- Substantiv-Phrasen ohne Verb als eigene Sätze
+- Vollständige Sätze mit Subjekt+Verb als Default
+
+## Plot-Beats (vom Entwurf)
+
+{Aus dem Entwurf für diesen Block: 2–4 Pflicht-Beats, konkret}
+
+## Wortziel
+
+150–500 W (3–5 Absätze). Nicht weniger, nicht mehr.
+
+## Output
+
+Schreibe den Block direkt — nur Prosa, keine Metakommentare, keine Header. Wörtliche Rede in »Anführungszeichen«.
+
+```
+
+**Bei Reject-Regenerate** (PFLICHT-Findings aus Antislop oder Stage 3): Prompt wird ergänzt um:
+```
+DEIN VORHERIGER VERSUCH WURDE VERWORFEN.
+Findings (vermeide diese im neuen Block):
+- [Pattern X] alt: "<Zitat>", warum: <Grund>
+- [Pattern Y] ...
+SCHREIBE DEN BLOCK NEU. Nicht den alten Block fixen — von vorne.
+Voice-Exemplars und Pre-Check bleiben gültig.
+```
+
+**Bei Plateau-Eskalation** (Iter ≥ 3 oder Findings-Diff = 0): Schreib-Subagent wird auf **opus** umgestellt, oder Hauptsession übernimmt manuell.
 
 ### Subagent 1 — Sprach-TÜV
 
@@ -526,22 +663,110 @@ Output:
 Max 1k Token.
 ```
 
-### Konflikt-Auflösungs-Regeln (Stage 2 Konsolidierung)
+### Subagent 5 — Vision-Layer (NEU 2026-05-04)
 
-Wenn die 4 Subagenten widerspruechliche Vorschlaege machen:
+**Modell:** sonnet
+**Input:** Block-Text + `buch/pov/{figur}-voice-exemplars.md` (volle Datei) + Position-im-Bogen (Eröffnung/Heat/Action/Reflexion/Cliffhanger) + Tschechow-Plants aus dem Entwurf
+
+**Aufgabe:** Positive Treffer prüfen — was zieht, was lebt, was trifft die etablierte Stimme. Gegengewicht zur Verbots-Achse der Subagenten 1–4.
+
+**Prompt-Template:**
+```
+Du bist Vision-Layer. Du prüfst nicht auf Verstöße, sondern auf positive Treffer in Stimme, Sog, Emotion und Plot-Twist-Setup. Du arbeitest mit konkreten Vergleichs-Ankern: den eigenen etablierten Voice-Exemplars dieser POV-Figur und den Tschechow-Plants des Kapitels.
+
+Block:
+{BLOCK_TEXT}
+
+POV-Figur: {POV}
+Block-Funktion: {Eröffnung/Heat/Action/Reflexion/Cliffhanger}
+Tschechow-Plants im Kapitel (zu setzen oder abzufeuern): {LISTE}
+
+Lies:
+- buch/pov/{POV}-voice-exemplars.md (volle Datei, alle 3-5 Exemplars)
+
+## Prüf-Achsen
+
+**1. Stimme-Treffer (vs. Voice-Exemplars)**
+- Liest sich der Block wie eine 6. Passage neben den Exemplars — oder fällt er aus dem Register?
+- Trifft der Rhythmus? Material-Dichte vergleichbar? Lieblingswörter aktiv?
+- Subtext-Träger (Körperbeat statt Label) wie in den Exemplars?
+- Score Stimme-Treffer: 0-10 (10 = liest sich wie ein 6. Exemplar)
+
+**2. Sog**
+- Will die Leserin Z.2 wissen nach Z.1?
+- Cliffhanger-Mikro pro Absatz: bleibt eine Frage offen / wird ein Versprechen gegeben?
+- Versprechen für nächste Szene gepflanzt?
+- Score Sog: 0-10
+
+**3. Emotion**
+- Trägt mind. ein Körper-Beat den Subtext, ohne Label?
+- Wird eine Schwelle überschritten und ist es spürbar (nicht erklärt)?
+- Identifikations-Punkt: zeigt die Figur Verletzlichkeit / trifft eine Wahl / hat einen klaren Wunsch?
+- Score Emotion: 0-10
+
+**4. Plot-Twist-Setup**
+- Sind die Tschechow-Plants gepflanzt / abgefeuert wie geplant?
+- Ist mind. ein Detail im Block, das später beim Re-Lesen aufleuchten wird (Foreshadowing)?
+- Folgt der Block der Regel der Drei (wichtige Plants ~3× erwähnt vor Payoff)?
+- Score Plot-Twist-Setup: 0-10
+
+## Output
+
+**Verdikt (in-character als kritische Vision-Leserin, 2-3 Sätze):**
+{kurzer Eindruck — trifft, lebt, zieht — oder mechanisch, leer, generisch}
+
+**Positive Treffer (Pflicht: 3 starke Stellen):**
+| Stelle (wörtl. Zitat) | Welche Achse trifft | Vergleichs-Anker (Exemplar oder Pattern) |
+|---|---|---|
+
+**Vision-Lücken (max 5):**
+| Stelle | Welche Achse fehlt | Vorschlag (kein PFLICHT-Fix, sondern Empfehlung) |
+|---|---|---|
+
+**Score-Block:**
+- Stimme-Treffer: X/10 — kurze Begründung
+- Sog: X/10 — kurze Begründung
+- Emotion: X/10 — kurze Begründung
+- Plot-Twist-Setup: X/10 — kurze Begründung
+- **Gesamt-Score: X/10**
+
+**Verdikt für Pipeline:**
+- BESTANDEN (Gesamt ≥ 7, Stimme ≥ 7) — Block trägt die Stimme
+- GRENZWERTIG (Gesamt 5-6 oder Stimme 5-6) — Empfehlungen einarbeiten
+- DURCHGEFALLEN (Gesamt < 5 oder Stimme < 5) — Reject-Regenerate empfohlen, Block trägt die etablierte Stimme nicht
+
+Was du NICHT machst: Stilregel-Pattern-Matching (Subagent 1), Verquastung (Subagent 2), Konsistenz (Subagent 3), Genre-Council-Stimme (Subagent 4). Du bist die einzige positive Stimme — alle anderen prüfen Verstöße.
+
+Max 1.2k Token.
+```
+
+Wenn die 5 Subagenten widerspruechliche Vorschlaege machen:
 
 **Hierarchie der Stimmen:**
-1. **Subagent 3 (Konsistenz-Waechter)** hat **Vetorecht** — Welt-/Buehnen-/Magie-/POV-Bugs sind Fakten-Verstöße, nicht Geschmacks-Fragen. Werden IMMER gefixt.
-2. **Subagent 1 (Sprach-TÜV)** bei klaren Memory-Verstoessen (Antithese, halb-X, Puls, Adverb-Tags etc.) — **gewinnt gegen Geschmacks-Stimmen** der Genre-Leserin.
-3. **Subagent 2 (Verquastungs-Detektor)** — **gewinnt gegen stilistische Eleganz-Vorschlaege** der Genre-Leserin. Ein eleganter aber unverstaendlicher Satz wird verworfen.
-4. **Subagent 4 (Genre-Leserin)** entscheidet bei Geschmacks-Fragen — wenn Subagent 1+2+3 keinen Verstoss flaggen, aber sie sagt „tame", wird ihre Empfehlung umgesetzt.
+1. **Subagent 3 (Konsistenz-Waechter)** hat **Vetorecht** — Welt-/Buehnen-/Magie-/POV-Bugs sind Fakten-Verstöße, nicht Geschmacks-Fragen. Werden IMMER gefixt. PFLICHT-Eskalation zu Reject-Regenerate bei mehreren Bugs.
+2. **Subagent 1 (Sprach-TÜV)** bei klaren Memory-Verstoessen (Antithese, halb-X, Puls, Adverb-Tags etc.) — **gewinnt gegen Geschmacks-Stimmen** der Genre-Leserin und Vision-Layer. PFLICHT-Eskalation zu Reject-Regenerate bei „NICHT BESTANDEN".
+3. **Subagent 2 (Verquastungs-Detektor)** — **gewinnt gegen stilistische Eleganz-Vorschlaege** sowohl der Genre-Leserin als auch des Vision-Layer. Ein eleganter, aber unverstaendlicher Satz wird verworfen. PFLICHT-Eskalation zu Reject-Regenerate bei „NICHT BESTANDEN".
+4. **Subagent 5 (Vision-Layer)** vs. **Subagent 4 (Genre-Leserin)** — beide sind positive/qualitative Stimmen, aber unterschiedliche Achsen:
+   - Genre-Leserin = persona-getriebene Marktfähigkeit (LINA/NORA/MEIKE/VICTORIA/KAYA), Sog + Adult-Ton
+   - Vision-Layer = Stimme-Treffer vs. Voice-Exemplars + Plot-Twist-Setup + Identifikation
+   - Bei Konflikt: Vision-Layer gewinnt, weil Voice-Treffer Voraussetzung für Genre-Wirkung ist. Wenn Stimme-Treffer < 5 → Reject-Regenerate auch wenn Genre-Leserin lobt (sie liest dann nicht die etablierte POV-Stimme, sondern einen austauschbaren Block).
+5. **Subagent 4 (Genre-Leserin)** entscheidet bei Geschmacks-Fragen — wenn 1+2+3+5 keinen Verstoss flaggen, aber sie sagt „tame", wird ihre Empfehlung umgesetzt.
 
 **Konkrete Regeln:**
-- **Subagent 3 vs. Subagent 4:** Konsistenz schlaegt Genre. Wenn Genre-Leserin einen „eleganten" Fix vorschlaegt, der die Buehne kaputt macht — abgelehnt.
-- **Subagent 1 vs. Subagent 4:** Stilregel-Verstoss schlaegt Geschmack. Wenn Genre-Leserin einen Satz lobt, den Subagent 1 als Antithese flaggt — Antithese wird gefixt.
-- **Subagent 2 vs. alle:** Verquastung schlaegt Stilistik. Wenn ein Satz formal regel-konform und genre-stark ist, aber „haeae?" produziert — wird umgeschrieben.
-- **Bei Konflikt zwischen Subagent 2 und Subagent 4 ueber Hook-Form:** Subagent 2 gewinnt — Verstaendlichkeit vor Hook-Eleganz.
+- **Vision-Layer „DURCHGEFALLEN" (Stimme-Treffer < 5)** → Reject-Regenerate, auch wenn 1–4 BESTANDEN. Block trägt nicht die etablierte POV-Stimme.
+- **Subagent 3 vs. Subagent 4/5:** Konsistenz schlaegt Genre und Vision. Welt-Bug bleibt Welt-Bug, auch wenn der Block sonst zieht.
+- **Subagent 1 vs. Subagent 4/5:** Stilregel-Verstoss schlaegt Geschmack und Vision. Antithese bleibt Antithese, auch wenn Vision lobt.
+- **Subagent 2 vs. alle:** Verquastung schlaegt Stilistik. Ein eleganter, aber unverstaendlicher Satz wird umgeschrieben — auch wenn Vision sagt „liest sich wie Maas".
+- **Bei Konflikt zwischen Subagent 2 und Subagent 4/5 ueber Hook-Form:** Subagent 2 gewinnt — Verstaendlichkeit vor Hook-Eleganz.
 - **Bei echtem Konflikt ohne Hierarchie-Entscheidung:** Beide Optionen dem Autor zeigen, er entscheidet. Nicht selbst auswaehlen.
+
+**Reject-Regenerate-Trigger (Sammelpunkt):**
+- Antislop Layer-1 Exit 2 (PFLICHT) → sofort Reject-Regenerate
+- Subagent 1 „NICHT BESTANDEN" → Reject-Regenerate
+- Subagent 2 „NICHT BESTANDEN" → Reject-Regenerate
+- Subagent 3 mit ≥ 2 PFLICHT-Findings → Reject-Regenerate
+- Subagent 5 „DURCHGEFALLEN" (Stimme < 5 oder Gesamt < 5) → Reject-Regenerate
+- Iter ≥ 3 → STOPP (Plateau-Detection)
 
 #### Schritt 3: Post-Scene Dialog-Check
 

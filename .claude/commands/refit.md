@@ -1,5 +1,7 @@
 # /refit — Alt-Kapitel auf aktuellen Stil bringen ODER modernes Kapitel pruefen
 
+**Findings-Format-Pflicht:** Master = `buch/_findings-format.md`. Subagent-Findings + Konsolidierungs-Master-Tabelle in Phase B3 im Block-Format mit Vorher/Nachher und Satz-Kontext, Tags `[PFLICHT]`/`[TIC]`/`[STIL?]`, Funktional-Filter PFLICHT vor jedem Tag. Master-Tabelle in 3 Bloecken (PFLICHT/EMPFEHLUNG/STIL-VORBEHALT). Inline-Definition unten in Phase B3 ist Spiegel der Master-Spec — bei Konflikten gewinnt `_findings-format.md`.
+
 **Zwei Modi (seit 2026-05-01):**
 
 - **Modus A — Plot-Lock-Refit (klassisch):** Alt-Kapitel (vor April 2026) durch Plot-Lock-Extraktion + Neuausarbeitung. Kein Edit-in-place.
@@ -382,6 +384,21 @@ Diese Session schreibt jetzt nichts mehr.
 
 **Ziel:** Bestehendes Kapitel gegen den heutigen Setup-Stand pruefen (Hebel 1-5 aus `/ausarbeitung`-Skill). Findings-Report + autor-getriebene Fixes auf vorhandenem Text. **Kein Refit, kein Plot-Lock, kein Edit-in-place ohne Autor-Freigabe.**
 
+## Phase B0 — Antislop-Layer-1-Pass (NEU 2026-05-04)
+
+Mechanischer Pre-Filter auf das ganze Kapitel, BEVOR Subagenten laufen:
+
+```bash
+python scripts/antislop-check.py buch/kapitel/B1-K{NN}-{figur}.md
+```
+
+**Output-Auswertung:**
+- Exit 2 (PFLICHT-Findings): Liste mit Patterns + Zeilen wird in Subagent-Prompts als Kontext mitgegeben — Subagenten fokussieren auf Layer-2 (Idiomatik, Pronomen, Bild-Logik), Layer-1-Pattern sind schon abgedeckt.
+- Exit 1 (TIC): TIC-Findings sammeln, in Master-Tabelle Block B (EMPFEHLUNG) übernehmen.
+- Exit 0 (clean): weiter ohne Layer-1-Findings.
+
+**Token-Ersparnis:** Subagenten müssen nicht selbst auf antithese/halb-X/Puls-abstrakt grep'en — Layer 1 fängt das. Subagenten arbeiten Layer 2.
+
 ## Phase B1 — Kontext laden
 
 Parallel mit Read laden (~12-15k W):
@@ -392,7 +409,9 @@ Parallel mit Read laden (~12-15k W):
 4. `buch/01-referenz-konkretheit.md` — Konkretheits-Kanon
 5. `buch/pov/{figur}-schreibblatt.md` — Magie-Mechanik, Adult-Stellen, POV-Anti-Patterns
 6. `buch/pov/{figur}.md` — POV-Dossier (Wissensstand)
-7. **Kapitel selbst:** `buch/kapitel/B1-K{NN}-{figur}.md`
+7. **`buch/pov/{figur}-voice-exemplars.md` — PFLICHT (NEU 2026-05-04).** Voice-Anker für Vision-Layer + als Vergleichs-Referenz für Sprach-TÜV (austauschbar vs. POV-Stimme).
+8. **Kapitel selbst:** `buch/kapitel/B1-K{NN}-{figur}.md`
+9. `buch/_tschechow-ledger.md` — Plant→Payoff-Ledger (für Konsistenz-Wächter und Vision-Layer)
 
 **Kontext-Extraktor zusaetzlich** fuer Nachbar-Kapitel + Wissensstand:
 
@@ -400,9 +419,9 @@ Parallel mit Read laden (~12-15k W):
 python scripts/kapitel-kontext.py B1-K{NN} --phase ausarbeitung
 ```
 
-## Phase B2 — Vier parallele Spezialisten-Subagenten
+## Phase B2 — Fünf parallele Spezialisten-Subagenten (NEU 2026-05-04)
 
-Identisch zu Phase 2 in `/ausarbeitung` (4-Subagent-Pipeline-Sektion), aber auf das **ganze Kapitel** statt einzelne Bloecke.
+Identisch zu Subagent-Pipeline in `/ausarbeitung`, aber auf das **ganze Kapitel** statt einzelne Bloecke. **Vision-Layer (Subagent 5) ist neu** — prüft Stimme-Treffer gegen Voice-Exemplars und Plot-Twist-Setup gegen Tschechow-Ledger.
 
 **WICHTIGER UNTERSCHIED zu /ausarbeitung:** Modus B prueft FERTIGE Kapitel mit bewusst gesetzten Stilmitteln, nicht frische Bloecke. Subagenten muessen **Tic** (uninspiriert, austauschbar) von **Stilmittel** (funktional, traegt Welt-/Charakter-/Aftermath-Beat) unterscheiden.
 
@@ -455,6 +474,16 @@ Prompt aus `/ausarbeitung` Sektion „Subagent 4", aber:
 - Genre-Findings sind immer `[STIL?]` oder `[TIC]` (subjektiv, Pflicht hat sie nie)
 - **Pflicht-Lob-Tabelle:** zusaetzlich min. 5 Stellen markieren, die explizit FUNKTIONIEREN (Welt-Zahn, Beat, starker Hook). Die Hauptsession nutzt das, um Subagent-1-Findings zu kontern.
 
+### Subagent 5 — Vision-Layer (Kapitel-Scope, NEU 2026-05-04)
+
+Prompt aus `/ausarbeitung` Sektion „Subagent 5 — Vision-Layer", aber:
+- **Input:** ganzes Kapitel + `buch/pov/{figur}-voice-exemplars.md` (volle Datei) + `buch/_tschechow-ledger.md` (Plants/Payoffs für dieses Kapitel)
+- **Vier Achsen:** Stimme-Treffer (vs. Voice-Exemplars), Sog (Cliffhänger pro Szene/Block), Emotion (Körper-Beat als Subtext-Träger), Plot-Twist-Setup (gegen Ledger geprüft)
+- Max 10 positive Treffer + 10 Vision-Lücken, 1.5k Token
+- Vision-Findings sind immer `[STIL?]` (positive Marker, keine Pflicht — nur Empfehlung)
+- **Pflicht-Lob-Tabelle:** mind. 5 Stellen mit Voice-Treffer-Score 8+ markieren (Vergleichs-Anker = welches Exemplar)
+- **Score-Gesamt-Block:** Stimme-Treffer / Sog / Emotion / Plot-Twist-Setup, je 0–10. Wenn Stimme-Treffer < 5 → FINDING „Voice-Drift" mit konkreten Stellen, die nicht zu den Exemplars passen.
+
 ## Phase B3 — Konsolidierung
 
 In der Hauptsession:
@@ -501,13 +530,22 @@ In der Hauptsession:
 | Zeile | Passage | warum stark |
 |---|---|---|
 
-## Phase B4 — Fix-Loop
+## Phase B4 — Fix-Loop (mit Plateau-Detection NEU 2026-05-04)
 
 Frage am Ende der Master-Tabelle: „Soll ich die Findings einarbeiten? Pro Eintrag `ok`, `skip`, oder eigener Fix."
 
 - Autor entscheidet pro Finding
 - Fixes per Edit-Tool inline einarbeiten
 - Nach Fix-Runde: optionalen Re-Check mit Subagent 2 (Verquastungs-Detektor) laufen lassen, ob neue Verquastung entstanden ist
+
+**Plateau-Detection (HART):**
+- **Pass-Counter ≥ 3** (drei Fix-Loops nacheinander) → STOPP, Autor entscheidet:
+  (a) auf Opus-Schreib-Subagent eskalieren (manueller Rewrite betroffener Abschnitte)
+  (b) Modus auf A umschalten (Plot-Lock + Neuausarbeitung statt Fix)
+  (c) Kapitel akzeptieren wie es ist (gewachsene Stilmittel respektieren)
+- **Score-Δ < 5%** zwischen zwei aufeinanderfolgenden Pässen (Marktfähigkeits-Score Subagent 4 + Voice-Treffer-Score Subagent 5) → Plateau-Stopp, selbe Eskalations-Optionen
+- **Findings-Diff = 0** (gleiche Findings in zwei Pässen) → Plateau-Stopp
+- Verhindert Whack-a-Mole-Iterationen (Drift-Symptom: Fix in einer Stelle erzeugt neuen Tic an anderer Stelle).
 
 ## Phase B5 — Status-Update + Deploy
 
