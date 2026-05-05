@@ -4,7 +4,7 @@
 
 Die Petroleumlampe stand auf der dritten Rille des Reparaturtischs, weil das Licht von dort am saubersten auf die Samtrolle fiel. Vesper hatte vor einer halben Stunde die Krone aus dem Chronometer gezogen und die Welle freigelegt. Der Besitzer, ein Hafenmeister von der Reede, wollte sie morgen um neun abholen. Das Werk war nicht schwer — ein trockenes Federhauslager, das schon zweimal zuvor trocken geworden war und das er diesmal ein letztes Mal schmieren, beim übernächsten Mal aber austauschen würde.
 
-Die Hand auf dem Tuch war ruhig. Der Mechanismus auch. Trotzdem hatte er sich in der letzten halben Stunde zweimal beim Zählen vertan.
+Die Hand auf dem Tuch war ruhig. Der Mechanismus auch. Trotzdem hatte er sich vorhin zweimal beim Zählen vertan.
 
 Das Bild war da, ob er es rief oder nicht: der Becher auf dem Tuch, das Teeblatt, das sich ohne Rühren gehoben hatte, der Dampf aus einem Becher, der kalt gewesen war. Ihre Finger, die sich nicht bewegt hatten. Die Konzentration auf ihrem Gesicht.
 
@@ -70,7 +70,7 @@ Vesper legte die Fingerspitzen aufeinander. Die Pinzette rollte einen Hauch nach
 
 Er zog das Notizbuch aus der Innentasche des Mantels, der über der Stuhllehne hing. Er schlug die hintere Einlage auf, löste die Karte aus der Falz, faltete sie auf dem Reparaturtisch auseinander. Die Velinkopie, die er in der vergangenen Woche neben Runas Adressen gezeichnet hatte. Sechzehn Uhren. Ein siebzehnter Kreuzpunkt am unteren Kartenrand. Vier Bögen in vier Stärken um einen Mittelpunkt in der Oberstadt.
 
-"Ich habe seit acht Wochen siebzehn Uhren in Vael gemessen. Sechzehn von ihnen verlieren pro Tag zwischen elf Sekunden und zwei Minuten dreiundzwanzig. Die siebzehnte, unten am Grauwe-Ufer, hat stündlich exakt vier Minuten dreiunddreißig verloren — immer denselben Betrag, bis ich sie vor zwei Wochen wieder rein eingestellt habe. Sie ist der älteste Datenpunkt in der Stadt und passt in keines der Muster der anderen sechzehn."
+"Ich habe seit acht Wochen siebzehn Uhren in Vael gemessen. Sechzehn von ihnen verlieren pro Tag zwischen elf Sekunden und zwei Minuten dreiundzwanzig. Die siebzehnte, unten am Grauwe-Ufer, hat stündlich exakt vier Minuten dreiunddreißig verloren — immer denselben Betrag, bis ich sie vor zwei Wochen wieder rein eingestellt habe. Sie ist der älteste Messwert in der Stadt und passt in keines der Muster der anderen sechzehn."
 
 Er drehte die Karte so, dass sie für Sorel lesbar war, ohne sie ganz herumzuschieben.
 

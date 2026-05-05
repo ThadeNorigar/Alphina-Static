@@ -2,7 +2,7 @@
 
 *21. Blütenmond 551 · 8 Wochen 3 Tage in Vael*
 
-Die Treppe zum Lichthaus roch nach Salz und Teer, und der Wind drückte gegen die Tür im Rahmen, dass das Holz leise in seinen Angeln arbeitete. Alphina ging nicht durch die Haupttür. Sie ging um das Gebäude, den schmalen Weg entlang, zu den Stufen, die zur Kellertür hinabführten. Sie war die Stufen einmal hinuntergegangen, vor fünf Tagen, um zu klopfen — heute wollte sie nicht klopfen. Das Vordach über der Tür war halb überwachsen von einem Netz Efeu, das hier nicht wachsen sollte und trotzdem stand. Sie kannte die Wuchsform. Hedera helix, die den Nordrand suchte, wo die Feuchtigkeit hielt.
+Die Treppe zum Lichthaus roch nach Salz und Teer, und der Wind drückte gegen die Tür im Rahmen, dass das Holz leise in seinen Angeln arbeitete. Alphina ging nicht durch die Haupttür. Sie ging um das Gebäude, den schmalen Weg entlang, zu den Stufen, die zur Kellertür hinabführten. Sie war die Stufen einmal hinuntergegangen, vor fünf Tagen, um zu klopfen — heute wollte sie nicht klopfen. Das Vordach über der Tür war überwachsen von einem Netz Efeu, das hier nicht wachsen sollte und trotzdem stand. Sie kannte die Wuchsform. Hedera helix, die den Nordrand suchte, wo die Feuchtigkeit hielt.
 
 Gestern hatten sich seine Finger durch den Wollstoff ihres Ärmels um ihren Ellbogen geschlossen, fünf Punkte Druck durch das Gewebe, der Daumen in der Kerbe über dem Gelenk. Er hatte sie zwei Schritte zurückgezogen, bevor ihr Kopf den Zug verstand. Nach dem Kampf hatte die Hand einen Atemzug zu lang gewartet, dann war sie abrupt weg, als hätte er sich verbrannt.
 
@@ -36,7 +36,7 @@ Sorel hob die Zange aus dem Bad. Eine Platte kam aus der Flüssigkeit, Glas, von
 
 "Du hast mich nicht erwartet."
 
-"Nein." Er drehte sich jetzt halb um, so dass sie seine Seite sah, nicht das Gesicht. "Du störst nicht."
+"Nein." Er drehte sich jetzt zur Seite, so dass sie seine Seite sah, nicht das Gesicht. "Du störst nicht."
 
 "Das war nicht die Frage."
 

@@ -77,7 +77,7 @@ Alphina trat in den Kreis und ging in die Mitte. Die drei anderen folgten und or
 
 Maren stellte sich so, dass sie den nördlichsten Stein im Rücken hatte. Vesper suchte den Winkel, in dem die Sonne zwischen den Blättern der Kastanie nicht auf die Augen fiel. Sorel blieb an der östlichen Kante, Stativ noch am Riemen.
 
-Der Boden war warm durch die Sohlen. Die Wärme kam nicht von der Sonne. Alphina kannte sie aus den Messungen mit Vesper. Der Puls unter dem Stein ging tiefer als ihr eigener Herzschlag und hörte nicht auf. Heute lag er dichter an ihrem Atem als sonst. Sie legte die Hand flach auf den Purpurstein neben ihr. Der Stein war rau und kühl. Der Puls ging durch die Handfläche, so deutlich, dass sie ihn in der Armbeuge spürte.
+Der Boden war warm durch die Sohlen. Die Wärme kam nicht von der Sonne. Alphina kannte sie aus den Messungen mit Vesper. Der Schlag unter dem Stein ging tiefer als ihr eigener Herzschlag und hörte nicht auf. Heute lag er dichter an ihrem Atem als sonst. Sie legte die Hand flach auf den Purpurstein neben ihr. Der Stein war rau und kühl. Der Schlag ging durch die Handfläche, so deutlich, dass sie ihn in der Armbeuge spürte.
 
 Maren sah Vesper an. Einen Atemzug lang. Vesper nickte, kaum sichtbar.
 
@@ -105,7 +105,7 @@ Sorel sah zum Steinkreis, dann zu Vesper. „Und die siebzehnte?"
 
 Maren sah zum Stein in ihrem Rücken. Sorels Blick ging kurz zu Alphinas Hand auf dem Purpurstein, dann weg.
 
-Alphinas Hand lag noch da. Der Puls unter der Handfläche ging tiefer und gleichmäßiger als ihr eigener.
+Alphinas Hand lag noch da. Der Schlag unter der Handfläche ging tiefer und gleichmäßiger als ihr eigener.
 
 „Pflanzen", sagte sie. Die Stimme kam ein Stück höher als sonst, und sie hörte es selbst. Sie atmete einmal. „Sie reagieren auf mich. Bewegen sich auf mich zu. Die Hortensien am Hauptweg hatten sich heute Morgen mir zugedreht. Ich habe die Hand auf den Kies gelegt. Sie zogen sich zurück."
 
@@ -373,7 +373,7 @@ Am Tor warteten Alphina und Sorel. Alphina hatte den Schlüssel aus der Tasche g
 
 Keiner sagte etwas.
 
-Die Nachmittagssonne stand tief. Ein Schatten der Mauer fiel über den Kies vor dem Tor. Marens Atem ging flach. Sorels rechte Hand hatte die Leere neben seinem Körper nicht verlassen — dort, wo vorhin Alphinas Ellbogen gewesen war. Er ließ die Hand sinken, als Alphina den Blick auf ihn richtete, und zog sie in die Manteltasche.
+Die Nachmittagssonne stand tief. Ein Schatten der Mauer fiel über den Kies vor dem Tor. Marens Atem ging flach. Sorels rechte Hand stand noch dort, wo vorhin Alphinas Ellbogen gewesen war. Er ließ die Hand sinken, als Alphina den Blick auf ihn richtete, und zog sie in die Manteltasche.
 
 Vespers Schultern hingen. Er stand zwei Schritte hinter Maren, die Hand an der Innenseite seines eigenen Brustbeins.
 

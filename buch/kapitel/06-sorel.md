@@ -8,7 +8,7 @@ Sorel zählte sie im Absteigen, die Kerze in der linken Hand, den Kasten unter d
 
 Er blieb in der Tür stehen.
 
-Fixierer. Der Geruch war sofort da, scharf, chemisch — Kollodium und Fixiersalz, unverwechselbar. Hier. In einem leeren Keller, in dem niemand gearbeitet hatte. Kein Tisch, keine Schalen, keine Schnüre an den Wänden. Nur nackter Stein, die Wände dunkel, die Decke niedrig. Leer. Aber der Geruch.
+Fixierer. Der Geruch war sofort da, scharf, chemisch — Kollodium und Fixiersalz, unverwechselbar. Hier. In einem leeren Keller, in dem nie jemand gearbeitet hatte. Kein Tisch, keine Schalen, keine Schnüre an den Wänden. Nur nackter Stein, die Wände dunkel, die Decke niedrig. Leer. Aber der Geruch.
 
 Er legte die Hand auf die Wand. Warm. Trocken. Die Oberfläche rau unter seinen Fingern, porös, als lasse der Stein Luft durch, langsam, in einem Rhythmus der nicht zu hören war. In Nachtholm war der Basalt kalt gewesen, glatt, nass vom Kondenswasser, ein Stein der nahm und nichts zurückgab. Dieser Stein gab Wärme ab. Wärme die kein Ofen erklärte, kein Rohr, kein Schornstein. Die Mauer war warm wie Haut.
 
@@ -87,7 +87,7 @@ Stuhl an die Wand geschoben. Die Lehne gegen den Stein, warm durch das Hemd. Hä
 
 Er ging hinaus als die Laternen herunterbrannten.
 
-Nicht alle — einzelne, verstreut, gelbe Punkte im Dunst. Sorel trug die Kamera über der Schulter, das Stativ unter dem Arm, die Ledertasche mit den Platten am Gurt. Schwer. Die Straße unter seinen Sohlen war feucht, die Luft kalt nach der Wärme des Kellers, der Übergang so scharf dass seine Haut sich zusammenzog — Unterarme, Nacken, Kopfhaut. In einer Seitengasse stritten Männerstimmen vor einer Schenke, gedämpft hinter geschlossenen Läden, eine Flasche zerbrach auf Pflaster. Ein Hund bellte zwei Höfe weiter, antwortete einem zweiten, beide hörten auf. Eine Wache ging an der Ecke der Hafengasse, die Stiefel schwer, die Laterne an der Hüfte, schaute ihn kurz an und ging weiter. Seine Schritte klangen gedämpft. Die Luft schluckte den Klang bevor er den Boden erreichte.
+Nicht alle — einzelne, verstreut, gelbe Punkte im Dunst. Sorel trug die Kamera über der Schulter, das Stativ unter dem Arm, die Ledertasche mit den Platten am Gurt. Schwer. Die Straße unter seinen Sohlen war feucht, die Luft kalt nach der Wärme des Kellers, der Übergang so scharf dass seine Haut sich zusammenzog — Unterarme, Nacken, Kopfhaut. In einer Seitengasse stritten Männerstimmen vor einer Schenke, gedämpft hinter geschlossenen Läden, eine Flasche zerbrach auf Pflaster. Ein Hund bellte zwei Höfe weiter, antwortete einem zweiten, beide hörten auf. Eine Wache schritt an der Ecke der Hafengasse vorbei, die Stiefel schwer, die Laterne an der Hüfte, schaute ihn kurz an und ging weiter. Seine Schritte klangen gedämpft. Die Luft schluckte den Klang bevor er den Boden erreichte.
 
 Nachts war die Stadt eine Platte aus Tonwerten. Sorels Augen, schärfer im Dunkeln als im Licht, lasen die Gassen wie Negative — helle Flächen dort wo Laternenlicht auf Stein traf, dunkle Flächen wo der Dunst die Konturen fraß, dazwischen Abstufungen, fünfzig Grautöne die nur ein Auge las das lang genug trainiert hatte. Die Giebel über ihm kaum sichtbar. Eine Katze auf einem Sims, die Augen zwei helle Punkte, belichtet, scharf. Wasser das irgendwo tropfte — kein Regen, kein Rinnsal, nur Tropfen die fielen, gleichmäßig, etwas das in den Mauern tickte.
 
@@ -129,7 +129,7 @@ Sein Gesicht.
 
 Sein eigenes Gesicht, auf dem Kopf eines Dings das eine Elle größer war als er und auf Hufen stand. Jeder Zug, jede Linie. Sein Gesicht, als hätte jemand eine Platte von ihm belichtet und auf den Rauch gedruckt. Die Figur schaute ihn an. Mit seinen Augen.
 
-Sorels Hand fuhr zum Verschluss. Griff daneben. Seine Finger fanden das Metall nicht, rutschten ab, griffen ins Leere. Sein Körper war einen Schritt zurückgetreten, ohne Befehl, die Sohlen auf nassem Stein, der Absatz rutschte, er fing sich am Stativ, das Stativ kippte — seine Hand schloss sich um das Holzbein, hielt, riss es zu sich. Die Kamera schwankte. Hielt.
+Sorels Hand fuhr zum Verschluss. Griff daneben. Seine Finger fanden das Metall nicht, rutschten ab, griffen ins Leere. Sein Körper trat einen Schritt zurück, ohne Befehl, die Sohlen auf nassem Stein, der Absatz rutschte, er fing sich am Stativ, das Stativ kippte — seine Hand schloss sich um das Holzbein, hielt, riss es zu sich. Die Kamera schwankte. Hielt.
 
 Er stand da. Einen Schritt weiter vom Poller, das Stativ schräg in seiner Hand, der Atem flach und schnell, die Augen auf die Figur gerichtet. Die Figur auf ihn.
 

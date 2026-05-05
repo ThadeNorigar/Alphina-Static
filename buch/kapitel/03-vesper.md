@@ -130,7 +130,7 @@ Die Stimmen um ihn herum liefen weiter. Der Schlosser erzählte noch immer von s
 
 Der Turm ruhte still in seiner Tasche.
 
-273 Sekunden. Die Zahl stand sofort. Nicht gerechnet — erkannt. Wie ein Gesicht das man kennt, bevor man den Namen weiß. 273. Er zerlegte: drei mal sieben mal dreizehn. Drei Primfaktoren. Kein Standard-Pendel schwang in einem Vielfachen. Keine Temperaturkurve erzeugte diesen Versatz. Keine Materialdrift.
+273 Sekunden. Die Zahl stand sofort. Nicht gerechnet — erkannt. Wie ein Gesicht das man kennt, bevor man den Namen weiß. 273. Er zerlegte: drei mal sieben mal dreizehn. Drei Primfaktoren. Kein Standard-Pendel schwang in einem Vielfachen. Keine Temperaturkurve erzeugte diesen Versatz. Keine Materialermüdung.
 
 "Temperatur geprüft?", fragte Vesper. Seine Stimme war ruhig. Die Frage kam automatisch — die Finger des Uhrmachers, die ein Werk abtasten, systematisch, ohne zu denken.
 
@@ -200,7 +200,7 @@ Die Zahl stand in seinem Kopf. Nicht als Gedanke — als Gegenstand. Sie hatte F
 
 Er zerlegte. Das war was er tat — zerlegen, prüfen, verstehen. Drei mal sieben mal dreizehn. Drei Primfaktoren. Kein Vielfaches einer Pendelschwingung. Kein Zahnverhältnis das in der Uhrmechanik vorkam. Er kannte jede gängige Schwingungszahl der letzten dreihundert Jahre Uhrbaugeschichte. 273 passte in keine.
 
-Es gab Möglichkeiten die er noch nicht geprüft hatte. Magnetismus — ein Eisenerzvorkommen unter dem Haus, das das Pendel beeinflusste. Möglich, aber Magnetismus erzeugte keine konstante Abweichung. Mikrovibrationen — der Mann hatte gesagt, das Haus stehe auf Purpurstein, massiv. Materialermüdung im Pendeldraht — nach hundertfünfzig Jahren denkbar, aber progressiv, nicht konstant.
+Es gab Möglichkeiten die er noch nicht geprüft hatte. Magnetismus — ein Eisenerzvorkommen unter dem Haus, das das Pendel beeinflusste. Möglich, aber Magnetismus erzeugte keine konstante Abweichung. Feine Erschütterungen — der Mann hatte gesagt, das Haus stehe auf Purpurstein, massiv. Verschleiß im Pendeldraht — nach hundertfünfzig Jahren denkbar, aber progressiv, nicht konstant.
 
 Jede Erklärung führte zum selben Punkt. Der Versatz war zu konstant. Zu präzise. Physik schwankte. Physik hatte Toleranzen.
 

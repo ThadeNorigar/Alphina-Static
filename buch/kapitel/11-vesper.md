@@ -8,7 +8,7 @@ Vesper hatte die Liste zum vierten Mal in neuen Spalten untereinander geschriebe
 
 Ganz unten in der Reihe, mit einem Querstrich abgetrennt und in einer anderen Tinte: die Tidemoor-Uhr. Vier Minuten und dreiunddreißig Sekunden pro Tag, in der ganzen Größenordnung ohne Vergleich. Er hatte sie aus der Reihenfolge herausgenommen, weil sie offensichtlich nicht in dasselbe System gehörte wie die anderen sechzehn. Tidemoor war ein Sonderfall. Er hatte das seit Wochen gewusst, ohne es ausgesprochen zu haben.
 
-Die übrigen sechzehn gingen alle nach. Keine lief vor. Die kleinste Abweichung lag bei elf Sekunden pro Tag, in einer Wanduhr eines Lederwarenhändlers unten am Hafen. Die größte, wenn man Tidemoor beiseite ließ, waren zwei Minuten und dreiundzwanzig Sekunden, in einer alten Tischuhr in einem Haus am hinteren Marktplatz. Dazwischen ein Spektrum, das Vesper bisher für chaotisch gehalten hatte.
+Die übrigen sechzehn gingen alle nach. Keine lief vor. Die kleinste Abweichung betrug elf Sekunden pro Tag, in einer Wanduhr eines Lederwarenhändlers unten am Hafen. Die größte, wenn man Tidemoor beiseite ließ, waren zwei Minuten und dreiundzwanzig Sekunden, in einer alten Tischuhr in einem Haus am hinteren Marktplatz. Dazwischen ein Spektrum, das Vesper bisher für chaotisch gehalten hatte.
 
 Beim vierten Durchgang sortierte er nicht mehr Zahlen. Er sortierte Gebiete.
 

@@ -46,7 +46,7 @@ Sie zog den Handrücken weg, hob die Fingerspitze an die Unterlippe und schmeckt
 
 Sie legte jetzt die Handfläche offen flach an den Stein. Er war warm. Eine Welle lief durch ihre Haut in die Handwurzel, den Unterarm, unter das Schlüsselbein, in die Brust — stetig, ohne Abreißen.
 
-Sie stand und horchte. Seit Solha hatte sie nicht so gehorcht. Fünf Monate Wasser-Tests an der Werft hatten ihr gezeigt, was sie konnte — Strömungen, Pegel, einen Tropfen in der Luft, einen Eimer Wasser zu Eis oder ans Kochen, einmal Salz unter Süß im dritten Versuch. Größere Mengen reagierten langsamer. Mit Vesper hatte sie sich ausgetauscht, was jedes von ihnen lernte; getestet hatte jeder allein. Was unter ihrer Hand jetzt durchzog, kannte sie aus keinem dieser Versuche.
+Sie stand und horchte. Seit Solha hatte sie nicht so gehorcht. Fünf Monate Wasser-Tests an der Werft hatten ihr gezeigt, was sie konnte — Strömungen, Pegel, einen Tropfen in der Luft, einen Eimer Wasser zu Eis oder ans Kochen, einmal Salz unter Süß im dritten Versuch. Größere Mengen reagierten langsamer. Mit Vesper hatte sie besprochen, was jedes von ihnen lernte; getestet hatte jeder allein. Was unter ihrer Hand jetzt durchzog, kannte sie aus keinem dieser Versuche.
 
 Sie atmete einmal länger als nötig. Am Augenwinkel zog Nebel sich zusammen, dichter als anderswo. Sie sah hin, ohne die Hand vom Stein zu nehmen.
 

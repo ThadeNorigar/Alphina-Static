@@ -4,7 +4,7 @@
 
 Das Rotlicht machte seine Hände fremd.
 
-Es war ein Trick der Wellenlänge, nichts weiter — rotes Licht, zu lang für die Emulsion, zu kurz um die Dunkelheit zu brechen. Aber Sorel mochte den Effekt. Präziser als im Tageslicht, als hätte jemand alles Überflüssige von ihnen abgezogen und nur die Funktion übrig gelassen. Finger, Knöchel, Sehnen unter der Haut.
+Es war ein Trick der Wellenlänge, nichts weiter — rotes Licht, zu lang für die Emulsion, zu kurz um die Dunkelheit zu brechen. Aber Sorel mochte den Effekt. Präziser als im Tageslicht, als hätte jemand alles Überflüssige von ihnen abgezogen und nur die Funktion übrig gelassen. Finger, Knöchel, Bänder unter der Haut.
 
 Er tauchte die siebte Platte ins Entwicklerbad.
 

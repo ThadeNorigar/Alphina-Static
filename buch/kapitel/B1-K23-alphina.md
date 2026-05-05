@@ -44,7 +44,7 @@ Sie sah auf den Streifenfarn, auf die abgeschnittenen Spitzen neben dem Glas. Dr
 
 »Lass uns was machen«, sagte sie. »Jetzt. Wir zwei. Nicht der ganze Kampf. Nur sehen, wie es läuft, wenn wir es absichtlich tun.«
 
-Er sah sie an. Er fragte nicht, was. Seine linke Hand wanderte einen halben Zoll näher ans Messing und blieb da.
+Er sah sie an. Er fragte nicht, was. Seine linke Hand wanderte einen Zoll näher ans Messing und blieb da.
 
 »Gut.«
 
@@ -132,7 +132,7 @@ Sie zog die Stirn an seine, atmete einmal aus. Das Gewicht ging auf seine Schult
 
 Seine Haut unter ihren Fingern war heiß, seine Kehle bewegte sich gegen ihren Daumen, als er schluckte. In den Handflächen war ein Ziehen — etwas schlug Wurzeln zwischen ihren Rippen, fand eine Spalte und ging hinein, tiefer als sie es je gekannt hatte. Ihr Körper wusste, was er wollte, bevor ihr Kopf es erlauben konnte. Sie ließ los, nicht ganz, aber mehr als sonst.
 
-Es waren nur seine Schulter und ihre Stirn, seine Hand an ihrer Taille und ihre Hand an seinem Kiefer. Seine Finger bewegten sich einmal, einen halben Zoll, als könnten sie nicht entscheiden, wo sie sein sollten. Die Dielen unter ihren Knien waren inzwischen kühl geworden, die Sonne war längst fort. Draußen kroch die Dämmerung die Fassaden hoch, und das Zimmer wurde eine Stufe dunkler, ohne dass einer von ihnen etwas dazu getan hätte.
+Es waren nur seine Schulter und ihre Stirn, seine Hand an ihrer Taille und ihre Hand an seinem Kiefer. Seine Finger bewegten sich einmal, kaum wahrnehmbar, als könnten sie nicht entscheiden, wo sie sein sollten. Die Dielen unter ihren Knien waren inzwischen kühl geworden, die Sonne war längst fort. Draußen kroch die Dämmerung die Fassaden hoch, und das Zimmer wurde eine Stufe dunkler, ohne dass einer von ihnen etwas dazu getan hätte.
 
 Unten in der Gasse wurde es still. Im *Anker* klappte eine Tür, jemand lachte halb und dann nicht mehr. Die Kerzen brannten.
 

@@ -107,7 +107,7 @@ Die Tasche über der Schulter, der Mantel offen, das dunkle Haar ein bisschen zu
 
 Der Anker lag zehn Minuten die Gasse hoch.
 
-Er lehnte sich minimal weiter in den Türspalt, nicht so weit, dass es nach Bereitschaft aussah, gerade genug, dass sein Körper den Rest füllte. Seine rechte Hand blieb auf dem Türrahmen. Die linke Hand hielt die Innenkante. Er stand im Weg.
+Er lehnte sich einen Hauch weiter in den Türspalt, nicht so weit, dass es nach Bereitschaft aussah, gerade genug, dass sein Körper den Rest füllte. Seine rechte Hand blieb auf dem Türrahmen. Die linke Hand hielt die Innenkante. Er stand im Weg.
 
 Ihr Blick ging einmal kurz an ihm vorbei. Nicht lang. Nicht auffällig. Aber er sah die Verschiebung in der Pupille — ein winziger Suchgang in den Spalt, in den Schein des Öllichts auf dem Entwicklertisch, auf die leere Wand dahinter, auf die Stelle, wo die Schublade unter dem Tisch saß. Ihr Blick kam zurück auf sein Gesicht. Sie sagte nichts zu dem, was sie gesehen oder nicht gesehen hatte. Aber sie bemerkte es. Er wusste, dass sie es bemerkt hatte, so wie er das Silberkorn unter einer Platte kannte, ohne die Lupe zu benutzen.
 

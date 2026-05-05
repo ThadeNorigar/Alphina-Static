@@ -66,7 +66,7 @@ Vesper stand vor der Tür. In seiner Tasche lag der Turm still. Zum ersten Mal s
 
 Er klopfte. Schritte hinter der Tür, leicht und schnell. Dann Stille. Ein Riegel, der zurückgeschoben wurde. Die Tür öffnete sich, aber nur halb — dahinter eine Frau, Mitte zwanzig vielleicht, Schürze über dem Kleid, das Haar hochgesteckt, eine Strähne die sich gelöst hatte, über ihre Schläfe, bis zum Kinn.
 
-"Einen Moment", sagte sie. Bevor er antworten konnte war sie auf den Knien, die Hände am Boden, wischte etwas von der Schwelle — Erde, Blätter, der Dreck den der Wind vom Garten hereingetragen hatte. Sie kniete vor ihm im Türrahmen, den Kopf gesenkt, die Hände flach auf dem Stein. Vesper stand über ihr. Sein Blick fiel auf ihren Nacken, wo die Strähne sich aus dem Haar gelöst hatte, über die Haut, bis zum Kragen der Bluse. Sein Verstand lieferte ein Bild das er nicht bestellt hatte.
+"Einen Moment", sagte sie. Bevor er antworten konnte war sie auf den Knien, die Hände am Boden, wischte etwas von der Schwelle — Erde, Blätter, der Dreck den der Wind vom Garten hereingetragen hatte. Sie kniete vor ihm im Türrahmen, den Kopf gesenkt, die Hände flach auf dem Stein. Vesper stand über ihr. Sein Blick fiel auf ihren Nacken, wo die Strähne sich aus dem Haar gelöst hatte, über die Haut, bis zum Kragen der Bluse. Vor sein Auge trat ein Bild, das er nicht gerufen hatte.
 
 Dieselbe Haltung. Dieselben Knie auf dem Boden. Aber die Hände nicht am Stein, sondern auf dem Rücken, überkreuzt, und ein Tuch über den Augen, und der Kopf leicht gehoben, wartend.
 

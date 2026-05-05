@@ -79,7 +79,7 @@ Als Runa das Tor geschlossen hatte — das metallische Klappen, dem ein feines N
 
 Nicht nah. Dort wo die Hortensienreihe in den Nebel auslief, dreißig Schritte entfernt, kaum mehr als eine Linie im Grau — die Schultern nach vorne gebeugt, der Rücken an den Rändern rauchend. Zwei kleinere Gestalten zwischen den Kübeln, katzengroß, reglos. Sie schaute sie nicht direkt an. Sie hatte gelernt, dass sie gingen wenn man sie ansah — also ließ sie den Blick seitlich gleiten und hielt die Konturen.
 
-Sie waren tagsüber da, am fünften Nebeltag in Folge.
+Sie waren tagsüber da, am fünften Nebeltag.
 
 Die Gestalt drehte den Kopf auf sie. Langsam, mit einer Trägheit die nicht Müdigkeit war, und blieb. Das Warten galt nicht dem Garten. Es galt ihr. Runa hatte auf den Boden gezeigt. Der Mittelpunkt stand dort und schaute sie an.
 
@@ -159,7 +159,7 @@ Dann löste sie sich auf. Nicht plötzlich. Die Ränder zerfaserten zuerst, die 
 
 Alphina stand dreißig Atemzüge lang still. Ihre Hände hörten auf zu zittern irgendwann zwischen dem zehnten und dem fünfzehnten. Die Gasse war leer. Die Stelle auf dem Pflaster, wo die Gestalt gestanden hatte, war nass, und nichts an dem Stein verriet, dass etwas dort gewesen war — kein Abdruck, kein Geruch, kein Nachbild. Nur die Gaslampe über der Stelle, deren Flamme gleichmäßig brannte, ungerührt. Die zwei kleinen Gestalten auf den Dächern waren noch da, katzengroß, die Augen gelb und ruhig, und sie schauten nicht auf die Stelle, wo die große Gestalt verschwunden war. Sie schauten auf Alphina.
 
-Die Luft in der Gasse roch nach Seepech und feuchtem Mauerwerk und nach dem süßen Geruch, der keinen Namen hatte — schwächer hier als im Garten, aber da, ein Faden der durch die Gassen lief und den sie in den letzten Wochen nicht mehr suchte. Sie atmete ihn ein. Sie atmete ihn aus.
+Die Luft in der Gasse roch nach Seepech und feuchtem Mauerwerk und nach dem süßen Geruch, der keinen Namen hatte — schwächer hier als im Garten, aber da, ein Faden der durch die Gassen lief und den sie in den letzten Wochen nicht mehr suchte. Sie atmete ihn ein und aus.
 
 Sie ging weiter. Langsam, weil das rechte Knie protestierte und weil schnell gehen jetzt eine Lüge gewesen wäre, die ihr Körper nicht mitgetragen hätte. Ihre Finger lagen in den Manteltaschen, um das Notizbuch geschlossen, und die Wärme ihrer Hände ging in das Leder des Einbands. Die Gasse war kurz. An der nächsten Kreuzung brannte eine zweite Lampe, und unter der Lampe stand ein Mann mit einem Hund, der an die Hauswand pinkelte. Der Mann schaute sie an, nickte, ging weiter. Ein Fenster in der oberen Etage stand offen, und Stimmen kamen heraus, gedämpft, eine Frau lachte über etwas. Die Welt war zurück.
 
