@@ -6,7 +6,7 @@
 
 Zwei Welten. Ein Riss.
 
-**Thalassien** — ohne natürliche Magie. Frühes 19. Jahrhundert (Buch 1, ~1820 TZ). Durch Zeitdilatation (1 Moragh-Jahr = 400 Thalassien-Jahre) entwickelt sich Thalassien rasant weiter: ~1987 TZ am Ende Buch 2, ~2153 TZ am Ende Buch 3. Die Thalassien-Magie existiert nur, weil Varen das Portal ab MZ -3 brachial aufgestoßen und damit Raum-Zeit-Risse erzeugt hat, durch die Moragh-Magie einsickert — ohne Varen keine Resonanz-Begabten in Thalassien.
+**Thalassien** — ohne natürliche Magie. Frühes 19. Jahrhundert (Buch 1, **1820 UZ / TZ 551**). Durch Zeitdilatation (1 Moragh-Monat = 33 TZ-Jahre / 1 Moragh-Jahr = 264 TZ-Jahre, 8 × 33) entwickelt sich Thalassien rasant weiter: **~1987 UZ (TZ 718)** am Ende Buch 2 nach ~5 MZ-Monaten, **~2152 UZ (TZ 883)** am Ende Buch 3. Die Thalassien-Magie existiert nur, weil Varen das Portal ab MZ -3 brachial aufgestoßen und damit Raum-Zeit-Risse erzeugt hat, durch die Moragh-Magie einsickert — ohne Varen keine Resonanz-Begabten in Thalassien.
 
 **Moragh** — mit Magie. Eigene Zivilisation, eigene Physik (0.7g, Akkretionsscheibe statt Sonne, zwei Monde). Magie kostet den Körper wie Sport — Müdigkeit, Hunger, Muskelkater. Bei Übergebrauch: Nasenbluten, Erschöpfung. Chronisch: Altern, Tod.
 

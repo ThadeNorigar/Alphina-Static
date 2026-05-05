@@ -174,23 +174,23 @@ Drei Register, nie »Jacke«:
 2. **Alphina:** Konter-Frage, falsch gehört. *„Warum willst du heim, Maren? Alle die du kennst sind tot oder alt."* — Alphina hört Heimweh, nicht Identitäts-Verlust. Bruchmoment.
 3. **Elke:** Übergabe-Geste. Maren gibt das Bündel zurück. Elke nickt. Sie versteht ohne Worte. Bündel geht weiter nach Dravek.
 
-**B2-K39 Wasserweg-Solo:** Tritt nach **rund acht Moragh-Monaten** durch den Wasserweg-Riss bei Dravek von Moragh-Seite zurück nach Thalassien. Landet in Vael **~1987 TZ**. Vesper bleibt, sie geht — beide wissen: sie hat allein zu wenig Magie für den Rückweg, und nur eine Person hat genug Magie für den Hinweg. Gestrandet, absichtlich. Vesper verabschiedet sich heimlich am Riss, gibt ihr drei Sachen mit: **Zeit-Apparat, Datenliste, Brief an Alphina** („falls"). Sie steigt aus dem Wasser auf den Steg ihrer Werft. 30 Jahre alt, in einem Vael, in dem Haron seit ~1500 Jahren tot ist und niemand sie kennt.
+**B2-K39 Wasserweg-Solo:** Tritt nach **rund fünf Moragh-Monaten** durch den Wasserweg-Riss bei Dravek von Moragh-Seite zurück nach Thalassien. Landet in Vael **~1987 UZ (TZ 718, Blütenmond)**. Vesper bleibt, sie geht — beide wissen: sie hat allein zu wenig Magie für den Rückweg, und nur eine Person hat genug Magie für den Hinweg. Gestrandet, absichtlich. Vesper verabschiedet sich heimlich am Riss, gibt ihr drei Sachen mit: **Zeit-Apparat, Datenliste, Brief an Alphina** („falls"). Sie steigt aus dem Wasser auf den Steg ihrer Werft. 30 Jahre alt, in einem Vael, in dem Haron seit ~167 Jahren tot ist und niemand sie kennt.
 
 ---
 
 ## Buch 3 — Vermächtnis-Bogen
 
-**B3-I1 (Rückblick ~1990 TZ) — SFG-Gründung:** Drei Jahre nach Strandung. Maren gründet die **Schwellenforschungsgesellschaft** aus Haron Dahls Werft-Erbe. Vier Mitglieder zu Beginn (Maren + drei Frühlingsstipendiaten der Universität Vael), eine Karte des Steinkreises an der Wand, Vespers Datenliste in einem versiegelten Schrank. Erste Hypothese: *„Manche Risse pochen, bevor sie sich öffnen. Wir messen das Pochen."* Die Farne im Botanischen Garten werden zu ihrem Lebensgegenstand — Bodentemperatur-Messungen, Sensoren, Hypothesen. Über vier Jahrzehnte wächst SFG zum staatlich finanzierten Institut.
+**B3-I7 (Rückblick ~1990 UZ / TZ 721) — SFG-Gründung:** Drei Jahre nach Strandung. Maren gründet die **Schwellenforschungsgesellschaft** aus Haron Dahls Werft-Erbe. Vier Mitglieder zu Beginn (Maren + drei Frühlingsstipendiaten der Universität Vael), eine Karte des Steinkreises an der Wand, Vespers Datenliste in einem versiegelten Schrank. Erste Hypothese: *„Manche Risse pochen, bevor sie sich öffnen. Wir messen das Pochen."* Die Farne im Botanischen Garten werden zu ihrem Lebensgegenstand — Bodentemperatur-Messungen, Sensoren, Hypothesen. Über vier Jahrzehnte wächst SFG zum staatlich finanzierten Institut.
 
-**B3-K24 (Alphina-POV) — Maren-Brief:** Alphina liest Marens Brief, den Vesper über Elke 1987 TZ aus Moragh mitgebracht hat. Zweite Erkenntnis: Maren hat ihren Identitäts-Verlust in K21 nicht aus Heimweh formuliert, sondern aus Selbstrettung. Alphina hat ihn nicht gehört. Zu spät — Maren ist seit ~70 Jahren tot.
+**B3-K24 (Alphina-POV) — Maren-Brief:** Alphina liest Marens Brief, den Vesper über Elke 1987 UZ (TZ 718) aus Moragh mitgebracht hat. Zweite Erkenntnis: Maren hat ihren Identitäts-Verlust in K21 nicht aus Heimweh formuliert, sondern aus Selbstrettung. Alphina hat ihn nicht gehört. Zu spät — Maren ist seit ~70 UZ-Jahren tot.
 
-**B3-I8 (~2037 TZ) — Tod:** Institut-Außengebäude in Vael, 80 Jahre alt, Herzschwäche. Drei Verwüster-Schemen brechen durch den Steinkreis (Varen manipulierte Orath-Rufer zur Vergeltungs-Beschwörung, öffnete das Portal). Das Institut wird zerstört, ~40 Tote. Maren am Fenster, sieht die Welle kommen. Letzte Worte: *„Ich habe sie hergeschickt."* Sie meint die erste Expedition (Tyra Halvard, 2020 TZ, Linguistin). Sie weiß nicht, dass Varen die Risse geschickt hat.
+**B3-I8 (~2037 UZ / TZ 768) — Tod:** Institut-Außengebäude in Vael, 80 Jahre alt, Herzschwäche. Drei Verwüster-Schemen brechen durch den Steinkreis (Varen manipulierte Orath-Rufer zur Vergeltungs-Beschwörung, öffnete das Portal). Das Institut wird zerstört, ~40 Tote. Maren am Fenster, sieht die Welle kommen. Letzte Worte: *„Ich habe sie hergeschickt."* Sie meint die erste Expedition (Tyra Halvard, 2020 TZ, Linguistin). Sie weiß nicht, dass Varen die Risse geschickt hat.
 
-**Vermächtnis durch Generationen:**
-- **2020 TZ — Tyra Halvard, Marens Ur-Großnichte (Seitenlinie),** bricht als Linguistin der Expedition 1 nach Moragh auf — Marens Daten und Vespers Liste im aktiven Gebrauch, ohne dass Tyra die Quelle kennt.
-- **2080+ TZ — Dr. Syra Halvard, Marens entfernte Verwandte,** übernimmt das Institut nach Marens Tod und kippt es auf Eroberungskurs. Marens Name bleibt an der Fassade, ihre Doktrin (Messen vor Greifen) stirbt mit ihr.
-- **2120 TZ — Expedition 2 mit 2500 Soldaten** auf Marens Datenbasis. Marens Werk wird gegen ihre Absicht verwendet.
-- **~2153 TZ — Portal-Quelle zerstört (Alphina).** Das Institut steht leer. Die Farne bewegen sich nicht mehr. Marens Lebenswerk ist Archäologie geworden — eine überholte Wissenschaft.
+**Vermächtnis durch Generationen** (UZ-Jahre — entsprechen TZ-Jahren minus 1269):
+- **2020 UZ (TZ 751) — Tyra Halvard, Marens Ur-Großnichte (Seitenlinie),** bricht als Linguistin der Expedition 1 nach Moragh auf — Marens Daten und Vespers Liste im aktiven Gebrauch, ohne dass Tyra die Quelle kennt.
+- **2080+ UZ (TZ 811) — Dr. Syra Halvard, Marens entfernte Verwandte,** übernimmt das Institut nach Marens Tod und kippt es auf Eroberungskurs. Marens Name bleibt an der Fassade, ihre Doktrin (Messen vor Greifen) stirbt mit ihr.
+- **2120 UZ (TZ 851) — Expedition 2 mit 2500 Soldaten** auf Marens Datenbasis. Marens Werk wird gegen ihre Absicht verwendet.
+- **~2152 UZ (TZ 883) — Portal-Quelle zerstört (Alphina).** Das Institut steht leer. Die Farne bewegen sich nicht mehr. Marens Lebenswerk ist Archäologie geworden — eine überholte Wissenschaft.
 
 ---
 
@@ -207,7 +207,11 @@ Drei Register, nie »Jacke«:
 
 **Maren-K41 statt K39 (gestrichen 2026-05-03):** Wasserweg-Solo war kurzzeitig bei K41 verortet — korrigiert auf K39 nach Zeitleiste-Audit.
 
-**12 Moragh-Monate B2-K06 (gestrichen 2026-05-03):** Aufenthalt war auf 12 Monate dimensioniert — korrigiert auf rund acht Monate. Damit passt der Wasserweg-Solo-Beat zu Marens Strandungsdatum 1987 TZ.
+**12 Moragh-Monate B2-K06 (gestrichen 2026-05-03):** Aufenthalt war auf 12 Monate dimensioniert — korrigiert auf rund acht Monate.
+
+**Acht Moragh-Monate B2-K39 (gestrichen 2026-05-05):** Korrigiert auf **rund fünf Monate** nach Konversions-Klärung (1 MZ-Monat = 33 TZ-Jahre / 1 MZ-Jahr = 264 TZ-Jahre, statt fälschlich 400). Bei UZ-1987-Strandung sind das ~167 TZ-Jahre nach B1-Ende = 5,07 MZ-Monate.
+
+**TZ-Label für UZ-Jahre (gestrichen 2026-05-05):** Frühere Plot-Doku schrieb „1987 TZ", „2037 TZ" etc. — gemeint waren UZ-Jahre. Korrekt: **UZ-Jahr = TZ-Jahr + 1269**. Beispiele neu: 1987 UZ = TZ 718. 2037 UZ = TZ 768. 2120 UZ = TZ 851.
 
 ---
 

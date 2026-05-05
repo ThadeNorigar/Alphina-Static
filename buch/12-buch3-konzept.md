@@ -5,17 +5,19 @@
 
 ## Konsistente Zeitrechnung
 
-**Ratio:** 1 Moragh-Jahr = 400 Thalassien-Jahre. Stabil. **Kein 270:1 — das war nie Kanon.**
+**Ratio (Canon, User-bestätigt 2026-05-05):** 1 Moragh-Monat = 33 Thalassien-Jahre · 1 Moragh-Jahr = 264 Thalassien-Jahre (8 × 33). Stabil. **Frühere 400er-Faustregel stammte aus 12-Monats-Kalender und ist überholt.** Tool: `scripts/zeitrechnung.py`.
 
-| Moragh-Zeit | Thalassien-Zeit | Tech-Level in Thalassien |
+**Wichtig — UZ vs. TZ:** Die Welt-Jahres-Zahlen (1820, 1987, 2020, 2037, 2120, 2152) sind **UZ** (Gregorianisch, irdisch). **TZ-Jahr = UZ-Jahr − 1269.** Beispiele: 1820 UZ = TZ 551, 1987 UZ = TZ 718, 2152 UZ = TZ 883.
+
+| Moragh-Zeit | Welt-Zeit (UZ / TZ) | Tech-Level in Thalassien |
 |---|---|---|
-| B1 Start | 1820 TZ | Gaslampen, Kutschen, Glasplatten |
-| B2 Ende (Marens Durchgang nach 5 Moragh-Monaten) | **1987 TZ** | frühe Elektrizität, Radio, Automobile |
-| B3 Anfang (Monat 5,5) | ~2003 TZ | Radio ausgebaut, frühe Fliegerei |
-| B3 Akt I (Expedition 1 Ankunft, Monat 6) | **~2020 TZ** | Drohnen-Prototypen, frühe KI-Assistenten, Tragbare Computer |
-| B3 Akt II (Marens Tod, Monat 6,8) | **~2047 TZ** | Fusion, KI, frühes Biotech |
-| B3 Akt III (Expedition 2 Ankunft, Monat 9) | **~2120 TZ** | Bodymods, Exoskelette, militärische Biotech, Neural-Interfaces 3. Generation |
-| B3 Ende (Monat 10) | **~2153 TZ** | ausgereifte 2150er-Technologie — stockwerkshohe Killermaschinen im Finale |
+| B1 Start (1. Torash 3635) | 1820 UZ / TZ 551 | Gaslampen, Kutschen, Glasplatten |
+| B2 Ende (Marens Durchgang nach 5 MZ-Monaten, ~3. Gormath) | **1987 UZ / TZ 718** | frühe Elektrizität, Radio, Automobile |
+| B3 Anfang (Monat 5,5 = ~Mitte Gormath) | ~2002 UZ / TZ 733 | Radio ausgebaut, frühe Fliegerei |
+| B3 Akt I (Expedition 1 Ankunft, ~Monat 6 = ~Anfang Gormath/Nyrath) | **~2020 UZ / TZ 751** | Drohnen-Prototypen, frühe KI-Assistenten, Tragbare Computer |
+| B3 Akt II (Marens Tod, ~Monat 6,5 = ~Mitte Nyrath) | **~2037 UZ / TZ 768** | Fusion, KI, frühes Biotech |
+| B3 Akt III (Expedition 2 Ankunft, ~Monat 9 = ~Anfang Ashral 3636) | **~2120 UZ / TZ 851** | Bodymods, Exoskelette, militärische Biotech, Neural-Interfaces 3. Generation |
+| B3 Ende (~Monat 10 = ~Anfang Keldath 3636) | **~2152 UZ / TZ 883** | ausgereifte 2150er-Technologie — stockwerkshohe Killermaschinen im Finale |
 
 **Zeit ist nicht rückdrehbar.** Wenn Maren durch das Portal zurückkehrt (B2-K41), ist Vael Jahrhunderte älter. Alle Nebencharaktere aus Buch 1 sind seit Generationen tot. Sorels Glasplatten sind in einem Museum. „Die Vier von Vael" ist eine Legende.
 

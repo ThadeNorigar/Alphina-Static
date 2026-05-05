@@ -6,7 +6,7 @@
 - Tor / Riss: Einweg-Portal im Botanischen Garten in Vael (Steinkreis als Aktivierungspunkt; keine Tunnel, keine Höhlen — räumliche Verschiebung im Gartenraum selbst); Moragh-Seite öffnet jederzeit, Thalassien-Seite braucht alle vier Resonanzen gleichzeitig, bleibt 4:33 offen. Austrittsort: nie exakt am Einstieg — ~500m-Radius um die Ziel-Quelle (in Vael typisch 50–200m Versatz). Beide Seiten können gleichzeitig offen sein (je eigene Öffnung, je eigene Richtung).
 - Riss-Quelle ist indifferent: pulsiert gleichmäßig vor sich hin, gibt keine Impulse, ruft niemanden. Was Resonanz-Träger wahrnehmen ist ihre eigene Sensitivität. Die Quelle reagiert nicht auf Menschen und interessiert sich nicht für sie.
 - Zeit: TZ 551 (Buch 1), entspricht frühem 19. Jhd; Kutschen, Gaslampen, Druckpressen, erste Dampfschiffe, kein Strom.
-- Zeitverhältnis TZ/MZ: 1 Moragh-Jahr = 400 Thalassien-Jahre; Buch 3-Rückkehr bedeutet, dass Jahrhunderte vergangen sind.
+- Zeitverhältnis TZ/MZ: **1 Moragh-Monat = 33 Thalassien-Jahre · 1 Moragh-Jahr = 264 TZ-Jahre** (8 × 33). UZ-Jahr = TZ-Jahr + 1269 (z.B. 551 TZ = 1820 UZ). Buch 3-Rückkehr bedeutet, dass Jahrhunderte vergangen sind. Tool: `scripts/zeitrechnung.py`.
 
 ## Hauptfiguren (POVs)
 - **Alphina Farn** — Botanikerin; sieht Pflanzen durch Berufslinse, nicht Geologie oder Farnnamen der Laien; dominiert Beziehungen durch Stille und Wissen; wählt Sorel, obwohl Vesper und Maren in Frage kommen; Kern-Konflikt: Kontrolle vs. Hingabe — die einzige Person die ihre Kontrolle bricht ist Sorel.
@@ -16,7 +16,7 @@
 
 ## Wichtige Nebenfiguren
 - **Varen** — Moragh-Forscher, **war Velmar**, von Velmar verdeckt ausgestoßen (Velmar weiß und vertuscht, andere Fraktionen wissen nichts); hat versehentlich drei Quellen (Mar-Keth, Dulrath-Ost, Reshkol) zerstört bei einem Leylinien-Stärkungs-Experiment und damit ~200.000 Menschen heimatlos gemacht und den Krieg ausgelöst; will Thalassier als Starthilfe für tote Quellen; charmant, mächtig, schuldbewusst; verschweigt seine Schuld vor Alphina bis Buch 3. In I3 schickt er Schemen durch sein Portal OHNE ZU WISSEN was auf der anderen Seite ist — kein gezielter Angriff, Experiment. Die Schemen richten Schaden an. Als Elke durch das Portal kommt, begreift er zum ersten Mal was sein Experiment angerichtet hat.
-- **Elke van der Holt** — Bildhauerin/Steinmetzin (Erde/Stein-Resonanz), lebt seit ~400 TZ-Jahren in Moragh (1 MZ-Jahr), erste Thalassierin die durchging; Kontakt und Orientierungspunkt in Buch 2.
+- **Elke van der Holt** — Bildhauerin/Steinmetzin (Erde/Stein-Resonanz), lebt seit ~12 MZ-Monaten in Moragh (~396 TZ-Jahre Welt-Zeit), erste Thalassierin die durchging; Kontakt und Orientierungspunkt in Buch 2.
 - **Runa Kvist** — Druckerin in der Oberstadt; Alphinas Freundin; schwache unerkannte Feuer-Resonanz; schlüpft in letzter Sekunde mit durch das Portal.
 - **Esther Voss / Jara Voss** — Archivarin und Nichte im Rathauskeller; Jara findet das gefälschte Manuskript zuerst.
 - **Tohl Daverin** — alter Fischer, sieht Anomalien auf der Grauwe, sagt nichts, zeigt es.

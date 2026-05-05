@@ -22,7 +22,7 @@ Unter Vael liegt der Riss zwischen den Welten. Er kann von der Moragh-Seite als 
 - **Die Interludien von Vael spielen in TZ 154.** Elkes Ankunft, das grosse Feuer, Elkes Durchgang nach Moragh. Technologisch entspricht das dem frühen 15. Jahrhundert irdischer Zeit (~1423) — Handwerk, Pferd und Fuhre, Öllampen, Feder und Tinte, Druckstock statt Druckpresse, Ihr/Euch als Anrede.
 - **Umrechnung:** TZ + ~1269 ≈ irdisches Jahr. Wo die Bibel "~1820" oder "1423" schreibt, ist die **irdische Technikepoche** gemeint, damit die Bildwelt beim Schreiben greifbar bleibt. **Kanonisch ist TZ.** In Kapiteln und Interludien steht die TZ-Zahl ohne Präfix: *11. Mai 551 · 6 Wochen 2 Tage in Vael* — Thalassier denken nicht in "TZ", sie denken in der Zahl, weil es für sie die einzige Jahreszahl gibt.
 
-**Moragh-Zeit (MZ)** — eigener Kalender, eigener Rhythmus. **1 MZ-Jahr = 400 TZ-Jahre** (Zeitdilatation). MZ-Tag = 26 h, MZ-Monat = 36 Tage, MZ-Jahr = 8 Monate (288 Tage). 1 MZ-Monat entspricht ~50 TZ-Jahren. MZ 0 = Besiedelung Moragh (TZ-Jahr −1.453.449). **B1-Start = MZ 3635, 1. Torash.** Acht Monatsnamen (Torash, Ashral, Keldath, Reshvan, Dravon, Gormath, Nyrath, Shelkam) mit Halbjahren Licht (1–4) und Dunkel (5–8). Details + Tool: `buch/00-zeitrechnung.md` und `scripts/zeitrechnung.py`.
+**Moragh-Zeit (MZ)** — eigener Kalender, eigener Rhythmus. **1 MZ-Monat = 33 TZ-Jahre. 1 MZ-Jahr = 264 TZ-Jahre** (Zeitdilatation, 8 Monate × 33). MZ-Tag = 26 h, MZ-Monat = 36 Tage, MZ-Jahr = 8 Monate (288 Tage). MZ 0 = Besiedelung Moragh (TZ-Jahr −959.089). **B1-Start = MZ 3635, 1. Torash.** Acht Monatsnamen (Torash, Ashral, Keldath, Reshvan, Dravon, Gormath, Nyrath, Shelkam) mit Halbjahren Licht (1–4) und Dunkel (5–8). Details + Tool: `buch/00-zeitrechnung.md` und `scripts/zeitrechnung.py`.
 
 ---
 
@@ -127,7 +127,7 @@ Varen hat per Daemon eine Anleitung in Moragh-Sprache hinterlegt — Papier mit 
 
 **DIE FALLE:** Mit Sorels Tod fehlt eine der vier Resonanzen. Das Thalassien-Ritual kann nie wieder ausgeführt werden. Der Rückweg über das Portal ist Mathematik, nicht Magie. Drei reichen nicht.
 
-Die Zeit läuft unterschiedlich. **1 Moragh-Jahr = 400 Thalassien-Jahre.** Das Verhältnis ist stabil. 1 Moragh-Monat ≈ 33 Thalassien-Jahre. Elke ging vor ~400 Thalassien-Jahren durch = vor ~1 Moragh-Jahr. Die gesamte Trilogie (*Der Riss / Das Auge / Die Quelle*) auf Moragh-Seite dauert ~1 Jahr. **Für die Rückkehr nach Vael (Buch 3) bedeutet das: Jahrhunderte sind vergangen. Alles Bekannte ist weg. Alle Kontakte, weg. Die Stadt die sie kannten existiert nicht mehr.**
+Die Zeit läuft unterschiedlich. **1 Moragh-Monat = 33 Thalassien-Jahre. 1 Moragh-Jahr = 264 Thalassien-Jahre** (8 Monate × 33). Das Verhältnis ist stabil. Elke ging vor ~12 Moragh-Monaten durch = ~396 Thalassien-Jahre vor B1-Start. Die gesamte Trilogie (*Der Riss / Das Auge / Die Quelle*) auf Moragh-Seite dauert ~1,3 Moragh-Jahre = ~330 Thalassien-Jahre. **Für die Rückkehr nach Vael (Buch 3) bedeutet das: Jahrhunderte sind vergangen. Alles Bekannte ist weg. Alle Kontakte, weg. Die Stadt die sie kannten existiert nicht mehr.**
 
 ### Die Portal-Quelle
 
@@ -256,6 +256,10 @@ Gor ist Gezeitengebunden — die Nähe zum Planeten hält sein Inneres flüssig.
 8. **Shelkam** — *Tiefnacht.* Dunkelster Monat. Der Bogen kaum über dem Horizont. Nur Monde und verzerrte Sterne. *Shel* (tief, Grund) + *kam* (Nacht, Dunkel).
 
 **Anmerkung:** Die Moragh-Menschen messen keine Jahreszeiten im Thalassien-Sinn. Die Temperatur ändert sich nicht. Der Kalender markiert **Lichtphasen**, nicht Wärme — wie hell der Bogen steht, welcher Mond dominiert, wann die Doppelflut kommt. Für die Menschen ist der Unterschied zwischen Ashral und Shelkam nicht "warm vs. kalt" sondern "hell vs. still."
+
+### Flora
+
+**Master:** `buch/moragh-flora.md` (Stand 2026-05-05). Standard-Moragh-Flora (schwarze warme Bäume, Fibonacci-Spiralen, fremde Halme, Glutmoos), Heat-Echo-Manifestationen (Sorel = Streifenfarn, Varen = Dornenranke mit Purpurblüte, Runa = Glutmoos, Trauer = schwarze Dornen mit blut-rotem Saum), Anti-Flora (Wut/Trauer/Captivity-Kippung), Charakteristika (Farb-/Geruchs-Register, Wachstums-Tempo, Quellen-Resonanz). Bei Pflanzen-Erwähnung in Moragh-Szenen pro Szene fragen: was wächst hier, und reagiert es auf wen?
 
 ### Zivilisation
 

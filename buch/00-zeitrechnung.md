@@ -51,33 +51,38 @@ Realweltliche Monatsnamen in der Prosa **verboten** — immer thalassisch.
 | 7 | Nyrath | Bleichmond | Dunkel |
 | 8 | Shelkam | Tiefnacht | Dunkel |
 
-## Kopplung TZ ↔ MZ: Zeitdilatation 400:1
+## Kopplung TZ ↔ MZ: Zeitdilatation 33:1 pro Monat
 
-**1 MZ-Jahr = 400 TZ-Jahre.**
+**1 MZ-Monat = 33 TZ-Jahre.** Bei 8 MZ-Monaten/Jahr ergibt sich:
+**1 MZ-Jahr = 264 TZ-Jahre.**
 
-Das ist erzählerisch. Astronomisch würde 288 MZ-Tage × 26 MZ-Stunden = 7.488 "MZ-Stunden" nur 1/468 von 400 TZ-Jahren (= 3.504.000 Stunden) ausmachen — die Differenz ist eine **Zeitdilatation**: In Moragh fließt Zeit relativ zu Thalassien langsamer. 1 MZ-Stunde "dauert" ~468 TZ-Stunden aus externer Sicht.
+Das ist erzählerisch. In Moragh fließt Zeit relativ zu Thalassien langsamer — pro Moragh-Monat (36 MZ-Tage) vergehen drüben ~33 TZ-Jahre.
+
+**Historische Notiz (Stand 2026-05-05):** Frühere Plot-Doku rechnete mit *„1 MZ-Jahr = 400 TZ-Jahre"*; das stammte aus einem 12-Monats-Kalender. Nach Reduktion auf 8 Monate (Torash–Shelkam) gilt **33 TZ-Jahre/MZ-Monat** als kanonische Konversion (User-bestätigt). Der 400-Wert lebt noch in einigen alten Plot-Texten — bei Drift gewinnt 33 TZ/Monat.
 
 **Praktisch für den Plot:**
-- 1 MZ-Tag ≈ 1,3 TZ-Jahre
-- 1 MZ-Monat ≈ 50 TZ-Jahre (genauer: 400/8 = 50)
-- 1 MZ-Jahr = 400 TZ-Jahre (fest)
+- 1 MZ-Tag ≈ 0,92 TZ-Jahre (33/36 ≈ 0,92)
+- 1 MZ-Monat = 33 TZ-Jahre (fest)
+- 1 MZ-Jahr = 264 TZ-Jahre (fest, 8 Monate × 33)
 
 ## Ankerpunkte
 
 | Ereignis | TZ | UZ | MZ |
 |---|---|---|---|
 | **B1-Start** (K1, 21. Saatmond) | **21. Saatmond 551 TZ** | 21. März 1820 | **1. Torash 3635** |
-| K22 (Plot-Gegenwart) | 22. Blütenmond 551 TZ | 22. Mai 1820 | 1. Torash 3635 (selber MZ-Tag!) |
-| B1-Ende (K36) | 4. Dunkelmond 551 TZ | 4. Dezember 1820 | 1. Torash 3635 (~7 MZ-Tage später) |
-| Elke Portal-Durchgang (I3) | 28. Frostmond 154 TZ | 28. November 1423 | 3. Torash 3634 (~1 MZ-Jahr vor B1) |
-| MZ 0 (Besiedelung Moragh) | TZ −1.453.449 | ~UZ −184.180 | 1. Torash 0 |
+| K22 (Plot-Gegenwart) | 22. Blütenmond 551 TZ | 22. Mai 1820 | 1. Torash 3635 (selber MZ-Tag) |
+| B1-Ende (K36/K37) | 4. Dunkelmond 551 TZ | 4. Dezember 1820 | 1. Torash 3635 (~9 MZ-Stunden später) |
+| Elke Portal-Durchgang (I3) | 28. Frostmond 154 TZ | 28. November 1423 | 36. Reshvan 3633 (~12 MZ-Monate vor B1) |
+| Maren-Strandung Vael (B2-K39) | 15. Blütenmond 718 TZ | 15. Mai 1987 | 3. Gormath 3635 (~5 MZ-Monate nach B1-Ende) |
+| MZ 0 (Besiedelung Moragh) | TZ −959.089 | ~UZ +309 | 1. Torash 0 |
 
 ## Konsequenzen für den Plot
 
-1. **Ganz Buch 1 spielt in MZ 3635, Monat 1 (Torash).** Zwischen B1-Start und B1-Ende vergehen nur ~7 MZ-Tage.
-2. **Varens Präsenz seit ~1 MZ-Jahr:** Elke kam in MZ 3634 (3. Torash) an, B1-Start ist MZ 3635 (1. Torash) — das ist praktisch genau 1 MZ-Jahr. Das bestätigt K37-Text "Über vierhundert Jährlein erspüret" (TZ-Jahre = 400 MZ-gerechnet wäre 1 MZ-Jahr ↔ 400 TZ-Jahre).
-3. **Varens Alter:** Mitte–Ende 40 (MZ-Jahre). Wenn 1 MZ-Jahr = 400 TZ-Jahre, wäre er aus TZ-Sicht "18.000 TZ-Jahre alt" — aber das ist irrelevant, weil er in MZ lebt und dort ein ganz normaler Mitte-40er ist.
-4. **4:33-Canon** (Vespers Uhren-Anomalie): Passt mit Varens "Atem-Signatur" wenn Varens Atemrhythmus in MZ-Zeit fein genug ist, dass er TZ-seitig als 4 min 33 sec/Tag-Drift sichtbar wird.
+1. **Ganz Buch 1 spielt in MZ 3635, Monat 1 (Torash).** Zwischen B1-Start und B1-Ende vergehen nur ~9 MZ-Stunden bei 8,5 TZ-Monaten Plot-Zeit.
+2. **Elke ist 12 MZ-Monate in Moragh, bevor Alphina ankommt.** TZ 154 Portal-Durchgang → MZ 3633, Monat 4 (Reshvan). Bis B1-Start vergehen 12 MZ-Monate ≈ 396 TZ-Jahre — passt zu *„knapp vierhundert Thalassien-Jahre"* in Plot-Texten.
+3. **Maren-Strandung in Vael (B2-K39, UZ 1987):** ~5 MZ-Monate nach B1-Ende = 167 TZ-Jahre Zeitdilatation. Nicht „acht Monate" — die Aktplan-Aussage ist Plot-Drift und sollte korrigiert werden.
+4. **Varens Alter:** Mitte–Ende 40 (MZ-Jahre). Bei 1 MZ-Jahr = 264 TZ-Jahre wäre er aus TZ-Sicht „~12.000 TZ-Jahre alt" — irrelevant, weil er in MZ lebt.
+5. **4:33-Canon** (Vespers Uhren-Anomalie): unverändert — die 4:33-Periode ist die Steinkreis-Eigenschwingung, nicht aus dem Konversions-Verhältnis abgeleitet.
 
 ## Tool
 

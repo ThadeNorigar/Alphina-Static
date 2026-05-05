@@ -2,11 +2,11 @@
   "meta": {
     "titel": "Der Riss — Zeitleiste",
     "untertitel": "Eine Welt, ein Riss, zwei Zeiten — chronologisch",
-    "beschreibung": "Strikte Chronologie. TZ = Thalassien-Zeitrechnung. MZ = Moragh-Zeitrechnung (26h/Tag, 8 Monate à 36 Tage). Kopplung am Übergang B1→B2: 1 MZ-Jahr ≈ 400 TZ-Jahre. **Felder:** `tz` enthält echte TZ-Welt-Jahre und ist NUR gesetzt bei B1-Events, B0-Hintergrund, Sync-Events und B3-Thalassien-Echo-Ankern (Maren-SFG 1990, Expedition 1: 2020, Maren-Tod 2037, Syra+Kelvar 2080, Expedition-2-Plan 2110, Expedition 2: 2120, Portal-Finale 2152, Kind-in-Vael 2155). `mz` enthält echte Moragh-MZ-Werte. `tz_sort` ist reine Sortier-Marke über alle Bücher hinweg. `tz_datum` ist formatierter Anzeigetext.",
+    "beschreibung": "Strikte Chronologie. UZ = unsere Zeit (Gregorianisch, irdisch). TZ = Thalassien-Zeit (12 Monate Eismond–Dunkelmond, TZ-Jahr = UZ-Jahr − 1269). MZ = Moragh-Zeit (8 Monate Torash–Shelkam, 26h/Tag, 36 Tage/Monat). **Konversion (Canon, User-bestätigt 2026-05-05):** 1 MZ-Monat = 33 TZ-Jahre. 1 MZ-Jahr = 264 TZ-Jahre (8 × 33). Frühere 400er-Faustregel stammte aus 12-Monats-Kalender und ist überholt. **Felder:** `tz` = echtes TZ-Jahr (gesetzt bei B1, B0, Sync-Events und B3-Thalassien-Echo-Ankern). `mz` = MZ-Jahr-Float (Moragh-Events). `tz_sort` = reine Sortier-Marke. `tz_datum` = formatierter Anzeigetext.",
     "zeitrechnung": {
-      "tz_null": "Erfindung des Uhrwerks",
-      "mz_null": "Besiedelung von Moragh",
-      "verhaeltnis": "1 MZ-Jahr = 400 TZ-Jahre",
+      "tz_null": "Erfindung des Uhrwerks (~UZ 1269)",
+      "mz_null": "Besiedelung von Moragh (TZ −959.089)",
+      "verhaeltnis": "1 MZ-Monat = 33 TZ-Jahre · 1 MZ-Jahr = 264 TZ-Jahre (8 Monate × 33)",
       "mz_kalender": {
         "tag": "26 Stunden (Eigenrotation)",
         "woche": "8 Tage (Gor-Umlauf, der Rote Mond)",
@@ -136,10 +136,10 @@
         "umrechnung": "UZ-Jahr = TZ-Jahr + 1269. UZ-Monat entspricht TZ-Monat (Eismond=Januar, Sturmmond=Februar, ...). UZ-Tag = TZ-Tag (Gregorianisch, 1:1). Schaltjahre folgen Gregorianischer Regel."
       },
       "mz_anker": {
-        "ankerpunkt": "MZ 0 = Besiedelung von Moragh = TZ -1.453.449 (absoluter Nullpunkt)",
+        "ankerpunkt": "MZ 0 = Besiedelung von Moragh = TZ -959.089 (absoluter Nullpunkt, abgeleitet aus B1-Anker bei 264 TZ-Jahren/MZ-Jahr)",
         "b1_start_mz": "21. Saatmond 551 TZ ≈ MZ 3635, 1. Torash (Monat 1, Licht-Halbjahr, Jahresanfang)",
-        "b1_umfang_in_mz": "Buch 1 (9 TZ-Monate) = ~0.025 MZ-Jahre = ~7 MZ-Tage. Ganz Buch 1 spielt in MZ 3635, Monat 1 (Torash), Tag 1 bis ~Tag 8.",
-        "umrechnung": "TZ-Jahre seit MZ 0 ÷ 400 = MZ-Jahr. Innerhalb MZ-Jahr: 8 Monate à 36 Tage = 288 Tage. Zeitdilatation: 1 MZ-Stunde entspricht ~468 TZ-Stunden (astronomisch), 400 TZ-Jahre = 1 MZ-Jahr (erzählerisch)."
+        "b1_umfang_in_mz": "Buch 1 (9 TZ-Monate ≈ 0.27 MZ-Tage) spielt komplett am 1. Torash 3635 — von ~03h bis ~17h innerhalb desselben MZ-Tages.",
+        "umrechnung": "TZ-Jahre seit MZ 0 ÷ 264 = MZ-Jahr. Innerhalb MZ-Jahr: 8 Monate à 36 Tage = 288 Tage. Zeitdilatation: 1 MZ-Monat = 33 TZ-Jahre, 1 MZ-Jahr = 264 TZ-Jahre. Tool: scripts/zeitrechnung.py."
       }
     },
     "schema_version": 3
