@@ -108,17 +108,19 @@ Pro Hauptfigur sicherstellen, dass jedes Schlüssel-Erlebnis als Zeitleisten-Eve
 **Nach `19-varen.md` §1 Stimme & Rhetorik gerettet:**
 - Captivity-Stimm-Beispiele: „Der Bund benutzt meine Methode — meine versehentliche Entdeckung — als Waffe." + „Ich muss sie stoppen. Und ich muss die toten Quellen reparieren."
 
-**Aktplan-To-do (für späteres Einarbeiten in `06-09-buch2-akt*.md`):**
+**Aktplan-Einarbeitung — Status: ✓ erledigt 2026-05-05.** Re-Mapping nach Akt-Refit 2026-05-02 (Akt-II-Grenze auf K17, Akt-IV-Beginn auf K28). Alle 7 Beats eingearbeitet:
 
-| Beat | Wo einzubauen | Inhalt |
+| Beat | Eingebaut in | Inhalt |
 |---|---|---|
-| 9.14 | B2 Akt II/III (`07-buch2-akt2.md`) | Junger Bund-Offizier vertraut Alphina an: „Quellen-Überladungs-Methode löscht aus, verteidigt nicht" — Aufdeckungs-Szene |
-| 9.15 | B2 Akt II/III | Atmosphärische Vorzeichen: Karten werden eingerollt, Gespräche brechen ab, wenn sie den Raum betritt |
-| 9.21 | B2 Akt IV K26 oder K27 | Alphina zögert kurz vor der Quellen-Zerstörung („eine Quelle, eine Stadt, Menschen die dort leben") — tut es trotzdem |
-| 9.22 | B2 Akt IV K26 (Wegquelle) oder K27 | Konsequenz-Beat nach Quellen-Tod: Schmied bricht zusammen („Werkzeuge brauchen Magie"), Kinder schreien |
-| 9.23 | B2 Akt IV K27 oder K28-Auftakt | Bund-Meister „Gute Arbeit" — etwas anderes in den Augen, sie haben etwas losgelassen |
-| 9.29 | B2 Akt IV Phase 1 K28-K30 | Captivity-Tour-Details: Kind-jetzt-Greis am Todzonen-Rand, Skelette an Stellen wo Magie versiegte, Purpurstein-Mauer mit eingeritzten Namen (200/Stein), grauer Krater ohne Echo |
-| 9.31 | B2 Akt IV K32 (Mar-Keth-Geständnis-Fassade) | Abgefangene Bund-Kommunikation als Beweis: Pläne für weitere Quellen-Überladungen, Städte-Todesliste |
+| 9.14 | `08-buch2-akt3.md` K26 (Wegquelle) | Junger Bund-Späher beim Aufbruch ins Vorlager: „Das war Auslöschung. Keine Verteidigung." Tschechow für B3-K23 (Garten-Reveal). |
+| 9.15 | `07-buch2-akt2.md` K11 (Halvaren-Zweifel) | Karten werden eingerollt, Bund-Hauptmann unterbricht Gespräch mitten im Satz, deckt Aquädukt-Plan mit Hand ab — Maren registriert es vor Alphina. Tschechow für K20+K24. |
+| 9.21 | `08-buch2-akt3.md` K26 (Wegquelle) | Alphinas halbe-Atemlänge-Zögern vor dem Quellen-Tod („Eine Quelle. Eine Stadt. Menschen, die dort leben."). Sie drückt weiter. Hass macht ungeduldig. |
+| 9.22 | `08-buch2-akt3.md` K27 (Halvara-Kel) | Zivilisten-Beat: Schmied bricht zusammen („Werkzeuge brauchen Magie"), Kinder am Brunnen ohne Magie-Pumpe, alte Frau atmet zu schnell. Alphina registriert es nicht bewusst — Körper speichert. Tschechow für B3-K23. |
+| 9.23 | `08-buch2-akt3.md` I6 (Drael-Interludium) | Drael denkt an Bund-Meister: „Gute Arbeit" mit etwas anderem in den Augen. Schreibt: „Verlust an Strategischer Klarheit beobachtet." Tschechow für B3 (Bund-Faktion-Selbsterkenntnis). |
+| 9.29 | `09-buch2-akt4.md` K31 (Karten-Lecture) | Tour-Details an der Karten-Wand: Junge-jetzt-Greis-mit-29 (Resonanz-Drift), Heiler+Patient in Dulrath-Kapelle gleicher Atemzug, Reshkol-Purpurstein-Mauer mit ~200 Namen pro Stein, grauer Krater ohne Echo. Tschechow für B3-K23 (kühle Faszination in Varens Notizen). |
+| 9.31 | `09-buch2-akt4.md` K32 (Mar-Keth-Geständnis) | Abgefangene Bund-Korrespondenz mit Plänen für drei weitere Quellen-Überladungen (Sulkara, Korm-Vesh, Iren-Tara) + Städte-Todesliste. Varen rahmt als Notwendigkeit zum Eingreifen. Tschechow für B3-K23 (Alphina findet Varens **eigene** Listen mit anderen Notizen). |
+
+Alle 7 Beats sind außerdem in den Tschechow-Tabellen der jeweiligen Aktpläne eingetragen, sodass sie bei `/entwurf`-Sessions vom Kontext-Extraktor mit aufgegriffen werden.
 
 **Verworfen (veraltete oder falsche Beats):**
 - 9.25 „Bindungs-Ketten halten Alphina" — Mechanik falsch (synopse-b2 K27 hat Druck/Zeit/Energie + Velmar-Halsband)

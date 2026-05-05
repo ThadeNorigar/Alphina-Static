@@ -138,7 +138,11 @@ Alphina + Runa reisen zur Bund-Front bei Halvara-Kel. Drael persönlich empfäng
 
 **Probelauf.** Drael sagt es offen: *„Wenn du es kannst, dann hier. Dann sehen wir, ob die Hauptquelle in der Stadt überhaupt deine Mühe wert ist. Niemand wohnt in dem Radius."*
 
-Alphina geht zur Quelle. Legt Hände auf den Fels über dem Pulspunkt. Spürt die Wärme — kleiner als die in K3-Dravek, aber gleiche Art. Sie drückt mit ihrer Resonanz hinein. Wurzeln tief. Pulse, die sich gegenseitig auslöschen. Die Quelle zuckt, zieht sich zurück, kollabiert.
+Alphina geht zur Quelle. Legt Hände auf den Fels über dem Pulspunkt. Spürt die Wärme — kleiner als die in K3-Dravek, aber gleiche Art.
+
+**Kurzes Zögern (Beat 9.21):** Bevor sie die Wurzeln sinken lässt, hält sie eine halbe Atemlänge inne. *Eine Quelle. Eine Stadt. Menschen, die dort leben.* (Kein Mensch lebt im Wegquellen-Radius — sie weiß das. Sie denkt es trotzdem.) Sie drückt weiter. Hass macht ungeduldig.
+
+Sie drückt mit ihrer Resonanz hinein. Wurzeln tief. Pulse, die sich gegenseitig auslöschen. Die Quelle zuckt, zieht sich zurück, kollabiert.
 
 **Quellen-Kollaps-Wirkung schlägt durch (Canon `10-magie-system.md`):**
 - Magier-Vorhut beidseits — Bund-Späher und Thar-Späher in einem 800-Meter-Radius — Speicher leer instant. Sie taumeln, einer fällt vom Pferd.
@@ -147,6 +151,8 @@ Alphina geht zur Quelle. Legt Hände auf den Fels über dem Pulspunkt. Spürt di
 - Drael steht ein paar Schritte entfernt, registriert es kühl: *„Halvara-Kel. Morgen früh. Versammlung der Bund-Vorhut um sechs."*
 
 Alphina nickt. Schwankt, aber nickt. Sie denkt an Varen. Morgen früh.
+
+**Junger Bund-Magier (Beat 9.14):** Beim Aufbruch ins Vorlager spricht sie ein junger Bund-Späher an, allein, im Schatten der Pferde. Er ist Ende zwanzig, Stufe-3-Energie-Resonanz, hat den Quellen-Tod körperlich gespürt. *„Was Sie da getan haben — das war Auslöschung. Keine Verteidigung."* Er sagt es nicht laut. Er hält ihr den Steigbügel. Sie hört es. Sie steigt auf. Er tritt zurück. Tschechow für B3 — Alphinas zweite Erkenntnis nach dem Maren-Brief baut auf diesem Beat.
 
 POV-Wahl: Alphina.
 
@@ -169,6 +175,7 @@ POV-Wahl: Alphina.
 **Quellen-Kollaps-Wirkung Halvara-Kel (innerhalb Stadt):**
 - Thar-Magier in der Stadt verlieren Speicher instant — Magitech-Bestien fallen aus, Schemen-Soldaten lösen sich, Bund-Vorhut bekommt Bahn frei.
 - Bund-Magier in 1-Kilometer-Radius außerhalb der Stadt: ebenfalls Speicher leer.
+- **Zivilisten-Beat (Beat 9.22):** Ein Schmied bricht in seiner Werkstatt zusammen, Hand am Amboss — *„Werkzeuge brauchen Magie."* (Thar-Magitech-Werkzeug-Kultur: Hämmer mit Resonanz-Kern, instant wertlos.) Im Hintergrund schreien Kinder am Brunnen, der ohne Magie-Pumpe nicht mehr fördert. Eine alte Frau hält ein Tuch vor das Gesicht und atmet zu schnell. Alphina sieht es im Vorbeigehen, durch eine Fenster-Lücke, eine Sekunde, nicht länger. Sie speichert es nicht bewusst — der Körper speichert es trotzdem. Tschechow für B3-K23 (Garten-Reveal).
 - **Alphina geht in die Knie**, schwerer als bei der Wegquelle — sie hat in einer größeren Quelle geendet. Trauma im Brustkorb.
 - Runa kämpft sich zu ihr durch — Schnittwunden vom Klingen-Kontakt mit Bund-eigenen Soldaten (Identifikations-Chaos), eine gebrochene Rippe.
 
@@ -195,6 +202,8 @@ Drael in seinem Quartier nach der Schlacht. Bund hat Halvara-Kel. Aber die Quell
 
 Er schreibt einen Bericht nach Orath. *„Resonanz-Träger entkommen, Quelle Halvara-Kel tot, Velmar-Beteiligung wahrscheinlich, Identität unklar."* Velmar als Ganzes verdächtigt — er ahnt nicht, dass es ein einzelner Verstoßener ist. **Setup für B3** (Drael findet Varens Identität erst spät, nach Marens Brief-Spur).
 
+**Bund-Meister-Beat (Beat 9.23):** Drael denkt an die Bund-Meister, die nach dem Quellen-Tod *„Gute Arbeit"* gesagt haben. Drei von ihnen, im Vorlager, mit dem Tee in der Hand. Worte freundlich, korrekt, abgestimmt. Aber etwas anderes lag in den Augen — kein Triumph, keine Erleichterung. Etwas, für das Drael keine Vokabel findet. *„Sie haben etwas losgelassen,"* notiert er und streicht es wieder durch. Schreibt: *„Verlust an Strategischer Klarheit beobachtet."* Tschechow für B3 — die Bund-Faktion, die Quellen-Überladung als Methode etabliert hat, hat ihre Grenze überschritten und weiß es selbst.
+
 POV-Wahl: Drael.
 
 ---
@@ -209,6 +218,9 @@ POV-Wahl: Drael.
 | Varen-Auftritt 2 mit Halvara-Kel | K24 | K27 (Falle springt zu) |
 | Drael-Brief versiegelt | K25 | K27 (Drael ahnt nichts von Varen-Falle), B3 (Drael vs. Varen) |
 | Wegquelle-Kollaps-Wirkung | K26 | K27 (zweite, größere Wirkung in Halvara-Kel) |
+| Junger Bund-Späher: „Auslöschung, keine Verteidigung" | K26 | B3-K23 (Garten-Reveal — Alphinas zweite Erkenntnis-Schicht) |
+| Halvara-Kel Zivilisten-Beat (Schmied + Kinder + alte Frau) | K27 | B3-K23 (Garten-Reveal), B3-K38 (Portal-Quelle-Überladung als Anti-Beat) |
+| Bund-Meister „Gute Arbeit" — andere Augen | I6 | B3 (Bund-Faktion-Erkenntnis von eigenen Grenzen) |
 | Velmar-Lederhalsband K27 | K27 | Akt IV (Drainage-Mechanik), B3-K77 (Halsband-Bruch im Duell) |
 | Vesper-Logik-Kette zu Varen | K27-Aftermath | Akt IV (Suchplan), B3 (Varen-Recherche) |
 | Marens versiegeltes Bündel bei Elke | K21 | B3-Akt-II (Alphina findet Brief unter dem Stein) |

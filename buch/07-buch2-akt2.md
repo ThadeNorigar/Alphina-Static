@@ -59,6 +59,8 @@ Wochen in Halvaren. Sprache vertieft, sie können selbst sprechen. **Erste sozia
 
 Nach Monaten Magie-Überraschung kommen jetzt **Zweifel**. Das Bund-System ist nicht das, was die Älteste in Narthek vorgeführt hat. Maren erinnert die anderen an den **Wasserweg-Riss bei Dravek** — sie haben jetzt schon Jahrzehnte zuhause verloren, jeder weitere Monat ist verloren. Alphina: *„Nicht ohne Varen."* Spannung in der Gruppe — zum ersten Mal explizit. Vesper schweigt, hört zu. Runa schaut Alphina an.
 
+**Atmosphärische Vorzeichen (Beat 9.15):** Karten werden eingerollt, wenn Alphina den Bund-Offiziers-Tisch im Quartier passiert. Ein Bund-Hauptmann unterbricht ein Gespräch mitten im Satz, als sie den Aquädukt-Plan unterzeichnen lassen will. Maren registriert es vor Alphina — sie sieht den Hauptmann das Papier mit der Hand abdecken, als wäre es ein Glas mit einer Fliege drin. Sie sagt es niemandem. Tschechow für K20 (Drael-Pakt) und K24 (Velmar-Lehre) — die Bund-Strukturen halten sie auf Distanz, sobald sie nützlich werden könnten.
+
 POV-Wahl: Maren, weil sie das Wasserweg-Motiv trägt und der Konflikt mit Alphina hier explizit wird.
 
 ### Kap. 12 — Runa (S. 222–242, ~5.000 Wörter)
@@ -156,6 +158,7 @@ POV-Wahl: Runa, weil sie das Stille-Motiv trägt und ihr Schwur für ganz B2/B3 
 | Talven-Erstkontakt + Helferrolle | K9 | K15 (Hunger-Blick), B2-Akt-III/IV-Andeutung, B3 (Held-Zerfall, Blutmagie-Selbstlehre) |
 | Vesper+Maren BDSM-Verankerung | K10 | K19 (sie spürt seinen kommenden Abrutsch zur Thar), K21 (Abschiedsmotiv) |
 | Soziale Ungerechtigkeiten Bund | K11 | Akt-III (Alphina lehnt Drael-Pakt ab), B3 (Bund-Kritik) |
+| Atmosphärische Vorzeichen — Karten eingerollt, Gespräche brechen ab | K11 | K20 (Drael-Pakt), K24 (Velmar-Lehre — Bund-Distanz vor Nützlichkeit) |
 | Maren-Wasserweg-Erinnerung | K11 | K21 (Drei-Ablehnungs-Szene), K39 (Solo-Durchgang) |
 | Magie-Arbeit (Disproportion sichtbar) | K12 | K15 (Druckereifeuer öffentlich), Talvens Hunger-Beat |
 | Elke-Varen-Geschichte (öffentliche Version) | K13 | K16 (Elkes Mitschuld-Geständnis), B3 (Antagonist-Reveal vollständig) |

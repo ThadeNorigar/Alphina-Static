@@ -88,6 +88,15 @@ Alphina ist seit fünf Tagen in Torkal. Hat den Raum verlassen, hat Varens Bibli
 
 Varen führt sie zur **Karten-Wand**: vier rote Markierungen. Drei alt — Mar-Keth, Dulrath-Ost, Reshkol. Eine neu — Halvara-Kel. *„Vier Quellen tot. Drei meine, eine deine. Die Frage die ich dir stellen werde, kannst du nicht ohne meine Antwort beantworten — also lass mich erzählen."*
 
+**Tour-Details an der Karten-Wand (Beat 9.29):** Varen tippt mit dem Finger auf jede der drei alten Markierungen und gibt der Karten-Wand eine Stimme:
+
+- *„Mar-Keth, drei Jahre nach dem Verlust. Ein Junge, sieben Jahre alt, der über Nacht ergraut ist — Resonanz-Drift hat sein Altern beschleunigt, als die Quelle starb. Er ist jetzt Greis. Er ist neunundzwanzig."*
+- *„Dulrath-Ost. Skelette an Stellen, wo Magie versiegte. Heiler in der Kapelle, die Hand über dem Patienten — beide gefallen, gleicher Atemzug. Magie weg, Wirkung weg, Knochen geblieben."*
+- *„Reshkol. Eine Purpurstein-Mauer am Stadtrand. Die Überlebenden haben Namen eingeritzt, die nicht mehr da sind. Etwa zweihundert pro Stein."*
+- *„Und in der Mitte: ein grauer Krater ohne Echo. Wenn ich rufe, kommt nichts zurück. Nicht einmal das Echo."*
+
+Alphina hört zu. Sie sieht die Bilder. Varen weiß, dass sie sie sehen wird. Tschechow für B3-K23 (Garten-Reveal — sie wird sich an die Tour-Details erinnern, wenn sie versteht, dass er dieselben Skelette mit kühler Faszination notiert hat).
+
 Er beginnt nicht mit dem Geständnis. Er beginnt mit **dem Versuch**: er hat vor neun MZ-Jahren ein Leylinien-Experiment unter Mar-Keth durchgeführt, das drei benachbarte Quellen koppeln sollte — stärker, weiter, magielose Flächen besiedelbar machen. Er erklärt die Theorie eloquent, präzise, mit Skizzen. Alphina versteht jeden Schritt — sie ist Botanikerin, sie kennt das Prinzip von Symbiose-Netzwerken. Wenn die Theorie stimmt, war das Experiment plausibel.
 
 **Verführungs-Beat:** Er fragt sie, was sie über Quellen-Kollaps weiß. Sie antwortet (aus Velmar-Lehre). Er hört zu. Notiert. *„Du hast in sechs Wochen mehr verstanden als die Velmar-Hochbinder in zwanzig Jahren."* Sie weiß, dass das übertrieben ist. Aber sie hört es, und etwas in ihr nimmt es. Setup für die Bekehrung.
@@ -102,6 +111,10 @@ POV-Wahl: Alphina.
 Vor neun MZ-Jahren. Mar-Keth-Quelle, von Velmar verwaltet, schwächer geworden über das letzte Jahrhundert. Varen war damals Velmar-Forscher, Haus Keth, Stufe 5 in Druckmagie und Bindungsmagie, Stufe 6 in Quellenforschung. Sein Leylinien-Experiment war von Velmar genehmigt — drei Quellen koppeln, das System schlug durch. **Drei Quellen tot, ~200.000 Menschen heimatlos.** Velmar hat ihn verdeckt ausgestoßen — *„um die Velmar-Kaste vor Imageschaden zu schützen"*. Andere Fraktionen wissen seinen Namen nicht. Krieg brach aus, weil Thar die Explosion als Bund-Angriff las.
 
 *„Was ich seitdem versucht habe: das wieder zu reparieren. Ich habe Methoden entwickelt, tote Quellen zu reaktivieren — kurz, unzureichend, aber sie pulsieren wieder. Ich brauche eine Resonanz, die azyklisch ist. Thalassische Resonanz. Du."*
+
+**Abgefangene Bund-Pläne (Beat 9.31):** Er legt einen Stoß Papiere auf den Tisch. Bund-Korrespondenz, Siegel der Faktion, die Halvara-Kel als Demonstrations-Akt geplant hatte. Pläne für **drei weitere Quellen-Überladungen** — Sulkara, Korm-Vesh, Iren-Tara. Zeitfenster: nächste sechs MZ-Monate. Plus eine Liste mit Stadtnamen und ungefähren Einwohnerzahlen — Städte-Todesliste, in nüchterner Bund-Hand. *„Wenn ich nicht repariere, machen sie weiter. Was ich vor neun Jahren falsch gemacht habe, ist jetzt Doktrin geworden. Ich muss es zurückziehen. Du musst mir helfen."*
+
+Alphina liest. Die Hand auf dem ersten Brief, dann auf der Liste. Die Pläne sind echt (sind sie auch — Varens Spitzel sind real, die Bund-Faktion plant tatsächlich; was Varen verschweigt, ist dass er die Pläne nicht aufhalten will, sondern als Hebel nutzen). Sie hört das *Ich muss es zurückziehen* und das *Du musst mir helfen* und glaubt beides. Tschechow für B3-K23 (sie wird die Listen wiederfinden, in einer anderen Mappe, mit anderen Notizen — Varens **Plan** für die Quellen, nicht nur abgefangene Bund-Pläne).
 
 Alphina hört zu. Sie sieht keine Lüge. (Und tatsächlich: in B2 sagt er **die halbe Wahrheit** — das Experiment hat es gegeben, die Quellen sind tot, sie waren ein Fehler. Die volle Wahrheit kommt in B3-K77: er hat das Experiment **nicht aus Forschung** gemacht, sondern als Machtgriff gegen Velmar, der schiefging. Plus er hat Sorel kalkuliert sterben lassen, hat die Falle in Vael bewusst auf vier Resonanzen ausgelegt, hat Ritual-Plan für Vier-Thalassier-Absorption.)
 
@@ -329,7 +342,9 @@ POV-Wahl: Vesper. Cliffhanger trägt seine Schach-Logik weiter in B3.
 |---|---|---|
 | Velmar-Lederhalsband mit Sigil | K28 | B3 (Vespers Helm sieht Sigil pulsen, K77 Halsband-Bruch im Duell) |
 | Karten-Wand vier Markierungen | K31 | B3 Akt I (Reparatur-Reise zu allen vier Quellen, jede stirbt wieder) |
+| Tour-Details an der Karten-Wand (Junge-jetzt-Greis, Skelette, 200-Namen-Mauer, grauer Krater) | K31 | B3-K23 (Garten-Reveal — kühle Faszination in Varens Notizen) |
 | Mar-Keth-Geständnis (Fassade) | K32 | B3 K77 (volle Wahrheit: Machtgriff statt Forschung) |
+| Abgefangene Bund-Pläne (Sulkara, Korm-Vesh, Iren-Tara) + Städte-Todesliste | K32 | B3-K23 (Alphina findet Varens eigene Listen, andere Notizen — er hatte sie nicht nur abgefangen, er hatte sie nicht aufhalten wollen) |
 | Vier-Thalassier-Liste in Schublade | K35 | B3 Akt III (Vesper findet sie als Ritual-Kalkül-Beweis) |
 | I7 Varen-POV: Ritual-Plan-Andeutung | I7 | B3 Akt III/IV (Ritual-Reveal vollständig) |
 | Halsband-Drainage Variante C | K36 | K44 (Schlacht-Aktivierung), B3 (Sitzungen über Monate) |
