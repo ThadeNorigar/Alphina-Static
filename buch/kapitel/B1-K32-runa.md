@@ -4,21 +4,23 @@
 
 Halvard war vor einer Stunde mit dem Karren weggefahren. Joran lag darin, unter einem Tuch. Runa stand in der leeren Druckerei und sah sich um.
 
-Vier Brandstellen waren aus der letzten Nacht eingebrannt. Heute morgen hatte Maren den Arm um sie gehalten, und sie hatte weggesehen. Jetzt sah sie hin.
+Vier Brandstellen aus der letzten Nacht zeichneten sich noch ab. Heute morgen hatte Maren den Arm um sie gehalten, und sie hatte weggesehen. Jetzt sah sie hin.
 
-Maren hatte bleiben wollen. Alphina auch. Vesper hatte den Mantel nicht abgelegt — ein Zeichen, dass er gehen würde, wenn sie es sagte. Sie hatte es gesagt. *Geht alle nach Hause.* Sorel hatte den Kopf gehoben und sie angesehen, als wollte er fragen. Sie hatte nicht geantwortet. Maren war zuletzt durch die Tür gegangen und hatte noch einen Blick über die Schulter geworfen. Runa hatte den Riegel vorgelegt. Das Klacken des Eisens hallte. Ihre Hand am Riegel war wärmer als das Eisen unter ihren Fingern.
+Maren hatte bleiben wollen, Alphina ebenso. Vesper hatte den Mantel anbehalten — er würde gehen, wenn sie es sagte. Sie hatte es gesagt. *Geht alle nach Hause.* Sorel hatte den Kopf gehoben und sie angesehen, als wollte er fragen. Sie hatte nicht geantwortet. Maren war zuletzt durch die Tür gegangen und hatte noch einen Blick über die Schulter geworfen. Runa hatte den Riegel vorgelegt. Das Klacken des Eisens hallte. Ihre Hand am Riegel war wärmer als das Eisen unter ihren Fingern.
 
 Die Wunde an ihrer Augenbraue zog. Halvard hatte einen Streifen Leinen darübergelegt; sie hatte sich die Stelle nicht angesehen.
 
-Sie ging zum Setzkasten. Der Hocker stand davor, ihre Stelle. Der Brandfleck am Boden begann eine Handbreit vor dem Hocker — einen Schritt breit, tief in die Dielen gebrannt, mit einer flachen Mulde in der Mitte.
+Sie ging zum Setzkasten. Der Hocker wartete davor, ihre Stelle. Der Brandfleck am Boden begann eine Handbreit vor dem Hocker — einen Schritt breit, tief in die Dielen gebrannt, mit einer flachen Mulde in der Mitte.
 
-Dann zum Türrahmen. Kniehoch im Eichenholz saß ein Abdruck, eine Hand mit gespreizten Fingern. Sie hatte sich beim Rausrennen festgehalten.
+Dann zum Türrahmen. Kniehoch im Eichenholz brannte ein Abdruck, eine Hand mit gespreizten Fingern. Sie hatte sich beim Rausrennen festgehalten.
 
-Zur Presse. Am Holzrahmen, in Hüfthöhe, fand sich ein zweiter Abdruck, kleiner. Sie war an der Presse vorbeigegangen und hatte sich noch einmal gehalten, als die Knie weich wurden.
+Auf der Werkbank lag noch Jorans Bleistift, hinter dem Ohr getragen, mit Bissspuren am Ende. Sie liess ihn liegen.
 
-Sie hob den Blick. Über der Presse war in den Putz der Decke eine schwarze Krone gebrannt, von der Grösse eines Tellers. Über Jahre hatte sich der Russ der Lampenflamme auf dem Putz abgesetzt. In einem Atemzug war er aufgeschossen.
+Zur Presse. Am Holzrahmen, in Hüfthöhe, brannte ein zweiter Abdruck, kleiner. Sie war an der Presse vorbeigegangen und hatte sich noch einmal gehalten, als die Knie weich wurden.
 
-Sie ging zurück zum Setzkasten und setzte sich auf den Hocker. Sie hatte elf Jahre auf diesem Hocker gesessen. Ihre Füsse standen rechts und links vom Brandfleck. Sie spürte die Kälte der Dielen durch die Sohlen ihrer Stiefel.
+Sie hob den Blick. Über der Presse prangte in den Putz der Decke eine schwarze Krone, von der Grösse eines Tellers. Über Jahre hatte sich der Russ der Lampenflamme auf dem Putz abgesetzt. In einem Atemzug war er aufgeschossen.
+
+Sie kehrte zurück zum Setzkasten und setzte sich auf den Hocker. Sie hatte elf Jahre auf diesem Hocker gesessen. Ihre Füsse flankierten den Brandfleck. Sie spürte die Kälte der Dielen durch die Sohlen ihrer Stiefel.
 
 Sie schloss die Augen. Sie war wieder dort.
 
@@ -36,7 +38,7 @@ Sie sieht ihre Hände an. Der rechte Hemd-Ärmel ist am Saum schwarz. Die Haut d
 
 *Joran*, ruft sie.
 
-Joran kommt aus dem Trockenraum. Das Hemd offen am Hals, ein Stapel Bogen unter dem Arm. Sein Gesicht ist noch das von vor zwei Minuten, als sie über den Druckauftrag gesprochen haben.
+Joran tritt aus dem Trockenraum. Das Hemd offen am Hals, ein Stapel Bogen unter dem Arm. Sein Gesicht ist noch das von vor zwei Minuten, als sie über den Druckauftrag gesprochen haben.
 
 Hinter ihm tauchen die Augen auf — das zweite Wesen.
 
@@ -80,7 +82,7 @@ Den Geruch von verbrannter Wolle hatte sie noch in der Nase.
 
 Jetzt hielt sie die Hände offen vor sich. Sie ruhten. Was sie waren, wusste sie.
 
-Sie nahm einen Bleilettern-Block aus dem Setzkasten — ein A für ein Plakat, das sie morgen nicht drucken würde. Er lag schwer in der Hand, kühl-metallisch. Sie drehte ihn zwischen Daumen und Zeigefinger und drückte. Die obere Spitze gab nach, ein Hauch von Druck reichte. Als sie den Daumen wegzog, blieb der Abdruck als feiner Halbmond im Buchstaben.
+Sie klaubte einen Bleilettern-Block aus dem Setzkasten — ein A für ein Plakat, das sie morgen nicht drucken würde. Er lag schwer in der Hand, kühl-metallisch. Sie drehte ihn zwischen Daumen und Zeigefinger und drückte. Die obere Spitze gab nach, ein Hauch von Druck reichte. Als sie den Daumen wegzog, blieb der Abdruck als feiner Halbmond im Buchstaben.
 
 Sie sass still und sah ihn an. Den Abdruck kannte sie schon.
 
@@ -100,9 +102,13 @@ Sie blätterte rückwärts.
 
 **Erntemond.** Maren mit einem Auftrag, eine Tafel zu giessen. Sechs Bleilettern, sechs fremde Zeichen. Kein Vael-Alphabet, kein Karst, kein Sundstein. *»Vesper und ich arbeiten an einer Übersetzung«*, hatte Maren gesagt, beiläufig. Während Maren auf den Probedruck wartete, hatte Runa ihr einen Becher Tee hingestellt. Maren hielt ihn die ganze Zeit in der Hand. Als sie ging, dampfte er noch — eine Stunde nach dem Aufgiessen. *Maren — fremde Schrift. Vesper. Tee dampft in ihrer Hand zu lange.*
 
-**Erntemond.** Jara aus dem Archiv mit einer Bestellung — siebzig Etiketten in zwei Grössen. Beim Aufnehmen hatte Jara erzählt, was sie die letzten Wochen sortierte: ein altes Manuskript, vor vierhundert Jahren geschrieben, eine Schiffbauerin namens Lene Dahl. Vier Personen am Steinkreis im Botanischen Garten. Zwei seien hindurchgegangen, einer gestorben, eine geblieben. *»Vesper liest es seit Wochen«*, hatte Jara gesagt, stolz darauf, dass das Stück aus ihrer Sortier-Arbeit kam. Runa hatte den Auftrag aufgenommen, höflich gefragt, höflich aufgehört zu fragen. *Jara — Manuskript Lene Dahl, vierhundert Jahre. Vier am Steinkreis. Zwei hindurch. Vesper liest.*
+Sie blätterte weiter. Die Hände noch warm.
+
+**Erntemond.** Jara aus dem Archiv mit einer Bestellung — siebzig Etiketten in zwei Grössen. Beim Aufnehmen hatte Jara erzählt, was sie die letzten Wochen sortierte: ein altes Manuskript, vor vierhundert Jahren geschrieben, eine Schiffbauerin namens Lene Dahl. Vier Personen am Steinkreis im Botanischen Garten. Zwei seien hindurchgegangen, einer gestorben, eine geblieben. *»Vesper liest es seit Wochen«*, hatte Jara gesagt, stolz darauf, dass das Stück aus ihrer Sortier-Arbeit kam. Runa hatte den Auftrag aufgenommen, höflich gefragt, höflich aufgehört zu fragen. *Jara — Manuskript Lene Dahl, vierhundert Jahre alt. Vier standen am Steinkreis, zwei gingen hindurch. Vesper liest.*
 
 **Erntemond.** Sie war Alphina einmal abends gefolgt. Alphina hatte die Druckerei kurz nach acht verlassen und war durch die Hafengasse zur Oberstadt gegangen, statt nach Hause. Runa nahm den Mantel und ging hinter ihr her, drei Strassenbreiten Abstand. Am Gärtnerhaus stand die Nebentür einen Spalt offen, die Hauptpforte gegenüber abgeschlossen. Alphina ging hinein. Runa wartete einen Atemzug, dann ging sie auch. Hinter der mittleren Linde blieb sie stehen. Im Garten standen sieben hüfthohe Purpursteine in einem Kreis. Den Ort kannte sie aus dem Frühjahr; den Kreis hatte sie nie aus der Nähe gesehen. Alphina legte die Hand an einen Stein. Später kam Vesper dazu. Die beiden standen lange am Kreis, manchmal die Hand am Stein, manchmal die Hände vor sich. Einmal hob Vesper etwas vom Boden auf und liess es fallen — es brauchte zu lange, bis es aufschlug. Beim zweiten Versuch genauso. Runa ging zurück, ohne dass die zwei sie bemerkt hatten. Sie hatte es eingetragen. *Steinkreis Botanischer Garten. Sieben Purpursteine, hüfthoch. Alphina und Vesper üben dort. Etwas fällt zu langsam.*
+
+Sie lehnte sich zurück, sah einen Atemzug zum Fenster. Die Gasse war fast schwarz.
 
 **Herbstmond.** Sorel war zweimal abends durch die Hafengasse gegangen, in eine Richtung, die weder zum Lichthaus noch zu seinem Quartier führte. *Sorel — Hafengasse, abends, woanders hin.*
 
@@ -118,7 +124,7 @@ Im Garten hatte sie Alphina den Mittelpunkt-Verdacht selbst gegeben, damals im B
 
 Vier Fähigkeiten, eine pro Person. Bei Maren das Wasser — sie hatte es bei den fremden Lettern und am Tee in ihrer Hand gespürt. Vesper hatte mit der Zeit zu tun — was er damals im Steinkreis fallen liess, brauchte zu lange bis es aufschlug. Alphina suchte vermutlich die Pflanzen — sie sah Farne und Ranken anders an als andere. Sorel war ihr fremd geblieben. Dazu kam jetzt das Feuer. Den fünften Eintrag sparte sie sich. Sie wusste seit heute morgen, was er war.
 
-Sie kannte den Kreis. Was sie im Erntemond gesehen hatte, hatte sie als Botaniker-Übung abgelegt. Jetzt las sie es anders. Die Vier übten zwischen den Steinen, weil sie hindurchwollten — Jaras Manuskript erklärte wozu. Vor vierhundert Jahren waren vier diesen Weg schon gegangen.
+Sie kannte den Kreis. Was sie im Erntemond gesehen hatte, hatte sie als Botaniker-Übung verbucht. Jetzt las sie es anders. Die Vier übten zwischen den Steinen, weil sie hindurchwollten — Jaras Manuskript erklärte wozu. Vor vierhundert Jahren waren vier diesen Weg schon gegangen.
 
 Im Blütenmond, beim Abschied am Setzkasten, hatte Alphina sie ein zweites Mal umarmt, fester als die erste. Ihre Hand auf Runas Schulter blieb einen Atemzug zu lang. Runa hatte sie damals als Wohlwollen verbucht. Jetzt wusste sie es besser. Alphina hatte durch den Mantel die Hitze gespürt und den Mund gehalten.
 
@@ -132,13 +138,13 @@ Mitgehen würde sie trotzdem.
 
 ---
 
-Runa öffnete die Schublade und holte das Notizbuch heraus — rotes Leinen, die Ecken rau vom Tragen, der Rücken noch gerade. Sie legte es auf den Schreibtisch.
+Eine Weile später drehte sie den Schlüssel zurück und öffnete die Schublade wieder. Sie holte das Notizbuch heraus — rotes Leinen, die Ecken rau vom Tragen, der Rücken noch gerade. Sie legte es auf den Schreibtisch.
 
 Dann stieg sie die Stiege hinauf in die Wohnung, holte die Zinnflasche vom Regal neben dem Fenster. Sie kannte das Signet — Balkenwaage über offenem Buch, eingestanzt, nachgeschwärzt, zehn Jahre alt. Sie kam zurück und stellte die Flasche neben das Notizbuch. Der Leinenbeutel mit den selbst gegossenen Lettern lag in der Kiste unter dem Schreibtisch. Sie zog ihn heraus, fügte ihn dazu.
 
 Sie zählte drei Dinge. Mehr wollte sie nicht tragen. Was zwischen den sieben Steinen geschah, würde sie sehen, wenn sie dort stand.
 
-Das Papier lag im zweiten Fach der Schublade, unbenutzt, glatt. Sie glättete es auf der Schreibfläche, tauchte die Feder ein und schrieb. Tarn, Druckergeselle. Wenn ich nicht vor dem ersten Saatmond zurück bin, gilt diese Übergabe als vollzogen. Die Druckerei, das Inventar, die laufenden Aufträge. Edric von der Werft und Sievert, der Bäcker, als Zeugen. Sie kannte beide. Beide würden unterschreiben, wenn er sie fragte.
+Das Papier lag im zweiten Fach der Schublade, unbenutzt, glatt. Sie glättete es auf der Schreibfläche, tauchte die Feder ein und schrieb. Tarn, Druckergeselle. Sie hielt die Feder an, strich Druckergeselle durch. Begann neu: Tarn. Wenn ich nicht vor dem ersten Saatmond zurück bin, gilt diese Übergabe als vollzogen. Die Druckerei, das Inventar, die laufenden Aufträge. Edric von der Werft und Sievert, der Bäcker, als Zeugen. Sie kannte beide. Beide würden unterschreiben, wenn er sie fragte.
 
 Sie schrieb ihren Namen darunter, die Feder ein bisschen zu fest, der letzte Strich zu tief im Papier. Tarn sollte nicht warten.
 
@@ -160,4 +166,4 @@ Wann die Vier ernst machten, wusste sie nicht. Sie würde warten und drucken, wa
 
 Sie stand auf, beugte sich über die Lampe. Sie blies. Der Docht glomm einen Atemzug. Dann war es dunkel.
 
-Die Wärme in der Brust hielt.
+Die Wärme in der Brust hielt. Die Wolle ihres Mantels am Haken roch versengt.
