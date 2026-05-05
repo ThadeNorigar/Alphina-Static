@@ -285,9 +285,10 @@
       "33": {
         "titel": "Vesper",
         "pov": "Vesper",
-        "status": "idee",
+        "status": "entwurf",
         "woerter": null,
-        "text": "Vesper allein, Kerzen und Papier. Legt Uhren-Drifttabelle neben Marens Gezeitendaten neben Runas Schemen-Chronologie. Die Grundfrequenz 4:33 passt exakt in den Rhythmus der rückwärts fließenden Grauwe. Jemand auf der anderen Seite ATMET. Er rennt zur Werft: 'Deine Gezeiten. Meine Frequenz. Dasselbe Muster.'"
+        "text": "Vesper allein, Kerzen und Papier. Legt Uhren-Drifttabelle neben Marens Gezeitendaten neben Runas Schemen-Chronologie. Die Grundfrequenz 4:33 passt exakt in den Rhythmus der rückwärts fließenden Grauwe. Jemand auf der anderen Seite ATMET. Er rennt zur Werft: 'Deine Gezeiten. Meine Frequenz. Dasselbe Muster.'",
+        "entwurfs_datei": "B1-K33-entwurf.md"
       },
       "34": {
         "titel": "Alle",
