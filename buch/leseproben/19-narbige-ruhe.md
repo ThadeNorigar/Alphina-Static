@@ -4,29 +4,29 @@ pov: Alphina
 figuren: Alphina, Vesper, Runa (off-page)
 register: commercial Dark Romantasy — Epilog-Ton, narbige Zufriedenheit
 heat_level: keine (Ruhe)
-primaer_referenz: Yarros (Fourth Wing — Epilog-Register) — commercial-zugängliche Ruhe nach Sturm; Morrison (Beloved — Schluss) — Stille nach Trauma, leise Akzeptanz
-ergaenzende_referenz: Maas (ACOTAR — Bogen-Schluss) — Paar in Nachhall
-zweck: Ton-Referenz für B3-Epilog Halvek-Mar. Alphina und Vesper im Frieden, beide gezeichnet, Meer und Zeit vor ihnen. Keine Mate-Bond-Theatralik, keine Gloria. Zufriedenheit mit Narben. Commercial-zugänglich (Yarros-Ton), nicht literary-verschlossen.
-canon_status: Ton-Etüde, B3 Epilog. Nicht Plot-Canon.
+primaer_referenz: Morrison (Beloved — Schluss) FEHLT — Stille nach Trauma, leise Akzeptanz
+ergaenzende_referenz: Yarros (Fourth Wing — Aftermath-Modus) — commercial-zugängliche Ruhe nach Sturm; Maas (ACOTAR — Bogen-Schluss) — Paar in Nachhall
+zweck: Ton-Referenz für B3-Epilog Halvek-Mar. Alphina und Vesper im Frieden, beide gezeichnet, Meer und Zeit vor ihnen. Keine Mate-Bond-Theatralik, keine Gloria. Zufriedenheit mit Narben. Commercial-zugänglich (Yarros-Aftermath-Ton), nicht literary-verschlossen.
+canon_status: v2 Voice-Anchored Refit-Pipeline 2026-05-05
 ---
 
 Die erste gute Nacht kam im dritten Monat in Halvek-Mar.
 
-Alphina wachte auf, weil das Licht durchs Fenster kam, und nicht, weil ihr Körper sie weckte. Sie lag eine Weile still, und prüfte — wie sie es jetzt jeden Morgen prüfte — was da war. Der Zug in der linken Hand, ja, aber leise. Der Schmerz im rechten Schulterblatt, ja, aber weit hinten. Das Geräusch von Vespers Atem neben ihr. Das Meer.
+Alphina wachte auf, weil das Licht durchs Fenster fiel, und ihr Körper sie schlafen ließ. Sie blieb eine Weile liegen und machte ihre Inventur — den leichten Zug in der linken Hand, weit hinten; das Ziehen am rechten Schulterblatt, leise; Vespers Atem neben ihr; das Meer, das gegen die Pfeiler unter dem Haus arbeitete.
 
-Sie stand auf. Das ging jetzt wieder in einem Zug.
+Sie stand auf. Das ging wieder in einem Zug.
 
-Der Boden war kühl, der Tag schon warm. Im Eimer am Fenster stand das Wasser, das sie abends geholt hatte — sie holte es jetzt selbst, zwei Züge mit der rechten Hand, und die Linke hielt den Henkel, weil das ging, wenn die Finger Daumen und kleinen Finger waren und der Rest nur Stumpf. Vesper hatte ihr beigebracht, den Henkel anders zu greifen, und sie hatte es beim ersten Mal gut gemacht.
+Der Boden kühlte ihre Fußsohlen, der Tag draußen brachte schon Wärme. Im Eimer am Fenster stand Wasser von gestern Abend — sie holte es jetzt selbst, zwei Züge mit der gesunden Hand, und die linke griff den Henkel mit Daumen und Zeigefinger, weil das ging, wenn sie die drei Stümpfe darunter als Auflage benutzte. Vesper hatte ihr eine andere Griffweise gezeigt. Sie traf sie beim ersten Mal.
 
 Sie wusch sich das Gesicht.
 
-Im Spiegel über dem Tisch sah sie eine Frau, die sie manchmal kannte. Das Haar war kürzer als früher — sie hatte es abschneiden lassen, nicht aus Trauer, sondern weil es im Weg war, wenn sie mit der linken Hand nicht fassen konnte. Ihre Augen standen auf. Da war nichts darin, das sie nicht aushielt.
+Im Spiegel über dem Tisch sah sie eine Frau, die sie an manchen Tagen wiedererkannte. Das Haar reichte ihr bis übers Schlüsselbein — sie ließ es kürzen, weil es sich an der linken Hand verfing, wo nur Daumen und Zeigefinger fassen konnten. Ihre Augen standen offen. Sie hielten alles aus, was darin lag.
 
-Vesper drehte sich im Bett. Sie sah es im Spiegel. Er hatte den Stumpf-Unterarm unter den Kopf geschoben, wie jede Nacht, und die andere Hand lag auf der Stelle, wo sie gelegen hatte. Er fand die Stelle immer — sie hatte das einmal beobachtet, im ersten Monat, als sie heimlich zur Tür gegangen war, um auf den Steg zu gucken, und er hatte im Schlaf die Hand ausgestreckt, gefunden, dass sie nicht da war, und war aufgewacht. Sie war zurückgekommen und hatte sich zu ihm gelegt, und er hatte nichts gesagt, und sie hatte nichts gesagt.
+Vesper drehte sich im Bett. Sie sah es im Spiegel. Den Stumpfarm mit der Stoffmanschette schob er unter den Kopf, wie jede Nacht, und die gesunde Hand ruhte auf der Stelle, wo sie gelegen hatte. Er fand sie immer — sie beobachtete ihn dabei in der ersten Woche einmal, als sie sich aus dem Bett geschlichen war, um auf den Steg zu sehen. Im Schlaf streckte er die Hand aus, merkte, dass sie weg war, und schlug die Augen auf. Sie kam zurück, legte sich zu ihm, und keiner von beiden verlor ein Wort.
 
-Draußen rief eine Stimme — Runa, vom Dock her, wahrscheinlich mit Nyr, weil Kessler unten am Hafen arbeitete. Alphina öffnete das Fenster und winkte mit der rechten Hand, und Runa winkte zurück. Ein einfaches Gruß-Winken. Nicht zu lange. Nicht zu kurz.
+Draußen rief eine Stimme — Runa, vom Dock her, vermutlich mit Nyr, weil Kessler unten am Hafen arbeitete. Alphina öffnete das Fenster und winkte. Runa winkte zurück, kurz, gleichmäßig. Ein Gruß im Vorbeigehen, der genau das war.
 
-Sie zog sich an. Das Hemd über den Kopf, zwei Arme durch, der Kragen gerade. Der Rock band sich an der Seite zu, mit einem Haken, den sie selbst machen konnte. Sie brauchte neun Minuten dafür — sie hatte sie einmal gezählt, im zweiten Monat, und dann aufgehört zu zählen, weil aus neun Minuten irgendwann sechs werden würden.
+Sie zog sich an. Hemd über den Kopf, beide Arme durch, der Kragen gerade. Der Rock band sich seitlich mit einem Haken zu, den sie allein schloss. Neun Minuten brauchte sie dafür — sie zählte sie einmal in der dritten Woche und hörte danach auf, weil aus neun Minuten irgendwann sechs werden würden.
 
 Vesper öffnete die Augen.
 
@@ -34,11 +34,11 @@ Vesper öffnete die Augen.
 
 »Schon eine Weile.«
 
-»Warum hast du nichts gesagt.«
+»Warum hast du geschwiegen.«
 
-»Weil du geschlafen hast.«
+»Damit du schläfst.«
 
-Er richtete sich auf. Der Stumpf oben, die Hand unten. Er sah zum Fenster. Das Meer war heute klar, kein Wind, kein Schaum. Ein Boot lag in der Nähe des Stegs, eines von Marens — immer noch von Marens, auch wenn Maren seit langem in Thalassien war und nicht zurückkommen würde. Die Halveker würden die Namen nicht mehr ändern.
+Er richtete sich auf. Den Stumpfarm hob er, die gesunde Hand stützte ihn ab. Sein Blick ging zum Fenster. Das Meer blieb heute klar, ohne Wind, ohne Schaumkronen. Ein Boot dümpelte am Steg, eines von Marens — die Halveker ließen den Namen am Heck stehen, auch wenn Maren seit langem in Thalassien lag und niemandem mehr zurückkehren würde. Sie änderten die Namen ihrer Boote selten.
 
 »Tee?«, fragte er.
 
@@ -46,14 +46,14 @@ Er richtete sich auf. Der Stumpf oben, die Hand unten. Er sah zum Fenster. Das M
 
 »Ich mach.«
 
-»Du nicht mit einer Hand.«
+»Du mit einer Hand.«
 
-»Ich mit einer Hand. Schneller als du mit zweien.«
+»Mit einer Hand. Schneller als du mit zweien.«
 
-Sie lachte. Kurz. Es war nicht das erste Mal, aber noch immer selten genug, dass sie es selbst hörte.
+Sie lachte. Es kam knapp aus dem Hals, selten genug, dass sie es selbst noch hörte.
 
 Er stand auf. Sie ging zur Tür.
 
-Auf der Schwelle blieb sie einmal stehen und schaute zurück — auf ihn, am Waschtisch, die Hand im Becken, der Rücken zum Fenster. Sie sah einen Mann, der ihr gehörte.
+Auf der Schwelle hielt sie inne und schaute zurück — auf ihn am Waschtisch, die gesunde Hand im Becken, der Rücken zum Fenster. Sie sah einen Mann, der ihr gehörte.
 
 Sie ging die Treppe hinunter.

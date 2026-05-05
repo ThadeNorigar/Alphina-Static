@@ -7,24 +7,24 @@ heat_level: leise (Power-Exchange)
 primaer_referenz: Reisz (Original Sinners) — Power-Dynamik im Alltag, Submission als Entscheidung
 ergaenzende_referenz: Réage (Histoire d'O) — Dom-Stimme als Funktion, Kleidungs-Material als Spannungs-Rahmen
 zweck: Ton-Referenz für Maren/Vesper-Alltag mit aktivem Power-Exchange. Kein Set-Piece, keine Szene. Dom-Befehl bekommt Raum im Alltag, Sub folgt aus Wollen, Material (Mieder, Fischbeinleisten, Ösen, Schnürbänder) trägt die Dynamik. Physisch-räumlich vollständig konsistent nachgezogen — jede Kleidungs-Schicht benannt, jede Position eindeutig.
-canon_status: Ton-Etüde. Morgen im Karst-Zimmer. Nicht Plot-Canon. Vierte Version nach Autor-Feedback — abgebrochenes Ende rekonstruiert mit Gefühls-Wirkung (sein "Gut" landet in Marens Kehle, Knoten zwischen Schulterblättern als Tag-über-Anker), verbliebener Meta-Gloss Z.37 gestrichen ("das war nicht das Ziel..."), Subjekt-Ambiguität Z.25 ("Heute protestierte er nicht" → "An diesem Morgen nicht") behoben. v3 hatte Mieder-Position, Befehl-Klarheit, Erst-Meta-Gloss-Runde.
+canon_status: Ton-Etüde. Morgen im Karst-Zimmer. Nicht Plot-Canon. Fünfte Version (Mai 2026) — komplett neu geschrieben auf Basis von Réage (Histoire d'O) + SenLinYu (Alchemised). Réage-Werkzeuge: Material-Präzision pro Schicht (Messing-Haken, schwarze Seide, Fischbein, Batist, Schnürbänder mit Funktion), Befehl ohne Adverb, Macht-Verschiebung im Verb statt Aphorismus, Körper-vor-Erkenntnis mit Material-Anker (Fischbein-Oberkante). SLY-Werkzeuge: Reiz→Wirkung→Diagnose pro Schnürungs-Stufe, Pronomen-Disziplin, Worldbuilding im Tag-über-Beat (Pegel/Werftbohlen/Auftragsbücher). Antithesen, Stakkato-Doppel, Aphorismen, hypothetische Selbst-Bewertungen, Tripel-Adjektive gestrichen. Marens Werft-Linse präzise als „Spant" (statt „Achsenstück", das in der Vorversion Werft-fern war).
 ---
 
-Maren stand halb angezogen vor dem Spiegel. Das Hemd lang bis zu den Waden, der Unterrock darüber, das Mieder obenauf — vorn hatte sie die Haken selbst eingehängt, hinten hingen die Schnürbänder lose an ihrer Taille herunter. Sie hätte sich allein zuziehen können, schlecht, mit verbogenem Arm. Sie tat es nicht. Sie wartete.
+Maren stand halb angezogen vor dem Spiegel. Das Hemd reichte bis zu den Waden, der Unterrock lag obenauf, das Mieder hatte sie vorn schon eingehängt — vier Haken aus Messing, die in die schwarze Seide bissen. Hinten hingen die Schnürbänder offen an ihrer Taille. Sie hätte sie selbst gezurrt. Sie tat es nicht.
 
-Vesper saß auf der Bettkante, sein eigenes Hemd schon zugeknöpft, und sah sie im Spiegel an.
+Vesper saß auf der Bettkante, sein Hemd zugeknöpft, die Manschetten geschlossen. Er sah sie im Spiegel an.
 
 »Komm her. Rücken zu mir. Knie.«
 
-Sie ging zu ihm. Kniete zwischen seinen Knien, den Rücken zu ihm gedreht, die Fersen unter sich. Sie hörte ihn den Atem einmal einziehen — prüfend, nicht heftig — und dann spürte sie seine Hände an den Schnürbändern.
+Sie ging zu ihm, kniete zwischen seinen Knien, die Fersen unter sich, das Mieder vor seiner Brust. Sie hörte ihn einmal Atem holen — kurz, prüfend — und dann lagen seine Hände an den Schnürbändern.
 
-Der erste Zug war leicht. Nur die unterste Schnürung, dort, wo die Fischbeinleisten die Taille hielten. Er zog parallel, beide Bänder gleichzeitig, und Maren merkte, dass er das konnte — dass er es geübt hatte, dass er nicht improvisierte. Ihre Rippen gaben eine Linie nach innen, ohne Schmerz, nur Form.
+Der erste Zug ging über die unterste Reihe Ösen, dort, wo die Fischbeinleisten die Taille fassten. Er zog beide Bänder gleichzeitig, parallel, mit gleichem Druck rechts und links. Ihre Rippen gaben eine Linie nach innen. Kein Schmerz, nur die neue Form.
 
 »Atme aus.«
 
-Sie atmete aus. Er zog die nächsten Ösen. Zug für Zug, von unten nach oben, ohne zu reden, ohne zu fragen. Unter dem Stoff fand ihr Körper die Enge — dieselbe Enge, gegen die er jeden Morgen protestierte, wenn sie sie allein zurrte. An diesem Morgen nicht. Vespers Hände gaben den Takt vor, und was seine Hände vorgaben, stimmte.
+Sie atmete aus. Er zog die nächste Reihe. Zug für Zug, von unten nach oben, ohne ein zweites Wort. Unter dem Batist fand ihr Körper die Enge, die sie sich morgens allein nie zumutete. Heute mutete er sie ihr zu.
 
-Bei der dritten Öse hielt er an.
+Bei der dritten Reihe hielt er an.
 
 »Zu fest?«
 
@@ -34,18 +34,18 @@ Bei der dritten Öse hielt er an.
 
 »Ja.«
 
-Er zog weiter. Bei der vorletzten Öse spürte sie, dass er kurz überlegte — wie fest, ob noch. Er entschied. Zog. Band den Knoten in einer Art, die sie mit einer Hand später nicht würde öffnen können.
+Er zog weiter. Bei der vorletzten Reihe spürte sie ihn überlegen — kurzer Stillstand der Bänder zwischen seinen Fingern, dann der nächste Zug, fester als die davor. Er band den Knoten doppelt, hoch zwischen den Schulterblättern, an einer Stelle, an die ihre Hand nicht reichen würde.
 
 »Steh auf.«
 
-Sie stand auf. Langsam — das Mieder erlaubte kein schnelles Aufrichten. Der Oberkörper saß jetzt anders über den Hüften, die Schultern weiter hinten, der Atem flacher und höher. Sie drehte sich zu ihm.
+Sie stand auf. Langsam, weil das Mieder nichts anderes erlaubte. Der Oberkörper saß über den Hüften wie über einem neu gesetzten Spant, die Schultern weiter hinten als gewohnt, der Atem hoch in der Brust. Sie drehte sich zu ihm.
 
 »Zeig her.«
 
-Sie zeigte. Er musterte sie — nicht bewertend, kontrollierend. Hob den Finger einmal zum oberen Band, prüfte, ob es saß. Nickte.
+Sie zeigte. Er musterte das obere Band, den Sitz der Haken vorn, die Linie unter ihren Schlüsselbeinen. Hob den Finger einmal an die oberste Öse, prüfte, ob der Druck saß. Nickte.
 
 »Gut.«
 
-Das Wort saß tiefer in ihrer Kehle, als sie es sich zugestanden hätte. Zwischen den Schulterblättern spürte sie den Knoten, hart und klein und wach. Sie würde ihn den Tag über dort haben.
+Das Wort fasste sie an einer Stelle unterhalb der Kehle, wo das Fischbein endete. Zwischen den Schulterblättern lag der Knoten. Sie würde ihn dort haben, wenn sie später am Pegel stand, wenn sie über die Werftbohlen ging, wenn sie sich über die Auftragsbücher beugte.
 
-Sie drehte sich, griff nach dem Rock über der Lehne und zog ihn an. Das Mieder hielt den Oberkörper gerade, die Schultern hinten, den Atem höher. Er blieb sitzen und sah ihr zu.
+Sie griff nach dem Rock auf der Lehne und zog ihn an. Er blieb sitzen und sah ihr zu.

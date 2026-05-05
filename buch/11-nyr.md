@@ -115,7 +115,7 @@ Vesper bleibt zunächst, fokussiert sich später auf Alphinas Rettung (siehe `po
 
 **B3-K38 Schlacht-Ende:** Alphina lässt Vesper bei Nyr zurück und schleicht zum Steinplatz. Nyr hält die Stellung um Vesper.
 
-**B3-K39 Verlust:** Nach Portal-Kollaps liegt **Kessler schwer beschädigt auf dem Schlachtfeld zurück** — Reservoir-Kern ausgebrannt, Stahl verzogen, aber tragend. **Nyr trauert um den verletzten Partner.** Eine Moragh-Woche Rast für die Gruppe. Vesper-Amputation des linken Unterarms mit Runas Feuer-Klinge.
+**B3-K39 Verlust:** Nach Portal-Kollaps liegt **Kessler schwer beschädigt auf dem Schlachtfeld zurück** — Reservoir-Kern ausgebrannt, Stahl verzogen, aber tragend. **Nyr trauert um den verletzten Partner.** Eine Moragh-Woche Rast für die Gruppe. Vesper-Amputation des linken Unterarms — Runa mit blosser Hand (Stufe-10-Hitze, trennt und versiegelt im selben Beat, kein Werkzeug).
 
 **Zwischen K39 und Epilog:** Kessler wird in den folgenden Wochen geborgen und in einer Thar-Werkstatt repariert (Reservoir-Kern erneuert, Panzerung gerichtet). Nach dem Krieg überführt Nyr ihn nach Halvek-Mar.
 

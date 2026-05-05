@@ -81,7 +81,7 @@ Parallel, bei Dravek, schickt Iven vier Resonanz-Pulse durch einen geborgenen Tr
 
 ### Zentrale Beats
 - Iven lahmt Tech mit vier Resonanz-Pulsen, überlebt mit Dauerfolgen
-- Vespers linker Unterarm verkocht, wird später amputiert (Runa mit Feuer-Klinge)
+- Vespers linker Unterarm verkocht, wird später amputiert (Runa mit blosser Hand, Stufe-10-Hitze)
 - Alphinas linke Hand verliert drei Finger zum Mittelglied durch eigene Dornen
 - Varens Register-Bruch und sein letztes Wort: *„Garten."*
 - Portal-Quelle kollabiert durch Alphinas Wachstums-Überladung, eine Killermaschine wird halbiert

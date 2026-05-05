@@ -246,7 +246,7 @@ Sie kniet neben ihm. Weint. Das erste Mal seit Sorels Tod weint sie so laut.
 
 Sie hält ihn in der Hand. Schließt die Augen. Weint weiter.
 
-**Vesper.** Er ist bewusstlos, aber er atmet. Alphina muss zu ihm. Sie packt ihn vorsichtig. Sein Arm ist nicht zu retten — sie muss ihn zu einem Heiler bringen (Runa, mit ihrer Feuer-Klinge, kann amputieren).
+**Vesper.** Er ist bewusstlos, aber er atmet. Alphina muss zu ihm. Sie packt ihn vorsichtig. Sein Arm ist nicht zu retten — sie muss ihn zu Runa bringen, die mit blosser Hand amputieren kann (Stufe 10: Fleisch von innen entzünden, eigene Haut immun gegen eigenes Feuer — sie trennt das Gewebe und versiegelt die Wunde im selben Beat, kein Werkzeug).
 
 **Die Schlacht ist nicht vorbei.** In der Ferne hört sie Detonationen. Dravek. Die Expedition hat den Modulator reaktiviert.
 
@@ -360,7 +360,7 @@ Unter dem Steinkreis: **Stille.** Zum ersten Mal seit Jahrhunderten.
 
 Vier Moragh-Wochen nach dem Finale. Die Gruppe ist in Halvek-Mar angekommen — freie Südstadt, klein, am Meer. Runa und Nyr haben ein Haus gefunden, einen Werkstattraum davor. Alphina und Vesper haben ein eigenes kleines Haus zwei Straßen weiter.
 
-**Vesper.** Sein Unterarm wurde amputiert (Runa, Feuer-Klinge, sauber). Er trägt eine einfache Stoff-Manschette über dem Stumpf. Er schreibt, isst, arbeitet mit der rechten Hand. Der Phantom-Schmerz kommt nachts.
+**Vesper.** Sein Unterarm wurde amputiert (Runa, blosse Hand, Stufe-10-Hitze — sie trennt und versiegelt im selben Beat, kein Werkzeug). Er trägt eine einfache Stoff-Manschette über dem Stumpf. Er schreibt, isst, arbeitet mit der rechten Hand. Der Phantom-Schmerz kommt nachts.
 
 **Alphina.** Ihre linke Hand: Daumen und Zeigefinger ganz, drei Grundglieder als Stümpfe. Sie kann nicht mehr filigran greifen. Pflanzen wachsen auf Befehl normal, aber einige Gesten funktionieren nicht mehr. Sie wird das akzeptieren.
 

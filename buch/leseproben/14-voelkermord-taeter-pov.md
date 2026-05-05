@@ -5,16 +5,16 @@ figuren: Alphina, Bund-Kommandant, Thar-Magier (off-page)
 register: Dunkle Register — Völkermord, Täter-POV, schleichendes Grauen
 heat_level: Gewalt
 primaer_referenz: Kuang (Poppy War) — Rin-Register, Täter ohne Anästhesie, Konsequenz ohne moralischen Filter
-ergaenzende_referenz: SenLinYu (Alchemised) — Körper unter Druck, Körperteil-Präzision; Black (Cruel Prince) — Ausschluss-Technik in Stille
-zweck: Ton-Referenz für B2 Akt IV: Alphina zerstört absichtlich eine Quelle im Bund-Auftrag. Täter-POV. Canon-konform: Quelle tot = Nachladen fällt aus (2-3 Tage-Welle). Armee im Einsatz merkt es sofort (Magier versagen mitten im Akt, in Wellen nach Verbrauch-Reihenfolge), Zivilisten Tage später. Keine sofortigen physischen Effekte — der Horror ist das Ausbleiben der Nachladung.
-canon_status: Ton-Etüde, B2 Akt IV am 2/3-Mark. Zweite Version — erste zeigte sofortige Effekte (Baum stirbt, Schmied röchelt), Canon-Verstoß. Neue Version nutzt die Verzögerungs-Mechanik als Grusel-Instrument.
+ergaenzende_referenz: SenLinYu (Alchemised) — Körperteil-Präzision; Black (Cruel Prince) — Stille
+zweck: Ton-Referenz für B2 Akt IV: Alphina zerstört absichtlich eine Quelle im Bund-Auftrag. Täter-POV. Canon-konform: Quelle tot = Nachladen fällt aus (2-3 Tage-Welle). Magier im Einsatz merken es sofort (Reservoirs leer instant), Zivilisten Tage später. Ausserhalb der Mulde bleiben sofortige physische Effekte aus; der Horror liegt im Ausbleiben der Nachladung.
+canon_status: v2.1 Block-A-Fixes 2026-05-03
 ---
 
 Der Boden fühlte sich richtig an unter ihren Händen.
 
-Alphina kniete am Rand der Mulde. Die Quelle lag drei Schritte vor ihr — nicht sichtbar, aber spürbar, wie ein Herz, das unter der Haut schlug, wenn man die Hand auf eine fremde Brust legte. Warm. Gleichmäßig. Lebendig.
+Alphina kniete am Rand der Mulde. Die Quelle lag drei Schritte vor ihr — sie sah sie nicht, aber sie spürte das Pochen unter der Erdkrume, ein zweiter Herzschlag dicht unter ihrem eigenen, langsamer und satter, wie eine fremde Brust, an die man die Hand legte. Warm. Lebendig. Gleichmäßig.
 
-Sie hatte heute Morgen Brot gegessen, mit Butter von einer Frau namens Idrun, die am Nebentisch gelacht hatte. Sie hatte sich das merken wollen, für heute Abend. Jetzt spielte es keine Rolle mehr.
+Am Morgen aß sie Brot mit Butter. Eine Frau am Nebentisch hieß Idrun und lachte über etwas, das ihr Mann sagte. Alphina wollte sich den Namen merken, für den Abend. Jetzt klemmte er ihr zwischen den Backenzähnen, ein Sandkorn ohne Funktion.
 
 »Ist sie bereit?«, fragte der Kommandant hinter ihr.
 
@@ -22,44 +22,42 @@ Sie hatte heute Morgen Brot gegessen, mit Butter von einer Frau namens Idrun, di
 
 »Dann mach.«
 
-Sie schickte die Wurzel. Nicht oben, nicht Efeu, nicht Dornen. Tief. Die Wurzel, die sie benutzte, wenn ein Baum trank — lang, fein, kaum sichtbar, ein Tausendfuß von Fäden. Die Fäden fanden das Herz. Legten sich auf die Wärme. Schoben sich hinein.
+Sie schickte die Wurzel hinunter. Tiefer, als wenn ein Apfelbaum im Garten trank — fein, blass, kaum dicker als ein Spinnenfaden, ein Tausendfuß aus weichem Gewebe, der sich durch die Erde fädelte und das Pochen suchte. Die Spitzen fanden die Wärme. Legten sich auf. Schoben sich hinein.
 
-Sie hatte das noch nie gemacht. Sie hatte es nie tun wollen. Aber ihr Körper wusste, wie.
+Den Vorgang kannte sie nur aus der Lehre. Doch ihre Hände kannten den Griff, mit dem man einen Steckling antreibt — das Drücken war derselbe Griff, nur umgekehrt. Sie schob alles, was sie hatte, durch die Wurzel hindurch in die Quelle hinein, und die Quelle nahm es. Einen Atemzug, zwei. Dann hörte sie auf zu nehmen.
 
-Drücken war einfach. Drücken war, was sie jeden Tag gemacht hatte, wenn sie einen Steckling wachsen ließ — nur rückwärts. Sie schickte alles hinein, was sie hatte, und die Quelle nahm es, eine Sekunde, zwei, und dann nicht mehr.
+Die Wärme unter ihrer Hand wurde kühl. Dann kalt. Dann fehlte sie.
 
-Etwas in der Quelle zerbrach. Es war kein Knacken, es war kein Geräusch, es war ein Nicht-mehr-Sein. Die Wärme unter ihrer Hand wurde kühl. Dann kalt. Dann weg.
+Außerhalb der Mulde rührte sich zunächst nichts.
 
-Außerhalb der Mulde passierte zunächst nichts.
+Kein Erdbeben. Kein Baum kippte. Hinter dem Wall summte das Gefecht weiter — Stahl auf Stahl, ein Befehl in Thar, ein Befehl in Bund-Thalassisch, das Knarren von Leitern an Holz. Alphina blieb knien, die Handflächen auf der Stelle, wo eben noch ein Herz gegangen war. Sie wartete. Sie wusste nicht, worauf.
 
-Kein Erdbeben. Kein Baum fiel. Die Siedlung hinter dem Wall summte weiter im Gefecht — Stahl auf Stahl, Rufe, das Knarren von Leitern an Holz. Alphina blieb knien, die Hände auf der kalten Stelle, wo eben noch das Herz gewesen war. Sie wartete. Sie wusste nicht, worauf.
+Der erste Schrei kam, bevor sie zu zählen begonnen hatte.
 
-Der erste Schrei kam etwa eine halbe Minute später.
+Er kam aus der Kehle eines Mannes, dem die Gabe abriss, mitten im Schlag. Den Klang kannte sie von einem alten Mann, dem das Herz mitten im Satz aussetzte: das gleiche Hochziehen der Tonhöhe, das gleiche Abbrechen, kein Auslaufen. Hier war es nur jünger.
 
-Er war nicht von einem Kind oder einer verwundeten Frau. Er war von einem Magier — tiefer, überrascht, abgebrochen mitten im Wort. Jemand, der gerade seine Gabe ausschickte und sie nicht wiederbekam. Alphina wusste das, weil sie denselben Klang einmal bei einem alten Mann gehört hatte, dem das Herz mitten im Satz stehen geblieben war.
+Der zweite Schrei folgte, bevor der erste verklungen war. Dann der dritte.
 
-Der zweite Schrei kam Sekunden nach dem ersten. Dann der dritte.
+Sie kamen in Wellen, nach Verbrauchsreihenfolge. Wer gerade zog, fiel zuerst. Sie hatte in der Lehre die Beispiele gehört, bevor sie sie verstand: Feuer, das im Wurf erlosch. Metall, das unter dem Hammer weich blieb, weil das Härten ausfiel. Wasser, das einem Maren-artigen Magier in der hohlen Hand stehen blieb. Jeder Klang ein abruptes Auslassen, eine fehlende Stufe in einer Treppe, die der Mann gerade hinunterging.
 
-Sie kamen in Wellen, nicht gleichzeitig — die, die gerade verbrauchten, zuerst. Sie hatte in der Ausbildung gehört, wie das klingt: Feuer, das einem ausgeht, wenn man es am höchsten braucht. Metall, das unter der Hand weich bleibt, weil das Härten aufhört. Jedes Mal ein abrupter Laut, kurz, dann nichts.
+Sie zählte bis sieben und ließ das Zählen liegen.
 
-Sie zählte bis sieben, bevor sie aufhörte zu zählen.
+Dann verschob sich das Gefecht. Sein Klang veränderte sich. Die Thar-Stimmen riefen Namen, die nicht antworteten. Die Bund-Stimmen riefen Befehle, die zuerst stockten und dann fester kamen. Sie merkten, dass der Widerstand kippte. Sie würden in zwei Atemzügen merken, woran.
 
-Dann wurde es stiller auf der anderen Seite des Walls, nicht leiser — anders. Die Rufe des Gefechts veränderten sich. Thar-Kämpfer riefen Namen, die nicht antworteten. Bund-Soldaten riefen Befehle, die sich erst verwirrt anhörten, dann fester. Sie merkten, dass der Widerstand kippte.
+Alphina zog die Wurzel zurück. Langsam. Wie man einen Faden aus einem Knopfloch zieht, ohne den Stoff zu rupfen.
 
-Alphina zog die Wurzel zurück. Langsam. Wie man einen Faden aus einem Knopfloch zieht.
+Ihre Hände waren schwarz bis zum Handgelenk. Es war kein Blut. Es war die Verfärbung, die die Bund-Meister Verunreinigung nannten, und sie kroch jetzt höher, schob sich unter den Leinen-Ärmel und ließ die Haut darüber kalt werden.
 
-Ihre Hände waren schwarz bis zum Handgelenk. Nicht Blut. Die Farbe, die die Bund-Meister Verunreinigung nannten, und sie kam jetzt höher, schob sich unter die Ärmel.
+Der Mann hinter ihr trat einen Schritt näher. »Thalsen.«
 
-Der Kommandant war hinter ihr. »Thalsen.«
+Sie hörte ihn nicht gleich. In ihrem Kopf liefen die Schreie weiter, auch jene, die in den Häusern hinter dem Wall erst kommen würden: die alte Frau, die ihre Wäsche jeden Morgen mit einem Atemzug trocknete. Der Bäcker, der seinen Teig mit einer Hauchwärme aufgehen ließ. Der Gerber, dem die Hand das Härten der Felle führte. Heute Abend würden sie es bemerken. Morgen fester. In drei Tagen gar nicht mehr.
 
-Sie hörte ihn nicht sofort. Sie hörte noch immer die Schreie, auch die, die noch nicht gekommen waren — die Zivilisten, die Kinder, die alten Männer in den Häusern, die ihre kleine Gabe jeden Tag benutzten, um Feuer am Brennen zu halten, Wunden zu schließen, Brot aufgehen zu lassen. Die würden es heute Abend merken. Morgen fester. In drei Tagen gar nicht mehr.
+»Die große«, sagte seine Stimme.
 
-»Die große«, sagte der Kommandant.
+Sie hob das Kinn. Sein Blick lag auf ihren Händen.
 
-Sie sah ihn an. Seine Augen waren auf ihren Händen.
+»Die große«, wiederholte er.
 
-»Die große«, sagte er noch einmal.
+Sie kam auf die Knie, auf die Füße. Ihre Schenkel zitterten vor dem, was kommen würde. Ihr Körper wusste es vor ihr. Er stellte die Beine, die er stellen musste. Die Hände hingen schwer an den Ärmeln, schwarz bis zur Innenseite des Ellbogens.
 
-Sie stand auf.
-
-Sie wollte nicht. Ihr Körper wollte. Sie ging los.
+Sie ging los.

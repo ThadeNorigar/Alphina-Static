@@ -1,67 +1,75 @@
 ---
-kategorie: Schemen-Angriff (B1 Horror / Unheimlich)
-pov: Vesper
-figuren: Vesper, eine Kreatur
-register: commercial Horror / Unheimlich, Dark-Fantasy-Gefahr ohne Gore-Primat
-heat_level: Drohung, Kampf
-primaer_referenz: Black (Cruel Prince — Gefahr im Nebel, fremdartig-präzise); Black (Cruel Prince — unheimliche Fremdheit)
-ergaenzende_referenz: Maas (ACOTAR — atmosphärische Drohung); Yarros (Fourth Wing) — Kampf-Adrenalin bei erstem Kontakt
-zweck: Figur begegnet einem Schemen. Horror-Register commercial gehalten — keine Schauwerte. Material: Nebel, Dunkelheit, leuchtende Augen, fremdartige Bewegung. Memory-Regel: "Schemen" nie in Prosa — Figuren kennen den Begriff nicht.
-canon_status: Ton-Etüde, nicht Plot-Canon.
+kategorie: Schemen-Angriff (B1 Horror / Gewalt)
+pov: Alphina
+figuren: Alphina, ein Wesen
+register: commercial Dark Fantasy / Gewalt; SenLinYu primär (Captivity-Präzision auf Körper), Maas sekundär (atmosphärische Drohung)
+heat_level: Gewalt
+primaer_referenz: SenLinYu (Alchemised — Körperteil-Subjekt, dunkler Untergrund, klinische Wundbeschreibung)
+ergaenzende_referenz: Maas (ACOTAR — atmosphärische Drohung); Yarros (Fourth Wing — Kampf-Adrenalin)
+zweck: Alphina begegnet einem Schemen im Botanischen Garten. Schemen-Lautlosigkeit konsequent (kein Schritt, kein Aufprall, kein Atemgeräusch, kein Zerfall-Geräusch). Schaden entsteht nur durch aktiv ausgelöste Magie aus Fingerspitzen — eine eisige Welle, die durch Stoff in Fleisch schneidet. Berührung ohne Magie-Akt wäre harmlos. Alphina reagiert mit Wurzel-Magie aus dem Substrat des Beets. Memory-Regel: "Schemen" nie in Prosa — Alphina nennt es "das Wesen" / "der Mann der keiner war".
+canon_status: v2 Voice-Anchored Refit-Pipeline 2026-05-05
 ---
 
-Das Kellergewölbe des Archivs hatte in der Mitte einen Pfeiler, der nicht zum Rest gehörte. Vesper hatte das am zweiten Abend bemerkt, beim dritten Besuch erst richtig gesehen: die Quader oberhalb der Mannshöhe waren aus anderem Stein geschnitten. Grauer. Kälter, wenn man die Hand drauflegte. Im Kerzenlicht von unten zeichnete das Alter am oberen Stein Linien in eine Richtung, die nicht zu den unteren Linien passte.
+Im Glashaus zwei stand die Luft still. Der Schlüssel hing kalt zwischen ihren Fingern, dann lag er in der Tasche, und Alphina trat über die Schwelle. Sie roch zuerst die Erde des hinteren Beets — nasser Humus, ein Streifen Pflanzensaft von dem Geißblatt, das Henrik am Vormittag zurückgeschnitten hatte —, und dann den anderen Geruch. Der zweite Geruch gehörte nicht hierher. Süß, wie warmer Stein nach langer Sonne, und ein Ton darunter, den sie nicht sortieren konnte. Kein Pflanzensaft, kein Humus, kein Wachs.
 
-Er war heute nicht wegen des Pfeilers gekommen. Er war wegen einer Uhr gekommen — einer kleinen Messinguhr aus einem Nachlass, deren Drift er nicht erklären konnte —, aber der Pfeiler war im Raum, und der Raum kühlte zu schnell ab für seine Lampenöl-Menge.
+Sie blieb am Mittelgang stehen. Die Laterne in ihrer linken Hand zog einen Kreis über das Pflaster, über den Rand des hinteren Beets, über die Farne darunter. Die Wedel standen still, wie sie immer standen, wenn niemand sie berührte. Alphina hob die Laterne höher.
 
-Er sah zum zweiten Mal auf die Uhr in seiner Hand. Elf Minuten über Mitternacht. Er wollte zwei Stellen messen und gehen.
+Am Ende des Gangs, dort, wo der Boden sich hob und das Substrat trockener wurde, stand das Wesen.
 
-Das Geräusch kam vom Pfeiler.
+Es stand nicht auf dem Pflaster. Die Füße, wenn man so etwas Füße nennen wollte, waren eine Daumenbreit über den Steinen, und unter ihnen blieb der Staub liegen, wie er den ganzen Tag gelegen hatte. Kein Schatten warf es. Die Laterne, die Alphina jetzt langsam hob, leuchtete durch es hindurch und nicht in es hinein. Die Schultern hatten die Höhe einer Mannesschulter, der Kopf saß zu schmal darauf, und die Haut — wenn das Haut war — hatte die Farbe von altem Eisen unter Kerzenlicht, dunkler an den Rändern als in der Mitte.
 
-Nicht laut. Ein Streifen. Als zöge jemand einen sehr feinen Stoff über Stein. Vesper hob die Lampe. Der Kreis des Lichts fiel auf die untere Hälfte des Pfeilers. Dort war nichts. Er hob die Lampe höher, und das Licht wanderte an den Quadern nach oben, und irgendwo zwischen der Mitte und dem Gewölbeansatz war eine Stelle, an der der Stein glänzte, wo er nicht hätte glänzen sollen.
+Es bewegte sich nicht.
 
-Er trat einen Schritt zurück.
+Alphina spürte ihren eigenen Atem an der Innenseite des Schlüsselbeins. Sie hörte ihn auch. Den anderen hörte sie nicht. Keine Sohle auf dem Pflaster, keine Reibung von Stoff an Stoff, kein Atemzug. Sie hatte schon einmal etwas gehört, das nicht atmete — eine Pflanze, die wuchs, machte Geräusche, sehr leise, aber sie waren da. Hier war die Stille auf einen Punkt gezogen, dorthin, wo das Wesen stand.
 
-Der Geruch erreichte ihn als zweites. Altes Eisen, metallisch, kühler als die Luft. Es roch, wie sein Werkstatttisch nach einer langen Messreihe im Winter roch, aber süßer. Ein enger, dichter Geruch, der ihm bis in die Kehle rutschte.
+Sie kniete langsam ab. Die Erde im hinteren Beet lag drei Schritte rechts von ihr, hinter dem niedrigen Eisenrahmen. Sie legte die rechte Hand auf den Rahmen und schob die Finger über die Kante in das Substrat. Humus unter den Nägeln, kühl, körnig. Lebendig. Sie ließ die Hand dort.
 
-Er spürte die Schulter, bevor er sie sah.
+Das Wesen drehte den Kopf.
 
-Am Pfeiler, auf der Höhe, wo der Stein anders war, löste sich etwas aus dem Stein heraus. Es kam nicht aus einer Ritze. Es trat aus dem Stein, als wäre der Stein Vorhang und dahinter der Raum. Es war größer als ein Mensch und kleiner zugleich — Vesper konnte das nicht zusammenbringen. Er nahm es nur wahr.
+Den Körper bewegte es nicht. Nur der Kopf drehte sich, und der Winkel war falsch — zu weit, über das hinaus, was eine menschliche Halswirbelsäule trug. Alphina sah die Augen erst, als der Kopf zu Ende gedreht war. Sie waren mandelförmig und zu hell für den Raum, ein Gelb, das in Wein zu schimmern begann, wenn man die Flasche gegen die Lampe hielt. Sie fanden ihre.
 
-Die Augen kamen als Letztes. Zwei mandelförmige Punkte, nicht rund, kalt wie ein Spiegel, auf den man in der Dunkelheit eine Lampe gerichtet hat. Sie fanden ihn.
+Die rechte Hand des Wesens hob sich. Sehr ruhig, ohne den Schwung, mit dem ein Mensch die Hand hebt. Es streckte den Zeigefinger aus, und die Spitze des Fingers war weiß. Nicht das Weiß von Knochen, das Alphina kannte — ein Reif-Weiß, körnig und grob auf der Kuppe.
 
-Vespers Hand zog die Uhr aus der Tasche, bevor sein Kopf wusste, wozu.
+Alphina sprach das Wort nicht. Sie stellte sich vor: Wurzeln aus dem Substrat unter ihrer Hand, vier, fünf, dicker als Bleistifte, aufwärts, durch die Erde, über den Eisenrahmen, in die Höhe, die das Wesen einnahm.
 
-Er sah nicht auf das Zifferblatt. Er drückte den Deckel, einmal, zweimal, dreimal, und der kleine Mechanismus zählte den Takt, den er brauchte — er brauchte einen Takt, einen anderen als den, den die Kreatur selbst mitbrachte, und das war die einzige Idee, die er hatte. Er zog die Uhr an die Brust und presste den Daumen gegen das Glas.
+Das Substrat unter ihrer Hand wurde warm.
 
-Etwas in der Luft zwischen ihm und dem Ding zog sich zurück. Keine Welle. Nur das Geräusch des Streifens fiel um eine Oktave tiefer, und der süße Geruch in seiner Kehle verdünnte sich.
+Die Welle kam, bevor die Wurzeln kamen.
 
-Die Kreatur trat einen Schritt nach vorn. Sie ging auf einem Fuß, der kein Fuß war. Der zweite stand hinter dem ersten, aber er berührte den Boden nicht. Der Boden war zwei Finger unter ihm.
+Sie sah die Welle nicht. Sie sah nur, dass die Luft zwischen dem Wesen und ihr für den Bruchteil eines Atemzugs perlmuttweiß wurde, und dann lag eine Linie über ihrem rechten Oberarm, von der Schulter zur Innenseite des Ellbogens, und die Linie war kalt. Der Stoff ihres Hemdes lag in zwei Streifen auseinander. Die Haut darunter war offen. Der Schnitt saß zwischen Bizeps und der Sehne darunter, etwa vier Finger lang, und unten, in der Mitte des Schnitts, lag das Fleisch frei wie nach dem Schnitt eines sehr feinen Messers, dessen Klinge man vor dem Schnitt in Eis getaucht hatte. Die Ränder waren weiß. Es blutete erst danach.
 
-Vesper wich nicht weiter zurück. Das wusste er auch erst später — in diesem Moment stand er, weil er sonst die Messinguhr auf den Boden gestellt hätte, und wenn er die Uhr auf den Boden stellte, würde die Uhr das nicht überleben. Er hielt die Uhr. Er drückte weiter.
+Sie sah den Arm an. Der Arm sah anders aus, als er vor einem Atemzug ausgesehen hatte. Sie spürte den Arm noch nicht. Das war die Reihenfolge.
 
-Das Ding blieb stehen.
+Dann kam das Bluten. Es kam langsam, weil die Wundkante kalt war, und es lief in einer Schicht über den Bizeps, nicht in Tropfen. Der Stoff am Ärmel sog sich voll. Der Schmerz kam danach, und er war nicht der Schmerz eines Schnitts. Es war eine kalte Hand in ihrer Schulter, die sich nach unten in den Knochen schob.
 
-Es sah ihn an. Die Augen fuhren nicht über seinen Körper, wie Augen das sonst tun. Sie hielten auf einem Punkt. Auf der Uhr an seiner Brust.
+Die Wurzeln kamen jetzt.
 
-Dann drehte es den Kopf — nicht den ganzen, nur den Kopf — und die Bewegung war falsch. Nicht schnell, nicht langsam. Falsch. Ein Winkel, in dem ein menschlicher Hals nicht endet.
+Sie hörte die Erde sich öffnen, ein leises Knirschen, ein Reißen von Faserwurzeln, die sich von alten Wurzeln trennten. Ein Faden, dann zwei, dann fünf. Sie schoben sich aus dem Substrat des hinteren Beets, durch die Luft des Glashauses, über den Eisenrahmen hinweg, und richteten sich aus, wie sie in ihrem Kopf standen — auf das Wesen zu. Die Wurzeln fanden den Punkt, an dem sie das Wesen hatte sehen wollen, und schoben sich hindurch. Sie spürten nichts. Sie schoben sich nicht durch Material, sie schoben sich durch Luft, die anders war.
 
-Das Ding trat zurück in den Stein.
+Das Wesen sah es. Die hellen Augen verschoben sich von ihrer Schulter zu den Wurzeln. Der Mund — wenn das ein Mund war — verzog sich nicht.
 
-Nicht hinein. Nicht durch eine Ritze. Es löste sich wieder in die Quader auf, wie es hervorgetreten war, und nach drei Atemzügen stand der Pfeiler, wie er immer dort gestanden hatte, und die Luft im Gewölbe roch nur noch nach Pergamentstaub und Lampenöl.
+Es trat zurück. Drei langsame Versetzungen ohne Schritt, die rechte Hand fiel an die Seite, der Zeigefinger noch immer weiß bereift, und mit jeder Versetzung wurde der Umriss schmaler. An den Rändern wurde es durchsichtiger als die Luft selbst, dann nur noch eine Verzerrung über dem Pflaster, dann weniger als das. Es ließ kein Geräusch zurück. Keinen Aufprall, kein Knacken, keinen Hauch. Die Stelle, an der es gestanden hatte, war jetzt einfach leer, und der Staub auf dem Pflaster lag, wie er den ganzen Tag gelegen hatte.
 
-Vesper blieb stehen.
+Alphina blieb auf dem Knie. Ihre rechte Hand war noch im Substrat. Die Wurzeln vor ihr standen in der Luft, drei Hand hoch, leicht hin- und herwogend, weil die Spitze nicht wusste, wohin sie weiterwachsen sollte. Sie zog die Hand aus der Erde. Das Substrat fiel von den Fingern. Die Wurzeln senkten sich, langsamer als sie aufgestiegen waren, und legten sich über den Eisenrahmen, nass und schwer.
 
-Sein Daumen war auf dem Glas der Uhr taub. Das Metall hatte sich leicht erwärmt, obwohl er nicht gezittert hatte. Er zog den Daumen weg und las das Zifferblatt ab.
+Die Schulter spürte sie jetzt. Die Kälte saß in der Achsel und drückte sich in die Schlüsselbein-Linie. Das Bluten war stärker geworden, nachdem die Wundkante getaut war. Sie hob die linke Hand und legte die Innenfläche flach über den Schnitt, und ihre Hand war warm, und die Hand wusste, was sie tun sollte. Die Vorstellung kam nicht als Wort. Sie kam als Bild: zwei Schichten Haut, faserweise zueinandergezogen, eine dünne Linie statt der offenen Bahn.
 
-Vierzehn Minuten über Mitternacht.
+Es zog sich zusammen. Fast ganz. Am unteren Ende des Schnitts, dort, wo das Eis am tiefsten gewesen war, blieb eine Stelle, die sich nicht wärmte. Die Faser zog, aber sie schloss nicht ganz, und der Punkt darunter blieb kalt, auch unter ihrer Handfläche. Sie zog die Hand weg und sah hin. Die Linie war zu, fast. Die Mitte schimmerte hellblau im Licht der Laterne, eine Daumenkuppe lang, knapp unter der Hautoberfläche.
 
-Er war drei Minuten gestanden, ohne sich zu bewegen.
+Sie atmete einmal durch den offenen Mund.
 
-Er ging die Treppe nach oben, ohne sich umzudrehen, und er drehte sich erst oben um, im Lesesaal, bei Licht, und sagte zu der Schreiberin, die in der Ecke den Ofen schloss, dass er für die Nacht fertig sei.
+Das Wesen war nicht weg. Sie wusste das, weil ihre rechte Schulter es wusste. Da, wo die Kälte saß, saß es noch immer.
 
-Er ging nach Hause und schrieb nichts auf.
+Alphina stand auf. Sie zog den Ärmel über die Wunde, presste den Stoff mit der linken Hand an die Schulter, und die Nässe drückte gegen die Hand und blieb dort. Sie nahm die Laterne. Sie ging nicht zu der Stelle, an der das Wesen gestanden hatte. Sie ging am Mittelgang zurück, langsam, weil die rechte Schulter den Schritt mitnahm und ihn nicht mochte. Am Eisenrahmen ließ sie die Wurzeln liegen. Henrik würde am Morgen fragen, was das war, und sie würde sagen, dass etwas durchgekommen sei, und Henrik würde nicht weiterfragen, wie er nie weiterfragte. Die Wurzeln würden welken in der Luft, ohne Erde zu finden, und in zwei Tagen waren sie braune Streifen über dem Rahmen.
 
-Vor dem Einschlafen dachte er: das war keine Ratte. Und: das war nichts, das ich in einem Buch gelesen habe. Und: ich werde das noch einmal sehen.
+An der Tür drehte sie sich nicht um. Sie drehte den Schlüssel im Schloss, einmal, fest, und die kalte Stelle in der Schulter zog sich tiefer in den Knochen. Sie ging die drei Stufen nach unten, die Hand noch immer auf dem Stoff, und auf der untersten Stufe blieb sie stehen, weil ihre Knie das verlangten. Sie kniete dort nicht ab. Sie blieb stehen und atmete.
 
-Er schlief trotzdem.
+Erst auf dem Heimweg, am Brunnen vor dem Marktplatz, kam ihr der Gedanke: das Wesen hatte gewartet. Es hatte sich nicht zurückgezogen, weil die Wurzeln gekommen waren. Es hatte gewartet, bis sie kamen. Es hatte den Schnitt gesetzt, bevor sie überhaupt die Hand in die Erde geschoben hatte. Es hatte gewusst, dass sie die Hand in die Erde schieben würde.
+
+Sie blieb am Brunnen stehen. Der Stein war kalt unter ihrer linken Hand. Die rechte Hand hielt den Ärmel an die Schulter. Die kalte Stelle saß tief, eine Daumenkuppe unter der Hautoberfläche, und sie wusste, dass sie sie nicht wegwärmen konnte, auch nicht in einer langen Nacht.
+
+Zu Hause schrieb sie das nicht auf. Sie zog das Hemd aus, wusch den Stoff in der Schüssel mit kaltem Wasser, weil warmes Wasser das Blut gerinnen ließ, und legte den Ärmel über den Rand der Schüssel. Sie schloss das Notizbuch, ohne es aufzuschlagen.
+
+Vor dem Schlaf, mit dem Lavendel-Öl auf der Schläfe und der linken Hand über der Schulter, dachte sie an drei Dinge. An die Sekunde, in der das Wesen gewartet hatte. An den weißen Finger. An die kalte Stelle, die im Knochen blieb, und daran, dass es eine Stelle war, von der Wachstum sie nicht mehr lösen konnte.
+
+Sie schlief trotzdem.

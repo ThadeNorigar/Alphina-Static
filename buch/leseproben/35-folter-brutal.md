@@ -1,109 +1,123 @@
 ---
 kategorie: Physische Folter / Misshandlung (Opfer-POV, brutal)
-pov: Nyr
-figuren: Nyr, Kestan (Thar-Meister, Verhörer)
+pov: Alphina
+figuren: Alphina, Drael (Bund-Inquisitor)
 register: Dunkle Register — physische Folter, Schmerz, Trauma-Körper unter echter Gewalt
 heat_level: Gewalt (physisch)
-primaer_referenz: SenLinYu (Alchemised — volle Brutalität) — Körperteil unter physischem Druck, Trauma-Dissoziation, Schmerz-Klinik
+primaer_referenz: SenLinYu (Alchemised) — Körperteil unter Druck, Trauma-Dissoziation, Schmerz-Klinik in Reinform
 ergaenzende_referenz: Kuang (Poppy War) — Gewalt ohne Anästhesie, Täter-Sachlichkeit; Réage — klinische Anatomie der Unterwerfung (hier härter genutzt)
-zweck: Gegenstück zu #20 (Kalt-Captivity ohne Schmerz). Diese Probe trägt physische Folter — Misshandlung, Schmerzen, Körper unter echter Gewalt. SenLinYu-Brutalitäts-Niveau, nicht Captivity-Höflichkeit. Ton-Referenz für B2/B3-Szenen, in denen eine Figur physisch gebrochen werden soll.
-canon_status: Ton-Etüde, nicht Plot-Canon.
+zweck: Gegenstück zu #20 (Kalt-Captivity ohne Schmerz). Diese Probe trägt physische Folter — Misshandlung, Schmerzen, Körper unter echter Gewalt. SenLinYu-Brutalitäts-Niveau, nicht Captivity-Höflichkeit. Ton-Referenz für B2/B3-Szenen, in denen Alphina physisch gebrochen werden soll. Velmar-Halsband um die Kehle (matt-violett, reaktive Absorption), separate Lederfesseln mit Stahlkette an den Handgelenken. Botaniker-Brille auf die eigene Wunde wie auf eine Pflanzenprobe — Distanzierung als Trauma-Marker, nicht Selbstmitleid.
+canon_status: v2 Voice-Anchored Refit-Pipeline 2026-05-05 — Setup hypothetisch / B3-Spekulation (B2-Canon: Varen, nicht Drael, hält Alphina nach Halvara-Kel; diese Probe ist Reverse-Trainingsstück, nicht Plot-Canon)
 ---
 
-Nyr konnte die linke Hand noch bewegen. Die rechte war nicht mehr da, wo ihre rechte Hand sein sollte — sie hing in einer mit Leder unterlegten Schlaufe aus Metall über ihrem Kopf, und die Finger darin waren taub, aber die Schulter war das Lauteste, was je in ihrem Körper gewesen war. Sie war seit drei Stunden hier. Drei Stunden, das wusste sie, weil sie den Dampfstoß aus der Haupthalle dreimal gehört hatte, und der Dampfstoß kam jede Stunde, sobald der Kessel-Boiler den Druck ablassen musste.
+Die linke Hand konnte Alphina noch bewegen. Die rechte hing in einer mit Leder unterlegten Schlaufe aus Stahl über ihrem Kopf, die Finger darin taub, doch die Schulter brüllte lauter als alles, was sie bis hierher in ihrem Körper gehört hatte. Drei Stunden hingen jetzt hinter ihr. Drei Stunden, weil sie das Tor zur Bund-Halle dreimal hatte zuschlagen hören, und das Tor schlug zur vollen Stunde.
 
-Der Raum war eine Nebenkammer der Kessler-Halle, die sie selbst hundertmal betreten hatte. Die Haken an der Decke waren normalerweise für Kettenzüge, für das Herausheben von Druckköpfen aus ihren Sitzen, für die Art Arbeit, bei der zwei Männer ein Seil brauchten. Heute hingen zwei Lederschlaufen an zwei dieser Haken, und in einer der Schlaufen hing ihre rechte Hand.
+Der Raum diente als Nebenkammer der Bund-Schreibstube, leer geräumt, mit fugenlosem Steinboden und einer Werkbank an der gegenüberliegenden Wand. An den Deckenbalken steckten zwei Haken im Holz, und in einer der Schlaufen an einem der Haken hing ihre rechte Hand. Die Werkbank hatte sie vom ersten Augenblick an im Blick gehabt. Auf der Werkbank ruhte in einer Reihe das Werkzeug eines Mannes, der sein Handwerk kannte.
 
-Um ihren Hals saß ein schmales Lederband. Das war die andere Sache, die sie die ersten Minuten begriffen hatte: das Band war eng, ein dunkler Stahlring vorn, und als sie beim Aufwachen versucht hatte, den Druck im Raum unter ihre Kontrolle zu bringen — einen kleinen Druckstoß, der die Deckenhaken hätte lösen können —, war das Band warm geworden und die Magie war aus ihr herausgeflossen, bevor sie die Haut verlassen hatte. Der Ring glomm seitdem matt violett. Velmar-Arbeit. Sie war hier nur ihr Körper.
+Um ihren Hals saß das Lederband. Schmal, eng, der dunkle Stahlring vorn an der Kehle. Beim Aufwachen hatte sie versucht, eine Wurzel aus dem Boden steigen zu lassen — Wachstum, irgendetwas, einen Trieb durch die Fuge an der Sockelleiste. Das Leder hatte sich erwärmt, dann erhitzt, und das Bild in ihrem Kopf war abgezogen, bevor sie es halten konnte. Der Stahlring an ihrer Kehle glomm seitdem matt-violett, das Schwarz hellte sich nach außen auf. Velmar-Arbeit. Hier blieb ihr nur der Körper.
 
-Kestan stand an der Werkbank und wischte sich die Hände. Er war einer der Unterschicht-Meister gewesen, lange bevor Nyr zur Reiterin aufgestiegen war — er hatte sie als Lehrling gesehen, er hatte ihr gezeigt, wie man eine Kupplung nachstellt, er hatte ihren Vater gekannt. Heute hatte er einen kleinen Schraubstock in der Hand, den Typ, den man an einen Schreibtisch klemmte, wenn man an einem Uhrwerk arbeitete.
+Drael stand an der Werkbank und wischte sich die Hände an einem Leinen­tuch. Er hatte zu den Inquisitoren des Bundes gezählt, lange bevor Alphina zum Steinplatz und zu Varen übergegangen war — er hatte ihr im Quartier gezeigt, wie man eine Quellen-Karte aufzieht, er hatte ihr Bund-Tee gereicht. Heute lag in seiner Hand ein kleiner Schraubstock, der Typ, den man an einen Schreibtisch klemmte, wenn man an einem Uhrwerk arbeitete.
 
 Er setzte sich auf einen Hocker vor ihr.
 
-»Nyr.«
+»Alphina.«
 
-»Kestan.«
+»Drael.«
 
 »Drei Fragen. Dann eine Pause. Dann drei Fragen. So machen wir das.«
 
 »Ich weiß.«
 
-»Wer hat dich rausgelassen?«
+»Was hat Varen dir gezeigt, als er dich in Halvara-Kel mitgenommen hat?«
 
-Sie antwortete nicht. Sie hatte zwei Stunden lang überlegt, ob sie lügen sollte, und sich gegen das Lügen entschieden, weil Kestan Lügen hörte wie ein Mechaniker ein Klacken im Gehäuse — eine Note zu viel, einen Klang zu spät, und er wusste. Also blieb nur Schweigen oder Wahrheit, und Wahrheit war nicht möglich.
+Sie schwieg. Zwei Stunden lang hatte sie überlegt, ob sie lügen sollte, und sich gegen das Lügen entschieden, weil Drael Lügen hörte wie eine Botanikerin ein gefälschtes Salbenrezept — eine Zutat zu wenig, eine Konsistenz zu glatt, und er hatte es. Also blieb Schweigen oder Wahrheit, und Wahrheit verbot sich.
 
-»Gut«, sagte Kestan. »Kein Geräusch. Das respektiere ich.«
+»Gut«, sagte Drael. »Kein Geräusch. Das respektiere ich.«
 
-Er stand auf, ging zu ihrer linken Hand — die noch frei war — und nahm ihren kleinen Finger.
+Er erhob sich, trat zu ihrer linken Hand — die noch freihing — und nahm ihren kleinen Finger in die seinen.
 
-Der Schraubstock war klein. Das war die Idee. Ein großer Schraubstock schadete schnell. Zu schnell — danach gab es keinen zweiten Versuch. Ein kleiner Schraubstock schadete lange und gleichmäßig, so dass man zwischendurch pausieren und die Antwort abwarten konnte.
+Der Schraubstock fiel klein aus. Das gehörte zum Plan. Ein großer Schraubstock zerschlug Knochen schnell. Zu schnell — danach folgte kein zweiter Versuch. Ein kleiner Schraubstock arbeitete lange und gleichmäßig, sodass man zwischen den Umdrehungen pausieren und die Antwort abwarten konnte.
 
-Kestan legte ihren kleinen Finger in den Schraubstock. Er schraubte ihn nicht sofort zu. Er drehte die Spindel einmal, bis die Backen den Finger an den Seiten berührten, dann ließ er die Hand los und sah Nyr an.
+Drael legte ihren kleinen Finger zwischen die Backen. Er drehte die Spindel einmal, bis der Stahl die Haut an den Seiten berührte, dann ließ er die Hand los und sah sie an.
 
-»Wer hat dich rausgelassen.«
+»Was hat Varen dir gezeigt.«
 
 »Ich will zur Pause.«
 
 »Die Pause kommt nach drei Fragen. Das ist die erste.«
 
-Sie atmete aus. Sie sah auf die Werkbank, die sie kannte, auf das Öl, das an dem hinteren Bein eine Spur gezogen hatte, auf das Werkzeug in der Nische, das nicht in seiner Nische lag. Bei Thar hatte jedes Werkzeug seine Nische, und wenn eines fehlte, wusste man das. Sie hatte Vesper vor Monaten davon erzählt, als er sie gefragt hatte, was sie an ihrem Beruf mochte.
+Sie atmete aus. Sie sah an ihm vorbei zur Werkbank, die sie schon vom ersten Augenblick gelesen hatte, auf die Reihe der Werkzeuge, auf eine Zange am hinteren Rand, deren Griff einen Schweißfleck trug. Bei Bund-Werkzeug bekam jedes Werkzeug seine Stellung, und wenn eines aus der Reihe rutschte, fiel das dem Inquisitor sofort auf. Die Zange rutschte aus der Reihe.
 
 Sie schloss die Augen.
 
-Kestan drehte die Spindel eine Umdrehung weiter.
+Drael drehte die Spindel eine Umdrehung weiter.
 
-Der Schmerz kam zuerst als Klarheit — alles im Raum wurde heller, als hätte jemand eine zweite Lampe gezündet, und dann kam das, was nach der Klarheit kam. Sie spürte den Knochen unter der Haut. Sie spürte die Haut zwischen zwei Flächen. Der Finger hatte keine Richtung mehr, nur Druck, immer weiter, und irgendwann begann die Haut an einer Kante zu platzen, und das Blut war warm und lief über den Schraubstock auf ihre Handfläche.
+Der Schmerz kam zuerst als Klarheit — alles im Raum wurde heller, als hätte jemand eine zweite Lampe gezündet, und dann kam das, was nach der Klarheit kam. Sie spürte den Knochen unter der Haut. Sie spürte die Haut zwischen zwei Flächen. Der Finger verlor jede Richtung, behielt nur Druck, immer weiter, und an einer Kante platzte die Haut, und das Blut quoll warm hervor und lief über den Stahl auf ihre Handfläche.
 
-Sie hörte ein Geräusch und wusste nach einer Zeit, dass es aus ihrer Kehle gekommen war.
+Sie hörte ein Geräusch und merkte erst danach, dass es aus ihrer Kehle gekommen war.
 
-»Die Pause war die erste Frage«, sagte Kestan.
+Das Leder an ihrem Hals erwärmte sich. Ohne dass sie ein Bild gehalten hatte. Das begriff sie zuletzt: der Schmerz hatte Wachstum aus ihr gezogen, hatte einen Trieb gefordert, den sie zurückgehalten hatte. Der Stahlring glomm einen Schritt heller. Drael las ihn ab, ohne zu nicken.
 
-Er drehte die Spindel eine Umdrehung zurück. Nicht ganz auf, nur einen Schritt. Der Finger blieb zwischen den Backen.
+»Die Pause war die erste Frage«, sagte er.
 
-»Wer hat dich rausgelassen.«
+Er drehte die Spindel eine Umdrehung zurück. Nur einen Schritt, weiter ging er nicht. Der Finger steckte zwischen den Backen.
 
-»Ich bin selbst gegangen.«
+»Was hat Varen dir gezeigt.«
 
-»Das ist nicht wahr.«
+»Eine Quellen-Karte.«
 
-»Doch.«
+»Das reicht nicht.«
 
-Er sah sie an und kippte den Kopf, wie bei einem Motorproblem, dessen Klang er prüfte.
+»Eine Quellen-Karte«, wiederholte sie.
+
+Er sah sie an und kippte den Kopf, wie eine Botanikerin einen Trieb prüft, der nach links statt nach rechts wuchs.
 
 »Ich glaube dir das nicht«, sagte er. »Aber die Antwort reicht für jetzt. Das war die zweite.«
 
-Die Spindel drehte sich wieder, eine weitere Umdrehung. Dieses Mal wusste sie, was kam, und das machte es nicht besser, es machte es anders — ihr Körper zog sich zusammen, noch bevor der Druck kam, und als der Druck kam, traf er einen Körper, der sich schon verweigerte, und einen, der noch nicht fertig war damit.
+Die Spindel drehte sich wieder, eine weitere Umdrehung. Dieses Mal kannte sie, was kam, und es half nichts, es kam nur anders — ihr Körper zog sich zusammen, bevor der Druck kam, und als der Druck kam, traf er einen Körper, der sich schon verweigerte, und einen, der diese Verweigerung erst halb durchgezogen hatte.
 
-Sie ließ das Geräusch dieses Mal kommen. Es war länger.
+Sie ließ das Geräusch dieses Mal kommen. Länger.
 
-Kestan wartete. Als sie wieder atmen konnte, wartete er noch länger, damit er sicher war, dass sie hörte.
+Im Riss zwischen Boden und Sockel, drei Schritte links von ihrem freien Knie, schob sich ein winziger Trieb durch die Fuge. Hellgrün, kaum mehr als ein Fingernagel breit. Ihre Hand hatte ihn nicht angefordert, ihr Kopf hatte ihn nicht gehalten. Der Schmerz hatte ihn abgeladen, ohne sie zu fragen. Das Leder an ihrer Kehle erwärmte sich noch eine Spur, der Trieb stockte und hielt inne, hellgrün, drei Schritte vor ihr.
 
-»Dritte«, sagte er. »Wer deckt dich draußen.«
+Drael wartete. Als sie wieder atmen konnte, ließ er die Stille noch länger stehen, damit sie sich ihres Atems bewusst wurde.
 
-»Niemand deckt mich draußen.«
+»Dritte«, sagte er. »Wer in Halvaren weiß von dem Pakt.«
 
-»Nyr.«
+»Niemand in Halvaren.«
+
+»Alphina.«
 
 »Niemand.«
 
-Er sah sie an, nickte, zählte die Antwort ab.
+Er sah sie an, dann auf den Trieb in der Fuge, dann auf den Stahlring an ihrer Kehle, der heller geworden war.
+
+»Du lügst, weil dein Hals dich verrät.«
+
+Sie schwieg.
 
 »Gut. Das war drei. Pause.«
 
-Er lockerte die Spindel, aber nicht ganz. Zwei Umdrehungen zurück, dann blieb ein Rest Druck. Er stand auf, ging zur Werkbank, schraubte die Kaffeekanne auf, die dort stand, goss sich einen Becher ein, ging zu einem niedrigen Schemel und setzte sich. Er trank.
+Er lockerte die Spindel, behielt einen Rest Druck. Zwei Umdrehungen zurück, dann hielt er. Er stand auf, ging zur Werkbank, nahm einen Tonkrug, schenkte sich Wasser ein, ging zu einem niedrigen Schemel und setzte sich. Er trank in zwei Zügen.
 
 Sie hing.
 
-Die linke Hand begann zu beben. Ein feines Beben, das aus dem Unterarm kam und nach oben lief, und sie konnte es nicht stoppen. Der Körper rechnete.
+Die linke Hand begann zu beben. Ein feines Beben, das aus dem Unterarm kam und nach oben lief, ihrer Kontrolle entzogen. Der Körper rechnete.
 
 Sie schloss die Augen.
 
-Sie dachte an die Halle, an den Kessel, an die Kupplung sieben von zehn, an Durm, der irgendwo, in irgendeinem Raum in dieser Stadt, wahrscheinlich nicht wusste, was hier gerade geschah. Oder wusste. Oder wusste und trank auch einen Becher Kaffee, weil das die Thar-Ordnung war: jeder tat, was seine Arbeit war.
+Im Kopf erschien der Botanische Garten in Vael, mit Henriks Schlüssel in der Manteltasche, mit den siebenundzwanzig Farnen im Lichthaus-Keller, mit Sorel an einer Kammer in einer anderen Welt, dem die Welt entglitten ist, weil er tot bleibt. Sie hielt das Bild eine Weile. Es gehörte ihr. Drael bekam es nicht. Die Kehle erhitzte sich, das Leder rechnete. Sie ließ das Bild fallen.
 
-Sie dachte an Vesper.
+Vesper. Vesper wartete vielleicht jetzt am Tor. Vesper würde sie morgen suchen, oder schon heute, oder er hatte sie längst gesucht und kam jetzt an.
 
-Sie dachte, dass er sie morgen suchen würde. Oder schon heute. Oder nie.
+Sie öffnete die Augen, weil Drael nachschenkte.
 
-Sie öffnete die Augen, weil Kestan nachschenkte.
+Der Trieb in der Fuge zitterte einmal, dann wuchs er einen Hauch weiter. Sie wartete, ob das Leder antworten würde. Es blieb stumm — der Trieb zu klein, das Wachstum zu langsam, die Sperre las es als Pflanze, nicht als Wirken. Eine Beobachtung. Sie nahm sie auf, eine für später.
+
+Drael folgte ihrem Blick.
+
+»Das Moos darfst du behalten«, sagte er. »Es kostet dich nichts. Es kostet mich auch nichts.«
+
+Er stand auf, ging zur Werkbank, legte den Krug zurück, nahm die Zange aus der Reihe, drehte sie einmal in der Hand und legte sie an ihren Platz.
 
 »Drei Fragen«, sagte er. »Dann Pause.«

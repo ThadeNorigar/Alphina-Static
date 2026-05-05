@@ -5,26 +5,28 @@ figuren: Vesper, Maren
 register: commercial BDSM — Care-Beat nach Szene
 heat_level: ruhig (Care-Beat)
 primaer_referenz: Reisz (Original Sinners) — Aftercare als Aktion, Dom-Verantwortung
-ergaenzende_referenz: Réage (Histoire d'O) — Material-Präzision in der Ruhe; Rampling (Exit to Eden) — psychologische Tiefe
-zweck: Ton-Referenz für Vesper/Maren-Aftercare nach Szene. Kurz (≈200–300 W), Dom-POV, Care als Handlung (nicht als Gefühl), Material (Decke, Wasser, Haut) konkret, Marens Zittern als physiologischer Zustand, nicht Gefühl benannt. Réage-Klinik, nicht Kitsch.
-canon_status: Ton-Etüde, unmittelbar nach einer Szene (kann zu #05 anschließen, muss aber nicht). Nicht Plot-Canon.
+ergaenzende_referenz: Réage (Histoire d'O) — Material-Präzision in der Ruhe; Rampling (Exit to Eden) — psychologische Tiefe; SLY (Alchemised) — Körperteil-Subjekt-Präzision
+zweck: Ton-Referenz für Vesper/Maren-Aftercare nach Szene. Kurz, Dom-POV, Care als Handlung (nicht als Gefühl), Material konkret, Marens Zittern als physiologischer Zustand.
+canon_status: Ton-Etüde, unmittelbar nach einer Szene. Nicht Plot-Canon. v3 nach Refit-Pipeline-Final (Voice-Anchored + Antislop-Layer-1 + 5 Subagenten inkl. Vision-Layer + User-Korrekturen 2026-05-04).
 ---
 
-Sie zitterte, und er wusste vor ihr, dass es gleich kommen würde.
+Sie zitterte, und er wusste vor ihr, dass es kam. Vesper hatte den Punkt unter dem Schulterblatt schon gefunden — dort setzte das Zittern aus und kam einen Atemzug später zurück.
 
-Vesper löste die Lederschlaufe von ihren Handgelenken, eine Schnur nach der anderen, die Knoten so gemacht, dass er sie blind auflösen konnte. Er zog das Seidenband vom Kopf. Ihre Augen waren schwarz und weit, die Lider schwer.
+Er löste die Lederschlaufe am rechten Handgelenk zuerst, weil er sie zuerst angelegt hatte. Drei Schichten Kalbsleder, ein Messingring. Den Knoten zog er mit einem Finger auf. Das Leder trug einen Schweißfilm, das Messing glühte handwarm. Er legte beide Schlaufen auf den Stuhl und strich mit dem Daumen über die Haut darunter. Gerötet, warm, ganz.
 
-Er nahm die Wolldecke vom Stuhl, legte sie um sie. Dick, schwer, grob. Nicht die dünne; die dünne reichte nicht. Er wickelte sie fest, die Arme mit ein, bis nur ihr Gesicht frei war. Zog sie aufs Bett, neben sich, nicht auf die Mitte — an die Wand, wo die Wand warm war, weil der Kamin dahinter lag.
+Er löste das Seidenband am Hinterkopf, das ihre Augen verbunden hatte, und zog es nach vorn ab, damit der Knoten ihr Haar nicht mitnahm. Ihre Lider blieben schwer.
+
+Er griff die schwere Wolldecke vom Stuhl. Dick, außen grob, das Leinen-Futter glatt. Die dünne auf dem Bett schob er beiseite — sie reichte für eine andere Nacht. Er wickelte sie um Marens Schultern, schlug das untere Ende über ihre Füße, ließ nur Gesicht und eine Hand frei. Dann setzte er sich neben sie an die Wand, die warm blieb, weil dahinter der Kamin brannte.
 
 »Trink.«
 
-Er hielt ihr das Glas an die Lippen. Wasser, nichts sonst. Sie trank zwei Schlucke. Er nahm das Glas weg, stellte es auf den Boden neben dem Bett, wo sie es nicht umstoßen konnte.
+Er hielt ihr das Glas an die Unterlippe und neigte es. Sie nahm zwei Schlucke. Unter dem Kiefer schlug es schneller als ihr Atem. Er stellte das Glas auf den Boden, neben den Bettpfosten, außerhalb ihrer Reichweite.
 
 »Mehr?«
 
-Sie schüttelte den Kopf, halb. Das reichte ihm als Antwort.
+Ein knappes Kopfschütteln, kaum eine Bewegung.
 
-Er legte sich zu ihr, nicht vor sie. Hinter sie. Seinen Arm unter die Decke an ihren Bauch, seine Hand flach auf ihren Rippen, dort, wo er die Rippen fühlen konnte. Sein Daumen lag auf einer Stelle, die sich hob und senkte — die Atmung. Er zählte nicht mit, aber er spürte, ob sie schneller wurde oder langsamer. Langsamer.
+Er schmiegte sich hinter sie, Brust an Rücken, schob den Arm unter die Decke und spreizte die Hand flach auf ihre untersten Rippen. Unter seiner Handfläche hob und senkte sich ihr Brustkorb, erst schneller, dann langsamer.
 
 »Bist du da?«
 
@@ -32,16 +34,16 @@ Er legte sich zu ihr, nicht vor sie. Hinter sie. Seinen Arm unter die Decke an i
 
 »Ich warte.«
 
-Ihre Nasenspitze war kalt. Er legte seine Wange an ihre Schläfe, hielt sie da. Der Schweiß unter ihrem Haar war schon am Trocknen.
+Ihre Nasenspitze blieb kalt, als sie den Kopf gegen seine Schulter drehte. Er neigte seine Wange an ihre Schläfe. Der Schweiß im Haaransatz war getrocknet, das Haar daneben klebte noch feucht.
 
-Das Zittern ließ nach, nicht auf einmal, sondern in Wellen. Nach ein paar Minuten — er hätte nicht sagen können, wie viele, und er hatte bewusst nicht auf die Uhr gesehen — atmete sie lang einmal aus, und ihr Rücken wurde weicher gegen seine Brust.
+Das Zittern ließ in Wellen nach. Eine Welle, dann eine kleinere, dann eine, die kaum noch zu spüren war. Sie atmete einmal lang aus — er hätte nicht sagen können, nach wie vielen Minuten, und er hatte bewusst nicht auf die Uhr gesehen. Ihr Rücken wurde weicher gegen ihn, ihre rechte Hand öffnete sich unter der Decke und blieb offen.
 
 »Ich bin da«, sagte sie.
 
 »Ich weiß.«
 
-Er blieb. Er stand nicht auf, um etwas anderes zu tun. Tee, Kerzen, alles konnte warten. Er blieb, bis sie einschlief oder sagte: *Steh auf.*
+Er blieb. Der Tee in der Küche, die zweite Kerze, der Brief aus Karst — alles konnte warten. Er rührte sich nicht, bis sie einschlief oder sagte: *Steh auf.*
 
-Sie sagte es nicht. Sie schlief ein.
+Sie schlief ein. Ihre Hand lag offen unter seiner.
 
-Er löschte die Kerze neben dem Bett mit den Fingern, weil er den Arm nicht unter der Decke wegnehmen wollte.
+Er löschte die Kerze auf dem Nachttisch zwischen Daumen und Zeigefinger. Den Arm unter der Decke zog er nicht zurück.

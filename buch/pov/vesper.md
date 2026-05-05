@@ -253,7 +253,7 @@ Alphina kennt alle drei. Das ist der Auslöser für ihren Schreibtisch-Reveal in
 
 **B3-K36 Vespers linker Unterarm zerkocht:** Ein aufgeladener Varen-Schemen mit Bindungs-Talent **fasst Vespers linken Unterarm**. Haut spannt, bleibt unversehrt, Fleisch innen kocht. Er kämpft weiter mit der rechten Hand. (Bindungs-Schemen-Mechanik: Talent-Übertragung auf Schemen — siehe `10-magie-system.md`.)
 
-**B3-K39 Amputation:** Vesper-Amputation des linken Unterarms mit **Runas Feuer-Klinge** (sauber, Feuer-Resonanz). Eine Moragh-Woche Rast. Drei Finger Alphinas sind verloren. Kessler liegt schwer beschädigt zurück.
+**B3-K39 Amputation:** Vesper-Amputation des linken Unterarms durch **Runas blosse Hand** (Stufe-10-Hitze: Fleisch von innen entzünden, eigene Haut immun gegen eigenes Feuer — sie trennt das Gewebe und versiegelt die Wunde im selben Beat, kein Werkzeug). Eine Moragh-Woche Rast. Drei Finger Alphinas sind verloren. Kessler liegt schwer beschädigt zurück.
 
 **B3-K40 Alphina + Vesper — Sub-Phase:** Nach Wochen des Schweigens eine Nacht bei Kerzenlicht. Vesper als Dom, geduldig, reflektiert. Alphina erstmals Sub — durch Scham über ihre Varen-Zeit. Blühende Dornen ruhig, mit Blüten. Sorel-als-Maßstab (er trägt sie ohne Manipulation, Echo zu B1-K21).
 

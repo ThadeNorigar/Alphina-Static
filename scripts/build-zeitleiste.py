@@ -934,7 +934,7 @@ B3_EVENTS: list[dict[str, Any]] = [
      "tags": ["Portal tot", "Magie weg", "2153 TZ"]},
     {"mz": 9.9, "welt": "moragh", "pov": "Vesper", "buch": "B3", "kapitel": "79", "leseart": "normal",
      "titel": "Ruhezeit — Vesper amputiert, Gruppe erholt sich",
-     "detail": "Vesper-Amputation mit Runas Feuer-Klinge. Drei Finger Alphinas sind verloren. Kessler liegt auf dem Schlachtfeld zurück, Nyr trauert. Die Gruppe rastet eine Moragh-Woche, zählt die Toten.",
+     "detail": "Vesper-Amputation durch Runas blosse Hand (Stufe-10-Hitze, trennt und versiegelt im selben Beat, kein Werkzeug). Drei Finger Alphinas sind verloren. Kessler liegt auf dem Schlachtfeld zurück, Nyr trauert. Die Gruppe rastet eine Moragh-Woche, zählt die Toten.",
      "typen": ["hintergrund", "tod"],
      "tags": ["Amputation", "Ruhezeit"]},
     {"mz": 10.0, "welt": "moragh", "pov": "Alphina", "buch": "B3", "kapitel": "80", "leseart": "normal",

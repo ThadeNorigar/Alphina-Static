@@ -55,7 +55,7 @@ Memory `project_alphina_heat_echo_pflanzen.md`. Begehren leckt als Pflanzen-Wach
 |---|---|
 | **Sorel — Begehren** | Farne sprossen, Wedel öffnen sich (Anker: Lichthaus-Keller-Farne, das was im Schatten gedeiht) |
 | **Varen — Begehren (B2 Captivity)** | Dornenranken mit Purpurblüten (Bedrohung + Schönheit, Purpur = Welt-Marker) |
-| **Runa — Begehren** | TBD (bei erster Heat-Szene mit Autor klären) |
+| **Runa — Begehren** | Glutmoos (Moragh-Flora) — Polster auf Stein/Mauer, glüht von innen rötlich-warm. Asymmetrische Wahrnehmung: Alphina liest „warmer Stein", Runa fühlt die Wärme an Handflächen, weiß es vor ihr. |
 | **Trauer / Verlust (K38)** | schwarze Dornen mit blut-rotem Blütenrand |
 
 **Intensitäts-Schwelle:**
@@ -149,6 +149,8 @@ Pro Heat-Szene fragen: Welche lebendige Pflanzen-Substanz ist in der Nähe? (Gei
 - **Sorel-Heat (Modus A bei Sex):** Farne sprossen, Wedel öffnen sich, Geissblatt biegt sich, Topfpflanzen treiben über Nacht. Beispiel-Form aus Leseprobe 03: *„Draussen klirrte das Geissblatt am Fensterrahmen, ein einziger Laut."* (Welt-Anker; Farn-Manifestation als Sorel-spezifischer Beat ergänzen.)
 - **Sorel-Heat (Modus C bei Wiedersehen-Begehren):** ein einzelner Wedel öffnet sich, eine Knospe springt auf. Sie merkt es nicht, Sorel sieht es vielleicht.
 - **Varen-Heat (B2):** Dornenranken mit Purpurblüten — Schock-Beat, sie kann es nicht abstellen.
+- **Runa-Heat (Modus A bei Sex/FWB):** Glutmoos-Polster wachsen rötlich-warm auf der nächsten Stein-/Mauer-Stelle, fingernagel- bis handgroß, mehrere. **Alphina liest „warmer Stein/Sonne"** (FWB-Sicht: sie erkennt die Manifestation nicht als Magie-Spur). **Runa, mit ihrer Feuer-Resonanz, fühlt die Wärme an Handflächen vor Alphina** (Runa weiß es schon). Asymmetrische Wahrnehmung als Mechanik der FWB-Asymmetrie.
+- **Runa-Heat (Modus C bei Verzeihung/Aftermath):** ein einzelnes Glutmoos-Polster auf Schwelle/Mauerritze, schwach glühend. Beispiel aus Leseprobe 34: Polster neben Druckerei-Schwelle, „das war schon vor sechs Wochen da" als Auflösungs-Beat.
 
 ### Begehren-Echo-Pattern (in Nicht-Heat-Szenen)
 
