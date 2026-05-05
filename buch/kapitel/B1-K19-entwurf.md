@@ -24,17 +24,17 @@ Siehe `buch/kapitel-ton-referenzen.md#k19` für die Zentralstelle.
 
 Botanischer Garten, Nachmittag, Spätfrühling. Vesper hat den Ort gewählt — neutral, genug Platz, nah am Steinkreis. Er ist als Erster da. Dann Alphina (sie kennt den Garten, hat den Schlüssel). Dann Maren. Dann Sorel, als Letzter, als habe er so lange wie möglich gewartet.
 
-[ALPHINA-ANKER] Die Pflanzen reagieren zu intensiv. Zu sehr. Alphina sagt ihnen still zu sein — kein laut gesprochenes Wort, eher ein Wille der durch die Fußsohlen läuft, durch die Erde, den gewohnten Kanal. Die Farne gehorchen sofort. Das hat sie noch nie so direkt getan. Die Stille die folgt ist nicht beruhigend. Sie ist eine Warnung.
+[ALPHINA-ANKER] Die Pflanzen schlagen zu stark aus. Alphina sagt ihnen still zu sein — kein laut gesprochenes Wort, eher ein Wille der durch die Fußsohlen läuft, durch die Erde, den gewohnten Kanal. Die Farne gehorchen sofort. Das hat sie noch nie so direkt getan. Die Stille die folgt ist nicht beruhigend. Sie ist eine Warnung.
 
 Kurze Vorstellungen. Vesper moderiert, ohne zu moderieren — er nennt Namen, setzt Kontexte, gibt nichts preis was die anderen nicht selbst teilen wollen. Maren kennt Alphina und Sorel noch nicht; Alphina kennt Maren noch nicht; Sorel kennt Maren noch nicht; alle vier kennen Vesper.
 
 Alphina und Sorel im selben Raum. Sie haben sich seit K13 nicht gesehen (nur den kurzen Steg-Moment in K15, kein Wort). Keine explizite Geste. Die Stille zwischen ihnen ist erkennbar für jeden der schaut — Vesper schaut. Maren schaut.
 
-Atmosphäre: Die Luft riecht nach feuchter Erde und nach etwas, das keiner benennen kann. Süßlich, nicht Obst, nicht Honig. Die Tiere die seit Wochen im Garten sind — heute nicht. Der Garten ist leer. Das ist seltsamer als ihre Anwesenheit.
+Atmosphäre: Die Luft riecht nach feuchter Erde und nach etwas Süßlichem, das niemand kennt — kein Obst, kein Honig. Die Tiere, die seit Wochen im Garten waren, fehlen heute. Der Garten ist leer — seltsamer als ihre Anwesenheit.
 
 Informationsaustausch, knapp. Vesper hält ihn kurz — nicht weil die Information nicht wichtig ist, sondern weil ein zu langer Austausch die Erschöpfung bringt bevor das Handeln kommt. Jeder legt eine Karte auf den Tisch: Alphina (Steinkreis-Puls, Heilung an Sorels Hand, Farne). Sorel (Platten-Anomalie, Verbrennung). Vesper (Uhren-Ringe, 4:33). Maren (Wasser-Strudel, Wasser erwärmen).
 
-Schweigen danach. Das Schweigen ist kein Nicht-Wissen. Es ist das Zurückhalten der Konsequenz.
+Schweigen danach. Niemand spricht aus, was alle sehen.
 
 **Dialog-Informationen:**
 - Alphina erfährt: Maren (Name, Schiffsbauerin, Wasser-Resonanz, Harons Werft)
@@ -63,13 +63,13 @@ Der Wächter-Schemen ist da. Drei bis vier Meter groß, tierisch-humanoid, Schat
 
 [MAREN-MOMENT] Maren steht direkt am Riss-Ort. Der Schemen schlägt zu — Schattenklaue, Schulter. Maren fliegt. Zwei, drei Meter, Rücken auf den Boden, der Schmerz kommt sofort. Blut am Stoff. Sie liegt. Sie steht wieder auf.
 
-[SOREL-MOMENT] Sorel reagiert ohne Nachdenken. Gebündeltes Licht — er nimmt das Nachmittagssonnenlicht durch die Baumkronen, zieht es zusammen, wirft es auf den Schemen. Der Schemen schluckt es. Licht geht hinein wie in Wasser das sich schließt — und kommt nicht zurück. Keine Ablenkung, kein Zurückwerfen, kein Flimmern. Das Licht hört auf zu sein. Sorel greift nach Alphina und zieht sie weg vom Schemen, ein Reflex. Beschützer-Instinkt, direkt im Körper, nicht im Kopf. (Das ist der Instinkt der in K38 sein Tod sein wird.)
+[SOREL-MOMENT] Sorel reagiert ohne Nachdenken. Gebündeltes Licht — er nimmt das Nachmittagssonnenlicht durch die Baumkronen, zieht es zusammen, wirft es auf den Schemen. Der Schemen schluckt es. Licht geht hinein wie in Wasser das sich schließt — und kommt nicht zurück. Keine Ablenkung, kein Zurückwerfen, kein Flimmern. Das Licht hört auf zu sein. Sorel greift nach Alphina und zieht sie weg vom Schemen, ein Reflex. Der Reflex sitzt im Körper, nicht im Kopf. (Das ist der Instinkt der in K38 sein Tod sein wird.)
 
-[VESPER-MOMENT] Vesper spürt den Schemen als Frequenz — falsch, zu schnell, außerhalb jedes Takts. Sein Körper beginnt gegenzuhalten, bevor sein Kopf den Befehl gibt. Die Hände in der Luft, eine Geste die nichts greift und trotzdem etwas hält. Der Schemen wird langsamer. Nicht gestoppt — aber seine Bewegungen werden zähflüssig, seine Schläge kommen einen Herzschlag zu spät.
+[VESPER-MOMENT] Vesper spürt den Schemen als Frequenz — falsch, zu schnell, außerhalb jedes Takts. Sein Körper beginnt gegenzuhalten, bevor sein Kopf den Befehl gibt. Die Hände in der Luft, eine Geste, die nichts greift und doch etwas hält. Der Schemen wird langsamer. Nicht gestoppt — aber seine Bewegungen werden zähflüssig, seine Schläge kommen einen Herzschlag zu spät.
 
-[ALPHINA-MOMENT — und der Durchbruch] Alphina will Wurzeln. Sie kennt das — sie hat es im Garten gemacht, mit Lavendel, mit Klee. Sie konzentriert sich auf den Boden, auf die Farne, auf die Erde unter dem Steinkreis. Sie bekommt Gras. Dünne Halme, nutzlos. Sorel sieht es. Er schaltet um: nicht gebündeltes Licht, das der Schem schluckt. Diffuses Licht, gleichmäßig in alle Richtungen, wie in einem Gewächshaus unter Glas. Das Licht liegt über dem Boden wie ein Atem.
+[ALPHINA-MOMENT — und der Durchbruch] Alphina will Wurzeln. Sie kennt das — sie hat es im Garten gemacht, mit Lavendel, mit Klee. Sie konzentriert sich auf den Boden, auf die Farne, auf die Erde unter dem Steinkreis. Es kommt nur Gras. Dünne Halme, nutzlos. Sorel sieht es. Er schaltet um: nicht gebündeltes Licht, das der Schem schluckt. Diffuses Licht, gleichmäßig in alle Richtungen, wie in einem Gewächshaus unter Glas. Das Licht liegt über dem Boden wie ein Atem.
 
-Alphinas zweiter Versuch. Panische Angst — und das verstärkt es. Der Gedanke ist nicht bewusst formuliert, er sitzt im Körper: *haltet es fest.* Jetzt kommen die Wurzeln. Durch die Erde, durch den Garten — dick, holzig, lebendig. Vesper denkt: *bleib stehen.* Er synchronisiert: zwei Takte, sein Körper zwischen dem Frequenz-Senken des Schemen und dem Rhythmus der Wurzeln. Er hält beides gleichzeitig, zehn Sekunden, zwanzig.
+Alphinas zweiter Versuch. Panische Angst — und das verstärkt es. Der Gedanke ist nicht bewusst formuliert, er sitzt im Körper: *haltet es fest.* Jetzt kommen die Wurzeln. Durch die Erde, durch den Garten — dick, holzig, lebendig. Vesper denkt: *bleib stehen.* Er taktet: zwei Reihen, sein Körper zwischen dem Frequenz-Senken des Schemen und dem Rhythmus der Wurzeln. Er hält beides gleichzeitig, zehn Sekunden, zwanzig.
 
 Das Wurzelgespinst durchzieht den Schemen, von unten nach oben, durch die Schattensubstanz. Die Bindung bricht. Der Schem löst sich in Rauch auf — lautlos, wie ein Feuer das erstickt wird.
 
@@ -104,11 +104,11 @@ Niemand spricht für eine lange Minute.
 
 Dann Vesper, leise, als spreche er zu sich selbst: *"Das haben wir gemacht."* Keine Aufregung. Kein Triumph. Eine Feststellung, mit derselben Genauigkeit wie er eine Drift-Abweichung benennt.
 
-[ALPHINA-ANKER] Sie schaut auf die Skulptur. Lebendes Holz. Die Äste wachsen noch minimal, die äußersten Triebe strecken sich in die Sommerluft. Vier Personen haben das erschaffen, ohne es zu bestellen. Das fühlt sich nicht wie Sieg an. Es fühlt sich an wie eine Fähigkeit, von der sie nicht wusste, dass sie sie haben.
+[ALPHINA-ANKER] Sie schaut auf die Skulptur. Lebendes Holz. Die Äste wachsen noch minimal, die äußersten Triebe strecken sich in die Sommerluft. Vier Personen haben das erschaffen, ohne es zu bestellen. Kein Sieg. Eine Fähigkeit, die sie nicht gekannt hatten.
 
 Unter der Erschöpfung, unter der Erschütterung: das Gefühl, mächtig zu sein. Vier gegen einen Schemen, und sie haben gewonnen. Das Gefühl wird sie nach Moragh begleiten — und dort unvorsichtig machen.
 
-[Kurzer Blick auf den Steinkreis-Ort.] Die Riss-Stelle in der Luft ist weg. Aber der Stein hat etwas aufgenommen. Er ist wärmer als vorher. Nicht hot, nicht unangenehm — wärmer. Als hätte er gezeugt was jetzt aus ihm wächst.
+[Kurzer Blick auf den Steinkreis-Ort.] Die Riss-Stelle in der Luft ist weg. Aber der Stein hat etwas aufgenommen. Er ist wärmer als vorher. Nicht heiß, nicht unangenehm — wärmer.
 
 [SOREL-MOMENT] Sorel schaut auf Alphina, nicht auf die Skulptur. Er hat sie weggehalten. Sie hat es zugelassen. Er registriert beides. Er sagt nichts.
 

@@ -30,7 +30,7 @@ Siehe `buch/kapitel-ton-referenzen.md#k13` für die Zentralstelle.
 
 **Fließprosa-Exposé:**
 
-Drei Tage nach dem Abend im Garten. Sorel hat nicht entwickelt — er hat die Kassetten auf dem Regal stehen lassen wie Fragen, auf die er keine Antwort wollte. Jetzt zwingt er sich. Rotlicht an. Chemie temperiert. Er nimmt die erste Kassette aus der Reihe — eine Routineaufnahme vom Kai, vor zehn Tagen, nichts Besonderes. Er kennt jeden Parameter. Er weiß, was drauf sein muss: der Poller, das Lichthaus von unten, die Grauwe im Hintergrund.
+Drei Tage nach dem Abend im Garten. Sorel hat nicht entwickelt — er hat die Kassetten auf dem Regal stehen lassen wie Fragen, auf die er keine Antwort wollte. Jetzt zwingt er sich. Rotlicht an. Die Bäder hatten Temperatur. Er nimmt die erste Kassette aus der Reihe — eine Routineaufnahme vom Kai, vor zehn Tagen, nichts Besonderes. Er kennt jeden Parameter. Er weiß, was drauf sein muss: der Poller, das Lichthaus von unten, die Grauwe im Hintergrund.
 
 Er entwickelt sie.
 
@@ -44,15 +44,15 @@ Er legt sie beiseite. Nimmt die nächste.
 
 Nachtholm, vor drei Monaten, lange bevor er wusste dass Alphina existiert. Er hatte ein Hafenbecken fotografiert, als Test für eine neue Emulsion. Jetzt: im Mittelgrund, zwischen zwei Schiffsmasten, eine Silhouette. Sie. Unmöglich. Sie war nicht dort. Sie war nirgends in der Nähe von Nachtholm vor drei Monaten. Er weiß das. Er ist sich sicher. Er sieht sie trotzdem.
 
-Er arbeitet weiter. Nicht schneller, nicht langsamer — die Hände werden präziser, nicht unsicherer. Das ist das Unheimliche. Sein Körper arbeitet wie jemand, der das alles schon wusste.
+Er arbeitet weiter. Nicht schneller, nicht langsamer — die Hände werden präziser. Das ist das Unheimliche. Sein Körper arbeitet wie einer, der es schon wusste.
 
 Er entwickelt zwölf Platten, dann siebzehn. Auf elf von ihnen steht Alphina. Am Rand, im Hintergrund, in einer Reflexion. Nie zentral, nie gestellt, nie als Motiv. Immer als jemand der im Bild ist, obwohl er nicht im Bild sein dürfte.
 
-Die Platten ohne sie: der Marktplatz am Morgen (leer), eine Hauswand aus nächster Nähe, sein eigener Schuh als Ablichtungstest. Objekte, Flächen. Nichts, wo ein Mensch sein könnte.
+Die Platten ohne sie: der Marktplatz am Morgen (leer), eine Hauswand aus nächster Nähe, sein eigener Schuh als Ablichtungstest. Objekte und Flächen — keine Stelle, an der ein Mensch hätte stehen können.
 
 Er stellt die Frage, die er stellen muss: Hat er sie dorthin gestellt? Ist sein Gedächtnis gekippt, ist er inzwischen jemand der vergisst dass er sie fotografiert hat? Er prüft die Negative mit der Lupe. Die Körner liegen sauber. Keine nachträgliche Bearbeitung. Die Silhouetten sind im Emulsionsbild, eingebrannt beim Entwickeln, nicht später dazugemalt.
 
-Er hat eine zweite Hypothese, die er nicht formulieren will, weil sie ihm nicht gefällt: die Kamera sieht etwas. Er hat das seit Kap 6 gedacht und nicht gewagt es zu Ende zu denken. Er denkt es jetzt zu Ende: *die Kamera fängt ein, was meine Augen nicht sehen*. Das ist die Lüge, die er sich selbst erzählt, um sich eine andere Wahrheit zu ersparen.
+Er hat eine zweite Hypothese, die er nicht formulieren will, weil sie ihm nicht gefällt: die Kamera sieht etwas. Er hat das seit Kap 6 gedacht und nicht gewagt es zu Ende zu denken. Er denkt es jetzt zu Ende: *die Kamera fängt ein, was meine Augen nicht sehen*. Das ist die einfachere Erklärung. Die andere wollte er nicht denken.
 
 Die andere Wahrheit — dass *er* das macht, nicht die Kamera — ist ihm noch nicht zugänglich. Er hat kein Konzept dafür. Er kennt keine Menschen die Licht formen. Er kennt nur Linsen und Verschlüsse.
 
@@ -60,13 +60,13 @@ Zuletzt die Hände-Platte aus der K12-Nacht. Einhändig aufgenommen, der Schärf
 
 Das Bild: Alphinas Hände, beide Handflächen flach auf dem Purpurstein. Ränder unscharf, Perspektive schräg. Die Hände selbst: scharf. Scharf wie eine Studio-Aufnahme mit zwei Lampen und Stativ. Die Sehne am Daumenansatz glasklar. Er würde diese Hand im Dunkeln erkennen. Er *hat* sie im Dunkeln erkannt, vor drei Tagen, vor dem Stein.
 
-Er steht lange vor dieser Platte. Länger als vor allen anderen zusammen. Er denkt nicht — der Kopf ist leer und voll zugleich. Eine Wahrheit drängt an die Oberfläche und wird zurückgehalten, er weiß nicht wovon.
+Er steht lange vor dieser Platte. Länger als vor allen anderen zusammen. Er denkt nicht. Eine Wahrheit drängt an die Oberfläche und wird zurückgehalten, er weiß nicht wovon.
 
 Er legt die Hände-Platte zu den anderen in die Schublade unter dem Entwicklertisch. Gesicht nach unten. Alle Alphina-Platten zusammen, versteckt, nicht auf der Schnur.
 
 Die Wand bleibt leer. Nur die wenigen Platten ohne sie hängen dort — der Marktplatz, die Hauswand, der Schuh.
 
-Er wäscht die Hände. Das Wasser ist kalt. Die Chemikalien schmeckt er schon nicht mehr, nur noch den Puls in den Ohren.
+Er wäscht die Hände. Das Wasser ist kalt. Die Chemikalien schmeckt er schon nicht mehr, nur noch das Klopfen in den Ohren.
 
 **Dialog-Informationen:**
 - Kein Dialog (Sorel allein)
@@ -110,7 +110,7 @@ Die Tasche über der Schulter, den Blick geradeaus. Sie sagt: "Ich war in der N�
 
 Er lässt sie nicht rein.
 
-Er könnte aufmachen. Er weiß, dass das der natürliche Schritt wäre, der höfliche. Er tut es nicht. Er hält die Tür genau so, dass sein Körper den Rest füllt. Seine rechte Hand liegt auf dem Türrahmen, die bandagierte links an der Kante. Er steht im Weg, und er weiß dass er im Weg steht.
+Er könnte aufmachen. Er weiß, dass das der natürliche Schritt wäre, der höfliche. Er tut es nicht. Er hält die Tür genau so, dass sein Körper den Rest füllt. Seine rechte Hand ruht am Türrahmen, die bandagierte stützt sich an der Kante. Er steht im Weg, und er weiß dass er im Weg steht.
 
 Sie bemerkt es sofort. Ihr Blick geht einmal kurz an ihm vorbei — in den Keller, in den Spalt, auf die hintere Wand die sie kaum sehen kann — und zurück auf ihn. Sie sagt nichts zu dem was sie gesehen oder nicht gesehen hat. Aber sie bemerkt es.
 
@@ -149,7 +149,7 @@ Sie gehen.
 
 Sie gehen ohne Ziel. Sorel weiß nicht, wer die Richtung vorgibt — er folgt ihrem Schritt, sie folgt seinem Zögern, so kommen sie trotzdem irgendwohin. Aus der Gasse neben dem Lichthaus, quer durch zwei Querstraßen der Unterstadt, dann den langsamen Anstieg Richtung Oberstadt, wo die Gassen breiter werden und die Stadt Luft hat.
 
-Sie geht links von ihm. Ihr Schritt ist ruhig auf eine Art, die ihm nicht passt — sie ist nicht unter Druck, er ist unter Druck. Er zählt seine eigenen Atemzüge mit, ohne es zu wollen. Er macht das manchmal, wenn er fotografiert: Atem langsam halten für ruhige Hände. Es funktioniert jetzt nicht.
+Sie geht links von ihm. Ihr Schritt ist ruhig auf eine Art, die ihm nicht passt — sie ist nicht unter Druck, er ist unter Druck. Er zählt seine eigenen Atemzüge mit, ohne es zu wollen. Das tut er manchmal beim Fotografieren: Atem langsam halten für ruhige Hände. Es funktioniert jetzt nicht.
 
 Sie reden nicht sofort. Das Schweigen ist voll — beide wissen es.
 
@@ -189,7 +189,7 @@ Er sagt stattdessen: "Drei Tage ist lang genug, um jemandem zum ersten Mal zu be
 
 Das ist ein Satz, der fast wahr ist. Er ist so nah an der Wahrheit, dass es weh tut. Aber die Wahrheit war: *ich habe Sie seit Wochen*. Und das sagt er nicht.
 
-Sie lächelt nicht, aber etwas in ihrem Gesicht verändert sich — ein Moment von Enttäuschung, so kurz dass er nicht sicher ist ob er ihn gesehen hat. Dann ist sie wieder ruhig.
+Sie lächelt nicht, aber etwas zieht sich in ihrem Gesicht zusammen — Enttäuschung, kurz, so flüchtig dass er nicht sicher ist ob er es gesehen hat. Dann ist sie wieder ruhig.
 
 Sie sagt: "Ich muss weiter." Sie steigt die Stufen hoch, noch zwei, dann dreht sie sich ein letztes Mal halb um. "Entwickeln Sie weiter. Ich bin neugierig auf das, was Sie sehen."
 

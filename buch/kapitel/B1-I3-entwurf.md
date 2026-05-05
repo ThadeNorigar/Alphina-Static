@@ -121,7 +121,7 @@ Wichtig: KEINE Erklärung, KEINE Benennung, KEINE Einordnung. Die Leserin darf b
 **Exposition:** Elke ist weg. Der Riss ist zu. Lene ist allein.
 
 **Beats:**
-1. Der Riss schließt sich. Lene am Boden, Knie. Keldan liegt drei Schritt entfernt. Kesper ist nicht da — kein Leichnam, keine Stelle, nichts. Das Nicht-da-Sein ist schlimmer als ein Leichnam.
+1. Der Riss schließt sich. Lene am Boden, Knie. Keldan liegt drei Schritt entfernt. Kesper ist nicht da — kein Leichnam, keine Stelle, nichts. Das Fehlen ist schlimmer als ein Leichnam.
 2. Der letzte Schemen wandert durch die Stadt. Keine Richtung mehr, kein Auftrag. Lene hört: Schreie, dann Feuer vom Hafen. Ein Block. Pechfässer, vielleicht, oder Funkenflug — so wird die Stadt es sich erklären. Sie erklärt es sich so, weil sie keine andere Sprache hat.
 3. Irgendwann — sie weiß nicht wie lange — steht der Schemen, dreht sich, löst sich auf. Kein Grund erkennbar. Die Stadt wird es nicht sehen. Sie sieht es, allein im Garten.
 4. Lene steht auf. Das Knie hält. Notdürftig. Sie geht zu Keldan. Bleibt kurz stehen. Geht dann in die Stadt — nicht nach Hause. Woanders hin. Sie hat Kespers Bild noch, das er ihr gegeben hat.

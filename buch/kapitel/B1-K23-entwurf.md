@@ -72,7 +72,7 @@ Die Pflanze wachst gerichtet und schnell. Spitze streckt sich in Sorels Lichtkeg
 
 Sie loest, er loescht. Die Ranke bleibt. Handlaenge plus Fingerknochen, neue Wachstumsachse in Richtung des fruehren Lichtkegels. Veraenderung bleibt.
 
-Alphina begreift etwas, das sie nicht ausspricht: sein Licht *konkurriert* nicht mit ihrer Resonanz. Es *traegt* sie. Sein Licht ist Verstaerker, nicht Gegenspieler. Jeder andere Mann, dem sie diese Arbeit gezeigt haette (Henrik eingeschlossen), haette neben ihr gestanden, nicht in ihr. Sorel steht nicht neben ihr. Er steht unter ihrer Arbeit und haelt sie. (Dass ihre Naehe selbst ein weiterer Verstaerker sein koennte, registriert sie halb — die Kerze steht zu ruhig, ihr Puls zu laut. Sie spricht auch das nicht aus.)
+Alphina begreift etwas, das sie nicht ausspricht: sein Licht *konkurriert* nicht mit ihrer Resonanz. Es *traegt* sie. Sein Licht traegt sie. Jeder andere Mann, dem sie diese Arbeit gezeigt haette (Henrik eingeschlossen), haette neben ihr gestanden. Sorel steht unter ihrer Arbeit und haelt sie. (Dass ihre Naehe selbst ein weiterer Verstaerker sein koennte, registriert sie — die Kerze steht zu ruhig, ihre Halsschlagader zu laut. Sie spricht auch das nicht aus.)
 
 Beide schweigen. Beide verstehen: Im Garten (K19) haben drei Resonanzen gleichzeitig gewirkt, aber jede fuer sich. Hier ineinander. Andere Funktionsweise.
 
@@ -82,7 +82,7 @@ Alphina vollendet ihn nicht. Der Gedanke bleibt.
 **Dialog-Informationen:**
 - Alphina erfaehrt: Licht und Resonanz koppeln multiplikativ (genaue Faktoren nicht ausgerechnet, aber Groessenordnung klar).
 - Sorel erfaehrt: sein Licht kann als Traeger dienen, nicht nur als Waffe.
-- Alphinas Erkenntnis: K19 war Gleichzeitigkeit. K23 ist Kopplung. Zwei Begriffe, zwei Wirkungen.
+- Alphinas Erkenntnis: K19 war Gleichzeitigkeit. K23 ist Kopplung — andere Wirkung.
 - Alphinas Selbst-Erkenntnis (Fundament fuer K37): Sorels Licht konkurriert nicht mit ihrer Resonanz, es traegt sie. Andere Maenner haetten neben ihr gestanden. Er nicht.
 - Sorels unvollendeter Satz steht als geteilter Gedanke im Raum: vier wuerden multiplikativ werden.
 
@@ -106,7 +106,7 @@ Alphina vollendet ihn nicht. Der Gedanke bleibt.
 
 **Wortziel:** 700-800 W
 
-Experiment beendet, Ranke liegt auf dem Untersetzer. Beide sitzen auf den Dielen. Keiner steht auf. Zwei Atemzuege, in denen nichts passiert. Alphina registriert: Fingerspitzen warm, Kniescheiben auf Holz, Herzschlag leicht erhoeht — nicht mehr vom Experiment.
+Experiment beendet, Ranke liegt auf dem Untersetzer. Beide sitzen auf den Dielen. Sie atmen, der Raum still. Alphina registriert: Fingerspitzen warm, Kniescheiben auf Holz, Herzschlag leicht erhoeht — nicht mehr vom Experiment.
 
 Sorel steht auf, geht um den Tisch, kniet neben ihr. Der Tisch und die Ranke sind jetzt seitlich. Er sagt nichts. Seine Hand liegt zwei Fingerbreit neben ihrer auf den Dielen. Sie spuert seine Waerme, ohne Beruehrung.
 

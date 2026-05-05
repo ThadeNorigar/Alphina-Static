@@ -25,11 +25,11 @@ Nicht viele. Zwei, drei in den Schatten zwischen den Beeten — schattenhaft, nu
 
 Sie geht weiter. Hände in den Lavendel. Henriks Messer auf dem Steckling-Brett. Sie stellt sich so, dass der Steinkreis in ihrem peripheren Sichtfeld bleibt.
 
-Runa taucht gegen zehn auf — unangekündigt, Notizbuch unter dem Arm, Haare noch nicht ganz trocken. Sie setzt sich auf die Bank am Hauptweg-Ende (dieselbe Bank aus K12 — die zwei abgewetzten Stellen). Sie schlägt das Notizbuch auf und liest Alphina zwanzig Sichtungsberichte vor: Fischer der Grauwe, Wäscherin in der Oberstadt, drei Kinder im Hafen-Viertel, Vesper Greve (Alphina registriert den Namen ohne Reaktion). Keiner beschreibt dasselbe Wesen. Aber alle nennen dieselbe Ecke der Stadt: den Hang unterhalb des Botanischen Gartens.
+Runa taucht gegen zehn auf — unangekündigt, Notizbuch unter dem Arm, Haare noch nicht ganz trocken. Sie setzt sich auf die Bank am Hauptweg-Ende (dieselbe Bank aus K12 — die zwei abgewetzten Stellen). Sie schlägt das Notizbuch auf und liest Alphina zwanzig Sichtungsberichte vor: Fischer der Grauwe, Wäscherin in der Oberstadt, drei Kinder im Hafen-Viertel, Vesper Greve. Alphina lässt den Namen unkommentiert. Keiner beschreibt dasselbe Wesen. Aber alle nennen dieselbe Ecke der Stadt: den Hang unterhalb des Botanischen Gartens.
 
 Runa macht eine Pause. Schaut auf ihr Notizbuch. Sagt nicht: *die Phänomene konzentrieren sich um dich.* Sie sagt: "Die Karte sieht aus wie ein Kreis. Und der Mittelpunkt liegt hier." Sie zeigt auf den Garten-Boden.
 
-Alphina sagt nichts. Henrik kommt mit dem Gießkrug. Das Gespräch verliert sich im Alltag. Runa bleibt noch eine halbe Stunde und geht dann. Als sie das Tor schließt, dreht sich der Wolfshaft-Schem ihr nach — nicht Runa, Alphina.
+Alphina antwortet nicht. Henrik kommt mit dem Gießkrug. Das Gespräch versickert im Alltag. Runa bleibt noch eine halbe Stunde und geht dann. Als sie das Tor schließt, dreht sich der Wolfshaft-Schem ihr nach — nicht Runa, Alphina.
 
 **Dialog-Informationen:**
 - Runa erfährt: nichts Neues, sie bringt Informationen
@@ -59,13 +59,13 @@ Alphina geht nach der Arbeit zum Hafen. Keine besondere Absicht — sie geht sei
 
 Sorel ist am Steg. Sie sieht ihn bevor er sie sieht — oder bevor er so tut als ob. Er steht am dritten Steg-Abschnitt, Stativ, Kamera auf die Grauwe gerichtet. Sie kennt seinen Rücken jetzt: die Art wie er wartet, Schultern leicht nach vorne, den Atem anhält bevor er auslöst. Sie hat ihn in K13 in der Hafengasse gesehen und weitergelaufen. Heute bleibt sie stehen.
 
-Sie beobachtet ihn. Er bemerkt sie nicht. Das ist entweder ehrlich oder eine Entscheidung. Die Farne am Steg-Geländer drehen sich langsam auf sie zu — drei, dann vier. Sie sieht es. Wenn er sich umdreht, sieht er es auch.
+Sie beobachtet ihn. Er bemerkt sie nicht — ob ehrlich oder gewählt, kann sie noch nicht sagen. Die Farne am Steg-Geländer drehen sich langsam auf sie zu — drei, dann vier. Sie sieht es. Wenn er sich umdreht, sieht er es auch.
 
-Er dreht sich um. Sieht sie direkt an. Keine Überraschung in seinem Gesicht — also wusste er es. Zwei, drei Herzschläge Blickkontakt. Keiner grüßt. Keiner sagt etwas. Dann geht Alphina. Nicht schnell. Nicht langsam. Sie geht einfach.
+Er dreht sich um. Sieht sie direkt an. Sein Gesicht bleibt ruhig. Er hatte sie kommen sehen. Zwei, drei Herzschläge Blickkontakt. Keiner grüßt. Keiner sagt etwas. Dann geht Alphina. Nicht schnell. Nicht langsam. Sie geht einfach.
 
 Hinter ihr drehen sich die Farne nach ihr. Sie sieht es nicht, aber sie spürt es — ein Zug in den Fingerspitzen, wie ein Faden der nachläuft.
 
-Das hier ist keine Erst-Begegnung. Das weiß sie. Er weiß es. Das Schweigen ist keine Fremdheit — es ist das, was nach K13 übrigbleibt: sein Ausweichen, ihre Frage ("als ob Sie mich schon länger kennen"), seine nicht-Antwort. Das hier ist das Weitermachen ohne das Offene aufzulösen. Sie hat ihm die Wahl gelassen. Er hat sie nicht genutzt. Jetzt ist der Hafen neutral und das Schweigen auch.
+Beide wissen, dass das keine Erst-Begegnung ist. Das Schweigen trägt, was nach K13 zwischen ihnen offen blieb: sein Ausweichen, ihre Frage ("als ob Sie mich schon länger kennen"), seine nicht-Antwort. Heute machen beide weiter, ohne das Offene aufzulösen. Sie hat ihm die Wahl gelassen. Er hat sie nicht genutzt. Jetzt ist der Hafen neutral und das Schweigen auch.
 
 **Dialog-Informationen:**
 - Kein Dialog
@@ -97,9 +97,9 @@ Dann steht die humanoide Gestalt in der Gasse vor ihr.
 
 Nicht auf dem Dach. Nicht in einem Eingang. Mitten in der Gasse. Mannsgroß, ungefähr — die Silhouette stimmt, Schultern, Kopf, Arme — aber die Kanten verschwimmen in den Nebel. Augen: schwarz, keine Pupille, keine Iris, nur schwarz. Raucht an den Rändern wie alle anderen.
 
-Alphina bleibt stehen. Das ist der Gänsehaut-Moment: die Gestalt neigt den Kopf. Nicht reflexartig. Langsam. Wie jemand der etwas hört. Wie jemand der eine Antwort abwartet. Es ist keine Tierregung. Es ist eine Geste.
+Alphina bleibt stehen. Das ist der Gänsehaut-Moment: die Gestalt neigt den Kopf. Nicht reflexartig. Langsam. Wie jemand der etwas hört. Wie jemand der eine Antwort abwartet. Keine Tierregung — eine Geste.
 
-Alphinas Hände zittern. Nicht vor Kälte. Sie steht still. Die Gestalt steht still. Keine Annäherung, keine Geste die auf Angriff hinweist. Nur: das Warten.
+Alphinas Hände zittern. Nicht vor Kälte. Sie steht still. Die Gestalt steht still. Keine Annäherung, nichts Drohendes. Nur das Warten.
 
 Dann löst sie sich auf. Nicht plötzlich — wie Ausatmen. Der Nebel nimmt sie zurück.
 

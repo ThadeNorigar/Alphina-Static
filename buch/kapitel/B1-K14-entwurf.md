@@ -31,11 +31,11 @@ Sie geht. Sechs, sieben Schritte. Der Raum registriert sie — der Fuhrmann hebt
 
 Er hebt den Kopf. In einer einzigen Bewegung: Pinzette ablegen, linke Hand flach liegen lassen, Lupe vom Auge. Seine Augen finden ihre.
 
-In dem Moment kippt etwas in ihr, das sie noch nie kippen gespürt hat. Ihr Puls schlägt einmal, hart, unterhalb des Nabels. Ihre Knie melden sich — nicht weich, aber plötzlich spürbar, als hätten sie vorher ohne Aufwand getragen und jetzt käme Arbeit dazu. Ihre Handgelenke innen, wo die Pulsadern laufen, werden warm; eine Wärme, die nicht aus dem Raum kommt. Ihr Atem steht einen Atemzug still.
+In dem Moment kippt etwas in ihr, das sie noch nie kippen gespürt hat. Etwas schlägt einmal, hart, unterhalb des Nabels. Ihre Knie melden sich — nicht weich, aber plötzlich spürbar, als hätten sie vorher ohne Aufwand getragen und jetzt käme Arbeit dazu. Ihre Handgelenke innen, wo die Pulsadern laufen, werden warm; eine Wärme, die nicht aus dem Raum kommt. Ihr Atem steht einen Atemzug still.
 
-Und fast gleichzeitig die andere Wahrheit: sie ist nicht allein. Der Fuhrmann drei Schritte hinter ihr. Der Wirt vier Schritte links. Die Handwerker. Ihr Körper will sich senken, beugen, nachgeben — und er darf es nicht. Der Raum steht gegen sie. Sie zwingt ihre Schultern, wo sie sind. Ihren Nacken gerade. Ihre Augen, seine zu halten, weil alles andere mehr verraten würde als Halten. Das Verbergen verdreifacht das Gefühl.
+Und fast gleichzeitig die andere Wahrheit: sie ist nicht allein. Der Fuhrmann drei Schritte hinter ihr. Der Wirt vier Schritte links. Die Handwerker. Ihr Körper will sich senken, beugen, nachgeben — und er darf es nicht. Der Raum steht gegen sie. Sie zwingt ihre Schultern, wo sie sind. Ihren Nacken gerade. Ihre Augen, seine zu halten, weil alles andere mehr verraten würde als Halten. Sie verbirgt es. Es schiebt nach.
 
-Ihre Augen gehen auf seine Hände, weil seine Augen zu viel sind. Zwei Schwielen am Daumenballen, eine Narbe über dem rechten Handknöchel, die Fingerkuppen breit und flach wie bei Leuten, die viel mit kleinen Dingen arbeiten. Die Art, wie die Hände auf dem Tisch liegen: bereit, nicht gespannt. Diese Hände können halten, ohne zu greifen. Sie wissen, wann sie nur der Platz sein müssen. Marens eigene Handgelenke melden sich noch einmal, schärfer.
+Ihre Augen gehen auf seine Hände, weil seine Augen zu viel sind. Zwei Schwielen am Daumenballen, eine Narbe über dem rechten Handknöchel, die Fingerkuppen breit und flach wie bei Leuten, die viel mit kleinen Dingen arbeiten. Die Art, wie die Hände auf dem Tisch liegen: bereit, nicht gespannt. Diese Hände können halten, ohne zu greifen. Marens eigene Handgelenke melden sich noch einmal, schärfer.
 
 Er sagt nichts. Er wartet. Gast eröffnet.
 
@@ -47,11 +47,11 @@ Der Wirt kommt mit einem kleinen Kupferkessel. Er fragt nicht Vesper — er frag
 
 Einen halben Atemzug nachdem der Wirt weg ist, kommt die Sprache — endlich, als Beschreibung dessen, was ihr Körper schon seit zwei Minuten tut. *Hände die warten könnten.* Drei Worte. Mit einem zweiten, schärferen Schub tief im Bauch, so deutlich, dass sie die Lippen aufeinanderpresst. Sie weiß nicht, worauf sie warten sollen. Sie weiß, dass sie es will. Das ist neu.
 
-Er spricht über die Uhr, nicht zu ihr. *"Das Unruhrad hat einen Spannungsriss, fein, aber er läuft. Die Spirale ist verzogen, wahrscheinlich vom Salz. Das kann ich machen."* Preis. Termin — drei Tage, vier wenn er ein Ersatzteil braucht. Sie stimmt mit einem Nicken zu. Sie schiebt einen kleinen Messingkeil unter das Werk; die Geste ist Fürsorge ohne das Wort. Maren muss *Fürsorge* aus ihrem Kopf schieben. Sie greift nach dem Becher. Der Tee ist zu heiß; sie merkt es nicht.
+Er spricht über die Uhr, nicht zu ihr. *"Das Unruhrad hat einen Spannungsriss, fein, aber er läuft. Die Spirale ist verzogen, wahrscheinlich vom Salz. Das kann ich machen."* Preis. Termin — drei Tage, vier wenn er ein Ersatzteil braucht. Sie stimmt mit einem Nicken zu. Sie schiebt einen kleinen Messingkeil unter das Werk; eine Geste, die für sie sorgt, ohne sie zu nennen. Maren muss *Fürsorge* aus ihrem Kopf schieben. Sie greift nach dem Becher. Der Tee ist zu heiß; sie merkt es nicht.
 
-Um den Blick von seinen Händen wegzubekommen, geht sie aus dem Fenster. Ein schmales Band Grauwe, drei Handbreit, zwischen zwei Hauswänden. Treibgut — stadteinwärts. Immer noch. Sie zählt an der Kante einer Hauswand: fünfzehn Sekunden einwärts, dann normal, dann wieder einwärts. Das Wasser tut dasselbe wie ihr Körper: etwas, das es nicht tun sollte, in kleinen Stößen, die kommen und gehen. Das hilft, ein bisschen.
+Um den Blick von seinen Händen wegzubekommen, geht sie aus dem Fenster. Ein schmales Band Grauwe, drei Handbreit, zwischen zwei Hauswänden. Treibgut — stadteinwärts. Immer noch. Sie zählt an der Kante einer Hauswand: fünfzehn Sekunden einwärts, dann normal, dann wieder einwärts. Das Wasser stockt wie ihr Körper: etwas, das es nicht tun sollte, in kleinen Stößen, die kommen und gehen. Das hilft, ein bisschen.
 
-Das Geräusch seines Stifts stoppt. Sie dreht den Kopf. Er hat aufgeschaut. Sein Blick folgt ihrem — Fenster, Grauwe, zurück zu ihr. Einen Atemzug halten sich ihre Augen. Er sieht, dass sie etwas sieht. Er lässt es stehen. Keiner sagt etwas. In dieser Stille — die nicht die Stille des Schankraums ist, sondern eine Stille die zwischen ihnen aufgeht und eine eigene Temperatur hat — registriert er, einen halben Schlag lang, auch das andere. Was in ihrem Körper ist. Er lässt den Blick zwei Herzschläge zu lang auf ihr liegen. Dann senkt er ihn zurück aufs Buch. Maren spürt die Hitze in ihrem Gesicht.
+Das Geräusch seines Stifts stoppt. Sie dreht den Kopf. Er hat aufgeschaut. Sein Blick folgt ihrem — Fenster, Grauwe, zurück zu ihr. Einen Atemzug halten sich ihre Augen. Er sieht, dass sie etwas sieht. Er lässt es stehen. Keiner sagt etwas. In dieser Stille — eine Stille zwischen ihnen, eigen, mit eigener Wärme — registriert er, einen halben Schlag lang, auch das andere. Was in ihrem Körper ist. Er lässt den Blick zwei Herzschläge zu lang auf ihr liegen. Dann senkt er ihn zurück aufs Buch. Maren spürt die Hitze in ihrem Gesicht.
 
 Er reicht ihr einen schmalen Zettel — Termin, eine Nummer, sein Name in aufrechter, kleiner Handschrift: *V. Greve.* *"In drei Tagen. Wenn das Ersatzteil länger braucht, schicke ich dem Wirt Bescheid."* Seine Stimme ist nicht warm und nicht kalt. Sie ist die eines Mannes, der weiß, was er gerade gesehen hat, und der nichts damit macht. Das macht es schlimmer. Ihre Finger streifen seine nicht ganz. Sie nickt. *"Danke."*
 
@@ -97,7 +97,7 @@ Dieselbe Brücke wie auf dem Hinweg. Dreißig Sekunden Grauwe normal, dann kippt
 
 In einer Gasse mit einer Katze auf der Schwelle holt sie das Bild ein. Nicht der Gedanke — das Bild: ihre eigenen Handgelenke in seiner Hand, seine Geduld, ihr Körper der zum ersten Mal nicht weglaufen will. Das Bild ist scharf. Sie weiß, dass er das könnte. Sie weiß nicht, woher sie es weiß. Die Katze hebt den Kopf, schaut sie an, legt ihn wieder ab.
 
-An der Werft: Harons Geruch (Eichenholz, Pech, alter Tabak), die Spanten wie Rippen. Edric ist nicht da. Gut. Sie legt den Zettel auf den Werktisch, beschwert ihn mit einem Hammer. *V. Greve.* Dann nimmt sie ein Stück Holz und ein Stecheisen — eine Planke, die gestern nicht sauber wurde. Ihre Hände wissen die Schritte. Drücken, kippen, abnehmen. Aber ihre Hände sind nicht mehr ganz hier. Sie sind halb an einem anderen Tisch, wo fremde Hände ein Messinggehäuse halten.
+An der Werft: Harons Geruch (Eichenholz, Pech, alter Tabak), die Spanten wie Rippen. Edric ist nicht da. Gut. Sie legt den Zettel auf den Werktisch, beschwert ihn mit einem Hammer. *V. Greve.* Dann nimmt sie ein Stück Holz und ein Stecheisen — eine Planke, die gestern nicht sauber wurde. Ihre Hände wissen die Schritte. Drücken, kippen, abnehmen. Aber ihre Hände sind nicht mehr nur hier. Ein Teil von ihnen ist an einem anderen Tisch, wo fremde Hände ein Messinggehäuse halten.
 
 Das Holz splittert. Zum ersten Mal seit Jahren. Sie hält inne.
 
@@ -105,7 +105,7 @@ Der kleine Splitter liegt zwischen ihren Fingern. Diese Hand hat in dreißig Jah
 
 Sie arbeitet weiter, langsamer. Die Planke wird sauber. Edric kommt gegen drei zurück, ruft ein Wort, sie ruft zurück, kein Augenkontakt — Werftarbeit. Der Nachmittag geht.
 
-Am späten Nachmittag, als das Licht im Hafen flacher wird, tritt sie an den offenen Seerand. Die Grauwe mündet hier, brackig, olivgrün. Sie schaut hin, nach nichts Bestimmtem. In drei Tagen muss sie die Uhr holen. In drei Tagen wird sie die Messingklinke des *Anker* wieder drücken, durch denselben Schankraum gehen, und dieser Mann wird aufblicken. Sie weiß jetzt — nicht als Aussicht, sondern als Tatsache, wie sie weiß wann ein Boot im Wasser liegt —, dass ihr Körper in drei Tagen nicht weniger wollen wird. Eher mehr. Sie dreht sich um und geht zurück zum Boot.
+Am späten Nachmittag, als das Licht im Hafen flacher wird, tritt sie an den offenen Seerand. Die Grauwe mündet hier, brackig, olivgrün. Sie schaut hin, nach nichts Bestimmtem. In drei Tagen muss sie die Uhr holen. In drei Tagen wird sie die Messingklinke des *Anker* wieder drücken, durch denselben Schankraum gehen, und dieser Mann wird aufblicken. Sie weiß jetzt — als Tatsache, wie sie weiß wann ein Boot im Wasser liegt —, dass ihr Körper in drei Tagen nicht weniger wollen wird. Eher mehr. Sie dreht sich um und geht zurück zum Boot.
 
 **Dialog-Informationen:**
 - Keine Figur außer Maren (Edric: ein Wort, kein Inhalt)

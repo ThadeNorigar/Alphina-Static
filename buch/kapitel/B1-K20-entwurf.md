@@ -22,13 +22,13 @@ Siehe `buch/kapitel-ton-referenzen.md#k20` für die Zentralstelle.
 
 Tage nach K19. Maren auf der Werft. Edric ist nicht da. Das halbfertige Boot liegt im Wasser, der Spätfrühling liegt über dem Hafen. Die Verletzung an ihrer Schulter heilt — Alphina hat am Steinkreis die Hand darauf gelegt, die Wärme kam aus dem Boden, durch Alphinas Hände hindurch, nicht aus Alphina selbst. (Ausarbeitung: Umgebungsquelle sichtbar halten — Canon-Regel.)
 
-Sie holt das Symbolblatt aus der Werkbank-Leiste — wo sie es seit K08 versteckt hat. Den Steinkreis auf der Zeichnung hat sie gestern gesehen, in der Form der Wurzel-Skulptur. Der Gedanke kommt jetzt, nicht damals: das Blatt hält sie gegen das Licht. Ein einzelnes Blatt in Harons Handschrift, Symbole die keinem Thalassien-Alphabet folgen, eine Steinkreis-Zeichnung in der Mitte. Sieben Steine. Die Mitte hohl.
+Sie holt das Symbolblatt aus der Werkbank-Leiste — wo sie es seit K08 versteckt hat. Den Steinkreis auf der Zeichnung hat sie gestern gesehen, in der Form der Wurzel-Skulptur. Erst jetzt kommt ihr der Gedanke. Sie hält das Blatt gegen das Licht. Ein einzelnes Blatt in Harons Handschrift, Symbole die keinem Thalassien-Alphabet folgen, eine Steinkreis-Zeichnung in der Mitte. Sieben Steine. Die Mitte hohl.
 
-Die Zeichnung und die Skulptur. Beides liegt übereinander. Haron wusste etwas. Haron hat es aufgeschrieben. In einer Sprache die sie nicht lesen kann.
+Die Zeichnung und die Skulptur. Beides deckt sich. Haron wusste etwas. Haron hat es aufgeschrieben. In einer Sprache die sie nicht lesen kann.
 
 Sie geht ins Anker. Vespers Reparaturtisch. Sie legt das Blatt auf das Holz, ohne Erklärung. *"Ich kann das nicht lesen. Du schon."*
 
-Das ist kein Satz der Schwäche. Das ist ein Angebot: sie gibt ihm etwas, das ihr gehört, weil er damit mehr anfangen kann als sie. Die Erleichterung dabei ist körperlich.
+Das ist kein Satz der Schwäche. Das ist ein Angebot: sie gibt ihm etwas, das ihr gehört, weil er damit mehr anfangen kann als sie. Die Erleichterung sitzt im Körper.
 
 Vesper nimmt das Blatt. Hält es gegen das Lampenlicht. Seine Finger über die Linien — vorsichtig, ohne zu reiben, die Art Berühren mit der er Uhrengehäuse liest. Er sagt nichts, sofort. Er schaut es lang an, bevor er spricht.
 
@@ -49,11 +49,11 @@ Vesper nimmt das Blatt. Hält es gegen das Lampenlicht. Seine Finger über die L
 
 Vesper zieht sein Notizbuch hervor. Er arbeitet. Parallelen zwischen den Symbolen auf dem Blatt und seinen eigenen Drift-Messungs-Notizen — er sucht nach Überschneidungen, formalen Mustern, Zählzeichen.
 
-Maren assistiert. Sie reicht Seiten, bevor er fragt. Sortiert die losen Blätter aus seinem Notizbuch in die richtige Reihenfolge, ohne Anweisung — sie liest seine Handarbeit, seine Systematik, die Logik seiner Notizbuch-Seiten. Handwerk in einem anderen Material. Sie erkennt es.
+Maren assistiert. Sie reicht Seiten, bevor er fragt. Sortiert die losen Blätter aus seinem Notizbuch in die richtige Reihenfolge, ohne Anweisung — sie liest seine Handarbeit, seine Systematik, die Logik seiner Notizbuch-Seiten. Handwerk in einem anderen Stoff — sie erkennt es.
 
-Die Sub-Dynamik. Marens Aufmerksamkeit liegt auf seinem nächsten Handgriff, seiner nächsten Frage, seinem nächsten Blick auf das Papier. Die Unruhe die sie sonst antreibt — die Werft, das Boot, das Arbeiten bis die Hände taub sind — ist still. Ihr Kopf läuft nicht mehr. Sie ist auf seinen Punkt gebracht, nicht auf ihren eigenen.
+Die Sub-Dynamik. Marens Aufmerksamkeit liegt auf seinem nächsten Handgriff, seiner nächsten Frage, seinem nächsten Blick auf das Papier. Die Unruhe die sie sonst antreibt — die Werft, das Boot, das Arbeiten bis die Hände taub sind — ist still. Ihr Kopf läuft nicht mehr. Sie ist bei seinem Punkt, nicht bei ihrem.
 
-Vesper bemerkt es. Ein Blick, nicht länger als ein Herzschlag. Er sieht was sie tut. Er sieht was es mit ihr macht. Er sagt nichts. Sein Schweigen ist keine Ablehnung — es ist eine Entscheidung. Er lässt es. Er hält es bewusst im Raum.
+Vesper bemerkt es. Ein Blick, nicht länger als ein Herzschlag. Er sieht was sie tut. Er sieht was es mit ihr macht. Er sagt nichts. Er hält es bewusst im Raum. Er lässt es. Er hält es bewusst im Raum.
 
 Er schaut Maren an. *"Was siehst du?"* Sie schaut auf die Symbole, auf die Zahl die dreimal wiederholt vorkommt. Sie nennt, was ihr auffällt. Er bestätigt ruhig: *"Schlaues Mädchen."* Dann: *"Ins Archiv."* Er hat eine Registriernummer aus Vaeler Rathaus-Dokumenten erkannt. Das Symbolblatt verweist auf ein Dokument das in Vael aufbewahrt wird.
 
@@ -110,11 +110,11 @@ Das Symbolblatt bleibt da. Esther will in den alten Registern nachschlagen. *"Da
 
 **Wortziel:** 500–700 W
 
-Rückweg, den Fluss entlang, die Grauwe im Abendlicht. Vesper geht einen Schritt vor ihr, oder neben ihr — die Körpergeographie hat sich verändert, ohne dass jemand einen Schritt gemacht hat. Sie gehen nicht zusammen; sie gehen in dieselbe Richtung, mit demselben Abstand den zwei Menschen haben, die wissen dass der Abstand nicht permanent ist.
+Rückweg, den Fluss entlang, die Grauwe im Abendlicht. Vesper geht einen Schritt vor ihr, oder neben ihr — der Abstand zwischen ihren Körpern hat sich verändert, ohne einen Schritt. Sie gehen nicht zusammen; sie gehen in dieselbe Richtung, mit dem Abstand, den zwei Menschen halten, wenn sie wissen, dass er nicht bleibt.
 
 Abendlicht, kein anderer am Ufer. Maren hält die Hand über das Wasser, ohne es zu berühren. Das Wasser reagiert — Wellen die nicht vom Wind kommen, ein leichtes Drehen gegen den Strömungsfluss. Sie kontrolliert es nicht, sie ruft es nicht — es geschieht, und sie schaut zu. (Ausarbeitung: NICHT "sie lässt es" — das klingt nach Kontrolle. Sie bemerkt es, das ist alles.)
 
-Etwas in Maren, das immer weggeht, bleibt. Nicht wegen Vael. Nicht wegen des Bootes oder der Werft oder des Auftrags. Wegen: an seinem Tisch, mit seinen Papieren, in seinem Rhythmus. Sie hat kein Wort dafür. Aber ihr Körper hat eines.
+Was in ihr immer weggegangen war, bleibt. Nicht wegen Vael. Nicht wegen des Bootes oder der Werft oder des Auftrags. Wegen: an seinem Tisch, mit seinen Papieren, in seinem Rhythmus. Sie hat kein Wort dafür. Aber ihr Körper hat eines.
 
 **Dialog-Informationen:**
 - Keine. Abschluss-Szene ist körperlich, kein Informationsaustausch.

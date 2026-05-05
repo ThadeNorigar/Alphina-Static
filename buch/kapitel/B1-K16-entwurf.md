@@ -22,13 +22,13 @@ Siehe `buch/kapitel-ton-referenzen.md#k16` für die Zentralstelle.
 
 Sorel in der Dunkelkammer. Lichthaus-Keller. Spätfrühling, draußen hell und warm, hier drinnen die übliche Finsternis. Er hat seit Wochen gewusst, dass mit den Platten etwas nicht stimmt — seit K13 hat er es gewusst und sich geweigert, die einzige Erklärung anzusehen, die übrig bleibt.
 
-Systematische Fehlersuche. Er geht methodisch vor, wie er immer vorgeht: schließt die einfachen Erklärungen aus, bevor er auf die komplizierten zusteuert. Neue Nassplatten aus einer versiegelten Fabrik-Schachtel — das Papiersiegel unberührt, offensichtlich nie geöffnet. Er belegt jede Platte ab und bringt sie in die Entwicklerschale. Entspannung: ein Bild erscheint. Dann sieht er genauer hin.
+Systematische Fehlersuche. Er geht methodisch vor, wie er immer vorgeht: schließt die einfachen Erklärungen aus, bevor er auf die komplizierten zusteuert. Neue Nassplatten aus einer versiegelten Fabrik-Schachtel — das Papiersiegel unberührt, offensichtlich nie geöffnet. Er belegt jede Platte ab und bringt sie in die Entwicklerschale. Er entspannte sich — ein Bild erschien. Dann sah er genauer hin.
 
 Das Bild zeigt seinen eigenen Rücken. Seine eigenen Hände über der Wanne. Seine Schultern, die Spannung darin, der Winkel seines Kopfes beim Bücken — aufgenommen aus einer Perspektive, die keine Kamera einnehmen könnte, die irgendwo in diesem Raum stünde. Er durchsucht den Keller. Jede Ecke, jeden Winkel, die Deckenbalken, die Regalbretter. Er sucht zwanzig Minuten. Nichts. Keine Apparatur, kein Draht, kein Loch im Mauerwerk.
 
 Die nächste Platte. Er nimmt sie blind aus der Schachtel, ohne Licht, ohne Aufnahme. Legt sie in die Entwicklerschale. Sein eigenes Gesicht schaut ihn an. Verzerrt. Die Augen weit aufgerissen, die Stirn zusammengezogen — seine Angst, die er gerade in diesem Moment fühlt, fixiert auf dem Glas, obwohl die Platte die Dunkelkammer nie verlassen hat.
 
-Die Erkenntnis sitzt irgendwo unterhalb des Zwerchfells, bevor der Kopf sie formuliert. ER ist es. Nicht die Charge. Nicht der Hersteller. Nicht eine versteckte Kamera. ER belichtet die Platten — durch Gedanken, durch das, was in ihm ist, wenn er die Hände über die Schale hält.
+Die Erkenntnis saß unter dem Zwerchfell, bevor der Kopf sie formulierte. ER ist es. Nicht der Plattensatz. Nicht der Hersteller. Nicht eine versteckte Kamera. ER belichtet die Platten — durch Gedanken, durch das, was in ihm ist, wenn er die Hände über die Schale hält.
 
 **Dialog-Informationen:**
 - Sorel erfährt (von sich selbst): Er selbst ist die Quelle. Seine Resonanz projiziert auf Silber, was sein Geist hält.
@@ -49,11 +49,11 @@ Er testet es. Das ist, was er tut, wenn der Verstand keine andere Wahl hat: er t
 
 Bewusster Test. Er stellt sich den Hafen vor. Die Möwen über dem Wasser, die Grauwe im Nachmittagslicht, den alten Anlegepfahl an der Kaimauer mit der Roststreifen-Krone. Legt eine unbelichtete Platte in die Entwicklerschale. Der Hafen erscheint — nicht fotografisch scharf, eher wie eine Erinnerung die zu fest gehalten wurde, die Konturen weich, die Lichtwerte ungleichmäßig. Aber erkennbar. Es funktioniert.
 
-Weitere Tests. Er ist jetzt ruhiger, methodisch: die Treppe zur Oberstadt. Das Lichthaus von außen. Der Steinkreis im Garten — er zögert, nimmt ihn trotzdem, ein schemenhafter Hügel mit sieben Druckstellen im Silber. Das System gehorcht seinem Willen, dem bewussten und präzisen.
+Weitere Tests. Er ist jetzt ruhiger, methodisch: die Treppe zur Oberstadt. Das Lichthaus von außen. Der Steinkreis im Garten — er zögert, nimmt ihn trotzdem, ein schemenhafter Hügel mit sieben Druckstellen im Silber. Das Silber gehorcht seinem Willen, wenn er ihn führt.
 
 Die Erkenntnis sackt durch: seit Nachtholm. Seit der zerbrochenen Platte in der Kellerschublade in Nachtholm, dreizehn Jahre alt, sein Gesicht auf fremdem Glas. Seit Platte 7 aus dem Vael-Auktionslos. Die Resonanz ist nicht neu. Er hat sie seit Jahren. Er hat sie in jeder Dunkelkammer eingesetzt, ohne zu wissen dass er es tat.
 
-Und die elf Platten mit Alphina: seine Obsession hat sich in die Schicht gebrannt, die er nie kontrolliert hat, der Teil des Willens dem er keine Stimme gegeben hat. Monatelang, mit zunehmender Präzision. Ihre Sehne am linken Handgelenk. Die Bewegung ihrer Hand am Stein. Er hat sie besessen, bevor er wusste dass es sie gab.
+Und die elf Platten mit Alphina: seine Obsession hat sich in die Schicht gebrannt, die er nie kontrolliert hat, in den stillen Teil seines Willens. Monatelang, mit zunehmender Präzision. Ihre Sehne am linken Handgelenk. Die Bewegung ihrer Hand am Stein. Er hat sie besessen, bevor er wusste dass es sie gab.
 
 Er weiß, was als nächstes kommt. Er versucht, es nicht zu denken.
 
@@ -75,13 +75,13 @@ Er versucht es nicht zu denken. Er denkt es trotzdem.
 
 Er weiß was er sehen wird, bevor das Bild im Entwicklerbad auftaucht. Alphina. Nicht fotografisch — intimer als das, verletzlicher als jedes Bild das eine Kamera machen könnte. So wie er sie sich vorstellt, wenn die Dunkelkammer leer ist und die Nacht lang. Seine Sehnsucht steht auf dem Glas.
 
-Er hält die Platte lange. Kalte Hände. Trockener Mund. Das leise Würgen hinter dem Zwerchfell. Er hat etwas erschaffen, das er nicht erschaffen durfte. Das ist nicht ein Fehler, kein Unfall. Er hat es gewollt — hat den Gedanken nicht aufgehalten, hat den Körper machen lassen. Das Bild ist die ehrlichste Sache die er je geschaffen hat, und das ist das Problem.
+Er hält die Platte lange. Kalte Hände. Trockener Mund. Das leise Würgen hinter dem Zwerchfell. Er hat etwas erschaffen, das er nicht erschaffen durfte. Kein Fehler. Kein Unfall. Er hat es gewollt — hat den Gedanken nicht aufgehalten, hat den Körper machen lassen. Das Bild ist die ehrlichste Sache die er je geschaffen hat, und das ist das Problem.
 
 Er legt die Platte in die Schublade neben die anderen. Schließt sie nicht ab.
 
 Dann geht er raus. Hafen. Nachmittag im Blütenmond, das Licht weiß und breit über dem Wasser. Er steht am Bollwerk und schaut auf die Grauwe. Irgendwo am Steg geht jemand, von weitem. Der Gang, die Schultern — er denkt: sie. Ist es nicht. Eine Frau mit Fischkörben. Er schaut zu lang.
 
-Die Übelkeit bleibt. Er ist nicht der Jäger. Er ist eine Kamera, die sich auf ein Motiv ausgerichtet hat, das er selbst programmiert hat — seit Monaten, seit Nachtholm, seit dem ersten Tag in dieser Stadt. Die Frage ist keine Frage mehr: er kann es nicht abschalten. Die Resonanz gehorcht ihm nicht vollständig. Sie gehorcht dem, was er ist.
+Die Übelkeit bleibt. Er ist nicht der Jäger. Er ist eine Kamera, auf ein Motiv eingestellt, das er selbst gewählt hat — seit Monaten, seit Nachtholm, seit dem ersten Tag in dieser Stadt. Die Frage ist keine Frage mehr: er kann es nicht abschalten. Die Resonanz gehorcht ihm nicht vollständig. Sie gehorcht dem, was er ist.
 
 Er geht zurück in den Keller. Die Schublade liegt zu. Nicht abgeschlossen.
 

@@ -24,11 +24,11 @@ Abend, Vespers Reparaturtisch im Anker. Petroleumlampe, Samtrolle, Werkzeug auf 
 
 Sorel klopft. Vesper hat den Namen von Alphina gehört — der Fotograf, der Mann aus dem Garten-Vorfall. Er hat erwartet, dass jemand irgendwann klopft; er hat nicht erwartet, wann.
 
-Sorel kommt rein. Er ist ruhig, aber die Hände sind es nicht — er hält sie bewusst still, die Art Kontrolle die verrät, was unter ihr ist. Vesper sieht es sofort. Er räumt Platz auf dem Tisch frei. Macht keine Geste des Willkommens. Wartet.
+Sorel kommt rein. Er ist ruhig, aber die Hände sind es nicht — er hält sie bewusst still, eine Kontrolle, die das Darunter verrät. Vesper sieht es sofort. Er räumt Platz auf dem Tisch frei. Macht keine Geste des Willkommens. Wartet.
 
 Sorel erzählt. Systematisch, mit einer Fotografen-Logik die Vesper respektiert: was er beobachtet hat, was er ausgeschlossen hat, was übrig bleibt. Der Schemen-Angriff im Garten (K10 — Verbrennung am Handrücken, verschilt inzwischen). Alphinas Heilung, die keine Heilung sein sollte. Die Platten ohne Kamera. Er erzählt fast alles. Das letzte Bild lässt er aus.
 
-Vesper hört zu. Sortiert. Sorels Geschichte steht für sich — kein Drift-Muster, kein Ring. Ein anderer Mechanismus: die Platten reagieren auf ihn, nicht auf den Ort. Vesper macht keine Notizen. Er hält alles im Kopf, weil der Kopf das Muster erkennt, bevor der Stift es aufschreibt.
+Vesper hört zu. Sortiert. Sorels Bericht hat eigene Form — kein Drift-Muster, kein Ring. Ein anderer Mechanismus: die Platten reagieren auf ihn, nicht auf den Ort. Vesper macht keine Notizen. Er hält alles im Kopf, weil der Kopf das Muster erkennt, bevor der Stift es aufschreibt.
 
 Dann bringt er seine eigenen Teile. Die Uhren-Drift in sechzehn Vaeler Häusern, kartiert nach Stadtgebiet, konzentrische Ringe um einen Mittelpunkt im Garten. Die Anomalie: 4:33 täglich — ein Muster, das sich erst zeigt, wenn man es kartiert. Und: Marens Tee-Strudel. *"Eine Frau in der Werft. Schiffsbauerin. Sie macht es mit Wasser — ohne Berühren. Sie hat es mir gezeigt. Einfach so."*
 
@@ -50,13 +50,13 @@ Dann bringt er seine eigenen Teile. Die Uhren-Drift in sechzehn Vaeler Häusern,
 
 Beide reden über Alphina, ohne es so zu nennen. Sie ist die Person, auf die beide gestoßen sind, und die Farne folgen ihr ungebeten.
 
-Sorel: die Farne. Die Art wie sie sich nach ihr richten, auch wenn sie vorbeigeht ohne zu schauen. Die Platten auf denen sie erscheint, ohne dass er sie fotografiert hat. Er fängt an, es als Kamera-Anomalie zu rahmen — bricht ab. Er ist die Quelle. Nicht das Gerät. Vesper hört zu, ohne zu korrigieren.
+Sorel: die Farne. Die Art wie sie sich nach ihr richten, auch wenn sie vorbeigeht ohne zu schauen. Die Platten auf denen sie erscheint, ohne dass er sie fotografiert hat. Er beginnt, es als Kamerafehler zu deuten — bricht ab. Er ist die Quelle. Nicht das Gerät. Vesper hört zu, ohne zu korrigieren.
 
 Vesper: die Pflanzen im Botanischen Garten. Runa hat erzählt — Runas Beobachtungen, ihr Notizbuch mit Sichtungsberichten. Und er hat selbst die Drift-Anomalien im Garten gemessen — der stärkste Ring liegt genau über dem Steinkreis. Wenn eine Person mit Pflanzen-Resonanz an einem Ort mit so konzentrierter Drift wohnt: was passiert?
 
 Vier Resonanzen in einer Stadt, und die Stadt reagiert. Nicht zufällig. Nicht einzeln. Als System.
 
-Vesper zieht den schwarzen Schachturm aus der Tasche. Dreht ihn zwischen Daumen, Zeige- und Mittelfinger, langsam, ohne Anfang. Kalt. Immer noch kalt. Er benennt es nicht; er registriert es.
+Vesper zieht den schwarzen Schachturm aus der Tasche. Dreht ihn zwischen Daumen, Zeige- und Mittelfinger, langsam, ohne Pause. Kalt. Immer noch kalt. Er benennt es nicht; er registriert es.
 
 Er legt den Turm auf den Tisch. Betrachtet ihn eine Sekunde. Dann benennt er es aus: *Mechanik. Pflanzen. Licht. Wasser.* Vier Personen, eine Stadt, ein Mittelpunkt — und zuletzt nennt er Maren, die Schiffsbauerin, die vierte. Noch während er sie benennt, wird der Turm für einen einzigen Atemzug warm. Vespers Hand um ihn herum. Dann wieder kalt.
 
@@ -82,11 +82,11 @@ Vesper: *"Wir müssen uns alle treffen."* Keine Frage. Keine Einladung. Eine Not
 
 **Wortziel:** 700–900 W
 
-Kurze Abschluss-Szene. Nach Sorels Abgang. Vesper geht allein zum Tidemoor-Haus — nicht weil er muss, sondern weil er es kann, weil der Weg dorthin ihn daran erinnert, woran er ist.
+Kurze Abschluss-Szene. Nach Sorels Abgang. Vesper geht allein zum Tidemoor-Haus — nicht weil er muss, sondern weil er es kann, weil der Weg dorthin ihn an seinen Stand erinnert.
 
 Schlüssel für die Seitentür (K07, die Magd). Der Keller zuerst — heißes Wasser ohne Kessel, drei Rillen im Fensterholz, warm. Er kennt sie auswendig.
 
-Dann das Erdgeschoss. Die Standuhr steht im Flur, wo sie immer gestanden hat. Er legt die Hand auf das Gehäuse. Tickt korrekt. Kein Abdriften. Er wartet — dreißig Sekunden, eine Minute. Kein Verlust. Die Uhr kennt ihn inzwischen.
+Dann das Erdgeschoss. Die Standuhr steht im Flur, wo sie immer gestanden hat. Er legt die Hand auf das Gehäuse. Sie tickt ruhig. Kein Abweichen. Er wartet — dreißig Sekunden, eine Minute. Kein Verlust. Die Uhr kennt ihn inzwischen.
 
 Er bleibt länger als nötig. Nicht aus Sentimentalität — er braucht den Kontakt mit dem System. Die Drift hier ist das älteste bekannte Muster, die früheste Spur die er gefunden hat. Wenn das Tor — er denkt das Wort nicht laut — wenn die Quelle schon jahrzehntelang sickert, dann ist die Tidemoor-Uhr der erste Zeuge. Er will ihr zuhören, bevor er vier Menschen in denselben Garten bringt.
 

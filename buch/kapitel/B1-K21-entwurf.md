@@ -19,7 +19,7 @@ Siehe `buch/kapitel-ton-referenzen.md#k21` für die Zentralstelle.
 
 **Wortziel:** 900–1.200 W (in der Ausarbeitung)
 
-Alphina kommt unangekündigt ins Lichthaus. Kein ausgesprochener Anlass — aber der Kampf in K19 hat etwas verschoben. Sorel hat ihre Handgelenke gehalten (Callback K19: er hat sie im Kampf zurückgezogen), und danach war er anders: distanzierter, als ob er etwas bereut. Das hat sie geärgert auf eine Art, die sie nicht benennen kann.
+Alphina kommt unangekündigt ins Lichthaus. Kein ausgesprochener Anlass — aber der Kampf in K19 hat etwas verschoben. Sorel hat ihre Handgelenke gehalten (Callback K19: er hat sie im Kampf zurückgezogen), und danach war er anders: distanzierter, als ob er etwas bereut. Das hat sie geärgert.
 
 Der Abstieg: Holzluke, dunkler Gang, dann die Dunkelkammer. Rotes Licht — eine Glaslinse über einer Öllampe, kein Feuer, chemisches Rot. Chemie-Gerüche: Entwicklerlösung, Fixierer, etwas Scharf-Süßes. Sorel arbeitet; er hat die Platten aus K19 (Kampf) in Entwicklungsbäder gelegt. Er bemerkt sie nicht sofort oder bemerkt sie und reagiert nicht.
 
@@ -30,7 +30,7 @@ Sorel bemerkt sie jetzt. Friert ein. Sagt etwas Ablenkendes — Plattenchemie, E
 **Dialog-Informationen:**
 - Alphina erfährt: Sorel hat Platten von ihr, auf denen sie nie war
 - Alphina erfährt: Er versucht abzulenken, nicht zu erklären — das Schweigen ist größer als jede Lüge
-- Alphinas Erkenntnis am Ende der Szene: Er verbirgt etwas seit Wochen. Nicht vor ihr — vor sich selbst.
+- Alphinas Erkenntnis am Ende der Szene: Er verbirgt etwas seit Wochen — vor sich selbst.
 - Sorel: spricht kaum. Sein Körper verrät alles.
 
 **Tschechow-Waffen geladen:**
@@ -67,7 +67,7 @@ Sie zieht ihn zu sich. Nicht als ausgesprochene Entscheidung — als etwas das s
 
 Die Szene ist dringend, atemlos, intim. Erotik-Grad: die Ausarbeitung entscheidet, Entwurf setzt keinen Limit. Pflicht ist: ihr Körper ist beteiligt, ihr Kopf ist beteiligt, beides gleichzeitig und in derselben Richtung — das ist neu für sie.
 
-Farne wachsen durch die Kellerwände. Leise, langsam, ungerufen. Durch den Putz, zwischen Steinen, in einem Keller der kein Licht kennt. Ihre Magie und ihr Körper wollen zum ersten Mal dasselbe. Sie bemerkt es nicht sofort. Irgendwann sieht sie es — oder er sieht es zuerst. Keiner nennt es Wunder. Keiner nennt es überhaupt.
+Farne wachsen durch die Kellerwände. Leise, langsam, ungerufen. Durch den Putz, zwischen Steinen, in einem Keller der kein Licht kennt. Ihre Magie und ihr Körper wollen zum ersten Mal dasselbe. Sie bemerkt es nicht sofort. Irgendwann sieht sie es — oder er sieht es zuerst. Keiner spricht es aus.
 
 **Dialog-Informationen:**
 - Alphina erfährt: Sorels Resonanz ist Licht-Formung — sein Bild von ihr hat das Silber geformt. Nicht böswillig. Er wusste, dass er die Platten macht (seit K16). Was er erst jetzt begreift: dass er sie in sich trägt, vollständig, seit Wochen — und wie präzise dieses Bild ist. Das ist der eigentliche Erkenntnismoment.
@@ -97,9 +97,9 @@ Farne wachsen durch die Kellerwände. Leise, langsam, ungerufen. Durch den Putz,
 
 Stille. Rotlicht. Die Farne an der Wand sind jetzt da — sichtbar, real, ein Dutzend Wedel durch Putz und Stein. Keiner benennt es.
 
-Dann: eine Bewegung an der Wand, die keine Farnbewegung ist. Ein Schem. Groß, reglos, ohne Gesicht. Er beobachtet. Er tut nichts — ist nur da, mit dem Gewicht von etwas das weiß wo man ist. Sorel sieht ihn zuerst, oder Alphina — beide sehen ihn fast gleichzeitig. Sie sagen nichts, machen keine Bewegung. Der Schem verschwindet nicht plötzlich: er löst sich auf wie ein Ausatmen, ohne dass die Stille bricht.
+Dann: eine Bewegung an der Wand, die keine Farnbewegung ist. Ein Schem. Groß, reglos, ohne Gesicht. Er beobachtet. Er tut nichts — er steht nur da, schwer und gegenwärtig. Sorel sieht ihn zuerst, oder Alphina — beide sehen ihn fast gleichzeitig. Sie sagen nichts, machen keine Bewegung. Der Schem verschwindet nicht plötzlich: er löst sich auf wie ein Ausatmen, ohne dass die Stille bricht.
 
-Danach: das Du. Nicht ausgesprochen als Beschluss. Sorel sagt etwas Beiläufiges — eine Kleinigkeit, kein Gewicht im Ton — und er sagt es in der Du-Form, ohne nachzudenken. Alphina hört es. Macht keinen Moment daraus. Das Du ist jetzt da, es war schon immer da, es wartete nur.
+Danach: das Du. Nicht ausgesprochen als Beschluss. Sorel sagt etwas Beiläufiges in der Du-Form, ohne nachzudenken. Alphina hört es. Macht keinen Moment daraus. Das Du ist jetzt da, es war schon immer da, es wartete nur.
 
 Er sagt noch etwas — beiläufig, Zukunft eingebettet. Kein Versprechen in seinem Bewusstsein. Eine Annahme, dass es ein Danach gibt, dass sie beide in diesem Danach vorkommen. Die Leserin weiß, dass er in Moragh stirbt.
 
@@ -108,7 +108,7 @@ Alphina geht. Die Farne bleiben.
 **Dialog-Informationen:**
 - Alphina erfährt: Ein Schem war im Keller und hat beobachtet. Hat nichts getan. Ist gegangen.
 - Alphina erfährt: Das Du als Tatsache (nicht als Angebot, nicht als Frage)
-- Alphinas Erkenntnis am Ende: Sie hat keine Kontrolle über das verloren, was sie ist — sie hat nur aufgehört dagegen zu kämpfen. Das ist nicht dasselbe.
+- Alphinas Erkenntnis am Ende: Sie hat keine Kontrolle über das verloren, was sie ist — sie hat aufgehört dagegen zu kämpfen.
 - Sorels Erkenntnis (implizit): Er weiß nicht, dass er gerade versprochen hat zu überleben. Er glaubt es einfach.
 
 **Tschechow-Waffen geladen:**

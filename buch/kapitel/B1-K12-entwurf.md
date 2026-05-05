@@ -24,13 +24,13 @@ Siehe `buch/kapitel-ton-referenzen.md#k12` für die Zentralstelle.
 **Ort:** Anker (Zimmer) → Gassen Vaels → grünes Haupttor → Garten bis zur Nordmauer
 **Wortziel Ausarbeitung:** 1.200–1.500 W
 
-Alphinas Zimmer im Anker, kurz nach zwanzig Uhr. Sie hat den Nachmittag damit verbracht, Vespers Notizen abzuschreiben — Zahlen, Ringdurchmesser, Stationenorte — bis die Schrift auseinanderfiel und sie aufgehört hat. Was den Nachmittag übrig gelassen hat: das Wissen, dass das Zentrum von Vespers Netz unter dem Steinkreis liegt. Dass sie am Vormittag dort war, mit Vesper, und dass der Stein heute Morgen dieselbe Frequenz hatte wie immer — langsam, unter einem Menschenherz. Sie will wissen, ob das Abends auch so ist. Eine Kontrollmessung, ohne Vesper, ohne Publikum. Nicht Mystik. Methode.
+Alphinas Zimmer im Anker, kurz nach Sonnenuntergang. Sie hat den Nachmittag damit verbracht, Vespers Notizen abzuschreiben — Zahlen, Ringdurchmesser, Stationenorte — bis die Schrift auseinanderfiel und sie aufgehört hat. Was den Nachmittag übrig gelassen hat: das Wissen, dass das Zentrum von Vespers Netz unter dem Steinkreis liegt. Dass sie am Vormittag dort war, mit Vesper, und dass der Stein heute Morgen dieselbe Frequenz hatte wie immer — langsam, unter einem Menschenherz. Sie will wissen, ob das Abends auch so ist. Eine Kontrollmessung, ohne Vesper, ohne Publikum. Nicht Mystik. Methode.
 
 Der Schlüssel liegt seit drei Wochen in ihrer rechten Manteltasche. Sie greift ihn, bevor sie den Mantel anzieht — er ist kälter als Metall sein sollte. Kälter als der Mantelstoff. Sie steckt ihn ein, denkt nicht weiter darüber nach.
 
-Vael bei Nacht. Gaslampen, die sich durch Dunst brechen. Die Gassen sind schmal, und der Hafengeruch überschichtet alles — Teer, Salzwasser, etwas Fischiges unter dem Frischen. Blütenmond-Abend: die erste echte Wärme, die sich in den Steinen gehalten hat. Alphina kennt diese Strecke — Anker, Marktgasse, die Biegung mit dem Steinbogen, dann aufwärts zum Klippenrand. Sie geht ohne Lampe; die Gaslampen reichen.
+Vael bei Nacht. Gaslampen, deren Schein durch den Dunst sickert. Die Gassen sind schmal, und der Hafengeruch überschichtet alles — Teer, Salzwasser, etwas Fischiges unter dem Frischen. Blütenmond-Abend: die erste echte Wärme, die sich in den Steinen gehalten hat. Alphina kennt diese Strecke — Anker, Marktgasse, die Biegung mit dem Steinbogen, dann aufwärts zum Klippenrand. Sie geht ohne Lampe; die Gaslampen reichen.
 
-Das grüne Haupttor. Der Schlüssel ins Schloss — ein einmaliges, präzises Klicken. Das ist ein anderes Geräusch als sie erwartet hatte. Lauter.
+Das grüne Haupttor. Der Schlüssel ins Schloss — ein einmaliges, präzises Klicken. Das Geräusch klang anders als erwartet — lauter.
 
 Erster Schritt in den Garten: Kies. Dann Erde. Der Geruch wechselt sofort — von Hafen zu Erde, Chlorophyll, etwas Süßem das sie immer noch nicht benennen kann. Rainpfeifer. Silberglöckchen entlang des Hauptweges, kaum sichtbar im schwachen Licht. An der Nordmauer der Geißblattduft — schwerer, fast klebrig, typisch für die Nachtblüte im Blütenmond.
 
@@ -62,7 +62,7 @@ Alphina geht direkt Richtung Steinkreis. Dabei sieht sie — zwischen den Farnen
 **Ort:** Lichthaus-Keller → Südmauer (Feigenbaum) → Garten → Nordmauer/Steinkreis-Position
 **Wortziel Ausarbeitung:** 900–1.100 W
 
-Sorel im Keller, kurz nach Sonnenuntergang. Drei Platten an der Schnur: Platte 7 (sein Gesicht, 1783), die Steinkreis-Platte aus Kap 10 (sieben Flächen, atmende Ränder), und die neue Platte — die Frau mit Farnen. Die dritte ist schärfer als alles, was er je absichtlich belichtet hat. Er ist an ihr vorbeigegangen, hat sie dreimal aus der Kassette gezogen und wieder eingelegt, in der vergangenen Nacht.
+Sorel im Keller, kurz nach Sonnenuntergang. Drei Platten hingen an der Schnur: Platte 7 (sein Gesicht, 1783), die Steinkreis-Platte aus Kap 10 (sieben Flächen, atmende Ränder), und die neue Platte — die Frau mit Farnen. Die dritte ist schärfer als alles, was er je absichtlich belichtet hat. Er ist an ihr vorbeigegangen, hat sie dreimal aus der Kassette gezogen und wieder eingelegt, in der vergangenen Nacht.
 
 Was er auf der Platte sieht und was er danach sucht: die Sehne am Daumenansatz der linken Hand. Eine einzelne Sehne, unter der Haut, die er unter der Lupe studiert hat — Muskelzug, Lage, das Raster der Kapillaren darunter, sichtbar weil die Belichtung zu lang war. Er kennt diese Sehne jetzt besser als sein eigenes Handgelenk.
 
@@ -70,9 +70,9 @@ Er packt die Kamera. Die bandagierte linke Hand macht das Kassetten-Einlegen ums
 
 Die Frau mit den Farnen ist im Botanischen Garten. Der Garten hat Farne an der Nordmauer — er hat sie von außen gesehen. Er geht zurück.
 
-Südmauer. Der Feigenbaum ist der einzige Griff, und einhandig ist er anders — er muss die verbundene Hand kurz benutzen, da kommt der Zug durch die Wundschicht, er ignoriert es. Stativ hochreichen nach dem Klettern: geht, wenn man das Stativ am Bein trägt. Er steht im Garten.
+Südmauer. Der Feigenbaum ist der einzige Griff, und einhandig ist er anders — er muss die verbundene Hand kurz benutzen, da kommt der Zug durch die Wundschicht, er ignoriert es. Das Stativ reichte er nach dem Klettern hoch — es ging, wenn er es am Bein trug. Er stand im Garten.
 
-Sorel stellt das Stativ zwischen die Farnen, in der Sichtlinie zum Steinkreis. Das ist der Ort wo sie steht, wenn sie hier ist — zwischen diesen Farnen, auf dem Weg zum Hügel. Das weiß er nicht, aber das Stativ weiß es. Er wartet.
+Sorel stellt das Stativ zwischen die Farnen, in der Sichtlinie zum Steinkreis. Das ist der Ort wo sie steht, wenn sie hier ist — zwischen diesen Farnen, auf dem Weg zum Hügel. Er weiß es nicht; das Stativ steht trotzdem richtig. Er wartet.
 
 Er wartet nicht auf die Frau. Er wartet auf Licht. Der Unterschied ist technisch.
 
@@ -110,7 +110,7 @@ Ein Geräusch hinter ihr: Kies, ein einzelner Schritt, der kontrolliert abgefang
 
 Sie dreht sich nicht sofort. Lässt die Hände noch einen Moment auf dem Stein. Das ist Methode, kein Mut.
 
-Dann dreht sie sich. Ein Mann — das Stativ in der Hand, dunkel gekleidet, im schwachen Mondlicht kaum mehr als Kontur. Der linke Arm leicht angewinkelt, wie jemand, der etwas schont. Sie registriert den Verband — Leinentuch, lose gewickelt, an einer Stelle dunkel durchgezogen. Ihr erster Gedanke ist pflanzlich: Rinde an einer Stelle, an der der Baum zu nah am Heizfeuer gestanden hat.
+Dann dreht sie sich. Ein Mann — das Stativ in der Hand, dunkel gekleidet, im schwachen Mondlicht kaum mehr als Kontur. Der linke Arm leicht angewinkelt, wie jemand, der etwas schont. Sie registriert den Verband — Leinentuch, lose gewickelt, an einer Stelle dunkel durchgezogen. Sie dachte an Rinde, die zu nah am Heizfeuer gestanden hatte.
 
 Sie fragt nicht. Er erklärt nicht.
 
@@ -118,7 +118,7 @@ Alphina spricht zuerst. Nicht als Frage — als Feststellung, die eine Antwort e
 
 Sorel antwortet. Gibt seinen Namen. Sie gibt ihren. Die Höflichkeit ist vollständig, kein Stakkato, kein Drehbuch. Sie fragt, ob er hier fotografiert hat. Er sagt, er hat die Steine fotografiert. Das stimmt. Keine Lüge — nur nicht alles.
 
-Sie glaubt ihm und glaubt ihm nicht, beides gleichzeitig, und lässt es stehen. Der Verband ist das Erste, was sie nicht voneinander erfahren.
+Sie glaubte ihm zur Hälfte, und ließ es stehen. Der Verband ist das Erste, was sie nicht voneinander erfahren.
 
 Sie gehen zur Bank am Ende des Hauptweges. Beide kennen die Bank — sie von den Arbeitswochen im Garten, er vermutlich von der Nacht davor. Keine Frage danach. Auf der Bank gibt es zwei abgewetzte Stellen, eine links, eine rechts, als hätte jemand geplant, dass hier immer zwei sitzen.
 
@@ -126,11 +126,11 @@ Alphina deutet an — ohne Namen, ohne Einzelheiten — dass jemand anderes dies
 
 Er wartet. Steigt nicht ein. Gibt ihr keinen Zug zurück, auf den sie antworten könnte.
 
-Das ist das Neue: ihr Muster greift nicht. Sie hat festgestellt, er hat nichts getan damit — kein Widerspruch, kein Einlenken, kein Gesprächszug der zurückkommt. Nichts um das sie ihre Hand legen könnte. Ihr Körper registriert es vor ihrem Kopf: ein kurzes, unbenennbares Stocken irgendwo am Handgelenk. Sie benennt es nicht.
+Das ist das Neue: ihr Muster greift nicht. Sie hat festgestellt, er hat nichts getan damit — kein Widerspruch, kein Einlenken, kein Gesprächszug der zurückkommt. Nichts um das sie ihre Hand legen könnte. Ihr Körper registriert es vor ihrem Kopf: ein kurzes Stocken am Handgelenk. Sie benennt es nicht.
 
 Dann sieht sie die Augen.
 
-Drei Silhouetten auf der Mauer am Ende des Hauptweges. Katzengross, sitzend, leuchtende Augen. Rauchende Ränder an den Schultern. Alphina hat Schemen gesehen, in Kap 5 und 9 — aber nicht drei, und nicht so still. Die Stille ist das Schlimmste: kein Angriff, keine Bewegung, nur beobachten. An der Nordmauer zieht der Geißblattduft herüber — schwer, fast klebrig, fremd an dieser Stelle des Weges. Die Wurzel dieses Gefühls ist: *etwas wartet.*
+Drei Silhouetten auf der Mauer am Ende des Hauptweges. Katzengross, sitzend, leuchtende Augen. Rauchende Ränder an den Schultern. Alphina hat Schemen gesehen, in Kap 5 und 9 — aber nicht drei, und nicht so still. Die Stille ist das Schlimmste: kein Angriff, keine Bewegung, nur beobachten. An der Nordmauer zieht der Geißblattduft herüber — schwer, fast klebrig, fremd an dieser Stelle des Weges. Etwas wartet.
 
 --- [POV-Kippen hier, kein Sternchen, kein Leerzeichen — Scharnier: Geißblatt-Duft. Alphinas letzter Satz endet damit, dass sie ihn registriert, während sie auf die Schemen schaut (Botaniker-Sinn, kein Erschrecken). Sorels erster Satz beginnt mit demselben Geruch, aber in seiner Sprache: schwer, zu lange im Entwicklerbad, ein Tonwert der sich nicht fixieren lässt. Register-Wechsel über denselben Sinneseindruck, kein Sternchen, keine Leerzeile.] ---
 

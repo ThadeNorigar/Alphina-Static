@@ -26,13 +26,13 @@ Vesper kommt. Er hätte die Uhr schicken können. Er kommt selbst.
 
 Er trägt die Schiffsuhr in einem Tuch, das Messing poliert, der Glasdeckel neu, das Werk läuft wieder — man hört es, wenn man nah genug ist. Er erklärt kurz was er gemacht hat (Spannungsriss im Unruhrad, Korrosion am Zapfen, Ersatz beider Teile). Dann geht er zur Kajüte und installiert die Uhr in der Halterung. Schrauben, vier Stück, präzise gesetzt. Maren schaut auf seine Hände.
 
-Die Erinnerung aus K14 ist körperlich, nicht nur Gedanke. Die Hände die wissen, wann man wartet. Sie denkt den Satz nicht; ihr Körper produziert ihn.
+Die Erinnerung aus K14 ist körperlich, nicht nur Gedanke. Die Hände die wissen, wann man wartet. Den Satz denkt sie nicht — ihr Körper schiebt ihn ihr zu.
 
 Vesper ist fertig. Er hätte jetzt gehen können. Er bleibt. Setzt sich auf eine Kiste, schaut auf die Werft, auf das halbfertige Boot, ohne zu urteilen. Die Stille zwischen ihnen ist die Stille zweier Menschen, die Handwerk respektieren und wissen wann Worte überflüssig sind.
 
 Maren hat Runas Flugblatt gelesen — die Sichtungsberichte, die Anomalien, die Fragen die niemand laut stellt. Sie fragt direkt, ohne Umweg: *"Was hast du mit der Tidemoor-Uhr gemacht?"*
 
-Vesper erzählt. Nicht alles auf einmal — aber er erzählt. Die Drift (4:33 täglich, einwandfreies Werk, Fehler außerhalb der Mechanik). Seinen körperlichen Übertrag (Hand ans Gehäuse, Uhr läuft, Hand weg, Drift beginnt). Sein Zögern davor, sein Zögern danach. Die Schultern senken sich beim Sprechen, nicht vor Erleichterung — eher wie bei einem Mechanismus der zu lange Spannung gehalten hat. Er hat es Alphina erzählt — noch niemandem sonst. Maren hört zu. Sagt nichts. Urteilt nicht. Das ist die Art Zuhören die schwerer zu finden ist als Antworten.
+Vesper erzählt. Nicht alles auf einmal — aber er erzählt. Die Drift (4:33 täglich, einwandfreies Werk, Fehler außerhalb der Mechanik). Seinen körperlichen Übertrag (Hand ans Gehäuse, Uhr läuft, Hand weg, Drift beginnt). Sein Zögern davor, sein Zögern danach. Die Schultern senken sich beim Sprechen, eher wie ein Mechanismus, der zu lange Spannung gehalten hat. Er hat es Alphina erzählt — noch niemandem sonst. Maren hört zu. Sagt nichts. Urteilt nicht.
 
 **Dialog-Informationen:**
 - Maren erfährt: Vesper hat einen körperlichen Übertrag auf Mechanik — seine Anwesenheit reguliert die Drift
@@ -50,13 +50,13 @@ Vesper erzählt. Nicht alles auf einmal — aber er erzählt. Die Drift (4:33 t�
 
 **Wortziel:** 1.400–1.600 W
 
-Maren macht Tee. Einfacher Handgriff, der dritte in dieser Stunde, Teekochen auf der Werft ist so üblich wie Sägemehl.
+Maren macht Tee. Ein einfacher Handgriff, der dritte in der Stunde — auf der Werft so gewöhnlich wie Sägemehl.
 
 Sie zeigt es ihm. Wortlos. Kein Vorlauf, keine Erklärung. Sie greift nach dem Krug — Wasser vom Morgen, kalt, unberührt seit Sonnenaufgang. Schüttet es über das Teeblatt in eine leere Tasse. Hält sie Vesper hin. Noch während er die Tasse nimmt, steigt Dampf auf. Im Tee ein Strudel, langsam, gegen den Uhrzeigersinn, ohne dass jemand rührt. Als wäre Wasser-Wärme so natürlich wie Atemholen.
 
 Vesper starrt. Nicht höflich, nicht kurz — er starrt eine Sekunde zu lang, und in dieser Sekunde hält sein ganzer Körper inne. Die Lupe-am-Auge-Konzentration die Maren aus K14 kennt (Hände auf dem Uhrgehäuse, vollständige Aufmerksamkeit), jetzt auf sie gerichtet, auf die Tasse, auf ihre Finger.
 
-Die BDSM-Fantasien kommen. Maren denkt sie nicht — ihr Körper produziert sie, schärfer als in K14, ungebeten, präzise: seine Hände an ihren Handgelenken, seine Stimme die etwas sagt, seine Aufmerksamkeit die festhält und nicht loslässt. Das Bild ist da. Sie schiebt es nicht weg, weil es schneller ist als das Wegschieben.
+Die BDSM-Fantasien kommen. Maren denkt sie nicht — ihr Körper schiebt sie ihr zu, schärfer als in K14, ungebeten, präzise: seine Hände an ihren Handgelenken, seine Stimme die etwas sagt, seine Aufmerksamkeit die festhält und nicht loslässt. Das Bild ist da. Sie schiebt es nicht weg, weil es schneller ist als das Wegschieben.
 
 Vesper: *"Du musst Alphina kennenlernen."* Keine Frage, kein Vorschlag. Feststellung. Er hat etwas an Alphina beobachtet (Runa hat erzählt, er hat die Drift-Anomalien im Garten gemessen). Maren hat etwas gezeigt. Die Teile wollen zusammen.
 

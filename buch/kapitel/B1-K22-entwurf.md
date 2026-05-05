@@ -29,7 +29,7 @@ Alphina kommt im Schlafgesicht zur Tür. Ohne Erklärung zeigt Maren das Blatt. 
 
 "Werft. Hinteres Ende. Aus einer Fuge."
 
-Alphina geht zurück ins Zimmer, holt Mantel, Notizbuch, Stiefel — in dieser Reihenfolge. Kein Wort mehr. Sie folgt Maren die Treppe hinunter, durch den Schankraum, in die Hafengasse. Sechs Minuten nebeneinander, der Morgen noch kühl, die beiden Frauen auf dem Weg durch eine Stadt, die schon wach war. Ein paar halblaute Sätze zwischendurch — Maren, die das Wasser am Steg erwähnt (nebenbei, ohne Nachdruck). Alphina, die nicht antwortet. Alphina schläft noch halb, aber ihre Hand um das Notizbuch ist ganz wach.
+Alphina geht zurück ins Zimmer, holt Mantel, Notizbuch, Stiefel — in dieser Reihenfolge. Kein Wort mehr. Sie folgt Maren die Treppe hinunter, durch den Schankraum, in die Hafengasse. Sechs Minuten nebeneinander, der Morgen noch kühl, die beiden Frauen auf dem Weg durch eine Stadt, die schon wach war. Ein paar halblaute Sätze zwischendurch — Maren, die das Wasser am Steg erwähnt (nebenbei, ohne Nachdruck). Alphina, die nicht antwortet. Alphina ist noch nicht ganz wach. Ihre Hand am Notizbuch schon.
 
 In der Werft: Maren schließt auf, lässt Alphina hineingehen, folgt selbst. Alphina sieht sich um, einen halben Atemzug, orientiert sich. Geht direkt zur hinteren Wand, kniet sich. Keine Aufforderung — Maren hat nur mit dem Kinn hingedeutet, die Richtung gegeben. Alphina kniet vor der Pflanze, legt das Notizbuch auf die Bohle neben sich, spreizt mit dem Nagel des Zeigefingers die Fuge, sieht in den Spalt, schiebt den Nagel wieder weg. Beugt sich tief, riecht. Einmal lang, einmal kurz. Dreht das kleinste Blatt mit zwei Fingern um, hält es gegen das schwache Hallenlicht. Legt es zurück.
 
@@ -37,9 +37,9 @@ Dann bleibt sie noch zwei, drei Atemzüge in der Hocke. Sieht nicht die Pflanze 
 
 "Das wächst hier nicht."
 
-Kein Nachsatz. Sie schlägt das Notizbuch auf, zeichnet. Drei flache Umrisse für die Blätter, eine Linie für den Stängel, die Fuge in Schraffur. Ein Wort daneben, das Maren aus der Hocke nicht lesen kann. Alphina steht auf, schließt das Notizbuch, sieht die Pflanze jetzt von oben. Keine Faszination im Gesicht, die man benennen könnte. Aber auch kein Ekel. Kein Schrecken.
+Kein Nachsatz. Sie schlägt das Notizbuch auf, zeichnet. Drei flache Umrisse für die Blätter, eine Linie für den Stängel, die Fuge in Schraffur. Ein Wort daneben, das Maren aus der Hocke nicht lesen kann. Alphina steht auf, schließt das Notizbuch, sieht die Pflanze jetzt von oben. Im Gesicht nichts, was sich benennen ließe.
 
-Maren wartet. Alphina sagt nichts mehr. Geht an ihr vorbei zur Werft-Tür, bleibt dort stehen, dreht sich noch einmal um, sieht auf die Pflanze aus zehn Schritt Entfernung. Ihre Hand auf dem Türrahmen, die Knöchel weiß, einen halben Atemzug zu lang — das sieht Maren. Dann Alphina draußen. Die Tür zieht sich leise ins Schloss.
+Maren wartet. Alphina sagt nichts mehr. Geht an ihr vorbei zur Werft-Tür, bleibt dort stehen, dreht sich noch einmal um, sieht auf die Pflanze aus zehn Schritt Entfernung. Ihre Hand auf dem Türrahmen, die Knöchel weiß, einen Atemzug zu lang — das sieht Maren. Dann Alphina draußen. Die Tür zieht sich leise ins Schloss.
 
 Die Pflanze bleibt in der Fuge. Maren reißt sie nicht raus. Sie überlegt es nicht einmal.
 
@@ -76,7 +76,7 @@ Auf der Werft: Tohl ist schon da. Sie fragt ihn beiläufig, ohne Nachdruck. Er s
 
 Maren arbeitet am Boot. Heute macht sie Kleinigkeiten — Schmirgeln, Pech nachziehen, eine Kimm-Planke prüfen die sich leicht gewölbt hat. Handarbeit. Ihre Hände auf Holz. Während sie arbeitet, denkt sie: Pflanze die nicht hierher gehört. Wasser das zu warm ist. Schemen die aus dem Riss kommen. Diesmal kein Pochen vorher, kein Rückwärtsfließen, kein sonstiges Vorzeichen. Die Dinge waren einfach da. Das bedeutet: sie passieren von selbst.
 
-Kein Name für dieses Gefühl. Eine Holzplanke gibt nach wenn der Druck zu groß wird, oder sie hält. Es gibt keinen mittleren Zustand. Maren hat das Gefühl, dass etwas gerade anfängt nachzugeben.
+Kein Name für dieses Gefühl. Eine Holzplanke gibt nach, wenn der Druck zu groß wird, oder sie hält. Maren spürt: etwas gibt gerade nach.
 
 **Dialog-Informationen:**
 - Maren erfährt (von Tohl): Wasser warm seit gestern oder vorgestern. Fisch reagiert anders. Er macht nichts draus.
