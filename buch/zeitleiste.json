@@ -2,7 +2,7 @@
   "meta": {
     "titel": "Der Riss — Zeitleiste",
     "untertitel": "Eine Welt, ein Riss, zwei Zeiten — chronologisch",
-    "beschreibung": "Strikte Chronologie. TZ = Thalassien-Zeitrechnung (Gregorianisch + thalassische Monatsnamen, TZ 0 = Erfindung des Uhrwerks ~1269 UZ). MZ = Moragh-Zeitrechnung (26h/Tag, 8 Monate à 36 Tage, MZ 0 = Besiedelung Moragh). Kopplung: 1 MZ-Jahr = 400 TZ-Jahre (erzählerisch/Zeitdilatation). Events fuehren 'tz' und 'mz' parallel als Jahres-Zahl (mit Dezimalstellen fuer Teiljahre). Interludien chronologisch einsortiert; Lesekontext im Feld 'buch'/'kapitel'.",
+    "beschreibung": "Strikte Chronologie. TZ = Thalassien-Zeitrechnung. MZ = Moragh-Zeitrechnung (26h/Tag, 8 Monate à 36 Tage). Kopplung am Übergang B1→B2: 1 MZ-Jahr ≈ 400 TZ-Jahre. **Felder:** `tz` enthält echte TZ-Welt-Jahre und ist NUR gesetzt bei B1-Events, B0-Hintergrund, Sync-Events und B3-Thalassien-Echo-Ankern (Maren-SFG 1990, Expedition 1: 2020, Maren-Tod 2037, Syra+Kelvar 2080, Expedition-2-Plan 2110, Expedition 2: 2120, Portal-Finale 2152, Kind-in-Vael 2155). `mz` enthält echte Moragh-MZ-Werte. `tz_sort` ist reine Sortier-Marke über alle Bücher hinweg. `tz_datum` ist formatierter Anzeigetext.",
     "zeitrechnung": {
       "tz_null": "Erfindung des Uhrwerks",
       "mz_null": "Besiedelung von Moragh",
@@ -2253,9 +2253,8 @@
         "Stille-Welt",
         "Wasserweg-Riss"
       ],
-      "tz": 552,
       "tz_sort": 552.0,
-      "tz_datum": "MZ 0.00 · TZ 552",
+      "tz_datum": "MZ 0.00 (Torash)",
       "kapitel_status": "idee"
     },
     {
@@ -2276,9 +2275,8 @@
         "Schemen-als-Arbeiter",
         "Quell-Verstaerkung"
       ],
-      "tz": 556,
       "tz_sort": 556.0,
-      "tz_datum": "MZ 0.07 · TZ 556",
+      "tz_datum": "MZ 0.07 (Torash)",
       "kapitel_status": "idee"
     },
     {
@@ -2298,9 +2296,8 @@
         "Schemen-Lore",
         "Sprache"
       ],
-      "tz": 560,
       "tz_sort": 560.0,
-      "tz_datum": "MZ 0.14 · TZ 560",
+      "tz_datum": "MZ 0.14 (Ashral)",
       "kapitel_status": "idee"
     },
     {
@@ -2321,9 +2318,8 @@
         "Reitschemen",
         "Dulkara"
       ],
-      "tz": 564,
       "tz_sort": 564.0,
-      "tz_datum": "MZ 0.21 · TZ 564",
+      "tz_datum": "MZ 0.21 (Ashral)",
       "kapitel_status": "idee"
     },
     {
@@ -2343,9 +2339,8 @@
         "Narthek",
         "Elke-Erstkontakt"
       ],
-      "tz": 568,
       "tz_sort": 568.0,
-      "tz_datum": "MZ 0.28 · TZ 568",
+      "tz_datum": "MZ 0.28 (Keldath)",
       "kapitel_status": "idee"
     },
     {
@@ -2368,9 +2363,8 @@
         "Varen-erstmals-erwähnt",
         "Akt-I-Schluss"
       ],
-      "tz": 572,
       "tz_sort": 572.0,
-      "tz_datum": "MZ 0.35 · TZ 572",
+      "tz_datum": "MZ 0.35 (Keldath)",
       "kapitel_status": "idee"
     },
     {
@@ -2392,9 +2386,8 @@
         "Nyr-erste-Sichtung",
         "Elke-getrennt"
       ],
-      "tz": 576,
       "tz_sort": 576.0,
-      "tz_datum": "MZ 0.42 · TZ 576",
+      "tz_datum": "MZ 0.42 (Reshvan)",
       "kapitel_status": "idee"
     },
     {
@@ -2414,9 +2407,8 @@
         "Halvaren-Wahl",
         "Alphina-Heilerin"
       ],
-      "tz": 580,
       "tz_sort": 580.0,
-      "tz_datum": "MZ 0.49 · TZ 580",
+      "tz_datum": "MZ 0.49 (Reshvan)",
       "kapitel_status": "idee"
     },
     {
@@ -2437,9 +2429,8 @@
         "Talven-Erstkontakt",
         "Hütte-gewachsen"
       ],
-      "tz": 584,
       "tz_sort": 584.0,
-      "tz_datum": "MZ 0.56 · TZ 584",
+      "tz_datum": "MZ 0.56 (Dravon)",
       "kapitel_status": "idee"
     },
     {
@@ -2485,9 +2476,8 @@
         "Wasser-Dildo",
         "Zeit-Modulation"
       ],
-      "tz": 588,
       "tz_sort": 588.0,
-      "tz_datum": "MZ 0.63 · TZ 588",
+      "tz_datum": "MZ 0.63 (Gormath)",
       "kapitel_status": "idee"
     },
     {
@@ -2507,9 +2497,8 @@
         "Zweifel",
         "Maren-Wasserweg-Erinnerung"
       ],
-      "tz": 592,
       "tz_sort": 592.0,
-      "tz_datum": "MZ 0.70 · TZ 592",
+      "tz_datum": "MZ 0.70 (Gormath)",
       "kapitel_status": "idee"
     },
     {
@@ -2530,9 +2519,8 @@
         "Alphina-Heilung",
         "essbare-Pflanzen"
       ],
-      "tz": 596,
       "tz_sort": 596.0,
-      "tz_datum": "MZ 0.77 · TZ 596",
+      "tz_datum": "MZ 0.77 (Nyrkel)",
       "kapitel_status": "idee"
     },
     {
@@ -2554,13 +2542,11 @@
         "Mar-Keth-Experiment",
         "Alphinas-Ziel"
       ],
-      "tz": 600,
       "tz_sort": 600.0,
-      "tz_datum": "MZ 0.84 · TZ 600",
+      "tz_datum": "MZ 0.84 (Nyrkel)",
       "kapitel_status": "idee"
     },
     {
-      "tz": 604,
       "tz_sort": 604,
       "tz_datum": "MZ 0.91 · TZ 604",
       "welt": "moragh",
@@ -2588,7 +2574,6 @@
       ]
     },
     {
-      "tz": 608,
       "tz_sort": 608,
       "tz_datum": "MZ 0.98 · TZ 608",
       "welt": "moragh",
@@ -2615,7 +2600,6 @@
       ]
     },
     {
-      "tz": 612,
       "tz_sort": 612,
       "tz_datum": "MZ 1.05 · TZ 612",
       "welt": "moragh",
@@ -2642,7 +2626,6 @@
       ]
     },
     {
-      "tz": 616,
       "tz_sort": 616,
       "tz_datum": "MZ 1.12 · TZ 616",
       "welt": "moragh",
@@ -2691,7 +2674,6 @@
       "kapitel_status": ""
     },
     {
-      "tz": 620,
       "tz_sort": 620,
       "tz_datum": "MZ 1.19 · TZ 620",
       "welt": "moragh",
@@ -2717,7 +2699,6 @@
       ]
     },
     {
-      "tz": 624,
       "tz_sort": 624,
       "tz_datum": "MZ 1.26 · TZ 624",
       "welt": "moragh",
@@ -2746,7 +2727,6 @@
       ]
     },
     {
-      "tz": 628,
       "tz_sort": 628,
       "tz_datum": "MZ 1.33 · TZ 628",
       "welt": "moragh",
@@ -2772,7 +2752,6 @@
       ]
     },
     {
-      "tz": 632,
       "tz_sort": 632,
       "tz_datum": "MZ 1.40 · TZ 632",
       "welt": "moragh",
@@ -2814,9 +2793,8 @@
         "Varen-POV",
         "Drei rote Markierungen"
       ],
-      "tz": 632,
       "tz_sort": 632.0,
-      "tz_datum": "MZ 1.40 · TZ 632",
+      "tz_datum": "MZ 1.40 (Reshvan)",
       "kapitel_status": "idee",
       "verweise": [
         "buch/_klopfung_b2_k1-k22.md",
@@ -2824,7 +2802,6 @@
       ]
     },
     {
-      "tz": 636,
       "tz_sort": 636,
       "tz_datum": "MZ 1.47 · TZ 636",
       "welt": "moragh",
@@ -2850,7 +2827,6 @@
       ]
     },
     {
-      "tz": 644,
       "tz_sort": 644,
       "tz_datum": "MZ 1.61 · TZ 644",
       "welt": "moragh",
@@ -2916,13 +2892,11 @@
         "Bund-Chiffre",
         "systematische Zerstörung"
       ],
-      "tz": 676,
       "tz_sort": 676.0,
-      "tz_datum": "MZ 2.17 · TZ 676",
+      "tz_datum": "MZ 2.17 (Ashral)",
       "kapitel_status": "idee"
     },
     {
-      "tz": 680,
       "tz_sort": 680,
       "tz_datum": "MZ 1.70 · TZ 680",
       "welt": "moragh",
@@ -2989,13 +2963,11 @@
         "Vier rote Markierungen",
         "Spiegelung"
       ],
-      "tz": 688,
       "tz_sort": 688.0,
-      "tz_datum": "MZ 2.38 · TZ 688",
+      "tz_datum": "MZ 2.38 (Reshvan)",
       "kapitel_status": "idee"
     },
     {
-      "tz": 700,
       "tz_sort": 700,
       "tz_datum": "MZ 1.79 · TZ 700",
       "welt": "moragh",
@@ -3039,9 +3011,8 @@
         "Geständnis",
         "azyklische Resonanz"
       ],
-      "tz": 700,
       "tz_sort": 700.0,
-      "tz_datum": "MZ 2.59 · TZ 700",
+      "tz_datum": "MZ 2.59 (Dravon)",
       "kapitel_status": "idee"
     },
     {
@@ -3065,9 +3036,8 @@
         "drael-plan",
         "herzstillstand-beat"
       ],
-      "tz": 706,
       "tz_sort": 706,
-      "tz_datum": "MZ 1.81 · TZ 706",
+      "tz_datum": "MZ 1.89 (Vethash)",
       "kapitel_status": "idee",
       "verweise": [
         "buch/_klopfung_b2_k1-k22.md",
@@ -3096,9 +3066,8 @@
         "blutige-schlacht",
         "akt-iii-crisis"
       ],
-      "tz": 712,
       "tz_sort": 712,
-      "tz_datum": "MZ 1.83 · TZ 712",
+      "tz_datum": "MZ 1.96 (Vethash)",
       "kapitel_status": "idee",
       "verweise": [
         "buch/_klopfung_b2_k1-k22.md",
@@ -3124,9 +3093,8 @@
         "Vier-Thalassier-Liste",
         "Ritual-Setup"
       ],
-      "tz": 712,
       "tz_sort": 712.0,
-      "tz_datum": "MZ 2.80 · TZ 712",
+      "tz_datum": "MZ 2.80 (Nyrkel)",
       "kapitel_status": "idee"
     },
     {
@@ -3167,9 +3135,8 @@
         "Manipulation",
         "Halsband"
       ],
-      "tz": 724,
       "tz_sort": 724.0,
-      "tz_datum": "MZ 3.01 · TZ 724",
+      "tz_datum": "MZ 3.01 (Torash)",
       "kapitel_status": "idee"
     },
     {
@@ -3222,9 +3189,8 @@
         "Sulkara",
         "Vier-POV"
       ],
-      "tz": 748,
       "tz_sort": 748.0,
-      "tz_datum": "MZ 3.43 · TZ 748",
+      "tz_datum": "MZ 3.43 (Reshvan)",
       "kapitel_status": "idee"
     },
     {
@@ -3245,9 +3211,8 @@
         "Falschbeweis",
         "B3-Setup"
       ],
-      "tz": 748,
       "tz_sort": 748.33,
-      "tz_datum": "MZ 3.44 · TZ 748",
+      "tz_datum": "MZ 3.44 (Reshvan)",
       "kapitel_status": "idee"
     },
     {
@@ -3267,9 +3232,8 @@
         "Farn-Brief",
         "Entkoppelung"
       ],
-      "tz": 749,
       "tz_sort": 748.66,
-      "tz_datum": "MZ 3.44 · TZ 749",
+      "tz_datum": "MZ 3.44 (Reshvan)",
       "kapitel_status": "idee"
     },
     {
@@ -3311,9 +3275,8 @@
         "Halvara-Kel",
         "Bindung-Drainage"
       ],
-      "tz": 760,
       "tz_sort": 760.0,
-      "tz_datum": "MZ 5.00 · TZ 760",
+      "tz_datum": "MZ 5.00 (Torash)",
       "kapitel_status": "idee"
     },
     {
@@ -3333,9 +3296,8 @@
         "Expedition-Warnung",
         "Thar-Kommandantin"
       ],
-      "tz": 764,
       "tz_sort": 764.0,
-      "tz_datum": "MZ 5.13 · TZ 764",
+      "tz_datum": "MZ 5.13 (Ashral)",
       "kapitel_status": "idee"
     },
     {
@@ -3354,9 +3316,8 @@
         "Halvaren",
         "Drael-Gegner"
       ],
-      "tz": 768,
       "tz_sort": 768.0,
-      "tz_datum": "MZ 5.26 · TZ 768",
+      "tz_datum": "MZ 5.26 (Keldath)",
       "kapitel_status": "idee"
     },
     {
@@ -3376,9 +3337,8 @@
         "Held-Aufstieg",
         "Bindungs-Handbuch"
       ],
-      "tz": 772,
       "tz_sort": 772.0,
-      "tz_datum": "MZ 5.39 · TZ 772",
+      "tz_datum": "MZ 5.39 (Reshvan)",
       "kapitel_status": "idee"
     },
     {
@@ -3398,9 +3358,9 @@
         "Schwellenforschungsgesellschaft",
         "Vael 1990"
       ],
-      "tz": 776,
+      "tz": 1990,
       "tz_sort": 776.0,
-      "tz_datum": "MZ 5.52 · TZ 776",
+      "tz_datum": "MZ 5.52 (Dravon) · 1990 TZ",
       "kapitel_status": "idee"
     },
     {
@@ -3420,9 +3380,8 @@
         "Mar-Keth",
         "Reparatur-Fassade"
       ],
-      "tz": 780,
       "tz_sort": 780.0,
-      "tz_datum": "MZ 5.65 · TZ 780",
+      "tz_datum": "MZ 5.65 (Gormath)",
       "kapitel_status": "idee"
     },
     {
@@ -3447,9 +3406,9 @@
         "Tyra Halvard",
         "2020 TZ"
       ],
-      "tz": 784,
+      "tz": 2020,
       "tz_sort": 784.0,
-      "tz_datum": "MZ 5.78 · TZ 784",
+      "tz_datum": "MZ 5.78 (Nyrkel) · 2020 TZ",
       "kapitel_status": "idee"
     },
     {
@@ -3489,9 +3448,8 @@
       "tags": [
         "Expedition-gefangen"
       ],
-      "tz": 788,
       "tz_sort": 788.0,
-      "tz_datum": "MZ 5.91 · TZ 788",
+      "tz_datum": "MZ 5.91 (Vethash)",
       "kapitel_status": "idee"
     },
     {
@@ -3511,9 +3469,8 @@
         "Reparatur-Fassade bröckelt",
         "Bindung-Drainage spürbar"
       ],
-      "tz": 792,
       "tz_sort": 792.0,
-      "tz_datum": "MZ 6.04 · TZ 792",
+      "tz_datum": "MZ 6.04 (Torash)",
       "kapitel_status": "idee"
     },
     {
@@ -3532,9 +3489,8 @@
       "tags": [
         "Ritual entdeckt"
       ],
-      "tz": 804,
       "tz_sort": 804.0,
-      "tz_datum": "MZ 6.43 · TZ 804",
+      "tz_datum": "MZ 6.43 (Reshvan)",
       "kapitel_status": "idee"
     },
     {
@@ -3553,9 +3509,9 @@
         "Expedition 1 Start",
         "Vael 2019"
       ],
-      "tz": 808,
+      "tz": 2019,
       "tz_sort": 808.0,
-      "tz_datum": "MZ 6.56 · TZ 808",
+      "tz_datum": "MZ 6.56 (Dravon) · 2019 TZ",
       "kapitel_status": "idee"
     },
     {
@@ -3575,9 +3531,9 @@
         "Expedition 1 scheitert",
         "Tyra allein"
       ],
-      "tz": 812,
+      "tz": 2037,
       "tz_sort": 812.0,
-      "tz_datum": "MZ 6.69 · TZ 812",
+      "tz_datum": "MZ 6.69 (Gormath) · 2037 TZ",
       "kapitel_status": "idee"
     },
     {
@@ -3597,9 +3553,8 @@
         "Kelmaris Verask",
         "Portal-Öffnung durch Varen"
       ],
-      "tz": 816,
       "tz_sort": 816.0,
-      "tz_datum": "MZ 6.82 · TZ 816",
+      "tz_datum": "MZ 6.82 (Nyrkel)",
       "kapitel_status": "idee"
     },
     {
@@ -3639,9 +3594,8 @@
       "tags": [
         "Ritual-Fassade"
       ],
-      "tz": 820,
       "tz_sort": 820.0,
-      "tz_datum": "MZ 6.95 · TZ 820",
+      "tz_datum": "MZ 6.95 (Vethash)",
       "kapitel_status": "idee"
     },
     {
@@ -3661,9 +3615,8 @@
         "Drei-Sätze-Absage",
         "vierter Satz"
       ],
-      "tz": 824,
       "tz_sort": 824.0,
-      "tz_datum": "MZ 7.08 · TZ 824",
+      "tz_datum": "MZ 7.08 (Torash)",
       "kapitel_status": "idee"
     },
     {
@@ -3710,9 +3663,8 @@
       "tags": [
         "Bindungs-Sigil-Sicht (Resonanz)"
       ],
-      "tz": 832,
       "tz_sort": 832.0,
-      "tz_datum": "MZ 7.34 · TZ 832",
+      "tz_datum": "MZ 7.34 (Keldath)",
       "kapitel_status": "idee"
     },
     {
@@ -3733,9 +3685,8 @@
         "Schemen-Binden",
         "Grenzüberschreitung"
       ],
-      "tz": 836,
       "tz_sort": 836.0,
-      "tz_datum": "MZ 7.47 · TZ 836",
+      "tz_datum": "MZ 7.47 (Reshvan)",
       "kapitel_status": "idee"
     },
     {
@@ -3756,9 +3707,8 @@
         "Küche",
         "Basalt-Splitter"
       ],
-      "tz": 840,
       "tz_sort": 840.0,
-      "tz_datum": "MZ 7.60 · TZ 840",
+      "tz_datum": "MZ 7.60 (Dravon)",
       "kapitel_status": "idee"
     },
     {
@@ -3778,9 +3728,8 @@
         "Talven-Verdacht",
         "Falschbeweise"
       ],
-      "tz": 844,
       "tz_sort": 844.0,
-      "tz_datum": "MZ 7.73 · TZ 844",
+      "tz_datum": "MZ 7.73 (Gormath)",
       "kapitel_status": "idee"
     },
     {
@@ -3799,9 +3748,8 @@
       "tags": [
         "Velmar-Dokument"
       ],
-      "tz": 848,
       "tz_sort": 848.0,
-      "tz_datum": "MZ 7.86 · TZ 848",
+      "tz_datum": "MZ 7.86 (Nyrkel)",
       "kapitel_status": "idee"
     },
     {
@@ -3841,9 +3789,8 @@
       "tags": [
         "Ritual-Kalkül"
       ],
-      "tz": 852,
       "tz_sort": 852.0,
-      "tz_datum": "MZ 7.99 · TZ 852",
+      "tz_datum": "MZ 7.99 (Vethash)",
       "kapitel_status": "idee"
     },
     {
@@ -3862,9 +3809,8 @@
       "tags": [
         "Sorels Nutzen im Sterben"
       ],
-      "tz": 860,
       "tz_sort": 860.0,
-      "tz_datum": "MZ 8.25 · TZ 860",
+      "tz_datum": "MZ 8.25 (Keldath)",
       "kapitel_status": "idee"
     },
     {
@@ -3884,9 +3830,8 @@
         "Maren-Brief",
         "Unter dem Stein"
       ],
-      "tz": 864,
       "tz_sort": 864.0,
-      "tz_datum": "MZ 8.38 · TZ 864",
+      "tz_datum": "MZ 8.38 (Reshvan)",
       "kapitel_status": "idee"
     },
     {
@@ -3904,9 +3849,8 @@
       "tags": [
         "Halsband bleibt, sie geht"
       ],
-      "tz": 868,
       "tz_sort": 868.0,
-      "tz_datum": "MZ 8.51 · TZ 868",
+      "tz_datum": "MZ 8.51 (Dravon)",
       "kapitel_status": "idee"
     },
     {
@@ -3926,9 +3870,9 @@
         "Kelvar Velkan",
         "2080 TZ"
       ],
-      "tz": 872,
+      "tz": 2080,
       "tz_sort": 872.0,
-      "tz_datum": "MZ 8.64 · TZ 872",
+      "tz_datum": "MZ 8.64 (Gormath) · 2080 TZ",
       "kapitel_status": "idee"
     },
     {
@@ -3948,9 +3892,8 @@
         "Drael enttarnt",
         "Kolmen"
       ],
-      "tz": 876,
       "tz_sort": 876.0,
-      "tz_datum": "MZ 8.77 · TZ 876",
+      "tz_datum": "MZ 8.77 (Nyrkel)",
       "kapitel_status": "idee"
     },
     {
@@ -3970,9 +3913,9 @@
         "Expedition 2 Plan",
         "Resonanz-Modulator"
       ],
-      "tz": 880,
+      "tz": 2110,
       "tz_sort": 880.0,
-      "tz_datum": "MZ 8.90 · TZ 880",
+      "tz_datum": "MZ 8.90 (Vethash) · 2110 TZ",
       "kapitel_status": "idee"
     },
     {
@@ -3992,9 +3935,8 @@
         "Tyra-Fernsprecher",
         "Schall-Resonanz"
       ],
-      "tz": 884,
       "tz_sort": 884.0,
-      "tz_datum": "MZ 9.03 · TZ 884",
+      "tz_datum": "MZ 9.03 (Torash)",
       "kapitel_status": "idee"
     },
     {
@@ -4034,9 +3976,8 @@
       "tags": [
         "Versöhnung"
       ],
-      "tz": 888,
       "tz_sort": 888.0,
-      "tz_datum": "MZ 9.16 · TZ 888",
+      "tz_datum": "MZ 9.16 (Ashral)",
       "kapitel_status": "idee"
     },
     {
@@ -4056,9 +3997,8 @@
         "Nyr-Austritt",
         "Reiter-Bindung absolut"
       ],
-      "tz": 892,
       "tz_sort": 892.0,
-      "tz_datum": "MZ 9.29 · TZ 892",
+      "tz_datum": "MZ 9.29 (Keldath)",
       "kapitel_status": "idee"
     },
     {
@@ -4078,9 +4018,8 @@
         "Talven tot",
         "Fehlurteil"
       ],
-      "tz": 896,
       "tz_sort": 896.0,
-      "tz_datum": "MZ 9.42 · TZ 896",
+      "tz_datum": "MZ 9.42 (Reshvan)",
       "kapitel_status": "idee"
     },
     {
@@ -4128,9 +4067,8 @@
       "tags": [
         "Notbündnis"
       ],
-      "tz": 904,
       "tz_sort": 904.0,
-      "tz_datum": "MZ 9.68 · TZ 904",
+      "tz_datum": "MZ 9.68 (Gormath)",
       "kapitel_status": "idee"
     },
     {
@@ -4149,9 +4087,8 @@
       "tags": [
         "Duell-Einladung"
       ],
-      "tz": 908,
       "tz_sort": 908.0,
-      "tz_datum": "MZ 9.81 · TZ 908",
+      "tz_datum": "MZ 9.81 (Nyrkel)",
       "kapitel_status": "idee"
     },
     {
@@ -4170,9 +4107,9 @@
       "tags": [
         "Expedition 2 Aufbruch"
       ],
-      "tz": 912,
+      "tz": 2120,
       "tz_sort": 912.0,
-      "tz_datum": "MZ 9.94 · TZ 912",
+      "tz_datum": "MZ 9.94 (Vethash) · 2120 TZ",
       "kapitel_status": "idee"
     },
     {
@@ -4193,9 +4130,8 @@
         "Parallel-Schlacht",
         "Kessler im Kampf"
       ],
-      "tz": 916,
       "tz_sort": 916.0,
-      "tz_datum": "MZ 10.07 · TZ 916",
+      "tz_datum": "MZ 10.07 (Torash)",
       "kapitel_status": "idee"
     },
     {
@@ -4215,9 +4151,8 @@
         "Duell",
         "Halsband-Bruch"
       ],
-      "tz": 920,
       "tz_sort": 920.0,
-      "tz_datum": "MZ 10.20 · TZ 920",
+      "tz_datum": "MZ 10.20 (Ashral)",
       "kapitel_status": "idee"
     },
     {
@@ -4236,9 +4171,8 @@
       "tags": [
         "Vesper-Arm-Verlust"
       ],
-      "tz": 924,
       "tz_sort": 924.0,
-      "tz_datum": "MZ 10.33 · TZ 924",
+      "tz_datum": "MZ 10.33 (Keldath)",
       "kapitel_status": "idee"
     },
     {
@@ -4261,9 +4195,8 @@
         "Küche",
         "Garten"
       ],
-      "tz": 928,
       "tz_sort": 928.0,
-      "tz_datum": "MZ 10.46 · TZ 928",
+      "tz_datum": "MZ 10.46 (Reshvan)",
       "kapitel_status": "idee"
     },
     {
@@ -4283,9 +4216,8 @@
         "Varen tot",
         "Letztes Wort Garten"
       ],
-      "tz": 928,
       "tz_sort": 928.33,
-      "tz_datum": "MZ 10.47 · TZ 928",
+      "tz_datum": "MZ 10.47 (Reshvan)",
       "kapitel_status": "idee"
     },
     {
@@ -4324,7 +4256,7 @@
       "kapitel": "39",
       "leseart": "normal",
       "titel": "Ruhezeit — Vesper amputiert, Gruppe erholt sich",
-      "detail": "Vesper-Amputation mit Runas Feuer-Klinge. Drei Finger Alphinas sind verloren. Kessler liegt auf dem Schlachtfeld zurück, Nyr trauert. Die Gruppe rastet eine Moragh-Woche, zählt die Toten.",
+      "detail": "Vesper-Amputation durch Runas blosse Hand (Stufe-10-Hitze, trennt und versiegelt im selben Beat, kein Werkzeug). Drei Finger Alphinas sind verloren. Kessler liegt auf dem Schlachtfeld zurück, Nyr trauert. Die Gruppe rastet eine Moragh-Woche, zählt die Toten.",
       "typen": [
         "hintergrund",
         "tod"
@@ -4333,9 +4265,8 @@
         "Amputation",
         "Ruhezeit"
       ],
-      "tz": 936,
       "tz_sort": 936.0,
-      "tz_datum": "MZ 10.72 · TZ 936",
+      "tz_datum": "MZ 10.72 (Gormath)",
       "kapitel_status": "idee"
     },
     {
@@ -4354,9 +4285,9 @@
         "Magie weg",
         "Farn still"
       ],
-      "tz": 940,
+      "tz": 2155,
       "tz_sort": 940.0,
-      "tz_datum": "MZ 10.85 · TZ 940",
+      "tz_datum": "MZ 10.85 (Nyrkel) · 2155 TZ",
       "kapitel_status": "idee"
     },
     {
@@ -4376,9 +4307,8 @@
         "BDSM-Annäherung",
         "Sub-Alphina"
       ],
-      "tz": 944,
       "tz_sort": 944.0,
-      "tz_datum": "MZ 10.98 · TZ 944",
+      "tz_datum": "MZ 10.98 (Vethash)",
       "kapitel_status": "idee"
     },
     {
@@ -4399,9 +4329,8 @@
         "Epilog",
         "Narbige"
       ],
-      "tz": 948,
       "tz_sort": 948.0,
-      "tz_datum": "MZ 11.11 · TZ 948",
+      "tz_datum": "MZ 11.11 (Torash)",
       "kapitel_status": "idee"
     }
   ]

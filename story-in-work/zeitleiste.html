@@ -291,9 +291,13 @@
       const kapLabel = kap ? (kap.startsWith('I') ? `${buch}·${kap}` : `${buch}-K${kap}`) : '';
       const isInter = kap.startsWith && kap.startsWith('I');
 
-      const timeHtml = `<span class="ev-time"><span class="tz">TZ ${ev.tz}</span>${
-        ev.mz !== undefined && ev.mz !== null ? ` · <span class="mz">MZ ${Number(ev.mz).toFixed(2)}</span>` : ''
-      }${ev.tz_datum ? ` · ${escHtml(ev.tz_datum)}` : ''}</span>`;
+      const tzPart = (ev.tz !== undefined && ev.tz !== null)
+        ? `<span class="tz">TZ ${ev.tz}</span>` : '';
+      const mzPart = (ev.mz !== undefined && ev.mz !== null)
+        ? `<span class="mz">MZ ${Number(ev.mz).toFixed(2)}</span>` : '';
+      const datumPart = ev.tz_datum ? escHtml(ev.tz_datum) : '';
+      const timeParts = [tzPart, mzPart, datumPart].filter(Boolean);
+      const timeHtml = `<span class="ev-time">${timeParts.join(' · ')}</span>`;
 
       const kapBadge = kapLabel ? `<span class="badge-kap${isInter ? ' interlude' : ''}">${escHtml(kapLabel)}</span>` : '';
 
@@ -389,7 +393,10 @@
           if (buch && buch !== currentBuch && buchTitel(buch)) {
             tl.innerHTML += `<div class="buch-sep">
               <div class="buch-sep-title">${buchTitel(buch)}</div>
-              <div class="buch-sep-sub">ab TZ ${ev.tz}${ev.mz !== undefined && ev.mz !== null ? ` · MZ ${Number(ev.mz).toFixed(2)}` : ''}</div>
+              <div class="buch-sep-sub">${[
+                (ev.tz !== undefined && ev.tz !== null) ? `ab TZ ${ev.tz}` : '',
+                (ev.mz !== undefined && ev.mz !== null) ? `MZ ${Number(ev.mz).toFixed(2)}` : ''
+              ].filter(Boolean).join(' · ')}</div>
             </div>`;
             currentBuch = buch;
           }
