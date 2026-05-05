@@ -16,7 +16,7 @@ welt: thalassien
 **Status:** Nebenfigur. Aktiver Kanon.
 **Fraktion:** Thalassien (Vael, Botanischer Garten)
 **Rolle:** Gärtner des Vaeler Botanischen Gartens
-**Verwandte Files:** `02-akt1.md`, `00-welt.md`
+**Verwandte Files:** `00-welt.md`, `pov/alphina.md` (Henrik = Alphinas Garten-Schlüssel-Geber, K05+).
 
 ---
 

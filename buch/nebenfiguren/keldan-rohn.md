@@ -15,14 +15,14 @@ welt: thalassien
 
 **Status:** Nebenfigur. Aktiver Kanon. TZ-154-Interludien. Stirbt beim großen Feuer.
 **Fraktion:** Thalassien, Vael (TZ 154)
-**Rolle:** Schmied, einer der Vier von TZ 154. Runas (oder Vespers?) TZ-154-Pendant.
+**Rolle:** Schmied, einer der Vier von TZ 154. **Eisen-Resonanz** (Memory-Canon `project_tz154_canon.md`).
 **Verwandte Files:** `00-welt.md`, `nebenfiguren/lene-dahl.md`, `pov/elke.md`
 
 ---
 
 **Alter TZ 154:** Mitte dreißig.
 
-**Fähigkeiten:** Thalassier mit **Eisen/Metall-Resonanz**. In TZ 154 partiell aktiv — sein Erz "singt", wenn er es in Moragh-Nähe bringt. Parallel eher zu **Runa** (Feuer/Metall der Moderne) als zu **Vesper**; die Pendant-Zuordnung ist offen (siehe `00-welt.md`, TZ-154-Abschnitt).
+**Fähigkeiten:** Thalassier mit **Eisen-Resonanz** (Memory-Canon `project_tz154_canon.md` — TZ-154-Vorgängergruppe: Elke Stein, Keldan Eisen, Kesper Luft, Lene Holz). In TZ 154 partiell aktiv — sein Erz „singt", wenn er es in Moragh-Nähe bringt. Hält es für Material-Eigenschaft, nie als Magie benannt. **Kein direktes Pendant zu einer der modernen Vier** — die TZ-154-Gruppe und die TZ-551-Vier decken sich nicht 1:1.
 
 **Herkunft:** **Innenlande** Thalassiens. Kam wegen des Purpursteins nach Vael — der Stein, von dem Handwerker seit Generationen munkeln, dass er "anders" sei.
 
@@ -42,6 +42,4 @@ welt: thalassien
 
 ## Narrative Funktion
 
-Keldan ist die **Pendant-Figur** der TZ-154-Gruppe, deren Zuordnung zu einer der modernen Vier noch offen ist. Ursprünglich als Vespers Pendant angelegt (Uhrmacher-nahe Metall-Arbeit), jetzt eher Runas Pendant (Metall + Feuer + Hitze-Nähe).
-
-Sein Tod zeigt, dass die TZ-154-Version der Vier **nicht überlebt** hat. Nur Elke ging durch, Lene überlebte allein. Keldan und Kesper starben. Das ist das Spiegelbild, gegen das die Vier in TZ 551 antreten — denn Varen hat das Portal zu genau demselben Zweck wieder geöffnet.
+Keldan ist Schmied der TZ-154-Gruppe — **kein direktes Pendant zu einer der modernen Vier** (Resonanzen decken sich nicht 1:1). Sein Tod zeigt, dass die TZ-154-Version der Vier **nicht überlebt** hat. Nur Elke ging durch, Lene überlebte allein. Keldan und Kesper starben. Das ist das Spiegelbild, gegen das die Vier in TZ 551 antreten — denn Varen hat das Portal zu genau demselben Zweck wieder geöffnet.

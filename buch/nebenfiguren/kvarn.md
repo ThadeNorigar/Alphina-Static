@@ -16,7 +16,7 @@ welt: moragh
 **Status:** Nebenfigur. Aktiver Kanon.
 **Fraktion:** Thalassien (Vael, Gasthaus Anker)
 **Rolle:** Fischhändler, Vespers Uhren-Kunde
-**Verwandte Files:** `02-akt1.md`, `kapitel/07-vesper.md`, `kapitel/11-vesper.md`
+**Verwandte Files:** `00-welt.md` (Anker-Gasthaus + Hafenviertel), `pov/vesper.md` (Vesper-Kunde), `kapitel/07-vesper.md`, `kapitel/11-vesper.md`.
 
 ---
 

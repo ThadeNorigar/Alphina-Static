@@ -33,4 +33,4 @@ welt: moragh
 
 ---
 
-**Narrative Anknüpfung:** Brel ist die technische Authentizität der Thar-Industrie — ihre Begegnung mit Runa (in Buch 3) könnte den Magitech-Hybrid-Schritt initiieren.
+**Narrative Anknüpfung:** Brel ist die technische Authentizität der Thar-Industrie. Sie zeigt der Leserin, wie Magitech-Bestien gebaut werden — unter welchen Härten und Kompromissen. Keine Tech-Magie-Hybrid-Linie mit Runa: Moragh adoptiert keine Thalassien-Tech (Memory `project_moragh_keine_technologie.md`), und Runa bleibt bei Druckerei + Feuer. Wenn die Vier in Buch 3 Thar-Werkstätten betreten, ist Brel die schroffe Stimme, die ihnen den Bestien-Bau erklärt — nicht die Brücken-Figur.

@@ -49,7 +49,7 @@ Pro Hauptfigur sicherstellen, dass jedes Schlüssel-Erlebnis als Zeitleisten-Eve
 
 | File | Geprüft | Findings | Aktion |
 |---|---|---|---|
-| `nebenfiguren/*` (23 Files) | grob (Agent-Lauf) | TZ-154-Resonanzen-Konflikt (Lene Wasser vs. Holz, Kesper Licht vs. Luft); Henrik Gärtner vs. Torwächter; Lene-Dahl 2047 vs. 2037 | siehe Audit 1. + 2. Lauf, separate Findings |
+| `nebenfiguren/*` (23 Files) | ✓ Drift-Sweep 2026-05-05 | Mini-Format konsistent (Status/Fraktion/Stadt/Rolle/Verwandte Files/Alter/Fähigkeiten/Aussehen/Motivation/Verhalten/Narrative Anknüpfung) — KEIN Voll-Refactor nötig. Drifts gefixt: Brel (Tech-Magie-Hybrid-Schritt → Sabotage-Werkzeug-Klärung, Memory-Konformität), Keldan Rohn (Pendant-Konzept verworfen, Eisen-Resonanz canon-konform präzisiert), Henrik+Haron+Tohl+Kvarn (archivierte `02-akt1.md`-Verweise durch aktuelle Files ersetzt). Alle anderen 17 Files clean. TZ-154-Resonanzen + Henrik-Gärtner + Lene-Dahl-2037 wurden bereits 2026-05-03 (`6b52724`) gefixt. | — |
 
 ---
 

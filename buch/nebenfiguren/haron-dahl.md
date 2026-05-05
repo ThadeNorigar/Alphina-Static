@@ -16,7 +16,7 @@ welt: thalassien
 **Status:** Nebenfigur. Aktiver Kanon. Bereits bei Buch-1-Start verstorben.
 **Fraktion:** Ursprünglich Moragh (Varens Agent), äußerlich Thalassien-Werftbesitzer in Vael
 **Rolle:** Werftbesitzer am Vaeler Grauwe-Ufer, verstorbener Beschwörer und Varens Langzeit-Agent
-**Verwandte Files:** `02-akt1.md`, `00-welt.md`, `pov/maren.md`, `19-varen.md`, `10-magie-system.md` (Schemen)
+**Verwandte Files:** `00-welt.md`, `pov/maren.md` (erbt Werft + Boots-Schemen), `19-varen.md` (Auftraggeber), `10-magie-system.md` (Schemen).
 
 ---
 

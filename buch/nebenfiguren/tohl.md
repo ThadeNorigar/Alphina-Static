@@ -16,7 +16,7 @@ welt: moragh
 **Status:** Nebenfigur. Aktiver Kanon.
 **Fraktion:** Thalassien (Vael, Hafenviertel)
 **Rolle:** Alter Fischer, Hafen-Mensch, stummer Zeuge
-**Verwandte Files:** `02-akt1.md`, `00-welt.md`
+**Verwandte Files:** `00-welt.md`, `pov/maren.md` (Tohl zeigt Maren, dass die Grauwe rückwärts fließt).
 
 ---
 
