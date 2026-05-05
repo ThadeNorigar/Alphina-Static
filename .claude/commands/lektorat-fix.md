@@ -2,9 +2,11 @@
 
 **Ziel:** Kleinere textuelle Aenderungen am Kapitel nach dem Online-Lesen des Autors. **Token-sparsamst.** Kein Neuschreiben, kein Plot-Anfassen, keine Stil-Pruefungen, kein Council.
 
+**Findings-Format-Pflicht:** Master = `buch/_findings-format.md`. Mikro-Fixes werden im Block-Format mit Vorher/Nachher und Satz-Kontext ausgegeben (Satz davor + Stelle + Satz danach). Sweep-Aenderungen 2-3 typische Beispiele + Hinweis „identisch an Z.X, Y, Z". Keine reinen Wort-zu-Wort-Substitutionen.
+
 **Hinweis (ab 2026-04-26):** Der Status `lektorat` ist aus der Pipeline entfallen — `/ausarbeitung` setzt direkt `final`, weil das absatzweise Schreiben mit Mini-Council bereits Final-Niveau liefert. Dieser Skill arbeitet jetzt auf `final`-Kapiteln und ist der dedizierte Modus fuer chirurgische Edits nach dem Online-Lesen.
 
-**Modell-Soll:** Sonnet (Default) oder Haiku (fuer Mikro-Fixes).
+**Modell:** Opus (Hauptsession).
 
 ## Input
 
@@ -14,25 +16,13 @@ Wenn kein Argument: frage welche Kapitel-ID.
 
 ## Phase 0: Guard-Checks (HART)
 
-### 0.1 Modell-Hinweis (kein Abbruch)
-
-Wenn diese Session auf Opus laeuft:
-
-> HINWEIS: Du bist auf Opus. Fuer Lektorat-Fixes reicht Sonnet oder Haiku. Opus ist hier teuer ohne Mehrwert.
->
-> Empfehlung: Session beenden, neu starten mit `claude --model sonnet` oder `claude --model haiku`.
->
-> Trotzdem auf Opus weiter? [Autor antwortet]
-
-Kein harter Abbruch — Autor entscheidet.
-
-### 0.2 Handoff-Check (entfaellt)
+### 0.1 Handoff-Check (entfaellt)
 
 Seit 2026-04-26 hinterlaesst `/ausarbeitung` kein Handoff-File mehr (es loescht eines, falls es noch eines gibt). `/lektorat-fix` braucht keine Phasen-Uebergabe — der Skill arbeitet auf finalen Kapiteln und liest minimalen Kontext aus dem Kapitel selbst und `buch/status.json`.
 
 Falls aus historischen Gruenden noch ein `{ID}-handoff.md` existiert: ignorieren oder loeschen — es ist Altlast.
 
-### 0.3 Status-Check
+### 0.2 Status-Check
 
 Aus `status.json` den Status lesen.
 
@@ -42,7 +32,7 @@ Aus `status.json` den Status lesen.
 | `ausarbeitung` | HARTER ABBRUCH: "Kapitel ist noch in Ausarbeitung. Erst dort abschliessen, dann /lektorat-fix." |
 | alles frueher | HARTER ABBRUCH: "Kapitel ist nicht final. Erst /entwurf und /ausarbeitung durchlaufen." |
 
-### 0.4 Parameter-Parsing
+### 0.3 Parameter-Parsing
 
 Parameter `B1-K12` parsen, in `status.json` nachschlagen, `datei`-Feld lesen.
 

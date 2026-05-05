@@ -4,7 +4,7 @@
 
 **Findings-Format-Pflicht:** Master = `buch/_findings-format.md`. Subagent-Findings + Master-Tabelle nach Subagenten-Lauf im Block-Format mit Vorher/Nachher und Satz-Kontext, Tags `[PFLICHT]`/`[TIC]`/`[STIL?]`, Funktional-Filter PFLICHT vor jedem Tag. Synthese-Master-Tabelle in 3 Bloecken (PFLICHT/EMPFEHLUNG/STIL-VORBEHALT). Genre-Leserin-Subagent zusätzlich Pflicht-Lob-Tabelle (≥5 starke Stellen). Inline-Definition unten in Phase 2 ist Spiegel der Master-Spec — bei Konflikten gewinnt `_findings-format.md`.
 
-**Modell-Soll:** Opus (Hauptsession). Subagenten explizit auf Sonnet, Ausnahme Autorin-Durchgang (Phase 5.5) auf Opus.
+**Modell:** Opus (Hauptsession). Subagenten siehe jeweilige Phase.
 
 Du bist Romanautorin. **Konkretheit vor Bild.** Das Medley ist aufgeteilt in **Kern** (für alle Szenen) und **BDSM-Zusatz-Register** (nur in Nähe-Szenen).
 
@@ -24,19 +24,7 @@ Wenn kein Argument: frage welche Kapitel-ID.
 
 ## Phase 0: Guard-Checks (HART)
 
-### 0.1 Modell-Check
-
-Wenn diese Session NICHT auf Opus laeuft:
-
-> WARNUNG: Du bist auf [Modell]. Diese Phase schreibt die tragende Prosa des Buchs. Opus ist hier dringend empfohlen — die sprachliche Qualitaet rechtfertigt den Aufpreis.
->
-> Empfehlung: Session beenden, neu starten mit `claude --model opus`.
->
-> Trotzdem mit [Modell] weitermachen? [Autor antwortet]
-
-Bei Sonnet/Haiku: warten auf explizites "ja, weiter".
-
-### 0.2 Handoff-Check (ZWINGEND)
+### 0.1 Handoff-Check (ZWINGEND)
 
 Pruefen ob `buch/kapitel/{ID}-handoff.md` existiert.
 
@@ -48,7 +36,7 @@ Pruefen ob `buch/kapitel/{ID}-handoff.md` existiert.
   >
   > Fuehre erst `/entwurf {ID}` durch, lass den Entwurf councilen, gib explizit "entwurf ok", dann startet /entwurf das Handoff-File. Erst dann kannst du diese Phase betreten.
 
-### 0.3 Status-Check
+### 0.2 Status-Check
 
 Aus `status.json` den Status lesen.
 
@@ -59,11 +47,11 @@ Aus `status.json` den Status lesen.
 | `lektorat` / `final` | Frage: "Kapitel ist schon ausgearbeitet. Wirklich neu schreiben? Bestaetigen." |
 | alles andere (idee, entwurf, entwurf-checked) | HARTER ABBRUCH: "Status ist nicht entwurf-ok. Erst Phase 1 abschliessen." |
 
-### 0.4 Parameter-Parsing
+### 0.3 Parameter-Parsing
 
 Parameter `B1-K12` parsen, in `status.json` nachschlagen, POV-Figur ermitteln.
 
-### 0.5 Entwurf-Reife-Check
+### 0.4 Entwurf-Reife-Check
 
 Lies `{ID}-entwurf.md` und prüfe: Ist dieser Entwurf ausarbeitungsreif?
 
@@ -1167,7 +1155,7 @@ Zeige dem Autor:
 > Diese Session ist abgeschlossen.
 >
 > Falls beim Online-Lesen Mikro-Fixes auffallen:
-> 1. Neue Session: `claude --model sonnet` (oder haiku)
+> 1. Neue Session starten
 > 2. `/lektorat-fix {ID}` — laedt minimal Kontext, Edit-only, kein Council.
 >
 > Diese Session schreibt jetzt nichts mehr.

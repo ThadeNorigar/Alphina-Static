@@ -2,7 +2,7 @@
 
 Sandbox für Ideen, die *nicht* in den Canon wandern sollen. Plot-Alternativen, Was-wäre-wenn, Figuren-Was-wenn, Szenen-Varianten. Im Gegensatz zu `/entwurf` wird **nichts** in `buch/` geschrieben, **kein** Status geändert, **keine** Kaskade ausgelöst.
 
-**Modell-Soll:** Sonnet (Plot-Arbeit, keine Prosa). Opus ist für diese Phase Verschwendung.
+**Modell:** Opus (Hauptsession).
 
 ## Input
 
@@ -12,14 +12,6 @@ Sandbox für Ideen, die *nicht* in den Canon wandern sollen. Plot-Alternativen, 
 - `Vesper-Maren Dom-Wechsel temporär`
 
 Wenn leer: fragen.
-
-## Phase 0: Modell-Check
-
-Wenn Session auf Opus läuft:
-
-> WARNUNG: Brainstorm auf Opus zahlt 5x Aufpreis ohne Mehrwert. Plot-Arbeit ist Sonnet. Trotzdem weiter? [Autor antwortet]
-
-Bei Sonnet/Haiku: stillschweigend weiter.
 
 ## Kernprinzip: Source-Tagging
 

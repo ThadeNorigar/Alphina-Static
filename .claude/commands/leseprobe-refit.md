@@ -6,7 +6,7 @@
 
 **Tracker:** `buch/leseproben/_status.md` — Status-Tabelle, Wellen-Plan, Quellen-Anker. Bei jedem Phasen-Wechsel aktualisieren.
 
-**Modell-Soll:** Opus (Hauptsession). Synthese aus 6 Subagenten-Outputs + Konflikt-Hierarchie + Bild-Logik-Mini-Check ist kognitiv anspruchsvoll. Subagenten laufen auf general-purpose.
+**Modell:** Opus (Hauptsession). Subagenten laufen auf general-purpose.
 
 ## Input
 

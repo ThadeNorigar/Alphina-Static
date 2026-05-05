@@ -2,7 +2,9 @@
 
 Interaktive Pipeline: holt offene Kommentare ab, geht sie einzeln mit dem Autor durch, wendet Edits an, committet, markiert die Kommentare in der DB als erledigt.
 
-**Modell-Soll:** Sonnet (Default). Opus nur wenn Inhalt-Fixes bevorstehen.
+**Modell:** Opus (Hauptsession).
+
+**Findings-Format-Pflicht:** Master = `buch/_findings-format.md`. Pro Kommentar wird ein Vorher/Nachher-Block mit Satz-Kontext gezeigt (Satz davor + Stelle + Satz danach), bevor der Autor `ok`/`skip`/eigener Fix entscheidet. Keine isolierten Wort-Edits ohne Kontext.
 
 ## Nutzung
 

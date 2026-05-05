@@ -94,6 +94,7 @@ Jede Regel hat **genau eine Master-Datei**. Andere Stellen (CLAUDE.md, Konkrethe
 | Figuren-Dossiers (Berufslinse, Sprach-Signatur, Wissensstand, Tschechow-Waffen) | `buch/pov/<figur>.md` | Pro POV-Figur ein Dossier. |
 | Kapitel-Pipeline (Phasen, Skills, Modelle, Status-Kette) | CLAUDE.md (kompakt) + Skill-Files unter `.claude/commands/` | Pipeline-Logik in den Skills, Übersicht hier. |
 | Skill-Anweisungen (Phasen-Logik, Subagent-Prompts, Output-Formate) | `.claude/commands/<skill>.md` | NUR Anwendungs-Logik. **Keine Regel-Definitionen** — Skills referenzieren die Master oben. |
+| Findings-Format (Vorher/Nachher mit Kontext, Tags PFLICHT/TIC/STIL?, Funktional-Filter, Master-Tabelle in 3 Bloecken, Pflicht-Lob-Tabelle, Sweep-Format) | `buch/_findings-format.md` | Verbindlich fuer alle Skills, die Findings produzieren (`/refit`, `/ausarbeitung`, `/stil-check`, `/council`, `/book-council`, `/lektorat-fix`, `/lektorat-online`, `/figuren-check`, `/logik-check`, `/entwurf`). Subagent-Prompts und Synthese-Tabellen verweisen auf diese Datei statt eigener Format-Definitionen. |
 
 **Verweis-Pattern bei Wiederholung:** Wenn eine Regel an mehreren Stellen erwähnt werden muss (z.B. weil ein Skill sie zur Laufzeit prüft), verweist die Sekundär-Stelle mit einer Zeile auf den Master:
 
@@ -111,7 +112,7 @@ Drei Phasen mit Session-Breaks. Details in den jeweiligen Skill-Dateien (`/entwu
 
 **Status-Kette:** `idee → entwurf → entwurf-checked → entwurf-ok → ausarbeitung → final` (seit 2026-04-26: Status `lektorat` entfaellt — `/ausarbeitung` setzt direkt `final`, weil das absatzweise Schreiben mit Mini-Council bereits Final-Niveau liefert.)
 
-**Modelle:** `/entwurf` = Sonnet, `/ausarbeitung` = Opus, `/lektorat-fix` = Sonnet/Haiku (Mikro-Fixes auf finalen Kapiteln nach Online-Lesen).
+**Modell:** Hauptsessions laufen auf Opus. Subagent-Overrides (sonnet/haiku) bleiben innerhalb einzelner Skills als Performance-Optimierung erhalten — keine Modell-Checks mehr in Phase 0.
 
 ## Kapitel-Header
 

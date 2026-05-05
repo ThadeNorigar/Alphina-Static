@@ -13,7 +13,7 @@
 - Modus A: `/ausarbeitung` setzt einen freigegebenen `/entwurf` voraus. Alte Kapitel haben keinen Entwurf mehr — der Plot steckt in der Prosa. Ein Edit-Pass auf der Altprosa produziert Mongrel-Text. `/refit` extrahiert stattdessen die Beats in ein **Plot-Lock-Dokument**, generiert daraus einen regulaeren Entwurf, archiviert das Altkapitel und uebergibt an die bestehende `/ausarbeitung`-Pipeline.
 - Modus B: Auch moderne finale Kapitel (z.B. K22, K27) wurden vor der 4-Subagent-Pipeline-Verschaerfung (Mai 2026) geschrieben. Sie haben keinen Stil-Gap im klassischen Sinn, aber moeglicherweise Verquastung, Buehnen-Bugs oder POV-Vokabular-Brueche, die heute aufgefangen wuerden. `/refit` Modus B prueft das — ohne Refit, nur Diagnose + Fix-Liste auf vorhandenem Text.
 
-**Modell-Soll:** Sonnet (Hauptsession). Plot-Extraktion und Pipeline-Konsolidierung sind kognitive Arbeit, keine Prosa. Subagenten explizit per Override.
+**Modell:** Opus (Hauptsession). Subagenten siehe jeweilige Phase.
 
 ## Input
 
@@ -25,22 +25,14 @@ Wenn kein Argument: frage welches Kapitel.
 
 ## Phase 0: Guard-Checks
 
-### 0.1 Modell-Check
-
-Wenn nicht Sonnet:
-
-> WARNUNG: Du bist auf [Modell]. Diese Phase ist Plot-Extraktion, keine Prosa. Auf Opus zahlst du den Aufpreis ohne Mehrwert. Auf Haiku leidet die Qualitaet der Beat-Abstraktion. Empfehlung: Session beenden, neu starten mit `claude --model sonnet`. Trotzdem weiter?
-
-Auf Opus: warten auf explizites "weiter". Auf Haiku: zwei Bestaetigungen.
-
-### 0.2 Altkapitel existiert?
+### 0.1 Altkapitel existiert?
 
 Pruefen: `buch/kapitel/{alte-datei}.md` vorhanden?
 
 - `01-alphina.md`, `02-sorel.md`, ..., `04-maren.md`, `06-sorel.md`, `07-vesper.md`, `08-maren.md` — alte Numerierung
 - Wenn nein: HARTER ABBRUCH: "Altkapitel-Datei nicht gefunden. Welches Kapitel willst du refitten? Verfuegbar: [Liste aus ls buch/kapitel/ ohne entwurf/szene/handoff/legacy]"
 
-### 0.3 Status-Check
+### 0.2 Status-Check
 
 Aus `status.json` lesen.
 
@@ -51,7 +43,7 @@ Aus `status.json` lesen.
 | `entwurf-ok` / `ausarbeitung` | HARTER ABBRUCH: "Kapitel ist schon in der neuen /ausarbeitung-Pipeline. Dort gilt die 4-Subagent-Pipeline pro Block. /refit nur fuer finale oder Alt-Kapitel." |
 | `refit` (in Arbeit) | Frage: "Refit laeuft schon. Plot-Lock neu erstellen (ueberschreiben), Pipeline-Check (Modus B) oder weiter?" |
 
-### 0.4 Stil-Gap-Check (Modus-Switch)
+### 0.3 Stil-Gap-Check (Modus-Switch)
 
 Kurzer Grep-Check auf typische Alt-Stil-Marker im Kapitel:
 - `nicht X — sondern Y` / `nicht X, sondern Y`
@@ -73,7 +65,7 @@ Dem Autor anzeigen: Treffer-Liste + Empfehlung + Frage **„Modus A oder B?"**. 
 **Bei Modus A:** weiter mit Phase 1-9 (Plot-Lock-Workflow).
 **Bei Modus B:** direkt zu **Phase B1** springen (siehe unten, nach Phase 9).
 
-### 0.5 Parameter-Normalisierung
+### 0.4 Parameter-Normalisierung
 
 Aus Dateiname `NN-figur.md` → `B1-K{NN}` ableiten. POV-Figur aus Dateiname (`01-alphina` → Alphina). Fuer Interludien gesondert.
 
@@ -328,10 +320,6 @@ Datei: `buch/kapitel/{ID}-handoff.md`
 **Erstellt:** {ISO-Datum}
 **Status beim Handoff:** entwurf-ok
 
-## Modell-Empfehlung
-
-claude --model opus
-
 ## Aufruf fuer naechste Session
 
 /ausarbeitung {ID}
@@ -365,10 +353,10 @@ Plot-Lock: buch/kapitel/{ID}-plot-lock.md
 Entwurf: buch/kapitel/{ID}-entwurf.md
 Legacy archiviert: buch/kapitel/legacy/{alte-datei}.md
 
-Naechster Schritt: NEUE SESSION mit Opus.
+Naechster Schritt: NEUE SESSION fuer den Phasen-Wechsel (Context-Reset).
 
 1. Diese Session beenden
-2. claude --model opus
+2. Neue Session starten
 3. /ausarbeitung {ID}
 
 Das Handoff-File wird automatisch gelesen.

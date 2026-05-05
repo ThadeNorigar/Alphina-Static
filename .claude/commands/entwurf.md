@@ -4,7 +4,7 @@
 
 **Findings-Format-Pflicht:** Master = `buch/_findings-format.md`. Falls in Council-Loop oder Logik-Pruefung Findings entstehen, im Block-Format mit Vorher/Nachher und Satz-Kontext (Entwurf-Sequenz davor + Stelle + Sequenz danach). Tag aus `[PFLICHT]`/`[TIC]`/`[STIL?]`. Bei reinen Plot-Beat-Aenderungen (keine Prosa) reicht Beat-Liste mit Vorher/Nachher-Beschreibung des Beats.
 
-**Modell-Soll:** Sonnet (Hauptsession). Alle Subagenten explizit per Override.
+**Modell:** Opus (Hauptsession). Subagenten siehe jeweilige Phase.
 
 ## Input
 
@@ -16,16 +16,7 @@ Wenn kein Argument: frage welche Kapitel-ID.
 
 **Diese Pruefungen MUESSEN bestanden sein, bevor irgendwas geladen wird.**
 
-### 0.1 Modell-Check
-
-Wenn diese Session NICHT auf Sonnet laeuft (z.B. Opus oder Haiku):
-
-> WARNUNG: Du bist auf [Modell]. Diese Phase ist auf Sonnet optimiert (Plot-Arbeit, keine Prosa). Auf Opus zahlst du den 5x-Aufpreis ohne Mehrwert. Empfehlung: Session beenden, neu starten mit `claude --model sonnet`. Trotzdem weiter? [Autor antwortet]
-
-Bei Opus: warten auf explizites "weiter" oder "ja".
-Bei Sonnet: stillschweigend weiter.
-
-### 0.2 Parameter-Parsing
+### 0.1 Parameter-Parsing
 
 Parameter `B1-K12` parsen:
 - `buch` = 1
@@ -34,7 +25,7 @@ Parameter `B1-K12` parsen:
 
 In `buch/status.json` unter `buch{N}.akte[*].kapitel` nachschlagen ob die ID existiert.
 
-### 0.3 Status-Check
+### 0.2 Status-Check
 
 Aus `status.json` den `state` des Kapitels lesen.
 
@@ -44,7 +35,7 @@ Aus `status.json` den `state` des Kapitels lesen.
 | `entwurf*` | Frage: "Kapitel ist schon in Phase X. Ueberschreiben oder weiterarbeiten?" |
 | `ausarbeitung` / `lektorat` / `final` | HARTER ABBRUCH: "Kapitel ist schon weiter in der Pipeline. Rueckstufung erwuenscht? Dann erst Status manuell zuruecksetzen." |
 
-### 0.4 Handoff-Check
+### 0.3 Handoff-Check
 
 Pruefen ob `buch/kapitel/B1-K12-handoff.md` existiert.
 
@@ -488,9 +479,6 @@ Schreibe das Handoff im folgenden Format:
 **Erstellt:** {aktuelles Datum/Uhrzeit}
 **Status beim Handoff:** entwurf-ok
 
-## Modell-Empfehlung
-claude --model opus
-
 ## Aufruf fuer naechste Session
 /ausarbeitung {ID}
 
@@ -515,11 +503,11 @@ Zeige dem Autor:
 
 > ENTWURF FREIGEGEBEN. Status: entwurf-ok.
 >
-> Naechster Schritt: NEUE SESSION mit Opus.
+> Naechster Schritt: NEUE SESSION fuer den Phasen-Wechsel (Context-Reset).
 >
 > 1. Diese Session beenden (Ctrl+C oder /exit)
-> 2. Neue Session starten: `claude --model opus`
-> 3. Im neuen Terminal: `/ausarbeitung {ID}`
+> 2. Neue Session starten
+> 3. `/ausarbeitung {ID}`
 >
 > Das Handoff-File `buch/kapitel/{ID}-handoff.md` wird automatisch von der naechsten Session gelesen.
 >
