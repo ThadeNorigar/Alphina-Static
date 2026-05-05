@@ -103,7 +103,7 @@ Er löst die Druck-Fixierung, geht. Sie sagt es niemandem. Geht zu Elke. **Elke-
 
 **Phase 2 — Bekehrung (K31–K35):** Varen führt Alphina zur Karten-Wand (vier rote Markierungen, drei seine alte, eine Halvara-Kel). **Mar-Keth-Geständnis als Fassade (K32)** — er rahmt sein Experiment als Hybris, verschweigt Macht-Motiv. Hoffnungs-Betrug: Quellen-Reparatur als gemeinsame Mission, energetische Unmöglichkeit verschwiegen. Alphina glaubt ihm, weil sie glauben will (sie hat selbst eine Quelle getötet, sie braucht Rechtfertigung). **K35 Vier-Thalassier-Liste** in Varens Schublade — Alphina, Vesper, Maren, Runa Kvist (durchgestrichen, *„unerwarteter Mitreisender"*). Sie liest, versteht nicht ganz, sagt nichts. Setup B3.
 
-**Phase 3 — Annäherung + Parallel-Linien (K36–K40):** **K36 Erste Reparatur-Sitzung Halvara-Kel** — Quelle pulsiert für drei Atemzüge. Halsband-Drainage aktiv, Wärme zwischen Schulterblättern als Reparatur-Resonanz gedeutet. **K37 Sex** — sie führt, geteilte Schuld als Bündnis, Dornen aus Boden und Decke. Halsband bleibt am Hals, Drainage nicht aktiv. **K38 Runa-Spur** verdichtet sich (Schmuggler nennt Torkal). **K39 Maren tritt durch Wasserweg-Riss bei Dravek**, solo. Vesper verabschiedet sich heimlich am Riss, gibt ihr drei Sachen mit (Zeit-Apparat, Datenliste, Brief an Alphina *„falls"*). Sie strandet in Thalassien ~1987 TZ. **K40 Vesper-Strategie-Update.**
+**Phase 3 — Annäherung + Parallel-Linien (K36–K40):** **K36 Erste Reparatur-Sitzung Halvara-Kel** — Quelle pulsiert für drei Atemzüge. Halsband-Drainage aktiv, Wärme zwischen Schulterblättern als Reparatur-Resonanz gedeutet. **K37 Sex** — sie führt, geteilte Schuld als Bündnis, Dornen aus Boden und Decke. Halsband bleibt am Hals, Drainage nicht aktiv. **K38 Runa-Spur** verdichtet sich (Schmuggler nennt Torkal). **K39 Maren tritt durch Wasserweg-Riss bei Dravek**, solo. Vesper verabschiedet sich heimlich am Riss, gibt ihr drei Sachen mit (Zeit-Apparat, Datenliste, Brief an Alphina *„falls"*). Sie strandet in Thalassien ~1987 UZ. **K40 Vesper-Strategie-Update.**
 
 **Phase 4 — Schutz + Sulkara-Aufmarsch (K41–K43):** Bund + Thar koordinieren erstmals außerhalb des Krieges, weil eine Bund-Faktion **Sulkara-Quelle politisch instrumentalisiert** (Überladungs-Manöver, Quelle würde nach 12 Stunden kippen, 12.000 Bewohner ohne Magie). **Sulkara-Mechanik = Schutz vor Überladung**, Quelle ist intakt. Varen sieht Gelegenheit, präsentiert Alphina den Einsatz als Mission. Drael + Nyr schicken Beobachtungs-Vorhut. Runa marschiert mit Bund-Vorhut.
 
@@ -116,7 +116,7 @@ Er löst die Druck-Fixierung, geht. Sie sagt es niemandem. Geht zu Elke. **Elke-
 - Vier-Thalassier-Liste in Varens Schublade (Tschechow B3)
 - Erste Reparatur-Sitzung Halvara-Kel, Quelle pulsiert kurz
 - Sex Alphina+Varen K37: sie führt, geteilte Schuld, Halsband bleibt
-- Maren-Wasserweg-Solo K39, Vesper-Abschied am Riss, strandet 1987 TZ
+- Maren-Wasserweg-Solo K39, Vesper-Abschied am Riss, strandet 1987 UZ
 - Sulkara als Schutz vor Überladung (politisches Manöver, Quelle intakt)
 - Alphina kämpft sichtbar an Varens Seite, Runa sieht es
 - K46 Tyra Halvard tritt durch — Marens Vermächtnis sichtbar
@@ -127,7 +127,7 @@ Er löst die Druck-Fixierung, geht. Sie sagt es niemandem. Geht zu Elke. **Elke-
 |---|---|---|---|
 | Alphina | Torkal mit Varen | Halsband, Hoffnungs-Betrug | Varen |
 | Vesper | bei Thar mit Nyr und Runa | Thar-Mitwisser, Skepsis | Nyr |
-| Maren | Thalassien ~1987 TZ | gestrandet, baut SFG | — |
+| Maren | Thalassien ~1987 UZ | gestrandet, baut SFG | — |
 | Runa | bei Vesper+Nyr | verletzt (Pflanzen+Brand), gebrochen | — |
 | Elke | Dravek | lebt, schweigt über Varen | — |
 | Talven | Velmar-affin, Bund | hungrig, Blutmagie-Bogen folgt B3 | — |

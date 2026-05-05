@@ -34,7 +34,7 @@ Schiffbauerin. **Identität liegt im Beruf**, nicht im Namen, nicht in der Herku
 
 **„Hier durfte sie sein."** — Sub-Kern bei Vesper. Stillhalten ist schwerer als Gehen. Surrender als Ruhe, nicht als Anspannung. Réage-Körper-vor-Kopf: bemerkt, benennt nicht. Freude im Loslassen.
 
-**Vermächtnis statt Held:** Maren rettet keine Welt. Sie gründet ein Institut, das vier Jahrzehnte misst und schreibt. Ihr Werk wird nach ihrem Tod gegen sie verwendet (Syra-Halvard-Kippung). Ihre Doktrin stirbt mit ihr; ihre Daten bleiben — und schicken Tyra Halvard 2020 TZ als Linguistin durch das Tor. Sie weiß das nicht. Sie ahnt es nicht. Letzte Worte: *„Ich habe sie hergeschickt."* — sie meint die erste Expedition.
+**Vermächtnis statt Held:** Maren rettet keine Welt. Sie gründet ein Institut, das vier Jahrzehnte misst und schreibt. Ihr Werk wird nach ihrem Tod gegen sie verwendet (Syra-Halvard-Kippung). Ihre Doktrin stirbt mit ihr; ihre Daten bleiben — und schicken Tyra Halvard 2020 UZ als Linguistin durch das Tor. Sie weiß das nicht. Sie ahnt es nicht. Letzte Worte: *„Ich habe sie hergeschickt."* — sie meint die erste Expedition.
 
 ---
 
@@ -184,7 +184,7 @@ Drei Register, nie »Jacke«:
 
 **B3-K24 (Alphina-POV) — Maren-Brief:** Alphina liest Marens Brief, den Vesper über Elke 1987 UZ (TZ 718) aus Moragh mitgebracht hat. Zweite Erkenntnis: Maren hat ihren Identitäts-Verlust in K21 nicht aus Heimweh formuliert, sondern aus Selbstrettung. Alphina hat ihn nicht gehört. Zu spät — Maren ist seit ~70 UZ-Jahren tot.
 
-**B3-I8 (~2037 UZ / TZ 768) — Tod:** Institut-Außengebäude in Vael, 80 Jahre alt, Herzschwäche. Drei Verwüster-Schemen brechen durch den Steinkreis (Varen manipulierte Orath-Rufer zur Vergeltungs-Beschwörung, öffnete das Portal). Das Institut wird zerstört, ~40 Tote. Maren am Fenster, sieht die Welle kommen. Letzte Worte: *„Ich habe sie hergeschickt."* Sie meint die erste Expedition (Tyra Halvard, 2020 TZ, Linguistin). Sie weiß nicht, dass Varen die Risse geschickt hat.
+**B3-I8 (~2037 UZ / TZ 768) — Tod:** Institut-Außengebäude in Vael, 80 Jahre alt, Herzschwäche. Drei Verwüster-Schemen brechen durch den Steinkreis (Varen manipulierte Orath-Rufer zur Vergeltungs-Beschwörung, öffnete das Portal). Das Institut wird zerstört, ~40 Tote. Maren am Fenster, sieht die Welle kommen. Letzte Worte: *„Ich habe sie hergeschickt."* Sie meint die erste Expedition (Tyra Halvard, 2020 UZ, Linguistin). Sie weiß nicht, dass Varen die Risse geschickt hat.
 
 **Vermächtnis durch Generationen** (UZ-Jahre — entsprechen TZ-Jahren minus 1269):
 - **2020 UZ (TZ 751) — Tyra Halvard, Marens Ur-Großnichte (Seitenlinie),** bricht als Linguistin der Expedition 1 nach Moragh auf — Marens Daten und Vespers Liste im aktiven Gebrauch, ohne dass Tyra die Quelle kennt.
@@ -211,7 +211,7 @@ Drei Register, nie »Jacke«:
 
 **Acht Moragh-Monate B2-K39 (gestrichen 2026-05-05):** Korrigiert auf **rund fünf Monate** nach Konversions-Klärung (1 MZ-Monat = 33 TZ-Jahre / 1 MZ-Jahr = 264 TZ-Jahre, statt fälschlich 400). Bei UZ-1987-Strandung sind das ~167 TZ-Jahre nach B1-Ende = 5,07 MZ-Monate.
 
-**TZ-Label für UZ-Jahre (gestrichen 2026-05-05):** Frühere Plot-Doku schrieb „1987 TZ", „2037 TZ" etc. — gemeint waren UZ-Jahre. Korrekt: **UZ-Jahr = TZ-Jahr + 1269**. Beispiele neu: 1987 UZ = TZ 718. 2037 UZ = TZ 768. 2120 UZ = TZ 851.
+**TZ-Label für UZ-Jahre (gestrichen 2026-05-05):** Frühere Plot-Doku schrieb „1987 UZ", „2037 UZ" etc. — gemeint waren UZ-Jahre. Korrekt: **UZ-Jahr = TZ-Jahr + 1269**. Beispiele neu: 1987 UZ = TZ 718. 2037 UZ = TZ 768. 2120 UZ = TZ 851.
 
 ---
 

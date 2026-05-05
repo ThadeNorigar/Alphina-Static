@@ -5,7 +5,7 @@
 
 ## Struktur
 
-Moragh-Zeit: Monat 7,5 bis 9. Thalassien-Zeit: ~2070 bis 2120 TZ — 50 Jahre Vorbereitung.
+Moragh-Zeit: Monat 7,5 bis 9. Thalassien-Zeit: ~2070 bis 2120 UZ — 50 Jahre Vorbereitung.
 
 **Kernereignisse:**
 - **Vesper entschlüsselt das Velmar-Dokument** — Ritual-Kalkül mit Alphinas Namen als Rechengröße. Bringt es ihr, sie glaubt nicht sofort.
@@ -158,7 +158,7 @@ Kein Schmerz. Nur Kalkül.
 **Tschechow:** Varens Zirkel-Aktivierung. — Feuert: Akt IV, wenn die 20–30 Anhänger im Finale kämpfen.
 
 ### Interludium I4 — Thalassien (S. 560–573, ~2.500 Wörter)
-*Vael, ~2080 TZ. Junge Syra trifft jungen Kelvar.*
+*Vael, ~2080 UZ. Junge Syra trifft jungen Kelvar.*
 
 Rückblick-Interludium. Institut in Vael, 43 Jahre nach Marens Tod. Das Gebäude trägt Marens Namen an der Fassade, aber ihre Doktrin ist längst überholt. Syra Halvard, jetzt 15, Forschungs-Stipendiatin. Kelvar Velkan, 25, Sicherheitsoffizier, frisch aus einem 2070er-Regionalkrieg entlassen.
 
@@ -210,7 +210,7 @@ Alphina lacht das erste Mal seit Monaten echt.
 **Tschechow:** Die zwei Schemen-Fernsprecher. — Feuert: Akt IV, wenn sie im Finale die Gruppenkoordination ermöglichen.
 
 ### Interludium I5 — Thalassien (S. 595–608, ~2.500 Wörter)
-*Vael, ~2110 TZ. Halvard + Velkan planen Expedition 2.*
+*Vael, ~2110 UZ. Halvard + Velkan planen Expedition 2.*
 
 Institut-Lageraum. Syra Halvard jetzt 45, Institutsleiterin. Kelvar Velkan 55, General im aktiven Dienst. An der Wand: eine riesige Karte von Moragh (rekonstruiert aus Tyras letzten Funk-Signalen vor 73 Jahren). Marken an den Grenzen — wo die Thar sitzt, wo der Bund. Der Steinplatz in Dravek rot eingekreist.
 
@@ -425,7 +425,7 @@ Finale-Elemente in Akt IV:
 - Duell Varen vs. Alphina + Vesper (3 Kapitel, K75–77)
 - Parallel Schlacht gegen Expedition 2 (Iven, Runa, Nyr in Kessler)
 - Verzweiflungsangriff zum Basislager
-- Killermaschinen-Durchgang (2153 TZ Tech)
+- Killermaschinen-Durchgang (2153 UZ Tech)
 - Alphinas Portal-Quelle-Überladung
 - Rückzug
 - Alphina + Vesper in K80 (BDSM-Anbahnung)

@@ -231,9 +231,9 @@ Maren hat den Wasserweg-Riss zwei MZ-Wochen lang beobachtet. Er öffnet sich unr
 
 Er gibt ihr drei Sachen mit: einen kleinen Apparat (Zeit-Mess-Werkzeug, das er gebaut hat), eine Liste mit Daten (Moragh-Monatsnamen, Quellen-Positionen, alles was sie in Thalassien als Wissen brauchen wird, wenn sie eine Forschungs-Gesellschaft gründet), und einen Brief in versiegelter Hülle *„nur an Alphina, falls sie je hierher kommt — sie wird nicht, aber falls"*. Sie nimmt es. Sie umarmen sich. Kein Kuss — der wäre zu viel.
 
-**Durchgang.** Riss öffnet sich am dritten Tag um 4:23 morgens. Maren tritt durch. Hinter ihr in Moragh: Elke, Vesper, der nasse Stein. Vor ihr in Thalassien: die Grauwe vor Vael, eine kalte Mai-Nacht im Jahr 1987 TZ. Sie steht knietief im Wasser, der Mond ist da, der Steinkreis hinter ihr ist tot. Sie geht ans Ufer.
+**Durchgang.** Riss öffnet sich am dritten Tag um 4:23 morgens. Maren tritt durch. Hinter ihr in Moragh: Elke, Vesper, der nasse Stein. Vor ihr in Thalassien: die Grauwe vor Vael, eine kalte Mai-Nacht im Jahr 1987 UZ. Sie steht knietief im Wasser, der Mond ist da, der Steinkreis hinter ihr ist tot. Sie geht ans Ufer.
 
-**Tschechow B3:** Was in Thalassien passiert (Marens SFG-Gründung, ihr Tod 2037 TZ beim Verwüster-Angriff) erfährt die Gruppe in B3 von der Ersten Expedition — Tyra Halvard hat das Vermächtnis.
+**Tschechow B3:** Was in Thalassien passiert (Marens SFG-Gründung, ihr Tod 2037 UZ beim Verwüster-Angriff) erfährt die Gruppe in B3 von der Ersten Expedition — Tyra Halvard hat das Vermächtnis.
 
 POV-Wahl: Maren. Letztes B2-Kapitel mit ihrem POV.
 

@@ -243,8 +243,8 @@ Plants, die in B1 gesetzt werden, aber erst in B2/B3 feuern. (Auszug aus dem Hau
 | TZ-210 | Maren-Boot auf der Werft wartet | K34 (geplant) | B2-K39 (Maren kommt zurück), B3 (SFG-Werft) | Boot-Tschechow trilogie-weit |
 | TZ-211 | Vier-Thalassier-Liste (taucht in Varens Unterlagen auf) | (B2-K35 erst, hier nur Notiz) | B3 (Ritual-Plan) | Varens echtes Projekt |
 | TZ-212 | Velmar-Lederhalsband (präpariert, Stahlring violett) | (B2-K27 erst) | B2-Akt-IV (Festung), B3 | Drainage-Mechanik |
-| TZ-213 | Marens Wasserweg-Riss-Durchgang (solo) | (B2-K39 erst) | B3 (sie strandet ~1987 TZ, gründet SFG) | Maren als Brücke zwischen Welten |
-| TZ-214 | Maren stirbt 2037 TZ (Verwüster-Angriff Vael) | (B3-Akt II erst) | B3-Finale (*„Ich habe sie hergeschickt."*) | Marens Lebensbogen-Ende |
+| TZ-213 | Marens Wasserweg-Riss-Durchgang (solo) | (B2-K39 erst) | B3 (sie strandet ~1987 UZ, gründet SFG) | Maren als Brücke zwischen Welten |
+| TZ-214 | Maren stirbt 2037 UZ (Verwüster-Angriff Vael) | (B3-Akt II erst) | B3-Finale (*„Ich habe sie hergeschickt."*) | Marens Lebensbogen-Ende |
 | TZ-215 | Talven-Blutmagie + Kalt-Hände | (B2-Akt III erst) | B3 (Alphina tötet ihn zu Unrecht) | Privatwissen, gefälschte Beweise |
 | TZ-216 | Elkes Mord (Varens Schemen) | (B3-Akt II erst) | B3-Finale (Küchen-Satz, Basalt-Splitter) | Varens Schuld-Reveal |
 | TZ-217 | Portal-Quelle zerstören (Wachstums-Überladung) | (B3-Finale erst) | B3-Finale (Thalassien magielos) | Alphinas Schluss-Akt |

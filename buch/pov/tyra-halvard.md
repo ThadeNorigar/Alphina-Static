@@ -24,7 +24,7 @@ reihenfolge: 50
 
 ## Charakter — Wertgerüst
 
-**Zeit-Brücke.** Sie hat thalassische Identität UND Moragh-Leben gelebt. Sie verkörpert das Problem, das die Trilogie als Ganzes verhandelt: wer bleibt man, wenn zwei Welten sich über 100 TZ-Jahre verschieben? Aufgebrochen 2019 TZ, gestrandet 2020 TZ, freigekommen 2037 TZ, im Jahr 2120 TZ alt — sie kennt drei Thalassien-Epochen und 100+ Moragh-Jahre.
+**Zeit-Brücke.** Sie hat thalassische Identität UND Moragh-Leben gelebt. Sie verkörpert das Problem, das die Trilogie als Ganzes verhandelt: wer bleibt man, wenn zwei Welten sich über 100 TZ-Jahre verschieben? Aufgebrochen 2019 UZ, gestrandet 2020 UZ, freigekommen 2037 UZ, im Jahr 2120 UZ alt — sie kennt drei Thalassien-Epochen und 100+ Moragh-Jahre.
 
 **Linguistin als Identität.** Sie sieht Welt als **Sprache, Klang, Fremdheit**. Während Maren das Tor mit Werkzeugen suchte, sucht Tyra es mit Wörtern. Die Schemen-Fernsprecher sind ihre Antwort — Sprache durch Schemen, weil Stimmen Brücken sind, die Schiffe nicht.
 
@@ -74,17 +74,17 @@ Tyra ruft **sehr kleine Schemen** und gibt ihnen Schall-Fähigkeit mit. Jeder Sc
 
 ## Zeitlinie + B3-Bogen
 
-**2019 TZ:** Aufbruch mit der Expedition 1 vom Vaeler Institut. 14 Forscher:innen plus Tyra. Maren ist seit ~70 Jahren tot, ihre Doktrin („Brücke, nicht Eroberung") trägt die Mission noch.
+**2019 UZ:** Aufbruch mit der Expedition 1 vom Vaeler Institut. 14 Forscher:innen plus Tyra. Maren ist seit ~70 Jahren tot, ihre Doktrin („Brücke, nicht Eroberung") trägt die Mission noch.
 
-**B3-K06 (Tyra-POV) — Erste Expedition kommt durchs Portal — 2020 TZ:** Ankunft in Moragh am Steinplatz. Thar empfängt vereinnahmend.
+**B3-K06 (Tyra-POV) — Erste Expedition kommt durchs Portal — 2020 UZ:** Ankunft in Moragh am Steinplatz. Thar empfängt vereinnahmend.
 
 **B3-I13 / KI2 (Tyra-POV) — Vor dem Aufbruch:** Rückblick. Letztes Jahr in Vael, letzte Stunden mit dem Vaeler Institut. Resonanz-Marker-Vermessung. Bewusste Hinwendung zur Schwellenforschung — Marens Werk weiterführen.
 
-**B3-K12 (Tyra-POV) — Erste Expedition scheitert blutig:** Thar nimmt die Expedition ein. Verhöre, Versuche, Isolation. **2020-2037 TZ — 17 Jahre Thar-Gefangenschaft.** Lernt Moragh-Sprache. Resonanz entfaltet sich — zuerst unbemerkt, dann bewusst. Baut in der Haft aus Kleinteilen einen ersten Schemen-Fernsprecher.
+**B3-K12 (Tyra-POV) — Erste Expedition scheitert blutig:** Thar nimmt die Expedition ein. Verhöre, Versuche, Isolation. **2020-2037 UZ — 17 Jahre Thar-Gefangenschaft.** Lernt Moragh-Sprache. Resonanz entfaltet sich — zuerst unbemerkt, dann bewusst. Baut in der Haft aus Kleinteilen einen ersten Schemen-Fernsprecher.
 
-**2037 TZ — Flucht:** Expedition-1-Rest wird hingerichtet. **Tyra entkommt.** Bricht in die freien Städte aus. Lebt seitdem in Moragh.
+**2037 UZ — Flucht:** Expedition-1-Rest wird hingerichtet. **Tyra entkommt.** Bricht in die freien Städte aus. Lebt seitdem in Moragh.
 
-**2037-2120 TZ — Brücke werden:** 83 Jahre. Sie wird alt in Moragh, die Schemen-Fernsprecher reifen, sie kontaktiert lokale Magier-Lehrer, baut ein Netz auf.
+**2037-2120 UZ — Brücke werden:** 83 Jahre. Sie wird alt in Moragh, die Schemen-Fernsprecher reifen, sie kontaktiert lokale Magier-Lehrer, baut ein Netz auf.
 
 **B3-K27 (Tyra-POV) — Tyra Halvard erreicht Alphinas Gruppe:** Sie kontaktiert die Vier. Ihr Akzent ist altmodisch, ihre Information ist präzise. Sie warnt Alphina implizit: *„Wenn die 2120-Soldaten dich sehen, sind sie nicht mehr euer Volk."* Sie bringt das Schemen-Fernsprecher-Netz als Koordinations-Vorteil.
 
@@ -96,7 +96,7 @@ Tyra ruft **sehr kleine Schemen** und gibt ihnen Schall-Fähigkeit mit. Jeder Sc
 
 ## Beziehungs-Dynamik
 
-- **Maren:** Ur-Großnichte-Linie. Haben sich nie getroffen (Zeit-Dilatation — Maren stirbt 2037 TZ, Tyra ist dann seit 17 Jahren in Thar-Gefangenschaft). Tyra weiß von Marens Werk durch das Vaeler Institut **vor** dem Aufbruch. Marens Brief (den Vesper Alphina 1987 TZ → über Elke nach Thalassien geschickt hat) wird von Alphina in B3-K24 gelesen — Tyra weiß durch Expedition-2-Berichte von der Existenz, hat ihn aber nie selbst gesehen.
+- **Maren:** Ur-Großnichte-Linie. Haben sich nie getroffen (Zeit-Dilatation — Maren stirbt 2037 UZ, Tyra ist dann seit 17 Jahren in Thar-Gefangenschaft). Tyra weiß von Marens Werk durch das Vaeler Institut **vor** dem Aufbruch. Marens Brief (den Vesper Alphina 1987 UZ → über Elke nach Thalassien geschickt hat) wird von Alphina in B3-K24 gelesen — Tyra weiß durch Expedition-2-Berichte von der Existenz, hat ihn aber nie selbst gesehen.
 - **Dr. Syra Halvard:** Verwandtschaftliche Fremde — dieselbe Halvard-Blutlinie, in zwei Welten und hundert Jahren auseinandergeraten. Keine hat die andere je getroffen. Tyra weiß von Syra durch Funk-Abhören der Expedition 2. Syra hält Tyra für eine **Verräterin**, weil Tyra auf Moragh-Seite steht.
 - **Alphina:** Verbündete. Tyra erkennt in Alphina die magische Größe, vor der ihre Zukunft Thalassien Angst hat.
 - **Vesper:** Tech-Resonanz-Achse. Vesper sieht Tyras Schemen-Fernsprecher durch sein Muster-Auge — die einzige Hybrid-Variante, die er als saubere Magie-Konstruktion akzeptiert.
@@ -109,6 +109,6 @@ Tyra ruft **sehr kleine Schemen** und gibt ihnen Schall-Fähigkeit mit. Jeder Sc
 
 **Tech-Magie-Hybrid breit (gestrichen 2026-05-03):** Frühere Version sah Tyra als breite Tech-Magie-Übersetzerin. **Verworfen** — Moragh adoptiert keine Tech (Memory `project_moragh_keine_technologie.md`). Schemen-Fernsprecher als enge Variante bleibt — selbst entwickelt, nicht adoptiert.
 
-**Maren-Begegnung in Moragh (gestrichen vor 2026-04):** Frühere Version hatte Tyra Maren während Marens B2-Aufenthalt treffen. **Verworfen** — Zeitlinien passen nicht (Maren stirbt 2037 TZ in Vael, Tyra ist da in Thar-Gefangenschaft).
+**Maren-Begegnung in Moragh (gestrichen vor 2026-04):** Frühere Version hatte Tyra Maren während Marens B2-Aufenthalt treffen. **Verworfen** — Zeitlinien passen nicht (Maren stirbt 2037 UZ in Vael, Tyra ist da in Thar-Gefangenschaft).
 
 **„Marens Ur-Großtante" (gestrichen 2026-05-03, Drift D10):** Frühere Version hatte Tyra als Marens Ur-Großtante (ältere Generation). **Verworfen** — Tyra ist Marens Ur-Großnichte (jüngere Generation). Drift D10 in Commit `6b52724` mechanisch gefixt.

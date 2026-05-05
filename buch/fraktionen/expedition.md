@@ -7,35 +7,35 @@
 
 ## Wer sie sind
 
-Die **Expedition** ist eine thalassische Forschungs- und später Militärgruppe, die vom **Thalassien-Schwellenforschungsinstitut** (gegründet von Maren nach ihrer Rückkehr, siehe `B3-BRIEFING.md`) durch das Portal nach Moragh entsendet wird. Sie kommen aus **Thalassiens Zukunft** — 2020 bis 2152 TZ — und tragen die Technik dieser Jahrzehnte mit sich: Drohnen-Prototypen, Exoskelette, Biotech, Neural-Interfaces, später auch 2150er-Killermaschinen.
+Die **Expedition** ist eine thalassische Forschungs- und später Militärgruppe, die vom **Thalassien-Schwellenforschungsinstitut** (gegründet von Maren nach ihrer Rückkehr, siehe `B3-BRIEFING.md`) durch das Portal nach Moragh entsendet wird. Sie kommen aus **Thalassiens Zukunft** — 2020 bis 2152 UZ — und tragen die Technik dieser Jahrzehnte mit sich: Drohnen-Prototypen, Exoskelette, Biotech, Neural-Interfaces, später auch 2150er-Killermaschinen.
 
 Aus Moragh-Sicht sind sie **Eindringlinge aus einer fernen Zukunft** — Menschen mit Werkzeugen, die Moragh nie entwickelt hat, mit Körpern, die durch Bodymods verändert wurden, mit Waffen, die keine Magie brauchen.
 
 ## Zwei Expeditionen
 
-### Expedition 1 — Forschung (2019–2037 TZ)
+### Expedition 1 — Forschung (2019–2037 UZ)
 
-- **Aufbruch:** 2019 TZ in Vael, durch das Portal zurück nach Moragh
-- **Ankunft:** 2020 TZ in Moragh (Torash-Monat Woche 3, MZ 2003)
+- **Aufbruch:** 2019 UZ in Vael, durch das Portal zurück nach Moragh
+- **Ankunft:** 2020 UZ in Moragh (Torash-Monat Woche 3, MZ 2003)
 - **Team:** **Tyra Halvard** plus 14 Forscher:innen
 - **Zweck:** Wissenschaftliche Erkundung. Moragh-Magie verstehen, Resonanz kartieren, Quellen messen.
 - **Verlauf:**
   - Vesper analysiert die Expedition, warnt die Thar-Kommandantin
   - Thar erobert die Ankunftsstadt, nimmt die Expedition ein
   - Expedition kooperiert nicht → Eskalation
-- **Ende:** 2037 TZ — Expedition scheitert blutig. **11 tot, 2 verschwunden, 1 flieht (Tyra Halvard)**. Tyra steht danach auf Moragh-Seite — Marens Ur-Großtante, Seitenlinie zu Dr. Syra Halvard. Ihre eigene Schall-Resonanz erwacht in Moragh.
+- **Ende:** 2037 UZ — Expedition scheitert blutig. **11 tot, 2 verschwunden, 1 flieht (Tyra Halvard)**. Tyra steht danach auf Moragh-Seite — Marens Ur-Großtante, Seitenlinie zu Dr. Syra Halvard. Ihre eigene Schall-Resonanz erwacht in Moragh.
 
-### Expedition 2 — Militär (2110–2152 TZ)
+### Expedition 2 — Militär (2110–2152 UZ)
 
-- **Planung:** 2110 TZ (I11 — Halvard + Rust diskutieren Plan)
-- **Technik-Durchbruch:** 2110 TZ — **Resonanz-Modulator** im Test. Hält das Portal 72 Stunden offen.
-- **Aufbruch:** 2120 TZ in Vael (I12 — Rückblende zum Start)
-- **Ankunft:** 2120 TZ in Moragh (Dravon-Monat Woche 2). **2500 Soldaten** durch das Portal.
+- **Planung:** 2110 UZ (I11 — Halvard + Rust diskutieren Plan)
+- **Technik-Durchbruch:** 2110 UZ — **Resonanz-Modulator** im Test. Hält das Portal 72 Stunden offen.
+- **Aufbruch:** 2120 UZ in Vael (I12 — Rückblende zum Start)
+- **Ankunft:** 2120 UZ in Moragh (Dravon-Monat Woche 2). **2500 Soldaten** durch das Portal.
 - **Führung:** Militärischer Expeditionsleiter, Ex-2090er-Kriegs-Kommandeur. Sichtbare Bodymods. Primärer Gegner im Akt-IV-Schlachtfeld.
 - **Verlauf:**
   - Erobert Bund-Grenzgebiet und eine freie Stadt in zwei Moragh-Wochen
-  - 2136 TZ: Schlacht gegen Bündnis vor Dulrath-Ost-Umland. Runa + Nyr in Kessler gegen Drohnen, Iven stört Elektronik per Ritual.
-  - 2152 TZ: Finale-Angriff auf Expeditions-Basislager am Steinplatz. Expedition aktiviert den Modulator für zweite Durchgangs-Welle.
+  - 2136 UZ: Schlacht gegen Bündnis vor Dulrath-Ost-Umland. Runa + Nyr in Kessler gegen Drohnen, Iven stört Elektronik per Ritual.
+  - 2152 UZ: Finale-Angriff auf Expeditions-Basislager am Steinplatz. Expedition aktiviert den Modulator für zweite Durchgangs-Welle.
   - **Riss-Quelle wird zerstört** (Finale Buch 3). Modulator tot, Portal schließt. ~1000 Expedition-Soldaten sterben in der Schlacht, **~1500 Überlebende** bleiben in Moragh gestrandet.
 
 ## Buch-4-Keimzelle

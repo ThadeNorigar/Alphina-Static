@@ -16,7 +16,7 @@ reihenfolge: 45
 
 **Letzte Aktualisierung:** 2026-05-05 — Refactor analog Vesper/Maren/Runa/Alphina (Charakter-Wertgerüst, vollständige Tat-Linie mit Tyra-Echo, B3-Bogen mit Interludien-Ankern, Beziehungs-Dynamik aktualisiert, Verworfen-Sektion).
 
-**Verwandte Files:** `buch/12-buch3-konzept.md`, `buch/14-buch3-akt1.md` + `buch/15-buch3-akt2.md` + `buch/17-buch3-akt4.md` (B3-Bogen), `buch/zeitleiste.json` (2 POV-Events: I9 + I14), `buch/pov/tyra-halvard.md` (verwandtschaftliche Fremde), `buch/pov/maren.md` (Marens Tod 2037 TZ → Syras Aufstieg), `buch/pov/kelvar-velkan.md` (Auftraggeber-Kollege), `buch/19-varen.md` (Syra/Varen als parallele Antagonisten — beide Vision, beide Brücken-Menschen). Memory: keine Syra-spezifischen.
+**Verwandte Files:** `buch/12-buch3-konzept.md`, `buch/14-buch3-akt1.md` + `buch/15-buch3-akt2.md` + `buch/17-buch3-akt4.md` (B3-Bogen), `buch/zeitleiste.json` (2 POV-Events: I9 + I14), `buch/pov/tyra-halvard.md` (verwandtschaftliche Fremde), `buch/pov/maren.md` (Marens Tod 2037 UZ → Syras Aufstieg), `buch/pov/kelvar-velkan.md` (Auftraggeber-Kollege), `buch/19-varen.md` (Syra/Varen als parallele Antagonisten — beide Vision, beide Brücken-Menschen). Memory: keine Syra-spezifischen.
 
 ![Dr. Syra Halvard im Institut in Vael](/img/syra-halvard.png)
 
@@ -51,21 +51,21 @@ reihenfolge: 45
 
 ## Tat-Linie
 
-**~2065 TZ — Geburt.** Halvard-Linie (Seitenlinie zu Tyras Linie). Marens Werk ist ihr Familien-Erbe.
+**~2065 UZ — Geburt.** Halvard-Linie (Seitenlinie zu Tyras Linie). Marens Werk ist ihr Familien-Erbe.
 
-**B3-I9 / KI4 (Syra-POV) — 2080 TZ — Junge Syra (15) trifft Kelvar (25):** Am Vaeler Institut. „Die Doktrin kippt in fünf Sätzen" — prägender Moment, Beginn ihrer Eroberungs-Linie. Marens Doktrin („Brücke, nicht Eroberung") wird hier intellektuell widersprochen, nicht institutionell.
+**B3-I9 / KI4 (Syra-POV) — 2080 UZ — Junge Syra (15) trifft Kelvar (25):** Am Vaeler Institut. „Die Doktrin kippt in fünf Sätzen" — prägender Moment, Beginn ihrer Eroberungs-Linie. Marens Doktrin („Brücke, nicht Eroberung") wird hier intellektuell widersprochen, nicht institutionell.
 
-**~2100-2110 TZ — Übernahme der Institutsleitung:** Trennt sich von Marens Nachlass-Doktrin praktisch. Marens Name bleibt an der Fassade, ihre Doktrin geht zugrunde.
+**~2100-2110 UZ — Übernahme der Institutsleitung:** Trennt sich von Marens Nachlass-Doktrin praktisch. Marens Name bleibt an der Fassade, ihre Doktrin geht zugrunde.
 
-**B3-I14 / KI5 (Syra-POV) — 2110 TZ — Plant zweite Expedition mit General Kelvar Velkan:** Resonanz-Modulator im Test. Bodymod-Programm vorbereitet. Sie ist 45, präzise, voll vertieft in Plan und Werkzeug.
+**B3-I14 / KI5 (Syra-POV) — 2110 UZ — Plant zweite Expedition mit General Kelvar Velkan:** Resonanz-Modulator im Test. Bodymod-Programm vorbereitet. Sie ist 45, präzise, voll vertieft in Plan und Werkzeug.
 
-**2120 TZ — Entlässt 2500 Soldaten durchs Portal.** Bleibt selbst in Thalassien. Modulator hält Portal 72 Stunden offen.
+**2120 UZ — Entlässt 2500 Soldaten durchs Portal.** Bleibt selbst in Thalassien. Modulator hält Portal 72 Stunden offen.
 
-**2120-2152 TZ — Koordiniert aus Vael die Versorgung der Expedition 2:** Plant die zweite Durchgangs-Welle. Schickt Nachschub. Hört Funk-Berichte. Erfährt von Tyra durch Expedition-2-Funk — registriert ihren Namen mit Verachtung.
+**2120-2152 UZ — Koordiniert aus Vael die Versorgung der Expedition 2:** Plant die zweite Durchgangs-Welle. Schickt Nachschub. Hört Funk-Berichte. Erfährt von Tyra durch Expedition-2-Funk — registriert ihren Namen mit Verachtung.
 
-**~2120 TZ — Indirekt verantwortlich für Marens Tod (B3-I3 / KI3):** Verwüster-Angriff auf Vael — Maren stirbt. *Anmerkung: in der Zeitleiste ist Syra nicht direkter Auslöser; Varen manipuliert Orath-Rufer zur Vergeltungs-Beschwörung. Syra ist zu dem Zeitpunkt ~58, Institut-Leitung übernommen, hat Marens Doktrin schon gekippt.*
+**~2120 UZ — Indirekt verantwortlich für Marens Tod (B3-I3 / KI3):** Verwüster-Angriff auf Vael — Maren stirbt. *Anmerkung: in der Zeitleiste ist Syra nicht direkter Auslöser; Varen manipuliert Orath-Rufer zur Vergeltungs-Beschwörung. Syra ist zu dem Zeitpunkt ~58, Institut-Leitung übernommen, hat Marens Doktrin schon gekippt.*
 
-**2152 TZ (Finale) — Die Riss-Quelle wird zerstört:** Modulator tot, Portal dicht. Syra ist in Thalassien, das Institut ist blind. Sie überlebt, aber ihre Vision ist unwiederbringlich am Boden.
+**2152 UZ (Finale) — Die Riss-Quelle wird zerstört:** Modulator tot, Portal dicht. Syra ist in Thalassien, das Institut ist blind. Sie überlebt, aber ihre Vision ist unwiederbringlich am Boden.
 
 ---
 
@@ -73,7 +73,7 @@ reihenfolge: 45
 
 **Tyra Halvard — verwandtschaftliche Fremde:** Dieselbe Blutlinie (Halvard), in zwei Welten und hundert Jahren auseinandergeraten. Keine hat die andere je getroffen. Tyra weiß von Syra durch Funk-Abhören der Expedition 2. Syra weiß von Tyra durch historische Expedition-1-Berichte — und sie hält Tyra für eine **Verräterin**, weil Tyra auf Moragh-Seite steht. **Eine der leisen Symmetrien des Romans: eine Familie, ein Konflikt, zwei Seiten.**
 
-**Maren Ilves — Doktrin-Erbe gekippt:** Maren ist seit Syras Geburt 28 Jahre tot. Die Frau, deren Werk Syra leitet, hat sie nie getroffen — sie kennt sie nur durch Notizen, das Institut, die Datenbasis. Sie nutzt Marens Daten, ohne Marens Brücken-Doktrin. Marens letzter Brief an Alphina (von Vesper 1987 TZ → Elke → Vael) ist im Institut-Archiv, Syra hat ihn vermutlich gelesen, ihn aber als „naive Frühphase" abgetan.
+**Maren Ilves — Doktrin-Erbe gekippt:** Maren ist seit Syras Geburt 28 Jahre tot. Die Frau, deren Werk Syra leitet, hat sie nie getroffen — sie kennt sie nur durch Notizen, das Institut, die Datenbasis. Sie nutzt Marens Daten, ohne Marens Brücken-Doktrin. Marens letzter Brief an Alphina (von Vesper 1987 UZ → Elke → Vael) ist im Institut-Archiv, Syra hat ihn vermutlich gelesen, ihn aber als „naive Frühphase" abgetan.
 
 **Kelvar Velkan — Auftraggeber-Kollege:** Respektvoller Kollegen-Umgang, keine Loyalität. Sie sind sich seit 2080 bekannt (I9 — Syra 15, Kelvar 25). Vier Jahrzehnte parallel. Sie verhandelt mit ihm wie mit einem komplexen Gerät — nicht wie mit einem Menschen.
 
@@ -97,6 +97,6 @@ In Interludien (I9 + I14) erscheint sie als POV — die Leserin erfährt, wie in
 
 **Syra trifft Tyra (gestrichen 2026-04):** Frühere Version hatte ein Treffen der zwei Halvards (z.B. durch Funk-Verbindung). **Verworfen** — sie bleiben verwandtschaftliche Fremde. Diese Symmetrie trägt den Plot stärker.
 
-**Syras Übernahme 2080 TZ (gestrichen 2026-05-03, Drift D9):** Frühere Version hatte Syra schon mit 15 (2080) als Institut-Leiterin. **Verworfen** — 2080 ist nur das Treffen mit Kelvar (Doktrin kippt intellektuell). Übernahme erst ~2100-2110 TZ. Drift D9 in Commit `6b52724` mechanisch gefixt.
+**Syras Übernahme 2080 UZ (gestrichen 2026-05-03, Drift D9):** Frühere Version hatte Syra schon mit 15 (2080) als Institut-Leiterin. **Verworfen** — 2080 ist nur das Treffen mit Kelvar (Doktrin kippt intellektuell). Übernahme erst ~2100-2110 UZ. Drift D9 in Commit `6b52724` mechanisch gefixt.
 
-**Marens Todesjahr 2047 (gestrichen 2026-05-03, Drift D4):** Frühere Version hatte Marens Todesjahr 2047. **Verworfen** — korrekt 2037 TZ. Drift D4 in Commit `6b52724` mechanisch gefixt.
+**Marens Todesjahr 2047 (gestrichen 2026-05-03, Drift D4):** Frühere Version hatte Marens Todesjahr 2047. **Verworfen** — korrekt 2037 UZ. Drift D4 in Commit `6b52724` mechanisch gefixt.

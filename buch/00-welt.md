@@ -145,7 +145,7 @@ Die Portal-Quelle speist die Anomalie zwischen den Welten. Durch sie sickern pas
 
 ### Marens Rückkehr (Buch 2)
 
-Maren findet in Moragh die Karte und die Anleitung für die Moragh-Seite des Portals — den Weg zurück. Sie und Vesper sind zusammen als sie es entdeckt. Vesper entscheidet sich zu bleiben — Moragh, Nyr, die Thar. Maren entscheidet sich zu gehen. Sie öffnet das Portal von Moragh-Seite (Ritual + Magie, wie jeder Moragh-Magier es könnte). Geht durch nach Thalassien. ~1987 TZ. Allein hat sie dort zu wenig Magie (allein, ohne die anderen Resonanzen) um zurückzukehren. Sie ist gestrandet. Absichtlich.
+Maren findet in Moragh die Karte und die Anleitung für die Moragh-Seite des Portals — den Weg zurück. Sie und Vesper sind zusammen als sie es entdeckt. Vesper entscheidet sich zu bleiben — Moragh, Nyr, die Thar. Maren entscheidet sich zu gehen. Sie öffnet das Portal von Moragh-Seite (Ritual + Magie, wie jeder Moragh-Magier es könnte). Geht durch nach Thalassien. ~1987 UZ. Allein hat sie dort zu wenig Magie (allein, ohne die anderen Resonanzen) um zurückzukehren. Sie ist gestrandet. Absichtlich.
 
 ### Varens Köder — warum die Vier nach Vael kommen
 

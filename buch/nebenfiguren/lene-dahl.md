@@ -53,4 +53,4 @@ Lene ist der **stumme Zeuge TZ 154**. Als einzige Überlebende trägt sie die Ge
 
 **Verwandtschaft zu Maren?** Derselbe Nachname "Dahl" wie Haron Dahl. Ob Lene die Urahnin einer Linie ist, in die Haron sich (Generationen später) als Agent infiltriert hat, ist offen — aber narrativ ergiebig: Maren trägt einen Nachnamen, der drei Verknüpfungen hat (Lene, Haron, sie selbst).
 
-**Todesfall-Motiv:** Lenes Ur-Ur-...-Großneffe/Großnichte Maren stirbt 2037 TZ im Verwüster-Angriff in Vael — parallel zu Lenes Überleben von 154. Symmetrie: die eine überlebt, die andere stirbt, beide beim Vaeler Feuer.
+**Todesfall-Motiv:** Lenes Ur-Ur-...-Großneffe/Großnichte Maren stirbt 2037 UZ im Verwüster-Angriff in Vael — parallel zu Lenes Überleben von 154. Symmetrie: die eine überlebt, die andere stirbt, beide beim Vaeler Feuer.

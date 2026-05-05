@@ -31,7 +31,7 @@ Ohne Varen keine Resonanz-Begabten in Thalassien. Die fünf existieren als magis
 
 ## Thalassien im B3-Zeitraum
 
-- **Schwellenforschungsgesellschaft:** von Maren ~1990 TZ gegründet, in Vael (Werft-Erbe). In vier Jahrzehnten zum staatlich finanzierten Institut gewachsen. Maren bleibt bis zu ihrem Tod 2037 TZ beteiligt.
+- **Schwellenforschungsgesellschaft:** von Maren ~1990 UZ gegründet, in Vael (Werft-Erbe). In vier Jahrzehnten zum staatlich finanzierten Institut gewachsen. Maren bleibt bis zu ihrem Tod 2037 UZ beteiligt.
 - **Institutswandel nach Marens Tod:** Ab 2047 kippt die Doktrin von Forschung zu Eroberung. Dr. Syra Halvard (Marens Ur-Großnichte, Seitenlinie) wird Leiterin. General Kelvar Velkan wird militärischer Kommandeur.
 - **Resonanz-Modulator:** Rein technische Erfindung der 2110er TZ. Basis: jahrzehntelange Sensor-Telemetrie am Steinkreis. Kein Purpurstein (Quellenmaterial verliert Magie beim Abschlagen). Kohärente elektromagnetische Frequenzmodulation dehnt die Raumzeit-Anomalie. Hält 72 Stunden offen, schmilzt dann.
 
@@ -58,7 +58,7 @@ Der Leserin wird die zweite Bedrohung erst sehr spät (Akt IV) klar — Stephen-
 ## Was die Portal-Quellen-Zerstörung kostet
 
 - **Thalassien verliert ALLE Magie, permanent.** Keine Resonanz mehr. Keine Farne, die sich drehen. Halvards Bericht wird Legende. Der Steinkreis in Vael — kalter Stein.
-- **Maren ist seit Jahrzehnten tot** (seit 2037 TZ). Ihr Lebenswerk wurde schon Jahre vor dem Finale zur Kriegsmaschine umgebaut.
+- **Maren ist seit Jahrzehnten tot** (seit 2037 UZ). Ihr Lebenswerk wurde schon Jahre vor dem Finale zur Kriegsmaschine umgebaut.
 - **Die zweite Expedition** sitzt mit ~1500 Überlebenden in Dravek fest. Nach Portal-Schluss brechen sie nach Südosten in die toten Zonen aus (Mar-Keth, Dulrath-Ost, Reshkol). Keimzelle einer anti-magischen Fraktion. B4-Setup.
 - **Alphina wählt Vesper und Klarheit** (nicht Varen und Moragh, wie das alte Konzept sagte). Varen stirbt im Duell.
 
@@ -89,7 +89,7 @@ Inszeniert sich als empathischer Helfer mit Anreden „Liebe/Verehrte/Meine Alph
 Erkennt Expedition-Bedrohung früh. Stratege des Orath-Thar-Notbündnisses. Findet das Ritual-Kalkül, bringt es Alphina. Verliert linken Unterarm im Duell (Amputation unterhalb des Ellbogens, Gelenk erhalten). Dom mit Alphina nach dem Duell (BDSM-Dynamik, reflektiert, verzeihend — Kontrast zu Varens inszenierter Dominanz).
 
 ### Maren
-Stirbt 2037 TZ in Vael beim Verwüster-Angriff, den Varen orchestriert hat. *„Ich habe sie hergeschickt."* Erscheint in B3 nicht persönlich in Moragh.
+Stirbt 2037 UZ in Vael beim Verwüster-Angriff, den Varen orchestriert hat. *„Ich habe sie hergeschickt."* Erscheint in B3 nicht persönlich in Moragh.
 
 ### Runa
 Bleibt beim Bund in Halvaren bis Akt III. Alphina versucht sie in Akt II zu überzeugen — Runa lehnt in drei Sätzen ab. Läuft in Akt III in freie Stadt über, als Drael über Expedition-Gefährdung lügt. Kämpft in Akt IV neben Nyr gegen Expedition (Feuer-Resonanz + Metall-Erfahrung). Endet mit Nyr in Halvek-Mar.
@@ -110,14 +110,14 @@ Moragh-geboren, ~17, Elektrizitäts-Resonanz. Einführung in Akt II (I10). In Ak
 Einzige Überlebende der Expedition 1. Linguistin mit Resonanz-Marker. Schall-Resonanz erwacht in Moragh; kann kleine Schemen mit Schall-Talent ausrüsten (Schemen-Fernsprecher). Steht auf Moragh-Seite. Marens Ur-Großtante, Seitenlinie zu Dr. Syra Halvard.
 
 ### Dr. Syra Halvard (Thalassien)
-Institutsleiterin in 2120 TZ. Ur-Großnichte von Tyra. Subtile Bodymods, visionärisch-kalt. Kippt das Institut nach Marens Tod auf Eroberungskurs. Entwickelt den Resonanz-Modulator.
+Institutsleiterin in 2120 UZ. Ur-Großnichte von Tyra. Subtile Bodymods, visionärisch-kalt. Kippt das Institut nach Marens Tod auf Eroberungskurs. Entwickelt den Resonanz-Modulator.
 
 ### General Kelvar Velkan (Thalassien)
-Militärischer Expeditionsleiter 2. Expedition. Ex-2090er-Kriegs-Kommandeur. Sichtbare Bodymods. Tritt in 2120 TZ durchs Portal durch, führt die 2500 Soldaten. Primärer Gegner im Akt-IV-Schlachtfeld.
+Militärischer Expeditionsleiter 2. Expedition. Ex-2090er-Kriegs-Kommandeur. Sichtbare Bodymods. Tritt in 2120 UZ durchs Portal durch, führt die 2500 Soldaten. Primärer Gegner im Akt-IV-Schlachtfeld.
 
 ## Wer stirbt in Buch 3
 
-- **Maren** (2037 TZ, in Vael, Verwüster-Angriff)
+- **Maren** (2037 UZ, in Vael, Verwüster-Angriff)
 - **Elke** (Akt II, Dravek, aufgeladener Schemen)
 - **Talven** (Akt III, durch Alphinas Fehlurteil)
 - **Varen** (Akt IV, Duell)
@@ -132,6 +132,6 @@ Militärischer Expeditionsleiter 2. Expedition. Ex-2090er-Kriegs-Kommandeur. Sic
 
 **Tyra Halvard:** Halvek-Mar-Umgebung, als Brücke zwischen Welten.
 
-**Epilog Vael (~2155 TZ):** Kind berührt Farn. Farn bewegt sich nicht. Stille.
+**Epilog Vael (~2155 UZ):** Kind berührt Farn. Farn bewegt sich nicht. Stille.
 
 **Epilog Moragh:** Tote Zonen werden von Expedition-Überlebenden besiedelt. Fluggeräte erkunden den Planeten. Anti-magische Fraktion entsteht. B4-Keim.

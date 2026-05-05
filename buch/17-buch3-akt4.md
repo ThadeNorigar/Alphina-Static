@@ -5,7 +5,7 @@
 
 ## Struktur
 
-Moragh-Zeit: Monat 9 bis 10. Thalassien-Zeit: ~2120 bis 2155 TZ.
+Moragh-Zeit: Monat 9 bis 10. Thalassien-Zeit: ~2120 bis 2155 UZ.
 
 **Zwei Fronten gleichzeitig:**
 1. **Varens Ritual-Versuch.** Er trifft die Gruppe in einem inszenierten Duell-Ort außerhalb Dravek, versucht die vier Thalassier (Alphina, Vesper, Runa, Tyra) in die Ritual-Geometrie zu zwingen. Duell bricht aus, bevor er startet.
@@ -95,7 +95,7 @@ Er nickt leicht. Setzt neu an, mit einer anderen Argumentation. Alphina hebt die
 **Tschechow:** Die zersplitterten Kristalle. — Feuert: K75/76, wenn Varen neue Kristalle improvisiert und sie nicht mehr die gleiche Bindung haben.
 
 ### Interludium I6 — Kelvar, Thalassien (S. 745–758, ~2.500 Wörter)
-*Vael, Botanischer Garten, ~2120 TZ. Expedition 2 bricht auf.*
+*Vael, Botanischer Garten, ~2120 UZ. Expedition 2 bricht auf.*
 
 Rückblick-Interludium. Zeigt den Moment, der in Moragh gerade zu Ende geht. Das Portal wird von Thalassien-Seite mit dem Modulator geöffnet.
 
@@ -325,7 +325,7 @@ Sie schließt die Augen.
 **Tschechow:** Der Moment des Portal-Kollaps und die gekappte Killermaschine. — Feuert: I15, das Thalassien-Interludium, wenn Syra den halben Roboter an Vael-Seite sieht.
 
 ### Interludium I7 — Thalassien (S. 880–892, ~2.500 Wörter)
-*Vael, ~2153 TZ und ~2155. Das Ende von Thalassiens Magie.*
+*Vael, ~2153 UZ und ~2155. Das Ende von Thalassiens Magie.*
 
 Zwei Zeiten in diesem Interludium, kurz hintereinander.
 

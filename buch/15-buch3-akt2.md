@@ -5,7 +5,7 @@
 
 ## Struktur
 
-Der Wendepunkt in Moragh-Zeit: Monat 6,5 bis 7,5. In Thalassien-Zeit: ~2037 bis 2070 TZ, also 33 Jahre — Institut kippt nach Marens Tod.
+Der Wendepunkt in Moragh-Zeit: Monat 6,5 bis 7,5. In Thalassien-Zeit: ~2037 bis 2070 UZ, also 33 Jahre — Institut kippt nach Marens Tod.
 
 **Moragh-Haupthandlung:**
 - Forschungs-Expedition 1 scheitert blutig (11 tot, 2 verschwunden, nur Tyra flieht später).
@@ -42,7 +42,7 @@ Er bleibt zwei Nächte. Sie erholt sich halb. Sie reisen nach Torkal zurück.
 **Tschechow:** Die Bauern-Karawane mit den Nachrichten über Halvara-Kel. — Feuert: Akt III, wenn Alphina selbst zu Halvara-Kel zurückreist und den toten Fels sieht.
 
 ### Interludium I2 — Tyra, Thalassien (S. 245–255, ~2.500 Wörter)
-*Vael, ~2019 TZ. Der Tag vor dem Aufbruch.*
+*Vael, ~2019 UZ. Der Tag vor dem Aufbruch.*
 
 Rückblick-Interludium. Tyra Halvard in ihrem Quartier, Nacht vor der Expedition. Sie packt. Auf dem Tisch: ein Brief von ihrer Schwester Esin — handschriftlich, nicht getippt. Esin hat vier Kinder und lebt in einer Küstenstadt südlich von Vael. Tyra hat keine eigenen Kinder.
 
@@ -206,7 +206,7 @@ Sie erreicht eine freie Stadt — einen Ort, der nicht auf ihrer Expeditionskart
 **Tschechow:** Tyras langsam erwachende Schall-Resonanz. — Feuert: Akt III, wenn sie ihre erste Schemen-Beschwörung macht und ihre Stimme dem Schemen mitgibt.
 
 ### Interludium I3 — Maren, Thalassien (S. 362–375, ~2.500 Wörter)
-*Vael, ~2037 TZ. Der Verwüster-Angriff.*
+*Vael, ~2037 UZ. Der Verwüster-Angriff.*
 
 Thalassien. Das Schwellenforschungsinstitut ist jetzt ein staatliches Gebäude. Maren ist 80, sitzt im Rollstuhl am Fenster ihres ehemaligen Büros. Ein Flügel des Instituts trägt ihren Namen. Sie liest selten noch. Hört lange zu.
 

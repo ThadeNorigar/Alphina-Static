@@ -82,7 +82,7 @@ Fotograf aus Nachtholm. Dunkelkammer. Der Einzige bei dem Alphinas Kontrolle nic
 Uhrmacher aus Karst. Ehemaliges Schach-Wunderkind. Denkt in Zügen. Geht mit Nyr zu den Thar — Wahl, nicht Entführung. „Jedes System hat Fehler. Die Thar benennen ihre." In Buch 3 erkennt er die Expedition-Bedrohung früh und wird Stratege des Notbündnisses Orath+Thar. Findet das Ritual-Kalkül, bringt es Alphina. Verliert linken Unterarm im Duell (Bindungsmagie durch aufgeladenen Schemen). Paar-Ende mit Alphina: Dom in BDSM-Dynamik, reflektiert, verzeihend, geduldig — echte Dominanz als Kontrast zu Varens inszenierter. Resonanz: Muster/Zeit.
 
 ### Maren — Die Brücke
-Schiffbauerin. Fließt. Bleibt nie. Findet in Moragh die Karte/Anleitung für die Rückkehr. Öffnet das Portal von Moragh-Seite. Vesper und sie sind zusammen, als sie den Weg findet — er bleibt, sie geht. Kehrt nach Thalassien zurück (**~1987 TZ**). Allein, zu wenig Magie für den Rückweg. Gründet ~1990 die Schwellenforschungsgesellschaft in Vael, die zum staatlich finanzierten Institut wird. **Stirbt 2037 TZ (Moragh-Akt II) beim Verwüster-Angriff auf Vael**, den Varen orchestriert hat. Letzter Satz: *„Ich habe sie hergeschickt."* Resonanz: Wasser.
+Schiffbauerin. Fließt. Bleibt nie. Findet in Moragh die Karte/Anleitung für die Rückkehr. Öffnet das Portal von Moragh-Seite. Vesper und sie sind zusammen, als sie den Weg findet — er bleibt, sie geht. Kehrt nach Thalassien zurück (**~1987 UZ**). Allein, zu wenig Magie für den Rückweg. Gründet ~1990 die Schwellenforschungsgesellschaft in Vael, die zum staatlich finanzierten Institut wird. **Stirbt 2037 UZ (Moragh-Akt II) beim Verwüster-Angriff auf Vael**, den Varen orchestriert hat. Letzter Satz: *„Ich habe sie hergeschickt."* Resonanz: Wasser.
 
 ### Runa Kvist — Das Feuer
 Druckerin. Hände immer warm. FWB mit Alphina (hitzig, keine Beziehung). Erlebt in Sulkara mit, wie Alphina freiwillig auf Varens Seite kämpft. **Bleibt beim Bund in Halvaren bis Akt III von Buch 3** — druckt weiter zweisprachige Flugblätter, wartet innerlich. Alphina versucht sie in Akt II zu Varen zu überzeugen — Runa lehnt in drei Sätzen ab (*„Du riechst nach ihm. Du sprichst wie er. Ich glaube dir nicht."*). Läuft in Akt III in eine freie Stadt über, als Drael sie über die Expedition-Gefährdung belügt. Kämpft in Akt IV neben Nyr gegen Expedition. Endet mit Nyr in Halvek-Mar. Resonanz: Feuer/Hitze, später auch Metall (Thar-Schmiede-Erfahrung nutzbar).
@@ -212,7 +212,7 @@ Moragh, ~MZ 1.0 bis ~MZ 4.5 (≈ 4 MZ-Monate, ≈ 130 TZ-Jahre). Krieg zwischen 
 
 **Phase 2 — Bekehrung (K31–K35):** Varen rahmt Mar-Keth als Hybris-Unfall (verschweigt Wahrheit), zeigt abgefangene Bund-Pläne für systematische Quellen-Überladung, präsentiert Reparatur als gemeinsame Mission. K32 Mar-Keth-Geständnis als Fassade. K35 Vier-Thalassier-Liste taucht in Varens Unterlagen auf — als Vermächtnis-Doku, nicht als operativer Plan (Tschechow für B3).
 
-**Phase 3 — Annäherung + Parallel-Linien (K36–K40):** K37 Sex-Szene Alphina+Varen — sie führt, kein Vertrauen wie mit Sorel, ein Bündnis auf Körperebene. Halsband bleibt am Hals, keine Drainage in dieser Szene. Vesper bei Thar lernt Nyrs System, Skepsis wächst. **K39 Maren tritt durch den Wasserweg-Riss bei Dravek**, solo, nach mehreren MZ-Wochen Vorbereitung. Vesper verabschiedet sich heimlich am Riss — was in Thalassien passiert, erfährt die Gruppe erst in B3 von der Ersten Expedition. Maren strandet ~1987 TZ. Runa verzweifelt, sucht weiter.
+**Phase 3 — Annäherung + Parallel-Linien (K36–K40):** K37 Sex-Szene Alphina+Varen — sie führt, kein Vertrauen wie mit Sorel, ein Bündnis auf Körperebene. Halsband bleibt am Hals, keine Drainage in dieser Szene. Vesper bei Thar lernt Nyrs System, Skepsis wächst. **K39 Maren tritt durch den Wasserweg-Riss bei Dravek**, solo, nach mehreren MZ-Wochen Vorbereitung. Vesper verabschiedet sich heimlich am Riss — was in Thalassien passiert, erfährt die Gruppe erst in B3 von der Ersten Expedition. Maren strandet ~1987 UZ. Runa verzweifelt, sucht weiter.
 
 **Phase 4 — Schutz + Sulkara-Aufmarsch (K41–K43):** Bund + Thar koordinieren erstmals außerhalb des Krieges, weil eine Bund-Quelle (Sulkara) durch ein internes Bund-Manöver zur Überladung zu kippen droht. **Sulkara-Mechanik = Schutz vor Überladung, nicht Reparatur** (Quelle ist intakt, soll nicht durch politisches Spiel gekippt werden). Varen sieht Gelegenheit, stellt Alphina den Einsatz als Beweis ihrer gemeinsamen Mission vor.
 
@@ -224,7 +224,7 @@ Moragh, ~MZ 1.0 bis ~MZ 4.5 (≈ 4 MZ-Monate, ≈ 130 TZ-Jahre). Krieg zwischen 
 |-------|-----|---------|-----------|
 | Alphina | bei Varen (Velmar-nahe Festung) | Halsband, Hoffnungs-Betrug | Varen |
 | Vesper | bei Thar mit Nyr und Runa | Thar-Mitwisser, Skepsis | Nyr |
-| Maren | Thalassien ~1987 TZ | gestrandet, baut SFG | — |
+| Maren | Thalassien ~1987 UZ | gestrandet, baut SFG | — |
 | Runa | bei Vesper+Nyr | verletzt (Pflanzen+Brand), gebrochen | — |
 | Elke | Dravek (Bund) | lebt, schweigt über Varen | — |
 | Talven | Velmar-affin, Bund | hungrig, beobachtet — Blutmagie-Bogen folgt B3 | — |
@@ -239,18 +239,18 @@ Moragh, ~MZ 1.0 bis ~MZ 4.5 (≈ 4 MZ-Monate, ≈ 130 TZ-Jahre). Krieg zwischen 
 
 ### Setting
 **Moragh:** Monat 5–10 nach B1-Start. Alphina bei Varen in Torkal, unter seiner Velmar-Bindung (nicht bewusst).
-**Thalassien:** 2003–2153 TZ. Maren lebt noch, Institut wächst. Erste Expedition bricht 2019 auf, kommt 2020 durchs Portal.
+**Thalassien:** 2003–2153 UZ. Maren lebt noch, Institut wächst. Erste Expedition bricht 2019 auf, kommt 2020 durchs Portal.
 **Keine Tech-Magie-Fusion in Moragh** — Moragh-Kultur adoptiert Thalassien-Technik nicht. Thar bleibt, wie sie war (Magitech-Bestien, keine KI, keine Hybrid-Schemen).
 
 ### Zwei Expeditionen aus Thalassien
 
-**Expedition 1 (Forschung, 15 Personen, Ankunft 2020 TZ).** Tyra Halvard als Linguistin. Rein wissenschaftlich. Thar empfängt vereinnahmend, Expedition kooperiert nicht, scheitert blutig in Akt II: 11 tot, 2 verschwinden, 2 fliehen (nur Tyra kommt bis zur Gruppe).
+**Expedition 1 (Forschung, 15 Personen, Ankunft 2020 UZ).** Tyra Halvard als Linguistin. Rein wissenschaftlich. Thar empfängt vereinnahmend, Expedition kooperiert nicht, scheitert blutig in Akt II: 11 tot, 2 verschwinden, 2 fliehen (nur Tyra kommt bis zur Gruppe).
 
 **Verwüster-Antwort** durchs Portal zurück nach Vael (Akt II spät, Thalassien ~2037). Varen manipuliert Orath-Rufer zu einer Vergeltungs-Beschwörung („Bund-Rhetorik"), öffnet das Portal selbst. Drei Verwüster-Schemen zerstören das Institut-Außengebäude. ~40 Tote in Vael. **Maren stirbt** dabei. *„Ich habe sie hergeschickt."*
 
 **Institut kippt** nach Marens Tod zur Eroberungs-Doktrin. Dr. Syra Halvard (Marens Ur-Großnichte, Seitenlinie) wird zur Leiterin. General Kelvar Velkan wird militärischer Kommandeur. Jahrzehnte Vorbereitung in Thalassien-Zeit (aber nur Wochen in Moragh-Zeit).
 
-**Expedition 2 (Eroberung, 2500 Soldaten, Ankunft 2120 TZ).** Shadowrun-Register: Biotech-verstärkte Truppen, Exoskelette, Drohnen-Formationen, Bodymods. Portal 72 Stunden offen durch reinen Tech-Modulator (keine Magie), schmilzt danach. **Basislager in Dravek** (Steinplatz-Portal liegt dort). Keine Expansion, keine Eroberungsoffensive — sie warten auf nächste Welle.
+**Expedition 2 (Eroberung, 2500 Soldaten, Ankunft 2120 UZ).** Shadowrun-Register: Biotech-verstärkte Truppen, Exoskelette, Drohnen-Formationen, Bodymods. Portal 72 Stunden offen durch reinen Tech-Modulator (keine Magie), schmilzt danach. **Basislager in Dravek** (Steinplatz-Portal liegt dort). Keine Expansion, keine Eroberungsoffensive — sie warten auf nächste Welle.
 
 ### Varens Abdrift und Enthüllung
 
@@ -293,7 +293,7 @@ Moragh, ~MZ 1.0 bis ~MZ 4.5 (≈ 4 MZ-Monate, ≈ 130 TZ-Jahre). Krieg zwischen 
 
 **Halvek-Mar.** Vier Narbige am Tisch, Tyra Halvard in der Nähe (lebt mit). Meer, leerer Horizont. Runa sagt Alphina: *„Ich hatte recht. Und ich hätte dich trotzdem mitgenommen."* Alphina: *„Ich weiß."* Stille. Gläser klirren. Meer.
 
-**Vael (~2155 TZ).** Ein Kind berührt einen Farn. Der Farn bewegt sich nicht. Kalter Stein. Kein Puls mehr im Boden. Das Kind zuckt Achseln und rennt weiter. Unter dem Garten: Stille. Zum ersten Mal seit Jahrhunderten.
+**Vael (~2155 UZ).** Ein Kind berührt einen Farn. Der Farn bewegt sich nicht. Kalter Stein. Kein Puls mehr im Boden. Das Kind zuckt Achseln und rennt weiter. Unter dem Garten: Stille. Zum ersten Mal seit Jahrhunderten.
 
 **In den toten Zonen (Moragh).** Die Expedition-Überlebenden bauen Siedlungen. Fluggeräte erkunden den Planeten (Moragh konnte nie über den 60m-Tidenhub hinausblicken). **Keimzelle einer anti-magischen Fraktion.** Ziel: weitere Quellen zerstören, damit tote Zonen wachsen und Moragh-Magier Raum verlieren. Potenzial für Buch 4.
 
@@ -316,8 +316,8 @@ Alphina ═🔥═ Sorel (†)      Alphina ~🔥~ Runa (FWB K17)   Alphina → 
 Vesper ═🔥═ Maren            Vesper ═🔥═ Nyr               Vesper verlässt Thar (Rettung Alphinas)
 (Dom/Sub, Uhren)             (Luft-Druck, Thar K22+)       Vesper ═══ Alphina (Dom)
                              Maren → THALASSIEN
-                             (Wasserweg-Riss K39,          Maren stirbt 2037 TZ
-                              gestrandet ~1987 TZ)         (Verwüster-Angriff Vael)
+                             (Wasserweg-Riss K39,          Maren stirbt 2037 UZ
+                              gestrandet ~1987 UZ)         (Verwüster-Angriff Vael)
 
                              Runa bei Vesper+Nyr           Runa läuft in freie Stadt über
                              (kämpft, sucht Alphina)        Runa ═══ Nyr (Halvek-Mar)

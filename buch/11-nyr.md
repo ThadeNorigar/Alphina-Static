@@ -150,7 +150,7 @@ Vesper ist mit Alphina zwei Straßen weiter. Vier Narbige am Tisch, eine fünfte
 
 Vier Plot-Elemente aus dem Anfangs-Stand (5. April 2026) sind durch spätere Refactor-Wellen abgelöst:
 
-- **„Vesper hat uns verkauft" / Verrats-Plot in B2:** Vesper geht freiwillig zur Thar als Stratege, gibt aber nicht aktiv die Position der anderen preis. Maren erfährt nichts dergleichen — sie spürt den Wasserweg-Riss bei Dravek selbst und geht in B2-K39 solo zurück nach Thalassien. Maren und Vesper sehen sich nie wieder; Maren stirbt 2037 TZ in B3-I3 (Verwüster-Angriff).
+- **„Vesper hat uns verkauft" / Verrats-Plot in B2:** Vesper geht freiwillig zur Thar als Stratege, gibt aber nicht aktiv die Position der anderen preis. Maren erfährt nichts dergleichen — sie spürt den Wasserweg-Riss bei Dravek selbst und geht in B2-K39 solo zurück nach Thalassien. Maren und Vesper sehen sich nie wieder; Maren stirbt 2037 UZ in B3-I3 (Verwüster-Angriff).
 - **Bauplan-Konfrontation „FICK die Rechnung" / Fünfzehn-Sekunden-Szene:** Aktuelle Linie (synopse-b3 K29) ist eine **friedliche Verabschiedung** wegen Zivilisten-als-Schild-Befehlen. Nyrs Pilotin-Selbstbild bleibt als innere Linie (siehe oben), aber ohne Konfrontations-Dramaturgie.
 - **Runa als Verfolgerin / Konglomerat-Aufstieg:** Runa bleibt beim Bund (`pov/runa.md`). Sie verfolgt niemanden. In B3 Akt IV kämpfen Runa und Nyr gemeinsam in Kessler, Epilog leben sie als Paar.
 - **Autonome Magitech-Bestien / KI-gesteuert / Tech-Magie-Fusion ~2250:** Konzept gestrichen. Magitech bleibt menschen-pilotiert. Die Bedrohung in B3 ist die Thalassien-Expedition mit Bodymods + Drohnen, keine autonome Moragh-Tech.

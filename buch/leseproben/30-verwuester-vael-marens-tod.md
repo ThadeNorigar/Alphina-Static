@@ -6,7 +6,7 @@ register: Katastrophe, historische Trauer, Schlusserkenntnis im Moment des Sterb
 heat_level: Gewalt + existentielle Trauer
 primaer_referenz: SenLinYu (Alchemised) — Körperteil-Subjekt unter Stress, Material-Konkretheit
 ergaenzende_referenz: Maas (ACOTAR) — Welt-Eskalation, Räume-Geographie. Kuang sekundär für Katastrophen-Kühle.
-zweck: B3 Akt II, Thalassien ~2037 TZ. Drei Verwüster-Schemen zerstören Institut-Außengebäude. ~40 Tote. Maren erkennt die Kreaturen aus Moragh-Zeit. Sie stirbt. Letzter Satz: »Ich habe sie hergeschickt.«
+zweck: B3 Akt II, Thalassien ~2037 UZ. Drei Verwüster-Schemen zerstören Institut-Außengebäude. ~40 Tote. Maren erkennt die Kreaturen aus Moragh-Zeit. Sie stirbt. Letzter Satz: »Ich habe sie hergeschickt.«
 canon_status: v2 Voice-Anchored Refit-Pipeline 2026-05-05
 ---
 

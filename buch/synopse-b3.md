@@ -3,7 +3,7 @@ buch: 3
 titel: "Die Quelle"
 untertitel: "Wer die Quelle tötet, tötet die Welt"
 zeitraum_mz: "Mehrere MZ-Jahreszeiten"
-zeitraum_tz: "1987–2153 TZ (400:1 Ratio, Thalassien-Seite)"
+zeitraum_tz: "1987–2153 UZ (400:1 Ratio, Thalassien-Seite)"
 pov: [Alphina, Runa, Vesper, Varen, Nyr, Talven, Iven, Tyra]
 pov_verteilung: "Alphina-Kern, breites Ensemble"
 status: "Konzept final (12-buch3-konzept.md), Aktpläne 14–17-buch3-akt*.md auf Stand 2026-05-02"
@@ -23,7 +23,7 @@ Alphina wacht in Varens Quartier in Torkal auf, drei Wochen nach Sulkara. Der Ba
 
 In Thar-Kem sitzt Vesper über Aufklärungsdaten, die nicht zu Moragh-Physik passen — Bodentemperatur-Anomalien am Steinplatz, Sensoren, die er nicht kennt. Nyr pilotiert Kessler in einer Wartungshalle, klopft mit der Handfläche auf den Stahl, und die Bestie vibriert wie ein Partner, der auf das Kommando wartet. Vesper legt der Thar-Kommandantin einen Bericht über den Tech-Gradienten vor; sie legt ihn auf einen Stapel und liest ihn nicht. In Halvaren druckt Runa Flugblätter in zwei Sprachen, wärmt die Walzen mit ihrer Feuer-Resonanz, und Drael besucht sie abends zu höflichem Tee, der niemals getrunken wird.
 
-Im Bund-Gebiet verteilt Talven Resonanz auf dem Marktplatz von Halvaren — ein Fieber sinkt unter seiner Hand, ein alter Rufer formt für eine Minute eine Lichtkugel. Seine Hände werden kalt, ohne dass er versteht warum. Nachts findet er ein schwarz gebundenes Handbuch über Velmar-Bindungstechnik unter seiner Tür. Er legt es in eine Schublade und entscheidet, es nicht zu verbrennen. Das Interludium I7 zeigt Maren 1990 TZ in Vael, wie sie die Schwellenforschungsgesellschaft mit drei Mitgliedern im Dachgeschoss der Werft gründet: *„Dann warten wir Jahrzehnte."* 2020 TZ tritt Tyra Halvard mit vierzehn Expeditions-Mitgliedern durch den Steinkreis. Am Ende des Aktes welken die Ränder von Alphinas Schlaf-Hain in Torkal. Varen erklärt ihr, Moragh zahle für die Reparaturen. Sie glaubt ihm.
+Im Bund-Gebiet verteilt Talven Resonanz auf dem Marktplatz von Halvaren — ein Fieber sinkt unter seiner Hand, ein alter Rufer formt für eine Minute eine Lichtkugel. Seine Hände werden kalt, ohne dass er versteht warum. Nachts findet er ein schwarz gebundenes Handbuch über Velmar-Bindungstechnik unter seiner Tür. Er legt es in eine Schublade und entscheidet, es nicht zu verbrennen. Das Interludium I7 zeigt Maren 1990 UZ in Vael, wie sie die Schwellenforschungsgesellschaft mit drei Mitgliedern im Dachgeschoss der Werft gründet: *„Dann warten wir Jahrzehnte."* 2020 UZ tritt Tyra Halvard mit vierzehn Expeditions-Mitgliedern durch den Steinkreis. Am Ende des Aktes welken die Ränder von Alphinas Schlaf-Hain in Torkal. Varen erklärt ihr, Moragh zahle für die Reparaturen. Sie glaubt ihm.
 
 ### Zentrale Beats
 - Halvara-Kel pulsiert wieder, Alphina fühlt Heilung, Varen notiert den Frequenzwert

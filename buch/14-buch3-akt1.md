@@ -7,7 +7,7 @@
 
 Zwei Schauplätze parallel:
 - **Moragh (Monat 5,5–6,5 nach B1-Start):** Alphina bei Varen in Torkal. Quellen-Reparatur als Hoffnungs-Betrug. Varen inszeniert den empathischen Helfer — Helfersyndrom-Trigger für Leserin. Vesper und Nyr bei Thar-Kem, sehen die Expedition kommen. Runa beim Bund in Halvaren, druckt.
-- **Thalassien (~2003–2037 TZ):** Rückblick-Interludium I7 zeigt Marens Gesellschaftsgründung ~1990 TZ. Die Forschungs-Expedition bricht 2019 in Thalassien auf und erreicht Moragh ~2020.
+- **Thalassien (~2003–2037 UZ):** Rückblick-Interludium I7 zeigt Marens Gesellschaftsgründung ~1990 UZ. Die Forschungs-Expedition bricht 2019 in Thalassien auf und erreicht Moragh ~2020.
 
 **Ton:** Nach Buch 2 atmet der Roman kurz auf. Ruhige Rhythmen, lange Szenen, häusliche Details. Varen gibt den verletzlichen Forscher, Alphina glaubt ihm, die Leserin auch. Die Bedrohung sammelt sich am Rand: Verstümmelte Brücken, fremde Silhouetten im Thar-Grenzgebiet, welkende Ränder an Alphinas Schlaf-Hain.
 
@@ -102,7 +102,7 @@ Der Ersatz ist noch unklar. Varen notiert fünf mögliche Namen von Thalassier-R
 **Tschechow:** Die Vier-Thalassier-Liste im Sprachbuch. — Feuert: Akt III, wenn Vesper das Kalkül entschlüsselt und Alphina das Dokument findet.
 
 ### Interludium I1 — Maren, Thalassien (S. 82–92, ~2.500 Wörter)
-*Vael, ~1990 TZ. Drei Jahre nach Marens Durchgang.*
+*Vael, ~1990 UZ. Drei Jahre nach Marens Durchgang.*
 
 Maren auf der Werft, die sie von Haron geerbt hat. Drei Viertel-fertiges Boot immer noch nicht zu Wasser — sie hat keine Zeit, sie hat wichtigeres zu tun. Die **Schwellenforschungsgesellschaft** ist drei Monate alt, hat vier Mitglieder und einen Raum im Dachgeschoss der Werft.
 
@@ -148,7 +148,7 @@ Er legt das Buch in die Schublade. Entscheidet, es nicht zu verbrennen. *„Nur 
 **Tschechow:** Das schwarz-gebundene Handbuch in der Schublade. — Feuert: Akt II, wenn Talven mit Blutmagie + Schemen-Binden beginnt.
 
 ### Kap. 6 — Tyra, Thalassien (S. 114–136, ~5.500 Wörter)
-*Vael, ~2020 TZ. Der Tag der Forschungs-Expedition.*
+*Vael, ~2020 UZ. Der Tag der Forschungs-Expedition.*
 
 Thalassien. Vael, Botanischer Garten, Steinkreis. Drei Jahrzehnte nach Marens Institut-Gründung hat sich das Gebäude zum staatlich finanzierten **Schwellenforschungsinstitut** entwickelt. Glas und Stahl neben dem Steinkreis. Maren ist 63 Jahre alt, sitzt im Rollstuhl, blickt aus dem Fenster.
 

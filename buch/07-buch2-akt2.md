@@ -175,5 +175,5 @@ POV-Wahl: Runa, weil sie das Stille-Motiv trägt und ihr Schwur für ganz B2/B3 
 - **Schemen-Linie:** K7 (Schemen-Soldaten Thar-Angriff) → B2 Akt III (Wegquelle-Vorhut, Halvara-Kel) → B3 (Talvens unbeauftragte Schemen lösen sich)
 - **Vesper-Schach-Linie:** K12 (Bibliothek) → K14 (Archiv-Schicht) → K27 (Logik-Kette zu Varen) → Akt IV (Suchplan)
 - **Talven-Linie:** K9 (Erstkontakt) → K15 (Hunger-Blick) → B2 Akt III (Blutmagie-Selbstlehre, im Hintergrund) → B3 (Aufstieg, Tod durch Alphina)
-- **Maren-Wasserweg-Linie:** K11 (Erinnerung) → K21 (Drei-Ablehnungs-Szene) → K39 (Solo-Durchgang) → B3 (Vermächtnis, Stirbt 2037 TZ)
+- **Maren-Wasserweg-Linie:** K11 (Erinnerung) → K21 (Drei-Ablehnungs-Szene) → K39 (Solo-Durchgang) → B3 (Vermächtnis, Stirbt 2037 UZ)
 - **Elke-Linie:** K13 (öffentliche Varen-Version) → K16 (Mitschuld + Vermittlungsbrief) → B3 Akt II (Tod, Alphina findet Hinweise)

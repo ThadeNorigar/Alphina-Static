@@ -3108,7 +3108,7 @@
       "kapitel": "",
       "leseart": "normal",
       "titel": "Sync — Ende Moragh-Monat 5",
-      "detail": "Vael 1987 TZ — Maren tritt durchs Portal ein. Gaslampen durch Elektrizität ersetzt, Automobile, Telefonleitungen. Beginnt zu dokumentieren.",
+      "detail": "Vael 1987 UZ — Maren tritt durchs Portal ein. Gaslampen durch Elektrizität ersetzt, Automobile, Telefonleitungen. Beginnt zu dokumentieren.",
       "typen": [
         "sync"
       ],
@@ -3146,14 +3146,14 @@
       "buch": "B2",
       "kapitel": "39",
       "leseart": "normal",
-      "titel": "Maren tritt durch Wasserweg-Riss nach 1987 TZ",
-      "detail": "Maren am Wasserweg-Riss bei Dravek (Flussbiegung südlich, wo Wasser stillsteht — etabliert in B2-K11/K19). Solo. Sie öffnet ihre Wasser-Resonanz, Riss reagiert. Einbahn-Portal nach Thalassien. Sie tritt durch. Erscheint in der Grauwe vor Vael, ~1987 TZ. Gaslampen durch Elektrizität ersetzt, Automobile statt Kutschen, Marens Welt um 167 TZ-Jahre vorgerückt. Wird über die Folgejahre die Schwellenforschungsgesellschaft gründen. Vesper und Nyr sind NICHT beteiligt (alter Plot-Stand mit Steinplatz-Portal-Ritual ist obsolet).",
+      "titel": "Maren tritt durch Wasserweg-Riss nach 1987 UZ",
+      "detail": "Maren am Wasserweg-Riss bei Dravek (Flussbiegung südlich, wo Wasser stillsteht — etabliert in B2-K11/K19). Solo. Sie öffnet ihre Wasser-Resonanz, Riss reagiert. Einbahn-Portal nach Thalassien. Sie tritt durch. Erscheint in der Grauwe vor Vael, ~1987 UZ. Gaslampen durch Elektrizität ersetzt, Automobile statt Kutschen, Marens Welt um 167 TZ-Jahre vorgerückt. Wird über die Folgejahre die Schwellenforschungsgesellschaft gründen. Vesper und Nyr sind NICHT beteiligt (alter Plot-Stand mit Steinplatz-Portal-Ritual ist obsolet).",
       "typen": [
         "portal",
         "tschechow"
       ],
       "sync": {
-        "thalassien": "Vael 1987 TZ — Gaslampen durch Elektrizität ersetzt, erste Automobile, Telefonleitungen. Maren kommt an, beginnt sofort zu dokumentieren.",
+        "thalassien": "Vael 1987 UZ — Gaslampen durch Elektrizität ersetzt, erste Automobile, Telefonleitungen. Maren kommt an, beginnt sofort zu dokumentieren.",
         "moragh": "Portal schliesst 4:33 später. Vesper bleibt. Die Vier sind getrennt."
       },
       "tags": [
@@ -3247,7 +3247,7 @@
       "kapitel": "",
       "leseart": "normal",
       "titel": "Sync — Ende Moragh-Monat 6",
-      "detail": "Vael 2020 TZ — Schwellenforschungsgesellschaft ist staatliches Institut. Expedition 1 bricht auf.",
+      "detail": "Vael 2020 UZ — Schwellenforschungsgesellschaft ist staatliches Institut. Expedition 1 bricht auf.",
       "typen": [
         "sync"
       ],
@@ -3349,7 +3349,7 @@
       "kapitel": "I1",
       "leseart": "rueckblende",
       "titel": "I7 — Maren gründet die Schwellenforschungsgesellschaft",
-      "detail": "Rückblick auf Vael 1990 TZ. Maren mit drei Mitgliedern im Dachgeschoss der Werft: »Dann warten wir Jahrzehnte.« Gründung der späteren staatlich finanzierten Institution.",
+      "detail": "Rückblick auf Vael 1990 UZ. Maren mit drei Mitgliedern im Dachgeschoss der Werft: »Dann warten wir Jahrzehnte.« Gründung der späteren staatlich finanzierten Institution.",
       "typen": [
         "schlüssel",
         "hintergrund"
@@ -3392,20 +3392,20 @@
       "buch": "B3",
       "kapitel": "06",
       "leseart": "normal",
-      "titel": "Erste Expedition kommt durchs Portal — 2020 TZ",
+      "titel": "Erste Expedition kommt durchs Portal — 2020 UZ",
       "detail": "Tyra Halvard und vierzehn Forscher treten durch den Steinkreis. Wissenschaftliche Expedition, keine militärische. Die Moragh-Welt ist anders als die Schriften beschreiben.",
       "typen": [
         "portal",
         "begegnung"
       ],
       "sync": {
-        "thalassien": "Vael 2020 TZ. Institut schickt Expedition 1 los, 15 Forscher.",
+        "thalassien": "Vael 2020 UZ. Institut schickt Expedition 1 los, 15 Forscher.",
         "moragh": "Am Steinplatz treffen sie auf erste Thar-Patrouille. Keine Verluste, aber Spannung."
       },
       "tags": [
         "Expedition 1",
         "Tyra Halvard",
-        "2020 TZ"
+        "2020 UZ"
       ],
       "tz": 751,
       "tz_sort": 784.0,
@@ -3424,7 +3424,7 @@
       "kapitel": "",
       "leseart": "normal",
       "titel": "Sync — Ende Moragh-Monat 7",
-      "detail": "Vael 2053 TZ — 16 Jahre nach Marens Tod. Eroberungs-Doktrin. Institut bewaffnet sich.",
+      "detail": "Vael 2053 UZ — 16 Jahre nach Marens Tod. Eroberungs-Doktrin. Institut bewaffnet sich.",
       "typen": [
         "sync"
       ],
@@ -3503,7 +3503,7 @@
       "kapitel": "I2",
       "leseart": "rueckblende",
       "titel": "I13 — Tyra Halvard + Team vor dem Aufbruch",
-      "detail": "Rückblende Vael 2019 TZ. Tyra mit ihren vierzehn Kollegen vor dem Durchgang. Abschied, Koffer, Vorträge, Familien, Witze. Eine Nacht vor dem Portal. Institut füttert Hoffnung.",
+      "detail": "Rückblende Vael 2019 UZ. Tyra mit ihren vierzehn Kollegen vor dem Durchgang. Abschied, Koffer, Vorträge, Familien, Witze. Eine Nacht vor dem Portal. Institut füttert Hoffnung.",
       "typen": [
         "hintergrund"
       ],
@@ -3572,7 +3572,7 @@
       "kapitel": "",
       "leseart": "normal",
       "titel": "Sync — Ende Moragh-Monat 8",
-      "detail": "Vael 2087 TZ — Biotech-Bodymod-Programm beginnt. Junge Syra Halvard wird Forschungsleiterin.",
+      "detail": "Vael 2087 UZ — Biotech-Bodymod-Programm beginnt. Junge Syra Halvard wird Forschungsleiterin.",
       "typen": [
         "sync"
       ],
@@ -3638,13 +3638,13 @@
         "schlüssel"
       ],
       "sync": {
-        "thalassien": "Vael 2037 TZ. Institut-Aussengebäude zerstört. Maren stirbt im Angesicht der Verwüster.",
+        "thalassien": "Vael 2037 UZ. Institut-Aussengebäude zerstört. Maren stirbt im Angesicht der Verwüster.",
         "moragh": "Varen bleibt für Öffnungsdauer am Steinplatz. Niemand sieht ihn. Die Älteste hält es für Bund-Angriff."
       },
       "tags": [
         "Maren tot",
         "Syra Halvard 15",
-        "2037 TZ"
+        "2037 UZ"
       ],
       "tz": 768,
       "tz_sort": 828.0,
@@ -3768,7 +3768,7 @@
       "kapitel": "",
       "leseart": "normal",
       "titel": "Sync — Ende Moragh-Monat 9",
-      "detail": "Vael 2120 TZ — Expedition 2 bricht auf. 2500 Soldaten. General Kelvar Velkan führt.",
+      "detail": "Vael 2120 UZ — Expedition 2 bricht auf. 2500 Soldaten. General Kelvar Velkan führt.",
       "typen": [
         "sync"
       ],
@@ -3866,14 +3866,14 @@
       "kapitel": "I4",
       "leseart": "rueckblende",
       "titel": "I9 — Junge Syra Halvard + Kelvar Velkan, Institut-Wandel",
-      "detail": "Parallel Vael 2080 TZ. Syra Halvard (15) trifft den jungen Kelvar Velkan (25) im Institut. Nach Marens Tod Eroberungs-Doktrin. Zwei Generationen nach Maren, Ton hat gekippt.",
+      "detail": "Parallel Vael 2080 UZ. Syra Halvard (15) trifft den jungen Kelvar Velkan (25) im Institut. Nach Marens Tod Eroberungs-Doktrin. Zwei Generationen nach Maren, Ton hat gekippt.",
       "typen": [
         "hintergrund"
       ],
       "tags": [
         "Syra Halvard",
         "Kelvar Velkan",
-        "2080 TZ"
+        "2080 UZ"
       ],
       "tz": 811,
       "tz_sort": 872.0,
@@ -3910,7 +3910,7 @@
       "kapitel": "I5",
       "leseart": "rueckblende",
       "titel": "I14 — Halvard + Velkan planen Expedition 2",
-      "detail": "Parallel Vael 2110 TZ. Resonanz-Modulator im Test. Biotech-Bodymod-Soldaten. Halvard (jetzt 45) und Velkan (55) sprechen von »Befreiung der Weltenkreuzung«. Sprache klingt nach Krieg.",
+      "detail": "Parallel Vael 2110 UZ. Resonanz-Modulator im Test. Biotech-Bodymod-Soldaten. Halvard (jetzt 45) und Velkan (55) sprechen von »Befreiung der Weltenkreuzung«. Sprache klingt nach Krieg.",
       "typen": [
         "hintergrund",
         "krieg"
@@ -3957,7 +3957,7 @@
       "kapitel": "",
       "leseart": "normal",
       "titel": "Sync — Ende Moragh-Monat 10",
-      "detail": "Vael 2153 TZ — Portal kollabiert. Alle Magie permanent weg. Institut wird Ruine.",
+      "detail": "Vael 2153 UZ — Portal kollabiert. Alle Magie permanent weg. Institut wird Ruine.",
       "typen": [
         "sync"
       ],
@@ -4036,7 +4036,7 @@
       "buch": "B3",
       "kapitel": "31",
       "leseart": "normal",
-      "titel": "Zweite Expedition kommt durch — 2500 Soldaten, 2120 TZ",
+      "titel": "Zweite Expedition kommt durch — 2500 Soldaten, 2120 UZ",
       "detail": "Modulator 72 Stunden aktiv. Expedition 2: 2500 Soldaten, Biotech-Bodymod, stockwerkshohe Killermaschinen. General Kelvar Velkan führt. In zwei Moragh-Wochen fällt Bund-Grenzgebiet, eine freie Stadt ist erobert.",
       "typen": [
         "portal",
@@ -4044,13 +4044,13 @@
         "schlüssel"
       ],
       "sync": {
-        "thalassien": "Vael 2120 TZ. Institut schickt großen Zug, Hymnen und Propaganda. Kein Weg zurück im Plan.",
+        "thalassien": "Vael 2120 UZ. Institut schickt großen Zug, Hymnen und Propaganda. Kein Weg zurück im Plan.",
         "moragh": "Steinplatz-Gebiet wird Militärzone. Moragh-Flüchtlinge strömen nach Westen."
       },
       "tags": [
         "Expedition 2",
         "2500 Soldaten",
-        "2120 TZ",
+        "2120 UZ",
         "Kelvar Velkan"
       ],
       "tz": 851,
@@ -4107,7 +4107,7 @@
       "kapitel": "I6",
       "leseart": "rueckblende",
       "titel": "I16 — Expedition 2 Aufbruch aus Vael",
-      "detail": "Rückblende zum Start der Invasion. Vael 2120 TZ. Die Portal-Maschine wird aktiviert. Hymne, Flaggen, Kessels Abschiedsrede: »Wir holen uns die Welt zurück, die man uns genommen hat.«",
+      "detail": "Rückblende zum Start der Invasion. Vael 2120 UZ. Die Portal-Maschine wird aktiviert. Hymne, Flaggen, Kessels Abschiedsrede: »Wir holen uns die Welt zurück, die man uns genommen hat.«",
       "typen": [
         "hintergrund",
         "krieg"
@@ -4244,13 +4244,13 @@
         "schlüssel"
       ],
       "sync": {
-        "thalassien": "Vael 2153 TZ. Alle Magie permanent weg. Farne stehen still, Steinkreis kalt, Institut wird zur Ruine einer überholten Wissenschaft.",
+        "thalassien": "Vael 2153 UZ. Alle Magie permanent weg. Farne stehen still, Steinkreis kalt, Institut wird zur Ruine einer überholten Wissenschaft.",
         "moragh": "Portal-Quelle tot. Portal endgültig zu. Expedition 2 in Moragh gestrandet, Rest in Thalassien ohne Rückweg."
       },
       "tags": [
         "Portal tot",
         "Magie weg",
-        "2153 TZ"
+        "2153 UZ"
       ],
       "tz": 883,
       "tz_sort": 932.0,

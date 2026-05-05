@@ -51,19 +51,19 @@ reihenfolge: 35
 
 **2090er TZ — Erfolgreicher Kommandeur in thalassischen Konflikten:** Reputation für minimale Eigenverluste. Bodymod-Programm während dieser Zeit etabliert.
 
-**2080 TZ — Erste Begegnung mit Syra Halvard:** Bei einem Vaeler Institut-Anlass. Syra ist 15, Kelvar 25. Doktrin-Gespräch („Brücke vs. Eroberung"). Vier Jahrzehnte vor der Expedition 2.
+**2080 UZ — Erste Begegnung mit Syra Halvard:** Bei einem Vaeler Institut-Anlass. Syra ist 15, Kelvar 25. Doktrin-Gespräch („Brücke vs. Eroberung"). Vier Jahrzehnte vor der Expedition 2.
 
-**2110 TZ — Von Syra Halvard rekrutiert für die zweite Expedition:** Sieht Moragh zunächst als „Rentner-Auftrag". Resonanz-Modulator-Test, Bodymod-Aufrüstung der Truppe.
+**2110 UZ — Von Syra Halvard rekrutiert für die zweite Expedition:** Sieht Moragh zunächst als „Rentner-Auftrag". Resonanz-Modulator-Test, Bodymod-Aufrüstung der Truppe.
 
-**B3-I16 / KI6 (Kelvar-POV) — 2120 TZ — Expedition 2 Aufbruch aus Vael:** Letzter Stand vor dem Portal-Durchgang. Befehlsstruktur klar, 2500 Soldaten geordnet, Vorräte für 3 Monate. Er ist 60 Jahre alt, präzise.
+**B3-I16 / KI6 (Kelvar-POV) — 2120 UZ — Expedition 2 Aufbruch aus Vael:** Letzter Stand vor dem Portal-Durchgang. Befehlsstruktur klar, 2500 Soldaten geordnet, Vorräte für 3 Monate. Er ist 60 Jahre alt, präzise.
 
-**B3-K31 (Kelvar-POV / Kessler-Cross) — Zweite Expedition kommt durch:** 2120 TZ. Erobert Dravek binnen Stunden (Steinplatz-Region). Hält Stellung. Erste Konfrontation mit Moragh-Magie auf dem Boden — er rechnet sie als „neuartige Bedrohung", nicht als Wunder.
+**B3-K31 (Kelvar-POV / Kessler-Cross) — Zweite Expedition kommt durch:** 2120 UZ. Erobert Dravek binnen Stunden (Steinplatz-Region). Hält Stellung. Erste Konfrontation mit Moragh-Magie auf dem Boden — er rechnet sie als „neuartige Bedrohung", nicht als Wunder.
 
 **B3-Akt IV — Aufbau Basislager + erste Schlacht:**
-- 2120-2136 TZ: Basislager. Keine aggressive Expansion (Nachschub begrenzt auf 3 Monate Vorräte). Wartet auf zweite Durchgangs-Welle.
-- 2136 TZ: Erste Schlacht gegen Moragh-Bündnis (Bund + Thar) vor Dulrath-Ost-Umland. Hält stand, aber gewinnt nicht.
+- 2120-2136 UZ: Basislager. Keine aggressive Expansion (Nachschub begrenzt auf 3 Monate Vorräte). Wartet auf zweite Durchgangs-Welle.
+- 2136 UZ: Erste Schlacht gegen Moragh-Bündnis (Bund + Thar) vor Dulrath-Ost-Umland. Hält stand, aber gewinnt nicht.
 
-**B3-Finale (2152 TZ) — Letzte Schlacht am Steinplatz:** Wird durch kombinierte Magie-Angriffe besiegt: **Iven** stört seine Elektronik (Drohnen stürzen, Exoskelette stolpern), **Runa + Nyr** in Kessler durchbrechen die Linie, **Alphina-Dornen** binden seine Soldaten. Stirbt im Kampf oder kapituliert mit den ~1500 Überlebenden.
+**B3-Finale (2152 UZ) — Letzte Schlacht am Steinplatz:** Wird durch kombinierte Magie-Angriffe besiegt: **Iven** stört seine Elektronik (Drohnen stürzen, Exoskelette stolpern), **Runa + Nyr** in Kessler durchbrechen die Linie, **Alphina-Dornen** binden seine Soldaten. Stirbt im Kampf oder kapituliert mit den ~1500 Überlebenden.
 
 **B4-Setup (falls überlebt):** Führt die Überlebenden in die toten Zonen, anti-magischer Kommandeur in der Wildnis.
 

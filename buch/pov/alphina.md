@@ -223,7 +223,7 @@ In Moragh, unter Sorels Tod, kippt die Farbe: **pechschwarze Wurzeln, Stängel i
 **Maren (B1-Begegnung → B2-K21-Bruch → B3-K24-Brief):**
 - **B1:** Begegnet erst ab K15+ (nach Werft-Erbe und Anker-Besuch). Gemeinsame Szenen K17/K20+/K22+/K28/K30/K38. K30 erste bewusste Drei-Kopplung im Tunnel (Maren wärmt Frost, Alphina heilt Fleisch, Vesper beschleunigt). K38 Alphinas Dornen schneiden Marens Wade auf.
 - **B2-K21 — Drei-Ablehnungs-Bruch:** Maren sagt *„Ich gehe heim."* Alphinas Konter-Frage *„Warum willst du heim, Maren? Alle die du kennst sind tot oder alt."* — sie hört Heimweh, nicht Identitäts-Verlust. Bruchmoment.
-- **B3-K24 — Maren-Brief, zweite Erkenntnis:** Alphina liest den Brief, den Vesper über Elke aus 1987 TZ mitgebracht hat. Maren ist seit ~70 Jahren tot. Zu spät.
+- **B3-K24 — Maren-Brief, zweite Erkenntnis:** Alphina liest den Brief, den Vesper über Elke aus 1987 UZ mitgebracht hat. Maren ist seit ~70 Jahren tot. Zu spät.
 
 **Varen (B1-K38-Erstkontakt → B2-Bekehrung → B3-Trennung-und-Tötung):**
 - **B1-K38:** Erstkontakt am Moragh-Steinplatz. Halt-Berührung. Sorel stirbt unter seinem Auftrag.
@@ -298,7 +298,7 @@ In Moragh, unter Sorels Tod, kippt die Farbe: **pechschwarze Wurzeln, Stängel i
 
 **B3-K23 — Ritual-Dokument-Fund in Varens Quartier:** Sie findet das Ritual-Dokument. Lesen, Verstehen — *„Sorels Nutzen liegt im Sterben"* steht darin oder im Rand-Notiz. Garten-Reveal: Varen hat sie von Anfang an instrumentalisiert.
 
-**B3-K24 — Maren-Brief, zweite Erkenntnis:** Sie liest Marens Brief (Vesper hat ihn 1987 TZ aus Moragh über Elke mitgebracht — ~70 Jahre alt). Zweite Erkenntnis: Maren-K21-Identitäts-Verlust war kein Heimweh. Zu spät — Maren ist seit ~70 Jahren tot.
+**B3-K24 — Maren-Brief, zweite Erkenntnis:** Sie liest Marens Brief (Vesper hat ihn 1987 UZ aus Moragh über Elke mitgebracht — ~70 Jahre alt). Zweite Erkenntnis: Maren-K21-Identitäts-Verlust war kein Heimweh. Zu spät — Maren ist seit ~70 Jahren tot.
 
 **B3-K25 — Verlässt Varen — ohne Drama:** Sie geht. Kein Wort. Hass + Trauer + Sorel-Nicht-Vergeben sind wieder voll präsent.
 

@@ -171,7 +171,7 @@ Seine Freude zeigt sich körperlich ohne Benennung: Atem einen Moment tiefer, Bl
 - **K35 letzte Nacht in Vael:** Maren stellt den Turm zum ersten Mal selbst auf — Umkehrung. Er bleibt Dom, sie übernimmt das Ritual aktiv.
 - **B2-K27 Marens Wohnung (in Vael, vor B2-Wanderung):** verbleibender Anker.
 
-Bruch in B2-K22: Maren reist, Vesper folgt Nyr Richtung Thar. Vesper findet ihren Brief, sitzt drei Tage allein. Sie sehen sich nie wieder — Maren strandet B2-K39 in Thalassien, stirbt 2037 TZ.
+Bruch in B2-K22: Maren reist, Vesper folgt Nyr Richtung Thar. Vesper findet ihren Brief, sitzt drei Tage allein. Sie sehen sich nie wieder — Maren strandet B2-K39 in Thalassien, stirbt 2037 UZ.
 
 ### Nyr — Direktheit, Pakt mit Augenhöhe (B2/B3)
 
@@ -265,6 +265,6 @@ Alphina kennt alle drei. Das ist der Auslöser für ihren Schreibtisch-Reveal in
 
 Drei Plot-Elemente sind durch Refactor-Wellen abgelöst:
 
-- **Vesper-Verrats-Plot B2-Ende** („Du hast uns verkauft" / Maren schlägt ihm ins Gesicht): Vesper geht freiwillig zur Thar als Stratege, gibt aber nicht aktiv die Position der anderen preis. Maren erfährt nichts dergleichen — sie spürt den Wasserweg-Riss bei Dravek selbst und geht in B2-K39 solo. Maren und Vesper sehen sich nie wieder; Maren stirbt 2037 TZ in B3-I3. (Siehe `11-nyr.md` Verworfen-Sektion + `pov/maren.md`.)
+- **Vesper-Verrats-Plot B2-Ende** („Du hast uns verkauft" / Maren schlägt ihm ins Gesicht): Vesper geht freiwillig zur Thar als Stratege, gibt aber nicht aktiv die Position der anderen preis. Maren erfährt nichts dergleichen — sie spürt den Wasserweg-Riss bei Dravek selbst und geht in B2-K39 solo. Maren und Vesper sehen sich nie wieder; Maren stirbt 2037 UZ in B3-I3. (Siehe `11-nyr.md` Verworfen-Sektion + `pov/maren.md`.)
 - **Temporal-KI-Helm / Tech-Magie-Fusion** (B3 Akt II/III/IV): Konzept gestrichen 2026-05-03. Vesper sieht Bindungs-Sigil durch eigene Zeit/Muster-Resonanz, kein Helm, keine Thar-eigene-KI-Forschung. Memory `project_moragh_keine_technologie.md`. Moragh adoptiert keine Tech, auch nicht aus Expeditionen. Iven nutzt geborgenen Transformator nur als Sabotage-Werkzeug, nicht als Adoption.
 - **„15-Sekunden-Bauplan-Konfrontation" als Defektions-Auslöser:** Nyr defektiert friedlich in K29 (Zivilisten-als-Schild-Befehle), Vesper ist nicht Konfrontations-Partner. Friedliche Verabschiedung. (Siehe `11-nyr.md`.)
