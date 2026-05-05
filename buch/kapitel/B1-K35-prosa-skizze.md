@@ -6,6 +6,8 @@
 
 **Entstehung:** Diese Skizze ist die ursprüngliche Plot-mit-Prosa-Vorgriff-Fassung des K35-Entwurfs (Stand 2026-05-05, vor Plot-only-Refactor). Nach Einführung der ⚡-Pin-Direktive `feedback_entwurf_plot_only.md` wurde der Entwurf rigoros auf Plot-only zurückgeschnitten — die hier enthaltenen Material-Vorschläge, Dialog-Wortlaut-Skizzen und Mikro-Geometrie-Beats blieben aber wertvoll als Inspirations-Material für die spätere Ausarbeitungs-Phase.
 
+**Plot-Korrektur (2026-05-05 nach Council):** Die Skizze enthält an einer zentralen Stelle einen **Canon-Bruch**: sie behandelt K35 als Marens *erste* Initiation („nach fünf Monaten als Eingeladene"). Laut `zeitleiste.json` (ZEITSPRUNG 18. Glutmond 551) initiiert Maren seit *vier Monaten* 2-3×/Woche — ca. 30+ Sessions in Routine. K35 ist die **letzte Vael-Initiation in der etablierten Routine**, nicht die erste. Der Plot-Entwurf hat das korrigiert. Beim Schreiben der Sex-Szene gilt der Plot-Entwurf-Stand: Routine + Tor-Unterstrom (Variante A — Réage-Vergewisserung).
+
 **Lade-Anweisung für `/ausarbeitung`:**
 
 - Diese Datei ist **optionale Inspirations-Quelle** — kein Diktat.
