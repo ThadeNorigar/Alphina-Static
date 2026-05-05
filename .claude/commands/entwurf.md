@@ -98,9 +98,13 @@ Datei: `buch/kapitel/{ID}-entwurf.md` (mit Prefix, z.B. `B1-K12-entwurf.md`).
 
 **Wortziel:** 1.200-1.600 W (spaeter in Ausarbeitung)
 
-{150-300 W Fließprosa-Exposé. Wer ist im Raum, wo ist der Raum,
- was passiert, welche Bewegung, welche Sinneseindruecke sind dominant,
- wohin geht der Beat am Ende. KEIN Dialog ausformuliert. KEIN Stil.}
+{**80-150 W Plot-Exposé** in nüchterner Beat-Sprache. Wer ist im Raum,
+ wo, wann, was passiert in welcher Reihenfolge, wohin kippt der Beat
+ am Ende. KEIN Dialog wörtlich. KEINE Sinnes-Beschreibung
+ (Geruch/Tastsinn/Material/Atmosphäre). KEINE Mikro-Gesten
+ (Augenbraue/Hand-an-Unterarm/Decke-Schlag). KEINE Innenrede in
+ Prosa-Ton. Lese-Test pro Satz: würde dieser Satz auch in
+ /ausarbeitung passen? Wenn ja, gehört er dorthin, NICHT hier.}
 
 **Dialog-Informationen:**
 - {Figur A} erfaehrt: {Info 1, Info 2}
@@ -108,7 +112,7 @@ Datei: `buch/kapitel/{ID}-entwurf.md` (mit Prefix, z.B. `B1-K12-entwurf.md`).
 - {Figur A}'s Erkenntnis am Ende: {innere Wendung}
 - {Figur B}'s Erkenntnis am Ende: {innere Wendung}
 
-**Tschechow-Waffen geladen:** {konkrete Gegenstaende/Details die spaeter zuenden}
+**Tschechow-Waffen geladen:** {konkrete Gegenstaende, OHNE Sinnes-Beschreibung}
 **Tschechow-Waffen abgefeuert:** {was aus frueheren Kapiteln hier zuendet, oder "—"}
 **Cross-POV-Ankerpunkte:** {Was muss konsistent sein mit Kap X}
 
@@ -121,15 +125,23 @@ Datei: `buch/kapitel/{ID}-entwurf.md` (mit Prefix, z.B. `B1-K12-entwurf.md`).
 - Welches Wissen darf sie NICHT haben (Sorel-Prinzip)?
 ```
 
-**Anforderungen an den Entwurf:**
+**Anforderungen an den Entwurf — Plot-only, kein Prosa-Vorgriff:**
 - 2-4 Szenen (typisch 3)
-- Jede Szene: Fließprosa-Exposé + Dialog-Info-Liste + Tschechow-Beats + Cross-POV
-- KEIN ausformulierter Dialog (kein "..., sagte sie")
-- KEINE rhetorischen Stilfiguren
-- KEINE Sinnes-Schmuckwoerter (wir machen nur den Plot, nicht die Atmosphaere)
-- Jeder Plot-Beat MUSS in den Dialog-Info-Listen oder im Fließprosa-Exposé stehen
-- Gaensehaut-Moment ist Pflicht
+- Jede Szene: Plot-Exposé (80-150 W) + Dialog-Info-Liste + Tschechow-Beats + Cross-POV
+- **KEINE wörtliche Rede.** Auch nicht in Anführungszeichen, auch nicht als „X sagt: ..." mit Wortlaut. Nur Dialog-INHALT als Liste („X erfährt Y", „X entscheidet Z").
+- **KEINE Sinnes-Beschreibung.** Keine Gerüche, keine Materialien („Messing-Halter", „grobes Leinen-Futter"), keine Temperaturen, keine Atmosphäre („Tagesanbruch trifft das Boot von schräg…").
+- **KEINE Mikro-Gesten.** Keine choreographierten Körperbeats („Hand auf der Plankennaht", „Augenbraue, halber Atemzug", „Decke-Schlag glatt"). Geste-Inhalte stehen in Dialog-Info als Beat-Stichwort („Maren bestätigt körperlich, Vesper antwortet"), nicht als Choreographie.
+- **KEINE Innenrede in Prosa-Ton.** Kein „Sein eigener Atem stockt", kein „jemand auf der anderen Seite atmet zurück". Innenrede als Plot-Beat: „Vesper denkt kurz an Personifikation, verwirft sie, bleibt bei Schwerkraft."
+- **KEINE Erzähler-Glossen.** Keine Erklär-Sätze für die Leserin („Es ist kein Care-Beat, es ist ein Bestätigungs-Druck") — Subtext gehört in /ausarbeitung.
+- **KEINE rhetorischen Stilfiguren.**
+- Jeder Plot-Beat MUSS in den Dialog-Info-Listen oder im Plot-Exposé stehen
+- Gaensehaut-Moment ist Pflicht — als Plot-Ereignis benannt, nicht prosaisch ausgemalt
 - **Ton-Referenz-Leseproben** und **Council-Leserinnen** im Header gesetzt (siehe unten)
+
+**Lese-Test vor Commit:** Streich gedanklich alle Sätze, die Sinneseindrücke,
+Mikro-Gesten, Atmosphäre oder Wortlaut transportieren. Bleibt der Plot
+verständlich? Wenn ja, ist der Entwurf richtig kalibriert. Wenn nicht,
+fehlen Plot-Beats — aber der Fix ist mehr Plot-Information, nicht mehr Prosa.
 
 **Welt-Konsistenz auch im Entwurf (kein Stil, aber Plot-relevant) — vermeidet Erblast in /ausarbeitung:**
 - **Keine metrischen Maßeinheiten** in Plot-Beats: nicht `300 Meter`, `vier Kilometer`, `zwei Zentimeter`. Stattdessen: `Schritt`, `Klafter`, `Meilen`, `Daumen`, `Spanne`, `Fuß`, `Elle`, `Linie`. Auch in Distanzangaben zwischen Orten und in Größenbeschreibungen.
