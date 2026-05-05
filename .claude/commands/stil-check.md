@@ -2,6 +2,8 @@
 
 Du prüfst ein Kapitel von "Der Riss" auf Stilprobleme. Systematisch, mit Zahlen.
 
+**Findings-Format-Pflicht:** Master = `buch/_findings-format.md`. Jedes Finding wird im Block-Format mit Vorher/Nachher und Satz-Kontext ausgegeben (Satz davor + Stelle + Satz danach), Tag aus `[PFLICHT]`/`[TIC]`/`[STIL?]`, „warum" mit Master-Verweis. Keine verkuerzten Tabellen-Zeilen, keine Wort-zu-Wort-Substitutionen. Sweep-Aenderungen 2-3 Beispiele + Hinweis.
+
 ## Input
 
 `$ARGUMENTS` = Pfad zur Kapitel-Datei (z.B. `buch/kapitel/02-sorel.md`)
@@ -297,11 +299,25 @@ POV: [Figur] | Perspektive: [Ich/3.P] | Wörter: [N]
 
 ### Findings
 
-| # | Zeile | Typ | Problem | Fix-Vorschlag |
-|---|-------|-----|---------|---------------|
-| 1 | ~63 | UND-KETTE | 7x "und" in einem Satz | Aufbrechen: Punkte statt "und" |
-| 2 | ~37 | BANDWURM | 2 Bandwürmer hintereinander, kein Stakkato | Fragment einfügen |
-| 3 | ~67 | EMOTION | "kein Schmerz, keine Angst" benennt Emotionen | Nur Körperbild: "der Moment bevor man fällt" |
+Pflicht-Format: Block-Format aus `buch/_findings-format.md`. Jedes Finding strukturiert:
+
+```
+### S{NN} — Z.{NN} [{TAG}]
+
+**vorher:**
+> {1 Satz davor}
+> {betroffene Stelle}
+> {1 Satz danach}
+
+**nachher:**
+> {1 Satz davor unverändert}
+> {neue Stelle / [STREICHEN]}
+> {1 Satz danach unverändert}
+
+**warum:** {1 Satz mit Master-Verweis (z.B. `02-stilregeln-v2.md` Antithese, `01-autorin-stimme.md` §8 Aphorismen)}
+```
+
+Tags: `[PFLICHT]` / `[TIC]` / `[STIL?]` (Definitionen siehe `_findings-format.md`). Funktional-Filter PFLICHT vor jedem Tag.
 
 ### Sauber
 - [Was gut funktioniert — Leitmotive, Sinne, Rhythmus-Stellen die sitzen]

@@ -109,7 +109,7 @@ Komplementär zu `pov/runa-schreibblatt.md` (schreib-aktive Bausteine, Magie-Mec
 >
 > Sie sass still und sah ihn an. Den Abdruck kannte sie schon.
 >
-> Maren hatte heute morgen den Arm kürzer gezogen und nichts gesagt. Maren hatte gewusst, was Runa war.
+> Maren hatte heute morgen den Arm wieder weggenommen und nichts gesagt. Maren hatte gewusst, was Runa war.
 
 **Was sie verkörpert:**
 - **Rhythmus:** ruhige Beobachtungs-Sätze (10–25 W), zwei Hammer („Sie ruhten." / „Den Abdruck kannte sie schon."). Vorfeld-Inversion am Anfang („Jetzt hielt sie...") und am Schluss („Was sie waren, wusste sie." / „Den Abdruck kannte sie schon.") bricht den „Sie..."-Anapher-Reflex.

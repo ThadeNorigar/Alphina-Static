@@ -209,7 +209,7 @@ Sie schaute auf ihre Hände, sah sie einen Atemzug an. Dann ließ sie sie sinken
 
 „Ich konnte ihn nicht hochheben. Ich bin rausgerannt." Die Hand fuhr zur Wunde über der Augenbraue. „Türrahmen."
 
-Maren trat zu ihr, legte einen Arm um Runas Schultern. Zog ihn einen Atemzug später kürzer — Runa glühte. Maren sah Alphina einmal an, dann zurück zu Runa, sagte nichts.
+Maren trat zu ihr, legte einen Arm um Runas Schultern. Nahm ihn einen Atemzug später wieder weg — Runa glühte. Maren sah Alphina einmal an, dann zurück zu Runa, sagte nichts.
 
 „Komm zum Brunnen. Setz dich."
 

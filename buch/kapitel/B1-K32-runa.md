@@ -86,7 +86,7 @@ Sie klaubte einen Bleilettern-Block aus dem Setzkasten — ein A für ein Plakat
 
 Sie sass still und sah ihn an. Den Abdruck kannte sie schon.
 
-Maren hatte heute morgen den Arm kürzer gezogen und nichts gesagt. Maren hatte gewusst, was Runa war.
+Maren hatte heute morgen den Arm wieder weggenommen und nichts gesagt. Maren hatte gewusst, was Runa war.
 
 ---
 
@@ -128,7 +128,7 @@ Sie kannte den Kreis. Was sie im Erntemond gesehen hatte, hatte sie als Botanike
 
 Im Blütenmond, beim Abschied am Setzkasten, hatte Alphina sie ein zweites Mal umarmt, fester als die erste. Ihre Hand auf Runas Schulter blieb einen Atemzug zu lang. Runa hatte sie damals als Wohlwollen verbucht. Jetzt wusste sie es besser. Alphina hatte durch den Mantel die Hitze gespürt und den Mund gehalten.
 
-Maren hatte heute morgen an der Sattlerstrassen-Mündung den Arm kürzer gezogen, ohne hinzusehen — sie hatte gewusst, was Runa unter der Wolle war.
+Maren hatte heute morgen an der Sattlerstrassen-Mündung den Arm wieder weggenommen, ohne hinzusehen — sie hatte gewusst, was Runa unter der Wolle war.
 
 In ihrer Brust suchte Runa nach der Wärme, die hochsteigt, wenn etwas falsch läuft. Die Brust blieb kühl. Die Vier hatten geschwiegen, weil sie sich erst sicher sein wollten. Solange sie etwas vermuteten, warteten sie ab. Sie kannte die Vier gut genug, um das zu lesen.
 

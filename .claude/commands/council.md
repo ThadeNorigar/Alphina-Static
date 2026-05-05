@@ -2,6 +2,8 @@
 
 Reviewe ein Kapitel oder eine Szene von "Der Riss" mit 3 spezialisierten Agenten.
 
+**Findings-Format-Pflicht:** Master = `buch/_findings-format.md`. Jeder Agent gibt Findings im Block-Format mit Vorher/Nachher und Satz-Kontext aus (Satz davor + Stelle + Satz danach), Tag aus `[PFLICHT]`/`[TIC]`/`[STIL?]`, „warum" mit Master-Verweis. Genre-Leserin-Stimme zusätzlich Pflicht-Lob-Tabelle (≥5 starke Stellen). Synthese-Master-Tabelle in 3 Bloecken (PFLICHT/EMPFEHLUNG/STIL-VORBEHALT) — kein Verkuerzen auf Mini-Spalten.
+
 ## Input
 
 Argument: Pfad zur Datei (z.B. `buch/kapitel/02-szene1.md`)

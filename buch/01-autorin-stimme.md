@@ -133,17 +133,26 @@ Das wichtigste Werkzeug, das bisher FEHLT. Die Figuren sind zu analytisch — si
 
 **Wonach es sich anfühlt:** SenLinYu: „The body wanted what the mind refused to name." Gibson: „You filled every room until there was no air left."
 
-## 4. Begehren — Vier Register für vier POVs
+## 4. Begehren — Direkt im Körper, mit POV-Tendenzen (revidiert Mai 2026)
 
-Das Begehren-Vokabular muss so differenziert sein wie die Berufslinsen:
+**Default ist direkter Körper:** Hände, Atem, Bauch, Mund, Kehle, Nacken, Handflächen. Yarros/Maas/Réage zeigen Begehren über greifbare Körper-Beats, nicht über Bildfeld. Erst wenn der direkte Beat steht, darf die POV-Tendenz unten dazukommen — als Würze, nicht als Pflicht-Filter. Bildfeld als Pflicht-Linse hat in der Vergangenheit zu konstruierten Sätzen geführt („Wurzeln, die sich ausbreiten, wo sie es nicht wollte").
 
-**Alphina:** Begehren als INVASION. Etwas wächst in ihr, unkontrolliert, wie Wurzeln. Sie will nicht wollen. Ihr Körper verrät sie durch: Wärme in den Handflächen, Atem der sich vertieft, Farne die reagieren bevor sie es tut. Innerer Krieg: Kontrolle vs. Freifall.
+**POV-Tendenzen (verfügbar, nicht verpflichtend):**
 
-**Sorel:** Begehren als BILD. Er sieht sie, bevor er sie berührt. Die Kamera im Kopf: Lichteinfall auf ihrer Schulter, der Winkel ihres Kinns, Tonwerte ihrer Haut. Sein Begehren ist visuell und still — er SCHAUT und kann nicht aufhören.
+**Alphina:** Wärme in den Handflächen, Atem der sich vertieft, Hände an Erde/Holz/Stoff. Innenkonflikt: sie will nicht wollen, und der Körper macht trotzdem. *Tendenz Wachstum/Invasion ist erlaubt, wenn das Bild konkret bleibt (eine Wurzel an einem Ort) — nicht als reflexhafte Wurzel-Metapher in jeder Nähe-Szene.*
 
-**Vesper:** Begehren als TAKT. Er spürt ihren Rhythmus — Atem, Puls, die Frequenz ihrer Unruhe. Kontrolle als Erotik: er gibt wenig und es reicht. Sein Begehren zeigt sich durch Stille und Präzision, nicht durch Impuls.
+**Sorel:** Augen halten zu lange, Blick nicht wegkriegen, Hand am Apparat statt am Körper. Begehren visuell und still — er SCHAUT. *Tendenz Bild/Licht erlaubt, wenn an konkretem Detail (Schulter, Kinnlinie, Lichtkante an der Lippe) — nicht als Tonwert-/Belichtungs-Vokabular auf Haut, das ist Berufslinsen-Bruch.*
 
-**Maren:** Begehren als STRÖMUNG. Etwas fließt in eine Richtung, die sie nicht gewählt hat. Ihre Hände werden ruhig statt unruhig. Surrender zeigt sich durch Stillwerden, nicht durch Bewegung. Yearning: der Schmerz des Noch-Nicht.
+**Vesper:** Atemrhythmus mitzählen, knappe Imperative, gehaltene Hand. Begehren über Stille und Präzision — er gibt wenig und es reicht. *Tendenz Takt/Mechanik erlaubt; ausdrücklich nicht als dauerhafte Hemmung-Unruh-Metapher (siehe Verbot in Stilregeln BDSM-Sektion).*
+
+**Maren:** Hände werden ruhig statt unruhig, das Holz unter ihrer Hand wird wichtig, sie bleibt stehen wo sie sonst weiterginge. Surrender als Stillwerden. *Tendenz Strömung/Wasser erlaubt, wenn an konkretem Material (Pegel, Tau, Werftsalz, Holzfaser) — nicht als abstrakte Drift.*
+
+**Test pro Begehren-Beat:**
+1. Trägt der direkte Körperbeat (Hand, Atem, Bauch, Mund) allein? Wenn ja — POV-Tendenz weglassen.
+2. Wenn der Beat ohne Tendenz blass wird: Tendenz einbauen, aber mit konkretem Material/Körperteil als Boden.
+3. Verständlichkeit (Stilregeln Sektion 0) gewinnt. Wenn die Tendenz den Satz verquaselt — Tendenz raus, Körper bleibt.
+
+**Verbot (bleibt):** Dasselbe Bildfeld dreimal im selben Kapitel verwenden. Variation Pflicht, Tic verboten. Wenn Alphina dreimal „Wurzeln" begehrt, ist das Tic.
 
 ## 5. Erotik-Regeln
 
@@ -174,29 +183,36 @@ Das Begehren-Vokabular muss so differenziert sein wie die Berufslinsen:
 
 Commercial Dark Romantasy lebt von sinnlicher Sprache. Die Anti-Pattern-Sektion (§7) sagt, **welche** Adjektive verboten sind — diese Sektion sagt, **wo** Adjektive Pflicht sind. Beide Regeln zusammen ergeben den commercial Ton: Yarros/Maas/Robert/Réage benutzen Adjektive reichlich, aber nur konkrete sinnliche; Label-Adjektive sind Erzähler-Faulheit.
 
-### Sinnes-Adjektiv-Pflichtstellen (mindestens ein konkretes Sinnes-Adjektiv pro Stelle)
+### Sinnes-Adjektiv-Tendenzstellen (revidiert Mai 2026: keine Pflicht-Quote)
 
-1. **Erste Berührung im Beat** — wenn die Figur etwas anfasst, schmeckt, riecht: Material + Temperatur + Textur konkret. *„Sie legte die Hand auf den warmen, feuchten Stein"* (statt *„Sie legte die Hand auf den Stein"*).
+An diesen Stellen ist ein konkretes Sinnes-Adjektiv **oft hilfreich, aber keine Pflicht**. Yarros/Maas/SenLinYu nutzen Adjektive reichlich — aber nur, wenn das Substantiv eines braucht. Pflicht-Quote pro Absatz führte bei uns zu gestopften Sätzen und Doppel-Adjektiven („den warmen, feuchten Stein").
 
-2. **Szenen-Eröffnung (Ort/Luft/Licht)** — die ersten ~50 Wörter brauchen 1-2 sinnliche Anker. Pflastersteine *kalt*, Nebel *dicht*, Lampenöl-Geruch, *nasses* Laub.
+1. **Erste Berührung im Beat** — wenn die Figur etwas anfasst, schmeckt, riecht: Material + Temperatur + Textur darf konkret werden. *„Sie legte die Hand auf den warmen Stein"* ist meist genug; das zweite Adjektiv nur wenn beide tragen.
 
-3. **Magie-Manifest** — wenn Resonanz wirkt, konkrete sinnliche Beobachtung Pflicht (warm, pulsierend, klebrig, salzig, schwitzend). Sonst wirkt Magie abstrakt. *„Der Stein war warm, feucht, gleichmäßig perlend"* statt *„Der Stein reagierte"*.
+2. **Szenen-Eröffnung (Ort/Luft/Licht)** — die ersten ~50 Wörter dürfen 1-2 sinnliche Anker tragen. Wenn der Plot-Hook stark ist (siehe Positioning Sektion 9), darf die Atmosphäre auch ohne Adjektiv funktionieren.
 
-4. **Heat/Nähe-Moment** — Anatomie + Adjektiv konkret (hart, weich, feucht, glatt, rauh, heiß). Réage-Material-Präzision. Auch nicht-explizite Nähe (Hand auf Schulter, Atem im Nacken) braucht 1 Sinnes-Adjektiv.
+3. **Magie-Manifest** — wenn Resonanz wirkt, konkrete sinnliche Beobachtung. Aber: ein präzises Verb (*„dampfte"*, *„perlte"*, *„glühte"*) ist oft stärker als Adjektiv-Stapel. Verb-Präzision schlägt Adjektiv-Quote.
 
-5. **Horror/Leichenfund** — fremder Geruch, kalte Haut, *graue* Lippen, *raue* Stoppel. Sinnlich-konkret, nicht Pathos. *„Er war einfach aufgehört zu sein"* + *„Die Luft über ihm flimmerte schwach"* tragen mehr als jede Klage.
+4. **Heat/Nähe-Moment** — Anatomie + Adjektiv konkret, wenn das Material es trägt (Réage). Auch nicht-explizite Nähe darf ein Adjektiv tragen, muss aber nicht.
 
-6. **POV-Lieblingswörter (mindestens 3× pro Kapitel)** — pro POV existiert ein Register-Set, das mindestens dreimal auftauchen sollte:
+5. **Horror/Leichenfund** — fremder Geruch, kalte Haut. Sinnlich-konkret statt Pathos. *„Er war einfach aufgehört zu sein"* trägt allein, ohne Adjektiv-Polster.
+
+6. **POV-Lieblingswörter (Tendenz, nicht Quote)** — pro POV existiert ein Register-Set, das **gerne** wiederkehrt, aber nicht zwanghaft:
    - **Maren:** *stetig, gleichmäßig, satt, warm, dicht, eng, Lücke*
    - **Alphina:** Wachstums-/Pflanzen-Register (knospen, schwellen, anders blass, frischer Schnitt, würzig, *grün*)
    - **Sorel:** Licht-/Belichtungs-Register (Schein, Schimmer, *hell*, *gedämpft*, scharf gerandet, weich gestreut)
    - **Vesper:** Mechanik-Register (*gleichmäßig*, *präzise*, in Takt, ohne Spiel, sauber gegossen, glatt geschliffen)
    - **Runa:** Wärme-/Material-Register (*warm*, *weich*, *gleichmäßig*, dicht gewoben, satt, leicht)
 
-### Faustregel beim Schreiben (pro Absatz)
+   Wenn ein POV-Wort dreimal im selben Kapitel wiederholt wird, ohne dass es jedes Mal trägt, wird's Tic — variieren oder weglassen.
 
-- **Mindestens ein konkretes Sinnes-Adjektiv pro Absatz**, das aus mindestens einem dieser Register stammt: Geruch, Tastsinn, Geschmack, Temperatur, Textur, Lautstärke, Lichtqualität.
-- An jeder Tür, jedem Erstkontakt, jedem Material-Wechsel: *„Wie fühlt sich das an?"* → Adjektiv setzen.
+### Faustregel beim Schreiben (revidiert Mai 2026)
+
+- Adjektive werden gesetzt, **wenn das Substantiv eines braucht** — nicht nach Quote pro Absatz. Yarros/Maas/SenLinYu nutzen Adjektive reichlich, aber nur wenn sie tragen. Pflicht-Quote führt zu gestopften Sätzen.
+- An Erstkontakt mit Material/Person/Raum ist ein konkretes Adjektiv meist hilfreich, aber nicht erzwungen.
+- **Default: lieber kein Adjektiv als ein Label-Adjektiv** (siehe Verbot-Tabelle unten).
+- Ein präzises Verb schlägt Adjektiv-Stapel. *„dampfte"* > *„stand ein heißer dampfender Becher"*.
+- Verständlichkeit (Stilregeln Sektion 0) schlägt Sinnes-Adjektiv-Tendenz. Wenn das Adjektiv den Satz überfrachtet — weglassen.
 
 ### Label-Adjektiv/Adverb-Verbot (HART)
 

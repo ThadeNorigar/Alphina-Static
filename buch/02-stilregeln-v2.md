@@ -4,6 +4,27 @@
 
 **Ziel des Projekts:** commercial Dark Fantasy + Romantasy + BDSM (Yarros, Maas, Robert, Rampling, Simone, Kennedy) mit literary Handwerks-Disziplin (King, Kuang). Réage als Primär-Register nur im Vesper/Maren-BDSM-Strang. Siehe `00-positioning.md` und `01-autorin-stimme.md` Abschnitt 1.
 
+## 0. Verständlichkeit zuerst (Mai 2026)
+
+**Jeder Satz muss beim ersten Lesen verstanden werden.** Das ist die einzige Regel, die alle anderen schlägt. Wenn ein Satz Verständlichkeit opfert für Material, Vorfeld, Bildfeld, Rhythmus oder Konkretheit — ist der Satz falsch. Yarros, Maas, SenLinYu (deutsche Übersetzung), Réage produzieren beim ersten Lesen keine „hä?"-Sätze. Auch nicht in Magie-, BDSM-, Trauma-Beats. Verständlichkeit ist Mindeststandard, nicht Stilfrage.
+
+**Test pro Satz (Mündlicher Lese-Test):**
+1. **Aussprechen** (mental). Stockt der Sprecher? → umschreiben.
+2. **Pronomen-Check.** Ist klar, worauf jedes „er/sie/es/das" referiert?
+3. **Vorgangs-Check.** Bei Magie/Bewegung/Wandel: ist das Bild konkret (sichtbar, greifbar)?
+4. **Verb-Check.** Trägt das Verb? Oder ist es ein leeres Verb („schickte das Licht", „hielt den Willen"), das ein Bild ersetzt?
+5. **Logik-Check.** Folgt der Satz aus der Welt-Logik?
+
+**Wenn auch nur einer dieser Tests scheitert, wird der Satz gestrichen oder umgeschrieben — nicht verschönt, nicht ergänzt.** Ausführlicher Verquastungs-Katalog mit Beispielen in der Sektion „Verquastungs-Test" weiter unten.
+
+**Vorrang-Hierarchie bei Konflikten:**
+1. Verständlichkeit (diese Sektion)
+2. Konkretheit (Material, Ding vor Bild)
+3. Stil (Vorfeld, Negation, Verb-Präzision, Rhythmus)
+4. Atmosphäre (Bildfeld, POV-Tendenzen)
+
+Bei Konflikt zwischen Stufen gewinnt die niedrigere Nummer. Ein Material-Reicher Satz, der „hä?" produziert, ist falsch. Ein simpler verständlicher Satz ohne Material-Streusel ist richtig.
+
 ## Harte Limits (weiterhin streng)
 
 | Muster | Max pro Kapitel |
@@ -257,6 +278,20 @@ Gedanke stockt, springt, kehrt zurück, korrigiert sich selbst. **Das IST der Ko
 Erinnerungen werden **durch konkreten Reiz im Jetzt** ausgelöst — Geruch, Berührung, Geräusch. Nie als saubere Rampe (`sie erinnerte sich an den Tag, an dem...`).
 
 Eine Geste im Jetzt öffnet ein Bild aus dem Damals. Beides im selben Absatz, beides im Präteritum. Die Erinnerung steht als Tatsache im Strom und verschwindet wieder.
+
+**Technik (SenLinYu, Maas — Mai 2026):**
+
+1. **Sinnes-Anker im Jetzt** (Geruch von Qualm, Knacken von Holz, Salz auf der Lippe, das Brennen einer Lampe).
+2. **Erinnerung als 1-3 Sätze**, im Präteritum, ohne Marker (kein „sie dachte zurück", kein „in jenem Sommer..."), ohne Übergangs-Floskel.
+3. **Jetzt läuft weiter** — der nächste Satz ist wieder Gegenwart der Szene, oft mit einem Reiz, der zurückzieht (Fingerschnippen, Stimme, Schritt).
+
+**Beispiel SLY:** Helena im Verhör, riecht Qualm — *„Sie roch immer noch den Qualm und das Blut in der Sommerhitze, hörte den lautstarken Jubel, als die Anführer des Widerstands starben"* — dann Fingerschnippen vor ihrem Gesicht, zurück im Verhör.
+
+**Beispiel JM:** Nesta hört das Knacken eines Holzscheits → *„das brechende Genick ihres Vaters"* (drei Wörter, kein Block, dann läuft die Szene weiter).
+
+**Limit:** Erinnerungs-Einbruch max **2-3 Sätze** pro Trigger. Längere Rückblende = eigene Szene mit Kapitelschnitt, nicht Einbruch.
+
+**Verboten:** Mehrfach denselben Reiz als Erinnerungs-Trigger benutzen. Wenn Maren beim Werftsalz dreimal an dieselbe Sache erinnert wird, wird der Trigger Tic.
 
 ### Sorel-Prinzip auch innerlich
 
@@ -568,7 +603,7 @@ Stilmittel sind **DEFAULT VERBOTEN** bis sie bewusst freigegeben werden. Die fol
 
 | Regel | Limit |
 |-------|-------|
-| Material-Erstnennung pro Absatz | **min. 1** benanntes Ding (Kupfer, Leinen, Birkenrinde, Messing, Kalkstein, Ruß, Tusche, Talg, Zinn, Schiefer, etc.) |
+| Material-Erstnennung pro Szene (~3-5 Absätze) | **min. 1** benanntes Ding (Kupfer, Leinen, Birkenrinde, Messing, Kalkstein, Ruß, Tusche, Talg, Zinn, Schiefer, etc.). Material kommt, wenn die Hand es greift, der Plot es braucht oder eine Erst-Wahrnehmung es trägt — **nicht** als Pflicht-Streusel pro Absatz. (Revidiert Mai 2026: pro-Absatz-Pflicht führte zu gestopften Sätzen.) |
 | Abstrakte Nomina pro Absatz (Stille, Kälte, Schwere, Leere, Ferne, Ewigkeit, Dunkelheit, Unendlichkeit, Unheimliches, Abgrund, Raum als Metapher) | **max. 1** |
 | Abstraktum + Abstraktum in einem Satz (*"die Stille des Abgrunds"*, *"die Kälte der Leere"*) | **0** |
 | Metapher ohne Boden (Bild ohne schon benanntes Ding) | **0** |
@@ -589,8 +624,8 @@ Jeder POV hat sein Material-Register, das beiläufig auftaucht:
 
 ### Tests
 
-**Ding-Test (pro Absatz):**
-> Zeige mir ein benanntes Material im Absatz. Wenn keins da ist — fehlt Konkretheit.
+**Ding-Test (pro Szene, ~3-5 Absätze):**
+> Hat die Szene mindestens ein konkret benanntes Material an einer Stelle, an der die Figur es greift, sieht, riecht? Wenn nein — fehlt Konkretheit. Nicht jeder Absatz braucht ein Material; eine Hand-am-Ding pro Szene reicht oft. Übertriebenes Material-Streueln macht Sätze gestopft und schadet der Verständlichkeit (siehe Sektion 0).
 
 **Stäubchen-Test:**
 > Wenn eine Handwerkerin den Text liest — kann sie das Ding auf der Seite greifen, riechen, wiegen? Wenn nur "Gefühl" da ist, ist der Absatz zu abstrakt.
@@ -646,17 +681,21 @@ In Szenen mit körperlicher Nähe oder BDSM ist **bildlastige Prosa erlaubt und 
 
 **Geschmacks-Pflicht bleibt hart:** Jede Nähe-Szene braucht Geschmack (Salz, Metall, Wein, Haut, Blut, Öl).
 
-### Sub-Empfindung statt Dom-Handlung (April 2026)
+### Sub-Empfindung darf folgen, ist aber keine Pflicht-Quote (April 2026, revidiert Mai 2026)
 
-In Szenen der körperlichen Nähe — besonders mit Machtgefälle — muss die **gefühlte Empfindung der Sub** hörbar werden, nicht nur die Handlung der Dom-Figur. *"Seine Finger lagen an ihrem Rücken"* ist Beobachtung von außen. *"Sie spürte seine Finger als Wärmepunkte, die die Haut durchlasen"* ist Empfindung von innen.
+Réage zeigt Dom-Handlung **durch Material, Befehl, Hitze, Druck** — die Empfindung der Sub ergibt sich, ohne dass jeder Beat eine Innen-Erklärung kriegt. *"Seine Finger lagen an ihrem Rücken"* darf so stehen, wenn der Beat trägt. Innen-Echo ist erlaubt, aber kein Pflicht-Anbau.
 
-**Schlecht:**
+**Wenn Innen-Echo, dann konkret:**
+> Er fuhr mit dem Daumen über ihre Kehle. Der Druck wanderte den Hals hinauf, blieb unter dem Kiefer stehen.
+
+**Wenn Außen reicht, dann Außen:**
 > Er fuhr mit dem Daumen über ihre Kehle.
 
-**Gut:**
-> Er fuhr mit dem Daumen über ihre Kehle. Der Druck wanderte den Hals hinauf, blieb unter dem Kiefer stehen, und die Luft staute sich dort wo sein Finger lag.
+**Default:** Nicht jeder Dom-Beat braucht Sub-Spur. Die Pflicht-Quote (mind. 2 Beats pro Szene) ist gestrichen — sie produzierte Brei und Doppelung. Réage-Disziplin ist **Außen zeigt Innen**, nicht Innen erklärt Außen.
 
-**Pflicht in Nähe-/BDSM-Szenen aus Sub-POV:** Mindestens 2 Beats pro Szene, die die **Spur** der Dom-Handlung auf/in der Sub zeigen — Druckverteilung, Wärme, Atem, Haut-Erinnerung danach. Nicht nur wo die Hand ist — wie die Haut sie trägt.
+**Bleibt:** Wenn die Szene aus Sub-POV erzählt wird, darf Empfindung kommen, aber nicht als Jedes-Mal-Anhang. Körperreaktion an der Stelle, wo sie nicht selbsterklärend ist (z.B. wenn der Druck etwas tut, das die Sub nicht erwartet hat — Atem stockt, Haut gänsehaut, Hände greifen). An der Stelle, wo die Handlung selbst trägt, **kein Innen-Echo**.
+
+**Test pro Dom-Beat:** Trägt der Außen-Beat allein das, was die Szene braucht? Wenn ja — kein Innen-Echo. Wenn der Beat ohne Innen blass wird, einbauen, aber präzise (Druckverteilung, Atem, Haut), nicht ausgewalzt.
 
 ### Kein stilisiertes Berufs-Register in BDSM
 

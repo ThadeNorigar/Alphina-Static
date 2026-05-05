@@ -2,6 +2,8 @@
 
 Reviewe eine Leseprobe, Szene oder Kapitel-Eröffnung gegen das **95%-Commercial-Gate** aus `buch/00-positioning.md` Abschnitt 9. Fünf Ziel-Leserinnen-Archetypen lesen, urteilen in-character, bepunkten die Marktfähigkeit im Genre.
 
+**Findings-Format-Pflicht:** Master = `buch/_findings-format.md`. Jede Leserinnen-Stimme (LINA/NORA/MEIKE/VICTORIA/KAYA) gibt Findings im Block-Format mit Vorher/Nachher und Satz-Kontext aus, Tag aus `[STIL?]`/`[TIC]` (Genre-Findings haben nie Pflicht-Charakter), „warum" aus Leserinnen-Sicht. Pflicht-Lob-Tabelle (≥5 starke Stellen) je Stimme. Synthese-Master-Tabelle in 3 Bloecken — kein Verkuerzen auf Mini-Spalten.
+
 **Abgrenzung:**
 - **Kein Canon-Check.** Dafür `/council`.
 - **Kein Stil-Check im Detail.** Dafür `/stil-check`.

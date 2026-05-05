@@ -2,6 +2,8 @@
 
 Parallele Explore-Agenten prüfen jede Haupt-/Nebenfigur auf Wissens-Lücken, Premature Doubt, zeitliche/räumliche Logik, Charakterkonsistenz, Plot-Lücken und "Hä?"-Momente über alle Kapitel, in denen die Figur auftaucht.
 
+**Findings-Format-Pflicht:** Master = `buch/_findings-format.md`. Konsistenz-/Logik-Findings im Block-Format mit Vorher/Nachher und Satz-Kontext. Tag immer `[PFLICHT]` (Konsistenz-Bugs sind keine Geschmacksfragen). „warum" mit Quell-Kapitel-Verweis (Z.X in B1-K{NN}-{figur}.md).
+
 ## Input
 
 `$ARGUMENTS`:
