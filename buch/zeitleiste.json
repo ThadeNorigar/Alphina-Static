@@ -3358,10 +3358,11 @@
         "Schwellenforschungsgesellschaft",
         "Vael 1990"
       ],
-      "tz": 1990,
+      "tz": 721,
       "tz_sort": 776.0,
-      "tz_datum": "MZ 5.52 (Dravon) · 1990 TZ",
-      "kapitel_status": "idee"
+      "tz_datum": "1990 UZ · TZ 721 · 6. Gormath 3635 MZ",
+      "kapitel_status": "idee",
+      "uz": 1990
     },
     {
       "mz": 5.65,
@@ -3406,10 +3407,11 @@
         "Tyra Halvard",
         "2020 TZ"
       ],
-      "tz": 2020,
+      "tz": 751,
       "tz_sort": 784.0,
-      "tz_datum": "MZ 5.78 (Nyrkel) · 2020 TZ",
-      "kapitel_status": "idee"
+      "tz_datum": "2020 UZ · TZ 751 · 3. Nyrath 3635 MZ",
+      "kapitel_status": "idee",
+      "uz": 2020
     },
     {
       "tz": 784,
@@ -3509,10 +3511,11 @@
         "Expedition 1 Start",
         "Vael 2019"
       ],
-      "tz": 2019,
+      "tz": 750,
       "tz_sort": 808.0,
-      "tz_datum": "MZ 6.56 (Dravon) · 2019 TZ",
-      "kapitel_status": "idee"
+      "tz_datum": "2019 UZ · TZ 750 · 2. Nyrath 3635 MZ",
+      "kapitel_status": "idee",
+      "uz": 2019
     },
     {
       "mz": 6.69,
@@ -3531,10 +3534,11 @@
         "Expedition 1 scheitert",
         "Tyra allein"
       ],
-      "tz": 2037,
+      "tz": 768,
       "tz_sort": 812.0,
-      "tz_datum": "MZ 6.69 (Gormath) · 2037 TZ",
-      "kapitel_status": "idee"
+      "tz_datum": "2037 UZ · TZ 768 · 22. Nyrath 3635 MZ",
+      "kapitel_status": "idee",
+      "uz": 2037
     },
     {
       "mz": 6.82,
@@ -3642,10 +3646,11 @@
         "Syra Halvard 15",
         "2037 TZ"
       ],
-      "tz": 828,
+      "tz": 768,
       "tz_sort": 828.0,
-      "tz_datum": "MZ 7.21 · TZ 828",
-      "kapitel_status": "idee"
+      "tz_datum": "2037 UZ · TZ 768 · 22. Nyrath 3635 MZ",
+      "kapitel_status": "idee",
+      "uz": 2037
     },
     {
       "mz": 7.34,
@@ -3870,10 +3875,11 @@
         "Kelvar Velkan",
         "2080 TZ"
       ],
-      "tz": 2080,
+      "tz": 811,
       "tz_sort": 872.0,
-      "tz_datum": "MZ 8.64 (Gormath) · 2080 TZ",
-      "kapitel_status": "idee"
+      "tz_datum": "2080 UZ · TZ 811 · 32. Shelkam 3635 MZ",
+      "kapitel_status": "idee",
+      "uz": 2080
     },
     {
       "mz": 8.77,
@@ -3913,10 +3919,11 @@
         "Expedition 2 Plan",
         "Resonanz-Modulator"
       ],
-      "tz": 2110,
+      "tz": 841,
       "tz_sort": 880.0,
-      "tz_datum": "MZ 8.90 (Vethash) · 2110 TZ",
-      "kapitel_status": "idee"
+      "tz_datum": "2110 UZ · TZ 841 · 29. Torash 3636 MZ",
+      "kapitel_status": "idee",
+      "uz": 2110
     },
     {
       "mz": 9.03,
@@ -4046,10 +4053,11 @@
         "2120 TZ",
         "Kelvar Velkan"
       ],
-      "tz": 900,
+      "tz": 851,
       "tz_sort": 900.0,
-      "tz_datum": "MZ 9.55 · TZ 900",
-      "kapitel_status": "idee"
+      "tz_datum": "2120 UZ · TZ 851 · 4. Ashral 3636 MZ",
+      "kapitel_status": "idee",
+      "uz": 2120
     },
     {
       "mz": 9.68,
@@ -4107,10 +4115,11 @@
       "tags": [
         "Expedition 2 Aufbruch"
       ],
-      "tz": 2120,
+      "tz": 851,
       "tz_sort": 912.0,
-      "tz_datum": "MZ 9.94 (Vethash) · 2120 TZ",
-      "kapitel_status": "idee"
+      "tz_datum": "2120 UZ · TZ 851 · 4. Ashral 3636 MZ",
+      "kapitel_status": "idee",
+      "uz": 2120
     },
     {
       "mz": 10.07,
@@ -4243,10 +4252,11 @@
         "Magie weg",
         "2153 TZ"
       ],
-      "tz": 932,
+      "tz": 883,
       "tz_sort": 932.0,
-      "tz_datum": "MZ 10.59 · TZ 932",
-      "kapitel_status": "idee"
+      "tz_datum": "2152 UZ · TZ 883 · 3. Keldath 3636 MZ",
+      "kapitel_status": "idee",
+      "uz": 2152
     },
     {
       "mz": 10.72,
@@ -4285,10 +4295,11 @@
         "Magie weg",
         "Farn still"
       ],
-      "tz": 2155,
+      "tz": 886,
       "tz_sort": 940.0,
-      "tz_datum": "MZ 10.85 (Nyrkel) · 2155 TZ",
-      "kapitel_status": "idee"
+      "tz_datum": "2155 UZ · TZ 886 · 6. Keldath 3636 MZ",
+      "kapitel_status": "idee",
+      "uz": 2155
     },
     {
       "mz": 10.98,
