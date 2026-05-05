@@ -292,10 +292,11 @@
       },
       "34": {
         "titel": "Alle",
-        "pov": "Alle",
-        "status": "idee",
+        "pov": "Multi-POV (Vesper Sz1, Alphina Sz2, Maren+Sorel Sz3)",
+        "status": "entwurf",
         "woerter": null,
-        "text": "Letzte Nacht in Vael (1. Dunkelmond 551 Abend). Vesper und Jara haben das Ritual übersetzt: vier Resonanzen, Steinkreis, Einweg-Portal. Runa: 'Ich komme mit.' Vesper widerspricht — logisch, kalt. Alphina entscheidet: sie kommt mit. Niemand ist begeistert."
+        "text": "Letzte Nacht in Vael (1. Dunkelmond 551 Abend). Vesper und Jara haben das Ritual übersetzt: vier Resonanzen, Steinkreis, Einweg-Portal. Runa: 'Ich komme mit.' Vesper widerspricht — logisch, kalt. Alphina entscheidet: sie kommt mit. Niemand ist begeistert.",
+        "entwurfs_datei": "B1-K34-entwurf.md"
       },
       "35": {
         "titel": "Maren",
