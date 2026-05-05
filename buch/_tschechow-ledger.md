@@ -31,7 +31,7 @@ Zentrales Tracking von Plant→Payoff-Beziehungen. **Single Source of Truth** f�
 | TZ-008 | Schritte über Sorels Keller in der Nacht | K02 | (offen B2/B3) | geladen | Verfolgungs-Setup, möglicher Schemen-Anker |
 | TZ-009 | Schwarzer Schachturm, immer kalt | K03 | K18 (warm), K35 (Initiation), K35-Hemd-Saum, B2 | abgefeuert | Vespers Resonanz-Indikator; Glutmond-Übergabe an Maren; B2 Trennungs-Schmerz |
 | TZ-010 | Bauerndiagonale (Schach-Trauma mit 19) | K03 | K18, K35 | abgefeuert | Vespers Mustererkennungs-Anker; in K35 erinnert |
-| TZ-011 | 4:33 / 273 Sekunden Tidemoor-Uhr-Verlust | K03 | K07, K11, K33, K34, K37, K40 | abgefeuert | Portal-Takt, Varens Signatur; K40-Epilog: Uhr wieder kaputt |
+| TZ-011 | 4:33 / 273 Sekunden Tidemoor-Uhr-Verlust + Karst-26-Uhren-Stillstand | K03 | K07, K11, K33 (Quellen-Frequenz erkannt + Karst-Beat rueckwirkend eingeordnet), K34, K37, K40 | abgefeuert | Portal-Takt, Quellen-Eigenfrequenz; K33: Karst-Schliessung (passive Vorform); K40-Epilog: Uhr wieder kaputt |
 | TZ-012 | Fremder Mann ohne Handwerkerhände (in Karst) | K03 | K06+ (Lichthaus-Vormieter), B2 | geladen | Moragh-Einwanderer, Varens Agent — Auflösung in B2 |
 | TZ-013 | Harons 61 Briefe + halbfertiges Boot | K04 | K08, K20, K34 (warte auf mich), B2/B3 | abgefeuert | Boot wird nachts von Schemen weitergebaut; in K34 wartet das Boot in Vael |
 | TZ-014 | Harons Bleistift, kurz, abgebrochene Spitze | K04 | (offen) | geladen | Mögliches Tagebuch-Indiz für Haron-Geheimnis |
@@ -186,10 +186,15 @@ Zentrales Tracking von Plant→Payoff-Beziehungen. **Single Source of Truth** f�
 | TZ-148 | Portal öffnet sich 4:33 | K37 (geplant) | (Setup für Buch-Strukturpunkt) | geplant | Einweg, Portal-Mechanik |
 | TZ-149 | Sorels Bündelung mit Verletzungs-Wirkung | K30, K31 | B2 (Sorel als Sonderwaffe) | abgefeuert (B1) / geplant (B2) | Sorels einzige Offensiv-Anwendung |
 | TZ-150 | Halvards Rationalismus | K09, K26, K30 | K37, K40, B2 Ende (Bericht) | geplant | Wissenschaftler-als-Zeuge-Bogen |
+| TZ-151 | Vier-Werke-Kollektiv-Experiment (Werkbank-Pendule + drei Justier-Pendel synchronisiert + als Ein-Vorgang gesteuert) | K33 | K37 (Vier-Resonanzen-Ritual als Kollektiv-Schwingung), B2 (Kollektiv-Magie-Akte mit Maren) | geplant | Vespers erste bewusste Kollektiv-Anwendung; pflanzt Magie-Mechanik fuer Ritual |
+| TZ-152 | Drei-Spalten-Bogen (Vesper-Drift × Maren-Gezeiten × Runa-Sichtungen) | K33 | K34 (Vesper bringt Bogen zum Treffen, alle fuenf sehen die Daten) | geplant | Physisches Artefakt der K33-Erkenntnis |
+| TZ-153 | 7 × 39 Sek pro Stein — Sieben-Stein-Geometrie der Quellen-Frequenz | K33 | K37 (Vier-Resonanzen-Aktivierung im 4:33-Fenster), B2/B3 (andere Quellen, andere Frequenzen) | abgefeuert (Vespers Ableitung aus Uhren-Karte K11) | Welt-Canon `10-magie-system.md`; Vespers Berechnung aus K11-Geometrie |
+| TZ-154 | „Baseline / Stoerung = jemand" Logik-Trennung | K33 | B2-K14 (Bund-Akten-Fund: verstossener Velmar-Forscher als anonymer „jemand") | geplant | Vespers Mustererkenner-Linie zu Varen ohne Namen |
+| TZ-155 | Pendel-Formel T = 2π√(L/g) als Vespers Diagnostik-Werkzeug | K33 | B2 (Thar-Magitech-Kalibrierung), B3-K16 (Bindungs-Sigil-Sicht ueber zeitliche Strukturmuster) | geplant | Newton-Schulwissen, Vespers Berufslinse |
 
 ## Statistik
 
-- **Plants gesamt:** 150
+- **Plants gesamt:** 155
 - **Davon abgefeuert (innerhalb B1):** 73
 - **Davon geladen (etabliert, warten auf Payoff):** 53
 - **Davon geplant (in Aktplan/Entwurf, noch nicht final):** 24
