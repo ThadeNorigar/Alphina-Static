@@ -1185,6 +1185,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Réage-Marathon der Verweigerung: nicht das Ziel, der Weg. Sie kannte den Weg, sie hatte ihn gegangen — heute war er länger. Eine Stunde, dann zwei. Der Knebel hielt sie still, das Band hielt sie blind. Sie kam nicht. Sie war — verlangend, dauerhaft.*
 
+**(D)** *Sie war ans Bett gefesselt — Hände am Kopfteil, Knöchel an den Pfosten am Fußteil, beide weit auseinander gespreizt. Knebel im Mund — ein weiches Ledermundstück, das sie nicht sprechen ließ, nur Atem. Augenbinde aus schwarzer Seide. „Du kommst nicht heute Nacht. Egal wie nah." Der Knebel verschluckte ihre Antwort. Er nickte trotzdem — er kannte sie. Eine Stunde lang spielte er. Mund am Schoß, dann Finger, dann der Massagestab, der nie an der Klitoris blieb. Bei jedem Anstieg ihrer Welle wechselte er das Werkzeug. Federklemmen an die Brustwarzen, dann wieder ab. Eis am Damm. Wachs zwischen den Brüsten. Sie war an der Schwelle, sie wurde nicht gelassen. Bei einer Stunde dachte sie, sie könne ohne seine Erlaubnis kommen — ihr Körper wusste den Weg —, aber jedes Mal wenn die Welle stieg, nahm er das Werkzeug weg. Eine zweite Stunde begann. Beim zweiten Mal weinte sie unter dem Knebel, ohne Geräusch, weil der Knebel keines durchließ. Er ließ sie weinen. Réage-Marathon: nicht das Ziel, der Weg. Sie war verlangend, dauerhaft. Bei drei Stunden löste er den Knebel — nahm die Augenbinde nicht ab — und küsste ihren Mund. Erst beim Lösen der Fesseln durfte sie kommen, einmal, lang, mit ihm in ihr.*
+
 #### 4.95 Tease bis Vulva tropft (lange Geduld-Session)
 
 **(A)** *Sie war gefesselt, geknebelt, Augen verbunden. Er hatte zwei Stunden Zeit. Erste Stunde: nur Atem an ihrer Klitoris, Lippen ohne Druck, Finger an den Schamlippen, kein Eindringen. Sie spürte es — Feuchtigkeit zwischen ihren Schenkeln, dann auf der Decke unter ihr.*
@@ -1192,6 +1194,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Bis du tropfst, mache ich nichts anderes." Er saß zwischen ihren Schenkeln, eine Hand offen auf ihrem Bauch, eine Hand fast an ihrem Schoß, nicht ganz. Eine Stunde. Sie tropfte. Er tat nichts.*
 
 **(C)** *Réage-Logik der Geduld: ihre Erregung war Material. Er wartete, bis das Material sichtbar war. Tropfen für Tropfen. Bei einer Stunde sah er nach. Bei eineinhalb. Bei zwei Stunden trocken sie an ihrer eigenen Hüfte ein, neue Tropfen folgten.*
+
+**(D)** *Sie hatte sich auf dem Rücken liegend ans Bett fesseln lassen — Hände am Kopfteil, Knöchel weit gespreizt an den Pfosten. Knebel im Mund, Augenbinde, ein dünnes Leinen-Tuch unter ihrem Hinterteil als Markierungs-Hilfe. „Bis du tropfst, mache ich nichts anderes." Sie nickte. Er saß zwischen ihren Schenkeln auf einem Schemel — eine Hand offen auf ihrem Bauch, die andere fast an ihrem Schoß, nicht ganz. Sein Atem zuerst, kühl an der Innenseite ihrer Schenkel, ohne Berührung. Eine halbe Stunde lang nur Atem. Dann Lippen — er küsste die Innenseite des linken Schenkels, dann des rechten, nie den Schoß selbst. Bei einer Stunde war das Material sichtbar — eine erste Spur Feuchtigkeit lief von ihren Schamlippen über die Hüfte, das Leinen darunter wurde dunkel an einer Stelle. Er sah nach, sagte nichts, fuhr fort mit dem Atem. Bei eineinhalb Stunden war ein größerer Fleck. Bei zwei Stunden war die erste Spur eingetrocknet, neue Tropfen folgten. Réage-Logik der Geduld: ihre Erregung war Material. Er wartete, bis das Material sichtbar war. Erst beim dritten Tropfen-Zyklus berührte er sie — die Zungenspitze direkt an der Klitoris, eine einzige lange Bahn. Sie kam in zwei Atemzügen, lauter als sie es je getan hatte.*
 
 ### Cluster C6 — Cum-Spiele erweitert
 
@@ -1203,6 +1207,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Réage-Geste der Aneignung umgekehrt: er gab, sie machte sich daraus. Der Samen trocknete an ihrer Haut, als sie ihn verrieb — eine zweite Schicht, gehörte ihr. Er sah zu, ohne zu helfen.*
 
+**(D)** *Sie kniete auf dem Bett, sich aufgerichtet, die Arme an den Seiten. Er stand vor ihr, sein Glied in der eigenen Hand. Drei Stöße, dann der erste Strahl — er traf das Tal zwischen ihren Brüsten, eine warme Linie. Der zweite Strahl traf die linke Brustwarze, der dritte fiel an der Außenseite der rechten Brust herunter. Er trat einen Schritt zurück. „Verteil." Sie hob die rechte Hand, fuhr mit dem Daumen durch den Samen im Tal, malte einen Kreis um den Hof der linken Brust, einen zweiten um den der rechten. Sie nahm beide Hände, verteilte den Samen gründlich — von den Brustwarzen über das Brustbein, über die Schultern, in den Hals, zurück in die Tiefe zwischen den Brüsten. Sie rieb sich ein wie eine Pflege, langsam, mit der Aufmerksamkeit für die eigene Haut, die sie sich sonst nicht erlaubte. Réage-Geste der Aneignung umgekehrt: er gab, sie machte sich daraus. Der Samen trocknete an ihrer Haut, als sie ihn verrieb — eine zweite Schicht, gehörte ihr. Er sah zu, ohne zu helfen. Sie schloss zuletzt die Hände um ihre Brüste, hielt sie. Er nickte einmal.*
+
 #### 4.97 Cum als Gleitmittel für Massagestab
 
 **(A)** *Er kam in ihrem Schoß, tief. Er zog sich zurück; der Samen lief heraus. Er nahm den Massagestab, fettete ihn mit dem Samen, der noch auf ihrer Vulva lag, und führte den Stab dann an ihre Klitoris. Glatt, warm, sein Eigenes als ihr Werkzeug.*
@@ -1211,6 +1217,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Réage-Recycling: was er gegeben hatte, wurde Material für ihren Orgasmus. Der Stab glänzte von ihm, sie kam mit ihm an einer anderen Stelle, an der er noch nicht gewesen war. Beide Eingänge versorgt durch denselben Saft.*
 
+**(D)** *Er hatte zwanzig Minuten lang in ihrem Schoß gestoßen, dann tief gekommen — sie spürte die Hitze, eine Welle, dann eine zweite. Er zog sich langsam zurück. Der Samen begann zu fließen, eine warme Spur lief an der Innenseite ihres Schenkels herunter. Er griff nach dem Massagestab vom Nachttisch — ein Holzgriff, an der Spitze ein Lederpolster, gefüllt mit Glaskugel-Sand. Er fettete die Spitze mit dem, was noch auf ihrer Vulva lag — sein eigener Samen, gemischt mit ihrer Feuchtigkeit. Er stieß den Stab in ihren Schoß, drehte ihn einmal — der Samen verteilte sich auf der Spitze. Dann zog er ihn heraus, fuhr mit der jetzt glänzenden Spitze über ihre Klitoris, kreisend, dann an die innere Schamlippe, dann zurück. Sie spürte den Druck mit der Wärme seines Eigenen. Der Stab arbeitete sanft, der Samen war Gleitmittel — kein Reiben, nur gleitendes Pressen. Réage-Recycling: was er gegeben hatte, wurde Material für ihren Orgasmus. Der Stab glänzte von ihm. Sie kam mit ihm an einer anderen Stelle, an der er noch nicht gewesen war. Beide Eingänge versorgt durch denselben Saft.*
+
 #### 4.98 Cum-Cleanup durch Dienerin (FFM-Variante mit Sub-Hierarchie)
 
 **(A)** *Er kam in ihr. Er rollte zur Seite, schwer atmend. Die Dienerin trat ans Bett, kniete zwischen Marens Schenkeln. Sie leckte den Samen aus Marens Schoß, sauber, langsam. Dann wandte sie sich zu ihm — sie leckte sein Glied sauber, drei Bahnen, von der Wurzel zur Spitze.*
@@ -1218,6 +1226,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Mach beide sauber." Die Dienerin nickte. Sie kniete erst bei Maren — Vulva, Damm, Innenseiten der Schenkel. Dann bei ihm — Glied, Hoden. Sie servierte beide. Maren und er hielten sich währenddessen, kuschelten, sahen nicht hin.*
 
 **(C)** *Réage-Hierarchie der Aufgaben: drei Personen, eine bedient zwei. Maren war Sub im Akt, die Dienerin war Sub im Cleanup. Maren konnte sich entspannen, weil eine andere die Pflicht trug. Réage-Roissy-Pattern: jede Sub kennt ihren Rang.*
+
+**(D)** *In der Wand-Nische des Schlafzimmers wartete die Dienerin — sie war die ganze Zeit dort gewesen, ohne ein Wort, ohne Blick, der etwas verriet. Maren und ihr Geliebter hatten miteinander geschlafen, dreißig Minuten lang. Er kam in ihrem Schoß, tief. Er rollte zur Seite, schwer atmend. Auf sein Nicken hin trat die Dienerin aus der Nische heraus, kniete neben dem Bett. Sie war jung, etwa zwanzig, eine Sub, die das Haus seit einem Jahr bediente. Sie kniete zwischen Marens Schenkeln und begann, sauber zu lecken — Vulva, Damm, die Innenseite der Schenkel, jede Spur Samen wurde gefunden. Maren lag still, die Hände in seinem Haar, sein Mund an ihrer Schläfe. Er flüsterte ihr etwas zu — sie lächelte. Die Dienerin wandte sich ihm zu, kniete neben dem Bett auf seiner Seite, leckte sein Glied sauber. Drei Bahnen mit der Zunge, von der Wurzel zur Spitze, dann eine vierte langsamer. Beide bedient. Réage-Hierarchie: drei Personen, eine bedient zwei. Maren war Sub im Akt, die Dienerin war Sub im Cleanup. Maren konnte sich entspannen, weil eine andere die Pflicht trug. Beim Schluss der Dienerin nickte er ihr zu. Sie kehrte zur Nische zurück, ohne ein Wort.*
 
 ### Cluster C7 — BDSM-Position-Specials
 
@@ -1229,6 +1239,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Réage-Geometrie der Spannung: zwei Punkte, eine Linie zwischen ihnen, ihr Körper als Saite. Solange sie den Kopf hoch hielt, war die Spannung gleich. Bei Senken: scharfer Druck im Anus. Sie kam unter ihm, ohne dass sie sich bewegen konnte.*
 
+**(D)** *Der Haken war eine spezielle Anschaffung — gebogenes Metall, glatt poliert, mit einer kleinen Eisen-Öse oben am Ende. Sie lag vornübergebeugt auf zwei gestapelten Kissen, die Hüften erhöht, die Brust auf der Decke. Er fettete den Haken mit Olivenöl, führte die Spitze in ihren Anus ein. Drei Stufen, dann saß die Hauptbiegung. Die Öse oben war jetzt zwei Finger über ihrem Steißbein, sichtbar. Er nahm eine kurze Schnur — nur drei Daumen lang — und band sie an die Öse. Das andere Ende befestigte er am Messingring ihres Halsbands. Die Schnur war so kurz, dass sie den Kopf hoch halten musste, damit der Haken nicht zog. Er kniete vor ihr, fand mit der Hand ihren Schoß, dann mit dem Mund die Klitoris. Sie hielt den Kopf gestreckt — die Schnur zog leicht, wenn sie sich bewegte. Bei jedem Steigen ihrer Welle war die Versuchung, den Kopf fallen zu lassen. Sie hielt ihn hoch. Sie kam unter ihm, ohne dass sie sich bewegen konnte — die Welle musste nach innen, weil der Körper außen reglos war. Réage-Geometrie der Spannung: zwei Punkte, eine Linie, ihr Körper als Saite.*
+
 #### 4.100 Brust-Bondage Spezial — Schwerpunkt Brüste fesseln
 
 **(A)** *Hanfseil, eingefettet. Er führte es um die Basis ihrer linken Brust — drei Wicklungen, langsam fester. Die Brust schwoll vor. Dann die rechte. Beide Brüste hervor, dunkler, gespannt. Die Brustwarzen härter als zuvor.*
@@ -1236,6 +1248,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Atme tief." Der Atem hob die Brüste, das Seil saß enger. „Halt." Er band den Knoten zwischen den Schultern. Beide Brüste prall, sichtbar von oben, von vorne, im Spiegel. Réage-Werkzeug: Material das den Körper stellt.*
 
 **(C)** *Seil als Skulptur: die Brüste waren nicht mehr Teil ihres Körpers, sondern Werkzeuge an ihm. Der Druck blieb spürbar — nicht als Schmerz, als Anwesenheit. Eine halbe Stunde später waren die Brustwarzen empfindlich für jede Berührung.*
+
+**(D)** *Hanfseil, eingefettet mit etwas Pflanzenöl, weicher als rohes Hanf. Sie kniete in der Mitte des Raums, der Rücken aufrecht. Er stand hinter ihr, das Seil zwischen den Händen. Erst um die Basis ihrer linken Brust — drei Wicklungen, langsam fester. Die Brust schwoll vor, dunkler. Dann die rechte, ebenso. Beide Brüste waren jetzt vorgewölbt, die Brustwarzen härter als zuvor durch den Stau im Gewebe. Er führte das Seil hinter ihren Rücken, machte einen Knoten zwischen den Schulterblättern, fest. „Atme tief", sagte er. Sie atmete — der Atem hob die Brüste, das Seil saß enger. „Halt." Er prüfte den Knoten mit dem Daumen. Beide Brüste prall, sichtbar von oben, von vorne, im Spiegel an der Wand. Réage-Werkzeug: Material, das den Körper stellt. Eine halbe Stunde später, als er sie löste, waren die Brustwarzen empfindlich für jede Berührung. Er strich mit dem Mund über die linke — sie zuckte zusammen. Er strich mit dem Daumen über die rechte — sie kam ohne Vorwarnung, eine Welle, die nicht aus dem Schoß kam, sondern aus den Brüsten. Das Seil hatte sie für später vorbereitet.*
 
 #### 4.101 Brust-Saugglocken + Doggystyle
 
@@ -1245,6 +1259,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Glas, Pumpe, Druckunterschied. Réage-Werkzeug aus dem Apothekerschrank. Die Brustwarzen wurden empfindsamer durch das Saugen, die Empfindung wanderte mit jedem Stoß durch ihren ganzen Körper. Sie kam zweimal, beide mal anders.*
 
+**(D)** *Auf dem Tisch lagen zwei Saugglocken aus dickem Glas — runde Glocken mit einer kleinen Eisenpumpe an der Spitze, geliehen aus dem Apothekerschrank, ursprünglich für medizinische Zwecke. Sie kniete vornübergebeugt auf dem Bett, die Brüste hingen frei zwischen ihren Armen. Er fettete den Rand jeder Glocke mit Pflanzenöl, damit der Sauganschluss dicht saß. Er setzte die erste an die linke Brustwarze, drückte die Pumpe — die Brustwarze schwoll in das Glas, wurde dicker, dunkler. Die zweite Glocke an die rechte Brust. Beide Brustwarzen jetzt prall, sichtbar in dem Glas, wie unter einer Lupe. Sie hielt die Glocken mit ihren Händen am Rand fest, damit sie nicht abrutschten. Er trat hinter sie, fettete sein Glied mit Olivenöl und drang von hinten in ihren Schoß ein. Bei jedem Stoß seiner Hüften wackelten die Glocken — zogen leicht an den Brustwarzen, lockerten, zogen wieder. Doppelter Rhythmus: er von hinten, die Glocken vorne. Die Brustwarzen wurden mit jedem Saugstoß empfindlicher; die Empfindung wanderte vom Brustkorb in den Bauch, traf die Welle, die er hinten aufbaute. Sie kam zweimal, beide Mal anders — einmal vom Schoß, einmal von den Brüsten her.*
+
 #### 4.102 Tied-Tits prall+empfindlich + Stim
 
 **(A)** *Hanfseil hatte ihre Brüste gestaut, eine halbe Stunde lang. Sie waren prall, dunkel, jede Berührung hallte. Er löste das Seil — die Brüste zurück in normaler Form, aber jetzt mit Erinnerung. Er nahm einen Massagestab, setzte ihn an die Klitoris. Die Brustwarzen reagierten ohne Berührung.*
@@ -1252,6 +1268,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Komm jetzt." Sie war zwischen den Empfindungen. Der Stab unten, die Erinnerung an das Seil oben — die Brüste pulsierten ohne sein Zutun. Sie kam, das Pulsieren der Brüste synchron mit dem Stab.*
 
 **(C)** *Réage-Echo der Werkzeuge: was nicht mehr da war, wirkte weiter. Das Seil hatte die Brüste auf die Klitoris vorbereitet. Sie spürte beides — Vergangenheit oben, Gegenwart unten.*
+
+**(D)** *Hanfseil hatte ihre Brüste seit einer halben Stunde gestaut — drei Wicklungen unten, drei oben, ein Knoten zwischen den Schulterblättern. Die Brüste waren prall, dunkler als ihre normale Färbung, jede Berührung hallte, weil das Gewebe fester gespannt war. Er trat hinter sie, löste das Seil — drei Bewegungen, dann fielen die Wicklungen ab. Die Brüste schnellten zurück in normale Form, aber jetzt mit Erinnerung. Sie hatte den Druck gelernt, ihre Brustwarzen waren immer noch empfindlich. Er legte sie auf den Rücken, kniete zwischen ihren Schenkeln. Er nahm den Massagestab vom Nachttisch, setzte ihn an die Klitoris — voller Druck, ohne Bewegung. Sie schloss die Augen. Etwas Eigenartiges geschah: die Brustwarzen reagierten ohne Berührung. Die Erinnerung des Seils war noch in der Haut — Druck, der nicht mehr da war, wirkte weiter. „Komm jetzt." Sie war zwischen den Empfindungen, der Stab unten, die Erinnerung an das Seil oben. Sie kam — das Pulsieren der Brüste synchron mit dem Stab, eine Welle, die zwei Stellen verband, die nicht gleichzeitig berührt wurden. Réage-Echo der Werkzeuge: was nicht mehr da war, wirkte weiter.*
 
 ### Cluster C8 — Multi-Player Beyond FFM
 
@@ -1263,6 +1281,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Réage-Umkehrung: nicht Befehl von oben, sondern Wahl von der Mitte. Sie kannte ihre eigenen Begehren — sie sprach sie aus. Beide Männer waren Werkzeug ihrer Wunsch-Liste. Sie kam, weil sie selbst die Reihenfolge bestimmt hatte.*
 
+**(D)** *Drei lagen im Bett. Sie in der Mitte, beide Männer flankierten sie — der eine ihr Geliebter seit Jahren, der andere ein Freund, den sie beide kannten und der heute Nacht zu ihnen gehörte. „Sag, was du willst", sagte ihr Geliebter. Sie zögerte. Sie hatte sich vorbereitet, sie hatte über die Reihenfolge nachgedacht. „Einer am Mund, einer am Schoß." Beide Männer befolgten — der erste rollte zu ihrem Kopf, sein Glied an ihren Lippen. Der zweite rückte zwischen ihre Schenkel, fand den Eingang ihres Schoßes. Beide drangen gleichzeitig ein, langsam. Sie öffnete den Mund vorne, sie öffnete den Schoß unten. Sie bestimmte das Tempo durch ihren Atem — wenn sie schneller atmete, beschleunigten beide Männer. Wenn sie hielt, hielten beide. Nach zehn Minuten sagte sie: „Wechselt." Die Männer tauschten die Plätze. Sie nahm jetzt den anderen tief im Mund, der erste fand ihren Schoß. Sie war Sub durch ihre Position, Dom durch ihre Wahl. Beide Männer waren Werkzeug ihrer Wunsch-Liste. Sie kam, weil sie selbst die Reihenfolge bestimmt hatte. Réage-Umkehrung: nicht Befehl von oben, sondern Wahl von der Mitte.*
+
 #### 4.104 Drei Männer beobachten + feuern an, nur Hauptmann hat Sex
 
 **(A)** *Sie war ans Bett gefesselt, Augenbinde. Drei Stimmen im Raum, alle gekleidet. Eine vierte — die ihres Geliebten — stand am Bett. Er nahm sie. Die anderen drei sprachen — Komplimente, Anfeuerung, schmutzige Beobachtungen. Niemand berührte sie außer ihm.*
@@ -1270,6 +1290,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Sie sieht prächtig aus." „Lauter, sie soll dich hören." „Dreh sie um, wir wollen die Brüste sehen." Drei Stimmen, sie hörte alle. Ihr Geliebter bewegte sich, die anderen kommentierten. Sie war Bühne, er war Akteur, sie alle Publikum.*
 
 **(C)** *Réage-Cuckold-Reverse: nicht der Mann teilt sie, der Mann zeigt sie. Drei sehen zu, drei sprechen, drei machen sich nicht. Sie war seine, vor Zeugen. Bei jedem Kompliment zog sich etwas in ihrer Brust zusammen — sie war stolz, sie war sub.*
+
+**(D)** *Sie hatte den Salon mit verbundenen Augen betreten — sie wusste, drei Männer waren bereits dort, zusätzlich zu ihrem Geliebten. Alle gekleidet, alle bekannte Namen. Er führte sie zum Bett, half ihr, sich auf den Rücken zu legen, fesselte ihre Hände am Kopfteil. Drei Stimmen im Raum begannen zu sprechen — Komplimente zuerst, dann Beobachtungen. „Ihre Haut hat eine Spur Rot bekommen, sie weiß, dass wir sehen." „Sie atmet schneller, jetzt, da sie hört, was wir sagen." Ihr Geliebter trat ans Bett, öffnete sein Hemd, dann seine Hose. Er drang in sie ein, langsam, voll. Bei jedem Stoß sprach eine andere Stimme. „Lauter, sie soll dich hören." „Dreh sie um, wir wollen die Brüste sehen." Er drehte sie auf den Bauch, dann nahm er sie von hinten. Drei Stimmen, sie hörte alle. Niemand berührte sie außer ihm. Sie war Bühne, er war Akteur, sie alle Publikum. Bei jedem Kompliment zog sich etwas in ihrer Brust zusammen — sie war stolz, sie war sub. Réage-Cuckold-Reverse: nicht der Mann teilt sie, der Mann zeigt sie. Sie kam unter dem Blick und der Stimme der drei, mit ihm in ihr.*
 
 #### 4.105 FFFM Direktion — Mann lenkt zwei Frauen
 
@@ -1279,6 +1301,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Réage-Direktion ohne eigenen Akt: er gab Worte, sie gaben Körper. Drei Stunden lang spielte er mit ihnen, ohne eigene Berührung. Erst beim Ende stand er auf, nahm die eine, dann die andere — kurz, präzise, geordnet.*
 
+**(D)** *Zwei Frauen lagen auf dem breiten Bett, beide nackt, beide schon halb erregt vom Vorspiel der letzten Stunde. Maren auf dem Rücken, die andere kniend zwischen Marens Schenkeln, der Mund noch in Marens Schoß. Er stand am Bett, gekleidet, ein Glas Wein in der Hand, das er nicht trank. „Maren, knie. Du, Mund." Maren rollte sich, kniete vornübergebeugt, das Hinterteil hoch. Die andere kniete sich gegenüber, der Mund jetzt am Rand zwischen Marens Anus und Schoß. „Tiefer." Die andere senkte den Kopf, die Zungenspitze fand den Damm. „Langsamer." Sie drosselte. „Fester." Sie drückte den Mund stärker an. Er korrigierte mit kurzen Worten, ohne Berührung. Drei Stunden lang spielte er mit ihnen — er gab Worte, sie gaben Körper. Wechsel der Positionen, Wechsel der Aufgaben. Maren leckte die andere, dann lag die andere unter ihr, dann saßen beide ineinander verschränkt. Erst gegen Ende stand er auf, legte das Glas weg. Er nahm zuerst die andere, kurz, präzise — drei Minuten. Dann nahm er Maren, ebenso. Beide kamen unter ihm, jede einmal. Réage-Direktion ohne eigenen Akt: er hatte sie geordnet, bevor er sie nahm.*
+
 #### 4.106 Sklavinnen-Hierarchie FFM mit gemeinsamer Sub
 
 **(A)** *Sie und er hatten eine Sub für die Nacht. Sie legten den Plan vorher fest — drei Stunden, eine Liste. Die Sub kam, kniete, hörte zu. „Du wirst zuerst von ihr genommen, dann von mir, dann von uns beiden." Die Sub nickte.*
@@ -1286,6 +1310,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *Maren und ihr Geliebter waren ein Paar. Die dritte war Werkzeug. Maren begann — sie leckte die Sub, sie spielte mit ihren Brüsten. Dann ihr Geliebter — er nahm die Sub vaginal, während Maren die Sub am Mund hielt. Drei Stunden lang teilten sie eine, beide.*
 
 **(C)** *Réage-Hierarchie der Drei: zwei oben, eine unten. Die Sub diente beiden. Sie und er waren Paar im Akt — sie sahen sich an, während sie die Sub bewegten. Réage-Logik: das Paar wird gefestigt durch das gemeinsame Werkzeug.*
+
+**(D)** *Sie und ihr Geliebter waren ein Paar — fest, vertraut. Heute hatten sie eine dritte Person für die Nacht — eine Sub, die sich freiwillig als Werkzeug angeboten hatte, eine Frau in den Dreißigern, die zwei Mal pro Monat Paare bediente. Sie kam um neun, kniete im Vorzimmer, hörte die Regeln. „Du wirst zuerst von ihr genommen, dann von mir, dann von uns beiden. Drei Stunden, nicht weniger." Die Sub nickte. Maren begann — sie zog die Sub aus, langsam, ein Stück nach dem anderen. Dann legte sie sie auf das Bett, kniete zwischen ihren Schenkeln. Mund am Schoß der Sub, Finger nach einer Weile. Die Sub kam zweimal unter Marens Mund. Dann kam ihr Geliebter dazu — er nahm die Sub vaginal, Maren hielt den Mund der Sub mit ihrem eigenen. Eine Stunde lang teilten sie eine, beide. Maren und ihr Geliebter sahen sich über die Sub hinweg an — sie waren das Paar, sie waren der Anker. Beim dritten Akt nahmen sie die Sub gleichzeitig — er hinten, Maren vorne mit dem Strapon. Réage-Hierarchie der Drei: zwei oben, eine unten. Die Sub diente beiden. Réage-Logik: das Paar wird gefestigt durch das gemeinsame Werkzeug.*
 
 #### 4.107 Cuckqueen Voyeurism — Frau watcht + macht's selbst
 
@@ -1295,6 +1321,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Réage-Inversion: nicht Mann sieht zu, Frau wird genommen — Frau sieht zu, andere Frau wird genommen. Sie war Beobachterin und Beteiligte gleichzeitig. Was er der anderen tat, tat sie sich selbst. Drei Körper in zwei Räumen.*
 
+**(D)** *Sie saß im breiten Sessel rechts vom Bett, gekleidet in einem dunklen Hauskleid, ein Glas Wein neben sich. Auf dem Bett lagen ihr Geliebter und eine andere Frau — sie hatten sie zusammen ausgesucht, beide hatten der Nacht zugestimmt. Er begann mit der anderen — Mund, Hände, dann sein Glied. Maren sah zu, eine Hand auf der Brust unter dem Stoff, die andere langsam unter den Rock gewandert. Bei jedem Stöhnen der anderen reagierte sie selbst — Spiegel-Bewegung. Wenn er die andere küsste, spürte Maren ihre eigenen Lippen warm. Wenn die andere kam, kam Maren einen Atemzug später, leise, im Sessel, ohne Theater. Sie war Beobachterin und Beteiligte gleichzeitig — was er der anderen tat, tat sie sich selbst. Drei Körper in zwei Räumen, eine Geometrie von Spiegeln. Beim dritten Orgasmus der anderen — sie waren bei einer Stunde — sah er Maren im Sessel an. Er nickte. Maren stand nicht auf. Sie machte sich weiter, allein. Sie kam zum dritten Mal, gleichzeitig mit der anderen. Réage-Inversion: nicht Mann sieht zu, Frau wird genommen — Frau sieht zu, andere Frau wird genommen.*
+
 #### 4.108 Third-Person als Werkzeug — Gefesselte Sub für das Paar
 
 **(A)** *Auf dem Bett lag eine Person — gefesselt, Augen verbunden, an alle Pfosten. Sie und ihr Geliebter standen daneben. „Was willst du mit ihr machen?" Sie wählte. Sie hatte heute volle Verfügung. Die gefesselte Person war Werkzeug.*
@@ -1302,6 +1330,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Ihr Mund, ihre Brüste, ihr Schoß — alles für dich." Maren sah die gefesselte Person an. Sie wählte: die Brüste. Sie spielte mit ihnen — Klemmen, Zunge, Hände. Die gefesselte Person konnte nichts tun. Maren hatte alles.*
 
 **(C)** *Réage-Geschenk: das Paar gibt sich gegenseitig eine Sub. Sie war Dom für eine Nacht, durch sein Geschenk. Die gefesselte Person wusste das, sie war freiwillig. Réage-Vertrag mit drei Stimmen — alle wussten, was sie waren.*
+
+**(D)** *Auf dem Bett lag eine Person — gefesselt, Augen verbunden, Hände und Füße an die vier Pfosten gebunden, der Mund weich offen mit einem Mundkeil. Eine Frau, Anfang dreißig, eine Sub, die er vor ihr ausgesucht hatte — er kannte sie aus dem Privatzirkel. Maren stand neben dem Bett, ihr Geliebter hinter ihr, beide gekleidet. „Was willst du mit ihr machen?", fragte er. Maren betrachtete die Frau eine Weile. Sie war heute Dom, durch sein Geschenk. „Die Brüste." Sie ging zum Tisch, nahm zwei Federklemmen und das Wachs. Sie kniete sich neben das Bett, setzte die Klemmen an beide Brustwarzen der gefesselten Frau. Eine zog leicht zusammen — die Sub wusste, sie hatte zugestimmt. Maren ließ die Klemmen sitzen, holte die Wachskerze. Sie tropfte Wachs zwischen die Brüste, eine kleine Insel nach der anderen. Die Sub atmete tief, nicht laut. Maren spielte eine Stunde lang mit ihr — Klemmen, Wachs, Mund, ein Phallus aus Glas in Marens Hand, den sie der Sub vorsichtig in den Schoß einführte. Maren brachte sie dreimal zum Kommen. Réage-Geschenk: das Paar gibt sich gegenseitig eine Sub. Réage-Vertrag mit drei Stimmen — alle wussten, was sie waren. Beim Schluss löste Maren die Klemmen, küsste beide rote Brustwarzen sanft.*
 
 ### Cluster C9 — Wake-Up / Surprise Setups
 
@@ -1313,6 +1343,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Réage-Pattern des Vertrauens: Schlaf als Verlängerung der Hingabe. Er wusste, sie würde es wollen — sie hatten es vorher besprochen, einmal, Jahre vorher. Sie wachte in ihm auf. Das Weiche zwischen Traum und Wachen blieb, sie kam darin.*
 
+**(D)** *Sie schliefen seit drei Stunden, nach einem langen Abend. Sie lag auf der Seite, das Hemd hochgerutscht bis zum Unterleib, eine Hüfte angewinkelt. Er wachte vor ihr auf. Er hatte sie vor Jahren einmal danach gefragt — ob er sie wecken durfte, ohne sie vorher zu wecken. Sie hatte ja gesagt. Er fettete sich, langsam, leise. Er legte den Arm um ihre Hüfte, fand mit der Spitze des Glieds den Eingang ihres Schoßes von hinten. Sie war noch warm vom Schlaf, schon halb feucht. Er drang ein, einen Zoll, dann zwei. Sie murmelte etwas, ohne aufzuwachen. Er ging langsam weiter, fand seinen Takt — drei Stöße, dann hielt er, drei Stöße, hielt. Sie wachte zwischen Stoß und Stoß, wachte weicher als von einem klingelnden Glas oder einem Wort. Beim ersten klaren Atem war er schon ganz drin. „Bleib so." Sie verstand erst den Satz, dann die Berührung. Sie nickte gegen das Kissen, ohne sich zu drehen. Réage-Pattern des Vertrauens: Schlaf als Verlängerung der Hingabe. Sie wachte in ihm auf. Das Weiche zwischen Traum und Wachen blieb, sie kam darin, ohne den Atem zu unterbrechen.*
+
 #### 4.110 Wake-by-Sub-Initiative — Frau weckt mit Blowjob oder Reverse Cowgirl
 
 **(A)** *Er schlief. Sie schob die Decke weg, beugte sich über ihn. Sein Glied weich, sie nahm es in den Mund — drei Saug-Bewegungen, dann härtete es sich. Er atmete tiefer, noch nicht wach. Beim Wachen war er schon in ihrem Mund.*
@@ -1321,6 +1353,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Réage-Umkehrung der Wake-Geste: nicht er zu ihr, sie zu ihm. Sie initiierte, er empfing. Beim Aufwachen war die Geste schon in Bewegung — er konnte sie nur fortführen, nicht beginnen. Sie kam, er kam, beide noch halb im Schlaf.*
 
+**(D)** *Sie wachte um sechs Uhr auf, der Morgen noch grau. Er schlief tief, auf dem Rücken, eine Hand auf der Brust. Sie hatte vorher die Erlaubnis gehabt — sie konnte ihn wecken, wann sie wollte, wie sie wollte. Sie kletterte vorsichtig auf ihn, Knie an seinen Hüften, ihr Schoß über seinem Glied. Er war noch weich. Sie nahm sein Glied in die Hand, fuhr einmal langsam von der Wurzel zur Spitze. Beim zweiten Strich härtete es sich. Sie senkte sich darauf — die Spitze, dann mehr, dann ganz, sie war schon feucht von der Vorstellung. Sein Atem ging tiefer; er stockte, dann öffnete er die Augen. Er sah sie über sich, ihre Hände auf seinem Bauch, ihren Schoß auf ihm. Er sagte nichts. Er legte die Hände an ihre Hüften, ließ sie bewegen. Sie ritt ihn langsam, in ihrem eigenen Takt. Beide noch halb im Schlaf — sie initiierte, er empfing. Beim Aufwachen war die Geste schon in Bewegung; er konnte sie nur fortführen, nicht beginnen. Sie kam, er kam einen Atemzug später, beide ohne Eile, weil der Morgen lang war.*
+
 #### 4.111 Surprise-Arrival mit Setup — Sub bereitet, Tür angelehnt
 
 **(A)** *Sie war zuhause, Augenbinde an, eine Hand im Schoß. Die Tür war angelehnt — er hatte gesagt, irgendwann zwischen vier und sechs Uhr. Sie wartete, sie machte sich, sie durfte nicht kommen. Bei fünf Uhr hörte sie die Tür.*
@@ -1328,6 +1362,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Du wartest." Sie nickte, sie hatte gewartet. Augenbinde, Spielzeug bereit, sie selbst auf dem Bett mit der Hand zwischen den Schenkeln. Er kam ins Zimmer, sah sie. Er sagte nichts. Sie spürte ihn nahe, dann seine Hand.*
 
 **(C)** *Réage-Setup: das Vorbereiten war der Akt. Sie hatte gewählt, was bereit liegt — Olivenöl, Klemmen, ein Phallus aus Glas. Sie hatte sich ausgezogen. Sie hatte sich erregt, ohne zu kommen. Der Akt begann, bevor er da war. Bei seinem Eintreten war alles aufgebaut.*
+
+**(D)** *Er hatte gesagt: „Irgendwann zwischen vier und sechs Uhr." Mehr nicht. Sie hatte vorbereitet — drei Stunden vorher schon angefangen. Sie hatte das Bett gemacht, die Augenbinde aus Seide neben dem Kissen ausgelegt. Auf dem Nachttisch ein kleines Glas Olivenöl, Federklemmen, ein Phallus aus durchsichtigem Glas. Sie hatte sich gebadet, sich eingeölt, sich gekämmt. Sie hatte sich ausgezogen, das Hemd am Stuhl. Sie hatte die Augenbinde angelegt, war ins Bett gestiegen, hatte die Tür einen Spalt offen gelassen. Sie lag auf dem Rücken, eine Hand zwischen den Schenkeln, langsam — sie machte sich erregt, ohne zu kommen. Sie wartete. Bei vier Uhr nichts. Bei halb fünf hörte sie ein Pferd auf der Straße, das nicht hielt. Bei fünf Uhr hörte sie die Tür. Schritte, leise, gewohnt. Er kam ins Zimmer, sah sie. „Du wartest." Sie nickte. Er sagte nichts mehr. Er trat ans Bett, fettete einen Daumen mit dem Olivenöl, fuhr ihn an ihrer Vulva entlang. Sie zuckte einmal kurz. Réage-Setup: das Vorbereiten war der Akt. Bei seinem Eintreten war alles aufgebaut. Er musste nur noch eintreten.*
 
 ### Cluster C10 — Tantra / Slow Sex
 
