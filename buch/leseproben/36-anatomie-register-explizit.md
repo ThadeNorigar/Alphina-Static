@@ -917,6 +917,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Holzkiste, Phallus eingedreht, kein Wackeln. Sie öffnete sich darauf — zwei Atemzüge bis zur Wurzel. Mit gebundenen Händen war sie auf den Mund angewiesen. Sein Glied vor ihr, ihre Lippen daran, dreißig Minuten.*
 
+**(D)** *Auf der Holzkiste in der Mitte des Raumes, fest verschraubt, der Phallus aus poliertem Horn — er war eingedreht in eine Halterung, kein Wackeln, exakt senkrecht. Maren stand davor, die Hände bereits hinter dem Rücken zusammengebunden mit weichem Hanfseil. Er fettete den Phallus mit Olivenöl, prüfte mit dem Daumen, dass alles glatt saß. „Du hast eine halbe Stunde, mich zum Kommen zu bringen, wenn du selbst kommen willst", sagte er. „Ich nehme dich härter, je näher die Sanduhr dem Ende ist." Sie senkte sich auf den Phallus — die Spitze, dann mehr, zwei Atemzüge bis zur Wurzel. Ihr Schoß empfing ihn vollständig. Mit gebundenen Händen war sie auf den Mund angewiesen. Er stand vor ihr, sein Glied auf Höhe ihrer Lippen. Sie nahm ihn auf, fand sofort den Takt — Mund auf, Mund zu, Hüften auf und ab, der Phallus aus Horn glitt in ihrem Schoß, das echte Glied in ihrem Mund. Bei der Hälfte der Sanduhr war er nahe; sie verdoppelte das Tempo, vorne und unten. Bei drei Vierteln drohte sie selbst zu kommen — sie zwang den Atem flacher. Er kam in ihrem Mund, drei Strahlen tief am Gaumen, beim Sandlauf, der noch zwei Finger hatte. Sie hatte verdient, was sie wollte.*
+
 #### 4.69 Anrichte-Höhe — Standing Sex slow
 
 **(A)** *Sie saß auf der Anrichte, Höhe genau so, dass er stand. Er drang in sie ein im Stehen, sie schlang die Beine um seine Hüfte. Ihre Arme um seinen Hals, ihr Mund an seinem. Er bewegte sich kaum — er hielt sich in ihr, sie hielt sich an ihm.*
@@ -924,6 +926,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Komm her." Er hob sie auf die Anrichte. Sie saß, Beine geöffnet, er zwischen ihnen. Er fand ihren Schoß, drang langsam ein, küsste sie. Vor und zurück, in Zeitlupe, beide aufrecht, Brust an Brust.*
 
 **(C)** *Holzanrichte, kühl unter ihr. Er stand, sie saß. Sein Glied in ihr, ihre Arme um seinen Nacken. Sie umarmten sich, sie küssten sich, er stieß nicht — er bewegte nur Hüften, klein, und sie bewegte gegen ihn.*
+
+**(D)** *Sie waren in die Küche gekommen, um Wasser zu holen, hatten den Krug schon in der Hand, als der Blick zwischen ihnen fiel. Er stellte den Krug auf die Anrichte. Er hob sie hoch, setzte sie auf die Holzanrichte — die Höhe stimmte exakt mit seiner Hüfte. Sie schob den Rock hoch, er öffnete die Hose. Sie war schon feucht, weil sie wusste, was kam. Er drang in sie ein im Stehen, langsam, sie schlang die Beine um seine Hüfte, ihre Arme um seinen Nacken. Bei voller Länge hielten sie. Sie umarmten sich, sie küssten sich — sein Mund an ihrem, langsam, eine Pause, dann wieder. Er stieß nicht; er bewegte nur die Hüften, klein, fast unsichtbar. Sie bewegte gegen ihn, ebenso klein. Bei jedem Atem kam der Druck eine Spur tiefer in ihrem Schoß. Bei zehn Minuten war sie nahe. Bei fünfzehn war sie wieder zurück. Bei zwanzig kamen sie zusammen, ohne dass einer das Tempo verändert hatte — eine Welle, die sie sich selbst gegeben hatten, ohne den Takt zu brechen.*
 
 #### 4.70 Ottoman + aufgehängte Beine + Maschine + Massagestab
 
@@ -933,6 +937,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Beine über dem Kopf, an der Decke. Maschine vorne, Stab oben. Sie lag fast kopfüber, ihr ganzes Becken sichtbar. Er sah zu, mit dem Stab in der Hand. Sie kontrollierte die Maschine, er kontrollierte den Druck. Beide zur gleichen Zeit, beide getrennt.*
 
+**(D)** *Die Stoßmaschine stand neben dem Ottoman, eine Vorrichtung aus Holz und Metall, mit Federwerk angetrieben — ein geformter Phallus an einem Stoßarm, der bei jedem Aufzug zwei Mal pro Atemzug stieß. Maren lag bäuchlings auf dem Ottoman, dann drehte er sie auf den Rücken, hob ihre Beine hoch, befestigte die Knöchel an Seilen, die von der Decke hingen. Ihre Beine waren über ihrem eigenen Kopf — sie sah ihr eigenes Becken zwischen den Schenkeln, fast kopfüber. Er fettete den Phallus mit Olivenöl, führte ihn in ihren Schoß ein, drei Stufen, dann stellte er die Maschine an. Der Stoßarm begann seine Arbeit. Er gab ihr den Hebel an der Hand: „Schneller oder langsamer — du." Sie zog den Hebel langsam, dann schneller. Er stand neben ihr, der Massagestab in der Hand, presste ihn fest gegen ihre Klitoris — er bewegte ihn nicht. Die Maschine bewegte ihren Körper, der Stab bewegte sich passiv mit. Zwei Werkzeuge, zwei Kontrollen, sie und er. Sie kam dreimal in zwanzig Minuten, jedes Mal anders, beide ihre und seine Welle.*
+
 #### 4.71 Decke-Aufhängung + Dildostange + Multi-Folter
 
 **(A)** *Sie hing an der Decke, Hände über dem Kopf gefesselt, Beine gespreizt. Eine Stange mit Phallus war eingeführt. Augenbinde aus Seide. Auf dem Tisch lagen Federklemmen, Eiswürfel im Glas, ein Flogger, ein Paddel, eine Bienenwachs-Kerze. Er nahm der Reihe nach.*
@@ -940,6 +946,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Halt die Position." Die Phallus-Stange in ihrem Schoß. Decke-Fesselung gespannt. Er ging um sie herum, eine Stunde lang — Klemme, Eiswürfel, Schlag mit der Hand, Wachs, Flogger-Schlag. Kein Rhythmus, sie wusste nie was kommt.*
 
 **(C)** *Seil an Hand, Stange in Schoß, Seide vor Augen. Auf dem Tisch alle Werkzeuge in einer Linie. Réage-Klinik: er nahm jedes einmal, nach System. Bei jeder Berührung sagte er, was es war. Sie lernte den Stoff durch sein Wort.*
+
+**(D)** *Sie hing in der Mitte des Raumes an Hanfseilen, die Hände über dem Kopf an einer Eisen-Öse fixiert, die Beine gespreizt und an seitliche Pfosten gebunden. Eine Phallus-Stange war vorher in ihren Schoß eingeführt worden — sie konnte den Stab nicht entfernen, weil ihre Hände gefesselt waren. Augenbinde aus schwarzer Seide. Auf dem Tisch lagen sechs Werkzeuge in einer Reihe — er hatte sie ihr vorher gezeigt. Federklemmen aus Messing, Eiswürfel im Glas, ein Flogger aus Hirschleder, ein Holzpaddel, eine Bienenwachs-Kerze, ein Reitstock. Eine Stunde lang ging er um sie herum. Er nahm jedes Werkzeug einmal, nach System — manchmal die Klemmen zuerst, manchmal das Wachs zuerst. Bei jeder Berührung sagte er, was es war: „Klemme links." „Eis am Hals." „Wachs zwischen den Brüsten." Sie lernte den Stoff durch sein Wort, lernte, ihre Erwartung an seine Stimme zu binden. Bei jedem Werkzeug zog die Phallus-Stange leicht in ihrem Schoß — sie hing schwerer im Seil, ihr Körper wog mit. Bei der dreißigsten Minute kam sie zum ersten Mal, ohne dass er sie an der Klitoris berührt hatte. Réage-Klinik: ein System, das sie als Werkzeug erkannte.*
 
 #### 4.72 Esstisch-Display: Vornübergebeugt mit Pobacken-halten
 
@@ -949,6 +957,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Réage-Display-Pflicht: Ankunft = Position. Ohne Wort, ohne Verzögerung. Sie öffnete sich auf dem Tisch und blieb. Wenn er fünf Minuten später kam oder zwanzig — sie hielt die Position. Pobacken offen, Hand an eigenem Körper.*
 
+**(D)** *Sie kam um halb sechs an seinem Haus an, wie verabredet. Sie ging direkt durch die Halle ins Speisezimmer — er war noch nicht zurück. Sie kannte das Pattern, sie hatten es vor drei Wochen vereinbart. Sie zog Mantel ab, Kleid ab, Mieder ab, Strumpfgürtel und Strümpfe. Sie legte alles zusammengefaltet auf den Beistellschrank. Dann ging sie zum Esstisch, legte sich vornübergebeugt darauf — die Brust an der Tischkante, das Hinterteil hoch, die Schenkel weit auseinander. Sie führte die Hände nach hinten und teilte ihre Pobacken mit den eigenen Daumen — Schoß und Anus vollständig sichtbar für ihn, wenn er kam. Sie schloss die Augen. Sie wartete. Zehn Minuten verstrichen, fünfzehn. Sie hörte das Knirschen seiner Schritte auf dem Kies vor dem Haus, den Schlüssel im Schloss. Sie öffnete die Augen nicht. Er ging durch die Halle, kam in den Raum. Eine Pause. Sie spürte, dass er sah. „Wie immer", sagte er, leise. Sie nickte nicht — die Position war Antwort. Erst dann hörte sie, dass er die Hose aufmachte. Sie hielt die Pobacken weiterhin offen, mit eigenen Händen.*
+
 #### 4.73 Bock vornübergebeugt — Brüste hängen, Multi-Zugang
 
 **(A)** *Der Bock aus Holz und Leder, gepolstert, mit Aussparung in der Mitte für die Brüste. Sie kniete darauf, vornübergebeugt, Brüste hingen frei. Arme an den vorderen Pfosten fixiert, Knöchel an den hinteren. Vulva, Anus, Mund — alle drei zugänglich.*
@@ -957,6 +967,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Réage-Möbel: das Werkzeug ist die Position selbst. Sie war nicht gefesselt um zu erleiden — sie war fixiert um verfügbar zu sein. Brüste durch die Aussparung, im freien Hang. Schoß und Anus auf gleicher Höhe wie sein Glied im Stehen.*
 
+**(D)** *Der Bock stand seit einem halben Jahr in dem hinteren Zimmer, das er für sie eingerichtet hatte — Holzgestell, gepolstert mit dunklem Leder, eine ovale Aussparung in der Mitte, in der die Brüste frei hängen konnten. Beine an den vier Pfosten, Arme an zwei Querbalken vorne, alles mit Lederriemen zu fixieren. „Auf den Bock." Sie zog sich aus, kletterte hinauf, kniete vornübergebeugt — die Brüste fielen durch die Aussparung, hingen frei nach unten. Er fixierte die Lederriemen — Handgelenk, Ellenbogen, Knöchel, oberhalb der Knie. Sie war geometrisch ausgerichtet: der Mund vorne in Höhe seines Glieds im Sitzen, die Brüste unten in seiner Reichweite, das Hinterteil hinten in Höhe seines Glieds im Stehen. Drei Eingänge, alle in Position, alle in einer Höhe, die er ohne Beugen bedienen konnte. Réage-Möbel: das Werkzeug ist die Position selbst. Sie war nicht gefesselt um zu erleiden — sie war fixiert um verfügbar zu sein. Er ging einmal um den Bock herum, prüfte alle Riemen mit dem Daumen. Dann begann er hinten, weil er heute hinten beginnen wollte.*
+
 #### 4.74 Wohnzimmertisch-Spalt — Brüste hängen durch, Mann darunter
 
 **(A)** *Sie lag auf dem Tisch auf dem Bauch, ihre Brüste durch den Spalt zwischen den beiden Tischhälften. Sie hingen frei nach unten. Er lag auf dem Boden unter dem Tisch, das Gesicht direkt unter ihren Brüsten. Er spielte mit ihnen — Lippen, Zunge, Hände, Klemmen — eine Stunde lang.*
@@ -964,6 +976,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Bleib oben." Sie lag still. Unter dem Tisch sein Gesicht. Er biss leicht in eine Brustwarze, leckte die andere. Klemme links, Mund rechts, dann wechselte er. Sie konnte nichts sehen, nur fühlen, was an einer Stelle ihres Körpers passierte, die sich nicht sah.*
 
 **(C)** *Tisch als Schwelle zwischen oben und unten. Oben sie, vollständig. Unten ihre Brüste, vollständig. Er besuchte sie nur unten — der Rest blieb für ihn unsichtbar. Réage-Topographie: ein Körperteil bekam alle Aufmerksamkeit, der Rest wartete.*
+
+**(D)** *Sie hatten sich den Wohnzimmertisch zerlegen lassen — zwei Hälften, die durch einen schmalen Spalt in der Mitte getrennt waren, gerade breit genug, dass ihre Brüste hindurchfielen. Sie kletterte oben hinauf, legte sich auf den Bauch — der Tisch war hoch genug, dass er unter ihr Platz fand. Ihre Brüste fielen durch den Spalt frei nach unten, in den Raum, in dem er auf einem Kissen lag. Sie sah nichts von ihm; sie sah nur die Holzplatte unter ihrem Gesicht. Er sah nichts von ihr; er sah nur die zwei Brüste, die durch den Spalt hingen, im Licht der Lampe. Eine Stunde lang spielte er mit ihnen. Erst die Lippen — er saugte leicht an der linken Brustwarze, dann an der rechten. Dann eine Klemme an die linke, der Mund weiterhin an der rechten — sie zuckte oben, sie hörte sich selbst nicht. Dann Eis, dann wieder Mund, dann ein leichter Biss. Tisch als Schwelle: oben sie, vollständig; unten ihre Brüste, vollständig. Er besuchte sie nur unten. Sie kam einmal — eine Welle, die durch die Brüste in den Bauch wanderte —, ohne dass etwas anderes berührt worden wäre.*
 
 ### Cluster C2 — Outfits & Anonymität
 
@@ -975,6 +989,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Anonymität als Spiel: nicht weniger sie, sondern mehr eine Variante von ihr. Die Perücke schwarz, das Kleid kurz, die Stiefel über das Knie. Niemand wusste, wer sie war — er auch nicht ganz. Sie probierte aus, was sie sein konnte.*
 
+**(D)** *Sie waren in eine andere Stadt gefahren, drei Stunden mit der Postkutsche, eine Stadt, in der sie keiner kannte. Im Gasthaus zog sie um — die Perücke aus schwarzem Echthaar, glatt, kürzer als ihr eigenes; das Kleid mit tiefem Ausschnitt und Saum oberhalb des Knies, die Stiefel mit hohen Absätzen, die ihr halb über das Knie reichten. Die Schenkel nackt zwischen Saum und Stiefel — keine Strümpfe, kein Strumpfgürtel. Sie betrachtete sich im Spiegel des Zimmers und kannte sich kaum. „Heute heißt du nicht Maren", sagte er. Sie nickte. Sie gingen ins Restaurant, eingehängt — er führte sie. Drei Männer am Nebentisch sahen sie an, sie sah nicht zurück. Beim Hauptgang setzte er ihr unter dem Tisch die Hand auf die nackte Innenseite des Schenkels, hoch genug, dass sie ihn spürte. Sie hielt das Glas ruhig. Die Stadt sah sie als jemand anders. Sie probierte die Variante aus — wie sie ging, wie sie nickte, wie sie das Glas hob. Erst nach Mitternacht zogen sie das Kostüm wieder aus, im Gasthaus, allein. Sie war wieder sie. Aber etwas von der anderen blieb für eine Weile.*
+
 #### 4.76 Eingekleidet vom Dom — Outfit-Selektion als Power-Geste
 
 **(A)** *Auf dem Bett lagen Kleidung, Schmuck, Strumpfgürtel, Strümpfe — alles ausgewählt. Er sagte: „Das hier." Sie zog an. Schwarzes Kleid, Spitze am Saum, Mieder unter dem Stoff. Schmuck am Hals, Ohrringe. Lippenstift wie er es wollte.*
@@ -982,6 +998,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Nicht das. Das andere." Drei Versuche, bis er zufrieden war. Jedes Mal zog sie aus, dann wieder an. Sie sah ihn an im Spiegel; er nickte beim vierten Mal. Erst dann gingen sie aus.*
 
 **(C)** *Réage-Pattern: Kleidung als Aussage. Was sie trug, hatte er gewählt. Es bedeckte alles, aber jedes Stück saß so, wie er es wollte. Sie war öffentlich kleidbar, privat zeichenbar. Das Kleid trug die Aufschrift seines Geschmacks, niemand sah sie.*
+
+**(D)** *Auf dem Bett im Ankleidezimmer lagen die Stücke, die er heute Nachmittag bei der Schneiderin hatte machen lassen — schwarzes Kleid mit Spitzensaum, Strumpfgürtel mit dunklen Strümpfen, ein Mieder aus Wachstuch, ein Halsband mit kleinem Messingring vorne, Ohrringe mit Granaten, Lippenstift in einem Tönungston, den er ausgesucht hatte. „Das hier", sagte er. Sie zog an, langsam — Strümpfe, Strumpfgürtel, Mieder, Kleid. Sie schminkte sich vor dem Spiegel, malte die Lippen, wie er es wollte: ein wenig dunkler als sonst, oben schmal, unten voller. Sie zeigte sich ihm. Er trat heran, prüfte das Mieder mit dem Daumen — eine Spur enger, sagte er. Sie zog es nochmal aus, zog es enger an, kam zurück. Er nickte. Réage-Pattern: Kleidung als Aussage. Was sie trug, hatte er gewählt. Es bedeckte alles, aber jedes Stück saß so, wie er es wollte. Sie war öffentlich kleidbar, privat zeichenbar. Das Kleid trug die Aufschrift seines Geschmacks, niemand außer ihnen las sie.*
 
 #### 4.77 Anonym-freizügig: durchsichtiger Stoff + Maske
 
@@ -991,6 +1009,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Réage-Logik der Maskerade: Anonymität macht Sichtbarkeit erträglich. Bedeckt im Gesicht, gezeigt am Körper. Sie konnte den Blick aushalten, weil ihr Name nicht daran haftete.*
 
+**(D)** *Der Maskenball war im Stadtpalais des Grafen, eingeladen waren fünfzig Paare — Einlass nur mit Empfehlung. Sie hatten beide Masken — schwarze Seide, die Augen und Nase bedeckten, der Mund frei. Sie trug ein Kleid aus feinem Tüll, fast durchsichtig: die Brüste klar erkennbar darunter, der Schamhügel im Schatten zu erkennen. Stiefel über das Knie, schwarze Strümpfe, ein Halsband. Niemand kannte sie unter der Maske. Sie ging neben ihm in den Saal — fünfzig Augenpaare folgten ihrem Eintritt. Sie war nackt unter einem Schleier, sichtbar nur dem, der hinsehen wollte. Drei Männer und zwei Frauen sprachen sie im Lauf des Abends an, alle in Masken. Sie antwortete in einer Stimme, die nicht ihre war. Beim Tanzen presste er sie an sich, seine Hand fand unter dem Tüll ihre Brust — niemand sah, jeder sah. Réage-Logik der Maskerade: Anonymität macht Sichtbarkeit erträglich. Bedeckt im Gesicht, gezeigt am Körper. Sie konnte den Blick aushalten, weil ihr Name nicht daran haftete. Bei Mitternacht zog er sie in einen Nebenraum und nahm sie an einem Spiegel.*
+
 #### 4.78 Halsband + Reizwäsche — Display-and-Wait
 
 **(A)** *Sie zog Reizwäsche an: Strumpfgürtel mit Strümpfen, Mieder offen vorne, kein Höschen. Halsband um den Hals mit Messingring. Sie legte sich auf das Bett, eine Hüfte angewinkelt, eine Hand zwischen den Schenkeln offen. Sie wartete.*
@@ -998,6 +1018,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Lege dich so, dass alles offen ist." Sie tat es: rücklings, Schenkel weit, Schoß sichtbar, Arme über dem Kopf. Halsband auf dem Schlüsselbein, Messingring auf der Brust. Sie wartete eine Stunde.*
 
 **(C)** *Reizwäsche als Réage-Geometrie: kein Schutz, alles Marker. Strumpfgürtel hielt die Strümpfe, das Mieder hielt die Brüste — beide hoben hervor, statt zu bedecken. Halsband als Eigentum. Sie wartete in der Position, die sie sich für ihn ausgesucht hatte.*
+
+**(D)** *Sie hatte den ganzen Vormittag schon in Erwartung gestanden. Mittagszeit zog sie sich um — ein Strumpfgürtel aus dunklem Satin, dunkle Strümpfe bis über das Knie, ein Mieder, das vorne offen war und die Brüste hochhob, ohne sie zu bedecken. Kein Höschen. Das Halsband schloss sie selbst um den Hals, der Messingring vorne. Sie ging ins Schlafzimmer, legte sich auf das Bett — nicht in seine Mitte, sondern zur Bettkante hin, eine Hüfte angewinkelt, eine Hand zwischen den Schenkeln offen, die andere über dem Kopf. Sie wartete. Eine halbe Stunde verstrich, eine ganze. Sie hörte ihn unten ankommen, mit Mantel und Stiefeln, das Klacken auf der Treppe. Er trat ins Zimmer, blieb in der Tür stehen. Er sah sie. Er sagte nichts. Er kam ans Bett, beugte sich, hob den Messingring am Halsband mit dem Zeigefinger einen Augenblick. Erst dann öffnete er den Kragen seines Hemdes. Reizwäsche als Réage-Geometrie: kein Schutz, alles Marker. Sie hatte sich für ihn vorbereitet, und er hatte gesehen, was sie vorbereitet hatte.*
 
 #### 4.79 Wald-Spaziergang — Kurzer Rock ohne Unterwäsche
 
@@ -1007,6 +1029,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Réage-Outdoor: das Setting tat die Arbeit. Bäume hatten keine Augen, aber sie waren da. Sie ging mit der Möglichkeit gesehen zu werden bei jedem Schritt. Der Rock war kurz genug, dass ein Bücken sie bloßlegte. Er ließ sie sich bücken zweimal auf dem Weg.*
 
+**(D)** *Sie waren mit der Kutsche an den Waldrand gefahren, am späten Vormittag, einem Sonntag, an dem die Pfade frei waren. Sie zog den Mantel aus, ließ ihn in der Kutsche. Darunter trug sie nur einen kurzen Wollrock, hoch geschnürte Stiefel und das Hemd. Keine Unterwäsche, keine Strümpfe. Bei jedem Schritt rieb der Saum des Rocks an den Innenseiten ihrer Schenkel, eine Bewegung, die sie nicht ignorieren konnte. Er ging neben ihr, eingehängt. Eine Stunde lang folgten sie dem Pfad — Buchenwald, Lichtung, ein Bach, den sie überqueren mussten. Beim Bach hieß er sie stehen bleiben. Er trat zehn Schritt zurück, drehte sich um. „Heb den Rock." Sie hob ihn mit beiden Händen, hielt ihn an der Hüfte. Sie stand am Waldweg, der Schoß sichtbar im Mittagslicht. Eine Minute lang sah er. Dann nickte er — sie ließ den Rock fallen, ging weiter. Réage-Outdoor: das Setting tat die Arbeit. Bäume hatten keine Augen, aber sie waren da. Sie ging mit der Möglichkeit gesehen zu werden bei jedem Schritt. Er ließ sie sich bücken zweimal auf dem Weg, einmal um eine Blume aufzuheben, einmal vor einer Bank, deren Sitzfläche er prüfen wollte.*
+
 #### 4.80 Glanz-Minikleid (Era-Anpassung: Wachstuch / lackierter Stoff; modern: Latex)
 
 **(A)** *Das Kleid eng wie eine zweite Haut, glänzend bis zum Knie, kein Saum-Spiel. Beim Atmen straffte es sich auf den Brüsten. Bei jedem Schritt zog es an den Hüften. Sie konnte sich nicht setzen, ohne dass jemand es bemerkte.*
@@ -1014,6 +1038,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Zieh das an." Sie hatte gewusst, dass es schwer sein würde. Sie zog es über, mit Mühe — das Material gab nicht nach. Es schloss von Hals bis zum Schenkel, eng. Sie bewegte sich vorsichtig.*
 
 **(C)** *Glänzender Stoff als Réage-Möbel: nicht Schutz, sondern Skulptur. Das Kleid formte sie, statt sie zu bedecken. Brüste, Hüften, Schenkel — alles betont. Sie war Zeichen ihrer eigenen Form.*
+
+**(D)** *Das Kleid hatte er von einem Schneider in der Marktstraße machen lassen — eng wie eine zweite Haut, aus Wachstuch über schwarzer Seide gearbeitet, glänzend bis zum Knie. Beim Anziehen zog sie es mit Mühe über die Hüften, der Stoff gab nicht nach. Beim Atmen straffte es sich auf den Brüsten — die Brustwarzen drückten sich durch das Wachstuch ab, kleine Erhebungen, die jeder im Raum sehen würde. Sie konnte sich nicht beugen, ohne dass der Saum hochrutschte; sie konnte sich nicht setzen, ohne dass jemand es bemerkte. Beim Gehen zog der Stoff bei jedem Schritt an den Hüften, ein leichtes Knirschen. Er führte sie ins Restaurant, eine späte Gesellschaft, sie war die einzige in einem Kleid wie diesem. Drei Männer am Nachbartisch tauschten Blicke. Sie hielt sich aufrecht. Beim Essen aß sie wenig, weil das Kleid sich um den Bauch zusammenzog. Beim Stehen wurden sie und das Kleid zur Skulptur — er sah ihr von hinten zu, wie sie zur Toilette ging, sah die Hüften, die das Wachstuch in jedem Schritt bewegte. Glänzender Stoff als Réage-Möbel: das Kleid formte sie, statt sie zu bedecken. Sie war Zeichen ihrer eigenen Form.*
 
 ### Cluster C3 — Settings (Public)
 
@@ -1025,6 +1051,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Réage-Roissy-light: nicht Initiation, sondern Bezeugung. Sie waren in der Welt der Sicht, nicht der Berührung. Drei andere Paare sahen sie, sie sah drei andere Paare. Sie kam unter dem Blick anderer, mit ihm allein.*
 
+**(D)** *Der Salon lag in einer Nebenstraße der Hauptstadt, ein Stadtpalais mit unauffälligem Eingang. Empfehlung von einem alten Bekannten ihres Geliebten — eingeladen waren acht Paare diesen Abend, alle einzeln nach Geschmack ausgesucht. Drei Räume: einer für Drinks, einer für Sicht, einer für Tun. Sie und er hatten vorher die Regel ausgemacht — heute schauen sie nur, oder sie sind allein in ihrer Sphäre. Niemand kommt dazu. Sie tranken im ersten Raum kurzen Cognac mit einem Paar, das sie nicht kannten. Sie gingen in den zweiten Raum — dort lag schon ein Paar im Halbdunkel auf einem Sofa, beobachtet von zwei anderen. Sie sah zu, eine halbe Stunde lang, mit ihrer Hand in seiner. Im dritten Raum lagen vier andere — ein Paar war fast fertig, ein anderes begann gerade. Sie und er fanden eine Couch im Nebenraum, an der vier andere Augenpaare hingen. Er zog sie an, sie zog ihn aus. Er nahm sie langsam — niemand berührte sie außer ihm. Sie kam unter dem Blick anderer, mit ihm allein. Réage-Roissy-light: nicht Initiation, sondern Bezeugung.*
+
 #### 4.82 Bondage-Lehrmeister-Unterricht (Anfänger-Kurs / Privatlektion 1820-Era)
 
 **(A)** *Der Lehrmeister war Anfang fünfzig, weiße Haare, präzise Hände. Sechs Paare im Raum. Erste Übung: einfacher Brust-Halter aus Hanfseil. Er führte vor, dann probierten die Paare. Er ging herum, korrigierte. Sie ließ sich von ihm fesseln, lernte den Knoten von außen.*
@@ -1032,6 +1060,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Festigkeit, nicht Enge." Der Lehrmeister legte den Knoten zwischen den Schulterblättern. Sie spürte den Druck — gleichmäßig, kein Zwicken. Er sah zu, lernte. Beim zweiten Durchgang machte er es selbst.*
 
 **(C)** *Lehrmeisters Werkstatt: Seile in fünf Stärken an der Wand, Knoten-Tafeln, Halterungen an der Decke. Réage-Wissenschaft des Bandes. Sie lernte als Sub und als Lernende — beide Rollen gleichzeitig.*
+
+**(D)** *Die Werkstatt des Lehrmeisters lag im Hinterhof eines Stadthauses, der Eingang nur durch eine Empfehlung. Innen ein Raum mit Holzwänden, Hanfseile in fünf verschiedenen Stärken an der Wand, Knoten-Tafeln aus Pappe mit Zeichnungen, Halterungen an der Decke. Sechs Paare standen oder saßen im Halbkreis um den Lehrmeister — Anfang fünfzig, weiße Haare, präzise Hände, ruhige Stimme. „Heute der einfache Brust-Halter aus Hanfseil", sagte er. Er zeigte den Knoten an einer Frau, die er als Demonstration mitgebracht hatte — drei Wicklungen unter und über jeder Brust, Knoten zwischen den Schulterblättern. Dann durften die Paare üben. Ihr Geliebter nahm das Seil, legte es an. Der Lehrmeister kam, prüfte. „Festigkeit, nicht Enge", sagte er und setzte den Knoten leicht um. Sie spürte den Druck — gleichmäßig jetzt, kein Zwicken. Beim zweiten Durchgang machte ihr Geliebter es selbst, ohne Korrektur. Sie lernte als Sub und als Lernende, beide Rollen gleichzeitig — sie fühlte den Knoten, sie sah, wie er gemacht wurde. Réage-Wissenschaft des Bandes: Wissen, das durch zwei Körper geht.*
 
 ### Cluster C4 — Spiele & Regeln
 
@@ -1043,6 +1073,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Réage-Boarding-School: das Verdienen war der Akt, das Versagen war der Akt. Nicht das Gedicht zählte, sondern dass sie es lernte. Nicht das Servieren, sondern das Schweigen dabei. Bei jeder Aufgabe wuchs die Möglichkeit zur Strafe.*
 
+**(D)** *Auf dem Tisch lag die Liste, in seiner Handschrift: zehn Aufgaben für den Abend. Drei Strafen-Skalen am Rand vermerkt — drei Schläge mit dem Reitstock bei jedem Fehler, mit der Anzahl steigend pro Wiederholung. „Du verdienst dir den Orgasmus", hatte er ihr beim Eintreten gesagt. Sie nickte. Erste Aufgabe: ein Sonett auswendig in einer Stunde. Sie schaffte es in fünfundvierzig Minuten. Zweite Aufgabe: drei Geschirre vom Schrank zum Esstisch tragen ohne zu wackeln. Beim zweiten kam ein leichtes Klirren, wie das Glas auf Glas trifft. Sie hatte versagt. Sie zog selbst das Kleid hoch, beugte sich über den Tisch. Drei Schläge mit dem Reitstock — sauber gezogen, schmale rote Linien. „Weiter." Dritte Aufgabe: Servieren ohne Geräusch. Sie ging langsam, setzte jeden Fuß ab, prüfte das Gewicht des Tabletts mit der Innenseite der Daumen. Kein Klirren. Vierte Aufgabe: stille Position eine halbe Stunde. Sie hielt sie. Réage-Boarding-School: das Verdienen war der Akt, das Versagen war der Akt. Bei jeder Aufgabe wuchs die Möglichkeit zur Strafe — und damit die Möglichkeit zur Belohnung. Sie kam erst spät, gegen Mitternacht, nach allen zehn Aufgaben.*
+
 #### 4.84 Drei-Cum-vor-Glied — Service-bis-Cum dreimal vor Penetration
 
 **(A)** *Sie hatte das Halsband um. Bevor sie an sein Glied durfte, musste sie ihn dreimal zum Kommen bringen — Mund, Hände, Schenkel, was sie wählte. Erst der dritte Erguss machte sie würdig, ihn in sich zu nehmen.*
@@ -1050,6 +1082,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Drei Mal. Dann bittest du." Mund, dann Tittenfick, dann Hand. Drei Strähnen Samen — sie hielt jeden im Mund oder auf der Haut, bis er sie ablecken ließ. Beim dritten Mal kniete sie und sagte: „Bitte. Ich möchte ihn in mir spüren." Erst dann.*
 
 **(C)** *Réage-Ritual der Verdienste: drei Akte, drei Räume, drei Münder. Sie war Werkzeug für ihn, dreifach. Erst nach dem dritten Erguss durfte sie selbst. Sie verstand das Gleichgewicht: drei für ihn, einer für sie.*
+
+**(D)** *Sie hatte das Halsband um den Hals, der Ring vorne. Die Regel an diesem Abend: drei Mal musste sie ihn zum Kommen bringen, bevor sie an sein Glied durfte. Mund, Hände, Brüste, was sie wählte — nicht ihr Schoß. Erst der dritte Erguss machte sie würdig, ihn in sich zu nehmen. Erstes Cum: sie kniete vor ihm, nahm ihn in den Mund, zwanzig Minuten lang — Zunge an der Spitze, dann tief am Gaumen, beide Hände am Damm. Er kam in ihrem Mund, sie schluckte. Sie wartete eine Stunde, brachte ihm Wein und Brot, sprach nicht. Zweites Cum: sie kniete über ihm, ihre Brüste um sein Glied, Tittenfick mit Speichel als Gleitmittel. Er kam zwischen ihren Brüsten, eine warme Spur an ihrem Hals. Sie verteilte ihn mit dem Daumen, leckte den Rest. Wartezeit. Drittes Cum: sie stand vor ihm, eine Hand an seinem Glied, die andere an seinem Damm — der Handjob ihrer Wahl, weil sie wusste, was wirkte. Er kam in ihre Hand. Sie leckte sie sauber, jede Spur. Erst dann kniete sie und sagte leise: „Bitte. Ich möchte ihn in mir spüren." Er nickte. Sie verstand das Gleichgewicht — drei für ihn, einer für sie.*
 
 #### 4.85 Fünf-Verbote-Rest-erlaubt
 
@@ -1059,6 +1093,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Das Spiel der Begrenzung: das Erlaubte begann am Rand des Verbotenen. Sie hatte fünf Linien gezogen, alles dazwischen war offen. Drei Stunden lang erfuhr sie die Erlaubnisse, eine nach der anderen.*
 
+**(D)** *Sie hatten das Spiel vor einem Monat besprochen. Heute war der Abend dafür. Sie schrieb auf einen Zettel fünf Verbote: keine Markierung mit Eisen oder Tinte, keine Schläge im Gesicht, keine vierte Person, kein Würgen, keine Erniedrigung im Spiel mit anderen. Sie legte den Zettel auf den Tisch. Er las ihn, faltete ihn, legte ihn in die Tischschublade. Augenbinde aus schwarzer Seide, Hände hinter dem Rücken zusammengebunden, Knöchel an den Bettpfosten. „Was nicht auf der Liste ist, ist Spiel", sagte er. Sie nickte. Sie wusste nicht, was kam, sie wusste nur, was nicht kam. Réage-Vertrauen durch Negativ-Definition. Drei Stunden lang erfuhr sie die Erlaubnisse, eine nach der anderen — Klemmen, Wachs, Reitstock auf den Schenkeln, Sex von hinten, dann von vorne, dann Mund. Bei jeder neuen Berührung dachte sie kurz: gehört das zu den Verboten? Nein. Dann ließ sie es geschehen. Das Erlaubte begann am Rand des Verbotenen. Sie hatte fünf Linien gezogen, alles dazwischen war offen. Sie kam viermal — beim dritten Mal weinte sie ein wenig, beim vierten lachte sie kurz, ohne Grund, weil das Vertrauen ihr leicht war.*
+
 #### 4.86 Drei-Mal-Cum-Mandate
 
 **(A)** *„Wir hören nicht auf, bis du dreimal gekommen bist." Sie nickte. Erste Welle, sie kam — laut, einmal. Er ließ ihr eine Minute, dann ging es weiter. Zweites Mal, schneller jetzt, leichter. Drittes Mal: er nahm sich Zeit, weil sie es brauchte.*
@@ -1066,6 +1102,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Dreimal. Egal wie lang." Beim dritten war sie weich, übersensibel. Er setzte den Massagestab an, leicht, dann fester. Sie schluchzte einmal — er hörte nicht auf. Sie kam zum dritten Mal, anders, leiser, ein Zittern statt einer Welle.*
 
 **(C)** *Réage-Mandat: nicht Geschenk, Pflicht. Sie kam, weil er es so wollte, dreimal. Beim dritten Mal war es nicht mehr Lust — es war Erschöpfung mit Glanz. Sie ließ es geschehen.*
+
+**(D)** *Er hatte ihr beim Eintreten gesagt: „Wir hören nicht auf, bis du dreimal gekommen bist. Egal wie lange es dauert." Sie nickte, ohne zu wissen, ob das eine Stunde oder vier sein würden. Erste Welle, sie kam — laut, einmal, mit seiner Zunge an der Klitoris, drei Fingern in ihr. Sie atmete eine Minute lang aus, der Schoß noch zuckte. Er ließ ihr Zeit. Dann begann er wieder, langsamer — Mund, Hand, dann sein Glied. Zweites Mal kam sie schneller, leichter, weil ihr Körper aufgewärmt war. Eine kürzere Welle, mehr Vertrautheit. Pause, eine halbe Stunde, sie tranken Wasser, lagen aneinander. Beim dritten Mal war sie weich, übersensibel, jede Berührung ein Echo der vorherigen. Er nahm den Massagestab, setzte ihn an ihre Klitoris, leicht zuerst, dann fester. Sie schluchzte einmal — er hörte nicht auf. Sie kam zum dritten Mal, anders als die ersten zwei: leiser, ein Zittern statt einer Welle, eine Art Erschöpfung, die nicht traurig war, sondern hell. Réage-Mandat: nicht Geschenk, Pflicht. Sie kam, weil er es so wollte. Beim dritten Mal war es nicht mehr Lust — es war Erschöpfung mit Glanz. Er hielt sie danach, lange.*
 
 #### 4.87 Würfel-Schlagspiel (Werkzeug + Anzahl + Stärke, ausweichbar durch Angebot)
 
@@ -1075,6 +1113,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Würfel als Schicksal, Angebot als Ausweg. Sie spielte beides: das Würfeln war Spiel, das Angebot war Ernst. Bei jedem Wurf entschied sie zweimal — einmal durch das Werfen, einmal durch das Annehmen.*
 
+**(D)** *Auf dem Tisch lagen drei Holzwürfel — größer als gewöhnliche Spielwürfel, mit eingebrannten Symbolen auf jeder Seite. Auf einem Bogen Papier daneben die Tabelle: Würfel eins für das Werkzeug (Hand, Reitstock, Flogger, Paddel, Riemen, neunschwänzige Peitsche), Würfel zwei für die Anzahl (drei, sechs, neun, zwölf, fünfzehn, achtzehn), Würfel drei für die Stärke (eins bis sechs). Sie würfelte: vier — Reitstock; sechs — sechs Schläge; drei — mittlere Stärke. Sie kannte den Reitstock, sie hatte ihn schon erfahren. Sie hätte das Werkzeug ablehnen können — aber nur durch ein Angebot, etwas, das sie sonst nicht tat. Heute Nacht: sie würde ihm erlauben, ihren Anus ohne Vorbereitung zu nehmen, wenn sie den Reitstock nicht wollte. Sie nahm den Reitstock. Sechs Schläge mittlerer Stärke auf ihre Pobacken — sie zählte mit, sie spürte jeden in einer anderen Schicht. Réage-Wahl: Würfel oder eigene Aufgabe. Sie spielte beides — das Würfeln war Spiel, das Angebot war Ernst. Bei jedem Wurf entschied sie zweimal: einmal durch das Werfen, einmal durch das Annehmen oder Ablehnen.*
+
 #### 4.88 Würfel-Penetration (Art + Ort + Dauer)
 
 **(A)** *Drei Würfel: Art, Ort, Dauer. Sie würfelte: Art = drei (Massagestab mit Aufsatz), Ort = vier (Anus), Dauer = fünf (zehn Minuten). Er fettete den Stab, setzte ihn an. Zehn Minuten Anus mit dem Massagestab.*
@@ -1082,6 +1122,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Nochmal." Sie würfelte: Schwanz, Mund, vier — acht Minuten. Acht Minuten Deepthroat. Beim nächsten Wurf: Zunge, Klitoris, sechs — zwölf Minuten. Sie wussten beide nichts, sie spielten gegen den Würfel.*
 
 **(C)** *Réage-Zufallsspiel: das Spielzeug entschied, wo, wie lang. Keiner wusste, was kommt. Sie kam dreimal, nicht weil sie wollte, sondern weil die Würfel es trafen.*
+
+**(D)** *Auf dem Tisch lagen wieder drei Würfel — Art (Massagestab mit Aufsatz, Glied, Mund, Zunge, Phallus aus Glas, Phallus aus Horn), Ort (Mund, Schoß, Anus, Klitoris außen, beide Brüste, alle drei zusammen), Dauer (eine Sanduhr von vier bis vierundzwanzig Minuten in Schritten). Sie würfelte: drei — Massagestab mit Aufsatz; vier — Anus; fünf — zehn Minuten. Er fettete den Stab mit Olivenöl, setzte ihn an. Zehn Minuten lang Anus mit dem Massagestab — der Stab vibrierte tief in ihr, eine Empfindung, die sie noch nicht kannte. Beim Ende der Sanduhr nahm er den Stab heraus. „Nochmal." Sie würfelte: Glied, Mund, vier — acht Minuten Deepthroat. Sie kniete vor ihm, nahm ihn auf, fand den Takt. Beim Ende der Sanduhr noch einmal. Würfel: Zunge, Klitoris, sechs — zwölf Minuten. Er kniete zwischen ihren Schenkeln, die Zunge an der Klitoris. Drei Würfe, drei Akte, jeder eine andere Schicht. Sie kam dreimal, nicht weil sie wollte, sondern weil die Würfel es trafen. Réage-Zufallsspiel: das Spielzeug entschied. Keiner wusste, was kam.*
 
 #### 4.89 Glöckchen-Tag (16 Uhr Trigger-Mechanik)
 
@@ -1091,6 +1133,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Réage-Kontrolle durch Geräusch: nicht das Halsband markierte sie, das Glöckchen tat es. Sie atmete vorsichtig, sie bewegte sich vorsichtig. Trotzdem klang es ständig. Réage-Logik: ihr Körper verriet sie selbst.*
 
+**(D)** *Sie hatte das Halsband vor dem Frühstück angelegt — schwarzes Leder, in der Mitte vorne kleine Messing-Glöckchen, drei in einer Reihe. Sie klangen bei jeder Bewegung, leise, fein. Bis sechzehn Uhr trug sie es. Wenn er das Glöckchen hörte, durfte er sie nehmen, wo immer er war, wie er wollte, solange er wollte. Sie versuchte, leise zu sein. Beim Frühstück hörte sie sich beim Schlucken — die Bewegung des Halses ließ die Glöckchen klingen. Drei Mal an diesem Vormittag fand er sie. Einmal in der Küche — sie hatte Tee aufgesetzt, ein Schritt zurück hatte das Glöckchen verraten. Er nahm sie an der Anrichte, von hinten, einen Atemzug lang, dann ließ er sie wieder gehen. Einmal im Salon — sie las ein Buch, sie hatte gehustet. Er kam, drehte sie auf den Bauch, nahm sie auf der Couch. Einmal im Garten — sie hatte sich gebückt, um eine Pflanze zu betrachten. Er kam von hinten, dort, wo niemand sah. Bei jedem Mal schaute sie auf die Uhr: noch wie viel hat sie. Bei sechzehn Uhr durfte sie das Halsband ablegen. Sie tat es nicht — sie ließ es bis zur Nacht. Der Akt war reicher gewesen als die Erlösung.*
+
 #### 4.90 Hole-Removal-Game (Halsband + 2 Toys + Höschen, Removal-by-Time)
 
 **(A)** *Halsband um. Phallus aus Glas im Schoß, Pfropfen aus Horn im Anus. Höschen darüber. Sie spielten dreißig Minuten lang miteinander — mit beidem in ihr. Nach dreißig Minuten zog sie ein Objekt — sie wählte den Pfropfen. Er fickte sie in den Anus, bis er kam.*
@@ -1098,6 +1142,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Dreißig Minuten, dann nimmst du eines raus." Sie spielten — Mund, Hand, Brust. Sie war voll, sie wusste das, er auch. Beim Wahl-Moment: sie zog den Phallus aus dem Schoß. Er kam in ihrem Schoß. „Noch dreißig Minuten." Sie zog danach den Pfropfen — er nahm sie hinten, sie machte sich mit dem Massagestab.*
 
 **(C)** *Réage-Spiel der Verfügbarkeit: ein Loch nach dem anderen für ihn freigegeben. Sie wählte die Reihenfolge, er wählte die Bewegung. Beim Ende war sie zweimal benutzt, einmal selbst gekommen.*
+
+**(D)** *Sie hatte sich vorbereitet — Halsband um, Phallus aus Glas vorne im Schoß, Pfropfen aus Horn hinten im Anus, Höschen darüber. Beide Werkzeuge saßen, beide hielt sie selbst beim Gehen. Sie kam ins Schlafzimmer. Er saß im Sessel, las. Sie hob das Kleid, zeigte ihm die Geometrie — beide Werkzeuge in ihr, das Höschen darüber. Er nickte. Dreißig Minuten lang spielten sie mit dem, was über dem Höschen war: Mund, Hände, ihre Brüste an seinem Glied, sein Mund an ihren Brustwarzen. Sie war voll, sie wusste das, er auch. Beim Ablauf der ersten Sanduhr durfte sie ein Werkzeug entfernen. Sie wählte den Phallus aus dem Schoß. Er kam in ihren Schoß, vollständig, in den noch warmen Raum, den das Glas verlassen hatte. „Noch dreißig Minuten." Bei der zweiten Sanduhr wählte sie den Pfropfen — er nahm sie hinten, langsam, sie machte sich gleichzeitig mit dem Massagestab. Sie kam einmal selbst, er kam in ihrem Anus. Réage-Spiel der Verfügbarkeit: ein Loch nach dem anderen für ihn freigegeben. Sie wählte die Reihenfolge, er wählte die Bewegung.*
 
 #### 4.91 Confession + Punishment
 
@@ -1107,6 +1153,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Réage-Beichte mit Belohnung umgekehrt: Schweigen war Sünde, nicht Geständnis. Bei jedem Wort war sie freier — und enger gefesselt. Bei jedem Schweigen fiel ein Schlag. Sie lernte zu sprechen, weil der Körper es verlangte.*
 
+**(D)** *Sie war an einen Stuhl gefesselt — Handgelenke an die Lehne, Knöchel an die Stuhlbeine, Schenkel breit auseinander, ein Massagestab gegen die Klitoris geklebt mit einem Lederband. Der Stab vibrierte ohne Unterbrechung. Auf dem Tisch lagen ein Paddel, ein Flogger, eine Klemme und ein Reitstock. „Erzähl", sagte er. Sie wusste, was er hören wollte: Geständnisse, was sie wollte, was sie sich nicht traute, eines nach dem anderen. Erstes Geständnis — schwer, weil es zum ersten Mal ausgesprochen wurde. Er nahm es mit einem Nicken. „Mehr." Zweites — leichter, weil das erste den Weg gebahnt hatte. „Mehr." Drittes — sie stockte. Er griff zum Paddel. Drei Schläge auf die Schenkel-Innenseite, sichtbare Spuren. „Weiter." Sie sprach das Geständnis. „Mehr." Sie schwieg. Er griff zum Flogger. Drei Streifen über die Brust. Sie sprach das nächste. Bei jedem Wort war sie freier — und enger gefesselt. Bei jedem Schweigen fiel ein Schlag. Sie lernte zu sprechen, weil der Körper es verlangte. Réage-Beichte mit Belohnung umgekehrt: Schweigen war Sünde, nicht Geständnis. Sie kam beim siebten Geständnis — der Stab hatte sie schon eine halbe Stunde lang gehalten.*
+
 #### 4.92 Drei-Hole-Race (5 + 5 + 5 min mit Strafe)
 
 **(A)** *„Fünf Minuten Mund. Wenn ich nicht komme, weiter zu Schoß. Fünf Minuten dort. Dann Anus. Wenn ich am Ende nicht gekommen bin: fünf Schläge mit dem Rohrstock, mit Striemen." Sie kniete vor ihm, sie nahm ihn in den Mund. Die Sanduhr lief.*
@@ -1115,6 +1163,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Réage-Wettlauf: ihr Körper gegen die Zeit. Drei Eingänge, drei Sanduhren, drei Möglichkeiten. Sie lernte, was bei ihm wirkte — Mund schnell, Schoß rhythmisch, Anus tief. Sie verlor nicht heute. Beim nächsten Mal vielleicht.*
 
+**(D)** *Drei Sanduhren standen auf dem Tisch, jede für fünf Minuten geeicht. Auf der Wand der Rohrstock — die Strafe, falls sie nicht gewann. „Fünf Minuten Mund. Wenn ich nicht komme, weiter zu Schoß. Fünf Minuten dort. Dann Anus. Wenn ich am Ende nicht gekommen bin: fünf Schläge mit dem Rohrstock, mit Striemen." Sie nickte. Sie kniete vor ihm, nahm sein Glied in den Mund. Erste Sanduhr lief. Sie arbeitete tief, schnell — Hand an der Wurzel, Mund am Gaumen, Zunge an der Spitze. Vier Minuten. Sie spürte ihn nahe. Fünf — er kam nicht. Zweite Sanduhr: sie kletterte auf ihn, ritt ihn schnell, ihren Schoß tief, der eigene Atem hörbar. Drei Minuten — fast. Fünf — nein. Dritte Sanduhr: sie kniete, er stieß in ihren Anus, sie hob das Hinterteil. Vier Minuten — sie fühlte ihn pulsieren. Fünf — er kam, in ihrem Anus, im letzten Atemzug. Sie hatte heute gewonnen. Réage-Wettlauf: ihr Körper gegen die Zeit. Drei Eingänge, drei Sanduhren. Sie lernte, was bei ihm wirkte — Mund schnell, Schoß rhythmisch, Anus tief.*
+
 #### 4.93 Forced-Edging (15 min ohne Cum)
 
 **(A)** *„Fünfzehn Minuten. Vorher kommst du nicht." Sie versuchte, sich zu kontrollieren. Er ging nicht zart vor. Mund, Finger, Massagestab — alles mit voller Intensität. Sie war an der Schwelle drei Mal, viermal. Sie hielt durch, weil er es so wollte.*
@@ -1122,6 +1172,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Bettel." Sie bat. „Nein." Er machte weiter. Bei zehn Minuten weinte sie. „Noch fünf." Sie zwang den Atem flacher. Bei fünfzehn — er ließ los. „Jetzt." Sie kam in zwei Atemzügen, lauter als je zuvor.*
 
 **(C)** *Réage-Disziplin der Zeit: nicht das Werkzeug, die Uhr war der Dom. Sie kannte den Stab, sie kannte seine Hand — sie hatten sie hundert Mal benutzt. Heute kam noch eine Schicht: das Warten. Sie hielt durch, weil das Warten Teil der Erfüllung war.*
+
+**(D)** *Eine große Sanduhr auf dem Beistelltisch, fünfzehn Minuten. „Vorher kommst du nicht." Sie wusste, was er meinte. Sie nickte, schon zur Antwort gemacht. Sie lag auf dem Bett, die Schenkel offen, gefesselt an den Pfosten. Er begann mit dem Mund, eine halbe Minute, dann zwei Finger eingeführt, beugend. Sie war nahe nach drei Minuten. Sie zog gegen die Fesseln, der Atem schneller. Er hörte nicht auf, er nahm den Massagestab dazu, hielt ihn an die Klitoris — voller Druck. Sie schrie leise, dann lauter, sie sagte „bitte". „Nein." Er machte weiter. Bei fünf Minuten zog ihr Becken sich rhythmisch zusammen, nicht mehr im Takt mit ihrer Atmung. Sie war nahe genug, dass jede Sekunde ein Kampf war. Bei zehn Minuten weinte sie. „Noch fünf." Er hielt den Stab nicht weniger fest. Sie zwang den Atem flacher, sie zählte mit der Sanduhr im Rand des Blickes. Bei vierzehn Minuten dachte sie, sie würde ohne seine Erlaubnis kommen. Sie dachte falsch. Bei fünfzehn nahm er den Stab weg, sah sie an. „Jetzt." Sie kam in zwei Atemzügen, eine Welle so lang, dass sie nicht enden wollte, lauter als je zuvor. Réage-Disziplin der Zeit: das Warten war Teil der Erfüllung.*
 
 ### Cluster C5 — Tease & Edging Long-form
 
