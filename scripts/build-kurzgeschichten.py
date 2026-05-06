@@ -1,20 +1,23 @@
 #!/usr/bin/env python3
 """
-Erzeugt story-in-work/leseproben.html aus buch/leseproben/*.md.
+Erzeugt story-in-work/kurzgeschichten.html aus buch/kurzgeschichten/*.md.
 
-Liest alle Leseproben, parst YAML-Header, konvertiert Markdown-Absätze zu HTML
-und rendert eine Übersichtsseite im Story-in-Work-Design.
+Liest alle Kurzgeschichten (Würfel-Output von /kurzgeschichte), parst YAML-Header,
+konvertiert Markdown-Absätze zu HTML und rendert eine Übersichtsseite im
+Story-in-Work-Design.
+
+Dateinamen-Pattern: YYYYMMDD-{slug}.md (z.B. 20260506-vesper-maren-werft.md).
+README.md wird übersprungen.
 """
 
-import json
 import os
 import re
 import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-LESEPROBEN_DIR = ROOT / "buch" / "leseproben"
-OUT_FILE = ROOT / "story-in-work" / "leseproben.html"
+KG_DIR = ROOT / "buch" / "kurzgeschichten"
+OUT_FILE = ROOT / "story-in-work" / "kurzgeschichten.html"
 
 
 def parse_frontmatter(text: str) -> tuple[dict, str]:
@@ -38,17 +41,19 @@ def parse_frontmatter(text: str) -> tuple[dict, str]:
             val = m.group(2).strip()
             meta[current_key] = val
         elif current_key and line.startswith(" "):
-            # Fortsetzung
             meta[current_key] += " " + line.strip()
     return meta, body
 
 
 def md_to_html(text: str) -> str:
-    """Minimaler Markdown-Renderer: Absätze, kursiv, fett, Dialog."""
+    """Minimaler Markdown-Renderer: H1/H2, Absätze, kursiv, fett."""
     text = text.strip()
 
-    # Entferne H1-Überschrift falls vorhanden (wir nutzen YAML-Titel)
-    text = re.sub(r"^#\s+.*\n+", "", text)
+    # H1 in der Body extrahieren als Titel — wir nutzen ihn separat, entfernen aus Body
+    text = re.sub(r"^#\s+.*\n+", "", text, count=1)
+
+    # H2 -> Subheading-Stil
+    text = re.sub(r"^##\s+(.+)$", r'<h2 class="kg-section">\1</h2>', text, flags=re.MULTILINE)
 
     # Horizontal rule -> Szenen-Trenner
     text = re.sub(r"^---$", '<hr class="scene-break">', text, flags=re.MULTILINE)
@@ -60,122 +65,141 @@ def md_to_html(text: str) -> str:
         p = p.strip()
         if not p:
             continue
-        if p.startswith("<hr"):
+        if p.startswith("<h2") or p.startswith("<hr"):
             html_parts.append(p)
             continue
         # Inline: **fett** -> <strong>
         p = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", p)
-        # Inline: *kursiv* -> <em>  (aber nicht wenn im Wort)
+        # Inline: *kursiv* -> <em>
         p = re.sub(r"(?<![*\w])\*([^*\n]+?)\*(?!\w)", r"<em>\1</em>", p)
-        # Zeilenumbrüche innerhalb eines Absatzes (nur bei Dialog oft): weich durchlassen
+        # Zeilenumbrüche innerhalb eines Absatzes
         p = p.replace("\n", "<br>")
         html_parts.append(f"<p>{p}</p>")
     return "\n".join(html_parts)
 
 
-def load_proben():
-    """Alle Leseproben sortiert nach führender Nummer einlesen."""
-    proben = []
-    for md_file in sorted(LESEPROBEN_DIR.glob("*.md")):
+def extract_title(body: str, slug: str) -> str:
+    """H1-Titel aus Body extrahieren, sonst Slug-zu-Titel."""
+    m = re.match(r"^#\s+(.+)$", body.strip(), flags=re.MULTILINE)
+    if m:
+        return m.group(1).strip()
+    return slug.replace("-", " ").title()
+
+
+def load_geschichten():
+    """Alle Kurzgeschichten sortiert nach Datum (neueste zuerst) einlesen."""
+    geschichten = []
+    if not KG_DIR.exists():
+        return geschichten
+
+    for md_file in sorted(KG_DIR.glob("*.md"), reverse=True):
         if md_file.name == "README.md":
             continue
         text = md_file.read_text(encoding="utf-8")
         meta, body = parse_frontmatter(text)
 
-        # Nummer + Slug aus Dateinamen
-        m = re.match(r"^(\d+)-(.+)\.md$", md_file.name)
+        # Pattern: YYYYMMDD-{slug}.md
+        m = re.match(r"^(\d{8})-(.+)\.md$", md_file.name)
         if not m:
-            continue
-        nummer = int(m.group(1))
-        slug = m.group(2)
+            # Falls jemand ohne Datum schreibt, akzeptieren wir's trotzdem
+            datum = ""
+            slug = md_file.stem
+        else:
+            datum_raw = m.group(1)
+            datum = f"{datum_raw[:4]}-{datum_raw[4:6]}-{datum_raw[6:8]}"
+            slug = m.group(2)
 
-        # Wortzahl
         wortzahl = len(re.findall(r"\b\w+\b", body))
+        titel = extract_title(body, slug)
 
-        # Status-Check: wenn "ENTWURF —" im Body, ist es noch ein Skelett
-        is_skeleton = body.lstrip().startswith("# ENTWURF") or "**Status:** Skizze" in body
-
-        proben.append({
-            "nummer": nummer,
+        geschichten.append({
+            "datum": datum,
             "slug": slug,
-            "kategorie": meta.get("kategorie", ""),
-            "pov": meta.get("pov", ""),
-            "figuren": meta.get("figuren", ""),
-            "register": meta.get("register", ""),
-            "heat_level": meta.get("heat_level", ""),
-            "primaer_referenz": meta.get("primaer_referenz", ""),
-            "ergaenzende_referenz": meta.get("ergaenzende_referenz", ""),
-            "zweck": meta.get("zweck", ""),
+            "titel": titel,
+            "typ": meta.get("typ", ""),
             "canon_status": meta.get("canon_status", ""),
+            "figuren": meta.get("figuren", ""),
+            "welt": meta.get("welt", ""),
+            "ort": meta.get("ort", ""),
+            "tageszeit": meta.get("tageszeit", ""),
+            "monat": meta.get("monat", ""),
+            "witterung": meta.get("witterung", ""),
+            "begegnungs_anlass": meta.get("begegnungs_anlass", ""),
+            "akt_sets": meta.get("akt_sets", ""),
+            "heat_level": meta.get("heat_level", ""),
+            "laenge": meta.get("laenge", ""),
             "body_html": md_to_html(body),
             "wortzahl": wortzahl,
-            "is_skeleton": is_skeleton,
         })
-    return proben
+    return geschichten
 
 
-def render_html(proben):
+def heat_class(heat: str) -> str:
+    h = (heat or "").lower()
+    if "bdsm" in h:
+        return "bdsm"
+    if "tantra" in h or "slow" in h:
+        return "tantra"
+    if "heat" in h or "explizit" in h:
+        return "heat"
+    return "other"
+
+
+def render_html(geschichten):
     """HTML-Seite im Story-in-Work-Design rendern."""
-    probe_cards = []
+    cards = []
     total_words = 0
-    total_ready = 0
 
-    for p in proben:
-        if not p["is_skeleton"]:
-            total_ready += 1
-            total_words += p["wortzahl"]
+    for g in geschichten:
+        total_words += g["wortzahl"]
+        slug_id = f"kg-{g['datum']}-{g['slug']}" if g["datum"] else f"kg-{g['slug']}"
+        kapid = slug_id  # für Comment-System
 
-        nr_str = f"{p['nummer']:02d}"
-        pov = p["pov"] or "—"
-        heat = p["heat_level"] or "—"
-        kategorie = p["kategorie"] or p["slug"]
-        status_badge = "SKIZZE" if p["is_skeleton"] else "BEREIT"
-        status_class = "sk" if p["is_skeleton"] else "ok"
-
-        # Escape-Helper für Attribute
         def esc(s):
             return (s or "").replace('"', "&quot;").replace("<", "&lt;").replace(">", "&gt;")
 
+        h_class = heat_class(g["heat_level"])
+
         card = f'''
-        <div class="probe-card" id="p-{nr_str}" data-nr="{nr_str}" data-kapid="lp{nr_str}" data-pov="{esc(pov)}" data-heat="{esc(heat)}" data-skeleton="{1 if p["is_skeleton"] else 0}" data-comments-loaded="0">
-          <div class="probe-head">
-            <div class="probe-left">
-              <div class="probe-num">Nr. {nr_str}</div>
-              <div class="probe-kat">{esc(kategorie)}</div>
+        <div class="kg-card" id="{slug_id}" data-kapid="{kapid}" data-welt="{esc(g["welt"])}" data-heat="{h_class}" data-figuren="{esc(g["figuren"])}" data-comments-loaded="0">
+          <div class="kg-head">
+            <div class="kg-left">
+              <div class="kg-date">{esc(g["datum"])}</div>
+              <div class="kg-titel">{esc(g["titel"])}</div>
             </div>
-            <div class="probe-right">
-              <div class="probe-meta">
-                <span class="meta-pov">{esc(pov)}</span>
+            <div class="kg-right">
+              <div class="kg-meta">
+                <span class="meta-figuren">{esc(g["figuren"])}</span>
                 <span class="meta-sep">·</span>
-                <span class="meta-heat">{esc(heat)}</span>
+                <span class="meta-welt">{esc(g["welt"])}</span>
               </div>
-              <div class="probe-status s-{status_class}">{status_badge}</div>
-              <div class="probe-arrow">&#x203A;</div>
+              <div class="kg-heat heat-{h_class}">{esc(g["heat_level"])}</div>
+              <div class="kg-arrow">&#x203A;</div>
             </div>
           </div>
-          <div class="probe-body">
-            <div class="probe-info">
+          <div class="kg-body">
+            <div class="kg-info">
               <dl>
-                <dt>POV</dt><dd>{esc(p["pov"])}</dd>
-                <dt>Figuren</dt><dd>{esc(p["figuren"])}</dd>
-                <dt>Register</dt><dd>{esc(p["register"])}</dd>
-                <dt>Heat</dt><dd>{esc(p["heat_level"])}</dd>
-                <dt>Primär</dt><dd>{esc(p["primaer_referenz"])}</dd>
-                <dt>Ergänzend</dt><dd>{esc(p["ergaenzende_referenz"])}</dd>
-                <dt>Zweck</dt><dd>{esc(p["zweck"])}</dd>
-                <dt>Wörter</dt><dd>{p["wortzahl"]}</dd>
+                <dt>Figuren</dt><dd>{esc(g["figuren"])}</dd>
+                <dt>Welt</dt><dd>{esc(g["welt"])}</dd>
+                <dt>Ort</dt><dd>{esc(g["ort"])}</dd>
+                <dt>Zeit</dt><dd>{esc(g["tageszeit"])} · {esc(g["monat"])} · {esc(g["witterung"])}</dd>
+                <dt>Anlass</dt><dd>{esc(g["begegnungs_anlass"])}</dd>
+                <dt>Akt-Sets</dt><dd>{esc(g["akt_sets"])}</dd>
+                <dt>Heat</dt><dd>{esc(g["heat_level"])}</dd>
+                <dt>Wörter</dt><dd>{g["wortzahl"]}</dd>
               </dl>
             </div>
-            <div class="probe-prosa">
-              {p["body_html"]}
+            <div class="kg-prosa">
+              {g["body_html"]}
             </div>
           </div>
         </div>
         '''
-        probe_cards.append(card)
+        cards.append(card)
 
-    cards_html = "\n".join(probe_cards)
-    total_count = len(proben)
+    cards_html = "\n".join(cards)
+    total_count = len(geschichten)
 
     return f'''<!DOCTYPE html>
 <html lang="de">
@@ -183,10 +207,10 @@ def render_html(proben):
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="robots" content="noindex, nofollow">
-  <title>Der Riss — Leseproben</title>
+  <title>Der Riss — Kurzgeschichten</title>
   <link rel="stylesheet" href="../styles.css">
-  <link rel="stylesheet" href="/story-in-work/sidebar.css?v=20260502e">
-  <script src="/story-in-work/sidebar.js?v=20260502e" defer></script>
+  <link rel="stylesheet" href="/story-in-work/sidebar.css?v=20260506a">
+  <script src="/story-in-work/sidebar.js?v=20260506a" defer></script>
   <style>
     :root {{
       --cream: #f5f0e8; --ink: #1e1c19; --muted: #6b6259;
@@ -250,88 +274,95 @@ def render_html(proben):
     .filter-btn:hover {{ border-color: var(--paper-edge); color: #fff; }}
     .filter-btn.active {{ background: var(--accent); border-color: var(--accent); color: var(--paper); }}
 
-    /* Probe-Karte */
-    .probe-card {{
+    /* Kurzgeschichte-Karte */
+    .kg-card {{
       background: var(--paper);
       border-radius: 2px 6px 6px 2px;
       box-shadow: 0 0 0 1px var(--paper-edge), 0 8px 28px rgba(0,0,0,0.25);
       margin-bottom: 1rem; overflow: hidden; position: relative;
     }}
-    .probe-card::before {{
+    .kg-card::before {{
       content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 3px;
       background: linear-gradient(180deg, var(--paper-edge) 0%, #c8bfb0 50%, var(--paper-edge) 100%);
     }}
-    .probe-card[data-skeleton="1"] {{ opacity: 0.55; }}
-    .probe-card[data-skeleton="1"]::before {{
-      background: linear-gradient(180deg, #d4cec2 0%, #b8ae9a 50%, #d4cec2 100%);
-    }}
 
-    .probe-head {{
+    .kg-head {{
       display: flex; align-items: center; justify-content: space-between;
       padding: 1rem 1.5rem; cursor: pointer; user-select: none;
       border-bottom: 1px solid rgba(107,58,58,0.04);
       transition: background 0.2s;
       gap: 1rem;
     }}
-    .probe-head:hover {{ background: rgba(107,58,58,0.02); }}
-    .probe-left {{ display: flex; flex-direction: column; gap: 0.15rem; min-width: 0; flex: 1; }}
-    .probe-num {{
+    .kg-head:hover {{ background: rgba(107,58,58,0.02); }}
+    .kg-left {{ display: flex; flex-direction: column; gap: 0.15rem; min-width: 0; flex: 1; }}
+    .kg-date {{
       font-family: 'Inter', sans-serif; font-size: 0.6rem;
       letter-spacing: 0.25em; text-transform: uppercase; color: var(--smoke);
     }}
-    .probe-kat {{
+    .kg-titel {{
       font-family: 'Cormorant Garamond', serif; font-size: 1.05rem;
       font-weight: 400; color: var(--ink); line-height: 1.3;
     }}
-    .probe-right {{ display: flex; align-items: center; gap: 1rem; flex-shrink: 0; }}
-    .probe-meta {{
+    .kg-right {{ display: flex; align-items: center; gap: 1rem; flex-shrink: 0; }}
+    .kg-meta {{
       font-family: 'Inter', sans-serif; font-size: 0.65rem;
       color: var(--muted); text-align: right; line-height: 1.5;
+      max-width: 200px;
     }}
     .meta-sep {{ color: var(--smoke); margin: 0 0.3rem; }}
-    .probe-status {{
+    .kg-heat {{
       font-family: 'Inter', sans-serif; font-size: 0.58rem;
-      letter-spacing: 0.1em; text-transform: uppercase;
+      letter-spacing: 0.08em;
       padding: 0.2rem 0.45rem; border-radius: 2px;
+      max-width: 140px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
     }}
-    .probe-status.s-ok {{ background: rgba(46,139,87,0.12); color: #2E8B57; }}
-    .probe-status.s-sk {{ background: rgba(139,115,85,0.12); color: #8B7355; }}
-    .probe-arrow {{ font-size: 1rem; color: var(--smoke); transition: transform 0.3s; }}
-    .probe-head.open .probe-arrow {{ transform: rotate(90deg); }}
+    .kg-heat.heat-bdsm {{ background: rgba(139,58,58,0.18); color: #8b3a3a; }}
+    .kg-heat.heat-heat {{ background: rgba(184,116,82,0.18); color: #a85f3a; }}
+    .kg-heat.heat-tantra {{ background: rgba(70,110,70,0.18); color: #4f7a4f; }}
+    .kg-heat.heat-other {{ background: rgba(139,115,85,0.12); color: #8B7355; }}
+    .kg-arrow {{ font-size: 1rem; color: var(--smoke); transition: transform 0.3s; }}
+    .kg-head.open .kg-arrow {{ transform: rotate(90deg); }}
 
-    .probe-body {{
+    .kg-body {{
       max-height: 0; overflow: hidden;
       transition: max-height 0.4s ease;
       background: #fbf7f0;
     }}
-    .probe-body.open {{ max-height: 30000px; }}
+    .kg-body.open {{ max-height: 30000px; }}
 
-    .probe-info {{
+    .kg-info {{
       padding: 1rem 1.5rem 0.5rem;
       border-bottom: 1px dashed rgba(107,58,58,0.12);
     }}
-    .probe-info dl {{
+    .kg-info dl {{
       display: grid; grid-template-columns: 100px 1fr;
       gap: 0.25rem 1rem; margin: 0;
       font-family: 'Inter', sans-serif; font-size: 0.7rem;
     }}
-    .probe-info dt {{ color: var(--smoke); letter-spacing: 0.05em; text-transform: uppercase; font-size: 0.6rem; padding-top: 0.15rem; }}
-    .probe-info dd {{ margin: 0; color: var(--muted); line-height: 1.5; }}
+    .kg-info dt {{ color: var(--smoke); letter-spacing: 0.05em; text-transform: uppercase; font-size: 0.6rem; padding-top: 0.15rem; }}
+    .kg-info dd {{ margin: 0; color: var(--muted); line-height: 1.5; }}
 
-    .probe-prosa {{
+    .kg-prosa {{
       padding: 1.2rem 2rem 2rem;
       font-family: 'Cormorant Garamond', serif;
       font-size: 1rem; line-height: 1.75; color: var(--ink);
     }}
-    .probe-prosa p {{ margin: 0 0 0.9rem; position: relative; }}
-    .probe-prosa em {{ font-style: italic; }}
-    .probe-prosa strong {{ font-weight: 600; }}
-    .probe-prosa hr.scene-break {{
+    .kg-prosa p {{ margin: 0 0 0.9rem; position: relative; }}
+    .kg-prosa em {{ font-style: italic; }}
+    .kg-prosa strong {{ font-weight: 600; }}
+    .kg-prosa h2.kg-section {{
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.75rem; letter-spacing: 0.3em; text-transform: uppercase;
+      color: var(--smoke); margin: 1.5rem 0 0.8rem; font-weight: 400;
+      border-bottom: 1px solid rgba(107,58,58,0.15);
+      padding-bottom: 0.3rem;
+    }}
+    .kg-prosa hr.scene-break {{
       border: none; border-top: 1px solid rgba(107,58,58,0.2);
       width: 40%; margin: 1.5rem auto;
     }}
 
-    /* ===== Comment UI (analog lesen/_reader.html) ===== */
+    /* ===== Comment UI (analog leseproben.html) ===== */
     .comment-trigger {{
       position: absolute; right: -2.2rem; top: 0.25em;
       width: 1.4rem; height: 1.4rem;
@@ -343,9 +374,9 @@ def render_html(proben):
       color: var(--smoke); padding: 0; line-height: 1;
     }}
     .comment-trigger:hover {{ opacity: 1; border-color: var(--accent); color: var(--accent); }}
-    .probe-prosa p:hover .comment-trigger {{ opacity: 0.7; }}
-    .probe-prosa p.has-comments .comment-trigger {{ opacity: 0.8; border-color: var(--accent); color: var(--accent); }}
-    .probe-prosa p.has-comments {{ border-left: 2px solid var(--accent); padding-left: 0.6rem; margin-left: -0.8rem; }}
+    .kg-prosa p:hover .comment-trigger {{ opacity: 0.7; }}
+    .kg-prosa p.has-comments .comment-trigger {{ opacity: 0.8; border-color: var(--accent); color: var(--accent); }}
+    .kg-prosa p.has-comments {{ border-left: 2px solid var(--accent); padding-left: 0.6rem; margin-left: -0.8rem; }}
 
     .comment-popup {{
       position: relative;
@@ -395,29 +426,13 @@ def render_html(proben):
     .comment-submit:hover {{ background: var(--accent); color: var(--paper); }}
     .comment-submit:disabled {{ opacity: 0.4; cursor: default; }}
 
-    .comment-quick-tags {{
-      display: flex; flex-wrap: wrap; gap: 0.25rem;
-      margin: 0.5rem 0 0.4rem 0;
-    }}
-    .comment-quick-tag {{
-      font-family: 'Cormorant Garamond', serif;
-      font-size: 0.68rem; letter-spacing: 0.1em; text-transform: uppercase;
-      background: none; border: 1px solid var(--smoke); color: var(--smoke);
-      padding: 0.12rem 0.45rem; border-radius: 2px; cursor: pointer;
-      transition: background 0.15s, color 0.15s, border-color 0.15s;
-    }}
-    .comment-quick-tag:hover:not(:disabled) {{ background: var(--accent); color: var(--paper); border-color: var(--accent); }}
-    .comment-quick-tag.tag-gut {{ border-color: #6b8e6b; color: #6b8e6b; }}
-    .comment-quick-tag.tag-gut:hover:not(:disabled) {{ background: #6b8e6b; border-color: #6b8e6b; color: var(--paper); }}
-    .comment-quick-tag:disabled {{ opacity: 0.35; cursor: default; }}
-
     @media (max-width: 600px) {{
       .comment-trigger {{ right: -1.6rem; }}
-      .probe-head {{ padding: 0.9rem 1.2rem; flex-wrap: wrap; }}
-      .probe-meta {{ display: none; }}
-      .probe-prosa {{ padding: 1rem 1.2rem 1.5rem; font-size: 0.95rem; }}
-      .probe-info {{ padding: 0.8rem 1.2rem 0.4rem; }}
-      .probe-info dl {{ grid-template-columns: 80px 1fr; }}
+      .kg-head {{ padding: 0.9rem 1.2rem; flex-wrap: wrap; }}
+      .kg-meta {{ display: none; }}
+      .kg-prosa {{ padding: 1rem 1.2rem 1.5rem; font-size: 0.95rem; }}
+      .kg-info {{ padding: 0.8rem 1.2rem 0.4rem; }}
+      .kg-info dl {{ grid-template-columns: 80px 1fr; }}
     }}
   </style>
 </head>
@@ -456,8 +471,8 @@ def render_html(proben):
         <a href="/canon/?doc=06-buch2-akt1" class="siw-link siw-sub">B2 Akt I–IV</a>
         <a href="/canon/?doc=14-buch3-akt1" class="siw-link siw-sub">B3 Akt I–IV</a>
         <div class="siw-section">Material</div>
-        <a href="/story-in-work/leseproben.html" class="siw-link siw-sub siw-active" data-page="leseproben">Leseproben</a>
-        <a href="/story-in-work/kurzgeschichten.html" class="siw-link siw-sub" data-page="kurzgeschichten">Kurzgeschichten</a>
+        <a href="/story-in-work/leseproben.html" class="siw-link siw-sub" data-page="leseproben">Leseproben</a>
+        <a href="/story-in-work/kurzgeschichten.html" class="siw-link siw-sub siw-active" data-page="kurzgeschichten">Kurzgeschichten</a>
         <a href="/story-in-work/kanon.html" class="siw-link siw-sub" data-page="kanon">Kanon-Index</a>
         <a href="/canon/" class="siw-link siw-sub" data-page="canon">Kanon-Leser</a>
       </nav>
@@ -467,20 +482,18 @@ def render_html(proben):
   <div class="siw-overlay" id="siw-overlay"></div>
   <div class="grain"></div>
   <div class="wrap">
-    <div class="page-title">Der Riss — Leseproben</div>
-    <div class="page-subtitle">Ton-Etüden für alle Register</div>
+    <div class="page-title">Der Riss — Kurzgeschichten</div>
+    <div class="page-subtitle">Würfel-Output: Setting · Begegnung · Akt</div>
     <div class="page-desc">
-      Jede Probe ist ein Register-Beispiel für einen Stilvektor des Positionings —
-      Commercial Dark Fantasy, Commercial Romantasy, Commercial BDSM, dunkle Register für Krieg,
-      Captivity, Mutilation und Trauer. Sie sind <strong>nicht Plot-Canon</strong>, sondern
-      Kalibrierungs-Referenzen für <code>/entwurf</code>, <code>/ausarbeitung</code>, <code>/stil-check</code>,
-      <code>/refit</code>, <code>/council</code>.
+      Zufalls-Kombinationen aus Figuren, Welt, Begegnungs-Anlass und drei Akt-Sets
+      aus dem Anatomie-Register. Stil-Übungen, <strong>kein Plot-Canon</strong>,
+      keine Kaskade in Zeitleiste oder Status. Generiert via <code>/kurzgeschichte</code>.
     </div>
 
     <div class="top-links">
-      <a href="index.html">&larr; Kapitel</a>
+      <a href="index.html">&larr; Trilogie</a>
       <span class="sep">·</span>
-      <a href="kanon.html">Kanon</a>
+      <a href="leseproben.html">Leseproben</a>
       <span class="sep">·</span>
       <a href="charaktere.html">Figuren</a>
       <span class="sep">·</span>
@@ -488,27 +501,29 @@ def render_html(proben):
     </div>
 
     <div class="page-stats">
-      <strong>{total_ready}</strong> / {total_count} bereit &middot; <strong>{total_words:,}</strong> Wörter Prosa
+      <strong>{total_count}</strong> Geschichten &middot; <strong>{total_words:,}</strong> Wörter
     </div>
 
     <div class="filter-bar" id="filter-bar">
       <button class="filter-btn active" data-filter="all">Alle</button>
-      <button class="filter-btn" data-filter="ready">Bereit</button>
-      <button class="filter-btn" data-filter="Alphina">Alphina</button>
-      <button class="filter-btn" data-filter="Vesper">Vesper</button>
-      <button class="filter-btn" data-filter="Maren">Maren</button>
-      <button class="filter-btn" data-filter="Nyr">Nyr</button>
-      <button class="filter-btn" data-filter="Varen">Varen</button>
-      <button class="filter-btn" data-filter="Talven">Talven</button>
+      <button class="filter-btn" data-filter="welt:Thalassien">Thalassien</button>
+      <button class="filter-btn" data-filter="welt:Moragh">Moragh</button>
+      <button class="filter-btn" data-filter="heat:heat">Heat</button>
+      <button class="filter-btn" data-filter="heat:bdsm">BDSM</button>
+      <button class="filter-btn" data-filter="heat:tantra">Tantra</button>
+      <button class="filter-btn" data-filter="fig:Alphina">Alphina</button>
+      <button class="filter-btn" data-filter="fig:Sorel">Sorel</button>
+      <button class="filter-btn" data-filter="fig:Vesper">Vesper</button>
+      <button class="filter-btn" data-filter="fig:Maren">Maren</button>
     </div>
 
-    <div id="proben-list">
+    <div id="kg-list">
       {cards_html}
     </div>
   </div>
 
   <script>
-    // ===== Comment-System (analog lesen/_reader.html) =====
+    // ===== Comment-System =====
     const COMMENT_API = '/api/comments';
     const COMMENT_MODUS = 'entwurf';
     let activePopup = null;
@@ -539,17 +554,6 @@ def render_html(proben):
     function closeActivePopup() {{
       if (activePopup) {{ activePopup.remove(); activePopup = null; }}
     }}
-
-    const QUICK_TAGS = [
-      {{ label: 'ABSTRACT',  text: 'ABSTRACT — zu vage, kein konkretes Bild' }},
-      {{ label: 'ERKLÄRT',   text: 'ERKLÄRT — Auswertung vor den Daten (announced interpretation)' }},
-      {{ label: 'SCHARNIER', text: 'SCHARNIER — Aphorismus der erklärt was das Bild schon sagt' }},
-      {{ label: 'GRAMMAR',   text: 'GRAMMAR — verquere oder gebrochene Satzkonstruktion' }},
-      {{ label: 'REGISTER',  text: 'REGISTER — falsches POV-Vokabular, Berufslinse gebrochen' }},
-      {{ label: 'RHYTHMUS',  text: 'RHYTHMUS — falsches Tempo für diese Szene' }},
-      {{ label: 'BEGEHREN',  text: 'BEGEHREN — Attraction declared, nicht demonstrated' }},
-      {{ label: 'GUT ✓',     text: 'GUT — sitzt, nicht anfassen', cls: 'tag-gut' }},
-    ];
 
     function renderPopup(p, idx, kapId, commentsByIdx) {{
       closeActivePopup();
@@ -591,29 +595,9 @@ def render_html(proben):
         p.classList.add('has-comments');
       }}
 
-      const quickTagsDiv = document.createElement('div');
-      quickTagsDiv.className = 'comment-quick-tags';
-      QUICK_TAGS.forEach(tag => {{
-        const btn = document.createElement('button');
-        btn.className = 'comment-quick-tag' + (tag.cls ? ' ' + tag.cls : '');
-        btn.textContent = tag.label;
-        btn.onclick = async (e) => {{
-          e.stopPropagation();
-          btn.disabled = true;
-          try {{
-            await postComment(tag.text);
-            closeActivePopup();
-          }} catch (_) {{
-            btn.disabled = false;
-          }}
-        }};
-        quickTagsDiv.appendChild(btn);
-      }});
-      popup.appendChild(quickTagsDiv);
-
       const textarea = document.createElement('textarea');
       textarea.className = 'comment-textarea';
-      textarea.placeholder = 'Oder freier Text …';
+      textarea.placeholder = 'Anmerkung schreiben …';
       popup.appendChild(textarea);
 
       const submitBtn = document.createElement('button');
@@ -645,7 +629,7 @@ def render_html(proben):
       card.dataset.commentsLoaded = '1';
 
       const kapId = card.dataset.kapid;
-      const prosa = card.querySelector('.probe-prosa');
+      const prosa = card.querySelector('.kg-prosa');
       if (!prosa) return;
 
       const commentsByIdx = {{}};
@@ -690,13 +674,13 @@ def render_html(proben):
       }}
     }});
 
-    // Toggle — beim Aufklappen Comments lazy laden
-    document.querySelectorAll('.probe-head').forEach(head => {{
+    // Toggle
+    document.querySelectorAll('.kg-head').forEach(head => {{
       head.addEventListener('click', () => {{
         head.classList.toggle('open');
-        const card = head.closest('.probe-card');
+        const card = head.closest('.kg-card');
         const body = head.nextElementSibling;
-        if (body && body.classList.contains('probe-body')) {{
+        if (body && body.classList.contains('kg-body')) {{
           body.classList.toggle('open');
           if (body.classList.contains('open') && card) {{
             initCommentsForCard(card);
@@ -705,14 +689,14 @@ def render_html(proben):
       }});
     }});
 
-    // Auto-open per URL-Hash (#p-XX) + scroll + Comments
+    // Auto-open per URL-Hash
     function openFromHash() {{
       const hash = window.location.hash;
-      if (!hash || !hash.startsWith('#p-')) return;
+      if (!hash || !hash.startsWith('#kg-')) return;
       const card = document.querySelector(hash);
       if (!card) return;
-      const head = card.querySelector('.probe-head');
-      const body = card.querySelector('.probe-body');
+      const head = card.querySelector('.kg-head');
+      const body = card.querySelector('.kg-body');
       if (head && body && !body.classList.contains('open')) {{
         head.classList.add('open');
         body.classList.add('open');
@@ -725,7 +709,7 @@ def render_html(proben):
 
     // Filter
     const filterBar = document.getElementById('filter-bar');
-    const cards = Array.from(document.querySelectorAll('.probe-card'));
+    const cards = Array.from(document.querySelectorAll('.kg-card'));
     filterBar.addEventListener('click', (e) => {{
       const btn = e.target.closest('.filter-btn');
       if (!btn) return;
@@ -736,11 +720,13 @@ def render_html(proben):
         let show = true;
         if (f === 'all') {{
           show = true;
-        }} else if (f === 'ready') {{
-          show = card.dataset.skeleton === '0';
-        }} else {{
-          // POV-Filter
-          show = (card.dataset.pov || '').toLowerCase().includes(f.toLowerCase());
+        }} else if (f.startsWith('welt:')) {{
+          const w = f.slice(5).toLowerCase();
+          show = (card.dataset.welt || '').toLowerCase().includes(w);
+        }} else if (f.startsWith('heat:')) {{
+          show = card.dataset.heat === f.slice(5);
+        }} else if (f.startsWith('fig:')) {{
+          show = (card.dataset.figuren || '').toLowerCase().includes(f.slice(4).toLowerCase());
         }}
         card.style.display = show ? '' : 'none';
       }});
@@ -752,22 +738,26 @@ def render_html(proben):
 
 
 def main():
-    if not LESEPROBEN_DIR.exists():
-        print(f"FEHLER: {LESEPROBEN_DIR} nicht gefunden", file=sys.stderr)
-        return 1
-
-    proben = load_proben()
-    if not proben:
-        print("WARNUNG: keine Leseproben gefunden")
+    if not KG_DIR.exists():
+        # Stille Beendigung — kein Fehler, wenn der Ordner noch leer ist
+        print("build-kurzgeschichten: 0 Geschichten (Ordner leer oder nicht vorhanden)")
         return 0
 
-    html = render_html(proben)
+    geschichten = load_geschichten()
+    if not geschichten:
+        # Trotzdem leere Index-Seite rendern, damit der Sidebar-Link nicht 404
+        html = render_html([])
+        OUT_FILE.parent.mkdir(parents=True, exist_ok=True)
+        OUT_FILE.write_text(html, encoding="utf-8")
+        print("build-kurzgeschichten: 0 Geschichten — leere Seite gerendert")
+        return 0
+
+    html = render_html(geschichten)
     OUT_FILE.parent.mkdir(parents=True, exist_ok=True)
     OUT_FILE.write_text(html, encoding="utf-8")
 
-    ready = sum(1 for p in proben if not p["is_skeleton"])
-    words = sum(p["wortzahl"] for p in proben if not p["is_skeleton"])
-    print(f"build-leseproben: {ready}/{len(proben)} Proben bereit, {words} Wörter Prosa → {OUT_FILE.relative_to(ROOT)}")
+    words = sum(g["wortzahl"] for g in geschichten)
+    print(f"build-kurzgeschichten: {len(geschichten)} Geschichten, {words} Wörter → {OUT_FILE.relative_to(ROOT)}")
     return 0
 
 

@@ -99,3 +99,8 @@ fi
 if [ -f scripts/build-leseproben.py ]; then
   "$PYTHON" -X utf8 scripts/build-leseproben.py 2>&1 | tail -3 || echo "  (build-leseproben: Fehler ignoriert)"
 fi
+
+# Kurzgeschichten-Seite aus buch/kurzgeschichten/*.md generieren
+if [ -f scripts/build-kurzgeschichten.py ]; then
+  "$PYTHON" -X utf8 scripts/build-kurzgeschichten.py 2>&1 | tail -3 || echo "  (build-kurzgeschichten: Fehler ignoriert)"
+fi
