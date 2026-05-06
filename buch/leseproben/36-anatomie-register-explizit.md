@@ -989,6 +989,84 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Réage-Disziplin der Zeit: nicht das Werkzeug, die Uhr war der Dom. Sie kannte den Stab, sie kannte seine Hand — sie hatten sie hundert Mal benutzt. Heute kam noch eine Schicht: das Warten. Sie hielt durch, weil das Warten Teil der Erfüllung war.*
 
+### Cluster C5 — Tease & Edging Long-form
+
+#### 4.94 Long Tease & Denial — 60+ min mit Knebel + Augenbinde
+
+**(A)** *Sie war ans Bett gefesselt, Hände am Kopfteil, Knöchel an den Pfosten am Fußteil. Knebel im Mund, Augenbinde aus Seide. Eine Stunde lang spielte er — Mund, Hände, Federklemmen, ein Massagestab, der nie an der Klitoris blieb. Sie war an der Schwelle, sie wurde nicht gelassen.*
+
+**(B)** *„Du kommst nicht heute Nacht. Egal wie nah." Der Knebel verschluckte ihre Antwort. Er nickte trotzdem — er kannte sie. Eine Stunde, dann eine zweite. Beim zweiten Mal an der Schwelle weinte sie unter dem Knebel. Er ließ sie weinen.*
+
+**(C)** *Réage-Marathon der Verweigerung: nicht das Ziel, der Weg. Sie kannte den Weg, sie hatte ihn gegangen — heute war er länger. Eine Stunde, dann zwei. Der Knebel hielt sie still, das Band hielt sie blind. Sie kam nicht. Sie war — verlangend, dauerhaft.*
+
+#### 4.95 Tease bis Vulva tropft (lange Geduld-Session)
+
+**(A)** *Sie war gefesselt, geknebelt, Augen verbunden. Er hatte zwei Stunden Zeit. Erste Stunde: nur Atem an ihrer Klitoris, Lippen ohne Druck, Finger an den Schamlippen, kein Eindringen. Sie spürte es — Feuchtigkeit zwischen ihren Schenkeln, dann auf der Decke unter ihr.*
+
+**(B)** *„Bis du tropfst, mache ich nichts anderes." Er saß zwischen ihren Schenkeln, eine Hand offen auf ihrem Bauch, eine Hand fast an ihrem Schoß, nicht ganz. Eine Stunde. Sie tropfte. Er tat nichts.*
+
+**(C)** *Réage-Logik der Geduld: ihre Erregung war Material. Er wartete, bis das Material sichtbar war. Tropfen für Tropfen. Bei einer Stunde sah er nach. Bei eineinhalb. Bei zwei Stunden trocken sie an ihrer eigenen Hüfte ein, neue Tropfen folgten.*
+
+### Cluster C6 — Cum-Spiele erweitert
+
+#### 4.96 Cum-Self-Reibung — Frau verteilt Sperma auf eigene Brüste
+
+**(A)** *Er kam auf ihre Brüste — zwei Strahlen, einer in das Tal zwischen ihnen, einer auf die linke Brustwarze. Er trat zurück. „Verteil." Sie nahm den Daumen, fuhr durch den Samen, malte einen Kreis um den Hof, einen zweiten um die andere Brust. Sie rieb sich mit ihm ein.*
+
+**(B)** *„Du machst das jetzt." Er ließ sie sitzen, Brüste glänzend von seinem Samen. Sie nahm beide Hände, verteilte den Samen — von den Brustwarzen über das Brustbein, über die Schultern, in den Hals. Sie rieb sich ein, langsam, wie eine Pflege.*
+
+**(C)** *Réage-Geste der Aneignung umgekehrt: er gab, sie machte sich daraus. Der Samen trocknete an ihrer Haut, als sie ihn verrieb — eine zweite Schicht, gehörte ihr. Er sah zu, ohne zu helfen.*
+
+#### 4.97 Cum als Gleitmittel für Massagestab
+
+**(A)** *Er kam in ihrem Schoß, tief. Er zog sich zurück; der Samen lief heraus. Er nahm den Massagestab, fettete ihn mit dem Samen, der noch auf ihrer Vulva lag, und führte den Stab dann an ihre Klitoris. Glatt, warm, sein Eigenes als ihr Werkzeug.*
+
+**(B)** *„Halt offen." Er stieß den Stab in ihren Schoß, drehte ihn einmal — der Samen verteilte sich auf der Spitze. Dann zog er ihn heraus, fuhr damit über ihre Klitoris, über die inneren Lippen. Sie spürte den Druck mit der Wärme seines Eigenen.*
+
+**(C)** *Réage-Recycling: was er gegeben hatte, wurde Material für ihren Orgasmus. Der Stab glänzte von ihm, sie kam mit ihm an einer anderen Stelle, an der er noch nicht gewesen war. Beide Eingänge versorgt durch denselben Saft.*
+
+#### 4.98 Cum-Cleanup durch Dienerin (FFM-Variante mit Sub-Hierarchie)
+
+**(A)** *Er kam in ihr. Er rollte zur Seite, schwer atmend. Die Dienerin trat ans Bett, kniete zwischen Marens Schenkeln. Sie leckte den Samen aus Marens Schoß, sauber, langsam. Dann wandte sie sich zu ihm — sie leckte sein Glied sauber, drei Bahnen, von der Wurzel zur Spitze.*
+
+**(B)** *„Mach beide sauber." Die Dienerin nickte. Sie kniete erst bei Maren — Vulva, Damm, Innenseiten der Schenkel. Dann bei ihm — Glied, Hoden. Sie servierte beide. Maren und er hielten sich währenddessen, kuschelten, sahen nicht hin.*
+
+**(C)** *Réage-Hierarchie der Aufgaben: drei Personen, eine bedient zwei. Maren war Sub im Akt, die Dienerin war Sub im Cleanup. Maren konnte sich entspannen, weil eine andere die Pflicht trug. Réage-Roissy-Pattern: jede Sub kennt ihren Rang.*
+
+### Cluster C7 — BDSM-Position-Specials
+
+#### 4.99 Hook-am-Hintern + Halsband-Zug
+
+**(A)** *Sie lag vornübergebeugt auf Kissen, Hüften gehoben. Er führte den Haken in ihren Anus ein — gebogenes Metall, kühl, mit einer Öse oben. An der Öse band er eine kurze Schnur, die andere Seite an ihrem Halsband. Wenn sie den Kopf senkte, zog der Haken. Sie hielt den Kopf hoch.*
+
+**(B)** *„Halt den Kopf gestreckt." Sie tat es. Der Haken in ihrem Anus hielt sie an einer geometrischen Linie — Halsband oben, Haken hinten, beide verbunden. Er kniete vor ihr, spielte mit ihrer Klitoris und ihrem Schoß. Sie konnte sich nicht durchhängen lassen.*
+
+**(C)** *Réage-Geometrie der Spannung: zwei Punkte, eine Linie zwischen ihnen, ihr Körper als Saite. Solange sie den Kopf hoch hielt, war die Spannung gleich. Bei Senken: scharfer Druck im Anus. Sie kam unter ihm, ohne dass sie sich bewegen konnte.*
+
+#### 4.100 Brust-Bondage Spezial — Schwerpunkt Brüste fesseln
+
+**(A)** *Hanfseil, eingefettet. Er führte es um die Basis ihrer linken Brust — drei Wicklungen, langsam fester. Die Brust schwoll vor. Dann die rechte. Beide Brüste hervor, dunkler, gespannt. Die Brustwarzen härter als zuvor.*
+
+**(B)** *„Atme tief." Der Atem hob die Brüste, das Seil saß enger. „Halt." Er band den Knoten zwischen den Schultern. Beide Brüste prall, sichtbar von oben, von vorne, im Spiegel. Réage-Werkzeug: Material das den Körper stellt.*
+
+**(C)** *Seil als Skulptur: die Brüste waren nicht mehr Teil ihres Körpers, sondern Werkzeuge an ihm. Der Druck blieb spürbar — nicht als Schmerz, als Anwesenheit. Eine halbe Stunde später waren die Brustwarzen empfindlich für jede Berührung.*
+
+#### 4.101 Brust-Saugglocken + Doggystyle
+
+**(A)** *Sie kniete vornübergebeugt. Saugglocken aus Glas, mit Pumpe — er setzte eine an die linke Brustwarze, pumpte. Die Brustwarze schwoll in das Glas. Die zweite Glocke an die rechte. Beide Brustwarzen prall, dunkler. Dann trat er hinter sie und drang von hinten in ihren Schoß ein.*
+
+**(B)** *„Halt sie an." Sie hielt die Glocken am Rand fest. Bei jedem Stoß seiner Hüften wackelten die Glocken — zogen leicht an den Brustwarzen, lockerten, zogen wieder. Doppelter Rhythmus: er von hinten, die Glocken vorne.*
+
+**(C)** *Glas, Pumpe, Druckunterschied. Réage-Werkzeug aus dem Apothekerschrank. Die Brustwarzen wurden empfindsamer durch das Saugen, die Empfindung wanderte mit jedem Stoß durch ihren ganzen Körper. Sie kam zweimal, beide mal anders.*
+
+#### 4.102 Tied-Tits prall+empfindlich + Stim
+
+**(A)** *Hanfseil hatte ihre Brüste gestaut, eine halbe Stunde lang. Sie waren prall, dunkel, jede Berührung hallte. Er löste das Seil — die Brüste zurück in normaler Form, aber jetzt mit Erinnerung. Er nahm einen Massagestab, setzte ihn an die Klitoris. Die Brustwarzen reagierten ohne Berührung.*
+
+**(B)** *„Komm jetzt." Sie war zwischen den Empfindungen. Der Stab unten, die Erinnerung an das Seil oben — die Brüste pulsierten ohne sein Zutun. Sie kam, das Pulsieren der Brüste synchron mit dem Stab.*
+
+**(C)** *Réage-Echo der Werkzeuge: was nicht mehr da war, wirkte weiter. Das Seil hatte die Brüste auf die Klitoris vorbereitet. Sie spürte beides — Vergangenheit oben, Gegenwart unten.*
+
 ---
 
 ## 5. Réage-Stil-Marker (Querschnitt aller Beispiele)
