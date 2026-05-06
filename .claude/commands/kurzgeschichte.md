@@ -30,17 +30,19 @@ Ohne Argument: voll zufällig.
 ### 1.1 Figuren-Pool ziehen
 
 **Hauptfiguren** (häufigste Picks):
-- **Alphina Farn** — Velde, Pflanzen-/Zellwachstums-Resonanz, dominant-emotional, kein BDSM-Register, Heat-Echo manifestiert sich als Pflanzen (Farne bei Sorel, Dornen bei Varen, Glutmoos bei Runa)
-- **Sorel** — Nachtholm, Daguerreotypist, glatt rasiert, hat Grenzen, sub-emotional, kein Bart, kein BDSM-Sub-Register
-- **Vesper** — Karst, Schach + Zeit-/Muster-Resonanz, Dom, Réage-Register
-- **Maren Ilves** — Grauküste/Vael, Werft-Erbin (Haron-Linie, NICHT Dahl), Wasser-Resonanz (Steuern/Kochen/Vereisen/Hören), Sub bei Vesper
+- **Alphina Farn** *(weiblich)* — Velde, Pflanzen-/Zellwachstums-Resonanz, dominant-emotional, kein BDSM-Register, Heat-Echo manifestiert sich als Pflanzen (Farne bei Sorel, Dornen mit Purpurblüten bei Varen, Glutmoos bei Runa)
+- **Sorel** *(männlich)* — Nachtholm, Daguerreotypist, glatt rasiert, hat Grenzen, sub-emotional, kein Bart, kein BDSM-Sub-Register
+- **Vesper Greve** *(männlich)* — Karst, Uhrmacher, Schach + Zeit-/Muster-Resonanz, Dom (mit Maren), Réage-Register, schwarzer Schachturm in der Tasche, grauer Gehrock + Weste + Leinenhemd, Daumen-Diagnose
+- **Maren Ilves** *(weiblich)* — Grauküste/Vael, Werft-Erbin (Haron-Linie, NICHT Dahl), Wasser-Resonanz (Steuern/Kochen/Vereisen/Hören), Sub bei Vesper
 
 **Nebenfiguren** (gelegentliche Picks):
-- **Runa** — Journalistin, deckt auf, Nyrs Frau, eigenständig
-- **Nyr** — eigenständig, lächelt, fordert Gerechtigkeit ein, Runas Frau
-- **Varen** — Velmar-Präparator (Antagonist B2), eloquent/argumentativ/wissbegierig, Mitte–Ende vierzig, extrem gutaussehend, violette Augen, stärkster Magie-Dämpfer
-- **Tyra Halvard, Syra Halvard** — Halvaren-Linie, B2-Akteurinnen
-- **Iven, Drael, Kelvar Velkan, Elke** — siehe `buch/pov/<name>.md`
+- **Runa** *(weiblich)* — Journalistin, deckt auf, Nyrs Frau, eigenständig
+- **Nyr** *(weiblich)* — eigenständig, lächelt, fordert Gerechtigkeit ein, Runas Frau
+- **Varen** *(männlich)* — Velmar-Präparator (Antagonist B2), eloquent/argumentativ/wissbegierig, Mitte–Ende vierzig, extrem gutaussehend, violette Augen, stärkster Magie-Dämpfer
+- **Tyra Halvard, Syra Halvard** *(weiblich)* — Halvaren-Linie, B2-Akteurinnen
+- **Iven, Drael, Kelvar Velkan, Elke** — Geschlecht/Detail aus `buch/pov/<name>.md` (vor Pick lesen)
+
+**Vor jedem Pick:** Geschlecht und Pronomen aus dem POV-Dossier abgleichen, bevor Akt-Set zugeordnet wird. FF-Bögen verlangen zwei Frauen, MF/MM/FFM/MMF entsprechend. Wenn unsicher: `buch/pov/<figur>.md` lesen, bevor gewürfelt wird.
 
 **Ziehung:** 2 Figuren (60%), 3 Figuren (30%), 1 (Solo, 5%), 4+ (Multi-Player, 5%). Wenn `solo`-Token: 1 Figur. Wenn `figurnamen`-Vorgabe: Pool darauf einschränken.
 
