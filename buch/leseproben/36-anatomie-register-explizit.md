@@ -439,6 +439,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Sein Bauch an ihrem Hinterteil, sein Glied in ihrem Schoß, ihre Hände in den Laken. Bei jedem Stoß rollte ihr Kopf vor; sie ließ ihn rollen. Er stieß tief — die Spitze fand die Stelle hinter dem Schambein, von hinten.*
 
+**(D)** *Sie kniete auf dem Bett, die Hüften gehoben, der Kopf an die Unterarme gelegt, die Schenkel weit. Er stand hinter dem Bett, seine Hand zuerst an ihrer Hüfte — eine Linie hinunter, eine zurück, der Daumen kurz an die Furche zwischen den Pobacken, dann weiter. Sein Glied schon hart, er führte sich ein. Die Spitze an der Spalte ihres Schoßes, drei Zoll, hielt; weitere zwei, hielt. Bei voller Länge legte er beide Hände auf ihre Hüften, fand seinen Takt — drei Stöße flach, dann einer tief. Bei jedem tiefen rollte ihr Kopf vor; sie ließ ihn rollen. Er fand die Stelle hinter dem Schambein, von hinten, eine Stelle, die sie nur in dieser Position kannte. Sie kam in einer langen Welle, das Gesicht in den Laken, ohne dass er aufhörte.*
+
 ### 4.22 Spanking (Schläge auf Hinterteil mit Hand)
 
 **(A)** *Erst die Hand, flach, einmal — Klatsch, Wärme. Dann zweimal in derselben Stelle. Beim dritten Mal hob sich ihr Hinterteil leicht entgegen; er ließ es geschehen.*
@@ -446,6 +448,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Halt still." Drei Schläge mit der flachen Hand, in regelmäßigem Abstand. Beim vierten zog sich ihre Haut zusammen. Er strich danach einmal über die rote Stelle, kühlend, ohne Druck.*
 
 **(C)** *Seine Hand fand das Hinterteil — flach, ein scharfer Klatsch. Die Wärme blieb länger als der Schlag. Beim fünften wechselte er die Seite. Beim zehnten hörte er den Atem länger gehen, und das war Antwort genug.*
+
+**(D)** *Sie lag bäuchlings über seinen Schenkeln, die Beine leicht gespreizt, der Kopf nach unten. Er saß auf der Bettkante, eine Hand auf ihrem Kreuz, die andere offen über ihrem Hinterteil. Erst die Aufwärm-Striche — er strich mit der flachen Hand vom Steißbein über die Pobacken, drei Bahnen, ohne Schlag. Sie atmete in den Rhythmus hinein. Der erste Schlag traf flach, in der Mitte der linken Pobacke, mehr Wärme als Schmerz. Sie zuckte nicht. Der zweite an dieselbe Stelle, etwas härter. Der dritte tiefer, am Übergang zum Schenkel. Beim vierten wechselte er die Seite. Bei zehn zählte sie nicht mehr, sie atmete nur noch lang aus bei jedem Klatsch. Bei zwanzig hob sich ihr Hinterteil entgegen, ohne dass sie es entschieden hatte. Er strich danach einmal kühlend über die rote Spur.*
 
 ### 4.23 Auspeitschen (Reitstock / Peitsche / Riemen)
 
@@ -455,6 +459,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Hart-Leder, Hart-Holz unter dem Bezug. Er wog die Länge in der Hand, schlug einmal in die Luft — der Pfeifton. Dann auf den Hinterteil. Eine schmale Linie, rot, wo der Stock getroffen hatte. Die zweite Linie zwei Finger über der ersten.*
 
+**(D)** *Sie stand vornübergebeugt am Tisch, die Unterarme auf der Holzplatte, das Hinterteil hoch. Das Kleid lag aufgerollt am Steißbein. Er nahm den Reitstock vom Tisch, wog die Länge in der Hand, schlug einmal in die Luft — der Pfeifton kam von rechts. Sie atmete ein. Der erste Schlag traf eine Querlinie über die Pobacken, sauber gezogen, scharf an der Spitze. „Eins", sagte sie, leise, ohne dass er es verlangt hatte. Der zweite zwei Finger darunter. „Zwei." Der dritte über dem ersten. „Drei." Bei jedem zog sich ihre Haut zusammen, dann öffnete sie sich wieder. Bei sechs spürte sie das Brennen breiter werden, eine Fläche statt einer Linie. Bei zehn hörte er auf. Sie zählte trotzdem den elften, der nicht kam. Er trat hinter sie, strich mit dem kühlen Holz des Stocks über die Striemen — von oben nach unten, einmal, langsamer als der Schlag.*
+
 ### 4.24 Würgen / Choking (Hand am Hals)
 
 **(A)** *Seine Hand am Hals — flach, vier Finger an der einen Seite, Daumen an der anderen. Er drückte nicht, er hielt. Sie spürte das Pulsieren ihrer Halsschlagader unter seiner Hand.*
@@ -462,6 +468,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Atme normal." Er legte die Hand um ihre Kehle, von vorne. Druck nur soweit, dass sie ihn spürte, nicht so weit, dass die Luft eng wurde. Beim Stoßen seiner Hüften lockerte er, beim Halten zog er an.*
 
 **(C)** *Vier Finger auf die rechte Halsschlagader, der Daumen auf die linke. Er drückte einen Atemzug lang, ließ los, drückte wieder. Sie sah Punkte vor den Augen, kurz, dann wieder klar — er kannte den Moment, an dem er aufhörte.*
+
+**(D)** *Sie lag auf dem Rücken, er über ihr, sein Glied tief in ihrem Schoß. Er hielt sich auf einem Ellbogen, die andere Hand offen an ihrem Hals — nicht greifend, nur dort. Beim zweiten Stoß legte er die vier Finger an die rechte Halsschlagader, den Daumen an die linke. Druck zuerst nur als Anwesenheit. Sie spürte das Pulsieren ihrer eigenen Adern unter seiner Hand. Beim dritten Stoß zog er an, einen Atemzug lang — nicht so weit, dass die Luft aufhörte, so weit, dass sie ihn spürte. Beim vierten ließ er los. Beim fünften zog er wieder. Sie sah Punkte am Rand des Bildes, kurz, dann wieder klar. Sie kannte den Rhythmus, sie atmete in den Druck hinein. Beim Kommen zog er einen langen Augenblick — nicht zur Erstickung, zur Schwebe — und ließ los, gerade als sie kam, so dass die Welle zusammen mit dem Atem zurückkam.*
 
 ### 4.25 Halsband + Kette (Eigentums-Marker)
 
@@ -471,6 +479,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Leder am Hals, kühl, dann warm vom Körper. Der Messingring drückte gegen ihr Schlüsselbein, wenn sie den Kopf neigte. Die Kette in seiner Hand — zehn Glieder, die er einzeln durch die Finger zog, wenn er nichts sagte.*
 
+**(D)** *Sie kniete im Salon, das Licht der Petroleumlampe auf der einen Seite ihres Halses, der Rest in halber Dämmerung. Er stand vor ihr, das Halsband aus weichem schwarzem Leder zwischen den Fingern, der Messingring vorne in der Mitte. Er legte es ihr an, schob den Karabiner durch den Ring — ein leises Klacken. Er zog die Lasche eine Stufe enger als sie erwartet hatte; das Leder lag fest am Ansatz des Schlüsselbeins, kühl zuerst, dann warm vom Hals. Er nahm die Kette vom Tisch — zehn Glieder, schwer, gut gearbeitet — und hakte sie in den Ring. Das andere Ende behielt er in der Hand. Wenn sie sich aufrichten wollte, zog die Kette zurück. Er sagte nichts eine Weile lang, ließ die Glieder einzeln durch die Finger laufen, hörbar in der Stille. Sie spürte das Gewicht des Ringes vorne, das Gewicht der Kette zwischen den Brüsten — ein Eigentum, ohne dass er das Wort gebraucht hätte.*
+
 ### 4.26 Markierung / Brandmal
 
 **(A)** *Das Eisen lag im Feuer. Er nahm es heraus, prüfte die Spitze mit feuchtem Daumen — Zischen. Sie sah nicht hin. Er setzte es an die Innenseite ihres Schenkels, eine Sekunde, weniger. Der Schmerz kam nach dem Geruch.*
@@ -478,6 +488,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Linke Hüfte." Sie streckte sich. Das Brandeisen, geformt wie sein Initial, in glühendem Rot. Er drückte zu — ein Atemzug. Sie hielt den Schrei zurück, weil er es nicht verlangt hatte.*
 
 **(C)** *Nicht Eisen — Tinte. Sie hatte gewählt. Der Tätowierstift, fein, mit Lampenruß und Olivenöl gemischt. Die Nadel stach hundertmal in ihre Hüfte; das Zeichen wuchs, eine Ranke, ein Buchstabe. Eine Stunde lang. Sie weinte nicht, sie zählte die Stiche.*
+
+**(D)** *Sie hatten lange darüber gesprochen, ein halbes Jahr vielleicht. Sie hatte gewählt: Tinte, nicht Brand. Ein Tätowierstift, eine schmale Nadel auf Holzgriff, ein Tiegel mit Lampenruß und Olivenöl. Sie lag bäuchlings auf dem Tisch, eine Lampe nahe an der linken Hüfte, das Licht warm. Er saß auf einem Schemel daneben, die rechte Hand mit dem Stift, die linke spannte ihre Haut zwischen Daumen und Zeigefinger. Der erste Stich ging tief — ein Punkt scharfen Schmerzes, dann der zweite einen Strich entfernt. Sie zählte still. Bei zehn war der erste Buchstabe fertig. Bei dreißig die erste Ranke. Bei hundert hatte sie aufgehört zu zählen, weil das Zählen Atem brauchte und sie den Atem für das Aushalten brauchte. Eine Stunde lang. Sein Daumen wischte das Blut weg, Stich für Stich, eine schwarze Linie wuchs an ihrer Hüfte. Sie weinte nicht. Beim Schluss-Stich nahm er ihre Hand und hielt sie ans Werk, damit sie es selbst spürte.*
 
 ### 4.27 Beobachten / Beobachtet werden
 
@@ -487,6 +499,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Spiegel an der Wand, breit, vom Bett aus zu sehen. Er stand hinter ihr. Sie beide im Spiegel — seine Hand an ihrem Schoß, ihre Augen offen. Sie sah, was er tat, bevor sie es spürte. Der Halbsekunden-Vorsprung machte alles dichter.*
 
+**(D)** *Er saß im Sessel am Fenster, gekleidet, ein Buch im Schoß, das er nicht aufgeschlagen hatte. Sie lag auf dem Bett, nackt, eine Hand zwischen den Schenkeln. Er hatte gesagt: „Mach weiter, ich sehe zu." Sie war eine halbe Stunde lang vorher allein gewesen, hatte sich vorbereitet — sie war schon feucht, als sie begonnen hatte. Drei Finger zwischen den Schamlippen, der Daumen an der Klitoris, ihr eigener Takt. Beim ersten Aufschauen sah sie, dass er sie ansah. Sie schloss die Augen. Beim nächsten Mal hielt sie sie offen. Er bewegte sich nicht — keine Hand am eigenen Glied, keine Lippe, kein Lächeln. Nur Blick. Die Welle stieg langsamer als sonst, weil sie sich beobachtet wusste — und doch stieg sie weiter, weil sie sich beobachtet wusste. Beim Höhepunkt sah sie ihn an, ohne den Atem zu unterbrechen. Sie kam unter seinem Blick, lauter als sonst, weil das Anschauen Bezeugung war.*
+
 ### 4.28 Verbale Demütigung
 
 **(A)** *„Du bist nass." Sie nickte. „Sag es." — „Ich bin nass." — „Warum?" — „Weil Sie hier sind." Réage-Pattern: er erklärt das Offensichtliche, weil sie es aussprechen muss, nicht weil er es nicht weiß.*
@@ -494,6 +508,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Du gehörst hier nicht hin als Person, du gehörst hier hin als Werkzeug." Eine Sekunde Schweigen. Sie nickte. Er nickte zurück. Die Worte hatten keine Spur Verachtung — er teilte ihr ihre Position mit, klinisch.*
 
 **(C)** *„Sag, was du bist." Sie sagte es. „Wiederhol es." Sie wiederholte. Dreimal hintereinander, in genau dem Tonfall, den er hören wollte. Beim vierten Mal lockerte sich etwas in ihrer Brust, das sie zehn Jahre festgehalten hatte.*
+
+**(D)** *Sie kniete vor seinem Stuhl, die Hände hinter dem Rücken, der Kopf leicht gehoben — die Position, die er heute Abend wollte. Er saß zurückgelehnt, ein Glas Wein in der Hand. „Sag, was du bist." Sie wusste, was er hören wollte; sie hatten es vorbesprochen, sie hatte zugestimmt. Sie sagte es, leise zuerst — drei Wörter, knapp. „Wiederhol es." Sie wiederholte, eine Spur lauter. „Nochmal." Sie sagte es ein drittes Mal. Beim vierten Mal forderte er sie zum Tonfall auf, den sie sich gemeinsam ausgesucht hatten — nicht trotzig, nicht weinerlich, klar. Sie fand den Ton. Etwas in ihrer Brust löste sich, eine Sehne, die sie zehn Jahre festgehalten hatte. Er stand nicht auf, er beugte sich nur vor und legte die Hand offen auf ihren Scheitel — kein Drücken, kein Ziehen. Eine Anerkennung der Stelle, an der sie eingeräumt hatte, was sie war.*
 
 ### 4.29 Position-Demütigung (Dauer-Position)
 
@@ -503,6 +519,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Auf allen Vieren über das Zimmer. Sie kroch — nicht eilig, in seinem Takt. Vom Tisch zum Bett, zwölf Schritt. Er ging neben ihr, hatte die Hand offen über ihr, ohne sie zu berühren.*
 
+**(D)** *Sie hatte vor einer Stunde die Position eingenommen — Knie auf dem Teppich, Schenkel gespreizt, Hände hinter dem Rücken verschränkt, Kopf gesenkt. Er war nicht im Raum gewesen. Sie hatte gewartet. Beim Eintreten der Tür hob sie den Kopf nicht — sie kannte die Regel. Er ging zweimal um sie herum, sah sie von allen Seiten. Bei jedem Vorbeigehen sah sie nur seine Schuhe. Eine Stunde lang behielt sie die Position. Die Innenseiten der Schenkel zogen, die Knöchel taten weh, die Schultern brannten an dem Punkt, an dem die verschränkten Hände sie nach hinten zogen. Sie sagte nichts. Beim Verlassen des Raumes sagte er nur: „Bis ich zurück bin." Eine zweite Stunde begann. Die erste war Pflicht gewesen. Die zweite wurde Ankunft — die Schmerzen wurden zu einer Art Bett, in dem sie ruhte, ohne sich zu bewegen. Beim dritten Eintreten löste er die Position mit einem Wort. Sie stand nicht sofort auf. Sie blieb noch zwei Atemzüge.*
+
 ### 4.30 Komplexe Verschnürung (Réage-Bondage erweitert)
 
 **(A)** *Hanfseil, sechs Klafter lang. Er führte es um ihre Brüste, kreuzte es vor und hinter dem Brustkorb, knüpfte sicher zwischen den Schultern. Beide Brüste hervorgehoben, das Seil unter und über jeder Brust.*
@@ -510,6 +528,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Hände hinter den Rücken. Knöchel an den Pfosten." Er band sie nicht — er verschnürte sie. Hand an Knöchel an Pfosten, in einem Strang, der durch drei Schlaufen lief. Wenn sie an einer Stelle zog, zog es überall.*
 
 **(C)** *Erst um die Hüften, dann durch die Lenden, dann zwischen die Schenkel — das Seil drückte gegen die Spalte ihres Schoßes, eine Linie spürbarer Reibung. Bei jedem Atemzug zog das Seil leicht an. Eine Stunde später war sie offen vor allem.*
+
+**(D)** *Hanfseil, sechs Klafter lang, vorher in Öl getaucht und ausgewrungen — er hatte gelernt, dass das Seil weicher gegen die Haut sitzt. Sie stand in der Mitte des Zimmers, die Arme entlang des Körpers, der Atem ruhig. Er begann an ihren Hüften: drei Wicklungen um die Beckenkämme, ein Knoten im Steiß. Dann führte er das Seil nach vorne, zwischen den Schenkel hindurch, drückte es einmal fest gegen die Spalte ihres Schoßes — eine Linie, die sie spürte, sobald er weiterging. Hinter ihr brachte er das Seil zurück nach oben, kreuzte es um den Brustkorb in einer Acht, eine Bahn unter, eine über jeder Brust. Die Brüste wurden hervorgehoben, die Brustwarzen härter durch den Druck. Er knüpfte zwischen den Schultern. Eine Stunde später, als sie sich noch nicht bewegt hatte, zog das Seil bei jedem Atemzug — Lenden, Brust, Schulter, alles in einem Strang. Sie war offen vor allem, was er noch tun würde.*
 
 ### 4.31 Dildo / Phallus allein eingesetzt
 
@@ -519,6 +539,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Glas, durchsichtig, mit Streifen aus Milchglas. Er fettete den Phallus, drückte ihn an ihre Schamlippen. Sie sah ihn — durch die Schenkel, im Spiegel — wie er in sie hineinverschwand. Er drehte ihn einmal; sie schloss die Augen.*
 
+**(D)** *Auf dem Tisch lag der Phallus aus Glas, durchsichtig, mit Streifen aus Milchglas eingearbeitet — gut gearbeitet, schwer in der Hand. Sie saß auf dem Bett, die Beine angewinkelt, ein Spiegel an der gegenüberliegenden Wand. Er nahm den Phallus, fettete ihn mit Olivenöl, bis er gleichmäßig glänzte. Sie sah im Spiegel, wie er ihn an ihre Schamlippen drückte — die Spitze zuerst, dann eine Drehung, dann der Eintritt. Er drang langsam vor — Stufe um Stufe — und sie sah es zweimal: einmal mit den Augen im Spiegel, einmal als Empfindung. Beim halben Stab hielt er. Sie spürte das Glas kühler als sich, dann allmählich auf ihre Wärme erwärmt. Er drehte den Phallus eine Vierteldrehung, bewegte ihn kaum — die Streifen aus Milchglas wanderten beim Drehen, eine Spirale, die sie sah und spürte. Bei voller Länge schloss sie die Augen. Er ließ den Phallus in ihr, eine Hand am Knauf, ohne zu stoßen. Sie kam ohne Bewegung, nur durch Anwesenheit.*
+
 ### 4.32 Buttplug / Pfropfen
 
 **(A)** *Der Pfropfen aus poliertem Horn, kegelförmig, mit breiter Wurzel. Er fettete die Spitze, setzte sie an ihren Anus. Sie atmete aus; er drückte. Erst die Spitze, dann der breite Teil — der Ring schloss sich um die Wurzel.*
@@ -526,6 +548,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Trag ihn." Er stieß den Pfropfen tief, drehte ihn einmal, prüfte mit dem Finger, dass die Wurzel saß. „Den ganzen Abend." Sie nickte. Sie ging zum Tisch, setzte sich vorsichtig, spürte ihn bei jeder Bewegung.*
 
 **(C)** *Olivenöl, Horn, der enge Ring. Er führte den Pfropfen langsam ein — drei Stufen, jede gehalten. Bei der breitesten Stelle hielt sie den Atem, dann saß die Wurzel. Sie spürte die Fülle hinten, eine Erinnerung an ihre Stelle.*
+
+**(D)** *Sie stand vornübergebeugt am Tisch, das Hinterteil hoch, die Schenkel auseinander. Der Pfropfen aus poliertem Horn lag in seiner Hand — kegelförmig, glatt, mit breiter Wurzel und einer schmalen Halsung dahinter, die der Ring umschließen würde. Er fettete die ganze Form mit Olivenöl, dann setzte er die Spitze an ihre kleine Öffnung. Sie atmete in den Bauch hinein, lang. Erst die Spitze — der Ring gab nach. Dann der breitere Teil — sie hielt den Atem an dieser Stelle, weil das Horn an seiner breitesten dicker war als seine Finger es gewesen waren. Drei Stufen, jede gehalten. Beim breitesten Punkt zog sich der Ring zusammen, dann gab er nach — eine Sekunde Druck, dann das Hineingleiten der Wurzel. Sie hörte sich atmen wie aus großer Entfernung. Er prüfte mit dem Finger, dass die schmale Halsung saß und der Ring sich um sie geschlossen hatte. Dann zog er ihr Kleid herunter — sie sollte ihn drei Stunden tragen.*
 
 ### 4.33 Brustwarzen-Klemmen
 
@@ -535,6 +559,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Federn aus Messing, Polster aus weichem Leder. Er schloss sie an beide Brustwarzen. Eine halbe Stunde später, als er sie löste, kam der eigentliche Schmerz — Blut zurück in die Spitzen. Sie schrie leise, einmal, beim Lösen.*
 
+**(D)** *Sie saß auf dem Sessel, das Hemd offen bis zum Bauch, die Brüste frei. Auf einem Tablett vor ihm: zwei Federklemmen aus Messing, klein, mit weichen Lederpolstern an den Greifflächen, dazwischen eine feine Kette aus zehn Gliedern. Er nahm die erste Klemme, prüfte die Federspannung mit Daumen und Zeigefinger — ein leises Knacken. Er setzte sie an ihre linke Brustwarze, zog langsam an der Feder, ließ sie kontrolliert zuschnappen. Schmerz zuerst, scharf, ein Punkt; dann Hitze, breiter; dann ein Pochen, das in den Hof übergriff. Sie atmete einmal lang aus. Er setzte die zweite an die rechte Brustwarze. Beide Klemmen jetzt, beide Spitzen pulsierend. Er hängte die Kette zwischen die Klemmen ein. Bei jedem Atem zog die Kette leicht — links und rechts gleichzeitig. Eine halbe Stunde lang ließ er die Klemmen sitzen, prüfte alle zehn Minuten den Sitz mit dem Daumen. Beim Lösen kam der eigentliche Schmerz — das Blut zurück in die Spitzen, ein scharfer Stoß. Sie schrie leise, einmal, dann hielt er die Brüste in beiden Händen, drückte sanft, bis das Pochen abklang.*
+
 ### 4.34 Wachsspiele
 
 **(A)** *Eine Bienenwachs-Kerze, weich, kein heißes Paraffin. Er hielt sie über ihre Brust, etwa eine Hand hoch — die Tropfen kühlten auf dem Weg, trafen warm, nicht heiß. Erste Spur über das Brustbein.*
@@ -542,6 +568,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Nicht zucken." Sie versuchte. Der Tropfen fiel auf ihre Brustwarze, die noch von der Klemme rot war. Hitze, dann sofortes Kühlen — das Wachs erstarrte zu einem kleinen weißen Knopf. Er ließ ihn dort.*
 
 **(C)** *Kerze hoch, Kerze niedrig — der Abstand bestimmte die Hitze. Zuerst hoch, sicher. Dann näher, schärfer. Eine Spur Wachs lief von ihrem Brustbein zwischen die Brüste, von dort über den Bauch, bis kurz oberhalb des Schoßes. Dort hörte er auf.*
+
+**(D)** *Sie lag auf dem Rücken auf einem groben Leinen-Tuch, das er über das Bett gespannt hatte — gegen das Tropfen. Eine Kerze aus reinem Bienenwachs, weich, niedrige Schmelztemperatur. Er hielt sie eine ganze Hand hoch über ihre Brust und neigte sie. Der erste Tropfen kühlte auf dem Weg, traf warm das Brustbein — eine kleine Insel, die in Sekunden erstarrte. Sie zuckte nicht. Der zweite traf zwischen die Brüste; der dritte den Hof der linken Brust. Er senkte die Kerze um zwei Finger — die Hitze wurde schärfer. Beim sechsten Tropfen ließ er ihn auf die rechte Brustwarze fallen, die noch von der Klemme rot war. Hitze, dann sofortes Kühlen — das Wachs erstarrte zu einem kleinen weißen Knopf, der an der Spitze sitzen blieb. Er ließ ihn dort. Eine längere Spur folgte — er bewegte die Kerze langsam vom Brustbein abwärts, das Wachs zog eine Linie über den Bauch, in die Vertiefung des Nabels, dann über den Unterbauch bis kurz oberhalb des Schoßes. Dort hörte er auf. Sie spürte das erstarrte Wachs als zweite Haut, als Schale, die mit jeder Bewegung leicht knackte.*
 
 ### 4.35 Eis-Spiele
 
@@ -551,6 +579,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Eis und Mund — kalt zuerst, dann seine warmen Lippen direkt danach. Der Wechsel an ihrer Brustwarze, an der Innenseite des Schenkels, an der Klitoris. Sie wusste nie, was als nächstes kam: Kälte oder Wärme.*
 
+**(D)** *Aus dem Eiskeller hatte er ein Stück Eis geholt, etwa so groß wie sein Daumen, in einem Leinensack getragen, am Bett bereit. Sie lag auf dem Rücken, die Schenkel offen, die Augen verbunden — sie sollte nichts sehen, nur fühlen. Er begann am Hals, das Eis kreisend in seiner Hand. Eine Linie hinunter zum Schlüsselbein, eine Spur Wasser, die ihre Haut dunkler machte. Auf jede Brustwarze einen Augenblick — sie zogen sich zusammen, hart wie kleiner Quartz. Dann wechselte er — sein Mund kam, wo das Eis gewesen war, warm an der frostigen Stelle, eine zweite Schicht Empfindung. Er wanderte weiter — die Innenseite des linken Schenkels mit Eis, dann mit dem Mund. Der rechte mit dem Mund, dann mit Eis. Sie wusste nie, was zuerst kam. Beim Schoß setzte er das Eis nicht direkt — er hielt es kurz darüber, bis die Kälte den Damm und die äußeren Schamlippen erreichte, dann legte er den Mund an die Klitoris, warm, langsam. Sie kam in einer Welle, die kalt anfing und warm endete.*
+
 ### 4.36 Vaginalkugeln (Ben-Wa-artig)
 
 **(A)** *Zwei Glaskugeln, schwer, wie Murmeln aber größer. Er führte sie ein, eine nach der anderen — die erste hinter die andere, beide in ihrem Schoß ruhend. Er zog die Schnur zwischen ihnen.*
@@ -558,6 +588,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Steh auf." Sie stand. Die Kugeln rollten in ihrem Schoß, leicht, mit jeder Bewegung. „Geh durch das Zimmer." Sie ging — bei jedem Schritt eine andere Stelle, an der sie spürte, wo sie waren.*
 
 **(C)** *Glas in ihrem Schoß, kühler als ihr Körper, dann allmählich warm. Sie spürte das Gewicht. Beim Niederknien rollten sie tiefer; beim Aufstehen zog die Schnur leicht an. Sie sollte sie eine Stunde tragen, ohne dass eine herausfiel.*
+
+**(D)** *Auf dem Tisch lagen die zwei Glaskugeln, schwer, wie Murmeln aber doppelt so groß, mit einer feinen Seidenschnur zwischen den beiden. Sie kannte die Übung — sie hatte sie schon zwei Mal gemacht. Sie zog ihren Rock hoch, lehnte sich an den Tisch, öffnete die Schenkel. Er fettete die erste Kugel mit einem Tropfen Olivenöl, führte sie ein — sie glitt ohne Mühe, schloss sich tief in ihrem Schoß. Die zweite folgte, an der Schnur entlang, kam direkt hinter der ersten zur Ruhe. Er zog die Schnur einmal — beide Kugeln rückten näher an den Eingang, dann zurück. Sie sollte sie eine Stunde tragen. Sie ließ den Rock fallen. Beim ersten Schritt durch das Zimmer rollten die Kugeln tiefer; beim zweiten kamen sie wieder zurück. Beim Niederknien glitten sie an die Hinterwand des Schoßes; beim Aufstehen zog die Schnur leicht an, ein Druck am Eingang. Eine Stunde lang ging sie durch das Haus, setzte sich, stand auf, beugte sich. Bei jedem Schritt war ihr Körper voller bewusst, als hätte sie eine zweite Sache zu tragen, neben sich selbst.*
 
 ### 4.37 Snowballing / Cum-Swap MF
 
@@ -567,6 +599,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Cum auf ihrer Zunge, dünn vom Speichel. Sein Mund auf ihrem, langsam. Sie tauschten — sie spürte, wann der Samen ihren Mund verließ, wann seiner zurückkam. Réage-Geste der Aneignung: was er gegeben hatte, gab sie zurück.*
 
+**(D)** *Sie kniete vor ihm, sein Glied tief in ihrem Mund, ihre Hand an der Wurzel. Er kam — drei Strahlen, sie spürte jeden einzelnen am Gaumen. Sie schluckte nicht. Sie hielt den Mund geschlossen, wie sie es vereinbart hatten. Er zog sich aus ihrem Mund zurück, beugte sich zu ihr hinunter — sie war auf den Knien, er stand —, dann kniete er gegenüber. Seine Hand fasste ihren Hinterkopf, leicht. Er küsste sie tief; ihre Zungen begegneten sich in der Mitte. Der Samen wechselte langsam von ihrem Mund in seinen — sie spürte den Moment, an dem er ihre Zungenspitze verließ. Er hielt den Kuss, der Samen blieb in seinem Mund, einen Atemzug lang. Dann kam er zurück — sie nahm ihn wieder auf, gemischt jetzt mit seinem Speichel. Drei Wechsel insgesamt, jede Schicht eine andere Konsistenz. Beim dritten Mal löste er den Kuss. Sie hatte ihn jetzt. Sie schluckte, einmal, langsam. Réage-Geste der Aneignung umgekehrt: was er gegeben hatte, hatte er ihr durch sich hindurch zurückgegeben.*
+
 ### 4.38 Facial solo (Cum auf Gesicht)
 
 **(A)** *Er stand vor ihr, sie kniete. Drei Stöße seiner Hand, dann der erste Strahl quer über ihre Wange, von der Nase zum Ohr. Der zweite über die Stirn, in das Haar. Der dritte fiel auf ihre Brust.*
@@ -574,6 +608,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Augen zu. Mund auf." Sie schloss die Augen. Sein Samen traf zuerst die Lippen, dann die Wange, dann das Kinn. Sie hielt den Mund offen, wie er gesagt hatte; ein Tropfen lief hinein. Sie schluckte nicht.*
 
 **(C)** *Drei Strahlen in vier Atemzügen — Wange, Lippe, Hals. Die weiße Spur trocknete in der Luft, kühlte. Er stand still über ihr, sah zu. Sie öffnete die Augen erst auf sein Wort hin.*
+
+**(D)** *Sie kniete vor ihm, das Gesicht leicht gehoben, die Augen geschlossen, die Lippen halb geöffnet. Er hatte sich zwanzig Minuten lang ihren Mund nehmen lassen — Mund, Hand, Mund wieder — und war jetzt an der Schwelle. Er trat einen halben Schritt zurück, hielt sich am Glied. Sie wusste, was kommt. Drei Stöße seiner Hand, dann der erste Strahl — er traf quer über ihre Wange, von der Nase bis zum Ohr, eine warme Linie, die sich an der Schläfe verlor. Sie zuckte nicht. Der zweite Strahl traf ihre Stirn und das Haar an der Schläfe. Der dritte fiel auf ihre Lippen, ein Tropfen lief in ihren Mund, weil sie ihn nicht ganz geschlossen hatte. Der vierte fiel an den Hals herunter, eine kühlere Spur, als das Licht der Lampe sie verließ. Sie öffnete die Augen erst auf sein Wort hin. Er sah sie an, lange — sah, was er hinterlassen hatte —, dann hob er sie hoch und küsste ihre saubere Schläfe. Réage-Geometrie: was er gemarkt hatte, gehörte ihm.*
 
 ### 4.39 Creampie vaginal (in Vulva ejakulieren)
 
@@ -585,6 +621,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Hitze tief in ihr, zweimal, dreimal — sie spürte jeden Stoß seines Glieds, der nichts mehr gab als Wärme. Er rollte zur Seite. Sie blieb auf dem Rücken, Schenkel angewinkelt, ließ ihn in sich.*
 
+**(D)** *Sie lag auf dem Rücken, die Schenkel um seine Hüften, sein Glied tief in ihrem Schoß. Er hatte zwanzig Minuten lang gestoßen, langsam, dann schneller, dann wieder langsam. Sie hatten den Takt gefunden, einen, der für beide ging. Beim Spüren seines nahen Kommens hob sie das Becken eine Spur, zog ihn tiefer. Er stieß noch dreimal, härter, sein Atem an ihrem Hals. Beim letzten Stoß hielt er still — drei Atemzüge lang gab er sich in sie. Sie spürte die Wärme tief, eine Welle, dann eine zweite. Er blieb in ihr, halb hart, sein Bauch an ihrem, schwer atmend. Er bewegte sich nicht zurück. Eine Minute, vielleicht zwei. Erst als er weicher wurde, zog er sich langsam heraus. Sein Samen lief leise an der Innenseite ihres Schenkels herunter; er fing den Tropfen mit dem Daumen, brachte ihn zurück an ihre Vulva. Sie blieb auf dem Rücken, die Schenkel angewinkelt, ließ ihn in sich. Er rollte zur Seite, legte den Kopf auf ihre Brust. Beide blieben so, lange.*
+
 ### 4.40 In Anus ejakulieren
 
 **(A)** *Er stieß tief in ihr Hinterteil — drei Atemzüge schneller, dann hielt er still. Die Hitze drinnen war anders als vorne, näher am Knochen. Er blieb, bis sein Glied weich wurde. Sie spürte den Samen warm, dann kühlend.*
@@ -592,6 +630,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Drinnen." Er kam in ihrem Anus, vollständig. Sie spürte den Druck — der Ring um sein Glied, sein Glied am Pulsieren. Beim Zurückziehen rann ein Tropfen heraus; er fing ihn mit dem Daumen, brachte ihn an ihre Lippen.*
 
 **(C)** *Hitze hinten, eine Welle, dann zwei. Er hielt still in ihr. Sie hörte seinen Atem an ihrem Ohr, kürzer, dann ruhiger. Beim Zurückziehen blieb der Pfropfen — er hatte ihn vorher bereitgelegt, schloss sie wieder, hielt den Samen drinnen.*
+
+**(D)** *Sie kniete vornübergebeugt auf dem Bett, das Gesicht in den Unterarmen, das Hinterteil hoch. Er war seit fünfzehn Minuten in ihrem Anus — er hatte sich Zeit genommen, langsam zuerst, dann fester. Sie hatte gelernt, wie tief er gehen konnte, sie hatte die Hüften gehoben, ihn empfangen. Beim Spüren seines nahen Kommens stieß er drei Atemzüge schneller, dann hielt er. „Drinnen", sagte er, leise. Die Hitze kam, eine Welle, dann eine zweite, dann eine dritte — sie spürte jeden Pulsschlag seines Glieds tief in ihr. Sein Bauch an ihrem Hinterteil, sein Atem an ihrem Schulterblatt. Er blieb, bis er weicher wurde, dann noch zwei Minuten länger. Sie hörte seinen Atem ruhiger werden. Beim Zurückziehen war der Pfropfen schon in seiner Hand — er hatte ihn auf das Bett gelegt, vorbereitet. Mit einer einzigen Bewegung schloss er sie wieder, der Pfropfen hielt den Samen drinnen. Sie sollte ihn eine halbe Stunde tragen. Sie blieb auf den Knien, dann legte sie sich auf die Seite, bewahrte ihn in sich.*
 
 ### 4.41 Im Mund ejakulieren mit Schlucken-Befehl
 
