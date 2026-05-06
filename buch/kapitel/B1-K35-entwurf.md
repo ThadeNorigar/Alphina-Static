@@ -16,6 +16,20 @@
 **Ton-Referenz-Leseproben (für /ausarbeitung):**
 - `buch/leseproben/05-bdsm-szene-vesper-maren.md` — direkte Ton-Vorlage. Pflicht-Lese.
 - `buch/leseproben/04-bdsm-alltag-vesper-maren.md` — Tonfall in den ruhigen Beats.
+- `buch/leseproben/36-anatomie-register-explizit.md` — Wort-Register + Stil-Beispiele für explizite Beats. Pflicht-Lese.
+
+**Beat-zu-Set-Mapping (aus Register 36 für K35-Sex-Szene):**
+
+| K35-Beat | Set im 36er-Register | Modi-Empfehlung |
+|---|---|---|
+| Sz3 Cunnilingus MF (Lecken-Sequenz) | **4.19 Cunnilingus MF** | A (Position-Sicht) oder C (Material-Prozess) |
+| Sz3 Schwellen-Stopps zweimal | **4.20 Edging / Schwellen-Stopp** | B (Befehl) oder C (Material-Prozess) |
+| Sz3 Schamlippen geöffnet, Finger-Sequenz Klitoris→Damm | **4.4 Glied in Vulva (B)** als Material-Vorlage | B |
+| Sz3 Anus-Berührung mit Olivenöl, kreisend, ohne Eindringen | **4.1 Finger in Anus (C)** als Vorlage; in K35 NUR Außen-Berührung, kein Eindringen | C-Variante ohne Eindring-Beat |
+| Sz3 Penetration vaginal, dreistufig | **4.4 Glied in Vulva (A)** | A |
+| Sz3 Marens Orgasmus explizit erzählt | **4.4 Glied in Vulva** (eingebunden) + 4.20 Schwellen-Disziplin | A |
+| Sz3 Vespers Orgasmus | **NICHT erwähnen** (POV-Disziplin) — kein Set |
+| Sz3 Schluss-Bild „Festhalten, niemand löst" | kein Set — eigenständiger Beat (Tor-Unterstrom verkörpert) | — |
 
 **Council-Leserinnen für /ausarbeitung:**
 - **VICTORIA** — Réage-Klinik, Material-Präzision, Power-Exchange mit Grund. Pflicht-Stimme.
