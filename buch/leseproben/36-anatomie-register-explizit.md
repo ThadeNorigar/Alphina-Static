@@ -139,6 +139,27 @@ canon_status: Register, kein Plot-Canon. Erstellt 2026-05-06 nach Réage-Recherc
 | **Länge** | neutral-direkt | für gesamtes Glied (*„um die Länge"*) |
 | **Vorhaut** | klinisch-anatomisch | erlaubt, modern |
 
+### BDSM-Werkzeuge
+
+| Wort | Klasse | Anwendung |
+|---|---|---|
+| **Reitstock** | Material | dünn, Hartholz mit Lederbezug |
+| **Peitsche** | Material | je nach Bauart benennen |
+| **Riemen** | Material | breit, Leder |
+| **Neunschwänzige** | Material | mehrere Lederschnüre |
+| **Federklemme** | Material | für Brustwarzen, mit Lederpolster |
+| **Klemme** | generisch | |
+| **Halsband** | Material | Leder, mit Messingring vorn |
+| **Kette** | Material | Glieder zählbar |
+| **Karabiner** | Material | Verschluss |
+| **Brandeisen** | Material | geformtes Eisen, im Feuer erhitzt |
+| **Tätowierstift** | Material | feine Nadel, Tinte aus Lampenruß+Öl |
+| **Phallus** | poetisch-direkt | für Dildo (Holz, Horn, Elfenbein, Glas) |
+| **Pfropfen** | poetisch-direkt | für Buttplug (Horn, Holz) |
+| **Vaginalkugeln / Glaskugeln** | Material | Ben-Wa-artig |
+| **Eiswürfel** | Material | aus Eiskeller |
+| **Bienenwachs** | Material | weicher als Paraffin, geringere Hitze |
+
 ### Schenkel / Hüften
 
 | Wort | Klasse | Anwendung |
@@ -351,6 +372,344 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Halt es im Mund." Er kam auf ihre Lippen, dann öffnete sie. Sein Samen lag auf ihrer Zunge. Er wartete, sah zu, ließ sie ihn schmecken. Erst nach drei Atemzügen sagte er: „Schluck."*
 
 **(C)** *Er kam auf ihren Bauch — eine warme Spur von der Vertiefung des Nabels nach oben bis zwischen ihre Brüste. Sie spürte den Saft kühlen. Sein Finger fuhr durch die Spur, hob einen Tropfen, brachte ihn an ihre Lippen. Sie öffnete den Mund.*
+
+### 4.19 Cunnilingus MF (Mann leckt Frau)
+
+**(A)** *Er kniete vor dem Bett, ihre Schenkel über seinen Schultern. Sein Mund am Schoß, die Zunge an der Klitoris, kreisend, dann tiefer in der Spalte. Sie hielt seine Haare; er ließ sie es tun.*
+
+**(B)** *„Schenkel auseinander." Sie öffnete sie weit. Er fand ihre Klitoris mit der Zungenspitze, dann mit der breiten Seite — einmal, zweimal, im selben Takt. Beim dritten Mal hob sich ihr Becken; er drückte es zurück mit der flachen Hand auf dem Bauch.*
+
+**(C)** *Sein Atem zuerst, kühl an der Innenseite ihrer Schenkel. Dann seine Lippen am Schoß, eine Sekunde nur. Dann die Zunge — eine Bahn von der Vulva-Öffnung über die inneren Lippen bis zur Klitoris, dort blieb sie, langsamer als sie wollte.*
+
+### 4.20 Edging / Schwellen-Stopp
+
+**(A)** *Sie war an der Schwelle. Eine Welle stieg, hoch, näher. Er nahm den Mund weg. Stille. Sie wartete, sie kam zurück, langsam.*
+
+**(B)** *„Du kommst nicht jetzt." Ein Befehl, kein Fragezeichen. Er stoppte mitten in der Bewegung. Ihre Hüften griffen ins Nichts. Sie zwang den Atem flacher.*
+
+**(C)** *Drei Mal an die Schwelle, drei Mal zurück. Sie spürte die Welle nicht mehr als Welle, sondern als Druck, der nicht abgebaut wurde. Beim dritten Mal lockerte er die Bremse — und nahm sie ganz.*
+
+### 4.21 Doggystyle (Penetration von hinten in Vulva)
+
+**(A)** *Sie auf allen Vieren, Hüften gehoben, Kopf gesenkt. Er hinter ihr. Sein Glied glitt von hinten in ihren Schoß, drei Zoll, hielt; weitere zwei, hielt. Bei voller Länge legte er die Hand auf ihre Hüfte.*
+
+**(B)** *„Hüften hoch." Sie kam ihm entgegen. Er teilte ihre Schamlippen mit dem Daumen, fand den Eingang ihres Schoßes von hinten und drang langsam ein. Drei Stöße, dann fand er den Takt.*
+
+**(C)** *Sein Bauch an ihrem Hinterteil, sein Glied in ihrem Schoß, ihre Hände in den Laken. Bei jedem Stoß rollte ihr Kopf vor; sie ließ ihn rollen. Er stieß tief — die Spitze fand die Stelle hinter dem Schambein, von hinten.*
+
+### 4.22 Spanking (Schläge auf Hinterteil mit Hand)
+
+**(A)** *Erst die Hand, flach, einmal — Klatsch, Wärme. Dann zweimal in derselben Stelle. Beim dritten Mal hob sich ihr Hinterteil leicht entgegen; er ließ es geschehen.*
+
+**(B)** *„Halt still." Drei Schläge mit der flachen Hand, in regelmäßigem Abstand. Beim vierten zog sich ihre Haut zusammen. Er strich danach einmal über die rote Stelle, kühlend, ohne Druck.*
+
+**(C)** *Seine Hand fand das Hinterteil — flach, ein scharfer Klatsch. Die Wärme blieb länger als der Schlag. Beim fünften wechselte er die Seite. Beim zehnten hörte er den Atem länger gehen, und das war Antwort genug.*
+
+### 4.23 Auspeitschen (Reitstock / Peitsche / Riemen)
+
+**(A)** *Der Reitstock lag auf dem Tisch, schmaler Lederbezug, hartes Holz darunter. Er nahm ihn auf. Drei Schläge auf das Hinterteil, in saubere Linien. Sie zählte mit, leise, ohne dass er es verlangt hatte.*
+
+**(B)** *„Zähle." Der erste Schlag traf, dünner als Hand, schärfer. „Eins." Der zweite, etwas tiefer. „Zwei." Bei zehn hörte er auf; sie zählte trotzdem den elften, der nicht kam.*
+
+**(C)** *Hart-Leder, Hart-Holz unter dem Bezug. Er wog die Länge in der Hand, schlug einmal in die Luft — der Pfeifton. Dann auf den Hinterteil. Eine schmale Linie, rot, wo der Stock getroffen hatte. Die zweite Linie zwei Finger über der ersten.*
+
+### 4.24 Würgen / Choking (Hand am Hals)
+
+**(A)** *Seine Hand am Hals — flach, vier Finger an der einen Seite, Daumen an der anderen. Er drückte nicht, er hielt. Sie spürte das Pulsieren ihrer Halsschlagader unter seiner Hand.*
+
+**(B)** *„Atme normal." Er legte die Hand um ihre Kehle, von vorne. Druck nur soweit, dass sie ihn spürte, nicht so weit, dass die Luft eng wurde. Beim Stoßen seiner Hüften lockerte er, beim Halten zog er an.*
+
+**(C)** *Vier Finger auf die rechte Halsschlagader, der Daumen auf die linke. Er drückte einen Atemzug lang, ließ los, drückte wieder. Sie sah Punkte vor den Augen, kurz, dann wieder klar — er kannte den Moment, an dem er aufhörte.*
+
+### 4.25 Halsband + Kette (Eigentums-Marker)
+
+**(A)** *Das Halsband aus weichem Leder, eingefettet, zwei Finger breit. Er legte es um ihren Hals, zog es eine Stufe enger als sie erwartet hatte. Der Messingring vorne klappte einmal, als er den Karabiner einhakte.*
+
+**(B)** *„Knie." Sie kniete. Er nahm die Kette vom Tisch, hakte sie in den Ring am Halsband. Drei Glieder lang. Er hielt das andere Ende. Wenn sie sich aufrichten wollte, zog die Kette sie zurück.*
+
+**(C)** *Leder am Hals, kühl, dann warm vom Körper. Der Messingring drückte gegen ihr Schlüsselbein, wenn sie den Kopf neigte. Die Kette in seiner Hand — zehn Glieder, die er einzeln durch die Finger zog, wenn er nichts sagte.*
+
+### 4.26 Markierung / Brandmal
+
+**(A)** *Das Eisen lag im Feuer. Er nahm es heraus, prüfte die Spitze mit feuchtem Daumen — Zischen. Sie sah nicht hin. Er setzte es an die Innenseite ihres Schenkels, eine Sekunde, weniger. Der Schmerz kam nach dem Geruch.*
+
+**(B)** *„Linke Hüfte." Sie streckte sich. Das Brandeisen, geformt wie sein Initial, in glühendem Rot. Er drückte zu — ein Atemzug. Sie hielt den Schrei zurück, weil er es nicht verlangt hatte.*
+
+**(C)** *Nicht Eisen — Tinte. Sie hatte gewählt. Der Tätowierstift, fein, mit Lampenruß und Olivenöl gemischt. Die Nadel stach hundertmal in ihre Hüfte; das Zeichen wuchs, eine Ranke, ein Buchstabe. Eine Stunde lang. Sie weinte nicht, sie zählte die Stiche.*
+
+### 4.27 Beobachten / Beobachtet werden
+
+**(A)** *Er saß im Sessel, sie auf dem Bett. Er bewegte sich nicht. Sie tat, was er gesagt hatte: ihre Hand zwischen den Schenkeln, langsam, im Takt seiner Augen.*
+
+**(B)** *„Mach weiter, ich sehe zu." Sie stockte einen Atemzug, dann ging sie weiter — drei Finger im eigenen Schoß, der Daumen an der Klitoris. Er bewegte sich nicht. Sie kam unter seinem Blick, lauter als sonst.*
+
+**(C)** *Spiegel an der Wand, breit, vom Bett aus zu sehen. Er stand hinter ihr. Sie beide im Spiegel — seine Hand an ihrem Schoß, ihre Augen offen. Sie sah, was er tat, bevor sie es spürte. Der Halbsekunden-Vorsprung machte alles dichter.*
+
+### 4.28 Verbale Demütigung
+
+**(A)** *„Du bist nass." Sie nickte. „Sag es." — „Ich bin nass." — „Warum?" — „Weil Sie hier sind." Réage-Pattern: er erklärt das Offensichtliche, weil sie es aussprechen muss, nicht weil er es nicht weiß.*
+
+**(B)** *„Du gehörst hier nicht hin als Person, du gehörst hier hin als Werkzeug." Eine Sekunde Schweigen. Sie nickte. Er nickte zurück. Die Worte hatten keine Spur Verachtung — er teilte ihr ihre Position mit, klinisch.*
+
+**(C)** *„Sag, was du bist." Sie sagte es. „Wiederhol es." Sie wiederholte. Dreimal hintereinander, in genau dem Tonfall, den er hören wollte. Beim vierten Mal lockerte sich etwas in ihrer Brust, das sie zehn Jahre festgehalten hatte.*
+
+### 4.29 Position-Demütigung (Dauer-Position)
+
+**(A)** *Sie kniete mit gespreizten Schenkeln, Hände hinter dem Rücken verschränkt, Kopf gesenkt. Er ging zweimal um sie herum. Sie behielt die Position, eine halbe Stunde, ohne dass er es kontrollierte.*
+
+**(B)** *„Schenkel auseinander. Weiter. Halt sie da." Sie hielt sie da, eine Stunde lang. Die Knöchel taten weh. Die Innenseiten der Schenkel zogen. Sie sagte nichts.*
+
+**(C)** *Auf allen Vieren über das Zimmer. Sie kroch — nicht eilig, in seinem Takt. Vom Tisch zum Bett, zwölf Schritt. Er ging neben ihr, hatte die Hand offen über ihr, ohne sie zu berühren.*
+
+### 4.30 Komplexe Verschnürung (Réage-Bondage erweitert)
+
+**(A)** *Hanfseil, sechs Klafter lang. Er führte es um ihre Brüste, kreuzte es vor und hinter dem Brustkorb, knüpfte sicher zwischen den Schultern. Beide Brüste hervorgehoben, das Seil unter und über jeder Brust.*
+
+**(B)** *„Hände hinter den Rücken. Knöchel an den Pfosten." Er band sie nicht — er verschnürte sie. Hand an Knöchel an Pfosten, in einem Strang, der durch drei Schlaufen lief. Wenn sie an einer Stelle zog, zog es überall.*
+
+**(C)** *Erst um die Hüften, dann durch die Lenden, dann zwischen die Schenkel — das Seil drückte gegen die Spalte ihres Schoßes, eine Linie spürbarer Reibung. Bei jedem Atemzug zog das Seil leicht an. Eine Stunde später war sie offen vor allem.*
+
+### 4.31 Dildo / Phallus allein eingesetzt
+
+**(A)** *Auf dem Tisch lag der geformte Phallus aus Horn, glatt poliert, einen Daumen breit an der Spitze, drei Daumen am Ende. Er nahm ihn auf, fettete ihn mit Olivenöl, führte ihn an ihre Vulva-Öffnung.*
+
+**(B)** *„Lass ihn hinein." Er hielt den Phallus, sie führte sich darauf zu. Sie senkte sich langsam, Stufe um Stufe — Spitze, Mitte, Wurzel. Bei voller Länge hielt sie still, weil er es so sagte.*
+
+**(C)** *Glas, durchsichtig, mit Streifen aus Milchglas. Er fettete den Phallus, drückte ihn an ihre Schamlippen. Sie sah ihn — durch die Schenkel, im Spiegel — wie er in sie hineinverschwand. Er drehte ihn einmal; sie schloss die Augen.*
+
+### 4.32 Buttplug / Pfropfen
+
+**(A)** *Der Pfropfen aus poliertem Horn, kegelförmig, mit breiter Wurzel. Er fettete die Spitze, setzte sie an ihren Anus. Sie atmete aus; er drückte. Erst die Spitze, dann der breite Teil — der Ring schloss sich um die Wurzel.*
+
+**(B)** *„Trag ihn." Er stieß den Pfropfen tief, drehte ihn einmal, prüfte mit dem Finger, dass die Wurzel saß. „Den ganzen Abend." Sie nickte. Sie ging zum Tisch, setzte sich vorsichtig, spürte ihn bei jeder Bewegung.*
+
+**(C)** *Olivenöl, Horn, der enge Ring. Er führte den Pfropfen langsam ein — drei Stufen, jede gehalten. Bei der breitesten Stelle hielt sie den Atem, dann saß die Wurzel. Sie spürte die Fülle hinten, eine Erinnerung an ihre Stelle.*
+
+### 4.33 Brustwarzen-Klemmen
+
+**(A)** *Zwei Federklemmen, klein, mit Lederpolstern an den Greifflächen. Er setzte die erste an ihre linke Brustwarze, zog langsam an der Feder, ließ sie einrasten. Schmerz, dann Hitze, dann Pochen. Die zweite an die rechte.*
+
+**(B)** *„Halt." Sie hielt den Atem. Er ließ die Feder zuschnappen — die Klemme biss zu. Beim zweiten Atemzug war es weniger Schmerz, mehr Druck. Er befestigte eine Kette zwischen den beiden Klemmen, leicht — sie zog jedes Mal leicht, wenn sie atmete.*
+
+**(C)** *Federn aus Messing, Polster aus weichem Leder. Er schloss sie an beide Brustwarzen. Eine halbe Stunde später, als er sie löste, kam der eigentliche Schmerz — Blut zurück in die Spitzen. Sie schrie leise, einmal, beim Lösen.*
+
+### 4.34 Wachsspiele
+
+**(A)** *Eine Bienenwachs-Kerze, weich, kein heißes Paraffin. Er hielt sie über ihre Brust, etwa eine Hand hoch — die Tropfen kühlten auf dem Weg, trafen warm, nicht heiß. Erste Spur über das Brustbein.*
+
+**(B)** *„Nicht zucken." Sie versuchte. Der Tropfen fiel auf ihre Brustwarze, die noch von der Klemme rot war. Hitze, dann sofortes Kühlen — das Wachs erstarrte zu einem kleinen weißen Knopf. Er ließ ihn dort.*
+
+**(C)** *Kerze hoch, Kerze niedrig — der Abstand bestimmte die Hitze. Zuerst hoch, sicher. Dann näher, schärfer. Eine Spur Wachs lief von ihrem Brustbein zwischen die Brüste, von dort über den Bauch, bis kurz oberhalb des Schoßes. Dort hörte er auf.*
+
+### 4.35 Eis-Spiele
+
+**(A)** *Aus dem Eiskeller, ein Stück so groß wie sein Daumen. Er führte es einmal über ihren Hals, Schlüsselbein, Brustbein. Wasser-Spur, dann Kälte, dann der Nachhall.*
+
+**(B)** *„Lieg still." Er hielt den Eiswürfel über ihren Brustwarzen, ließ ihn schmelzen. Tropfen fiel auf die rechte, kalt, scharf. Ihre Brustwarze zog sich zusammen — er fuhr mit dem Würfel über die Spur, langsam.*
+
+**(C)** *Eis und Mund — kalt zuerst, dann seine warmen Lippen direkt danach. Der Wechsel an ihrer Brustwarze, an der Innenseite des Schenkels, an der Klitoris. Sie wusste nie, was als nächstes kam: Kälte oder Wärme.*
+
+### 4.36 Vaginalkugeln (Ben-Wa-artig)
+
+**(A)** *Zwei Glaskugeln, schwer, wie Murmeln aber größer. Er führte sie ein, eine nach der anderen — die erste hinter die andere, beide in ihrem Schoß ruhend. Er zog die Schnur zwischen ihnen.*
+
+**(B)** *„Steh auf." Sie stand. Die Kugeln rollten in ihrem Schoß, leicht, mit jeder Bewegung. „Geh durch das Zimmer." Sie ging — bei jedem Schritt eine andere Stelle, an der sie spürte, wo sie waren.*
+
+**(C)** *Glas in ihrem Schoß, kühler als ihr Körper, dann allmählich warm. Sie spürte das Gewicht. Beim Niederknien rollten sie tiefer; beim Aufstehen zog die Schnur leicht an. Sie sollte sie eine Stunde tragen, ohne dass eine herausfiel.*
+
+### 4.37 Snowballing / Cum-Swap MF
+
+**(A)** *Er kam in ihrem Mund, ohne dass sie schluckte. Er beugte sich über sie. Sie öffnete den Mund — er nahm den Samen mit der Zunge auf. Beide hielten ihn, zwischen ihren Zungen, einen Atemzug lang, bis er zurück in ihren Mund glitt.*
+
+**(B)** *„Halt es." Sein Samen lag auf ihrer Zunge. Er küsste sie tief — die Zungen begegneten sich in der Mitte, der Samen wechselte, kam zurück, wechselte wieder. Erst nach drei Wechseln schluckte einer von ihnen.*
+
+**(C)** *Cum auf ihrer Zunge, dünn vom Speichel. Sein Mund auf ihrem, langsam. Sie tauschten — sie spürte, wann der Samen ihren Mund verließ, wann seiner zurückkam. Réage-Geste der Aneignung: was er gegeben hatte, gab sie zurück.*
+
+### 4.38 Facial solo (Cum auf Gesicht)
+
+**(A)** *Er stand vor ihr, sie kniete. Drei Stöße seiner Hand, dann der erste Strahl quer über ihre Wange, von der Nase zum Ohr. Der zweite über die Stirn, in das Haar. Der dritte fiel auf ihre Brust.*
+
+**(B)** *„Augen zu. Mund auf." Sie schloss die Augen. Sein Samen traf zuerst die Lippen, dann die Wange, dann das Kinn. Sie hielt den Mund offen, wie er gesagt hatte; ein Tropfen lief hinein. Sie schluckte nicht.*
+
+**(C)** *Drei Strahlen in vier Atemzügen — Wange, Lippe, Hals. Die weiße Spur trocknete in der Luft, kühlte. Er stand still über ihr, sah zu. Sie öffnete die Augen erst auf sein Wort hin.*
+
+### 4.39 Creampie vaginal (in Vulva ejakulieren)
+
+**Plot-relevant: Schwangerschafts-Logik in B1/B2/B3 prüfen.**
+
+**(A)** *Er stieß tiefer, härter, sein Atem an ihrem Hals. Beim letzten Stoß hielt er still — drei Atemzüge lang gab er sich in sie. Sie spürte die Wärme, eine Welle, dann Stille. Er blieb in ihr, bis er weicher wurde.*
+
+**(B)** *„Bleib unten." Er kam in ihrem Schoß, tief, der erste Strahl an ihrem Muttermund. Er hielt sie an den Hüften, ließ nicht zu, dass sie sich bewegte. Eine Minute lang blieb er, halb hart, bis er sich langsam zurückzog. Sein Samen lief leise heraus.*
+
+**(C)** *Hitze tief in ihr, zweimal, dreimal — sie spürte jeden Stoß seines Glieds, der nichts mehr gab als Wärme. Er rollte zur Seite. Sie blieb auf dem Rücken, Schenkel angewinkelt, ließ ihn in sich.*
+
+### 4.40 In Anus ejakulieren
+
+**(A)** *Er stieß tief in ihr Hinterteil — drei Atemzüge schneller, dann hielt er still. Die Hitze drinnen war anders als vorne, näher am Knochen. Er blieb, bis sein Glied weich wurde. Sie spürte den Samen warm, dann kühlend.*
+
+**(B)** *„Drinnen." Er kam in ihrem Anus, vollständig. Sie spürte den Druck — der Ring um sein Glied, sein Glied am Pulsieren. Beim Zurückziehen rann ein Tropfen heraus; er fing ihn mit dem Daumen, brachte ihn an ihre Lippen.*
+
+**(C)** *Hitze hinten, eine Welle, dann zwei. Er hielt still in ihr. Sie hörte seinen Atem an ihrem Ohr, kürzer, dann ruhiger. Beim Zurückziehen blieb der Pfropfen — er hatte ihn vorher bereitgelegt, schloss sie wieder, hielt den Samen drinnen.*
+
+### 4.41 Im Mund ejakulieren mit Schlucken-Befehl
+
+**(A)** *Er kam in ihrem Mund — drei Strahlen, Spitze des Glieds tief am Gaumen. „Schluck." Sie schluckte, einmal, zweimal. „Mund öffnen." Sie öffnete; er prüfte mit dem Daumen, dass nichts mehr da war.*
+
+**(B)** *„Zunge unten. Halt es." Sein Samen lag auf ihrer Zunge, schwer. Er sah sie an, drei Atemzüge lang. „Schluck." Sie schluckte. „Bedank dich." Sie bedankte sich.*
+
+**(C)** *Sein Glied tief in ihrem Mund, sein Samen heiß, dick. Sie hielt den Mund geschlossen, wie sie es kannte. Auf sein Nicken hin schluckte sie, zweimal. Sie öffnete den Mund weit, er sah hinein — leer.*
+
+### 4.42 Weibliche Masturbation (Solo)
+
+**(A)** *Sie auf dem Rücken, Schenkel offen. Drei Finger zwischen ihren Schamlippen, der Daumen an der Klitoris. Sie kannte ihren Takt. Sie machte sich nicht heimlich, sie machte sich gründlich.*
+
+**(B)** *Olivenöl auf der eigenen Hand. Sie fuhr eine Bahn von der Klitoris zur Vulva-Öffnung, zurück. Beim siebten Mal blieb sie an der Klitoris. Beim zehnten kam sie, allein, im Spiegel.*
+
+**(C)** *Eine Hand am Schoß, die andere an einer Brust. Sie schloss die Augen — kein Bild, nur ihr Körper unter ihren Händen. Wenn sie nahe war, drosselte sie selbst. Sie wollte es lange.*
+
+### 4.43 Männliche Masturbation (Solo)
+
+**(A)** *Er saß am Tisch, das Hemd offen, das Glied in der eigenen Hand. Die linke Hand hielt das Glied an der Wurzel, die rechte glitt von der Spitze zur Mitte und zurück.*
+
+**(B)** *Sein Daumen unter der Spitze des Glieds, die Faust um die Länge. Er fuhr langsam, dann schneller. Beim Kommen nahm er ein Tuch — Samen lief zwischen seinen Fingern hindurch.*
+
+**(C)** *Speichel auf der Hand, Gleitmittel. Er kannte sich. Drei Minuten, vielleicht vier. Er kam in das Tuch, lautlos, ohne dass er sein Atemzug verriet. Er warf das Tuch in den Eimer.*
+
+### 4.44 Vor Publikum masturbieren
+
+**(A)** *Sie saß auf dem Sessel in der Mitte des Zimmers. Drei Männer um sie verteilt, alle gekleidet. „Mach dich." Sie öffnete die Beine; sie führte ihre Hand zum Schoß. Sie sah niemanden an. Sie tat es langsam, weil er das von ihr wollte.*
+
+**(B)** *„Lass sie sehen, wie du kommst." Vier Augenpaare, einer ihr Geliebter. Sie schluckte einmal. Sie machte sich. Sie kam unter dem Blick aller, leise, ohne Theater.*
+
+**(C)** *Sie kniete auf dem schwarzen Pelz-Puff, Schenkel auseinander, Hand am eigenen Schoß. Réage-Pattern: nicht für sich, für sie. Bei jedem Strich war sie sich der Aufmerksamkeit bewusst — und sie diente ihr, langsam, ohne Eile.*
+
+### 4.45 Spiegel-Spiele
+
+**(A)** *Spiegel an der Wand gegenüber dem Bett. Sie sah sich, wie sie auf ihm saß, sein Glied in ihrem Schoß. Das Bild kam einen Halbsekunden vor der Empfindung. Sie sah, was sie tat, bevor sie es spürte.*
+
+**(B)** *„Schau hin." Er stand hinter ihr, beide vor dem Spiegel. Seine Hand wandert über ihre Brust, über ihren Bauch, in ihren Schoß. Sie sah seine Hand, bevor sie sie spürte; sie spürte sie, sobald sie die Hand sah.*
+
+**(C)** *Drei Spiegel — vorne, links, rechts. Sie war von sich umgeben. Der Mann zwischen ihren Schenkeln, sie selbst über sich. Réage-Logik: Sicht macht Erfahrung doppelt, einmal körperlich, einmal als Bezeugung.*
+
+### 4.46 Defloration / Erstes Mal mit Schmerz-Ankerung
+
+**(A)** *Er hatte sie eine Stunde lang vorbereitet — Mund, Finger, Geduld. Sie war offen. Trotzdem, beim ersten Eindringen, war Widerstand: das Hymen gab nach unter Druck, ein scharfer Schmerz, ein leises Reißen. Sie biss in ihre Lippe, nicht in seine Schulter.*
+
+**(B)** *„Sag es, wenn du willst, dass ich aufhöre." Er drang ein, halbe Länge — sie spürte das Reißen, dann die Hitze. „Nicht aufhören." Er ging weiter, langsamer, bis er ganz in ihr lag.*
+
+**(C)** *Olivenöl, Geduld, drei lange Atemzüge. Beim Eintritt: ein Punkt scharfen Schmerzes, dann nicht mehr. Er hielt still, eine Minute, bis ihr Schoß aufhörte zu zittern. Erst dann bewegte er sich.*
+
+### 4.47 Erste Anal-Penetration
+
+**(A)** *Erst die Finger, einer nach dem anderen, mit Olivenöl. Dann zwei. Dann erst sein Glied. Bei der ersten Stelle hielt er — sie atmete aus, der Ring gab einen halben Zoll nach.*
+
+**(B)** *„Atme aus." Er drang einen Knöchel tief ein — der Ring widersetzte sich, dann gab er nach. „Wieder atmen." Sie atmete; er ging weiter. Bei voller Länge blieb er still, bis sie ihn nicht mehr drückte.*
+
+**(C)** *Sein Glied am Anus, dick mit Öl. Sie wusste es zum ersten Mal. Sie hatte es gewollt. Drei Atemzüge — bei jedem ein Zoll. Schmerz an der breitesten Stelle, dann Druck, dann Fülle. Beim ganzen Drinnen hielt sie inne, und er auch.*
+
+### 4.48 Erster Orgasmus
+
+**(A)** *Sie hatte gedacht, sie wüsste, was kommt. Sie hatte sich getäuscht. Die Welle stieg höher als erwartet, brach an einer Stelle, von der sie nicht gewusst hatte, dass sie da war. Sie schrie nicht — sie hielt den Atem an, lange.*
+
+**(B)** *„Gib nach. Du wirst es spüren." Sie gab nach. Etwas brach durch, eine Welle, die sie nicht selbst gerufen hatte. Ihre Vulva zog sich zusammen, einmal, zweimal, dreimal. Es war anders, als sie sich vorgestellt hatte.*
+
+**(C)** *Sie kam zum ersten Mal — laut, mit Tränen, mit einem Atem, den sie nicht kontrollieren konnte. Sie wusste nicht, was sie tat. Sie war ihm dankbar, dass er nicht aufhörte, sondern langsamer wurde, sie hielt.*
+
+### 4.49 Atemkontrolle / Erstickungs-Spiele
+
+**(A)** *Seine Hand bedeckte ihren Mund und ihre Nase, eine Sekunde, zwei. Sie öffnete die Augen weit. Beim dritten Atemzug, den sie nicht haben durfte, ließ er los — Luft, scharfe Klarheit.*
+
+**(B)** *„Halt den Atem, bis ich ja sage." Sie hielt. Er stieß weiter in ihren Schoß, langsam. Bei zehn Sekunden, fünfzehn, zwanzig — sie wollte einatmen. Er sagte nichts. Sie hielt durch, weil er keinen Ausweg gegeben hatte.*
+
+**(C)** *Hand am Hals, Druck, Luft enger — nicht weg. Sie sah Sterne am Rand des Bildes. Beim Lockern: ein lauter Atem, Reflex, fast zu laut. Er drückte wieder, sanfter. Sie kannte den Rhythmus jetzt.*
+
+### 4.50 Réage-Ankleidungs-/Auskleidungs-Ritual
+
+**(A)** *Sie standen still in der Mitte des Zimmers. Eine Zofe entkleidete sie — Mantel, Kleid, Mieder, Hemd, Strumpfgürtel, Strümpfe, Schuhe. Sie nackt. Eine zweite Zofe brachte Salböl, frisierte ihr das Haar, malte ihre Lippen rot.*
+
+**(B)** *„Stillhalten." Sie wurde gewaschen, gekämmt, parfümiert, geschminkt — alles ohne ein Wort von ihr. Am Ende reichte man ihr ein neues Kleid, schwarz, ohne Mieder, mit Öffnungen an den vorgesehenen Stellen.*
+
+**(C)** *Eine halbe Stunde war sie nackt im Sessel gesessen, während sie aufgetragen wurde wie ein Bild. Die Salbe war kühl, dann warm. Das Parfum saß zwischen den Brüsten und auf den Schenkeln. Erst dann legte man ihr das Kleid an.*
+
+### 4.51 Geführt-werden
+
+**(A)** *Sie ging mit verbundenen Augen. Seine Hand an ihrem Ellenbogen, leicht. Drei Türen, vier Schwellen — sie zählte, weil sie sonst nichts wusste. Beim Stehenbleiben wartete sie auf sein nächstes Wort.*
+
+**(B)** *„Geh." Er führte sie an einer Kette, die am Halsband hing. Sie sah, sie ging — durch zwei Räume, einen Korridor, in einen dritten Raum, den sie nicht kannte. Er sagte nicht, wohin. Sie folgte.*
+
+**(C)** *Réage-Logik: nicht „sie ging" — sie wurde geführt. Hand an Hand, Hand an Schulter, Hand an Hüfte. Sie war Objekt der Bewegung. Bei jedem Übergang, bei jeder Tür, bei jedem Treppenstufen — sein Wille, ihre Folge.*
+
+### 4.52 Schenkel-offen-halten als Dauer-Position
+
+**(A)** *„Setz dich. Schenkel auseinander. So weit wie eben." Sie saß auf dem Bett, Schenkel weit, Schoß offen. Sie hielt die Position eine Stunde, bis er zurückkam.*
+
+**(B)** *Réage-Pflicht: nie die Knie zusammen, nie die Schenkel kreuzen. Sie saß im Sessel, sie ging durch das Zimmer, sie las ein Buch — immer mit offenen Schenkeln. Es war ihre Position.*
+
+**(C)** *Eine Pflicht, kein Akt. Sie saß auf dem Boden vor seinem Sessel, Schenkel auseinander geöffnet, Hände hinter dem Rücken. Drei Stunden, vielleicht vier. Die Innenseiten der Schenkel zogen, die Knöchel taten weh. Sie sagte nichts.*
+
+### 4.53 Trinken aus Hand
+
+**(A)** *Er goss Wasser in seine hohle Handfläche. „Trink." Sie beugte sich vor, trank aus seiner Hand. Drei Schlucke, kleine. Sie leckte den Rest mit der Zunge auf.*
+
+**(B)** *Wein in seiner Hand, dunkel, langsam tropfend. „Trink, ohne zu verschütten." Sie öffnete den Mund über seiner Hand. Er kippte den Wein in ihren Mund. Sie verschüttete nichts.*
+
+**(C)** *Réage-Symbol: aus seiner Hand zu trinken war Aneignung von ihm, ohne Augenkontakt. Sie kniete; er stand; sein Wasser, sein Wein. Sie war Empfängerin, nichts anderes.*
+
+### 4.54 Servieren-als-Sub
+
+**(A)** *Sie servierte nackt das Abendessen. Zwei Männer am Tisch, sie zwischen ihnen, mit der Schüssel in den Händen, den Kopf gesenkt. Sie sprachen über sie, als wäre sie nicht da. Sie servierte, sie räumte ab, sie ging nicht.*
+
+**(B)** *„Bring den Wein. Schenk ein. Trink nicht." Sie tat es. Bei jedem der drei Männer schenkte sie ein, hielt das Glas mit zwei Händen. Beim dritten Mann fiel ein Tropfen — er sah sie an. Sie wartete auf seine Antwort.*
+
+**(C)** *Réage-Roissy-Pattern: nackt, mit offener Schenkel-Haltung beim Stehen, mit Schurz aus Spitze, der nichts bedeckte. Sie servierte. Sie sprach nicht. Bei jedem Auftritt war ihre Position spürbar — sie war Werkzeug der Aufmerksamkeit, nicht ihr Empfänger.*
+
+### 4.55 FFM Snowballing (Mann kommt, beide Frauen tauschen Mund-zu-Mund)
+
+**(A)** *Er kam in ihrem Mund. Sie hielt den Samen, schluckte nicht. Die andere Frau beugte sich über sie, ihre Lippen trafen — der Samen wechselte. Beide hielten ihn, jede in ihrem Mund, bis eine schluckte.*
+
+**(B)** *„Halt es. Gib es ihr weiter." Maren öffnete den Mund. Die zweite Frau küsste sie tief — Zungen-an-Zunge-Begegnung, der Samen folgte. Drei Wechsel zwischen ihnen, dann verteilten sie ihn.*
+
+**(C)** *Sein Samen auf ihrer Zunge, seine Hand an ihrem Hinterkopf. Sie kniete vor der anderen, die andere kniete vor ihr. Mund an Mund, der Samen kam und ging, kühlte zwischen ihnen, dann nahm eine ihn und ließ ihn auf der Zunge der anderen ruhen.*
+
+### 4.56 FFM Doppel-Stimulation (Mann in Schoß, Frau Cunnilingus)
+
+**(A)** *Sein Glied in ihrem Schoß, langsam stoßend. Die andere Frau auf dem Bauch zwischen ihren Schenkeln, Mund an der Klitoris — sie leckte um sein Glied herum, jede Bewegung im selben Takt wie er.*
+
+**(B)** *„Bleib in ihr." Er hielt still in ihrem Schoß. Die andere kniete und leckte — Klitoris, Schamlippen, kurz die Wurzel seines Glieds. Maren spürte beides gleichzeitig, eine Welle zwischen den beiden Quellen.*
+
+**(C)** *Drei Körper auf dem Bett. Er fickte sie langsam, halb ganz, halb halb — die andere lag dazwischen, Zungenspitze an der Klitoris, dann an seinem Glied, dann zurück. Sie kam zwischen den beiden, ohne dass einer aufhörte.*
+
+### 4.57 FFM Spitroast (Mann zwischen — Frau am Mund, andere am Schoß)
+
+**(A)** *Maren auf allen Vieren. Er hinter ihr, sein Glied in ihrem Schoß. Vor ihr die andere Frau, Schenkel offen — sie leckte sie, der Mund tief in deren Schoß. Drei Körper, eine Linie.*
+
+**(B)** *„Mund weiter." Er stieß hinten, sie leckte vorne. Die andere stöhnte über ihrem Kopf. Die Bewegungen synchronisierten sich nicht — sie blieben jede für sich, und Maren war die Brücke.*
+
+**(C)** *Sie war zwischen ihnen, eine Stelle, an der zwei Bewegungen durchliefen. Hinten ein Glied, vorne ein Schoß. Réage-Logik: sie diente beiden, gleichzeitig, ohne Wahl.*
+
+### 4.58 FFM Cunnilingus-Kette
+
+**(A)** *Maren leckte die andere Frau, die andere kam unter ihrer Zunge. Hinter Maren kniete der Mann — sein Mund an ihrem Schoß, sie leckte ihn weiter. Drei in einer Kette, drei Münder, drei Schöße.*
+
+**(B)** *„Bleib bei ihr. Ich bleibe bei dir." Maren leckte die andere; er leckte Maren. Bei jedem Stöhnen der ersten zog sich Marens eigener Atem zusammen, was er an ihrem Schoß spürte und mit dem eigenen Atem beantwortete.*
+
+**(C)** *Drei Körper, drei Münder, drei Schenkel. Eine Welle wanderte durch alle drei — wenn die erste kam, kam die zweite einen Atemzug später, dann die dritte. Réage-Mathematik: nichts war einzeln, alles war durchgehend.*
+
+### 4.59 FFM Mann beobachtet zwei Frauen, dann beteiligt sich
+
+**(A)** *Er saß im Sessel, gekleidet. Die zwei Frauen auf dem Bett, ineinander verschränkt — Cunnilingus, Finger, Tribadie. Er sah zu, eine halbe Stunde, ohne etwas zu sagen. Beim dritten Orgasmus stand er auf.*
+
+**(B)** *„Ich komme jetzt dazu." Er trat ans Bett, stieg zwischen sie. Die eine an seinem Mund, die andere an seinem Glied. Er nahm beide gleichzeitig, ohne dass die Frauen aufhörten, einander zu berühren.*
+
+**(C)** *Réage-Logik: erst Bezeugung, dann Eingriff. Er sah ihnen zu, weil das Sehen Teil der Aneignung war. Erst als er den Moment fand, betrat er das Bild. Drei Körper, ein Geist, der sie geordnet hatte.*
+
+### 4.60 FFM Strapon-Kombination
+
+**(A)** *Eine Frau trug das Strapon, die andere lag auf dem Rücken. Der Mann kniete am Kopfende der Liegenden, sein Glied an ihrem Mund. Die zweite Frau drang von hinten in den Schoß der Liegenden ein — der Mann vorne, die Frau hinten, die Liegende in der Mitte.*
+
+**(B)** *„Du nimmst sie hinten." Die Frau mit dem Strapon nickte. „Ich nehme sie vorne." Der Mann stieg auf das Bett, sein Glied in den Mund der Liegenden. Beide bewegten sich gegen den anderen, im Takt.*
+
+**(C)** *Drei Körper, zwei Glieder, eines in Echt, eines aus Holz. Die Liegende war ihr Treffpunkt — Mund am Mann, Schoß an der Frau. Réage-Pattern: was real und was Werkzeug war, machte keinen Unterschied. Beide drangen ein, beide gaben.*
 
 ---
 
