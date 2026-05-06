@@ -68,7 +68,7 @@ Beide kommen einander naeher. Stand im Kreis, einen Atemzug Abstand, dann kein A
 
 **Im selben Moment:** der ganze Garten **ausserhalb** des Kreises explodiert. Farne brechen durch Kies. Moose kriechen ueber den Boden. Wedel sprossen aus den Mauerfugen, ein Saum aus Spitzen entlang der Sims-Kanten (Echo Leseprobe 03 — dort etabliert). Bluten an Strauchern, die im Dunkelmond niemals bluten. Alles **gruen** (Memory `project_alphina_heat_echo_pflanzen`: Sorel = Farne, dichtes Blattwerk, Sorel-Form ist gruen-blattig, nicht Anti-Flora). Im Kreis selbst: weiter nichts. Stein nackt. Pulsation warm. Wartend.
 
-Alphina sieht im Augenwinkel das Wachsen. Sie versteht jetzt — das ist sie. Das ist Begehren, das aus ihr leckt. Sie hat es nicht vorher verstanden. Heute Nacht versteht sie es. Sub-Text: das ist eine Gabe, die sie nie gewusst hat zu haben. Premature-Doubt-Schranke streng: keine Trauer, keine Vorausahnung. Nur die Erkenntnis. Sie kuesst ihn weiter.
+Alphina sieht im Augenwinkel das Wachsen. Sie hat es seit Monaten gespuert — die Farne an der Tuerritze nach K34-Sz3b, das Wuchern um sie herum in Naehe-Momenten — aber nicht ausgesprochen, nicht zugelassen. Heute Nacht im Kreis kann sie es nicht mehr verdraengen: das ist sie. Das ist Begehren, das aus ihr leckt. Der Kuss zwingt es ins Bewusstsein, sie kann es jetzt mit Sorel teilen statt es allein zu tragen. Sub-Text: das ist eine Gabe, die sie nie gewusst hat zu haben — und die sie heute Nacht zum ersten Mal verbalisiert (intern, nicht ausgesprochen). Premature-Doubt-Schranke streng: keine Trauer, keine Vorausahnung. Nur die Erkenntnis. Sie kuesst ihn weiter.
 
 **Dialog-Informationen:**
 - *Steinkreis-Puls:* warm unter den Sohlen, naeher an Alphinas Atem als an einem Menschenherz (K12-Canon, eskaliert).
@@ -76,7 +76,7 @@ Alphina sieht im Augenwinkel das Wachsen. Sie versteht jetzt — das ist sie. Da
 - *Pflanzen ausserhalb des Kreises explodieren:* Heat-Echo Modus voll aktiv (Memory `project_alphina_heat_echo_pflanzen`). Sorel = Farne, dichtes Blattwerk. Gruen, nicht Anti-Flora — Alphina ist ruhig in diesem Moment, nicht aufgewuehlt.
 - *Sorels *„Darf ich?":* Echo zu frueherem („Du hast mich genommen ohne zu fragen") — der Aktplan-Beat. Plot-Inhalt: er kehrt das Verhaeltnis um. Sie hatte die Initiative, jetzt fragt er. Sie hat die Macht, nein zu sagen. Sie sagt ja durch Geste (Hand nehmen).
 - *Alphina kuesst ihn:* sie initiiert. Aktiv-Wahl-Form, nicht Kontroll-Form. Sub-Text-Beat fuer Behauptungs-Muster-Wandlung (POV-Dossier: „Behauptungsmuster greift bei Sorel nicht").
-- *Alphina-Erkenntnis:* sie versteht im Moment des Kusses, dass das Wachstum aussen ihr Begehren ist. Sie hat es nicht vorher verstanden. Heute Nacht erstmals.
+- *Alphina-Erkenntnis:* sie hat es seit Monaten gespuert (K34-Sz3b Farn an Tuerritze etc.), aber nicht ausgesprochen, nicht zugelassen. Heute Nacht im Kreis verbalisiert sie es zum ersten Mal intern und kann es mit Sorel teilen — der Kuss zwingt es ins Bewusstsein. Nicht „erstmals begriffen", sondern „endlich nicht mehr verdraengt".
 - *Sub-Text:* das ist eine Gabe, die sie nie gewusst hat zu haben. KEINE Trauer, KEINE Vorausahnung. Premature-Doubt-Schranke streng.
 - *Begriffs-Schranke:* „Resonanz" nicht. „Wachstum" oder schlicht Beat-Stichwort. Sie sagt das Wort intern auch nicht.
 
@@ -147,7 +147,7 @@ Alphina schaut Sorel an. Letzter Blick im Kreis allein. Dann tritt sie zur Seite
 **Cross-POV-Ankerpunkte:**
 - K34 (Vesper-POV): Treffpunkt-Verabredung. K36 ist die Erfuellung — die anderen kommen.
 - K35 (Maren-POV): die V/M-Nacht endet, sie brechen gemeinsam zum Garten auf.
-- K37 (kommend, Runa-POV): direkter Anschluss. Runa kommt mit Vesper+Maren in den Garten, sieht Alphina+Sorel im Kreis, sieht die Schemen am Rand. K37 setzt mit der Aufstellungs-Sequenz an.
+- K37 (kommend, Runa-POV): direkter Anschluss. Runa folgt heimlich aus den Linden — die Vier sehen sie nicht. Sprung im letzten Moment.
 
 ---
 

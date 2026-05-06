@@ -14,6 +14,7 @@
 4. **Tränen-mit-Tor-Wissen RAUS:** Maren weint nicht. Sie genießt, Tor-Unterstrom körperlich-pragmatisch.
 5. **Vesper-kommt-nicht-Linie RAUS:** Wir erzählen Marens Orgasmus explizit. Bei Vesper *erwähnen wir nicht*, ob er kommt oder nicht — POV-Disziplin (Maren sieht ihn nicht, fragt nicht).
 6. **Aftercare-Klinik (Wasser/Tuch/Massage/Schachturm-Geste) ENTFÄLLT KOMPLETT.** Sz4 fällt. Schluss der Sex-Szene: er löst die Fesseln, sie greifen ineinander — beide nass, schwer atmend, sich festhalten, nie wieder loslassen. Tor-Unterstrom verkörpert im Nichtloslassen.
+7. **Runa NICHT eingeladen, folgt heimlich K37.** Anpassung 2026-05-06 nach Reframe-Rückbau (K34-v4 ist Canon): Maren weiss am Anfang von K35, dass das Quartett Runa NICHT einweiht — operative Entscheidung (Sicherheit, Resonanz drueben unkalkulierbar). „warte auf mich"-Beat zum Boot bleibt. Bröseleffekt liegt bei K38.
 
 Beim Schreiben gilt der Plot-Entwurf-Stand. Bei Konflikt zwischen Skizze und Plot-Entwurf gewinnt der Plot-Entwurf.
 
@@ -308,7 +309,7 @@ Beim Schreiben gilt der Plot-Entwurf-Stand. Bei Konflikt zwischen Skizze und Plo
 
 ### Was weiß Maren am Anfang?
 
-- **Aus K34 (vorher):** Quartett hat sich entschieden — Durchgang morgen. Runa kommt mit. Vesper hat das Ritual übersetzt. Maren hat *„warte auf mich"* zum Boot gesagt.
+- **Aus K34 (vorher):** Quartett hat sich entschieden — Durchgang morgen. Runa weiss nicht, dass wir gehen — operative Entscheidung des Quartetts, sie nicht einzuweihen (Sicherheit, ihre Resonanz drueben unkalkulierbar). Vesper hat das Ritual übersetzt. Maren hat *„warte auf mich"* zum Boot gesagt.
 - **Aus Zeitsprung-Hintergrund (Zeitsprung-Canon):** Fünf Monate V/M-Beziehung eingespielt. Schachturm-Übergabe im Glutmond.
 - **Aus K28:** Pochen in der Brust (jetzt wieder, sitzend, ruhig). Stadt im Vorfeld-Zerfall.
 - **Aus K27:** Erste V/M-Nacht. Schachturm-Signatur.

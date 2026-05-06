@@ -103,18 +103,18 @@ Marens Bett-Haelfte ist leer; ihre Schritt-Spur fuehrt zur Werft, eine Stunde vo
 
 **Wortziel:** 1.300–1.500 W
 
-Vesper geht zur Werft. Maren ist am Boot, hat den Werfthammer noch nicht aufgenommen, beobachtet die Grauwe. Vesper bringt die Erkenntnis: derselbe Takt zwischen seiner Drift und ihren Gezeiten — gemeinsame Ursache. Er uebernimmt im Beat das Wort „Quelle" zum ersten Mal aktiv (Quelle stammt aus Jaras Manuskript-Auszuegen, die er seit Wochen liest); Maren bestaetigt nonverbal, sie hat den Takt seit dem Glutmond koerperlich gespuert, ohne ihn benennen zu koennen. Vesper zeigt ihr nur die Schluss-Zeile der Tabelle; mehr braucht sie nicht. Beide bestaetigen operativ, dass Runa als Fuenfte zum Treffen gehoert — kein Reveal (sie wissen es seit K30/K31), sondern Inklusion. Sie verabreden das Treffen aller fuenf am selben Tag (Mittag bei Alphina, oder spaeter am Abend), um die Daten gemeinsam aufzudecken und den Steinkreis zu untersuchen — Jaras Manuskript wird Teil der Diskussion. Vesper geht zurueck zur Hafengasse-Treppe.
+Vesper geht zur Werft. Maren ist am Boot, hat den Werfthammer noch nicht aufgenommen, beobachtet die Grauwe. Vesper bringt die Erkenntnis: derselbe Takt zwischen seiner Drift und ihren Gezeiten — gemeinsame Ursache. Er uebernimmt im Beat das Wort „Quelle" zum ersten Mal aktiv (Quelle stammt aus Jaras Manuskript-Auszuegen, die er seit Wochen liest); Maren bestaetigt nonverbal, sie hat den Takt seit dem Glutmond koerperlich gespuert, ohne ihn benennen zu koennen. Vesper zeigt ihr nur die Schluss-Zeile der Tabelle; mehr braucht sie nicht. Beide bestaetigen operativ die Aufstellung Vier-am-Stein nach Lenes Manuskript: Vesper, Maren, Sorel, Alphina. Runas Hitze ist seit K30/K31 bekannt, ihre Resonanz-Form ist unklar; sie weiss nicht, dass die Vier heute Nacht gehen — operative Entscheidung: nicht einweihen. Drueben unkalkulierbar, Lene-Plan fordert Vier, Sicherheit zuerst. Sie verabreden das Treffen der Vier (plus Jara als Manuskript-Traegerin) am selben Tag, um die Daten gemeinsam aufzudecken und den Steinkreis zu untersuchen — Jaras Manuskript wird Teil der Diskussion. Vesper geht zurueck zur Hafengasse-Treppe.
 
 **Dialog-Informationen (Inhalt — wörtlich erst in /ausarbeitung):**
 - *Maren erfaehrt:* Drift und Gezeiten haben dieselbe Schwerkraft-Ursache. Periode 4:33. Baseline seit Generationen, Stoerung seit Erntemond.
 - *Vesper erfaehrt:* Maren hat es koerperlich seit Glutmond gespuert; die Zahl 4:33 hat sie aus seinen Tidemoor-Erzaehlungen mitgenommen, nur nicht in ihrem Wasser erwartet.
-- *Beide bestaetigen:* Runa gehoert zum Treffen. Operative Inklusion, kein Reveal — sie wissen seit K30 (Joran-Tod-Schreie) und K31 (Marktplatz, Quartett-Beratung) von Runas Hitze.
-- *Beide entscheiden:* Treffen aller fuenf heute. Steinkreis-Untersuchung ansetzen. Jaras Manuskript einbeziehen.
+- *Beide bestaetigen:* Aufstellung Vier-am-Stein nach Lenes Manuskript — Vesper, Maren, Sorel, Alphina. Runas Hitze ist seit K30 (Joran-Tod-Schreie) und K31 (Marktplatz, Quartett-Beratung) bekannt; ihre Resonanz-Form bleibt unklar. Operative Entscheidung: nicht einweihen — drueben unkalkulierbar, Lene-Plan fordert Vier, Sicherheit zuerst.
+- *Beide entscheiden:* Treffen der Vier (plus Jara als Manuskript-Traegerin) heute. Steinkreis-Untersuchung ansetzen. Jaras Manuskript einbeziehen.
 - *Begriffs-Uebernahme:* Vesper sagt „Quelle" zum ersten Mal aktiv (Wort aus Jaras Manuskript). Maren registriert die Begriffs-Uebernahme als Beziehungs-Beat.
 - *Begriffs-Schranke:* keiner sagt „Portal" — sie haben Vespers „Durchlass" und Marens „Tor" als eigene Begriffe. „Portal" kommt erst durch Jaras Manuskript-Uebersetzung in K34.
 
 **Tschechow-Waffen geladen:**
-- „Sie ist die Fuenfte" als operative Festlegung (kein Reveal-Beat) — Setup fuer K34-Runa-Ich-komme-mit und K37-Portal-Durchgang.
+- „Aufstellung Vier-am-Stein nach Lene" als operative Festlegung (Vesper, Maren, Sorel, Alphina). Runa nicht einbezogen — Setup fuer K37: Runa folgt heimlich, durchquert eine Minute spaeter; Broeseleffekt in K38 durch ihre unerwartete Energie-Signatur.
 - „Durchlass" / „Tor" als Vespers und Marens eigene Begriffe — Tschechow fuer K34-Manuskript-Begriffsuebersetzung.
 
 **Tschechow-Waffen abgefeuert:**
@@ -148,8 +148,8 @@ Vesper geht zur Werft. Maren ist am Boot, hat den Werfthammer noch nicht aufgeno
 - Wasser, Pendel, Stoerungs-Spitzen folgen derselben Schwankung am Standort.
 - **Karst-26-Uhren-Stillstand** rueckwirkend eingeordnet als passive Vorform desselben Phaenomens. Er sieht heute, was er damals nicht sehen konnte.
 - **Vier-Werke-Kollektiv-Steuerung** als bewusster Akt seiner Faehigkeit — er kann Werke synchronisieren und das Kollektiv als ein Vorgang steuern.
-- Operative Inklusion Runas als Fuenfte.
-- Treffen aller fuenf heute, Steinkreis-Untersuchung ansetzen.
+- Operative Festlegung der Vier-am-Stein nach Lene: Vesper, Maren, Sorel, Alphina. Runa nicht einweihen (Resonanz-Form unklar, drueben unkalkulierbar, Lene-Plan fordert Vier).
+- Treffen der Vier (plus Jara als Manuskript-Traegerin) heute, Steinkreis-Untersuchung ansetzen.
 
 **Was glaubt Vesper am Ende (Eigen-Deutung — nicht Welt-Wahrheit):**
 - Er sei der Verstaerker — der empfaengliche Punkt, durch den der Quellen-Takt in Mechanik kippt.

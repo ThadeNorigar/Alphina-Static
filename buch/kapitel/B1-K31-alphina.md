@@ -95,7 +95,7 @@ Alphina sah beides gleichzeitig: den schwarzen Hals dort, das verformte Blei vor
 
 *Nicht vier. Fünf.*
 
-Es kribbelte in ihren Fingerspitzen. Das Kribbeln kannte sie. Im Glutmond, an Runas Werkstatttisch, hatte ein Bogen Papier unter Runas Hand zu rauchen begonnen, und Runa hatte ihn weggefegt, den Blick weiter auf den Lettern, hatte weitergeredet über Schriftgrade und Bleilegierung. Damals hatte Alphina das Kribbeln weggelegt. Jetzt war es wieder da. Sie ließ es liegen.
+Es kribbelte in ihren Fingerspitzen. Sie kannte das Bild aus Runas Hinterzimmer — den dunklen Fingerabdruck, eingebrannt in die Maserung der Werkbank, den sie vor Wochen gesehen und nicht angesprochen hatte. Runa hatte ihn nicht erklärt. Alphina hatte nicht gefragt. Damals hatte sie es weggelegt. Jetzt war es wieder da. Sie ließ es liegen.
 
 »Runa. Deine Hände.«
 
@@ -127,7 +127,7 @@ Zwei Drittel die Gasse hinab öffnete sich ein Steinbogen — die Einfahrt zum H
 
 »Verstanden.« Runa hielt einen Moment inne, den Beutel fest am Brustkorb. »Du auch.«
 
-Alphina senkte die Stimme, so weit, dass nur Runa sie hörte. »Heute Abend. Bei dir.«
+Alphina senkte die Stimme, so weit, dass nur Runa sie hörte. »Pass auf dich auf.«
 
 Runa hob den Blick. Sah sie an, kurz, grau und ruhig. Sie nickte. Sie fragte nichts.
 

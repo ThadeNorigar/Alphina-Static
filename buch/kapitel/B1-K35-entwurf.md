@@ -233,7 +233,7 @@ Aftercare-Klinik (Wasser/Tuch/Massage/Schachturm-Übergangs-Geste/Vesper-bleibt-
 
 ### Was weiß Maren am Anfang?
 
-- Aus K34: Quartett hat sich entschieden — Durchgang am 2. Dunkelmond. Runa kommt mit. *„warte auf mich"* zum Boot.
+- Aus K34: Quartett hat sich entschieden — Durchgang am 2. Dunkelmond. Runa weiss nicht, dass wir gehen — operative Entscheidung des Quartetts, sie nicht einzuweihen (Sicherheit, ihre Resonanz drueben unkalkulierbar). *„warte auf mich"* zum Boot.
 - Aus den vier Monaten V/M-Zusammenleben (12. Glutmond → 1. Dunkelmond): eingespielte Routine, 30+ Sessions seit der ersten Maren-Initiation am 18. Glutmond.
 - Aus K28: Pochen unter dem Brustbein.
 - Aus K27: Erste V/M-Nacht im Anker — vor sechs Monaten (26. Blütenmond).

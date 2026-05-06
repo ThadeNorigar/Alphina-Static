@@ -19,7 +19,7 @@ Lene Dahls Bericht stand ihm im Kopf. Keldan hatte das Eisen gehoben und sich zw
 
 Wenn eines kam, stellte er sich zwischen Alphina und das Wesen. Geometrie des Bettes — er lag zur Türseite, sie zur Wand. Er würde das Mondlicht aus dem gekippten Fenster bündeln, vielleicht den Restschein aus dem Treppenhaus dazu, und es zu einem Punkt drücken, scharf gerandet, auf eine Stelle am Wesen, die wichtig sein könnte — zwischen die Augen, falls es welche hatte. Vorgestern Abend hatte er den Brennpunkt auf die Faser eines Talgkerzen-Dochts gerichtet, und die Faser hatte gefangen. Bei einem Wesen wusste er, dass das Licht meist nichts anrichtete — der Wächter im Garten hatte es geschluckt. Aber er würde es probieren. Das war alles, was er tun konnte.
 
-Wenn das Licht reichte, hatte sie Zeit. Wenn nicht, ein paar Atemzüge Vorsprung. Maren wohnte zwei Straßen weiter unten, drei Minuten zu Fuß. Vesper schlief im Anker, zwei Querstraßen vom Marktbrunnen. Wenn Alphina aus dem Bett kam, durch die Tür, die Treppe hinunter und in die Hafengasse hinaus, schaffte sie es zu einem von beiden.
+Wenn das Licht reichte, hatte sie Zeit. Wenn nicht, ein paar Atemzüge Vorsprung. Maren wohnte zwei Straßen weiter unten, drei Minuten zu Fuß. Vesper war seit dem Glutmond bei ihr. Wenn Alphina aus dem Bett kam, durch die Tür, die Treppe hinunter und in die Hafengasse hinaus, schaffte sie es zu den beiden.
 
 Draußen hatte der Wind gedreht. Er kam jetzt von Land statt von See — Sorel hatte den Wechsel vor einer halben Stunde gespürt, als das Tau der Plane zweimal anders klatschte.
 
