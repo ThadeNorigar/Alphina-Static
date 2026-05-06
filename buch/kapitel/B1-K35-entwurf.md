@@ -11,7 +11,7 @@
 - Primär: **Rampling (*Exit to Eden*)** — female gaze Sub-POV, psychologische Tiefe, Submission als aktives Wollen.
 - Ergänzend: **Reisz (*Original Sinners*)** — Dom mit Innenleben, aber als Wahrnehmung, nicht als Aphorismus.
 - **Yarros-Pattern:** Letzte-Nacht-Stakes körperlich-still (kein Melodram). Festhalten-nicht-loslassen als Schluss-Bild.
-- Heat-Level: explizit BDSM mit Penetration und Marens Orgasmus. Anatomie direkt: *Vulva, Klitoris, Schamlippen, Brustwarzen, Anus, Damm, Glied, Eichel*. Verboten: *Schaft, Muschi, Lenden, Weiblichkeit*.
+- Heat-Level: explizit BDSM mit Penetration und Marens Orgasmus. Anatomie-Mix Réage-poetisch + modern-direkt: *Schoß, Schamlippen, Lippen, Klitoris, Brustwarzen, Anus, Damm, Glied, Eichel, Lenden* — siehe Anatomie-Notiz für Vokabular-Setting. Verboten: *Schaft, Muschi, Weiblichkeit*.
 
 **Ton-Referenz-Leseproben (für /ausarbeitung):**
 - `buch/leseproben/05-bdsm-szene-vesper-maren.md` — direkte Ton-Vorlage. Pflicht-Lese.
@@ -39,23 +39,39 @@ Bereits in zeitleiste.json (ZEITSPRUNG 12. Glutmond) verankert:
 
 ---
 
-## Anatomie-Notiz (Réage-Vergleich für /ausarbeitung)
+## Anatomie-Notiz (Réage-Vergleich, recherchiert in `buch/referenzen/Leseprobe Reage.txt`)
 
-Réage (französisches Original / Sailer-Übersetzung) verwendet poetisch-direkt:
-- *son sexe* / *ihr Geschlecht* (statt anatomisch *Vulva*)
-- *les lèvres de son sexe* / *die Lippen ihres Geschlechts* (statt *Schamlippen*)
-- *son ventre* / *ihr Schoß / Bauch*
-- *son anus* / direkt *Anus* (übereinstimmend)
-- *les seins* / *die Brüste*; *Brustwarzen* selten direkt
-- *son membre* / *Glied* (statt *Eichel*)
-- *clitoris* — bei Réage selten benannt, oft Umschreibung
+Réage (deutsche Sailer-Übersetzung) benutzt **KEINE klinischen Wörter** — keine *Vulva*, keine *Klitoris*, kein *Anus*. Stattdessen poetisch-direkt:
 
-Mein K35-Entwurf ist **anatomischer als Réage** (medizinisches Register: Vulva, Klitoris, Schamlippen). /ausarbeitung-Entscheidung Autor:
-- **(a) Anatomie beibehalten** (Vulva/Klitoris/Schamlippen) — klinisch-direkt, Memory-konform, modern;
-- **(b) Réage-poetisch wechseln** (Geschlecht/Lippen-ihres-Geschlechts/Schoß) — poetisch-direkt, näher am Réage-Boden, leicht antiquierter;
-- **(c) Mix:** anatomisch in technischen Beats (Sicherheits-Klinik, Anus-Berührung, Olivenöl-Vorbereitung), poetisch in Begehrens-Beats (Lecken, Penetration, Orgasmus).
+| Bereich | Réage-Wortwahl | Anmerkung |
+|---|---|---|
+| Weibliches Geschlecht außen | *Schoß*, *Geschlecht*, *Lenden* | sehr häufig (~109× kombiniert mit *Schoß* und *Geschlecht*) |
+| Schamlippen außen | *Schamlippen* | direkt benannt (überraschenderweise) |
+| Innere Schamlippen | *Lippen* / *zarterer Lippen* | poetisch |
+| Klitoris | gar kein Wort — *„feiner Grat noch zarterer Lippen"* | Umschreibung |
+| Vulva-/Vaginal-Öffnung | *Spalte des Schoßes* | poetisch |
+| Anus / hinterer Bereich | gar kein Wort — *„Spalte ihrer Lenden"* / *„Lenden"* | indirekt-poetisch |
+| Brüste | *Brüste* | direkt |
+| Glied | *Glied* | direkt |
+| Eichel | *Spitze des Glieds* | poetisch |
+| Schenkel | *Schenkel* / *Innenseite ihrer Schenkel* | direkt |
 
-Verbots-Liste bleibt: *Schaft, Muschi, Lenden, Weiblichkeit*. Empfehlung: (c) Mix — Anatomie-Direktheit, wo Klinik trägt; poetische Direktheit, wo der Körper ins Wollen kippt.
+**Vokabular-Setting für /ausarbeitung K35** (Mix: Réage-poetische Verschiebung + moderne Klinik-Klarheit, wo Plot sie braucht):
+
+| K35 modern | Empfehlung K35 |
+|---|---|
+| Vulva | **Schoß** (Réage-poetisch, modern lesbar) |
+| Schamlippen | bleibt **Schamlippen** (Réage benutzt es) — innere Schamlippen poetisch *Lippen* |
+| Klitoris | bleibt **Klitoris** (modern; Réage-Umschreibung wäre antiquiert) |
+| Vulva-Öffnung | bleibt; einmalig im Höhepunkt-Beat *Spalte ihres Schoßes* als Réage-Echo erlaubt |
+| Anus | bleibt **Anus** (Klarheit; Réage-Umschreibung *Spalte der Lenden* wäre missverständlich) |
+| Damm | bleibt oder fällt |
+| Brustwarzen | bleibt |
+| Eichel | bleibt; einmalig *Spitze des Glieds* möglich |
+| Glied | bleibt |
+| Hinterregion / Genital generell | **Lenden** als Réage-Standard erlaubt (Verbot aufgehoben 2026-05-06) |
+
+**Verbots-Liste:** *Schaft, Muschi, Weiblichkeit*. *Lenden* ist Réage-Standard (~109× in Sailer-Übersetzung) und in V/M-BDSM-Zonen erlaubt — in Alphina/Sorel-Heat eher meiden (kitschig-Risiko).
 
 ---
 

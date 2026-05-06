@@ -157,7 +157,7 @@ Das wichtigste Werkzeug, das bisher FEHLT. Die Figuren sind zu analytisch — si
 ## 5. Erotik-Regeln
 
 - **Sensorisch, nie mechanisch:** Atem, Hautkontakt, Temperatur, Geschmack. **Anatomie direkt benannt** (Réage-Prinzip), Empfindung reichlich.
-- **Anatomie direkt, nicht euphemistisch und nicht mechanistisch:** Réages Modell. Keine *"Weiblichkeit"*, keine *"Lenden"* als Umschreibung, kein *"Schaft"*-Pornografie-Register. Direkt: *Brüste, Schenkel, Kehle, Schoß, Hüften, Nacken, Glied, Zunge*. Das konkrete Wort ist stärker als Umschreibung oder Klinik.
+- **Anatomie direkt, nicht euphemistisch und nicht mechanistisch:** Réages Modell. Keine *"Weiblichkeit"* als Umschreibung, kein *"Schaft"*/*"Muschi"*-Pornografie-Register. Direkt: *Brüste, Schenkel, Kehle, Schoß, Lenden, Hüften, Nacken, Glied, Zunge*. ***Lenden* ist Réage-Standard** (poetisch-direkt für unteren Genital-/Hinterbereich, ~109× in Sailer-Übersetzung) — in BDSM-Zonen (Vesper/Maren) erlaubt; in Maas/Yarros-Heat-Zonen (Alphina/Sorel) eher vermeiden, dort kitschig-Risiko. Das konkrete Wort ist stärker als Umschreibung oder Klinik.
 - **Geschmack als sechster Sinn:** Haut schmeckt. Schweiß schmeckt. Salz auf Lippen. Metall auf der Zunge wenn der Puls zu hoch ist. IN JEDER NÄHE-SZENE.
 - **Kleidungs-Material-Präzision:** Seide / Samt / Batist / Leinen / Fischbein / Spitze. Kleidung ist nicht Dekoration, sondern der Rahmen der Szene. Welche Schicht, welcher Verschluss, welche Farbe — das trägt Erniedrigung/Hingabe mit (Réage).
 - **BDSM-Utensilien mit Material + Dicke + Mechanismus + Funktion:** *"aus mehreren Lederschichten, jede Schicht sehr dünn... mit einem Schnappverschluß, der automatisch einklickte."* Keine generischen *"Fesseln"*, *"Peitsche"*, *"Seil"*. Immer: welches Material, wie dick, wie verschlossen, wofür gebaut.
@@ -510,10 +510,11 @@ Sex auf der Seite ist Default bei:
 ### Heat-Vokabular
 
 **Commercial, nicht pornografisch:**
-- Anatomie direkt benennen (Brüste, Schenkel, Kehle, Schoß, Hüften, Glied, Zunge)
-- Keine Euphemismen (*Weiblichkeit*, *Lenden*)
+- Anatomie direkt benennen (Brüste, Schenkel, Kehle, Schoß, Lenden, Hüften, Glied, Zunge)
+- Keine Euphemismen (*Weiblichkeit*)
 - Keine Pornografie-Platzhalter (*Schaft*, *Muschi*)
-- Réage-Klinik-Präzision ist stärker als beides
+- *Lenden* ist Réage-konform und in BDSM-Zonen (Vesper/Maren) erlaubt; in Heat-Zonen (Alphina/Sorel) eher meiden
+- Réage-Poetik-Präzision (*Schoß, Lenden, Spalte des Schoßes, Lippen ihres Geschlechts*) ist stärker als Klinik-Vokabular
 
 **Körper vor Kopf:**
 - Figur reagiert körperlich, bemerkt erst danach

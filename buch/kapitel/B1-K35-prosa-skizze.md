@@ -39,7 +39,7 @@ Beim Schreiben gilt der Plot-Entwurf-Stand. Bei Konflikt zwischen Skizze und Plo
 - Primär: **Rampling (*Exit to Eden*)** — female gaze Sub-POV, psychologische Tiefe, Submission als Wollen.
 - Ergänzend: **Reisz (*Original Sinners*)** — Dom mit Innenleben (Vesper-POV-Beats: Zeit-Kontrolle als Dienst, nicht als Machtgenuss).
 - Leseproben-Anker: **05 (BDSM-Szene Vesper-Maren)** als unmittelbare Ton-Vorlage. **04 (Alltags-Power-Exchange)** für Tonfall in Aftercare. **06 (Aftercare-Miniatur)** für die Schluss-Szene.
-- Heat-Level: **explizit BDSM mit Penetration und Orgasmus** — Positioning §3.3 vollausgeschöpft. Anatomie-Wörter direkt: *Vulva, Klitoris, Schamlippen, Brustwarzen, Anus, Glied, Eichel*. Verboten: *Schaft, Muschi, Lenden, Weiblichkeit* (Memory + Positioning).
+- Heat-Level: **explizit BDSM mit Penetration und Orgasmus** — Positioning §3.3 vollausgeschöpft. Anatomie-Wörter direkt: *Schoß, Schamlippen, Lippen, Klitoris, Brustwarzen, Anus, Glied, Eichel, Lenden* (Mix Réage-poetisch + modern-direkt). Verboten: *Schaft, Muschi, Weiblichkeit*. **Update 2026-05-06:** *Lenden* aus Verbots-Liste raus — Réage-Standard, in V/M-BDSM erlaubt.
 
 ---
 

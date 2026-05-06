@@ -98,7 +98,7 @@ B2 spielt im Krieg (Bund/Thar/Velmar, Quellen-Überladung als Waffe). B3 eskalie
 - Keine literary fiction mit Dark-Fantasy-Touch
 - Keine zurückhaltende Kammerprosa
 - Keine Pornografie (keine *"Schaft"*/*"Muschi"*-Register)
-- Kein Euphemismus-Roman (*"Weiblichkeit"*/*"Lenden"* verboten)
+- Kein Euphemismus-Roman (*"Weiblichkeit"* verboten — *"Lenden"* dagegen Réage-konform und in BDSM-Zonen erlaubt)
 - Kein Cozy Fantasy, kein Romance-Light
 - Kein *Fifty-Shades*-Kitsch für BDSM
 - Keine reaktive Heldin ohne eigenes Wollen

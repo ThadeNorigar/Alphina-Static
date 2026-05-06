@@ -657,7 +657,7 @@ In Szenen mit körperlicher Nähe oder BDSM ist **bildlastige Prosa erlaubt und 
 - **Metall und Haut:** Kupfer/Eisen (Handfesseln, Geschmack wenn Haut sich entzündet), Schloss mit Schnappverschluss und Schlüssel, Eisenring als Eigentums-Symbol.
 - **Stoffe am Körper:** Salz (auf Schweiß, in Blut), Öl (Lampenöl, Leinöl auf Holz), Wein (auf Zunge, im Atem), Schellack (Fingernagel, Lack auf Holz wo sie sich festhält), Parfum (auf Handfläche, zwischen Schenkeln).
 
-**Anatomie direkt benannt (Réage-Prinzip):** Brüste, Schenkel, Kehle, Schoß, Hüften, Nacken, Glied, Zunge, Lippen. Keine Euphemismen (*"Weiblichkeit"*, *"Lenden"* als Umschreibung), keine Pornografie-Platzhalter (*"Schaft"*, *"Muschi"*). Direkt. Klinisch-präzise = stärker als beide Umgehungen.
+**Anatomie direkt benannt (Réage-Prinzip):** Brüste, Schenkel, Kehle, Schoß, Lenden, Hüften, Nacken, Glied, Zunge, Lippen. Keine Euphemismen (*"Weiblichkeit"*), keine Pornografie-Platzhalter (*"Schaft"*, *"Muschi"*). *Lenden* ist Réage-Standard (~109× in deutscher Sailer-Übersetzung) und in BDSM-Zonen erlaubt; in Heat-Zonen Alphina/Sorel eher meiden. Direkt. Klinisch- oder Réage-poetisch-präzise = stärker als jede Umgehung.
 
 **Erlaubt in BDSM-Szenen (nicht in Alltagsszenen):**
 - Erhöhte Bild-Dichte (mehrere Bilder pro Absatz, solange jedes einen Ding-Anker hat)
