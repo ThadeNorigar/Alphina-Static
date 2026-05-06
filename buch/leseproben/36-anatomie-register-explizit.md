@@ -1247,6 +1247,111 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Réage-Vertrag der Erniedrigung: sie sagte, was er von ihr wollte hören. Es war nicht Lüge, es war Spiel mit der Wahrheit. Sie war für diese Nacht das Werkzeug. Bei jedem Wort wurde sie freier in ihrer Position. Sie kam unter Wörtern, die sie selbst gesagt hatte.*
 
+### Cluster C14 — Eigenständige Varianten zu bestehenden Sets
+
+#### 4.124 Reverse Cowgirl Anal — Anus reiten
+
+**(A)** *Er saß aufrecht auf der Bettkante, Beine angewinkelt, Glied gefettet. Sie kletterte rücklings auf ihn — Knie an seinen Hüften, ihr Hinterteil über seinem Glied. Sie senkte sich, langsam — die Spitze, dann mehr, dann ganz. Sein Glied in ihrem Anus, sie ritt ihn, ohne sein Gesicht zu sehen.*
+
+**(B)** *„Reite mich. Hinten." Sie nickte. Sie spürte ihn am Anus, dann tiefer. Sie bewegte sich auf und ab, langsam, ihre eigene Geschwindigkeit. Er sah ihre Wirbelsäule, ihre Schultern, das Auf-und-Ab. Sie sah die Wand vor sich.*
+
+**(C)** *Réage-Geometrie der Umkehr: Sub bewegt sich, Dom hält still. Sie war oben, er unten — aber er hatte die Penetration, sie das Tempo. Sie kam, weil sie das Tempo bestimmte. Er kam, weil sie kam.*
+
+#### 4.125 Vaginal Fisting Marathon (Long-form bis Hand komplett rein)
+
+**(A)** *Sie hatten sich Zeit genommen. Drei Stunden, vielleicht vier. Erst die Finger, einer nach dem anderen, mit langen Pausen — entspannen, atmen, nächster Finger. Drei Finger, vier, dann der Daumen dazu. Bei der breitesten Stelle ein Plateau — eine halbe Stunde lang einfach halten, ohne weiter zu drücken.*
+
+**(B)** *„Atme. Wir haben Zeit." Sie atmete. Beim Plateau wurde der Druck zur Anwesenheit. Sie spürte seine Hand am Eingang — vier Finger drinnen, der Daumen außerhalb. Eine halbe Stunde nichts. Dann atmete sie aus, der Daumen schob sich rein. Die Hand fasste sich.*
+
+**(C)** *Réage-Pattern der Geduld als Material: nicht das Ziel, der Weg. Stunde für Stunde. Bei jedem Plateau lernte ihr Körper, dass mehr möglich war. Erst beim siebzigsten Atemzug am Plateau ging es weiter. Beim Endpunkt — Hand komplett in ihr — schwitzten beide. Sie kam ohne Klitoris-Berührung, im Anwesendsein der Hand.*
+
+#### 4.126 Reward-Sequenz: Creampie + Glied sauber lecken für eigenen Cum
+
+**(A)** *Er kam in ihrem Schoß, tief. Er zog sich zurück. Sein Glied glänzte von ihr und von sich. Sie kniete sich vor ihn — sie nahm es in den Mund, leckte es sauber. Drei Bahnen mit der Zunge. Erst nach dem letzten Lecken durfte sie sich selbst zum Cum bringen.*
+
+**(B)** *„Erst sauber, dann darfst du." Sie nickte. Sie nahm sein Glied — Geschmack von ihr darin, Geschmack von ihm. Sie leckte es sauber, langsam, weil sie sich konzentrierte. Beim Schluss-Lecken nickte er. Sie nahm ihre eigene Hand, machte sich. Zwei Minuten, sie kam.*
+
+**(C)** *Réage-Reward-Logik: das Putzen verdient den eigenen Orgasmus. Sub-Pflicht zuerst, Sub-Lust zweitens. Sie war erst sauber, dann frei. Der Geschmack seines Eigenen blieb auf ihrer Zunge, während sie sich selbst zum Cum brachte.*
+
+#### 4.127 Hard Anal mit Klatschen + Cum drinnen
+
+**(A)** *Sie auf allen Vieren. Er hinter ihr, hart, schneller als sonst. Sein Glied in ihrem Anus, jeder Stoß ein Klatsch — Hüfte gegen Hinterteil, Bauch gegen Pobacken. Sie ließ sich gehen. Bei seinem Cum hielt er sich tief, der Samen drinnen. Er blieb, bis er weicher wurde.*
+
+**(B)** *„Härter." Er stieß härter. Klatsch. „Härter." Klatsch. Sie schrie leise, zwischen Stoß und Stoß. Beim Cum sagte er nichts — sie spürte die Hitze tief in ihrem Anus. Er blieb in ihr, atmete schwer, sein Bauch an ihrem Rücken.*
+
+**(C)** *Réage-Pattern der Übersteigerung: nicht zart, nicht klinisch — vollständig. Jeder Stoß ein Geräusch, jedes Geräusch ein Beweis. Sie war Werkzeug für seinen Cum, vollständig. Beim Drinnen-Bleiben hörte sie ihren eigenen Atem zum ersten Mal seit zehn Minuten.*
+
+#### 4.128 Hand+Mund → Cum im Mund + Schluck + Glied sauber lecken
+
+**(A)** *Sie kniete vor ihm. Sie nahm ihn in den Mund, eine Hand an der Wurzel, die andere am Damm. Sie arbeitete bis zu seinem Cum — er kam in ihrem Mund, drei Strahlen. Sie hielt den Mund geschlossen. „Schluck." Sie schluckte. „Mach sauber." Sie leckte sein Glied sauber, langsam, drei Bahnen.*
+
+**(B)** *„Hand und Mund. Du machst alles." Sie tat es. Mund, Hand, Wechsel — drei Minuten, sie kannte ihn. Bei seinem Cum nahm sie ihn tiefer, hielt ihn am Gaumen, schluckte direkt. Dann säuberte sie ihn — drei Bahnen, langsamer als nötig, weil sie es mochte.*
+
+**(C)** *Réage-Sequenz der Ganzheit: vom Anfang bis zum Ende mit Mund und Hand. Cum wandert vom Glied in den Mund in den Magen. Das Saubermachen schließt den Akt. Sie war Beginn, Mitte und Ende. Bei der letzten Bahn leckte sie auch den Damm — Material-Präzision bis zum Schluss.*
+
+---
+
+## Modern-Welt — außerhalb 1820-Plot-Canon (Stil-Übung, nicht für „Der Riss")
+
+Diese Sets nutzen Strom / moderne Technik / digitale Apps und sind **nicht** in der 1820er-Welt von „Der Riss" verwendbar. Réage-Era-Anpassungen am Ende jedes Sets — aber meist eingeschränkt.
+
+### MW.1 Fernsteuer-Vibrator unterwegs (Restaurant / Bar / Club)
+
+**(A)** *Sie trug den Vibrator eingeführt, im Restaurant. Er hatte die Fernsteuerung in der Hosentasche. Beim Vorgericht ein leichtes Pulsieren. Beim Hauptgericht stärker. Sie hielt den Atem zwischen den Bissen. Niemand am Tisch wusste.*
+
+**(B)** *„Bestell. Lächle." Sie tat es. Er drückte den Knopf — Vibration in ihr, sie biss sich auf die Innen-Lippe. Sie führte das Gespräch, sie nickte zur Speisekarte. Das Pulsieren wurde stärker, sie spürte es im ganzen Becken.*
+
+**(C)** *Modern-Welt-Spiel: Technik als verlängerte Hand. Sie waren in einer Welt voller Augen, der Akt war zwischen ihnen. Niemand sah, alle hörten ihren Atem nicht. Sie kam beim Dessert, lautlos.*
+
+**Era-Anpassung 1820:** Strom unmöglich. Federwerk-Stim-Apparat im Höschen mit Aufzieh-Mechanismus theoretisch denkbar — sehr ungewöhnlich, kaum plot-tragfähig. Alternative: extrem enge Vaginalkugeln (Set 4.36) bei Bewegung in Salongesellschaft.
+
+### MW.2 Filmen / Aufzeichnung Sex-Akt
+
+**(A)** *Die Kamera auf dem Stativ, fokussiert auf das Bett. Er drückte den Auslöser. Der Film lief. Sie und er bewegten sich, während die Kamera mitschnitt. Niemand sah zu außer der Linse.*
+
+**(B)** *„Schau in die Linse." Sie tat es. Sie war auf ihm, ritt ihn, sah in die Kamera, durch sie zu sich selbst, später. Sie wusste, sie würde sich beim Anschauen verstehen oder nicht.*
+
+**(C)** *Modern-Welt-Spiel: Bezeugung durch Maschine. Die Kamera war Voyeur, Werkzeug, Spiegel-mit-Verzögerung. Réage-Geste in Modern-Era: Sicht macht Erfahrung doppelt — einmal körperlich, einmal als Wieder-Sehen.*
+
+**Era-Anpassung 1820:** Daguerreotypie erst ab 1839, Bewegtbild Ende 19. Jhd. — keine direkten Era-Äquivalente. Alternative: Live-Zeichner / Skizzenmaler im Raum, der den Akt in Tinte festhält. Réage-Tradition: Akt als Bildvorlage.
+
+### MW.3 Joy-App / Anonyme Date-Bewertung
+
+**(A)** *Sie stellte das Profil ein — drei Bilder, Vorlieben in der Beschreibung, Brüste angedeutet. Die Einladung: schreib, was du mit mir machen würdest. Innerhalb einer Stunde fünfzehn Antworten. Sie und ihr Geliebter lasen alle, gemeinsam, sortierten. Die beste setzten sie um.*
+
+**(B)** *„Diesen Vorschlag nehmen wir." Drei Sätze von einem Fremden. Sie und ihr Mann führten den Vorschlag aus, einen Schritt nach dem anderen. Réage-Game über Distanz: jemand fremder hatte die Choreographie geschrieben, sie trugen sie in den Akt.*
+
+**(C)** *Modern-Welt-Spiel: das Date als Curated-Akt. Vorschläge von außen, Auswahl von innen. Réage-Variante mit fremder Hand am Drehbuch.*
+
+**Era-Anpassung 1820:** Keine Apps. Alternative: anonymer Brief-Austausch über Postkutsche; Zeitungsannoncen mit Codeworten; Soiree-Tagebuch im Privatzirkel. Réage-Tradition: das Roissy-Buch als Choreographie-Anweisung.
+
+### MW.4 Sybian / Stationäres Stimulations-Möbel
+
+**(A)** *Sie saß auf der Sybian, Oberkörper fixiert, Arme auf den Lehnen, Knebel im Mund. Das Möbel vibrierte unter ihr — eine Stunde lang, mit wechselnder Intensität. Er saß im Sessel daneben, beobachtete. Sie kam mehrmals, ohne kontrollieren zu können wann.*
+
+**(B)** *„Du bleibst sitzen, bis du dreimal gekommen bist." Sie konnte nicht aufstehen. Die Maschine arbeitete unter ihr — kontinuierlich, gleichmäßig. Beim ersten Cum schrie sie unter dem Knebel. Beim zweiten weniger. Beim dritten war sie nur noch Atem.*
+
+**(C)** *Modern-Welt-Spiel: Mechanik als Dauer-Dom. Die Maschine kannte keine Pause. Sie war passiv, vollständig. Réage-Variante mit Stahl und Spannung statt mit Hand und Wort.*
+
+**Era-Anpassung 1820:** Strom unmöglich. Federwerk-Variante mit Aufzieh-Mechanismus — kaum praktikabel für Stundenbetrieb. Alternative: Sattel mit fixiertem Phallus, manuelles Wippen durch Sub selbst; Sets 4.68 (Saugnapfdildo) und 4.124 (Reverse Cowgirl) decken das ab.
+
+---
+
+## Variante-Hinweise (kompakte Notizen, nicht-eigenständige Praktiken)
+
+Für diese Items aus der Liste reicht ein Hinweis auf bestehende Sets:
+
+| Item-Konzept | Bestehendes Set | Anwendungs-Notiz |
+|---|---|---|
+| Deepthroat-Üben bis Lippen-an-Wurzel + Zunge umspielen | **4.5** | Trainings-Aspekt; Sub trainiert das volle Eintreten, lernt Zunge-Choreographie um das Glied |
+| Hand+Öl Long-Form-Anus-Massage | **4.1, 4.3** | Outsider-Perspektive: nicht Penetration als Ziel, Bereichs-Massage als Akt — *„ich kümmere mich nur um deinen Hintereingang"* |
+| Halsband+Kette + grob doggy gefickt | **4.25 + 4.21** | Kombi der zwei Sets; Kette in Doms Hand während Doggystyle, leichter Zug bei jedem Stoß |
+| Fingern bis Cum (egal wie lange dauert) | **4.7** | Endurance-Variante; keine Zeitbegrenzung, Sub kommt nur durch Finger-Stimulation |
+| Throat-Hanging + Brustkneten (Kopf-über-Bettkante) | **4.5 + 4.14** | Kombi; Sub hängt rückwärts über Bettkante, Glied im Mund tief, Mann knetet gleichzeitig die Brüste |
+| Brust-Service bis Cum (mit Brüsten zum Cum bringen) | **4.14** | Bis-Cum-Variante; Mann kommt durch Brust-Reibung allein, kein Mund/Hand |
+| Tease-und-Sub-darf-selbst (Mann stoppt nicht, ignoriert Stop) | **4.118** | Color-System schon abgedeckt |
+| Brust-Bondage Schwerpunkt-Schwerpunkt | **4.100** | redundant; abgedeckt |
+
 ---
 
 ## 5. Réage-Stil-Marker (Querschnitt aller Beispiele)
