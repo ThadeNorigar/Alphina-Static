@@ -225,6 +225,8 @@ Drei Modi: **(A) Position-Sicht** (was sich zeigt), **(B) Befehl-Aktion** (knapp
 
 **(C)** *Das Olivenöl auf seinem Finger, kühl. Er fuhr nach hinten, vorbei am Damm, an die kleine Öffnung. Druck ohne Eile. Der Ring gab nach, einen Knöchel, dann zwei.*
 
+**(D)** *Sie lag auf der Seite, das obere Knie zur Brust gezogen, und atmete in den langen Takt hinein, den er ihr beigebracht hatte. Er wärmte das Olivenöl in der hohlen Hand, dann setzte er den Daumen an die Furche zwischen den Pobacken — eine Bahn von oben nach unten, eine zweite, langsamer. Erst beim dritten Mal blieb er an der kleinen Öffnung. Der Zeigefinger kam danach, eingefettet, und stellte sich an dieselbe Stelle. Er drückte nicht. Er wartete einen Atemzug, einen zweiten. Beim dritten gab der Ring nach — erst der Knöchel, dann das mittlere Glied. Er hielt dort, bis sie sich um ihn schloss, und ging dann den letzten Knöchel weiter, ohne dass sie es gemerkt hätte, bevor es geschehen war.*
+
 ### 4.2 Glied in Anus
 
 **(A)** *Er kniete hinter ihr. Sein Glied lag am Anus, hart, bedeckt von dem Öl, das er ihr aufgetragen hatte. Er presste, langsam — der Ring widersetzte sich, gab nach, schloss sich um ihn.*
@@ -232,6 +234,8 @@ Drei Modi: **(A) Position-Sicht** (was sich zeigt), **(B) Befehl-Aktion** (knapp
 **(B)** *„Atme aus." Im Atemzug verschaffte er sich Eingang in ihre Lenden — Glied am Anus, Hand auf ihrer Hüfte. Drei Stufen, jede gehalten, bis er ganz in ihr lag.*
 
 **(C)** *Das Öl glänzte zwischen ihnen, ein Faden vom Glas zur Spitze des Glieds, von der Spitze zur hinteren Öffnung. Er fand sie; sie gab nach; er glitt ein, langsamer als ein Atemzug. Drinnen hielt er.*
+
+**(D)** *Sie kniete vornübergebeugt, die Stirn an die gefalteten Unterarme gelegt, das Hinterteil hoch. Er teilte ihre Pobacken mit den Daumen, sah die kleine Öffnung, eingefettet, schon empfangsbereit von den Fingern, die er zuvor gelegt hatte. Sein Glied in der eigenen Hand, ölglänzend. Er setzte die Spitze an, drückte einen halben Zoll, hielt — der Ring widersetzte sich, ein scharfer Punkt. Sie atmete aus, lang. Auf den Atem hin gab der Ring nach, schloss sich um die Spitze, dann um die ersten Zoll. Drei Stufen weiter, jede gehalten. Bei voller Länge lag sein Bauch an ihrem Hinterteil, sein Atem in ihrem Nacken. Er bewegte sich nicht. Er war einfach da.*
 
 ### 4.3 Faust in Anus
 
@@ -241,6 +245,8 @@ Drei Modi: **(A) Position-Sicht** (was sich zeigt), **(B) Befehl-Aktion** (knapp
 
 **(C)** *Ihr Hinterteil, eingefettet bis zum Schenkelansatz. Seine Hand kegelförmig, Daumen in der Handfläche eingelegt. Stufe um Stufe — Knöchel, Mittelhand, breiteste Stelle der Hand, dann das Handgelenk in der Öffnung. Erst dann hielt er still.*
 
+**(D)** *Eine Stunde hatten sie schon gearbeitet — Finger nach Finger, jeder mit einer Pause, jeder mit Olivenöl. Vier lagen jetzt drin, der Daumen außerhalb. Er fettete die ganze Hand neu, bis zum Handgelenk. Dann schob er den Daumen in die Handfläche, faltete sie zum Kegel. Der Druck setzte langsam an. Sie atmete in den Bauch, lang. Bei der breitesten Stelle hielt er — der Ring zog sich zusammen, dann gab er nach. Ein Klafter zwischen ihnen war Stille. Die Mittelhand glitt hinein, dann das Handgelenk. Erst da schloss sich ihre Öffnung um seinen schmalsten Teil. Sie hörte sich atmen wie aus großer Entfernung.*
+
 ### 4.4 Glied in Vulva (Réage: *Schoß*)
 
 **(A)** *Er glitt in ihren Schoß, drei Zoll, hielt; weitere zwei Zoll, hielt. Sie war so feucht, dass keine Reibung blieb. Bei vier Zoll lag er ganz in ihr.*
@@ -248,6 +254,8 @@ Drei Modi: **(A) Position-Sicht** (was sich zeigt), **(B) Befehl-Aktion** (knapp
 **(B)** *„Bleib offen." Er teilte ihre Schamlippen mit den Daumen, hielt sie auseinander. Sein Glied fand den Eingang ihres Schoßes; er drang in sie ein, langsam, mit ganzer Länge.*
 
 **(C)** *Die Spitze des Glieds an der Spalte ihres Schoßes. Sie hörte sich selbst — ein einzelner Atemzug, der nicht herauskam. Er presste; ihr Schoß gab nach; er glitt in sie, einen Zoll, dann den nächsten, dann den ganzen Weg.*
+
+**(D)** *Sie lag auf dem Rücken, die Schenkel offen, die Knie leicht gehoben. Er hatte sie eine halbe Stunde lang vorbereitet — Lippen, Zunge, drei Finger — und sie war so feucht, dass keine Reibung mehr möglich war. Er kniete zwischen ihren Schenkeln, hob ihr Becken eine Spur an, setzte die Spitze des Glieds an die Spalte ihres Schoßes. Sie atmete aus, lang. Er glitt einen Zoll, hielt; weitere zwei, hielt. Bei drei Zoll fand sie zum ersten Mal seinen Atem an ihrer Schläfe. Bei vier Zoll lag er ganz in ihr. Er bewegte sich nicht sofort. Er ließ sie sich erst um ihn schließen. Sie spürte ihn pulsieren, einmal, zweimal, dann begann er.*
 
 ### 4.5 Glied in Kehle (Deepthroat)
 
@@ -259,6 +267,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Ihre Lippen schlossen sich um ihn. Er glitt vor, glitt zurück; jedes Mal eine Spur tiefer. Beim vierten Mal stieß er auf den Grund ihrer Kehle. Ihr Atem ging durch die Nase, kurz, gepresst. Er blieb.*
 
+**(D)** *Sie kniete vor ihm, das Hemd offen, die Hände auf den Schenkeln. Er hielt ihren Hinterkopf zwischen Handfläche und Fingern, kein Druck, nur Halt. Sein Glied an ihren Lippen — sie öffnete den Mund, ließ ihn ein. Erst die Spitze, sie kannte die Form auf der Zunge. Beim ersten Zoll setzte sie den Kiefer locker. Beim zweiten ging er weiter, beim dritten begann der Reflex. Sie schluckte gegen ihn, lernte den Winkel — Kopf etwas nach hinten, Kehle gestreckt. Beim vierten Stoß stieß er auf den Grund ihrer Kehle und drängte die Zunge zurück. Sie würgte, einen Atemzug lang. Er ließ ihr eine Sekunde, dann nahm er sie wieder.*
+
 ### 4.6 Finger in Vagina (1 Finger)
 
 **(A)** *Sein Mittelfinger lag an der Spalte ihres Schoßes, eingefettet, ohne zu drängen. Sie war offen. Er glitt ein, einen Knöchel tief, hielt.*
@@ -266,6 +276,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Atme normal." Er teilte ihre Schamlippen mit dem Daumen. Der Mittelfinger der rechten Hand fand den Eingang ihres Schoßes und blieb. Erst beim dritten Atemzug ging er weiter.*
 
 **(C)** *Die Feuchtigkeit zwischen ihren Schamlippen, sein Finger glatt darin. Er fuhr einmal die Spalte entlang, von vorn nach hinten. Beim zweiten Mal blieb er am Eingang. Beim dritten drang er ein.*
+
+**(D)** *Sie saß auf dem Bett, an Kissen gelehnt, die Schenkel offen. Er kniete daneben, eine Hand auf ihrem Bauch, die andere langsam in Bewegung — Mittelfinger zwischen den Schamlippen, Daumen außen an der Klitoris. Drei Bahnen die Spalte hinunter, drei zurück. Beim vierten Mal blieb er am Eingang ihres Schoßes, drückte einen Atemzug lang, ohne weiterzugehen. Er ließ sie warten. Sie spürte den Druck, sie wölbte sich entgegen — er gab nicht nach. Erst beim dritten Atemzug glitt er ein, einen Knöchel tief, hielt. Beim vierten Atemzug der zweite Knöchel. Beim fünften lag der ganze Finger in ihr. Er bewegte ihn nicht. Sie schloss sich um ihn von selbst.*
 
 ### 4.7 Mehrere Finger in Vagina (2-3 Finger)
 
@@ -275,6 +287,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Erst zwei Finger, dann der dritte dazu, wo schon zwei lagen. Ihr Schoß war heiß und weich. Sie war so feucht, dass kein Geräusch entstand. Beim Beugen seiner Finger wölbte sich ihr Becken in seine Hand.*
 
+**(D)** *Sie lag auf dem Rücken, die Schenkel weit, die Knie hoch. Er kniete neben dem Bett, die rechte Hand zwischen ihren Schenkeln, die linke offen auf ihrem Bauch. Zwei Finger waren schon in ihrem Schoß; er fügte den dritten hinzu, schob ihn dorthin, wo die anderen lagen. Sie war so feucht, dass kein Geräusch entstand. Er drehte das Handgelenk langsam — Daumen oben, kleiner Finger unten — bis er die Stelle hinter dem Schambein fand. Dort beugte er die Finger nach oben, ein leichter Druck. Ihr Becken hob sich in seine Hand, sie wölbte sich. Er hielt die Stellung, ließ die Finger arbeiten — drei Bewegungen pro Atemzug, ihr Atem schneller bei jedem.*
+
 ### 4.8 Hand in Vagina (Vaginal Fisting)
 
 **(A)** *Erst die Finger, einer nach dem anderen, dann der Daumen dazu, eingefaltet in die Handfläche. Sein Mittelfinger fand die Stelle hinter dem Schambein. Er drückte, langsam — ihr Schoß öffnete sich um seine Knöchel, dann um die breiteste Stelle der Hand.*
@@ -282,6 +296,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Atme. Tiefer." Auf jeden Atemzug glitt die Hand einen halben Zoll tiefer. Vier Finger lagen schon in ihrem Schoß. Bei der breitesten Stelle der Hand hielt er. Dann schloss sich ihr Eingang um sein Handgelenk.*
 
 **(C)** *Olivenöl bis zum Handgelenk. Seine Hand kegelförmig, Daumen in der Handfläche eingelegt. Stufe um Stufe — Knöchel, Mittelhand, breiteste Stelle, dann das Handgelenk in ihrem Schoß. Erst dann hielt er still.*
+
+**(D)** *Sie hatten zwei Stunden gearbeitet. Erst ein Finger, dann zwei, dann drei, dann vier — jeder mit Pause, jeder mit frischem Olivenöl. Bei vier Fingern war sie offen, weicher als sie sich kannte. Er fettete jetzt die ganze Hand, bis das Öl am Handgelenk tropfte. Dann faltete er den Daumen in die Handfläche, formte den Kegel. Die breiteste Stelle setzte er an ihre Vulva-Öffnung — Druck, ein Atemzug lang. Sie atmete in den Bauch hinein, lang, lang. Ihr Schoß gab nach, der Knöchel-Bogen glitt hinein. Dann die Mittelhand, dann die breiteste Stelle. Beim Handgelenk lag seine Hand in ihr, vollständig. Sie schloss sich um seinen schmalsten Teil. Beide hielten den Atem an. Er bewegte nichts.*
 
 ### 4.9 MMF Doppelpenetration (zwei Männer, eine Frau, vaginal + anal)
 
@@ -291,6 +307,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Zwei Glieder, eines vor, eines hinter ihr. Das erste schon in ihrem Schoß, das zweite mit der Spitze am Ring. Der Ring gab nach. Sie spürte beide gleichzeitig — Schoß voll, Anus voll, eine Wand zwischen ihnen, die sie zur Brücke machte.*
 
+**(D)** *Der erste Mann lag auf dem Rücken, sie auf ihm — seine Hände an ihren Hüften, sein Glied tief in ihrem Schoß, ohne sich zu bewegen. Der zweite kniete hinter ihr, die rechte Hand auf ihrer Lendenwirbelsäule, die linke fettete sein eigenes Glied mit Olivenöl. Er setzte die Spitze an ihren Anus, drückte einen halben Zoll, hielt. Sie atmete aus, lang. Der Ring gab nach; er glitt einen Zoll, hielt; einen weiteren, hielt. Bei voller Länge spürte sie beide gleichzeitig — der eine vorne im Schoß, der andere hinten im Anus, eine dünne Wand zwischen ihnen, die sie zur Brücke machte. Drei Atemzüge später bewegten sich beide gegen den Takt des anderen.*
+
 ### 4.10 MMF Spitroast (zwei Männer, eine Frau, Mund + Schoß)
 
 **(A)** *Sie auf allen Vieren. Der erste vor ihrem Mund, sein Glied an ihren Lippen. Der zweite hinter ihr, sein Glied in ihrem Schoß. Sie öffnete den Mund; sie öffnete den Schoß; beide drangen gleichzeitig ein.*
@@ -298,6 +316,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Mund auf." „Hüften zurück." Vorne der Mund, hinten der Schoß. Der erste fasste ihren Hinterkopf, der zweite ihre Hüften. Sie wurde zwischen ihnen genommen — ein Stoß vorne, ein Stoß hinten, im selben Takt.*
 
 **(C)** *Zwei Männer, ein Körper. Vorne ein Glied auf ihrer Zunge, dann am Gaumen, dann auf den Grund ihrer Kehle. Hinten ein Glied im Eingang ihres Schoßes, dann einen Zoll tiefer, dann ganz drin. Sie atmete durch die Nase, kurz, gepresst — der einzige Atem, den sie hatte.*
+
+**(D)** *Sie kniete auf allen Vieren in der Mitte des Bettes, der erste Mann vor ihrem Mund, der zweite hinter ihren Hüften. Sie öffnete den Mund, sie hob das Hinterteil — die zwei Befehle hatten sie schon in der Position eingenommen. Der erste setzte sein Glied an ihre Lippen, glitt ein, fand den Gaumen. Im selben Atemzug fand der zweite ihren Schoß, drang einen Zoll ein, dann ganz. Sie war zwischen ihnen — vorne ein Stoß, hinten ein Stoß, beide nahmen den Takt ihres Atems. Der vordere fasste ihren Hinterkopf, der hintere ihre Hüften. Bei jedem Stoß nach hinten wurde sie nach vorne gestoßen, bei jedem Stoß nach vorne gegen das hintere Glied. Sie war Brücke, Werkzeug, Empfängerin — drei Wörter, ein Körper.*
 
 ### 4.11 MMMF alle Löcher (drei Männer, eine Frau — Mund + Schoß + Anus)
 
@@ -307,6 +327,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Olivenöl auf der hinteren Öffnung, Speichel auf der vorderen, Feuchtigkeit am Schoß — alles vorbereitet, keine Reibung. Drei Glieder fanden gleichzeitig ihre drei Stellen. Sie war an allen Enden offen, an allen Enden gehalten.*
 
+**(D)** *Sie lag auf dem Rücken, halb auf dem ersten Mann, der unter ihr lag — sein Glied schon in ihrem Anus, seine Hände an ihren Hüften. Der zweite kniete zwischen ihren Schenkeln, sein Glied an der Spalte ihres Schoßes; er drang ein, langsam, bis er ganz in ihr lag. Der dritte stand am Bettkopf, sein Glied an ihren Lippen — sie öffnete den Mund. Drei Glieder fanden ihre drei Eingänge im Lauf eines einzigen Atemzugs. Sie war geöffnet an drei Stellen, gehalten von sechs Händen, gestoßen in drei verschiedenen Takten, die sich nicht trafen. Sie atmete durch die Nase, kurz, gepresst. Sie war Werkzeug für drei Männer, gleichzeitig, vollständig.*
+
 ### 4.12 FF Scissoring (zwei Frauen, Vulva-an-Vulva-Reibung)
 
 **(A)** *Sie lagen einander zugewandt, ihre Schenkel ineinander verschränkt — eines über, eines unter. Ihre Schöße trafen sich, Lippen an Lippen, feucht an feucht. Die erste hob das Becken; die zweite kam ihr entgegen.*
@@ -314,6 +336,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Komm näher." Sie schoben ihre Schenkel ineinander, bis ihre Schöße sich berührten. Reibung an Reibung, fast Klitoris an Klitoris. Beide bewegten sich gegen die andere, langsam, bis Rhythmus entstand.*
 
 **(C)** *Zwei Schöße, ineinandergeschoben. Ihre Schamlippen an ihren Schamlippen, ihre Klitoris an deren Klitoris — nicht treffend, fast treffend, ein Bogen Bewegung, der sich näherte. Die Feuchtigkeit der einen wurde die der anderen.*
+
+**(D)** *Sie lagen einander zugewandt auf der Seite, dann verschoben sie sich, bis ihre Hüften ineinander passten — die rechten Schenkel der einen über dem linken Schenkel der anderen, eines über, eines unter, ein offener Fächer aus vier Beinen. Ihre Schöße trafen sich, Lippen an Lippen, feucht an feucht. Die erste hob das Becken eine Spur; die zweite kam ihr entgegen. Reibung an Reibung, fast Klitoris an Klitoris — nicht ganz, fast. Beide bewegten sich gegen die andere, langsam, bis ein Rhythmus entstand, den keine von beiden gewählt hatte. Die Feuchtigkeit der einen wurde die der anderen, Schamlippen an Schamlippen verklebt. Beide kamen in einer einzigen langen Welle, die zwischen ihnen wanderte, ohne dass eine wusste, von welcher sie ausging.*
 
 ### 4.13 Weitere FF Techniken
 
@@ -335,6 +359,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(E)** *Eine lag auf dem Rücken, die andere quer darüber. Der Schoß der oberen über dem Schenkel der unteren. Sie rieb sich daran — Schamlippen an gespanntem Muskel, Klitoris an Haut, Feuchtigkeit eine nasse Spur auf dem Schenkel der anderen, die nicht wegwischte.*
 
+**(Long FF-Bogen)** *Sie begannen auf dem Bett, einander zugewandt, die Hände in die Haare der anderen. Erst lange Küsse, dann zog die eine den Mund hinunter — Hals, Schlüsselbein, eine Brustwarze, dann die zweite. Sie blieb am Bauch nicht stehen. Der Schoß der anderen, schon offen vor ihr; sie legte den Mund daran, fand mit der Zungenspitze die Klitoris, kreisend, dann mit der breiten Seite langsam die Spalte hinunter. Bei der dritten Bahn drang sie mit zwei Fingern ein, beugte sie nach oben — die Hüften der anderen hoben sich von der Decke. Beim Höhepunkt der ersten lockerte sie nicht, hielt den Mund, bis die andere sie schob. Dann verschoben sie sich — Schenkel ineinander, Schoß an Schoß, Reibung. Beide kamen ein zweites Mal, langsamer, eine Welle, die zwischen ihren Becken wanderte.*
+
 ### 4.14 MF Tittenfick (Mammary intercourse)
 
 **(A)** *Er kniete über ihrem Brustkorb, sein Glied zwischen ihren Brüsten. Sie hielt sie zusammen, drückte sie um ihn, und er bewegte sich vor und zurück — die Spitze des Glieds an ihrem Kinn bei jedem Stoß.*
@@ -342,6 +368,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Drück sie." Sie schloss ihre Hände um ihre Brüste, formte einen Kanal. Er schob sich hinein, von der Spitze des Glieds bis zur Wurzel. Beim Aufwärtsstoß kam die Spitze an ihre Lippen — sie öffnete den Mund, sie schlossen sich darum.*
 
 **(C)** *Sein Glied glitt zwischen ihren Brüsten, glatt von Speichel und ihrem Schweiß. Sie sah ihn von unten — Brustkorb, Bauch, sein Gesicht über ihr. Er stieß im selben Takt wie sein Atem ging.*
+
+**(D)** *Sie lag auf dem Rücken, der Kopf auf einem Kissen leicht gehoben. Er kniete über ihrem Brustkorb, die Knie an ihren Schultern. Sein Glied lag schon zwischen ihren Brüsten — sie hatte sie selbst zusammengeschoben, eine Hand auf jeder Seite, formte einen Kanal aus warmer Haut. Speichel zwischen ihnen als Gleitmittel, ein Faden auf dem Brustbein. Er begann, sich zu bewegen — vor und zurück, langsam zuerst, dann schneller. Bei jedem Aufwärtsstoß kam die Spitze des Glieds an ihr Kinn; bei einigen Stößen weiter, bis sie öffnete den Mund und die Spitze auf der Zunge fand. Sie sah ihn von unten — Brustkorb, Bauch, sein Gesicht über ihr. Er stieß im Takt seines Atems, schneller, schneller. Beim Kommen blieb er oben — der Samen traf ihren Hals, die Kehle, ihre Lippen.*
 
 ### 4.15 MMMMF Bukkake (vier Männer, eine Frau, Gesichts-Ejakulation)
 
@@ -351,6 +379,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Vier Männer um sie. Sie auf den Knien, Kopf leicht gehoben, Mund halb geöffnet. Erst eine weiße Spur quer über ihre Wange. Dann ein zweiter Schwall an ihre Lippen. Dann einer in ihrem Haar. Dann einer am Hals herunter, in das Tal zwischen ihren Brüsten. Sie blieb, wie sie kniete.*
 
+**(D)** *Sie kniete in der Mitte des Raums, auf einem Tuch. Vier Männer um sie verteilt — zwei vorne, einer links, einer rechts. Alle gekleidet bis auf das, was sie freilegen mussten. Jeder hielt das eigene Glied in der eigenen Hand, jeder hatte sich schon eine Weile selbst stimuliert. Sie kniete still, die Hände auf den Schenkeln, das Gesicht leicht gehoben, die Augen offen. Der erste kam — eine warme Spur quer über ihre Wange, von der Nase zum Ohr. Sie zuckte nicht. Der zweite traf ihre Stirn und das Haar. Der dritte traf ihre Lippen; sie öffnete den Mund einen Atemzug zu spät, ein Tropfen lief ihr ins Kinn. Der vierte traf ihren Hals, eine Spur lief in das Tal zwischen ihren Brüsten. Sie blieb, wie sie kniete, bis der letzte sich zurückzog. Dann erst schloss sie die Augen.*
+
 ### 4.16 Handjob (Hand am Glied)
 
 **(A)** *Sie kniete neben ihm, eine Hand um sein Glied. Sie fuhr einmal langsam von der Wurzel zur Spitze, einmal zurück. Beim dritten Mal drehte sie das Handgelenk leicht — er atmete aus.*
@@ -358,6 +388,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Schneller." Sie nahm ihn fester. Ihre Faust schloss sich um sein Glied, glitt vor und zurück, im Takt seines Atems. Der Vorgang dauerte, bis er still wurde.*
 
 **(C)** *Speichel auf ihrer Hand, Gleitmittel statt Reibung. Ihr Daumen unter der Spitze des Glieds, die anderen Finger um die Länge. Sie zog die Vorhaut zurück, eine sanfte Bewegung, dann wieder vor — in immer demselben Rhythmus, bis seine Hand auf ihrer lag und drückte.*
+
+**(D)** *Er lag halb aufgerichtet im Sessel, die Hosen geöffnet, die Beine leicht gespreizt. Sie kniete neben ihm, der Kopf in Höhe seiner Hüfte. Speichel auf der eigenen Hand, sie verteilte ihn um sein Glied — von der Wurzel bis zur Spitze, langsamer als nötig. Beide Hände jetzt, eine an der Wurzel, die andere an der Spitze. Sie drehte das Handgelenk leicht beim Aufwärts-Strich, eine Bewegung, die er gelehrt hatte. Drei Striche, dann eine Pause am Damm — sie drückte mit dem Daumen, leicht, zwei Atemzüge lang. Er stöhnte, das erste Mal an diesem Abend. Sie nahm den Rhythmus wieder auf, schneller jetzt, der Daumen unter der Spitze. Bei jedem dritten Hub legte sie kurz die Lippen an die Spitze, leckte einmal die Tropfen am Kanal weg. Er kam in ihre Hand, sie hielt durch die letzten Pulsationen, drei, vier, fünf — bis er still wurde.*
 
 ### 4.17 Ejakulation auf Zunge / im Mund
 
@@ -367,6 +399,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Sein Glied vor ihrem Mund, ihre Zunge offen darunter wie ein Tablett. Der erste Saft traf zuerst — eine Linie weißer Wärme über ihre Zunge. Sie hielt den Mund, wie er gesagt hatte. Der zweite Strahl, der dritte. Erst dann durfte sie schlucken.*
 
+**(D)** *Er stand vor ihr, sie kniete auf einem Kissen, das Gesicht leicht gehoben. Sein Glied in ihrer Hand, seit fünf Minuten — sie hatte ihn an die Schwelle gebracht, drei Mal, ohne dass er kam. Jetzt sagte er nur: „Mund auf." Sie öffnete, streckte die Zunge weit heraus, hielt sie wie ein Tablett unter der Spitze des Glieds. Drei Stöße seiner Hand, dann der erste Strahl — er traf zuerst die Zungenspitze, eine warme Linie, dick und salzig. Der zweite Strahl traf den Gaumen. Der dritte rann an ihrem Mundwinkel vorbei, fiel auf ihr Kinn. Sie hielt den Mund, wie er gesagt hatte, schluckte nicht. Er sah hinein, eine ganze Atemreihe lang, prüfte, dass sie ihn behielt. Erst beim Nicken seines Kopfes schluckte sie, langsam, einmal, dann wieder einmal.*
+
 ### 4.18 Spermaspiele (Cum-play als Material-Beat)
 
 **(A)** *Er kam auf ihre Brüste — der erste Strahl in das Tal zwischen ihnen, der zweite an ihre Brustwarze. Dann nahm er den Daumen und verteilte den Samen über ihre Brust, langsam, ein Kreis um den Hof, bis er auf der Haut trocknete.*
@@ -374,6 +408,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Halt es im Mund." Er kam auf ihre Lippen, dann öffnete sie. Sein Samen lag auf ihrer Zunge. Er wartete, sah zu, ließ sie ihn schmecken. Erst nach drei Atemzügen sagte er: „Schluck."*
 
 **(C)** *Er kam auf ihren Bauch — eine warme Spur von der Vertiefung des Nabels nach oben bis zwischen ihre Brüste. Sie spürte den Saft kühlen. Sein Finger fuhr durch die Spur, hob einen Tropfen, brachte ihn an ihre Lippen. Sie öffnete den Mund.*
+
+**(D)** *Er kam auf ihre Brust, in zwei Strahlen — der erste in das Tal zwischen den Brüsten, der zweite an die linke Brustwarze, eine Spur lief an ihrer Seite hinunter. Er trat einen Schritt zurück, sah sie an, sagte nichts. Sie wusste, was kommt — sie hob die rechte Hand, fuhr mit dem Daumen durch den Samen, malte einen Kreis um den linken Hof, dann um den rechten. Sie verteilte ihn mit beiden Händen, langsam, von den Brustwarzen über das Brustbein, in den Hals, zurück in die Tiefe zwischen den Brüsten. Er hielt sie fest mit dem Blick, ohne zu helfen. Beim Schluss-Strich brachte sie den Daumen an ihre Lippen, leckte den letzten Tropfen ab. Sie schluckte, einmal. Réage-Aneignung in zwei Bewegungen: er gab, sie nahm.*
 
 ### 4.19 Cunnilingus MF (Mann leckt Frau)
 
@@ -383,6 +419,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Sein Atem zuerst, kühl an der Innenseite ihrer Schenkel. Dann seine Lippen am Schoß, eine Sekunde nur. Dann die Zunge — eine Bahn von der Vulva-Öffnung über die inneren Lippen bis zur Klitoris, dort blieb sie, langsamer als sie wollte.*
 
+**(D)** *Sie lag auf dem Bett, an Kissen gelehnt, die Schenkel weit. Er kniete auf dem Boden vor dem Bett, die Hände an ihren Innenseiten, schob sie noch eine Spur weiter. Ein Atem zuerst, kühl an ihrem Schoß. Dann die Lippen, eine Sekunde — er küsste die Innenseite des linken Schenkels, dann des rechten, dann den Damm. Sie atmete schon schneller. Erst beim dritten Atemzug fand seine Zunge die Klitoris, leicht, von oben — ein Kreis, ein zweiter. Sie hob die Hüften; er drückte sie zurück mit der flachen Hand auf dem Bauch. Mit der freien Hand fuhr er zwei Finger in ihren Schoß, beugte sie nach oben. Mund an Klitoris, Finger an der inneren Stelle — beide im selben Takt. Sie kam in einer langen Welle, hielt seine Haare in beiden Händen, ohne zu wissen, wann sie hineingegriffen hatte.*
+
 ### 4.20 Edging / Schwellen-Stopp
 
 **(A)** *Sie war an der Schwelle. Eine Welle stieg, hoch, näher. Er nahm den Mund weg. Stille. Sie wartete, sie kam zurück, langsam.*
@@ -390,6 +428,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Du kommst nicht jetzt." Ein Befehl, kein Fragezeichen. Er stoppte mitten in der Bewegung. Ihre Hüften griffen ins Nichts. Sie zwang den Atem flacher.*
 
 **(C)** *Drei Mal an die Schwelle, drei Mal zurück. Sie spürte die Welle nicht mehr als Welle, sondern als Druck, der nicht abgebaut wurde. Beim dritten Mal lockerte er die Bremse — und nahm sie ganz.*
+
+**(D)** *Sie lag mit verbundenen Augen, Hände am Kopfteil, Knöchel an den Pfosten. Er hatte vierzig Minuten Zeit. Die ersten zehn waren Mund — Klitoris, Schamlippen, dann tief mit der Zunge, dann wieder die Klitoris. Sie spürte die Welle steigen, sie war an der Schwelle. Er nahm den Mund weg. Stille. Sie wartete. Drei Atemzüge, dann begann er wieder, von vorne, langsamer. Beim zweiten Mal an der Schwelle hörte er auf mitten in der Bewegung. Sie zog gegen die Knöchel, ihre Hüften griffen ins Nichts. Er blies einmal kühl an ihre feuchte Vulva. Sie wartete zwei Minuten, bis die Welle ganz zurück war. Beim dritten Anlauf nahm er Finger und Mund gleichzeitig — drei Finger, beugend, Mund an der Klitoris. Sie kam, lange und scharf, lauter als je zuvor, weil das Warten den Atem aufgestaut hatte.*
 
 ### 4.21 Doggystyle (Penetration von hinten in Vulva)
 
