@@ -641,6 +641,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Sein Glied tief in ihrem Mund, sein Samen heiß, dick. Sie hielt den Mund geschlossen, wie sie es kannte. Auf sein Nicken hin schluckte sie, zweimal. Sie öffnete den Mund weit, er sah hinein — leer.*
 
+**(D)** *Sie kniete vor ihm auf einem flachen Kissen, die Hände hinter dem Rücken verschränkt, wie er es wollte. Sein Glied seit zehn Minuten in ihrem Mund — sie kannte den Weg von der Spitze bis zur Wurzel, sie kannte den Augenblick vor seinem Kommen. Beim Pulsieren tiefer in ihrer Kehle wusste sie, was kommt. Drei Strahlen heiß, dick, am Gaumen — sie hielt den Mund geschlossen, schluckte nicht, hielt ihn am Glied. Erst als das letzte Pulsieren vorbei war, ließ er sie zurück. Sie hielt den Mund weiterhin zu, der Samen lag schwer auf ihrer Zunge. „Zunge unten. Halt es", sagte er. Sie öffnete den Mund halb — er sah hinein, sah, dass nichts verloren gegangen war. Drei Atemzüge lang ließ er sie warten. Dann das Nicken. Sie schluckte, einmal, zweimal — die Wärme zog ihre Kehle hinunter, eine Spur, die sie noch eine Weile spürte. „Bedank dich." — „Danke." Sie öffnete den Mund weit; er sah hinein, leer. Erst da nahm er ihren Hinterkopf in seine Hand und küsste ihre Stirn.*
+
 ### 4.42 Weibliche Masturbation (Solo)
 
 **(A)** *Sie auf dem Rücken, Schenkel offen. Drei Finger zwischen ihren Schamlippen, der Daumen an der Klitoris. Sie kannte ihren Takt. Sie machte sich nicht heimlich, sie machte sich gründlich.*
@@ -648,6 +650,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *Olivenöl auf der eigenen Hand. Sie fuhr eine Bahn von der Klitoris zur Vulva-Öffnung, zurück. Beim siebten Mal blieb sie an der Klitoris. Beim zehnten kam sie, allein, im Spiegel.*
 
 **(C)** *Eine Hand am Schoß, die andere an einer Brust. Sie schloss die Augen — kein Bild, nur ihr Körper unter ihren Händen. Wenn sie nahe war, drosselte sie selbst. Sie wollte es lange.*
+
+**(D)** *Sie hatte den Abend für sich allein, das Haus still, ein Glas Wein auf dem Nachttisch, eine Lampe gedämmt. Sie zog das Hemd aus, behielt den Strumpfgürtel an. Sie legte sich auf den Rücken, schob die Kissen hinter den Schultern zusammen, dass sie sich selbst sehen konnte. Olivenöl in die rechte Hand. Sie begann nicht am Schoß. Erst die Brüste — beide Hände, die Brustwarzen zwischen Daumen und Zeigefinger, ein leichter Druck, ein Drehen. Sie wartete, bis die Empfindung breit wurde, bis ihr Becken sich anhob, ohne dass sie es entschieden hatte. Dann erst wanderte die rechte Hand hinunter — Bauch, Schamhügel, die Schamlippen mit Fingern auseinander, der Daumen an der Klitoris. Sie kannte ihren Takt — drei Kreise außen, einer auf dem kleinen harten Punkt direkt. Sie drosselte selbst, wenn sie zu nah war — Hand weg, fünf Atemzüge. Dann wieder. Beim sechsten Mal an der Schwelle gab sie nach. Die Welle kam lang, weil sie sich vorbereitet hatte.*
 
 ### 4.43 Männliche Masturbation (Solo)
 
@@ -657,6 +661,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Speichel auf der Hand, Gleitmittel. Er kannte sich. Drei Minuten, vielleicht vier. Er kam in das Tuch, lautlos, ohne dass er sein Atemzug verriet. Er warf das Tuch in den Eimer.*
 
+**(D)** *Er saß am Schreibtisch in seiner Arbeitskammer, Tinte trocknete auf einem Brief, den er gerade geschrieben hatte. Spät am Abend, das Haus still. Er schob den Brief beiseite, lehnte sich zurück. Speichel auf die rechte Hand — er kannte sich. Sein Glied in der eigenen Faust, die linke Hand am Damm, leichter Druck. Drei Striche, langsam, von der Wurzel zur Spitze. Er dachte nicht an etwas Bestimmtes — eine Erinnerung, ein Bild, das nicht stehenblieb. Beim sechsten Strich beschleunigte er, beim zwölften war er nahe. Er hörte nicht auf, weil er es kurz halten wollte. Er kam in ein Tuch, das er bereitgelegt hatte — vier Stöße seines eigenen Pulses, sein Atem nicht hörbar, der Stuhl knarrte einmal. Er saß noch eine Minute, das Glied in der Hand, das Tuch im Schoß. Dann wischte er sich, zog sich an, warf das Tuch in den Eimer. Er nahm den Brief wieder auf. Er war ruhiger als zuvor. Réage-Logik der Männer-Solo: knapp, sauber, ein Werkzeug für sich selbst.*
+
 ### 4.44 Vor Publikum masturbieren
 
 **(A)** *Sie saß auf dem Sessel in der Mitte des Zimmers. Drei Männer um sie verteilt, alle gekleidet. „Mach dich." Sie öffnete die Beine; sie führte ihre Hand zum Schoß. Sie sah niemanden an. Sie tat es langsam, weil er das von ihr wollte.*
@@ -664,6 +670,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Lass sie sehen, wie du kommst." Vier Augenpaare, einer ihr Geliebter. Sie schluckte einmal. Sie machte sich. Sie kam unter dem Blick aller, leise, ohne Theater.*
 
 **(C)** *Sie kniete auf dem schwarzen Pelz-Puff, Schenkel auseinander, Hand am eigenen Schoß. Réage-Pattern: nicht für sich, für sie. Bei jedem Strich war sie sich der Aufmerksamkeit bewusst — und sie diente ihr, langsam, ohne Eile.*
+
+**(D)** *Sie kniete in der Mitte des Salons, auf dem schwarzen Pelz-Puff, der sie seit einer halben Stunde wartete. Ihr Geliebter saß im Sessel rechts. Drei weitere Männer waren im Raum verteilt — zwei auf dem Sofa, einer am Schreibtisch, alle gekleidet, alle still. „Mach weiter, langsam." Sie spreizte die Schenkel weiter, ihre Hand fand den eigenen Schoß. Sie sah keinen an. Sie tat es nicht für sich — sie tat es für die Augen, die sie spürten. Drei Finger zwischen den Schamlippen, der Daumen an der Klitoris, der Takt langsamer als sonst. Sie hörte den Atem im Zimmer, vier Atmungen, alle ein wenig anders. Beim Steigen ihrer eigenen Welle drosselte sie nicht — sie ließ es geschehen, ohne Theater, ohne Stöhnen, das sie nicht selbst gewählt hatte. Sie kam unter den Blicken, leise, einmal, mit einem langen Ausatmen. Ihr Geliebter nickte, einmal. Die anderen sagten nichts. Réage-Pattern: nicht für sich, für sie — Aufmerksamkeit als Akt.*
 
 ### 4.45 Spiegel-Spiele
 
@@ -673,6 +681,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Drei Spiegel — vorne, links, rechts. Sie war von sich umgeben. Der Mann zwischen ihren Schenkeln, sie selbst über sich. Réage-Logik: Sicht macht Erfahrung doppelt, einmal körperlich, einmal als Bezeugung.*
 
+**(D)** *Das Schlafzimmer hatte drei Spiegel — einen breiten an der Wand gegenüber dem Bett, einen schmalen rechts und einen schmalen links neben dem Kopfteil. Sie hatte sie selbst aufstellen lassen, vor Wochen schon. Sie saß auf ihm, rücklings auf seinen Hüften, sein Glied tief in ihrem Schoß, ihre Hände auf seinen Knien zur Stütze. Im breiten Spiegel sah sie ihren Rücken, ihre Haare, sein Gesicht über ihrer Schulter. In den schmalen Spiegeln links und rechts sah sie ihre Profile — ihre Brüste, die mit jeder Bewegung schwangen, sein Glied zwischen ihren Schenkeln, das Eintreten und Zurückziehen. Sie war von sich umgeben. Drei Versionen ihrer selbst, alle in Bewegung, alle eine Spur unterschiedlich. Beim Steigen ihrer Welle sah sie ihr eigenes Gesicht im breiten Spiegel — den Mund halb geöffnet, die Augen schwer. Sie kam, sah sich kommen, sah seine Hände an ihren Hüften halten. Réage-Logik der Bezeugung: Sicht machte den Akt doppelt — einmal körperlich, einmal als Beweis dafür, dass es geschah.*
+
 ### 4.46 Defloration / Erstes Mal mit Schmerz-Ankerung
 
 **(A)** *Er hatte sie eine Stunde lang vorbereitet — Mund, Finger, Geduld. Sie war offen. Trotzdem, beim ersten Eindringen, war Widerstand: das Hymen gab nach unter Druck, ein scharfer Schmerz, ein leises Reißen. Sie biss in ihre Lippe, nicht in seine Schulter.*
@@ -680,6 +690,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Sag es, wenn du willst, dass ich aufhöre." Er drang ein, halbe Länge — sie spürte das Reißen, dann die Hitze. „Nicht aufhören." Er ging weiter, langsamer, bis er ganz in ihr lag.*
 
 **(C)** *Olivenöl, Geduld, drei lange Atemzüge. Beim Eintritt: ein Punkt scharfen Schmerzes, dann nicht mehr. Er hielt still, eine Minute, bis ihr Schoß aufhörte zu zittern. Erst dann bewegte er sich.*
+
+**(D)** *Sie hatten gewählt, dass es heute sein würde. Sie hatten gewählt, dass er es war. Eine Stunde lang hatte er sie vorbereitet — Mund an ihrem Schoß, Finger leicht innen, sich an ihrem Atem geübt, jedes Aufkommen des Drucks vor ihm gespürt. Sie war so feucht, wie sie noch nie gewesen war. Er kniete zwischen ihren Schenkeln, sein Glied in der eigenen Hand, dick mit Olivenöl. Er sah sie an, sie nickte. Er setzte die Spitze an die Spalte ihres Schoßes und drückte langsam — der Widerstand war kürzer als sie befürchtet hatte. Das Hymen gab nach unter dem Druck, ein scharfer Punkt, ein leises Reißen. Sie biss in die eigene Lippe, nicht in seine Schulter. Er hielt still, eine ganze Minute lang, sein Glied halb in ihr, das Pulsieren in ihr verteilt. Sie atmete in den Bauch hinein, lang, lang. Beim dritten langen Atemzug bewegte sie selbst die Hüften eine Spur — sie sagte ihm damit, dass er weitergehen durfte. Er drang langsam tiefer, bei voller Länge hielt er noch einmal. Erst beim Pulsschlag ihres Schoßes um ihn fand er den Takt, und der Schmerz war nicht mehr Schmerz, sondern Anwesenheit.*
 
 ### 4.47 Erste Anal-Penetration
 
@@ -689,6 +701,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Sein Glied am Anus, dick mit Öl. Sie wusste es zum ersten Mal. Sie hatte es gewollt. Drei Atemzüge — bei jedem ein Zoll. Schmerz an der breitesten Stelle, dann Druck, dann Fülle. Beim ganzen Drinnen hielt sie inne, und er auch.*
 
+**(D)** *Sie hatten Wochen darüber gesprochen. Sie hatte Bücher gelesen, sie hatte sich selbst geübt — mit dem Zeigefinger, mit zwei Fingern. Sie wusste, wie es geht. Heute war heute. Sie kniete vornübergebeugt auf dem Bett, das Hinterteil hoch, der Kopf an die Unterarme gelegt. Er hatte zwanzig Minuten lang die Vorbereitung getan — Olivenöl, ein Finger, dann zwei. Sie war offen. Beim Setzen seiner Glied-Spitze an ihren Anus hielt er den Atem an; sie auch. Sie atmete aus, lang. Erst die Spitze gab nach, ein scharfer Punkt, dann eine weichere Welle. Drei Atemzüge — bei jedem ein Zoll. Schmerz an der breitesten Stelle, dann Druck, dann Fülle. Bei voller Länge hielt sie inne, und er auch. Sie wusste es zum ersten Mal — was es heißt, an dieser Stelle vollständig genommen zu werden. Beim ersten Atemzug danach lockerte sich ihr Körper um ihn. Beim zweiten begann er zu sich zu bewegen, sehr langsam. Sie kam einmal, lange später, mit seiner Hand an ihrer Klitoris vorne — der Doppeldruck war neu für sie, ein zweites Lernen.*
+
 ### 4.48 Erster Orgasmus
 
 **(A)** *Sie hatte gedacht, sie wüsste, was kommt. Sie hatte sich getäuscht. Die Welle stieg höher als erwartet, brach an einer Stelle, von der sie nicht gewusst hatte, dass sie da war. Sie schrie nicht — sie hielt den Atem an, lange.*
@@ -696,6 +710,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Gib nach. Du wirst es spüren." Sie gab nach. Etwas brach durch, eine Welle, die sie nicht selbst gerufen hatte. Ihre Vulva zog sich zusammen, einmal, zweimal, dreimal. Es war anders, als sie sich vorgestellt hatte.*
 
 **(C)** *Sie kam zum ersten Mal — laut, mit Tränen, mit einem Atem, den sie nicht kontrollieren konnte. Sie wusste nicht, was sie tat. Sie war ihm dankbar, dass er nicht aufhörte, sondern langsamer wurde, sie hielt.*
+
+**(D)** *Sie war noch jung damals, und alles war zum ersten Mal. Sie hatte ihren eigenen Körper nicht gut gekannt — sie hatte nicht gewusst, dass es das gibt. Er war geduldig. Eine Stunde lang war er bei ihr — Mund am Schoß, Finger zwei, Finger drei, langsam. Sie hatte gedacht, sie wüsste, was kommt; sie hatte das Gefühl von Vorfreude gekannt, die kleinen Schauer. Sie hatte sich getäuscht. Die Welle stieg höher als alles, was sie sich vorgestellt hatte, und brach an einer Stelle, von der sie nicht gewusst hatte, dass sie da war. Sie schrie nicht — sie hielt den Atem an, lange, dann brach er aus ihr heraus, mit Tränen, die sie nicht erwartet hatte. Ihre Vulva zog sich zusammen, einmal, zweimal, dreimal. Er hörte nicht auf, er wurde nur langsamer — er hielt sie, als sie sich nicht selbst halten konnte. Drei Minuten später lag sie auf dem Rücken, sah die Decke an, und wusste nicht, wer sie noch war. Er nahm ihre Hand, hielt sie. Erst nach einer langen Weile sagte sie: „Wieder."*
 
 ### 4.49 Atemkontrolle / Erstickungs-Spiele
 
@@ -705,6 +721,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Hand am Hals, Druck, Luft enger — nicht weg. Sie sah Sterne am Rand des Bildes. Beim Lockern: ein lauter Atem, Reflex, fast zu laut. Er drückte wieder, sanfter. Sie kannte den Rhythmus jetzt.*
 
+**(D)** *Sie lag auf dem Rücken, die Schenkel offen, sein Glied tief in ihrem Schoß. Er hielt sich auf den gestreckten Armen, sah sie an. Beim Steigen ihrer Welle legte er die linke Hand an ihren Hals — vier Finger an der rechten Seite, der Daumen an der linken. Druck zuerst nur als Anwesenheit. Bei seinem nächsten Stoß zog er die Hand enger, zwei Atemzüge lang. Sie sah Sterne am Rand des Bildes. Beim Lockern kam der Atem zurück als lauter Reflex, fast zu laut. Er drückte wieder, sanfter, kürzer. Beim dritten Mal kannte sie den Rhythmus, sie atmete in den Druck hinein, ließ den Reflex unterbleiben. Bei jedem Lockerschen kam die Welle in ihrem Schoß wieder, ein Doppelpuls — Atem und Becken zugleich. Sie kam beim vierten Lockern, eine längere Welle, weil das Atem-Spiel ihr Empfinden konzentriert hatte. Er hielt einen letzten langen Druck, ließ los, gerade als sie kam. Atem zurück und Welle gleichzeitig — sie sah einen Augenblick lang nichts, nur das Brennen der Lunge.*
+
 ### 4.50 Réage-Ankleidungs-/Auskleidungs-Ritual
 
 **(A)** *Sie standen still in der Mitte des Zimmers. Eine Zofe entkleidete sie — Mantel, Kleid, Mieder, Hemd, Strumpfgürtel, Strümpfe, Schuhe. Sie nackt. Eine zweite Zofe brachte Salböl, frisierte ihr das Haar, malte ihre Lippen rot.*
@@ -712,6 +730,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Stillhalten." Sie wurde gewaschen, gekämmt, parfümiert, geschminkt — alles ohne ein Wort von ihr. Am Ende reichte man ihr ein neues Kleid, schwarz, ohne Mieder, mit Öffnungen an den vorgesehenen Stellen.*
 
 **(C)** *Eine halbe Stunde war sie nackt im Sessel gesessen, während sie aufgetragen wurde wie ein Bild. Die Salbe war kühl, dann warm. Das Parfum saß zwischen den Brüsten und auf den Schenkeln. Erst dann legte man ihr das Kleid an.*
+
+**(D)** *Sie kam um halb sieben durch die Tür, wie verlangt. Die zwei Zofen erwarteten sie im Vorzimmer, beide jünger als sie, beide in einfachen schwarzen Kleidern. Sie sagte nichts. Die erste nahm ihren Mantel, die zweite half ihr aus den Schuhen. Sie standen sie still in der Mitte des Zimmers; die Zofen entkleideten sie Stück für Stück — Mantel, Kleid, Mieder, Hemd, Strumpfgürtel, Strümpfe — alles auf einen Stapel, der weggeschafft wurde. Sie blieb nackt. Eine setzte sie in den Sessel; die andere brachte eine Schale mit warmem Wasser, ein Tuch, ein Glas mit Salböl. Die Zofen wuschen sie — Hals, Schultern, Brüste, zwischen den Schenkeln — sachlich, ohne Eile. Dann das Salböl, an Innenseiten der Schenkel, an den Brüsten, im Nacken. Eine kämmte ihr das Haar, eine zweite malte ihr die Lippen rot, brachte Schminke an die Wangen. Eine halbe Stunde lang war sie Bild, das aufgetragen wurde. Erst dann reichte man ihr das neue Kleid — schwarz, ohne Mieder, mit Öffnungen an den vorgesehenen Stellen. Réage-Ritual: nicht sie zog sich an, sie wurde angezogen.*
 
 ### 4.51 Geführt-werden
 
@@ -721,6 +741,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Réage-Logik: nicht „sie ging" — sie wurde geführt. Hand an Hand, Hand an Schulter, Hand an Hüfte. Sie war Objekt der Bewegung. Bei jedem Übergang, bei jeder Tür, bei jedem Treppenstufen — sein Wille, ihre Folge.*
 
+**(D)** *Sie hatte das Tuch über den Augen seit zehn Minuten. Er hatte sie ans Halsband angeleint — kurze Kette, drei Glieder lang, das andere Ende in seiner Hand. „Geh." Sie ging, wo er ging. Drei Türen, vier Schwellen — sie zählte, weil sie sonst nichts wusste. Bei jeder Schwelle hob sie den Fuß einen Augenblick zu hoch, einen Augenblick zu tief — sie korrigierte, lernte das Maß der Schritte mit verbundenen Augen. Sein Tempo war ruhig. Bei der ersten Treppe spürte sie sein Innehalten, bevor er sprach: „Stufe nach unten." Sie senkte den Fuß, fand sie, ging weiter. Vier Stufen, dann ein Korridor — der Boden wechselte von Holz zu Stein, sie hörte ihn an dem Echo. In einem dritten Raum blieb er stehen. Sie wartete. Er sagte nicht, wo. Er nahm das Tuch nicht von ihren Augen. Er ließ sie nur stehen, und sie blieb, weil das Stehenbleiben jetzt seine Anweisung war. Réage-Logik: nicht „sie ging" — sie wurde geführt, und das Geführtwerden war der Akt.*
+
 ### 4.52 Schenkel-offen-halten als Dauer-Position
 
 **(A)** *„Setz dich. Schenkel auseinander. So weit wie eben." Sie saß auf dem Bett, Schenkel weit, Schoß offen. Sie hielt die Position eine Stunde, bis er zurückkam.*
@@ -728,6 +750,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *Réage-Pflicht: nie die Knie zusammen, nie die Schenkel kreuzen. Sie saß im Sessel, sie ging durch das Zimmer, sie las ein Buch — immer mit offenen Schenkeln. Es war ihre Position.*
 
 **(C)** *Eine Pflicht, kein Akt. Sie saß auf dem Boden vor seinem Sessel, Schenkel auseinander geöffnet, Hände hinter dem Rücken. Drei Stunden, vielleicht vier. Die Innenseiten der Schenkel zogen, die Knöchel taten weh. Sie sagte nichts.*
+
+**(D)** *Réage-Pflicht, die sie vor einem halben Jahr angenommen hatte: in seiner Gegenwart nie die Knie zusammen, nie die Schenkel kreuzen. Sie hatte sich daran gewöhnt — fast. Heute saß sie auf dem Boden vor seinem Sessel, der Schoß offen vor seinen Augen, die Hände hinter dem Rücken verschränkt. Er las. Drei Stunden lang las er. Die Innenseiten ihrer Schenkel zogen, die Knöchel taten weh, ihre Schulterblätter brannten an dem Punkt, an dem die verschränkten Hände sie nach hinten zogen. Sie sagte nichts. Sie atmete in den Schmerz hinein, lernte ihn als Anwesenheit. Bei der zweiten Stunde wurde der Schmerz weicher, eine Art Bett, in dem sie ruhte. Sie sah ihn an, wenn er die Seite umblätterte. Er sah nicht zurück. Beim Abendglockenschlag hob er den Kopf, schloss das Buch. Er stand auf, kam zu ihr, beugte sich hinunter. Er nahm ihre Hände aus dem Rücken, zog sie nach vorn, küsste die Innenseiten beider Handgelenke. Erst dann durfte sie aufstehen.*
 
 ### 4.53 Trinken aus Hand
 
@@ -737,6 +761,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Réage-Symbol: aus seiner Hand zu trinken war Aneignung von ihm, ohne Augenkontakt. Sie kniete; er stand; sein Wasser, sein Wein. Sie war Empfängerin, nichts anderes.*
 
+**(D)** *Sie kniete in der Mitte des Salons, Schenkel auseinander, die Hände auf den Oberschenkeln offen. Er stand vor ihr, ein irdener Krug in der einen Hand, ein leeres Glas in der anderen. Er stellte das Glas auf den Tisch, formte mit der freien Hand die hohle Schale aus den Fingern. Er goss Wasser hinein — bis die Hand sich füllte. „Trink." Sie beugte sich vor, ohne aufzustehen, ohne die Knie zu schließen, fand seine Hand mit den Lippen. Sie trank — drei Schlucke, kleine, weil mehr nicht in seiner Hand war. Beim letzten Schluck blieb noch Feuchtigkeit in der Vertiefung. Sie leckte sie mit der Zungenspitze auf, langsam, fuhr dabei zwischen seine Finger. Er hielt die Hand still. Beim zweiten Mal goss er Wein, dunkler, schwerer. Sie öffnete den Mund über seiner Hand; er kippte ihn in ihren Mund — sie verschüttete nichts. Réage-Symbol der Aneignung ohne Augenkontakt: er gab, sie nahm aus ihm — Empfängerin, nichts anderes, durch ihn hindurch.*
+
 ### 4.54 Servieren-als-Sub
 
 **(A)** *Sie servierte nackt das Abendessen. Zwei Männer am Tisch, sie zwischen ihnen, mit der Schüssel in den Händen, den Kopf gesenkt. Sie sprachen über sie, als wäre sie nicht da. Sie servierte, sie räumte ab, sie ging nicht.*
@@ -744,6 +770,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Bring den Wein. Schenk ein. Trink nicht." Sie tat es. Bei jedem der drei Männer schenkte sie ein, hielt das Glas mit zwei Händen. Beim dritten Mann fiel ein Tropfen — er sah sie an. Sie wartete auf seine Antwort.*
 
 **(C)** *Réage-Roissy-Pattern: nackt, mit offener Schenkel-Haltung beim Stehen, mit Schurz aus Spitze, der nichts bedeckte. Sie servierte. Sie sprach nicht. Bei jedem Auftritt war ihre Position spürbar — sie war Werkzeug der Aufmerksamkeit, nicht ihr Empfänger.*
+
+**(D)** *Sie hatte sich in der Vorhalle umgezogen, wie verlangt. Schurz aus schwarzer Spitze, der nichts bedeckte — nur die Hüften umkreiste, vorne offen, hinten ein Bogen. Sonst nichts. Drei Männer am langen Tisch im Speisezimmer, alle gekleidet, alle mittleren Alters. Sie betrat den Raum mit einer Schüssel Suppe. Sie ging um den Tisch, in einer Linie, die sie geübt hatte — bei jedem Schritt blieben die Schenkel offen, die Hüften eine Spur breiter als nötig. Sie servierte den ersten — sie beugte sich nach vorn, der Schurz öffnete vorne weiter, er sah, was er sehen sollte. Den zweiten ebenso. Den dritten ebenso. Sie sprach nicht; sie hörte, was sie über sie sagten, ohne zu reagieren. Beim Abräumen des ersten Gangs nahm der Hauptmann die Schüssel aus ihrer Hand, hielt sie kurz fest, sah ihr in die Augen — die einzige Sekunde Augenkontakt. Sie war Werkzeug der Aufmerksamkeit, nicht ihr Empfänger. Réage-Roissy-Pattern: jede Bewegung war Position, kein Auftritt war privat.*
 
 ### 4.55 FFM Snowballing (Mann kommt, beide Frauen tauschen Mund-zu-Mund)
 
@@ -753,6 +781,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Sein Samen auf ihrer Zunge, seine Hand an ihrem Hinterkopf. Sie kniete vor der anderen, die andere kniete vor ihr. Mund an Mund, der Samen kam und ging, kühlte zwischen ihnen, dann nahm eine ihn und ließ ihn auf der Zunge der anderen ruhen.*
 
+**(D)** *Sie und die andere Frau knieten nebeneinander, beide mit dem Gesicht zum Mann. Er hatte zwanzig Minuten lang von beiden den Mund genommen — Maren zuerst, dann die andere, dann wieder Maren. Beim Spüren seines nahen Kommens nahm sie ihn ganz, tief am Gaumen. Drei Strahlen, sie hielt den Mund geschlossen, schluckte nicht. Er trat einen Schritt zurück. Maren drehte sich zur anderen Frau. Die andere kniete sich gegenüber, hob das Gesicht, öffnete den Mund. Maren beugte sich vor — Mund an Mund, Lippen offen, Zungen begegneten sich in der Mitte. Der Samen wechselte langsam — Maren spürte den Augenblick, an dem er ihre Zungenspitze verließ und auf der der anderen ankam. Beide hielten den Kuss, der Samen in der einen, dann in der anderen. Drei Wechsel zwischen ihnen, jeder kühler als der vorige. Beim dritten Wechsel verteilten sie ihn — eine schluckte, die andere ließ einen Tropfen zurück. Sie küssten sich noch eine Weile lang, weicher jetzt, ohne Aufgabe. Réage-Geste der Aneignung in zwei Münder hindurch.*
+
 ### 4.56 FFM Doppel-Stimulation (Mann in Schoß, Frau Cunnilingus)
 
 **(A)** *Sein Glied in ihrem Schoß, langsam stoßend. Die andere Frau auf dem Bauch zwischen ihren Schenkeln, Mund an der Klitoris — sie leckte um sein Glied herum, jede Bewegung im selben Takt wie er.*
@@ -760,6 +790,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Bleib in ihr." Er hielt still in ihrem Schoß. Die andere kniete und leckte — Klitoris, Schamlippen, kurz die Wurzel seines Glieds. Maren spürte beides gleichzeitig, eine Welle zwischen den beiden Quellen.*
 
 **(C)** *Drei Körper auf dem Bett. Er fickte sie langsam, halb ganz, halb halb — die andere lag dazwischen, Zungenspitze an der Klitoris, dann an seinem Glied, dann zurück. Sie kam zwischen den beiden, ohne dass einer aufhörte.*
+
+**(D)** *Maren lag auf dem Rücken auf dem breiten Bett, die Schenkel offen, die Knie gehoben. Die andere Frau lag bäuchlings zwischen Marens Schenkeln, der Mund am Schoß, die Hände an Marens Hüften. Der Mann kniete dahinter — sein Glied führte er zwischen die Schamlippen, drang ein, langsam, bis er ganz in ihr lag. Die Zunge der anderen Frau fand die Klitoris, kreisend, dann die Wurzel seines Glieds, dann die innere Lippe, dann zurück zur Klitoris. Beim Stoßen rutschte sein Glied unter ihrer Zunge hindurch, sie folgte mit dem Mund. Maren spürte beides gleichzeitig — Penetration tief, Zunge an der Klitoris außen, beide im selben Takt. Er bewegte sich langsam, halb ganz, halb halb. Die andere ließ nicht los, auch wenn sie ihren Atem auf ihm spürte. Die Welle stieg in zwei Strömen — eine im Schoß, eine an der Klitoris — und brach zwischen ihnen, ohne dass eine wusste, woher sie kam. Sie kam unter beiden, lange.*
 
 ### 4.57 FFM Spitroast (Mann zwischen — Frau am Mund, andere am Schoß)
 
@@ -769,6 +801,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Sie war zwischen ihnen, eine Stelle, an der zwei Bewegungen durchliefen. Hinten ein Glied, vorne ein Schoß. Réage-Logik: sie diente beiden, gleichzeitig, ohne Wahl.*
 
+**(D)** *Maren kniete auf allen Vieren, der Kopf gehoben, der Rücken im Bogen. Vor ihr saß die andere Frau am Bettkopf, die Schenkel offen — Maren hatte den Mund schon dort, die Zunge zwischen den inneren Schamlippen, der Atem an der Klitoris der anderen. Der Mann kniete hinter Maren, sein Glied in ihrem Schoß, die Hände an ihren Hüften. Drei Körper, eine Linie. Er stieß; sie wurde nach vorn gestoßen; ihr Mund tiefer in den Schoß der anderen. Bei jedem Stoß ein Atemzug der anderen, scharf an der Klitoris, eine Welle, die durch alle drei lief. Die andere stöhnte über Marens Kopf; Maren spürte die Wirkung ihres eigenen Mundes durch das Stoßen verschärft. Er bewegte sich nicht synchron — er hatte einen eigenen Takt, der die Bewegungen vorne durchquerte. Maren war zwischen ihnen, eine Stelle, an der zwei Bewegungen durchliefen. Sie diente beiden, gleichzeitig, ohne Wahl. Sie kam zwischen den beiden, ohne dass eine die andere bemerkt hatte.*
+
 ### 4.58 FFM Cunnilingus-Kette
 
 **(A)** *Maren leckte die andere Frau, die andere kam unter ihrer Zunge. Hinter Maren kniete der Mann — sein Mund an ihrem Schoß, sie leckte ihn weiter. Drei in einer Kette, drei Münder, drei Schöße.*
@@ -776,6 +810,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Bleib bei ihr. Ich bleibe bei dir." Maren leckte die andere; er leckte Maren. Bei jedem Stöhnen der ersten zog sich Marens eigener Atem zusammen, was er an ihrem Schoß spürte und mit dem eigenen Atem beantwortete.*
 
 **(C)** *Drei Körper, drei Münder, drei Schenkel. Eine Welle wanderte durch alle drei — wenn die erste kam, kam die zweite einen Atemzug später, dann die dritte. Réage-Mathematik: nichts war einzeln, alles war durchgehend.*
+
+**(D)** *Sie hatten die Geometrie vorher abgesprochen — eine Kette aus drei Körpern, jeder Mund am Schoß des nächsten. Die andere Frau lag auf dem Rücken, Maren lag bäuchlings zwischen ihren Schenkeln, der Mund an deren Schoß. Hinter Maren kniete der Mann, der Mund an Marens Schoß, die Hände an ihren Hüften. Eine Kette aus drei Münder, drei Schenkel, drei Schöße. Maren leckte die Klitoris der anderen, langsam, mit der breiten Seite der Zunge, dann mit der Spitze tiefer. Die andere stöhnte; Maren spürte den Atem von ihr durch ihre Hand, die auf deren Bauch lag. Hinter Maren leckte er ihren Schoß — kreisend, Zungenspitze an Klitoris, dann zwei Finger eingeführt, beugend. Bei jedem Stöhnen der ersten zog sich Marens eigener Atem zusammen, was er an Marens Schoß spürte und mit dem eigenen Atem beantwortete. Eine Welle wanderte durch alle drei. Die erste kam zuerst, langsam und tief; einen Atemzug später kam Maren, kürzer, schärfer; einen weiteren später kam er, gegen ihren Rücken, eine Welle, die ihm aus der Tiefe stieg. Réage-Mathematik: nichts war einzeln, alles war durchgehend.*
 
 ### 4.59 FFM Mann beobachtet zwei Frauen, dann beteiligt sich
 
@@ -785,6 +821,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Réage-Logik: erst Bezeugung, dann Eingriff. Er sah ihnen zu, weil das Sehen Teil der Aneignung war. Erst als er den Moment fand, betrat er das Bild. Drei Körper, ein Geist, der sie geordnet hatte.*
 
+**(D)** *Er saß im Sessel am Fenster, gekleidet — die Beine übereinander geschlagen, ein Glas Cognac in der Hand, das er nicht trank. Auf dem Bett, vier Schritt entfernt, lagen Maren und die andere Frau, beide nackt, beide ineinander verschränkt — Cunnilingus, dann Tribadie, dann wieder Mund. Eine halbe Stunde lang sah er zu, ohne ein Wort. Beim zweiten Orgasmus der einen rückte er das Glas zur Seite. Beim dritten Orgasmus der anderen stand er auf. Er sagte: „Ich komme jetzt dazu." Er trat ans Bett, ohne Eile, das Hemd schon offen, die Hose lockerte er beim Hinsetzen. Er stieg zwischen die beiden, sodass die eine an seinem Mund kniete, die andere zwischen seinen Schenkeln Platz fand. Er nahm beide gleichzeitig — die Zunge an der Klitoris der einen, sein Glied im Schoß der anderen. Die Frauen hörten nicht auf, einander zu berühren — Maren hielt den Hof der Brust der anderen, die andere fasste Marens Hüfte. Drei Körper, ein Geist, der sie geordnet hatte. Er hatte zugesehen, weil das Sehen Teil der Aneignung war. Erst als er den Moment fand, betrat er das Bild.*
+
 ### 4.60 FFM Strapon-Kombination
 
 **(A)** *Eine Frau trug das Strapon, die andere lag auf dem Rücken. Der Mann kniete am Kopfende der Liegenden, sein Glied an ihrem Mund. Die zweite Frau drang von hinten in den Schoß der Liegenden ein — der Mann vorne, die Frau hinten, die Liegende in der Mitte.*
@@ -792,6 +830,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Du nimmst sie hinten." Die Frau mit dem Strapon nickte. „Ich nehme sie vorne." Der Mann stieg auf das Bett, sein Glied in den Mund der Liegenden. Beide bewegten sich gegen den anderen, im Takt.*
 
 **(C)** *Drei Körper, zwei Glieder, eines in Echt, eines aus Holz. Die Liegende war ihr Treffpunkt — Mund am Mann, Schoß an der Frau. Réage-Pattern: was real und was Werkzeug war, machte keinen Unterschied. Beide drangen ein, beide gaben.*
+
+**(D)** *Auf dem Tisch lag der Lederriemen, gut gearbeitet, mit einem geformten Phallus aus Horn an der vorgesehenen Stelle. Maren schnallte ihn um die Hüfte, fest, und sah sich kurz im Spiegel — die Geometrie war ungewohnt, eine Verlängerung von ihr, die sie nie selbst getragen hatte. Die andere Frau lag auf dem Rücken in der Mitte des Bettes, die Beine offen, der Schoß schon feucht von Marens Mund. Der Mann stand am Kopfende, gekleidet bis zum Hemd, das Glied in der Hand. Er trat ans Bett, sein Glied an die Lippen der Liegenden — sie öffnete den Mund, nahm ihn auf. Maren kniete am Fußende, fettete den Phallus mit Olivenöl, setzte die Spitze an die Vulva-Öffnung der anderen. Sie drang ein, langsam, wie ein Mann es tun würde — und doch nicht. Sie sah das Gesicht der Liegenden, sah ihren eigenen Stoß in der Reaktion. Vor und hinter ihr arbeiteten zwei Glieder, eines aus Echt, eines aus Holz. Drei Körper, ein Treffpunkt — Mund am Mann, Schoß an der Frau. Beide drangen ein, beide gaben. Réage-Pattern: was real und was Werkzeug war, machte keinen Unterschied im Akt selbst.*
 
 ### 4.61 FFM Deepthroat mit Teabagging
 
@@ -801,6 +841,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Sein Glied am Grund von Marens Kehle, sein Sack in Reichweite der anderen. Drei Stöße — bei jedem trafen die Hoden Wange, Stirn, Lippe der zweiten Frau. Réage-Geometrie: ein Mann, zwei Münder, drei Berührungen pro Atemzug.*
 
+**(D)** *Er stand neben dem Bett, die Hose offen am Boden, das Glied hart in seiner eigenen Hand. Maren kniete vor ihm, das Gesicht in Höhe seiner Hüfte; die andere Frau kniete neben Maren, ein Stück tiefer, sodass ihr Mund auf Höhe seiner Hoden war. Maren öffnete den Mund, nahm sein Glied auf — sie ging tief beim ersten Mal, dann tiefer, dann auf den Grund der Kehle. Bei jedem Stoß seines Beckens senkte sich auch sein Sack — die andere Frau fand seine Hoden mit den Lippen, eine sanfte Bewegung, dann mit der Zunge, kreisend. Er stieß tiefer in Marens Kehle, schneller; jeder Stoß brachte die Hoden auf die Wange der anderen. Sie öffnete den Mund, fing einen, hielt ihn. Marens Atem ging durch die Nase, kurz, gepresst. Er hielt sich an Marens Schultern fest, an dem Hinterkopf der anderen — drei Berührungen pro Atemzug. Er kam in Marens Kehle, tief; die andere blieb mit dem Mund an seinem Sack, spürte das Pulsieren von außen mit. Réage-Geometrie: ein Mann, zwei Münder, ein Schluss.*
+
 ### 4.62 Deepthroat mit Rimming (FFM-Variante)
 
 **(A)** *Er stand, sein Glied tief im Mund der ersten. Die zweite kniete hinter ihm, beide Hände auf seinem Hinterteil, sie teilte es mit den Daumen. Ihre Zunge fand seinen Anus. Er stieß weiter ins Maul der ersten, ohne zu stocken.*
@@ -808,6 +850,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Vorne tief, hinten weich." Maren am Glied, das tief in ihr saß. Die zweite mit der Zunge am Anus des Mannes — kreisend, dann tiefer. Er hielt sich an Marens Schultern fest, atmete schwerer.*
 
 **(C)** *Eine Frau, vorne, am Grund seiner Kehle. Eine Frau, hinten, am Ring seines Anus. Réage-Symmetrie: er gab vorne, er empfing hinten. Drei Atemzüge synchron, kein Geräusch außer dem Speichel.*
+
+**(D)** *Er stand mitten im Raum, gekleidet bis zum Bauch, die Hose unten. Maren kniete vor ihm, sein Glied tief in ihrem Mund — sie hatte ihn schon eine Weile da, sie kannte den Weg. Die andere Frau hatte sich hinter ihn gestellt, dann nach unten gekniet, beide Hände auf seinen Pobacken. Sie teilte sie mit den Daumen — der Anus zwischen den Backen sichtbar. Sie setzte den Mund an, eine sanfte Bewegung, dann die Zunge — eine erste Spur die Furche entlang, eine zweite kreisend, dann die Spitze direkt am Ring. Er gab ein einziges Geräusch von sich, eine kurze Atmung. Vorne arbeitete Maren weiter — er stieß tiefer in ihre Kehle, weil hinten die Spannung in ihm wuchs. Die andere wechselte zwischen Mund und Zunge, fand einen Takt. Eine Frau vorne, am Grund seiner Kehle. Eine Frau hinten, am Ring seines Anus. Drei Atemzüge synchron, kein Geräusch außer dem Speichel. Er kam in Marens Mund — und gleichzeitig spürte sie hinten, dass seine Wirbelsäule eine Sekunde lang ganz versteinerte, dann wieder löste. Réage-Symmetrie: er gab vorne, er empfing hinten.*
 
 ### 4.63 Sex mit Rimming (Penetration + dritte Zunge am Anus)
 
@@ -817,6 +861,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Sein Glied vorne in ihrem Schoß. Hinter ihm eine Zunge an seinem Ring, vor ihm eine zweite Zunge an Marens Klitoris — die andere Frau hatte sich verteilt, dort, wo sie zwei Geschlechter mit einem Mund bedienen konnte.*
 
+**(D)** *Maren kniete vornübergebeugt auf dem Bett, das Hinterteil hoch, der Kopf an den Unterarmen. Er stand hinter ihr, sein Glied schon in ihrem Schoß, die Hände an ihren Hüften. Drei Stöße schon, sein Atem ruhig. Die dritte Person — eine Frau, die sie beide kannten — kniete unter ihnen, zwischen Marens Schenkeln. Ihre Zunge fand Marens Klitoris, kreisend, dann die innere Lippe, dann den Bereich um sein Glied, das ein- und ausging. Sie leckte den Übergang, die Stelle, an der sie nicht war. Drei Punkte gleichzeitig — Schoß, Klitoris, Stelle dazwischen. Bei einem Stoß zog er sich beinahe zurück; sie nutzte den Moment, fuhr mit der Zungenspitze an seine Wurzel, dann an Marens Klitoris zurück. Maren spürte beide Bewegungen — die Penetration tief, die Zunge an einer Stelle, die nur Aufmerksamkeit war. Sie kam zwischen den beiden, ohne dass eine aufhörte. Er kam einen Atemzug später, in ihrem Schoß, sie spürte den Schub vorne und den Atem der dritten am Damm.*
+
 ### 4.64 Vaginalsex mit Glied sauber lecken (Réage-Demütigungs-Geste)
 
 **(A)** *Er zog sich aus ihrem Schoß. Sein Glied glänzte von ihr — Feuchtigkeit, ein Hauch von Pech und Salz. Sie kniete sich vor ihn, nahm ihn in den Mund, leckte ihn sauber. Drei Bahnen mit der Zunge, von der Wurzel zur Spitze.*
@@ -824,6 +870,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Sauber machen." Er stand, sein Glied vor ihrem Mund, noch feucht von ihrem Schoß. Sie öffnete den Mund, nahm ihn auf. Sie schmeckte sich an ihm. Sie leckte, bis nichts mehr da war.*
 
 **(C)** *Réage-Geste: nach dem Akt das Werkzeug reinigen. Sie kniete, er stand. Sein Glied schmeckte nach ihr — Schoß, Schweiß, ein Hauch des Olivenöls. Sie schluckte den Geschmack, zwei Bahnen mit der Zunge, langsam.*
+
+**(D)** *Er hatte sich aus ihrem Schoß zurückgezogen, der Akt eine Weile her — sein Glied glänzte noch von ihrer Feuchtigkeit, halb hart, eine dünne Spur lief an der Wurzel herunter. Er stand am Bettende, sie ließ sich vom Bett gleiten und kniete vor ihm, ohne dass er es verlangt hatte. Sie kannte die Geste. Sie hob den Mund an seine Spitze — ihre Zunge fand zuerst die Stelle direkt unter dem Kanal, dort, wo der Geschmack am stärksten war. Sie schmeckte sich an ihm — Schoß, Schweiß, ein Hauch des Olivenöls, das er vor dem Akt aufgetragen hatte. Sie leckte ihn sauber, drei Bahnen mit der Zunge, von der Wurzel zur Spitze, dann eine vierte langsamer. Sie nahm ihn dann ganz in den Mund, einen Augenblick lang, ohne zu saugen, nur um ihn warm zu halten. Beim Loslassen war sein Glied sauber — kein Glanz mehr, nur Haut und ihr Speichel. Réage-Geste: nach dem Akt das Werkzeug reinigen. Sie kniete, er stand. Sie schluckte den Geschmack, der ihrer war, zwei Bahnen, langsam.*
 
 ### 4.65 Spermaerguss in Schoß mit Auslecken (Creampie + FF-Cum-Eating)
 
@@ -833,6 +881,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Drei Körper auf dem Bett. Er kam in ihr; er rollte zur Seite. Die andere kam zwischen ihre Schenkel — Zunge in der Spalte des Schoßes, sie schmeckte ihn an Maren, sie schmeckte Maren an ihm. Sie hielt einen Schluck im Mund, brachte ihn zu Marens Lippen.*
 
+**(D)** *Er hatte zwanzig Minuten lang in Marens Schoß gestoßen, langsam, dann tief. Beim Kommen blieb er ganz in ihr — sie spürte die Hitze tief, eine Welle, dann zwei. Er rollte zur Seite, schwer atmend, sein Bauch glänzte von Schweiß. Maren blieb auf dem Rücken, die Schenkel angewinkelt, sie hielt sein Geschenk in sich. Die andere Frau, die bisher zugesehen und sich selbst gemacht hatte, kletterte vom Sessel ans Bett. Sie kniete sich zwischen Marens Schenkel, ohne ein Wort. Ihre Zunge fand zuerst die Innenseite des linken Schenkels, eine Spur Samen war dort, sie leckte sie auf. Dann die Schamlippen — eine Bahn, die langsam tiefer ging. Maren hob das Becken eine Spur. Die andere drang mit der Zunge in die Spalte des Schoßes ein, sie schmeckte ihn an Maren, sie schmeckte Maren an ihm. Sie hielt einen Schluck im Mund — eine Mischung aus seinem Samen und Marens Feuchtigkeit — und kam zu Marens Lippen, küsste sie tief. Der Schluck wechselte. Maren schluckte ihn, langsam, sah die andere an. Réage-Hierarchie der Münder: drei Geschmäcker, drei Mündgrenzen, ein Tausch.*
+
 ### 4.66 FFM 69 mit Penetration von hinten + Cum im Mund der anderen
 
 **(A)** *Die beiden Frauen in 69 — eine über der anderen, Mund an Schoß und Schoß an Mund. Er kniete hinter der oberen, sein Glied fand ihren Schoß und drang ein. Beim Stoßen leckte sie weiter den Schoß der unteren. Vor seinem Kommen zog er sich zurück, trat nach vorne, kam im Mund der unteren.*
@@ -841,6 +891,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *69 als Grundriss, Mann als Eindringling. Er fickte die obere von hinten, langsam — sie leckte die untere weiter, der Atem auf deren Klitoris. Bei seinem Höhepunkt zog er sich heraus, drei Schritte zum Kopfende, kam in den Mund der unteren. Drei Wellen in einem Körper-Bogen.*
 
+**(D)** *Die Frauen hatten die 69-Stellung schon eingenommen, bevor er den Raum betrat — eine über der anderen, jede den Mund am Schoß der anderen, die Schenkel offen. Maren war oben, ihr Mund tief in der Vulva der unteren, ihre Zunge an deren Klitoris. Er kam ans Bett, sah die Geometrie, fand seinen Platz hinter Maren. Sein Glied dick mit Speichel — er drang in Marens Schoß ein, einen Zoll, hielt; einen weiteren, hielt. Bei voller Länge legte er beide Hände auf Marens Hüften. Er stieß langsam — Maren wurde nach vorn gedrückt, ihre Zunge tiefer in die untere. Die untere stöhnte unter ihr; der Atem ging an Marens Klitoris vorbei. Er fand den Takt — drei Stöße flach, einer tief. Beim Spüren seines nahen Kommens zog er sich heraus, drei Schritte zum Kopfende. Die untere drehte das Gesicht zu ihm, öffnete den Mund. Sein Glied an ihren Lippen — er kam, eine Mischung aus seinem Samen und Marens Feuchtigkeit auf der Zunge der unteren. Drei Wellen in einem Körper-Bogen — er gab oben, der Schluss war unten.*
+
 ### 4.67 Sperma tropft aus 69 ins Gesicht der unteren Frau
 
 **(A)** *Er kam in ihrem Schoß — die obere Frau, in 69-Stellung. Er zog sich zurück. Der Samen begann zu fließen, langsam. Aus der oberen heraus, durch ihre Schamlippen, fiel Tropfen für Tropfen auf das Gesicht der unteren — Wange, Lippe, Kinn.*
@@ -848,6 +900,8 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Halt deinen Mund offen." Die untere lag mit offenem Mund, Gesicht direkt unter dem Schoß der oberen. Er kam in der oberen. Drei Sekunden später lief der Samen heraus — eine warme Spur quer über das Gesicht der unteren, eine Sekunde, ein Tropfen im Mund.*
 
 **(C)** *Réage-Geometrie der Schwerkraft. Er gab oben, es kam unten an. Eine weiße Spur tropfte aus dem Schoß der oberen, erst zwischen die Schamlippen, dann hinaus, dann auf Lippe, Wange, Stirn der unteren. Sie schloss die Augen erst beim dritten Tropfen.*
+
+**(D)** *Die zwei Frauen lagen in 69-Stellung — die obere mit dem Schoß über dem Gesicht der unteren, der Mund der unteren leicht offen, der Atem warm an der Vulva der oberen. Er kniete hinter der oberen, sein Glied tief in deren Schoß, die Hände an deren Hüften. Er stieß zwanzig Minuten lang, langsam, dann fester. Beim Spüren seines Kommens stieß er noch dreimal hart, dann hielt er still — er kam tief in der oberen, drei Wellen Hitze in ihrem Schoß. Er hielt die Position einen Atemzug länger als sonst, dann zog er sich langsam heraus. Sein Glied verließ ihren Schoß; der Samen begann zu fließen, langsam — die Schwerkraft tat den Rest. Eine weiße Spur tropfte aus dem Schoß der oberen, zuerst zwischen die Schamlippen, dann nach unten, dann auf das Gesicht der unteren — Lippe, dann Wange, dann Stirn. Die untere hielt den Mund halb offen, fing den ersten Tropfen, schluckte. Der zweite traf ihre Wange, eine warme Linie. Der dritte fiel ihr in die Augenbraue, lief an die Schläfe. Sie schloss die Augen erst beim dritten Tropfen. Réage-Geometrie der Schwerkraft: er gab oben, es kam unten an.*
 
 ---
 
