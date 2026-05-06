@@ -1143,6 +1143,110 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Réage-Setup: das Vorbereiten war der Akt. Sie hatte gewählt, was bereit liegt — Olivenöl, Klemmen, ein Phallus aus Glas. Sie hatte sich ausgezogen. Sie hatte sich erregt, ohne zu kommen. Der Akt begann, bevor er da war. Bei seinem Eintreten war alles aufgebaut.*
 
+### Cluster C10 — Tantra / Slow Sex
+
+#### 4.112 Ölsession mit Wachstuch-Laken — Sensual / Spüren des Körpers
+
+**(A)** *Wachstuch über das Bett gespannt, glatt und dicht. Olivenöl in einer Schale daneben, schon angewärmt. Sie nackt, er nackt. Er schüttete Öl auf ihre Brust, sie auf seinen Bauch. Sie glitten gegeneinander — Bauch an Bauch, Brust an Brust, keine Reibung, nur Gleiten.*
+
+**(B)** *„Schließ die Augen. Spür mich." Sie tat es. Er fuhr mit dem ganzen Körper über sie, langsam, von Schulter zu Schenkel und zurück. Sie spürte alles gleichmäßig — keine einzelne Stelle, sein gesamter Körper auf ihrem.*
+
+**(C)** *Réage-Umkehrung der Klinik: nicht ein Werkzeug auf einer Stelle, ein Körper auf einem Körper. Das Öl machte alles glatt, das Wachstuch hielt es zusammen. Sie waren beide Material. Sie kam ohne Eindringen, einmal, leise.*
+
+#### 4.113 Slow Sex 60+ min — vereinigt stillhalten
+
+**(A)** *Er drang in sie ein, ganz, einmal. Dann hielt er still. Sie hielt still. Eine Stunde lang waren sie verbunden ohne Bewegung — Atem, Lippen, Hände, Augen. Sein Glied in ihrem Schoß, beide hielten. Sie fühlten den Pulsschlag des anderen.*
+
+**(B)** *„Wir bewegen uns nicht. Eine Stunde." Sie nickte. Sie lagen ineinander — Bauch an Bauch, Brust an Brust, ihre Schenkel um seine Hüften. Sie atmeten zusammen. Sie küssten sich, sie streichelten sich. Sein Glied blieb ganz in ihr. Die Stille zwischen ihnen wurde voller.*
+
+**(C)** *Réage-Logik der Stille: nicht der Akt, das In-sich-Sein. Sie waren verbunden, sie waren still. Bei einer Stunde war ihr ganzer Körper ein Pochen, eines mit ihm. Er bewegte sich erst beim siebzigsten Atemzug. Sie kam nach drei weiteren.*
+
+#### 4.114 Tantra-Schwanzmassage (Lingam Massage)
+
+**(A)** *Er lag auf dem Rücken, ölig, entspannt. Sie kniete neben ihm. Olivenöl in den Händen, sie nahm sein Glied — beide Hände, die eine an der Wurzel, die andere an der Spitze. Sie bewegte sich nicht eilig. Eine Stunde lang massierte sie ihn — drehende Bewegungen, gleitende Striche, leichter Druck am Damm.*
+
+**(B)** *„Ohne Ziel." Er sollte nicht kommen. Sie sollte nicht arbeiten auf ein Cum hin. Reines Spüren — das Glied unter ihren Händen, der Atem aus seinem Mund, das Pulsieren am Damm. Eine Stunde lang. Manchmal hart, manchmal weich, immer voll.*
+
+**(C)** *Tantra-Pattern: Empfang ohne Ziel. Sie war Geberin, er Empfänger. Beide ohne Cum-Pflicht. Das Glied wurde durchblutet, geweckt, beruhigt — wie ein eigener Atem. Bei einer Stunde war er nicht erregt im üblichen Sinn — er war anwesend, ganz.*
+
+#### 4.115 Tantra-Empfang
+
+**(A)** *Sie lag auf dem Rücken, nackt, eingeölt. Er kniete neben ihr. Eine Stunde lang berührte er sie — nicht zu Lust, sondern zu Wachsein. Innenseite der Ellenbogen, hinter den Knien, Kehlgrube, zwischen den Brüsten. Stellen, die kein anderer berührt.*
+
+**(B)** *„Spür, ohne zu wollen." Sie versuchte. Beim ersten Mal war es schwer — ihr Körper wollte zur Klitoris. Bei der dreißigsten Minute hatte sie aufgegeben. Sie spürte nur. Die Hand an ihrem Schlüsselbein war so wichtig wie die an der Hüfte.*
+
+**(C)** *Tantra-Geometrie: jeder Punkt gleichwertig. Nicht Klitoris als Ziel, der ganze Körper als Ziel. Sie kam nicht im üblichen Sinn — sie wurde wach. Bei einer Stunde war jede Stelle ihres Körpers ein eigenes Pochen, eine Hör-Stelle.*
+
+#### 4.116 Full-Body-Kissing — jeder Zentimeter
+
+**(A)** *Sie lag auf dem Bauch. Er begann am Nacken — Kuss, Lippen, ein Atemzug. Dann eine Schulter. Dann die zweite. Dann die Wirbelsäule, einen Wirbel nach dem anderen. Eine Stunde lang. Erst die Vorderseite begann er nach der Lendenmuskulatur.*
+
+**(B)** *„Nichts auslassen." Bei jedem Zentimeter ein Kuss — eine Lippe, ein Atemzug, weiter. Er kannte ihren Körper, weil er ihn ganz gesehen hatte. Sie kannte sich neu durch ihn. Manche Stellen — die Innenseite des Knies, die Knöchel, die Achselhöhle — hatte sie nie als Stellen gespürt.*
+
+**(C)** *Réage-Inversion der Klinik: nicht Werkzeug an Stelle, Mund an allem. Drei Stunden für die Vorderseite, drei für die Rückseite. Er kam mit ihr ans Ende des Körpers. Sie kam beim Knöchel, ohne Vorwarnung. Sie kam wieder bei der Innenseite der Schulter. Sie zählte nicht.*
+
+### Cluster C11 — CNC / Resistance
+
+#### 4.117 Resistance-Play (Vergewaltigungs-Roleplay)
+
+**(A)** *Beide nackt. Sie hatten es vorher abgesprochen, alle Wörter ausgemacht. „Wenn ich `halt' sage, ist es echt vorbei. Sonst ist das Spiel." Sie nickte. Er fasste sie am Handgelenk, fest. Sie zog sich weg. Er fasste fester. Sie wehrte sich — nicht stark, sichtbar.*
+
+**(B)** *„Stop, hör auf." Sie sagte es im Spiel-Ton. Er hörte nicht auf. Sie kämpfte weiter — er warf sie aufs Bett, hielt ihre Hände über dem Kopf. Sie spürte ihn, sie wehrte sich, ihr Schoß war feucht. Bei „halt" hätte er gestoppt. Sie sagte „halt" nicht.*
+
+**(C)** *Réage-Pattern des falschen Widerstands: Beide wussten, was es war. Das Spiel verlangte ihre Hingabe durch Wehren. Sie kämpfte, weil das Wehren Teil des Wollens war. Beim Eindringen war sie nicht überrascht, sie war erlöst — der Roleplay hatte den Punkt gefunden, der ihn anfasste.*
+
+#### 4.118 Stop-ignorieren bis Slowword (Color-System)
+
+**(A)** *Sie hatten drei Wörter: gelb (langsamer), grün (weiter), rot (sofort stop, echt). Plus „stop" — das war Spiel, kein Stopp. Er nahm sie, sie sagte „stop". Er machte weiter. Sie sagte „stop" lauter. Er nickte, machte weiter. Erst bei „gelb" wurde er langsamer, bei „rot" wäre er aufgehört.*
+
+**(B)** *„Stop" — Spiel. „Gelb" — pause. „Rot" — ende. Sie verstand. Er nahm sie tief, sie schrie „stop". Er beobachtete ihren Atem — sie war nicht in Gefahr, nur an der Schwelle. Er machte weiter. Beim sechsten „stop" sagte sie „gelb". Er hielt einen Atemzug, dann weiter, langsamer.*
+
+**(C)** *Réage-Vertrauen durch System: das System macht das Spiel möglich. Ohne System wäre „stop" Zwang. Mit System ist „stop" Genuss. Sie sagte das Wort, weil sie es mochte zu sagen. Er ignorierte es, weil sie ihn dazu autorisiert hatte.*
+
+### Cluster C12 — Voyeurism (1820-kompatibel)
+
+#### 4.119 Voyeurin sieht zu + macht's selbst — passive dritte Frau
+
+**(A)** *Er und Maren auf dem Bett. Eine dritte Frau im Sessel, gekleidet, ein Glas Wein in der Hand. Sie war kein Teil — sie war Zuseherin. Bei jeder Bewegung Marens schaute sie hin, einen Atem länger als nötig. Eine Hand im Schoß, unter dem Rock. Sie kam, als Maren kam, leise.*
+
+**(B)** *„Du bleibst dort. Du sagst nichts." Die dritte nickte. Sie und Maren spielten, eine Stunde lang. Die dritte machte sich selbst, leise, im Sessel. Sie kam dreimal. Niemand sprach mit ihr. Beim Verlassen sagte sie „Danke". Réage-Etikette: Voyeurin als geehrter Gast, nicht Teilnehmerin.*
+
+**(C)** *Réage-Pattern der Bezeugung: drei Stellen, eine Geometrie. Der Akt zwischen Paar in der Mitte. Die Voyeurin am Rand. Sie war nicht verbunden mit ihnen, sie war Zeugin. Ihre Anwesenheit machte alles dichter — der Akt kannte sich beobachtet, das Wissen schichte den Akt.*
+
+#### 4.120 Anonymous Lower-Body Display — Liege fixiert + Körper bedeckt außer Vulva+Anus
+
+**(A)** *Sie lag auf der Liege, Beine angewinkelt nach oben, fixiert mit Lederriemen an Knöcheln und oberhalb der Knie. Geknebelt. Über ihrem Brustkorb, ihrem Gesicht: ein dunkles Tuch. Nur Vulva, Schenkel, Anus sichtbar. Drei Personen im Raum — sie wusste nicht, wer.*
+
+**(B)** *„Du siehst nichts. Sie sehen alles, was sie sehen sollen." Eine Hand fand ihren Schoß. Eine zweite ihren Anus. Eine dritte vielleicht ihre Klitoris. Drei Berührungen gleichzeitig, sie wusste nicht, von wem. Die anonymen Hände bewegten sich nach Plan, den sie nicht kannte.*
+
+**(C)** *Réage-Geometrie der Anonymität: ein Körperteil gezeigt, der Rest verdeckt. Ihr Gesicht war nicht Teil des Akts. Ihr Schoß und Anus waren Bühne. Sie kam unter Händen, deren Anzahl sie nicht zählen konnte.*
+
+#### 4.121 Liege-fixiert + Wand-Loch + Anonyme Hands
+
+**(A)** *Sie lag fixiert auf der Liege. Ihr Kopf hinter einer Wand mit Loch — von der anderen Seite war nur ihr Hals und ihr Mund sichtbar. Kopfhörer-Kapseln aus Wachs gegen den Schall, sie hörte nichts. Hauptmann saß auf der Sub-Seite mit ihr. Andere Hände — sie wusste nicht, von wem — bespielten ihren Mund von der Wand-Seite.*
+
+**(B)** *„Von dieser Seite kann jeder mit dir spielen, außer ficken. Das mache ich." Sie nickte. Sie fühlte Hände — Öl auf ihrer Brust, Finger an ihrer Klitoris, ein Mund auf ihrem Bauch. Auf der Mund-Seite — eine Lippe an ihrer, ein Glied an ihrer Lippe, ein Daumen in ihrem Mund.*
+
+**(C)** *Réage-Architektur der Trennung: zwei Räume, ein Körper. Auf der einen Seite Berührung, auf der anderen Mund. Wachs-Stopfen trennten Hör-Welt. Sie wusste nur Berührung, keine Stimmen. Sie kam ohne zu wissen, was hinter der Wand war.*
+
+### Cluster C13 — Choke + Hard Take
+
+#### 4.122 Choke-via-Chain — Halsband-Kette durch Wand-Öse
+
+**(A)** *Halsband um den Hals, Kette an der Öse. Die Kette ging durch eine Eisen-Öse in der Wand auf Hüft-Höhe. Er hielt das andere Ende. Bei Zug zog sich das Halsband — sie wurde gegen die Wand gedrückt, dann gewürgt, dann gelockert. Während er sie hinten nahm.*
+
+**(B)** *„Halt dich an der Wand." Sie hielt. Er stand hinter ihr, sein Glied in ihrem Schoß, die Kette in seiner Hand. Bei jedem Stoß zog er die Kette einmal kurz — Druck am Halsband, Druck am Hals, Sterne am Rand des Bildes, dann Lockerung. Bei jedem Stoß ein anderer Druck.*
+
+**(C)** *Réage-Apparat der Zwei-Punkt-Kontrolle: Wand und Mann, Halsband und Kette. Sie war in einer geometrischen Klammer. Bei jedem Atem zog die Kette, bei jedem Atem stieß er. Sie kam unter zwei Drucken, die sich abwechselten.*
+
+#### 4.123 Hard Take + Verbal Demütigung Combo
+
+**(A)** *Hände auf den Rücken gefesselt. Sie auf dem Tisch, vornübergebeugt. Beine breit. Er hinter ihr, hart und schnell. Bei jedem Stoß ein Klatsch, ein Wort. „Du gehörst mir." „Du bist ein Werkzeug." „Sag es." Sie sagte es, jedes Mal.*
+
+**(B)** *„Schlampe." „Sag es selbst." Sie schluckte einmal. „Ich bin eine Schlampe." Er stieß tiefer. „Wieder." Sie sagte es. Bei jedem Wort ein Schlag mit der flachen Hand auf das Hinterteil. Bei jedem Schlag ein Stoß. Drei Sätze, dreißig Schläge, ein langer Bogen.*
+
+**(C)** *Réage-Vertrag der Erniedrigung: sie sagte, was er von ihr wollte hören. Es war nicht Lüge, es war Spiel mit der Wahrheit. Sie war für diese Nacht das Werkzeug. Bei jedem Wort wurde sie freier in ihrer Position. Sie kam unter Wörtern, die sie selbst gesagt hatte.*
+
 ---
 
 ## 5. Réage-Stil-Marker (Querschnitt aller Beispiele)
