@@ -241,7 +241,7 @@ Nach dem Schreiben:
 2. User fragen: „Committen und deployen?"
 3. Wenn ja: `git add buch/kurzgeschichten/{datei}.md && git commit -m "feat(kurzgeschichten): {titel}"` → Hook deployt automatisch via Push
 
-**Web-Output:** Beim Push läuft `generate-lesen.sh`, das `scripts/build-kurzgeschichten.py` aufruft. Das Skript rendert alle `buch/kurzgeschichten/*.md` zu `story-in-work/kurzgeschichten.html`, verfügbar unter `https://alphina.net/story-in-work/kurzgeschichten.html` (Sidebar-Link „Kurzgeschichten" unter Material). Jede Geschichte bekommt einen Anker `#kg-{datum}-{slug}`, Comment-System ist aktiv (analog Leseproben).
+**Web-Output:** Beim Push läuft `generate-lesen.sh`, das `scripts/build-kurzgeschichten.py` aufruft. Das Skript rendert alle `buch/kurzgeschichten/*.md` zu `kurzgeschichten/index.html`, verfügbar unter `https://alphina.net/kurzgeschichten/`. Reduziertes Layout: nur Seitentitel + Liste der Geschichten (neueste zuerst), keine Sidebar, kein Filter. Jede Geschichte bekommt einen Anker `#kg-{datum}-{slug}`, Comment-System ist aktiv (analog Leseproben).
 
 ## Wiederholbarkeit
 
