@@ -6,7 +6,16 @@
 
 **Entstehung:** Diese Skizze ist die ursprüngliche Plot-mit-Prosa-Vorgriff-Fassung des K35-Entwurfs (Stand 2026-05-05, vor Plot-only-Refactor). Nach Einführung der ⚡-Pin-Direktive `feedback_entwurf_plot_only.md` wurde der Entwurf rigoros auf Plot-only zurückgeschnitten — die hier enthaltenen Material-Vorschläge, Dialog-Wortlaut-Skizzen und Mikro-Geometrie-Beats blieben aber wertvoll als Inspirations-Material für die spätere Ausarbeitungs-Phase.
 
-**Plot-Korrektur (2026-05-05 nach Council):** Die Skizze enthält an einer zentralen Stelle einen **Canon-Bruch**: sie behandelt K35 als Marens *erste* Initiation („nach fünf Monaten als Eingeladene"). Laut `zeitleiste.json` (ZEITSPRUNG 18. Glutmond 551) initiiert Maren seit *vier Monaten* 2-3×/Woche — ca. 30+ Sessions in Routine. K35 ist die **letzte Vael-Initiation in der etablierten Routine**, nicht die erste. Der Plot-Entwurf hat das korrigiert. Beim Schreiben der Sex-Szene gilt der Plot-Entwurf-Stand: Routine + Tor-Unterstrom (Variante A — Réage-Vergewisserung).
+**Plot-Korrekturen nach Online-Kommentaren (2026-05-06):** Die Skizze enthält mehrere Drifts gegen den aktuellen Plot-Entwurf:
+
+1. **Erst-Initiations-Bug:** Skizze behandelt K35 als Marens *erste* Initiation. Laut zeitleiste.json (ZEITSPRUNG 18. Glutmond 551) initiiert Maren seit vier Monaten — ca. 30+ Sessions in Routine. K35 ist die **letzte Vael-Initiation in der etablierten Routine**.
+2. **4:33 KOMPLETT raus:** Werkbank-Pendule mechanisch ohne 4:33-Drift, kein Penetrations-Takt mit Pendel-Verflechtung, kein „drei-vier-drei"-Schlag. 4:33 ist Varens Signatur (K38-Reveal), nicht Vesper-Magie-Tic, nicht Welt-Frequenz, nicht Ritual-Frequenz.
+3. **Karst-Endspiel-Canon:** POV-Dossier sagt *„Mit 19 Remis in Gewinnstellung — er sah eine Diagonale, die nicht zum Spiel gehörte"*. Skizze-Beschreibung *„Steine ordneten sich von selbst"* ist Drift. Phrase *„aufgehört zu lügen"* ist Plot-Addition, nicht canon — gestrichen.
+4. **Tränen-mit-Tor-Wissen RAUS:** Maren weint nicht. Sie genießt, Tor-Unterstrom körperlich-pragmatisch.
+5. **Vesper-kommt-nicht-Linie RAUS:** Wir erzählen Marens Orgasmus explizit. Bei Vesper *erwähnen wir nicht*, ob er kommt oder nicht — POV-Disziplin (Maren sieht ihn nicht, fragt nicht).
+6. **Aftercare-Klinik (Wasser/Tuch/Massage/Schachturm-Geste) ENTFÄLLT KOMPLETT.** Sz4 fällt. Schluss der Sex-Szene: er löst die Fesseln, sie greifen ineinander — beide nass, schwer atmend, sich festhalten, nie wieder loslassen. Tor-Unterstrom verkörpert im Nichtloslassen.
+
+Beim Schreiben gilt der Plot-Entwurf-Stand. Bei Konflikt zwischen Skizze und Plot-Entwurf gewinnt der Plot-Entwurf.
 
 **Lade-Anweisung für `/ausarbeitung`:**
 
