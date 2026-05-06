@@ -1067,6 +1067,82 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 
 **(C)** *Réage-Echo der Werkzeuge: was nicht mehr da war, wirkte weiter. Das Seil hatte die Brüste auf die Klitoris vorbereitet. Sie spürte beides — Vergangenheit oben, Gegenwart unten.*
 
+### Cluster C8 — Multi-Player Beyond FFM
+
+#### 4.103 FMM mit Sub im Mittelpunkt — Sub sagt Wünsche
+
+**(A)** *Drei im Bett. Sie in der Mitte, beide Männer flankierten sie. „Sag, was du willst." Sie zögerte, dann sagte sie es: einer am Mund, einer am Schoß. Der erste rollte zu ihrem Kopf, der zweite zwischen ihre Schenkel. Sie bestimmte die Choreographie.*
+
+**(B)** *„Du bist heute die Stimme." Sie nickte. Sie sagte: „Du, hinten. Du, vorne. Beide langsam." Beide Männer befolgten. Sie war Sub durch ihre Position, Dom durch ihre Wahl.*
+
+**(C)** *Réage-Umkehrung: nicht Befehl von oben, sondern Wahl von der Mitte. Sie kannte ihre eigenen Begehren — sie sprach sie aus. Beide Männer waren Werkzeug ihrer Wunsch-Liste. Sie kam, weil sie selbst die Reihenfolge bestimmt hatte.*
+
+#### 4.104 Drei Männer beobachten + feuern an, nur Hauptmann hat Sex
+
+**(A)** *Sie war ans Bett gefesselt, Augenbinde. Drei Stimmen im Raum, alle gekleidet. Eine vierte — die ihres Geliebten — stand am Bett. Er nahm sie. Die anderen drei sprachen — Komplimente, Anfeuerung, schmutzige Beobachtungen. Niemand berührte sie außer ihm.*
+
+**(B)** *„Sie sieht prächtig aus." „Lauter, sie soll dich hören." „Dreh sie um, wir wollen die Brüste sehen." Drei Stimmen, sie hörte alle. Ihr Geliebter bewegte sich, die anderen kommentierten. Sie war Bühne, er war Akteur, sie alle Publikum.*
+
+**(C)** *Réage-Cuckold-Reverse: nicht der Mann teilt sie, der Mann zeigt sie. Drei sehen zu, drei sprechen, drei machen sich nicht. Sie war seine, vor Zeugen. Bei jedem Kompliment zog sich etwas in ihrer Brust zusammen — sie war stolz, sie war sub.*
+
+#### 4.105 FFFM Direktion — Mann lenkt zwei Frauen
+
+**(A)** *Zwei Frauen auf dem Bett, er stand daneben — gekleidet. „Du leckst sie. Du hältst sie. Jetzt wechseln." Die zwei folgten. Er bewegte sie wie Figuren auf einem Schachbrett. Beide Frauen kamen einmal, dann kam er dazu.*
+
+**(B)** *„Maren, Knie. Du, Mund. Beide bleiben so." Er sah zu, korrigierte mit kurzen Worten. „Tiefer." „Langsamer." „Fester." Die Frauen waren sein Material, beide gleich Sub, er der einzige Akteur durch Sprache.*
+
+**(C)** *Réage-Direktion ohne eigenen Akt: er gab Worte, sie gaben Körper. Drei Stunden lang spielte er mit ihnen, ohne eigene Berührung. Erst beim Ende stand er auf, nahm die eine, dann die andere — kurz, präzise, geordnet.*
+
+#### 4.106 Sklavinnen-Hierarchie FFM mit gemeinsamer Sub
+
+**(A)** *Sie und er hatten eine Sub für die Nacht. Sie legten den Plan vorher fest — drei Stunden, eine Liste. Die Sub kam, kniete, hörte zu. „Du wirst zuerst von ihr genommen, dann von mir, dann von uns beiden." Die Sub nickte.*
+
+**(B)** *Maren und ihr Geliebter waren ein Paar. Die dritte war Werkzeug. Maren begann — sie leckte die Sub, sie spielte mit ihren Brüsten. Dann ihr Geliebter — er nahm die Sub vaginal, während Maren die Sub am Mund hielt. Drei Stunden lang teilten sie eine, beide.*
+
+**(C)** *Réage-Hierarchie der Drei: zwei oben, eine unten. Die Sub diente beiden. Sie und er waren Paar im Akt — sie sahen sich an, während sie die Sub bewegten. Réage-Logik: das Paar wird gefestigt durch das gemeinsame Werkzeug.*
+
+#### 4.107 Cuckqueen Voyeurism — Frau watcht + macht's selbst
+
+**(A)** *Sie saß im Sessel, gekleidet. Auf dem Bett: ihr Geliebter und eine andere Frau. Er nahm die andere — Schoß, Mund, Anus, was er wollte. Sie sah zu, eine Hand zwischen den eigenen Schenkeln. Sie kam dreimal, allein im Sessel.*
+
+**(B)** *„Schau zu, mach dich." Sie nickte. Er wandte sich zur anderen, sie zog ihren Rock hoch. Bei jedem Stöhnen der anderen reagierte sie selbst — Spiegel-Bewegung. Sie kam, als die andere kam. Er sah zu beiden Seiten.*
+
+**(C)** *Réage-Inversion: nicht Mann sieht zu, Frau wird genommen — Frau sieht zu, andere Frau wird genommen. Sie war Beobachterin und Beteiligte gleichzeitig. Was er der anderen tat, tat sie sich selbst. Drei Körper in zwei Räumen.*
+
+#### 4.108 Third-Person als Werkzeug — Gefesselte Sub für das Paar
+
+**(A)** *Auf dem Bett lag eine Person — gefesselt, Augen verbunden, an alle Pfosten. Sie und ihr Geliebter standen daneben. „Was willst du mit ihr machen?" Sie wählte. Sie hatte heute volle Verfügung. Die gefesselte Person war Werkzeug.*
+
+**(B)** *„Ihr Mund, ihre Brüste, ihr Schoß — alles für dich." Maren sah die gefesselte Person an. Sie wählte: die Brüste. Sie spielte mit ihnen — Klemmen, Zunge, Hände. Die gefesselte Person konnte nichts tun. Maren hatte alles.*
+
+**(C)** *Réage-Geschenk: das Paar gibt sich gegenseitig eine Sub. Sie war Dom für eine Nacht, durch sein Geschenk. Die gefesselte Person wusste das, sie war freiwillig. Réage-Vertrag mit drei Stimmen — alle wussten, was sie waren.*
+
+### Cluster C9 — Wake-Up / Surprise Setups
+
+#### 4.109 Wake-by-Eindringen — Mann weckt durch ungefragtes Eindringen
+
+**(A)** *Sie schlief auf der Seite, Hemd hochgerutscht. Er kam hinter sie ins Bett, fettete sich, legte einen Arm um ihre Hüfte. Sie wachte auf, als er bereits halb in ihr war — drei Atemzüge zwischen Schlaf und Wachen, sie war schon halb genommen.*
+
+**(B)** *„Bleib so." Sie verstand erst den Satz, dann die Berührung. Er bewegte sich langsam, sie wachte mit ihm auf. Beim ersten klaren Atem war er schon ganz drin. Sie nickte, ohne sich zu drehen.*
+
+**(C)** *Réage-Pattern des Vertrauens: Schlaf als Verlängerung der Hingabe. Er wusste, sie würde es wollen — sie hatten es vorher besprochen, einmal, Jahre vorher. Sie wachte in ihm auf. Das Weiche zwischen Traum und Wachen blieb, sie kam darin.*
+
+#### 4.110 Wake-by-Sub-Initiative — Frau weckt mit Blowjob oder Reverse Cowgirl
+
+**(A)** *Er schlief. Sie schob die Decke weg, beugte sich über ihn. Sein Glied weich, sie nahm es in den Mund — drei Saug-Bewegungen, dann härtete es sich. Er atmete tiefer, noch nicht wach. Beim Wachen war er schon in ihrem Mund.*
+
+**(B)** *Er schlief. Sie kletterte vorsichtig auf ihn — Knie an seiner Hüfte, sie senkte sich. Ihr Schoß war schon feucht von der Vorstellung. Sie führte ihn ein, langsam — sein Glied wurde härter im Eindringen. Sein Atem stockte, er öffnete die Augen.*
+
+**(C)** *Réage-Umkehrung der Wake-Geste: nicht er zu ihr, sie zu ihm. Sie initiierte, er empfing. Beim Aufwachen war die Geste schon in Bewegung — er konnte sie nur fortführen, nicht beginnen. Sie kam, er kam, beide noch halb im Schlaf.*
+
+#### 4.111 Surprise-Arrival mit Setup — Sub bereitet, Tür angelehnt
+
+**(A)** *Sie war zuhause, Augenbinde an, eine Hand im Schoß. Die Tür war angelehnt — er hatte gesagt, irgendwann zwischen vier und sechs Uhr. Sie wartete, sie machte sich, sie durfte nicht kommen. Bei fünf Uhr hörte sie die Tür.*
+
+**(B)** *„Du wartest." Sie nickte, sie hatte gewartet. Augenbinde, Spielzeug bereit, sie selbst auf dem Bett mit der Hand zwischen den Schenkeln. Er kam ins Zimmer, sah sie. Er sagte nichts. Sie spürte ihn nahe, dann seine Hand.*
+
+**(C)** *Réage-Setup: das Vorbereiten war der Akt. Sie hatte gewählt, was bereit liegt — Olivenöl, Klemmen, ein Phallus aus Glas. Sie hatte sich ausgezogen. Sie hatte sich erregt, ohne zu kommen. Der Akt begann, bevor er da war. Bei seinem Eintreten war alles aufgebaut.*
+
 ---
 
 ## 5. Réage-Stil-Marker (Querschnitt aller Beispiele)
