@@ -138,6 +138,8 @@ canon_status: Register, kein Plot-Canon. Erstellt 2026-05-06 nach Réage-Recherc
 | **Wurzel** | Réage-konform | für Basis (*„von der Wurzel zur Spitze"*) |
 | **Länge** | neutral-direkt | für gesamtes Glied (*„um die Länge"*) |
 | **Vorhaut** | klinisch-anatomisch | erlaubt, modern |
+| **Hoden** | direkt | Standard |
+| **Sack** | Réage-poetisch (Hodensack) | als Folge-Erwähnung |
 
 ### BDSM-Werkzeuge
 
@@ -710,6 +712,62 @@ Direktes Réage-Zitat als Vorlage (Z. 580 Sailer-Übersetzung): *„das mächtig
 **(B)** *„Du nimmst sie hinten." Die Frau mit dem Strapon nickte. „Ich nehme sie vorne." Der Mann stieg auf das Bett, sein Glied in den Mund der Liegenden. Beide bewegten sich gegen den anderen, im Takt.*
 
 **(C)** *Drei Körper, zwei Glieder, eines in Echt, eines aus Holz. Die Liegende war ihr Treffpunkt — Mund am Mann, Schoß an der Frau. Réage-Pattern: was real und was Werkzeug war, machte keinen Unterschied. Beide drangen ein, beide gaben.*
+
+### 4.61 FFM Deepthroat mit Teabagging
+
+**(A)** *Er stand über den zweien. Die erste hielt sein Glied im Mund, tief am Grund ihrer Kehle. Die zweite kniete neben ihrem Kopf, Lippen an seinen Hoden. Bei jedem Stoß ins Maul der ersten lagen die Hoden an Wange oder Lippe der zweiten.*
+
+**(B)** *„Mund unten, Mund oben." Maren tief am Glied, die andere mit der Zunge an seinen Hoden. Beim Stoßen in Marens Kehle senkten sich die Hoden auf das Gesicht der zweiten — sie öffnete den Mund, fing einen, hielt ihn.*
+
+**(C)** *Sein Glied am Grund von Marens Kehle, sein Sack in Reichweite der anderen. Drei Stöße — bei jedem trafen die Hoden Wange, Stirn, Lippe der zweiten Frau. Réage-Geometrie: ein Mann, zwei Münder, drei Berührungen pro Atemzug.*
+
+### 4.62 Deepthroat mit Rimming (FFM-Variante)
+
+**(A)** *Er stand, sein Glied tief im Mund der ersten. Die zweite kniete hinter ihm, beide Hände auf seinem Hinterteil, sie teilte es mit den Daumen. Ihre Zunge fand seinen Anus. Er stieß weiter ins Maul der ersten, ohne zu stocken.*
+
+**(B)** *„Vorne tief, hinten weich." Maren am Glied, das tief in ihr saß. Die zweite mit der Zunge am Anus des Mannes — kreisend, dann tiefer. Er hielt sich an Marens Schultern fest, atmete schwerer.*
+
+**(C)** *Eine Frau, vorne, am Grund seiner Kehle. Eine Frau, hinten, am Ring seines Anus. Réage-Symmetrie: er gab vorne, er empfing hinten. Drei Atemzüge synchron, kein Geräusch außer dem Speichel.*
+
+### 4.63 Sex mit Rimming (Penetration + dritte Zunge am Anus)
+
+**(A)** *Er stieß in ihren Schoß, von hinten. Die andere lag unter ihnen, ihr Mund am Anus der Liegenden. Während er stieß, leckte die andere die Stelle, an der sie nicht war. Drei Punkte gleichzeitig — Schoß, Klitoris, Anus.*
+
+**(B)** *„Bleib in ihr." Er hielt sich tief in Marens Schoß. Die zweite Frau hinter ihm — ihre Zunge an seinem Anus, kreisend. Sein Atem stockte; er begann wieder zu stoßen, langsamer.*
+
+**(C)** *Sein Glied vorne in ihrem Schoß. Hinter ihm eine Zunge an seinem Ring, vor ihm eine zweite Zunge an Marens Klitoris — die andere Frau hatte sich verteilt, dort, wo sie zwei Geschlechter mit einem Mund bedienen konnte.*
+
+### 4.64 Vaginalsex mit Glied sauber lecken (Réage-Demütigungs-Geste)
+
+**(A)** *Er zog sich aus ihrem Schoß. Sein Glied glänzte von ihr — Feuchtigkeit, ein Hauch von Pech und Salz. Sie kniete sich vor ihn, nahm ihn in den Mund, leckte ihn sauber. Drei Bahnen mit der Zunge, von der Wurzel zur Spitze.*
+
+**(B)** *„Sauber machen." Er stand, sein Glied vor ihrem Mund, noch feucht von ihrem Schoß. Sie öffnete den Mund, nahm ihn auf. Sie schmeckte sich an ihm. Sie leckte, bis nichts mehr da war.*
+
+**(C)** *Réage-Geste: nach dem Akt das Werkzeug reinigen. Sie kniete, er stand. Sein Glied schmeckte nach ihr — Schoß, Schweiß, ein Hauch des Olivenöls. Sie schluckte den Geschmack, zwei Bahnen mit der Zunge, langsam.*
+
+### 4.65 Spermaerguss in Schoß mit Auslecken (Creampie + FF-Cum-Eating)
+
+**(A)** *Er kam in ihrem Schoß, tief. Er zog sich zurück, weiß und langsam tropfte der Samen heraus. Die andere Frau senkte den Kopf zwischen ihre Schenkel, ihre Zunge fand die Stelle. Sie leckte den Samen von den Schamlippen, dann tiefer, in den Schoß.*
+
+**(B)** *„Hol es." Die zweite Frau zwischen Marens Schenkeln, Mund am offenen Schoß. Sie leckte heraus, was er hinterlassen hatte — drei Bahnen mit der Zunge, dann tiefer mit einem Finger und einer Zunge gemeinsam. Maren spürte beide Wellen.*
+
+**(C)** *Drei Körper auf dem Bett. Er kam in ihr; er rollte zur Seite. Die andere kam zwischen ihre Schenkel — Zunge in der Spalte des Schoßes, sie schmeckte ihn an Maren, sie schmeckte Maren an ihm. Sie hielt einen Schluck im Mund, brachte ihn zu Marens Lippen.*
+
+### 4.66 FFM 69 mit Penetration von hinten + Cum im Mund der anderen
+
+**(A)** *Die beiden Frauen in 69 — eine über der anderen, Mund an Schoß und Schoß an Mund. Er kniete hinter der oberen, sein Glied fand ihren Schoß und drang ein. Beim Stoßen leckte sie weiter den Schoß der unteren. Vor seinem Kommen zog er sich zurück, trat nach vorne, kam im Mund der unteren.*
+
+**(B)** *„Bleib bei ihrem Schoß." Die obere leckte weiter. Der Mann hinten in ihrem Schoß, fünf Stöße, dann zog er sich zurück. Er ging zum Kopfende, sein Glied vor dem Mund der unteren — sie öffnete, sie nahm ihn. Er kam, eine Mischung aus seinem Samen und ihrer Feuchtigkeit auf ihrer Zunge.*
+
+**(C)** *69 als Grundriss, Mann als Eindringling. Er fickte die obere von hinten, langsam — sie leckte die untere weiter, der Atem auf deren Klitoris. Bei seinem Höhepunkt zog er sich heraus, drei Schritte zum Kopfende, kam in den Mund der unteren. Drei Wellen in einem Körper-Bogen.*
+
+### 4.67 Sperma tropft aus 69 ins Gesicht der unteren Frau
+
+**(A)** *Er kam in ihrem Schoß — die obere Frau, in 69-Stellung. Er zog sich zurück. Der Samen begann zu fließen, langsam. Aus der oberen heraus, durch ihre Schamlippen, fiel Tropfen für Tropfen auf das Gesicht der unteren — Wange, Lippe, Kinn.*
+
+**(B)** *„Halt deinen Mund offen." Die untere lag mit offenem Mund, Gesicht direkt unter dem Schoß der oberen. Er kam in der oberen. Drei Sekunden später lief der Samen heraus — eine warme Spur quer über das Gesicht der unteren, eine Sekunde, ein Tropfen im Mund.*
+
+**(C)** *Réage-Geometrie der Schwerkraft. Er gab oben, es kam unten an. Eine weiße Spur tropfte aus dem Schoß der oberen, erst zwischen die Schamlippen, dann hinaus, dann auf Lippe, Wange, Stirn der unteren. Sie schloss die Augen erst beim dritten Tropfen.*
 
 ---
 
