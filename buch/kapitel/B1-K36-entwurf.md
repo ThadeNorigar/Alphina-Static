@@ -113,9 +113,9 @@ Alphina steht bei Sorel. Sie hat keine Angst. Sie spuert, dass sie und Sorel im 
 
 Sie sehen sich um. Die Pflanzen aussen wachsen weiter, langsamer jetzt — Alphinas Heat-Echo ebbt ab, weil ihr Begehren in diesem Moment nicht mehr im Stoss ist, sondern in der ruhigen Praesenz mit Sorel. Sterne brennen weiter ueber dem Garten. Sie haelt seine Hand. Er haelt ihre. Beide sehen die Schemen, beide sehen die Pflanzen, beide sagen nichts.
 
-Schritte am Garten-Eingang. Vesper. Maren. Runa. Alle drei. Sie kommen den Hauptweg hinunter, gemeinsam. Vesper traegt seine Werkzeugrolle. Maren ihre Werkzeug-Tasche. Runa ihre drei Dinge. Sie sehen Alphina+Sorel im Steinkreis, sie sehen den bluehenden Garten, sie sehen die Schemen am Rand. Niemand sagt etwas. Vesper nickt einmal — operativer Beat, das Ritual beginnt.
+Schritte am Garten-Eingang. Vesper und Maren. Sie kommen den Hauptweg hinunter, gemeinsam (K35-Anschluss — sie haben in der Hafengasse-Wohnung uebernachtet, brechen gemeinsam auf). Vesper traegt seine Werkzeugrolle. Maren ihre Werkzeug-Tasche und den in Sackleinen gewickelten grossen Werft-Hammer. **Runa ist nicht dabei.** (Sie folgt heimlich aus der Druckerei — K32-Canon „Mitgehen wuerde sie trotzdem". Wird in K37 als Runa-POV-Auftakt eingeloest, sie ist heute Nacht in K36 nicht sichtbar fuer Alphina/Sorel/Vesper/Maren.) Sie sehen Alphina+Sorel im Steinkreis, sie sehen den bluehenden Garten, sie sehen die Schemen am Rand. Niemand sagt etwas. Vesper nickt einmal — operativer Beat, das Ritual beginnt.
 
-Alphina schaut Sorel an. Letzter Blick im Kreis allein. Dann tritt sie zur Seite, macht Platz fuer die anderen. Sorel folgt. Beide bleiben im Kreis, aber sie nehmen ihre Aufstellung. Vesper kommt zu ihnen. Maren auch. Runa bleibt am Kreis-Rand, drei Schritte ausserhalb (sie hat keinen Halt-Platz im Kreis, sie ist die fuenfte ohne Halt-Funktion — K37-Setup). Vesper holt seine Pendel-Notizen heraus. Das Ritual beginnt.
+Alphina schaut Sorel an. Letzter Blick im Kreis allein. Dann tritt sie zur Seite, macht Platz fuer die anderen. Sorel folgt. Beide bleiben im Kreis, aber sie nehmen ihre Aufstellung. Vesper kommt zu ihnen. Maren auch. Vier am Kreis. (Runa folgt heimlich — beobachtet aus den Linden, niemand sieht sie. Wird in K37 eingeloest.) Vesper holt seine Pendel-Notizen heraus. Das Ritual beginnt.
 
 **Letzte Beat:** Alphina spuert die Hand Sorels in ihrer. Wenige Sekunden. Dann muss sie loslassen — Aufstellung im Kreis, jeder an seinem Stein. Sie laesst los. Beat-Schluss-Stichwort: konkrete Sinnesempfindung (Stein unter Sohlen, Sterne ueber dem Garten, Schemen-Augen am Rand). KEINE ahnungsvolle Glosse. Cliffhanger zu K37 (Runa-POV-Setup).
 
@@ -124,8 +124,9 @@ Alphina schaut Sorel an. Letzter Blick im Kreis allein. Dann tritt sie zur Seite
 - *Kreis-Licht:* duenner Schein um die sieben Purpursteine, vorher nicht da. Wird sichtbar, weil die Schemen am Rand stehen. Welt-Geometrie verstaerkt — der Kreis ist Sicherheits-Zone.
 - *Alphinas Innenbeat:* sie hat keine Angst. Sicherheit im Kreis. Sub-Text: letzte Stunde mit dieser Sicherheit.
 - *Heat-Echo ebbt ab:* die Pflanzen aussen wachsen langsamer, weil Alphinas Begehren in ruhiger Praesenz ist statt im Stoss. Magie folgt der Emotion.
-- *Schritte am Garten-Eingang:* Vesper, Maren, Runa kommen gemeinsam. Vesper traegt Werkzeugrolle, Maren Werkzeug-Tasche, Runa drei Dinge (K32-Canon).
-- *Operative Aufstellung beginnt:* Vesper, Maren, Sorel, Alphina an je einem Stein. Runa ausserhalb. Vesper-Nick als Beginn-Beat.
+- *Schritte am Garten-Eingang:* Vesper und Maren kommen gemeinsam aus der Hafengasse-Wohnung (K35-Anschluss). Vesper traegt Werkzeugrolle, Maren Werkzeug-Tasche + grossen Werft-Hammer in Sackleinen.
+- **Runa NICHT in K36 sichtbar.** Sie folgt heimlich aus der Druckerei (K32-Canon „Mitgehen wuerde sie trotzdem", Aktplan „Setup fuer K36 Runa folgt unbemerkt"). Sie beobachtet aus den Linden am Garten-Rand — Alphina/Sorel/Vesper/Maren sehen sie nicht. K37 (Runa-POV) loest ihre Verfolgungs-Sequenz ein.
+- *Operative Aufstellung beginnt:* Vesper, Maren, Sorel, Alphina an je einem Stein. Vesper-Nick als Beginn-Beat.
 - *Alphina laesst Sorels Hand los:* fuer die Aufstellung. Beat-Stichwort, kein Pathos.
 - *Schluss-Beat:* Sinnesempfindung (Stein unter Sohlen, Sterne, Schemen-Augen am Rand). Cliffhanger zu K37.
 - *Premature-Doubt-Schranke:* KEIN Sorel-Tod-Vorgriff. Kein „letzter Blick", kein „dass es das letzte Mal war". Nur operativ: Hand loesen fuer Aufstellung.
@@ -133,10 +134,12 @@ Alphina schaut Sorel an. Letzter Blick im Kreis allein. Dann tritt sie zur Seite
 **Tschechow-Waffen geladen:**
 - **Hunderte Schemen-Augen am Garten-Rand** — Tschechow fuer K37 (waehrend des Rituals beobachten sie, koennen aber nicht hinein) und K40-Epilog (die Schemen verschwinden schlagartig, Varens Inszenierungen enden).
 - **Kreis-Licht** als sichtbare Sicherheits-Zone — Tschechow fuer K37 (die Vier nehmen Aufstellung an den Steinen, das Kreis-Licht wird im Ritual verstaerkt zum Tor).
-- **Vesper traegt Werkzeugrolle, Maren Werkzeug-Tasche, Runa drei Dinge** — Mitnahmen aus K34 operativ aktiv, Tschechow fuer Moragh-Ankunft K38.
+- **Vesper traegt Werkzeugrolle, Maren Werkzeug-Tasche + grosser Werft-Hammer** — Mitnahmen aus K34 operativ aktiv, Tschechow fuer Moragh-Ankunft K38. Marens Hammer als Werkzeug+Backup, weil sie nicht weiss, ob drueben Wasser ist.
+- **Runa heimlich in den Linden** (K37-Setup) — Tschechow-leise: niemand der Vier weiss, dass sie da ist. K37 (Runa-POV) zeigt ihre Verfolgungs-Sequenz und ihren Sprung durchs Tor im letzten Moment.
 
 **Tschechow-Waffen abgefeuert:**
-- K34 (Treffpunkt-Verabredung Steinkreis) — Vesper, Maren, Runa kommen, der Plan greift.
+- K34 (Treffpunkt-Verabredung Steinkreis) — Vesper und Maren kommen, der Plan greift.
+- K32-Schluss (Runa-Disziplin „Mitgehen wuerde sie trotzdem") — operativ aktiv, sie folgt heimlich, sichtbar erst K37.
 - K35 (Maren+Vesper-Nacht) — sie kommen aus der Hafengasse-Wohnung gemeinsam, das ist V/M-Anschluss-Beat (sie sind zusammen aufgewacht/aufgebrochen).
 - K32 (Runas drei Dinge) — sichtbar in ihrer Haltung am Kreis-Rand.
 - K05/K12/K28/K30 (alle Schemen-Bauarten) — alle vereinen sich am Garten-Rand. Die letzte Beobachtung der Vael-Schemen.
