@@ -39,39 +39,25 @@ Bereits in zeitleiste.json (ZEITSPRUNG 12. Glutmond) verankert:
 
 ---
 
-## Anatomie-Notiz (Réage-Vergleich, recherchiert in `buch/referenzen/Leseprobe Reage.txt`)
+## Anatomie-Notiz (Réage-Vergleich)
 
-Réage (deutsche Sailer-Übersetzung) benutzt **KEINE klinischen Wörter** — keine *Vulva*, keine *Klitoris*, kein *Anus*. Stattdessen poetisch-direkt:
+**Master-Register:** `buch/leseproben/36-anatomie-register-explizit.md` — vollständiges Wort-Register pro Anatomie-Bereich, Verbots-Liste, Anwendungs-Regeln, 15 Stil-Beispiele (3 Modi × 5 Akte) für explizite sexuelle Handlungen. Pflicht-Lese in /ausarbeitung Phase 1.
 
-| Bereich | Réage-Wortwahl | Anmerkung |
-|---|---|---|
-| Weibliches Geschlecht außen | *Schoß*, *Geschlecht*, *Lenden* | sehr häufig (~109× kombiniert mit *Schoß* und *Geschlecht*) |
-| Schamlippen außen | *Schamlippen* | direkt benannt (überraschenderweise) |
-| Innere Schamlippen | *Lippen* / *zarterer Lippen* | poetisch |
-| Klitoris | gar kein Wort — *„feiner Grat noch zarterer Lippen"* | Umschreibung |
-| Vulva-/Vaginal-Öffnung | *Spalte des Schoßes* | poetisch |
-| Anus / hinterer Bereich | gar kein Wort — *„Spalte ihrer Lenden"* / *„Lenden"* | indirekt-poetisch |
-| Brüste | *Brüste* | direkt |
-| Glied | *Glied* | direkt |
-| Eichel | *Spitze des Glieds* | poetisch |
-| Schenkel | *Schenkel* / *Innenseite ihrer Schenkel* | direkt |
+**K35-spezifisches Vokabular-Setting** (V/M-BDSM-Zone, Réage-primär):
 
-**Vokabular-Setting für /ausarbeitung K35** (Mix: Réage-poetische Verschiebung + moderne Klinik-Klarheit, wo Plot sie braucht):
-
-| K35 modern | Empfehlung K35 |
+| Bereich | K35-Empfehlung |
 |---|---|
-| Vulva | **Schoß** (Réage-poetisch, modern lesbar) |
-| Schamlippen | bleibt **Schamlippen** (Réage benutzt es) — innere Schamlippen poetisch *Lippen* |
-| Klitoris | bleibt **Klitoris** (modern; Réage-Umschreibung wäre antiquiert) |
-| Vulva-Öffnung | bleibt; einmalig im Höhepunkt-Beat *Spalte ihres Schoßes* als Réage-Echo erlaubt |
-| Anus | bleibt **Anus** (Klarheit; Réage-Umschreibung *Spalte der Lenden* wäre missverständlich) |
-| Damm | bleibt oder fällt |
-| Brustwarzen | bleibt |
-| Eichel | bleibt; einmalig *Spitze des Glieds* möglich |
-| Glied | bleibt |
-| Hinterregion / Genital generell | **Lenden** als Réage-Standard erlaubt (Verbot aufgehoben 2026-05-06) |
+| Vulva | **Schoß** (Réage-Standard, modern lesbar) |
+| Schamlippen | **Schamlippen** (außen, direkt) — innere Lippen poetisch *Lippen* |
+| Klitoris | **Klitoris** (modern; Umschreibung antiquiert) |
+| Vulva-Öffnung | bleibt; im Höhepunkt-Beat einmalig *Spalte ihres Schoßes* als Réage-Echo |
+| Anus (Klarheits-Kette) | erste Erwähnung: **Anus** / *Hinterteil* / *hintere Öffnung*; Folge-Erwähnungen: *Ring*, *Öffnung*, *Pforte*, *die enge Stelle*, *dort* |
+| Lenden | **erlaubt** (Memory `feedback_lenden_erlaubt.md`) — als Bereichswort im Réage-Stil |
+| Damm | bleibt |
+| Brustwarzen / Hof der Brüste | bleibt; *Hof der Brüste* als Réage-Echo möglich |
+| Glied / Spitze des Glieds | **Glied** Standard; *Spitze des Glieds* statt *Eichel* in Begehrens-Beats |
 
-**Verbots-Liste:** *Schaft, Muschi, Weiblichkeit*. *Lenden* ist Réage-Standard (~109× in Sailer-Übersetzung) und in V/M-BDSM-Zonen erlaubt — in Alphina/Sorel-Heat eher meiden (kitschig-Risiko).
+**Verbots-Liste:** *Schaft, Muschi, Möse, Fotze, Weiblichkeit, Rosette, Sphincter, Schächtchen/Pförtchen, Hintereingang*. Vollständige Liste mit Begründung im Register.
 
 ---
 
