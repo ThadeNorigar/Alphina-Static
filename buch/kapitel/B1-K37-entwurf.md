@@ -1,7 +1,7 @@
 # B1-K37 — Runa — Entwurf
 
 **POV:** Runa Kvist (3. Person nah, Praeteritum)
-**Timeline:** 2./3. Dunkelmond 551 TZ, spaeter Abend bis kurz nach Mitternacht. Druckerei (Oberstadt) → Sattlerstrasse → Botanischer Garten Vael (West-Rand-Zaunspalt → Lindengebuesch) → Steinkreis → Tor-Sprung → Moragh-Ankunft. Direkter Anschluss an K36 (Alphina+Sorel im Steinkreis, V/M-Eingang am Hauptweg, Heat-Echo-Pflanzen aussen). Spielt gleichzeitig mit dem K36-Cliffhanger und ueber den Sprung hinaus. Erstes Kapitel, das auf Moragh-Boden endet — MZ 0.
+**Timeline:** 2./3. Dunkelmond 551 TZ. Beginn: Druckerei am Tag des 2. Dunkelmond (nach schlafloser Nacht — K34-Sz3c). Aufbruch zum Garten in der Stunde vor Sonnenuntergang (Vespers Treffzeit aus K34-v5-Sz3c-Belauschen). Garten Vael erreicht über die Sattlerstrasse-Muendung, **vor Alphina+Sorel** am West-Rand-Zaunspalt, Lindengebuesch. Wartephase am Lindengebuesch durch den Abend und die Nacht (Treffen aller Vier → Aufstellung). Aktivierungs-Fenster 4:33 nach Mitternacht (3. Dunkelmond). Tor-Sprung als Letzte. Moragh-Ankunft MZ 0. **Direkter Anschluss an K34-Sz3c** (Runa hat gestern Nacht im Hafengasse-Treppenhaus die Vier belauscht, weiss Wann/Wo/Wer, hat seit dem Aufwachen Tarnung bereitgelegt, nicht geschlafen). **Direkter Anschluss an K36** (sie sieht Alphina+Sorel ab K36-Sz1 im Steinkreis aus den Linden, sieht V+M am Hauptweg ankommen — alles aus Lauer-Position).
 **Wortziel Ausarbeitung:** 4.000–4.500 W (Aktplan-Vorgabe 4.500)
 **Gaensehaut-Moment:** Sorels Tod aus drei Schritt Distanz. Klauen-Schlag von oben nach diagonal — Brust von der rechten Schulter bis zur linken Hueftknochen. Sorel faellt rueckwaerts aufs Stein-Pflaster, kein Schrei, kein letzter Atem. **In dem Moment, in dem er auf den Boden trifft, bricht Licht aus seiner Wunde** — sein Resonanz-Ende, ungerichtet, ohne Ziel. Sein Gesicht erscheint **kurz auf jeder hellen Flaeche** um ihn herum: auf den Stein-Platten, auf Alphinas Wange, auf den Klauen des Wesens. Dann Stille. Die Bilder verblassen. Runa sieht es als Erste. Sie hat keinen Begriff dafuer.
 
@@ -18,48 +18,57 @@
 
 ---
 
-## Szene 1 — Heimliche Verfolgung von der Druckerei zum Garten
+## Szene 1 — Druckerei-Tag, Aufbruch, Lindengebuesch
 
 **Wortziel:** 1.000–1.200 W
 
-**Drehpunkt-Beat (Sz1-Wendepunkt):** Runa hat aus dem Schaufenster Vesper und Maren beobachtet, wie sie aus der Hafengasse-Wohnung in die Sattlerstrasse einbiegen — Werkzeugrolle bei Vesper, in Sackleinen gewickelter Hammer auf Marens Ruecken. Sie steht hinter dem Setzkasten. Tarn arbeitet an einer Bestell-Anzeige im Hinterzimmer. Sie koennte ihn rufen, sie koennte ihm sagen, wohin sie geht. Sie ruft ihn nicht. Sie nimmt drei Dinge in die Innentasche ihres Wollmantels — Notizbuch (rotes Leinen), Zinnflasche, Bleilettern-Beutel —, schliesst die Tuer hinter sich, ohne zu schliessen. **Das ist der Moment, in dem sie ungebeten geht.** Maren hat in der Druckerei den Arm um sie gelegt und wieder weggenommen, ohne zu erklaeren. Heute Abend bricht sie mit Vesper auf, ohne sie zu rufen. Runa folgt trotzdem.
+**Drehpunkt-Beat (Sz1-Wendepunkt):** Runa hat seit gestern Nacht alles bereitliegen (K34-Sz3c-Anschluss). Sie hat in der Treppenhaus-Lauschsequenz erfahren: Steinkreis, eine Stunde vor Sonnenuntergang, die Vier. Sie hat in der Druckerei nicht geschlafen. Tag des 2. Dunkelmond: sie tut den ueblichen Druckerei-Tagesablauf — sie laesst Tarn nach dem Mittag gehen mit der Auskunft, sie wolle vor dem Aufbruch der Schemen-Patrouille noch eine Setz-Korrektur fertig machen (operative Luege ohne Pathos, sie sagt sie nicht laut, sie schreibt ihm einen Zettel auf den Setzkasten). Eine Stunde vor Sonnenuntergang ist sie allein in der Druckerei. Verbsequenz: **Joran-Mantel ueberziehen** (er hing seit zwei Wochen am Haken, schwarz, breiter geschnitten als ihre eigenen — sie nimmt ihn weil er da ist und in der Daemmerung nicht auffaellt; kein Pathos, kein Symbol-Wort). **Stiefel anziehen.** **Laterne** (mit halbem Brennstoff) **vom Haken**. **Drei Druck-Maerker** (Berufsreflex — sie weiss nicht, warum sie Setzer-Werkzeug einpackt, sie tut es trotzdem) **in die Innentasche**. Plus drei Dinge K32 (Notizbuch rotes Leinen, Zinnflasche, Bleilettern-Beutel — die traegt sie immer). Halvards Pistole steht im Studierzimmer. Sie geht nicht hin (K34-Sz3c-Beat: doppelt verankert). **Sie schliesst die Tuer hinter sich, dreht den Riegel** — sie weiss, dass sie heute nicht zurueckkehrt vor Mitternacht, vielleicht nie. Drehpunkt-Innenbeat: Tarn-nicht-Informieren ist nicht mehr Spontan-Akt wie es ein Beobachter denken koennte. Es ist bewusster Akt nach 12+ Stunden Vorbereitung.
 
-Sie folgt dem Paar durch die Sattlerstrasse Richtung Stadtmauer mit mehreren Schritt Abstand. Gaslampen-Schein faellt schraeg auf Pflaster, das im Dunkelmond zum ersten Mal seit Wochen trocken war. Sie bleibt in Hauseingaengen stehen, wenn sie sich umsehen. Ankunft am Botanischen Garten kurz vor Mitternacht. Statt durch den Hauptzugang nimmt sie den Zaun-Spalt am West-Rand — den sie im Erntemond bei einer Schemen-Beobachtung entdeckt hatte. Sie klettert hindurch, hockt sich ins Lindengebuesch am Garten-Rand. Der Steinkreis liegt zwanzig Schritt entfernt, durch die Staemme sichtbar. Alphina und Sorel sind schon dort, im Kreis stehend. Auf dem Hauptweg kommen Vesper und Maren herunter.
+Sie geht nicht durch die Sattlerstrasse Vesper+Maren hinterher. Sie weiss, wo sie zu sein hat. Sie nimmt die kuerzeste Route Druckerei → Sattlerstrasse-Muendung → Westflanke des Botanischen Gartens. Gaslampen werden eingezuendet, als sie auf der Strasse ist; das Licht faellt schraeg auf Pflaster, das im Dunkelmond zum ersten Mal seit Wochen trocken war. Sie kommt am West-Rand-Zaunspalt an, den sie im Erntemond bei einer Schemen-Beobachtung entdeckt hatte (K32-Anker). Sie klettert hindurch, hockt sich ins Lindengebuesch am Garten-Rand. Der Steinkreis liegt zwanzig Schritt entfernt, durch die Staemme sichtbar. **Sie ist vor allen anderen da.** Wenig spaeter: **Alphina und Sorel kommen ueber den Hauptweg** (K36-Sz1-Anschluss aus Runas Sicht). Sie sieht beide zum ersten Mal seit Wochen aus der Naehe. Sie hockt still. Sie schaut. Sie wird nicht gesehen.
 
 **Dialog-Informationen:**
-- *Setting:* 2. Dunkelmond 551 TZ, spaeter Abend in der Druckerei → ueber die Sattlerstrasse zum Botanischen Garten → kurz vor Mitternacht im Lindengebuesch. Strecke Druckerei-Garten ist als Vael-Geographie etabliert.
-- *Was Runa aus der Druckerei beobachtet hat:* sie hat seit Wochen die Vier registriert (K05/K15-Erstkontakt, K25-Alphina-Begegnung, K32-Maren-wusste). Heute Abend hat sie V+M aus der Hafengasse-Wohnung aufbrechen sehen — Werkzeug, Hammer, Maentel. Plot-Trigger: sie weiss, dass heute Nacht etwas passiert.
-- *Drei Dinge bei sich:* Notizbuch (rotes Leinen, Liste-Anker), Zinnflasche, Bleilettern-Beutel. K32-Canon. Beat-Inhalt: sie traegt sie immer seit Joran starb.
-- *Tarn nicht informieren — Sz1-Drehpunkt:* sie steht hinter dem Setzkasten, koennte ihn rufen, ruft ihn nicht. Schliesst die Tuer hinter sich, ohne zu schliessen. Beat-Inhalt: das ist der aktive Verbsequenz-Moment, in dem Runa zur Aussenseiterin wird. Nicht „sie geht heimlich" als Zustand, sondern: sie ruft Tarn nicht, sie schliesst nicht, sie traegt drei Dinge in der Tasche, sie geht — vier Verben in Folge. Das ist Runas Sprach-Signatur und der Reibungs-Kern der Szene.
-- *Maren-K32-Anker (Joran-Echo, Sub-Text):* Maren hat in der Druckerei den Arm um sie gelegt und wieder weggenommen, ohne zu erklaeren. Heute bricht sie mit Vesper auf, ohne sie zu rufen. Beat-Inhalt: das ist Verletzung, die nicht ausgesprochen wird — sie folgt **trotzdem**. Premature-Doubt-Schranke streng: keine innere Klage, keine Glosse, kein „warum nicht". Nur die Geste-Reihe Tarn-nicht-rufen → Tuer-nicht-schliessen → drei Dinge → folgen.
-- *Sattlerstrasse-Verfolgung:* mehrere Schritt Abstand, Hauseingaenge, Mantel um den Schulter-Knopf gezogen. Sie haelt sich an Schritt-Geraeuschen orientiert. Vesper und Maren sehen sich zweimal um — sie verharrt. Beat-Inhalt: sie kann das, weil sie es seit Erntemond uebt (Recherche-Druckerei-Routine).
-- *West-Rand-Zaun-Spalt:* sie kennt ihn aus Erntemond-K32-Schemen-Beobachtung. Plot-Anker etabliert: sie hat damals einem Schemen am Garten-Rand gefolgt und den Spalt entdeckt. Beat-Inhalt: sie geht nicht durch den Hauptzugang, weil sie gesehen wuerde.
+- *Setting:* 2. Dunkelmond 551 TZ. Druckerei-Tag → Stunde vor Sonnenuntergang Aufbruch → Westflanke Botanischer Garten → Linden vor allen anderen.
+- *Runa-Wissen aus K34-Sz3c (gestern Nacht im Treppenhaus belauscht):* Vespers *„Vier am Stein, zwei hindurch"* + *„Morgen Abend gehen wir."* + Sorels *„Wir wissen nicht, ob es drueben Licht gibt. Wir wissen nicht, ob es Pflanzen gibt. Wir wissen nicht, ob es Wasser gibt."* + Vespers *„Steinkreis. Eine Stunde vor Sonnenuntergang."* Plus Maren-Operatives ueber Werkzeug/Hammer/Wasser, das sie nicht vollstaendig fassen konnte. Sie hat das Wort *„Quelle"* einmal gehoert, registriert aber als fremde Vokabel von „denen da oben".
+- *Was Runa NICHT durch Belauschen weiss:* Mitnahmen pro Person (zu leise / Sz2 lief, als sie schon weg war). Anti-Schemen-Mathematik (nur Bruchstuecke). Lene/Haron-Quellen-Trennung. Heat-Echo-Mechanik (kein Wort heute Abend darueber). Vespers Karst-26-Uhren-Anker. Den Begriff *„Tor"* (Vesper sagt ihn — Runa hat ihn nicht aktiv uebernommen).
+- *Tarn nicht informieren — Drehpunkt nach Vorbereitung, nicht Spontan-Akt:* Tarn arbeitet im Hinterzimmer am Mittag. Runa schickt ihn weg mit Zettel auf den Setzkasten („vor der Schemen-Patrouille noch Setz-Korrektur fertig machen"). Eine Stunde vor Sonnenuntergang ist sie allein. Sub-Text: bewusster Akt nach 12+ Stunden Vorbereitung, nicht Spontan-Reflex aus dem Moment.
+- *Verb-Sequenz Aufbruch (bewusst, nicht spontan):* Joran-Mantel ueberziehen → Stiefel anziehen → Laterne (halber Brennstoff) vom Haken → drei Druck-Maerker in die Innentasche → drei Dinge K32 zusaetzlich (Notizbuch rotes Leinen, Zinnflasche, Bleilettern-Beutel) → Tuer hinter sich schliessen, **Riegel drehen** (anders als sie sonst die Tuer schliesst — sie weiss, sie kommt nicht zurueck vor Mitternacht, vielleicht nie).
+- *Joran-Mantel-Beat:* schwarz, breiter geschnitten als ihre eigenen Maentel, hing seit zwei Wochen am Haken (K30-Trauer-Schwere — er ist nicht weggeraeumt worden). Sie nimmt ihn als Tarnung in der Daemmerung — kein Pathos, kein Symbol-Wort. Beat-Inhalt: er ist da, sie traegt ihn. Ein Teil von ihr will ihn dabei haben. Erzaehler bleibt strikt bei Beobachtung — keine Ueberhoehung, keine Joran-Erinnerungs-Glosse.
+- *Halvards Pistole im Studierzimmer:* sie geht NICHT hin (K34-Sz3c-Doppelt-Anker). Memory-Direktive 2026-05-06: weder die Vier noch Runa nehmen die Pistole. Setup K40.
+- *Druck-Maerker:* Berufsreflex. Sie weiss nicht, warum sie Setzer-Werkzeug einpackt. Tschechow-Setup (Verortung siehe Tschechow-Block).
+- *Strecke v3 — direkt zum Garten, NICHT V+M hinterher:* sie weiss aus dem Belauschen, wo sie zu sein hat. Sie nimmt die kuerzeste Route Druckerei → Sattlerstrasse-Muendung → Westflanke. Sie ist VOR Alphina+Sorel und vor V+M am Zaun-Spalt. Gaslampen werden eingezuendet, als sie auf der Strasse ist; Pflaster im Dunkelmond zum ersten Mal seit Wochen trocken.
+- *West-Rand-Zaun-Spalt:* Erntemond-K32-Schemen-Beobachtungs-Anker. Sie geht nicht durch den Hauptzugang, weil sie gesehen wuerde.
 - *Linden-Position:* zwanzig Schritt vom Steinkreis entfernt, durch Staemme verdeckt. Sicht-Linie zum Kreis ist klar.
-- *Was sie im Kreis sieht:* Alphina + Sorel stehen schon im Kreis. K36-Anschluss. Sie sieht beide. Sie versteht nicht, was sie tun.
-- *Was sie auf dem Hauptweg sieht:* Vesper und Maren kommen den Hauptweg herunter zum Steinkreis. Sie sieht die Aufstellung beginnen.
-- *Innenbeat — Wahrheit-Folgen-Reflex (positiv-aktiv):* Runa-Charakter (Schreibblatt §3, „Wenn sie eine Luege erkennt, fragt sie nicht nach Schutz, sondern nach Beweisen"). Sie folgt, weil hier eine Wahrheit ist, die sie sehen muss. Druckerin-Aktiv-Reflex, kein Vermeidungs-Zustand. Beat-Inhalt: sie ist Recherche-im-Koerper.
-- *Haende warm:* durchgehend, ohne dass sie es deutet. Magie-Marker (Stufe 1-2 unbewusst, K25/K32-Bewusstsein etabliert).
-- *Was Runa NICHT weiss:* dass die Vier ein Tor oeffnen wollen. Dass es eine andere Welt gibt. Dass es einen Mann gibt, der auf der anderen Seite wartet. Dass Maren einen Hammer mitnimmt, weil sie nicht weiss, ob drueben Wasser ist.
+- *Was sie zuerst sieht:* nichts. Sie ist die Erste am Garten. Spaeter: Alphina+Sorel kommen ueber den Hauptweg (K36-Sz1-Anschluss aus Runas Sicht).
+- *Innenbeat — Wahrheit-Folgen-Reflex (Druckerin-Charakter, gewandelt v3):* Schreibblatt §3 — „Wenn sie eine Luege erkennt, fragt sie nicht nach Schutz, sondern nach Beweisen." Sie folgt aktiv. Sie versteht die Logik des Nicht-Eingeladenseins (ihre Hitze ist neu, unkontrolliert, Marktplatz-Zusammenbruch — alles K31). Sie akzeptiert die Logik nicht — aber sie folgt nicht aus Verletzung, sondern weil hier eine Wahrheit ist, die sie sehen muss. Druckerin-Aktiv-Reflex.
+- *Maren-K32-Anker als Sub-Text (gewandelt v3):* der Arm-um-Schulter-und-wieder-weg-Beat aus K32 traegt unter dem Joran-Mantel — niemand sieht das, sie selbst registriert es nur an dem breiteren Schnitt des Mantels. Premature-Doubt-Schranke streng.
+- *Haende warm:* durchgehend, ohne dass sie es deutet. Magie-Marker (Stufe 3 nach K35-Zeitsprung-Training, kein offensives Repertoire — Memory `pov/runa.md` Stufen-Tabelle).
+- *Sorel-Linse:* nicht Sorel-POV. Runa sieht Sorel als „der bei Alphina" / „der mit dem Licht" (sie hat das Licht aus seinen Haenden noch nicht gesehen, Heat-Echo-Mechanik nicht gehoert). Im Lindengebuesch: er ist „der bei Alphina".
+- *Was Runa NICHT weiss (Sorel-Prinzip):* dass die Vier ein Tor oeffnen wollen (sie hat das Wort „Tor" einmal gehoert, uebernimmt es nicht aktiv — sagt intern „Schwelle" / „Riss" / „Oeffnung"). Dass es eine andere Welt gibt. Dass es einen Mann gibt, der wartet. Dass Sorel sterben wird. Dass das Heat-Echo Alphinas Begehren ist (sie sieht die Pflanzen aus K36, deutet sie nicht).
 
 **Tschechow-Waffen geladen:**
-- **Drei Dinge in der Innentasche** (Notizbuch, Zinnflasche, Bleilettern-Beutel) — Tschechow durch B1/B2/B3, Notizbuch ist B3-Drael-Sturz-Werkzeug.
-- **Wollmantel mit Innentasche** — Tschechow als wiederkehrendes Bewegungs-Detail (auch in Moragh, B2-Halvaren).
-- **Haende warm** — Magie-Marker, eskaliert nach K38 (Brombeer-Schnitte als Verbuendeten-Verletzung) und in B2 zur Stufe 4-7-Manifestation.
-- **Lindengebuesch und Zaun-Spalt** — Tschechow fuer K40-Epilog (Tohl/Halvard sehen den Kreis dunkel zurueck — der Zaun-Spalt bleibt offen, dokumentiert).
+- **Drei Dinge in der Innentasche** (Notizbuch rotes Leinen, Zinnflasche, Bleilettern-Beutel) — Tschechow durch B1/B2/B3, Notizbuch ist B3-Drael-Sturz-Werkzeug.
+- **Jorans schwarzer Mantel als Tarnung** (NEU v3) — Tschechow fuer K38 (Verbrennung im Bröseleffekt durch Alphinas Brombeer-Ranken? Symbolik ohne Erzaehler-Glosse) und ggf. B2 (Mantel-Verlust-Beat in Halvaren). Der Mantel verbindet Joran-Tod (K32) und Sorel-Tod (K37) als stille Doppel-Geste.
+- **Drei Druck-Maerker in der Innentasche** (NEU v3) — Berufsreflex. Tschechow-Verortung: Runa zeichnet vor dem Sprung in Sz2 unbewusst eine Markierung in den Kies neben dem leeren Stein, durch den sie laeuft (oder am Zaun-Spalt). Setup K40-Voss-Recherche (Jara findet die Maerker — Spur, dass jemand fuenftes da war). Konkrete Verortung: ein Markierungs-Beat in Sz2 vor dem Sprung. Bei Autor-Bedarf alternativ K38-Moragh-Boden-Markierung.
+- **Laterne mit halbem Brennstoff** — bleibt am Zaun-Spalt zurueck (sie nimmt sie nicht durchs Tor mit, B2-Beat fuer Tohl/Halvard-Recherche).
+- **Haende warm** — Magie-Marker, eskaliert nach K38 (Brombeer-Schnitte als Verbuendeten-Verletzung).
+- **Lindengebuesch und Zaun-Spalt** — Tschechow fuer K40-Epilog (Tohl/Halvard sehen den Kreis dunkel zurueck; Spuren am Zaun-Spalt + Druck-Maerker = Voss-Archiv-Setup).
 
 **Tschechow-Waffen abgefeuert:**
-- K32-Schluss „Mitgehen wuerde sie trotzdem" — operativ aktiv. Sie folgt ungebeten.
+- K34-Sz3c-Belauschen — operativ aktiv. Runa kennt Wann/Wo/Wer.
+- K32-Schluss „Mitgehen wuerde sie trotzdem" — operativ aktiv. Sie folgt ungebeten und bewusst.
 - K32 drei Dinge bei sich — Canon-Anker.
 - K32 Erntemond-Schemen-Beobachtung am West-Rand → Zaun-Spalt-Wissen — operativ.
-- K32 Maren-wusste-was-Runa-war — Innenbeat (Verletzung, dass sie trotzdem nicht eingeladen wurde).
-- K34 Anti-Schemen-Vorbereitung Werft-Hammer + Saatgut — Runa sieht den Hammer auf Marens Ruecken (sie weiss nicht, was er bedeutet, registriert nur).
-- K35 V/M-Hafengasse-Wohnung-Anker — operativ aktiv (V+M kommen heute Abend von dort).
+- K30 Joran-Tod (Mantel-Anker) — abgefeuert als stille Geste, ohne Glosse.
+- K31 Marktplatz (Hitze offen) — interne Begruendung „warum nicht eingeladen", operativ.
+- K32 Maren-wusste-was-Runa-war — Sub-Text unter dem Joran-Mantel.
+- K35 V/M-Hafengasse-Wohnung-Anker — Belauschen ueber den Tuerspalt.
 
 **Cross-POV-Ankerpunkte:**
+- **K34-Sz3c (Runa-POV, gestern Nacht):** direkter Anschluss. Belauschen → Vorbereitung → heute am 2. Dunkelmond ohne Schlaf. K37-Sz1 setzt mit Druckerei-Tag des 2. Dunkelmond an.
 - K32 (Runa-POV): Schemen-Angriff in der Druckerei, eigene-Haut-immun-Erkenntnis, Bleilettern-Halbmond. Heute traegt sie die drei Dinge.
-- K34 (Vesper-POV): Vesper plant Anti-Schemen-Vorbereitung, weiss nicht von Runas Verfolgung.
-- K35 (Maren-POV): Maren bricht aus der Hafengasse-Wohnung mit Hammer auf, weiss nicht, dass Runa zusieht.
-- K36 (Alphina-POV Sz3): Vesper+Maren kommen den Hauptweg herunter — aus Alphinas Sicht. Hier aus Runas Sicht aus den Linden gespiegelt.
+- K34 (Vesper-POV-Sz1+Sz2): Anti-Schemen-Vorbereitung, weiss nicht von Runas Belauschen.
+- K35 (Maren-POV): Maren bricht aus der Hafengasse-Wohnung mit Hammer auf, weiss nicht, dass Runa belauscht hat.
+- K36 (Alphina-POV Sz1+Sz3): Alphina+Sorel kommen ueber den Hauptweg, Heat-Echo-Pflanzen aussen. K37-Sz1 spiegelt das aus Runas Linden-Position.
 
 ---
 
@@ -71,7 +80,7 @@ Runa beobachtet aus dem Lindengebuesch. Die Pflanzen ausserhalb des Steinkreises
 
 Vier Resonanzen synchronisieren auf das 4:33-Fenster. Runa sieht zuerst Sorels Licht — duenn, scharfgerandet, aus seinen Handflaechen; dann sieht sie es koerperlich, als das Licht durch die Linden zwischen ihre Hand und den Stamm faellt. Das ist der Beat, der sie trifft. Wedel wachsen vor Alphinas Stein. Wasser laeuft an Marens Stein in Bahnen. Bei Vesper merkt Runa nur, dass ihre eigene Atemlaenge rutscht — kurz zu kurz, dann zu lang. In der Mitte der drei leeren Steine bricht der Boden auf — keine Gruft, kein Riss: eine Schwelle, glatt, in der Luft. Auf der anderen Seite: andere Erde, fremde Halme, zwei Monde klein und hoch.
 
-Vesper geht zuerst durch (er traegt den Takt), dann Sorel, dann Maren, dann Alphina als letzte. Tor bleibt offen — Vespers Pendel-Uhr im Garten zeigt das Fenster. **Runas Beine sind aufgestanden, bevor ihr Kopf ja sagt.** In dem Moment, als Alphinas Ferse durch die Schwelle tritt, ist Runa schon im Lauf — die zwanzig Schritt durchs Lindengebuesch, ueber den Kies, durch zwei der leeren Purpursteine. Die Waerme zwischen Daumen und Zeigefinger zieht ohne dass sie sie ruft. Sie springt im letzten Moment durchs Tor.
+Vesper geht zuerst durch (er traegt den Takt), dann Sorel, dann Maren, dann Alphina als letzte. Tor bleibt offen — Vespers Pendel-Uhr im Garten zeigt das Fenster. Runa hat seit Stunden in den Linden gehockt, sie ist seit gestern Nacht auf den Sprung positioniert (Sz3c-Anschluss). **Beine sind aufgestanden, bevor ihr Kopf ja sagt.** Der Reflex ist nicht Erkenntnis, sondern Ausloeser eines vorbereiteten Akts. In dem Moment, als Alphinas Ferse durch die Schwelle tritt, ist Runa schon im Lauf — die zwanzig Schritt durchs Lindengebuesch, ueber den Kies. Auf halbem Weg, vor dem leeren Purpurstein im Kreis, **drueckt sie unbewusst einen Druck-Maerker mit dem Daumen in die feuchte Erde am Stein-Sockel** — Berufsreflex, sie merkt es nicht. Ein zweiter Maerker rutscht ihr aus der Innentasche, faellt ins Lindengebuesch zurueck. Beide bleiben. Die Waerme zwischen Daumen und Zeigefinger zieht, ohne dass sie sie ruft. Sie springt im letzten Moment durchs Tor. Innen-Beat im Schritt durch die Schwelle: das fremde Wort *„Quelle"* aus dem Belauschen vorgestern — sie denkt es zum ersten Mal aktiv, weil sie selbst gerade durch die Schwelle tritt. Distanz-Beat: das Wort der Vier wird zu ihrem Wort.
 
 **Dialog-Informationen:**
 - *Pflanzen ausserhalb des Kreises:* bereits gewachsen aus K36 (Heat-Echo Alphina), kein aktives Wachsen jetzt — Memory `feedback_keine_spukgeschichte.md`: Passiv-Effekte nur mit Urheberin, hier Alphina-K36 als Urheberin. Runa sieht das Statische, registriert die Anomalie, deutet nicht.
@@ -86,9 +95,11 @@ Vesper geht zuerst durch (er traegt den Takt), dann Sorel, dann Maren, dann Alph
 - *Tor-Oeffnung:* in der Mitte der drei leeren Steine bricht der Boden auf — als Schwelle ohne Rahmen, Schwelle, durch die man auf die andere Seite sieht. Auf der anderen Seite: andere Erde, fremde Halme, zwei Monde. Plot-Beat aus Memory `project_zwei_monde_moragh.md` und Canon-Kompakt (4:33-Fenster, Steinkreis als Aktivierungspunkt).
 - *Reihenfolge:* Vesper → Sorel → Maren → Alphina (status.json-Plot). Sorel geht vor Alphina (K30-Schwur-Reflex, er stellt sich zwischen sie und Welt). Operativ.
 - *Tor bleibt offen:* 4:33-Fenster laeuft. Pendel-Uhr im Garten zeigt es.
-- *Runas Wartezeit kurz, kein langes Schwanken:* sie sieht zu, sie sieht die Vier durchgehen. Vesper, Sorel, Maren. Beat-Inhalt: keine rationale Abwaegung — sie ist Druckerin, sie folgt Wahrheit, wenn sie sie sieht.
-- *Entscheidung als Koerper-Reflex (KAYA + MEIKE + NORA-Konvergenz):* in dem Moment, als Alphinas Ferse durch die Schwelle tritt, sind Runas Beine schon aufgestanden, bevor ihr Kopf ja sagt. Beat-Inhalt: kein Entschluss, ein Impuls. **Die Waerme zwischen Daumen und Zeigefinger zieht ohne dass sie sie ruft** — Magie-Marker aktiviert sich zum ersten Mal seit K32 unbewusst, treibt den Sprung. Sie spricht nicht. Niemand der Vier sieht sie.
+- *Runas Wartezeit (v3 Anpassung):* sie ist seit Stunden in den Linden, seit gestern Nacht auf diesen Moment positioniert. Sie sieht zu, sie sieht die Vier durchgehen. Vesper, Sorel, Maren. Beat-Inhalt: keine rationale Abwaegung — der Sprung ist seit gestern Nacht beschlossen, der Reflex jetzt ist Ausloeser des vorbereiteten Akts.
+- *Entscheidung als Koerper-Reflex (KAYA + MEIKE + NORA-Konvergenz, gewandelt v3):* in dem Moment, als Alphinas Ferse durch die Schwelle tritt, sind Runas Beine schon aufgestanden, bevor ihr Kopf ja sagt. Reflex ist nicht Erkenntnis, sondern Ausloeser. **Die Waerme zwischen Daumen und Zeigefinger zieht ohne dass sie sie ruft** — Magie-Marker. Sie spricht nicht. Niemand der Vier sieht sie.
+- *Druck-Maerker-Verortung (NEU v3):* auf dem zwanzig-Schritt-Lauf zwischen Linden und Tor steckt sie unbewusst einen Druck-Maerker mit dem Daumen in die feuchte Erde am Sockel eines leeren Purpursteins (Berufsreflex, sie merkt es nicht). Ein zweiter rutscht ihr aus der Innentasche und bleibt im Lindengebuesch zurueck. Beide bleiben in Vael. Tschechow: K40-Voss-Recherche (Jara findet die Maerker — Spur, dass jemand fuenftes da war, Druckerei-Werkzeug eindeutig). Plot-Funktion: stiller Bezug zwischen Runas Welt-Berufslinse und der zurueckgelassenen Welt.
 - *Sprung im letzten Moment:* zwanzig Schritt durchs Lindengebuesch, ueber den Kies, durch zwei der leeren Purpursteine, dann durchs Tor. Plot-Beat: das Tor schliesst sich kurz nach ihr.
+- *„Quelle"-Vokabel-Uebernahme im Schritt durch die Schwelle (NEU v3):* in dem Moment, in dem Runa durch die Schwelle tritt, denkt sie zum ersten Mal aktiv das Wort *„Quelle"* (Belauschen K34-Sz3c — bisher fremde Vokabel von „denen da oben"). Innerer Distanz-Beat: das Wort der Vier wird ihr Wort, weil sie selbst durch die Schwelle steht. K38/B2-Setup fuer ihre eigene Sprach-Wandlung. Prosa-Pflicht: das Wort darf intern in Anfuehrungszeichen erscheinen, aber nicht als Erzaehler-Glosse.
 - *Haende warm:* Runa spuert die Waerme zwischen Daumen und Zeigefinger durchgehend, ohne dass sie sie aktiv einsetzt. Magie unaktiviert in dieser Szene.
 - *Was Runa nicht weiss:* dass das Tor sich nach 4:33 schliesst, dass es eine Welt namens Moragh ist, dass Varen wartet. Sie sieht eine Schwelle, sie sieht zwei Monde, sie weiss, dass sie nicht zurueckwill.
 
@@ -97,7 +108,7 @@ Vesper geht zuerst durch (er traegt den Takt), dann Sorel, dann Maren, dann Alph
 - **Schwelle ohne Rahmen + andere Welt zeigt sich** — Welt-Mechanik etabliert, Tschechow fuer B2-Akt-IV-Tor-Oeffnung umgekehrt (von Moragh nach Thalassien, Halvara-Kel).
 - **Zwei Monde** — Welt-Marker, Tschechow fuer K38 (Alphinas Erst-Wahrnehmung Moragh) und ganzen B2/B3-Bogen.
 - **Pendel-Uhr Vespers** — Werkzeug-Anker, Tschechow fuer Moragh (Vesper hat sie dabei, sie geht als einzige Praezisions-Mechanik mit).
-- **Werft-Hammer Marens** (in Sackleinen) — Tschechow als **Marens Planungs-Irrtum**: sie weiss in K34 nicht, dass in Moragh kein Handwerk noetig ist (alles per Resonanz, Canon-Kompakt). Der Hammer wird in Moragh funktionslos — Tschechow-Enttaeuschung in K38/K39 (er liegt da, sie braucht ihn nicht; Marens Wasser-Resonanz traegt). Plot-Funktion: zeigt Marens Vael-Vorbereitung-Begrenzung, nicht ihre Inkompetenz. Sie hatte recht zu planen, sie hat falsch geplant.
+- **Werft-Hammer Marens** (in Sackleinen) — Tschechow fuer K38/K39 als legitimes Werkzeug-Backup. Werkzeuge funktionieren in Moragh physikalisch wie in Vael; in der Praxis wird schwere Arbeit dort durch Schemen oder Magie verrichtet, aber das macht den Hammer nicht funktionslos. Maren-Charakter: sie kennt das Gewicht des Hammers (Werft-Anker), sie nimmt mit, was wirkt. Sub-Text: sie weiss noch nicht, ob sie drueben Wasser greifbar hat, also nimmt sie ein Werkzeug, das ohne Resonanz arbeitet.
 - **Saatgut-Beutel an Alphinas Mantel** — Runa sieht ihn auf Alphinas Hueftgurt, registriert ohne zu deuten. Tschechow fuer K38/K39 (Pioniergut, Heilkraeuter, Lavendel).
 
 **Tschechow-Waffen abgefeuert:**
@@ -121,7 +132,7 @@ Vesper geht zuerst durch (er traegt den Takt), dann Sorel, dann Maren, dann Alph
 
 **Wortziel:** 1.500–1.800 W
 
-Runa kommt durch das Tor. Erste Sekunden auf der anderen Seite: Tableau. Die Vier stehen fixiert auf einem flachen Stein-Boden — Sorel vor Alphina, Maren neben Sorel, Vesper hinter ihnen. Sie koennen sich nicht bewegen. Ein Mann steht in drei Schritt Abstand zur Gruppe, in dunklem Mantel, einen Kopf groesser als Sorel, Hand an Alphinas Kinn, Konzentration auf der Bindung. **Im Schatten neben ihm, links versetzt, wartet ein Wesen** — pferdgross auf Hinterbeinen, vier Arme, Klauen wie Schlachtmesser, schwarze Augen ohne Lid. Es ist die ganze Zeit dort gewesen, unsichtbar im Schatten, weil der Mann zum Reden gekommen war. Niemand spricht. Die Luft ist dichter als zu Hause, mineralisch, fremd. Zwei Monde stehen am Himmel.
+Runa kommt durch das Tor. Erste Sekunden auf der anderen Seite: Tableau. Die Vier stehen fixiert auf einem flachen Stein-Boden — Sorel vor Alphina, Maren neben Sorel, Vesper hinter ihnen. Sie koennen sich nicht bewegen. Ein Mann steht in drei Schritt Abstand zur Gruppe, in dunklem Mantel, einen Kopf groesser als Sorel, Hand an Alphinas Kinn, Konzentration auf der Bindung. **Im Schatten neben ihm, links versetzt, wartet ein Wesen** — pferdgross auf Hinterbeinen, vier Arme, Klauen wie Schlachtmesser, schwarze Augen ohne Lid. Es ist die ganze Zeit dort gewesen, unsichtbar im Schatten, weil der Mann zum Reden gekommen war. Niemand spricht. Die Luft ist dichter als zu Hause, mineralisch, fremd. Zwei Monde stehen am Himmel. Runa registriert das Innenfutter des Joran-Mantels an ihren Handgelenken — Wolle innen, breiter geschnitten als ihre eigenen Maentel, eine Stelle wo bei Joran die Hemdaermel ueberstanden. Sie sagt das Wort nicht.
 
 Runa steht auf der Schwelle, drei Schritt von der Gruppe entfernt. Der Mann sieht sie. Er hatte mit ihr nicht gerechnet. **Seinen Blick auf Runa, den er fuer einen Atemzug haelt** — sie sieht in seinen Augen kein Erschrecken, keine Reaktion, nur Verschiebung: er rechnet sie ein. Seine Konzentration bricht. Die Bindung broeselt. Sorel kann sich bewegen — er wirft sich nach vorn auf den Mann, beide Haende greifen den Mantel-Aufschlag, will ihn von Alphina loesen.
 
@@ -146,21 +157,25 @@ Runa sieht es aus drei Schritt Distanz. Sie kann nichts tun. Der Mann tritt eine
 - *Haende warm:* durchgehend, in Sz3 leicht intensiver gezogen (Magie-Marker, aber unaktiviert — sie hat keinen Trigger fuer Stufe-3-Magie gegen ein Velmar-Schutzschemen). Premature-Doubt-Schranke streng: keine Vorausdeutung von B2-Stufe-4.
 - *Mann tritt zurueck:* nach Sorels Tod loest er die Hand vom Kinn Alphinas. Beat-Inhalt: er hat verloren, was er fixiert hatte — die Bindung war ohnehin gebrochen. Aktiver Beat aus seiner Sicht: er beobachtet, was passieren wird (Sub-Text — er wartet auf Alphina-Reaktion; in K38 sichtbar).
 - *Schluss-Beat (MEIKE-Finding: Runa-Koerper, nicht fremde Aktion):* Alphinas Mund oeffnet sich. Das Kapitel endet **bevor der Schrei kommt**. Letzter POV-Anker bleibt aber bei Runa: ihre Atmung haelt an, ihr Handgelenk-Schlag wird hoerbar, sie spuert die Stein-Platte unter den Sohlen anders als jeden Boden, den sie kennt — fremd, koernig, falsch. Das ist der letzte Beat. Cliffhanger zu K38 (Alphinas Schrei + Resonanz-Ausbruch ist K38-Anfang).
+- *Joran-Mantel-Innenfutter (NEU v3, MEIKE-Sorel-Licht-Koerperstelle alternativ):* in Sz3 traegt sie den Mantel mit dem Innenfutter an ihren Handgelenken — Wolle innen, breiter geschnitten als ihre eigenen Maentel. Eine Stelle, wo bei Joran die Hemdaermel ueberstanden. Beat-Inhalt: stilles Echo der Joran-Schemen-Wunden — kein Erzaehler-Wort, nur Stoff am Handgelenk. Fuer /ausarbeitung: das Wort „Joran" darf in Sz3 nicht fallen. Maximal eine Hemdaermel-Stelle als koerperlicher Sub-Text. Doppel-Beat: Maren-K32-Echo (Arm-um-Schulter) UND Joran-Tod-Echo (Mantel-am-Haken-K32) — beide unter dem Mantel-Stoff, beide ohne Glosse.
 - *Was Runa NICHT weiss:* dass der Mann Varen heisst. Dass sein Wesen ein Schutzschemen ist. Dass das, was sie gerade gesehen hat, eine Resonanz-Kopplung war. Dass es eine Welt namens Moragh ist. Dass Alphina gleich Brombeer-Ranken aus dem Boden zwingt, deren Dornen Runas eigene Unterarme aufschneiden werden.
 
 **Tschechow-Waffen geladen:**
 - **Der Mann (Varen, namenlos in K37)** — Tschechow fuer alle B2/B3-Begegnungen mit ihm. Erstkontakt aus Runa-POV.
 - **Schutzschemen pferdgross vier Arme Klauen Augen-ohne-Lid** — Tschechow fuer B2 (Velmar-Bauart wiederbegegnet); Memory `project_schemen_magie_modi.md`.
-- **Sorels Licht beim Sterben** — Tschechow fuer B3 (Alphina erinnert sich an dieses Bild als Form-Anker); auch fuer alle B2-Sorel-Reflexionen aus Alphinas POV.
+- **Sorels Licht beim Sterben + Gesicht auf hellen Flaechen** — Tschechow fuer B3 (Alphina erinnert sich an dieses Bild als Form-Anker); auch fuer alle B2-Sorel-Reflexionen aus Alphinas POV.
 - **Zwei Monde + dichte mineralische Luft** — Welt-Marker, Tschechow fuer K38 (Alphinas Erst-Wahrnehmung) und alle Moragh-Beats.
 - **Hand an Alphinas Kinn** — Macht-Geste, Tschechow fuer B2-Captivity-Bogen (Velmar-Halsband-Sequenz).
 - **Mantel-Aufschlag des Mannes** (auf den Sorel beide Haende legt) — Tschechow-leise fuer B2 (Sorel-Erinnerung-Echo bei Alphina).
+- **Joran-Mantel-Innenfutter an Runas Handgelenken** (NEU v3) — Tschechow fuer K38 (Verbrennung im Bröseleffekt? wenn Alphinas Brombeer-Schnitte den Mantel treffen, ist es symbolisch ein Joran-Echo). Plot-Funktion: Verbindung zweier Toter-unter-Runas-Augen ueber denselben Stoff.
+- **„Quelle"-Vokabel (NEU v3, K34-Sz3c-Setup)** — Runa hat das Wort gestern Nacht beim Belauschen einmal gehoert, denkt es zum ersten Mal aktiv beim Sprung durch die Schwelle. Tschechow: B2 (Runa nimmt das Vokabular der Vier nicht an, bleibt bei „Schwelle" / „Riss" / eigenen Worten — Sprach-Distanz-Marker durch B2/B3).
 
 **Tschechow-Waffen abgefeuert:**
 - K30 Sorels Schwur (sich zwischen Alphina und Welt stellen) — eingeloest mit dem Tod. Bogen schliesst sich.
-- K30 Frost im Knochen — irrelevant fuer den Tod (er stirbt instant durch Klauen, nicht durch Kaelte). Frost bleibt offen, geht mit Sorel.
+- K30 Frost im Knochen — bleibt nicht-eingeloest, geht mit Sorel ins Grab. **Memory `project_drei_resonanzen_kopplung_k30.md`** sagt jedoch: „K38 Sorel-Tod — Eis war Vorwarnung." Das ist K38-Reflexions-Beat (Alphina/Vesper), nicht K37-Beat. In K37 (Runa-POV) bleibt Frost unsichtbar — Runa weiss nichts davon.
 - K34 Anti-Schemen-Vorbereitung — schiefgegangen, Bindungsmagie war nicht eingeplant.
 - K34 Sorels „kein Licht / Pflanzen / Wasser bekannt — nur Schwerkraft und Zeit" — operativ aktiv, sie waren nicht vorbereitet auf Bindung.
+- K30 Joran-Tod (Mantel-Anker) — abgefeuert in Sz1 (Mantel als Tarnung) und Sz3 (Innenfutter als Sub-Text-Echo).
 - K30 Drei-Resonanzen-Kopplung — eskaliert hier zu Vier-Kopplung, eingeloest in Sz2.
 - K12 Steinkreis-Tor-Aktivierung — eingeloest.
 
@@ -177,16 +192,20 @@ Runa sieht es aus drei Schritt Distanz. Sie kann nichts tun. Der Mann tritt eine
 ### Was weiss Runa am Anfang von K37?
 
 - K05/K15-Erstkontakt mit den Vier in der Druckerei (Auftragsdrucke).
-- K25-Alphina-Begegnung: Alphina kam fuer Heilkraeuter-Plakat (Halvard-Auftrag). Bei der Umarmung registrierte Alphina Runas Koerperwaerme (sagte nichts). Erste Magie-Manifestation als Begehren-Marker (Papier brannte beim Orgasmus). Vierte Anomalien-Sichtung in Runas Liste.
-- K32-Schemen-Angriff in der Druckerei: drei Schemen brachen ein, Joran starb unter ihren Haenden, Runa schlug mit Faust gegen Wesen → Hand glueht weiss → Wesen verglimmt. Eigene-Haut-immun-Erkenntnis. Bleilettern-Halbmond am A — erste kontrollierte Magie. Halvard fuhr Joran am naechsten Morgen weg. Maren legte den Arm um sie, sagte nichts, nahm ihn wieder weg. **Maren wusste, was Runa war** — Cross-POV-Erkenntnis.
+- K25-Alphina-Begegnung: Heilkraeuter-Plakat (Halvard-Auftrag). Alphina registrierte Runas Koerperwaerme bei Umarmung, sagte nichts. Erste Magie-Manifestation als Begehren-Marker (Papier brannte beim Orgasmus). Vierte Anomalien-Sichtung.
+- K30 Hafen-Angriff: Joran-Tod-Vorlauf (sie hat erst K32 die Verbindung gesehen).
+- K31 Marktplatz-Zusammenbruch: ihre Hitze offen, alle anderen wissen es. Begruendung „warum nicht eingeladen" intern.
+- K32-Schemen-Angriff in der Druckerei: Joran starb unter ihren Haenden, Faust-gegen-Wesen-Beat (Hand glueht weiss → Wesen verglimmt), Eigene-Haut-immun-Erkenntnis, Bleilettern-Halbmond am A — erste kontrollierte Magie. Halvard fuhr Joran am naechsten Morgen weg. Maren legte den Arm um sie, sagte nichts, nahm ihn wieder weg — **Maren wusste, was Runa war**. Jorans schwarzer Mantel hing seit zwei Wochen am Haken in der Druckerei (Trauer-Schwere, nicht weggeraeumt).
 - K32-Schluss „Mitgehen wuerde sie trotzdem" — innere Verpflichtung, ungebeten zu folgen.
+- **K34-Sz3c-Belauschen (gestern Nacht im Hafengasse-Treppenhaus, NEU v3):** sie hat durch den schlecht schliessenden Tuerspalt gehoert: *„Vier am Stein, zwei hindurch"* + *„Morgen Abend gehen wir"* (Vesper) + *„Wir wissen nicht, ob es drueben Licht gibt..."* (Sorel) + *„Steinkreis. Eine Stunde vor Sonnenuntergang"* (Vesper). Plus Maren-Operatives ueber Werkzeug/Hammer/Wasser (nicht vollstaendig fassbar). Hat das Wort *„Quelle"* einmal gehoert, registriert als fremde Vokabel von „denen da oben", uebernimmt es nicht aktiv.
+- **K34-Sz3c-Vorbereitung (gestern Nacht in der Druckerei, NEU v3):** Joran-Mantel ueber die Tuerklinke gelegt, Stiefel, Laterne mit halbem Brennstoff, drei Druck-Maerker — alles bereit fuer den 2. Dunkelmond-Aufbruch. Sie hat nicht geschlafen.
 - Notizbuch + Liste mit Anomalien-Sichtungen (4 Brandstellen-Eintraege + Joran).
-- Drei Dinge bei sich (K32-Canon): Notizbuch, Zinnflasche, Bleilettern-Beutel.
-- Haende warm (Magie-Marker, Stufe 1-2 unbewusst seit Jahren, bewusst seit K25/K32). **Stufe 3 nach K35-Zeitsprung-Training** — kontrollierte Waerme dosieren beginnt, **kein offensives Repertoire** (kein Feuer-Schleudern, keine Hitze auf Distanz). Memory `pov/runa.md` Stufen-Tabelle.
+- Drei Dinge bei sich (K32-Canon): Notizbuch (rotes Leinen), Zinnflasche, Bleilettern-Beutel — traegt sie immer.
+- Haende warm: **Stufe 3 nach K35-Zeitsprung-Training** — kontrollierte Waerme dosieren beginnt, **kein offensives Repertoire** (kein Feuer-Schleudern, keine Hitze auf Distanz). Memory `pov/runa.md` Stufen-Tabelle.
 - Zaun-Spalt am West-Rand des Botanischen Gartens (Erntemond-K32-Schemen-Beobachtung).
+- **Halvards Pistole steht im Studierzimmer** (Glutmond-Anker). Sie geht heute NICHT hin — doppelt verankert mit K34-Sz3c.
 - Sie kennt Halvard, Tarn (Lehrling), Edric, Sievert. Joran ist tot.
-- Sie weiss, dass die Vier zusammen etwas planen — sie hat es aus der Druckerei beobachtet (Kunden-Bewegungen, Auftragsdrucke, Maren-Werkzeug, Vesper-Mechaniker-Anker, Alphina-Halvard-Verbindung).
-- Sie hat aus der K35-Hafengasse-Wohnung-Anker (V/M-Wohnsitz seit 12. Glutmond) gewusst, dass Maren und Vesper zusammenleben.
+- Sie weiss durch K34-Sz3c-Belauschen konkret: Wann (Stunde vor Sonnenuntergang am 2. Dunkelmond), Wo (Steinkreis Botanischer Garten), Wer (die Vier).
 
 ### Was weiss Runa am Ende von K37?
 
@@ -279,16 +298,61 @@ X / Y aus dem Skript `scripts/kapitel-kontext.py B1-K37 --phase ausarbeitung` zi
 
 ## Offene Punkte fuer Autor-Entscheidung
 
-1. **Aktplan-Outdated-Korrektur sofort oder spaeter?** Aktplan sagt Sorel-Tod in K38, status.json + Memory sagen K37. Mein Entwurf folgt status.json. Falls Autor die Aktplan-Linie aktivieren will (Sorel stirbt erst in K38, K37 endet mit Tableau in Moragh oder Vael), umstrukturieren — aber das widerspricht den Memory-Pins seit 2026-05-06.
-2. **Bindungsmagie vs. Velmar-Halsband.** In K37 hat Varen die Hand an Alphinas Kinn — nicht ein Halsband. Memory `project_b2_k01-k27_canon.md` sagt: Velmar-Halsband ist B2-Variante (Captivity-Bogen). Mein Entwurf laesst es offen — wenn Autor das Halsband schon in K37 will, anpassbar; aber der Plot „Hand an Kinn" passt besser zur Erstbegegnung-Spontan-Bindung.
-3. **Frost im Knochen (K30-Tschechow) — bewusst nicht eingeloest?** Strukturanalyst-Finding: Frost-im-Knochen war als geladene Waffe fuer K33/K37/K38 markiert; im K37-Entwurf wird sie nicht abgefeuert (Sorel stirbt durch Klauen, nicht durch Kaelte). Sie geht mit Sorel ins Grab. Frage: bewusst-nicht-einloesen (Tschechow-Verfall — Aktplan-Realitaet, nicht jeder geladene Beat zuendet)? Oder soll der Entwurf einen Frost-Beat sekundaer einbauen (z.B. Sorels Hand am Mantel-Aufschlag des Mannes ist kalt-knochen-tief, Runa sieht es)? Default: bewusst-nicht-einloesen — der Beat ist eine bewusste Sorel-Charakter-Marke, die mit ihm endet.
-4. **Heat-Echo-Pflanzen aussen am Garten in Sz2 — sichtbar fuer Runa?** Mein Entwurf: bereits gewachsen aus K36, kein aktives Wachsen jetzt. Runa sieht das Statische. Falls Autor lebendiges Wachsen will, anpassbar — aber dann kollidiert es mit Memory `feedback_keine_spukgeschichte.md` (Wachsen ohne Urheberin in der Szene = Spukgeschichte; Alphina ist im Kreis und nicht aufgewuehlt mehr).
-5. **Wundgeometrie K38-Aktplan-Abgleich erledigt** — rechte Schulter zu linker Hueftknochen, von oben nach diagonal. Konsistent zu K38 (`05-akt4.md`).
-6. **Sz3 Cliffhanger: „Mund oeffnet sich, Schrei kommt nicht":** Naht-Disziplin zu K38. Letzter POV-Anker liegt jetzt bei Runa-Koerper (Atmung haelt an, Handgelenk-Schlag, Stein-Platten-Sohlen) — MEIKE-Finding eingearbeitet.
+1. **Aktplan-Refactor-Status (Autor-Klaerung 2026-05-07 ausstehend):** Aktplan `05-akt4.md` Kap. 37/38 sind Plot-pre-2026-05-06 — Sorel lebt durch K37 in der Aktplan-Version, status.json hat den Tod in K37 verschoben. Plus: Aktplan-K37-Halbsatz „Eine fuenfte Gestalt stolpert durch... Atemlos. *„Ich konnte nicht—"*" widerspricht der Schweige-POV-Disziplin (Runa schweigt durchgehend). Plus: Tohl/Halvard-Tableau gehoert in K40-Epilog. **Frage:** Aktplan-Refactor jetzt als Sub-Commit, oder erst nach K37-final?
+2. **Sorel-Tod (Frage 1, Autor-Klaerung 2026-05-07):** sofortiger Tod, keine Sakrament-Geste. Leseprobe 28 (Sorel-Tod-Moment, Score-18) ist outdated und muss aktualisiert werden — sie zeigt zwei Atemzuege nach dem Schlag und Varen-Augenlider-Beat. Memory-konform ist instant-Tod (mein Entwurf). **Folgefrage:** soll Leseprobe 28 als „outdated, ueberholt durch K37-instant-Tod" markiert werden? Oder neu geschrieben?
+3. **Bindungsmagie vs. Velmar-Halsband:** In K37 Hand-an-Kinn-Live-Druckmagie, kein Halsband. Velmar-Halsband-Erstkontakt ist B2-K27 (Memory `project_b2_k01-k27_canon.md` + `project_magie_daempfung_lederhalsband.md`). Mein Entwurf folgt das. Pflicht-Pruefung in /ausarbeitung: kein Halsband-Detail in der Prosa.
+4. **Frost im Knochen (K30-Tschechow):** bleibt in K37 unsichtbar (Runa weiss nichts davon). Memory `project_drei_resonanzen_kopplung_k30.md` sagt: K38 Sorel-Tod — Eis war Vorwarnung. Das ist K38-Reflexions-Beat (Alphina/Vesper aus null Distanz), nicht K37-Beat (Runa aus drei Schritt). Default: bewusst-nicht-eingeloest in K37, eingeloest in K38.
+5. **Heat-Echo-Pflanzen aussen am Garten in Sz2:** bereits gewachsen aus K36, kein aktives Wachsen jetzt — Runa sieht das Statische (Memory `feedback_keine_spukgeschichte.md`-konform).
+6. **Wundgeometrie K38-Aktplan-Abgleich erledigt** — rechte Schulter zu linker Hueftknochen, von oben nach diagonal.
+7. **Druck-Maerker-Verortung (NEU v3):** mein Entwurf verortet sie in Sz2 (zwischen Linden und Tor — einer in den Kies, einer im Lindengebuesch zurueck). Setup K40-Voss-Recherche. Falls Autor andere Verortung will (z.B. erst in K38-Moragh-Boden-Markierung), anpassbar.
+8. **Joran-Mantel-Detail:** Sz1 (Tarnung) + Sz3 (Innenfutter am Handgelenk als stilles Echo). Sub-Text-Disziplin pflicht — kein Joran-Wort in Sz3-Prosa, nur Stoff am Handgelenk. Falls Autor anderen Mantel-Beat will (z.B. Verbrennung in K38), umsteuerbar.
 
 ---
 
-*Ende Entwurf B1-K37 v2.*
+*Ende Entwurf B1-K37 v3.*
+
+**Changelog v2 → v3 (2026-05-07):**
+
+K34 v5 hat Sz3c neu eingefuehrt — Runa hat in der Nacht 1./2. Dunkelmond im Hafengasse-Treppenhaus gelauscht und weiss seitdem konkret Wann/Wo/Wer. Das aendert ihren Wissensstand fundamental. K37 v2 hatte Runa als Spontan-Folgerin ohne Vorwissen aufgebaut; v3 reframet sie als vorbereitete Aussenseiterin nach 12+ Stunden bewusster Vorbereitung.
+
+- **Header-Timeline aktualisiert:** Druckerei-Tag → Stunde vor Sonnenuntergang Aufbruch → Lindengebuesch (vor allen anderen) → Wartephase → 4:33-Aktivierung. Direkter Anschluss an K34-Sz3c (gestern Nacht) explizit verankert.
+- **Sz1 komplett neu strukturiert:** Drehpunkt von Spontan-Akt zu Vorbereitung-bewusst.
+  - Verb-Sequenz Aufbruch: Joran-Mantel ueberziehen → Stiefel → Laterne → drei Druck-Maerker → drei Dinge K32 → Tuer schliessen + **Riegel drehen** (anders als v2 — sie weiss, sie kommt nicht zurueck).
+  - **Tarn-nicht-Informieren** als bewusster Akt (Zettel auf Setzkasten am Mittag, schickt Tarn weg vor Sonnenuntergang) statt Spontan-Geste hinter dem Setzkasten.
+  - **Strecke neu:** sie geht NICHT durch die Sattlerstrasse Vesper+Maren hinterher (v2-Verfolgung gestrichen). Sie geht direkt zum Garten und ist VOR Alphina+Sorel am Zaun-Spalt. Verfolgungs-Beat aus v2 entfaellt.
+  - **Joran-Mantel-Beat** neu: schwarz, breiter geschnitten, hing seit zwei Wochen am Haken. Tarnung in der Daemmerung, kein Pathos, kein Symbol-Wort. Erzaehler bleibt strikt bei Beobachtung.
+  - **Drei Druck-Maerker** in der Innentasche (Berufsreflex, NEU v3).
+  - **Halvards Pistole** doppelt verankert (sie geht nicht hin) — K34-Sz3c-Anker.
+  - Maren-K32-Anker bleibt als Sub-Text, aber jetzt anders gerahmt: sie folgt nicht trotz Verletzung, sondern weil hier eine Wahrheit ist (Druckerin-Charakter Schreibblatt §3).
+  - Innenbeat „Wahrheit-Folgen-Reflex" praezisiert: sie versteht die Logik des Nicht-Eingeladenseins (Hitze K31-Marktplatz unkontrolliert), akzeptiert sie aber nicht.
+- **Sz2 Sprung-Entscheidung gewandelt:** Reflex bleibt, aber Vorbereitung im Hintergrund sichtbar gemacht — der Sprung ist seit gestern Nacht beschlossen, der Reflex jetzt ist Ausloeser des vorbereiteten Akts. Premature-Doubt-Schranke streng (kein „sie hatte sich entschieden"-Beat).
+  - **Druck-Maerker-Verortung NEU v3:** auf dem Lauf zwischen Linden und Tor steckt Runa unbewusst einen Maerker in die feuchte Erde am Sockel eines leeren Purpursteins; ein zweiter rutscht ihr aus der Innentasche und bleibt im Lindengebuesch. Beide bleiben in Vael (K40-Voss-Recherche-Setup).
+  - **„Quelle"-Vokabel-Uebernahme NEU v3:** im Schritt durch die Schwelle denkt Runa zum ersten Mal aktiv das Wort „Quelle" (Belauschen K34-Sz3c). Distanz-Beat: das Wort der Vier wird ihr Wort.
+- **Sz3 Joran-Mantel-Innenfutter NEU v3:** Runa registriert das Innenfutter am Handgelenk waehrend des Tableaus — Wolle innen, breiter geschnitten, Stelle wo bei Joran die Hemdaermel ueberstanden. Stiller Doppel-Beat (Joran-Tod-Echo + Sorel-Tod-Zeugnis). Pflicht: kein „Joran"-Wort in Sz3-Prosa, nur Stoff am Handgelenk.
+- **Tschechow-Block erweitert:**
+  - Joran-Mantel als Tarnung + Innenfutter-Echo (geladen).
+  - Drei Druck-Maerker in der Innentasche → K40-Voss-Recherche (geladen).
+  - Laterne mit halbem Brennstoff (bleibt am Zaun-Spalt zurueck — Setup K40).
+  - „Quelle"-Vokabel als Sprach-Distanz-Marker durch B2/B3.
+- **Cross-POV-Anker erweitert:**
+  - **K34-Sz3c (Runa-POV, gestern Nacht)** als direkter Anker eingetragen.
+  - K30 Joran-Tod als Mantel-Anker abgefeuert.
+  - K31 Marktplatz als interne Begruendung „warum nicht eingeladen" abgefeuert.
+- **Kontinuitaets-Notizen erweitert:** Was Runa weiss durch Belauschen + Was sie NICHT durch Belauschen weiss + K34-Sz3c-Vorbereitung explizit aufgenommen.
+- **Offene Punkte aktualisiert:** Frage 1 (Sorel-Tod sofort) erledigt. Aktplan-Refactor + Leseprobe-28-Outdated-Marker offen. Druck-Maerker-Verortung und Joran-Mantel-Detail als neue Autor-Entscheidungspunkte.
+
+**Was unveraendert bleibt:**
+- Sorel-Tod-Geometrie (rechte Schulter zu linker Hueftknochen, Klauen-Schlag von oben nach diagonal).
+- Licht-Sequenz (Wunde + Gesicht auf hellen Flaechen + verblassen).
+- Cliffhanger zu K38 (Alphinas Mund oeffnet sich).
+- Schutzschemen-Beschreibung (Aktplan-K38-konform).
+- Hand-an-Kinn-Bindung (kein Halsband — B2-Variante).
+- Premature-Doubt-Schranken streng.
+- Begriffs-Schranken (Resonanz/Schemen/Moragh/Varen niemals).
+- Voice-Anchoring + Schreibblatt + Stufen-Tabelle (Stufe 3, kein offensives Repertoire).
+- Council-Stimmen MEIKE/KAYA/NORA + Leseproben 28+29 als Ton-Referenzen.
+
+**Changelog v1 → v2 (2026-05-06):**
 
 **Changelog v1 → v2 (2026-05-06):**
 - **Sz1:** Tarn-nicht-Informieren als Sz1-Drehpunkt sichtbar gemacht (Verbsequenz: Tarn-nicht-rufen → Tuer-nicht-schliessen → drei Dinge → folgen). Maren-K32-Anker als Sub-Text in Sz1 verankert. Innenbeat „nicht eingeladen" ersetzt durch positiv-aktiven Wahrheit-Folgen-Reflex (Druckerin-Charakter). Welt-mit-Zaehnen-Anker (Gaslampen-Schraegschein, trockenes Pflaster) hinzugefuegt.
@@ -300,6 +364,6 @@ X / Y aus dem Skript `scripts/kapitel-kontext.py B1-K37 --phase ausarbeitung` zi
 - **Sz3 Licht-Sequenz:** Aus „Brust UND Augen simultan" wird Aktplan-K38-konforme Sequenz: Licht aus Wunde im Aufprall-Moment + Gesicht erscheint kurz auf hellen Flaechen (Stein-Platten, Alphinas Wange, Klauen) + Bilder verblassen. Pflicht-Pruefung: max drei Saetze, null Glosse.
 - **Sz3 Schluss-Beat (MEIKE):** Letzter POV-Anker liegt bei Runa-Koerper (Atmung haelt an, Handgelenk-Schlag, Stein-Platten-Sohlen-Detail), nicht nur Alphinas Mund.
 - **Sz3 Reibungs-Beat (NORA):** Runa-Laehmung als bewusster Befund (sie hat kein Repertoire fuer dieses Wesen), nicht als Schock-Bewegungslosigkeit.
-- **Hammer-Canon-Konflikt geloest:** Werft-Hammer als Marens Planungs-Irrtum gerahmt (Tschechow-Enttaeuschung in K38/K39).
+- **Hammer-Canon-Klaerung (2026-05-07 Autor-Klaerung):** Werkzeuge funktionieren in Moragh physikalisch — schwere Arbeit wird dort typischerweise durch Schemen/Magie verrichtet, aber das macht Werkzeuge nicht funktionslos. Marens Hammer ist legitimes Werkzeug-Backup, kein Planungs-Irrtum. Logik-Check-Finding war False-Positive (Subagent hatte Canon-Kompakt zu eng gelesen).
 - **Runa-Stufen-Korrektur:** „Stufe 3, kein offensives Repertoire" ergaenzt (vorher faelschlich „Stufe 1-2").
 - Offene Punkte 4 (Bindungsmagie/Halsband) und 5 (Wundgeometrie-Abgleich) aktualisiert. Frost-im-Knochen-Frage (Punkt 3) explizit aufgenommen.

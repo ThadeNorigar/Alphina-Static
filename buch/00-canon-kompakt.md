@@ -52,7 +52,7 @@
   - Magie kommt aus der Umgebung, nicht aus dem Körper (Alphina wachsen keine Pflanzen aus den Händen)
   - Sorel: kein Röntgenblick, kein UV/Infrarot, kein Licht aus dem Nichts; in absoluter Dunkelheit blind
   - Schemen kommen nicht passiv durch den Riss — Varen schickt sie aktiv (in Thalassien); in Moragh sind Schemen Alltagswesen.
-  - Kein Handwerk in Moragh: keine Werkzeuge, keine Öfen, keine Nadeln; alles per Resonanz
+  - Kein Handwerk in Moragh (Praxis): Moragher delegieren körperlich schwere Arbeit an Schemen oder Magie — Werkzeuge sind im Alltag selten zu sehen. Aber Werkzeuge funktionieren physikalisch wie in Thalassien (ein Hammer schlägt, ein Messer schneidet) — kein Physik-Verbot. Thalassier mit mitgebrachten Werkzeugen können sie drüben benutzen.
 - Schemen-Lore (Moragh, etabliert ab B2-K2):
   - **Schemen ohne Auftrag sind nie aggressiv** — neugierig, tauchen manchmal von alleine auf, beobachten, ziehen sich zurück. Nur Schemen mit Auftrag (durch einen Rufer/Binder) greifen an oder folgen einem Ziel.
   - **Arbeits-Schemen** in Städten: heben Lasten, ziehen Karren, bauen Mauern. Werden von Rufern temporär gerufen und entlohnt-steuert.
