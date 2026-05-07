@@ -9,7 +9,7 @@ tageszeit: später Abend
 monat: Lichtmond
 witterung: warm, Hafenluft mit Tang und Tauwerk und einer Spur Steinkohle, offene Türen
 begegnungs_anlass: Maren hat das Privatzimmer gebucht; Sorel ist nach Velde abgereist und hat zugestimmt
-akt_sets: 4.115 Tantra-Empfang (Auftakt-Session, Doppel-Geber), 4.56 FFM Doppel-Stimulation (Hauptakt), 4.113 Slow Sex 60min (Aftercare)
+akt_sets: 4.115 Tantra-Empfang (60min Doppel-Geber, Bauchlage→Rückenlage→Schamlippen-Massage), 4.56 FFM Doppel-Stimulation (Hauptakt), 4.113 Slow Sex 60min (Aftercare)
 heat_level: explizit Tantra → Heat (FFM, Vesper als Dom-Anker im zweiten Teil, Yarros/Maas-Boden mit Réage-Echo)
 laenge: ~1300 Wörter
 ---
@@ -44,21 +44,35 @@ Im Zimmer: ein Bett mit dunkler Decke, ein Waschtisch mit einem Krug, ein Stuhl 
 
 Maren breitete ein Wachstuch über die Decke, darüber ein dünnes Leinen. Alphina zog sich aus, ohne Eile, jedes Stück auf den Stuhl. Vesper legte den Gehrock ab, dann die Weste, dann das Hemd; die Hose behielt er an, er war heute der zweite Geber, nicht der Akteur. Maren zog Hemd und Rock aus.
 
-Alphina legte sich auf den Rücken in die Mitte des Bettes, die Arme an den Seiten, die Augen halb geschlossen. „Empfang", sagte Maren leise — kein Befehl, ein Wort, das den Raum anders machte. Alphina nickte einmal, ließ den Kopf zurück sinken.
+Alphina legte sich auf den Bauch in die Mitte des Bettes, den Kopf auf den verschränkten Unterarmen, die Augen halb geschlossen. „Empfang", sagte Maren leise — kein Befehl, ein Wort, das den Raum anders machte. Alphina nickte einmal in die Unterarme.
 
-Vesper kniete am Kopfende, Maren am Fußende. Vesper schüttete einen kleinen Strich Öl in seine Handfläche, rieb beide Hände aneinander, bis die Wärme sie aufgenommen hatte. Er begann am Schädel — die Fingerspitzen am Haaransatz, kreisend, dann an die Schläfen, die Kiefermuskel, der Hals. Maren begann an den Füßen — Daumen in die Sohle, langsam, jeden Knochen einzeln, dann der Spann, der Knöchel, die Wade. Sie sahen sich nicht an, sie hörten den Atem der Frau zwischen ihnen.
+Vesper kniete an Alphinas rechter Seite, Maren an der linken. Vesper schüttete einen Strich Öl in seine Handfläche, rieb beide Hände aneinander, bis die Wärme sie aufgenommen hatte. Maren tat dasselbe.
 
-Vesper wanderte über die Schultern, die Arme, die Innenseite der Ellenbogen, die Handflächen, jeden Finger einzeln. Maren über die Knie, die Innenseite der Schenkel — und vorbei am Schoß, ohne Berührung, in den Hüftknochen. Sie begegneten sich am Bauch, ihre Hände nebeneinander auf Alphinas Rippen, vier Hände, ein Atem. Alphinas Atem hatte den Takt der ihren angenommen — vier Sekunden ein, sechs aus, sechs ein, sechs aus.
+Sie begannen an den Beinen. Vesper das rechte, Maren das linke — Sohle, Spann, Knöchel, Wade, Kniekehle, die Innenseite des Schenkels, die Außenseite, hoch bis an die Pobacke und zurück. Lange, langsame Striche, die ganze Hand auf dem Bein, kein Drücken, ein Nehmen-Lassen. Drei Bahnen, vielleicht vier. Alphinas Atem wurde tiefer.
 
-Sie blieben am Bauch nicht stehen. Vesper nahm die linke Brust, Maren die rechte; nicht greifend, einhüllend, beide Hände um eine Brust gelegt, der Daumen am Hof. Sie hielten, eine ganze Atemreihe lang. Dann zogen sie zurück, fanden den Brustkorb mit den Handflächen flach, dann den Hals, dann das Gesicht. Beide Stirnen wurden gestrichen. Beide Schläfen.
+Dann die Arme. Vesper den rechten, Maren den linken — die Hand zuerst, jeden Finger einzeln, die Handfläche, das Gelenk, der Unterarm, die Innenseite des Ellenbogens, der Oberarm, die Schulter. Sie trafen einander nicht, sie blieben jede an ihrer Seite, parallel im Takt.
 
-Maren wechselte zur anderen Seite. Vesper rückte näher heran, der Mund nahe an Alphinas Ohr, ohne zu sprechen. Eine halbe Stunde war vorüber. Alphina war nicht erregt im üblichen Sinn — sie war wach, an jeder Stelle, die berührt worden war, ein eigenes Pochen. Sie hatte begriffen, was Empfangen heißt: nicht warten, sondern offen werden.
+Der Rücken war gemeinsam. Beide Hände auf das linke Schulterblatt, beide auf das rechte, dann die Wirbelsäule entlang — Vesper auf der einen Hälfte, Maren auf der anderen, vier Hände, die langsam zum Steiß glitten und langsam wieder hoch. Beide Pobacken einhüllend gehalten, eine Atemreihe lang, dann wieder los. Auch das war Berührung, kein Vorgriff.
 
-„Dreh", sagte Vesper. Sie drehte sich auf den Bauch. Vesper begann am Nacken, jede Wirbelsäule einzeln, Maren begann an den Fußsohlen. Sie trafen sich am Steißbein, am Lendenwirbel. Maren öffnete die Pobacken mit den Handflächen ohne Druck, hielt sie offen einen Atemzug, schloss sie wieder. Auch das war Berührung, kein Vorgriff. Alphina spürte die Hitze der Hand an einer Stelle, die sie noch nicht zugelassen hatte.
+Der Nacken zuletzt. Vesper an der Schädelbasis, die Daumen in die Senken hinter den Ohren, Maren an den Halsmuskeln seitlich, weichend, lang ausstreichend. Alphina hatte den Kopf zur Seite gedreht; sie atmete in Marens Richtung.
 
-Vesper rückte zur Seite. „Du", sagte er zu Maren. Sie hatten es vorher abgesprochen — dreißig Minuten Empfang für Alphina, fünf Minuten für jeden Geber als Brücke. Maren legte sich neben Alphina, Bauch an Bauch. Alphina drehte sich, nahm die andere in den Arm, fuhr mit der freien Hand die Wirbelsäule entlang, langsam, von oben nach unten. Vesper saß am Bettrand, sah zu, eine Hand auf Marens Hüfte, die andere auf Alphinas Schulter. Alle drei atmeten in denselben Takt.
+„Dreh." Sie drehte sich auf den Rücken, langsam.
 
-Erst als Alphina den Mund an Marens Schläfe legte und sehr leise „jetzt" sagte, löste Vesper die Hose. Er drang nicht sofort ein. Er kniete zwischen Alphinas Schenkeln, die Spitze des Glieds an der Spalte, hielt — Alphina war so feucht, dass keine Reibung blieb, aber die Pause war Teil der Übung. Drei Atemzüge. Dann erst glitt er ein, einen Zoll, hielt; einen weiteren, hielt. Bei voller Länge legte er beide Hände an ihre Hüften.
+Vesper rückte ans Kopfende, setzte sich an die Bettkante, Alphinas Schädel jetzt zwischen seinen Knien. Die Daumen fanden den Schädel ab, kreisend an den Schläfen, dann mit den Fingerspitzen die Augenlider. Maren blieb seitlich. Beide gingen zum Gesicht — Stirn, Wangen, der Bogen unter dem Ohr, der Kiefermuskel, das Kinn.
+
+Dann die Brust. Vesper legte beide Hände um die linke Brust, einhüllend, der Daumen am Hof; Maren spiegelte rechts. Sie hielten, eine ganze Atemreihe lang, dann tauschten sie. Beide Brustwarzen wachten unter dem Stoff der Wärme, sie streiften sie nicht.
+
+Bauch. Vier Hände auf den Rippen, hinunter zum Nabel, in die Vertiefung, weiter zu den Hüftknochen, dann zurück. Drei Bahnen.
+
+Maren wechselte zur Mitte. Sie kniete zwischen Alphinas Schenkeln, beide Hände flach am Schamhügel, fuhr von den Hüftknochen nach innen, blieb dort, einen Atemzug, zwei. Alphina öffnete von selbst die Schenkel weiter.
+
+Maren schüttete frisches Öl auf zwei Finger. Sie begann an den Schamlippen — die äußeren zuerst, beide Hände, eine links, eine rechts, lange Striche von oben nach unten, die Daumen über den Hof, die anderen Finger an der Außenseite. Drei Bahnen pro Seite, langsamer als nötig. Dann die inneren, vorsichtiger, mit der Spitze des Mittelfingers, die Spalte des Schoßes entlang, ohne einzudringen, eine Bahn, dann die zweite, dann die dritte. Zwischen jeder Bahn eine Pause, ein Atemzug, ein Anschauen. Vesper hielt von oben Alphinas Hände, Finger in Finger, ohne Druck.
+
+Eine Stunde war jetzt vorüber. Alphina war nicht erregt im üblichen Sinn — sie war wach, an jeder Stelle ihres Körpers ein eigenes Pochen. Sie hatte begriffen, was Empfangen heißt: nicht warten, sondern offen werden.
+
+Sie sah Vesper an. Sie nickte einmal.
+
+Erst da löste er die Hose. Er kniete zwischen Alphinas Schenkeln an Marens Stelle; Maren rückte zur Seite, blieb in Reichweite. Die Spitze des Glieds an der Spalte des Schoßes, halt — Alphina war so feucht, dass keine Reibung blieb, aber die Pause war Teil der Übung. Drei Atemzüge. Dann erst glitt er ein, einen Zoll, hielt; einen weiteren, hielt. Bei voller Länge legte er beide Hände an ihre Hüften.
 
 Maren verstand das Zeichen. Sie kletterte aufs Bett, legte sich quer zwischen Vespers Schenkeln und Alphinas Hüften, der Mund an Alphinas Klitoris. Ihre Zunge fand sie mit der Spitze, kreisend, dann mit der breiten Seite. Sie leckte um Vespers Glied herum, jede Bewegung im selben Takt wie er.
 
@@ -74,4 +88,4 @@ Maren küsste Alphinas Schläfe. Vesper hielt Marens Finger.
 
 ## Würfel-Notiz
 
-Welt: Thalassien (Vorgabe). Ort: Vael, Schenke „Zum Schwarzen Anker", Privatzimmer im Obergeschoss. Tageszeit: später Abend. Monat: Lichtmond. Witterung: warm, offene Türen, Hafenluft mit Tang, Tauwerk, Steinkohle. Figuren: Alphina (f), Vesper Greve (m, Dom), Maren Ilves (f, Vespers Sub) — Sorel auf Geschäftsreise nach Velde. Begegnungs-Anlass: Maren hat das Privatzimmer gebucht. Akt-Sets: **4.115 Tantra-Empfang als Doppel-Geber-Session** (~30 min, Vesper am Oberkörper, Maren am Unterkörper, treffen sich am Bauch, ganzer Körper bevor Genital — Empfangen als aktive Praxis) → **4.56 FFM Doppel-Stimulation** (Vesper in Alphinas Schoß, Maren mit Mund an der Klitoris) → **4.113 Slow Sex 60min** (Aftercare im Halten). Heat-Level: Tantra → Heat. Heat-Echo bei Alphina: Pflanzen-Manifestation in den Bodendielen — neue, unbenannte Triebform, welkt nach dem Akt. Tschechow-Detail: Vespers schwarzer Schachturm zwischen den Gläsern; Marens warmgestelltes Olivenöl. Refit-2026-05-07: Edging-Auftakt entfernt (war Klischee-Reflex), durch Tantra-Session ersetzt. ~1300 Wörter.
+Welt: Thalassien (Vorgabe). Ort: Vael, Schenke „Zum Schwarzen Anker", Privatzimmer im Obergeschoss. Tageszeit: später Abend. Monat: Lichtmond. Witterung: warm, offene Türen, Hafenluft mit Tang, Tauwerk, Steinkohle. Figuren: Alphina (f), Vesper Greve (m, Dom), Maren Ilves (f, Vespers Sub) — Sorel auf Geschäftsreise nach Velde. Begegnungs-Anlass: Maren hat das Privatzimmer gebucht. Akt-Sets: **4.115 Tantra-Empfang als Doppel-Geber-Session** (~60 min, Bauchlage zuerst — Beine, Arme, Rücken, Nacken, Vesper rechts/Maren links parallel; dann Drehen auf Rückenlage — Kopf, Gesicht, Brust, Bauch, Schamlippen-Massage außen+innen ohne Eindringen; auf Wunsch Eindringen) → **4.56 FFM Doppel-Stimulation** (Vesper in Alphinas Schoß, Maren mit Mund an der Klitoris) → **4.113 Slow Sex 60min** (Aftercare im Halten). Heat-Level: Tantra → Heat. Heat-Echo bei Alphina: Pflanzen-Manifestation in den Bodendielen — neue, unbenannte Triebform, welkt nach dem Akt. Tschechow-Detail: Vespers schwarzer Schachturm zwischen den Gläsern; Marens warmgestelltes Olivenöl. Refit-2026-05-07-a: Edging-Auftakt entfernt, durch Tantra-Session ersetzt. Refit-2026-05-07-b: Tantra-Choreographie korrigiert — Bauchlage zuerst (Beine→Arme→Rücken→Nacken, Geber links/rechts parallel), dann Drehen auf Rückenlage (Kopf→Gesicht→Brust→Bauch→Scham mit Schamlippen-Massage außen+innen), dann auf Wunsch Eindringen. ~1500 Wörter.
