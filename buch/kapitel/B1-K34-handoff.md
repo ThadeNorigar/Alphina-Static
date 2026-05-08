@@ -1,8 +1,13 @@
 # Handoff — B1-K34
 
-**Von Phase:** entwurf → **Zu Phase:** ausarbeitung
+**⚠ NOCH NICHT FREIGEGEBEN — Status: entwurf (v6, Re-Council 2026-05-08).**
+Handoff-Inhalt steht bereit, aber Autor-„entwurf ok" steht aus. Bei Freigabe:
+- `status.json` K34 auf `entwurf-ok` setzen
+- Diesen Block oben loeschen
+
+**Von Phase:** entwurf → **Zu Phase:** ausarbeitung (sobald freigegeben)
 **Erstellt:** 2026-05-08
-**Status beim Handoff:** entwurf-ok (v6 nach Re-Council 2026-05-08)
+**Status:** entwurf (v6 nach Re-Council 2026-05-08)
 
 ## Aufruf fuer naechste Session
 
