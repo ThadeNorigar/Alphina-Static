@@ -176,7 +176,14 @@ Zentrales Tracking von Plant→Payoff-Beziehungen. **Single Source of Truth** f�
 | TZ-138 | Alphinas Farne im Garten blühen beim Ritual | K34 (geplant) | K36 (Pflanzen haben sie hierher geführt) | geplant | Heat-Echo-Schluss-Beat |
 | TZ-139 | Steinkreis leuchtet, Schemen zurückgedrückt | K34 (geplant) | K36 (Grenze war Portal-Schwelle) | geplant | Schwellen-Mechanik |
 | TZ-140 | Marens „warte auf mich" (am Boot) | K34 (geplant) | B2-K39 (Maren kommt zurück), B3 (Boot wartet, SFG) | geplant | Boot-Tschechow trilogie-weit |
-| TZ-141 | Fünf statt Vier (Runa schlüpft durch) | K34 (geplant) | K37 (Varen erwartet vier, Fünf verändert alles) | geplant | Strategischer Vorteil |
+| TZ-141 | Fünf statt Vier (Runa schlüpft durch) | K34-Sz3c (Belauschen, Wann/Wo/Wer-Wissen + Tarnung bereit) | K37 (Runa folgt heimlich, springt durchs Tor; Varen erwartet vier, Fünf verändert alles) | geplant | Setup verlagert auf Sz3c-Belauschen statt K34-Inklusion (Refactor 2026-05-08) |
+| TZ-156 | Jorans schwarzer Mantel (hing seit K32 zwei Wochen am Haken) | K34-Sz3c (geplant — Runa zieht ihn als Tarnung an) | K37 (Tarnung in der Daemmerung), K38 (Mantel verbrennt im Bröseleffekt — Symbolik ohne Erzähler-Glosse) | geplant | Joran-Tod-Echo + Sorel-Tod-Zeugnis durch denselben Stoff |
+| TZ-157 | Drei Druck-Märker in Runas Innentasche (Berufsreflex) | K34-Sz3c (geplant — sie packt sie ein ohne Innen-Glosse) | K37 (Marker in feuchte Erde am Stein-Sockel + zweiter im Lindengebusch), K40 (Voss-Recherche — Marker als physische Spur) | geplant | Trauma-Körper-Logik, Hand-kennt |
+| TZ-158 | Heat-Echo-Farnwedel an A/S-Hauseingang-Steinritze (Modus C, dezent) | K34-Sz3b (geplant — Sorel sieht Wedel beim Eintreten, versteht nicht; Wedel BLEIBT AUSSEN) | K36 (Steinkreis-Voll-Manifestation der Farne als Sorels Form-Echo), K40 (Halvard findet leere A/S-Wohnung mit Wedel an der Schwelle) | geplant | Sorel-Prinzip eingehalten — Erzähler kommentiert nicht |
+| TZ-159 | Schemen-Inventur als physische Papier-Liste (Jara führt Bogen mit Mittellinie, links Bauart, rechts Magie-Modus) | K34-Sz2 (geplant) | (offen — kann in K38 oder K40 wieder auftauchen, oder verschollen) | geplant | Babel-Tech-Echo zum K33-Drei-Spalten-Bogen |
+| TZ-160 | A/S letzte Nacht zusammen (Heimkehr-zu-zweit, kein Sex ausgespielt) | K34-Sz3b (geplant) | K38 (Alphinas Trauer-Ausbruch hat Gegenpol einer letzten gemeinsamen Nacht) | geplant | K30-Wohn-Canon eingehalten (A/S wohnen seit K29 zusammen) |
+| TZ-161 | Vespers Kapitulations-Beat „Mein Pendel rechnet nur den Takt — nicht das Drüben" | K34-Sz2 (geplant) | B2-K14 (Bund-Akten-Fund: Velmar-Forscher hat dieselbe Trennung), K38 (Tor-Dauer wird zur konkreten Frage) | geplant | Newton-Niveau, Stratege gibt Plan auf |
+| TZ-162 | Schachturm-Hemd-Geheimfach-Mikro-Geste V/M (Maren nennt es in Werkzeug-Liste, Vesper hebt Blick) | K34-Sz2 (geplant) | K35-Sz1 (Schachturm-Aufstellung als V/M-Initiations-Beat) | geplant | Yarros-Privat-Code-Variation zur Tee-Daumen-Geste |
 | TZ-142 | Schachturm-Initiation (umgekehrt zu K27) | K35 (geplant) | B2 (V/M-Trennung, Initiations-Pattern bricht ab) | geplant | Body-Anker im Hemd-Saum |
 | TZ-143 | 4:33-Standuhr-Takt im Ficken | K35 (geplant) | K37 (Ritual mit 4:33-Takt), B2/B3 (Vesper-Resonanz-Signatur körperlich integriert) | geplant | Ritual-Vorprägung über Körper |
 | TZ-144 | „halt"-Wort (Sicherheits-Klausel etabliert) | K35 (geplant) | B2 (V/M-Trennungs-Code, optional) | geplant | Trigger-Wort, kann ungetriggert bleiben |
@@ -194,7 +201,7 @@ Zentrales Tracking von Plant→Payoff-Beziehungen. **Single Source of Truth** f�
 
 ## Statistik
 
-- **Plants gesamt:** 155
+- **Plants gesamt:** 162
 - **Davon abgefeuert (innerhalb B1):** 73
 - **Davon geladen (etabliert, warten auf Payoff):** 53
 - **Davon geplant (in Aktplan/Entwurf, noch nicht final):** 24
