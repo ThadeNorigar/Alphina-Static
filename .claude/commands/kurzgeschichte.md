@@ -214,6 +214,7 @@ Datei: `buch/kurzgeschichten/{YYYYMMDD}-{slug}.md`
 ---
 typ: Kurzgeschichte (Würfel-Output)
 canon_status: Stil-Übung — kein Plot-Canon, keine Kaskade
+versteckt: false  # auf "true" setzen, um Geschichte aus dem Web-Output auszublenden ohne Datei zu loeschen
 gezogen_am: YYYY-MM-DD
 figuren: [Name1, Name2, ...]
 welt: Thalassien | Moragh

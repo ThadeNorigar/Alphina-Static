@@ -109,6 +109,10 @@ def load_geschichten():
             datum = f"{datum_raw[:4]}-{datum_raw[4:6]}-{datum_raw[6:8]}"
             slug = m.group(2)
 
+        # versteckte Geschichten ueberspringen (Frontmatter `versteckt: true`)
+        if str(meta.get("versteckt", "")).strip().lower() in ("true", "ja", "1"):
+            continue
+
         wortzahl = len(re.findall(r"\b\w+\b", body))
         titel = extract_title(body, slug)
 
