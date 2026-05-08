@@ -5,6 +5,8 @@ story-in-work/lektorat-versions/*.json
 story/data/synopsen.json
 story-in-work/data/figuren.json
 story-in-work/leseproben.html
+kurzgeschichten/index.html
+story-in-work/kurzgeschichten.html
 
 # Lokale Claude-Settings
 .claude/settings.local.json
