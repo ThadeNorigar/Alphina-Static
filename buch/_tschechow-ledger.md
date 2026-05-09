@@ -37,7 +37,7 @@ Zentrales Tracking von Plant→Payoff-Beziehungen. **Single Source of Truth** f�
 | TZ-014 | Harons Bleistift, kurz, abgebrochene Spitze | K04 | (offen) | geladen | Mögliches Tagebuch-Indiz für Haron-Geheimnis |
 | TZ-015 | Garten am Klippenrand (wo Haron nachts hinging) | K04 | K08, K17/K27 (Werft-Pochen) | abgefeuert | Setup für rückwärts fließende Grauwe und Werft-Pochen |
 | TZ-016 | Strudel in der Badewanne (Marens Wasser-Resonanz) | K04 | K08, K22, K27, K28 | abgefeuert | Wachsende Wasser-Resonanz bis Steinkreis-Kompass K28 |
-| TZ-017 | Rückwärts fließende Grauwe (Tohl Daverin erzählt) | K04 | K08, K14, K22, K28, K31 (drei Boote) | abgefeuert | Stadtweites Eskalations-Phänomen |
+| TZ-017 | Rückwärts fließende Grauwe (Tohl Daverin erzählt) | K04 | K08, K14, K22, K28, K32 (drei Boote) | abgefeuert | Stadtweites Eskalations-Phänomen |
 | TZ-018 | Runa Kvist mit heißen Händen + Kerzenstillstand | K05 | K09, K11, K25, K30, K31, K32, K34 | abgefeuert | Runas Feuer-Resonanz-Bogen — von „heiß" bis öffentlich brennend |
 | TZ-019 | Sieben Hirschzungenfarne am Stadttor drehen sich auf Alphina | K05 | K15 (Hafensteg-Farne), K34 (Garten blüht) | abgefeuert | Resonanz-Reichweite über Garten hinaus |
 | TZ-020 | Rauch-Wesen in der Hafengasse (180°-Kopf, neugierig) | K05 | K06, K08, K10, K12, K15, K28+ | abgefeuert | Schemen-Wesen-Sequenz, eskaliert bis K30 Offensive |
@@ -76,7 +76,7 @@ Zentrales Tracking von Plant→Payoff-Beziehungen. **Single Source of Truth** f�
 | TZ-048 | Schiffsuhr (Riss von Elf zur Sechs) — Maren-zu-Vesper-Auftrag | K14 | K17 (Vesper liefert sie ab) | abgefeuert | Wiedersehen-Timer eingelöst |
 | TZ-049 | Maren-Nagel-Metapher („gesetzt, nicht eingetrieben") | K14 | K17, K20, K27 (sie bleibt) | abgefeuert | Marens Begehrens-Bogen zu Vesper |
 | TZ-050 | Wirts-Klopfen (zwei Knöchel aufs Holz) | K14 | (offen) | geladen | Zeugen-Anker; mögliches Echo in K34/K35 |
-| TZ-051 | Humanoide Gestalt mit schwarzen Augen kippt den Kopf zu Alphina | K15 | K30, K31 (kauterisierende Hand am Hals), K38 (Varens Hand am Kinn) | abgefeuert | Varens Schemen als sein eigener Blick auf Alphina |
+| TZ-051 | Humanoide Gestalt mit schwarzen Augen kippt den Kopf zu Alphina | K15 | K30, K32 (kauterisierende Hand am Hals), K38 (Varens Hand am Kinn) | abgefeuert | Varens Schemen als sein eigener Blick auf Alphina |
 | TZ-052 | Runas Karte: engmaschiger Kreis mit Mittelpunkt im Garten | K15 | K23, K26 (Gruppentreffen), K34 | abgefeuert | Räumliche Beweis-Lage |
 | TZ-053 | Sorel und Alphina Begegnung am Hafen ohne Wort | K15 | K25 (Bruch) | abgefeuert | Schweigen vor Konfrontation |
 | TZ-054 | Zwölfte Platte (Akt) als Vertrauensbruch | K16 | K25 (Konfrontation), B3 (Sub-Phase mit Vesper als Echo) | abgefeuert | Sorel kann nicht abschalten — Tragik-Linie zum Tod |
@@ -119,10 +119,10 @@ Zentrales Tracking von Plant→Payoff-Beziehungen. **Single Source of Truth** f�
 | TZ-086 | Feuer-Wesen-Skizze (Lene Dahls Manuskript) | K24 | K30 (Hörner-Stümpfe-Wesen) | abgefeuert | Wesen-Bauart-Wiedererkennung |
 | TZ-087 | Sorels zwei Finger auf Alphinas Handgelenk (er erkennt Varen auf den Platten) | K24 | K38 (Varens Identität) | geladen | Sorels stilles Wissen — wird mit ihm sterben |
 | TZ-088 | Esthers Ruhe + Jaras Forschungsdrang | K24 | K40 (Epilog Esther vor totem Riss) | geladen | Vael-Insider-Zeugen für Epilog |
-| TZ-089 | Eingebrannter Fingerabdruck im Werkbank-Holz (Runas Druckerei) | K25 | K32 (Selbst-Erkenntnis), K34 | abgefeuert | Runas physische Spur |
+| TZ-089 | Eingebrannter Fingerabdruck im Werkbank-Holz (Runas Druckerei) | K25 | K31 (Selbst-Erkenntnis), K34 | abgefeuert | Runas physische Spur |
 | TZ-090 | Setzergehilfe Joran (Maren-Hotspot) | K25 | K30 (Joran tot in Druckerei) | abgefeuert | Erste namentliche Tote der Vier-Welt |
 | TZ-091 | Magd vom Garten mit katzengroßen Mauer-Schemen | K25 | K34 (Schemen am Ritualkreis-Rand) | geladen | Garten-Schemen-Präsenz |
-| TZ-092 | Runas Verdrängung des Papier-Brands | K25 | K31 (öffentlich gebrochen), K32 | abgefeuert | Verdrängungs-Mechanismus eingelöst |
+| TZ-092 | Runas Verdrängung des Papier-Brands | K25 | K32 (öffentlich gebrochen), K31 | abgefeuert | Verdrängungs-Mechanismus eingelöst |
 | TZ-093 | Drift-Gezeiten-Korrelation (Quartett-Datenabgleich) | K26 | K33 (Schwerkraftanomalie aufgelöst) | abgefeuert | Vespers Beweis-Matrix |
 | TZ-094 | Junge mit versengtem Haar | K26 | K30 (Nacht-Angriff) | abgefeuert | Eskalations-Vorzeichen |
 | TZ-095 | Halvards Fingerabdruck-Skizze neben Harons Blatt | K26 | K30+ (Schem-Eskalation) | abgefeuert | Hände-Identifikator über Welten |
@@ -131,16 +131,16 @@ Zentrales Tracking von Plant→Payoff-Beziehungen. **Single Source of Truth** f�
 | TZ-098 | Vesper-Sprach-Beat (zum ersten Mal seit Karst ungewisses Werkstück) | K26 | K33, B2+ | geladen | Vesper-Arc-Anker |
 | TZ-099 | Marens „Bleib noch." | K26 | K27 (V/M Dom/Sub-Nacht) | abgefeuert | Direkter Lead-In |
 | TZ-100 | Das sechste Wort (*Durchgang/Übergang*) | K27 | K34 (Ritual-Vollzug) | abgefeuert | Sprachschatz-Gradmesser |
-| TZ-101 | Das siebte, offene Wort (Zusatzstrich) | K27 | K29–K31, K34 | abgefeuert | Ritual-Feinheiten |
-| TZ-102 | Marens Sub-Haltung (Hände flach, Atmen, Schweigen auf Anweisung) | K27 | K31+, K35, B2 (Erinnerung als Anker) | abgefeuert | Power-Exchange-Grammatik |
+| TZ-101 | Das siebte, offene Wort (Zusatzstrich) | K27 | K29–K32, K34 | abgefeuert | Ritual-Feinheiten |
+| TZ-102 | Marens Sub-Haltung (Hände flach, Atmen, Schweigen auf Anweisung) | K27 | K32+, K35, B2 (Erinnerung als Anker) | abgefeuert | Power-Exchange-Grammatik |
 | TZ-103 | Vespers Erlaubnis-Geste „Du darfst" | K27 | K35, B2 (Trennung) | abgefeuert | V/M-Grammatik-Pfeiler |
 | TZ-104 | Vespers nicht-berührende Nähe (Dominanz ohne Griff) | K27 | K35, B2 (körperliche Trennung verkraften) | geladen | Kontrast zu K20-Griff |
 | TZ-105 | Marens Lederriemen am linken Handgelenk (mitgebrachtes Ding) | K27 | (B2/B3 Anker) | geladen | Persönliches Canon-Detail |
 | TZ-106 | Flechtmatte (nicht-Bett-Register) | K27 | B2 (kein Bett in Moragh) | geladen | Setting-Vorbereitung |
-| TZ-107 | Süß-dichter Geruch aus dem Südosten | K28 | K30, K31 (Marktplatz, Tuchhändler-Hals), K37 | abgefeuert | Schemen-Tötungs-Signatur, Cross-POV-Anker |
+| TZ-107 | Süß-dichter Geruch aus dem Südosten | K28 | K30, K32 (Marktplatz, Tuchhändler-Hals), K37 | abgefeuert | Schemen-Tötungs-Signatur, Cross-POV-Anker |
 | TZ-108 | Schemen-Grenze = Steinkreis (Material-Linie) | K28 | K34 (Ritual-Schutz), K36 | abgefeuert | Portal-Schwellen-Mechanik |
 | TZ-109 | Stein-Salz-Geschmack (fremdes Salz) | K28 | B2 (Moragh-Meer-Wiedererkennung) | geladen | Cross-Welt-Sensor |
-| TZ-110 | Tote ohne Wunde, Pistole nicht gezogen (Lehrling) | K28 | K30 (Joran), K31 (Tuchhändler) | abgefeuert | Schemen-Tötungs-Signatur etabliert |
+| TZ-110 | Tote ohne Wunde, Pistole nicht gezogen (Lehrling) | K28 | K30 (Joran), K32 (Tuchhändler) | abgefeuert | Schemen-Tötungs-Signatur etabliert |
 | TZ-111 | Marens erst-abgeschlossene Wohnungstür | K28 | (Akt III/IV) | geladen | Vael-Sicherheits-Bruch |
 | TZ-112 | Vesper/Maren-Wohnsituation gemeinsame Wohnung Hafengasse | K28+ | K35 (Vael-Nacht), B2 (Trennung) | geladen | Beziehungs-Zenit-Vorbereitung |
 | TZ-113 | Plattenkamera unter Tuch (seit Lichtmond unangetastet) | K29 | K38 (letztes Bild seines Lebens, Licht ohne Kamera) | geladen | Sorels Identitäts-Aufgabe — feuert beim Tod |
@@ -148,25 +148,25 @@ Zentrales Tracking von Plant→Payoff-Beziehungen. **Single Source of Truth** f�
 | TZ-115 | Passive Schemen-Beobachtung als Konstante (Lichthaus-Keller) | K29 | K30 (Offensive), K38 (Varens Schutzschemen wartet im Schatten) | abgefeuert | Schemen-Mechanik-Erweiterung |
 | TZ-116 | Verdunkelung als Anti-Schemen-Werkzeug | K29 | K30 (Werft-Querstraße: Wesen bleibt drin) | abgefeuert | Sorels Licht-Repertoire-Anwendung |
 | TZ-117 | Sorels innerer Schwur (ungesagt, beim Wachen neben Alphina) | K30 | K38 (er stirbt, schützt sie) | geladen | Schwur-Tod-Bogen |
-| TZ-118 | Frost im Knochen (Sorels Bein-Wunde) | K30 | K31 (Hinken), K33 (Vesper-Verband), K37 (Schwächegefühl), K38 (Eis als Vorwarnung) | abgefeuert | Vorwarnung für Sorel-Tod |
+| TZ-118 | Frost im Knochen (Sorels Bein-Wunde) | K30 | K32 (Hinken), K33 (Vesper-Verband), K37 (Schwächegefühl), K38 (Eis als Vorwarnung) | abgefeuert | Vorwarnung für Sorel-Tod |
 | TZ-119 | Drei-Resonanzen-Kopplung (Maren+Alphina+Vesper) | K30 | K37 (Vier-Resonanzen-Kopplung) | abgefeuert | Eskalation Zwei→Drei→Vier |
 | TZ-120 | Hörner-Stümpfe-Schemen-Bauart (gespaltene Tritte, schwarze Augen) | K30 | B2 (Schemen-Bauarten in Moragh) | geladen | Wesen-Katalog für Buch 2 |
-| TZ-121 | Brandstellen in der Druckerei (Setzkasten, Türrahmen, Presse) | K30 | K32 (Runa sitzt am Setzkasten-Fleck), K34 | abgefeuert | Runas Selbst-Erkenntnis-Anker |
-| TZ-122 | Letter „A" in Alphinas Manteltasche | K31 | K34/K35 (mögliche Rückgabe an Runa) | geladen | Persönliches Erinnerungs-Stück |
-| TZ-123 | Probebrett mit Brandfleck in Runas Beutel | K31 | K32 (Runa-Werkstatt-Selbsterkenntnis) | abgefeuert | Materielles Setzkasten-Echo |
-| TZ-124 | Speicher-Hitze-Takt drei Wellen pro Atemzug | K31 | K33 (Schwerkraftanomalie + Steinkreis-Frequenz) | geladen | Vespers Mustererkennungs-Kette |
-| TZ-125 | Drei leere Boote auf der Grauwe | K31 | B2 (Maren+Vesper finden Hinweise auf Magie-Bewegung) | geladen | Marens Buch-2-Brücke |
-| TZ-126 | Thar-Schemen vierbeinig verzundertes Eisen | K31 | B2 (Thar-Pilotin Nyr und Druck-Resonanz) | geladen | Zweite Schemen-Fraktion etabliert |
-| TZ-127 | Kauterisierte Hand-Stelle am Tuchhändler-Hals | K31 | K33 (Vesper koppelt mit Sorels Wunde) | geladen | Schemen-Schaden-Cross-Reference |
-| TZ-128 | Schemen sucht keinen Zweiten — Druck-Erzeugung statt gezielter Mord | K31 | B2/B3 (Vier rekonstruieren Methode) | geladen | Varens Logik-Indikator |
-| TZ-129 | Modus-C-Farn-Manifestation auf Fensterbrett | K31 | B2/B3 (Sorel-spezifische Heat-Echo-Spur) | geladen | Cross-Anker zu Varen-Dornen-mit-Purpurblüten |
-| TZ-130 | Tarn als Augenzeuge (Druckergeselle) | K31 | K32 (Übergabe-Empfänger), K40 (Epilog: Tarn an der Druckerei) | abgefeuert | Druckerei läuft nach Vael-Verlassen weiter |
-| TZ-131 | Runas Verformbarkeit von Blei | K32 | K34 (Steinkreis), B2 (Stein in Hand wird glühend) | geladen | Stufe-3-Manifestation der Feuer-Resonanz |
-| TZ-132 | Eigene Haut immun gegen eigenes Feuer (Runa) | K32 | B2 (Stein in Hand, Metall biegsam) | geladen | Resonanz-Selbstschutz |
-| TZ-133 | Runas Selbstkontrolle der Wärme (Becher kühler als Hand) | K32 | K37 (Ritual ohne Versengen), B2 (Stufe 4: Hitze entziehen) | geladen | Kontrolle-Progression |
-| TZ-134 | Runas „Wenn ihr mich lasst" (privat → öffentlich) | K32 | K34 (öffentlich), K37 (sie schlüpft als fünfte durch) | geladen | Fünfte-Resonanz-Setup |
-| TZ-135 | Drei Dinge: Notizbuch, Zinnflasche, Bleilettern-Sammlung | K32 | K36/K37 (Runa stolpert mit ihnen durchs Tor), B2 | geladen | Was Runa nach Moragh nimmt |
-| TZ-136 | Übergabevertrag mit Tarn (zwei Zeugen) | K32 | K40 (Epilog) | geladen | Druckerei-Kontinuität |
+| TZ-121 | Brandstellen in der Druckerei (Setzkasten, Türrahmen, Presse) | K30 | K31 (Runa sitzt am Setzkasten-Fleck), K34 | abgefeuert | Runas Selbst-Erkenntnis-Anker |
+| TZ-122 | Letter „A" in Alphinas Manteltasche | K32 | K34/K35 (mögliche Rückgabe an Runa) | geladen | Persönliches Erinnerungs-Stück |
+| TZ-123 | Probebrett mit Brandfleck in Runas Beutel | K32 | K31 (Runa-Werkstatt-Selbsterkenntnis) | abgefeuert | Materielles Setzkasten-Echo |
+| TZ-124 | Speicher-Hitze-Takt drei Wellen pro Atemzug | K32 | K33 (Schwerkraftanomalie + Steinkreis-Frequenz) | geladen | Vespers Mustererkennungs-Kette |
+| TZ-125 | Drei leere Boote auf der Grauwe | K32 | B2 (Maren+Vesper finden Hinweise auf Magie-Bewegung) | geladen | Marens Buch-2-Brücke |
+| TZ-126 | Thar-Schemen vierbeinig verzundertes Eisen | K32 | B2 (Thar-Pilotin Nyr und Druck-Resonanz) | geladen | Zweite Schemen-Fraktion etabliert |
+| TZ-127 | Kauterisierte Hand-Stelle am Tuchhändler-Hals | K32 | K33 (Vesper koppelt mit Sorels Wunde) | geladen | Schemen-Schaden-Cross-Reference |
+| TZ-128 | Schemen sucht keinen Zweiten — Druck-Erzeugung statt gezielter Mord | K32 | B2/B3 (Vier rekonstruieren Methode) | geladen | Varens Logik-Indikator |
+| TZ-129 | Modus-C-Farn-Manifestation auf Fensterbrett | K32 | B2/B3 (Sorel-spezifische Heat-Echo-Spur) | geladen | Cross-Anker zu Varen-Dornen-mit-Purpurblüten |
+| TZ-130 | Tarn als Augenzeuge (Druckergeselle) | K32 | K31 (Übergabe-Empfänger), K40 (Epilog: Tarn an der Druckerei) | abgefeuert | Druckerei läuft nach Vael-Verlassen weiter |
+| TZ-131 | Runas Verformbarkeit von Blei | K31 | K34 (Steinkreis), B2 (Stein in Hand wird glühend) | geladen | Stufe-3-Manifestation der Feuer-Resonanz |
+| TZ-132 | Eigene Haut immun gegen eigenes Feuer (Runa) | K31 | B2 (Stein in Hand, Metall biegsam) | geladen | Resonanz-Selbstschutz |
+| TZ-133 | Runas Selbstkontrolle der Wärme (Becher kühler als Hand) | K31 | K37 (Ritual ohne Versengen), B2 (Stufe 4: Hitze entziehen) | geladen | Kontrolle-Progression |
+| TZ-134 | Runas „Wenn ihr mich lasst" (privat → öffentlich) | K31 | K34 (öffentlich), K37 (sie schlüpft als fünfte durch) | geladen | Fünfte-Resonanz-Setup |
+| TZ-135 | Drei Dinge: Notizbuch, Zinnflasche, Bleilettern-Sammlung | K31 | K36/K37 (Runa stolpert mit ihnen durchs Tor), B2 | geladen | Was Runa nach Moragh nimmt |
+| TZ-136 | Übergabevertrag mit Tarn (zwei Zeugen) | K31 | K40 (Epilog) | geladen | Druckerei-Kontinuität |
 
 ## Plants — Akt IV (K33–K40, geplant, noch nicht final)
 
@@ -177,7 +177,7 @@ Zentrales Tracking von Plant→Payoff-Beziehungen. **Single Source of Truth** f�
 | TZ-139 | Steinkreis leuchtet, Schemen zurückgedrückt | K34 (geplant) | K36 (Grenze war Portal-Schwelle) | geplant | Schwellen-Mechanik |
 | TZ-140 | Marens „warte auf mich" (am Boot) | K34 (geplant) | B2-K39 (Maren kommt zurück), B3 (Boot wartet, SFG) | geplant | Boot-Tschechow trilogie-weit |
 | TZ-141 | Fünf statt Vier (Runa schlüpft durch) | K34-Sz3c (Belauschen, Wann/Wo/Wer-Wissen + Tarnung bereit) | K37 (Runa folgt heimlich, springt durchs Tor; Varen erwartet vier, Fünf verändert alles) | geplant | Setup verlagert auf Sz3c-Belauschen statt K34-Inklusion (Refactor 2026-05-08) |
-| TZ-156 | Jorans schwarzer Mantel (hing seit K32 zwei Wochen am Haken) | K34-Sz3c (geplant — Runa zieht ihn als Tarnung an) | K37 (Tarnung in der Daemmerung), K38 (Mantel verbrennt im Bröseleffekt — Symbolik ohne Erzähler-Glosse) | geplant | Joran-Tod-Echo + Sorel-Tod-Zeugnis durch denselben Stoff |
+| TZ-156 | Jorans schwarzer Mantel (hing seit K31 zwei Wochen am Haken) | K34-Sz3c (geplant — Runa zieht ihn als Tarnung an) | K37 (Tarnung in der Daemmerung), K38 (Mantel verbrennt im Bröseleffekt — Symbolik ohne Erzähler-Glosse) | geplant | Joran-Tod-Echo + Sorel-Tod-Zeugnis durch denselben Stoff |
 | TZ-157 | Drei Druck-Märker in Runas Innentasche (Berufsreflex) | K34-Sz3c (geplant — sie packt sie ein ohne Innen-Glosse) | K37 (Marker in feuchte Erde am Stein-Sockel + zweiter im Lindengebusch), K40 (Voss-Recherche — Marker als physische Spur) | geplant | Trauma-Körper-Logik, Hand-kennt |
 | TZ-158 | Heat-Echo-Farnwedel an A/S-Hauseingang-Steinritze (Modus C, dezent) | K34-Sz3b (geplant — Sorel sieht Wedel beim Eintreten, versteht nicht; Wedel BLEIBT AUSSEN) | K36 (Steinkreis-Voll-Manifestation der Farne als Sorels Form-Echo), K40 (Halvard findet leere A/S-Wohnung mit Wedel an der Schwelle) | geplant | Sorel-Prinzip eingehalten — Erzähler kommentiert nicht |
 | TZ-159 | Schemen-Inventur als physische Papier-Liste (Jara führt Bogen mit Mittellinie, links Bauart, rechts Magie-Modus) | K34-Sz2 (geplant) | (offen — kann in K38 oder K40 wieder auftauchen, oder verschollen) | geplant | Babel-Tech-Echo zum K33-Drei-Spalten-Bogen |
@@ -191,7 +191,7 @@ Zentrales Tracking von Plant→Payoff-Beziehungen. **Single Source of Truth** f�
 | TZ-146 | Werkbank-Pendule 4:33-Takt | K35 (geplant) | K33, K35, B2 (Pendule bleibt in Vael) | geplant | Material-Anker für 4:33 |
 | TZ-147 | Steinkreis-Kuss am letzten Abend, Garten blüht | K36 (geplant) | (Schluss-Beat Akt IV) | geplant | Letzter Vael-Moment |
 | TZ-148 | Portal öffnet sich 4:33 | K37 (geplant) | (Setup für Buch-Strukturpunkt) | geplant | Einweg, Portal-Mechanik |
-| TZ-149 | Sorels Bündelung mit Verletzungs-Wirkung | K30, K31 | B2 (Sorel als Sonderwaffe) | abgefeuert (B1) / geplant (B2) | Sorels einzige Offensiv-Anwendung |
+| TZ-149 | Sorels Bündelung mit Verletzungs-Wirkung | K30, K32 | B2 (Sorel als Sonderwaffe) | abgefeuert (B1) / geplant (B2) | Sorels einzige Offensiv-Anwendung |
 | TZ-150 | Halvards Rationalismus | K09, K26, K30 | K37, K40, B2 Ende (Bericht) | geplant | Wissenschaftler-als-Zeuge-Bogen |
 | TZ-151 | Vier-Werke-Kollektiv-Experiment (Werkbank-Pendule + drei Justier-Pendel synchronisiert + als Ein-Vorgang gesteuert) | K33 | K37 (Vier-Resonanzen-Ritual als Kollektiv-Schwingung), B2 (Kollektiv-Magie-Akte mit Maren) | geplant | Vespers erste bewusste Kollektiv-Anwendung; pflanzt Magie-Mechanik fuer Ritual |
 | TZ-152 | Drei-Spalten-Bogen (Vesper-Drift × Maren-Gezeiten × Runa-Sichtungen) | K33 | K34 (Vesper bringt Bogen zum Treffen, alle fuenf sehen die Daten) | geplant | Physisches Artefakt der K33-Erkenntnis |

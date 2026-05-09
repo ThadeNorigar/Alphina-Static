@@ -233,7 +233,7 @@ Wenn die Handlungsbeschreibung lueckenhaft ist (Platzhalter, „und dann irgendw
 
 **Takt:** 1 Block = **3–5 Absaetze, ~150–500 Woerter**. Nicht mehr. Dann STOP.
 
-**Grundprinzip seit 2026-05-04 (Pattern aus NousResearch/autonovel + eigene K31-Erfahrung):**
+**Grundprinzip seit 2026-05-04 (Pattern aus NousResearch/autonovel + eigene K32-Erfahrung):**
 - **Voice-Anchoring:** Schreib-Subagent erhält 2 passende Voice-Exemplars aus `pov/{figur}-voice-exemplars.md` **wörtlich im Prompt**. Stil verankert sich an eigenen etablierten Passagen, nicht an externen Yarros/Maas-Zitaten.
 - **Layer-1 Antislop:** `scripts/antislop-check.py` als mechanischer Pre-Filter VOR den Subagent-Checks. Exit 2 = sofortiger Reject. Kein Stilkritik-Theater, brutale Pattern-Logik.
 - **Reject-Regenerate statt Inline-Fix:** Bei PFLICHT-Findings wird der Block **verworfen und neu geschrieben** mit Findings als Verbots-Erweiterung. Inline-Fix nur für TIC/EMPFEHLUNG. Ende von Whack-a-Mole.
@@ -298,7 +298,7 @@ Wenn die Handlungsbeschreibung lueckenhaft ist (Platzhalter, „und dann irgendw
   (b) Block manuell schreiben (Hauptsession)
   (c) Plot-Beat zurück zum Entwurf
 - **Findings-Diff = 0** zwischen zwei Iterationen (Findings reproduzieren sich identisch) → STOPP, selbe Eskalation
-- Verhindert Whack-a-Mole-Iterationen wie Sz1 v1–v6 (K31-Lehre)
+- Verhindert Whack-a-Mole-Iterationen wie Sz1 v1–v6 (K32-Lehre)
 
 **Reject-Regenerate-Prompt-Erweiterung:**
 Wenn Block reject (PFLICHT): Schreib-Subagent bekommt im neuen Lauf zusätzlich folgenden Block am Ende des Prompts:

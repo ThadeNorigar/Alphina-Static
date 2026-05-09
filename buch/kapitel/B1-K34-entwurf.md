@@ -7,7 +7,7 @@
 - **Sz3b: Sorel** (Tuer-Disziplin)
 - **Sz3c: Runa** (heimliches Belauschen, Treppenhaus → Heimweg)
 
-**Anwesend:** Alphina, Sorel, Vesper, Maren, Jara als Manuskript-Traegerin. **Runa NICHT.** Sie wird nicht eingeweiht. K32-Canon (final): *„Gefragt wuerde sie nicht werden. Fragen wuerde sie auch nicht. Mitgehen wuerde sie trotzdem."* + kapitel-summaries K32: *„Plot-Wechsel: Runa wird NICHT eingeweiht. Sie folgt heimlich (Setup fuer K36 'Runa folgt unbemerkt')."* + Aktplan 04-akt3.md ebenso. Runas Folgen-Plot wird in K37 (Runa-POV) eingeloest.
+**Anwesend:** Alphina, Sorel, Vesper, Maren, Jara als Manuskript-Traegerin. **Runa NICHT.** Sie wird nicht eingeweiht. K31-Canon (final): *„Gefragt wuerde sie nicht werden. Fragen wuerde sie auch nicht. Mitgehen wuerde sie trotzdem."* + kapitel-summaries K31: *„Plot-Wechsel: Runa wird NICHT eingeweiht. Sie folgt heimlich (Setup fuer K36 'Runa folgt unbemerkt')."* + Aktplan 04-akt3.md ebenso. Runas Folgen-Plot wird in K37 (Runa-POV) eingeloest.
 
 **Timeline:** 1. Dunkelmond 551 TZ, Abend bis tiefe Nacht. Setting: Marens/Vespers gemeinsame Wohnung in der Hafengasse (etabliert seit Glutmond, siehe K35-Entwurf Sz1). 10 Tage nach K33. Direkt vor K35 (Maren ruft Vesper zur Sex-Session) und K36 (letzter Abend, Steinkreis).
 
@@ -65,7 +65,7 @@ Was sie **NICHT wissen** (Vesper sagt es explizit): wie lang das Tor offen bleib
 - 4:33 als Takt unter dem Steinkreis (K33) — operativ in der Gruppe als Pendel-Physik-Beobachtung benannt (Newton-Niveau, kein modernes Vokabular), ohne Vermischung mit Tor-Dauer.
 - 7 × 39 als geometrische Ableitung (K33) — Vespers Folgerung aus K11-Uhren-Karte, mit Pendel-Physik gestuetzt.
 - „Tor" + „Mittelpunkt" als Vespers eigene Begriffe (K11/K33) — am Tisch teilen alle das Vokabular.
-- Lenes Manuskript-Linie (K17/K20/K24/K28/K32) — Schluss-Zeile als bekannter Punkt erinnert.
+- Lenes Manuskript-Linie (K17/K20/K24/K28/K31) — Schluss-Zeile als bekannter Punkt erinnert.
 - Harons Ritual-Blatt + Woerterbuch (K20/K24/K26-Entzifferung) — Grundformel als operative Anleitung benannt.
 - K28-Vorsorge-Pattern (gedaempftes Lampenlicht).
 
@@ -82,7 +82,7 @@ Was sie **NICHT wissen** (Vesper sagt es explizit): wie lang das Tor offen bleib
 **POV:** Alphina Farn (durchgehend)
 **Wortziel:** 2.000–2.400 W
 
-Nach Vespers *„Morgen Abend gehen wir"* schlaegt Vesper als naechstes vor: zusammenzutragen, was sie ueber Schemen wissen, und durchzuspielen, was jede Resonanz gegen sie kann. Jara nimmt einen leeren Bogen, zieht eine senkrechte Linie in die Mitte: links Bauart, rechts Magie-Modus. Echo zum Drei-Spalten-Bogen aus K33, der schon auf dem Tisch liegt. Vesper liest die Sichtungen, Jara schreibt mit. Alphina hoert mehr zu, als sie spricht. Sie sieht den Tisch — Vesper am Kopf, Maren rechts neben ihm, Sorel ihr gegenueber, Jara am anderen Ende mit Bogen und Bleistift. Inventur (in Reihenfolge der Erinnerung): katzengrosse Rauch-Wesen auf der Garten-Mauer (K12, sie + Sorel), vierbeinige Wesen jenseits der Steinlinie im Botanischen Garten + Rueckweg durch die Oberstadt-Gassen, kohlenrote Augen, Pfoten ohne Bodenkontakt, lautlos (K28, Maren), Hoernen-stuempfige humanoide mit Hufen oder gespaltenen Tritten (K30, alle), das Wesen am Hafenbrunnen mit Eis aus den Fingerspitzen (K30, Sorel-Verletzung), die kniehoch eisernen vier-beinigen mit dampfender Pflasterspur am Speicher Pfeiler 9 (K31, alle), das Tag-Wesen am Marktplatz mit Hand-am-Hals-Brandwunde (K31, sie + Runa). Jaras Bogen fuellt sich. Bauarten variieren — Beschwoerer definiert die Form. Magie-Modi unterschiedlich — Eis und Hitze beobachtet, mehr unbekannt. Lautlos in jeder Hinsicht. Schaden nur durch aktiv ausgeloeste Magie. Beruehrung allein harmlos. Koennen durch Material gehen.
+Nach Vespers *„Morgen Abend gehen wir"* schlaegt Vesper als naechstes vor: zusammenzutragen, was sie ueber Schemen wissen, und durchzuspielen, was jede Resonanz gegen sie kann. Jara nimmt einen leeren Bogen, zieht eine senkrechte Linie in die Mitte: links Bauart, rechts Magie-Modus. Echo zum Drei-Spalten-Bogen aus K33, der schon auf dem Tisch liegt. Vesper liest die Sichtungen, Jara schreibt mit. Alphina hoert mehr zu, als sie spricht. Sie sieht den Tisch — Vesper am Kopf, Maren rechts neben ihm, Sorel ihr gegenueber, Jara am anderen Ende mit Bogen und Bleistift. Inventur (in Reihenfolge der Erinnerung): katzengrosse Rauch-Wesen auf der Garten-Mauer (K12, sie + Sorel), vierbeinige Wesen jenseits der Steinlinie im Botanischen Garten + Rueckweg durch die Oberstadt-Gassen, kohlenrote Augen, Pfoten ohne Bodenkontakt, lautlos (K28, Maren), Hoernen-stuempfige humanoide mit Hufen oder gespaltenen Tritten (K30, alle), das Wesen am Hafenbrunnen mit Eis aus den Fingerspitzen (K30, Sorel-Verletzung), die kniehoch eisernen vier-beinigen mit dampfender Pflasterspur am Speicher Pfeiler 9 (K32, alle), das Tag-Wesen am Marktplatz mit Hand-am-Hals-Brandwunde (K32, sie + Runa). Jaras Bogen fuellt sich. Bauarten variieren — Beschwoerer definiert die Form. Magie-Modi unterschiedlich — Eis und Hitze beobachtet, mehr unbekannt. Lautlos in jeder Hinsicht. Schaden nur durch aktiv ausgeloeste Magie. Beruehrung allein harmlos. Koennen durch Material gehen.
 
 Sie spielen Kampf-Anwendungen pro Resonanz durch. Sorel: Buendeln (K30, Schaedel rauchte) oder Defokussieren (K30, Querstrasse, Wesen blieb drin). Limit: K10-Waechter im Garten schluckte Licht komplett. Plan: erst buendeln, wenn Wesen Licht schluckt → defokussieren. Bei mehreren Schemen: defokussieren grossflaechig. Vesper: verlangsamen — er hat in K30 Heilung beschleunigt; ob er ein Wesen einzeln dampfen kann, hat er noch nicht erprobt. Vier-Werke-Kollektiv-Steuerung aus K33 als Vorlage — falls mehrere Schemen, sieht er sie vielleicht als ein Kollektiv. Maren: Vereisen (K30 erprobt — sie hat Sorels Frost-Eis getaut, das war Schemen-Material). Sie kann Wasser zum Sieden bringen, festfrieren, als Saeule formen. Aber: alles braucht Wasser-Quelle, alles dauert 30–60 Sekunden, nichts ist instant. Marens Beat: sie spuert das Limit selbst, sagt es nicht aus. Alphina sieht es in ihrer Schulter-Haltung. Alphina selbst: Wachstum lenken, Heilen. Wenn drueben Pflanzen sind, kann sie Wurzeln aus dem Boden ziehen, die Wesen behindern — Wurzeln durch Stein hat sie noch nicht bewusst gemacht (B2-Bund-Training spaeter). Heilen als Backup fuer alle anderen.
 
@@ -99,7 +99,7 @@ Eine Frage haengt im Raum, niemand stellt sie aus. Maren stellt sie zum Schluss 
 Maren steht auf, holt frischen Tee — Care-Beat als Handlung. Jara macht Notizen. Standuhr schlaegt voll. Treffpunkt morgen Abend: Steinkreis im Botanischen Garten, eine Stunde vor Sonnenuntergang. Niemand bleibt laenger. Alphina trinkt den Tee aus, der Becher kuehlt unter ihren Fingern, das Holz der Tisch-Kante warm an der Stelle, wo Marens Hand vorhin abgestellt hat. Niemand sagt etwas, was die letzte-Nacht-Schwere benennen wuerde. Sub-Text traegt.
 
 **Dialog-Informationen:**
-- *Schemen-Inventur als Papier-Liste:* Jara fuehrt einen leeren Bogen mit Mittellinie — links Bauart, rechts Magie-Modus. Vesper liest, Jara schreibt. Echo zum K33-Drei-Spalten-Bogen. Augenzeugen korrekt: K12 katzengrosse Rauch-Wesen (Alphina + Sorel gemeinsame Sichtung). K28 vierbeinige jenseits der Steinlinie + Oberstadt-Gassen (Maren, Rueckweg vom Steinkreis, NICHT Hafengasse). K30 Hafenangriff (alle: humanoide mit Hufen, Hafenbrunnen-Wesen mit Eis). K31 Speicher-Wesen Pfeiler 9 (alle vier am Speicher). K31 Tag-Wesen Marktplatz mit Hand-am-Hals-Brandwunde (nur Alphina + Runa anwesend; Maren+Vesper waren am Speicher). Magie-Modi (Eis, Hitze). Lautlosigkeit. Schaden nur durch Magie. Beruehrung harmlos.
+- *Schemen-Inventur als Papier-Liste:* Jara fuehrt einen leeren Bogen mit Mittellinie — links Bauart, rechts Magie-Modus. Vesper liest, Jara schreibt. Echo zum K33-Drei-Spalten-Bogen. Augenzeugen korrekt: K12 katzengrosse Rauch-Wesen (Alphina + Sorel gemeinsame Sichtung). K28 vierbeinige jenseits der Steinlinie + Oberstadt-Gassen (Maren, Rueckweg vom Steinkreis, NICHT Hafengasse). K30 Hafenangriff (alle: humanoide mit Hufen, Hafenbrunnen-Wesen mit Eis). K32 Speicher-Wesen Pfeiler 9 (alle vier am Speicher). K32 Tag-Wesen Marktplatz mit Hand-am-Hals-Brandwunde (nur Alphina + Runa anwesend; Maren+Vesper waren am Speicher). Magie-Modi (Eis, Hitze). Lautlosigkeit. Schaden nur durch Magie. Beruehrung harmlos.
 - *Sorel-Anti-Schemen:* buendeln vs. defokussieren je nach Wesen. K10-Limit: Licht kann komplett geschluckt werden.
 - *Vesper-Anti-Schemen:* verlangsamen einzelner Wesen oder Kollektiv-Steuerung mehrerer. Noch nicht erprobt.
 - *Maren-Anti-Schemen:* Wasser-Manipulation (vereisen, kochen, formen). Limit: braucht Wasser, dauert 30–60 Sek, nichts instant.
@@ -131,7 +131,7 @@ Maren steht auf, holt frischen Tee — Care-Beat als Handlung. Jara macht Notize
 - **Vier-Kopplung am Tor** als Anti-Schemen-Hoffnung — niemand weiss. Tschechow fuer K37 (Ritual; die Vier-Kopplung haelt das Tor offen, koennte aber auch eine Schutz-Aura erzeugen — bricht zusammen, sobald die Vier durchgehen).
 
 **Tschechow-Waffen abgefeuert:**
-- K05/K12/K28/K30/K31 (alle Schemen-Sichtungen) — operativ am Tisch durchgesprochen.
+- K05/K12/K28/K30/K32 (alle Schemen-Sichtungen) — operativ am Tisch durchgesprochen.
 - K10-Waechter im Garten (Licht geschluckt) — als Limit fuer Sorel-Buendeln explizit.
 - K30-Drei-Kopplung — als Erfahrungs-Echo erwaehnt.
 - K33-Vier-Werke-Kollektiv-Steuerung — als Vorlage fuer Vesper-Schemen-Mehrfach-Verlangsamung.
@@ -142,7 +142,7 @@ Maren steht auf, holt frischen Tee — Care-Beat als Handlung. Jara macht Notize
 - K12 (Alphina): Steinkreis-Erstbegegnung. Heute Plan zum Tor.
 - K28 (Maren): Marens Steinkreis-Pochen + Sichtung der vierbeinigen Wesen am Garten-Rand auf dem Rueckweg (kohlenrote Augen, Pfoten ohne Bodenkontakt, lautlos). Hier in der Inventur konkret.
 - K30 (Sorel): Schwur, Hafenangriff, Frost im Knochen. Sorel hinkt heute Abend leicht.
-- K31 (Alphina): Marktplatz-Tag-Schemen + Runas Hitze offen. Hier in der Inventur. Runa wird am Tisch NICHT erwaehnt als geplante Mit-Reisende — die Vier wissen, dass sie Hitze hat, aber sie planen ohne Runa, weil Lenes Manuskript von Vier spricht.
+- K32 (Alphina): Marktplatz-Tag-Schemen + Runas Hitze offen. Hier in der Inventur. Runa wird am Tisch NICHT erwaehnt als geplante Mit-Reisende — die Vier wissen, dass sie Hitze hat, aber sie planen ohne Runa, weil Lenes Manuskript von Vier spricht.
 - K33 (Vesper): Schwerkraft-Hypothese, Vier-Werke-Kollektiv-Steuerung als Anti-Schemen-Vorlage.
 - K37 (kommend): Treffpunkt Steinkreis morgen Abend. Reihenfolge ergibt sich am Kreis. **Runa folgt heimlich** — wird in K37 (Runa-POV) eingeloest.
 - K38 (kommend, Alphina-POV): die heute geladenen Tschechows feuern (Sorels Resonanz-Limit, Alphinas „Nur aufbauen"-Bruch, Marens Hammer hilft nicht gegen Schutzschemen).
@@ -163,7 +163,7 @@ Maren steht auf, holt frischen Tee — Care-Beat als Handlung. Jara macht Notize
 
 ### Sz3a — Maren zur Werft
 
-Maren geht von der Wohnung die drei Minuten zur Werft. Sie will das Boot ein letztes Mal beruehren, das Werft-Tor abschliessen, eine Notiz fuer Edric hinterlegen (Uebergabe-Bestaetigung), den grossen Hammer aus der Werkbank holen (sie nimmt ihn morgen mit). Sie hat ihren Mantel uebergeworfen, den Schluessel am Lederband um den Hals, kein Mieder. Sie nimmt die kuerzeste Route durch die Hafengasse, vorbei an drei vernagelten Fenstern. Auf der Werft legt sie die Hand auf das halbfertige Boot, sagt leise *„warte auf mich"* — niemand hoert sie. Hinterlegt die Notiz fuer Edric an seinem Werkbank-Platz. Holt den grossen Hammer von der Werkzeug-Wand, wickelt ihn in Sackleinen, legt ihn neben die fertige Werkzeug-Tasche. Schliesst das Werft-Tor ab. Auf dem Rueckweg nimmt sie nicht die Hafengasse, sondern einen Umweg ueber die Sattlerstrasse-Muendung (K32-Anker). Sie erlaubt sich die Erinnerung an Joran ohne Pathos. Geht zur Wohnung zurueck, schliesst auf, tritt ein, schliesst die Tuer hinter sich, dreht den Riegel. Findet Vesper noch wach an der Werkbank-Ecke (er wartet ohne zu warten). Sie steht in der Diele, zieht den Mantel aus, haengt ihn an den Haken. Sie weiss, was sie heute Nacht noch tun wird (Setup K35: Schachturm aufstellen).
+Maren geht von der Wohnung die drei Minuten zur Werft. Sie will das Boot ein letztes Mal beruehren, das Werft-Tor abschliessen, eine Notiz fuer Edric hinterlegen (Uebergabe-Bestaetigung), den grossen Hammer aus der Werkbank holen (sie nimmt ihn morgen mit). Sie hat ihren Mantel uebergeworfen, den Schluessel am Lederband um den Hals, kein Mieder. Sie nimmt die kuerzeste Route durch die Hafengasse, vorbei an drei vernagelten Fenstern. Auf der Werft legt sie die Hand auf das halbfertige Boot, sagt leise *„warte auf mich"* — niemand hoert sie. Hinterlegt die Notiz fuer Edric an seinem Werkbank-Platz. Holt den grossen Hammer von der Werkzeug-Wand, wickelt ihn in Sackleinen, legt ihn neben die fertige Werkzeug-Tasche. Schliesst das Werft-Tor ab. Auf dem Rueckweg nimmt sie nicht die Hafengasse, sondern einen Umweg ueber die Sattlerstrasse-Muendung (K31-Anker). Sie erlaubt sich die Erinnerung an Joran ohne Pathos. Geht zur Wohnung zurueck, schliesst auf, tritt ein, schliesst die Tuer hinter sich, dreht den Riegel. Findet Vesper noch wach an der Werkbank-Ecke (er wartet ohne zu warten). Sie steht in der Diele, zieht den Mantel aus, haengt ihn an den Haken. Sie weiss, was sie heute Nacht noch tun wird (Setup K35: Schachturm aufstellen).
 
 **Dialog-Informationen Sz3a:**
 - *Maren erfaehrt* (intern, am Boot): das Boot ist fertig genug, dass Edric es zu Wasser bringen koennte. Ihr „warte auf mich" gilt der Idee der Rueckkehr.
@@ -176,7 +176,7 @@ Maren geht von der Wohnung die drei Minuten zur Werft. Sie will das Boot ein let
 
 ### Sz3b — A/S Heimkehr zu zweit
 
-Sorel und Alphina verlassen die V/M-Wohnung wenige Minuten nach Maren. Sie gehen die zwei Strassen zur eigenen Wohnung in der Hafengasse — sie wohnen seit K29 zusammen. Beide schweigen den groessten Teil des Wegs. Sorel registriert die Stadt — Photographen-Linse zaehlt: drei Patrouillen an der Marktplatz-Ecke, vernagelte Fenster, ein einzelnes volles Lampenoel-Fenster zwei Haeuser weiter (heller als Maren ihr Licht heute Abend gefuehrt hat — vermutlich Halvard wacht). An ihrem Hauseingang sieht Sorel einen einzelnen Farnwedel an der Steinritze neben dem Tuerrahmen — kleiner als ein Daumen, hellgruen im Lampenoel, an einer Stelle wo gestern noch Stein war. Er sieht ihn. Versteht nichts. Geht weiter, mit Alphina an seiner Seite. Sie treten zusammen ein. Tuer schliesst, Riegel dreht. Im Flur Mantel an den Haken, Stiefel ab. In der Wohnung: Tee, Holzrauch, ihr gemeinsamer Geruch (Sorels Mappenstaub aus K31 als Cross-POV-Anker). Keine Worte. Sie packen, jeder seine Mitnahmen. Spaeter Bett — kein expliziter Sex, aber Naehe ohne Distanz. Zwei Koerper neben dem Schlaf, beide wach. Schluss-Beat von Sz3b: konkrete Sinnesempfindung in der dunklen Wohnung — sie hoert ihn atmen, Farnwedel draussen am Hauseingang bleibt zurueck als Spur, Tidemoor-Uhr schlaegt halb in der Oberstadt durch das geschlossene Fenster. Niemand schlaeft sofort.
+Sorel und Alphina verlassen die V/M-Wohnung wenige Minuten nach Maren. Sie gehen die zwei Strassen zur eigenen Wohnung in der Hafengasse — sie wohnen seit K29 zusammen. Beide schweigen den groessten Teil des Wegs. Sorel registriert die Stadt — Photographen-Linse zaehlt: drei Patrouillen an der Marktplatz-Ecke, vernagelte Fenster, ein einzelnes volles Lampenoel-Fenster zwei Haeuser weiter (heller als Maren ihr Licht heute Abend gefuehrt hat — vermutlich Halvard wacht). An ihrem Hauseingang sieht Sorel einen einzelnen Farnwedel an der Steinritze neben dem Tuerrahmen — kleiner als ein Daumen, hellgruen im Lampenoel, an einer Stelle wo gestern noch Stein war. Er sieht ihn. Versteht nichts. Geht weiter, mit Alphina an seiner Seite. Sie treten zusammen ein. Tuer schliesst, Riegel dreht. Im Flur Mantel an den Haken, Stiefel ab. In der Wohnung: Tee, Holzrauch, ihr gemeinsamer Geruch (Sorels Mappenstaub aus K32 als Cross-POV-Anker). Keine Worte. Sie packen, jeder seine Mitnahmen. Spaeter Bett — kein expliziter Sex, aber Naehe ohne Distanz. Zwei Koerper neben dem Schlaf, beide wach. Schluss-Beat von Sz3b: konkrete Sinnesempfindung in der dunklen Wohnung — sie hoert ihn atmen, Farnwedel draussen am Hauseingang bleibt zurueck als Spur, Tidemoor-Uhr schlaegt halb in der Oberstadt durch das geschlossene Fenster. Niemand schlaeft sofort.
 
 **Dialog-Informationen Sz3b:**
 - *Wohn-Canon-Anker:* A/S wohnen seit K29 zusammen in Alphinas Wohnung Hafengasse (K30-final, Z.45/Z.145). Sorel schlaeft seit K29 jede Nacht hier. Heute Abend ist das ihre gemeinsame letzte Nacht in Vael — sie haben sie zusammen, nicht getrennt.
@@ -202,11 +202,11 @@ Sie geht in den Hauseingang. Treppenhaus dunkel, Geruch nach feuchtem Putz und B
 
 Mehr braucht sie nicht. Wo. Wann. Wer. Sie hat das letzte Wort gehoert, das ihr gefehlt hat. Sie geht die drei Stufen ohne Geraeusch zurueck, zwei Wohnungen tiefer eine Etage, dann durch den Hauseingang in die Gasse. Sie nimmt den Umweg ueber den Hafen, weil die Hafengasse direkt zur Druckerei nicht ohne Maren-Begegnungs-Risiko ist (Maren wird die Werft heute Nacht aufsuchen, das hat sie aus Marens Stimme gehoert).
 
-In der Druckerei. Sie legt die Tasche auf die Setzkasten-Werkbank. Sie zuendet keine Lampe. Sie nimmt den schwarzen Mantel von Joran (er hing zwei Wochen nach K32 noch am Haken, sie hatte ihn nicht weggeraeumt, K32-Anker) — er ist schwarz, er passt, er haengt seit zwei Wochen am Haken. Legt ihn ueber die Tuerklinke. Stiefel. Eine Laterne mit halbem Brennstoff. Drei Maerker. Sie geht nach oben in ihre Kammer. Sie schlaeft nicht.
+In der Druckerei. Sie legt die Tasche auf die Setzkasten-Werkbank. Sie zuendet keine Lampe. Sie nimmt den schwarzen Mantel von Joran (er hing zwei Wochen nach K31 noch am Haken, sie hatte ihn nicht weggeraeumt, K31-Anker) — er ist schwarz, er passt, er haengt seit zwei Wochen am Haken. Legt ihn ueber die Tuerklinke. Stiefel. Eine Laterne mit halbem Brennstoff. Drei Maerker. Sie geht nach oben in ihre Kammer. Sie schlaeft nicht.
 
 **Dialog-Informationen Sz3c:**
 - *Runa erfaehrt (durch Belauschen):* die vier gehen morgen Abend durch das Tor. Ort: Steinkreis im Botanischen Garten. Zeit: eine Stunde vor Sonnenuntergang. Lenes Manuskript-Schluss-Zeile *„Vier am Stein, zwei hindurch."* Sorels Liste der Nicht-Weiss-Punkte (Licht, Pflanzen, Wasser).
-- *Runa-Wissen vor heute Abend:* eigene Hitze seit K30 (Joran-Tod) und K31 (Marktplatz, alle anderen wissen es). Joran tot durch Schemen-Brand. Drei *Geister-von-Vael*-Folgen, dritte unfertig.
+- *Runa-Wissen vor heute Abend:* eigene Hitze seit K30 (Joran-Tod) und K32 (Marktplatz, alle anderen wissen es). Joran tot durch Schemen-Brand. Drei *Geister-von-Vael*-Folgen, dritte unfertig.
 - *Runa-innerer Beat (nicht ausgesprochen, knapp):* sie wartete auf einen Hinweis. Sie hat keinen bekommen. Sie wartete keinen weiteren ab. Sie ging. Verbsequenz statt Aphorismus, KEINE Cross-POV-Mindreading-Kaskade ueber andere Figuren.
 - *Runa-Entscheidung am Ende:* sie wird morgen Abend am Steinkreis sein. Wie sie hineintritt, ergibt sich. Sie nimmt Jorans Mantel — er ist schwarz, er passt, er haengt seit zwei Wochen am Haken. Keine Erzaehler-Glosse, keine Symbol-Ueberhoehung. /ausarbeitung-Pflicht: physische Spur (Schultern zu gross, Tabak im Kragen, sie zieht enger) statt Innen-Kommentar.
 - *Begriffs-Schranke Runa:* sie sagt nicht „Schemen", „Resonanz", „Moragh", „Tor", „Quelle". Sie hat „die vier" / „das, was sie tun" / „ihre Sache". Vespers Wort „Tor" hat sie heute zum ersten Mal gehoert, sie uebernimmt es nicht aktiv. KEIN „Quelle"-Distanz-Beat — Vesper sagt das Wort gar nicht (siehe Sz1-Begriffs-Schranke).
@@ -219,11 +219,11 @@ In der Druckerei. Sie legt die Tasche auf die Setzkasten-Werkbank. Sie zuendet k
 
 **Tschechow-Waffen abgefeuert Sz3c:**
 - K30-Joran-Tod (Schemen-Brand) — Mantel-Beat als stiller Anker.
-- K31-Marktplatz (Hitze offen) — Begruendung, warum Runa nicht eingeladen wurde, intern bei Runa selbst.
-- K32-Sattlerstrasse-Anker (Ort, an dem sie heute zum ersten Mal Jara wiedersieht).
+- K32-Marktplatz (Hitze offen) — Begruendung, warum Runa nicht eingeladen wurde, intern bei Runa selbst.
+- K31-Sattlerstrasse-Anker (Ort, an dem sie heute zum ersten Mal Jara wiedersieht).
 
 **Cross-POV-Ankerpunkte Sz3c:**
-- K32 (Runa-POV, final): Joran-Tod, vier Brandstellen, Mantel haengt am Haken seit zwei Wochen. K32-Stille traegt in Sz3c.
+- K31 (Runa-POV, final): Joran-Tod, vier Brandstellen, Mantel haengt am Haken seit zwei Wochen. K31-Stille traegt in Sz3c.
 - K37 (kommend, Runa-POV): direkter Anschluss. Sz3c liefert Runas operatives Wissen (Wann/Wo) und Tarnung (Jorans Mantel).
 - K38 (kommend, Alphina-POV): Bröseleffekt durch Runas Eintreten — heute Nacht im Mantel-Beat verankert.
 - Jara-Cross: Jara weiss nicht, dass Runa ihr gefolgt ist. Verschwiegenheit gegenueber den Vier ist intakt — der Bruch passiert durch Belauschen, nicht durch Plauderei. K40 kann das einloesen.
@@ -232,7 +232,7 @@ In der Druckerei. Sie legt die Tasche auf die Setzkasten-Werkbank. Sie zuendet k
 
 **Tschechow-Waffen geladen Sz3a+b:**
 - **Marens *„warte auf mich"* am Boot** — Tschechow fuer B2/B3.
-- **Marens K32-Sattlerstrasse-Beat** — abgefeuert als Trauer-Erlaubnis-Beat.
+- **Marens K31-Sattlerstrasse-Beat** — abgefeuert als Trauer-Erlaubnis-Beat.
 - **Notiz fuer Edric** — Setup K40.
 - **Marens grosser Hammer** — bereit fuer Aufbruch, Tschechow fuer Moragh.
 - **Farnwedel an A/S-Hauseingang-Steinritze** — Heat-Echo (Modus C, Sorel = Farne). Wedel BLEIBT AUSSEN als Spur, Tschechow fuer K40 (Halvard findet leere Wohnung mit Wedel an der Schwelle) und K36 (Steinkreis-Heat-Echo-Voll-Manifestation).
@@ -258,14 +258,14 @@ In der Druckerei. Sie legt die Tasche auf die Setzkasten-Werkbank. Sie zuendet k
 
 ### Wer weiss was am Anfang von K34?
 
-- **Vesper:** Pendel-Physik-Erkenntnisse aus K33 (4:33 als Takt unter dem Steinkreis, NICHT Tor-Dauer; Newton-Niveau, kein modernes Vokabular). Drei-Spalten-Bogen, Karst-Schliessung. Lenes Manuskript-Inhalt seit K24 (vier am Stein, sieben Steine, *„zwei Atemzuege"* Riss-Dauer, *„Wohin sie kamen, blieb stumm"*). Harons Ritual-Blatt + Woerterbuch-Entzifferung seit K26 (Grundformel *Sieben + Vier + Gemeinsam + Oeffnen*). Runas Hitze seit K30/K31 — aber sie wird heute Abend nicht eingeladen, weil Lenes Manuskript von Vier spricht und sie planen ohne Fuenfte.
-- **Alphina:** Pflanzen-Resonanz Stufe 5 (Wachstum, Heilen). „Nur aufbauen"-Charakter-Grenze (Memory `project_alphina_zellwachstum`). Heat-Echo bei Sorel = Farne (Memory `project_alphina_heat_echo_pflanzen`) — sie hat es noch nicht klar verstanden. Halvard-Mentorat (Heilkraeuter-Wissen). Lene-Manuskript-Lesung K24. Alphinas Besuch bei Runa nach K31-Marktplatz war Care-Beat (sie schaute nach Runa nach dem Hitze-Schock), KEIN Inklusions-Beat. Sie hat NICHT mit Runa ueber das Ritual gesprochen.
+- **Vesper:** Pendel-Physik-Erkenntnisse aus K33 (4:33 als Takt unter dem Steinkreis, NICHT Tor-Dauer; Newton-Niveau, kein modernes Vokabular). Drei-Spalten-Bogen, Karst-Schliessung. Lenes Manuskript-Inhalt seit K24 (vier am Stein, sieben Steine, *„zwei Atemzuege"* Riss-Dauer, *„Wohin sie kamen, blieb stumm"*). Harons Ritual-Blatt + Woerterbuch-Entzifferung seit K26 (Grundformel *Sieben + Vier + Gemeinsam + Oeffnen*). Runas Hitze seit K30/K32 — aber sie wird heute Abend nicht eingeladen, weil Lenes Manuskript von Vier spricht und sie planen ohne Fuenfte.
+- **Alphina:** Pflanzen-Resonanz Stufe 5 (Wachstum, Heilen). „Nur aufbauen"-Charakter-Grenze (Memory `project_alphina_zellwachstum`). Heat-Echo bei Sorel = Farne (Memory `project_alphina_heat_echo_pflanzen`) — sie hat es noch nicht klar verstanden. Halvard-Mentorat (Heilkraeuter-Wissen). Lene-Manuskript-Lesung K24. Alphinas Besuch bei Runa nach K32-Marktplatz war Care-Beat (sie schaute nach Runa nach dem Hitze-Schock), KEIN Inklusions-Beat. Sie hat NICHT mit Runa ueber das Ritual gesprochen.
 - **Sorel:** Licht-Resonanz Stufe 5 (buendeln, defokussieren). K30-Schwur innerlich aktiv. Frost im Knochen seit K30 (hinkt leicht). Lene-Manuskript-Lesung K24, Haron-Blatt-Entzifferung K26.
 - **Maren:** Wasser-Resonanz Stufe 5 (steuern, kochen, vereisen, hoeren — alles 30-60 Sek). K28-Pochen unter Brustbein. K30-Drei-Kopplung erprobt. Lene-Manuskript-Lesung K24, Haron-Blatt + Wörterbuch (Harons Hand erkannt) K26.
 - **Jara:** Manuskript-Uebersetzung mit Vesper abgeschlossen. Bleibt. Voss-Familien-Zugang zum Rathauskeller.
-- **Runa (Sz3c):** eigene Hitze seit K30/K31. Joran-Tod K32. Sie wird heute Nacht durch Belauschen Wann/Wo/Wer erfahren (Steinkreis, eine Stunde vor Sonnenuntergang, vier Personen, Lene-Schluss-Zeile, Sorels Nicht-Wissen-Liste).
+- **Runa (Sz3c):** eigene Hitze seit K30/K32. Joran-Tod K31. Sie wird heute Nacht durch Belauschen Wann/Wo/Wer erfahren (Steinkreis, eine Stunde vor Sonnenuntergang, vier Personen, Lene-Schluss-Zeile, Sorels Nicht-Wissen-Liste).
 
-**Wichtig: Runa ist heute Abend NICHT in der Wohnung als Eingeladene.** Sie steht im Treppenhaus drei Stufen unter der Tuer und hoert. K34 weiss von ihrer Hitze (K30/K31), plant operativ ohne sie. Niemand der Vier weiss, dass sie zugehoert hat.
+**Wichtig: Runa ist heute Abend NICHT in der Wohnung als Eingeladene.** Sie steht im Treppenhaus drei Stufen unter der Tuer und hoert. K34 weiss von ihrer Hitze (K30/K32), plant operativ ohne sie. Niemand der Vier weiss, dass sie zugehoert hat.
 
 ### Wer weiss was am Ende von K34?
 
@@ -339,7 +339,7 @@ In der Druckerei. Sie legt die Tasche auf die Setzkasten-Werkbank. Sie zuendet k
 
 ### Aktplan-Abgleich
 
-- Aktplan `05-akt4.md` enthaelt K34 nicht. Ich orientiere mich an: K33-Tschechow-Setup, K35-Anschluss, K32-Runa-Stand (Runa folgt heimlich), neuem K37/K38-Plot-Plan.
+- Aktplan `05-akt4.md` enthaelt K34 nicht. Ich orientiere mich an: K33-Tschechow-Setup, K35-Anschluss, K31-Runa-Stand (Runa folgt heimlich), neuem K37/K38-Plot-Plan.
 - **status.json-Plot-Skelett-Anpassung empfohlen** (separater Schritt nach K34-Freigabe): K34-Skelett auf v4-Inhalt umschreiben (Anti-Schemen-Vorbereitung als Sz2-Kern statt Konfrontation; Runa nicht eingeladen; Hammer-Beat; „Nur aufbauen"-Bestaetigung).
 
 ---
@@ -361,7 +361,7 @@ In der Druckerei. Sie legt die Tasche auf die Setzkasten-Werkbank. Sie zuendet k
 1. **Sz2-Reihenfolge umgekehrt** (KAYA-01): Vesper kapituliert ZUERST („Mein Pendel rechnet, wann der Takt unter dem Stein wiederkommt — nicht wie lang das Tor offen bleibt"), DANN Sorel-Liste. Pierce-Brown-Doppel-Schock: Stratege gibt Plan auf, dann Schwur-Mann benennt was fehlt.
 2. **Vesper-Vokabular auf Newton-Niveau**: keine „Wellenlaenge", keine „Anomalie", keine „Schwerkraft-Schwankung am Standort" als Begriff. Vespers Worte: „Takt", „Schwingung", „der Boden zieht", „Mittelpunkt unter dem Stein", „Pendel-Formel". 1820-Schulwissen.
 3. **„Quelle" als Phaenomen-Bezeichnung gestrichen**. „Quelle" gibt es als Alltags-Wort (Wasserquelle/Brunnen), nicht als Bezeichnung fuer das Steinkreis-Phaenomen — niemand in Thalassien (auch nicht Vesper) kennt das, weil sie nicht wissen, was es ist. Vesper sagt „Mittelpunkt" / „die Stelle unter dem Stein". Sz3c-„Quelle"-Distanz-Beat fuer Runa entfaellt.
-4. **Cross-POV-Wissens-Bugs Sz2-Schemen-Inventur korrigiert** (LOG-02/03/04): K12 katzengrosse (Alphina+Sorel, nicht solo). K28 vierbeinige jenseits der Steinlinie + Oberstadt-Gassen (NICHT Hafengasse). K31-Tag-Wesen am Marktplatz nur Alphina+Runa (Maren+Vesper am Speicher). K31-Speicher-Wesen separate Sichtung (alle vier).
+4. **Cross-POV-Wissens-Bugs Sz2-Schemen-Inventur korrigiert** (LOG-02/03/04): K12 katzengrosse (Alphina+Sorel, nicht solo). K28 vierbeinige jenseits der Steinlinie + Oberstadt-Gassen (NICHT Hafengasse). K32-Tag-Wesen am Marktplatz nur Alphina+Runa (Maren+Vesper am Speicher). K32-Speicher-Wesen separate Sichtung (alle vier).
 5. **7×39 nicht mehr als Hypothese, sondern als Vespers Ableitung** aus K11-Uhren-Karte gerahmt — konsistent mit K33-Council-Finding 5 + Welt-Canon `10-magie-system.md`.
 6. **Schemen-Inventur als Papier-Liste**: Jara fuehrt einen leeren Bogen mit Mittellinie (links Bauart, rechts Magie-Modus). Vesper liest, Jara schreibt. Echo zum K33-Drei-Spalten-Bogen, kein neues Material.
 7. **Sz3-Reihenfolge umgestellt: Sz3a → Sz3b → Sz3c**. Kapitel endet bei Runa „Sie schlaeft nicht" in der dunklen Druckerei (haerter als v5-Schluss bei Sorel + Tidemoor-Uhr).
@@ -407,7 +407,7 @@ In der Druckerei. Sie legt die Tasche auf die Setzkasten-Werkbank. Sie zuendet k
 
 **v3 → v4 Hauptaenderungen (Autor-Direktiven 2026-05-06):**
 
-1. **RUNA NICHT EINGELADEN** — Canon-Bestaetigung K32+Aktplan+Memory. Runa ist NICHT in K34. Sie folgt heimlich, K37 (Runa-POV) loest das ein. Inklusions-Bridge aus Sz3a komplett raus. Vesper+Maren+Runa-Cliffhanger in Sz3 entfaellt (war v1/v2/v3-Konstruktion, wird in K36 separat korrigiert).
+1. **RUNA NICHT EINGELADEN** — Canon-Bestaetigung K31+Aktplan+Memory. Runa ist NICHT in K34. Sie folgt heimlich, K37 (Runa-POV) loest das ein. Inklusions-Bridge aus Sz3a komplett raus. Vesper+Maren+Runa-Cliffhanger in Sz3 entfaellt (war v1/v2/v3-Konstruktion, wird in K36 separat korrigiert).
 2. **Sz2 NEU als Anti-Schemen-Vorbereitung statt Konfrontation:** Schemen-Inventur, Kampftechniken pro Resonanz, Sorels Material-Frage („kein Licht/Pflanzen/Wasser bekannt"), Vespers Konsequenz (3 von 4 unsicher), Stille-Sub-Text-Beat, Waffen-Frage, Maren-grosser-Hammer, Alphinas „Nur aufbauen"-Bestaetigung, Mitnahmen mit Saatgut-Spezifizierung.
 3. **Maren-grosser-Hammer** als Werkzeug+Backup, NICHT als Kampf-Waffe. Aus taeglicher Werft-Arbeit gewohnt.
 4. **Alphina-Saatgut konkret:** drei Paeckchen — Pioniergut (Hafer/Gras/Roggen), Heilkraeuter (Schafgarbe/Beinwell/Kamille/Koenigskerze), Lavendel-Samen.

@@ -51,7 +51,7 @@
 
 **Dialog-Informationen (zu transportierende Inhalte):**
 - *Maren erfährt nicht, sie folgt.* Das Pochen ist fünf Monate alt, heute anders (ziehend, nicht nur sitzend). Keine Theorie.
-- *Setup-Canon (aus Zeitsprung-Hintergrund):* Vael beginnt zu kippen, noch nicht im Zerfall. Ein vernageltes Haus in der Hafengasse. Militärpatrouillen seit wenigen Nächten. Ein unklarer Rauchgeruch aus Südost (seit drei, vier Nächten) — Canon-Fundament für K28-Leiche und K31-Marktplatz.
+- *Setup-Canon (aus Zeitsprung-Hintergrund):* Vael beginnt zu kippen, noch nicht im Zerfall. Ein vernageltes Haus in der Hafengasse. Militärpatrouillen seit wenigen Nächten. Ein unklarer Rauchgeruch aus Südost (seit drei, vier Nächten) — Canon-Fundament für K28-Leiche und K32-Marktplatz.
 - *Canon-Update (fünf Monate):* Maren hat ihre Werft-Routinen, aber auch Edric singt nicht mehr, Aufträge fehlen, Seilerei Mert ist brannt. Maren hat Wasser-Resonanz aktiv getestet (steuern, nicht nur spüren).
 - *Canon-Update (Schachfigur):* Die Figur ist jetzt bei Maren, in der Wohnung. Steht heute zufällig aufrecht auf der Kommode — nicht als Signal, sondern als vergessenes Möbel. **Der Übergabe-Moment zwischen K27 und K28 muss noch festgelegt werden (Autor-Frage, siehe Offene Punkte).**
 - *Registrierte Details am Nachtwächter-Lehrling (Tschechow für Sz3):* Messinglaterne mit Sprung im rechten Glas · schwache gelbe Öl-Flamme · Fingerknöchel gegen die Stirn, Atem in die Hände · Hand an der Gürteltasche (Pistole?) · die Gewohnheit, den Hals wegzuziehen · *„Nacht."* als halber Gruß.
@@ -64,7 +64,7 @@
 - **Die offene Nebentür am Gärtnerhaus** — Tschechow für K29 (Sorel kommt denselben Weg).
 - **Das rückwärts fließende Wasser in der Grauwe** — Tschechow für K33 (Vespers Schwerkraft-Rechnen braucht Marens Gezeitendaten) und K34 (Ritual-Vollzug).
 - **Warme Werft-Planken (von unten im Herbst)** — Tschechow für Alphina (K29/K30: Bodentemperatur-Anomalie, nicht Sommer-Rest).
-- **Der süß-dichte Geruch aus dem Südosten** — Tschechow-Fundament für Sz3-Leichenfund (dieselbe Signatur) und K31-Marktplatz *„riecht süß und dicht — nach Moragh"*.
+- **Der süß-dichte Geruch aus dem Südosten** — Tschechow-Fundament für Sz3-Leichenfund (dieselbe Signatur) und K32-Marktplatz *„riecht süß und dicht — nach Moragh"*.
 - **Marens Schlüssel am Lederband am Hals** — Fünf-Monate-Canon-Detail, feuert in B2.
 - **Der Schachturm auf Marens Kommode (nicht aufgestellt-als-Signal)** — Canon-Stand für K28, feuert in K35 (V/M-BDSM-Nacht: Maren stellt ihn *absichtlich* auf Vespers Tisch).
 
@@ -77,7 +77,7 @@
 - **K27 (Maren-POV, Sz2):** Das Pochen als Innen-Ereignis — hier als Außen-Ereignis. Eigene Körpergeographie (Werftboden, Schulter an Haustür, barfuß in Nebelgassen).
 - **K22 (Alphina-POV, Pflanzen wachsen nicht in den Kreis):** In Sz2 wird erweitert: Nebel tritt auch nicht ein. Gleiche Regel, andere Manifestation.
 - **K29 (kommend):** Die Nebentür, der warme Boden, die Kreis-Grenze.
-- **K31 (Nebelmond Tag-Angriff):** Der süß-dichte Geruch ist Cross-POV-Anker — Maren erkennt ihn in K31 aus Alphina-POV wieder (Verknüpfung durch Ensemble-Gespräch, nicht durch Maren-POV-Wiederholung).
+- **K32 (Nebelmond Tag-Angriff):** Der süß-dichte Geruch ist Cross-POV-Anker — Maren erkennt ihn in K32 aus Alphina-POV wieder (Verknüpfung durch Ensemble-Gespräch, nicht durch Maren-POV-Wiederholung).
 - **Sprach-Register Maren:** Satz 25–40 Wörter, fließend. Kein Stakkato. Lieblingswörter *stetig, gleichmäßig, satt, warm, dicht*. Nebel ist *dicht* oder *satt*, nicht *Dunst* (Sorel) oder *bedeckt* (Alphina).
 - **Kleidung:** Privat-Register (Herbst) — Wollrock, Leinenhemd, Lederriemen, barfuß. Kein Mieder, kein Mantel (Sog, nicht gekleidet). **Keine Jacke.**
 
@@ -190,11 +190,11 @@
 - *Maren erfährt:* Schemen können außerhalb des Kreises töten — Vermutung, nicht Beweis.
 - *Maren erfährt (retrograd):* Zug zum Kreis war Rettung.
 - *Maren entschließt:* Nicht zur Wache. Den anderen drei erzählen.
-- *Maren-Geruchs-Canon (wichtig):* Der süß-dichte Geruch an der Leiche ist derselbe, den sie in den letzten drei, vier Nächten aus Richtung Südost-Stadt gerochen hat. Neue Kategorie, kein Jahre-altes Muster. K28-Leichen-Geruch = K28-Stadt-Geruch = K31-Marktplatz-Geruch (*„süß und dicht — nach Moragh"*). Canon-Kette geschlossen.
+- *Maren-Geruchs-Canon (wichtig):* Der süß-dichte Geruch an der Leiche ist derselbe, den sie in den letzten drei, vier Nächten aus Richtung Südost-Stadt gerochen hat. Neue Kategorie, kein Jahre-altes Muster. K28-Leichen-Geruch = K28-Stadt-Geruch = K32-Marktplatz-Geruch (*„süß und dicht — nach Moragh"*). Canon-Kette geschlossen.
 - *Maren-Canon-Bruch:* Erste abgeschlossene Wohnungstür. Fünf Monate Sicherheit enden.
 
 **Tschechow-Waffen geladen:**
-- **Der süß-dichte Geruch als Stadt-Signatur** — feuert in K31 (Marktplatz-Wiedererkennung), B2 (Moragh-Geruch-Wiedererkennung für Maren).
+- **Der süß-dichte Geruch als Stadt-Signatur** — feuert in K32 (Marktplatz-Wiedererkennung), B2 (Moragh-Geruch-Wiedererkennung für Maren).
 - **Der Tote ohne Wunde, Pistole nicht gezogen** — Canon für Schemen-Tötungs-Signatur (überraschend, kein Kampf möglich).
 - **Marens Entschluss zu anonymem-Hinweis** — Tschechow für K29/K30 (Bote) oder Schuld-Last in B2/B3.
 - **Marens Gedächtnis-Merkung der Hausposition** — Tschechow für mögliche Gruppen-Rückkehr.
@@ -211,7 +211,7 @@
 **Cross-POV-Ankerpunkte:**
 - **K27-Schluss:** Maren schläft, Vesper arbeitet. K28-Schluss: Maren liegt wach bis zum Morgen, allein. Bewusster Kontrast.
 - **K29/K30:** Nebentür, warmer Boden, Schemen-Grenze, Nebel-Bruch.
-- **K31 (Alphina-POV, Marktplatz):** Der süß-dichte Geruch ist Ensemble-Anker — wenn Alphina ihn in K31 am Marktplatz riecht, erinnert sie sich an Marens Erzählung aus K29.
+- **K32 (Alphina-POV, Marktplatz):** Der süß-dichte Geruch ist Ensemble-Anker — wenn Alphina ihn in K32 am Marktplatz riecht, erinnert sie sich an Marens Erzählung aus K29.
 - **K24 (gemeinsame Archiv-Szene):** Schemen-Fingerabdrücke als Canon-Echo.
 
 ---
@@ -244,7 +244,7 @@
 - Den Namen Moragh (Memory-Regel).
 - Die Resonanz-Mechanik.
 - K23-Canon (Sorel erkannte Varen auf den Platten).
-- K25-Canon (Runa hat Feuer-Resonanz — wird erst in K31 öffentlich).
+- K25-Canon (Runa hat Feuer-Resonanz — wird erst in K32 öffentlich).
 
 ### Premature-Doubt-Check
 
@@ -318,7 +318,7 @@
 - Aktplan-Beats übernommen: rückwärts fließendes Wasser, Hinweg barfuß, Steinkreis, schwitzender Stein, sechs/sieben Schemen, Leichenfund, retrograde Erkenntnis.
 - Ergänzungen gegenüber Aktplan:
   - Stadt-Zerfall-Opener in Sz1 (Hintergrund-Ausspielung).
-  - Süß-dichter Geruch als K31-Canon-Kette (statt „heißes Metall" — Thar-Signatur ist für K31 Hafen-Szene reserviert).
+  - Süß-dichter Geruch als K32-Canon-Kette (statt „heißes Metall" — Thar-Signatur ist für K32 Hafen-Szene reserviert).
   - Schachfigur-Canon-Stand (bei Maren, nicht aufgestellt).
   - Nebel-Bruch am Kreis als zusätzliche Grenz-Manifestation.
 
@@ -350,7 +350,7 @@
 1. **Schachfigur-Übergabe an Maren:** Wann genau in den fünf Monaten? Empfohlen als Beat in einem ungeschriebenen Zwischen-V/M-Kapitel (*K27c*?) oder als stille Geste am Ende einer Session, die nur per Canon-Eintrag fixiert wird (kein eigenes Kapitel). Autor-Entscheidung.
 2. **Wörterbuch-Stand nach fünf Monaten:** Anzahl übersetzter Wörter, Stand der Grammatik-Regeln. Für K28 irrelevant, für K33/K34 relevant.
 3. **Durchgangs-Zeitpunkt:** Laut Zeitleiste K34 = 1. Dunkelmond, K37 Ritual = 2. Dunkelmond. Bestätigt.
-4. **Geruch-Signatur Canon:** Vorgeschlagen *süß-dicht* (konsistent zu K31-Marktplatz). Alternative Autor-Lesart möglich.
+4. **Geruch-Signatur Canon:** Vorgeschlagen *süß-dicht* (konsistent zu K32-Marktplatz). Alternative Autor-Lesart möglich.
 5. **K29-Streit-Logik:** Der Autor hat gesagt „stabile Paar-Beziehungen nach fünf Monaten". K29-Kurztext sagt *„Alphina sucht Sorel seit Tagen. Versöhnung."* — das deutet auf einen Streit. Ist das eine Delle innerhalb einer stabilen Beziehung (mini-Abstand), oder muss K29 umgeschrieben werden? Für K28 nicht kritisch, aber der Anschluss K28→K29 sollte gesetzt werden.
 6. **Nachtwächter-Lehrling:** Statistenrolle OK?
-7. **Runa-Eifersucht:** Autor-Input übernommen — Runa ist grundgut, gönnt, leidet heimlich. In K28 nur als Boten-Option erwähnt (ohne Eröffnung ihrer Eifersucht). Das eigentliche Runa-Kapitel (*K32*, siehe status.json) trägt den Canon.
+7. **Runa-Eifersucht:** Autor-Input übernommen — Runa ist grundgut, gönnt, leidet heimlich. In K28 nur als Boten-Option erwähnt (ohne Eröffnung ihrer Eifersucht). Das eigentliche Runa-Kapitel (*K31*, siehe status.json) trägt den Canon.

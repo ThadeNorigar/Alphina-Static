@@ -101,7 +101,7 @@ Das Halsband ist das magisch wirksame Stück — **Lederarmbänder mit Kette zwi
 
 ## Alphina — Zellmanipulation
 
-> **TODO Konsolidierung 2026-05-03 (Pre-Check B1-K31):** Folgende Klarstellungen aus Autor-Pre-Check sind in dieser Sektion noch nicht eingearbeitet — Memory-Files sind führend, hier bei nächstem Sweep konsolidieren:
+> **TODO Konsolidierung 2026-05-03 (Pre-Check B1-K32):** Folgende Klarstellungen aus Autor-Pre-Check sind in dieser Sektion noch nicht eingearbeitet — Memory-Files sind führend, hier bei nächstem Sweep konsolidieren:
 > - **Mechanik = Zellwachstum auf alle organische Materie** (Memory `project_alphina_zellwachstum.md`). Pflanzen, Mensch, Tier — derselbe Kern-Akt. Spur A (Pflanzen) und Spur B (Heilung) sind organisatorische Anwendungen, mechanisch ein System.
 > - **Steuerung = Form-Vorstellung** (Ziel-Zustand, nicht Befehl). Magie reagiert auf Wille + Bild, nicht auf gesprochene Imperative.
 > - **Reichweite extern = Nahfeld** (Hand auflegen oder kurz davor). **Eigener Körper = ihr eigenes Nahfeld** → kontinuierliche Selbstheilung jederzeit möglich; faktische Unsterblichkeit als Möglichkeit, von ihr nicht genutzt (Charakter-Wahl wie Tumor-Wahl).

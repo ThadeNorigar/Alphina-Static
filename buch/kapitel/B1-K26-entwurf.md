@@ -319,7 +319,7 @@
 **Tschechow-Waffen geladen:**
 - Harons Randbemerkung „nicht allein. nie allein." — persönliche Geste, Tschechow für Harons Vereinsamung, feuert in Buch 2 (wenn Maren versteht, wer Haron war).
 - Die doppelte Übersetzung „Heimat / mein Ort" — Tschechow für die Buch-2-Fragen (war Haron Exilant? Gesandter? Spion?).
-- Die ungelesenen Wörter auf dem Blatt — Feinheiten, die später in der Übersetzung auftauchen, feuern in K29/K31 (Ritual-Teilschritte werden klarer).
+- Die ungelesenen Wörter auf dem Blatt — Feinheiten, die später in der Übersetzung auftauchen, feuern in K29/K32 (Ritual-Teilschritte werden klarer).
 - Alphinas Blick an der Tür, der Maren galt — Frauensolidarität ohne Worte, Tschechow leise.
 - Marens *„Bleib noch."* — direkter Bogen zu K27.
 - Vespers letzter innerer Beat (zum ersten Mal seit Karst ein ungewisses Werkstück) — Tschechow für Vesper-Arc, feuert in K33 (Schwerkraftanomalie-Lösung) und B2+.

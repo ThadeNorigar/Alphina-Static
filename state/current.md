@@ -24,8 +24,6 @@
 
 **B1-K33 (Vesper, entwurf-ok) → /ausarbeitung in neuer Session** (Opus). Handoff-File `buch/kapitel/B1-K33-handoff.md` Pflicht-Read.
 
-**K31↔K32-Tausch** nach K32-Final offen.
-
 **Refit-Sweep K05–K27** offen (seit 2026-05-02).
 
 **Buch-1-Plot-Linie:** Akt III. **35 Kapitel final**, 135.478 W. K33 entwurf-ok, K34 entwurf (v4), K35 entwurf-checked, K36 entwurf (v1+Patch), K37/K38/K39/K40 idee mit klaren Plot-Skeletten.

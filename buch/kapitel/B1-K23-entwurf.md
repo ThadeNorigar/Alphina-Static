@@ -165,7 +165,7 @@ Letzter Satz: die veraenderte Ranke liegt auf dem Untersetzer, neue Wachstumsach
 - Nichts vom Ritual-Papier mit Schem-Fingerabdruecken (K24)
 - Nichts von einer Gruppen-Entscheidung zum Durchgang (K26)
 - Sorel stirbt in Moragh
-- Runas Haende tragen Feuer (K25/K31)
+- Runas Haende tragen Feuer (K25/K32)
 - 4:33-Drift = Schwerkraftanomalie (K33)
 
 **Premature Doubt vermeiden:**

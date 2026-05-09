@@ -46,7 +46,7 @@
   - **Sorel (Licht):** hat das Fotografieren aufgegeben — sah es als nutzlos, seit er Licht direkt formen kann. Restlicht verstärken (Keller ohne Lampe sehen), Licht weglenken (Räume verdunkeln), Licht bündeln als Brennglas (Kerzen entzünden, kleine Flammen). Liefert die Beleuchtung für die Gruppe, wenn nötig. Verbote bleiben (kein Röntgen, kein UV/IR, kein Licht aus dem Nichts, in Dunkelheit blind).
   - **Vesper (Zeit):** nicht nur Uhrwerk-Drift. Lokale Zeit-Manipulation — Dinge fallen verlangsamen, andere beschleunigen. Kann ein Uhrwerk in Zeitlupe versetzen für hochpräzise Justierung. Kann Material altern lassen (Obst beginnt zu schimmeln, Metall in Wasser rostet in Minuten). Setzt Zeit-Resonanz später in V/M-Sessions ein — sehr langsame Bewegungen, sehr lange Berührungen.
   - **Maren (Wasser):** erhitzt und friert Wasser ein (kühle Getränke im Hochsommer). Formt Wasser leicht — kann aus einer Teetasse das Wasser als Säule aufsteigen lassen. Manipuliert Nebeltropfen — Nebel vor sich lichten oder an anderer Stelle verdichten. Spürt Gezeiten-/Strömungs-Anomalien.
-  - **Runa (Feuer/Hitze, ab K31 öffentlich):** Hände immer warm. Verformt Blei, schmilzt Wachs. Eigene Haut immun gegen eigenes Feuer. Stufe 1-2 in B1, kommt in B2/B3 zur Vollform.
+  - **Runa (Feuer/Hitze, ab K32 öffentlich):** Hände immer warm. Verformt Blei, schmilzt Wachs. Eigene Haut immun gegen eigenes Feuer. Stufe 1-2 in B1, kommt in B2/B3 zur Vollform.
 - Verbote (was geht NICHT):
   - Kein Strom, keine Elektrik in Buch 1
   - Magie kommt aus der Umgebung, nicht aus dem Körper (Alphina wachsen keine Pflanzen aus den Händen)

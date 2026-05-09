@@ -46,7 +46,7 @@
 
 **Tschechow-Waffen geladen:**
 - **Das sechste Wort (*Durchgang/Übergang*)** — erhöht den übersetzten Wortschatz. Feuert in K34 bei Ritual-Vollzug, wenn das Ritual in Teilschritte gegliedert werden muss.
-- **Das siebte, offene Wort mit dem Zusatzstrich** — Tschechow für K29–K31. Die Feinheiten des Rituals liegen in diesen unklaren Zeichen.
+- **Das siebte, offene Wort mit dem Zusatzstrich** — Tschechow für K29–K32. Die Feinheiten des Rituals liegen in diesen unklaren Zeichen.
 - **Alphinas Handwärme am Drücker** — Tschechow für Alphinas Feuer-Resonanz-Arc (nicht Runa, sondern Alphinas eigene Körper-Schwelle); feuert in K30+ aus Alphina-POV.
 - **Vespers Handlage auf Marens Schulter ohne Verband** — feuert unmittelbar in Szene 2 (wird zur Grundlage der Power-Anweisung).
 - **Marens nicht-bewegte Hände, Bleistift still in der Rechten** — Tschechow für Szene 2 (Hände flach auf den Tisch als Anweisung).
@@ -104,7 +104,7 @@
 
 **Tschechow-Waffen geladen:**
 - **Das Pochen in Marens Brustkorb** — Beginn von Marens bewusster Wasser-Resonanz-Wahrnehmung. Feuert in **K28** (drei Monate später, Marens Gang zum Steinkreis bei Nacht, rückwärts fließendes Wasser, Hand auf Purpurstein). Die Brücke, ohne die K28 nicht funktioniert.
-- **Marens still-liegende Hände auf dem Tisch als Haltung** — Tschechow für künftige V/M-Szenen (K31+, B2): Handhaltung als erlernter Sub-Anker, nicht als einmalige Geste.
+- **Marens still-liegende Hände auf dem Tisch als Haltung** — Tschechow für künftige V/M-Szenen (K32+, B2): Handhaltung als erlernter Sub-Anker, nicht als einmalige Geste.
 - **Die Erlaubnis-Geste „Du darfst"** — Tschechow für V/M-Grammatik: Vesper ist der, der Grenzen setzt und aufhebt. Feuert in späteren Szenen, wenn Maren ohne Erlaubnis nichts beginnt.
 - **Vespers nicht-berührende Nähe** — Tschechow: seine Dominanz braucht keinen Griff. Feuert im Kontrast zu K20 (dort Griff an Handgelenk) und in Moragh (B2), wenn körperliche Trennung verkraftet werden muss.
 
@@ -119,7 +119,7 @@
 - **K20 (Maren-POV, *„Gut"*-Dossier):** Hier physiologisch wiederholt, aber *anders* ausgebildet — Ruhe statt Welle. Kein Reihum-Körperbeat-Katalog. Konkret das Mieder und der Mund.
 - **K25 (Alphina-POV):** Runas Körperwärme wurde von Alphina registriert. In K27 spielt Runa keine Rolle, aber Marens Wasser-Resonanz-Erwachen schließt den Resonanz-Erwachen-Ring über die vier — drei sind jetzt bewusst (Alphina Pflanze, Sorel Licht, Vesper Zeit), Maren beginnt in K27 mit dem Hören, wird in K28 körperlich.
 - **K28 (Maren, drei Monate später):** Das Pochen von K27 ist das, was sie in K28 zum Steinkreis zieht. Ohne K27-Öffnung keine K28-Handlung.
-- **K31/K34 (Ritual-Training / Ritual-Vollzug):** Marens Sub-Haltung (Hände flach, Atmen, Schweigen auf Anweisung) ist dann auch eine Ritual-tauglich übbare Form der Konzentration. Tschechow-Bogen.
+- **K32/K34 (Ritual-Training / Ritual-Vollzug):** Marens Sub-Haltung (Hände flach, Atmen, Schweigen auf Anweisung) ist dann auch eine Ritual-tauglich übbare Form der Konzentration. Tschechow-Bogen.
 
 ---
 
@@ -172,8 +172,8 @@
 - *Schluss:* Sie schläft, er arbeitet im Dunkeln. Das Pochen bleibt hörbar, aber nicht mehr allein getragen.
 
 **Tschechow-Waffen geladen:**
-- **⚑ Der Schachturm als V/M-Session-Signatur (NEU CANON):** Vesper holt den Turm aus der Rocktasche und stellt ihn aufrecht neben das Wörterbuch = Session beginnt. Später (weiter unten in Szene 3) steckt er ihn wieder ein = Session endet. Das ist ab K27 fester Canon für alle V/M-Sessions. Feuert in jedem künftigen V/M-Kapitel (K28-neu wenn erste Sex-Szene, K31+, B2-Tidemoor-Haus-Szenen, B2-Moragh-Trennung). Doppelfunktion: privater Vesper-Schach-Anker (bisher Canon, K18/K26 warm bei System-Erkenntnis) **plus** sichtbarer V/M-Ritual-Marker (ab K27). Nicht widersprüchlich — der Turm hat jetzt zwei Aggregatzustände: in-Tasche (Vesper privat, Alltag) und aufgestellt (Session).
-- **Marens vollständiges Ausziehen auf Anweisung, mit geschlossenen Augen** — Power-Exchange-Grammatik: sie *wird* auf Anweisung ausgezogen (auch wenn ihre Hände es tun), sie entscheidet nicht die Reihenfolge, sie sieht nichts. Tschechow für K31+ (bewusste BDSM-Szenen mit Werkzeug), B2 (Maren in Moragh ohne Vesper — Erinnerung an diesen Zustand als Anker).
+- **⚑ Der Schachturm als V/M-Session-Signatur (NEU CANON):** Vesper holt den Turm aus der Rocktasche und stellt ihn aufrecht neben das Wörterbuch = Session beginnt. Später (weiter unten in Szene 3) steckt er ihn wieder ein = Session endet. Das ist ab K27 fester Canon für alle V/M-Sessions. Feuert in jedem künftigen V/M-Kapitel (K28-neu wenn erste Sex-Szene, K32+, B2-Tidemoor-Haus-Szenen, B2-Moragh-Trennung). Doppelfunktion: privater Vesper-Schach-Anker (bisher Canon, K18/K26 warm bei System-Erkenntnis) **plus** sichtbarer V/M-Ritual-Marker (ab K27). Nicht widersprüchlich — der Turm hat jetzt zwei Aggregatzustände: in-Tasche (Vesper privat, Alltag) und aufgestellt (Session).
+- **Marens vollständiges Ausziehen auf Anweisung, mit geschlossenen Augen** — Power-Exchange-Grammatik: sie *wird* auf Anweisung ausgezogen (auch wenn ihre Hände es tun), sie entscheidet nicht die Reihenfolge, sie sieht nichts. Tschechow für K32+ (bewusste BDSM-Szenen mit Werkzeug), B2 (Maren in Moragh ohne Vesper — Erinnerung an diesen Zustand als Anker).
 - **Die erste nicht-sexualisierte Ganzkörper-Berührung** — Arme, Schultern, Rücken. Tschechow: Vespers Vokabular der Körper-Aneignung beginnt ruhig und breit, nicht punktuell-erotisch. Feuert im Kontrast zu späteren Szenen, wenn er punktuell wird.
 - **Maren nackt unter Vespers Gehrock** — das Bild schließt Szene 3: Körper-Aneignung + Care-Geste in einer Figur. Feuert in B2 (Moragh-Trennung: sie hat weder seinen Gehrock noch seine Hand).
 - **Die Flechtmatte** — nicht-Bett-Register. Feuert in B2 (kein Bett in Moragh).

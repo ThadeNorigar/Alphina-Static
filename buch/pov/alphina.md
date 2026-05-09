@@ -141,7 +141,7 @@ Max ~40 Wörter, bricht unter Druck zu Fragmenten. Kein *sie dachte / sie fragte
 
 **K24 — Archiv (Ritual-Papier, Moragh-Sprachbuch, Lene Dahls Bericht):** Mit Vesper im Archiv. Esther Voss legt Folianten vor. Ritual-Anweisungen mit Steinkreis-Zeichnung. Lene-Dahls Bericht (Vorgängerin, TZ 154). **Erste Begegnung mit dem Wort „Tor"** — und der Erkenntnis, dass es Vorgänger gab.
 
-**K31 — Schemen-Tag-Angriff, Runas Feuer-Resonanz:** Schemen greifen am Tag an. Runa bricht durch — Hände glühen, eigene Haut immun. Vier-Kopplung-Modell wird Vier-Resonanzen-Modell.
+**K32 — Schemen-Tag-Angriff, Runas Feuer-Resonanz:** Schemen greifen am Tag an. Runa bricht durch — Hände glühen, eigene Haut immun. Vier-Kopplung-Modell wird Vier-Resonanzen-Modell.
 
 **K36 — Steinkreis-Kuss, Garten blüht:** Alphina und Sorel küssen sich im Steinkreis. Der ganze Garten blüht im Heat-Echo (Farne, dichtes Blattwerk — Sorel-Form). Pflanzen kippen NICHT in Anti-Flora — sie ist in diesem Moment ruhig, nicht aufgewühlt.
 

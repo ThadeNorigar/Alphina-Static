@@ -130,7 +130,7 @@ Er steht auf, langsam, zwei Stützhände am Tisch. Geht hinüber. Der Steinboden
 
 **Cross-POV-Ankerpunkte:**
 - K30 (Sorel-POV, 8. Nebelmond Nacht — zwei Tage später): Sorel liegt wach neben Alphina, denkt an Lene Dahls Bericht aus K24, schwört. Der Schwur wird verständlicher, wenn Sorel zwei Tage vorher gesehen hat, dass sie alle beobachtet werden.
-- K31 (Alphina-POV, 14. Nebelmond, Marktplatz-Tag-Angriff): Sorel hat heute eine Bauart gesehen, die nicht angreift — die Marktplatz-Schemen werden eine andere sein (Thar, Metallgeruch). Beide Bauarten parallel in derselben Stadt.
+- K32 (Alphina-POV, 14. Nebelmond, Marktplatz-Tag-Angriff): Sorel hat heute eine Bauart gesehen, die nicht angreift — die Marktplatz-Schemen werden eine andere sein (Thar, Metallgeruch). Beide Bauarten parallel in derselben Stadt.
 
 ---
 
@@ -173,7 +173,7 @@ Er folgt ihr in ihr Schlafzimmer. Das Bett ist kalt — sie hat nicht geschlafen
 - *Sorels Erkenntnis am Ende:* Er wird die anderen drei am Morgen treffen müssen. Heute nur sie. Heute nur Nähe ohne Erklärung.
 
 **Tschechow-Waffen geladen:**
-- **„Heute Abend nicht. Morgen den anderen drei."** — feuert direkt in K30 als Übergangs-Beat (Sorel hat zwei Tage später bereits dem Kreis erzählt, was er gesehen hat — die anderen drei wissen es; Schwur-Beat ist Konsequenz daraus) und in K31 (Marktplatz-Angriff: die Gruppe ist vorgewarnt, dass die Schemen jetzt auch passiv beobachten, was ihre Reaktion auf den Tag-Angriff prägt).
+- **„Heute Abend nicht. Morgen den anderen drei."** — feuert direkt in K30 als Übergangs-Beat (Sorel hat zwei Tage später bereits dem Kreis erzählt, was er gesehen hat — die anderen drei wissen es; Schwur-Beat ist Konsequenz daraus) und in K32 (Marktplatz-Angriff: die Gruppe ist vorgewarnt, dass die Schemen jetzt auch passiv beobachten, was ihre Reaktion auf den Tag-Angriff prägt).
 - **Sorel kommt zu Alphina ohne Worte, nur mit Körper-Nähe** — feuert in K30 (er liegt wach neben ihr, schwört) und als Echo zu K21 („Du bleibst") — sie nimmt ihn auf, ohne zu fordern.
 
 **Tschechow-Waffen abgefeuert:**
@@ -202,7 +202,7 @@ Er folgt ihr in ihr Schlafzimmer. Das Bett ist kalt — sie hat nicht geschlafen
 **Was darf Sorel NICHT wissen (Sorel-Prinzip)?**
 - Dass Varen hinter den Schemen steht (kommt erst in K38 mit dem direkten Auftauchen).
 - Dass Varen über das alte Thalassisch von Elke gelernt hat (K38 + B2).
-- Dass die Schemen nach 28. Herbstmond zwei Bauarten haben (Varens süß-metallisch + Thars metallisch — Thar-Schemen tauchen am Marktplatz K31 zum ersten Mal sichtbar auf).
+- Dass die Schemen nach 28. Herbstmond zwei Bauarten haben (Varens süß-metallisch + Thars metallisch — Thar-Schemen tauchen am Marktplatz K32 zum ersten Mal sichtbar auf).
 - Was Maren am Steinkreis (K28) gespürt hat — das wird im Gruppen-Treffen am 8. Nebelmond geteilt (K30-Auftakt off-page oder K30-Erinnerung).
 
 **Premature Doubt?**
@@ -218,7 +218,7 @@ Er folgt ihr in ihr Schlafzimmer. Das Bett ist kalt — sie hat nicht geschlafen
 - K26 (Vesper-POV, Gruppen-Treffen bei Maren): Maren erzählt vor Sorel, dass ihr Werft-Schemen durch das geschlossene Tor gegangen ist „wie durch einen Vorhang". Sorel weiß seit K26, dass Schlösser keine Barriere sind. Sz3 referenziert das.
 - K28 (Maren, 1. Nebelmond): Drüben am Steinkreis spürbar. Maren findet toten Nachtwächter-Lehrling. K29 ist 5 Tage später — Sorel bekommt eine eigene Wahrnehmung, ohne von Marens Fund zu wissen (Festlegung: Marens K28-Erlebnis ist noch nicht im Gruppen-Wissen am 6. Nebelmond).
 - K30 (Sorel, 8. Nebelmond): direkter Anschluss. Beide Wahrnehmungen (Sorels Schemen-im-Wohnraum, Marens Drüben-Spüren am Steinkreis) müssen vor dem Schwur-Beat in der Gruppe geteilt sein. **Festlegung für K30-Entwurf:** Off-page-Treffen zwischen 6. und 8. Nebelmond — Sorel berichtet den drei anderen am Vormittag des 7. Nebelmond bei Vesper, Maren bringt ihren K28-Beat mit. K30-Schwur-Beat baut auf diesem geteilten Stand auf.
-- K31 (Alphina, 14. Nebelmond): Schemen-Tag-Angriff am Marktplatz. Andere Bauart als heute (Thar, Metall). Heute hat Sorel die passive Bauart kategorisiert — die Marktplatz-Schemen brechen das Muster.
+- K32 (Alphina, 14. Nebelmond): Schemen-Tag-Angriff am Marktplatz. Andere Bauart als heute (Thar, Metall). Heute hat Sorel die passive Bauart kategorisiert — die Marktplatz-Schemen brechen das Muster.
 
 **Berufslinse-Anwendung (Sorel):**
 - Pro Kapitel max **ein Fachbegriff**, kein Begriff zweimal (Memory-Schranke).

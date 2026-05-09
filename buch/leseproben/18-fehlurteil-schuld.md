@@ -4,7 +4,7 @@ pov: Alphina
 figuren: Alphina (allein), Erinnerung an Talven
 register: Dunkle Register — Trauer-ohne-Vergebung, stille Schuld
 heat_level: Trauer
-primaer_referenz: Morrison FEHLT — Trauer-/Schuld-Hebel rekonstruiert aus Voice-Exemplars (Schuld-Echo K31 Hafengasse) + Memory `feedback_emotionen_benennen.md` (Selbsterkenntnis erlaubt mit Körper-Marker)
+primaer_referenz: Morrison FEHLT — Trauer-/Schuld-Hebel rekonstruiert aus Voice-Exemplars (Schuld-Echo K32 Hafengasse) + Memory `feedback_emotionen_benennen.md` (Selbsterkenntnis erlaubt mit Körper-Marker)
 ergaenzende_referenz: SenLinYu — Körper als Träger der Erinnerung, Material-Funktionsname
 zweck: Ton-Etüde für B3 nach Talven-Mord. Alphina hat Talven zu Unrecht getötet (Varens gefälschte Beweise). Keine Erlösung, keine Vergebung, keine Auflösung. Körper, Material, ein konkreter Moment. Schuld als physikalischer Beat, kein Pathos.
 canon_status: v2.1 Block-A-Fixes 2026-05-03. Negations-Cluster runter, Sein-Verb-Cluster runter, Substantiv-Phrasen ersetzt, Plusquamperfekt-Bandwurm gekürzt, Magie-Spuk-Ton entschärft. Ton-Etüde, B3 Akt III/IV-nahe Reflektion (drei Stümpfe der linken Hand setzen den Moment hinter K37 — Plot-Canon weiterhin offen). Nicht Plot-Canon.

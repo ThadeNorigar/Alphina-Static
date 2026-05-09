@@ -32,7 +32,7 @@ Alphinas Wohnung in der Hafengasse, kurz nach Mitternacht. Schmales Bett unter d
 **Tschechow-Waffen geladen:**
 - **Sorels stiller Schwur, an Alphinas Hand auf seinem Brustbein gehängt** — feuert in K38, wenn er sich zwischen Varen und Alphina stellt. Hier ohne Worte, mit körperlichem Anker (Hand-Stelle = Schwur-Stelle). Die Leserin erinnert sich später an genau diesen Moment.
 - **Alphinas Hand auf Sorels Brustbein** — Body-Memory-Anker. In Sz3 körperlich abgerufen (Stelle leer und kalt), in Sz4 von Alphina selbst wiederholt, ohne dass sie weiß, was sie bestätigt.
-- **Schmaler Brandgeruch aus der Südost-Stadt** — Alphina lebt am Rand des Viertels, das zuerst kippt. Feuert in K31 (Schemen am Hafenmarkt am Tag) und im B1-Endkampf.
+- **Schmaler Brandgeruch aus der Südost-Stadt** — Alphina lebt am Rand des Viertels, das zuerst kippt. Feuert in K32 (Schemen am Hafenmarkt am Tag) und im B1-Endkampf.
 - **Lavendelöl auf Alphinas Schläfe** — banales Detail, das in K38 zurückkehrt, wenn sie ihn das letzte Mal in den Armen hält. In Sz4 schließt sich die Linie kurz (Sorel riecht es im Vorbeigehen, als ihre Hand seine findet).
 
 **Tschechow-Waffen abgefeuert:**
@@ -63,7 +63,7 @@ Dann der erste Schemen. Aus der Querstraße tritt eine Gestalt, größer als ein
 **Tschechow-Waffen geladen:**
 - **Schemen-Eis-Magie aus Fingerspitzen** — wird in Szene 3 ausgelöst, ist aber hier schon angedeutet (Sorel ahnt, dass der Schemen-Arm-Schwung in der Querstraße nicht trifft, *weil er weicht*; die Leserin fragt sich beim ersten Lesen nicht, beim zweiten Lesen schon). Feuert auch in K33 (Vesper-Kampf) — Frage offen, ob dort Eis-Schemen oder anderer Magie-Modus.
 - **Schemen-Lautlosigkeit als Canon-Marker** — Sorel registriert das Fehlen in Sz2, Maren registriert es in Sz3. Wird in K33 (Vesper) und K34+ wiederkommen — die Lautlosigkeit ist Marker für Schemen-Wesen ohne physischen Körper (Memory `project_schemen_magie_modi.md`).
-- **Sturmglocken nicht-synchron** — Stadt ist überfordert, niemand koordiniert; Tschechow für K31 (am hellen Tag, niemand glaubt) und K33 (Vesper-Plan, Stadt nicht zu retten).
+- **Sturmglocken nicht-synchron** — Stadt ist überfordert, niemand koordiniert; Tschechow für K32 (am hellen Tag, niemand glaubt) und K33 (Vesper-Plan, Stadt nicht zu retten).
 
 **Tschechow-Waffen abgefeuert:**
 - **Sorels Repertoire aus K29** (Restlicht verstärken, Räume verdunkeln) — beide Operationen werden hier zum ersten Mal aktiv im Stress eingesetzt. K29 etabliert das Können privat, K30 wendet es öffentlich an.
@@ -88,7 +88,7 @@ Dann ziehen sich die Schemen zurück. Ohne Signal, ohne Wendepunkt, den jemand a
 - Vesper erfährt: Sorel kann mehr, als sie wussten. Sein Brennpunkt verletzt den Schemen aktiv, brennt einen weißen Punkt in den Schädel, der Schemen raucht. Vesper sagt nichts. (Vespers POV in K33 wird darauf zurückkommen — Grundlage für die Vier-Resonanzen-Kopplung.)
 - Maren erfährt: Sorel ist getroffen — Eis durch Hose und Haut, der Stoff entlang einer schmalen Linie zugefroren, kein Blut weil versiegelt. Sie hat Eis aus ihrer eigenen Hand gesehen, aber nie aus einem Schemen, der nicht aus Wasser kam. Sie weiß: das war Magie, die das Wesen aktiv eingesetzt hat. Wer berühren darf, kann töten. Sorel hat kein Wort dafür. Sie nicken einander zu und gehen weiter.
 - Sorel erfährt: Schemen-Berührung allein ist harmlos, aber wenn das Wesen aktiv Magie auslöst — Eis aus den Fingerspitzen, im Moment des Treffens — dann schneidet die Magie durch Stoff und Haut in den Knochen. Die Wunde versiegelt sich, der Frost bleibt. (Tschechow K33+ — die Wunde kommt unter Belastung wieder.)
-- Alphina erfährt: er ist zwischen sie und den Schemen getreten, ohne zu zögern. Sie wird das nicht ansprechen, bis später; aber es geht in ihren Körper über. (K31 wird zeigen, dass sie es nicht vergessen hat.)
+- Alphina erfährt: er ist zwischen sie und den Schemen getreten, ohne zu zögern. Sie wird das nicht ansprechen, bis später; aber es geht in ihren Körper über. (K32 wird zeigen, dass sie es nicht vergessen hat.)
 - Beat-End: Schreie von der Druckerei-Seite. Maren rennt los, ohne zu fragen.
 
 **Tschechow-Waffen geladen:**
@@ -114,13 +114,13 @@ Sie laufen Richtung Druckerei, durch Gassen mit altem und neuem Rauch in der Luf
 Sorel sieht Alphina an. Sein Schwur galt ihr. Sie steht. Vael fällt. Die Sonne kommt über die Werftspeicher, kalt und ohne Wärme. Drei Häuser weiter ist eine Tür eingeschlagen. Auf der anderen Seite des Hafens liegt jemand auf der Straße, und es ist kein einzelner. Joran ist tot. Sorel kennt seinen Vornamen, weil Runa einmal eine Geschichte erzählt hat über einen Setzer, der jeden Mittwoch eine bestimmte Schriftart verlangte; das war Joran. Er hat ihn vielleicht zweimal gesehen. Es zählt trotzdem. Der Oberschenkel unter der Hose ist kalt — dieselbe Frost-Linie, dieselbe versiegelte Wunde, derselbe Knochen, der nicht aufhört zu frieren. Er denkt: wie bei Joran, nur weniger. Dann denkt er es nicht weiter. Sie wenden sich zu Marens Wohnung. Die Druckerei kommt später — Runa will nicht zurück, und Marens Tür ist näher. Beat-End: die vier und Runa gehen zusammen, dichter als sie je gegangen sind, durch eine Stadt, die heute Nacht zum ersten Mal auf der Straße blutet. Alphinas Hand findet seine im Gehen, dann zieht sie ihn näher, legt ihre andere Hand kurz an die Stelle auf seiner Brust, wo sie heute Nacht im Schlaf gelegen hat. Was er ihr nie gesagt hat, wusste sie. Sie riecht nach Lavendel und Rauch.
 
 **Dialog-Informationen:**
-- Runa erzählt: Joran tot. Drei Schemen in der Druckerei. Ihre Hände waren heiß. Schemen am Setzkasten zerfallen. Joran-Wunde: Frost-Linie über der Brust, eisige Stoffränder, kein Blut weil versiegelt, Brustkorb kalt bis tief — dieselbe Eis-Magie wie an Sorels Oberschenkel, aber gezielt und vollständig. (Joran-Tod = explizit. Runas Feuer-Resonanz öffentlich = noch nicht ganz, sie sagt nur „Hände heiß", nicht „ich habe ihn verbrannt".) Tschechow für K31 (Schemen am Tag, Runa-Brandfleck am Marktplatz).
+- Runa erzählt: Joran tot. Drei Schemen in der Druckerei. Ihre Hände waren heiß. Schemen am Setzkasten zerfallen. Joran-Wunde: Frost-Linie über der Brust, eisige Stoffränder, kein Blut weil versiegelt, Brustkorb kalt bis tief — dieselbe Eis-Magie wie an Sorels Oberschenkel, aber gezielt und vollständig. (Joran-Tod = explizit. Runas Feuer-Resonanz öffentlich = noch nicht ganz, sie sagt nur „Hände heiß", nicht „ich habe ihn verbrannt".) Tschechow für K32 (Schemen am Tag, Runa-Brandfleck am Marktplatz).
 - Sorel erfährt (intern): er hat seinen Schwur eingehalten — Alphina lebt. Aber Vael blutet. Er begreift, dass Schwur und Verlust nebeneinander stehen, nicht alternativ. (Tschechow für K38: er wird sterben, *und* Alphina wird leben.) Alphinas Hand kehrt am Ende zur Brustbein-Stelle zurück — sie wiederholt die Geste aus Sz1, ohne den Schwur zu kennen.
-- Beat-End: die Vier und Runa gehen gemeinsam zu Marens Wohnung. Hier endet K30, hier beginnt K31 (Alphina-POV, Tag, Hafenmarkt, Schemen am Tag).
+- Beat-End: die Vier und Runa gehen gemeinsam zu Marens Wohnung. Hier endet K30, hier beginnt K32 (Alphina-POV, Tag, Hafenmarkt, Schemen am Tag).
 
 **Tschechow-Waffen geladen:**
-- **Joran-Tod via Eis-Schemen-Magie** — feuert direkt in K32 (Runa-POV, Druckerei, Brandfleck am Setzkasten frisch). Der Brandfleck am Setzkasten in K32 ist *exakt* der Schemen-Zerfallsort aus Runas K30-Erzählung — das ist Cross-POV-Verankerung, kein neuer Beat.
-- **Runas Feuer öffentlich-werdend** — sie sagt hier nur „Hände heiß", weiß selbst noch nicht, dass das Resonanz war (Sorel-Prinzip: die Figur weiß nicht, die Leserin ahnt). Feuert voll in K31 (Marktplatz, glühende Hände vor Zeugen) und K32 (Selbsterkenntnis).
+- **Joran-Tod via Eis-Schemen-Magie** — feuert direkt in K31 (Runa-POV, Druckerei, Brandfleck am Setzkasten frisch). Der Brandfleck am Setzkasten in K31 ist *exakt* der Schemen-Zerfallsort aus Runas K30-Erzählung — das ist Cross-POV-Verankerung, kein neuer Beat.
+- **Runas Feuer öffentlich-werdend** — sie sagt hier nur „Hände heiß", weiß selbst noch nicht, dass das Resonanz war (Sorel-Prinzip: die Figur weiß nicht, die Leserin ahnt). Feuert voll in K32 (Marktplatz, glühende Hände vor Zeugen) und K31 (Selbsterkenntnis).
 - **Eis-Magie-Signatur** („Frost-Linie durch Stoff in den Knochen, Wunde versiegelt, kein Blut, Frost tief") — Joran (tödlicher Treffer Brust) und Sorel (gestreifter Femur, Eis unvollständig) haben dieselbe Magie-Spur: Eis-Schemen, aktiv ausgelöst. Cross-Echo, das die Leserin später in K38 trifft, wenn Sorel den Vollschlag bekommt — derselbe Modus oder ein anderer (z.B. Feuer, Schwere) — K38-Frage.
 - **Alphinas Hand auf Sorels Brustbein, wiederholt am Ende** — schließt die Linie aus Sz1. Die Geste ohne Wissen. Sorel-Prinzip: er weiß, sie nicht.
 
@@ -129,8 +129,8 @@ Sorel sieht Alphina an. Sein Schwur galt ihr. Sie steht. Vael fällt. Die Sonne 
 - **K24-Lene-Bericht (4 → 1)** — die Leserin erinnert sich: von vier Reisenden TZ 154 blieb eine. Joran ist nicht einer der Vier, aber sein Tod öffnet den Verlust-Korridor, durch den die Vier jetzt laufen.
 
 **Cross-POV-Ankerpunkte:**
-- Mit K31 (Alphina-POV): direkter Anschluss am Morgen. Alphina hat Sorels Eis-Wunde gesehen (Riss in der Hose am Marktbrunnen, oder spätestens als sie zurück bei Maren ankommen und die Hose aufgeht — zugefrorener Stoff, kalte Stelle, kein Blut). Sie weiß, dass etwas passiert ist, was niemand benennen kann; das ist der Unterstrom, mit dem sie in K31 in den Tag geht.
-- Mit K32 (Runa-POV): Brandfleck am Setzkasten frisch — exakt der Ort, wo der Schemen zerfiel. Runa-Trauer um Joran. Druckerei als Tatort, nicht als Werkstatt.
+- Mit K32 (Alphina-POV): direkter Anschluss am Morgen. Alphina hat Sorels Eis-Wunde gesehen (Riss in der Hose am Marktbrunnen, oder spätestens als sie zurück bei Maren ankommen und die Hose aufgeht — zugefrorener Stoff, kalte Stelle, kein Blut). Sie weiß, dass etwas passiert ist, was niemand benennen kann; das ist der Unterstrom, mit dem sie in K32 in den Tag geht.
+- Mit K31 (Runa-POV): Brandfleck am Setzkasten frisch — exakt der Ort, wo der Schemen zerfiel. Runa-Trauer um Joran. Druckerei als Tatort, nicht als Werkstatt.
 - Mit K33 (Vesper-POV): Vesper hat in K30 gesehen, was Sorel kann (Brennpunkt verletzt aktiv). K33 baut darauf den Vier-Resonanzen-Kopplungs-Plan auf.
 
 ---
@@ -157,7 +157,7 @@ Sorel sieht Alphina an. Sein Schwur galt ihr. Sie steht. Vael fällt. Die Sonne 
 
 **Was Sorel NICHT wissen darf (Sorel-Prinzip):**
 - Dass Varen die Offensive orchestriert hat. Varen taucht erst in K37 (Portal-Durchgang) für ihn auf.
-- Dass Joran-Tod und Marktplatz-Schemen (K31) Teil derselben Welle sind.
+- Dass Joran-Tod und Marktplatz-Schemen (K32) Teil derselben Welle sind.
 - Dass Lene Dahls „4 → 1" eine Chiffre für ihn selbst ist. (Die Leserin ahnt es. Sorel ahnt nichts. Premature Doubt: er fragt sich nicht, ob er der Verlorene sein wird; er hat sich nur entschieden, der Verlorene sein zu wollen, falls das nötig ist. Das ist Charakter, nicht Vorahnung.)
 - Dass die Eis-Wunde am Oberschenkel ein Vor-Schlag für K38 ist. Er denkt nur: kalter Schnitt, das geht weg.
 - Dass andere Schemen-Bauarten andere Magie-Modi haben (Feuer, Säure, Schwere) — er kennt nur diese Eis-Welle.
@@ -169,7 +169,7 @@ Sorel sieht Alphina an. Sein Schwur galt ihr. Sie steht. Vael fällt. Die Sonne 
 - **Sorel:** Restlicht verstärken (Treppenhaus), Licht weglenken (Querstraße schwarz machen), Licht bündeln (Brennpunkt zwischen Schemen-Augen). NEU in K30: gebündeltes Licht **verletzt** Eis-Schemen aktiv — brennt einen weißen Punkt in den Schädel, raucht (dünner Schleier ohne Flamme). Nicht jeder Schemen reagiert so — die Wächter aus K19 absorbieren Licht, diese Eis-Bauart reagiert auf den Brennpunkt. Sorel weiß das nicht; er probiert. KEIN Licht aus dem Nichts. KEIN Röntgen. KEIN UV/IR. In absoluter Dunkelheit blind.
 - **Schemen-Magie (Canon-Update K30):** **Berührung allein ist nicht schädlich.** Schaden entsteht, wenn der Schemen aktiv Magie einsetzt — Eis, Feuer, Säure, Schwere, je nach Bauart. Diese Welle setzt Eis ein: aus den Fingerspitzen wächst weiß-blaue Eis-Klinge im Moment des Treffens, schneidet durch Stoff und Haut in den Knochen, Wunde versiegelt sich, kein Blut. Die Eis-Bildung ist abhängig vom Zustand des Wesens — angeschlagene Schemen liefern unvollständig (Sorels Streif). Andere Schemen-Bauarten in B2/B3 können andere Magie-Modi haben. Memory: `project_schemen_magie_modi.md`.
 - **Schemen-Lautlosigkeit (Canon-Update K30):** Schemen sind Magie-Wesen ohne physischen Körper. Sie machen keine Geräusche — kein Schritt, kein Aufprall, kein Atem, kein Zerfall. Die Sicht trägt sie, das Ohr nicht. Sorel- und Maren-POV registrieren das Fehlen aktiv (Sorel wartet auf Klacken, das nicht kommt). Geräusche kommen nur von Menschen, Material, Umgebung.
-- **Alphina:** nutzt ihre Resonanz in K30 *nicht*. Sie ist Heilerin, nicht Kämpferin im Hafengasse-Modus. Das ist bewusst — K31 ist ihr POV-Kapitel und ihre Resonanz feuert dort am Tag, nicht in dieser Nacht.
+- **Alphina:** nutzt ihre Resonanz in K30 *nicht*. Sie ist Heilerin, nicht Kämpferin im Hafengasse-Modus. Das ist bewusst — K32 ist ihr POV-Kapitel und ihre Resonanz feuert dort am Tag, nicht in dieser Nacht.
 - **Runa:** Hände heiß, Schemen zerfällt am Setzkasten. Sie weiß nicht, was sie getan hat — sie sagt nur „Hände heiß". Erste off-screen-Anwendung, kommt voll in K31/K32.
 
 **Council-Aufträge für /ausarbeitung (Pflicht in der Prosa zu adressieren):**

@@ -32,7 +32,7 @@ Alphinas Resonanz ist **Zellwachstum auf alle organische Materie** (Memory `proj
 - QUELLE: Farne in Sorels Lichthaus-Keller-Nähe, lebendige Pflanzen am Fenster (Memory `project_alphina_heat_echo_pflanzen.md` — Sorel-spezifische Manifestation: Farne)
 - FOLGE: Farne sprossen, Wedel öffnen sich, Geissblatt biegt sich am Rahmen
 
-**Heat-Echo Modus C K31 (Wiedersehen-Atemzug, dezent):**
+**Heat-Echo Modus C K32 (Wiedersehen-Atemzug, dezent):**
 - BILD: kein bewusstes
 - QUELLE: lebendige Pflanze in der Nähe (Topf am Fenster, Geissblatt am Rahmen)
 - FOLGE: ein einzelner Wedel öffnet sich, eine Knospe springt auf — sie merkt es nicht, Sorel sieht es vielleicht
@@ -60,7 +60,7 @@ Memory `project_alphina_heat_echo_pflanzen.md`. Begehren leckt als Pflanzen-Wach
 
 **Intensitäts-Schwelle:**
 - **Modus A — explosionsartig:** bei Hingabe/Sex oder starkem Schock (K21, K38, B2-Sex-Akte). Manifestation deutlich, viel.
-- **Modus C — dezent im Hintergrund:** bei aktivem Begehren ohne Sex (K31 Wiedersehen-Atemzug). Eine Knospe, ein Wedel, ein Trieb. Sie merkt es oft nicht.
+- **Modus C — dezent im Hintergrund:** bei aktivem Begehren ohne Sex (K32 Wiedersehen-Atemzug). Eine Knospe, ein Wedel, ein Trieb. Sie merkt es oft nicht.
 - **Keine Manifestation** bei Schlaf/Ruhe oder alltäglicher Liebe ohne Begehrens-Druck. Sorel-Begehren-an-sie löst nicht aus, nur ihres.
 
 ### VERBOTEN — abstrakte Magie-Floskeln
@@ -103,7 +103,7 @@ Stand B1: 9+ Wochen in Vael, Wurzel-Eingriff K19 etabliert, Ranken-Manifest K21,
 - **Tote Zellen reagieren nicht.** Stein, Metall, Glas, Stoff (Hose-Leinen, Bettwäsche), Holz das verarbeitet ist — alles inert. Wenn aus Stein etwas wächst, ist es eine Pflanze, die durch organische Substanz IM Stein bricht (Memory `project_stein_quellen_pflanzen_resonanz.md`).
 - **Quellen sind eine Art Stein.** Pflanzen-Resonanz wirkt nicht auf Quellenstein. Bruch oder Abspaltung = magisch tot.
 - **Schemen sind anorganisch** (Memory `project_schemen_magie_modi.md`) — keine Wirkung. Sie kann Schemen nicht heilen, nicht wachsen lassen, nicht beeinflussen.
-- **Tod = Ende.** Wenn alle Zellen tot sind, kein Wachstum mehr. K38 Sorel-Tod ist nicht heilbar (Atem aus, Zellen sterben). K31 Tuchhändler-Mord am Tag (kauterisiert, Atem aus, 20 Schritt entfernt) = ausserhalb Reichweite + bereits tot, kein Heilversuchs-Beat in Alphinas POV.
+- **Tod = Ende.** Wenn alle Zellen tot sind, kein Wachstum mehr. K38 Sorel-Tod ist nicht heilbar (Atem aus, Zellen sterben). K32 Tuchhändler-Mord am Tag (kauterisiert, Atem aus, 20 Schritt entfernt) = ausserhalb Reichweite + bereits tot, kein Heilversuchs-Beat in Alphinas POV.
 - **Fremde Magie-Spuren in Zellen sind Material-Problem, nicht Wachstums-Problem.** K30: Sorels Femur-Fleisch heilt sie, aber Eis-Schemen-Magie im Knochen bleibt. Sie kann neue Zellen wachsen lassen, aber Eis nicht entfernen.
 - **Reichweite extern: Nahfeld.** Über mehrere Schritte hinaus = ausserhalb Reichweite (Stress-Lecks ausgenommen, die nutzen nahe organische Substanz und sind unkontrolliert).
 - **Magie hat keine Kosten** (Memory) — keine Erschöpfungs-Beats, kein Blutpreis. Limit ist Konzentration/Bild-Klarheit, nicht Physiologie.
@@ -248,7 +248,7 @@ Gute Hook-Muster (aus Canon und Leseproben):
 - *„Sie hatte ihn drei Tage angesehen ohne ihn anzufassen, und in der dritten Nacht hatte ihr Körper entschieden, dass er nicht mehr warten wollte."* (Leseprobe 03) — Konsequenz-Hook mit Körper, Selbstvorwurf-Yarros
 - *„Der Krug stand auf der Fensterbank, zwei Schritte von ihr entfernt. Sorel stand davor, die Haare noch nass, und trank langsam."* (K24) — Figur-in-Beziehung mit Material + Körperwahrnehmung
 - *„Sorel lag auf der Seite."* (Leseprobe 28) — Reiz-Eröffnung im SenLinYu-Modus, Körper-Shock
-- *„Sie legte die Hand drei Finger über die Türklinke an den Stein, und der Stein war heiss."* — Konsequenz-Hook mit Material (mögliche K31-Sz1-Eröffnung)
+- *„Sie legte die Hand drei Finger über die Türklinke an den Stein, und der Stein war heiss."* — Konsequenz-Hook mit Material (mögliche K32-Sz1-Eröffnung)
 - *„Sie roch [konkrete Pflanze / Botanik-Detail], bevor [Konsequenz im Plot]."* — Botaniker-Brille als Eröffnung
 - *„[Konkrete Wahrnehmung im Pflanzen-Register], und [unmittelbare Folge]."*
 
@@ -295,4 +295,4 @@ Aus `pov/alphina.md`:
 
 **Verwendung:** /ausarbeitung lädt diese Datei zusätzlich zu `pov/alphina.md`. Pre-Check Phase 1.5 verifiziert: (1) Magie-Beats haben BILD+QUELLE+FOLGE gefüllt, (2) Bühnen-Inventar steht, (3) Hook ist nicht Aphorismus, (4) Begehren-Anker (falls vorhanden) nutzt eine konkrete Stelle aus Liste, (5) Heat-Echo-Modus pro Szene festgelegt (A/C/keine), (6) keine Alphina-Anti-Patterns aus Sektion 8, (7) Lieblingswörter mind. 3 pro Kapitel, (8) Berufslinse-Fachvokabular max 1×/Kapitel, (9) Sie/Du pro Beziehung korrekt nach Sektion 10.
 
-Stand 2026-05-03, im Pre-Check für /ausarbeitung B1-K31 mit Autor durchgegangen.
+Stand 2026-05-03, im Pre-Check für /ausarbeitung B1-K32 mit Autor durchgegangen.

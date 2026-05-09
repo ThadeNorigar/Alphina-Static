@@ -2,7 +2,7 @@
 
 **Stand 2026-05-04 — nach Voice-Anchoring + Antislop + Vision-Layer + Tschechow-Ledger + Plateau-Detection.**
 
-Best-Practice-Pattern aus NousResearch/autonovel + Agents' Room (DeepMind) + eigene K31-Erfahrung. Quelle: `_autor-feedback-katalog.md` + Recherche-Sitzung 2026-05-04.
+Best-Practice-Pattern aus NousResearch/autonovel + Agents' Room (DeepMind) + eigene K32-Erfahrung. Quelle: `_autor-feedback-katalog.md` + Recherche-Sitzung 2026-05-04.
 
 ## Architektur-Überblick
 
@@ -224,10 +224,10 @@ Output: Cuts-Vorschläge zur Autor-Abnahme. Wann nutzen: vor Final-Submission, o
 - Layer-1 Antislop fängt Pattern-Verstöße automatisch → Subagenten 1–4 fokussieren Layer 2
 - Vision-Layer (Subagent 5) verankert positive Marker → kein „bestanden" ohne Stimme-Treffer
 - Reject-Regenerate statt Inline-Fix → kein Whack-a-Mole
-- Plateau-Detection → harter Stopp, statt 6+ Iterationen wie bei K31-Sz1
+- Plateau-Detection → harter Stopp, statt 6+ Iterationen wie bei K32-Sz1
 
 **Quellen der Architektur:**
 - [NousResearch/autonovel PIPELINE.md](https://github.com/NousResearch/autonovel/blob/master/PIPELINE.md) — Voice-Fingerprint, Reject-Regenerate, Plateau-Detection, Reader-Panel
 - [NousResearch/autonovel CRAFT.md](https://github.com/NousResearch/autonovel/blob/master/CRAFT.md) — Six positive Marker (Spezifität, Subtext, Restraint, Stille, Rhythmus-Variations-Koeffizient, Earned Metaphor)
 - [Agents' Room (DeepMind, OpenReview)](https://openreview.net/forum?id=HfWcFs7XLR) — Orchestrator-Worker, Scratchpad, Section-by-Section
-- Eigene Erfahrung: K31-Sz1 v1–v6 (was nicht funktioniert: Inline-Fix-Iterationen)
+- Eigene Erfahrung: K32-Sz1 v1–v6 (was nicht funktioniert: Inline-Fix-Iterationen)

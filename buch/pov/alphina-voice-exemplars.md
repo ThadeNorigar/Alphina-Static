@@ -2,13 +2,13 @@
 
 Kuratierte Passagen aus etablierten Final-Kapiteln. Werden im Schreib-Subagent-Prompt fuer /ausarbeitung woertlich zitiert. Treffe diesen Rhythmus und Material-Anker, schreibe ihn fort — imitiere ihn nicht.
 
-Quelle der Auswahl: B1-K15, B1-K21, B1-K23, B1-K24, B1-K31. Spaetere Kapitel (K23-K31) bilden den etablierten Stand und haben Vorrang. K01/K05/K09 sind Voice-Stand vor der Schaerfung und werden als Exemplar nicht herangezogen.
+Quelle der Auswahl: B1-K15, B1-K21, B1-K23, B1-K24, B1-K32. Spaetere Kapitel (K23-K32) bilden den etablierten Stand und haben Vorrang. K01/K05/K09 sind Voice-Stand vor der Schaerfung und werden als Exemplar nicht herangezogen.
 
 ---
 
 ## Exemplar 1 — Hafengasse-Eroeffnung mit warmem Stein (Funktion: Hook + Sinnes-Schichtung)
 
-**Quelle:** `buch/kapitel/B1-K31-alphina.md`, Szene 1, Zeilen 6-14
+**Quelle:** `buch/kapitel/B1-K32-alphina.md`, Szene 1, Zeilen 6-14
 **Kontext (1 Satz):** Sechs Tage nach der Hafengasse-Nacht geht Alphina mit dem hinkenden Sorel zum Speicher an Pfeiler neun, wo Maren wartet — die Stadt evakuiert, und der Stein des Speichers ist sommerwarm im Nebelmond.
 
 **Passage:**
@@ -92,7 +92,7 @@ Quelle der Auswahl: B1-K15, B1-K21, B1-K23, B1-K24, B1-K31. Spaetere Kapitel (K2
 
 ## Exemplar 4 — Tuchhaendler-Mord, Runas Hand und Blei (Funktion: Magie/koerperlich-bedrohlich + Kipp-Punkt)
 
-**Quelle:** `buch/kapitel/B1-K31-alphina.md`, Szene 2, Zeilen 78-104
+**Quelle:** `buch/kapitel/B1-K32-alphina.md`, Szene 2, Zeilen 78-104
 **Kontext (1 Satz):** Mitten am Tag toetet ein Schemen den Tuchhaendler; gleichzeitig schmilzt Blei auf Runas Setztisch, und Alphina erkennt eine fuenfte Resonanz neben sich.
 
 **Passage:**
@@ -139,7 +139,7 @@ Quelle der Auswahl: B1-K15, B1-K21, B1-K23, B1-K24, B1-K31. Spaetere Kapitel (K2
 - **Rhythmus:** Kurze Setz-Saetze (*Die Fingerspitzen waren kalt.* / *Schweigen.*), gerahmt von einem laengeren Hand-Beat (*Ihre linke Hand griff an Sorels Aermel, den Stoff ueber dem Unterarm, und blieb dort.*). Der Schluss-Satz ist lang und ruhig — Beziehungs-Beobachtung als Inventur, kein Aphorismus.
 - **Material-Anker:** Aermel, Stoff ueber dem Unterarm, Pflasterfugen, Loewenzahn-Rosette, Handruecken. Loewenzahn als Welt-Fassung-Detail (niedergedrueckt — etwas hat ihn flachgedrueckt; Welt-Subtext durch Botaniker-Brille).
 - **POV-Lieblingswort aktiv:** *kalt*, *fester*, *warm*, *tiefer*. Koerper-Leitmotiv aus Schreibblatt §11: Schluesselbein-Faden, Fingerspitzen, Hand am Stoff. *Beobachtung fuer spaeter* — Kontrollfreak-Register, Botaniker-Reflex (Material aufnehmen, klassifizieren, ablegen).
-- **Subtext-Traeger:** *Er hob den Arm leicht, so dass ihre Hand besser lag.* — keine benannte Emotion, eine winzige Mikro-Geste, die alles traegt. *Er liess sie.* — Annahme, kein Empfangen. Der Faden unter dem Schluesselbein als wiederkehrendes Koerper-Motiv (vgl. K23 *Ziehen unter dem Schluesselbein*; K31 *Brustkorb zog sich zusammen*).
+- **Subtext-Traeger:** *Er hob den Arm leicht, so dass ihre Hand besser lag.* — keine benannte Emotion, eine winzige Mikro-Geste, die alles traegt. *Er liess sie.* — Annahme, kein Empfangen. Der Faden unter dem Schluesselbein als wiederkehrendes Koerper-Motiv (vgl. K23 *Ziehen unter dem Schluesselbein*; K32 *Brustkorb zog sich zusammen*).
 - **Berufslinse (Botanik):** Loewenzahn in der Pflasterfuge — Pflanze als Welt-Detail, das eine Botanikerin zuerst sieht. Die *niedergedrueckte Rosette* ist eine Bestimmungs-Beobachtung: jemand ist hier gegangen, sehr oft. Plus die Material-Schichtung *Himmel ueber Dach statt Keller ueber Stein* — Sinneswechsel als raeumliche Inventur.
 
 ---

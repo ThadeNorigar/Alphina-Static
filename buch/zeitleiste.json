@@ -1646,7 +1646,7 @@
       "tags": [
         "Entscheidung: Durchgang + Training",
         "Motivation für 3-Monats-Zeitsprung (Trainings-/Lernphase)",
-        "Tschechow: Drift-Gezeiten-Korrelation (Seed für K32-Schwerkraft)",
+        "Tschechow: Drift-Gezeiten-Korrelation (Seed für K33-Schwerkraft)",
         "V+M bleiben -> Übergang K27"
       ],
       "kapitel_status": "szenenplan"
@@ -1912,7 +1912,7 @@
       ],
       "tags": [
         "Süß-dichter Geruch (Varens Schemen-Signatur)",
-        "Tschechow für K28-Leiche und K31-Marktplatz"
+        "Tschechow für K28-Leiche und K32-Marktplatz"
       ],
       "kapitel_status": "hintergrund"
     },
@@ -2014,7 +2014,7 @@
       "welt": "thalassien",
       "pov": "Alphina",
       "buch": "B1",
-      "kapitel": "31",
+      "kapitel": "32",
       "leseart": "normal",
       "titel": "Schemen-Angriff am Tag — Runas Hände glühen, Feuer-Resonanz entdeckt",
       "detail": "Ein Schemen tötet einen Händler am Hafen — am helllichten Tag. Thar-Schemen, Metallgeruch, andere Fraktion als Varen. Runa steht neben Alphina. Ihre Hände glühen buchstaeblich, Brandfleck auf dem Holz. 'Runa. Deine Hände.' Feuer-Resonanz entdeckt. Alphina weiß: nicht vier — fünf.",
@@ -2035,10 +2035,10 @@
       "welt": "thalassien",
       "pov": "Runa",
       "buch": "B1",
-      "kapitel": "32",
+      "kapitel": "31",
       "leseart": "normal",
       "titel": "Runa allein — Verarbeitung Hafengasse-Nacht, Selbst-Erkenntnis, Hilfe-Entschluss",
-      "detail": "Tag nach K30. Runa in der Druckerei, allein, der Brandfleck am Setzkasten frisch von Joran-Schemen-Zerfall in der Nacht. Sie verarbeitet die Hafengasse-Nacht — Joran tot, ihre Hände heiß. Sie geht durch die letzten Wochen rückwärts: Alphinas nervöse Blicke seit Glutmond, Marens beiläufige Erwähnung einer 'Übersetzung' mit Vesper, Sorels späte Stunden in der Stadt, die Flugblätter, die sie selbst gedruckt hat. Sie hat alles beobachtet, alles gesehen, nichts gesagt. Sie ist nicht verletzt, dass die Vier sie nicht eingeweiht haben — sie versteht, dass Schutz das Motiv war. Erkenntnis: Sie will helfen. Heimliche Trauer um die ungelebte Naehe — sie ist allein, die anderen sind zu zweit — aber ohne Bitterkeit; sie goennt beiden Paaren ihr Glueck. Innere Vorbereitung auf K34 'Ich komme mit'. Runa-POV, einziges Runa-Kapitel in B1. **Buchposition:** chronologisch zwischen K30 und K31 — Lesereihenfolge K30→K32→K31→K33; Tausch der Kapitel-Nummern erfolgt nach Final beider Kapitel (siehe `kapitel/_TODO_tausch_k31_k32.md`).",
+      "detail": "Tag nach K30. Runa in der Druckerei, allein, der Brandfleck am Setzkasten frisch von Joran-Schemen-Zerfall in der Nacht. Sie verarbeitet die Hafengasse-Nacht — Joran tot, ihre Hände heiß. Sie geht durch die letzten Wochen rückwärts: Alphinas nervöse Blicke seit Glutmond, Marens beiläufige Erwähnung einer 'Übersetzung' mit Vesper, Sorels späte Stunden in der Stadt, die Flugblätter, die sie selbst gedruckt hat. Sie hat alles beobachtet, alles gesehen, nichts gesagt. Sie ist nicht verletzt, dass die Vier sie nicht eingeweiht haben — sie versteht, dass Schutz das Motiv war. Erkenntnis: Sie will helfen. Heimliche Trauer um die ungelebte Naehe — sie ist allein, die anderen sind zu zweit — aber ohne Bitterkeit; sie goennt beiden Paaren ihr Glueck. Innere Vorbereitung auf K34 'Ich komme mit'. Runa-POV, einziges Runa-Kapitel in B1.",
       "typen": [
         "erkenntnis",
         "charakter"

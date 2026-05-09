@@ -14,7 +14,7 @@
 
 - **POV:** Vesper Greve (3. Person nah, Praeteritum)
 - **Wortziel:** 4.500–5.000 W (Aktplan-Vorgabe)
-- **Timeline-Anker:** 21. Nebelmond 551 TZ. Werkbank-Ecke der gemeinsamen Hafengasse-Wohnung mit Maren, Nacht. Werft am Tagesanbruch. Sieben Tage nach K31 (Marktplatz, Runas Hitze offen), 13 Tage nach K30 (Hafen-Drei-Resonanzen-Kopplung), 9–10 Tage vor K34 (1. Dunkelmond — Aufbruchs-Nacht).
+- **Timeline-Anker:** 21. Nebelmond 551 TZ. Werkbank-Ecke der gemeinsamen Hafengasse-Wohnung mit Maren, Nacht. Werft am Tagesanbruch. Sieben Tage nach K32 (Marktplatz, Runas Hitze offen), 13 Tage nach K30 (Hafen-Drei-Resonanzen-Kopplung), 9–10 Tage vor K34 (1. Dunkelmond — Aufbruchs-Nacht).
 - **Freigegebener Entwurf:** `buch/kapitel/B1-K33-entwurf.md`
 - **Ton-Referenz Vesper-Voice:** `buch/kapitel/B1-K11-vesper.md` + Voice-Exemplars `buch/pov/vesper-voice-exemplars.md`
 
@@ -63,7 +63,7 @@
 
 - **Karst-Rueckblende** in Sz1 ist Plot-zentral. Sie kippt mitten im Vier-Werke-Experiment ein, nicht davor und nicht danach. Vesper sieht: was er heute kontrolliert macht, geschah in Karst passiv durch ihn als empfaenglichen Punkt.
 - **„Untergrund" konkret formulieren:** „Die Werke sind nicht das Problem — der Boden, auf dem sie stehen, schwankt selbst." Es ist das Gestein/Purpurstein unter Vael, in dem die Quelle pulsiert. Nicht „Hintergrund" oder „Kontext".
-- **„Sie ist die fuenfte"** in Sz3 ist KEIN Reveal — Vesper weiss seit K30/K31, Maren auch. Beide bestaetigen operativ als Inklusion ins heutige Treffen.
+- **„Sie ist die fuenfte"** in Sz3 ist KEIN Reveal — Vesper weiss seit K30/K32, Maren auch. Beide bestaetigen operativ als Inklusion ins heutige Treffen.
 - **Hand-Code-Geste an der Brusttasche** am Sz3-Ende ist V/M-Privat-Marker (etabliert seit K27). Geste zeigen, NICHT mit Erzaehler-Glosse erklaeren.
 - **Pendul-Zeitlupe-Beat im Experiment** atmen lassen — der Moment, in dem die Boden-Pulsation hoerbar wird, ist der Gaensehaut-Moment. Nicht zu schnell verwerfen.
 - **Sz2-Bett-leer-Beat** „Sie ist da, weil sie nicht geschlafen hat" als emotionaler Anker stark machen — heimlicher Kipp-Punkt von Solo-Diagnose zu geteilter Gegenwart.

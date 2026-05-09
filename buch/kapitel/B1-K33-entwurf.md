@@ -1,7 +1,7 @@
 # B1-K33 — Vesper — Entwurf (Quelle-Refactor 2026-05-08)
 
 **POV:** Vesper Greve (3. Person nah, Praeteritum)
-**Timeline:** 21. Nebelmond 551 TZ. Werkbank-Ecke der gemeinsamen Hafengasse-Wohnung mit Maren, Nacht. Werft am Tagesanbruch. Sieben Tage nach K31 (Marktplatz, Runas Hitze offen), 13 Tage nach K30 (Hafen-Drei-Resonanzen-Kopplung), 9–10 Tage vor K34 (1. Dunkelmond).
+**Timeline:** 21. Nebelmond 551 TZ. Werkbank-Ecke der gemeinsamen Hafengasse-Wohnung mit Maren, Nacht. Werft am Tagesanbruch. Sieben Tage nach K32 (Marktplatz, Runas Hitze offen), 13 Tage nach K30 (Hafen-Drei-Resonanzen-Kopplung), 9–10 Tage vor K34 (1. Dunkelmond).
 **Wortziel Ausarbeitung:** 4.500–5.000 W (Aktplan-Vorgabe)
 **Gaensehaut-Moment:** Vesper synchronisiert vier Werke (Werkbank-Pendule + drei Justier-Pendel) zu einer kohaerenten Kollektiv-Schwingung, versetzt das Kollektiv in Zeitlupe. Im langsamen Bruchteil registriert er eine zweite Schwingung im Holzboden, die nicht von den Werken kommt — den Takt unter dem Stein. Sein Kollektiv-Pendul ist gerade zum Mess-Instrument fuer den Takt geworden, der seit Generationen unter Vael laeuft (Newton-Niveau-Diagnose, kein modernes Vokabular — Vesper denkt „Takt", „Schwingung", „der Boden zieht", nicht „Wellenlaenge"/„Anomalie"/„Schwerkraft-Schwankung am Standort" als Begriff). **Zweiter Pivot:** mitten im Experiment kippt eine Erinnerung ein — Karst, vor seiner Reise nach Vael, alle 26 Uhren in seiner Werkstatt synchronisierten sich nachts ohne sein Zutun und blieben auf 4:33 stehen. Was er heute kontrolliert macht, ist damals passiv durch ihn geschehen.
 
@@ -59,7 +59,7 @@ Im langsamen Bruchteil des Kollektiv-Zeitlupe-Schwungs registriert er eine zweit
 - K17/K20 (Maren): Schiffsuhr-Sequenz, Symbolblatt-Allianz — Marens Logbuch-Linie startet hier.
 - K28 (Maren): Marens Pochen-Lesung am Steinkreis (1. Nebelmond) als signifikantester Maren-Datenpunkt vor K33; wandert in Vespers Drei-Spalten-Tabelle.
 - K30 (Sorel): Drei-Resonanzen-Kopplung im Hafen — Vesper hat dort den Hafen-Takt gelesen UND aktiv beschleunigt. Erste bewusste Magie-Anwendung mit anderen; Vier-Werke-Experiment baut darauf auf (von Eins-auf-Andere zu Mehrere-als-Eins).
-- K31 (Alphina): Pfeiler-9-Speicher, Vespers Takt-Lesung vor sieben Tagen — als Spitzenwert in der Drift-Tabelle.
+- K32 (Alphina): Pfeiler-9-Speicher, Vespers Takt-Lesung vor sieben Tagen — als Spitzenwert in der Drift-Tabelle.
 
 ---
 
@@ -103,12 +103,12 @@ Marens Bett-Haelfte ist leer; ihre Schritt-Spur fuehrt zur Werft, eine Stunde vo
 
 **Wortziel:** 1.300–1.500 W
 
-Vesper geht zur Werft. Maren ist am Boot, hat den Werfthammer noch nicht aufgenommen, beobachtet die Grauwe. Vesper bringt die Erkenntnis: derselbe Takt zwischen seiner Drift und ihren Gezeiten — gemeinsame Ursache, die unter dem Stein im Botanischen Garten sitzt. Vespers Wort dafuer bleibt „Mittelpunkt" / „die Stelle unter dem Stein" — er uebernimmt KEINEN Phaenomen-Begriff, weil er keinen kennt (auch nicht aus Jaras Manuskript-Auszuegen — Lenes Bericht und Harons Anleitung haben kein Wort fuer das Phaenomen, sondern beschreiben nur Erlebnis und Mechanik). Maren bestaetigt nonverbal, sie hat den Takt seit dem Glutmond koerperlich gespuert, ohne ihn benennen zu koennen. Vesper zeigt ihr nur die Schluss-Zeile der Tabelle; mehr braucht sie nicht. Beide bestaetigen operativ die Aufstellung Vier-am-Stein nach Lenes Manuskript: Vesper, Maren, Sorel, Alphina. Runas Hitze ist seit K30/K31 bekannt, ihre Resonanz-Form ist unklar; sie weiss nicht, dass die Vier heute Nacht gehen — operative Entscheidung: nicht einweihen. Drueben unkalkulierbar, Lene-Plan fordert Vier, Sicherheit zuerst. Sie verabreden das Treffen der Vier (plus Jara als Manuskript-Traegerin) am selben Tag, um die Daten gemeinsam aufzudecken und den Steinkreis zu untersuchen — Jaras Manuskript wird Teil der Diskussion. Vesper geht zurueck zur Hafengasse-Treppe.
+Vesper geht zur Werft. Maren ist am Boot, hat den Werfthammer noch nicht aufgenommen, beobachtet die Grauwe. Vesper bringt die Erkenntnis: derselbe Takt zwischen seiner Drift und ihren Gezeiten — gemeinsame Ursache, die unter dem Stein im Botanischen Garten sitzt. Vespers Wort dafuer bleibt „Mittelpunkt" / „die Stelle unter dem Stein" — er uebernimmt KEINEN Phaenomen-Begriff, weil er keinen kennt (auch nicht aus Jaras Manuskript-Auszuegen — Lenes Bericht und Harons Anleitung haben kein Wort fuer das Phaenomen, sondern beschreiben nur Erlebnis und Mechanik). Maren bestaetigt nonverbal, sie hat den Takt seit dem Glutmond koerperlich gespuert, ohne ihn benennen zu koennen. Vesper zeigt ihr nur die Schluss-Zeile der Tabelle; mehr braucht sie nicht. Beide bestaetigen operativ die Aufstellung Vier-am-Stein nach Lenes Manuskript: Vesper, Maren, Sorel, Alphina. Runas Hitze ist seit K30/K32 bekannt, ihre Resonanz-Form ist unklar; sie weiss nicht, dass die Vier heute Nacht gehen — operative Entscheidung: nicht einweihen. Drueben unkalkulierbar, Lene-Plan fordert Vier, Sicherheit zuerst. Sie verabreden das Treffen der Vier (plus Jara als Manuskript-Traegerin) am selben Tag, um die Daten gemeinsam aufzudecken und den Steinkreis zu untersuchen — Jaras Manuskript wird Teil der Diskussion. Vesper geht zurueck zur Hafengasse-Treppe.
 
 **Dialog-Informationen (Inhalt — wörtlich erst in /ausarbeitung):**
 - *Maren erfaehrt:* Drift und Gezeiten haben dieselbe Ursache — den Takt unter dem Stein im Botanischen Garten. Periode 4:33. Baseline seit Generationen, Stoerung seit Erntemond. Vespers Wort bleibt „Takt" / „Mittelpunkt", kein moderner Begriff.
 - *Vesper erfaehrt:* Maren hat es koerperlich seit Glutmond gespuert; die Zahl 4:33 hat sie aus seinen Tidemoor-Erzaehlungen mitgenommen, nur nicht in ihrem Wasser erwartet.
-- *Beide bestaetigen:* Aufstellung Vier-am-Stein nach Lenes Manuskript — Vesper, Maren, Sorel, Alphina. Runas Hitze ist seit K30 (Joran-Tod-Schreie) und K31 (Marktplatz, Quartett-Beratung) bekannt; ihre Resonanz-Form bleibt unklar. Operative Entscheidung: nicht einweihen — drueben unkalkulierbar, Lene-Plan fordert Vier, Sicherheit zuerst.
+- *Beide bestaetigen:* Aufstellung Vier-am-Stein nach Lenes Manuskript — Vesper, Maren, Sorel, Alphina. Runas Hitze ist seit K30 (Joran-Tod-Schreie) und K32 (Marktplatz, Quartett-Beratung) bekannt; ihre Resonanz-Form bleibt unklar. Operative Entscheidung: nicht einweihen — drueben unkalkulierbar, Lene-Plan fordert Vier, Sicherheit zuerst.
 - *Beide entscheiden:* Treffen der Vier (plus Jara als Manuskript-Traegerin) heute. Steinkreis-Untersuchung ansetzen. Jaras Manuskript einbeziehen.
 - *Begriffs-Schranke:* niemand sagt „Quelle" als Bezeichnung fuer das Phaenomen — auch nicht Vesper, auch nicht aus Jaras Manuskript. Lenes Bericht und Harons Anleitung haben kein Wort fuer das Phaenomen, sondern beschreiben nur Erlebnis und Mechanik. Vespers Wort bleibt „Mittelpunkt" / „die Stelle unter dem Stein". „Tor" als Wort fuer die Oeffnung etabliert (Vesper + Maren teilen es). „Portal" kommt nicht im Wortschatz vor.
 
@@ -136,7 +136,7 @@ Vesper geht zur Werft. Maren ist am Boot, hat den Werfthammer noch nicht aufgeno
 - Vier Resonanz-Faehigkeiten (seit K19): Pflanze, Licht, Zeit (er), Wasser.
 - Marens Gezeiten-Differenzen seit Glutmond.
 - Runas Sichtungs-Daten (drei Folgen + sechs Adressen + drei neue Sichtungen).
-- Runas Hitze-Faehigkeit seit K30 (Joran-Tod) und K31 (Marktplatz).
+- Runas Hitze-Faehigkeit seit K30 (Joran-Tod) und K32 (Marktplatz).
 - Hafen-Angriff K30 (Schemen mit Eis-Klinge, Vespers Takt-Lesung, Drei-Resonanzen-Kopplung mit Maren+Alphina, eigene aktive Beschleunigung).
 - Jaras Manuskript-Auszuege (er liest seit Wochen — Lenes Bericht und Harons Anleitung; aber kein Wort fuer das Phaenomen darin, sondern nur Erlebnis und Mechanik).
 

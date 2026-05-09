@@ -113,7 +113,7 @@ Alphina steht bei Sorel. Sie hat keine Angst. Sie spuert, dass sie und Sorel im 
 
 Sie sehen sich um. Die Pflanzen aussen wachsen weiter, langsamer jetzt — Alphinas Heat-Echo ebbt ab, weil ihr Begehren in diesem Moment nicht mehr im Stoss ist, sondern in der ruhigen Praesenz mit Sorel. Sterne brennen weiter ueber dem Garten. Sie haelt seine Hand. Er haelt ihre. Beide sehen die Schemen, beide sehen die Pflanzen, beide sagen nichts.
 
-Schritte am Garten-Eingang. Vesper und Maren. Sie kommen den Hauptweg hinunter, gemeinsam (K35-Anschluss — sie haben in der Hafengasse-Wohnung uebernachtet, brechen gemeinsam auf). Vesper traegt seine Werkzeugrolle. Maren ihre Werkzeug-Tasche und den in Sackleinen gewickelten grossen Werft-Hammer. **Runa ist nicht dabei.** (Sie folgt heimlich aus der Druckerei — K32-Canon „Mitgehen wuerde sie trotzdem". Wird in K37 als Runa-POV-Auftakt eingeloest, sie ist heute Nacht in K36 nicht sichtbar fuer Alphina/Sorel/Vesper/Maren.) Sie sehen Alphina+Sorel im Steinkreis, sie sehen den bluehenden Garten, sie sehen die Schemen am Rand. Niemand sagt etwas. Vesper nickt einmal — operativer Beat, das Ritual beginnt.
+Schritte am Garten-Eingang. Vesper und Maren. Sie kommen den Hauptweg hinunter, gemeinsam (K35-Anschluss — sie haben in der Hafengasse-Wohnung uebernachtet, brechen gemeinsam auf). Vesper traegt seine Werkzeugrolle. Maren ihre Werkzeug-Tasche und den in Sackleinen gewickelten grossen Werft-Hammer. **Runa ist nicht dabei.** (Sie folgt heimlich aus der Druckerei — K31-Canon „Mitgehen wuerde sie trotzdem". Wird in K37 als Runa-POV-Auftakt eingeloest, sie ist heute Nacht in K36 nicht sichtbar fuer Alphina/Sorel/Vesper/Maren.) Sie sehen Alphina+Sorel im Steinkreis, sie sehen den bluehenden Garten, sie sehen die Schemen am Rand. Niemand sagt etwas. Vesper nickt einmal — operativer Beat, das Ritual beginnt.
 
 Alphina schaut Sorel an. Letzter Blick im Kreis allein. Dann tritt sie zur Seite, macht Platz fuer die anderen. Sorel folgt. Beide bleiben im Kreis, aber sie nehmen ihre Aufstellung. Vesper kommt zu ihnen. Maren auch. Vier am Kreis. (Runa folgt heimlich — beobachtet aus den Linden, niemand sieht sie. Wird in K37 eingeloest.) Vesper holt seine Pendel-Notizen heraus. Das Ritual beginnt.
 
@@ -125,7 +125,7 @@ Alphina schaut Sorel an. Letzter Blick im Kreis allein. Dann tritt sie zur Seite
 - *Alphinas Innenbeat:* sie hat keine Angst. Sicherheit im Kreis. Sub-Text: letzte Stunde mit dieser Sicherheit.
 - *Heat-Echo ebbt ab:* die Pflanzen aussen wachsen langsamer, weil Alphinas Begehren in ruhiger Praesenz ist statt im Stoss. Magie folgt der Emotion.
 - *Schritte am Garten-Eingang:* Vesper und Maren kommen gemeinsam aus der Hafengasse-Wohnung (K35-Anschluss). Vesper traegt Werkzeugrolle, Maren Werkzeug-Tasche + grossen Werft-Hammer in Sackleinen.
-- **Runa NICHT in K36 sichtbar.** Sie folgt heimlich aus der Druckerei (K32-Canon „Mitgehen wuerde sie trotzdem", Aktplan „Setup fuer K36 Runa folgt unbemerkt"). Sie beobachtet aus den Linden am Garten-Rand — Alphina/Sorel/Vesper/Maren sehen sie nicht. K37 (Runa-POV) loest ihre Verfolgungs-Sequenz ein.
+- **Runa NICHT in K36 sichtbar.** Sie folgt heimlich aus der Druckerei (K31-Canon „Mitgehen wuerde sie trotzdem", Aktplan „Setup fuer K36 Runa folgt unbemerkt"). Sie beobachtet aus den Linden am Garten-Rand — Alphina/Sorel/Vesper/Maren sehen sie nicht. K37 (Runa-POV) loest ihre Verfolgungs-Sequenz ein.
 - *Operative Aufstellung beginnt:* Vesper, Maren, Sorel, Alphina an je einem Stein. Vesper-Nick als Beginn-Beat.
 - *Alphina laesst Sorels Hand los:* fuer die Aufstellung. Beat-Stichwort, kein Pathos.
 - *Schluss-Beat:* Sinnesempfindung (Stein unter Sohlen, Sterne, Schemen-Augen am Rand). Cliffhanger zu K37.
@@ -139,9 +139,9 @@ Alphina schaut Sorel an. Letzter Blick im Kreis allein. Dann tritt sie zur Seite
 
 **Tschechow-Waffen abgefeuert:**
 - K34 (Treffpunkt-Verabredung Steinkreis) — Vesper und Maren kommen, der Plan greift.
-- K32-Schluss (Runa-Disziplin „Mitgehen wuerde sie trotzdem") — operativ aktiv, sie folgt heimlich, sichtbar erst K37.
+- K31-Schluss (Runa-Disziplin „Mitgehen wuerde sie trotzdem") — operativ aktiv, sie folgt heimlich, sichtbar erst K37.
 - K35 (Maren+Vesper-Nacht) — sie kommen aus der Hafengasse-Wohnung gemeinsam, das ist V/M-Anschluss-Beat (sie sind zusammen aufgewacht/aufgebrochen).
-- K32 (Runas drei Dinge) — sichtbar in ihrer Haltung am Kreis-Rand.
+- K31 (Runas drei Dinge) — sichtbar in ihrer Haltung am Kreis-Rand.
 - K05/K12/K28/K30 (alle Schemen-Bauarten) — alle vereinen sich am Garten-Rand. Die letzte Beobachtung der Vael-Schemen.
 
 **Cross-POV-Ankerpunkte:**
@@ -155,7 +155,7 @@ Alphina schaut Sorel an. Letzter Blick im Kreis allein. Dann tritt sie zur Seite
 
 ### Was weiss Alphina am Anfang von K36?
 
-- Sorel-Beziehung: K21 erste intime Szene (Dunkelkammer), K22 Du-Wechsel, K23 zweite intime Szene (Ausblende), K30-Hafenangriff (Sorel hat sich vor sie gestellt, „Was er ihr nie gesagt hatte, wusste sie"), K31 Sorel hinkt (Frost im Knochen).
+- Sorel-Beziehung: K21 erste intime Szene (Dunkelkammer), K22 Du-Wechsel, K23 zweite intime Szene (Ausblende), K30-Hafenangriff (Sorel hat sich vor sie gestellt, „Was er ihr nie gesagt hatte, wusste sie"), K32 Sorel hinkt (Frost im Knochen).
 - Pflanzen-Resonanz Stufe 5: Wachstum lenken, Heilung an Wunden, Wurzeln treiben (ab B2 voll).
 - Sprachbegabt: versteht Moragh-Sprache aus Harons Woerterbuch.
 - Heat-Echo: sie hat gespuert, dass Pflanzen in ihrer Naehe staerker reagieren, wenn sie aufgewuehlt ist (K25-Canon — Runa hat es bei sich beobachtet, bei Alphina war es noch unbewusst). **Sie hat noch nicht klar verstanden, dass es ihr Begehren ist** (das versteht sie in K36 zum ersten Mal).

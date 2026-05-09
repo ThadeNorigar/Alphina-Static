@@ -16,7 +16,7 @@ reihenfolge: 80
 
 **Letzte Aktualisierung:** 2026-05-04 — Refactor analog Vesper/Sorel/Elke/Nyr/Maren (Charakter-Wertgerüst, Resonanz: Feuer als eigene Sektion mit Stufen-Tabelle, chronologischer Wissensstand B1, vollständige B2/B3-Bögen mit Kapitel-Ankern, Verworfen-Sektion, Verweise auf Schreibblatt + Voice-Exemplars).
 
-**Verwandte Files:** `buch/pov/runa-schreibblatt.md` (Pflicht-Lade-Datei für /ausarbeitung — Magie-Mechanik BILD/QUELLE/FOLGE, B1-Repertoire Stufe 1-2, Anti-Patterns, Material-Register, Sie/Du-Status), `buch/pov/runa-voice-exemplars.md` (Voice-Anchoring aus B1-K25 + B1-K32), `buch/10-magie-system.md` (Runa-Progression + Feuer-Modi), `buch/zeitleiste.json` (Runa-Events B1/B2/B3), `buch/14-buch3-akt1.md` + `buch/15-buch3-akt2.md` + `buch/16-buch3-akt3.md` + `buch/17-buch3-akt4.md` (B3-Bogen), `buch/11-nyr.md` (Nyr-Runa-Paar-Logik), `buch/pov/alphina.md` (FWB B2-K17 + B3-Drei-Sätze-Absage), `buch/pov/maren.md` (Feuer+Wasser-Spannung + Maren-wusste-K32). Memory: `project_nyr_runa_eigenstaendig.md`, `feedback_resonanz_nicht_benennen.md`, `feedback_magie_via_vorstellung.md`, `feedback_kein_magie_kosten.md`.
+**Verwandte Files:** `buch/pov/runa-schreibblatt.md` (Pflicht-Lade-Datei für /ausarbeitung — Magie-Mechanik BILD/QUELLE/FOLGE, B1-Repertoire Stufe 1-2, Anti-Patterns, Material-Register, Sie/Du-Status), `buch/pov/runa-voice-exemplars.md` (Voice-Anchoring aus B1-K25 + B1-K31), `buch/10-magie-system.md` (Runa-Progression + Feuer-Modi), `buch/zeitleiste.json` (Runa-Events B1/B2/B3), `buch/14-buch3-akt1.md` + `buch/15-buch3-akt2.md` + `buch/16-buch3-akt3.md` + `buch/17-buch3-akt4.md` (B3-Bogen), `buch/11-nyr.md` (Nyr-Runa-Paar-Logik), `buch/pov/alphina.md` (FWB B2-K17 + B3-Drei-Sätze-Absage), `buch/pov/maren.md` (Feuer+Wasser-Spannung + Maren-wusste-K31). Memory: `project_nyr_runa_eigenstaendig.md`, `feedback_resonanz_nicht_benennen.md`, `feedback_magie_via_vorstellung.md`, `feedback_kein_magie_kosten.md`.
 
 ![Runa Kvist in ihrer Druckerei](/img/runa.png)
 
@@ -50,7 +50,7 @@ reihenfolge: 80
 |---|---|---|---|
 | **1-2 unbewusst** | B1 K01-K24 | Hände dauerhaft warm, Wachs schmilzt, Bleilettern werden weicher, Glas Wasser bleibt warm. Sie hat keine Theorie. | Verformen weicher Metalle (Blei/Zinn) bei Berührung, Schmelzen Wachs/Talg, Wasser/Tee warm halten — alles unbewusst. |
 | **1-2 begehren-bewusst** | B1-K25 | Beim Orgasmus brennt Papier auf dem Tisch — keine sichtbare Funke. Sie verdrängt, ordnet als 4. Anomalien-Sichtung ein (neben Tohl/Magd/Joran). | Erste Magie-Manifestation als **Begehren-Marker**. Magie ohne Berührung — bisheriges Limit gebrochen, weil sie es nicht kontrolliert. |
-| **1-2 angriff-bewusst** | B1-K32 | Schemen-Angriff in der Druckerei. Faust gegen Wesen → Hand glüht weiß → Wesen verglimmt, eigene Haut rot, nicht verbrannt. **Eigene-Haut-immun-Erkenntnis.** Bleilettern-Halbmond am A: kontrollierte Magie. | Entzünden bei direkter Berührung mit Brennstoff + Sauerstoff. Erste bewusste Steuerung (Becher kühler halten als Hand). |
+| **1-2 angriff-bewusst** | B1-K31 | Schemen-Angriff in der Druckerei. Faust gegen Wesen → Hand glüht weiß → Wesen verglimmt, eigene Haut rot, nicht verbrannt. **Eigene-Haut-immun-Erkenntnis.** Bleilettern-Halbmond am A: kontrollierte Magie. | Entzünden bei direkter Berührung mit Brennstoff + Sauerstoff. Erste bewusste Steuerung (Becher kühler halten als Hand). |
 | **3 trainiert** | B1-Zeitsprung → K35 | Resonanz-Training mit den Vier vor dem Tor. | Kontrollierte Wärme dosieren, Steuerung beginnt. |
 | **4-7** | B2 nach Monaten in Moragh | Stein wird glühend in ihrer Hand. Metall biegsam. Magisches Feuer ohne Oxidationsmittel — brennt unter Wasser, im Vakuum, durch Marens Eisschild. Hitze-Entzug (Räume kühlen). | Volle Feuer-Resonanz, kein Brennstoff-Limit mehr. |
 | **10 (Stufe-Maximum)** | B3 Akt IV | Fleisch von innen entzünden. Flammen-Sturm. Persönliche moralische Bremse — sie wählt es selten. | Bleibt Fähigkeit, im Finale wenig sichtbar (Massen-Schlacht, keine Duell-Szenen). |
@@ -70,7 +70,7 @@ Sie kann mit blossem Finger Dochte entzünden, ohne sich zu verbrennen. Fremdes 
 
 ### Vier-Kopplung Tor-Öffnung
 
-Pflanze + Licht + Zeit + Wasser am Steinkreis öffnen das Tor. Runa **schlüpft durch** — sie kuppelt nicht selbst, weil ihre Resonanz erst in Moragh in Stufe 4 kommt. Erstes Buch-1-Magie-Manifest in voller Stärke ist die Druckerei-Verteidigung K32.
+Pflanze + Licht + Zeit + Wasser am Steinkreis öffnen das Tor. Runa **schlüpft durch** — sie kuppelt nicht selbst, weil ihre Resonanz erst in Moragh in Stufe 4 kommt. Erstes Buch-1-Magie-Manifest in voller Stärke ist die Druckerei-Verteidigung K31.
 
 ---
 
@@ -112,7 +112,7 @@ Mittellange Sätze (15-25 Wörter) mit gelegentlichem Hammer als Klarsicht-Befun
 
 **Vorsicht — Maren-Wörter sparsam:** *stetig, satt, dicht* gehören Maren-Domäne. Wenn Runa sie nutzt, max 1×/Szene und nie als Berufslinsen-Tic.
 
-Volle Voice-Anker mit fünf Exemplaren aus B1-K25 + B1-K32: `buch/pov/runa-voice-exemplars.md`.
+Volle Voice-Anker mit fünf Exemplaren aus B1-K25 + B1-K31: `buch/pov/runa-voice-exemplars.md`.
 
 ---
 
@@ -126,7 +126,7 @@ Volle Voice-Anker mit fünf Exemplaren aus B1-K25 + B1-K32: `buch/pov/runa-voice
 
 **K25 — Begehren-Manifestation + 4. Eintrag:** Alphina kommt für ein Heilkräuter-Plakat (Halvard-Auftrag) und einen Anomalien-Sichtungs-Abgleich. Bei der Umarmung zur Begrüßung spürt Alphina Runas Körperwärme — registriert es, sagt nichts. Nach Alphinas Abgang: Tagträume, Selbstberührung im Hinterzimmer. Beim Orgasmus brennt ein Stapel Papier auf dem Tisch — keine sichtbare Funke. **Erste Magie-Manifestation als Begehren-Marker.** Sie verdrängt, ordnet als vierten Eintrag in der Liste ein (neben Tohl Daverin, namenloser Magd, Setzergehilfe Joran). Sie zieht die Verbindung zum eigenen Körper nicht — Sorel-Prinzip.
 
-**K32 — Schemen-Angriff in der Druckerei (Hafengasse-Nacht):** Drei Schemen brechen in die Druckerei ein. Joran (Setzergehilfe) stirbt unter ihren Händen. Sie schlägt mit der Faust gegen das erste Wesen — Hand glüht weiß, Wesen verglimmt, eigene Haut rot, nicht verbrannt. **Eigene-Haut-immun-Erkenntnis.** Halvard fährt Joran am nächsten Morgen unter einem Tuch weg. Maren legt den Arm um Runa, sagt nichts, nimmt ihn wieder weg. **Maren wusste, was Runa war** — Runa schließt es aus Marens Verhalten. Bleilettern-Halbmond am A: erste bewusste, kontrollierte Magie. Liste hat jetzt vier Brandstellen + Joran. Augenbraue-Wunde (Halvard hat Leinen darübergelegt).
+**K31 — Schemen-Angriff in der Druckerei (Hafengasse-Nacht):** Drei Schemen brechen in die Druckerei ein. Joran (Setzergehilfe) stirbt unter ihren Händen. Sie schlägt mit der Faust gegen das erste Wesen — Hand glüht weiß, Wesen verglimmt, eigene Haut rot, nicht verbrannt. **Eigene-Haut-immun-Erkenntnis.** Halvard fährt Joran am nächsten Morgen unter einem Tuch weg. Maren legt den Arm um Runa, sagt nichts, nimmt ihn wieder weg. **Maren wusste, was Runa war** — Runa schließt es aus Marens Verhalten. Bleilettern-Halbmond am A: erste bewusste, kontrollierte Magie. Liste hat jetzt vier Brandstellen + Joran. Augenbraue-Wunde (Halvard hat Leinen darübergelegt).
 
 **K35 (Zeitsprung) — Resonanz-Training:** Mit Alphina/Vesper/Maren/Sorel vor dem Tor. Erste kontrollierte Wärme-Steuerung. Stufe 3.
 
@@ -140,12 +140,12 @@ Volle Voice-Anker mit fünf Exemplaren aus B1-K25 + B1-K32: `buch/pov/runa-voice
 
 - **Druckerei + Druckerpresse** — zweisprachige Bund-Bulletins werden in B2 das Wahrheit-Vehikel; in B3 die Drael-Lügen-Aufdeckung.
 - **Notizbuch (rotes Leinen) + Liste** — startet B1 mit drei Einträgen, wächst durch B1/B2/B3. In B3 ist es das Werkzeug, das den Bund kippt.
-- **Bleilettern-Halbmond am A** (B1-K32) — erstes Magie-Manifest unter Kontrolle. Echo in B3-Wiederbegegnung mit Alphina (erste Berührung).
+- **Bleilettern-Halbmond am A** (B1-K31) — erstes Magie-Manifest unter Kontrolle. Echo in B3-Wiederbegegnung mit Alphina (erste Berührung).
 - **Hände warm** — Magie-Marker, Begehren-Marker (K25), Wahrheits-Marker. Alphina spürt sie K25 zum ersten Mal — sie sagt nichts.
 - **Unterarm-Wunden K38** — Brombeer-Ranken-Schnitte. B2-Sulkara-Echo: Brand-Schemen-Wunden auf dieselben Stellen.
-- **Augenbraue-Wunde K32** — Halvard hat Leinen darübergelegt. Mögliche B2-Echo wenn sie Verletzungen sammelt.
-- **Eigene Haut immun gegen eigenes Feuer** — gestestet K32, ausgebaut B2.
-- **Joran-Schuld** (K32) — Setzergehilfe stirbt unter ihrer Aufsicht. Sie hat ihn nicht beschützt. Trägt sie durch B2 als Antrieb (Bulletins müssen druckbar bleiben — sonst war Joran umsonst).
+- **Augenbraue-Wunde K31** — Halvard hat Leinen darübergelegt. Mögliche B2-Echo wenn sie Verletzungen sammelt.
+- **Eigene Haut immun gegen eigenes Feuer** — gestestet K31, ausgebaut B2.
+- **Joran-Schuld** (K31) — Setzergehilfe stirbt unter ihrer Aufsicht. Sie hat ihn nicht beschützt. Trägt sie durch B2 als Antrieb (Bulletins müssen druckbar bleiben — sonst war Joran umsonst).
 
 ---
 
@@ -161,15 +161,15 @@ Volle Voice-Anker mit fünf Exemplaren aus B1-K25 + B1-K32: `buch/pov/runa-voice
 
 **Vesper:** Kollegialer Respekt. Vesper besucht die Druckerei mit Schemen-Fragen (K15). Zeit + Feuer = Metall schmilzt sofort, gefährliche Kombi — narrative Spannung. In B3-Akt-IV: Vesper-Amputation mit Runas geglühter Klinge (sauber, Feuer-Resonanz).
 
-**Maren:** Kollegialer Respekt mit narrativer Spannung (Feuer + Wasser). **Maren wusste in K32, was Runa war** — Maren-Cross-POV-Erkenntnis am Schluss von K32. In B2 stoßen sie sich manchmal, aber Maren ist die einzige, die Runa nie unterschätzt.
+**Maren:** Kollegialer Respekt mit narrativer Spannung (Feuer + Wasser). **Maren wusste in K31, was Runa war** — Maren-Cross-POV-Erkenntnis am Schluss von K31. In B2 stoßen sie sich manchmal, aber Maren ist die einzige, die Runa nie unterschätzt.
 
 **Nyr (Paar-Ende):** In B3 direkte Verbündete. Beide sind die zwei eigenständigsten Frauen der Geschichte. Augenhöhe + Gleichberechtigung + Warmherzigkeit (Memory `project_nyr_runa_eigenstaendig.md`). Beide loyal zu Menschen, nicht zu Institutionen. Nyr fordert Gerechtigkeit ein und geht, wenn Werte verraten werden; Runa deckt auf und macht Wahrheit verfügbar. Kampf in K34 in Kessler. Werkstatt zusammen in Halvek-Mar (Feuer + Druck/Metall). Kessler als Hafenkran. Keine braucht die andere als Halt — beide stehen allein und stehen besser zusammen.
 
-**Tarn (Druckergeselle):** Lehrling/Geselle, seit zwei Jahren in der Druckerei. Du-Register. Sie unterrichtet ihn, lässt ihn machen. Nach K32 schickt sie ihn weg. In B2 läuft die Druckerei (in Halvaren) ohne ihn.
+**Tarn (Druckergeselle):** Lehrling/Geselle, seit zwei Jahren in der Druckerei. Du-Register. Sie unterrichtet ihn, lässt ihn machen. Nach K31 schickt sie ihn weg. In B2 läuft die Druckerei (in Halvaren) ohne ihn.
 
-**Halvard:** Bürgermeister-Nachbar oder Auftraggeber-Figur. Gibt Aufträge (Heilkräuter-Plakat K25). Fährt Joran in K32 weg. Sie-Register.
+**Halvard:** Bürgermeister-Nachbar oder Auftraggeber-Figur. Gibt Aufträge (Heilkräuter-Plakat K25). Fährt Joran in K31 weg. Sie-Register.
 
-**Joran (Setzergehilfe, †K32):** Stirbt unter ihren Händen beim Schemen-Angriff. Schuld trägt sie mit.
+**Joran (Setzergehilfe, †K31):** Stirbt unter ihren Händen beim Schemen-Angriff. Schuld trägt sie mit.
 
 **Edric (Werft-Eigner) + Sievert (Bäcker):** Geschäftliche Nachbarn, Sie-Register. (Sie/Du-Status volltändig: Schreibblatt §10.)
 

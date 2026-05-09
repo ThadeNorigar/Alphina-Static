@@ -2,7 +2,7 @@
 
 **Pflicht-Lade-Datei für /ausarbeitung wenn Runa POV ist.** Komplementär zu `pov/runa.md`.
 
-**Status:** Erste Befüllung 2026-05-03 vor B1-K32-Ausarbeitung. Update 2026-05-03 nach Block 1: Runa ist Druckerin **UND Journalistin** — sie hat seit Frühjahr (5 Monate) bewusst recherchiert, was die Vier vorhaben. Die Flugblatt-Serie *„Die Geister von Vael"* (Glutmond/Erntemond/Herbstmond) war Recherche-Output, nicht Auftragsdruck. Sie hat alle Fakten zur Trainings-Aktivität der Vier zusammen — bis auf die eine Erkenntnis, dass sie selbst dazugehört.
+**Status:** Erste Befüllung 2026-05-03 vor B1-K31-Ausarbeitung. Update 2026-05-03 nach Block 1: Runa ist Druckerin **UND Journalistin** — sie hat seit Frühjahr (5 Monate) bewusst recherchiert, was die Vier vorhaben. Die Flugblatt-Serie *„Die Geister von Vael"* (Glutmond/Erntemond/Herbstmond) war Recherche-Output, nicht Auftragsdruck. Sie hat alle Fakten zur Trainings-Aktivität der Vier zusammen — bis auf die eine Erkenntnis, dass sie selbst dazugehört.
 
 ---
 
@@ -14,7 +14,7 @@ Drei-Schritt-Schema bei jedem Magie-Akt:
 2. **QUELLE:** Ihre eigene Körperwärme — die, die ohnehin in den Händen wohnt und nur jetzt höher gestellt wird. Bei Entzünden zusätzlich erforderlich: vorhandener Brennstoff + Sauerstoff im Material (Docht-Faser mit Talg, Papier-Faser, Stoff-Faser).
 3. **FOLGE:** Das berührte Material reagiert nach Stoff-Eigenschaft — Blei verformt sich unter Druck, Wachs schmilzt, Talg fängt am Docht, Wasser bleibt warm. Hitze ohne Berührung gibt es nicht. Flamme aus Nichts gibt es nicht.
 
-### Beispiele aus Canon (B1-K32)
+### Beispiele aus Canon (B1-K31)
 
 - **Bleilettern weich:** BILD: Wärme an Daumen-Kuppe und Zeigefinger. QUELLE: Hand am Block. FOLGE: Block weich genug, dass Daumen-Spitze einen Halbmond-Abdruck hinterlässt — nicht heiss genug zum Schmelzen.
 - **Docht entzünden:** BILD: Wärme an Fingerkuppe direkt am Talg. QUELLE: Hand am Docht, Talg + Luft als Brennstoff. FOLGE: Docht fängt Feuer, Hand zieht zurück, eigene Haut unversehrt (Canon: eigene Haut immun gegen eigenes Feuer).
@@ -49,16 +49,16 @@ Drei-Schritt-Schema bei jedem Magie-Akt:
 - **Kein bewusster Schutz anderer Personen** vor Hitze/Feuer — sie kann sich selbst nicht beherrschen, ohne dass Maren sie führt (kommt erst in B2).
 - **Keine kontrollierte Flamme als Werkzeug.** Sie zündet etwas an oder hält warm — keine geformte Flamme, keine Stichflammen.
 
-**B1-K32-Stand:** Sie lernt im Lauf des Nachmittags ansatzweise zu kontrollieren (Becher kühler halten als Hand). Mehr Steuerung muss sie noch lernen — wenn sie irgendwo lernen kann.
+**B1-K31-Stand:** Sie lernt im Lauf des Nachmittags ansatzweise zu kontrollieren (Becher kühler halten als Hand). Mehr Steuerung muss sie noch lernen — wenn sie irgendwo lernen kann.
 
 ---
 
 ## 4. Adult-Heat-Stellen-Liste
 
-**B1: keine Heat-Szenen mit Runa.** K32 ist Charakter-Kapitel, eine Hand-auf-Hand-Geste mit Alphina ist die einzige körperliche Nähe (funktional, nicht romantisch).
+**B1: keine Heat-Szenen mit Runa.** K31 ist Charakter-Kapitel, eine Hand-auf-Hand-Geste mit Alphina ist die einzige körperliche Nähe (funktional, nicht romantisch).
 
 **Canon-Anker für Rückblick (nicht Heat-Szene, nur Erwähnung):**
-- **K25-Vorfall:** Bei einem privaten Treffen mit Alphina hat Papier auf Runas Tisch gebrannt — sie hat es weggedrückt und nicht eingeordnet. (Memory + Dossier-Canon: *„Papier brennt bei Runas Orgasmus, sie verdrängt"*.) In K32-Sz2 von Alphina indirekt benannt, ohne Sex-Detail.
+- **K25-Vorfall:** Bei einem privaten Treffen mit Alphina hat Papier auf Runas Tisch gebrannt — sie hat es weggedrückt und nicht eingeordnet. (Memory + Dossier-Canon: *„Papier brennt bei Runas Orgasmus, sie verdrängt"*.) In K31-Sz2 von Alphina indirekt benannt, ohne Sex-Detail.
 
 **B2/B3:** Alphina+Runa als FWB (B2 Akt II, K17 aus Runas POV), hitzig, ohne Vertrauensband. Später Nyr als Paar-Ende (B3). Kein Strang in B1.
 
@@ -76,7 +76,7 @@ Drei-Schritt-Schema bei jedem Magie-Akt:
 
 ## 6. Runa-Material-Register
 
-**Druckerei (Werkstatt-Vorderraum, K32-Sz1+Sz2+Sz3):**
+**Druckerei (Werkstatt-Vorderraum, K31-Sz1+Sz2+Sz3):**
 - *Setzkasten, Bleilettern, Letter, Fach, Hocker, Werkbank, Tischplatte (Eichenholz), Tintenfass, Tinte (harzig), Schwärze, Ballen (Auftragsballen), Pressenholz (Buchenholz), Eisenhebel, Lampenöl, Talgkerze, Docht, Schreibtisch, Schublade, Schlüssel, Dielen, Putz, Russ, Trockenraum.*
 
 **Journalistin-Material (NEU):**
@@ -115,7 +115,7 @@ Aus `01-autorin-stimme.md` §6.5: *warm, weich, gleichmäßig, dicht (gewoben), 
 
 ## 9. Runa-Hook-Beispiele
 
-**Für K32:**
+**Für K31:**
 > *„Runa wollte den Setzkasten ordnen. Ihre Hand blieb in der Luft, einen Daumen über den Lettern."*
 
 — Wollen + körperlicher Stillstand, der einen Grund hat. Kein Aphorismus, keine Atmosphäre-Eröffnung.
@@ -134,7 +134,7 @@ Aus `01-autorin-stimme.md` §6.5: *warm, weich, gleichmäßig, dicht (gewoben), 
 
 | Figur | Sie/Du | Status |
 |-------|--------|--------|
-| **Alphina** | **Du** | Etabliert seit K05/K15. Vertraut. Auch in K32-Dialog durchgehend. |
+| **Alphina** | **Du** | Etabliert seit K05/K15. Vertraut. Auch in K31-Dialog durchgehend. |
 | **Maren** | **Du** | Etabliert in K15 (Druckerei-Besuch). |
 | **Vesper** | **Du** | Etabliert in K05/K15 (Vesper besucht Druckerei mit Schemen-Fragen). |
 | **Sorel** | **Du** | Etabliert seit K05 (Hafengasse-Bezug, kennen sich aus Vael). |

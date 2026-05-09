@@ -4,7 +4,7 @@ Kuratierte Passagen zur Voice-Anchoring im /ausarbeitung-Schreib-Subagent. Treff
 
 Komplementär zu `pov/runa-schreibblatt.md` (schreib-aktive Bausteine, Magie-Mechanik, Anti-Patterns) und `pov/runa.md` (Wissensstand, Beziehungen, Tschechow-Waffen).
 
-**Stand 2026-05-04:** Erste Befüllung. Quellen sind B1-K25-runa.md (final, Multi-POV mit Runa-Sz2) und B1-K32-runa.md Sz1 (heute abgenommen). Beide Quellen wurden heute durch **Antislop-Layer-1** und **Council-Stimmen (LINA/NORA/MEIKE/KAYA)** geprüft; identifizierte Schwächen wurden in den Originalen UND in den Exemplars eingearbeitet. Was hier steht, ist die geprüfte Substanz.
+**Stand 2026-05-04:** Erste Befüllung. Quellen sind B1-K25-runa.md (final, Multi-POV mit Runa-Sz2) und B1-K31-runa.md Sz1 (heute abgenommen). Beide Quellen wurden heute durch **Antislop-Layer-1** und **Council-Stimmen (LINA/NORA/MEIKE/KAYA)** geprüft; identifizierte Schwächen wurden in den Originalen UND in den Exemplars eingearbeitet. Was hier steht, ist die geprüfte Substanz.
 
 ---
 
@@ -52,7 +52,7 @@ Komplementär zu `pov/runa-schreibblatt.md` (schreib-aktive Bausteine, Magie-Mec
 
 ## Exemplar 3 — Brandstellen-Inventar nach dem Angriff (Funktion: Klarsicht-Inventar / Vermeidungs-Schwelle)
 
-**Quelle:** B1-K32-runa.md, Z.5-13 (Council: MEIKE — JA, nach Fix)
+**Quelle:** B1-K31-runa.md, Z.5-13 (Council: MEIKE — JA, nach Fix)
 **Kontext (1 Satz):** Halvard hat Joran abgeholt; Runa hat die Vier weggeschickt und betrachtet zum ersten Mal die vier Brandstellen vom letzten Nacht-Angriff in der Druckerei.
 
 **Passage:**
@@ -76,7 +76,7 @@ Komplementär zu `pov/runa-schreibblatt.md` (schreib-aktive Bausteine, Magie-Mec
 
 ## Exemplar 4 — Erinnerung im Präsens / Faust gegen Wesen (Funktion: Action / Magie-Manifest aktiv)
 
-**Quelle:** B1-K32-runa.md, Z.25-29 (Council: KAYA — JA, nach Fix)
+**Quelle:** B1-K31-runa.md, Z.25-29 (Council: KAYA — JA, nach Fix)
 **Kontext (1 Satz):** Runa sitzt am Hocker am Brandfleck und kippt in die Erinnerung; das Präsens markiert das Eintauchen — sie schlägt mit der Faust gegen das erste Wesen, ihre Hand wird sofort heiß, und nach dem Verglimmen kribbeln ihre Knöchel als Trauma-Spur.
 
 **Passage:**
@@ -98,7 +98,7 @@ Komplementär zu `pov/runa-schreibblatt.md` (schreib-aktive Bausteine, Magie-Mec
 
 ## Exemplar 5 — Bleilettern-Halbmond + Maren-Cross-POV-Erkenntnis (Funktion: ruhige Selbst-Bestätigung / Schluss-Beat)
 
-**Quelle:** B1-K32-runa.md, Z.81-87 (Council: LINA — JA, nach Fix)
+**Quelle:** B1-K31-runa.md, Z.81-87 (Council: LINA — JA, nach Fix)
 **Kontext (1 Satz):** Nach der Erinnerung im Präsens kehrt Runa ins Jetzt zurück; sie testet ihre Hand am Bleilettern-Block, der Halbmond bleibt im A — Bestätigung des Wissens, das sie schon hat.
 
 **Passage:**
