@@ -1,11 +1,11 @@
 # B1-K37 — Runa — Entwurf
 
 **POV:** Runa Kvist (3. Person nah, Praeteritum)
-**Timeline:** 2./3. Dunkelmond 551 TZ. Beginn: Druckerei am Tag des 2. Dunkelmond (nach schlafloser Nacht — K34-Sz3c). Aufbruch zum Garten in der Stunde vor Sonnenuntergang (Vespers Treffzeit aus K34-v5-Sz3c-Belauschen). Garten Vael erreicht über die Sattlerstrasse-Muendung, **vor Alphina+Sorel** am West-Rand-Zaunspalt, Lindengebuesch. Wartephase am Lindengebuesch durch den Abend und die Nacht (Treffen aller Vier → Aufstellung). Aktivierungs-Fenster 4:33 nach Mitternacht (3. Dunkelmond). Tor-Sprung als Letzte. Moragh-Ankunft MZ 0. **Direkter Anschluss an K34-Sz3c** (Runa hat gestern Nacht im Hafengasse-Treppenhaus die Vier belauscht, weiss Wann/Wo/Wer, hat seit dem Aufwachen Tarnung bereitgelegt, nicht geschlafen). **Direkter Anschluss an K36** (sie sieht Alphina+Sorel ab K36-Sz1 im Steinkreis aus den Linden, sieht V+M am Hauptweg ankommen — alles aus Lauer-Position).
-**Wortziel Ausarbeitung:** 4.000–4.500 W (Aktplan-Vorgabe 4.500)
-**Gaensehaut-Moment (Plot-Schnitt 2026-05-09):** Runas Sprung durch den flackernden Riss in dem Moment, in dem die Wunde sich zu schliessen beginnt — sie spurtet, springt, kommt durch. Auf der anderen Seite: das Tableau (Vier fixiert, Varen Hand an Alphinas Kinn, mehrere Schemen im Schatten). Varens Ueberraschung — mit ihr hat er absolut nicht gerechnet. Runa rennt umgehend auf ihn los, Varen fokussiert auf sie, die Vier loesen sich, Sorel greift sofort ein und stuerzt sich auf Varen. **Cliffhanger-Bild:** Sorel im Sprung, beide Haende am Mantel-Aufschlag, Klauen aller Wesen heben sich. Was als naechstes kommt — Schemen-Reaktion, Tod, Schrei, Resonanz-Ausbruch — gehoert K38 (Alphina-POV).
+**Timeline:** 2./3. Dunkelmond 551 TZ. Beginn: Druckerei am Tag des 2. Dunkelmond (nach schlafloser Nacht — K34-Sz3c). Aufbruch zum Garten in der Stunde vor Sonnenuntergang (Vespers Treffzeit aus K34-Sz3c-Belauschen). Garten Vael erreicht über die Sattlerstrasse-Muendung, **vor Alphina+Sorel** am West-Rand-Zaunspalt, Lindengebuesch. Vier kommen, Aufstellung, Riss oeffnet sich, vier gehen durch. Runa wartet ca. eine Minute, Riss flackert, sie spurtet los, springt im letzten Moment durch. Moragh-Ankunft. Tableau, sie rennt auf Varen los, Sorel greift ein. Cliffhanger-Bild: Sorel im Sprung. Wortziel-Spanne unten ergibt sich aus der Schnitt-Verteilung K37/K38.
+**Wortziel Ausarbeitung:** 3.500–4.200 W (Plot-Schnitt 2026-05-09 hat Tod-Sequenz nach K38 verlagert; K37 endet mit Sprung-Cliffhanger statt Tod-Beat-Erstreckung)
+**Gaensehaut-Moment:** Runas Sprung durch den flackernden Riss — sie sieht die Wunde sich zu schliessen beginnen, erkennt jetzt-oder-nie, spurtet, springt. Auf der anderen Seite: das Tableau aus drei Schritt Distanz, mehrere Schemen im Schatten. Varens Ueberraschung — mit ihr hat er absolut nicht gerechnet. Sie rennt umgehend auf ihn los, fokussiert ihn, die Vier loesen sich, Sorel greift sofort ein. **Cliffhanger-Bild:** Sorel im Sprung auf Varen, beide Haende am Mantel-Aufschlag, Klauen aller Wesen heben sich. Schemen-Reaktion + Tod + Schrei + Resonanz-Ausbruch alles **K38** (Alphina-POV nach ihrem Riss-Durchgang).
 
-**Plot-Schnitt zwischen K37 und K38 (Autor-Direktive 2026-05-09):** K37 endet mit dem Sorel-Sprung-Bild. K38 beginnt mit Alphinas POV nachdem sie als Letzte durch den Riss ist — also K38 deckt die ganze Sequenz Ankunft → Studium-Tableau Varen → Drei-Resonanzen-Wirkung → Runa-Eintritt → Sorel-Sprung (Cross-POV mit K37-Cliffhanger) → Schemen-Reaktion → Sorels Tod → Licht-Sequenz → Alphinas Schrei + Resonanz-Ausbruch + Beruhigung ab. Aktplan `05-akt4.md` K37+K38 entsprechend angepasst.
+**Plot-Schnitt K37/K38 (Autor-Direktive 2026-05-09):** K37 endet mit dem Sorel-Sprung-Bild. K38 beginnt mit Alphinas POV nachdem sie als Letzte durch den Riss ist und deckt: Ankunft → Studium-Tableau Varen → Drei-Resonanzen-Wirkung → Runa-Eintritt (Cross-POV mit K37-Cliffhanger) → Sorel-Sprung → Schemen-Reaktion → Sorels Tod → Licht-Sequenz → Alphinas Schrei + Resonanz-Ausbruch + Beruhigung. Aktplan `05-akt4.md` K37+K38 synchron.
 
 **Ton-Referenz-Leseproben (fuer /ausarbeitung):**
 - `buch/leseproben/29-portal-oeffnung-ritual.md` — Ton-Referenz fuer Sz2 (Aufstellung am Stein, vier Resonanzen koppeln, Schwelle ohne Rahmen, andere Welt zeigt sich, Runas Sprung). Probe ist Alphina-POV, in K37 aus Runa-POV gespiegelt: was Alphina im Kreis spuert, sieht Runa von aussen aus den Linden — andere Wahrnehmung, gleiches Ereignis. Magie-Peak ohne Liturgie-Reflex.
@@ -294,20 +294,59 @@ X / Y aus dem Skript `scripts/kapitel-kontext.py B1-K37 --phase ausarbeitung` zi
 
 ---
 
-## Offene Punkte fuer Autor-Entscheidung
+## Erledigte Klaerungen (Autor-Direktiven 2026-05-07 bis 2026-05-09)
 
-1. **Aktplan-Refactor-Status (Autor-Klaerung 2026-05-07 ausstehend):** Aktplan `05-akt4.md` Kap. 37/38 sind Plot-pre-2026-05-06 — Sorel lebt durch K37 in der Aktplan-Version, status.json hat den Tod in K37 verschoben. Plus: Aktplan-K37-Halbsatz „Eine fuenfte Gestalt stolpert durch... Atemlos. *„Ich konnte nicht—"*" widerspricht der Schweige-POV-Disziplin (Runa schweigt durchgehend). Plus: Tohl/Halvard-Tableau gehoert in K40-Epilog. **Frage:** Aktplan-Refactor jetzt als Sub-Commit, oder erst nach K37-final?
-2. **Sorel-Tod (Frage 1, Autor-Klaerung 2026-05-07):** sofortiger Tod, keine Sakrament-Geste. Leseprobe 28 (Sorel-Tod-Moment, Score-18) ist outdated und muss aktualisiert werden — sie zeigt zwei Atemzuege nach dem Schlag und Varen-Augenlider-Beat. Memory-konform ist instant-Tod (mein Entwurf). **Folgefrage:** soll Leseprobe 28 als „outdated, ueberholt durch K37-instant-Tod" markiert werden? Oder neu geschrieben?
-3. **Bindungsmagie vs. Velmar-Halsband:** In K37 Hand-an-Kinn-Live-Druckmagie, kein Halsband. Velmar-Halsband-Erstkontakt ist B2-K27 (Memory `project_b2_k01-k27_canon.md` + `project_magie_daempfung_lederhalsband.md`). Mein Entwurf folgt das. Pflicht-Pruefung in /ausarbeitung: kein Halsband-Detail in der Prosa.
-4. **Frost im Knochen (K30-Tschechow):** bleibt in K37 unsichtbar (Runa weiss nichts davon). Memory `project_drei_resonanzen_kopplung_k30.md` sagt: K38 Sorel-Tod — Eis war Vorwarnung. Das ist K38-Reflexions-Beat (Alphina/Vesper aus null Distanz), nicht K37-Beat (Runa aus drei Schritt). Default: bewusst-nicht-eingeloest in K37, eingeloest in K38.
-5. **Heat-Echo-Pflanzen aussen am Garten in Sz2:** bereits gewachsen aus K36, kein aktives Wachsen jetzt — Runa sieht das Statische (Memory `feedback_keine_spukgeschichte.md`-konform).
-6. **Wundgeometrie K38-Aktplan-Abgleich erledigt** — rechte Schulter zu linker Hueftknochen, von oben nach diagonal.
-7. **Druck-Maerker-Verortung (NEU v3):** mein Entwurf verortet sie in Sz2 (zwischen Linden und Tor — einer in den Kies, einer im Lindengebuesch zurueck). Setup K40-Voss-Recherche. Falls Autor andere Verortung will (z.B. erst in K38-Moragh-Boden-Markierung), anpassbar.
-8. **Joran-Mantel-Detail:** Sz1 (Tarnung) + Sz3 (Innenfutter am Handgelenk als stilles Echo). Sub-Text-Disziplin pflicht — kein Joran-Wort in Sz3-Prosa, nur Stoff am Handgelenk. Falls Autor anderen Mantel-Beat will (z.B. Verbrennung in K38), umsteuerbar.
+1. **Aktplan-Refactor erledigt 2026-05-07 + 2026-05-09** — `05-akt4.md` K37+K38 synchron mit aktuellem Plot-Schnitt.
+2. **Sorel-Tod sofort + Leseprobe 28 v4 neu geschrieben 2026-05-08** — instant-Tod-Mechanik (rechte Schulter zu linker Hueftknochen, kein letzter Atem, Licht aus Wunde, Gesicht auf hellen Flaechen). Leseprobe 28 ist Aktplan-K38-konform.
+3. **Drei-Resonanzen-Wirkung statt Bindungsmagie 2026-05-09** — Druck/Zeit/Energie, Zeit groesste Komponente. Niemand der Vier weiss das, Runa auch nicht. Velmar-Halsband bleibt B2-Variante.
+4. **Werkzeug-Canon 2026-05-07** — Werkzeuge funktionieren in Moragh physikalisch (Hammer am Werkzeug-Guertel, kein Canon-Konflikt).
+5. **„Quelle"-Begriffs-Schranke 2026-05-08** — niemand in Thalassien benennt das Steinkreis-Phaenomen so; Vesper sagt „Mittelpunkt"/„Takt"/„Schwingung". Memory `feedback_quelle_kein_phaenomen_begriff.md`.
+6. **Riss-Mechanik (I3-konform) 2026-05-09** — Wunde in der Luft, instabil, drei Schritt ueber dem Boden, dahinter andere Welt. Keine „Schwelle".
+7. **Sprung-Sequenz mit Flackern 2026-05-09** — Runa wartet ca. eine Minute, zoegert, sammelt Mut, sieht Riss flackern, erkennt jetzt-oder-nie, spurtet, springt.
+8. **Plot-Schnitt K37/K38 2026-05-09** — K37 endet mit Sorel-Sprung-Bild. Schemen-Reaktion + Tod + Schrei + Resonanz-Ausbruch alles K38 (Alphina-POV nach Riss-Durchgang).
+9. **Mehr Wesen 2026-05-09** — pferdgrosses Schutzschemen + 2-3 kniehohe vierbeinige Wesen.
+10. **Antagonist-Ueberraschung 2026-05-09** — Mann ist ueberrascht (mit Runa hat er absolut nicht gerechnet), nicht „rechnet sie ein".
+11. **Runa Aktiv-Komponente 2026-05-09** — sie rennt umgehend auf Varen los, fokussiert ihn, befreit damit die Vier.
+12. **Joran-Mantel Sz3-Detail gestrichen 2026-05-09** — Mantel bleibt Sz1-Tarnung, in Sz3 nicht weiter benannt.
+13. **Hammer am Werkzeug-Guertel 2026-05-09** — Maren behaelt ihn fuer Moragh, nicht in Kies abgelegt.
+14. **„Erste Mal seit Wochen"-Beat raus 2026-05-09** — Runa hat regelmaessigen Druckerei-Kontakt mit den Vier (K05/K15/K25).
+15. **Frost im Knochen** bleibt in K37 unsichtbar; K38-Reflexions-Beat (Alphina/Vesper) — Memory `project_drei_resonanzen_kopplung_k30.md`.
+16. **Heat-Echo-Pflanzen aus K36** — bereits gewachsen, kein aktives Wachsen, Memory-konform.
+17. **Druck-Maerker-Verortung** — Sz2 (einer in Kies am Sockel, einer im Lindengebuesch); Setup K40-Voss-Recherche.
 
 ---
 
-*Ende Entwurf B1-K37 v3.*
+*Ende Entwurf B1-K37 v4.*
+
+**Changelog v3 → v4 (2026-05-08 + 2026-05-09):**
+
+Substantielle Plot-Updates ueber zwei Tage durch mehrere Autor-Direktiven:
+
+**2026-05-08 (Quelle-Refactor + Werkzeug-Canon):**
+- „Quelle" als Phaenomen-Begriff aus K37 entfernt (Sz1+Sz2+Tschechow+Kontinuitaet) — niemand in Thalassien kennt das Phaenomen so. Memory `feedback_quelle_kein_phaenomen_begriff.md`. Vesper sagt „Mittelpunkt"/„Takt"/„Schwingung"; Runa uebernimmt nichts. Sprach-Distanz traegt durch Nicht-Uebernehmen.
+- Werkzeuge funktionieren in Moragh physikalisch (Marens Hammer kein Canon-Konflikt). Memory `project_moragh_werkzeuge_funktionieren.md` + Canon-Kompakt-Klarstellung.
+- Aktplan 05-akt4.md K37 + K38 „Quelle"-Refactor.
+- Leseprobe 28 v4 — instant-Tod-Mechanik, Aktplan-K38-konform.
+
+**2026-05-09 (Plot-Schnitt + neun Direktiven):**
+- „Erste Mal seit Wochen aus der Naehe"-Beat raus (Runa hat regelmaessigen Druckerei-Kontakt).
+- Hammer am Werkzeug-Guertel (Sz2) statt im Kies abgelegt — Maren behaelt ihn fuer Moragh.
+- Riss-Mechanik (Sz2): „Schwelle, glatt, in der Luft" → I3-konform „die Luft reisst auf, Wunde, instabil, dahinter andere Erde". Keine Pendel-Uhr-Anzeige aus Runa-POV.
+- Quellenfrequenz statt Takt als Plot-Hintergrund-Begriff.
+- Sprung-Sequenz neu: Runa wartet ca. eine Minute, zoegert, sammelt Mut, sieht den Riss flackern, erkennt jetzt-oder-nie, spurtet los.
+- „Seit Stunden in den Linden" raus — sie kommt nur kurz vor den anderen am Garten an.
+- Drei-Resonanzen-Wirkung (Druck + Zeit + Energie, Zeit groesste Komponente) statt „Bindungsmagie" als Sammelbegriff. Niemand der Vier weiss das, Runa auch nicht.
+- Mehr Wesen: pferdgrosses Schutzschemen + 2-3 kniehohe vierbeinige Wesen (K30-Hafenangriff-Bauart) im Schatten.
+- Antagonist-Ueberraschung: Mann ist ueberrascht (mit Runa hat er absolut nicht gerechnet), kein „rechnet sie ein".
+- Runa als Aktiv-Komponente: sie rennt umgehend auf Varen los, fokussiert ihn auf sich, die Vier loesen sich.
+- Sz3-Joran-Mantel-Detail (Innenfutter am Handgelenk) gestrichen — Mantel bleibt operativ in Sz1, in Sz3 nicht weiter benannt.
+- **Plot-Schnitt:** K37 endet mit Sorel-Sprung-Bild auf Varen. Schemen-Reaktion + Klauen-Schlag + Tod + Licht-Sequenz + Schrei + Resonanz-Ausbruch alles K38 (Alphina-POV nach ihrem Sprung durch den Riss).
+- Wortziel auf 3.500–4.200 W angepasst (Tod-Sequenz nach K38 verlagert).
+- status.json K37 + K38 Plot-Skelett angepasst.
+- Aktplan 05-akt4.md K37 + K38 komplett refactored (Sz1 + Sz2 + Sz3 + Header).
+- Tschechow-Block umsortiert: Tod-Beats (Tod, Licht aus Wunde, Gesicht auf hellen Flaechen) gehoeren K38, nicht K37.
+
+**Changelog v2 → v3 (2026-05-07):**
 
 **Changelog v2 → v3 (2026-05-07):**
 
