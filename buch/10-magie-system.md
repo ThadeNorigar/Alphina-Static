@@ -664,7 +664,17 @@ Der Schemen zahlt den Preis seiner eigenen Zauber aus seinem eigenen Magie-Vorra
 
 **Gebundene Schemen** (dauerhaft) regenerieren und bleiben, bis der Beschwörer sie freilässt oder stirbt. Varens Schemen in Vael sind **alle gebunden**: Alphinas Beobachter, die Steinkreis-Wächter, der Nachtholm-Mimikry-Schemen, die Fußnoten-Platzierer.
 
-**Ausnahme — ungebundene Freigelassene.** Wenn ein Beschwörer stirbt, während ein nicht-gebundener Schemen noch in Thalassien aktiv ist, wird der Schemen **frei**. In Vael genau ein Fall: der **Boots-Schemen in Marens Werft**.
+### Bindungsrunen
+
+Jede aktive Bindung manifestiert sich auf dem Körper des Schemen als **leuchtende Runen** — feine Glyphen aus konzentrierter Bindungsenergie, **dauerhaft sichtbar** an klaren Körperstellen (Stirn, Schultern, Handrücken, Brust, Nacken), je nach Velmar-Schule unterschiedliche Glyphen-Sätze. Farbe folgt dem Element-/Magie-Profil des Binders: Varens Runen schimmern **violett** (Bindung + Druck/Gravitation), Velmar-Hausbindungen oft kupfern (Bund-Verstoßene) oder kalkweiß (alte Mar-Keth-Linie).
+
+Die Runen liegen **unter der Energie-Emission** („Rauch") an der eigentlichen Körperoberfläche und scheinen stetig durch — der Rauch verdeckt sie nicht, höchstens trübt er sie. Distanz dämpft die Helligkeit, aber nicht die Sichtbarkeit selbst.
+
+**Verblassen mit dem Bindungs-Zustand:** Solange der Binder lebt und die Bindung trägt, leuchten die Runen konstant. Schwächt sich die Bindung (Reservoir-Druck beim Binder, große Distanz, eigene Auflösungs-Tendenz, Portal zwischen Binder und Schemen), werden sie matter. Stirbt der Binder, fadet die Bindung über **Wochen bis Monate** aus — die Runen verblassen entsprechend, bis sie nur noch als feine narbige Linien zu erkennen sind. Erst wenn die letzte Spur weg ist, ist die Bindung mechanisch endgültig gelöst.
+
+**Ausnahme — ungebundene Freigelassene.** Wenn ein Beschwörer stirbt, während ein nicht-gebundener Schemen noch in Thalassien aktiv ist, wird der Schemen sofort **frei** (keine Runen, weil von Anfang an keine Bindung). Bei vorher gebundenen Schemen geschieht die Freisetzung dagegen **graduell** über das Verblassen der Runen.
+
+**Boots-Schemen in Marens Werft (Sonderfall):** Von **Haron Dahl** vor seinem Tod gebunden — Haron war der einzige aktive Beschwörer Thalassiens dieser Generation und hat den Schemen über Jahre als Werft-Helfer gebunden gehalten. Seit Harons Tod (vor Marens Ankunft in Vael) fadet die Bindung aus. Heute (Herbst/Winter 551 TZ) sind Harons Runen auf den breiten Schultern, dem Nacken und den Handrücken des Schemen nur noch als **fast verblasste, dunkel-violette Spuren** sichtbar — kein Leuchten mehr, eher schattige Linien wie alte Tinte unter der Haut. Praktisch ist die Bindung damit gelöst: der Schemen folgt keinen Befehlen mehr, arbeitet aus eigener Neugier am Boot weiter, wie er es zu Harons Zeit gewohnt war (Aufgabe-als-Routine-Beat). Reservoir-Frage: dass er Jahre nach Harons Tod nicht aufgelöst ist, hängt vermutlich mit der Vael-Quellen-Resonanz im Werft-Umland zusammen — minimaler Nachladestrom durch die brüchige Welten-Grenze (siehe „Wilde Schemen aus der Zwischenwelt" weiter unten).
 
 ### Reservoir und Befehlstreue
 
@@ -718,7 +728,32 @@ Jeder lebende Beschwörer ist mit seinen Schemen **mental verbunden**. Grobe Ahn
 
 **Portal geschlossen → Bindung erlischt praktisch.** Ein Schemen, der in der fremden Welt aktiv ist, während der Riss zu ist, kann vom Beschwörer nicht mehr aktiv gelenkt oder gekappt werden. Er erschöpft sich nach wenigen Stunden von selbst und verblasst. Das gilt für Varens Feuer-Schemen in I3: Nach dem Portal-Durchgang (Elke rüber, Riss zu) zog das Wesen noch durch Vaels Oberstadt, legte Feuer — bis es aus eigener Kraft verblasste, ohne dass Varen es „gekappt" hätte.
 
-Boots-Schemen in Marens Werft: **keine Bindung mehr**. Einziger Schemen in Thalassien ohne lebenden Beschwörer.
+Boots-Schemen in Marens Werft: einziger Schemen in Thalassien ohne lebenden Beschwörer (Haron Dahl tot). Bindung praktisch gelöst, Runen fast verblasst — Detail-Mechanik siehe Abschnitt „Bindungsrunen / Boots-Schemen-Sonderfall" oben.
+
+### Wilde Schemen aus der Zwischenwelt (Vael-Sonderfall)
+
+Seit der Flüchtlings-Übersiedlung vor ~200 MZ-Jahren ist das Wurmloch zwischen Vael und Moragh **brüchig**: das ursprüngliche Reißen der Raumzeit hat die Welten-Grenze hier dauerhaft dünn gelassen. Varens fortgesetzte Bindungs- und Portal-Praxis (MZ −3 bis −1) destabilisiert sie weiter — jede Bindung, jede Portalöffnung erzeugt zusätzliche Mikro-Risse im Vael-Umfeld.
+
+**Folge:** durch diese Mikro-Risse können **wilde, ungebundene Schemen** aus einer **Zwischenwelt** zwischen Thalassien und Moragh hindurchsickern — eine Wesens-Ebene, deren Geographie weder Thalassier noch Moragher kennen (auch Varen nicht). Sie haben keinen Beschwörer, tragen **keine Bindungsrunen** (waren nie gebunden), und sie öffnen ihre eigenen kleinen Risse beim Hindurchtreten. Das An- und Abreisen ist eigenständig — niemand ruft sie, niemand kappt sie.
+
+**Verhalten:**
+- Grundton **freundlich-neugierig.** Sie kommen aus Interesse, nicht aus Auftrag — die Schemen-Grundemotion (Neugier) trägt unverstellt durch, weil keine Befehls-Negation darüberliegt.
+- **Keine Aggression**, solange sie nicht angegriffen werden. Der Aggressions-Saldo (siehe oben) gilt nur für gebundene Schemen mit ausgeführten Befehlen — wilde Schemen haben keinen Saldo.
+- **Räumlich auf Vael und engstes Umland begrenzt.** Die Brüchigkeit reicht etwa bis zur Stadtmauer und zum Werft-/Garten-Umfeld; jenseits davon wird die Welten-Grenze wieder dicht, und die Mikro-Risse können sich nicht öffnen.
+- **Manifestieren und verschwinden eigenständig.** Erscheinen für Stunden bis Tage, treten dann zurück durch ihren eigenen Mikro-Riss. In Quellen-Nähe (Steinkreis, Botanischer Garten) sammeln sie sich, wenn die Quelle pulsiert oder ein Ritual bevorsteht — die Quellen-Resonanz zieht sie an wie Licht Motten.
+
+**Heilung der Brüchigkeit:** Solange Varen weiter bindet und Portale öffnet, entstehen neue Mikro-Risse. **Sobald Varens Praxis endet** (B2-Ende, nach seiner Vertreibung), beginnt die Zwischenwelt-Grenze langsam zu heilen — über **Monate bis Jahre** schließen sich die bestehenden Mikro-Risse, und keine neuen kommen nach. Die wilden Schemen verschwinden entsprechend graduell aus Vael, weil ihre Eintritts-Pforten verschwinden. Vollständige Heilung: vermutlich ein Jahrzehnt oder länger.
+
+**Implikation für die Erzählung:** In Vael laufen ab MZ −3 zwei Schemen-Populationen parallel:
+
+| Population | Marker | Verhalten | Wo häufig |
+|---|---|---|---|
+| **Varens gebundene Schemen** | leuchtende violette Runen an Stirn/Schultern/Handrücken | gezielt eingesetzt für Beobachtung, Markierung, Einschüchterung; aggressiv, wenn Befehl es vorsieht (K28/K30/K38) | überall in Vael, nach Auftrag |
+| **Wilde Zwischenwelt-Schemen** | keine Runen | neugierige Beobachter, ungefährlich solange unangetastet | Quellen-Nähe (Steinkreis, Botanischer Garten), in Schwärmen vor Quellen-Pulsen |
+
+Die Figuren in Buch 1 unterscheiden die beiden Populationen **nicht aktiv** — beide sehen für sie gleich gespenstisch aus, niemand kennt die Mechanik. Erst in Moragh (B2/B3) wird die Doppelnatur expliziter, weil dort die Bindungs-Glyphen offen Teil des Velmar-Handwerks sind.
+
+**Aufmerksame Beobachter** (Sorel-Linse, Vesper-Mustererkennung) können in Vael durchaus die Differenz wahrnehmen: aggressive Wesen mit leuchtenden Marken vs. neugierige Wesen ohne Marken. Sie deuten es nicht — aber das Bild ist da, und in B2 wird es zur Erkenntnis.
 
 ### Empfindung und Psyche
 

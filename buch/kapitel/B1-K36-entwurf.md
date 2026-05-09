@@ -3,7 +3,7 @@
 **POV:** Alphina Fenne (3. Person nah, Praeteritum)
 **Timeline:** 2. Dunkelmond 551 TZ, Nacht (Stunden vor dem Ritual K37). Botanischer Garten Vael, Steinkreis. **Letzter Vael-Abend** vor dem Aufbruch. Direkt nach K35 (Maren+Vesper-Nacht in der Hafengasse). Vor K37 (Treffen aller fuenf am Steinkreis, Ritual). Alphina+Sorel kommen frueher als die anderen — letzte private Stunden vor der Gruppen-Aufstellung.
 **Wortziel Ausarbeitung:** 4.000–4.500 W (Aktplan-Vorgabe 4.500)
-**Gaensehaut-Moment:** Wenn Alphina und Sorel sich im Steinkreis kuessen, blueht der ganze Garten **ausserhalb** des Kreises auf — Farne brechen durch den Kies, Moose kriechen ueber den Boden, Wedel sprossen aus den Mauerfugen, Blueten die es im Dunkelmond nicht geben sollte. **Im Kreis selbst nichts.** Der Purpurstein bleibt warm, wartend, leer. Gleichzeitig weichen am Garten-Rand die Schemen zurueck — Dutzende, vielleicht hundert. Tiere und humanoide Gestalten, alle. Das Licht des Kreises drueckt sie weg. Sie koennen nicht bleiben. Aber sie beobachten aus der Distanz. Hunderte schwarze Augen.
+**Gaensehaut-Moment:** Wenn Alphina und Sorel sich im Steinkreis kuessen, **explodiert der Farn-Bewuchs ausserhalb** des Kreises. Wedel brechen durch den Kies, dichtes Blattwerk schiebt sich ueber den Boden, Farn-Spitzen sprossen aus den Mauerfugen — alles Sorel-Form, gruen, dicht. **Im Kreis selbst nichts.** Der Purpurstein bleibt warm, wartend, leer. Gleichzeitig **sammeln sich am Garten-Rand hunderte Schemen** — Tiere und humanoide Gestalten, alle. Sie kommen NICHT naeher; das Kreis-Licht haelt sie weg. Aber sie sind nicht aggressiv: sie beobachten neugierig, kommen aus dem Nichts und verschwinden wieder hinein, einige treten durch eigene kleine Risse, die sich hinter ihnen wieder schliessen. **Auf keinem von ihnen leuchtet eine Markierung.** Anders als die Wesen, die in K28 den Lehrling gerissen oder in K30 am Hafen angegriffen haben — diese hier tragen kein Zeichen, nichts Violettes, nichts Helles. Alphina sieht den Unterschied, ohne ihn deuten zu koennen. Hunderte schwarze Augen, ohne Lid, alle ruhig auf den Kreis gerichtet.
 
 **Ton-Referenz-Leseproben (fuer /ausarbeitung):**
 - `buch/leseproben/03-heat-alphina-sorel.md` — direkter Voice-Match: Du-Register, Heat-Echo-Manifestation (Wedel aus Mauerfugen — schon dort etabliert), commercial Romantasy-Heat ohne Pornografie. Maas/Yarros-Register.
@@ -21,9 +21,9 @@
 
 Alphina kommt frueh zum Botanischen Garten. Henriks Schluessel zum Hauptzugang in der Tasche, sie nimmt aber wie immer die Nebentuer am Gaertnerhaus (K09-Canon — sie hat den Schluessel seit Bluetenmond). Sorel ist mit ihr; sie hat ihn vorher in der Hafengasse abgeholt (sein Quartier im Lichthaus, kurzer Weg). Beide tragen Mantel, beide haben das Mitgenommene fuer das Ritual schon dabei — kein Beat im Garten, sie haben es schon vorher gepackt. Vesper, Maren, Runa kommen spaeter, in einer Stunde oder zwei. Heute Abend zum ersten Mal seit Wochen ist der Nebel duenn — Sterne sichtbar zwischen den Wolken-Resten. Alphina sieht den Himmel und merkt, dass sie sich an den Sternen festhaelt mit den Augen, weil sie das morgen nicht mehr sehen wird.
 
-Im Garten erste Wahrnehmung: Pflanzen wachsen schon vor dem Steinkreis ungewoehnlich schnell. Ein Farn am Hauptweg, der gestern noch eine Spanne hoch war, reicht ihr jetzt bis zum Knie. Knospen an einem Strauch im Dunkelmond, wo nichts bluehen sollte. Alphina registriert, ohne zu deuten — sie hat in den letzten Wochen aufgehoert, sich zu fragen, was ihre Resonanz tut, wenn sie nicht hinschaut. Heute Abend ist es starker als sonst. Sie wuerde sich erschrecken, wenn sie wuerde, dass es ihr Begehren ist (Memory `project_alphina_heat_echo_pflanzen` — Sorel = Farne). Sie schaut nicht hin.
+Im Garten erste Wahrnehmung: Farn-Wedel wachsen schon vor dem Steinkreis ungewoehnlich schnell. Ein Farn am Hauptweg, der gestern noch eine Spanne hoch war, reicht ihr jetzt bis zur Wade. Junge Farn-Triebe schieben sich aus den Mauerfugen, wo gestern Abend nichts war. Alphina registriert, ohne zu deuten — sie hat in den letzten Wochen aufgehoert, sich zu fragen, was ihre Resonanz tut, wenn sie nicht hinschaut. Heute Abend ist es starker als sonst. Sie wuerde sich erschrecken, wenn sie wuesste, dass es ihr Begehren ist (Memory `project_alphina_heat_echo_pflanzen` — Sorel = Farne strikt, kein Moos, keine Blueten). Sie schaut nicht hin.
 
-Am Garten-Rand sieht sie das erste Schemen. Es steht zwischen zwei Linden, einen Schritt von der Mauer entfernt, aber **es kommt nicht naeher**. Sie sieht es, Sorel sieht es. Beide sagen nichts. Sie gehen weiter zum Steinkreis.
+Am Garten-Rand sieht sie das erste Schemen. Es steht zwischen zwei Linden, einen Schritt von der Mauer entfernt, aber **es kommt nicht naeher**. Sub-Text-Beat: das Wesen wirkt ruhig, fast aufmerksam — keine geduckte Haltung, keine Bewegung gegen sie. Anders als das Bild, das Maren von der Nacht im Glutmond mitgebracht hatte (K28 — der Lehrling tot am Weg). Alphina deutet das nicht; sie registriert nur den Unterschied. Sie sieht es, Sorel sieht es. Beide sagen nichts. Sie gehen weiter zum Steinkreis.
 
 **Dialog-Informationen:**
 - *Setting:* 2. Dunkelmond 551 TZ, Nacht. Wann genau bleibt offen — nach Sonnenuntergang, vor dem Treffen aller fuenf. Mehrere Stunden bis zum Ritual.
@@ -66,14 +66,14 @@ Alphina sieht ihn an. Sie versteht das Echo (innerer Beat, nicht ausgesprochen):
 
 Beide kommen einander naeher. Stand im Kreis, einen Atemzug Abstand, dann kein Abstand. Alphina kuesst ihn — sie initiiert (Behauptungs-Muster greift hier nicht in Kontroll-Form, sondern in Wahl-Form: sie waehlt ihn, nicht ueber ihn). Heat-Beat: Mund auf Mund, Haende suchen sich, ohne zu greifen. Beat-Stichwort: kein voller Sex (sie sind im Garten, die anderen kommen bald, und der Beat ist Kuss + Begehren, nicht Akt).
 
-**Im selben Moment:** der ganze Garten **ausserhalb** des Kreises explodiert. Farne brechen durch Kies. Moose kriechen ueber den Boden. Wedel sprossen aus den Mauerfugen, ein Saum aus Spitzen entlang der Sims-Kanten (Echo Leseprobe 03 — dort etabliert). Bluten an Strauchern, die im Dunkelmond niemals bluten. Alles **gruen** (Memory `project_alphina_heat_echo_pflanzen`: Sorel = Farne, dichtes Blattwerk, Sorel-Form ist gruen-blattig, nicht Anti-Flora). Im Kreis selbst: weiter nichts. Stein nackt. Pulsation warm. Wartend.
+**Im selben Moment:** der Farn-Bewuchs **ausserhalb** des Kreises explodiert. Wedel brechen durch Kies, dichtes Blattwerk schiebt sich ueber den Boden, junge Spitzen sprossen aus den Mauerfugen — ein Saum aus Farn-Wedeln entlang der Sims-Kanten (Echo Leseprobe 03 — dort etabliert). Alles **gruen, alles Farn** (Memory `project_alphina_heat_echo_pflanzen`: Sorel = Farne strikt — KEINE Moose, KEINE Strauch-Blueten, KEINE Bluetenpflanzen. Sorel-Form ist gruen-blattig, dicht, kein Bluetenanteil). Im Kreis selbst: weiter nichts. Stein nackt. Pulsation warm. Wartend.
 
 Alphina sieht im Augenwinkel das Wachsen. Sie hat es seit Monaten gespuert — die Farne an der Tuerritze nach K34-Sz3b, das Wuchern um sie herum in Naehe-Momenten — aber nicht ausgesprochen, nicht zugelassen. Heute Nacht im Kreis kann sie es nicht mehr verdraengen: das ist sie. Das ist Begehren, das aus ihr leckt. Der Kuss zwingt es ins Bewusstsein, sie kann es jetzt mit Sorel teilen statt es allein zu tragen. Sub-Text: das ist eine Gabe, die sie nie gewusst hat zu haben — und die sie heute Nacht zum ersten Mal verbalisiert (intern, nicht ausgesprochen). Premature-Doubt-Schranke streng: keine Trauer, keine Vorausahnung. Nur die Erkenntnis. Sie kuesst ihn weiter.
 
 **Dialog-Informationen:**
 - *Steinkreis-Puls:* warm unter den Sohlen, naeher an Alphinas Atem als an einem Menschenherz (K12-Canon, eskaliert).
 - *Im Kreis nichts wachst:* K12-Canon bestaetigt — Pflanzen wurzeln nicht in den Kreis, das ist Welt-Geometrie.
-- *Pflanzen ausserhalb des Kreises explodieren:* Heat-Echo Modus voll aktiv (Memory `project_alphina_heat_echo_pflanzen`). Sorel = Farne, dichtes Blattwerk. Gruen, nicht Anti-Flora — Alphina ist ruhig in diesem Moment, nicht aufgewuehlt.
+- *Farne ausserhalb des Kreises explodieren:* Heat-Echo Modus voll aktiv (Memory `project_alphina_heat_echo_pflanzen`). Sorel = Farne strikt — KEINE Moose, KEINE Strauch-Blueten. Gruen, dichtes Blattwerk, nicht Anti-Flora — Alphina ist ruhig in diesem Moment, nicht aufgewuehlt.
 - *Sorels *„Darf ich?":* Echo zu frueherem („Du hast mich genommen ohne zu fragen") — der Aktplan-Beat. Plot-Inhalt: er kehrt das Verhaeltnis um. Sie hatte die Initiative, jetzt fragt er. Sie hat die Macht, nein zu sagen. Sie sagt ja durch Geste (Hand nehmen).
 - *Alphina kuesst ihn:* sie initiiert. Aktiv-Wahl-Form, nicht Kontroll-Form. Sub-Text-Beat fuer Behauptungs-Muster-Wandlung (POV-Dossier: „Behauptungsmuster greift bei Sorel nicht").
 - *Alphina-Erkenntnis:* sie hat es seit Monaten gespuert (K34-Sz3b Farn an Tuerritze etc.), aber nicht ausgesprochen, nicht zugelassen. Heute Nacht im Kreis verbalisiert sie es zum ersten Mal intern und kann es mit Sorel teilen — der Kuss zwingt es ins Bewusstsein. Nicht „erstmals begriffen", sondern „endlich nicht mehr verdraengt".
@@ -107,11 +107,15 @@ Alphina sieht im Augenwinkel das Wachsen. Sie hat es seit Monaten gespuert — d
 
 **Wortziel:** 1.000–1.200 W
 
-Alphina loest sich aus dem Kuss. Sorel laesst sie. Sie schaut ueber seine Schulter zum Garten-Rand. Was sie sieht, laesst sie still werden. **Dutzende, vielleicht hundert Schemen** stehen am Rand des Gartens. Tiere — die kniehohen vier-beinigen Wesen aus K05-Canon. Humanoide Gestalten — die hornen-stuempfigen aus K30. Alle. Sie stehen auf der anderen Seite der Garten-Mauer, einige im Eingang zum Garten, einige zwischen den Linden am Rand. **Keiner kommt naeher.** Das Licht im Steinkreis — Alphina sieht es jetzt, etwas wie ein duenner Schein um die sieben Purpursteine, der vorher nicht da war — drueckt sie weg. Sie koennen nicht hinein. Aber sie beobachten. Hunderte schwarze Augen, ohne Lid, alle auf den Kreis gerichtet.
+Alphina loest sich aus dem Kuss. Sorel laesst sie. Sie schaut ueber seine Schulter zum Garten-Rand. Was sie sieht, laesst sie still werden. **Hunderte Schemen** stehen am Rand des Gartens. Tiere — die kniehohen vier-beinigen Wesen aus K05/K28-Canon. Humanoide Gestalten — die hornen-stuempfigen aus K30. Alle Bauarten, viel mehr als Alphina je auf einmal gesehen oder gehoert hatte. Sie stehen auf der anderen Seite der Garten-Mauer, einige im Eingang zum Garten, einige zwischen den Linden am Rand. **Keiner kommt naeher.** Das Licht im Steinkreis — Alphina sieht es jetzt, etwas wie ein duenner Schein um die sieben Purpursteine, der vorher nicht da war — haelt sie auf Distanz. Sie koennen nicht hinein. Aber sie beobachten. Hunderte schwarze Augen, ohne Lid, alle auf den Kreis gerichtet.
 
-Alphina steht bei Sorel. Sie hat keine Angst. Sie spuert, dass sie und Sorel im Kreis sicher sind, weil das Kreis-Licht alles, was nicht mit der Quelle pulsiert, abdrueckt. Sub-Text: das ist die letzte Stunde, in der sie das Kreis-Licht hat. Drueben gibt es keinen Kreis. Drueben sind die Schemen Alltag (laut Aktplan-Memory `project_schemen_magie_modi`). Aber heute Nacht sind sie sicher.
+Was Alphina aber **nicht** sieht: keinerlei Bewegung gegen den Kreis, keine Aggressionsgesten, keine geduckten Haltungen. Die Wesen stehen einfach. Manche treten von einem Bein aufs andere wie wartende Tiere, andere sind ganz still. Und auf keinem von ihnen leuchtet etwas. Keine helle Linie an einer Schulter, keine Glyphe an einer Stirn — nichts, was sich vom dunklen Rauch ihrer Koerper abheben wuerde. Alphina koennte das nicht benennen, weil sie nie eine Bindungsrune gesehen hat (Sorel-Prinzip: weder sie noch sonst jemand kennt das Bindungs-Vokabular). Aber das Bild registriert sich: ruhige Wesen, dunkel und reglos, ohne sichtbare Marken.
 
-Sie sehen sich um. Die Pflanzen aussen wachsen weiter, langsamer jetzt — Alphinas Heat-Echo ebbt ab, weil ihr Begehren in diesem Moment nicht mehr im Stoss ist, sondern in der ruhigen Praesenz mit Sorel. Sterne brennen weiter ueber dem Garten. Sie haelt seine Hand. Er haelt ihre. Beide sehen die Schemen, beide sehen die Pflanzen, beide sagen nichts.
+**Plot-Mechanik (NICHT in Prosa erklaeren — nur als Beat zeigen):** Das sind keine von Varens Schemen. Das sind **wilde Zwischenwelt-Schemen**, die durch die brueschige Welten-Grenze in Vael hindurchsickern (siehe `10-magie-system.md` „Wilde Schemen aus der Zwischenwelt"). Die Quellen-Pulsation vor dem Ritual zieht sie an wie Licht Motten — heute Nacht in Schwaermen. Sie sind freundlich-neugierig, weil ungebunden, weil keinen Auftrag erfuellend. Beat-Stichwort fuer /ausarbeitung: Alphina sieht **wie aus dem Nichts** alle paar Sekunden ein neues Wesen zwischen den Linden steht, wo eben keines war, und ein anderes verschwindet ohne Bewegung — als ob die Wesen durch die Luft hindurch hineintreten und wieder hinaus. Kein Beat fuer „Risse", kein Beat fuer „Tor" — nur die Wahrnehmung eines lautlosen Kommens und Gehens am Rand.
+
+Alphina steht bei Sorel. Sie hat keine Angst. Sie spuert, dass sie und Sorel im Kreis sicher sind, weil das Kreis-Licht alles, was nicht mit der Quelle pulsiert, auf Distanz haelt. Sub-Text: das ist die letzte Stunde, in der sie das Kreis-Licht hat. Drueben gibt es keinen Kreis. Drueben sind die Wesen Alltag. Aber heute Nacht sind sie sicher.
+
+Sie sehen sich um. Die Farne aussen wachsen weiter, langsamer jetzt — Alphinas Heat-Echo ebbt ab, weil ihr Begehren in diesem Moment nicht mehr im Stoss ist, sondern in der ruhigen Praesenz mit Sorel. Sterne brennen weiter ueber dem Garten. Sie haelt seine Hand. Er haelt ihre. Beide sehen die Wesen, beide sehen die Farne, beide sagen nichts.
 
 Schritte am Garten-Eingang. Vesper und Maren. Sie kommen den Hauptweg hinunter, gemeinsam (K35-Anschluss — sie haben in der Hafengasse-Wohnung uebernachtet, brechen gemeinsam auf). Vesper traegt seine Werkzeugrolle. Maren ihre Werkzeug-Tasche und den in Sackleinen gewickelten grossen Werft-Hammer. **Runa ist nicht dabei.** (Sie folgt heimlich aus der Druckerei — K31-Canon „Mitgehen wuerde sie trotzdem". Wird in K37 als Runa-POV-Auftakt eingeloest, sie ist heute Nacht in K36 nicht sichtbar fuer Alphina/Sorel/Vesper/Maren.) Sie sehen Alphina+Sorel im Steinkreis, sie sehen den bluehenden Garten, sie sehen die Schemen am Rand. Niemand sagt etwas. Vesper nickt einmal — operativer Beat, das Ritual beginnt.
 
@@ -120,10 +124,12 @@ Alphina schaut Sorel an. Letzter Blick im Kreis allein. Dann tritt sie zur Seite
 **Letzte Beat:** Alphina spuert die Hand Sorels in ihrer. Wenige Sekunden. Dann muss sie loslassen — Aufstellung im Kreis, jeder an seinem Stein. Sie laesst los. Beat-Schluss-Stichwort: konkrete Sinnesempfindung (Stein unter Sohlen, Sterne ueber dem Garten, Schemen-Augen am Rand). KEINE ahnungsvolle Glosse. Cliffhanger zu K37 (Runa-POV-Setup).
 
 **Dialog-Informationen:**
-- *Schemen am Garten-Rand:* Dutzende bis hundert. Tiere + humanoide Gestalten. Alle Bauarten aus K05/K12/K28/K30. **Keiner kommt naeher.** Kreis-Licht haelt sie weg.
-- *Kreis-Licht:* duenner Schein um die sieben Purpursteine, vorher nicht da. Wird sichtbar, weil die Schemen am Rand stehen. Welt-Geometrie verstaerkt — der Kreis ist Sicherheits-Zone.
+- *Schemen am Garten-Rand:* **hunderte**, deutlich mehr als Alphina je gesehen oder gehoert hatte. Tiere + humanoide Gestalten. Alle Bauarten aus K05/K12/K28/K30. **Keiner kommt naeher.** Kreis-Licht haelt sie auf Distanz. **Verhalten freundlich-neugierig**, keine Aggression, keine geduckten Haltungen.
+- *Keine sichtbaren Marken auf den Schemen:* Alphina sieht **kein Leuchten** an Schultern, Stirn, Brust — keine helle Linie. Sie kann das nicht benennen (Sorel-Prinzip: niemand kennt Bindungsrunen-Vokabular), aber registriert das Bild. Plot-Mechanik: das sind keine Varens-Schemen (gebunden, mit leuchtenden violetten Runen, aggressiv), sondern **wilde Zwischenwelt-Schemen** (ungebunden, ohne Runen, neugierig). Master: `10-magie-system.md` „Bindungsrunen" + „Wilde Schemen aus der Zwischenwelt".
+- *Manifestieren und verschwinden eigenstaendig:* alle paar Sekunden steht zwischen den Linden ein neues Wesen, wo eben keines war; ein anderes verschwindet ohne Bewegung. Als ob sie durch die Luft hineintreten und wieder hinaus. **Kein Beat fuer „Riss" oder „Tor"** — nur die Wahrnehmung eines lautlosen Kommens und Gehens. Mechanik (laut Magie-System): sie oeffnen ihre eigenen Mikro-Risse aus der Zwischenwelt.
+- *Kreis-Licht:* duenner Schein um die sieben Purpursteine, vorher nicht da. Wird sichtbar, weil die Wesen am Rand stehen. Welt-Geometrie verstaerkt — der Kreis ist Sicherheits-Zone.
 - *Alphinas Innenbeat:* sie hat keine Angst. Sicherheit im Kreis. Sub-Text: letzte Stunde mit dieser Sicherheit.
-- *Heat-Echo ebbt ab:* die Pflanzen aussen wachsen langsamer, weil Alphinas Begehren in ruhiger Praesenz ist statt im Stoss. Magie folgt der Emotion.
+- *Heat-Echo ebbt ab:* die Farne aussen wachsen langsamer, weil Alphinas Begehren in ruhiger Praesenz ist statt im Stoss. Magie folgt der Emotion.
 - *Schritte am Garten-Eingang:* Vesper und Maren kommen gemeinsam aus der Hafengasse-Wohnung (K35-Anschluss). Vesper traegt Werkzeugrolle, Maren Werkzeug-Tasche + grossen Werft-Hammer in Sackleinen.
 - **Runa NICHT in K36 sichtbar.** Sie folgt heimlich aus der Druckerei (K31-Canon „Mitgehen wuerde sie trotzdem", Aktplan „Setup fuer K36 Runa folgt unbemerkt"). Sie beobachtet aus den Linden am Garten-Rand — Alphina/Sorel/Vesper/Maren sehen sie nicht. K37 (Runa-POV) loest ihre Verfolgungs-Sequenz ein.
 - *Operative Aufstellung beginnt:* Vesper, Maren, Sorel, Alphina an je einem Stein. Vesper-Nick als Beginn-Beat.
@@ -132,7 +138,9 @@ Alphina schaut Sorel an. Letzter Blick im Kreis allein. Dann tritt sie zur Seite
 - *Premature-Doubt-Schranke:* KEIN Sorel-Tod-Vorgriff. Kein „letzter Blick", kein „dass es das letzte Mal war". Nur operativ: Hand loesen fuer Aufstellung.
 
 **Tschechow-Waffen geladen:**
-- **Hunderte Schemen-Augen am Garten-Rand** — Tschechow fuer K37 (waehrend des Rituals beobachten sie, koennen aber nicht hinein) und K40-Epilog (die Schemen verschwinden schlagartig, Varens Inszenierungen enden).
+- **Hunderte wilde Zwischenwelt-Schemen am Garten-Rand, ohne Runen** — Tschechow doppelt: (a) fuer K37 (waehrend des Rituals beobachten sie, koennen aber nicht hinein); (b) fuer Moragh-Erstwahrnehmung K38 — Alphina sieht in Moragh erstmals leuchtende violette Runen auf gebundenen Schemen und versteht rueckblickend den Unterschied; (c) fuer B2-Velmar-Lehre, wenn Alphina das Bindungs-Vokabular lernt; (d) fuer B2-Ende/B3-Anfang, wenn Varens Vertreibung das langsame Verschwinden der wilden Schemen aus Vael ausloest (Risse heilen ueber Monate/Jahre).
+- **„Auf keinem von ihnen leuchtet etwas"** — Beobachtungs-Beat ohne Deutung. Tschechow fuer Alphinas K38-Erkenntnis: in Moragh sieht sie an Varens Schemen die violetten Glyphen und versteht sofort, was sie in Vael nicht gesehen hat.
+- **Manifestieren-und-verschwinden-Beat (lautloses Kommen/Gehen)** — Welt-Marker fuer Brueschigkeit der Welten-Grenze in Vael. Tschechow fuer B2-Recherche (Halvara-Kel-Manuskript erklaert die Mechanik), B3-Heilung (in Buch 3 verschwinden die wilden Schemen aus Vael, weil Risse sich schliessen).
 - **Kreis-Licht** als sichtbare Sicherheits-Zone — Tschechow fuer K37 (die Vier nehmen Aufstellung an den Steinen, das Kreis-Licht wird im Ritual verstaerkt zum Tor).
 - **Vesper traegt Werkzeugrolle, Maren Werkzeug-Tasche + grosser Werft-Hammer** — Mitnahmen aus K34 operativ aktiv, Tschechow fuer Moragh-Ankunft K38. Marens Hammer als Werkzeug+Backup, weil sie nicht weiss, ob drueben Wasser ist.
 - **Runa heimlich in den Linden** (K37-Setup) — Tschechow-leise: niemand der Vier weiss, dass sie da ist. K37 (Runa-POV) zeigt ihre Verfolgungs-Sequenz und ihren Sprung durchs Tor im letzten Moment.
@@ -168,9 +176,10 @@ Alphina schaut Sorel an. Letzter Blick im Kreis allein. Dann tritt sie zur Seite
 
 ### Was weiss Alphina am Ende von K36?
 
-- Sie hat verstanden, dass das Pflanzen-Wachstum um sie ihr Begehren ist (Heat-Echo-Erkenntnis).
+- Sie hat verstanden, dass das Farn-Wachstum um sie ihr Begehren ist (Heat-Echo-Erkenntnis).
 - Sie hat zum ersten Mal von Sorel das Wort *„Darf ich?"* gehoert. Sie versteht, dass er ihre Initiative-Geste umgekehrt hat.
-- Sie hat den Steinkreis als Sicherheits-Zone erlebt — Schemen koennen nicht hinein.
+- Sie hat den Steinkreis als Sicherheits-Zone erlebt — die Wesen am Rand koennen nicht hinein.
+- Sie hat hunderte Schemen am Garten-Rand gesehen, ruhig und neugierig statt aggressiv. Ohne sichtbare Marken. Sie kann das Bild nicht deuten, aber es ist registriert (Tschechow fuer K38-Erkenntnis in Moragh).
 - Die anderen drei sind angekommen. Aufstellung beginnt. Das Ritual startet.
 
 ### Was darf Alphina NICHT wissen (Sorel-Prinzip)?
@@ -182,6 +191,9 @@ Alphina schaut Sorel an. Letzter Blick im Kreis allein. Dann tritt sie zur Seite
 - **Dass das Heat-Echo Modus C/D nach K38 in Anti-Flora kippt** (schwarze Dornen, blutrote Blueten). K36 ist gruen, weil sie ruhig ist.
 - **Bund/Thar/Velmar** — alles unbekannt.
 - **Dass Sorel von der Heat-Echo-Verbindung zwischen ihm und Farnen weiss.** Sorel hat es noch nicht erkannt (Sz3b in K34 — er sah den Wedel an ihrer Tuer, verstand nicht). In K36 wird es offensichtlich, aber nicht ausgesprochen — beide sehen es, beide schweigen.
+- **Bindungsrunen-Vokabular.** Alphina weiss nicht, dass gebundene Schemen leuchtende Runen tragen und ungebundene nicht. Sie sieht das Bild („nichts leuchtet auf ihnen"), kann es nicht deuten. Erkenntnis kommt erst in Moragh (K38) und ueber B2-Velmar-Lehre.
+- **Wilde Zwischenwelt-Schemen vs. Varens gebundene Schemen.** Alphina kennt die Unterscheidung nicht. Sie registriert nur das andere Verhalten (ruhig, neugierig statt aggressiv) und das fehlende Leuchten. Die Mechanik (brueschige Welten-Grenze in Vael, eigene Mikro-Risse, Quellen-Anziehung) ist B2-Recherche-Wissen.
+- **Dass die wilden Schemen erst durch Varens Praxis in dieser Anzahl moeglich sind.** Niemand in Buch 1 stellt diese Verbindung her.
 
 ### Premature-Doubt-Check
 
@@ -230,10 +242,13 @@ Alphina schaut Sorel an. Letzter Blick im Kreis allein. Dann tritt sie zur Seite
   - Sterne, duenner Nebel ✓
   - Purpursteine pulsen ✓
   - *„Darf ich?"* + Echo zu „Du hast mich genommen ohne zu fragen" ✓
-  - Garten blueht ausserhalb, Kreis bleibt leer ✓
-  - Schemen weichen am Kreis-Rand zurueck ✓
+  - Garten blueht ausserhalb (jetzt: Farn-Wedel strikt, kein Moos/keine Strauch-Blueten — PFLICHT-Findings eingearbeitet), Kreis bleibt leer ✓
+  - Schemen am Kreis-Rand: ✓ — **erweitert** zu „hunderte wilde Zwischenwelt-Schemen, freundlich-neugierig, ohne Bindungsrunen", neue Welt-Mechanik (siehe `10-magie-system.md`).
 - Aktplan-Funktion: „Letzter Vael-Abend, letzter Moment mit Sorel ohne Schock. Setup fuer K37" ✓
-- Anpassungen am Aktplan-Beat: ich habe die Cliffhanger-Sequenz „Vesper+Maren+Runa kommen am Garten-Eingang" hinzugefuegt — Aktplan endet vor diesem Beat, mein Entwurf macht den Uebergang zu K37 explizit. Plausibel.
+- Anpassungen am Aktplan-Beat:
+  - Cliffhanger-Sequenz „Vesper+Maren+Runa kommen am Garten-Eingang" hinzugefuegt — Aktplan endet vor diesem Beat, mein Entwurf macht den Uebergang zu K37 explizit. Plausibel.
+  - **Schemen-Anzahl von „Dutzende" auf „hunderte" erhoeht** — aufgrund neuer Welt-Mechanik (Quellen-Anziehung wilder Schemen vor Quellen-Pulsen). Autor-Freigabe 2026-05-09.
+  - **PFLICHT-Findings eingearbeitet:** Sz1 knie-hoch → wadenhoch (Modus A statt C), Strauch-Knospen raus; Sz2 Heat-Echo strikt Farne (Moose + Strauch-Blueten raus); Sz3 hunderte ungebundene wilde Schemen ohne Runen (statt nur „weichen zurueck").
 
 ---
 
@@ -251,14 +266,31 @@ X / Y aus dem Skript `scripts/kapitel-kontext.py B1-K36 --phase ausarbeitung` zi
 
 ## Offene Punkte fuer Autor-Entscheidung
 
-1. **Sorel/Alphina-Heat in K36 ohne expliziten Sex-Akt** — ich habe Kuss + Heat-Echo + Begehren als Hoechststufe gewaehlt. Aktplan sagt nur „Sie kuesst ihn". Voll explizit waere falsch (sie sind im Garten, die anderen kommen bald, Tonfall ist „letzter Moment ohne Schock", nicht voll Sex). Falls Autor mehr Heat will: anpassbar.
-2. **Heat-Echo-Manifestation Modus** — ich nehme volle Modus-C/D-Manifestation (Farne, Moose, Bluten, Mauerfugen-Wedel — Memory `project_alphina_heat_echo_pflanzen`). Eskalation ueber das, was in Leseprobe 03 (Wedel aus Mauerfugen) etabliert ist. Falls zu viel: kleiner machen.
-3. **Schemen am Garten-Rand: Anzahl** — ich nenne „Dutzende, vielleicht hundert" + „hunderte schwarze Augen". Aktplan sagt „Dutzende". Falls Autor knapper will: anpassbar.
-4. **Sorel-Hand-Geste vor *„Darf ich?":* halb-offen, kein Greifen** — ich habe die Geste als Anker beschrieben (Beat-Stichwort), Choreographie kommt in /ausarbeitung. Falls Autor andere Geste-Form will: anpassbar.
-5. **Cliffhanger-Sequenz mit Vesper+Maren+Runa** — ich habe sie hinzugefuegt fuer sauberen Uebergang zu K37. Aktplan endet vor diesem Beat. Falls Autor lieber harten Schnitt (K36 endet mit Kuss + Schemen, K37 setzt mit Vesper-Maren-Runa-Ankunft an): anpassbar.
-6. **Alphina-Erkenntnis-Beat „das ist mein Begehren"** — ich habe es als bewusste Erkenntnis im Moment des Kusses verankert. Sub-Text fuer Heat-Echo-Memory (notwendig fuer B2-K17 FWB-Vergleich „Bei Sorel hat die Welt geblueht"). Falls Autor unbewusster halten will (Alphina merkt nur, registriert nicht aktiv die Verbindung Begehren=Wachstum): anpassbar.
-7. **Henrik kommt in K36 selbst nicht vor?** Mein Vorschlag: nein. Henrik ist Care-Hintergrund-Figur (Schluessel gegeben, K05/K09/K12). Sein POV-Slot ist nicht in B1.
+1. **Sorel/Alphina-Heat in K36 ohne expliziten Sex-Akt** — Kuss + Heat-Echo + Begehren als Hoechststufe. Aktplan sagt nur „Sie kuesst ihn". Voll explizit waere falsch (sie sind im Garten, die anderen kommen bald, Tonfall ist „letzter Moment ohne Schock", nicht voll Sex). Status: **freigegeben mit „36 entwurf ok bringen"** 2026-05-09.
+2. **Sorel-Hand-Geste vor *„Darf ich?":* halb-offen, kein Greifen** — Geste als Anker beschrieben (Beat-Stichwort), Choreographie kommt in /ausarbeitung. Status: offen fuer /ausarbeitung-Entscheidung.
+3. **Cliffhanger-Sequenz mit Vesper+Maren+Runa** — hinzugefuegt fuer sauberen Uebergang zu K37. Aktplan endet vor diesem Beat. Status: **freigegeben mit „36 entwurf ok bringen"** 2026-05-09.
+4. **Alphina-Erkenntnis-Beat „das ist mein Begehren"** — als bewusste Erkenntnis im Moment des Kusses verankert. Sub-Text fuer Heat-Echo-Memory (notwendig fuer B2-K17 FWB-Vergleich). Status: **freigegeben mit „36 entwurf ok bringen"** 2026-05-09.
+5. **Henrik kommt in K36 selbst nicht vor.** Care-Hintergrund-Figur. Status: **freigegeben mit „36 entwurf ok bringen"** 2026-05-09.
 
 ---
 
-*Ende Entwurf B1-K36 v1.*
+## Geschlossene PFLICHT-Findings (2026-05-09)
+
+- ✓ **Sorel-Form strikt Farne** (Moose + Strauch-Blueten raus aus Sz1+Sz2+Gaensehaut-Block).
+- ✓ **Modus-C-Schwelle Sz1 zurueckgefahren** — knie-hoher Farn → wadenhoch, junge Triebe statt Strauch-Knospen.
+- ✓ **Schemen-Anzahl festgelegt** — von „Dutzende" auf „hunderte" erhoeht aufgrund neuer Welt-Mechanik (wilde Zwischenwelt-Schemen werden durch Quellen-Pulsation angezogen).
+
+## Neue Canon-Verankerung (2026-05-09)
+
+- **Bindungsrunen** (gebundene Schemen tragen leuchtende Marken, ungebundene nicht; verblassen mit Bindungs-Zustand) — `10-magie-system.md` Abschnitt „Bindungsrunen".
+- **Wilde Zwischenwelt-Schemen** (Vael-Sonderfall, brueschige Welten-Grenze seit Uebersiedlung, Varens Praxis destabilisiert weiter, freundlich-neugierig, Vael-begrenzt, heilen ueber Monate/Jahre nach Varens Stillstand) — `10-magie-system.md` Abschnitt „Wilde Schemen aus der Zwischenwelt".
+- **Boots-Schemen-Sonderfall korrigiert** — war von Haron Dahl gebunden (nicht ungebunden, wie alter Canon-Stand sagte), Runen heute fast verblasst — `10-magie-system.md` „Bindungsrunen / Boots-Schemen".
+
+## Konsistenz-Folgen (separate Sessions)
+
+- **K05/K12/K28/K30 Final-Texte:** Schemen-Sichtungen tragen aktuell keinen Runen-Beat. Bei Lektorat-Folge nachziehen (gebundene Varens-Schemen muessten leuchtende violette Marken tragen). Nicht in dieser Session.
+- **`08-maren.md` (Boots-Schemen-Sichtung):** Bindungsrunen-Beat „fast verblasste, dunkel-violette Spuren auf den Schultern" einfuegen. Nicht in dieser Session — Maren-POV-Lektorat.
+
+---
+
+*Ende Entwurf B1-K36 v2 (entwurf-ok 2026-05-09).*

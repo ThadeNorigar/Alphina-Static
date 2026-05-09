@@ -270,6 +270,9 @@ Plants, die in B1 gesetzt werden, aber erst in B2/B3 feuern. (Auszug aus dem Hau
 | TZ-215 | Talven-Blutmagie + Kalt-Hände | (B2-Akt III erst) | B3 (Alphina tötet ihn zu Unrecht) | Privatwissen, gefälschte Beweise |
 | TZ-216 | Elkes Mord (Varens Schemen) | (B3-Akt II erst) | B3-Finale (Küchen-Satz, Basalt-Splitter) | Varens Schuld-Reveal |
 | TZ-217 | Portal-Quelle zerstören (Wachstums-Überladung) | (B3-Finale erst) | B3-Finale (Thalassien magielos) | Alphinas Schluss-Akt |
+| TZ-218 | Bindungsrunen sichtbar an gebundenen Schemen (Varen=violett) | K36 (geplant — „auf keinem leuchtet etwas" als Negativ-Beat) | K38 (Alphina sieht in Moragh erstmals violette Runen, versteht rückblickend), B2-Velmar-Lehre, B3-Talven-Bindungen | Visuelles Bindungs-Vokabular, etabliert 2026-05-09 |
+| TZ-219 | Hunderte wilde Zwischenwelt-Schemen am Garten-Rand (ohne Runen, freundlich-neugierig) | K36 (geplant) | K37 (während Ritual beobachten sie), K38 (Alphina vergleicht mit Varens Schemen), B2-Recherche (Halvara-Kel-Manuskript erklärt Brüchigkeit), B3-Heilung (verschwinden langsam nach Varens Vertreibung) | Welt-Mechanik 2026-05-09: brüchige Welten-Grenze, Mikro-Risse aus Zwischenwelt |
+| TZ-220 | Boots-Schemen in Marens Werft trägt fast verblasste Haron-Bindungsrunen | (rückwirkend `08-maren.md` Lektorat-Folge offen) | B2 (Maren erinnert sich an die Spuren, versteht in Moragh ihre Bedeutung), B3-SFG (Werft-Geschichte) | Boots-Schemen-Korrektur: war von Haron gebunden, nicht „immer ungebunden" |
 
 ## Verwendungs-Hinweise
 
