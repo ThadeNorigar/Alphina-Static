@@ -1,0 +1,404 @@
+# B1-K38 — Alphina — Entwurf
+
+**POV:** Alphina (3. Person nah, Praeteritum)
+**Timeline:** 3. Dunkelmond 551 TZ, Moragh, MZ 0. Beginn: Alphinas Durchgang als Letzte durch den Riss (direkter Cross-POV-Anschluss zu K37-Sz2-Schluss; K37 endete mit Runa, die im letzten Moment gesprungen ist und das Tableau aus drei Schritt Distanz sieht). K38 setzt mit Alphinas Wahrnehmung ein, sobald sie auf Moragh-Boden tritt. Verlauf: Welt-Erstwahrnehmung → Studium-Tableau Varen → Drei-Resonanzen-Wirkung am eigenen Koerper → Runa-Eintritt + Sorel-Sprung (Cross-POV mit K37-Cliffhanger aus null Distanz) → Schemen-Reaktion + Sorels Tod + Licht-Sequenz → Schrei + Resonanz-Ausbruch + Verbuendeten-Verletzung + Varens Flucht → Drei-Resonanzen-Beruhigung + Zusammenbruch. Schluss-Bild: vier am Boden, einer tot, schwarze Dornen-Bluete mit blut-rotem Saum auf Sorels Brust.
+
+**Wortziel Ausarbeitung:** 4.500–5.500 W (Trilogie-Wendepunkt, plot-dicht; Aktplan-Vorgabe ~10.000 W ist alter Aktplan-Stand und ueberholt — moderne Kapitel-Skala 4.000–5.500 W, Sorel-Tod hier in K38 plus Schrei plus Beruhigung plus Anti-Flora-Manifestation rechtfertigt obere Spanne, aber nicht doppeltes Volumen).
+
+**Gaensehaut-Moment:** Im Moment, in dem Sorel auf den Stein-Boden trifft, bricht Licht aus der langen Wundlinie — gerichtet ohne Richtung, kein Quell-Punkt an Augen oder Mund. Auf jeder hellen Flaeche um ihn herum erscheint kurz sein Gesicht: Stein-Platten, die Innenseite einer noch oben in der Luft stehenden Klaue, Alphinas Wange dort, wo das Blut die Haut nass gehalten hat. Ein Gesicht in vielen Bildern. Dann verblassen die Bilder, eines nach dem anderen, in der Reihenfolge, in der sie gekommen waren. Sein letzter Lichtwurf, ohne Kamera, ohne Wahl. Doppelt-Gaensehaut: Sekunden spaeter wachsen die ersten schwarzen Triebe **durch organische Substanz im Moragh-Boden** zwischen den Stein-Platten hervor, schliessen sich um Sorel, und auf seiner Brust oeffnen sich aus der Wundlinie heraus schwarze Blueten mit blut-rotem Rand — Form ohne Zwischenstufe, keine Knospe.
+
+**Ton-Referenz-Leseproben (fuer /ausarbeitung):**
+- `buch/leseproben/28-sorel-tod-moment.md` — Hauptanker fuer Sz2/Sz3 (Tod aus null Distanz, Schrei in zwei Toenen, Resonanz-Ausbruch durch organische Substanz, Anti-Flora-Form, Wirbelsaeulen-Wurzel an Alphina selbst, Verbuendeten-Verletzung). Probe ist v4-canon-konform — instant-Tod ohne Sakrament, Klauen-Schlag rechte Schulter zu linker Hueftknochen, Licht aus Wunde, Gesicht auf hellen Flaechen, Schrei in zwei Toenen, schwarze Triebe durch Organik. Kuang-Disziplin (Tod ohne Sanitisierung) plus Yarros-Aftermath-Praezision.
+- `buch/leseproben/11-moragh-ankunft.md` — Sekundaer-Anker fuer Sz1 (Welt-Schock-Eintritt, andere Erde brennt waermer, suess-metallischer Geruch, zwei Monde mit verschobenen Schatten, Botaniker-Brille trifft auf fremde Flora die zurueckgreift, Trauer als geschlossene Tuer — nur an den Pflanzen leckt sie durch). Probe ist v2.1-stand und Plot-kompatibel; nicht final-verbindlich, aber Ton fuer die Sekunden vor dem Tableau gut getroffen.
+
+**Council-Leserinnen fuer /ausarbeitung:**
+- **KAYA** (Kuang/SenLinYu/Pierce Brown) — Tod als Beat ohne Sanitisierung, Koerper-unter-Druck, Magie-Kontrollverlust mit Folge (Verbuendeten-Verletzung + eigene Wirbelsaeulen-Wurzel), Trauma-Koerper bei Alphina (Schock-Erregungs-Koerper-Reaktion auf Varens Halt, kein Wille). Hauptstimme fuer das ganze Kapitel.
+- **NORA** (Robert/Kennedy/Simone) — Macht-Asymmetrie Varen vs. Alphina (Hand an Kinn, Drei-Resonanzen-Wirkung, alte Sprache, kalkulierender Antagonist ohne Schock-Reflex), Konfrontation als Reibungs-Kern, morally grey: Varen ist nicht boese-explizit, er studiert sie, der Tod ist Auftrags-Reflex seines Schemen — Macht-Spieler bleibt Macht-Spieler, auch nach dem Tod. Wichtig fuer Sz1-Tableau.
+- **MEIKE** (Black/Kuang/Maas) — Welt-mit-Zaehnen (zwei Monde, Akkretionsscheibe, dichte Luft, suess-metallischer Geruch, Schemen-Bauarten, Anti-Flora-Form), POV-Disziplin (Alphina-Botaniker-Linse trifft auf Moragh-Stein und reagiert sofort), benannte Welt-Geometrie. Wichtig fuer Sz1 + die Verflechtung von Welt-Schock und Tableau-Drohung.
+
+---
+
+## Szene 1 — Uebertritt + Studium-Tableau (Welt-Erstwahrnehmung, Hand an Kinn, alte Sprache, Drei-Resonanzen-Wirkung am eigenen Koerper)
+
+**Wortziel:** 1.200–1.500 W
+
+Alphina tritt als Letzte durch den Riss. Vesper, Sorel, Maren stehen drei Schritt vor ihr auf einem flachen Stein-Platz, ueberwucherten Platten, vier Schritt Durchmesser ungefaehr; das Pflaster ist rissig, mit dunklen Pflanzenfasern in den Spalten. Hinter Sorel und neben Vesper bleiben sie stehen, nicht aus Wahl. Alphina geht zwei Schritt, will den dritten — und kann den Fuss nicht heben. Ihr Brustkorb arbeitet langsamer, als sie ihn arbeiten lassen will. Ihre Augen sehen, aber zu spaet. Ihre Pflanzen-Resonanz, die seit dem Riss-Durchgang stark angeschwollen ist (Memory: Moragh-Boden hundertfach staerker als Vael-Boden), liegt unter etwas, das sie daempft — sie spuert das Reservoir, kann es nicht abrufen. Drei Faeden gleichzeitig: Druck im Koerper, Zeit am Atem, Daempfung an der Resonanz. Sie weiss in dem Moment nicht, dass es drei sind. Sie weiss nur, dass sie nicht kann. Erste Sinne der fremden Welt verarbeiten parallel: zwei Monde am Himmel ueber dem Platz (kleiner heller links vom Zenit, grosser kupferner darunter mit erkennbaren Kratern), Akkretionsscheibe-Sonne als gleissender Ring um einen dunklen Kern, sattere Farben am Rand des Sehens, dichte Luft (Lunge greift tiefer, Schluesselbein hebt sich hoeher), suess-metallischer Geruch (verbrannter Honig + ein dritter alter Faden). Boden gibt einen Daumen tief nach unter ihrem Fuss, schiebt ihn wieder hoch. Wie nasser Sand der atmet. Ein Mann steht in drei Schritt Abstand zur Gruppe, in dunklem Mantel, einen halben Kopf groesser als Sorel, graue Schlaefen, Augenfarbe spezifisch (Memory: Violett = stark Magie-begabt; Alphina sieht es, ohne es zu deuten). Er sieht Alphina an. Er kommt langsam auf sie zu, Schritt fuer Schritt — die anderen drei kann er stehen lassen, sie bewegen sich nicht. Er bleibt vor ihr stehen, zwei Hand breit. Er legt die Hand an ihr Kinn, Daumen unter dem Kiefer, Finger an der Halsschlagader. Die Geste ist dieselbe wie der Schemen im Lichthaus-Keller (K12-Echo aus Sorels Beschreibung — Alphina hat es nie selbst gesehen, sie kennt nur Sorels Bericht). Sie kann sich nicht bewegen, nicht aus Lähmung — aus Schichtung der drei Faeden. Sie versteht in dieser Sekunde nicht, was er tut. Sie versteht nur, dass sie es nicht abwehren kann. Und dann spricht er.
+
+**Dialog-Informationen:**
+- *Setting:* 3. Dunkelmond 551 TZ, Moragh, MZ 0. Erster Stein-Platz auf der anderen Seite. Vesper, Sorel, Maren bereits durch (Reihenfolge K37-Sz2). Alphina als Letzte; sie hat nicht mitbekommen, wie spaet Runa gesprungen ist (Sorel-Prinzip: Runa ist hinter ihr, Alphina hat sich nicht umgedreht).
+- *Plot-festgelegte Welt-Erstwahrnehmung (Aktplan + Memory `project_zwei_monde_moragh.md`):* zwei Monde am Himmel, Akkretionsscheibe-Sonne, dichte Luft, suess-metallischer Geruch, sattere Farben, 0,7g (Koerper leichter, Boden gibt nach). Reihenfolge der Sinne: Geruch zuerst, dann Boden unter dem Fuss, dann Atem, dann Augen-Helligkeit, dann zwei Monde. Botaniker-Linse aktiv: sie registriert dunkle Pflanzenfasern in Stein-Spalten als organische Substanz unter dem Stein (Tschechow fuer Sz3-Resonanz-Ausbruch).
+- *Drei-Resonanzen-Wirkung — Wirkung am eigenen Koerper (Memory: niemand der Vier weiss, dass es drei sind):*
+  - **Druck:** Koerper fixiert, sie kann nicht weitergehen, die Beine werden schwer.
+  - **Zeit:** Atem wird zu lang, Augen sind zu langsam, Reaktionen kommen verspaetet (groesste Komponente).
+  - **Energie-Daempfung:** ihre Resonanz-Reservoir schwillt im Moragh-Boden an (sie spuert das in den Handflaechen als Kribbeln, in den Knien als Druck), aber sie kann nichts abrufen. Wille trifft auf Daempfung.
+  - Sie weiss nicht, dass es drei sind — sie spuert nur die Folge.
+- *Plot-festgelegte Wortlaut-Anker — Varens Sprache (Aktplan-Vokabel-Anker, NICHT Stil-Vorgriff):*
+  - er spricht **altes Thalassisch** (Hoeflichkeitsformen aus historischen Texten: »Ihr gestattet« statt »Du erlaubst«; »Jaehrlein« als Diminutiv fuer »Jahre«; alte Substantive wie »Fuhre« statt »Kutsche«). Vokabel-Liste ist Plot-Anker, weil sie Varens Zeit-Distanz markiert — die Vokabeln sind Pflicht-Inhalt fuer /ausarbeitung.
+  - er sagt sinngemaess: er hat **ihre Resonanz durch den Riss erspuert ueber vierhundert Jahre.** (Aktplan-Wortlaut »Eure Resonanz. Ich hab sie durch den Riss erspueret. Ueber vierhundert Jaehrlein.« — Plot-Anker, weil die 400 Jahre Plot-Information sind: er kennt sie, bevor er sie sieht, seit Elkes Zeit.)
+  - er sagt ihre Namen — alle vier (Alphina, Sorel, Vesper, Maren). Aus dem Mund eines Fremden, in altem Thalassisch.
+- *Was Alphina aus seiner Rede entnimmt (Plot-Inhalt, kein Wortlaut):*
+  - **er kommt aus Elkes Zeit** (Fakt-Erkenntnis ueber das Sprach-Register; sie kennt das aus Lene Dahls TZ-154-Manuskript-Frakturen, K24-Anker).
+  - er kennt sie und ihre Resonanz schon — bevor sie ihn sieht.
+  - er kennt alle Namen der Vier.
+  - die Distanz ist sofort da: charmant, hoeflich, fremd. **Nicht die Fremdheit einer anderen Sprache, sondern die Fremdheit einer anderen Epoche in der eigenen** (interner Plot-Beat — sie versteht ihn, das ist das Verstoerende).
+- *Varens Geste am Koerper (Aktplan-Anker):* Hand an Kinn, Daumen unter Kiefer, Finger an Halsschlagader. Er dreht ihren Kopf leicht. Er schaut in ihre Augen. Er riecht an ihrem Haar. Beat-Inhalt: Studium, nicht Sex — aber die Geste ist sexuell-grenzwertig, weil sie Hand-an-Hals-Naehe ist. Die Leserin hat Angst, dass er sie missbrauchen wird; er tut es nicht.
+- *Schemen-Geruch-Wiedererkennung (Plot-Beat, Tschechow K12-Echo):* Varen riecht **wie die Schemen** — warmer Stein, etwas Suesses. Alphina erkennt den Geruch von den drei Schemen auf der Mauer (K12) und vom Lichthaus-Keller-Schemen (Sorels Bericht). Sie zieht keine Schlussfolgerung; sie registriert nur. Plot-Inhalt: stille Erkenntnis, dass Varen und die Schemen zur selben Welt gehoeren.
+- *Schock-Erregungs-Koerper-Reaktion (Memory: Koerper missinterpretiert Schock als Erregung; KAYA + NORA-Anker):* Alphinas Koerper reagiert. Schluesselbein-Bereich waermt, Halsschlagader schlaegt schneller. Sie will nicht — der Koerper tut es trotzdem. Plot-Beat-Wichtigkeit: das ist **nicht Begehren**, das ist Schock-Adrenalin, das ihre eigenen Koerper-Marker triggert (sie kennt die Marker aus Sorel-Naehe; ihr Koerper kann zwischen Sorel-Begehren-Erregung und Varen-Schock-Erregung in dieser Sekunde nicht unterscheiden). Tschechow fuer B2-Captivity (Halt-Beruehrung-Erinnerung feuert dort, wenn Velmar-Halsband ihre Kehle beruehrt — portable Variante derselben Energie-Daempfung).
+- *Vesper, Sorel, Maren in der Drei-Resonanzen-Wirkung:* sie stehen, sie sehen, sie koennen sich nicht bewegen. Vesper ist hinter Alphina, Sorel vor ihr (er ist als zweiter durchgegangen, hat sich vor sie gestellt, K30-Schwur), Maren neben Sorel. Aus Alphinas Sicht: sie sieht Sorels Ruecken in einem Schritt Abstand. Sie sieht, dass er es will, sich zu bewegen, und nicht kann. Beat-Inhalt: er kaempft sichtbar gegen die Wirkung — sein Kiefer angespannt, seine Schulter zuckt einmal, dann nicht mehr.
+- *Innenbeat — Sorel-Prinzip-konform:* Alphina denkt **nicht** „Drei-Resonanzen-Wirkung". Sie denkt nicht „Velmar-Schichtung". Sie weiss nichts davon (Memory `project_b2_k01-k27_canon.md`: Halsbaender kommen erst in B2). Sie weiss nur: ihr Koerper ist gehalten, sie kann nicht. Begriff fuer das, was er tut, hat sie nicht.
+- *Was Alphina NICHT sieht (Sorel-Prinzip):* den Schutzschemen im Schatten links versetzt. Die zwei oder drei kniehohen vierbeinigen Wesen. Sie sieht nur den Mann. Tableau-Geometrie aus K37: die Schemen warten unsichtbar, weil Varen zum Reden gekommen war. Alphinas POV bestaetigt das.
+
+**Tschechow-Waffen geladen:**
+- **Varens Erstwahrnehmung am Moragh-Steinplatz** (NEU K38) — Tschechow fuer alle B2/B3-Begegnungen. Augenfarbe spezifisch, suess-metallisch-warmer-Stein-Geruch, alte Sprache, Hand-an-Kinn-Geste. Memory `pov/alphina.md` Z.150-151.
+- **Hand-an-Kinn-Halt-Beruehrung mit Drei-Resonanzen-Wirkung** (NEU K38) — Druck/Zeit/Energie-Daempfung. Tschechow fuer B2-Captivity (Velmar-Halsband portable Variante derselben Mechanik) und jede Varen-Naehe-Szene danach.
+- **Schock-Erregungs-Koerper-Reaktion** (NEU K38) — Tschechow fuer B2-K13 (Wiedersehen mit Varen, Halt-Beruehrung-Erinnerung feuert) und B2-K37 (Sex mit Varen — Selbst-Vergebungs-Bedürfnis dominiert, aber die K38-Schock-Reaktion ist der erste Riss). Memory `pov/alphina.md`-Beziehungs-Achse.
+- **Schemen-Geruch-Wiedererkennung** (NEU K38) — stille Erkenntnis, dass Varen und Schemen zur selben Welt gehoeren. Tschechow fuer B2 (Alphina lernt langsam die Velmar-Beziehung zu Schemen kennen).
+- **Plot-festgelegte Vokabel-Anker fuer alte Sprache** (»Ihr gestattet«, »Jaehrlein«, »Fuhre«) — Tschechow fuer B2/B3 als Sprach-Distanz-Marker. Wenn Varen in B2 modernes Thalassisch spricht, ist das ein bewusster Wechsel — das alte Register war fuer K38 reserviert (Macht-Geste oder Anpassung-an-Lene-Zeit).
+
+**Tschechow-Waffen abgefeuert:**
+- K12 Schemen-Geruch (warmer Stein, Suesse) — direkt erkannt durch Alphina, Verbindung zu Varen.
+- K12 Hand-an-Kinn als Schemen-Geste (Sorels Bericht aus Lichthaus-Keller) — eingeloest mit Varens Hand-an-Kinn.
+- K30 Sorels Schwur — Sorel ist als zweiter durch, er steht vor Alphina, er kaempft sichtbar gegen die Wirkung.
+- K24 Lene Dahls TZ-154-Manuskript-Frakturen — Alphina erkennt das Sprach-Register als TZ-154-naher.
+- K34 Anti-Schemen-Vorbereitung — gegen die Drei-Resonanzen-Wirkung wirkungslos (Vorbereitung war auf Schemen-Angriff, nicht auf Varens Live-Wirkung). Schiefgegangen.
+- K33/K34 Vier-Kopplung-Tor — eingeloest auf Moragh-Seite.
+- I3 Riss-Mechanik — Alphina ist hinter dem Riss, Welt zeigt sich als andere.
+
+**Cross-POV-Ankerpunkte:**
+- **K37 (Runa-POV) Sz3-Cliffhanger:** Runa kommt zur Schwelle, sieht das Tableau aus drei Schritt Distanz. K38-Sz1 zeigt das Tableau aus null Distanz aus Alphinas POV. Tableau-Geometrie identisch (Sorel vor Alphina, Maren neben Sorel, Vesper hinter ihnen, Varen in drei Schritt Abstand vor Alphina). Schemen unsichtbar in beiden POVs (Varen kam zum Reden — Memory K37-Anker).
+- K12 Steinkreis-Geste-Echo: Hand-an-Kinn-Schemen-Geste (Sorel-Bericht) eingeloest aus null Distanz.
+- K34 Anti-Schemen-Pruefung: K37 zeigt Vorbereitung, K38 zeigt Pruefung scheitert.
+
+---
+
+## Szene 2 — Runa-Eintritt, Sorel-Sprung, Schemen-Reaktion, Sorels Tod, Licht-Sequenz
+
+**Wortziel:** 1.200–1.500 W
+
+Etwas bewegt sich im Hintergrund — Alphina sieht es nicht zuerst, sie spuert es: der Mann verliert fuer einen Atemzug die Konzentration. Seine Hand bleibt am Kinn, der Druck der drei Faeden — Druck/Zeit/Energie — broeselt, alle drei zugleich duenner. Sie sieht es an seinen Augen: er sieht etwas, das nicht in seine Rechnung gehoerte. Sein Blick verlaesst Alphinas Gesicht und richtet sich auf einen Punkt rechts hinter ihr. Verschiebung in seinen Augen, kein Erschrecken — Neu-Berechnung. **Runa.** Alphina kann den Kopf nicht drehen, aber sie sieht den Schatten an der Schwelle und im naechsten Atemzug eine Bewegung, die Runas Lauftempo hat. Sie hoert keine Schritte (Boden gibt nach, daempft); sie hoert Runas Atmen, kurz, hart. Im selben Atemzug: Sorel bewegt sich. Die Drei-Resonanzen-Wirkung loest sich an ihm zuerst (er stand am naechsten am Mann, Druck-Komponente niedriger, Zeit-Komponente hat ihn nur einen Atemzug zurueckgehalten); er wirft sich nach vorn, beide Haende greifen den Mantel-Aufschlag des Mannes, will ihn von Alphina loesen. Aktiver Angriff (Memory `pov/sorel.md` Z.148, status.json K38). Im Schatten links versetzt vom Mann reagiert das Wesen, das Alphina bis hierher nicht gesehen hat — pferdgross auf Hinterbeinen, vier Arme, Klauen wie Schlachtmesser. Plus zwei oder drei kniehohe vierbeinige Wesen davor, deren Klauen sich heben. Das pferdgrosse Wesen schwingt, Sekunden-Bruchteil schneller als Varen reagieren kann. Klauen-Schlag von oben nach diagonal, **rechte Schulter zu linker Hueftknochen** — Aktplan-Geometrie. Stoff reisst. Knochen-Splitter. Lunge platzt, Herz halbiert. Sorels Griff am Mantel-Aufschlag loest sich. Er faellt rueckwaerts, hart aufs Stein-Pflaster. Kein Schrei. Kein letzter Atem. Blut spritzt drei, vier Schritte weit, trifft Alphinas Wange, Hals, Wollmantel. Und in dem Moment, in dem er auf den Boden trifft, **bricht Licht aus der Wunde** — nicht aus seinen Augen, nicht aus seinem Mund, nicht aus den Fingerspitzen, von denen sie es aus seiner Resonanz kannte. Aus der langen Linie, die quer durch ihn ging — gerichtet ohne Richtung. Auf jeder hellen Flaeche um ihn herum erscheint sein Gesicht: Stein-Platten, die Innenseite einer noch oben in der Luft stehenden Klaue, Alphinas Wange dort, wo das Blut die Haut nass gehalten hatte. Ein Gesicht in vielen Bildern. Dann verblassen die Bilder, eines nach dem anderen. Stein wird wieder Stein. Stille bleibt. Varen nimmt die Hand vom Kinn — sie spuert das, weil ihr Kinn frei wird, nicht weil sie hinsieht.
+
+**Dialog-Informationen:**
+- *Drei-Resonanzen-Wirkung broeselt durch Varens Konzentrations-Verlust:* nicht ein Faden, alle drei zugleich duenner. Memory K37: Zeit ist die groesste Komponente; sie faellt zuerst. Sorel atmet als Erster wieder normal (zwei Schritt vor Alphina, Druck-Komponente schwaecher dort), kann sich bewegen. Plot-Inhalt: Varens Konzentrations-Verlust ist die Bruchstelle, nicht eine externe Aktion.
+- *Runa-Eintritt aus Alphinas POV (Cross-POV mit K37-Cliffhanger):* Alphina sieht Runa **nicht direkt** (sie kann den Kopf nicht drehen); sie sieht Runas Schatten am Rand der Schwelle und sieht den Mann auf einen Punkt hinter sich blicken. Sie sieht in Varens Augen, wer da ist, bevor sie Runa selbst sieht. Sub-Text: Alphina hatte nicht gerechnet, dass Runa folgen wuerde. Die Erkenntnis kommt erst nach K38-Beruhigungs-Beat (in Sz4 oder spaeter in K39). In Sz2 registriert sie nur „eine fuenfte Person".
+- *Sorel-Sprung — aktiver Angriff (Memory `pov/sorel.md` Z.148):* nicht Defensiv-Schritt-falsch-gedeutet. Er wirft sich nach vorn, beide Haende greifen Mantel-Aufschlag, will den Mann von Alphina loesen. Plot-Beat: K30-Schwur eingeloest („zwischen Welt und Alphina, immer"). Das ist der Moment, in dem der Schwur zu Tat wird.
+- *Schutzschemen-Reaktion — Sorel-Prinzip-konform:* Alphina sieht nur das Resultat: Klauen-Schlag, Stoff reisst, Sorel faellt. **Erzaehler bleibt strikt bei Beobachtung** (Memory `feedback_keine_kryptischen_meta_kommentare.md`). Pflicht-Marker fuer /ausarbeitung: kein „als haette das Wesen entschieden", kein „zu schnell um zu reagieren". Memory K37-Cliffhanger: Schemen ohne Auftrag-Aktion sind nicht aggressiv, sein stehender Auftrag ist „schuetze den Mann", Sorel-Sprung triggert Bewegungs-Reflex. Der Erzaehler nennt das nicht. Beat-Inhalt: Klauen schwingen, sie treffen.
+- *Klauen-Schlag-Geometrie (Aktplan + Memory):* von oben nach diagonal, rechte Schulter zu linker Hueftknochen. Klauen schneiden durch Hemd, Brustbein, in den Brustkorb. Memory `project_schemen_magie_modi.md`: aktive Magie-Manifestation, daher Schaden-faehig (Klauen sind Magie-geformt, nicht physisch wie ein Schwert).
+- *Sorel stirbt instant (Memory: KAYA-Anker, Tic-Reduktion):* kein „halber Atemzug". Sein **Griff am Mantel-Aufschlag des Mannes loest sich** — Detail ersetzt Zeitangabe. Er faellt rueckwaerts. Hinterkopf schlaegt auf Stein. Brust hoert auf, sich zu heben. Kein Schrei. Kein letzter Atem.
+- *Blut-Beat:* spritzt drei, vier Schritte weit in feinen Bahnen. Trifft Alphinas Wange, Hals, Wollmantel. Es ist warm; die Waerme bleibt auf der Haut. Botaniker-Linse-Beat (Plot-Inhalt, kein Prosa-Vorgriff): sie registriert die Waerme mit derselben Hand-am-Wedel-Praezision, mit der sie Pflanzen anfasst. Sie schreit noch nicht.
+- *Licht-Sequenz (Aktplan + Memory `feedback_resonanz_nicht_benennen.md`):*
+  - **Lichtbruch aus der Wunde** (NICHT aus Augen oder Mund) — primaerer Beat.
+  - **Gesicht erscheint kurz auf jeder hellen Flaeche** — Stein-Platten, Innenseite einer noch oben in der Luft stehenden Klaue, Alphinas Wange (Blut-genaesst).
+  - **Bilder verblassen eins nach dem anderen** — in der Reihenfolge, in der sie gekommen waren.
+  - Stein wird wieder Stein. Stille.
+  - Pflicht-Marker fuer /ausarbeitung (KAYA + Memory): kein „als haette das Licht gewusst", kein „als waere er noch einmal da", kein Deutungsversuch des Erzaehlers. Alphina-Botaniker-Klarsicht: Schein, Gesicht auf Stein, Bilder verblassen, Stille. Drei Saetze maximal, null Glosse, null Ausschmueckung. Kuang-Disziplin.
+  - Plot-Inhalt: Sorels Resonanz-Ende, ohne Kamera, ohne Wahl — sie weiss das in dem Moment intuitiv, weil sie seine Resonanz kennt. Sie hat keinen Begriff (Memory `feedback_resonanz_nicht_benennen.md`); sie versteht aber die Mechanik (Lichtformung war seine Resonanz; das war der letzte Lichtwurf).
+- *Varen tritt einen Schritt zurueck:* nimmt die Hand vom Kinn. Alphina spuert das, weil ihr Kinn frei wird, nicht weil sie hinsieht. Beat-Inhalt: er hat verloren, was er fixiert hatte; die Bindung war ohnehin gebrochen durch Konzentrations-Verlust. Varen-Sub-Text aus Aktplan: „Sein Gesicht trug, was es vorher getragen hatte — etwas Notiertes, das jetzt eine Korrektur bekam." Plot-Inhalt: er reagiert nicht emotional, er korrigiert seine Notiz. Memory: morally grey, kalkulierend.
+- *Was Alphina NICHT weiss (Sorel-Prinzip):* dass das Wesen ein Schutzschemen ist. Dass sein Auftrag „schuetze den Mann" lautet. Dass der Mann ihn nicht aktiv geschickt hat — der Schemen reagiert auf eigenen Reflex. Sie sieht nur: der Mann hat sie gehalten, Sorel hat eingegriffen, ein Wesen hat Sorel toetet. Sie wird in der naechsten Szene den Mann fuer den Tod verantwortlich machen. (Memory: das ist plot-konform — Mit-Verantwortung Varens fuer den Tod ist trotz Schemen-Reflex eindeutig, weil er den Schemen mitbringt und das Tableau eroeffnet.)
+- *Was Alphina im Moment des Todes weiss (Plot-Schicht-Inhalt fuer /ausarbeitung):*
+  - **Sorel ist tot** — nicht stirbt, ist tot. Instant.
+  - sein Resonanz-Ende war das Licht aus der Wunde. Sie versteht das ohne Worte.
+  - sein Gesicht auf den Stein-Platten und auf ihrer Wange ist sein letzter Lichtwurf.
+  - der Mann hat ihn nicht direkt getoetet. Der Mann hat aber das Tableau ermoeglicht. Sie macht den Mann verantwortlich.
+- *Maren und Vesper in der Drei-Resonanzen-Wirkung:* die Wirkung loest sich an ihnen langsamer (sie standen weiter weg, Druck-Komponente staerker; Vesper-Zeit-Eigenwahrnehmung allerdings erkennt die Wirkung am schnellsten — er weiss, **was** auf ihn liegt, nur nicht **welche drei Resonanzen**). Beat-Inhalt: Vesper kann sich kurz nach Sorel-Tod bewegen. Maren wenige Sekunden spaeter. Plot-relevant fuer Sz4-Beruhigung.
+- *Plot-Schicht-Sub-Text (KEIN Erzaehler-Glossen-Vorgriff):* die Drei-Resonanzen-Wirkung war Studium, kein Toetungs-Versuch — Varens Ziel war, Alphina zu untersuchen, nicht zu toeten. Der Tod ist Schemen-Reflex auf Sorels Sprung. Varen ist mit-verantwortlich, nicht direkt-toetend. Diese Schicht muss in /ausarbeitung **als Beat-Sub-Text** sichtbar sein, nicht als Erzaehler-Erklaerung. Pflicht-Marker: keine Erzaehler-Erlaeuterung der Schemen-Reflex-Mechanik in K38. Alphina deutet selbst und macht den Mann verantwortlich; das genuegt fuer Plot-Logik.
+
+**Tschechow-Waffen geladen:**
+- **Sorel-Tod als Plot-Achse** — Tschechow fuer Alphinas gesamten B2/B3-Bogen (Sorel-Nicht-Vergeben als Motor, Schlaf-Hain-Sorel-als-Baum, Sorel-als-Massstab fuer jedes Vertrauen).
+- **Sorels Resonanz-Ende-Lichtbruch** (NEU K38) — letzter Lichtwurf ohne Kamera. Tschechow fuer B3-K01-Reparatur-Sitzung (Alphina erinnert sich an das Licht; Varen-Kuesse koennen das Bild nicht ausloeschen) und B3-K35-Duell (Alphina-Trigger).
+- **Mantel-Aufschlag des Mannes** (auf den Sorel beide Haende legt) — Tschechow-leise fuer B3-K37 (Varens Register-Bruch im Duell — Alphinas Hand sucht denselben Mantel-Aufschlag, wo Sorels Haende waren, in der Sekunde vor dem Todesstoss).
+- **Schutzschemen pferdgross (Velmar-Bauart)** — Tschechow fuer B2/B3 (Wiederbegegnung mit Velmar-Schemen; Alphina wird sie an dieser Bauart wiedererkennen).
+- **Schemen-Bauart-Wiedererkennungs-Anker** — Alphina sieht die zwei oder drei kniehohen vierbeinigen Wesen. Memory `project_schemen_magie_modi.md`: Bauart wie K30-Hafenangriff. Tschechow-Verbindung: dieselbe Bauart wie damals — sie weiss nicht, ob Varen damals geschickt hat (Plot-Schicht spaeter).
+- **Sorels Hinterkopf-Aufprall auf Stein** (Detail) — Tschechow fuer B3-K38 (Portal-Quelle-Kollaps, Alphina kollabiert die Quelle durch Wachstums-Ueberladung; das Stein-Geraeusch unter ihrem eigenen Knien wird zum K38-Echo).
+- **Plot-festgelegte Lichtbruch-aus-Wunde-Geometrie** (rechte Schulter zu linker Hueftknochen) — Pflicht-Anker. /ausarbeitung darf die Geometrie nicht aendern; sie ist im Aktplan und in Leseprobe 28 verankert.
+
+**Tschechow-Waffen abgefeuert:**
+- K30 Sorels Schwur (zwischen Welt und Alphina, immer) — abgefeuert als aktiver Sprung, eingeloest mit dem Tod.
+- K12 Steinkreis-Schemen-Geste (Sorel-Bericht) — Hand-an-Kinn-Geste eingeloest. Geste wiederholt sich am Mann, dem es gehoert.
+- K30 Drei-Resonanzen-Kopplung — eskaliert in Vier-Kopplung K37, dann von Varens Drei-Resonanzen-Wirkung gespiegelt: er wirkt gegen sie, was sie an ihm sehen werden in B2.
+- K30 Frost im Knochen (Sorel-Tschechow) — bleibt in K38 unsichtbar (kein Reflexions-Beat in Tod-Moment selbst, koennte spaeter in K39-Trauer-Reflexion auftauchen — entscheidet /ausarbeitung).
+
+**Cross-POV-Ankerpunkte:**
+- **K37 (Runa-POV) Sz3-Cliffhanger:** Sorel im Sprung, beide Haende am Mantel-Aufschlag, Klauen heben sich, Runa drei Schritt entfernt im Lauf. K38-Sz2 zeigt **die Klauen treffen** und **den Tod** aus null Distanz Alphina-POV. Doppelbeat beabsichtigt — derselbe Moment aus zwei Distanzen.
+- K30 Sorels Lichtformung-Resonanz — eingeloest als „letzter Lichtwurf".
+- K38-Sz3 (gleich anschliessend): Alphinas Schrei + Resonanz-Ausbruch sind direkte Folge des Tod-Moments.
+
+---
+
+## Szene 3 — Schrei, Resonanz-Ausbruch, Verbuendeten-Verletzung, Varens Flucht
+
+**Wortziel:** 1.300–1.600 W
+
+Alphina oeffnet den Mund. Was zuerst kommt, ist kein Wort — ein hoher, duenner Ton, ein Strich durch den Atem. Schmerz. Er reisst nicht ab, als ihr die Luft ausgeht; er geht ohne Pause in einen tieferen Ton ueber, rau, unter dem Schluesselbein, im Becken — Wut. Der zweite Ton hat ein Ziel. Unter ihren Sohlen reisst etwas auf. Nicht aus dem Stein — aus dem, was unter dem Stein liegt: organische Substanz, alte Pflanzenfasern im Moragh-Boden, Substrat, das seit Jahrhunderten unter den Platten gewartet hat. Sie spuert es zuerst durch die Sohlen — ein Stroemen, das abwaerts und aufwaerts zugleich geht, das ihre Knoechel als Mitte nimmt. Dann sieht sie es. Aus den Spalten zwischen den Platten schieben sich Triebe, schwarz, daumendick, mit Spitzen, die im Halbdunkel matt schimmern. Sie wachsen nicht in das Gestein hinein. Sie wachsen **durch** die organischen Adern, die schon da waren, und die Stein-Platten brechen an den Spaltkanten auf, weil das Geflecht groesser wird als der Riss, den es sich genommen hatte. In einem Atemzug stehen die Triebe kniehoch. In zwei brusthoch. Dann verzweigen sie sich, schraeg nach aussen, dornig wie Straeucher, die Jahrzehnte in Sekunden bekommen haben. Die Dornen finden Sorels Haut. Auf seinem Hemd, auf der Brust, aus der langen Wundlinie heraus oeffnen sich kleine Blueten — schwarz, mit einem Saum, der so rot ist wie es kein Rot gab, das Alphina kannte. Form ohne Zwischenstufe. Keine Knospe. Sie weiss in dem Moment, dass das nicht **Wachstum** ist, das sie ruft — das ist ihr Koerper, der den zweiten Ton in Pflanzen uebersetzt. Sie hat keine Kontrolle. Was sie will, ist, dass der Mann stirbt. Was ihr Koerper tut, ist, dass alles wachsen will. Eine Welle Vegetation rollt auf den Mann zu — und auf Vesper, Maren, Runa zugleich. Die Wirbelsaeulen-Wurzel beginnt aus ihrer eigenen Haut zu wachsen.
+
+**Dialog-Informationen:**
+- *Schrei in zwei Toenen (Aktplan-Anker, Tic-Reduktion KAYA-Linie):*
+  - **Erster Ton:** hoch, duenn, Strich durch den Atem — Schmerz. Ohne Worte. Kommt aus einer Stelle ueber der Brust.
+  - **Zweiter Ton (ohne Atempause):** tiefer, rau, unter dem Schluesselbein, im Becken — Wut mit Ziel. Sie hat ihn nicht angefangen. Sie kann ihn nicht beenden.
+  - Plot-Inhalt: solange Varen auf dem Platz ist, hoert der zweite Ton nicht auf. Der Schrei ist Antrieb des Resonanz-Ausbruchs.
+- *Resonanz-Ausbruch — Mechanik (Memory `project_alphina_zellwachstum.md` + `project_stein_quellen_pflanzen_resonanz.md`):*
+  - Stein ist inert (reagiert nicht).
+  - Pflanzen wachsen DURCH organische Substanz unter dem Stein, brechen Stein an den Spaltkanten auf.
+  - Moragh-Boden hat alte Pflanzenfasern in Spalten — das ist Alphinas Substrat. Sie greift nicht „den Stein", sie greift „das, was unter dem Stein liegt".
+  - Wachstums-Geschwindigkeit: Atemzug-Skala (kniehoch → brusthoch in zwei Atemzuegen).
+  - Form: schwarz, daumendick, dornig, mit blut-rotem Bluetensaum (Anti-Flora-Memory `project_alphina_heat_echo_pflanzen.md` — Trauer-Manifestation). Form ist personenspezifisch: das ist nicht „Sorel-Farne" und nicht „Varen-Dornenranken-mit-Purpurblueten" — das ist **die Trauer-Form selbst**, neue Manifestation. Tschechow fuer B2/B3 (Schlaf-Hain-Sorel-als-Baum traegt diese Farben).
+- *Wirbelsaeulen-Wurzel — eigener Koerper bezahlt (Memory `pov/alphina.md` Z.148-154 + Z.196):*
+  - Punkt zwischen den Schulterblaettern brennt heisser als der Rest des Ruechens.
+  - sie greift ueber die Schulter zurueck, ihre Finger finden eine Spitze, die durch den Stoff aus ihrer eigenen Wirbelsaeule tritt — knapp unter dem Schulterblatt. Schwarze Wurzel, daumendick. Kalt an der Oberseite, warm an der Unterseite, dort wo sie aus ihr kommt.
+  - sie zieht die Hand zurueck, ohne zu ziehen. Das Stueck gehoert zu ihr.
+  - **Wirbelsaeulen-Narbe lebenslang.** Tschechow fuer B3-K40-Sub-Phase (Vesper sieht sie zum ersten Mal).
+- *Rechte Hand schwarz-rot verfaerbt (Aktplan-Anker, Botaniker-Linse-Beat):*
+  - Verfaerbung bis zum Handgelenk. Farbe, kein Blut. Wie Tinte unter der Haut.
+  - die Hand fuehlt sich taub an.
+  - **das ist das erste Ding, das ihr Angst macht.** Plot-Beat-Inhalt: nicht der Tod, nicht das Wesen, nicht der Mann — der eigene Koerper. Der eigene Koerper, der Sorels Tod in Pflanzen uebersetzt, ohne sie zu fragen.
+  - Tschechow fuer B2/B3 (Anti-Flora-Manifestation, schwarz-rote Hand kehrt wieder bei jedem Bruch — B2-K26/K27-Quellen-Toetung, B3-Akt-IV-Duell).
+- *Verbuendeten-Verletzung (Aktplan-Anker, Memory):*
+  - **Maren-Wade:** ein Dorn, flach und tief, in der linken Wade. Maren saesse links am Boden, Hand flach ueber der Wunde. Sie blieb stumm. Werft-Ruhe. Memory `pov/alphina.md` Z.224.
+  - **Vesper-Schulter:** ein Trieb, den Alphina nie bestellt hatte, fand seine Schulter, riss den Stoff, nahm Blut mit. Vesper trat einen Schritt zurueck.
+  - **Runa-Unterarm:** Brombeer-Schnitte am Unterarm, Stoff gerissen, Schnitte oberflaechlich aber zahlreich. Memory `pov/runa.md`-Verletzungs-Kette.
+  - Plot-Beat-Wichtigkeit: Alphina **sieht es nicht** in dem Moment, **hoert es nicht** ueber ihren eigenen Schrei. Sie erfaehrt die Verletzungen erst in Sz4 oder K39. In Sz3 ist die Verbuendeten-Verletzung **fuer die Leserin sichtbar, fuer die POV-Figur nicht** (Plot-Schicht-Trennung; KAYA-Schock-Pfad).
+- *Varen — Flucht-Beat (Aktplan-Anker, Memory):*
+  - **Erste Wunde an Varens Gesicht seit Jahrzehnten** — Dornen-Spitze an der Wange. Plot-Beat: das ist nicht „eine Wunde", das ist **Bruch der Unverwundbarkeits-Aura**, die er seit der Mar-Keth-Zerstoerung getragen hat. Er hat das nicht eingerechnet. Memory `pov/alphina.md`-Beziehungs-Achse: er hat keinen ihrer Resonanzen so eingeschaetzt.
+  - Plus: Ranke an Oberarm, Dorne an Brust.
+  - Schutzschemen-Beats: einer der zwei oder drei kniehohen Wesen wird durchbohrt; das pferdgrosse reisst sich los, schlaegt Schneise, verbrannte Vegetation (Schemen koennen aktive Magie wirken — Klauen sind Magie, sie wirken auch gegen Pflanzen). Beat-Inhalt: Schemen schlagen Bresche, durch die Varen geht.
+  - Varen ruft restliche Schemen, schleudert eine Art Bindungsmagie in den Boden — Wurzeln binden sich kurz an den Stein, dahinter brechen neue durch. Plot-Beat: er kann das Pflanzen-Inferno nicht kontern; er hat keinen Atem fuer mehr.
+  - er flieht **blutend** durch die Schemen-Bresche, restliche Schemen mit ihm. Eine Wurzel platzt im Moment seiner Flucht, Saft spritzt. Dann ist er weg.
+- *Welle laeuft weiter — Alphina kann nicht aufhoeren (Aktplan-Anker, KAYA-Pfad):*
+  - Varen ist weg. Sorel ist tot. Ihr Schrei laeuft weiter, ihre Pflanzen wachsen weiter.
+  - Vernichtungswille ohne Ziel wendet sich blind nach allem.
+  - eine Welle Vegetation rollt auf die drei anderen zu.
+  - Plot-Beat-Wichtigkeit: das ist die Bruch-Stelle. Bis hierher war der Vernichtungs-Wille auf Varen gerichtet. Jetzt ist er auf alles gerichtet. Memory `pov/alphina.md` Z.33: „Diese Grenze bricht in B1-K38 (Sorel-Tod-Zorn) zum ersten Mal — und kostet sie eine schwarze Wurzel durch die eigene Wirbelsaeule."
+- *Alphinas Innenbeat (Plot-Inhalt, kein Prosa-Vorgriff):*
+  - sie weiss in einem Moment: was sie will, ist, dass der Mann stirbt.
+  - was ihr Koerper tut, ist, dass alles stirbt.
+  - sie kann den zweiten Ton nicht beenden, solange der Mann da ist — und nachdem er weg ist, kann sie ihn auch nicht beenden, weil der Koerper nicht mehr auf den Willen hoert.
+  - das ist der erste Verlust ihrer „Nur aufbauen"-Grenze. Sie wird daran lebenslang tragen. (Memory `pov/alphina.md` Z.31-33.)
+- *Varen sieht ihr beim Wachstums-Ausbruch zu — bevor er flieht (Aktplan + NORA-Anker):*
+  - er steht jenseits des wachsenden Kreises. Haende unten. Augen auf ihr.
+  - sein Gesicht traegt weder Angst noch Freude.
+  - Sub-Text: er sieht ihrer Resonanz zum ersten Mal in voller Form zu — er hat 400 Jahre lang ihren Puls durch den Riss erspuert, jetzt sieht er sie. Das ist nicht „er hat verloren"; das ist „er hat die Datenmenge bekommen, fuer die er gekommen war". Plot-Beat **fuer die Leserin sichtbar, fuer Alphina nicht** (sie sieht nur den Mann, der zurueckweicht; sie sieht nicht, dass er studiert).
+  - dann erst flieht er, weil das Pflanzen-Inferno ihn nicht laenger laesst.
+- *Was Alphina NICHT weiss (Sorel-Prinzip, ueber alle Sub-Text-Beats):*
+  - dass das Wesen, das Sorel toetet, ein Schutzschemen mit Auftrag-Reflex ist (kein direkter Mord-Befehl Varens — Mit-Verantwortung).
+  - dass Varen durch ihren Ausbruch Daten gewinnt, nicht verliert — das ist B2/B3-Erkenntnis.
+  - dass die Wirbelsaeulen-Wurzel ihre „Nur aufbauen"-Grenze bricht (sie wird das in B2-Bund-Training lernen, wenn die Bund-Meister „Verunreinigung" sagen).
+  - dass die schwarz-rote Anti-Flora-Form ihre Trauer-Manifestation ist (sie hat keinen Begriff dafuer in K38).
+  - dass die Verbuendeten verletzt sind (sie sieht/hoert es nicht).
+
+**Tschechow-Waffen geladen:**
+- **Wirbelsaeulen-Wurzel + Wirbelsaeulen-Narbe lebenslang** (NEU K38) — Tschechow fuer B3-K40-Sub-Phase (Vesper sieht sie zum ersten Mal). Memory `pov/alphina.md` Z.173.
+- **Schwarz-rote Hand-Verfaerbung bis Handgelenk** (NEU K38) — Anti-Flora-Marker. Tschechow fuer B2-K26/K27 (Quellen-Toetung) und B3-Akt-IV-Duell (Hand-Verfaerbung als wiederkehrendes Bild).
+- **Anti-Flora-Manifestation: schwarz-Dornen + blut-rote Blueten + Purpur-Staengel** (NEU K38) — Trauer-Form. Tschechow fuer B2-K27 (Halvara-Kel-Schlacht), B2-K37 (Sex mit Varen — schwarze Wurzeln unter dem Bett), B2-Bund-Training („Verunreinigung"-Vokabular der Bund-Meister), B3 Akt III (Bruch mit Varen).
+- **Schwarze Blueten auf Sorels Koerper sinken nicht in den Boden, verdorren nicht** — Tschechow fuer B2-K3 ff. Schlaf-Hain im Bund-Quartier (Memory `pov/alphina.md` Z.175). Sorel-als-Baum mit schwarzer Rinde, Dornen, blut-roten Blueten in der Mitte des Hains. Niemand darf das wissen.
+- **„Nur aufbauen"-Grenze bricht** (NEU K38) — Tschechow fuer B2/B3-Bogen. Alphina wird in B2-K26/K27 absichtlich Quellen toeten (Bund-Auftrag); die K38-Grenze-Bruch ist Vorlauf. Memory `pov/alphina.md` Z.31-33.
+- **Verbuendeten-Verletzung als Schuld-Anker** (Maren-Wade, Vesper-Schulter, Runa-Unterarm) — Tschechow fuer K39 (Trauer ohne Worte; Alphina wird die Verletzungen sehen und schweigen) und B2-K1-Wanderung (sie wird mit den drei Verletzten gehen, ohne darueber zu sprechen).
+- **Erste Wunde an Varens Gesicht seit Jahrzehnten** (NEU K38) — Tschechow fuer B2 (Varen mit dem Schnitt an der Wange, Alphina sieht ihn wieder bei K13-Wiedersehen — der Schnitt ist verheilt zu einer feinen Narbe). Plot-Beat: er traegt die Erinnerung an K38 in der Wange.
+- **Saatgut-Beutel an Alphinas Mantel** (Tschechow aus K37-Sz2 Runa-POV) — feuert in K39 (Pioniergut, Heilkraeuter). Alphina hat ihn auch in K38 — er liegt jetzt auf dem Boden bei ihr, mit den Pflanzenfasern verklebt. Sub-Beat fuer K39.
+
+**Tschechow-Waffen abgefeuert:**
+- K12 Heilung an Sorels Verband (Pflanzen-Resonanz auf menschliches Gewebe) — gespiegelt im Negativ: K38 ist Pflanzen-Resonanz auf menschlichen Tod-Koerper, Anti-Heilung. Form ohne Zwischenstufe.
+- K30 Drei-Resonanzen-Kopplung (zwei → drei → vier) — eskaliert weiter zur Vier-Verteidigung in Sz4 (drei Resonanzen halten Alphina an, plus ihre eigene als gehaltene). Memory `project_drei_resonanzen_kopplung_k30.md`: K23 zwei → K30 drei → K37 vier → K38 reverse: drei Resonanzen halten eine.
+- K11 Steinkreis-Pulsation, Tor-Geometrie — eingeloest auf Moragh-Seite. Pflanzen wachsen DURCH organische Substanz, Stein bleibt inert. Memory `project_stein_quellen_pflanzen_resonanz.md`-Mechanik.
+- I3 Riss-Mechanik — Riss bleibt offen waehrend des Ausbruchs (Hintergrund-Beat).
+
+**Cross-POV-Ankerpunkte:**
+- K37 (Runa-POV) Sz3-Cliffhanger: K37 endete vor dem Tod. K38-Sz3 ist die Folge (Schrei + Ausbruch + Varens Flucht); K37 hat das nicht abgedeckt.
+- K30 Sorels Schwur: in Sz3 ist er eingeloest und tot.
+- K39 (Alphina, kommend): Trauer ohne Worte am naechsten Tag. K38-Sz3 setzt die Verletzungs-Schuld, K39 traegt sie schweigend.
+
+---
+
+## Szene 4 — Drei-Resonanzen-Beruhigung, Zusammenbruch, Schluss-Bild
+
+**Wortziel:** 800–1.000 W
+
+Hinter Alphina kommt Vesper naeher. Ein Schritt zoegert, ein zweiter trifft entschieden. Seine Hand findet ihre Schulter, leicht, dort wo das Kleid gerissen war. Er spricht kein Wort. Das Gewicht seiner Hand und das Gewicht der Wurzel an ihrer Wirbelsaeule legen sich gleichzeitig — eines vorn, eines hinten. Sie weiss in dem Moment, dass sie unter dem zweiten Gewicht bald zu Boden gehen wird. Sie bleibt noch. Dann setzt Vespers Resonanz ein. Sie spuert es nicht in ihm; sie spuert es an sich selbst — ihr Atem wird langsamer, ohne dass sie es will. Die hohe Note des zweiten Tons wird zu einer langen, tiefen Vibration, fast nicht mehr menschlich. Maren parallel: sie kniet sich an einer Stelle drei Schritt entfernt, legt die Handflaechen auf den Moragh-Stein, entzieht dem Boden in weitem Radius das Grundwasser. Die Wurzeln und Ranken erschlaffen — kein Saft, kein Wachstum. Vegetation haelt an, beginnt zu welken. Runa geht — als Einzige unverletzt-genug, sich frei zu bewegen — durch die schrumpfenden Pflanzen zu Alphina. Sie packt sie von hinten, beide Arme um sie. Laesst Waerme durch sich laufen — kein Brennen, nur die Waerme, die sie seit dem Glutmond zu kontrollieren gelernt hat. Alphina spuert die Waerme an Ruecken, Schultern, Hals. Runas Atem an ihrem Ohr. Drei Worte, wieder und wieder. Alphinas Schrei verstummt. Ihr Koerper hoert auf zu zittern. Die letzten Wurzeln sinken zurueck. Sie bricht zusammen — Runa faengt sie, laesst sie sanft auf den Stein-Boden gleiten, haelt sie weiter. Vesper kommt hinkend zu ihnen. Maren zieht das Bein nach. Vier am Boden, einer tot. Auf Sorels Brust, aus der Wundlinie heraus, zwischen schwarzen Trieben, eine Bluete: schwarz, mit einem Saum, der so rot ist wie es kein Rot gab, das sie kannte. Sie sinkt nicht in den Boden. Sie verdorrt nicht. Sie bleibt.
+
+**Dialog-Informationen:**
+- *Drei-Resonanzen-Beruhigung — Wer was tut (Aktplan-Anker, Memory):*
+  - **Vesper Zeit-Resonanz:** auf Alphina selbst. Verlangsamt ihren Atem, ihre Bewegung, das Schreien. Ihr Schrei wird langgezogen, tief, fast nicht mehr menschlich. Dann reisst der Atem ab — sie kann nicht mehr in der gleichen Frequenz schreien. Plot-Beat: Vesper ist hinkend (Schulter-Wunde), geht trotzdem hinter sie. Hand auf Schulter. Wortlos.
+  - **Maren Wasser-Entzug:** kniet drei Schritt entfernt (Wade-Wunde, sie kniet auf dem unverletzten Bein), Handflaechen auf Stein, entzieht Grundwasser im weiten Radius. Plot-Beat: Werft-Ruhe, sie schreit nicht, sie arbeitet. Die Wurzeln und Ranken erschlaffen. Memory `project_maren_wasser_resonanz.md`: Modus „Steuern" + neuer Modus „Entziehen" (latent in Memory; K38 erste Anwendung in Volume).
+  - **Runa Waerme:** als Einzige unverletzt genug, frei zu bewegen (Brombeer-Unterarm-Schnitte sind oberflaechlich). Geht durch schrumpfende Pflanzen zu Alphina. Packt sie von hinten, beide Arme um sie, laesst Waerme durch sich laufen. Memory `pov/runa.md`: Glutmond-Training-Anker — Runa hat seit dem Marktplatz-Zusammenbruch K32 Waerme-Kontrolle gelernt (Stufe 3, kein Brennen).
+- *Plot-festgelegter Wortlaut-Anker — Runas drei Worte (Aktplan-Anker, Pflicht-Inhalt):*
+  - **»Ich bin da.«** Wieder und wieder. Mehr nicht.
+  - Sub-Text: dieselbe Druckerin-Stimme, mit der sie K31 nach Joran zu Maren gesprochen hat (Anker-Echo).
+  - Pflicht-Markierung fuer /ausarbeitung: drei Worte als Wortlaut-Anker, mehrfache Wiederholung als Beat-Form. **Aber nicht ueber-erklaeren — Erzaehler bleibt strikt bei Beobachtung** (Memory `feedback_keine_kryptischen_meta_kommentare.md`).
+- *Alphinas Beruhigung — Mechanik (Memory `project_alphina_zellwachstum.md` + KAYA-Anker):*
+  - Schrei verstummt — durch Vespers Zeit-Resonanz erstickt (Atem-Frequenz nicht mehr haltbar).
+  - Koerper hoert auf zu zittern — durch Runas Waerme an Ruecken, Schultern, Hals; **Waerme-an-Haut traegt mehr als die drei Worte**.
+  - Wurzeln sinken zurueck — durch Marens Wasser-Entzug; aber **nicht alle**: die Triebe bleiben rund um Sorels Koerper stehen. Sub-Text: Marens Entzug wirkt im weiten Radius, nicht im engen um den Toten.
+  - Alphina bricht zusammen — Runa faengt sie. Plot-Beat: erster physischer Kontakt mit Runa nach K32-Distanz. Sub-Text: Runa traegt sie, Alphina spuert es ohne zu deuten.
+- *Verbuendeten-Verletzung wird sichtbar (fuer die POV-Figur erstmals):*
+  - Vesper hinkt — Schulter-Wunde, Stoff blutig.
+  - Maren zieht das Bein nach — Wade-Wunde, sie steht erst beim zweiten Versuch auf.
+  - Runa-Unterarme — Stoff gerissen, Schnitte oberflaechlich, Blut in feinen Linien.
+  - Alphina sieht es. Sie sagt nichts. Plot-Beat: Schuld setzt sich; sie traegt sie ohne Wort, das Wort kommt erst K39. KAYA-Pfad: Schuld-Beats als Beobachtung, kein Erzaehler-Reflex.
+- *Schluss-Bild — Aktplan-Anker (Pflicht-Inhalt):*
+  - **Vier am Boden, einer tot.** Memory `pov/alphina.md` Z.155.
+  - Auf Sorels Koerper: schwarze Triebe rundherum stehen geblieben (nicht gewichen).
+  - Auf Sorels Brust, aus der Wundlinie heraus: **eine schwarze Bluete mit blut-rotem Saum und Purpur-Staengel.**
+  - **Sie sinkt nicht in den Boden. Sie verdorrt nicht.** Tschechow-Plot-Anker fuer B2 (Schlaf-Hain im Bund-Quartier — dieselbe Form, dieselbe Eigenschaft).
+  - Plot-Inhalt: das ist nicht „weisse Blumen" (alter status.json-Stand wurde 2026-05-09 korrigiert). Das ist Anti-Flora-Trauer-Manifestation, dauerhaft.
+  - Pflicht-Marker fuer /ausarbeitung: das Schluss-Bild **muss** mit Anti-Flora-Bluete enden, nicht mit Sorels Gesicht oder Alphinas Innenbeat. Bild-Schluss, kein Wort-Schluss.
+- *Vesper, Maren, Runa — Schluss-Position:*
+  - Vesper haelt Alphinas Schulter, kniet hinter ihr (er ist hingekommen, hat sich zu ihr gesetzt).
+  - Maren sitzt drei Schritt entfernt, Hand auf Wade. Sie sieht nicht zu Sorel. Sie sieht zu Alphina.
+  - Runa haelt Alphina, beide Arme um sie, ihr Atem an ihrem Ohr. Sie sieht zu Sorel.
+  - Beat-Inhalt: drei Distanzen zu Sorel. Vesper-Wissen: er kennt Sorel laenger; er kann nicht hinsehen. Maren-Werft-Praxis: sie sieht den Lebenden zuerst. Runa-Klarsicht: sie sieht den Toten an, weil sie nicht weiss, dass sie das nicht muss.
+- *Was Alphina am Ende von K38 weiss:*
+  - Sorel ist tot.
+  - der Mann hat es ermoeglicht (sie macht ihn verantwortlich; sie weiss noch nicht, dass es Schemen-Reflex war).
+  - sie hat ihre Verbuendeten verletzt.
+  - ihr eigener Koerper ist veraendert (Wirbelsaeulen-Wurzel, schwarz-rote Hand). Sie hat Angst vor sich selbst.
+  - sie ist auf einer fremden Welt, mit zwei Monden, mit dichter Luft, mit einem Boden, der nachgibt.
+  - der Mann ist weg. Aber er kommt wieder — sie weiss das, ohne dass es jemand sagt.
+  - Pflicht-Marker fuer /ausarbeitung: keine dieser Erkenntnisse als Innenrede-Block am Ende. Erkenntnisse als Beat-Sub-Text, nicht als Reflexions-Liste. Der Schluss ist Bild, nicht Gedanke.
+- *Was Alphina NICHT weiss (Sorel-Prinzip am Schluss):*
+  - dass sie auf Moragh ist (kein Welt-Name in K38).
+  - dass der Mann Varen heisst.
+  - dass das Wesen, das Sorel toetet, ein Schutzschemen war.
+  - dass die Drei-Resonanzen-Wirkung Druck/Zeit/Energie war.
+  - dass Vesper und Maren mit drei Resonanzen sie beruhigt haben (sie spuert es, ohne es zu benennen).
+  - dass die schwarze Bluete dauerhaft bleibt (sie wird das in K39 sehen, wenn die Bluete am naechsten Tag noch da ist).
+  - dass die Wirbelsaeulen-Wurzel eine Narbe hinterlassen wird, die lebenslang bleibt.
+  - dass dies das B1-Ende ist.
+
+**Tschechow-Waffen geladen:**
+- **Schwarze Anti-Flora-Bluete bleibt auf Sorels Koerper** (NEU K38) — Tschechow fuer B2-Schlaf-Hain (Sorel-als-Baum) und K39 (Trauer-Aufwachen, Bluete noch da).
+- **Vesper-Schulter-Wunde** (NEU K38) — Tschechow fuer B2-K20-Drael-Pakt (Narbe sichtbar; Drael fragt; Vesper sagt nichts).
+- **Maren-Wade-Wunde** (NEU K38) — Tschechow fuer B2-K1-Wanderung (sie hinkt die ersten Tage; niemand spricht darueber).
+- **Runa-Unterarm-Brombeer-Schnitte** (NEU K38) — Tschechow fuer B2-K3 (Schnitte verheilt zu Linien; Runa fasst sich oft daran, ohne zu wissen warum). Plus B2-K17-FWB-Sex-Szene (Alphinas innerer Vergleich beim Streicheln Runas Unterarm: K38-Schnitte unter ihrer Hand).
+- **Alphina hat Angst vor dem eigenen Koerper** (NEU K38) — Tschechow fuer B2-Bund-Training (Bund-Meister „Verunreinigung", Alphina denkt an die schwarz-rote Hand) und B3-Akt-IV-Duell (Verzweiflung ueber zwei Tage anhaltend wirkfähig — Memory `pov/alphina.md` Z.174).
+- **Drei Resonanzen halten eine vierte (Reverse-Drei-Kopplung K38)** — Tschechow fuer B2-Quellen-Toetung K26/K27 (sie braucht keine drei mehr, sie tut es allein) und B3 (Solo-Magie wird Standard).
+- **Runas Druckerin-Stimme »Ich bin da.«** (Wortlaut-Anker) — Tschechow fuer B3-K28-Wiederbegegnung (nach Drei-Saetze-Absage; das ist der Gegen-Anker der Stimme).
+
+**Tschechow-Waffen abgefeuert:**
+- K30 Drei-Resonanzen-Kopplung (Maren wärmt + Alphina heilt + Vesper beschleunigt) — gespiegelt in K38-Sz4: Vesper verlangsamt + Maren entzieht + Runa waermt — drei Resonanzen halten eine vierte fest. Memory `project_drei_resonanzen_kopplung_k30.md`: Eskalation K23 zwei → K30 drei → K37 vier → K38 reverse drei.
+- K32 Marktplatz-Zusammenbruch Runas Hitze offen — Runa kontrolliert die Waerme jetzt, ohne zu brennen. Eingeloest.
+- K12 Heilung an Sorels Verband — gespiegelt: K38-Sz4 ist Pflanzen-Resonanz, die nicht heilt; Form ist Verlust-Aufzeichnung statt Heilung.
+- K34 Anti-Schemen-Vorbereitung — Resultat sichtbar (Vorbereitung wirkungslos gegen Varen, drei Verletzte, einer tot).
+- I3 Riss-Mechanik — Riss bleibt unbeobachtet (alle vier sind auf der Moragh-Seite, sie wissen nicht, ob er sich nach 4:33 schliesst).
+
+**Cross-POV-Ankerpunkte:**
+- K37 (Runa-POV) Sz3-Cliffhanger: K37 hatte das Schluss-Bild „Sorel im Sprung". K38-Sz4 ist das endgueltige Schluss-Bild „vier am Boden, einer tot, schwarze Bluete auf Brust". Beide Schluss-Bilder muessen unterschiedlich sein — K37 ist Bewegung, K38 ist Stillstand. Cross-POV-Spiegelung.
+- K39 (Alphina, kommend): Trauer-Aufwachen am naechsten Tag. K38-Sz4-Schluss-Bild ist Aufwach-Anker (Bluete noch da, Sorel-Koerper noch da, drei Verletzte um sie herum). Stille als Uebergang, kein Ortswechsel zwischen K38 und K39 (sie schlafen alle vier am Stein-Platz oder daneben — entscheidet K39).
+- K40 (Nebenfiguren in Vael, Closure): in Vael ist der Steinkreis dunkel zurueck, kein Pochen mehr (Esther Voss vor dem toten Riss). K38-Schluss spielt zur selben Zeit; Cross-Welt-Spiegelung.
+
+---
+
+## Kontinuitaets-Notizen
+
+### Was weiss Alphina am Anfang von K38?
+
+- K05/K12-Beginn-Wahrnehmung Pflanzen-Resonanz, Steinkreis-Puls, drei Schemen auf der Mauer (K12). Vesper und Sorel als Resonanz-Kreis.
+- K21-Dunkelkammer Sorels Licht-Resonanz, erste intime Szene, Sie/Du-Wechsel.
+- K23-K27 vier Resonanzen, Vier-Kopplung-Modell, Lene Dahls Manuskript, Erkenntnis: es gab Vorgaenger.
+- K28-K35 Schemen-Tag-Angriff, Halvard-Mentorat, fuenf Monate Uebungen, Manuskript-Frakturen, Stein-Schemen-Inventur, K35-letzte-Vael-Initiation als Routine.
+- K36-Steinkreis-Kuss, Heat-Echo-Pflanzen-Manifestation als Sorel-Form (Farne, Blattwerk).
+- K37-Sz1-Sz2 (aus Sz1 nicht-belauschend, aber Aktplan-Wissen): Aufstellung am Steinkreis, Vier-Resonanzen-Kopplung, Tor oeffnet sich, sie geht als Letzte durch (sie weiss nicht, dass Runa folgt — sie hat sich nicht umgedreht).
+- 4:33-Fenster: sie weiss, dass es das gibt. Sie weiss nicht, ob es schon abgelaufen ist (sie ist nicht zurueckgegangen, hat keine Pendel-Uhr im Blick).
+
+### Was weiss Alphina am Ende von K38?
+
+- Sorel ist tot.
+- der Mann hat es ermoeglicht (Mit-Verantwortung, sie weiss noch nicht von Schemen-Reflex).
+- sie hat ihre Verbuendeten verletzt (Maren-Wade, Vesper-Schulter, Runa-Unterarm).
+- ihr Koerper kann zerstoeren — Wirbelsaeulen-Wurzel, schwarz-rote Hand. Sie hat Angst vor sich selbst.
+- die fremde Welt hat zwei Monde, dichte Luft, einen Boden, der nachgibt, alte Pflanzenfasern unter dem Stein.
+- Varens Geruch ist Schemen-Geruch.
+- Varen kommt aus Elkes Zeit (Sprach-Register).
+- Varen hat ihre Resonanz seit ueber 400 Jahren erspuert.
+- der Mann ist weg, aber er kommt wieder.
+- Runa ist mitgekommen. Sie hat das in Sz4 begriffen (oder wird es in K39 explizit aufnehmen — entscheidet K39).
+- die Drei-Resonanzen haben sie gehalten (Vesper Zeit + Maren Wasser + Runa Waerme). Sie hat keinen Begriff fuer das, was Varen ihr und den anderen getan hatte; sie weiss nicht, dass Vesper/Maren/Runa dasselbe Prinzip in umgekehrt angewandt haben.
+
+### Welches Wissen darf Alphina NICHT haben (Sorel-Prinzip)?
+
+- Die Welt heisst Moragh (kein Welt-Name in K38).
+- Der Mann heisst Varen (kein Eigenname; nur „der Mann", „der Fremde").
+- Die Wesen heissen Schemen — sie hat das Wort aus Sorels K12-Bericht und aus Vespers/Marens Diskussionen, aber sie benennt sie in K38 nicht; sie sieht „das Wesen", „die kniehohen Wesen", „die mit den Klauen". (Memory `feedback_schemen_benennung.md`: Schemen nie namentlich in Prosa.)
+- Drei-Resonanzen-Wirkung Druck/Zeit/Energie als Mechanik — sie spuert die Folge, sie hat keinen Begriff (Memory `project_b2_k01-k27_canon.md`: Halsbaender erst in B2).
+- Velmar-Bauart der Schemen — sie wird das in B2 lernen.
+- „Quelle" als Phaenomen-Begriff fuer den Riss-Punkt (Memory `feedback_quelle_kein_phaenomen_begriff.md`: niemand sagt das, auch sie nicht). Sie sagt „Riss", „Schwelle", „Tor" (sie hat „Tor" von Vesper in K24 uebernommen).
+- „Resonanz" als Erzaehler-Begriff (Memory `feedback_resonanz_nicht_benennen.md`): Alphina denkt „Wachstum", „Licht", „Zeit", „Wasser", „Waerme". Erzaehler darf das Wort „Resonanz" in K38 nicht verwenden — auch nicht in Sz1-Drei-Resonanzen-Wirkung am Koerper. Stattdessen: „drei Faeden", „drei Schichten", „dreifache Daempfung".
+- Anti-Flora-Begriff — sie weiss nicht, dass das die personenspezifische Trauer-Form ist. Sie wird das in B2-Bund-Training implizit lernen, wenn die Bund-Meister „Verunreinigung" sagen.
+- Sub-Text: Varens Studium-Plan — sie weiss nicht, dass er Daten gewonnen hat. Sie haelt sich fuer die Siegerin („er ist geflohen, ich habe ihn verwundet").
+- Welche der drei Resonanzen welcher Verbuendeter sie gehalten hat — sie spuert die Wirkung, ordnet sie nicht zu (das tut sie in K39 oder spaeter im Gespraech).
+
+### Cross-POV-Konsistenz (PFLICHT-Pruefungs-Punkte)
+
+- **K37-Sz3 zu K38-Sz1:** Tableau-Geometrie identisch. Sorel vor Alphina, Maren neben Sorel, Vesper hinter ihnen, Varen in drei Schritt Abstand. Schemen unsichtbar in K37 + K38-Sz1; sie werden erst in K38-Sz2 sichtbar (Alphina hat sie nie gesehen, bevor sie zuschlugen).
+- **K37-Sz3 Cliffhanger zu K38-Sz2:** Sorel im Sprung, Klauen heben sich, Runa drei Schritt entfernt im Lauf. K38-Sz2 zeigt: Klauen treffen, Sorel stirbt, Runa kommt durch (Cross-POV-Doppelbeat).
+- **K30 Drei-Resonanzen-Kopplung:** Maren+Alphina+Vesper. K38-Sz4 spiegelt: Vesper+Maren+Runa (statt Alphina; Alphina ist die Gehaltene).
+- **K12 Schemen-Geruch (warmer Stein, Suesses):** Alphina erkennt den Geruch an Varen wieder. Tschechow-Echo.
+- **K12 Hand-an-Kinn-Geste (Sorel-Bericht):** Geste eingeloest aus null Distanz an Alphina selbst.
+- **K24 Lene Dahls TZ-154-Sprache:** Alphina erkennt das Sprach-Register als TZ-154-naher. Tschechow-Echo.
+- **K34-Anti-Schemen-Vorbereitung:** wirkungslos gegen Varens Live-Wirkung. Schiefgegangen.
+- **K35-Beziehungs-Etablierung Sorel:** Sorel hat sich vor Alphina gestellt (K30-Schwur, K35-Routine). K38: Schwur eingeloest mit Tod. K35-Naehe-Erinnerung darf in K38 NICHT als Innen-Glosse aufflackern (Memory `feedback_keine_kryptischen_meta_kommentare.md`); kommt erst in K39.
+
+### Welt-Konsistenz-Anker (Pflicht-Pruefungs-Punkte fuer /ausarbeitung)
+
+- **Monat:** 3. Dunkelmond 551 TZ. Header korrekt. Keine realweltlichen Monate.
+- **Masse:** Schritt, Daumen, Klafter (Boden gibt einen Daumen tief nach). Keine Meter, Zentimeter, Kilometer.
+- **Welt-Name:** Moragh wird in K38 NICHT genannt (Sorel-Prinzip). Erzaehler darf das Wort nicht verwenden, weil keine Figur es kennt.
+- **Tier-/Vogel-/Insekten-Ruhe:** Memory `00-canon-kompakt.md` Z.61 — keine Tiere, keine Insekten, keine Voegel in Moragh. Stille als Welt-Marker (kein Vogel-Ruf, keine Insekten-Stimmen). Plot-Anker: K38-Stille nach Sorels Tod ist Welt-Stille, nicht nur Schock-Stille — sie hatte vor dem Tod auch keine Tier-Stimmen gehoert.
+- **Kein Strom:** keine Lampen, keine Maschinen. Akkretionsscheibe ist Welt-Sonne, nicht Technik. Memory `00-canon-kompakt.md` Z.51.
+- **Schemen-Lautlosigkeit:** Memory `project_schemen_magie_modi.md`. Schemen-Bewegungen lautlos. Klauen-Schlag ist hoerbar nur durch Resultat (Stoff reisst, Knochen-Splitter); kein Tappen, kein Atem, kein Aufprall des Wesens selbst. Pflicht fuer /ausarbeitung.
+- **Quelle-Begriff:** Memory `feedback_quelle_kein_phaenomen_begriff.md`. Niemand sagt „Quelle" als Phaenomen-Begriff. Erzaehler nicht. Vesper nicht. Alphina nicht. Stattdessen: „Riss", „Schwelle", „Tor", „Mittelpunkt unter dem Stein".
+- **Resonanz-Begriff:** Memory `feedback_resonanz_nicht_benennen.md`. Erzaehler darf das Wort nicht verwenden. Alphina denkt „Wachstum", „Licht", „Zeit", „Wasser". Drei-Resonanzen-Wirkung wird im Plot-Beat als „drei Faeden", „drei Schichten", „dreifache Daempfung" benannt — niemals als „Resonanz".
+- **Currency:** kein Geld-Beat in K38. (Sicherheits-Pruefung: keine Solm/Stueber, kein Muenze-Wort.)
+- **Kleidung:** Wollmantel (Alphina), dunkler Mantel (Varen), Hemd (Sorel — wird im Klauen-Schlag aufgerissen). Keine Jacke. Keine Bluse.
+- **Anglizismen:** keine. Frühes 19. Jhd. Register. „Inferno" ist Latein-Ursprung, mehrhundertjaehrig im Deutschen — bleibt im Plot-Exposé moeglich, in /ausarbeitung pruefen, ggf. „Wuchern" / „Brand".
+- **Zwei Monde:** Memory `project_zwei_monde_moragh.md`. In Moragh erlaubt. Keine Erzaehler-Glossen ueber „zwei Monde im Gegensatz zu Vael" (das deutet die Leserin selbst).
+- **Augenfarben:** Memory `project_augenfarben_quellen_exposition.md`. Varens Augen sind Violett (stark Magie-begabt). In K38 sieht Alphina sie, ohne die Magie-Marker-Bedeutung zu deuten. Sub-Text fuer Leserin: stark Magie-begabt; sie versteht es spaeter.
+- **Sprach-Anker:** Wortlaut »Ihr gestattet«, »Eure Resonanz. Ich hab sie durch den Riss erspueret. Ueber vierhundert Jaehrlein.« — Plot-Anker. Pflicht-Inhalt fuer /ausarbeitung. Nicht als Erzaehler-Stil, sondern als Varen-Vokabel-Register.
+
+### Falls Wortzahl nicht passt
+
+- Wenn /ausarbeitung das untere Wortziel (4.500 W) nicht traegt: Sz1 verlaengern (zwei oder drei Saetze mehr Welt-Schock zwischen Boden-Beruehrung und Hand-an-Kinn). Sz2 ist KAYA-Disziplin und MUSS knapp bleiben. Sz3 traegt Volumen durch Verbuendeten-Verletzung-Zaehl-Beats.
+- Wenn 5.500 W ueberschritten: Sz3 kuerzen (Varen-Flucht-Mechanik bündig halten). Sz4 nicht kuerzen — der Schluss ist Bild-getragen, jeder Satz traegt.
+- Plot-Inhalt darf NICHT gekuerzt werden: Sorel-Tod-Geometrie, Licht-Sequenz, Wirbelsaeulen-Wurzel, Anti-Flora-Bluete-Schluss.
+
+### Heat-Level
+
+- **Sz1:** Schock + grenzwertig-sexuelle Halt-Beruehrung (KAYA + NORA). Koerper-Reaktion = Schock, nicht Begehren. Plot-Pflicht: Leserin hat Angst, dass er sie missbraucht; er tut es nicht. Grenze duenn.
+- **Sz2:** Schock + Gewalt + Tod ohne Sanitisierung (KAYA). Kein Heat. Pflicht-Disziplin Kuang.
+- **Sz3:** Magie-Kontrollverlust + Verbuendeten-Verletzung + Selbst-Verletzung (KAYA). Kein Heat. Pflicht-Disziplin: Trauma-Koerper.
+- **Sz4:** Trost ohne Romantik (KAYA + LINA-Disziplin: keine Romantasy-Reflexe). Runa haelt Alphina; das ist nicht Heat, das ist Trost. „Ich bin da" ist Druckerin-Stimme, keine Liebes-Stimme. Pflicht-Disziplin.
+
+### Aktive Council-Stimmen-Verteilung (Hinweis fuer /ausarbeitung)
+
+- **KAYA** dominiert das ganze Kapitel — sie ist die Pruefer-Stimme fuer Tod, Kontrollverlust, Trauma-Koerper, Verletzungs-Schuld. Alle vier Szenen.
+- **NORA** vor allem Sz1 (Varens kalkulierende Macht) und Sz3 (Varens Flucht ohne Reue, Sub-Text der gewonnenen Daten).
+- **MEIKE** vor allem Sz1 (Welt-Mit-Zaehnen, fremde Pflanzen, zwei Monde, dichte Luft, Geruchs-Trias) und Sz4 (Bild-Schluss, POV-Disziplin im Trost-Beat).
+
+### Tschechow-Ledger-Updates fuer Phase 8.1b (Vorlage)
+
+Bei `entwurf-ok` in `_tschechow-ledger.md` ergaenzen:
+
+- Varens Erstwahrnehmung Moragh-Steinplatz (suess-metallisch, warmer Stein, alte Sprache, Hand-an-Kinn) — Setup K38, Payoff B2/B3 fortlaufend
+- Halt-Beruehrung mit Drei-Resonanzen-Wirkung (Druck/Zeit/Energie) — Setup K38, Payoff B2-Captivity (Velmar-Halsband portable Variante) + B2-K13-Wiedersehen
+- Schock-Erregungs-Koerper-Reaktion bei Varen-Naehe — Setup K38, Payoff B2-K13/K37
+- Schemen-Geruch-Wiedererkennung (Varen riecht wie Schemen) — Setup K12+K38, Payoff B2 (Velmar-Beziehung zu Schemen)
+- Wirbelsaeulen-Wurzel + Wirbelsaeulen-Narbe lebenslang — Setup K38, Payoff B3-K40-Sub-Phase
+- Schwarz-rote Hand-Verfaerbung — Setup K38, Payoff B2-K26/K27 + B3-Akt-IV-Duell
+- Anti-Flora-Trauer-Form (schwarz-Dornen, blut-rote Blueten, Purpur-Staengel) — Setup K38, Payoff B2-Schlaf-Hain + B2-K27 + B2-K37 + B3-Akt-III
+- Schwarze Anti-Flora-Bluete bleibt (sinkt nicht, verdorrt nicht) — Setup K38, Payoff B2-Schlaf-Hain (Sorel-als-Baum)
+- Erste Wunde an Varens Gesicht seit Jahrzehnten — Setup K38, Payoff B2-K13 (verheilte Narbe)
+- „Nur aufbauen"-Grenze gebrochen — Setup K38, Payoff B2-K26/K27 (absichtliche Quellen-Toetung)
+- Reverse-Drei-Kopplung (drei Resonanzen halten eine vierte) — Setup K38, Payoff B2-Solo-Magie + B3-K38-Portal-Quelle
+- Runas Druckerin-Stimme »Ich bin da.« als Wortlaut-Anker — Setup K38, Payoff B3-K28-Wiederbegegnung
+- Plot-festgelegte Vokabel-Anker fuer alte Sprache (»Ihr gestattet«, »Jaehrlein«, »Fuhre«) — Setup K38, Payoff B2 (Sprach-Register-Wechsel als Macht-Geste)
+- Verbuendeten-Verletzungs-Schuld (Maren-Wade, Vesper-Schulter, Runa-Unterarm) — Setup K38, Payoff K39 (Trauer ohne Worte) + B2-K1-Wanderung + B2-K17-FWB
+
+Plus Plants, die in K38 abgefeuert werden (Status `geplant` → `abgefeuert`):
+
+- Sorels Schwur (K30): abgefeuert in K38-Sz2 (Sprung) + Tod
+- Sorels Lichtformung-Resonanz (K13/K21): abgefeuert in K38-Sz2 (letzter Lichtwurf)
+- Schemen-Geste-Echo K12 (Hand-an-Kinn): abgefeuert in K38-Sz1
+- Drei-Resonanzen-Kopplung K30: gespiegelt in K38-Sz4
+- K12 Heilung an Sorels Verband: gespiegelt in K38-Sz3 (Form ohne Heilung, Anti-Heilung)
+- K34 Anti-Schemen-Vorbereitung: abgefeuert als Resultat (wirkungslos)
+- K11/K33/K34 Vier-Kopplung-Tor: eingeloest auf Moragh-Seite
+- K12 „Im Kreis nichts wachst": eingeloest (Boden-Mechanik in K38 ist umgekehrt, Pflanzen wachsen DURCH organische Substanz)
+- K24 Lene Dahls TZ-154-Sprache: abgefeuert (Varen kommt aus dem Sprach-Register)
+- K30 Joran-Tod (Mantel-Anker, K37-Sz1-Trag-Wahl): hier nicht weiter gefeuert — Mantel wird nicht thematisiert
