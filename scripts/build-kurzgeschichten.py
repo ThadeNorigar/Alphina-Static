@@ -143,18 +143,23 @@ def render_html(geschichten):
         card = f'''
         <article class="kg-card" id="{slug_id}" data-kapid="{kapid}" data-comments-loaded="0">
           <header class="kg-head">
-            <div class="kg-date">{esc(g["datum"])}</div>
-            <h2 class="kg-titel">{esc(g["titel"])}</h2>
-            <div class="kg-meta">
-              <span>{esc(g["figuren"])}</span>
-              <span class="meta-sep">·</span>
-              <span>{esc(g["ort"])}</span>
-              <span class="meta-sep">·</span>
-              <span>{g["wortzahl"]} W</span>
+            <div class="kg-head-text">
+              <div class="kg-date">{esc(g["datum"])}</div>
+              <h2 class="kg-titel">{esc(g["titel"])}</h2>
+              <div class="kg-meta">
+                <span>{esc(g["figuren"])}</span>
+                <span class="meta-sep">·</span>
+                <span>{esc(g["ort"])}</span>
+                <span class="meta-sep">·</span>
+                <span>{g["wortzahl"]} W</span>
+              </div>
             </div>
+            <span class="kg-arrow">&#x203A;</span>
           </header>
-          <div class="kg-prosa">
-            {g["body_html"]}
+          <div class="kg-body">
+            <div class="kg-prosa">
+              {g["body_html"]}
+            </div>
           </div>
         </article>
         '''
@@ -195,13 +200,29 @@ def render_html(geschichten):
       background: var(--paper); color: var(--ink);
       border-radius: 2px;
       box-shadow: 0 0 0 1px var(--paper-edge), 0 4px 16px rgba(0,0,0,0.3);
-      margin-bottom: 2rem; padding: 2rem 2.5rem;
+      margin-bottom: 1rem;
+      overflow: hidden;
     }}
     .kg-head {{
-      margin-bottom: 1.5rem;
-      padding-bottom: 1rem;
-      border-bottom: 1px solid rgba(107,58,58,0.2);
+      display: flex; align-items: center; justify-content: space-between;
+      gap: 1rem;
+      padding: 1.2rem 2.5rem;
+      cursor: pointer; user-select: none;
+      transition: background 0.2s;
     }}
+    .kg-head:hover {{ background: rgba(107,58,58,0.03); }}
+    .kg-head.open {{ border-bottom: 1px solid rgba(107,58,58,0.2); }}
+    .kg-head-text {{ flex: 1; min-width: 0; }}
+    .kg-arrow {{
+      font-size: 1.2rem; color: var(--smoke);
+      transition: transform 0.3s; flex-shrink: 0;
+    }}
+    .kg-head.open .kg-arrow {{ transform: rotate(90deg); }}
+    .kg-body {{
+      max-height: 0; overflow: hidden;
+      transition: max-height 0.4s ease;
+    }}
+    .kg-body.open {{ max-height: 30000px; }}
     .kg-date {{
       font-family: 'Inter', sans-serif; font-size: 0.65rem;
       letter-spacing: 0.25em; text-transform: uppercase; color: var(--smoke);
@@ -219,6 +240,7 @@ def render_html(geschichten):
     .meta-sep {{ color: var(--smoke); margin: 0 0.4rem; }}
 
     .kg-prosa {{
+      padding: 1.5rem 2.5rem 2rem;
       font-family: 'Cormorant Garamond', Georgia, serif;
       font-size: 1.05rem; line-height: 1.75; color: var(--ink);
     }}
@@ -309,9 +331,9 @@ def render_html(geschichten):
     @media (max-width: 600px) {{
       body {{ padding: 2rem 0.8rem 4rem; }}
       .page-title {{ font-size: 1.8rem; margin-bottom: 2rem; }}
-      .kg-card {{ padding: 1.5rem 1.2rem; }}
+      .kg-head {{ padding: 1rem 1.2rem; }}
+      .kg-prosa {{ padding: 1rem 1.2rem 1.5rem; font-size: 1rem; }}
       .kg-titel {{ font-size: 1.3rem; }}
-      .kg-prosa {{ font-size: 1rem; }}
       .comment-trigger {{ right: -1.6rem; }}
     }}
   </style>
@@ -473,19 +495,38 @@ def render_html(geschichten):
       }}
     }});
 
-    // Comments fuer alle Cards laden (alle ausgeklappt sichtbar)
-    document.querySelectorAll('.kg-card').forEach(card => initCommentsForCard(card));
+    // Klapp-Toggle pro Card-Header — Comments lazy beim ersten Oeffnen
+    document.querySelectorAll('.kg-head').forEach(head => {{
+      head.addEventListener('click', () => {{
+        head.classList.toggle('open');
+        const card = head.closest('.kg-card');
+        const body = head.nextElementSibling;
+        if (body && body.classList.contains('kg-body')) {{
+          body.classList.toggle('open');
+          if (body.classList.contains('open') && card) {{
+            initCommentsForCard(card);
+          }}
+        }}
+      }});
+    }});
 
-    // Auto-scroll bei Hash
-    function scrollFromHash() {{
+    // Auto-Open per URL-Hash + Scroll
+    function openFromHash() {{
       const hash = window.location.hash;
       if (!hash || !hash.startsWith('#kg-')) return;
       const card = document.querySelector(hash);
       if (!card) return;
+      const head = card.querySelector('.kg-head');
+      const body = card.querySelector('.kg-body');
+      if (head && body && !body.classList.contains('open')) {{
+        head.classList.add('open');
+        body.classList.add('open');
+        initCommentsForCard(card);
+      }}
       setTimeout(() => card.scrollIntoView({{ behavior: 'smooth', block: 'start' }}), 50);
     }}
-    scrollFromHash();
-    window.addEventListener('hashchange', scrollFromHash);
+    openFromHash();
+    window.addEventListener('hashchange', openFromHash);
   </script>
 </body>
 </html>
