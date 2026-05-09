@@ -292,7 +292,7 @@ Aftercare-Klinik (Wasser/Tuch/Massage/Schachturm-Übergangs-Geste/Vesper-bleibt-
 
 - 1./2. Dunkelmond 551 TZ — direkt nach K34, vor K36/K37. Spätherbst.
 - Werkbank-Pendule mechanisch, kein 4:33-Drift.
-- Mandelöl in Vael (Hafenstadt, Mittelmeer-Handel): plausibel.
+- Mandelöl in Vael: BDSM-/Pflege-Canon (Memory `project_kein_olivenoel.md`). Olivenöl gibt es in Vael (Mittelmeer-Handel), wird im Sex-Kontext aber gemieden (Geruch).
 - Du-Stand: V/M Du seit K19/K20.
 - V/M-Wohnsitz: Marens Hafengasse-Wohnung mit Vespers Werkbank-Ecke (zeitleiste.json ZEITSPRUNG 12. Glutmond).
 - Schachturm seit Glutmond bei Maren in Hemdsaum-Geheimfach.
