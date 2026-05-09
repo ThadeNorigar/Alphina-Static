@@ -1,7 +1,7 @@
 ---
 typ: Kurzgeschichte (Würfel-Output)
 canon_status: Stil-Übung — kein Plot-Canon, keine Kaskade
-versteckt: false
+versteckt: true
 gezogen_am: 2026-05-08
 figuren: Runa, Nyr
 welt: Thalassien
