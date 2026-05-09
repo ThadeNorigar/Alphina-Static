@@ -185,10 +185,14 @@ Zentrales Tracking von Plant→Payoff-Beziehungen. **Single Source of Truth** f�
 | TZ-161 | Vespers Kapitulations-Beat „Mein Pendel rechnet nur den Takt — nicht das Drüben" | K34-Sz2 (geplant) | B2-K14 (Bund-Akten-Fund: Velmar-Forscher hat dieselbe Trennung), K38 (Tor-Dauer wird zur konkreten Frage) | geplant | Newton-Niveau, Stratege gibt Plan auf |
 | TZ-162 | Schachturm-Hemd-Geheimfach-Mikro-Geste V/M (Maren nennt es in Werkzeug-Liste, Vesper hebt Blick) | K34-Sz2 (geplant) | K35-Sz1 (Schachturm-Aufstellung als V/M-Initiations-Beat) | geplant | Yarros-Privat-Code-Variation zur Tee-Daumen-Geste |
 | TZ-142 | Schachturm-Initiation (umgekehrt zu K27) | K35 (geplant) | B2 (V/M-Trennung, Initiations-Pattern bricht ab) | geplant | Body-Anker im Hemd-Saum |
-| TZ-143 | 4:33-Standuhr-Takt im Ficken | K35 (geplant) | K37 (Ritual mit 4:33-Takt), B2/B3 (Vesper-Resonanz-Signatur körperlich integriert) | geplant | Ritual-Vorprägung über Körper |
+| TZ-143 | 4:33-Standuhr-Takt im Ficken | K35 (geplant) | — | verworfen | Online-Kommentar 06.05.: 4:33 KOMPLETT raus aus K35 (Penetrations-Takt nicht 4:33-verflochten, Werkbank-Pendule mechanisch). Cross-POV-Anker zu K11/K33 in K35 gestrichen. Ritual-Vorprägung über Körper entfällt. |
 | TZ-144 | „halt"-Wort (Sicherheits-Klausel etabliert) | K35 (geplant) | B2 (V/M-Trennungs-Code, optional) | geplant | Trigger-Wort, kann ungetriggert bleiben |
-| TZ-145 | Vesper kommt nicht in K35 (Service-Top-Disziplin) | K35 (geplant) | B2 (Trennungsschmerz potenziert) | geplant | Aufschub-Tschechow |
-| TZ-146 | Werkbank-Pendule 4:33-Takt | K35 (geplant) | K33, K35, B2 (Pendule bleibt in Vael) | geplant | Material-Anker für 4:33 |
+| TZ-145 | Vespers Orgasmus in K35 nicht erwähnt (Maren-POV-Disziplin, Augenbinde) | K35 (geplant) | B2 (Trennungsschmerz potenziert — Frage bleibt offen, Maren erinnert die Nacht ohne Auflösung) | geplant | POV-Disziplin statt Plot-Setzung; Maren ist Augen-verbunden, Erzähler folgt ihrer Wahrnehmung. Online-Kommentar-Refactor 06.05. |
+| TZ-146 | Werkbank-Pendule 4:33-Takt | K35 (geplant) | — | verworfen | Online-Kommentar 06.05.: Werkbank-Pendule schlägt mechanisch ohne Drift (1820 Uhrmacher-Handwerk, kein Magie-Effekt). Material-Anker für 4:33 entfällt. |
+| TZ-163 | Versprechen ohne sicheren Empfänger (Marens Sz1-Innenbeat beim Aufstellen des Turms — Routine-Geste mit Tor-Gewicht) | K35-Sz1 (geplant) | B2 (Maren-Solo in Moragh, Turm getragen ohne Aufstellen — Routine bricht ab, das Wissen-um-die-Nacht trägt durch) | geplant | Sub-Canon für B2-Maren-Solo, Charakterkern statt Aphorismus |
+| TZ-164 | Festhalten-niemand-löst — V/M-Schluss-Bild (beide nass, schwer atmend, ineinander verschlungen, niemand löst) | K35-Sz3 (geplant) | B2 (V/M-Trennung körperlich: das Bild dieser Nacht trägt durch die Trennung; Maren erinnert es als physische Geometrie, nicht als Gedanke) | geplant | Ersetzt Aftercare-Klinik komplett. Tor-Unterstrom verkörpert im Nichtloslassen. Tschechow für Trennungs-Echo |
+| TZ-165 | Handlungslosigkeit als Marens Wollen (Sub-Innenbeat: Unterschied zwischen Gehorchen und Wählen wird körperlich spürbar — Atemzug, Hand-Schließen) | K35-Sz2 (geplant) | B2 (Maren in Moragh allein, hält Aktiv-Wählen aufrecht ohne Vesper als Gegenüber) | geplant | Charakter-Kern Maren-Sub-Agency; Differenz zu K27 (erste Sub-Nacht) ist die Aktiv-Wahl |
+| TZ-166 | Anus-Berührung mit Aufschub-Klausel (außen, kreisend, ohne Eindringen — Marens *„Ich will."* als Sub-Agency-Marker) | K35-Sz3 (geplant) | B2/B3 (V/M-Wiederaufnahme oder Echo) | geplant | Aufschub-Tschechow; Mandelöl-Geste trägt minimale Verbalisierung |
 | TZ-147 | Steinkreis-Kuss am letzten Abend, Garten blüht | K36 (geplant) | (Schluss-Beat Akt IV) | geplant | Letzter Vael-Moment |
 | TZ-148 | Portal öffnet sich 4:33 | K37 (geplant) | (Setup für Buch-Strukturpunkt) | geplant | Einweg, Portal-Mechanik |
 | TZ-149 | Sorels Bündelung mit Verletzungs-Wirkung | K30, K32 | B2 (Sorel als Sonderwaffe) | abgefeuert (B1) / geplant (B2) | Sorels einzige Offensiv-Anwendung |
@@ -201,11 +205,11 @@ Zentrales Tracking von Plant→Payoff-Beziehungen. **Single Source of Truth** f�
 
 ## Statistik
 
-- **Plants gesamt:** 162
+- **Plants gesamt:** 166
 - **Davon abgefeuert (innerhalb B1):** 73
 - **Davon geladen (etabliert, warten auf Payoff):** 53
-- **Davon geplant (in Aktplan/Entwurf, noch nicht final):** 24
-- **Davon verworfen:** 0
+- **Davon geplant (in Aktplan/Entwurf, noch nicht final):** 26
+- **Davon verworfen:** 2 (TZ-143 + TZ-146 — beide K35-4:33-Plants nach Online-Kommentar-Refactor 06.05.2026)
 - **Verwaiste Plants (≥ 3 Kapitel ohne Wiederaufnahme bei `geladen`-Status):**
   - TZ-003 (Wetterfahne — seit K01, kein Payoff sichtbar)
   - TZ-004 (Laris-Roman — seit K01, atmosphärisch)

@@ -10,7 +10,7 @@ tageszeit: Spätabend, Garten zwei Stunden geschlossen
 monat: Lichtmond
 witterung: feuchte Wärme im Glashaus, draußen schon kühl
 begegnungs_anlass: Alphina arbeitet noch an Stecklingen; Vesper kommt durch die Glashaus-Tür, ohne anzukündigen
-akt_sets: 4.5 Deepthroat (Auftakt, Alphina kniend), 4.21 Doggystyle (Hauptakt, hart über den Pflanztisch), 4.40 In Anus ejakulieren (Schluss, Olivenöl aus dem Stecklings-Schälchen)
+akt_sets: 4.5 Deepthroat (Auftakt, Alphina kniend), 4.21 Doggystyle (Hauptakt, hart über den Pflanztisch), 4.40 In Anus ejakulieren (Schluss, Lindenblütenöl aus dem Stecklings-Schälchen)
 heat_level: explizit hardcore (MF, Vesper als Geber, Alphina nicht im Sub-Identitätsregister sondern Réage-konform mit „Ich will" — kein D/s-Verbal, aber harter Take ohne Tantra-Frame)
 laenge: ~1000 Wörter
 ---
@@ -21,7 +21,7 @@ laenge: ~1000 Wörter
 
 Im Glashaus war es zwei Stunden nach Sonnenuntergang noch warm. Die Petroleumlampe hing am Eisenrahmen über dem Pflanztisch, ihr Licht fiel gedämpft durch das Glas, das die Halle in zwei lange Reihen Pflanzen teilte. An der Westwand standen die Orchideen in Tontöpfen, weil sie das Spätlicht brauchten; die Farne im Schatten, weil sie es nicht vertrugen. Lebermoos in flachen Schalen am Boden, schon dunkel grün, eine Schale hatte sich seit Tagen über den Rand gewölbt.
 
-Alphina arbeitete am mittleren Pflanztisch. Vor ihr eine Reihe Tonschalen mit Stecklingen, daneben ein Schälchen Olivenöl, in das sie die Schnittkanten der Triebe tauchte, bevor sie sie in die Erde drückte. Bast in einer Tonsphäre rechts, Schere am Holz festgeklemmt mit der Spitze nach unten. Ihre Hände waren schmutzig bis an die Knöchel — feuchte Erde, Pflanzensaft, das fettige Glänzen vom Öl. Eine Strähne hatte sich aus dem Nackenknoten gelöst und klebte ihr an der Schläfe.
+Alphina arbeitete am mittleren Pflanztisch. Vor ihr eine Reihe Tonschalen mit Stecklingen, daneben ein Schälchen Lindenblütenöl, in das sie die Schnittkanten der Triebe tauchte, bevor sie sie in die Erde drückte. Bast in einer Tonsphäre rechts, Schere am Holz festgeklemmt mit der Spitze nach unten. Ihre Hände waren schmutzig bis an die Knöchel — feuchte Erde, Pflanzensaft, das fettige Glänzen vom Öl. Eine Strähne hatte sich aus dem Nackenknoten gelöst und klebte ihr an der Schläfe.
 
 Der Garten war seit zwei Stunden geschlossen. Sie hatte das Tor selbst abgesperrt, von außen nach innen, weil sie noch zwölf Stecklinge fertig machen wollte. Bei vier war sie. Sorel war seit Morgens nach Velde unterwegs.
 
@@ -71,7 +71,7 @@ Alphina kannte das Wort, das er hören wollte. Es war nicht „Schlampe". Es war
 
 Er stieß weiter, härter, ohne Pause. Eine Hand grub sich in ihre Hüfte, die andere fasste die gelöste Strähne, wickelte sie einmal um die Faust, hielt ihren Kopf an der Stelle, an der sie ihn hatte. Sie kam gegen den Pflanztisch, mit einem Atem, der die Bast-Faser unter ihrer Wange wegblies. Er stieß zwei Atemzüge länger, ließ die Welle ausklingen, dann hielt er still.
 
-Er zog sich heraus. Sie hörte ihn das Schälchen Olivenöl nehmen — sie hatte es vor zwei Stunden für die Stecklinge angerührt. Er fettete sich, langsam.
+Er zog sich heraus. Sie hörte ihn das Schälchen Lindenblütenöl nehmen — sie hatte es vor zwei Stunden für die Stecklinge angerührt. Er fettete sich, langsam.
 
 „Halt offen." Sie legte die rechte Hand an die eigene Pobacke, teilte sie. Vesper setzte die Spitze des Glieds an ihren Anus, drückte einen halben Zoll, hielt. Der Ring widersetzte sich, gab nach. Drei Stufen, jede gehalten. Bei voller Länge legte er beide Hände an ihre Hüften.
 
@@ -93,4 +93,4 @@ Er ging.
 
 ## Würfel-Notiz
 
-Welt: Thalassien. Ort: Vael — Botanischer Garten, Glashaus mittlere Halle, Pflanztisch. Tageszeit: Spätabend nach Werkschluss, Garten zwei Stunden geschlossen. Monat: Lichtmond. Witterung: feuchte Wärme im Glashaus, Petroleumlampe am Eisenrahmen. Figuren: Vesper Greve (m, Geber) + Alphina (f) — MF, kein Drittperson. Sorel auf Velde-Reise (gleicher Konsens-Anker wie Anker-Story, aber hier ohne explizite Vorab-Absprache — AU/Vorgriff zu B3-Epilog-Sub-Phase aus `pov/vesper.md`). POV: Alphina. Begegnungs-Anlass: Alphina an Stecklingen, Vesper kommt durch die Glashaus-Tür ohne Ankündigung. Akt-Sets: **4.5 Deepthroat** (zwischen Pflanztisch und Glaswand kniend, Speichel-Spur) → **4.21 Doggystyle** hart (über den Pflanztisch, Klatsch, ein Verbal-Marker „Sag es" / „Ich will dich" — Réage-konform Sub-Agency, NICHT Schlampen-Demütigung) → **4.40 In Anus ejakulieren** (Olivenöl aus dem Stecklings-Schälchen, drei Stufen, Cum drinnen, ohne Pfropfen). Heat-Level: explizit hardcore, aber Charakter-konsistent — Alphina ist nicht in Sub-Identitätsregister, nimmt aber den harten Take. Tschechow: schwarzer Schachturm in Vespers Tasche; Olivenöl-Schälchen für Stecklinge; Bast-Faden auf der Wange (wird zum Wisch-Tuch). Heat-Echo: Lebermoos im Topf neben Alphinas Kopf wölbt sich über den Rand — subtiler Pflanzen-Manifestations-Beat (alle Pflanzen im Garten reagieren leise, eine Pflanze sichtbar). ~1000 Wörter.
+Welt: Thalassien. Ort: Vael — Botanischer Garten, Glashaus mittlere Halle, Pflanztisch. Tageszeit: Spätabend nach Werkschluss, Garten zwei Stunden geschlossen. Monat: Lichtmond. Witterung: feuchte Wärme im Glashaus, Petroleumlampe am Eisenrahmen. Figuren: Vesper Greve (m, Geber) + Alphina (f) — MF, kein Drittperson. Sorel auf Velde-Reise (gleicher Konsens-Anker wie Anker-Story, aber hier ohne explizite Vorab-Absprache — AU/Vorgriff zu B3-Epilog-Sub-Phase aus `pov/vesper.md`). POV: Alphina. Begegnungs-Anlass: Alphina an Stecklingen, Vesper kommt durch die Glashaus-Tür ohne Ankündigung. Akt-Sets: **4.5 Deepthroat** (zwischen Pflanztisch und Glaswand kniend, Speichel-Spur) → **4.21 Doggystyle** hart (über den Pflanztisch, Klatsch, ein Verbal-Marker „Sag es" / „Ich will dich" — Réage-konform Sub-Agency, NICHT Schlampen-Demütigung) → **4.40 In Anus ejakulieren** (Lindenblütenöl aus dem Stecklings-Schälchen, drei Stufen, Cum drinnen, ohne Pfropfen). Heat-Level: explizit hardcore, aber Charakter-konsistent — Alphina ist nicht in Sub-Identitätsregister, nimmt aber den harten Take. Tschechow: schwarzer Schachturm in Vespers Tasche; Lindenblütenöl-Schälchen für Stecklinge; Bast-Faden auf der Wange (wird zum Wisch-Tuch). Heat-Echo: Lebermoos im Topf neben Alphinas Kopf wölbt sich über den Rand — subtiler Pflanzen-Manifestations-Beat (alle Pflanzen im Garten reagieren leise, eine Pflanze sichtbar). ~1000 Wörter.

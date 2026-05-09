@@ -25,7 +25,7 @@
 | Sz3 Cunnilingus MF (Lecken-Sequenz) | **4.19 Cunnilingus MF** | A (Position-Sicht) oder C (Material-Prozess) |
 | Sz3 Schwellen-Stopps zweimal | **4.20 Edging / Schwellen-Stopp** | B (Befehl) oder C (Material-Prozess) |
 | Sz3 Schamlippen geöffnet, Finger-Sequenz Klitoris→Damm | **4.4 Glied in Vulva (B)** als Material-Vorlage | B |
-| Sz3 Anus-Berührung mit Olivenöl, kreisend, ohne Eindringen | **4.1 Finger in Anus (C)** als Vorlage; in K35 NUR Außen-Berührung, kein Eindringen | C-Variante ohne Eindring-Beat |
+| Sz3 Anus-Berührung mit Mandelöl, kreisend, ohne Eindringen | **4.1 Finger in Anus (C)** als Vorlage; in K35 NUR Außen-Berührung, kein Eindringen | C-Variante ohne Eindring-Beat |
 | Sz3 Penetration vaginal, dreistufig | **4.4 Glied in Vulva (A)** | A |
 | Sz3 Marens Orgasmus explizit erzählt | **4.4 Glied in Vulva** (eingebunden) + 4.20 Schwellen-Disziplin | A |
 | Sz3 Vespers Orgasmus | **NICHT erwähnen** (POV-Disziplin) — kein Set |
@@ -37,7 +37,7 @@
 - **LINA** — emotionale Bogenführung der letzten Vael-Nacht, Tor-Unterstrom körperlich, female gaze.
 
 **Prosa-Skizze (Inspiration für /ausarbeitung — VOLLE Lese-Pflicht in Phase 1):**
-- `buch/kapitel/B1-K35-prosa-skizze.md` — frühere Plot-mit-Prosa-Vorgriff-Fassung. Enthält Material-Vorschläge (Olivenöl, Lederband mit Messingring, Hanf-Stricke, gedrechselte Bettpfosten mit Eisenringen, Augenbinde, Wolldecke), Mikro-Geometrie der Sex-Szene, Dialog-Wortlaut-Skizzen — direkt nutzbar. **Mehrere Drifts gegen aktuellen Plot-Stand sind im Skizze-Header dokumentiert** (Erst-Initiations-Bug, 4:33-Material veraltet, Karst-Endspiel-Beschreibung falsch, Tränen-Beat raus, Vesper-kommt-nicht-Linie raus, Aftercare entfällt). Plot-Entwurf gewinnt bei Konflikt.
+- `buch/kapitel/B1-K35-prosa-skizze.md` — frühere Plot-mit-Prosa-Vorgriff-Fassung. Enthält Material-Vorschläge (Mandelöl, Lederband mit Messingring, Hanf-Stricke, gedrechselte Bettpfosten mit Eisenringen, Augenbinde, Wolldecke), Mikro-Geometrie der Sex-Szene, Dialog-Wortlaut-Skizzen — direkt nutzbar. **Mehrere Drifts gegen aktuellen Plot-Stand sind im Skizze-Header dokumentiert** (Erst-Initiations-Bug, 4:33-Material veraltet, Karst-Endspiel-Beschreibung falsch, Tränen-Beat raus, Vesper-kommt-nicht-Linie raus, Aftercare entfällt). Plot-Entwurf gewinnt bei Konflikt.
 
 ---
 
@@ -117,7 +117,7 @@ Maren kommt von der Werft (eine Stunde am Boot, K34-Schluss-Beat *„warte auf m
 
 **Wortziel:** 1.300–1.500 W
 
-**Ort:** Schlafzimmer. Bett mit gedrechselten Pfosten, vier Eisenringe an den unteren Pfosten. Auf dem Wandregal vorbereitet: Lederband mit Messingring (Leseprobe-05-Werkzeug), Augenbinde aus Seide, zwei eingefettete Hanf-Stricke, kleines Glas mit Olivenöl. Drei Kerzen.
+**Ort:** Schlafzimmer. Bett mit gedrechselten Pfosten, vier Eisenringe an den unteren Pfosten. Auf dem Wandregal vorbereitet: Lederband mit Messingring (Leseprobe-05-Werkzeug), Augenbinde aus Seide, zwei eingefettete Hanf-Stricke, kleines Glas mit Mandelöl. Drei Kerzen.
 
 **Plot-Exposé:**
 
@@ -134,7 +134,7 @@ Vesper führt Maren auf Anweisung durch eine drei-Schritt-Choreographie: Hemd au
 
 **Tschechow-Waffen geladen Sz2:**
 - Lederband mit Messingring, eingefetteter Hanf, Augenbinde aus Seide: alle Réage-Werkzeuge in Stellung.
-- Olivenöl im Glas: bereit für Sz3.
+- Mandelöl im Glas: bereit für Sz3.
 - Maren komplett gefesselt: Position-Setup für Sz3 (Lecken, Penetration, Lösung-zur-Festhalten-Geste).
 - Maren-Innenbeat „Handlungslosigkeit als ihr Wollen" — Charakter-Kern für B2 (Maren in Moragh, allein, hält das Aktiv-Wählen aufrecht).
 
@@ -164,7 +164,7 @@ Vesper integriert seine Zeit-Resonanz in die Berührung — sehr langsame Bewegu
 
 Schamlippen-Daumen, Réage-Bestätigung („Du bist offen"). Finger-Sequenz zur Klitoris, Vulva-Öffnung, Damm, Anus.
 
-Olivenöl-Vorbereitung. Anus-Aufschub-Klausel **minimal verbalisiert** — Vespers Anweisung auf das Notwendige reduziert (Vorschlag: knapp drei Wörter, Rest durch Olivenöl-Geste tragen). Marens aktive Zustimmung *„Ich will."* bleibt — Sub-Agency-Marker. Anus-Berührung außen, kreisend, ohne Eindringen, bis Maren sich entspannt — die Entspannung kostet sie etwas, ist nicht „sauber".
+Mandelöl-Vorbereitung. Anus-Aufschub-Klausel **minimal verbalisiert** — Vespers Anweisung auf das Notwendige reduziert (Vorschlag: knapp drei Wörter, Rest durch Mandelöl-Geste tragen). Marens aktive Zustimmung *„Ich will."* bleibt — Sub-Agency-Marker. Anus-Berührung außen, kreisend, ohne Eindringen, bis Maren sich entspannt — die Entspannung kostet sie etwas, ist nicht „sauber".
 
 **Lecken.** Sequenz: äußere Schamlippen, innere Schamlippen, Klitoris, Vulva-Öffnung. Erste Welle steigt — Vesper stoppt. Marens Atem wird gepresst, ohne Bewegung. Sie zwingt den Atem flacher, die Welle geht zurück. Zweite Welle, Maren stöhnt lauter, Vesper stoppt zum zweiten Mal. Schwellen-Disziplin Réage. Maren drückt mit den Hüften gegen die Schwelle; sie nimmt sie nicht hin, sie trägt sie aktiv.
 
@@ -270,7 +270,7 @@ Aftercare-Klinik (Wasser/Tuch/Massage/Schachturm-Übergangs-Geste/Vesper-bleibt-
 ### Heat-Kalibrierung (Positioning §3.3 vollausgeschöpft)
 
 - Power-Exchange aktiv und benannt.
-- Material-Präzision (Werkzeuge, Knoten, Bett-Geometrie, Olivenöl).
+- Material-Präzision (Werkzeuge, Knoten, Bett-Geometrie, Mandelöl).
 - Anatomie direkt (siehe Anatomie-Notiz oben).
 - Dom-Stimme als erklärte Funktion, *minimal* verbalisiert (keine Verträge).
 - Sub-POV psychologisch tief (Marens Innenleben, eigene Wahl, Tor-Reibung körperlich-pragmatisch).
@@ -292,7 +292,7 @@ Aftercare-Klinik (Wasser/Tuch/Massage/Schachturm-Übergangs-Geste/Vesper-bleibt-
 
 - 1./2. Dunkelmond 551 TZ — direkt nach K34, vor K36/K37. Spätherbst.
 - Werkbank-Pendule mechanisch, kein 4:33-Drift.
-- Olivenöl in Vael (Hafenstadt, Mittelmeer-Handel): plausibel.
+- Mandelöl in Vael (Hafenstadt, Mittelmeer-Handel): plausibel.
 - Du-Stand: V/M Du seit K19/K20.
 - V/M-Wohnsitz: Marens Hafengasse-Wohnung mit Vespers Werkbank-Ecke (zeitleiste.json ZEITSPRUNG 12. Glutmond).
 - Schachturm seit Glutmond bei Maren in Hemdsaum-Geheimfach.
@@ -334,6 +334,6 @@ Aftercare-Klinik (Wasser/Tuch/Massage/Schachturm-Übergangs-Geste/Vesper-bleibt-
 - R2 (war: Sz4 „Stolz als Schwere") — **entfällt** (Sz4 fällt).
 - R3 (Sz3-Mitte „bemerkt es, hält es") — **bleibt:** Wahrnehmungs-Fragment, max 2 Sätze, ohne „bemerkt"/„hält". Körper macht, Vesper registriert ohne Bewertung.
 - R4 (Sz3-Mitte zweites Begehren-Detail) — **bleibt und im Plot-Exposé verankert** (unterdrückter Vorbeug-Reflex).
-- R5 (Anus-Aufschub-Verbatim) — **bleibt offen für /ausarbeitung-Start.** Vorschlag: nur Marens *„Ich will."*, alles andere durch Olivenöl-Geste tragen, Vespers Verbatim-Ansage so knapp wie möglich (z.B. nur die Berührung kommentiert, kein Vertrag).
+- R5 (Anus-Aufschub-Verbatim) — **bleibt offen für /ausarbeitung-Start.** Vorschlag: nur Marens *„Ich will."*, alles andere durch Mandelöl-Geste tragen, Vespers Verbatim-Ansage so knapp wie möglich (z.B. nur die Berührung kommentiert, kein Vertrag).
 - R6 (Tor-Marker-Kumulation) — **entschärft:** statt drei Tor-Markern jetzt zwei (Hüften ins Nichts + Festhalten-Schluss). Tränen weg. Wärme-fehlt weg.
 - R7 (Magie-Kosten-Marker Formulierungs-Pflicht) — **bleibt:** keine „Magie-Erschöpfung"-Formulierung.

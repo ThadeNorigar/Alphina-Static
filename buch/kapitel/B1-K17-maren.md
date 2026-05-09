@@ -156,7 +156,7 @@ Unter ihren Händen, parallel zur Planke: das Bild hielt an. Nicht laut, nicht d
 
 Sie arbeitete bis zum späten Nachmittag. Das Licht im Schuppen wurde flach, der Geruch der alten Werkzeuge wurde schwerer, Edric war eine Stunde vor ihr weg.
 
-Am Abend ging sie an den Steg. Die Grauwe mündete hier in die Bucht, brackig, olivgrün, das Wasser stand so, wie es jeden Abend um diese Zeit stand, die Flut kam langsam. Zwei Möwen schrien weit draußen, ein Kutter lag am anderen Ufer, ein Schiffsmann zog Taue ein, die sich im Licht hob und senkte.
+Am Abend ging sie an den Steg. Die Grauwe mündete hier in die Bucht, brackig, tanggrün, das Wasser stand so, wie es jeden Abend um diese Zeit stand, die Flut kam langsam. Zwei Möwen schrien weit draußen, ein Kutter lag am anderen Ufer, ein Schiffsmann zog Taue ein, die sich im Licht hob und senkte.
 
 Sie setzte sich auf die letzte Planke, die Füße über der Kante. Die Stiefel hingen zwei Fingerbreit über der Wasserfläche. Das Wasser unter dem Steg stand einen Moment ruhig. Dann, ohne dass sie den Blick darauf gerichtet hatte, zog sich eine kleine Mulde unter ihrer linken Sohle, ein handbreiter Sog gegen die Strömung der einlaufenden Flut, kaum sichtbar, der sich einen Augenblick hielt und dann wieder glatt wurde. Das Wasser antwortete ihr, bevor sie gefragt hatte.
 

@@ -21,7 +21,7 @@ Beim Schreiben gilt der Plot-Entwurf-Stand. Bei Konflikt zwischen Skizze und Plo
 **Lade-Anweisung für `/ausarbeitung`:**
 
 - Diese Datei ist **optionale Inspirations-Quelle** — kein Diktat.
-- **Material-Setzungen** (Olivenöl, Lederband mit Messingring, eingefettete Hanf-Stricke, gedrechselte Bettpfosten mit Eisenringen, Augenbinde aus dunkler Seide, dunkelgrüne Wolldecke, Werkbank-Pendule mit 4:33-Drift): Vorschläge — können übernommen oder ersetzt werden, sofern Plot-Anker (Schachturm-Geheimfach im Hemdsaum, halt-Wort-Klausel, zweimaliges Stoppen vor Orgasmus, Vesper kommt nicht, Schachturm-Geste in der Aftercare) erhalten bleiben.
+- **Material-Setzungen** (Mandelöl, Lederband mit Messingring, eingefettete Hanf-Stricke, gedrechselte Bettpfosten mit Eisenringen, Augenbinde aus dunkler Seide, dunkelgrüne Wolldecke, Werkbank-Pendule mit 4:33-Drift): Vorschläge — können übernommen oder ersetzt werden, sofern Plot-Anker (Schachturm-Geheimfach im Hemdsaum, halt-Wort-Klausel, zweimaliges Stoppen vor Orgasmus, Vesper kommt nicht, Schachturm-Geste in der Aftercare) erhalten bleiben.
 - **Wörtliche Dialog-Skizzen** sind nicht bindend — Tonfall der finalen Prosa kommt aus den Ton-Referenz-Leseproben (05 primär, 04 + 06 sekundär), nicht aus der Skizze.
 - **Mikro-Geometrie-Vorschläge** (Drehung-auf-Stelle, Bückung mit Händen-zum-Boden, Lecken-Sequenz Hals→Bauch→Schenkel→Vulva, drittes Mal Penetration während Welle steigt): tragen als Choreographie. Können beibehalten oder rhythmisch neu gesetzt werden.
 - **Bei Konflikt mit Plot-Entwurf:** Plot-Entwurf gewinnt. Skizze kann hier divergieren — sie ist älter.
@@ -108,7 +108,7 @@ Beim Schreiben gilt der Plot-Entwurf-Stand. Bei Konflikt zwischen Skizze und Plo
 
 **Wortziel:** 1.300–1.500 W
 
-**Ort:** Vespers Wohnzimmer, weiter. Maren steht in der Mitte des Raums, das Hemd an, die Füße nackt. Vesper steht zwei Schritte hinter ihr; sie hört ihn dort atmen, nicht laut, gleichmäßig. Drei Kerzen brennen, das Licht warm und niedrig. Auf dem Bett liegt eine dunkelgrüne Wolldecke, glatt gezogen. Auf dem Wandregal über dem Bett: ein Lederband (zwei Finger breit, mit Messingring — dasselbe wie aus Leseprobe 05, Vespers etabliertes Werkzeug), eine Augenbinde aus Seide (dunkel, dreifach gefaltet bereit), zwei Stricke aus weichem Hanf (eingefettet, glatt — keine Reibung an der Haut), ein kleines Glas mit Olivenöl. Alles in einer Linie, vorbereitet.
+**Ort:** Vespers Wohnzimmer, weiter. Maren steht in der Mitte des Raums, das Hemd an, die Füße nackt. Vesper steht zwei Schritte hinter ihr; sie hört ihn dort atmen, nicht laut, gleichmäßig. Drei Kerzen brennen, das Licht warm und niedrig. Auf dem Bett liegt eine dunkelgrüne Wolldecke, glatt gezogen. Auf dem Wandregal über dem Bett: ein Lederband (zwei Finger breit, mit Messingring — dasselbe wie aus Leseprobe 05, Vespers etabliertes Werkzeug), eine Augenbinde aus Seide (dunkel, dreifach gefaltet bereit), zwei Stricke aus weichem Hanf (eingefettet, glatt — keine Reibung an der Haut), ein kleines Glas mit Mandelöl. Alles in einer Linie, vorbereitet.
 
 **Beats (sachliches Exposé, Maren-POV):**
 
@@ -155,7 +155,7 @@ Beim Schreiben gilt der Plot-Entwurf-Stand. Bei Konflikt zwischen Skizze und Plo
 - **Lederband mit Messingring** — Réage-Material aus Leseprobe 05. Hier in voller Sex-Szene aktiv eingesetzt.
 - **Eingefettetes Hanf-Seil** — Material-Vorbereitung Vespers; er hat sich vorbereitet, was Care-Beat ist.
 - **Augenbinde aus Seide** — Réage-Standardwerkzeug.
-- **Olivenöl im kleinen Glas** — vorbereitet für Sz3 (Anus-Vorbereitung — Material-Präzision Réage).
+- **Mandelöl im kleinen Glas** — vorbereitet für Sz3 (Anus-Vorbereitung — Material-Präzision Réage).
 - **Maren komplett gefesselt** — feuert in Sz3 (Lecken, Ficken aus dieser Position).
 
 **Tschechow-Waffen abgefeuert Sz2:**
@@ -197,7 +197,7 @@ Beim Schreiben gilt der Plot-Entwurf-Stand. Bei Konflikt zwischen Skizze und Plo
 - *„Ja."*
 - *„Gut."*
 - Er nahm einen Daumen weg, nahm den Zeigefinger der rechten Hand, fuhr einmal langsam von oben nach unten zwischen den inneren Schamlippen — vorbei an der Klitoris (sie spürte den Druck dort, nur einen Augenblick, dann ging der Finger weiter), an der Vulva-Öffnung, weiter nach hinten, zum Damm, zum Anus. Er hielt am Anus.
-- Sie hörte das Knacken — er nahm das Glas mit Olivenöl vom Regal (oder vom Nachttisch — sie wusste nicht, sie sah nichts), öffnete den Korken, tauchte den Finger ein. Ein einzelner Geruch, oliv-erdig.
+- Sie hörte das Knacken — er nahm das Glas mit Mandelöl vom Regal (oder vom Nachttisch — sie wusste nicht, sie sah nichts), öffnete den Korken, tauchte den Finger ein. Ein einzelner Geruch, mandelig-warm.
 - *„Ich werde dich hier nicht öffnen heute. Aber ich werde dich anfassen. Wenn du nicht willst, sag es jetzt."*
 - Maren überlegte einen Atemzug. Sie hatte über diese Stelle nie nachgedacht, in der Werft-Welt, in der Sub-Welt, mit Vesper oder ohne. Heute Nacht war ein Raum, der nicht in der Werft-Welt existierte. Sie sagte:
 - *„Ich will."*
@@ -231,7 +231,7 @@ Beim Schreiben gilt der Plot-Entwurf-Stand. Bei Konflikt zwischen Skizze und Plo
 **Dialog-Informationen Sz3:**
 - *Réage-Klinik:* Kein Schaft, keine Muschi, kein Euphemismus. *Vulva, Klitoris, Schamlippen, Eichel, Anus, Damm, Brustwarzen* — alle direkt benannt.
 - *Stopp-vor-Orgasmus zweimal:* Réage-Schwellen-Disziplin, Vesper-POV-erklärt als *„die Schwelle ist der Ort, an dem das Wollen lebt"*.
-- *Anus-Berührung mit Olivenöl, kreisend, ohne Eindringen:* präzise umrissen, mit *halt*-Wort-Klausel und *„heute nicht öffnen"*-Aufschub.
+- *Anus-Berührung mit Mandelöl, kreisend, ohne Eindringen:* präzise umrissen, mit *halt*-Wort-Klausel und *„heute nicht öffnen"*-Aufschub.
 - *Penetration mit Klitoris-Reiben:* gleichzeitig, gleicher Takt.
 - *Vesper kommt nicht:* Disziplin, Réage-Service-Top.
 - *Standuhr-Takt 4:33:* Vesper fickt im Takt seiner eigenen Resonanz-Signatur. Subtiler Cross-POV-Anker für K33.
@@ -348,7 +348,7 @@ Beim Schreiben gilt der Plot-Entwurf-Stand. Bei Konflikt zwischen Skizze und Plo
 ### Heat-Kalibrierung (Positioning §3.3 vollausgeschöpft)
 
 - Power-Exchange aktiv und benannt.
-- Material-Präzision (jede Fessel, jeder Knoten, Olivenöl, Bett-Pfosten gedrechselt).
+- Material-Präzision (jede Fessel, jeder Knoten, Mandelöl, Bett-Pfosten gedrechselt).
 - Anatomie direkt.
 - Dom-Stimme als Funktion.
 - Sub-POV psychologisch tief.
@@ -382,7 +382,7 @@ Beim Schreiben gilt der Plot-Entwurf-Stand. Bei Konflikt zwischen Skizze und Plo
 - **Vespers Wohnung über der Uhrmacherei am Marktplatz** = Canon-Annahme (POV-Dossier Vesper prüfen).
 - **Bett mit gedrechselten Pfosten oben und unten** = Canon-Vorschlag für die Wohnung; falls anderes Bett-Design Canon ist, anpassen.
 - **Wohnungstüren im 1820-Vael:** Schlüssel mit Riegel, plausibel.
-- **Olivenöl-Verfügbarkeit in Vael:** Plausibel (Hafenstadt, Mittelmeer-Handel).
+- **Mandelöl-Verfügbarkeit in Vael:** Plausibel (Hafenstadt, Mittelmeer-Handel).
 - **Vespers Tasche links/rechts:** K27-Canon hat *linke* Rocktasche für Schachturm. Ich habe in Sz4 *linke* eingehalten. Konsistent.
 
 ### Aktplan-Abgleich
@@ -418,6 +418,6 @@ Beim Schreiben gilt der Plot-Entwurf-Stand. Bei Konflikt zwischen Skizze und Plo
 2. **Bett mit gedrechselten Pfosten** — Canon-Vorschlag. Andere Bett-Designs möglich.
 3. **Marens Schreien beim Orgasmus** — leise, einmalig. Falls Autor stärkeres Ausagieren wünscht: anpassbar.
 4. **Vesper kommt nicht** — Réage-Disziplin-Lesart. Falls Autor will, dass Vesper nach ihr kommt (im Stillstand in ihr): einfügbar.
-5. **Olivenöl als Anus-Material** — historisch plausibel (1820, Hafenstadt). Alternativen: Mandelöl, Walnussöl. Préférenz?
+5. **Mandelöl als Anus-Material** — historisch plausibel (1820, Hafenstadt). Alternativen: Mandelöl, Walnussöl. Préférenz?
 6. **Standuhr-Takt 4:33 im Ficken** — Cross-POV-Anker zu K11/K33. Falls zu meta/zu auffällig: streichen, dann nur als ambient Geräusch.
 7. **Schluss-Satz** — Vorschlag oben. Alternative: *„Sie schliefen ineinander, drei-vier-drei."* — emotionaler. Préférenz?

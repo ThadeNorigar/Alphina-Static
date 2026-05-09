@@ -105,7 +105,7 @@ Der kleine Splitter liegt zwischen ihren Fingern. Diese Hand hat in dreißig Jah
 
 Sie arbeitet weiter, langsamer. Die Planke wird sauber. Edric kommt gegen drei zurück, ruft ein Wort, sie ruft zurück, kein Augenkontakt — Werftarbeit. Der Nachmittag geht.
 
-Am späten Nachmittag, als das Licht im Hafen flacher wird, tritt sie an den offenen Seerand. Die Grauwe mündet hier, brackig, olivgrün. Sie schaut hin, nach nichts Bestimmtem. In drei Tagen muss sie die Uhr holen. In drei Tagen wird sie die Messingklinke des *Anker* wieder drücken, durch denselben Schankraum gehen, und dieser Mann wird aufblicken. Sie weiß jetzt — als Tatsache, wie sie weiß wann ein Boot im Wasser liegt —, dass ihr Körper in drei Tagen nicht weniger wollen wird. Eher mehr. Sie dreht sich um und geht zurück zum Boot.
+Am späten Nachmittag, als das Licht im Hafen flacher wird, tritt sie an den offenen Seerand. Die Grauwe mündet hier, brackig, tanggrün. Sie schaut hin, nach nichts Bestimmtem. In drei Tagen muss sie die Uhr holen. In drei Tagen wird sie die Messingklinke des *Anker* wieder drücken, durch denselben Schankraum gehen, und dieser Mann wird aufblicken. Sie weiß jetzt — als Tatsache, wie sie weiß wann ein Boot im Wasser liegt —, dass ihr Körper in drei Tagen nicht weniger wollen wird. Eher mehr. Sie dreht sich um und geht zurück zum Boot.
 
 **Dialog-Informationen:**
 - Keine Figur außer Maren (Edric: ein Wort, kein Inhalt)
