@@ -85,6 +85,16 @@ Aus Council v4 (95% bestanden) eingearbeitete Marker — alle direkt im Entwurf 
 
 14. **Schlüsselbein-Verbot außerhalb erotischer Szenen:** K38 ist Schock, kein Heat. Keine Schlüsselbein-Referenzen. (Memory `feedback_kein_schlüsselbein.md`)
 
+15. **Ausnahmezustand-Pflicht (Plot-Korrektur 2026-05-10):** Sorel ist gerade gestorben — alle drei (Vesper, Maren, Runa) sind im Schock, Adrenalin, Panik. **KEINE Werft-Ruhe, KEINE kontrollierte Choreographie, KEIN ruhiges Hand-Auflegen.** Plot-Pflicht: alle Aktionen dramatisch, dicht, getrieben. Sie kämpfen darum, Alphina zurückzuholen.
+
+16. **Vesper packt Alphina (NICHT nur Hand-Auflegen, Plot-Korrektur 2026-05-10):** Vesper stürzt zu Alphina, halb laufend halb hinkend, Schulter blutet — **packt sie von hinten, beide Arme um den Brustkorb, presst sich gegen ihren Rücken**, hält mit ganzer Kraft. Mund an ihrem Ohr, **intensiv, wörtlich** — Befehle, Bitten, ihren Namen (3-5 kurze Sätze, gehetzt, kein Pathos). Erst beim Festhalten setzt seine Zeit-Resonanz ein, **panisch ausgelöst, nicht kontrolliert**. B3-K40-Sub-Vorlauf: Festhalten als Lebensretter-Akt, intensiv körperlich nahe.
+
+17. **Maren-Wasser-Entzug im Schock (Plot-Korrektur 2026-05-10):** kein Werft-Ruhe-Akt — Maren fällt drei Schritt entfernt auf die Knie (Wade-Wunde merkt sie nicht), Handflächen auf Stein, **zieht das Grundwasser mit zitternder Schock-Kraft**. Verzweiflung statt Disziplin.
+
+18. **Runa-Festhalten Stirn-an-Stirn (Plot-Korrektur 2026-05-10):** rennt durch schrumpfende Pflanzen (Brombeer-Schnitte öffnen sich beim Lauf, Blut auf Ärmeln — sie merkt es nicht). **Wirft sich auf Alphina und Vesper, presst sich an Alphinas Seite, Stirn an Stirn**, beide Hände auf Alphinas Wangen, lässt Wärme durch. KEIN „packt sie von hinten" (das macht Vesper) — sondern Stirn-an-Stirn-Position. Drei Körper umfassen Alphina (Vesper hinten, Runa seitlich vorne, Maren krabbelt heran).
+
+19. **Runas »Ich bin da« gehetzt, fast geschrien (Plot-Korrektur 2026-05-10):** kein ruhiger Anker, sondern verzweifelter Lebensretter-Ruf im Ausnahmezustand. Stimme bricht.
+
 ## Cross-POV-Anker (kritisch)
 
 - **K37-Cliffhanger (Runa-POV, Sz3):** Sorel im Sprung/Schubsen, Klauen heben sich, Runa im Lauf brüllend. 
