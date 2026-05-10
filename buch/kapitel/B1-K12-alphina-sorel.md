@@ -315,3 +315,17 @@ Er hob die Kamera vom Boden, langsam, mit der rechten Hand. Das Stativ stand zwi
 Zwischen ihm und Alphina, auf dem Streifen Holz auf der Bank, der unberührt geblieben war, lag jetzt mehr als ein Handbreit. Ihre rechte Hand ruhte auf ihrem Knie. Ihre linke ruhte auf seinem — auf seinem Knie — warm durch den Hosenstoff. Er hatte erst spät bemerkt, wann sie sie dorthin gelegt hatte, weil sein ganzer Körper auf die drei Silhouetten gerichtet war, und er beschloss, die Hand auf dem Knie nicht zu sehen. Sehen hätte sie wegnehmen können.
 
 Auf der Mauer hockten die drei. Sie sah die Augen zuerst. Er sah den Rauch.
+
+Sie blieben sitzen, bis das Mondlicht ein Stück weitergewandert war und die drei Silhouetten ohne erkennbaren Schritt verschwunden waren — sie hockten, dann hockten sie nicht mehr. Sorel ließ die Kamera sinken. Er hatte zwei Platten verbraucht.
+
+Sie standen auf, ohne ein Wort. Er klappte das Stativ ein, schlang den Riemen der Kamera quer über die Schulter. Sie ging zum Hauptweg voran. An der dritten Farngruppe, links vom Weg, hatte Henrik vor Wochen einen kleinen Steinhaufen aus den Beet-Grabungen liegen gelassen. Ein Kiesel lag obenauf — faustgroß, glatt, dunkel, mit einem dünnen Hellgrau-Faden an einer Seite, der im Mondlicht aussah, als hätte ihn jemand absichtlich hineingezeichnet. Sie hatte ihn schon dreimal gesehen und immer liegen gelassen. Heute hob sie ihn auf.
+
+Am grünen Tor blieb Sorel stehen, während sie den Schlüssel aus der Innenfalte zog.
+
+»Wenn ich gehe«, sagte er, »darf ich etwas mitnehmen? Etwas, an das ich mich an Sie erinnern kann.«
+
+Sie öffnete die Hand. Der Kiesel lag in ihrer Handfläche, kühl gegen die Haut. Sie reichte ihn ihm hinüber.
+
+Er nahm ihn, drehte ihn einmal zwischen den Fingern, prüfte das Gewicht, fand die helle Linie. »In der rechten Hosentasche«, sagte er. »Da werde ich ihn tragen.«
+
+Sie schloss das Tor hinter ihm. Die Kies-Schritte verklangen Richtung Klippenstraße.

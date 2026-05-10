@@ -47,7 +47,7 @@
 **Sz3 (Begraebnis):**
 9. Erd-Bewegungs-Mechanismus = Wurzelnetz (NICHT direkte Erd-Magie): Wurzeln zucken am Rand vor Mund-Bild
 10. Aufladungs-Brueckenbeat: Wurzel-Netz reagiert leichter als erwartet (kein inneres Magie-Management)
-11. Kiesel-Erinnerungs-Anker: Henriks Garten, Morgenlicht, Wurzelgrube, Sorel hebt ihn ohne Worte (drei bis vier Saetze sensorisch)
+11. Kiesel-Erinnerungs-Anker (RUECKWIRKEND in K12 verankert 2026-05-10 — Geschenk-Beat, NICHT beilaeufige Aufnahme): Alphina greift gezielt in Sorels rechte Hosentasche, weil sie es weiss — er hat es ihr in K12 selbst gesagt: »In der rechten Hosentasche. Da werde ich ihn tragen.« Erinnerung: gruenes Tor in Henriks Garten, Mondlicht, Sorels Frage »Darf ich etwas mitnehmen, an das ich mich an Sie erinnern kann?«, sie reicht ihm den Kiesel mit Hellgrau-Faden, sein Daumen findet die helle Linie. Drei bis vier Saetze sensorisch (Mondlicht, Kies-Schritte am Tor, Hellgrau-Linie unter seinem Daumen). KEINE Glosse („sie hatte ihm das Wichtigste gegeben"). Identifikations-Detail beim Token-Fund: der Hellgrau-Faden — sie erkennt ihn sofort.
 12. Runas Waerme als gefuehrter Care-Beat: Haende auf Schultern, Waerme durch Hemd-Gewebe, drei Saetze minimum, sie schuettelt nicht ab und sucht nicht
 
 **Sz4 (Wandlung + Hass-Satz + Aufbruch):**
@@ -66,11 +66,13 @@
 - »Wir suchen ihn und vernichten ihn.« als woertlicher Satz (Plot-Anker, Pflicht-Inhalt)
 - Pflicht-Streichungen aus dem Entwurf befolgen (siehe Vorgaben 17 + Mantel-Tasche-Korrektur)
 
-## Pflicht-Folgen NACH /ausarbeitung (separate Sessions)
-1. K12-Mikro-Beat: Sorel hebt Kiesel aus Henriks Garten auf, ohne Worte (1-2 Saetze in `buch/kapitel/12-alphina.md` an passender Stelle)
-2. `pov/alphina.md` Z.156 + Z.162-164 korrigieren: Grab im Hain (nicht am Steinplatz), ein Token (Kiesel) statt drei Dinge, kein Dravek-Ziel in K39
-3. `pov/alphina.md` Modus-Tabelle: Eintrag „Erd-Bewegung via Wurzelnetz im Boden" als neuer Modus
-4. `buch/zeitleiste.json` neues Event: B3-Akt-IV-Grab-Besuch (Alphina + Vesper + Runa, Maren ist seit ~70 Jahren tot, weisse Blueten als aktiver Versoehnungs-Akt, Kiesel-Rueckgabe)
+## Pflicht-Folgen — ALLE 2026-05-10 ERLEDIGT
+1. ✓ K12-Geschenk-Beat: ~200 W am K12-Schluss eingebaut (`buch/kapitel/B1-K12-alphina-sorel.md`). Sorel fragt am gruenen Tor »Darf ich etwas mitnehmen?«, Alphina hebt einen besonderen Kiesel auf (faustgross, glatt, dunkel, Hellgrau-Faden), gibt ihn ihm, Sorel sagt »In der rechten Hosentasche. Da werde ich ihn tragen.«
+2. ✓ `pov/alphina.md` Z.156 korrigiert (Grab im Hain, ein Token, kein Dravek-Ziel)
+3. ✓ `pov/alphina.md` Modus-Tabelle erweitert: „Wurzelnetz zurueckziehen (Erd-Bewegung indirekt)" als neuer Modus
+4. ✓ `pov/alphina.md` Tschechow-Liste erweitert: Sorel-Token-Eintrag (K12 Geschenk → K39 Entnahme → B3 Rueckgabe)
+5. ✓ `buch/zeitleiste.json` neues Event: B3-K37b „Grab-Besuch im Hain — Versoehnungs-Akt + Kiesel-Rueckgabe" (mz 10.49, nach Varen-Todesstoss, vor Portal-Finale; drei plus Alphina, Maren ist seit ~70 Jahren tot)
+6. ✓ Tschechow-Ledger TZ-236 + TZ-239 mit Geschenk-Beat-Details aktualisiert
 
 ## Plot-Council-Notiz (Autor-Override)
 LINA gab 78% (Romantasy-Stimme zu hoch gewichtet fuer Trauer-Kapitel; KAYA+MEIKE Disziplin-Stimmen). Drei LINA-Findings vor Override eingearbeitet (Verlust-Atem, Runa-Waerme, Mission-Koerper-Preis). Plot traegt canon-sicher.

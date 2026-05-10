@@ -55,6 +55,7 @@ reihenfolge: 100
 | **Wachsen** | Pflanzen wachsen schneller — Wurzeln, Blätter, Blüten. Sie ihr Standard-Modus. | klein bis groß |
 | **Heilen** | Menschliche Wunden schließen, Knochen wachsen, Fleisch regeneriert. Erste Anwendung K12 (Sorels Verband-Wundschicht straffer, Wärme von innen). | klein bis mittel |
 | **Wurzeln treiben** | Wurzeln durch Stein, Wände, Erde. Aktiv ab B2-Bund-Training. | mittel bis groß |
+| **Wurzelnetz zurückziehen (Erd-Bewegung indirekt)** | Wurzeln im Boden ziehen sich zusammen, schieben Erde dabei zur Seite — Hohlraum entsteht. Erstmals K39-Sz3 (Sorels Grab im Moragh-Hain). NICHT direkte Erd-Magie — Mechanismus läuft über organische Substanz im Boden (Memory `project_alphina_zellwachstum.md`). Stein bleibt inert. | mittel |
 | **Dornen wachsen lassen** | Dornen aus Pflanzen-Trieben, ungerichtetes Wachstum bei Magie-Bruch. Aktiv ab B1-K38 (Anti-Flora-Welle bei Sorel-Tod). | klein bis mittel |
 | **Töten** (theoretisch) | Sie könnte Tumore wachsen lassen, Wurzeln durch Brustkörbe treiben. **Tut es nie aktiv.** Tot = kein Wachstum. | hart-Limit Charakter |
 | **Anti-Flora-Kippung** | Begehren / Wut kippt Farbe und Form: schwarze Rinde, Purpur-Stängel, blutrote Blüten — siehe Zorn-Farbpalette. | situations-getrieben |
@@ -153,7 +154,7 @@ Max ~40 Wörter, bricht unter Druck zu Fragmenten. Kein *sie dachte / sie fragte
 - **Explosion:** Trauer + Wut sprengt jede Disziplin. Anti-Flora-Welle (schwarze Dornen-Triebe, blut-rote Blüten, Purpur-Stängel) durch organische Substanz unter dem Stein-Boden. Verletzt eigene Verbündete (Maren-Wade, Vesper-Schulter, Runa-Unterarme). Keine körperliche Verwandlung an Alphina selbst (Memory `feedback_kein_magie_kosten.md`).
 - **Beruhigung:** Vesper hält sie. Sie kollabiert.
 
-**K39 — Trauer, Grab, Wandlung, Aufbruch:** Sorels Grab am Moragh-Steinplatz. Sie nimmt drei Dinge mit (Bündel-Liste in zeitleiste). Wandlung: aus Botanikerin wird **Suchende**. Aufbruch nach Dravek mit den anderen drei.
+**K39 — Trauer, Grab, Wandlung, Aufbruch:** Sorels Grab im kleinen Hain (~halbe Meile vom Stein-Platz; Quellen-Stein ist nicht grabbar — Memory `project_stein_quellen_pflanzen_resonanz.md`). Sie öffnet die Erde via **Wurzelnetz-Manipulation** (neuer Resonanz-Modus, siehe Modus-Tabelle unten). Anti-Flora-Bluete als Grab-Markierung (zweite Welle, kontrolliert, ohne Verbündeten-Verletzung — schwarz/rot bleibt). Sie nimmt **EIN Token** mit: den glatten dunklen Kiesel mit Hellgrau-Faden aus Henriks Garten, den sie Sorel in K12 selbst geschenkt hatte (»In der rechten Hosentasche.«). Wandlung: aus Botanikerin wird **Suchende**. Hass-Satz wörtlich: »Wir suchen ihn und vernichten ihn.« Aufbruch ohne Stadt-Ziel, vier in einer gewählten Richtung. Dravek-Ziel kommt erst in B2-K01/K03 als Erkenntnis (Boten-Begegnung oder Dorf-Schild).
 
 ---
 
@@ -166,6 +167,7 @@ Max ~40 Wörter, bricht unter Druck zu Fragmenten. Kein *sie dachte / sie fragte
 - **Graukorn vom Markt** (K01) — sie hat es zurückgelegt; wächst nur in Purpurstein-Spalten.
 - **Stein-Impuls beschleunigt sich körpernah** (K12) — am Vormittag langsamer als ein Menschenherz, am Abend näher an ihrem Atemrhythmus. Zwei Rhythmen, die einander entgegenwachsen. **Feuert** in Akt III, wenn die Drift ihren Körper vollständig erfasst.
 - **Heilung an Sorels Verband** (K12 → Echo K13+) — Wundschicht straffer, Wärme von innen. **Feuert** in Akt III (bewusste Heilung, beide ziehen die Verbindung).
+- **Sorel-Token: glatter dunkler Kiesel mit Hellgrau-Faden aus Henriks Garten** (K12 — Geschenk-Beat am Tor: »Darf ich etwas mitnehmen, an das ich mich an Sie erinnern kann?« — sie reicht ihm den Kiesel; er sagt: »In der rechten Hosentasche. Da werde ich ihn tragen.«). **Feuert** in K39-Sz3 (Alphina greift gezielt in seine rechte Hosentasche, weil sie es weiss — sie nimmt ihn an sich) und in B3-Akt-IV-Grab-Besuch (sie legt ihn zurück + lässt aktiv weiße Blüten wachsen — Versöhnungs-Akt nach Mission-Einlösung).
 - **Drei Schemen auf der Mauer** (K12) — beobachten still. Alphina hat sie gesehen, aber nicht verstanden, was der Rauch bedeutet. Sorel hat den Rauch aus eigener K10-Erfahrung erkannt. **Feuert** in K14/K15.
 - **Varens Erstwahrnehmung am Moragh-Steinplatz** (K38) — falsche Augen, süßer Geruch, zu-Hause-Wirkung. Erste sinnliche Spur, dass die Welt anders ist.
 - **Varens Halt-Berührung am Steinplatz** (K38) — Druck + Zeit + Energie-Dämpfung. Körper missinterpretiert Schock als Erregung. **Feuert** in B2-Captivity, wenn das Velmar-Halsband ihre Kehle berührt (portable Variante derselben Energie-Dämpfung), und in jeder Varen-Nähe-Szene danach.
