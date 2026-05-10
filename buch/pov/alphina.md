@@ -30,7 +30,7 @@ reihenfolge: 100
 
 **Behauptungsmuster (Sorel-Ausnahme).** Alphina dominiert durch Greifen, Setzen, Anweisen — bei jedem außer Sorel. Bei ihm greift ihr Muster nicht: er entzieht sich, wenn sie in das Behauptungs-Verhalten kippt. *„Ihr Muster griff bei diesem Mann nicht."* Das ist der Sorel-Beziehungs-Kern und der Anker, an dem ihre Selbstwahrnehmung später bricht.
 
-**„Nur aufbauen"-Grenze.** Sie könnte zerstören (Tumore wachsen lassen, Wurzeln durch Brustkörbe treiben). Sie tut es nicht. Ihre Grenze ist Charakter, nicht Fähigkeit. Diese Grenze bricht in B1-K38 (Sorel-Tod-Zorn) zum ersten Mal — und kostet sie eine schwarze Wurzel durch die eigene Wirbelsäule.
+**„Nur aufbauen"-Grenze.** Sie könnte zerstören (Tumore wachsen lassen, Wurzeln durch Brustkörbe treiben). Sie tut es nicht. Ihre Grenze ist Charakter, nicht Fähigkeit. Diese Grenze bricht in B1-K38 (Sorel-Tod-Zorn) zum ersten Mal — und sie trägt die Schuld lebenslang (Verbündeten-Verletzung, Sorels Körper mit Anti-Flora überdeckt). Kein körperlicher Preis (Thalassier zahlen keinen Preis pro Zauber, Memory `feedback_kein_magie_kosten.md`).
 
 **Selbst-Vergebungs-Bedürfnis als B2-Bekehrungs-Kern.** Alphina hat in B2 selbst Quellen getötet (Wegquelle K26 + Halvara-Kel K27), absichtlich, im Bund-Auftrag. Sie braucht eine Rechtfertigung, um mit sich selbst zu leben. Varens Mar-Keth-Geständnis-Fassade plus *„Wir reparieren tote Quellen, retten die Welt"* gibt ihr die Rechtfertigung. **Der Seitenwechsel kommt nicht aus Charme, sondern aus Selbst-Vergebungs-Bedürfnis.**
 
@@ -40,7 +40,7 @@ reihenfolge: 100
 
 **Hört nicht auf andere Identitäts-Verluste.** B2-K21: Marens *„Ich gehe heim"* — Alphinas Konter-Frage *„Warum willst du heim, Maren? Alle die du kennst sind tot oder alt."* Sie hört Heimweh, nicht Identitäts-Verlust. Erst B3-K24 (Maren-Brief, Maren seit ~70 Jahren tot) hat sie die zweite Erkenntnis. Zu spät.
 
-**Sub-Phase als späte Selbstoffenbarung (B3-K40).** Erst nach allem — nach Sorel, nach Varen, nach Talven-Fehlurteil — durch Scham erstmals Sub. Vesper trägt sie. Sorel-als-Maßstab-gegen-Varen wird im Sub-Modus zu Sorel-als-Maßstab-für-Vertrauen. Die Wirbelsäulen-Narbe wird zum ersten Mal gesehen.
+**Sub-Phase als späte Selbstoffenbarung (B3-K40).** Erst nach allem — nach Sorel, nach Varen, nach Talven-Fehlurteil — durch Scham erstmals Sub. Vesper trägt sie. Sorel-als-Maßstab-gegen-Varen wird im Sub-Modus zu Sorel-als-Maßstab-für-Vertrauen. Sie öffnet sich Vesper zum ersten Mal voll — die K38-Schuld kommt an die Oberfläche.
 
 ---
 
@@ -55,7 +55,7 @@ reihenfolge: 100
 | **Wachsen** | Pflanzen wachsen schneller — Wurzeln, Blätter, Blüten. Sie ihr Standard-Modus. | klein bis groß |
 | **Heilen** | Menschliche Wunden schließen, Knochen wachsen, Fleisch regeneriert. Erste Anwendung K12 (Sorels Verband-Wundschicht straffer, Wärme von innen). | klein bis mittel |
 | **Wurzeln treiben** | Wurzeln durch Stein, Wände, Erde. Aktiv ab B2-Bund-Training. | mittel bis groß |
-| **Dornen wachsen lassen** | Dornen aus Pflanzen oder aus eigenem Körper. Aktiv ab B1-K38 (Wirbelsäulen-Wurzel). | klein bis mittel |
+| **Dornen wachsen lassen** | Dornen aus Pflanzen-Trieben, ungerichtetes Wachstum bei Magie-Bruch. Aktiv ab B1-K38 (Anti-Flora-Welle bei Sorel-Tod). | klein bis mittel |
 | **Töten** (theoretisch) | Sie könnte Tumore wachsen lassen, Wurzeln durch Brustkörbe treiben. **Tut es nie aktiv.** Tot = kein Wachstum. | hart-Limit Charakter |
 | **Anti-Flora-Kippung** | Begehren / Wut kippt Farbe und Form: schwarze Rinde, Purpur-Stängel, blutrote Blüten — siehe Zorn-Farbpalette. | situations-getrieben |
 
@@ -75,7 +75,7 @@ Begehren leckt als **Pflanzen-Wachstum in der Nähe** (Memory `project_alphina_h
 ### Limits
 
 - **Reservoir-Mechanik allgemein:** `10-magie-system.md` Sektion „Training & Reservoir". Bei Alphina relevant: schwere Nutzung (B1-K38 Wurzel-Explosion, B3-K38 Portal-Quelle-Kollaps) braucht Tage Regeneration.
-- **„Nur aufbauen"-Charakter-Grenze:** sie wählt Tötung nicht. Bei Bruch (K38) zahlt der eigene Körper — Wirbelsäulen-Narbe lebenslang.
+- **„Nur aufbauen"-Charakter-Grenze:** sie wählt Tötung nicht. Bei Bruch (K38) trägt sie die Schuld der Folgen — Verbündeten-Verletzung, Sorels Körper mit Anti-Flora überdeckt. Kein körperlicher Preis (Memory `feedback_kein_magie_kosten.md`).
 - **Tote Stoffe reagieren nicht** — kein Stein-Verformen, kein Metall-Schmelzen, keine Tor-Öffnung allein.
 - **Vier-Kopplung Tor-Öffnung:** braucht Pflanze + Licht + Zeit + Wasser. Sie ist die Initiatorin, nicht die Solo-Lösung.
 
@@ -150,8 +150,7 @@ Max ~40 Wörter, bricht unter Druck zu Fragmenten. Kein *sie dachte / sie fragte
 - **Varen-Erstwahrnehmung am Steinplatz:** Augen schimmern falsch im Halbdunkel, riecht nach warmem Stein und etwas Süßem, wirkt zu Hause.
 - **Varens Halt-Berührung:** Hand an Kinn, Daumen unter Kiefer, Finger an der Halsschlagader. Druck + Zeit-Verlangsamung + Energie-Dämpfung. Körper missinterpretiert den Schock als Erregung.
 - **Sorel stirbt vor ihren Augen** durch Varens drei Schemen — gezielter Tötungs-Auftrag, nicht Begleitschaden.
-- **Explosion:** Trauer + Wut sprengt jede Disziplin. Schwarze Wurzel zehn Meter in den Boden. Eine Minute lang ist sie ein Baum (schwarze Rinde, Dornen, blutrote Blüten). Verletzt eigene Verbündete (Maren-Wade, Runa-Unterarme).
-- **Wirbelsäulen-Narbe lebenslang.** Sie zeigt sie nie einem Arzt.
+- **Explosion:** Trauer + Wut sprengt jede Disziplin. Anti-Flora-Welle (schwarze Dornen-Triebe, blut-rote Blüten, Purpur-Stängel) durch organische Substanz unter dem Stein-Boden. Verletzt eigene Verbündete (Maren-Wade, Vesper-Schulter, Runa-Unterarme). Keine körperliche Verwandlung an Alphina selbst (Memory `feedback_kein_magie_kosten.md`).
 - **Beruhigung:** Vesper hält sie. Sie kollabiert.
 
 **K39 — Trauer, Grab, Wandlung, Aufbruch:** Sorels Grab am Moragh-Steinplatz. Sie nimmt drei Dinge mit (Bündel-Liste in zeitleiste). Wandlung: aus Botanikerin wird **Suchende**. Aufbruch nach Dravek mit den anderen drei.
@@ -170,7 +169,7 @@ Max ~40 Wörter, bricht unter Druck zu Fragmenten. Kein *sie dachte / sie fragte
 - **Drei Schemen auf der Mauer** (K12) — beobachten still. Alphina hat sie gesehen, aber nicht verstanden, was der Rauch bedeutet. Sorel hat den Rauch aus eigener K10-Erfahrung erkannt. **Feuert** in K14/K15.
 - **Varens Erstwahrnehmung am Moragh-Steinplatz** (K38) — falsche Augen, süßer Geruch, zu-Hause-Wirkung. Erste sinnliche Spur, dass die Welt anders ist.
 - **Varens Halt-Berührung am Steinplatz** (K38) — Druck + Zeit + Energie-Dämpfung. Körper missinterpretiert Schock als Erregung. **Feuert** in B2-Captivity, wenn das Velmar-Halsband ihre Kehle berührt (portable Variante derselben Energie-Dämpfung), und in jeder Varen-Nähe-Szene danach.
-- **Wirbelsäulen-Narbe** (K38) — lebenslang. **Feuert** im B3-K40-Sub-Phase, wenn Vesper sie zum ersten Mal sieht.
+- **K38-Schuld als Selbstwahrnehmungs-Bruch** (kein körperlicher Anker) — Verbündeten-Verletzung + Sorels Körper mit Anti-Flora überdeckt. **Feuert** im B3-K40-Sub-Phase, wenn sie sich Vesper zum ersten Mal voll öffnet.
 - **Magie-Mechanik azyklisch + Emotions-Verstärker** — kein persönlicher Preis pro Zauber, starke Emotionen verstärken die Wirkung. **Feuert** B1-K38 (Trauer + Wut), B2-Bund-Training (Bund-Meister missverstehen als „Verunreinigung"), B3-Akt-IV-Duell (Verzweiflung über zwei Tage anhaltend wirkfähig).
 - **Schlaf-Haine im Bund-Quartier** (B2 Akt I) — wächst nachts unbewusst einen Wald um ihr Bett. **In der Mitte des Hains: Sorel als Baum mit schwarzer Rinde, Dornen, blutroten Blüten.** Niemand darf das wissen.
 - **„Verunreinigung"-Vokabular der Bund-Meister** (B2 Akt II) — wenn die schwarz/rote Anti-Flora durchschlägt. Sie speichert die Irritation. **Feuert** in Akt III, wenn ihre Bund-Skepsis wächst.
@@ -212,7 +211,7 @@ In Moragh, unter Sorels Tod, kippt die Farbe: **pechschwarze Wurzeln, Stängel i
 - **B1-K38:** Vesper hält sie nach der Explosion. Erster Vertrauens-Augenblick.
 - **B2-K20:** Drael-Pakt + Ablehnung — Vesper steht neben ihr, gemeinsamer Aufbruch nach Velmar.
 - **B3-K35-K37:** Duell Alphina + Vesper vs. Varen. Sie kämpfen Seite an Seite. Varens Register-Bruch + Reveal.
-- **B3-K40:** Sub-Phase. Durch Scham erstmals Sub. Vesper trägt sie. Wirbelsäulen-Narbe wird zum ersten Mal gesehen. Sorel-als-Maßstab-für-Vertrauen.
+- **B3-K40:** Sub-Phase. Durch Scham erstmals Sub. Vesper trägt sie. K38-Schuld kommt an die Oberfläche, sie öffnet sich Vesper zum ersten Mal voll. Sorel-als-Maßstab-für-Vertrauen.
 
 **Runa (B1-Freundschaft → B2-FWB → B3-Bruch → Wiederbegegnung):**
 - **B1:** Freundschaft, Du-Basis seit Wochen. Runa kommt mit Flugblättern. Wärme, Direktheit. K25-Begegnung in der Druckerei: Alphina spürt Runas Wärme bei der Umarmung — registriert es, sagt nichts.
@@ -312,7 +311,7 @@ In Moragh, unter Sorels Tod, kippt die Farbe: **pechschwarze Wurzeln, Stängel i
 
 **B3-K38 — Portal-Finale:** Expedition 2 startet zweite Durchgangs-Welle. Alphina kollabiert die Quelle durch Wachstums-Überladung. Voll grün. Konsistent mit „nur aufbauen"-Grenze.
 
-**B3-K40 — BDSM-Annäherung mit Vesper (Sub-Phase):** Durch Scham erstmals Sub. Vesper trägt sie. Wirbelsäulen-Narbe wird zum ersten Mal gesehen. Sorel-als-Maßstab-für-Vertrauen.
+**B3-K40 — BDSM-Annäherung mit Vesper (Sub-Phase):** Durch Scham erstmals Sub. Vesper trägt sie. K38-Schuld kommt an die Oberfläche, sie öffnet sich Vesper zum ersten Mal voll. Sorel-als-Maßstab-für-Vertrauen.
 
 ---
 
