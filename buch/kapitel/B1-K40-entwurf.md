@@ -201,7 +201,7 @@ Er prueft die Vertaeuung am Boot — Marens Knoten, dreifach geschlagen, wie sie
 
 **Plot-Beat — Nachmittag:** Tarn kommt an die Werft, gegen Mittag, mit einem Bogen in der Hand. Edric sieht ihn schon im Hof — der Junge geht zu schnell, das Gesicht weiss. Sievert ist mit (oder Tarn kommt allein und sagt, Sievert hat seinen Teil bereits unterschrieben). Tarn legt den Bogen vor Edric: Runas Uebergabe-Brief mit Druckerei-Schenkung an Tarn, eine Zeugen-Unterschrift (Sievert) ist drauf, die zweite Zeile leer. Edric liest. Liest noch einmal. Greift nach seinem Bleistift, signiert als zweiter Zeuge.
 
-Edric reicht **seinen** Bogen Tarn: die Schenkungs-Urkunde von Maren. Sievert hat sie schon unterschrieben (Edric ist heute morgen kurz drueben gewesen — Cross-Connect-Logistik: Edric ging zuerst zu Sievert, weil Sievert auf der Urkunde steht; Sievert hatte gerade Tarns Brief mit unterschrieben). Tarn signiert als zweiter Zeuge.
+Edric reicht **seinen** Bogen Tarn: die Schenkungs-Urkunde von Maren mit denselben zwei Zeugen-Namen (Sievert, Tarn). Edric ist heute morgen noch nicht bei Sievert gewesen — er wird das nach Tarns Besuch erledigen. Tarn signiert als erster Zeuge. (Edric geht nachher zu Sievert fuer die zweite Unterschrift.)
 
 Sie sprechen wenig:
 - Edric: „Wann?"
@@ -249,19 +249,13 @@ Beide gehen zurueck zu ihrer Arbeit.
 **Wann:** 3. Dunkelmond, Morgen → Nachmittag → Abend
 **Ort:** Druckerei Kvist (Oberstadt, nahe Marktplatz) → Baecker Sievert nebenan → Werft (kurz, Cross-Connect zu Sz3) → Druckerei (Schluss)
 
-**Plot-Beat — Morgen:** Tarn kommt zur Druckerei wie jeden Morgen. Findet die Tuer verschlossen, von innen abgeriegelt (Runa hatte am Aufbruch-Abend abgeschlossen — Memory K37: „dreht den Riegel anders als sonst"). Er klopft. Keine Antwort.
+**Plot-Beat — Morgen:** Tarn kommt zur Druckerei wie jeden Morgen. Er hat seinen eigenen Gesellen-Schluessel (seit zwei Jahren — er schliesst meist als Erster auf, wenn Runa noch am Setzkasten-Korrekturen sitzt oder oben in der Wohnung ist). Heute ist die Tuer von innen verriegelt — Runa hat sie am Aufbruch-Abend so gelassen (Memory K37: „dreht den Riegel anders als sonst"). Tarn schliesst die Vordertuer auf, der Riegel war zusaetzlich von innen vorgelegt — er muss durch das Hofzimmer-Fenster (das er kennt) klettern, um den Riegel zu lösen. Oder einfacher: er klopft, niemand antwortet, er geht zum Hofzimmer-Eingang (zweiter Gesellen-Zugang, den er auch hat). Drinnen alles wie immer.
 
-Er geht zum Baecker Sievert nebenan. Sievert tritt aus dem Hinter-Eingang, mit einer Tuete weisses Mehl in der Hand. „Tarn. Du sollst zu mir kommen." Sievert hat im Mehlfach hinter dem Tresen einen Lederbeutel mit Inhalt aufbewahrt seit drei Tagen — Runa hatte ihn am 30. Nebelmond morgens gebracht mit der Anweisung „falls ich am 3. Dunkelmond morgens nicht in der Druckerei bin, gib das Tarn".
+K30-Brandstellen am Setzkasten + Tuerrahmen + Decke ueber der Presse (sie waren schon vorher da, seit dem Joran-Tod). K32-Brandfleck am eichenen Probebrett, das Runa vom Marktplatz nach dem Wesen-Mord mitgenommen hatte — das Brett liegt im Hinter-Regal, sieben Wochen alt, der Fleck noch dunkel.
 
-Sievert holt den Beutel hervor. Tarn oeffnet ihn:
-- **Zwei Schluessel:** einer fuer die Druckerei-Vordertuer, einer fuer Runas verschlossene Werkbank-Schublade
-- **Ein einzelner Bogen** in Runas Handschrift (kurze Anweisung: „Schublade auf, Brief lesen. Edric von der Werft und Sievert als Zeugen. Du machst weiter, Tarn. Runa.")
+Er ruft nach Runa. Keine Antwort. Er geht in die Wohnung im Obergeschoss hoch — leer. Bett gemacht. Runas Schluesselbund haengt am Haken (sie hat einen eigenen, mit anderen Schluesseln). Der Schreibtisch aufgeraeumt. Die Werkbank-Schublade unten in der Druckerei — Tarn weiss, dass sie immer verschlossen ist (Runa hat den einzigen Schluessel) — ist heute **aufgelassen, leicht herausgezogen**. Sichtbar abweichend von Routine. Tarn geht runter.
 
-Tarn liest. Sievert sagt knapp: „Sie hat es Donnerstag gebracht. Sie wusste, dass sie heute Morgen nicht da ist." Tarn fragt nicht weiter. Er geht mit den Schluesseln zur Druckerei zurueck.
-
-**Plot-Beat — Druckerei:** Tarn schliesst die Vordertuer auf. Drinnen alles wie immer. K30-Brandstellen am Setzkasten + Tuerrahmen + Decke ueber der Presse (sie waren schon vorher da, seit dem Joran-Tod). K32-Brandfleck am eichenen Probebrett, das Runa vom Marktplatz nach dem Wesen-Mord mitgenommen hatte — das Brett liegt im Hinter-Regal, sieben Wochen alt, der Fleck noch dunkel.
-
-Er geht zur Werkbank, oeffnet die verschlossene Schublade mit dem zweiten Schluessel. Drinnen:
+Er zieht die Schublade ganz auf:
 
 **Runas Uebergabe-Brief** (canon-Wortlaut aus K31-Sz3):
 
@@ -269,7 +263,7 @@ Er geht zur Werkbank, oeffnet die verschlossene Schublade mit dem zweiten Schlue
 
 Daneben: das Auftragsbuch der Druckerei, ein Verzeichnis der Lettern-Bestaende, eine Liste der laufenden Schuldner (Werft, Handelshaus, drei Pfarrer-Kunden) und Glaeubiger, Runas private Notizbuecher (mit der Anweisung „Setzkasten-Korrekturen + Werkstatts-Routinen") — alles aufgeraeumt, sortiert, bereit zur Uebernahme.
 
-Tarn liest den Brief noch einmal. Faltet ihn nicht. Geht zurueck zu Sievert mit dem Brief. Sievert unterschreibt als erster Zeuge auf der Zeugen-Zeile.
+Tarn liest den Brief noch einmal. Faltet ihn nicht. Geht zum Baecker Sievert nebenan (im Brief als erster Zeuge benannt) mit dem Brief. Sievert liest ihn, nickt einmal — er hat Runa zwei Mal in den letzten Wochen mit dem aufrechten Gang einer Person gesehen, die sich auf etwas einlasst, was sie nicht zurueckziehen will. Er unterschreibt auf der Zeugen-Zeile.
 
 Tarn geht zur Werft. Cross-Connect zu Sz3: er kommt zu Edric, sie wickeln die gegenseitige Bezeugung ab. Drei Saetze gesamt zwischen den beiden:
 - Edric: „Wann?"
