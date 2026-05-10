@@ -56,7 +56,7 @@ Sie hob die freie Hand. Der Nebel zog mit, träge erst, dann williger, fünf Sch
 
 In der Bahn, die sie freigemacht hatte, glühten zwei kohlenrote Punkte. Die Punkte saßen niedriger als bei einem Menschen. Sonst nichts.
 
-Sie drängte weiter, sieben Schritt. Über den zwei Punkten setzte sich ein Kopf zusammen, breit, niedrig, in einer Linie mit dem Rücken, der dahinter im Nebel hing. Es knurrte. Lang, kehlig, tiefer als irgendetwas, was Maren je gehört hatte.
+Sie drängte weiter, sieben Schritt. Über den zwei Punkten setzte sich ein Kopf zusammen, breit, niedrig, in einer Linie mit dem Rücken, der dahinter im Nebel hing. Auf dem Rücken, dort wo der Nacken in die Schulter überging, lief eine Linie. Violett, schmal, leuchtend genug, dass der Nebel sie nicht ganz verschluckte. Es knurrte. Lang, kehlig, tiefer als irgendetwas, was Maren je gehört hatte.
 
 Sie drückte stetig. Zehn Schritt. Aus dem Nebel kam der Körper: vierbeinig, breit, tiefer als ein Mensch. Schultern, langer Rücken, Beine ohne Knie. Aus dem Rücken stieg Rauch, ohne dass irgendwo Brand war. Dahinter glühten vier neue Punkte — zwei weitere Köpfe, zwei weitere Körper im weichen Grau. Ein zweites Wesen knurrte aus seinem Brustkorb, gleicher Ton, gleiche Tiefe.
 
@@ -70,7 +70,7 @@ Maren ließ die Nebelhand fallen. Der Nebel schloss sich um sie und nahm ihr die
 
 Sie zog die Hand vom Stein, drehte sich, und dann lief sie. Über die Steinlinie, durch den Garten lief sie zurück; nasses Laub klebte an den Waden, Farne rissen unter ihren Sohlen. Sie nahm den Hauptpfad zurück, kürzer als der Bogen, auf dem sie gekommen war. Hinter ihr saß das Knistern, gleichmäßig, weder näher noch ferner. Schritte hörte sie keine. Werft-Ohren waren auf Holz unter Sohlen trainiert, auf Gewicht, das aufsetzt, und da war nichts — nur das trockene Reißen in der Luft, das sich mit ihr bewegte.
 
-Auf Höhe der mittleren Linde wagte sie den Blick. Sie warf den Kopf über die linke Schulter, kurz, im Laufen, und sah, was dort war: zwei dunkle Körper, vierbeinig und breit, dicht hinter ihr im Nebel; ein dritter weiter zurück. Die Köpfe hingen niedrig, in einer Linie mit dem Rücken. Die Augen brannten kohlenrot, paarweise gesetzt. Aus den Rücken stieg derselbe Rauch wie am Steinkreis. Das Knistern saß in der Luft um sie, satt und stetig, als würde Holz im Ofen reißen.
+Auf Höhe der mittleren Linde wagte sie den Blick. Sie warf den Kopf über die linke Schulter, kurz, im Laufen, und sah, was dort war: zwei dunkle Körper, vierbeinig und breit, dicht hinter ihr im Nebel; ein dritter weiter zurück. Die Köpfe hingen niedrig, in einer Linie mit dem Rücken. Die Augen brannten kohlenrot, paarweise gesetzt. Aus den Rücken stieg derselbe Rauch wie am Steinkreis. Und derselbe Strich auf den Schultern, schwach im Lauf. Das Knistern saß in der Luft um sie, satt und stetig, als würde Holz im Ofen reißen.
 
 Die Pfoten trafen den Boden nicht.
 

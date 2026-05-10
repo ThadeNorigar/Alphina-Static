@@ -123,7 +123,7 @@ Drei Schritte trennten ihn vom Wesen. Er sah in die schwarzen Augen — keine Re
 
 Er bündelte. Er hatte das mit Talgkerzen geübt, mit Streichhölzern, einmal mit einem trockenen Halm. Diesmal nahm er das Mondlicht vom Brunnenrand, das Lampenlicht aus dem Hauseingang gegenüber, das schiefe Licht der Sturm-Laterne — und drückte alles zu einem Punkt zwischen den schwarzen Augen, scharf gerandet, weiß.
 
-Der Brennfleck brannte durch die Stirn. Das Wesen ruckte zurück. Etwas an seinem Kopf rauchte, ein dünner Schleier ohne Flamme.
+Der Brennfleck brannte durch die Stirn — durch eine violette Linie hindurch, die unter der Haut gelegen hatte, schmal, leuchtend; jetzt zerrissen. Das Wesen ruckte zurück. Etwas an seinem Kopf rauchte, ein dünner Schleier ohne Flamme.
 
 Trotzdem kam der Arm. Kein Schlag — im Wegtaumeln streifte er Sorels Oberschenkel durch die Hose. Und an den Fingerspitzen des Wesens wuchs im selben Atemzug Eis aus dem Schwarz, weiß-blau, scharf, schon zerfallend, weil das Wesen taumelte.
 

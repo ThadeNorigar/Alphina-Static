@@ -67,7 +67,7 @@ Am Rand ihres Blickfelds löste sich die Soldaten-Dreiergruppe vom Brunnen und z
 
 Ein Mann trat zwischen den Tuchballen hervor. Er überragte die Männer um ihn um einen Kopf, sein Kopf wirkte zu lang über dem Hemdkragen, die Schultern zu schmal für die Höhe. Sein Mantel hing grau, dunkler als jeder andere Mantel auf dem Feld, ohne sichtbare Knöpfe. Er ging ohne Eile am Brunnen vorbei, seitlich, auf den Tuchhändler-Stand am westlichen Häuserrand zu. Zehn Schritte lang reagierte niemand. Eine Frau mit einem Kind auf der Hüfte sah ihm ins Gesicht und riss das Kind an die Schulter, den Mund offen ohne Laut.
 
-Alphina sah erst einen Mann mit zu schmalen Schultern. Beim zweiten Blick fand sie sein Gesicht: schwarze Augen ohne Lid, kein Funkeln im Sonnenlicht. Der Wind drehte aus Westen und brachte einen süß-dichten Geruch über die Stände, der ihr in den Hals kroch.
+Alphina sah erst einen Mann mit zu schmalen Schultern. Beim zweiten Blick fand sie sein Gesicht: schwarze Augen ohne Lid, kein Funkeln im Sonnenlicht. Auf den Handrücken, die unter dem grauen Mantel hervorhingen, lief eine Spur — violett, dünn, im Tageslicht ohne Glanz, aber sichtbar wie etwas unter der Haut. Der Wind drehte aus Westen und brachte einen süß-dichten Geruch über die Stände, der ihr in den Hals kroch.
 
 *Es geht. Mitten am Tag.*
 

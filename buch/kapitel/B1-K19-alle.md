@@ -125,7 +125,7 @@ Sorel sprach, ohne Alphina direkt anzusehen. „Vor einer Woche stand ich nachts
 
 „Wie groß?", fragte Maren.
 
-„Größer als eine Katze. Niedriger als ein Mann. Die Ränder verrauchten." Er pausierte. „Ich habe das Mondlicht auf eine Stelle seiner Haut gebündelt. Es hat mit einem Feuerball geantwortet. Aus dem Maul, faustgroß, weiß im Kern. Er hat meinen Handrücken getroffen."
+„Größer als eine Katze. Niedriger als ein Mann. Die Ränder verrauchten. Auf dem Rücken hatte es eine Linie. Violett, leuchtend. Ich habe sie damals nicht eingeordnet." Er pausierte. „Ich habe das Mondlicht auf eine Stelle seiner Haut gebündelt. Es hat mit einem Feuerball geantwortet. Aus dem Maul, faustgroß, weiß im Kern. Er hat meinen Handrücken getroffen."
 
 Maren sah Vesper an. Vesper nickte einmal.
 
@@ -173,7 +173,7 @@ Im dritten stand etwas an der Kante. Es trat durch.
 
 Die Kante schloss sich hinter ihm. Die Luft wurde wieder Luft.
 
-Es war groß. Mannshoch an der Schulter, schwer wie ein Stier, mit einem gewölbten Rücken wie bei einem Bären. Vier Beine, breite Schultern, keine Hörner. Es hatte eine Schulter aus Dunkelheit, die kein Schatten war. Der Kopf war tierisch gezogen, länger als ein Menschenkopf, mit einer Schnauze, in der keine Zähne zu sehen waren. An den Vorderpfoten saßen Krallen, die erst aus den Pfoten wuchsen, wenn sie gebraucht wurden.
+Es war groß. Mannshoch an der Schulter, schwer wie ein Stier, mit einem gewölbten Rücken wie bei einem Bären. Vier Beine, breite Schultern, keine Hörner. Es hatte eine Schulter aus Dunkelheit, die kein Schatten war. Der Kopf war tierisch gezogen, länger als ein Menschenkopf, mit einer Schnauze, in der keine Zähne zu sehen waren. Über der Stirn — wenn man es eine Stirn nennen wollte — lief eine violette Linie, leuchtend, schmal, gleichmäßig. An den Schultern dieselbe Linie, in einer Krümmung, die nicht zur Form des Wesens passte. An den Vorderpfoten saßen Krallen, die erst aus den Pfoten wuchsen, wenn sie gebraucht wurden.
 
 Maren war am nächsten.
 
