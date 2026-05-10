@@ -34,7 +34,7 @@ Er schob das Notizbuch beiseite.
 
 Drei Talg-Kerzen brannten weiter, jede schon eine Spanne kürzer als zu Beginn — die linke ein wenig weiter geschmolzen, weil sie näher am Zugspalt stand. Die Werkbank-Pendule schlug rein, gleichmäßig, das Messing-Gehäuse schwach beschlagen von der Nacht-Kälte.
 
-Vesper erhob sich und trat zur hinteren Werkbank-Ecke, wo das Etui lag. Walnussholz, Messing-Verschluss, innen drei Fächer. Er hatte die Justier-Werke seit Jahren nicht gebraucht — kleine Pendel, eigentlich für Vergleichsmessungen in der Werkstatt, handlich genug, um sie auf jede Fläche zu stellen, präzise genug, um eine Linie Abweichung pro Tag zu registrieren. Er hob das Etui auf, trug es zur Werkbank und reihte die drei Werke einzeln auf der Platte auf, nebeneinander, links von der Pendule.
+Vesper erhob sich und trat zur hinteren Werkbank-Ecke, wo das Etui ruhte. Walnussholz, Messing-Verschluss, innen drei Fächer. Er hatte die Justier-Werke seit Jahren nicht gebraucht — kleine Pendel, eigentlich für Vergleichsmessungen in der Werkstatt, handlich genug, um sie auf jede Fläche zu stellen, präzise genug, um eine Linie Abweichung pro Tag zu registrieren. Er hob das Etui auf, trug es zur Werkbank und reihte die drei Werke einzeln auf der Platte auf, nebeneinander, links von der Pendule.
 
 Vier Pendel-Werke. Die Pendule und drei kleine Justier-Werke, ihre Pendel in verschiedenen Längen, alle vier in Betrieb.
 
@@ -42,13 +42,13 @@ Er trat einen Schritt zurück und sah sie an. Die Pendel schlugen versetzt — j
 
 Schritt eins: jedes einzeln auf den Schlag der anderen drei einstellen.
 
-Er legte die rechte Hand auf das Gehäuse des ersten Justier-Werks — flach, die Finger gespreizt, so dass die Kuppen auf dem Messing auflagen und die Handfläche eine Spur darüber. Das Werk schlug schneller als die Werkbank-Pendule. Er konnte es fühlen, bevor er es zählte: ein Zittern, das durch das Messing an seine Fingerkuppen drang, etwas rascher als das tiefere Schlagen neben ihm.
+Er legte die rechte Hand auf das Gehäuse des ersten Justier-Werks — flach, die Finger gespreizt, so dass die Kuppen auf dem Messing auflagen und die Handfläche eine Spur darüber. Das Werk schlug schneller als die Werkbank-Pendule. Er konnte es fühlen, bevor er es zählte: ein Zittern, das durch das Messing an seine Fingerkuppen drang.
 
 Er stellte sich vor, wie die Hemmung nachgab — der Anker hielt einen Hauch länger in der Zähnung, der Schwingungsausschlag des Pendels dehnte sich. Zug. In seiner Handfläche bildete sich eine Spannung, die er am ehesten mit dem Widerstand eines Seidenfadens verglich, wenn man ihn gerade noch vor dem Reißen hält. Das Werk unter ihm verlangsamte sich. Drei Atemzüge. Dann fielen die Schläge in einen Punkt zusammen.
 
 Er hob die Hand, wartete einen Herzschlag lang und setzte sie auf das zweite Werk.
 
-Dieses lief zu langsam. Er registrierte die Abweichung als Befund: die Hemmung hielt zu lang, das Pendel kam zu früh zurück. Druck. Die Spannung in der Handfläche kehrte sich um, ein Andrücken, als legte er den Daumen auf eine gespannte Saite, um sie zu dämpfen, nicht zu zerreißen. Das Werk beschleunigte sich. Mehrere Atemzüge. Der Schlag rastete ein.
+Dieses lief zu langsam. Die Hemmung hielt zu lang, das Pendel kam zu früh zurück. Druck. Die Spannung in der Handfläche kehrte sich um, ein Andrücken, als legte er den Daumen auf eine gespannte Saite, um sie zu dämpfen, nicht zu zerreißen. Das Werk beschleunigte sich. Mehrere Atemzüge. Der Schlag rastete ein.
 
 Das dritte Werk brauchte nur eine kleine Korrektur — einen Zug, kürzer als beim ersten, die Abweichung fiel geringer aus. Er hob die Hand.
 
@@ -56,11 +56,11 @@ Er stand mit beiden Handflächen flach auf der Walnussholz-Werkbank. Die Knöche
 
 Drei Phasen kannte er. Die erste hatte nach der zweiten Justierung eingesetzt — die Aufmerksamkeit war weicher geworden, als läge eine dünne Tuchschicht vor dem Auge. Die zweite Phase begann jetzt: ein Druck zwischen den Augenbrauen, gleichmäßig, ohne Pulsieren. Auf der Stirn perlte Schweiß. In den Schläfen breitete sich ein Gewicht aus, das in den Schädelboden absank.
 
-Die dritte Phase kannte er aus Karst, von Nächten über besonders feinen Spiralfedern: dann gaben die Augen die Arbeit nicht mehr her, und der Kopf musste die Toleranz übernehmen. Soweit war er noch nicht. Er klagte nicht.
+Die dritte Phase kannte er aus Karst, von Nächten über besonders feinen Spiralfedern: dann gaben die Augen die Arbeit nicht mehr her, und der Kopf musste die Toleranz übernehmen. Soweit war er noch nicht.
 
 Dann hörte er es.
 
-Alle vier Werke schlugen im selben Punkt zusammen. Ein einziger Schlag, vier Pendel, ein Vorgang. Die Werkbank gab den Ton nicht weiter; er saß in der Luft, bevor er erstarb. Vesper stockte im Atem.
+Alle vier Werke schlugen im selben Punkt zusammen. Ein einziger Schlag, vier Pendel, ein Vorgang. Die Werkbank gab den Ton nicht weiter; er hing in der Luft, bevor er erstarb. Vesper stockte im Atem.
 
 Schritt eins stand. Schritt zwei: die vier Werke gemeinsam bewegen, als wären sie ein einziges.
 
@@ -74,11 +74,11 @@ Druck. Alle vier beschleunigten. Er ließ los, und die Schwingung dehnte sich wi
 
 Er zog stärker. Das Kollektiv schwenkte in Zeitlupe — die vier Pendel stiegen auf den höchsten Punkt ihrer Bahn, eine Spanne über der Mitte, und blieben dort hängen, einen langen Augenblick, bevor die Schwerkraft sie zurückholte. Vesper verharrte. Die Gehäuse blieben still, die Anker reglos, nur der langsame Rückfall der vier Pendel durchmaß die Luft. Er gab dem Moment Länge.
 
-Dabei registrierte er die zweite Schwingung.
+Dann stieg die zweite Schwingung auf.
 
 Sie stieg durch die Stiefelsohlen — lang, breit, periodisch, wie ein fremder Atemzug. Drei Atemzüge, ein ruhiges Auf, dann ein Tal, tief und klar, dann wieder hoch. Er hielt die Kollektiv-Zeitlupe und ließ die Schwingung durch sich hindurchgehen, den Druck in den Händen unverändert.
 
-Sein Kollektiv-Pendul war zum Mess-Instrument geworden — die vier synchronen Schläge bildeten seinen Referenzpunkt, und gegen diesen Referenzpunkt zeigte die Schwingung aus dem Holzboden, was die Werke allein nicht zeigen konnten: die Schwerkraft am Standort schwankte. Die Stelle selbst — der Mittelpunkt unter dem Stein.
+Die vier synchronen Schläge in seinen Händen — und darunter die Welle aus dem Holz. Eine Spitze, ein Tal, eine Spitze. Schwerkraft, die am Standort schwankte. Unter dem Stein.
 
 Die Stirnhaut spannte klamm. Klamme Schläfen, ein Gewicht dahinter, das in den letzten Atemzügen aufgekommen war. In den Fingerkuppen ein leichter Tremor, kaum wahrnehmbar, aber da. Phase 2 lief gleichmäßig, durchgehend, anders als die schubweisen Stöße in der ersten Stunde. Er hielt trotzdem. Die Welle aus dem Holzboden brauchte mehr Wiederholungen, das Intervall stand noch offen.
 
@@ -94,11 +94,11 @@ Jetzt sah er es.
 
 Der Mann hatte die Zahl ausgesprochen. Etwas in ihm hatte sie aufgenommen, ungeformt damals. In derselben Nacht standen sechsundzwanzig Werke still. Auf dieselbe Sekunde.
 
-Sechsundzwanzig Werke. Ohne sein Wollen. Was damals durch ihn gegangen war, ging jetzt durch seine Handflächen ins Holz.
+Was damals durch ihn gegangen war, ging jetzt durch seine Handflächen ins Holz.
 
 Die Konzentration sprang.
 
-Zug, schlagartig stärker, als er es gewollt hatte. Die vier Pendel hielten an. Alle vier gleichzeitig. Mitten im Schwung, eine Spanne über der Mitte, reglos in der Luft, als hätte jemand sie an dieser Stelle festgenagelt.
+Zug, schlagartig stärker, als er es gewollt hatte. Die vier Pendel erstarrten. Alle vier gleichzeitig. Mitten im Schwung, eine Spanne über der Mitte, reglos in der Luft, als hätte jemand sie festgenagelt.
 
 Er ließ den Druck los — nicht die Hände, nur die mentale Spannung. Die Pendel kippten in Bewegung zurück, nahmen ihren eigenen Schlag wieder auf, fielen in ihren eigenen Rhythmus. Drei Atemzüge, vier, dann liefen sie sauber weiter.
 
@@ -128,11 +128,11 @@ Drei Spalten, drei Ursprünge. Er ging sie nach dem Verlauf durch — Spalte fü
 
 Und die Bewegung wiederholte sich überall identisch.
 
-Anstieg, dichter Halt an der Spitze, Abfall. Kein Sprung, kein Ausreißer. Jede der acht Spitzen folgte derselben Linie — stieg an, hielt, fiel. Die Abweichungen blieben innerhalb dessen, was er noch als sauber gelten ließ: wiederholbar, eindeutig im Verlauf.
+Anstieg, dichter Halt an der Spitze, Abfall. Kein Sprung, kein Ausreißer. Jede der acht Spitzen folgte derselben Linie. Die Abweichungen blieben innerhalb dessen, was er noch als sauber gelten ließ: wiederholbar, eindeutig im Verlauf.
 
 Die Stelle unter dem Stein schwang.
 
-Vesper ließ die Erkenntnis einen Moment stehen, mit Abstand. Dann überprüfte er sie gegen das, was er auf dem Bogen sah. Anstieg, Halt, Abfall. Anstieg, Halt, Abfall. Es wiederholte sich, kein Einzel-Ereignis, kein Zufall. Das Phänomen schwang wie ein Pendel — auf, zu, auf, zu — angestoßen vor langer Zeit, dann sich selbst überlassen.
+Er ließ die Erkenntnis einen Moment stehen. Dann überprüfte er sie gegen den Bogen. Acht Mal dieselbe Kurve. Das Phänomen schwang wie ein Pendel, angestoßen vor langer Zeit, sich selbst überlassen.
 
 Was an einer Spitze offen wurde, schloss sich nach dem Abfall wieder — das Fenster ging von alleine zu. Wer hindurch wollte, musste die Spitze treffen, genau den höchsten Punkt der Welle. Der Eingriff-Punkt fiel enger aus, als er es für Karst und den heutigen Tag angenommen hatte.
 
@@ -140,11 +140,9 @@ Er nahm die Feder und schrieb ins Notizbuch, darunter, mit etwas Abstand zur alt
 
 *Pendel-artig. Auf, zu, auf, zu.*
 
-Dann legte er die Feder ab und sah auf den Bogen zurück. Die Frequenz stand nirgends. Die acht Spitzen lagen verteilt über einen Zeitraum, den die drei Aufzeichnungen gemeinsam abdeckten, aber wie weit die Abstände zwischen den Spitzen reichten — ob Wochen, ob Tage, ob kürzer — das ließ sich aus dem Bogen nicht lesen. Niemand hatte die Stille zwischen den Ereignissen festgehalten. Nur die Ereignisse selbst.
+Dann legte er die Feder ab und sah auf den Bogen zurück. Die Frequenz stand nirgends. Die acht Spitzen streuten sich über einen Zeitraum, den die drei Aufzeichnungen gemeinsam abdeckten, aber wie weit die Abstände zwischen den Spitzen reichten — ob Wochen, ob Tage, ob kürzer — das ließ sich aus dem Bogen nicht lesen. Niemand hatte die Stille zwischen den Ereignissen festgehalten. Nur die Ereignisse selbst.
 
-Vesper strich mit dem Finger über die Spalten, ohne sie zu berühren.
-
-Die Frequenz blieb ihm verborgen.
+Vesper strich mit dem Finger über die Spalten, ohne sie zu berühren. Vor seinem Mund kondensierte der Atem; in den Fingerkuppen pochte das Blut zu langsam.
 
 Vesper legte die Feder auf den Walnussrand der Werkbank und betrachtete die Pendule. Die Aufhängung schwang auf ihrer eigenen Frequenz, bestimmt durch Fadenlänge und Gewicht, unberührt vom Boden darunter. Das war das Problem. Er hatte die Welle in den Drift-Werten gefunden, hatte das Muster erkannt — aber gemessen hatte er nur die Antwort des Werks, nie die Frage selbst.
 
@@ -156,7 +154,7 @@ Er griff das Notizbuch und schrieb, ohne abzusetzen: *Uhr am Stein. Drei Wellen 
 
 Dann zog er Runas Streifen aus dem Stapel unter dem Velin-Bogen. Die Sichtungs-Liste lag jetzt neben der Uhren-Karte, Spitze gegen Spitze, Tag gegen Tag. Er fuhr die Reihe durch, einen Finger auf dem Tinten-Rand der Karte, den anderen auf dem Streifen. Bei der ersten Spitze ein Eintrag. Zwei an der zweiten. An der dritten eine Lücke. Vierte Spitze: Druckerei-Empfang, zweimal in vier Tagen.
 
-Sechs von acht Spitzen-Tagen. Die Adressen lagen im inneren Ring, nahe dem Mittelpunkt im Botanischen Garten.
+Sechs von acht Spitzen-Tagen. Die Adressen fielen alle in den inneren Ring, nahe dem Mittelpunkt im Botanischen Garten.
 
 An den Spitzen-Tagen kam etwas durch. In den Tälern dazwischen blieb die Liste leer.
 
@@ -166,7 +164,7 @@ Die Talg-Kerzen auf dem Werkbank-Rand hatten seit Stunden abgebrannt, kaum noch 
 
 Hinter dem Spalt der angelehnten Tür ging ihr Atem regelmäßig. Maren schlief noch immer durchgehend.
 
-Er stand auf, ging zur Werkbank zurück. Der Drei-Spalten-Bogen lag offen. Er faltete ihn, zweimal, und schob ihn in die rechte Westentasche neben die Taschenuhr. Das Notizbuch kam in die Innentasche des Rockes — er würde es ihr am Morgen zeigen.
+Er stand auf und schob den Drei-Spalten-Bogen, zweimal gefaltet, in die rechte Westentasche neben die Taschenuhr. Das Notizbuch steckte er in die Innentasche des Rockes — er würde es ihr am Morgen zeigen.
 
 Zwei Kerzen löschte er zwischen Daumen und Zeigefinger. Der Geruch blieb kurz im Raum. Die mittlere ließ er brennen, gedämpft auf einem flachen Sockel-Teller.
 
@@ -174,7 +172,7 @@ Er ging zur Schlafzimmer-Tür, schob sie eine Spur weiter auf. Marens Atem war t
 
 Er stand einen Moment in der Tür.
 
-Dann zog er den Rock aus, hängte ihn über die Stuhllehne neben dem Bett. Die Stiefel ließ er an der Tür stehen. Er legte sich zu ihr, vorsichtig, das Gesicht ihrer Schulter zugewandt.
+Dann zog er den Rock aus, hängte ihn über die Stuhllehne neben dem Bett. Die Stiefel ließ er an der Tür stehen. Er streckte sich neben ihr aus, vorsichtig, das Gesicht ihrer Schulter zugewandt.
 
 Maren wachte nicht auf. Aber ihre Hand fand seinen Unterarm und blieb dort liegen.
 
@@ -182,13 +180,13 @@ Draußen begann das erste Grau über die Dächer zu kriechen.
 
 ---
 
-Das Licht, das durch das Fenster fiel, war nicht mehr grau.
+Das Licht durch das Fenster trug schon Tagwerk-Farbe, kein Grau mehr.
 
-Vesper lag auf dem Rücken. Marens Hand ruhte auf seinem Unterarm — dieselbe Stelle wie vor einer Stunde, der Druck unverändert. Er zählte ihren Atem. Zwölf, gleichmäßig — vierzehn, als sie sich kurz auf die Seite drehte, dann zurück. Ihr Brustkorb hob und senkte sich unter der Wolldecke. Schulter, Hals, die Linie bis zur Schläfe — alles ruhig.
+Vesper lag auf dem Rücken. Marens Hand ruhte auf seinem Unterarm — dieselbe Stelle wie vor einer Stunde, der Druck unverändert. Er zählte ihren Atem mit. Zwölf, gleichmäßig. Vierzehn, als sie sich kurz auf die Seite drehte und zurück. Ihr Brustkorb hob und senkte sich unter der Wolldecke. Schulter, Hals, die Linie bis zur Schläfe.
 
-Auf der Stuhllehne lag sein Rock. Die Innentasche wölbte sich leicht nach außen — das Notizbuch, das er vorhin hineingeschoben hatte. Er ließ den Blick dort nicht länger ruhen als nötig.
+Auf der Stuhllehne hing sein Rock. Die Innentasche wölbte sich leicht nach außen — das Notizbuch, das er vorhin hineingeschoben hatte. Er sah weg.
 
-Marens Haar lag lose über das Kopfkissen ausgebreitet, die Holznadel auf dem Nachttisch. Draußen zogen Schritte über das Pflaster der Hafengasse, schwer und regelmäßig. Ein Karren. Dann Stille.
+Marens Haar fiel lose über das Kopfkissen, die Holznadel auf dem Nachttisch. Draußen zogen Schritte über das Pflaster der Hafengasse, schwer und regelmäßig. Ein Karren. Dann Stille.
 
 Er zählte weiter. Zwölf.
 
@@ -196,7 +194,7 @@ Maren bewegte sich, ruhig. Sie öffnete die Augen, ohne die Hand zurückzuziehen
 
 Vesper erwiderte den Blick.
 
-Ihr Gesicht veränderte sich. Nicht viel. Die kleine Falte zwischen den Brauen, die kam, wenn sie eine Schraube überprüfte, die nicht passte. Sie las ihn, so wie er ein Werk las — systematisch, ohne Eile.
+Die kleine Falte zwischen den Brauen kam — die, die kam, wenn sie eine Schraube überprüfte, die nicht passte. Sie las ihn, so wie er ein Werk las — systematisch, ohne Eile.
 
 Die Stiefel standen an der Tür. Das Licht schob sich über den Fußboden, langsam, und der Rock auf der Stuhllehne warf einen schmalen Schatten an die Wand.
 
@@ -218,13 +216,13 @@ Stille. Von der Hafengasse herauf kamen frühe Schritte, jemand mit schwerem Sch
 
 Maren streckte die Hand aus und legte sie auf seinen Unterarm. Kein Druck. Nur da.
 
-»In Karst.« Vesper sah weiter an die Decke. »Die Nacht, von der ich dir erzählt habe. Sechsundzwanzig Uhren, stillgestanden auf einmal. Ich hatte nichts getan. Es geschah durch mich, ohne dass ich es wollte.« Eine kurze Pause. »Heute tue ich es mit vier Werken, aktiv. Damals passierte es.«
+»In Karst.« Vesper sah weiter an die Decke. »Die Nacht, von der ich dir erzählt habe. Sechsundzwanzig Uhren auf einmal stehengeblieben. Ohne dass ich etwas getan hätte.« Eine kurze Pause. »Heute mache ich es mit vier Werken. Damals geschah es durch mich.«
 
 Marens Daumen bewegte sich einmal über seine Haut. Nicht wischend — nur ein Zeichen, dass sie zuhörte.
 
 »Vielleicht bin ich der Punkt, an dem die Schwingung in Mechanik kippt.« Er wandte den Kopf zu ihr. »Verstärker. Vielleicht.«
 
-Sie hielt seinem Blick stand. Ihr Gesicht lag im Morgenlicht, ruhig und wach. Dann:
+Sie hielt seinem Blick stand. Das Morgenlicht lag auf ihrer Wange, ihr Gesicht offen und wach. Dann:
 
 »Ich weiß.«
 
@@ -248,7 +246,7 @@ Vesper ließ die Stille stehen, bis die Schritte auf der Gasse unten ebener wurd
 
 »Wer hindurchgeht, hat nicht denselben Punkt für den Rückweg. Die Welle ist dann unten.«
 
-Marens Atem veränderte sich kaum. Ihr Daumen lag still auf seinem Unterarm, die Haut warm unter dem Leinenstoff. Draußen rollte ein Karren über das Kopfsteinpflaster, das Geräusch kam und verschwand.
+Marens Atem veränderte sich kaum. Ihr Daumen ruhte auf seinem Unterarm, die Haut warm unter dem Leinenstoff. Draußen rollte ein Karren über das Kopfsteinpflaster, das Geräusch kam und verschwand.
 
 »Die nächste Spitze — wann sie kommt, weiß ich nicht.« Er starrte an die Zimmerdecke. »Tage. Wochen.«
 
@@ -264,11 +262,11 @@ Kein Fragezeichen darin. Befund.
 
 »Sicher nicht heute«, sagte Vesper. »Vielleicht nicht morgen.« Er wartete einen Moment. »Vielleicht gar nicht.«
 
-Sie sahen sich an. Marens Augen waren ruhig auf ihn gerichtet, das Morgenlicht fiel schräg durch das Fenster und legte sich über ihre Schulter. Ihr Daumen bewegte sich nicht.
+Sie sahen sich an. Marens Augen ruhten auf ihm, ohne Ausweichen, das Morgenlicht fiel schräg durch das Fenster und legte sich über ihre Schulter. Ihr Daumen bewegte sich nicht.
 
 Irgendwo unten auf der Hafengasse rief jemand einen Namen. Das Echo schlug kurz an den Häuserwänden, dann war es weg.
 
-Maren bewegte sich nicht aus dem Bett. Aber ihr Daumen drückte etwas fester auf seinen Unterarm — kaum spürbar, und doch registrierte er es.
+Maren bewegte sich nicht aus dem Bett. Aber ihr Daumen drückte etwas fester auf seinen Unterarm — kaum spürbar, doch er spürte es.
 
 »Lenes Manuskript wollte vier«, sagte sie. »Wir sind vier.«
 
@@ -290,7 +288,7 @@ Maren hatte die Werft geerbt — von einem Toten. Sie würde mitgehen.
 
 Alphina war erst seit Wochen in Vael. Sorel ebenso. Beide ohne Boden unter den Füßen, den man aufgeben müsste.
 
-Runa hatte Boden. Sie hatte Mehr.
+Runa hatte Boden. Sie hatte mehr.
 
 »Wir sagen es ihr nicht heute«, sagte Maren. Keine Frage. »Sie soll nicht wissen, dass wir gehen, ohne wiederzukommen.«
 
@@ -316,10 +314,10 @@ Maren nickte einmal, das Kinn kaum bewegt.
 
 Er zog die Stiefel von der Schwelle an. Mantel vom Haken, über den Arm.
 
-Er ging durch das Wohnzimmer. Die mittlere Kerze auf der Werkbank war heruntergebrannt — er hatte sie vor Stunden angezündet, jetzt lag bloß eine Wachsscheibe auf dem Holz. Er sah sie, ging weiter.
+Er ging durch das Wohnzimmer. Die mittlere Kerze auf der Werkbank war heruntergebrannt — er hatte sie vor Stunden angezündet, jetzt blieb nur eine Wachsscheibe auf dem Holz. Er sah hin, ging weiter.
 
 Das Schloss schnappte hinter ihm ein.
 
-In der Hafengasse schlug ihm der Morgen entgegen. Das Licht stand schon hoch. Ein Karren rumpelte über das Pflaster, vor einer Schmiede klang Eisen auf Eisen.
+In der Hafengasse fiel ihm das Licht in die Augen, hell und schon hoch über den Dächern. Ein Karren rumpelte über das Pflaster, vor einer Schmiede klang Eisen auf Eisen.
 
 Er knöpfte den Mantel zu und ging.
