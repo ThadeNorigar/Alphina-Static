@@ -36,7 +36,8 @@
 
 ## Magie-Regeln (Buch 1)
 - Wo wirkt Magie: Nur in Moragh vollständig; in Thalassien sickern schwache Passiveffekte durch die Riss-Quelle (Farne, heißes Wasser, Vaeler Atem).
-- Wer zahlt den Preis: Moragh-Geborene zahlen mit dem Körper (Müdigkeit wie Sport); Thalassier zahlen KEINEN persönlichen Preis — das ist der Konflikt.
+- Wer zahlt den Preis: Moragh-Geborene zahlen mit dem Körper (Müdigkeit wie Sport, Reservoir leert sich); Thalassier zahlen KEINEN persönlichen Preis — das ist der Konflikt.
+- Reservoir-Mechanik: Beide haben ein persönliches Reservoir. Thalassier-Reservoir ist **größer**, Verbrauch pro Zauber **wesentlich geringer** als bei Moraghern (wirkt unerschöpflich). Aufladung in Quellennähe (beide); in Thalassien sehr langsam durch Mikro-Risse → Stufe 1–3 unbewusst. **Dämpfung trifft beide, aber Thalassier energetisch billiger zu dämpfen** (Velmar-Halsband, Halt-Magie). Trainings-Asymmetrie: Moragher lernen ab Kindheit + Akademie; Thalassier brauchen 6–9 Monate Moragh-Übung für Stufe 10. Details: `10-magie-system.md` Sektion „Training & Reservoir".
 - Sichtbarkeit in Buch 1: King-Niveau — subtil, ambivalent; die Leserin zweifelt bis Akt III; könnte Zufall sein.
 - Resonanz-Modi:
   - Geben (aktiv) — formt Material dauerhaft (Vesper legt Takt ins Uhrwerk; Alphina gibt Pflanzen Wachstumsform)

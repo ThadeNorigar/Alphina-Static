@@ -61,14 +61,26 @@ Moragh-Bürger-Rituale sind kulturell etabliert und in `20-moragh-talente.md` be
 
 ---
 
-## Training & Speicher
+## Training & Reservoir
 
-**Kein persönlicher Preis pro Zauber — aber Magie-Vorrat und Regeneration existieren.**
+**Kein persönlicher Preis pro Zauber — aber Reservoir und Verbrauch existieren.**
 
-- Thalassier in Moragh haben einen **größeren Magie-Vorrat** als Moragh-Geborene, brauchen aber **länger zur Regeneration** (Tage statt Stunden bei schwerer Nutzung).
-- Trainingskurve: **6–9 Monate fokussierte Übung in Moragh**, um Stufe 10 sicher zu beherrschen. Vorher: maximal Stufe 6–7 unter Stress, Stufe 4–5 zuverlässig.
-- In Thalassien (ohne Moragh-Aufenthalt) bleiben die Fünf bei Stufe 1–3 — unbewusste, zufällig wirkende Effekte. Das ist Buch 1.
-- **Beschränkung:** Thalassier können **keine Moragh-Rituale** beeinflussen oder stören — andere Magieart. Ein Bund-Überladungs-Ritual läuft ab, selbst wenn Alphina daneben steht. Sie kann nur dagegen halten, nicht abbrechen.
+Jeder Magier hat ein **persönliches Reservoir** als Magiespeicher. Reservoir leer = Magie nicht mehr wirkbar, bis nachgeladen. Thalassier und Moragher unterscheiden sich in zwei Mechanik-Achsen:
+
+- **Reservoir-Größe:** Thalassier haben ein **größeres Reservoir** als Moragher.
+- **Verbrauch pro Zauber:** Thalassier verbrauchen **wesentlich weniger** Reservoir-Energie pro Wirkung gleicher Stufe. Größeres Reservoir plus geringerer Verbrauch zusammen lassen Thalassier-Magie von außen unerschöpflich wirken; Regeneration dauert bei schwerer Nutzung Tage.
+- **Dämpfungs-Anfälligkeit:** Magie-Emission lässt sich aktiv blockieren (Velmar-Halt-Magie, präparierte Halsbänder). Reservoir bleibt voll, Wirkung kommt nicht heraus. **Trifft beide, aber Thalassier energetisch billiger zu dämpfen** — gleiche Dämpfungs-Energie reduziert Thalassier-Emission stärker als Moragh-Emission. Die Kehrseite ihrer Effizienz: ihre Magie braucht weniger Energie pro Zauber, also reicht weniger Energie auch um sie aufzufangen.
+
+**Aufladung:** Beide laden in Quellen-Nähe nach. Moragher müssen aktiv an Quellen aufladen; Aufladung außerhalb des Quellen-Radius kommt zum Stillstand. Thalassier-Reservoirs laden auch ohne direkte Quellen-Nähe nach (azyklisch), aber langsamer als in Quellen-Nähe.
+
+**Aufladung in Thalassien:** Energie sickert nur dünn durch die von Varen geöffneten Mikro-Risse (MZ -3 bis -1). Thalassier-Reservoirs füllen sich entsprechend langsam — über Wochen statt Stunden. Sobald genug geladen, manifestiert sich Magie auch ohne Training als **Wille oder unbewusster Gedanke**: Sorels Platten belichten sich, Alphinas Farne drehen sich, Marens Tee kräuselt im Atem. Das ist Buch 1 — Stufe 1–3, unbewusste Effekte.
+
+**Trainings-Asymmetrie:**
+
+- **Moragher** lernen Magie von Kind an, über Schule sozialisiert. Ihre Evolution hat das Wirken vorbereitet. Höhere Stufen werden in **Magie-Akademien** wie eine Berufsausbildung erworben. Sie sind dadurch **schneller bei der Magie-Ausübung** und kommen früh auf hohe Stufen.
+- **Thalassier** müssen das Wirken explizit trainieren. Ohne fokussierte Übung bleiben sie an unbewusste Effekte gebunden. **6–9 Monate fokussierte Übung in Moragh** für Stufe 10 sicher; vorher Stufe 6–7 unter Stress, Stufe 4–5 zuverlässig. In Thalassien (ohne Moragh-Aufenthalt) bleiben die Fünf bei Stufe 1–3.
+
+**Beschränkung:** Thalassier können **keine Moragh-Rituale** beeinflussen oder stören — andere Magieart. Ein Bund-Überladungs-Ritual läuft ab, selbst wenn Alphina daneben steht. Sie kann nur dagegen halten, nicht abbrechen.
 
 **Progression in der Trilogie:**
 - **Buch 1 (Vael):** Stufe 1–3, keine Übung, unbewusste Effekte
@@ -88,6 +100,8 @@ Ein Magier mit **Energie-Talent ab Stufe 5** (siehe `20-moragh-talente.md` — *
 Das Halsband ist das magisch wirksame Stück — **Lederarmbänder mit Kette zwischen den Handgelenken** sind dagegen rein mechanisch und werden zusätzlich oder getrennt verwendet, wenn physische Kontrolle gebraucht wird. Beide Formen seit etwa 15 Jahren in Velmar-Binder-Kreisen etabliert.
 
 **Warum Hals statt Handgelenk:** Der konstante Hautkontakt am Hals (enges Band, Haut direkt unter dem Leder, 24/7 Kontakt) und die zentrale Position nahe Atem und Stimme macht den Hals zum stärksten Absorberort. Armband-Versionen existieren (lockerer Sitz, nur Handgelenk) und dämpfen, aber schwächer — sie werden eingesetzt, wenn das Halsband aus kulturellen oder kosmetischen Gründen ausgeschlossen ist.
+
+**Trifft beide, aber unterschiedlich teuer.** Dämpfung wirkt sowohl gegen Moragher als auch gegen Thalassier. Aber: **gleiche Dämpfungs-Energie reduziert die Thalassier-Emission stärker** — energetisch sind sie billiger zu dämpfen. Das ist die Kehrseite ihrer Effizienz-Vorteile beim Wirken: ihre Magie braucht weniger Energie pro Zauber, also reicht weniger Energie auch um sie aufzufangen. Velmar-Halsbänder gegen Moragh-Magier brauchen mehr Präparations-Aufwand als gegen Thalassier-Resonanz.
 
 **Varen** als Fünffach-Begabter (Energie als eines seiner Talente) ist der stärkste bekannte Präparator. Seine Halsbänder dämpfen Thalassier-Resonanz besonders effektiv, weil er als Einziger diese Resonanz kennt.
 
@@ -449,7 +463,7 @@ Selten, weil Koordination schwer. Max 2–3 Mal in der ganzen Trilogie.
 
 1. **Magie kommt aus der Umgebung, nicht aus dem Körper.** Ausnahmen: Runa (magisches Feuer direkt), Sorel ab Stufe 4 (Licht aus Nichts).
 2. **Thalassier zahlen KEINEN persönlichen Preis pro Zauber.** Kein Nasenbluten, kein Hunger, keine Erschöpfung.
-3. **Magie-Vorrat und Regeneration existieren.** Thalassier haben größeren Vorrat, brauchen länger zur Regeneration (Tage bei schwerer Nutzung).
+3. **Reservoir und Verbrauch existieren — kein Preis pro Zauber.** Jeder Magier (Thalassier wie Moragher) hat ein persönliches Reservoir. Thalassier haben ein größeres Reservoir und verbrauchen pro Zauber wesentlich weniger als Moragher; Regeneration bei schwerer Nutzung dauert Tage. Beide werden durch Dämpfung blockierbar — Thalassier energetisch billiger zu dämpfen. In Thalassien lädt das Reservoir nur langsam (durch Mikro-Risse) — Stufe 1–3 unbewusst. In Moragh nach 6–9 Monaten Training Stufe 10. Moragher haben dank Sozialisation und Akademie-Ausbildung einen Übungs-Vorteil; Thalassier kompensieren über Effizienz.
 4. **Reichweite fällt logarithmisch ab.** Nahbereich 0–1 m = volle Macht. >50 m = praktisch nichts.
 5. **Training 6–9 Monate** für Stufe 10. Vorher: maximal Stufe 6–7.
 6. **Moragh zahlt — aber hauptsächlich für den KRIEG.** Quellen durch gezielte Überladung zerstörbar. Kein allgemeiner Schwund.
@@ -537,7 +551,7 @@ Der Begriff *Bindungsmagie* trägt im Velmar-Vokabular zwei verschiedene Wirkung
 
 Wenn eine Moragh-Quelle stirbt — durch Überladung oder katastrophalen Unfall — entfaltet sich die Wirkung in drei Schichten.
 
-**1. Resonanzen (Thalassier in Moragh): nicht betroffen.** Ihre Magie ist azyklisch und unabhängig von Moragh-Quellen. Sie spüren den Tod körperlich (wie einen Herzstillstand im Gestein), bleiben aber sofort wirkfähig. Das gilt für alle fünf Vael-Thalassier (Alphina, Sorel, Vesper, Maren, Runa) — und für jeden Thalassier, der je durchs Portal kommt.
+**1. Resonanzen (Thalassier in Moragh): wirkfähig, aber Quellen-Bonus weg.** Ihr Reservoir bleibt gefüllt, Magie sofort weiter wirkbar — sie sind nicht handlungsunfähig wie Moragher. Der Quellen-Nähe-Aufladungs-Bonus fällt weg: das verbrauchte Reservoir lädt nur noch im Hintergrund-Tempo nach (azyklisch, über Tage). Sie spüren den Tod körperlich (wie einen Herzstillstand im Gestein). Praktisch: in der Schlacht weiter wirkfähig, in der Kampagne über Tage erschöpfbar wenn keine andere Quelle erreichbar. Das gilt für alle fünf Vael-Thalassier (Alphina, Sorel, Vesper, Maren, Runa) — und für jeden Thalassier, der je durchs Portal kommt.
 
 **2. Moragh-Magier in Quellen-Reichweite: instantaner Speicher-Entzug.** Reservoir leert sich sofort, Magie unmöglich. Nachladen unmöglich — die speisende Quelle ist tot. Sie sind in Sekunden wehrlos und können ihren Beruf nicht mehr ausüben. Reichweite des Effekts entspricht dem Quellen-Einzugsbereich (Stadt + Umland).
 

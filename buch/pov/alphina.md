@@ -46,7 +46,7 @@ reihenfolge: 100
 
 ## Resonanz — Pflanzen / Zellwachstum
 
-**Mechanik:** Alphinas Resonanz wirkt auf **alle organische Materie** — Pflanzen, Mensch, Tier. Heilung, Wurzeln, Dornen, Blüten sind alle dieselbe Mechanik (Zellwachstum beschleunigen). Tote Stoffe reagieren NICHT (Holz schon abgestorben, Stein, Metall, Stoff). Magie kostet keinen Preis pro Wirkung (Memory `feedback_kein_magie_kosten.md`); Reservoir existiert, Regeneration dauert Tage bei schwerer Nutzung. **Starke Emotionen verstärken** (Wut, Trauer, Angst, Verzweiflung, Begehren). Sie ist ihr eigenes Nahfeld → faktisch unsterblich, nutzt es nie aktiv so. Sprachregel: spricht „Wachstum" oder gar nichts, nie „Resonanz" (Memory `feedback_resonanz_nicht_benennen.md`).
+**Mechanik:** Alphinas Resonanz wirkt auf **alle organische Materie** — Pflanzen, Mensch, Tier. Heilung, Wurzeln, Dornen, Blüten sind alle dieselbe Mechanik (Zellwachstum beschleunigen). Tote Stoffe reagieren NICHT (Holz schon abgestorben, Stein, Metall, Stoff). **Starke Emotionen verstärken** (Wut, Trauer, Angst, Verzweiflung, Begehren). Sie ist ihr eigenes Nahfeld → faktisch unsterblich, nutzt es nie aktiv so. Sprachregel: spricht „Wachstum" oder gar nichts, nie „Resonanz" (Memory `feedback_resonanz_nicht_benennen.md`). Allgemeine Reservoir-/Verbrauchs-/Aufladungs-Mechanik in `buch/10-magie-system.md` (Sektion „Training & Reservoir").
 
 ### Modi
 
@@ -74,7 +74,7 @@ Begehren leckt als **Pflanzen-Wachstum in der Nähe** (Memory `project_alphina_h
 
 ### Limits
 
-- **Magie-Vorrat:** existiert. Schwere Nutzung (B1-K38 Wurzel-Explosion, B3-K38 Portal-Quelle-Kollaps) braucht Tage Regeneration.
+- **Reservoir-Mechanik allgemein:** `10-magie-system.md` Sektion „Training & Reservoir". Bei Alphina relevant: schwere Nutzung (B1-K38 Wurzel-Explosion, B3-K38 Portal-Quelle-Kollaps) braucht Tage Regeneration.
 - **„Nur aufbauen"-Charakter-Grenze:** sie wählt Tötung nicht. Bei Bruch (K38) zahlt der eigene Körper — Wirbelsäulen-Narbe lebenslang.
 - **Tote Stoffe reagieren nicht** — kein Stein-Verformen, kein Metall-Schmelzen, keine Tor-Öffnung allein.
 - **Vier-Kopplung Tor-Öffnung:** braucht Pflanze + Licht + Zeit + Wasser. Sie ist die Initiatorin, nicht die Solo-Lösung.
@@ -171,7 +171,7 @@ Max ~40 Wörter, bricht unter Druck zu Fragmenten. Kein *sie dachte / sie fragte
 - **Varens Erstwahrnehmung am Moragh-Steinplatz** (K38) — falsche Augen, süßer Geruch, zu-Hause-Wirkung. Erste sinnliche Spur, dass die Welt anders ist.
 - **Varens Halt-Berührung am Steinplatz** (K38) — Druck + Zeit + Energie-Dämpfung. Körper missinterpretiert Schock als Erregung. **Feuert** in B2-Captivity, wenn das Velmar-Halsband ihre Kehle berührt (portable Variante derselben Energie-Dämpfung), und in jeder Varen-Nähe-Szene danach.
 - **Wirbelsäulen-Narbe** (K38) — lebenslang. **Feuert** im B3-K40-Sub-Phase, wenn Vesper sie zum ersten Mal sieht.
-- **Magie-Mechanik azyklisch + Emotions-Verstärker** — kein Reservoir-Preis pro Zauber, starke Emotionen verstärken. **Feuert** B1-K38 (Trauer + Wut), B2-Bund-Training (Bund-Meister missverstehen als „Verunreinigung"), B3-Akt-IV-Duell (Verzweiflung über zwei Tage anhaltend wirkfähig).
+- **Magie-Mechanik azyklisch + Emotions-Verstärker** — kein persönlicher Preis pro Zauber, starke Emotionen verstärken die Wirkung. **Feuert** B1-K38 (Trauer + Wut), B2-Bund-Training (Bund-Meister missverstehen als „Verunreinigung"), B3-Akt-IV-Duell (Verzweiflung über zwei Tage anhaltend wirkfähig).
 - **Schlaf-Haine im Bund-Quartier** (B2 Akt I) — wächst nachts unbewusst einen Wald um ihr Bett. **In der Mitte des Hains: Sorel als Baum mit schwarzer Rinde, Dornen, blutroten Blüten.** Niemand darf das wissen.
 - **„Verunreinigung"-Vokabular der Bund-Meister** (B2 Akt II) — wenn die schwarz/rote Anti-Flora durchschlägt. Sie speichert die Irritation. **Feuert** in Akt III, wenn ihre Bund-Skepsis wächst.
 - **„Sie glaubt, weil sie glauben WILL"** (B2 Endakt Captivity) — Selbst-Vergebungs-Bedürfnis nach Wegquelle K26 + Halvara-Kel K27. **Feuert** durchgehend B2 Endakt + B3 Akt I (Reparatur-Sitzungen).

@@ -88,7 +88,7 @@ Max ~30 W pro Satz, Ausnahmen bis ~40 W. **Wenn-Dann-Denken in vollständigen S�
 - **B3-K16:** sieht das **Velmar-Bindungs-Sigil an Alphinas Halsband** als pulsierendes Strukturmuster (Aktivierungs-Phasen). Ohne Hilfsmittel, durch reine Resonanz. (Frühere Konzept eines Temporal-KI-Helms gestrichen — Memory `project_moragh_keine_technologie.md`. Moragh hat keine KI.)
 
 **Grenzen:**
-- **Tiefe Mustererkennung kostet Konzentration.** Thalassier-Magie hat keinen Reservoir-Preis (Canon `10-magie-system.md`), aber das stundenlange Halten einer Resonanz zerrt am Körper. Vesper bekommt Kopfschmerzen, blasse Haut, zitternde Hände, das Gefühl von „zu lange am offenen Fenster gearbeitet — kalt, zu klar, ausgelaugt".
+- **Tiefe Mustererkennung kostet Konzentration.** Thalassier zahlen keinen persönlichen Preis pro Zauber (Canon `10-magie-system.md`), aber das stundenlange Halten einer Resonanz zerrt am Körper. Vesper bekommt Kopfschmerzen, blasse Haut, zitternde Hände, das Gefühl von „zu lange am offenen Fenster gearbeitet — kalt, zu klar, ausgelaugt".
 - **Kein direktes Steuern komplexer Systeme.** Er sieht Muster und kann einzelne Komponenten beeinflussen (eine Uhr, einen Atemzug, einen Vorgang); ein Drohnen-Schwarm ist nicht steuerbar — er kann ihn nur **analysieren**, jemand anders muss ihn ausschalten (Iven mit Resonanz-Pulsen durch Transformator, B3 Akt IV).
 - **Keine Tech-Adoption.** Moragh adoptiert keine Thalassien-Tech, und Vesper ist Thalassier in Moragh — er nutzt seine Resonanz, nicht Helme oder Computer.
 

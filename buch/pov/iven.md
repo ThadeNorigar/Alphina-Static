@@ -52,7 +52,7 @@ reihenfolge: 55
 - **Stören:** Frequenz-Puls auf elektronische Systeme. Drohnen, Exoskelette, Resonanz-Modulatoren.
 - **Speisen:** Resonanz-Generator füttern (statt fremder Quelle). Verbrauchsmodus.
 
-**Zahlt mit dem Körper** — wie jeder Moragh-Bürger. Kein Reservoir-Preis pro Zauber, aber Stromnutzung in hoher Intensität verbrennt von innen. Brandspuren an Fingerkuppen, Nasenbluten bei Dauerlast.
+**Zahlt mit dem Körper** — wie jeder Moragh-Bürger (Reservoir-Verbrauch + Sport-Müdigkeit, Mechanik in `10-magie-system.md`). Stromnutzung in hoher Intensität verbrennt zusätzlich von innen — Brandspuren an Fingerkuppen, Nasenbluten bei Dauerlast.
 
 ---
 
