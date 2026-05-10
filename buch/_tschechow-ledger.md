@@ -88,7 +88,7 @@ Zentrales Tracking von Plant→Payoff-Beziehungen. **Single Source of Truth** f�
 | TZ-060 | Schwarzer Turm wird einen Atemzug warm | K18 | K35 (Glutmond-Initiation, Übergabe) | abgefeuert | Vespers Resonanz-Indikator-Erstreaktion |
 | TZ-061 | Vier Modi (Pflanze, Licht, Zeit, Wasser) als ergänzende Resonanzen | K19 | K23, K34, K36, K37 (Ritual) | abgefeuert | Vier-Quadrat-Modell etabliert |
 | TZ-062 | Wächter-Schemen-Angriff (4:33 Riss-Öffnung) | K19 | K30, K34, K36, K37 | abgefeuert | Riss hat einen Takt — Vespers 4:33 bestätigt |
-| TZ-063 | Sorels Beschützer-Reflex (Alphina wegziehen) | K19 | K30, K38 (Sorel-Tod) | abgefeuert | Schwur-Wurzel |
+| TZ-063 | Sorels Beschützer-Reflex (Alphina wegziehen) | K19 | K30, K38 (Sprung auf Varen, erfüllt als Tod) | abgefeuert | Schwur-Wurzel — Sorel-Sprung ist Aktualisierung K38 |
 | TZ-064 | Wurzel-Skulptur als Steinkreis-Zeichnung-Echo | K19 | K20 (Maren erkennt Steinkreis im Symbolblatt) | abgefeuert | Cross-POV-Anker |
 | TZ-065 | „Wir müssen wissen was das war" (Alphina) | K19 | K20 (Archiv-Phase startet) | abgefeuert | Initiations-Beat für Akt III-Recherche |
 | TZ-066 | Wohlgefühl der Macht (Alphina nach K19-Kampf) | K19 | B2 (Bund-Training), B3 (Quellen-Zerstörung) | geladen | Setup für Alphinas dunklen Bogen |
@@ -97,7 +97,7 @@ Zentrales Tracking von Plant→Payoff-Beziehungen. **Single Source of Truth** f�
 | TZ-069 | Rotlicht als Wahrnehmungsfilter | K21 | (sensorischer Anker) | abgefeuert | Erotik-Ton-Marker |
 | TZ-070 | Farne durch Kellerwände | K21 | B2 (Wälder wachsen in Minuten, schwarz-purpur) | geladen | Eskalations-Setup für Moragh-Vegetation |
 | TZ-071 | Alphinas „Hand am Handgelenk halten" (Sorel) | K21 | K23 | abgefeuert | Körper-Echo der ersten Sex-Szene |
-| TZ-072 | „Behalte mich am Leben" — beiläufiges Versprechen | K21 | K38 (Sorel-Tod, Versprechen gebrochen) | abgefeuert | Tragik-Inversions-Beat |
+| TZ-072 | „Behalte mich am Leben" — beiläufiges Versprechen | K21 | K38 (Sorel-Tod, Versprechen gebrochen) | abgefeuert | Tragik-Inversions-Beat — K38 Payoff erfüllt |
 | TZ-073 | Schem im Keller (Schemen folgen Alphina persönlich) | K21 | K29 (passive Schemen), K30 (Offensive) | abgefeuert | Personenbezogene Schemen-Aktivierung |
 | TZ-074 | Namenlose Pflanze in Werft-Fuge (Moragh-Flora) | K22 | K26 (Datenabgleich), K34 (Garten blüht) | abgefeuert | Moragh-Flora-Indikator in Vael |
 | TZ-075 | Körperwarme Grauwe (Maren spürt mit Wasser-Resonanz) | K22 | K28 | abgefeuert | Eskalationsstufe zwei der Grauwe-Anomalie |
@@ -143,12 +143,12 @@ Zentrales Tracking von Plant→Payoff-Beziehungen. **Single Source of Truth** f�
 | TZ-110 | Tote ohne Wunde, Pistole nicht gezogen (Lehrling) | K28 | K30 (Joran), K32 (Tuchhändler) | abgefeuert | Schemen-Tötungs-Signatur etabliert |
 | TZ-111 | Marens erst-abgeschlossene Wohnungstür | K28 | (Akt III/IV) | geladen | Vael-Sicherheits-Bruch |
 | TZ-112 | Vesper/Maren-Wohnsituation gemeinsame Wohnung Hafengasse | K28+ | K35 (Vael-Nacht), B2 (Trennung) | geladen | Beziehungs-Zenit-Vorbereitung |
-| TZ-113 | Plattenkamera unter Tuch (seit Lichtmond unangetastet) | K29 | K38 (letztes Bild seines Lebens, Licht ohne Kamera) | geladen | Sorels Identitäts-Aufgabe — feuert beim Tod |
-| TZ-114 | Sorels Scheitern „Licht aus dem Nichts" | K29 | K38 (stirbt ohne die Frage je beantwortet zu haben) | geladen | Tragik-Beat für B2/B3 |
+| TZ-113 | Plattenkamera unter Tuch (seit Lichtmond unangetastet) | K29 | K38 (wird verlassen in Vael, letztes Bild seines Lebens ist Licht ohne Kamera-Vermittlung) | abgefeuert | Sorels Identitäts-Aufgabe K38 erfüllt |
+| TZ-114 | Sorels Scheitern „Licht aus dem Nichts" | K29 | K38 (letzter Lichtwurf ist unbewusst, Frage bleibt unbeantwortet beim Tod) | abgefeuert | Tragik-Beat K38 — Frage stirbt mit ihm |
 | TZ-115 | Passive Schemen-Beobachtung als Konstante (Lichthaus-Keller) | K29 | K30 (Offensive), K38 (Varens Schutzschemen wartet im Schatten) | abgefeuert | Schemen-Mechanik-Erweiterung |
 | TZ-116 | Verdunkelung als Anti-Schemen-Werkzeug | K29 | K30 (Werft-Querstraße: Wesen bleibt drin) | abgefeuert | Sorels Licht-Repertoire-Anwendung |
-| TZ-117 | Sorels innerer Schwur (ungesagt, beim Wachen neben Alphina) | K30 | K38 (er stirbt, schützt sie) | geladen | Schwur-Tod-Bogen |
-| TZ-118 | Frost im Knochen (Sorels Bein-Wunde) | K30 | K32 (Hinken), K33 (Vesper-Verband), K37 (Schwächegefühl), K38 (Eis als Vorwarnung) | abgefeuert | Vorwarnung für Sorel-Tod |
+| TZ-117 | Sorels innerer Schwur (ungesagt, beim Wachen neben Alphina) | K30 | K38 (er stirbt, schützt sie durch Sprung) | abgefeuert | Schwur-Tod-Bogen K38 erfüllt |
+| TZ-118 | Frost im Knochen (Sorels Bein-Wunde) | K30 | K32 (Hinken), K33 (Vesper-Verband), K37 (Schwächegefühl), K38 (körperliche Grenze beim Sprung) | abgefeuert | Sorel-Sterblichkeits-Marker K38 |
 | TZ-119 | Drei-Resonanzen-Kopplung (Maren+Alphina+Vesper) | K30 | K37 (Vier-Resonanzen-Kopplung) | abgefeuert | Eskalation Zwei→Drei→Vier |
 | TZ-120 | Hörner-Stümpfe-Schemen-Bauart (gespaltene Tritte, schwarze Augen) | K30 | B2 (Schemen-Bauarten in Moragh) | geladen | Wesen-Katalog für Buch 2 |
 | TZ-121 | Brandstellen in der Druckerei (Setzkasten, Türrahmen, Presse) | K30 | K31 (Runa sitzt am Setzkasten-Fleck), K34 | abgefeuert | Runas Selbst-Erkenntnis-Anker |
@@ -216,10 +216,10 @@ Zentrales Tracking von Plant→Payoff-Beziehungen. **Single Source of Truth** f�
 
 ## Statistik
 
-- **Plants gesamt:** 166
-- **Davon abgefeuert (innerhalb B1):** 73
-- **Davon geladen (etabliert, warten auf Payoff):** 53
-- **Davon geplant (in Aktplan/Entwurf, noch nicht final):** 26
+- **Plants gesamt:** 235 (davon 15 neu in K38, 10 abgefeuert)
+- **Davon abgefeuert (innerhalb B1):** 82 (73 + 10 neue K38-Payoffs + 1 TZ-224 geladen→abgefeuert)
+- **Davon geladen (etabliert, warten auf Payoff):** 54 (53 + 1 TZ-224)
+- **Davon geplant (in Aktplan/Entwurf, noch nicht final):** 97 (26 Akt IV alt + 15 neu K38 + 56 B2/B3-Übergreifend)
 - **Davon verworfen:** 2 (TZ-143 + TZ-146 — beide K35-4:33-Plants nach Online-Kommentar-Refactor 06.05.2026)
 - **Verwaiste Plants (≥ 3 Kapitel ohne Wiederaufnahme bei `geladen`-Status):**
   - TZ-003 (Wetterfahne — seit K01, kein Payoff sichtbar)
@@ -273,6 +273,41 @@ Plants, die in B1 gesetzt werden, aber erst in B2/B3 feuern. (Auszug aus dem Hau
 | TZ-218 | Bindungsrunen sichtbar an gebundenen Schemen (Farbe = Augenfarbe des Binders: Varen=violett, Haron=schiefergrau) | K19 (Sorel-Bericht + Steinkreis-Wesen), K28 (Höllenhunde am Steinkreis + Lauf), K30 (Hafen-Angriff, Brennfleck zerreißt Rune), K32 (Markt-Brand, Tageslicht-Sichtung), I3 (Feuer-Schemen Vaels Oberstadt), K29 (Lichthaus-Spion-Schemen — geplant für /ausarbeitung), K36 (Negativ-Beat „auf keinem leuchtet etwas" — geplant) | K38 (Alphina sieht in Moragh erstmals violette Runen, versteht rückblickend), B2-Velmar-Lehre (Augenfarbe-Mechanik wird Alphina/Maren/Vesper erklärt), B3-Talven-Bindungen | Visuelles Bindungs-Vokabular, etabliert 2026-05-09. Farbregel auf Augenfarbe umgestellt 2026-05-10 (vorher: Element-Profil). Rückwirkungs-Pass 2026-05-10 in 6 finalen Kapiteln + 1 Entwurf (K29). Ungebundene Beobachter-Sichtungen (K12, K15, K21, K26-Berichte) tragen bewusst KEINE Runen — Plot-Kontrast zu Varens gebundenen Schemen. |
 | TZ-219 | Hunderte wilde Zwischenwelt-Schemen am Garten-Rand (ohne Runen, freundlich-neugierig) | K36 (geplant) | K37 (während Ritual beobachten sie), K38 (Alphina vergleicht mit Varens Schemen), B2-Recherche (Halvara-Kel-Manuskript erklärt Brüchigkeit), B3-Heilung (verschwinden langsam nach Varens Vertreibung) | Welt-Mechanik 2026-05-09: brüchige Welten-Grenze, Mikro-Risse aus Zwischenwelt. Vorläufer-Sichtungen ungebunden in K12/K15/K21 (rückwirkend etabliert 2026-05-10) — passt zur Logik „wilde Schemen waren in Vael schon da, K36 nur erstmals in dieser Anzahl". |
 | TZ-220 | Boots-Schemen in Marens Werft trägt fast verblasste schiefergraue Haron-Bindungsrunen | 08-maren.md Z.75 (rückwirkend ergänzt 2026-05-10: „matte Spuren in einem alten Schiefergrau, kaum dunkler als die Haut darum"), B1-K26-vesper.md Z.101 (Marens Bericht — Sub-Erinnerung, kein Edit nötig) | B2 (Maren erinnert sich an die schiefergrauen Spuren, versteht in Moragh ihre Bedeutung — Augenfarbe = Bindungs-Identität → Maren erkennt rückblickend Harons Augenfarbe), B3-SFG (Werft-Geschichte) | Boots-Schemen-Korrektur: war von Haron gebunden, nicht „immer ungebunden". Farbe = Harons Augenfarbe (schiefergrau). Status `geplant` → `geladen`. |
+
+## Plants — K38 (Finale Kapitel)
+
+| ID | Plant (was) | Setup-Kapitel | Payoff-Kapitel | Status | Notiz |
+|---|---|---|---|---|---|
+| TZ-221 | Varens Erstwahrnehmung (Moragh-Steinplatz, Süß-metallischer Duft, warmer Stein, alte Thalassisch-Sprache, Hand-an-Kinn-Geste) | K38 | B2/B3 (fortlaufend) | geplant | Machtgeste + Sprach-Register als Macht-Wechsel |
+| TZ-222 | Drei-Resonanzen-Wirkung (Druck/Zeit/Energie auf Alphinas Körper) — portable Mechanik für Velmar-Halsband | K38 | B2-K27-Captivity (Halsband Variante C), B2-K13 (Wiedersehen), B2-K37 (Velmar-Lehre) | geplant | Basis-Mechanik für Bindungsmagie B2 |
+| TZ-223 | Schock-Erregung-Körperreaktion bei Varen-Nähe (Alphina) | K38 | B2-K13/K37 (Wiederholung + Erkenntnisbeat) | geplant | Körper-Gedächtnis-Anker |
+| TZ-224 | Schemen-Duft-Wiedererkennung (Varen riecht wie Schemen) | K12, K38 | B2-Akt III (Velmar-Beziehung zu Schemen aufgelöst) | geladen | Cross-POV Alphina K12 → K38 Alphina |
+| TZ-225 | Anti-Flora-Trauer-Form (schwarze Dornen, blutrot Blütensaum, Purpur-Stängel) auf Sorels Brust/Körper | K38 | B2-K27-Schlaf-Hain (Sorel-als-Baum), B2-K37-Trauer-Manifestation, B3-Akt III (Dornenblüten) | geplant | Trauer-Phänomen statt Begehren-Heat-Echo, Form ohne Verwelkung |
+| TZ-226 | Schwarze Anti-Flora-Blüte bleibt (sinkt nicht, verdorrt nicht) — Sorels persistenter Körper-Marker | K38 | B2-K27-Schlaf-Hain (Baum-Echo), B3-K45 (noch da) | geplant | Materielle Trauer-Spur |
+| TZ-227 | Erste Wunde an Varens Gesicht seit Jahrzehnten (von Sorels Sprung) | K38 | B2-K13 (verheilte Narbe sichtbar) | geplant | Sorel-Treffer als physische Markierung |
+| TZ-228 | Grenze „nur aufbauen" gebrochen (Alphina zerstört aktiv in Trauer-Ausbruch) | K38 | B2-K26/K27 (Quellen-Tötungs-Konsequenzen), B3 (moralische Schuld) | geplant | Charakter-Wendepunkt + Mechnik-Regel-Bruch |
+| TZ-229 | Reverse-Drei-Kopplung (Maren+Vesper+Runa halten Alphina statt vier zusammen zu halten) | K38 | B2-Solo-Magie-Sequenzen, B3-K38-Portal-Quelle-Zerstörung (allein wirken lernen) | geplant | Kopplung-Variation + Basis für B2-Trennung |
+| TZ-230 | Runas Druckerin-Stimme Wortlaut »Ich bin da.« | K38 | B3-K28-Wiederbegegnung (Wortlaut-Rhyme) | geplant | Sub-Text statt Aktion-Anker |
+| TZ-231 | Varens Wortlaut-Anker für Sz3-Rückzug »Ich hab Euch unterschätzet, Jährlein. Wir finden uns wieder.« (altes Thalassisch, -et-Endungen) | K38 | B2-K13-Wiedersehen (Sprach-Echos), B2/B3 (Macht-Register-Durchbruch) | geplant | Sprach-Identität + Versprechensanker |
+| TZ-232 | Marens Wade-Verletzung (von Sorels Lichtwurf-Rückprall) | K38 | K39 (Trauer ohne Worte), B2-K1-Wanderung (Hinken), B2-K17-FWB (Erinnerung) | geplant | Kollateral-Schuld-Marker |
+| TZ-233 | Vespers Schulter-Verletzung (von Schemen-Klaue) | K38 | B2-K1-Wanderung (Armbeuge-Schmerz), B2-K17-FWB (Erinnerung), B3-K13-Velmar-Behandlung | geplant | Körper-Erinnerungs-Anker |
+| TZ-234 | Runas Unterarm-Verletzung (Brandstelle von Magie-Überladung) | K38 | B2-K1-Wanderung (Verbandwechsel), B2-K17-FWB, B3 (Narbe bleibt sichtbar) | geplant | Feuer-Resonanz-Schuld-Marker |
+| TZ-235 | Maren-Wasser-Modus „Entziehen" (5. Modus, aktiv Wasser entziehendes Bewusstsein) | K38 | B2 (Wasser-Mangel-Mechanik in Moragh), B2-K39-Wasserweg (Portal-Riss-Begrenzung) | geplant | Neue Resonanz-Stufe |
+
+## Abgefeuerte Plants (K38)
+
+| ID | Plant (ursprüngliches Setup) | Abgefeuert in K38 | Payoff-Update | Notiz |
+|---|---|---|---|---|
+| TZ-030 | Sorels Schwur (K30: er wird sie schützen) | K38-Sz2 (Sprung auf Varen) + K38-Sz3 (Tod durch Schemen-Klaue) | K38 (erfüllt — stirbt schützend) | Schwur-Tod-Bogen eingeloest |
+| TZ-055 | Sorels Lichtformung kann er nicht abstellen (K16) | K38-Sz3 (letzter Lichtwurf bei Wunde, unbewusst) | K38 (Resonanz-Ausbruch ohne Steuerung als Sterbephänomen) | Resonanz-Unbewusstsein führt zum Tod |
+| TZ-051 | Humanoide Gestalt mit schwarzen Augen kippt Kopf zu Alphina (K15 — Varens Schemen-Projektion) | K38-Sz1 (Alphina sieht Varen selbst, erkennt retroaktiv die Geste aus K15) | K38 (Geste identifiziert) | Identitäts-Payoff |
+| TZ-119 | Drei-Resonanzen-Kopplung (K30) | K38-Sz4 (umgekehrt: drei halten eine) | K38 + B2-Solo (Basis für Trennung) | Kopplungs-Variation |
+| TZ-032 | Sorels Heilung durch Alphinas Magie (K12) | K38-Sz3 (Umkehrung: Anti-Flora-Form ohne Heilung) | K38 (Heilungs-Echo inverted) | Form-Echo statt Heilungs-Echo |
+| TZ-036 | Beobachter-Schemen (K12: still beobachtend) | K38-Sz1 (passiv im Schatten, Varens Schutzschemen) | K38 + B2 (Beobachtungs-Mechanik bleibt) | Varens Schemen als Beobachter etabliert |
+| TZ-040 | Vier-Kopplung-Tor (I1-I3-Etablierung: vier Resonanzen öffnen Tor) | K37-Sz3 + K38-Sz2 (vier feuern das Ritual) | K38-Moragh-Seite (Tor öffnet sich auf dieser Seite) | Vier-Mechanik erfolgreich |
+| TZ-028 | Steinkreis sieben Purpursteine (I1-Setup) | K37-K38 (Ritual-Ort) | K37-K38 (Portal-Schwelle) | Ort-Payoff |
+| TZ-044 | Moragh-Sprache etabliert (I3, TZ-154) | K38-Sz1 (Varen spricht sie, Alphina erkennt Register aus K24-Lene) | K38 (Sprach-Identität) | Sprach-Register-Kontinuum |
+| TZ-072 | Alphinas Versprechen »Behalte mich am Leben« (K21: beiläufig) | K38-Sz3 (Versprechen gebrochen durch Sorels Tod) | K38 (Tragik-Inversion erfüllt) | Tschechow gebrochen |
 
 ## Verwendungs-Hinweise
 
