@@ -309,6 +309,39 @@ Plants, die in B1 gesetzt werden, aber erst in B2/B3 feuern. (Auszug aus dem Hau
 | TZ-044 | Moragh-Sprache etabliert (I3, TZ-154) | K38-Sz1 (Varen spricht sie, Alphina erkennt Register aus K24-Lene) | K38 (Sprach-Identität) | Sprach-Register-Kontinuum |
 | TZ-072 | Alphinas Versprechen »Behalte mich am Leben« (K21: beiläufig) | K38-Sz3 (Versprechen gebrochen durch Sorels Tod) | K38 (Tragik-Inversion erfüllt) | Tschechow gebrochen |
 
+## Plants — K39 (Trauer + Begräbnis + Mission-Wandlung + Aufbruch)
+
+| ID | Plant (was) | Setup-Kapitel | Payoff-Kapitel | Status | Notiz |
+|---|---|---|---|---|---|
+| TZ-236 | Sorel-Token: glatter dunkler Kiesel aus Henriks Garten (Hosentasche) | K12 (Mikro-Beat rückwirkend), K39 (Entnahme) | B3-Akt-IV-Grab-Besuch (Rückgabe) | geplant | Material inert (Stein), kein Magie-Trigger; persönlicher Versöhnungs-Anker |
+| TZ-237 | Anti-Flora-Bluete als Grab-Markierung (zweite Welle, kontrolliert, ohne Verbündeten-Verletzung) | K39-Sz3 | B2-K27-Schlaf-Hain (Form-Konsistenz), B3-Akt-IV-Grab-Besuch (Kipp zu weiß durch aktiven Akt) | geplant | Verstetigung K38-Trauer-Form als Grab-Pflanze |
+| TZ-238 | Resonanz-geöffnete Erde via Wurzelnetz-Manipulation (neuer Modus für Alphina) | K39-Sz3 | B2-Bund-Training (systematische Schulung), B3-K38-Portal-Quelle-Kollaps (gleicher Mechanismus, andere Skala) | geplant | Konsistent mit Memory `project_alphina_zellwachstum.md` (organische Materie reagiert); `pov/alphina.md`-Modus-Tabelle muss erweitert werden |
+| TZ-239 | B3-Akt-IV-Rückkehr-zum-Grab-Event (Versöhnung mit Sorel) | K39 (Setup), B3-nach-K37 (Ausführung) | B3-Akt-IV (Alphina lässt aktiv weiße Blüten wachsen, legt Kiesel zurück, drei plus Alphina) | geplant | Mission-Schluss + Sorel-Versöhnungs-Akt; neues zeitleiste.json-Event nötig |
+| TZ-240 | Hain als Begräbnis-Ort (~halbe Meile vom Stein-Platz, Senke mit Erde, Pflanzen mit Blatt-Stamm-Verschmelzung) | K39-Sz2 | B3-Akt-IV-Grab-Besuch (Rückkehr) | geplant | Welt-Topos Moragh; Tschechow für B3-Rückkehr |
+| TZ-241 | Welt-Stille als Welt-Marker (keine Tiere, keine Vögel, keine Insekten in Moragh) | K39-Sz1 (erste explizite Markierung) | alle B2/B3-Moragh-Szenen (durchgängig) | geplant | Memory `00-canon-kompakt.md` Z.61; Bestäubungs-Frage als Botaniker-Sub-Tschechow |
+| TZ-242 | Quellen-Stein nicht grabbar (Stein inert, kein Erdreich) | K39-Sz1 (Vesper-Boden-Prüfung) | alle Quellen-Nähe-Szenen B2/B3 (Begräbnis, Lager, Verstecke nicht direkt an Quellen) | geplant | Welt-Beat konsistent mit `project_stein_quellen_pflanzen_resonanz.md` |
+| TZ-243 | Akkretionsscheibe-Drehung als Tageszeit-Marker (kein Sonnenaufgang, Helligkeitswechsel + Schatten flackert) | K39-Sz1 | B2-K01-Wanderung (Tag/Nacht-Rhythmus erlernen) | geplant | Welt-Beat; Schatten-Sehen als konkretes Vergleichsbild |
+| TZ-244 | Mission-Anker »Wir suchen ihn und vernichten ihn.« (Alphinas erster Wort-Akt seit Schrei) | K39-Sz4 | B2-K37 (Verrat durch Sex mit Varen — Mission verraten), B3-K25 (Trennung — Mission zurück), B3-K37 (Todesstoss — Mission eingelöst) | geplant | Plot-festgelegter Wortlaut-Anker (analog K38 »Ihr gestattet«) |
+| TZ-245 | Mantel-Verlust (Trage-Material; alle vier ohne Mantel nach K39) | K39-Sz2 | B2-K03-Dravek-Ankunft (Verhandlung um Kleidung) | geplant | Welt-Tatsache mit Folgewirkung |
+| TZ-246 | Ranken-Trage als Vespers Konstrukteur-Improvisation (zwei Rankenstränge + zwei Mäntel + Klappmesser) | K39-Sz2 | B2 fortlaufend (Vespers Improvisation in Quartieren ohne Werkstatt) | geplant | Mechaniker-Linse in Moragh |
+| TZ-247 | Wandlung Botanikerin → Suchende (Alphinas Identitäts-Bruch durch Sorel-Tod + Mission) | K39-Sz4 | B2-Bund-Training (Magie als Waffe statt Pflege), B2-K26/K27 (Quellen-Tötung als Mission-Folge), B3-K30 (Talven-Tötung als Fehlurteil-Mission) | geplant | Charakter-Wendepunkt, ohne Selbst-Erklärung |
+| TZ-248 | Erde an den Nägeln (Alphina wischt sich nicht ab — sie trägt die Spur mit) | K39-Sz3 (Begräbnis), K39-Sz4 (Aufbruch) | B2-K01-Wanderung (sie wischt erst Tage später ab) | geplant | Sorel-Spur am Körper, leise |
+| TZ-249 | Klappmesser von Maren (einziges greifbares Werkzeug der Vier nach Riss-Durchgang) | K39-Sz2 | B2-K03-Dravek-Ankunft (Werkzeuge erwerben), B2-K06-Elke (Werkzeuge als Tausch-Gut) | geplant | Werkzeug-Knappheit als B2-Setup |
+
+## Abgefeuerte Plants (K39)
+
+| ID | Plant (ursprüngliches Setup) | Abgefeuert in K39 | Payoff-Update | Notiz |
+|---|---|---|---|---|
+| TZ-232 | Marens Wade-Verletzung (K38) | K39-Sz1 (Inventur), K39-Sz2 (humpelt am Trage-Weg) | K39 (Trauer ohne Worte — als Schuld-Marker getragen) | Verstetigung der Verbündeten-Schuld |
+| TZ-233 | Vespers Schulter-Verletzung (K38) | K39-Sz1 (Inventur), K39-Sz2 (trägt mit gesundem Arm) | K39 (Funktions-Beat) | Verstetigung |
+| TZ-234 | Runas Unterarm-Verletzung (K38) | K39-Sz1 (Inventur, Hände heiß, Wunden kauterisieren), K39-Sz3 (Hände auf Alphinas Schultern) | K39 (Wärme-Care-Beat) | Verstetigung + neuer Care-Anker |
+| TZ-225 | Anti-Flora-Trauer-Form (K38) | K39-Sz1 (bleibt auf Brust), K39-Sz3 (zweite Welle als Grab-Markierung, sinkt mit Sorel mit) | K39 (verstetigt als Grab-Pflanze) | Form-Konsistenz |
+| TZ-226 | Schwarze Anti-Flora-Blüte bleibt (K38) | K39-Sz3 (sinkt mit Sorel ins Grab — Blüte versinkt mit Körper, neue Welle wächst aus geschlossener Stelle) | K39 (Verbleib-Mechanik bestätigt) | Materielle Kontinuität |
+| TZ-228 | „Nur aufbauen"-Grenze gebrochen (K38) | K39-Sz3 (kontrollierte zweite Welle ohne Verbündeten-Verletzung — sie übt die gebrochene Grenze ohne Schaden) | K39 (Bruch verstetigt sich als kontrollierter Akt) | Wandlung-Bestätigung |
+| TZ-229 | Reverse-Drei-Kopplung (K38) | NICHT in K39 (K39 ist explizit kein Verbund-Magie-Akt — jeder allein) | K39 (Cross-Sz-Kontrast: K38 = Verbund, K39 = einzeln) | Spiegel-Beat |
+| TZ-032 | Sorels Heilung durch Alphinas Magie (K12) | K39-Sz3 (Anti-Echo: Hand auf Erde funktioniert, Hand auf Sorel hätte nicht funktioniert) | K39 (Heilungs-Verbot bei Toten) | Memory `project_alphina_zellwachstum.md` |
+| TZ-019 | Sieben Hirschzungenfarne am Stadttor drehen sich (K05) | NICHT in K39 (Vael-Pflanzen, nicht Moragh) | — | Kein Echo |
+
 ## Verwendungs-Hinweise
 
 - Bei neuem Plant: nächste freie ID vergeben, in chronologischer Tabelle einsortieren, Status auf `geplant` oder `geladen`.
