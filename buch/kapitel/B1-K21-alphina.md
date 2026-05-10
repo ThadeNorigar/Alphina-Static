@@ -264,6 +264,20 @@ Sie schloss die Augen.
 
 Sie blieb liegen, bis die Farne ihre Wedel zu ihr neigten und so blieben. Sein Atem unter ihrer Wange wurde langsamer. Seine Finger in ihren Haaren hörten auf, sich zu bewegen. In den Becken an der Wand stand die Flüssigkeit ruhig, und das Rotlicht der Öllampe flackerte einmal kurz.
 
+Bevor sie sich aufrichtete, griff er nach seiner Hose, die neben den Dielen lag, und zog etwas aus der rechten Tasche. Er hielt es ihr offen in der Handfläche entgegen.
+
+Der Kiesel.
+
+Faustgroß, glatt, mit dem dünnen Hellgrau-Faden, der im Rotlicht der Öllampe wärmer aussah als damals im Mondlicht — ein Streifen, der sich an der Krümmung entlangzog, als hätte ihn jemand mit einem nassen Finger gezogen. Sie kannte den Stein an der Linie wieder, bevor sie die Form erkannte.
+
+Er sagte nichts. Er drehte ihn einmal zwischen Daumen und Zeigefinger, damit das Licht über den Hellgrau ging, dann legte er ihn neben sich auf die Diele, näher an ihrer Hüfte als an seiner.
+
+»Du hast gesagt, in der rechten Hosentasche«, sagte sie leise.
+
+»Da liegt er auch.«
+
+Sie legte die Hand auf den Stein, ohne ihn aufzuheben. Er war warm — von seiner Tasche, von seinem Körper. Dann nahm Sorel ihn zurück und ließ ihn wieder in die Hose gleiten.
+
 Dann setzte sie sich auf, zog den Mantel an, knöpfte ihn zu, während er ihr von der Seite zusah, ohne etwas zu sagen, ohne sie zurückzuziehen. Ihre Finger gingen langsam über die Hornknöpfe, einen nach dem anderen.
 
 An der Tür drehte sie sich noch einmal um. Er saß halb aufgerichtet auf den Dielen, das Hemd offen, die Haare im Rotlicht fast schwarz. Er hatte die sechzehnte Platte nicht weggeräumt. Sie lag noch auf der Arbeitsfläche, zwischen den anderen.
