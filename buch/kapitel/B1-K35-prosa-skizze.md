@@ -9,7 +9,7 @@
 **Plot-Korrekturen nach Online-Kommentaren (2026-05-06):** Die Skizze enthält mehrere Drifts gegen den aktuellen Plot-Entwurf:
 
 1. **Erst-Initiations-Bug:** Skizze behandelt K35 als Marens *erste* Initiation. Laut zeitleiste.json (ZEITSPRUNG 18. Glutmond 551) initiiert Maren seit vier Monaten — ca. 30+ Sessions in Routine. K35 ist die **letzte Vael-Initiation in der etablierten Routine**.
-2. **4:33 KOMPLETT raus:** Werkbank-Pendule mechanisch ohne 4:33-Drift, kein Penetrations-Takt mit Pendel-Verflechtung, kein „drei-vier-drei"-Schlag. 4:33 ist Varens Signatur (K38-Reveal), nicht Vesper-Magie-Tic, nicht Welt-Frequenz, nicht Ritual-Frequenz.
+2. **4:33 KOMPLETT raus aus K35-Sex:** Werkbank-Pendule mechanisch ohne 4:33-Drift, kein Penetrations-Takt mit Pendel-Verflechtung, kein „drei-vier-drei"-Schlag. 4:33 ist Welt-Mechanik (Quellen-Wellenlänge der Riss-Quelle, etabliert in `10-magie-system.md`) — nicht Vesper-Magie-Tic, nicht Sex-Takt-Anker, nicht Varens Signatur. Vesper *spürt* die Frequenz als Resonanz, nutzt sie aber nicht als Sex-Choreographie.
 3. **Karst-Endspiel-Canon:** POV-Dossier sagt *„Mit 19 Remis in Gewinnstellung — er sah eine Diagonale, die nicht zum Spiel gehörte"*. Skizze-Beschreibung *„Steine ordneten sich von selbst"* ist Drift. Phrase *„aufgehört zu lügen"* ist Plot-Addition, nicht canon — gestrichen.
 4. **Tränen-mit-Tor-Wissen RAUS:** Maren weint nicht. Sie genießt, Tor-Unterstrom körperlich-pragmatisch.
 5. **Vesper-kommt-nicht-Linie RAUS:** Wir erzählen Marens Orgasmus explizit. Bei Vesper *erwähnen wir nicht*, ob er kommt oder nicht — POV-Disziplin (Maren sieht ihn nicht, fragt nicht).

@@ -523,7 +523,9 @@ Jede Quelle pulsiert in einer eigenen **Grundfrequenz**, messbar als Schwingungs
 
 **Grossvater-Spur:** Diese Drift ist **nicht neu**. Die Tidemoor-Uhr verliert 4:33 seit Generationen. Vespers Großvater hat die Zahl schon notiert, ohne sie zu verstehen. Kein Thalassier hat je den Zusammenhang zur darunterliegenden Quelle gesehen — es gab keinen Begriff für "Quelle", keine Theorie für Resonanz-Schwingung im Fels. Die Anomalie wurde als Handwerker-Rätsel weitergegeben.
 
-**Varen nutzt, erzeugt nicht:** Varens Schemen-Übertritte folgen natürlichen Resonanz-Fenstern in dieser Grundfrequenz — er sendet seine Agenten in den 4:33-Takt, weil die Portalgrenze dort am durchlässigsten ist. **Er hat die Frequenz nicht erzeugt. Er hat sie studiert** (400 TZ-Jahre = 1 MZ-Jahr Beobachtung, genug für Muster-Erkennung) und **nutzt sie als Fahrplan**. In der K37-Offenbarung ist "SEIN Atem" metaphorisch: sein Ritual-Atem in MZ-Zeit synchronisiert sich mit der Quellen-Frequenz und verstärkt sie in der Periode seiner Aussendungen. Die Baseline bleibt Natur.
+**Portal-Fenster-Mechanik:** Das Portal öffnet sich für **eine Quellen-Wellenlänge** — also eine Schwingungsperiode der Quelle (Riss-Quelle Vael: 273 Sek = 4:33). In dieser Wellenlänge ist die Portalgrenze durchlässig, davor und danach geschlossen.
+
+**Varen nutzt, erzeugt nicht:** Varens Schemen-Übertritte folgen den natürlichen Resonanz-Fenstern dieser Grundfrequenz — er sendet seine Agenten in den 4:33-Takt, weil das Portal-Fenster in dieser Periode offen ist. **Er hat die Frequenz nicht erzeugt. Er hat sie studiert** (400 TZ-Jahre = 1 MZ-Jahr Beobachtung) und **nutzt sie als Fahrplan**. Die Frequenz ist Welt-Mechanik (Quellen-Eigenfrequenz), keine Signatur Varens, kein Ritus, kein Atem. Wer an einer anderen Quelle sendet, nutzt deren eigene Wellenlänge.
 
 **Implikation für Buch 2/3:** Andere Quellen pulsieren in anderen Frequenzen. Ein Resonanz-Ritual für eine andere Quelle braucht andere Timing-Werte. Das 4:33-Portal-Fenster ist spezifisch für Vael. In Moragh wird Vesper andere Frequenzen lesen müssen.
 

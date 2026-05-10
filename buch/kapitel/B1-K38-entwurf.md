@@ -278,7 +278,7 @@ Hinter Alphina kommt Vesper naeher. Ein Schritt zoegert, ein zweiter trifft ents
 - K32 Marktplatz-Zusammenbruch Runas Hitze offen — Runa kontrolliert die Waerme jetzt, ohne zu brennen. Eingeloest.
 - K12 Heilung an Sorels Verband — gespiegelt: K38-Sz4 ist Pflanzen-Resonanz, die nicht heilt; Form ist Verlust-Aufzeichnung statt Heilung.
 - K34 Anti-Schemen-Vorbereitung — Resultat sichtbar (Vorbereitung wirkungslos gegen Varen, drei Verletzte, einer tot).
-- I3 Riss-Mechanik — Riss bleibt unbeobachtet (alle vier sind auf der Moragh-Seite, sie wissen nicht, ob er sich nach 4:33 schliesst).
+- I3 Riss-Mechanik — Riss bleibt unbeobachtet (alle vier sind auf der Moragh-Seite, sie wissen nicht, ob/wann er sich schliesst).
 
 **Cross-POV-Ankerpunkte:**
 - K37 (Runa-POV) Sz3-Cliffhanger: K37 hatte das Schluss-Bild „Sorel im Sprung". K38-Sz4 ist das endgueltige Schluss-Bild „vier am Boden, einer tot, schwarze Bluete auf Brust". Beide Schluss-Bilder muessen unterschiedlich sein — K37 ist Bewegung, K38 ist Stillstand. Cross-POV-Spiegelung.
@@ -297,7 +297,7 @@ Hinter Alphina kommt Vesper naeher. Ein Schritt zoegert, ein zweiter trifft ents
 - K28-K35 Schemen-Tag-Angriff, Halvard-Mentorat, fuenf Monate Uebungen, Manuskript-Frakturen, Stein-Schemen-Inventur, K35-letzte-Vael-Initiation als Routine.
 - K36-Steinkreis-Kuss, Heat-Echo-Pflanzen-Manifestation als Sorel-Form (Farne, Blattwerk).
 - K37-Sz1-Sz2 (aus Sz1 nicht-belauschend, aber Aktplan-Wissen): Aufstellung am Steinkreis, Vier-Resonanzen-Kopplung, Tor oeffnet sich, sie geht als Letzte durch (sie weiss nicht, dass Runa folgt — sie hat sich nicht umgedreht).
-- 4:33-Fenster: sie weiss, dass es das gibt. Sie weiss nicht, ob es schon abgelaufen ist (sie ist nicht zurueckgegangen, hat keine Pendel-Uhr im Blick).
+- Riss-Fenster-Dauer: ungewiss. Sie weiss nicht, wann er sich schliesst, hat keine Pendel-Uhr im Blick.
 
 ### Was weiss Alphina am Ende von K38?
 
