@@ -197,7 +197,7 @@ Tohl haelt das Ruder einen Moment still. Er sagt nichts (er ist allein im Boot).
 
 Jara nummeriert die Bogen, ordnet, vergibt eine Archiv-Signatur (im Stil des Vael-Archivs: Buchstabe-Jahr-Nummer, also „D-551-N", N = naechste freie Nummer in der „D"-Klasse, „Daverin/Dahl/Diverse-Stadtchronik"). Esther steht an der Tuer, sieht zu, sagt nichts. Jara spricht laut, was sie tut — das ist ihre Methode, praezise zu bleiben (sie hat es von Esther gelernt). Sie sagt: dieser Bogen Position eins, jener Position zwei, Querverzeichnis zur Manuskript-Abschrift im roten Band, Querverzeichnis zur Flugblatt-Serie zwei in Halvards Liste der Faelle.
 
-Beim **Zaehlen der Flugblaetter** (drei Serien, jede mit eigener Stueckzahl) kommt sie beim ersten Durchgang auf eine Zahl, beim zweiten auf eine andere — sie zaehlt ein drittes Mal, die Zahl stimmt mit dem ersten Durchgang. Sie traegt die Zahl ein. Esther sagt nichts. **Methode haelt, aber sie kostet.** Jara macht weiter.
+Beim **Zaehlen der Flugblaetter** (drei Serien, jede mit eigener Stueckzahl) kommt sie beim ersten Durchgang auf eine Zahl, beim zweiten auf eine andere — sie zaehlt ein drittes Mal, die Zahl stimmt mit dem ersten Durchgang. Sie traegt die Zahl ein. Esther sagt nichts. *(Plot-Anweisung, nicht in Prosa: Methode haelt, aber sie kostet — der Beat soll das durch die Doppel-Zaehl-Geste tragen, ohne Erzaehler-Kommentar.)* Jara macht weiter.
 
 Sie geht zum Regal, wo Harons Moragh-Woerterbuch lag — der Platz ist leer (Vesper hat es mitgenommen). Jara macht einen Eintrag: *„Woerterbuch H. Dahl, Inv.-Nr. ..., entnommen Woche vor Portal-Schluss durch V., nicht zurueckgegeben. Status: nicht im Archiv."* Sie haengt den Eintrag ans Konvolut.
 
