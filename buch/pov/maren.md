@@ -40,7 +40,7 @@ Schiffbauerin. **Identität liegt im Beruf**, nicht im Namen, nicht in der Herku
 
 ## Resonanz — Wasser
 
-**Mechanik:** Wasser reagiert auf Marens Willen + mentale Vorstellung. Vier Modi, alle 30-60 Sekunden, nie instant. Magie kostet keinen Preis (kein Thalassianer bezahlt — Memory `feedback_kein_magie_kosten.md`).
+**Mechanik:** Wasser reagiert auf Marens Willen + mentale Vorstellung. Fünf Modi, alle 30-60 Sekunden, nie instant. Magie kostet keinen Preis (kein Thalassianer bezahlt — Memory `feedback_kein_magie_kosten.md`).
 
 | Modus | Wirkung | Skala |
 |---|---|---|
@@ -48,6 +48,7 @@ Schiffbauerin. **Identität liegt im Beruf**, nicht im Namen, nicht in der Herku
 | **Kochen** | Wasser zum Sieden bringen ohne Feuer. Lokal in Becken, Tasse, Wanne. | klein |
 | **Vereisen** | Wasser zu Eis frieren. Von Pfütze bis Wasserfläche. | klein bis mittel; B1-K28 erstmals an der Mole |
 | **Hören** | Wasser-Strömungen lesen — wo es fließt, wo es weint, wo es rückwärts geht. Tohl-Daverin-Modus. Diagnostik. | passiv |
+| **Entziehen** | Grundwasser aus dem Boden ziehen, in weitem Radius. Pflanzen welken, Erde trocknet. Erste Anwendung B1-K38 (Beruhigungs-Beat — Marens Anteil an der Drei-Resonanzen-Beruhigung Alphinas: Wasser-Entzug lässt Anti-Flora-Wurzeln erschlaffen). | mittel; 30-60 Sek pro Anwendung |
 
 **Status untrainiert:** Bis K27 nimmt sie nichts davon als Magie wahr — Körper weiß es, Verstand drückt es weg. Vesper macht es ihr ab K17 (Schiffsuhr) langsam bewusst. Erste bewusste Anwendung B1-K28 am Steinkreis: sie folgt dem rückwärts fließenden Wasser, friert eine Hand-Pfütze. Trainiert ab Zeitsprung K22→K35 unter Vespers Aufsicht.
 

@@ -695,6 +695,45 @@ Die Runen liegen **unter der Energie-Emission** („Rauch") an der eigentlichen 
 
 **Verblassen mit dem Bindungs-Zustand:** Solange der Binder lebt und die Bindung trägt, leuchten die Runen konstant. Schwächt sich die Bindung (Reservoir-Druck beim Binder, große Distanz, eigene Auflösungs-Tendenz, Portal zwischen Binder und Schemen), werden sie matter. Stirbt der Binder, fadet die Bindung über **Wochen bis Monate** aus — die Runen verblassen entsprechend, bis sie nur noch als feine narbige Linien zu erkennen sind. Erst wenn die letzte Spur weg ist, ist die Bindung mechanisch endgültig gelöst.
 
+### Bindungs-Personifikation (Canon seit 10. Mai 2026)
+
+Bindungs-Glyphen tragen die **Signatur des Binders** und den **Typ der Bindung**. Drei Achsen:
+
+**1. Farbe** folgt dem Element-/Magie-Profil des Binders:
+- **Violett** — Druck/Gravitation (Varen, Velmar-Druck-Linie)
+- **Kupfern** — Bund-Verstoßene (verbrannte Brücken-Markierung)
+- **Kalkweiß** — alte Mar-Keth-Linie (formell, archaisch)
+- **Goldgelb** — Halvaren-Schule (Wärme/Schmiede-Kombination)
+- **Tiefrot** — Blutbinder (selten, Talven, Tabu)
+- **Stahlgrau** — neutrale Werkzeug-Binder ohne Hauszuordnung
+
+**2. Glyphen-Stil** spiegelt den **Charakter des Binders**:
+- **Scharfe, kantige Linien** — Macht-Spieler, Disziplin-Träger (Varen)
+- **Fließende, geschwungene Linien** — empathische Binder, Liebes-Bindung
+- **Dichte, verschachtelte Glyphen** — Kontroll-Bedürftige
+- **Schlichte, monochrome Glyphen** — Werkzeug-Binder ohne emotionalen Anspruch
+- **Verzerrte, ungleichmäßige Glyphen** — instabile / sadistische Binder
+
+**3. Bindungs-Typ** bestimmt das Glyphen-Muster:
+
+| Bindungs-Typ | Muster | Wann |
+|---|---|---|
+| **Werkzeug-Bindung** | funktional, schlicht, repetitive Glyphen | Standard für Arbeits-Schemen, Botengang, Beobachtung |
+| **Macht-Bindung** | scharf, dominant, große Glyphen an Stirn/Brust | Schutz-Schemen, Soldaten, Disziplin-Demonstration |
+| **Liebes-Bindung** | weich, ineinandergreifend, feine Glyphen an Nacken/Handrücken | selten, sexuelle/emotionale Bindung mit Schemen (Velmar-Privatkultur) |
+| **Bestrafungs-Bindung** | dunkel, schmerzlich, dornig wirkend, tief eingebrannt | Tabu, fast nur bei Talven (B3) |
+
+**Anwendung in der Erzählung:** POV-Figuren, die einem Schemen begegnen, lesen die Glyphen mit unterschiedlicher Auflösung. Thalassier in B1 sehen nur „leuchtende Markierungen, fremd"; Moragher in B2/B3 erkennen Farbe und grobe Schule (z.B. Velmar-Violett); ausgebildete Velmar-Mitglieder lesen die genaue Hand-Signatur des Binders. **Erzähler-Pflicht:** keine institutionelle Deutung in POV-Prosa, wenn die Figur sie nicht hat — nur Bild beschreiben.
+
+**Cross-Refs für Nebencharaktere (Stand Mai 2026, ergänzungsbedürftig):**
+- **Varen** — Violett, scharfe Macht-Glyphen an Stirn/Schultern/Handrücken (alle Vael-Schemen, alle Schutz-Schemen K38)
+- **Talven (B3)** — Tiefrot, dornig, Bestrafungs-Glyphen an verstörender Position (Bauchnabel, Nieren); Privat-Erfindung
+- **Haus Torven (B2-K24, Velmar-Lehrerin Irenna)** — Kalkweiß, formelle Glyphen an Nacken (Mar-Keth-Linie)
+- **Drael (Bund, B2-K20)** — Bund-Doktrin lehnt Bindung ab; rufende Schemen tragen keine Glyphen
+- **Haron Dahl (Boots-Schemen Vael)** — fast verblasste violette Linien (eigene Hand, posthume Bindung; siehe „Boots-Schemen-Sonderfall" oben)
+
+Weitere Nebencharaktere (Halvaren-Lehrer, andere Velmar-Häuser, Thar-Magier) werden bei Erstauftritt im jeweiligen Dossier (`22-moragh-figuren.md` + B2/B3-Aktpläne) spezifiziert.
+
 **Ausnahme — ungebundene Freigelassene.** Wenn ein Beschwörer stirbt, während ein nicht-gebundener Schemen noch in Thalassien aktiv ist, wird der Schemen sofort **frei** (keine Runen, weil von Anfang an keine Bindung). Bei vorher gebundenen Schemen geschieht die Freisetzung dagegen **graduell** über das Verblassen der Runen.
 
 **Boots-Schemen in Marens Werft (Sonderfall):** Von **Haron Dahl** vor seinem Tod gebunden — Haron war der einzige aktive Beschwörer Thalassiens dieser Generation und hat den Schemen über Jahre als Werft-Helfer gebunden gehalten. Seit Harons Tod (vor Marens Ankunft in Vael) fadet die Bindung aus. Heute (Herbst/Winter 551 TZ) sind Harons Runen auf den breiten Schultern, dem Nacken und den Handrücken des Schemen nur noch als **fast verblasste schiefergraue Spuren** sichtbar — kein Leuchten mehr, eher matte Linien unter der Haut, kaum heller als die Haut selbst. Praktisch ist die Bindung damit gelöst: der Schemen folgt keinen Befehlen mehr, arbeitet aus eigener Neugier am Boot weiter, wie er es zu Harons Zeit gewohnt war (Aufgabe-als-Routine-Beat). Reservoir-Frage: dass er Jahre nach Harons Tod nicht aufgelöst ist, hängt vermutlich mit der Vael-Quellen-Resonanz im Werft-Umland zusammen — minimaler Nachladestrom durch die brüchige Welten-Grenze (siehe „Wilde Schemen aus der Zwischenwelt" weiter unten).
