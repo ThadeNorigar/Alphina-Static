@@ -40,7 +40,9 @@ Die K20-Archiv-Register-Daten (Zuzug TZ 514, Adoption TZ 544) sind Canon aus der
 
 **Fähigkeiten:** **Beschwörer** — der einzige aktive Beschwörer in Thalassien dieser Generation. Trainiert in einer nicht rekonstruierten Linie (vermutlich Velmar-Schule, vor seiner Aussendung). Hat in Vael mindestens einen Schemen beschworen, der noch nach seinem Tod aktiv ist.
 
-**Aussehen (zu Lebzeiten):** Mittelgroß, sehnig, Bootsbauer-gezeichnet. Graues Haar im Alter, helle Augen — konnte als Thalassier durchgehen. Immer salzige Kleidung, Lederschürze über Leinen. Sprach Thalassisch fließend mit leichtem Akzent, den niemand zuordnen konnte.
+**Aussehen (zu Lebzeiten):** Mittelgroß, sehnig, Bootsbauer-gezeichnet. Graues Haar im Alter, **schiefergraue Augen** (genetisch hell, durch Quellen-Exposition nur leicht intensiviert — seine Magie-Begabung war dünn, nicht violett-stark wie Varen) — konnte als Thalassier durchgehen. Immer salzige Kleidung, Lederschürze über Leinen. Sprach Thalassisch fließend mit leichtem Akzent, den niemand zuordnen konnte.
+
+**Augenfarbe-Konsequenz:** Harons Bindungsrunen am Boots-Schemen tragen genau diesen schiefergrauen Ton (Canon `10-magie-system.md` „Bindungsrunen — Farbe folgt der Augenfarbe des Binders"). Heute, ein Jahr nach Harons Tod, sind die Runen fast verblasst — matte schiefergraue Spuren an Schultern, Nacken und Handrücken des Boots-Schemen, kaum heller als die Haut selbst. Maren sieht sie in B1-K8 (`08-maren.md` Z.75), kann sie nicht einordnen. In B2 erinnert sie sich rückblickend daran, wenn sie in Moragh die volle Bindungsrunen-Mechanik versteht.
 
 **Motivation:** Varens Auftrag durchführen — eine Generation, eine Lebensaufgabe. Aber: über Jahrzehnte hat er auch **wirklich gelebt**. Fünf Jahre Briefwechsel mit Maren über Holz, Boote, Handwerk — das war echt. Haron war Agent und Mensch zugleich. Das macht seinen Nachlass ambivalent.
 
@@ -52,12 +54,12 @@ Die K20-Archiv-Register-Daten (Zuzug TZ 514, Adoption TZ 544) sind Canon aus der
 
 - **Vor B1:** fünf Jahre Briefwechsel mit Maren
 - **B1-Kap 1:** Haron stirbt kurz vor Marens Ankunft in Vael. Natürliche Ursachen, Altersschwäche.
-- **B1-Kap 4 und später:** Maren erbt Werft + Boot (drei Viertel fertig). Entdeckt keine Moragh-Hinweise — Haron hat sauber aufgeräumt. Was bleibt: **der gebundene Boots-Schemen**, der nachts weiterbaut.
+- **B1-Kap 4 und später:** Maren erbt Werft + Boot (drei Viertel fertig). Entdeckt keine Moragh-Hinweise — Haron hat sauber aufgeräumt. Was bleibt: **der einst von Haron gebundene Boots-Schemen**, dessen Bindung seit Harons Tod graduell verblasst (siehe `10-magie-system.md` „Bindungsrunen / Boots-Schemen-Sonderfall"). Der Schemen baut nachts weiter, weil ihm das Bootbauen zur Routine geworden ist — die Bindung ist effektiv gelöst, die schiefergrauen Runen kaum noch sichtbar.
 
 ## Narrative Funktion
 
 Haron ist **der lange Arm Varens** in Thalassien. Ohne ihn gäbe es keine Werft, kein Boot, keinen Schemen, und Maren hätte keinen Anlass, in Vael zu bleiben. Die gesamte Vier-Zusammenführung in B1 ist auf Harons jahrzehntelanger Arbeit aufgebaut.
 
-**Der Boots-Schemen**, den er vor seinem Tod beschwor, ist nach Harons Tod **frei** (nicht gebunden, weil Haron keinen Bindungs-Folgeritus durchführte). Der Schemen arbeitet weiter nicht aus Pflicht, sondern weil ihm das Bootbauen gefällt. Das ist das einzige freie Schemen-Wesen in Thalassien.
+**Der Boots-Schemen**, den Haron vor seinem Tod beschwor und gebunden hielt, ist seit Harons Tod **funktional frei** — die Bindung fadet graduell aus (Canon `10-magie-system.md` „Bindungsrunen — Verblassen mit dem Bindungs-Zustand"), die schiefergrauen Runen an Schultern und Nacken sind heute fast verblasst. Mechanisch hängt er an einem dünnen Rest-Faden, der über Wochen weiter erlischt. Funktional folgt er keinen Befehlen mehr und arbeitet aus eigener Routine am Boot weiter — nicht aus Pflicht, sondern weil ihm das Bootbauen zur Gewohnheit geworden ist. Das ist das einzige Schemen-Wesen in Thalassien ohne lebenden Beschwörer. Reservoir-Auflösung verzögert sich vermutlich durch minimalen Nachladestrom aus der brüchigen Welten-Grenze in Vael (Canon „Wilde Schemen aus der Zwischenwelt").
 
 **Emotionaler Kern:** Maren trauert um einen Mann, den sie nie getroffen hat und der sie hereinlegte. Diese Doppel-Wunde trägt sie durch B1 und B2. Als sie in B3 Elke trifft und von Varens Mar-Keth-Tat erfährt, versteht sie den Umfang von Harons Verrat erst vollständig.

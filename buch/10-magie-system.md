@@ -680,7 +680,14 @@ Der Schemen zahlt den Preis seiner eigenen Zauber aus seinem eigenen Magie-Vorra
 
 ### Bindungsrunen
 
-Jede aktive Bindung manifestiert sich auf dem Körper des Schemen als **leuchtende Runen** — feine Glyphen aus konzentrierter Bindungsenergie, **dauerhaft sichtbar** an klaren Körperstellen (Stirn, Schultern, Handrücken, Brust, Nacken), je nach Velmar-Schule unterschiedliche Glyphen-Sätze. Farbe folgt dem Element-/Magie-Profil des Binders: Varens Runen schimmern **violett** (Bindung + Druck/Gravitation), Velmar-Hausbindungen oft kupfern (Bund-Verstoßene) oder kalkweiß (alte Mar-Keth-Linie).
+Jede aktive Bindung manifestiert sich auf dem Körper des Schemen als **leuchtende Runen** — feine Glyphen aus konzentrierter Bindungsenergie, **dauerhaft sichtbar** an klaren Körperstellen (Stirn, Schultern, Handrücken, Brust, Nacken), je nach Velmar-Schule unterschiedliche Glyphen-Sätze.
+
+**Farbe folgt der Augenfarbe des Binders.** Eine Bindung trägt die Resonanz-Signatur ihres Schöpfers, und in Moragh manifestiert sich die individuelle Magie-Stärke an der Augenfarbe (Memory `project_augenfarben_quellen_exposition`). Die Bindungsrunen übernehmen exakt diesen Ton — pro Binder eine Farbe, übertragen auf alle seine gebundenen Schemen, unabhängig von Element-Profil oder Velmar-Schule. Beispiele:
+
+- **Varen** (violette Augen, stark Magie-begabt) → violette Runen an allen Schemen seiner Bindung
+- **Haron Dahl** (schiefergrau, Mar-Keth-Velmar mit dünner Begabung) → schiefergraue Runen am Boots-Schemen
+- **Irenna Torven** (Hellgrau-fast-Eisfarbe) → eisgraue Runen an Kalm und ihren weiteren Bindungen
+- Generelle Logik: Augenfarbe-Spektrum in Moragh läuft von tief-saphirblau über Schiefer/Bernstein/Salbei bis zu leuchtend violett bei stark Magie-Begabten — Bindungsrunen folgen exakt mit.
 
 Die Runen liegen **unter der Energie-Emission** („Rauch") an der eigentlichen Körperoberfläche und scheinen stetig durch — der Rauch verdeckt sie nicht, höchstens trübt er sie. Distanz dämpft die Helligkeit, aber nicht die Sichtbarkeit selbst.
 
@@ -688,7 +695,7 @@ Die Runen liegen **unter der Energie-Emission** („Rauch") an der eigentlichen 
 
 **Ausnahme — ungebundene Freigelassene.** Wenn ein Beschwörer stirbt, während ein nicht-gebundener Schemen noch in Thalassien aktiv ist, wird der Schemen sofort **frei** (keine Runen, weil von Anfang an keine Bindung). Bei vorher gebundenen Schemen geschieht die Freisetzung dagegen **graduell** über das Verblassen der Runen.
 
-**Boots-Schemen in Marens Werft (Sonderfall):** Von **Haron Dahl** vor seinem Tod gebunden — Haron war der einzige aktive Beschwörer Thalassiens dieser Generation und hat den Schemen über Jahre als Werft-Helfer gebunden gehalten. Seit Harons Tod (vor Marens Ankunft in Vael) fadet die Bindung aus. Heute (Herbst/Winter 551 TZ) sind Harons Runen auf den breiten Schultern, dem Nacken und den Handrücken des Schemen nur noch als **fast verblasste, dunkel-violette Spuren** sichtbar — kein Leuchten mehr, eher schattige Linien wie alte Tinte unter der Haut. Praktisch ist die Bindung damit gelöst: der Schemen folgt keinen Befehlen mehr, arbeitet aus eigener Neugier am Boot weiter, wie er es zu Harons Zeit gewohnt war (Aufgabe-als-Routine-Beat). Reservoir-Frage: dass er Jahre nach Harons Tod nicht aufgelöst ist, hängt vermutlich mit der Vael-Quellen-Resonanz im Werft-Umland zusammen — minimaler Nachladestrom durch die brüchige Welten-Grenze (siehe „Wilde Schemen aus der Zwischenwelt" weiter unten).
+**Boots-Schemen in Marens Werft (Sonderfall):** Von **Haron Dahl** vor seinem Tod gebunden — Haron war der einzige aktive Beschwörer Thalassiens dieser Generation und hat den Schemen über Jahre als Werft-Helfer gebunden gehalten. Seit Harons Tod (vor Marens Ankunft in Vael) fadet die Bindung aus. Heute (Herbst/Winter 551 TZ) sind Harons Runen auf den breiten Schultern, dem Nacken und den Handrücken des Schemen nur noch als **fast verblasste schiefergraue Spuren** sichtbar — kein Leuchten mehr, eher matte Linien unter der Haut, kaum heller als die Haut selbst. Praktisch ist die Bindung damit gelöst: der Schemen folgt keinen Befehlen mehr, arbeitet aus eigener Neugier am Boot weiter, wie er es zu Harons Zeit gewohnt war (Aufgabe-als-Routine-Beat). Reservoir-Frage: dass er Jahre nach Harons Tod nicht aufgelöst ist, hängt vermutlich mit der Vael-Quellen-Resonanz im Werft-Umland zusammen — minimaler Nachladestrom durch die brüchige Welten-Grenze (siehe „Wilde Schemen aus der Zwischenwelt" weiter unten).
 
 ### Reservoir und Befehlstreue
 
