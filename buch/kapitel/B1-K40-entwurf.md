@@ -41,9 +41,9 @@ LINA / NORA / VICTORIA hier NICHT — keine Romantasy-, keine Power-Dynamik-, ke
 Im Garten: der Steinkreis sieht aus wie immer. Stein wie immer. **Pflanzen wachsen weiter NICHT in den Kreis hinein** (die Quelle pulsiert weiter, die Grenze bleibt — aeusserlich unveraendert). Sie laeuft das Rund ab, schaut von zwei Seiten in den Kreis.
 
 Sie findet menschliche Spuren:
-- **Sandalen-Eindruecke an fuenf Stellen im Kies** (sie zaehlt sie, skizziert die Anordnung auf einem Bogen, vermisst die Abstaende mit der Hand-Spanne — Werft-Hand-Methode, die sie sich bei Maren abgeschaut hat in K20)
-- **Druck-Maerker** (TZ-157-K37-Plant): einer im feuchten Erde am Stein-Sockel, einer im Lindengebuesch. Druckerei-Werkzeug. Sie erkennt es sofort (sie kennt Runas Druckerei aus Geschaeftskontakt: Runa liefert Flugblaetter ans Archiv). Sie hebt beide auf, wickelt sie in Tuch.
-- **Runas Laterne** (TZ-052-K37-Plant): am Zaun-Spalt, ausgegangen, kalt. Sie hebt sie auf — schweres Kupfer, Vael-Bauart, kein Eigentuemer-Markenzeichen. Die Laterne ist ein objektiver Beweis, dass jemand am Zaun-Spalt heimlich gewartet hat. Plus den Druck-Maerker-Konnex: Runa.
+- **Schuh-Eindruecke an fuenf Stellen im Kies** (Stiefel, Sohlen-Profil unterschiedlich pro Eindruck — sie zaehlt sie, skizziert die Anordnung auf einem Bogen, vermisst die Abstaende mit Bleistift + Lineal, Archivarin-Methode). Plot-Beat: laut K34 waren VIER geplant. Jara sieht FUENF Eindrücke. Sie weiss nicht, wer die fuenfte ist — sie hatte am Treffen K34 keine Andeutung darauf. Notiert die Diskrepanz auf dem Bogen, ohne sie zu erklaeren.
+- **Zwei kleine Metall-Werkzeuge** am Stein-Sockel und im Lindengebuesch (TZ-157-K37-Plant: Runas Druck-Maerker, Berufsreflex beim Einpacken — sie hat sie aus der Tasche verloren bzw. am Boden gesetzt). Jara erkennt sie NICHT als druckerei-spezifisch (sie kennt Drucker-Werkzeug nicht aus eigener Anschauung — Runas Werkstatt hat sie nie betreten, der Kontakt lief ueber Sievert-Vermittlung und Flugblatt-Lieferung am Archiv-Eingang). Sie hebt sie auf, wickelt sie in Tuch, ordnet sie unter „unbekanntes Metall-Werkzeug, gefunden am Steinkreis 3. Dunkelmond 551" ein. Plot-Pflicht: KEINE Identifikation Runa hier. Tschechow erst in B3-Forensik, wenn jemand das Werkzeug einem Druckereibestand zuordnet.
+- **Kupferlaterne** am Zaun-Spalt (TZ-052-K37-Plant): ausgegangen, kalt, Vael-Bauart, kein Eigentuemer-Markenzeichen. Jara hebt sie auf — Hinweis, dass jemand am Zaun-Spalt heimlich gewartet hat. Sie verknuepft das mit der fuenften Spur im Kreis, kann aber niemanden identifizieren.
 
 Sie deutet das **nicht** in Worten. Sie sammelt. Sie geht zurueck.
 
@@ -53,9 +53,9 @@ Sie deutet das **nicht** in Worten. Sie sammelt. Sie geht zurueck.
 2. **Manuskript-Abschrift** mit ihrer Handschriften-Markierung (zwei Handschriften — Lene + zweite Hand, die spaeter eingefuegt wurde, K24-Canon)
 3. **Schemen-Inventur-Bogen** aus K34-Sz2 (sie fuehrte den Bogen, links Bauart, rechts Magie-Modus)
 4. **Sandalen-Eindrucks-Skizze** vom Morgen
-5. **Druck-Maerker** (zwei Stueck, in Tuch gewickelt)
-6. **Runas Laterne** (in einem Karton)
-7. **Runas Flugblaetter** (drei Serien, sie hat Exemplare angesammelt seit dem Sommer — Vereinbarung mit Runa)
+5. **Zwei kleine Metall-Werkzeuge** (in Tuch gewickelt; Beschriftung „unbekanntes Werkzeug, Steinkreis-Fund 3. Dunkelmond")
+6. **Kupferlaterne** (in einem Karton, Vael-Bauart, ohne Eigentuemer-Markenzeichen)
+7. **Runas Flugblaetter** (drei Serien, sie hat Exemplare angesammelt seit dem Sommer — Vereinbarung: Runa liefert ein Exemplar pro Auflage am Archiv-Eingang ab, Sievert nimmt es entgegen und gibt es an Jara weiter — Jara hat Runas Druckerei selbst nie betreten)
 
 Sie nummeriert, ordnet, vergibt eine Archiv-Signatur (Vael-Standard: Buchstabe-Jahr-Nummer, „D-551-N"). Spricht laut, was sie tut (Methode: sich selbst diktieren, K24-Charakter). **Beim Zaehlen der Flugblaetter** kommt sie beim ersten Durchgang auf eine andere Zahl als beim zweiten. Zaehlt ein drittes Mal. Stimmt mit dem ersten. Sie traegt die Zahl ein.
 
@@ -68,19 +68,19 @@ Sie legt das Konvolut neben Akten, die niemand seit siebzig Jahren angesehen hat
 - Jara's Erkenntnis am Ende: das Konvolut ist Zeugnis, nicht Erklaerung. Die Stadt wird vergessen. Die Akten nicht.
 - Knapper Dialog mit Halvard (3+2 Saetze, sachlich). Sonst Jara allein.
 - *PFLICHT-Marker /ausarbeitung:* Jara als aktive Forscherin, nicht passive Beobachterin. Sie WILL Beweis-Material. Erste Saetze tragen den Auftrag, nicht Atmosphaere. Commercial Hook: Figur mit Ziel.
-- *PFLICHT-Marker /ausarbeitung:* Sandalen-Eindruecke an fuenf Stellen sind der einzige Beweis, dass fuenf Personen dort standen. Jara zaehlt — drei am Steinkreis (Vesper, Sorel, Maren plus Alphina im Zentrum = vier; plus Runa, die im letzten Moment durchsprang) — sie sieht fuenf. Sie weiss aus K34, dass nur Vier in den Plan waren; die fuenfte Eindruck ist der Beweis, dass jemand mitsprang. Plus die Druck-Maerker + Laterne → sie weiss: Runa. Plot-Erkenntnis fuer B2/B3-Recherche.
+- *PFLICHT-Marker /ausarbeitung:* Schuh-Eindruecke (Stiefel — Dunkelmond ist Spaetherbst, kein Sandalen-Wetter) an fuenf Stellen sind der einzige Beweis, dass fuenf Personen dort standen. Jara weiss aus K34, dass nur Vier im Plan waren. Die fuenfte Eindruck-Stelle ist eine Diskrepanz — sie kann niemanden zuordnen. Plot-Pflicht: KEINE Runa-Identifikation in K40. Tschechow nur als unaufgeloeste Frage, die in B2/B3-Recherche aufgenommen wird.
 - *PFLICHT-Marker /ausarbeitung:* Doppelzaehl-Beat der Flugblaetter (Methode haelt, kostet). Trauma-durch-Methode-Beat.
 - *PFLICHT-Marker /ausarbeitung:* Jara-Halvard-Begegnung knapp und sachlich. Keine Emotion ausgesprochen — beide bezeugen durch Methode, nicht durch Worte. Kein „sie sah ihn traurig an"-Erzaehler-Glosse.
 
 **Tschechow-Waffen geladen:**
 - **Konvolut „D-551-N"** mit Archiv-Signatur + Fundverzeichnis-Querablage — Tschechow B2/B3 (jemand wird es spaeter finden; Beweis-Material fuer Recherche)
-- **Sandalen-Eindrucks-Skizze (fuenf Stellen)** — Tschechow B3 (Jara entdeckt rueckwirkend, dass Runa als fuenfte dabei war; in B3-Recherche signifikant)
-- **Druck-Maerker im Konvolut** — Tschechow B3 (Runa-Identifikation als Mitschmuggler)
-- **Runas Laterne im Karton** — Tschechow B3 (B3-Recherche-Beat: physisches Objekt)
+- **Schuh-Eindrucks-Skizze (fuenf Stellen)** — Tschechow B3 (Diskrepanz vier-vs-fuenf bleibt offen, in B3-Recherche aufzunehmen)
+- **Zwei unbekannte Metall-Werkzeuge im Konvolut** — Tschechow B3 (Druck-Maerker werden in B3-Forensik einem Druckereibestand zugeordnet, dann fuehrt die Spur zu Runa zurueck. Jetzt: unidentifizierter Fund.)
+- **Kupferlaterne im Karton** — Tschechow B3 (B3-Recherche-Beat: physisches Objekt, kein Eigentuemer-Markenzeichen)
 
 **Tschechow-Waffen abgefeuert:**
-- TZ-157 / TZ-181 K37-Druck-Maerker geladen → Jara findet sie und identifiziert sie als Runa-spezifisch
-- TZ-052 K37-Laterne geladen → Jara findet sie am Zaun-Spalt
+- TZ-157 K37-Druck-Maerker geladen → Jara findet sie, kann sie NICHT identifizieren (Runa-Werkstatt nie betreten); legt sie als „unbekanntes Metall-Werkzeug" ins Konvolut. Identifikation erst in B3-Forensik.
+- TZ-052 K37-Laterne geladen → Jara findet sie am Zaun-Spalt, ohne Eigentuemer-Identifikation
 - K24 Jaras Zwei-Handschriften-Erkenntnis im Manuskript → feuert hier (sie ordnet die Markierung systematisch ins Konvolut)
 - K34-Schluss Manuskript-Original-Rueckgabe ins Archiv → feuert hier (sie hat es, es liegt im Konvolut)
 - Pflanzen-Steinkreis-Grenze (geladen K3, K12, K22) → feuert hier als **unveraendert** (Grenze bleibt, weil Quelle pulsiert weiter — Welt-Mechanik gegen das alte „Grenze weg"-Konzept)
@@ -321,7 +321,7 @@ Er weiss: er ist jetzt der Drucker von Vael. Er ist zwanzig oder einundzwanzig, 
 
 ### Was wissen sie am Ende?
 
-- **Jara:** das Konvolut existiert, archiviert mit Querverzeichnissen; die fuenfte Person war Runa (Sandalen + Druck-Maerker + Laterne-Identifikation); sie hat Halvards Bericht als Position 8 im Konvolut
+- **Jara:** das Konvolut existiert, archiviert mit Querverzeichnissen; sie weiss, dass fuenf Personen am Steinkreis standen statt der geplanten vier — wer die fuenfte war, ist offen (Diskrepanz auf dem Bogen notiert); sie hat Halvards Bericht als Position 8 im Konvolut
 - **Halvard:** seine Mentee kommt nicht zurueck (Schachtel-Beweis); er hat einen Bericht geschrieben, der ins Archiv geht; er hat seine Methode an die Grenze gefuehrt, gibt sie nicht auf
 - **Edric:** Maren rechnet damit, dass sie nicht zurueck ist (Urkunde mit Wirksamkeits-Bedingung Saatmond 552); die ganze Gruppe ist mit gleichen Uebertragungen gegangen; er macht weiter
 - **Tarn:** Runa kommt nicht zurueck (Brief, vor Saatmond 552); Maren auch nicht (Edric-Beat); er ist jetzt Drucker von Vael, hat nicht entschieden, ist es
