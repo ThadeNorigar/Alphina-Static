@@ -22,7 +22,7 @@
 
 **Wortziel:** 1.200–1.500 W
 
-Alphina tritt als Letzte durch den Riss auf einen Stein-Platz. Vier sind durch. Welt-Erstwahrnehmung: zwei Monde, Akkretionsscheibe-Sonne, dichte Luft, suess-metallischer Geruch. Drei Schritt vor ihnen steht ein Mann (dunkler Mantel, attraktiv, scharfer Blick, hochintelligent-gefaehrliche Aura). Hinter ihm im Schatten ein pferdgrosser Schemen mit vier Armen und Klauen plus zwei oder drei kniehohe vierbeinige Wesen. Die Vier sehen alle Wesen, erfassen die Situation als Empfangskomitee — kein Zufall. Etwa zehn Sekunden Vorlauf, kurzer Wort-Wechsel zwischen ihnen moeglich. Dann wirkt der Mann eine Drei-Resonanzen-Wirkung (Druck/Zeit/Energie) und fixiert alle vier; sie weiss nicht, dass es drei Faeden sind, spuert nur, dass sie nicht kann. Er geht auf Alphina zu, legt die Hand an ihr Kinn (Geste-Echo Lichthaus-Schemen K12), spricht in altem Thalassisch (kennt alle vier Namen, sagt, er habe ihre Resonanz seit ueber 400 Jahren erspuert). Schock-Adrenalin triggert Koerper-Marker. Beat kippt am Ende, als sein Blick fuer einen Atemzug von ihr abrutscht.
+Alphina tritt als Letzte durch den Riss auf einen Stein-Platz. Vier sind durch. Welt-Erstwahrnehmung: zwei Monde, Akkretionsscheibe-Sonne, dichte Luft, suess-metallischer Geruch. Drei Schritt vor ihnen steht ein Mann am Stein-Platz — er ist da gewesen, nicht gerade angekommen (lila Leuchten in seinen Augen, dunkler Mantel, attraktiv, scharfer Blick, hochintelligent-gefaehrliche Aura). Hinter ihm: ein pferdgrosser Schutzschemen plus zwei oder drei kniehohe vierbeinige Wesen, alle mit dunkel-violetten Bindungs-Glyphen. Der Mann ist ueberrascht, sie zu sehen — er wusste, dass jemand kommen wird, hat den Moment aber nicht abpassen koennen. Er spricht zuerst in **Moragh-Sprache**, kurz, fragend. Vier verstehen nicht. Vesper antwortet auf Thalassisch (Vokabel-Reste aus Harons Sprachbuch, knapp). Der Mann erinnert sich der alten Sprache, wechselt **hoeflich auf altes Thalassisch**, stellt sich vor (»Ich bin Varen«), wickelt die Vier ein, ihre Namen zu nennen — Zivilisations-Reflex, sie nennen ihre Namen. Alphina erkennt die violetten Bindungs-Glyphen wieder — vom grossen Schemen aus dem Hafenangriff K30 und allen anderen Vael-Schemen, die mit dieser Marke kamen. Sie spricht ihn darauf an. Varen reagiert: einen kurzen Satz in alter Sprache (Plot-Wortlaut-Anker: »Wir sorgen mal dafuer, dass ihr jetzt nichts Dummes macht…«), dann setzt seine Drei-Resonanzen-Wirkung ein (Druck/Zeit/Energie), fixiert alle vier. Er geht auf Alphina zu, legt die Hand an ihr Kinn (Geste-Echo Lichthaus-Schemen K12). Schock-Adrenalin triggert Koerper-Marker. Beat kippt am Ende, als sein Blick fuer einen Atemzug von ihr abrutscht.
 
 **Dialog-Informationen:**
 - *Setting:* 3. Dunkelmond 551 TZ, Moragh, MZ 0. Erster Stein-Platz auf der anderen Seite. Vesper, Sorel, Maren bereits durch (Reihenfolge K37-Sz2). Alphina als Letzte; sie hat nicht mitbekommen, wie spaet Runa gesprungen ist (Sorel-Prinzip: Runa ist hinter ihr, Alphina hat sich nicht umgedreht).
@@ -36,15 +36,27 @@ Alphina tritt als Letzte durch den Riss auf einen Stein-Platz. Vier sind durch. 
   - **Zeit:** Atem wird zu lang, Augen sind zu langsam, Reaktionen kommen verspaetet (groesste Komponente).
   - **Energie-Daempfung:** sie spuert die Quelle unter dem Stein-Boden, das Reservoir fuellt sich schneller als in Vael (Quellen-Naehe-Aufladungs-Bonus, siehe `10-magie-system.md`). Sie spuert das in den Handflaechen als Kribbeln, in den Knien als Druck. Wille zur Wirkung trifft aber auf Daempfung am Ausgang — Reservoir bleibt voll, Magie kommt nicht heraus. (Memory: Thalassier sind energetisch billiger zu daempfen als Moragher; Varens Drei-Faden-Wirkung trifft sie besonders gut.)
   - Sie weiss nicht, dass es drei sind — sie spuert nur die Folge.
-- *Plot-festgelegte Wortlaut-Anker — Varens Sprache (Aktplan-Vokabel-Anker, NICHT Stil-Vorgriff):*
-  - er spricht **altes Thalassisch** (Hoeflichkeitsformen aus historischen Texten: »Ihr gestattet« statt »Du erlaubst«; »Jaehrlein« als Diminutiv fuer »Jahre«; alte Substantive wie »Fuhre« statt »Kutsche«). Vokabel-Liste ist Plot-Anker, weil sie Varens Zeit-Distanz markiert — die Vokabeln sind Pflicht-Inhalt fuer /ausarbeitung.
-  - er sagt sinngemaess: er hat **ihre Resonanz durch den Riss erspuert ueber vierhundert Jahre.** (Aktplan-Wortlaut »Eure Resonanz. Ich hab sie durch den Riss erspueret. Ueber vierhundert Jaehrlein.« — Plot-Anker, weil die 400 Jahre Plot-Information sind: er kennt sie, bevor er sie sieht, seit Elkes Zeit.)
-  - er sagt ihre Namen — alle vier (Alphina, Sorel, Vesper, Maren). Aus dem Mund eines Fremden, in altem Thalassisch.
+- *Varen war schon da (Plot-Korrektur 2026-05-10, Online-Anmerkung):* er ist nicht gerade angekommen. Er war an seiner Seite des Stein-Platzes, hat **Stunden in MZ-Zeit** gewartet (Schemen-Bindung-Druck als Ritual-Indikator, Welt-Mechanik). 2 MZ-Stunden = ~3,7 TZ-Wochen — er ist da gewesen, waehrend auf Vael-Seite das Ritual vorbereitet und durchgefuehrt wurde. **Er rechnet nie in TZ-Zeit** (Plot-Pflicht: Varen sagt nichts ueber Jahre, ueber Resonanz-Erspueren, ueber 400 Jaehrlein — diese Sprache ist GESTRICHEN). Er sagt nur, was ein Moragher in MZ-Zeit denken wuerde: kurze Wartezeit, kurze Reaktion auf das Ritual.
+- *Sprach-Wechsel-Sequenz (Plot-Korrektur 2026-05-10, Online-Anmerkung):*
+  - **Varen spricht zuerst Moragh-Sprache** — kurz, fragend (Plot-Inhalt: „Wer seid ihr?" oder „Was wollt ihr hier?" in Moragh-Vokabel). Vier verstehen nicht.
+  - **Vesper antwortet auf Thalassisch** — knapp, etwa: „Wir verstehen Euch nicht." Vesper hat Vokabel-Reste aus Harons Sprachbuch.
+  - **Varen erinnert sich der alten Sprache** — kurzes Innehalten, „ah ja..." (Plot-Beat-Inhalt: Erkenntnis, dass diese Thalassier altes Thalassisch sprechen).
+  - **Varen wechselt hoeflich auf altes Thalassisch.** Hoeflichkeitsformen: „Ihr" statt „Du", -et-Endungen. Vokabel-Anker bleiben (»Jaehrlein« etc.) — aber NICHT in Resonanz-/400-Jahre-Form.
+- *Plot-festgelegte Wortlaut-Anker — Varens Begruessung (Plot-Korrektur 2026-05-10):*
+  - **»Ich bin Varen.«** (in altem Thalassisch, Vorstellung als Zivilisations-Reflex)
+  - **Frage nach den Namen** (sehr hoeflich, charmant — er „wickelt die Vier ein", Plot-Wortlaut-Inhalt: er fragt danach, dass sie sich vorstellen). Vier antworten mit ihren Namen: Alphina, Sorel, Vesper, Maren.
+  - **Pflicht-Form: kurz, hoeflich, einwickelnd.** KEIN Resonanz-Wort. KEINE Erwaehnung von 400 Jahren. KEINE Zeit-Mathematik in TZ. Plot-Pflicht fuer /ausarbeitung.
 - *Was Alphina aus seiner Rede entnimmt (Plot-Inhalt, kein Wortlaut):*
-  - **er kommt aus Elkes Zeit** (Fakt-Erkenntnis ueber das Sprach-Register; sie kennt das aus Lene Dahls TZ-154-Manuskript-Frakturen, K24-Anker).
-  - er kennt sie und ihre Resonanz schon — bevor sie ihn sieht.
-  - er kennt alle Namen der Vier.
-  - die Distanz ist sofort da: charmant, hoeflich, fremd. **Nicht die Fremdheit einer anderen Sprache, sondern die Fremdheit einer anderen Epoche in der eigenen** (interner Plot-Beat — sie versteht ihn, das ist das Verstoerende).
+  - **Er spricht alte Sprache (TZ-154-naher Stand)** — sie kennt das aus Lene Dahls Manuskript-Frakturen (K24-Anker). Plot-Erkenntnis: er muss aus Elkes Zeit oder davor kommen.
+  - **Er ist hoeflich, charmant, einwickelnd** — kein Schock-Tableau, sondern Zivilisations-Geste. Die Distanz ist sofort da: er versucht sie zu zaehmen, nicht zu uebermannen.
+  - **Sie versteht ihn — und das ist verstoerend.** Nicht die Fremdheit einer anderen Sprache, sondern die Fremdheit einer anderen Epoche in der eigenen.
+- *Alphinas Runen-Wiedererkennung als Trigger (Plot-Korrektur 2026-05-10, Online-Anmerkung):*
+  - Alphina sieht die **dunkel-violetten Bindungs-Glyphen** an den Schemen — pferdgrosser Schutzschemen, kniehohe Wesen. Sie erinnert sich an alle Schemen, die mit dieser Marke nach Vael kamen: **der grosse Schemen vom Hafenangriff K30** (mindestens), plus die anderen mit violetten Runen.
+  - **Sie spricht ihn darauf an.** Plot-Inhalt: „Eure Wesen waren in Vael" / „Ich kenne diese Marke" / „Ihr habt sie geschickt" — konkreter Wortlaut /ausarbeitung.
+  - **Plot-Trigger:** dieser Beat triggert Varens Einfrier-Befehl. Er hatte zuerst auf Zivilisations-Vorstellung gesetzt; jetzt erkennt er, dass Alphina sofort die Verbindung zieht. Risiko: sie wird gegen ihn handeln.
+- *Varens Einfrier-Befehl (Plot-Wortlaut-Anker, Plot-Korrektur 2026-05-10):*
+  - **»Wir sorgen mal dafuer, dass ihr jetzt nichts Dummes macht…«** — in altem Thalassisch, sinngemaess. Pflicht-Form: kurz, sachlich, kalt-pragmatisch (kein Drohung-Pathos).
+  - Direkt anschliessend: **Drei-Resonanzen-Wirkung setzt ein** (Druck/Zeit/Energie). Die Vier werden fixiert.
 - *Varens Geste am Koerper (Aktplan-Anker):* Hand an Kinn, Daumen unter Kiefer, Finger an Halsschlagader. Er dreht ihren Kopf leicht. Er schaut in ihre Augen. Er riecht an ihrem Haar. Beat-Inhalt: Studium, nicht Sex — aber die Geste ist sexuell-grenzwertig, weil sie Hand-an-Hals-Naehe ist. Die Leserin hat Angst, dass er sie missbrauchen wird; er tut es nicht.
 - *Schemen-Geruch-Wiedererkennung (Plot-Beat, Tschechow K12-Echo):* Varen riecht **wie die Schemen** — warmer Stein, etwas Suesses. Alphina erkennt den Geruch von den drei Schemen auf der Mauer (K12) und vom Lichthaus-Keller-Schemen (Sorels Bericht). Sie zieht keine Schlussfolgerung; sie registriert nur. Plot-Inhalt: stille Erkenntnis, dass Varen und die Schemen zur selben Welt gehoeren.
 - *Schock-Erregungs-Koerper-Reaktion (Memory: Koerper missinterpretiert Schock als Erregung; KAYA + NORA-Anker):* Alphinas Koerper reagiert (Halsschlagader, Bauch, Knie). Sie will nicht — der Koerper tut es trotzdem. Plot-Beat-Wichtigkeit: das ist **nicht Begehren**, das ist Schock-Adrenalin, das ihre eigenen Koerper-Marker triggert (sie kennt die Marker aus Sorel-Naehe; ihr Koerper kann zwischen Sorel-Begehren-Erregung und Varen-Schock-Erregung in dieser Sekunde nicht unterscheiden). Tschechow fuer B2-Captivity (Halt-Beruehrung-Erinnerung feuert dort, wenn Velmar-Halsband ihre Kehle beruehrt — portable Variante derselben Energie-Daempfung).
@@ -187,7 +199,7 @@ Alphina schreit ohne Atempause: erst Schmerz-Schrei (hoch, duenn), dann Wut-Schr
 - *Varen sieht ihr beim Wachstums-Ausbruch zu — bevor er flieht (Aktplan + NORA-Anker):*
   - er steht jenseits des wachsenden Kreises. Haende unten. Augen auf ihr.
   - sein Gesicht traegt weder Angst noch Freude.
-  - Sub-Text: er sieht ihrer Resonanz zum ersten Mal in voller Form zu — er hat 400 Jahre lang ihren Puls durch den Riss erspuert, jetzt sieht er sie. Das ist nicht „er hat verloren"; das ist „er hat die Datenmenge bekommen, fuer die er gekommen war". Plot-Beat **fuer die Leserin sichtbar, fuer Alphina nicht** (sie sieht nur den Mann, der zurueckweicht; sie sieht nicht, dass er studiert).
+  - Sub-Text: er sieht ihrer Resonanz zum ersten Mal in voller Form zu — er kannte die Vier-Resonanz nur indirekt ueber Schemen-Bindungs-Druck und durch Elke-Erzaehlung; jetzt sieht er sie live. Das ist nicht „er hat verloren"; das ist „er hat die Datenmenge bekommen, fuer die er gekommen war". Plot-Beat **fuer die Leserin sichtbar, fuer Alphina nicht** (sie sieht nur den Mann, der zurueckweicht; sie sieht nicht, dass er studiert).
   - dann erst flieht er, weil das Pflanzen-Inferno ihn nicht laenger laesst.
 - *Was Alphina NICHT weiss (Sorel-Prinzip, ueber alle Sub-Text-Beats):*
   - dass das Wesen, das Sorel toetet, ein Schutzschemen mit Auftrag-Reflex ist (kein direkter Mord-Befehl Varens — Mit-Verantwortung).
@@ -317,7 +329,7 @@ Vesper kommt hinkend hinter Alphina. Hand auf ihre Schulter, wortlos — eigener
 - die fremde Welt hat zwei Monde, dichte Luft, einen Boden, der nachgibt, alte Pflanzenfasern unter dem Stein.
 - Varens Geruch ist Schemen-Geruch.
 - Varen kommt aus Elkes Zeit (Sprach-Register).
-- Varen hat ihre Resonanz seit ueber 400 Jahren erspuert.
+- Varen wusste durch Elke (frueher) und durch Schemen-Bindungs-Druck (im Moment des Rituals), dass jemand kommen wuerde. Er konnte den exakten Zeitpunkt nicht ortographieren, war aber an seiner Seite des Stein-Platzes Stunden vor dem Durchgang anwesend (MZ-Zeit; Welt-Mechanik MZ:TZ).
 - der Mann ist weg, aber er kommt wieder.
 - Runa ist mitgekommen. Sie hat das in Sz4 begriffen (oder wird es in K39 explizit aufnehmen — entscheidet K39).
 - die Drei-Resonanzen haben sie gehalten (Vesper Zeit + Maren Wasser + Runa Waerme). Sie hat keinen Begriff fuer das, was Varen ihr und den anderen getan hatte; sie weiss nicht, dass Vesper/Maren/Runa dasselbe Prinzip in umgekehrt angewandt haben.
@@ -361,7 +373,7 @@ Vesper kommt hinkend hinter Alphina. Hand auf ihre Schulter, wortlos — eigener
 - **Anglizismen:** keine. Frühes 19. Jhd. Register. „Inferno" ist Latein-Ursprung, mehrhundertjaehrig im Deutschen — bleibt im Plot-Exposé moeglich, in /ausarbeitung pruefen, ggf. „Wuchern" / „Brand".
 - **Zwei Monde:** Memory `project_zwei_monde_moragh.md`. In Moragh erlaubt. Keine Erzaehler-Glossen ueber „zwei Monde im Gegensatz zu Vael" (das deutet die Leserin selbst).
 - **Augenfarben:** Memory `project_augenfarben_quellen_exposition.md`. Varens Augen sind Violett (stark Magie-begabt). In K38 sieht Alphina sie, ohne die Magie-Marker-Bedeutung zu deuten. Sub-Text fuer Leserin: stark Magie-begabt; sie versteht es spaeter.
-- **Sprach-Anker:** Wortlaut »Ihr gestattet«, »Eure Resonanz. Ich hab sie durch den Riss erspueret. Ueber vierhundert Jaehrlein.« — Plot-Anker. Pflicht-Inhalt fuer /ausarbeitung. Nicht als Erzaehler-Stil, sondern als Varen-Vokabel-Register.
+- **Sprach-Anker (Plot-Korrektur 2026-05-10):** Wortlaut »Ich bin Varen.« + Frage nach den Namen, plus Einfrier-Befehl »Wir sorgen mal dafuer, dass ihr jetzt nichts Dummes macht…« — alle in altem Thalassisch (Hoeflichkeitsform, -et-Endungen). Plus Varen-Wortlaut-Anker fuer Sz3-Rueckzug »Ich hab Euch unterschaetzet, Jaehrlein. Wir finden uns wieder.« Frueherer Wortlaut »Eure Resonanz. Ich hab sie durch den Riss erspueret. Ueber vierhundert Jaehrlein.« GESTRICHEN — Varen erwaehnt weder Resonanz noch 400 Jahre (er rechnet nie in TZ-Zeit).
 
 ### Falls Wortzahl nicht passt
 
