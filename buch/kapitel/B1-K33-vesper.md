@@ -8,7 +8,7 @@ Links die Beobachtungs-Reihen: sechzehn Werke, fünf Monate, jede Messung auf ei
 
 Die Werkbank-Pendule schlug zweimal — derselbe saubere Schlag, an dem er sie vor acht Wochen justiert hatte. Sie lief seither rein. Hinter der angelehnten Tür blieb es ruhig; Maren schlief seit zwei Stunden, zum ersten Mal in der Woche durchgehend. Drei Talg-Kerzen brannten am vorderen Rand des Walnussholzes, jede schon eine Spanne kürzer als beim Anfang der Nacht. Das Licht fiel flach und gelblich auf den Velin. Vesper zog den Bogen näher, tauchte die Feder ein und zog vier Spalten: Datum, Drift, Gezeiten, Sichtung. Die ersten drei Daten trug er ein, gleichmäßig, ohne Hast. Die Tinte trocknete zu langsam; er hielt die Feder über das Tintenfass und wartete.
 
-Beim vierten Datum hielt er inne. Seine Hand fand den linken Westentaschen-Saum, leer seit Glutmond — der Stoff dort flacher als auf der rechten Seite, wo die Taschenuhr lag.
+Beim vierten Datum hielt er inne. Seine Hand fand den linken Westentaschen-Saum, leer seit Glutmond — der Stoff dort flacher als auf der rechten Seite, wo die Taschenuhr lag. Sein Daumen tastete kurz die Wölbung ab, das Werk schlug rein durch das Leinen. Dann kehrte die Hand auf den Velin zurück.
 
 Er fuhr mit dem Finger die Tabelle entlang, ohne die Seite zu berühren. Drift-Spitze: zwölfter Herbstmond. Gezeiten-Spitze: elfter Herbstmond, Eintragung kurz nach Mitternacht — derselbe Tag in seiner Rechnung. Sichtung: zwölfter Herbstmond, Adresse Quaigasse vier. Sein Daumen blieb auf der Tabellenkante stehen. Drei Reihen, ein Tag. Er sah weiter, auf den fünften Eintrag, den sechsten. Die Kerze rechts tropfte auf das Messing des Kerzenhalters, und der Tropfen erkaltete lautlos.
 
@@ -282,11 +282,9 @@ Dann: »Sie hat hier mehr als wir vier.«
 
 Runa war in Vael geboren. Die Druckerei in der Falkenstraße, Halvard, die Wohnung über dem Setzkasten. Joran war vor Tagen gestorben — er hatte den Namen beiläufig fallen lassen in der Nacht davor, und Maren hatte nichts gefragt.
 
-Karst hatte er selbst zurückgelassen.
+Marens Daumen hob sich kurz auf seinem Unterarm, fiel zurück.
 
-Maren hatte die Werft geerbt — von einem Toten. Sie würde mitgehen.
-
-Alphina war erst seit Wochen in Vael. Sorel ebenso. Beide ohne Boden unter den Füßen, den man aufgeben müsste.
+Karst hatte er selbst zurückgelassen, Maren ihre Werft an einen Toten — sie würde trotzdem mitgehen. Alphina und Sorel waren erst seit Wochen in Vael, beide ohne Boden, den man aufgeben müsste.
 
 Runa hatte Boden. Sie hatte mehr.
 
