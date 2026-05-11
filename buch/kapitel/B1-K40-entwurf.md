@@ -100,7 +100,7 @@ Sie legt das Konvolut neben Akten, die niemand seit siebzig Jahren angesehen hat
 **POV:** Edric Dahl
 **Wortziel:** 800–900 W
 **Wann:** 3. Dunkelmond, Morgen (Maren-Brief) + Nachmittag (Tarn-Zeugen-Beat)
-**Ort:** Werft Ilves (ehemals Dahl), Hafengasse
+**Ort:** Werft Dahl, Hafengasse
 
 **Plot-Beat — Morgen:** Edric hat in der Boot-Kajüte uebernachtet (K34-Sz3a-Canon: er bleibt die letzte Nacht in der Werft, schlaeft in der Kajuete). Er wacht auf, geht in die Halle. Die Werfttuer ist von innen offen (er hat sie nachts nicht abgeschlossen — er war drin). Aussen die Halle-Tuer hatte Maren am Vorabend abgeschlossen (sie hat den eigenen Schluessel mitgenommen — K34-Sz3a-Canon). Er hat seinen eigenen Werftgesellen-Schluessel.
 
@@ -110,15 +110,18 @@ Drinnen alles ordentlich. Marens Werkzeug auf der Werkbank — Stechbeitel an ih
 
 1. **Brief an Edric** (persoenlich, kurz, drei Absaetze):
    - Datum (1. Dunkelmond 551)
-   - Anweisung: das Boot ist fertig vertaeut, bleibt vertaeut bis sie zurueck ist oder bis er anders entscheidet. Vertaeuung mit Marens eigenen Knoten, er kennt sie.
-   - Anweisung: die Werft fuehren, Sundsteiner-Lanke-Ruderblatt-Auftrag erledigen, Auftragsbuch in der zweiten Schublade
+   - Sie geht heute. Sie weiss nicht, ob sie zurueckkommt.
+   - Die Werft Dahl gehoert ihm. Das Boot ist fertig, er kann damit machen, was er will — zu Wasser bringen, verkaufen, anders ausbauen. Auftragsbuch in der zweiten Schublade.
    - Kein Abschied. Operative Sprache.
 
 2. **Schenkungs-Urkunde** (handschriftlich, formell):
-   - Erklaerung: Maren Ilves uebertraegt ihrem Werftgesellen Edric Dahl alle Vermoegenswerte (Werft Ilves an der Hafengasse plus die Wohnung in der Hafengasse, eingerichtet, Inventar laut Verzeichnis im Auftragsbuch), wirksam ab dem ersten Saatmond 552 (drei Monate nach dem Aufbruch — Rest-Dunkelmond + Eismond + Sturmmond), falls sie bis dahin nicht zurueckgekehrt ist
+   - Erklaerung: Maren Ilves uebertraegt die **Werft Dahl** (an der Hafengasse, mit allem Inventar, samt dem zugehoerigen Wohngebaeude) an **Edric Dahl** — als naechster in der Dahl-Linie. Die Werft trug nie Marens Namen; Maren hat sie als Erbschaft verwaltet, gibt sie jetzt an einen Dahl zurueck.
+   - Wirksam mit Datum dieser Urkunde (1. Dunkelmond 551). Keine Bedingung, keine Rueckkehr-Klausel — vollstaendige Schenkung. Maren rechnet nicht mit Rueckkehr.
    - Eigenhaendige Unterschrift Maren Ilves, Datum 1. Dunkelmond 551
-   - Zwei Zeugenfelder leer (Maren konnte am 1. Dunkelmond abends keine Zeugen aufbieten — die Vier sassen beim Plan-Treffen; Sievert und ein anderer sollten unterschreiben spaeter)
+   - Zwei Zeugenfelder leer (Maren konnte am 1. Dunkelmond abends keine Zeugen aufbieten — die Vier sassen beim Plan-Treffen; Sievert und Tarn sollten spaeter unterschreiben)
    - Anweisung-Zeile am unteren Rand: „Zeugen: Sievert, Baecker Hafengasse, und Tarn, Druckergeselle Druckerei Kvist. Beide bestellt, beide informiert."
+
+**Plot-Hintergrund (Autor-Direktive 2026-05-11):** Edric heisst bereits Dahl (Canon `00-welt.md` Z.560). Die Dahl-Linie wandert mit dem Namen + der Werft — als Harons Adoptierter ist Edric der naechste in der Linie. Maren als Ilves war nur Verwalterin der Erbschaft; mit der formalen Uebergabe an Edric Dahl wandert die Werft wieder in die Linie zurueck.
 
 Edric liest beides. Liest den Brief noch einmal. Faltet die Urkunde nicht. Er zieht die Linie auf dem Aufmass des Sundsteiner-Ruderblatts mit dem Finger nach, ohne nachzumessen — er kennt Marens Hand von Schiffsmaßen seit sieben Jahren. Er nimmt Harons Bleistift mit der abgebrochenen Spitze in die Hand, dreht ihn einmal zwischen den Fingern, legt ihn zurueck in den Halter. Er greift nach seinem eigenen Bleistift.
 
@@ -142,25 +145,25 @@ Beide gehen zurueck zu ihrer Arbeit.
 - Knappe Dialog mit Tarn (drei Saetze gesamt, sachlich)
 - *PFLICHT-Marker /ausarbeitung:* Edric reagiert auf Marens Handschrift KOERPERLICH (Linie mit Finger nachziehen, ohne nachzumessen). Trauerarbeit ohne Benennung.
 - *PFLICHT-Marker /ausarbeitung:* Harons-Bleistift-Beat (in die Hand nehmen, einmal drehen, zuruecklegen, eigenen Bleistift greifen) — Generationen-Beat ohne Worte. K22-Plant feuert.
-- *PFLICHT-Marker /ausarbeitung:* Urkunde-Wortlaut nicht im Detail diktiert, aber Stil: formell, kurz, Maren-typisch. Datum, Erklaerung, Wirksamkeits-Bedingung, Unterschrift, Zeugen-Anweisung. Kein Pathos.
+- *PFLICHT-Marker /ausarbeitung:* Urkunde-Wortlaut nicht im Detail diktiert, aber Stil: formell, kurz, Maren-typisch. Datum, Erklaerung der Dahl-Linien-Rueckgabe an Edric Dahl, sofortige Wirksamkeit ohne Rueckkehr-Klausel, Unterschrift, Zeugen-Anweisung. Kein Pathos.
 - *PFLICHT-Marker /ausarbeitung:* Edric-Tarn-Begegnung **stumm**. Drei kurze Saetze gesamt — keine Erklaerung, keine Trauer-Worte. Beide bezeugen, beide verstehen. KAYA-Konsens: narbige Ruhe durch Handlung, nicht durch Worte.
 - *PFLICHT-Marker /ausarbeitung:* Marens Knoten an der Vertaeuung als KOERPERLICHER Anker (Edric prueft mit Finger, erkennt sie). Maren-Beziehung durchs Material.
 
 **Tschechow-Waffen geladen:**
 - **Schenkungs-Urkunde von Maren** (Werft + Wohnung) — Tschechow B2/B3 (Maren kommt zurueck B2-K39 / nach Rueckkehr in B3: rechtsgueltige Eigentumsstruktur)
-- **Fertig vertaeutes Boot mit Marens Knoten** — Tschechow B2 (Maren erkennt eigene Knoten bei Rueckkehr) / B3 (Schwellenforschungs-Werft)
+- **Fertiges Boot in Edrics Hand** — Tschechow B2/B3 (Edric kann es zu Wasser bringen, verkaufen, anders nutzen; Schwellenforschungs-Werft in B3 nimmt es vom dann etablierten Werft-Inventar)
 - **Cross-Connect Edric-Tarn als bezeugte Doppel-Uebergabe** — Tschechow B3 (Recherche-Beat: zwei Urkunden im selben Datum, gleichem Format)
 
 **Tschechow-Waffen abgefeuert:**
 - Boot baut sich nachts weiter (geladen K22, K28) — feuert hier (hoert auf; Boots-Schemen-Aufgabe abgeschlossen, Harons Bindung endgueltig erloschen, Memory `project_schemen_bindungsrunen.md`)
 - Marens-Notiz fuer Edric (geladen K34-Sz3a) — feuert hier (Brief + Urkunde abgefeuert; K34 aktualisiert 2026-05-11)
-- Marens „warte auf mich" am Boot (geladen K34) — feuert implizit hier (durch die Wirksamkeits-Bedingung „bis sie zurueck ist")
+- Marens „warte auf mich" am Boot (geladen K34) — feuert hier als **innerer Widerspruch**: sie sagte es am Boot, sie schreibt jetzt ohne Rueckkehr-Klausel. Beide Wahrheiten halten — sie wollte, sie rechnet trotzdem nicht damit
 - Edric hat Maren nicht gefragt (geladen K17, K22) — feuert hier (er fragt auch jetzt nicht)
 - Harons Bleistift mit abgebrochener Spitze (geladen K22) — feuert hier als Generationen-Beat
 
 **Cross-POV-Ankerpunkte:**
 - Edric weiss NICHTS von Schemen, NICHTS von Moragh
-- Edric weiss aus Brief: Maren kommt nicht zurueck, oder doch — beides moeglich (Urkunde mit Wirksamkeits-Bedingung)
+- Edric weiss aus Brief + Urkunde: Maren rechnet nicht mit Rueckkehr. Die Werft Dahl ist seine, das Boot in seiner Hand, das Wohngebaeude dazu.
 - Edric weiss durch Tarn-Beat: die Gruppe ist alle weg, alle haben formal weitergegeben
 - Wort-Verbote: kein „Schemen", kein „Magie", kein „Moragh" — Edric sagt: „etwas, das ich nicht erklaeren kann", „nachts hat es weitergebaut", „heute nicht mehr"
 - POV-Vokabular Edric: Spant, Plankenstoss, Bock, Werg, Pech, Kalfaterung, Stechbeitel, Hobeleisen, Aufmass, Knoten, Vertaeuung
@@ -229,7 +232,7 @@ Die Lampe brennt ueber dem Setzkasten. Draussen zieht der Nebel ein. Die Stadt s
 
 **Cross-POV-Ankerpunkte:**
 - Tarn weiss NICHTS von Moragh
-- Tarn weiss aus Runas Brief: sie kommt nicht zurueck (oder doch — Wirksamkeits-Bedingung)
+- Tarn weiss aus Runas Brief: sie kommt nicht zurueck vor dem ersten Saatmond 552 (Runa-Brief-Wortlaut K31-Sz3 canon)
 - Tarn weiss durch Edric: Maren hat parallel die Werft uebergeben
 - Tarn weiss nicht von Alphina/Sorel/Vesper-Verschwinden direkt, ahnt es aber (Edric sagt „Bei mir auch" — Tarn versteht: alle gingen)
 - Sorel-Prinzip Wort-Verbote: kein „Resonanz", kein „Schemen", kein „Moragh", kein „Portal"
@@ -250,7 +253,7 @@ Die Lampe brennt ueber dem Setzkasten. Draussen zieht der Nebel ein. Die Stadt s
 
 - **Jara:** das Konvolut existiert, archiviert mit Querverzeichnissen; sie hat den Steinkreis aufgesucht und gesehen: Spuren fuehren in den Kreis hinein, keine wieder hinaus. Sie hat Halvards Bericht als Position 5 im Konvolut.
 - **Halvard:** seine Mentee kommt nicht zurueck (Schachtel-Beweis); er hat seine Notizen-Schachtel + einen knappen Anomalien-Vermerk im Stadtarchiv hinterlegt — Jara nimmt es entgegen; er weiss nichts ueber das Wohin.
-- **Edric:** Maren rechnet damit, dass sie nicht zurueck ist (Urkunde mit Wirksamkeits-Bedingung Saatmond 552); die ganze Gruppe ist mit gleichen Uebertragungen gegangen; er macht weiter
+- **Edric:** Maren rechnet nicht mit Rueckkehr; die Werft Dahl gehoert jetzt ihm (er ist der naechste Dahl); das Boot ist seine freie Hand; die ganze Gruppe ist mit gleichen Uebertragungen gegangen; er macht weiter
 - **Tarn:** Runa kommt nicht zurueck (Brief, vor Saatmond 552); Maren auch nicht (Edric-Beat); er ist jetzt Drucker von Vael, hat nicht entschieden, ist es
 
 ### Was darf KEINE der vier wissen (Sorel-Prinzip)
