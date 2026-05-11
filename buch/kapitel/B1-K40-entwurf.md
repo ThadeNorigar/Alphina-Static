@@ -1,12 +1,12 @@
-# B1-K40 — Vael-Epilog (Vier-POV-Mosaik) — Entwurf
+# B1-K40 — Vael-Epilog (Drei-POV-Mosaik) — Entwurf
 
-**POV:** Multi-POV (Jara / Halvard / Edric / Tarn), 3. Person nah, Praeteritum. Esther und Tohl gestrichen (Autor-Direktive 2026-05-11).
-**Timeline:** 3. Dunkelmond 551 TZ (Tag nach dem Ritual). Alle vier Szenen am selben Tag, durch Tageszeit-Stufen verflochten (Sz1 Morgengrauen-Vormittag, Sz2 Morgen-Vormittag, Sz3 Morgen + Nachmittag, Sz4 Morgen + Nachmittag + Abend)
-**Wortziel Ausarbeitung:** 3.500–4.000 W (~800–1000 W pro Szene)
+**POV:** Multi-POV (Jara / Edric / Tarn), 3. Person nah, Praeteritum. Esther, Tohl und Halvard-als-POV gestrichen (Autor-Direktive 2026-05-11). Halvard erscheint als Nebenfigur in Jaras Szene (bringt zurueckgelassene Notizen-Schachtel + Anomalien-Vermerk, fragt nach Alphina, geht).
+**Timeline:** 3. Dunkelmond 551 TZ (Tag nach dem Ritual). Alle drei Szenen am selben Tag, durch Tageszeit-Stufen verflochten (Sz1 Morgengrauen-Vormittag, Sz2 Morgen-Nachmittag, Sz3 Morgen-Abend)
+**Wortziel Ausarbeitung:** 3.000–3.500 W (~1000–1200 W pro Szene; ohne Halvard-POV kompakter)
 
-**Gaensehaut-Moment:** Halvard findet Alphinas leere Wohnung. Auf dem Tisch seine medizinische Notizen-Schachtel — ungeoeffnet, voll, sein Pergament in seiner Handschrift unten unter dem Deckel. Sie hat alles zurueckgelassen. Sie ging mit Saatgut allein. Schock-Beat fuer den Rationalisten: die Lehrtochter hat sich seiner Wissens-Substanz entzogen, glaubt nicht an Rueckkehr, glaubt nicht an Ueberleben mit Werkzeug. **Plus:** die Welt aussen sieht aus wie immer — Stein wie immer, Pflanzen weiter NICHT im Steinkreis (Quelle pulsiert weiter, Grenze bleibt). Nur menschliche Spuren bleiben.
+**Gaensehaut-Moment:** Spuren fuehren in den Steinkreis hinein, keine wieder heraus. Plus Halvards Schachtel auf Jaras Archivtisch — ungeoeffnet, voll, mit Halvards eigener Handschrift auf dem Deckel. Alphina hat sich seiner Wissens-Substanz entzogen, ging mit Saatgut allein. Schock-Beat zweistimmig: durch Jaras Sicht auf Halvard, der das Gefaess seines drei Monate alten Mentorats wieder in der Hand haelt.
 
-**Tonal-Anker (Autor-Direktive 2026-05-11):** Alle Vier + Runa rechneten mit Tod, nicht mit Rueckkehr. Sie haben aktiv Verantwortung weitergegeben:
+**Tonal-Anker (Autor-Direktive 2026-05-11):** Alle Fuenf rechneten mit Tod, nicht mit Rueckkehr. Sie haben aktiv Verantwortung weitergegeben:
 - **Maren → Edric:** Wohnung + Werft per Brief + Urkunde
 - **Runa → Tarn:** Druckerei + Inventar per Brief (K31-Sz3-Canon)
 - **Alphina → Halvard:** zurueckgelassene Notizen-Schachtel (kein Wort, kein Brief — Geste)
@@ -24,7 +24,7 @@
 LINA / NORA / VICTORIA hier NICHT — keine Romantasy-, keine Power-Dynamik-, keine BDSM-Achse.
 
 **Verflechtungs-Achsen:**
-1. **Jara ↔ Halvard:** Halvard bringt seinen Bericht ins Stadtarchiv, Jara nimmt ihn an + ordnet ihn ins Konvolut
+1. **Halvard ↔ Jara (Halvard als Gast-Figur):** Halvard kommt im Lauf des Vormittags ins Archiv, bringt die zurueckgelassene Notizen-Schachtel + einen knappen Vermerk seiner Patienten-Anomalien, fragt nach Alphina; Jara weiss nichts (Sorel-Prinzip), nimmt das Material entgegen
 2. **Edric ↔ Tarn:** Tarn geht zu Edric als zweiter Zeuge fuer Runas Uebergabe-Brief; Edric hat parallel seinen eigenen Maren-Brief + Urkunde, Tarn bezeugt zurueck
 
 ---
@@ -54,7 +54,15 @@ Sie steht am Rand. Sie geht zurueck zum Archiv.
 
 Sie nummeriert, ordnet, vergibt eine Archiv-Signatur (Vael-Standard: Buchstabe-Jahr-Nummer, „D-551-N"). Spricht laut, was sie tut (Methode: sich selbst diktieren, K24-Charakter). **Beim Zaehlen der Flugblaetter** kommt sie beim ersten Durchgang auf eine andere Zahl als beim zweiten. Zaehlt ein drittes Mal. Stimmt mit dem ersten. Sie traegt die Zahl ein.
 
-Halvard tritt am Vormittag ein, bringt eine Mappe mit Datum + Stempel — sein Bericht (Cross-Connect zu Sz2). Jara nimmt ihn an, ordnet ihn als Position 8 ein, vergibt eine Querverzeichnis-Signatur zwischen Halvards Verletzungs-Faellen und ihren Schemen-Inventur-Eintragungen. Halvard sagt knapp drei Saetze (Bericht-Inhalt, sachlich), Jara antwortet zwei Saetze (Aufnahme-Bestaetigung, Querverzeichnis-Hinweis). Beide wissen, dass sie nichts Bedeutendes besprechen — sie wickeln das Konvolut ab. Halvard geht.
+**Halvard kommt am Vormittag ins Archiv.** Er bringt eine Holzschachtel unter dem Arm — kupferne Schliessen, Aufschrift in seiner eigenen Handschrift („Anatomie / Wickel / Tinkturen, Lehre 551 ab Glutmond"). Plus einen knappen Bogen Pergament: zehn Zeilen, sein Praxis-Stempel, Datum, eine Liste seiner Patienten-Anomalien der letzten Monate (Wäscherin Frostbrand Grünmond, Fischer Erfrierung, Junge versengtes Haar, Frau Fingerabdruck — K26-Canon).
+
+Jara registriert die Schachtel sofort: das war Alphinas. Halvard sagt knapp:
+- Er war heute morgen in Alphinas Wohnung. Die Vermieterin (Frau Karst, langjaehrige Patientin von ihm) hat ihm geoeffnet. Die Wohnung sei leer. Auf dem Tisch habe die Schachtel gestanden, ungeoeffnet. Voll. Mit seinen Pergamenten in seiner Handschrift.
+- Er habe Alphina seit drei Tagen nicht gesehen. Ob Jara wisse, wo sie sei.
+
+Jara weiss es nicht. Sie kann nichts sagen (Sorel-Prinzip: sie kann den Plan-Inhalt nicht aussprechen — Alphina ist „weg" wie die anderen, das ist die einzige wahre Aussage). Sie nimmt die Schachtel entgegen, oeffnet den Deckel mit einer Geste, beruehrt das oberste Pergament mit einem Finger, schliesst den Deckel wieder. Sie sagt: dass sie das Material aufbewahrt. Dass es einen Eintrag bekommt. Dass er fragen koenne, falls er weitere Beobachtungen hinterlegen wolle. Halvard nickt einmal, legt die Anomalien-Liste dazu, geht.
+
+Jara nimmt die Schachtel + Liste ins Konvolut auf — Position 5 (Halvards Anomalien-Liste) + Position 6 (Notizen-Schachtel als Gegenstand mit Index-Karte „Eigentum Dr. Halvard, ueberlassen 3. Dunkelmond 551 durch ihn selbst — Mentee Farn verschwunden").
 
 Sie legt das Konvolut neben Akten, die niemand seit siebzig Jahren angesehen hat. Sicher. Sie legt eine Kopie der Archiv-Signatur ins Fundverzeichnis (Querablage). In dreissig Jahren wird niemand das hier oeffnen. In hundert Jahren vielleicht. Sie macht es trotzdem.
 
@@ -87,87 +95,7 @@ Sie legt das Konvolut neben Akten, die niemand seit siebzig Jahren angesehen hat
 
 ---
 
-## Szene 2 — Halvard · Alphinas leere Wohnung · Bericht
-
-**POV:** Doktor Halvard
-**Wortziel:** 900–1000 W
-**Wann:** 3. Dunkelmond, frueher Morgen bis Vormittag
-**Ort:** Halvards Praxis → Alphinas Wohnung (Hafengasse, zwei Strassen noerdlich der Werft) → Praxis (Bericht) → Stadtarchiv
-
-**Plot-Beat — Wohnungsbesuch:** Halvard wartet am Abend des 1. Dunkelmond, dass Alphina seine Notizen zurueckbringt (sie hatte die Schachtel unter „Lesestoff"-Vorwand mitgenommen, K34-Canon). Sie kommt nicht. Am 2. Dunkelmond abends ist sie zwei Tage nicht in der Praxis aufgetaucht — ungewoehnlich (Mentorat war zwei Mal die Woche). Halvard war am 2. Dunkelmond abends ohnehin unterwegs (er ahnte etwas, weil Alphina sich seltsam verabschiedet hatte) — **er war als Augenzeuge am Gartenrand des Botanischen Gartens**, allein. Tohl gibt es nicht (Autor-Direktive 2026-05-11). Was er gesehen hat (in der Nacht des Rituals, NICHT in dieser Szene direkt erzaehlt — siehe Bericht-Beat unten):
-
-Was er beobachtet hat in der Ritual-Nacht (Plot-Inhalt fuer Bericht):
-- Fuenf Personen treten in den Steinkreis (er erkennt Alphina an Statur + Wollmantel, kennt Vesper vom Uhrmacher-Geschaeft, kennt Maren von der Werft; Sorel + Runa peripher)
-- **KEIN Lichtblitz.** Sorels Licht-Resonanz waehrend Synchronisation: duenne Lichtstrahlen zwischen den Steinen, arbeitendes Licht
-- Pflanzenwedel wachsen kurz am Rand des Kreises (Heat-Echo, ohne dass er versteht was es ist)
-- Wasser laeuft an einem Stein abwaerts (Maren, ohne dass er versteht)
-- **Riss in der Luft** — ein Spalt in der Mitte des Kreises, instabil, dahinter ein Streifen anderes Erde + fremder Halme + verschobene Schatten (er sieht es kurz, kann es nicht deuten)
-- Fuenf Personen verschwinden nacheinander durch den Spalt (Vesper, Sorel, Maren, Alphina, dann eine fuenfte, die spurtet aus dem Lindengebuesch — er erkennt sie nicht klar)
-- Spalt schliesst sich
-- Stille
-- Er bleibt stehen, eine Weile. Geht heim ohne jemanden gerufen zu haben.
-
-Am 3. Dunkelmond, frueher Morgen, geht er zu Alphinas Wohnung in der Hafengasse. Er klopft, niemand antwortet. Die Vermieterin (Frau Karst aus dem Erdgeschoss, langjaehrige Patientin von Halvard — sie hat ihn mehrfach wegen Rheuma in der Hand behandelt, kennt sein Mentee-Verhaeltnis zu Alphina seit dem Glutmond) oeffnet ihm mit ihrem Hauptschluessel, ohne zu fragen. Halvard tritt ein, sagt, er suche Alphina wegen einer Verabredung — Frau Karst nickt, bleibt im Flur, schliesst die Tuer hinter ihm.
-
-*PFLICHT-Marker /ausarbeitung:* Vermieterin Frau Karst als Plot-Erweiterung 2026-05-11 (statt Zweitschluessel direkt bei Halvard, was fuer 1820-Register zu eng waere). Sie ist Patientin, die Logik haelt durch das Arzt-Patient-Verhaeltnis. In Prosa knapp halten — eine Nennung, kein Charakter-Aufbau.
-
-Die Wohnung ist leer. Auf der Tuerritze ein duenner Farnwedel, der nicht da gewesen sein sollte (TZ-K34-Plant, Alphina-Resonanz-Spur unbewusst). Er geht ins Hauptzimmer.
-
-Auf dem Tisch: **seine Notizen-Schachtel.** Holzkasten, kupferne Schliessen, Aufschrift in seiner eigenen Handschrift („Anatomie / Wickel / Tinkturen, Lehre 551 ab Glutmond"). Ungeoeffnet, voll. Er hebt den Deckel. Die Pergamente liegen alle drin — die Anatomie-Skizzen, die Tinktur-Rezepte, die Wickel-Anleitungen. Das Pflanzen-Skalpell liegt in der oberen Schublade, wo es immer lag — sie hat es nicht angefasst.
-
-Er steht eine Weile am Tisch. Schliesst den Deckel der Schachtel. Hebt sie unter den Arm.
-
-*PFLICHT-Marker /ausarbeitung:* Halvards Schachtel-Beat **stumm** — kein „er versteht"-Erzaehler-Satz, kein „sie nahm sich seine Wissens-Substanz nicht mit"-Glosse. Er steht, hebt den Deckel, zaehlt die Pergamente mit einem Finger (oder beruehrt das oberste), schliesst den Deckel, nimmt die Schachtel unter den Arm. Die Bedeutung traegt sich durch die Geste, der Erzaehler kommentiert nicht. (MEIKE + KAYA-Konsens: Kuang-Disziplin, „Zeuge durch Geste".)
-
-Er nimmt die Schachtel unter den Arm, schliesst die Wohnung ab, geht in die Praxis zurueck.
-
-**Plot-Beat — Bericht:** In der Praxis schreibt er den Bericht. Sieben Bogen. Stil: Krankenakten-Sprache, kurze Saetze, keine Spekulation. Inhalt:
-- 2. Dunkelmond 551, eine Stunde vor Sonnenuntergang, am Rand des Botanischen Gartens vom Verfasser beobachtet
-- Fuenf Personen treten in den Purpursteinkreis. Name + Beruf, soweit identifiziert: Alphina Farn (Mentee des Verfassers), Vesper (Uhrmacher), Maren Ilves (Werftbetreiberin), Sorel (Fotograf). Eine fuenfte Person aus dem Lindengebuesch nach Beginn dazugekommen, nicht identifiziert (Distanz zu gross, Daemmerung).
-- Beobachtete Phaenomene: Lichtstrahlen zwischen den Steinen (Quelle und Natur unklar), schnelles Pflanzenwachstum am Kreis-Rand, fliessendes Wasser an einem Stein, ein scheinbarer Spalt in der Luft mit Sicht auf andere Topographie dahinter, alle fuenf Personen verschwinden nacheinander durch den Spalt, der sich schliesst
-- Liste der Anomalien-Patienten der vorherigen Monate (Wäscherin Frostbrand Grünmond, Fischer Erfrierung Saatmond/Grünmond, Junge versengtes Haar Bluetenmond, Frau Fingerabdruck-Mal Bluetenmond — K26-Canon, plus weitere mit Datum)
-- Tidemoor-Standuhr — Drift 4 Min 33 Sek/Stunde; im Lichtmond durch Vesper temporaer behoben, **seit 3. Dunkelmond wieder im Drift** (Halvard hat es nachgemessen)
-- Seit dem 3. Dunkelmond keine neuen Verletzungs-Faelle der genannten Art mehr behandelt
-
-Schluss-Satz: „Was ich beobachtet habe, laesst sich mit den mir verfuegbaren Mitteln nicht erklaeren. Ich ueberlasse die Erklaerung anderen."
-
-Er datiert, unterschreibt, stempelt mit Praxis-Siegel. Legt die Bogen in eine Mappe. Bringt sie ins Stadtarchiv. Uebergibt sie Jara (Cross-Connect zu Sz1).
-
-Auf dem Heimweg laesst er das Pflanzen-Skalpell aus seiner Manteltasche in einen Brunnen fallen.
-
-**Dialog-Informationen:**
-- Halvard erfaehrt: Alphina ist eine der fuenf, sie kommt nicht zurueck, sie nahm sich nicht einmal sein Wissen mit
-- Halvard's Erkenntnis am Ende: drei Monate Mentorat sind nun ein Bericht, kein Verhaeltnis. Methode haelt, kostet aber.
-- Knapp Dialog mit Jara (drei + zwei Saetze, sachliche Bericht-Uebergabe)
-- *PFLICHT-Marker /ausarbeitung:* Hand-zoegert-Beat beim Schreiben des Namens *Alphina Farn* — ein Atemzug Pause, kein Kommentar. KOERPERLICH (KAYA-Konsens).
-- *PFLICHT-Marker /ausarbeitung:* Schachtel-Beat **stumm** — Halvard steht, hebt Deckel, sieht die Pergamente, schliesst die Schachtel. Kein „er verstand"-Erzaehler-Satz. Nur Geste + Bild + Atemzug. Die Bedeutung traegt sich selbst (KAYA + Beziehungs-Lektorin-Konsens).
-- *PFLICHT-Marker /ausarbeitung:* Skalpell-in-Brunnen-Beat als Sub-Schluss. Halvard wirft das Werkzeug weg — Geste der Entlassung, dass er sie nicht mehr als Mentee fuehren wird. Methode haelt, kostet aber.
-- *PFLICHT-Marker /ausarbeitung:* Bericht-Wortlaut „Was ich beobachtet habe, laesst sich mit den mir verfuegbaren Mitteln nicht erklaeren" als Anker — sachlich, Arzt-Register, keine Magie-Theorie. Halvard ist Rationalist bis zur Grenze.
-
-**Tschechow-Waffen geladen:**
-- Halvards Bericht in der Archiv-Mappe — Tschechow B2/B3 (in 30 Jahren in Schublade, in 100 Jahren bedeutsam — lange angezweifelt, dann bestaetigt)
-- Halvards Notizen-Schachtel in seiner Praxis (Alphinas Mentor-Kasten) — Tschechow B3 (falls Alphina jemals zurueckkommt, sie findet die Schachtel an ihrem Platz; B3-Versoehnungs-Beat)
-- Skalpell-im-Brunnen — Tschechow B3 (mehr Stein-Quellen-Anomalien-Material, falls irgendwer den Brunnen einmal trockenlegt)
-
-**Tschechow-Waffen abgefeuert:**
-- Halvards Rationalismus (geladen K3, K17, K22, K28) — feuert hier (Bericht als Tatsachen-Schrift trotz Unerklaerlichkeit; er beugt seine Methode an die Grenze, gibt sie nicht auf)
-- Halvards Verletzungs-Faelle K26 (vier dokumentierte Faelle) → feuert in Bericht-Liste
-- TZ-K34-Plant Farn-Wedel an Tuerritze (Alphina-Resonanz-Spur unbewusst) → feuert hier
-- Alphina-Mentee-Mentorat (geladen K28+) — feuert hier (drei Monate Lehre als Verlust-Anker)
-- Halvards-Notizen-Schachtel-zurueckgelassen — feuert hier (Alphina ging „nackt" rueber)
-- Tidemoor-Standuhr 4:33-Drift wieder zurueck — feuert hier (in Bericht-Liste)
-
-**Cross-POV-Ankerpunkte:**
-- Halvard weiss NICHTS davon, wohin die fuenf gegangen sind
-- Halvard weiss: sie kommen nicht zurueck (Schachtel-Beweis)
-- Halvard kennt Vesper persoenlich (Trinkkamerad), Alphina als Mentee, Maren von der Werft-Geschaefts-Beziehung, Sorel + Runa peripher
-- Halvard hat aus drei Schritt Abstand vom Gartenrand alles Stille gesehen — kein Lichtblitz (Autor-Direktive 2026-05-11, Vael-Seite ist stilles Verschwinden, K38 bestaetigt Portal Moragh-seitig)
-- Wort-Verbote: kein „Magie", kein „Resonanz", kein „Schemen", kein „Portal", kein „Moragh" — Halvard schreibt „Lichtstrahlen", „Pflanzenwachstum", „fliessendes Wasser", „scheinbarer Spalt in der Luft", „andere Topographie"
-- POV-Vokabular Halvard: Befund, Diagnose, Symptom, Knochen, Schreibtisch, Datum, Dauer (gemessen), Mappe, Stempel, Praxis, Anatomie, Tinktur, Wickel
-
----
-
-## Szene 3 — Edric an der Werft · Maren-Brief + Urkunde · Tarn-Zeuge
+## Szene 2 — Edric an der Werft · Maren-Brief + Urkunde · Tarn-Zeuge
 
 **POV:** Edric Dahl
 **Wortziel:** 800–900 W
@@ -239,12 +167,12 @@ Beide gehen zurueck zu ihrer Arbeit.
 
 ---
 
-## Szene 4 — Tarn an der Druckerei · Schluss-Bild Buch 1
+## Szene 3 — Tarn an der Druckerei · Schluss-Bild Buch 1
 
 **POV:** Tarn (Druckergeselle)
 **Wortziel:** 800–900 W
 **Wann:** 3. Dunkelmond, Morgen → Nachmittag → Abend
-**Ort:** Druckerei Kvist (Oberstadt, nahe Marktplatz) → Hafengasse zu Baecker Sievert → Werft (Cross-Connect zu Sz3) → Druckerei (Schluss). Weg Druckerei-Sievert ist ca. eine Viertelstunde durch die Stadt.
+**Ort:** Druckerei Kvist (Oberstadt, nahe Marktplatz) → Hafengasse zu Baecker Sievert → Werft (Cross-Connect zu Sz2 (Edric)) → Druckerei (Schluss). Weg Druckerei-Sievert ist ca. eine Viertelstunde durch die Stadt.
 
 **Plot-Beat — Morgen:** Tarn kommt zur Druckerei wie jeden Morgen. Er hat seinen eigenen Gesellen-Schluessel (seit zwei Jahren — er schliesst meist als Erster auf, wenn Runa noch am Setzkasten-Korrekturen sitzt oder oben in der Wohnung ist). Heute ist die Tuer von innen verriegelt — Runa hat sie am Aufbruch-Abend so gelassen (Memory K37: „dreht den Riegel anders als sonst"). Tarn schliesst die Vordertuer auf, der Riegel war zusaetzlich von innen vorgelegt — er muss durch das Hofzimmer-Fenster (das er kennt) klettern, um den Riegel zu lösen. Oder einfacher: er klopft, niemand antwortet, er geht zum Hofzimmer-Eingang (zweiter Gesellen-Zugang, den er auch hat). Drinnen alles wie immer.
 
@@ -262,7 +190,7 @@ Daneben: das Auftragsbuch der Druckerei, ein Verzeichnis der Lettern-Bestaende, 
 
 Tarn liest den Brief noch einmal. Faltet ihn nicht. Schliesst die Druckerei ab (mit eigenem Schluessel), geht hinunter in die Hafengasse — eine Viertelstunde durch die Stadt — zum Baecker Sievert (im Brief als erster Zeuge benannt). Sievert tritt aus dem Backraum, mehlige Schuerze, liest den Brief, nickt einmal. Er hat Runa zwei Mal in den letzten Wochen mit dem aufrechten Gang einer Person gesehen, die sich auf etwas einlasst, was sie nicht zurueckziehen will. Er unterschreibt auf der Zeugen-Zeile.
 
-Tarn geht zur Werft. Cross-Connect zu Sz3: er kommt zu Edric, sie wickeln die gegenseitige Bezeugung ab. Drei Saetze gesamt zwischen den beiden:
+Tarn geht zur Werft. Cross-Connect zu Sz2 (Edric): er kommt zu Edric, sie wickeln die gegenseitige Bezeugung ab. Drei Saetze gesamt zwischen den beiden:
 - Edric: „Wann?"
 - Tarn: „Im ersten Saatmond, schreibt sie."
 - Edric: „Bei mir auch."
@@ -314,14 +242,14 @@ Die Lampe brennt ueber dem Setzkasten. Draussen zieht der Nebel ein. Die Stadt s
 ### Was wissen die vier POV-Figuren am Anfang von K40?
 
 - **Jara:** vollstaendiges Wissen aus K34-Plan-Treffen (Steinkreis, Datum 2. Dunkelmond, Mitnahmen pro Person, Liste Nicht-Weiss-Punkte). Sie hat das Manuskript-Original im Archiv. Sie kennt Vesper (alter Bekannter), Maren (K20), Alphina (K24), Sorel (peripher), Runa NICHT persoenlich.
-- **Halvard:** Stadtarzt, hat seit Monaten Patienten mit unmoeglichen Verletzungen behandelt (vier dokumentierte Faelle, K26-Canon). Alphina ist seine Mentee seit Glutmond. Er kennt Vesper als Trinkkamerad, Maren als Werftbetreiberin, Sorel + Runa peripher. Er hat am Abend des 2. Dunkelmond geahnt, dass etwas mit Alphina passiert, war als Augenzeuge am Gartenrand.
+- **Halvard** (Gast-Figur in Jaras Szene, kein eigener POV): Stadtarzt, hat seit Monaten Patienten mit unmoeglichen Verletzungen behandelt (vier dokumentierte Faelle, K26-Canon). Alphina ist seine Mentee seit Glutmond. Er kennt Vesper als Trinkkamerad, Maren als Werftbetreiberin, Sorel + Runa peripher. **Hat NICHTS beobachtet vom Ritual** (Autor-Direktive 2026-05-11). Er sucht Alphina, weil sie seit drei Tagen nicht in der Praxis ist und die Notizen-Schachtel nicht zurueckgebracht hat.
 - **Edric:** Werftgeselle seit sieben Jahren bei Haron, jetzt seit ~6 Monaten bei Maren. Er weiss, dass das Boot nachts heimlich weiter gebaut wurde; er hat nie nachgefragt. Er hat in K22 die Alphina-Pflanze in der Werft gesehen, hat nicht gefragt. Charakter-Konstante: er arbeitet, fragt nicht.
 - **Tarn:** Druckergeselle seit zwei Jahren bei Runa, jung (~20-21 Jahre). Er hat in K32 den Marktplatz-Brand gesehen (Wesen toetet Tuchhaendler, Runas Hand-Magie an Bleilettern + Probebrett). Er weiss nichts vom Plan ins Portal. Er kennt Alphina, Maren, Vesper aus Druckerei-Kontakt; Sorel peripher.
 
 ### Was wissen sie am Ende?
 
 - **Jara:** das Konvolut existiert, archiviert mit Querverzeichnissen; sie hat den Steinkreis aufgesucht und gesehen: Spuren fuehren in den Kreis hinein, keine wieder hinaus. Sie hat Halvards Bericht als Position 5 im Konvolut.
-- **Halvard:** seine Mentee kommt nicht zurueck (Schachtel-Beweis); er hat einen Bericht geschrieben, der ins Archiv geht; er hat seine Methode an die Grenze gefuehrt, gibt sie nicht auf
+- **Halvard:** seine Mentee kommt nicht zurueck (Schachtel-Beweis); er hat seine Notizen-Schachtel + einen knappen Anomalien-Vermerk im Stadtarchiv hinterlegt — Jara nimmt es entgegen; er weiss nichts ueber das Wohin.
 - **Edric:** Maren rechnet damit, dass sie nicht zurueck ist (Urkunde mit Wirksamkeits-Bedingung Saatmond 552); die ganze Gruppe ist mit gleichen Uebertragungen gegangen; er macht weiter
 - **Tarn:** Runa kommt nicht zurueck (Brief, vor Saatmond 552); Maren auch nicht (Edric-Beat); er ist jetzt Drucker von Vael, hat nicht entschieden, ist es
 
@@ -337,7 +265,7 @@ Die Lampe brennt ueber dem Setzkasten. Draussen zieht der Nebel ein. Die Stadt s
 ### Cross-POV-Vokabular (Disziplin-Pflicht in /ausarbeitung)
 
 - **Jara** (Archiv-Gehilfin): Tinte, Aktenfaden, Manuskript, Abschrift, Handschrift, Signatur, Querverzeichnis, Fundverzeichnis
-- **Halvard** (Arzt): Befund, Diagnose, Symptom, Knochen, Schreibtisch, Datum, Dauer, Mappe, Stempel, Praxis, Anatomie, Tinktur, Wickel, Pergament, Schachtel
+- **Halvard** (Gast-Figur, kurze Saetze in Jaras Szene): Befund, Diagnose, Symptom, Anatomie, Tinktur, Wickel, Pergament, Schachtel — knapp im Vermerk + zwei-drei muendliche Saetze
 - **Edric** (Werftmeister-Geselle): Spant, Plankenstoss, Bock, Werg, Pech, Kalfaterung, Stechbeitel, Hobeleisen, Aufmass, Knoten, Vertaeuung
 - **Tarn** (Druckergeselle): Setzkasten, Bleilettern, Schwaerze, Ballen, Probebrett, Druckpresse, Letter, Fach, Auflage, Auftragsbuch
 
@@ -345,12 +273,12 @@ Die Lampe brennt ueber dem Setzkasten. Draussen zieht der Nebel ein. Die Stadt s
 
 - Welt-Monat: Dunkelmond (canon, Spaetherbst-Aequivalent)
 - Quelle pulsiert weiter — Grenze am Steinkreis bleibt, Pflanzen wachsen weiter NICHT hinein (Autor-Direktive 2026-05-11)
-- KEIN Lichtblitz in Vael (Autor-Direktive 2026-05-11; K38 zeigt Portal Moragh-seitig). Halvards Beobachtung enthaelt: Lichtstrahlen zwischen Steinen (Sorels Resonanz, dünn), Pflanzenwedel (Heat-Echo), Wasser an Stein (Maren), Riss in der Luft mit Sicht auf andere Topographie, fuenf gehen nacheinander durch, Spalt schliesst
+- KEIN Lichtblitz in Vael (Autor-Direktive 2026-05-11; K38 zeigt Portal Moragh-seitig). **Niemand in K40 hat das Ritual beobachtet** (Halvard war nicht dort; Tohl gestrichen). Das einzige Zeugnis ist Jaras Steinkreis-Besuch am Morgen danach: Spuren rein, keine raus.
 - Keine Schemen als Begriff in Prosa
 - Keine Resonanz als Begriff in Prosa
 - Kein Moragh als Name
-- Tidemoor-Standuhr-Drift 4 Min 33 Sek pro Stunde — Welt-Mechanik (Riss-Quelle pulsiert weiter, Vespers Resonanz-Reparatur war zeitgekoppelt); Halvard listet als Befund, keine Theorie
-- 1820-Register: Halvard schreibt im Stil 1820-Mediziner, Jara archiviert Vael-konform, Edric/Tarn handwerkliche Register
+- Tidemoor-Standuhr-Drift 4 Min 33 Sek pro Stunde — Welt-Mechanik (Riss-Quelle pulsiert weiter, Vespers Resonanz-Reparatur war zeitgekoppelt); Halvard kann das in seinem Vermerk knapp erwaehnen, ohne Theorie, falls die Uhr unter seinen Patienten-Faellen aufgelistet wird; nicht zwingend.
+- 1820-Register: Jara archiviert Vael-konform, Edric/Tarn handwerkliche Register, Halvard knapp im Arzt-Stil
 
 ### Plot-Korrekturen / Folge-Aufgaben (offen)
 
@@ -360,4 +288,4 @@ Die Lampe brennt ueber dem Setzkasten. Draussen zieht der Nebel ein. Die Stadt s
 
 ### Schluss-Bild Buch 1
 
-Tarn an Runas Hocker, Setzkasten unter den Haenden, Lampe brennt, Nebel zieht ein, Stadt schweigt, Druckerei laeuft weiter. Vier Uebergaben sind formal vollzogen — drei mit Urkunde (Maren→Edric, Runa→Tarn, gegenseitig bezeugt), eine als stumme Geste (Alphina laesst Halvards Schachtel zurueck). Die Stadt vergisst, die Akten leben. **ENDE BUCH 1.**
+Tarn an Runas Hocker, Setzkasten unter den Haenden, Lampe brennt, Nebel zieht ein, Stadt schweigt, Druckerei laeuft weiter. Drei Uebergaben sind formal vollzogen (Maren→Edric mit Urkunde, Runa→Tarn mit Brief, gegenseitig bezeugt); eine vierte als stumme Geste (Alphina laesst Halvards Schachtel zurueck, Halvard bringt sie ins Archiv). Die Stadt vergisst, die Akten leben. **ENDE BUCH 1.**
