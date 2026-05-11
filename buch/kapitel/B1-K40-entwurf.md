@@ -115,13 +115,13 @@ Drinnen alles ordentlich. Marens Werkzeug auf der Werkbank — Stechbeitel an ih
    - Kein Abschied. Operative Sprache.
 
 2. **Schenkungs-Urkunde** (handschriftlich, formell):
-   - Erklaerung: Maren Ilves uebertraegt die **Werft Dahl** (an der Hafengasse, mit allem Inventar, samt dem zugehoerigen Wohngebaeude) an **Edric Dahl** — als naechster in der Dahl-Linie. Die Werft trug nie Marens Namen; Maren hat sie als Erbschaft verwaltet, gibt sie jetzt an einen Dahl zurueck.
+   - Erklaerung: Maren Ilves uebertraegt die **Werft Dahl** (an der Hafengasse, mit allem Inventar, samt dem zugehoerigen Wohngebaeude) an **Edric Dahl** — als naechster Namenstraeger der Dahl-Linie. Maren hat die Werft als Erbschaft von Haron Dahl bekommen, hat den Namen Dahl nie angenommen (sie ist Ilves geblieben), gibt die Werft jetzt formal an einen, der den Namen Dahl traegt.
    - Wirksam mit Datum dieser Urkunde (1. Dunkelmond 551). Keine Bedingung, keine Rueckkehr-Klausel — vollstaendige Schenkung. Maren rechnet nicht mit Rueckkehr.
    - Eigenhaendige Unterschrift Maren Ilves, Datum 1. Dunkelmond 551
    - Zwei Zeugenfelder leer (Maren konnte am 1. Dunkelmond abends keine Zeugen aufbieten — die Vier sassen beim Plan-Treffen; Sievert und Tarn sollten spaeter unterschreiben)
    - Anweisung-Zeile am unteren Rand: „Zeugen: Sievert, Baecker Hafengasse, und Tarn, Druckergeselle Druckerei Kvist. Beide bestellt, beide informiert."
 
-**Plot-Hintergrund (Autor-Direktive 2026-05-11):** Edric heisst bereits Dahl (Canon `00-welt.md` Z.560). Die Dahl-Linie wandert mit dem Namen + der Werft — als Harons Adoptierter ist Edric der naechste in der Linie. Maren als Ilves war nur Verwalterin der Erbschaft; mit der formalen Uebergabe an Edric Dahl wandert die Werft wieder in die Linie zurueck.
+**Plot-Hintergrund (Autor-Direktive 2026-05-11):** Edric traegt den Dahl-Namen (Canon `00-welt.md` Z.560 — als langjaehriger Werft-Geselle uebernommen, K04-Figuren-Check: „Den Namen uebernimmt man, wenn man bleibt"). Die Herkunft des Namens bleibt offen (keine Canon-Belegung fuer Adoption durch Haron). Maren als Zugezogene hat den Namen nicht angenommen — sie ist Ilves geblieben. Mit der formalen Uebergabe an Edric Dahl wandert die Werft jetzt an den naechsten Namenstraeger. Keine Adoption-Behauptung im Entwurf.
 
 Edric liest beides. Liest den Brief noch einmal. Faltet die Urkunde nicht. Er zieht die Linie auf dem Aufmass des Sundsteiner-Ruderblatts mit dem Finger nach, ohne nachzumessen — er kennt Marens Hand von Schiffsmaßen seit sieben Jahren. Er nimmt Harons Bleistift mit der abgebrochenen Spitze in die Hand, dreht ihn einmal zwischen den Fingern, legt ihn zurueck in den Halter. Er greift nach seinem eigenen Bleistift.
 
