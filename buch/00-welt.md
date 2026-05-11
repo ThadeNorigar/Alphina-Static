@@ -168,7 +168,7 @@ Maren findet in Moragh die Karte und die Anleitung für die Moragh-Seite des Por
 
 ### Zeugen
 
-**Tohl Daverin** und **Doktor Halvard** beobachten das Ritual vom Gartenrand. Halvard schreibt einen Bericht — sachlich, präzise, wie ein Arzt. Der einzige schriftliche Beleg. Seriös genug, dass man ihn nicht ignoriert. Verrückt genug, dass man ihn Jahrhunderte lang anzweifelt. Tohl bezeugt, sagt aber nie ein Wort dazu.
+**Doktor Halvard** beobachtet das Ritual allein vom Gartenrand (Autor-Direktive 2026-05-11 — Tohl-Tableau gestrichen). Halvard ahnt durch Alphinas Mentorat-Verabschiedung (sie nahm die Notizen-Schachtel unter „Lesestoff"-Vorwand), dass etwas passiert. Er schreibt einen Bericht — sachlich, präzise, wie ein Arzt. Der einzige schriftliche Beleg. Seriös genug, dass man ihn nicht ignoriert. Verrückt genug, dass man ihn Jahrhunderte lang anzweifelt.
 
 ---
 

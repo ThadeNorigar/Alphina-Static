@@ -1,7 +1,7 @@
 # B1-K40 — Vael-Epilog (Vier-POV-Mosaik) — Entwurf
 
 **POV:** Multi-POV (Jara / Halvard / Edric / Tarn), 3. Person nah, Praeteritum. Esther und Tohl gestrichen (Autor-Direktive 2026-05-11).
-**Timeline:** 3.–5. Dunkelmond 551 TZ · die ersten Tage nach dem Portal-Durchgang
+**Timeline:** 3. Dunkelmond 551 TZ (Tag nach dem Ritual). Alle vier Szenen am selben Tag, durch Tageszeit-Stufen verflochten (Sz1 Morgengrauen-Vormittag, Sz2 Morgen-Vormittag, Sz3 Morgen + Nachmittag, Sz4 Morgen + Nachmittag + Abend)
 **Wortziel Ausarbeitung:** 3.500–4.000 W (~800–1000 W pro Szene)
 
 **Gaensehaut-Moment:** Halvard findet Alphinas leere Wohnung. Auf dem Tisch seine medizinische Notizen-Schachtel — ungeoeffnet, voll, sein Pergament in seiner Handschrift unten unter dem Deckel. Sie hat alles zurueckgelassen. Sie ging mit Saatgut allein. Schock-Beat fuer den Rationalisten: die Lehrtochter hat sich seiner Wissens-Substanz entzogen, glaubt nicht an Rueckkehr, glaubt nicht an Ueberleben mit Werkzeug. **Plus:** die Welt aussen sieht aus wie immer — Stein wie immer, Pflanzen weiter NICHT im Steinkreis (Quelle pulsiert weiter, Grenze bleibt). Nur menschliche Spuren bleiben.
@@ -52,7 +52,7 @@ Sie deutet das **nicht** in Worten. Sie sammelt. Sie geht zurueck.
 1. **Manuskript-Original** (Lene Dahls Bericht, dritter Dunkelmond 154; sie hat es seit K34-Schluss)
 2. **Manuskript-Abschrift** mit ihrer Handschriften-Markierung (zwei Handschriften — Lene + zweite Hand, die spaeter eingefuegt wurde, K24-Canon)
 3. **Schemen-Inventur-Bogen** aus K34-Sz2 (sie fuehrte den Bogen, links Bauart, rechts Magie-Modus)
-4. **Sandalen-Eindrucks-Skizze** vom Morgen
+4. **Stiefel-Eindrucks-Skizze** vom Morgen (fuenf Stellen, Sohlen-Profile unterschiedlich)
 5. **Zwei kleine Metall-Werkzeuge** (in Tuch gewickelt; Beschriftung „unbekanntes Werkzeug, Steinkreis-Fund 3. Dunkelmond")
 6. **Kupferlaterne** (in einem Karton, Vael-Bauart, ohne Eigentuemer-Markenzeichen)
 7. **Runas Flugblaetter** (drei Serien, sie hat Exemplare angesammelt seit dem Sommer — Vereinbarung: Runa liefert ein Exemplar pro Auflage am Archiv-Eingang ab, Sievert nimmt es entgegen und gibt es an Jara weiter — Jara hat Runas Druckerei selbst nie betreten)
@@ -64,10 +64,11 @@ Halvard tritt am Vormittag ein, bringt eine Mappe mit Datum + Stempel — sein B
 Sie legt das Konvolut neben Akten, die niemand seit siebzig Jahren angesehen hat. Sicher. Sie legt eine Kopie der Archiv-Signatur ins Fundverzeichnis (Querablage). In dreissig Jahren wird niemand das hier oeffnen. In hundert Jahren vielleicht. Sie macht es trotzdem.
 
 **Dialog-Informationen:**
-- Jara erfaehrt: kein sichtbares Magie-Spuren am Steinkreis, aber drei konkrete menschliche Spuren (Sandalen, Druck-Maerker, Laterne). Halvards Bericht kommt am Vormittag.
+- Jara erfaehrt: kein sichtbares Magie-Spuren am Steinkreis, aber drei konkrete menschliche Spuren (Stiefel-Eindruecke an fuenf Stellen, zwei unbekannte Metall-Werkzeuge, Kupferlaterne). Halvards Bericht kommt am Vormittag.
 - Jara's Erkenntnis am Ende: das Konvolut ist Zeugnis, nicht Erklaerung. Die Stadt wird vergessen. Die Akten nicht.
 - Knapper Dialog mit Halvard (3+2 Saetze, sachlich). Sonst Jara allein.
-- *PFLICHT-Marker /ausarbeitung:* Jara als aktive Forscherin, nicht passive Beobachterin. Sie WILL Beweis-Material. Erste Saetze tragen den Auftrag, nicht Atmosphaere. Commercial Hook: Figur mit Ziel.
+- *PFLICHT-Marker /ausarbeitung:* Jara als aktive Forscherin, nicht passive Beobachterin. Sie WILL Beweis-Material. **Erste Saetze tragen den Auftrag konkret:** sie traegt ihren Archiv-Beutel (Bleistift, Bogen, Tuch zum Einwickeln), sie weiss das Datum (2. Dunkelmond gestern abend, heute 3. Dunkelmond Morgen), sie geht NICHT zur Arbeit, sie geht dokumentieren. Hook-Beispiel: erster Satz zeigt Jara mit Beutel + festem Schritt + bestimmter Richtung — keine Atmosphaere-Beobachtung des Gartens. (MEIKE-Konsens: Figur-Motor in Zeile 1.)
+- *PFLICHT-Marker /ausarbeitung:* **Koerperlicher Beat beim „Nichts-da"-Moment.** Wenn Jara den Steinkreis abgelaufen hat und sieht, dass die Welt aeusserlich unveraendert ist, muss ein Koerper-Anker das tragen: sie steht kurz still, ihre Hand haelt einen Atemzug inne, bevor sie schreibt. Sie hatte erwartet, dass etwas anders aussieht. Es sieht nicht anders aus. Sie schreibt es trotzdem auf — Methode haelt. (KAYA-Konsens: Welt-Ununterscheidbarkeit als Trauma-Markierung braucht Koerper-Verankerung, nicht nur Plot-Notiz.)
 - *PFLICHT-Marker /ausarbeitung:* Schuh-Eindruecke (Stiefel — Dunkelmond ist Spaetherbst, kein Sandalen-Wetter) an fuenf Stellen sind der einzige Beweis, dass fuenf Personen dort standen. Jara weiss aus K34, dass nur Vier im Plan waren. Die fuenfte Eindruck-Stelle ist eine Diskrepanz — sie kann niemanden zuordnen. Plot-Pflicht: KEINE Runa-Identifikation in K40. Tschechow nur als unaufgeloeste Frage, die in B2/B3-Recherche aufgenommen wird.
 - *PFLICHT-Marker /ausarbeitung:* Doppelzaehl-Beat der Flugblaetter (Methode haelt, kostet). Trauma-durch-Methode-Beat.
 - *PFLICHT-Marker /ausarbeitung:* Jara-Halvard-Begegnung knapp und sachlich. Keine Emotion ausgesprochen — beide bezeugen durch Methode, nicht durch Worte. Kein „sie sah ihn traurig an"-Erzaehler-Glosse.
@@ -88,7 +89,7 @@ Sie legt das Konvolut neben Akten, die niemand seit siebzig Jahren angesehen hat
 **Cross-POV-Ankerpunkte:**
 - Jara weiss NICHTS von Moragh
 - Jara weiss aus K34-Sz2-Treffen: vier wollten gehen + Plan war ohne Rueckkehr-Anleitung
-- Jara weiss erst nach Sz1: fuenf sind gegangen (Runa als fuenfte erkannt durch Sandalen-Zaehlung + Druck-Maerker + Laterne)
+- Jara weiss erst nach Sz1: fuenf sind gegangen (fuenf Stiefel-Eindruecke statt der geplanten vier; wer die fuenfte ist, bleibt offen)
 - Sorel-Prinzip Wort-Verbote: kein „Resonanz", kein „Schemen", kein „Moragh", kein „Portal", kein „Varen", kein „Quelle" als Phaenomen-Begriff
 - POV-Vokabular Jara: Tinte, Aktenfaden, Bogen, Manuskript, Abschrift, Handschrift, Signatur, Querverzeichnis, Fundverzeichnis, Markierung, Konvolut
 
@@ -114,19 +115,23 @@ Was er beobachtet hat in der Ritual-Nacht (Plot-Inhalt fuer Bericht):
 - Stille
 - Er bleibt stehen, eine Weile. Geht heim ohne jemanden gerufen zu haben.
 
-Am 3. Dunkelmond, frueher Morgen, geht er zu Alphinas Wohnung in der Hafengasse. Er hat einen Zweitschluessel (sie hatte ihm im Glutmond einen gegeben fuer den Fall, dass sie krank wuerde und Tinkturen brauche — Mentor-Vertrauen-Anker). Er schliesst auf.
+Am 3. Dunkelmond, frueher Morgen, geht er zu Alphinas Wohnung in der Hafengasse. Er klopft, niemand antwortet. Die Vermieterin (Frau Karst aus dem Erdgeschoss, langjaehrige Patientin von Halvard — sie hat ihn mehrfach wegen Rheuma in der Hand behandelt, kennt sein Mentee-Verhaeltnis zu Alphina seit dem Glutmond) oeffnet ihm mit ihrem Hauptschluessel, ohne zu fragen. Halvard tritt ein, sagt, er suche Alphina wegen einer Verabredung — Frau Karst nickt, bleibt im Flur, schliesst die Tuer hinter ihm.
+
+*PFLICHT-Marker /ausarbeitung:* Vermieterin Frau Karst als Plot-Erweiterung 2026-05-11 (statt Zweitschluessel direkt bei Halvard, was fuer 1820-Register zu eng waere). Sie ist Patientin, die Logik haelt durch das Arzt-Patient-Verhaeltnis. In Prosa knapp halten — eine Nennung, kein Charakter-Aufbau.
 
 Die Wohnung ist leer. Auf der Tuerritze ein duenner Farnwedel, der nicht da gewesen sein sollte (TZ-K34-Plant, Alphina-Resonanz-Spur unbewusst). Er geht ins Hauptzimmer.
 
-Auf dem Tisch: **seine Notizen-Schachtel.** Holzkasten, kupferne Schliessen, Aufschrift in seiner eigenen Handschrift („Anatomie / Wickel / Tinkturen, Lehre 551 ab Glutmond"). Ungeoeffnet, voll. Er hebt den Deckel. Die Pergamente liegen alle drin — die Anatomie-Skizzen, die Tinktur-Rezepte, die Wickel-Anleitungen. Er findet das Pflanzen-Skalpell in der oberen Schublade (sie hatte es zur Vorbereitung gestern hingelegt — und nicht eingepackt).
+Auf dem Tisch: **seine Notizen-Schachtel.** Holzkasten, kupferne Schliessen, Aufschrift in seiner eigenen Handschrift („Anatomie / Wickel / Tinkturen, Lehre 551 ab Glutmond"). Ungeoeffnet, voll. Er hebt den Deckel. Die Pergamente liegen alle drin — die Anatomie-Skizzen, die Tinktur-Rezepte, die Wickel-Anleitungen. Das Pflanzen-Skalpell liegt in der oberen Schublade, wo es immer lag — sie hat es nicht angefasst.
 
-Er steht eine Weile. Versteht: sie nahm sich seine Wissens-Substanz nicht mit. Sie ging mit Saatgut allein. Sie glaubte nicht an Rueckkehr, glaubte aber auch nicht an Ueberleben mit Werkzeug. Sie ging „nackt" rueber.
+Er steht eine Weile am Tisch. Schliesst den Deckel der Schachtel. Hebt sie unter den Arm.
+
+*PFLICHT-Marker /ausarbeitung:* Halvards Schachtel-Beat **stumm** — kein „er versteht"-Erzaehler-Satz, kein „sie nahm sich seine Wissens-Substanz nicht mit"-Glosse. Er steht, hebt den Deckel, zaehlt die Pergamente mit einem Finger (oder beruehrt das oberste), schliesst den Deckel, nimmt die Schachtel unter den Arm. Die Bedeutung traegt sich durch die Geste, der Erzaehler kommentiert nicht. (MEIKE + KAYA-Konsens: Kuang-Disziplin, „Zeuge durch Geste".)
 
 Er nimmt die Schachtel unter den Arm, schliesst die Wohnung ab, geht in die Praxis zurueck.
 
 **Plot-Beat — Bericht:** In der Praxis schreibt er den Bericht. Sieben Bogen. Stil: Krankenakten-Sprache, kurze Saetze, keine Spekulation. Inhalt:
 - 2. Dunkelmond 551, eine Stunde vor Sonnenuntergang, am Rand des Botanischen Gartens vom Verfasser beobachtet
-- Fuenf Personen treten in den Purpursteinkreis. Name + Beruf, soweit identifiziert: Alphina Farn (Mentee des Verfassers), Vesper (Uhrmacher), Maren Ilves (Werftbetreiberin), Sorel (Fotograf), eine fuenfte Person nicht zweifelsfrei identifiziert (vermutlich Runa Kvist, Druckerin — basierend auf Statur und spaeterer Indizien-Recherche)
+- Fuenf Personen treten in den Purpursteinkreis. Name + Beruf, soweit identifiziert: Alphina Farn (Mentee des Verfassers), Vesper (Uhrmacher), Maren Ilves (Werftbetreiberin), Sorel (Fotograf). Eine fuenfte Person aus dem Lindengebuesch nach Beginn dazugekommen, nicht identifiziert (Distanz zu gross, Daemmerung).
 - Beobachtete Phaenomene: Lichtstrahlen zwischen den Steinen (Quelle und Natur unklar), schnelles Pflanzenwachstum am Kreis-Rand, fliessendes Wasser an einem Stein, ein scheinbarer Spalt in der Luft mit Sicht auf andere Topographie dahinter, alle fuenf Personen verschwinden nacheinander durch den Spalt, der sich schliesst
 - Liste der Anomalien-Patienten der vorherigen Monate (Wäscherin Frostbrand Grünmond, Fischer Erfrierung Saatmond/Grünmond, Junge versengtes Haar Bluetenmond, Frau Fingerabdruck-Mal Bluetenmond — K26-Canon, plus weitere mit Datum)
 - Tidemoor-Standuhr — Drift 4 Min 33 Sek/Stunde; im Lichtmond durch Vesper temporaer behoben, **seit 3. Dunkelmond wieder im Drift** (Halvard hat es nachgemessen)
@@ -190,7 +195,7 @@ Drinnen alles ordentlich. Marens Werkzeug auf der Werkbank — Stechbeitel an ih
    - Kein Abschied. Operative Sprache.
 
 2. **Schenkungs-Urkunde** (handschriftlich, formell):
-   - Erklaerung: Maren Ilves uebertraegt ihrem Werftgesellen Edric Dahl alle Vermoegenswerte (Werft Ilves an der Hafengasse plus die Wohnung in der Hafengasse, eingerichtet, Inventar laut Verzeichnis im Auftragsbuch), wirksam ab dem ersten Saatmond 552 (vier Monate nach dem Aufbruch), falls sie bis dahin nicht zurueckgekehrt ist
+   - Erklaerung: Maren Ilves uebertraegt ihrem Werftgesellen Edric Dahl alle Vermoegenswerte (Werft Ilves an der Hafengasse plus die Wohnung in der Hafengasse, eingerichtet, Inventar laut Verzeichnis im Auftragsbuch), wirksam ab dem ersten Saatmond 552 (drei Monate nach dem Aufbruch — Rest-Dunkelmond + Eismond + Sturmmond), falls sie bis dahin nicht zurueckgekehrt ist
    - Eigenhaendige Unterschrift Maren Ilves, Datum 1. Dunkelmond 551
    - Zwei Zeugenfelder leer (Maren konnte am 1. Dunkelmond abends keine Zeugen aufbieten — die Vier sassen beim Plan-Treffen; Sievert und ein anderer sollten unterschreiben spaeter)
    - Anweisung-Zeile am unteren Rand: „Zeugen: Sievert, Baecker Hafengasse, und Tarn, Druckergeselle Druckerei Kvist. Beide bestellt, beide informiert."
@@ -247,7 +252,7 @@ Beide gehen zurueck zu ihrer Arbeit.
 **POV:** Tarn (Druckergeselle)
 **Wortziel:** 800–900 W
 **Wann:** 3. Dunkelmond, Morgen → Nachmittag → Abend
-**Ort:** Druckerei Kvist (Oberstadt, nahe Marktplatz) → Baecker Sievert nebenan → Werft (kurz, Cross-Connect zu Sz3) → Druckerei (Schluss)
+**Ort:** Druckerei Kvist (Oberstadt, nahe Marktplatz) → Hafengasse zu Baecker Sievert → Werft (Cross-Connect zu Sz3) → Druckerei (Schluss). Weg Druckerei-Sievert ist ca. eine Viertelstunde durch die Stadt.
 
 **Plot-Beat — Morgen:** Tarn kommt zur Druckerei wie jeden Morgen. Er hat seinen eigenen Gesellen-Schluessel (seit zwei Jahren — er schliesst meist als Erster auf, wenn Runa noch am Setzkasten-Korrekturen sitzt oder oben in der Wohnung ist). Heute ist die Tuer von innen verriegelt — Runa hat sie am Aufbruch-Abend so gelassen (Memory K37: „dreht den Riegel anders als sonst"). Tarn schliesst die Vordertuer auf, der Riegel war zusaetzlich von innen vorgelegt — er muss durch das Hofzimmer-Fenster (das er kennt) klettern, um den Riegel zu lösen. Oder einfacher: er klopft, niemand antwortet, er geht zum Hofzimmer-Eingang (zweiter Gesellen-Zugang, den er auch hat). Drinnen alles wie immer.
 
@@ -263,7 +268,7 @@ Er zieht die Schublade ganz auf:
 
 Daneben: das Auftragsbuch der Druckerei, ein Verzeichnis der Lettern-Bestaende, eine Liste der laufenden Schuldner (Werft, Handelshaus, drei Pfarrer-Kunden) und Glaeubiger, Runas private Notizbuecher (mit der Anweisung „Setzkasten-Korrekturen + Werkstatts-Routinen") — alles aufgeraeumt, sortiert, bereit zur Uebernahme.
 
-Tarn liest den Brief noch einmal. Faltet ihn nicht. Geht zum Baecker Sievert nebenan (im Brief als erster Zeuge benannt) mit dem Brief. Sievert liest ihn, nickt einmal — er hat Runa zwei Mal in den letzten Wochen mit dem aufrechten Gang einer Person gesehen, die sich auf etwas einlasst, was sie nicht zurueckziehen will. Er unterschreibt auf der Zeugen-Zeile.
+Tarn liest den Brief noch einmal. Faltet ihn nicht. Schliesst die Druckerei ab (mit eigenem Schluessel), geht hinunter in die Hafengasse — eine Viertelstunde durch die Stadt — zum Baecker Sievert (im Brief als erster Zeuge benannt). Sievert tritt aus dem Backraum, mehlige Schuerze, liest den Brief, nickt einmal. Er hat Runa zwei Mal in den letzten Wochen mit dem aufrechten Gang einer Person gesehen, die sich auf etwas einlasst, was sie nicht zurueckziehen will. Er unterschreibt auf der Zeugen-Zeile.
 
 Tarn geht zur Werft. Cross-Connect zu Sz3: er kommt zu Edric, sie wickeln die gegenseitige Bezeugung ab. Drei Saetze gesamt zwischen den beiden:
 - Edric: „Wann?"
@@ -274,11 +279,13 @@ Tarn nickt. Beide unterschreiben sich gegenseitig die Bogen.
 
 **Plot-Beat — Abend (Schluss-Bild Buch 1):** Tarn ist abends allein in der Druckerei. Er hat das Auftragsbuch durchgearbeitet — drei Auftraege sind faellig (zwei Flugblatt-Serien, ein Werftpapier-Vordruck fuer einen Sundsteiner Frachter). Die Druckerei laeuft weiter, weil er sie weiterfuehrt. Niemand fragt.
 
-Er sitzt an Runas Hocker — den, an dem sie immer sass, wenn sie die Lettern setzte. Er sitzt zum ersten Mal dort. Vor ihm der Setzkasten, in den Faechern die Lettern noch von Runas letzter Auflage (eine Flugblatt-Serie, die nie gedruckt wurde — der Setz ist halb fertig). Er kann ihn entweder loeschen oder zu Ende setzen. Er entscheidet sich, zuende zu setzen. Er nimmt die naechste Letter aus dem Fach, setzt sie. Setzt die naechste.
+Er sitzt an Runas Hocker — den, an dem sie immer sass, wenn sie die Lettern setzte. Er sitzt zum ersten Mal dort. Vor ihm der Setzkasten, in den Faechern die Lettern noch von Runas letzter Auflage (eine Flugblatt-Serie, die nie gedruckt wurde — der Setz ist halb fertig). Er kann ihn entweder loeschen oder zu Ende setzen. Er nimmt die naechste Letter aus dem Fach, setzt sie. Setzt die naechste.
 
-Er weiss: er ist jetzt der Drucker von Vael. Er ist zwanzig oder einundzwanzig, Geselle seit zwei Jahren, jetzt Inhaber. Niemand hat ihn gefragt, ob er es sein will. Er ist es. Die Lampe brennt ueber dem Setzkasten. Draussen zieht der Nebel ein. Die Stadt schweigt. Die Druckerei laeuft weiter.
+Die Lampe brennt ueber dem Setzkasten. Draussen zieht der Nebel ein. Die Stadt schweigt. Die Druckerei laeuft weiter.
 
 **ENDE BUCH 1.**
+
+*PFLICHT-Marker /ausarbeitung:* Tarn-Schluss-Glosse „Er weiss: er ist jetzt der Drucker von Vael" + „Er ist es" RAUS (MEIKE + KAYA-Konsens: Erzaehler-Resuemee zerstoert das Bild). Die Szene endet mit der Hand-an-Letter-Geste und dem Vier-Bild-Schluss (Lampe / Nebel / Stadt schweigt / Druckerei laeuft weiter). Der Leser zieht das „er ist es" aus der Geste, der Erzaehler benennt es nicht.
 
 **Dialog-Informationen:**
 - Tarn erfaehrt: Runa hat ihm die Druckerei uebertragen mit Brief + Zeugen-Verfahren; Sievert + Edric als Zeugen; Edric hat parallel die Werft von Maren bekommen
