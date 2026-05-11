@@ -38,7 +38,7 @@ Nachtholm, Anfang Saatmond. Das Datum stand auf der Kassette in seiner eigenen S
 
 Die Platte kam heraus. Der Kai auf der anderen Seite des Beckens, die Schiffsmasten, die Reflexion des Monds auf dem ölig bewegten Wasser, alles in den mittleren Grauwerten, so wie die neue Emulsion es versprochen hatte. Und im Mittelgrund, zwischen den zwei nächsten Masten, zu dicht am Ufer, um zufällig dort zu stehen, zu scharf am Rand, um im Dunst verloren zu gehen: eine Silhouette. Frau, Mantel weit, Haar dunkel, die Hände verdeckt vom Körper des vorderen Masts.
 
-Er war allein gewesen an diesem Becken. Er war allein. Er hatte Platten belichtet, auf denen Masten, Wasser und Nichts waren. Nachtholm lag drei Tage Reise von Vael entfernt, und Anfang Saatmond hatte es die Frau für ihn nicht gegeben: keinen Namen, kein Gesicht, keine Sehne am Daumenansatz. Nichts, das auf einer Platte hätte stehen können.
+Er war allein gewesen an diesem Becken. Er war allein. Er hatte Platten belichtet, auf denen Masten, Wasser und Nichts waren. Nachtholm lag drei Tage Reise von Vael entfernt, und Anfang Saatmond hatte es die Frau für ihn nicht gegeben: keinen Namen, kein Gesicht, keine Sehne am Daumenansatz. Keine Figur, die auf einer Platte hätte stehen können.
 
 Er legte die Platte auf die zweite. Seine Hände arbeiteten weiter. Nicht schneller, nicht langsamer. Die Präzision nahm sogar zu, was er registrierte wie eine Messung, die nicht zu seinem eigenen Herzschlag passte. Sein Körper antwortete der Entdeckung, indem er sich in die Routine härter hineinarbeitete, statt aus ihr herauszufallen.
 
@@ -48,7 +48,7 @@ Auf elf von ihnen stand sie.
 
 Immer am Rand. Immer im Hintergrund, in einer Reflexion auf einer Fensterscheibe, hinter einer Pollerreihe, unter einem Torbogen, im Mittelgrund zwischen zwei Masten. Nie zentral. Nie als Motiv. Nie gestellt. Immer wie jemand, der zufällig im Bild ist, obwohl er gar nicht im Bild sein dürfte: zu weit weg vom Ort, zu weit weg vom Tag, zu weit weg von allem, was sein Gedächtnis ihm über die Aufnahme hätte sagen können.
 
-Die Platten ohne sie hängte er auf. Es waren wenige: der Marktplatz am Morgen, ein Ausschnitt einer Hauswand aus nächster Nähe, sein eigener Schuh als Test für eine Emulsion. Objekte. Flächen. Nichts, wo ein Mensch sein konnte.
+Die Platten ohne sie hängte er auf. Es waren wenige: der Marktplatz am Morgen, ein Ausschnitt einer Hauswand aus nächster Nähe, sein eigener Schuh als Test für eine Emulsion. Objekte. Flächen. Keine Stelle, wo ein Mensch sein konnte.
 
 Er holte die Lupe, Messingrand, gutes Glas aus Nachtholm, und prüfte die Platten eine nach der anderen unter dem Rotlicht. Er suchte einen Nachdruck, eine Retusche, einen Bleichfleck: etwas, das darauf hindeutete, dass jemand die Platte nach der Belichtung angefasst hatte. Die Körner lagen sauber. Das Silber saß in der Emulsion, eingebrannt beim Entwickeln, nicht darüber. Es war kein Trick.
 
@@ -78,7 +78,7 @@ Die Wand blieb leer, bis auf die wenigen Platten ohne sie. Marktplatz. Hauswand.
 
 Er wusch die Hände.
 
-Das Wasser aus dem Messinghahn war kalt. Der Chemiegeruch saß noch in den Fingerkuppen, zog nicht mehr in die Nasenschleimhaut, nur noch in das Gedächtnis an den Geruch. Das eigene Blut rauschte in seinen Ohren, als er die Hände unter den Strahl hielt. Er hörte das Rauschen zu laut. Er zählte bis zehn, zählte noch einmal bis zehn, und dann drehte er das Wasser ab.
+Das Wasser aus dem Messinghahn war kalt. Der Chemiegeruch saß noch in den Fingerkuppen, zog nicht mehr in die Nasenschleimhaut, nur noch in das Gedächtnis an den Geruch. In seinen Ohren schlug das Blut zu laut, als er die Hände unter den Strahl hielt. Er zählte bis zehn, zählte noch einmal bis zehn, und dann drehte er das Wasser ab.
 
 
 
@@ -158,7 +158,7 @@ Er zog die Hand nicht weg.
 
 Sie ließ ihn los. Ihre Finger lösten sich von seinem Handgelenk, einer nach dem anderen, und jeder Finger hinterließ einen warmen Punkt auf der Haut, der nach dem Loslassen noch drei Atemzüge blieb.
 
-Sie gingen weiter. An einer engen Stelle der Gasse mussten sie nebeneinander gehen. Ihre Arme streiften sich, der Stoff seines Mantels gegen den Stoff des ihren. Keiner zog zurück. Keiner beschleunigte. Drei Schritte lang gingen sie in einem Abstand, der weniger war als ein Arm. Das Gewebe-an-Gewebe lag neben der Erinnerung an ihre Hand auf seinem Knie, drei Nächte vorher. Jetzt sah er den Arm. Er sah ihn und ging weiter, und der Atem setzte erst zwei Schritte später kurz aus, als die Gasse wieder breit genug war und der Stoff den Stoff nicht mehr berührte.
+Sie gingen weiter. An einer engen Stelle der Gasse mussten sie nebeneinander gehen. Ihre Arme streiften sich, der Stoff seines Mantels gegen den Stoff des ihren. Keiner zog zurück. Keiner beschleunigte. Drei Schritte lang gingen sie in einem Abstand, der weniger war als ein Arm. Das Gewebe-an-Gewebe weckte die Erinnerung an ihre Hand auf seinem Knie, drei Nächte vorher. Jetzt sah er den Arm. Er sah ihn und ging weiter, und der Atem setzte erst zwei Schritte später kurz aus, als die Gasse wieder breit genug war und der Stoff den Stoff nicht mehr berührte.
 
 "Die Steine im Garten", sagte er, weil er etwas sagen musste, bevor das Schweigen ihn verriet. "Im Sucher bewegen sie sich."
 
@@ -188,7 +188,7 @@ Er hätte es sagen können. Die Platte aus Nachtholm. Drei Monate alt. Eine Frau
 
 Ihr Gesicht wurde einen Schatten bleicher. Dann hatte sie sich wieder gefangen.
 
-"Ich muss weiter." Sie stieg die nächsten Stufen hinauf, drehte sich halb um. "Ich bin neugierig auf das, was Sie sehen."
+"Ich muss weiter." Sie stieg die nächsten Stufen hinauf, sah über die Schulter. "Ich bin neugierig auf das, was Sie sehen."
 
 Er stand auf der unteren Stufe und schaute ihr nach. Der Saum ihres Mantels war das Letzte, ein dunkler Strich im Gaslicht.
 
