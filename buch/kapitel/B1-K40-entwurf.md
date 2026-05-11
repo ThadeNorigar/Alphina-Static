@@ -38,7 +38,11 @@ LINA / NORA / VICTORIA hier NICHT — keine Romantasy-, keine Power-Dynamik-, ke
 
 **Plot-Beat — Steinkreis:** Jara geht im Morgengrauen los, sucht die fuenf. Sie weiss aus dem K34-Plan-Treffen, dass die vier am 2. Dunkelmond abends zum Steinkreis wuerden — und sie hat im Lauf der Morgenstunden weitere Hinweise gesammelt: ihre Tante Esther hat ihr vom Aufstehen den Eindruck mitgegeben, dass im Archiv-Hof Stille war (Vesper kam nicht zur ueblichen Stunde), Sievert hat ihr beim Brot-Holen erwaehnt, dass die Druckerei verschlossen ist und Runa nicht da. Fuenf Personen (Vesper, Maren, Alphina, Sorel, Runa) sind seit gestern Abend nicht mehr gesehen worden. Jara geht den Weg, den sie aus dem K34-Plan kennt — Druckerei → Hafengasse → Steinkreis. Sie findet keine der fuenf. Sie endet am Botanischen Garten.
 
-Im Garten: der Steinkreis sieht aus wie immer. Stein wie immer. **Pflanzen wachsen weiter NICHT in den Kreis hinein** (die Quelle pulsiert weiter, die Grenze bleibt — aeusserlich unveraendert). Niemand ist da. Kein sichtbares Zeichen, dass die fuenf hier waren — Kies haelt keine Abdruecke, der Garten ist wie er war. Sie steht am Rand des Kreises. Sie geht das Rund einmal ab, einmal in die andere Richtung. Nichts. Sie geht zurueck zum Archiv.
+Im Garten: der Steinkreis sieht aus wie immer. Stein wie immer. **Pflanzen wachsen weiter NICHT in den Kreis hinein** (die Quelle pulsiert weiter, die Grenze bleibt — aeusserlich unveraendert). Niemand ist da.
+
+**Aber im weichen Boden am Kreis-Rand:** Spuren, die zum Kreis hingehen — aus mehreren Richtungen, vom Hauptzugang, vom Lindengebuesch. Spuren, die wieder herausfuehren: keine. Jara sieht es, geht das Rund einmal ab, prueft alle Seiten. Niemand ist herausgegangen.
+
+Sie steht am Rand. Sie geht zurueck zum Archiv.
 
 **Plot-Beat — Archiv:** Im Stadtarchiv (Rathauskeller). Esther ist in dieser Szene **nicht namentlich** anwesend (Autor-Direktive 2026-05-11: Esther streichen). Jara arbeitet allein. Sie legt das Konvolut an:
 
@@ -55,12 +59,12 @@ Halvard tritt am Vormittag ein, bringt eine Mappe mit Datum + Stempel — sein B
 Sie legt das Konvolut neben Akten, die niemand seit siebzig Jahren angesehen hat. Sicher. Sie legt eine Kopie der Archiv-Signatur ins Fundverzeichnis (Querablage). In dreissig Jahren wird niemand das hier oeffnen. In hundert Jahren vielleicht. Sie macht es trotzdem.
 
 **Dialog-Informationen:**
-- Jara erfaehrt: am Steinkreis ist niemand mehr. Kein sichtbares Zeichen, dass die fuenf je hier waren. Halvards Bericht kommt am Vormittag.
+- Jara erfaehrt: am Steinkreis ist niemand mehr. Spuren fuehren hinein, keine heraus. Halvards Bericht kommt am Vormittag.
 - Jara's Erkenntnis am Ende: das Konvolut ist Zeugnis, nicht Erklaerung. Die Stadt wird vergessen. Die Akten nicht.
 - Knapper Dialog mit Halvard (3+2 Saetze, sachlich). Sonst Jara allein.
 - *PFLICHT-Marker /ausarbeitung:* Jara als aktive Forscherin, nicht passive Beobachterin. Sie WILL Beweis-Material. **Erste Saetze tragen den Auftrag konkret:** sie traegt ihren Archiv-Beutel (Bleistift, Bogen, Tuch zum Einwickeln), sie weiss das Datum (2. Dunkelmond gestern abend, heute 3. Dunkelmond Morgen), sie geht NICHT zur Arbeit, sie geht dokumentieren. Hook-Beispiel: erster Satz zeigt Jara mit Beutel + festem Schritt + bestimmter Richtung — keine Atmosphaere-Beobachtung des Gartens. (MEIKE-Konsens: Figur-Motor in Zeile 1.)
 - *PFLICHT-Marker /ausarbeitung:* **Koerperlicher Beat beim „Nichts-da"-Moment.** Wenn Jara den Steinkreis abgelaufen hat und sieht, dass die Welt aeusserlich unveraendert ist, muss ein Koerper-Anker das tragen: sie steht kurz still, ihre Hand haelt einen Atemzug inne, bevor sie schreibt. Sie hatte erwartet, dass etwas anders aussieht. Es sieht nicht anders aus. Sie schreibt es trotzdem auf — Methode haelt. (KAYA-Konsens: Welt-Ununterscheidbarkeit als Trauma-Markierung braucht Koerper-Verankerung, nicht nur Plot-Notiz.)
-- *PFLICHT-Marker /ausarbeitung:* Der Steinkreis-Beat ist KEIN Krimi-Setup. Jara findet **nichts**: keine Fundstuecke, keine Fussabdruecke, keine sichtbaren Spuren. Der Garten sieht aus wie immer. Pflanzen wachsen weiter nicht in den Kreis. Sie steht eine Weile am Rand, weiss, dass es die Stelle ist, und es gibt nichts zu sehen. Die Leere selbst ist das Material — aber NICHT als Verneinungs-Aufzaehlung („kein Fußabdruck, kein Werkzeug, keine Laterne"), sondern als reine Beobachtung des Gartens-wie-immer. (Autor-Direktive 2026-05-11: keine fingierten Fund-Stuecke, kein Drittklass-Krimi-Setup, keine Verneinungs-Liste.)
+- *PFLICHT-Marker /ausarbeitung:* Der Steinkreis-Beat ist KEIN Krimi-Setup. Jara nimmt **nichts mit**, **zaehlt nicht**, **skizziert nicht**. Sie sieht: Spuren zum Kreis hinein (mehrere Richtungen, weicher Boden am Rand), keine Spuren wieder hinaus. Das ist das Bild. Sie geht das Rund einmal ab, sieht es bestaetigt, geht. Keine Detektiv-Mathematik, keine Fund-Logistik. (Autor-Direktive 2026-05-11: keine fingierten Fund-Stuecke, kein Drittklass-Krimi-Setup; nur reine Beobachtung „rein, nicht raus".)
 - *PFLICHT-Marker /ausarbeitung:* Doppelzaehl-Beat der Flugblaetter (Methode haelt, kostet). Trauma-durch-Methode-Beat.
 - *PFLICHT-Marker /ausarbeitung:* Jara-Halvard-Begegnung knapp und sachlich. Keine Emotion ausgesprochen — beide bezeugen durch Methode, nicht durch Worte. Kein „sie sah ihn traurig an"-Erzaehler-Glosse.
 
@@ -316,7 +320,7 @@ Die Lampe brennt ueber dem Setzkasten. Draussen zieht der Nebel ein. Die Stadt s
 
 ### Was wissen sie am Ende?
 
-- **Jara:** das Konvolut existiert, archiviert mit Querverzeichnissen; sie hat den Steinkreis aufgesucht und niemanden gefunden — kein sichtbares Zeichen, dass die fuenf je dort waren. Sie hat Halvards Bericht als Position 5 im Konvolut.
+- **Jara:** das Konvolut existiert, archiviert mit Querverzeichnissen; sie hat den Steinkreis aufgesucht und gesehen: Spuren fuehren in den Kreis hinein, keine wieder hinaus. Sie hat Halvards Bericht als Position 5 im Konvolut.
 - **Halvard:** seine Mentee kommt nicht zurueck (Schachtel-Beweis); er hat einen Bericht geschrieben, der ins Archiv geht; er hat seine Methode an die Grenze gefuehrt, gibt sie nicht auf
 - **Edric:** Maren rechnet damit, dass sie nicht zurueck ist (Urkunde mit Wirksamkeits-Bedingung Saatmond 552); die ganze Gruppe ist mit gleichen Uebertragungen gegangen; er macht weiter
 - **Tarn:** Runa kommt nicht zurueck (Brief, vor Saatmond 552); Maren auch nicht (Edric-Beat); er ist jetzt Drucker von Vael, hat nicht entschieden, ist es
