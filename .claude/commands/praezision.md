@@ -60,6 +60,23 @@ Default = Subjekt + Verb. Adjektiv-Anhängsel nach Komma („Tee, dampfend") und
 **A5 — Verständlichkeits-Gate:**
 Bleibt ein Satz beim ersten Lesen unklar → FINDING, unabhängig davon, wie elegant er ist (Memory `feedback_verstandlichkeits_gate.md`, `feedback_verstandlichkeit_vor_eleganz.md`).
 
+**A7 — Sinnfreie Negationen / Verneinungs-Tic:**
+**Pflicht-Prüfung pro Einsatz.** Jede Negation (`nicht / kein / nichts / niemand / nie / weder ... noch`) durchläuft den Streichen-Test: trägt eine **positive Formulierung** dieselbe Information genauso oder besser? Wenn ja → FINDING. Default = streichen oder positiv umformulieren. Memory `feedback_negationen_vermeiden.md`.
+
+Verbotene Tic-Muster (fast immer FINDING):
+- *„nicht X, sondern Y"* (Antithese — Master Tabelle „Harte Limits")
+- *„nicht X und nicht Y"* (Doppelnegation als Charakter-Label, z.B. *„nicht warm und nicht kalt"*) — sagt nicht, was etwas IST, nur was es nicht ist. Streichen oder positiv: *„blieb sachlich"*.
+- *„nicht X, nicht Y"* nach bereits gegebener positiver Info (z.B. *„zwei Schritte weiter in der Gasse, nicht nah, nicht fern"*) — redundant.
+- *„kein X. Nur Y."* als Pointe
+- *„X, nicht Y"* wenn Y nie behauptet wurde
+- *„weiß nicht / kann nicht / konnte nicht"* am Satzende als resignativer Abschluss
+- *„Nichts [Verb]te"* / *„Nichts blieb"* als Absatz-Schluss-Hammer
+- *„geben + nichts"* (z.B. *„gab ihr nichts"*) — leeres Verb + Pseudo-Material kombiniert
+
+**Erlaubte Negation:** Echte Abwesenheits-Aktion — die Figur verweigert, schweigt, fehlt, kommt nicht. *„Er sagte nichts."* / *„Sie ging nicht."* — der Akt der Abwesenheit ist die Aussage.
+
+Tag: `[PFLICHT]` bei klar redundanter Negation, `[TIC]` bei austauschbarer, `[STIL?]` wenn die Verneinung selbst der Beat ist (Verweigerung, Fehlen, bewusste Abwesenheit).
+
 **A6 — Gedankenstrich-Tic (Em-Dash `—` und Double-Dash `--`):**
 **Hartes PFLICHT-Sweep.** Jedes Vorkommen von `—` (Em-Dash, U+2014) und `--` (Doppel-Bindestrich als Gedankenstrich-Ersatz) in der Prosa ist FINDING. Ausnahme: Bindestriche in zusammengesetzten Wörtern (`Hände-Platte`, `Gewebe-an-Gewebe`, `Zwanzig-Sekunden-Belichtung`) bleiben erlaubt — die sind keine Gedankenstriche.
 
