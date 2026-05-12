@@ -348,13 +348,6 @@
     .ft-info { font-size: 0.72rem; color: var(--smoke); padding: 0 0.25rem; letter-spacing: 0.05em; }
     .ft-ico { font-size: 1rem; }
 
-    /* Sticky Commit-Picker, wenn Diff aktiv */
-    .diff-panel.active {
-      position: sticky;
-      top: 0;
-      z-index: 50;
-    }
-
     @media (max-width: 600px) {
       .floating-toolbar {
         top: auto; bottom: 0.5rem; right: 0.5rem; left: 0.5rem;
@@ -363,28 +356,14 @@
       }
     }
 
-    /* ===== Diff-Modus ===== */
-    .diff-panel {
-      display: none;
-      padding: 0.8rem 2.5rem 0.8rem 3.5rem;
-      border-bottom: 1px solid var(--accent-faint);
-      background: rgba(107,58,58,0.96);
-      background: rgba(237,230,218,0.98);
-      font-family: 'Cormorant Garamond', serif;
-      font-size: 0.8rem;
-      color: var(--muted);
-      align-items: center;
-      gap: 0.6rem;
-      flex-wrap: wrap;
-    }
-    .diff-panel.active { display: flex; }
-    .diff-toggle-row {
+    /* ===== Edit-Toggle-Row (WIP) ===== */
+    .edit-toggle-row {
       padding: 0.5rem 2.5rem 0.5rem 3.5rem;
       text-align: right;
       border-bottom: 1px solid var(--accent-faint);
       background: rgba(107,58,58,0.01);
     }
-    .diff-toggle {
+    .edit-toggle-btn {
       font-family: 'Cormorant Garamond', serif;
       font-size: 0.72rem;
       letter-spacing: 0.18em;
@@ -397,54 +376,8 @@
       cursor: pointer;
       transition: color 0.2s, border-color 0.2s;
     }
-    .diff-toggle:hover { color: var(--accent); border-color: var(--accent); }
-    .diff-toggle.active { color: var(--accent); border-color: var(--accent); background: rgba(107,58,58,0.05); }
-    .diff-pick-btn {
-      background: transparent;
-      border: 1px solid var(--paper-edge);
-      color: var(--muted);
-      font-family: 'Cormorant Garamond', serif;
-      font-size: 0.8rem;
-      padding: 0.25rem 0.55rem;
-      border-radius: 2px;
-      cursor: pointer;
-      line-height: 1;
-    }
-    .diff-pick-btn:hover:not(:disabled) { color: var(--accent); border-color: var(--accent); }
-    .diff-pick-btn:disabled { opacity: 0.3; cursor: default; }
-    .diff-pick-select {
-      background: var(--paper);
-      border: 1px solid var(--paper-edge);
-      color: var(--ink);
-      font-family: 'Cormorant Garamond', serif;
-      font-size: 0.85rem;
-      padding: 0.25rem 0.4rem;
-      border-radius: 2px;
-      flex-grow: 1;
-      min-width: 200px;
-    }
-    .diff-pick-label {
-      font-size: 0.7rem;
-      letter-spacing: 0.15em;
-      text-transform: uppercase;
-      color: var(--smoke);
-    }
-    .prose ins { background: rgba(46,139,87,0.15); color: #2E8B57; text-decoration: none; padding: 0 2px; border-radius: 2px; }
-    .prose del { background: rgba(176,0,0,0.08); color: #962525; text-decoration: line-through; padding: 0 2px; border-radius: 2px; }
-    .prose .diff-deleted-block {
-      text-indent: 0;
-      margin: 0.4rem 0;
-      padding: 0.4rem 0.8rem;
-      background: rgba(176,0,0,0.03);
-      border-left: 2px solid rgba(176,0,0,0.3);
-      font-family: 'Cormorant Garamond', serif;
-      font-size: 1rem;
-      line-height: 1.7;
-      color: #8a5454;
-      font-style: italic;
-    }
-    .prose .diff-deleted-block del { background: transparent; color: inherit; }
-    .prose .diff-inserted { border-left: 2px solid rgba(46,139,87,0.3); padding-left: 0.6rem; margin-left: -0.8rem; }
+    .edit-toggle-btn:hover { color: var(--accent); border-color: var(--accent); }
+    .edit-toggle-btn.active { color: var(--accent); border-color: var(--accent); background: rgba(107,58,58,0.05); }
 
     /* ===== Edit-Modus ===== */
     body.edit-mode .prose p:not(.scene-break):not(.date-line) {
@@ -609,6 +542,54 @@
     .comment-quick-tag.tag-gut { border-color: #6b8e6b; color: #6b8e6b; }
     .comment-quick-tag.tag-gut:hover:not(:disabled) { background: #6b8e6b; border-color: #6b8e6b; color: var(--paper); }
     .comment-quick-tag:disabled { opacity: 0.35; cursor: default; }
+
+    /* ===== Szenen-Rating ===== */
+    .scene-rating {
+      margin: 1.2rem 0 2.2rem;
+      padding: 0.6rem 0 0.4rem;
+      text-align: center;
+      text-indent: 0;
+      border-top: 1px solid var(--accent-faint);
+    }
+    .scene-rating-label {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.7rem;
+      letter-spacing: 0.3em;
+      text-transform: uppercase;
+      color: var(--smoke);
+      margin-bottom: 0.5rem;
+    }
+    .scene-rating-stars {
+      display: inline-flex;
+      gap: 0.35rem;
+      align-items: center;
+      justify-content: center;
+    }
+    .scene-rating-star {
+      background: none;
+      border: none;
+      cursor: pointer;
+      font-size: 1.4rem;
+      line-height: 1;
+      padding: 0.2rem 0.15rem;
+      color: var(--paper-edge);
+      transition: color 0.15s, transform 0.15s;
+      font-family: 'Cormorant Garamond', serif;
+    }
+    .scene-rating-star:hover { transform: scale(1.15); }
+    .scene-rating-star.filled { color: var(--accent); }
+    .scene-rating-star.preview { color: rgba(107, 58, 58, 0.55); }
+    .scene-rating-status {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.72rem;
+      letter-spacing: 0.1em;
+      color: var(--smoke);
+      margin-top: 0.4rem;
+      min-height: 1em;
+      font-style: italic;
+    }
+    .scene-rating.saving .scene-rating-status { opacity: 0.6; }
+    .scene-rating.error .scene-rating-status { color: #962525; }
   </style>
 </head>
 <body>
@@ -630,17 +611,9 @@
       <button class="ft-btn" id="ft-next" type="button" title="Nächstes Kapitel"><span class="ft-ico">▸</span></button>
       <span class="ft-sep" id="ft-sep-wip"></span>
       <button class="ft-btn" id="ft-edit" type="button" title="Absätze editieren">✎ Editieren</button>
-      <button class="ft-btn" id="ft-diff" type="button" title="Änderungen ansehen">Δ Änderungen</button>
     </div>
-    <div class="diff-toggle-row" id="diff-toggle-row" style="display:none;">
-      <button class="diff-toggle" id="edit-toggle" type="button" style="margin-right:0.4rem;">Absätze editieren</button>
-      <button class="diff-toggle" id="diff-toggle" type="button">Änderungen ansehen</button>
-    </div>
-    <div class="diff-panel" id="diff-panel">
-      <span class="diff-pick-label">Version</span>
-      <button class="diff-pick-btn" id="diff-prev" type="button" title="Vorherige Version">◂</button>
-      <select class="diff-pick-select" id="diff-select"></select>
-      <button class="diff-pick-btn" id="diff-next" type="button" title="Nächste Version">▸</button>
+    <div class="edit-toggle-row" id="edit-toggle-row" style="display:none;">
+      <button class="edit-toggle-btn" id="edit-toggle" type="button">Absätze editieren</button>
     </div>
 
     <div class="prose" id="chapter"></div>
@@ -1090,132 +1063,136 @@
       });
     }
 
-    // ===== Diff-Modus — Lektorats-Versionen durchblättern =====
+    // ===== Szenen-Rating — 1 bis 5 Sterne pro Szene, persistiert via /api/ratings =====
     {
-      let versionsData = null;      // {base, versions:[...]}
-      let currentIdx = -1;          // Index in versionsData.versions
-      let diffActive = false;
-      let originalHtml = null;       // snapshot des aktuellen renderProsa-HTML
+      const RATING_API = '/api/ratings';
+      const READER_ID_KEY = 'alphina_reader_id';
 
-      const toggleRow = document.getElementById('diff-toggle-row');
-      const toggle = document.getElementById('diff-toggle');
-      const panel = document.getElementById('diff-panel');
-      const selectEl = document.getElementById('diff-select');
-      const prevBtn = document.getElementById('diff-prev');
-      const nextBtn = document.getElementById('diff-next');
-      const prose = document.getElementById('chapter');
+      function getUserId() {
+        let uid = localStorage.getItem(READER_ID_KEY);
+        if (!uid) {
+          uid = (crypto.randomUUID ? crypto.randomUUID()
+                 : Date.now().toString(36) + Math.random().toString(36).slice(2));
+          localStorage.setItem(READER_ID_KEY, uid);
+        }
+        return uid;
+      }
+      const USER_ID = getUserId();
 
-      function formatDateShort(iso) {
-        const d = new Date(iso);
-        return d.toLocaleDateString('de-DE', { day: '2-digit', month: '2-digit', year: '2-digit' })
-          + ' ' + d.toLocaleTimeString('de-DE', { hour: '2-digit', minute: '2-digit' });
+      function createRatingWidget(sceneIdx, modus, initialValue) {
+        const wrap = document.createElement('div');
+        wrap.className = 'scene-rating';
+        wrap.dataset.sceneIdx = String(sceneIdx);
+
+        const label = document.createElement('div');
+        label.className = 'scene-rating-label';
+        label.textContent = 'Szene bewerten';
+        wrap.appendChild(label);
+
+        const stars = document.createElement('div');
+        stars.className = 'scene-rating-stars';
+        wrap.appendChild(stars);
+
+        const status = document.createElement('div');
+        status.className = 'scene-rating-status';
+        wrap.appendChild(status);
+
+        let currentValue = initialValue || 0;
+
+        function paint(displayValue, previewMode) {
+          Array.from(stars.children).forEach((btn, i) => {
+            const v = i + 1;
+            btn.classList.remove('filled', 'preview');
+            if (v <= displayValue) btn.classList.add(previewMode ? 'preview' : 'filled');
+          });
+        }
+
+        async function submit(value) {
+          if (wrap.classList.contains('saving')) return;
+          wrap.classList.remove('error');
+          wrap.classList.add('saving');
+          status.textContent = '…';
+          try {
+            const r = await fetch(RATING_API, {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json', 'X-User-Id': USER_ID },
+              body: JSON.stringify({
+                kapitel_id: kapId,
+                modus: modus,
+                szene_idx: sceneIdx,
+                rating: value,
+              }),
+            });
+            if (!r.ok) throw new Error('HTTP ' + r.status);
+            currentValue = value;
+            paint(currentValue, false);
+            status.textContent = 'Gespeichert · ' + value + '/5';
+            setTimeout(() => {
+              if (!wrap.classList.contains('error')) status.textContent = value + '/5';
+            }, 1500);
+          } catch (e) {
+            wrap.classList.add('error');
+            status.textContent = 'Fehler beim Speichern';
+          } finally {
+            wrap.classList.remove('saving');
+          }
+        }
+
+        for (let v = 1; v <= 5; v++) {
+          const btn = document.createElement('button');
+          btn.type = 'button';
+          btn.className = 'scene-rating-star';
+          btn.dataset.value = String(v);
+          btn.textContent = '★';
+          btn.title = v + ' von 5';
+          btn.addEventListener('mouseenter', () => paint(v, true));
+          btn.addEventListener('mouseleave', () => paint(currentValue, false));
+          btn.addEventListener('click', () => submit(v));
+          stars.appendChild(btn);
+        }
+
+        paint(currentValue, false);
+        if (currentValue > 0) status.textContent = currentValue + '/5';
+        return wrap;
       }
 
-      async function loadVersions() {
-        if (versionsData) return versionsData;
-        try {
-          const bust = '?t=' + Date.now();
-          const r = await fetch(`/story-in-work/lektorat-versions/${kapIdFull()}.json` + bust);
-          if (!r.ok) return null;
-          versionsData = await r.json();
-          return versionsData;
-        } catch { return null; }
-      }
-
-      function kapIdFull() {
-        // "18" -> "B1-K18"; "I1" -> "B1-KI1". Nur Buch 1 unterstützt derzeit.
-        return `B1-K${kapId}`;
-      }
-
-      function populateSelect() {
-        selectEl.innerHTML = '';
-        versionsData.versions.forEach((v, i) => {
-          const opt = document.createElement('option');
-          opt.value = String(i);
-          opt.textContent = `${formatDateShort(v.date)} · ${v.short} — ${v.message.replace(/^fix\([^)]+\):\s*/, '').slice(0, 50)}`;
-          selectEl.appendChild(opt);
+      function attachRatings(container, modus, ratingsByScene) {
+        // Sammeln: erst alle scene-breaks, dann pro endende Szene ein Widget davor einfügen.
+        // Letzte Szene bekommt Widget am Container-Ende.
+        const breaks = Array.from(container.querySelectorAll('p.scene-break'));
+        // Szenen-Index = laufende Nummer ab 0
+        breaks.forEach((br, sceneIdx) => {
+          const initial = (ratingsByScene && ratingsByScene[sceneIdx]) || 0;
+          const widget = createRatingWidget(sceneIdx, modus, initial);
+          br.parentNode.insertBefore(widget, br);
         });
-        currentIdx = versionsData.versions.length - 1;
-        selectEl.value = String(currentIdx);
+        // Widget für die letzte Szene
+        const lastIdx = breaks.length;
+        const lastInitial = (ratingsByScene && ratingsByScene[lastIdx]) || 0;
+        const lastWidget = createRatingWidget(lastIdx, modus, lastInitial);
+        container.appendChild(lastWidget);
       }
 
-      function showVersion(idx) {
-        currentIdx = idx;
-        selectEl.value = String(idx);
-        prevBtn.disabled = idx <= 0;
-        nextBtn.disabled = idx >= versionsData.versions.length - 1;
-        prose.innerHTML = versionsData.versions[idx].diffHtml;
-        // Reset Kommentar-Listener (bleiben in prose-p erhalten, aber keine Trigger hinzugefügt)
+      async function initRatings(container, modus) {
+        let ratingsByScene = {};
+        try {
+          const r = await fetch(RATING_API + '?kapitel=' + kapId + '&modus=' + modus, {
+            headers: { 'X-User-Id': USER_ID },
+          });
+          if (r.ok) {
+            const data = await r.json();
+            (data || []).forEach(item => {
+              if (typeof item.szene_idx === 'number' && typeof item.rating === 'number') {
+                ratingsByScene[item.szene_idx] = item.rating;
+              }
+            });
+          }
+        } catch {}
+        attachRatings(container, modus, ratingsByScene);
       }
 
-      function restoreOriginal() {
-        if (originalHtml !== null) {
-          prose.innerHTML = originalHtml;
-          prose.dispatchEvent(new CustomEvent('chapter-rendered', {
-            bubbles: true,
-            detail: { container: prose, commentModus: 'final' }
-          }));
-        }
-      }
-
-      async function activate() {
-        const data = await loadVersions();
-        if (!data || !data.versions || data.versions.length === 0) {
-          toggle.textContent = 'Keine Änderungen';
-          toggle.disabled = true;
-          return;
-        }
-        originalHtml = prose.innerHTML;
-        populateSelect();
-        panel.classList.add('active');
-        toggle.classList.add('active');
-        toggle.textContent = 'Fertigen Text ansehen';
-        diffActive = true;
-        showVersion(currentIdx);
-      }
-
-      async function reload() {
-        // Nach einem Edit: Versions-JSON neu holen und letzte Version zeigen
-        versionsData = null;
-        const data = await loadVersions();
-        if (!data || !data.versions || data.versions.length === 0) return;
-        populateSelect();
-        showVersion(versionsData.versions.length - 1);
-      }
-
-      window.__alphinaDiffState = {
-        get active() { return diffActive; },
-        reload,
-      };
-
-      function deactivate() {
-        panel.classList.remove('active');
-        toggle.classList.remove('active');
-        toggle.textContent = 'Änderungen ansehen';
-        diffActive = false;
-        restoreOriginal();
-      }
-
-      toggle.addEventListener('click', () => {
-        if (diffActive) deactivate(); else activate();
-      });
-      selectEl.addEventListener('change', () => {
-        showVersion(parseInt(selectEl.value, 10));
-      });
-      prevBtn.addEventListener('click', () => {
-        if (currentIdx > 0) showVersion(currentIdx - 1);
-      });
-      nextBtn.addEventListener('click', () => {
-        if (currentIdx < versionsData.versions.length - 1) showVersion(currentIdx + 1);
-      });
-
-      // Toggle-Row nur im WIP-Modus und bei Lektorat/Final anzeigen
-      document.addEventListener('chapter-rendered', async (e) => {
-        if (!isWip) return;
-        const data = await loadVersions();
-        if (data && data.versions && data.versions.length > 0) {
-          toggleRow.style.display = 'block';
-        }
+      document.addEventListener('chapter-rendered', (e) => {
+        initRatings(e.detail.container, e.detail.commentModus);
       });
     }
 
@@ -1344,11 +1321,6 @@
         exitEdit(p, false);
         p.classList.add('edit-saved');
         setTimeout(() => p.classList.remove('edit-saved'), 1300);
-
-        // Wenn Diff aktiv: Versions neu laden, neue Version zeigen
-        if (window.__alphinaDiffState && window.__alphinaDiffState.active) {
-          window.__alphinaDiffState.reload();
-        }
       }
 
       function onDoubleClick(ev) {
@@ -1356,7 +1328,6 @@
         const p = ev.target.closest('.prose p');
         if (!p) return;
         if (p.classList.contains('scene-break') || p.classList.contains('date-line')) return;
-        if (p.classList.contains('diff-deleted-block')) return;
         if (!p.dataset.md) return;
         ev.preventDefault();
         enterEdit(p);
@@ -1408,65 +1379,41 @@
         if (!isWip) return;
         currentDatei = e.detail.targetDatei;
         currentKapitelId = 'B1-K' + kapId;
-        // Edit-Button nur sichtbar bei Lektorat/Final (targetDatei == datei)
-        if (!e.detail.useEntwurf) {
-          editToggle.style.display = '';
-        } else {
-          editToggle.style.display = 'none';
-        }
+        // Edit-Row nur sichtbar bei Lektorat/Final (targetDatei == datei), nicht im Entwurfs-Modus
+        const editRow = document.getElementById('edit-toggle-row');
+        if (editRow) editRow.style.display = e.detail.useEntwurf ? 'none' : 'block';
       });
     }
 
     // ===== Floating-Toolbar Verdrahtung =====
     {
       const fEdit = document.getElementById('ft-edit');
-      const fDiff = document.getElementById('ft-diff');
       const fSepWip = document.getElementById('ft-sep-wip');
       const editT = document.getElementById('edit-toggle');
-      const diffT = document.getElementById('diff-toggle');
 
       // Klick auf Floating-Button leitet an Original-Toggle weiter
       fEdit.addEventListener('click', () => editT.click());
-      fDiff.addEventListener('click', () => diffT.click());
 
-      // Active-State syncen: MutationObserver auf die Original-Buttons
-      function sync() {
+      // Active-State syncen
+      const obs = new MutationObserver(() => {
         fEdit.classList.toggle('active', editT.classList.contains('active'));
-        fDiff.classList.toggle('active', diffT.classList.contains('active'));
-      }
-      const obs = new MutationObserver(sync);
-      obs.observe(editT, { attributes: true, attributeFilter: ['class'] });
-      obs.observe(diffT, { attributes: true, attributeFilter: ['class'] });
-
-      // Text der Floating-Buttons an Original-Button anpassen (wechselt zwischen "ansehen" und "beenden")
-      const obsText = new MutationObserver(() => {
         fEdit.textContent = editT.classList.contains('active') ? '✎ Fertig' : '✎ Editieren';
-        fDiff.textContent = diffT.classList.contains('active') ? 'Δ Fertig' : 'Δ Änderungen';
       });
-      obsText.observe(editT, { attributes: true, attributeFilter: ['class'] });
-      obsText.observe(diffT, { attributes: true, attributeFilter: ['class'] });
+      obs.observe(editT, { attributes: true, attributeFilter: ['class'] });
 
-      // WIP-Buttons nur sichtbar wenn Toggle-Row aktiv (Lektorat/Final mit Versions-JSON)
+      // Edit-Button im Floating nur sichtbar wenn Edit-Row sichtbar
       function syncWipVisibility() {
-        const toggleRow = document.getElementById('diff-toggle-row');
-        const show = toggleRow && toggleRow.style.display !== 'none';
+        const editRow = document.getElementById('edit-toggle-row');
+        const show = editRow && editRow.style.display !== 'none';
         fEdit.style.display = show ? '' : 'none';
-        fDiff.style.display = show ? '' : 'none';
         fSepWip.style.display = show ? '' : 'none';
       }
       const obsVis = new MutationObserver(syncWipVisibility);
-      const toggleRow = document.getElementById('diff-toggle-row');
-      if (toggleRow) {
-        obsVis.observe(toggleRow, { attributes: true, attributeFilter: ['style'] });
+      const editRow = document.getElementById('edit-toggle-row');
+      if (editRow) {
+        obsVis.observe(editRow, { attributes: true, attributeFilter: ['style'] });
       }
-      // Initial hide (wird aktiviert sobald Versions-JSON geladen ist)
       syncWipVisibility();
-
-      // Edit-Button im Floating auch ausblenden wenn editToggle versteckt (entwurf-modus)
-      const obsEditVis = new MutationObserver(() => {
-        if (editT.style.display === 'none') fEdit.style.display = 'none';
-      });
-      obsEditVis.observe(editT, { attributes: true, attributeFilter: ['style'] });
     }
   </script>
 </body>

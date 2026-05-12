@@ -211,6 +211,17 @@
       color: var(--accent); border-radius: 3px; transition: all 0.3s;
     }
     .ch-text .lesen-link:hover { color: var(--paper); background: var(--accent); }
+    .ch-text .copy-btn {
+      display: inline-block; margin-top: 0.6rem; margin-left: 0.5rem;
+      padding: 0.25rem 0.7rem; border: 1px solid var(--smoke);
+      background: transparent;
+      font-family: 'Cormorant Garamond', serif; font-size: 0.82rem;
+      letter-spacing: 0.1em; cursor: pointer;
+      color: var(--smoke); border-radius: 3px; transition: all 0.3s;
+    }
+    .ch-text .copy-btn:hover { color: var(--ink); border-color: var(--ink); }
+    .ch-text .copy-btn.copied { color: #2E8B57; border-color: #2E8B57; }
+    .ch-text .copy-btn:disabled { opacity: 0.5; cursor: default; }
 
     .dot { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; }
 
@@ -448,7 +459,11 @@
                   : (ch.entwurfs_datei
                     ? `<a class="lesen-link" href="/lesen/${lesenSlug}/?wip&entwurf">Entwurf lesen &rarr;</a>`
                     : '');
-                textDiv.innerHTML = `<p>${ch.text}</p>${lesenHtml}`;
+                const copyDatei = ch.datei || ch.entwurfs_datei || '';
+                const copyHtml = copyDatei
+                  ? `<button type="button" class="copy-btn" data-datei="${copyDatei}" data-kap="${key}">Kapitel kopieren</button>`
+                  : '';
+                textDiv.innerHTML = `<p>${ch.text}</p>${lesenHtml}${copyHtml}`;
                 block.appendChild(textDiv);
 
                 row.addEventListener('click', () => {
@@ -482,6 +497,38 @@
         document.getElementById('global-stats').innerHTML =
           `<strong>${totalFinal}</strong> / ${totalChapters} final &middot; <strong>${totalWords.toLocaleString('de-DE')}</strong> Worter gesamt`;
       });
+
+    // Kopier-Button: vollständigen Kapitel-Text in die Zwischenablage
+    document.getElementById('nav-tree').addEventListener('click', async (e) => {
+      const btn = e.target.closest('.copy-btn');
+      if (!btn) return;
+      e.stopPropagation();
+      const datei = btn.dataset.datei;
+      if (!datei) return;
+      const originalLabel = btn.dataset.originalLabel || btn.textContent;
+      btn.dataset.originalLabel = originalLabel;
+      btn.disabled = true;
+      btn.textContent = '…';
+      try {
+        const r = await fetch('/buch/kapitel/' + datei);
+        if (!r.ok) throw new Error('HTTP ' + r.status);
+        const md = await r.text();
+        await navigator.clipboard.writeText(md);
+        btn.classList.add('copied');
+        btn.textContent = 'Kopiert ✓';
+        setTimeout(() => {
+          btn.classList.remove('copied');
+          btn.textContent = originalLabel;
+          btn.disabled = false;
+        }, 1600);
+      } catch (err) {
+        btn.textContent = 'Fehler';
+        setTimeout(() => {
+          btn.textContent = originalLabel;
+          btn.disabled = false;
+        }, 1800);
+      }
+    });
   </script>
 </body>
 </html>
