@@ -28,7 +28,18 @@ Bestimme:
 - Wort- und Satzanzahl (grobe Zählung)
 - Bei mehreren POVs im Kapitel: pro Szene neu prüfen.
 
-## Phase 1 — Satz-für-Satz-Prüfung (drei Achsen)
+## Phase 0.5 — Block-Klassifikation
+
+Vor der Satz-Prüfung jedes Markdown-Element einem **Block-Typ** zuordnen. Markdown-Absatz ist nicht die richtige Einheit — bei Dialogen stehen Repliken oft als eigene Mini-Absätze, gehören aber zusammen.
+
+**Block-Typen:**
+- **Erzähl-Block** — ein zusammenhängender Erzähl-Absatz aus 2+ Sätzen, ohne Dialog
+- **Dialog-Block** — eine zusammenhängende Sprech-Sequenz, von der ersten Replik bis zur Rückkehr in reine Erzählung (überspannt typisch mehrere Markdown-Absätze). Inkludiert Inquit-Sätze („sagte er") und kurze Erzähl-Beats zwischen Repliken.
+- **Beat-Folge** — eine Kette von Stakkato-/Substantiv-Phrasen-Beats, die zusammen ein Bild bauen (z.B. *„Marktplatz. Hauswand. Schuh."* oder *„Eins. Zwei. Drei. Es half nicht."*). Überspannt mehrere Absätze, gehört semantisch zusammen.
+
+Pro Block notieren: Typ, Zeilen-Bereich, beteiligte Figuren (bei Dialog). Diese Klassifikation steuert Phase 1b.
+
+## Phase 1a — Satz-Pass (Mikro-Findings, drei Achsen)
 
 Gehe das Kapitel **Absatz für Absatz, Satz für Satz** durch. Pro Satz die drei Achsen anwenden. Findings sammeln, NICHT bewerten — die Konsolidierung läuft in Phase 2.
 
@@ -144,7 +155,63 @@ Pro Einsatz prüfen: trägt das Adjektiv konkret das Bild oder ist es Stimmungs-
 **C5 — Adjektiv-Wiederholung — Hartregel:**
 **Maximal 2× pro Block.** Drittes Vorkommen → automatisch **PFLICHT-FINDING** „Adjektiv-Wiederholung" (nicht TIC, kein STIL?). So viele ersetzen, dass die Schwelle wieder unter 3 fällt. Gilt auch kapitelweit, wenn dasselbe Adjektiv hörbar wiederkehrt (z.B. *ruhig* 7× verteilt). Memory `feedback_adjektiv_praezision.md`.
 
-## Phase 2 — Konsolidierung & Bericht
+## Phase 1b — Block-Pass (Mehrsatz-Effekte)
+
+Nach dem Satz-Pass jeden Block aus Phase 0.5 nochmal als Ganzes prüfen. Diese Achsen lassen sich am Einzelsatz nicht erkennen — sie greifen nur im Kontext.
+
+### Achse A8 — Redundanz / Pseudo-Tiefe / Tautologie-Personifikation
+
+Pro Block (alle Block-Typen):
+
+**A8.1 — Redundanz mit Folgesatz:** Trägt der direkte Folgesatz (oder ein späterer Satz im Block) dasselbe Bild / dieselbe Aussage **konkreter, präziser oder bildstärker**? Wenn ja → Vorgänger-Satz ist Vorwegnahme → **PFLICHT-Streichen**.
+
+Beispiel: *„Das Holz wusste nichts von dem, was sich verschoben hatte. Es wartete, wie es jeden Abend wartete, auf morgen und auf einen Hobel und auf Hände, die wussten, was sie taten."* — Satz 1 negiert eine Personifikation, die niemand behauptet hat; Satz 2 trägt das Material-Verlässlichkeits-Bild konkret. Satz 1 streichen.
+
+**A8.2 — Tautologie-Personifikation:** Konstruktion *„[nicht-belebtes Subjekt] wusste / dachte / fühlte / spürte / hörte / sah / verstand + nichts/keine X"*. Doppelt fragwürdig: erst Bewusstsein zuschreiben, dann verneinen. Test: Hätte jemand behauptet, dass das Subjekt das Verb ausführen könnte? Wenn nein → die Negation ist sinnlos → **PFLICHT-Streichen oder positiv umformulieren** mit physikalisch tragender Aktion (*„Das Holz lag still"*).
+
+**A8.3 — Pseudo-Tiefe gegen Block-Kontext:** Klingt der Satz klug, sagt aber nichts, was der Block-Kontext nicht schon trägt? Verquastungs-Test Punkt 8 (Master `02-stilregeln-v2.md`). Wenn Streichen den Block nicht schwächer macht → **PFLICHT-FINDING**.
+
+**A8.4 — Bild-Bruch im Block:** Baut Satz X ein Bild auf, das Satz X+1 inkonsistent fortsetzt? Selten, aber bei Auftreten → FINDING.
+
+### Achse A9 — Dialog-Natürlichkeit (nur Dialog-Blöcke)
+
+**Default-Regel:** Jede Replik = vollständige Sätze (Subjekt + Verb). Knappheit ist Charakter-Eigenschaft, keine Lizenz für Substantiv-Phrasen.
+
+**Selbst wortkarge Menschen reden in vollständigen Sätzen.** Sie reden seltener und kürzer, aber nicht telegraphisch. Charakter-Knappheit = weniger Repliken, kürzere Sätze, schlichteres Vokabular — niemals *„An den Schultern. Eine dünne Schicht, die aufstieg, ohne Quelle."* Das ist Notizzettel, nicht Sprache.
+
+Pro Dialog-Block prüfen:
+
+**A9.1 — Substantiv-Phrasen-Häufung in Dialog:** Jede Replik, die zu >40% aus Substantiv-Phrasen ohne Verb besteht → **PFLICHT-FINDING**. Auch wenn Erzähler-Beat das markiert („hörte wie technisch es klang"): Default = umformulieren in vollständige Sätze. Erzähler-Markierung schützt nur, wenn die Telegramm-Sprache **diese eine** Replik trägt (Schock, Erstarren) — nicht über mehrere Repliken hinweg.
+
+**A9.2 — Einwort-/Zwei-Wort-Repliken ohne Beat-Funktion:** *„Drei Paar."* / *„Wie bewegen?"* / *„Einmal."* — **PFLICHT-Prüfung pro Einsatz**. Erlaubt nur als:
+- Schock-Hammer (*„Drei Tage."* als Konstatierung einer Unmöglichkeit)
+- Direkter Echo des Gegenübers (*„Wirklich?"* — *„Wirklich."*)
+- Standalone-Zeige-Geste mit Inquit-Beat (*„Da."*, sagte sie und deutete)
+- Pflicht-Antwort (*„Ja."* / *„Nein."* im engen Kontext)
+
+Sonst Default = vollständigen Satz formulieren: *„Drei Paar."* → *„Ich habe drei Paar Augen gesehen."*
+
+**A9.3 — Charakter-Konsistenz über Kapitel:** Spricht dieselbe Figur in anderen Kapiteln des Buches anders? Wenn ja, ist die Knappheit hier **auktorial**, nicht Charakter — **PFLICHT-FINDING**. Test-Vergleich: gleicher Figur, anderer Dialog-Block, andere Kapitel. Wenn Alphina in K26 in vollständigen Sätzen spricht, darf sie in K13 nicht telegraphisch sein.
+
+**A9.4 — Mündlicher Schauspieler-Test:** Lautes Vorlesen der Replik. Würde ein Schauspieler die Replik ohne Stocken sprechen, oder müsste er Worte ergänzen, damit es nach Mensch klingt? Wenn Ergänzung nötig → FINDING.
+
+**A9.5 — Verb-Vervollständigung bei Fragen:** *„Wie bewegen?"* / *„Wo hin?"* / *„Wann wieder?"* sind Skript-Schreiben, nicht Sprechen. **PFLICHT-Vervollständigen** zu *„Wie bewegen sie sich?"* / *„Wohin gehst du?"* / *„Wann kommt sie wieder?"*
+
+**Erlaubte Charakter-Knappheit** (keine Findings):
+- *„Die geht nicht."* (Maren K14) — vollständig, knapp, Werft-Charakter
+- *„Darf ich öffnen?"* (Greve K14) — vollständig, Uhrmacher-Höflichkeit
+- *„Drei Tage."* (Alphina K13 Z.155) — Schock-Beat-Hammer, Konstatierung
+- *„Das passt."* (Alphina K13 Z.171) — Diagnose-Pointe
+
+### Achse A10 — Beat-Folgen-Logik (nur Beat-Folge-Blöcke)
+
+Bei Stakkato-/Substantiv-Phrasen-Ketten (z.B. *„Marktplatz. Hauswand. Schuh."*) prüfen:
+
+**A10.1 — Beat-Funktion:** Trägt die Folge einen erkennbaren Beat (Filmschnitt-Tempo, Schock-Inventar, Mantra)? Wenn nein → **PFLICHT-FINDING**, Default = in Erzählsatz umformulieren.
+
+**A10.2 — Beat-Folge-Länge:** Mehr als 5-6 Beats in Folge ohne Erzähl-Atempause → der Beat wird zur Schreibmaschine. Reduzieren oder mit erzählendem Satz brechen.
+
+**A10.3 — Anaphora-Fenster:** Wiederholungs-Muster (*„Eins. Zwei. Drei. Es half nicht."*) sind starke Stilmittel — Funktional-Filter anwenden.
 
 Alle Findings in den Master-Tabelle-Format aus `buch/_findings-format.md` konsolidieren. **Drei Blöcke:**
 
@@ -159,14 +226,18 @@ Pro Finding: voller Vorher/Nachher-Block mit Satz davor + Stelle + Satz danach. 
 ```
 ## Präzisions-Check: [Dateiname]
 POV: [Figur(en)] | Wörter: [N] | Sätze: [N]
+Blöcke: [Erzähl-Blöcke: N | Dialog-Blöcke: N | Beat-Folgen: N]
 
 ### Übersicht
 | Achse | Findings PFLICHT | TIC | STIL? |
 |-------|------------------|-----|-------|
-| A — Verständlichkeit | N | N | N |
-| B — Verb-Präzision   | N | N | N |
-| C — Adjektiv-Präzision | N | N | N |
-| Summe | N | N | N |
+| A1-A7 — Verständlichkeit / Negationen / Em-Dash | N | N | N |
+| A8 — Redundanz / Pseudo-Tiefe (Block-Pass)      | N | N | N |
+| A9 — Dialog-Natürlichkeit (Block-Pass)          | N | N | N |
+| A10 — Beat-Folgen-Logik (Block-Pass)            | N | N | N |
+| B — Verb-Präzision                              | N | N | N |
+| C — Adjektiv-Präzision                          | N | N | N |
+| Summe                                            | N | N | N |
 ```
 
 ### Findings-Blöcke
