@@ -51,11 +51,11 @@ Maren kannte die Geste nicht. Aber der Mann hob den Kopf, ein knappes Nicken, ka
 
 Einen Atemzug nachdem der Wirt weg war, kam die Sprache. *Hände, die warten könnten.* Drei Worte. Sie kamen nicht aus ihrem Kopf, sie kamen aus der Stelle unterhalb des Nabels und stiegen auf, warm und langsam, und während sie aufstiegen, trieben sie einen zweiten, schärferen Schub durch sie hindurch, so deutlich, dass Maren die Lippen aufeinanderpresste und einen Atemzug durch die Nase holte, den niemand sehen durfte. Sie wusste nicht, worauf diese Hände warten sollten. Sie wusste nur, dass sie es wollte.
 
-Er sprach. Über die Uhr, nicht zu ihr. "Das Unruhrad hat einen Spannungsriss. Fein, aber er läuft noch. Die Spirale ist verzogen, das ist vom Salz. Das kann ich machen." Er drehte das Werk einmal, leicht, und Maren sah, wie die winzigen Zahnräder sich in ihren Positionen hielten: keines rieb, keines schlug an. Sie verstand vom Holz, wenn es gegen sich selbst arbeitete; sie verstand vom Kiel, wenn eine Naht die Spannung nicht mehr hielt; sie verstand hier genug, um zu erkennen, dass ein Spannungsriss im Unruhrad dieselbe Sache war, nur kleiner, und dass Salz auf Metall tat, was Salz auf Holz tat: es aß von innen, ohne sich anzukündigen.
+Er sprach. Über die Uhr, nicht zu ihr. "Das Unruhrad hat einen Spannungsriss. Der ist fein, aber das Rad läuft noch. Die Spirale ist verzogen, das ist vom Salz. Das kann ich machen." Er drehte das Werk einmal, leicht, und Maren sah, wie die winzigen Zahnräder sich in ihren Positionen hielten: keines rieb, keines schlug an. Sie verstand vom Holz, wenn es gegen sich selbst arbeitete; sie verstand vom Kiel, wenn eine Naht die Spannung nicht mehr hielt; sie verstand hier genug, um zu erkennen, dass ein Spannungsriss im Unruhrad dieselbe Sache war, nur kleiner, und dass Salz auf Metall tat, was Salz auf Holz tat: es aß von innen, ohne sich anzukündigen.
 
-Seine Stimme war gleichmäßig, tiefer als sie erwartet hatte. Er schrieb Sätze fertig, bevor er sie aussprach. "Preis: vier Silber fünfzig für die Arbeit. Vier Tage, wenn ich das Ersatzteil aus meinem eigenen Bestand nehmen kann. Zwei Wochen, wenn ich es bestellen muss."
+Seine Stimme war gleichmäßig, tiefer als sie erwartet hatte. Er schrieb Sätze fertig, bevor er sie aussprach. "Die Arbeit kostet vier Silber fünfzig. Ich kann das Ersatzteil aus meinem eigenen Bestand nehmen, dann ist die Uhr in vier Tagen fertig. Wenn ich es bestellen muss, brauche ich zwei Wochen."
 
-"Nehmen Sie aus Ihrem Bestand." Sie sprach ruhiger, als sie erwartet hatte. "Vier Tage passen."
+"Vier Tage passen." Sie sprach ruhiger, als sie erwartet hatte.
 
 Er schob einen kleinen Messingkeil unter das Werk. Sie griff nach dem Becher. Der Tee war zu heiß. Sie merkte es erst, als ihre Oberlippe sich meldete, und auch dann war die Hitze weit weg von dem, was eigentlich in ihr war.
 
@@ -113,8 +113,8 @@ Am späten Nachmittag, als das Licht im Hafen flacher geworden war, trat sie an 
 
 Maren schaute hin, nach nichts Bestimmtem. In vier Tagen musste sie die Uhr holen. In vier Tagen würde sie die Messingklinke des *Anker* wieder drücken, durch denselben Schankraum gehen, und dieser Mann würde aufblicken. Sie wusste es jetzt. Nicht als Aussicht, nicht als Vorfreude. Als Tatsache. So, wie sie wusste, wann ein Boot im Wasser lag: dass ihr Körper in vier Tagen nicht weniger wollen würde. Eher mehr.
 
-Sie drehte sich um und ging zurück zum Boot. Harons Geruch empfing sie wie jeden Abend, Eichenholz und Pech und die Wärme, die der Schuppen über den Tag aufgenommen hatte und jetzt langsam zurückgab. Sie legte die Hand auf die nächste unfertige Planke, die dritte von oben, und fühlte das Holz unter ihrer Handfläche: stetig, satt, warm von der eigenen Sonne des Nachmittags. Eine Planke, die morgen ihren Platz finden würde, mit ihren Händen, mit ihrem Hobel, mit ihrer Aufmerksamkeit, die bis dahin hoffentlich wieder dort war, wo die Arbeit sie brauchte.
+Sie drehte sich um und ging zurück zum Boot. Harons Geruch empfing sie wie jeden Abend, Eichenholz und Pech und die Wärme, die der Schuppen über den Tag aufgenommen hatte und jetzt langsam zurückgab. Sie legte die Hand auf die nächste unfertige Planke, die dritte von oben, und fühlte das Holz unter ihrer Handfläche: stetig, satt, warm von der eigenen Sonne des Nachmittags. Eine Planke, die morgen ihren Platz finden würde, mit ihrem Hobel und ihrer Aufmerksamkeit, die bis dahin hoffentlich wieder dort war, wo die Arbeit sie brauchte.
 
-Das Holz wusste nichts von dem, was sich verschoben hatte. Es wartete, wie es jeden Abend wartete, auf morgen und auf einen Hobel und auf Hände, die wussten, was sie taten.
+Auf der Werkbank lag der Splitter, daneben der Zettel mit V. Greves Initiale unter dem Hammer. An einem schmalen Tisch im *Anker* lag ihre Schiffsuhr zwischen fremden Fingerkuppen, ein Spannungsriss im Unruhrad, eine Spirale, die vom Salz verzogen war.
 
-Ihre Hände wussten, wie man ein Spant in eine Krümmung presste, wie man einen Kiel auf seine Auflage legte, wie man einen Hobel führte. Irgendwo an einem schmalen Tisch im *Anker* hielten andere Hände eine Schiffsuhr.
+Vier Tage.
