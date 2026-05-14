@@ -2,7 +2,7 @@
 
 **POV:** Multi-POV (3. Person nah, Praeteritum) — vier POV-Bloecke, klar getrennt.
 - **Sz1: Vesper Greve** (Vortrag des Rituals)
-- **Sz2: Alphina Farn** (Anti-Schemen-Vorbereitung + Mitnahmen — durchgehend Alphina-POV mit Aussenwahrnehmung, KEINE eingebetteten Mini-POV-Wechsel)
+- **Sz2: Alphina Korrin** (Anti-Schemen-Vorbereitung + Mitnahmen — durchgehend Alphina-POV mit Aussenwahrnehmung, KEINE eingebetteten Mini-POV-Wechsel)
 - **Sz3a: Maren** (Werft-Beat)
 - **Sz3b: Sorel** (Tuer-Disziplin)
 - **Sz3c: Runa** (heimliches Belauschen, Treppenhaus → Heimweg)
@@ -79,7 +79,7 @@ Was sie **NICHT wissen** (Vesper sagt es explizit): wie lang das Tor offen bleib
 
 ## Szene 2 — Wohnzimmer, dieselbe Nacht, vierte Stunde — Anti-Schemen-Vorbereitung + Mitnahmen
 
-**POV:** Alphina Farn (durchgehend)
+**POV:** Alphina Korrin (durchgehend)
 **Wortziel:** 2.000–2.400 W
 
 Nach Vespers *„Morgen Abend gehen wir"* schlaegt Vesper als naechstes vor: zusammenzutragen, was sie ueber Schemen wissen, und durchzuspielen, was jede Resonanz gegen sie kann. Jara nimmt einen leeren Bogen, zieht eine senkrechte Linie in die Mitte: links Bauart, rechts Magie-Modus. Echo zum Drei-Spalten-Bogen aus K33, der schon auf dem Tisch liegt. Vesper liest die Sichtungen, Jara schreibt mit. Alphina hoert mehr zu, als sie spricht. Sie sieht den Tisch — Vesper am Kopf, Maren rechts neben ihm, Sorel ihr gegenueber, Jara am anderen Ende mit Bogen und Bleistift. Inventur (in Reihenfolge der Erinnerung): katzengrosse Rauch-Wesen auf der Garten-Mauer (K12, sie + Sorel), vierbeinige Wesen jenseits der Steinlinie im Botanischen Garten + Rueckweg durch die Oberstadt-Gassen, kohlenrote Augen, Pfoten ohne Bodenkontakt, lautlos (K28, Maren), Hoernen-stuempfige humanoide mit Hufen oder gespaltenen Tritten (K30, alle), das Wesen am Hafenbrunnen mit Eis aus den Fingerspitzen (K30, Sorel-Verletzung), die kniehoch eisernen vier-beinigen mit dampfender Pflasterspur am Speicher Pfeiler 9 (K32, alle), das Tag-Wesen am Marktplatz mit Hand-am-Hals-Brandwunde (K32, sie + Runa). Jaras Bogen fuellt sich. Bauarten variieren — Beschwoerer definiert die Form. Magie-Modi unterschiedlich — Eis und Hitze beobachtet, mehr unbekannt. Lautlos in jeder Hinsicht. Schaden nur durch aktiv ausgeloeste Magie. Beruehrung allein harmlos. Koennen durch Material gehen.

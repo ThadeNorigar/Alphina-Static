@@ -1,5 +1,5 @@
 ---
-name: Alphina Fenne
+name: Alphina Korrin
 slug: alphina
 typ: hauptfigur
 pov: true
@@ -12,7 +12,7 @@ reihenfolge: 100
 # buecher: [1, 2, 3]
 ---
 
-# POV — Alphina Fenne
+# POV — Alphina Korrin
 
 **Letzte Aktualisierung:** 2026-05-04 — Refactor analog Vesper/Sorel/Maren/Runa (Header+Verwandte Files, Charakter-Wertgerüst, Resonanz Zellwachstum als eigene Sektion mit Heat-Echo, chronologischer Wissensstand B1, vollständige B2/B3-Bögen mit allen Kapitel-Ankern, Beziehungs-Dynamik aktualisiert, Verworfen-Sektion).
 
@@ -112,7 +112,7 @@ Max ~40 Wörter, bricht unter Druck zu Fragmenten. Kein *sie dachte / sie fragte
 
 **Vor Vael (Velde):** Botanikerin mit 11 Jahren in Velde, 49 Pflanzen. Pflanzen reagieren auf sie — weiß es seit Jahren, hat es nie aufgeschrieben. Kommt aus Velde (Tidelände, Kanäle, Deiche).
 
-**K01 Velde — Farn dreht sich:** Erste bewusste Wahrnehmung in dieser Kapitel-Sequenz. Sie hat ein Notizbuch aus Leder, neun Jahre alt, das sie noch nie aufgeschrieben hat. Sie packt für die Reise nach Vael.
+**K01 Velde — Korrin dreht sich:** Erste bewusste Wahrnehmung in dieser Kapitel-Sequenz. Sie hat ein Notizbuch aus Leder, neun Jahre alt, das sie noch nie aufgeschrieben hat. Sie packt für die Reise nach Vael.
 
 **K05 Vael — Anker bezogen, Runa, Schattentiere:** Bezieht den *Anker* als Gasthof-Logis. Kennt den Marktplatz, den Botanischen Garten, Henrik. Trifft Runa Kvist (Druckerin mit warmen Händen) — Du-Basis, Freundschaft wächst. Sieht erstmals Schattentiere in Vael (sie nennt sie nicht so). Henrik bemerkt Anomalien, fragt nicht.
 
@@ -277,7 +277,7 @@ In Moragh, unter Sorels Tod, kippt die Farbe: **pechschwarze Wurzeln, Stängel i
 
 **B2-K37 — Sex mit Varen — Hingabe an die Mission:** Selbst-Vergebungs-Bedürfnis dominiert. *„Wir reparieren tote Quellen, retten die Welt."* Sie geht mit. Schwarze Wurzeln unter dem Bett. *„Jeder Kuss eine Lüge durch Auslassung"* — sie weiß es noch nicht.
 
-**B2-K43 — Sulkara-Finale + Talven-Niederschlag:** Alphina gegen Bund. Talven schlägt sie nieder. Runa reißt den Namen aus dem Farn-Brief. Akt-IV-Ende — Übergang zu B3.
+**B2-K43 — Sulkara-Finale + Talven-Niederschlag:** Alphina gegen Bund. Talven schlägt sie nieder. Runa reißt den Namen aus dem Korrin-Brief. Akt-IV-Ende — Übergang zu B3.
 
 ---
 

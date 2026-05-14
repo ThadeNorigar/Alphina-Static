@@ -1,7 +1,7 @@
 ---
 kategorie: Krieg / Schlachtfeld
 pov: Alphina
-figuren: Alphina Fenne, Bund-Kommandant, Kerth, Thar-Kaempfer
+figuren: Alphina Korrin, Bund-Kommandant, Kerth, Thar-Kaempfer
 register: Dunkle Register — Krieg, Taeter-POV
 heat_level: Gewalt
 primaer_referenz: Kuang (Poppy War) — Kriegs-Koerper, Taeter-POV ohne Anaesthesie
@@ -16,7 +16,7 @@ Er kam von links ueber den eingedrueckten Wall, Hammer hoch, ein Streifen fremde
 
 Er schrie kurz. Den Schrei rechnete sie ein.
 
-Was sie *nicht* einrechnete, war das Gruen an ihrer Hand. Chlorophyll, Frischwuchs, die Farbe des Botanischen Gartens an einem stillen Vormittag. Diszipliniert. Der Bund-Kommandant fragte das jeden Morgen vor dem Quartier ab — *die Farbe, Fenne, die Farbe* — und heute gehorchte ihr das Wachstum endlich.
+Was sie *nicht* einrechnete, war das Gruen an ihrer Hand. Chlorophyll, Frischwuchs, die Farbe des Botanischen Gartens an einem stillen Vormittag. Diszipliniert. Der Bund-Kommandant fragte das jeden Morgen vor dem Quartier ab — *die Farbe, Korrin, die Farbe* — und heute gehorchte ihr das Wachstum endlich.
 
 »Weiter«, rief Kerth hinter ihr. Kerth — er hatte ihr im Quartier den Morgentee gegossen, als ihr Arm noch zitterte. Jetzt fuenf Schritte rechts mit einem Kurzschwert, das Holz des Griffs schwarz von Schweiss. Er brauchte den Wall offen.
 

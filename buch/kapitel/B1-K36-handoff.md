@@ -11,7 +11,7 @@
 
 ## Kontext für nächste Session
 
-- **POV:** Alphina Fenne (3. Person nah, Präteritum)
+- **POV:** Alphina Korrin (3. Person nah, Präteritum)
 - **Wortziel:** 4.000–4.500 W
 - **Timeline-Anker:** 2. Dunkelmond 551 TZ, Nacht. Botanischer Garten Vael, Steinkreis. Stunden vor dem Ritual mit allen fünf. Direkt nach K35 (V/M-Nacht in der Hafengasse), vor K37 (Runa-POV heimliche Verfolgung).
 - **Freigegebener Entwurf:** `buch/kapitel/B1-K36-entwurf.md` (v2, entwurf-ok 2026-05-09)

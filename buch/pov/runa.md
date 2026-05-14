@@ -191,7 +191,7 @@ Volle Voice-Anker mit fünf Exemplaren aus B1-K25 + B1-K31: `buch/pov/runa-voice
 
 **B2-K27 — Halvara-Kel-Kampf:** Im Bund-Vorstoß kämpft sie sich durch die Schemen, sieht Varen Alphina mit dem Halsband mitnehmen, wird zurückgeschlagen (Schnittwunden, gebrochene Rippe). Innerer Schwur: Alphina rausholen.
 
-**B2-K43 — Sulkara-Finale:** Alphina gegen Bund. Runa reißt den Namen aus dem Farn-Brief — sie macht Alphina sichtbar als die, die sie war. Sulkara hat Runa zerbrochen; ihr Kern-Status danach ist **klar-sehend und unerschüttert**.
+**B2-K43 — Sulkara-Finale:** Alphina gegen Bund. Runa reißt den Namen aus dem Korrin-Brief — sie macht Alphina sichtbar als die, die sie war. Sulkara hat Runa zerbrochen; ihr Kern-Status danach ist **klar-sehend und unerschüttert**.
 
 ---
 

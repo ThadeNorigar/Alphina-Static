@@ -3222,14 +3222,14 @@
       "buch": "B2",
       "kapitel": "43",
       "leseart": "normal",
-      "titel": "Runa reisst den Namen aus dem Farn-Brief",
+      "titel": "Runa reisst den Namen aus dem Korrin-Brief",
       "detail": "Bund-Krankenstation, Schnittwunden, gebrochene Rippe. Runa zieht den Brief mit gezeichnetem Farn aus der Tasche — »Alphina. Ich hab nicht aufgehört.« Sie reisst nur den Namen »Alphina« heraus. Den Rest des Briefes, den Farn, die Worte, behält sie.",
       "typen": [
         "erkenntnis",
         "tschechow"
       ],
       "tags": [
-        "Farn-Brief",
+        "Korrin-Brief",
         "Entkoppelung"
       ],
       "tz_sort": 748.66,

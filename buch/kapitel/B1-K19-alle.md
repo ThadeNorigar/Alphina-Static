@@ -44,7 +44,7 @@ Vesper trat zuerst durch den Bogen. Er ging mit demselben gleichmäßigen Schrit
 
 Hinter ihm trat eine Frau in den Garten, blieb einen Augenblick innerhalb des Tores stehen und nahm den Ort mit einem einzigen, prüfenden Blick auf, nicht staunend. Als wäre der Garten eine Werft, ein Rumpf, eine Konstruktion, bei der man zuerst sehen musste, wo die Last lag. An ihrem linken Handgelenk hing ein Lederriemen, an dem etwas Kleines glänzte. Beim Näherkommen erkannte Alphina den blank geriebenen Messinganker, kaum größer als ein Fingernagel.
 
-„Maren Ilves", sagte Vesper. „Alphina Farn. Sorel Varlan."
+„Maren Ilves", sagte Vesper. „Alphina Korrin. Sorel Varlan."
 
 Maren sah Alphina an, nachdem ihre Augen den Garten bereits einmal gelesen hatten. „Die Botanikerin."
 
