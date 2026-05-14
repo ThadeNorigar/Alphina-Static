@@ -2,226 +2,253 @@
 
 *20. Blütenmond 551 · 8 Wochen 2 Tage in Vael*
 
+Alphina kam als Erste.
 
-Alphina kam als Erste. Sie drehte den Schlüssel im Schloss, eine halbe Stunde früher als verabredet, und trat auf den Kies. Sie wollte vorher noch ein wenig mit dem Garten allein sein.
+Sie hatte den Schlüssel eine halbe Stunde früher im Schloss gedreht als verabredet, weil sie den Garten noch einmal allein sehen wollte, bevor die anderen kamen und aus all den Beobachtungen, die seit Wochen nebeneinanderlagen, etwas Gemeinsames wurde. Der Kies knirschte leise unter ihren Schuhen, als sie das Tor hinter sich schloss. Die Nachmittagssonne fiel schräg durch die Blätter der großen Kastanie, und auf dem Hauptweg lag eine flache Wärme, die nicht mehr ganz zum Tag gehörte, sondern schon zum Abend hinüberneigte.
 
-Die Nachmittagssonne stand schräg zwischen den Blättern der großen Kastanie. Die Wärme lag flach auf dem Kies. Zwischen zwei Beeten hing der süße vierte Geruch, dichter als gestern — nicht Honig, nicht Frucht.
+Zwischen den Beeten hing wieder der süße Geruch, der vierte, den der Garten nicht haben sollte. Er war dichter als gestern, schwerer, und Alphina konnte ihn noch immer nicht benennen. Kein Honig, keine Frucht. Süß, aber darunter lag etwas Warmes, Fremdes.
 
 Die Pflanzen reagierten zu schnell.
 
-Vier Tage lang hatte sie kleine Übertreibungen gesehen: einen Farn, der den Wedel zu weit kippte. Einen Ableger am Nordrand, der zu prompt auf ihren Blick antwortete. Heute standen die Hortensien am Weg in einer Haltung, die Pflanzen nicht haben sollten. Sie standen zu ihr hin, Kopf an Kopf.
+Vier Tage lang hatte sie es sich noch klein geredet: ein Farn, der seinen Wedel zu weit kippte, ein Ableger am Nordrand, der zu schnell auf ihren Blick antwortete, ein Stängel, der sich zum Licht neigen sollte und stattdessen auf sie wartete. Heute standen die Hortensien am Weg in einer Haltung, die Pflanzen nicht haben sollten: die Blütenköpfe dicht an dicht, schwer, alle zu ihr hin ausgerichtet.
 
-Sie legte die Hand flach auf den Kies. *Ruhig.* Der Wille ging durch die Handfläche in die Erde. Die Farne an der Nordmauer zogen die Wedel ein, einer nach dem anderen. Die Hortensien erstarrten.
+Alphina blieb stehen, kniete sich langsam hin und legte die Hand flach auf den Kies.
 
-Sie blieb auf dem Kies, einen Atemzug. Dann hörte sie ihn.
+*Ruhig. Nur ruhig.*
 
-Sie drehte sich nicht um. Die Schritte kamen gleichmäßig von der Klippenseite den Hauptweg herauf.
+Der Wille ging durch ihre Handfläche in die Erde, nicht als Befehl, eher als Druck, den sie längst nicht mehr ganz von ihrem Körper trennen konnte. An der Nordmauer zogen die Farne die Wedel ein, einer nach dem anderen. Die Hortensien erstarrten, als hätte jemand einen Faden gekappt.
 
-Er blieb zwei Schritte vor ihr stehen.
+Alphina blieb noch einen Atemzug auf dem Kies knien. Dann hörte sie Schritte.
 
-Ihre Handflächen wurden warm. Sie wollte es nicht. Sie drehte sich um.
+Sie drehte sich nicht sofort um. Der Gang kam von der Klippenseite den Hauptweg herauf, gleichmäßig und gemessen. Sorel blieb zwei Schritte hinter ihr stehen, und obwohl er nichts sagte, wurden ihre Handflächen warm. An der Nordmauer hob ein Farn den Wedel, den sie eben erst niedergelegt hatte.
 
-Er trug denselben Mantel wie am Steg. Die linke Hand war ohne Bandage, der Handrücken hell und neu an der Stelle, wo sie ihn in seinem Keller berührt hatte. Sein Blick blieb einen Atemzug zu lang auf ihr, dann schaute er weg.
+Sie hasste, dass ihr Körper ihn vor ihr erkannte.
 
-„Vesper kommt mit Maren."
+Erst dann stand sie auf und wandte sich um.
 
-„Ich weiß."
+Er trug denselben Mantel wie am Steg. Seine linke Hand war ohne Bandage, der Handrücken hell und neu an der Stelle, an der sie ihn in seinem Keller berührt hatte. Sein Blick blieb einen Augenblick zu lang auf ihr, bevor er sich kontrolliert zur Seite bewegte.
 
-Sie ließ es so stehen. Am Steg hatten sie vor zwei Tagen kein Wort getauscht, heute zwei.
-
-Das Tor öffnete sich wieder. Zwei Tritte auf dem Kies, unterschiedlich im Gewicht.
-
-Vesper kam als Erster durch den Bogen. Er ging gleichmäßig, sein Schrittmaß kannte er. Er trug den grauen Rock. Die Hände hielt er vor dem Körper, Finger gespreizt, als läge dazwischen eine halb eingepasste Schraube. Einen Schritt hinter der Torkante blieb er stehen.
-
-„Die Pflanzen stehen anders."
+„Vesper kommt mit Maren", sagte er.
 
 „Ich weiß."
 
-Eine Frau trat hinter ihm durch den Bogen und blieb einen Schritt innerhalb stehen. Sie nahm den Garten in einem Blick auf und ging weiter. Am linken Handgelenk trug sie einen Lederriemen, an dem etwas glänzte. Auf die Entfernung erkannte Alphina es nicht. Beim Gehen saß der dunkle Wollrock eng an der Hüfte, das Mieder hielt die Taille. Ihre Hände hingen an den Seiten.
+Mehr sagten sie nicht. Am Steg hatten sie vor zwei Tagen kein Wort getauscht, nur diesen einen Blick, der seitdem in Alphina geblieben war wie eine Berührung, die nie stattgefunden hatte. Heute waren es zwei Sätze, und der Abstand zwischen ihnen fühlte sich kleiner an.
 
-„Maren Ilves." Vesper sprach den Namen kurz. „Alphina Farn. Sorel Varlan."
+Das Tor öffnete sich erneut. Zwei Paar Schritte kamen über den Kies, unterschiedlich im Gewicht.
 
-„Die Botanikerin." Marens Stimme war knapp, und ihre Augen hatten den Garten schon einmal abgelesen, bevor sie Alphina ansah. „Vesper hat gesagt, wir müssen uns kennenlernen."
+Vesper trat zuerst durch den Bogen. Er ging mit demselben gleichmäßigen Schritt wie immer, als wäre auch sein Körper an Messungen gewöhnt. Er trug den grauen Rock, die Hände vor dem Körper, die Finger leicht gespreizt, als läge zwischen ihnen eine Schraube, noch nicht im Gewinde. Einen Schritt hinter der Torkante blieb er stehen. Sein Blick ging zu den Beeten, bevor er Alphina fand.
 
-Alphina reichte ihr die Hand. Maren nahm sie mit festem Druck, weder prüfend noch schonend. Ihre Handflächen trugen Hornhaut an denselben Stellen wie Alphinas eigene. Marens Haut roch nach nassem Holz und einem Öl, das Alphina aus der Druckerei kannte, nur anders gemischt. An dem Lederriemen hing ein kleiner, blank geriebener Messinganker, halb so groß wie ein Fingernagel.
+„Die Pflanzen stehen anders", sagte er.
 
-„Sorel."
+„Ich weiß."
+
+Hinter ihm trat eine Frau in den Garten, blieb einen Augenblick innerhalb des Tores stehen und nahm den Ort mit einem einzigen, prüfenden Blick auf, nicht staunend. Als wäre der Garten eine Werft, ein Rumpf, eine Konstruktion, bei der man zuerst sehen musste, wo die Last lag. An ihrem linken Handgelenk hing ein Lederriemen, an dem etwas Kleines glänzte. Beim Näherkommen erkannte Alphina den blank geriebenen Messinganker, kaum größer als ein Fingernagel.
+
+„Maren Ilves", sagte Vesper. „Alphina Farn. Sorel Varlan."
+
+Maren sah Alphina an, nachdem ihre Augen den Garten bereits einmal gelesen hatten. „Die Botanikerin."
+
+„Die Werftbesitzerin", sagte Alphina.
+
+Marens Mundwinkel bewegte sich kaum, aber es reichte beinahe für ein Lächeln. „Vesper hat gesagt, wir müssten uns kennenlernen."
+
+„Dann hatte er vermutlich einen Grund."
+
+„Das hat er meistens."
+
+Alphina reichte ihr die Hand. Maren nahm sie mit festem Druck. Ihre Handflächen trugen Hornhaut an Stellen, die Alphina an den eigenen Händen kannte, und ihre Haut roch nach nassem Holz und nach einem Öl, das Alphina aus der Druckerei bekannt vorkam, nur anders gemischt.
+
+Maren wandte sich Sorel zu. „Sorel."
 
 „Maren."
 
-Sie gaben einander die Hand und ließen los.
+Sie gaben einander die Hand und ließen wieder los.
 
-Alphina sah ihn nicht direkt an. Sie hatte ihn seit zwei Tagen nicht gesehen. Einen Nachmittag am Steg, ohne Wort, nur ein Blick. Davor der Morgen in seinem Keller, an dem sie die Hand auf seinen Handrücken gelegt und die Haut sich unter ihrer Hand geschlossen hatte.
+Alphina sah Sorel nicht direkt an. Sie hatte ihn seit zwei Tagen nicht gesehen. Davor hatte es den Morgen in seinem Keller gegeben, seine verbrannte Hand unter ihrer, Haut, die sich geschlossen hatte, ohne dass sie wusste, was sie tat. Jetzt stand sie drei Schritte neben Vesper, in einer Haltung, die sie vor dem Spiegel geübt hatte, und zwang ihren Blick in die Mitte der Gruppe, dorthin, wo keine Haut war.
 
-Sie stand drei Schritte neben Vesper, in einer Haltung, die sie zwanzig Minuten vor dem Spiegel geübt hatte. Sie sah sein Schulterblatt unter dem Rock. Den Streifen Haut zwischen Kragen und Haaransatz kannte sie aus der Dunkelkammer. Sie drückte den Blick in die Mitte der Gruppe, wo keine Haut war.
+Maren bemerkte es. Ihr Blick ging von Alphina zu Sorel, von Sorel zu Alphinas Hand, die am Mantelsaum eine Falte glatt strich, und wieder zurück.
 
-Maren schaute zwischen ihnen. Zu Alphina, zu Sorel, zu Alphinas Hand, die am Mantelsaum eine Falte glatt strich.
+Vesper legte kurz die Hand an die Innenseite seines Revers, dort, wo sonst seine Uhrenkette saß. „Wir werden gleich Dinge sagen, die keiner von uns normalerweise Fremden gibt. Ich schlage vor, wir lassen die Titel weg. Ich bin Vesper."
 
-Vesper legte kurz die Hand an die Innenseite seines Revers, wo sonst die Uhrenkette saß. „Wir werden uns gleich Dinge erzählen, die keiner von uns an Fremde gibt." Er sah Alphina an, dann Sorel, dann Maren. „Ich schlage vor, wir nehmen die Vornamen. Ich bin Vesper."
+Einen Moment lang sagte niemand etwas.
 
-Einen Atemzug lang sagte niemand etwas.
-
-„Maren."
+Dann sagte Maren: „Maren."
 
 „Alphina."
 
-Sorel hielt Vespers Blick einen Atemzug, dann Alphinas einen weiteren. „Sorel."
+Sorel hielt Vespers Blick einen Moment, dann Alphinas einen weiteren. „Sorel."
 
-„Im Steinkreis", sagte Vesper. „Dort ist Platz, und der Weg zum Tor ist frei."
+„Gut", sagte Vesper. „Im Steinkreis haben wir Platz, und der Weg zum Tor bleibt frei."
 
-Sie gingen. Alphina voran, weil sie den Weg am besten kannte. Vesper neben ihr, einen Schritt zurück. Maren und Sorel dahinter, schweigend.
+Alphina ging voran, weil sie den Weg am besten kannte. Vesper folgte neben ihr, einen Schritt zurück, Maren und Sorel dahinter. Das Schweigen zwischen ihnen war nicht leer. Es ordnete sich nur noch.
 
-Der Steinkreis lag auf dem kleinen Hügel in der nordwestlichen Gartenhälfte. Sieben Steine, hüfthoch, in einer Anordnung, die nachts zufällig wirkte und bei Tag nicht mehr. Der Boden zwischen den Steinen war kahle Erde — kein Halm, kein Moos, obwohl außerhalb alles wuchs, was Wurzeln schlagen konnte.
+Der Steinkreis lag auf dem kleinen Hügel in der nordwestlichen Gartenhälfte, sieben hüfthohe Steine in einer Anordnung, die nachts zufällig wirken konnte und bei Tageslicht nicht mehr. Zwischen ihnen war der Boden kahl. Kein Halm, kein Moos, obwohl außerhalb des Kreises alles wuchs, was irgendwie Wurzeln schlagen konnte.
 
-Alphina trat in den Kreis und ging in die Mitte. Die drei anderen folgten und ordneten sich.
+Alphina trat als Erste hinein und ging in die Mitte. Die drei anderen folgten und stellten sich unbewusst so auf, dass keiner dem anderen ganz den Rücken gab. Maren wählte den Platz mit dem nördlichsten Stein hinter sich. Vesper suchte den Winkel, in dem die Sonne zwischen den Kastanienblättern ihm nicht direkt in die Augen fiel. Sorel blieb an der östlichen Kante, das Stativ noch am Riemen.
 
-Maren stellte sich so, dass sie den nördlichsten Stein im Rücken hatte. Vesper suchte den Winkel, in dem die Sonne zwischen den Blättern der Kastanie nicht auf die Augen fiel. Sorel blieb an der östlichen Kante, Stativ noch am Riemen.
+Durch Alphinas Sohlen kam die Wärme des Bodens. Sie kam nicht von der Sonne. Sie kannte diesen Schlag aus den Messungen mit Vesper, dieses tiefe, langsame Pulsieren unter dem Stein, das sich heute dichter an ihren Atem gelegt hatte als sonst. Sie legte die Hand flach auf den Purpurstein neben ihr. Die Oberfläche war rau und kühl, aber darunter lief der Schlag so deutlich, dass sie ihn bis in die Armbeuge spürte.
 
-Der Boden war warm durch die Sohlen. Die Wärme kam nicht von der Sonne. Alphina kannte sie aus den Messungen mit Vesper. Der Schlag unter dem Stein ging tiefer als ihr eigener Herzschlag und hörte nicht auf. Heute lag er dichter an ihrem Atem als sonst. Sie legte die Hand flach auf den Purpurstein neben ihr. Der Stein war rau und kühl. Der Schlag ging durch die Handfläche, so deutlich, dass sie ihn in der Armbeuge spürte.
+Maren sah Vesper an. Nur kurz.
 
-Maren sah Vesper an. Einen Atemzug lang. Vesper nickte, kaum sichtbar.
+Er nickte kaum sichtbar.
 
 „Die Grauwe fließt rückwärts", sagte Maren.
 
 Sorel hob den Kopf.
 
-„An der Mündung. Vier Handbreit unter der Oberfläche, wenn die Tide stimmt. Zwei Messungen, zwei Leinen, ein Stein. Zweimal dasselbe."
+„An der Mündung", fuhr sie fort. „Vier Handbreit unter der Oberfläche, wenn die Tide stimmt. Ich habe es zweimal gemessen, mit zwei Leinen und einem Stein. Beide Male dasselbe."
 
-„Wer hat's sonst gesehen?", fragte Alphina.
+„Wer hat es noch gesehen?", fragte Alphina.
 
-„Ein alter Fischer. Tohl. Sagt es niemandem sonst." Ihre Hand ging zur Schiffsmesse an der Gürtelschlaufe und blieb einen Atemzug dort. „Und Wasser — in meiner Nähe bewegt es sich, oder wird warm. Ich muss es dafür nicht anfassen."
+„Ein alter Fischer. Tohl. Er erzählt es niemandem, solange niemand ihn fragt, ob er nüchtern war." Marens Hand ging kurz zum Schiffsmesser an ihrer Gürtelschlaufe und blieb dort einen Atemzug liegen. „Und Wasser bewegt sich in meiner Nähe. Manchmal wird es warm. Ich muss es nicht anfassen."
 
-Alphinas Handfläche auf dem Purpurstein wurde wärmer. Wasser. Das war ein anderer Kanal als ihrer, aber der Boden darunter war derselbe.
+Alphinas Handfläche auf dem Purpurstein wurde wärmer. Wasser bei Maren, Pflanzen bei ihr. Zwei verschiedene Kräfte, und trotzdem lag unter beiden derselbe Boden.
 
-Vesper stand im Schatten der Kastanie. „Uhren", sagte er dann. „Siebzehn in Vael gehen falsch. Sechzehn davon verlieren Zeit — je näher am Zentrum, desto mehr. Außen elf Sekunden am Tag. Innen zwei Minuten dreiundzwanzig. Vier Ringe, einer um den anderen." Er tippte mit dem Zeigefinger gegen den Kies neben seinem Fuß. „Der Mittelpunkt liegt hier."
+Vesper stand im Schatten der Kastanie. „Bei mir sind es Uhren", sagte er. „Siebzehn in Vael laufen falsch. Sechzehn davon verlieren Zeit, und der Verlust nimmt zu, je näher sie diesem Ort kommen. Außen elf Sekunden am Tag, innen zwei Minuten dreiundzwanzig. Vier Ringe, einer um den anderen."
 
-„Wellen", sagte Maren. „Wie ein Stein im Wasser."
+Er tippte mit dem Zeigefinger gegen den Kies neben seinem Fuß.
 
-„Ja. Der Kreis ist der Mittelpunkt."
+„Der Mittelpunkt liegt hier."
 
-Sorel sah zum Steinkreis, dann zu Vesper. „Und die siebzehnte?"
+Maren sah auf den Boden zwischen ihnen. „Wellen", sagte sie. „Wie bei einem Stein im Wasser."
 
-„Tidemoor-Haus, unten am Grauwe-Ufer. Vier Minuten und dreiunddreißig Sekunden pro Stunde. Exakt dieselbe Zahl, täglich, bis ich sie vor zwei Wochen in Ruhe gesetzt habe." Seine Hände vor dem Körper hatten sich nicht bewegt. „Ein zweites Muster. Kleiner."
+„Ja. Nur dass der Kreis hier der Mittelpunkt ist."
 
-Maren sah zum Stein in ihrem Rücken. Sorels Blick ging kurz zu Alphinas Hand auf dem Purpurstein, dann weg.
+Sorel sah vom Steinkreis zu Vesper. „Und die siebzehnte Uhr?"
 
-Alphinas Hand lag noch da. Der Schlag unter der Handfläche ging tiefer und gleichmäßiger als ihr eigener.
+„Tidemoor-Haus, unten am Grauwe-Ufer. Vier Minuten und dreiunddreißig Sekunden am Tag. Immer dieselbe Zahl, bis ich sie vor zwei Wochen in Ruhe gesetzt habe." Seine Hände vor dem Körper hatten sich nicht bewegt. „Das ist ein zweites Muster. Kleiner, aber nicht zufällig."
 
-„Pflanzen", sagte sie. Die Stimme kam ein Stück höher als sonst, und sie hörte es selbst. Sie atmete einmal. „Sie reagieren auf mich. Bewegen sich auf mich zu. Die Hortensien am Hauptweg hatten sich heute Morgen mir zugedreht. Ich habe die Hand auf den Kies gelegt. Sie zogen sich zurück."
+Maren sah zum Stein in ihrem Rücken. Sorels Blick glitt kurz zu Alphinas Hand auf dem Purpurstein und dann fort, als hätte er sich selbst dabei ertappt.
 
-Sorel stellte das Stativ eine Handbreit näher an sich.
+Alphina atmete ein.
 
-„Ich kann ihr Wachstum verändern. Schneller. Langsamer." Ihre Hand auf dem Stein wurde wärmer. Sie sah an Sorel vorbei, in die Mitte des Kreises, wo keine Haut war. „Und ich habe eine Verbrennung geschlossen, ohne zu wissen, was ich tat."
+„Pflanzen", sagte sie.
 
-Sorel hob die linke Hand, bevor sie zu Ende sprach. Der Handrücken war heller als die Haut darum, neu. Er ließ die Hand sinken, als ihr Blick ihn fand.
+Ihre Stimme kam höher, als sie wollte. Sie hörte es selbst, also zwang sie den nächsten Atemzug tiefer.
 
-Vesper wandte sich halb zu Alphina. „Wie lange hat es gedauert?"
+„Sie reagieren auf mich. Sie bewegen sich auf mich zu, wenn ich es nicht verhindere. Die Hortensien am Hauptweg hatten sich mir heute zugedreht. Ich habe die Hand auf den Kies gelegt, und sie zogen sich zurück."
 
-„Eine Stelle, so groß." Sie zeigte einen Daumen. „Drei, vier Sekunden."
+Sorel stellte das Stativ eine Handbreit näher an sich heran.
 
-Vesper nickte kaum. Die Hände vor seinem Körper verschoben sich einen Zoll.
+„Ich kann Wachstum verändern, schneller oder langsamer. Manchmal genau, manchmal gar nicht." Ihre Hand auf dem Stein wurde wärmer. Sie sah an Sorel vorbei, in die leere Mitte des Kreises. „Und ich habe eine Verbrennung geschlossen, ohne zu wissen, was ich tat."
+
+Sorel hob die linke Hand, noch bevor sie zu Ende gesprochen hatte. Der Handrücken war heller als die Haut darum, neu und glatt. Als ihr Blick ihn fand, ließ er die Hand wieder sinken.
+
+Vesper wandte sich zu ihr. „Wie lange hat es gedauert?"
+
+„Drei, vier Sekunden. Eine Stelle etwa so groß." Sie zeigte mit dem Daumen die Größe. „Es war nicht Heilung, glaube ich. Eher Wachstum, das viel zu schnell ging."
+
+Vesper nickte kaum. Seine Finger verschoben sich einen Zoll.
 
 Sorel sprach, ohne Alphina direkt anzusehen. „Vor einer Woche stand ich nachts in diesem Garten. Zwischen den Hortensien war ein Tier, das keines war."
 
 „Wie groß?", fragte Maren.
 
-„Größer als eine Katze. Niedriger als ein Mann. Die Ränder verrauchten. Auf dem Rücken hatte es eine Linie. Violett, leuchtend. Ich habe sie damals nicht eingeordnet." Er pausierte. „Ich habe das Mondlicht auf eine Stelle seiner Haut gebündelt. Es hat mit einem Feuerball geantwortet. Aus dem Maul, faustgroß, weiß im Kern. Er hat meinen Handrücken getroffen."
+„Größer als eine Katze, niedriger als ein Mann. Die Ränder verrauchten. Auf dem Rücken hatte es eine violette Linie, leuchtend. Ich habe sie damals nicht eingeordnet." Er machte eine kurze Pause. „Ich habe Mondlicht auf eine Stelle seiner Haut gebündelt. Es hat mit Feuer geantwortet, aus dem Maul, faustgroß, weiß im Kern. Es traf meinen Handrücken."
 
-Maren sah Vesper an. Vesper nickte einmal.
+Maren sah zu Vesper. Der nickte einmal, als bestätige er einen Befund, den er nicht noch einmal hören wollte.
 
-Sorel atmete einmal ein. „Ich fotografiere. Meine Platten zeigen Dinge, die nicht vor der Linse standen. Ich habe eine Platte mit meinem Gesicht am Kai einer Stadt, in der ich nie war."
+Sorel atmete ein. „Ich fotografiere. Meine Platten zeigen inzwischen Dinge, die nicht vor der Linse standen. Einmal war mein Gesicht auf einer Platte am Kai einer Stadt, in der ich nie war."
 
-Die vier standen da, Stille zwischen sich. Die Sonne war noch ein Stück weiter geschoben. Der süße vierte Geruch lag inzwischen auf Bodenhöhe, dichter als vorher.
+Die vier standen im Kreis, und zwischen ihnen sammelte sich Stille. Die Sonne war noch ein Stück weitergewandert. Der süße vierte Geruch lag inzwischen tiefer, fast auf Bodenhöhe, dichter als zuvor.
 
-Alphina sah sich um. Nichts bewegte sich im Garten außer den Wedeln im Wind. Keine Eidechse auf den warmen Steinen, wo sonst zwei oder drei lagen. An den Blüten des kleinen Apfelbaums am Südhang keine Biene. Im Gebüsch kein Vogel.
+Alphina sah sich um.
+
+Nichts bewegte sich im Garten, außer ein paar Wedeln im Wind. Keine Eidechse auf den warmen Steinen, wo sonst immer zwei oder drei lagen. Keine Biene an den Blüten des kleinen Apfelbaums am Südhang. Kein Vogel im Gebüsch.
 
 „Es ist zu still", sagte sie.
 
-Vesper hob den Kopf. Er schloss die Augen für eine Sekunde, zwei. Öffnete sie wieder.
+Vesper hob den Kopf. Er schloss die Augen, eine Sekunde, vielleicht zwei, und öffnete sie wieder.
 
 „Der Takt fehlt."
 
-„Welcher Takt?"
+Maren sah ihn an. „Welcher Takt?"
 
-„Der der Stadt." Er hob die rechte Hand in Brusthöhe, die Innenseite nach oben, als wiege er Luft. „Uhren, Hufe, Hämmer, Glocken. Sie sind da, aber sie kommen hier nicht an. Etwas dazwischen dämpft."
+„Der der Stadt." Er hob die rechte Hand in Brusthöhe, die Innenseite nach oben, als wiege er Luft. „Uhren, Hufe, Hämmer, Glocken. Sie sind alle da, aber sie kommen hier nicht an. Etwas liegt dazwischen."
 
-Sorel stellte das Stativ ab. Er zog die Kamera vom Riemen und hängte sie unter den rechten Ellbogen. Die linke Hand hing an der Hose.
+Sorel stellte das Stativ ab. Er zog die Kamera vom Riemen und hielt sie unter den rechten Ellbogen. Maren sah zum Stein in ihrem Rücken; ihre Hand lag wieder am Schiffsmesser, löste sich aber wieder.
 
-Maren sah zum Stein in ihrem Rücken und ließ die Hand an der Schiffsmesse ruhen. Sie zog die Hand wieder zurück.
+Alphina trat einen Schritt zur Mitte.
 
-Alphina trat einen Schritt zur Mitte. Ihre Handflächen waren warm. Sie sah Sorel an. Einen Lidschlag. Er sah zurück. Die Haltung seiner Schultern löste sich kaum sichtbar.
+Ihre Handflächen waren warm.
 
-Sie drehte den Kopf fort, zur Mitte des Kreises, wo nichts war.
+Sie sah Sorel an, nur einen Lidschlag lang. Er sah zurück, und die Haltung seiner Schultern löste sich kaum sichtbar.
 
-Maren sah auf den Boden des Kreises. „Ich glaube, ich kenne —"
+Maren senkte den Blick auf den Boden des Kreises. „Ich glaube, ich kenne …"
 
-Hinter ihr zerriss die Luft.
+Hinter ihr riss die Luft auf.
 
+Zuerst veränderte sich nur der Druck auf Alphinas Ohren, als hätte jemand in einem geschlossenen Raum eine Tür aufgerissen. Dann spaltete sich die Luft hinter Maren an einer scharfen Kante, drei Schritte breit und vier hoch. Das Licht knickte daran ab, falsch, wie an einer Kante aus Glas.
 
----
-
-
-Es war kein Geräusch. Der Druck auf Alphinas Ohren änderte sich, als hätte jemand eine Tür in einem geschlossenen Raum aufgerissen. Die Luft hinter Maren riss auf. Drei Schritte breit, vier hoch, an einer scharfen Kante. Das Licht brach dort in einem Winkel, den Alphina noch nie an Luft gesehen hatte. Hinter der Kante lag etwas, das nicht hinter dem Garten lag.
+Hinter der Öffnung lag nicht der Garten.
 
 Alphina sah in einen Wald.
 
-Bäume, die zu dicht standen, um Bäume zu sein. Ein Moos am Stamm, das waagerecht wuchs, als zöge es eine Strömung durchs Astwerk. Die Farben lagen zwei Sättigungen zu tief: ein Grün, das selbst im Schatten nicht aufhörte, ein Braun, unter dem ein zweites lag, dunkler, nass. Der Himmel zwischen den Kronen schimmerte bernstein. Die Stämme warfen mehrere Schatten zugleich. Die Triebe drängten sich übereinander, als wäre kein Platz mehr da, wo nicht schon etwas wuchs.
+Die Bäume standen zu dicht, um nur Bäume zu sein. Moos wuchs waagerecht an den Stämmen, als zöge eine Strömung durchs Astwerk, und die Farben waren zwei Sättigungen zu tief: ein Grün, das selbst im Schatten nicht aufhörte, ein Braun, unter dem noch ein zweites lag, dunkler und nass. Zwischen den Kronen schimmerte bernsteinfarbener Himmel. Die Stämme warfen mehrere Schatten zugleich.
 
-Ein Atemzug. Zwei.
+Ein Atemzug verging. Dann ein zweiter.
 
-Im dritten stand etwas an der Kante. Es trat durch.
+Im dritten stand etwas an der Kante.
 
-Die Kante schloss sich hinter ihm. Die Luft wurde wieder Luft.
+Es trat durch.
 
-Es war groß. Mannshoch an der Schulter, schwer wie ein Stier, mit einem gewölbten Rücken wie bei einem Bären. Vier Beine, breite Schultern, keine Hörner. Es hatte eine Schulter aus Dunkelheit, die kein Schatten war. Der Kopf war tierisch gezogen, länger als ein Menschenkopf, mit einer Schnauze, in der keine Zähne zu sehen waren. Über der Stirn — wenn man es eine Stirn nennen wollte — lief eine violette Linie, leuchtend, schmal, gleichmäßig. An den Schultern dieselbe Linie, in einer Krümmung, die nicht zur Form des Wesens passte. An den Vorderpfoten saßen Krallen, die erst aus den Pfoten wuchsen, wenn sie gebraucht wurden.
+Die Öffnung schloss sich hinter ihm, und die Luft wurde wieder Luft.
 
-Maren war am nächsten.
+Das Wesen war groß, mannshoch an der Schulter, schwer wie ein Stier, mit einem gewölbten Rücken, der eher an einen Bären erinnerte. Vier Beine, breite Schultern, keine Hörner. Eine seiner Schultern bestand aus Dunkelheit, die kein Schatten war. Der Kopf war langgezogen und tierisch, die Schnauze geschlossen, keine Zähne sichtbar. Über der Stirn, wenn man es eine Stirn nennen wollte, lief eine schmale violette Linie, leuchtend und gleichmäßig. An den Schultern zeigte sich dieselbe Linie in einer Krümmung, die nicht zur Form des Körpers passte.
 
-Die Vorderpfote zog, die Krallen wuchsen im Zug, und die Schattenkralle traf Marens linke Schulter in einem Bogen, den ein umstürzender Baum beschreibt.
+Maren stand am nächsten.
+
+Die Vorderpfote holte aus, und während sie ausholte, wuchsen die Krallen erst aus den Pfoten heraus. Die Schattenkralle traf Marens linke Schulter, ein Schlag, schwer wie ein stürzender Balken.
 
 Maren flog.
 
-Zwei Schritte, drei. Sie kam mit dem Rücken auf dem Boden auf, rollte einmal über die Seite. Eine Atempause lang lag sie still. Dann zeichnete sich der Schmerz an ihrem Gesicht.
+Sie kam zwei, drei Schritte weiter auf dem Boden auf, rollte über die Seite und blieb einen Atemzug lang still liegen. Dann zeichnete sich der Schmerz in ihrem Gesicht ab.
 
-Alphinas Knie gaben kurz nach. Der Garten kippte, fing sich wieder. Blut am Stoff von Marens Schulter, dunkel, breiter werdend.
+Alphinas Knie gaben nach. Der Garten kippte unter ihr, fing sich wieder.
 
-Das Ding zog die Pfote zurück, hob sie neu, und Maren versuchte sich aufzudrücken — der rechte Arm trug, der linke hing.
+Blut breitete sich dunkel auf Marens Schulter aus.
 
-Zwischen ihr und der Kralle trat Sorel. Die Nachmittagssonne fiel in schrägen Bahnen durch die Baumkronen. Licht war das einzige Werkzeug, das er hatte. Er nahm es zwischen Daumen und Zeigefinger, zog es zusammen, warf es auf die Schulter des Wesens, mit der Präzision, mit der er eine Belichtung auf eine Platte legte.
+Das Wesen zog die Pfote zurück und hob sie erneut. Maren versuchte sich aufzudrücken; der rechte Arm trug, der linke hing. Noch während sie den Boden unter sich suchte, hatte sie mit der rechten Hand das Schiffsmesser gezogen. Die Klinge zitterte, weil ihr die Kraft fehlte.
+
+Zwischen sie und die nächste Kralle trat Sorel.
+
+Die Nachmittagssonne fiel in schrägen Bahnen durch die Kastanie. Er nahm das Licht zwischen Daumen und Zeigefinger, zog es zusammen und warf es auf die Schulter des Wesens, so genau, wie er eine Belichtung auf eine Platte legte.
 
 Das Licht traf.
 
 Das Licht kam nicht zurück.
 
-Keine Reflexion, kein Versprühen. Es ging in die Schulter hinein und verschwand. Die Schulter schluckte es, ohne Wiederkehr, und blieb dunkel.
+Einen Atemzug lang begriff Alphina nicht, was das hieß.
 
-Sorel wich zurück und griff gleichzeitig nach Alphinas Ellbogen. Seine Finger schlossen sich um ihren Arm, bevor er den Kopf zu ihr gedreht hatte.
+Keine Reflexion, kein Versprühen, kein Glanz. Es ging in die Schulter hinein und verschwand. Die Dunkelheit schluckte es vollständig und blieb dunkel.
 
-Sie spürte den Zug, bevor sie ihn verstand. Er riss sie zwei Schritte nach hinten, und erst dann kam der Gedanke, dass sie gezogen wurde.
+Sorel wich zurück und griff nach Alphinas Ellbogen. Seine Finger schlossen sich um ihren Arm, noch bevor er den Kopf zu ihr gedreht hatte.
 
-Im Mund lag Staub, auf der Zunge Eisen, und ihre Zähne hatten sich in die Innenseite der Unterlippe gegraben, ohne dass sie es gemerkt hatte.
+Der Zug riss sie zwei Schritte nach hinten, bevor sie begriff, dass Sorel sie weggerissen hatte. Staub lag ihr im Mund, Eisen auf der Zunge, und ihre Zähne hatten sich in die Innenseite ihrer Unterlippe gegraben, ohne dass sie es gemerkt hatte.
 
-Seine Hand an ihrem Arm drückte nicht. Sie blieb dort.
+Seine Hand blieb an ihrem Arm, ohne Druck, einfach da.
 
-Vesper hob die Hände vor den Körper, die Finger gespreizt, wie bei den Messungen am Steinkreis. Er atmete einmal tief in den Bauch, und seine Schultern wurden steif.
+Vesper hob die Hände vor den Körper, die Finger gespreizt wie bei den Messungen am Steinkreis. Er atmete tief in den Bauch, und seine Schultern wurden steif.
 
 Das Wesen wurde langsamer.
 
-Nicht viel. Einen Herzschlag, zwei. Die Kralle, die gerade anhob, brauchte einen Atemzug länger, als sie gebraucht hätte. Die Schläge kamen spät, und spät reichte.
+Es stand nicht still. Aber die Kralle, die gerade anhob, brauchte plötzlich einen Atemzug länger als sonst. Die Schläge kamen spät, und spät reichte.
 
-Alphina warf sich auf die Knie. Die Handflächen drückten in die Erde des Kreises, dort wo sonst kein Halm wuchs. Sie schickte den Willen nach unten, durch die Hände, in den Boden, und verlangte Wurzeln: fest und holzig, dick genug für die Beine des Wesens.
+Alphina warf sich auf die Knie und presste beide Handflächen in die kahle Erde des Kreises. Sie schickte den Willen nach unten, durch die Hände in den Boden, und verlangte Wurzeln, fest und holzig, dick genug, um die Beine des Wesens zu halten.
 
 Sie bekam Gras.
 
-Dünne, blassgrüne Halme schossen aus der Erde, fingerdick, und griffen nach den Schienbeinen des Wesens, die sie nicht hielten. Alphina riss die Hände hoch. Ihre Kehle zog sich zusammen. Sie drückte die Hände wieder in die Erde, härter, und der Wille schoss aus ihr heraus, zu groß für den Kanal, der sonst reichte. Sie bekam dieselben Halme, noch mehr, noch nutzloser.
+Dünne, blassgrüne Halme schossen aus der Erde, fingerdick und zu weich, und griffen nach den Schienbeinen des Wesens, ohne sie zu halten. Alphina riss die Hände hoch, die Kehle eng vor Panik, drückte sie wieder in die Erde und schob den Willen härter hindurch, größer, gröber, mehr, als sonst durch sie hindurchging.
 
-„Sorel."
+Wieder kamen nur Halme, mehr davon, und sie hielten nichts.
 
-Sie rief seinen Namen, ohne ihn anzusehen. Er hatte die rechte Hand schon für den zweiten Strahl gehoben. Er hielt sie an.
+„Sorel", sagte sie.
 
-Er ließ die Hand sinken. Er atmete zweimal, schloss die Augen kurz, öffnete sie wieder. Er schaute den Garten an — den Boden, die Erde, den Steinkreis, das Gras, das Alphina aus dem Boden gerufen hatte.
+Sie sah ihn nicht an, aber er hatte die rechte Hand bereits für einen zweiten Strahl gehoben und hielt sie nun inne. Er begriff, ohne dass sie es aussprechen musste. Langsam ließ er die Hand sinken, atmete zweimal, schloss kurz die Augen und öffnete sie wieder. Dann sah er den Boden an, die Erde, den Steinkreis, das Gras, das Alphina aus dem Nichts gerufen hatte.
 
-Dann streute er die Nachmittagssonne über den Boden. Nicht gebündelt diesmal — er ließ sie los, in alle Richtungen zugleich, ohne Strahl, ohne Mitte. Das Licht legte sich flach über die Erde, von Kante zu Kante, und die Schatten im Kreis verschwanden. Die Ränder des Wesens fransten, dort wo kein Schatten mehr war.
+Beim zweiten Versuch bündelte er das Licht nicht. Er streute es.
+
+Die Nachmittagssonne legte sich flach über den Kreis, von Kante zu Kante, ohne Strahl, ohne Mitte, bis die Schatten in der Erde verschwanden. Dort, wo das Wesen keine Schatten mehr fand, fransten seine Ränder aus.
 
 Alphina spürte das Licht, bevor sie es sah. Ihre Hände in der Erde wurden warm, dann heiß.
 
@@ -229,172 +256,186 @@ Sie atmete aus.
 
 *Haltet es fest.*
 
-Sie schickte den Willen durch die Handflächen in die Erde, und durch die Erde in das Licht, das Sorel über den Boden gelegt hatte.
+Der Wille ging durch ihre Handflächen in den Boden, und wo Sorels Licht auf der Erde lag, trug er weiter.
 
-Die Wurzeln kamen.
+Diesmal kamen die Wurzeln.
 
-Sie schossen von drei Seiten durch die Grasnarbe, erst fingerdick, dann daumendick, dann handgelenkstark. Um die Füße des Wesens schlangen sie sich und stiegen auf.
+Sie schossen von drei Seiten durch die Grasnarbe, erst fingerdick, dann daumendick, dann handgelenkstark. Um die Füße des Wesens schlangen sie sich und stiegen höher. Das Wesen bewegte sich nur noch zäh. Die Kralle, die eben zum Schlag angehoben hatte, zog sich handbreit für handbreit durch die Luft.
 
-Das Wesen bewegte sich nur noch langsam. Die Kralle, die vorhin zum Schlag anhob, zog sich zäh durch die Luft, handbreit für handbreit.
+Vesper hielt die Hände in einer Form, die Alphina an ihm noch nie gesehen hatte. Seine Schultern zitterten. Durch die Erde spürte Alphina zwei Schwingungen zugleich: eine, die das Wesen verlangsamte, und eine, die die Wurzeln trieb.
 
-Vesper hatte beide Hände in der Luft, die Finger gespreizt in einer Form, die sie an ihm noch nie gesehen hatte. Seine Schultern zitterten. Alphina spürte durch die Erde zwei Takte, die nichts miteinander zu tun hatten — einen, der das Wesen anhielt, einen, der die Wurzeln trieb. Vesper hielt beide.
+Vesper hielt beide.
 
-Zehn Sekunden. Zwanzig.
+Zehn Sekunden vergingen, dann zwanzig.
 
-Die Wurzeln wuchsen durch das Wesen, von unten nach oben, durch die Schattensubstanz hindurch. Der Kopf, den es hatte, bog sich zurück, ohne Geräusch. Seine Vorderbeine versuchten, sich in den Rumpf zurückzuziehen, aber die Wurzeln ließen sie nicht.
+Die Wurzeln wuchsen durch das Wesen hindurch, von unten nach oben, als wäre der Schattenleib hohl, und sie füllten ihn aus. Der Kopf bog sich zurück, ohne Geräusch. Die Vorderbeine versuchten, sich in den Rumpf zurückzuziehen, doch die Wurzeln ließen sie nicht.
 
-Etwas brach.
+Dann brach etwas.
 
-Alphina hörte es nicht, sie fühlte es — ein Seil, das zu lange gespannt gewesen war und zurückschnappte — tief im Bauch. Die Schattensubstanz löste sich. An hundert Stellen in der Luft des Gartens rissen winzige dunkle Lücken auf, die den Rauch aufnahmen, jede einen Hauch, und schlossen sich wieder. Lautlos.
+Alphina hörte es nicht. Sie fühlte es tief im Bauch, wie ein Seil, das zu lange gespannt gewesen war und zurückschnappte. Die Schattensubstanz löste sich. An hundert Stellen in der Gartenluft rissen winzige dunkle Lücken auf, sogen den Rauch in sich hinein und schlossen sich lautlos wieder.
 
-Der letzte Hauch verschwand.
+Der letzte Rest verschwand.
 
 Die Wurzeln blieben.
 
+Alphina ließ die Hände noch in der Erde, weil sie sie nicht sofort bewegen konnte. Ihre Finger zitterten in groben Wellen, und das Zittern kam aus den Unterarmen. Sie zog die Hände einzeln heraus, als gehörten sie nicht zu ihr.
 
----
+Dann sah sie, was sie getan hatten.
 
-
-Alphina ließ die Hände in der Erde. Sie konnte sie nicht sofort bewegen. Die Finger zitterten in groben Wellen, und das Zittern kam aus den Unterarmen.
-
-Sie zog die Hände einzeln heraus, als wären es nicht ihre.
-
-Dann sah sie.
-
-In der Mitte des Steinkreises, wo gerade eben das Wesen gestanden hatte, stand eine Skulptur aus lebendigem Holz. Tierisch, vierbeinig. Mannshoch an der Schulter. Die Vorderpfoten leicht angehoben, noch im Drücken. Die Wurzeln hatten die Form des Körpers gehalten, auch nachdem der Körper nicht mehr war. Sie waren holzig, dunkel, mit feinen helleren Trieben an den Enden, die sich in die Nachmittagsluft reckten.
+In der Mitte des Steinkreises, dort, wo das Wesen gerade noch gestanden hatte, stand eine Skulptur aus lebendigem Holz. Vierbeinig, tierisch, mannshoch an der Schulter, die Vorderpfoten noch leicht angehoben, als wäre der Körper im letzten Versuch des Angriffs erstarrt. Die Wurzeln hatten die Form gehalten, nachdem das Ding nicht mehr da war. Dunkles Holz, helle Triebe an den Enden, die sich in die Nachmittagsluft reckten.
 
 Niemand hatte sie gemeißelt.
 
-Alphina stand langsam auf. Die Knie knackten einmal. Hinter ihr hörte sie Sorel atmen, tief. Weiter rechts hustete Maren, trocken.
+Alphina stand langsam auf. Ihre Knie knackten. Hinter ihr hörte sie Sorel tief atmen, weiter rechts hustete Maren trocken.
 
 „Maren."
 
-Sie ging die sechs Schritte zu Maren hinüber und kniete neben ihr. Sie nahm die gute rechte Hand von der blutenden Schulter und legte ihre eigene an die Stelle, an der das Blut in den Stoff trat. Die Bewegung saß in den Händen, sie hatte sie einmal bei Sorel gelernt.
+Alphina ging zu ihr hinüber und kniete sich neben sie. Sie nahm Marens rechte Hand von der blutenden Schulter und legte ihre eigene auf die Stelle, an der das Blut in den Stoff trat. Die Bewegung saß ihr inzwischen in den Händen, weil sie sie einmal bei Sorel gelernt hatte.
 
-„Das reißt —"
+„Das reißt", sagte Maren durch die Zähne.
 
 „Ich weiß."
 
-Sie hielt die Hand an der Stelle. Die Wärme begann unter der Handfläche, dann unter Marens Haut. Maren machte kein Geräusch. Sie zog den Atem bis in den Bauch und hielt ihn dort.
+Alphina hielt die Hand an der Wunde. Die Wärme begann unter ihrer Handfläche, dann unter Marens Haut. Maren machte kein Geräusch. Sie zog den Atem bis in den Bauch und hielt ihn dort.
 
-Alphina spürte die Ränder der Wunde unter ihren Fingern: den Stoff, das warme Blut, den Saum eines kleinen, präzisen Schnitts. Die Ränder gingen aufeinander zu, langsamer als damals bei Sorels Hand. Unter der Hautschicht zog es. Faser um Faser. Alphinas eigene Hand zitterte so sehr, dass sie sie mit der anderen festhalten musste. Das Blut an Marens Schulter wurde kühler. Die Stelle zog sich zusammen. Was offen blieb, war jetzt klein genug, dass Stoff und Zeit den Rest tun konnten.
+Alphina spürte die Ränder der Verletzung: Stoff, warmes Blut, den Saum eines kleinen, präzisen Schnitts, der viel zu tief gegangen war. Die Ränder bewegten sich aufeinander zu, langsamer als damals bei Sorels Hand. Faser um Faser. Ihre eigene Hand zitterte so stark, dass sie sie mit der anderen festhalten musste.
 
-Alphina nahm die Hand ab.
+Das Blut an Marens Schulter wurde kühler.
 
-Alphinas Hand war nass. Das Blut an ihren Fingern war noch warm, mit einem Unterton, den sie nicht kannte — nicht Eisen, nicht Kupfer. Sie wischte die Hand nicht ab. Sie ließ sie auf dem Oberschenkel liegen, Fläche nach oben, und die Finger zitterten noch einmal in einer Welle durch den Unterarm.
+Die Stelle zog sich zusammen.
 
-„Da bleibt eine Narbe", sagte sie. Ihre Stimme klang zwei Halbtöne tiefer, als sie sie kannte.
+Was offen blieb, war klein genug, dass es von selbst zuheilen würde.
 
-„Gut." Marens Kiefer war hart.
+Alphina nahm die Hand ab. Das Blut an ihren Fingern war noch warm und roch nach etwas, das sie nicht kannte, nicht nach Eisen, nicht nach Kupfer. Sie wischte es nicht fort. Die Hand blieb auf dem Oberschenkel liegen, die Fläche nach oben, während eine letzte Welle durch ihre Finger lief.
 
-Vesper saß auf dem Boden, nicht weit von ihnen, mit beiden Handflächen flach auf der Erde. Er sah aus, als prüfe er einen Untergrund. Sein Gesicht hatte die Farbe verloren. Er hob den Blick, kurz, zu Alphina, dann zur Skulptur.
+„Da bleibt eine Narbe", sagte sie. Ihre Stimme klang tiefer, als sie sie kannte.
 
-„Das haben wir gemacht."
+Marens Kiefer war hart. „Gut."
 
-Niemand antwortete. Der süße Geruch lag jetzt auf Brusthöhe. Alphinas Hände rochen nach Erde und nach etwas darunter, das sie nicht kannte — warm, pflanzlich, fremd.
+Vesper saß nicht weit von ihnen entfernt auf dem Boden, beide Handflächen flach in der Erde, als prüfe er einen Untergrund. Sein Gesicht hatte die Farbe verloren. Er hob den Blick, erst zu Alphina, dann zu der Holzgestalt.
 
-Sie standen eine lange Minute so. Die Sonne war noch ein Stück weiter geschoben. Im Garten setzten die Finken wieder ein, erst einer, dann drei, dann der ganze Mauerfuß. Eine Amsel, weit hinten, gab einen einzelnen Ruf.
+„Das haben wir gemacht", sagte er.
 
-Die Skulptur stand.
+Niemand antwortete.
 
-Die äußeren Triebe reckten sich noch, minimal. Alphina ging einen Schritt näher. Das Holz roch nach frischem Splint unter der Rinde, und unter dem Splintgeruch lag der süße vierte Geruch, den sie heute morgen schon bemerkt hatte. In den Wurzeln war er schwächer. Aber er war da.
+Der süße Geruch lag inzwischen auf Brusthöhe. Alphinas Hände rochen nach Erde und nach etwas darunter, warm, pflanzlich, fremd.
 
-Sorel stand an der östlichen Kante des Kreises. Sein Stativ lag am Boden. Die kleine Kamera lag daneben.
+Eine lange Minute verging. Dann kamen die Geräusche des Gartens zurück. Erst ein einzelner Fink am Mauerfuß, dann drei, dann die unruhige Bewegung ganzer kleiner Körper im Gebüsch. Eine Amsel rief weit hinten einmal.
 
-An der Innenseite ihres Ellbogens war die Stelle, wo seine Finger gelegen hatten, noch warm.
+Die Skulptur stand weiter.
 
-Alphina drehte den Kopf, kurz, und traf seinen Blick.
+Ihre äußeren Triebe bewegten sich kaum merklich.
 
-Sie hielt ihn eine Sekunde. Zwei. Drei. Dann ließ sie den Blick los und sah wieder die Skulptur an.
+Alphina ging einen Schritt näher. Das Holz roch nach frischem Splint unter Rinde, und unter diesem Geruch lag wieder der süße vierte Geruch vom Morgen. Schwächer jetzt, aber eindeutig.
 
-Vesper stand auf. Er schwankte einmal und hielt sich am nächsten Stein.
+Sorel stand an der östlichen Kante des Kreises. Sein Stativ lag am Boden, die kleine Kamera daneben. An der Innenseite von Alphinas Ellbogen war die Stelle, an der seine Finger gelegen hatten, noch warm. Sie drehte den Kopf und traf seinen Blick.
 
-Er ging die drei Schritte zum Stein, an dem Alphina vor zwei Wochen die Hand gehabt hatte, und legte seine rechte Hand an die Innenseite, auf eine Stelle, die bei Tageslicht einen Hauch heller war als der Rest. Er nickte, kaum.
+Sie hielt ihn, länger, als sie vorgehabt hatte. Dann sah sie wieder zur Skulptur.
 
-„Er ist wärmer."
+Vesper stand auf. Er schwankte einmal und hielt sich am nächsten Stein fest, bevor er die drei Schritte zu jener Stelle ging, an der Alphina vor zwei Wochen die Hand gehabt hatte. Er legte die rechte Hand an die Innenseite des Steins, auf eine Fläche, die bei Tageslicht einen Hauch heller war als der Rest.
+
+„Er ist wärmer", sagte er.
 
 Alphina sah auf. „Der Stein?"
 
 „Ja."
 
-„Wie wärmer?"
+„Wie warm?"
 
-„Nicht heiß. Einen Hauch über Handwärme. Er hat etwas aufgenommen."
+„Nicht heiß. Einen Hauch über Handwärme." Er nahm die Hand nicht sofort weg. „Er hat etwas aufgenommen."
 
-Vesper nahm die Hand vom Stein. Er ging zu Maren und hielt ihr die rechte Hand hin. Sie nahm sie, und er zog sie hoch. Ihre linke Schulter hing tiefer als die rechte.
+Dann ging er zu Maren und hielt ihr die rechte Hand hin. Sie nahm sie, und er zog sie hoch. Ihre linke Schulter hing tiefer als die rechte.
 
-Maren sah sich um. Sieben Steine, hüfthoch, in einem Kreis. Sie hatte den Kreis schon einmal gesehen, gezeichnet, auf einem Blatt, das seit Wochen in ihrer Werkbank lag.
+Maren sah sich im Kreis um. Sieben Steine, hüfthoch, die kahle Erde dazwischen, die Holzgestalt in der Mitte. Ihr Kiefer spannte sich.
 
-„Ich kenne das." Sie sagte es flach. „Sieben Steine. Ich kenne das."
+„Ich kenne das", sagte sie.
 
-Vesper drehte den Kopf. „Woher?"
+Vesper drehte den Kopf zu ihr. „Woher?"
 
-„Zuhause. Haron hat es gezeichnet, einmal, auf ein einzelnes Blatt. Ich habe es nicht verstanden." Sie hielt Vespers Blick. „Ich verstehe den Ort jetzt. Das Papier nicht."
+„Zuhause. Haron hat es einmal gezeichnet, auf einem einzelnen Blatt." Sie sah wieder auf die Steine. „Ich habe es nicht verstanden."
 
-„Ich zeige es dir. Morgen."
+„Das Blatt hast du noch?"
 
-„Morgen", sagte Vesper. Dann nickte er.
+„Ja."
 
-Sie sah zu Alphina und Sorel. „Wenn wir wissen, was drauf steht, treffen wir uns wieder."
+„Dann sehe ich es mir an. Morgen."
 
-Alphina nickte. Sorel nickte auch.
+Maren hielt seinen Blick. „Morgen."
 
-Sorel hob die kleine Kamera vom Boden auf. Er trat an die Skulptur heran und hob die Kamera an. Das Licht fiel auf das Holz in einem Ton, den er aus keinem Garten kannte — warm und fremd zugleich, als stünde die Skulptur in einer anderen Tageszeit als der Rest des Kreises. Er senkte die Kamera wieder und hängte sie an den Riemen.
+Dann sah sie zu Alphina und Sorel. „Wenn wir wissen, was darauf steht, treffen wir uns wieder."
 
-Vesper nickte.
+Alphina nickte. Sorel ebenfalls.
 
-Alphina nahm den letzten Blick in die Mitte des Kreises.
+Sorel hob die kleine Kamera vom Boden auf und trat an die Skulptur heran. Er hob die Kamera, hielt inne und senkte sie wieder. Das Licht auf dem Holz war wärmer als überall sonst im Kreis, fremd, als fiele auf die Gestalt eine andere Sonne.
 
-Die Skulptur stand.
+„Nicht jetzt?", fragte Maren.
 
-Die Wärme war noch in den Handflächen. Ihr Atem ging tiefer als vor einer Stunde. Die Schultern waren gerader.
+Sorel schob die Kamera zurück an den Riemen. „Nicht, bevor ich weiß, ob das Bild mir gehört."
+
+Vesper nickte knapp, als verstünde er zu gut, was damit gemeint war.
+
+Alphina nahm den letzten Blick in die Mitte des Kreises. Die Skulptur stand. Die Wärme war noch in ihren Handflächen, und ihr Atem ging tiefer als vor einer Stunde.
 
 „Wir müssen wissen, was das war", sagte sie.
 
-Vesper nickte, knapp. Maren nickte auch.
+„Ja", sagte Vesper.
 
-Sorel hob das Stativ vom Boden und schob es sich über die Schulter. Er ging Richtung Tor. Alphina ging neben ihm, zwei Schritte Abstand.
+Maren nickte. Sorel hob das Stativ auf und schob es sich über die Schulter.
 
-Vesper wartete, bis Maren auf den Füßen war. Sie hielt die rechte Hand auf die linke Schulter, drückte das Mieder fest gegen die Wunde. Der Stoff war schon dunkel, an den Rändern steif.
+Sie gingen Richtung Tor.
 
-Sie gingen. Vesper neben ihr, ohne es zu betonen, einen Schritt hinter Alphina und Sorel. Der Hauptweg war lang. Beetränder rechts und links, Kies knirschte unter jedem Schritt, die große Kastanie auf halber Strecke. Marens Atem ging flach, regelmäßig. Ihr linker Arm hing.
+Alphina und Sorel gingen vorn, zwei Schritte Abstand zwischen sich. Vesper wartete, bis Maren sicher auf den Füßen war, und blieb neben ihr, ohne es zu betonen. Maren hielt die rechte Hand auf die linke Schulter und drückte das Mieder gegen die Wunde. Der Stoff war dunkel und an den Rändern bereits steif.
 
-Unter der Kastanie blieb Vesper einen Moment stehen. Er sprach leise, nicht zu den anderen gerichtet.
+Der Hauptweg war lang. Kies knirschte unter jedem Schritt. Die Beetränder lagen rechts und links in der schrägen Sonne, und die Kastanie warf breite Schatten über den Weg.
 
-„Soll ich bei dir bleiben?"
+Unter der Kastanie blieb Vesper einen Moment stehen.
 
-Maren sah ihn nicht an. Sie sah den Kies vor sich. Das Blut unter ihrer Hand war jetzt steif.
+„Soll ich bei dir bleiben?", fragte er leise, nicht an die anderen gerichtet.
 
-„Nein." Eine Pause. „Danke, Vesper."
+Maren sah nicht zu ihm. Sie sah auf den Kies vor ihren Füßen.
 
-Er nickte, kaum. Nahm die Hand nicht. Ging neben ihr weiter, den restlichen Weg zum Tor.
+„Nein."
 
-Am Tor warteten Alphina und Sorel. Alphina hatte den Schlüssel aus der Tasche gezogen. Sorel stand mit dem Stativ über der Schulter. Maren kam als Vorletzte durch den Bogen. Vesper als Letzter. Er legte die rechte Hand flüchtig an den Torpfosten und nahm sie gleich wieder weg.
+Eine Pause.
+
+Dann: „Danke, Vesper."
+
+Er nickte kaum, nahm ihre Hand nicht und ging neben ihr weiter.
+
+Am Tor warteten Alphina und Sorel. Alphina hatte den Schlüssel schon aus der Tasche gezogen. Sorel stand mit dem Stativ über der Schulter. Maren trat als Vorletzte durch den Bogen, Vesper als Letzter. Er legte die rechte Hand flüchtig an den Torpfosten und nahm sie gleich wieder weg.
 
 Keiner sagte etwas.
 
-Die Nachmittagssonne stand tief. Ein Schatten der Mauer fiel über den Kies vor dem Tor. Marens Atem ging flach. Sorels rechte Hand stand noch dort, wo vorhin Alphinas Ellbogen gewesen war. Er ließ die Hand sinken, als Alphina den Blick auf ihn richtete, und zog sie in die Manteltasche.
+Die Nachmittagssonne stand tief. Der Schatten der Mauer fiel über den Kies vor dem Tor. Sorels rechte Hand stand noch immer an der Stelle, an der sie vorhin Alphinas Ellbogen gehalten hatte. Als Alphina den Blick darauf richtete, ließ er sie sinken und schob sie in die Manteltasche.
 
-Vespers Schultern hingen. Er stand zwei Schritte hinter Maren, die Hand an der Innenseite seines eigenen Brustbeins.
+Vespers Schultern hingen. Er stand zwei Schritte hinter Maren, eine Hand an der Innenseite seines Brustbeins, als horche er in sich hinein.
 
-„Kann es wiederkommen?"
+„Kann es wiederkommen?", fragte Alphina.
 
-Alphina fragte zum Kies vor ihren Stiefeln, nicht zu einem der drei.
+Sie stellte die Frage zum Kies vor ihren Stiefeln, nicht zu einem von ihnen.
 
-Vesper brauchte einen Atemzug.
+Vesper brauchte einen Atemzug, bevor er antwortete.
 
 „Ich weiß es nicht."
 
-Keiner widersprach. Keiner hatte eine andere Antwort. Marens rechte Hand lag über dem Blut an der linken Schulter. Sorel sah auf seine linke Hand, auf den Handrücken, die helle Stelle. Alphina schloss die Hand um den Schlüssel.
+Keiner widersprach. Keiner hatte eine bessere Antwort.
 
-Eine Amsel rief, weit hinten, einmal. Dann nichts.
+Maren hielt die Hand auf der Schulter. Sorel sah auf seinen linken Handrücken, auf die helle neue Haut. Alphina schloss die Finger um den Schlüssel, bis das Metall warm wurde.
 
-Irgendwo stand die Frage, die keiner stellte: Wann. Irgendwo die andere: Was jetzt. Alphina hörte keine Antwort in sich. Sie sah zu Maren. Maren sah zurück, nickte einmal, kaum — die Verabredung um das Blatt lag zwischen ihnen, unausgesprochen, wortgenau da, wo sie sie im Kreis abgelegt hatten. Sorel hatte die Augen schon jenseits der Torkante. Vesper war schon einen Schritt weiter.
+Eine Amsel rief weit hinten. Dann nichts.
 
-Sie traten durch das Tor. Alphina als Letzte. Sie zog es hinter sich zu und drehte den Schlüssel im Schloss. Einmal, zweimal. Das präzise Klicken, das sie vor zwei Monaten gelernt hatte. Sie zog den Schlüssel ab. Das Metall war warm von ihrer Faust. Sie schloss die Hand darum und ließ ihn nicht los.
+Zwischen ihnen standen die Fragen, die keiner aussprach: wann es wiederkam, was jetzt zu tun war, wer den ersten Schritt machte.
 
-Dann gingen sie.
+Alphina sah zu Maren. Maren sah zurück und nickte einmal, kaum sichtbar. Das Blatt. Morgen.
 
-In drei Richtungen. Sorel bog nach rechts zum Hafen ab, das Stativ über der Schulter, die Kamera unter dem Arm. Maren nach links zur Werft, die gute Hand an der Schulter. Alphina und Vesper gingen in dieselbe, aber nicht nebeneinander. Vesper ging voraus. Alphina ließ den Abstand zwischen sich und ihm so weit, dass der süße vierte Geruch zwischen ihnen Platz hatte.
+Sorel sah bereits jenseits der Torkante. Vesper war einen Schritt weiter.
 
-Hinter der Torkante, im Garten, wuchs die Skulptur um eine weitere Linie.
+Sie traten durch das Tor. Alphina als Letzte.
+
+Sie zog es hinter sich zu und drehte den Schlüssel im Schloss, einmal, zweimal, dieses präzise Klicken, das sie vor zwei Monaten gelernt hatte. Als sie den Schlüssel abzog, war das Metall warm von ihrer Faust, und sie ließ ihn nicht los.
+
+Dann gingen sie, nicht gemeinsam.
+
+Sorel bog nach rechts zum Hafen ab, das Stativ über der Schulter, die Kamera unter dem Arm. Maren ging nach links zur Werft, die gute Hand an der Schulter. Alphina und Vesper gingen in dieselbe Richtung, aber nicht nebeneinander. Vesper ging voraus, und Alphina ließ den Abstand zwischen ihnen so weit, dass der süße vierte Geruch darin Platz hatte.
+
+Hinter der geschlossenen Torkante, im Garten, wuchs das Holz weiter.
