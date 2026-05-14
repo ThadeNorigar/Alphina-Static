@@ -340,7 +340,7 @@ Der Wollmantel saß zu. Runa drehte den Schlüssel im Druckereischloss zweimal, 
 
 Sie nahm die Hafengasse aufwärts. Auf halber Strecke verlor sie das Tempo.
 
-Hinter den geschlossenen Läden in Vespers Fenster brannte Licht. Heller als gestern. Heller als sonst. Zwei Lampen, vielleicht drei. Sie trat in den Schatten gegenüber, drei Türen weiter, und sah hin.
+Hinter den geschlossenen Läden in Marens Fenster brannte Licht. Heller als gestern. Heller als sonst. Zwei Lampen, vielleicht drei. Sie trat in den Schatten gegenüber, drei Türen weiter, und sah hin.
 
 Der Schein bewegte sich, Schultern und Köpfe, eine Hand, die einmal hochging. Vier Gestalten am Tisch. Sie zählte zweimal nach. Niemand sonst.
 
