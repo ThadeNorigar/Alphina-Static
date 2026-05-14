@@ -364,6 +364,8 @@ NORMAL bleibt Default für Plot/Dialog/Bewegung — aber in sinnlichen, reflekti
 
 **Der /stil-check prüft zusätzlich:** In als Atmosphäre-/Begehren-/Reflexions-/Beobachtungs-Szene klassifizierten Abschnitten — Anteil Sätze >20W unter 30% → FINDING „Satzbögen fehlen, Mittelbau-Brei".
 
+**Wann geprüft wird:** Die Satzlängen-Verteilung wird **erst auf dem fertigen Kapitel** gegengeprüft (`/stil-check`, Phase 4 der Ausarbeitung), **nicht block-weise** während des Schreibens. Ein einzelner 150–500-W-Block ist zu klein für eine sinnvolle Verteilungs-Statistik; block-weise Quoten-Prüfung zwingt zum künstlichen Verlängern oder Kürzen von Sätzen und bläht das Kapitel mit Ballast auf. Beim Schreiben gelten nur die qualitativen Regeln (vollständige Sätze, kein Stakkato ohne Begründung, Spannungs-Mantra §0.5) — die Verteilung ergibt sich daraus.
+
 ## Kontrollverlust-Momente (Council April 2026)
 
 In jeder Szene mit körperlicher Nähe oder emotionalem Durchbruch: min. **1 Moment wo die Figur NICHT MEHR ANALYSIERT.**

@@ -348,8 +348,9 @@ Voice-Exemplars und Pre-Check-Liste bleiben gültig.
 ### Ebene C — POV-/Figuren-Check
 
 - Berufslinse passt? Alphina darf nicht in Belichtung denken, Sorel nicht in Wurzeln.
-- Satzlaenge unter Figur-Limit? (Alphina ~40W, Sorel ~50W, Vesper ~30W, Maren ~35W)
 - POV-Vokabular? (Alphina: "Nebel"; Sorel: "Dunst"; Vesper: "Dunst")
+
+**NICHT block-weise prüfen:** Satzlängen-Limits pro Figur und die Satzlängen-Verteilung (Pflicht-Mischung pro Szenentyp, KURZ-Cluster, min. 30% Sätze >20W) werden **erst in Phase 4 (/stil-check) auf dem fertigen Kapitel** gegengeprüft. Ein 150–500-W-Block ist zu klein für eine sinnvolle Verteilungs-Statistik — block-weise Satzlängen-Prüfung zwingt den Schreib-Subagent, Sätze künstlich zu verlängern oder zu kürzen, um eine Quote zu erfüllen, und bläht das Kapitel mit Ballast auf. Beim Schreiben gilt nur: vollständige Sätze als Default, kein Stakkato ohne Begründung, das Spannungs-Mantra (§0.5). Die Verteilung ergibt sich daraus — sie wird nicht block-weise erzwungen.
 
 ---
 
