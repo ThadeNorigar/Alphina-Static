@@ -25,6 +25,19 @@
 
 Bei Konflikt zwischen Stufen gewinnt die niedrigere Nummer. Ein Material-Reicher Satz, der „hä?" produziert, ist falsch. Ein simpler verständlicher Satz ohne Material-Streusel ist richtig.
 
+## 0.5 Spannungs-Mantra (gleicher Rang wie Verständlichkeit)
+
+**Spannung entsteht aus Rhythmus, Beobachtung, Subtext und körperlicher Wahrnehmung — nicht aus kurzen dramatischen Sätzen.**
+
+Dieser Satz ist der Leitsatz für jede Prosa-Entscheidung, die Spannung erzeugen soll. Wenn eine Passage spannend wirken soll und der Reflex ist „kurze, harte Sätze" oder „bedeutungsschwerer Einzeiler" — ist der Reflex falsch. Spannung trägt sich über:
+
+- **Rhythmus** — Satzbögen, die sich verdichten oder dehnen, nicht zerhacken.
+- **Beobachtung** — die POV-Figur nimmt die andere Figur wahr (Hand, Mund, Atem, kleine Reaktion), bevor etwas gesagt wird.
+- **Subtext** — was nicht gesagt wird, trägt die Szene; Figuren sagen selten direkt, was sie fühlen.
+- **Körperliche Wahrnehmung** — Begehren, Angst, Zorn zeigen sich im Körper, werden nicht benannt.
+
+Der häufigste Drift-Reflex des Modells ist, Spannung durch Stakkato, Cinematic-Cuts und Pointen herstellen zu wollen. Dieses Mantra ist die Gegenkraft. Es steht auf gleichem Rang wie „Verständlichkeit zuerst" (§0).
+
 ## Harte Limits (weiterhin streng)
 
 | Muster | Max pro Kapitel |
@@ -83,7 +96,7 @@ Einsatzfelder:
 |-------|------------|---------------|-----------|----------|
 | Alphina | 3.P/Prät | ~40W, bricht unter Druck zu Fragmenten | Hände an Erde / Wurzel (greifen, fühlen, halten — KEINE Zahlen, keine Pulszählung) | Kontrolle + Risse. Fragmentsätze NUR wenn die Mauer bricht. Engste 3. Person — der Narrator klebt an ihr, sieht nur was sie sieht, denkt nur was sie denkt. |
 | Sorel | 3.P/Prät | ~50W, lange Sätze erlaubt | Hände (bewahren, arbeiten, halten) | Stille + Beobachtung. Bandwürmer OK, kurze Sätze als Gegenpol. |
-| Vesper | 3.P/Prät | ~30W, Ausnahmen bis ~40W | Turm/Finger (kalkulieren, drehen, stillliegen) | Logisch-präzise. Wenn-Dann-Denken in vollständigen Sätzen. Fragmentsätze NUR bei Schock oder Inventur. |
+| Vesper | 3.P/Prät | ~30W, Ausnahmen bis ~40W | Turm/Finger (kalkulieren, drehen, stillliegen) | Logisch-präzise, klar und direkt. Knapp heißt **vollständig und unverschnörkelt — nicht kurz, nicht abgehackt.** Wenn-Dann-Denken in vollständigen Sätzen; in Reflexions-Passagen auch Satzbögen bis ~40W. Fragmentsätze NUR bei Schock oder Inventur. |
 | Maren | 3.P/Prät | ~35W, fließend | Noch offen (Wasser? Hände am Holz?) | Warm + Bewegung. Fließt wie Wasser, bleibt nie stehen. |
 
 **Die Satzlänge ist MESSBAR.** Der /stil-check prüft das. Überschreitungen werden geflaggt.
@@ -299,7 +312,7 @@ Wenn Alphina etwas nicht weiß, darf der Narrator es nicht andeuten. **Keine pr�
 
 ### Rhythmus im Denken
 
-Lange Reflexion → Stakkato. Frage → Stille. Bandwurm → harter Kurzsatz. Der Strom darf nicht monoton werden.
+Lange Reflexion → ein kürzerer Gegenpol-Satz (vollständig, 8-15W — kein Fragment). Frage → Stille. Bandwurm → ein klarer Gegenpol, nicht zwingend ein hartes Fragment. Der Strom darf nicht monoton werden — aber der Gegenpol erzeugt Rhythmus, nicht Stakkato (§0.5 Spannungs-Mantra).
 
 ### Zusätzliche /stil-check Limits
 
@@ -329,15 +342,27 @@ Drei Register, definiert über Satzlänge:
 | NORMAL | 10-20W | Handlung, Dialog-Umgebung, Mittelbau | Tempo, Klarheit, Fluss |
 | SCHNELL | 3-10W | Kontrollverlust, Schock, Hammerschlag | Aufprall, Bruch, Atem |
 
-**NORMAL ist der häufigste Modus.** Nicht der langsame. Ein Kapitel das überwiegend aus 30-50W-Sätzen besteht, erstickt die Leserin. Der Mittelbau trägt die Geschichte — die langen und kurzen Sätze sind Akzente.
+**NORMAL ist der häufigste Modus** — in Plot-, Dialog- und Bewegungs-Szenen. Nicht in Atmosphäre-, Begehren-, Reflexions- und Beobachtungs-Szenen: dort gilt die Pflicht-Mischung unten (min. 30% Sätze >20W). Ein Plot-Kapitel das überwiegend aus 30-50W-Sätzen besteht, erstickt die Leserin — eine Reflexions-Szene aus 12-Wort-Mittelbau-Brei tut es genauso. Der Mittelbau trägt den Plot, die Satzbögen tragen die sinnliche Spannung.
 
 **Pflicht:** Min. 2 Register pro Kapitel (messbar über Satzlängen-Verteilung). Ein Kapitel das nur in LANGSAM geschrieben ist, hat keinen Rhythmus.
 
 **Der /stil-check prüft (angepasst April 2026):**
 - Anteil Mittelbau-Sätze (10-20W) soll >25% sein
 - Wenn <15%: FINDING (Register-Monotonie)
-- KURZ (1-10W) bis zu 55% ok, darüber: Stakkato-Warnung (außer in Heat-/Schock-Szenen)
+- KURZ (1-10W) bis zu 40% ok, darüber: Stakkato-Warnung (außer in Heat-/Schock-Szenen, dort höher erlaubt). Mehr als 40% Kurzsätze ist ein abgehackter Rhythmus und verstößt gegen das Spannungs-Mantra (§0.5).
 - Satzlängen-Histogramm als Diagnose-Tool im Bericht
+
+### Pflicht-Mischung pro Szenentyp
+
+NORMAL bleibt Default für Plot/Dialog/Bewegung — aber in sinnlichen, reflektierenden und Beobachtungs-Szenen sind **lange fließende Satzbögen Pflicht, nicht nur Erlaubnis**. „Satzbogen" meint flüssig verknüpfte Hypotaxe mit Kommata-Schichten und Nachschlägen — nicht lange Wortzahl als Selbstzweck. Das verhindert den Drift in 12-Wort-Mittelbau-Brei, der entsteht, wenn ein Schreib-Subagent „NORMAL ist der häufigste Modus" als „kurz halten" liest.
+
+| Szenentyp | Pflicht-Mischung | Hinweis |
+|-----------|-----------------|---------|
+| Plot / Dialog / Bewegung | NORMAL (10-20W) dominiert | Mittelbau trägt, Akzente lang/kurz |
+| Atmosphäre / Begehren / Reflexion / Beobachtung | **min. 30% der Sätze >20W**, mindestens ein Satzbogen >25W pro Absatz, der nicht zerhackt wird | LANGSAM aktiv einfordern, nicht nur erlauben |
+| Heat / Schock / Kontrollverlust | SCHNELL als Akzent, eingebettet in NORMAL/LANGSAM-Rahmen | Stakkato bleibt Pflicht-Prüfung pro Einsatz |
+
+**Der /stil-check prüft zusätzlich:** In als Atmosphäre-/Begehren-/Reflexions-/Beobachtungs-Szene klassifizierten Abschnitten — Anteil Sätze >20W unter 30% → FINDING „Satzbögen fehlen, Mittelbau-Brei".
 
 ## Kontrollverlust-Momente (Council April 2026)
 

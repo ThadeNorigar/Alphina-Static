@@ -89,6 +89,7 @@ Das Script liefert auf stdout (~2k Tokens): Kapitel-Info, Nachbar-Kapitel, aktue
 4b. **`buch/pov/{figur}-voice-exemplars.md` — PFLICHT-Lade-Datei (NEU 2026-05-04).** 3–5 kuratierte Passagen aus etablierten Final-Kapiteln, die die gewachsene POV-Stimme verkörpern. Diese Datei wird im Schreib-Subagent-Prompt **wörtlich zitiert** (Voice-Anchoring). Treffe diesen Rhythmus, Material-Anker, POV-Lieblingswörter — schreibe ihn fort, imitiere ihn nicht.
    - **Wenn die Datei fehlt:** STOPP. Vorher `/voice-discovery {figur}` durchführen ODER aus 3–5 besten eigenen Final-Kapitel-Passagen manuell kuratieren. Voice-Anchoring ist die Drift-Bremse — ohne ist die Pipeline blind.
    - **Hintergrund:** Externe Yarros/Maas/SLY-Zitate als Stil-Anker erzeugen Drift (fremde Stimme ≠ eigene Stimme). Eigene etablierte Passagen sind selbst-anker. Pattern aus NousResearch/autonovel `voice_fingerprint.py`.
+4c. **`buch/pov/_paar-dynamik.md` — PFLICHT-Lade-Datei, NUR die Card des im Kapitel vorkommenden Paares.** Kompakte Beziehungs-Dynamik (Kern-Spannung, Sprach-Asymmetrie, Körper-Asymmetrie, was die Szene trägt). Wird im Schreib-Subagent-Prompt mitgegeben. Hält die feine Paar-Asymmetrie wach, die sonst aus mehreren POV-Dossiers implizit zusammenfließen muss. Wenn das Kapitel kein Paar-Beat hat: weglassen.
 5. `buch/01-autorin-stimme.md` — Autorin-Stimme (Register, Begehren-Vokabular, Kontrollverlust-Momente, Erotik-Regeln)
 6. `buch/01-referenz-konkretheit.md` — Konkretheits-Kanon (Material-Erstnennung, Koerperbeat, Vorfeld-Inversion, Sinnes-Trias)
 7. `buch/02-stilregeln-v2.md` — Stilregeln inkl. Konkretheits-Regeln (Ding vor Bild)
@@ -401,6 +402,12 @@ Ein **Voice-Anchored Schreib-Subagent** (Stage 0) generiert den Block, dann lauf
 ```
 Du schreibst einen Block (3–5 Absätze, 150–500 W) für einen Adult-Dark-Romantasy-Roman ("Der Riss"), Buch 1. Du schreibst aus POV-Figur {POV} im Präteritum, dritte Person nah.
 
+## Spannungs-Mantra (oberster Leitsatz)
+
+**Spannung entsteht aus Rhythmus, Beobachtung, Subtext und körperlicher Wahrnehmung — nicht aus kurzen dramatischen Sätzen.**
+
+Wenn dieser Block spannend wirken soll: trage die Spannung über Satzbögen, über die Beobachtung der anderen Figur, über das Ungesagte und über den Körper. NICHT über Stakkato, Cinematic-Cuts oder bedeutungsschwere Einzeiler.
+
 ## Voice-Anchor (verbindlich)
 
 Diese 2 Passagen aus etablierten Final-Kapiteln sind {POV}s gewachsene Stimme. Treffe diesen Rhythmus, diese Material-Dichte, diese POV-Lieblingswörter — schreibe ihn fort, imitiere ihn nicht. Quelle: `buch/pov/{POV}-voice-exemplars.md`.
@@ -427,6 +434,7 @@ Was sie verkörpert:
 - Anti-Patterns POV-spezifisch (Top 5 aus pov/{POV}-schreibblatt.md §8): {Liste}
 - POV-Lieblingswörter (aus Schreibblatt §7): {Liste, mind. 1 aktiv im Block}
 - Material pro Absatz: min 1 benanntes Ding (Kupfer, Leinen, Schiefer, Bleiglas, Talg, Salz, Holz, Pech…)
+- Paar-Dynamik (falls Paar-Beat im Block): {Card aus buch/pov/_paar-dynamik.md — Kern-Spannung, Sprach-Asymmetrie, Körper-Asymmetrie, was die Szene trägt}
 
 ## Harte Verbote (würden Layer-1-Antislop sofort rejecten)
 
@@ -514,6 +522,11 @@ Pruefe (mit Grep wo moeglich), jede Stelle einzeln markieren:
 - **Verb-Wiederholung allgemein:** Wenn dasselbe Verb >2× in einem Block auftaucht (auch jenseits Sein-Verben — `zog/zog/zog`, `kam/kam/kam`) → FINDING „Verb-Tic", mindestens eine Ersetzung vorschlagen.
 - **Negations-Dichte (Lücke aus Audit 2026-05-02):** Zähle pro Block die Marker `nicht`, `nichts`, `kein/e/r/m/n`. Hochrechnen auf 1000W. Bei >15 pro 1000W: FINDING „Negations-Dichte". Sätze mit Negations-Marker einzeln markieren — pro Satz prüfen, ob positive Umformulierung dieselbe Information trägt. Ausnahme: Verweigerung/Abwesenheit als Handlung (echte Negation bleibt). Quelle: `buch/02-stilregeln-v2.md` Z.414-458.
 - **„als hätte/wäre/könnte/würde"-Hypothetische (Lücke aus Audit 2026-05-02):** Zähle pro Block. Limit max 6 pro Kapitel — auf Block-Ebene FINDING bei >2/Block (entspricht Hochrechnung). Pro Treffer prüfen: trägt die Hypothese einen Beat (Charakter-Modus, Vergleichs-Bild) — oder ist sie nur Standard-Anschluss? Default-Anschluss: positiv umformulieren („als hätte sie gewusst" → „sie wusste"). Quelle: `buch/02-stilregeln-v2.md` Z.25.
+- **Marvel-Quip-Register:** witzige Konter, Pop-Selbstironie, schnelle Comebacks ohne Körperbeat — besonders in Dunkelheits-/Heat-/Magie-Szenen. FINDING. Quelle: `buch/01-autorin-stimme.md` §7.
+- **„Für einen Moment" / „einen Augenblick lang" als Floskel-Anschluss:** Pflicht-Prüfung pro Einsatz — trägt der Zeit-Marker einen Beat oder ist er Füll-Übergang? Default streichen. FINDING bei Floskel.
+- **„Er/Sie nickte." als alleinstehender Beat-Satz:** isoliertes Nicken/Kopfschütteln als eigener Mini-Absatz oder Solo-Satz ohne Kontext. FINDING — entweder in einen Körperbeat einbetten oder streichen.
+- **„Etwas veränderte sich" / „etwas verschob sich" / „etwas war anders" als abstrakte Erzähler-Glosse:** FINDING. Konkret benennen, was sich veränderte, oder streichen. Quelle: `buch/02-stilregeln-v2.md` Verquastungs-Test.
+- **Beobachtungs-Beat fehlt (positive Pflicht):** Bei einer Szene mit zwei oder mehr Figuren — gibt es mindestens eine längere Beobachtungs-Schichtung (POV-Figur nimmt die andere Figur körperlich wahr)? Wenn nein → FINDING „Beobachtung fehlt". Quelle: `buch/01-autorin-stimme.md` §4.5.
 
 Output: Tabelle mit Spalten | Zeile | Stelle (woertliches Zitat) | Pattern | alt | neu / [STREICHEN] | warum |
 

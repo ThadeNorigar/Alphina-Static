@@ -154,6 +154,18 @@ Das wichtigste Werkzeug, das bisher FEHLT. Die Figuren sind zu analytisch — si
 
 **Verbot (bleibt):** Dasselbe Bildfeld dreimal im selben Kapitel verwenden. Variation Pflicht, Tic verboten. Wenn Alphina dreimal „Wurzeln" begehrt, ist das Tic.
 
+## 4.5 Beobachtung als Spannungs-Motor (positive Pflicht)
+
+Die Stilregeln verbieten Cross-POV-Mindreading (die POV-Figur darf keine Absichten anderer deuten). Das ist ein **Verbot** — diese Sektion ergänzt die **positive Pflicht**: Figuren beobachten einander.
+
+**Pflicht in jeder Szene mit zwei oder mehr Figuren:** Mindestens **eine längere Beobachtungs-Schichtung** — die POV-Figur nimmt die andere Figur körperlich wahr (Hand, Mund, Kehle, Atem, eine kleine Reaktion, eine Geste), bevor etwas gesagt wird oder als Reaktion auf das Gesagte. Nicht als Inventur-Liste (siehe „Komma-Listen verboten" in den Stilregeln), sondern als Sequenz: was fällt der POV-Figur zuerst auf, was kommt durch Bewegung ins Bild.
+
+**Warum:** Spannung trägt sich über Beobachtung und Subtext (§0.5 Spannungs-Mantra in den Stilregeln). Ohne diese Pflicht produziert die Prosa Szenen, in denen Figuren *nebeneinander handeln* statt einander wahrzunehmen — Plot ohne Unterstrom.
+
+**Grenze zum Mindreading:** Die POV-Figur sieht die **Geste**, nicht die **Absicht**. *„Seine Hand schloss sich um den Becher"* ist Beobachtung. *„als wollte er prüfen, ob…"* ist Mindreading — verboten. Die Leserin zieht die Schlussfolgerung, nicht die POV-Figur.
+
+**Was die Beobachtung trägt:** das Begehren-Register des POV (§4), die Berufslinse als Wahrnehmungsfilter, die Paar-Asymmetrie aus `pov/_paar-dynamik.md`. Alphina nimmt Sorels Hände wahr; Sorel hält Alphinas Gesicht zu lange im Blick; Vesper zählt Marens Atemrhythmus mit; Maren registriert alles und kommentiert wenig.
+
 ## 5. Erotik-Regeln
 
 - **Sensorisch, nie mechanisch:** Atem, Hautkontakt, Temperatur, Geschmack. **Anatomie direkt benannt** (Réage-Prinzip), Empfindung reichlich.
@@ -249,6 +261,7 @@ Früher war hier eine strenge Default-Deny-Tabelle. Für commercial Dark Romanta
 | Geschmack fehlt in Nähe-Szene | **VERBOTEN** | Réage-Pflicht. |
 | „Resonanz" / „Schemen" in Prosa | **VERBOTEN** | Canon-Begriffe, nicht Figuren-Vokabular. |
 | Vulgär-Pornografische Register (*Schaft*, *Muschi*) | **VERBOTEN** | Réage-Klinik-Präzision stattdessen. |
+| Quip-Register (Marvel-Schlagabtausch): witzige Konter, Pop-Selbstironie, schnelle Comebacks ohne Körperbeat | **VERBOTEN** | Kein moderner Banter-Ton. Spannung kommt aus Subtext und Körper, nicht aus Schlagfertigkeit. Verboten besonders in Dunkelheits-, Heat-, Magie-Szenen. Frühes-19.-Jhd.-Register, keine modernen lockeren Formulierungen. |
 
 ### Gebremst, aber nicht verboten
 | Stilmittel | Zielgrenze | Einsatz |
