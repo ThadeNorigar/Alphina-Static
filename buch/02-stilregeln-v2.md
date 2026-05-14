@@ -349,7 +349,7 @@ Drei Register, definiert über Satzlänge:
 **Der /stil-check prüft (angepasst April 2026):**
 - Anteil Mittelbau-Sätze (10-20W) soll >25% sein
 - Wenn <15%: FINDING (Register-Monotonie)
-- KURZ (1-10W) bis zu 40% ok, darüber: Stakkato-Warnung (außer in Heat-/Schock-Szenen, dort höher erlaubt). Mehr als 40% Kurzsätze ist ein abgehackter Rhythmus und verstößt gegen das Spannungs-Mantra (§0.5).
+- KURZ (1-10W): **keine Toleranz-Quote.** Ein einzelner kurzer vollständiger Satz als Gegenpol ist gute Prosa — eine **Häufung** von Kurzsätzen ist ein Stilmittel und unterliegt der Pflicht-Prüfung pro Einsatz (Begründung: Heat, Schock, Hammerschlag, Kontrollverlust, Inventur — siehe „Stakkato-Dosierung"). Das Histogramm dient der Diagnose: KURZ-Cluster ohne begründetes Stilmittel = FINDING „abgehackter Rhythmus", verstößt gegen das Spannungs-Mantra (§0.5). Es gibt keinen Prozentwert, ab dem Kurzsatz-Häufung „ok" ist.
 - Satzlängen-Histogramm als Diagnose-Tool im Bericht
 
 ### Pflicht-Mischung pro Szenentyp
