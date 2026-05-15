@@ -1,17 +1,17 @@
 # Kapitel-Assessment-Datensatz — Buch 1
 
-*Erstellt: 2026-05-14 · 38 finale Kapitel · Strukturierte Daten: `kapitel-scores.json`*
+*Erstellt: 2026-05-14 · 39 finale Kapitel · Strukturierte Daten: `kapitel-scores.json`*
 
 Pro finalem Kapitel ein Subagent (Opus): Council-Assessment (7 Achsen 0-10 + Verdikt + Staerken/Schwaechen + PFLICHT-Findings) + Book-Council-Rating (5 Leserinnen-Archetypen, Marktfaehigkeit 0-100).
 
 ## Aggregat
 
-- **Council-Gesamt Ø:** 8.11 / 10
-- **Book-Council-Gesamt Ø:** 79.6 / 100
-- **FINAL-REIF (Council ≥ 9.0):** 5 / 38 — B1-K01, B1-K05, B1-K19, B1-K20, B1-K30
-- **Book-Council-Verdikt:** alle 38 GRENZWERTIG (70–89) — keine BESTANDEN, keine DURCHGEFALLEN
-- **PFLICHT-Findings gesamt:** 110
-- **Kapitel mit Em-Dash-PFLICHT-Befund:** 20 / 38 — der dominante systemische Stilverstoss
+- **Council-Gesamt Ø:** 8.13 / 10
+- **Book-Council-Gesamt Ø:** 79.7 / 100
+- **FINAL-REIF (Council ≥ 9.0):** 5 / 39 — B1-K01, B1-K05, B1-K19, B1-K20, B1-K30
+- **Book-Council-Verdikt:** alle 39 GRENZWERTIG (70–89) — keine BESTANDEN, keine DURCHGEFALLEN
+- **PFLICHT-Findings gesamt:** 115
+- **Kapitel mit Em-Dash-PFLICHT-Befund:** 20 / 39 — der dominante systemische Stilverstoss
 
 **Achsen-Durchschnitt (Council):**
 
@@ -62,6 +62,7 @@ Schwaechste Achse systemisch: **stil_disziplin** (Ø 6.8) — getrieben von Em-D
 | B1-K33 | Vesper | 7.5 | NICHT-FINAL | 4.5 | 77.3 | GRENZWERTIG | LINA 72 | 2 |
 | B1-K34 | Alle | 8.6 | NICHT-FINAL | 8.5 | 78.7 | GRENZWERTIG | LINA 74 | 2 |
 | B1-K35 | Maren | 8.3 | NICHT-FINAL | 8.5 | 83.0 | GRENZWERTIG | MEIKE 74 | 3 |
+| B1-K36 | Alphina | 8.8 | NICHT-FINAL | 8.0 | 84.3 | GRENZWERTIG | KAYA 78 | 5 |
 | B1-I3 | Elke | 8.4 | NICHT-FINAL | 8.0 | 79.3 | GRENZWERTIG | LINA 74 | 2 |
 
 ## Ranking Council-Gesamt (schwächste zuerst)
@@ -97,6 +98,7 @@ Schwaechste Achse systemisch: **stil_disziplin** (Ø 6.8) — getrieben von Em-D
 - **8.7** B1-K21 (Alphina) — NICHT-FINAL
 - **8.8** B1-K28 (Maren) — NICHT-FINAL
 - **8.8** B1-K31 (Runa) — NICHT-FINAL
+- **8.8** B1-K36 (Alphina) — NICHT-FINAL
 - **8.9** B1-K17 (Maren) — NICHT-FINAL
 - **8.9** B1-K23 (Alphina) — NICHT-FINAL
 - **9.0** B1-K01 (Alphina) — FINAL-REIF
