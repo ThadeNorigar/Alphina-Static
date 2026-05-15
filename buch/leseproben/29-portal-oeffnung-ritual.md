@@ -26,7 +26,7 @@ Sie hatte lange nach einem Namen dafür gesucht. Ein Stoss, fremd, der Erde selb
 
 Aus den Mauerritzen am Sockel des nördlichen Steins, dort wo der Putz seit Jahren abgesprungen war und Erde durchschimmerte, schob sich ein Wedel hervor. Klein. Aufgerollt. Das junge Grün eines Streifenfarns, das in Sekunden öffnete, was sonst Tage brauchte. Ihre Knie meldeten das Anschwellen, ehe ihr Auge es fand.
 
-Am östlichen Stein tat Sorel, was er tat. Aus seinen Handflächen wuchs ein eigenes Licht — dünn, scharfgerandet, sehr genau. Auf dem Purpurstein unter seinen Handballen liefen Linien zusammen, die Alphina kannte, ohne hinzusehen. Das war Sorel. So sah Sorel die Welt, und die Welt sah jetzt zu ihm zurück.
+Am östlichen Stein tat Sorel, was er tat. Über seinen Handflächen sammelte sich das Sternenlicht zu einem dünnen, scharfgerandeten Strahl, sehr genau. Auf dem Purpurstein unter seinen Handballen liefen Linien zusammen, die Alphina kannte, ohne hinzusehen. Das war Sorel. So sah Sorel die Welt, und die Welt sah jetzt zu ihm zurück.
 
 Am westlichen Stein zog Vesper die Zeit zurecht.
 
