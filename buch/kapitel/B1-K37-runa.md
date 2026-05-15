@@ -127,3 +127,43 @@ Runa merkte erst jetzt, dass ihre Finger sich in den Stoff ihres Mantels gekrall
 Der Riss blieb offen, und seine Ränder zuckten unregelmäßig wie etwas Lebendiges. Runa wartete zwischen den Lindenstämmen, ohne zu wissen, worauf eigentlich. Vielleicht verging nur eine halbe Minute. Vielleicht länger. Das kniehohe Wesen neben ihr rührte sich nicht und sah weiterhin in den Kreis, aufmerksam und vollkommen ruhig, während die Öffnung langsam kleiner wurde. Nicht schnell, aber sichtbar. Die beiden Monde rückten enger zusammen. Die Halme dahinter verschwammen. Der Riss zog sich zusammen wie eine heilende Wunde, und noch bevor der Gedanke sich vollständig in ihr formte, hatte ihr Körper längst entschieden.
 
 Sie stand auf und ließ die ungezündete Laterne neben dem Stamm zurück. Das kleine Wesen bewegte sich nicht, als sie an ihm vorbeiging. Runa lief. Die Farne reichten ihr inzwischen bis gegen die Schenkel und strichen feucht über den Stoff ihres Mantels. Nebel schlug ihr kühl gegen das Gesicht und sammelte sich in ihren Haaren, während sie durch den Kreis lief, zwischen zwei der dunklen Gestalten hindurch, die am Rand des Gartens standen wie Wächter aus Holz und Schatten. Keine von ihnen wich ihr aus. Keine stellte sich ihr in den Weg. Zwischen Daumen und Zeigefinger zog die alte Wärme dichter an, vertraut wie immer. Der Riss lag direkt vor ihr. Seine Ränder zitterten sichtbar, und das Licht dahinter war schmal geworden, nur noch ein heller Schnitt in der Dunkelheit. Noch zwei Schritte. Einer. Dann warf sie ihr Gewicht nach vorne und sprang, nicht geplant, nicht vorsichtig, sondern mit der blinden Gewissheit eines Körpers, der längst entschieden hatte, bevor der Verstand folgen konnte, und für einen einzigen lautlosen Augenblick ging sie durch die offene Wunde im Raum, durch kalten Nebel und Licht, das nicht von dieser Welt war. Der Geruch veränderte sich sofort. Trockenere Erde. Zerdrückte Halme. Und über ihr zwei Monde.
+
+Der Boden war Stein.
+
+Runa stand auf den Knien, die Handflächen flach auf der Oberfläche, und der Stein unter ihr war nicht Garten-Erde und nicht Pflasterstein aus Vael, sondern etwas Flaches, Altes, mit feinen Rissen wie in einer Schreibtafel, die jemand fallen gelassen hatte. Die fremden Halme drängten sich von rechts gegen ihren Unterschenkel, trocken und ohne Geruch. Sie richtete sich auf.
+
+Zwei Monde standen klein und hoch am Himmel, zu weit voneinander entfernt, um dieselbe Herkunft zu haben. Die Luft war dichter als in Vael, mineralisch, fast wie beim Betreten eines alten Kellers, und die Stille darunter war vollständig: kein Laternenpfahl im Wind, kein Linden-Rascheln, nichts außer ihrem eigenen Atem.
+
+Den Nebel gab es nicht mehr. Hinter ihr war er geblieben, in Vael, zusammen mit allem anderen.
+
+Sie sah sie in drei Schritt Distanz.
+
+Alphina, Sorel, Maren, Vesper, alle vier im Sternlicht der Monde, und sie standen auf eine Art, die falsch war, die jeden Körper falsch sein ließ, weil kein Mensch so stand, weder gelangweilt noch erschöpft noch wartend. Sie standen wie Figuren auf einem Foto, das man mitten in der Bewegung aufgenommen hatte. Sorel direkt vor Alphina, einen Schritt davor, die Schultern aufgezogen, als hätte er sich gerade zwischen sie und etwas anderes stellen wollen und sei mitten in der Bewegung erstarrt. Maren neben Sorel, ein Arm halb im Heben. Alphinas Kopf leicht nach links geneigt, der Mund offen. Vesper hinter ihnen, den Blick auf eine Stelle im Boden gerichtet, die Runa nicht sehen konnte. Keiner von ihnen rührte sich. Keiner von ihnen sah sie.
+
+Drei Schritt vor ihnen stand der Mann.
+
+Dunkler Mantel, einen halben Kopf größer als Sorel, eine Hand unter Alphinas Kinn, die Fingerspitzen leicht gegen die Haut gelegt, mit derselben ruhigen Bündelung, mit der ein Handwerker eine Arbeit hielt, die er hundertmal gemacht hatte. Sein Gesicht war auf Alphina gerichtet, die Konzentration darin vollkommen, ohne Anstrengung, ohne Schweiß.
+
+Im Schatten links von ihm wartete das Wesen.
+
+Es stand auf den Hinterbeinen und war so groß wie ein Pferd, breiter als ein Pferd, vier Arme aus den Schultern gewachsen und an den Enden Klauen so breit wie Schlachtmesser, und die Augen waren schwarz ohne Lid, ohne Weiß, ohne Reflexion. Und darunter, kniehohe Schatten in zwei oder drei Stellen, dieselben schwarzen Augen, dieselbe reglose Aufmerksamkeit. Alle warteten.
+
+Runa wartete nicht.
+
+Sie brüllte, und der Laut riss sich aus ihr los beim ersten Schritt, roh und ohne Worte, und sie war bereits im Lauf, die Arme am Körper, die Stiefel auf dem Flachstein, und die Distanz zu dem Mann betrug drei Schritt und dann zwei Schritt, und sie hörte sich selbst nicht mehr.
+
+Der Mann sah sie.
+
+Einen halben Atemzug lang, nicht mehr: die Augen hoben sich von Alphina zu ihr, und was Runa darin sah war keine Überraschung im Sinne von Erschrecken, sondern Verschiebung. Er sah sie an wie jemand, der eine Rechnung neu aufstellt. Er rechnete sie ein.
+
+Dann löste er sich.
+
+Nicht von Alphina weg, aber der Arm veränderte seine Ausrichtung, und in dieser Verschiebung registrierte Runa etwas mit den Augenwinkeln: Alphina ruckte, kaum merklich, den Kopf nach links, und der Arm hob sich, und Sorels Schultern fielen, und die eingefrorene Stille in den Vier brach sich auf wie Eis, das unter einem ersten Schritt nachgibt.
+
+Sorel gab zuerst nach.
+
+Er warf sich vorwärts auf den Mann, nicht als Schlag und nicht als Ringen, sondern als Ganzkörper-Schwung, beide Hände fassend in den Mantel-Aufschlag an der Brust, der Körper noch im Bogen des Aufpralls, der Schwung noch im Vorwärts, der Schwerpunkt noch in der Luft.
+
+Im Schatten links hoben sich die Klauen.
+
+Das pferdgroße Wesen drehte sich. Darunter die kniehohen Schatten, ihre Klauen an den Enden der kurzen Vorderbeine, aufgerichtet, wartend, und Runa war noch einen Schritt entfernt, noch im Lauf, und sie sah alles gleichzeitig: Sorel im Sprung, der Mann unter ihm, beide Hände in den Mantelaufschlag gefasst und der Schwung noch oben; und links im Schatten das Wesen, vier Klauen wie Schlachtmesser, die sich aus der Ruhe lösten.
