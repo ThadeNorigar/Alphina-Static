@@ -39,8 +39,17 @@ lines.append(f"- **Book-Council-Gesamt Ø:** {avg_book:.1f} / 100")
 lines.append(f"- **FINAL-REIF (Council ≥ 9.0):** {len(final_reif)} / {n} — {', '.join(final_reif) if final_reif else 'keine'}")
 lines.append(f"- **Book-Council-Verdikt:** alle {n} GRENZWERTIG (70–89) — keine BESTANDEN, keine DURCHGEFALLEN")
 lines.append(f"- **PFLICHT-Findings gesamt:** {pflicht_total}")
-lines.append(f"- **Kapitel mit Em-Dash-PFLICHT-Befund:** {len(emdash_kap)} / {n} — der dominante systemische Stilverstoss")
+lines.append(f"- **Kapitel mit Em-Dash-PFLICHT-Befund:** {len(emdash_kap)} / {n}")
 lines.append("")
+
+sweep_notes = meta.get("sweep_notes", [])
+if sweep_notes:
+    lines.append("### Sweep-Notes")
+    lines.append("")
+    for note in sweep_notes:
+        lines.append(f"- {note}")
+    lines.append("")
+
 lines.append("**Achsen-Durchschnitt (Council):**")
 lines.append("")
 lines.append("| " + " | ".join(axes) + " |")

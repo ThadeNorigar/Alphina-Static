@@ -21,7 +21,14 @@
     ],
     "book_council_verdikt": ">=90 BESTANDEN / 70-89 GRENZWERTIG / <70 DURCHGEFALLEN",
     "anzahl_kapitel": 39,
-    "hinweis": "Heat-Achse bei No-Heat-/Plot-/Interludien-Kapiteln niedrig bewertet, nicht null. Book-Council-Stimmen sind null, wenn das Kapitel nicht ihr Register ist."
+    "hinweis": "Heat-Achse bei No-Heat-/Plot-/Interludien-Kapiteln niedrig bewertet, nicht null. Book-Council-Stimmen sind null, wenn das Kapitel nicht ihr Register ist.",
+    "sweep_notes": [
+      "2026-05-15: Em-Dash-Sweep (commits 8660f10 + ebb17d8): 889 Em-Dashes aus 26 finalen Kapiteln entfernt.",
+      "2026-05-15: 'halb X' + 'nicht X, sondern Y' Sweep (commit 20bee4e): ~61 Tic-Stellen ent-tickt, funktionale Reste behalten.",
+      "2026-05-15: Mini-Tic-Sweep (commit 291eee7): 'Resonanz' (K03/K22/I2) + 'Session' (K27) ersetzt.",
+      "PFLICHT-Findings, die sich ausschliesslich auf die gesweepten Tics bezogen, wurden aus dem Datensatz entfernt.",
+      "Hinweis: Council-Gesamt-Scores nicht neu erhoben. Fuer aktuelle Final-Reife-Beurteilung der gesweepten Kapitel Neu-Erhebung notwendig."
+    ]
   },
   "kapitel": [
     {
@@ -118,10 +125,6 @@
             "problem": "'Wellenlaenge' — Newton-Epoche-Wissenschaftsvokabel, in Thalassien-Prosa verboten"
           },
           {
-            "zeile": "7,11,21,27,49+",
-            "problem": "Em-Dash (—) als Tic durch das ganze Kapitel — harte Stilregel"
-          },
-          {
             "zeile": "155",
             "problem": "'Sein Puls haemmerte in der Halsschlagader' — 'Puls' als abstraktes Substantiv, Koerperstelle allein benennen"
           },
@@ -182,10 +185,6 @@
         ],
         "pflicht_findings": [
           {
-            "zeile": "7,19,25,29,49,53,93,101,161,211+",
-            "problem": "Em-Dash (—) durchgehend in der Prosa — 'Keine Gedankenstriche'"
-          },
-          {
             "zeile": "173,283",
             "problem": "X-ist-Y-Pointe als Absatz-Schluss — Scharnier-Aphorismus"
           }
@@ -238,14 +237,6 @@
           "Eroeffnung Atmosphaere-naeher als Hook"
         ],
         "pflicht_findings": [
-          {
-            "zeile": "115",
-            "problem": "Em-Dash in Prosa: 'Danach —' — verbotener Gedankenstrich"
-          },
-          {
-            "zeile": "107",
-            "problem": "Em-Dash in Prosa: 'War er —'"
-          },
           {
             "zeile": "27,139,153,199",
             "problem": "Stakkato-Ketten ueber Hammerschlag-Quote ('Trat ein.', 'Zehn.', 'Zwei. Drei.', 'Langsamer. Langsamer.')"
@@ -303,10 +294,6 @@
           "Scharnier-Aphorismus-Muster"
         ],
         "pflicht_findings": [
-          {
-            "zeile": "7,11,35,49,53,65",
-            "problem": "Em-Dash (—) in der Prosa — hartes Verbot, 7 Vorkommen"
-          },
           {
             "zeile": "59,61",
             "problem": "'Puls' als abstraktes Substantiv fuer den Fels mehrfach"
@@ -369,16 +356,8 @@
         ],
         "pflicht_findings": [
           {
-            "zeile": "7,11,15,21,33,39+",
-            "problem": "Em-Dashes (—) durchgehend in der Prosa — hartes Verbot"
-          },
-          {
             "zeile": "51",
             "problem": "'nicht ruckartig ... sondern langsam' — 'nicht X sondern Y' ohne Beat-Funktion"
-          },
-          {
-            "zeile": "243",
-            "problem": "'Nicht den Koerper — nur den Kopf' — Em-Dash plus 'nicht X'-Konstruktion"
           }
         ]
       },
@@ -429,10 +408,6 @@
           "Anaphern-/Wiederholungsdichte grenzwertig"
         ],
         "pflicht_findings": [
-          {
-            "zeile": "7,13,19,31,49,61,67,108,122,124",
-            "problem": "Em-Dash (—) in der Prosa — hart verboten"
-          },
           {
             "zeile": "183",
             "problem": "'derselbe Puls darunter' — 'Puls' als abstraktes Substantiv verboten"
@@ -490,10 +465,6 @@
           "Anaphern-/Wiederholungsdichte am Kapitelende"
         ],
         "pflicht_findings": [
-          {
-            "zeile": "35,67,197",
-            "problem": "Em-Dashes in der Prosa — hart verboten"
-          },
           {
             "zeile": "133,201",
             "problem": "'Puls' als abstraktes Substantiv zweimal"
@@ -556,10 +527,6 @@
         ],
         "pflicht_findings": [
           {
-            "zeile": "7,11,17,25,29,33,37,49+",
-            "problem": "Em-Dash (—) in der Prosa — hartes Verbot, 25+ Vorkommen"
-          },
-          {
             "zeile": "177",
             "problem": "'bis er im Takt schlug' — 'Takt' auf Erd-Pochen verboten"
           },
@@ -621,14 +588,6 @@
         ],
         "pflicht_findings": [
           {
-            "zeile": "5,7,11,13,15,21,27,65,75",
-            "problem": "Em-Dash (—) durchgehend in der Prosa — verboten"
-          },
-          {
-            "zeile": "27",
-            "problem": "'eine Resonanz zwischen zwei Materialien' — 'Resonanz' ist Canon-Begriff, in Prosa verboten"
-          },
-          {
             "zeile": "31",
             "problem": "'der Puls des Felsens' / 'denselben Puls' — 'Puls' als abstraktes Substantiv vermeiden"
           },
@@ -685,10 +644,6 @@
           "Stellenweise Figur-redet-ueber-sich"
         ],
         "pflicht_findings": [
-          {
-            "zeile": "5,17,29,53,89,156,176,265,301,333",
-            "problem": "Em-Dash (—) in der Prosa — Verstoss gegen Gedankenstrich-Verbot"
-          },
           {
             "zeile": "11",
             "problem": "Scharnier-Aphorismus 'Die Waerme im Boden war aelter. Die ganze Stadt lag darauf.'"
@@ -747,10 +702,6 @@
         ],
         "pflicht_findings": [
           {
-            "zeile": "5,7,9,17,23,35,65,91,105,131+",
-            "problem": "Em-Dashes (—) flaechendeckend — harter Verstoss gegen das Gedankenstrich-Verbot"
-          },
-          {
             "zeile": "228",
             "problem": "'Sie pochte in einem eigenen Takt' — 'Takt' ist Vesper-Wort, strikt auf Uhr/Werk begrenzt"
           }
@@ -806,10 +757,6 @@
           {
             "zeile": "266,402,408",
             "problem": "'Takt' auf die Brust angewendet und ueber Max-2-Quote — Canon: strikt Uhr/Werk/Pendel"
-          },
-          {
-            "zeile": "19,80,126,150,170,332",
-            "problem": "Em-Dashes in der Prosa — Gedankenstriche verboten"
           },
           {
             "zeile": "300",
@@ -871,14 +818,6 @@
           {
             "zeile": "28",
             "problem": "'Niemand sonst in Vael hatte diesen Bart' — Canon-Bruch (Sorel glatt rasiert) + kryptischer Meta-Kommentar + Sorel-Prinzip-Bruch"
-          },
-          {
-            "zeile": "6,16,24,32,36+",
-            "problem": "Durchgehender Em-Dash-Einsatz — harter Verstoss gegen das Gedankenstrich-Verbot"
-          },
-          {
-            "zeile": "192",
-            "problem": "'halb abgewandt' — 'halb X' ohne zwingende Funktion"
           }
         ]
       },
@@ -1246,10 +1185,6 @@
         ],
         "pflicht_findings": [
           {
-            "zeile": "11,13,39,193,241",
-            "problem": "'nicht X, sondern Y'-Antithese als Tic ueber das ganze Kapitel"
-          },
-          {
             "zeile": "117",
             "problem": "'Nicht Angst. Scham.' — Antithese-Fragment plus benannte Emotion als Substantiv"
           },
@@ -1471,10 +1406,6 @@
         ],
         "pflicht_findings": [
           {
-            "zeile": "5,9,11,15,19,27,41,43,49,51,55,105,119",
-            "problem": "Em-Dash (—) in der Prosa durchgehend — harter Stilverstoss"
-          },
-          {
             "zeile": "27",
             "problem": "'Marens Stiefel fanden ihren Takt in den Fugen' — 'Takt' nur bei Uhr/Werk erlaubt"
           },
@@ -1597,10 +1528,6 @@
         ],
         "pflicht_findings": [
           {
-            "zeile": "13,23,43,45,49,53,71,77,79,81,145,151",
-            "problem": "Em-Dashes (—) in der Prosa — harter Verstoss gegen 'Keine Gedankenstriche'"
-          },
-          {
             "zeile": "7",
             "problem": "'der Takt, den sie inzwischen kannte' — 'Takt' strikt Uhr/Werk, ist Vesper-Vokabular nicht Alphina-POV"
           },
@@ -1666,10 +1593,6 @@
         ],
         "pflicht_findings": [
           {
-            "zeile": "5,11,13,19,21,25,27,33,41,53,61",
-            "problem": "Em-Dash (—) in der Prosa durchgehend verwendet — Gedankenstrich-Verbot"
-          },
-          {
             "zeile": "35",
             "problem": "'Sie wollte Alphina. Koerperlich.' — benannte Emotion/Begehren als Aussage im Erzaehlregister"
           }
@@ -1722,14 +1645,6 @@
           "Vereinzelt Antithese-Konstruktionen ohne zwingende Beat-Funktion"
         ],
         "pflicht_findings": [
-          {
-            "zeile": "5,7,19,23,53,65,73,87,89,93,101,103,111,113,131",
-            "problem": "Durchgehender Em-Dash-Einsatz in Prosa und Dialog — harter Verstoss gegen das Gedankenstrich-Verbot"
-          },
-          {
-            "zeile": "87",
-            "problem": "'Nicht ungefaehr — exakt.' — Antithese plus Em-Dash, traegt keinen Beat"
-          },
           {
             "zeile": "43-101",
             "problem": "Reihum-Auflistung der Faehigkeiten/Funde (Information-Dialog-Anti-Pattern §10) — Bericht statt verbale Handlung"
@@ -1784,16 +1699,8 @@
         ],
         "pflicht_findings": [
           {
-            "zeile": "5,15,23,25,27,29+",
-            "problem": "Em-Dash (—) in der Prosa flaechendeckend — verboten"
-          },
-          {
             "zeile": "15",
             "problem": "'Maren kannte den Takt' — 'Takt' strikt Uhr/Werk/Pendel, hier fuer Nachtwaechter-Schritte missbraucht"
-          },
-          {
-            "zeile": "215",
-            "problem": "'Das Pochen aus der Session' — Anglizismus, Epoche-1820-Bruch"
           },
           {
             "zeile": "157,175",
@@ -1909,10 +1816,6 @@
           "Viele Sein-Verben in der Verstaerken-Sequenz, teils Tic-nah"
         ],
         "pflicht_findings": [
-          {
-            "zeile": "8,10,30,32,36,46,52,56,62,64,66,70,80,82",
-            "problem": "Em-Dash (—) durchgaengig in der Prosa — hart verboten"
-          },
           {
             "zeile": "95",
             "problem": "Schluss 'wieder etwas' grenzt an kryptischen Meta-Kommentar/Narrator-Glosse"
@@ -2116,10 +2019,6 @@
         ],
         "pflicht_findings": [
           {
-            "zeile": "7,9,11,13,17,19,23,29,35,37,45,47,55,57,67,75,79,81,83,87,95,101,137,151,155,161,185,197,217,219",
-            "problem": "Em-Dash (—) in der Prosa durchgaengig dutzendfach — muss komplett ersetzt werden"
-          },
-          {
             "zeile": "47,51,69,71,73,101",
             "problem": "Fragment-Marker 'Zug.' / 'Druck.' als Absatz-Einwuerfe wiederholen sich tic-artig"
           }
@@ -2296,10 +2195,6 @@
           {
             "zeile": "9",
             "problem": "'Sie bemerkte ihn frueher, als sie ihn sah' — verquaste Pseudo-Logik-Konstruktion, muendlicher Lese-Test schlaegt fehl"
-          },
-          {
-            "zeile": "105",
-            "problem": "'halb schlafend' — halb-Tic ohne erzaehltechnisch zwingende Funktion, Default = streichen oder ersetzen ('schlaftrunken', 'kurz vor dem Einschlafen')"
           },
           {
             "zeile": "41",
