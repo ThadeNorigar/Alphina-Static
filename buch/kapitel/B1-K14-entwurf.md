@@ -76,7 +76,7 @@ Sie geht. Sechs, sieben Schritte. Der Fuhrmann schaut nicht auf. Der Wirt nickt 
 - Vespers Tisch im *Anker* (K11, etabliert) — der Ort ist keine Überraschung, die Dom/Sub-Saat ist es
 
 **Cross-POV-Ankerpunkte:**
-- Vespers Tisch im *Anker*, Samtrolle, Werkzeuge, Filzlappen, Petroleumlampe: konsistent mit K11 (*11-vesper.md*)
+- Vespers Tisch im *Anker*, Samtrolle, Werkzeuge, Filzlappen, Petroleumlampe: konsistent mit K11 (*B1-K11-vesper.md*)
 - Wirt: groß, grau, aufgekrempelte Ärmel, trocknet Gläser — konsistent mit K11
 - Grauwe rückwärts: konsistent mit K04, K08 (Tohl), K10 (Sorel-Rand) — *muss* hier noch aktiv sein, K19 (reduziert)
 - Harons Name: taucht auf ohne Erklärung (Maren nennt ihn beiläufig) — konsistent mit Marens Nichtwissen über Harons Moragh-Verbindung

@@ -6,7 +6,7 @@ Du prüfst ein Kapitel von "Der Riss" auf Stilprobleme. Systematisch, mit Zahlen
 
 ## Input
 
-`$ARGUMENTS` = Pfad zur Kapitel-Datei (z.B. `buch/kapitel/02-sorel.md`)
+`$ARGUMENTS` = Pfad zur Kapitel-Datei (z.B. `buch/kapitel/B1-K02-sorel.md`)
 
 Wenn kein Argument: frage welche Datei.
 
@@ -16,7 +16,7 @@ Lies parallel:
 1. **`buch/00-positioning.md` ZUERST** — Marktposition, Zielgruppe, Stilvektoren. Ton-Findings werden gegen dieses Positioning gemessen: commercial Dark Fantasy/Romantasy/BDSM für Leserinnen 20-45 (Yarros/Maas/Robert/Simone/Réage), literary-Disziplin nur als Handwerks-Untergrund. Bei Konflikt zwischen Stilregeln und Positioning gilt Positioning.
 2. Die Kapitel-Datei
 3. `buch/02-stilregeln-v2.md` — Stilregeln
-4. `buch/kapitel/01-alphina.md` — Referenzton (Kapitel 1 ist der Maßstab)
+4. `buch/kapitel/B1-K01-alphina.md` — Referenzton (Kapitel 1 ist der Maßstab)
 5. Das VORHERIGE Kapitel (für Stil-Konsistenz)
 
 Bestimme:

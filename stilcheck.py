@@ -7,9 +7,9 @@ Findet rhetorische Signposts, hypothetische Konstruktionen, Vergleiche,
 Stakkato-Dichte und weitere Muster.
 
 Nutzung:
-    python stilcheck.py buch/kapitel/08-maren.md
+    python stilcheck.py buch/kapitel/B1-K08-maren.md
     python stilcheck.py buch/kapitel/*.md          # mehrere Dateien
-    python stilcheck.py buch/kapitel/08-maren.md --strict  # exit 1 bei Verstößen
+    python stilcheck.py buch/kapitel/B1-K08-maren.md --strict  # exit 1 bei Verstößen
 
 Exit Code:
     0 = alle Limits eingehalten

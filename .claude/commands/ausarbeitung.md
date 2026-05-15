@@ -95,7 +95,7 @@ Das Script liefert auf stdout (~2k Tokens): Kapitel-Info, Nachbar-Kapitel, aktue
 7. `buch/02-stilregeln-v2.md` — Stilregeln inkl. Konkretheits-Regeln (Ding vor Bild)
 8. **EIN** Ton-Referenzkapitel: das letzte fertige Kapitel **derselben POV-Figur**.
    - POV aus dem Kontext-Output ablesen. Vorheriges Kapitel mit gleichem POV und Status `final` ermitteln.
-   - Beispiel fuer Vesper-K12: `buch/kapitel/07-vesper.md` oder neueres Vesper-Kapitel.
+   - Beispiel fuer Vesper-K12: `buch/kapitel/B1-K07-vesper.md` oder neueres Vesper-Kapitel.
 9. **Ton-Referenz-Leseproben aus dem Entwurfs-Header** — VOLLE Texte. Aus dem Entwurfs-Header (Feld „Ton-Referenz-Leseproben (fuer /ausarbeitung)") die 1-3 festgelegten Leseproben volle lesen. Diese Proben sind **Ton-Vorlage** fuer die Ausarbeitung — Satzrhythmus, Koerperbeats, Heat-Pacing, Dialog-Mikro-Beats. Nicht Plot-Vorlage. Falls das Feld im Entwurf fehlt: zurueck zu `/entwurf` und Feld nachtragen, bevor Ausarbeitung startet.
 10. **Council-Leserinnen-Profile** — kurz lesen, NICHT volle Datei. Aus dem Entwurfs-Header (Feld „Council-Leserinnen fuer /ausarbeitung") die 2-3 festgelegten Stimmen entnehmen. Profile in `.claude/commands/book-council.md` Abschnitt „Die fuenf Stimmen" — nur die festgelegten Stimmen lesen (Regal, Erwartet, Schaltet ab bei, Persoenlichkeit). Diese Stimmen werden im Mini-Council pro Absatz aktiv (Phase 2).
 

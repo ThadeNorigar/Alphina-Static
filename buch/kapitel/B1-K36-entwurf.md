@@ -289,7 +289,7 @@ X / Y aus dem Skript `scripts/kapitel-kontext.py B1-K36 --phase ausarbeitung` zi
 ## Konsistenz-Folgen (separate Sessions)
 
 - **K05/K12/K28/K30 Final-Texte:** Schemen-Sichtungen tragen aktuell keinen Runen-Beat. Bei Lektorat-Folge nachziehen (gebundene Varens-Schemen muessten leuchtende violette Marken tragen). Nicht in dieser Session.
-- **`08-maren.md` (Boots-Schemen-Sichtung):** Bindungsrunen-Beat „fast verblasste, dunkel-violette Spuren auf den Schultern" einfuegen. Nicht in dieser Session — Maren-POV-Lektorat.
+- **`B1-K08-maren.md` (Boots-Schemen-Sichtung):** Bindungsrunen-Beat „fast verblasste, dunkel-violette Spuren auf den Schultern" einfuegen. Nicht in dieser Session — Maren-POV-Lektorat.
 
 ---
 

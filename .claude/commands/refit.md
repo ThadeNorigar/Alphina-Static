@@ -29,7 +29,7 @@ Wenn kein Argument: frage welches Kapitel.
 
 Pruefen: `buch/kapitel/{alte-datei}.md` vorhanden?
 
-- `01-alphina.md`, `02-sorel.md`, ..., `04-maren.md`, `06-sorel.md`, `07-vesper.md`, `08-maren.md` — alte Numerierung
+- `B1-K01-alphina.md`, `B1-K02-sorel.md`, ..., `B1-K04-maren.md`, `B1-K06-sorel.md`, `B1-K07-vesper.md`, `B1-K08-maren.md` — alte Numerierung
 - Wenn nein: HARTER ABBRUCH: "Altkapitel-Datei nicht gefunden. Welches Kapitel willst du refitten? Verfuegbar: [Liste aus ls buch/kapitel/ ohne entwurf/szene/handoff/legacy]"
 
 ### 0.2 Status-Check

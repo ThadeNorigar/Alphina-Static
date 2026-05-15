@@ -27,7 +27,7 @@
     {
       "id": "B1-K01",
       "pov": "Alphina",
-      "datei": "01-alphina.md",
+      "datei": "B1-K01-alphina.md",
       "council": {
         "scores": {
           "sog": 9.2,
@@ -87,7 +87,7 @@
     {
       "id": "B1-K02",
       "pov": "Sorel",
-      "datei": "02-sorel.md",
+      "datei": "B1-K02-sorel.md",
       "council": {
         "scores": {
           "sog": 8.5,
@@ -154,7 +154,7 @@
     {
       "id": "B1-K03",
       "pov": "Vesper",
-      "datei": "03-vesper.md",
+      "datei": "B1-K03-vesper.md",
       "council": {
         "scores": {
           "sog": 9.0,
@@ -210,7 +210,7 @@
     {
       "id": "B1-K04",
       "pov": "Maren",
-      "datei": "04-maren.md",
+      "datei": "B1-K04-maren.md",
       "council": {
         "scores": {
           "sog": 7.5,
@@ -275,7 +275,7 @@
     {
       "id": "B1-I1",
       "pov": "Elke",
-      "datei": "I1-elke.md",
+      "datei": "B1-I1-elke.md",
       "council": {
         "scores": {
           "sog": 7.5,
@@ -340,7 +340,7 @@
     {
       "id": "B1-K05",
       "pov": "Alphina",
-      "datei": "05-alphina.md",
+      "datei": "B1-K05-alphina.md",
       "council": {
         "scores": {
           "sog": 9.0,
@@ -401,7 +401,7 @@
     {
       "id": "B1-K06",
       "pov": "Sorel",
-      "datei": "06-sorel.md",
+      "datei": "B1-K06-sorel.md",
       "council": {
         "scores": {
           "sog": 8.5,
@@ -462,7 +462,7 @@
     {
       "id": "B1-K07",
       "pov": "Vesper",
-      "datei": "07-vesper.md",
+      "datei": "B1-K07-vesper.md",
       "council": {
         "scores": {
           "sog": 8.5,
@@ -527,7 +527,7 @@
     {
       "id": "B1-K08",
       "pov": "Maren",
-      "datei": "08-maren.md",
+      "datei": "B1-K08-maren.md",
       "council": {
         "scores": {
           "sog": 7.5,
@@ -592,7 +592,7 @@
     {
       "id": "B1-I2",
       "pov": "Keldan",
-      "datei": "I2-keldan.md",
+      "datei": "B1-I2-keldan.md",
       "council": {
         "scores": {
           "sog": 7.5,
@@ -657,7 +657,7 @@
     {
       "id": "B1-K09",
       "pov": "Alphina",
-      "datei": "09-alphina.md",
+      "datei": "B1-K09-alphina.md",
       "council": {
         "scores": {
           "sog": 8.5,
@@ -718,7 +718,7 @@
     {
       "id": "B1-K10",
       "pov": "Sorel",
-      "datei": "10-sorel.md",
+      "datei": "B1-K10-sorel.md",
       "council": {
         "scores": {
           "sog": 8.0,
@@ -775,7 +775,7 @@
     {
       "id": "B1-K11",
       "pov": "Vesper",
-      "datei": "11-vesper.md",
+      "datei": "B1-K11-vesper.md",
       "council": {
         "scores": {
           "sog": 8.5,

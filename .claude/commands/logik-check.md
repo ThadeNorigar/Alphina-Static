@@ -6,7 +6,7 @@ Du prüfst ein Kapitel von "Der Riss" auf Logikfehler. Absatz für Absatz. Bruta
 
 ## Input
 
-`$ARGUMENTS` = Pfad zur Kapitel-Datei (z.B. `buch/kapitel/02-sorel.md`)
+`$ARGUMENTS` = Pfad zur Kapitel-Datei (z.B. `buch/kapitel/B1-K02-sorel.md`)
 
 Wenn kein Argument: frage welche Datei.
 
