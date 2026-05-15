@@ -32,7 +32,8 @@
       "2026-05-15: Validierungs-Council fuer K27 (groesste Heuristik-Anpassung) durchgefuehrt. Echtes Council-Verdikt: 9.0 FINAL-REIF — Heuristik um +1.2 unterschaetzt. K27 mit echten Werten ueberschrieben. Konsequenz: bei anderen Kapiteln mit hoher Sweep-Wirkung (K12, K22, K26, K33) ist die Heuristik-Schaetzung ebenfalls als konservative Untergrenze zu lesen — echte Werte koennten naeher an FINAL-REIF liegen.",
       "2026-05-15: Varianten-Hybrid + 3 Pflicht-Fixes fuer I2 (commits dce9713 + folgender). Verifikations-Council: 9.18 FINAL-REIF. Heuristik hatte 6.6 vorhergesagt — Differenz +2.58 (Hybrid hat strukturell verbessert, nicht nur stilistisch). I2 mit echten Werten ueberschrieben.",
       "2026-05-15: Varianten-Hybrid K08 + 3 Pflicht-Fixes. Verifikations-Council: 9.3 FINAL-REIF. Heuristik 6.7 unterschaetzt um +2.6. K08 mit echten Werten ueberschrieben. Bestaetigt: Heuristik fuer hochgesweepte Kapitel konservative Untergrenze.",
-      "2026-05-15: Varianten-Hybrid I1 (Variante-Basis + 4 Imports aus aktueller + 4 Antithese-Streichungen). Verifikations-Council: 9.3 FINAL-REIF direkt. Heuristik 7.0 unterschaetzt um +2.3. Final-Reif-Liste: 8 -> 9 Kapitel."
+      "2026-05-15: Varianten-Hybrid I1 (Variante-Basis + 4 Imports aus aktueller + 4 Antithese-Streichungen). Verifikations-Council: 9.3 FINAL-REIF direkt. Heuristik 7.0 unterschaetzt um +2.3. Final-Reif-Liste: 8 -> 9 Kapitel.",
+      "2026-05-15: Varianten-Hybrid K24 + 3 Pflicht-Fixes. Verifikations-Council: 9.2 FINAL-REIF. Heuristik 7.1 unterschaetzt um +2.1. Final-Reif-Liste: 9 -> 10 Kapitel."
     ]
   },
   "kapitel": [
@@ -1711,57 +1712,48 @@
       "datei": "B1-K24-alphina.md",
       "council": {
         "scores": {
-          "sog": 7.5,
-          "plot_charakter": 8.5,
-          "stil_disziplin": 5.3,
-          "pov_schaerfe": 6.5,
-          "heat": 6.0,
-          "verstaendlichkeit": 7.5,
-          "tschechow": 9.5
+          "sog": 9.1,
+          "plot_charakter": 9.3,
+          "stil_disziplin": 9.0,
+          "pov_schaerfe": 9.2,
+          "heat": 8.8,
+          "verstaendlichkeit": 9.3,
+          "tschechow": 9.4
         },
-        "gesamt": 7.1,
-        "verdikt": "NICHT-FINAL",
+        "gesamt": 9.2,
+        "verdikt": "FINAL-REIF",
         "staerken": [
-          "Dichte Tschechow-Architektur: Manuskript, Skizze, Fingerabdruecke, Sprachbuch, 'Vier Fremde. Sieben Steine.'",
-          "Lene-Dahl-Manuskript als Reveal funktioniert plot-strukturell stark, kein Info-Dump",
-          "Ensemble von sechs Figuren bleibt choreografisch sauber",
-          "Konkrete, materialgesaettigte Archiv-Atmosphaere",
-          "Maren-keine-Dahl-Canon und Werft-Erblinie korrekt verarbeitet"
+          "Plot-Beat-Choreografie dicht: Bibliothek-Eintritt -> Lene-Manuskript -> Funkenflug-Zeichnung -> Halvaren-Spuren-Kohle-Probe in klarer Eskalations-Kurve, Werft-Linie 4 Jahrhunderte unter Maren etabliert",
+          "Italics-Trennung der Lene-Manuskript-Zitate (mit *...*-Markup) gibt der Vergangenheits-Stimme visuelles Gewicht ohne POV-Bruch",
+          "Memory-Compliance vollstaendig: 'Takt' korrekt zu 'Rhythmus' (Knoechel-Klopfen), 'Puls' zu 'Halsschlagader', typografische Anfuehrungszeichen statt Spitzklammern, 0 Em-Dashes, 0 'Resonanz' in Prosa",
+          "Tschechow-Kreis sehr eng: vier-Stoffe-Echo zu I1/I2/I3 (Elke Stein, Keldan Eisen, Kesper Luft, Lene Holz), Halvaren-Spuren auf Papier als Cliffhanger fuer B2, Sprachbuch-Hand-Identifikation als POV-Beat",
+          "Heat-Echo subtil und Réage-konform: Daumen-Fingerkuppen, Halsschlagader-Klopfen, Schluesselbein-Spannung als koerperlicher Faden durch das Kapitel, Schluss-Hand-statt-Aermel als stille Pointe"
         ],
         "schwaechen": [
-          "Massive Em-Dash-Verstoesse (ueber zehn Gedankenstriche)",
-          "POV-Schaerfe bricht mehrfach: Innenleben fremder Figuren in Alphina-POV",
-          "'der Takt, den sie inzwischen kannte' nutzt Vesper-Wort 'Takt' fuer Tuerklopfen",
-          "Unklare Phrase 'einen Mann um den halben ueberragte' — Hae?-Satz",
-          "Kapitel fast reiner Plot/Reflexion — wenig commercial Heat-Spuerbarkeit"
+          "Schluesselbein-Spannungs-Motiv kommt 3-5x vor (Z217/Z369/Z429 voll, Z227/Z401 variiert) — Variation greift, an der Schwelle zum Tic",
+          "2 verbleibende 'nicht X, sondern Y' (Z121 Vespers Vorwissen, Z207 Augenzeugenschaft Lene) alle Beat-tragend, an der Dichte-Schwelle",
+          "Wortzahl 4400+ am oberen Ende fuer K-Kapitel — Sog haelt sich, Lesedauer aber gestreckt",
+          "Heat 8.8: koerperlich praesent durch Spannung, kein expliziter Begehrens-Beat (Alphina+Sorel sind kein BDSM, Memory-konform)",
+          "Esther-Charakter-Wackler Z131 'Ihre Augen glitten kurz ueber Alphina und Sorel hinweg und hielten dort fuer einen Augenblick inne' — knapp am Mindreading, aber durch sichtbares Halten der Augen abgedeckt"
         ],
-        "pflicht_findings": [
-          {
-            "zeile": "7",
-            "problem": "'der Takt, den sie inzwischen kannte' — 'Takt' strikt Uhr/Werk, ist Vesper-Vokabular nicht Alphina-POV"
+        "pflicht_findings": [],
+        "_validation": {
+          "validator": "Verifikations-Council nach Varianten-Hybrid (commit pending) + 3 Pflicht-Fixes",
+          "datum": "2026-05-15",
+          "heuristik_vorhersage": {
+            "stil": 6.3,
+            "gesamt": 7.1
           },
-          {
-            "zeile": "93-95",
-            "problem": "'Vesper erkannte es wieder' — Vespers Innen-Wissen in Alphina-POV, Deep-POV-Bruch"
+          "echt_council_pre_fix": {
+            "stil": 9.2,
+            "gesamt": 8.9
           },
-          {
-            "zeile": "17",
-            "problem": "'und sie spuerte, wie sich ihr Mundwinkel hob' bezieht sich auf Maren — fremde Koerper-Innensensation in Alphina-POV"
+          "echt_council_post_fix": {
+            "stil": 9.0,
+            "gesamt": 9.2
           },
-          {
-            "zeile": "61",
-            "problem": "'die einen Mann um den halben ueberragte' — unvollstaendige Phrase, Verstaendlichkeits-Gate verletzt"
-          }
-        ],
-        "_sweep_adjustment": {
-          "stil_disziplin_pre": 4.5,
-          "stil_disziplin_post": 5.3,
-          "gesamt_pre": 7.0,
-          "gesamt_post": 7.1,
-          "stil_bonus": 0.7999999999999998,
-          "gesamt_delta": 0.1,
-          "rationale": "Em-Dash:22 halb:2 nicht-sondern:0 mini-tic:0",
-          "verdikt_changed": false
+          "abweichung_gesamt_vs_heuristik": "+2.1 (Heuristik unterschaetzt)",
+          "konsequenz": "K24 fuenftes FINAL-REIF aus Validierungs-Reihe (nach K27, I2, K08, I1). Hybrid-Strategie etabliert: Variante als Basis fuer Memory-Compliance + Setting, Imports aus aktueller fuer Italics-Stimmen-Trennung + Schluss-Pointe."
         }
       },
       "book_council": {
