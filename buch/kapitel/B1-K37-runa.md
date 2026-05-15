@@ -128,11 +128,15 @@ Der Riss blieb offen, und seine Ränder zuckten unregelmäßig wie etwas Lebendi
 
 Sie stand auf und ließ die ungezündete Laterne neben dem Stamm zurück. Das kleine Wesen bewegte sich nicht, als sie an ihm vorbeiging. Runa lief. Die Farne reichten ihr inzwischen bis gegen die Schenkel und strichen feucht über den Stoff ihres Mantels. Nebel schlug ihr kühl gegen das Gesicht und sammelte sich in ihren Haaren, während sie durch den Kreis lief, zwischen zwei der dunklen Gestalten hindurch, die am Rand des Gartens standen wie Wächter aus Holz und Schatten. Keine von ihnen wich ihr aus. Keine stellte sich ihr in den Weg. Zwischen Daumen und Zeigefinger zog die alte Wärme dichter an, vertraut wie immer. Der Riss lag direkt vor ihr. Seine Ränder zitterten sichtbar, und das Licht dahinter war schmal geworden, nur noch ein heller Schnitt in der Dunkelheit. Noch zwei Schritte. Einer. Dann warf sie ihr Gewicht nach vorne und sprang, nicht geplant, nicht vorsichtig, sondern mit der blinden Gewissheit eines Körpers, der längst entschieden hatte, bevor der Verstand folgen konnte, und für einen einzigen lautlosen Augenblick ging sie durch die offene Wunde im Raum, durch kalten Nebel und Licht, das nicht von dieser Welt war. Der Geruch veränderte sich sofort. Trockenere Erde. Zerdrückte Halme. Und über ihr zwei Monde.
 
-Der Boden war Stein.
+Sie fiel auf die Knie in einen Bewuchs, der nichts ähnelte, was sie kannte.
 
-Runa stand auf den Knien, die Handflächen flach auf der Oberfläche, und der Stein unter ihr war nicht Garten-Erde und nicht Pflasterstein aus Vael, sondern etwas Flaches, Altes, mit feinen Rissen wie in einer Schreibtafel, die jemand fallen gelassen hatte. Die fremden Halme drängten sich von rechts gegen ihren Unterschenkel, trocken und ohne Geruch. Sie richtete sich auf.
+Halme, dick wie Daumen, drängten sich von allen Seiten gegen sie, dunkel mit feinem Glanz, kühl unter ihren Handflächen, ohne Geruch. Zwischen ihnen schimmerte hier und da etwas Festes durch, glatt und dunkel wie alter Schiefer, halb überwachsen, kaum mehr zu erkennen unter dem Pflanzen-Wuchs. Sie richtete sich auf, und die Halme schoben sich an ihren Mantel, an ihre Schenkel, an ihre Hüfte.
 
-Zwei Monde standen klein und hoch am Himmel, zu weit voneinander entfernt, um dieselbe Herkunft zu haben. Die Luft war dichter als in Vael, mineralisch, fast wie beim Betreten eines alten Kellers, und die Stille darunter war vollständig: kein Laternenpfahl im Wind, kein Linden-Rascheln, nichts außer ihrem eigenen Atem.
+Über ihr stand der Himmel.
+
+Nicht der Himmel von Vael. In der Mitte hing etwas Großes, ein dunkler Kern, um den sich ein gleißender Ring drehte, langsam und stetig, hell genug, dass die Halme um sie herum scharfe Schatten auf den Bewuchs warfen, und doch ohne die Wärme einer Sonne. Daneben, höher und kleiner, standen zwei Monde dicht beieinander, beide gleichzeitig sichtbar, blass im Licht des Rings.
+
+Die Luft war dichter als in Vael, mineralisch, fast wie beim Betreten eines alten Kellers, und die Stille darunter war vollständig: kein Wind in den Halmen, kein Tier, nichts außer ihrem eigenen Atem.
 
 Den Nebel gab es nicht mehr. Hinter ihr war er geblieben, in Vael, zusammen mit allem anderen.
 
@@ -150,7 +154,7 @@ Es stand auf den Hinterbeinen und war so groß wie ein Pferd, breiter als ein Pf
 
 Runa wartete nicht.
 
-Sie brüllte, und der Laut riss sich aus ihr los beim ersten Schritt, roh und ohne Worte, und sie war bereits im Lauf, die Arme am Körper, die Stiefel auf dem Flachstein, und die Distanz zu dem Mann betrug drei Schritt und dann zwei Schritt, und sie hörte sich selbst nicht mehr.
+Sie brüllte, und der Laut riss sich aus ihr los beim ersten Schritt, roh und ohne Worte, und sie war bereits im Lauf, die Arme am Körper, die Stiefel durch die hohen Halme, und die Distanz zu dem Mann betrug drei Schritt und dann zwei Schritt, und sie hörte sich selbst nicht mehr.
 
 Der Mann sah sie.
 
