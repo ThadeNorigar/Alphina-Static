@@ -30,7 +30,8 @@
       "Hinweis: Council-Gesamt-Scores nicht neu erhoben. Fuer aktuelle Final-Reife-Beurteilung der gesweepten Kapitel Neu-Erhebung notwendig.",
       "2026-05-15: Heuristik-Score-Update angewandt. stil_disziplin pro Kapitel um Sweep-Bonus erhoeht (Cap 9.0); gesamt um bonus/7 (Delta-Methode). Verdikt aktualisiert. Detail pro Kapitel im Feld _sweep_adjustment.",
       "2026-05-15: Validierungs-Council fuer K27 (groesste Heuristik-Anpassung) durchgefuehrt. Echtes Council-Verdikt: 9.0 FINAL-REIF — Heuristik um +1.2 unterschaetzt. K27 mit echten Werten ueberschrieben. Konsequenz: bei anderen Kapiteln mit hoher Sweep-Wirkung (K12, K22, K26, K33) ist die Heuristik-Schaetzung ebenfalls als konservative Untergrenze zu lesen — echte Werte koennten naeher an FINAL-REIF liegen.",
-      "2026-05-15: Varianten-Hybrid + 3 Pflicht-Fixes fuer I2 (commits dce9713 + folgender). Verifikations-Council: 9.18 FINAL-REIF. Heuristik hatte 6.6 vorhergesagt — Differenz +2.58 (Hybrid hat strukturell verbessert, nicht nur stilistisch). I2 mit echten Werten ueberschrieben."
+      "2026-05-15: Varianten-Hybrid + 3 Pflicht-Fixes fuer I2 (commits dce9713 + folgender). Verifikations-Council: 9.18 FINAL-REIF. Heuristik hatte 6.6 vorhergesagt — Differenz +2.58 (Hybrid hat strukturell verbessert, nicht nur stilistisch). I2 mit echten Werten ueberschrieben.",
+      "2026-05-15: Varianten-Hybrid K08 + 3 Pflicht-Fixes. Verifikations-Council: 9.3 FINAL-REIF. Heuristik 6.7 unterschaetzt um +2.6. K08 mit echten Werten ueberschrieben. Bestaetigt: Heuristik fuer hochgesweepte Kapitel konservative Untergrenze."
     ]
   },
   "kapitel": [
@@ -584,53 +585,48 @@
       "datei": "B1-K08-maren.md",
       "council": {
         "scores": {
-          "sog": 7.5,
-          "plot_charakter": 8.0,
-          "stil_disziplin": 4.8,
-          "pov_schaerfe": 8.0,
+          "sog": 9.2,
+          "plot_charakter": 9.3,
+          "stil_disziplin": 9.1,
+          "pov_schaerfe": 9.4,
           "heat": 2.5,
-          "verstaendlichkeit": 7.5,
-          "tschechow": 9.0
+          "verstaendlichkeit": 9.2,
+          "tschechow": 9.5
         },
-        "gesamt": 6.7,
-        "verdikt": "NICHT-FINAL",
+        "gesamt": 9.3,
+        "verdikt": "FINAL-REIF",
         "staerken": [
-          "Dichtes Tschechow-Geflecht: Harons Symbol-Papier, rueckwaertslaufende Grauwe, gebundener Schemen am Boot, Pochen unter der Stadt",
-          "Maren-POV-Register konsequent: Surrender-als-Stillwerden, Werft-Berufslinse als Wahrnehmungsfilter",
-          "Schemen-Manifestation stark gebaut, Bindungsrunen canonkonform sichtbar",
-          "Tohl-Daverin-Dialog funktioniert: Subtext, kein Info-Dump",
-          "Atmosphaere und Erzaehldichte auf hohem Niveau"
+          "Plot-Beat-Sequenz dreiteilig sauber konstruiert: Plankenfund + fremde Schrift (Halvaren-Setup B2), Nacht-Schemen-Manifestation (Magie-Reveal), Morgen-Steg-Tohl + Werft-Pochen (Quellenpuls-Setup K11)",
+          "Schemen-Reveal-Choreografie exzellent: Lichtverschiebung am Tor -> Manifestation durch Holz -> physische Beschreibung -> Edric-Echo 'Feine Haende' kippt Hauptverdacht (Haron als Halvara) ohne Erzaehler-Reveal",
+          "Maren-POV-Disziplin durchgehend: Werft-Linse (Maserung, Spannung, Naht, Schwielen), kein Mindreading bei Edric/Tohl, Sorel-Prinzip eingehalten",
+          "Tschechow-Dichte stark: fremde Schrift (B2-Halvaren), rueckwaerts-Grauwe (Vesper-Magie K11/K22), Pochen=Quellenpuls (B1-K10+), Edric-Saetze als Erinnerungs-Echos",
+          "Hybrid-Struktur traegt: volle Saetze und Setting-Hintergrund (Pferdehuf/Moewen/Eimer-Frau) aus Variante + Schock-Beats ('Es arbeitete.', 'Die Haende.', 'Siebte Woche.') aus aktueller"
         ],
         "schwaechen": [
-          "Massive Em-Dash-Inflation (25+ Vorkommen) — harter Stil-Verstoss",
-          "'im Takt schlug' (Z.177) — 'Takt' ist Vesper-Wort, im Maren-POV unzulaessig",
-          "Meta-Kommentar-Konstruktion Z.91 ('Er blieb ein halber Satz')",
-          "Mehrere 'nicht X, sondern Y'-Antithesen ohne Beat-Funktion",
-          "Drei Abschnitte fast ohne zweite Figur — Sog bleibt atmosphaerisch"
+          "Heat-Echo am Morgen (Z.281 'Koerper die ganze Nacht wach geblieben, hell und empfindlich') ist Sorel-Echo-Beat, koennte als Heat 3.5+ statt 2.5 gerechnet werden; konservativ 2.5 da kein direkter BDSM/Begehrens-Koerperbeat",
+          "Verbleibende 7 'nicht X, sondern Y'-Stellen sind alle Beat-tragend, aber Dichte (7 in 5439 Wortern) liegt am oberen Rand der Maren-POV-Vertraeglichkeit",
+          "Wortzahl 5439 ueber dem Standard (~4500); fuer Interludium-naehe-Kapitel grenzwertig lang",
+          "Italics-Erinnerungen (3 Stueck) verleihen Stil-Effekt, koennten in einer Cross-POV-Pruefung mit anderen Maren-Kapiteln auf Konsistenz geprueft werden",
+          "Schwere-Werden-Beat unter dem Segel (Z.157 'Aufgeben an eine Grenze, die nicht verhandelte') leicht Personifikation, in Memory-Strenge prufbar"
         ],
-        "pflicht_findings": [
-          {
-            "zeile": "177",
-            "problem": "'bis er im Takt schlug' — 'Takt' auf Erd-Pochen verboten"
+        "pflicht_findings": [],
+        "_validation": {
+          "validator": "Verifikations-Council nach Varianten-Hybrid (commit pending) + 3 Pflicht-Fixes",
+          "datum": "2026-05-15",
+          "heuristik_vorhersage": {
+            "stil": 6.1,
+            "gesamt": 6.7
           },
-          {
-            "zeile": "91",
-            "problem": "'Er blieb ein halber Satz' — kryptischer Meta-Kommentar"
+          "echt_council_pre_fix": {
+            "stil": 8.5,
+            "gesamt": 8.4
           },
-          {
-            "zeile": "7,11,33",
-            "problem": "Fehlendes Komma vor Relativsatz mehrfach"
-          }
-        ],
-        "_sweep_adjustment": {
-          "stil_disziplin_pre": 3.5,
-          "stil_disziplin_post": 4.8,
-          "gesamt_pre": 6.5,
-          "gesamt_post": 6.7,
-          "stil_bonus": 1.2999999999999998,
-          "gesamt_delta": 0.2,
-          "rationale": "Em-Dash:35 halb:3 nicht-sondern:0 mini-tic:0",
-          "verdikt_changed": false
+          "echt_council_post_fix": {
+            "stil": 9.1,
+            "gesamt": 9.3
+          },
+          "abweichung_gesamt_vs_heuristik": "+2.6 (Heuristik massiv unterschaetzt)",
+          "konsequenz": "K08 drittes FINAL-REIF aus Validierungs-Reihe (nach K27, I2). Heuristik bei stark gesweepten Kapiteln nicht zuverlaessig — Hybrid-Einbau hat Plot-/Struktur-/Stil ueber Heuristik gehoben."
         }
       },
       "book_council": {
