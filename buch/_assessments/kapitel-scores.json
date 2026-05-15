@@ -29,7 +29,8 @@
       "PFLICHT-Findings, die sich ausschliesslich auf die gesweepten Tics bezogen, wurden aus dem Datensatz entfernt.",
       "Hinweis: Council-Gesamt-Scores nicht neu erhoben. Fuer aktuelle Final-Reife-Beurteilung der gesweepten Kapitel Neu-Erhebung notwendig.",
       "2026-05-15: Heuristik-Score-Update angewandt. stil_disziplin pro Kapitel um Sweep-Bonus erhoeht (Cap 9.0); gesamt um bonus/7 (Delta-Methode). Verdikt aktualisiert. Detail pro Kapitel im Feld _sweep_adjustment.",
-      "2026-05-15: Validierungs-Council fuer K27 (groesste Heuristik-Anpassung) durchgefuehrt. Echtes Council-Verdikt: 9.0 FINAL-REIF — Heuristik um +1.2 unterschaetzt. K27 mit echten Werten ueberschrieben. Konsequenz: bei anderen Kapiteln mit hoher Sweep-Wirkung (K12, K22, K26, K33) ist die Heuristik-Schaetzung ebenfalls als konservative Untergrenze zu lesen — echte Werte koennten naeher an FINAL-REIF liegen."
+      "2026-05-15: Validierungs-Council fuer K27 (groesste Heuristik-Anpassung) durchgefuehrt. Echtes Council-Verdikt: 9.0 FINAL-REIF — Heuristik um +1.2 unterschaetzt. K27 mit echten Werten ueberschrieben. Konsequenz: bei anderen Kapiteln mit hoher Sweep-Wirkung (K12, K22, K26, K33) ist die Heuristik-Schaetzung ebenfalls als konservative Untergrenze zu lesen — echte Werte koennten naeher an FINAL-REIF liegen.",
+      "2026-05-15: Varianten-Hybrid + 3 Pflicht-Fixes fuer I2 (commits dce9713 + folgender). Verifikations-Council: 9.18 FINAL-REIF. Heuristik hatte 6.6 vorhergesagt — Differenz +2.58 (Hybrid hat strukturell verbessert, nicht nur stilistisch). I2 mit echten Werten ueberschrieben."
     ]
   },
   "kapitel": [
@@ -654,49 +655,57 @@
       "datei": "B1-I2-keldan.md",
       "council": {
         "scores": {
-          "sog": 7.5,
-          "plot_charakter": 8.0,
-          "stil_disziplin": 5.5,
-          "pov_schaerfe": 7.0,
+          "sog": 9.2,
+          "plot_charakter": 9.2,
+          "stil_disziplin": 8.9,
+          "pov_schaerfe": 9.0,
           "heat": 1.0,
-          "verstaendlichkeit": 8.0,
-          "tschechow": 8.5
+          "verstaendlichkeit": 9.3,
+          "tschechow": 9.5
         },
-        "gesamt": 6.6,
-        "verdikt": "NICHT-FINAL",
+        "gesamt": 9.2,
+        "verdikt": "FINAL-REIF",
         "staerken": [
-          "Starkes Tschechow-Setup: Glocke als Vorgaenger-Gruppen-Anker, Aldert-Briefe leiten ueber",
-          "Magie-Manifestation koerperlich und konkret geerdet",
-          "Klare Verstaendlichkeit, ruhiger Erzaehlfluss mit Tempo-Wechsel",
-          "Elkes und Keldans Berufslinsen sauber getragen",
-          "Schoener Schluss-Beat: Feuer ohne Kohle, Glocke im Wind"
+          "Mystery-Aufbau funktioniert sauber: Hammer-Beat -> Esse-Waerme-ohne-Kohle -> Eisen-singt-auf-Stein -> Glockenmaterialisation als klarer Reveal-Moment",
+          "Tschechow exzellent: Glocke + Aldert-Briefe + 'noch zwei' Weckungen (Schiffbauerin, Maler) als starke Setups fuer B2",
+          "POV-Disziplin: Elke durchgaengig, kein Mindreading bei Keldan; seine Innenwelt nur durch sichtbare Marker (Gesicht, weisse Knoechel, Schultern sinken)",
+          "Stein-/Metall-Material-Linse traegt Elkes Berufslinse (Bildhauerin/Steinmetz-Wahrnehmung von Form, Naht, Glaette)",
+          "Schluss-Punch nach Hybrid: 'antwortete sie ihm mit einem hellen, feinen Klang' verschraenkt Glocke + Wind als Tschechow-Doppelanker"
         ],
         "schwaechen": [
-          "Massiver Em-Dash-Einsatz durch das ganze Kapitel",
-          "'Resonanz' und 'Puls' als Canon-Begriffe in der Prosa",
-          "POV/Header-Inkonsistenz: Datei-Header 'Elke', Task deklariert Keldan",
-          "Kein Heat — als Interludium ok",
-          "Vereinzelt benannte Zustaende als Substantiv"
+          "Z.39/41/45 Negations-Cluster: 'Nicht langsam' + 'Nicht willkuerlich' + Wiederholung — Pflicht-Pruefung verlangt Entfernung mindestens einer Stelle",
+          "Z.63 Elke-Rede grenzwertiger Mini-Aphorismus im Dialog ('manchmal gibt das Material einer Form nach, die in einem selbst wohnt') — als Figuren-Reflexion tragbar, aber sentenzhaft",
+          "Stakkato in Z.37 ('Keldan nahm die Zange. Hob den Barren vom Boden.') als Handlungs-Beat funktional aber an der Schwelle",
+          "Heat erwartungsgemaess abwesend (Interludium, 1.0)",
+          "POV-Header 'Elke' vs. Dateiname 'B1-I2-keldan.md' — POV-Pov-Feld im Datensatz auf 'Elke' aktualisierbar"
         ],
         "pflicht_findings": [
           {
-            "zeile": "31",
-            "problem": "'der Puls des Felsens' / 'denselben Puls' — 'Puls' als abstraktes Substantiv vermeiden"
+            "zeile": "39, 41, 45",
+            "problem": "Negations-Cluster 'Nicht X, ...' drei Mal in Folge; mindestens eine Stelle positiv umformulieren oder streichen"
           },
           {
-            "zeile": "Header",
-            "problem": "Header 'Elke' / Datum '15. Frostmond 154' widerspricht POV-Deklaration Keldan — Datei-Inkonsistenz klaeren"
+            "zeile": "63",
+            "problem": "Elke-Rede 'manchmal gibt das Material einer Form nach, die in einem selbst wohnt' grenzwertig sentenzhaft; als Figuren-Reflexion tragbar, aber bei Tonangleich an Maren-/Sorel-Sprechweise entschiedener Koerper-/Hand-Bild waehlen"
           }
         ],
-        "_sweep_adjustment": {
-          "stil_disziplin_pre": 4.5,
-          "stil_disziplin_post": 5.5,
-          "gesamt_pre": 6.5,
-          "gesamt_post": 6.6,
-          "stil_bonus": 1.0,
-          "gesamt_delta": 0.1,
-          "rationale": "Em-Dash:13 halb:0 nicht-sondern:2 mini-tic:1",
-          "verdikt_changed": false
+        "_validation": {
+          "validator": "Verifikations-Council nach Varianten-Hybrid (commit dce9713) + 3 Pflicht-Fixes",
+          "datum": "2026-05-15",
+          "heuristik_vorhersage": {
+            "stil": 6.5,
+            "gesamt": 6.6
+          },
+          "echt_council_pre_fix": {
+            "stil": 8.5,
+            "gesamt": 8.92
+          },
+          "echt_council_post_fix": {
+            "stil": 8.9,
+            "gesamt": 9.18
+          },
+          "abweichung_gesamt_vs_heuristik": "+2.58 (Heuristik massiv unterschaetzt; Hybrid-Einbau hat Aldert-Info-Dump entfernt + Atmosphaere/Schluss aufgewertet)",
+          "konsequenz": "I2 zweites FINAL-REIF aus Validierungs-Reihe nach K27. Heuristik fuer Interludien nicht zuverlaessig."
         }
       },
       "book_council": {

@@ -8,7 +8,7 @@ Keldan Rohn stand am Amboss, die Zange in der linken Hand, den Hammer in der rec
 
 "Wieder?", fragte Elke.
 
-Keldan nickte. Er legte den Hammer auf den Amboss und wischte sich die Hände an der Schürze ab, große Hände, deren Knöchel von Jahren am Feuer geschwollen waren. Die Schwielen auf seinen Handflächen waren so dick, dass die Haut dort eine andere Farbe hatte, gelb und hart wie Horn. Ein Schmied, durch und durch, von den Schultern bis zu den Fingerspitzen, und der Schmied verstand sein Eisen nicht mehr.
+Keldan nickte. Er legte den Hammer auf den Amboss und wischte sich die Hände an der Schürze ab, große Hände, deren Knöchel von Jahren am Feuer geschwollen waren. Die Schwielen auf seinen Handflächen waren so dick, dass die Haut dort eine andere Farbe hatte, gelb und hart wie Horn.
 
 Die Schmiede lag halb im Fels, tief in die Klippen gebaut, damit die Wärme im Winter hielt, und sie roch nach Kohle, nach heißem Eisen, nach heißem Öl und Metallstaub und nach dem Salz das der Wind vom Hafen hereintrug. Aber darunter lag ein anderer Geruch, derselbe der am Klippenrand aus den Rissen stieg: tief, mineralisch, warm, ein Geruch der aus dem Boden unter dem Feuer aufstieg. Die Esse stand auf nacktem Fels, Purpurstein, und die Stelle wo der Fels durch den Lehmboden brach, war dunkler als der Rest, fast schwarz, und warm. Immer warm.
 
@@ -30,7 +30,7 @@ Elke kniete sich neben den Barren. Sie legte die linke Hand auf den Purpurstein,
 
 Der Amboss war warm.
 
-Nicht die Wärme eines Werkstücks, das seit Stunden geschlagen wird. Eine andere Wärme, von unten, durch die Beine des Amboss, durch den Eisenblock, in ihre Handfläche. Derselbe Puls. Keldans Blick fiel auf ihre Hand, wanderte zu ihren Fingern um die Kante des Ambosses, und sein Gesicht veränderte sich, eine Verschiebung um die Augen die Elke in sechs Wochen nicht gesehen hatte. Unsicherheit. Bei einem Mann der keine Unsicherheit kannte.
+Nicht die Wärme eines Werkstücks, das seit Stunden geschlagen wird. Eine andere Wärme, von unten, durch die Beine des Amboss, durch den Eisenblock, in ihre Handfläche. Keldans Blick fiel auf ihre Hand, wanderte zu ihren Fingern um die Kante des Ambosses, und sein Gesicht veränderte sich, eine Verschiebung um die Augen die Elke in sechs Wochen nicht gesehen hatte. Unsicherheit. Bei einem Mann der keine Unsicherheit kannte.
 
 "Nehmt den Barren," sagte Elke. "Haltet ihn über den Amboss."
 
@@ -70,6 +70,6 @@ Keldan schaute auf die Glocke. Dann auf sie. "Kennt Ihr noch andere? Die so etwa
 
 Keldan schwieg einen Moment. "Noch zwei," sagte er leise.
 
-Keldan legte den Daumen auf den Mund der Glocke. Das Eisen summte unter seiner Berührung, leise, fast zärtlich, ein Ton den Elke in der Brust spürte. Er nickte, langsam, einmal. Seine Schultern sanken einen Fingerbreit, und die Falte zwischen seinen Brauen, die Elke in sechs Wochen nicht verschwinden gesehen hatte, wurde weicher. Ein Mann der seit sieben Wochen allein mit etwas Unmöglichem gelebt hatte und der gerade erfahren hatte, dass das Unmögliche in ihm selbst wohnte.
+Keldan legte den Daumen auf den Mund der Glocke. Das Eisen summte unter seiner Berührung, leise, fast zärtlich, ein Ton den Elke in der Brust spürte. Er nickte, langsam, einmal. Seine Schultern sanken einen Fingerbreit, und die Falte zwischen seinen Brauen, die Elke in sechs Wochen nicht verschwinden gesehen hatte, wurde weicher.
 
 Elke ging. Die Gasse war dunkel und der Nebel lag auf dem Kopfsteinpflaster und unter ihren Stiefeln summte der Purpurstein, leise, geduldig, und in der Schmiede hinter ihr brannte ein Feuer das keine Kohle brauchte, und auf dem Amboss stand eine kleine Glocke, die niemand gegossen hatte, und wenn der Wind durch die Ritzen zog, antwortete sie ihm mit einem hellen, feinen Klang.

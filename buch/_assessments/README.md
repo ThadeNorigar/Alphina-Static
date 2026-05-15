@@ -6,9 +6,9 @@ Pro finalem Kapitel ein Subagent (Opus): Council-Assessment (7 Achsen 0-10 + Ver
 
 ## Aggregat
 
-- **Council-Gesamt Ø:** 8.25 / 10
+- **Council-Gesamt Ø:** 8.31 / 10
 - **Book-Council-Gesamt Ø:** 79.7 / 100
-- **FINAL-REIF (Council ≥ 9.0):** 6 / 39 — B1-K01, B1-K05, B1-K19, B1-K20, B1-K27, B1-K30
+- **FINAL-REIF (Council ≥ 9.0):** 7 / 39 — B1-K01, B1-K05, B1-I2, B1-K19, B1-K20, B1-K27, B1-K30
 - **Book-Council-Verdikt:** alle 39 GRENZWERTIG (70–89) — keine BESTANDEN, keine DURCHGEFALLEN
 - **PFLICHT-Findings gesamt:** 87
 - **Kapitel mit Em-Dash-PFLICHT-Befund:** 0 / 39
@@ -22,14 +22,15 @@ Pro finalem Kapitel ein Subagent (Opus): Council-Assessment (7 Achsen 0-10 + Ver
 - Hinweis: Council-Gesamt-Scores nicht neu erhoben. Fuer aktuelle Final-Reife-Beurteilung der gesweepten Kapitel Neu-Erhebung notwendig.
 - 2026-05-15: Heuristik-Score-Update angewandt. stil_disziplin pro Kapitel um Sweep-Bonus erhoeht (Cap 9.0); gesamt um bonus/7 (Delta-Methode). Verdikt aktualisiert. Detail pro Kapitel im Feld _sweep_adjustment.
 - 2026-05-15: Validierungs-Council fuer K27 (groesste Heuristik-Anpassung) durchgefuehrt. Echtes Council-Verdikt: 9.0 FINAL-REIF — Heuristik um +1.2 unterschaetzt. K27 mit echten Werten ueberschrieben. Konsequenz: bei anderen Kapiteln mit hoher Sweep-Wirkung (K12, K22, K26, K33) ist die Heuristik-Schaetzung ebenfalls als konservative Untergrenze zu lesen — echte Werte koennten naeher an FINAL-REIF liegen.
+- 2026-05-15: Varianten-Hybrid + 3 Pflicht-Fixes fuer I2 (commits dce9713 + folgender). Verifikations-Council: 9.18 FINAL-REIF. Heuristik hatte 6.6 vorhergesagt — Differenz +2.58 (Hybrid hat strukturell verbessert, nicht nur stilistisch). I2 mit echten Werten ueberschrieben.
 
 **Achsen-Durchschnitt (Council):**
 
 | sog | plot_charakter | stil_disziplin | pov_schaerfe | heat | verstaendlichkeit | tschechow |
 |---|---|---|---|---|---|---|
-| 8.3 | 8.7 | 7.5 | 8.6 | 6.4 | 8.7 | 9.2 |
+| 8.4 | 8.8 | 7.6 | 8.7 | 6.4 | 8.8 | 9.3 |
 
-Schwaechste Achse systemisch: **stil_disziplin** (Ø 7.5) — getrieben von Em-Dashes, 'Takt'-Missbrauch, Stakkato-Ketten.
+Schwaechste Achse systemisch: **stil_disziplin** (Ø 7.6) — getrieben von Em-Dashes, 'Takt'-Missbrauch, Stakkato-Ketten.
 
 ## Übersicht (Lese-Reihenfolge)
 
@@ -44,7 +45,7 @@ Schwaechste Achse systemisch: **stil_disziplin** (Ø 7.5) — getrieben von Em-D
 | B1-K06 | Sorel | 7.7 | NICHT-FINAL | 6.6 | 79.3 | GRENZWERTIG | LINA 74 | 2 |
 | B1-K07 | Vesper | 7.9 | NICHT-FINAL | 6.8 | 78.5 | GRENZWERTIG | NORA 74 | 3 |
 | B1-K08 | Maren | 6.7 | NICHT-FINAL | 4.8 | 73.7 | GRENZWERTIG | LINA 68 | 3 |
-| B1-I2 | Keldan | 6.6 | NICHT-FINAL | 5.5 | 72.0 | GRENZWERTIG | LINA 68 | 2 |
+| B1-I2 | Keldan | 9.2 | ✅ FINAL-REIF | 8.9 | 72.0 | GRENZWERTIG | LINA 68 | 2 |
 | B1-K09 | Alphina | 8.8 | NICHT-FINAL | 9.0 | 80.5 | GRENZWERTIG | KAYA 74 | 2 |
 | B1-K10 | Sorel | 8.1 | NICHT-FINAL | 7.8 | 78.0 | GRENZWERTIG | LINA 72 | 1 |
 | B1-K11 | Vesper | 7.8 | NICHT-FINAL | 6.8 | 76.3 | GRENZWERTIG | NORA 72 | 3 |
@@ -77,7 +78,6 @@ Schwaechste Achse systemisch: **stil_disziplin** (Ø 7.5) — getrieben von Em-D
 
 ## Ranking Council-Gesamt (schwächste zuerst)
 
-- **6.6** B1-I2 (Keldan) — NICHT-FINAL
 - **6.7** B1-K08 (Maren) — NICHT-FINAL
 - **7.0** B1-I1 (Elke) — NICHT-FINAL
 - **7.1** B1-K24 (Alphina) — NICHT-FINAL
@@ -116,6 +116,7 @@ Schwaechste Achse systemisch: **stil_disziplin** (Ø 7.5) — getrieben von Em-D
 - **9.0** B1-K30 (Sorel) — FINAL-REIF
 - **9.1** B1-K01 (Alphina) — FINAL-REIF
 - **9.1** B1-K05 (Alphina) — FINAL-REIF
+- **9.2** B1-I2 (Keldan) — FINAL-REIF
 
 ## Lesehinweis
 
