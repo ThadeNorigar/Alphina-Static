@@ -166,7 +166,7 @@ Der Mann stand auf. Zog seinen Mantel an. Groß, unter dem niedrigen Balken, die
 
 Die Tür fiel zu. Wind blies Regen in den Schankraum, einen Atemzug lang. Dann war die Tür dicht und der Raum warm und laut und der Platz gegenüber leer.
 
-Vesper saß. Sein Bier war halb voll. Er trank es nicht.
+Vesper saß. Sein Bier stand noch im Glas. Er trank es nicht.
 
 Das Kaminfeuer brannte. Die Stimmen liefen weiter. Die dreizehn kaputten Uhren an der Wand hingen stumm, und Vesper dachte: dreizehn Uhren, und keine läuft, und der Wirt will es so. Und in Vael steht eine Uhr die läuft, einwandfrei, und verliert trotzdem. 273 Sekunden. Jeden Tag.
 

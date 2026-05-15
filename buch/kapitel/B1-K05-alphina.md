@@ -138,7 +138,7 @@ Alphina antwortete bevor sie entschied ob sie wollte.
 
 "Botanik. Es gibt einen Farn, der hier nicht wachsen sollte."
 
-Ihre Hände stoppten für eine Sekunde. Sie schaute Alphina an, die Augenbrauen hoch. Dunkle Augen, wach, ein Blick der nicht ruhte, sondern sprang, von Alphinas Gesicht zu ihren Händen, zu ihrem Mantel, zurück.
+Ihre Hände stoppten für eine Sekunde. Sie schaute Alphina an, die Augenbrauen hoch. Dunkle Augen, wach, ein Blick der sprang, von Alphinas Gesicht zu ihren Händen, zu ihrem Mantel, zurück.
 
 "Wegen einer Pflanze."
 
@@ -150,7 +150,7 @@ Ihre Hände stoppten für eine Sekunde. Sie schaute Alphina an, die Augenbrauen 
 
 "Gehen Sie hin. Da stehen Farne die so hoch sind wie ich." Fünfzig, fünfundfünfzig. "Henrik sagt, das sei normal, aber Henrik sagt alles sei normal, Henrik würde auch sagen, Schnee im Erntemond sei normal wenn er damit seine Beete erklären kann." Sechzig. Sie klopfte den Stapel auf den Tresen, schob ihn zu Alphina. "Sechzig Blatt. Drei Schilling."
 
-Aus dem Hinterraum eine Stimme. "Runa." Eine Frage in dem einen Wort, halb erwachsen, kurz vor dem Bruch.
+Aus dem Hinterraum eine Stimme. "Runa." Eine Frage in dem einen Wort, fast erwachsen, kurz vor dem Bruch.
 
 "Einen Augenblick." Sie wischte sich die Hände an der Schürze ab. "Mein Druckergeselle. Ich bin gleich zurück."
 
@@ -162,7 +162,7 @@ Alphina legte die Münzen auf den Tresen. Die Druckerin nahm sie; dabei berührt
 
 Ihre Hand war heiß.
 
-Nicht warm. Nicht die Wärme von jemandem der am Schmelztiegel gearbeitet hatte, nicht die Restwärme von Blei. Heißer. Eine Hitze die aus der Haut kam, nicht von der Oberfläche. Alphinas Finger zuckten zurück, Reflex, unwillkürlich, bevor ihr Kopf entschied. Ein Ruck in der Hand, einen Daumen weit. Sie stand da mit den Münzen halb losgelassen, ihren Fingern in der Luft.
+Nicht warm. Nicht die Wärme von jemandem der am Schmelztiegel gearbeitet hatte, nicht die Restwärme von Blei. Heißer. Eine Hitze die aus der Haut kam, nicht von der Oberfläche. Alphinas Finger zuckten zurück, Reflex, unwillkürlich, bevor ihr Kopf entschied. Ein Ruck in der Hand, einen Daumen weit. Sie stand da mit den Münzen zwischen den Fingern, ihren Fingern in der Luft.
 
 Sie nahm die Münzen.
 

@@ -32,7 +32,7 @@ Er wusch sich die Hände im Waschkrug, das Wasser kalt, der Staub der Reise lös
 
 Er ging zurück nach unten.
 
-Im Schankraum brannte ein Kaminfeuer, niedrig, das Holz knackte in unregelmäßigen Abständen. Zwei Männer saßen an einem Tisch in der Mitte und sprachen leise über ihren halbvollen Biergläsern, ohne aufzuschauen als Vesper hereinkam. Im hinteren Teil des Raumes eine Würfelrunde, vier Männer in dunklen Wollkitteln, einer fluchte gedämpft, ein anderer lachte und sagte einen Namen, den Vesper nicht aufnahm. Eine Magd trug zwei Krüge zu ihnen, dabei tropfte Bier über den Rand, ihre Schürze hatte am Saum einen frischen Fleck, sie schaute nicht nach unten. Am Fenster saß eine Frau, allein, dunkles Haar, aufrechte Haltung, ein Notizbuch aufgeschlagen vor ihr. Sie schaute auf als er die Treppe herunterkam. Ihre Augen trafen seine für einen Wimpernschlag, dunkel, ruhig, ein Blick der nichts fragte. Dann war er vorbei, sie schrieb weiter. Vesper ging zur Theke.
+Im Schankraum brannte ein Kaminfeuer, niedrig, das Holz knackte in unregelmäßigen Abständen. Zwei Männer saßen an einem Tisch in der Mitte und sprachen leise über ihren Biergläsern, ohne aufzuschauen als Vesper hereinkam. Im hinteren Teil des Raumes eine Würfelrunde, vier Männer in dunklen Wollkitteln, einer fluchte gedämpft, ein anderer lachte und sagte einen Namen, den Vesper nicht aufnahm. Eine Magd trug zwei Krüge zu ihnen, dabei tropfte Bier über den Rand, ihre Schürze hatte am Saum einen frischen Fleck, sie schaute nicht nach unten. Am Fenster saß eine Frau, allein, dunkles Haar, aufrechte Haltung, ein Notizbuch aufgeschlagen vor ihr. Sie schaute auf als er die Treppe herunterkam. Ihre Augen trafen seine für einen Wimpernschlag, dunkel, ruhig, ein Blick der nichts fragte. Dann war er vorbei, sie schrieb weiter. Vesper ging zur Theke.
 
 "Ein Bier, bitte." Der Wirt stellte ein Glas auf das Holz. Vesper trank. In Karst schmeckte Bier nach Kupfer, hier schmeckte es nach etwas das er nicht benennen konnte, süßlich und dicht, derselbe Geruch der in der Luft lag seit er die Küste erreicht hatte.
 
@@ -64,7 +64,7 @@ Vesper stand vor der Tür. In seiner Tasche lag der Turm still. Zum ersten Mal s
 ---
 
 
-Er klopfte. Schritte hinter der Tür, leicht und schnell. Dann Stille. Ein Riegel, der zurückgeschoben wurde. Die Tür öffnete sich, aber nur halb. Dahinter eine Frau, Mitte zwanzig vielleicht, Schürze über dem Kleid, das Haar hochgesteckt, eine Strähne die sich gelöst hatte, über ihre Schläfe, bis zum Kinn.
+Er klopfte. Schritte hinter der Tür, leicht und schnell. Dann Stille. Ein Riegel, der zurückgeschoben wurde. Die Tür öffnete sich, einen Spalt. Dahinter eine Frau, Mitte zwanzig vielleicht, Schürze über dem Kleid, das Haar hochgesteckt, eine Strähne die sich gelöst hatte, über ihre Schläfe, bis zum Kinn.
 
 "Einen Moment", sagte sie. Bevor er antworten konnte war sie auf den Knien, die Hände am Boden, wischte etwas von der Schwelle: Erde, Blätter, der Dreck den der Wind vom Garten hereingetragen hatte. Sie kniete vor ihm im Türrahmen, den Kopf gesenkt, die Hände flach auf dem Stein. Vesper stand über ihr. Sein Blick fiel auf ihren Nacken, wo die Strähne sich aus dem Haar gelöst hatte, über die Haut, bis zum Kragen der Bluse. Vor sein Auge trat ein Bild, das er nicht gerufen hatte.
 

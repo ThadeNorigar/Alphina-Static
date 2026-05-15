@@ -228,7 +228,7 @@ Sie lag auf seinem Mantel, den er irgendwann zwischen ihr und den Dielen geschob
 
 Die Farne standen an den Kellerwänden, ein Dutzend Wedel durch Putz und Stein, grün im Rotlicht und deshalb braun, fast schwarz. Sie zitterten nicht. Sie standen, als hätten sie immer dort gestanden. Zwei hatten den Putz so weit aufgebrochen, dass darunter der Purpurstein sichtbar wurde, feucht, dunkel. Die Wärme, die sie auf ihrem Rücken gespürt hatte, als er sie gegen die Arbeitsfläche drückte, kam von den frischen Wedeln, die durch den Putz gewachsen waren; jetzt konnte sie sie zuordnen.
 
-Sie hatte die Augen halb geschlossen. Ihr Kopf hatte noch nicht angefangen zu arbeiten. Ihre Hand lag auf seiner Rippe, flach, ohne Absicht, und sie spürte sein Atmen unter der Handfläche, Aus und Ein, langsam.
+Ihre Lider waren schwer. Ihr Kopf hatte noch nicht angefangen zu arbeiten. Ihre Hand lag auf seiner Rippe, flach, ohne Absicht, und sie spürte sein Atmen unter der Handfläche, Aus und Ein, langsam.
 
 Dann bewegte sich etwas an der Wand, das keine Farnbewegung war.
 
@@ -282,7 +282,7 @@ Sie legte die Hand auf den Stein, ohne ihn aufzuheben. Er war warm, von seiner T
 
 Dann setzte sie sich auf, zog den Mantel an, knöpfte ihn zu, während er ihr von der Seite zusah, ohne etwas zu sagen, ohne sie zurückzuziehen. Ihre Finger gingen langsam über die Hornknöpfe, einen nach dem anderen.
 
-An der Tür drehte sie sich noch einmal um. Er saß halb aufgerichtet auf den Dielen, das Hemd offen, die Haare im Rotlicht fast schwarz. Er hatte die sechzehnte Platte nicht weggeräumt. Sie lag noch auf der Arbeitsfläche, zwischen den anderen.
+An der Tür drehte sie sich noch einmal um. Er hatte sich auf den Ellbogen aufgestützt, das Hemd offen, die Haare im Rotlicht fast schwarz. Er hatte die sechzehnte Platte nicht weggeräumt. Sie lag noch auf der Arbeitsfläche, zwischen den anderen.
 
 "Die Farne bleiben", sagte sie.
 

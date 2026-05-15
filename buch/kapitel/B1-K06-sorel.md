@@ -46,7 +46,7 @@ Der Mann hielt inne, die Hand auf dem Tresenrand. "Keller?" Er legte den Kopf sc
 
 "Ich bin Fotograf. Für die Arbeit brauche ich Dunkelheit: keine Fenster, keine Ritzen. Sonst verderben die Platten."
 
-"Ach so." Der Vermieter kratzte sich am Kinn, halb überzeugt. "Fotograf. Ja, Keller hätte ich einen. Aber der ist nichts für jedermann. Kein Fenster, das passt Ihnen, aber er riecht auch eigenartig seit der Vormieter weg ist. Krieg's nicht raus, egal wie oft ich lüfte."
+"Ach so." Der Vermieter kratzte sich am Kinn. "Fotograf. Ja, Keller hätte ich einen. Aber der ist nichts für jedermann. Kein Fenster, das passt Ihnen, aber er riecht auch eigenartig seit der Vormieter weg ist. Krieg's nicht raus, egal wie oft ich lüfte."
 
 "Der Geruch stört mich nicht."
 

@@ -30,7 +30,7 @@ Schritte auf dem Kies. Schwer, etwas ungleich; das linke Bein schleifte ein weni
 
 "Du zählst richtig."
 
-"Mhm." Henrik schaute kurz über die Anlage, die Augen halb zugekniffen gegen das dünne Licht, das durch den Nebel kam und überall blass auf den Blättern lag. Man sah den Rand der Sonne, wenn man die Augen weit genug zuzog, einen Fleck hinter dem Weißen, nicht Scheibe, nicht Kreis. "Und wenn du nachher die Nordmauer fertig hast, hinter dem Treibhaus, wo die Buchsbaumhecke anfängt, läuft ein brauner Streifen Klee. Eine Handbreit. Ich versteh das nicht. Die Wurzel ist gesund, der Boden ist gesund, und das Ding wird trotzdem braun. Schau ihn dir an, wenn du Lust hast."
+"Mhm." Henrik schaute kurz über die Anlage, die Augen zugekniffen gegen das dünne Licht, das durch den Nebel kam und überall blass auf den Blättern lag. Man sah den Rand der Sonne, wenn man die Augen weit genug zuzog, einen Fleck hinter dem Weißen, nicht Scheibe, nicht Kreis. "Und wenn du nachher die Nordmauer fertig hast, hinter dem Treibhaus, wo die Buchsbaumhecke anfängt, läuft ein brauner Streifen Klee. Eine Handbreit. Ich versteh das nicht. Die Wurzel ist gesund, der Boden ist gesund, und das Ding wird trotzdem braun. Schau ihn dir an, wenn du Lust hast."
 
 "Welcher Streifen?"
 
@@ -82,7 +82,7 @@ Sie kniete an der Außenseite eines Steins, dort wo der Klee noch grün war. Leg
 
 Warm.
 
-Wärmer als das Stadttor am Tag ihrer Ankunft. Wärmer als die Erde in ihrem Topf in Velde. Warm wie Erde unter einem Stein, den man eben erst gehoben hat. Sie wollte den Gedanken nicht denken, weil der Gedanke zu einer Frage führte, die sie nicht stellen wollte, also dachte sie ihn nicht, sondern hielt die Hand liegen und wartete, was kommen würde.
+Wärmer als das Stadttor am Tag ihrer Ankunft. Wärmer als die Erde in ihrem Topf in Velde. Warm wie Erde unter einem Stein, den man eben erst gehoben hat. Sie wollte den Gedanken nicht denken, weil der Gedanke zu einer Frage führte, die sie nicht stellen wollte, also ließ sie ihn fallen und hielt die Hand liegen und wartete, was kommen würde.
 
 Es kam ein Impuls.
 
@@ -145,7 +145,7 @@ Alphina las den Bogen einmal ganz, dann langsamer ein zweites Mal, weil ihr Blic
 
 "Alle Adressen?"
 
-"Ja. Ich hab an jeder Tür geklopft. Witwe Falk hat mir Tee gemacht und mir den Schornstein gezeigt, von dem aus sie das Tier gesehen hat. Familie Tovak hat den Kamin nicht angerührt, seit es passiert ist. Die warten darauf, dass es nochmal passiert." Runa zog die Knie an die Bank, drehte sich halb zu Alphina. "Aber was auf dem Bogen steht, ist nicht alles. Es gibt mehr. Und den Teil darf ich nicht drucken."
+"Ja. Ich hab an jeder Tür geklopft. Witwe Falk hat mir Tee gemacht und mir den Schornstein gezeigt, von dem aus sie das Tier gesehen hat. Familie Tovak hat den Kamin nicht angerührt, seit es passiert ist. Die warten darauf, dass es nochmal passiert." Runa zog die Knie an die Bank, drehte sich zu Alphina. "Aber was auf dem Bogen steht, ist nicht alles. Es gibt mehr. Und den Teil darf ich nicht drucken."
 
 Alphina sah von der Liste auf.
 
@@ -286,7 +286,7 @@ Pförtnerhaus. Henrik saß auf dem kleinen Hocker neben der Tür, die Pfeife im 
 
 "Bis morgen, Henrik."
 
-Sie trat aus dem Garten in die Gasse. Das dünne Licht lag noch flach über den Dächern. Der Nebel war nicht dichter geworden, er war nur ein halbes Tempo träger.
+Sie trat aus dem Garten in die Gasse. Das dünne Licht lag noch flach über den Dächern. Der Nebel war nicht dichter geworden, er war nur etwas träger.
 
 
 ---

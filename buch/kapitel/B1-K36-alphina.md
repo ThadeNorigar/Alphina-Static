@@ -102,7 +102,7 @@ Sie zog sich nicht von Sorel zurück. Ihre Finger blieben in seinem Mantel veran
 
 Der Kreis zwischen den sieben Purpursteinen blieb leer, und dort regte sich nichts. Kein Halm durchstieß die verdichtete Erde innerhalb der Steine. Das Grün wuchs bis an die Grenze heran und hielt dort inne. Alphina nahm den Rand wahr, ohne Verwunderung.
 
-Der Gedanke kam ruhig zu ihr, beinahe sanft, während Sorels Mund noch auf ihrem lag: Das Wachstum war ihr eigenes. Es war der Farn vor ihren Augen, und es waren all die kleinen Regungen der letzten Monate, die Triebe in Fensterfugen, die Wedel an Treppenstufen, die Pflanzen, die schneller wuchsen, wenn Müdigkeit ihre Gedanken lockerte oder wenn sie nachts halb schlafend die Kontrolle verlor. Sie hatte jedes Zeichen gesehen und fortgewendet, hatte den Bewuchs der Schattenseite der Mauer zugeschrieben, dem vielen Niederschlag im Nebelmond. Jetzt tat sie das nicht mehr.
+Der Gedanke kam ruhig zu ihr, beinahe sanft, während Sorels Mund noch auf ihrem lag: Das Wachstum war ihr eigenes. Es war der Farn vor ihren Augen, und es waren all die kleinen Regungen der letzten Monate, die Triebe in Fensterfugen, die Wedel an Treppenstufen, die Pflanzen, die schneller wuchsen, wenn Müdigkeit ihre Gedanken lockerte oder wenn sie nachts schläfrig die Kontrolle verlor. Sie hatte jedes Zeichen gesehen und fortgewendet, hatte den Bewuchs der Schattenseite der Mauer zugeschrieben, dem vielen Niederschlag im Nebelmond. Jetzt tat sie das nicht mehr.
 
 Ihr Brustkorb weitete sich in einem einzigen langsamen Atemzug. Etwas Namenloses hatte endlich eine Form angenommen.
 

@@ -100,7 +100,7 @@ Maren stand in der Halle. Der Geruch hielt sich. Das Licht aus der Blüte reicht
 
 Sie blieb noch einen Moment stehen und sah die Pflanze an. Dann ging sie zur Werft-Tür und schob den Riegel quer; das Eisen griff, das Tor war zu. Niemand kam jetzt herein, der nicht ohnehin hineinsollte.
 
-Durch die Halle zurück, am Boot vorbei, zur Werkbank. In der zweiten Schublade lagen die Messwerkzeuge, ordentlich, das kleine Lot, der Messbalken, das Lineal mit den gekerbten Maßen für Zoll und Elle. Ganz hinten war Platz für Kleines. Maren zog das abgebrochene Blatt unter dem Mieder hervor (es hatte sich an der Haut leicht gewärmt, der Stiel war noch nicht braun geworden) und legte es dorthin. Schob die Schublade halb zu. Nicht ganz.
+Durch die Halle zurück, am Boot vorbei, zur Werkbank. In der zweiten Schublade lagen die Messwerkzeuge, ordentlich, das kleine Lot, der Messbalken, das Lineal mit den gekerbten Maßen für Zoll und Elle. Ganz hinten war Platz für Kleines. Maren zog das abgebrochene Blatt unter dem Mieder hervor (es hatte sich an der Haut leicht gewärmt, der Stiel war noch nicht braun geworden) und legte es dorthin. Schob die Schublade zu. Nicht ganz.
 
 Der hintere Zugang der Werft führte auf den Steg. Ein schmales Tor, das sie morgens immer offen ließ, wenn Edric da war. Heute schob sie es nur so weit auf, dass sie hindurchpasste. Der Nebel über der Grauwe war dichter als in der Gasse, ein zweites Ufer, das langsam über dem Wasser wanderte. Die Stegbretter waren nass, die Planken dunkel vom Tau.
 
@@ -156,7 +156,7 @@ Der Weg zum *Anker* war sechs Minuten durch die Hafengasse, am Steg vorbei, wo d
 
 ---
 
-Der Schankraum war halb besetzt. Zwei Männer saßen am langen Tisch, das Bier dunkel vor ihnen. Eine Frau stand am Ofen, den Rücken zur Tür. Die Wirtsfrau fuhr hinter der Theke mit einem feuchten Lappen über das Tresenholz. Keiner drehte sich um, als Maren eintrat. Sie ging durch, hinten links, den kurzen Flur entlang, zur kleinen Stube, in der Vesper seinen Reparaturtisch hatte. Die Tür stand einen Finger breit offen. Der Spalt war ihr vertraut.
+Der Schankraum war spärlich besetzt. Zwei Männer saßen am langen Tisch, das Bier dunkel vor ihnen. Eine Frau stand am Ofen, den Rücken zur Tür. Die Wirtsfrau fuhr hinter der Theke mit einem feuchten Lappen über das Tresenholz. Keiner drehte sich um, als Maren eintrat. Sie ging durch, hinten links, den kurzen Flur entlang, zur kleinen Stube, in der Vesper seinen Reparaturtisch hatte. Die Tür stand einen Finger breit offen. Der Spalt war ihr vertraut.
 
 Sie schob sie mit dem Ellbogen auf, so weit, dass sie eintreten konnte, und blieb auf der Schwelle einen Atemzug stehen. Der Raum hatte eine Ordnung, die ihm gehörte: die Petroleumlampe genau über der Arbeitsfläche, die Werkzeuge nach Länge aufgereiht, das schwarze Samttuch auf dem Tisch ohne Falte. Sie trat ein.
 

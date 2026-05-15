@@ -302,7 +302,7 @@ Den Werft-Hammer fand sie an der Werkzeug-Wand auf seinem Nagel. Der Griff lag g
 
 Sie zog das Tor hinter sich zu, drehte den Schlüssel zweimal, prüfte am Bolzen, dass er saß.
 
-Den Rückweg ging sie nicht durch die Hafengasse, sondern über den Bogen, der an der Mündung der Sattlerstraße vorbeiführte. Auf dem Stein vier dunklere Flecken, vier Stellen, an denen das Wasser anders ablief. Sie wusste, wessen Flecken das waren: Joran, der Setzer-Gehilfe, der mittwochs eine bestimmte Schriftart verlangte und ihr im Eismond bei Regen eine Tasse Tee in die Werft gebracht hatte. Sie sah nicht hin. Sie ging vorbei.
+Den Rückweg ging sie über den Bogen, der an der Mündung der Sattlerstraße vorbeiführte. Auf dem Stein vier dunklere Flecken, vier Stellen, an denen das Wasser anders ablief. Sie wusste, wessen Flecken das waren: Joran, der Setzer-Gehilfe, der mittwochs eine bestimmte Schriftart verlangte und ihr im Eismond bei Regen eine Tasse Tee in die Werft gebracht hatte. Sie sah nicht hin. Sie ging vorbei.
 
 Hafengasse abwärts, das Haustor, die Treppe, fünfzehn Stufen, siebte außen. An ihrer Wohnungstür drehte sie den Schlüssel, trat ein und schob den Riegel vor. Der Riegel ging zum zweiten Mal, seit sie hier wohnte.
 

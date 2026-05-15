@@ -4,7 +4,7 @@
 
 Alphina kam als Erste.
 
-Sie hatte den Schlüssel eine halbe Stunde früher im Schloss gedreht als verabredet, weil sie den Garten noch einmal allein sehen wollte, bevor die anderen kamen und aus all den Beobachtungen, die seit Wochen nebeneinanderlagen, etwas Gemeinsames wurde. Der Kies knirschte leise unter ihren Schuhen, als sie das Tor hinter sich schloss. Die Nachmittagssonne fiel schräg durch die Blätter der großen Kastanie, und auf dem Hauptweg lag eine flache Wärme, die nicht mehr ganz zum Tag gehörte, sondern schon zum Abend hinüberneigte.
+Sie hatte den Schlüssel eine halbe Stunde früher im Schloss gedreht als verabredet, weil sie den Garten noch einmal allein sehen wollte, bevor die anderen kamen und aus all den Beobachtungen, die seit Wochen nebeneinanderlagen, etwas Gemeinsames wurde. Der Kies knirschte leise unter ihren Schuhen, als sie das Tor hinter sich schloss. Die Nachmittagssonne fiel schräg durch die Blätter der großen Kastanie, und auf dem Hauptweg lag eine flache Wärme, die schon zum Abend hinüberneigte.
 
 Zwischen den Beeten hing wieder der süße Geruch, der vierte, den der Garten nicht haben sollte. Er war dichter als gestern, schwerer, und Alphina konnte ihn noch immer nicht benennen. Kein Honig, keine Frucht. Süß, aber darunter lag etwas Warmes, Fremdes.
 

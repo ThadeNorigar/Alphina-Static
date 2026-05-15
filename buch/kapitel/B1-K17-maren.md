@@ -2,198 +2,234 @@
 
 *19. Blütenmond 551 · 8 Wochen 1 Tag in Vael*
 
-Der Morgen war eine Stunde alt, als sie ihn kommen hörte. Schritte über das Pflaster der Hafengasse, die auf der Werft anders klangen als in der Stadt — das Holz des Bodens unter der Sohle, die Spanplatten am Eingang, die knarrende Schwelle, auf der Edric jeden Morgen mit dem linken Fuß zuerst stand. Dies war ein anderer Fuß. Ein gleichmäßiger Gang, nicht eilig, nicht schlendernd, ein Schritt der seine Länge kannte.
+Der Morgen war eine Stunde alt, als Maren ihn kommen hörte.
 
-Sie hob den Kopf nicht sofort. Der Hobel lag schief, die letzte Welle in der Lärche wollte nicht nachgeben, das Holz hatte einen Knoten zwei Finger unter der Oberfläche, den sie gestern schon gespürt hatte und heute umgehen musste. Sie setzte den Druck neu, nahm die Späne ab, ließ die Faser arbeiten. Erst dann drehte sie sich um.
+Die Schritte über das Pflaster der Hafengasse klangen auf der Werft anders als in der Stadt, dumpfer durch das Holz unter den Sohlen und unterbrochen vom Knarren der Schwelle am Eingang. Edric trat dort jeden Morgen zuerst mit dem linken Fuß auf. Dieser Gang gehörte jemand anderem: gleichmäßig, weder eilig noch langsam, ein Schritt, der seine eigene Länge kannte.
 
-Er stand in der offenen Schiebetür, eine Hand am Rahmen, in der anderen ein Tuch aus ungebleichter Leinwand, eng um etwas Rechteckiges gewickelt. Hinter ihm stand die Sonne des Spätfrühlings, hell und rau, die Luft trug Salz und den Tang der rückläufigen Tide. Sein Gesicht lag halb im Schatten.
+Maren hob den Kopf nicht sofort. Der Hobel klemmte schräg in ihrer Hand, und die letzte Welle in der Lärchenplanke wollte noch immer nicht nachgeben. Zwei Finger unter der Oberfläche saß ein Knoten, den sie bereits gestern gespürt hatte und heute sauber umgehen musste. Sie setzte den Druck neu, ließ die Klinge flacher laufen und nahm erst die nächste dünne Spanschicht ab, bevor sie sich umdrehte.
 
-"Guten Morgen." Seine Stimme war ruhig, eine Silbe nach der anderen. "Ich wollte die Uhr selbst bringen."
+Vesper stand in der offenen Schiebetür, eine Hand am Rahmen, in der anderen ein Tuch aus ungebleichter Leinwand, eng um etwas Rechteckiges gewickelt. Hinter ihm lag das harte Licht des Spätfrühlingsmorgens, und Salzgeruch und Tang wehten von der rückläufigen Tide herauf. Sein Gesicht blieb im Schatten.
 
-Zwei Tage. Er hatte vier gesagt. Sie hatte sich auf vier eingerichtet, hatte die Tage mit Arbeit gefüllt, hatte das Holz geschnitten und nicht nachgezählt. Jetzt stand er nach zwei in der Tür, und etwas zwischen ihren Schlüsselbeinen rutschte einen Fingerbreit nach vorn und legte sich fest.
+„Guten Morgen", sagte er ruhig. „Ich wollte die Uhr selbst bringen."
 
-Sie nickte. Legte den Hobel ab, sauber, Klinge nach oben, auf dem Platz auf der Werkbank, an dem er jeden Morgen lag. Wischte die Hände an der Schürze ab — die Hornspäne klebten an der Innenfläche, das war jetzt egal, aber es war die Bewegung, die Zeit verschaffte.
+Zwei Tage. Er hatte vier gesagt.
 
-"Kommen Sie rein."
+Maren hatte sich auf vier eingerichtet: vier Tage Arbeit, Holzstaub und Müdigkeit, die den Kopf leer genug machten, um nicht darüber nachdenken zu müssen, warum sie seinen Gang inzwischen zwischen zwanzig anderen unterscheiden konnte. Jetzt stand er nach zwei Tagen in ihrer Tür, und etwas unter ihren Rippen zog sich zusammen und löste sich sofort wieder, als hätte ihr Körper ihn erkannt, bevor ihr Verstand ihn eingeordnet hatte.
 
-Er kam rein. Sechs Schritte, die ihn mitten in den Schuppen trugen, dort wo das Boot auf den Böcken lag, drei Viertel fertig, die offene Seite dem Tor zugekehrt. Er sah das Boot an, kurz, ohne zu bewerten. Sein Blick ging über die Spanten, die Reihenfolge der Planken, die kleinen Schnittmarken an den Innenseiten, die sie gesetzt hatte. Seine Augen hielten an zwei Stellen, gingen weiter.
+Sie legte den Hobel langsamer ab, als nötig gewesen wäre, sauber, Klinge nach oben, auf dem Platz auf der Werkbank, an dem er jeden Morgen lag. Wischte die Hände an der Schürze ab; die Hornspäne klebten an der Innenfläche, das war jetzt egal, aber es war die Bewegung, die Zeit verschaffte.
 
-"Haben Sie den Kiel selbst gelegt?"
+„Kommen Sie rein."
 
-"Ja."
+Vesper trat ein. Sechs Schritte brachten ihn mitten in den Schuppen, dorthin, wo das Boot auf seinen Böcken lag, drei Viertel fertig, die offene Seite dem Tor zugewandt. Sein Blick glitt kurz über die Spanten, die Reihenfolge der Planken und die kleinen Schnittmarken an den Innenseiten. An zwei Stellen hielt er einen Moment inne, dann ging er weiter.
 
-"Schöne Arbeit." Keine Schmeichelei, kein Lob. Eine Feststellung. Dann ging er weiter zur Werkbank, wickelte das Tuch auf und legte die Schiffsuhr darauf.
+„Haben Sie den Kiel selbst gelegt?"
 
-Das Messing war poliert, die Tiefe zwischen den Gravuren war sauber gezogen, der Glasdeckel neu, kein Riss. Er hatte den kleinen Zeiger auf die Zwölf gestellt, und das Werk lief — sie hörte es erst, als er die Hände wegnahm und der Raum um die Uhr herum still wurde. Das Ticken war leise, gleichmäßig, ein kleiner, warmer Schlag neben dem Sägemehl.
+„Ja."
 
-"Das Unruhrad habe ich ersetzt." Er sprach ohne Lupe, ohne Werkzeug, die Hände flach auf dem Tuch, links und rechts der Uhr. "Der Spannungsriss war tiefer als auf den ersten Blick. Die Spirale habe ich gerichtet und neu eingespannt. Der Zapfen unten war korrodiert, das habe ich getauscht."
+„Schöne Arbeit."
 
-"Gut."
+Eine Feststellung, kein Lob. Trotzdem wurde etwas in ihr warm.
 
-"Sie haben die Halterung in der Kajüte."
+Er trat an die Werkbank, wickelte das Tuch auseinander und legte die Schiffsuhr darauf. Das Messing schimmerte poliert, sauber zwischen den Gravuren, der Glasdeckel ersetzt. Kein Riss mehr. Erst als er die Hände zurücknahm und der Raum um die Uhr still wurde, hörte Maren das Ticken: ein kleiner warmer Schlag mitten zwischen Sägemehl und Holzstaub.
 
-"Ja."
+„Das Unruhrad musste ich ersetzen", erklärte er ohne Lupe, ohne Werkzeug, die Hände flach auf dem Tuch, links und rechts der Uhr. „Der Spannungsriss war tiefer, als es zuerst aussah. Die Spirale habe ich gerichtet und neu eingespannt. Der untere Zapfen war korrodiert; den habe ich ebenfalls getauscht."
 
-Sie ging voraus. Drei Stufen von der Werkbank zur Backbordseite des Bootes, die kleine Leiter hoch, durch die Öffnung in die Kajüte. Der Raum war eng, nur zur Hälfte verschalt, der Deckenbalken war eingezogen, aber die Stirnwand stand schon, und in der Stirnwand war das Loch für die Uhr, eingefräst, der Rand geschliffen, die Halterung aus Messing mit vier kleinen Bohrungen rundherum. Sie wartete, bis er oben war. Die Kajüte nahm ihn auf ohne Aufwand, aber der Deckenbalken stand eine Handbreit über ihrem Scheitel, und wenn er einatmete, hörte sie es.
+„Gut."
 
-"Darf ich?"
+„Sie haben die Halterung schon eingebaut?"
+
+„Ja."
+
+Maren ging voraus. Drei Stufen führten von der Werkbank zur Backbordseite des Boots, dann die kleine Leiter hinauf in die Kajüte. Der Raum war eng und nur halb verschalt; der Deckenbalken saß bereits, ebenso die Stirnwand mit der eingefrästen Öffnung für die Uhr. Sie wartete, bis Vesper hinter ihr in der Kajüte stand. Der Raum nahm ihn ohne Mühe auf, und trotzdem hörte sie sein Atmen deutlicher als unten in der Halle.
+
+„Darf ich?"
 
 Sie nickte.
 
-Er setzte die Uhr ins Loch. Das Messing der Halterung nahm das Messing des Gehäuses auf, Metall auf Metall, eine Passung ohne Spiel. Dann zog er die vier Schrauben aus der Brusttasche — kleine, polierte Köpfe, jede einzeln in einem Lappen gewickelt, das Wickeln hatte er gemacht, bevor er herkam. Er setzte die erste Schraube an, oben rechts. Der Schraubenzieher aus seiner Rocktasche war anders als die aus dem *Anker*, größer, gröber, für Schiffsarbeit. Er drehte die Schraube bis sie griff, prüfte mit dem Daumen den Sitz, zog sie halb fest. Dann oben links. Unten rechts. Unten links. Erst dann zog er die vier in einer zweiten Runde nach, in derselben Reihenfolge, jeweils eine Viertelumdrehung, damit die Halterung sich nicht verzog.
+Er setzte die Uhr in die Öffnung. Das Messing der Halterung nahm das Gehäuse ohne Spiel auf, Metall gegen Metall in einer Passung, die sofort richtig saß. Danach zog er vier kleine Schrauben aus der Brusttasche, jede einzeln in Stoff gewickelt, als hätte er die Ordnung bereits zu Hause vorbereitet.
 
-Maren stand hinter ihm, eine Armlänge entfernt, und schaute auf seine Hände. Sie wollte es nicht. Sie schaute trotzdem. Die Fingerkuppen breit und flach, die Narbe am rechten Handknöchel, die Schwielen, die sie vor zwei Tagen gelesen hatte — dieselben Hände, dieselbe Ordnung, derselbe Abstand zwischen Daumen und Werkzeug. Etwas unter ihrem Rippenbogen wurde ruhiger. Ihre eigenen Finger lagen auf der Leiterstufe neben ihr, fest, ohne Bewegung.
+Die erste Schraube setzte er oben rechts an. Der Schraubenzieher war größer als die feinen Werkzeuge aus dem Anker, gröber, gebaut für Schiffsarbeit. Er zog die Schraube nur halb an, prüfte mit dem Daumen den Sitz und setzte die nächste ein: oben links.
 
-Er war fertig. Er hätte die Kajüte verlassen können. Er drehte sich um, prüfte den Sitz noch einmal mit den Augen — Rechteck zur Wand, Uhrgehäuse bündig, Schrauben flach —, und erst dann ging er rückwärts durch die Öffnung, ließ sie vorausgehen.
+Maren stand hinter ihm und sah auf seine Hände, obwohl sie es nicht wollte. Dieselben breiten Fingerkuppen wie vor zwei Tagen, dieselbe Narbe am rechten Knöchel, dieselbe ruhige Genauigkeit. Etwas unter ihrem Rippenbogen wurde still. Ihre eigenen Finger lagen auf der Leiterstufe neben ihr, fest, ohne Bewegung.
 
-Wieder in der Halle war Platz. Die Schiebetür stand offen, die Sonne lag jetzt ein Stück weiter östlich, die Säulen der Bohlen zeichneten lange Streifen auf den Werftboden. Vesper setzte sich nicht. Aber er ging auch nicht. Er blieb neben der Werkbank stehen, die Hand leicht auf dem Holz.
+Unten rechts. Unten links. Erst danach zog er alle vier ein zweites Mal nach, in derselben Reihenfolge und jeweils nur um eine Vierteldrehung, damit die Halterung sich nicht verzog.
 
-"Vier Silber zwanzig." Er nannte den Preis ohne Überleitung. "Zwanzig weniger, weil ich das Unruhrad aus eigenem Bestand hatte."
+Als er die letzte Schraube prüfte, blieb seine Hand einen Herzschlag zu lange am Messing. Nicht viel, nur lang genug, dass sie merkte, dass er wusste, wie nah sie hinter ihm stand. Sein Atem ging einmal tiefer, dann setzte er das Werkzeug weg.
 
-Sie ging zur kleinen Dose auf dem Regalbrett über der Werkbank, zählte das Geld ab, legte es auf das Tuch neben die eine Ecke, die er zurückgeklappt hatte. Vier Silbermünzen, zwei kleine Kupferstücke. Er nahm sie, prüfte die Prägungen mit einem Blick, steckte sie in die Brusttasche. Sah dann auf den Boden. Auf die Tür. Auf das Boot. Auf sie.
+Als er fertig war, hätte er die Kajüte verlassen können. Stattdessen prüfte er den Sitz der Uhr noch einmal mit einem langen Blick, kontrollierte die bündige Linie des Gehäuses und die flachen Schraubenköpfe, bevor er rückwärts durch die Öffnung stieg und sie zuerst hinausgehen ließ.
 
-"Darf ich etwas fragen?"
+Unten in der Halle war wieder Raum zwischen ihnen. Die Sonne stand inzwischen höher und zog lange helle Streifen zwischen die Bohlen des Werftbodens. Vesper setzte sich nicht, doch er ging auch nicht. Eine Hand ruhte leicht auf der Werkbank.
 
-"Ja."
+„Vier Silber zwanzig", sagte er schließlich. „Zwanzig weniger, weil das Unruhrad aus meinem eigenen Bestand kam."
 
-Sie wischte sich noch einmal die Hände. Drehte sich zu ihm. Er stand, wie er immer stand, die Schultern gerade, die Hände sichtbar. Sie hatte das Flugblatt zwei Tage im Kopf gehabt, und jetzt, in dem Raum, in dem seine Hände an ihrer Stirnwand gearbeitet hatten, wollten die Wörter sich nicht mehr umdrehen.
+Maren ging zur kleinen Dose auf dem Regalbrett über der Werkbank, zählte das Geld ab und legte es neben die zurückgeschlagene Ecke des Tuchs. Vier Silbermünzen, dazu zwei kleine Kupferstücke. Er prüfte die Prägungen mit einem einzigen Blick und steckte die Münzen ein.
 
-"Was haben Sie mit der Standuhr in Tidemoor gemacht?"
+Danach sah er erst auf das Boot, dann auf die offene Tür und zuletzt auf sie.
 
-Seine Hand auf dem Werkbankholz wurde still. Die Luft, die er einzog, war einen Atemzug länger als nötig. Seine Schultern senkten sich um eine Nuance.
+„Darf ich etwas fragen?"
 
-Er sah auf das Boot. Die offene Seite, die Spanten, die gestern eingebaute Planke. Dann auf sie.
+„Ja."
 
-"Die Uhr läuft rein, wenn ich die Hand auf das Gehäuse lege. Sobald ich sie wegnehme, verliert sie den Takt. Vier Minuten und dreiunddreißig Sekunden am Tag. Jeden Tag."
+Sie wischte die Hände erneut an der Schürze ab und drehte sich ganz zu ihm. Das Flugblatt hatte ihr zwei Tage lang im Kopf gelegen, doch jetzt, in dem Raum, in dem seine Hände an ihrer Stirnwand gearbeitet hatten, wollten die Worte sich kaum noch formen.
 
-Sie hörte zu.
+„Was haben Sie mit der Standuhr in Tidemoor gemacht?"
 
-"Ich habe das Werk dreimal auseinandergenommen. Es ist einwandfrei. Die Hemmung greift, die Unruh schlägt, die Feder ist sauber. Die Toleranzen stimmen. Der Fehler ist nicht im Mechanismus." Er machte eine Pause, kurz, nicht aus Unsicherheit, aus Präzision. "Der Fehler ist nicht hier."
+Seine Hand auf dem Werkbankholz wurde vollkommen still. Der Atem, den er nahm, dauerte einen Augenblick länger als nötig. Seine Schultern senkten sich um eine Nuance. Er sah erst auf das Boot und die neue Planke in der Bordwand, bevor er wieder zu ihr aufblickte.
 
-"Seit wann?"
+„Der Besitzer hat mich geholt, weil die Uhr im Saal täglich Zeit verlor. Vier Minuten dreiunddreißig. Ich habe den Abstand gemessen, ohne sie zu berühren. Dann habe ich sie berührt. Die Drift war weg, solange meine Hand auf dem Gehäuse lag. Sieben Tage wiederholt, dieselbe Zahl." Sein Blick blieb auf ihr. „Ich habe sie geöffnet, dreimal. Die Hemmung greift, die Unruh schlägt, die Feder ist sauber. Der Fehler lag nicht im Mechanismus."
 
-"Seit ich in der Stadt bin. Sieben Wochen."
+„Seit wann?"
 
-"Und vorher?"
+„Seit ich in Vael bin. Sieben Wochen."
 
-"Vorher nichts. Tidemoor war das erste." Seine Hand lag noch auf dem Holz, die Finger hatten sich nicht bewegt, seit sie die Frage gestellt hatte.
+„Und vorher?"
 
-Er sah kurz auf das Werkzeug auf der Bank, als prüfe er, ob etwas dazwischenlag.
+„Vorher nichts. Tidemoor war das erste Mal."
 
-"Der Besitzer des Tidemoor-Hauses hat mich geholt, weil die Uhr im Saal täglich Zeit verlor. Vier Minuten dreiunddreißig. Ich habe den Abstand gemessen, ohne sie zu berühren. Dann habe ich sie berührt. Die Drift war weg, solange meine Hand auf dem Gehäuse lag. Ich habe das sieben Tage wiederholt. Dieselbe Zahl, immer." Die Stimme hatte keinen Bruch. "Ich habe dem Besitzer gesagt, dass es am Raum liegt, nicht an der Uhr. Es liegt nicht am Raum."
+Seine Finger hatten sich auf dem Werkbankholz nicht bewegt, seit sie die Frage gestellt hatte.
 
-Sie nickte einmal. Fragte nicht weiter.
+„Ich habe dem Besitzer zuerst gesagt, es läge am Raum", fuhr er fort. „Das tut es nicht."
 
-Er sah sie an. Einen Moment, in dem er die Entscheidung traf, etwas zu sagen, das er seit Wochen nicht gesagt hatte. "Ich habe es Alphina erzählt." Der Name kam gerade, ohne Erläuterung. "Sonst niemandem."
+Eine Pause, kurz, nicht aus Unsicherheit.
 
-Sie hätte jetzt fragen können, wer Alphina war. Sie fragte nicht.
+„Vor fünf Tagen habe ich versucht, ihr meinen Schlag zu geben. *Behalte diesen Schlag,* habe ich gesagt. Seitdem läuft sie rein. Auch wenn ich nicht mehr da bin."
 
-"Danke." Sie sagte es einmal, leise, ohne Nachsatz.
+Maren nickte langsam und stellte keine weitere Frage.
+
+Einen Moment lang sah er sie an, bevor er den nächsten Satz aussprach. „Ich habe es Alphina erzählt", sagte er schließlich. „Sonst niemandem."
+
+Der Name fiel ruhig zwischen sie. Maren fragte nicht, wer Alphina war.
+
+„Danke", sagte sie nur.
 
 ---
 
-Sie nahm zwei Becher — Steingut, schwer — und füllte sie mit dem Krug aus dem Eimer neben der Werkbank. Das Wasser war kalt, vom frühen Morgen. Sie gab in jeden ein Blatt aus der Büchse mit dem schwarzen Tee aus Solha.
+Maren holte zwei schwere Steingutbecher und füllte sie mit dem Krug aus dem Eimer neben der Werkbank. Das Wasser war kalt, vom frühen Morgen. Sie gab in jeden ein Blatt aus der Büchse mit dem schwarzen Tee aus Solha.
 
-Sie stellte seinen Becher auf das Tuch vor ihm, neben der Ecke, die er zurückgeklappt hatte. Den eigenen behielt sie in der Hand. Setzte sich auf die zweite Kiste neben der Werkbank.
+Seinen Becher stellte sie auf das Tuch neben ihn. Den eigenen behielt sie in der Hand und setzte sich auf die zweite Kiste neben der Werkbank.
 
-Er sah auf den Becher. Das Wasser stand klar und kalt, das Teeblatt hatte sich noch nicht geöffnet.
+Vesper betrachtete den Becher vor sich. Das Wasser ruhte klar und kalt, das Teeblatt lag reglos am Grund.
 
-Das Wasser in seinem Becher bewegte sich zuerst. Eine kleine Drehung, gegen den Uhrzeigersinn, das Blatt hob sich vom Grund und drehte sich langsam, als hätte eine Hand darunter gerührt, die keinen Löffel brauchte. Der Strudel hielt — zwanzig Sekunden, dreißig. Dann kamen die ersten Dämpffäden: dünn, kaum zu sehen, aus einer Oberfläche, die kalt gewesen war.
+Das Wasser in seinem Becher bewegte sich zuerst. Eine kleine Drehung, gegen den Uhrzeigersinn, das Blatt hob sich vom Grund und drehte sich langsam, als hätte eine Hand darunter gerührt, die keinen Löffel brauchte. Maren spürte den Moment nicht in den Händen, sondern dort, wo sein Blick sie traf. Die Wärme kam unter ihren Rippen zuerst, breitete sich tiefer aus und lief von dort in ihre Handgelenke hinunter, bis das Steingut warm an den Fingerkuppen wurde.
 
-Er starrte. Nicht kurz. Nicht höflich. Sein ganzer Körper war stehengeblieben, der Becher vor ihm auf dem Tuch, die Hände flach zu beiden Seiten, und nichts an ihm bewegte sich. Seine Augen lagen auf dem Strudel, dann auf ihren Händen, dann auf ihrem Gesicht. Die Konzentration, die sie aus dem *Anker* kannte, die Lupe-am-Auge, die Stille in seinen Handgelenken, lag jetzt auf ihr.
+Der Strudel hielt, zwanzig Sekunden, dreißig. Dann erst kamen die ersten Dämpffäden, dünn, kaum zu sehen, aus einer Oberfläche, die kalt gewesen war.
 
-Seine Hände lagen flach auf dem Tuch, links und rechts des Bechers. Er berührte sie nicht.
+Er starrte. Nicht kurz, nicht höflich. Sein ganzer Körper war stehengeblieben, der Becher vor ihm auf dem Tuch, die Hände flach zu beiden Seiten, und nichts an ihm bewegte sich. Sein Blick ging erst zum Wasser, dann zu ihren Händen, zurück zu ihrem Gesicht. Die Konzentration, die sie aus dem Anker kannte, die Lupe-am-Auge, die Stille in seinen Handgelenken, lag jetzt auf ihr. Das Holz des Schuppens knackte in der Wärme. Unter der Oberfläche des Tees zog eine zweite Bewegung durch das Wasser, tiefer als der erste Strudel. Maren wusste nicht, ob die Reaktion von ihr kam oder von ihm.
 
-In ihrem Kopf kam trotzdem ein Bild. Seine Fingerkuppen, die sich eben am Schraubenkopf geprüft hatten, jetzt an ihrem Handgelenk, innen, an der Sehne unter dem Daumenansatz. Nicht fest. Nur gesetzt. Ein Gewicht, das wartete. Seine Stimme, ohne Wort, nur die Art, wie die Luft vor seinem Mund die Richtung wechselte. Seine Aufmerksamkeit, die sie hielt, ohne sie zu drücken. Das Stillwerden ihrer eigenen Schultern, die auf etwas gewartet hatten, von dem sie nicht gewusst hatte, dass es kommen würde.
+Vespers Hände lagen flach auf dem Tuch. Er berührte sie nicht, und trotzdem entstand in ihrem Kopf das Bild: seine Fingerkuppen, die sich eben am Schraubenkopf geprüft hatten, jetzt an ihrem Handgelenk innen, an der Sehne unter dem Daumenansatz. Nicht fest. Nur gesetzt. Ein Gewicht, das wartete. Seine Aufmerksamkeit, die sie hielt, ohne sie zu drücken. Das Stillwerden ihrer eigenen Schultern, die auf etwas gewartet hatten, von dem sie nicht gewusst hatte, dass es kommen würde.
 
-Sie versuchte, das Bild wegzuschieben. Zweimal in dreißig Jahren hatte sie das gekannt — das Begehren, gehalten zu werden; Wärme unter den Rippen, Hände, die ruhiger wurden statt unruhiger; beide Male hatte sie es aus dem Kopf geschoben, bevor es Form annahm. Diesmal ging es nicht.
+Sie versuchte, das Bild wegzuschieben. Zweimal in dreißig Jahren hatte sie das gekannt: das Begehren, gehalten zu werden; Wärme unter den Rippen, Hände, die ruhiger wurden statt unruhiger. Beide Male hatte sie es aus dem Kopf geschoben, bevor es Form annahm. Diesmal ging es nicht.
 
-Weil sie es zuließ, wurde es schärfer. Draußen, vor ihr, lagen seine Hände auf dem Tuch. In ihrem Kopf lagen seine Fingerkuppen an ihrem Handgelenk innen. Der Schuppen um sie beide war weit weg, die Esse mit der Glut war weit weg. Das Ticken aus der Kajüte hörte sie nicht mehr. Nur der Becher in ihrer Hand stand noch in der Nähe, und durch das Steingut zog die Wärme in beide Richtungen.
+Weil sie es zuließ, wurde es schärfer. Draußen, vor ihr, lagen seine Hände auf dem Tuch. In ihrem Kopf lagen seine Fingerkuppen an ihrem Handgelenk innen. Der Schuppen um sie beide war weit weg, das Ticken aus der Kajüte hörte sie nicht mehr. Nur der Becher in ihrer Hand stand noch in der Nähe, und durch das Steingut zog die Wärme in beide Richtungen.
 
-Ihre Lippen hatten sich ein wenig geöffnet. Sie schloss sie nicht hastig. Ihr Atem ging durch die Nase. Das Salz, das sie immer auf den Lippen hatte — Werftsalz, Seesalz, die Morgenluft — lag auf ihrer Oberlippe, sie konnte es schmecken, weil ihre Zunge sich kurz an die Innenseite der Oberlippe legte, und mit dem Salz kam ein feiner Geschmack von Metall, den sie schon aus der *Anker*-Stunde kannte.
+Draußen lag der Hafen in Sonne und Salz und Werftlärm. Hier drin hörte sie nur noch seinen Atem.
 
-Er blinzelte einmal. Die Sekunde war zu Ende.
+Vesper blinzelte einmal. Es war die erste sichtbare Unsicherheit, seit er den Schuppen betreten hatte. Seine Hand bewegte sich einen Fingerbreit auf den Becher zu, dann hielt er inne.
 
-Der Becher auf dem Tuch vor ihm war heiß. Die Oberfläche im Tee strudelte nicht mehr. Das Blatt hatte sich wieder gesetzt. Die Luft zwischen ihnen war dichter. Er sagte nichts zuerst. Als er sprach, war die Stimme dieselbe wie vorher — nicht warm, nicht kalt, nur gleichmäßiger vielleicht, als hätte er sie beim Sprechen nachgestellt.
+Maren sah den Moment, in dem er bewusst entschied, sie nicht zu berühren. Genau deshalb wurde ihr plötzlich heiß.
+
+Die Wärme zog tiefer. Ihre Lippen standen leicht offen, und sie schloss sie nicht. Auf ihrer Oberlippe lag der Geschmack von Salz, Meerluft, Werftstaub und Hautwärme, darunter jener feine metallische Nachklang, den sie schon aus dem Anker kannte.
+
+Zwischen ihnen wuchs eine Stille. Vesper sagte nichts, aber sein Blick blieb an ihrem Gesicht hängen. Er atmete langsam durch die Nase.
 
 Sein Daumen bewegte sich am Becher auf dem Tuch, einmal, eine kleine Drehung. Das war die erste Bewegung, die er in seiner Hand machte, seit er zu ihr geschaut hatte.
 
-"Seit wann?"
+„Seit wann?"
 
-"Kleinere Dinge seit Solha. Seit ich in Vael bin, anders."
+„Kleinere Dinge seit Solha. Seit ich in Vael bin, anders."
 
-"Wasser?"
+„Wasser?"
 
-"Nur Wasser, soweit ich weiß."
+„Nur Wasser, soweit ich weiß."
 
-Er schaute eine Sekunde auf den Becher, als wäre er dort nicht fertig gelesen. Dann auf sie.
+Er sah eine Sekunde auf den Becher, als wäre er dort nicht fertig gelesen. Dann auf sie.
 
-"Sie müssen Alphina kennenlernen."
+„Sie sollten Alphina kennenlernen."
 
-"Sie wohnt im *Anker*. Botanikerin aus Velde. Sie arbeitet im Botanischen Garten oben auf der Klippe." Er machte eine kurze Pause. "Sie macht etwas mit Pflanzen. Ähnlich."
+Maren nickte langsam.
 
-Sie nickte.
+„Botanikerin, wohnt im Anker. Sie macht etwas mit Pflanzen, ähnlich."
 
-Er stand auf. Es war nicht abrupt, aber es war endgültig. Er trank nicht. Er hatte nichts getrunken, die ganze Zeit. Sie sah es jetzt — der Tee war fast voll, ein schwarzer Kreis unter dem Dampf, das Blatt am Grund.
+Danach stand er auf. Nicht abrupt, aber endgültig. Er hatte den Tee kein einziges Mal angerührt.
 
-"Ich schicke Alphina vorbei. Oder ich bringe Sie hin."
+„Ich schicke sie vorbei", sagte er. „Oder ich bringe Sie hin."
 
-"Beides geht."
+„Beides geht."
 
-Er ging zur Tür. Blieb einen Augenblick im Rahmen stehen, drehte sich halb zurück. "Vesper." Er sagte es einmal, knapp. Dann war er draußen. Die Schritte auf dem Pflaster der Hafengasse wurden kleiner, stetig, nicht eilig.
+Vesper ging zur Tür. Im Rahmen blieb er noch einmal kurz stehen. Für einen Moment sah es aus, als wolle er etwas Weiteres sagen, dann entschied er sich dagegen.
 
-Sie saß auf der Kiste, den Becher zwischen den Händen, und hörte den Schritten nach, bis sie im Geräusch des Hafens untergingen.
+„Vesper", sagte er stattdessen knapp, als würde er ihr den Namen erst jetzt wirklich geben.
 
-Der Tee war jetzt warm. Sie trank einen Schluck. Schwarz, bitter hinten am Gaumen, die Solha-Note, die sie mochte. Sie trank seinen Becher nicht aus und goss ihn nicht weg. Sie ließ ihn stehen, den schwarzen Kreis, das Blatt am Grund, den Platz, an dem er gesessen hatte.
+Dann war er draußen.
+
+Maren blieb sitzen und hörte seinen Schritten nach, bis sie im Geräusch des Hafens verschwanden.
+
+Der Tee war inzwischen warm. Sie nahm einen Schluck. Schwarz, bitter hinten am Gaumen, die schwere Solha-Note, die sie mochte. Seinen Becher goss sie nicht aus. Sie ließ ihn stehen, mit dem dunklen Kreis des Tees und dem Blatt am Grund, genau dort, wo er ihn zurückgelassen hatte.
 
 ---
 
-Edric kam gegen elf zurück mit einem Armvoll Lärche vom Markt, rief ein Wort durch die Werft, sie rief ein Wort zurück. Er sagte etwas über den Preis, der heute hoch war, sie antwortete richtig, ohne hinzuhören. Er legte das Holz in die hintere Lagerseite, deckte es mit dem alten Segeltuch ab. Fragte, ob die Uhr da sei. Sie sagte: *In der Kajüte, eingebaut.* Er kletterte hoch, sah sie an, kam runter, nickte zufrieden. *Läuft.* Dann ging er an seine Werkbank, an sein eigenes Stück, das er seit Tagen mit sich herumtrug.
+Edric kam gegen elf mit einem Armvoll Lärche vom Markt zurück und rief etwas durch die Werft. Maren antwortete richtig, ohne wirklich hinzuhören. Er legte das Holz hinten unter das alte Segeltuch, fragte nach der Uhr, kletterte in die Kajüte und kam zufrieden wieder herunter.
 
-Maren stand wieder am Boot. Nahm den Hobel. Die Planke, an der sie heute morgen gearbeitet hatte, wartete. Sie nahm die Spanne neu, setzte den Druck, zog ab. Drücken, kippen, abnehmen. Das Holz arbeitete mit, der Knoten lag jetzt hinter ihr, die Welle war raus.
+„Läuft", sagte er.
 
-Unter ihren Händen, parallel zur Planke: das Bild hielt an. Nicht laut, nicht dringend. Es war einfach da. Seine Finger am Schraubenkopf, die Stille in seinen Handgelenken, die Sekunde, in der sein ganzer Körper stehengeblieben war, als der Strudel im Tee sich gedreht hatte. Die Art, wie er die Lippen geschlossen gelassen hatte, als der Dampf aus dem Becher wieder aufstieg.
+Dann ging er an seine eigene Werkbank.
 
-Sie arbeitete bis zum späten Nachmittag. Das Licht im Schuppen wurde flach, der Geruch der alten Werkzeuge wurde schwerer, Edric war eine Stunde vor ihr weg.
+Maren nahm den Hobel wieder auf. Die Planke wartete.
 
-Am Abend ging sie an den Steg. Die Grauwe mündete hier in die Bucht, brackig, tanggrün, das Wasser stand so, wie es jeden Abend um diese Zeit stand, die Flut kam langsam. Zwei Möwen schrien weit draußen, ein Kutter lag am anderen Ufer, ein Schiffsmann zog Taue ein, die sich im Licht hob und senkte.
+Drücken, kippen, abnehmen.
 
-Sie setzte sich auf die letzte Planke, die Füße über der Kante. Die Stiefel hingen zwei Fingerbreit über der Wasserfläche. Das Wasser unter dem Steg stand einen Moment ruhig. Dann, ohne dass sie den Blick darauf gerichtet hatte, zog sich eine kleine Mulde unter ihrer linken Sohle, ein handbreiter Sog gegen die Strömung der einlaufenden Flut, kaum sichtbar, der sich einen Augenblick hielt und dann wieder glatt wurde. Das Wasser antwortete ihr, bevor sie gefragt hatte.
+Das Holz arbeitete ruhig unter ihren Händen, doch parallel zur Maserung blieb das Bild bestehen: seine Hände am Schraubenkopf, die Ruhe in seinen Bewegungen, die Sekunde, in der sein ganzer Körper still geworden war, als der Tee begonnen hatte sich zu drehen, und die bewusste Entscheidung, sie nicht zu berühren.
 
-Sie bemerkte es. Sagte nichts. Legte die Hände auf die Oberschenkel und atmete.
+Diese Stelle unter ihren Rippen war seit seinem Weggang nicht kleiner geworden. Sie war breiter geworden.
 
-Das halbfertige Boot lag zwanzig Schritt hinter ihr in dem offenen Schuppen, die drei Viertel fertige Seite zum Tor, die offene Seite dem Wasser abgekehrt. Es würde fertig. Mit wessen Händen, wusste sie nicht. Sie hatte in dreißig Jahren zwei Boote zu Ende gebracht und bei drei anderen die letzten zwei Wochen abgegeben, weil Zeit knapp geworden war. Das Holz war geduldig.
+Am Abend ging Maren hinunter an den Steg. Die Grauwe mündete hier in die Bucht, tanggrün und brackig. Zwei Möwen schrien weit draußen, und ein Schiffsmann zog am anderen Ufer Taue ein.
+
+Maren setzte sich auf die letzte Planke, die Füße über der Wasserkante. Das Wasser unter ihr lag einen Moment vollkommen ruhig, dann zog sich direkt unter ihrer linken Sohle eine kleine Mulde in die Oberfläche, handbreit und gegen die Richtung der einlaufenden Flut. Der Sog hielt einen Augenblick, bevor das Wasser wieder glatt wurde.
+
+Es antwortete ihr, bevor sie gefragt hatte.
+
+Maren bemerkte es, sagte nichts und legte nur die Hände auf die Oberschenkel.
+
+Das halbfertige Boot lag zwanzig Schritte hinter ihr im offenen Schuppen. Es würde fertig werden. Mit wessen Händen, wusste sie noch nicht. Sie hatte in dreißig Jahren zwei Boote zu Ende gebracht und bei drei anderen die letzten zwei Wochen abgegeben, weil Zeit knapp geworden war. Das Holz war geduldig.
 
 Ihr Körper war es nicht.
 
-Sie spürte unter den Rippen den Ort, an dem vor zwei Tagen im *Anker* der erste Schlag gesessen hatte, und sie spürte, dass dieser Ort sich nicht zurückgezogen hatte. Er war nicht kleiner geworden durch den Abstand. Er war breiter geworden durch den zweiten Morgen. Ihre Handgelenke waren warm, die Innenseiten, dort wo drei Tage lang ab und zu ein Nachklang gelegen hatte, jetzt in einer Wärme, die nicht ging.
+Sie spürte unter den Rippen den Ort, an dem vor zwei Tagen im Anker der erste Schlag gesessen hatte, und sie spürte, dass dieser Ort sich nicht zurückgezogen hatte. Er war nicht kleiner geworden durch den Abstand. Er war breiter geworden durch den zweiten Morgen. Ihre Handgelenke waren warm, die Innenseiten, dort wo drei Tage lang ab und zu ein Nachklang gelegen hatte, jetzt in einer Wärme, die nicht ging.
 
-Sie hatte in der sechsten Woche gewusst, dass sie nicht gehen würde.
+Sie hatte in der sechsten Woche gewusst, dass sie blieb.
 
-Die Flut kam. Das Wasser stieg um eine Daumenbreite an den Stegpfählen. Unter ihrer Sohle war die Mulde weg.
+Der Gedanke an seine Finger an der Sehne traf sie härter als am Morgen, weil er jetzt nicht mehr überraschend kam, sondern gewollt.
 
-Sie stand auf und ging zum Boot zurück, legte die Hand auf die dritte unfertige Planke. Das Holz war warm von der eigenen Sonne des Nachmittags, stetig, satt. Es wartete, wie es jeden Abend wartete.
+Die Flut stieg langsam an den Pfählen hoch.
+
+Maren stand schließlich auf und ging zurück zur Werft. Im Vorbeigehen legte sie die Hand auf die dritte unfertige Planke. Das Holz war warm von der Sonne des Nachmittags, stetig und geduldig.
 
 In der Kajüte tickte die Uhr.
 
-Sie hörte es erst, als sie an der Leiter stand — ein kleiner, warmer Schlag, der den Schuppen in eine Zeit setzte, die er vor heute morgen nicht gehabt hatte. Sie kletterte nicht hoch. Sie stand unten, die Hand am Holz der Leiter, und hörte eine Minute dem Ticken zu.
+Sie hörte es bereits unten an der Leiter, einen kleinen warmen Schlag, der den ganzen Schuppen in eine andere Zeit setzte. Maren blieb eine Minute lang stehen und hörte einfach nur zu.
 
-Dann nahm sie den Abendweg durch die Unterstadt, die Gassen voll mit der abendlichen Wärme, den Purpurstein warm unter ihrer Handfläche, als sie einmal, kurz, mit der Hand eine Wand berührte. Der Stein nahm nichts von ihr und gab nichts zurück.
+Danach nahm sie den Abendweg durch die Unterstadt. Die Gassen hielten noch die Wärme des Tages. Purpurstein lag warm unter ihrer Handfläche, als sie im Vorübergehen eine Hauswand berührte. Der Stein gab ihr nichts zurück.
 
-Auf dem Marktplatz brannte schon eine Gaslampe, früh, die erste des Abends. Unter der Lampe standen zwei Männer und redeten halblaut über etwas, das sie nicht interessierte. An der Ecke der Anker-Gasse hing das geschmiedete Anker-Zeichen schief, wie immer. Das Scharnier war trocken. Sie hätte es in einer Viertelstunde richten können, mit dem Öl aus der Werft. Sie richtete es nicht. Ihre Hände waren heute nicht für fremde Angeln.
+An der Ecke der Anker-Gasse hing das geschmiedete Schild schief wie immer. Sie hätte das Scharnier in wenigen Minuten richten können, doch sie tat es nicht. Ihre Hände waren heute nicht für fremde Dinge gemacht.
 
-Die Wohnung hatte ihr der Notar am dritten Tag übergeben, mit einem Bescheid und zwei Unterschriften — eine kleine Zweizimmer-Wohnung am unteren Ende der Hafengasse, fünf Straßen von der Werft, drei Minuten zu Fuß. Sie gehörte zur Werft, Haron hatte sie bewohnt, jetzt bewohnte sie Maren. Harons Ölmantel hatte noch am Haken gehangen. Sie hatte ihn abgenommen, die Taschen geleert, den Mantel in die Truhe gelegt und nicht wieder berührt.
+Die Wohnung hatte ihr der Notar am dritten Tag übergeben: zwei kleine Zimmer am unteren Ende der Hafengasse, fünf Straßen von der Werft entfernt. Sie gehörte zur Werft. Haron hatte hier gewohnt; jetzt wohnte sie hier. Sein alter Ölmantel hatte noch am Haken gehangen, als sie eingezogen war. Sie hatte ihn abgenommen, die Taschen geleert und den Mantel in die Truhe gelegt. Seitdem hatte sie ihn nicht mehr berührt.
 
-In ihrer Wohnung zog sie die Stiefel aus. Setzte sich auf die Bettkante. Die Handgelenke innen waren noch warm.
+In ihrer Wohnung zog sie die Stiefel aus und setzte sich auf die Bettkante. Die Innenseiten ihrer Handgelenke waren noch warm.
 
-Sie hatte einen Namen bekommen an diesem Morgen. *Alphina.* Sie hatte ihn noch nicht gebraucht. Sie würde ihn morgen oder übermorgen brauchen, wenn die Frau, die Pflanzen dazu brachte, etwas zu tun, das sie nicht sollten, den Weg zur Werft fand oder sie den Weg dorthin.
+Sie hatte heute zwei Namen bekommen.
 
-Sie hatte einen zweiten Namen heute bekommen. *Vesper.* Er hatte ihn ihr im Türrahmen gegeben, knapp, einmal, dann war er draußen gewesen. *V. Greve*, der Zettel auf der Werkbank, lag noch unter dem Hammer, darunter der Splitter von vor zwei Tagen. Die Schwielen an seinen Händen waren klein und alt, von feiner Arbeit.
+Alphina. Und Vesper.
 
-Sie legte sich nicht hin. Sie saß lange so.
+Der zweite lag schwerer in ihr, weil er ihn ihr im Türrahmen gegeben hatte, knapp und kontrolliert, einmal, dann war er draußen gewesen. *V. Greve*, der Zettel auf der Werkbank, lag noch unter dem Hammer, darunter der Splitter von vor zwei Tagen. Die Schwielen an seinen Händen waren klein und alt, von feiner Arbeit.
 
-Vor dem Fenster lief die Hafengasse weiter. Ein Rad über Kopfsteinpflaster. Eine Tür, die schlug. Eine Katze, die irgendwo einen langen Ton zog.
+Draußen lief die Hafengasse weiter: Räder über Pflaster, eine zuschlagende Tür, das ferne Rufen eines Schiffsmanns. Und in ihrem Kopf, hartnäckig, das Ticken der Uhr fünf Straßen entfernt.
 
-Die Uhr in ihrer Kajüte tickte, an der Werft, fünf Straßen entfernt.
+Maren zog schließlich das Arbeitshemd aus, hängte die Lederschürze an den Haken und legte sich im Leinenhemd ins Bett. Sie zog die Decke bis an die Schultern, und die Handgelenke innen, die Stellen, an denen die Wärme seit dem Morgen stand, legte sie auf den Bauch, weil keine Stelle an diesem Bett sie hätte kühler halten können als die andere.
 
-Irgendwann zog sie die Hose aus, das Arbeitshemd über den Stuhl, die Lederschürze auf den Haken. Die Kleider rochen nach Werft, Sägespäne und dem schwarzen Tee aus Solha. Sie legte sich im Leinenhemd ins Bett, zog die Decke bis an die Schultern, und die Handgelenke innen, die Stellen, an denen die Wärme seit dem Morgen stand, legte sie auf den Bauch, weil keine Stelle an diesem Bett sie hätte kühler halten können als die andere.
+Sie schloss die Augen.
+
+Für einen Moment stellte sie sich vor, wie seine Hände ausgesehen hätten, wenn er sie wirklich berührt hätte.
+
+Die Vorstellung traf sie tiefer als erwartet.
+
+Sie schlief erst lange danach ein.

@@ -2,248 +2,316 @@
 
 *19. Blütenmond 551 · 7 Wochen 4 Tage in Vael*
 
-Die Petroleumlampe stand auf der dritten Rille des Reparaturtischs, weil das Licht von dort am saubersten auf die Samtrolle fiel. Vesper hatte vor einer halben Stunde die Krone aus dem Chronometer gezogen und die Welle freigelegt. Der Besitzer, ein Hafenmeister von der Reede, wollte sie morgen um neun abholen. Das Werk war nicht schwer — ein trockenes Federhauslager, das schon zweimal zuvor trocken geworden war und das er diesmal ein letztes Mal schmieren, beim übernächsten Mal aber austauschen würde.
+Die Petroleumlampe stand auf der dritten Rille des Reparaturtischs, weil das Licht von dort am saubersten auf die Samtrolle fiel und die feinen Kerben im Messing ohne Schatten sichtbar machte. Vesper hatte vor einer halben Stunde die Krone aus dem Chronometer gezogen und die Welle freigelegt. Der Besitzer, ein Hafenmeister von der Reede, wollte das Stück morgen um neun zurückhaben, und eigentlich war an dem Werk nichts schwierig: ein trockenes Federhauslager, das schon zweimal zuvor trocken geworden war und das er diesmal ein letztes Mal schmieren würde, bevor es beim nächsten Besuch endgültig ersetzt werden musste.
 
-Die Hand auf dem Tuch war ruhig. Der Mechanismus auch. Trotzdem hatte er sich vorhin zweimal beim Zählen vertan.
+Seine Hände arbeiteten ruhig, der Mechanismus ebenfalls. Trotzdem hatte er sich heute Abend zweimal beim Zählen vertan.
 
-Das Bild war da, ob er es rief oder nicht: der Becher auf dem Tuch, das Teeblatt, das sich ohne Rühren gehoben hatte, der Dampf aus einem Becher, der kalt gewesen war. Ihre Finger, die sich nicht bewegt hatten. Die Konzentration auf ihrem Gesicht.
+Der Fehler lag nicht im Werk.
 
-Dann das andere Bild, das er sich nicht geholt hatte. Wie dieser Körper sich gesenkt haben würde. Knie auf dem Schuppenboden. Die Hände auf den Oberschenkeln, die Handflächen nach oben, offen.
+Das Bild war da, ob er es rief oder nicht: der Becher auf dem Tuch, das Teeblatt, das sich ohne Berührung gehoben hatte, der Dampf aus Wasser, das wenige Augenblicke zuvor noch kalt gewesen war. Marens Hände hatten sich dabei nicht bewegt, und gerade diese Unbeweglichkeit war ihm geblieben. Nicht die Kraft an sich, nicht das Unmögliche, sondern die Art, wie sie dem Geschehen zugesehen hatte, als würde sie nur mühsam verhindern, dass noch mehr aus ihr herausfand.
 
-Er legte die Lupe zur Seite. Das Federhauslager war noch nicht fertig. Er nahm die Lupe wieder.
+Danach war das andere Bild gekommen, ungerufen und gerade deshalb schwerer abzuschütteln. Er hatte gesehen, wie ihr Körper sich vor ihm hätte senken können, die Knie auf den Brettern des Schuppenbodens, die Hände offen auf den Oberschenkeln. Nicht unterwürfig, nicht bittend, sondern still genug, dass er ihre Kehle hätte sehen können, wenn sie den Kopf nur ein wenig zurückgelegt hätte.
 
-Er hatte die Lupe am Auge und die Pinzette in der rechten Hand, als die Schläge an seiner Tür kamen. Drei. Nicht fest, nicht zögerlich. Ein Mensch, der vor der Tür einen Atemzug gebraucht hatte, um sich die drei in der richtigen Folge zu überlegen.
+Sein Griff an der Pinzette verrutschte. Es war kaum mehr als ein Zittern in den Fingern, doch der Chronometer sprang ihm beinahe aus der Hand.
 
-Vesper legte die Pinzette neben die Samtrolle. Er schob die Lupe nach oben, stellte die Lampe eine Viertelumdrehung niedriger, damit der Besucher nicht gleich in die Helligkeit trat. Dann ging er zur Tür und öffnete sie einen Spalt. Die alte Gewohnheit.
+Vesper legte die Pinzette sofort ab und blieb einen Augenblick reglos am Tisch sitzen. Vor einem Jahr wäre ihm ein solcher Fehler nicht passiert. Vor sechs Monaten wahrscheinlich ebenfalls nicht. Er zwang seinen Atem zurück in jenen gleichmäßigen Schlag, den er sonst nur bei komplizierten Hemmungen brauchte, und bemerkte dabei, dass die Werkzeuge unter seinen Händen wärmer geworden waren, als hätten sie die Hitze seiner Finger angenommen.
 
-Im Flur stand ein Mann, den er nicht kannte. Groß, schmal in den Schultern, den Kragen noch hoch, als wäre er gerade erst vom Hafen hochgekommen. Das Gesicht trug die Spuren des Lampenlichts von hinten — eine harte Linie am Kiefer, die Augen im Halbschatten. Die Hände hielt er vor dem Mantel, die rechte über dem linken Handgelenk, die Art Griff, die Vesper aus seinem eigenen Repertoire kannte.
+Er griff wieder nach der Lupe.
 
-"Guten Abend. Mein Name ist Sorel Varlan. Ich wohne im Lichthaus am Hafen. Alphina hat mir gesagt, wo Sie zu finden sind."
+In diesem Moment kamen die Schläge an seiner Tür: drei, kontrolliert, mit einer minimalen Verzögerung im zweiten, die verriet, dass der Besucher vor dem Klopfen einen Atemzug gebraucht hatte.
 
-Der Name lag zwei Sekunden zwischen ihnen, bevor Vesper nickte. Er hatte ihn schon einmal gehört. Alphina hatte ihn gebraucht in dem Satz, in dem sie von einem Mann im Steinkreis gesprochen hatte. Vesper hatte ihn damals registriert und nicht weiter verfolgt.
+Vesper schob die Lupe nach oben, stellte die Lampe eine Viertelumdrehung niedriger und ging zur Tür. Er öffnete sie nur einen Spalt, wie er es immer tat. Die alte Gewohnheit hatte sich tiefer in ihn eingeschrieben als jedes bewusste Misstrauen.
 
-"Herr Varlan. Kommen Sie rein."
+Im Flur stand ein Mann, den er nicht kannte. Groß, schmal in den Schultern, den Mantel noch geschlossen, als wäre er gerade erst vom Hafen heraufgekommen. Das Licht aus dem Gang zeichnete eine harte Linie entlang seines Kiefers; die Augen lagen im Schatten. Seine rechte Hand hielt das linke Handgelenk, und diese Haltung war so kontrolliert, dass Vesper sie sofort erkannte. Nicht, weil er sie oft bei anderen gesehen hatte. Weil er sie von sich selbst kannte.
 
-Er öffnete die Tür ganz und trat einen Schritt zur Seite. Sorel kam rein. Er roch nach kaltem Rauch und einem bestimmten Chemikaliengeruch, den Vesper nicht einordnen konnte — scharf, leicht metallisch. Vermutlich die Entwicklerkammer, aus der er gerade kam.
+„Guten Abend", sagte der Mann. „Mein Name ist Sorel Varlan. Ich wohne im Lichthaus am Hafen. Alphina hat mir gesagt, wo Sie zu finden sind."
 
-Vesper räumte die Samtrolle an den Rand des Reparaturtischs, legte die Pinzette quer darüber, schob den Stuhl gegenüber seinem eigenen ein Stück vor. Keine Geste des Willkommens. Ein Platz.
+Der Name blieb einen Augenblick zwischen ihnen hängen.
 
-"Setzen Sie sich."
+Vesper hatte ihn schon einmal gehört. Alphina hatte ihn gebraucht, als sie von dem Mann im Steinkreis gesprochen hatte, von Photographien, die Dinge zeigten, die nicht im Sucher gewesen waren. Damals hatte er den Namen registriert und wieder abgelegt. Jetzt stand der Mann selbst vor seiner Tür.
 
-Sorel setzte sich, den Mantel zog er nicht aus. Er legte die Hände auf die Tischkante und dann, als er bemerkte, dass er sie dort zu lange liegen ließ, in den Schoß. Vesper zählte die Sekunden nicht, aber sein Kopf zählte. Acht, bis Sorel den ersten Satz fand.
+Alphina.
 
-"Alphina sagte, Sie hören, wenn Uhren falsch laufen."
+Vesper bemerkte die Veränderung im Klang, kaum mehr als eine Nuance, aber genug, dass sein Kopf sie festhielt. Menschen sprachen Namen anders aus, wenn sie sie oft dachten.
 
-Vesper neigte den Kopf, knapp. "Was haben Sie beobachtet?"
+„Herr Varlan", sagte er schließlich und öffnete die Tür ganz. „Kommen Sie rein."
 
-"Ich werde Ihnen etwas erzählen. Systematisch. Ich habe es so aufgeschrieben, wie man eine Entwicklungsreihe aufschreibt — was beobachtet, was ausgeschlossen, was übrig. Ich bitte Sie, zuzuhören, bevor Sie antworten."
+Sorel trat ein. Er roch nach kaltem Rauch und nach Entwicklerchemikalien, scharf und leicht metallisch. Während Vesper die Samtrolle an den Rand des Tisches schob und die Pinzette quer darüberlegte, beobachtete er im Augenwinkel, wie Sorel den Raum las: die Lampe, die Werkzeuge, die Stellung der beiden Stühle, die Entfernung zur Tür. Aus Gewohnheit, nicht aus Neugier. Ein Mensch, der Räume betrat, als könnten sie ihm etwas antun.
 
-"Ich höre zu."
+Vesper zog den zweiten Stuhl ein Stück vor. „Setzen Sie sich."
 
-Sorel nickte einmal, fast nur mit dem Kinn. Dann begann er.
+Sorel setzte sich, ohne den Mantel auszuziehen. Zuerst legte er die Hände auf die Tischkante, dann nahm er sie wieder herunter und verschränkte sie locker im Schoß, als hätte er bemerkt, dass die erste Haltung zu viel verriet.
 
-Er begann mit dem Garten. Ein Abend im Blütenmond, keine genaue Stunde, weil die Uhr an seinem Handgelenk in dem Moment stehengeblieben war. Ein Tier, das kein Tier war. Ein Angriff, dem er nicht hätte ausweichen können, wenn er ausgewichen wäre — er war nicht ausgewichen. Er hatte eine Verbrennung am linken Handrücken davongetragen. Aus dem Maul des Wesens — ein Feuerball, faustgroß — der seinen Arm traf, als er ihn hochriss. Die Wunde war rund, aufgeplatzt. Kein Ruß. Keine Brandquelle in Reichweite, die das erklärt hätte.
+Vesper sagte nichts. Er wartete. Er zählte die Sekunden nicht, aber sein Kopf zählte. Acht, bis Sorel den ersten Satz fand.
 
-Er zeigte es nicht. Er beschrieb es. Vesper sah die Geste trotzdem vor sich, so genau, als läge der Handrücken unter der Lupe. Sorel sprach die Spuren, die er selbst schon an zwei Stellen in Vael gesehen hatte — am Pfosten bei der Tidemoor-Tür, am Kellerfenster desselben Hauses. Dieselbe Schnittkante. Dieselbe Abwesenheit von Rauchspuren. Dasselbe saubere Ende.
+„Alphina sagte, Sie hören, wenn Uhren falsch laufen."
 
-Vesper hielt den Blick auf dem Tischholz. Die Pinzette lag quer über der Samtrolle, und an der Kante lag ein Staubkorn, das er beim ersten Durchgang übersehen hatte.
+„Tun sie das?"
 
-Sorel sprach weiter. Er kam auf Alphina. Sie hatte die Wunde an seinem Handrücken angefasst. Drei Sekunden, vielleicht vier. Die Wunde war nicht weniger geworden und nicht mehr. Sie war älter geworden. Narbe am nächsten Morgen, die nicht hätte dort sein dürfen. Er hatte sie seitdem zweimal untersucht. Eine Brandnarbe von zwei Wochen, nicht eine Brandwunde von einer Nacht.
+Die Frage kam ruhig, doch Vesper bemerkte, wie Sorels Schultern sich minimal spannten.
 
-"Sie hat sie nicht geheilt. Sie hat sie gealtert. Das ist ein Unterschied."
+„Manche", sagte Sorel.
 
-Dann kamen die Platten. Sorel sprach jetzt langsamer, weil er die Reihenfolge im Kopf neu ordnete, während er sprach. Er hatte ein Bild von ihr gemacht, im Garten, eine Frau am Farn, sauber belichtet. Er hatte die Platte entwickelt und dabei ein zweites Bild gefunden, das er nicht fotografiert hatte. Dasselbe Negativ, dieselbe Emulsion, zwei Bilder übereinander. Er hatte gedacht: vorbelichtete Charge. Er hatte eine ungeöffnete Platte aus demselben Karton getestet — sie war leer geblieben. Die Charge war sauber.
+„Und meine?"
 
-"Die Platten reagieren. Nicht auf den Ort. Nicht auf die Kamera. Auf mich. Die Kamera war zweimal gar nicht dabei, und die Bilder sind trotzdem erschienen."
+„Das werden wir sehen."
+
+Sorel hielt seinen Blick einen Moment länger als nötig. Es war kein Trotz darin, eher die stille Abwägung eines Mannes, der noch nicht entschieden hatte, ob er Informationen anvertrauen oder nur auslegen sollte.
+
+„Ich werde Ihnen etwas erzählen", sagte er schließlich. „Systematisch. So, wie man eine Entwicklungsreihe protokolliert: Beobachtung, Ausschluss, Ergebnis."
+
+„Sie gehen davon aus, dass ich Ihnen glaube."
+
+„Nein." Zum ersten Mal lag etwas Trockenes in Sorels Stimme. „Ich gehe davon aus, dass Sie aufmerksam genug sind, um zu merken, wenn ich nicht lüge."
+
+Das gefiel Vesper mehr, als es sollte. Er lehnte sich leicht zurück und nickte. „Dann erzählen Sie."
+
+Sorel begann mit dem Garten. Ein Abend im Blütenmond, keine genaue Uhrzeit, weil die Uhr an seinem Handgelenk in jenem Moment stehen geblieben war. Ein Wesen, das kein Tier gewesen war. Feuer ohne Quelle. Eine Verbrennung am Handrücken, rund und aufgeplatzt, ohne Rußspuren, ohne jede erkennbare Ursache für eine solche Hitze.
+
+Während Sorel sprach, sah Vesper die Wunde vor sich, obwohl der andere sie nicht zeigte. Er sah die Form des Einschlags, die präzise Kante der Hitze, dieselbe unmögliche Sauberkeit, die ihm schon an den Spuren im Tidemoor-Haus aufgefallen war: am Pfosten der Seitentür, am Kellerfenster. Sorel hatte sie selbst gesehen, sagte er; dieselbe Schnittkante, dieselbe Abwesenheit von Rauchspuren, dasselbe saubere Ende. Sein Blick blieb auf dem Tischholz liegen, als könne er besser zuhören, wenn er den anderen nicht dabei ansah.
+
+„Alphina hat die Wunde berührt", sagte Sorel irgendwann. „Drei Sekunden vielleicht. Vier. Am nächsten Morgen war daraus eine Narbe geworden."
+
+Vesper hob leicht den Blick.
+
+„Nicht verheilt", sagte Sorel ruhig. „Gealtert. Das ist ein Unterschied."
+
+Die Stille danach dauerte einen Herzschlag zu lang.
+
+Wieder Alphina, wieder diese Tonlage. Nicht ausgesprochenes Begehren. Vielleicht nicht einmal etwas, das Sorel selbst so benannt hätte. Aber Aufmerksamkeit, die begonnen hatte, sich tiefer einzuschreiben, als sie sollte.
+
+Vesper sagte nichts dazu. „Und danach?"
+
+Sorel atmete langsam durch die Nase aus. „Danach kamen die Photographien."
+
+Jetzt wurde seine Stimme kontrollierter. Präziser. Vesper erkannte den Wechsel sofort: jemand, der in Technik flüchtete, weil dort die Dinge messbar blieben.
+
+„Ich habe eine Aufnahme im Garten gemacht. Eine normale Belichtung." Sorel hielt kurz inne. „Auf der entwickelten Platte war ein zweites Bild."
+
+„Doppelbelichtung."
+
+„Das dachte ich zuerst auch."
+
+„Und?"
+
+„Die Charge war sauber. Ich habe ungeöffnete Platten aus derselben Lieferung getestet. Leer. Keine Vorbelichtung, kein Fehler in der Emulsion."
+
+Vesper wartete.
+
+Sorel bemerkte das Warten. Ein weniger aufmerksamer Mann hätte weitergesprochen, um die Lücke zu füllen. Sorel tat es nicht sofort. Er sah Vesper nur an und ließ die Pause stehen, als prüfe er, wie viel Schweigen zwischen ihnen möglich war, bevor einer von beiden sich verriet.
+
+„Die Kamera war beim zweiten Versuch nicht einmal aufgebaut", sagte er schließlich.
+
+Jetzt hob Vesper wirklich den Blick. „Und trotzdem waren Bilder auf den Platten."
+
+„Ja."
+
+„Von was?"
+
+Sorel schwieg nicht lange, aber lang genug, dass die Antwort sichtbar wurde, bevor er sie aussprach. „Von Dingen, die ich nicht aufgenommen habe."
 
 Er sagte *erschienen*, nicht *entstanden*.
 
-Sorel erzählte drei der Bilder. Das Lichthaus bei Dämmerung. Alphina im Garten am Farn. Ein drittes, das er nur andeutete — ein Innenraum, sagte er. Die Skizze verschwimmt. Er brach ab und kam nicht darauf zurück.
+„Drei Bilder", fügte er hinzu. „Das Lichthaus bei Dämmerung. Alphina im Garten am Farn. Ein drittes." Eine Pause. „Ein Innenraum. Die Skizze verschwimmt." Er kam nicht darauf zurück.
 
-Die Lücke war sauber. Vesper sah sie so deutlich, als hätte Sorel sie mit dem Finger umrandet. Er fragte nicht nach. Er legte die Auslassung neben die anderen Teile auf den Tisch und ließ sie dort liegen.
+Da war sie, die Auslassung. Vesper sah sie sofort: die minimale Spannung am Unterkiefer, die Art, wie Sorels rechte Hand sich einmal um das linke Handgelenk schloss und sofort wieder lockerte. Nicht Angst. Scham. Oder etwas, das gefährlich nah daran lag.
 
-"Das ist, was ich habe", sagte Sorel am Ende. "Alphina sagte, Sie hören anders zu als die meisten."
+Ein Innenraum, dachte Vesper. Eine Frau. Vielleicht Alphina. Vielleicht nicht.
 
-Vesper legte die Fingerspitzen aufeinander. Die Pinzette rollte einen Hauch nach rechts und blieb wieder liegen. Er ließ Sorels letzten Satz drei Atemzüge zwischen ihnen stehen.
+Er fragte nicht nach. Manche Türen öffnete man nicht, wenn man wollte, dass der andere später von selbst hindurchging.
 
----
+„Die Platten reagieren also nicht auf die Kamera", sagte er stattdessen.
 
-Er zog das Notizbuch aus der Innentasche des Mantels, der über der Stuhllehne hing. Er schlug die hintere Einlage auf, löste die Karte aus der Falz, faltete sie auf dem Reparaturtisch auseinander. Die Velinkopie, die er in der vergangenen Woche neben Runas Adressen gezeichnet hatte. Sechzehn Uhren. Ein siebzehnter Kreuzpunkt am unteren Kartenrand. Vier Bögen in vier Stärken um einen Mittelpunkt in der Oberstadt.
+„Nein."
 
-"Ich habe seit acht Wochen siebzehn Uhren in Vael gemessen. Sechzehn von ihnen verlieren pro Tag zwischen elf Sekunden und zwei Minuten dreiundzwanzig. Die siebzehnte, unten am Grauwe-Ufer, hat stündlich exakt vier Minuten dreiunddreißig verloren — immer denselben Betrag, bis ich sie vor zwei Wochen wieder rein eingestellt habe. Sie ist der älteste Messwert in der Stadt und passt in keines der Muster der anderen sechzehn."
+„Sondern auf Sie."
 
-Er drehte die Karte so, dass sie für Sorel lesbar war, ohne sie ganz herumzuschieben.
+Sorel nickte langsam. Im Nebenraum tickte die kleine Uhr weiter, drei Schläge, vier. Vesper hörte sie, weil er in jedem Raum Uhren hörte, besonders dann, wenn Menschen schwiegen.
 
-"Die sechzehn bilden vier Ringe. Außen elf bis fünfzehn Sekunden. Der zweite Ring dreißig bis fünfzig. Der dritte eine Minute. Der innerste zwei Minuten. Alle vier Ringe liegen um denselben Mittelpunkt, hier." Er tippte mit der Kuppe des Zeigefingers auf einen Punkt in der Oberstadt, einen halben Finger hinter dem Handelshaus. "Das ist der Mittelpunkt."
+„Und Alphina hat Sie zu mir geschickt."
 
-Sorel sah auf die Karte. Er lehnte sich nicht vor. Er bewegte nur den Blick. Vesper zählte zwei Sekunden, bis Sorel erkannte, was über dem Mittelpunkt stand.
+„Sie sagte, Sie würden anders zuhören."
 
-"Das ist der Botanische Garten."
+Vesper lächelte nicht, aber etwas in seinem Gesicht veränderte sich. „Vielleicht. Oder ich habe nur länger Zeit gehabt, mich an das Unmögliche zu gewöhnen."
 
-"Der Mittelpunkt liegt im Garten. Genauer: er liegt im Steinkreis."
+Er zog das Notizbuch aus seiner Manteltasche und löste die gefaltete Karte aus der hinteren Einlage. Das Velinpapier glitt über den Tisch, und die Kreise darauf lagen im Lampenlicht wie Druckringe auf schwarzem Wasser.
 
-Sorel atmete einmal ein, länger als vorher. Er sagte nichts. Vesper wartete, bis er den zweiten Teil bringen konnte.
+„Ich habe in den letzten acht Wochen siebzehn Uhren in Vael gemessen", sagte er. „Sechzehn davon verlieren täglich zwischen elf Sekunden und zwei Minuten dreiundzwanzig. Die siebzehnte verliert täglich exakt vier Minuten dreiunddreißig. Sie ist der älteste Messwert in der Stadt und passt in keines der Muster der anderen sechzehn."
 
-"Die Ringe erklären achtzig Prozent der Abweichungen. Sie erklären nicht die Tidemoor-Uhr, weil die am falschen Ort steht. Sie erklären auch nicht zwei Anomalien, die nicht in den Ringen liegen — eine am Grauwe-Ufer, zwei Häuser vom Tidemoor-Haus entfernt. Es gibt also ein zweites Muster. Ein kleineres. Um einen zweiten Punkt."
+Er drehte die Karte so, dass Sorel sie lesen konnte.
 
-Er strich mit dem Finger den Flussverlauf entlang bis zu dem Kreuz am unteren Kartenrand.
+„Die sechzehn bilden vier Ringe. Außen elf bis fünfzehn Sekunden Verlust. Der zweite Ring dreißig bis fünfzig. Der dritte ungefähr eine Minute. Der innerste über zwei Minuten. Alle vier liegen um denselben Mittelpunkt."
 
-"Die nähere von beiden verliert stündlich eine Minute zwölf, die andere stündlich vierzig Sekunden. Beide weniger als die Tidemoor-Uhr. Wenn die Tidemoor-Uhr im Mittelpunkt eines zweiten Musters säße, dann säße sie gleichzeitig im Zentrum und am Rand der Stadt. Beides ist möglich. Beides ist nicht Zufall."
+Sein Finger ruhte auf einem Punkt in der Oberstadt.
 
-Sorel schwieg jetzt zwei ganze Atemzüge. Dann tippte er selbst auf die Karte, auf jenen Punkt, an dem sein Lichthaus lag. Vesper sah es und nickte. Der Punkt lag auf dem äußersten Ring, am Rand. Die Abweichung dort war klein. Nicht klein genug, um sie zu ignorieren.
+Sorel erkannte ihn fast sofort. „Der Botanische Garten."
 
-"Es gibt einen dritten Teil", sagte Vesper. "Er passt nicht in die Ringe. Er passt daneben. Ich habe heute vormittag auf der Werft eine Frau gesehen. Sie heißt Maren Ilves. Sie baut Boote. Sie hat mir gezeigt, wie sie einen Strudel in eine Tasse Tee bringt, ohne sie anzufassen. Das Wasser in der Tasse war vorher kalt gewesen. Als sie aufhörte, dampfte es."
+„Genauer", sagte Vesper, „der Steinkreis."
 
-Seine Finger auf dem Kartenrand waren flach geworden, ohne dass er sie flachgelegt hätte. Er nahm den Druck nicht zurück. Er ließ ihn dort, wo er war.
+Die Petroleumlampe summte leise. Irgendwo im Gasthaus schlug eine Tür zu, und für einen Moment schien der gewöhnliche Lärm des Hauses zu weit entfernt, als hätte der Raum um den Reparaturtisch sich ein wenig von allem anderen gelöst.
 
-"Sie hat es mir gezeigt. Nachdem ich ihr erzählt hatte, was ich kann. Sie hat zugehört."
+„Es gibt außerdem ein zweites Muster", fuhr Vesper fort. „Kleiner, instabiler. Zwei Anomalien am Grauwe-Ufer, zwei Häuser vom Tidemoor-Haus entfernt. Die nähere verliert täglich eine Minute zwölf, die andere täglich vierzig Sekunden. Beide passen in keines der anderen Modelle."
 
-Vesper hob den Blick von der Karte auf Sorels Gesicht. Die Haut um Sorels Mund stand weiß.
+Sorel schwieg zwei Atemzüge. Dann tippte er selbst auf die Karte, auf jenen Punkt, an dem sein Lichthaus lag. Vesper sah es und nickte. Der Punkt lag auf dem äußersten Ring, am Rand. Die Abweichung dort war klein. Nicht klein genug, um sie zu ignorieren.
 
-"Maren Ilves."
+Sorel beugte sich jetzt doch leicht vor. „Und was glauben Sie?"
 
-"Ja."
+Vesper antwortete nicht sofort. Stattdessen zog er den schwarzen Turm aus seiner Manteltasche und stellte ihn neben die Karte. Das Holz wirkte im Licht der Petroleumlampe stumpf und unscheinbar, beinahe gewöhnlich, und gerade deshalb fiel sein Blick immer wieder darauf zurück, als läge darin etwas, das sich nur aus dem Augenwinkel erkennen ließ.
 
-"Sie ist die Werfterbin."
+„Ich glaube", sagte er schließlich langsam, „dass vier Menschen innerhalb weniger Wochen in dieselbe Stadt gekommen sind und dass Vael begonnen hat, darauf zu reagieren."
 
-"Sie ist die Erbin. Sie und Alphina kennen sich noch nicht. Sie hat mit der Werft eine Wohnung in Werftnähe geerbt — und die beiden sind sich noch nicht begegnet, soweit ich weiß."
+Er legte zwei Finger auf den Turm. Unter der Haut des Holzes lag zunächst nur die vertraute Kühle.
+
+„Zeit."
+
+Das Wort blieb einen Moment im Raum stehen, während sein Blick auf den Kreisen der Karte ruhte. Danach dachte er an Alphina im Garten, an dunkle Erde unter ihren Fingernägeln und an die Farne, die sich nach ihr drehten, obwohl kein Wind ging.
+
+„Pflanzen."
+
+Sorel sagte nichts. Seine Aufmerksamkeit lag jetzt vollständig auf ihm.
+
+Vespers Blick hob sich erst beim dritten Wort. Er sah Sorel an, sah die Spannung in dessen Schultern und die kontrollierte Ruhe eines Mannes, der sich seit Tagen zwang, den eigenen Wahrnehmungen nicht vollständig zu misstrauen.
+
+„Licht."
+
+Und schließlich kam Maren zurück.
+
+Nicht absichtlich. Eher in derselben unaufhaltsamen Weise, in der sich Wärme durch Wasser zieht. Der Dampf über dem Tee. Die Ruhe in ihrem Gesicht. Die Sekunden im Schuppen, in denen sie beide gespürt hatten, dass etwas zwischen ihnen entstanden war, das sich weder mit Vernunft noch mit Höflichkeit vollständig zurückdrängen ließ.
+
+„Wasser."
+
+Unter seinen Fingern wurde das Holz warm.
+
+Diesmal war die Veränderung deutlich genug, dass die Wärme bis in seine Handwurzel zog. Gleichzeitig setzte die kleine Uhr im Nebenraum einen Schlag aus, nur einen einzigen, bevor sie wieder in ihren Takt zurückfand.
+
+Sorel hob sofort den Kopf. „Haben Sie das gehört?"
+
+Vesper antwortete nicht. Die Wärme im Turm zog an Marens Handgelenke zurück, an Dampf über schwarzem Tee, an die Sekunde, in der ihr Atem stehen geblieben war.
+
+Dann verschwand die Temperatur wieder. Das Holz kühlte unter seinen Fingern aus, als wäre nichts geschehen.
+
+Sorel sah jetzt nicht mehr auf die Karte. Sein Blick lag auf Vesper, offen genug, dass die Erschöpfung darunter sichtbar wurde. Keine unmittelbare Angst. Etwas Schwereres: die langsame Erkenntnis eines Menschen, der begann zu begreifen, dass die Grenze zwischen Beobachter und Ursache möglicherweise längst verschwunden war.
 
 Sorel hob die Hand von der Tischkante. Er drehte sie kurz in der Luft, wie jemand, der etwas in der Handfläche wiegt, das nicht da ist. Dann legte er sie wieder hin.
 
-"Wie viele sind wir."
+„Wie viele sind wir."
 
 Das war keine Frage. Vesper antwortete trotzdem.
 
-"Vier. Wenn das, was Sie mir erzählt haben, stimmt, sind wir vier. Sie. Ich. Alphina. Maren Ilves."
+„Vier. Sie. Alphina. Maren Ilves. Und ich. Maren kam zwei Wochen später als ich. Alphina genauso lange wie ich."
+
+„Maren Ilves", wiederholte Sorel leise. „Die Werfterbin."
+
+„Sie ist die Erbin. Sie hat mit der Werft eine Wohnung in Werftnähe geerbt. Sie und Alphina kennen sich noch nicht."
+
+„Und sie kann Wasser bewegen."
+
+Vesper dachte an den Dampf über dem Tee, an die Wärme, die zwischen ihren Händen entstanden war, ohne dass eine von beiden sie berührt hatte.
+
+„Nicht nur bewegen", sagte er. „Etwas antwortet ihr." Eine Pause, in der Vesper den Druck seiner Finger auf dem Kartenrand nicht zurücknahm. „Sie hat es mir gezeigt. Nachdem ich ihr erzählt hatte, was ich kann. Sie hat zugehört."
+
+Bei Marens Namen wurde der Turm nicht wieder warm. Vesper hätte nicht sagen können, warum ihn das beinahe enttäuschte.
+
+Sorel lehnte sich langsam zurück. Seine Schultern wirkten nicht entspannter, nur schwerer.
+
+„Wir sollten uns alle treffen", sagte Sorel schließlich.
+
+Vesper nickte bereits, bevor der Satz ganz ausgesprochen war. „Im Garten. Nicht im Anker und nicht im Lichthaus. Wenn die Ringe stimmen, liegt dort der Mittelpunkt."
+
+„Und wenn der Mittelpunkt der Ursprung ist?"
+
+„Dann", sagte Vesper, „finden wir endlich heraus, worauf diese Stadt wartet."
+
+Die Stille danach war dichter als zuvor. Nicht bedrohlich in der gewöhnlichen Weise, nicht wie etwas, das gleich zuschlagen würde. Eher wie eine Tür, die sich irgendwo geöffnet hatte, ohne dass jemand wusste, auf welcher Seite sie standen.
+
+Sorel stand schließlich auf. Er knöpfte den Mantel nicht neu, weil er ihn den ganzen Abend nicht geöffnet hatte. Bevor er zur Tür ging, blieb sein Blick kurz auf dem schwarzen Turm liegen.
+
+„Alphina weiß nicht, dass ich heute hier bin", sagte er. „Sagen Sie es ihr bitte nicht vorher. Ich möchte es selbst tun."
+
+Wieder diese Tonlage. Vesper registrierte sie und legte sie zu allem anderen.
+
+„Das ist Ihre Sache."
+
+Sorel nickte einmal und verließ das Zimmer.
+
+Vesper hörte seine Schritte im Flur, dann auf der Treppe. Erst als sie verklungen waren, legte er die Hand erneut auf den schwarzen Turm.
+
+Kalt. Diesmal blieb er kalt.
+
+Trotzdem ließ er die Finger noch einen Moment darauf liegen und bemerkte dabei, dass sein Kopf längst nicht mehr bei den Karten war, sondern bei einer Werft am Hafen, bei Dampf über schwarzem Tee und bei der kontrollierten Entscheidung eines Menschen, jemanden nicht zu berühren.
 
 ---
 
-Sorel lehnte sich das erste Mal am Abend zurück. Der Stuhl unter ihm gab nach einer Sekunde den leisen Laut aus, den alte Gasthausstühle im Anker im Winter gaben und im Blütenmond fast nicht mehr. Vesper registrierte es und legte es zu den anderen kleinen Tönen des Raums — das Dampfen der Petroleumlampe, das Knarren der Diele vor der Tür, ein Gespräch zwei Zimmer weiter, bei dem er die Worte nicht verstand, nur den Rhythmus.
+Es war nach zehn, als Vesper das Gasthaus verließ und zum Tidemoor-Haus ging. Die Hafengasse lag in jenem dünnen Dunst, der im Blütenmond abends aufkam und vor Mitternacht wieder abzog. Die Gaslaternen standen in Abständen von zwölf Schritten, und Vesper zählte sie, weil sein Kopf Schritte zählte, wenn er keine Zahnräder vor sich hatte.
 
-"Alphina." Sorel sagte es wie jemand, der den Namen behutsam aus einer Tasche nahm. "Die Farne drehen sich nach ihr. Drei Wedel, zu verschiedenen Tageszeiten. Jedes Mal. Kein Wind."
+An der dritten Laterne bog er links in die schmale Seitengasse, die bis zum Grauwe-Ufer führte. Der Boden wurde weicher; die Pflastersteine hier waren älter und unter den Jahren eine Handbreit nachgegeben.
 
-Vesper nickte einmal. Er wartete.
-
-"Auf den Platten steht sie auch dort, wo ich sie nicht fotografiert habe."
-
-"Weil Sie fotografieren", sagte Vesper. "Nicht die Kamera. Das sagten Sie vorhin."
-
-"Ja."
-
-Vesper tippte auf den Mittelpunkt der Ringe. "Die Pflanzen im Garten verhalten sich seit Wochen anders. Das hat sie mir selbst gezeigt. Der stärkste Ring liegt direkt über dem Steinkreis. Dort arbeitet sie jeden Tag."
-
-Sorel nickte langsam. Vesper sah, wie er den Kopf drei Sekunden zu lange nach unten hielt, bevor er ihn wieder hob.
-
-"Zeit", sagte Vesper und sah wieder auf die Karte. "Pflanzen. Licht. Wasser."
-
-Er zog den schwarzen Turm aus der linken Außentasche des Mantels. Legte ihn neben die Karte, auf den Velinrand. Er drehte ihn nicht. Er hatte den Impuls, ihn zu drehen, und er ließ ihn. Sorel sah den Turm, kannte das Holz nicht, kannte die Form. Er sagte nichts dazu.
-
-"Vier Menschen, von denen jeder etwas kann, das er nicht benennen kann — an einem Ort, an dem die Stadt schon reagiert. Ein Steinkreis, an dem der Uhren-Verlust am stärksten ist. Vier, die sich noch nicht alle kennen. Wir sind seit acht Wochen in dieser Stadt, Sie etwas länger. Maren kam zwei Wochen später als ich. Alphina genauso lange wie ich."
-
-Er legte die rechte Hand auf den Turm, nicht darauf drückend, nur aufliegend, die Art Berührung, mit der er Uhrwerke prüfte, ohne sie zu beeinflussen.
-
-"Zeit."
-
-Zeigefinger auf dem Turm, die Kuppe an der Kante.
-
-"Pflanzen."
-
-Er sprach den Namen nicht dazu. Er dachte ihn mit — Alphina am Farn, die Hand in der Erde, die Nägel dunkel.
-
-"Licht."
-
-Sein Blick ging zu Sorel. Sorel rührte sich nicht.
-
-"Wasser."
-
-Unter seiner Handfläche wurde der Turm warm. Einen Atemzug, vielleicht weniger. Nicht heiß. Nur nicht kalt. Dann wieder das alte Temperaturniveau der Außentasche.
-
-Er nahm die Hand nicht weg. Er ließ sie drei Atemzüge auf dem Turm liegen. Der Turm blieb kalt.
-
-Er hob die Hand. Legte sie neben die Karte. Der Turm war wieder wie seit fünfzehn Wochen.
-
-Vesper atmete einmal durch die Nase. Nicht tief. Nicht hörbar. Er registrierte den Wert und legte ihn zu den anderen messbaren Werten des Abends. Ein Hauch Wärme, einen Atemzug lang, unmittelbar nach dem vierten Wort.
-
-Sorel hatte es nicht gesehen. Sorel hatte die Karte angeschaut.
-
-"Wir müssen uns alle treffen."
-
-Vesper sagte es in den Raum hinein, weder zu Sorel noch zu der Lampe noch zum Turm. Es war keine Frage.
-
-"Der Garten wäre der Ort. Nicht der Anker. Nicht das Lichthaus. Der Garten, weil der Mittelpunkt dort ist, und weil eine der vier ohnehin dort arbeitet. Die anderen drei müssen hinkommen. Das organisiert Alphina, wenn ich sie darum bitte. Morgen, vielleicht übermorgen."
-
-Sorel nickte. Nur einmal. Er schluckte trocken und sagte: "Ja."
-
-"Ich frage Alphina morgen früh. Ich gebe Ihnen Bescheid."
-
-"Gut."
-
-Sorel stand auf. Er knöpfte den Mantel nicht neu, weil er ihn den ganzen Abend nicht abgelegt hatte. Er sah einen Moment auf den schwarzen Turm am Rand der Karte, ohne danach zu fragen. Dann auf Vesper.
-
-"Herr Greve. Eines noch. Alphina weiß, dass ich heute hier bin?"
-
-"Sie hat mir Ihren Namen gesagt. Sie wusste nicht, dass Sie heute kommen."
-
-"Sagen Sie es ihr nicht, bevor sie das Treffen organisiert. Es ist — ich möchte es selbst sagen."
-
-Vesper nickte. "Das ist Ihre Sache."
-
-Sorel ging zur Tür. Er drehte sich nicht noch einmal um. Vesper hörte die Schritte im Flur, dann die Treppe, dann nichts.
-
-Er legte die Hand neben den schwarzen Turm und hob ihn nicht auf. Er wartete drei Atemzüge, um zu sehen, ob die Temperatur wiederkam. Sie kam nicht wieder. Der Turm war Holz. Das Holz war kalt.
-
----
-
-Es war nach zehn, als er das Gasthaus verließ und zum Tidemoor-Haus ging. Die Hafengasse lag in dem dünnen Dunst, der im Blütenmond abends aufkam und vor Mitternacht wieder abzog. Die Gaslaternen standen in Abständen von zwölf Schritten. Er zählte sie, weil sein Kopf Schritte zählte, wenn er keine Zahnräder vor sich hatte. Zwölf bis zur ersten, zwölf bis zur zweiten. An der dritten bog er links in die schmale Seitengasse, die bis zum Grauwe-Ufer führte. Der Boden wurde weicher. Keine Erde kam dazu; die Pflastersteine waren hier älter und hatten unter den Jahren eine Handbreit nachgegeben.
-
-Das Haus stand wie immer. Schlüssel in der Innentasche des Mantels. Die Magd hatte ihm den Ersatzschlüssel gegeben, als er beim zweiten Besuch nicht klopfen wollte, weil die Tante halb taub war. Er schloss die Seitentür auf, betrat den schmalen Gang, stand einen Atemzug still und hörte. Das Haus war still. Das Ticken der Standuhr im Flur drang durch die Wand als ein schwaches, regelmäßiges Geräusch. Es war das Ticken, das er kannte.
+Das Tidemoor-Haus stand wie immer. Vesper zog den Ersatzschlüssel aus der Innentasche seines Mantels, schloss die Seitentür auf und blieb nach dem Eintreten einen Atemzug lang still stehen. Das Haus war ruhig, aber nicht leer. Aus dem Flur drang das gedämpfte Ticken der Standuhr durch die Wand, regelmäßig und sauber. Es war das Ticken, das er kannte.
 
 Er ging zuerst in den Keller.
 
-Die Stufen waren acht, auf der fünften saß ein lockeres Brett. Er setzte die Ferse auf den festen Rand und ging weiter. Unten war die Luft warm. Keine Heizung im Haus. Eine Wärme, die aus dem Stein kam, als arbeitete etwas unter ihm, das er nicht sehen konnte. Er ging drei Schritte bis zur Rohrleitung, hob die Hand und hielt sie eine Handbreit unter das Eisenrohr. Das Rohr war warm. Er öffnete den Hahn an der Wand, ließ einen Finger Wasser in die Schale fließen, hielt ihn hinein. Dampfend. Er schloss den Hahn wieder.
+Die Treppe hatte acht Stufen, und auf der fünften saß ein lockeres Brett. Vesper setzte die Ferse auf den festen Rand und ging weiter. Unten stand die Luft warm, obwohl das Haus keine Heizung hatte. Eine Wärme, die aus dem Stein heraufzog, als arbeite darunter ein Körper, dessen Atem durch die Fugen stieg.
 
-Das Wasser kam aus einer Leitung, die keinen Kessel hatte. Vesper hatte das an seinem ersten Besuch zwei Stunden lang durchgeprüft, mit dem Mann, der im Haus für die Rohre zuständig war. Es gab keinen Kessel im Haus. Es gab keinen Warmwasserspeicher. Das Wasser, das in dieses Rohr lief, kam aus dem städtischen Brunnensystem unter dem Grauwe-Ufer, und das Grauwe-Wasser im Blütenmond hatte elf Grad. Das Wasser hier hatte fünfzig.
+Er ging drei Schritte bis zur Rohrleitung, hob die Hand und hielt sie eine Handbreit unter das Eisenrohr. Es war warm. Als er den Hahn an der Wand öffnete und einen Fingerbreit Wasser in die Schale laufen ließ, stieg Dampf auf.
 
-Er ging ans Kellerfenster. Drei Rillen im Holz, in das Holz hineingeschnitten. Er legte die Daumenkuppe auf die mittlere. Warm. Nicht heiß. Die Temperatur, die Sorel ihm vorhin beschrieben hatte — der Schlag auf den Handrücken, die Hitze, die kein Feuer gebraucht hatte, um zu brennen. Er hatte es beim Zuhören registriert, ohne es mit der Kerbe hier zu verbinden. Jetzt verband er.
+Das Wasser kam aus einer Leitung, die keinen Kessel hatte. Er hatte das an seinem ersten Besuch zwei Stunden lang geprüft, gemeinsam mit dem Mann, der für die Rohre zuständig war. Kein Kessel, kein Warmwasserspeicher, keine verborgene Leitung. Das Wasser, das hier ankam, kam aus dem städtischen Brunnensystem unter dem Grauwe-Ufer, und Grauwe-Wasser hatte im Blütenmond elf Grad.
 
-Er ging die Kellertreppe wieder hoch. In den Flur.
+Dieses Wasser hatte fünfzig.
 
-Die Standuhr stand am linken Ende des Flurs, wo sie immer gestanden hatte. Messinggehäuse, Mahagoni, das Pendel fast so lang wie sein Arm. Er trat davor, blieb stehen, hörte. Das Ticken war sauber. Keine Abweichung im Schlag. Kein Schleifen am Übergang zwischen Ankerrad und Hemmung.
+Vesper schloss den Hahn und ging zum Kellerfenster. Drei Rillen waren ins Holz geschnitten. Er legte die Daumenkuppe auf die mittlere, und die Wärme dort war nicht stark genug, um Schmerz zu verursachen, aber deutlich genug, dass seine Gedanken sofort zu Sorels Beschreibung zurückfanden: Hitze ohne Feuer, eine Wunde ohne Ruß, ein sauberes Ende.
 
-Er legte die Hand auf das Gehäuse, auf die Höhe, auf der der Zeiger stand. Die Uhr tickte unter seiner Hand weiter, ohne Veränderung. Er wartete. Dreißig Sekunden. Eine Minute. Zwei Minuten.
+Beim Zuhören hatte er die Verbindung nur am Rand gesehen. Jetzt schloss sie sich.
 
-Kein Verlust.
+Er ging wieder hinauf in den Flur.
 
-Beim ersten Besuch hatte die Uhr unter seiner Hand die ersten drei Minuten rein getickt und stündlich vier Minuten dreiunddreißig verloren, sobald er die Hand wegnahm. Beim zweiten Besuch, vor zwei Wochen, hatte er ihr den sauberen Schlag aus der eigenen Brust durch die Handfläche vorgelegt — nicht als Hand, als Form. Als ein stiller Satz: *So. Genau so. Behalte diesen Schlag.* Seitdem lief sie ohne Unterbrechung rein. Kvarns Taschenuhr in seinem Zimmer hatte seit jenem Abend ebenfalls keinen Verlust mehr gezeigt.
+Die Standuhr stand am linken Ende, wo sie immer gestanden hatte. Messinggehäuse, Mahagoni, ein Pendel fast so lang wie sein Arm. Vesper blieb davor stehen und hörte. Der Schlag war sauber, keine Abweichung, kein Schleifen am Übergang zwischen Ankerrad und Hemmung.
+
+Er legte die Hand auf das Gehäuse, auf die Höhe, auf der der Zeiger stand.
+
+Die Uhr tickte unter seiner Hand weiter, ohne Veränderung. Dreißig Sekunden. Eine Minute. Zwei.
+
+Beim ersten Besuch hatte sie unter seiner Hand die ersten drei Minuten rein getickt und täglich vier Minuten dreiunddreißig verloren, sobald er die Hand wegnahm. Beim zweiten Besuch, vor zwei Wochen, hatte er ihr den sauberen Schlag aus der eigenen Brust durch die Handfläche vorgelegt. Nicht als Befehl. Eher als Form. Ein stiller Satz: *So. Genau so. Behalte diesen Schlag.*
+
+Seitdem lief sie ohne Unterbrechung rein. Kvarns Taschenuhr in seinem Zimmer hatte seit jenem Abend ebenfalls keinen Verlust mehr gezeigt.
 
 Er ließ die Hand liegen. Die Uhr tickte weiter.
 
-Er stand dort eine Minute länger, als er es sich vorgenommen hatte. Dann zwei Minuten. Er brauchte den Kontakt mit dem System, bevor er vier Menschen in denselben Garten brachte, über dessen Kreis die stärkste Abweichung der Stadt lag. Die Tidemoor-Uhr war das älteste bekannte Muster, das er in Vael gefunden hatte. Wenn die Quelle unter der Stadt schon jahrzehntelang sickerte, dann tickte dieses Gehäuse seit Jahrzehnten mit dem Widerstand dagegen an. Er wollte es hören, bevor er den Rest organisierte.
+Er brauchte den Kontakt mit diesem System, bevor er vier Menschen in denselben Garten brachte, über dessen Kreis die stärkste Abweichung der Stadt lag. Die Tidemoor-Uhr war das älteste Muster, das er in Vael gefunden hatte. Wenn die Quelle unter der Stadt schon seit Jahren sickerte, dann tickte dieses Gehäuse seit Jahren dagegen an.
+
+Er wollte hören, wie Widerstand klang.
 
 Die Hand unter dem Messing wurde langsam warm.
 
-Er zählte die Schläge, weil sein Kopf die Schläge zählte. Einer pro Sekunde. Exakt. Die Hemmung griff bei jedem Schlag auf denselben Zahn.
+Er zählte die Schläge. Einer pro Sekunde. Exakt. Die Hemmung griff jedes Mal auf denselben Zahn.
 
-Er hatte in dreißig Jahren Schachpartien immer gewusst, wann ein Zug unumkehrbar war. Es war kein Gefühl. Es war die Stellung. Wenn man einen Turm auf eine offene Linie stellte, konnte man ihn zurückziehen. Wenn man ihn auf eine offene Linie stellte und dabei einen Bauern hergab, war die Stellung danach eine andere. Der Turm ließ sich zurückziehen. Der Bauer nicht.
+In dreißig Jahren Schachpartien hatte er immer gewusst, wann ein Zug unumkehrbar wurde. Es war kein Gefühl, sondern die Stellung. Man konnte einen Turm auf eine offene Linie stellen und ihn später zurückziehen. Wenn man ihn aber auf diese Linie stellte und dabei einen Bauern hergab, war die Stellung danach eine andere. Der Turm ließ sich zurückziehen. Der Bauer nicht.
 
 Er stellte gerade den Turm.
 
-Er nahm die Hand vom Gehäuse. Die Uhr tickte weiter. Der Schlag blieb sauber. Er hatte ihr den Takt vorgelegt, und sie hielt ihn jetzt ohne seine Hand. Der Zug vor zwei Wochen hatte gehalten.
+Vesper nahm die Hand vom Gehäuse. Die Uhr tickte weiter. Der Schlag blieb sauber.
 
-Er ging zur Haustür, schloss sie von innen zu, verließ durch die Seitentür das Grundstück. Der Dunst über der Grauwe hatte sich verdichtet. Die Laternen an der Flussseite warfen ihr Licht als schmale Trapeze auf die Pflastersteine, und er ging durch die Trapeze, eins nach dem anderen, zurück zum Anker.
+Der Zug vor zwei Wochen hatte gehalten.
 
-In seiner Außentasche lag der Turm. Er streifte ihn beim Gehen einmal mit der Daumenkuppe. Kalt. Wie immer.
+Er verließ das Haus durch die Seitentür. Der Dunst über der Grauwe hatte sich verdichtet, und die Laternen an der Flussseite warfen ihr Licht als schmale Trapeze auf das Pflaster. Vesper ging durch diese Trapeze zurück zum Anker, eines nach dem anderen. In seiner Außentasche lag der schwarze Turm. Als er ihn beim Gehen mit der Daumenkuppe streifte, war er kalt.
 
-Er ging weiter. Die siebte Stufe seiner Gasthaus-Treppe knarrte. Er hörte sie knarren und stieg darüber hinweg, ohne sie zu vermeiden.
+Wie immer.
 
-Im Zimmer ließ er die Lampe aus. Legte den Mantel über den Stuhl. Setzte sich an den Klapptisch. Öffnete das Notizbuch nicht. Nahm den Turm aus der Tasche, legte ihn auf den Tisch, unter das Fenster, in das Licht der Gaslaterne, das von draußen hereinfiel.
+Im Gasthaus knarrte die siebte Stufe der Treppe. Er hörte sie knarren und stieg darüber hinweg, ohne sie zu vermeiden.
 
-Er saß eine Weile und sah den Turm nicht an. Er sah durch das Fenster auf die Hafengasse, auf der niemand mehr ging.
+In seinem Zimmer ließ er die Lampe aus. Er legte den Mantel über den Stuhl, setzte sich an den Klapptisch und öffnete das Notizbuch nicht. Stattdessen nahm er den Turm aus der Tasche und legte ihn unter das Fenster, in das Licht der Gaslaterne, das von draußen hereinfiel.
 
-Dann hob er den Kopf und sprach in den Raum, halb zu sich selbst.
+Eine Weile saß er da, ohne den Turm anzusehen. Sein Blick lag auf der Hafengasse, in der niemand mehr ging.
 
-"Morgen früh. Alphina."
+Morgen früh musste er Alphina aufsuchen.
 
-Die Standuhr im Flur unten im Anker schlug elf. Er zählte die Schläge. Elf, sauber. Keiner fehlte.
+Er dachte an die Ringe auf der Karte, an Sorels Tonfall, als er ihren Namen ausgesprochen hatte, an den Steinkreis im Garten und an die Uhr im Tidemoor-Haus, die seit zwei Wochen gegen ihre eigene Abweichung antickte.
 
-Er atmete einmal aus und blieb am Tisch sitzen, bis der letzte Nachhall verklungen war.
+Dann, ohne dass er es wollte, dachte er wieder an Maren.
+
+An den Tee, der heiß geworden war. An die Finger, die sie nicht bewegt hatte. An die Stelle an ihrem Handgelenk innen, an der Sehne unter dem Daumenansatz.
+
+Vesper legte die Hand flach neben den Turm, nicht darauf.
+
+Die Standuhr unten im Flur des Anker schlug elf. Er zählte die Schläge. Keiner fehlte.
+
+Als der letzte Nachhall verklang, blieb er noch immer am Tisch sitzen.

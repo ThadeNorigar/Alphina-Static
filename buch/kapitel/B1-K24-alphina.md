@@ -44,7 +44,7 @@ Das Manuskript lag aufgeschlagen auf dem Lesetisch, Seiten lose in einer Mappe, 
 
 »Lene Dahl«, sagte Esther, den Finger neben dem oberen Rand. »Zuzug nach Vael, hunderteinundfünfzig. Werftgründerin an der Grauwe. Die Linie reicht vier Jahrhunderte, bis Anen und Meren Dahl, das letzte Paar, kinderlos.« Sie hob den Blick, sah Maren an. Maren nickte langsam. »Haron Dahl, fünfhundertvierundvierzig von ihnen adoptiert. Name bei der Adoption angenommen.« Sie sprach, wie jemand Wäscheklammern aufzählt.
 
-Esther schob eine Seite aus dem letzten Drittel halb auf den Tisch, zeigte mit dem Nagel auf die unterste Zeile. »Unterzeichnet«, sagte sie. »Mit Namen und Datum.« *Lene Dahl. Dritter Dunkelmond einhundertvierundfünfzig.* Alphina las die Zeile zweimal. Drei Wochen nach dem Großen Feuer.
+Esther schob eine Seite aus dem letzten Drittel auf den Tisch, zeigte mit dem Nagel auf die unterste Zeile. »Unterzeichnet«, sagte sie. »Mit Namen und Datum.« *Lene Dahl. Dritter Dunkelmond einhundertvierundfünfzig.* Alphina las die Zeile zweimal. Drei Wochen nach dem Großen Feuer.
 
 Haron war für Alphina ein Name, nicht ein Gesicht. Maren hatte ihn zweimal erwähnt, nebenbei. Maren selbst war keine Dahl. Sie hatte die Werft geerbt, die Linie hatte sie nicht. Aber die Linie reichte jetzt vier Jahrhunderte zurück. Die Werft war dieselbe: die Lene gebaut hatte, die Maren heute offenhielt.
 
@@ -80,7 +80,7 @@ Die Gestalt hatte einen Körper, gezeichnet von einer, die ihn gesehen hatte. De
 
 Alphinas Atem kam kühler ein, als sie wollte. Die Haare am Nacken hoben sich und blieben. An den Fingerspitzen, wo das Kribbeln stand, das sie von den Beeten kannte, lag jetzt Kälte. Unter dem Schlüsselbein straffte sich ein Punkt. Sie ließ das Papier, wo es war. Sorel stellte sich neben sie, auf gleicher Höhe, und legte zwei Finger ans Handgelenk, flach, leicht. Sein Blick blieb auf der Skizze. Sein Schweigen wog jetzt mehr als in der Küche.
 
-Esther redete halb für sich. »Das Datum steht in drei Chroniken. Die Zeichnung ist nur hier.« Alphina registrierte den Satz am Rande. Der Druck in der Brustmitte hielt.
+Esther redete leise für sich. »Das Datum steht in drei Chroniken. Die Zeichnung ist nur hier.« Alphina registrierte den Satz am Rande. Der Druck in der Brustmitte hielt.
 
 Maren fuhr den Brand-Pfad auf der Zeichnung nach, knapp über dem Papier, von den Füßen der Gestalt aus, um zwei Ecken, bis zum Rand des Blatts. Ihre Fingerknöchel waren weiß. Vesper verglich die Gestalt mit dem Dachfirst daneben, wog den Kopf einmal. Maren sah ihn an. Er nickte ihr, kurz. Maren atmete aus.
 

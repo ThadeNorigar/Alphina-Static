@@ -2,7 +2,7 @@
 
 *26. Blütenmond 551 · 9 Wochen 1 Tag in Vael*
 
-Die Tür fiel ins Schloss. Maren blieb mit der Hand am Drücker stehen, nicht um ihn zu drehen, sondern um die Restwärme aufzunehmen, die Alphinas Handfläche im Eisen hinterlassen hatte. Auf der Gasse verklangen Schritte, zwei Paar, gleichmäßig erst, dann verschluckt vom Wind Richtung Hafen. Sie ließ die Hand sinken und drehte sich in den Raum zurück.
+Die Tür fiel ins Schloss. Maren blieb mit der Hand am Drücker stehen, um die Restwärme aufzunehmen, die Alphinas Handfläche im Eisen hinterlassen hatte. Auf der Gasse verklangen Schritte, zwei Paar, gleichmäßig erst, dann verschluckt vom Wind Richtung Hafen. Sie ließ die Hand sinken und drehte sich in den Raum zurück.
 
 Vesper saß noch so, wie sie ihn zuletzt gesehen hatte. Die Handflächen rechts und links neben Harons Wörterbuch flach auf der Tischplatte, die Finger leicht gespreizt, die Schultern lose. Er hatte einen Bleistift schräg quer über die Seite gelegt, an der sie aufgehört hatten. Er hob den Kopf, als sie zum Tisch zurückkam, und sah sie einen Moment zu lang an.
 
@@ -10,7 +10,7 @@ Aus der Kanne goss sie den Rest in ihren Becher und in Vespers; der Tee war küh
 
 Sie schlugen die nächste Seite auf. Sechs Zeichen in Harons Handschrift standen am oberen Rand, dicht nebeneinander. Maren strich mit dem Daumennagel unter den Zeichen entlang und sah zwei Bestandteile, die sie kannte: das Wurzelzeichen aus *Kreis*, links; das Suffix aus *gemeinsam*, rechts. Sie nahm einen Bleistift und zog eine dünne Linie unter die bekannten Zeichen. Vesper sah zu. Er griff nicht ein.
 
-Sie arbeiteten weiter. Vesper deutete einmal mit der Bleistift-Spitze auf das mittlere Zeichen, ohne es zu berühren. Maren probierte zwei Aussprachen halblaut; die zweite klang wie *Kreis* und *öffnen* in der Wurzel. »*Durchgang*«, sagte sie. »Oder *Übergang*.« Vesper nickte. Sie schrieb das sechste Wort in die Liste, neben die fünf vom Tag zuvor.
+Sie arbeiteten weiter. Vesper deutete einmal mit der Bleistift-Spitze auf das mittlere Zeichen, ohne es zu berühren. Maren probierte zwei Aussprachen leise; die zweite klang wie *Kreis* und *öffnen* in der Wurzel. »*Durchgang*«, sagte sie. »Oder *Übergang*.« Vesper nickte. Sie schrieb das sechste Wort in die Liste, neben die fünf vom Tag zuvor.
 
 Draußen in der Hafengasse setzten Schritte ein, gleichmäßig, der Nachtwächter auf seiner zweiten Runde. Maren kannte den Takt. Sieben Schläge bis zum Türstock, dann bog er in die Krummgasse ein und das Geräusch verschluckte sich an der Hauswand. Auf dem Sims tropfte eine der Öllampen einmal heiß über den Rand und zischte am Messing aus. Maren registrierte das, ohne hinzusehen: der Docht der neuen Lampe war zu lang, sie würde ihn morgen kürzen.
 
@@ -124,7 +124,7 @@ Den Lederriemen an ihrem Handgelenk spürte sie kaum noch.
 
 Vesper trat hinter sie. Maren hörte es am leichten Druckwechsel unter den Dielen, bevor seine Hand sich meldete: flach, offen, am Nacken, dort wo das Haar begann. Dann strich sie ohne Hast die Wirbelsäule entlang: über die Schulterblätter, über die Lendengrube, bis zur Hüfte. Die ganze Fläche. Ihre Haut zog sich nicht zusammen; sie öffnete sich, eine Linie warmer Wahrnehmung, die ihrem Atem folgte.
 
-Er wiederholte es. Gleiche Breite, gleicher Druck. Beim zweiten Mal löste sich etwas weiter innen, nicht in der Haut, sondern darunter, etwas, das sie jahrelang ohne Absicht gehalten hatte. Auch die Hüften wurden weicher, von innen her.
+Er wiederholte es. Gleiche Breite, gleicher Druck. Beim zweiten Mal löste sich etwas weiter innen, unter der Haut, etwas, das sie jahrelang ohne Absicht gehalten hatte. Auch die Hüften wurden weicher, von innen her.
 
 Zwischen den Schulterblättern legte er die Hand flach ab. Blieb. Maren atmete, und er war noch da. Sie atmete noch einmal, und er ließ ihren Atem unter seiner Handfläche ankommen, bevor er sich mit ihm hob und senkte.
 

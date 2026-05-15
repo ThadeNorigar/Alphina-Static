@@ -54,7 +54,7 @@ Der Kasten stand auf einem Tisch, neben Porzellan, Silberbesteck, einem Stapel B
 
 Platte dreiundsiebzig.
 
-Ein Hafenbild. Wasser, Kaimauer, Dunst. Nicht Nachtholm, eine andere Stadt, Stein den er nicht kannte, dunkler, rötlicher. Am Rand des Bildes, halb im Dunst, eine Gestalt. Sorel hielt die Platte gegen das Licht. Kniff die Augen zusammen. Das Gesicht wurde schärfer. Es war seines.
+Ein Hafenbild. Wasser, Kaimauer, Dunst. Nicht Nachtholm, eine andere Stadt, Stein den er nicht kannte, dunkler, rötlicher. Am Rand des Bildes, fast im Dunst, eine Gestalt. Sorel hielt die Platte gegen das Licht. Kniff die Augen zusammen. Das Gesicht wurde schärfer. Es war seines.
 
 Sein Gesicht. Seine Nase. Sein Kinn. Die Art wie er stand: leicht vorgebeugt, die Schultern schmal, der Kopf nach vorn geneigt. Auf einem Bild das Jahrzehnte alt war, in einer Stadt die er nicht kannte, in Kleidern die er nie getragen hatte. Er sah in die Kamera. Er sah sich an, durch das Bild hindurch, als hätte er gewusst dass dieser Moment kommen würde, dieser Sonntag in Falkensand, diese Hand die die Platte gegen das Licht hielt.
 
@@ -134,7 +134,7 @@ Das Bild veränderte sich. Im warmen Licht waren die Schatten weicher, die Kontu
 
 Aber da war etwas, das er im Rotlicht nicht gesehen hatte.
 
-Hinter ihm. Hinter seinem eigenen Gesicht auf dem Bild. Halb im Dunst. Eine zweite Gestalt. Nicht klar genug für ein Gesicht. Nur Umrisse: Schultern, ein Kopf, die Andeutung eines Körpers. Die Gestalt stand neben ihm. Eine Kälte legte sich auf seinen Nacken, als hätte jemand ihn von hinten berührt. Er drehte sich um. Der Flur war leer. Das Rotlicht war aus, die Gaslampe flackerte. Er war allein.
+Hinter ihm. Hinter seinem eigenen Gesicht auf dem Bild. Fast im Dunst. Eine zweite Gestalt. Nicht klar genug für ein Gesicht. Nur Umrisse: Schultern, ein Kopf, die Andeutung eines Körpers. Die Gestalt stand neben ihm. Eine Kälte legte sich auf seinen Nacken, als hätte jemand ihn von hinten berührt. Er drehte sich um. Der Flur war leer. Das Rotlicht war aus, die Gaslampe flackerte. Er war allein.
 
 Er stand im Flur. Die Platte in der Hand. Die Gaslampe an der Wand, das Licht gelb und zitternd. Sein Atem. Das Tropfen des Wassers, irgendwo, tief in der Schlucht. Sonst nichts. Er stand da, lange. Die Platte wurde schwer in seiner Hand. Das Gesicht darauf schaute nach oben, in den Flur. Die zweite Gestalt stand daneben, im Dunst. Wartete.
 

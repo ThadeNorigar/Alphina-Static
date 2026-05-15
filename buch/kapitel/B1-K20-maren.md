@@ -128,7 +128,7 @@ Der Satz war leise. Gerade das hielt ihr den Atem unter den Schlüsselbeinen fes
 
 Vesper zog das Register näher und setzte den Bleistift neben eine Ziffernfolge.
 
-„Das hier ist eine Vaeler Registriernummer. Archiv-Kennung." Er unterstrich die Zahlen nicht hastig, sondern so genau, als würde der Strich später noch gebraucht. „Das Blatt verweist auf ein Dokument im Rathauskeller."
+„Das hier ist eine Vaeler Registriernummer. Archiv-Kennung." Er unterstrich die Zahlen so genau, als würde der Strich später noch gebraucht. „Das Blatt verweist auf ein Dokument im Rathauskeller."
 
 „Oder auf eines, das dort war."
 
@@ -266,7 +266,7 @@ Maren ging ein wenig vor. Oder neben ihm. Sie wusste es nicht genau, weil Vesper
 
 Am Uferweg blieb sie stehen.
 
-Sie setzte sich nicht, sondern ging in die Hocke, dort, wo das Holz zwei Handbreit über dem Wasser lag. Ihre Füße standen flach auf den Dielen, die Ellbogen ruhten auf den Knien. Eine Hand streckte sich aus, bevor sie entschieden hatte, sie zu bewegen. Sie hielt sie eine Daumenbreite über die Oberfläche.
+Sie ging in die Hocke, dort, wo das Holz zwei Handbreit über dem Wasser lag. Ihre Füße standen flach auf den Dielen, die Ellbogen ruhten auf den Knien. Eine Hand streckte sich aus, bevor sie entschieden hatte, sie zu bewegen. Sie hielt sie eine Daumenbreite über die Oberfläche.
 
 Das Wasser antwortete.
 

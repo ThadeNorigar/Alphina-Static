@@ -219,7 +219,7 @@ Alphina sah ihnen nach, dann Sorel an. Vesper sah in die Richtung der Druckerei.
 
 Sorel suchte Alphinas Augen. Sie war noch da. Sein Versprechen hatte er gehalten.
 
-Drei Häuser weiter war eine Tür eingeschlagen. Auf der anderen Seite des Hafens lag jemand auf der Straße, ein zweiter Körper drei Schritt weiter, ein dritter halb hinter einer Karre. Der Himmel über den Werftspeichern wurde heller, eine kalte, blasse Helle.
+Drei Häuser weiter war eine Tür eingeschlagen. Auf der anderen Seite des Hafens lag jemand auf der Straße, ein zweiter Körper drei Schritt weiter, ein dritter teils hinter einer Karre. Der Himmel über den Werftspeichern wurde heller, eine kalte, blasse Helle.
 
 Joran war tot. Sorel kannte seinen Vornamen. Runa hatte einmal eine Geschichte erzählt, an einem Sommer-Abend in der Druckerei: ein Setzer verlangte jeden Mittwoch dieselbe Schriftart. Das war Joran gewesen. Sorel hatte ihn zweimal gesehen: flüchtig zwischen Tür und Setzkasten, einmal beim Holen einer Bestellung.
 

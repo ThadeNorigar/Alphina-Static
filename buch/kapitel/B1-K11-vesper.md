@@ -147,7 +147,7 @@ Er hatte die Frage erwartet. Die Antwort, die das Wenigste preisgab und nicht lo
 
 "Ich messe Uhren in der Stadt. Manche gehen ab, manche stehen. Ich trage die Standorte ein."
 
-Sie hielt kurz inne, die Hände noch am Packpapier. Etwas in ihrem Gesicht verschob sich, nicht im Mund, in der Linie zwischen den Brauen. Dann arbeitete sie weiter, drehte sich halb zu einem niedrigen Brett hinter sich, auf dem ein schmaler Stapel einseitig bedruckter Bögen lag, hob den obersten ab und faltete ihn einmal in der Mitte. Sie schob ihn zwischen die beiden Velinbogen und schloss dann den Umschlag.
+Sie hielt kurz inne, die Hände noch am Packpapier. Etwas in ihrem Gesicht verschob sich, nicht im Mund, in der Linie zwischen den Brauen. Dann arbeitete sie weiter, drehte sich zur Seite zu einem niedrigen Brett hinter sich, auf dem ein schmaler Stapel einseitig bedruckter Bögen lag, hob den obersten ab und faltete ihn einmal in der Mitte. Sie schob ihn zwischen die beiden Velinbogen und schloss dann den Umschlag.
 
 Dann sah sie ihn an.
 
@@ -249,7 +249,7 @@ Vesper hörte, was der Satz nicht enthielt. Kein *ich glaube an Geister*. Kein *
 
 "Herr Greve. Stimmt die Erzählung?"
 
-Er brauchte einen Atemzug, um zu antworten. Nicht, weil er die Antwort nicht kannte, sondern weil er in fünf Wochen kein einziges Mal von jemandem nach dieser Antwort gefragt worden war.
+Er brauchte einen Atemzug, um zu antworten. Die Antwort kannte er. Aber in fünf Wochen hatte ihn niemand danach gefragt.
 
 "Die Uhr heißt Tidemoor-Uhr. Sie verliert seit Generationen vier Minuten und dreiunddreißig Sekunden pro Tag. Drei Uhrmacher vor mir haben das Gehäuse geöffnet und keinen Fehler gefunden." Er legte die linke Hand auf den Türrahmen, ohne den Druck auf das Holz zu verstärken. "Vor fünf Wochen, am ersten Tag hier, habe ich sie im Salon der Tidemoors gemessen. Sechs Stunden, drei Durchgänge. Hand aufs Gehäuse, eine Stunde gewartet, meine Taschenuhr verglichen: null Drift. Hand weg, eine Stunde gewartet: vier Minuten dreiunddreißig. Hand drauf, null. Hand weg, vier dreiunddreißig. Drei Mal hintereinander, derselbe Verlauf."
 
@@ -321,7 +321,7 @@ Sie schauten einander zwei, drei Atemzüge lang an, ohne dass einer etwas hinzuf
 
 "Eines müssen Sie noch sehen", sagte er.
 
-Er drehte sich halb zurück ins Zimmer, griff das Notizbuch vom Klapptisch und kam zur Tür zurück, das Buch an der Seite mit den Ringen aufgeschlagen. Er hielt es so, dass sie im Licht der Flurlampe hineinsehen konnte, ohne dass er es ihr aus der Hand gab.
+Er drehte sich kurz zurück ins Zimmer, griff das Notizbuch vom Klapptisch und kam zur Tür zurück, das Buch an der Seite mit den Ringen aufgeschlagen. Er hielt es so, dass sie im Licht der Flurlampe hineinsehen konnte, ohne dass er es ihr aus der Hand gab.
 
 "Das ist der Vormittag. Siebzehn Uhren in der Stadt, in vier Wochen gemessen, heute zum ersten Mal nach Magnitude-Gruppen sortiert. Vier Gruppen, vier konzentrische Bögen. Uhren, die elf bis fünfzehn Sekunden pro Tag verlieren, sitzen alle in Hafennähe: der äußere Ring. Dreißig bis fünfzig Sekunden im zweiten. Eine bis zwei Minuten im dritten. Zwei bis drei Minuten im innersten: drei der sechzehn, nahe beieinander. Je näher am Zentrum, desto stärker die Drift. Tidemoor liegt außerhalb, am Grauwe-Ufer. Sonderfall."
 
