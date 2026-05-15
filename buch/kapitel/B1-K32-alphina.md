@@ -3,7 +3,7 @@
 *14. Nebelmond 551 · 26 Wochen 5 Tage in Vael*
 
 
-Sechs Tage nach der Hafengasse-Nacht hinkte Sorel neben ihr über die lockeren Pflastersteine, und Alphina sah nicht hin. Sie hörte ihn — das Schleifen seiner rechten Sohle über das Pflaster, ein Versatz im Rhythmus, als wäre eine Sehne auf der falschen Seite zu kurz geworden. Sie zwang den Blick auf die Gasse vor ihr.
+Sechs Tage nach der Hafengasse-Nacht hinkte Sorel neben ihr über die lockeren Pflastersteine, und Alphina sah nicht hin. Sie hörte ihn: das Schleifen seiner rechten Sohle über das Pflaster, ein Versatz im Rhythmus, als wäre eine Sehne auf der falschen Seite zu kurz geworden. Sie zwang den Blick auf die Gasse vor ihr.
 
 Heute drängten sich auf der Hafengasse mehr Menschen als in den letzten zwei Wochen. Familien zogen mit gerollten Bündeln am Rücken hafenwärts, eine Frau trug drei Kinder vor sich her und ein Bündel Pfannen quer über der Brust, das bei jedem Schritt dumpf gegen ihr Brustbein schlug. Aus einem Hauseingang trugen zwei Männer einen Sarg auf den schmalen Schultern, das Holz frisch gehobelt, an den Kanten noch hell. Niemand rief. Niemand drängte. Alle gingen in dieselbe Richtung, gleichmäßig.
 
@@ -23,7 +23,7 @@ Während Vespers Daumen noch an der Schläfe ruhte, kamen Schritte über die Boh
 
 Tohl wartete auf eine Frage, die Alphina nicht stellte. Sie hob die Hand zu seinem Unterarm, drückte ihn kurz, ließ los. Im Augenwinkel zeichnete sich Sorel ab, zwei Schritt hinter ihr, das Gewicht auf dem linken Bein, das rechte leicht angewinkelt. Er sah zum Speicher, dann zu den Booten, dann zu Tohl. Sein Mund blieb geschlossen.
 
-Aus der Querstraße zwischen Pfeiler neun und Pfeiler zehn trat etwas auf das Pflaster. Kniehoch, kompakt, vier knochige Beine, die den Körper trugen wie ein Tier, das sie nie gesehen hatte. Die Außenfläche fiel ihr zuerst auf — verzundertes Eisen, dunkel, mit einem oxidierten Schimmer über den Flanken, kein Fell, keine Haut darunter. Es bewegte sich, und dabei erreichte sie kein Klang. Kein Klacken von Eisen auf Stein, kein Schaben der Gelenke, kein Atmen.
+Aus der Querstraße zwischen Pfeiler neun und Pfeiler zehn trat etwas auf das Pflaster. Kniehoch, kompakt, vier knochige Beine, die den Körper trugen wie ein Tier, das sie nie gesehen hatte. Die Außenfläche fiel ihr zuerst auf: verzundertes Eisen, dunkel, mit einem oxidierten Schimmer über den Flanken, kein Fell, keine Haut darunter. Es bewegte sich, und dabei erreichte sie kein Klang. Kein Klacken von Eisen auf Stein, kein Schaben der Gelenke, kein Atmen.
 
 Trockene Hitze schob sich vor ihr Gesicht. Es roch nach einer Schmiede in der heißen Stunde, nach erhitztem Metall, nach Schlackenstaub. Hinter dem Wesen dampfte das Pflaster, vier kleine Wolken, die über den Steinen zerrissen.
 
@@ -35,15 +35,15 @@ Alphinas Atem wurde flach. Unter dem Schlüsselbein zog sich der Brustkorb zusam
 
 Vesper sah zuerst zu ihr hinüber, dann zum Wesen. »Nein. Anders.« Er schwieg einen Atemzug. »Anderer Hersteller.«
 
-Sorel hob die rechte Hand auf Brusthöhe, ohne Eile, die Finger zur lockeren Faust geschlossen. Zwischen den beiden Speicherwänden hingen die Lichtreste, ein letzter heller Streifen über dem nassen Pflaster. Er sammelte ein, was an Helle noch zwischen den Mauern blieb, und hielt es auf einen Punkt drei Schritte vor dem Wesen — wie eine Hand, die eine Flamme vor dem Wind schirmt. Drei Atemzüge lang rührte sich der helle Fleck am Boden nicht. Maren wandte den Kopf, ihr Blick fiel kurz auf Sorels geschlossene Hand, dann auf das gehaltene Licht, und sie sagte nichts. Vesper hob die Augenbrauen um eine Spur, tippte zweimal kurz mit dem Mittelfinger gegen die Schläfe und schwieg. Alphina sah Sorel von der Seite an: sein Gewicht ruhte auf dem linken Bein, und die Hand auf Brusthöhe hielt. Das Wesen hob den Kopf, die schwarzen Augen blieben einen Atemzug auf Vesper. Dann zog es sich lautlos in die Querstraße zurück. Sorel öffnete die Faust. Die Helle floss zwischen die Mauern zurück. Hinter dem Wesen dampfte das Pflaster noch eine Weile.
+Sorel hob die rechte Hand auf Brusthöhe, ohne Eile, die Finger zur lockeren Faust geschlossen. Zwischen den beiden Speicherwänden hingen die Lichtreste, ein letzter heller Streifen über dem nassen Pflaster. Er sammelte ein, was an Helle noch zwischen den Mauern blieb, und hielt es auf einen Punkt drei Schritte vor dem Wesen, wie eine Hand, die eine Flamme vor dem Wind schirmt. Drei Atemzüge lang rührte sich der helle Fleck am Boden nicht. Maren wandte den Kopf, ihr Blick fiel kurz auf Sorels geschlossene Hand, dann auf das gehaltene Licht, und sie sagte nichts. Vesper hob die Augenbrauen um eine Spur, tippte zweimal kurz mit dem Mittelfinger gegen die Schläfe und schwieg. Alphina sah Sorel von der Seite an: sein Gewicht ruhte auf dem linken Bein, und die Hand auf Brusthöhe hielt. Das Wesen hob den Kopf, die schwarzen Augen blieben einen Atemzug auf Vesper. Dann zog es sich lautlos in die Querstraße zurück. Sorel öffnete die Faust. Die Helle floss zwischen die Mauern zurück. Hinter dem Wesen dampfte das Pflaster noch eine Weile.
 
-Vesper trat neben sie. »Zwei Quellen. Mindestens.« Seine Stimme blieb tief und ruhig. Alphina nickte einmal. In ihrer Kehle saß das Wort, das sie nicht hatte, und ihre Hand suchte schon den Saum ihres Ärmels, zog ihn ein Stück tiefer über das Gelenk. Vom Marktplatz her schlug eine Glocke, hell und einzeln, und der Klang lief über die Speicherdächer wie ein dünnes Band. Runa erwartete sie am Stand in der Pfeil-Gasse, halb zwei — Druckpapier, Letter-Proben, die Werftpapiere für Maren, die Übersetzungstafel für Vesper, vor drei Tagen abgesprochen, als das Hafenviertel noch nach Hanf und Teer geschlafen hatte. Sie zog den Ärmel weiter, bis der Stoff über den Knöchel fiel, und atmete ein.
+Vesper trat neben sie. »Zwei Quellen. Mindestens.« Seine Stimme blieb tief und ruhig. Alphina nickte einmal. In ihrer Kehle saß das Wort, das sie nicht hatte, und ihre Hand suchte schon den Saum ihres Ärmels, zog ihn ein Stück tiefer über das Gelenk. Vom Marktplatz her schlug eine Glocke, hell und einzeln, und der Klang lief über die Speicherdächer wie ein dünnes Band. Runa erwartete sie am Stand in der Pfeil-Gasse, halb zwei: Druckpapier, Letter-Proben, die Werftpapiere für Maren, die Übersetzungstafel für Vesper, vor drei Tagen abgesprochen, als das Hafenviertel noch nach Hanf und Teer geschlafen hatte. Sie zog den Ärmel weiter, bis der Stoff über den Knöchel fiel, und atmete ein.
 
-»Geh zurück zu mir«, sagte sie zu Sorel. »Bleib drin.« Er nickte und hielt ihren Blick, ohne zu protestieren. Sie wandte sich zu Maren und Vesper. »Ich bin in zwei Stunden zurück. Wenn ich nicht zurück bin, holt mich.« — »Wir holen dich«, sagte Maren, während Vesper den Daumen kurz an die Schläfe hob und ihn dort einen Atemzug ruhen ließ. Alphina nickte ihnen zu und ging zum Werftsteg, die Bohlen federten unter ihren Stiefeln. Auf den letzten Schritten drehte sie sich noch einmal um. Sorel und Maren standen nebeneinander an der Speichertür, sein rechtes Bein um eine Spur entlastet, der Fuß kaum auf den Planken. Maren hob die Hand an seine Schulter und ließ sie dort, die Finger über dem groben Leinen seines Hemdes ruhig. Alphina drehte den Kopf zurück zum Steg und ging weiter.
+»Geh zurück zu mir«, sagte sie zu Sorel. »Bleib drin.« Er nickte und hielt ihren Blick, ohne zu protestieren. Sie wandte sich zu Maren und Vesper. »Ich bin in zwei Stunden zurück. Wenn ich nicht zurück bin, holt mich.« »Wir holen dich«, sagte Maren, während Vesper den Daumen kurz an die Schläfe hob und ihn dort einen Atemzug ruhen ließ. Alphina nickte ihnen zu und ging zum Werftsteg, die Bohlen federten unter ihren Stiefeln. Auf den letzten Schritten drehte sie sich noch einmal um. Sorel und Maren standen nebeneinander an der Speichertür, sein rechtes Bein um eine Spur entlastet, der Fuß kaum auf den Planken. Maren hob die Hand an seine Schulter und ließ sie dort, die Finger über dem groben Leinen seines Hemdes ruhig. Alphina drehte den Kopf zurück zum Steg und ging weiter.
 
 ---
 
-Die Pfeil-Gasse spuckte Alphina auf das Trapezfeld, und der Purpurstein lag warm unter ihren Sohlen, wärmer als der Nebelmond es zuließ. Sie blieb am Gassenmund stehen und zählte die Stände — sieben heute, sonst fünfundzwanzig. Sie klebten an den Häuserwänden, als suchten sie Deckung. Der Tuchhändler links, ein hagerer Mann mit weißem Bart, sortierte Stoffballen hinter seiner Auslage und blickte nicht auf. Gegenüber die Töpferin, am Brunnen der Käseverkäufer, weiter hinten eine alte Frau mit Wurzelgemüse, Sellerie und Schwarzwurz in einem flachen Korb. Drei Soldaten zogen am Rand vorbei, drei weitere am gegenüberliegenden Bogen.
+Die Pfeil-Gasse spuckte Alphina auf das Trapezfeld, und der Purpurstein lag warm unter ihren Sohlen, wärmer als der Nebelmond es zuließ. Sie blieb am Gassenmund stehen und zählte die Stände: sieben heute, sonst fünfundzwanzig. Sie klebten an den Häuserwänden, als suchten sie Deckung. Der Tuchhändler links, ein hagerer Mann mit weißem Bart, sortierte Stoffballen hinter seiner Auslage und blickte nicht auf. Gegenüber die Töpferin, am Brunnen der Käseverkäufer, weiter hinten eine alte Frau mit Wurzelgemüse, Sellerie und Schwarzwurz in einem flachen Korb. Drei Soldaten zogen am Rand vorbei, drei weitere am gegenüberliegenden Bogen.
 
 Der alte Brunnen schwieg in der Mitte. Seit zwei Wochen schöpfte niemand mehr aus ihm; das Wasser blieb warm, und keine Hand traute sich in die Schale. Eine Krähe hockte auf dem Beckenrand und putzte sich, ohne Eile. Vom Rathausturm schlug die Glocke halb zwei, das Glockenrad schleifte seit dem Sturm und zog den zweiten Schlag in die Länge. Alphina sog die Luft ein, und sie kam wärmer in ihre Brust, als sie hätte kommen dürfen, eine Wärme, die sich zwischen den Rippen breit machte.
 
@@ -59,15 +59,15 @@ Runa nickte. Ihr Blick blieb einen Moment auf Alphinas Gesicht, ging dann zurüc
 
 »Zwölf Stück.« Sie schob das Tablett über den Tisch. »Sechs für Vesper, sechs für Maren.« Ihre Fingerspitze tippte auf das erste Druckmuster. Fremde Zeichen, gedrungen, mit Querstrichen, die Alphina nicht las. »Vespers Übersetzungstafel. Er braucht jeden Buchstaben einzeln, weil er noch nicht weiß, wie die Worte zusammengehen.«
 
-Sie zog das zweite Muster hervor — den Frachtbrief-Vordruck, schmale Zeilen mit Feldern für Datum und Frachtgut. »Marens Werftpapiere. Sie möchte hundert Stück bis zum Erntemond.«
+Sie zog das zweite Muster hervor, den Frachtbrief-Vordruck, schmale Zeilen mit Feldern für Datum und Frachtgut. »Marens Werftpapiere. Sie möchte hundert Stück bis zum Erntemond.«
 
 Alphina nickte zu beidem. Tarn legte die zweite Probetafel daneben.
 
-Am Rand ihres Blickfelds löste sich die Soldaten-Dreiergruppe vom Brunnen und zog Richtung Pfeil-Gasse, die Hände lose an den Säbelgriffen, die Köpfe alle in dieselbe Richtung gedreht. Eine Marktfrau drehte sich mit, ein Junge mit Korb folgte. Der Purpurstein unter den Stiefeln der Soldaten gab den dumpfen Schritt-Klang nach, den Alphina seit Wochen mit Dienstwegen verband. Sie wollte gerade auf die Probetafel zurückzeigen, als die Bewegung am anderen Ende des Marktes ihr Auge fing — aus der Sattlerstraßen-Mündung, gegen die Richtung, in die alle anderen sahen.
+Am Rand ihres Blickfelds löste sich die Soldaten-Dreiergruppe vom Brunnen und zog Richtung Pfeil-Gasse, die Hände lose an den Säbelgriffen, die Köpfe alle in dieselbe Richtung gedreht. Eine Marktfrau drehte sich mit, ein Junge mit Korb folgte. Der Purpurstein unter den Stiefeln der Soldaten gab den dumpfen Schritt-Klang nach, den Alphina seit Wochen mit Dienstwegen verband. Sie wollte gerade auf die Probetafel zurückzeigen, als die Bewegung am anderen Ende des Marktes ihr Auge fing, aus der Sattlerstraßen-Mündung, gegen die Richtung, in die alle anderen sahen.
 
 Ein Mann trat zwischen den Tuchballen hervor. Er überragte die Männer um ihn um einen Kopf, sein Kopf wirkte zu lang über dem Hemdkragen, die Schultern zu schmal für die Höhe. Sein Mantel hing grau, dunkler als jeder andere Mantel auf dem Feld, ohne sichtbare Knöpfe. Er ging ohne Eile am Brunnen vorbei, seitlich, auf den Tuchhändler-Stand am westlichen Häuserrand zu. Zehn Schritte lang reagierte niemand. Eine Frau mit einem Kind auf der Hüfte sah ihm ins Gesicht und riss das Kind an die Schulter, den Mund offen ohne Laut.
 
-Alphina sah erst einen Mann mit zu schmalen Schultern. Beim zweiten Blick fand sie sein Gesicht: schwarze Augen ohne Lid, kein Funkeln im Sonnenlicht. Auf den Handrücken, die unter dem grauen Mantel hervorhingen, lief eine Spur — violett, dünn, im Tageslicht ohne Glanz, aber sichtbar wie etwas unter der Haut. Der Wind drehte aus Westen und brachte einen süß-dichten Geruch über die Stände, der ihr in den Hals kroch.
+Alphina sah erst einen Mann mit zu schmalen Schultern. Beim zweiten Blick fand sie sein Gesicht: schwarze Augen ohne Lid, kein Funkeln im Sonnenlicht. Auf den Handrücken, die unter dem grauen Mantel hervorhingen, lief eine Spur, violett, dünn, im Tageslicht ohne Glanz, aber sichtbar wie etwas unter der Haut. Der Wind drehte aus Westen und brachte einen süß-dichten Geruch über die Stände, der ihr in den Hals kroch.
 
 *Es geht. Mitten am Tag.*
 
@@ -87,7 +87,7 @@ Das Wesen ließ ihn liegen, drehte sich, ging weiter auf die nächste Häuserwan
 
 Eine Frau aus der Menge schrie, kurz und scharf. Eine zweite Stimme, näher, rief: »Soldaten!«
 
-Alphina sah den schwarz-glasigen Hals des Tuchhändlers — und im selben Atemzug, am Rand ihres Blicks, Runas Hand am Probebrett, zwei Schritt rechts von ihr.
+Alphina sah den schwarz-glasigen Hals des Tuchhändlers, und im selben Atemzug, am Rand ihres Blicks, Runas Hand am Probebrett, zwei Schritt rechts von ihr.
 
 Das Brett war warm geworden, ohne Dampf, ohne Leuchten. Die Bleilettern in der oberen Reihe hatten ihre Kanten verloren, das M gesenkt, die Spitze einen Daumenbreit tiefer als die anderen, die Linien zerronnen wie nasse Tinte, die jemand mit dem Daumen über das Holz gezogen hatte. Unter den Lettern saß ein dunkler Fleck im Eichengrund, kein Loch, keine Flamme, eine Stelle, die wanderte, sich vorschob, das Holz von innen schwärzte. Runas Blick hing noch an der Menge, am Tuchhändler, am Schrei.
 
@@ -95,7 +95,7 @@ Alphina sah beides gleichzeitig: den schwarzen Hals dort, das verformte Blei vor
 
 *Nicht vier. Fünf.*
 
-Es kribbelte in ihren Fingerspitzen. Sie kannte das Bild aus Runas Hinterzimmer — den dunklen Fingerabdruck, eingebrannt in die Maserung der Werkbank, den sie vor Wochen gesehen und nicht angesprochen hatte. Runa hatte ihn nicht erklärt. Alphina hatte nicht gefragt. Damals hatte sie es weggelegt. Jetzt war es wieder da. Sie ließ es liegen.
+Es kribbelte in ihren Fingerspitzen. Sie kannte das Bild aus Runas Hinterzimmer, den dunklen Fingerabdruck, eingebrannt in die Maserung der Werkbank, den sie vor Wochen gesehen und nicht angesprochen hatte. Runa hatte ihn nicht erklärt. Alphina hatte nicht gefragt. Damals hatte sie es weggelegt. Jetzt war es wieder da. Sie ließ es liegen.
 
 »Runa. Deine Hände.«
 
@@ -121,7 +121,7 @@ Mit dem Handrücken schob sie das Probebrett über den Tisch in Runas Werkstattb
 
 Sie griff nach Runas Ellbogen, leicht, nur eine Hand am Stoff. »Wir gehen.« Runa zog den Werkstattbeutel an die Brust und folgte. Sie gingen die Pfeil-Gasse hinab, weg vom Auflauf hinter ihnen. Fünf Schritte, dann zehn. Die Marktstand-Reihe brach ab, die Häuser rückten näher zusammen, Putz mit Salzrändern, ein Erker, der Schatten warf. Hinter ihnen schwoll das Murren. Ein Pfiff schnitt durch, ein Soldatenpfiff, kurz. Ein zweiter folgte.
 
-Zwei Drittel die Gasse hinab öffnete sich ein Steinbogen — die Einfahrt zum Hinterhof eines Schreibers, die Tür angelehnt, ein Streifen Tinte und Pergament in der Luft. Alphina blieb stehen, zog Runa in den Bogen und ließ den Ellbogen los.
+Zwei Drittel die Gasse hinab öffnete sich ein Steinbogen, die Einfahrt zum Hinterhof eines Schreibers, die Tür angelehnt, ein Streifen Tinte und Pergament in der Luft. Alphina blieb stehen, zog Runa in den Bogen und ließ den Ellbogen los.
 
 »Geh nicht über den Markt zurück. Sattlerstraße im Bogen. Schließ die Werkstatt ab, ja? Wenn etwas warm wird, lass es los.«
 
@@ -137,13 +137,13 @@ Runa ging. An der nächsten Ecke bog sie links in die Verlängerung der Sattlers
 
 Die letzten Schritte durch die Pfeil-Gasse trug ihr eigener Schatten vor ihr her, schmal über das Pflaster, dann verlor er sich an der Schwelle, wo der Stein abbrach. Sie trat hinaus auf die Hafengasse-Treppe und ging die einundzwanzig Stufen abwärts. Sorel hatte einmal gefragt, wie viele es seien, und sie hatte gezählt, vor zwei Monaten.
 
-Unten griff sie in den Beutel nach dem Hausschlüssel, und der Beutelmund öffnete sich weiter, als sie wollte. Die Letter rollte heraus, kippte über den Stoffrand — sie fing sie auf, zwischen Zeigefinger und Daumen. Ein „A", klein, der untere Schenkel angesengt, ein dunkler Brandfleck am Bleifuß. Ihr Mundwinkel zuckte, ein Schmunzeln, ehe sie es aufhalten konnte. Sie behielt die Letter in der Hand, weil sie warm war, wärmer als das Pflaster, das die Sonne den ganzen Vormittag genommen hatte.
+Unten griff sie in den Beutel nach dem Hausschlüssel, und der Beutelmund öffnete sich weiter, als sie wollte. Die Letter rollte heraus, kippte über den Stoffrand. Sie fing sie auf, zwischen Zeigefinger und Daumen. Ein „A", klein, der untere Schenkel angesengt, ein dunkler Brandfleck am Bleifuß. Ihr Mundwinkel zuckte, ein Schmunzeln, ehe sie es aufhalten konnte. Sie behielt die Letter in der Hand, weil sie warm war, wärmer als das Pflaster, das die Sonne den ganzen Vormittag genommen hatte.
 
 Vor der Haustür blieb sie stehen. Das Herz unter dem Schlüsselbein meldete sich, ein leichter Schlag, einmal. Hinter der Stirn der dumpfe Druck, der vom Marktplatz mitgekommen und nicht gewichen war.
 
 Über die Gasse herüber kam Marens Werfthammer. Drei Schläge, Pause, drei Schläge. Sie hörte zu, einen Atemzug lang. Schloss die Augen, einmal. Sie atmete aus und öffnete sie wieder.
 
-Der Schlüssel lief im Schloss. Im Treppenhaus, auf dem Weg nach oben, hörte sie Sorel — das Knacken des Fensterriegels, eine Bewegung über ihr. Auf der vorletzten Stufe schob sie die Letter in die Manteltasche, tief, bis ihre Fingerkuppe den Stoffboden fand.
+Der Schlüssel lief im Schloss. Im Treppenhaus, auf dem Weg nach oben, hörte sie Sorel: das Knacken des Fensterriegels, eine Bewegung über ihr. Auf der vorletzten Stufe schob sie die Letter in die Manteltasche, tief, bis ihre Fingerkuppe den Stoffboden fand.
 
 Die Wohnungstür schwang nach innen, leiser als sonst, weil sie die Klinke hielt, bis das Schloss klickte. Warme Luft schlug ihr entgegen, Tee, Holzrauch, der trockene Staub von Sorels Mappen.
 
