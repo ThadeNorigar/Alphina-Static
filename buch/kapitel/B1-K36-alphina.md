@@ -112,13 +112,13 @@ Außen wucherte das Blattwerk bis an die Steine, innen blieb der Boden warm und 
 
 Erst eine Weile später war es Alphina, die den Kuss löste. Sorels Mund wich ihrem nach, ruhig und ohne den Versuch, sie festzuhalten. Ihre Finger glitten langsam aus dem Stoff seines Mantels, Falte um Falte, bis nur noch die Wärme seiner Nähe blieb. Sie trat einen einzelnen Schritt zurück, klein genug, dass seine Hand ihren Arm noch hätte erreichen können, weit genug, dass ihr Blick über seine Schulter hinaus den Garten erfasste.
 
-Am Rand der Mauern standen die Wesen. Es waren hunderte. Sie füllten den Garten von einem Ende zum anderen, dicht gedrängt zwischen den Linden, entlang der Mauerkronen und bis zum Eingangstor. Alphinas Blick glitt langsam an den Reihen entlang und fand keinen Abschluss, nur weitere Körper im bleichen Sternlicht.
+Am Rand der Mauern standen die Wesen. Es waren Dutzende. Sie standen verteilt entlang der Mauern und zwischen den Linden, einzelne Gestalten weiter hinten bis zum Eingangstor. Alphinas Blick glitt langsam an ihnen entlang, von einer Form zur nächsten, und fand zwischen den Stämmen immer wieder neue Körper im bleichen Sternlicht.
 
 Die kleineren sah sie zuerst, niedrige, gedrungene Gestalten, vierbeinig, kaum kniehoch, deren dunkle Flanken stumpf metallisch schimmerten, als hätte Oxid sich über ihre Oberfläche gelegt. Zwischen ihnen erhoben sich größere Formen, aufrecht und schmal, mit langen Armen, die reglos an ihren Seiten hingen. Keine Gesichter, die sie hätte benennen können. Manche Flächen verschluckten das Licht vollständig, andere warfen es kalt zurück. Nichts an ihnen bewegte sich, keine Gewichtsverlagerung, kein Atem, nicht einmal ein Zittern.
 
 Die vordersten Reihen standen dicht an der Gartenmauer, und doch überschritt keines der Wesen die Grenze zum Kreis. Erst jetzt sah Alphina das Licht der Purpursteine wirklich, einen feinen Schein um den Kreis, dünn und gleichmäßig, kaum heller als das Sternlicht selbst, und dennoch zog er die Grenze scharf durch die Dunkelheit. Das Leuchten blendete nicht; es hielt nur den Blick fest und machte sichtbar, wo der Kreis begann und wo er endete.
 
-Dort hielten die Wesen inne. Hunderte schwarze Augen richteten sich auf die Mitte des Kreises, lidlos und unbeweglich, und keines davon blinzelte. Der Schein der Steine hielt sie auf Abstand.
+Dort hielten die Wesen inne. Dutzende schwarze Augen richteten sich auf die Mitte des Kreises, lidlos und unbeweglich, und keines davon blinzelte. Der Schein der Steine hielt sie auf Abstand.
 
 Neben ihr blieb Sorel still. Der Kies lag reglos, und kein Laut ging durch den Garten. Alphina ließ den Blick bis zur äußersten Reihe wandern, dorthin, wo die Gestalten dicht zwischen den Linden standen, und keine von ihnen kam näher.
 
@@ -164,4 +164,4 @@ Alphina trat ein wenig zur Seite, damit Vesper Platz hatte, und Sorel bewegte si
 
 Sorels Hand fand noch einmal ihre. Seine Finger schlossen sich ruhig um ihre Hand, warm und vertraut nach der feuchten Kälte der Nacht. Alphina ließ die Berührung einen Moment bestehen, spürte das Gewicht seiner Hand und das langsame Pulsen des Bodens unter ihren Füßen. Dann löste sie ihre Finger wieder aus seinen, weil der Kreis eng war und weil sie beide die Hände frei brauchten.
 
-Die Sterne brannten klar über den Linden. Die Wärme der Erde stieg weiterhin durch ihre Sohlen, tief und träge. Rings um die Mauern hielten die Wesen unbewegt im Sternlicht, hunderte schwarze Augen auf den Kreis gerichtet, und keines davon blinzelte.
+Die Sterne brannten klar über den Linden. Die Wärme der Erde stieg weiterhin durch ihre Sohlen, tief und träge. Rings um die Mauern hielten die Wesen unbewegt im Sternlicht, dutzende schwarze Augen auf den Kreis gerichtet, und keines davon blinzelte.

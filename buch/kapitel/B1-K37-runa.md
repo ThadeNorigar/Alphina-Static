@@ -72,7 +72,7 @@ Die Geräusche der Straße lagen noch hinter der Mauer, aber dumpfer jetzt, als 
 
 Sie ging ohne Licht weiter.
 
-Das Lindengebüsch fand sie nach wenigen Schritten. Die Stämme standen dicht beieinander, alt genug, dass die Rinde sich tief geöffnet hatte; unter ihren Fingerspitzen fühlte sie die feuchten Risse im Holz, kühl und weich vom Regen der vergangenen Wochen. Als sie sich zwischen die Stämme duckte, gab der Boden unter ihrem Gewicht leicht nach. Erde drückte durch die Sohlen ihrer Stiefel, und der Geruch von welkem Laub stieg schwer und dunkel auf.
+Die alten Linden am West-Rand fand sie nach wenigen Schritten. Die Stämme standen dicht beieinander, alt genug, dass die Rinde sich tief geöffnet hatte; unter ihren Fingerspitzen fühlte sie die feuchten Risse im Holz, kühl und weich vom Regen der vergangenen Wochen. Als sie sich zwischen die Stämme duckte, gab der Boden unter ihrem Gewicht leicht nach. Erde drückte durch die Sohlen ihrer Stiefel, und der Geruch von welkem Laub und feuchten Farnen stieg schwer und dunkel auf.
 
 Vor ihr lag der Steinkreis.
 
