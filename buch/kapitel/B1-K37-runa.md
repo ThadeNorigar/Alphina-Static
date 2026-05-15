@@ -85,3 +85,91 @@ Ihre Finger waren warm. Sie spürte es selbst dort, wo die Abendkälte bereits d
 Der Garten lag reglos vor ihr.
 
 Und sie wartete.
+
+Kies knarzte irgendwo jenseits der Bäume.
+
+Runa hob den Kopf nicht sofort. Das Geräusch kam unregelmäßig näher, zwei Personen mindestens, und eine davon setzte den linken Fuß schwerer auf als den rechten, als läge Gewicht auf einer Seite des Körpers oder eine alte Verletzung in der Hüfte. Sie blieb reglos zwischen den Lindenstämmen hocken, den Rücken gegen die rissige Rinde gelehnt, und lauschte, bis die Schritte die Biegung zum offenen Teil des Gartens nahmen und die Gestalten zwischen den dunklen Stämmen sichtbar wurden.
+
+Alphina zuerst.
+
+Der Mantelkragen stand hoch gegen ihren Hals gezogen, und selbst im schwachen Restlicht erkannte Runa die Art, wie sie ging: nicht vorsichtig, nicht wachsam, sondern mit diesem vollständigen Auftreten der Schritte, als vertraute sie dem Boden unter sich ohne Einschränkung. Hinter ihr kam Sorel, einen halben Schritt versetzt, die Hände offen neben dem Körper, die Finger locker gekrümmt. Er hielt den Kopf leicht nach vorn geneigt, als hörte er auf etwas, das nur knapp außerhalb des Sichtbaren lag.
+
+Runa kannte beide seit dem Frühjahr.
+
+Nicht gut. Niemand kannte Alphina gut, soweit Runa wusste. Aber sie kannte ihre Bewegungen aus der Druckerei, aus den langen Nachmittagen zwischen Setztisch und Kundenschalter, aus den kleinen Verrichtungen eines Arbeitstags, wenn jemand Papier trug, Bleikästen wechselte oder im Durchzug zwischen Vorderraum und Presse stehen blieb, um einen Satz zu Ende zu sprechen. Dort bewegten sie sich anders als hier. Begrenzter. Als hielte die Stadt selbst die Schultern enger zusammen.
+
+Im Garten fiel diese Spannung von ihnen ab, ohne dass einer von beiden langsamer geworden wäre.
+
+Alphina trat in den Steinkreis, und als sie den Kopf drehte, sah Runa für einen kurzen Augenblick die schmale Stelle Haut zwischen Haaransatz und Mantelkragen.
+
+Nur einen Atemzug lang.
+
+Kühle Luft. Dunkles Haar. Dieses kleine Stück heller Haut.
+
+Die Erinnerung kam körperlich zuerst, vor jedem Bild. Mantelwolle gegen ihre Wange, kühle Luft, Alphinas Hals unter ihrer Stirn, beim Abschied damals am Setzkasten im Blütenmond, als Runa sie zum zweiten Mal umarmt hatte, kürzer als die erste, fester, die Hände flach an Alphinas Rücken über dem Mantelstoff. Ihre Hände waren danach noch lange warm geblieben, als hätte sie sie zu nah an den Ofen gehalten.
+
+Jetzt kam dieselbe Wärme wieder, ruhig und unvermittelt, erst in die Innenflächen ihrer Hände, dann tiefer in die Brust.
+
+Sie ließ sie kommen.
+
+Und ließ sie weiterziehen.
+
+Im Steinkreis blieb Sorel stehen.
+
+Er hob langsam die Hand zwischen ihnen, die Handfläche nach oben geöffnet, eine kleine ruhige Bewegung, die im letzten Licht klar zu erkennen war. Runa hörte keine Worte. Vielleicht sagte er etwas. Vielleicht nicht. Es spielte keine Rolle. Alphina sah ihn einen Augenblick an, legte ihre Hand in seine und zog ihn näher zu sich.
+
+Dann küssten sie sich.
+
+Nicht hastig. Nicht verborgen.
+
+Runa bemerkte zuerst die Veränderung im Boden.
+
+Am äußeren Rand des Steinkreises brach der Kies auf, kaum hörbar, und zwischen den hellen Steinen schoben sich Farntriebe nach oben, zuerst einzelne eingerollte Spitzen, schraubenartig und dunkel vor Feuchtigkeit, dann mehrere gleichzeitig. Die Bewegung lief nicht explosionsartig durch den Kreis, sondern gleichmäßig, beinahe ruhig, als hätte etwas unter der Erde lange genug gewartet und müsse jetzt nur noch der Richtung folgen.
+
+Farne entrollten sich zwischen den Steinen, drängten über den Kiesweg hinaus und weiter in die feuchte Erde des Gartens hinein.
+
+Runa spürte die Regung unter ihren Stiefeln, bevor sie sie sah. Kein Zittern, kein eigentliches Beben, eher dieses weiche Nachgeben, das man manchmal unter Wasser empfand, wenn Strömung gegen den Körper arbeitete. Zwischen den Lindenwurzeln schossen Triebe aus dem Boden. Ein Farnwedel entrollte sich direkt neben ihrem Knie, glitt am Saum ihres Mantels entlang und strich über ihren Unterschenkel.
+
+Sie streckte unwillkürlich die Hand aus.
+
+Der junge Wedel öffnete sich unter ihren Fingern weiter.
+
+Warm.
+
+Nicht wie Haut. Nicht wie die Wärme eines eigenen Körpers oder die Restwärme der Erde nach einem heißen Tag. Etwas anderes. Eine Wärme, die Antwort in sich trug. Wie eine Hand, die lange in einer anderen gelegen hatte.
+
+Runa hielt den Atem flacher.
+
+Im Hinterzimmer der Druckerei, im Blütenmond. Der Brandfleck im Eichenholz neben der kleinen Presse. Vierter Eintrag in ihrer Liste. Kein sichtbarer Funke. Keine Kerze in Reichweite. Sie hatte damals nach einer mechanischen Ursache gesucht, hatte die Tischkante untersucht, die Lampe, selbst den Ofenstein neben der Wand. Später hatte sie versucht, die Erklärung im Körper zu finden, in Erschöpfung vielleicht oder Fieber, und nichts gefunden außer ihren eigenen Händen, die danach warm gewesen waren wie immer.
+
+Sie hatte den Eintrag zu den anderen gelegt, sauber zwischen zwei Beobachtungen, wie eine Letter im falschen Fach.
+
+Jetzt sah sie Alphina im Steinkreis, Sorels Hand an ihrem Hals, die Farne, die aus dem Kies brachen und bis in den Schatten der Linden liefen, bis in ihre eigene Hand hinein.
+
+Keine Theorie schloss sich.
+
+Etwas anderes. Etwas, das seinen Platz fand.
+
+Was aus einem Körper trat, weil der Körper es nicht halten konnte.
+
+Alphina trug das in sich.
+
+Und sie selbst hatte damals im Hinterzimmer etwas davon getragen, allein zwischen Presse und Trockenraum, ohne zu verstehen, was überhaupt aus ihr herausgetreten war.
+
+Dieselbe Mechanik. Nur eine andere Form.
+
+Der Farnwedel schob sich weiter über ihre Knöchel. Runa ließ die Hand daran liegen. Drüben im Kreis standen Alphina und Sorel noch immer dicht beieinander, die Stirnen fast aneinandergelehnt, und rings um sie wuchsen die Farne ruhig und ununterbrochen weiter, als sei das nichts Außergewöhnliches, sondern lediglich eine Eigenschaft der Nacht.
+
+Bis hierher hatten die Schatten zwischen den westlichen Bäumen reglos gelegen.
+
+Dann bemerkte sie im Augenwinkel eine Bewegung.
+
+Nicht das Zittern eines Zweigs im Wind. Nicht Farnwerk oder ein Tier im Unterholz.
+
+Etwas Größeres.
+
+Zwischen zwei dunklen Stämmen löste sich für einen Augenblick eine Gestalt aus der Schwärze, still genug, dass ihr Blick sie beinahe verfehlte. Nur eine Verlagerung von Gewicht vielleicht, ein matter Reflex auf feuchtem Stoff, und dennoch sofort erkennbar als etwas Menschliches.
+
+Runa nahm die Hand langsam vom Farnwedel.
+
+Im Steinkreis hatten Alphina und Sorel noch nichts bemerkt.
