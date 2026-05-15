@@ -216,38 +216,118 @@ Alphina und Sorel am südlichen Stein, noch immer Schulter an Schulter. Vesper u
 
 Das kniehohe Wesen neben Runa sah nicht mehr sie an. Es sah in den Kreis.
 
-Dann veränderte sich etwas in der Luft, so wenig, dass sie nicht hätte sagen können, ob es Temperatur war oder Druck oder der Geruch des Laubs, der anders wurde, der Garten, der die Luft einzog.
+Das kniehohe Wesen neben Runa hatte aufgehört, sie anzusehen.
 
-Die Luft im Steinkreis verdichtete sich nicht langsam, sondern in einem Ruck, als wäre etwas zusammengedrückt worden, das keine Form hatte.
+Sein schmaler Kopf war jetzt dem Steinkreis zugewandt, und obwohl es reglos zwischen den Lindenwurzeln saß, ging eine Aufmerksamkeit von ihm aus, die den Raum veränderte, dieselbe gespannte Wachheit, die manchmal unmittelbar vor einem Sommergewitter in der Luft lag, wenn selbst die Blätter still wurden.
 
-Runa sah die Farne aufschießen. Die, die schon über ihre Knöchel gereicht hatten, trieben jetzt hüfthoch, neue Triebe fuhren zwischen den äußeren Steinen aus dem Boden, Spannen-hoch und dicht, und die Luft schmeckte nach feuchter Erde und etwas anderem darunter, das sie nicht benennen konnte. Gleichzeitig stieg der Nebel. Aus dem ganzen Boden zwischen den Steinen auf einmal, zu schnell und zu dicht für diesen Garten, für diese Nacht, für jede Nacht, die Runa kannte. Er stieg hüfthoch, dann schulterbreit um jeden der vier, und in ihm war Sorels Licht zu sehen, schmal und scharf an den Rändern, aus seinen Handflächen, goldgelb und kalt zugleich, und weil der Nebel ihn aufnahm, diffundierte er von innen heraus und machte die ganze Wolke zu etwas Leuchtendem, das keine Lampe je gemacht hätte.
+Runa folgte seinem Blick nicht sofort. Etwas im Garten hatte sich bereits verschoben, kaum merklich zuerst, so gering, dass sie nicht hätte sagen können, woran ihr Körper die Veränderung erkannte. Vielleicht war es der Geruch der Erde, der tiefer geworden war, schwerer und feuchter zugleich, oder die Art, wie die Nachtluft plötzlich dichter zwischen den Bäumen hing, als hätte der Garten selbst begonnen zu atmen und hielte nun den Atem an.
 
-Ihr Atem rutschte.
+Dann geschah es auf einmal.
 
-Zu kurz. Sie holte Luft, bevor sie die vorherige zu Ende geatmet hatte, dann zu lang, zu viel Pause danach. Nichts im Garten hatte sich verändert, die Steine standen, die Wesen hielten die Lichtgrenze, das kniehohe Wesen neben ihr blieb reglos. Aber ihr Brustkorb folgte einem Rhythmus, der nicht ihrem gehörte.
+Die Luft im Steinkreis verdichtete sich nicht langsam, nicht wie Nebel, der vom Boden steigt, sondern in einem einzigen lautlosen Ruck, als wäre etwas Unsichtbares zusammengezogen worden, etwas ohne Form und dennoch schwer genug, dass die Farne ringsum darauf antworteten. Die Wedel, die eben noch über Runas Knöchel gestrichen hatten, schossen höher, entrollten sich in langen feuchten Bewegungen bis gegen ihre Knie und weiter darüber hinaus, während neue Triebe zwischen den äußeren Steinen hervorbrachen, dunkelgrün und glänzend vor Nässe, dicht genug, dass der Kies darunter verschwand.
 
-Dann brach die Luft auf.
+Der Geruch von Erde schwoll an, warm und schwarz und lebendig.
 
-Nicht die Erde, nicht der Stein, sondern die Luft selbst, im Zentrum des Kreises, auf Höhe ihrer Knie, und von da aufwärts, bis auf Schulterhöhe, ein Riss in dem, was bisher Raum gewesen war. Er hatte keine Farbe und keine Kanten, nicht so wie ein Riß in Papier Kanten hat, und doch sah sie ihn scharf: die Wunde in der Luft, das Aufplatzen der Grenze zwischen hier und einem Dahinter. Was dahinter lag, hatte Boden. Halme, fremdartig, trocken wirkend, flach im Licht von zwei Monden, die beide klein und hoch hingen, zu weit voneinander und zur selben Zeit im Blickfeld.
+Darunter lag etwas anderes.
+
+Etwas Fremdes.
+
+Nicht faulig, nicht süß, sondern scharf auf eine Weise, die sie an aufgeschnittene Pflanzenstängel erinnerte oder an Luft kurz vor einem Gewitter, wenn Metall plötzlich Geschmack bekam.
+
+Im selben Augenblick begann Nebel zwischen den Steinen aufzusteigen.
+
+Nicht kriechend, nicht langsam. Er drängte aus dem Boden hervor, als hätte man unter dem Garten eine verborgene Quelle geöffnet, und innerhalb weniger Atemzüge stand er hüfthoch im Kreis, glitt um die Beine der vier Gestalten und stieg weiter empor, bis ihre Körper nur noch als dunklere Formen im Licht zu erkennen waren.
+
+Dann sah sie Sorels Hände.
+
+Das Licht kam zuerst schmal zwischen seinen Fingern hervor, goldgelb und gleichzeitig seltsam farblos, als gehöre es nicht vollständig in diese Nacht. Der Nebel nahm es sofort auf. Er verschluckte das Licht nicht, sondern trug es in sich weiter, bis die ganze Wolke von innen heraus zu leuchten begann, weich an den Rändern und dennoch scharf genug, dass Runa jede Bewegung darin erkennen konnte.
+
+Kein Lampenlicht hätte so ausgesehen.
+
+Kein Feuer.
+
+Ihr eigener Atem geriet aus dem Takt, noch bevor sie begriff, warum.
+
+Sie zog Luft ein, zu früh, bevor die vorige ganz aus ihrer Brust gewichen war, und danach blieb ihr Körper einen Herzschlag lang still, als lauschte etwas in ihr auf denselben Rhythmus wie der Garten. Die Linden standen reglos. Die dunklen Wesen zwischen den Bäumen bewegten sich nicht. Selbst das kniehohe Geschöpf neben ihr blieb vollkommen still.
+
+Und dennoch fühlte sich die Luft plötzlich an, als folgte sie einem anderen Gesetz.
+
+Im Zentrum des Kreises brach der Raum auf.
+
+Nicht die Erde darunter.
+
+Nicht der Stein.
+
+Die Luft selbst.
+
+Der Riss begann etwa auf Höhe ihrer Knie und zog sich lautlos nach oben, bis über Schulterhöhe hinaus, und obwohl er keine klaren Kanten besaß, keine Farbe, keinen sichtbaren Rand wie ein Schnitt in Stoff oder Papier, sah Runa ihn deutlicher als alles andere im Garten. Die Wirklichkeit hatte sich dort geöffnet wie eine Wunde.
+
+Dahinter lag Landschaft.
+
+Keine Spiegelung. Kein Bild im Nebel.
+
+Wirklicher Boden.
+
+Halme bewegten sich dort in einem Wind, den sie nicht spüren konnte, flach und silbrig im Licht zweier Monde, die beide klein und hoch am Himmel standen, weit voneinander entfernt und dennoch gleichzeitig sichtbar. Das Licht war blasser als das ihres eigenen Himmels und ließ die fremde Ebene aussehen, als läge feiner Staub über allem.
+
+Runa merkte erst jetzt, dass ihre Finger sich in den Stoff ihres Mantels gekrallt hatten.
 
 Vesper ging zuerst.
 
-Gleichmäßiger Schritt, als trete er durch eine offene Tür. Keine Hast, kein Innehalten. Er verschwand, und Runa ließ den Atem raus, ohne es zu merken. Sorel ging als zweiter, einen halben Schritt vor Alphina, der Körper quer gestellt für einen Moment, als wollte er sich zwischen sie und das stellen, was kommen mochte. Dann Maren mit dem Hammer lose in der Hand, den Sack weggelegt, den Hammer selbst gehalten. Dann Alphina.
+Er trat vor mit derselben ruhigen Selbstverständlichkeit, mit der andere Menschen eine Türschwelle überschritten hätten, ohne Hast, ohne sichtbare Anspannung, und der Nebel schloss sich für einen Augenblick um seinen Körper, bevor er jenseits des Risses verschwand.
 
-Der Riss blieb offen. Er zuckte an den Rändern.
+Erst da ließ Runa den Atem aus.
 
-Runa wartete. Eine Minute, vielleicht weniger. Das kniehohe Wesen neben ihr saß, sah sie nicht an, sah in den Kreis. Die Ränder des Risses wurden schmaler. Langsam, aber sichtbar, die Wunde zog sich zusammen, das Licht der fremden Monde verengte sich, der Spalt enger, enger, und Runa wusste, was das bedeutete. Ihr Körper hatte es entschieden, bevor der Kopf folgte.
+Sorel folgte unmittelbar danach, aber kurz bevor er die Grenze erreichte, stellte er sich für einen Moment quer vor Alphina, kaum mehr als eine kleine Bewegung seines Körpers, instinktiv und dennoch eindeutig, als wolle er etwas zwischen ihr und dem Dahinter abfangen, sollte dort etwas warten. Alphina berührte dabei kurz seinen Rücken, nur mit den Fingerspitzen, eine kleine Geste, die im Nebel beinahe verschwand und Runa dennoch deutlicher traf als das Licht oder der aufbrechende Raum selbst.
+
+Dann gingen sie hindurch.
+
+Maren kam als Nächste. Den Sack hatte sie zurückgelassen; den Hammer hielt sie jetzt direkt in der Hand, locker genug, dass die Bewegung beiläufig wirkte, aber ihre Schultern standen hoch unter dem Mantel, und ihr Blick blieb auf die Öffnung gerichtet, bis sie verschwand.
+
+Alphina zuletzt.
+
+Für einen einzigen Augenblick blieb ihre Gestalt im Licht des Risses stehen, die Konturen ihres Gesichts weich im Nebel, die Hand noch halb nach hinten geöffnet, als hätte sie etwas zurückgelassen oder etwas fast berührt.
+
+Dann war auch sie fort.
+
+Der Riss blieb offen.
+
+Seine Ränder zuckten unregelmäßig, wie etwas Lebendiges.
+
+Runa wartete zwischen den Lindenstämmen, ohne zu wissen, worauf eigentlich. Vielleicht verging nur eine halbe Minute. Vielleicht länger. Das kniehohe Wesen neben ihr rührte sich nicht. Es sah weiterhin in den Kreis, aufmerksam und vollkommen ruhig, während die Öffnung langsam kleiner wurde.
+
+Nicht schnell.
+
+Aber sichtbar.
+
+Die beiden Monde rückten enger zusammen. Die Halme dahinter verschwammen. Der Riss zog sich zusammen wie eine heilende Wunde, und noch bevor der Gedanke sich vollständig in ihr formte, hatte ihr Körper längst entschieden.
 
 Sie stand auf.
 
-Die Laterne stand neben dem Lindenstamm, ungezündet. Sie ließ sie stehen.
+Die ungezündete Laterne blieb neben dem Stamm zurück.
 
-Das kniehohe Wesen rührte sich nicht. Runa lief.
+Das kleine Wesen bewegte sich nicht, als sie an ihm vorbeiging.
 
-Durch die wachsenden Farne, die jetzt hüfthoch waren und ihr die Schenkel streiften, durch den Nebel, der kalt gegen ihr Gesicht schlug, zwischen zwei Wesen am Garten-Rand hindurch, die standen und nicht auswichen, aber auch nicht im Weg standen, als hätten sie gewusst, wo sie vorbeikommen würde. Die Wärme zwischen Daumen und Zeigefinger zog kurz, ohne dass sie etwas wollte. Der Riss kam näher, zwei Schritte, einen Schritt, die Ränder zitterten und verengten sich, das Licht der anderen Seite wurde ein schmaler Strich.
+Runa lief.
 
-Sie sprang.
+Die Farne reichten ihr inzwischen bis gegen die Schenkel und strichen feucht über den Stoff ihres Mantels. Nebel schlug ihr kühl gegen das Gesicht und sammelte sich in ihren Haaren, während sie durch den Kreis lief, zwischen zwei der dunklen Gestalten hindurch, die am Rand des Gartens standen wie Wächter aus Holz und Schatten. Keine von ihnen wich ihr aus. Keine stellte sich ihr in den Weg.
 
-Nicht mit Anlauf, nicht berechnet, nur mit dem Körpergewicht nach vorne geworfen, die Beine beisammen, der Kopf unten, durch den Spalt, durch die Wunde in der Luft, durch das, was keinen Namen hatte, den sie kannte.
+Zwischen Daumen und Zeigefinger zog die alte Wärme schmerzhaft an.
 
-Der Geruch änderte sich. Trockenere Erde. Halme. Zwei Monde.
+Der Riss lag direkt vor ihr.
+
+Seine Ränder zitterten jetzt sichtbar. Das Licht dahinter war schmal geworden, nur noch ein heller Schnitt in der Dunkelheit.
+
+Noch zwei Schritte.
+
+Einer.
+
+Dann warf sie ihr Gewicht nach vorne und sprang, nicht geplant, nicht vorsichtig, sondern mit der blinden Gewissheit des Körpers, der bereits entschieden hatte, bevor der Verstand folgen konnte, und für einen einzigen lautlosen Augenblick ging sie durch die offene Wunde im Raum, durch kalten Nebel und Licht, das nicht von dieser Welt war.
+
+Der Geruch veränderte sich sofort.
+
+Trockenere Erde.
+
+Zerdrückte Halme.
+
+Und über ihr zwei Monde.
