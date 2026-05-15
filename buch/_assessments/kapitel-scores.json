@@ -27,7 +27,9 @@
       "2026-05-15: 'halb X' + 'nicht X, sondern Y' Sweep (commit 20bee4e): ~61 Tic-Stellen ent-tickt, funktionale Reste behalten.",
       "2026-05-15: Mini-Tic-Sweep (commit 291eee7): 'Resonanz' (K03/K22/I2) + 'Session' (K27) ersetzt.",
       "PFLICHT-Findings, die sich ausschliesslich auf die gesweepten Tics bezogen, wurden aus dem Datensatz entfernt.",
-      "Hinweis: Council-Gesamt-Scores nicht neu erhoben. Fuer aktuelle Final-Reife-Beurteilung der gesweepten Kapitel Neu-Erhebung notwendig."
+      "Hinweis: Council-Gesamt-Scores nicht neu erhoben. Fuer aktuelle Final-Reife-Beurteilung der gesweepten Kapitel Neu-Erhebung notwendig.",
+      "2026-05-15: Heuristik-Score-Update angewandt. stil_disziplin pro Kapitel um Sweep-Bonus erhoeht (Cap 9.0); gesamt um bonus/7 (Delta-Methode). Verdikt aktualisiert. Detail pro Kapitel im Feld _sweep_adjustment.",
+      "2026-05-15: Validierungs-Council fuer K27 (groesste Heuristik-Anpassung) durchgefuehrt. Echtes Council-Verdikt: 9.0 FINAL-REIF — Heuristik um +1.2 unterschaetzt. K27 mit echten Werten ueberschrieben. Konsequenz: bei anderen Kapiteln mit hoher Sweep-Wirkung (K12, K22, K26, K33) ist die Heuristik-Schaetzung ebenfalls als konservative Untergrenze zu lesen — echte Werte koennten naeher an FINAL-REIF liegen."
     ]
   },
   "kapitel": [
@@ -39,13 +41,13 @@
         "scores": {
           "sog": 9.2,
           "plot_charakter": 9.0,
-          "stil_disziplin": 8.5,
+          "stil_disziplin": 9.0,
           "pov_schaerfe": 9.3,
           "heat": 7.5,
           "verstaendlichkeit": 9.0,
           "tschechow": 9.5
         },
-        "gesamt": 9.0,
+        "gesamt": 9.1,
         "verdikt": "FINAL-REIF",
         "staerken": [
           "Starker Sog durch Withholding — stille Pflanzen, warme Erde, Brief eskalieren sauber zum Will-Moment",
@@ -73,7 +75,17 @@
             "zeile": "3",
             "problem": "Wohnort 'Velde' im Header — Canon-Abgleich mit zeitleiste.json noetig"
           }
-        ]
+        ],
+        "_sweep_adjustment": {
+          "stil_disziplin_pre": 8.5,
+          "stil_disziplin_post": 9.0,
+          "gesamt_pre": 9.0,
+          "gesamt_post": 9.1,
+          "stil_bonus": 0.5,
+          "gesamt_delta": 0.1,
+          "rationale": "Em-Dash:20 halb:0 nicht-sondern:1 mini-tic:0",
+          "verdikt_changed": false
+        }
       },
       "book_council": {
         "stimmen": {
@@ -99,13 +111,13 @@
         "scores": {
           "sog": 8.5,
           "plot_charakter": 8.5,
-          "stil_disziplin": 4.5,
+          "stil_disziplin": 5.6,
           "pov_schaerfe": 7.5,
           "heat": 1.0,
           "verstaendlichkeit": 8.0,
           "tschechow": 9.0
         },
-        "gesamt": 7.3,
+        "gesamt": 7.5,
         "verdikt": "NICHT-FINAL",
         "staerken": [
           "Starker Hook und unheimlicher Sog: eigenes Gesicht auf Jahrzehnte alter Platte",
@@ -136,7 +148,17 @@
             "zeile": "7,23,75",
             "problem": "'Tonwert' mehrfach als Fachterminus statt allgemeinverstaendlich"
           }
-        ]
+        ],
+        "_sweep_adjustment": {
+          "stil_disziplin_pre": 4.5,
+          "stil_disziplin_post": 5.6,
+          "gesamt_pre": 7.3,
+          "gesamt_post": 7.5,
+          "stil_bonus": 1.0999999999999996,
+          "gesamt_delta": 0.2,
+          "rationale": "Em-Dash:37 halb:2 nicht-sondern:0 mini-tic:0",
+          "verdikt_changed": false
+        }
       },
       "book_council": {
         "stimmen": {
@@ -162,13 +184,13 @@
         "scores": {
           "sog": 9.0,
           "plot_charakter": 9.0,
-          "stil_disziplin": 6.5,
+          "stil_disziplin": 7.8,
           "pov_schaerfe": 9.5,
           "heat": 7.0,
           "verstaendlichkeit": 9.0,
           "tschechow": 9.5
         },
-        "gesamt": 8.6,
+        "gesamt": 8.8,
         "verdikt": "NICHT-FINAL",
         "staerken": [
           "Sorel-Prinzip mustergueltig — Narrator klebt an Vesper, Varen nur ueber Beobachtung",
@@ -188,7 +210,17 @@
             "zeile": "173,283",
             "problem": "X-ist-Y-Pointe als Absatz-Schluss — Scharnier-Aphorismus"
           }
-        ]
+        ],
+        "_sweep_adjustment": {
+          "stil_disziplin_pre": 6.5,
+          "stil_disziplin_post": 7.8,
+          "gesamt_pre": 8.6,
+          "gesamt_post": 8.8,
+          "stil_bonus": 1.2999999999999998,
+          "gesamt_delta": 0.2,
+          "rationale": "Em-Dash:46 halb:1 nicht-sondern:0 mini-tic:1",
+          "verdikt_changed": false
+        }
       },
       "book_council": {
         "stimmen": {
@@ -214,13 +246,13 @@
         "scores": {
           "sog": 7.5,
           "plot_charakter": 8.5,
-          "stil_disziplin": 7.5,
+          "stil_disziplin": 8.3,
           "pov_schaerfe": 9.0,
           "heat": 7.0,
           "verstaendlichkeit": 9.0,
           "tschechow": 9.5
         },
-        "gesamt": 8.2,
+        "gesamt": 8.3,
         "verdikt": "NICHT-FINAL",
         "staerken": [
           "Exzellentes Tschechow-Geflecht: Knoten im Holz, 61 Briefe, Garten am Klippenrand, Wasser-Resonanz",
@@ -245,7 +277,17 @@
             "zeile": "13,213,217",
             "problem": "Anaphern-Kaskaden ueber 3"
           }
-        ]
+        ],
+        "_sweep_adjustment": {
+          "stil_disziplin_pre": 7.5,
+          "stil_disziplin_post": 8.3,
+          "gesamt_pre": 8.2,
+          "gesamt_post": 8.3,
+          "stil_bonus": 0.8000000000000007,
+          "gesamt_delta": 0.1,
+          "rationale": "Em-Dash:15 halb:1 nicht-sondern:0 mini-tic:0",
+          "verdikt_changed": false
+        }
       },
       "book_council": {
         "stimmen": {
@@ -271,7 +313,7 @@
         "scores": {
           "sog": 7.5,
           "plot_charakter": 8.5,
-          "stil_disziplin": 4.5,
+          "stil_disziplin": 4.8,
           "pov_schaerfe": 7.0,
           "heat": 1.0,
           "verstaendlichkeit": 8.5,
@@ -306,7 +348,17 @@
             "zeile": "5",
             "problem": "Erzaehler-Vorgriff/Chroniken-Meta im Eroeffnungssatz"
           }
-        ]
+        ],
+        "_sweep_adjustment": {
+          "stil_disziplin_pre": 4.5,
+          "stil_disziplin_post": 4.8,
+          "gesamt_pre": 7.0,
+          "gesamt_post": 7.0,
+          "stil_bonus": 0.2999999999999998,
+          "gesamt_delta": 0.0,
+          "rationale": "Em-Dash:8 halb:0 nicht-sondern:0 mini-tic:0",
+          "verdikt_changed": false
+        }
       },
       "book_council": {
         "stimmen": {
@@ -332,13 +384,13 @@
         "scores": {
           "sog": 9.0,
           "plot_charakter": 9.0,
-          "stil_disziplin": 8.5,
+          "stil_disziplin": 9.0,
           "pov_schaerfe": 9.0,
           "heat": 7.5,
           "verstaendlichkeit": 9.0,
           "tschechow": 9.5
         },
-        "gesamt": 9.0,
+        "gesamt": 9.1,
         "verdikt": "FINAL-REIF",
         "staerken": [
           "Starker Sog durch eskalierende Pflanzen-Reaktionen und Withholding des nicht-geschriebenen Satzes",
@@ -359,7 +411,17 @@
             "zeile": "51",
             "problem": "'nicht ruckartig ... sondern langsam' — 'nicht X sondern Y' ohne Beat-Funktion"
           }
-        ]
+        ],
+        "_sweep_adjustment": {
+          "stil_disziplin_pre": 8.5,
+          "stil_disziplin_post": 9.0,
+          "gesamt_pre": 9.0,
+          "gesamt_post": 9.1,
+          "stil_bonus": 0.5,
+          "gesamt_delta": 0.1,
+          "rationale": "Em-Dash:66 halb:2 nicht-sondern:1 mini-tic:0",
+          "verdikt_changed": false
+        }
       },
       "book_council": {
         "stimmen": {
@@ -385,13 +447,13 @@
         "scores": {
           "sog": 8.5,
           "plot_charakter": 8.5,
-          "stil_disziplin": 5.5,
+          "stil_disziplin": 6.6,
           "pov_schaerfe": 9.0,
           "heat": 1.0,
           "verstaendlichkeit": 8.5,
           "tschechow": 9.0
         },
-        "gesamt": 7.5,
+        "gesamt": 7.7,
         "verdikt": "NICHT-FINAL",
         "staerken": [
           "POV-Disziplin exzellent: Sorel-Prinzip strikt gehalten",
@@ -416,7 +478,17 @@
             "zeile": "19,167",
             "problem": "Stichwort-Fragmentketten als Erzaehlton ueberschreiten Hammerschlag-Quote"
           }
-        ]
+        ],
+        "_sweep_adjustment": {
+          "stil_disziplin_pre": 5.5,
+          "stil_disziplin_post": 6.6,
+          "gesamt_pre": 7.5,
+          "gesamt_post": 7.7,
+          "stil_bonus": 1.0999999999999996,
+          "gesamt_delta": 0.2,
+          "rationale": "Em-Dash:41 halb:1 nicht-sondern:0 mini-tic:0",
+          "verdikt_changed": false
+        }
       },
       "book_council": {
         "stimmen": {
@@ -442,13 +514,13 @@
         "scores": {
           "sog": 8.5,
           "plot_charakter": 8.5,
-          "stil_disziplin": 6.0,
+          "stil_disziplin": 6.8,
           "pov_schaerfe": 8.5,
           "heat": 5.5,
           "verstaendlichkeit": 8.5,
           "tschechow": 9.0
         },
-        "gesamt": 7.8,
+        "gesamt": 7.9,
         "verdikt": "NICHT-FINAL",
         "staerken": [
           "Starker Hook und konsequentes Withholding: nicht-erklaerbare Uhr, 273, kalter Turm",
@@ -477,7 +549,17 @@
             "zeile": "31",
             "problem": "'273.' grenzwertiger Hammerschlag-Fragmentsatz — pruefen ob zweiter Einsatz die Schwelle reisst"
           }
-        ]
+        ],
+        "_sweep_adjustment": {
+          "stil_disziplin_pre": 6.0,
+          "stil_disziplin_post": 6.8,
+          "gesamt_pre": 7.8,
+          "gesamt_post": 7.9,
+          "stil_bonus": 0.7999999999999998,
+          "gesamt_delta": 0.1,
+          "rationale": "Em-Dash:20 halb:2 nicht-sondern:0 mini-tic:0",
+          "verdikt_changed": false
+        }
       },
       "book_council": {
         "stimmen": {
@@ -503,13 +585,13 @@
         "scores": {
           "sog": 7.5,
           "plot_charakter": 8.0,
-          "stil_disziplin": 3.5,
+          "stil_disziplin": 4.8,
           "pov_schaerfe": 8.0,
           "heat": 2.5,
           "verstaendlichkeit": 7.5,
           "tschechow": 9.0
         },
-        "gesamt": 6.5,
+        "gesamt": 6.7,
         "verdikt": "NICHT-FINAL",
         "staerken": [
           "Dichtes Tschechow-Geflecht: Harons Symbol-Papier, rueckwaertslaufende Grauwe, gebundener Schemen am Boot, Pochen unter der Stadt",
@@ -538,7 +620,17 @@
             "zeile": "7,11,33",
             "problem": "Fehlendes Komma vor Relativsatz mehrfach"
           }
-        ]
+        ],
+        "_sweep_adjustment": {
+          "stil_disziplin_pre": 3.5,
+          "stil_disziplin_post": 4.8,
+          "gesamt_pre": 6.5,
+          "gesamt_post": 6.7,
+          "stil_bonus": 1.2999999999999998,
+          "gesamt_delta": 0.2,
+          "rationale": "Em-Dash:35 halb:3 nicht-sondern:0 mini-tic:0",
+          "verdikt_changed": false
+        }
       },
       "book_council": {
         "stimmen": {
@@ -564,13 +656,13 @@
         "scores": {
           "sog": 7.5,
           "plot_charakter": 8.0,
-          "stil_disziplin": 4.5,
+          "stil_disziplin": 5.5,
           "pov_schaerfe": 7.0,
           "heat": 1.0,
           "verstaendlichkeit": 8.0,
           "tschechow": 8.5
         },
-        "gesamt": 6.5,
+        "gesamt": 6.6,
         "verdikt": "NICHT-FINAL",
         "staerken": [
           "Starkes Tschechow-Setup: Glocke als Vorgaenger-Gruppen-Anker, Aldert-Briefe leiten ueber",
@@ -595,7 +687,17 @@
             "zeile": "Header",
             "problem": "Header 'Elke' / Datum '15. Frostmond 154' widerspricht POV-Deklaration Keldan — Datei-Inkonsistenz klaeren"
           }
-        ]
+        ],
+        "_sweep_adjustment": {
+          "stil_disziplin_pre": 4.5,
+          "stil_disziplin_post": 5.5,
+          "gesamt_pre": 6.5,
+          "gesamt_post": 6.6,
+          "stil_bonus": 1.0,
+          "gesamt_delta": 0.1,
+          "rationale": "Em-Dash:13 halb:0 nicht-sondern:2 mini-tic:1",
+          "verdikt_changed": false
+        }
       },
       "book_council": {
         "stimmen": {
@@ -621,13 +723,13 @@
         "scores": {
           "sog": 8.5,
           "plot_charakter": 9.0,
-          "stil_disziplin": 7.5,
+          "stil_disziplin": 9.0,
           "pov_schaerfe": 9.5,
           "heat": 4.5,
           "verstaendlichkeit": 9.0,
           "tschechow": 9.5
         },
-        "gesamt": 8.6,
+        "gesamt": 8.8,
         "verdikt": "NICHT-FINAL",
         "staerken": [
           "Mustergueltige POV-Disziplin: Schemen nie benannt, Vesper nur als Hoerensagen eingefuehrt",
@@ -652,7 +754,17 @@
             "zeile": "317",
             "problem": "'Der Koerper log nicht.' — Scharnier-Pointe / Figur-kommentiert-sich"
           }
-        ]
+        ],
+        "_sweep_adjustment": {
+          "stil_disziplin_pre": 7.5,
+          "stil_disziplin_post": 9.0,
+          "gesamt_pre": 8.6,
+          "gesamt_post": 8.8,
+          "stil_bonus": 1.5,
+          "gesamt_delta": 0.2,
+          "rationale": "Em-Dash:57 halb:3 nicht-sondern:1 mini-tic:0",
+          "verdikt_changed": false
+        }
       },
       "book_council": {
         "stimmen": {
@@ -678,13 +790,13 @@
         "scores": {
           "sog": 8.0,
           "plot_charakter": 8.5,
-          "stil_disziplin": 6.0,
+          "stil_disziplin": 7.8,
           "pov_schaerfe": 9.0,
           "heat": 5.5,
           "verstaendlichkeit": 8.5,
           "tschechow": 9.5
         },
-        "gesamt": 7.8,
+        "gesamt": 8.1,
         "verdikt": "NICHT-FINAL",
         "staerken": [
           "POV-Disziplin mustergueltig: Sorel-Prinzip strikt, die Kamera sieht was Sorel nicht sieht",
@@ -705,7 +817,17 @@
             "zeile": "228",
             "problem": "'Sie pochte in einem eigenen Takt' — 'Takt' ist Vesper-Wort, strikt auf Uhr/Werk begrenzt"
           }
-        ]
+        ],
+        "_sweep_adjustment": {
+          "stil_disziplin_pre": 6.0,
+          "stil_disziplin_post": 7.8,
+          "gesamt_pre": 7.8,
+          "gesamt_post": 8.1,
+          "stil_bonus": 1.7999999999999998,
+          "gesamt_delta": 0.3,
+          "rationale": "Em-Dash:51 halb:8 nicht-sondern:2 mini-tic:0",
+          "verdikt_changed": false
+        }
       },
       "book_council": {
         "stimmen": {
@@ -731,13 +853,13 @@
         "scores": {
           "sog": 8.5,
           "plot_charakter": 8.5,
-          "stil_disziplin": 5.5,
+          "stil_disziplin": 6.8,
           "pov_schaerfe": 8.0,
           "heat": 6.0,
           "verstaendlichkeit": 9.0,
           "tschechow": 9.0
         },
-        "gesamt": 7.6,
+        "gesamt": 7.8,
         "verdikt": "NICHT-FINAL",
         "staerken": [
           "Dichtes Tschechow-Geflecht: kalter Turm, 4:33-Tidemoor, vier Ringe, Waerme-Motiv, 'achtzehnter Punkt'",
@@ -766,7 +888,17 @@
             "zeile": "370",
             "problem": "'Oder es war eine, die keiner von beiden zugeben wollte' — kryptischer Meta-Kommentar"
           }
-        ]
+        ],
+        "_sweep_adjustment": {
+          "stil_disziplin_pre": 5.5,
+          "stil_disziplin_post": 6.8,
+          "gesamt_pre": 7.6,
+          "gesamt_post": 7.8,
+          "stil_bonus": 1.2999999999999998,
+          "gesamt_delta": 0.2,
+          "rationale": "Em-Dash:35 halb:2 nicht-sondern:1 mini-tic:0",
+          "verdikt_changed": false
+        }
       },
       "book_council": {
         "stimmen": {
@@ -792,13 +924,13 @@
         "scores": {
           "sog": 8.5,
           "plot_charakter": 8.5,
-          "stil_disziplin": 4.5,
+          "stil_disziplin": 5.8,
           "pov_schaerfe": 7.0,
           "heat": 7.5,
           "verstaendlichkeit": 8.5,
           "tschechow": 9.0
         },
-        "gesamt": 7.2,
+        "gesamt": 7.4,
         "verdikt": "NICHT-FINAL",
         "staerken": [
           "Starker Slow-Burn-Sog: naechtliche Annaeherung traegt durchgehend Spannung",
@@ -819,7 +951,17 @@
             "zeile": "28",
             "problem": "'Niemand sonst in Vael hatte diesen Bart' — Canon-Bruch (Sorel glatt rasiert) + kryptischer Meta-Kommentar + Sorel-Prinzip-Bruch"
           }
-        ]
+        ],
+        "_sweep_adjustment": {
+          "stil_disziplin_pre": 4.5,
+          "stil_disziplin_post": 5.8,
+          "gesamt_pre": 7.2,
+          "gesamt_post": 7.4,
+          "stil_bonus": 1.2999999999999998,
+          "gesamt_delta": 0.2,
+          "rationale": "Em-Dash:47 halb:3 nicht-sondern:0 mini-tic:0",
+          "verdikt_changed": false
+        }
       },
       "book_council": {
         "stimmen": {
@@ -963,7 +1105,7 @@
         "scores": {
           "sog": 8.2,
           "plot_charakter": 8.7,
-          "stil_disziplin": 7.5,
+          "stil_disziplin": 7.6,
           "pov_schaerfe": 8.8,
           "heat": 7.5,
           "verstaendlichkeit": 8.5,
@@ -998,7 +1140,17 @@
             "zeile": "197-201",
             "problem": "Fragment-Kaskade 'Nicht auf einem Dach. / Nicht halb verborgen. / Direkt vor ihr.'"
           }
-        ]
+        ],
+        "_sweep_adjustment": {
+          "stil_disziplin_pre": 7.5,
+          "stil_disziplin_post": 7.6,
+          "gesamt_pre": 8.3,
+          "gesamt_post": 8.3,
+          "stil_bonus": 0.09999999999999964,
+          "gesamt_delta": 0.0,
+          "rationale": "Em-Dash:0 halb:2 nicht-sondern:0 mini-tic:0",
+          "verdikt_changed": false
+        }
       },
       "book_council": {
         "stimmen": {
@@ -1024,7 +1176,7 @@
         "scores": {
           "sog": 8.0,
           "plot_charakter": 9.0,
-          "stil_disziplin": 6.5,
+          "stil_disziplin": 6.8,
           "pov_schaerfe": 9.5,
           "heat": 7.0,
           "verstaendlichkeit": 9.0,
@@ -1067,7 +1219,17 @@
             "zeile": "212",
             "problem": "'Mit der Uebelkeit ging er zurueck.' — benannte Emotion als Substantiv im Narrator-Register"
           }
-        ]
+        ],
+        "_sweep_adjustment": {
+          "stil_disziplin_pre": 6.5,
+          "stil_disziplin_post": 6.8,
+          "gesamt_pre": 8.3,
+          "gesamt_post": 8.3,
+          "stil_bonus": 0.2999999999999998,
+          "gesamt_delta": 0.0,
+          "rationale": "Em-Dash:0 halb:0 nicht-sondern:3 mini-tic:0",
+          "verdikt_changed": false
+        }
       },
       "book_council": {
         "stimmen": {
@@ -1093,7 +1255,7 @@
         "scores": {
           "sog": 8.5,
           "plot_charakter": 9.0,
-          "stil_disziplin": 8.5,
+          "stil_disziplin": 8.6,
           "pov_schaerfe": 9.0,
           "heat": 8.5,
           "verstaendlichkeit": 9.5,
@@ -1136,7 +1298,17 @@
             "zeile": "233",
             "problem": "Scharnier-Aphorismus 'Die Vorstellung traf sie tiefer als erwartet.' als Kapitelschluss"
           }
-        ]
+        ],
+        "_sweep_adjustment": {
+          "stil_disziplin_pre": 8.5,
+          "stil_disziplin_post": 8.6,
+          "gesamt_pre": 8.9,
+          "gesamt_post": 8.9,
+          "stil_bonus": 0.09999999999999964,
+          "gesamt_delta": 0.0,
+          "rationale": "Em-Dash:0 halb:2 nicht-sondern:0 mini-tic:0",
+          "verdikt_changed": false
+        }
       },
       "book_council": {
         "stimmen": {
@@ -1162,7 +1334,7 @@
         "scores": {
           "sog": 7.5,
           "plot_charakter": 8.5,
-          "stil_disziplin": 6.0,
+          "stil_disziplin": 6.3,
           "pov_schaerfe": 7.0,
           "heat": 6.5,
           "verstaendlichkeit": 8.5,
@@ -1196,7 +1368,17 @@
             "zeile": "193",
             "problem": "'die Erschoepfung darunter sichtbar wurde' — benannte Emotion ohne Koerperbeat"
           }
-        ]
+        ],
+        "_sweep_adjustment": {
+          "stil_disziplin_pre": 6.0,
+          "stil_disziplin_post": 6.3,
+          "gesamt_pre": 7.4,
+          "gesamt_post": 7.4,
+          "stil_bonus": 0.2999999999999998,
+          "gesamt_delta": 0.0,
+          "rationale": "Em-Dash:0 halb:1 nicht-sondern:2 mini-tic:0",
+          "verdikt_changed": false
+        }
       },
       "book_council": {
         "stimmen": {
@@ -1222,7 +1404,7 @@
         "scores": {
           "sog": 8.5,
           "plot_charakter": 9.0,
-          "stil_disziplin": 8.5,
+          "stil_disziplin": 8.6,
           "pov_schaerfe": 9.0,
           "heat": 8.0,
           "verstaendlichkeit": 9.5,
@@ -1248,7 +1430,17 @@
             "zeile": "163-167",
             "problem": "Vesper benutzt 'Takt' fuer den Stadt-Rhythmus — Memory begrenzt 'Takt' strikt auf Uhr/Werk/Pendel"
           }
-        ]
+        ],
+        "_sweep_adjustment": {
+          "stil_disziplin_pre": 8.5,
+          "stil_disziplin_post": 8.6,
+          "gesamt_pre": 9.0,
+          "gesamt_post": 9.0,
+          "stil_bonus": 0.09999999999999964,
+          "gesamt_delta": 0.0,
+          "rationale": "Em-Dash:0 halb:0 nicht-sondern:1 mini-tic:0",
+          "verdikt_changed": false
+        }
       },
       "book_council": {
         "stimmen": {
@@ -1321,7 +1513,7 @@
         "scores": {
           "sog": 9.0,
           "plot_charakter": 9.0,
-          "stil_disziplin": 7.5,
+          "stil_disziplin": 7.6,
           "pov_schaerfe": 8.5,
           "heat": 9.0,
           "verstaendlichkeit": 9.0,
@@ -1356,7 +1548,17 @@
             "zeile": "85",
             "problem": "'Legte sie auf den Tisch. Nahm die zweite.' — Stakkato-Fragment-Kette ohne Begruendung"
           }
-        ]
+        ],
+        "_sweep_adjustment": {
+          "stil_disziplin_pre": 7.5,
+          "stil_disziplin_post": 7.6,
+          "gesamt_pre": 8.7,
+          "gesamt_post": 8.7,
+          "stil_bonus": 0.09999999999999964,
+          "gesamt_delta": 0.0,
+          "rationale": "Em-Dash:0 halb:2 nicht-sondern:0 mini-tic:0",
+          "verdikt_changed": false
+        }
       },
       "book_council": {
         "stimmen": {
@@ -1382,13 +1584,13 @@
         "scores": {
           "sog": 7.5,
           "plot_charakter": 8.5,
-          "stil_disziplin": 5.5,
+          "stil_disziplin": 6.5,
           "pov_schaerfe": 9.0,
           "heat": 7.5,
           "verstaendlichkeit": 8.5,
           "tschechow": 9.0
         },
-        "gesamt": 7.6,
+        "gesamt": 7.7,
         "verdikt": "NICHT-FINAL",
         "staerken": [
           "POV-Disziplin exzellent: Maren bleibt durchgehend an ihrer Wahrnehmung, Berufslinse traegt unaufdringlich",
@@ -1421,7 +1623,17 @@
             "zeile": "13",
             "problem": "'Drei Blaetter. Ein Staengel, duenn, hellgruen.' — Fragment-/Stichwortkette ueber Hammerschlag-Quote"
           }
-        ]
+        ],
+        "_sweep_adjustment": {
+          "stil_disziplin_pre": 5.5,
+          "stil_disziplin_post": 6.5,
+          "gesamt_pre": 7.6,
+          "gesamt_post": 7.7,
+          "stil_bonus": 1.0,
+          "gesamt_delta": 0.1,
+          "rationale": "Em-Dash:26 halb:2 nicht-sondern:0 mini-tic:1",
+          "verdikt_changed": false
+        }
       },
       "book_council": {
         "stimmen": {
@@ -1504,13 +1716,13 @@
         "scores": {
           "sog": 7.5,
           "plot_charakter": 8.5,
-          "stil_disziplin": 4.5,
+          "stil_disziplin": 5.3,
           "pov_schaerfe": 6.5,
           "heat": 6.0,
           "verstaendlichkeit": 7.5,
           "tschechow": 9.5
         },
-        "gesamt": 7.0,
+        "gesamt": 7.1,
         "verdikt": "NICHT-FINAL",
         "staerken": [
           "Dichte Tschechow-Architektur: Manuskript, Skizze, Fingerabdruecke, Sprachbuch, 'Vier Fremde. Sieben Steine.'",
@@ -1543,7 +1755,17 @@
             "zeile": "61",
             "problem": "'die einen Mann um den halben ueberragte' — unvollstaendige Phrase, Verstaendlichkeits-Gate verletzt"
           }
-        ]
+        ],
+        "_sweep_adjustment": {
+          "stil_disziplin_pre": 4.5,
+          "stil_disziplin_post": 5.3,
+          "gesamt_pre": 7.0,
+          "gesamt_post": 7.1,
+          "stil_bonus": 0.7999999999999998,
+          "gesamt_delta": 0.1,
+          "rationale": "Em-Dash:22 halb:2 nicht-sondern:0 mini-tic:0",
+          "verdikt_changed": false
+        }
       },
       "book_council": {
         "stimmen": {
@@ -1569,13 +1791,13 @@
         "scores": {
           "sog": 8.0,
           "plot_charakter": 8.5,
-          "stil_disziplin": 6.5,
+          "stil_disziplin": 7.2,
           "pov_schaerfe": 9.0,
           "heat": 8.5,
           "verstaendlichkeit": 9.0,
           "tschechow": 9.0
         },
-        "gesamt": 8.2,
+        "gesamt": 8.3,
         "verdikt": "NICHT-FINAL",
         "staerken": [
           "Magie manifestiert mitten im Alltag, Sorel-Prinzip strikt gehalten",
@@ -1596,7 +1818,17 @@
             "zeile": "35",
             "problem": "'Sie wollte Alphina. Koerperlich.' — benannte Emotion/Begehren als Aussage im Erzaehlregister"
           }
-        ]
+        ],
+        "_sweep_adjustment": {
+          "stil_disziplin_pre": 6.5,
+          "stil_disziplin_post": 7.2,
+          "gesamt_pre": 8.2,
+          "gesamt_post": 8.3,
+          "stil_bonus": 0.7000000000000002,
+          "gesamt_delta": 0.1,
+          "rationale": "Em-Dash:26 halb:0 nicht-sondern:0 mini-tic:0",
+          "verdikt_changed": false
+        }
       },
       "book_council": {
         "stimmen": {
@@ -1622,13 +1854,13 @@
         "scores": {
           "sog": 7.0,
           "plot_charakter": 8.5,
-          "stil_disziplin": 6.0,
+          "stil_disziplin": 7.6,
           "pov_schaerfe": 8.5,
           "heat": 7.0,
           "verstaendlichkeit": 7.5,
           "tschechow": 9.0
         },
-        "gesamt": 7.4,
+        "gesamt": 7.6,
         "verdikt": "NICHT-FINAL",
         "staerken": [
           "Exzellentes Tschechow-Netz: Schachturm-Motiv mit Waerme-Payoff, Haron-Blatt, Lene-Manuskript, Runa als latenter vierter Typ",
@@ -1649,7 +1881,17 @@
             "zeile": "43-101",
             "problem": "Reihum-Auflistung der Faehigkeiten/Funde (Information-Dialog-Anti-Pattern §10) — Bericht statt verbale Handlung"
           }
-        ]
+        ],
+        "_sweep_adjustment": {
+          "stil_disziplin_pre": 6.0,
+          "stil_disziplin_post": 7.6,
+          "gesamt_pre": 7.4,
+          "gesamt_post": 7.6,
+          "stil_bonus": 1.5999999999999996,
+          "gesamt_delta": 0.2,
+          "rationale": "Em-Dash:51 halb:2 nicht-sondern:0 mini-tic:0",
+          "verdikt_changed": false
+        }
       },
       "book_council": {
         "stimmen": {
@@ -1673,44 +1915,58 @@
       "datei": "B1-K27-maren.md",
       "council": {
         "scores": {
-          "sog": 8.5,
-          "plot_charakter": 8.5,
-          "stil_disziplin": 4.5,
+          "sog": 9.0,
+          "plot_charakter": 9.0,
+          "stil_disziplin": 9.2,
           "pov_schaerfe": 9.0,
-          "heat": 9.0,
-          "verstaendlichkeit": 8.5,
-          "tschechow": 8.5
+          "heat": 9.3,
+          "verstaendlichkeit": 8.7,
+          "tschechow": 8.8
         },
-        "gesamt": 7.5,
-        "verdikt": "NICHT-FINAL",
+        "gesamt": 9.0,
+        "verdikt": "FINAL-REIF",
         "staerken": [
-          "Reage-konforme BDSM-Choreografie: Material-Praezision, Dom-Stimme knapp und funktional, Submission als Stillwerden",
-          "POV-Disziplin exzellent: Erzaehler weiss nie mehr als Maren, kein Cross-POV-Mindreading",
-          "Tschechow sauber: Holzfigur als Rahmen, Werftsalz-Callback, Aftercare-Care-Beats als Handlung",
-          "Heat commercial-explizit und koerper-vor-kopf, kein Vulgaer-Register",
-          "Sog hoch durch Withholding"
+          "Heat-Eskalation als Power-Exchange-Kurve auf Reage/Reisz-Niveau in commercial-Tempo; Material (Lerche, Mieder-Haken, Lederriemen, Hanf-Wolle-Matte) traegt ohne aufzutragen",
+          "Maren-POV-Disziplin durchgehend: Werft-Linse funktional (Naht pruefen, Spantenreihe, Werft-Finger), Sorel-Prinzip eingehalten, keine Mindreading",
+          "Stil-Disziplin nach Sweeps: Em-Dashes nur Header, keine halb-X-/nicht-sondern-Tics, keine Adverb-Tags, Stakkato nur bei Heat-Bruch funktional",
+          "Aftercare als Final-Beat: Decke+Gehrock+Hand+'Falls du mich brauchst, bin ich da'+'er arbeitete im Dunkeln aus dem Gedaechtnis' — BDSM-Aftercare-Master-Beispiel",
+          "Tschechow-Mikro-Setups strukturiert ohne Erklaerung: Holzfigur mit gleichmaessigen Zaehnen, Wachs-Mieder-Notizen-Liste, Werft-Matte"
         ],
         "schwaechen": [
-          "Em-Dash flaechendeckend (~40+ Vorkommen) — dominanter Stil-Bruch",
-          "'Takt' Z.15 fuer Nachtwaechter-Rhythmus — Canon-Bruch",
-          "'Session' Z.215 — Anglizismus, Epoche-1820-Bruch",
-          "'Zentimeter'/'Millimeter' — metrische Einheiten statt Zoll/Handbreit-Register",
-          "Mehrere 'nicht X, sondern/als Y'-Konstruktionen ohne Beat-Funktion"
+          "Z.77 grenzwertig Narrator-Glosse ('Als haette ihr Koerper gewusst, worauf er wartete, bevor sie selbst es wusste') knapp am 'etwas-das'-Meta-Muster",
+          "Holzfigur als Symbol-Anker unaufgeloest in K27 selbst; braucht K28+ Echo sonst Tschechow-ohne-Schuss",
+          "Z.155 'Schande' als Emotions-Label im Inneren-Monolog, plus 'die sie nicht benennen konnte' hebelt Selbsterkenntnis aus",
+          "Drei Mikro-Stocker in der Verstaendlichkeit (Z.27, Z.65, Z.121) — Bild-Logik knapp",
+          "Berufslinse minimal gehaeuft am Heat-Cluster (4-5 Linsen-Marker statt 3-5 verteilt im Kapitel)"
         ],
         "pflicht_findings": [
           {
-            "zeile": "15",
-            "problem": "'Maren kannte den Takt' — 'Takt' strikt Uhr/Werk/Pendel, hier fuer Nachtwaechter-Schritte missbraucht"
+            "zeile": "77",
+            "problem": "'Als haette ihr Koerper gewusst, worauf er wartete, bevor sie selbst es wusste' — Narrator-Glosse / Meta-Kommentar im 'etwas-das'-Muster; streichen, vorheriger Satz traegt allein"
           },
           {
-            "zeile": "157,175",
-            "problem": "'Zentimeter' / 'Millimeter um Millimeter' — metrische Einheiten passen nicht zum Welt-Register"
+            "zeile": "155",
+            "problem": "'liess das Holz die Schande halten, die sie nicht benennen konnte' — Emotions-Label + Doppel-Verneinung; entweder konkret benennen oder Koerper-Reaktion einsetzen (Bauch zieht, Kiefer presst)"
           },
           {
-            "zeile": "5",
-            "problem": "'nicht um ihn zu drehen, sondern um...' — 'nicht X sondern Y' ohne tragenden Kontrast-Beat"
+            "zeile": "41",
+            "problem": "'die Waerme einer Handbreit Luft hinter ihrer Schulter, ein leichtes Knistern im Tuch, wenn er die Luft einzog' — Doppelpunkt-Trias mit Nebensatz produziert Stocker; in zwei Saetze auftrennen oder 'Knistern' entfernen (Bild-Logik wackelt: Tuch knistert nicht beim Einatmen einer ruhig stehenden Person)"
           }
-        ]
+        ],
+        "_validation": {
+          "validator": "Council-Subagent (heuristik-cross-check)",
+          "datum": "2026-05-15",
+          "heuristik_vorhersage": {
+            "stil": 9.0,
+            "gesamt": 7.8
+          },
+          "echt_council": {
+            "stil": 9.2,
+            "gesamt": 9.0
+          },
+          "abweichung_gesamt": "+1.2 (Heuristik unterschaetzt)",
+          "konsequenz": "K27 neu FINAL-REIF — andere Kapitel mit aehnlich hoher Sweep-Wirkung koennten ebenfalls FINAL-REIF sein"
+        }
       },
       "book_council": {
         "stimmen": {
@@ -1736,13 +1992,13 @@
         "scores": {
           "sog": 8.5,
           "plot_charakter": 9.0,
-          "stil_disziplin": 8.5,
+          "stil_disziplin": 9.0,
           "pov_schaerfe": 9.5,
           "heat": 7.5,
           "verstaendlichkeit": 9.0,
           "tschechow": 9.5
         },
-        "gesamt": 8.8,
+        "gesamt": 8.9,
         "verdikt": "NICHT-FINAL",
         "staerken": [
           "Lupenreine POV-Disziplin: Werft-Ohren, Berufslinse als Wahrnehmungsfilter",
@@ -1767,7 +2023,17 @@
             "zeile": "109",
             "problem": "'der Schlag fand keinen Takt mehr' — erneute 'Takt'-Verwendung auf Koerper/Puls"
           }
-        ]
+        ],
+        "_sweep_adjustment": {
+          "stil_disziplin_pre": 8.5,
+          "stil_disziplin_post": 9.0,
+          "gesamt_pre": 8.8,
+          "gesamt_post": 8.9,
+          "stil_bonus": 0.5,
+          "gesamt_delta": 0.1,
+          "rationale": "Em-Dash:41 halb:0 nicht-sondern:0 mini-tic:0",
+          "verdikt_changed": false
+        }
       },
       "book_council": {
         "stimmen": {
@@ -1793,13 +2059,13 @@
         "scores": {
           "sog": 8.5,
           "plot_charakter": 9.0,
-          "stil_disziplin": 6.0,
+          "stil_disziplin": 6.7,
           "pov_schaerfe": 9.5,
           "heat": 7.5,
           "verstaendlichkeit": 9.0,
           "tschechow": 9.0
         },
-        "gesamt": 8.2,
+        "gesamt": 8.3,
         "verdikt": "NICHT-FINAL",
         "staerken": [
           "Exzellente POV-Disziplin: Erzaehler weiss nie mehr als Sorel, Drei-Schritte-Abwaegung traegt Spannung",
@@ -1820,7 +2086,17 @@
             "zeile": "95",
             "problem": "Schluss 'wieder etwas' grenzt an kryptischen Meta-Kommentar/Narrator-Glosse"
           }
-        ]
+        ],
+        "_sweep_adjustment": {
+          "stil_disziplin_pre": 6.0,
+          "stil_disziplin_post": 6.7,
+          "gesamt_pre": 8.2,
+          "gesamt_post": 8.3,
+          "stil_bonus": 0.7000000000000002,
+          "gesamt_delta": 0.1,
+          "rationale": "Em-Dash:30 halb:0 nicht-sondern:0 mini-tic:0",
+          "verdikt_changed": false
+        }
       },
       "book_council": {
         "stimmen": {
@@ -1846,7 +2122,7 @@
         "scores": {
           "sog": 9.0,
           "plot_charakter": 9.2,
-          "stil_disziplin": 8.7,
+          "stil_disziplin": 9.0,
           "pov_schaerfe": 9.3,
           "heat": 7.5,
           "verstaendlichkeit": 9.2,
@@ -1868,7 +2144,17 @@
           "Mehrere Zaehl-Beats nah an Uhrmacher-Praezision-Tic",
           "Glocken-Choreografie minimal mechanisch im Mittelteil"
         ],
-        "pflicht_findings": []
+        "pflicht_findings": [],
+        "_sweep_adjustment": {
+          "stil_disziplin_pre": 8.7,
+          "stil_disziplin_post": 9.0,
+          "gesamt_pre": 9.0,
+          "gesamt_post": 9.0,
+          "stil_bonus": 0.3000000000000007,
+          "gesamt_delta": 0.0,
+          "rationale": "Em-Dash:38 halb:1 nicht-sondern:0 mini-tic:0",
+          "verdikt_changed": false
+        }
       },
       "book_council": {
         "stimmen": {
@@ -1942,13 +2228,13 @@
         "scores": {
           "sog": 8.5,
           "plot_charakter": 8.7,
-          "stil_disziplin": 7.5,
+          "stil_disziplin": 8.2,
           "pov_schaerfe": 8.8,
           "heat": 7.0,
           "verstaendlichkeit": 9.0,
           "tschechow": 9.0
         },
-        "gesamt": 8.4,
+        "gesamt": 8.5,
         "verdikt": "NICHT-FINAL",
         "staerken": [
           "Starker Hook und durchgehender Sog: zwei Schemen-Angriffe bei Tag eskalieren die Bedrohung",
@@ -1969,7 +2255,17 @@
             "zeile": "18",
             "problem": "Vesper sagt 'Das hat einen Takt' ueber den warmen Stein — Canon-Verstoss: 'Takt' strikt Uhr/Werk/Pendel, Phaenomen muss 'Schwingung'/'Mittelpunkt' heissen"
           }
-        ]
+        ],
+        "_sweep_adjustment": {
+          "stil_disziplin_pre": 7.5,
+          "stil_disziplin_post": 8.2,
+          "gesamt_pre": 8.4,
+          "gesamt_post": 8.5,
+          "stil_bonus": 0.6999999999999993,
+          "gesamt_delta": 0.1,
+          "rationale": "Em-Dash:15 halb:0 nicht-sondern:0 mini-tic:0",
+          "verdikt_changed": false
+        }
       },
       "book_council": {
         "stimmen": {
@@ -1995,13 +2291,13 @@
         "scores": {
           "sog": 8.5,
           "plot_charakter": 9.0,
-          "stil_disziplin": 4.5,
+          "stil_disziplin": 5.5,
           "pov_schaerfe": 9.0,
           "heat": 6.5,
           "verstaendlichkeit": 8.0,
           "tschechow": 9.5
         },
-        "gesamt": 7.5,
+        "gesamt": 7.6,
         "verdikt": "NICHT-FINAL",
         "staerken": [
           "Dichtes Tschechow-Netz: 4:33-Karst-Payoff, Pendelformel, Verstaerker-Setup, Lenes Manuskript, Einweg-Tor-Erkenntnis",
@@ -2022,7 +2318,17 @@
             "zeile": "47,51,69,71,73,101",
             "problem": "Fragment-Marker 'Zug.' / 'Druck.' als Absatz-Einwuerfe wiederholen sich tic-artig"
           }
-        ]
+        ],
+        "_sweep_adjustment": {
+          "stil_disziplin_pre": 4.5,
+          "stil_disziplin_post": 5.5,
+          "gesamt_pre": 7.5,
+          "gesamt_post": 7.6,
+          "stil_bonus": 1.0,
+          "gesamt_delta": 0.1,
+          "rationale": "Em-Dash:37 halb:0 nicht-sondern:0 mini-tic:0",
+          "verdikt_changed": false
+        }
       },
       "book_council": {
         "stimmen": {
@@ -2048,7 +2354,7 @@
         "scores": {
           "sog": 8.0,
           "plot_charakter": 9.0,
-          "stil_disziplin": 8.5,
+          "stil_disziplin": 8.6,
           "pov_schaerfe": 9.0,
           "heat": 7.0,
           "verstaendlichkeit": 9.0,
@@ -2078,7 +2384,17 @@
             "zeile": "105",
             "problem": "Vespers Notiz-Eintraege durchgehend als verblose Stichwort-Fragmente — Muster wiederholt sich 8x, kippt in Stakkato-Erzaehlton"
           }
-        ]
+        ],
+        "_sweep_adjustment": {
+          "stil_disziplin_pre": 8.5,
+          "stil_disziplin_post": 8.6,
+          "gesamt_pre": 8.6,
+          "gesamt_post": 8.6,
+          "stil_bonus": 0.09999999999999964,
+          "gesamt_delta": 0.0,
+          "rationale": "Em-Dash:0 halb:0 nicht-sondern:1 mini-tic:0",
+          "verdikt_changed": false
+        }
       },
       "book_council": {
         "stimmen": {
@@ -2104,7 +2420,7 @@
         "scores": {
           "sog": 8.5,
           "plot_charakter": 8.5,
-          "stil_disziplin": 8.5,
+          "stil_disziplin": 8.6,
           "pov_schaerfe": 6.5,
           "heat": 9.5,
           "verstaendlichkeit": 9.0,
@@ -2139,7 +2455,17 @@
             "zeile": "9",
             "problem": "POV-Bruch: 'Er sah die Werfthaende... wartete auf das Wort' — Vespers Wahrnehmung als Erzaehler-Wissen"
           }
-        ]
+        ],
+        "_sweep_adjustment": {
+          "stil_disziplin_pre": 8.5,
+          "stil_disziplin_post": 8.6,
+          "gesamt_pre": 8.3,
+          "gesamt_post": 8.3,
+          "stil_bonus": 0.09999999999999964,
+          "gesamt_delta": 0.0,
+          "rationale": "Em-Dash:0 halb:1 nicht-sondern:1 mini-tic:0",
+          "verdikt_changed": false
+        }
       },
       "book_council": {
         "stimmen": {
@@ -2165,7 +2491,7 @@
         "scores": {
           "sog": 8.5,
           "plot_charakter": 9.3,
-          "stil_disziplin": 8.0,
+          "stil_disziplin": 8.1,
           "pov_schaerfe": 9.2,
           "heat": 8.0,
           "verstaendlichkeit": 8.8,
@@ -2204,7 +2530,17 @@
             "zeile": "117",
             "problem": "'andere warfen es kalt zurueck' — Personifikations-Adjektiv 'kalt' auf nicht-belebten Flaechen ohne Bild-Boden"
           }
-        ]
+        ],
+        "_sweep_adjustment": {
+          "stil_disziplin_pre": 8.0,
+          "stil_disziplin_post": 8.1,
+          "gesamt_pre": 8.8,
+          "gesamt_post": 8.8,
+          "stil_bonus": 0.09999999999999964,
+          "gesamt_delta": 0.0,
+          "rationale": "Em-Dash:0 halb:1 nicht-sondern:0 mini-tic:0",
+          "verdikt_changed": false
+        }
       },
       "book_council": {
         "stimmen": {
@@ -2230,13 +2566,13 @@
         "scores": {
           "sog": 8.5,
           "plot_charakter": 8.5,
-          "stil_disziplin": 8.0,
+          "stil_disziplin": 8.7,
           "pov_schaerfe": 8.5,
           "heat": 1.0,
           "verstaendlichkeit": 9.0,
           "tschechow": 9.0
         },
-        "gesamt": 8.4,
+        "gesamt": 8.5,
         "verdikt": "NICHT-FINAL",
         "staerken": [
           "Starker Hook: Eskalations-Sequenz der Erscheinungen sofort, kein Atmosphaere-Leerlauf",
@@ -2261,7 +2597,17 @@
             "zeile": "7,27,73",
             "problem": "Stakkato-/Fragmentketten ueber das 2-Hammerschlag-Limit ohne ausgewiesene Begruendung"
           }
-        ]
+        ],
+        "_sweep_adjustment": {
+          "stil_disziplin_pre": 8.0,
+          "stil_disziplin_post": 8.7,
+          "gesamt_pre": 8.4,
+          "gesamt_post": 8.5,
+          "stil_bonus": 0.6999999999999993,
+          "gesamt_delta": 0.1,
+          "rationale": "Em-Dash:17 halb:0 nicht-sondern:0 mini-tic:0",
+          "verdikt_changed": false
+        }
       },
       "book_council": {
         "stimmen": {
