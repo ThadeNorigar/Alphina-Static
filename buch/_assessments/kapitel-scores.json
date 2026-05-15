@@ -31,7 +31,8 @@
       "2026-05-15: Heuristik-Score-Update angewandt. stil_disziplin pro Kapitel um Sweep-Bonus erhoeht (Cap 9.0); gesamt um bonus/7 (Delta-Methode). Verdikt aktualisiert. Detail pro Kapitel im Feld _sweep_adjustment.",
       "2026-05-15: Validierungs-Council fuer K27 (groesste Heuristik-Anpassung) durchgefuehrt. Echtes Council-Verdikt: 9.0 FINAL-REIF — Heuristik um +1.2 unterschaetzt. K27 mit echten Werten ueberschrieben. Konsequenz: bei anderen Kapiteln mit hoher Sweep-Wirkung (K12, K22, K26, K33) ist die Heuristik-Schaetzung ebenfalls als konservative Untergrenze zu lesen — echte Werte koennten naeher an FINAL-REIF liegen.",
       "2026-05-15: Varianten-Hybrid + 3 Pflicht-Fixes fuer I2 (commits dce9713 + folgender). Verifikations-Council: 9.18 FINAL-REIF. Heuristik hatte 6.6 vorhergesagt — Differenz +2.58 (Hybrid hat strukturell verbessert, nicht nur stilistisch). I2 mit echten Werten ueberschrieben.",
-      "2026-05-15: Varianten-Hybrid K08 + 3 Pflicht-Fixes. Verifikations-Council: 9.3 FINAL-REIF. Heuristik 6.7 unterschaetzt um +2.6. K08 mit echten Werten ueberschrieben. Bestaetigt: Heuristik fuer hochgesweepte Kapitel konservative Untergrenze."
+      "2026-05-15: Varianten-Hybrid K08 + 3 Pflicht-Fixes. Verifikations-Council: 9.3 FINAL-REIF. Heuristik 6.7 unterschaetzt um +2.6. K08 mit echten Werten ueberschrieben. Bestaetigt: Heuristik fuer hochgesweepte Kapitel konservative Untergrenze.",
+      "2026-05-15: Varianten-Hybrid I1 (Variante-Basis + 4 Imports aus aktueller + 4 Antithese-Streichungen). Verifikations-Council: 9.3 FINAL-REIF direkt. Heuristik 7.0 unterschaetzt um +2.3. Final-Reif-Liste: 8 -> 9 Kapitel."
     ]
   },
   "kapitel": [
@@ -313,53 +314,44 @@
       "datei": "B1-I1-elke.md",
       "council": {
         "scores": {
-          "sog": 7.5,
-          "plot_charakter": 8.5,
-          "stil_disziplin": 4.8,
-          "pov_schaerfe": 7.0,
+          "sog": 9.0,
+          "plot_charakter": 9.2,
+          "stil_disziplin": 9.0,
+          "pov_schaerfe": 9.4,
           "heat": 1.0,
-          "verstaendlichkeit": 8.5,
-          "tschechow": 9.0
+          "verstaendlichkeit": 9.5,
+          "tschechow": 9.5
         },
-        "gesamt": 7.0,
-        "verdikt": "NICHT-FINAL",
+        "gesamt": 9.3,
+        "verdikt": "FINAL-REIF",
         "staerken": [
-          "Starker Tschechow-Rahmen: Steinkreis-Ursprungsmythos, Skizzenbuch-Satz als Cross-Buch-Anker",
-          "Elke als eigenstaendige Frau mit Agency und Berufslinse (Stein lesen)",
-          "Atmosphaerische Dichte Vael/Graukueste konsistent",
-          "Sauberer Interludium-Aufbau: Zeitsprung 400 Jahre, Ursprung des Gartens motiviert",
-          "Aldert-Dialog funktioniert als Withholding"
+          "Erzaehl-Sog atmosphaerisch dicht: Nebel-Setting, Reise-Detail (Hendryks Lauschen), Aldert-Dialog mit Schmied-Echo als Mysterium-Aufbau",
+          "Beruf-Linse Elke durchgehend (Bildhauerin): Spannungslinien, Korn, Kalk-Lesen, Material-Geduld - prallt gegen den nicht-rationalen Quellenpuls",
+          "Tschechow-Setup mehrfach: Quellenpuls (B1-K10+), Schmied-Echo (B1-I2), Botanischer Garten (Cross-Trilogie-Anker), Feuer-ueber-Vael-Foreshadowing (Verbrennung TZ-154)",
+          "POV-Disziplin sauber: keine Mindreading bei Hendryk/Aldert (alle Wahrnehmungen ueber sichtbare Marker), Sorel-Prinzip eingehalten",
+          "Charakter-Manifest aus aktueller Version importiert: 'Sie war eine Frau, die hinkniete...' traegt Elkes Selbstdefinition als Anti-Flucht-Reaktion auf Unverstaendliches"
         ],
         "schwaechen": [
-          "7 Em-Dashes — harter Stilverstoss",
-          "'Puls' dreimal als abstraktes Substantiv fuer den Fels",
-          "Fragment-/Stakkato-Haeufung weit ueber 2/Kapitel",
-          "Eroeffnungssatz Chroniken-Prophezeiungs-Meta",
-          "Scharnier-Aphorismus-Muster"
+          "Sieben 'nicht X, sondern Y'-Stellen verbleiben (alle Beat-tragend, aber Dichte am oberen Rand)",
+          "Personifikationen 'als atmete die Kueste', 'Stille bereits bewohnt' am Rand zur Memory-Strenge - durch atmosphaerische Funktion gedeckt",
+          "Wortzahl 2687 ueber dem Standard fuer Interludien (~1500-2000) - Variante-Ueberbau atmospaerisch, aber Sog koennte bei Lese-Pacing-Test geprueft werden",
+          "Heat 1.0 erwartungsgemaess (Interludium ohne Begehrens-Beat)",
+          "Stein-/Pflanzen-Mechanik in Bildhauerin-Linse beschrieben, Magie-System aber implizit - Leserin muss Stein-als-passiv vs. Pflanzen-als-magisch-Akteur selbst erschliessen"
         ],
-        "pflicht_findings": [
-          {
-            "zeile": "59,61",
-            "problem": "'Puls' als abstraktes Substantiv fuer den Fels mehrfach"
+        "pflicht_findings": [],
+        "_validation": {
+          "validator": "Verifikations-Council nach Varianten-Hybrid (commit pending)",
+          "datum": "2026-05-15",
+          "heuristik_vorhersage": {
+            "stil": 5.1,
+            "gesamt": 7.0
           },
-          {
-            "zeile": "35,69,73",
-            "problem": "Fragment-/Stakkato-Ketten ueber die 2/Kapitel-Grenze"
+          "echt_council_post_hybrid": {
+            "stil": 9.0,
+            "gesamt": 9.3
           },
-          {
-            "zeile": "5",
-            "problem": "Erzaehler-Vorgriff/Chroniken-Meta im Eroeffnungssatz"
-          }
-        ],
-        "_sweep_adjustment": {
-          "stil_disziplin_pre": 4.5,
-          "stil_disziplin_post": 4.8,
-          "gesamt_pre": 7.0,
-          "gesamt_post": 7.0,
-          "stil_bonus": 0.2999999999999998,
-          "gesamt_delta": 0.0,
-          "rationale": "Em-Dash:8 halb:0 nicht-sondern:0 mini-tic:0",
-          "verdikt_changed": false
+          "abweichung_gesamt_vs_heuristik": "+2.3 (Heuristik massiv unterschaetzt)",
+          "konsequenz": "I1 viertes FINAL-REIF aus Validierungs-Reihe (nach K27, I2, K08). Direkt-FINAL-REIF ohne weitere Fix-Loop. Hybrid-Strategie etabliert: Variante als Basis fuer Verstaendlichkeit + Setting, Imports aus aktueller fuer Beat-Punch + Italics + Charakter-Manifest."
         }
       },
       "book_council": {
