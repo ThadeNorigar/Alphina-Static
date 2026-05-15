@@ -2,11 +2,11 @@
 
 *28. Saatmond 551 · Tag 1 in Vael*
 
-Die Theke war abgewetzt und der Mann dahinter sah aus, als gehöre er dazu — breit, grau, ein Gesicht ohne Neugier. Vesper stellte den Koffer ab. Vier Tage Staub auf dem Leder, vier Tage Schweiß in den Nähten. Seine Schultern schmerzten und sein rechtes Knie war steif von der letzten Kutsche, der schmalen, die von der Küstenstation in die Stadt fuhr, über Pflaster das härter war als alles in den Innenlanden.
+Die Theke war abgewetzt und der Mann dahinter sah aus, als gehöre er dazu, breit, grau, ein Gesicht ohne Neugier. Vesper stellte den Koffer ab. Vier Tage Staub auf dem Leder, vier Tage Schweiß in den Nähten. Seine Schultern schmerzten und sein rechtes Knie war steif von der letzten Kutsche, der schmalen, die von der Küstenstation in die Stadt fuhr, über Pflaster das härter war als alles in den Innenlanden.
 
 "Ich brauche ein Zimmer. Was kostet das?"
 
-"Kommt drauf an wie lange." Der Wirt legte beide Hände auf die Theke. Breite Hände, langsam und sicher, die Hände eines Mannes der seit Jahrzehnten dieselben Handgriffe machte. Vesper kannte solche Hände — Hände die ihr Werkzeug kannten.
+"Kommt drauf an wie lange." Der Wirt legte beide Hände auf die Theke. Breite Hände, langsam und sicher, die Hände eines Mannes der seit Jahrzehnten dieselben Handgriffe machte. Vesper kannte solche Hände, Hände die ihr Werkzeug kannten.
 
 "Eine Woche, vielleicht länger. Ich weiß es noch nicht."
 
@@ -24,7 +24,7 @@ Der Wirt schaute ihn an, einen Moment länger als nötig. Etwas veränderte sich
 
 "Nichts, was Ihnen hilft." Die Theke war sauber. Der Wirt wischte trotzdem weiter.
 
-Vesper nahm den Schlüssel und ging nach oben. Das Zimmer war klein, aber jedes Stück hatte seinen Platz — ein schmales Bett an der linken Wand, ein Tisch unter dem Fenster, ein Stuhl daneben, ein Hocker in der Ecke mit einem Waschkrug darauf, der Henkel nach außen gedreht. Drei Schritte, und er hätte den Raum durchquert. Er stellte den Koffer ab und legte die Werkzeugrolle auf den Tisch — Pinzetten, Schraubendreher, Lupe, Ölfläschchen, der Samtbeutel mit den Zahnrädern, jedes Werkzeug an seiner Position.
+Vesper nahm den Schlüssel und ging nach oben. Das Zimmer war klein, aber jedes Stück hatte seinen Platz: ein schmales Bett an der linken Wand, ein Tisch unter dem Fenster, ein Stuhl daneben, ein Hocker in der Ecke mit einem Waschkrug darauf, der Henkel nach außen gedreht. Drei Schritte, und er hätte den Raum durchquert. Er stellte den Koffer ab und legte die Werkzeugrolle auf den Tisch: Pinzetten, Schraubendreher, Lupe, Ölfläschchen, der Samtbeutel mit den Zahnrädern, jedes Werkzeug an seiner Position.
 
 Er wusch sich die Hände im Waschkrug, das Wasser kalt, der Staub der Reise löste sich von seinen Fingern und sank als grauer Schleier auf den Grund. In seiner Tasche lag der Turm, kalt seit Karst, und er drehte ihn zwischen den Fingern. Vier Tage, vier Nächte, und das Holz nahm seine Körperwärme nicht an. Seit die sechsundzwanzig Uhren in seiner Werkstatt gleichzeitig stehengeblieben waren, jede auf 4:33, und die Stille die folgte tiefer war als jede Stille die er kannte.
 
@@ -32,7 +32,7 @@ Er wusch sich die Hände im Waschkrug, das Wasser kalt, der Staub der Reise lös
 
 Er ging zurück nach unten.
 
-Im Schankraum brannte ein Kaminfeuer, niedrig, das Holz knackte in unregelmäßigen Abständen. Zwei Männer saßen an einem Tisch in der Mitte und sprachen leise über ihren halbvollen Biergläsern, ohne aufzuschauen als Vesper hereinkam. Im hinteren Teil des Raumes eine Würfelrunde, vier Männer in dunklen Wollkitteln, einer fluchte gedämpft, ein anderer lachte und sagte einen Namen, den Vesper nicht aufnahm. Eine Magd trug zwei Krüge zu ihnen, dabei tropfte Bier über den Rand, ihre Schürze hatte am Saum einen frischen Fleck, sie schaute nicht nach unten. Am Fenster saß eine Frau, allein, dunkles Haar, aufrechte Haltung, ein Notizbuch aufgeschlagen vor ihr. Sie schaute auf als er die Treppe herunterkam. Ihre Augen trafen seine für einen Wimpernschlag — dunkel, ruhig, ein Blick der nichts fragte. Dann war er vorbei, sie schrieb weiter. Vesper ging zur Theke.
+Im Schankraum brannte ein Kaminfeuer, niedrig, das Holz knackte in unregelmäßigen Abständen. Zwei Männer saßen an einem Tisch in der Mitte und sprachen leise über ihren halbvollen Biergläsern, ohne aufzuschauen als Vesper hereinkam. Im hinteren Teil des Raumes eine Würfelrunde, vier Männer in dunklen Wollkitteln, einer fluchte gedämpft, ein anderer lachte und sagte einen Namen, den Vesper nicht aufnahm. Eine Magd trug zwei Krüge zu ihnen, dabei tropfte Bier über den Rand, ihre Schürze hatte am Saum einen frischen Fleck, sie schaute nicht nach unten. Am Fenster saß eine Frau, allein, dunkles Haar, aufrechte Haltung, ein Notizbuch aufgeschlagen vor ihr. Sie schaute auf als er die Treppe herunterkam. Ihre Augen trafen seine für einen Wimpernschlag, dunkel, ruhig, ein Blick der nichts fragte. Dann war er vorbei, sie schrieb weiter. Vesper ging zur Theke.
 
 "Ein Bier, bitte." Der Wirt stellte ein Glas auf das Holz. Vesper trank. In Karst schmeckte Bier nach Kupfer, hier schmeckte es nach etwas das er nicht benennen konnte, süßlich und dicht, derselbe Geruch der in der Luft lag seit er die Küste erreicht hatte.
 
@@ -54,7 +54,7 @@ Vesper nickte.
 
 Vesper stellte sein Glas ab. Eine Uhr die niemand gebaut hat und die niemand reparieren kann. Er legte eine Münze auf den Tresen und ging.
 
-Im Vorbeigehen streifte sein Blick die Frau am Fenster — Tintenflecken am Zeigefinger und Mittelfinger, die Feder schnell über das Papier, eine Hand die wusste was sie tat. Er registrierte es und ging durch die Tür, den Fluss entlang. Am Ufer schlugen drei Wäscherinnen Wäsche auf den flachen Steinen, die Hände rot, das Wasser dampfte trotz der Kühle. Weiter unten saß ein Mann auf einem Poller, flickte ein Netz, die Ahle zwischen den Zähnen, der Faden in den schweren Fingern.
+Im Vorbeigehen streifte sein Blick die Frau am Fenster, Tintenflecken am Zeigefinger und Mittelfinger, die Feder schnell über das Papier, eine Hand die wusste was sie tat. Er registrierte es und ging durch die Tür, den Fluss entlang. Am Ufer schlugen drei Wäscherinnen Wäsche auf den flachen Steinen, die Hände rot, das Wasser dampfte trotz der Kühle. Weiter unten saß ein Mann auf einem Poller, flickte ein Netz, die Ahle zwischen den Zähnen, der Faden in den schweren Fingern.
 
 Hinter einer niedrigen Mauer stand ein Haus. Zwei Stockwerke, die Fenster dunkel, ein Garten der sich selbst überlassen war, Hecken die in den Weg wuchsen, Moos auf den Stufen. Es sah aus als hätte das Haus aufgehört sich darum zu kümmern ob jemand kam.
 
@@ -64,15 +64,15 @@ Vesper stand vor der Tür. In seiner Tasche lag der Turm still. Zum ersten Mal s
 ---
 
 
-Er klopfte. Schritte hinter der Tür, leicht und schnell. Dann Stille. Ein Riegel, der zurückgeschoben wurde. Die Tür öffnete sich, aber nur halb — dahinter eine Frau, Mitte zwanzig vielleicht, Schürze über dem Kleid, das Haar hochgesteckt, eine Strähne die sich gelöst hatte, über ihre Schläfe, bis zum Kinn.
+Er klopfte. Schritte hinter der Tür, leicht und schnell. Dann Stille. Ein Riegel, der zurückgeschoben wurde. Die Tür öffnete sich, aber nur halb. Dahinter eine Frau, Mitte zwanzig vielleicht, Schürze über dem Kleid, das Haar hochgesteckt, eine Strähne die sich gelöst hatte, über ihre Schläfe, bis zum Kinn.
 
-"Einen Moment", sagte sie. Bevor er antworten konnte war sie auf den Knien, die Hände am Boden, wischte etwas von der Schwelle — Erde, Blätter, der Dreck den der Wind vom Garten hereingetragen hatte. Sie kniete vor ihm im Türrahmen, den Kopf gesenkt, die Hände flach auf dem Stein. Vesper stand über ihr. Sein Blick fiel auf ihren Nacken, wo die Strähne sich aus dem Haar gelöst hatte, über die Haut, bis zum Kragen der Bluse. Vor sein Auge trat ein Bild, das er nicht gerufen hatte.
+"Einen Moment", sagte sie. Bevor er antworten konnte war sie auf den Knien, die Hände am Boden, wischte etwas von der Schwelle: Erde, Blätter, der Dreck den der Wind vom Garten hereingetragen hatte. Sie kniete vor ihm im Türrahmen, den Kopf gesenkt, die Hände flach auf dem Stein. Vesper stand über ihr. Sein Blick fiel auf ihren Nacken, wo die Strähne sich aus dem Haar gelöst hatte, über die Haut, bis zum Kragen der Bluse. Vor sein Auge trat ein Bild, das er nicht gerufen hatte.
 
 Dieselbe Haltung. Dieselben Knie auf dem Boden. Aber die Hände nicht am Stein, sondern auf dem Rücken, überkreuzt, und ein Tuch über den Augen, und der Kopf leicht gehoben, wartend.
 
 Das Bild war scharf und vollständig, da bevor er es eingeladen hatte. Er schüttelte den Kopf, einmal, kurz, wie ein Mann der einen Faden aus seinen Gedanken zieht. Seine Finger fanden den Turm in der Tasche. Das kalte Holz half. Er kannte das. Es kam und er ließ es gehen.
 
-Sie stand auf, wischte sich die Hände an der Schürze ab und schaute ihn an — kurz auf sein Gesicht, dann auf seine Hände, dann zurück.
+Sie stand auf, wischte sich die Hände an der Schürze ab und schaute ihn an: kurz auf sein Gesicht, dann auf seine Hände, dann zurück.
 
 "Mein Name ist Vesper Greve, ich bin Uhrmacher aus Karst. Ich habe von der Standuhr gehört, die falsch geht. Darf ich sie mir ansehen?"
 
@@ -84,15 +84,15 @@ Der Flur roch nach Bohnerwachs und nach dem feuchten Stein der in allem steckte.
 
 Der Salon. An der Wand gegenüber dem Fenster: die Standuhr.
 
-Vesper blieb stehen. Die Magd, ihr Rücken, ihre Hüfte — vergessen.
+Vesper blieb stehen. Die Magd, ihr Rücken, ihre Hüfte. Vergessen.
 
-Gehäuse aus dunklem Holz, Nussbaum, die Maserung tief und eng. Messing-Beschläge, angelaufen aber sauber. Das Pendel schwang hinter einer Glasscheibe, gleichmäßig, der Bogen exakt. Und der Klang — ein Ticken das den Raum füllte, präzise und sauber, ohne Schleifen, ohne Flattern. Ein gesundes Uhrwerk. Ein Uhrwerk das keine Probleme haben sollte.
+Gehäuse aus dunklem Holz, Nussbaum, die Maserung tief und eng. Messing-Beschläge, angelaufen aber sauber. Das Pendel schwang hinter einer Glasscheibe, gleichmäßig, der Bogen exakt. Und der Klang, ein Ticken das den Raum füllte, präzise und sauber, ohne Schleifen, ohne Flattern. Ein gesundes Uhrwerk. Ein Uhrwerk das keine Probleme haben sollte.
 
 "Ich kann Ihnen die Uhr nicht aufmachen lassen, das müssen Sie mit Herrn Tidemoor besprechen", sagte die Magd. Sie lehnte sich an den Türrahmen. "Die Herrschaften kommen gegen fünf. Darf ich Ihnen einen Tee bringen, solange Sie zuhören?"
 
 "Gern."
 
-Sie ging. Vesper stand vor der Uhr und hörte zu. Hundertzwanzig Halbschwünge pro Minute, das Standardtempo einer Standuhr mit Sekundenpendel. Dreißig Sekunden, sechzig Schläge, jeder einzelne an der richtigen Stelle. Sein Ohr konnte das beurteilen — dreizehn Jahre Werkbank hatten es kalibriert.
+Sie ging. Vesper stand vor der Uhr und hörte zu. Hundertzwanzig Halbschwünge pro Minute, das Standardtempo einer Standuhr mit Sekundenpendel. Dreißig Sekunden, sechzig Schläge, jeder einzelne an der richtigen Stelle. Sein Ohr konnte das beurteilen; dreizehn Jahre Werkbank hatten es kalibriert.
 
 Alles stimmte. Das war das Problem.
 
@@ -100,7 +100,7 @@ Die Magd kam zurück mit einer Tasse auf einem Tablett. Als sie es auf den Tisch
 
 *Bleib stehen. Dreh dich nicht weg.*
 
-Das Bild war sofort wieder da — die Knie, die Hände, das Tuch — und diesmal dauerte es einen Herzschlag länger, bevor er es losließ. Er trank Tee. Die Uhr tickte.
+Das Bild war sofort wieder da, die Knie, die Hände, das Tuch, und diesmal dauerte es einen Herzschlag länger, bevor er es losließ. Er trank Tee. Die Uhr tickte.
 
 "Hat die Uhr einen Namen?", fragte er.
 
@@ -120,7 +120,7 @@ Um halb sechs kam der Hausherr. Groß, schmal, grau an den Schläfen.
 
 Der Hausherr verzog den Mund. Seine Schultern sanken kaum merklich. "Drei Uhrmacher haben sie sich angesehen. Keiner hat etwas gefunden. Machen Sie."
 
-Vesper öffnete das Gehäuse. Das Werk lag vor ihm, Messing und Stahl, die Zahnräder ineinander greifend, sauber, geölt, ohne Verschleiß. Er prüfte jedes Teil einzeln, systematisch — Ankerrad, Hemmung, Aufzugsfeder, Pendel. Jedes Teil war in Ordnung. Kein Defekt, keine Abweichung, keine Erklärung.
+Vesper öffnete das Gehäuse. Das Werk lag vor ihm, Messing und Stahl, die Zahnräder ineinander greifend, sauber, geölt, ohne Verschleiß. Er prüfte jedes Teil einzeln, systematisch: Ankerrad, Hemmung, Aufzugsfeder, Pendel. Jedes Teil war in Ordnung. Kein Defekt, keine Abweichung, keine Erklärung.
 
 Er stellte seine Taschenuhr daneben. "Ich muss messen. Das dauert."
 
@@ -140,7 +140,7 @@ Die Abweichung war weg. Unter seiner Hand lief die Uhr korrekt. Er nahm die Hand
 
 4:33.
 
-Nochmal. Hand drauf. Die Wärme kam sofort, als hätte sie auf ihn gewartet. Null. Hand weg. 4:33. Drei Durchgänge, sechs Stunden, und jedes Mal dasselbe — die Uhr reagierte auf seine Berührung wie ein Lebewesen das sich an seine Hand schmiegte und falsch lief sobald er losließ.
+Nochmal. Hand drauf. Die Wärme kam sofort, als hätte sie auf ihn gewartet. Null. Hand weg. 4:33. Drei Durchgänge, sechs Stunden, und jedes Mal dasselbe: die Uhr reagierte auf seine Berührung wie ein Lebewesen das sich an seine Hand schmiegte und falsch lief sobald er losließ.
 
 Draußen war es dunkel geworden. Die Magd hatte zweimal Tee gebracht ohne zu fragen. Beim zweiten Mal hatte sich ihre Hand auf die Sessellehne gelegt, neben seiner Schulter, nicht berührend, aber nah genug dass er die Wärme spürte. Er hatte nichts gesagt, und sie hatte nichts gesagt, und die Uhr hatte getickt.
 
@@ -148,11 +148,11 @@ Vesper saß in der Dunkelheit. Seine Hände lagen auf seinen Knien, sie zitterte
 
 Er stand auf, schloss das Gehäuse der Standuhr und nahm die Werkzeugrolle vom Tisch. Dann trat er aus dem Salon in den Flur.
 
-Die Magd war dort, an der Anrichte bei der Standlampe, ein leeres Tablett in den Händen. Sie hatte offenbar gewartet, bis er von selbst kam — kein Drängen, kein Räuspern, nur das gleichmäßige Atmen einer Frau die wusste wann ein Fremder fertig war. Sie schaute auf.
+Die Magd war dort, an der Anrichte bei der Standlampe, ein leeres Tablett in den Händen. Sie hatte offenbar gewartet, bis er von selbst kam: kein Drängen, kein Räuspern, nur das gleichmäßige Atmen einer Frau die wusste wann ein Fremder fertig war. Sie schaute auf.
 
 "Ich müsste heute Nacht wiederkommen. Ich brauche eine längere Messung, über mehrere Stunden."
 
-"Ich gebe Ihnen den Schlüssel für die Seitentür." Sie stellte das Tablett auf die Anrichte und ging zu einem kleinen Schrank am Ende des Flurs, holte einen Schlüssel heraus — Messing, schwer. Sie kam zurück und legte ihn in seine Hand. Ihre Finger berührten seine Handfläche als sie ihn übergab, diesmal nicht kurz. Eine Sekunde, vielleicht zwei, ihre Fingerspitzen auf seiner Handlinie, warm. Vesper hielt still, und sie hielt still, und die Uhr im Salon hinter ihm tickte.
+"Ich gebe Ihnen den Schlüssel für die Seitentür." Sie stellte das Tablett auf die Anrichte und ging zu einem kleinen Schrank am Ende des Flurs, holte einen Schlüssel heraus, Messing, schwer. Sie kam zurück und legte ihn in seine Hand. Ihre Finger berührten seine Handfläche als sie ihn übergab, diesmal nicht kurz. Eine Sekunde, vielleicht zwei, ihre Fingerspitzen auf seiner Handlinie, warm. Vesper hielt still, und sie hielt still, und die Uhr im Salon hinter ihm tickte.
 
 "Am Garten, die kleine Tür rechts", sagte sie leise, und zog ihre Hand zurück.
 
@@ -172,9 +172,9 @@ Um elf stand er auf und ging. Im Schankraum unten brannte noch eine einzige Kerz
 
 Er ging nicht in den Salon. Er ging in die Küche.
 
-Kalter Herd. Kupfertöpfe an der Wand. Ein Hahn am Spülstein. Er drehte ihn auf. Das Wasser kam kalt. Er hielt die Hand darunter und zählte. Dreißig Sekunden, vierzig, fünfzig — ein Hauch von Wärme. Sechzig Sekunden, wärmer. Siebzig, heiß. Dampf stieg auf, unsichtbar in der Dunkelheit, aber er spürte ihn an Gesicht und Händen.
+Kalter Herd. Kupfertöpfe an der Wand. Ein Hahn am Spülstein. Er drehte ihn auf. Das Wasser kam kalt. Er hielt die Hand darunter und zählte. Dreißig Sekunden, vierzig, fünfzig: ein Hauch von Wärme. Sechzig Sekunden, wärmer. Siebzig, heiß. Dampf stieg auf, unsichtbar in der Dunkelheit, aber er spürte ihn an Gesicht und Händen.
 
-Er drehte ab, kniete sich hin. Unter dem Spülstein lief ein Kupferrohr in die Wand. Er legte die Hand darum — kalt. Er folgte dem Rohr mit den Fingern, so weit er reichte. Kalt. Er stand auf und ging in den Keller, die steile Treppe die die Magd erwähnt hatte, Stein unter seinen Sohlen.
+Er drehte ab, kniete sich hin. Unter dem Spülstein lief ein Kupferrohr in die Wand. Er legte die Hand darum. Kalt. Er folgte dem Rohr mit den Fingern, so weit er reichte. Kalt. Er stand auf und ging in den Keller, die steile Treppe die die Magd erwähnt hatte, Stein unter seinen Sohlen.
 
 Unten roch es nach Kohle, nach Feuchtigkeit, nach etwas Metallischem. Er fand das Rohr an der Wand, Kupfer, kalt. Suchte einen Kessel, einen Ofen, irgendeinen Brennstoff, systematisch, Wand für Wand, in der Dunkelheit, mit den Händen. Er fand nichts. Nur kalte Rohre, heißes Wasser, keinen Grund warum das eine das andere nicht ausschloss.
 

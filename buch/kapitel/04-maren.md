@@ -4,11 +4,11 @@
 
 Der Schuppen roch nach Haron.
 
-Nach dem, was Haron gewesen war. Maren wusste nicht, wie er persönlich gerochen hatte — fünf Jahre Briefwechsel, nie seine Stimme gehört. Holz und Leim und Bootslack. Sägemehl, das noch in der Luft hing, obwohl seit drei Wochen niemand mehr gesägt hatte. Schleifstaub auf jeder Oberfläche, fein wie Mehl, und darunter, in den Wänden, im Boden, in den Ritzen zwischen den Brettern: das Meer. Der Schuppen lag zwanzig Schritt vom Wasser entfernt, das Salz war trotzdem im Holz.
+Nach dem, was Haron gewesen war. Maren wusste nicht, wie er persönlich gerochen hatte: fünf Jahre Briefwechsel, nie seine Stimme gehört. Holz und Leim und Bootslack. Sägemehl, das noch in der Luft hing, obwohl seit drei Wochen niemand mehr gesägt hatte. Schleifstaub auf jeder Oberfläche, fein wie Mehl, und darunter, in den Wänden, im Boden, in den Ritzen zwischen den Brettern: das Meer. Der Schuppen lag zwanzig Schritt vom Wasser entfernt, das Salz war trotzdem im Holz.
 
 Maren blieb nie lange genug.
 
-Ihre Stiefel waren feucht vom Kutter. Fünf Stunden über die Bucht, in einem Fischerboot das nach Teer und Makrele roch und nach dem Schweiß des Mannes, der sie mitgenommen hatte, der wenig redete und das war ihr recht gewesen. Der Seesack an ihrer Schulter, schwer auf der linken Seite, wo die Bücher lagen. Der Gurt schnitt in die Haut über dem Schlüsselbein, ein dünner, scharfer Schmerz, vertraut wie ein alter Riss im Leder. Alles was sie besaß. Alles was sie je besessen hatte, seit sie mit achtzehn Thessa verlassen hatte, mit einem Gepäck das halb so schwer gewesen war — damals weniger Bücher, mehr Gründe zu gehen, und sie war gegangen.
+Ihre Stiefel waren feucht vom Kutter. Fünf Stunden über die Bucht, in einem Fischerboot das nach Teer und Makrele roch und nach dem Schweiß des Mannes, der sie mitgenommen hatte, der wenig redete und das war ihr recht gewesen. Der Seesack an ihrer Schulter, schwer auf der linken Seite, wo die Bücher lagen. Der Gurt schnitt in die Haut über dem Schlüsselbein, ein dünner, scharfer Schmerz, vertraut wie ein alter Riss im Leder. Alles was sie besaß. Alles was sie je besessen hatte, seit sie mit achtzehn Thessa verlassen hatte, mit einem Gepäck das halb so schwer gewesen war, damals weniger Bücher, mehr Gründe zu gehen, und sie war gegangen.
 
 Die Stadt hinter ihr lag im Nebel. Vael. Dunkler Stein, fast schwarz, und Giebel und Gassen so eng, dass zwei Kutschen nicht nebeneinander passten. Sie war vom Hafen hierher gelaufen, eine halbe Stunde über nasses Kopfsteinpflaster, vorbei an Fassaden die im Nebel standen wie Bühnenbilder ohne Zuschauer, und die Gaslampen brannten auch am Morgen, gelb und trüb, und ihr Licht schaffte es nicht bis zum Boden. Die Häuser hatten sich um sie geschlossen, und die Luft war anders als im Süden, schwerer, mit einer Feuchtigkeit die auf der Haut blieb und in den Stoff des Mantels kroch und nicht mehr ging. In Solha schauten die Leute Fremde an. In Thessa riefen sie ihnen etwas zu. In Vael gingen sie vorbei, die Köpfe gesenkt, die Mäntel geschlossen, und der Nebel verschluckte sie nach drei Schritten. Am Rand der Stadt, wo die Häuser aufhörten und das Wasser anfing, hatte sie die Werft gefunden. Eine Frau auf der Straße hatte mit dem Kinn in die Richtung gezeigt, ohne stehenzubleiben.
 
@@ -32,7 +32,7 @@ Maren ließ den Seesack von der Schulter gleiten. Er fiel auf den Erdboden, dump
 
 Haron hatte den Fehler gelassen. Haron hatte den Fehler zum Teil des Bootes gemacht.
 
-Die Werkzeuge an der Wand, an Haken, geordnet — Hobel, Stechbeitel, Sägen, Zwingen, Leimtöpfe mit getrockneten Rändern. Die Schürze am Haken neben der Tür, steif von Leim und Holzstaub, die Form eines Körpers noch darin, Schultern, Brust. Maren berührte den Stoff nicht. Er hing da und hielt die Gestalt eines Mannes, der nicht mehr kam.
+Die Werkzeuge an der Wand, an Haken, geordnet: Hobel, Stechbeitel, Sägen, Zwingen, Leimtöpfe mit getrockneten Rändern. Die Schürze am Haken neben der Tür, steif von Leim und Holzstaub, die Form eines Körpers noch darin, Schultern, Brust. Maren berührte den Stoff nicht. Er hing da und hielt die Gestalt eines Mannes, der nicht mehr kam.
 
 Auf dem Boden Späne. Sägemehl. Eine dünne Schicht, gleichmäßig, als hätte der Wind sie verteilt. Maren kniete sich hin. Nahm eine Handvoll. Trocken, leicht, helles Holz. Sie roch daran. Holz und Harz und etwas Süßes, und die Späne waren so fein, als hätte jemand geschliffen, nicht gesägt. Sie ließ sie durch die Finger rieseln und sie fielen auf den Boden und mischten sich mit den anderen und waren nicht zu unterscheiden. Daneben, halb unter Sägemehl, ein Bleistift. Kurz, die Spitze abgebrochen. Sie steckte ihn in die Hosentasche.
 
@@ -46,11 +46,11 @@ Fünf Minuten. Zehn. Maren saß da und ging nicht. Das Boot an ihrem Rücken, de
 
 Schritte auf dem Boden hinter ihr.
 
-Maren öffnete die Augen. Das Boot an ihrem Rücken, die Kühle des Holzes durch den Stoff des Hemds. Ein Mann stand in der Tür des Schuppens, die Sonne — soweit man das durch den Nebel Sonne nennen konnte — hinter ihm, sein Gesicht im Schatten. Breit, nicht groß. Ein Arbeitskittel, Sägemehl an den Ärmeln, ein Hemd darunter das einmal weiß gewesen war. Er stand da und schaute sie an und sagte nichts, und Maren schaute zurück und sagte auch nichts, und für einen Moment war das genug.
+Maren öffnete die Augen. Das Boot an ihrem Rücken, die Kühle des Holzes durch den Stoff des Hemds. Ein Mann stand in der Tür des Schuppens, die Sonne, soweit man das durch den Nebel Sonne nennen konnte, hinter ihm, sein Gesicht im Schatten. Breit, nicht groß. Ein Arbeitskittel, Sägemehl an den Ärmeln, ein Hemd darunter das einmal weiß gewesen war. Er stand da und schaute sie an und sagte nichts, und Maren schaute zurück und sagte auch nichts, und für einen Moment war das genug.
 
 "Sie sind Maren."
 
-Keine Frage. Er wusste es, weil es niemand anderes sein konnte — eine Frau mit einem Seesack neben Haron Dahls Boot.
+Keine Frage. Er wusste es, weil es niemand anderes sein konnte: eine Frau mit einem Seesack neben Haron Dahls Boot.
 
 "Edric", sagte er. Trat in den Schuppen. Seine Schritte waren leise auf dem Erdboden, die Stiefel abgetragen aber sauber, und er bewegte sich durch den Raum wie jemand, der jeden Gegenstand kannte, jede Lücke zwischen den Werkzeugen, jede lose Diele. "Sieben Jahre bei Haron. Lehrling, dann Geselle."
 
@@ -70,7 +70,7 @@ Edric nickte. Er führte nicht. Er ging neben ihr und ließ sie sich selbst ein 
 
 "Einzeln. Über Tage. Esche." Er schaute sie an, kurz, als hätte er die Frage nicht erwartet. "Sie kennen sich aus."
 
-"Ich war auf einem Frachtschiff. Neun Monate." Maren fuhr mit der Handfläche über die Planken. Jede war anders — die Maserung, die Dicke, manche Stellen rauer, wo das Schleifpapier nicht hingekommen war, manche so glatt, dass die Haut darüber rutschte ohne Widerstand. "Die Kapitänin hat gesagt, ein Boot ist ein Kompromiss zwischen dem was du willst und dem was das Wasser erlaubt."
+"Ich war auf einem Frachtschiff. Neun Monate." Maren fuhr mit der Handfläche über die Planken. Jede war anders: die Maserung, die Dicke, manche Stellen rauer, wo das Schleifpapier nicht hingekommen war, manche so glatt, dass die Haut darüber rutschte ohne Widerstand. "Die Kapitänin hat gesagt, ein Boot ist ein Kompromiss zwischen dem was du willst und dem was das Wasser erlaubt."
 
 "Haron hätte das gemocht." Edric zeigte auf die Stelle wo die Planken aufhörten. "Lärche. Leichter als Eiche, das Harz schützt. Die untersten drei Lagen sind dicht. Darüber fehlt es."
 
@@ -80,7 +80,7 @@ Edric nickte. Er führte nicht. Er ging neben ihr und ließ sie sich selbst ein 
 
 Maren umrundete den Rumpf. Harons Boot war ein guter Kompromiss. Die Linien sauber, die Proportionen stimmig. Das Holz roch nach Leinöl und nach der Geduld, mit der jemand Jahre an einem einzigen Gegenstand gearbeitet hatte.
 
-Auf der Werkbank lagen Zeichnungen — Harons Handschrift, die sie aus den Briefen kannte, klein, regelmäßig, die Buchstaben leicht nach rechts geneigt. Bootsrisse. Querschnitte. Maße in Zoll, sauber, mit Lineal gezogen.
+Auf der Werkbank lagen Zeichnungen, Harons Handschrift, die sie aus den Briefen kannte, klein, regelmäßig, die Buchstaben leicht nach rechts geneigt. Bootsrisse. Querschnitte. Maße in Zoll, sauber, mit Lineal gezogen.
 
 "Die kenne ich", sagte Maren. Sie tippte auf eine Zeichnung. "Diesen Querschnitt hat er mir geschickt. Im siebten Brief. Ich hatte gefragt, warum die Kimm so flach ist."
 
@@ -102,9 +102,9 @@ Stille. Edric griff nach einem Hobel auf der Werkbank, drehte ihn in den Händen
 
 "Pflanzen. Stein. Ein Zaun." Edric zuckte die Schultern. "Nichts, wofür man nachts rausgeht."
 
-Stille im Schuppen. Das Knarren des Dachgebälks im Wind. In Marens Handflächen ein Kribbeln, das vom Holz kam oder von dem Wort — Garten, am Klippenrand. Sie schloss die Hände. Das Kribbeln blieb.
+Stille im Schuppen. Das Knarren des Dachgebälks im Wind. In Marens Handflächen ein Kribbeln, das vom Holz kam oder von dem Wort: Garten, am Klippenrand. Sie schloss die Hände. Das Kribbeln blieb.
 
-"Und sonst?", fragte sie. "War er —" Sie suchte das Wort. Normal, wollte sie sagen, aber das Wort passte nicht auf einen Mann, der fünf Jahre lang einer Fremden über Holz geschrieben hatte und dann gestorben war und ihr alles hinterlassen hatte.
+"Und sonst?", fragte sie. "War er," Sie suchte das Wort. Normal, wollte sie sagen, aber das Wort passte nicht auf einen Mann, der fünf Jahre lang einer Fremden über Holz geschrieben hatte und dann gestorben war und ihr alles hinterlassen hatte.
 
 "Er hatte einen Akzent", sagte Edric. "Nicht von der Küste. Nicht aus dem Süden. Woanders her. Hat nie gesagt woher." Er strich mit dem Daumen über die Werkbank, über eine Kerbe im Holz. "Und seine Hände. Fein, für einen Bootsbauer. Lange Finger." Er hob die eigenen Hände, breit, rissig. "Sah aus als hätte er das Handwerk spät gelernt. Aber er konnte es."
 
@@ -112,7 +112,7 @@ Stille im Schuppen. Das Knarren des Dachgebälks im Wind. In Marens Handflächen
 
 Edric nahm die Schürze vom Haken. Faltete sie, die Hände sorgfältig an den Kanten. Legte sie auf die Werkbank, neben die Zeichnungen. Es war ein Abschluss.
 
-"Der Notar hat gesagt, alles gehört Ihnen. Die Werft, das Boot, die Werkzeuge." Er schaute sie an, zum ersten Mal direkt, und seine Augen waren grau und ruhig. "Haron hat mich bezahlt bis zum Monatsende. Danach —" Er ließ den Satz offen.
+"Der Notar hat gesagt, alles gehört Ihnen. Die Werft, das Boot, die Werkzeuge." Er schaute sie an, zum ersten Mal direkt, und seine Augen waren grau und ruhig. "Haron hat mich bezahlt bis zum Monatsende. Danach," Er ließ den Satz offen.
 
 "Bleiben Sie?"
 
@@ -146,9 +146,9 @@ Sie öffnete die Augen. Das Graue Meer.
 
 Raues Wasser. Wind von Nordwest, die Wellen kurz und hart, Schaumkronen, die sich überschlugen und zerfielen. Aber etwas stimmte nicht.
 
-Um sie herum waren die Wellen flacher. Nicht sofort — sie bemerkte es erst, als die Schaumkronen verschwanden, weiter draußen zuerst, dann näher. Die kurzen, harten Wellen wurden länger, runder, zahmer. Näher am Steg: fast still. Das Wasser lag da, kaum bewegt, nur ein leichtes Atmen, Heben und Senken. Und direkt unter ihr, an den Pfosten: spiegelglatt. Das Wasser lag da wie Glas, und Maren konnte ihr Gesicht sehen, scharf, jede Linie, und dahinter das Grau der Tiefe. Rundherum schlug das Meer. Gischt und Wind und Kälte. Aber hier, wo sie stand: Stille.
+Um sie herum waren die Wellen flacher. Nicht sofort. Sie bemerkte es erst, als die Schaumkronen verschwanden, weiter draußen zuerst, dann näher. Die kurzen, harten Wellen wurden länger, runder, zahmer. Näher am Steg: fast still. Das Wasser lag da, kaum bewegt, nur ein leichtes Atmen, Heben und Senken. Und direkt unter ihr, an den Pfosten: spiegelglatt. Das Wasser lag da wie Glas, und Maren konnte ihr Gesicht sehen, scharf, jede Linie, und dahinter das Grau der Tiefe. Rundherum schlug das Meer. Gischt und Wind und Kälte. Aber hier, wo sie stand: Stille.
 
-Die Gezeiten. Die waren hier eigenartig, hatte der Fischer auf dem Kutter gesagt, hatte mit dem Kinn Richtung Küste gezeigt und sonst nichts. Die Gezeiten, die Strömung, das Wetter — eigenartig, und Vael auch. Es waren die Gezeiten.
+Die Gezeiten. Die waren hier eigenartig, hatte der Fischer auf dem Kutter gesagt, hatte mit dem Kinn Richtung Küste gezeigt und sonst nichts. Die Gezeiten, die Strömung, das Wetter, eigenartig, und Vael auch. Es waren die Gezeiten.
 
 Maren trat einen Schritt zurück. Zwei. Drei. Unter ihren Stiefeln glitten die Planken. Dort wo sie gestanden hatte: ein Kräuseln, als hätte eine Hand losgelassen. Die Wellen kamen zurück. Zuerst am Rand, dann näher, tastend, als ob sie prüften ob der Platz wieder frei war. Das Kräuseln wurde zu Wellen. Die Wellen wurden zu Schaumkronen. Wo sie gestanden hatte: Meer wie überall.
 
@@ -168,7 +168,7 @@ Sie ging.
 ---
 
 
-Die Pension hieß "Zum Hafenlicht." Der Wirt gab ihr einen Schlüssel für die erste Nacht und fragte nicht, ob sie länger blieb. Der Notar würde ihr am nächsten Morgen die Wohnung übergeben, die zur Werft gehörte und auf sie übergegangen war — Papiere, zwei Unterschriften, dann der Gang zur Hafengasse. Für heute reichten vier Wände.
+Die Pension hieß "Zum Hafenlicht." Der Wirt gab ihr einen Schlüssel für die erste Nacht und fragte nicht, ob sie länger blieb. Der Notar würde ihr am nächsten Morgen die Wohnung übergeben, die zur Werft gehörte und auf sie übergegangen war: Papiere, zwei Unterschriften, dann der Gang zur Hafengasse. Für heute reichten vier Wände.
 
 Das Zimmer war klein. Kerze auf dem Tisch, ein Bett, ein Stuhl, ein Fenster das auf den Marktplatz ging, und vor dem Fenster der Nebel, der jetzt, am Abend, dichter war als am Morgen, als hätte die Stadt die Luft angezogen und hielte sie fest. Die Wände rochen nach Kalk und nach dem Rauch des Kamins im Erdgeschoss, der durch die Decke sickerte, und die Dielen knarrten unter ihren Stiefeln, jede einzelne an einer anderen Stelle, und Maren ging den Raum ab, einmal, zweimal, die Hände an den Wänden, die Finger auf dem rauen Putz. Gewohnheit. In Solha hatte sie die Zimmer abgegangen. In Thessa. Auf dem Frachtschiff die Kabine, drei Schritte in jede Richtung. Den Raum kennenlernen, bevor der Raum sie kennenlernte.
 
@@ -192,7 +192,7 @@ Es war schon still gewesen, Wannenwasser ohne Wind, ohne Strom. Aber jetzt war e
 
 Maren hielt den Atem an.
 
-Unter der Oberfläche bewegte sich etwas. Nicht sichtbar — spürbar. An ihren Beinen, an der Haut. Ein Strom, der sich formte, um ihre Knie, um ihre Schienbeine, ein Ziehen, so leise dass man es fast nicht sah, nur spürte, sanft, gleichmäßig, und das Wasser, das an ihren Beinen entlangstrich, war wärmer. Nicht heiß. Nicht plötzlich. Wärmer, mit jeder Umdrehung, als erzeugte die Bewegung selbst die Wärme. Das Wasser rieb an ihrer Haut, an den Wannenwänden, und die Reibung wurde Wärme. Die Kälte ging, langsam, stetig. Maren saß. Das Wasser kreiste. Sie hatte sich nicht bewegt.
+Unter der Oberfläche bewegte sich etwas. Nicht sichtbar, spürbar. An ihren Beinen, an der Haut. Ein Strom, der sich formte, um ihre Knie, um ihre Schienbeine, ein Ziehen, so leise dass man es fast nicht sah, nur spürte, sanft, gleichmäßig, und das Wasser, das an ihren Beinen entlangstrich, war wärmer. Nicht heiß. Nicht plötzlich. Wärmer, mit jeder Umdrehung, als erzeugte die Bewegung selbst die Wärme. Das Wasser rieb an ihrer Haut, an den Wannenwänden, und die Reibung wurde Wärme. Die Kälte ging, langsam, stetig. Maren saß. Das Wasser kreiste. Sie hatte sich nicht bewegt.
 
 Sie hatte sich nicht bewegt.
 
@@ -202,7 +202,7 @@ Stille.
 
 Das Wasser lag da. Reglos. Heiß. Es dampfte leicht, ein dünner Schleier über der Oberfläche, und die Wanne war lauwarm gewesen, vor Minuten, und jetzt dampfte sie.
 
-Maren stand auf. Zu schnell — das Wasser schwappte über den Rand, auf die Dielen. Laut. Wasser auf Holz, ein Klatschen das in dem kleinen Zimmer nachhallte. Sie stand in der Wanne, nackt, tropfend. Ihre Haut war warm dort wo das Wasser sie berührt hatte und kalt dort wo die Luft sie traf. Sie stieg aus der Wanne, ein Bein, das andere. Das Wasser lief an ihr herunter, bildete eine Pfütze auf den Dielen, und Maren stand da und schaute auf die Wanne.
+Maren stand auf. Zu schnell. Das Wasser schwappte über den Rand, auf die Dielen. Laut. Wasser auf Holz, ein Klatschen das in dem kleinen Zimmer nachhallte. Sie stand in der Wanne, nackt, tropfend. Ihre Haut war warm dort wo das Wasser sie berührt hatte und kalt dort wo die Luft sie traf. Sie stieg aus der Wanne, ein Bein, das andere. Das Wasser lief an ihr herunter, bildete eine Pfütze auf den Dielen, und Maren stand da und schaute auf die Wanne.
 
 Das Wasser war still. Dampf stieg auf. Kein Strudel. Kein Kräuseln. Nur Wasser in einer Zinkwanne in einer Pension in einer Stadt, in der sie niemanden kannte.
 
