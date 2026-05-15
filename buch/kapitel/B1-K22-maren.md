@@ -176,7 +176,7 @@ Vesper legte die Pinzette quer über das Tuch. Seine Finger bewegten sich ruhig,
 
 Er sagte es, ohne den Blick zu heben. Es war die erste Antwort auf das Blatt, bevor sie etwas gefragt hatte. Maren nickte, obwohl er es nicht sehen konnte.
 
-„Sie hat mir von der Pflanze in der Fuge erzählt. Dass sie nicht von hier ist, nicht aus Thalassien, auch nicht aus dem, was sie aus den Büchern kennt. Dass sie eine Blüte getragen hat, violett, und dass die Blüte Licht gibt." Er ließ den Satz einen Atemzug stehen. „Und dass sie auf Alphinas Resonanz reagiert hat, stärker als alles, was Alphina bisher berührt hat."
+„Sie hat mir von der Pflanze in der Fuge erzählt. Dass sie nicht von hier ist, nicht aus Thalassien, auch nicht aus dem, was sie aus den Büchern kennt. Dass sie eine Blüte getragen hat, violett, und dass die Blüte Licht gibt." Er ließ den Satz einen Atemzug stehen. „Und dass sie auf Alphinas Hand reagiert hat, stärker als alles, was Alphina bisher berührt hat."
 
 Er hob das Blatt zwischen Daumen und Zeigefinger an, hielt es gegen die Petroleumlampe. Das Licht ging nicht durch; das Blatt war zu dick.
 

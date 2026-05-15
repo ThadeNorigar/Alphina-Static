@@ -212,6 +212,6 @@ Vesper setzte sich an den Tisch. Maren hörte den Stuhl, hörte das Rascheln der
 
 Er arbeitete im Dunkeln. Aus dem Gedächtnis, wie immer.
 
-Sie hatte seit Solha neben keinem Mann geschlafen, der wach war und an sie dachte. Er dachte an sie. Einfach an sie. Die Matte war dicht unter ihr. Der Gehrock schwer und warm über den Schultern. Das Pochen aus der Session war noch da, tief und gleichmäßig wie das Wasser unter den Planken, aber sie trug es nicht mehr allein. Es pochte, und sie schlief.
+Sie hatte seit Solha neben keinem Mann geschlafen, der wach war und an sie dachte. Er dachte an sie. Einfach an sie. Die Matte war dicht unter ihr. Der Gehrock schwer und warm über den Schultern. Das Pochen war noch da, tief und gleichmäßig wie das Wasser unter den Planken, aber sie trug es nicht mehr allein. Es pochte, und sie schlief.
 
 Sie blieb.

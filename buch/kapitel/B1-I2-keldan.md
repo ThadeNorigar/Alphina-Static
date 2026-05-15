@@ -24,7 +24,7 @@ Keldan nahm das Stück aus der Zange und legte es auf den Boden. Auf den nackten
 
 Der Ton kam sofort.
 
-Tief, gleichmäßig, ein Summen das im Bauch anfing und im Kiefer endete. Elke kannte Töne. Der Purpurstein summte auch, wenn sie die Hand drauflegt, aber leiser, geduldiger. Das Eisen auf dem Stein klang anders. Lauter. Drängender. Als antwortete das Metall auf etwas das der Stein sagte, eine Resonanz zwischen zwei Materialien die nicht zueinander gehörten und die sich trotzdem kannten.
+Tief, gleichmäßig, ein Summen das im Bauch anfing und im Kiefer endete. Elke kannte Töne. Der Purpurstein summte auch, wenn sie die Hand drauflegt, aber leiser, geduldiger. Das Eisen auf dem Stein klang anders. Lauter. Drängender. Als antwortete das Metall auf etwas das der Stein sagte, ein Klingen zwischen zwei Materialien die nicht zueinander gehörten und die sich trotzdem kannten.
 
 "Das macht es seit ich an der Küste bin," sagte Keldan. Er sprach langsam, jedes Wort einzeln, mühsam. "Ich lege das Eisen auf den Boden, und es singt. Zu Hause hat es das nie getan. In dreiundzwanzig Jahren nicht."
 

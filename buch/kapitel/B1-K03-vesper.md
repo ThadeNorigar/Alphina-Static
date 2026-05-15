@@ -144,7 +144,7 @@ Der Turm ruhte still in seiner Tasche.
 
 "Das Haus steht auf Fels. Purpurstein. Massiv."
 
-Frage um Frage. Jede Antwort schloss eine Tür. Temperatur: nein. Material: nein. Resonanz: nein. Pendellänge: korrekt. Gewicht: korrekt. Hemmung: sauber. Vespers Verstand arbeitete wie seine Hände an einem Uhrwerk: systematisch, Schritt für Schritt, jede Möglichkeit geprüft und eliminiert. Hinter der letzten geschlossenen Tür stand die Zahl. 273. Allein. Ohne Erklärung.
+Frage um Frage. Jede Antwort schloss eine Tür. Temperatur: nein. Material: nein. Schwingung: nein. Pendellänge: korrekt. Gewicht: korrekt. Hemmung: sauber. Vespers Verstand arbeitete wie seine Hände an einem Uhrwerk: systematisch, Schritt für Schritt, jede Möglichkeit geprüft und eliminiert. Hinter der letzten geschlossenen Tür stand die Zahl. 273. Allein. Ohne Erklärung.
 
 "Konnten Sie es reparieren?"
 
