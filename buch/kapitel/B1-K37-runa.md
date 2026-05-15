@@ -173,3 +173,49 @@ Zwischen zwei dunklen Stämmen löste sich für einen Augenblick eine Gestalt au
 Runa nahm die Hand langsam vom Farnwedel.
 
 Im Steinkreis hatten Alphina und Sorel noch nichts bemerkt.
+
+Die zweite Gestalt stand schon drei Schritte weiter rechts, zwischen zwei Stämmen, wo eben noch nichts gewesen war.
+
+Runa blinzelte. Die erste im Augenwinkel, jetzt eine zweite. Dann, ohne Übergang, eine dritte, kniehoch, vierbeinig, mit dunklen Flanken, die im Sternenlicht so stumpf wirkten, als wäre die Oberfläche aus Oxid gepresst.
+
+Lautlos. Kein Schritt im Laub, kein Knacken, kein Atemzug, der die Luft veränderte. Sie tauchten einfach auf, dort wo eben noch leere Schwärze gewesen war.
+
+Das kniehohe Wesen bewegte sich auf sie zu.
+
+Runa saß still. Sie ließ die Hände offen auf den Oberschenkeln, spreizte die Finger ein Stück, weil das ruhiger aussah als die Fäuste, die ihre Armmuskeln gerade verlangten. Das Wesen blieb zwei Spannen vor ihr stehen. Die schwarzen Augen hatten keine Lider; sie bewegten sich nicht, blinzelten nicht, richteten sich auf sie ein wie Glas in einem Rahmen. Aus zwanzig Schritt Distanz würde jede Bewegung, die sie machte, lesbar sein wie Schrift auf weißem Papier, und Alphina und Sorel hatten noch immer nichts bemerkt. Runa hielt den Rücken, hielt die Hände, hielt den Atem.
+
+Flach. Durch die Nase.
+
+Das Wesen streckte etwas aus, das den Vorderpfoten ähnelte, und stupste kurz gegen den Saum ihres Mantels. Ein einziger Kontakt, so leicht wie ein Insekt, dann zog es sich zurück und sah sie weiter an.
+
+In ihrer Brust entstand ein Ton ohne Herkunft, weniger gehört als gefühlt, ein dumpfes Schnurren, das sich kaum von ihrem eigenen Herzschlag trennen ließ.
+
+Das Wesen tat nichts mehr. Es sah sie nur an.
+
+Runa ließ die Schultern einen Fingerbreit absinken. Sie registrierte, dass die anderen Gestalten am Garten-Rand ebenso reglos warteten, hoch und schmal, mit Armen, die zu lang für ihre Statur ausfielen, ohne dass irgendetwas in ihrer Körperhaltung Drohung signalisierte. Sie blieben dort wie die Linden, und ein Licht, dünn wie Morgendunst, schloss den Steinkreis in der Mitte des Gartens ein; wo dieses Licht auf die Erde traf, hielten die Gestalten an. Keine einzige überschritt es. Es wirkte so eindeutig wie eine geschlossene Tür.
+
+Sie taten ihr nichts.
+
+Das wusste sie nicht als Gedanke, sie wusste es früher als das, in den Händen, in den Schultern, in der abgelegten Faust.
+
+Schritte.
+
+Gleichmäßiger, schwerer als die Stille um sie, aus dem Schatten unter den Bäumen am Hauptweg. Runa hob den Kopf leicht. Vesper kam zuerst in den Sichtbereich, Werkzeugrolle unter dem linken Arm, Mantel eng zugezogen; Maren direkt dahinter, eine Tasche schwer über der Schulter, und rechts an ihrer Seite schwang etwas Eingerolltes in Sackleinen. Der Hammer, erkennbar an der Schwingung, am Gewicht, das in der Bewegung kurz nachhing.
+
+Vesper blieb stehen. Ein, zwei Atemzüge.
+
+Maren setzte noch einen Schritt, hob das Kinn. Sie sagte nichts. Sie sah in den Garten, ließ den Blick über die Gestalten an den Mauern gleiten, über die zwischen den Linden, mit derselben ruhigen Aufmerksamkeit, mit der man eine Werft nach dem Sturm begutachtete.
+
+Dann gingen beide weiter, Vesper voran, Maren ohne Zögern hinterher.
+
+Die Wesen rührten sich nicht, als die zwei die Lichtgrenze der Steine überschritten. Kein Zucken in den Flanken, kein Zurückweichen, kein Vordrängen. Nur dieses geduldige Stehen, diese schwarzen Augen ohne Lider.
+
+Im Kreis, zwanzig Schritte entfernt, bewegten sich Münder. Alphinas Mund formte etwas; Runa sah das Nicken, das Vesper ihr zurückgab, Marens kurzen Satz, den Sorel mit einer knappen Geste beantwortete. Kein Wort davon trug durch die Nacht. Nur das Bild: vier Menschen an den Steinen, die Hände beschäftigt mit dem Ablegen. Maren stellte etwas Schweres auf den Kies. Vesper bückte sich kurz, legte die Werkzeugrolle neben dem westlichen Stein ab.
+
+Die Aufstellung setzte sich fest.
+
+Alphina und Sorel am südlichen Stein, noch immer Schulter an Schulter. Vesper und Maren gegenüber, der Hammer neben Maren im Kies, die Werkzeugrolle an Vespers Seite. Drei der Steine zwischen ihnen blieben unbesetzt.
+
+Das kniehohe Wesen neben Runa sah nicht mehr sie an. Es sah in den Kreis.
+
+Dann veränderte sich etwas in der Luft, so wenig, dass sie nicht hätte sagen können, ob es Temperatur war oder Druck oder der Geruch des Laubs, der anders wurde, der Garten, der die Luft einzog.
