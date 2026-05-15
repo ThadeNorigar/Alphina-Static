@@ -2,7 +2,7 @@
 
 *15. Frostmond 154 · 6 Wochen in Vael*
 
-Der Frostmond lag auf Vael, und die Schmiede am Hafen lag tief, halb in den Fels gebaut, und das Feuer in der Esse brannte seit dem Morgen. Elke hörte den Hammer drei Gassen weit: ein einzelner Schlag, dann Stille, dann ein zweiter, langsamer als er hätte sein sollen, als dächte der Mann zwischen den Schlägen nach.
+Der Frostmond lag über Vael, blass und schwer zwischen den tiefhängenden Wolken, und unten am Hafen arbeitete Keldan Rohn noch immer in seiner Schmiede, obwohl die Glocke der dritten Nachtwache längst verklungen war. Zwischen den Häusern hing Nebel vom Wasser herauf, und Elke hörte den Hammer drei Gassen weit: einen einzelnen Schlag, hart genug, dass er durch den Stein unter ihren Stiefeln ging, dann eine lange Pause, und schließlich einen zweiten, langsamer geführt, als dächte der Mann am Amboss zwischen den Schlägen nach.
 
 Keldan Rohn stand am Amboss, die Zange in der linken Hand, den Hammer in der rechten, und das Eisen unter dem Hammer war falsch. Elke sah es von der Tür aus: die Art wie der Barren sich bog, nachgiebig, fast willig, als wäre er Zinn und nicht Eisen. Keldan schlug, und das Metall gab nach, zu schnell, zu weich, und er hielt inne und schaute das Stück an, und sein Mund wurde schmal.
 
@@ -10,9 +10,7 @@ Keldan Rohn stand am Amboss, die Zange in der linken Hand, den Hammer in der rec
 
 Keldan nickte. Er legte den Hammer auf den Amboss und wischte sich die Hände an der Schürze ab, große Hände, deren Knöchel von Jahren am Feuer geschwollen waren. Die Schwielen auf seinen Handflächen waren so dick, dass die Haut dort eine andere Farbe hatte, gelb und hart wie Horn. Ein Schmied, durch und durch, von den Schultern bis zu den Fingerspitzen, und der Schmied verstand sein Eisen nicht mehr.
 
-Aldert, der Wirt, hatte sie zusammengebracht. In der ersten Woche, als Elke noch glaubte, der Purpurstein am Klippenrand wäre erklärbar und das Pochen im Fels ein Erdbeben das niemand sonst spürte. "Da ist ein Schmied am Hafen," hatte Aldert gesagt, "der sagt sein Eisen singt." Elke war hingegangen, und sie hatten auf dem Marktplatz gestanden, im Nebel, sie mit dem Steinstaub in den Haaren und den rissigen Händen und den Sätzen die zu schnell kamen, er mit den breiten Schultern und dem Schweigen das schwerer wog als ihre Worte. Ein Mann der sein Material kannte und dem sein Material gerade sagte, dass die Regeln sich geändert hatten. Elke kannte das Gefühl. Seit sechs Wochen kannte sie nichts anderes.
-
-Die Schmiede roch nach Kohle und nach heißem Eisen und nach dem Salz das der Wind vom Hafen hereintrug. Aber darunter lag ein anderer Geruch, derselbe der am Klippenrand aus den Rissen stieg: tief, mineralisch, warm, ein Geruch der aus dem Boden unter dem Feuer aufstieg. Die Esse stand auf nacktem Fels, Purpurstein, und die Stelle wo der Fels durch den Lehmboden brach, war dunkler als der Rest, fast schwarz, und warm. Immer warm.
+Die Schmiede lag halb im Fels, tief in die Klippen gebaut, damit die Wärme im Winter hielt, und sie roch nach Kohle, nach heißem Eisen, nach heißem Öl und Metallstaub und nach dem Salz das der Wind vom Hafen hereintrug. Aber darunter lag ein anderer Geruch, derselbe der am Klippenrand aus den Rissen stieg: tief, mineralisch, warm, ein Geruch der aus dem Boden unter dem Feuer aufstieg. Die Esse stand auf nacktem Fels, Purpurstein, und die Stelle wo der Fels durch den Lehmboden brach, war dunkler als der Rest, fast schwarz, und warm. Immer warm.
 
 "Ich habe am Morgen Kohle nachgelegt," sagte Keldan. "Drei Schaufeln, wie sonst auch. Das reicht für eine halbe Stunde auf Weißglut." Er zeigte auf die Esse. "Es brennt seit dem Morgen. Weißglut. Ich habe keine Kohle mehr nachgelegt."
 
@@ -74,4 +72,4 @@ Keldan schwieg einen Moment. "Noch zwei," sagte er leise.
 
 Keldan legte den Daumen auf den Mund der Glocke. Das Eisen summte unter seiner Berührung, leise, fast zärtlich, ein Ton den Elke in der Brust spürte. Er nickte, langsam, einmal. Seine Schultern sanken einen Fingerbreit, und die Falte zwischen seinen Brauen, die Elke in sechs Wochen nicht verschwinden gesehen hatte, wurde weicher. Ein Mann der seit sieben Wochen allein mit etwas Unmöglichem gelebt hatte und der gerade erfahren hatte, dass das Unmögliche in ihm selbst wohnte.
 
-Elke ging. Die Gasse war dunkel und der Nebel lag auf dem Kopfsteinpflaster und unter ihren Stiefeln summte der Purpurstein, leise, geduldig, und in der Schmiede hinter ihr brannte ein Feuer das keine Kohle brauchte, und auf dem Amboss stand eine kleine Glocke, die niemand gegossen hatte, und wenn der Wind durch die Ritzen zog, klang sie ganz leise.
+Elke ging. Die Gasse war dunkel und der Nebel lag auf dem Kopfsteinpflaster und unter ihren Stiefeln summte der Purpurstein, leise, geduldig, und in der Schmiede hinter ihr brannte ein Feuer das keine Kohle brauchte, und auf dem Amboss stand eine kleine Glocke, die niemand gegossen hatte, und wenn der Wind durch die Ritzen zog, antwortete sie ihm mit einem hellen, feinen Klang.
