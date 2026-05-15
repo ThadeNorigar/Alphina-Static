@@ -366,7 +366,7 @@ Sie zog sich die drei Stufen zurück, die Hand am Geländer, das Eichenholz kann
 
 Den Bogen über den Hafen, an den Werftbecken vorbei. Pech in der Luft, kalter Tau auf dem Bogenstein, irgendwo eine Kette gegen Eisen.
 
-In der Werkstatt zündete sie nichts an. Sie ging zum Haken neben dem Trockenraum. Jorans Mantel hing dort seit drei Wochen, schwarz, der Kragen roch nach Tabak. Sie nahm ihn ab, hielt ihn an den Schultern gegen ihre, eine Nummer zu groß, legte ihn über die Klinke des Trockenraums. Sie zog die Stiefel an, schwarz und abgetragen, die Sohlen noch feucht von der Hafengasse. Sie nahm die kleine Laterne von der Werkbank, drehte den Daumen an die Öl-Schraube, der Brennstoff stand gedrosselt. Aus der Holzkiste neben der Presse griff sie drei Bleistempel, eichelförmig, mit denen sie sonst Auftragsbögen markierte. Sie wog sie in der Handinnenfläche, legte sie auf den Mantel.
+In der Werkstatt zündete sie nichts an. Sie ging zum Haken neben dem Trockenraum. Jorans Mantel hing dort seit drei Wochen, schwarz, der Kragen roch nach Tabak. Sie nahm ihn ab, hielt ihn an den Schultern gegen ihre, eine Nummer zu groß, legte ihn über die Klinke des Trockenraums. Sie zog die Stiefel an, schwarz und abgetragen, die Sohlen noch feucht von der Hafengasse. Sie nahm die kleine Laterne von der Werkbank, drehte den Daumen an die Öl-Schraube, der Brennstoff stand gedrosselt. Sie legte sie neben den Mantel.
 
 Die Stiege hinauf. Die dritte Stufe knarrte. Die siebte. Oben, in der Wohnung, setzte sie sich auf die Kante des Bettes, dort wo das Streiflicht der Laterne durch das Fenster fiel.
 

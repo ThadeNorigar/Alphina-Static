@@ -6,11 +6,9 @@ Der Zettel lag noch auf dem Setzkasten, genau dort, wo sie ihn am Mittag hingele
 
 Sie blieb einen Moment davor stehen, ohne den Zettel zu berühren. Durch das Vorderfenster fiel das letzte Tageslicht flach in den Raum und zog sich über die Kanten der Setzkästen, über die Bleifächer, über die schmale Schere neben dem Winkelhaken. Staub hing still in der Luft. Aus dem Trockenraum kam der Geruch von Papierleim und kaltem Holz.
 
-Dann griff sie nach den drei Bleistempeln.
+Sie strich kurz über die Innentasche ihres Wollmantels und prüfte mit den Fingerkuppen das gewohnte Gewicht: das kleine Notizbuch in rotem Leinen, die flache Zinnflasche, den Stoffbeutel mit den Bleilettern, die drei Dinge, die sie seit dem Frühjahr immer am Körper trug. Alles auf seinem Platz.
 
-Sie lagen nebeneinander am Rand der Werkbank, eichelförmig, dunkel vom Gebrauch und schwerer, als ihre Größe vermuten ließ. Einen Augenblick hielt sie sie einfach in der Hand, spürte das vertraute Gewicht gegen ihre Fingerkuppen, bevor sie sie in die Innentasche ihres Wollmantels schob, zu dem kleinen Notizbuch in rotem Leinen, zur flachen Zinnflasche und dem Stoffbeutel mit den Bleilettern. Die Stempel sanken tief in die Tasche und zeichneten sich sofort gegen den Stoff ab.
-
-Die Laterne nahm sie danach. Sie hob den Deckel an, prüfte den Brennstoff mit dem Daumen und roch kurz daran; das Öl stand niedrig, gerade hoch genug für ein paar Stunden. Bis Mitternacht vielleicht, wenn der Wind ruhig blieb.
+Die Laterne nahm sie zuerst. Sie hob den Deckel an, prüfte den Brennstoff mit dem Daumen und roch kurz daran; das Öl stand niedrig, gerade hoch genug für ein paar Stunden. Bis Mitternacht vielleicht, wenn der Wind ruhig blieb.
 
 Sie stellte die Laterne auf den Boden und wandte sich zum Trockenraum.
 
@@ -219,3 +217,37 @@ Alphina und Sorel am südlichen Stein, noch immer Schulter an Schulter. Vesper u
 Das kniehohe Wesen neben Runa sah nicht mehr sie an. Es sah in den Kreis.
 
 Dann veränderte sich etwas in der Luft, so wenig, dass sie nicht hätte sagen können, ob es Temperatur war oder Druck oder der Geruch des Laubs, der anders wurde, der Garten, der die Luft einzog.
+
+Die Luft im Steinkreis verdichtete sich nicht langsam, sondern in einem Ruck, als wäre etwas zusammengedrückt worden, das keine Form hatte.
+
+Runa sah die Farne aufschießen. Die, die schon über ihre Knöchel gereicht hatten, trieben jetzt hüfthoch, neue Triebe fuhren zwischen den äußeren Steinen aus dem Boden, Spannen-hoch und dicht, und die Luft schmeckte nach feuchter Erde und etwas anderem darunter, das sie nicht benennen konnte. Gleichzeitig stieg der Nebel. Aus dem ganzen Boden zwischen den Steinen auf einmal, zu schnell und zu dicht für diesen Garten, für diese Nacht, für jede Nacht, die Runa kannte. Er stieg hüfthoch, dann schulterbreit um jeden der vier, und in ihm war Sorels Licht zu sehen, schmal und scharf an den Rändern, aus seinen Handflächen, goldgelb und kalt zugleich, und weil der Nebel ihn aufnahm, diffundierte er von innen heraus und machte die ganze Wolke zu etwas Leuchtendem, das keine Lampe je gemacht hätte.
+
+Ihr Atem rutschte.
+
+Zu kurz. Sie holte Luft, bevor sie die vorherige zu Ende geatmet hatte, dann zu lang, zu viel Pause danach. Nichts im Garten hatte sich verändert, die Steine standen, die Wesen hielten die Lichtgrenze, das kniehohe Wesen neben ihr blieb reglos. Aber ihr Brustkorb folgte einem Rhythmus, der nicht ihrem gehörte.
+
+Dann brach die Luft auf.
+
+Nicht die Erde, nicht der Stein, sondern die Luft selbst, im Zentrum des Kreises, auf Höhe ihrer Knie, und von da aufwärts, bis auf Schulterhöhe, ein Riss in dem, was bisher Raum gewesen war. Er hatte keine Farbe und keine Kanten, nicht so wie ein Riß in Papier Kanten hat, und doch sah sie ihn scharf: die Wunde in der Luft, das Aufplatzen der Grenze zwischen hier und einem Dahinter. Was dahinter lag, hatte Boden. Halme, fremdartig, trocken wirkend, flach im Licht von zwei Monden, die beide klein und hoch hingen, zu weit voneinander und zur selben Zeit im Blickfeld.
+
+Vesper ging zuerst.
+
+Gleichmäßiger Schritt, als trete er durch eine offene Tür. Keine Hast, kein Innehalten. Er verschwand, und Runa ließ den Atem raus, ohne es zu merken. Sorel ging als zweiter, einen halben Schritt vor Alphina, der Körper quer gestellt für einen Moment, als wollte er sich zwischen sie und das stellen, was kommen mochte. Dann Maren mit dem Hammer lose in der Hand, den Sack weggelegt, den Hammer selbst gehalten. Dann Alphina.
+
+Der Riss blieb offen. Er zuckte an den Rändern.
+
+Runa wartete. Eine Minute, vielleicht weniger. Das kniehohe Wesen neben ihr saß, sah sie nicht an, sah in den Kreis. Die Ränder des Risses wurden schmaler. Langsam, aber sichtbar, die Wunde zog sich zusammen, das Licht der fremden Monde verengte sich, der Spalt enger, enger, und Runa wusste, was das bedeutete. Ihr Körper hatte es entschieden, bevor der Kopf folgte.
+
+Sie stand auf.
+
+Die Laterne stand neben dem Lindenstamm, ungezündet. Sie ließ sie stehen.
+
+Das kniehohe Wesen rührte sich nicht. Runa lief.
+
+Durch die wachsenden Farne, die jetzt hüfthoch waren und ihr die Schenkel streiften, durch den Nebel, der kalt gegen ihr Gesicht schlug, zwischen zwei Wesen am Garten-Rand hindurch, die standen und nicht auswichen, aber auch nicht im Weg standen, als hätten sie gewusst, wo sie vorbeikommen würde. Die Wärme zwischen Daumen und Zeigefinger zog kurz, ohne dass sie etwas wollte. Der Riss kam näher, zwei Schritte, einen Schritt, die Ränder zitterten und verengten sich, das Licht der anderen Seite wurde ein schmaler Strich.
+
+Sie sprang.
+
+Nicht mit Anlauf, nicht berechnet, nur mit dem Körpergewicht nach vorne geworfen, die Beine beisammen, der Kopf unten, durch den Spalt, durch die Wunde in der Luft, durch das, was keinen Namen hatte, den sie kannte.
+
+Der Geruch änderte sich. Trockenere Erde. Halme. Zwei Monde.
