@@ -1,8 +1,8 @@
 # B1-K28 — Maren
 
-*1. Nebelmond 551 · 26 Wochen 1 Tag in Vael*
+*1. Nebelmond 551 · 27 Wochen 5 Tage in Vael*
 
-Maren wachte um zwei Uhr nachts auf, weil die Grauwe gegen die Stegpfähle schlug, der Schlag eine Spur zu kurz, eine Spur zu hart. Vesper schlief neben ihr, das Gesicht zur Wand, eine Handbreit unter der Wolldecke, fünf Monate, seit er im Glutmond eingezogen war. Sie blieb liegen und hörte zu. Das Geräusch hörte nicht auf. Nach einer Stunde stand sie auf und ging ins Wohnzimmer, weil sie ihn nicht wecken wollte.
+Maren wachte um zwei Uhr nachts auf, weil die Grauwe gegen die Stegpfähle schlug, der Schlag eine Spur zu kurz, eine Spur zu hart. Vesper schlief neben ihr, das Gesicht zur Wand, eine Handbreit unter der Wolldecke, drei Monate, seit er im Glutmond eingezogen war. Sie blieb liegen und hörte zu. Das Geräusch hörte nicht auf. Nach einer Stunde stand sie auf und ging ins Wohnzimmer, weil sie ihn nicht wecken wollte.
 
 Sie ließ das Leinenhemd an, in dem sie geschlafen hatte. Beim Greifen nach dem Wollrock auf der Truhe streifte ihre Hand den Saum an der Innenseite, unten an der rechten Hüfte: ein Rest Tinte, und darunter Vesper. Drei Wäschen hatten den Geruch nicht weggebracht. Sie senkte die Hand und schnürte den Gürtel locker. Mieder, Mantel und Stiefel blieben liegen, der Lederriemen am Handgelenk auch.
 

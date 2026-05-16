@@ -1629,53 +1629,6 @@
     },
     {
       "tz": 551,
-      "tz_sort": 551.49,
-      "tz_datum": "25. Blütenmond 551 TZ",
-      "welt": "thalassien",
-      "pov": "Vesper",
-      "buch": "B1",
-      "kapitel": "26",
-      "leseart": "normal",
-      "titel": "Gruppe in Marens Wohnung — Entscheidung zum Durchgang und Training",
-      "detail": "Marens Wohnung. Datenabgleich: Uhren-Drift (Vesper), Gezeiten (Maren), Farne und Moragh-Geruch (Alphina), Platten-Anomalien (Sorel). Halvards Patienten-Berichte dazu. Erkenntnis: die Phänomene sind systematisch, nicht zufällig — etwas kommt aktiv durch. Entscheidung: sie gehen auf die andere Seite, aber vorher trainieren sie ihre Kräfte und lernen Moragh-Sprache und Ritual-Anweisungen. K33 ist die Ausführung, nicht die Debatte. Vesper bemerkt erste Korrelation zwischen Uhren-Drift und Gezeiten, noch ohne Erklärung — Seed für K32. Am Ende gehen Sorel und Alphina; Vesper und Maren bleiben in Marens Wohnung, um an der Übersetzung weiterzuarbeiten — nahtloser Übergang zu K27.",
-      "typen": [
-        "erkenntnis",
-        "tschechow",
-        "wissen"
-      ],
-      "tags": [
-        "Entscheidung: Durchgang + Training",
-        "Motivation für 3-Monats-Zeitsprung (Trainings-/Lernphase)",
-        "Tschechow: Drift-Gezeiten-Korrelation (Seed für K33-Schwerkraft)",
-        "V+M bleiben -> Übergang K27"
-      ],
-      "kapitel_status": "szenenplan"
-    },
-    {
-      "tz": 551,
-      "tz_sort": 551.495,
-      "tz_datum": "25. Blütenmond 551 TZ",
-      "welt": "thalassien",
-      "pov": "Maren",
-      "buch": "B1",
-      "kapitel": "27",
-      "leseart": "normal",
-      "titel": "Vesper + Maren: erste Dom/Sub-Nacht in Marens Wohnung",
-      "detail": "Direkter Anschluss an K26 — die anderen sind gegangen, Vesper und Maren sitzen in Marens Wohnung zwischen Moragh-Sprachbuch und Übersetzungen. Kerzen heruntergebrannt, die Luft dicht von altem Papier und warmem Wachs. Vesper zeigt auf eine Zeile, legt die Hand auf ihre Schulter — dieselbe Geste wie in K19, aber ohne Verband, ohne Ausrede. Er nimmt die Hand nicht weg. Sie bewegt sich nicht. Was folgt ist ruhig, präzise. Er gibt ihr wenig Bewegungsspielraum; sie entdeckt, dass das der Zustand ist, in dem ihr Kopf aufhört zu laufen. Danach schläft sie sofort ein, sein Mantel über den Schultern. Vesper bleibt wach, übersetzt weiter.",
-      "typen": [
-        "erotik",
-        "beziehung"
-      ],
-      "tags": [
-        "Erste Dom/Sub-Nacht Vesper+Maren",
-        "Ortswechsel vom alten Canon: Marens Wohnung statt Archiv",
-        "Rhyme zu K19 (Hand auf Schulter, diesmal ohne Ausrede)",
-        "Maren bleibt (Tschechow für K36)"
-      ],
-      "kapitel_status": "szenenplan"
-    },
-    {
-      "tz": 551,
       "tz_sort": 551.5,
       "tz_datum": "26. Blütenmond 551 TZ",
       "welt": "thalassien",
@@ -1740,6 +1693,53 @@
         "Setup für K39 (Sterben mit Licht aus dem Körper)"
       ],
       "kapitel_status": "hintergrund"
+    },
+    {
+      "tz": 551,
+      "tz_sort": 551.505,
+      "tz_datum": "26. Blütenmond 551 TZ",
+      "welt": "thalassien",
+      "pov": "Vesper",
+      "buch": "B1",
+      "kapitel": "26",
+      "leseart": "normal",
+      "titel": "Gruppe in Marens Wohnung — Entscheidung zum Durchgang und Training",
+      "detail": "Marens Wohnung. Datenabgleich: Uhren-Drift (Vesper), Gezeiten (Maren), Farne und Moragh-Geruch (Alphina), Platten-Anomalien (Sorel). Halvards Patienten-Berichte dazu. Erkenntnis: die Phänomene sind systematisch, nicht zufällig — etwas kommt aktiv durch. Entscheidung: sie gehen auf die andere Seite, aber vorher trainieren sie ihre Kräfte und lernen Moragh-Sprache und Ritual-Anweisungen. K33 ist die Ausführung, nicht die Debatte. Vesper bemerkt erste Korrelation zwischen Uhren-Drift und Gezeiten, noch ohne Erklärung — Seed für K32. Am Ende gehen Sorel und Alphina; Vesper und Maren bleiben in Marens Wohnung, um an der Übersetzung weiterzuarbeiten — nahtloser Übergang zu K27.",
+      "typen": [
+        "erkenntnis",
+        "tschechow",
+        "wissen"
+      ],
+      "tags": [
+        "Entscheidung: Durchgang + Training",
+        "Motivation für 3-Monats-Zeitsprung (Trainings-/Lernphase)",
+        "Tschechow: Drift-Gezeiten-Korrelation (Seed für K33-Schwerkraft)",
+        "V+M bleiben -> Übergang K27"
+      ],
+      "kapitel_status": "szenenplan"
+    },
+    {
+      "tz": 551,
+      "tz_sort": 551.51,
+      "tz_datum": "26. Blütenmond 551 TZ",
+      "welt": "thalassien",
+      "pov": "Maren",
+      "buch": "B1",
+      "kapitel": "27",
+      "leseart": "normal",
+      "titel": "Vesper + Maren: erste Dom/Sub-Nacht in Marens Wohnung",
+      "detail": "Direkter Anschluss an K26 — die anderen sind gegangen, Vesper und Maren sitzen in Marens Wohnung zwischen Moragh-Sprachbuch und Übersetzungen. Kerzen heruntergebrannt, die Luft dicht von altem Papier und warmem Wachs. Vesper zeigt auf eine Zeile, legt die Hand auf ihre Schulter — dieselbe Geste wie in K19, aber ohne Verband, ohne Ausrede. Er nimmt die Hand nicht weg. Sie bewegt sich nicht. Was folgt ist ruhig, präzise. Er gibt ihr wenig Bewegungsspielraum; sie entdeckt, dass das der Zustand ist, in dem ihr Kopf aufhört zu laufen. Danach schläft sie sofort ein, sein Mantel über den Schultern. Vesper bleibt wach, übersetzt weiter.",
+      "typen": [
+        "erotik",
+        "beziehung"
+      ],
+      "tags": [
+        "Erste Dom/Sub-Nacht Vesper+Maren",
+        "Ortswechsel vom alten Canon: Marens Wohnung statt Archiv",
+        "Rhyme zu K19 (Hand auf Schulter, diesmal ohne Ausrede)",
+        "Maren bleibt (Tschechow für K36)"
+      ],
+      "kapitel_status": "szenenplan"
     },
     {
       "tz": 551,
@@ -2009,27 +2009,6 @@
     },
     {
       "tz": 551,
-      "tz_sort": 551.62,
-      "tz_datum": "14. Nebelmond 551 TZ",
-      "welt": "thalassien",
-      "pov": "Alphina",
-      "buch": "B1",
-      "kapitel": "32",
-      "leseart": "normal",
-      "titel": "Schemen-Angriff am Tag — Runas Hände glühen, Feuer-Resonanz entdeckt",
-      "detail": "Ein Schemen tötet einen Händler am Hafen — am helllichten Tag. Thar-Schemen, Metallgeruch, andere Fraktion als Varen. Runa steht neben Alphina. Ihre Hände glühen buchstaeblich, Brandfleck auf dem Holz. 'Runa. Deine Hände.' Feuer-Resonanz entdeckt. Alphina weiß: nicht vier — fünf.",
-      "typen": [
-        "erkenntnis",
-        "tschechow"
-      ],
-      "tags": [
-        "Erkenntnis: Runa hat Feuer-Resonanz",
-        "Tschechow: Thar-Schemen (andere Fraktion)"
-      ],
-      "kapitel_status": "szenenplan"
-    },
-    {
-      "tz": 551,
       "tz_sort": 551.605,
       "tz_datum": "9. Nebelmond 551 TZ",
       "welt": "thalassien",
@@ -2049,6 +2028,27 @@
         "Entschluss: helfen, nicht verletzt",
         "Heimliche Eifersucht ohne Groll",
         "Setup für K34 'Ich komme mit'"
+      ],
+      "kapitel_status": "szenenplan"
+    },
+    {
+      "tz": 551,
+      "tz_sort": 551.62,
+      "tz_datum": "14. Nebelmond 551 TZ",
+      "welt": "thalassien",
+      "pov": "Alphina",
+      "buch": "B1",
+      "kapitel": "32",
+      "leseart": "normal",
+      "titel": "Schemen-Angriff am Tag — Runas Hände glühen, Feuer-Resonanz entdeckt",
+      "detail": "Ein Schemen tötet einen Händler am Hafen — am helllichten Tag. Thar-Schemen, Metallgeruch, andere Fraktion als Varen. Runa steht neben Alphina. Ihre Hände glühen buchstaeblich, Brandfleck auf dem Holz. 'Runa. Deine Hände.' Feuer-Resonanz entdeckt. Alphina weiß: nicht vier — fünf.",
+      "typen": [
+        "erkenntnis",
+        "tschechow"
+      ],
+      "tags": [
+        "Erkenntnis: Runa hat Feuer-Resonanz",
+        "Tschechow: Thar-Schemen (andere Fraktion)"
       ],
       "kapitel_status": "szenenplan"
     },

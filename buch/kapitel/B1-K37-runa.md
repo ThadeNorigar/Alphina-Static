@@ -1,6 +1,6 @@
 # B1-K37 — Runa
 
-*2./3. Dunkelmond 551 · 32 Wochen 2/3 Tage in Vael*
+*2./3. Dunkelmond 551 · 32 Wochen 1/2 Tage in Vael*
 
 Der Zettel lag noch auf dem Setzkasten, genau dort, wo sie ihn am Mittag hingelegt hatte. Tarn, Setz-Korrektur vor der Wach-Patrouille, stand darauf in ihrer Handschrift, die Bleistiftlinie gleichmäßig, ohne Druckstellen, ohne Zittern. Nur die Setz-Korrektur selbst gab es nicht. Der Rahmen lag leer neben der Presse, und unter dem eisernen Hebel klebte ein dünner Streifen getrockneter Schwärze, den niemand weggewischt hatte.
 

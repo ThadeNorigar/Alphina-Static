@@ -1,6 +1,6 @@
 # B1-K31 — Runa
 
-*8. Nebelmond 551 · 25 Wochen 6 Tage in Vael*
+*9. Nebelmond 551 · 28 Wochen 6 Tage in Vael*
 
 Halvard war vor einer Stunde mit dem Karren weggefahren. Joran lag darin, unter einem Tuch. Runa stand in der leeren Druckerei und sah sich um.
 

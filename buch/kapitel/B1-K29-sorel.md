@@ -1,6 +1,6 @@
 # B1-K29 — Sorel
 
-*6. Nebelmond 551 · 25 Wochen 4 Tage in Vael*
+*6. Nebelmond 551 · 28 Wochen 3 Tage in Vael*
 
 
 Heute Abend würde er wissen, ob er allein im Dunkeln blieb.

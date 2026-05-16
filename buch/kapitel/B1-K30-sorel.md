@@ -1,6 +1,6 @@
 # B1-K30 — Sorel
 
-*8. Nebelmond 551 · 25 Wochen 6 Tage in Vael*
+*8. Nebelmond 551 · 28 Wochen 5 Tage in Vael*
 
 
 Alphinas Hand lag auf seinem Brustbein, und Sorel hatte seit zwei Nächten nicht geschlafen.

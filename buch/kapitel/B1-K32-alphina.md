@@ -1,6 +1,6 @@
 # B1-K32 — Alphina
 
-*14. Nebelmond 551 · 26 Wochen 5 Tage in Vael*
+*14. Nebelmond 551 · 29 Wochen 4 Tage in Vael*
 
 
 Sechs Tage nach der Hafengasse-Nacht hinkte Sorel neben ihr über die lockeren Pflastersteine, und Alphina sah nicht hin. Sie hörte ihn: das Schleifen seiner rechten Sohle über das Pflaster, ein Versatz im Rhythmus, als wäre eine Sehne auf der falschen Seite zu kurz geworden. Sie zwang den Blick auf die Gasse vor ihr.

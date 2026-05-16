@@ -1,6 +1,6 @@
 # B1-K26 — Vesper
 
-*26. Blütenmond 551 · 8 Wochen 4 Tage in Vael*
+*26. Blütenmond 551 · 9 Wochen 3 Tage in Vael*
 
 Die zwei Uhren hatten ihn vier Stunden gekostet: eine Taschenuhr mit gerissener Spirale, eine Tisch-Pendule mit Feuchte in den Lagern, beide für morgen früh versprochen. Vesper kam zwölf Minuten zu spät an Marens Tür. Die halbe Stunde mit ihr allein, die er sich vorgenommen hatte, war auf der Werkbank geblieben. Er war den letzten Block schneller gegangen als sonst.
 

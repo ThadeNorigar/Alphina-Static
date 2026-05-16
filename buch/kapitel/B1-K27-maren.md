@@ -1,6 +1,6 @@
 # B1-K27 — Maren
 
-*26. Blütenmond 551 · 9 Wochen 1 Tag in Vael*
+*26. Blütenmond 551 · 9 Wochen 3 Tage in Vael*
 
 Die Tür fiel ins Schloss. Maren blieb mit der Hand am Drücker stehen, um die Restwärme aufzunehmen, die Alphinas Handfläche im Eisen hinterlassen hatte. Auf der Gasse verklangen Schritte, zwei Paar, gleichmäßig erst, dann verschluckt vom Wind Richtung Hafen. Sie ließ die Hand sinken und drehte sich in den Raum zurück.
 

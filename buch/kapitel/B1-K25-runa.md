@@ -1,6 +1,6 @@
 # B1-K25 — Runa
 
-*26. Blütenmond 551 · 9 Wochen 1 Tag in Vael*
+*26. Blütenmond 551 · 9 Wochen 3 Tage in Vael*
 
 Ihre Hand lag auf dem Türknauf der Druckerei, bevor sie wusste, dass sie ihn drehen würde. Drinnen knackte eine Diele unter Schritten, die Glocke an der Tür hing unbewegt. Alphina drückte. Die Glocke schlug zweimal an: einmal beim Aufschwingen, einmal beim Anstoßen der Tür gegen den Hemmer. Lampenruß und Firnis trafen sie, und unter der Schwärze etwas Wärmeres: Brot vom Mittag, vielleicht noch warm. Sie ließ die Tür hinter sich ins Schloss fallen.
 

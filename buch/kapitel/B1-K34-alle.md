@@ -1,6 +1,6 @@
 # B1-K34 — Alle
 
-*1. Dunkelmond 551 · 32 Wochen 1 Tag in Vael*
+*1. Dunkelmond 551 · 32 Wochen in Vael*
 
 Vesper hatte vier Dokumente vor sich und drei Menschen am Tisch, und keines davon würde ihm sagen, was er wissen wollte. Im Behälter stand das Lampenöl noch einen Fingerbreit, er hatte es nicht nachgefüllt; niemand hatte ihn darum gebeten. Verriegelte Holzläden, kein Spalt nach draußen. Auf dem Tisch der Drei-Spalten-Bogen, mit der Hand glattgestrichen, vier Zeilen Bleistift am Rand. Daneben Jaras Handschrift auf zwei losen Bögen, Lenes Archiv-Auszüge. Das Pergament aus der Werft, eine Ecke aufgerollt. Das Wörterbuch-Heft, Harons Block-Buchstaben auf dem Umschlag.
 

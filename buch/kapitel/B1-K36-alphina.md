@@ -1,6 +1,6 @@
 # B1-K36 — Alphina
 
-*2. Dunkelmond 551 · 32 Wochen 2 Tage in Vael*
+*2. Dunkelmond 551 · 32 Wochen 1 Tag in Vael*
 
 Im Dunkelmond lag der Himmel meist wie ein verschlossener Deckel über den Gärten, schwer von Dunst und Wolken, doch heute Nacht hatte der Nebel sich verzogen. Als Alphina den Kopf hob, spannte sich über dem Botanischen Garten ein klares Sternenfeld auf, weit und kalt und offen. Sie blieb neben dem niedrigen Anbau des Gärtnerhauses stehen und ließ den Blick im Licht über sich ruhen.
 

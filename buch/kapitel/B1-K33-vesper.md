@@ -1,6 +1,6 @@
 # B1-K33 — Vesper
 
-*30. Nebelmond 551 · 32 Wochen in Vael*
+*30. Nebelmond 551 · 31 Wochen 6 Tage in Vael*
 
 Vesper hatte die drei Stapel zum vierten Mal nebeneinander gelegt, weil die ersten drei Versuche ihm nichts verraten hatten.
 
