@@ -1764,6 +1764,32 @@
     },
     {
       "tz": 551,
+      "tz_sort": 551.512,
+      "tz_datum": "5. Glutmond 551 TZ",
+      "welt": "thalassien",
+      "pov": "Vesper",
+      "buch": "B1",
+      "kapitel": "B1-K27_5",
+      "leseart": "kapitel",
+      "titel": "Vesper-Einzug in die Hafengasse-Wohnung — Schachturm-Übergabe + Geheimfach-Naht",
+      "detail": "Vesper zieht aus dem Pensions-Zimmer im Anker aus und in Marens Hafengasse-Wohnung ein. Velims Brief aus Karst bestätigt die Werkstatt-Auflösung (drei Monate Mietzins, Rest verkauft/verschrottet) — Vesper antwortet knapp, beschließt die Trennung. Drei Holzkisten trägt er selbst durch die Hafengasse. Abends übergibt er Maren den Schachturm aus seiner Westentasche (Karst-Buchsbaum, 13 Jahre dort getragen): »Ich gebe ihn dir auf. Wenn du ihn stellst, weiß ich, dass du heute Nacht das willst, was wir vor zehn Wochen begonnen haben.« Konsens-Verhandlung: »Auch wenn ich tagelang nicht stelle?« — »Auch dann.« Maren prüft den Turm Werft-Reflex (Handrücken zuerst), stellt ihn neben sich (Sub-Choice), aktiviert ihn diesen Abend nicht. Vesper respektiert sofort. Mitten in der Nacht, schlaflos, näht Vesper in drei Stunden ein passgenaues Geheimfach in den Saum von Marens schwarzem Wollrock (Werft-Garn aus ihrem Kasten, Uhrmacher-Nadel aus seiner Rolle) — Réage-Disziplin als Antwort auf Marens Nicht-Aufstellen. Status idee — Ausarbeitung folgt.",
+      "typen": [
+        "kapitel",
+        "beziehung",
+        "intim"
+      ],
+      "tags": [
+        "Vesper-Einzug Hafengasse",
+        "Schachturm-Übergabe (Aktivierungs-Code)",
+        "Geheimfach-Naht (Tschechow K28 Z.7+13)",
+        "Karst-Werkstatt-Auflösung",
+        "V/M-Konsens-Architektur (\"Auch dann\")",
+        "Sub-Agency-Beat: Maren stellt nicht auf"
+      ],
+      "kapitel_status": "idee"
+    },
+    {
+      "tz": 551,
       "tz_sort": 551.515,
       "tz_datum": "12. Glutmond 551 TZ · Abend",
       "welt": "thalassien",
