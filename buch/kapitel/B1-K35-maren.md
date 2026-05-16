@@ -92,7 +92,7 @@ Sie hörte ihren eigenen Atem. Dann ging Vesper am Bettrahmen entlang, drei oder
 
 ---
 
-Vesper sah auf sie hinab. Sie hielt still, die Brust hob und senkte sich gleichmäßig, und ihr Mund stand einen Spalt offen unter dem Seidenband. Seine rechte Hand hatte sich auf dem Oberschenkel gespannt, der Daumen sich schon zu ihrer Hüfte geschoben. Er hielt ihn an. Die Hand drückte er flach auf das eigene Knie. Eine der Kerzen knisterte. Er atmete langsam aus.
+Vesper sah auf sie hinab. Sie hielt still, die Brust hob und senkte sich gleichmäßig, und ihr Mund stand einen Spalt offen unter dem Seidenband. Seine rechte Hand hatte sich auf dem Oberschenkel gespannt, der Daumen sich schon zu ihrer Hüfte geschoben. Er hielt ihn an. Die Hand drückte er flach auf das eigene Knie. Sein Hosenstoff spannte sich über den Lenden. Eine der Kerzen knisterte. Er atmete langsam aus.
 
 Dann kam seine Hand. Sie spürte ihre Wärme über der Haut, bevor die Fingerkuppen ihren Hals erreichten. Er bewegte sich sehr langsam. Maren hörte ihren eigenen Atem dabei lauter werden, und unter seinen Fingern schlug es schneller als ihr Atem. Die Finger ruhten dort und blieben, bis ihre Schultern sich gegen die Stricke spannten. Dann zogen sie weiter, den Hals hinab, über das Schlüsselbein.
 
@@ -127,3 +127,13 @@ Zuletzt kam er ans Kopfteil zurück. Maren spürte seine Finger am Knoten im Nac
 Maren hob die Arme nach ihm, hoch genug, dass er hineinkam. An ihren Handgelenken standen die roten Linien des Lederbands. Vesper kam aufs Bett zurück. Er legte sich neben sie, halb über sie, und sie zog ihn an sich. Ihre Arme schlossen sich um seinen Rücken, seine um ihre Schultern. Beide waren nass, beide atmeten schwer.
 
 Sie hielten einander. Sie hatten sich in fünf Monaten oft so gehalten, aber nicht so fest, nicht so lange. Keiner von beiden sprach. Keiner ließ los.
+
+---
+
+Vesper stand nach einer Weile auf, ohne Wort. Er holte den Krug vom Tisch und kam zurück. Maren trank im Liegen, seine Hand unter ihrem Hinterkopf, der Becher an ihrer Lippe. Dann nahm er das Glas mit dem Mandelöl von der Werkbank, setzte sich an die Bettkante und drehte ihr linkes Handgelenk in seine Hand. Er massierte die rote Linie, langsam, einmal um das Gelenk herum, dann das rechte. Werft-Hände kannten die Bewegung von der Pflege nach langem Pech-Streichen; hier war es Leder, nicht Pech, aber der Strich war derselbe.
+
+»Morgen früh?«, sagte er, ohne hochzusehen.
+
+»Morgen früh.«
+
+Vesper stellte das Glas neben das Bett. Er legte sich neben sie, sie rückte in seinen Arm. Auf dem Haken neben der Tür hing der Wollrock. In der Innentasche stand der Schachturm.

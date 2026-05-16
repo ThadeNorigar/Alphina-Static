@@ -92,7 +92,7 @@ Seine Finger hatten sich auf dem Werkbankholz nicht bewegt, seit sie die Frage g
 
 Eine Pause, kurz, nicht aus Unsicherheit.
 
-„Vor fünf Tagen habe ich versucht, ihr meinen Schlag zu geben. *Behalte diesen Schlag,* habe ich gesagt. Seitdem läuft sie rein. Auch wenn ich nicht mehr da bin."
+„Vor fünf Tagen habe ich versucht, ihr meinen Schlag zu geben. Hand auf das Holz, ein Druck, gleichmäßig, kein Werkzeug. *Behalte diesen Schlag,* habe ich gesagt. Seitdem läuft sie rein. Auch wenn ich nicht mehr da bin."
 
 Maren nickte langsam und stellte keine weitere Frage.
 
@@ -114,7 +114,7 @@ Das Wasser in seinem Becher bewegte sich zuerst. Eine kleine Drehung, gegen den 
 
 Der Strudel hielt, zwanzig Sekunden, dreißig. Dann erst kamen die ersten Dämpffäden, dünn, kaum zu sehen, aus einer Oberfläche, die kalt gewesen war.
 
-Er starrte. Nicht kurz, nicht höflich. Sein ganzer Körper war stehengeblieben, der Becher vor ihm auf dem Tuch, die Hände flach zu beiden Seiten, und nichts an ihm bewegte sich. Sein Blick ging erst zum Wasser, dann zu ihren Händen, zurück zu ihrem Gesicht. Die Konzentration, die sie aus dem Anker kannte, die Lupe-am-Auge, die Stille in seinen Handgelenken, lag jetzt auf ihr. Das Holz des Schuppens knackte in der Wärme. Unter der Oberfläche des Tees zog eine zweite Bewegung durch das Wasser, tiefer als der erste Strudel. Maren wusste nicht, ob die Reaktion von ihr kam oder von ihm.
+Er starrte. Nicht kurz, nicht höflich. Sein ganzer Körper war stehengeblieben, der Becher vor ihm auf dem Tuch, die Hände flach zu beiden Seiten. Fast nichts an ihm bewegte sich. Sein Daumen lag am Rand des Bechers, die Kuppe blass unter dem Nagel. Am Hals, eine Handbreit unter dem Kinn, zog sich eine Sehne an, einmal, dann wieder. Sein Blick ging erst zum Wasser, dann zu ihren Händen, zurück zu ihrem Gesicht. Die Konzentration, die sie aus dem Anker kannte, die Lupe-am-Auge, die Stille in seinen Handgelenken, lag jetzt auf ihr. Das Holz des Schuppens knackte in der Wärme. Unter der Oberfläche des Tees zog eine zweite Bewegung durch das Wasser, tiefer als der erste Strudel. Maren wusste nicht, ob die Reaktion von ihr kam oder von ihm.
 
 Vespers Hände lagen flach auf dem Tuch. Er berührte sie nicht, und trotzdem entstand in ihrem Kopf das Bild: seine Fingerkuppen, die sich eben am Schraubenkopf geprüft hatten, jetzt an ihrem Handgelenk innen, an der Sehne unter dem Daumenansatz. Nicht fest. Nur gesetzt. Ein Gewicht, das wartete. Seine Aufmerksamkeit, die sie hielt, ohne sie zu drücken. Das Stillwerden ihrer eigenen Schultern, die auf etwas gewartet hatten, von dem sie nicht gewusst hatte, dass es kommen würde.
 
@@ -124,9 +124,9 @@ Weil sie es zuließ, wurde es schärfer. Draußen, vor ihr, lagen seine Hände a
 
 Draußen lag der Hafen in Sonne und Salz und Werftlärm. Hier drin hörte sie nur noch seinen Atem.
 
-Vesper blinzelte einmal. Es war die erste sichtbare Unsicherheit, seit er den Schuppen betreten hatte. Seine Hand bewegte sich einen Fingerbreit auf den Becher zu, dann hielt er inne.
+Vesper blinzelte einmal. Es war die erste sichtbare Unsicherheit, seit er den Schuppen betreten hatte. Seine Hand bewegte sich einen Fingerbreit auf den Becher zu, hielt inne, kehrte um. Er legte sie zurück, flach aufs Tuch, einen Daumenbreit weiter weg von ihrer als zuvor.
 
-Maren sah den Moment, in dem er bewusst entschied, sie nicht zu berühren. Genau deshalb wurde ihr plötzlich heiß.
+Genau deshalb wurde ihr plötzlich heiß.
 
 Die Wärme zog tiefer. Ihre Lippen standen leicht offen, und sie schloss sie nicht. Auf ihrer Oberlippe lag der Geschmack von Salz, Meerluft, Werftstaub und Hautwärme, darunter jener feine metallische Nachklang, den sie schon aus dem Anker kannte.
 

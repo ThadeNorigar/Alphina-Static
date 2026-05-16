@@ -206,7 +206,7 @@ Vesper schrieb. *Sorel: gebündelt = unsicher, manche schlucken. Diffus = schwä
 
 »Ich kann sie verlangsamen. Einen einzelnen, an einer Stelle, wie beim Stier damals oder wie ich deine Hand bei Sorels Wunde geführt habe. Mehrere gleichzeitig habe ich nicht versucht. Ich weiß nicht, ob das geht.«
 
-»Wasser«, sagte Maren. »Vereisen, zum Sieden bringen, bewegen.« Sie hob die linke Hand um den Tee-Becher, hielt einen Atemzug. Am Außenrand des Bechers schlugen sich Tropfen nieder, fein zuerst, dann dichter, bis das Holz unter dem Becher dunkel wurde. »Und ziehen, aus feuchter Luft. Aber ich brauche immer welches in der Nähe, einen Brunnen, einen Eimer, Regen unter der Straße. Aus trockener Luft kann ich nichts machen. Und es geht nicht von einem Atemzug auf den anderen. Eine halbe Minute, manchmal länger.«
+»Wasser«, sagte Maren. »Vereisen, zum Sieden bringen, bewegen.« Sie hob die linke Hand um den Tee-Becher, hielt einen Atemzug. Am Außenrand des Bechers schlugen sich Tropfen nieder, fein zuerst, dann dichter, bis das Holz unter dem Becher dunkel wurde. »Und ziehen, aus feuchter Luft. Aber ich brauche immer welches in der Nähe, einen Brunnen, einen Eimer, Regen unter der Straße. Aus trockener Luft kann ich nichts machen. Und es geht nicht von einem Atemzug auf den anderen. Eine halbe Minute, manchmal länger. Vereisen ist neu. Zweimal probiert, einmal am Eimer auf der Werft, einmal an einer Pfütze im Hof. Beide Male hat es gehalten, aber langsam. Im Steinkreis habe ich es nicht versucht.«
 
 »Alphina?«, sagte Vesper.
 

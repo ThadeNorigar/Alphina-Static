@@ -263,7 +263,7 @@ Er hielt einen Moment inne. Das Nächste war der Teil, den er bis zu diesem Atem
 
 Er sah an Alphina vorbei auf die Wand hinter ihr. Es war leichter, das zu erzählen, ohne dabei jemanden anzusehen.
 
-"Und dann habe ich etwas getan, das ich vorher nie getan hatte. Ich habe nicht gemessen. Ich habe in mir den Takt gesucht, den eine Ankerhemmung dieser Bauart haben sollte. Zwei Halbschwünge pro Sekunde, rein, unbeladen. Diesen Takt habe ich nach dreizehn Jahren Werkbank in der Brust. Ich kenne ihn besser als meinen eigenen Herzschlag. Und ich habe ihn dem Werk vorgelegt. Nicht gedacht, nicht gesagt: gehalten, als Form in der Brust, durch die Handfläche ins Messing. Zwanzig, dreißig Atemzüge lang. Dann drei Sätze innerlich, sehr knapp, weil mir in dem Augenblick nichts anderes einfiel. *So. Genau so. Behalte diesen Schlag.*"
+"Und dann habe ich etwas getan, das ich vorher nie getan hatte. Ich habe nicht gemessen. Ich habe in mir den Takt gesucht, den eine Ankerhemmung dieser Bauart haben sollte. Zwei Halbschwünge pro Sekunde, rein, unbeladen. Diesen Takt habe ich nach dreizehn Jahren Werkbank in den Händen. Ich kenne ihn besser als meinen eigenen Herzschlag. Und ich habe ihn dem Werk vorgelegt. Nicht gedacht, nicht gesagt: ein Druck durch die Handfläche ins Messing, gleichmäßig, gehalten, gegen das Holz des Gehäuses. Zwanzig, dreißig Atemzüge lang. Dann drei Sätze innerlich, sehr knapp, weil mir in dem Augenblick nichts anderes einfiel. *So. Genau so. Behalte diesen Schlag.*"
 
 Er hörte sein eigenes Wort *behalte*. Uhrmacher sprachen keine Beschwörungen aus. Er sagte es trotzdem zu Ende.
 
@@ -333,7 +333,7 @@ Alphinas Gesicht veränderte sich nicht. Nur die Linie zwischen den Brauen ging 
 
 "Das Viertel hinter dem Handelshaus ist der Botanische Garten. Der Hügel im westlichen Drittel steht ziemlich genau an der Stelle, wohin Ihre Bögen zeigen. Sieben Steine, hüfthoch. Der Stein, auf den ich meine Hand gelegt habe, ist Ihr Mittelpunkt."
 
-Vesper hielt den Finger am Papier still. Sein eigenes Atmen setzte für zwei Schläge aus und setzte einen Takt zu langsam wieder ein.
+Vesper hielt den Finger am Papier still. Sein eigenes Atmen setzte für zwei Schläge aus und setzte einen Atemzug zu langsam wieder ein.
 
 "Ich stelle mir das vor wie ein Gewicht auf einem gespannten Tuch", sagte er leise. "Je schwerer das Gewicht, desto tiefer beugt sich das Tuch. Die Uhren weiter draußen verlieren weniger, weil die Beugung dort flacher ist. Die weiter innen verlieren mehr. Der Stein in der Mitte ist das Gewicht."
 
@@ -399,13 +399,13 @@ Die Wärme kam ihm entgegen.
 
 Sie kam aus dem Messing in seine Handfläche und kroch in sein Handgelenk. Weiter in den Unterarm. Eine dichte, ruhige Wärme, die nicht pulsierte und die er trotzdem nicht für Raumtemperatur halten konnte: die Wärme eines Körpers, der zu lange in einem Sessel gesessen hat. Dieselbe Wärme wie das Gehäuse der Tidemoor-Standuhr unter seiner Hand. Dieselbe Wärme wie die Rillen im Kellerholz. Dieselbe Wärme wie die Handkante einer Druckerin, die ihm am Nachmittag einen Umschlag gereicht hatte.
 
-Was er vor einer Woche auf das Tidemoor-Gehäuse gelegt hatte, lag jetzt in Kvarns Taschenuhr. Er hatte es nicht vorgelegt. Nicht als Form, nicht als Satz, nicht als das knappe *behalte diesen Schlag*, das er gerade zum ersten Mal vor einem anderen Menschen ausgesprochen hatte. Er hatte seit anderthalb Stunden an der Welle gearbeitet, den Takt in der Brust. Man drehte keine Welle, ohne den Takt zu hören. Er hatte ihn nicht gesendet. Er hatte ihn gehabt, während das Werk unter seinen Händen lag, und das hatte gereicht.
+Was er vor einer Woche auf das Tidemoor-Gehäuse gelegt hatte, lag jetzt in Kvarns Taschenuhr. Er hatte es nicht vorgelegt. Nicht als Druck, nicht als Satz, nicht als das knappe *behalte diesen Schlag*, das er gerade zum ersten Mal vor einem anderen Menschen ausgesprochen hatte. Er hatte seit anderthalb Stunden an der Welle gearbeitet, den Takt in den Händen. Man drehte keine Welle, ohne den Takt zu hören. Er hatte ihn nicht gesendet. Er hatte ihn gehabt, während das Werk unter seinen Händen lag, und das hatte gereicht.
 
 Die anderen sechzehn Uhren in der Stadt waren in derselben Zeit weiter falsch gegangen. Nur Tidemoor war rein geblieben. Seit dem zweiten Auflegen, ohne Unterbrechung. Und jetzt Kvarn.
 
 Es war nicht der Raum gewesen. Nicht das Klima. Nicht seine Anwesenheit.
 
-Es war der Takt in seiner Brust, den er an ein Werk weitergab, ohne es zu wissen.
+Es war der Takt in seinen Händen, den er an ein Werk weitergab, ohne es zu wissen.
 
 Vesper nahm die Hand von Kvarns Uhr. Die Wärme blieb einen Atemzug auf der Haut, dann verlor sie sich. Das Ticken lief weiter, sauber, im Takt seiner eigenen Taschenuhr. Er wusste jetzt, ohne es ausgerechnet zu haben, dass dieser Takt nicht mehr weglaufen würde. Morgen nicht, übermorgen nicht.
 

@@ -198,7 +198,7 @@ Keiner sprach. Das Schweigen trug, wie es auch am Abend zuvor getragen hatte, al
 
 Ihre Hände lagen auf den Oberschenkeln. Sie waren warm. Die Wärme kam aus der Stube, nicht von der Grauwe und nicht vom Weg hierher.
 
-Irgendwann hob Vesper den Kopf. Er sah sie an, länger als vorher. Etwas um den Mund veränderte sich. Einen Atemzug lang lächelte er. Dann beugte er sich wieder über das Werk.
+Irgendwann hob Vesper den Kopf. Er sah sie an, länger als vorher. Etwas um den Mund veränderte sich. Einen Atemzug lang lächelte er. Seine Schulter zog sich kaum sichtbar nach hinten, und seine Hand blieb eine Spur zu lange auf der Tischkante liegen, bevor sie zur Pinzette zurückkehrte. Dann beugte er sich wieder über das Werk.
 
 Das Mieder saß enger. Sie spürte ihr Pochen in den Innenseiten der Schenkel. Ihr Mund war trocken.
 

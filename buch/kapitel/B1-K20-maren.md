@@ -120,7 +120,7 @@ Maren beugte sich näher. Drei Striche und ein Punkt, immer derselbe Abstand, de
 
 „Dann markiert es nicht den Stein. Es markiert, was mit ihm geschieht."
 
-Vesper drehte den Bleistift einmal zwischen den Fingern. Er nickte nicht, und gerade deshalb sah Maren, dass sie recht hatte. Seine Augen blieben einen Augenblick auf ihrem Gesicht.
+Vesper drehte den Bleistift einmal zwischen den Fingern. Er nickte nicht, und gerade deshalb sah Maren, dass sie recht hatte. Seine Augen blieben einen Augenblick auf ihrem Gesicht. An seiner Schläfe zuckte ein Muskel, einmal, kaum sichtbar, und sein Kiefer schloss sich härter, als die Frage es verlangt hätte.
 
 „Schlaues Mädchen."
 

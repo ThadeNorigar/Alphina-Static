@@ -6,7 +6,17 @@ Die zwei Uhren hatten ihn vier Stunden gekostet: eine Taschenuhr mit gerissener 
 
 Die Hafengasse lag in der Dämmerung, kein Wind ging, das Salz der Grauwe stand am Mauerputz. Er klopfte zweimal, kurz, der Schachturm in der Rocktasche kalt wie seit Karst. Maren öffnete vor dem zweiten Klopfen.
 
-Sie stand in der Tür. Vesper sah zuerst das Haar, zurückgesteckt mit der Holznadel. Sie trug das Mieder über dem Wollrock, und am linken Handgelenk lag der schmale Lederriemen, den sie in der Werft nie trug. »Du bist pünktlich.« »Zwölf Minuten zu spät. Zwei Uhren haben länger gebraucht.« Sie trat einen Schritt zurück, ließ ihn ein, und ihre Hand kam an seinen Mantelkragen, bevor er die Schultern aus dem Stoff drehte. Sie nahm ihm den Mantel ab und hängte ihn selbst an den Haken.
+Sie stand in der Tür. Vesper sah zuerst das Haar, zurückgesteckt mit der Holznadel. Sie trug das Mieder über dem Wollrock, und am linken Handgelenk lag der schmale Lederriemen, den sie in der Werft nie trug. Hinter dem Hosenbund sammelte sich Glut, schwer und geduldig. Er stand einen Atemzug zu lang in der Tür, bevor seine Hand an den Mantel ging.
+
+»Du bist pünktlich«, sagte sie.
+
+»Zwölf Minuten zu spät. Zwei Uhren haben länger gebraucht.«
+
+Sie trat einen Schritt zurück, ließ ihn ein, und ihre Hand kam an seinen Mantelkragen, bevor er die Schultern aus dem Stoff drehte. Bevor sie den Mantel an den Haken hängte, lag seine rechte Hand auf ihrer, am Kragen. Sein Daumen suchte nicht, er fand: außen am Leder des Riemens, einmal die Länge entlang, bis dorthin, wo das Leder endete und ihre Haut begann. Maren atmete einmal anders. Er ließ los, sagte nichts dazu. Sie nahm ihm den Mantel ab und hängte ihn selbst an den Haken.
+
+»Sie kommen in einer Viertelstunde«, sagte er.
+
+»Ja.«
 
 Im Arbeitsraum hatte Maren den langen Tisch leer geräumt. Sechs Öllampen standen in gleichem Abstand, drei rechts, drei links, alle auf niedriger Flamme. In der Mitte stand ein schmaler Glaszylinder mit Wasser bis zur Hälfte, darin die Blüte aus Marens Werft.
 

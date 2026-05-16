@@ -308,7 +308,9 @@ Er dachte an die Ringe auf der Karte, an Sorels Tonfall, als er ihren Namen ausg
 
 Dann, ohne dass er es wollte, dachte er wieder an Maren.
 
-An den Tee, der heiß geworden war. An die Finger, die sie nicht bewegt hatte. An die Stelle an ihrem Handgelenk innen, an der Sehne unter dem Daumenansatz.
+An den Tee, der heiß geworden war. An die Finger, die sie nicht bewegt hatte. An die Stelle an ihrem Handgelenk innen, an der Sehne unter dem Daumenansatz. An ihre Werft-Hände auf dem Steingut. An den Mund, der sich leicht geöffnet hatte und nicht wieder ganz geschlossen. An ihr »Seit wann?« — die Frage, die er sich selbst hätte stellen müssen, und die sie zuerst gestellt hatte.
+
+Glut stand reglos in seinem Becken, schwer und geduldig. Etwas saß seither falsch unter seinem Hemdkragen, etwas, das nicht weggehen wollte, wenn er den Atem länger zog. Er kannte das aus Solha. Sonst hätte er es weggeschoben; heute Abend ließ er es. Er hob die Hände vom Tisch und legte sie wieder hin, an genau dieselbe Stelle. Es half nicht.
 
 Vesper legte die Hand flach neben den Turm, nicht darauf.
 
