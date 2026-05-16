@@ -50,7 +50,7 @@ Schiffbauerin. **Identität liegt im Beruf**, nicht im Namen, nicht in der Herku
 | **Hören** | Wasser-Strömungen lesen — wo es fließt, wo es weint, wo es rückwärts geht. Tohl-Daverin-Modus. Diagnostik. | passiv |
 | **Entziehen** | Grundwasser aus dem Boden ziehen, in weitem Radius. Pflanzen welken, Erde trocknet. Erste Anwendung B1-K38 (Beruhigungs-Beat — Marens Anteil an der Drei-Resonanzen-Beruhigung Alphinas: Wasser-Entzug lässt Anti-Flora-Wurzeln erschlaffen). | mittel; 30-60 Sek pro Anwendung |
 
-**Status untrainiert:** Bis K27 nimmt sie nichts davon als Magie wahr — Körper weiß es, Verstand drückt es weg. Vesper macht es ihr ab K17 (Schiffsuhr) langsam bewusst. Erste bewusste Anwendung B1-K28 am Steinkreis: sie folgt dem rückwärts fließenden Wasser, friert eine Hand-Pfütze. Trainiert ab Zeitsprung K22→K35 unter Vespers Aufsicht.
+**Status untrainiert:** Bis K17 nimmt sie nichts davon als Magie wahr — Körper weiß es, Verstand drückt es weg. Vesper macht es ihr ab K17 (Schiffsuhr) langsam bewusst. Ab Saatmond/Grünmond Wasser-Tests an der Werft — Strömungen, Pegel, ein Tropfen in der Luft, einmal Salz unter Süß im dritten Versuch (~5 Monate Übung bis K28). Erste intensive Steinkreis-Resonanz mit Wesen-Begegnung B1-K28: Stein-Berührung, Welle ins Schlüsselbein, sieben Schritt Nebel-Drängen (doppelt so weit wie sonst), erste Schutzwand aus zusammengezogenen Tröpfchen. Trainiert ab Zeitsprung K22→K35 unter Vespers Aufsicht.
 
 **Sprachregel:** Maren spricht nie „Resonanz" (Memory `feedback_resonanz_nicht_benennen.md`). Sie sagt „Wasser", „die Strömung", „das Eis", „das Hören". Vesper hört sie zu, korrigiert nicht.
 
@@ -107,9 +107,11 @@ Drei Register, nie »Jacke«:
 
 **K22 Nachbrenner:** Fremde Pflanze in Vael (Echo Alphinas), Riss sickert unkontrolliert. Sie spürt das Pochen unter der Erde stärker. Keine Theorie. Süß-dichter Rauchgeruch aus Südost-Stadt beginnt.
 
+**Vor-Buch-Anker (ca. Lichtmond, ~5 Monate vor K28):** Erste Steinkreis-Berührung mit körperlicher Verletzung — am Kreisrand gelegen, Knie auf dem Fels, Schulter blutend (Sturz oder frühe Wesen-Begegnung, in K28 nicht detailliert). In den Wochen danach mehrmals wiedergekommen (mit Alphina, einmal mit Vesper, einmal allein), Kreis abgeschritten, in der Mitte gestanden. K28 ist daher nicht die erste Steinkreis-Erfahrung — sondern die erste intensive Resonanz mit Wesen-Begegnung.
+
 **K27 erste V/M-Nacht:** Erste verhandelte Dom/Sub-Szene mit Vesper. Wollrock, Mieder, Leinenhemd. Lederriemen am linken Handgelenk. Sie bleibt. Réage-Körper-vor-Kopf. *„Hier durfte sie sein."*
 
-**K28 Wasser-Folge → Steinkreis:** Sie folgt dem rückwärts fließenden Wasser durch die Stadt. Kommt zum Steinkreis im Garten der Werft-Wohnung. Erste Leiche der Schemen-Welle (zerschnittenes Hemd, Frost an den Wundrändern). Erste bewusste Vereisung — sie friert eine Pfütze, ohne es zu wollen. *Der Riss weint*.
+**K28 Steinkreis-Wesen + erste Wasser-Anwendung in Aktion:** Aufgeweckt durch Grauwe-Schlag gegen die Stegpfähle. Geht zur Werft, spürt warme Planken + landeinwärts fließende Strömung. Weiter zum Botanischen Garten, zum Steinkreis. Berührt einen Purpurstein: schmeckt Salz auf der Fingerspitze (herber als Grauwe + Tafelsalz), fühlt Welle durch Handfläche bis ins Schlüsselbein. Drängt Nebel sieben Schritt weit zurück (doppelt so weit wie in der Hafengasse). Erste Wesen-Begegnung mit Linien: sieben vierbeinige Schemen mit kohlroten Augen, Rauch aus Rücken, violetter Linie am Nacken, knistern wie Salz auf heißem Eisen. Drei folgen ihr durch die Oberstadt. Sie zieht Wassertröpfchen hinter sich zu einer dichten Schutzwand, die das Knistern absetzt. Findet einen toten Nachtwächter-Lehrling (kein Blut, „aufgehört zu sein", süß-dichter Geruch). *Der Riss weint*.
 
 **K30 Drei-Kopplung Tunnel:** Erste bewusste Drei-Kopplung mit Alphina+Vesper. Sie wärmt den Frost im Knochen einer Verletzten — Eis aus Schemen-Magie. Frost im eigenen Knochen bleibt. Tschechow K33/K37/K38.
 
