@@ -66,9 +66,11 @@ for buch_key in ['buch1', 'buch2', 'buch3']:
         if not (has_datei or has_entwurfs_datei):
             continue
 
-        # URL slug: '01' -> '1', 'I1' -> 'I1'
+        # URL slug: '01' -> '1', 'I1' -> 'I1', '27_5' -> '27.5'
         if kap_id.startswith('I'):
             slug = kap_id
+        elif '_' in kap_id:
+            slug = kap_id.replace('_', '.')
         else:
             slug = str(int(kap_id))
 
