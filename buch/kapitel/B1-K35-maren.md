@@ -1,6 +1,6 @@
 # B1-K35 — Maren
 
-*2. Dunkelmond 551 · 26 Wochen 2 Tage in Vael*
+*2. Dunkelmond 551 · 32 Wochen 2 Tage in Vael*
 
 Der Riegel rastete trocken ins Schloss, und Maren ließ die Hand für einen Moment am Eisen liegen, bis das gleichmäßige Ticken der Werkbank-Pendule sich wieder über ihren Atem schob und die Nacht draußen blieb: die nachtleere Hafengasse, der späte Nebel, der kurze Weg von der Werft. Im Wohnzimmer hatte Vesper die Lampe niedrig gestellt; an der Werkbank-Ecke beim Fenster lag eine offene Taschenuhr unter der Lupe, daneben die feine Pinzette zwischen Daumen und Zeigefinger, die er weiter hielt, als er den Kopf hob. Sein Blick fand sie sofort. Dann setzte er das Werkzeug parallel zur Lupe auf das Tuch und schob den Hocker keinen Fingerbreit zurück.
 

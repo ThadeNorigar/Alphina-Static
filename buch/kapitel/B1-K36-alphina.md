@@ -1,6 +1,6 @@
 # B1-K36 — Alphina
 
-*2. Dunkelmond 551 · 26 Wochen 2 Tage in Vael*
+*2. Dunkelmond 551 · 32 Wochen 2 Tage in Vael*
 
 Im Dunkelmond lag der Himmel meist wie ein verschlossener Deckel über den Gärten, schwer von Dunst und Wolken, doch heute Nacht hatte der Nebel sich verzogen. Als Alphina den Kopf hob, spannte sich über dem Botanischen Garten ein klares Sternenfeld auf, weit und kalt und offen. Sie blieb neben dem niedrigen Anbau des Gärtnerhauses stehen und ließ den Blick im Licht über sich ruhen.
 
@@ -92,7 +92,7 @@ Alphina sah die Linie seines Mundes, den Schatten unter seiner Unterlippe. Sein 
 
 Sie lehnte sich vor.
 
-Der Kuss begann langsam. Ihre Lippen fanden seine, weich zuerst, und Sorel erwiderte die Bewegung im selben Augenblick. Sein Mund öffnete sich leicht unter ihrem, gerade genug, dass Wärme zwischen ihnen aufbrach. Alphina schmeckte Salz auf seiner Haut und den Rest der Nachtluft auf seinem Atem.
+Der Kuss begann langsam. Ihre Lippen fanden seine, weich zuerst, und Sorel erwiderte die Bewegung im selben Augenblick. Sein Mund öffnete sich leicht unter ihrem, gerade genug, dass Wärme zwischen ihnen aufbrach. Alphina schmeckte die Wärme seiner Lippen und den Rest der Nachtluft auf seinem Atem.
 
 Tief unter ihrem Brustbein löste sich etwas, ein langsames Nachgeben, als hätte ihr Körper eine Spannung getragen, die sie erst bemerkte, als sie verschwand. Ihre Finger schlossen sich fester um den Stoff seines Mantels. Sorels Hand blieb an ihrem Arm, ruhig und beständig, ein gleichmäßiger Druck, der sie hielt, ohne sie festzuhalten.
 

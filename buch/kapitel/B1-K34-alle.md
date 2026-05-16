@@ -1,6 +1,6 @@
 # B1-K34 — Alle
 
-*1. Dunkelmond 551 · 26 Wochen 1 Tag in Vael*
+*1. Dunkelmond 551 · 32 Wochen 1 Tag in Vael*
 
 Vesper hatte vier Dokumente vor sich und drei Menschen am Tisch, und keines davon würde ihm sagen, was er wissen wollte. Im Behälter stand das Lampenöl noch einen Fingerbreit, er hatte es nicht nachgefüllt; niemand hatte ihn darum gebeten. Verriegelte Holzläden, kein Spalt nach draußen. Auf dem Tisch der Drei-Spalten-Bogen, mit der Hand glattgestrichen, vier Zeilen Bleistift am Rand. Daneben Jaras Handschrift auf zwei losen Bögen, Lenes Archiv-Auszüge. Das Pergament aus der Werft, eine Ecke aufgerollt. Das Wörterbuch-Heft, Harons Block-Buchstaben auf dem Umschlag.
 
@@ -32,7 +32,7 @@ Niemand antwortete darauf.
 
 Er schob den Bogen zur Seite und zog das erste von Jaras Blättern heran.
 
-»Das hier ist der Auszug aus Lene Steins Manuskript. Jara hat ihn aus dem Original übersetzt, die Stellen, die wir damals im Archiv durchgegangen sind.« Er fand die Stelle und las vor: »›Zwei traten in den Riss. Er schloss sich, bevor sie auf der anderen Seite ankamen. Niemand hat erfahren, was aus ihnen geworden ist.‹«
+»Das hier ist der Auszug aus Lene Dahls Manuskript. Jara hat ihn aus dem Original übersetzt, die Stellen, die wir damals im Archiv durchgegangen sind.« Er fand die Stelle und las vor: »›Zwei traten in den Riss. Er schloss sich, bevor sie auf der anderen Seite ankamen. Niemand hat erfahren, was aus ihnen geworden ist.‹«
 
 Sorel lehnte sich zurück. »Lene blieb diesseits.«
 
@@ -206,7 +206,7 @@ Vesper schrieb. *Sorel: gebündelt = unsicher, manche schlucken. Diffus = schwä
 
 »Ich kann sie verlangsamen. Einen einzelnen, an einer Stelle, wie beim Stier damals oder wie ich deine Hand bei Sorels Wunde geführt habe. Mehrere gleichzeitig habe ich nicht versucht. Ich weiß nicht, ob das geht.«
 
-»Wasser«, sagte Maren. »Vereisen, zum Sieden bringen, bewegen. Aber ich brauche welches in der Nähe, einen Brunnen, einen Eimer, Regen unter der Straße. Aus trockener Luft kann ich nichts machen. Und es geht nicht von einem Atemzug auf den anderen. Eine halbe Minute, manchmal länger.«
+»Wasser«, sagte Maren. »Vereisen, zum Sieden bringen, bewegen.« Sie hob die linke Hand um den Tee-Becher, hielt einen Atemzug. Am Außenrand des Bechers schlugen sich Tropfen nieder, fein zuerst, dann dichter, bis das Holz unter dem Becher dunkel wurde. »Und ziehen, aus feuchter Luft. Aber ich brauche immer welches in der Nähe, einen Brunnen, einen Eimer, Regen unter der Straße. Aus trockener Luft kann ich nichts machen. Und es geht nicht von einem Atemzug auf den anderen. Eine halbe Minute, manchmal länger.«
 
 »Alphina?«, sagte Vesper.
 
