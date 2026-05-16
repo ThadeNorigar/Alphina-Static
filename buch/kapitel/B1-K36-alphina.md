@@ -134,7 +134,7 @@ Sie stand dort und atmete. Vor ihr hielten die Wesen still, über ihr standen di
 
 Das Geräusch kam vom Hauptweg her, noch bevor Alphina die beiden erkannte. Kies knirschte unter zwei Paar Sohlen, ruhig und gleichmäßig, in jenem vertrauten Rhythmus von Menschen, die diesen Weg oft genug gegangen waren, um ihn auch im Dunkeln nicht suchen zu müssen.
 
-Nach einem Moment traten Vesper und Maren aus dem Schatten der Bäume. Vesper trug die Werkzeugrolle unter dem linken Arm, den Mantel gegen die Nachtluft eng geschlossen. Marens Tasche hing schwer über ihrer Schulter, und an ihrer rechten Seite schwang der große Werft-Hammer, dessen Kopf sorgfältig in Sackleinen gewickelt war. Beide verlangsamten den Schritt, sobald sie die Reihen der Wesen am Rand des Gartens sahen.
+Nach einem Moment traten Vesper und Maren aus dem Schatten der Bäume. Vesper trug die Werkzeugrolle unter dem linken Arm, den Mantel gegen die Nachtluft eng geschlossen. Marens Tasche hing schwer über ihrer Schulter, und rechts an ihrem Gürtel steckte der große Werft-Hammer, der Stiel nach unten, der Kopf gegen ihre Hüfte. Beide verlangsamten den Schritt, sobald sie die Reihen der Wesen am Rand des Gartens sahen.
 
 Vesper blieb zuerst stehen. Sein Blick glitt über die Gestalten entlang der Mauern und zwischen den Linden, über die unbewegten schwarzen Augen und schließlich hinüber zu dem dünnen Lichtschein der Purpursteine. Maren trat noch einen Schritt weiter vor, bis sie den Kreis vollständig überblicken konnte. Sie hob leicht das Kinn, sagte jedoch nichts.
 
@@ -156,7 +156,7 @@ Vesper trat schließlich über die Grenze des Lichts. Der schwache Schein der Pu
 
 Im Kreis selbst ordnete sich alles beinahe von allein. Vesper setzte die Rolle neben dem westlichen Stein ab und zog ein mehrfach gefaltetes Blatt aus der Innentasche seines Mantels. »Ich habe die alten Vermessungen mitgebracht«, sagte er, während er das Papier aufklappte. »Sicher bin ich nicht, dass sie uns heute Nacht noch viel nützen.«
 
-Maren stellte den verschnürten Hammer neben sich auf den Boden. »Werkzeug beruhigt die Nerven«, sagte sie. »Auch wenn man nicht weiß, ob man es gebrauchen kann.«
+Maren zog den Hammer aus dem Gürtel und stellte ihn neben sich auf den Boden. »Werkzeug beruhigt die Nerven«, sagte sie. »Auch wenn man nicht weiß, ob man es gebrauchen kann.«
 
 Sorel schnaubte leise, fast ein Lachen.
 
