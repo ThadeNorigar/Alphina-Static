@@ -208,6 +208,20 @@ Alle Leseproben siehe `buch/leseproben/` (YAML-Frontmatter enthält Heat-Level, 
 - **Sekundär:** `leseproben/11-moragh-ankunft.md` — Runa ist dort als Nebenfigur, Register-Anker. `leseproben/09-welt-vael-warm.md` — Druckerei als materialdichter Arbeitsort (Setzkasten, Schwärze, Bogenpresse).
 - **Stilnotiz:** Runa warm, körperlich. Druckerei-Vokabular (Setzer, Schließrahmen, Walze, Stege, Schwärze unter den Nägeln). Begehren für Alphina als Körperwärme unter der Arbeit, nicht als innerer Monolog. Tagträume als konkretes Bild, kein Abstraktum.
 
+## K33 — Vesper (Werkbank-Nacht, Vier-Werke-Experiment, Werft-Tagesanbruch)
+
+- **POV:** Vesper · **Datum:** 21. Nebelmond 551 TZ · **Status:** entwurf-ok
+- **Primär:** `leseproben/10-welt-vael-kalt.md` — direkter Register-Zwilling für Sz1+Sz2: Vesper-Solo-Werkbank, Drei-Schritt-Diagnose, Cold-Open mit Zahl, Schachturm als Tasten-Anker, kalte Präzision.
+- **Sekundär:** `leseproben/06-aftercare.md` — Vesper/Maren-Care-als-Handlung für Sz3 (Werft-Treffen), Mikro-Beats ohne Gefühls-Benennung. `leseproben/04-bdsm-alltag-vesper-maren.md` — Power-Exchange-Grundton im Alltag.
+- **Master-Anchor (Eigen-Referenz):** `referenzen/stilprobe-kombiniert.md` (Tarn-Frau-Sturmkristalle-Szene). Master-Niveau: Zwei-Personen-Macht-Gefälle, wortkarge Sub-Antworten, Material als Tschechow-Träger (Sturmkristalle erlöschen in 20 Min = Zeitdruck), Memory-Flashback organisch eingewoben (Velder-Lehrer, parallel zu Karst-Erinnerung K33), Innenleben durch Körper, kein Adverb-Tag. Pflicht-Ankerpunkt für **Vesper-Karst-Erinnerung** in Sz1 (Velder-Modell für eingewobenen Flashback) und **Werft-Treffen Sz3** (knappe Dom/Sub-Wechsel).
+- **Stilnotiz:**
+  - **Sz1 (Werkbank-Nacht):** Cold-Open mit Zahl/Methodik (Voice-Exemplar 1 K11-Form). Drei-Spalten-Tabelle als Mustererkennungs-Beat. Magie-Schema **Druck (schneller) / Zug (langsamer)** — KEIN „Form in der Brust". Vier-Werke-Experiment als Handwerks-Sequenz: jedes einzeln synchronisieren → Kollektiv steuern. Karst-Erinnerung kippt mitten im Experiment ein, eingewoben wie Velder-Erinnerung in stilprobe-kombiniert (Sinnes-Anker im Jetzt → 1-3 Erinnerungs-Sätze → Jetzt läuft weiter).
+  - **Sz2 (dritte Nachtstunde):** Berechnung 273 Sek = 4:33, Aufteilung 7 × 39 Sek pro Stein. Tidemoor-Vergleich + Großvater-Familiennotiz als Baseline. Logik-Trennung Baseline/Störung. Marens Bett-Hälfte leer als Kipppunkt von Solo-Diagnose zu geteilter Gegenwart.
+  - **Sz3 (Werft Tagesanbruch):** Maren am Boot, Werfthammer noch nicht aufgenommen. Wortkarges Wieder-Erkennen analog zur Tarn/Frau-Knappheit. Hand-Code-Geste an Brusttasche (V/M-Privat-Marker seit K27) — Geste ohne Erzähler-Glosse.
+  - **Worte:** „Takt" NUR bei Uhr/Werk (Memory). Steinkreis-Phänomen = „Schwingung"/„Mittelpunkt". Kein „Quelle"-Begriff (Memory). Newton-Niveau-Vokabular (1820): kein „Wellenlänge"/„Anomalie"/„Schwerkraft-Schwankung am Standort" als Vokabel — als Hypothese-Beschreibung erlaubt.
+  - **Berufslinse:** max 1 Fachbegriff (Toleranz/Eingriff/Passung), nicht zweimal. Linse trägt sich durch Gewohnheiten (Daumen-Diagnose, Notizbuch, Schraubendreher).
+  - **Council:** MEIKE (Solo-POV-Disziplin, Pendel-Physik) + LINA (Sz3 wortkarges Wieder-Erkennen, Beziehungs-Direktheit ohne Heat).
+
 ---
 
 ## Hinweis: Ton-Referenzen für K1-K11 + I1-I2
