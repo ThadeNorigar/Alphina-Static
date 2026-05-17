@@ -10,7 +10,7 @@ Auf der Werkbank-Ecke beim Fenster (Vespers Platz seit dem Glutmond) stand seine
 
 Auf dem Esstisch lag das Wörterbuch aufgeschlagen: Harons Sprache, die fremde Schrift aus seinem Ritual-Blatt, in seiner Hand übersetzt. In den fünf Monaten waren mehrere Dutzend Wörter dazugekommen, geprüft mit Jara und Esther im Archiv. Vespers Spalten-Schrift links, Marens rechts. Inzwischen lasen sie ganze Zeilen. Die Vier trafen sich seit dem Blütenmond alle paar Tage und glichen ihre Notizen ab, mal in Marens Wohnung, mal bei Alphina in der Hafengasse zwei Häuser weiter, mal in Sorels Lichthaus.
 
-Ihre Hand fand den Saum des Hemdes über der rechten Hüfte. Vesper hatte ihr im Glutmond eine Tasche an die Innenseite genäht, passgenau für den Schachturm. Wenn sie ihn herausnahm und auf seinen Tisch stellte (auf die Werkbank, auf den Esstisch, einmal auf den Werft-Hocker), war das ihr Wort dafür, dass sie ihn jetzt brauchte. Heute Nacht stellte sie ihn nicht auf. Sie ging ans Wasser.
+Ihre Hand fand den Saum des Wollrocks über der rechten Hüfte. Vesper hatte ihr im Glutmond eine Tasche an die Innenseite genäht, passgenau für den Schachturm. Wenn sie ihn herausnahm und auf seinen Tisch stellte (auf die Werkbank, auf den Esstisch, einmal auf den Werft-Hocker), war das ihr Wort dafür, dass sie ihn jetzt brauchte. Heute Nacht stellte sie ihn nicht auf. Sie ging ans Wasser.
 
 Beim Hinausgehen streifte ihre Hand das Leinen seines Hemdes am Haken neben der Tür. Sie schloss die Wohnungstür hinter sich, ohne abzuschließen. In der Hafengasse stand der Nebel hüfthoch und schluckte das Wenige, was die Öllaternen an den Hauskanten in die Nacht stellten. Drei Häuser weiter, Nummer sieben, hatte der Böttcher die Fenster der Familie Treks vor einer Woche mit Brettern kreuzweise vernagelt, bevor sie nach Solha gingen, das erste leere Haus in dieser Gasse. In den anderen Häusern lag noch Licht hinter den Läden. Aus dem Südosten, hinter dem Archivhügel, hing seit Tagen ein Geruch in der Luft, süß und dicht, wie ein schwerer Teig, der zu lange im Ofen gestanden hatte.
 
@@ -132,7 +132,7 @@ Vesper lag noch so, wie sie ihn verlassen hatte. Das Gesicht zur Wand, eine Hand
 
 Sie zog den Wollrock aus, ließ ihn auf die Truhe fallen und legte sich an Vespers Rücken. Ihre Brust fand sein Schulterblatt, die Knie schoben sich hinter seine, die Stirn legte sich an seinen Nacken. Die Wolldecke zog sie bis zum Kinn.
 
-Sie sah die graue Helligkeit an der Zimmerdecke langsam anwachsen; der Nebelmond-Morgen kam später als der Glutmond-Morgen, aber er kam. An ihrer Hüfte, in der angenähten Tasche, lag der Schachturm, warm vom Körper, weil sie ihn die ganze Nacht nicht herausgenommen hatte.
+Sie sah die graue Helligkeit an der Zimmerdecke langsam anwachsen; der Nebelmond-Morgen kam später als der Glutmond-Morgen, aber er kam. Über der Truhe lag der Wollrock; im Saum-Fach an der Hüfte ruhte der Schachturm, noch lau vom Körper, weil sie ihn die ganze Nacht nicht herausgenommen hatte.
 
 Sein Rücken gab Wärme, dicht und satt, eine Wärme, die nichts wollte, nichts zurückverlangte. Ihr Atem fand seinen, langsamer mit jedem Zug, und der Hall in ihrer Brust wurde dünner, gab nach, blieb aber.
 

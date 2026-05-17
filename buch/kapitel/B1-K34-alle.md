@@ -256,7 +256,7 @@ Vesper hielt einen Atemzug. Sah einmal kurz zu Sorel, dann zurück auf den Bogen
 
 »Gut«, sagte Vesper. »Mitnahmen.«
 
-Maren begann. »Werkzeug-Tasche, die kleine. Stechbeitel, Hobel, kleiner Hammer, Schleifstein. Den großen Hammer trage ich am Gürtel. Lederflasche Wasser, voll.« Während sie sprach, ging ihre Hand einmal an den Saum des Hemdes über der Hüfte, blieb dort einen Augenblick, sank zurück auf die Tischplatte und zog mit dem Zeigefinger eine kurze gerade Linie über das Holz, wie sie eine Liste durchgehen würde. Vespers Blick streifte die Bewegung und ging weiter zum Bogen.
+Maren begann. »Werkzeug-Tasche, die kleine. Stechbeitel, Hobel, kleiner Hammer, Schleifstein. Den großen Hammer trage ich am Gürtel. Lederflasche Wasser, voll.« Während sie sprach, ging ihre Hand einmal an den Saum des Wollrocks über der Hüfte, blieb dort einen Augenblick, sank zurück auf die Tischplatte und zog mit dem Zeigefinger eine kurze gerade Linie über das Holz, wie sie eine Liste durchgehen würde. Vespers Blick streifte die Bewegung und ging weiter zum Bogen.
 
 »Bei mir«, sagte Vesper, »die Taschenuhr, der Bogen hier, die Pendel-Notizen, eine kleine Werkzeugrolle.«
 
@@ -308,7 +308,7 @@ Hafengasse abwärts, das Haustor, die Treppe, fünfzehn Stufen, siebte außen. A
 
 Vesper saß an der Werkbank-Ecke beim Fenster, das Lampenöl-Licht auf der Pendel-Notiz vor ihm. Das Blatt vor ihm war leer. Er hob den Kopf, als die Tür einrastete, und sah sie an.
 
-Sie zog den Mantel aus und hängte ihn an den Haken. Den Schlüssel nahm sie vom Lederband um den Hals und legte ihn auf den Wandhaken daneben. Ihre Hand fand den Saum des Hemdes über der Hüfte, kurz, eine Lücke breit, sank zurück. Ihre Schultern senkten sich, stetig. Sie wusste, was sie heute Nacht noch tun würde.
+Sie zog den Mantel aus und hängte ihn an den Haken. Den Schlüssel nahm sie vom Lederband um den Hals und legte ihn auf den Wandhaken daneben. Ihre Hand fand den Saum des Wollrocks über der Hüfte, kurz, eine Lücke breit, sank zurück. Ihre Schultern senkten sich, stetig. Sie wusste, was sie heute Nacht noch tun würde.
 
 ---
 
