@@ -26,9 +26,9 @@ Im Rathauskeller war es kühler als draußen. Die Feuchtigkeit saß in den Stein
 
 Sie ordnete die Stücke im Pult von unten nach oben. Eins: Lene Dahls Manuskript-Original, dritter Dunkelmond einhundertvierundfünfzig, Pergament an den Rändern brüchig, seit dem Treffen hier verwahrt. Zwei: ihre eigene Abschrift mit den Markierungen der zweiten Hand, die Stellen, an denen später jemand in Lenes Bericht hineingeschrieben hatte. Drei: Inventur-Bogen, links die Arten der Wesen, rechts ihr Tun. Vier: Runas Flugblätter.
 
-Sie zog die Serien auseinander und begann zu zählen. Sieben in der ersten Serie, acht in der zweiten, sechs in der dritten. Einundzwanzig. Sie zählte ein zweites Mal. Sechs in der ersten Serie. Ihre Finger hielten mitten auf dem Papier still. Jara blinzelte langsam, sah erneut hinunter, begann ein drittes Mal. Sieben. Wie vorher.
+Sie zog die Serien auseinander und begann zu zählen. Sieben in der ersten Serie, acht in der zweiten, sechs in der dritten. Einundzwanzig. Sie zählte ein zweites Mal. Sechs in der ersten Serie. Ihre Finger hielten mitten auf dem Papier still. Ihre Augen ruhten auf einer Letter, ohne sie zu lesen. Jara blinzelte langsam, sah erneut hinunter, begann ein drittes Mal. Sieben. Wie vorher.
 
-Der Lampenschein lag ruhig auf dem Papier. Nur ihre Kehle fühlte sich plötzlich zu eng an. Sie schrieb trotzdem einundzwanzig in den Bogen. Ihre Hand blieb ruhig. Beim Punkt drückte der Bleistift einen Strich zu fest in das Papier.
+Der Lampenschein lag ruhig auf dem Papier. Nur ihre Kehle fühlte sich plötzlich zu eng an. Sie schrieb trotzdem einundzwanzig in den Bogen. Ihre Hand blieb ruhig. Der Punkt am Ende saß tiefer im Papier als nötig.
 
 Halvard kam kurz vor neun. Schon im Treppenhaus erkannte sie seinen Schritt, schwerer als sonst, langsamer. Sie stand auf, bevor er die Tür öffnete. Die Schachtel lag unter seinem linken Arm: dunkles Eichenholz mit kupfernen Schließen, auf dem Deckel in seiner Handschrift ANATOMIE · WICKEL · TINKTUREN · LEHRE 551 AB GLUTMOND. Die Tinte war zwei Jahreszeiten alt. In der rechten Hand hielt er einen gefalteten Bogen mit sichtbarem Praxisstempel.
 
@@ -70,7 +70,7 @@ Er zog den oberen Bogen zu sich. Datum: 1. Dunkelmond 551. Drei Absätze in oper
 
 Er zog den zweiten Bogen heran. Schenkungs-Urkunde, in derselben Handschrift, mit derselben Tinte. Die Erklärung umfasste drei Sätze. Maren Ilves überträgt die Werft Dahl an der Hafengasse, mit allem Inventar samt zugehörigem Wohngebäude, an Edric Dahl. Sofort wirksam, ohne Klausel. Datum: 1. Dunkelmond 551. Unterschrift: Maren Ilves, in dem schmalen Zug, den sie immer machte, das v und das e zu einer geraden Linie gezogen. Darunter zwei Zeugenfelder, leer; am unteren Rand des Bogens, in einer Zeile: *Zeugen: Jara Voss und Tarn. Beide bestellt.*
 
-Edric las die Urkunde zweimal durch. Beim zweiten Mal drückten seine Finger den Bogen flach. Er hob die Hand wieder, legte die Urkunde neben den Brief.
+Edric las die Urkunde zweimal durch. Beim zweiten Mal drückten seine Finger den Bogen flach. Etwas zog sich unter seinem Brustbein zusammen, wie bei einem Schlag, den er nicht gesehen hatte. Er hob die Hand wieder, legte die Urkunde neben den Brief.
 
 Aus der zweiten Schublade holte er das Sundsteiner-Ruderblatt-Aufmaß. Maren hatte es gestern Abend angelegt; ihre Linien zogen sich frisch über das Papier, kein Bleistiftstaub am Rand. Er fuhr die obere Wölbung mit dem Zeigefinger nach, von links nach rechts, ohne nachzumessen. Er kannte das leichte Anheben in der Mitte.
 

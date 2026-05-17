@@ -1,6 +1,7 @@
 # Kapitel-Assessment-Datensatz — Buch 1
 
-*Erstellt: 2026-05-14 · 39 finale Kapitel · Strukturierte Daten: `kapitel-scores.json`*
+*Erstellt: 2026-05-14 · 40 finale Kapitel · Strukturierte Daten: `kapitel-scores.json`*
+*Update 2026-05-17: K40 (Vael-Epilog) nachgetragen. K38 (Alphina, Trilogie-Wendepunkt) noch ausstehend.*
 
 Pro finalem Kapitel ein Subagent (Opus): Council-Assessment (7 Achsen 0-10 + Verdikt + Staerken/Schwaechen + PFLICHT-Findings) + Book-Council-Rating (5 Leserinnen-Archetypen, Marktfaehigkeit 0-100).
 
@@ -26,6 +27,7 @@ Pro finalem Kapitel ein Subagent (Opus): Council-Assessment (7 Achsen 0-10 + Ver
 - 2026-05-15: Varianten-Hybrid K08 + 3 Pflicht-Fixes. Verifikations-Council: 9.3 FINAL-REIF. Heuristik 6.7 unterschaetzt um +2.6. K08 mit echten Werten ueberschrieben. Bestaetigt: Heuristik fuer hochgesweepte Kapitel konservative Untergrenze.
 - 2026-05-15: Varianten-Hybrid I1 (Variante-Basis + 4 Imports aus aktueller + 4 Antithese-Streichungen). Verifikations-Council: 9.3 FINAL-REIF direkt. Heuristik 7.0 unterschaetzt um +2.3. Final-Reif-Liste: 8 -> 9 Kapitel.
 - 2026-05-15: Varianten-Hybrid K24 + 3 Pflicht-Fixes. Verifikations-Council: 9.2 FINAL-REIF. Heuristik 7.1 unterschaetzt um +2.1. Final-Reif-Liste: 9 -> 10 Kapitel.
+- 2026-05-17: K40 (Vael-Epilog) als 40. Eintrag aufgenommen. Council-Ø ohne Heat = 9.25 (FINAL-REIF strukturell), Ø mit Heat=1-Epilog-Konvention = 8.07 (formal NICHT-FINAL nach Schwelle, analog I3). Achsen: sog 8.9 / plot 9.2 / stil 9.1 / pov 9.4 / verst 9.4 / tschechow 9.5. Book-Council MEIKE 90 BESTANDEN / KAYA 88 GRENZWERTIG → Ø 89.0. Hinweis: Heat-Achse benachteiligt Epilog-/Interludien-Kapitel systematisch — strukturelle Final-Reife-Bewertung sollte heat-konditioniert lesen.
 
 **Achsen-Durchschnitt (Council):**
 

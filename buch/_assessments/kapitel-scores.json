@@ -2613,6 +2613,65 @@
           "score": 74
         }
       }
+    },
+    {
+      "id": "B1-K40",
+      "pov": "Jara/Edric/Tarn (Multi-POV)",
+      "datei": "B1-K40-vael-epilog.md",
+      "council": {
+        "scores": {
+          "sog": 8.9,
+          "plot_charakter": 9.2,
+          "stil_disziplin": 9.1,
+          "pov_schaerfe": 9.4,
+          "heat": 1.0,
+          "verstaendlichkeit": 9.4,
+          "tschechow": 9.5
+        },
+        "gesamt": 8.07,
+        "verdikt": "NICHT-FINAL",
+        "verdikt_strukturell": "FINAL-REIF",
+        "verdikt_note": "Council-Schnitt ohne Heat = 9.25 (FINAL-REIF). Heat=1 (Epilog-Konvention analog I3) zieht den Gesamt-Schnitt formal unter 9.0; alle nicht-Heat-Achsen liegen >= 8.9. Strukturell final-reif.",
+        "staerken": [
+          "Drei eigenstaendige Verlust-Vignetten in drei klar geschiedenen Berufslinsen (Archiv-Signatur Jara / Aufmass-Linie Edric / Setzkasten Tarn)",
+          "Tschechow aussergewoehnlich dicht: gemeinsame Zeugen-Konstellation Jara+Tarn auf beiden Schenkungs-Urkunden verknotet Maren/Runa strukturell; Halvards Schachtel oeffnet B2 ohne ein Wort Erklaerung",
+          "Sorel-Prinzip strikt: 'Spuren hinein. Heraus fuehrte keine.' ohne Erzaehler-Glosse, jede Figur weiss nur was sie sieht",
+          "Ghost-Presence-Handwerk ohne Spuk: kalte Lederschuerze, Bett gemacht, halbfertiger Setz, Druckerschwaerze-unter-Decken als Abwesenheits-Marker",
+          "Schluss-Gewicht: 'Heute setzte er sich.' + 'Die Druckerei lief weiter.' traegt narbige Morrison-Ruhe ohne Pathos"
+        ],
+        "schwaechen": [
+          "Edric-Szene emotional knapper als Jara/Tarn-Szenen trotz Brustbein-Beat-Nachtrag — ein zweiter Beat (Halsenge oder Augen-Schliessen) waere noch denkbar",
+          "Verzaehl-Sequenz Sieben/Sechs/Sieben braucht den eingebauten Augen-Anker als Spuk-Markierungs-Bremse, sonst Risiko Spuk-Lesart",
+          "Heat-Achse strukturell 1 (Epilog-Konvention) zieht Gesamt-Schnitt unter Final-Reife-Schwelle, obwohl alle nicht-Heat-Achsen >= 8.9",
+          "Stakkato-Inventur 'Drei Knoten uebereinander, die untere Schlinge doppelt durch die obere. Marens Hand.' an der Grenze (vertretbar als Werkstatt-Inventur)",
+          "Multi-POV-Verflechtung verzichtet auf Cross-Connect-Beat in Sz3 (Werft-Besuch nur durch Tarn referenziert) — Effizienz-Plus, aber Sz2-C-Cross-Connect bleibt einseitig Edric-perspektivisch"
+        ],
+        "pflicht_findings": []
+      },
+      "book_council": {
+        "stimmen": {
+          "MEIKE": {
+            "score": 90,
+            "verdikt": "BESTANDEN",
+            "kommentar": "Dark-Fantasy-Epilog im Maas/Black-Register. 'Spuren hinein. Heraus fuehrte keine.' ist die Pointe, fuer die ich Dark Fantasy lese. Multi-POV diszipliniert, Steinkreis-Mystery offen ohne Cliffhanger-Schrei. Lese sofort B2."
+          },
+          "KAYA": {
+            "score": 88,
+            "verdikt": "GRENZWERTIG",
+            "kommentar": "Morrison-Register-Anklang ('narbige Ruhe'), Verlust-in-Arbeitshandlungen genau richtig. Tarn auf Runas Hocker als finale Geste sitzt. Edric-Brustbein-Beat hilft, koennte aber noch haerter sein."
+          }
+        },
+        "marktfaehigkeit": 89.0,
+        "verdikt": "GRENZWERTIG",
+        "risiko_stimme": "KAYA 88"
+      },
+      "_sweep_adjustment": {
+        "datum": "2026-05-17",
+        "context": "Final-Council nach komplettem Refactor (Sievert raus, Jara als gemeinsamer Zeugen-Knoten, 7 Ghost-Presence-Stiche, Mikro-Absatz-Reduktion, Edric-Werft-Routine canon-konform, 3 Pflicht-Fixes aus initialem Council umgesetzt)",
+        "vorher_council": 9.1,
+        "nachher_council": 8.07,
+        "note": "Vorher-Wert (9.1) war Final-Validierungs-Subagent-Schaetzung ohne Heat-Konvention; nachher-Wert (8.07) folgt I3-Konvention strikt. Strukturell ist das Kapitel final-reif (Achsen-Schnitt ohne Heat: 9.25)."
+      }
     }
   ]
 }

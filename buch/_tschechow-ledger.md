@@ -327,17 +327,23 @@ Plants, die in B1 gesetzt werden, aber erst in B2/B3 feuern. (Auszug aus dem Hau
 | TZ-247 | Wandlung Botanikerin → Suchende (Alphinas Identitäts-Bruch durch Sorel-Tod + Mission) | K39-Sz4 | B2-Bund-Training (Magie als Waffe statt Pflege), B2-K26/K27 (Quellen-Tötung als Mission-Folge), B3-K30 (Talven-Tötung als Fehlurteil-Mission) | geplant | Charakter-Wendepunkt, ohne Selbst-Erklärung |
 | TZ-248 | Erde an den Nägeln (Alphina wischt sich nicht ab — sie trägt die Spur mit) | K39-Sz3 (Begräbnis), K39-Sz4 (Aufbruch) | B2-K01-Wanderung (sie wischt erst Tage später ab) | geplant | Sorel-Spur am Körper, leise |
 | TZ-249 | Klappmesser von Maren (einziges greifbares Werkzeug der Vier nach Riss-Durchgang) | K39-Sz2 | B2-K03-Dravek-Ankunft (Werkzeuge erwerben), B2-K06-Elke (Werkzeuge als Tausch-Gut) | geplant | Werkzeug-Knappheit als B2-Setup |
-| TZ-250 | Halvards Notizen-Schachtel zurueckgelassen in Alphinas Wohnung (Alphina nahm sie nicht mit, ging mit Saatgut allein) | K34-Sz2 (Plot-Korrektur 2026-05-11) | K40-Sz1 (Halvard findet sie via Frau Karst, bringt sie zu Jara ins Stadtarchiv) | abgefeuert | Schock-Beat fuer Halvard, Konvolut-Position 6; B3-Tschechow falls Alphina zurueckkommt |
-| TZ-251 | Konvolut „D-551-N" im Stadtarchiv (Manuskript-Original + Abschrift + Schemen-Inventur-Bogen + Runas Flugblaetter + Halvards Bericht + Schachtel) mit Fundverzeichnis-Querablage | K40-Sz1 | B3-Recherche (jemand findet das Konvolut spaeter via Signatur) | geplant | Beweis-Material fuer B3 |
-| TZ-252 | Marens Schenkungs-Urkunde Werft Dahl an Edric Dahl (sofort wirksam 1. Dunkelmond 551, keine Rueckkehr-Klausel, Zeugen Sievert+Tarn) | K34-Sz3a (Brief+Urkunde geschrieben) | K40-Sz2 (Edric findet sie, Tarn bezeugt; Edric→Sievert spaeter), B2/B3 (Eigentums-Doku falls Maren zurueckkommt) | abgefeuert | Maren rechnet nicht mit Rueckkehr — Schock-Beat |
-| TZ-253 | Runas Uebergabe-Brief an Tarn (Druckerei + Inventar, wirksam vor 1. Saatmond 552, Zeugen Edric+Sievert) | K31-Sz3 (Brief in verschlossener Schublade) | K40-Sz3 (Tarn liest, Sievert + Edric als Zeugen) | abgefeuert | Tarn als naechster Drucker von Vael |
-| TZ-254 | Halbfertiger Setzkasten in der Druckerei (Runas letzte Flugblatt-Auflage, nie gedruckt) | K40-Sz3 | B3-Forensik (falls jemand die Druckerei-Geschichte rekonstruiert) | geplant | Tarn setzt sie zuende — Geste der Uebernahme |
+| TZ-250 | Halvards Notizen-Schachtel zurueckgelassen in Alphinas Wohnung (Alphina nahm sie nicht mit, ging mit Saatgut allein) | K34-Sz2 (Plot-Korrektur 2026-05-11) | K40-Sz1 (Halvard findet sie via die Vermieterin, bringt sie zu Jara ins Stadtarchiv) | abgefeuert | Schock-Beat fuer Halvard, Konvolut-Position 6; B3-Tschechow falls Alphina zurueckkommt; Halvards Erklaerung an Jara: »Vesper hat einmal gesagt, Ihr verwahrt, was sonst keinen Platz findet« |
+| TZ-251 | Konvolut „D-551-N" im Stadtarchiv (Manuskript-Original + Abschrift + Arten-Inventur-Bogen + Runas Flugblaetter + Halvards Anomalien-Bogen + Schachtel) in hinterer Querablage mit Fundverzeichnis | K40-Sz1 | B2/B3-Forensik (jemand findet das Konvolut spaeter via Signatur — Schwellenforschungs-Anker) | geladen | Beweis-Material; Jara als gemeinsamer Knoten aller drei Uebergaben |
+| TZ-252 | Marens Schenkungs-Urkunde Werft Dahl an Edric Dahl (sofort wirksam 1. Dunkelmond 551, keine Rueckkehr-Klausel, Zeugen Jara+Tarn) | K34-Sz3a (Brief+Urkunde geschrieben) | K40-Sz2 (Edric findet sie, Tarn signiert als zweiter Zeuge am Werft-Hof, Jara signiert als erste Zeugin im Archiv), B2/B3 (Eigentums-Doku falls Maren zurueckkommt) | abgefeuert | Maren rechnet nicht mit Rueckkehr — »Sofort wirksam, ohne Klausel«; Edrics Antwort »Bei mir sofort« markiert Marens Haerte vs. Runas Saatmond-Frist |
+| TZ-253 | Runas Uebergabe-Brief an Tarn (Druckerei + Inventar, wirksam vor 1. Saatmond 552, Zeugen Edric+Jara) | K31-Sz3 (Brief in verschlossener Schublade; K31-Wortlaut 2026-05-17 auf Jara aktualisiert) | K40-Sz3 (Tarn liest, Edric als erster Zeuge am Werft-Hof, Jara als zweite Zeugin im Archiv) | abgefeuert | Tarn als naechster Drucker von Vael; Sievert-Refactor 2026-05-17 |
+| TZ-254 | Halbfertiger Setzkasten in der Druckerei (Runas letzte Flugblatt-Auflage, nie gedruckt; letzte Letter spiegelverkehrt im Rahmen, Wort nicht lesbar ohne Probedruck) | K40-Sz3 | B3-Forensik (falls jemand die Druckerei-Geschichte rekonstruiert; Inhalt der Flugblatt-Serie offen) | geladen | Tarn setzt sie hinter Runas letzte Letter zuende — Geste der Uebernahme; Spiegel-Letter als Geheimnis-Anker fuer B3 |
 
 ## Abgefeuerte Plants (K40)
 
 - TZ-130 (Tarn-Augenzeuge K30/K32) → K40-Sz3 (Druckerei laeuft weiter unter Tarn)
 - TZ-136 (Uebergabevertrag mit Tarn) → K40-Sz3 (Brief gelesen, zwei Zeugen unterschrieben)
-- TZ-158 (Halvards Schachtel) → K40-Sz1 (Halvard findet sie via Frau Karst, bringt sie ins Archiv)
+- TZ-250 (Halvards Schachtel) → K40-Sz1 (Halvard findet sie via die Vermieterin, bringt sie ins Archiv; Frau-Karst-Ersatz: „Karst" ist Stadt-Canon K35)
+- TZ-251 (Konvolut D-551-N) → geladen in K40-Sz1 (alle drei Uebergaben + Halvards Material in einer Akte)
+- TZ-252 (Marens Schenkungs-Urkunde) → abgefeuert K40-Sz2 + K40-Sz3 (Tarn am Werft-Hof, Jara im Archiv)
+- TZ-253 (Runas Uebergabe-Brief) → abgefeuert K40-Sz3 (Edric am Werft, Jara im Archiv)
+- TZ-254 (Halbfertiger Setzkasten) → geladen K40-Sz3 (Tarn setzt hinter Runas letzte Letter zuende)
+- TZ-088 (Jaras Forschungsdrang) → abgefeuert K40-Sz1 (Konvolut-Archivierung; Esther-POV gestrichen)
+- TZ-159 (Schemen-/Wesen-Inventur-Bogen) → abgefeuert K40-Sz1 (Position 3 im Konvolut, „Arten"-Header analog K34-Canon)
 - Marens-Notiz fuer Edric (K34-Sz3a) → K40-Sz2 (Brief + Urkunde abgefeuert, Edric findet beide)
 - Marens „warte auf mich" (K34) → K40-Sz2 (innerer Widerspruch zur Urkunde-ohne-Rueckkehr-Klausel)
 - Boot baut sich nachts weiter (K22, K28) → K40-Sz2 (Boots-Schemen-Aufgabe abgeschlossen, Harons Bindung endgueltig erloschen)
