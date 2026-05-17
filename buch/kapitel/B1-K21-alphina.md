@@ -270,9 +270,9 @@ Bevor sie sich aufrichtete, griff er nach seiner Hose, die neben den Dielen lag,
 
 Der Kiesel.
 
-Faustgroß, glatt, mit dem dünnen Hellgrau-Faden, der im Rotlicht der Öllampe wärmer aussah als damals im Mondlicht, ein Streifen, der sich an der Krümmung entlangzog, als hätte ihn jemand mit einem nassen Finger gezogen. Sie kannte den Stein an der Linie wieder, bevor sie die Form erkannte.
+Faustgroß, glatt, mit der dünnen hellen Linie, die im Rotlicht der Öllampe wärmer aussah als damals im Mondlicht, ein Streifen, der sich an der Krümmung entlangzog, als hätte ihn jemand mit einem nassen Finger gezogen. Sie kannte den Stein an der Linie wieder, bevor sie die Form erkannte.
 
-Er sagte nichts. Er drehte ihn einmal zwischen Daumen und Zeigefinger, damit das Licht über das Hellgrau ging, dann legte er ihn neben sich auf die Diele, näher an ihrer Hüfte als an seiner.
+Er sagte nichts. Er drehte ihn einmal zwischen Daumen und Zeigefinger, damit das Licht über die helle Linie ging, dann legte er ihn neben sich auf die Diele, näher an ihrer Hüfte als an seiner.
 
 »Du hast gesagt, in der rechten Hosentasche«, sagte sie leise.
 

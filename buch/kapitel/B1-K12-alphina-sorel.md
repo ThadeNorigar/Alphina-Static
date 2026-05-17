@@ -318,7 +318,7 @@ Auf der Mauer hockten die drei. Sie sah die Augen zuerst. Er sah den Rauch.
 
 Sie blieben sitzen, bis das Mondlicht ein Stück weitergewandert war und die drei Silhouetten ohne erkennbaren Schritt verschwunden waren; sie hockten, dann hockten sie nicht mehr. Sorel ließ die Kamera sinken. Er hatte zwei Platten verbraucht.
 
-Sie standen auf, ohne ein Wort. Er klappte das Stativ ein, schlang den Riemen der Kamera quer über die Schulter. Sie ging zum Hauptweg voran. An der dritten Farngruppe, links vom Weg, hatte Henrik vor Wochen einen kleinen Steinhaufen aus den Beet-Grabungen liegen gelassen. Ein Kiesel lag obenauf: faustgroß, glatt, dunkel, mit einem dünnen Hellgrau-Faden an einer Seite, der im Mondlicht aussah, als hätte ihn jemand absichtlich hineingezeichnet. Sie hatte ihn schon dreimal gesehen und immer liegen gelassen. Heute hob sie ihn auf.
+Sie standen auf, ohne ein Wort. Er klappte das Stativ ein, schlang den Riemen der Kamera quer über die Schulter. Sie ging zum Hauptweg voran. An der dritten Farngruppe, links vom Weg, hatte Henrik vor Wochen einen kleinen Steinhaufen aus den Beet-Grabungen liegen gelassen. Ein Kiesel lag obenauf: faustgroß, glatt, dunkel, mit einer dünnen hellen Linie an einer Seite, die im Mondlicht aussah, als hätte sie jemand absichtlich hineingezeichnet. Sie hatte ihn schon dreimal gesehen und immer liegen gelassen. Heute hob sie ihn auf.
 
 Am grünen Tor blieb Sorel stehen, während sie den Schlüssel aus der Innenfalte zog.
 
