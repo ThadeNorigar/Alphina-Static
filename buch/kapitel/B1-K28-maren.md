@@ -130,9 +130,11 @@ Sie blieb eine Weile so an der Tür sitzen. Dann stand sie auf und ging in die S
 
 Vesper lag noch so, wie sie ihn verlassen hatte. Das Gesicht zur Wand, eine Handbreit unter der Wolldecke. Sein Atem ging gleichmäßig, satt, langsamer als ihrer.
 
+Marens Hand fand den Saum über der Hüfte, eine Lücke breit. Der Schachturm lag im Saum-Fach, warm vom Körper, weil sie ihn die ganze Nacht nicht herausgenommen hatte.
+
 Sie zog den Wollrock aus, ließ ihn auf die Truhe fallen und legte sich an Vespers Rücken. Ihre Brust fand sein Schulterblatt, die Knie schoben sich hinter seine, die Stirn legte sich an seinen Nacken. Die Wolldecke zog sie bis zum Kinn.
 
-Sie sah die graue Helligkeit an der Zimmerdecke langsam anwachsen; der Nebelmond-Morgen kam später als der Glutmond-Morgen, aber er kam. Über der Truhe lag der Wollrock; im Saum-Fach an der Hüfte ruhte der Schachturm, noch lau vom Körper, weil sie ihn die ganze Nacht nicht herausgenommen hatte.
+Sie sah die graue Helligkeit an der Zimmerdecke langsam anwachsen; der Nebelmond-Morgen kam später als der Glutmond-Morgen, aber er kam.
 
 Sein Rücken gab Wärme, dicht und satt, eine Wärme, die nichts wollte, nichts zurückverlangte. Ihr Atem fand seinen, langsamer mit jedem Zug, und der Hall in ihrer Brust wurde dünner, gab nach, blieb aber.
 
