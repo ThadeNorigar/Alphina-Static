@@ -34,7 +34,7 @@ Der Gedanke kam sofort, scharf und unangenehm klar. Sie hielt die Hände still n
 
 »Wir verstehen Euch nicht.«
 
-Vespers Stimme hinter ihr, knapp und kontrolliert gesprochen. Trotzdem hörte sie, wie eng er atmete. Aufmerksamkeit, kein Schrecken, der Körper hielt sich knapp zurück, um nichts Falsches zu früh zu tun.
+Vespers Stimme hinter ihr, knapp und kontrolliert gesprochen. Trotzdem hörte sie, wie eng er atmete. Sein Körper hielt sich zurück.
 
 Der Mann hob das Kinn leicht. Sein Blick ging einmal über sie alle hinweg, langsam genug, dass Alphina spürte, wie genau er jede Haltung aufnahm: Sorels offene Hand, Marens Arm am Hammerstiel, Vespers Position dicht hinter ihr. Als seine Augen sie streiften, glaubte sie erneut das violette Licht darin in Bewegung zu sehen, keine Spiegelung, eher etwas, das hinter der Pupille lebte.
 
@@ -48,7 +48,7 @@ Der Mann legte eine Hand flach gegen die Brust.
 
 »Ich bin Varen.«
 
-Dabei verbeugte er sich leicht. Keine tiefe Bewegung, kaum mehr als ein kontrolliertes Neigen von Schultern und Kopf, aber sauber ausgeführt, ohne Hast, ohne Unsicherheit. Etwas daran wirkte eingeübt, alt genug, dass die Geste nicht mehr bewusst gedacht werden musste.
+Dabei verbeugte er sich leicht. Keine tiefe Bewegung, kaum mehr als ein kontrolliertes Neigen von Schultern und Kopf, aber sauber ausgeführt, ohne Hast, ohne Unsicherheit.
 
 »Eure Namen, edle Reisende?«
 
@@ -82,7 +82,7 @@ Dann sprach er.
 
 »So tragen Wir Sorge, dass Ihr Euch nichts Törichtes erlaubet…«
 
-Die Worte kamen beinahe sanft, keine Schärfe darin, kein drohender Ton. Eher die ruhige Sorgfalt eines Mannes, der nach einem vertrauten Werkzeug griff und bereits wusste, wie viel Kraft nötig sein würde.
+Die Worte kamen beinahe sanft, keine Schärfe darin, kein drohender Ton.
 
 Im selben Atemzug wurden ihre Beine schwer. Nicht plötzlich genug, um sie taumeln zu lassen, gerade langsam genug, dass sie die Veränderung vollständig spürte. Das Gewicht sammelte sich zuerst in den Knien, dann tiefer in den Hüften, als würde der Stein unter ihren Füßen weicher werden und gleichzeitig stärker an ihr ziehen. Ihre Muskeln gehorchten noch. Aber zwischen dem Willen und der Bewegung lag plötzlich etwas Zähes. Der Druck in ihren Handflächen verdichtete sich, schob sich unter die Haut und schloss sich enger um Finger und Gelenke, wie Stoff, den jemand zu fest um die Hände wickelte. Alphina versuchte instinktiv, die Wärme nach außen zu drücken, nur ein wenig, nur genug, um zu prüfen, ob sie noch antwortete. Nichts ging hinaus.
 
@@ -98,19 +98,17 @@ Varen erreichte sie. Sie hörte den letzten Schritt nicht. Erst seine Hand ließ
 
 Sein Daumen legte sich unter ihren Kiefer, die Fingerspitzen an die Halsschlagader, leicht, ohne Druck. Eine alte Geste, etwas, das ein Arzt tun könnte oder ein Liebhaber, sauber ausgeführt, als wisse er, wo jeder Knochen sitze. Er drehte ihren Kopf um einen Bruchteil zu sich, prüfte den Winkel und ließ ihn dort. Dann beugte er sich näher, sehr langsam, und Alphina spürte zuerst seinen Atem im Haar, warm an der Schläfe entlang, bevor sie begriff, wie nah sein Gesicht bereits war.
 
-Ihr Körper antwortete, bevor sie es verhindern konnte. Die Halsschlagader sprang gegen seine Finger, jeder Schlag einzeln spürbar, laut genug, dass sie meinte, das Geräusch müsse zwischen ihnen hörbar sein. Im Bauch zog sich etwas zusammen, kalt und scharf, ein Reflex, der nichts mit dem zu tun hatte, was Sorel je in ihr ausgelöst hatte, und gerade deshalb schwerer auszuhalten war. Die Knie wurden weicher unter dem Druck, der sie schon hielt. Sie wollte nichts davon, wollte keine dieser Reaktionen. Ihr Körper kannte den Unterschied zwischen Begehren und Schock nicht. Er reagierte einfach.
+Ihr Körper antwortete, bevor sie es verhindern konnte. Die Halsschlagader sprang gegen seine Finger, jeder Schlag einzeln spürbar, laut genug, dass sie meinte, das Geräusch müsse zwischen ihnen hörbar sein. Im Bauch zog sich etwas zusammen, kalt und scharf, und sie wollte es nicht. Die Knie wurden weicher unter dem Druck, der sie schon hielt. Sie wollte nichts davon, wollte keine dieser Reaktionen. Ihr Körper kannte den Unterschied zwischen Begehren und Schock nicht. Er reagierte einfach.
 
 Varen roch nach warmem Stein und etwas Süßem.
 
 Sie kannte den Geruch. Von den drei Schatten auf der Gartenmauer im Blütenmond, dem Rauch an ihren Schultern, der dasselbe warme Stein-Aroma in die Luft gehoben hatte. Die Erkenntnis lag einfach da: dieser Mann und die Wesen gehörten zur selben Welt.
 
-Sein Gesicht blieb nah. Der Blick ruhte auf ihren Augen, aufmerksam und prüfend, nicht grausam, eher mit der konzentrierten Geduld eines Mannes, der lange nach etwas gesucht hatte und nun entscheiden musste, ob er es wirklich gefunden hatte. Alphina sah die feinen Linien um seinen Mund, den kleinen Schnitt am Kiefer, alt verheilt und hell gegen die Haut. An den Schläfen lief das Grau in einer klaren Linie ins Schwarz seines Haares über. Über Wangen, Kiefer und Oberlippe lag ein dunkler Schatten von Bartstoppeln, die Ränder akkurat geschnitten. Das violette Licht in seinen Augen schimmerte aus dieser Nähe schwächer und zog sich tiefer zurück, als läge es nicht auf der Oberfläche, sondern weit dahinter. Darunter erkannte Alphina die Iris zum ersten Mal vollständig: ein tiefes Purpur, satt und dunkel, ohne das aktive Glimmen, eine Farbe, die kein Mensch in Vael trug. Sie hörte ihre eigene Halsschlagader unter seinem Daumen. Sie konnte sich nicht abwenden.
+Sein Gesicht blieb nah. Der Blick ruhte auf ihren Augen, aufmerksam und prüfend. Alphina sah die feinen Linien um seinen Mund, den kleinen Schnitt am Kiefer, alt verheilt und hell gegen die Haut. An den Schläfen lief das Grau in einer klaren Linie ins Schwarz seines Haares über. Über Wangen, Kiefer und Oberlippe lag ein dunkler Schatten von Bartstoppeln, die Ränder akkurat geschnitten. Das violette Licht in seinen Augen schimmerte aus dieser Nähe schwächer und zog sich tiefer zurück, als läge es nicht auf der Oberfläche, sondern weit dahinter. Darunter erkannte Alphina die Iris zum ersten Mal vollständig: ein tiefes Purpur, satt und dunkel, ohne das aktive Glimmen, eine Farbe, die kein Mensch in Vael trug. Sie hörte ihre eigene Halsschlagader unter seinem Daumen. Sie konnte sich nicht abwenden.
 
 Dann verschob sich sein Blick.
 
-Nur ein Atemzug, nicht mehr. Etwas hinter ihr, an der Schwelle, hatte seine Konzentration eingefangen. Seine Fingerspitzen blieben am Hals. Aber seine Augen waren nicht mehr ganz bei ihr.
-
-Sein Blick hob sich von ihr weg, an ihr vorbei, nach hinten. Etwas hinter ihr hatte ihn gefangen. Im selben Moment lockerte sich der Druck, der sie hielt, an den Beinen zuerst, dann an Brust und Atem, noch da, aber locker.
+Nur ein Atemzug, nicht mehr. Etwas hinter ihr, an der Schwelle, hatte seine Konzentration eingefangen. Seine Fingerspitzen blieben am Hals. Aber seine Augen waren nicht mehr ganz bei ihr. Im selben Moment lockerte sich der Druck, der sie hielt, an den Beinen zuerst, dann an Brust und Atem, noch da, aber locker.
 
 Alphina drehte den Kopf, schwer durch den Rest der Kraft, die noch an ihr hing. Sie sah zur Schwelle. Ein Schatten schälte sich aus dem Riss, rannte, ohne anzuhalten. Sie hörte den Laut, bevor sie das Gesicht erkannte: ein Schrei ohne Worte, roh, kehlig, zu tief aus der Brust geholt, um noch Kontrolle darin zu tragen. Runa.
 
@@ -132,25 +130,25 @@ Sorel lag reglos auf dem Rücken. In dem Moment, in dem er auf die Fläche schlu
 
 Alphina starrte ihn an. Der Schein begann bereits wieder schwächer zu werden, zuerst an den Rändern der Wunde, dort, wo Blut den Stoff tränkte. Sie sah es, ohne es zu fassen. Ihr Körper war schneller als jeder Gedanke.
 
-Der Heilwille setzte ein, ohne Entscheidung, ohne Gedanken davor, dieselbe Bewegung, mit der sie jede Wunde der letzten Monate beantwortete. Ihre Hand hob sich von selbst, halb ausgestreckt zu ihm hin, und in ihrem Kopf entstand sofort das vertraute Bild: Wundränder, die sich Faser für Faser schlossen, gebrochenes Brustbein, das unter Wärme wieder zusammenwuchs, Fleisch über Knochen, Haut über Fleisch, Atem, der zurückkehrte. Sie griff danach wie nach etwas Sicherem.
+Der Heilwille setzte ein, ohne Entscheidung, ohne Gedanken davor, dieselbe Bewegung, mit der sie jede Wunde der letzten Monate beantwortete. Ihre Hand hob sich von selbst, ausgestreckt zu ihm hin, und in ihrem Kopf entstand sofort das Bild: Wundränder, die sich Faser für Faser schlossen, gebrochenes Brustbein, das unter Wärme zusammenwuchs, Fleisch über Knochen, Haut über Fleisch.
 
 Wärme löste sich unter ihrem Brustbein und strömte aus ihr heraus, direkt auf ihn zu. Sie drückte den Willen in seinen Körper, präzise und geübt, mit derselben konzentrierten Bewegung, die sie an Halvards Patienten hundertmal eingeübt hatte. Bedacht. Geführt. Gewebe musste man tragen, nie zerren.
 
 Sein Körper blieb leer. Sein Brustkorb hob sich nicht. Alphina zwang den Willen tiefer hinein, das Bild in ihrem Kopf wurde schärfer. Sie zog jede einzelne Heilung herauf, die sie je unter Halvards Hand gesehen hatte, jede ruhige Bewegung seiner Finger, jedes langsame Schließen zerrissener Haut, jedes Spüren, wenn lebendes Gewebe auf sie zurückgriff. Sorel griff nicht zurück.
 
-Der Schrei kam aus ihr heraus, hoch und dünn und ohne Worte. Sie hörte ihn nur entfernt, als gehöre er jemand anderem. Der Heilwille lief trotzdem weiter. Sie drückte stärker, bis ihr unter den Rippen Schmerz aufstieg und die Wärme aus ihrem Körper zu reißen begann. Der Schein auf Sorels Brust verblasste inzwischen von den Rändern her, die Fläche unter ihm wurde wieder dunkel. Sie hörte trotzdem nicht auf.
+Der Schrei kam aus ihr heraus, hoch und dünn und ohne Worte. Sie hörte ihn nur entfernt, als gehöre er jemand anderem. Der Heilwille lief trotzdem weiter. Sie drückte stärker, bis unter ihren Rippen Schmerz aufstieg. Der Schein auf Sorels Brust verblasste inzwischen von den Rändern her, die Fläche unter ihm wurde wieder dunkel. Sie hörte trotzdem nicht auf.
 
 Dann geschah etwas an seiner Brust. Aus der langen Wundlinie quer über seinen Brustkorb, mitten in der zerrissenen Haut, drängten Knospen hervor, klein, dann größer, schwarze Blütenblätter mit blut-rotem Saum, die Stängel violett, dort wo eben noch der Schein unter der Haut gestanden war. Sie öffneten sich ohne Zwischenstufe und blieben aufrecht, weder sinkend noch verdorrend, als hätte sein Körper ihnen Platz gemacht. Ihre Wärme floss noch immer in ihn hinein, sie spürte das, und was daraus zurückkam, hatte mit Heilung nichts gemein.
 
-Erst langsam begann ihr Körper zu begreifen, was ihr Verstand verweigerte. Sein Gewebe lag tot, ohne Spannung, ohne jeden Empfänger; was sie in ihn hineindrängte, trieb leer durchs Fleisch.
+Sein Gewebe lag tot, ohne Spannung, ohne jeden Empfänger; was sie in ihn hineindrängte, trieb leer durchs Fleisch.
 
 Die Erkenntnis kam nicht als Satz. Sie sank kalt in ihren Brustkorb wie ein Gewicht. Fort. Das Wort formte sich nur halb, und stand trotzdem plötzlich überall in ihr.
 
-Der Heilwille spannte sich noch einmal an, verzweifelt, fast krampfhaft, gegen das, was ihm fehlte. Dann riss etwas in ihr ab, kein lautes Reißen, eher wie ein Faden, der zu lange unter Zug stand. Für einen Augenblick sackte der Druck unter ihrem Brustbein einfach weg. Doch er blieb, verlagerte sich nur. Tiefer unten sammelte er sich neu, schmal und scharf, irgendwo hinter ihrem Becken, als suche dieselbe Kraft plötzlich einen anderen Weg aus ihrem Körper heraus. Alphinas Blick löste sich endlich von Sorels reglosem Brustkorb. Jenseits der Steinkante stand Varen mit dem schief von der Schulter hängenden Mantel. Dahinter ragte das Wesen auf den Hinterbeinen empor. Etwas in ihr hörte auf, sich zurückzuhalten.
+Der Heilwille spannte sich noch einmal an, verzweifelt, fast krampfhaft, gegen das, was ihm fehlte. Dann riss etwas in ihr ab, kein lautes Reißen, eher wie ein Faden, der zu lange unter Zug stand. Für einen Augenblick sackte der Druck unter ihrem Brustbein einfach weg. Doch er blieb, verlagerte sich nur. Tiefer unten sammelte er sich neu, schmal und scharf, irgendwo hinter ihrem Becken, als suche dieselbe Kraft plötzlich einen anderen Weg aus ihrem Körper heraus. Alphinas Blick löste sich von Sorels reglosem Brustkorb. Jenseits der Steinkante stand Varen mit dem schief von der Schulter hängenden Mantel. Dahinter ragte das Wesen auf den Hinterbeinen empor.
 
 Neben ihrem rechten Stiefel sprang zwischen zwei Steinplatten ein schmaler Riss auf. Aus der dunklen Fuge drängte sich etwas nach oben, daumendick und pechschwarz, gegliedert wie verkohltes Holz, das niemals hätte wachsen dürfen. Es kam nicht allein.
 
-Aus den Fugen rings um sie sprangen weitere Risse auf. Einer nach dem anderen lief durch die Steinplatten ein trockenes Knacken, getrieben von einem Druck unter der ganzen Fläche. Schwarze Triebe brachen aus den Spalten hervor, daumendick, gegliedert wie verkohltes Holz, mit langen Stacheln entlang der Stängel, die noch während des Wachstums dunkler wurden. Sie kamen schnell hoch, eher wie etwas, das bereits vollständig existierte und nur noch aus dem Stein herausgedrängt werden musste.
+Aus den Fugen rings um sie sprangen weitere Risse auf. Einer nach dem anderen lief durch die Steinplatten ein trockenes Knacken, getrieben von einem Druck unter der ganzen Fläche. Schwarze Triebe brachen hervor, mit langen Stacheln entlang der Stängel, die noch während des Wachstums dunkler wurden. Sie kamen schnell hoch, eher wie etwas, das bereits vollständig existierte und nur noch aus dem Stein herausgedrängt werden musste.
 
 Hinter Alphina bewegte sich Vesper. Sie nahm ihn erst wahr, als der Luftzug seines Schrittes ihren Nacken streifte. Seine Hand war bereits nach ihrer Schulter ausgestreckt, kontrolliert, schnell genug, sie im nächsten Augenblick zu erreichen. Genau unter seinem Stiefel sprang eine weitere Fuge auf. Der Trieb schoss so abrupt empor, dass Alphina nur die Bewegung sah: schwarzes Holz, ein kurzes Aufreißen von Stoff, dann fuhr der Dorn durch den Mantel direkt in den Schulteransatz. Vesper fluchte einmal, scharf zwischen den Zähnen. Sein Körper wich zurück, ein einziger kontrollierter Schritt, doch der Stoff an seiner Schulter färbte sich bereits dunkel. Für einen Moment blieb seine Hand noch halb erhoben vor ihm stehen, als hätte sein Körper die Bewegung noch nicht ganz aufgegeben. Dann sank sie langsam ab. Alphinas Atem stockte. Sie hatte ihn getroffen.
 
@@ -164,7 +162,7 @@ Etwas anderes schlug Alphina von rechts in die Wahrnehmung. Erst eine Welle Hitz
 
 Varen nutzte den Augenblick. Mit der freien Hand griff er nach der Ranke um seinen Oberarm und riss sie ab, ein einziger fester Zug, der den Stoff seines Mantels mit aufriss. Das kniehohe Wesen vor ihm schlug weiter die nachschießenden Stiele zur Seite, eine Bresche in der Dornenwand breit genug für einen Schritt zurück.
 
-Die schwarzen Stiele drückten weiter aus den aufgebrochenen Fugen, rieben trocken aneinander und hoben sich zwischen den Körpern immer höher. Die Wärme strömte nicht mehr aus Alphina heraus. Sie lief durch sie hindurch, war in ihren Fingerspitzen wie in den Stielen gleichzeitig, in der Ranke an Marens Wade und in der Welle, die noch immer aus dem Boden brach, und Alphina wusste nicht mehr, wo sie selbst endete und wo die Pflanzen anfingen. Sie wusste nur, dass sie nicht aufhören würden.
+Die schwarzen Stiele drückten weiter aus den aufgebrochenen Fugen, rieben trocken aneinander und hoben sich zwischen den Körpern immer höher. Die Wärme strömte nicht mehr aus Alphina heraus. Sie lief durch sie hindurch, war in ihren Fingerspitzen wie in den Stielen gleichzeitig, in der Ranke an Marens Wade und in der Welle, die noch immer aus dem Boden brach, und Alphina wusste nicht mehr, wo sie selbst endete und wo die Pflanzen anfingen.
 
 Aus dem Boden vor Varen brachen weitere Stiele hervor, schneller als sein kniehohes Wesen sie wegschlug. Eine Ranke schoss nach seinem Knöchel, eine zweite nach seiner freien Hand. Er trat einen Schritt zurück, dann noch einen, der verletzte Oberarm dicht am Körper, der Mantel an der Schulter offen. Das Wesen vor ihm riss eine Stielspitze ab, die zwischen die Halme fiel, dunkler Saft an seinen Klauen.
 
