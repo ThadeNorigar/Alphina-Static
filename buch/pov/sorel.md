@@ -26,7 +26,7 @@ reihenfolge: 95
 
 **Wertgerüst:** Beobachten, Schweigen, Geduld. Sorel sagt nicht, was er meint. Er fragt, ob das Fenster offen ist, statt zu sagen, dass er Angst hat. Er vollendet Sätze anderer oder lässt sie hängen. **Hände präzise, auch wenn der Rest zittert** — Atem zwingt er tiefer, weil flacher Atem die Hände unsicher macht. Hände arbeiten autonom weiter, wenn der Kopf weggeht.
 
-**Schuldschein als Tragik-Kern:** Er erkennt Alphina in K12 an der Sehne ihres Handgelenks, **bevor** er ihr Gesicht im Mondlicht lesen kann — weil er sie seit dreizehn Jahren auf Platten gemalt hat, ohne es zu wissen. Er sagt es ihr nicht. Jedes Treffen mit ihr trägt dieses Ungesagte. Sein Sterben in B1-K38 ist die letzte Konsequenz dieses Schweigens: er stellt sich zwischen Varen und Alphina (K30-Schwur eingelöst), seine ungeordnete Resonanz reißt aus ihm.
+**Schuldschein als Tragik-Kern:** Er erkennt Alphina in K12 aus zwanzig Schritt, **bevor** das Mondlicht an ihr Gesicht kommt — am Rhythmus ihres Gangs, an der Art, wie sie zum Stillstand kommt (kein Nachschwung, die Bewegung läuft aus, als hätte sie sie schon zu Ende gedacht, bevor sie sie anfing), an der Komposition ihrer Hände im Ruhezustand (die linke offen am Schenkel, die rechte locker angewinkelt). Drei-Element-Anker: Bewegungs-Rhythmus + Stillung als Vorgriff + Hand-Komposition. Fotograf-spezifisch (Cartier-Bressons „decisive moment" als Auge für den Übergang von Bewegung in Komposition, Daguerreotypisten-Stillungs-Praxis). Er hat sie seit dreizehn Jahren auf Platten festgehalten, ohne es zu wissen. Er sagt es ihr nicht. Jedes Treffen mit ihr trägt dieses Ungesagte. Sein Sterben in B1-K38 ist die letzte Konsequenz dieses Schweigens: er stellt sich zwischen Varen und Alphina (K30-Schwur eingelöst), seine ungeordnete Resonanz reißt aus ihm.
 
 **Körperliches Profil:** Glatt rasiert, kein Bart (Memory `project_sorel_kein_bart.md`). Schlanke schmale Schultern, Mantel immer eine Nummer zu weit. Chemie-Geruch (Pyrogallol, Fixiersalz) nur in Arbeit-am-Material-Szenen — in Nähe-Szenen riecht er nach Haut, Leinen, Abendluft (Memory `feedback_sorel_geruch_nicht_chemie.md`).
 
@@ -109,7 +109,7 @@ Satzlänge bis ~50 Wörter, Bandwürmer erlaubt. Rhythmus: Stille + Beobachtung.
 
 **In K12 dazugelernt:**
 - Die Frau von Platte 14 lebt. Sie heißt Alphina, kommt aus Velde, ist Botanikerin. Sie hat einen eigenen Schlüssel zum grünen Tor des Gartens (von Henrik).
-- Er hat sie an der **Sehne ihres linken Handgelenks** erkannt, bevor er ihr Gesicht im Mondlicht lesen konnte. Er hat die Platte nicht erwähnt. **Schuldschein, ungesagt.**
+- Er hat sie aus zwanzig Schritt am **Drei-Element-Anker** erkannt (Gang-Rhythmus + Stillung als Vorgriff + Hand-Komposition im Ruhezustand), bevor er ihr Gesicht im Mondlicht lesen konnte. Er hat die Platte nicht erwähnt. **Schuldschein, ungesagt.**
 - Sie hat eine Form von Magie, die Wunden strafft. Sie hat seine bandagierte Hand ohne Vorwarnung berührt, ohne Erklärung, und die Wundschicht hat sich festgezogen, eine Wärme kam von innen. Er hat es gespürt, ohne Worte dafür zu finden.
 - Drei katzengroße Schemen auf der Mauer am Hauptweg-Ende. Rauchende Schultern — dieselbe Art wie das Wesen, das ihm die Hand verbrannt hat. Sie greifen nicht an. Sie sitzen und beobachten. Er weiß, was sie können.
 - Sie ist die Art Frau, die auf eine Frage eine Antwort erwartet und zurückkommt, wenn sie keine bekommt. Seine Mutter war so.
@@ -141,7 +141,7 @@ Satzlänge bis ~50 Wörter, Bandwürmer erlaubt. Rhythmus: Stille + Beobachtung.
 - **Die Kamera als Instrument**, das mehr sieht als der Mensch.
 - **Der Nagel**, der schon in der richtigen Höhe in der Kellerwand steckte — als hätte jemand gewusst, wie Dunkelkammern aufgebaut werden.
 - **Das Rosmarin in der Kameratasche.**
-- **Der Schuldschein** (K12) — er hat Alphina an der Sehne erkannt, ihr die Platte nicht genannt. Jede weitere Begegnung mit ihr trägt dieses Ungesagte mit. **Feuert in K21**, im Moment, in dem er den Kontrollverlust mit ihr in der Dunkelkammer hat und die Projektionen sichtbar werden.
+- **Der Schuldschein** (K12) — er hat Alphina am Drei-Element-Anker aus zwanzig Schritt erkannt (Gang-Rhythmus + Stillung + Hand-Komposition), ihr die Platte nicht genannt. Jede weitere Begegnung mit ihr trägt dieses Ungesagte mit. **Feuert in K21**, im Moment, in dem er den Kontrollverlust mit ihr in der Dunkelkammer hat und die Projektionen sichtbar werden.
 - **Die geheilte Hand** (K12 → Echo K13) — der Verband wird ab der nächsten Nacht sichtbar straffer, die Wunde schließt schneller, als eine Brandwunde zweiten Grades schließen sollte. Er weiß, dass Alphina es war, ohne dass sie es benannt hat. **Feuert in K13/14**, wenn er den Verband abnimmt und zum ersten Mal bewusst wahrnimmt, was ihre Berührung bewirkt hat.
 - **Das wackelige Bild von ihren Händen am Stein** (K12) — einhändig belichtet, Schärfering schräg, das Bild wird unscharf. Er hat trotzdem abgedrückt. **Feuert** in der Dunkelkammer in K13 — das unscharfe Bild zeigt mehr, als das scharfe gezeigt hätte, weil die Bewegung ihrer Hände auf dem Stein den Puls des Hügels mit-belichtet.
 - **K30 Schwur „Alphina schützen"** — der Schwur, der in B1-K38 fatal wird. Pivot-Anker für sein Sterben.
@@ -189,7 +189,7 @@ Sorel stirbt B1-K38, aber sein Nachklang trägt sich durch beide Folgebücher. M
 
 **B1 emotionaler Kern.** Sorel ist Alphinas einzige Beziehung mit Augenhöhe in B1 — sie führt, er hat Grenzen, sie respektieren sich. Sein Tod öffnet die Anti-Flora und damit Alphinas B2/B3-Bogen.
 
-**Schweigen als Tragik.** Der Schuldschein aus K12 ist seine Tragödie en miniature: ein Wort hätte alles ändern können (er erkennt Alphina an der Sehne), er sagt es nicht. Sein Sterben ist die letzte Konsequenz dieses Schweigens — er stellt sich zwischen Varen und Alphina, weil er sie schützt, ohne darüber zu reden.
+**Schweigen als Tragik.** Der Schuldschein aus K12 ist seine Tragödie en miniature: ein Wort hätte alles ändern können (er erkennt Alphina an einer Komposition, die er dreizehn Jahre auf Platten belichtet hat, ohne zu wissen, wessen Komposition es war), er sagt es nicht. Sein Sterben ist die letzte Konsequenz dieses Schweigens — er stellt sich zwischen Varen und Alphina, weil er sie schützt, ohne darüber zu reden.
 
 **Kamera als Tschechow-Triade:** Werkzeug seines Berufs, Verstärker seiner Magie, Symbol seines Lebens. Sie stirbt mit ihm — Silberhalogenid rieselt neben seinem Körper. Beruf und Resonanz zerbrechen gemeinsam.
 

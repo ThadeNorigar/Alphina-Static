@@ -81,7 +81,11 @@ Er ging die Treppe hoch. Im Lichthaus war es still; die Wirtin schlief schon sei
 
 In der Hafengasse stand dünner Dunst über dem Pflaster, und der süße Rauch aus der Südost-Stadt mischte sich mit dem Salz vom Hafen, schwerer heute Nacht als an den Vorabenden. Eine Patrouille zog zwei Querstraßen weiter ihre Runde; das Klappern der Säbelscheiden drang bis zu ihm. Er nahm den langen Weg zu Alphinas Unterkunft: die Straßen mit Lampen an den Hauswänden, die Häuser mit offenen Fenstern, die Gassen, in denen er bei einem Schritt rückwärts noch jemanden sehen würde.
 
-Vor Alphinas Tür hielt er an. Die Luft kam flach, dann zu schnell. Seine Hand stockte einen Atemzug, bevor sie das Holz berührte. Dann klopfte er.
+Vor Alphinas Tür hielt er an. Die Luft kam flach, dann zu schnell. Seine Hand stockte einen Atemzug, bevor sie das Holz berührte.
+
+Der Gedanke, ob die Form ihm gefolgt war, war kleiner als der Gedanke, ob sie ihm aufmachen würde.
+
+Dann klopfte er.
 
 Sie öffnete schneller, als er gerechnet hatte. Sie sah ihn an. Er stand still, die Hände an den Manteltaschen, sagte nichts. Sie trat zurück und ließ ihn ein.
 
@@ -90,5 +94,7 @@ Sie hängte seinen Mantel an den Haken im Flur. Seine Hände suchten die Mantelt
 Er folgte ihr in ihr Schlafzimmer. Das Bett war kalt; sie hatte nicht geschlafen. Er legte sich an ihre Seite, in Hose und Hemd; die Schuhe stellte er an die Bettkante. Sie nahm seine Hand. Sie fragte nicht.
 
 Er drehte den Kopf zur Tür. Seine Schultern lagen hoch und blieben es. Sie hielt ihre Hand auf seinem Hemd, am Brustbein, sagte nichts. Dann löschte sie das Licht.
+
+Wenn das Wesen jetzt durch die Tür käme, würde er sich davorstellen. Der Gedanke war da, ohne dass er ihn gedacht hatte.
 
 Er lag im Dunkeln, mit offenen Augen. Aus dem Treppenhaus kamen die Schritte einer Nachbarin, eine Tür, die sich schloss. Aus der Hafengasse drang das Klappern der Patrouille zwei Querstraßen weiter; irgendwo im Haus knackte ein Balken. Bei jedem Geräusch war er einen Moment sicher: wieder etwas.

@@ -154,6 +154,8 @@ Ihre Handflächen wurden warm. Neben ihr drehte sich ein dritter Farnwedel. Dann
 
 Sein Blick blieb auf ihr. Er hatte gewählt zu schweigen, und der Boden unter ihren Sohlen wusste es vor ihr.
 
+Sein Daumen ging an die Kameratasche an seiner Hüfte und blieb dort liegen, drei Atemzüge, vier. Er sagte nichts.
+
 Ihre Füße reagierten nicht sofort. Einen Augenblick lang wollte ihr Körper etwas anderes als ihr Kopf, die Wärme in den Handflächen. Dann griffen die Sohlen, und sie drehte sich um.
 
 Sie ging den Steg zurück, nicht hastig, nicht langsam. Die Dielen gaben unter ihren Schritten nach, ein federndes Schwanken, das sie an den Steg in Velde erinnerte. Das sie nicht an den Steg in Velde erinnern wollte.

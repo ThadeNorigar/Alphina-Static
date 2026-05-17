@@ -86,7 +86,7 @@ Stand B1: fünf Monate Training (seit K23-Experiment). Bewusste Kontrolle über:
 - **Beuge ihrer Kehle** — Licht über der Halsschlagader, Kuhle am Hals
 - **Ellenbogenbeuge** — wo sie das Gewicht beim Aufstützen verlagert hat
 - **Linie ihrer Wirbelsäule** — Licht zog die Wirbel hervor, eine nach der anderen
-- **Innenseite ihres Handgelenks** — Sehne (Canon K12), später Lichtspiel
+- **Innenseite ihres Handgelenks** — Lichtspiel auf Haut, weiche Hautwölbung über der Vene
 - **Knie / Kniekehle** — wenn sie sich aufrichtete
 
 **Verboten als alleiniger Begehren-Anker:** Schlüsselbein (zu tame, Genre-Standard), „Hände", „Haar" (zu generisch).

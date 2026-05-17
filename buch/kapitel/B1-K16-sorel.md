@@ -125,7 +125,7 @@ Er hatte die Stücke zusammengeklebt und in eine Schublade gelegt. Dreizehn Jahr
 
 Er hatte es in jeder Dunkelkammer seines Lebens eingesetzt, ohne zu wissen, dass er es tat. Die feinen Unschärfen, die er einer guten Emulsion zugeschrieben hatte. Die kleinen Verschiebungen im Licht, die er für Glück gehalten hatte. Die Bilder, die besser wurden, wenn er fest genug wollte. Jeder Fotograf, den er kannte, hätte an seiner Stelle geglaubt, es sei Handwerk.
 
-Die elf Platten lagen in der Schublade hinter ihm. Er musste sie nicht herausnehmen, um zu wissen, was auf ihnen stand. Alphina an Orten, an denen sie nicht gewesen war; im Hintergrund zwischen zwei Pollern, nachts am Becken von Nachtholm, im Mittelgrund einer Oberstadt-Gasse, wo die Wand stand, wie sie stehen sollte. Ihre Sehne am linken Handgelenk. Die Bewegung ihrer Hand am Stein.
+Die elf Platten lagen in der Schublade hinter ihm. Er musste sie nicht herausnehmen, um zu wissen, was auf ihnen stand. Alphina an Orten, an denen sie nicht gewesen war; im Hintergrund zwischen zwei Pollern, nachts am Becken von Nachtholm, im Mittelgrund einer Oberstadt-Gasse, wo die Wand stand, wie sie stehen sollte. Die Komposition ihres Stands, der Kopf drei Grad geneigt. Die Bewegung ihrer Hand am Stein.
 
 Dies war nicht das erste Mal, dass er sie auf Glas gezogen hatte. Er hatte es Monat für Monat getan, mit jenem Teil seines Willens, dem er keine Stimme gegeben hatte.
 
@@ -224,3 +224,5 @@ Er sah seine Finger, wie sie sich auf den Keil zubewegten.
 Drei Fingerbreit davor blieben sie stehen.
 
 Dann zog er die Hand zurück.
+
+Heute Nacht würde er die Schublade wieder öffnen. Er wusste das, wie man weiß, dass man atmen wird.

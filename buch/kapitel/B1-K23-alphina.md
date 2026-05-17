@@ -114,9 +114,9 @@ Alphina merkte, dass ihre Fingerspitzen warm waren, ihre Knie auf der Diele drü
 
 Er stand auf und ging um den Tisch herum, langsam. Er kniete neben ihr, und jetzt war sein Körper so nah, dass sie die Wärme durch den Stoff seines Hemdes spürte. Der Tisch mit der Ranke stand seitlich an ihrer Schulter, ein kleiner grüner Zeuge. Er legte die Hand auf die Diele, eine Handbreit neben ihrer. Sein Blick war auf ihrem Mund.
 
-»Ich will dich«, sagte er.
+»Ich will dich«, sagte er. »Seit der Dunkelkammer ist es nur schlimmer geworden.«
 
-Dann: »Darf ich bleiben?«
+»Darf ich bleiben?«
 
 Er wartete. Die Hände lagen flach auf den Oberschenkeln, die Finger leicht gespannt. Er hielt den Blick. Sein Atem ging zu langsam, so wie ein Mann atmet, der gegen seinen Körper arbeitet. Auf seinem Nacken stand eine feine Feuchte.
 
@@ -128,7 +128,7 @@ Sie küsste ihn, und er ließ es nicht kurz. Sein Mund war warm, seine Lippen ö
 
 Sie zog die Stirn an seine, atmete einmal aus. Das Gewicht ging auf seine Schulter. Sein Hemd roch nach Leinen, das den Tag getragen hatte, und nach der kühlen Abendluft.
 
-»Langsam«, sagte sie. Er ließ zu und wartete.
+»Langsam«, sagte sie. Sein Atem hielt einen Moment an. Er ließ zu und wartete.
 
 Seine Haut unter ihren Fingern war heiß, seine Kehle bewegte sich gegen ihren Daumen, als er schluckte. In den Handflächen war ein Ziehen: etwas schlug Wurzeln zwischen ihren Rippen, fand eine Spalte und ging hinein, tiefer als sie es je gekannt hatte. Ihr Körper wusste, was er wollte, bevor ihr Kopf es erlauben konnte. Sie ließ los, nicht ganz, aber mehr als sonst.
 

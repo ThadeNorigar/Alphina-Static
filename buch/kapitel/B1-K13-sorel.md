@@ -38,7 +38,7 @@ Nachtholm, Anfang Saatmond. Das Datum stand auf der Kassette in seiner eigenen S
 
 Die Platte kam heraus. Der Kai auf der anderen Seite des Beckens, die Schiffsmasten, die Reflexion des Monds auf dem ölig bewegten Wasser, alles in den mittleren Grauwerten, so wie die neue Emulsion es versprochen hatte. Und im Mittelgrund, zwischen den zwei nächsten Masten, zu dicht am Ufer, um zufällig dort zu stehen, zu scharf am Rand, um im Dunst verloren zu gehen: eine Silhouette. Frau, Mantel weit, Haar dunkel, die Hände verdeckt vom Körper des vorderen Masts.
 
-Er war allein gewesen an diesem Becken. Er war allein. Er hatte Platten belichtet, auf denen Masten, Wasser und Nichts waren. Nachtholm lag drei Tage Reise von Vael entfernt, und Anfang Saatmond hatte es die Frau für ihn nicht gegeben: keinen Namen, kein Gesicht, keine Sehne am Daumenansatz. Keine Figur, die auf einer Platte hätte stehen können.
+Er war allein gewesen an diesem Becken. Er war allein. Er hatte Platten belichtet, auf denen Masten, Wasser und Nichts waren. Nachtholm lag drei Tage Reise von Vael entfernt, und Anfang Saatmond hatte es die Frau für ihn nicht gegeben: keinen Namen, kein Gesicht, keinen Gang, keine Komposition. Keine Figur, die auf einer Platte hätte stehen können.
 
 Er legte die Platte auf die zweite. Seine Hände arbeiteten weiter. Nicht schneller, nicht langsamer. Die Präzision nahm sogar zu, was er registrierte wie eine Messung, die nicht zu seinem eigenen Herzschlag passte. Sein Körper antwortete der Entdeckung, indem er sich in die Routine härter hineinarbeitete, statt aus ihr herauszufallen.
 
@@ -64,7 +64,7 @@ Das Bild kam sauber heraus. Der Purpurstein im Hintergrund, der Rand des Hügels
 
 Die Hände waren scharf.
 
-Nicht nur scharf im Rahmen dessen, was ein wackeliger einhändiger Schuss liefern konnte. Scharf im Rahmen dessen, was eine Studio-Aufnahme mit zwei Lampen, Stativ und Zwanzig-Sekunden-Belichtung lieferte. Die Sehne am Daumenansatz der linken Hand: glasklar. Die feine Linie an der Innenseite des rechten Handgelenks, wo die Haut in den Ärmelsaum überging: eine einzige saubere Kante. Die winzige Kerbe am linken Mittelfinger, die vom Umgang mit scharfen Werkzeugen kam: jede Faser lesbar.
+Nicht nur scharf im Rahmen dessen, was ein wackeliger einhändiger Schuss liefern konnte. Scharf im Rahmen dessen, was eine Studio-Aufnahme mit zwei Lampen, Stativ und Zwanzig-Sekunden-Belichtung lieferte. Die Haltung der linken Hand am Stein, drei Finger gestreckt, der Daumen leicht angewinkelt: glasklar. Die feine Linie an der Innenseite des rechten Handgelenks, wo die Haut in den Ärmelsaum überging: eine einzige saubere Kante. Die winzige Kerbe am linken Mittelfinger, die vom Umgang mit scharfen Werkzeugen kam: jede Faser lesbar.
 
 Er stand lange vor dieser Platte.
 
@@ -113,13 +113,15 @@ Ihr Blick ging einmal kurz an ihm vorbei. Nicht lang. Nicht auffällig. Aber er 
 
 "Die Platten sind noch nicht trocken." Seine Stimme war zu ruhig. Er hörte das, während er es sagte. "Die Chemie hängt noch in der Luft. Das atmet sich nicht gut. Kommen Sie später wieder."
 
-Die Platten waren trocken. Die Chemie war seit einer Stunde abgeklungen. Er hörte sich selbst lügen, Wort für Wort, und wusste, dass sie jedes Wort hörte, wie er es hörte.
+Die Platten waren trocken. Die Chemie war seit einer Stunde abgeklungen. Er hörte sich selbst lügen, Wort für Wort, und wusste, dass sie jedes davon auffing. Er log einer Frau ins Gesicht, deren Komposition er besser kannte als ihren Namen.
 
 Sie nickte langsam, als hätte er eine andere Frage beantwortet. Sie hätte gehen können. Die Pause, in der sie höflich hätte gehen können, stand offen zwischen ihnen, zwei Atemzüge lang. Sie ging nicht.
 
 "Dann kommen Sie raus."
 
 Er griff nach dem Mantel am Haken neben der Tür, zog ihn mit der rechten Hand über die Schulter, ließ die linke Hand den Ärmel suchen. Er trat in die Gasse, zog die Tür hinter sich zu. Der Schlüssel steckte. Er drehte ihn einmal. Er drehte ihn ein zweites Mal. Das zweite Mal war nicht nötig. Das Metall war warm von seiner Handfläche, als er den Schlüssel wieder in die Tasche steckte. Er merkte, dass er die Finger fester um das Metall schloss als nötig.
+
+In der rechten Hosentasche lag der Kiesel von der Nacht im Garten. Faustgroß, glatt, kühl gegen seinen Knöchel. Sein Daumen suchte ihn, fand ihn, blieb darauf liegen. Er hatte das heute schon sechsmal getan.
 
 Sie wartete zwei Schritte weiter in der Gasse. Er ging zu ihr. Sie gingen los.
 

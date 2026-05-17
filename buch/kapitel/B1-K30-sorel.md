@@ -33,6 +33,8 @@ Sein Magen zog sich zusammen. Eine Kälte saß ihm unter den Rippen. Sein Kiefer
 
 *Ich schütze sie. Vor allem, was kommt. Sie bedeutet mir mehr als alles, was ich je gesehen habe. Mehr als alles, was ich je sehen werde.*
 
+Das Versprechen machte ihn kleiner und leichter zugleich, als müsse er ab heute weniger tragen.
+
 Sie murmelte etwas in sein Hemd und drückte sich enger an ihn, ein Knie zwischen seine geschoben. Sein Brustkorb hob sich gegen ihre Hand, ohne dass er ihn hob. Sie würde gleich aufwachen, weil sie immer aufwachte, wenn er sich bewegte. Heute bewegte er sich nicht.
 
 Dann läutete eine Glocke vom Hafen, tief. Vom Marktplatz folgte eine zweite, höher, gegen den Takt der ersten. Eine dritte schlug aus der Oberstadt nach, scharf. Sie schlugen gegeneinander, ohne Absprache. Es war nicht der Mess-Schlag. Es war kein Feuer: Feuer hatte einen schnellen, doppelten Schlag, eins-zwei eins-zwei, das saß ihm im Knochen. Das kannte er nicht.
