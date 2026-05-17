@@ -144,7 +144,7 @@ Dann stieg sie die Stiege hinauf in die Wohnung, holte die Zinnflasche vom Regal
 
 Sie zählte drei Dinge. Mehr wollte sie nicht tragen. Was zwischen den sieben Steinen geschah, würde sie sehen, wenn sie dort stand.
 
-Das Papier lag im zweiten Fach der Schublade, unbenutzt, glatt. Sie glättete es auf der Schreibfläche, tauchte die Feder ein und schrieb. Tarn, Druckergeselle. Sie hielt die Feder an, strich Druckergeselle durch. Begann neu: Tarn. Wenn ich nicht vor dem ersten Saatmond zurück bin, gilt diese Übergabe als vollzogen. Die Druckerei, das Inventar, die laufenden Aufträge. Edric von der Werft und Sievert, der Bäcker, als Zeugen. Sie kannte beide. Beide würden unterschreiben, wenn er sie fragte.
+Das Papier lag im zweiten Fach der Schublade, unbenutzt, glatt. Sie glättete es auf der Schreibfläche, tauchte die Feder ein und schrieb. Tarn, Druckergeselle. Sie hielt die Feder an, strich Druckergeselle durch. Begann neu: Tarn. Wenn ich nicht vor dem ersten Saatmond zurück bin, gilt diese Übergabe als vollzogen. Die Druckerei, das Inventar, die laufenden Aufträge. Edric von der Werft und Jara Voss, die Archiv-Gehilfin, als Zeugen. Sie kannte beide. Beide würden unterschreiben, wenn er sie fragte.
 
 Sie schrieb ihren Namen darunter, die Feder ein bisschen zu fest, der letzte Strich zu tief im Papier. Tarn sollte nicht warten.
 
