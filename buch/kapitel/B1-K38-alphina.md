@@ -10,7 +10,7 @@ Ihre Sohle sackte ein Stück weit in den Boden, bevor er fest wurde unter ihr; d
 
 Die Steinfläche dehnte sich hinter ihnen weit, dreißig Schritt vielleicht in jeder Richtung, unregelmäßig an den Rändern, schwärzer als jeder Stein, den Vael kannte. Auf ihr wuchs nichts; nur dort, wo Sand und Erde sich über die Jahre festgesetzt hatten, dünn aufgelagert in Mulden und an Kanten, durchstießen einzelne Halme das Geschiebe. Auf einer solchen Sandstelle am Rand der Fläche stand sie, dort wo die Vier durch den Riss getreten waren. Vor ihr begannen die Halme dicht, faserig, sandig-violett am Grund, schmaler als alles aus ihrer Heimat, in Gruppen verteilt, dazwischen offene Erde. Kein Wind strich durch sie. Kein Halm bewegte sich. Die Stille hatte eine eigene Dichte, schwerer noch als die Luft.
 
-Erst dann nahm sie den Geruch wahr. Süß und metallisch zugleich, Honig, der zu lange auf erhitztem Stein gestanden hatte, dazu etwas Altes unter der Süße. Er kroch zuerst auf die Zunge, dann tiefer, in die Kehle, in den Bauch.
+Erst dann nahm sie den Geruch wahr. Er lag zuerst auf der Zunge, schwer und süß, bevor sie ihn benennen konnte: Honig, der zu lange auf erhitztem Stein gestanden hatte, dazu etwas Altes und Metallisches unter der Süße. Dann kroch er tiefer, in die Kehle, in den Bauch.
 
 Sorel verharrte einen Schritt vor ihr, die Schultern hochgezogen, die rechte Hand offen neben dem Körper, die Finger gespreizt. Vesper stand dicht hinter ihr, näher als gewöhnlich; sie nahm ihn als Wärme im Rücken wahr, ohne hinzusehen. Maren hielt neben Sorel, die rechte Hand am Hammer-Stiel, den Arm noch oben. Keiner von ihnen rührte sich.
 
@@ -176,9 +176,9 @@ Bevor er die Bresche erreichte, hielt er inne. Sein Blick traf Alphinas, kurz un
 
 Dann hob er die freie Hand auf Brusthöhe und drückte sie in die Luft, ein knapper Stoß, mehr Wille als Bewegung.
 
-Etwas Unsichtbares schoss durch den Boden unter den Stielen, lief in Linien aus, die Alphina nicht sah und doch wahrnahm. Für einen Atemzug verharrten die Triebe in ihrem Wuchs, die Spitzen ohne Vorwärts, die Dornen still. Alphinas Welle schlug gegen etwas Festes, das nicht aus ihr kam und das ihre Magie weder kannte noch durchbrach.
+Ein unsichtbarer Druck schoss durch den Boden unter den Stielen, lief in Schichten aus, die Alphina nicht sah und doch wahrnahm. Für einen Atemzug verharrten die Triebe in ihrem Wuchs, die Spitzen ohne Vorwärts, die Dornen still. Alphinas Welle schlug gegen etwas Festes, das nicht aus ihr kam. Es war derselbe Druck, der ihr eben noch die Beine schwer gemacht hatte, jetzt aus der Ferne.
 
-Dann brach die Bindung, ihre Welle rollte weiter. Varen hatte den Atemzug genutzt.
+Dann gab er nach, ihre Welle rollte weiter. Varen hatte den Atemzug genutzt.
 
 Er drehte sich. Sein Körpergewicht ging auf das linke Bein, der verletzte Arm hielt sich an einer Halmgruppe fest, dann trat er durch die Bresche und verschwand zwischen den sandig-violetten Stängeln. Das kniehohe Wesen folgte ihm dicht. Unter seinem zweiten Schritt platzte eine schwarze Wurzel, und ein dunkler Saft spritzte über sein Hosenbein. Der Geruch davon kam zu ihr eine Sekunde später, scharf und mineralisch, wie aufgeschlagenes Eisen.
 
@@ -196,9 +196,7 @@ Drei Schritt links ging Maren in die Knie, schwer und hart, das verletzte Bein k
 
 Runa kam zuletzt. Sie rannte durch die verdorrenden Pflanzen auf sie zu, beide Hände noch heiß vom Brand. Die schwarzen Dornen rissen ihr den Mantelsaum am rechten Unterarm auf, das Blut zog sich in den Stoff. Sie sah nicht hinunter. Sie warf sich seitlich gegen Alphina und Vesper, presste sich an Alphinas linke Seite, eine Hand schob sich über Alphinas Wange, die andere fand die gegenüberliegende, und ihre Stirn legte sich an Alphinas, heiß, feucht, fest. Aus ihren Handflächen strömte Wärme in Alphinas Gesicht, weich und gleichmäßig, durch Wangen, Schläfen, Kiefer.
 
-»Wir haben dich, Alphina. Bleib bei uns. Wir haben dich.«
-
-Runas Stimme brach beim zweiten Mal, gehetzt, fast geschrien, dicht an ihrem Mund. Sie sagte es weiter, in einer einzigen losen Folge.
+Runas Mund formte ihren Namen, kam aber nicht über das erste Wort hinaus. Ihre Hände drückten fester an Alphinas Wangen, Stirn fester gegen Stirn.
 
 Alphinas Körper hörte auf zu zittern. Die Wärme aus Runas Händen löste etwas in ihren Wangen, das sie hatte halten wollen, und das langsame Saugen aus Marens Stein zog den Druck unter ihrer Hüfte fort, Faden für Faden. Die Stiele um sie sanken weiter, die Spitzen wurden weich, der trockene Klang im Boden verstummte. Was in ihr noch nach außen wollte, sank zurück hinter ihre Rippen, müde.
 
