@@ -1,18 +1,18 @@
 # Kapitel-Assessment-Datensatz — Buch 1
 
-*Erstellt: 2026-05-14 · 40 finale Kapitel · Strukturierte Daten: `kapitel-scores.json`*
-*Update 2026-05-17: K40 (Vael-Epilog) nachgetragen. K38 (Alphina, Trilogie-Wendepunkt) noch ausstehend.*
+*Erstellt: 2026-05-14 · 41 finale Kapitel · Strukturierte Daten: `kapitel-scores.json`*
+*Update 2026-05-17: K40 (Vael-Epilog) nachgetragen. K27_5 (Vesper-V/M-Bruecke) nachgetragen mit Post-Sweep-Score 9.11 FINAL-REIF. K38 (Alphina, Trilogie-Wendepunkt) noch ausstehend.*
 
 Pro finalem Kapitel ein Subagent (Opus): Council-Assessment (7 Achsen 0-10 + Verdikt + Staerken/Schwaechen + PFLICHT-Findings) + Book-Council-Rating (5 Leserinnen-Archetypen, Marktfaehigkeit 0-100).
 
 ## Aggregat
 
-- **Council-Gesamt Ø:** 8.49 / 10
-- **Book-Council-Gesamt Ø:** 79.7 / 100
-- **FINAL-REIF (Council ≥ 9.0):** 10 / 39 — B1-K01, B1-I1, B1-K05, B1-K08, B1-I2, B1-K19, B1-K20, B1-K24, B1-K27, B1-K30
-- **Book-Council-Verdikt:** alle 39 GRENZWERTIG (70–89) — keine BESTANDEN, keine DURCHGEFALLEN
+- **Council-Gesamt Ø:** 8.50 / 10
+- **Book-Council-Gesamt Ø:** 79.91 / 100
+- **FINAL-REIF (Council ≥ 9.0):** 11 / 41 — B1-K01, B1-I1, B1-K05, B1-K08, B1-I2, B1-K19, B1-K20, B1-K24, B1-K27, **B1-K27_5**, B1-K30
+- **Book-Council-Verdikt:** alle GRENZWERTIG (70–89) bzw. BESTANDEN (K40 89.0) — keine DURCHGEFALLEN
 - **PFLICHT-Findings gesamt:** 77
-- **Kapitel mit Em-Dash-PFLICHT-Befund:** 0 / 39
+- **Kapitel mit Em-Dash-PFLICHT-Befund:** 0 / 41
 
 ### Sweep-Notes
 
@@ -27,6 +27,7 @@ Pro finalem Kapitel ein Subagent (Opus): Council-Assessment (7 Achsen 0-10 + Ver
 - 2026-05-15: Varianten-Hybrid K08 + 3 Pflicht-Fixes. Verifikations-Council: 9.3 FINAL-REIF. Heuristik 6.7 unterschaetzt um +2.6. K08 mit echten Werten ueberschrieben. Bestaetigt: Heuristik fuer hochgesweepte Kapitel konservative Untergrenze.
 - 2026-05-15: Varianten-Hybrid I1 (Variante-Basis + 4 Imports aus aktueller + 4 Antithese-Streichungen). Verifikations-Council: 9.3 FINAL-REIF direkt. Heuristik 7.0 unterschaetzt um +2.3. Final-Reif-Liste: 8 -> 9 Kapitel.
 - 2026-05-15: Varianten-Hybrid K24 + 3 Pflicht-Fixes. Verifikations-Council: 9.2 FINAL-REIF. Heuristik 7.1 unterschaetzt um +2.1. Final-Reif-Liste: 9 -> 10 Kapitel.
+- 2026-05-17: K27_5 (Vesper-V/M-Bruecke im Zeitsprung K27→K28) als 41. Eintrag aufgenommen. Pipeline-Phasen 4 + 5.5 + Final-Validierung nachgereicht (vorher Phase 5 Council bereits durchgefuehrt). Post-Sweep-Score 9.11 FINAL-REIF nach 17 Fixes (5 PFLICHT-Konvergent + 5 Sein-Verb-Sweep + 7 Autorin-Findings). Vorher-Final-Validierung 8.6 wegen Sein-Verben-Quote 18.2/1000W (60% ueber K33-Sweep-Niveau); nach Sweep der stand-/tragen-Cluster + Negations-/Aphorismen-Eliminationen erreicht stil_disziplin Final-Reife (9.0). Wortzahl 3345 → 3269 (-76W).
 - 2026-05-17: K40 (Vael-Epilog) als 40. Eintrag aufgenommen. Council-Ø ohne Heat = 9.25 (FINAL-REIF strukturell), Ø mit Heat=1-Epilog-Konvention = 8.07 (formal NICHT-FINAL nach Schwelle, analog I3). Achsen: sog 8.9 / plot 9.2 / stil 9.1 / pov 9.4 / verst 9.4 / tschechow 9.5. Book-Council MEIKE 90 BESTANDEN / KAYA 88 GRENZWERTIG → Ø 89.0. Hinweis: Heat-Achse benachteiligt Epilog-/Interludien-Kapitel systematisch — strukturelle Final-Reife-Bewertung sollte heat-konditioniert lesen.
 
 **Achsen-Durchschnitt (Council):**

@@ -34,7 +34,13 @@
       "2026-05-15: Varianten-Hybrid K08 + 3 Pflicht-Fixes. Verifikations-Council: 9.3 FINAL-REIF. Heuristik 6.7 unterschaetzt um +2.6. K08 mit echten Werten ueberschrieben. Bestaetigt: Heuristik fuer hochgesweepte Kapitel konservative Untergrenze.",
       "2026-05-15: Varianten-Hybrid I1 (Variante-Basis + 4 Imports aus aktueller + 4 Antithese-Streichungen). Verifikations-Council: 9.3 FINAL-REIF direkt. Heuristik 7.0 unterschaetzt um +2.3. Final-Reif-Liste: 8 -> 9 Kapitel.",
       "2026-05-15: Varianten-Hybrid K24 + 3 Pflicht-Fixes. Verifikations-Council: 9.2 FINAL-REIF. Heuristik 7.1 unterschaetzt um +2.1. Final-Reif-Liste: 9 -> 10 Kapitel."
-    ]
+    ],
+    "kapitel_count": 41,
+    "final_reif_count": 11,
+    "council_avg": 8.5,
+    "book_council_avg": 79.91,
+    "pflicht_findings_total": 77,
+    "updated": "2026-05-17"
   },
   "kapitel": [
     {
@@ -1971,6 +1977,61 @@
           "stimme": "NORA",
           "score": 82
         }
+      }
+    },
+    {
+      "id": "B1-K27_5",
+      "pov": "Vesper",
+      "datei": "B1-K27_5-vesper.md",
+      "council": {
+        "scores": {
+          "sog": 8.8,
+          "plot_charakter": 9.3,
+          "stil_disziplin": 9.0,
+          "pov_schaerfe": 9.4,
+          "heat": 8.5,
+          "verstaendlichkeit": 9.2,
+          "tschechow": 9.6
+        },
+        "gesamt": 9.11,
+        "verdikt": "FINAL-REIF",
+        "staerken": [
+          "Tschechow dicht und mehrlagig: Karst-Brief + Schachturm-Codifikation + Geheimfach-Naht als wortlose Dom-Care + Tintenfleck-Transfer als kausaler Plant fuer K28-Z.7 + Grossvater-Pendule fuer B2-K33 + Karst-Turnier-Origin als Subtext fuer Vespers Zeit-Resonanz-Erstmanifestation (unverbalisiert)",
+          "V/M-Reage-Subtext praezise: Lederriemen-Heat-Echo (Becken-Zug, Hemdkragen) ohne Werkstatt-Vokabel auf Lust, Schachturm-Uebergabe als kodifizierter Sub-Aktivierungs-Code, Maren-Sub-Choice mit Vesper-Akzeptanz ohne Glosse",
+          "Vesper-POV-Schaerfe maennlich durchgehend mit Uhrmacher-Linse aktiv (Spiralfeder-Vergleich, Uhr-Federn-Nadel, Federgehaeuse-Technik, Petschaft, Karst-Werkstatt-Zeichen)",
+          "Schluss-Triade Turm/Wollrock/Marens-Hand-auf-Brust als ruhige Inventur nach Reage-Schule, drei Temperaturen klar (kalt/Tinte-trocknend/atem-warm)",
+          "Werft-Reflex-Handruecken-Beat als Sub-Agency-Marker plus K27-Spiegelungs-Geste (offene Hand auf Tischplatte) als nonverbale V/M-Continuity"
+        ],
+        "schwaechen": [
+          "Sub-Aktivierungs-Code-Dialog Sz3 ausgearbeitet (drei Saetze Codifikation + 'Auch dann' + Reibungs-Test + Logik-Antwort + Karst-Origin), bremst Sz3-Pacing minimal",
+          "Sog-Achse leicht reduziert: erste Halfte ist Inventur+Umzug, Sog setzt erst mit Tor-Schloss-Klacken voll ein",
+          "Solha als Selbst-Anrede ohne On-Page-Klaerung koennte Erstleserin irritieren",
+          "Heat-Echo-Beat (Lederriemen) ist Reage-Niveau aber knapp",
+          "Mehrere kurze Saetze in Reihe in Sz4 ('Saass.' 'Passung.' 'Er schlief.') an der Stakkato-Grenze, funktional gerechtfertigt"
+        ],
+        "pflicht_findings": []
+      },
+      "book_council": {
+        "stimmen": {
+          "LINA": null,
+          "NORA": 85,
+          "MEIKE": 88,
+          "VICTORIA": 87,
+          "KAYA": null
+        },
+        "gesamt": 86.67,
+        "verdikt": "GRENZWERTIG",
+        "risiko_signal": {
+          "stimme": "NORA",
+          "score": 85
+        }
+      },
+      "_sweep_adjustment": {
+        "datum": "2026-05-17",
+        "context": "17-Fix-Sweep nach 4-Subagent-Review (Assessment 9.04 / Stil-Check GRENZWERTIG / Autorin 10 Findings / Final-Validierung 8.6). Eingearbeitet: 5 PFLICHT-Konvergent (Takt-auf-Atem Z.123, Negations-Kaskade Z.97, Narrator-Glossen Z.41+Z.133, Substantiv-Phrasen Z.91), 5 Sein-Verb-Sweeps (stand-Cluster Z.99-107, tragen-Cluster Z.31-33), 7 Autorin-Findings (Aphorismen-Schluesse, Anapher-Pointe, Drei-Negationen, Personifikation, Wachs-not-null). Wortzahl 3345 -> 3269 (-76W).",
+        "vorher_council": 8.6,
+        "nachher_council": 9.11,
+        "note": "Pre-Sweep Final-Validierung sah Sein-Verben-Quote 18.2/1000W als Blocker fuer Final-Niveau. Nach Sweep der Hot-Spots erreicht stil_disziplin Final-Reife. Heat 8.5 trotz fehlender expliziter Szene (V/M-Reage-Subtext durchgehend), kein Epilog-Heat=1-Problem."
       }
     },
     {
