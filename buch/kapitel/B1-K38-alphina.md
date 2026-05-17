@@ -200,6 +200,6 @@ Erst jetzt sah Alphina die Wunden. Vespers Schulter, schwer und tief, der Stoff 
 
 Vesper hielt seine Schulter an ihrem Rücken. Maren saß neben ihr, den Blick auf sie gerichtet. Runa drückte ihre Stirn weiter an Alphinas und sagte ihren Satz leiser, dann gar nicht mehr.
 
-Vor ihnen lag Sorel auf dem Stein, die Arme schräg neben dem Körper, der Brustkorb offen. Schwarze Triebe standen rund um ihn, kniehoch, brusthoch, regungslos. Auf seiner Brust standen die schwarzen Blüten aus der Welle, mitten in der zerrissenen Haut eine größer als die anderen, der Stängel violett zwischen den Splittern seines Brustbeins, die Blätter schwarz, jedem Rand entlang ein blut-roter Saum. Sie sank nicht in den Körper, verdorrte nicht.
+Vor ihnen lag Sorel auf dem Stein, die Arme schräg neben dem Körper, der Brustkorb offen. Schwarze Triebe standen rund um ihn, kniehoch, brusthoch, regungslos. Auf seiner Brust standen die schwarzen Blüten aus der Welle, mitten in der zerrissenen Haut eine größer als die anderen, der Stängel violett zwischen den Splittern seines Brustbeins, die Blätter schwarz, jedem Rand entlang ein blut-roter Saum. Die Blüten verdorrten nicht. Sie lösten sich nicht aus seinem Fleisch.
 
-Sie blieb.
+Sie blieben.
