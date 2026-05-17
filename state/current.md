@@ -32,7 +32,7 @@
 
 ## Aktueller Fokus
 
-**Buch 1: 42 Kapitel final (~162.218 W), 2 Kapitel entwurf-ok (K27.5, K39).** K38-Trilogie-Wendepunkt + K40-Vael-Epilog final. ENDE BUCH 1 ist gesetzt: »Die Druckerei lief weiter.« Es fehlt nur noch K39 (Trauer-Aufwachen am Tag-danach im Moragh-Hain) und K27.5 (V/M-Schachturm-Übergabe in der Hafengasse).
+**Buch 1: 42 Kapitel final (162.242 W), 2 Kapitel entwurf-ok (K27.5, K39).** K38-Trilogie-Wendepunkt + K40-Vael-Epilog final. ENDE BUCH 1 ist gesetzt: »Die Druckerei lief weiter.« Es fehlt nur noch K39 (Trauer-Aufwachen am Tag-danach im Moragh-Hain) und K27.5 (V/M-Schachturm-Übergabe in der Hafengasse).
 
 **Nächstes /ausarbeitung: B1-K39 (Alphina, Trauer-Aufwachen).** Handoff `buch/kapitel/B1-K39-handoff.md` Pflicht-Read mit 17 Pflicht-Markern. Direkter K38-Folge-Tag im Moragh-Hain: Trauer-Aufwachen + Anti-Flora schwarz/rot (durchgängig) + Begräbnis mit Resonanz-geöffneter Erde + Wandlung + Hass-Satz »Wir suchen ihn und vernichten ihn.« + Aufbruch. Plus NORA-12 Wärme-Beat als Sz3-Marker 18 vor /ausarbeitung anhängen (Kiesel warm vom Körper, sechseinhalb Monate getragen).
 
