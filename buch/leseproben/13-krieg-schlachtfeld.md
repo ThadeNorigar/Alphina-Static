@@ -1,63 +1,135 @@
 ---
 kategorie: Krieg / Schlachtfeld
 pov: Alphina
-figuren: Alphina Korrin, Bund-Kommandant, Kerth, Thar-Kaempfer
-register: Dunkle Register — Krieg, Taeter-POV
+figuren: Alphina Korrin, Bund-Kommandant, Kerth, Thar-Kämpfer
+register: Dunkle Register — Krieg, Täter-POV
 heat_level: Gewalt
-primaer_referenz: Kuang (Poppy War) — Kriegs-Koerper, Taeter-POV ohne Anaesthesie
-ergaenzende_referenz: SLY (Alchemised) — Koerperteil-Subjekt, Material-Funktionsname, dunkler Untergrund
-zweck: Ton-Referenz fuer B2-Kriegs-Szenen. Alphina im Bund-Dienst, Wachstum gruen im Reflex, kippt in schwarz/purpur-rot bei Wut. Koerper handelt, Kopf hinkt nach. Kuang-Schmerz als Konsequenz, ohne Schauwert.
-canon_status: v2.1 Block-A-Fixes 2026-05-05. Ton-Etuede, spielt in B2 Akt II, Bund-Front gegen Thar-Siedlung. Plot-Kontext locker, nicht Canon-bindend.
+primaer_referenz: Kuang (Poppy War) — Kriegs-Körper, Täter-POV ohne Anästhesie
+ergaenzende_referenz: SLY (Alchemised) — Körperteil-Subjekt, Material-Funktionsname, dunkler Untergrund
+zweck: Ton-Referenz für B2-Kriegs-Szenen. Alphina im Bund-Dienst, Wachstum grün im Reflex, kippt in schwarz/purpur-rot bei Wut. Körper handelt, Kopf hinkt nach. Kuang-Schmerz als Konsequenz, ohne Schauwert.
+canon_status: v6 Eigenanker-Refit 2026-05-14 nach `B1-K19-alle.md` (Kampf räumlich nachvollziehbar, Magie als Handlung) und dunkler Registerleitplanke `senlinyu-stil-analyse.md` nur indirekt: Körperteil-Subjekt, Materialnähe, keine Schauwert-Gewalt. Ton-Etüde, spielt in B2 Akt II, Bund-Front gegen Thar-Siedlung. Plot-Kontext locker, nicht Canon-bindend.
 ---
 
-Sie sah den Mann einen Atemzug zu lange an, und dafuer wuerde sie gleich bezahlen.
+Sie sah den Mann einen Atemzug zu lange an, und dafür würde sie gleich bezahlen.
 
-Er kam von links ueber den eingedrueckten Wall, Hammer hoch, ein Streifen fremdes Blut bis zum Ellbogen. Alphina senkte die Hand. Unter seinen Stiefeln riss der Lehmboden auf, und ein Efeu-Strang trieb hoch, einer von der Sorte, die sie zwanzigmal aus den Ritzen der Garten-Mauer gezogen hatte; er fuhr ihm an der Hueftbeuge vorbei in den Oberschenkel, durch das Leder der Hose, und brach im Beckenknochen ab.
+Er kam von links über den eingedrückten Wall, nicht schnell, aber schwer genug, dass der Lehm unter seinen Stiefeln vor jedem Schritt einen dunkleren Rand bekam. Der Hammer lag hoch über seiner Schulter. Am Griff klebte Blut, nicht frisch genug, um zu laufen, aber frisch genug, dass es im Staub dunkle Streifen zog, als seine Hand nachfasste. Alphina sah den Hammer, dann den Ellbogen, dann die freie Stelle unter der Hüfte, wo Leder, Gurt und Oberschenkel nicht sauber zusammentrafen.
 
-Er schrie kurz. Den Schrei rechnete sie ein.
+Ihre Hand senkte sich.
 
-Was sie *nicht* einrechnete, war das Gruen an ihrer Hand. Chlorophyll, Frischwuchs, die Farbe des Botanischen Gartens an einem stillen Vormittag. Diszipliniert. Der Bund-Kommandant fragte das jeden Morgen vor dem Quartier ab — *die Farbe, Korrin, die Farbe* — und heute gehorchte ihr das Wachstum endlich.
+Unter seinen Füßen riss der Boden auf. Kein schöner Riss, kein Gartenwuchs, sondern Lehm, der an einer alten Wurzelnaht nachgab. Ein Strang schoss heraus, grün, jung, falsch frisch inmitten der grauen Erde, und traf ihn an der Hüftbeuge. Er glitt nicht um das Bein. Er fuhr durch das Leder der Hose, durch Fleisch, tiefer, und brach am Knochen ab.
 
-»Weiter«, rief Kerth hinter ihr. Kerth — er hatte ihr im Quartier den Morgentee gegossen, als ihr Arm noch zitterte. Jetzt fuenf Schritte rechts mit einem Kurzschwert, das Holz des Griffs schwarz von Schweiss. Er brauchte den Wall offen.
+Der Mann schrie kurz.
 
-Sie senkte die andere Hand.
+Den Schrei rechnete sie ein. Ein Schrei nahm Luft, nahm Kraft, nahm eine halbe Bewegung aus dem Schlag. Der Hammer kam trotzdem herunter, aber zu spät und zu weit rechts. Er schlug in den Lehm, nicht in ihren Kopf, und spritzte Erde gegen ihren Rock.
 
-Die Bohlen des Thar-Walls bestanden aus Eiche, alt, trocken, in den Spalten Krappwurzelreste und das fadige Geflecht eines Pilzes, der totes Holz besiedelte. Die Eiche selbst gab nichts. Alphina griff darunter, in die feuchte Erde, in das lebendige Wurzelnetz unter den Pfostengruben, und stellte sich vor, wie es sich straffte, hob, presste. Der Wall hob sich vier Finger ueber den Lehmgrund, dann eine ganze Spanne. Er stand einen Atemzug schief, kippte, und zwei Thar-Kaempfer, die sich an die Innenseite gelehnt hatten, fielen mit dem Holz nach innen.
+Was sie nicht eingerechnet hatte, war das Grün an ihrer Hand.
 
-Kerth ging durch den Spalt. Sein Schritt verriet kein Hinken.
+Es stand dort klar und nass über den Knöcheln, Chlorophyll, Frischwuchs, die Farbe des Botanischen Gartens an einem Vormittag, an dem niemand starb. Diszipliniert. Der Bund-Kommandant fragte sie jeden Morgen vor dem Quartier danach. Die Farbe, Korrin. Erst die Farbe. Dann die Richtung.
 
-Alphina blieb, wo sie stand. Atemzug. Der Wind blies noch von der falschen Seite — sie roch das alte Harz aus den Bohlen, den nassen Lehm, das Pilzgeflecht. Vor ihr im Lehm, drei Schritt entfernt, schob sich ein Mann auf den Ellbogen, einer der Thar. Er sah sie. Sie sah ihn. Er hob den anderen Arm, die Innenflaeche offen, ohne Schlag, eine Geste.
+Heute hatte das Wachstum gehorcht.
 
-Sie liess die Wurzel, die unter ihm wuchs, weiter wachsen.
+»Weiter«, rief Kerth hinter ihr.
 
-Den Strang zurueckziehen waere leicht gewesen. Stattdessen hob sie ihn eine Spanne aus dem Boden, drei Finger ueber sein Schulterblatt, und hielt ihn dort, weil sie es konnte, weil ihr Bund-Training den Befehl beieinanderhielt, weil dieser Mann sie ansah, weil sie in dem Moment dazwischen — *zwischen Atemzug und naechstem Atemzug* — entschied, ihn anzusehen.
+Seine Stimme kam von rechts, fünf Schritte entfernt, nicht laut genug für Befehl, laut genug für Lage. Kerth, der ihr im Quartier den Morgentee hingestellt hatte, als ihr Arm noch zitterte. Kerth, dessen Kurzschwert jetzt auf Helmrand traf und dessen linker Fuß nicht hinkte, obwohl sie gestern gesehen hatte, wie er den Stiefel auszog. Er brauchte den Wall offen.
 
-Dann kippte ihre Hand.
+Alphina senkte die andere Hand.
 
-Es war keine Wut. Auf den Mann empfand sie keine Wut. Es war die Pause selbst. Dass sie waehlen konnte. Dass sie waehlen *sollte*. Die Farbe wanderte vom Handruecken in den Wurzelstrang, und der Strang, eben noch heller Frischwuchs, wurde zu Purpurstaengel mit schwarzen Dornen und einer einzelnen Bluete tief wie geronnenes Blut; sie hob den Mann eine Elle in die Luft an einem Dorn, der ihm durch die Schulter trieb und an der Klavikula-Spitze hervortrat.
+Der Thar-Wall bestand aus alten Bohlen, trocken, zu alt für lebendige Arbeit. Eiche gab nichts, wenn sie tot und richtig ausgehärtet war. In den Spalten saßen Krappwurzelreste, Pilzfäden, feuchte Erde aus den Pfostengruben. Dorthin griff sie. Nicht in das Holz. Darunter.
 
-Sein Schrei dauerte diesmal laenger.
+Sie stellte sich nicht Kraft vor. Kraft machte zu viel kaputt. Sie stellte sich Zug vor: Wurzeln, die sich unter der Erde strafften; Fasern, die nicht rissen; ein Netz, das unter Last nicht nachgab, sondern hob.
 
-Ihre Trommelfelle hoerten ihn. Ihre Kehle schloss sich. Sie liess ihn fallen.
+Der Wall kam vier Fingerbreit aus dem Lehm. Dann eine Spanne. Die Bohlen knarrten, ein langer, trockener Laut, als würde ein alter Rücken aufgerichtet. Zwei Thar-Kämpfer, die sich an die Innenseite gelehnt hatten, verloren den Halt und fielen mit dem Holz nach innen.
 
-Der Bund-Kommandant stand hinter ihr. Seinen Schritt hoerte sie nicht. Im Quartier war er auch nie zu hoeren. »Fenne«, sagte er. »Zurueck.«
+Kerth ging durch den Spalt.
 
-»Ich habe ihn —«
+Alphina blieb stehen.
 
-»Zurueck.«
+Das war der richtige Punkt, um ihm zu folgen. Der Kommandant hätte es so gesagt, wenn er neben ihr gestanden hätte: Öffnung schaffen, Durchgang sichern, nachrücken. Keine Einzelentscheidung am Rand. Kein Blick auf den, der schon unten lag.
 
-Sie drehte sich. Seine Hand lag am Schwert, der Daumen unter dem Knauf, der Zeigefinger ueber der Parierstange; das Schwert galt dem Boden, ihr nicht. Seine Augen wanderten von ihrer Hand zu ihrem Gesicht, einmal hin, einmal zurueck, einmal an ihrer Hand vorbei zum Wurzelstrang im Lehm.
+Sie sah trotzdem hin.
+
+Drei Schritte vor ihr schob sich ein Thar-Kämpfer auf den Ellbogen. Jünger als der Mann mit dem Hammer. Vielleicht nicht jünger; der Lehm machte alle Gesichter gleich alt. Seine linke Hand war leer. Die rechte lag unter ihm, wahrscheinlich gebrochen, weil der Unterarm in einem Winkel stand, den kein gesunder Arm hielt. Er sah Alphina an und hob die linke Hand, die Innenfläche offen.
+
+Keine Waffe.
+
+Sie hatte bereits eine Wurzel unter ihm.
+
+Den Strang zurückzunehmen wäre leicht gewesen. Er lag im Boden, lebendig, bereit, und ihr Körper kannte die Bewegung inzwischen besser als der Kopf. Lösen. Fallen lassen. Weitergehen.
+
+Stattdessen hob sie ihn.
+
+Nur eine Spanne zuerst. Drei Finger über sein Schulterblatt, so nah, dass die Spitze den Stoff berührte und ihn noch nicht durchstieß. Der Mann verstand früher als sie, was sie tat. Sein Blick löste sich von ihrem Gesicht und ging zur Stelle über der Schulter. Die offene Hand blieb oben, aber nicht mehr als Zeichen. Nur noch, weil er vergessen hatte, sie zu senken.
+
+In diesem kleinen Abstand lag alles.
+
+Nicht Wut. Auf ihn nicht. Sie kannte ihn nicht. Er war kein Name, kein Gesicht, das sie aus einem Dorf hätte ziehen können, kein persönlicher Feind. Es war die Pause selbst, diese schmale Stelle, an der der Körper noch nicht gehandelt hatte und der Kopf wusste, dass er wählen konnte.
+
+Und dass er wählen sollte.
+
+Die Farbe lief aus ihrem Handrücken.
+
+Das Grün verdunkelte sich zuerst an den Adern. Dann zog Purpur durch die Wurzel, nicht gleichmäßig, sondern in Streifen, als liefe etwas Warmes unter einer dünnen Haut entlang. Dornen traten aus dem Strang. Kleine schwarze Spitzen, eine nach der anderen. Am Ende öffnete sich eine einzelne Blüte, tiefrot, fast schwarz am Rand.
+
+Alphina kippte die Hand.
+
+Der Dorn ging durch seine Schulter.
+
+Nicht sauber. Fleisch gab anders nach als Erde. Der Strang stieß erst gegen Widerstand, glitt ab, fand weichere Stelle, trieb durch, und der Mann kam mit ihm hoch, eine Elle über den Lehm, an der Schulter aufgehängt. Sein Mund öffnete sich, bevor der Schrei kam. Als er kam, dauerte er länger als der erste.
+
+Alphinas Trommelfelle nahmen ihn auf. Ihre Kehle schloss sich. Der Finger, mit dem sie den Strang hielt, wurde kalt.
+
+Sie ließ ihn fallen.
+
+Er schlug auf der Seite auf. Der offene Arm blieb unter ihm liegen. Aus der Schulter lief Blut über die dunkle Stelle, an der der Dorn gewesen war, und der Lehm nahm es sofort.
+
+Hinter ihr stand der Bund-Kommandant.
+
+Sie hatte seinen Schritt nicht gehört. Im Quartier hörte man ihn auch nie, nicht morgens auf den Dielen, nicht nachts zwischen den Feldbetten. Er war da, und sein Blick lag nicht auf dem Mann im Lehm. Er lag auf Alphinas Hand.
+
+»Fenne.«
+
+Der Name, den sie in dieser Einheit trug, saß flach in seinem Mund. Kein Zorn. Zorn hätte ihr erlaubt, sich dagegenzustellen.
+
+»Zurück.«
+
+»Ich habe den Wall geöffnet.«
+
+»Zurück.«
+
+Sie drehte sich zu ihm. Seine rechte Hand lag am Schwert, Daumen unter dem Knauf, Zeigefinger über der Parierstange. Die Klinge blieb im Leder. Das Schwert galt dem Boden, nicht ihr. Noch nicht.
+
+Seine Augen gingen von ihrer Hand zu ihrem Gesicht, zurück zur Hand, dann an ihr vorbei zu dem purpurnen Strang im Lehm. Der Strang lag dort nicht tot. Er bewegte sich noch, langsam, als taste er nach einer zweiten Aufgabe.
 
 »Die Farbe«, sagte er.
 
-»Ich weiss.«
+»Ich weiß.«
 
-»Heute Abend redest du mit mir.«
+»Nein.«
 
-Er ging an ihr vorbei. Der Saum seines Mantels wischte ueber den Wurzelstrang, und sie sah ihn — sah es genau — drei Finger ausweichen, ohne dass er es entschied. Sein Koerper waehlte vor seinem Kopf.
+Das war alles. Kein Vortrag. Kein Lagerwort über Disziplin, kein Satz über Grenzen. Nur die Verweigerung, ihr das Wissen zu lassen, solange sie noch mit purpurner Fingerspitze vor ihm stand.
 
-Der Thar-Kaempfer im Lehm lebte noch. Sein Atem ging an einer falschen Stelle in der Brust. Sie sah ihn nicht mehr an.
+Hinter dem gekippten Wall schlug Kerths Klinge gegen etwas Hartes. Ein Helm, wahrscheinlich. Metall sang kurz und brach ab.
 
-Sie sah auf ihre Hand. Das Gruen kroch zurueck, langsam, vom Handgelenk her, ueber den Daumenballen. Zwei Atemzuege brauchte es. Die Spitze ihres Mittelfingers blieb purpur. Sie liess die Hand sinken.
+Der Kommandant ging an Alphina vorbei. Der Saum seines Mantels streifte den purpurnen Strang.
 
-Hinter dem gekippten Wall sang Kerths Klinge auf einem Helm.
+Der Strang wich aus.
+
+Drei Fingerbreit, nicht mehr. Genug. Nicht weil Alphina es wollte. Nicht weil der Kommandant es befahl. Das Ding, das eben noch ihr Wurzelstrang gewesen war, machte Platz vor ihm, als hätte es seine eigene Vorsicht.
+
+Alphina sah es.
+
+Der Kommandant sah es auch. Er blieb nicht stehen. Nur seine Schulter hielt einen kleinen Bruchteil länger dieselbe Höhe, und dann ging er weiter in den Spalt, den sie geöffnet hatte.
+
+Der Thar-Kämpfer im Lehm lebte noch. Sein Atem ging an der falschen Stelle in der Brust, seitlich, hoch, als habe die Schulter den Weg der Luft verschoben. Er sah sie nicht mehr an.
+
+Alphina sah ihn auch nicht mehr an.
+
+Sie sah auf ihre Hand.
+
+Das Grün kam zurück, langsam vom Handgelenk her, über den Daumenballen, über die Knöchel. Zwei Atemzüge. Drei. Die Spitze des Mittelfingers blieb purpur, als hätte die Farbe dort unter dem Nagel einen Sitz gefunden. Sie rieb nicht daran. Sie wusste, dass es nicht abgehen würde, solange sie hinsah.
+
+»Fenne«, rief Kerth aus dem Spalt.
+
+Diesmal brauchte er sie nicht für den Wall. Er brauchte sie drinnen.
+
+Alphina senkte die Hand und ging.
