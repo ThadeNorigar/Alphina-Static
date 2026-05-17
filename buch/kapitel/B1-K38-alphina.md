@@ -118,7 +118,7 @@ Nur ein Atemzug, nicht mehr. Etwas hinter ihr, an der Schwelle, hatte seine Konz
 
 Alphina drehte den Kopf, schwer durch den Rest der Kraft, die noch an ihr hing. Sie sah zur Schwelle. Ein Schatten schälte sich aus dem Riss, rannte, ohne anzuhalten. Sie hörte den Laut, bevor sie das Gesicht erkannte: ein Schrei ohne Worte, roh, kehlig, zu tief aus der Brust geholt, um noch Kontrolle darin zu tragen. Runa.
 
-Das Gewicht in ihren Beinen ließ nach, zuerst die Knie, dann der Rest. Der fremde Rhythmus auf ihrem Atem brach hart ab.
+Ihre Beine fanden den Boden wieder. Der fremde Rhythmus auf ihrem Atem brach hart ab.
 
 Vor ihr zuckte Sorel mit dem ganzen Körper, einer Welle aus den Schultern, die durch die Hüften lief und das Gewicht von links nach rechts verlagerte. Er atmete wieder. Dann rammte er sich vorwärts in Varens Brust, keine Vorbereitung, nur der Schwung des ganzen Körpers. Varens Daumen löste sich von ihrem Kinn. Sie spürte die Lücke an ihrem Hals, kühl und plötzlich. Ihre Hände öffneten sich von selbst. Erst jetzt bemerkte sie, wie fest die Finger sich ineinandergezogen hatten.
 
