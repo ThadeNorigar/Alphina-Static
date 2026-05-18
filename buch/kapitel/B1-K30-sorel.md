@@ -27,7 +27,7 @@ Die Patrouille von zwei Uhr blieb aus. Er wartete seit vierzig Minuten auf Schri
 
 Er suchte Alphinas Gesicht. Ihr Atem ging schneller als seiner, drei zu zwei, manchmal vier zu zwei. Er hatte das nie bewusst gezählt. Heute zählte er. Zwischen ihren Brauen lag eine Falte, die im Wachen verschwand, sobald sie sprach. Hier blieb sie. Er hatte sie noch nie so lange gesehen. Sein Hemd war an ihrer Wange feucht; sie hatte im Schlaf den Mund leicht geöffnet. An ihrem Nacken, unter dem Ohr, war ihr Geruch warm: Haut, Haar, der Geruch eines Menschen, der schläft.
 
-Er hielt vergängliche Dinge fest. Belichtung, Schatten, der Schein von Licht auf einer Glasscheibe, eine halbe Sekunde, dann weg. Dass dieser Geruch hier auch endlich war, das wusste er heute zum ersten Mal über sie.
+Er hielt vergängliche Dinge fest. Belichtung, Schatten, der Schein von Licht auf einer Glasscheibe, eine halbe Sekunde, dann weg. Dass dieser Geruch hier auch endlich war, das wusste er heute zum ersten Mal über sie. Etwas zog ihm in den Bauch hinunter, Wärme und Druck zugleich, und blieb.
 
 Sein Magen zog sich zusammen. Eine Kälte saß ihm unter den Rippen. Sein Kiefer war seit einer Stunde fest, und als er das merkte, ließ er ihn nicht los.
 
@@ -165,7 +165,7 @@ Aber im Knochen blieb es kalt. Tief, still, eine kleine Stelle, an die niemand h
 
 „Ich weiß", sagte Sorel.
 
-Sie standen einen Atemzug. Dann brachen zwei Glocken ab: die vom Hafen, die vom Marktplatz. Die aus der Oberstadt schlug weiter. Auch der Wind in der Hafengasse wurde leiser.
+Sie standen kurz. Dann brachen zwei Glocken ab: die vom Hafen, die vom Marktplatz. Die aus der Oberstadt schlug weiter. Auch der Wind in der Hafengasse wurde leiser.
 
 Sorel sah die Querstraße rechts an. Sie war leer. Auch der Marktbrunnen-Halbkreis. Vor dem Lichthaus, soweit man es von hier sehen konnte, ebenfalls.
 
@@ -193,8 +193,6 @@ Maren trat einen Schritt näher. „Was?"
 
 „Zwei Wesen. Eines am Setzkasten, ist verbrannt. Hat geglimmt, dann gebrannt, dann nichts."
 
-Sie holte einen Atemzug.
-
 „Joran kam aus dem Trockenraum. Hinter ihm das andere. Ich war zu spät."
 
 „Wie?", fragte Vesper.
@@ -207,7 +205,7 @@ Die Glocke aus der Oberstadt schlug weiter, einmal, zweimal.
 
 „Dann war alles so heiß." Runas Stimme brach mitten im Satz ab.
 
-Sie schaute auf ihre Hände, sah sie einen Atemzug an. Dann ließ sie sie sinken.
+Sie schaute auf ihre Hände, lange. Dann ließ sie sie sinken.
 
 „Ich konnte ihn nicht hochheben. Ich bin rausgerannt." Die Hand fuhr zur Wunde über der Augenbraue. „Türrahmen."
 
