@@ -130,7 +130,7 @@ Vesper wartete. Nach einer Stunde verglich er: die Standuhr hatte zwölf Sekunde
 
 Dann legte er die Hand auf das Gehäuse.
 
-Das Holz war warm. Nicht die Wärme eines Raums, nicht die Restwärme von Sonnenlicht auf Nussbaum. Eine Wärme die von innen kam, die durch das Holz in seine Handfläche kroch, in seine Finger, in sein Handgelenk, ein Puls der nicht seiner war. Er ließ die Hand dort, und ein Echo schlug in seiner Brust an, als hätte sein Körper auf diesen Rhythmus gewartet und ihn jetzt erkannt.
+Das Holz war warm. Nicht die Wärme eines Raums, nicht die Restwärme von Sonnenlicht auf Nussbaum. Eine Wärme die von innen kam, die durch das Holz in seine Handfläche kroch, in seine Finger, in sein Handgelenk, eine Schwingung, die nicht von ihm kam. Er ließ die Hand dort, und ein Echo schlug in seiner Brust an, als hätte sein Körper auf diesen Rhythmus gewartet und ihn jetzt erkannt.
 
 Er wartete eine Stunde. Las seine Taschenuhr ab.
 
@@ -198,7 +198,7 @@ Rillen. Drei Stück, parallel, tief genug dass seine Fingerkuppe hineinsank. Er 
 
 Er legte den Zeigefinger in die mittlere Rille und hielt ihn dort.
 
-Warm. Dieselbe Wärme wie die Uhr, wie der Boden, wie das Wasser, wie die Fingerspitzen einer Frau deren Namen er nicht kannte. Eine Wärme die aus dem Material kam, tief und gleichmäßig, als hätte alles in diesem Haus denselben Puls. Alles außer dem Turm in seiner Tasche, der seit fünf Tagen kalt war und kälter wurde.
+Warm. Dieselbe Wärme wie die Uhr, wie der Boden, wie das Wasser, wie die Fingerspitzen einer Frau deren Namen er nicht kannte. Eine Wärme die aus dem Material kam, tief und gleichmäßig, als hätte alles in diesem Haus dieselbe Schwingung. Alles außer dem Turm in seiner Tasche, der seit fünf Tagen kalt war und kälter wurde.
 
 Vesper zog den Finger zurück. Er stand in der Dunkelheit, die Hände zitternd, dachte an die Uhr, an die Rillen, an die Frau im Türrahmen, an die Zahl die seit fünf Tagen hinter seiner Stirn stand. Nichts davon ergab Sinn. Alles davon war warm, und er war kalt.
 

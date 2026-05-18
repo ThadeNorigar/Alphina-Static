@@ -180,7 +180,7 @@ Sein Gesicht. Oder das was er dreizehn Jahre lang für seines gehalten hatte. Es
 
 Er hob die Hände, hielt sie vor sich, drehte sie im Rotlicht. Seine Hände. Dünn, blass, die Finger lang. Er kannte sie. Er kannte sein Gesicht. Etwas anderes kannte es auch.
 
-Er legte die Hand auf die Wand. Warm. Trocken. Derselbe Stein, derselbe Puls darunter, der langsame Atem des Gesteins. Der Keller hielt still. Die Frage nicht.
+Er legte die Hand auf die Wand. Warm. Trocken. Derselbe Stein, derselbe langsame Atem darunter, den er nicht hörte. Der Keller hielt still. Die Frage nicht.
 
 Stuhl. Sitzen. Rotlichtlampe, der Docht leise zischend, Öl für Stunden. Hände auf den Knien. Flach. Ruhig. Der Stein an seinem Rücken war warm, durch die Lehne, durch das Hemd. Die Wärme hielt ihn. Er ließ sich halten.
 

@@ -206,7 +206,7 @@ Maren stand auf. Zu schnell. Das Wasser schwappte über den Rand, auf die Dielen
 
 Das Wasser war still. Dampf stieg auf. Kein Strudel. Kein Kräuseln. Nur Wasser in einer Zinkwanne in einer Pension in einer Stadt, in der sie niemanden kannte.
 
-Sie wickelte sich ins Laken. Der Stoff war rau auf nasser Haut, kratzte an der Schulter, an der Hüfte. Sie setzte sich aufs Bett. Das Bettgestell ächzte, ein leises Knarren. Ihre Finger rochen nach Metall, nach dem Wannenrand. In ihrer Brust das Pochen, das auf dem Steg angefangen hatte und nicht aufhörte. Die Kerze flackerte. Ihr Schatten an der Wand, groß und verzerrt, eine Frau die saß und nicht ging.
+Sie wickelte sich ins Laken. Der Stoff war rau auf nasser Haut, kratzte an der Schulter, an der Hüfte. Sie setzte sich aufs Bett. Das Bettgestell ächzte, ein leises Knarren. Ihre Finger rochen nach Metall, nach dem Wannenrand. Unter dem Schlüsselbein klopfte etwas, das auf dem Steg angefangen hatte und nicht aufhörte. Die Kerze flackerte. Ihr Schatten an der Wand, groß und verzerrt, eine Frau die saß und nicht ging.
 
 Sie schaute auf die Wanne. Der Dampf wurde dünner. Das Wasser kühlte ab, langsam, als wollte es nicht.
 
