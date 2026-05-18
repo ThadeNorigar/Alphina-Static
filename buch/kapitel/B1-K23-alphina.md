@@ -4,7 +4,7 @@
 
 Alphina schnitt die gelben Spitzen vom Streifenfarn, eine nach der anderen, und der kleine Zinnteller neben ihrem Ellbogen war schon voll. Die Talgkerze machte einen warmen Kreis auf dem Tisch. Die Sonne war gerade hinter dem Dach gegenüber untergegangen, und das Zimmer lag schon im grauen Licht vor der Nacht. Das Fenster zur Hafengasse stand einen Handbreit auf; von unten kam das Salz der Grauwe, das Knirschen eines Wagenrades über Pflaster, ein Stück Gelächter, das an der Fassade abprallte und weiter die Gasse hinunter fiel.
 
-Er klopfte einmal und trat ein. Kamera und Stativ stellte er an die Wand neben die Tür. Der Hocker knarrte unter ihm, als er sich setzte. Sie roch die Abendluft, die mit ihm hereingekommen war: Salz, Pflaster, und darunter ihn selbst, warm vom Weg hierher.
+Er klopfte einmal und trat ein. Kamera und Stativ stellte er an die Wand neben die Tür, und seine Hand blieb am Lederriemen, länger als das Stellen brauchte. Alphinas Finger schlossen sich fester um den Schaft der Schere, ohne dass sie weiter schnitt. Der Hocker knarrte unter ihm, als er sich setzte. Sie roch die Abendluft, die mit ihm hereingekommen war: Salz, Pflaster, und darunter ihn selbst, warm vom Weg hierher.
 
 Sie sah auf. Er sah sie an, und keiner von beiden sagte etwas. In der Hafengasse bellte ein Hund einmal, kurz, dann war wieder Stille.
 
@@ -58,7 +58,7 @@ Aus der Werkzeugdose nahm sie eine flache Zinnschale, mit der sie sonst Stecklin
 
 Er nickte. Er rückte den Stuhl an den Tisch und setzte sich. Vom Stuhl aus lag die Rankenspitze zu flach unter ihm. Er stand wieder auf. Dann kniete er auf die Dielen, sorgfältig, als legte er sich selbst dort ab. Sie kniete ihm gegenüber, auf der anderen Seite der Ranke. Die Diele unter ihren Knien war noch warm, wo die Sonne vorhin durchs Fenster gefallen war.
 
-Zwei Kerzen, zwei Menschen, eine Pflanze. Sie sah ihn über den Tisch hinweg an, so wie sie als Gärtnerin eine Arbeit ansah, bevor sie anfing: prüfend, konzentriert, ohne Eile. Sein Blick ruhte länger auf ihr, als es die Arbeit brauchte.
+Zwei Kerzen, zwei Menschen, eine Pflanze. Sie sah ihn über den Tisch hinweg an, so wie sie als Gärtnerin eine Arbeit ansah, bevor sie anfing: prüfend, konzentriert, ohne Eile. Sein Blick ruhte länger auf ihr, als es die Arbeit brauchte, und kam zurück, sobald er von ihr weggegangen war, als wüsste er den Weg nur in eine Richtung. Sie merkte es daran, dass ihr Handrücken warm wurde, ohne dass sie ihn in die Sonne gehalten hatte.
 
 Sie legte beide Hände auf die Oberschenkel. »Zuerst du.«
 
@@ -136,7 +136,7 @@ Es waren nur seine Schulter und ihre Stirn, seine Hand an ihrer Taille und ihre 
 
 Unten in der Gasse wurde es still. Im *Anker* klappte eine Tür, jemand lachte kurz auf und brach ab. Die Kerzen brannten.
 
-Sie sah ihn an. Er nickte, ohne etwas zu sagen. Als sie aufstand, spürte sie seine Hand an ihrer Hüfte nachgeben, langsam, und sie zog ihn mit. Ihre Hand schloss sich um sein Handgelenk und hielt fest, fester, als sie eigentlich musste. Er ließ sich ziehen. Sie küsste ihn noch einmal, bevor sie einen Schritt tat, kurz und fest, und er machte einen Laut in der Kehle, den sie nicht hörte, sondern an ihrem Mund spürte. Die Dielen knarrten zweimal, als sie das Gewicht verlagerten.
+Sie sah ihn an. Er nickte, ohne etwas zu sagen. Als sie aufstand, spürte sie seine Hand an ihrer Hüfte nachgeben, langsam, und sie zog ihn mit. Ihre Hand schloss sich um sein Handgelenk und hielt fest, fester, als sie eigentlich musste. Er ließ sich ziehen, und seine Finger fanden den Stoff über ihrem Handgelenk und blieben dort, wo sie zuerst gelandet waren. Unter dem Stoff zog sich etwas in ihrem Bauch zusammen, ungesucht, wie eine Knospe, die zu früh schließt. Sie küsste ihn noch einmal, bevor sie einen Schritt tat, kurz und fest, und er machte einen Laut in der Kehle, den sie nicht hörte, sondern an ihrem Mund spürte. Die Dielen knarrten zweimal, als sie das Gewicht verlagerten.
 
 Sie löschte die Kerzen selbst, erst die eine, dann die andere, mit angefeuchtetem Daumen und Zeigefinger, ohne Rauch. Der Raum wurde groß und dunkel, und das Licht aus der Gasse fiel als schmaler Streifen durch den Fensterspalt und legte sich schräg über die Dielen, über den Bettrand, über das Tischtuch. Sie zog die Schnur ihres Mieders, einmal, und er sah sie an, nicht mehr haltend.
 
