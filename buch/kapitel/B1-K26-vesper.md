@@ -46,7 +46,7 @@ Maren schenkte Alphina und Sorel je einen Becher ein. Sie setzten sich ohne Absp
 
 Maren schob eine Lampe einen Daumen breit zur Seite, damit die Mappe besser im Licht lag. Sorel trank langsam, sah einen Moment auf den Glaszylinder und dann auf Vesper. Alphina hatte das Notizbuch aufgeschlagen, nicht auf einer bestimmten Seite. Im Kamin knackte ein Lärchenscheit. Vesper hob seinen Becher. Der Tee war heiß und schmeckte stark nach Schwarzkraut, kaum noch nach Minze. Marens Knöchel lag drei Finger neben seiner Mappe; er registrierte es und sah weiter zur Karte.
 
-Vesper sah die Runde an. »Wir wissen genug, um nervös zu werden, und zu wenig, um ruhig zu bleiben. Also fangt an.« Alphina sah Vesper an. »Wer?« »Du, Alphina. Du hast heute am meisten zusammengetragen.«
+Vesper sah die Runde an. »Wir wissen genug, um nervös zu werden, und zu wenig, um ruhig zu bleiben. Also fangt an.« Alphina sah Vesper an. »Wer?« »Du, Alphina. Runa zuerst.«
 
 ---
 
