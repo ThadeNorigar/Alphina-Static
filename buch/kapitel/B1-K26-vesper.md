@@ -52,7 +52,7 @@ Vesper sah die Runde an. »Wir wissen genug, um nervös zu werden, und zu wenig,
 
 Alphina schlug das Notizbuch auf und drehte es zur Mitte. »Drei Sichtungen, alle von Runa. Ich war vor vier Stunden bei ihr.« Sie las nicht ab, sie erzählte. »Tohl Daverin, der alte Fischer am Westufer, hat in den letzten Wochen dreimal Schatten auf dem Wasser gesehen. Sie sind gegen den Tidenzug gezogen. Eine Magd aus dem Botanischen Garten, den Namen weiß ich nicht, hat eine Pflanze blühen sehen, die sonst erst im Erntemond aufgeht. Und Joran, der Setzergehilfe vom Hafenbüro, hat bei Niedrigwasser zwischen den Pollern eine Gestalt gesehen. Zu groß für einen Fischer, und beim zweiten Hinsehen war sie weg.« Vesper faltete die Uhren-Karte auseinander, suchte die drei Punkte und setzte Kreuze. »Zwei im innersten Ring, eine im dritten. Das deckt sich mit dem, was die Uhren mir zeigen.«
 
-»Runa wird wärmer«, sagte Alphina. »Ich war heute Vormittag bei ihr, sie hat mich zweimal umarmt. Beim ersten Mal habe ich nichts gespürt. Beim zweiten Mal habe ich die Hitze durch zwei Lagen Stoff hindurch gespürt, am Hals und am Rücken. Vom ersten Tag an war es an ihren Händen zu spüren, ganz leicht. Heute war es deutlich.« Sie sah Vesper an. »Ich glaube, sie ist wie wir. Sie weiß es selbst nicht.«
+»Runa wird wärmer«, sagte Alphina. »Ich war heute Vormittag bei ihr, sie hat mich zweimal umarmt. Beim ersten Mal habe ich nichts gespürt. Beim zweiten Mal habe ich die Hitze durch zwei Lagen Stoff hindurch gespürt, am Hals und am Rücken. Vom ersten Tag an lag Wärme in ihren Händen. Heute war sie deutlich.« Sie sah Vesper an. »Ich glaube, sie ist wie wir. Sie weiß es selbst nicht.«
 
 Vesper zog die Karte näher. »Wo liegt die Druckerei?« Alphina kam um den Tisch, beugte sich über die Karte und tippte. »Hier. Eine Handbreit zwischen dem zweiten und dritten Ring.« »Dann sitzt sie auch im Ring, ob sie es weiß oder nicht.«
 
@@ -60,9 +60,9 @@ Maren legte die Hand auf die Mappe. »Sollen wir's ihr sagen?«
 
 Alphina blieb über der Karte stehen, ließ den Tee aus. »Noch nicht. Sie sammelt selbst seit Wochen: die Flugblätter, drei Folgen, was die Kunden in der Druckerei erzählen. Wenn ich ihr jetzt zuvorkomme, mache ich vielleicht kaputt, was sie alleine herausfindet.«
 
-Vesper schob die Karte ein wenig zur Mitte. »Hat etwas für sich. Du gehst ohnehin regelmäßig in die Druckerei, hältst den Kontakt.«
+Vesper schob die Karte ein wenig zur Mitte. »Dann beobachten wir zuerst.«
 
-Maren nickte einmal.
+Marens Finger blieben auf der Mappe liegen.
 
 Sorel hatte den Becher seit der Karte nicht mehr angefasst. »Wenn morgen etwas passiert und sie hält sich selbst für krank, haben wir ihr auch nicht geholfen.«
 
