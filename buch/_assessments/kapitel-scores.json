@@ -20,7 +20,7 @@
       "KAYA (Dystopie/Grimdark)"
     ],
     "book_council_verdikt": ">=90 BESTANDEN / 70-89 GRENZWERTIG / <70 DURCHGEFALLEN",
-    "anzahl_kapitel": 39,
+    "anzahl_kapitel": 44,
     "hinweis": "Heat-Achse bei No-Heat-/Plot-/Interludien-Kapiteln niedrig bewertet, nicht null. Book-Council-Stimmen sind null, wenn das Kapitel nicht ihr Register ist.",
     "sweep_notes": [
       "2026-05-15: Em-Dash-Sweep (commits 8660f10 + ebb17d8): 889 Em-Dashes aus 26 finalen Kapiteln entfernt.",
@@ -33,14 +33,117 @@
       "2026-05-15: Varianten-Hybrid + 3 Pflicht-Fixes fuer I2 (commits dce9713 + folgender). Verifikations-Council: 9.18 FINAL-REIF. Heuristik hatte 6.6 vorhergesagt — Differenz +2.58 (Hybrid hat strukturell verbessert, nicht nur stilistisch). I2 mit echten Werten ueberschrieben.",
       "2026-05-15: Varianten-Hybrid K08 + 3 Pflicht-Fixes. Verifikations-Council: 9.3 FINAL-REIF. Heuristik 6.7 unterschaetzt um +2.6. K08 mit echten Werten ueberschrieben. Bestaetigt: Heuristik fuer hochgesweepte Kapitel konservative Untergrenze.",
       "2026-05-15: Varianten-Hybrid I1 (Variante-Basis + 4 Imports aus aktueller + 4 Antithese-Streichungen). Verifikations-Council: 9.3 FINAL-REIF direkt. Heuristik 7.0 unterschaetzt um +2.3. Final-Reif-Liste: 8 -> 9 Kapitel.",
-      "2026-05-15: Varianten-Hybrid K24 + 3 Pflicht-Fixes. Verifikations-Council: 9.2 FINAL-REIF. Heuristik 7.1 unterschaetzt um +2.1. Final-Reif-Liste: 9 -> 10 Kapitel."
+      "2026-05-15: Varianten-Hybrid K24 + 3 Pflicht-Fixes. Verifikations-Council: 9.2 FINAL-REIF. Heuristik 7.1 unterschaetzt um +2.1. Final-Reif-Liste: 9 -> 10 Kapitel.",
+      "2026-05-18: K37 (Runa, Riss-Sprung), K38 (Alphina, Sorels Tod), K39 (Alphina, Trauer-zu-Auftrag) als Assessments nachgereicht. Council: K37 7.9 NICHT-FINAL (Em-Dash + nicht-sondern-Kette + Anti-Pattern-Doppelung); K38 8.2 NICHT-FINAL (strukturell 9.27 FINAL-REIF ohne Heat; Header-Drift + Narrator-Aphorismus + Inventur-Tic); K39 8.3 NICHT-FINAL (strukturell 9.33 FINAL-REIF ohne Heat; Stakkato-Cluster + Scharnier-Aphorismus). Book-Council Ø K37 82.0 / K38 86.6 / K39 86.6 — alle GRENZWERTIG, Risiko-Stimme VICTORIA (kein BDSM-Register in Plot-/Trauer-Kapiteln).",
+      "2026-05-18: Schema v2 eingefuehrt + Heat-Achse re-erhoben. Alte Heat-Werte (Ø 6.6) waren Methoden-Drift (Subagenten haben Heat als Spannung/Intensitaet interpretiert, nicht Begehren/Sex-Register). Neue Werte (Ø 2.8) strikt nach 01-autorin-stimme.md §11. Verdikt-Politik geaendert: Kern (6 monotone Achsen) bestimmt FINAL-Status, Heat ist Diagnose-Achse (Match-Flag OK/Knapp/Miss) ohne Final-Blocker-Wirkung. Effekt: FINAL-Liste 11 → 17 (Trauer-/Plot-/Epilog-Kapitel mit hohem Kern-Score koennen jetzt sauber final werden — K28, K30, K31, K37, K38, K39, K40 neu drin). Alle 44 Kapitel haben Heat-Flag OK.",
+      "2026-05-18: K33-Refit (Sammel-Hybrid + 4-Council-Validierung) — Stil 5.5 → 9.1, Kern 9.33 FINAL. 7 Bloecke ueber Sz1 (Pendel-Justierung, Karst-Flashback, Karst-Coda), Sz2 (Erkenntnis-Cluster), Sz3 (Morgen-Bett, Welle-Rueckweg, Vier-Personen-Klaerung) ueberarbeitet; 11 Mikro-Fixes auf Sweep-Cluster (sauber-Wertung raus, gleichmaessig 9→2, Mind-Reading-Cluster reduziert, Antithese-Doppel-Pointen aufgeloest). FINAL-Liste B1: 17 → 18. Wortzahl 3766 → 3462."
     ],
-    "kapitel_count": 41,
+    "kapitel_count": 44,
     "final_reif_count": 11,
-    "council_avg": 8.5,
-    "book_council_avg": 79.91,
-    "pflicht_findings_total": 77,
-    "updated": "2026-05-17"
+    "council_avg": 8.47,
+    "book_council_avg": 80.47,
+    "pflicht_findings_total": 90,
+    "updated": "2026-05-18",
+    "heat_soll_map": {
+      "B1-K01": 2,
+      "B1-K02": 1,
+      "B1-K03": 1,
+      "B1-K04": 1,
+      "B1-I1": 0,
+      "B1-K05": 2,
+      "B1-K06": 1,
+      "B1-K07": 3,
+      "B1-K08": 2,
+      "B1-I2": 0,
+      "B1-K09": 3,
+      "B1-K10": 2,
+      "B1-K11": 3,
+      "B1-K12": 4,
+      "B1-K13": 3,
+      "B1-K14": 4,
+      "B1-K15": 2,
+      "B1-K16": 4,
+      "B1-K17": 5,
+      "B1-K18": 4,
+      "B1-K19": 3,
+      "B1-K20": 3,
+      "B1-K21": 9,
+      "B1-K22": 3,
+      "B1-K23": 5,
+      "B1-K24": 2,
+      "B1-K25": 6,
+      "B1-K26": 3,
+      "B1-K27": 9,
+      "B1-K27_5": 8,
+      "B1-K28": 2,
+      "B1-K29": 2,
+      "B1-K30": 3,
+      "B1-K31": 1,
+      "B1-K32": 1,
+      "B1-K33": 2,
+      "B1-K34": 2,
+      "B1-K35": 9,
+      "B1-K36": 5,
+      "B1-I3": 1,
+      "B1-K37": 2,
+      "B1-K38": 2,
+      "B1-K39": 2,
+      "B1-K40": 1
+    },
+    "heat_match_formel": "max(0, 10 - 2 * |heat_soll - heat_ist|)",
+    "verdikt_neu_schwellen": {
+      "FINAL": "kern_gesamt >= 9.0 UND heat_match >= 9.0",
+      "FINAL*": "kern_gesamt >= 9.0 UND heat_match 7.0-8.9 (Heat-Korridor knapp)",
+      "NICHT-FINAL (Heat-Miss)": "kern_gesamt >= 9.0 UND heat_match < 7.0",
+      "NICHT-FINAL (Kern)": "kern_gesamt < 9.0"
+    },
+    "kern_achsen": [
+      "sog",
+      "plot_charakter",
+      "stil_disziplin",
+      "pov_schaerfe",
+      "verstaendlichkeit",
+      "tschechow"
+    ],
+    "aggregate_neu": {
+      "final": 17,
+      "nicht_final": 27,
+      "final_ids": [
+        "B1-K01",
+        "B1-I1",
+        "B1-K05",
+        "B1-K08",
+        "B1-I2",
+        "B1-K09",
+        "B1-K19",
+        "B1-K20",
+        "B1-K24",
+        "B1-K27_5",
+        "B1-K28",
+        "B1-K30",
+        "B1-K31",
+        "B1-K37",
+        "B1-K38",
+        "B1-K39",
+        "B1-K40"
+      ],
+      "kern_gesamt_avg": 8.77,
+      "heat_match_avg": 9.25,
+      "heat_flags": {
+        "OK": 44,
+        "Knapp": 0,
+        "Miss": 0
+      },
+      "final_mit_heat_miss": []
+    },
+    "heat_ist_quelle": "2026-05-18 Re-Erhebung Welle A-D (strikte Definition nach 01-autorin-stimme.md §11)",
+    "heat_flag_schwellen": {
+      "OK": "match >= 7.0",
+      "Knapp": "5.0 <= match < 7.0",
+      "Miss": "match < 5.0  → Refit-Empfehlung, kein Final-Blocker"
+    },
+    "verdikt_neu_schwelle": "FINAL wenn kern_gesamt >= 9.0 (6-Achsen-Mittel: sog/plot/stil/pov/verstaendlichkeit/tschechow)",
+    "heat_politik": "Heat ist Diagnose-Achse, nicht Final-Blocker. Heat-Miss triggert Refit-Empfehlung, blockt aber nicht den Final-Status."
   },
   "kapitel": [
     {
@@ -53,7 +156,7 @@
           "plot_charakter": 9.0,
           "stil_disziplin": 9.0,
           "pov_schaerfe": 9.3,
-          "heat": 7.5,
+          "heat": 1.0,
           "verstaendlichkeit": 9.0,
           "tschechow": 9.5
         },
@@ -95,7 +198,13 @@
           "gesamt_delta": 0.1,
           "rationale": "Em-Dash:20 halb:0 nicht-sondern:1 mini-tic:0",
           "verdikt_changed": false
-        }
+        },
+        "kern_gesamt": 9.17,
+        "heat_soll": 2,
+        "heat_match": 8.0,
+        "verdikt_neu": "FINAL",
+        "heat_begruendung": "Plot-Aufbruch um Pflanzen-Resonanz; Laris-Erinnerung mit Hand auf Bauch ist Abwehr/Schliessung, nicht Begehren.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -123,7 +232,7 @@
           "plot_charakter": 8.5,
           "stil_disziplin": 5.6,
           "pov_schaerfe": 7.5,
-          "heat": 1.0,
+          "heat": 0.5,
           "verstaendlichkeit": 8.0,
           "tschechow": 9.0
         },
@@ -168,7 +277,13 @@
           "gesamt_delta": 0.2,
           "rationale": "Em-Dash:37 halb:2 nicht-sondern:0 mini-tic:0",
           "verdikt_changed": false
-        }
+        },
+        "kern_gesamt": 7.85,
+        "heat_soll": 1,
+        "heat_match": 9.0,
+        "verdikt_neu": "NICHT-FINAL",
+        "heat_begruendung": "Doppelgaenger-Schock in der Dunkelkammer, keinerlei Naehe-Register oder Begehren.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -196,7 +311,7 @@
           "plot_charakter": 9.0,
           "stil_disziplin": 7.8,
           "pov_schaerfe": 9.5,
-          "heat": 7.0,
+          "heat": 0.5,
           "verstaendlichkeit": 9.0,
           "tschechow": 9.5
         },
@@ -230,7 +345,13 @@
           "gesamt_delta": 0.2,
           "rationale": "Em-Dash:46 halb:1 nicht-sondern:0 mini-tic:1",
           "verdikt_changed": false
-        }
+        },
+        "kern_gesamt": 8.97,
+        "heat_soll": 1,
+        "heat_match": 9.0,
+        "verdikt_neu": "NICHT-FINAL",
+        "heat_begruendung": "Werkstatt, Varen-Begegnung, 4:33-Raetsel; kein Koerper- oder Naehe-Register.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -258,7 +379,7 @@
           "plot_charakter": 8.5,
           "stil_disziplin": 8.3,
           "pov_schaerfe": 9.0,
-          "heat": 7.0,
+          "heat": 1.0,
           "verstaendlichkeit": 9.0,
           "tschechow": 9.5
         },
@@ -297,7 +418,13 @@
           "gesamt_delta": 0.1,
           "rationale": "Em-Dash:15 halb:1 nicht-sondern:0 mini-tic:0",
           "verdikt_changed": false
-        }
+        },
+        "kern_gesamt": 8.63,
+        "heat_soll": 1,
+        "heat_match": 10.0,
+        "verdikt_neu": "NICHT-FINAL",
+        "heat_begruendung": "Ankunft an Werft, Edric-Vorstellung sachlich, Thessa-Rueckblick ist Flucht vor Naehe, kein Begehren.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -325,7 +452,7 @@
           "plot_charakter": 9.2,
           "stil_disziplin": 9.0,
           "pov_schaerfe": 9.4,
-          "heat": 1.0,
+          "heat": 0.0,
           "verstaendlichkeit": 9.5,
           "tschechow": 9.5
         },
@@ -359,7 +486,13 @@
           },
           "abweichung_gesamt_vs_heuristik": "+2.3 (Heuristik massiv unterschaetzt)",
           "konsequenz": "I1 viertes FINAL-REIF aus Validierungs-Reihe (nach K27, I2, K08). Direkt-FINAL-REIF ohne weitere Fix-Loop. Hybrid-Strategie etabliert: Variante als Basis fuer Verstaendlichkeit + Setting, Imports aus aktueller fuer Beat-Punch + Italics + Charakter-Manifest."
-        }
+        },
+        "kern_gesamt": 9.27,
+        "heat_soll": 0,
+        "heat_match": 10.0,
+        "verdikt_neu": "FINAL",
+        "heat_begruendung": "Origin-Vignette Steinkreis 154 n. Chr.; reine Plot/Welt-Exposition ohne Naehe-Register.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -387,7 +520,7 @@
           "plot_charakter": 9.0,
           "stil_disziplin": 9.0,
           "pov_schaerfe": 9.0,
-          "heat": 7.5,
+          "heat": 2.0,
           "verstaendlichkeit": 9.0,
           "tschechow": 9.5
         },
@@ -422,7 +555,13 @@
           "gesamt_delta": 0.1,
           "rationale": "Em-Dash:66 halb:2 nicht-sondern:1 mini-tic:0",
           "verdikt_changed": false
-        }
+        },
+        "kern_gesamt": 9.08,
+        "heat_soll": 2,
+        "heat_match": 10.0,
+        "verdikt_neu": "FINAL",
+        "heat_begruendung": "Runa-Begegnung in der Druckerei: Fingerberuehrung beim Muenz-Uebergeben, Runas Hitze, Kribbeln in Alphinas Hand als dezenter Funke.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -450,7 +589,7 @@
           "plot_charakter": 8.5,
           "stil_disziplin": 6.6,
           "pov_schaerfe": 9.0,
-          "heat": 1.0,
+          "heat": 0.5,
           "verstaendlichkeit": 8.5,
           "tschechow": 9.0
         },
@@ -489,7 +628,13 @@
           "gesamt_delta": 0.2,
           "rationale": "Em-Dash:41 halb:1 nicht-sondern:0 mini-tic:0",
           "verdikt_changed": false
-        }
+        },
+        "kern_gesamt": 8.35,
+        "heat_soll": 1,
+        "heat_match": 9.0,
+        "verdikt_neu": "NICHT-FINAL",
+        "heat_begruendung": "Schemen-Encounter am Poller, Plot/Horror; kein Begehren oder Koerper-Naehe-Register.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -517,7 +662,7 @@
           "plot_charakter": 8.5,
           "stil_disziplin": 6.8,
           "pov_schaerfe": 8.5,
-          "heat": 5.5,
+          "heat": 2.5,
           "verstaendlichkeit": 8.5,
           "tschechow": 9.0
         },
@@ -560,7 +705,13 @@
           "gesamt_delta": 0.1,
           "rationale": "Em-Dash:20 halb:2 nicht-sondern:0 mini-tic:0",
           "verdikt_changed": false
-        }
+        },
+        "kern_gesamt": 8.3,
+        "heat_soll": 3,
+        "heat_match": 9.0,
+        "verdikt_neu": "NICHT-FINAL",
+        "heat_begruendung": "Magd-Imago kniend mit Tuch ueber Augen (BDSM-Vorgriff), Streifen am Arm, Fingerspitzen auf Vespers Handflaeche — Begehren angedeutet, kein Vollzug.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -588,7 +739,7 @@
           "plot_charakter": 9.3,
           "stil_disziplin": 9.1,
           "pov_schaerfe": 9.4,
-          "heat": 2.5,
+          "heat": 1.0,
           "verstaendlichkeit": 9.2,
           "tschechow": 9.5
         },
@@ -626,7 +777,13 @@
           },
           "abweichung_gesamt_vs_heuristik": "+2.6 (Heuristik massiv unterschaetzt)",
           "konsequenz": "K08 drittes FINAL-REIF aus Validierungs-Reihe (nach K27, I2). Heuristik bei stark gesweepten Kapiteln nicht zuverlaessig — Hybrid-Einbau hat Plot-/Struktur-/Stil ueber Heuristik gehoben."
-        }
+        },
+        "kern_gesamt": 9.28,
+        "heat_soll": 2,
+        "heat_match": 8.0,
+        "verdikt_neu": "FINAL",
+        "heat_begruendung": "Schemen-Arbeit unterm Segel; Koerper-Hellwachheit ist Magie-Resonanz, kein Naehe-/Begehren-Register.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -654,7 +811,7 @@
           "plot_charakter": 9.2,
           "stil_disziplin": 8.9,
           "pov_schaerfe": 9.0,
-          "heat": 1.0,
+          "heat": 0.0,
           "verstaendlichkeit": 9.3,
           "tschechow": 9.5
         },
@@ -701,7 +858,13 @@
           },
           "abweichung_gesamt_vs_heuristik": "+2.58 (Heuristik massiv unterschaetzt; Hybrid-Einbau hat Aldert-Info-Dump entfernt + Atmosphaere/Schluss aufgewertet)",
           "konsequenz": "I2 zweites FINAL-REIF aus Validierungs-Reihe nach K27. Heuristik fuer Interludien nicht zuverlaessig."
-        }
+        },
+        "kern_gesamt": 9.18,
+        "heat_soll": 0,
+        "heat_match": 10.0,
+        "verdikt_neu": "FINAL",
+        "heat_begruendung": "Origin-Vignette Keldans Glocke; Handwerks-Wunder, keinerlei Naehe-Register.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -729,7 +892,7 @@
           "plot_charakter": 9.0,
           "stil_disziplin": 9.0,
           "pov_schaerfe": 9.5,
-          "heat": 4.5,
+          "heat": 2.5,
           "verstaendlichkeit": 9.0,
           "tschechow": 9.5
         },
@@ -768,7 +931,13 @@
           "gesamt_delta": 0.2,
           "rationale": "Em-Dash:57 halb:3 nicht-sondern:1 mini-tic:0",
           "verdikt_changed": false
-        }
+        },
+        "kern_gesamt": 9.08,
+        "heat_soll": 3,
+        "heat_match": 9.0,
+        "verdikt_neu": "FINAL",
+        "heat_begruendung": "Runas Fingerspitzen am inneren Handgelenk ('eine Stelle, die ein Mensch nicht beilaeufig beruehrte'), warme Haut durchscheinend — leise queere Anziehung angedeutet.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -796,7 +965,7 @@
           "plot_charakter": 8.5,
           "stil_disziplin": 7.8,
           "pov_schaerfe": 9.0,
-          "heat": 5.5,
+          "heat": 1.0,
           "verstaendlichkeit": 8.5,
           "tschechow": 9.5
         },
@@ -831,7 +1000,13 @@
           "gesamt_delta": 0.3,
           "rationale": "Em-Dash:51 halb:8 nicht-sondern:2 mini-tic:0",
           "verdikt_changed": false
-        }
+        },
+        "kern_gesamt": 8.55,
+        "heat_soll": 2,
+        "heat_match": 8.0,
+        "verdikt_neu": "NICHT-FINAL",
+        "heat_begruendung": "Plot-/Magie-Kapitel: Sorel entdeckt Platte 14, fotografische Spurensuche, Verbrennung — kein Begehrensregister, nur fixierte Aufmerksamkeit auf Alphinas Bild.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -859,7 +1034,7 @@
           "plot_charakter": 8.5,
           "stil_disziplin": 6.8,
           "pov_schaerfe": 8.0,
-          "heat": 6.0,
+          "heat": 2.5,
           "verstaendlichkeit": 9.0,
           "tschechow": 9.0
         },
@@ -902,7 +1077,13 @@
           "gesamt_delta": 0.2,
           "rationale": "Em-Dash:35 halb:2 nicht-sondern:1 mini-tic:0",
           "verdikt_changed": false
-        }
+        },
+        "kern_gesamt": 8.3,
+        "heat_soll": 3,
+        "heat_match": 9.0,
+        "verdikt_neu": "NICHT-FINAL",
+        "heat_begruendung": "Erste lange Begegnung Vesper/Alphina im Tuerrahmen: Daumen streift Schwiele, 'keine Absicht. Oder eine, die keiner zugeben wollte' — Waerme angedeutet, kein Touch-Register.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -930,7 +1111,7 @@
           "plot_charakter": 8.5,
           "stil_disziplin": 5.8,
           "pov_schaerfe": 7.0,
-          "heat": 7.5,
+          "heat": 3.5,
           "verstaendlichkeit": 8.5,
           "tschechow": 9.0
         },
@@ -965,7 +1146,13 @@
           "gesamt_delta": 0.2,
           "rationale": "Em-Dash:47 halb:3 nicht-sondern:0 mini-tic:0",
           "verdikt_changed": false
-        }
+        },
+        "kern_gesamt": 7.88,
+        "heat_soll": 4,
+        "heat_match": 9.0,
+        "verdikt_neu": "NICHT-FINAL",
+        "heat_begruendung": "Alphinas Hand auf Sorels Knie, 'Ziehen tief im Bauch, gegen den Atem', Hand-Heilung am Verband — deutliches Begehren ohne Kuss/Koerper-Masse.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -993,7 +1180,7 @@
           "plot_charakter": 8.8,
           "stil_disziplin": 7.8,
           "pov_schaerfe": 9.4,
-          "heat": 8.2,
+          "heat": 3.5,
           "verstaendlichkeit": 9.0,
           "tschechow": 9.3
         },
@@ -1026,7 +1213,13 @@
             "zeile": "17",
             "problem": "'Nicht uebermenschlich. Menschlich. Weiblich.' — Fragment-Kette plus Negations-Haeufung"
           }
-        ]
+        ],
+        "kern_gesamt": 8.83,
+        "heat_soll": 3,
+        "heat_match": 9.0,
+        "verdikt_neu": "NICHT-FINAL",
+        "heat_begruendung": "Alphina nimmt Sorels Hand im Gaslicht, Daumen auf Brandstelle, Mantelstoff streift Mantelstoff in der Gasse — sinnliche Naehe-Beats, ohne expliziten Kuss.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -1054,7 +1247,7 @@
           "plot_charakter": 9.0,
           "stil_disziplin": 8.0,
           "pov_schaerfe": 9.0,
-          "heat": 8.5,
+          "heat": 4.0,
           "verstaendlichkeit": 9.0,
           "tschechow": 9.5
         },
@@ -1083,7 +1276,13 @@
             "zeile": "106",
             "problem": "'Ein Nagel, der stand.' — Metapher + Erklaer-Wiederholung, in §8 woertlich als totes Muster zitiert"
           }
-        ]
+        ],
+        "kern_gesamt": 8.83,
+        "heat_soll": 4,
+        "heat_match": 10.0,
+        "verdikt_neu": "NICHT-FINAL",
+        "heat_begruendung": "Marens Koerper bei Vespers Blick: harter Zug unterm Nabel, Waerme in Oberschenkel-Innenseiten und Handgelenk-Adern — explizites koerperliches Begehren, kein Touch.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -1111,7 +1310,7 @@
           "plot_charakter": 8.7,
           "stil_disziplin": 7.6,
           "pov_schaerfe": 8.8,
-          "heat": 7.5,
+          "heat": 1.5,
           "verstaendlichkeit": 8.5,
           "tschechow": 9.3
         },
@@ -1154,7 +1353,13 @@
           "gesamt_delta": 0.0,
           "rationale": "Em-Dash:0 halb:2 nicht-sondern:0 mini-tic:0",
           "verdikt_changed": false
-        }
+        },
+        "kern_gesamt": 8.52,
+        "heat_soll": 2,
+        "heat_match": 9.0,
+        "verdikt_neu": "NICHT-FINAL",
+        "heat_begruendung": "Plot-Kapitel (Schemen, Runa-Bericht, Mittelpunkt-Enthuellung); Sorel-Begegnung am Steg ist Schweigen/Abkehr, kurz 'Waerme in den Handflaechen'.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -1182,7 +1387,7 @@
           "plot_charakter": 9.0,
           "stil_disziplin": 6.8,
           "pov_schaerfe": 9.5,
-          "heat": 7.0,
+          "heat": 4.5,
           "verstaendlichkeit": 9.0,
           "tschechow": 9.5
         },
@@ -1233,7 +1438,13 @@
           "gesamt_delta": 0.0,
           "rationale": "Em-Dash:0 halb:0 nicht-sondern:3 mini-tic:0",
           "verdikt_changed": false
-        }
+        },
+        "kern_gesamt": 8.63,
+        "heat_soll": 4,
+        "heat_match": 9.0,
+        "verdikt_neu": "NICHT-FINAL",
+        "heat_begruendung": "Sorels imaginierte Akt-Platte von Alphina (Brustwarze, Huefte, Licht ueber Schluesselbein) — auf der Seite ausgemalte Begehrens-Komposition als Scham/Bekenntnis, kein realer Akt.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -1261,7 +1472,7 @@
           "plot_charakter": 9.0,
           "stil_disziplin": 8.6,
           "pov_schaerfe": 9.0,
-          "heat": 8.5,
+          "heat": 4.5,
           "verstaendlichkeit": 9.5,
           "tschechow": 9.0
         },
@@ -1312,7 +1523,13 @@
           "gesamt_delta": 0.0,
           "rationale": "Em-Dash:0 halb:2 nicht-sondern:0 mini-tic:0",
           "verdikt_changed": false
-        }
+        },
+        "kern_gesamt": 8.93,
+        "heat_soll": 5,
+        "heat_match": 9.0,
+        "verdikt_neu": "NICHT-FINAL",
+        "heat_begruendung": "Maren stellt sich Vespers Fingerkuppen an ihrer Sehne vor, Waerme tiefer in Becken — deutliches BDSM-Sub-Begehren imaginiert.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -1340,7 +1557,7 @@
           "plot_charakter": 8.5,
           "stil_disziplin": 6.3,
           "pov_schaerfe": 7.0,
-          "heat": 6.5,
+          "heat": 3.5,
           "verstaendlichkeit": 8.5,
           "tschechow": 8.5
         },
@@ -1382,7 +1599,13 @@
           "gesamt_delta": 0.0,
           "rationale": "Em-Dash:0 halb:1 nicht-sondern:2 mini-tic:0",
           "verdikt_changed": false
-        }
+        },
+        "kern_gesamt": 7.72,
+        "heat_soll": 4,
+        "heat_match": 9.0,
+        "verdikt_neu": "NICHT-FINAL",
+        "heat_begruendung": "Vespers Bild von Marens kniender Pose, Glut 'reglos in seinem Becken' — Dom-Begehren angedeutet, primaer Plot-Gespraech mit Sorel.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -1410,7 +1633,7 @@
           "plot_charakter": 9.0,
           "stil_disziplin": 8.6,
           "pov_schaerfe": 9.0,
-          "heat": 8.0,
+          "heat": 2.5,
           "verstaendlichkeit": 9.5,
           "tschechow": 9.5
         },
@@ -1444,7 +1667,13 @@
           "gesamt_delta": 0.0,
           "rationale": "Em-Dash:0 halb:0 nicht-sondern:1 mini-tic:0",
           "verdikt_changed": false
-        }
+        },
+        "kern_gesamt": 9.02,
+        "heat_soll": 3,
+        "heat_match": 9.0,
+        "verdikt_neu": "FINAL",
+        "heat_begruendung": "Action-/Magie-Kapitel dominiert; Heat nur in Mikro-Beats: Alphinas Koerper erkennt Sorel vor ihr, Sorels Hand bleibt nach dem Wegreissen kurz am Arm 'ohne Druck'.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -1472,7 +1701,7 @@
           "plot_charakter": 9.0,
           "stil_disziplin": 9.0,
           "pov_schaerfe": 9.0,
-          "heat": 8.0,
+          "heat": 3.0,
           "verstaendlichkeit": 9.0,
           "tschechow": 9.5
         },
@@ -1491,7 +1720,13 @@
           "'Vesper bemerkte es frueher.' grenzt an Cross-POV-Inferenz",
           "Lange ruhige Archiv-Sequenz hat wenig Tempo-Variation"
         ],
-        "pflicht_findings": []
+        "pflicht_findings": [],
+        "kern_gesamt": 9.0,
+        "heat_soll": 3,
+        "heat_match": 10.0,
+        "verdikt_neu": "FINAL",
+        "heat_begruendung": "V/M-Bridge-Beats ohne Sex: Vespers 'Schlaues Maedchen' loest Atem unter den Schluesselbeinen aus, Salz auf Marens Oberlippe, seine Schulter neben ihrer ohne Beruehrung.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -1562,7 +1797,13 @@
           "gesamt_delta": 0.0,
           "rationale": "Em-Dash:0 halb:2 nicht-sondern:0 mini-tic:0",
           "verdikt_changed": false
-        }
+        },
+        "kern_gesamt": 8.77,
+        "heat_soll": 9,
+        "heat_match": 10.0,
+        "verdikt_neu": "NICHT-FINAL",
+        "heat_begruendung": "Alphina/Sorel-Erstsex auf der Seite: Mund am Hals, Hand am Oberschenkel, Penetration, Orgasmus mit Farnen-Manifestation aus Wand, Aftercare auf Mantel; Yarros/Réage-Anatomie ohne BDSM.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -1590,7 +1831,7 @@
           "plot_charakter": 8.5,
           "stil_disziplin": 6.5,
           "pov_schaerfe": 9.0,
-          "heat": 7.5,
+          "heat": 3.5,
           "verstaendlichkeit": 8.5,
           "tschechow": 9.0
         },
@@ -1637,7 +1878,13 @@
           "gesamt_delta": 0.1,
           "rationale": "Em-Dash:26 halb:2 nicht-sondern:0 mini-tic:1",
           "verdikt_changed": false
-        }
+        },
+        "kern_gesamt": 8.17,
+        "heat_soll": 3,
+        "heat_match": 9.0,
+        "verdikt_neu": "NICHT-FINAL",
+        "heat_begruendung": "Pflanzen-Plot dominiert; V-Heat erst am Ende: Maren schnuert enger 'wusste, dass sie das fuer ihn tat', Pochen in Innenseiten der Schenkel, Mund trocken.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -1665,7 +1912,7 @@
           "plot_charakter": 9.0,
           "stil_disziplin": 8.5,
           "pov_schaerfe": 9.0,
-          "heat": 8.5,
+          "heat": 5.0,
           "verstaendlichkeit": 9.0,
           "tschechow": 9.5
         },
@@ -1694,7 +1941,13 @@
             "zeile": "23-25",
             "problem": "'»Doch. Du wusstest es.«' — weitere Einwort-/Fragment-Replik, Pingpong-Rhythmus"
           }
-        ]
+        ],
+        "kern_gesamt": 8.92,
+        "heat_soll": 5,
+        "heat_match": 10.0,
+        "verdikt_neu": "NICHT-FINAL",
+        "heat_begruendung": "Magie-Uebung mit erotischer Aufladung, dann offenes 'Ich will dich', Kuss mit Zunge, Mieder-Schnur wird geloest; Sex selbst ausgeblendet (Yarros-Ton).",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -1722,7 +1975,7 @@
           "plot_charakter": 9.3,
           "stil_disziplin": 9.0,
           "pov_schaerfe": 9.2,
-          "heat": 8.8,
+          "heat": 2.0,
           "verstaendlichkeit": 9.3,
           "tschechow": 9.4
         },
@@ -1760,7 +2013,13 @@
           },
           "abweichung_gesamt_vs_heuristik": "+2.1 (Heuristik unterschaetzt)",
           "konsequenz": "K24 fuenftes FINAL-REIF aus Validierungs-Reihe (nach K27, I2, K08, I1). Hybrid-Strategie etabliert: Variante als Basis fuer Memory-Compliance + Setting, Imports aus aktueller fuer Italics-Stimmen-Trennung + Schluss-Pointe."
-        }
+        },
+        "kern_gesamt": 9.22,
+        "heat_soll": 2,
+        "heat_match": 10.0,
+        "verdikt_neu": "FINAL",
+        "heat_begruendung": "Archiv-Plot-Kapitel; Heat nur als Spur: Unterarm streift seinen am Krug, Hand in Sorels Manteltasche auf der Gasse.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -1788,7 +2047,7 @@
           "plot_charakter": 8.5,
           "stil_disziplin": 7.2,
           "pov_schaerfe": 9.0,
-          "heat": 8.5,
+          "heat": 7.0,
           "verstaendlichkeit": 9.0,
           "tschechow": 9.0
         },
@@ -1823,7 +2082,13 @@
           "gesamt_delta": 0.1,
           "rationale": "Em-Dash:26 halb:0 nicht-sondern:0 mini-tic:0",
           "verdikt_changed": false
-        }
+        },
+        "kern_gesamt": 8.45,
+        "heat_soll": 6,
+        "heat_match": 8.0,
+        "verdikt_neu": "NICHT-FINAL",
+        "heat_begruendung": "Runa masturbiert allein in der Druckerei mit Alphina-Fantasie auf der Seite: feucht, Orgasmus mit Heat-Echo-Brand am Werktisch; explizit-soloszenisch.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -1851,7 +2116,7 @@
           "plot_charakter": 8.5,
           "stil_disziplin": 7.6,
           "pov_schaerfe": 8.5,
-          "heat": 7.0,
+          "heat": 2.0,
           "verstaendlichkeit": 7.5,
           "tschechow": 9.0
         },
@@ -1886,7 +2151,13 @@
           "gesamt_delta": 0.2,
           "rationale": "Em-Dash:51 halb:2 nicht-sondern:0 mini-tic:0",
           "verdikt_changed": false
-        }
+        },
+        "kern_gesamt": 8.02,
+        "heat_soll": 3,
+        "heat_match": 8.0,
+        "verdikt_neu": "NICHT-FINAL",
+        "heat_begruendung": "Council-Plot-Kapitel; Heat nur in zwei Mikro-Beats am Anfang: Druck hinter Vespers Hosenbund beim Anblick Marens, Daumen entlang ihres Lederriemens.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -1914,7 +2185,7 @@
           "plot_charakter": 9.0,
           "stil_disziplin": 9.2,
           "pov_schaerfe": 9.0,
-          "heat": 9.3,
+          "heat": 9.0,
           "verstaendlichkeit": 8.7,
           "tschechow": 8.8
         },
@@ -1961,7 +2232,13 @@
           },
           "abweichung_gesamt": "+1.2 (Heuristik unterschaetzt)",
           "konsequenz": "K27 neu FINAL-REIF — andere Kapitel mit aehnlich hoher Sweep-Wirkung koennten ebenfalls FINAL-REIF sein"
-        }
+        },
+        "kern_gesamt": 8.95,
+        "heat_soll": 9,
+        "heat_match": 10.0,
+        "verdikt_neu": "NICHT-FINAL",
+        "heat_begruendung": "V/M-Vollszene Réage-Disziplin: Anweisungs-Strip vor dem Tisch, Hand am Geschlecht, Orgasmus ueber dem Tisch, Schlucken der feuchten Finger, 'braves Maedchen', Aftercare.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -1989,7 +2266,7 @@
           "plot_charakter": 9.3,
           "stil_disziplin": 9.0,
           "pov_schaerfe": 9.4,
-          "heat": 8.5,
+          "heat": 8.0,
           "verstaendlichkeit": 9.2,
           "tschechow": 9.6
         },
@@ -2009,7 +2286,13 @@
           "Heat-Echo-Beat (Lederriemen) ist Reage-Niveau aber knapp",
           "Mehrere kurze Saetze in Reihe in Sz4 ('Saass.' 'Passung.' 'Er schlief.') an der Stakkato-Grenze, funktional gerechtfertigt"
         ],
-        "pflicht_findings": []
+        "pflicht_findings": [],
+        "kern_gesamt": 9.22,
+        "heat_soll": 8,
+        "heat_match": 10.0,
+        "verdikt_neu": "FINAL",
+        "heat_begruendung": "V/M-Power-Exchange-Bridge ohne Vollszene: Schachturm-Uebergabe als Konsens-Ritual, geheimes Saum-Fach im Wollrock; explizites Begehrens-Bild ohne Vollzug.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -2044,7 +2327,7 @@
           "plot_charakter": 9.0,
           "stil_disziplin": 9.0,
           "pov_schaerfe": 9.5,
-          "heat": 7.5,
+          "heat": 1.5,
           "verstaendlichkeit": 9.0,
           "tschechow": 9.5
         },
@@ -2083,7 +2366,13 @@
           "gesamt_delta": 0.1,
           "rationale": "Em-Dash:41 halb:0 nicht-sondern:0 mini-tic:0",
           "verdikt_changed": false
-        }
+        },
+        "kern_gesamt": 9.08,
+        "heat_soll": 2,
+        "heat_match": 9.0,
+        "verdikt_neu": "FINAL",
+        "heat_begruendung": "Solo-Untersuchung mit Schemen-Begegnung; nur Eroeffnung (schlafender Vesper) und Schluss (Anlehnen an seinen warmen Ruecken, 'Waerme, die nichts wollte') als leise Naehe-Beats.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -2111,7 +2400,7 @@
           "plot_charakter": 9.0,
           "stil_disziplin": 6.7,
           "pov_schaerfe": 9.5,
-          "heat": 7.5,
+          "heat": 2.0,
           "verstaendlichkeit": 9.0,
           "tschechow": 9.0
         },
@@ -2146,7 +2435,13 @@
           "gesamt_delta": 0.1,
           "rationale": "Em-Dash:30 halb:0 nicht-sondern:0 mini-tic:0",
           "verdikt_changed": false
-        }
+        },
+        "kern_gesamt": 8.62,
+        "heat_soll": 2,
+        "heat_match": 10.0,
+        "verdikt_neu": "NICHT-FINAL",
+        "heat_begruendung": "Kurzes Begehren-Bild zu Beginn (Bogen ihrer Huefte) und am Ende stilles Liegen bei Alphina mit Hand am Brustbein; sonst Magie-Test und Schemen-Horror.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -2174,7 +2469,7 @@
           "plot_charakter": 9.2,
           "stil_disziplin": 9.0,
           "pov_schaerfe": 9.3,
-          "heat": 7.5,
+          "heat": 2.0,
           "verstaendlichkeit": 9.2,
           "tschechow": 9.4
         },
@@ -2204,7 +2499,13 @@
           "gesamt_delta": 0.0,
           "rationale": "Em-Dash:38 halb:1 nicht-sondern:0 mini-tic:0",
           "verdikt_changed": false
-        }
+        },
+        "kern_gesamt": 9.18,
+        "heat_soll": 3,
+        "heat_match": 8.0,
+        "verdikt_neu": "FINAL",
+        "heat_begruendung": "Eroeffnung intim im Bett (Alphinas Hand auf Brustbein) und Schluss-Geste, aber Schutz-/Liebes-Register ohne Begehren, dazwischen Angriffs-Set-Piece.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -2232,7 +2533,7 @@
           "plot_charakter": 9.0,
           "stil_disziplin": 9.0,
           "pov_schaerfe": 9.5,
-          "heat": 7.5,
+          "heat": 0.5,
           "verstaendlichkeit": 9.0,
           "tschechow": 9.5
         },
@@ -2252,7 +2553,13 @@
           "Schluss-Sektion tempoarm, zweimal Notizbuch holen/zuruecklegen redundant",
           "'Maren hatte gewusst, was Runa war' zweimal — derselbe Beat doppelt"
         ],
-        "pflicht_findings": []
+        "pflicht_findings": [],
+        "kern_gesamt": 9.08,
+        "heat_soll": 1,
+        "heat_match": 9.0,
+        "verdikt_neu": "FINAL",
+        "heat_begruendung": "Reines Trauma-/Erkenntnis-Solo nach Jorans Tod; kein Naehe-Register, nur Wut, Wut-Magie und Vorbereitung des Aufbruchs.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -2280,7 +2587,7 @@
           "plot_charakter": 8.7,
           "stil_disziplin": 8.2,
           "pov_schaerfe": 8.8,
-          "heat": 7.0,
+          "heat": 1.0,
           "verstaendlichkeit": 9.0,
           "tschechow": 9.0
         },
@@ -2315,7 +2622,13 @@
           "gesamt_delta": 0.1,
           "rationale": "Em-Dash:15 halb:0 nicht-sondern:0 mini-tic:0",
           "verdikt_changed": false
-        }
+        },
+        "kern_gesamt": 8.7,
+        "heat_soll": 1,
+        "heat_match": 10.0,
+        "verdikt_neu": "NICHT-FINAL",
+        "heat_begruendung": "Hafen-Plot und Tag-Schemen-Angriff; nur winziger Schluss-Beat im Flur ('Waerme unter dem Schluesselbein, einmal, kurz, vorbei') beim Wiedersehen mit Sorel.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -2339,15 +2652,15 @@
       "datei": "B1-K33-vesper.md",
       "council": {
         "scores": {
-          "sog": 8.5,
-          "plot_charakter": 9.0,
-          "stil_disziplin": 5.5,
-          "pov_schaerfe": 9.0,
-          "heat": 6.5,
-          "verstaendlichkeit": 8.0,
+          "sog": 9.2,
+          "plot_charakter": 9.4,
+          "stil_disziplin": 9.1,
+          "pov_schaerfe": 9.5,
+          "heat": 1.5,
+          "verstaendlichkeit": 9.3,
           "tschechow": 9.5
         },
-        "gesamt": 7.6,
+        "gesamt": 8.21,
         "verdikt": "NICHT-FINAL",
         "staerken": [
           "Dichtes Tschechow-Netz: 4:33-Karst-Payoff, Pendelformel, Verstaerker-Setup, Lenes Manuskript, Einweg-Tor-Erkenntnis",
@@ -2363,12 +2676,7 @@
           "Heat-Register praktisch abwesend",
           "Vereinzelt dichte Verquastung in den Wellen-Beschreibungen"
         ],
-        "pflicht_findings": [
-          {
-            "zeile": "47,51,69,71,73,101",
-            "problem": "Fragment-Marker 'Zug.' / 'Druck.' als Absatz-Einwuerfe wiederholen sich tic-artig"
-          }
-        ],
+        "pflicht_findings": [],
         "_sweep_adjustment": {
           "stil_disziplin_pre": 4.5,
           "stil_disziplin_post": 5.5,
@@ -2378,6 +2686,46 @@
           "gesamt_delta": 0.1,
           "rationale": "Em-Dash:37 halb:0 nicht-sondern:0 mini-tic:0",
           "verdikt_changed": false
+        },
+        "kern_gesamt": 9.33,
+        "heat_soll": 2,
+        "heat_match": 9.0,
+        "verdikt_neu": "FINAL",
+        "heat_begruendung": "Solo-Forschung und Pendel-Magie; am Morgen liegt Marens Daumen auf seinem Unterarm — zaertlich-vertraut ohne Begehren.",
+        "heat_flag": "OK",
+        "_refit_2026_05_18": {
+          "beschreibung": "Sammel-Hybrid Block 1-7 + 2 Validierungs-Runden mit Mikro-Fixes (Stakkato-Diaet Sz1, sauber-Sweep, gleichmaessig-Reduktion 9->2, Mind-Reading Bett-Szene reduziert, Antithese-Cluster aufgeloest). Vor-Refit Stil 5.5 (2026-05-14, vor Sweeps). Nach 4-Council-Validierung: Kern 9.33 FINAL.",
+          "councils": [
+            {
+              "nr": 1,
+              "kern": 9.07,
+              "verdikt": "FINAL"
+            },
+            {
+              "nr": 2,
+              "kern": 8.8,
+              "verdikt": "NICHT-FINAL",
+              "note": "Stakkato-Inflation in Sz1 + Du.Ich-Pingpong + Unter-dem-Stein 4x"
+            },
+            {
+              "nr": 3,
+              "kern": 9.08,
+              "verdikt": "FINAL",
+              "plus": "Marker-Sweep 7.2 strenger; Plot/POV 9.0/9.0/8.5"
+            },
+            {
+              "nr": 4,
+              "kern": 9.33,
+              "verdikt": "FINAL",
+              "note": "nach 11 Mikro-Fixes — Stil 9.1, alle Cluster bereinigt"
+            }
+          ],
+          "vorher_stil": 5.5,
+          "nachher_stil": 9.1,
+          "vorher_kern_geschaetzt": 7.0,
+          "nachher_kern": 9.33,
+          "wortzahl_vorher": 3766,
+          "wortzahl_nachher": 3462
         }
       },
       "book_council": {
@@ -2406,7 +2754,7 @@
           "plot_charakter": 9.0,
           "stil_disziplin": 8.6,
           "pov_schaerfe": 9.0,
-          "heat": 7.0,
+          "heat": 1.0,
           "verstaendlichkeit": 9.0,
           "tschechow": 9.5
         },
@@ -2444,7 +2792,13 @@
           "gesamt_delta": 0.0,
           "rationale": "Em-Dash:0 halb:0 nicht-sondern:1 mini-tic:0",
           "verdikt_changed": false
-        }
+        },
+        "kern_gesamt": 8.85,
+        "heat_soll": 2,
+        "heat_match": 8.0,
+        "verdikt_neu": "NICHT-FINAL",
+        "heat_begruendung": "Planungs-Meeting der Vier; Alphina/Sorel am Ende angekleidet im Bett, leiser Halte-Beat, sonst reines Plot/Logistik-Kapitel.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -2472,7 +2826,7 @@
           "plot_charakter": 8.5,
           "stil_disziplin": 8.6,
           "pov_schaerfe": 6.5,
-          "heat": 9.5,
+          "heat": 9.0,
           "verstaendlichkeit": 9.0,
           "tschechow": 9.0
         },
@@ -2515,7 +2869,13 @@
           "gesamt_delta": 0.0,
           "rationale": "Em-Dash:0 halb:1 nicht-sondern:1 mini-tic:0",
           "verdikt_changed": false
-        }
+        },
+        "kern_gesamt": 8.35,
+        "heat_soll": 9,
+        "heat_match": 10.0,
+        "verdikt_neu": "NICHT-FINAL",
+        "heat_begruendung": "V/M-Vollszene mit Schachturm-Ritual, Augenbinde, Hanf-Stricken an vier Pfosten, Mandeloel, Edging und Penetration; Réage-Disziplin auf der Seite.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -2543,7 +2903,7 @@
           "plot_charakter": 9.3,
           "stil_disziplin": 8.1,
           "pov_schaerfe": 9.2,
-          "heat": 8.0,
+          "heat": 5.0,
           "verstaendlichkeit": 8.8,
           "tschechow": 9.7
         },
@@ -2590,7 +2950,13 @@
           "gesamt_delta": 0.0,
           "rationale": "Em-Dash:0 halb:1 nicht-sondern:0 mini-tic:0",
           "verdikt_changed": false
-        }
+        },
+        "kern_gesamt": 8.93,
+        "heat_soll": 5,
+        "heat_match": 10.0,
+        "verdikt_neu": "NICHT-FINAL",
+        "heat_begruendung": "Erster Kuss Alphina/Sorel im Steinkreis mit 'Darf ich?'-Geste, weichem Oeffnen der Lippen, Heat-Echo als Farn-Wachstum — commercial spuerbar.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -2618,7 +2984,7 @@
           "plot_charakter": 8.5,
           "stil_disziplin": 8.7,
           "pov_schaerfe": 8.5,
-          "heat": 1.0,
+          "heat": 1.5,
           "verstaendlichkeit": 9.0,
           "tschechow": 9.0
         },
@@ -2657,7 +3023,13 @@
           "gesamt_delta": 0.1,
           "rationale": "Em-Dash:17 halb:0 nicht-sondern:0 mini-tic:0",
           "verdikt_changed": false
-        }
+        },
+        "kern_gesamt": 8.7,
+        "heat_soll": 1,
+        "heat_match": 9.0,
+        "verdikt_neu": "NICHT-FINAL",
+        "heat_begruendung": "Kurze zaertliche Geste (Hand auf Kespers Hand), danach reines Feuer-/Ritus-/Todes-Set-Piece am Steinkreis ohne Begehren.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
@@ -2676,6 +3048,247 @@
       }
     },
     {
+      "id": "B1-K37",
+      "pov": "Runa",
+      "datei": "B1-K37-runa.md",
+      "council": {
+        "scores": {
+          "sog": 9.2,
+          "plot_charakter": 9.4,
+          "stil_disziplin": 7.8,
+          "pov_schaerfe": 9.1,
+          "heat": 1.5,
+          "verstaendlichkeit": 9.0,
+          "tschechow": 9.5
+        },
+        "gesamt": 7.9,
+        "verdikt": "NICHT-FINAL",
+        "staerken": [
+          "Tschechow-Feuerwerk: Notizbuch (K31), Zinnflasche, Bleilettern-Beutel, Tarn-Brief, schwarzer Mantel — alle Setups aus K31 zahlen sich ab Z.5-21 ein.",
+          "Sog-Eskalation in vier sauberen Stufen: leere Druckerei → Wege durch die Stadt → Gartenversteck → Riss-Sprung — jede Stufe verengt den Korridor messbar.",
+          "POV-Disziplin durchgehend: Runa beobachtet (Z.55-61, Z.79-91), deutet nicht — Sorel-Prinzip gehalten trotz hoher Dichte fremder Figuren.",
+          "Cliffhanger Z.163-191 mit eingefrorenen Vier + Mann + pferdgrossem Schemen ist visuell scharf und treibt mit echter Plot-Verschiebung (Varens Halvara-Konfrontation) statt mit Pathos.",
+          "Magie-Manifestation der Vier (Z.113-125) sequenziell statt simultan-vermatscht: Alphina-Boden, Maren-Wasser, Vesper-Nebel-Takt, Sorel-Licht — Leserin kann jedes Element zuordnen."
+        ],
+        "schwaechen": [
+          "Em-Dash Z.113 mitten in der Magie-Manifestation: harter Stilregel-Verstoss, einziger im Kapitel, aber Pflicht-Sweep noetig (Master: 02-stilregeln-v2.md, Em-Dash-Verbot).",
+          "'nicht X, sondern Y'-Kette: Z.55, Z.63, Z.65, Z.77, Z.79, Z.129, Z.141 — sieben Treffer ueberschreiten Pflicht-Prueftest-Schwelle. Mindestens drei davon (Z.55, Z.65, Z.79) sind funktional, der Rest ist Tic.",
+          "Z.71 'Wie eine Hand, die lange in einer anderen gelegen hatte.' — woertlich aus 01-autorin-stimme.md Z.311 als Negativ-Beispiel (semantische Doppelung / Erklaer-Nachsatz nach Bild) gelistet.",
+          "Z.179 'Er sah sie an wie jemand, der eine Rechnung neu aufstellt. Er rechnete sie ein.' — grenzwertiges Cross-POV-Mindreading: aus dem Blick Motiv-Deutung gefolgert, dann pointiert.",
+          "Z.91 + Z.121 'lautlos' / 'still' / 'reglos' Cluster aus Default-Adjektiven — Adjektiv-Praezision-Pflicht-Pruefung nicht ueberall durchlaufen."
+        ],
+        "pflicht_findings": [
+          {
+            "zeile": "113",
+            "problem": "Em-Dash mitten im Satz ('brach der Boden auf — die Wedel') — hartes Verbot aus 02-stilregeln-v2.md, im K-Sweep gepflegt; muss durch Komma oder Doppelpunkt ersetzt werden."
+          },
+          {
+            "zeile": "71",
+            "problem": "'Wie eine Hand, die lange in einer anderen gelegen hatte.' — semantische Doppelung / Erklaer-Nachsatz nach Bild; im Anti-Pattern-Katalog 01-autorin-stimme.md Z.311 woertlich als toter Satz markiert."
+          },
+          {
+            "zeile": "63",
+            "problem": "'nicht hastig und nicht verborgen, sondern mit einer Selbstverständlichkeit' — ohne tragenden Beat, Pflicht-Pruefung 'nicht X, sondern Y' (02-stilregeln-v2.md) → streichen oder positiv umformulieren."
+          },
+          {
+            "zeile": "129",
+            "problem": "'sprang, nicht geplant, nicht vorsichtig, sondern mit der blinden Gewissheit' — gleiche Pflicht-Pruefung; der Beat traegt auch positiv ('Sie sprang mit der blinden Gewissheit ...')."
+          },
+          {
+            "zeile": "141",
+            "problem": "'kein vertrautes Firmament, keine Wolkendecke, kein Mondlicht ..., sondern etwas Fremdes' — Pflicht-Pruefung 'nicht-sondern' verletzt; Negationskaskade plus Kontrast-Konstruktion, Default streichen/positiv setzen."
+          },
+          {
+            "zeile": "179",
+            "problem": "'Er sah sie an wie jemand, der eine Rechnung neu aufstellt. Er rechnete sie ein.' — Cross-POV-Mindreading: Motiv-Deutung aus Blick + pointierender Echo-Satz; verletzt Sorel-Prinzip."
+          }
+        ],
+        "kern_gesamt": 9.0,
+        "heat_soll": 2,
+        "heat_match": 9.0,
+        "verdikt_neu": "FINAL",
+        "heat_begruendung": "Action/Riss-Sprung-Kapitel; kein Begehren-Register, nur Plot-Eskalation und Cliffhanger mit Varens Hand unter Alphinas Kinn.",
+        "heat_flag": "OK"
+      },
+      "book_council": {
+        "stimmen": {
+          "LINA": 78,
+          "NORA": 82,
+          "MEIKE": 92,
+          "VICTORIA": 72,
+          "KAYA": 86
+        },
+        "gesamt": 82.0,
+        "verdikt": "GRENZWERTIG",
+        "risiko_signal": {
+          "stimme": "VICTORIA",
+          "score": 72
+        }
+      },
+      "_book_council_kommentare": {
+        "LINA": "Slow-Burn-Sog ist da, der Sprung durch den Riss treibt, aber der Alphina/Sorel-Kuss bleibt aus Aussensicht ohne meinen Heat-Anker — als Romantasy-Fan vermisse ich einen Atemzug Naehe.",
+        "NORA": "Die Power-Verschiebung am Cliffhanger ist scharf: der Mann mit der Hand unter Alphinas Kinn, vier eingefrorene Koerper, Runa als ungeplante Variable — Dark-Romance-Spannung pur.",
+        "MEIKE": "Welt-mit-Zaehnen auf Hochniveau: zwei Monde, schwarzer Kern mit gleissendem Bogen, pferdgrosser Schemen mit Varens violetten Linien — endlich Moragh, endlich Konsequenz.",
+        "VICTORIA": "Material-Praezision der Wege/Mantel/Laterne stimmt, aber dies ist kein BDSM-Kapitel; ich werte als Genre-Leserin, der Power-Imbalance im Cliffhanger genuegt.",
+        "KAYA": "Gewalt mit Folge, eingefrorene Koerper als Bild der Ohnmacht, Sorels Sprung in die Klauen — Haerte ohne Ausweichen, aber 'lautlos' und 'reglos' werden zur Beruhigungspille."
+      },
+      "_erhoben": "2026-05-18"
+    },
+    {
+      "id": "B1-K38",
+      "pov": "Alphina",
+      "datei": "B1-K38-alphina.md",
+      "council": {
+        "scores": {
+          "sog": 9.4,
+          "plot_charakter": 9.6,
+          "stil_disziplin": 8.7,
+          "pov_schaerfe": 9.3,
+          "heat": 2.0,
+          "verstaendlichkeit": 9.1,
+          "tschechow": 9.5
+        },
+        "gesamt": 8.2,
+        "verdikt": "NICHT-FINAL",
+        "staerken": [
+          "Sorels Tod ohne literary-Ausweichen: Klauenhieb, Knochen-Splittern, Brustkorb bricht nach innen — KAYA-Register Kuang/SenLinYu kompakt eingehalten, Blut spritzt sensorisch auf Alphinas Wange/Hals/Schulter.",
+          "Magie-Eskalation aus Kontrollverlust geerdet: Heilwille kippt am toten Gewebe in Becken-Welle, schwarze Dornen-Manifestation als Heat-Echo Trauer (Canon project_alphina_heat_echo_pflanzen), kein Magie-Schau, sondern Verlustform.",
+          "Tschechow-Konvergenz auf hohem Niveau: Varens violette Augen + Stein-Suess-Geruch (Bluetenmond-Schatten), Linien-Muster (Hafengasse/Marktplatz), Lene-Dahls 400-J.-Thalassisch — alles trifft hier zusammen.",
+          "Group-Choreografie nach Sorels Tod: Maren Wasser-Saug, Vesper Atem-Mitnahme, Runa Hitze + Wangenkontakt — drei Resonanzen halten Alphina, ohne dass eine Figur Kulisse wird (Ensemble-Regel erfuellt).",
+          "POV-Disziplin makellos: Berufslinse (Heilgeste, Halvards Hand, Gewebe-Respekt) liegt unter dem Schock, kein Narrator-Wissen-Vorgriff, Sorel-Prinzip gehalten."
+        ],
+        "schwaechen": [
+          "Header-Datum widerspruechlich: K36 = 32 Wochen 1 Tag, K38 = 26 Wochen 3 Tage — Wochenzahl bricht (Memory project_header_drift_k26_k32, Header-Konvention B).",
+          "Z.55 'sanfteste Befehl ... gerade deshalb gefaehrlich. Die Art von Empfang, die Menschen dazu brachte ...' — kurze Narrator-Glosse / Aphorismus-Wendung, leichte Verquastungs-Tendenz.",
+          "Z.71 lange Erinnerungs-Schicht zur Wesen-Erkennung mit reihenartiger Anapher-Schleife ('Sechs Tage spaeter ... Dieselben Zeichen. Dieselbe Hand dahinter.') — kommt nahe an die Anaphern-Kaskaden-Grenze und an Stakkato-Kette.",
+          "Z.107 'Sie wollte es nicht. ... Sie wollte nichts davon, wollte keine dieser Reaktionen.' — semantische Doppelung im selben Absatz.",
+          "Z.165 Varens Mikrobeats-Liste ('Sein Augenlid zuckte ... Sein Atem ging ... Das Blut auf seiner Wange ... Der linke Fuss ... Der Kiefer ...') laeuft als Reihen-Inventur mit gleicher Satzbau-Achse — nahe an Komma-/Anaphern-Tic."
+        ],
+        "pflicht_findings": [
+          {
+            "zeile": "3",
+            "problem": "Header-Datum '26 Wochen 3 Tage' kollidiert mit K36 (32 Wochen 1 Tag) — Konvention B verlangt monoton wachsende Wochenzahl (Memory project_header_drift_k26_k32 + CLAUDE.md Header-Konvention)."
+          },
+          {
+            "zeile": "55",
+            "problem": "'Das war keine Frage. Das war der sanfteste Befehl ... gerade deshalb gefaehrlich. Die Art von Empfang, die Menschen dazu brachte ...' — Narrator-Aphorismus/Verallgemeinerung, Scharnier-Pointe; Master 01-autorin-stimme §8 verbietet Scharnier-Aphorismen als Default."
+          },
+          {
+            "zeile": "107",
+            "problem": "'und sie wollte es nicht. ... Sie wollte nichts davon, wollte keine dieser Reaktionen.' Doppelung derselben Aussage im Absatz; Master 01-autorin-stimme §2.8 (Doppelungs-Check pro Absatz)."
+          },
+          {
+            "zeile": "165",
+            "problem": "Varens Mikrobeats-Reihe (Augenlid/Atem/Blut/Fuss/Kiefer) als fuenfgliedrige Satzkette mit gleichem Bau — Anaphern-/Inventur-Tic, mindestens zwei Beats verflechten."
+          },
+          {
+            "zeile": "71",
+            "problem": "Erinnerungs-Schleife endet in drei Kurzsaetzen ('Dieselben Zeichen. Dieselbe Hand dahinter. Wesen mit diesen Linien kamen nicht zufaellig.') — kommt an Stakkato-Kette/Anapher-Grenze; Pflicht-Pruefung pro Einsatz."
+          }
+        ],
+        "kern_gesamt": 9.27,
+        "heat_soll": 2,
+        "heat_match": 10.0,
+        "verdikt_neu": "FINAL",
+        "heat_begruendung": "Sorels Tod und Alphinas Verlust; Varens Halsgriff hat Klinik-Touch ohne Power-Exchange, kein Begehren-Akt.",
+        "heat_flag": "OK"
+      },
+      "book_council": {
+        "stimmen": {
+          "LINA": 84,
+          "NORA": 92,
+          "MEIKE": 93,
+          "VICTORIA": 70,
+          "KAYA": 94
+        },
+        "gesamt": 86.6,
+        "verdikt": "GRENZWERTIG",
+        "risiko_signal": {
+          "stimme": "VICTORIA",
+          "score": 70
+        }
+      },
+      "_book_council_kommentare": {
+        "LINA": "Mir bricht das Herz — sie kuesst ihn noch in K36, und hier liegt er, und sie versucht zu heilen und kann es nicht; ich lese weiter, aber Sorels Tod tut so weh, dass ich Pause brauche.",
+        "NORA": "Varens Daumen am Hals von Alphina, der hoeflichste Befehl, den ich je gelesen habe — das ist die Power-Dynamik, die ich erwarte, und sie schlaegt zurueck, statt nur zu zerbrechen.",
+        "MEIKE": "Welt mit Zaehnen: zwei Monde, schwarzer Bogen, Stein der saugt — POV haelt jeden Schritt, Varens Sprache traegt 400 Jahre Tiefe, die Wesen haben Funktion.",
+        "VICTORIA": "Kein Register fuer mich heute — Varens Halsgriff hat den Klinik-Touch (Arzt oder Liebhaber), aber das hier ist Tod, nicht Power-Exchange, ich werte nur strukturell mit.",
+        "KAYA": "Endlich Gewalt mit Folge: Knochen splittern hoerbar, Licht laeuft aus dem geoeffneten Brustkorb, die schwarzen Bluten bleiben in Sorels Fleisch — kein Ausweichen, kein Trostpflaster, das traegt Kuang-Niveau."
+      },
+      "_erhoben": "2026-05-18"
+    },
+    {
+      "id": "B1-K39",
+      "pov": "Alphina",
+      "datei": "B1-K39-alphina.md",
+      "council": {
+        "scores": {
+          "sog": 9.3,
+          "plot_charakter": 9.5,
+          "stil_disziplin": 8.8,
+          "pov_schaerfe": 9.4,
+          "heat": 2.0,
+          "verstaendlichkeit": 9.4,
+          "tschechow": 9.6
+        },
+        "gesamt": 8.3,
+        "verdikt": "NICHT-FINAL",
+        "staerken": [
+          "Trauer manifestiert sich rein in Arbeitshandlungen (Alphina prueft Schlagader, Maren zieht selbst Dornen, niemand sieht Sorel an ausser Runa) — kein Innensicht-Rumor, keine Pose.",
+          "Drei-Resonanzen-Beerdigung (Maren oeffnet Erde mit Wasser, Alphina verflechtet Wurzeln als Halt) ist Plot-Magie und Trauer-Akt in einem — der Kiesel-Tschechow aus K36 feuert bei der Hosentasche praezise.",
+          "Heat-Echo-Canon eingehalten: schwarze Stiele mit blut-rotem Saum, purpur-schwarzem Rand stehen ueber dem Grab statt zu verwelken — Trauer-Manifestation als Pflanzen-Marker konsistent mit der etablierten Mechanik.",
+          "POV-Disziplin sehr eng: Alphina registriert (Runas Hand-Beben, Vespers Spalten-Geste, Marens Kopf-Verlagerung weg von Sorel), deutet nichts; Sorel-Prinzip durchgezogen.",
+          "Schluss-Anker 'Wir suchen ihn und vernichten ihn' mit Brustmuskel-Beat traegt den Akt-IV-Auftrag ohne Pathos — Maren spricht zuerst, der Satz steht ohne Diskussion."
+        ],
+        "schwaechen": [
+          "Stakkato-Cluster Z.71-86 (sieben Fragmentsaetze in Folge bei den dunkelgruenen Trieben) ueberreizt das Hammerschlag-Stilmittel — als Magie-Manifestation begruendbar, aber an der oberen Grenze.",
+          "Z.49 'Nicht vorsichtig. Nicht zoegernd. Als haette der Boden unter ihr nach unten gezogen.' kombiniert Doppel-Negation und 'als haette'-Hypothetik in drei Fragmenten — Tic-Verdacht.",
+          "Z.75 'Keine schwarzen Dornen. Kein blutroter Saum.' und Z.151-152 'Keine Knospen. Kein langsames Wachsen.' wiederholen das Negations-Stakkato-Muster zu eng beieinander.",
+          "Z.192 'Kein Trost. Kein Dank, der mehr wiegen sollte als er wog.' ist ein Scharnier-Aphorismus mit erklaerendem Nachsatz nahe an §7 Anti-Pattern.",
+          "Lange Eroeffnung (Z.5-13) traegt sinnlich, aber der erste Pflicht-Hook-Reiz (Figur will etwas) kommt erst mit dem Kriechen zu Sorel (Z.11) — fuer commercial Hook ein Tick spaet."
+        ],
+        "pflicht_findings": [
+          {
+            "zeile": "49",
+            "problem": "Doppel-Negation plus 'als haette'-Hypothetik in drei aufeinanderfolgenden Fragmenten — gegen Spannungs-Mantra (Stakkato statt Rhythmus) und Negations-Memory (sinnfreie Verneinung statt positive Formulierung)."
+          },
+          {
+            "zeile": "192",
+            "problem": "'Kein Trost. Kein Dank, der mehr wiegen sollte als er wog.' — Scharnier-Aphorismus mit erklaerendem Nachsatz; entweder ersten Satz allein stehen lassen oder beide streichen (Master: 01-autorin-stimme.md §8 'Scharnier-Aphorismen')."
+          }
+        ],
+        "kern_gesamt": 9.33,
+        "heat_soll": 2,
+        "heat_match": 10.0,
+        "verdikt_neu": "FINAL",
+        "heat_begruendung": "Trauer-zu-Auftrag; Beerdigung mit Wurzel-Magie, kein Naehe-/Begehren-Register.",
+        "heat_flag": "OK"
+      },
+      "book_council": {
+        "stimmen": {
+          "LINA": 86,
+          "NORA": 90,
+          "MEIKE": 92,
+          "VICTORIA": 78,
+          "KAYA": 87
+        },
+        "gesamt": 86.6,
+        "verdikt": "GRENZWERTIG",
+        "risiko_signal": {
+          "stimme": "VICTORIA",
+          "score": 78
+        }
+      },
+      "_book_council_kommentare": {
+        "LINA": "Der Kiesel in der Hosentasche an dieselbe Stelle — ich hab geheult. Aber die ersten zwei Absaetze sind viel Himmel und wenig Alphina-Wollen; gib mir frueher ihre Hand auf seine.",
+        "NORA": "'Wir suchen ihn und vernichten ihn' — das ist Schaerfe, die ich brauche. Maren spricht zuerst, niemand widerspricht, die Welle Brustmuskeln traegt den Satz. Sauber.",
+        "MEIKE": "POV bleibt eng, die Welt hat Zaehne (kein Vogel, kein Insekt, suess-metallischer Geruch, wandernder Schatten ohne Richtung), die Trauer kippt nicht in Pose. Stakkato-Cluster bei den dunkelgruenen Trieben kostet einen Punkt.",
+        "VICTORIA": "Kein Register fuer mich — keine BDSM-Szene, keine Material-Praezision an Utensilien. Vespers Spalten-Geste am Stein ist Subtext, mehr nicht. Token-Wertung knapp ueber GRENZWERTIG.",
+        "KAYA": "Gewalt hat Folge: Sorel liegt, wo er gefallen ist, der Brustkorb offen, die Bluete violett zwischen den Splittern des Brustbeins. Beerdigung mit Wurzeln, die ihn nehmen — kalt und koerperlich, kein literary-Ausweichen. Runas Schnitte koennten haerter brennen."
+      },
+      "_erhoben": "2026-05-18"
+    },
+    {
       "id": "B1-K40",
       "pov": "Jara/Edric/Tarn (Multi-POV)",
       "datei": "B1-K40-vael-epilog.md",
@@ -2691,8 +3304,6 @@
         },
         "gesamt": 8.07,
         "verdikt": "NICHT-FINAL",
-        "verdikt_strukturell": "FINAL-REIF",
-        "verdikt_note": "Council-Schnitt ohne Heat = 9.25 (FINAL-REIF). Heat=1 (Epilog-Konvention analog I3) zieht den Gesamt-Schnitt formal unter 9.0; alle nicht-Heat-Achsen liegen >= 8.9. Strukturell final-reif.",
         "staerken": [
           "Drei eigenstaendige Verlust-Vignetten in drei klar geschiedenen Berufslinsen (Archiv-Signatur Jara / Aufmass-Linie Edric / Setzkasten Tarn)",
           "Tschechow aussergewoehnlich dicht: gemeinsame Zeugen-Konstellation Jara+Tarn auf beiden Schenkungs-Urkunden verknotet Maren/Runa strukturell; Halvards Schachtel oeffnet B2 ohne ein Wort Erklaerung",
@@ -2707,10 +3318,31 @@
           "Stakkato-Inventur 'Drei Knoten uebereinander, die untere Schlinge doppelt durch die obere. Marens Hand.' an der Grenze (vertretbar als Werkstatt-Inventur)",
           "Multi-POV-Verflechtung verzichtet auf Cross-Connect-Beat in Sz3 (Werft-Besuch nur durch Tarn referenziert) — Effizienz-Plus, aber Sz2-C-Cross-Connect bleibt einseitig Edric-perspektivisch"
         ],
-        "pflicht_findings": []
+        "pflicht_findings": [],
+        "kern_gesamt": 9.25,
+        "heat_soll": 1,
+        "heat_match": 10.0,
+        "verdikt_neu": "FINAL",
+        "heat_begruendung": "Drei Verlust-Vignetten in Vael (Jara/Edric/Tarn); kein Naehe-/Begehren-Register, reine Ghost-Presence-Atmosphaere.",
+        "heat_flag": "OK"
       },
       "book_council": {
         "stimmen": {
+          "LINA": null,
+          "NORA": null,
+          "MEIKE": 90,
+          "VICTORIA": null,
+          "KAYA": 88
+        },
+        "marktfaehigkeit": 89.0,
+        "verdikt": "GRENZWERTIG",
+        "risiko_stimme": "KAYA 88",
+        "gesamt": 89.0,
+        "risiko_signal": {
+          "stimme": "KAYA",
+          "score": 88
+        },
+        "_stimmen_detail": {
           "MEIKE": {
             "score": 90,
             "verdikt": "BESTANDEN",
@@ -2721,10 +3353,7 @@
             "verdikt": "GRENZWERTIG",
             "kommentar": "Morrison-Register-Anklang ('narbige Ruhe'), Verlust-in-Arbeitshandlungen genau richtig. Tarn auf Runas Hocker als finale Geste sitzt. Edric-Brustbein-Beat hilft, koennte aber noch haerter sein."
           }
-        },
-        "marktfaehigkeit": 89.0,
-        "verdikt": "GRENZWERTIG",
-        "risiko_stimme": "KAYA 88"
+        }
       },
       "_sweep_adjustment": {
         "datum": "2026-05-17",
