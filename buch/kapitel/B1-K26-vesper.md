@@ -46,7 +46,7 @@ Maren schenkte Alphina und Sorel je einen Becher ein. Sie setzten sich ohne Absp
 
 Maren schob eine Lampe einen Daumen breit zur Seite, damit die Mappe besser im Licht lag. Sorel trank langsam, sah einen Moment auf den Glaszylinder und dann auf Vesper. Alphina hatte das Notizbuch aufgeschlagen, nicht auf einer bestimmten Seite. Im Kamin knackte ein Lärchenscheit. Vesper hob seinen Becher. Der Tee war heiß und schmeckte stark nach Schwarzkraut, kaum noch nach Minze. Marens Knöchel lag drei Finger neben seiner Mappe; er registrierte es und sah weiter zur Karte.
 
-Vesper sah die Runde an. »Wir wissen genug, um nervös zu werden, und zu wenig, um ruhig zu bleiben. Also fangt an.« Alphina sah Vesper an. »Wer?« »Du, Alphina. Runa zuerst.«
+Vesper sah die Runde an. »Wir wissen genug, um nervös zu werden, und zu wenig, um ruhig zu bleiben. Also fangt an.« Alphina sah Vesper an. »Wer?« »Du, Alphina.«
 
 ---
 
@@ -56,11 +56,23 @@ Alphina schlug das Notizbuch auf und drehte es zur Mitte. »Drei Sichtungen, all
 
 Vesper zog die Karte näher. »Wo liegt die Druckerei?« Alphina kam um den Tisch, beugte sich über die Karte und tippte. »Hier. Eine Handbreit zwischen dem zweiten und dritten Ring.« »Dann sitzt sie auch im Ring, ob sie es weiß oder nicht.«
 
-Maren legte die Hand auf die Mappe. »Sollen wir's ihr sagen?« Alphina blieb über der Karte stehen, ließ den Tee aus. »Noch nicht. Sie sammelt selbst seit Wochen: die Flugblätter, drei Folgen, was die Kunden in der Druckerei erzählen. Wenn ich ihr jetzt zuvorkomme, mache ich vielleicht kaputt, was sie alleine herausfindet.« Sorel hob den Becher, trank, setzte ihn ab. »Oder wir schützen sie damit, dass wir's ihr sagen.«
+Maren legte die Hand auf die Mappe. »Sollen wir's ihr sagen?«
 
-Alphina wandte sich Sorel zu. »Wovor denn? Wir wissen ja noch nicht mal, was kommt.« Vesper schob die Karte ein wenig zur Mitte. »Solange bei Halvard nichts Neues passiert, können wir warten. Mein Vorschlag: wir beobachten sie. Alphina geht ohnehin regelmäßig in die Druckerei, hält den Kontakt. In zwei Wochen sehen wir noch mal nach.«
+Alphina blieb über der Karte stehen, ließ den Tee aus. »Noch nicht. Sie sammelt selbst seit Wochen: die Flugblätter, drei Folgen, was die Kunden in der Druckerei erzählen. Wenn ich ihr jetzt zuvorkomme, mache ich vielleicht kaputt, was sie alleine herausfindet.«
 
-Maren sah die Runde an. »Einverstanden. Aber das tragen wir gemeinsam, nicht Alphina allein.« Alphina nickte langsam, hielt Marens Blick. Sorel sagte »Gut« und legte die Handflächen auf die Tischkante. Vesper machte einen kleinen Strich neben das Druckerei-Kreuz.
+Vesper schob die Karte ein wenig zur Mitte. »Hat etwas für sich. Du gehst ohnehin regelmäßig in die Druckerei, hältst den Kontakt.«
+
+Maren nickte einmal.
+
+Sorel hatte den Becher seit der Karte nicht mehr angefasst. »Wenn morgen etwas passiert und sie hält sich selbst für krank, haben wir ihr auch nicht geholfen.«
+
+Alphina drehte sich um. »In Velde haben sie jedes ungewöhnliche Mädchen behandelt, als müsste man es vor sich selbst schützen. Ich tue das nicht noch einmal.«
+
+Sorels Kiefer spannte einmal, kurz. Sein Blick blieb auf der Karte.
+
+Maren sah zwischen ihnen hin und her. »Trotzdem tragen wir das gemeinsam.«
+
+Vesper zog den Strich neben das Druckerei-Kreuz. »In zwei Wochen sehen wir noch mal nach.«
 
 Alphina kam zurück an ihren Platz und blieb stehen, eine Hand am Stuhlrücken. »Seit Maren mir das Blatt vor ein paar Tagen gezeigt hat, habe ich alle drei Bestimmungsbücher durchgesehen, die ich aus Velde mitgebracht habe, plus Henriks Gartenregister hier in Vael. Diese Pflanze steht in keinem davon. Kein Thalassier hat sie je katalogisiert.« Sie sah auf das Glas. »Die Farne in Vael drehen sich zu mir, seit ich hier bin. Sie sind thalassisch, ich kenne sie. Aber diese hier kenne ich überhaupt nicht.«
 
