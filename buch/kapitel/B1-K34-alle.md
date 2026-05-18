@@ -24,7 +24,7 @@ Maren stellte den Tee-Becher ab. »Acht Tage. Die kenne ich auch.«
 
 »Genau dort.« Vesper schob ihr den Bogen hin. »Meine dreizehn Spitzen, deine sieben aus den Logbüchern und Runas Sichtungs-Liste mit fünf trafen sich auf denselben acht Tagen. Drei unabhängige Datenreihen, ein Muster darunter.«
 
-Sorel beugte sich vor und las. Alphinas Blick lag auf dem Bogen, ohne die Zeilen abzulesen.
+Sorel beugte sich vor, eine Hand flach links neben dem Bogen, der Daumen am Papierrand wie an einer Plattenkante, und las. Alphinas Blick lag auf dem Bogen, ohne die Zeilen abzulesen.
 
 »Was ich euch nicht sagen kann«, sagte Vesper, »ist die Frequenz. Ich weiß nicht, wann die nächste Spitze kommt: Tage, Wochen, vielleicht länger. Aus den Datenreihen geht das nicht hervor.«
 
@@ -218,7 +218,7 @@ Dann legte er die Feder auf den Bogen. Die Spitze zeigte zur Tischmitte.
 
 »Mein Pendel zeigt die Schwingung unter dem Stein, wenn sie anschlägt«, sagte er. »Es zeigt nicht, wann sie wiederkommt. Es zeigt nicht, wie lange das Tor offen bleibt, wenn es sich öffnet. Es zeigt nicht, was auf der anderen Seite ist.«
 
-Niemand widersprach. Maren sah in ihre Schale. Sorel betrachtete eine Stelle am Rand des Bogens, die leer geblieben war.
+Niemand widersprach. Maren sah in ihre Schale. Sorel betrachtete eine Stelle am Rand des Bogens, die leer geblieben war, und blieb dort, als wartete er, dass die Stelle sich selbst füllte.
 
 »Wir wissen nicht, was auf der anderen Seite ist«, sagte Sorel. »Ob da Licht ist. Ob Pflanzen wachsen. Ob es Wasser gibt. Lene war nie hindurch.«
 
@@ -252,7 +252,7 @@ Einen Atemzug lang sah sie die Bilder. Dann nicht mehr. Sie hatte es nie getan. 
 
 »Ich kann nur aufbauen«, sagte sie. »Das muss reichen.«
 
-Vesper hielt einen Atemzug. Sah einmal kurz zu Sorel, dann zurück auf den Bogen. Er nickte. Schrieb drei Wörter in die rechte Spalte, die Alphina von ihrer Seite nicht lesen konnte. Sorel hatte die Hände im Schoß. Seine Schulter rührte sich nicht.
+Vesper hielt einen Atemzug. Sah einmal kurz zu Sorel, dann zurück auf den Bogen. Er nickte. Schrieb drei Wörter in die rechte Spalte, die Alphina von ihrer Seite nicht lesen konnte. Sorel hatte die Hände im Schoß, die Finger nicht verschränkt, jede für sich, in der Komposition, die sie auch um eine Kamera fanden. Etwas Warmes knospte ihr unter dem Rippenbogen, kurz, dann zog sie den Blick auf den Bogen zurück. Seine Schulter rührte sich nicht.
 
 »Gut«, sagte Vesper. »Mitnahmen.«
 
@@ -322,11 +322,11 @@ Vor ihrem Hauseingang blieb er einen Atemzug länger stehen, als der Weg verlang
 
 Im ersten Stock klickte das Schloss. Drinnen roch es nach altem Tee, nach Holzrauch aus dem Ofen vom Vortag, nach dem trockenen Mappenstaub seiner Bände auf dem Regal, nach dem Lavendel-Öl, das sie offen auf der Kommode stehen ließ. Den Mantel hängten sie auf, die Stiefel zogen sie aus. Sie sagte etwas Halblautes über die Lampe, er drehte den Docht ein wenig herunter, der Schein fiel weicher auf den Tisch.
 
-Jeder ging an seinen Platz. Sorel an den Schreibtisch. Auf der Platte lagen Lupe, Schiefertafel, drei Belichtungs-Messplättchen in einer Reihe, daneben der Mantel mit den Innentaschen für die Bände. Er packte ohne hinzusehen, die Innentaschen lagen in der gewohnten Reihenfolge. Alphina an der Kommode bei der Werkstatt-Ecke, an den Tonkrügen. Drei Saatgut-Päckchen, in Stoff gewickelt, in den Leinenbeutel. Ihre Hände bewegten sich gleichmäßig, der Daumen drückte das Tuch fest, der Zeigefinger fuhr die Naht entlang. Sie sah nicht hin. Sorel sah hin. Ihre Hände wussten, was sie taten.
+Jeder ging an seinen Platz. Sorel an den Schreibtisch. Auf der Platte lagen Lupe, Schiefertafel, drei Belichtungs-Messplättchen in einer Reihe, daneben der Mantel mit den Innentaschen für die Bände. Er packte ohne hinzusehen, die Innentaschen lagen in der gewohnten Reihenfolge. Alphina an der Kommode bei der Werkstatt-Ecke, an den Tonkrügen. Drei Saatgut-Päckchen, in Stoff gewickelt, in den Leinenbeutel. Ihre Hände bewegten sich gleichmäßig, der Daumen drückte das Tuch fest, der Zeigefinger fuhr die Naht entlang. Sie sah nicht hin. Sorel sah hin. Ihre Hände wussten, was sie taten. Er kannte die Linie, die ihr Handgelenk an der Kommodenkante zog, kannte den knappen Druck, mit dem ihr Daumen den Stoff fasste. Er hatte die Hände schon einmal anders gesehen, mit demselben Druck an seinem Nacken. Seine eigenen Hände lagen ruhig auf dem Mantel. Er ließ sie liegen.
 
 Sie sprachen kein Wort.
 
-Die Lampe drehte er einen Finger niedriger, bevor sie ins Bett gingen. Alphina rückte an die Wand, wie immer. Er legte sich zur Türseite, Brust an Brust mit ihr, ihr Gesicht eine Handbreit vor seinem. Dann drehte sie sich. Sein Arm fand ihre Hüfte. Seine Handgelenks-Innenseite fand den dünnen Stoff ihres Hemdes, darunter Wärme. Sie atmete langsam. Sie schlief nicht.
+Die Lampe drehte er einen Finger niedriger, bevor sie ins Bett gingen. Alphina rückte an die Wand, wie immer. Er legte sich zur Türseite, Brust an Brust mit ihr, ihr Gesicht eine Handbreit vor seinem. Dann drehte sie sich. Sein Arm fand ihre Hüfte. Seine Handgelenks-Innenseite fand den dünnen Stoff ihres Hemdes, darunter Wärme. Die Wärme stieg ihm in den Unterarm, in die Brust, sammelte sich tiefer, ein gleichmäßiger Druck im Becken, der nicht wieder weichen wollte. Er kannte den genauen Halbschatten, den die Lampe vorhin in ihre Halsbeuge geworfen hatte, und er hielt ihn jetzt in der dunklen Kammer fest, ohne die Hand zu verschieben. Sie schlief nicht.
 
 Er auch nicht.
 
@@ -342,7 +342,7 @@ Sie nahm die Hafengasse aufwärts. Auf halber Strecke verlor sie das Tempo.
 
 Hinter den geschlossenen Läden in Marens Fenster brannte Licht. Heller als gestern. Heller als sonst. Zwei Lampen, vielleicht drei. Sie trat in den Schatten gegenüber, drei Türen weiter, und sah hin.
 
-Der Schein bewegte sich, Schultern und Köpfe, eine Hand, die einmal hochging. Vier Gestalten am Tisch. Sie zählte zweimal nach. Niemand sonst.
+Der Schein bewegte sich, Schultern und Köpfe, eine Hand, die einmal hochging. Vier Gestalten am Tisch: Vesper am Kopfende, Maren rechts, gegenüber Alphina, daneben eine Schulter, die nicht mitging, wenn die anderen sich nach vorn lehnten. Sie zählte zweimal nach. Niemand sonst.
 
 Die Wärme in ihrer Brust glomm gleichmäßig, wie sie es seit drei Wochen tat.
 
