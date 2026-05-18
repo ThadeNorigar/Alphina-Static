@@ -126,7 +126,7 @@ Er stellte seine Taschenuhr daneben. "Ich muss messen. Das dauert."
 
 "Setzen Sie sich." Der Hausherr ging nach oben.
 
-Vesper wartete. Nach einer Stunde verglich er: die Standuhr hatte 273 Sekunden verloren. Dieselbe Zahl die auf jedem Zifferblatt in seiner Werkstatt stand.
+Vesper wartete. Nach einer Stunde verglich er: die Standuhr hatte zwölf Sekunden verloren. Nicht viel, bei einem perfekten Werk schon zu viel. Er rechnete im Kopf hoch: zwölf mal vierundzwanzig, zweihundertachtundachtzig Sekunden, vier Minuten achtundvierzig pro Tag. Etwas über 4:33, aber dieselbe Größenordnung. Dieselbe Zahl die auf jedem Zifferblatt in seiner Werkstatt stand.
 
 Dann legte er die Hand auf das Gehäuse.
 
@@ -138,9 +138,9 @@ Null.
 
 Die Abweichung war weg. Unter seiner Hand lief die Uhr korrekt. Er nahm die Hand weg, und die Wärme blieb einen Moment auf seiner Haut, wie die Wärme eines Körpers der sich gerade entfernt hat. Er wartete. Eine Stunde.
 
-4:33.
+Zwölf Sekunden.
 
-Nochmal. Hand drauf. Die Wärme kam sofort, als hätte sie auf ihn gewartet. Null. Hand weg. 4:33. Drei Durchgänge, sechs Stunden, und jedes Mal dasselbe: die Uhr reagierte auf seine Berührung wie ein Lebewesen das sich an seine Hand schmiegte und falsch lief sobald er losließ.
+Nochmal. Hand drauf. Die Wärme kam sofort, als hätte sie auf ihn gewartet. Null. Hand weg. Zwölf Sekunden. Drei Durchgänge, sechs Stunden, und jedes Mal dasselbe: die Uhr reagierte auf seine Berührung wie ein Lebewesen das sich an seine Hand schmiegte und falsch lief sobald er losließ.
 
 Draußen war es dunkel geworden. Die Magd hatte zweimal Tee gebracht ohne zu fragen. Beim zweiten Mal hatte sich ihre Hand auf die Sessellehne gelegt, neben seiner Schulter, nicht berührend, aber nah genug dass er die Wärme spürte. Er hatte nichts gesagt, und sie hatte nichts gesagt, und die Uhr hatte getickt.
 

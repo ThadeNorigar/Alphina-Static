@@ -251,7 +251,7 @@ Vesper hörte, was der Satz nicht enthielt. Kein *ich glaube an Geister*. Kein *
 
 Er brauchte einen Atemzug, um zu antworten. Die Antwort kannte er. Aber in fünf Wochen hatte ihn niemand danach gefragt.
 
-"Die Uhr heißt Tidemoor-Uhr. Sie verliert seit Generationen vier Minuten und dreiunddreißig Sekunden pro Tag. Drei Uhrmacher vor mir haben das Gehäuse geöffnet und keinen Fehler gefunden." Er legte die linke Hand auf den Türrahmen, ohne den Druck auf das Holz zu verstärken. "Vor fünf Wochen, am ersten Tag hier, habe ich sie im Salon der Tidemoors gemessen. Sechs Stunden, drei Durchgänge. Hand aufs Gehäuse, eine Stunde gewartet, meine Taschenuhr verglichen: null Drift. Hand weg, eine Stunde gewartet: vier Minuten dreiunddreißig. Hand drauf, null. Hand weg, vier dreiunddreißig. Drei Mal hintereinander, derselbe Verlauf."
+"Die Uhr heißt Tidemoor-Uhr. Sie verliert seit Generationen vier Minuten und dreiunddreißig Sekunden pro Tag. Drei Uhrmacher vor mir haben das Gehäuse geöffnet und keinen Fehler gefunden." Er legte die linke Hand auf den Türrahmen, ohne den Druck auf das Holz zu verstärken. "Vor fünf Wochen, am ersten Tag hier, habe ich sie im Salon der Tidemoors gemessen. Sechs Stunden, drei Durchgänge. Hand aufs Gehäuse, eine Stunde gewartet, meine Taschenuhr verglichen: null Drift. Hand weg, eine Stunde gewartet: zwölf Sekunden. Hand drauf, null. Hand weg, zwölf Sekunden. Drei Mal hintereinander, derselbe Verlauf. Hochgerechnet auf vierundzwanzig Stunden ist das die Größenordnung der vier Minuten dreiunddreißig, mit der die Uhr seit Generationen läuft."
 
 Alphinas Kopf bewegte sich kaum, einen Zoll nach vorn, der Hals nicht steifer, nur aufmerksamer.
 
