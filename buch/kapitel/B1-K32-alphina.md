@@ -21,7 +21,7 @@ Während Vespers Daumen noch an der Schläfe ruhte, kamen Schritte über die Boh
 
 »Drei Boote seit Sonnenaufgang«, meldete er. »Mannschaft nicht im Wasser, war auch nicht über Bord. Ankerketten nicht gerissen. Boote leer mit halb eingeholten Netzen.«
 
-Tohl wartete auf eine Frage, die Alphina nicht stellte. Sie hob die Hand zu seinem Unterarm, drückte ihn kurz, ließ los. Im Augenwinkel zeichnete sich Sorel ab, zwei Schritt hinter ihr, das Gewicht auf dem linken Bein, das rechte leicht angewinkelt. Er sah zum Speicher, dann zu den Booten, dann zu Tohl. Sein Mund blieb geschlossen.
+Tohl wartete auf eine Frage, die Alphina nicht stellte. Sie hob die Hand zu seinem Unterarm, drückte ihn kurz, ließ los. Im Augenwinkel zeichnete sich Sorel ab, zwei Schritt hinter ihr, das Gewicht auf dem linken Bein, das rechte leicht angewinkelt. Seine rechte Hand ruhte am Riemen der Kameratasche, der Daumen lag über der Schnalle, eine Stillung, die sie kannte. Ihr Daumen drückte gegen den eigenen Mittelfinger, einmal, kurz, ohne dass sie es bemerkte. Er sah zum Speicher, dann zu den Booten, dann zu Tohl, der Daumen blieb, wo er war. Sein Mund blieb geschlossen.
 
 Aus der Querstraße zwischen Pfeiler neun und Pfeiler zehn trat etwas auf das Pflaster. Kniehoch, kompakt, vier knochige Beine, die den Körper trugen wie ein Tier, das sie nie gesehen hatte. Die Außenfläche fiel ihr zuerst auf: verzundertes Eisen, dunkel, mit einem oxidierten Schimmer über den Flanken, kein Fell, keine Haut darunter. Es bewegte sich, und dabei erreichte sie kein Klang. Kein Klacken von Eisen auf Stein, kein Schaben der Gelenke, kein Atmen.
 
@@ -143,13 +143,13 @@ Vor der Haustür blieb sie stehen. Das Herz unter dem Schlüsselbein meldete sic
 
 Über die Gasse herüber kam Marens Werfthammer. Drei Schläge, Pause, drei Schläge. Sie hörte zu, einen Atemzug lang. Schloss die Augen, einmal. Sie atmete aus und öffnete sie wieder.
 
-Der Schlüssel lief im Schloss. Im Treppenhaus, auf dem Weg nach oben, hörte sie Sorel: das Knacken des Fensterriegels, eine Bewegung über ihr. Auf der vorletzten Stufe schob sie die Letter in die Manteltasche, tief, bis ihre Fingerkuppe den Stoffboden fand.
+Der Schlüssel lief im Schloss. Im Treppenhaus, auf dem Weg nach oben, hörte sie Sorel: das Knacken des Fensterriegels, dann sein Schritt über ihr, die rechte Sohle eine Spur schwerer als die linke, ein Rhythmus, den sie aus zwanzig Schritt erkannte. Er stand am Fenster, seit sie aus der Pfeil-Gasse gebogen war, vielleicht länger. In ihrem Bauch zog sich etwas zusammen, tief, langsam, eine Wärme, die sich nicht beeilte. Auf der vorletzten Stufe schob sie die Letter in die Manteltasche, tief, bis ihre Fingerkuppe den Stoffboden fand.
 
 Die Wohnungstür schwang nach innen, leiser als sonst, weil sie die Klinke hielt, bis das Schloss klickte. Warme Luft schlug ihr entgegen, Tee, Holzrauch, der trockene Staub von Sorels Mappen.
 
 Ihr Blick fiel auf den Farn am Fensterbrett der Wohnstube. Der äußere Wedel reichte heute höher als gestern morgen, fast bis an die Scheibe, und eine der jungen Knospen stand offen, hellgrün, feucht. Sie hatte ihn vergessen. Heute abend würde sie die Schere holen und die toten Spitzen kürzen.
 
-Sorel hob den Kopf von seinem Schreibtisch. Sah sie an. Sie sah ihn an. Einen Atemzug lang öffnete sich ihr Brustkorb, eine Wärme unter dem Schlüsselbein, einmal, kurz, vorbei. Er legte den Stift quer über das Papier.
+Sorel hob den Kopf von seinem Schreibtisch. Sah sie an, hielt den Blick, ließ ihn nicht weiterwandern zu Mantel, Schloss, Flur, wie er es früher getan hätte. Sie sah ihn an, länger als nötig, und ihre Hand fand den Türrahmen, das Holz kühl, ihre Handfläche darunter warm. Er legte den Stift quer über das Papier, langsam, die Finger auf dem Holz, als müsste er sich daran erinnern, ihn wieder loszulassen.
 
 »Maren und Vesper kommen in zwei Stunden«, sagte sie.
 
