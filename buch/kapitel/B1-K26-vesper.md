@@ -6,7 +6,7 @@ Die zwei Uhren hatten ihn vier Stunden gekostet: eine Taschenuhr mit gerissener 
 
 Die Hafengasse lag in der Dämmerung, kein Wind ging, das Salz der Grauwe stand am Mauerputz. Er klopfte zweimal, kurz, der Schachturm in der Rocktasche kalt wie seit Karst. Maren öffnete vor dem zweiten Klopfen.
 
-Sie stand in der Tür. Vesper sah zuerst das Haar, zurückgesteckt mit der Holznadel. Sie trug das Mieder über dem Wollrock, und am linken Handgelenk lag der schmale Lederriemen, den sie in der Werft nie trug. Hinter dem Hosenbund sammelte sich Glut, schwer und geduldig. Er stand einen Atemzug zu lang in der Tür, bevor seine Hand an den Mantel ging.
+Sie stand in der Tür. Vesper sah zuerst das Haar, zurückgesteckt mit der Holznadel. Sie trug das Mieder über dem Wollrock, und am linken Handgelenk lag der schmale Lederriemen, den sie in der Werft nie trug. Hinter dem Hosenbund sammelte sich Druck, schwer und geduldig. Er stand einen Atemzug zu lang in der Tür, bevor seine Hand an den Mantel ging.
 
 »Du bist pünktlich«, sagte sie.
 
@@ -28,13 +28,13 @@ Maren ging um den Tisch und schenkte dampfenden Tee in zwei Zinnbecher ein. Der 
 
 Maren blieb auf der Längsseite, nahm ein dünnes Logbuch vom Fenstersims und schob es zwischen sich und ihn. »Die Grauwe ist seit fünf Tagen warm, stetig, ohne Sprung. Tohl ist vorgestern am Westufer bis zu den Knöcheln hineingewatet und kam danach an meine Werft, die Pfeife nicht angezündet. ›Maren, ich kenne dieses Wasser seit dreißig Jahren, und heute ist es nicht das Wasser, das ich kenne‹, hat er gesagt. ›Der Fischfang ist diese Woche besser, die Großen bleiben oben, keine Handbreit unter der Oberfläche.‹«
 
-Sie schlug das Logbuch auf, drehte es so, dass Vesper die letzten drei Wochen lesen konnte. Vier Spalten in ihrer Handschrift: Datum, Pegelstand, Temperatur, Salz. An drei Stellen war das Wasser rückwärts gelaufen, jede Stelle mit Uhrzeit. Vesper überflog die Spalten zweimal. »Periodisch, keine Frage; ich messe denselben Takt in den Uhren.«
+Sie schlug das Logbuch auf, drehte es so, dass Vesper die letzten drei Wochen lesen konnte. Vier Spalten in ihrer Handschrift: Datum, Pegelstand, Temperatur, Salz. An drei Stellen war das Wasser rückwärts gelaufen, jede Stelle mit Uhrzeit. Vesper überflog die Spalten zweimal. »Periodisch. Derselbe Takt sitzt in den Uhren.«
 
 Vesper schob das Logbuch zur Seite und klopfte auf die Mappe. »Halvards Notizen. Vier Patientenprotokolle, alles Fälle, die er sich nicht erklären kann.« Maren legte die Handfläche neben die Mappe, ohne sie aufzuschlagen. »Seit wann?« »Alphina hat mir vor acht Tagen gesagt, ich solle mit ihm reden. Sie kennt ihn seit Anfang des Monats; Runa hat ihr damals von ihm erzählt, drei Verbrennungen und ein Frostbrand, alle ohne Ursache. Alphina ist seither selbst zu ihm gegangen.« »Und du?« »Vor drei Tagen das erste Mal, gestern wieder. Beim zweiten Besuch war Alphina dabei. Sie hat den Jungen mit mir zusammen angesehen, und Halvard hat danach die Protokolle herausgegeben, als wir ihm sagen konnten, dass wir ein Muster sehen.«
 
 Maren nickte einmal, die Brauen zogen kurz zusammen. Sie zog die Mappe näher zu sich, ließ sie geschlossen. »Acht Tage und zwei Besuche, von denen ich nichts wusste. Sag es mir das nächste Mal früher.« »Ich hätte es dir morgen früh gesagt, mit oder ohne die anderen.«
 
-Auf der Treppe kamen Schritte hoch, leicht und schwerer ineinander. Maren stand auf, ohne den Becher loszulassen. »Sie sind eine Minute zu früh.« Sie ging zur Tür. Vesper hörte sie öffnen, hörte Alphinas Stimme im Flur, dann Sorels. Er drehte den Schachturm einmal in der Tasche, kalt wie immer, und stand auf.
+Auf der Treppe kamen Schritte hoch, leicht und schwerer ineinander. Maren stand auf, ohne den Becher loszulassen. »Sie sind eine Minute zu früh.« Sie ging zur Tür. Vesper hörte sie öffnen, Alphinas Stimme im Flur, dann Sorels. Er drehte den Schachturm einmal in der Tasche, kalt wie immer, und stand auf.
 
 Alphina trat als Erste ein, Sorel hinter ihr. Sie hatte das Notizbuch schon in der Hand, Sorel die Plattenmappe unter dem Arm. Sorels Hände waren entspannt, der Mantel sauber; er wirkte ruhiger als gestern am Rathausplatz.
 
