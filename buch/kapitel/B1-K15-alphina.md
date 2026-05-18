@@ -92,25 +92,25 @@ Dann war sie verschwunden.
 
 Alphina blieb auf der Bank sitzen. Hinter dem Treibhaus klickte Henriks Schere, und der Nebel hatte sich seit Stunden nicht bewegt. Er lag schwer über dem Garten, reglos und dicht, als würde er auf etwas warten.
 
-Erst als das Tor hinter Runa metallisch ins Schloss fiel, erschien die große Gestalt am Rand des Gartens.
+Erst als das Tor hinter Runa metallisch ins Schloss fiel, trat die große Gestalt zwischen die Hortensien.
 
-Sie stand dreißig Schritte entfernt zwischen den Hortensien, dort, wo der Nebel die Konturen der Welt verschluckte. Die Schultern waren nach vorne gebeugt, die Ränder des Körpers zerfaserten rauchend im Grau. Zwei kleinere Wesen kauerten reglos zwischen den Pflanzkübeln.
+Sie stand dreißig Schritte entfernt, dort, wo der Nebel die Konturen der Welt verschluckte. Schultern nach vorne gebeugt, die Ränder des Körpers zerfaserten rauchend im Grau. Zwei kleinere Wesen kauerten reglos zwischen den Pflanzkübeln.
 
-Alphina sah sie nicht direkt an. Sie hatte gelernt, dass sie verschwanden, sobald man sie zu lange musterte. Also hielt sie ihren Blick knapp daneben und beobachtete nur die Konturen.
+Alphina hielt den Blick knapp daneben. Sie hatte gelernt, dass die Gestalten verschwanden, sobald man sie zu lange musterte.
 
-Sie waren tagsüber hier.
+Am fünften Nebeltag, am hellichten Vormittag.
 
-Am fünften Nebeltag.
+Die große drehte langsam den Kopf zu ihr, als würde etwas unter Wasser reagieren. Das Warten galt ihr.
 
-Die große Gestalt drehte langsam den Kopf zu ihr. Die Bewegung war träge, aber nicht müde. Eher so, als würde etwas unter Wasser reagieren.
+Unter Alphinas Knien wuchs in einem Atemzug eine Wurzelschicht durch die Erde, die sie nicht gewollt hatte; drei Wedel im Lavendelbeet schlugen aus den Stängeln nach oben, einer streifte ihren Unterarm und zog dort einen feinen roten Strich quer über die Innenseite des Handgelenks. Sie schloss die Hand um den Schnitt. Das Blut schmeckte nach Erde.
 
-Und plötzlich wusste Alphina, dass dieses Warten ihr galt.
+Die große Gestalt war fort, als sie wieder aufschaute. Die zwei kleinen ebenso.
 
 Runa hatte auf den Boden gezeigt.
 
 Der Mittelpunkt sah sie an.
 
-Alphina stand auf. Das rechte Knie schmerzte kurz, als sie die Schere wieder aufhob und zu den Lavendelreihen zurückkehrte. Sie grub die Hände in die Erde.
+Alphina stand auf. Das rechte Knie schmerzte. Sie wickelte das Halstuch um den Schnitt, eng, einmal doppelt, und ging zu den Lavendelreihen zurück; der Stoff färbte sich, bevor sie den ersten Stängel in die Hand nahm.
 
 ---
 
@@ -162,7 +162,7 @@ Sie ging den Steg zurück, nicht hastig, nicht langsam. Die Dielen gaben unter i
 
 Hinter ihr folgte kein Schritt. Kein Ruf. Nur der Nebel.
 
-Als ihre Finger das Geländer streiften, spürte sie ein feines Ziehen in den Sehnen ihrer Hand. Sie musste die Farne nicht sehen, um zu wissen, dass sie sich ihr nachdrehten.
+Als ihre Finger das Geländer streiften, zog es fein in der Innenseite ihres Handgelenks. Sie musste die Farne nicht sehen, um zu wissen, dass sie sich ihr nachdrehten.
 
 An der Hafenmauer blieb sie stehen und legte beide Hände gegen den feuchten Purpurstein. Das Gestein war kühl und rau unter ihren Fingern, und sie konzentrierte sich auf die Fugen, auf die Härte des Materials, auf alles, was eindeutig und wirklich war.
 
@@ -204,11 +204,7 @@ Direkt vor ihr.
 
 Der süße Geruch war plötzlich stärker, dichter, so nah, dass er auf der Zunge lag. Das Licht der Gaslampe fiel durch ihren Körper hindurch und brach an den Rändern wie an Rauch. Die Proportionen wirkten menschlich, Schultern, Arme, Kopf, und gerade deshalb blieb Alphinas Atem in der Brust stecken.
 
-Die schwarzen Augen waren das Schlimmste.
-
-Nicht leer.
-
-Anwesend.
+Die schwarzen Augen waren das Schlimmste. Nicht leer. Wach.
 
 Feiner Nebel stieg von den Rändern der Gestalt auf und löste sich in der Luft auf, bevor er die Dächer erreichte.
 
@@ -224,7 +220,7 @@ Nicht wie ein Reflex.
 
 Wie eine Frage.
 
-Kälte breitete sich in Alphinas Brust aus und kroch weiter in ihre Schultern und ihren Nacken. Ihre Hände zitterten leicht, während sie den Mantelstoff umklammerte.
+Etwas zog ihr den Atem aus den Rippen, schneller als sie nachgeben wollte. Sie schob die Hände in die Manteltaschen, weil sie sah, dass die rechte zitterte, und weil Sehen es schlimmer machte.
 
 Die Gestalt wartete. Lange.
 
@@ -232,7 +228,7 @@ Dann begann sie sich aufzulösen.
 
 Zuerst zerfaserten die Schultern, dann die Arme, schließlich der Kopf mit den schwarzen Augen. Langsam nahm der Nebel sie zurück, bis nur noch das nasse Pflaster unter der Gaslampe übrig blieb. Nichts an dem Stein verriet, dass etwas dort gewesen war: kein Abdruck, kein Geruch, kein Nachbild.
 
-Alphina stand reglos. Irgendwann hörten ihre Hände auf zu zittern.
+Sie hatte die Hand gegen die Hauswand gelehnt. Im Putz unter den Fingern hatte sich ein feiner Riss geöffnet, aus dem ein einzelner grüner Trieb ragte. Sie zog die Hand weg. Der Trieb blieb stehen.
 
 Die zwei kleinen Wesen auf den Dächern waren noch da. Ihre gelben Augen ruhten nicht auf der Stelle, an der die große Gestalt verschwunden war.
 
@@ -241,8 +237,6 @@ Sondern auf ihr.
 Die Luft roch nach Seepech, feuchtem Stein und diesem süßen Geruch ohne Namen, der sich wie ein unsichtbarer Faden durch die Gassen zog.
 
 Schließlich ging Alphina weiter, langsam, weil ihr rechtes Knie schmerzte und weil alles Schnellere sich falsch angefühlt hätte. An der nächsten Kreuzung stand ein Mann mit einem Hund unter einer Lampe. Aus einem offenen Fenster drang gedämpftes Lachen.
-
-Die Welt war zurück.
 
 Im Anker war es still. Die Treppe knarrte unter ihren Schritten, und im Flur brannte eine einzelne Kerze. Vespers Tür blieb dunkel.
 
