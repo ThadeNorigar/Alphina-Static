@@ -52,7 +52,9 @@ Die erste Schraube setzte er oben rechts an. Der Schraubenzieher war größer al
 
 Maren stand hinter ihm und sah auf seine Hände, obwohl sie es nicht wollte. Dieselben breiten Fingerkuppen wie vor zwei Tagen, dieselbe Narbe am rechten Knöchel, dieselbe ruhige Genauigkeit. Etwas unter ihrem Rippenbogen wurde still. Ihre eigenen Finger lagen auf der Leiterstufe neben ihr, fest, ohne Bewegung.
 
-Unten rechts. Unten links. Erst danach zog er alle vier ein zweites Mal nach, in derselben Reihenfolge und jeweils nur um eine Vierteldrehung, damit die Halterung sich nicht verzog.
+Unten rechts. Unten links.
+
+Beim Nachjustieren verlangsamte sich sein Tempo. Eine Vierteldrehung, dann eine Pause, dann die nächste. Maren wusste nicht, ob ihr Atem deshalb flacher wurde oder ob er deshalb langsamer wurde. Ihre Mitte zog einmal hart, unterhalb des Nabels, und die Adernläufe unter den Daumenballen wurden warm.
 
 Als er die letzte Schraube prüfte, blieb seine Hand einen Herzschlag zu lange am Messing. Sein Atem ging einmal tiefer, dann setzte er das Werkzeug weg.
 
@@ -108,9 +110,13 @@ Maren holte zwei schwere Steingutbecher und füllte sie mit dem Krug aus dem Eim
 
 Seinen Becher stellte sie auf das Tuch neben ihn. Den eigenen behielt sie in der Hand und setzte sich auf die zweite Kiste neben der Werkbank.
 
-Vesper betrachtete den Becher vor sich. Das Wasser ruhte klar und kalt, das Teeblatt lag reglos am Grund.
+Zwischen ihnen lag jetzt ein Schritt. Sie sah ihn nicht an, weil sie wusste, was passieren würde, wenn sie ihn ansah. Die Wärme unter ihren Rippen, die seit der Kajüte stand, lief jetzt tiefer und wurde breiter. Ihre Handgelenke innen waren warm, das Steingut in der Hand fast unangenehm dort, wo es ihre Adern berührte. Sie hielt den Becher gerade noch ruhig.
 
-Das Wasser in seinem Becher bewegte sich zuerst. Eine kleine Drehung, gegen den Uhrzeigersinn, das Blatt hob sich vom Grund und drehte sich langsam, als hätte eine Hand darunter gerührt, die keinen Löffel brauchte. Maren spürte den Moment nicht in den Händen, sondern dort, wo sein Blick sie traf. Die Wärme kam unter ihren Rippen zuerst, breitete sich tiefer aus und lief von dort in ihre Handgelenke hinunter, bis das Steingut warm an den Fingerkuppen wurde.
+Vespers Blick fiel auf seinen Becher, bevor er den nächsten Atemzug nahm.
+
+Das Wasser bewegte sich. Eine kleine Drehung, gegen den Uhrzeigersinn, das Blatt hob sich vom Grund und drehte sich langsam.
+
+Maren sah es erst, als Vesper aufschaute und ihren Becher ansah. In ihrem ruhte das Blatt nicht mehr am Grund; auch hier zog der Tee gegen den Uhrzeigersinn. Sie hatte nichts getan.
 
 Der Strudel hielt, zwanzig Sekunden, dreißig. Dann erst kamen die ersten Dämpffäden, dünn, kaum zu sehen, aus einer Oberfläche, die kalt gewesen war.
 
