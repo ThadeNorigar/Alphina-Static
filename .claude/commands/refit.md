@@ -588,7 +588,7 @@ Im Plot-Lock fuer K01 **zusaetzlich** ein Abschnitt "Oeffnungs-Gate" mit:
 - Erster Kipp-Moment: wo?
 - Erster Koerper-Marker: wo?
 
-Ein `/book-council`-Durchlauf auf den Opening-Entwurf ist **empfohlen** vor `/ausarbeitung`.
+Ein `/szene-council`-Durchlauf auf den Opening-Entwurf ist **empfohlen** vor `/ausarbeitung`.
 
 ## Sonderfall: POV ohne Voice-Anker (Maren)
 

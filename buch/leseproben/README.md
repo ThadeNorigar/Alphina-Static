@@ -58,7 +58,7 @@ canon_status: Ton-Etüde, nicht Plot-Canon
 
 ## Commercial-Mindeststandards (95%-Gate)
 
-**Jede Probe muss das 95%-Gate aus `00-positioning.md` Abschnitt 9 passieren.** Leserinnen-Test verpflichtend via `/book-council` vor Commit. Die vier Pflichten:
+**Jede Probe muss das 95%-Gate aus `00-positioning.md` Abschnitt 9 passieren.** Leserinnen-Test verpflichtend via `/szene-council` vor Commit. Die vier Pflichten:
 
 1. Erster Satz ist Hook (Figur in Situation mit Spannung, nicht Atmosphäre)
 2. Figur will etwas, deutlich
@@ -72,7 +72,7 @@ canon_status: Ton-Etüde, nicht Plot-Canon
 
 ## Anwendung in Skills
 
-- **`/book-council`**: **Pflicht-Check** für jede neue Probe. Fünf Ziel-Leserinnen-Archetypen (LINA/NORA/MEIKE/VICTORIA/KAYA) bewerten die Commercial-Marktfähigkeit.
+- **`/szene-council`**: **Pflicht-Check** für jede neue Probe. Fünf Ziel-Leserinnen-Archetypen (LINA/NORA/MEIKE/VICTORIA/KAYA) bewerten die Commercial-Marktfähigkeit.
 - **`/entwurf`**: Probe zum Szenen-Typ laden als Ton-Referenz.
 - **`/ausarbeitung`**: Primär-Probe + ggf. Ergänzungs-Probe laden. Ersetzt das "letzte fertige Kapitel derselben POV-Figur" nicht, sondern ergänzt.
 - **`/stil-check`**: Findings gegen die Probe für den Szenen-Typ messen.

@@ -168,7 +168,7 @@ Jede Prosa-Passage (Leseprobe, Szenen-Eröffnung, Kapitel-Anfang) muss bei **95%
 
 ### Fünf-Leserinnen-Council
 
-Fünf idealtypische Zielgruppen-Leserinnen als Test-Gremium: **LINA** (Romantasy/Yarros-Maas), **NORA** (Dark Romance/Robert-Kennedy), **MEIKE** (Dark Fantasy/Black-Maas-Kuang), **VICTORIA** (BDSM/Réage-Reisz), **KAYA** (Dystopie/Kuang-SenLinYu-Pierce Brown). Volle Profile im Command `/book-council`. **Pflicht** für alle Leseproben, **empfohlen** für Kapitel-Eröffnungen und umstrittene Passagen.
+Fünf idealtypische Zielgruppen-Leserinnen als Test-Gremium: **LINA** (Romantasy/Yarros-Maas), **NORA** (Dark Romance/Robert-Kennedy), **MEIKE** (Dark Fantasy/Black-Maas-Kuang), **VICTORIA** (BDSM/Réage-Reisz), **KAYA** (Dystopie/Kuang-SenLinYu-Pierce Brown). Volle Profile im Command `/szene-council`. **Pflicht** für alle Leseproben, **empfohlen** für Kapitel-Eröffnungen und umstrittene Passagen.
 
 ### Was disqualifiziert (hartes Raster)
 

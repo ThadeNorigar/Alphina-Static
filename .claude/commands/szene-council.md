@@ -1,4 +1,4 @@
-# /book-council — Commercial-Council mit fünf Leserinnen-Archetypen
+# /szene-council — Commercial-Council mit fünf Leserinnen-Archetypen
 
 Reviewe eine Leseprobe, Szene oder Kapitel-Eröffnung gegen das **95%-Commercial-Gate** aus `buch/00-positioning.md` Abschnitt 9. Fünf Ziel-Leserinnen-Archetypen lesen, urteilen in-character, bepunkten die Marktfähigkeit im Genre.
 
@@ -103,7 +103,7 @@ Liste konkret, satzgenau, mit Begründung welche Stimme das forderte. Format:
 ## Output-Format
 
 ```
-## /book-council — {Dateiname}
+## /szene-council — {Dateiname}
 
 ### Phase 1: Pflichten-Test (erste 200 Wörter)
 1. Hook erste Zeile: erfüllt / knapp / nicht erfüllt

@@ -115,7 +115,7 @@ Diese Spec ist **verbindlich** für:
 - `/ausarbeitung` (Phase 2 — Master-Tabelle nach Subagenten-Lauf) — Inline-Definition zusätzlich, hier kanonisch
 - `/stil-check` — Findings-Liste
 - `/council` — pro Agent eine Findings-Liste + Synthese
-- `/book-council` — pro Leserinnen-Archetyp eine Findings-Liste + Synthese
+- `/szene-council` — pro Leserinnen-Archetyp eine Findings-Liste + Synthese
 - `/lektorat-fix` — Mikro-Fixes mit Kontext (Sweep-Format erlaubt)
 - `/lektorat-online` — Online-Kommentare mit Vorher/Nachher
 - `/figuren-check` — Konsistenz-Findings

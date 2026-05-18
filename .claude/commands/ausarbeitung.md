@@ -97,7 +97,7 @@ Das Script liefert auf stdout (~2k Tokens): Kapitel-Info, Nachbar-Kapitel, aktue
    - POV aus dem Kontext-Output ablesen. Vorheriges Kapitel mit gleichem POV und Status `final` ermitteln.
    - Beispiel fuer Vesper-K12: `buch/kapitel/B1-K07-vesper.md` oder neueres Vesper-Kapitel.
 9. **Ton-Referenz-Leseproben aus dem Entwurfs-Header** — VOLLE Texte. Aus dem Entwurfs-Header (Feld „Ton-Referenz-Leseproben (fuer /ausarbeitung)") die 1-3 festgelegten Leseproben volle lesen. Diese Proben sind **Ton-Vorlage** fuer die Ausarbeitung — Satzrhythmus, Koerperbeats, Heat-Pacing, Dialog-Mikro-Beats. Nicht Plot-Vorlage. Falls das Feld im Entwurf fehlt: zurueck zu `/entwurf` und Feld nachtragen, bevor Ausarbeitung startet.
-10. **Council-Leserinnen-Profile** — kurz lesen, NICHT volle Datei. Aus dem Entwurfs-Header (Feld „Council-Leserinnen fuer /ausarbeitung") die 2-3 festgelegten Stimmen entnehmen. Profile in `.claude/commands/book-council.md` Abschnitt „Die fuenf Stimmen" — nur die festgelegten Stimmen lesen (Regal, Erwartet, Schaltet ab bei, Persoenlichkeit). Diese Stimmen werden im Mini-Council pro Absatz aktiv (Phase 2).
+10. **Council-Leserinnen-Profile** — kurz lesen, NICHT volle Datei. Aus dem Entwurfs-Header (Feld „Council-Leserinnen fuer /ausarbeitung") die 2-3 festgelegten Stimmen entnehmen. Profile in `.claude/commands/szene-council.md` Abschnitt „Die fuenf Stimmen" — nur die festgelegten Stimmen lesen (Regal, Erwartet, Schaltet ab bei, Persoenlichkeit). Diese Stimmen werden im Mini-Council pro Absatz aktiv (Phase 2).
 
 **NICHT laden:**
 - `buch/zeitleiste.json` — NICHT DIREKT LADEN. Kontext-Extraktor liefert die relevanten Events
@@ -360,7 +360,7 @@ Voice-Exemplars und Pre-Check-Liste bleiben gültig.
 
 **1. Council-Damen-Stimmen (ZUERST, je 1–2 Saetze in-character):**
 
-Aus Phase 1.5 festgelegte 2–3 Stimmen einnehmen — in-character, nicht neutral. Profile in `.claude/commands/book-council.md`.
+Aus Phase 1.5 festgelegte 2–3 Stimmen einnehmen — in-character, nicht neutral. Profile in `.claude/commands/szene-council.md`.
 
 - **LINA** (Romantasy, Yarros/Maas/Rampling): *Brennt es? Ist der Slow-Burn-Beat spuerbar? Bricht der Koerper vor dem Kopf? Wuerde ich beim ersten Satz weiterlesen?*
 - **NORA** (Dark Romance, Robert/Kennedy/Simone): *Wo ist die Schaerfe? Kaempft die Figur oder ertraegt sie nur? Ist die Dynamik morally grey? Reibung im Dialog?*
@@ -626,9 +626,9 @@ Max 800 Token.
 ### Subagent 4 — Genre-Leserin
 
 **Modell:** sonnet
-**Input:** Block-Text + `buch/00-positioning.md` Sektion 9 (95%-Gate) + `buch/pov/{figur}-schreibblatt.md` Sektion 4 (Adult-Heat-Stellen) + Stimmen-Profil aus `book-council.md`
+**Input:** Block-Text + `buch/00-positioning.md` Sektion 9 (95%-Gate) + `buch/pov/{figur}-schreibblatt.md` Sektion 4 (Adult-Heat-Stellen) + Stimmen-Profil aus `szene-council.md`
 
-**Welche Stimme:** Pre-Check pro Kapitel festgelegt (LINA/NORA/MEIKE/VICTORIA/KAYA — siehe `book-council.md`). Pro Block ggf. Stimmen-Wechsel falls Inhalt sich aendert (Heat-Block → VICTORIA, Schock-Block → KAYA, etc.).
+**Welche Stimme:** Pre-Check pro Kapitel festgelegt (LINA/NORA/MEIKE/VICTORIA/KAYA — siehe `szene-council.md`). Pro Block ggf. Stimmen-Wechsel falls Inhalt sich aendert (Heat-Block → VICTORIA, Schock-Block → KAYA, etc.).
 
 **Prompt-Template:**
 ```
@@ -642,7 +642,7 @@ POV-Figur: {POV}, Heat-Level: {HEAT_LEVEL}, Block-Funktion: {BLOCK_FUNKTION}
 Lies:
 - buch/00-positioning.md Sektion 9 (95%-Gate)
 - buch/pov/{POV}-schreibblatt.md Sektion 4 (Adult-Heat-Stellen-Liste)
-- Dein eigenes Profil in .claude/commands/book-council.md
+- Dein eigenes Profil in .claude/commands/szene-council.md
 
 Pruefe als Genre-Leserin:
 

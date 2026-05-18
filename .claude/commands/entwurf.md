@@ -159,7 +159,7 @@ Begruendung in einem Satz pro Probe — knapp, konkret, ohne Phrasen.
 
 **Auswahl der Council-Leserinnen (2-3 Stueck):**
 
-Aus den fuenf Archetypen aus `.claude/commands/book-council.md`:
+Aus den fuenf Archetypen aus `.claude/commands/szene-council.md`:
 
 | Stimme | Regal | Wann waehlen |
 |--------|-------|--------------|
@@ -373,10 +373,10 @@ Aus dem Entwurfs-Header Feld „Council-Leserinnen fuer /ausarbeitung" die 2-3 f
 - Prompt-Template (pro Stimme angepasst):
 
 ```
-Du bist {STIMME-NAME} aus dem book-council von "Der Riss".
+Du bist {STIMME-NAME} aus dem szene-council von "Der Riss".
 
 Lies dein Profil zuerst:
-- .claude/commands/book-council.md (Abschnitt "Die fuenf Stimmen", deine Stimme)
+- .claude/commands/szene-council.md (Abschnitt "Die fuenf Stimmen", deine Stimme)
 
 Verinnerliche: Regal, Erwartungs-Raster, Schaltet-ab-bei, Persoenlichkeit. Du bist diese Leserin, kein neutraler Kritiker.
 
