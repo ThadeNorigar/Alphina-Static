@@ -6,7 +6,7 @@ Halvard war vor einer Stunde mit dem Karren weggefahren. Joran lag darin, unter 
 
 Vier Brandstellen aus der letzten Nacht zeichneten sich noch ab. Heute morgen hatte Maren den Arm um sie gehalten, und sie hatte weggesehen. Jetzt sah sie hin.
 
-Maren hatte bleiben wollen, Alphina ebenso. Vesper hatte den Mantel anbehalten. Er würde gehen, wenn sie es sagte. Sie hatte es gesagt. *Geht alle nach Hause.* Sorel hatte den Kopf gehoben und sie angesehen, als wollte er fragen. Sie hatte nicht geantwortet. Maren war zuletzt durch die Tür gegangen und hatte noch einen Blick über die Schulter geworfen. Runa hatte den Riegel vorgelegt. Das Klacken des Eisens hallte. Ihre Hand am Riegel war wärmer als das Eisen unter ihren Fingern.
+Maren hatte bleiben wollen, Alphina ebenso. Vesper hatte den Mantel anbehalten. Er würde gehen, wenn sie es sagte. Sie hatte es gesagt. *Geht alle nach Hause.* Sorel hatte den Kopf gehoben und sie angesehen, als wollte er fragen. Seine Hand ruhte am Riemen der Kameratasche, ein Schritt enger an Alphina als beim Eintreten. Sie hatte nicht geantwortet. Maren war zuletzt durch die Tür gegangen und hatte noch einen Blick über die Schulter geworfen. Runa hatte den Riegel vorgelegt. Das Klacken des Eisens hallte. Ihre Hand am Riegel war wärmer als das Eisen unter ihren Fingern.
 
 Die Wunde an ihrer Augenbraue zog. Halvard hatte einen Streifen Leinen darübergelegt; sie hatte sich die Stelle nicht angesehen.
 
