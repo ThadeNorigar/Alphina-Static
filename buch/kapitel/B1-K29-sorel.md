@@ -75,11 +75,11 @@ Er räumte nicht auf.
 
 Die ausgepusteten Kerzen blieben liegen, das Bleiglas-Prisma neben ihnen. Die Werkzeugrolle blieb in der Holzkiste unter der Werkbank. Nur die Schiefertafel und die Lupe nahm er mit, in die Innentaschen seines Mantels. Die Plattenkamera ließ er unter ihrem Tuch in der Ecke.
 
-Er pustete die linke Lampe aus. Seine Reserve war heute am Ende. Die rechte Lampe ließ er brennen, falls er morgen zurückkam, oder ein anderer. Er nahm den Mantel vom Stuhl und zog ihn an. Der Mantel war eine Nummer zu weit, wie immer; seine Hände fanden die Innentaschen ohne Hinsehen: Tafel rechts, Lupe links.
+Er pustete die linke Lampe aus. Seine Reserve war heute am Ende. Die rechte Lampe ließ er brennen, falls er morgen zurückkam, oder ein anderer. Er nahm den Mantel vom Stuhl und zog ihn an. Der Mantel war eine Nummer zu weit, wie immer; seine Hände fanden die Innentaschen ohne Hinsehen: Tafel rechts, Lupe links. Er zog die Riegel der Tafel nach, einmal, zweimal, obwohl sie saßen; die Finger wollten etwas zu tun haben, das nicht der Weg zu ihr war.
 
 Er ging die Treppe hoch. Im Lichthaus war es still; die Wirtin schlief schon seit zwei Stunden, ihr Mann war seit zwei Wochen auf Tour. Im Erdgeschoss waren die Schieferstufen vor der Eingangstür feucht von der späten Luft. Er schloss von außen ab, prüfte das Schloss zweimal, und wusste, dass es nichts half. Maren hatte vor Wochen erzählt, das Wesen in ihrer Werft sei durch das geschlossene Tor gegangen; die Bohlen hatten es nicht aufgehalten.
 
-In der Hafengasse stand dünner Dunst über dem Pflaster, und der süße Rauch aus der Südost-Stadt mischte sich mit dem Salz vom Hafen, schwerer heute Nacht als an den Vorabenden. Eine Patrouille zog zwei Querstraßen weiter ihre Runde; das Klappern der Säbelscheiden drang bis zu ihm. Er nahm den langen Weg zu Alphinas Unterkunft: die Straßen mit Lampen an den Hauswänden, die Häuser mit offenen Fenstern, die Gassen, in denen er bei einem Schritt rückwärts noch jemanden sehen würde.
+In der Hafengasse stand dünner Dunst über dem Pflaster, und der süße Rauch aus der Südost-Stadt mischte sich mit dem Salz vom Hafen, schwerer heute Nacht als an den Vorabenden. Eine Patrouille zog zwei Querstraßen weiter ihre Runde; das Klappern der Säbelscheiden drang bis zu ihm. Zwischen den Schritten kam ihm die Stelle hinter ihrem Knie wieder, die Linie zum Schenkel, ohne dass er sie gerufen hätte; er trug das Bild ein paar Schritte mit, dann legte er es weg. Er nahm den langen Weg zu Alphinas Unterkunft: die Straßen mit Lampen an den Hauswänden, die Häuser mit offenen Fenstern, die Gassen, in denen er bei einem Schritt rückwärts noch jemanden sehen würde.
 
 Vor Alphinas Tür hielt er an. Die Luft kam flach, dann zu schnell. Seine Hand stockte einen Atemzug, bevor sie das Holz berührte.
 
@@ -91,7 +91,7 @@ Sie öffnete schneller, als er gerechnet hatte. Sie sah ihn an. Er stand still, 
 
 Sie hängte seinen Mantel an den Haken im Flur. Seine Hände suchten die Manteltaschen, Tafel, Lupe, dann den Hosenstoff am rechten Oberschenkel. Die Werkzeugrolle war nicht da. Er ließ die Hände fallen.
 
-Er folgte ihr in ihr Schlafzimmer. Das Bett war kalt; sie hatte nicht geschlafen. Er legte sich an ihre Seite, in Hose und Hemd; die Schuhe stellte er an die Bettkante. Sie nahm seine Hand. Sie fragte nicht.
+Er folgte ihr in ihr Schlafzimmer. Das Bett war kalt; sie hatte nicht geschlafen. Er legte sich an ihre Seite, in Hose und Hemd; die Schuhe stellte er an die Bettkante. Sie nahm seine Hand. Die Wärme ihrer Handfläche legte sich auf seine Knöchel, und im Bauch zog es nach unten, schwer und unpassend zur Stunde. Sie fragte nicht.
 
 Er drehte den Kopf zur Tür. Seine Schultern lagen hoch und blieben es. Sie hielt ihre Hand auf seinem Hemd, am Brustbein, sagte nichts. Dann löschte sie das Licht.
 
