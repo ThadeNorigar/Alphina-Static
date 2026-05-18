@@ -76,11 +76,11 @@ Alphina sah die Geste, noch bevor er sprach.
 
 Die Worte waren leise und vollständig. Ihre Finger schlossen sich einen Moment lang, ohne dass sie es merkte.
 
-Sie hatte ihn nie fragen hören, nicht bei ihr. Vor einigen Wochen hatte sie selbst nach seiner Hand gegriffen und ihn mit sich gezogen, ohne zu fragen, weil seine Nähe sich damals selbstverständlich angefühlt hatte und weil er ihr gefolgt war. Jetzt gab er ihr diese Bewegung zurück, als Wahl. Die offene Hand zwischen ihnen war ein Angebot, kein Griff, ruhig genug, dass sie es ablehnen konnte.
+Sie hatte ihn nie fragen hören, nicht bei ihr. Vor einigen Wochen hatte sie selbst nach seiner Hand gegriffen und ihn mit sich gezogen, ohne zu fragen, weil seine Nähe sich damals selbstverständlich angefühlt hatte und weil er ihr gefolgt war. Jetzt gab er ihr diese Bewegung zurück, als Wahl. Die offene Hand zwischen ihnen war ein Angebot, kein Griff, ruhig genug, dass sie es ablehnen konnte. Dass er warten konnte, ließ ihre Handflächen warm werden.
 
 Sorels Blick blieb auf ihr liegen, unbewegt. Hinter den Linden lag die Nacht still. Draußen raschelte erneut etwas im Dunkel des Gartens, doch zwischen ihnen wartete nur diese eine offene Hand auf ihre Antwort.
 
-Alphina legte ihre Hand in seine, langsam genug, dass sie die Bewegung selbst spürte, ohne jedes Zögern darin. Ihre Handfläche traf auf seine, und erst einen Augenblick später schlossen sich seine Finger um ihre. Die Wärme aus dem Boden hatte sich längst durch ihre Sohlen bis in die Fersen gezogen, dumpf und gleichmäßig, doch diese hier war anders, unmittelbarer, lebendig dort, wo seine Haut ihre berührte. Einen Atemzug lang gab es nur diese Berührung zwischen ihnen.
+Alphina legte ihre Hand in seine, langsam genug, dass sie die Bewegung selbst spürte, ohne jedes Zögern darin. Ihre Handfläche traf auf seine, und erst einen Augenblick später schlossen sich seine Finger um ihre. Die Wärme aus dem Boden hatte sich längst durch ihre Sohlen bis in die Fersen gezogen, dumpf und gleichmäßig, doch diese hier war anders, unmittelbarer, lebendig dort, wo seine Haut ihre berührte.
 
 Dann hob Alphina die Hände an, ihre in seiner, und führte sie gegen seinen Mantelaufschlag. Der dunkle Stoff spannte sich leicht unter ihren Fingern, raues Leinen, im Sternlicht fast schwarz. Sorel ließ die Bewegung geschehen und folgte ihrer Hand, als hätte er sich längst dafür entschieden.
 
@@ -92,7 +92,7 @@ Alphina sah die Linie seines Mundes, den Schatten unter seiner Unterlippe. Sein 
 
 Sie lehnte sich vor.
 
-Der Kuss begann langsam. Ihre Lippen fanden seine, weich zuerst, und Sorel erwiderte die Bewegung im selben Augenblick. Sein Mund öffnete sich leicht unter ihrem, gerade genug, dass Wärme zwischen ihnen aufbrach. Alphina schmeckte die Wärme seiner Lippen und den Rest der Nachtluft auf seinem Atem.
+Der Kuss begann langsam. Ihre Lippen fanden seine, weich zuerst, und Sorel erwiderte die Bewegung im selben Augenblick. Sein Mund öffnete sich leicht unter ihrem, gerade genug, dass Wärme zwischen ihnen aufbrach. Alphina schmeckte die Wärme seiner Lippen und die kühle Nachtluft, die noch an ihm hing.
 
 Tief unter ihrem Brustbein löste sich etwas, ein langsames Nachgeben, als hätte ihr Körper eine Spannung getragen, die sie erst bemerkte, als sie verschwand. Ihre Finger schlossen sich fester um den Stoff seines Mantels. Sorels Hand blieb an ihrem Arm, ruhig und beständig, ein gleichmäßiger Druck, der sie hielt, ohne sie festzuhalten.
 
@@ -104,7 +104,7 @@ Der Kreis zwischen den sieben Purpursteinen blieb leer, und dort regte sich nich
 
 Der Gedanke kam ruhig zu ihr, beinahe sanft, während Sorels Mund noch auf ihrem lag: Das Wachstum war ihr eigenes. Es war der Farn vor ihren Augen, und es waren all die kleinen Regungen der letzten Monate, die Triebe in Fensterfugen, die Wedel an Treppenstufen, die Pflanzen, die schneller wuchsen, wenn Müdigkeit ihre Gedanken lockerte oder wenn sie nachts schläfrig die Kontrolle verlor. Sie hatte jedes Zeichen gesehen und fortgewendet, hatte den Bewuchs der Schattenseite der Mauer zugeschrieben, dem vielen Niederschlag im Nebelmond. Jetzt tat sie das nicht mehr.
 
-Ihr Brustkorb weitete sich in einem einzigen langsamen Atemzug. Etwas Namenloses hatte endlich eine Form angenommen.
+Etwas in ihrem Brustkorb gab nach. Etwas Namenloses hatte endlich eine Form angenommen.
 
 Sie löste den Kuss nicht. Sorels Lippen blieben warm auf ihren, ruhig und ohne Forderung, und ihre Finger entspannten sich leicht im Stoff seines Mantels, ohne ihn loszulassen. Um sie herum breitete sich das Farnblattwerk weiter aus, junges Grün, das bis an die Purpursteine reichte und dort innehielt.
 
