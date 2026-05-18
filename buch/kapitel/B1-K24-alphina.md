@@ -10,7 +10,7 @@ Alphina ebenfalls nicht.
 
 Draußen schlug irgendwo eine Tür gegen Stein. Aus dem Hof darunter kam das Geräusch eines Eimers, der über Pflaster gezogen wurde, dann Stimmen, gedämpft durch die Mauern. Zwei Knöchel gegen Holz unterbrachen die Stille im Zimmer, pünktlich auf die halbe Stunde, derselbe ruhige Rhythmus wie an den vergangenen Tagen.
 
-Alphina stellte den Krug zurück und zog sich im Stehen an. Das Leinenhemd glitt kühl über ihre Schultern, der Rock über die Hüften, der Stoff noch schwer von der Morgenluft. Den dunklen Mantel nahm sie von der Lehne neben dem Bett. Während sie die Knöpfe schloss, stand Sorel weiter am Fenster, die Tasse in der Hand, und sah ihr zu, ruhig genug, dass sie den Blick erst bemerkte, als sie bereits unter ihm stand.
+Alphina stellte den Krug zurück und zog sich im Stehen an. Das Leinenhemd glitt kühl über ihre Schultern, der Rock über die Hüften, der Stoff noch schwer von der Morgenluft. Den dunklen Mantel nahm sie von der Lehne neben dem Bett. Während sie die Knöpfe schloss, stand Sorel weiter am Fenster, die Tasse in der Hand, und sah ihr zu. Er trank nicht, solange sie den Mantel schloss. Ihre Finger wurden bei den unteren Knöpfen langsamer, als hätte der Stoff sich verdickt. Sie bemerkte den Blick erst, als sie bereits unter ihm stand.
 
 Im Flur wartete Vesper.
 
@@ -112,7 +112,7 @@ Esther legte die Hand neben Jaras auf den Einband.
 
 Sie schlug das Buch auf.
 
-Das Leder knirschte leise in den Gelenken, die Seiten fächerten sich im Licht der Lampe auf, vergilbt und dicht beschrieben. Alphina bemerkte erst nach einigen Atemzügen, dass ihr Daumen langsam über die Kuppen ihrer anderen Finger strich, einmal nach dem anderen, als müsste ihre Hand etwas prüfen, das ihr Kopf noch nicht benennen konnte.
+Das Leder knirschte leise in den Gelenken, die Seiten fächerten sich im Licht der Lampe auf, vergilbt und dicht beschrieben. Alphina bemerkte erst nach einigen Atemzügen, dass ihr Daumen langsam über die Kuppen ihrer anderen Finger strich, in dem Rhythmus, in dem sie sonst Erde von einer Wurzel rieb. Sorel hatte die rechte Hand an die Tischkante gelegt, Daumen entlang der Fase, die anderen Finger geschlossen. Die Komposition hielt, während Esther sprach.
 
 
 ---
